@@ -1,0 +1,44 @@
+name: Daten-Wächter
+# Prüft jeden Push auf main. Kaputte Datendateien oder Daten-Commits der
+# automatischen Läufe, die andere Dateien als events.js/past.js ändern,
+# werden automatisch zurückgenommen.
+on:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+concurrency:
+  group: guard
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Prüfen
+        id: chk
+        run: |
+          bad=""
+          node --check events.js || bad="events.js ist kein gültiges JavaScript"
+          node --check past.js || bad="${bad:+$bad; }past.js ist kein gültiges JavaScript"
+          if grep -qiE '"[[:space:]]*(javascript|vbscript|data):' events.js past.js; then bad="${bad:+$bad; }unsichere Links in den Daten"; fi
+          msg=$(git log -1 --pretty=%s)
+          if echo "$msg" | grep -qE '^(Daten-Update|Wochenend-Check)'; then
+            other=$(git diff --name-only HEAD~1 HEAD | grep -vE '^(events|past)\.js$' || true)
+            [ -n "$other" ] && bad="${bad:+$bad; }Daten-Commit ändert andere Dateien: $other"
+          fi
+          echo "bad=$bad" >> "$GITHUB_OUTPUT"
+          [ -z "$bad" ] && echo "Alles in Ordnung." || echo "::error::$bad"
+      - name: Zurücknehmen
+        if: steps.chk.outputs.bad != ''
+        run: |
+          git config user.name "rave.wien Wächter"
+          git config user.email "ravewien@users.noreply.github.com"
+          git revert --no-edit HEAD
+          git push origin HEAD:main
+          exit 1
