@@ -392,6 +392,17 @@ iframe.mc{width:100%;height:60px;border:0;margin-bottom:6px}
 .cbtns{display:flex;gap:6px}
 .cbtns .close,.cbtns .favbtn{position:static}
 .ehead{display:grid;grid-template-columns:minmax(0,1fr) 104px;margin:0 -16px;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.ehead.hasfly{position:relative;overflow:hidden;isolation:isolate}
+.ehead .flybg{position:absolute;inset:-24px;z-index:-2;pointer-events:none}
+.ehead .flybg img{width:100%;height:100%;object-fit:cover;filter:blur(14px) saturate(1.3);opacity:.75}
+.ehead.hasfly::after{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;background:linear-gradient(90deg,rgba(19,21,25,.88),rgba(19,21,25,.62))}
+.ehead .flybtn{position:absolute;right:112px;bottom:10px;z-index:2;font-family:var(--f-mono);font-weight:700;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--fg);background:rgba(0,0,0,.55);border:1px solid rgba(255,255,255,.22);border-radius:3px;padding:4px 8px;cursor:zoom-in}
+.ehead .flybtn:hover{border-color:var(--fg)}
+.flybox{position:fixed;inset:0;z-index:220;background:rgba(0,0,0,.88);display:grid;place-items:center;padding:16px;cursor:zoom-out}
+.flybox[hidden]{display:none}
+.flybox img{max-width:100%;max-height:calc(100vh - 80px);object-fit:contain;border-radius:4px;box-shadow:0 20px 60px rgba(0,0,0,.8)}
+.flybox .fx{position:absolute;top:14px;right:14px;width:36px;height:36px;border-radius:4px;border:1px solid rgba(255,255,255,.3);background:rgba(0,0,0,.5);color:#fff;font-size:20px}
+.flybox a{position:absolute;bottom:14px;left:50%;transform:translateX(-50%);color:#cfd5de;font-size:12px}
 .emain{display:flex;flex-direction:column;gap:7px;padding:12px 14px 14px 16px;min-width:0}
 .ehead .head{display:flex;justify-content:space-between;gap:8px;align-items:baseline}
 .deck .ehead h2{margin:0;padding:0;font-size:clamp(20px,6.2vw,26px);overflow-wrap:break-word;hyphens:auto;min-width:0}
@@ -722,6 +733,7 @@ footer a:hover{color:var(--accent)}
 
 <div class="dscrim" id="dscrim" hidden></div>
 <div class="dock" id="dock" hidden></div>
+<div class="flybox" id="flybox" hidden></div>
 <div class="cbanner" id="cbanner" role="region" aria-label="Cookies" hidden></div>
 <div class="legal" id="legal" hidden></div>
 <button class="stackx" id="stackx" type="button" hidden></button>
@@ -1432,8 +1444,9 @@ function renderEv(dk,id){
   const vf=e.loc&&e.org?l.rBoth:e.loc?l.rLoc:e.org?l.rOrg:"";
   const addr=V[e.venue]&&V[e.venue]!=="TBA"?V[e.venue]:"";
   const pm=e.price?String(e.price).split(/\s+[·|\/]\s+|,\s+/):[];
+  const fimg=isImg(e.flyer)&&coversOn();
   dk.innerHTML=`<div class="ctop"><span class="akind">${l.evKind}</span><span class="cbtns">${favBtn("e",e.id)}<button class="close" data-close aria-label="${l.close}">×</button></span></div>
-    <div class="ehead"><div class="emain">
+    <div class="ehead${fimg?" hasfly":""}">${fimg?`<span class="flybg" aria-hidden="true"><img src="${esc(e.flyer)}" alt="" loading="lazy" referrerpolicy="no-referrer"></span><button type="button" class="flybtn" data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}">⤢ Flyer</button>`:""}<div class="emain">
       <div class="head"><h2>${esc(e.title)}</h2>${vchk(e)}</div>
       <div class="tags"><button class="tag ve" data-venue="${esc(e.venue)}">${IPIN}${esc(e.venue)}</button>${e.coll.map(c=>`<button class="tag co" data-coll="${esc(c)}">${ICOL}${esc(c)}</button>`).join("")}</div>
       ${addr?`<a class="addr" href="${maps(e)}" target="_blank" rel="noopener" title="${l.maps}">${esc(addr)} ↗</a>`:""}
@@ -1445,7 +1458,7 @@ function renderEv(dk,id){
     <div><h3>${hasTimes?l.timetable:l.lineup}</h3>${e.sound&&!anyFloorSound?`<div class="sndline"><span class="sndk">SOUND</span>${esc(sfl?Object.values(sfl).map(x=>x[st.lang]||x.de).join(" · "):(e.sound[st.lang]||e.sound.de))}</div>`:""}${pads}</div>
     <div class="src">${vf?`<span style="color:var(--accent)">${e.loc&&e.org?"✓✓":"✓"}</span> ${esc(vf)}<br>`:""}${!e.conf?esc(l.rSingle+" "+e.src.map(s=>S[s[0]]).filter((v,i,a)=>a.indexOf(v)===i).join(", ")+". "+l.rCheck)+"<br>":""}${viaRules.length?"* "+esc(viaRules.join(" · "))+"<br>":""}${e.typGenres.length?"* "+esc(l.typ)+"<br>":""}${e.sound&&e.sound.src?`<span class="sndk">SOUND</span><a href="${esc(su(e.sound.src))}" target="_blank" rel="noopener">${esc(e.sound.src.split("/")[2].replace(/^www\./,""))}</a><br>`:""}${l.source}: ${e.src.map(([k,u])=>`<a href="${esc(su(u))}" target="_blank" rel="noopener">${S[k]}</a>`).join(" · ")}</div>
     <div class="sharebox" hidden><input class="shareurl" readonly value="${shareURL(e)}" aria-label="Link"><span class="sharemsg"></span></div>
-    <div class="cbar"><div class="calbox" hidden><a href="${esc(su(gcalURL(e)))}" target="_blank" rel="noopener">Google ${l.calW} ↗</a><a href="${esc(su(olURL(e)))}" target="_blank" rel="noopener">Outlook ↗</a><button type="button" data-icsdl="${e.id}">${l.icsFile}</button></div><button class="ibtn" data-share="${e.id}" title="${l.share}" aria-label="${l.share}">${ISHARE}</button><button class="ibtn" data-ics="${e.id}" title="${l.toCal}" aria-label="${l.toCal}">${ICAL}</button>${e.flyer?`<a class="ibtn" href="${esc(su(e.flyer))}" target="_blank" rel="noopener" title="${l.flyer}" aria-label="${l.flyer}">${IFLY}</a>`:""}<a class="ibtn" href="${reportURL(e.title+" ("+e.d+")",shareURL(e))}" title="${l.report}" aria-label="${l.report}">${IFLAG}</a><span style="flex:1"></span>${e.tickets?`<a class="tixbtn" href="${esc(su(e.tickets))}" target="_blank" rel="noopener">${l.ticketsS} ↗</a>`:`<span class="tixbtn off">${pm.some(x=>/abendkasse|AK\b/i.test(x))?l.akOnly:l.noTix}</span>`}</div>`;
+    <div class="cbar"><div class="calbox" hidden><a href="${esc(su(gcalURL(e)))}" target="_blank" rel="noopener">Google ${l.calW} ↗</a><a href="${esc(su(olURL(e)))}" target="_blank" rel="noopener">Outlook ↗</a><button type="button" data-icsdl="${e.id}">${l.icsFile}</button></div><button class="ibtn" data-share="${e.id}" title="${l.share}" aria-label="${l.share}">${ISHARE}</button><button class="ibtn" data-ics="${e.id}" title="${l.toCal}" aria-label="${l.toCal}">${ICAL}</button>${e.flyer?(fimg?`<button type="button" class="ibtn" data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}" title="${l.flyer}" aria-label="${l.flyer}">${IFLY}</button>`:`<a class="ibtn" href="${esc(su(e.flyer))}" target="_blank" rel="noopener" title="${l.flyer}" aria-label="${l.flyer}">${IFLY}</a>`):""}<a class="ibtn" href="${reportURL(e.title+" ("+e.d+")",shareURL(e))}" title="${l.report}" aria-label="${l.report}">${IFLAG}</a><span style="flex:1"></span>${e.tickets?`<a class="tixbtn" href="${esc(su(e.tickets))}" target="_blank" rel="noopener">${l.ticketsS} ↗</a>`:`<span class="tixbtn off">${pm.some(x=>/abendkasse|AK\b/i.test(x))?l.akOnly:l.noTix}</span>`}</div>`;
 }
 const shareURL=e=>"https://rave.wien/#"+e.id;
 function setHash(id){try{if(id){if(location.hash!=="#"+id)history.replaceState(null,"","#"+id)}else if(location.hash)history.replaceState(null,"",location.pathname+location.search)}catch(_){}}
@@ -1549,9 +1562,11 @@ addEventListener("resize",()=>{setTop();layoutStack()});
 function render(){texts();renderSide();renderList();renderActive();renderDeck()}
 function setView(v){if(st.view===v)return;st.view=v;save();scrollTo(0,0);render()}
 
-document.addEventListener("keydown",ev=>{if((ev.key==="Enter"||ev.key===" ")&&ev.target.dataset&&ev.target.dataset.pin!=null){ev.preventDefault();ev.target.dispatchEvent(new MouseEvent("click",{bubbles:true}));return}if(ev.key==="Escape"&&$("side").classList.contains("open")){drawer(false);return}if(ev.key==="Escape"&&document.activeElement!==$("q")&&st.cards.length){closeCard(ck(st.cards[st.cards.length-1]))}});
+document.addEventListener("keydown",ev=>{if(ev.key==="Escape"&&!$("flybox").hidden){$("flybox").hidden=true;return}if((ev.key==="Enter"||ev.key===" ")&&ev.target.dataset&&ev.target.dataset.pin!=null){ev.preventDefault();ev.target.dispatchEvent(new MouseEvent("click",{bubbles:true}));return}if(ev.key==="Escape"&&$("side").classList.contains("open")){drawer(false);return}if(ev.key==="Escape"&&document.activeElement!==$("q")&&st.cards.length){closeCard(ck(st.cards[st.cards.length-1]))}});
 document.addEventListener("click",ev=>{
   if(ev.target.closest("a[download]"))return;
+  const fy=ev.target.closest("[data-flyer]");if(fy){ev.preventDefault();const b=$("flybox");b.innerHTML=`<img src="${esc(fy.dataset.flyer)}" alt="${esc(fy.dataset.ft||"Flyer")}" referrerpolicy="no-referrer"><button class="fx" type="button" aria-label="${L().close}">×</button><a href="${esc(su(fy.dataset.flyer))}" target="_blank" rel="noopener">${L().flyer} ↗</a>`;b.hidden=false;return}
+  if(ev.target.closest("#flybox")&&!ev.target.closest("#flybox a")){$("flybox").hidden=true;return}
   const pl=ev.target.closest("[data-play]");if(pl){ev.preventDefault();dockPlay(pl.dataset.play,pl.dataset.pt);return}
   if(ev.target.closest("[data-dockx]")){dockClose();return}
   const cs=ev.target.closest("[data-consent]");if(cs){ev.preventDefault();consentSet(cs.dataset.consent);return}
