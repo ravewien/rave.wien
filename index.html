@@ -534,6 +534,7 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
 .active-f button::after{content:" ×";color:var(--mute)}
 @media (min-width:880px){.side{position:sticky;top:calc((env(safe-area-inset-top,0px) + var(--top) + 12px) / var(--z,1));max-height:calc((100vh - var(--top) - 24px) / var(--z,1));overflow:auto;scrollbar-width:thin}}
 @media (max-width:879px){#msearch{position:sticky;top:calc((env(safe-area-inset-top,0px) + var(--top)) / var(--z,1));z-index:8;background:var(--bg);margin-top:0;padding:8px 0}}
+.daygap{height:14px;background:var(--bg);border-top:0;border-bottom:1px solid var(--line);margin:0 -1px}
 .dayhdr{position:sticky;top:calc((env(safe-area-inset-top,0px) + var(--top2,var(--top))) / var(--z,1));z-index:2;background:var(--panel2);padding:6px 12px;font-family:var(--f-display);font-weight:700;letter-spacing:.1em;text-transform:uppercase;font-size:13px;display:flex;gap:10px;align-items:baseline;border-bottom:1px solid var(--line)}
 .dayhdr span{font-family:var(--f-mono);font-weight:400;color:var(--mute);font-size:11px;letter-spacing:0}
 .row{display:grid;grid-template-columns:52px minmax(0,1fr);gap:4px 12px;width:100%;text-align:left;background:transparent;border:0;border-bottom:1px solid var(--line);padding:10px 12px}
@@ -953,7 +954,7 @@ function renderList(){
     html+=`<div class="pastsep" id="nowsep">${l.nowSep}</div>`}
   if(!ev.length)html+=`<div class="empty-state">${l.none}</div>`;
   else html+=`<div class="thead"><span>${l.thTime}</span><span>${l.thEv}</span><span>${l.thLu}</span><span>${l.thGen}</span><span>${l.thAge}</span><span>${l.thPrice}</span></div>`;
-  ev.forEach(e=>{if(e.d!==cur){cur=e.d;html+=`<div class="dayhdr">${fmtDay(e.d,true)} <span>${ev.filter(x=>x.d===cur).length}</span></div>`}html+=rowHTML(e)});
+  ev.forEach(e=>{if(e.d!==cur){html+=cur?'<div class="daygap"></div>':"";cur=e.d;html+=`<div class="dayhdr">${fmtDay(e.d,true)} <span>${ev.filter(x=>x.d===cur).length}</span></div>`}html+=rowHTML(e)});
   if(pall.length&&ev.length<8)html+=`<div style="height:${Math.max(0,innerHeight-160-ev.length*64)}px"></div>`;
   $("out").innerHTML=html;
   const ns=$("nowsep");
@@ -1190,7 +1191,8 @@ function layoutStack(){
     else{el.style.zIndex=50;el.style.height="";el.style.maxHeight=(avail-t)+"px"}});
 }
 function flip(before,key){
-  if(RM.matches||!Element.prototype.animate)return;
+  if(!Element.prototype.animate)return;
+  if(RM.matches){const el=key&&CEL[key];if(el)el.animate([{opacity:0},{opacity:1}],{duration:200,easing:"ease-out"});return}
   st.cards.forEach(c=>{const k2=ck(c);const el=CEL[k2];if(!el)return;const b=before[k2];const a=el.getBoundingClientRect();const fin=el.style.transform||"none";
     if(k2===key){
       if(!b){el.animate(mqSheet.matches?[{transform:"translateY(60px)",opacity:0},{transform:fin,opacity:1}]:[{transform:"translateX(48px)",opacity:0},{transform:fin,opacity:1}],{duration:380,easing:"cubic-bezier(.2,.8,.2,1)"});return}
