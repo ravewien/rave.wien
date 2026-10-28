@@ -591,7 +591,7 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
 .xr .nxt{font-size:10.5px;color:var(--mute);line-height:1.25;text-align:center;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .xr .xn{font-family:"DSEG7",var(--f-mono);font-size:16px;color:var(--fg);text-align:center;line-height:1}
 .xr .xn small{display:block;font-family:var(--f-mono);font-size:8.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--mute);margin-top:4px}
-.xr .cnts{display:flex;flex-direction:column;align-items:center;gap:8px}.xr .xn.xp{font-size:12px;color:var(--mute)}
+.xr .cnts{display:flex;flex-direction:row;align-items:flex-start;justify-content:center;gap:8px}.xr .cnts small{letter-spacing:.04em;font-size:7.5px}.xr .xn.xp{font-size:14px;color:var(--mute)}
 .xr .ex{display:flex;gap:4px;justify-content:center;flex-wrap:wrap}
 .xr .lk{display:inline-grid;place-items:center;width:22px;height:22px;border:1px solid var(--line);border-radius:3px;color:var(--mute)}
 .xr .lk svg{width:12px;height:12px}.xr .lk .txt{font-size:9px}
@@ -599,15 +599,15 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
 .x-art .xr[aria-current="true"]{background-color:#35204f}.x-col .xr[aria-current="true"]{background-color:#4a2c0c}.x-ven .xr[aria-current="true"]{background-color:#173f20}
 .x-art .xr:not(.x0) .nd,.x-col .xr .nd,.x-ven .xr .nd{color:var(--accent)}
 @container out (min-width:760px){
-  .x-art{--xc:minmax(0,1.3fr) minmax(0,.7fr) minmax(0,1.1fr) 150px 64px 92px}
-  .x-col{--xc:minmax(0,1.3fr) minmax(0,1.7fr) 160px 72px 52px}
-  .x-ven{--xc:minmax(0,1.2fr) minmax(0,1fr) minmax(0,1fr) 170px 72px}
+  .x-art{--xc:minmax(0,1.3fr) minmax(0,.7fr) minmax(0,1.1fr) 150px 112px 92px}
+  .x-col{--xc:minmax(0,1.3fr) minmax(0,1.7fr) 160px 112px 52px}
+  .x-ven{--xc:minmax(0,1.2fr) minmax(0,1fr) minmax(0,1fr) 170px 112px}
   .xhead{display:grid;grid-template-columns:var(--xc);column-gap:16px;padding:7px 14px;font-family:var(--f-mono);font-size:9.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--mute);border-bottom:1px solid var(--line)}
   .x-col .xhead .h2,.x-ven .xhead .h5{display:none}
   .xhead .h4,.xhead .h5{text-align:right}
   .xr{grid-template-columns:var(--xc);column-gap:16px;padding:9px 14px;align-items:center}
   .xr .main,.xr .stub{display:contents}
-  .xr .c1{grid-row:1}.xr .nx{align-items:flex-start}.xr .xn{text-align:right}.xr .cnts{align-items:flex-end}.xr .ex{justify-content:flex-end}
+  .xr .c1{grid-row:1}.xr .nx{align-items:flex-start}.xr .xn{text-align:right}.xr .cnts{justify-content:flex-end}.xr .ex{justify-content:flex-end}
   .xr .main>*,.xr .stub>*,.x-ven .xr .gf>*{grid-row:1}
   .x-art .xr .c1{grid-column:1}.x-art .xr .c2{grid-column:2}.x-art .xr .gf{grid-column:3}.x-art .xr .nx{grid-column:4}.x-art .xr .n1{grid-column:5}.x-art .xr .ex{grid-column:6}
   .x-col .xr .c1{grid-column:1}.x-col .xr .gf{grid-column:2}.x-col .xr .nx{grid-column:3}.x-col .xr .n1{grid-column:4}.x-col .xr .ex{grid-column:5}
@@ -1116,7 +1116,7 @@ function renderArtists(ev){
   let html="",cur="";
   names.forEach(n=>{
     const f0=sk(n)[0]||"#";const L0=/[a-z]/.test(f0)?f0.toUpperCase():"#";
-    if(L0!==cur){cur=L0;html+=`<div class="dayhdr">${cur}</div>`}
+    if(L0!==cur){html+=cur?'<div class="daygap"></div>':"";cur=L0;html+=`<div class="dayhdr">${cur} <span>${names.filter(x=>{const f=sk(x)[0]||"#";return (/[a-z]/.test(f)?f.toUpperCase():"#")===cur}).length}</span></div>`}
     const a=ARK[akey(n)];const evs=(m.get(n)||[]).slice().sort((x,y)=>x.d.localeCompare(y.d));
     const gen=a&&a.genres?a.genres:[...new Set(evs.flatMap(e=>e.genres))];
     const co=collOf(n);const from=a&&a.from?(a.from[st.lang]||a.from.de):"";const lk=(a&&a.links)||{};
