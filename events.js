@@ -3777,7 +3777,13 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Seba": {
-  "noLinks": "2026-10-28"
+  "img": "https://static.ra.co/images/profiles/seba.jpg?dateUpdated=1494519179647",
+  "links": {
+   "ra": "https://ra.co/dj/seba"
+  },
+  "src": [
+   "https://de.ra.co/dj/seba"
+  ]
  },
  "Melchiorr": {
   "noLinks": "2026-10-28",
@@ -3829,7 +3835,8 @@ const AR={
   "img": "https://i.scdn.co/image/ab6761610000e5eb3e0464abd55a3415fbcf8e19"
  },
  "Lenzi": {
-  "noLinks": "2026-10-28"
+  "noLinks": "2026-10-28",
+  "noImg": "2026-10-28"
  },
  "Adam19": {
   "noLinks": "2026-10-28",
@@ -3840,7 +3847,8 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Noel": {
-  "noLinks": "2026-10-28"
+  "noLinks": "2026-10-28",
+  "noImg": "2026-10-28"
  },
  "Joro & Joabo": {
   "links": {
@@ -4200,6 +4208,69 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Qaoz": {
+  "noImg": "2026-10-28"
+ },
+ "Drum Dad & Bass Boy": {
+  "img": "https://i.scdn.co/image/ab6761610000e5eb4ff7471ebb471b57166b4093",
+  "links": {
+   "sp": "https://open.spotify.com/artist/3UyclZxeiOyCtZyiWmUbBm"
+  },
+  "src": [
+   "https://open.spotify.com/artist/3UyclZxeiOyCtZyiWmUbBm"
+  ]
+ },
+ "lexyz0 & DJ Lotto": {
+  "noImg": "2026-10-28"
+ },
+ "Bella": {
+  "noImg": "2026-10-28"
+ },
+ "Nani Mag. Viech": {
+  "noImg": "2026-10-28"
+ },
+ "TRMT": {
+  "noImg": "2026-10-28"
+ },
+ "La Destinación Final": {
+  "noImg": "2026-10-28"
+ },
+ "Humi": {
+  "noImg": "2026-10-28"
+ },
+ "Luca": {
+  "noImg": "2026-10-28"
+ },
+ "Hanno": {
+  "noImg": "2026-10-28"
+ },
+ "Meltdown": {
+  "noImg": "2026-10-28"
+ },
+ "Janex": {
+  "noImg": "2026-10-28"
+ },
+ "OKO": {
+  "noImg": "2026-10-28"
+ },
+ "Mina": {
+  "noImg": "2026-10-28"
+ },
+ "maximo": {
+  "noImg": "2026-10-28"
+ },
+ "Joey": {
+  "noImg": "2026-10-28"
+ },
+ "CED": {
+  "noImg": "2026-10-28"
+ },
+ "Lazaro": {
+  "noImg": "2026-10-28"
+ },
+ "Distorted": {
+  "noImg": "2026-10-28"
+ },
+ "Hannah": {
   "noImg": "2026-10-28"
  }
 };
