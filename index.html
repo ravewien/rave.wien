@@ -966,7 +966,7 @@ const isImg=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif)(\?[^"'<>\s]*)?$
 const coversOn=()=>!EMBED||consentOK();
 const isLogo=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif|svg)(\?[^"'<>\s]*)?$/i.test(u||"");
 const initials=n=>n.replace(/^(the|club|das|der|die|o)\s+/i,"").split(/[\s\-–.]+/).filter(w=>/^[A-Za-z0-9ÄÖÜäöü]/.test(w)).slice(0,2).map(w=>w[0].toUpperCase()).join("")||n.slice(0,2).toUpperCase();
-function logoTile(n,cls){const vi=VINFO[n]||{};const ok=isLogo(vi.logo)&&coversOn();const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:"";
+function logoTile(n,cls,info){const vi=info||VINFO[n]||{};const ok=isLogo(vi.logo)&&coversOn();const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:"";
   return `<span class="lgt${cls?" "+cls:""}" aria-hidden="true"${bg?` style="background:${bg}"`:""}>${esc(initials(n))}${ok?`<img src="${esc(vi.logo)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
 function coverHTML(e){return `<span class="cov" aria-hidden="true"${isImg(e.flyer)&&coversOn()?` data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}"`:""}>${isImg(e.flyer)&&coversOn()?`<img src="${esc(e.flyer)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
 document.addEventListener("error",ev=>{const t=ev.target;if(t&&t.tagName==="IMG"&&t.parentNode&&t.parentNode.classList&&(t.parentNode.classList.contains("cov")||t.parentNode.classList.contains("lgt"))){t.parentNode.removeAttribute("data-flyer");t.remove()}},true);
@@ -1286,7 +1286,7 @@ function renderColl(cd,n){
   const prim=c.web?[l.webS,c.web]:c.tix?[l.ticketsS,c.tix]:null;
   cd.innerHTML=`${ctopHTML(l.colKind,favBtn("c",n))}
   <div class="ehead"><div class="emain">
-    <div class="head"><h2>${esc(n)}</h2></div>
+    <div class="head wt">${logoTile(n,"big",CINFO[n]||{})}<h2>${esc(n)}</h2></div>
     ${c.from||c.series?`<span class="sub2">${IPIN}${esc([c.from,c.series?l.series+": "+c.series.join(", "):""].filter(Boolean).join(" · "))}</span>`:""}
     ${gclHTML(genres)}
     ${c.rules&&FLAGS.some(f=>c.rules[f[0]])?`<div class="flags">${ruleTags(c.rules,l.collRule)}</div>`:""}
@@ -1409,7 +1409,7 @@ function renderColls(){
   if(!rows.length){$("out").innerHTML=`<div class="empty-state">${l.none}</div>`;return}
   $("out").innerHTML=`<div class="xlist x-col">${xheadHTML("col")}${rows.map(r=>{const ci=CINFO[r.c]||{};const g=[...new Set([...(CGEN[r.c]||[]),...r.up.flatMap(e=>e.genres)])].slice(0,4);
     const sub=[ci.founded?l.since+" "+(ci.foundedNote?"≈ ":"")+ci.founded:"",ci.from||""].filter(Boolean).join(" · ");
-    return xrowHTML({k:"col",attr:`data-copen="${esc(r.c)}"`,cur:st.coll===r.c,name:r.c,sub,tags:"",c2:"",gen:g,flags:ruleFlags(ci.rules||{}),
+    return xrowHTML({k:"col",tile:logoTile(r.c,"",ci),attr:`data-copen="${esc(r.c)}"`,cur:st.coll===r.c,name:r.c,sub,tags:"",c2:"",gen:g,flags:ruleFlags(ci.rules||{}),
       nx:r.up[0],nxSub:r.up[0]?`<span class="tag ve">${IPIN}${esc(r.up[0].venue)}</span>`:"",n1:r.up.length,n1l:l.cUp,ex:r.mem?`<span class="xn">${r.mem}<small>${l.cDj}</small></span>`:""})}).join("")}</div>`;
 }
 /* overview rows for artists / collectives / venues – same structure as event rows */
