@@ -581,7 +581,8 @@ const CI={
   ],
   "src": [
    "https://ponyhof-official.at/"
-  ]
+  ],
+  "membersSrc": "https://ponyhof-official.at/"
  },
  "Techno Vienna": {
   "web": "https://technovienna.com/",
@@ -590,10 +591,6 @@ const CI={
   "src": [
    "https://technovienna.com/",
    "https://de.ra.co/events/2223948"
-  ],
-  "members": [
-   "SAMDMA",
-   "Stephan Deutsch"
   ]
  },
  "Heimlich": {
@@ -607,7 +604,8 @@ const CI={
    "https://thegap.at/heimlich-langsam-nicht-leise/",
    "https://www.heimlich.online/",
    "https://heimlichmusik.bandcamp.com/artists",
-   "https://goodnight.at/magazin/party/1992-die-coolsten-veranstaltungskollektive-wiens"
+   "https://goodnight.at/magazin/party/1992-die-coolsten-veranstaltungskollektive-wiens",
+   "https://heimlich.online/artists"
   ],
   "label": [
    "Oberst & Buchner",
@@ -648,8 +646,18 @@ const CI={
   ],
   "members": [
    "Oberst & Buchner",
-   "Mathieu Spitzer",
-   "Oliver Rottmann"
+   "Oliver Rottmann",
+   "Kruzio Terrible",
+   "leschueft",
+   "Louwers",
+   "Mareia",
+   "ᗰᗩᖇIEᑌ",
+   "m ë x",
+   "Orange Drift",
+   "Sarah-Mo",
+   "sissi petutschnig",
+   "späk",
+   "Vaterfigur"
   ],
   "friends": [
    "martha van straaten",
@@ -660,7 +668,8 @@ const CI={
    "Rampue"
   ],
   "founded": "2015",
-  "ig": "https://www.instagram.com/heimlichcrew/"
+  "ig": "https://www.instagram.com/heimlichcrew/",
+  "membersSrc": "https://heimlich.online/artists"
  },
  "hausgemacht": {
   "de": "Wiener Kollektiv (seit 2014, Crew von 40–50 Leuten) hinter der sexpositiven Eventreihe „ZusammenKommen“, u. a. in der Grellen Forelle und im Club Exil.",
@@ -702,21 +711,17 @@ const CI={
    "GauTrance",
    "Frühwerk",
    "Ferdinand Schwarz",
-   "Ele Luz",
+   "Ele Luz"
+  ],
+  "exMembers": [
    "Anni Herzer"
-  ]
+  ],
+  "membersSrc": "https://www.hausgemacht.org/en/djs"
  },
  "Journey to Tarab": {
   "de": "Wiener Kollektiv, Partys „von Freund*innen für Freund*innen“, oft gemeinsam mit Im Freudentaumel im FLUCC.",
   "en": "Viennese collective, parties “by friends for friends”, often together with Im Freudentaumel at FLUCC.",
   "from": "Wien",
-  "members": [
-   "Käpt'n 12 & Düsentrieb",
-   "Kotterzür",
-   "Adi Baba",
-   "Philosofiesta",
-   "Benno Wohl"
-  ],
   "src": [
    "https://ra.co/events/1927240",
    "https://www.vice.com/de/article/wer-sich-mal-wieder-spuren-will-sollte-zum-journey-to-tarab-festival-fahren/",
@@ -756,9 +761,6 @@ const CI={
   "foundedNote": 1,
   "src": [
    "https://ohschonhell.at/orte/das+werk/14"
-  ],
-  "members": [
-   "Joey"
   ]
  },
  "Contrast": {
@@ -930,9 +932,6 @@ const CI={
   ]
  },
  "Selected": {
-  "members": [
-   "Frederic."
-  ],
   "src": [
    "https://ohschonhell.at/orte/grelle+forelle/3"
   ]
@@ -940,9 +939,6 @@ const CI={
  "Achterbahn": {
   "de": "Reihe von Anna Ullrich im PRST.",
   "en": "Series by Anna Ullrich at PRST.",
-  "members": [
-   "Anna Ullrich"
-  ],
   "src": [
    "https://ohschonhell.at/orte/praterstrasse+-+prst/912"
   ]
@@ -951,9 +947,6 @@ const CI={
   "de": "Gemeinnütziger, nicht gewinnorientierter Verein für sexpositive Partys: fördert lokale Artists, FLINTA*/LGBTQIA+, Workshops zu Konsens, Awareness-Team; Tickets nach Fragebogen.",
   "en": "Non-profit association for sex-positive parties: supports local artists, FLINTA*/LGBTQIA+, consent workshops, awareness team; tickets after a questionnaire.",
   "from": "Wien",
-  "members": [
-   "MoBama"
-  ],
   "src": [
    "https://www.theloft.at/feuchte-traeume-renaissance-of-pleasure/",
    "https://de.ra.co/events/2208959",
@@ -1008,9 +1001,6 @@ const CI={
   "ig": "https://instagram.com/zyklopaudio",
   "sc": "https://soundcloud.com/zyklopaudio",
   "bc": "https://zyklopaudio.bandcamp.com",
-  "members": [
-   "Kormos"
-  ],
   "label": [
    "Zyklop Audio"
   ],
@@ -1035,12 +1025,6 @@ const CI={
   "web": "https://linktr.ee/mahlwerk",
   "ig": "https://instagram.com/mahlwerk.mwk",
   "sc": "https://soundcloud.com/mahlwerk-mwk",
-  "members": [
-   "Max Wagner",
-   "MARO",
-   "GOLDI",
-   "Kat Ze"
-  ],
   "friends": [
    "Cybertribe"
   ],
@@ -2287,9 +2271,6 @@ const AR={
    "de": "Kormos ist ein Wiener DJ, Produzent und Labelchef; sein Name stammt von einem Geist aus der alttürkischen Folklore. Seit 2018 produziert er elektronische Musik und gründete 2025 das Vinyl-Label Zyklop Audio. Seine Sets verbinden Minimal House mit psychedelischer Note und Disco-Einflüssen – hypnotisch und trippy.",
    "en": "Kormos is a Vienna-based DJ, producer and label head whose name comes from a ghost in ancient Turkish folklore. He has made electronic music since 2018 and founded the vinyl label Zyklop Audio in 2025. His sets mix minimal house with a psychedelic edge and disco touches – hypnotic and trippy."
   },
-  "coll": [
-   "Zyklop"
-  ],
   "labels": [
    "Zyklop Audio",
    "Belly Dance Services",
@@ -2415,9 +2396,6 @@ const AR={
    "de": "Paul Mile bringt seit fast einem Jahrzehnt Wiener Dancefloors zum Kochen – mit treibenden Sets aus Hardgroove, House und UKG und überraschenden Track-Auswahlen. Seine Wurzeln liegen in härteren Stilen; über das Kollektiv Soundlabs hat er sich in der Wiener Szene etabliert.",
    "en": "Paul Mile has been igniting Vienna's dancefloors for nearly a decade with driving hardgroove, house and UKG sets and unexpected track selections. His roots lie in harder styles, and he built his profile in Vienna through the Soundlabs collective."
   },
-  "coll": [
-   "Soundlabs"
-  ],
   "clubs": [
    "PRST",
    "SASS Music Club",
@@ -2449,9 +2427,6 @@ const AR={
    "de": "TELICHO – ein Mix aus „Techno“ und ihrem Vornamen Linn – ist eine Wiener DJ, Produzentin und Veranstalterin, bekannt für energiegeladene Sets mit vielschichtigen, treibenden Grooves. Sie kam von Singer-Songwriter und Rock/Pop mit 16 zur elektronischen Musik und gründete die Eventreihe „Back to Underground“.",
    "en": "TELICHO – a blend of 'techno' and her first name Linn – is a Vienna-based DJ, producer and event organiser known for high-energy sets with layered, driving grooves. She came to electronic music at 16 from singer-songwriter and rock/pop, and founded the event series 'Back to Underground'."
   },
-  "coll": [
-   "Back to Underground"
-  ],
   "labels": [
    "Say What? Recordings",
    "Schimmer Records",
