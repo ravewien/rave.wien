@@ -964,10 +964,10 @@ function rowHTML(e){
 /* flyer covers: hot-linked from the source (not downloaded); vinyl placeholder underneath */
 const isImg=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif)(\?[^"'<>\s]*)?$/i.test(u||"");
 const coversOn=()=>!EMBED||consentOK();
-const isLogo=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif|svg)(\?[^"'<>\s]*)?$/i.test(u||"");
+const isLogo=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif|svg)(\?[^"'<>\s]*)?$/i.test(u||"")||/^https:\/\/i\.scdn\.co\/image\/[a-z0-9]+$/i.test(u||"");
 const initials=n=>n.replace(/^(the|club|das|der|die|o)\s+/i,"").split(/[\s\-–.]+/).filter(w=>/^[A-Za-z0-9ÄÖÜäöü]/.test(w)).slice(0,2).map(w=>w[0].toUpperCase()).join("")||n.slice(0,2).toUpperCase();
-function logoTile(n,cls,info){const vi=info||VINFO[n]||{};const ok=isLogo(vi.logo)&&coversOn();const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:"";
-  return `<span class="lgt${cls?" "+cls:""}" aria-hidden="true"${bg?` style="background:${bg}"`:""}>${esc(initials(n))}${ok?`<img src="${esc(vi.logo)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
+function logoTile(n,cls,info){const vi=info||VINFO[n]||{};const lu=vi.logo||vi.img;const ok=isLogo(lu)&&coversOn();const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:"";
+  return `<span class="lgt${cls?" "+cls:""}" aria-hidden="true"${bg?` style="background:${bg}"`:""}>${esc(initials(n))}${ok?`<img src="${esc(lu)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
 function coverHTML(e){return `<span class="cov" aria-hidden="true"${isImg(e.flyer)&&coversOn()?` data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}"`:""}>${isImg(e.flyer)&&coversOn()?`<img src="${esc(e.flyer)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
 document.addEventListener("error",ev=>{const t=ev.target;if(t&&t.tagName==="IMG"&&t.parentNode&&t.parentNode.classList&&(t.parentNode.classList.contains("cov")||t.parentNode.classList.contains("lgt"))){t.parentNode.removeAttribute("data-flyer");t.remove()}},true);
 let PTOT=0;
@@ -1120,7 +1120,7 @@ function renderArtists(ev){
     const gen=a&&a.genres?a.genres:[...new Set(evs.flatMap(e=>e.genres))];
     const co=collOf(n);const from=a&&a.from?(a.from[st.lang]||a.from.de):"";const lk=(a&&a.links)||{};
     const hear=["sc","mc","sp","bc"].filter(k=>lk[k]).map(k=>`<span class="lk">${LICON[k]}</span>`).join("");
-    html+=xrowHTML({k:"art",attr:`data-aopen="${esc(n)}"`,cur:st.artist===n,name:n,
+    html+=xrowHTML({k:"art",tile:logoTile(n,"",a||{}),attr:`data-aopen="${esc(n)}"`,cur:st.artist===n,name:n,
       sub:RESID[n]?`${l.residents.replace(/s$/,"")}: ${RESID[n].join(", ")}`:"",
       tags:co.map(c=>`<span class="tag co">${ICOL}${esc(c)}</span>`).join(""),c2:from,
       gen:gen.slice(0,4),flags:"",nx:evs[0],nxSub:evs[0]?`<span class="tag ve">${IPIN}${esc(evs[0].venue)}</span>`:"",
@@ -1321,7 +1321,7 @@ function renderArtist(ad,name){
   const past=PART[name]||[];const co=collOf(name);const res=RESID[name]||[];
   ad.innerHTML=`${ctopHTML(l.artist,favBtn("a",name))}
   <div class="ehead"><div class="emain">
-    <div class="head"><h2>${esc(name)}</h2></div>
+    <div class="head wt">${logoTile(name,"big",a||{})}<h2>${esc(name)}</h2></div>
     ${co.length||res.length?`<div class="tags">${co.map(c=>`<button class="tag co" data-coll="${esc(c)}">${ICOL}${esc(c)}</button>`).join("")}${res.map(v=>`<button class="tag ve" data-vopen="${esc(v)}" title="${esc(l.residentAt)}">${IPIN}${esc(l.resShort)} ${esc(v)}</button>`).join("")}</div>`:""}
     ${a&&(a.from||a.real)?`<span class="sub2">${a.from?IPIN+esc(a.from[st.lang]||a.from.de):""}${a.real?(a.from?" · ":"")+esc(a.real):""}</span>`:""}
     ${gclHTML(genres)}
