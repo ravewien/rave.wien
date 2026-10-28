@@ -863,7 +863,7 @@ const ALLART=()=>[...new Set([...UNI.a,...EV.flatMap(e=>e.artists),...Object.key
 (()=>{const cnt={};PASTR.forEach(p=>p.c.forEach(c=>cnt[c]=(cnt[c]||0)+1));Object.entries(cnt).filter(([,n])=>n>=3).forEach(([c])=>{if(!UNI.c.some(x=>sameColl(x,c)))UNI.c.push(c)})})();
 Object.values(VINFO).forEach(i=>(i.residents||[]).forEach(a=>{const c=canon(a);if(!UNI.a.includes(c))UNI.a.push(c)}));
 if(V.Pratersauna&&!UNI.v.includes("Pratersauna"))UNI.v.push("Pratersauna");
-const collOf=n=>{const a=ARK[akey(n)]||{};return [...new Set([...(a.coll||[]),...Object.keys(CINFO).filter(k=>(CINFO[k].members||[]).map(canon).includes(n))])]};
+const collOf=n=>{const a=ARK[akey(n)]||{};return [...new Set([...(a.coll||[]),...Object.keys(CINFO).filter(k=>(CINFO[k].members||[]).map(canon).includes(n))])].filter(k=>!((CINFO[k]||{}).exMembers||[]).map(canon).includes(n))};
 function matches(e,skip){
   if(st.fav&&!FAV.e.includes(e.id)&&!favReason(e).length)return false;
   const LV={g:e.genres,v:[e.venue],c:e.coll,a:e.artists};
@@ -1230,7 +1230,7 @@ function barHTML(links,report,primary){return `<div class="cbar">${links.map(([k
 function gclHTML(g){return g.length?`<span class="tags"><span class="gcl"><b>♫</b>${g.map(x=>`<button data-f="g" data-n="${esc(x)}">${esc(x)}</button>`).join("")}</span></span>`:""}
 function ruleTags(obj,why){const l=L();return FLAGS.filter(f=>obj[f[0]]).map(([k,c,lab,,ic])=>`<button class="flag ${c}" data-ff="${k}" title="${esc(l.filter+(why?" · "+why:""))}"><i class="ico ${c}">${ic}</i>${esc(l[lab])}</button>`).join("")}
 
-function collMembers(n){const c=CINFO[n]||{};const m=new Set((c.members||[]).map(canon));Object.values(ARK).forEach(a=>{if((a.coll||[]).includes(n))m.add(canon(a.name))});return [...m]}
+function collMembers(n){const c=CINFO[n]||{};const ex=new Set((c.exMembers||[]).map(canon));const m=new Set((c.members||[]).map(canon));Object.values(ARK).forEach(a=>{if((a.coll||[]).includes(n))m.add(canon(a.name))});return [...m].filter(x=>!ex.has(x))}
 function renderColl(cd,n){
   const l=L();const c=CINFO[n]||{};const has=!!CINFO[n];
   const evs=EV.filter(e=>e.coll.some(x=>sameColl(x,n)));
