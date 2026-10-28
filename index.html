@@ -401,6 +401,7 @@ iframe.mc{width:100%;height:60px;border:0;margin-bottom:6px}
 .ehead .flybtn:hover{border-color:var(--fg)}
 .flybox{position:fixed;inset:0;z-index:220;background:rgba(0,0,0,.88);display:grid;place-items:center;padding:16px;cursor:zoom-out}
 .flybox[hidden]{display:none}
+.cov[data-flyer]{cursor:zoom-in}
 .flybox img{max-width:100%;max-height:calc(100vh - 80px);object-fit:contain;border-radius:4px;box-shadow:0 20px 60px rgba(0,0,0,.8)}
 .flybox .fx{position:absolute;top:14px;right:14px;width:36px;height:36px;border-radius:4px;border:1px solid rgba(255,255,255,.3);background:rgba(0,0,0,.5);color:#fff;font-size:20px}
 .flybox a{position:absolute;bottom:14px;left:50%;transform:translateX(-50%);color:#cfd5de;font-size:12px}
@@ -956,8 +957,8 @@ function rowHTML(e){
 /* flyer covers: hot-linked from the source (not downloaded); vinyl placeholder underneath */
 const isImg=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif)(\?[^"'<>\s]*)?$/i.test(u||"");
 const coversOn=()=>!EMBED||consentOK();
-function coverHTML(e){return `<span class="cov" aria-hidden="true">${isImg(e.flyer)&&coversOn()?`<img src="${esc(e.flyer)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
-document.addEventListener("error",ev=>{const t=ev.target;if(t&&t.tagName==="IMG"&&t.parentNode&&t.parentNode.classList&&t.parentNode.classList.contains("cov"))t.remove()},true);
+function coverHTML(e){return `<span class="cov" aria-hidden="true"${isImg(e.flyer)&&coversOn()?` data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}"`:""}>${isImg(e.flyer)&&coversOn()?`<img src="${esc(e.flyer)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
+document.addEventListener("error",ev=>{const t=ev.target;if(t&&t.tagName==="IMG"&&t.parentNode&&t.parentNode.classList&&t.parentNode.classList.contains("cov")){t.parentNode.removeAttribute("data-flyer");t.remove()}},true);
 let PTOT=0;
 function topH(){return (parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--top2"))||56)+8}
 function renderList(){
@@ -1567,7 +1568,7 @@ function setView(v){if(st.view===v)return;st.view=v;save();scrollTo(0,0);render(
 document.addEventListener("keydown",ev=>{if(ev.key==="Escape"&&!$("flybox").hidden){$("flybox").hidden=true;return}if((ev.key==="Enter"||ev.key===" ")&&ev.target.dataset&&ev.target.dataset.pin!=null){ev.preventDefault();ev.target.dispatchEvent(new MouseEvent("click",{bubbles:true}));return}if(ev.key==="Escape"&&$("side").classList.contains("open")){drawer(false);return}if(ev.key==="Escape"&&document.activeElement!==$("q")&&st.cards.length){closeCard(ck(st.cards[st.cards.length-1]))}});
 document.addEventListener("click",ev=>{
   if(ev.target.closest("a[download]"))return;
-  const fy=ev.target.closest("[data-flyer]");if(fy){ev.preventDefault();const b=$("flybox");b.innerHTML=`<img src="${esc(fy.dataset.flyer)}" alt="${esc(fy.dataset.ft||"Flyer")}" referrerpolicy="no-referrer"><button class="fx" type="button" aria-label="${L().close}">×</button><a href="${esc(su(fy.dataset.flyer))}" target="_blank" rel="noopener">${L().flyer} ↗</a>`;b.hidden=false;return}
+  const fy=ev.target.closest("[data-flyer]");if(fy){ev.preventDefault();const b=$("flybox");b.innerHTML=`<img src="${esc(fy.dataset.flyer)}" alt="${esc(fy.dataset.ft||"Flyer")}" referrerpolicy="no-referrer"><button class="fx" type="button" aria-label="${L().close}">×</button><a href="${esc(su(fy.dataset.flyer))}" target="_blank" rel="noopener">${L().flyer} ↗</a>`;b.hidden=false;if(!fy.closest(".row[data-id]"))return}
   if(ev.target.closest("#flybox")&&!ev.target.closest("#flybox a")){$("flybox").hidden=true;return}
   const pl=ev.target.closest("[data-play]");if(pl){ev.preventDefault();dockPlay(pl.dataset.play,pl.dataset.pt);return}
   if(ev.target.closest("[data-dockx]")){dockClose();return}
