@@ -1306,6 +1306,7 @@ const VI={
 };
 const AR={
  "Tanzfuchs": {
+  "img": "https://i1.sndcdn.com/avatars-QYMONy0tWsOrqkHQ-XuPyMg-t500x500.jpg",
   "links": {
    "sc": "https://soundcloud.com/tnzfx"
   },
