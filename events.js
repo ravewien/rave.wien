@@ -1440,7 +1440,8 @@ const AR={
    "https://ra.co/dj/shoki287",
    "https://ra.co/events/2548751"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/shoki287.jpg?dateUpdated=1773759548623"
  },
  "Toobris": {
   "from": {
@@ -1474,7 +1475,8 @@ const AR={
    "https://ra.co/dj/toobris",
    "https://ra.co/events/2562101"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/toobris.jpg?dateUpdated=1773834624983"
  },
  "Alex TB": {
   "from": {
@@ -1517,7 +1519,8 @@ const AR={
     "u": "https://soundcloud.com/alextb/alextbtr25years"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/alextb.jpg?dateUpdated=1784616828837"
  },
  "Camion Bazar": {
   "from": {
@@ -1562,7 +1565,8 @@ const AR={
   "src": [
    "https://ra.co/dj/camionbazar"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/camionbazar.jpg?dateUpdated=1775037201830"
  },
  "Franziska Berns": {
   "from": {
@@ -1596,7 +1600,8 @@ const AR={
   "src": [
    "https://ra.co/dj/franziskaberns-de"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/franziskaberns-de.jpg?dateUpdated=1757516850293"
  },
  "Chata": {
   "from": {
@@ -1624,7 +1629,8 @@ const AR={
    "https://ra.co/dj/chata",
    "https://ra.co/events/2554895"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/chata.jpg?dateUpdated=1778180818203"
  },
  "Massimiliano Pagliara": {
   "from": {
@@ -1654,11 +1660,16 @@ const AR={
    "Romantica"
   ],
   "links": {
-   "sp": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym"
+   "sp": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym",
+   "ra": "https://ra.co/dj/massimilianopagliara",
+   "bc": "https://massimilianopagliara.bandcamp.com",
+   "sc": "https://soundcloud.com/massimilianopagliara"
   },
   "src": [
-   "https://en.wikipedia.org/wiki/Massimiliano_Pagliara"
-  ]
+   "https://en.wikipedia.org/wiki/Massimiliano_Pagliara",
+   "https://ra.co/dj/massimilianopagliara"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/massimilianopagliara.jpg?dateUpdated=1753197880990"
  },
  "MIJA": {
   "from": {
@@ -1965,7 +1976,8 @@ const AR={
     "u": "https://soundcloud.com/mijk/dj-mijk-van-dijk-at-wooferland-2024-08-31"
    }
   ],
-  "setsChecked": "2026-10-28"
+  "setsChecked": "2026-10-28",
+  "img": "https://static.ra.co/images/profiles/square/mijkvandijk.jpg?dateUpdated=1606694400000"
  },
  "Sam Paganini": {
   "from": {
@@ -2379,7 +2391,8 @@ const AR={
    "SASS Music Club",
    "Der Ponyhof",
    "FLUCC"
-  ]
+  ],
+  "img": "https://static.ra.co/images/profiles/square/kormos.jpg?dateUpdated=1784030459210"
  },
  "Anna Ullrich": {
   "links": {
@@ -2389,7 +2402,8 @@ const AR={
   },
   "src": [
    "https://de.ra.co/dj/annaullrich",
-   "https://www.reeperbahnfestival.com/en/act/anna-ullrich"
+   "https://www.reeperbahnfestival.com/en/act/anna-ullrich",
+   "https://ra.co/dj/annaullrich"
   ],
   "sets": [
    {
@@ -2428,7 +2442,8 @@ const AR={
    "Wir haben Spaß und ihr nicht (2023)",
    "Sommernacht (2024)",
    "If I Could (2025)"
-  ]
+  ],
+  "img": "https://static.ra.co/images/profiles/square/annaullrich.jpg?dateUpdated=1730818382000"
  },
  "pengg": {
   "links": {
@@ -2448,7 +2463,8 @@ const AR={
   },
   "clubs": [
    "PRST"
-  ]
+  ],
+  "img": "https://static.ra.co/images/profiles/square/pengg.jpg?dateUpdated=1786628552000"
  },
  "Paul Mile": {
   "links": {
@@ -2494,7 +2510,8 @@ const AR={
    "Pratersauna",
    "FLUCC",
    "Gleis19"
-  ]
+  ],
+  "img": "https://static.ra.co/images/profiles/square/paulmile.jpg?dateUpdated=1743382326000"
  },
  "Telicho": {
   "links": {
@@ -2544,7 +2561,8 @@ const AR={
    "Revolt In Four Four",
    "Call And Response",
    "One Take On Wax"
-  ]
+  ],
+  "img": "https://static.ra.co/images/profiles/square/telicho.jpg?dateUpdated=1776777106873"
  },
  "ENJA": {
   "links": {
@@ -2582,10 +2600,12 @@ const AR={
  "Jorkes": {
   "links": {
    "sc": "https://soundcloud.com/jorkes",
-   "ig": "https://www.instagram.com/jorkes0"
+   "ig": "https://www.instagram.com/jorkes0",
+   "ra": "https://ra.co/dj/jorkes"
   },
   "src": [
-   "https://ra.co/dj/jorkes"
+   "https://ra.co/dj/jorkes",
+   "https://it.ra.co/dj/jorkes"
   ],
   "sets": [
    {
@@ -2597,7 +2617,8 @@ const AR={
     "u": "https://soundcloud.com/chambersofreflection/cor-guest-mix-0024-dj-florian-bohm-jorkes"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/jorkes.jpg?dateUpdated=1783496049370"
  },
  "Artifex (DE)": {
   "links": {
@@ -2615,9 +2636,11 @@ const AR={
    "bc": "https://trugbild.bandcamp.com"
   },
   "src": [
-   "https://de.ra.co/dj/trugbild"
+   "https://de.ra.co/dj/trugbild",
+   "https://trugbild.bandcamp.com"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://f4.bcbits.com/img/0032193901_21.jpg"
  },
  "Lorenzo Raganzini": {
   "links": {
@@ -2627,7 +2650,8 @@ const AR={
    "sp": "https://open.spotify.com/artist/0bvhASdLuh4STSJPxMjjSo"
   },
   "src": [
-   "https://ra.co/dj/lorenzo-es"
+   "https://ra.co/dj/lorenzo-es",
+   "https://open.spotify.com/artist/0bvhASdLuh4STSJPxMjjSo"
   ],
   "sets": [
    {
@@ -2639,7 +2663,8 @@ const AR={
     "u": "https://soundcloud.com/lorenzoraganzini/lorenzo-raganzini-arzenal-budapest-x-uncertain-events-june-2025"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://i.scdn.co/image/ab6761610000e5eb9da6e147cc195d4d97fd61c5"
  },
  "Dj Wifi": {
   "links": {
@@ -2660,14 +2685,17 @@ const AR={
     "u": "https://soundcloud.com/djwifiworld/energymix"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "noImg": "2026-10-28"
  },
  "Neon Graveyard": {
   "links": {
-   "sc": "https://soundcloud.com/noisesbyneongraveyard"
+   "sc": "https://soundcloud.com/noisesbyneongraveyard",
+   "ra": "https://ra.co/dj/neongraveyard"
   },
   "src": [
-   "https://de.ra.co/dj/neongraveyard"
+   "https://de.ra.co/dj/neongraveyard",
+   "https://ra.co/dj/neongraveyard"
   ],
   "sets": [
    {
@@ -2675,21 +2703,25 @@ const AR={
     "u": "https://soundcloud.com/gotec76/neon-graveyard-main-floor-gotec-club-1-12h-schranz-set"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/neongraveyard.jpg?dateUpdated=1647614393547"
  },
  "Stratera": {
   "links": {
-   "sc": "https://soundcloud.com/realstratera"
+   "sc": "https://soundcloud.com/realstratera",
+   "ra": "https://ra.co/dj/stratera"
   },
   "src": [
    "https://ra.co/dj/stratera"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/stratera.jpg?dateUpdated=1770845938507"
  },
  "Tezibel": {
   "links": {
    "sc": "https://soundcloud.com/tezibel",
-   "bc": "https://tezibel.bandcamp.com"
+   "bc": "https://tezibel.bandcamp.com",
+   "ra": "https://ra.co/dj/tezibel"
   },
   "src": [
    "https://de.ra.co/dj/tezibel"
@@ -2704,7 +2736,8 @@ const AR={
     "u": "https://soundcloud.com/tezibel/fat-burner-mix"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/tezibel.jpg?dateUpdated=1649160889000"
  },
  "Katia Curie": {
   "links": {
@@ -2768,15 +2801,18 @@ const AR={
   ],
   "tracks": [
    "Go And Get It (with Nizar Sarakbi)"
-  ]
+  ],
+  "img": "https://static.ra.co/images/profiles/square/katiacurie.jpg?dateUpdated=1766056471430"
  },
  "Nizar Sarakbi": {
   "links": {
    "sc": "https://soundcloud.com/nizar-sarakbi",
-   "sp": "https://open.spotify.com/artist/4WzYUAMYLTbunT0Cmkboex"
+   "sp": "https://open.spotify.com/artist/4WzYUAMYLTbunT0Cmkboex",
+   "ra": "https://ra.co/dj/nizarsarakbi"
   },
   "src": [
-   "https://ra.co/dj/nizarsarakbi"
+   "https://ra.co/dj/nizarsarakbi",
+   "https://fr.ra.co/dj/nizarsarakbi"
   ],
   "sets": [
    {
@@ -2788,7 +2824,8 @@ const AR={
     "u": "https://soundcloud.com/katia-curie/nizar-sarakbi"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/nizarsarakbi.jpg?dateUpdated=1747852656690"
  },
  "The Advent": {
   "links": {
@@ -2813,19 +2850,23 @@ const AR={
  },
  "COZi": {
   "links": {
-   "sc": "https://soundcloud.com/cozimusic"
+   "sc": "https://soundcloud.com/cozimusic",
+   "ra": "https://ra.co/dj/cozi"
   },
   "src": [
    "https://ra.co/dj/cozi"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/cozi.jpg?dateUpdated=1765353323750"
  },
  "Bludhound": {
   "links": {
-   "sc": "https://soundcloud.com/bludhxund"
+   "sc": "https://soundcloud.com/bludhxund",
+   "ra": "https://ra.co/dj/bludhound"
   },
   "src": [
-   "https://es.ra.co/dj/bludhound"
+   "https://es.ra.co/dj/bludhound",
+   "https://ra.co/dj/bludhound"
   ],
   "sets": [
    {
@@ -2837,7 +2878,8 @@ const AR={
     "u": "https://soundcloud.com/der-radio/bludhound-der-radio"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/bludhound.jpg?dateUpdated=1730462122000"
  },
  "Memet Acuma": {
   "links": {
@@ -2885,7 +2927,8 @@ const AR={
    "Das Werk",
    "Unten",
    "Kapu"
-  ]
+  ],
+  "img": "https://static.ra.co/images/profiles/memetacuma.jpg?dateUpdated=1529938959000"
  },
  "Bambi-S": {
   "links": {
@@ -2926,7 +2969,8 @@ const AR={
  "DORAH": {
   "links": {
    "sc": "https://soundcloud.com/dora-ban",
-   "ig": "https://www.instagram.com/dorah.bpm"
+   "ig": "https://www.instagram.com/dorah.bpm",
+   "ra": "https://ra.co/dj/dorah"
   },
   "src": [
    "https://es.ra.co/dj/dorah"
@@ -2937,7 +2981,8 @@ const AR={
     "u": "https://soundcloud.com/herzfrequenz_techno/dorah-hz-2405"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/dorah.jpg?dateUpdated=1767780618000"
  },
  "maro": {
   "links": {
@@ -2981,7 +3026,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/silentsevir",
    "ig": "https://www.instagram.com/silentsevir",
-   "web": "http://linktr.ee/silentsevir"
+   "web": "http://linktr.ee/silentsevir",
+   "ra": "https://ra.co/dj/silentsevir"
   },
   "src": [
    "https://ra.co/dj/silentsevir"
@@ -2996,12 +3042,14 @@ const AR={
     "u": "https://soundcloud.com/silentsevir/hive-2023-set"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/silentsevir.jpg?dateUpdated=1752757701203"
  },
  "WO.IZZY": {
   "links": {
    "sc": "https://soundcloud.com/wo-izzy",
-   "ig": "https://www.instagram.com/wo.izzy_"
+   "ig": "https://www.instagram.com/wo.izzy_",
+   "ra": "https://ra.co/dj/wo.izzy"
   },
   "src": [
    "https://ra.co/dj/wo.izzy"
@@ -3012,7 +3060,8 @@ const AR={
     "u": "https://soundcloud.com/sodaclubsalzburg/sodastreams-38-wo-izzy"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/wo.izzy.jpg?dateUpdated=1769419964937"
  },
  "Vivienna": {
   "links": {
@@ -3155,12 +3204,14 @@ const AR={
  },
  "Julani": {
   "links": {
-   "sc": "https://soundcloud.com/julani_slctr"
+   "sc": "https://soundcloud.com/julani_slctr",
+   "ra": "https://ra.co/dj/julani"
   },
   "src": [
    "https://ra.co/dj/julani"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/julani.jpg?dateUpdated=1756911615000"
  },
  "Manuel Correa": {
   "links": {
@@ -3241,7 +3292,8 @@ const AR={
    "bc": "https://andycatana.bandcamp.com"
   },
   "src": [
-   "https://de.ra.co/dj/andycatana"
+   "https://de.ra.co/dj/andycatana",
+   "https://andycatana.bandcamp.com"
   ],
   "sets": [
    {
@@ -3249,11 +3301,13 @@ const AR={
     "u": "https://soundcloud.com/nexttimebigtime/next-time-big-time-9-guestmix-by-andy-catana"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://f4.bcbits.com/img/0037264141_21.jpg"
  },
  "Rizmo": {
   "links": {
-   "sc": "https://soundcloud.com/moriz-hutmacher"
+   "sc": "https://soundcloud.com/moriz-hutmacher",
+   "ra": "https://ra.co/dj/rizmo"
   },
   "src": [
    "https://ra.co/dj/rizmo"
@@ -3268,15 +3322,18 @@ const AR={
     "u": "https://soundcloud.com/eyarecords/eya-podcast-94-rizmo"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/rizmo.jpg?dateUpdated=1715964167527"
  },
  "Stipo": {
   "links": {
    "sc": "https://soundcloud.com/stipogonzalo",
-   "ig": "https://www.instagram.com/stipo_rs"
+   "ig": "https://www.instagram.com/stipo_rs",
+   "ra": "https://ra.co/dj/stipo-at"
   },
   "src": [
-   "https://ra.co/dj/stipo-at"
+   "https://ra.co/dj/stipo-at",
+   "https://de.ra.co/dj/stipo-at"
   ],
   "sets": [
    {
@@ -3288,12 +3345,14 @@ const AR={
     "u": "https://soundcloud.com/moveandconnect/stipo-move-connect-podcast"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/stipo-at.jpg?dateUpdated=1744405896187"
  },
  "Arman Shadow": {
   "links": {
    "sc": "https://soundcloud.com/armanshadow",
-   "ig": "https://www.instagram.com/armanshadow"
+   "ig": "https://www.instagram.com/armanshadow",
+   "ra": "https://ra.co/dj/armanshadow"
   },
   "src": [
    "https://de.ra.co/dj/armanshadow"
@@ -3308,7 +3367,8 @@ const AR={
     "u": "https://soundcloud.com/armanshadow/deep-dive-camera-club-15072022"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/armanshadow.jpg?dateUpdated=1764132002880"
  },
  "Ben Derris": {
   "links": {
@@ -3526,22 +3586,26 @@ const AR={
  "Max Kernmayer": {
   "links": {
    "sc": "https://soundcloud.com/maxkernmayer",
-   "ig": "https://www.instagram.com/maxkernmayer"
+   "ig": "https://www.instagram.com/maxkernmayer",
+   "ra": "https://ra.co/dj/maxkernmayer"
   },
   "src": [
    "https://ra.co/dj/maxkernmayer"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/maxkernmayer.jpg?dateUpdated=1546821638000"
  },
  "Rui de Janeiro": {
   "links": {
    "sc": "https://soundcloud.com/rui-dejaneiro",
-   "ig": "https://www.instagram.com/rui.dejaneiro"
+   "ig": "https://www.instagram.com/rui.dejaneiro",
+   "ra": "https://ra.co/dj/ruidejaneiro"
   },
   "src": [
    "https://de.ra.co/dj/ruidejaneiro"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/ruidejaneiro.jpg?dateUpdated=1717603677000"
  },
  "Ele Luz": {
   "links": {
@@ -3549,7 +3613,8 @@ const AR={
    "sp": "https://open.spotify.com/artist/6CAmOOikxXb6SmPODWGN5d"
   },
   "src": [
-   "https://ra.co/dj/eleluz"
+   "https://ra.co/dj/eleluz",
+   "https://open.spotify.com/artist/6CAmOOikxXb6SmPODWGN5d"
   ],
   "sets": [
    {
@@ -3561,24 +3626,28 @@ const AR={
     "u": "https://soundcloud.com/ele_luz/ele-luz-sudpol-alles-auf-null-01012025"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://i.scdn.co/image/ab6761610000e5eb6a47af2dd6f1fff22f265ab8"
  },
  "PSMT": {
   "links": {
    "sc": "https://soundcloud.com/philipp-siegmeth",
    "ig": "https://www.instagram.com/philippsiegmeth",
-   "bc": "https://psmt.bandcamp.com"
+   "bc": "https://psmt.bandcamp.com",
+   "ra": "https://ra.co/dj/psmt"
   },
   "src": [
    "https://ra.co/dj/psmt"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/psmt.jpg?dateUpdated=1793047727933"
  },
  "Crystal O": {
   "links": {
    "sc": "https://soundcloud.com/crystal_o",
    "ig": "https://www.instagram.com/crystal.o.vienna",
-   "web": "http://crystal-o.com"
+   "web": "http://crystal-o.com",
+   "ra": "https://ra.co/dj/crystalo"
   },
   "src": [
    "https://de.ra.co/dj/crystalo"
@@ -3593,7 +3662,8 @@ const AR={
     "u": "https://soundcloud.com/herzfrequenz_techno/crystal-o-herzfrequenz-pride-edition-das-werk-01062024-set-recording"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/crystalo.jpg?dateUpdated=1664963179000"
  },
  "Apua": {
   "links": {
@@ -3619,7 +3689,8 @@ const AR={
     "u": "https://soundcloud.com/kopfbeifuss/kbf-radio-08-apua"
    }
   ],
-  "setsChecked": "2026-10-28"
+  "setsChecked": "2026-10-28",
+  "img": "https://static.ra.co/images/profiles/apua.jpg?dateUpdated=1484824441833"
  },
  "Peter Pixzel": {
   "links": {
@@ -3631,7 +3702,8 @@ const AR={
   "from": {
    "de": "London, Vereinigtes Königreich",
    "en": "London, United Kingdom"
-  }
+  },
+  "img": "https://static.ra.co/images/profiles/peterpixzel.jpg?dateUpdated=1287578646000"
  },
  "Sam Gittis": {
   "links": {
@@ -3655,10 +3727,12 @@ const AR={
     "u": "https://soundcloud.com/samgittis/samgittisdarkroomset"
    }
   ],
-  "setsChecked": "2026-10-28"
+  "setsChecked": "2026-10-28",
+  "img": "https://static.ra.co/images/profiles/square/samgittis.jpg?dateUpdated=1749156896243"
  },
  "DizzyDray": {
-  "noLinks": "2026-10-28"
+  "noLinks": "2026-10-28",
+  "noImg": "2026-10-28"
  },
  "Vanessa Sa": {
   "links": {
@@ -3682,7 +3756,8 @@ const AR={
     "u": "https://soundcloud.com/urban-fm-608950226/urban-sessions-vanessa-sa-145"
    }
   ],
-  "setsChecked": "2026-10-28"
+  "setsChecked": "2026-10-28",
+  "img": "https://static.ra.co/images/profiles/square/vanessasa.jpg?dateUpdated=1750242437000"
  },
  "Casanoah": {
   "links": {
@@ -3694,34 +3769,42 @@ const AR={
     "u": "https://soundcloud.com/soundlabs-rmc/soundlabs-session-1-casanoah"
    }
   ],
-  "setsChecked": "2026-10-28"
+  "setsChecked": "2026-10-28",
+  "noImg": "2026-10-28"
  },
  "Aleta": {
-  "noLinks": "2026-10-28"
+  "noLinks": "2026-10-28",
+  "noImg": "2026-10-28"
  },
  "Seba": {
   "noLinks": "2026-10-28"
  },
  "Melchiorr": {
-  "noLinks": "2026-10-28"
+  "noLinks": "2026-10-28",
+  "noImg": "2026-10-28"
  },
  "Osmos": {
-  "noLinks": "2026-10-28"
+  "noLinks": "2026-10-28",
+  "noImg": "2026-10-28"
  },
  "Prakas": {
   "links": {
-   "ra": "https://ra.co/dj/prakas"
+   "ra": "https://ra.co/dj/prakas",
+   "sc": "https://soundcloud.com/prakas_schranz"
   },
   "src": [
-   "https://ra.co/dj/prakas/tour-dates"
+   "https://ra.co/dj/prakas/tour-dates",
+   "https://ra.co/dj/prakas"
   ],
   "from": {
    "de": "Deutschland",
    "en": "Germany"
-  }
+  },
+  "img": "https://static.ra.co/images/profiles/square/prakas.jpg?dateUpdated=1791540455663"
  },
  "Farbod": {
-  "noLinks": "2026-10-28"
+  "noLinks": "2026-10-28",
+  "noImg": "2026-10-28"
  },
  "Patrick M4SS": {
   "links": {
@@ -3729,7 +3812,8 @@ const AR={
    "sp": "https://open.spotify.com/artist/3ID7rrudaERHQPjtHZDSVs"
   },
   "src": [
-   "https://open.spotify.com/track/2ic4vdco6f9MwZCPJB4QvV"
+   "https://open.spotify.com/track/2ic4vdco6f9MwZCPJB4QvV",
+   "https://open.spotify.com/artist/3ID7rrudaERHQPjtHZDSVs"
   ],
   "sets": [
    {
@@ -3741,16 +3825,19 @@ const AR={
     "u": "https://soundcloud.com/herzfrequenz_techno/crystal-ohne-f2f-patrick-m4ss-vs-a-face2face-rave-das-werk-15082025-set-recording-1"
    }
   ],
-  "setsChecked": "2026-10-28"
+  "setsChecked": "2026-10-28",
+  "img": "https://i.scdn.co/image/ab6761610000e5eb3e0464abd55a3415fbcf8e19"
  },
  "Lenzi": {
   "noLinks": "2026-10-28"
  },
  "Adam19": {
-  "noLinks": "2026-10-28"
+  "noLinks": "2026-10-28",
+  "noImg": "2026-10-28"
  },
  "Meril Fox": {
-  "noLinks": "2026-10-28"
+  "noLinks": "2026-10-28",
+  "noImg": "2026-10-28"
  },
  "Noel": {
   "noLinks": "2026-10-28"
@@ -3769,13 +3856,15 @@ const AR={
     "u": "https://soundcloud.com/joro_und_joabo/peaktimetechno0722"
    }
   ],
-  "setsChecked": "2026-10-28"
+  "setsChecked": "2026-10-28",
+  "noImg": "2026-10-28"
  },
  "Atomik": {
   "noLinks": "2026-10-28"
  },
  "Norg3n": {
-  "noLinks": "2026-10-28"
+  "noLinks": "2026-10-28",
+  "noImg": "2026-10-28"
  },
  "Peter Pan": {
   "links": {
@@ -3792,7 +3881,8 @@ const AR={
    "de": "Norwegen",
    "en": "Norway"
   },
-  "setsChecked": "2026-10-28"
+  "setsChecked": "2026-10-28",
+  "img": "https://static.ra.co/images/profiles/square/peterpan-no.jpg?dateUpdated=1772446692163"
  },
  "JP eXbert": {
   "links": {
@@ -3814,7 +3904,8 @@ const AR={
     "u": "https://soundcloud.com/bazooka-entertainment/jp-exbert-techno-acidtechno"
    }
   ],
-  "setsChecked": "2026-10-28"
+  "setsChecked": "2026-10-28",
+  "img": "https://static.ra.co/images/profiles/square/jpexbert.jpg?dateUpdated=1740684805353"
  },
  "Aschenbrenner": {
   "links": {
@@ -3834,7 +3925,8 @@ const AR={
     "u": "https://soundcloud.com/michi-aschenbrenner-1/grelle-forelle-mainfloor-07-06"
    }
   ],
-  "setsChecked": "2026-10-28"
+  "setsChecked": "2026-10-28",
+  "img": "https://static.ra.co/images/profiles/square/aschenbrenner.jpg?dateUpdated=1770631536000"
  },
  "The Tunegirl": {
   "links": {
@@ -3850,13 +3942,16 @@ const AR={
     "u": "https://soundcloud.com/tunegirl/tunegirl-jam-002"
    }
   ],
-  "setsChecked": "2026-10-28"
+  "setsChecked": "2026-10-28",
+  "noImg": "2026-10-28"
  },
  "Alex Maurer": {
-  "noLinks": "2026-10-28"
+  "noLinks": "2026-10-28",
+  "noImg": "2026-10-28"
  },
  "DJ Bottleghost": {
-  "noLinks": "2026-10-28"
+  "noLinks": "2026-10-28",
+  "noImg": "2026-10-28"
  },
  "DJ Veloziped": {
   "links": {
@@ -3880,7 +3975,8 @@ const AR={
     "u": "https://soundcloud.com/thetributemixshow/207-a-tribute-to-dj-hell-mixed-by-veloziped"
    }
   ],
-  "setsChecked": "2026-10-28"
+  "setsChecked": "2026-10-28",
+  "img": "https://static.ra.co/images/profiles/veloziped.jpg?dateUpdated=1301554098000"
  },
  "Altroy Jerome": {
   "links": {
@@ -3892,7 +3988,219 @@ const AR={
   "from": {
    "de": "Österreich",
    "en": "Austria"
-  }
+  },
+  "img": "https://static.ra.co/images/profiles/square/altroyjerome.jpg?dateUpdated=1746100566000"
+ },
+ "saschka": {
+  "img": "https://static.ra.co/images/profiles/square/saschka.jpg?dateUpdated=1790180348463",
+  "links": {
+   "ra": "https://ra.co/dj/saschka",
+   "sc": "https://soundcloud.com/saschkadj"
+  },
+  "src": [
+   "https://pl.ra.co/dj/saschka"
+  ]
+ },
+ "Weazl": {
+  "img": "https://static.ra.co/images/profiles/square/weazl.jpg?dateUpdated=1713883742000",
+  "links": {
+   "ra": "https://ra.co/dj/weazl"
+  },
+  "src": [
+   "https://ra.co/dj/weazl"
+  ]
+ },
+ "Magnetude": {
+  "img": "https://static.ra.co/images/profiles/square/magnetude.jpg?dateUpdated=1738720233000",
+  "links": {
+   "ra": "https://ra.co/dj/magnetude",
+   "bc": "https://magnetude.bandcamp.com",
+   "sc": "https://soundcloud.com/magnetude"
+  },
+  "src": [
+   "https://ra.co/dj/magnetude"
+  ]
+ },
+ "dj sweet6teen": {
+  "img": "https://static.ra.co/images/profiles/square/djsweet6teen.jpg?dateUpdated=1789122042677",
+  "links": {
+   "ra": "https://ra.co/dj/djsweet6teen",
+   "sc": "https://soundcloud.com/djsweet6teen"
+  },
+  "src": [
+   "https://fr.ra.co/dj/djsweet6teen"
+  ]
+ },
+ "Konrad Kaltenböck": {
+  "noImg": "2026-10-28"
+ },
+ "Frühwerk": {
+  "noImg": "2026-10-28"
+ },
+ "Delaine": {
+  "noImg": "2026-10-28"
+ },
+ "Saint A": {
+  "noImg": "2026-10-28"
+ },
+ "Foxloe": {
+  "noImg": "2026-10-28"
+ },
+ "Reinhard Zach": {
+  "noImg": "2026-10-28"
+ },
+ "Leon Diamant": {
+  "noImg": "2026-10-28"
+ },
+ "Peradise": {
+  "noImg": "2026-10-28"
+ },
+ "Sweet Spot": {
+  "noImg": "2026-10-28"
+ },
+ "Deleven": {
+  "noImg": "2026-10-28"
+ },
+ "Ryta Tale": {
+  "noImg": "2026-10-28"
+ },
+ "Clemotone": {
+  "noImg": "2026-10-28"
+ },
+ "Countessa": {
+  "noImg": "2026-10-28"
+ },
+ "Flual": {
+  "noImg": "2026-10-28"
+ },
+ "Bloodsugar": {
+  "noImg": "2026-10-28"
+ },
+ "Pinklotion": {
+  "noImg": "2026-10-28"
+ },
+ "Gopnikbarbie": {
+  "noImg": "2026-10-28"
+ },
+ "Hello Kiffy": {
+  "noImg": "2026-10-28"
+ },
+ "Kristus": {
+  "noImg": "2026-10-28"
+ },
+ "Pitch Madattak": {
+  "noImg": "2026-10-28"
+ },
+ "Gehlektek": {
+  "noImg": "2026-10-28"
+ },
+ "Apocalypz": {
+  "noImg": "2026-10-28"
+ },
+ "Miss Undertaker": {
+  "noImg": "2026-10-28"
+ },
+ "Sportacore": {
+  "noImg": "2026-10-28"
+ },
+ "Cheddar Boyz": {
+  "noImg": "2026-10-28"
+ },
+ "Veneno": {
+  "noImg": "2026-10-28"
+ },
+ "PRDK": {
+  "noImg": "2026-10-28"
+ },
+ "DNBREAK": {
+  "noImg": "2026-10-28"
+ },
+ "Scapula": {
+  "noImg": "2026-10-28"
+ },
+ "Skeedz": {
+  "noImg": "2026-10-28"
+ },
+ "Rellux": {
+  "noImg": "2026-10-28"
+ },
+ "Sinis": {
+  "noImg": "2026-10-28"
+ },
+ "Mayez": {
+  "noImg": "2026-10-28"
+ },
+ "Ben Leander": {
+  "noImg": "2026-10-28"
+ },
+ "2bihonest": {
+  "noImg": "2026-10-28"
+ },
+ "Sarah Dæwie": {
+  "noImg": "2026-10-28"
+ },
+ "Jade Anima": {
+  "noImg": "2026-10-28"
+ },
+ "Burr Oak": {
+  "noImg": "2026-10-28"
+ },
+ "Zombie Cats": {
+  "noImg": "2026-10-28"
+ },
+ "Kaama": {
+  "noImg": "2026-10-28"
+ },
+ "Didz": {
+  "noImg": "2026-10-28"
+ },
+ "Puppy Devil": {
+  "noImg": "2026-10-28"
+ },
+ "ADOBEAR": {
+  "noImg": "2026-10-28"
+ },
+ "BAD PANDA": {
+  "noImg": "2026-10-28"
+ },
+ "YAKKA": {
+  "noImg": "2026-10-28"
+ },
+ "Misspixie": {
+  "noImg": "2026-10-28"
+ },
+ "Stefanie Brida": {
+  "noImg": "2026-10-28"
+ },
+ "Wisteria": {
+  "noImg": "2026-10-28"
+ },
+ "Sanex": {
+  "noImg": "2026-10-28"
+ },
+ "PATRIK HOUR": {
+  "noImg": "2026-10-28"
+ },
+ "Pau:sa": {
+  "noImg": "2026-10-28"
+ },
+ "MA!A": {
+  "noImg": "2026-10-28"
+ },
+ "Ferdinand Schwarz": {
+  "noImg": "2026-10-28"
+ },
+ "Baby Blue": {
+  "noImg": "2026-10-28"
+ },
+ "Artifex": {
+  "noImg": "2026-10-28"
+ },
+ "LUZZT": {
+  "noImg": "2026-10-28"
+ },
+ "Qaoz": {
+  "noImg": "2026-10-28"
  }
 };
 const VG={
