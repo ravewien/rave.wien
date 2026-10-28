@@ -748,8 +748,7 @@ footer a:hover{color:var(--accent)}
 <button class="stackx" id="stackx" type="button" hidden></button>
 <div class="pullhint" id="pullhint" hidden><span></span><i></i></div>
 
-<script src="events.js"></script>
-<script src="past.js"></script>
+<script>(()=>{const q=/(^|\.)rave\.wien$/.test(location.hostname)?"?v="+Math.floor(Date.now()/60000):"";document.write('<script src="events.js'+q+'"><\/script><script src="past.js'+q+'"><\/script>')})()</script>
 <script>
 const VRULES=typeof VR!=="undefined"?VR:{};const SORG=typeof SO!=="undefined"?SO:[];const CGEN=typeof CG!=="undefined"?CG:{};
 function norm(t){return t.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/w\/|with|pres\.?|presents|feat\.?|at prst|<>|<|>|[|×x&+\-–:.,!'"()\/]/g," ").replace(/\s+/g," ").trim()}
