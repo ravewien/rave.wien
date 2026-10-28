@@ -399,6 +399,7 @@ iframe.mc{width:100%;height:60px;border:0;margin-bottom:6px}
 .lgt{position:relative;flex:none;display:inline-grid;place-items:center;width:44px;height:44px;border-radius:4px;background:#1b1e24;border:1px solid var(--line);overflow:hidden;font-family:var(--f-pixel);font-weight:900;font-size:15px;line-height:1;color:var(--mute);padding:0}
 .lgt img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:10%;background:inherit;box-sizing:border-box}
 .lgt.big{width:60px;height:60px;font-size:20px}
+.lgt.ph img{object-fit:cover;padding:0}.lgt img{padding:4%}.lgt[data-flyer]{cursor:zoom-in}.lgt[data-flyer]:hover{border-color:var(--fg)}
 .lgt.fly{width:64px;height:64px;cursor:zoom-in;background:#2a2d33}.lgt.fly img{object-fit:cover;padding:0}
 .lgt.fly:hover{border-color:var(--fg)}
 .ehead .head.wt{display:flow-root}.ehead .head.wt>.lgt{float:left;margin:3px 12px 2px 0}.ehead .head.wt h2{display:inline}.ehead .head.wt .vchk{display:inline-block;margin-left:8px;vertical-align:2px}
@@ -966,7 +967,7 @@ const coversOn=()=>!EMBED||consentOK();
 const isLogo=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif|svg)(\?[^"'<>\s]*)?$/i.test(u||"")||/^https:\/\/i\.scdn\.co\/image\/[a-z0-9]+$/i.test(u||"");
 const initials=n=>n.replace(/^(the|club|das|der|die|o)\s+/i,"").split(/[\s\-–.]+/).filter(w=>/^[A-Za-z0-9ÄÖÜäöü]/.test(w)).slice(0,2).map(w=>w[0].toUpperCase()).join("")||n.slice(0,2).toUpperCase();
 function logoTile(n,cls,info){const vi=info||VINFO[n]||{};const lu=vi.logo||vi.img;const ok=isLogo(lu)&&coversOn();const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:"";
-  return `<span class="lgt${cls?" "+cls:""}" aria-hidden="true"${bg?` style="background:${bg}"`:""}>${esc(initials(n))}${ok?`<img src="${esc(lu)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
+  return `<span class="lgt${cls?" "+cls:""}${vi.img&&!vi.logo?" ph":""}" aria-hidden="true"${bg?` style="background:${bg}"`:""}${ok?` data-flyer="${esc(lu)}" data-ft="${esc(n)}"`:""}>${esc(initials(n))}${ok?`<img src="${esc(lu)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
 function coverHTML(e){return `<span class="cov" aria-hidden="true"${isImg(e.flyer)&&coversOn()?` data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}"`:""}>${isImg(e.flyer)&&coversOn()?`<img src="${esc(e.flyer)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
 document.addEventListener("error",ev=>{const t=ev.target;if(t&&t.tagName==="IMG"&&t.parentNode&&t.parentNode.classList&&(t.parentNode.classList.contains("cov")||t.parentNode.classList.contains("lgt"))){t.parentNode.removeAttribute("data-flyer");t.remove()}},true);
 let PTOT=0;
@@ -1577,7 +1578,7 @@ function setView(v){if(st.view===v)return;st.view=v;save();scrollTo(0,0);render(
 document.addEventListener("keydown",ev=>{if(ev.key==="Escape"&&!$("flybox").hidden){$("flybox").hidden=true;return}if((ev.key==="Enter"||ev.key===" ")&&ev.target.dataset&&ev.target.dataset.pin!=null){ev.preventDefault();ev.target.dispatchEvent(new MouseEvent("click",{bubbles:true}));return}if(ev.key==="Escape"&&$("side").classList.contains("open")){drawer(false);return}if(ev.key==="Escape"&&document.activeElement!==$("q")&&st.cards.length){closeCard(ck(st.cards[st.cards.length-1]))}});
 document.addEventListener("click",ev=>{
   if(ev.target.closest("a[download]"))return;
-  const fy=ev.target.closest("[data-flyer]");if(fy){ev.preventDefault();const b=$("flybox");b.innerHTML=`<img src="${esc(fy.dataset.flyer)}" alt="${esc(fy.dataset.ft||"Flyer")}" referrerpolicy="no-referrer"><button class="fx" type="button" aria-label="${L().close}">×</button><a href="${esc(su(fy.dataset.flyer))}" target="_blank" rel="noopener">${L().flyer} ↗</a>`;b.hidden=false;if(!fy.closest(".row[data-id]"))return}
+  const fy=ev.target.closest("[data-flyer]");if(fy){ev.preventDefault();const b=$("flybox");b.innerHTML=`<img src="${esc(fy.dataset.flyer)}" alt="${esc(fy.dataset.ft||"Flyer")}" referrerpolicy="no-referrer"><button class="fx" type="button" aria-label="${L().close}">×</button><a href="${esc(su(fy.dataset.flyer))}" target="_blank" rel="noopener">${L().flyer} ↗</a>`;b.hidden=false;if(!fy.closest(".row"))return}
   if(ev.target.closest("#flybox")&&!ev.target.closest("#flybox a")){$("flybox").hidden=true;return}
   const pl=ev.target.closest("[data-play]");if(pl){ev.preventDefault();dockPlay(pl.dataset.play,pl.dataset.pt);return}
   if(ev.target.closest("[data-dockx]")){dockClose();return}
