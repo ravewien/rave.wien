@@ -396,7 +396,14 @@ iframe.mc{width:100%;height:60px;border:0;margin-bottom:6px}
 .ehead .flybg{position:absolute;inset:-24px;z-index:-2;pointer-events:none}
 .ehead .flybg img{width:100%;height:100%;object-fit:cover;filter:blur(14px) saturate(1.3);opacity:.75}
 .ehead.hasfly::after{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;background:linear-gradient(90deg,rgba(19,21,25,.88),rgba(19,21,25,.62))}
-.ehead .flyrow{margin-top:8px}
+.lgt{position:relative;flex:none;display:inline-grid;place-items:center;width:44px;height:44px;border-radius:4px;background:#1b1e24;border:1px solid var(--line);overflow:hidden;font-family:var(--f-pixel);font-weight:900;font-size:15px;line-height:1;color:var(--mute);padding:0}
+.lgt img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:10%;background:inherit;box-sizing:border-box}
+.lgt.big{width:60px;height:60px;font-size:20px}
+.lgt.fly{width:64px;height:64px;cursor:zoom-in;background:#2a2d33}.lgt.fly img{object-fit:cover;padding:0}
+.lgt.fly:hover{border-color:var(--fg)}
+.ehead .head.wt{display:flow-root}.ehead .head.wt>.lgt{float:left;margin:3px 12px 2px 0}.ehead .head.wt h2{display:inline}.ehead .head.wt .vchk{display:inline-block;margin-left:8px;vertical-align:2px}
+.ehead .head.wt .lgt.big{margin-top:0}.ehead .head.wt .lgt.big+h2{display:block;min-height:60px;display:flex;align-items:center}
+.xr .c1.wl{flex-direction:row;align-items:center;gap:10px}.xr .c1t{display:flex;flex-direction:column;gap:4px;min-width:0}
 .ehead .flybtn{position:relative;z-index:2;font-family:var(--f-mono);font-weight:700;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--fg);background:rgba(0,0,0,.55);border:1px solid rgba(255,255,255,.22);border-radius:3px;padding:4px 8px;cursor:zoom-in}
 .ehead .flybtn:hover{border-color:var(--fg)}
 .flybox{position:fixed;inset:0;z-index:220;background:rgba(0,0,0,.88);display:grid;place-items:center;padding:16px;cursor:zoom-out}
@@ -957,8 +964,12 @@ function rowHTML(e){
 /* flyer covers: hot-linked from the source (not downloaded); vinyl placeholder underneath */
 const isImg=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif)(\?[^"'<>\s]*)?$/i.test(u||"");
 const coversOn=()=>!EMBED||consentOK();
+const isLogo=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif|svg)(\?[^"'<>\s]*)?$/i.test(u||"");
+const initials=n=>n.replace(/^(the|club|das|der|die|o)\s+/i,"").split(/[\s\-–.]+/).filter(w=>/^[A-Za-z0-9ÄÖÜäöü]/.test(w)).slice(0,2).map(w=>w[0].toUpperCase()).join("")||n.slice(0,2).toUpperCase();
+function logoTile(n,cls){const vi=VINFO[n]||{};const ok=isLogo(vi.logo)&&coversOn();const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:"";
+  return `<span class="lgt${cls?" "+cls:""}" aria-hidden="true"${bg?` style="background:${bg}"`:""}>${esc(initials(n))}${ok?`<img src="${esc(vi.logo)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
 function coverHTML(e){return `<span class="cov" aria-hidden="true"${isImg(e.flyer)&&coversOn()?` data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}"`:""}>${isImg(e.flyer)&&coversOn()?`<img src="${esc(e.flyer)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
-document.addEventListener("error",ev=>{const t=ev.target;if(t&&t.tagName==="IMG"&&t.parentNode&&t.parentNode.classList&&t.parentNode.classList.contains("cov")){t.parentNode.removeAttribute("data-flyer");t.remove()}},true);
+document.addEventListener("error",ev=>{const t=ev.target;if(t&&t.tagName==="IMG"&&t.parentNode&&t.parentNode.classList&&(t.parentNode.classList.contains("cov")||t.parentNode.classList.contains("lgt"))){t.parentNode.removeAttribute("data-flyer");t.remove()}},true);
 let PTOT=0;
 function topH(){return (parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--top2"))||56)+8}
 function renderList(){
@@ -1363,7 +1374,7 @@ function renderVen(vd,n){
   const links=[];if(vi.web)links.push(["web",vi.web]);links.push(["ra","https://ra.co/search?query="+q]);
   vd.innerHTML=`${ctopHTML(l.vKind,favBtn("v",n))}
   <div class="ehead"><div class="emain">
-    <div class="head"><h2>${esc(n)}${vi.closed?`<span class="badge">${l.closedV}</span>`:""}</h2></div>
+    <div class="head wt">${logoTile(n,"big")}<h2>${esc(n)}${vi.closed?`<span class="badge">${l.closedV}</span>`:""}</h2></div>
     ${addr?`<a class="addr" href="${route}" target="_blank" rel="noopener">${esc(addr)} ↗</a>`:""}
     ${FLAGS.some(f=>vr[f[0]])?`<div class="flags">${ruleTags(vr,l.house)}</div>`:""}
     ${gclHTML(tg)}
@@ -1386,7 +1397,7 @@ function renderLocs(){
   $("out").innerHTML=`<div class="xlist x-ven">${xheadHTML("ven")}${rows.map(r=>{const vi=VINFO[r.n]||{};const vr=VRULES[r.n]||{};const g={};r.all.forEach(e=>e.genres.forEach(x=>g[x]=(g[x]||0)+1));const tg=Object.entries(g).sort((a,b)=>b[1]-a[1]).slice(0,4).map(x=>x[0]);
     const snd=vr.sound?(vr.sound[st.lang]||vr.sound.de||""):"";
     const rules=(vr.age?`<span class="flag age">${esc(vr.age)}</span>`:"")+ruleFlags(vr)+(snd?`<span class="snd">♫ ${esc(snd.length>48?snd.slice(0,46)+"…":snd)}</span>`:"");
-    return xrowHTML({k:"ven",attr:`data-vopen="${esc(r.n)}"`,cur:st.ven===r.n,name:r.n,closed:vi.closed,sub:V[r.n]&&V[r.n]!=="TBA"?V[r.n]:"",tags:"",c2:"",
+    return xrowHTML({k:"ven",tile:logoTile(r.n),attr:`data-vopen="${esc(r.n)}"`,cur:st.ven===r.n,name:r.n,closed:vi.closed,sub:V[r.n]&&V[r.n]!=="TBA"?V[r.n]:"",tags:"",c2:"",
       gen:tg,flags:rules,nx:r.up[0],nxSub:r.up[0]?`<span class="nxt">${esc(r.up[0].title)}</span>`:"",n1:r.up.length,n1l:l.cUp,ex:""})}).join("")}</div>`;
 }
 function renderColls(){
@@ -1408,7 +1419,7 @@ function xheadHTML(k){const l=L();const H={art:[l.thArt,l.origin,l.genres,l.thNe
   return `<div class="xhead">${H.map((h,i)=>`<span class="h${i}">${esc(h)}</span>`).join("")}</div>`}
 function xrowHTML(o){const l=L();
   return `<button class="row xr${o.n1?"":" x0"}" ${o.attr} aria-current="${o.cur}"><span class="main">
-    <span class="c1"><span class="ti">${esc(o.name)}${o.closed?`<span class="badge">${l.closedV}</span>`:""}</span>${o.sub?`<small class="sub">${esc(o.sub)}</small>`:""}${o.tags?`<span class="tags">${o.tags}</span>`:""}</span>
+    <span class="c1${o.tile?" wl":""}">${o.tile||""}${o.tile?`<span class="c1t">`:""}<span class="ti">${esc(o.name)}${o.closed?`<span class="badge">${l.closedV}</span>`:""}</span>${o.sub?`<small class="sub">${esc(o.sub)}</small>`:""}${o.tags?`<span class="tags">${o.tags}</span>`:""}${o.tile?`</span>`:""}</span>
     ${o.c2?`<small class="c2">${esc(o.c2)}</small>`:""}
     <span class="gf">${o.gen.length?`<span class="tags"><span class="gcl"><b>♫</b>${o.gen.map(g=>`<span>${esc(g)}</span>`).join("")}</span></span>`:""}${o.flags?`<span class="flags">${o.flags}</span>`:""}</span></span>
     <span class="stub"><span class="nx">${o.nx?`<span class="nd">${fmtDay(o.nx.d)}</span>${o.nxSub}`:`<span class="nd no">–</span>`}</span>${o.n1?`<span class="xn n1">${o.n1}<small>${esc(o.n1l)}</small></span>`:""}${o.ex?`<span class="ex">${o.ex}</span>`:""}</span></button>`}
@@ -1448,14 +1459,13 @@ function renderEv(dk,id){
   const pm=e.price?String(e.price).split(/\s+[·|\/]\s+|,\s+/):[];
   const fimg=isImg(e.flyer)&&coversOn();
   dk.innerHTML=`<div class="ctop"><span class="akind">${l.evKind}</span><span class="cbtns">${favBtn("e",e.id)}<button class="close" data-close aria-label="${l.close}">×</button></span></div>
-    <div class="ehead${fimg?" hasfly":""}">${fimg?`<span class="flybg" aria-hidden="true"><img src="${esc(e.flyer)}" alt="" loading="lazy" referrerpolicy="no-referrer"></span>`:""}<div class="emain">
-      <div class="head"><h2>${esc(e.title)}</h2>${vchk(e)}</div>
+    <div class="ehead"><div class="emain">
+      <div class="head${fimg?" wt":""}">${fimg?`<button type="button" class="lgt fly" data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}" aria-label="${esc(l.flyer)}"><img src="${esc(e.flyer)}" alt="" loading="lazy" referrerpolicy="no-referrer"></button>`:""}<h2>${esc(e.title)}</h2>${vchk(e)}</div>
       <div class="tags"><button class="tag ve" data-venue="${esc(e.venue)}">${IPIN}${esc(e.venue)}</button>${e.coll.map(c=>`<button class="tag co" data-coll="${esc(c)}">${ICOL}${esc(c)}</button>`).join("")}</div>
       ${addr?`<a class="addr" href="${maps(e)}" target="_blank" rel="noopener" title="${l.maps}">${esc(addr)} ↗</a>`:""}
       ${e.genres.length?`<span class="tags"><span class="gcl"><b>♫</b>${e.genres.map(g=>`<button data-f="g" data-n="${esc(g)}"${e.typGenres.includes(g)?` class="typ" title="${esc(l.typ)}"`:""}>${esc(g)}${e.typGenres.includes(g)?"*":""}</button>`).join("")}</span></span>`:""}
       ${vibe.length?`<div class="flags">${vibe.join("")}</div>`:""}
       ${!e.conf?`<div class="flags"><span class="flag uc"><i class="ico uc">?</i>${esc(l.single)}</span></div>`:""}
-      ${fimg?`<div class="flyrow"><button type="button" class="flybtn" data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}">⤢ Flyer</button></div>`:""}
     </div><span class="stub"><span class="dt">${fmtDay(e.d)}</span><span class="t">${e.s||"--:--"}<small>-${e.e||"?"}</small></span>${e.age?`<span class="flag age"${e.clubAge&&e.age!==e.clubAge?` title="${esc(l.clubRule+" "+e.clubAge)}"`:""}>${esc(e.age)}</span>`:`<span class="flag age" style="color:var(--mute)">${l.na}</span>`}<span class="price">${pm.length?esc(pm[0]):l.na}${pm.length>1?`<small>${esc(pm.slice(1).join(" · "))}</small>`:""}${e.altPrice?`<small>${l.alt}: ${esc(e.altPrice)}</small>`:""}</span></span></div>
     ${e.note?`<div class="note">${esc(e.note[st.lang])}</div>`:""}
     <div><h3>${hasTimes?l.timetable:l.lineup}</h3>${e.sound&&!anyFloorSound?`<div class="sndline"><span class="sndk">SOUND</span>${esc(sfl?Object.values(sfl).map(x=>x[st.lang]||x.de).join(" · "):(e.sound[st.lang]||e.sound.de))}</div>`:""}${pads}</div>
