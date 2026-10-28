@@ -580,9 +580,12 @@ const CI={
    "Feni"
   ],
   "src": [
-   "https://ponyhof-official.at/"
+   "https://ponyhof-official.at/",
+   "https://ponyhof-official.at/en/"
   ],
-  "membersSrc": "https://ponyhof-official.at/"
+  "membersSrc": "https://ponyhof-official.at/",
+  "logo": "https://ponyhof-official.at/wp-content/uploads/2021/06/cropped-ponyhof_sticker_Black_rainbow-II-270x270.png",
+  "logoBg": "#ffffff"
  },
  "Techno Vienna": {
   "web": "https://technovienna.com/",
@@ -590,8 +593,10 @@ const CI={
   "from": "Wien",
   "src": [
    "https://technovienna.com/",
-   "https://de.ra.co/events/2223948"
-  ]
+   "https://de.ra.co/events/2223948",
+   "https://www.technovienna.com/en/home/"
+  ],
+  "logo": "https://www.technovienna.com/wp-content/uploads/2021/06/Logo_nl_2.png"
  },
  "Heimlich": {
   "de": "Downtempo-Kollektiv aus Wien (seit Dezember 2015), Projekt des Vereins für angewandte Beschallung; Partys meist unter 100 BPM, dazu das Label Heimlich Musik.",
@@ -669,7 +674,8 @@ const CI={
   ],
   "founded": "2015",
   "ig": "https://www.instagram.com/heimlichcrew/",
-  "membersSrc": "https://heimlich.online/artists"
+  "membersSrc": "https://heimlich.online/artists",
+  "logo": "https://images.squarespace-cdn.com/content/v1/584c26392e69cf97b9090b2b/1611049853178-TGV1HYVMOKWBB22MBJGQ/Heimlich-Vienna-Downtempo-Musik-Music-Label-Slow-House-Electronica-Rave.png?format=1500w"
  },
  "hausgemacht": {
   "de": "Wiener Kollektiv (seit 2014, Crew von 40–50 Leuten) hinter der sexpositiven Eventreihe „ZusammenKommen“, u. a. in der Grellen Forelle und im Club Exil.",
@@ -716,7 +722,8 @@ const CI={
   "exMembers": [
    "Anni Herzer"
   ],
-  "membersSrc": "https://www.hausgemacht.org/en/djs"
+  "membersSrc": "https://www.hausgemacht.org/en/djs",
+  "noLogo": "2026-10-28"
  },
  "Journey to Tarab": {
   "de": "Wiener Kollektiv, Partys „von Freund*innen für Freund*innen“, oft gemeinsam mit Im Freudentaumel im FLUCC.",
@@ -745,7 +752,8 @@ const CI={
    "https://ohschonhell.at/orte/flucc/50"
   ],
   "founded": "2022",
-  "foundedNote": 1
+  "foundedNote": 1,
+  "noLogo": "2026-10-28"
  },
  "Zuckerwatt": {
   "founded": "2008",
@@ -754,14 +762,16 @@ const CI={
   "en": "Techno series by Andreas, Fabian and Thomas (idea on New Year's Eve 2007/08), e.g. at Grelle Forelle, Sass, Flex and Pratersauna.",
   "src": [
    "https://goodnight.at/magazin/party/1992-die-coolsten-veranstaltungskollektive-wiens"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Herzfrequenz": {
   "founded": "2023",
   "foundedNote": 1,
   "src": [
    "https://ohschonhell.at/orte/das+werk/14"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Contrast": {
   "founded": "2015",
@@ -817,7 +827,8 @@ const CI={
   "foundedNote": 1,
   "src": [
    "https://ohschonhell.at/orte/das+werk/14"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Euphoria": {
   "founded": "2022",
@@ -845,7 +856,8 @@ const CI={
   "foundedNote": 1,
   "src": [
    "https://ohschonhell.at/orte/kramladen/549"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "KEN Club": {
   "founded": "2013",
@@ -901,7 +913,8 @@ const CI={
   "foundedNote": 1,
   "src": [
    "https://ohschonhell.at/orte/club+lucia/963"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Drum & Bassick": {
   "founded": "2025",
@@ -964,14 +977,16 @@ const CI={
   "tix": "https://tickets.feuchtetraeu.me",
   "series": [
    "FT (nummerierte Ausgaben, z. B. FT — 12)"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Sorry Mom": {
   "src": [
    "https://ra.co/events/2492475",
    "https://ra.co/events/2521239",
    "https://warda.at/events/sorry-mom-x-usus/",
-   "https://ra.co/events/2342420"
+   "https://ra.co/events/2342420",
+   "https://linktr.ee/sorrymom.vienna"
   ],
   "de": "Wiener Partyreihe für melodisch-progressiven, treibenden Techno, u. a. im Club Lucia und im USUS am Wasser.",
   "en": "Vienna party series for melodic, progressive, driving techno, held at venues such as Club Lucia and USUS am Wasser.",
@@ -984,7 +999,8 @@ const CI={
   "series": [
    "SORRY MOM x USUS",
    "SORRY MOM herbstrascheln"
-  ]
+  ],
+  "logo": "https://ugc.production.linktr.ee/56ada16d-b647-4532-93c3-350fbac3c672_sorry-mom-logo-1080x1080-sw-kreis.png"
  },
  "Kinky Galore": {
   "de": "Sexpositive Partyreihe, in Wien u. a. im Club Exil.",
@@ -1016,7 +1032,8 @@ const CI={
    "https://ra.co/dj/kormos/biography",
    "https://ra.co/events/2415115",
    "https://ra.co/promoters/158928"
-  ]
+  ],
+  "logo": "https://f4.bcbits.com/img/0047803878_100.png"
  },
  "Mahlwerk": {
   "de": "Fünfköpfiges Wiener DJ-Kollektiv zwischen Hardgroove, Trance, Techno und Hardtechno, das mit eigenen Events, Hostings und Gastauftritten in Clubs wie Grelle Forelle, PRST, Pratersauna und Flex präsent ist.",
@@ -1033,6 +1050,13 @@ const CI={
    "https://popfest.at/07/25/mahlwerk/",
    "https://www.impulstanz.com/social/aid2185/",
    "https://ra.co/events/2110843"
+  ]
+ },
+ "Wien Modern": {
+  "logo": "https://www.wienmodern.at/images/Logo.png",
+  "web": "https://www.wienmodern.at/",
+  "src": [
+   "https://www.wienmodern.at/"
   ]
  }
 };
@@ -1055,8 +1079,10 @@ const VI={
   "de": "Club an der Spittelauer Lände mit Mainfloor und Kitchen, einer der wichtigsten Techno-Clubs Wiens.",
   "en": "Club on Spittelauer Lände with Mainfloor and Kitchen, one of Vienna's key techno clubs.",
   "src": [
-   "https://ohschonhell.at/orte/grelle+forelle/3"
-  ]
+   "https://ohschonhell.at/orte/grelle+forelle/3",
+   "https://www.grelleforelle.com/"
+  ],
+  "logo": "https://www.grelleforelle.com/wp-content/uploads/2016/08/cropped-favicon-270x270.png"
  },
  "Das Werk": {
   "web": "https://www.daswerk.org/",
@@ -1080,7 +1106,8 @@ const VI={
   "en": "Cultural association in the railway arches on Spittelauer Lände, focusing on hard techno, schranz and bounce.",
   "src": [
    "https://ohschonhell.at/orte/das+werk/14"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "FLUCC Wanne": {
   "web": "https://flucc.at/",
@@ -1094,7 +1121,8 @@ const VI={
   "en": "Club at Praterstern: Wanne (downstairs) and Deck (upstairs).",
   "src": [
    "https://ohschonhell.at/orte/flucc/50"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "FLUCC Deck": {
   "web": "https://flucc.at/",
@@ -1108,7 +1136,8 @@ const VI={
   "en": "Club at Praterstern: Wanne (downstairs) and Deck (upstairs).",
   "src": [
    "https://ohschonhell.at/orte/flucc/50"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "SASS Music Club": {
   "web": "https://sassvienna.com/",
@@ -1116,7 +1145,8 @@ const VI={
   "en": "Club at Karlsplatz, focus on house and techno, Sundays “Morgengymnastik”.",
   "src": [
    "https://ohschonhell.at/orte/sass/9"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "PRST": {
   "opened": "2020",
@@ -1124,7 +1154,8 @@ const VI={
   "en": "Club Praterstraße (PRST), house and techno club in Leopoldstadt.",
   "src": [
    "https://ohschonhell.at/orte/praterstrasse+-+prst/912"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Club Exil": {
   "web": "https://www.club-exil.at/",
@@ -1132,8 +1163,10 @@ const VI={
   "de": "Warehouse-Club in Vösendorf, große Raves mit mehreren Floors.",
   "en": "Warehouse club in Vösendorf, big raves on several floors.",
   "src": [
-   "https://ohschonhell.at/orte/exil/914"
-  ]
+   "https://ohschonhell.at/orte/exil/914",
+   "https://www.club-exil.at/en"
+  ],
+  "logo": "https://www.club-exil.at/logo.svg"
  },
  "Kramladen": {
   "opened": "2015",
@@ -1142,7 +1175,8 @@ const VI={
   "src": [
    "https://ohschonhell.at/orte/kramladen/549",
    "https://ra.co/events/2475933"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Celeste": {
   "opened": "2014",
@@ -1151,13 +1185,16 @@ const VI={
   "src": [
    "https://ohschonhell.at/orte/celeste/47",
    "https://www.technoairlines.com/club/celeste-vienna"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Weberknecht": {
   "web": "https://weberknecht.at/",
   "src": [
-   "https://ohschonhell.at/orte/weberknecht/28"
-  ]
+   "https://ohschonhell.at/orte/weberknecht/28",
+   "https://weberknecht.at/"
+  ],
+  "logo": "https://weberknecht.at/wp-content/uploads/2018/06/cropped-grunge-plus-1-270x270.png"
  },
  "Tagada": {
   "src": [
@@ -1171,13 +1208,16 @@ const VI={
   "floors": [
    "Rausch (Bar)",
    "Dancefloor"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Club Lucia": {
   "web": "https://www.clublucia.at/",
   "src": [
-   "https://ohschonhell.at/orte/club+lucia/963"
-  ]
+   "https://ohschonhell.at/orte/club+lucia/963",
+   "https://www.clublucia.at/"
+  ],
+  "logo": "https://www.clublucia.at/wp-content/uploads/2025/05/LUCIA-FINAL-white-1-1024x968.png"
  },
  "O der Klub": {
   "web": "https://o-klub.at/",
@@ -1192,11 +1232,17 @@ const VI={
   ],
   "src": [
    "https://warda.at/magazin/lifestyle/o-der-klub-partytreffpunkt-wien/",
-   "https://goodnight.at/locations/984-club-o"
-  ]
+   "https://goodnight.at/locations/984-club-o",
+   "https://o-klub.at/"
+  ],
+  "logo": "https://o-klub.at/wp-content/uploads/2022/09/Logo_w.svg"
  },
  "Libelle": {
-  "web": "https://www.libelle.at/"
+  "web": "https://www.libelle.at/",
+  "logo": "https://www.libelle.at/wp-content/uploads/2024/03/cropped-Libelle_Logo-270x270.png",
+  "src": [
+   "https://www.libelle.at/"
+  ]
  },
  "Pratersauna": {
   "opened": "1965",
@@ -1240,8 +1286,10 @@ const VI={
   "de": "Club am Lerchenfelder Gürtel mit drei Räumen (Oben, Unten, Wohnzimmer).",
   "en": "Club on Lerchenfelder Gürtel with three rooms (Oben, Unten, Wohnzimmer).",
   "src": [
-   "https://www.theloft.at/feuchte-traeume-renaissance-of-pleasure/"
-  ]
+   "https://www.theloft.at/feuchte-traeume-renaissance-of-pleasure/",
+   "https://www.theloft.at/"
+  ],
+  "logo": "https://www.theloft.at/wp-content/uploads/2022/02/loft-logo.svg"
  },
  "Pyramide Vösendorf": {
   "src": [
@@ -1256,7 +1304,8 @@ const VI={
  "Ottakringer Brauerei": {
   "src": [
    "https://warda.at/events/ksot-halloween-warehouse-rave/"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Lugner City": {
   "src": [
@@ -1266,37 +1315,45 @@ const VI={
  "U4": {
   "src": [
    "https://ra.co/events/2506486"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Funkhaus": {
   "src": [
    "https://ra.co/events/2547379"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Rhiz": {
   "src": [
-   "https://ra.co/events/2563381"
-  ]
+   "https://ra.co/events/2563381",
+   "https://rhiz.wien/blog/"
+  ],
+  "logo": "https://rhiz.wien/wp-content/uploads/2026/01/cropped-favicon-270x270.png"
  },
  "kv.r.": {
   "src": [
    "https://ra.co/events/2564492"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Kollektiv Kaorle": {
   "src": [
    "https://ra.co/events/2555979"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Westbahn Studios": {
   "src": [
    "https://ra.co/events/2568237"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Prater Dome": {
   "src": [
    "https://ra.co/events/2546243"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Altia Skybar – DC Tower": {
   "src": [
