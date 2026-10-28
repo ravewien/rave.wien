@@ -1050,7 +1050,8 @@ const CI={
    "https://popfest.at/07/25/mahlwerk/",
    "https://www.impulstanz.com/social/aid2185/",
    "https://ra.co/events/2110843"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Wien Modern": {
   "logo": "https://www.wienmodern.at/images/Logo.png",
@@ -1299,7 +1300,8 @@ const VI={
  "Flex": {
   "src": [
    "https://flex.at/event/the-hive-x-collapse/"
-  ]
+  ],
+  "noLogo": "2026-10-28"
  },
  "Ottakringer Brauerei": {
   "src": [
@@ -1359,6 +1361,30 @@ const VI={
   "src": [
    "https://ra.co/events/2560557"
   ]
+ }
+};
+/* LS = Logo-Suche ohne Treffer für Locations (v) / Kollektive (c) ohne VI-/CI-Eintrag: Datum der letzten Suche; frühestens 60 Tage danach erneut suchen. */
+const LS={
+ "v": {
+  "B72": "2026-10-28",
+  "Metastadt": "2026-10-28"
+ },
+ "c": {
+  "SIGNAL": "2026-10-28",
+  "Callshop Radio": "2026-10-28",
+  "Schrödingers Groove": "2026-10-28",
+  "Housetiere": "2026-10-28",
+  "AWSM": "2026-10-28",
+  "Step Forward": "2026-10-28",
+  "Tasteless": "2026-10-28",
+  "euphonic records": "2026-10-28",
+  "Klub Halal": "2026-10-28",
+  "KARTELL.FM": "2026-10-28",
+  "Radio Rudina": "2026-10-28",
+  "Connecting People": "2026-10-28",
+  "KSOT": "2026-10-28",
+  "Spumante Records": "2026-10-28",
+  "sama recordings": "2026-10-28"
  }
 };
 const AR={
