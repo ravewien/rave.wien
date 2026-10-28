@@ -1305,7 +1305,7 @@ const VI={
  }
 };
 const AR={
- "DJ Tanzfuchs": {
+ "Tanzfuchs": {
   "links": {
    "sc": "https://soundcloud.com/tnzfx"
   },
