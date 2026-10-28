@@ -1305,6 +1305,14 @@ const VI={
  }
 };
 const AR={
+ "DJ Tanzfuchs": {
+  "links": {
+   "sc": "https://soundcloud.com/tnzfx"
+  },
+  "src": [
+   "https://soundcloud.com/tnzfx"
+  ]
+ },
  "SHOKI287": {
   "from": {
    "de": "Deutschland",
