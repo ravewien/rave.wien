@@ -1406,7 +1406,15 @@ const AR={
   },
   "src": [
    "https://soundcloud.com/tnzfx"
-  ]
+  ],
+  "bio": {
+   "de": "extrem cooler dude"
+  },
+  "from": {
+   "de": "Wien"
+  },
+  "real": "Marco",
+  "man": 1
  },
  "SHOKI287": {
   "from": {
