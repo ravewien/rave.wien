@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://gc.zgo.at; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <title>rave.wien</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -1136,6 +1136,9 @@ function renderArtists(ev){
   $("out").innerHTML=`<div class="xlist x-art">${xheadHTML("art")}${html}</div>`;
 }
 const EMBED=/(^|\.)rave\.wien$/.test(location.hostname);
+const GCQ=[];function gc(path,title,event){if(!EMBED)return;const o={path,title:title||path,event:!!event};try{if(window.goatcounter&&window.goatcounter.count)window.goatcounter.count(o);else GCQ.push(o)}catch(_){}}
+if(EMBED){try{window.goatcounter={no_onload:false};const sc=document.createElement("script");sc.async=true;sc.src="https://gc.zgo.at/count.js";sc.dataset.goatcounter="https://ravedotwien.goatcounter.com/count";
+  if(/[?&]q=st\b/.test(location.search))GCQ.push({path:"sticker",title:"QR-Sticker gescannt",event:true});sc.onload=()=>{setTimeout(()=>{while(GCQ.length&&window.goatcounter&&window.goatcounter.count)window.goatcounter.count(GCQ.shift())},300)};document.head.appendChild(sc)}catch(_){}}
 const scEmbed=u=>`<iframe class="sc" title="SoundCloud" loading="lazy" allow="autoplay" src="https://w.soundcloud.com/player/?url=${encodeURIComponent(u)}&color=%231f8bff&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe>`;
 
 const PH=t=>`<span class="ph">${t}</span>`;
@@ -1156,6 +1159,8 @@ ds:`<h2>Datenschutz</h2>
 <p>Marco Immervoll, 1220 Wien, Österreich, E-Mail: <a href="mailto:feedback@rave.wien">feedback@rave.wien</a></p>
 <h3>Hosting</h3>
 <p>Die Website wird über GitHub Pages (GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA) ausgeliefert. Beim Aufruf verarbeitet GitHub technisch notwendige Verbindungsdaten wie IP-Adresse, Zeitpunkt und Browser-Informationen, um die Seite auszuliefern und vor Missbrauch zu schützen (Art. 6 Abs. 1 lit. f DSGVO). Dabei können Daten in die USA übermittelt werden; GitHub stützt solche Übermittlungen auf das EU-US Data Privacy Framework bzw. Standardvertragsklauseln. Wir selbst führen keine Zugriffsstatistik und kein Tracking.</p>
+<h3>Reichweitenmessung (GoatCounter)</h3>
+<p>Um zu sehen, wie viele Menschen die Seite nutzen und welche Events, Artists, Veranstalter und Locations aufgerufen oder geteilt werden, verwenden wir GoatCounter (Martin Tournoij, Niederlande; goatcounter.com). GoatCounter setzt keine Cookies, speichert nichts auf deinem Gerät und erstellt keine Nutzerprofile. Übermittelt werden die aufgerufene Seite, die Herkunftsseite, Browser- und Gerätetyp, Bildschirmgröße und das ungefähre Land; die IP-Adresse wird nur kurzzeitig zur Erkennung von Mehrfachaufrufen verwendet und nicht dauerhaft gespeichert. Rechtsgrundlage ist unser berechtigtes Interesse an einer anonymen Reichweitenstatistik (Art. 6 Abs. 1 lit. f DSGVO). Werbeblocker können die Messung unterbinden.</p>
 <h3>Schriften</h3>
 <p>Alle Schriftarten werden direkt von rave.wien geladen. Es besteht keine Verbindung zu Google Fonts oder anderen Schrift-Diensten.</p>
 <h3>Speicherung auf deinem Gerät</h3>
@@ -1208,7 +1213,7 @@ addEventListener("popstate",ev=>{const d=(ev.state&&ev.state.rw)||0;if(HSKIP){HS
   let k=HD-d;HD=d;HPOP=Date.now();
   if(!$("flybox").hidden){$("flybox").hidden=true;k--}
   while(k-->0&&st.cards.length)closeCard(ck(st.cards[st.cards.length-1]))});
-function openCard(k,n){const before=rects();addCard(k,n);hpush();if(k==="ev")st.gone=false;renderDeck();flip(before,k+"\u0001"+n);markCur()}
+function openCard(k,n){const before=rects();addCard(k,n);hpush();gcCard(k,n);if(k==="ev")st.gone=false;renderDeck();flip(before,k+"\u0001"+n);markCur()}
 function closeCard(key){const before=rects();st.cards=st.cards.filter(c=>ck(c)!==key);syncCur();renderDeck();flip(before,null);markCur()}
 function frontCard(key){const c=st.cards.find(x=>ck(x)===key);if(!c)return;const before=rects();st.cards=st.cards.filter(x=>x!==c);st.cards.push(c);syncCur();renderDeck();flip(before,key);markCur()}
 function markCur(){document.querySelectorAll("#out [data-id]").forEach(b=>b.setAttribute("aria-current",b.dataset.id===st.sel));document.querySelectorAll("#out [data-aopen]").forEach(b=>b.setAttribute("aria-current",b.dataset.aopen===st.artist));document.querySelectorAll("#out [data-vopen]").forEach(b=>b.setAttribute("aria-current",b.dataset.vopen===st.ven));document.querySelectorAll("#out [data-copen]").forEach(b=>b.setAttribute("aria-current",b.dataset.copen===st.coll))}
@@ -1495,9 +1500,10 @@ const shareK=(k,n)=>"https://rave.wien/"+k+"/"+slug(n);
 function fromSlug(k,sl){const pool=k==="a"?ALLART():k==="c"?[...UNI.c,...EV.flatMap(e=>e.coll)]:UNI.v;const t=slug(sl);return pool.find(n=>slug(n)===t)}
 function setHash(id){try{if(id){if(location.hash!=="#"+id)history.replaceState(history.state,"","#"+id)}else if(location.hash)history.replaceState(history.state,"",location.pathname+location.search)}catch(_){}}
 function fromHash(){const id=decodeURIComponent((location.hash||"").slice(1));if(!id)return;
-  const m=/^([acv])\/(.+)$/.exec(id);if(m){const n=fromSlug(m[1],m[2]);if(n)addCard({a:"art",c:"col",v:"ven"}[m[1]],n);return}
-  const e=EV.find(x=>x.id===id)||EV.find(x=>id.startsWith(x.d)&&(x.id.startsWith(id)||id.startsWith(x.id)));if(e){addCard("ev",e.id);if(st.view==="cal")st.month=e.d.slice(0,7)}else if(ALL.some(x=>x.id===id)){st.gone=true}}
-async function share(btn){const id=btn.dataset.share;const e=EV.find(x=>x.id===id);const u=btn.dataset.su||(e&&shareURL(e));if(!u)return;const card=btn.closest(".deck");const box=card.querySelector(".sharebox"),msg=card.querySelector(".sharemsg");box.hidden=false;
+  const m=/^([acv])\/(.+)$/.exec(id);if(m){const n=fromSlug(m[1],m[2]);if(n){const k={a:"art",c:"col",v:"ven"}[m[1]];addCard(k,n);gcCard(k,n)}return}
+  const e=EV.find(x=>x.id===id)||EV.find(x=>id.startsWith(x.d)&&(x.id.startsWith(id)||id.startsWith(x.id)));if(e){addCard("ev",e.id);gcCard("ev",e.id);if(st.view==="cal")st.month=e.d.slice(0,7)}else if(ALL.some(x=>x.id===id)){st.gone=true}}
+function gcCard(k,n){const p={ev:"e",art:"a",col:"c",ven:"v"}[k];if(!p)return;const e=k==="ev"?EV.find(x=>x.id===n):null;gc("/"+p+"/"+(e?e.id:slug(n)),e?e.title:n)}
+async function share(btn){gc("share"+(btn.dataset.su?new URL(btn.dataset.su).pathname:"/e/"+btn.dataset.share),"Geteilt",true);const id=btn.dataset.share;const e=EV.find(x=>x.id===id);const u=btn.dataset.su||(e&&shareURL(e));if(!u)return;const card=btn.closest(".deck");const box=card.querySelector(".sharebox"),msg=card.querySelector(".sharemsg");box.hidden=false;
   try{await navigator.clipboard.writeText(u);msg.textContent=L().copied}catch(_){const i=card.querySelector(".shareurl");i.focus();i.select();msg.textContent=L().copyFail}}
 /* calendar export */
 const icsT=d=>`${d.getFullYear()}${String(d.getMonth()+1).padStart(2,"0")}${String(d.getDate()).padStart(2,"0")}T${String(d.getHours()).padStart(2,"0")}${String(d.getMinutes()).padStart(2,"0")}00`;
