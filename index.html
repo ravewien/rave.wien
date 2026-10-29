@@ -1700,5 +1700,210 @@ addEventListener("hashchange",()=>{if(Date.now()-HPOP<400)return;const id=locati
 
 if(EMBED&&!CONS)showBanner();
 </script>
+<!-- ADMIN -->
+<style>
+.edbtn{width:32px;height:32px;border:1px solid var(--line);border-radius:3px;background:transparent;color:var(--mute);font-size:15px;margin-right:6px;cursor:pointer}
+.edbtn:hover{color:var(--accent);border-color:var(--accent)}
+.edbtn.pend{color:#e3b341;border-color:#e3b341}
+.edpill{display:inline-block;margin-left:8px;font:700 9.5px var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:#e3b341;border:1px solid #6b5418;border-radius:3px;padding:1px 5px;vertical-align:3px}
+.edbar{position:fixed;left:12px;bottom:12px;z-index:180;display:flex;gap:6px;align-items:center;background:#1b1e24;border:1px solid #e3b341;border-radius:6px;padding:6px 8px;box-shadow:0 8px 24px rgba(0,0,0,.5);font:12px var(--f-body);color:var(--fg);max-width:calc(100vw - 24px);flex-wrap:wrap}
+.edbar[hidden]{display:none}
+.edbar b{color:#e3b341}
+.edbar button{border:1px solid var(--line);background:transparent;color:var(--fg);border-radius:3px;padding:5px 9px;font:700 11px var(--f-mono);letter-spacing:.05em;text-transform:uppercase;cursor:pointer}
+.edbar button.go{background:#e3b341;border-color:#e3b341;color:#111}
+.edbar .msg{color:var(--mute);font-size:11.5px;flex-basis:100%}
+.edmod{position:fixed;inset:0;z-index:230;background:rgba(0,0,0,.72);display:flex;justify-content:center;align-items:flex-start;overflow:auto;padding:24px 12px}
+.edmod[hidden]{display:none}
+.edbox{background:var(--panel,#131519);border:1px solid var(--line);border-radius:8px;width:min(720px,100%);padding:16px 16px 12px;color:var(--fg)}
+.edbox h2{font:900 22px var(--f-pixel);margin:0 0 4px}
+.edbox .sub{color:var(--mute);font-size:12px;margin-bottom:12px}
+.edgrid{display:grid;grid-template-columns:1fr 1fr;gap:10px 12px}
+.edgrid .full{grid-column:1/-1}
+@media (max-width:560px){.edgrid{grid-template-columns:1fr}}
+.edf label{display:block;font:700 10px var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin-bottom:4px}
+.edf input[type=text],.edf input[type=date],.edf input[type=url],.edf textarea,.edf select{width:100%;box-sizing:border-box;background:#0d0f12;border:1px solid var(--line);border-radius:4px;color:var(--fg);padding:7px 9px;font:13.5px var(--f-body)}
+.edf textarea{min-height:84px;resize:vertical;line-height:1.4}
+.edf textarea.mono{font:12.5px var(--f-mono);min-height:120px}
+.edf .hint{color:var(--mute);font-size:11px;margin-top:3px}
+.chips{display:flex;flex-wrap:wrap;gap:5px;align-items:center;background:#0d0f12;border:1px solid var(--line);border-radius:4px;padding:5px}
+.chips span{display:inline-flex;align-items:center;gap:4px;background:#232730;border:1px solid #343a45;border-radius:3px;padding:2px 4px 2px 7px;font:600 12px var(--f-body)}
+.chips span button{border:0;background:transparent;color:var(--mute);cursor:pointer;font-size:14px;line-height:1;padding:0 3px}
+.chips span button:hover{color:#ff6b6b}
+.chips input{flex:1;min-width:120px;border:0;background:transparent;color:var(--fg);font:13px var(--f-body);padding:3px}
+.chips input:focus{outline:none}
+.edflags{display:flex;flex-wrap:wrap;gap:6px 14px}
+.edflags label{display:flex;gap:6px;align-items:center;font:13px var(--f-body);color:var(--fg);text-transform:none;letter-spacing:0;margin:0}
+.edact{display:flex;gap:8px;justify-content:space-between;align-items:center;margin-top:14px;flex-wrap:wrap}
+.edact .r{display:flex;gap:8px}
+.edact button{border:1px solid var(--line);background:transparent;color:var(--fg);border-radius:4px;padding:8px 14px;font:700 12px var(--f-mono);letter-spacing:.06em;text-transform:uppercase;cursor:pointer}
+.edact button.save{background:var(--accent);border-color:var(--accent);color:#fff}
+.edact button.del{color:#ff6b6b;border-color:#5a2a2a}
+.edlist{margin:0;padding:0;list-style:none}
+.edlist li{display:flex;gap:10px;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line);padding:8px 0;font-size:13px}
+.edlist li small{color:var(--mute)}
+.edlist li button{border:1px solid var(--line);background:transparent;color:var(--mute);border-radius:3px;padding:3px 8px;font:700 10.5px var(--f-mono);cursor:pointer}
+.ednew{border:1px solid #e3b341;color:#e3b341;background:transparent;border-radius:3px;height:30px;padding:0 9px;font:700 11px var(--f-mono);letter-spacing:.06em;text-transform:uppercase;margin-right:8px;cursor:pointer}
+</style>
+<div class="edmod" id="edmod" hidden><div class="edbox" id="edbox"></div></div>
+<div class="edbar" id="edbar" hidden></div>
+<script>
+/* ===== Bearbeitungsmodus – nur für die Besitzerin/den Besitzer im claude.ai-Artifact ===== */
+(()=>{
+const TRIGGER="trig_015NBzoS6nd7XJ8rgvtwgrLV";
+let EDB=null,EDITS={},ON=false;
+const KN={ev:"Event",art:"Artist",col:"Veranstalter",ven:"Location"};
+const EVFLAGS=[["aw","Awareness"],["nophoto","Keine Fotos"],["sexpos","Sexpositiv"],["lgbtq","LGBTQIA+"],["opendecks","Open Decks"],["zero","Null Toleranz"],["unconf","Noch nicht bestätigt"]];
+const RULEFLAGS=[["aw","Awareness"],["nophoto","Keine Fotos"],["sexpos","Sexpositiv"],["lgbtq","LGBTQIA+"],["zero","Null Toleranz"]];
+const COLTYPES=["Kollektiv","Promoter","Booking","Label","Reihe"];
+const docId=(k,key)=>(k+"-"+slug(key)).slice(0,190)||k+"-x";
+const pend=(k,key)=>{const d=EDITS[docId(k,key)];return d&&d.status==="pending"?d:null};
+const get=(o,p)=>p.split(".").reduce((a,k)=>a==null?a:a[k],o);
+const allGenres=()=>[...new Set([...EV.flatMap(e=>e.genres),...Object.values(CGEN).flat(),...Object.values(AR).flatMap(a=>a.genres||[])])].sort((a,b)=>a.localeCompare(b));
+
+function schema(kind){
+  if(kind==="ev")return [
+    ["title","Titel","text","full"],["d","Datum","date"],["venue","Location","text",null,{list:"edl-ven"}],
+    ["s","Beginn (HH:MM)","text"],["e","Ende (HH:MM)","text"],
+    ["coll","Veranstalter","chips","full",{list:"edl-col"}],["genres","Genres","chips","full",{list:"edl-gen"}],
+    ["floors","Lineup / Floors","floors","full"],["head","Headliner","chips","full"],
+    ["price","Preis","text"],["age","Mindestalter","select",null,{opts:["","16+","18+","21+"]}],
+    ["tickets","Ticket-Link","url"],["flyer","Flyer (Bild-Adresse)","url"],
+    ["note.de","Beschreibung (DE)","textarea","full"],["note.en","Beschreibung (EN)","textarea","full"],
+    ["_flags","Vibe & Safety","flags","full",{flags:EVFLAGS}]];
+  if(kind==="art")return [
+    ["from.de","Herkunft (DE)","text"],["from.en","Herkunft (EN)","text"],["real","Bürgerlicher Name","text"],["img","Profilbild (Bild-Adresse)","url"],
+    ["genres","Genres","chips","full",{list:"edl-gen"}],["coll","Veranstalter / Kollektiv","chips","full",{list:"edl-col"}],
+    ["bio.de","Bio (DE)","textarea","full"],["bio.en","Bio (EN)","textarea","full"],
+    ["labels","Labels","chips","full"],["sets","Sets zum Reinhören","sets","full"],
+    ["links.sc","SoundCloud","url"],["links.mc","Mixcloud","url"],["links.sp","Spotify","url"],["links.bc","Bandcamp","url"],
+    ["links.ig","Instagram","url"],["links.ra","Resident Advisor","url"],["links.web","Website","url","full"]];
+  if(kind==="col")return [
+    ["type","Art","checks","full",{opts:COLTYPES}],
+    ["founded","Gegründet (Jahr)","text"],["from","Sitz","text"],
+    ["genres","Typische Genres","chips","full",{list:"edl-gen"}],
+    ["de","Beschreibung (DE)","textarea","full"],["en","Beschreibung (EN)","textarea","full"],
+    ["members","DJs & Crew","chips","full"],
+    ["web","Website","url"],["ig","Instagram","url"],["sc","SoundCloud","url"],["bc","Bandcamp","url"],["tix","Ticketshop","url"],["logo","Logo (Bild-Adresse)","url"],
+    ["logoBg","Logo-Hintergrund","select",null,{opts:["","#ffffff"],labels:["dunkel (Standard)","weiß"]}],
+    ["_rules","Regeln für alle Events","rflags","full",{flags:RULEFLAGS}]];
+  return [
+    ["address","Adresse (Straße Nr, PLZ)","text","full"],["web","Website","url"],["opened","Eröffnet (Jahr)","text"],
+    ["de","Beschreibung (DE)","textarea","full"],["en","Beschreibung (EN)","textarea","full"],
+    ["floors","Floors","chips","full"],["logo","Logo (Bild-Adresse)","url"],
+    ["logoBg","Logo-Hintergrund","select",null,{opts:["","#ffffff"],labels:["dunkel (Standard)","weiß"]}],
+    ["rules.age","Hausregel Alter","select",null,{opts:["","16+","18+","21+"]}],["closed","Geschlossen","bool"],
+    ["_rules","Hausregeln","rflags","full",{flags:RULEFLAGS}]];
+}
+function current(kind,key){
+  if(kind==="ev"){const e=EV.find(x=>x.id===key)||{};const o={title:e.title||"",d:e.d||"",venue:e.venue||"",s:e.s||"",e:e.e||"",coll:e.coll||[],genres:e.genres||[],
+      floors:e.floors||[],head:e.head||[],price:e.price||"",age:e.age&&e.age!==e.clubAge?e.age:"",tickets:e.tickets||"",flyer:e.flyer||"",note:e.note||{}};
+    EVFLAGS.forEach(([f])=>o[f]=!!e[f]&&!(e.fromVenue||[]).includes(f)&&!(e.fromColl||{})[f]);return o}
+  if(kind==="art"){const a=ARK[akey(key)]||{};return JSON.parse(JSON.stringify(a))}
+  if(kind==="col"){const c=JSON.parse(JSON.stringify(CINFO[key]||{}));c.genres=CGEN[key]||[];return c}
+  const v=JSON.parse(JSON.stringify(VINFO[key]||{}));v.address=V[key]&&V[key]!=="Wien"?V[key]:"";const r=VRULES[key]||{};v.rules={age:r.age||""};RULEFLAGS.forEach(([f])=>v.rules[f]=!!r[f]);return v}
+const floorsTxt=fl=>(fl||[]).map(f=>(f.f?f.f+": ":"")+f.a.join(", ")).join("\n");
+const parseFloors=t=>t.split("\n").map(l=>l.trim()).filter(Boolean).map(l=>{const m=/^([^:|]{1,40}):\s*(.*)$/.exec(l);const f=m&&!/^\d{1,2}$/.test(m[1].trim())?m[1].trim():"";const rest=m&&f?m[2]:l;
+  return {f,a:rest.split(",").map(x=>x.trim()).filter(Boolean)}}).filter(x=>x.a.length);
+
+function chipsHTML(id,vals,list){return `<div class="chips" data-chips="${id}">${vals.map(v=>`<span data-v="${esc(v)}">${esc(v)}<button type="button" aria-label="entfernen" data-rm>×</button></span>`).join("")}<input type="text" ${list?`list="${list}"`:""} placeholder="hinzufügen + Enter"></div>`}
+function field([p,lab,type,cls,opt],cur){opt=opt||{};const v=p.startsWith("_")?null:get(cur,p);const id="edf-"+p.replace(/\./g,"_");let inp="";
+  if(type==="chips")inp=chipsHTML(p,Array.isArray(v)?v:[],opt.list);
+  else if(type==="floors")inp=`<textarea class="mono" data-p="floors">${esc(floorsTxt(v))}</textarea><div class="hint">Eine Zeile pro Floor: „Floorname: Artist, Artist, 23:00|Artist“. Ohne Floorname einfach nur die Artists. „A b2b B“ bleibt ein Eintrag.</div>`;
+  else if(type==="sets")inp=`<textarea class="mono" data-p="sets">${esc((v||[]).map(x=>(x.t||"")+" | "+(x.u||"")).join("\n"))}</textarea><div class="hint">Eine Zeile pro Set: „Titel | https://soundcloud.com/…“. Das erste Set ist das Haupt-Set.</div>`;
+  else if(type==="textarea")inp=`<textarea data-p="${p}">${esc(v||"")}</textarea>`;
+  else if(type==="select")inp=`<select data-p="${p}">${opt.opts.map((o,i)=>`<option value="${esc(o)}"${(v||"")===o?" selected":""}>${esc((opt.labels||[])[i]||o||"–")}</option>`).join("")}</select>`;
+  else if(type==="bool")inp=`<div class="edflags"><label><input type="checkbox" data-p="${p}"${v?" checked":""}> ja</label></div>`;
+  else if(type==="flags")inp=`<div class="edflags">${opt.flags.map(([f,l])=>`<label><input type="checkbox" data-p="${f}"${cur[f]?" checked":""}> ${esc(l)}</label>`).join("")}</div>`;
+  else if(type==="rflags")inp=`<div class="edflags">${opt.flags.map(([f,l])=>`<label><input type="checkbox" data-p="rules.${f}"${get(cur,"rules."+f)?" checked":""}> ${esc(l)}</label>`).join("")}</div>`;
+  else if(type==="checks")inp=`<div class="edflags">${opt.opts.map(o=>`<label><input type="checkbox" data-pc="${p}" value="${esc(o)}"${(v||[]).includes(o)?" checked":""}> ${esc(o)}</label>`).join("")}</div>`;
+  else inp=`<input type="${type==="date"?"date":"text"}" data-p="${p}" value="${esc(v||"")}" ${opt.list?`list="${opt.list}"`:""}${type==="url"?' inputmode="url" placeholder="https://…"':""}>`;
+  return `<div class="edf ${cls||""}"><label for="${id}">${esc(lab)}</label>${inp}</div>`}
+
+function openEdit(kind,key,isNew){
+  const p=isNew?null:pend(kind,key);let cur=isNew?{}:current(kind,key);
+  if(p&&p.data){cur=JSON.parse(JSON.stringify(cur));Object.entries(p.data).forEach(([k,v])=>{const parts=k.split(".");let o=cur;parts.slice(0,-1).forEach(x=>{o[x]=o[x]&&typeof o[x]==="object"?o[x]:{};o=o[x]});o[parts[parts.length-1]]=v})}
+  const box=$("edbox");const title=isNew?"Neues "+KN[kind]:(kind==="ev"?(EV.find(x=>x.id===key)||{}).title||key:key);
+  box.innerHTML=`<h2>${esc(title)}</h2><div class="sub">${KN[kind]} bearbeiten${p?' · <b style="color:#e3b341">ausstehende Änderung geladen</b>':""} · Änderungen gehen erst mit „Live schalten“ online.</div>
+   ${isNew&&kind!=="ev"?`<div class="edf full" style="margin-bottom:10px"><label>Name</label><input type="text" data-newkey value=""></div>`:""}
+   <div class="edgrid">${schema(kind).map(f=>field(f,cur)).join("")}</div>
+   <datalist id="edl-gen">${allGenres().map(g=>`<option value="${esc(g)}">`).join("")}</datalist>
+   <datalist id="edl-col">${[...new Set([...UNI.c,...Object.keys(CINFO)])].sort().map(g=>`<option value="${esc(g)}">`).join("")}</datalist>
+   <datalist id="edl-ven">${UNI.v.map(g=>`<option value="${esc(g)}">`).join("")}</datalist>
+   <div class="edact"><div>${!isNew?`<button type="button" class="del" data-eddel>${kind==="ev"?"Event löschen":"Eintrag löschen"}</button>`:""}${p?` <button type="button" data-edundo>Änderung verwerfen</button>`:""}</div>
+   <div class="r"><button type="button" data-edcancel>Abbrechen</button><button type="button" class="save" data-edsave>Speichern</button></div></div>`;
+  box.dataset.kind=kind;box.dataset.key=key||"";box.dataset.isnew=isNew?"1":"";box._orig=cur;
+  $("edmod").hidden=false;box.querySelector("input,textarea")?.focus();
+}
+function collect(box){const kind=box.dataset.kind;const out={};
+  box.querySelectorAll("[data-p]").forEach(el=>{const p=el.dataset.p;if(p==="floors"){out.floors=parseFloors(el.value);return}
+    if(p==="sets"){out.sets=el.value.split("\n").map(l=>l.split("|")).filter(x=>x.length>1&&x[1].trim()).map(x=>({t:x[0].trim()||x[1].trim(),u:x.slice(1).join("|").trim()}));return}
+    out[p]=el.type==="checkbox"?el.checked:el.value.trim()});
+  box.querySelectorAll("[data-chips]").forEach(c=>{const inp=c.querySelector("input");if(inp.value.trim())addChip(c,inp.value.trim());out[c.dataset.chips]=[...c.querySelectorAll("span[data-v]")].map(s=>s.dataset.v)});
+  const pcs={};box.querySelectorAll("[data-pc]").forEach(el=>{(pcs[el.dataset.pc]=pcs[el.dataset.pc]||[]);if(el.checked)pcs[el.dataset.pc].push(el.value)});Object.assign(out,pcs);
+  return out}
+function diff(cur,now){const d={};Object.entries(now).forEach(([k,v])=>{const o=get(cur,k);const norm=x=>x==null||x===false||x===""||(Array.isArray(x)&&!x.length)?null:x;
+  if(JSON.stringify(norm(o))!==JSON.stringify(norm(v)))d[k]=v===false?null:v});return d}
+function addChip(c,v){if([...c.querySelectorAll("span[data-v]")].some(s=>s.dataset.v.toLowerCase()===v.toLowerCase()))return;const s=document.createElement("span");s.dataset.v=v;s.textContent=v;const b=document.createElement("button");b.type="button";b.dataset.rm="";b.textContent="×";s.appendChild(b);c.insertBefore(s,c.querySelector("input"))}
+const badUrl=d=>Object.entries(d).find(([k,v])=>(/^(tickets|flyer|img|logo|web|ig|sc|bc|tix|links\.)/.test(k)&&typeof v==="string"&&v&&!/^https?:\/\//.test(v))||(k==="sets"&&(v||[]).some(x=>!/^https?:\/\//.test(x.u))));
+
+async function save(){const box=$("edbox");const kind=box.dataset.kind;const isNew=!!box.dataset.isnew;let key=box.dataset.key;
+  const now=collect(box);
+  if(isNew){if(kind==="ev"){if(!now.title||!now.d){alert("Titel und Datum sind Pflicht.");return}key=(now.d+"-"+slug(now.title)).slice(0,60).replace(/-$/,"")}
+    else{key=(box.querySelector("[data-newkey]")||{}).value?.trim();if(!key){alert("Bitte einen Namen eingeben.");return}}}
+  const data=isNew?Object.fromEntries(Object.entries(now).filter(([,v])=>v!==""&&v!==false&&!(Array.isArray(v)&&!v.length))):diff(box._orig,now);
+  if(isNew&&kind==="ev"&&!data.floors)data.floors=[{f:"",a:["TBA"]}];
+  const prev=pend(kind,key);const merged=Object.assign({},prev&&prev.op!=="delete"?prev.data:{},data);
+  const bu=badUrl(merged);if(bu){alert("Link muss mit https:// beginnen: "+bu[0]);return}
+  if(!Object.keys(merged).length){closeEd();return}
+  const title=kind==="ev"?(now.title||(EV.find(x=>x.id===key)||{}).title||key):key;
+  await write(kind,key,{op:isNew?"add":(prev&&prev.op==="add"?"add":"edit"),data:merged,title});closeEd()}
+async function write(kind,key,o){if(!EDB)return;try{await EDB.collection("edits").doc(docId(kind,key)).set(Object.assign({kind,key,ts:Date.now(),status:"pending"},o));toast("Gespeichert – noch nicht live.")}catch(e){alert("Speichern fehlgeschlagen: "+(e&&e.code||e))}}
+function closeEd(){$("edmod").hidden=true;$("edbox").innerHTML=""}
+let tmsg="";function toast(t){tmsg=t;drawBar();setTimeout(()=>{if(tmsg===t){tmsg="";drawBar()}},6000)}
+
+function drawBar(){const bar=$("edbar");if(!ON){bar.hidden=true;return}const list=Object.values(EDITS).filter(d=>d.status==="pending");
+  const err=Object.values(EDITS).filter(d=>d.status==="error");
+  bar.hidden=false;bar.innerHTML=`<span>✎ <b>${list.length}</b> ausstehend${err.length?` · <span style="color:#ff6b6b">${err.length} Fehler</span>`:""}</span>
+   <button type="button" data-edlist>Ansehen</button><button type="button" data-ednew="ev">＋ Event</button>
+   ${list.length?`<button type="button" class="go" data-edlive>Live schalten</button>`:""}${tmsg?`<span class="msg">${esc(tmsg)}</span>`:""}`;
+  document.querySelectorAll(".deck[data-card]").forEach(decorate)}
+function showList(){const box=$("edbox");const all=Object.entries(EDITS).sort((a,b)=>(b[1].ts||0)-(a[1].ts||0)).slice(0,60);
+  const st2={pending:"ausstehend",applied:"live",error:"Fehler"};
+  box.innerHTML=`<h2>Änderungen</h2><div class="sub">Ausstehende gehen mit „Live schalten“ online. Danach erscheinen sie hier als „live“.</div>
+  <ul class="edlist">${all.length?all.map(([id,d])=>`<li><span>${esc(KN[d.kind]||d.kind)} · <b>${esc(d.title||d.key)}</b> <small>${d.op==="delete"?"löschen":d.op==="add"?"neu":Object.keys(d.data||{}).join(", ")}</small><br><small>${esc(st2[d.status]||d.status)}${d.err?" – "+esc(d.err):""} · ${new Date(d.ts).toLocaleString("de-AT")}</small></span>${d.status!=="applied"?`<button type="button" data-eddrop="${esc(id)}">verwerfen</button>`:""}</li>`).join(""):"<li>Noch keine Änderungen.</li>"}</ul>
+  <div class="edact"><span></span><div class="r"><button type="button" data-edcancel>Schließen</button></div></div>`;$("edmod").hidden=false}
+async function goLive(){const n=Object.values(EDITS).filter(d=>d.status==="pending").length;if(!n)return;
+  if(!confirm(n+" Änderung(en) jetzt live schalten?"))return;
+  try{const mcp=await claude.use("mcp");if(!mcp)throw {code:"unavailable"};await mcp.callTool("Claude Code Remote","fire_trigger",{trigger_id:TRIGGER,text:"Ausgelöst über den Bearbeitungsmodus ("+n+" Änderungen)."});
+    toast("Läuft – in ein paar Minuten auf rave.wien. Du bekommst eine Push-Nachricht.")}catch(e){toast("Konnte den Lauf nicht starten ("+(e&&e.code||"Fehler")+"). Bitte Claude Bescheid geben.")}}
+function decorate(el){if(!ON)return;const key=el.dataset.card;if(!key)return;const [k,n]=key.split("\u0001");if(!KN[k])return;
+  const cb=el.querySelector(".ctop .cbtns");if(!cb)return;let b=cb.querySelector(".edbtn");
+  if(!b){b=document.createElement("button");b.type="button";b.className="edbtn";b.title="Bearbeiten";b.setAttribute("aria-label","Bearbeiten");b.textContent="✎";b.dataset.edit=key;cb.prepend(b)}
+  b.classList.toggle("pend",!!pend(k,n))}
+
+document.addEventListener("click",async ev=>{if(!ON)return;const t=ev.target;
+  const ed=t.closest("[data-edit]");if(ed){ev.preventDefault();ev.stopPropagation();const [k,n]=ed.dataset.edit.split("\u0001");openEdit(k,n,false);return}
+  if(t.closest("[data-ednew]")){openEdit(t.closest("[data-ednew]").dataset.ednew,"",true);return}
+  if(t.closest("[data-edlist]")){showList();return}
+  if(t.closest("[data-edlive]")){goLive();return}
+  if(!t.closest("#edmod"))return;ev.stopPropagation();
+  if(t.id==="edmod"||t.closest("[data-edcancel]")){closeEd();return}
+  if(t.closest("[data-rm]")){t.closest("span[data-v]").remove();return}
+  if(t.closest("[data-edsave]")){save();return}
+  if(t.closest("[data-eddrop]")){const id=t.closest("[data-eddrop]").dataset.eddrop;if(confirm("Diese Änderung verwerfen?")){try{await EDB.collection("edits").doc(id).delete()}catch(_){}}return}
+  if(t.closest("[data-edundo]")){const b=$("edbox");if(confirm("Ausstehende Änderung verwerfen?")){try{await EDB.collection("edits").doc(docId(b.dataset.kind,b.dataset.key)).delete()}catch(_){}closeEd()}return}
+  if(t.closest("[data-eddel]")){const b=$("edbox");const k=b.dataset.kind,key=b.dataset.key;const ttl=k==="ev"?(EV.find(x=>x.id===key)||{}).title:key;
+    if(confirm(`„${ttl}“ wirklich löschen? Das geht mit „Live schalten“ online.`)){await write(k,key,{op:"delete",data:{},title:ttl});closeEd()}return}
+},true);
+document.addEventListener("keydown",ev=>{if(!ON||$("edmod").hidden)return;
+  if(ev.key==="Escape"){ev.stopPropagation();closeEd();return}
+  const c=ev.target.closest&&ev.target.closest("[data-chips]");if(c&&(ev.key==="Enter"||ev.key===",")){ev.preventDefault();const v=ev.target.value.trim().replace(/,$/,"");if(v)addChip(c,v);ev.target.value=""}
+  if(c&&ev.key==="Backspace"&&!ev.target.value){const s=c.querySelectorAll("span[data-v]");if(s.length)s[s.length-1].remove()}},true);
+
+const _rd=renderDeck;renderDeck=function(){_rd();if(ON)document.querySelectorAll(".deck[data-card]").forEach(decorate)};
+(async()=>{if(EMBED||!window.claude)return;try{const u=await claude.use("user");if(!u||!(await u.isOwner()))return;EDB=await claude.use("db");if(!EDB)return;ON=true;
+  EDB.collection("edits").onSnapshot(q=>{EDITS={};q.docs.forEach(d=>EDITS[d.id]=d.data());drawBar()},()=>{});drawBar()}catch(_){}})();
+})();
+</script>
 
 </html>
