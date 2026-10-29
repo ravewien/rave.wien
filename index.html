@@ -568,7 +568,10 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
 .daygap{height:14px;background:var(--bg);border-top:0;border-bottom:1px solid var(--line);margin:0 -1px}
 .dayhdr{position:sticky;top:calc((env(safe-area-inset-top,0px) + var(--top2,var(--top))) / var(--z,1));z-index:2;background:var(--panel2);padding:6px 12px;font-family:var(--f-display);font-weight:700;letter-spacing:.1em;text-transform:uppercase;font-size:13px;display:flex;gap:10px;align-items:baseline;border-bottom:1px solid var(--line)}
 .dayhdr span{font-family:var(--f-mono);font-weight:400;color:var(--mute);font-size:11px;letter-spacing:0}
-.row{display:grid;grid-template-columns:52px minmax(0,1fr);gap:4px 12px;width:100%;text-align:left;background:transparent;border:0;border-bottom:1px solid var(--line);padding:10px 12px}
+.row{position:relative;display:grid;grid-template-columns:52px minmax(0,1fr);gap:4px 12px;width:100%;text-align:left;background:transparent;border:0;border-bottom:1px solid var(--line);padding:10px 12px}
+.rstar{position:absolute;top:3px;right:4px;z-index:3;width:22px;height:22px;display:grid;place-items:center;font-size:14px;line-height:1;color:#5a616d;cursor:pointer;border-radius:3px}
+.rstar:hover{color:#e3b341;background:rgba(227,179,65,.12)}.rstar.on{color:#e3b341}
+.row.isfav{box-shadow:inset 0 0 0 1px rgba(227,179,65,.75)}
 @media (min-width:640px){.row{grid-template-columns:52px minmax(0,1fr) minmax(0,.6fr) 92px}}
 .row:hover{background:var(--panel2)}
 .row[aria-current="true"]{background-color:var(--sel)}
@@ -587,6 +590,7 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
 .xr .gcl{flex-wrap:wrap}
 .xr .snd{display:block;width:100%;color:var(--mute);font-size:11.5px;margin-top:2px}
 .xr .stub{justify-content:center;gap:7px}
+.row.tk .stub{padding-top:24px}
 .xr .nx{display:flex;flex-direction:column;align-items:center;gap:4px;min-width:0;max-width:100%}
 .xr .nd{font-family:var(--f-body);font-weight:700;font-size:13px;color:var(--accent);white-space:nowrap}.xr .nd.no{color:var(--mute)}
 .xr .nx .tag{font-size:9.5px;padding:1px 5px;max-width:100%;overflow:hidden;text-overflow:ellipsis}
@@ -716,7 +720,7 @@ footer a:hover{color:var(--accent)}
     </div><div class="favask" id="favask" hidden></div></div>
     <div id="trees"></div>
     <button class="reset" id="reset"></button>
-    <button class="reset save" id="savef"></button>
+    <button class="reset save" id="savef" hidden></button>
     <div class="savemsg" id="savemsg" aria-live="polite"></div>
   </aside>
   <div class="mid">
@@ -957,7 +961,7 @@ function pastRowHTML(p){const why=st.fav?pastFavReason(p):[];
 function rowHTML(e){
   const why=st.fav?(FAV.e.includes(e.id)?[]:favReason(e)):[];
   const tk=timeK(e);
-  return `<button class="row tk tod-${tk}" data-id="${e.id}" aria-current="${st.sel===e.id}">${coverHTML(e)}<span class="main"><span class="c1">
+  return `<button class="row tk tod-${tk}${isFav("e",e.id)?" isfav":""}" data-id="${e.id}" aria-current="${st.sel===e.id}">${rstar("e",e.id)}${coverHTML(e)}<span class="main"><span class="c1">
     <span class="head"><span class="ti">${esc(e.title)}</span>${vchk(e)}</span>
     <span class="tags vtags"><span class="tag ve${st.v.has(e.venue)?" on":""}" data-tf="v" data-n="${esc(e.venue)}">${IPIN}${esc(e.venue)}</span>${e.coll.map(c=>`<span class="tag co${st.c.has(c)?" on":""}" data-tf="c" data-n="${esc(c)}">${ICOL}${esc(c)}</span>`).join("")}</span>
     ${why.length?`<small class="why">★ ${esc(why.join(" · "))}</small>`:""}</span>
@@ -1428,7 +1432,7 @@ function ruleFlags(r){const l=L();return FLAGS.filter(f=>r&&r[f[0]]).map(([k,c,l
 function xheadHTML(k){const l=L();const H={art:[l.thArt,l.origin,l.genres,l.thNext,l.cTerm,l.thHear],col:[l.thCol,l.thGenRules,"",l.thNext,l.cTerm,l.cDj],ven:[l.thVen,l.genres,l.thRules,l.thNext,l.cTerm,""]}[k];
   return `<div class="xhead">${H.map((h,i)=>`<span class="h${i}">${esc(h)}</span>`).join("")}</div>`}
 function xrowHTML(o){const l=L();
-  return `<button class="row xr${o.n1?"":" x0"}" ${o.attr} aria-current="${o.cur}"><span class="main">
+  const fk={art:"a",col:"c",ven:"v"}[o.k];return `<button class="row xr${o.n1?"":" x0"}${isFav(fk,o.name)?" isfav":""}" ${o.attr} aria-current="${o.cur}">${rstar(fk,o.name)}<span class="main">
     <span class="c1${o.tile?" wl":""}">${o.tile||""}${o.tile?`<span class="c1t">`:""}<span class="ti">${esc(o.name)}${o.closed?`<span class="badge">${l.closedV}</span>`:""}</span>${o.sub?`<small class="sub">${esc(o.sub)}</small>`:""}${o.tags?`<span class="tags">${o.tags}</span>`:""}${o.tile?`</span>`:""}</span>
     ${o.c2?`<small class="c2">${esc(o.c2)}</small>`:""}
     <span class="gf">${gcl(o.gen)}${o.flags?`<span class="flags">${o.flags}</span>`:""}</span></span>
@@ -1559,6 +1563,7 @@ let FAV={e:[],a:[],c:[],v:[]};try{const o=JSON.parse(localStorage.getItem(FAVKEY
 const isFav=(k,n)=>(FAV[k]||[]).includes(n);
 function toggleFav(k,n){const a=FAV[k]=FAV[k]||[];const i=a.indexOf(n);if(i<0)a.push(n);else a.splice(i,1);try{localStorage.setItem(FAVKEY,JSON.stringify(FAV))}catch(_){}}
 const favCount=()=>FAV.e.filter(id=>EV.some(e=>e.id===id)).length+FAV.a.length+FAV.c.length+FAV.v.length;
+function rstar(k,n){const l=L();const on=isFav(k,n);return `<span class="rstar${on?" on":""}" data-rfav="${k}" data-fn="${esc(n)}" role="button" tabindex="0" aria-pressed="${on}" title="${on?l.favRem:l.favAdd}" aria-label="${on?l.favRem:l.favAdd}">${on?"★":"☆"}</span>`}
 function favBtn(k,n){const l=L();const on=isFav(k,n);return `<button class="favbtn${on?" on":""}" data-fav="${k}" data-fn="${esc(n)}" aria-pressed="${on}" title="${on?l.favRem:l.favAdd}" aria-label="${on?l.favRem:l.favAdd}">${on?"★":"☆"}</button>`}
 function favReason(e){const r=[];if(FAV.v.some(v=>sameV(v,e.venue)))r.push(e.venue);e.coll.forEach(c=>{if(FAV.c.some(x=>sameColl(x,c)))r.push(c)});e.artists.forEach(a=>{if(FAV.a.includes(a))r.push(a)});return r}
 function pastFavReason(p){const r=[];if(FAV.v.some(v=>p.v===v||vgroup(v)===p.v))r.push(p.v);p.c.forEach(c=>{if(FAV.c.some(x=>sameColl(x,c)))r.push(c)});p.a.forEach(a=>{if(FAV.a.includes(a))r.push(a)});return r}
@@ -1585,12 +1590,14 @@ mqMob.addEventListener?mqMob.addEventListener("change",placeSearch):mqMob.addLis
 mqSheet.addEventListener?mqSheet.addEventListener("change",()=>layoutStack()):0;
 function setTop(){const t=document.querySelector(".top").offsetHeight;document.documentElement.style.setProperty("--top",t+"px");const ms=$("msearch");document.documentElement.style.setProperty("--top2",(t+(mqMob.matches&&ms.offsetHeight?ms.getBoundingClientRect().height:0))+"px")}
 addEventListener("resize",()=>{setTop();layoutStack()});
-function render(){texts();renderSide();renderList();renderActive();renderDeck()}
+function render(){texts();renderSide();renderList();renderActive();renderDeck();persistF()}
+function persistF(){try{localStorage.setItem(FKEY,JSON.stringify({...Object.fromEntries(FK.map(k=>[k,[...st[k]]])),x:Object.fromEntries(FK.map(k=>[k,[...st.x[k]]]))}))}catch(_){}}
 function setView(v){if(st.view===v)return;st.view=v;save();scrollTo(0,0);render()}
 
 document.addEventListener("keydown",ev=>{if(ev.key==="Escape"&&!$("flybox").hidden){$("flybox").hidden=true;hpop(1);return}if((ev.key==="Enter"||ev.key===" ")&&ev.target.dataset&&ev.target.dataset.pin!=null){ev.preventDefault();ev.target.dispatchEvent(new MouseEvent("click",{bubbles:true}));return}if(ev.key==="Escape"&&$("side").classList.contains("open")){drawer(false);return}if(ev.key==="Escape"&&document.activeElement!==$("q")&&st.cards.length){closeCard(ck(st.cards[st.cards.length-1]));hpop(1)}});
 document.addEventListener("click",ev=>{
   if(ev.target.closest("a[download]"))return;
+  const rf=ev.target.closest("[data-rfav]");if(rf){ev.preventDefault();ev.stopPropagation();toggleFav(rf.dataset.rfav,rf.dataset.fn);texts();renderList();renderDeck();return}
   const fy=ev.target.closest("[data-flyer]");if(fy){ev.preventDefault();const b=$("flybox");b.innerHTML=`<img src="${esc(fy.dataset.flyer)}" alt="${esc(fy.dataset.ft||"Flyer")}" referrerpolicy="no-referrer"><button class="fx" type="button" aria-label="${L().close}">×</button><a href="${esc(su(fy.dataset.flyer))}" target="_blank" rel="noopener">${L().flyer} ↗</a>`;b.hidden=false;hpush();if(!fy.closest(".row"))return}
   if(ev.target.closest("#flybox")&&!ev.target.closest("#flybox a")){$("flybox").hidden=true;hpop(1);return}
   const mc=ev.target.closest("[data-calk]");if(mc){FK.forEach(k=>{st[k].clear();st.x[k].clear()});st.q="";$("q").value="";st.fav=false;
@@ -1678,7 +1685,7 @@ async function initAdmin(){if(ADMIN)return;ADMIN=true;const db=await getDB();if(
 async function approve(id,status){const db=await getDB();if(!db)return;try{await db.collection("approvals").doc(id).set({status,ts:Date.now()})}catch(_){}}
 const FKEY="rw-filters",FK=["g","v","c","a","f","src","age","price","time"];
 function hasSaved(){try{return !!localStorage.getItem(FKEY)}catch(_){return false}}
-function loadSaved(){try{const o=JSON.parse(localStorage.getItem(FKEY)||"null");if(!o)return;FK.forEach(k=>{if(Array.isArray(o[k]))st[k]=new Set(o[k]);if(o.x&&Array.isArray(o.x[k]))st.x[k]=new Set(o.x[k])});setTimeout(()=>{$("savemsg").textContent=L().loadedMsg},0)}catch(_){}}
+function loadSaved(){try{const o=JSON.parse(localStorage.getItem(FKEY)||"null");if(!o)return;FK.forEach(k=>{if(Array.isArray(o[k]))st[k]=new Set(o[k]);if(o.x&&Array.isArray(o.x[k]))st.x[k]=new Set(o.x[k])});}catch(_){}}
 applyZ();placeSearch();loadSaved();fromHash();render();setTop();
 addEventListener("hashchange",()=>{if(Date.now()-HPOP<400)return;const id=location.hash.slice(1);if(id&&id!==st.sel){fromHash();render()}});
 
