@@ -1393,6 +1393,13 @@ const LS={
 };
 const AR={
  "Tanzfuchs": {
+  "sets": [
+   {
+    "t": "Tanzfuchs – Integrity",
+    "u": "https://on.soundcloud.com/OO69Ki4YiMDhoJk9Zf"
+   }
+  ],
+  "setsChecked": "2026-10-29",
   "img": "https://i1.sndcdn.com/avatars-QYMONy0tWsOrqkHQ-XuPyMg-t500x500.jpg",
   "links": {
    "sc": "https://soundcloud.com/tnzfx"
