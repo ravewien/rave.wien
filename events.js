@@ -2181,6 +2181,7 @@ const AR={
   "setsChecked": "2026-10-27"
  },
  "AliasElias": {
+  "img": "https://ponyhof-official.at/wp-content/themes/ponyhof/assets/img/jockeys/aliaselias.webp",
   "from": {
    "de": "Wien, Österreich",
    "en": "Vienna, Austria"
@@ -2197,11 +2198,13 @@ const AR={
    "ig": "https://www.instagram.com/_ponyhof_official/"
   },
   "src": [
-   "https://ponyhof-official.at/"
+   "https://ponyhof-official.at/",
+   "https://ponyhof-official.at/en/"
   ],
   "setsChecked": "2026-10-27"
  },
  "Benjamin Di Bora": {
+  "img": "https://ponyhof-official.at/wp-content/themes/ponyhof/assets/img/jockeys/benjamindibora.webp",
   "from": {
    "de": "Wien, Österreich",
    "en": "Vienna, Austria"
@@ -2218,11 +2221,13 @@ const AR={
    "ig": "https://www.instagram.com/_ponyhof_official/"
   },
   "src": [
-   "https://ponyhof-official.at/"
+   "https://ponyhof-official.at/",
+   "https://ponyhof-official.at/en/"
   ],
   "setsChecked": "2026-10-27"
  },
  "Da_Mike": {
+  "img": "https://ponyhof-official.at/wp-content/themes/ponyhof/assets/img/jockeys/damike.webp",
   "from": {
    "de": "Wien, Österreich",
    "en": "Vienna, Austria"
@@ -2239,11 +2244,13 @@ const AR={
    "ig": "https://www.instagram.com/_ponyhof_official/"
   },
   "src": [
-   "https://ponyhof-official.at/"
+   "https://ponyhof-official.at/",
+   "https://ponyhof-official.at/en/"
   ],
   "setsChecked": "2026-10-27"
  },
  "Megamietzi": {
+  "img": "https://ponyhof-official.at/wp-content/themes/ponyhof/assets/img/jockeys/megamietzi.webp",
   "from": {
    "de": "Wien, Österreich",
    "en": "Vienna, Austria"
@@ -2260,11 +2267,13 @@ const AR={
    "ig": "https://www.instagram.com/_ponyhof_official/"
   },
   "src": [
-   "https://ponyhof-official.at/"
+   "https://ponyhof-official.at/",
+   "https://ponyhof-official.at/en/"
   ],
   "setsChecked": "2026-10-27"
  },
  "Nira": {
+  "img": "https://ponyhof-official.at/wp-content/themes/ponyhof/assets/img/jockeys/nira.webp",
   "from": {
    "de": "Wien, Österreich",
    "en": "Vienna, Austria"
@@ -2281,11 +2290,13 @@ const AR={
    "ig": "https://www.instagram.com/_ponyhof_official/"
   },
   "src": [
-   "https://ponyhof-official.at/"
+   "https://ponyhof-official.at/",
+   "https://ponyhof-official.at/en/"
   ],
   "setsChecked": "2026-10-27"
  },
  "Kovinator": {
+  "img": "https://ponyhof-official.at/wp-content/themes/ponyhof/assets/img/jockeys/kovinator.webp",
   "from": {
    "de": "Wien, Österreich",
    "en": "Vienna, Austria"
@@ -2302,11 +2313,13 @@ const AR={
    "ig": "https://www.instagram.com/_ponyhof_official/"
   },
   "src": [
-   "https://ponyhof-official.at/"
+   "https://ponyhof-official.at/",
+   "https://ponyhof-official.at/en/"
   ],
   "setsChecked": "2026-10-27"
  },
  "Rave Dave": {
+  "img": "https://ponyhof-official.at/wp-content/themes/ponyhof/assets/img/jockeys/ravedave.webp",
   "from": {
    "de": "Wien, Österreich",
    "en": "Vienna, Austria"
@@ -2323,11 +2336,13 @@ const AR={
    "ig": "https://www.instagram.com/_ponyhof_official/"
   },
   "src": [
-   "https://ponyhof-official.at/"
+   "https://ponyhof-official.at/",
+   "https://ponyhof-official.at/en/"
   ],
   "setsChecked": "2026-10-27"
  },
  "Feni": {
+  "img": "https://ponyhof-official.at/wp-content/themes/ponyhof/assets/img/jockeys/feni.webp",
   "from": {
    "de": "Wien, Österreich",
    "en": "Vienna, Austria"
@@ -2344,7 +2359,8 @@ const AR={
    "ig": "https://www.instagram.com/_ponyhof_official/"
   },
   "src": [
-   "https://ponyhof-official.at/"
+   "https://ponyhof-official.at/",
+   "https://ponyhof-official.at/en/"
   ],
   "setsChecked": "2026-10-27"
  },
