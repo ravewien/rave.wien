@@ -798,7 +798,7 @@ function dedupe(raw){
      e.srcCats=e.unconf?["one"]:[...(e.loc?["loc"]:[]),...(e.org?["org"]:[]),ks.size>=2?"multi":"one"].filter((x,i,A)=>!(x==="one"&&(e.loc||e.org))||A.length===1);
      e.conf=!e.unconf&&(e.loc||e.org||ks.size>=2);
      e.sound=e.sound||(VRULES[e.venue]&&VRULES[e.venue].sound)||null}
-    e.typGenres=[...new Set(e.coll.flatMap(c=>CGEN[c]||[]))].filter(g=>!e.genres.includes(g));e.genres=[...e.genres,...e.typGenres];
+    e.typGenres=[];
     e.artists=[...new Set(e.floors.flatMap(f=>f.a).map(nm).flatMap(splitA).filter(a=>a!=="TBA").map(canon))];
     e.headSet=new Set((e.head||[]).flatMap(splitA).map(canon));{const t=fold(e.title);e.artists.forEach(a=>{const f=fold(a);if(f.length>=3&&new RegExp("(^|[^a-z0-9])"+f.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+"($|[^a-z0-9])").test(t))e.headSet.add(a)})}if(e.headSet.size)e.artists.sort((a,b)=>e.headSet.has(b)-e.headSet.has(a))});
   return out.sort((a,b)=>(a.d+(a.s||"99")).localeCompare(b.d+(b.s||"99")));
