@@ -1746,11 +1746,14 @@ if(EMBED&&!CONS)showBanner();
 </style>
 <div class="edmod" id="edmod" hidden><div class="edbox" id="edbox"></div></div>
 <div class="edbar" id="edbar" hidden></div>
+<div class="edmod" id="edask" hidden style="z-index:240;align-items:center"><div class="edbox" style="width:min(420px,100%)"><p id="edaskt" style="margin:0 0 14px;font-size:15px;line-height:1.4"></p><div class="edact" style="margin:0"><span></span><div class="r"><button type="button" id="edaskn">Abbrechen</button><button type="button" class="save" id="edasky">OK</button></div></div></div></div>
 <script>
 /* ===== Bearbeitungsmodus – nur für die Besitzerin/den Besitzer im claude.ai-Artifact ===== */
 (()=>{
 const TRIGGER="trig_015NBzoS6nd7XJ8rgvtwgrLV";
 let EDB=null,EDITS={},ON=false;
+let ASKRES=null;function ask(msg,okOnly){return new Promise(res=>{const b=$("edask");$("edaskt").textContent=msg;$("edaskn").hidden=!!okOnly;b.hidden=false;
+  ASKRES=v=>{b.hidden=true;ASKRES=null;res(v)}})}
 const KN={ev:"Event",art:"Artist",col:"Veranstalter",ven:"Location"};
 const EVFLAGS=[["aw","Awareness"],["nophoto","Keine Fotos"],["sexpos","Sexpositiv"],["lgbtq","LGBTQIA+"],["opendecks","Open Decks"],["zero","Null Toleranz"],["unconf","Noch nicht bestätigt"]];
 const RULEFLAGS=[["aw","Awareness"],["nophoto","Keine Fotos"],["sexpos","Sexpositiv"],["lgbtq","LGBTQIA+"],["zero","Null Toleranz"]];
@@ -1848,16 +1851,16 @@ const badUrl=d=>Object.entries(d).find(([k,v])=>(/^(tickets|flyer|img|logo|web|i
 
 async function save(){const box=$("edbox");const kind=box.dataset.kind;const isNew=!!box.dataset.isnew;let key=box.dataset.key;
   const now=collect(box);
-  if(isNew){if(kind==="ev"){if(!now.title||!now.d){alert("Titel und Datum sind Pflicht.");return}key=(now.d+"-"+slug(now.title)).slice(0,60).replace(/-$/,"")}
-    else{key=(box.querySelector("[data-newkey]")||{}).value?.trim();if(!key){alert("Bitte einen Namen eingeben.");return}}}
+  if(isNew){if(kind==="ev"){if(!now.title||!now.d){await ask("Titel und Datum sind Pflicht.",true);return}key=(now.d+"-"+slug(now.title)).slice(0,60).replace(/-$/,"")}
+    else{key=(box.querySelector("[data-newkey]")||{}).value?.trim();if(!key){await ask("Bitte einen Namen eingeben.",true);return}}}
   const data=isNew?Object.fromEntries(Object.entries(now).filter(([,v])=>v!==""&&v!==false&&!(Array.isArray(v)&&!v.length))):diff(box._orig,now);
   if(isNew&&kind==="ev"&&!data.floors)data.floors=[{f:"",a:["TBA"]}];
   const prev=pend(kind,key);const merged=Object.assign({},prev&&prev.op!=="delete"?prev.data:{},data);
-  const bu=badUrl(merged);if(bu){alert("Link muss mit https:// beginnen: "+bu[0]);return}
+  const bu=badUrl(merged);if(bu){await ask("Link muss mit https:// beginnen: "+bu[0],true);return}
   if(!Object.keys(merged).length){closeEd();return}
   const title=kind==="ev"?(now.title||(EV.find(x=>x.id===key)||{}).title||key):key;
   await write(kind,key,{op:isNew?"add":(prev&&prev.op==="add"?"add":"edit"),data:merged,title});closeEd()}
-async function write(kind,key,o){if(!EDB)return;try{await EDB.collection("edits").doc(docId(kind,key)).set(Object.assign({kind,key,ts:Date.now(),status:"pending"},o));toast("Gespeichert – noch nicht live.")}catch(e){alert("Speichern fehlgeschlagen: "+(e&&e.code||e))}}
+async function write(kind,key,o){if(!EDB)return;try{await EDB.collection("edits").doc(docId(kind,key)).set(Object.assign({kind,key,ts:Date.now(),status:"pending"},o));toast("Gespeichert – noch nicht live.")}catch(e){await ask("Speichern fehlgeschlagen: "+(e&&e.code||e),true)}}
 function closeEd(){$("edmod").hidden=true;$("edbox").innerHTML=""}
 let tmsg="";function toast(t){tmsg=t;drawBar();setTimeout(()=>{if(tmsg===t){tmsg="";drawBar()}},6000)}
 
@@ -1873,7 +1876,7 @@ function showList(){const box=$("edbox");const all=Object.entries(EDITS).sort((a
   <ul class="edlist">${all.length?all.map(([id,d])=>`<li><span>${esc(KN[d.kind]||d.kind)} · <b>${esc(d.title||d.key)}</b> <small>${d.op==="delete"?"löschen":d.op==="add"?"neu":Object.keys(d.data||{}).join(", ")}</small><br><small>${esc(st2[d.status]||d.status)}${d.err?" – "+esc(d.err):""} · ${new Date(d.ts).toLocaleString("de-AT")}</small></span>${d.status!=="applied"?`<button type="button" data-eddrop="${esc(id)}">verwerfen</button>`:""}</li>`).join(""):"<li>Noch keine Änderungen.</li>"}</ul>
   <div class="edact"><span></span><div class="r"><button type="button" data-edcancel>Schließen</button></div></div>`;$("edmod").hidden=false}
 async function goLive(){const n=Object.values(EDITS).filter(d=>d.status==="pending").length;if(!n)return;
-  if(!confirm(n+" Änderung(en) jetzt live schalten?"))return;
+  if(!await ask(n+" Änderung(en) jetzt live schalten?"))return;
   try{const mcp=await claude.use("mcp");if(!mcp)throw {code:"unavailable"};await mcp.callTool("Claude Code Remote","fire_trigger",{trigger_id:TRIGGER,text:"Ausgelöst über den Bearbeitungsmodus ("+n+" Änderungen)."});
     toast("Läuft – in ein paar Minuten auf rave.wien. Du bekommst eine Push-Nachricht.")}catch(e){toast("Konnte den Lauf nicht starten ("+(e&&e.code||"Fehler")+"). Bitte Claude Bescheid geben.")}}
 function decorate(el){if(!ON)return;const key=el.dataset.card;if(!key)return;const [k,n]=key.split("\u0001");if(!KN[k])return;
@@ -1882,6 +1885,7 @@ function decorate(el){if(!ON)return;const key=el.dataset.card;if(!key)return;con
   b.classList.toggle("pend",!!pend(k,n))}
 
 document.addEventListener("click",async ev=>{if(!ON)return;const t=ev.target;
+  if(t.closest("#edask")){ev.stopPropagation();ev.preventDefault();if(ASKRES){if(t.id==="edasky")ASKRES(true);else if(t.id==="edaskn"||t.id==="edask")ASKRES(false)}return}
   const ed=t.closest("[data-edit]");if(ed){ev.preventDefault();ev.stopPropagation();const [k,n]=ed.dataset.edit.split("\u0001");openEdit(k,n,false);return}
   if(t.closest("[data-ednew]")){openEdit(t.closest("[data-ednew]").dataset.ednew,"",true);return}
   if(t.closest("[data-edlist]")){showList();return}
@@ -1890,10 +1894,10 @@ document.addEventListener("click",async ev=>{if(!ON)return;const t=ev.target;
   if(t.id==="edmod"||t.closest("[data-edcancel]")){closeEd();return}
   if(t.closest("[data-rm]")){t.closest("span[data-v]").remove();return}
   if(t.closest("[data-edsave]")){save();return}
-  if(t.closest("[data-eddrop]")){const id=t.closest("[data-eddrop]").dataset.eddrop;if(confirm("Diese Änderung verwerfen?")){try{await EDB.collection("edits").doc(id).delete()}catch(_){}}return}
-  if(t.closest("[data-edundo]")){const b=$("edbox");if(confirm("Ausstehende Änderung verwerfen?")){try{await EDB.collection("edits").doc(docId(b.dataset.kind,b.dataset.key)).delete()}catch(_){}closeEd()}return}
+  if(t.closest("[data-eddrop]")){const id=t.closest("[data-eddrop]").dataset.eddrop;if(await ask("Diese Änderung verwerfen?")){try{await EDB.collection("edits").doc(id).delete()}catch(_){}}return}
+  if(t.closest("[data-edundo]")){const b=$("edbox");if(await ask("Ausstehende Änderung verwerfen?")){try{await EDB.collection("edits").doc(docId(b.dataset.kind,b.dataset.key)).delete()}catch(_){}closeEd()}return}
   if(t.closest("[data-eddel]")){const b=$("edbox");const k=b.dataset.kind,key=b.dataset.key;const ttl=k==="ev"?(EV.find(x=>x.id===key)||{}).title:key;
-    if(confirm(`„${ttl}“ wirklich löschen? Das geht mit „Live schalten“ online.`)){await write(k,key,{op:"delete",data:{},title:ttl});closeEd()}return}
+    if(await ask(`„${ttl}“ wirklich löschen? Das geht mit „Live schalten“ online.`)){await write(k,key,{op:"delete",data:{},title:ttl});closeEd()}return}
 },true);
 document.addEventListener("keydown",ev=>{if(!ON||$("edmod").hidden)return;
   if(ev.key==="Escape"){ev.stopPropagation();closeEd();return}
