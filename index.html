@@ -1201,11 +1201,13 @@ function addCard(k,n){st.cards=st.cards.filter(c=>!(c.k===k&&c.n===n));st.cards.
 function expandCard(key){const c=st.cards.find(x=>ck(x)===key);if(!c)return;st.cards=st.cards.filter(x=>x!==c);c.min=false;st.cards.push(c);syncCur();layoutStack();markCur()}
 function minAll(){st.cards.forEach(c=>c.min=true);layoutStack()}
 let HD=0,HSKIP=0,HPOP=0;
-function hpush(){try{history.pushState({rw:1},"",location.href);HD++}catch(_){}}
-function hpop(n){n=Math.min(n,HD);if(n>0){HSKIP++;HD-=n;try{history.go(-n)}catch(_){HSKIP--}}}
-addEventListener("popstate",()=>{HPOP=Date.now();if(HSKIP){HSKIP--;return}if(HD>0)HD--;
-  if(!$("flybox").hidden){$("flybox").hidden=true;return}
-  if(st.cards.length)closeCard(ck(st.cards[st.cards.length-1]))});
+function hpush(){try{HD++;history.pushState({rw:HD},"",location.href)}catch(_){HD--}}
+function hpop(n){n=Math.min(n,HD);if(n>0){HSKIP++;try{history.go(-n)}catch(_){HSKIP--}}}
+addEventListener("popstate",ev=>{const d=(ev.state&&ev.state.rw)||0;if(HSKIP){HSKIP--;HD=d;return}
+  if(d>=HD){HD=d;return}
+  let k=HD-d;HD=d;HPOP=Date.now();
+  if(!$("flybox").hidden){$("flybox").hidden=true;k--}
+  while(k-->0&&st.cards.length)closeCard(ck(st.cards[st.cards.length-1]))});
 function openCard(k,n){const before=rects();addCard(k,n);hpush();if(k==="ev")st.gone=false;renderDeck();flip(before,k+"\u0001"+n);markCur()}
 function closeCard(key){const before=rects();st.cards=st.cards.filter(c=>ck(c)!==key);syncCur();renderDeck();flip(before,null);markCur()}
 function frontCard(key){const c=st.cards.find(x=>ck(x)===key);if(!c)return;const before=rects();st.cards=st.cards.filter(x=>x!==c);st.cards.push(c);syncCur();renderDeck();flip(before,key);markCur()}
@@ -1489,8 +1491,8 @@ function renderEv(dk,id){
 }
 const shareURL=e=>"https://rave.wien/#"+e.id;
 const shareK=(k,n)=>"https://rave.wien/#"+k+"/"+slug(n);
-function fromSlug(k,sl){const pool=k==="a"?ALLART():k==="c"?[...UNI.c,...EV.flatMap(e=>e.coll)]:UNI.v;return pool.find(n=>slug(n)===sl)}
-function setHash(id){try{if(id){if(location.hash!=="#"+id)history.replaceState(null,"","#"+id)}else if(location.hash)history.replaceState(null,"",location.pathname+location.search)}catch(_){}}
+function fromSlug(k,sl){const pool=k==="a"?ALLART():k==="c"?[...UNI.c,...EV.flatMap(e=>e.coll)]:UNI.v;const t=slug(sl);return pool.find(n=>slug(n)===t)}
+function setHash(id){try{if(id){if(location.hash!=="#"+id)history.replaceState(history.state,"","#"+id)}else if(location.hash)history.replaceState(history.state,"",location.pathname+location.search)}catch(_){}}
 function fromHash(){const id=decodeURIComponent((location.hash||"").slice(1));if(!id)return;
   const m=/^([acv])\/(.+)$/.exec(id);if(m){const n=fromSlug(m[1],m[2]);if(n)addCard({a:"art",c:"col",v:"ven"}[m[1]],n);return}
   const e=EV.find(x=>x.id===id);if(e){addCard("ev",e.id);if(st.view==="cal")st.month=e.d.slice(0,7)}else if(ALL.some(x=>x.id===id)){st.gone=true}}
