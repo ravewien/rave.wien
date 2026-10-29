@@ -1490,13 +1490,13 @@ function renderEv(dk,id){
     <div class="sharebox" hidden><input class="shareurl" readonly value="${shareURL(e)}" aria-label="Link"><span class="sharemsg"></span></div>
     <div class="cbar"><div class="calbox" hidden><a href="${esc(su(gcalURL(e)))}" target="_blank" rel="noopener">Google ${l.calW} ↗</a><a href="${esc(su(olURL(e)))}" target="_blank" rel="noopener">Outlook ↗</a><button type="button" data-icsdl="${e.id}">${l.icsFile}</button></div><button class="ibtn" data-share="${e.id}" title="${l.share}" aria-label="${l.share}">${ISHARE}</button><button class="ibtn" data-ics="${e.id}" title="${l.toCal}" aria-label="${l.toCal}">${ICAL}</button>${e.flyer?(fimg?`<button type="button" class="ibtn" data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}" title="${l.flyer}" aria-label="${l.flyer}">${IFLY}</button>`:`<a class="ibtn" href="${esc(su(e.flyer))}" target="_blank" rel="noopener" title="${l.flyer}" aria-label="${l.flyer}">${IFLY}</a>`):""}<a class="ibtn" href="${reportURL(e.title+" ("+e.d+")",shareURL(e))}" title="${l.report}" aria-label="${l.report}">${IFLAG}</a><span style="flex:1"></span>${e.tickets?`<a class="tixbtn" href="${esc(su(e.tickets))}" target="_blank" rel="noopener">${l.ticketsS} ↗</a>`:`<span class="tixbtn off">${pm.some(x=>/abendkasse|AK\b/i.test(x))?l.akOnly:l.noTix}</span>`}</div>`;
 }
-const shareURL=e=>"https://rave.wien/#"+e.id;
-const shareK=(k,n)=>"https://rave.wien/#"+k+"/"+slug(n);
+const shareURL=e=>"https://rave.wien/e/"+e.id;
+const shareK=(k,n)=>"https://rave.wien/"+k+"/"+slug(n);
 function fromSlug(k,sl){const pool=k==="a"?ALLART():k==="c"?[...UNI.c,...EV.flatMap(e=>e.coll)]:UNI.v;const t=slug(sl);return pool.find(n=>slug(n)===t)}
 function setHash(id){try{if(id){if(location.hash!=="#"+id)history.replaceState(history.state,"","#"+id)}else if(location.hash)history.replaceState(history.state,"",location.pathname+location.search)}catch(_){}}
 function fromHash(){const id=decodeURIComponent((location.hash||"").slice(1));if(!id)return;
   const m=/^([acv])\/(.+)$/.exec(id);if(m){const n=fromSlug(m[1],m[2]);if(n)addCard({a:"art",c:"col",v:"ven"}[m[1]],n);return}
-  const e=EV.find(x=>x.id===id);if(e){addCard("ev",e.id);if(st.view==="cal")st.month=e.d.slice(0,7)}else if(ALL.some(x=>x.id===id)){st.gone=true}}
+  const e=EV.find(x=>x.id===id)||EV.find(x=>id.startsWith(x.d)&&(x.id.startsWith(id)||id.startsWith(x.id)));if(e){addCard("ev",e.id);if(st.view==="cal")st.month=e.d.slice(0,7)}else if(ALL.some(x=>x.id===id)){st.gone=true}}
 async function share(btn){const id=btn.dataset.share;const e=EV.find(x=>x.id===id);const u=btn.dataset.su||(e&&shareURL(e));if(!u)return;const card=btn.closest(".deck");const box=card.querySelector(".sharebox"),msg=card.querySelector(".sharemsg");box.hidden=false;
   try{await navigator.clipboard.writeText(u);msg.textContent=L().copied}catch(_){const i=card.querySelector(".shareurl");i.focus();i.select();msg.textContent=L().copyFail}}
 /* calendar export */
