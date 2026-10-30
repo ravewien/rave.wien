@@ -157,7 +157,7 @@ body.vw-col{--accent:var(--c-col);--accent-fg:#1f0f00;--sel:#4a2c0c}
 body.vw-loc{--accent:var(--c-ven);--accent-fg:#06140a;--sel:#173f20}
 /* icons */
 .ico{display:inline-grid;place-items:center;min-width:17px;height:17px;padding:0 3px;border-radius:2px;font-style:normal;font-family:var(--f-mono);font-size:11px;font-weight:700;line-height:1;color:#0b0d10;vertical-align:1px}
-.ico.sx{background:var(--sex)}.ico.lg{background:var(--lg)}.ico.aw{background:var(--aw)}.ico.np{background:#e9ecf1}.ico.od{background:var(--od)}
+.ico.sx{background:var(--sex)}.ico.lg{background:linear-gradient(180deg,#e40303 0 16.6%,#ff8c00 16.6% 33.3%,#ffed00 33.3% 50%,#008026 50% 66.6%,#004dff 66.6% 83.3%,#750787 83.3%);color:#fff;text-shadow:0 0 2px #000,0 0 1px #000}.ico.aw{background:var(--aw)}.ico.np{background:#e9ecf1}.ico.od{background:var(--od)}
 .ico.uc{background:transparent;border:1px dashed var(--mute);color:var(--mute)}
 .ico.spk{background:var(--panel2);border:1px solid var(--line);color:var(--fg)}
 .ico svg{width:11px;height:11px;display:block}
@@ -177,11 +177,12 @@ body.vw-loc{--accent:var(--c-ven);--accent-fg:#06140a;--sel:#173f20}
 .tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:5px}
 .row .ve .tags{margin-top:0}
 .flag .ico{margin:0 5px 0 -4px;min-width:15px;height:15px;font-size:10px}
+.ico.lg:empty{width:17px;padding:0}.flag .ico.lg:empty{width:15px}
 .flag .ico.uc{border:0}
 .rule{width:100%;text-align:left;font-family:inherit;cursor:pointer}
 .rule:hover{filter:brightness(1.2)}
 .rule.sx .ic,.rule.lg .ic,.rule.aw .ic,.rule.np .ic,.rule.od .ic{display:inline-grid;place-items:center;min-width:20px;height:20px;border-radius:2px;color:#0b0d10;font-weight:800}
-.rule.sx .ic{background:var(--sex)}.rule.lg .ic{background:var(--lg)}.rule.aw .ic{background:var(--aw)}.rule.np .ic{background:#e9ecf1}.rule.od .ic{background:var(--od)}
+.rule.sx .ic{background:var(--sex)}.rule.lg .ic{background:linear-gradient(180deg,#e40303 0 16.6%,#ff8c00 16.6% 33.3%,#ffed00 33.3% 50%,#008026 50% 66.6%,#004dff 66.6% 83.3%,#750787 83.3%);color:#fff;text-shadow:0 0 2px #000,0 0 1px #000}.rule.aw .ic{background:var(--aw)}.rule.np .ic{background:#e9ecf1}.rule.od .ic{background:var(--od)}
 /* search clear */
 .qx{position:absolute;right:4px;top:50%;transform:translateY(-50%);width:26px;height:26px;border:0;border-radius:3px;background:var(--line);color:var(--fg);font-size:15px;line-height:1}
 .qx:hover{background:var(--accent);color:var(--accent-fg)}
@@ -869,7 +870,7 @@ const T={
   foot1:"As of 27 October 2026. Sources: club websites (Grelle Forelle, FLUCC, SASS, PRST, Das Werk, Weberknecht, Exil), promoters (hausgemacht and others) and portals (Resident Advisor, oh schon hell, frey-tag, regioactive, events.at, volume.at, FALTER, Wien Modern, rausgegangen, sexpositives.com, goodnight.at).",
   foot2:"Events found on only one source and not confirmed by the venue are marked \"single source\". Vibe & Safety and entry age are only marked when the club or promoter states them. Grelle Forelle and Das Werk are generally 21+ according to Vienna guides, SASS and O der Klub 18+; single events can differ. A missing mark does not mean there is none. Flyers are not embedded; the link leads to the source."}
 };
-const FLAGS=[["sexpos","sx","fSx","rSx","⚤"],["lgbtq","lg","fLg","rLg","⚧"],["aw","aw","fAw","rAw","!"],["nophoto","np","fNp","rNp","⊘"],["opendecks","od","fOd","rOd","◎"]];
+const FLAGS=[["sexpos","sx","fSx","rSx","♥"],["lgbtq","lg","fLg","rLg",""],["aw","aw","fAw","rAw","!"],["nophoto","np","fNp","rNp","⊘"],["opendecks","od","fOd","rOd","◎"]];
 const ICOL='<svg class="ii col" viewBox="0 0 13 12" aria-hidden="true"><path fill="currentColor" d="M6.5 0a2.3 2.3 0 1 1 0 4.6 2.3 2.3 0 0 1 0-4.6zM2.4 1.6a1.8 1.8 0 1 1 0 3.6 1.8 1.8 0 0 1 0-3.6zm8.2 0a1.8 1.8 0 1 1 0 3.6 1.8 1.8 0 0 1 0-3.6zM6.5 5.6c2.2 0 3.6 1.4 3.6 3.4V12H2.9V9c0-2 1.4-3.4 3.6-3.4zM2.2 6.2c.4 0 .7 0 1 .1A4.4 4.4 0 0 0 2 9.1V11H0V8.7c0-1.5.9-2.5 2.2-2.5zm8.6 0c1.3 0 2.2 1 2.2 2.5V11h-2V9.1c0-1.1-.4-2.1-1.2-2.8.3-.1.6-.1 1-.1z"/></svg>';
 const IPIN='<svg class="ii pin" viewBox="0 0 11 14" aria-hidden="true"><path fill="currentColor" d="M5.5 0A5.5 5.5 0 0 0 0 5.5C0 9.6 5.5 14 5.5 14S11 9.6 11 5.5A5.5 5.5 0 0 0 5.5 0zm0 7.6a2.1 2.1 0 1 1 0-4.2 2.1 2.1 0 0 1 0 4.2z"/></svg>';
 const ICAL='<svg viewBox="0 0 16 16" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.4" d="M2.5 3.5h11v10h-11zM2.5 6.5h11M5.5 1.8v3M10.5 1.8v3"/></svg>';
