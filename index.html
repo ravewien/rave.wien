@@ -603,6 +603,7 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
 .xr .snd{display:block;width:100%;color:var(--mute);font-size:11.5px;margin-top:2px}
 .xr .stub{justify-content:center;gap:7px}
 .row.tk .stub{padding-top:24px}
+@media (min-width:640px){.row.tk .stub,.row.xr .stub{padding-right:26px}}
 .xr .nx{display:flex;flex-direction:column;align-items:center;gap:4px;min-width:0;max-width:100%}
 .xr .nd{font-family:var(--f-body);font-weight:700;font-size:13px;color:var(--accent);white-space:nowrap}.xr .nd.no{color:var(--mute)}
 .xr .nx .tag{font-size:9.5px;padding:1px 5px;max-width:100%;overflow:hidden;text-overflow:ellipsis}
@@ -970,14 +971,15 @@ function renderSide(){
 const gcl=g=>g.length?`<span class="tags"><span class="gcl"><b>♫</b>${g.map(x=>`<span data-tf="g" data-n="${esc(x)}"${st.g.has(x)?' class="on"':""}>${esc(x)}</span>`).join("")}</span></span>`:"";
 /* Preise mit vielen Stufen kurz als von–bis */
 function normPrice(p){if(!p)return p;const s=String(p);
-  const segs=s.replace(/[()]/g," ").split(/;|,(?!\d)|\s\/\s|·/).map(x=>x.trim()).filter(Boolean);
-  const SPEC=/vip|tisch|table|lounge|paket|gruppe|group|member|mitglied|pass\b|festivalpass|styling/i,RED=/studier|ermäßig|student|reduziert|reduced|schüler|concession/i;
-  const nums=[];let red=[];
+  let drop=0;const q=s.replace(/[^;,/·()]*\d[^;,/·()]*\(\s*(?:ausverkauft|sold.?out|vergriffen)\s*\)/gi,()=>{drop=1;return ";"}).replace(/\(([^()]*)\)/g,(_,x)=>/€/.test(x)?";"+x+";":/ausverkauft|sold.?out|vergriffen/i.test(x)?(drop=1,""):" "+x+" ");
+  const segs=q.split(/;|,(?!\d)|\s\/\s|·/).map(x=>x.trim()).filter(Boolean);
+  const SPEC=/vip|tisch|table|lounge|paket|gruppe|group|member|mitglied|pass\b|festivalpass|styling/i,RED=/studier|ermäßig|student|reduziert|reduced|schüler|concession/i,SOLD=/ausverkauft|sold.?out|vergriffen/i;
+  const nums=[];let red=[],ab=/^\s*(ab|from)\b/i.test(s);
   const re=/(\d+(?:[.,]\d+)?)\s*(?:[–-]\s*(\d+(?:[.,]\d+)?))?\s*€|€\s*(\d+(?:[.,]\d+)?)(?:\s*[–-]\s*€?\s*(\d+(?:[.,]\d+)?))?/g;
-  segs.forEach(g=>{if(SPEC.test(g))return;if(RED.test(g)){red.push(g);return}let m;re.lastIndex=0;while((m=re.exec(g)))[m[1],m[2],m[3],m[4]].forEach(v=>{if(v)nums.push(parseFloat(v.replace(",",".")))})});
-  const d=[...new Set(nums)];if(d.length<3)return s;
+  segs.forEach(g=>{if(SOLD.test(g)||SPEC.test(g)){drop=1;return}if(RED.test(g)){red.push(g);return}let m;re.lastIndex=0;while((m=re.exec(g)))[m[1],m[2],m[3],m[4]].forEach(v=>{if(v)nums.push(parseFloat(v.replace(",",".")))})});
+  const d=[...new Set(nums)];if(!d.length||(d.length<3&&!drop))return s;
   const f=n=>Number.isInteger(n)?String(n):n.toFixed(2).replace(".",",");
-  const mn=Math.min(...d),mx=Math.max(...d);return (mn===mx?f(mn):f(mn)+"–"+f(mx))+" €"+(red.length?" / "+red.join(", "):"")}
+  const mn=Math.min(...d),mx=Math.max(...d);return (mn===mx?(ab?"ab ":"")+f(mn):f(mn)+"–"+f(mx))+" €"+(red.length?" / "+red.join(", "):"")}
 function stubHTML(s,e,age,price,tk){price=normPrice(price);const pm=price?String(price).split(/\s+[·|\/]\s+|,\s+/):[];
   return `<span class="stub"><span class="t">${s||"--:--"}<small>${e?"-"+e:""}</small></span><span class="agec">${age?`<span class="flag age">${esc(age)}</span>`:""}</span><span class="price">${pm.length?esc(pm[0]):"–"}${pm.length>1?`<small>${esc(pm.slice(1).join(" · "))}</small>`:""}</span></span>`}
 function pastRowHTML(p){if(p.ev){const e=ALL.find(x=>x.id===p.id);if(e)return rowHTML(e).replace('class="row tk ','class="row tk pastrow ')}const why=st.fav?pastFavReason(p):[];
