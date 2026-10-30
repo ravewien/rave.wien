@@ -1114,12 +1114,26 @@ const CI={
  }
 };
 const VI={
- "Wiener Würstelstand Spittelau": {"de":"Würstelstand von Mike Lanner und Sengl bei der U-Bahn-Station Spittelau mit modernen Hot Dogs, Fassbier und Garten; gelegentlich legen hier DJs auf.","en":"Sausage stand by Mike Lanner and Sengl at the Spittelau underground station, serving modern hot dogs and draught beer, with a garden; DJs play here occasionally.","man":1,"src":["https://www.theviennareview.at/food-drink/12453/wiener-wurstelstand","https://ra.co/clubs/218090"]},
+ "Wiener Würstelstand Spittelau": {
+  "de": "Würstelstand von Mike Lanner und Sengl bei der U-Bahn-Station Spittelau mit modernen Hot Dogs, Fassbier und Garten; gelegentlich legen hier DJs auf.",
+  "en": "Sausage stand by Mike Lanner and Sengl at the Spittelau underground station, serving modern hot dogs and draught beer, with a garden; DJs play here occasionally.",
+  "man": 1,
+  "src": [
+   "https://www.theviennareview.at/food-drink/12453/wiener-wurstelstand",
+   "https://ra.co/clubs/218090"
+  ],
+  "io": [
+   "Outdoor"
+  ]
+ },
  "Hofburg Vienna": {
   "de": "Ehemalige Kaiserresidenz am Heldenplatz, deren Prunksäle auch für Großveranstaltungen genutzt werden.",
   "en": "Former imperial residence on Heldenplatz whose state halls are also used for large events.",
   "src": [
    "https://ksot.ticket.io/"
+  ],
+  "io": [
+   "Indoor"
   ]
  },
  "Grelle Forelle": {
@@ -1143,7 +1157,10 @@ const VI={
    "https://ohschonhell.at/orte/grelle+forelle/3",
    "https://www.grelleforelle.com/"
   ],
-  "logo": "https://www.grelleforelle.com/wp-content/uploads/2016/08/cropped-favicon-270x270.png"
+  "logo": "https://www.grelleforelle.com/wp-content/uploads/2016/08/cropped-favicon-270x270.png",
+  "io": [
+   "Indoor"
+  ]
  },
  "Das Werk": {
   "web": "https://www.daswerk.org/",
@@ -1168,7 +1185,10 @@ const VI={
   "src": [
    "https://ohschonhell.at/orte/das+werk/14"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "io": [
+   "Indoor"
+  ]
  },
  "FLUCC Wanne": {
   "web": "https://flucc.at/",
@@ -1183,7 +1203,10 @@ const VI={
   "src": [
    "https://ohschonhell.at/orte/flucc/50"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "io": [
+   "Indoor"
+  ]
  },
  "FLUCC Deck": {
   "web": "https://flucc.at/",
@@ -1198,7 +1221,11 @@ const VI={
   "src": [
    "https://ohschonhell.at/orte/flucc/50"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "io": [
+   "Indoor",
+   "Outdoor"
+  ]
  },
  "SASS Music Club": {
   "web": "https://sassvienna.com/",
@@ -1207,7 +1234,10 @@ const VI={
   "src": [
    "https://ohschonhell.at/orte/sass/9"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "io": [
+   "Indoor"
+  ]
  },
  "PRST": {
   "opened": "2020",
@@ -1216,7 +1246,10 @@ const VI={
   "src": [
    "https://ohschonhell.at/orte/praterstrasse+-+prst/912"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "io": [
+   "Indoor"
+  ]
  },
  "Club Exil": {
   "web": "https://www.club-exil.at/",
@@ -1227,7 +1260,10 @@ const VI={
    "https://ohschonhell.at/orte/exil/914",
    "https://www.club-exil.at/en"
   ],
-  "logo": "https://www.club-exil.at/logo.svg"
+  "logo": "https://www.club-exil.at/logo.svg",
+  "io": [
+   "Indoor"
+  ]
  },
  "Kramladen": {
   "opened": "2015",
@@ -1237,7 +1273,10 @@ const VI={
    "https://ohschonhell.at/orte/kramladen/549",
    "https://ra.co/events/2475933"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "io": [
+   "Indoor"
+  ]
  },
  "Celeste": {
   "opened": "2014",
@@ -1247,7 +1286,10 @@ const VI={
    "https://ohschonhell.at/orte/celeste/47",
    "https://www.technoairlines.com/club/celeste-vienna"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "io": [
+   "Indoor"
+  ]
  },
  "Weberknecht": {
   "web": "https://weberknecht.at/",
@@ -1255,7 +1297,10 @@ const VI={
    "https://ohschonhell.at/orte/weberknecht/28",
    "https://weberknecht.at/"
   ],
-  "logo": "https://weberknecht.at/wp-content/uploads/2018/06/cropped-grunge-plus-1-270x270.png"
+  "logo": "https://weberknecht.at/wp-content/uploads/2018/06/cropped-grunge-plus-1-270x270.png",
+  "io": [
+   "Indoor"
+  ]
  },
  "Tagada": {
   "src": [
@@ -1270,7 +1315,10 @@ const VI={
    "Rausch (Bar)",
    "Dancefloor"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "io": [
+   "Indoor"
+  ]
  },
  "Club Lucia": {
   "web": "https://www.clublucia.at/",
@@ -1278,7 +1326,10 @@ const VI={
    "https://ohschonhell.at/orte/club+lucia/963",
    "https://www.clublucia.at/"
   ],
-  "logo": "https://www.clublucia.at/wp-content/uploads/2025/05/LUCIA-FINAL-white-1-1024x968.png"
+  "logo": "https://www.clublucia.at/wp-content/uploads/2025/05/LUCIA-FINAL-white-1-1024x968.png",
+  "io": [
+   "Indoor"
+  ]
  },
  "O der Klub": {
   "web": "https://o-klub.at/",
@@ -1296,7 +1347,10 @@ const VI={
    "https://goodnight.at/locations/984-club-o",
    "https://o-klub.at/"
   ],
-  "logo": "https://o-klub.at/wp-content/uploads/2022/09/Logo_w.svg"
+  "logo": "https://o-klub.at/wp-content/uploads/2022/09/Logo_w.svg",
+  "io": [
+   "Indoor"
+  ]
  },
  "Libelle": {
   "web": "https://www.libelle.at/",
@@ -1312,6 +1366,10 @@ const VI={
   "en": "Former sauna in the Prater, club with pool. Reopened 2025, closed again as a club since.",
   "src": [
    "https://ohschonhell.at/orte/pratersauna/5"
+  ],
+  "io": [
+   "Indoor",
+   "Outdoor"
   ]
  },
  "Usus am Wasser": {
@@ -1320,6 +1378,10 @@ const VI={
   "src": [
    "https://tableagent.com/vienna/usus-am-wasser/",
    "https://ra.co/events/2492475"
+  ],
+  "io": [
+   "Indoor",
+   "Outdoor"
   ]
  },
  "Porto Pollo": {
@@ -1328,6 +1390,9 @@ const VI={
   "src": [
    "https://www.technoairlines.com/club/porto-pollo-vienna",
    "https://ra.co/events/2456634"
+  ],
+  "io": [
+   "Outdoor"
   ]
  },
  "The Popp im Prater": {
@@ -1350,48 +1415,74 @@ const VI={
    "https://www.theloft.at/feuchte-traeume-renaissance-of-pleasure/",
    "https://www.theloft.at/"
   ],
-  "logo": "https://www.theloft.at/wp-content/uploads/2022/02/loft-logo.svg"
+  "logo": "https://www.theloft.at/wp-content/uploads/2022/02/loft-logo.svg",
+  "io": [
+   "Indoor"
+  ]
  },
  "Pyramide Vösendorf": {
   "src": [
    "https://o-klub.at/events/pyramide-takeover/"
+  ],
+  "io": [
+   "Indoor"
   ]
  },
  "Flex": {
   "src": [
    "https://flex.at/event/the-hive-x-collapse/"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "io": [
+   "Indoor",
+   "Outdoor"
+  ]
  },
  "Ottakringer Brauerei": {
   "src": [
    "https://warda.at/events/ksot-halloween-warehouse-rave/"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "io": [
+   "Indoor",
+   "Outdoor"
+  ]
  },
  "Lugner City": {
   "src": [
    "https://www.volume.at/events/koere-halloween-rave-2026-2026-10-31/"
+  ],
+  "io": [
+   "Indoor"
   ]
  },
  "U4": {
   "src": [
    "https://ra.co/events/2506486"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "io": [
+   "Indoor"
+  ]
  },
  "Funkhaus": {
   "src": [
    "https://ra.co/events/2547379"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "io": [
+   "Indoor"
+  ]
  },
  "Rhiz": {
   "src": [
    "https://ra.co/events/2563381",
    "https://rhiz.wien/blog/"
   ],
-  "logo": "https://rhiz.wien/wp-content/uploads/2026/01/cropped-favicon-270x270.png"
+  "logo": "https://rhiz.wien/wp-content/uploads/2026/01/cropped-favicon-270x270.png",
+  "io": [
+   "Indoor"
+  ]
  },
  "kv.r.": {
   "src": [
@@ -1409,17 +1500,54 @@ const VI={
   "src": [
    "https://ra.co/events/2568237"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "io": [
+   "Indoor"
+  ]
  },
  "Prater Dome": {
   "src": [
    "https://ra.co/events/2546243"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "io": [
+   "Indoor"
+  ]
  },
  "Altia Skybar – DC Tower": {
   "src": [
    "https://ra.co/events/2560557"
+  ]
+ },
+ "Event Arena Vösendorf": {
+  "io": [
+   "Indoor"
+  ]
+ },
+ "M1 Club": {
+  "io": [
+   "Indoor"
+  ]
+ },
+ "B72": {
+  "io": [
+   "Indoor"
+  ]
+ },
+ "Metastadt": {
+  "io": [
+   "Indoor"
+  ]
+ },
+ "Prater (Calafatiplatz)": {
+  "io": [
+   "Outdoor"
+  ]
+ },
+ "Otto Wagner Areal": {
+  "io": [
+   "Indoor",
+   "Outdoor"
   ]
  }
 };
