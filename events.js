@@ -1383,7 +1383,8 @@ const VI={
   "io": [
    "Indoor",
    "Outdoor"
-  ]
+  ],
+  "ioMain": "Outdoor"
  },
  "Porto Pollo": {
   "de": "Bar am Ufer der Donauinsel in Kaisermühlen, Day-Raves am Wochenende.",
