@@ -124,6 +124,10 @@ a{color:inherit}
 .flag.sx{color:var(--sex);background:var(--sex-bg);border:1px solid var(--sex-line)}
 .flag.lg{color:var(--lg);background:var(--lg-bg);border:1px solid var(--lg-line)}
 .flag.aw{color:var(--aw);background:var(--aw-bg);border:1px solid var(--aw-line)}
+.flag.io{gap:4px}.flag.io .ico{display:inline-grid;place-items:center;width:11px;min-width:0;height:11px;margin:0;padding:0;background:none;color:inherit}.flag.io svg{width:11px;height:11px}
+.flag.io-out{color:#3e9d5c;background:rgba(36,110,60,.16);border:1px solid rgba(46,125,72,.55)}
+.flag.io-in{color:#5b9cf0;background:rgba(40,110,220,.12);border:1px solid rgba(70,130,230,.45)}
+.flag.io-out.on{background:#2e7d48;color:#04140a}.flag.io-in.on{background:#4a8ef0;color:#04101f}
 .flag.od{color:var(--od);background:var(--od-bg);border:1px solid var(--od-line)}
 .flag.uc{color:var(--mute);background:transparent;border:1px dashed var(--mute)}
 .flag.np,.flag.age{color:var(--fg);background:var(--panel2);border:1px solid var(--line)}
@@ -161,6 +165,7 @@ body.vw-loc{--accent:var(--c-ven);--accent-fg:#06140a;--sel:#173f20}
 .ii.col{color:var(--c-col)}.ii.pin{color:var(--c-ven);width:10px;height:12px}
 .vchk{color:var(--c-ev);font-weight:800;margin-right:6px;letter-spacing:-.15em}
 .tag{display:inline-flex;align-items:center;gap:0;border-radius:3px;padding:1px 7px 1px 6px;border:1px solid var(--line);background:var(--panel2);color:var(--fg);font-family:var(--f-display);font-weight:600;letter-spacing:.06em;text-transform:uppercase;font-size:11.5px;white-space:nowrap;line-height:1.5}
+.row.tk .tag.ve{max-width:100%;white-space:normal;text-align:left;line-height:1.25}
 .tag .ii{margin-right:5px}
 .tag.co,.chip.co{color:var(--c-col);border-color:rgba(255,140,26,.55);background:rgba(255,140,26,.10)}
 .tag.co .ii,.chip.co .ii{color:var(--c-col)}
@@ -785,6 +790,11 @@ footer a:hover{color:var(--accent)}
 const VRULES=typeof VR!=="undefined"?VR:{};const SORG=typeof SO!=="undefined"?SO:[];const CGEN=typeof CG!=="undefined"?CG:{};
 function norm(t){return t.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/w\/|with|pres\.?|presents|feat\.?|at prst|<>|<|>|[|×x&+\-–:.,!'"()\/]/g," ").replace(/\s+/g," ").trim()}
 const fold=t=>t.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"");
+const ITREE='<svg viewBox="0 0 16 16" aria-hidden="true"><path fill="currentColor" d="M8 1 3.2 7.2h2.3L2.6 11h4.6v4h1.6v-4h4.6l-2.9-3.8h2.3z"/></svg>';
+const IHOUSE='<svg viewBox="0 0 16 16" aria-hidden="true"><path fill="currentColor" d="M8 1.5 1 7.6l1 1.1.9-.8V14.5h3.6v-4h3v4h3.6V7.9l.9.8 1-1.1z"/></svg>';
+const IOKW_OUT=/open.?air|outdoor|drau(ss|ß)en|im freien|unter freiem himmel|im garten|gastgarten|auf der terrasse|dachterrasse|rooftop|am strand|beach ?(party|rave)/,IOKW_IN=/\bindoor\b|drinnen|in der halle/;
+function ioTags(keys,filt){const l=L();return (keys||[]).map(k=>{const o=k==="ioOut";return `<span class="flag io ${o?"io-out":"io-in"}${filt&&st.io.has(k)?" on":""}"${filt?` data-tf="io" data-n="${k}"`:""} title="${esc(l[k])}"><i class="ico">${o?ITREE:IHOUSE}</i>${esc(l[k])}</span>`}).join("")}
+const ioOf=a=>(a||[]).map(x=>/^out/i.test(x)?"ioOut":"ioIn").filter((x,i,A)=>A.indexOf(x)===i).sort();
 function toks(t){return new Set(norm(t).split(" ").filter(w=>w.length>2))}
 function sim(a,b){const A=toks(a),B=toks(b);if(!A.size||!B.size)return 0;let i=0;A.forEach(w=>{if(B.has(w))i++});return i/Math.min(A.size,B.size)}
 function vkey(v){return v.replace(/ (Wanne|Deck)$/,"")}
@@ -820,7 +830,7 @@ function dedupe(raw){
     e.fromColl={};const _ci=typeof CI!=="undefined"?CI:{};e.coll.forEach(c=>{const r=(_ci[c]||{}).rules||{};Object.keys(r).forEach(k=>{if(r[k]&&!e[k]){e[k]=1;e.fromColl[k]=c}})});
     {const ks=new Set(e.src.map(s=>s[0]));e.manual=ks.has("man")||(!!e.man&&!ks.size);e.org=!e.unconf&&(!!e.ook||[...ks].some(k=>SORG.includes(k)));e.loc=!e.unconf&&!!e.vok;
      e.srcCats=e.manual?["mn"]:e.unconf?["one"]:[...(e.loc?["loc"]:[]),...(e.org?["org"]:[]),ks.size>=2?"multi":"one"].filter((x,i,A)=>!(x==="one"&&(e.loc||e.org))||A.length===1);
-     e.conf=e.manual||(!e.unconf&&(e.loc||e.org||ks.size>=2));
+     e.conf=e.manual||(!e.unconf&&(e.loc||e.org||ks.size>=2));{const vio=ioOf(((typeof VI!=="undefined"?VI:{})[e.venue]||{}).io);e.ioAsk=0;if(e.io&&e.io.length)e.ioK=ioOf(e.io);else if(vio.length===1)e.ioK=vio;else if(vio.length===2){const t=fold([e.title,e.note&&e.note.de].filter(Boolean).join(" "));const o=IOKW_OUT.test(t),i=IOKW_IN.test(t);e.ioK=o&&!i?["ioOut"]:i&&!o?["ioIn"]:o&&i?["ioIn","ioOut"]:[];if(!e.ioK.length)e.ioAsk=1}else e.ioK=[]}
      e.sound=e.sound||(VRULES[e.venue]&&VRULES[e.venue].sound)||null}
     e.typGenres=[];
     e.artists=[...new Set(e.floors.flatMap(f=>f.a).map(nm).flatMap(splitA).filter(a=>a!=="TBA").map(canon))];
@@ -839,8 +849,8 @@ const T={
   lineup:"Lineup / Floors",timetable:"Timetable",time:"Zeit",entry:"Eintritt",date:"Datum",age:"Alter",
   tickets:"Tickets / Vorverkauf",flyer:"Flyer ansehen",source:"Gefunden auf",na:"k. A.",tba:"wird noch bekanntgegeben",maps:"In Google Maps öffnen",
   none:"Keine Events mit diesen Filtern.",alt:"anderswo",close:"Schließen",days:["So","Mo","Di","Mi","Do","Fr","Sa"],
-  emptyT:"Kein Event geladen",artist:"Artist",origin:"Herkunft",labels:"Labels",clubs:"Clubs",festivals:"Festivals",tracks:"Bekannte Tracks",listen:"Reinhören",inVienna:"Termine in Wien",backEv:"zurück zum Event",scProfile:"SoundCloud-Profil",scSearch:"Auf SoundCloud suchen",raSearch:"Auf RA suchen",noArtist:"Zu diesem Artist gibt es noch keine Infos. Der tägliche Task ergänzt sie nach und nach.",embedHint:"Die Player erscheinen direkt hier, sobald die Seite unter rave.wien läuft. In der claude.ai-Ansicht sind eingebettete Player nicht erlaubt.",not:"ohne",tri:"1× nur das · 2× ausblenden · 3× zurücksetzen",single:"nur 1 Quelle",rSingle:"Nicht gegengeprüft, bisher nur gefunden auf:",rCheck:"Bitte vor dem Hingehen beim Veranstalter prüfen.",fsrc:"Quellenlage",loc:"Website der Location",org:"Website des Veranstalters",multi:"mehrere Quellen",one:"nur 1 Quelle",mn:"manuell eingetragen",manS:"Manuell eingetragen",rLoc:"Steht auf der Website der Location",rOrg:"Steht auf der Website des Veranstalters",rBoth:"Steht auf der Website der Location und des Veranstalters",sound:"Soundsystem",report:"Fehler melden",repS:'<span class="fw">fehler </span>melden',reportSub:"Fehler auf rave.wien",reportBody:"Was stimmt nicht?",asOf:"Stand: 27. Oktober 2026",srcList:"Quellen",saveF:"Filter auf diesem Gerät speichern",savedF:"Gespeicherte Filter löschen",savedMsg:"Gespeichert. Beim nächsten Öffnen sind diese Filter aktiv.",clearedMsg:"Gespeicherte Filter gelöscht.",loadedMsg:"Gespeicherte Filter geladen.",saveFail:"Speichern ist in diesem Browser nicht möglich.",house:"Hausregel",typ:"typisch für den Veranstalter",share:"Teilen",copied:"Link kopiert",copyFail:"Link markiert, bitte kopieren",gone:"Dieses Event ist vorbei oder nicht mehr im Kalender.",prevM:"Voriger Monat",nextM:"Nächster Monat",tapDay:"Tippe auf einen Tag, um seine Events zu sehen.",std:"Ohne Tag",filter:"Filter",fage:"Eintrittsalter",fprice:"Eintrittspreis",ftime:"Tageszeit",day:"Daytime (Start 12–18 Uhr)",night:"Nighttime",unk:"keine Angabe",free:"Gratis / Spende",p10:"bis 10 €",p20:"11–20 €",p99:"über 20 €",clubRule:"Hausregel des Clubs sonst",emptyS:"Wähl ein Event in der Liste aus, die Details erscheinen hier.",nosugg:"Keine Vorschläge",
-  ty:{col:"veranstalter",src:"quellen",c:"veranstalter",a:"artist",v:"location",g:"genre",f:"vibe",e:"event",age:"alter",price:"preis",time:"zeit"},
+  emptyT:"Kein Event geladen",artist:"Artist",origin:"Herkunft",labels:"Labels",clubs:"Clubs",festivals:"Festivals",tracks:"Bekannte Tracks",listen:"Reinhören",inVienna:"Termine in Wien",backEv:"zurück zum Event",scProfile:"SoundCloud-Profil",scSearch:"Auf SoundCloud suchen",raSearch:"Auf RA suchen",noArtist:"Zu diesem Artist gibt es noch keine Infos. Der tägliche Task ergänzt sie nach und nach.",embedHint:"Die Player erscheinen direkt hier, sobald die Seite unter rave.wien läuft. In der claude.ai-Ansicht sind eingebettete Player nicht erlaubt.",not:"ohne",tri:"1× nur das · 2× ausblenden · 3× zurücksetzen",single:"nur 1 Quelle",rSingle:"Nicht gegengeprüft, bisher nur gefunden auf:",rCheck:"Bitte vor dem Hingehen beim Veranstalter prüfen.",fsrc:"Quellenlage",loc:"Website der Location",org:"Website des Veranstalters",multi:"mehrere Quellen",one:"nur 1 Quelle",mn:"manuell eingetragen",manS:"Manuell eingetragen",fio:"Setting",ioIn:"Indoor",ioOut:"Outdoor",rLoc:"Steht auf der Website der Location",rOrg:"Steht auf der Website des Veranstalters",rBoth:"Steht auf der Website der Location und des Veranstalters",sound:"Soundsystem",report:"Fehler melden",repS:'<span class="fw">fehler </span>melden',reportSub:"Fehler auf rave.wien",reportBody:"Was stimmt nicht?",asOf:"Stand: 27. Oktober 2026",srcList:"Quellen",saveF:"Filter auf diesem Gerät speichern",savedF:"Gespeicherte Filter löschen",savedMsg:"Gespeichert. Beim nächsten Öffnen sind diese Filter aktiv.",clearedMsg:"Gespeicherte Filter gelöscht.",loadedMsg:"Gespeicherte Filter geladen.",saveFail:"Speichern ist in diesem Browser nicht möglich.",house:"Hausregel",typ:"typisch für den Veranstalter",share:"Teilen",copied:"Link kopiert",copyFail:"Link markiert, bitte kopieren",gone:"Dieses Event ist vorbei oder nicht mehr im Kalender.",prevM:"Voriger Monat",nextM:"Nächster Monat",tapDay:"Tippe auf einen Tag, um seine Events zu sehen.",std:"Ohne Tag",filter:"Filter",fage:"Eintrittsalter",fprice:"Eintrittspreis",ftime:"Tageszeit",day:"Daytime (Start 12–18 Uhr)",night:"Nighttime",unk:"keine Angabe",free:"Gratis / Spende",p10:"bis 10 €",p20:"11–20 €",p99:"über 20 €",clubRule:"Hausregel des Clubs sonst",emptyS:"Wähl ein Event in der Liste aus, die Details erscheinen hier.",nosugg:"Keine Vorschläge",
+  ty:{col:"veranstalter",src:"quellen",c:"veranstalter",a:"artist",v:"location",g:"genre",f:"vibe",e:"event",age:"alter",price:"preis",time:"zeit",io:"setting"},
   fSx:"Sexpositiv",fLg:"LGBTQIA+",fAw:"Awareness",fNp:"Keine Fotos / Videos",fOd:"Open Decks",
   rSx:"Sexpositive Party",rLg:"Für LGBTQIA+ Publikum",rAw:"Awareness",rNp:"Keine Fotos und Videos",rZt:"Null Toleranz für Sexismus, Rassismus, Homo- und Transphobie",rOd:"Open Decks: selbst auflegen möglich",
   ai:"Diese Seite wurde mit KI (Claude von Anthropic) erstellt. Die Daten wurden automatisch aus öffentlichen Quellen gesammelt und zusammengeführt. Fehler sind möglich, bitte Angaben beim Veranstalter prüfen.",
@@ -851,8 +861,8 @@ const T={
   lineup:"Lineup / floors",timetable:"Timetable",time:"Time",entry:"Entry",date:"Date",age:"Age",
   tickets:"Tickets / presale",flyer:"View flyer",source:"Found on",na:"n/a",tba:"to be announced",maps:"Open in Google Maps",
   none:"No events match these filters.",alt:"elsewhere",close:"Close",days:["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],
-  emptyT:"No event loaded",artist:"Artist",origin:"From",labels:"Labels",clubs:"Clubs",festivals:"Festivals",tracks:"Known tracks",listen:"Listen",inVienna:"Dates in Vienna",backEv:"back to event",scProfile:"SoundCloud profile",scSearch:"Search on SoundCloud",raSearch:"Search on RA",noArtist:"No info on this artist yet. The daily task adds it over time.",embedHint:"Players appear right here once the page runs on rave.wien. Embedded players are not allowed in the claude.ai view.",not:"without",tri:"1× only this · 2× exclude · 3× reset",single:"single source",rSingle:"Not cross-checked, so far only found on:",rCheck:"Please check with the promoter before going.",fsrc:"Source check",loc:"Venue website",org:"Promoter website",multi:"several sources",one:"single source",mn:"added manually",manS:"Added manually",rLoc:"Listed on the venue website",rOrg:"Listed on the promoter website",rBoth:"Listed on the venue and promoter websites",sound:"Sound system",report:"Report an error",repS:'report<span class="fw"> error</span>',reportSub:"Error on rave.wien",reportBody:"What is wrong?",asOf:"As of 27 October 2026",srcList:"Sources",saveF:"Save filters on this device",savedF:"Delete saved filters",savedMsg:"Saved. These filters will be active next time.",clearedMsg:"Saved filters deleted.",loadedMsg:"Saved filters loaded.",saveFail:"Saving is not possible in this browser.",house:"house rule",typ:"typical for the promoter",share:"Share",copied:"Link copied",copyFail:"Link selected, please copy it",gone:"This event is over or no longer listed.",prevM:"Previous month",nextM:"Next month",tapDay:"Tap a day to see its events.",std:"No tag",filter:"Filters",fage:"Entry age",fprice:"Entry price",ftime:"Time of day",day:"Daytime (starts noon–6pm)",night:"Nighttime",unk:"not stated",free:"Free / donation",p10:"up to €10",p20:"€11–20",p99:"over €20",clubRule:"club rule otherwise",emptyS:"Pick an event from the list and its details appear here.",nosugg:"No suggestions",
-  ty:{col:"promoter",src:"sources",c:"promoter",a:"artist",v:"venue",g:"genre",f:"vibe",e:"event",age:"age",price:"price",time:"time"},
+  emptyT:"No event loaded",artist:"Artist",origin:"From",labels:"Labels",clubs:"Clubs",festivals:"Festivals",tracks:"Known tracks",listen:"Listen",inVienna:"Dates in Vienna",backEv:"back to event",scProfile:"SoundCloud profile",scSearch:"Search on SoundCloud",raSearch:"Search on RA",noArtist:"No info on this artist yet. The daily task adds it over time.",embedHint:"Players appear right here once the page runs on rave.wien. Embedded players are not allowed in the claude.ai view.",not:"without",tri:"1× only this · 2× exclude · 3× reset",single:"single source",rSingle:"Not cross-checked, so far only found on:",rCheck:"Please check with the promoter before going.",fsrc:"Source check",loc:"Venue website",org:"Promoter website",multi:"several sources",one:"single source",mn:"added manually",manS:"Added manually",fio:"Setting",ioIn:"Indoor",ioOut:"Outdoor",rLoc:"Listed on the venue website",rOrg:"Listed on the promoter website",rBoth:"Listed on the venue and promoter websites",sound:"Sound system",report:"Report an error",repS:'report<span class="fw"> error</span>',reportSub:"Error on rave.wien",reportBody:"What is wrong?",asOf:"As of 27 October 2026",srcList:"Sources",saveF:"Save filters on this device",savedF:"Delete saved filters",savedMsg:"Saved. These filters will be active next time.",clearedMsg:"Saved filters deleted.",loadedMsg:"Saved filters loaded.",saveFail:"Saving is not possible in this browser.",house:"house rule",typ:"typical for the promoter",share:"Share",copied:"Link copied",copyFail:"Link selected, please copy it",gone:"This event is over or no longer listed.",prevM:"Previous month",nextM:"Next month",tapDay:"Tap a day to see its events.",std:"No tag",filter:"Filters",fage:"Entry age",fprice:"Entry price",ftime:"Time of day",day:"Daytime (starts noon–6pm)",night:"Nighttime",unk:"not stated",free:"Free / donation",p10:"up to €10",p20:"€11–20",p99:"over €20",clubRule:"club rule otherwise",emptyS:"Pick an event from the list and its details appear here.",nosugg:"No suggestions",
+  ty:{col:"promoter",src:"sources",c:"promoter",a:"artist",v:"venue",g:"genre",f:"vibe",e:"event",age:"age",price:"price",time:"time",io:"setting"},
   fSx:"Sex-positive",fLg:"LGBTQIA+",fAw:"Awareness",fNp:"No photos / videos",fOd:"Open decks",
   rSx:"Sex-positive party",rLg:"For an LGBTQIA+ crowd",rAw:"Awareness",rNp:"No photos or videos",rZt:"Zero tolerance for sexism, racism, homophobia and transphobia",rOd:"Open decks: you can sign up to play",
   ai:"This page was made with AI (Claude by Anthropic). The data was collected and merged automatically from public sources. Mistakes are possible, please check details with the promoter.",
@@ -872,12 +882,12 @@ const IIG='<svg viewBox="0 0 16 16" aria-hidden="true"><path fill="none" stroke=
 const IWEB='<svg viewBox="0 0 16 16" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.4" d="M8 1.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13zM1.5 8h13M8 1.5c2 2 2 11 0 13M8 1.5c-2 2-2 11 0 13"/></svg>';
 const ISPK='<svg viewBox="0 0 12 12" aria-hidden="true"><path fill="currentColor" d="M1 4h2.2L6.4 1.2V10.8L3.2 8H1zM8 3.4a3.6 3.6 0 0 1 0 5.2l-.8-.8a2.5 2.5 0 0 0 0-3.6zm1.6-1.6a5.9 5.9 0 0 1 0 8.4l-.8-.8a4.8 4.8 0 0 0 0-6.8z"/></svg>';
 const FCOL={sx:"var(--sex)",lg:"var(--lg)",aw:"var(--aw)",np:"var(--fg)",od:"var(--od)"};
-const st={lang:"de",view:"list",q:"",g:new Set(),v:new Set(),c:new Set(),a:new Set(),f:new Set(),src:new Set(),age:new Set(),price:new Set(),time:new Set(),sel:null,showPast:false,hi:0,month:null,calDay:null,pin:null,artist:null,coll:null,ven:null,cards:[],sheetOpen:false,fav:false,pastN:40};
-st.x=Object.fromEntries(["g","v","c","a","f","src","age","price","time"].map(k=>[k,new Set()]));
+const st={lang:"de",view:"list",q:"",g:new Set(),v:new Set(),c:new Set(),a:new Set(),f:new Set(),src:new Set(),age:new Set(),price:new Set(),time:new Set(),io:new Set(),sel:null,showPast:false,hi:0,month:null,calDay:null,pin:null,artist:null,coll:null,ven:null,cards:[],sheetOpen:false,fav:false,pastN:40};
+st.x=Object.fromEntries(["g","v","c","a","f","src","age","price","time","io"].map(k=>[k,new Set()]));
 const ageK=e=>e.age||"unk";
 function priceK(e){if(!e.price)return "unk";if(/spende|gratis|free/i.test(e.price))return "free";const m=e.price.match(/\d+/);if(!m)return "unk";const n=+m[0];return n<=10?"p10":n<=20?"p20":"p99"}
 function timeK(e){if(!e.s)return "unk";const h=+e.s.slice(0,2);return h>=4&&h<12?"after":h>=12&&h<18?"day":"night"}
-const EXTRA=[["src",e=>e.srcCats,["loc","org","multi","one","mn"]],["age",ageK,["18+","21+","unk"]],["price",priceK,["free","p10","p20","p99","unk"]],["time",timeK,["night","day","after","unk"]]];
+const EXTRA=[["src",e=>e.srcCats,["loc","org","multi","one","mn"]],["age",ageK,["18+","21+","unk"]],["price",priceK,["free","p10","p20","p99","unk"]],["time",timeK,["night","day","after","unk"]],["io",e=>e.ioK.length?e.ioK:["unk"],["ioIn","ioOut","unk"]]];
 const xLabel=(k,v)=>k==="age"&&v!=="unk"?v:L()[v];
 try{const p=JSON.parse(localStorage.getItem("rw2")||"{}");if(p.lang)st.lang=p.lang;if(["list","cal","art","loc","col"].includes(p.view))st.view=p.view;if(p.view==="fav"||p.fav)st.fav=true}catch(_){}
 const ZL=[.9,1,1.1,1.2,1.35];let ZI=1;try{const z=+localStorage.getItem("rw-z");if(ZL.includes(z))ZI=ZL.indexOf(z)}catch(_){}
@@ -911,7 +921,7 @@ const PASTR=(()=>{const seen=new Set(ALL.map(e=>e.id));
     return {id:k,past:1,d:r[0],v:r[1],t:r[2],c:r[3]||[],a:[...new Set((r[4]||[]).flatMap(splitA).map(canon))],x:r[5]||{}}});
   return [...ended,...arch].sort((a,b)=>b.d.localeCompare(a.d))})();
 const PBYID=Object.fromEntries(PASTR.map(p=>[p.id,p]));
-const PASTFILT=["g","f","src","age","price","time"];
+const PASTFILT=["g","f","src","age","price","time","io"];
 function pastMatches(p){
   if(PASTFILT.some(k=>st[k].size))return false;
   if(st.fav&&!pastFavReason(p).length)return false;
@@ -961,7 +971,7 @@ function renderSide(){
   const prof=`<details class="tree" data-k="f" ${open.f!==false?"open":""}><summary><span>${l.profile}</span><em>${FLAGS.length}</em></summary><div class="opts">${
     FLAGS.map(([k,c,lab,,ic])=>`<button class="opt ${fcls("f",k)}" data-flag="${k}" ${fattr("f",k)}><span class="ico ${c}" style="flex:none">${ic}</span><span>${l[lab]}</span><em>${base.filter(e=>e[k]&&[...st.f].every(x=>e[x])&&![...st.x.f].some(x=>e[x])).length}</em></button>`).join("")}</div></details>`;
   const groups=[["g",l.genres,e=>e.genres],["v",l.venues,e=>[e.venue]],["c",l.colls,e=>e.coll],["a",l.artists,e=>e.artists]];
-  const extra=EXTRA.map(([k,fn,vals])=>{const b=EV.filter(e=>matches(e,k));const lab={src:l.fsrc,age:l.fage,price:l.fprice,time:l.ftime}[k];
+  const extra=EXTRA.map(([k,fn,vals])=>{const b=EV.filter(e=>matches(e,k));const lab={src:l.fsrc,age:l.fage,price:l.fprice,time:l.ftime,io:l.fio}[k];
     return `<details class="tree" data-k="${k}" ${open[k]?"open":""}><summary><span>${lab}</span><em>${vals.length}</em></summary><div class="opts">${
       vals.map(v=>`<button class="opt ${fcls(k,v)}" data-k="${k}" data-n="${v}" ${fattr(k,v)}><span>${xLabel(k,v)}</span><em>${b.filter(e=>[].concat(fn(e)).includes(v)).length}</em></button>`).join("")}</div></details>`}).join("");
   $("trees").innerHTML=prof+extra+groups.map(([k,label,get])=>{
@@ -1005,7 +1015,7 @@ function rowHTML(e){
     <span class="tags vtags"><span class="tag ve${st.v.has(e.venue)?" on":""}" data-tf="v" data-n="${esc(e.venue)}">${IPIN}${esc(e.venue)}</span>${e.coll.map(c=>`<span class="tag co${st.c.has(c)?" on":""}" data-tf="c" data-n="${esc(c)}">${ICOL}${esc(c)}</span>`).join("")}</span>
     ${why.length?`<small class="why">★ ${esc(why.join(" · "))}</small>`:""}</span>
     ${e.artists.length?`<small class="arts">${e.artists.slice(0,6).map(a=>e.headSet.has(a)?`<b class="hl">${esc(a)}</b>`:esc(a)).join(", ")}${e.artists.length>6?" …":""}</small>`:""}
-    <span class="gf">${gcl(e.genres)}${flagHTML(e,1)}</span></span>${stubHTML(e.s,e.e,e.age,e.price,tk)}</button>`;
+    <span class="gf">${gclIo(e.genres,e.ioK)}${flagHTML(e,1)}</span></span>${stubHTML(e.s,e.e,e.age,e.price,tk)}</button>`;
 }
 /* flyer covers: hot-linked from the source (not downloaded); vinyl placeholder underneath */
 const isImg=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif)(\?[^"'<>\s]*)?$/i.test(u||"");
@@ -1330,6 +1340,7 @@ const ISP='<svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="
 const LICON={sp:ISP,sc:ISC,mc:'<b class="txt">MC</b>',bc:IBC,ig:IIG,ra:'<b class="txt">RA</b>',web:IWEB,tix:'<b class="txt">€</b>'};
 const LNAME={sp:"Spotify",sc:"SoundCloud",mc:"Mixcloud",bc:"Bandcamp",ig:"Instagram",ra:"Resident Advisor",web:"Website",tix:"Tickets"};
 function barHTML(links,report,primary,shu){return `${shu?`<div class="sharebox" hidden><input class="shareurl" readonly value="${esc(shu)}" aria-label="Link"><span class="sharemsg"></span></div>`:""}<div class="cbar">${shu?`<button class="ibtn" data-share="" data-su="${esc(shu)}" title="${L().share}" aria-label="${L().share}">${ISHARE}</button>`:""}${links.map(([k,u])=>`<a class="ibtn" href="${esc(su(u))}" target="_blank" rel="noopener" title="${LNAME[k]}" aria-label="${LNAME[k]}">${LICON[k]}</a>`).join("")}<a class="ibtn" href="${report}" title="${L().report}" aria-label="${L().report}">${IFLAG}</a><span style="flex:1"></span>${primary?`<a class="tixbtn" href="${esc(su(primary[1]))}" target="_blank" rel="noopener">${esc(primary[0])} ↗</a>`:""}</div>`}
+function gclIo(g,io){const a=gcl(g),t=ioTags(io,1);if(!t)return a;if(!a)return `<span class="tags">${t}</span>`;return a.replace(/<\/span><\/span>$/,"</span>"+t+"</span>")}
 function gclHTML(g){return g.length?`<span class="tags"><span class="gcl"><b>♫</b>${g.map(x=>`<button data-f="g" data-n="${esc(x)}">${esc(x)}</button>`).join("")}</span></span>`:""}
 function ruleTags(obj,why){const l=L();return FLAGS.filter(f=>obj[f[0]]).map(([k,c,lab,,ic])=>`<button class="flag ${c}" data-ff="${k}" title="${esc(l.filter+(why?" · "+why:""))}"><i class="ico ${c}">${ic}</i>${esc(l[lab])}</button>`).join("")}
 
@@ -1437,7 +1448,7 @@ function renderVen(vd,n){
   <div class="ehead"><div class="emain">
     <div class="head wt">${logoTile(n,"big")}<h2>${esc(n)}${vi.closed?`<span class="badge">${l.closedV}</span>`:""}</h2></div>
     ${addr?`<a class="addr" href="${route}" target="_blank" rel="noopener">${esc(addr)} ↗</a>`:""}
-    ${FLAGS.some(f=>vr[f[0]])?`<div class="flags">${ruleTags(vr,l.house)}</div>`:""}
+    ${FLAGS.some(f=>vr[f[0]])||(vi.io||[]).length?`<div class="flags">${ioTags(ioOf(vi.io))}${ruleTags(vr,l.house)}</div>`:""}
     ${gclHTML(tg)}
   </div>${statsHTML([[l.since,vi.opened||"–",1],[l.age,vr.age||"–"],[l.upShortU,String(up.length)],[l.archive,String(past.length)]])}</div>
   ${vi[st.lang]?`<div class="note">${esc(vi[st.lang])}</div>`:""}
@@ -1458,7 +1469,7 @@ function renderLocs(){
   $("t-list").textContent=`${rows.length} ${l.locsN}`;
   $("out").innerHTML=`<div class="xlist x-ven">${xheadHTML("ven")}${withLetters(rows,rows.map(r=>{const vi=VINFO[r.n]||{};const vr=VRULES[r.n]||{};const g={};r.all.forEach(e=>e.genres.forEach(x=>g[x]=(g[x]||0)+1));const tg=Object.entries(g).sort((a,b)=>b[1]-a[1]).slice(0,4).map(x=>x[0]);
     const snd=vr.sound?(vr.sound[st.lang]||vr.sound.de||""):"";
-    const rules=(vr.age?`<span class="flag age">${esc(vr.age)}</span>`:"")+ruleFlags(vr)+(snd?`<span class="snd">♫ ${esc(snd.length>48?snd.slice(0,46)+"…":snd)}</span>`:"");
+    const rules=ioTags(ioOf(vi.io))+(vr.age?`<span class="flag age">${esc(vr.age)}</span>`:"")+ruleFlags(vr)+(snd?`<span class="snd">♫ ${esc(snd.length>48?snd.slice(0,46)+"…":snd)}</span>`:"");
     return xrowHTML({k:"ven",tile:logoTile(r.n),attr:`data-vopen="${esc(r.n)}"`,cur:st.ven===r.n,name:r.n,closed:vi.closed,sub:V[r.n]&&V[r.n]!=="TBA"?V[r.n]:"",tags:"",c2:"",
       gen:tg,flags:rules,nx:r.up[0],nxSub:r.up[0]?`<span class="nxt">${esc(r.up[0].title)}</span>`:"",n1:r.up.length,n2:venueStats(r.n).past.length,n1l:l.cUp,ex:""})}))}</div>`;
 }
@@ -1530,7 +1541,7 @@ function renderEv(dk,id){
       <div class="tags"><button class="tag ve" data-venue="${esc(e.venue)}">${IPIN}${esc(e.venue)}</button>${e.coll.map(c=>`<button class="tag co" data-coll="${esc(c)}">${ICOL}${esc(c)}</button>`).join("")}</div>
       ${addr?`<a class="addr" href="${maps(e)}" target="_blank" rel="noopener" title="${l.maps}">${esc(addr)} ↗</a>`:""}
       ${e.genres.length?`<span class="tags"><span class="gcl"><b>♫</b>${e.genres.map(g=>`<button data-f="g" data-n="${esc(g)}"${e.typGenres.includes(g)?` class="typ" title="${esc(l.typ)}"`:""}>${esc(g)}${e.typGenres.includes(g)?"*":""}</button>`).join("")}</span></span>`:""}
-      ${vibe.length?`<div class="flags">${vibe.join("")}</div>`:""}
+      ${vibe.length||e.ioK.length?`<div class="flags">${ioTags(e.ioK)}${vibe.join("")}</div>`:""}
       ${!e.conf?`<div class="flags"><span class="flag uc"><i class="ico uc">?</i>${esc(l.single)}</span></div>`:""}
     </div><span class="stub"><span class="dt">${fmtDay(e.d)}</span><span class="t">${e.s||"--:--"}<small>-${e.e||"?"}</small></span>${e.age?`<span class="flag age"${e.clubAge&&e.age!==e.clubAge?` title="${esc(l.clubRule+" "+e.clubAge)}"`:""}>${esc(e.age)}</span>`:`<span class="flag age" style="color:var(--mute)">${l.na}</span>`}<span class="price">${pm.length?esc(pm[0]):l.na}${pm.length>1?`<small>${esc(pm.slice(1).join(" · "))}</small>`:""}${e.altPrice?`<small>${l.alt}: ${esc(e.altPrice)}</small>`:""}</span></span></div>
     ${e.note?`<div class="note">${esc(e.note[st.lang])}</div>`:""}
@@ -1710,7 +1721,7 @@ document.addEventListener("click",ev=>{
   const vm={"v-list":"list","v-cal":"cal","v-art":"art","v-col":"col","v-loc":"loc"};
   if(vm[t.id]){setView(vm[t.id]);return}
   const map={"l-de":()=>st.lang="de","l-en":()=>st.lang="en",
-    reset:()=>{st.q="";$("q").value="";["g","v","c","a","f","src","age","price","time"].forEach(k=>{st[k].clear();st.x[k].clear()})}};
+    reset:()=>{st.q="";$("q").value="";["g","v","c","a","f","src","age","price","time","io"].forEach(k=>{st[k].clear();st.x[k].clear()})}};
   if(map[t.id]){map[t.id]();save();render()}
 });
 $("q").addEventListener("input",e=>{st.q=e.target.value;st.hi=0;qState();renderSugg();renderSide();renderList()});
@@ -1737,7 +1748,7 @@ async function initAdmin(){if(ADMIN)return;ADMIN=true;const db=await getDB();if(
     box.innerHTML=`<b class="lbl">${l.sugAdm}</b>`+(open.length?open.map(s=>{const a=APPR[s.id];const stt=a?a.status:s.status;return `<div><a href="${esc(su(s.url))}" target="_blank" rel="noopener">${esc(s.title||s.url)}</a><small style="color:var(--mute)">${esc(l.sugSt[stt]||stt)}${s.reason?" · "+esc(s.reason):""}</small>${a?"":`<button class="report" data-appr="${esc(s.id)}" data-st="approved">${l.approve}</button><button class="report" data-appr="${esc(s.id)}" data-st="rejected">${l.reject}</button>`}</div>`}).join(""):`<small style="color:var(--mute)">${l.sugNone}</small>`)};
   try{db.collection("suggestions").onSnapshot(q=>{SUGS=q.docs.map(d=>Object.assign({id:d.id},d.data()));draw()},()=>{});db.collection("approvals").onSnapshot(q=>{APPR={};q.docs.forEach(d=>APPR[d.id]=d.data());draw()},()=>{})}catch(_){}}
 async function approve(id,status){const db=await getDB();if(!db)return;try{await db.collection("approvals").doc(id).set({status,ts:Date.now()})}catch(_){}}
-const FKEY="rw-filters",FK=["g","v","c","a","f","src","age","price","time"];
+const FKEY="rw-filters",FK=["g","v","c","a","f","src","age","price","time","io"];
 function hasSaved(){try{return !!localStorage.getItem(FKEY)}catch(_){return false}}
 function loadSaved(){try{const o=JSON.parse(localStorage.getItem(FKEY)||"null");if(!o)return;FK.forEach(k=>{if(Array.isArray(o[k]))st[k]=new Set(o[k]);if(o.x&&Array.isArray(o.x[k]))st.x[k]=new Set(o.x[k])});}catch(_){}}
 applyZ();placeSearch();loadSaved();fromHash();render();setTop();
@@ -1817,6 +1828,7 @@ function schema(kind){
     ["price","Preis","text"],["age","Mindestalter","select",null,{opts:["","16+","18+","21+"]}],
     ["tickets","Ticket-Link","url"],["flyer","Flyer (Bild-Adresse)","url"],
     ["note.de","Beschreibung (DE)","textarea","full"],["note.en","Beschreibung (EN)","textarea","full"],
+    ["io","Indoor / Outdoor (leer = automatisch über die Location)","checks","full",{opts:["Indoor","Outdoor"]}],
     ["_flags","Vibe & Safety","flags","full",{flags:EVFLAGS}]];
   if(kind==="art")return [
     ["from.de","Herkunft (DE)","text"],["from.en","Herkunft (EN)","text"],["real","Bürgerlicher Name","text"],["img","Profilbild (Bild-Adresse)","url"],
@@ -1837,6 +1849,7 @@ function schema(kind){
   return [
     ["address","Adresse (Straße Nr, PLZ)","text","full"],["web","Website","url"],["opened","Eröffnet (Jahr)","text"],
     ["de","Beschreibung (DE)","textarea","full"],["en","Beschreibung (EN)","textarea","full"],
+    ["io","Indoor / Outdoor","checks","full",{opts:["Indoor","Outdoor"]}],
     ["floors","Floors","chips","full"],["logo","Logo (Bild-Adresse)","url"],
     ["logoBg","Logo-Hintergrund","select",null,{opts:["","#ffffff"],labels:["dunkel (Standard)","weiß"]}],
     ["rules.age","Hausregel Alter","select",null,{opts:["","16+","18+","21+"]}],["closed","Geschlossen","bool"],
@@ -1844,7 +1857,7 @@ function schema(kind){
 }
 function current(kind,key){
   if(kind==="ev"){const e=EV.find(x=>x.id===key)||{};const o={title:e.title||"",d:e.d||"",venue:e.venue||"",s:e.s||"",e:e.e||"",coll:e.coll||[],genres:e.genres||[],
-      floors:e.floors||[],head:e.head||[],price:e.price||"",age:e.age&&e.age!==e.clubAge?e.age:"",tickets:e.tickets||"",flyer:e.flyer||"",note:e.note||{}};
+      floors:e.floors||[],head:e.head||[],price:e.price||"",age:e.age&&e.age!==e.clubAge?e.age:"",tickets:e.tickets||"",flyer:e.flyer||"",note:e.note||{},io:e.io||[]};
     EVFLAGS.forEach(([f])=>o[f]=!!e[f]&&!(e.fromVenue||[]).includes(f)&&!(e.fromColl||{})[f]);return o}
   if(kind==="art"){const a=ARK[akey(key)]||{};return JSON.parse(JSON.stringify(a))}
   if(kind==="col"){const c=JSON.parse(JSON.stringify(CINFO[key]||{}));c.genres=CGEN[key]||[];return c}
