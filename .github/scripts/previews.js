@@ -11,6 +11,9 @@ vm.runInNewContext(
   ctx
 );
 const { RAW, V, AR, CI, VI } = ctx;
+const pctx = {};
+try { vm.runInNewContext(fs.readFileSync(path.join(root, "past.js"), "utf8") + "\n;this.PAST=PAST;", pctx); } catch (_) { pctx.PAST = []; }
+const PAST = pctx.PAST || [];
 
 const slug = t => String(t).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/ß/g, "ss").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 const esc = s => String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -61,7 +64,6 @@ RAW.slice().sort((a, b) => (a.d + (a.s || "99")).localeCompare(b.d + (b.s || "99
   let id = (e.d + "-" + slug(e.title)).slice(0, 60).replace(/-$/, ""), k = id, i = 2;
   while (seen.has(k)) k = id + "-" + i++;
   seen.add(k);
-  if (e.d < today) return;
   const arts = [...new Set((e.floors || []).flatMap(f => f.a).map(nm).flatMap(splitA).filter(a => a !== "TBA"))];
   const head = (e.head || []).filter(Boolean);
   const order = [...head, ...arts.filter(a => !head.includes(a))];
@@ -70,6 +72,18 @@ RAW.slice().sort((a, b) => (a.d + (a.s || "99")).localeCompare(b.d + (b.s || "99
   const note = e.note && (e.note.de || e.note.en) ? clip((e.note.de || e.note.en).replace(/\s+/g, " "), 160) : "";
   const desc = [bits, lu, !lu ? note : ""].filter(Boolean).join(" — ");
   add("e", k, { url: `${SITE}/e/${k}`, target: `/#${k}`, title: e.title, desc, img: isImg(e.flyer) ? e.flyer : "" });
+});
+
+// Archiv (vergangene Events) – gleiche ID-Bildung wie in index.html
+const todayStr = new Date().toISOString().slice(0, 10);
+PAST.filter(r => r[0] < todayStr).forEach(r => {
+  let id = (r[0] + "-" + slug(r[2])).slice(0, 60).replace(/-$/, ""), k = id, i = 2;
+  while (seen.has(k)) k = id + "-" + i++;
+  seen.add(k);
+  const arts = [...new Set((r[4] || []).flatMap(splitA))];
+  const x = r[5] || {};
+  const desc = [fmtDay(r[0]) + (x.s ? " · " + x.s : "") + " · " + r[1], arts.length ? clip(arts.join(", "), 140) : ""].filter(Boolean).join(" — ");
+  add("e", k, { url: `${SITE}/e/${k}`, target: `/#${k}`, title: r[2], desc, img: "" });
 });
 
 // Artists

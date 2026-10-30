@@ -881,7 +881,11 @@ UNI.a=[...new Set([...Object.values(ARK).map(x=>canon(x.name)),...Object.values(
 const VINFO=typeof VI!=="undefined"?VI:{};
 const ckey=n=>fold(n).replace(/[^a-z0-9]/g,"");
 const sameColl=(a,b)=>ckey(a)===ckey(b);
-const PASTR=(typeof PAST!=="undefined"?PAST:[]).map((r,i)=>({id:"p"+i,past:1,d:r[0],v:r[1],t:r[2],c:r[3]||[],a:[...new Set((r[4]||[]).flatMap(splitA).map(canon))],x:r[5]||{}})).filter(p=>p.d<TODAY);
+const PASTR=(()=>{const seen=new Set(ALL.map(e=>e.id));
+  const ended=ALL.filter(e=>endTime(e)<=NOW).map(e=>({id:e.id,past:1,ev:1,d:e.d,v:e.venue,t:e.title,c:e.coll,a:e.artists,x:{s:e.s,e:e.e,price:e.price,note:e.note}}));
+  const arch=(typeof PAST!=="undefined"?PAST:[]).filter(r=>r[0]<TODAY).map(r=>{let id=(r[0]+"-"+slug(r[2])).slice(0,60).replace(/-$/,""),k=id,i=2;while(seen.has(k))k=id+"-"+i++;seen.add(k);
+    return {id:k,past:1,d:r[0],v:r[1],t:r[2],c:r[3]||[],a:[...new Set((r[4]||[]).flatMap(splitA).map(canon))],x:r[5]||{}}});
+  return [...ended,...arch].sort((a,b)=>b.d.localeCompare(a.d))})();
 const PBYID=Object.fromEntries(PASTR.map(p=>[p.id,p]));
 const PASTFILT=["g","f","src","age","price","time"];
 function pastMatches(p){
@@ -1373,7 +1377,7 @@ function renderPastEv(dk,p){
     ${p.x.note?`<div class="note">${esc(p.x.note[st.lang]||p.x.note.de)}</div>`:""}
     ${p.a.length?`<div><h3>${l.lineup}</h3><div class="pad"><span class="key" style="background:var(--line)">A</span><div><div class="artists">${p.a.map(a=>`<button data-aopen="${esc(a)}">${esc(a)}</button>`).join("")}</div>${p.x.sound?`<div class="snd"><span class="sndk">SOUND</span>${esc(p.x.sound)}</div>`:""}</div></div></div>`:""}
     <div class="src">${p.x.lu?l.pastNoteLu:l.pastNote}<br>${vibe.length?"* "+esc(l.collRule)+"<br>":""}${l.source}: ${p.x.src?`<a href="${esc(su(p.x.src))}" target="_blank" rel="noopener">${esc(p.x.src.split("/")[2].replace(/^www\./,""))}</a>`:`<a href="${esc(su(vsrc||"https://ohschonhell.at/"))}" target="_blank" rel="noopener">ohschonhell.at</a>`}</div>
-    <div class="cbar"><a class="ibtn" href="${reportURL(p.t+" ("+p.d+")","")}" title="${l.report}" aria-label="${l.report}">${IFLAG}</a></div>`;
+    <div class="sharebox" hidden><input class="shareurl" readonly value="https://rave.wien/e/${esc(p.id)}" aria-label="Link"><span class="sharemsg"></span></div><div class="cbar"><button class="ibtn" data-share="" data-su="https://rave.wien/e/${esc(p.id)}" title="${l.share}" aria-label="${l.share}">${ISHARE}</button><a class="ibtn" href="${reportURL(p.t+" ("+p.d+")","")}" title="${l.report}" aria-label="${l.report}">${IFLAG}</a></div>`;
 }
 function sameV(n,x){return x===n||(VINFO[n]&&VINFO[n].group&&vgroup(x)===VINFO[n].group)}
 function venueStats(n){const up=EV.filter(e=>sameV(n,e.venue));const past=PASTR.filter(p=>p.v===n||p.v===vgroup(n));return {up,past}}
@@ -1448,7 +1452,7 @@ function xrowHTML(o){const l=L();
 function reportURL(what,link){const l=L();return "mailto:feedback@rave.wien?subject="+encodeURIComponent(l.reportSub+(what?": "+what:""))+"&body="+encodeURIComponent((link?link+"\n\n":"")+l.reportBody+"\n")}
 const PINSVG='<svg class="pin" viewBox="0 0 11 14" aria-hidden="true"><path fill="currentColor" d="M5.5 0A5.5 5.5 0 0 0 0 5.5C0 9.6 5.5 14 5.5 14S11 9.6 11 5.5A5.5 5.5 0 0 0 5.5 0zm0 7.6a2.1 2.1 0 1 1 0-4.2 2.1 2.1 0 0 1 0 4.2z"/></svg>';
 const CEL={};const ck=c=>c.k+"\u0001"+c.n;
-const RENDER={ev:(el,id)=>PBYID[id]?renderPastEv(el,PBYID[id]):renderEv(el,id),art:renderArtist,col:renderColl,ven:renderVen};
+const RENDER={ev:(el,id)=>PBYID[id]&&!PBYID[id].ev?renderPastEv(el,PBYID[id]):renderEv(el,id),art:renderArtist,col:renderColl,ven:renderVen};
 function renderDeck(){
   const rc=$("rcol");const keep=new Set();const l=L();
   st.cards.forEach(c=>{const key=ck(c);keep.add(key);let el=CEL[key];if(!el){el=document.createElement("section");el.setAttribute("aria-live","polite");rc.appendChild(el);CEL[key]=el;el.dataset.fresh=1}
@@ -1457,11 +1461,11 @@ function renderDeck(){
   const em=$("deck0");em.hidden=st.cards.length>0&&!st.gone;
   em.className="deck empty"+(st.gone?" gone":"");em.innerHTML=`<div class="deck-empty"><span class="disc">--:--</span><div><b>${l.emptyT}</b>${st.gone?l.gone:l.emptyS}</div></div>`;
   if(st.gone&&st.cards.length)em.hidden=true;
-  setHash(st.sel&&!PBYID[st.sel]?st.sel:null);
+  setHash(st.sel||null);
   layoutStack();
 }
 function renderEv(dk,id){
-  const e=EV.find(x=>x.id===id);const l=L();
+  const e=ALL.find(x=>x.id===id);const l=L();
   if(!e){dk.innerHTML=`<div class="dhead"><button class="close" data-close aria-label="${l.close}">×</button><div class="deck-empty"><div>${l.gone}</div></div></div>`;return}
   const hasTimes=e.floors.some(f=>f.a.some(a=>a.includes("|")));
   const sfl=e.sound&&e.sound.floors?e.sound.floors:null;
@@ -1480,7 +1484,7 @@ function renderEv(dk,id){
   const addr=V[e.venue]&&V[e.venue]!=="TBA"?V[e.venue]:"";
   const pm=e.price?String(e.price).split(/\s+[·|\/]\s+|,\s+/):[];
   const fimg=isImg(e.flyer)&&coversOn();
-  dk.innerHTML=`<div class="ctop"><span class="akind">${l.evKind}</span><span class="cbtns">${favBtn("e",e.id)}<button class="close" data-close aria-label="${l.close}">×</button></span></div>
+  dk.innerHTML=`<div class="ctop"><span class="akind"${endTime(e)<=NOW?' style="color:var(--mute)"':""}>${endTime(e)<=NOW?l.pastKind:l.evKind}</span><span class="cbtns">${favBtn("e",e.id)}<button class="close" data-close aria-label="${l.close}">×</button></span></div>
     <div class="ehead"><div class="emain">
       <div class="head${fimg?" wt":""}">${fimg?`<button type="button" class="lgt fly" data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}" aria-label="${esc(l.flyer)}"><img src="${esc(e.flyer)}" alt="" loading="lazy" referrerpolicy="no-referrer"></button>`:""}<h2>${esc(e.title)}</h2>${vchk(e)}</div>
       <div class="tags"><button class="tag ve" data-venue="${esc(e.venue)}">${IPIN}${esc(e.venue)}</button>${e.coll.map(c=>`<button class="tag co" data-coll="${esc(c)}">${ICOL}${esc(c)}</button>`).join("")}</div>
@@ -1501,9 +1505,9 @@ function fromSlug(k,sl){const pool=k==="a"?ALLART():k==="c"?[...UNI.c,...EV.flat
 function setHash(id){try{if(id){if(location.hash!=="#"+id)history.replaceState(history.state,"","#"+id)}else if(location.hash)history.replaceState(history.state,"",location.pathname+location.search)}catch(_){}}
 function fromHash(){const id=decodeURIComponent((location.hash||"").slice(1));if(!id)return;
   const m=/^([acv])\/(.+)$/.exec(id);if(m){const n=fromSlug(m[1],m[2]);if(n){const k={a:"art",c:"col",v:"ven"}[m[1]];addCard(k,n);gcCard(k,n)}return}
-  const e=EV.find(x=>x.id===id)||EV.find(x=>id.startsWith(x.d)&&(x.id.startsWith(id)||id.startsWith(x.id)));if(e){addCard("ev",e.id);gcCard("ev",e.id);if(st.view==="cal")st.month=e.d.slice(0,7)}else if(ALL.some(x=>x.id===id)){st.gone=true}}
-function gcCard(k,n){const p={ev:"e",art:"a",col:"c",ven:"v"}[k];if(!p)return;const e=k==="ev"?EV.find(x=>x.id===n):null;gc("/"+p+"/"+(e?e.id:slug(n)),e?e.title:n)}
-async function share(btn){gc("share"+(btn.dataset.su?new URL(btn.dataset.su).pathname:"/e/"+btn.dataset.share),"Geteilt",true);const id=btn.dataset.share;const e=EV.find(x=>x.id===id);const u=btn.dataset.su||(e&&shareURL(e));if(!u)return;const card=btn.closest(".deck");const box=card.querySelector(".sharebox"),msg=card.querySelector(".sharemsg");box.hidden=false;
+  const e=EV.find(x=>x.id===id)||EV.find(x=>id.startsWith(x.d)&&(x.id.startsWith(id)||id.startsWith(x.id)));if(e){addCard("ev",e.id);gcCard("ev",e.id);if(st.view==="cal")st.month=e.d.slice(0,7)}else if(PBYID[id]){addCard("ev",id);gcCard("ev",id)}else if(ALL.some(x=>x.id===id)){st.gone=true}}
+function gcCard(k,n){const p={ev:"e",art:"a",col:"c",ven:"v"}[k];if(!p)return;const e=k==="ev"?(ALL.find(x=>x.id===n)||PBYID[n]):null;gc("/"+p+"/"+(e?e.id:slug(n)),e?(e.title||e.t):n)}
+async function share(btn){gc("share"+(btn.dataset.su?new URL(btn.dataset.su).pathname:"/e/"+btn.dataset.share),"Geteilt",true);const id=btn.dataset.share;const e=ALL.find(x=>x.id===id);const u=btn.dataset.su||(e&&shareURL(e));if(!u)return;const card=btn.closest(".deck");const box=card.querySelector(".sharebox"),msg=card.querySelector(".sharemsg");box.hidden=false;
   try{await navigator.clipboard.writeText(u);msg.textContent=L().copied}catch(_){const i=card.querySelector(".shareurl");i.focus();i.select();msg.textContent=L().copyFail}}
 /* calendar export */
 const icsT=d=>`${d.getFullYear()}${String(d.getMonth()+1).padStart(2,"0")}${String(d.getDate()).padStart(2,"0")}T${String(d.getHours()).padStart(2,"0")}${String(d.getMinutes()).padStart(2,"0")}00`;
