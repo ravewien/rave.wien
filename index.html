@@ -127,6 +127,7 @@ a{color:inherit}
 .flag.io{gap:4px}.flag.io .ico{display:inline-grid;place-items:center;width:11px;min-width:0;height:11px;margin:0;padding:0;background:none;color:inherit}.flag.io svg{width:11px;height:11px}
 .flag.io-out{color:#3e9d5c;background:rgba(36,110,60,.16);border:1px solid rgba(46,125,72,.55)}
 .flag.io-in{color:#5b9cf0;background:rgba(40,110,220,.12);border:1px solid rgba(70,130,230,.45)}
+@media (max-width:639px){.row.tk .flags{flex-wrap:nowrap;gap:4px}.row.tk .flags .flag:not(.age){font-size:0;padding:2px;gap:0}.row.tk .flags .flag .ico{margin:0}.row.tk .flags .flag.io{padding:2px 4px}}
 .flag.io-out.on{background:#2e7d48;color:#04140a}.flag.io-in.on{background:#4a8ef0;color:#04101f}
 .flag.od{color:var(--od);background:var(--od-bg);border:1px solid var(--od-line)}
 .flag.uc{color:var(--mute);background:transparent;border:1px dashed var(--mute)}
@@ -953,8 +954,9 @@ function matches(e,skip){
 }
 function flagHTML(e,noAge){const l=L();
   const f=FLAGS.filter(x=>e[x[0]]).map(([k,c,lab,,ic])=>`<span class="flag ${c}${st.f.has(k)?" on":""}" data-tf="f" data-n="${k}" title="${esc(l[lab])}"><i class="ico ${c}">${ic}</i>${esc(l[lab])}</span>`);
+  if(e.ioK&&e.ioK.length)f.unshift(ioTags(e.ioK,1));
   if(e.age&&!noAge)f.push(`<span class="flag age">${esc(e.age)}</span>`);
-  if(!e.conf)f.push(`<span class="flag uc${st.src.has("one")?" on":""}" data-tf="src" data-n="one"><i class="ico uc">?</i>${esc(l.single)}</span>`);
+  if(!e.conf)f.push(`<span class="flag uc${st.src.has("one")?" on":""}" data-tf="src" data-n="one" title="${esc(l.single)}"><i class="ico uc">?</i>${esc(l.single)}</span>`);
   return f.length?`<span class="flags">${f.join("")}</span>`:"";
 }
 const vchk=e=>e.loc||e.org?`<span class="vchk" title="${esc(e.loc&&e.org?L().rBoth:e.loc?L().rLoc:L().rOrg)}">${e.loc&&e.org?"✓✓":"✓"}</span>`:"";
@@ -1016,7 +1018,7 @@ function rowHTML(e){
     <span class="tags vtags"><span class="tag ve${st.v.has(e.venue)?" on":""}" data-tf="v" data-n="${esc(e.venue)}">${IPIN}${esc(e.venue)}</span>${e.coll.map(c=>`<span class="tag co${st.c.has(c)?" on":""}" data-tf="c" data-n="${esc(c)}">${ICOL}${esc(c)}</span>`).join("")}</span>
     ${why.length?`<small class="why">★ ${esc(why.join(" · "))}</small>`:""}</span>
     ${e.artists.length?`<small class="arts">${e.artists.slice(0,6).map(a=>e.headSet.has(a)?`<b class="hl">${esc(a)}</b>`:esc(a)).join(", ")}${e.artists.length>6?" …":""}</small>`:""}
-    <span class="gf">${gclIo(e.genres,e.ioK)}${flagHTML(e,1)}</span></span>${stubHTML(e.s,e.e,e.age,e.price,tk)}</button>`;
+    <span class="gf">${gcl(e.genres)}${flagHTML(e,1)}</span></span>${stubHTML(e.s,e.e,e.age,e.price,tk)}</button>`;
 }
 /* flyer covers: hot-linked from the source (not downloaded); vinyl placeholder underneath */
 const isImg=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif)(\?[^"'<>\s]*)?$/i.test(u||"");
