@@ -830,7 +830,7 @@ function dedupe(raw){
     e.fromColl={};const _ci=typeof CI!=="undefined"?CI:{};e.coll.forEach(c=>{const r=(_ci[c]||{}).rules||{};Object.keys(r).forEach(k=>{if(r[k]&&!e[k]){e[k]=1;e.fromColl[k]=c}})});
     {const ks=new Set(e.src.map(s=>s[0]));e.manual=ks.has("man")||(!!e.man&&!ks.size);e.org=!e.unconf&&(!!e.ook||[...ks].some(k=>SORG.includes(k)));e.loc=!e.unconf&&!!e.vok;
      e.srcCats=e.manual?["mn"]:e.unconf?["one"]:[...(e.loc?["loc"]:[]),...(e.org?["org"]:[]),ks.size>=2?"multi":"one"].filter((x,i,A)=>!(x==="one"&&(e.loc||e.org))||A.length===1);
-     e.conf=e.manual||(!e.unconf&&(e.loc||e.org||ks.size>=2));{const _vi=((typeof VI!=="undefined"?VI:{})[e.venue]||{});const vio=ioOf(_vi.io);e.ioAsk=0;if(_vi.man&&vio.length===1)e.ioK=vio;else if(e.io&&e.io.length)e.ioK=ioOf(e.io);else if(vio.length===1)e.ioK=vio;else if(vio.length===2){const t=fold([e.title,e.note&&e.note.de].filter(Boolean).join(" "));const o=IOKW_OUT.test(t),i=IOKW_IN.test(t);e.ioK=o&&!i?["ioOut"]:i&&!o?["ioIn"]:o&&i?["ioIn","ioOut"]:[];if(!e.ioK.length)e.ioAsk=1}else e.ioK=[]}
+     e.conf=e.manual||(!e.unconf&&(e.loc||e.org||ks.size>=2));{const _vi=((typeof VI!=="undefined"?VI:{})[e.venue]||{});const vio=ioOf(_vi.io);e.ioAsk=0;if(_vi.man&&vio.length===1)e.ioK=vio;else if(e.io&&e.io.length)e.ioK=ioOf(e.io);else if(vio.length===1)e.ioK=vio;else if(vio.length===2){const t=fold([e.title,e.note&&e.note.de].filter(Boolean).join(" "));const o=IOKW_OUT.test(t),i=IOKW_IN.test(t);e.ioK=o&&!i?["ioOut"]:i&&!o?["ioIn"]:o&&i?["ioIn","ioOut"]:[];if(!e.ioK.length&&[11,12,1,2].includes(+e.d.slice(5,7))&&!/^out/i.test(_vi.ioMain||""))e.ioK=["ioIn"];if(!e.ioK.length)e.ioAsk=1}else e.ioK=[]}
      e.sound=e.sound||(VRULES[e.venue]&&VRULES[e.venue].sound)||null}
     e.typGenres=[];
     e.artists=[...new Set(e.floors.flatMap(f=>f.a).map(nm).flatMap(splitA).filter(a=>a!=="TBA").map(canon))];
@@ -1849,7 +1849,7 @@ function schema(kind){
   return [
     ["address","Adresse (Straße Nr, PLZ)","text","full"],["web","Website","url"],["opened","Eröffnet (Jahr)","text"],
     ["de","Beschreibung (DE)","textarea","full"],["en","Beschreibung (EN)","textarea","full"],
-    ["io","Indoor / Outdoor","checks","full",{opts:["Indoor","Outdoor"]}],
+    ["io","Indoor / Outdoor","checks","full",{opts:["Indoor","Outdoor"]}],["ioMain","Bei beidem: hauptsächlich","select",null,{opts:["","Outdoor"],labels:["Indoor (Nov–Feb automatisch drinnen)","Outdoor (z. B. Usus)"]}],
     ["floors","Floors","chips","full"],["logo","Logo (Bild-Adresse)","url"],
     ["logoBg","Logo-Hintergrund","select",null,{opts:["","#ffffff"],labels:["dunkel (Standard)","weiß"]}],
     ["rules.age","Hausregel Alter","select",null,{opts:["","16+","18+","21+"]}],["closed","Geschlossen","bool"],
