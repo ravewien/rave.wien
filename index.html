@@ -601,7 +601,7 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
 .xr .ex{display:flex;gap:4px;justify-content:center;flex-wrap:wrap}
 .xr .lk{display:inline-grid;place-items:center;width:22px;height:22px;border:1px solid var(--line);border-radius:3px;color:var(--mute)}
 .xr .lk svg{width:12px;height:12px}.xr .lk .txt{font-size:9px}
-.xr.x0{opacity:.6}
+.xr.xclosed{opacity:.55}
 .x-art .xr[aria-current="true"]{background-color:#35204f}.x-col .xr[aria-current="true"]{background-color:#4a2c0c}.x-ven .xr[aria-current="true"]{background-color:#173f20}
 .x-art .xr:not(.x0) .nd,.x-col .xr .nd,.x-ven .xr .nd{color:var(--accent)}
 @container out (min-width:760px){
@@ -1419,11 +1419,11 @@ function renderLocs(){
   const fa=FK.some(k=>k!=="v"&&(st[k].size||st.x[k].size));if(st.v.size)vs=vs.filter(v=>st.v.has(v));vs=vs.filter(v=>!st.x.v.has(v));
   const rows=xsort(vs.map(v=>{const s=venueStats(v);return {n:v,up:s.up.filter(e=>matches(e,"v")),all:s.up}}).filter(r=>!fa||r.up.length));
   $("t-list").textContent=`${rows.length} ${l.locsN}`;
-  $("out").innerHTML=`<div class="xlist x-ven">${xheadHTML("ven")}${rows.map(r=>{const vi=VINFO[r.n]||{};const vr=VRULES[r.n]||{};const g={};r.all.forEach(e=>e.genres.forEach(x=>g[x]=(g[x]||0)+1));const tg=Object.entries(g).sort((a,b)=>b[1]-a[1]).slice(0,4).map(x=>x[0]);
+  $("out").innerHTML=`<div class="xlist x-ven">${xheadHTML("ven")}${withLetters(rows,rows.map(r=>{const vi=VINFO[r.n]||{};const vr=VRULES[r.n]||{};const g={};r.all.forEach(e=>e.genres.forEach(x=>g[x]=(g[x]||0)+1));const tg=Object.entries(g).sort((a,b)=>b[1]-a[1]).slice(0,4).map(x=>x[0]);
     const snd=vr.sound?(vr.sound[st.lang]||vr.sound.de||""):"";
     const rules=(vr.age?`<span class="flag age">${esc(vr.age)}</span>`:"")+ruleFlags(vr)+(snd?`<span class="snd">♫ ${esc(snd.length>48?snd.slice(0,46)+"…":snd)}</span>`:"");
     return xrowHTML({k:"ven",tile:logoTile(r.n),attr:`data-vopen="${esc(r.n)}"`,cur:st.ven===r.n,name:r.n,closed:vi.closed,sub:V[r.n]&&V[r.n]!=="TBA"?V[r.n]:"",tags:"",c2:"",
-      gen:tg,flags:rules,nx:r.up[0],nxSub:r.up[0]?`<span class="nxt">${esc(r.up[0].title)}</span>`:"",n1:r.up.length,n2:venueStats(r.n).past.length,n1l:l.cUp,ex:""})}).join("")}</div>`;
+      gen:tg,flags:rules,nx:r.up[0],nxSub:r.up[0]?`<span class="nxt">${esc(r.up[0].title)}</span>`:"",n1:r.up.length,n2:venueStats(r.n).past.length,n1l:l.cUp,ex:""})}))}</div>`;
 }
 function renderColls(){
   const l=L();const q=fold(st.q.trim());
@@ -1433,18 +1433,21 @@ function renderColls(){
   const rows=xsort(cs.map(c=>{const up=EV.filter(e=>e.coll.some(x=>sameColl(x,c))&&matches(e,"c"));return {n:c,c,up,mem:collMembers(c).length}}).filter(r=>!fa||r.up.length));
   $("t-list").textContent=`${st.fav?"★ ":""}${rows.length} ${l.colsN}`;
   if(!rows.length){$("out").innerHTML=`<div class="empty-state">${l.none}</div>`;return}
-  $("out").innerHTML=`<div class="xlist x-col">${xheadHTML("col")}${rows.map(r=>{const ci=CINFO[r.c]||{};const g=[...new Set([...(CGEN[r.c]||[]),...r.up.flatMap(e=>e.genres)])].slice(0,4);
+  $("out").innerHTML=`<div class="xlist x-col">${xheadHTML("col")}${withLetters(rows,rows.map(r=>{const ci=CINFO[r.c]||{};const g=[...new Set([...(CGEN[r.c]||[]),...r.up.flatMap(e=>e.genres)])].slice(0,4);
     const sub=[(ci.type||[]).join(" / "),ci.founded?l.since+" "+(ci.foundedNote?"≈ ":"")+ci.founded:"",ci.from||""].filter(Boolean).join(" · ");
     return xrowHTML({k:"col",tile:logoTile(r.c,"",ci),attr:`data-copen="${esc(r.c)}"`,cur:st.coll===r.c,name:r.c,sub,tags:"",c2:"",gen:g,flags:ruleFlags(ci.rules||{}),
-      nx:r.up[0],nxSub:r.up[0]?`<span class="tag ve${st.v.has(r.up[0].venue)?" on":""}" data-tf="v" data-n="${esc(r.up[0].venue)}">${IPIN}${esc(r.up[0].venue)}</span>`:"",n1:r.up.length,n2:PASTR.filter(p=>p.c.some(x=>sameColl(x,r.c))).length,n1l:l.cUp,ex:r.mem?`<span class="xn">${r.mem}<small>${l.cDj}</small></span>`:""})}).join("")}</div>`;
+      nx:r.up[0],nxSub:r.up[0]?`<span class="tag ve${st.v.has(r.up[0].venue)?" on":""}" data-tf="v" data-n="${esc(r.up[0].venue)}">${IPIN}${esc(r.up[0].venue)}</span>`:"",n1:r.up.length,n2:PASTR.filter(p=>p.c.some(x=>sameColl(x,r.c))).length,n1l:l.cUp,ex:r.mem?`<span class="xn">${r.mem}<small>${l.cDj}</small></span>`:""})}))}</div>`;
 }
 /* overview rows for artists / collectives / venues – same structure as event rows */
-function xsort(rows){return rows.sort((a,b)=>{const x=a.up[0],y=b.up[0];if(x&&!y)return -1;if(y&&!x)return 1;if(x&&y){const c=(x.d+(x.s||"")).localeCompare(y.d+(y.s||""));if(c)return c;return b.up.length-a.up.length}return fold(a.n).localeCompare(fold(b.n))})}
+const sortKey=n=>fold(n).replace(/^[^a-z0-9]+/,"");
+function xsort(rows){return rows.sort((a,b)=>sortKey(a.n).localeCompare(sortKey(b.n)))}
+function withLetters(rows,html){let cur="",out="";rows.forEach((r,i)=>{const f=sortKey(r.n)[0]||"#";const L0=/[a-z]/.test(f)?f.toUpperCase():"#";
+  if(L0!==cur){out+=cur?'<div class="daygap"></div>':"";cur=L0;out+=`<div class="dayhdr">${cur} <span>${rows.filter(x=>{const g=sortKey(x.n)[0]||"#";return (/[a-z]/.test(g)?g.toUpperCase():"#")===cur}).length}</span></div>`}out+=html[i]});return out}
 function ruleFlags(r){const l=L();return FLAGS.filter(f=>r&&r[f[0]]).map(([k,c,lab,,ic])=>`<span class="flag ${c}${st.f.has(k)?" on":""}" data-tf="f" data-n="${k}" title="${esc(l[lab])}"><i class="ico ${c}">${ic}</i>${esc(l[lab])}</span>`).join("")}
 function xheadHTML(k){const l=L();const H={art:[l.thArt,l.origin,l.genres,l.thNext,l.cTerm,l.thHear],col:[l.thCol,l.thGenRules,"",l.thNext,l.cTerm,l.cDj],ven:[l.thVen,l.genres,l.thRules,l.thNext,l.cTerm,""]}[k];
   return `<div class="xhead">${H.map((h,i)=>`<span class="h${i}">${esc(h)}</span>`).join("")}</div>`}
 function xrowHTML(o){const l=L();
-  const fk={art:"a",col:"c",ven:"v"}[o.k];return `<button class="row xr${o.n1?"":" x0"}${isFav(fk,o.name)?" isfav":""}" ${o.attr} aria-current="${o.cur}">${rstar(fk,o.name)}<span class="main">
+  const fk={art:"a",col:"c",ven:"v"}[o.k];return `<button class="row xr${o.closed?" xclosed":""}${isFav(fk,o.name)?" isfav":""}" ${o.attr} aria-current="${o.cur}">${rstar(fk,o.name)}<span class="main">
     <span class="c1${o.tile?" wl":""}">${o.tile||""}${o.tile?`<span class="c1t">`:""}<span class="ti">${esc(o.name)}${o.closed?`<span class="badge">${l.closedV}</span>`:""}</span>${o.sub?`<small class="sub">${esc(o.sub)}</small>`:""}${o.tags?`<span class="tags">${o.tags}</span>`:""}${o.tile?`</span>`:""}</span>
     ${o.c2?`<small class="c2">${esc(o.c2)}</small>`:""}
     <span class="gf">${gcl(o.gen)}${o.flags?`<span class="flags">${o.flags}</span>`:""}</span></span>
