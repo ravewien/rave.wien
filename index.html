@@ -1337,7 +1337,7 @@ function renderArtist(ad,name){
   let listen="";
   if(EMBED&&playable.length)listen=playable.map(u=>{const t=(sets.find(s=>s.u===u)||{}).t||(/mixcloud/.test(u)?l.latestMC:l.latestSC);const on=DOCK.u===u;
     return `<button type="button" class="set play${on?" on":""}" data-play="${esc(su(u))}" data-pt="${esc(fold(t).includes(fold(name))?t:name+" – "+t)}"><b>${on?"❚❚":"▶"}</b>${esc(t)}</button>`}).join("")+(consentOK()?"":`<p class="playnote">${l.playNote}</p>`);
-  else if(sets.length)listen=sets.map(s=>`<a class="set" href="${esc(su(s.u))}" target="_blank" rel="noopener"><b>▶</b>${esc(s.t)}</a>`).join("");
+  else if(sets.length)listen=sets.map(s=>`<a class="set" href="${esc(su(s.u))}" target="_blank" rel="noopener"><b>▶</b>${esc(s.t||(/mixcloud/.test(s.u)?l.latestMC:l.latestSC))}</a>`).join("");
   else if(lk.sc||lk.mc||lk.sp)listen=[["sc",l.latestSC],["mc",l.latestMC],["sp",l.latestSP]].filter(([k])=>lk[k]).map(([k,t])=>`<a class="set" href="${esc(su(lk[k]))}" target="_blank" rel="noopener"><b>▶</b>${esc(t)} ↗</a>`).join("");
   const q=encodeURIComponent(name);
   const links=["sc","mc","sp","bc","ig","ra","web"].filter(k=>lk[k]).map(k=>[k,lk[k]]);
@@ -1811,6 +1811,8 @@ function current(kind,key){
   if(kind==="art"){const a=ARK[akey(key)]||{};return JSON.parse(JSON.stringify(a))}
   if(kind==="col"){const c=JSON.parse(JSON.stringify(CINFO[key]||{}));c.genres=CGEN[key]||[];return c}
   const v=JSON.parse(JSON.stringify(VINFO[key]||{}));v.address=V[key]&&V[key]!=="Wien"?V[key]:"";const r=VRULES[key]||{};v.rules={age:r.age||""};RULEFLAGS.forEach(([f])=>v.rules[f]=!!r[f]);return v}
+function setTitleFromUrl(u){try{const p=new URL(u).pathname.split("/").filter(Boolean);const seg=p.length>1?p[p.length-1]:"";
+  if(!seg||/^(sets|s-|[A-Za-z0-9]{10,}$)/.test(seg)&&!/-/.test(seg))return "";return decodeURIComponent(seg).replace(/[-_]+/g," ").replace(/\s+/g," ").trim().replace(/\b\w/g,c=>c.toUpperCase())}catch(_){return ""}}
 const floorsTxt=fl=>(fl||[]).map(f=>(f.f?f.f+": ":"")+f.a.join(", ")).join("\n");
 const parseFloors=t=>t.split("\n").map(l=>l.trim()).filter(Boolean).map(l=>{const m=/^([^:|]{1,40}):\s*(.*)$/.exec(l);const f=m&&!/^\d{1,2}$/.test(m[1].trim())?m[1].trim():"";const rest=m&&f?m[2]:l;
   return {f,a:rest.split(",").map(x=>x.trim()).filter(Boolean)}}).filter(x=>x.a.length);
@@ -1819,7 +1821,7 @@ function chipsHTML(id,vals,list){return `<div class="chips" data-chips="${id}">$
 function field([p,lab,type,cls,opt],cur){opt=opt||{};const v=p.startsWith("_")?null:get(cur,p);const id="edf-"+p.replace(/\./g,"_");let inp="";
   if(type==="chips")inp=chipsHTML(p,Array.isArray(v)?v:[],opt.list);
   else if(type==="floors")inp=`<textarea class="mono" data-p="floors">${esc(floorsTxt(v))}</textarea><div class="hint">Eine Zeile pro Floor: „Floorname: Artist, Artist, 23:00|Artist“. Ohne Floorname einfach nur die Artists. „A b2b B“ bleibt ein Eintrag.</div>`;
-  else if(type==="sets")inp=`<textarea class="mono" data-p="sets">${esc((v||[]).map(x=>(x.t||"")+" | "+(x.u||"")).join("\n"))}</textarea><div class="hint">Eine Zeile pro Set: „Titel | https://soundcloud.com/…“. Das erste Set ist das Haupt-Set.</div>`;
+  else if(type==="sets")inp=`<textarea class="mono" data-p="sets">${esc((v||[]).map(x=>(x.t&&!x.auto?x.t+" | ":"")+(x.u||"")).join("\n"))}</textarea><div class="hint">Eine Zeile pro Set – einfach den Link einfügen. Den richtigen Namen holt sich der Lauf beim Live-Schalten selbst. Eigener Name optional als „Name | Link“. Das erste Set ist das Haupt-Set.</div>`;
   else if(type==="textarea")inp=`<textarea data-p="${p}">${esc(v||"")}</textarea>`;
   else if(type==="select")inp=`<select data-p="${p}">${opt.opts.map((o,i)=>`<option value="${esc(o)}"${(v||"")===o?" selected":""}>${esc((opt.labels||[])[i]||o||"–")}</option>`).join("")}</select>`;
   else if(type==="bool")inp=`<div class="edflags"><label><input type="checkbox" data-p="${p}"${v?" checked":""}> ja</label></div>`;
@@ -1846,7 +1848,8 @@ function openEdit(kind,key,isNew){
 }
 function collect(box){const kind=box.dataset.kind;const out={};
   box.querySelectorAll("[data-p]").forEach(el=>{const p=el.dataset.p;if(p==="floors"){out.floors=parseFloors(el.value);return}
-    if(p==="sets"){out.sets=el.value.split("\n").map(l=>l.split("|")).filter(x=>x.length>1&&x[1].trim()).map(x=>({t:x[0].trim()||x[1].trim(),u:x.slice(1).join("|").trim()}));return}
+    if(p==="sets"){out.sets=el.value.split("\n").map(l=>l.trim()).filter(Boolean).map(l=>{const m=/^(.*?)\s*\|\s*(https?:\/\/\S+)$/.exec(l);
+      if(m&&m[1])return {t:m[1].trim(),u:m[2]};const u=(m?m[2]:(l.match(/https?:\/\/\S+/)||[""])[0]);return u?{t:setTitleFromUrl(u),u,auto:1}:null}).filter(Boolean);return}
     out[p]=el.type==="checkbox"?el.checked:el.value.trim()});
   box.querySelectorAll("[data-chips]").forEach(c=>{const inp=c.querySelector("input");if(inp.value.trim())addChip(c,inp.value.trim());out[c.dataset.chips]=[...c.querySelectorAll("span[data-v]")].map(s=>s.dataset.v)});
   const pcs={};box.querySelectorAll("[data-pc]").forEach(el=>{(pcs[el.dataset.pc]=pcs[el.dataset.pc]||[]);if(el.checked)pcs[el.dataset.pc].push(el.value)});Object.assign(out,pcs);
