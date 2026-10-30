@@ -1,6 +1,6 @@
 /* rave.wien event data. Updated by the scheduled task. Fields: d(date) s(start) e(end) title venue coll[] genres[] floors[{f,a[]}] (artist "HH:MM|Name" = timetable) price age tickets flyer note{de,en} flags: sexpos lgbtq aw nophoto opendecks zero. src[[sourceKey,url]]. VR = Hausregeln je Location (age, aw, nophoto …) gelten für alle Events dort, sofern das Event nichts anderes angibt. VG = Koordinaten [lat,lng] je Location für die Karte. vok:1 = von der Location selbst bestätigt; Events ohne vok und mit nur einer Quelle zeigt die Seite als „nur 1 Quelle“. KC = bekannte Kollektive (auch ohne aktuelle Events im Filter sichtbar). AR = Artist-Infos (Herkunft, Genres, Clubs, Festivals, Links, Sets). CG = typische Genres je Kollektiv (aus früheren Events), ergänzt fehlende Genres. */
 const V={
- "Wiener Würstelstand Spittelau": "U4 Spittelau, 1090",
+ "Wiener Würstelstand Spittelau": "U-Bahn-Station Spittelau, 1090",
  "Event Arena Vösendorf": "Marktstraße 13a, 2331 Vösendorf",
  "M1 Club": "Schwarzenbergplatz 10, 1040",
  "Grelle Forelle": "Spittelauer Lände 12, 1090",
@@ -1114,7 +1114,7 @@ const CI={
  }
 };
 const VI={
- "Wiener Würstelstand Spittelau": {"de":"Würstelstand bei der U4-Station Spittelau, an dem gelegentlich DJs auflegen.","en":"Sausage stand by the U4 station Spittelau that occasionally hosts DJs.","man":1},
+ "Wiener Würstelstand Spittelau": {"de":"Würstelstand von Mike Lanner und Sengl bei der U-Bahn-Station Spittelau mit modernen Hot Dogs, Fassbier und Garten; gelegentlich legen hier DJs auf.","en":"Sausage stand by Mike Lanner and Sengl at the Spittelau underground station, serving modern hot dogs and draught beer, with a garden; DJs play here occasionally.","man":1,"src":["https://www.theviennareview.at/food-drink/12453/wiener-wurstelstand","https://ra.co/clubs/218090"]},
  "Hofburg Vienna": {
   "de": "Ehemalige Kaiserresidenz am Heldenplatz, deren Prunksäle auch für Großveranstaltungen genutzt werden.",
   "en": "Former imperial residence on Heldenplatz whose state halls are also used for large events.",
