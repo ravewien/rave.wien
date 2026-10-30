@@ -1077,6 +1077,30 @@ const CI={
   "src": [
    "https://www.wienmodern.at/"
   ]
+ },
+ "Pole Circle": {
+  "rules": {
+   "sexpos": 1
+  },
+  "man": 1
+ },
+ "Slutlabs": {
+  "rules": {
+   "sexpos": 1
+  },
+  "man": 1
+ },
+ "STRICT!": {
+  "rules": {
+   "sexpos": 1
+  },
+  "man": 1
+ },
+ "SubRosaDictum": {
+  "rules": {
+   "sexpos": 1
+  },
+  "man": 1
  }
 };
 const VI={
