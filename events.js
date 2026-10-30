@@ -2203,7 +2203,7 @@ const AR={
    "Today I Feel EP"
   ],
   "setsChecked": "2026-10-27",
-  "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fviberate-upload.ams3.cdn.digitaloceanspaces.com%2Fprod%2Fentity%2Fartist%2Foberst-and-buchner.jpg&f=1&nofb=1&ipt=2525c5a18112fd6a9951a6f2e278a93c610fa8657e380964143d356d05a06aaf&ipo=images",
+  "img": "https://f4.bcbits.com/img/0028446882_10.jpg",
   "man": 1
  },
  "AliasElias": {
