@@ -589,7 +589,11 @@ const CI={
   ],
   "membersSrc": "https://ponyhof-official.at/",
   "logo": "https://ponyhof-official.at/wp-content/uploads/2021/06/cropped-ponyhof_sticker_Black_rainbow-II-270x270.png",
-  "logoBg": "#ffffff"
+  "logoBg": "#ffffff",
+  "type": [
+   "Kollektiv"
+  ],
+  "man": 1
  },
  "Techno Vienna": {
   "web": "https://technovienna.com/",
@@ -727,7 +731,16 @@ const CI={
    "Anni Herzer"
   ],
   "membersSrc": "https://www.hausgemacht.org/en/djs",
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "rules": {
+   "aw": 1,
+   "nophoto": 1,
+   "sexpos": 1
+  },
+  "type": [
+   "Kollektiv"
+  ],
+  "man": 1
  },
  "Journey to Tarab": {
   "de": "Wiener Kollektiv, Partys „von Freund*innen für Freund*innen“, oft gemeinsam mit Im Freudentaumel im FLUCC.",
