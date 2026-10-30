@@ -1718,11 +1718,15 @@ const AR={
    "HARD Summer"
   ],
   "links": {
-   "web": "https://www.hi-mija.com"
+   "web": "https://www.hi-mija.com",
+   "sc": "https://soundcloud.com/hi_mija",
+   "sp": "https://open.spotify.com/intl-de/artist/1NpKmfDYMhw1KJIIUCsX4O?si=fm7KHrvLSdScD-Zw2SiiHA"
   },
   "src": [
    "https://en.wikipedia.org/wiki/Mija_(DJ)"
-  ]
+  ],
+  "img": "https://i1.sndcdn.com/avatars-QL7aVE7zOoo3pxkF-zY0tYQ-t500x500.jpg",
+  "man": 1
  },
  "Prada2000": {
   "from": {
