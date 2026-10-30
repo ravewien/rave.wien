@@ -815,7 +815,7 @@ function dedupe(raw){
     m.src=[...hit.src];r.src.forEach(s=>{if(!m.src.some(x=>x[1]===s[1]))m.src.push(s)});
     Object.assign(hit,m);
   });
-  out.forEach((e,i)=>{e.id="e"+i;e.genres=e.genres||[];e.coll=e.coll||[];e.floors=e.floors||[];const vr=VRULES[e.venue]||{};e.clubAge=vr.age||null;e.age=e.age||e.clubAge;e.fromVenue=[];
+  out.forEach((e,i)=>{e.id="e"+i;e.genres=e.genres||[];e.coll=e.coll||[];e.floors=e.floors||[];{const ci=typeof CI!=="undefined"?CI:{};const fa=new Set(e.floors.flatMap(f=>f.a||[]).map(a=>fold(String(a).split("|").pop()).trim()));const seg=fold(e.title).split(/\s+(?:[–—|]|presents|pres\.|w\/|with|feat\.?|@|at)\s+|\s*[:#(]/)[0];const parts=seg.split(/\s+(?:x|×|&|\+)\s+/).map(x=>x.trim());Object.keys(ci).forEach(k=>{const f=fold(k).trim();if(f.length>=3&&!e.coll.includes(k)&&!fa.has(f)&&parts.includes(f))e.coll.push(k)})}const vr=VRULES[e.venue]||{};e.clubAge=vr.age||null;e.age=e.age||e.clubAge;e.fromVenue=[];
     ["aw","nophoto","zero","sexpos","lgbtq","opendecks"].forEach(k=>{if(vr[k]&&!e[k]){e[k]=1;e.fromVenue.push(k)}});
     e.fromColl={};const _ci=typeof CI!=="undefined"?CI:{};e.coll.forEach(c=>{const r=(_ci[c]||{}).rules||{};Object.keys(r).forEach(k=>{if(r[k]&&!e[k]){e[k]=1;e.fromColl[k]=c}})});
     {const ks=new Set(e.src.map(s=>s[0]));e.org=!e.unconf&&(!!e.ook||[...ks].some(k=>SORG.includes(k)));e.loc=!e.unconf&&!!e.vok;
