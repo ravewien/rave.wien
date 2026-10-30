@@ -49,7 +49,7 @@ function page({ url, target, title, desc, img }) {
 <meta http-equiv="refresh" content="0;url=${esc(target)}">
 <style>body{background:#131519;color:#e8ecf1;font:16px system-ui,sans-serif;display:grid;place-items:center;min-height:90vh;margin:0}a{color:#5b8cff}</style>
 </head><body><p><a href="${esc(target)}">${esc(title)} auf rave.wien öffnen →</a></p>
-<script>location.replace(${JSON.stringify(target)})</script>
+<script>location.replace("/"+location.search+${JSON.stringify(target.slice(1))})</script>
 </body></html>
 `;
 }

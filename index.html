@@ -1142,7 +1142,9 @@ function renderArtists(ev){
 const EMBED=/(^|\.)rave\.wien$/.test(location.hostname);
 const GCQ=[];function gc(path,title,event){if(!EMBED)return;const o={path,title:title||path,event:!!event};try{if(window.goatcounter&&window.goatcounter.count)window.goatcounter.count(o);else GCQ.push(o)}catch(_){}}
 if(EMBED){try{window.goatcounter={no_onload:false};const sc=document.createElement("script");sc.async=true;sc.src="https://gc.zgo.at/count.js";sc.dataset.goatcounter="https://ravedotwien.goatcounter.com/count";
-  if(/[?&]q=st\b/.test(location.search))GCQ.push({path:"sticker",title:"QR-Sticker gescannt",event:true});sc.onload=()=>{setTimeout(()=>{while(GCQ.length&&window.goatcounter&&window.goatcounter.count)window.goatcounter.count(GCQ.shift())},300)};document.head.appendChild(sc)}catch(_){}}
+  {const sp=new URLSearchParams(location.search);const src=(sp.get("ref")||sp.get("q")||sp.get("utm_source")||"").trim().slice(0,60);
+    if(src){const k=src==="st"?"sticker":src.toLowerCase().replace(/[^a-z0-9äöüß_-]+/g,"-");GCQ.push({path:k==="sticker"?"sticker":"quelle/"+k,title:k==="sticker"?"QR-Sticker gescannt":"Quelle: "+src,event:true})}
+    try{if(src)history.replaceState(history.state,"",location.pathname+location.hash)}catch(_){}}sc.onload=()=>{setTimeout(()=>{while(GCQ.length&&window.goatcounter&&window.goatcounter.count)window.goatcounter.count(GCQ.shift())},300)};document.head.appendChild(sc)}catch(_){}}
 const scEmbed=u=>`<iframe class="sc" title="SoundCloud" loading="lazy" allow="autoplay" src="https://w.soundcloud.com/player/?url=${encodeURIComponent(u)}&color=%231f8bff&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe>`;
 
 const PH=t=>`<span class="ph">${t}</span>`;
