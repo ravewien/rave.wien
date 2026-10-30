@@ -1775,7 +1775,7 @@ function schema(kind){
     ["title","Titel","text","full"],["d","Datum","date"],["venue","Location","text",null,{list:"edl-ven"}],
     ["s","Beginn (HH:MM)","text"],["e","Ende (HH:MM)","text"],
     ["coll","Veranstalter","chips","full",{list:"edl-col"}],["genres","Genres","chips","full",{list:"edl-gen"}],
-    ["floors","Lineup / Floors","floors","full"],["head","Headliner","chips","full"],
+    ["floors","Lineup / Floors","floors","full"],["head","Headliner","chips","full",{list:"edl-art"}],
     ["price","Preis","text"],["age","Mindestalter","select",null,{opts:["","16+","18+","21+"]}],
     ["tickets","Ticket-Link","url"],["flyer","Flyer (Bild-Adresse)","url"],
     ["note.de","Beschreibung (DE)","textarea","full"],["note.en","Beschreibung (EN)","textarea","full"],
@@ -1792,7 +1792,7 @@ function schema(kind){
     ["founded","Gegründet (Jahr)","text"],["from","Sitz","text"],
     ["genres","Typische Genres","chips","full",{list:"edl-gen"}],
     ["de","Beschreibung (DE)","textarea","full"],["en","Beschreibung (EN)","textarea","full"],
-    ["members","DJs & Crew","chips","full"],
+    ["members","DJs & Crew","chips","full",{list:"edl-art"}],
     ["web","Website","url"],["ig","Instagram","url"],["sc","SoundCloud","url"],["bc","Bandcamp","url"],["tix","Ticketshop","url"],["logo","Logo (Bild-Adresse)","url"],
     ["logoBg","Logo-Hintergrund","select",null,{opts:["","#ffffff"],labels:["dunkel (Standard)","weiß"]}],
     ["_rules","Regeln für alle Events","rflags","full",{flags:RULEFLAGS}]];
@@ -1840,6 +1840,7 @@ function openEdit(kind,key,isNew){
    <div class="edgrid">${schema(kind).map(f=>field(f,cur)).join("")}</div>
    <datalist id="edl-gen">${allGenres().map(g=>`<option value="${esc(g)}">`).join("")}</datalist>
    <datalist id="edl-col">${[...new Set([...UNI.c,...Object.keys(CINFO)])].sort().map(g=>`<option value="${esc(g)}">`).join("")}</datalist>
+   <datalist id="edl-art">${ALLART().sort((a,b)=>fold(a).localeCompare(fold(b))).map(g=>`<option value="${esc(g)}">`).join("")}</datalist>
    <datalist id="edl-ven">${UNI.v.map(g=>`<option value="${esc(g)}">`).join("")}</datalist>
    <div class="edact"><div>${!isNew?`<button type="button" class="del" data-eddel>${kind==="ev"?"Event löschen":"Eintrag löschen"}</button>`:""}${p?` <button type="button" data-edundo>Änderung verwerfen</button>`:""}</div>
    <div class="r"><button type="button" data-edcancel>Abbrechen</button><button type="button" class="save" data-edsave>Speichern</button></div></div>`;
