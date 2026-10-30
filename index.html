@@ -958,8 +958,8 @@ function renderSide(){
 const gcl=g=>g.length?`<span class="tags"><span class="gcl"><b>♫</b>${g.map(x=>`<span data-tf="g" data-n="${esc(x)}"${st.g.has(x)?' class="on"':""}>${esc(x)}</span>`).join("")}</span></span>`:"";
 function stubHTML(s,e,age,price,tk){const pm=price?String(price).split(/\s+[·|\/]\s+|,\s+/):[];
   return `<span class="stub"><span class="t">${s||"--:--"}<small>${e?"-"+e:""}</small></span><span class="agec">${age?`<span class="flag age">${esc(age)}</span>`:""}</span><span class="price">${pm.length?esc(pm[0]):"–"}${pm.length>1?`<small>${esc(pm.slice(1).join(" · "))}</small>`:""}</span></span>`}
-function pastRowHTML(p){const why=st.fav?pastFavReason(p):[];
-  return `<button class="row tk pastrow" data-id="${p.id}" aria-current="${st.sel===p.id}"><span class="main"><span class="head"><span class="ti">${esc(p.t)}</span></span>
+function pastRowHTML(p){if(p.ev){const e=ALL.find(x=>x.id===p.id);if(e)return rowHTML(e).replace('class="row tk ','class="row tk pastrow ')}const why=st.fav?pastFavReason(p):[];
+  return `<button class="row tk pastrow" data-id="${p.id}" aria-current="${st.sel===p.id}"><span class="cov" aria-hidden="true"></span><span class="main"><span class="head"><span class="ti">${esc(p.t)}</span></span>
     <span class="tags"><span class="tag ve">${IPIN}${esc(p.v)}</span>${p.c.map(c=>`<span class="tag co">${ICOL}${esc(c)}</span>`).join("")}</span>
     ${p.a.length?`<small class="arts">${esc(p.a.slice(0,5).join(", "))}${p.a.length>5?" …":""}</small>`:""}${why.length?`<small class="why">★ ${esc(why.join(" · "))}</small>`:""}</span>${stubHTML(p.x.s,p.x.e,"",p.x.price)}</button>`}
 function rowHTML(e){
