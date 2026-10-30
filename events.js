@@ -736,12 +736,14 @@ const CI={
   "rules": {
    "aw": 1,
    "nophoto": 1,
-   "sexpos": 1
+   "sexpos": 1,
+   "lgbtq": 1
   },
   "type": [
    "Kollektiv"
   ],
-  "man": 1
+  "man": 1,
+  "logo": "https://www.backbeat.at/wp-content/uploads/2022/01/Download.png"
  },
  "Journey to Tarab": {
   "de": "Wiener Kollektiv, Partys „von Freund*innen für Freund*innen“, oft gemeinsam mit Im Freudentaumel im FLUCC.",
@@ -4409,6 +4411,23 @@ const AR={
  },
  "Hannah": {
   "noImg": "2026-10-28"
+ },
+ "Anni Herzer": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna, Austria"
+  },
+  "genres": [
+   "House",
+   "Hard House",
+   "90s House",
+   "acid house"
+  ],
+  "img": "https://i1.sndcdn.com/avatars-gzJnOoEawccUTjYG-wHH6xg-t500x500.jpg",
+  "links": {
+   "sc": "https://soundcloud.com/anniherzer"
+  },
+  "man": 1
  }
 };
 const VG={
