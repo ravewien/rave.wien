@@ -830,7 +830,7 @@ function dedupe(raw){
     e.fromColl={};const _ci=typeof CI!=="undefined"?CI:{};e.coll.forEach(c=>{const r=(_ci[c]||{}).rules||{};Object.keys(r).forEach(k=>{if(r[k]&&!e[k]){e[k]=1;e.fromColl[k]=c}})});
     {const ks=new Set(e.src.map(s=>s[0]));e.manual=ks.has("man")||(!!e.man&&!ks.size);e.org=!e.unconf&&(!!e.ook||[...ks].some(k=>SORG.includes(k)));e.loc=!e.unconf&&!!e.vok;
      e.srcCats=e.manual?["mn"]:e.unconf?["one"]:[...(e.loc?["loc"]:[]),...(e.org?["org"]:[]),ks.size>=2?"multi":"one"].filter((x,i,A)=>!(x==="one"&&(e.loc||e.org))||A.length===1);
-     e.conf=e.manual||(!e.unconf&&(e.loc||e.org||ks.size>=2));{const vio=ioOf(((typeof VI!=="undefined"?VI:{})[e.venue]||{}).io);e.ioAsk=0;if(e.io&&e.io.length)e.ioK=ioOf(e.io);else if(vio.length===1)e.ioK=vio;else if(vio.length===2){const t=fold([e.title,e.note&&e.note.de].filter(Boolean).join(" "));const o=IOKW_OUT.test(t),i=IOKW_IN.test(t);e.ioK=o&&!i?["ioOut"]:i&&!o?["ioIn"]:o&&i?["ioIn","ioOut"]:[];if(!e.ioK.length)e.ioAsk=1}else e.ioK=[]}
+     e.conf=e.manual||(!e.unconf&&(e.loc||e.org||ks.size>=2));{const _vi=((typeof VI!=="undefined"?VI:{})[e.venue]||{});const vio=ioOf(_vi.io);e.ioAsk=0;if(_vi.man&&vio.length===1)e.ioK=vio;else if(e.io&&e.io.length)e.ioK=ioOf(e.io);else if(vio.length===1)e.ioK=vio;else if(vio.length===2){const t=fold([e.title,e.note&&e.note.de].filter(Boolean).join(" "));const o=IOKW_OUT.test(t),i=IOKW_IN.test(t);e.ioK=o&&!i?["ioOut"]:i&&!o?["ioIn"]:o&&i?["ioIn","ioOut"]:[];if(!e.ioK.length)e.ioAsk=1}else e.ioK=[]}
      e.sound=e.sound||(VRULES[e.venue]&&VRULES[e.venue].sound)||null}
     e.typGenres=[];
     e.artists=[...new Set(e.floors.flatMap(f=>f.a).map(nm).flatMap(splitA).filter(a=>a!=="TBA").map(canon))];
