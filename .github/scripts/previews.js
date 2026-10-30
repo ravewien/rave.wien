@@ -24,7 +24,7 @@ const DAYS = ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"];
 const fmtDay = d => { const [y, m, t] = d.split("-").map(Number); const w = new Date(Date.UTC(y, m - 1, t)).getUTCDay(); return `${DAYS[w]}., ${String(t).padStart(2, "0")}.${String(m).padStart(2, "0")}.${y}`; };
 const clip = (s, n) => (s.length > n ? s.slice(0, n - 1).replace(/\s+\S*$/, "") + " …" : s);
 const SITE = "https://rave.wien";
-const DEF_IMG = SITE + "/og.png";
+const DEF_IMG = SITE + "/og-square.png";
 
 function page({ url, target, title, desc, img }) {
   const big = !!img;
