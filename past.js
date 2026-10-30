@@ -1,5 +1,6 @@
 /* rave.wien – vergangene Events seit 2024. Format: [Datum, Location, Titel, [Reihen/Kollektive], [Artists], {s,e,price,sound,note,src} optional]. Quellen: ohschonhell.at Location-Archive u. a. */
 const PAST=[
+["2026-10-28", "Das Werk", "Rave am Mittwoch", ["Rave am Mittwoch"], [], {"s": "23:00", "price": "Eintritt frei", "note": {"de": "Wöchentlicher Mittwochs-Rave im Werk.", "en": "Weekly Wednesday rave at Das Werk."}, "src": "https://www.daswerk.org/program", "lu": 1}],
 ["2026-10-25", "FLUCC", "VVAX Vinyl Only Techno x Fabian Hofer", ["VVAX"], ["Fabian Hofer"]],
 ["2026-10-24", "Grelle Forelle", "RAVE AM MITTWOCH // SPECIAL EDITION // Grelle Forelle", ["Rave am Mittwoch"], ["Anatol", "Tomagan", "Louisa India", "Pinklotion", "adrialin"], {"src": "https://ohschonhell.at/orte/grelle+forelle/3", "lu": 1}],
 ["2026-10-24", "FLUCC", "Tohuwabohu Technoid Edition", ["Tohuwabohu"], ["Stoik", "Purrdition", "Foe", "Miss Undertaker"], {"s": "23:00", "e": "06:00", "price": "12 € vor Mitternacht / 17 € danach (nur Abendkasse)", "src": "https://ohschonhell.at/date/flucc-vienna-24-10-2026-tohuwabohu-technoid-edition", "lu": 1}],
