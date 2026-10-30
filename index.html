@@ -1201,7 +1201,7 @@ ds:`<h2>Datenschutz</h2>
 <h3>Hosting</h3>
 <p>Die Website wird über GitHub Pages (GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA) ausgeliefert. Beim Aufruf verarbeitet GitHub technisch notwendige Verbindungsdaten wie IP-Adresse, Zeitpunkt und Browser-Informationen, um die Seite auszuliefern und vor Missbrauch zu schützen (Art. 6 Abs. 1 lit. f DSGVO). Dabei können Daten in die USA übermittelt werden; GitHub stützt solche Übermittlungen auf das EU-US Data Privacy Framework bzw. Standardvertragsklauseln. Wir selbst führen keine Zugriffsstatistik und kein Tracking.</p>
 <h3>Reichweitenmessung (GoatCounter)</h3>
-<p>Um zu sehen, wie viele Menschen die Seite nutzen und welche Events, Artists, Veranstalter und Locations aufgerufen oder geteilt werden, verwenden wir GoatCounter (Martin Tournoij, Niederlande; goatcounter.com). GoatCounter setzt keine Cookies, speichert nichts auf deinem Gerät und erstellt keine Nutzerprofile. Übermittelt werden die aufgerufene Seite, die Herkunftsseite, Browser- und Gerätetyp, Bildschirmgröße und das ungefähre Land; die IP-Adresse wird nur kurzzeitig zur Erkennung von Mehrfachaufrufen verwendet und nicht dauerhaft gespeichert. Rechtsgrundlage ist unser berechtigtes Interesse an einer anonymen Reichweitenstatistik (Art. 6 Abs. 1 lit. f DSGVO). Werbeblocker können die Messung unterbinden.</p>
+<p>Um zu sehen, wie viele Menschen die Seite nutzen und welche Events, Artists, Veranstalter und Locations aufgerufen werden und ob Funktionen wie Teilen oder Favoriten genutzt werden (ohne zu erfassen, was geteilt oder favorisiert wird), verwenden wir GoatCounter (Martin Tournoij, Niederlande; goatcounter.com). GoatCounter setzt keine Cookies, speichert nichts auf deinem Gerät und erstellt keine Nutzerprofile. Übermittelt werden die aufgerufene Seite, die Herkunftsseite, Browser- und Gerätetyp, Bildschirmgröße und das ungefähre Land; die IP-Adresse wird nur kurzzeitig zur Erkennung von Mehrfachaufrufen verwendet und nicht dauerhaft gespeichert. Rechtsgrundlage ist unser berechtigtes Interesse an einer anonymen Reichweitenstatistik (Art. 6 Abs. 1 lit. f DSGVO). Werbeblocker können die Messung unterbinden.</p>
 <h3>Schriften</h3>
 <p>Alle Schriftarten werden direkt von rave.wien geladen. Es besteht keine Verbindung zu Google Fonts oder anderen Schrift-Diensten.</p>
 <h3>Speicherung auf deinem Gerät</h3>
@@ -1547,7 +1547,7 @@ function fromHash(){const id=decodeURIComponent((location.hash||"").slice(1));if
   const m=/^([acv])\/(.+)$/.exec(id);if(m){const n=fromSlug(m[1],m[2]);if(n){const k={a:"art",c:"col",v:"ven"}[m[1]];addCard(k,n);gcCard(k,n)}return}
   const e=EV.find(x=>x.id===id)||EV.find(x=>id.startsWith(x.d)&&(x.id.startsWith(id)||id.startsWith(x.id)));if(e){addCard("ev",e.id);gcCard("ev",e.id);if(st.view==="cal")st.month=e.d.slice(0,7)}else if(PBYID[id]){addCard("ev",id);gcCard("ev",id)}else if(ALL.some(x=>x.id===id)){st.gone=true}}
 function gcCard(k,n){const p={ev:"e",art:"a",col:"c",ven:"v"}[k];if(!p)return;const e=k==="ev"?(ALL.find(x=>x.id===n)||PBYID[n]):null;gc("/"+p+"/"+(e?e.id:slug(n)),e?(e.title||e.t):n)}
-async function share(btn){gc("share"+(btn.dataset.su?new URL(btn.dataset.su).pathname:"/e/"+btn.dataset.share),"Geteilt",true);const id=btn.dataset.share;const e=ALL.find(x=>x.id===id);const u=btn.dataset.su||(e&&shareURL(e));if(!u)return;const card=btn.closest(".deck");const box=card.querySelector(".sharebox"),msg=card.querySelector(".sharemsg");box.hidden=false;
+async function share(btn){gc("teilen/"+(btn.dataset.su?new URL(btn.dataset.su).pathname.split("/")[1]:"e"),"Teilen",true);const id=btn.dataset.share;const e=ALL.find(x=>x.id===id);const u=btn.dataset.su||(e&&shareURL(e));if(!u)return;const card=btn.closest(".deck");const box=card.querySelector(".sharebox"),msg=card.querySelector(".sharemsg");box.hidden=false;
   try{await navigator.clipboard.writeText(u);msg.textContent=L().copied}catch(_){const i=card.querySelector(".shareurl");i.focus();i.select();msg.textContent=L().copyFail}}
 /* calendar export */
 const icsT=d=>`${d.getFullYear()}${String(d.getMonth()+1).padStart(2,"0")}${String(d.getDate()).padStart(2,"0")}T${String(d.getHours()).padStart(2,"0")}${String(d.getMinutes()).padStart(2,"0")}00`;
@@ -1614,7 +1614,7 @@ const SRCLIST=(()=>{const dom={};RAW.forEach(e=>(e.src||[]).forEach(([k,u])=>{if
 const FAVKEY="rw-fav";
 let FAV={e:[],a:[],c:[],v:[]};try{const o=JSON.parse(localStorage.getItem(FAVKEY)||"null");if(o)FAV=Object.assign(FAV,o)}catch(_){}
 const isFav=(k,n)=>(FAV[k]||[]).includes(n);
-function toggleFav(k,n){const a=FAV[k]=FAV[k]||[];const i=a.indexOf(n);if(i<0)a.push(n);else a.splice(i,1);try{localStorage.setItem(FAVKEY,JSON.stringify(FAV))}catch(_){}}
+function toggleFav(k,n){const a=FAV[k]=FAV[k]||[];const i=a.indexOf(n);if(i<0)a.push(n);else a.splice(i,1);gc("favorit/"+k+(i<0?"/dazu":"/weg"),"Favorit",true);try{localStorage.setItem(FAVKEY,JSON.stringify(FAV))}catch(_){}}
 const favCount=()=>FAV.e.filter(id=>EV.some(e=>e.id===id)).length+FAV.a.length+FAV.c.length+FAV.v.length;
 function rstar(k,n){const l=L();const on=isFav(k,n);return `<span class="rstar${on?" on":""}" data-rfav="${k}" data-fn="${esc(n)}" role="button" tabindex="0" aria-pressed="${on}" title="${on?l.favRem:l.favAdd}" aria-label="${on?l.favRem:l.favAdd}">${on?"★":"☆"}</span>`}
 function favBtn(k,n){const l=L();const on=isFav(k,n);return `<button class="favbtn${on?" on":""}" data-fav="${k}" data-fn="${esc(n)}" aria-pressed="${on}" title="${on?l.favRem:l.favAdd}" aria-label="${on?l.favRem:l.favAdd}">${on?"★":"☆"}</button>`}
@@ -1705,7 +1705,7 @@ document.addEventListener("click",ev=>{
   if(t.dataset.rm){st[t.dataset.rm].delete(t.dataset.n);st.x[t.dataset.rm].delete(t.dataset.n);render();return}
   if(t.dataset.id){drawer(false);openCard("ev",t.dataset.id);return}
   if(t.id==="z-m"||t.id==="z-p"){ZI=Math.max(0,Math.min(ZL.length-1,ZI+(t.id==="z-p"?1:-1)));applyZ();setTop();layoutStack();return}
-  if(t.id==="v-fav"){st.fav=!st.fav;save();$("favask").hidden=true;render();return}
+  if(t.id==="v-fav"){st.fav=!st.fav;if(st.fav)gc("favorit/ansicht","Favoriten-Ansicht",true);save();$("favask").hidden=true;render();return}
   const vm={"v-list":"list","v-cal":"cal","v-art":"art","v-col":"col","v-loc":"loc"};
   if(vm[t.id]){setView(vm[t.id]);return}
   const map={"l-de":()=>st.lang="de","l-en":()=>st.lang="en",
