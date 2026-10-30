@@ -1206,7 +1206,8 @@ const VI={
   "noLogo": "2026-10-28",
   "io": [
    "Indoor"
-  ]
+  ],
+  "man": 1
  },
  "FLUCC Deck": {
   "web": "https://flucc.at/",
