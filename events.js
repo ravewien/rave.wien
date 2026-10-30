@@ -564,7 +564,7 @@ const CG={
   "House"
  ]
 };
-const KC=["303","50 Herz","54Hz","909techno","AMBIEVENT","Art Attech","Auf der Lauer","AWSM","Bassbussi","Bassclub","Bassproduction","Belly Dance Services","Bestand","Bonkers","Callshop Radio","Cardio Cult","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Dark Pressure","Das Syndikat","deep cut","Drum & Bassick","Dystopia Rave","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Flashback","Fluffig","Fuelized","Gassen aus Zucker","GDN","Gürtelgroove","Habibi Party","Hanzom","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Little Beat More","LSH","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Rave am Mittwoch","Ravenbogen","Rude Bwoy Embassy","sama recordings","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Super Disco","Switch!","Synergy","Tasteless","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","Zuckerwatt","Zyklop Audio"];
+const KC=["303","50 Herz","54Hz","909techno","AMBIEVENT","Art Attech","Auf der Lauer","AWSM","Bassbussi","Bassclub","Bassproduction","Belly Dance Services","Bestand","Bonkers","Callshop Radio","Cardio Cult","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Dark Pressure","Das Syndikat","deep cut","Drum & Bassick","Dystopia Rave","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Flashback","Fluffig","Fuelized","Gassen aus Zucker","GDN","Gürtelgroove","Habibi Party","Hanzom","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Little Beat More","LSH","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Rave am Mittwoch","Ravenbogen","Rude Bwoy Embassy","sama recordings","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Super Disco","Switch!","Synergy","Tasteless","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","Zuckerwatt","Zyklop Audio"];
 const CI={
  "Ponyhof": {
   "de": "Gemeinnütziges Wiener Kollektiv seit 2018. Termine über Instagram.",
@@ -1102,6 +1102,12 @@ const CI={
   "rules": {
    "sexpos": 1
   },
+  "man": 1
+ },
+ "HERZZZ": {
+  "members": [
+   "Anni Herzer"
+  ],
   "man": 1
  }
 };
