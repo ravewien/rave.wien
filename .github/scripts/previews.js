@@ -89,6 +89,7 @@ PAST.filter(r => r[0] < todayStr).forEach(r => {
 // Artists
 const artists = new Set(Object.keys(AR));
 RAW.forEach(e => (e.floors || []).forEach(f => f.a.map(nm).flatMap(splitA).forEach(a => a !== "TBA" && artists.add(a))));
+PAST.forEach(r => (r[4] || []).map(nm).flatMap(splitA).forEach(a => a !== "TBA" && artists.add(a)));
 artists.forEach(n => {
   const a = AR[n] || {}; const s = slug(n);
   const from = a.from ? a.from.de || a.from.en : "";
@@ -100,6 +101,7 @@ artists.forEach(n => {
 // Veranstalter
 const colls = new Set(Object.keys(CI));
 RAW.forEach(e => (e.coll || []).forEach(c => colls.add(c)));
+PAST.forEach(r => (r[3] || []).forEach(c => c && colls.add(c)));
 colls.forEach(n => {
   const c = CI[n] || {}; const s = slug(n);
   const txt = c.de ? clip(c.de.replace(/\s+/g, " "), 190) : "Veranstalter auf rave.wien – kommende Termine in Wien.";
