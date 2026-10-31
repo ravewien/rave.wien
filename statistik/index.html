@@ -32,6 +32,22 @@ h2{font-family:var(--f-display);font-weight:700;letter-spacing:.12em;text-transf
 .legend{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:12px;color:var(--mute);margin:0 0 6px}
 .legend span{display:inline-flex;align-items:center;gap:5px}
 .legend i{width:12px;height:3px;border-radius:2px;display:inline-block}
+.h2row{display:flex;align-items:flex-end;justify-content:space-between;gap:10px;margin:30px 0 10px}
+.h2row h2{margin:0}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:4px;overflow:hidden}
+.seg button{background:transparent;border:0;color:var(--mute);font:700 11px var(--f-mono);letter-spacing:.06em;text-transform:uppercase;padding:6px 12px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent);color:#fff}
+.mt{width:100%;border-collapse:collapse;font-family:var(--f-mono);font-size:12px;margin:2px 0 8px}
+.mt td{padding:3px 4px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+.mt td:first-child{text-align:left;font-family:var(--f-body);font-size:13px}
+.mt td:first-child i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+.mt td.pc{color:var(--fg);font-weight:700;width:52px}
+.mt td.ct{color:var(--mute)}
+.pies{display:grid;grid-template-columns:repeat(auto-fill,minmax(110px,1fr));gap:8px;margin-top:4px}
+.pie{text-align:center;font-size:12px;color:var(--mute)}
+.pie .pw{position:relative;height:96px}
+.pie .pw b{position:absolute;inset:0;display:grid;place-items:center;font:700 15px var(--f-mono);color:var(--fg);pointer-events:none}
+.pie span{display:block;margin-top:2px;color:var(--fg)}
 details{margin-top:26px;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:10px 12px}
 summary{cursor:pointer;font-family:var(--f-display);letter-spacing:.1em;text-transform:uppercase;font-size:13px;color:var(--mute)}
 .tw{overflow-x:auto;margin-top:10px}
@@ -49,21 +65,8 @@ th{color:var(--mute);font-weight:600}
 
 <div class="kpis" id="kpis"></div>
 
-<h2>Neu dazugekommen pro Tag</h2>
-<div class="grid4">
-  <div class="card"><h3>Events</h3><p>neu entdeckt</p><div class="cv"><canvas id="nEv"></canvas></div></div>
-  <div class="card"><h3>Artists</h3><p>neu entdeckt</p><div class="cv"><canvas id="nArt"></canvas></div></div>
-  <div class="card"><h3>Veranstalter</h3><p>neu entdeckt</p><div class="cv"><canvas id="nCol"></canvas></div></div>
-  <div class="card"><h3>Locations</h3><p>neu entdeckt</p><div class="cv"><canvas id="nVen"></canvas></div></div>
-</div>
-
-<h2>Gefundene Infos im Verlauf</h2>
-<div class="grid">
-  <div class="card"><h3>Kommende Events – Vollständigkeit</h3><p>Anteil der kommenden Events mit …</p><div class="legend" id="lgUp"></div><div class="cv tall"><canvas id="cUp"></canvas></div></div>
-  <div class="card"><h3>Artist-Profile</h3><p>Anzahl Artists mit …</p><div class="legend" id="lgArt"></div><div class="cv tall"><canvas id="cArt"></canvas></div></div>
-  <div class="card"><h3>Veranstalter-Profile</h3><p>Anzahl Veranstalter mit …</p><div class="legend" id="lgCol"></div><div class="cv tall"><canvas id="cCol"></canvas></div></div>
-  <div class="card"><h3>Location-Profile</h3><p>Anzahl Locations mit …</p><div class="legend" id="lgVen"></div><div class="cv tall"><canvas id="cVen"></canvas></div></div>
-</div>
+<div class="h2row"><h2>Vollständigkeit der Infos</h2><div class="seg" role="group" aria-label="Ansicht"><button type="button" data-mode="line" aria-pressed="true">Verlauf</button><button type="button" data-mode="pie" aria-pressed="false">Heute</button></div></div>
+<div class="grid" id="qual"></div>
 
 <h2>Bestand</h2>
 <div class="grid4">
@@ -94,12 +97,10 @@ const fmt=n=>n.toLocaleString("de-AT");
 document.getElementById("sub").textContent=`Stand: ${lbl(last.t)} · ${S.length} Datenstände seit ${dlbl(vday(first.t))} · „neu“ = erstmals in den Daten aufgetaucht (Startbestand am ersten Tag nicht mitgezählt)`;
 const kp=[["Events",last.ev.seen,s=>s.ev.seen,`${fmt(last.ev.up)} kommend`],["Artists",last.art.seen,s=>s.art.seen,`${fmt(last.art.ar)} mit Profil`],["Veranstalter",last.col.seen,s=>s.col.seen,`${fmt(last.col.ci)} mit Profil`],["Locations",last.ven.seen,s=>s.ven.seen,`${fmt(last.ven.logo)} mit Logo`]];
 document.getElementById("kpis").innerHTML=kp.map(([n,v,g,x])=>{const dd=delta(g);return `<div class="kpi"><b>${n}</b><div class="n">${fmt(v)}</div><div class="d"><em>+${fmt(dd[dd.length-1])}</em> heute · <em>+${fmt(v-g(first))}</em> seit Start<br>${x}</div></div>`}).join("");
-Chart.defaults.color=C.mute;Chart.defaults.font.family=css("--f-mono")||"monospace";Chart.defaults.font.size=11;Chart.defaults.borderColor=C.line;
+Chart.defaults.color=C.mute;Chart.defaults.locale="de-AT";Chart.defaults.font.family=css("--f-mono")||"monospace";Chart.defaults.font.size=11;Chart.defaults.borderColor=C.line;
 const base={responsive:true,maintainAspectRatio:false,animation:false,interaction:{mode:"index",intersect:false},
   plugins:{legend:{display:false},tooltip:{backgroundColor:"#0b0d10",borderColor:C.line,borderWidth:1,titleColor:C.fg,bodyColor:C.fg,padding:8,boxPadding:4}},
   scales:{x:{grid:{display:false},ticks:{maxRotation:0,autoSkip:true,maxTicksLimit:7}},y:{beginAtZero:true,grid:{color:"rgba(255,255,255,.06)"},border:{display:false},ticks:{precision:0,maxTicksLimit:5}}}};
-const bar=(id,vals,col)=>{const o=JSON.parse(JSON.stringify(base));o.scales.x.ticks.autoSkip=days.length>8;new Chart(document.getElementById(id),{type:"bar",data:{labels:days.map(d=>innerWidth<640?d.slice(8)+".":dlbl(d).slice(3)),datasets:[{label:"neu",data:vals,backgroundColor:col,borderRadius:{topLeft:4,topRight:4},borderSkipped:"bottom",maxBarThickness:28}]},options:o})};
-bar("nEv",delta(s=>s.ev.seen),C.s1);bar("nArt",delta(s=>s.art.seen),C.s1);bar("nCol",delta(s=>s.col.seen),C.s1);bar("nVen",delta(s=>s.ven.seen),C.s1);
 const L=S.map(s=>lbl(s.t));
 const line=(id,lgId,series,pct,zero=true)=>{const cols=[C.s1,C.s2,C.s3,C.s4,C.s5];
   if(lgId)document.getElementById(lgId).innerHTML=series.map((s,i)=>`<span><i style="background:${cols[i]}"></i>${s[0]}</span>`).join("");
@@ -107,10 +108,28 @@ const line=(id,lgId,series,pct,zero=true)=>{const cols=[C.s1,C.s2,C.s3,C.s4,C.s5
   o.plugins.tooltip.callbacks={title:it=>lbl(it[0].parsed.x),label:c=>` ${c.dataset.label}: ${pct?c.parsed.y.toFixed(0)+" %":fmt(c.parsed.y)}`};
   new Chart(document.getElementById(id),{type:"line",data:{datasets:series.map((s,i)=>({label:s[0],data:S.map(x=>({x:Date.parse(x.t),y:s[1](x)})),borderColor:cols[i],backgroundColor:cols[i],borderWidth:2,pointRadius:0,pointHoverRadius:4,pointHoverBorderColor:"#131519",pointHoverBorderWidth:2,tension:.25}))},options:o})};
 const pc=(a,n)=>n?100*a/n:0;
-line("cUp","lgUp",[["Beschreibung",s=>pc(s.upq.note,s.upq.n)],["Preis",s=>pc(s.upq.price,s.upq.n)],["Line-up",s=>pc(s.upq.lineup,s.upq.n)],["Genres",s=>pc(s.upq.genres,s.upq.n)],["Flyer",s=>pc(s.upq.flyer,s.upq.n)]],true);
-line("cArt","lgArt",[["Links",s=>s.art.links],["Bild",s=>s.art.img],["Bio",s=>s.art.bio],["Sets",s=>s.art.sets]]);
-line("cCol","lgCol",[["Text",s=>s.col.txt],["Website/Instagram",s=>s.col.web],["Logo",s=>s.col.logo]]);
-line("cVen","lgVen",[["Indoor/Outdoor",s=>s.ven.io],["Text",s=>s.ven.txt],["Logo",s=>s.ven.logo]]);
+const Q=[
+ {t:"Kommende Events",p:"Anteil der kommenden Events mit …",tot:s=>s.upq.n,m:[["Beschreibung",s=>s.upq.note],["Preis",s=>s.upq.price],["Line-up",s=>s.upq.lineup],["Genres",s=>s.upq.genres],["Flyer",s=>s.upq.flyer]]},
+ {t:"Artists bei kommenden Events",p:"Anteil der Artists, die demnächst spielen, mit …",tot:s=>s.art.upN||0,m:[["Links",s=>s.art.upLinks||0],["Bild",s=>s.art.upImg||0],["Bio",s=>s.art.upBio||0],["Sets",s=>s.art.upSets||0]]},
+ {t:"Veranstalter bei kommenden Events",p:"Anteil der Veranstalter mit kommenden Events mit …",tot:s=>s.col.upN||0,m:[["Text",s=>s.col.upTxt||0],["Website/Instagram",s=>s.col.upWeb||0],["Logo",s=>s.col.upLogo||0]]},
+ {t:"Locations",p:"Anteil aller Locations mit …",tot:s=>s.ven.now,m:[["Indoor/Outdoor",s=>s.ven.io],["Text",s=>s.ven.txt],["Logo",s=>s.ven.logo]]}];
+const COLS=[C.s1,C.s2,C.s3,C.s4,C.s5];const QC=[];
+const pcs=(v,n)=>n?Math.round(100*v/n):0;
+function renderQ(mode){QC.splice(0).forEach(c=>c.destroy());
+ document.getElementById("qual").innerHTML=Q.map((q,qi)=>{const n=q.tot(last);
+  return `<div class="card"><h3>${q.t}</h3><p>${q.p}</p><table class="mt">${q.m.map((m,i)=>{const v=m[1](last);return `<tr><td><i style="background:${COLS[i]}"></i>${m[0]}</td><td class="ct">${fmt(v)} von ${fmt(n)}</td><td class="pc">${pcs(v,n)} %</td></tr>`}).join("")}</table>${mode==="line"?`<div class="cv tall"><canvas id="q${qi}"></canvas></div>`:`<div class="pies">${q.m.map((m,i)=>`<div class="pie"><div class="pw"><canvas id="q${qi}p${i}"></canvas><b>${pcs(m[1](last),n)} %</b></div><span>${m[0]}</span>${fmt(m[1](last))} / ${fmt(n)}</div>`).join("")}</div>`}</div>`}).join("");
+ Q.forEach((q,qi)=>{
+  if(mode==="line"){const o=JSON.parse(JSON.stringify(base));const t0=new Date(vday(first.t)+"T00:00:00").getTime()-3600e3;
+   o.scales.x={type:"linear",min:t0,max:Math.max(Date.parse(last.t),t0+86400e3),grid:{display:false},ticks:{stepSize:86400e3,maxRotation:0,callback:v=>dlbl(vday(v+3*3600e3)).slice(3)}};
+   o.scales.y.max=100;o.scales.y.ticks.callback=v=>v+" %";
+   o.plugins.tooltip.callbacks={title:it=>lbl(it[0].parsed.x),label:c=>{const s=S[c.dataIndex],m=q.m[c.datasetIndex];return ` ${m[0]}: ${fmt(m[1](s))} von ${fmt(q.tot(s))} (${Math.round(c.parsed.y)} %)`}};
+   QC.push(new Chart(document.getElementById("q"+qi),{type:"line",data:{datasets:q.m.map((m,i)=>({label:m[0],data:S.map(s=>({x:Date.parse(s.t),y:q.tot(s)?100*m[1](s)/q.tot(s):0})),borderColor:COLS[i],backgroundColor:COLS[i],borderWidth:2,pointRadius:0,pointHoverRadius:4,pointHoverBorderColor:"#131519",pointHoverBorderWidth:2,tension:.25}))},options:o}));
+  }else q.m.forEach((m,i)=>{const v=m[1](last),n=q.tot(last);
+   QC.push(new Chart(document.getElementById(`q${qi}p${i}`),{type:"doughnut",data:{labels:[m[0],"ohne"],datasets:[{data:[v,Math.max(0,n-v)],backgroundColor:[COLS[i],"#262a31"],borderColor:"#131519",borderWidth:2}]},options:{responsive:true,maintainAspectRatio:false,animation:false,cutout:"68%",plugins:{legend:{display:false},tooltip:{backgroundColor:"#0b0d10",borderColor:C.line,borderWidth:1,callbacks:{label:c=>` ${c.label}: ${fmt(c.parsed)} (${pcs(c.parsed,n)} %)`}}}}}))})});
+}
+let QM="line";try{QM=localStorage.getItem("rw-statmode")||"line"}catch(_){}
+document.querySelectorAll(".seg button").forEach(b=>{b.setAttribute("aria-pressed",b.dataset.mode===QM);b.onclick=()=>{QM=b.dataset.mode;try{localStorage.setItem("rw-statmode",QM)}catch(_){}document.querySelectorAll(".seg button").forEach(x=>x.setAttribute("aria-pressed",x===b));renderQ(QM)}});
+renderQ(QM);
 line("bUp",null,[["Kommende Events",s=>s.ev.up]],false,false);line("bArt",null,[["Artists",s=>s.art.seen]],false,false);line("bCol",null,[["Veranstalter",s=>s.col.seen]],false,false);line("bVen",null,[["Locations",s=>s.ven.seen]],false,false);
 const nE=delta(s=>s.ev.seen),nA=delta(s=>s.art.seen),nC=delta(s=>s.col.seen),nV=delta(s=>s.ven.seen);
 document.getElementById("tab").innerHTML=`<table><thead><tr><th>Tag</th><th>neue Events</th><th>neue Artists</th><th>neue Veranstalter</th><th>neue Locations</th><th>kommend</th><th>Artists mit Bild</th><th>mit Bio</th><th>Veranst. mit Text</th><th>mit Logo</th></tr></thead><tbody>${days.map((d,i)=>{const s=byDay[d];return `<tr><td>${dlbl(d)}</td><td>${nE[i]}</td><td>${nA[i]}</td><td>${nC[i]}</td><td>${nV[i]}</td><td>${s.ev.up}</td><td>${s.art.img}</td><td>${s.art.bio}</td><td>${s.col.txt}</td><td>${s.col.logo}</td></tr>`}).reverse().join("")}</tbody></table>`;

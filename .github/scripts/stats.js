@@ -40,6 +40,11 @@ for (const [sha, iso] of commits) {
   cols.forEach(x => seen.col.add(x));
   Object.keys(V).filter(v => !skipV(v)).forEach(v => seen.ven.add(fold(v.replace(/ (Wanne|Deck)$/, ""))));
   const up = RAW.filter(e => e.d >= day);
+  const ARf = {}; Object.keys(AR).forEach(k => ARf[fold(k)] = AR[k]);
+  const CIf = {}; Object.keys(CI).forEach(k => CIf[fold(k)] = CI[k]);
+  const upArts = new Set(), upCols = new Set();
+  RAW.filter(e => e.d >= day).forEach(e => { (e.floors || []).forEach(f => (f.a || []).map(nm).flatMap(splitA).forEach(a => upArts.add(fold(a)))); (e.coll || []).forEach(x => upCols.add(fold(x))); });
+  const UA = [...upArts].map(a => ARf[a] || {}), UC = [...upCols].map(x => CIf[x] || {});
   const A = Object.values(AR), C = Object.values(CI), VV = Object.keys(V).filter(v => !skipV(v));
   const has = x => x != null && x !== "" && !(Array.isArray(x) && !x.length);
   snaps.push({
@@ -49,11 +54,14 @@ for (const [sha, iso] of commits) {
       img: A.filter(a => has(a.img)).length,
       bio: A.filter(a => a.bio && (a.bio.de || a.bio.en)).length,
       links: A.filter(a => a.links && Object.values(a.links).some(has)).length,
-      sets: A.filter(a => has(a.sets)).length },
+      sets: A.filter(a => has(a.sets)).length,
+      upN: UA.length, upImg: UA.filter(a => has(a.img)).length, upBio: UA.filter(a => a.bio && (a.bio.de || a.bio.en)).length,
+      upLinks: UA.filter(a => a.links && Object.values(a.links).some(has)).length, upSets: UA.filter(a => has(a.sets)).length },
     col: { seen: seen.col.size, now: cols.size, ci: C.length,
       txt: C.filter(x => has(x.de) || has(x.en)).length,
       logo: C.filter(x => has(x.logo)).length,
-      web: C.filter(x => has(x.web) || has(x.ig)).length },
+      web: C.filter(x => has(x.web) || has(x.ig)).length,
+      upN: UC.length, upTxt: UC.filter(x => has(x.de) || has(x.en)).length, upLogo: UC.filter(x => has(x.logo)).length, upWeb: UC.filter(x => has(x.web) || has(x.ig)).length },
     ven: { seen: seen.ven.size, now: VV.length,
       logo: VV.filter(v => VI[v] && has(VI[v].logo)).length,
       txt: VV.filter(v => VI[v] && (has(VI[v].de) || has(VI[v].en))).length,
