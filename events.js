@@ -572,6 +572,10 @@ const CG={
 };
 const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","AWSM","Bassbussi","Bassclub","Bassproduction","Belly Dance Services","Bestand","Bonkers","Callshop Radio","Cardio Cult","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Dark Pressure","Das Syndikat","deep cut","Drum & Bassick","Dunkelton Kollektiv","Dystopia Rave","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hanzom","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","House of Plüsch","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Little Beat More","LSH","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Ravenbogen","Rude Bwoy Embassy","sama recordings","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Super Disco","Switch!","Synergy","Taktgefühl","Tasteless","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","TUFF","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","Zuckerwatt","Zyklop Audio"];
 const CI={
+ "303": {
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
  "Ponyhof": {
   "de": "Gemeinnütziges Wiener Kollektiv seit 2018. Termine über Instagram.",
   "en": "Non-profit Viennese collective since 2018. Dates via Instagram.",
@@ -852,9 +856,14 @@ const CI={
   "founded": "2022",
   "foundedNote": 1,
   "src": [
-   "https://ohschonhell.at/orte/das+werk/14"
+   "https://ohschonhell.at/orte/das+werk/14",
+   "https://de.ra.co/events/2556025"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "de": "Wöchentliche Rave-Reihe am Mittwoch im Werk, Eintritt gegen freie Spende, mit Awareness-Team.",
+  "en": "Weekly Wednesday rave series at Das Werk, entry by free donation, with an awareness team.",
+  "from": "Wien",
+  "infoChk": "2026-10-31"
  },
  "Euphoria": {
   "founded": "2022",
@@ -1115,6 +1124,42 @@ const CI={
    "Anni Herzer"
   ],
   "man": 1
+ },
+ "KSOT": {
+  "de": "Wiener Event-Agentur von Benedikt Fleischhacker für Techno-Events an besonderen Orten, etwa Hofburg, Schloss Cobenzl oder Wiener Konzerthaus.",
+  "en": "Viennese event agency run by Benedikt Fleischhacker, staging techno events at special venues such as the Hofburg, Schloss Cobenzl or the Wiener Konzerthaus.",
+  "from": "Wien",
+  "tix": "https://ksot.ticket.io/",
+  "src": [
+   "https://www.1000thingsmagazine.com/de/a/2223438/ksot-rave-hofburg-wien/",
+   "https://de.ra.co/dj/ksotsoundsystem"
+  ],
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Auf der Lauer": {
+  "from": "Wien",
+  "src": [
+   "https://ra.co/promoters/176473"
+  ],
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "SIGNAL": {
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Super Disco": {
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Connecting People": {
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "The Hive": {
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
  }
 };
 const VI={
@@ -1925,7 +1970,18 @@ const AR={
    "https://en.wikipedia.org/wiki/Mija_(DJ)"
   ],
   "img": "https://i1.sndcdn.com/avatars-QL7aVE7zOoo3pxkF-zY0tYQ-t500x500.jpg",
-  "man": 1
+  "man": 1,
+  "sets": [
+   {
+    "t": "MIJA 3h DJ Set @ Hot Meal x BCCO NYE 2025",
+    "u": "https://soundcloud.com/hi_mija/mija-3hr-dj-set-hot-meal-x-bcco-nye-2025"
+   },
+   {
+    "t": "MIJA 2h DJ Set live from Lick n Dip, Los Angeles",
+    "u": "https://soundcloud.com/hi_mija/2-hr-dj-set-live-from-lickndip-los-angeles"
+   }
+  ],
+  "setsChecked": "2026-10-31"
  },
  "Prada2000": {
   "from": {
@@ -1995,7 +2051,9 @@ const AR={
   "bio": {
    "de": "PRADA2000 ist ein in Berlin ansässiger DJ und Produzent, den Resident Advisor als aufstrebenden Namen auf der internationalen Bühne beschreibt. Seine energiegeladenen Sets verbinden euphorische Melodien, verspielte Vocals und druckvollen Bass – schnell, spaßig und emotional.",
    "en": "PRADA2000 is a Berlin-based DJ and producer described by Resident Advisor as a rising name on the international stage. His energetic sets blend uplifting melodies, playful vocals and punchy bass – fast, fun and emotional."
-  }
+  },
+  "img": "https://static.ra.co/images/profiles/square/prada2000.jpg?dateUpdated=1770138010373",
+  "infoChk": "2026-10-31"
  },
  "Afem Syko": {
   "from": {
@@ -2012,7 +2070,8 @@ const AR={
   },
   "links": {
    "sc": "https://soundcloud.com/afemsyko",
-   "ra": "https://ra.co/dj/afemsyko"
+   "ra": "https://ra.co/dj/afemsyko",
+   "ig": "https://www.instagram.com/afemsyko"
   },
   "src": [
    "https://www.bandsintown.com/a/15539785-afem-syko",
@@ -2029,7 +2088,16 @@ const AR={
    }
   ],
   "setsChecked": "2026-10-27",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "img": "https://static.ra.co/images/profiles/square/afemsyko.jpg?dateUpdated=1791908005157",
+  "labels": [
+   "Kontor",
+   "Tribe Records",
+   "R Label Group",
+   "EXHALE Records",
+   "Speedmaster Records"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Lisa Korver": {
   "from": {
@@ -2096,7 +2164,9 @@ const AR={
    "Teke Teke",
    "Picante"
   ],
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "img": "https://static.ra.co/images/profiles/square/lisakorver.jpg?dateUpdated=1763572983037",
+  "infoChk": "2026-10-31"
  },
  "Josefina Tapia": {
   "from": {
@@ -2120,7 +2190,13 @@ const AR={
    "https://ra.co/events/2484590",
    "https://ra.co/dj/josefinatapia-2"
   ],
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "img": "https://static.ra.co/images/profiles/square/josefinatapia-2.jpg?dateUpdated=1759191389887",
+  "labels": [
+   "MyHouse YourHouse",
+   "FAFO Records"
+  ],
+  "infoChk": "2026-10-31"
  },
  "DJ Marky": {
   "from": {
@@ -2228,7 +2304,8 @@ const AR={
   ],
   "links": {
    "sc": "https://soundcloud.com/sam_paganini",
-   "web": "https://sampaganini.com"
+   "web": "https://sampaganini.com",
+   "ra": "https://ra.co/dj/sampaganini"
   },
   "src": [
    "https://en.wikipedia.org/wiki/Sam_Paganini",
@@ -2245,7 +2322,9 @@ const AR={
    }
   ],
   "setsChecked": "2026-10-27",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "img": "https://static.ra.co/images/profiles/square/sampaganini.jpg?dateUpdated=1740436287120",
+  "infoChk": "2026-10-31"
  },
  "HVOB": {
   "from": {
@@ -3091,7 +3170,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/ciscoadvent",
    "web": "http://the-advent.com",
-   "sp": "https://open.spotify.com/artist/2viciQWa7lV7FrogoaDvk8"
+   "sp": "https://open.spotify.com/artist/2viciQWa7lV7FrogoaDvk8",
+   "ra": "https://ra.co/dj/theadvent"
   },
   "src": [
    "https://ra.co/dj/theadvent"
@@ -3106,7 +3186,27 @@ const AR={
     "u": "https://soundcloud.com/ciscoadvent/smeerboel-festival-theadvent-2015-dj-set"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/theadvent.jpg?dateUpdated=1510323401000",
+  "from": {
+   "de": "London, UK",
+   "en": "London, UK"
+  },
+  "real": "Cisco Ferreira",
+  "bio": {
+   "de": "Projekt des Londoner Musikers und Sounddesigners Cisco Ferreira, ein Techno-Pionier mit Releases u. a. auf Tresor, Drumcode und Kombination Research.",
+   "en": "Project of London-based musician and sound designer Cisco Ferreira, a techno pioneer with releases on Tresor, Drumcode and Kombination Research, among others."
+  },
+  "labels": [
+   "Tresor",
+   "Drumcode",
+   "Kombination Research",
+   "Tortured Records",
+   "MB Elektronics",
+   "Alchemy",
+   "Synewave"
+  ],
+  "infoChk": "2026-10-31"
  },
  "COZi": {
   "links": {
@@ -3269,7 +3369,8 @@ const AR={
  "k means": {
   "links": {
    "sc": "https://soundcloud.com/k_means",
-   "ig": "https://www.instagram.com/trish_ak_means"
+   "ig": "https://www.instagram.com/trish_ak_means",
+   "ra": "https://ja.ra.co/dj/kmeans"
   },
   "src": [
    "https://ra.co/dj/kmeans"
@@ -3284,7 +3385,17 @@ const AR={
     "u": "https://soundcloud.com/user-643553014/trip-lick-w-k-means-280525"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/kmeans.jpg?dateUpdated=1783454954280",
+  "from": {
+   "de": "Schweden, lebt in Großbritannien",
+   "en": "Sweden, based in the United Kingdom"
+  },
+  "bio": {
+   "de": "DJ aus Schweden mit Wohnsitz in Großbritannien; u. a. Dekmantel-Podcast-Mix und NTS-Gastsendung.",
+   "en": "Swedish DJ based in the United Kingdom; contributed a Dekmantel podcast mix and an NTS guest show."
+  },
+  "infoChk": "2026-10-31"
  },
  "Silentsevir": {
   "links": {
@@ -3594,7 +3705,16 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/rizmo.jpg?dateUpdated=1715964167527",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna, Austria"
+  },
+  "bio": {
+   "de": "DJ aus Wien, spielt vor allem im SASS Music Club und im PRST.",
+   "en": "Vienna-based DJ, playing mostly at SASS Music Club and PRST."
+  },
+  "infoChk": "2026-10-31"
  },
  "Stipo": {
   "links": {
@@ -4234,7 +4354,8 @@ const AR={
    }
   ],
   "setsChecked": "2026-10-28",
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "Alex Maurer": {
   "noLinks": "2026-10-28",
@@ -4294,7 +4415,14 @@ const AR={
    "https://pl.ra.co/dj/saschka",
    "https://ra.co/dj/saschka"
   ],
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "sets": [
+   {
+    "t": "DJ Frauenquote b2b Saschka (Amore Vienna LHF 003)",
+    "u": "https://soundcloud.com/amore-vienna/lhf-003"
+   }
+  ],
+  "setsChecked": "2026-10-31"
  },
  "Weazl": {
   "img": "https://static.ra.co/images/profiles/square/weazl.jpg?dateUpdated=1713883742000",
@@ -4311,12 +4439,28 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/magnetude",
    "bc": "https://magnetude.bandcamp.com",
-   "sc": "https://soundcloud.com/magnetude"
+   "sc": "https://soundcloud.com/magnetude",
+   "ig": "https://www.instagram.com/magnetudeofficial",
+   "web": "https://magnetudemusic.com/"
   },
   "src": [
    "https://ra.co/dj/magnetude"
   ],
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "UK/Russland",
+   "en": "UK/Russia"
+  },
+  "bio": {
+   "de": "Act mit Wurzeln in UK und Russland; Releases u. a. auf Evolution Chamber.",
+   "en": "Act with roots in the UK and Russia; releases on Evolution Chamber among others."
+  },
+  "labels": [
+   "Evolution Chamber"
+  ],
+  "sets": [],
+  "setsChecked": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "dj sweet6teen": {
   "img": "https://static.ra.co/images/profiles/square/djsweet6teen.jpg?dateUpdated=1789122042677",
@@ -4409,7 +4553,9 @@ const AR={
   "noImg": "2026-10-28"
  },
  "PRDK": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "DNBREAK": {
   "noImg": "2026-10-28"
@@ -4579,7 +4725,427 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/anniherzer"
   },
-  "man": 1
+  "man": 1,
+  "sets": [
+   {
+    "t": "Anni Herzer – Live from SASS (HERZZZ)",
+    "u": "https://soundcloud.com/sass-music-club/live-from-sass-anni-herzer-herzzz"
+   },
+   {
+    "t": "121MIN TRAIN-ING [ÖBB Train Party]",
+    "u": "https://soundcloud.com/anniherzer/anniherzer-discozug-230923"
+   }
+  ],
+  "setsChecked": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "DJ Observer": {
+  "img": "https://static.ra.co/images/profiles/djobserver.jpg?dateUpdated=1223075127497",
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "DJ aus Österreich.",
+   "en": "DJ from Austria."
+  },
+  "links": {
+   "ra": "https://de.ra.co/dj/djobserver",
+   "web": "https://www.djobserver.com"
+  },
+  "src": [
+   "https://de.ra.co/dj/djobserver"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "THAM": {
+  "img": "https://static.ra.co/images/profiles/tham.jpg?dateUpdated=1471451515047",
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "bio": {
+   "de": "DJ und Produzent aus Berlin mit Releases u. a. auf R Label Group, Lebendig, Ismus und Destroy To Rebuild Records.",
+   "en": "Berlin-based DJ and producer with releases on R Label Group, Lebendig, Ismus and Destroy To Rebuild Records, among others."
+  },
+  "labels": [
+   "R Label Group",
+   "Lebendig",
+   "Ismus",
+   "Destroy To Rebuild Records",
+   "Deestricted"
+  ],
+  "links": {
+   "ra": "https://de.ra.co/dj/tham",
+   "sc": "https://www.soundcloud.com/thambln"
+  },
+  "src": [
+   "https://de.ra.co/dj/tham"
+  ],
+  "sets": [
+   {
+    "t": "THAM @ Hör Berlin (Februar 2025)",
+    "u": "https://soundcloud.com/thambln/hoer-berlin-february-2025"
+   },
+   {
+    "t": "THAM – Techno Germany Podcast 102",
+    "u": "https://soundcloud.com/technogermany/tham-techno-germany-podcast-102"
+   }
+  ],
+  "setsChecked": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "E.LINA": {
+  "img": "https://static.ra.co/images/profiles/square/e-lina.jpg?dateUpdated=1684773635000",
+  "from": {
+   "de": "Ukraine, lebt in Berlin",
+   "en": "Ukraine, based in Berlin"
+  },
+  "bio": {
+   "de": "Multidisziplinäre Künstlerin aus Berlin mit Wurzeln in der ukrainischen Underground-Szene, bekannt als leidenschaftliche Plattensammlerin und Diggerin.",
+   "en": "Berlin-based multidisciplinary artist from the Ukrainian underground scene, known for her passion for records and digging."
+  },
+  "links": {
+   "ra": "https://ra.co/dj/e-lina",
+   "sc": "https://www.soundcloud.com/elinaelian",
+   "ig": "https://www.instagram.com/e.lina.elian",
+   "web": "https://linktr.ee/e.lina.dj"
+  },
+  "src": [
+   "https://ra.co/dj/e-lina"
+  ],
+  "sets": [
+   {
+    "t": "E.LINA @ Club der Visionaere (09.08.2023)",
+    "u": "https://soundcloud.com/elinaelian/elina-cdv-mixxxx"
+   },
+   {
+    "t": "DDC Mix 006 – E.Lina",
+    "u": "https://soundcloud.com/diasdecampo/ddc-mix-006-elina"
+   }
+  ],
+  "setsChecked": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Max Styler": {
+  "img": "https://static.ra.co/images/profiles/square/maxstyler.jpg?dateUpdated=1759778202897",
+  "from": {
+   "de": "Kalifornien, USA",
+   "en": "California, USA"
+  },
+  "bio": {
+   "de": "Produzent und DJ aus Kalifornien mit fast zehn Jahren Produktionserfahrung; Releases u. a. auf Diynamic, Truesoul und Kraftek.",
+   "en": "California-born producer and DJ with nearly a decade of production experience; releases on Diynamic, Truesoul and Kraftek, among others."
+  },
+  "labels": [
+   "Diynamic Music",
+   "Truesoul",
+   "Kraftek",
+   "REALM"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/maxstyler"
+  },
+  "src": [
+   "https://ra.co/dj/maxstyler"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Kyau & Albert": {
+  "img": "https://static.ra.co/images/profiles/kyaualbert.jpg?dateUpdated=1256751105000",
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "Duo aus Ralph Kyau und Steven Möbius Albert, früher als Kyau vs. Albert bekannt.",
+   "en": "Duo of Ralph Kyau and Steven Moebius Albert, formerly known as Kyau vs. Albert."
+  },
+  "links": {
+   "ra": "https://ra.co/dj/kyaualbert",
+   "web": "https://www.kyauandalbert.com/en/en.html"
+  },
+  "src": [
+   "https://ra.co/dj/kyaualbert"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Minor Forms": {
+  "img": "https://static.ra.co/images/profiles/square/minorforms.jpg?dateUpdated=1711361301000",
+  "from": {
+   "de": "London, UK",
+   "en": "London, UK"
+  },
+  "bio": {
+   "de": "Drum-&-Bass-Produzent und DJ aus London; Releases auf C.I.A.",
+   "en": "Drum & bass producer and DJ from London; releases on C.I.A."
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "C.I.A."
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/minorforms"
+  },
+  "src": [
+   "https://ra.co/dj/minorforms"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Michel Lauriola": {
+  "img": "https://static.ra.co/images/profiles/square/michellauriola.jpg?dateUpdated=1486390644390",
+  "from": {
+   "de": "Buenos Aires, Argentinien",
+   "en": "Buenos Aires, Argentina"
+  },
+  "bio": {
+   "de": "Italienische Wurzeln, in Venezuela geboren, lebt in Buenos Aires. Releases u. a. auf Credo, Naked Lunch, Android Muziq und Gynoid Audio.",
+   "en": "Italian roots, born in Venezuela, based in Buenos Aires. Releases on Credo, Naked Lunch, Android Muziq and Gynoid Audio, among others."
+  },
+  "labels": [
+   "Credo",
+   "Naked Lunch Records",
+   "Android Muziq",
+   "TMM Records",
+   "Selected Records",
+   "Illegal Alien Records",
+   "Gynoid Audio",
+   "Different is Different Records"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/michellauriola",
+   "sc": "https://www.soundcloud.com/michellauriola"
+  },
+  "src": [
+   "https://ra.co/dj/michellauriola"
+  ],
+  "sets": [
+   {
+    "t": "Michel Lauriola @ Disorder #139",
+    "u": "https://soundcloud.com/connectch/disorder-139"
+   }
+  ],
+  "setsChecked": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Peter Portman": {
+  "img": "https://static.ra.co/images/profiles/peterportman.jpg?dateUpdated=1471996800000",
+  "from": {
+   "de": "Serbien",
+   "en": "Serbia"
+  },
+  "bio": {
+   "de": "DJ aus Serbien, Resident der Beat-Partys und Teilnehmer der Burn Residency 2016; Releases u. a. auf Neptuun City, ROMP und Mindless Records.",
+   "en": "DJ from Serbia, resident of the Beat parties and Burn Residency 2016 contestant; releases on Neptuun City, ROMP and Mindless Records, among others."
+  },
+  "labels": [
+   "Neptuun City",
+   "Patent Skillz",
+   "Parabola",
+   "ROMP",
+   "Mindless Records"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/peterportman",
+   "sc": "https://www.soundcloud.com/peterportman93"
+  },
+  "src": [
+   "https://ra.co/dj/peterportman",
+   "https://ra.co/events/2361147"
+  ],
+  "sets": [
+   {
+    "t": "NWDCAST022 – Peter Portman",
+    "u": "https://soundcloud.com/nowwedeep/nwdcast022-peter-portman"
+   }
+  ],
+  "setsChecked": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "The Dark Horror": {
+  "noImg": "2026-10-31",
+  "bio": {
+   "de": "Hardcore-Produzent mit Kollaborationen u. a. mit Guizcore, Deadly Guns, Major Conspiracy und Dual Damage.",
+   "en": "Hardcore producer with collaborations with Guizcore, Deadly Guns, Major Conspiracy and Dual Damage, among others."
+  },
+  "tracks": [
+   "In The Pit",
+   "Heavy Energy",
+   "FENDI ON MY EYES"
+  ],
+  "links": {
+   "sp": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
+  },
+  "src": [
+   "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "The Straikerz": {
+  "img": "https://i.scdn.co/image/ab6761610000e5ebf889cf24b9ebd129d03f3a10",
+  "bio": {
+   "de": "Act mit Singles wie „Highscore“, „Kill The Beat“ und „Beat Of The Drum“ sowie Kollaborationen u. a. mit Arzadous, Adjuzt und Sound Rush.",
+   "en": "Act with singles such as \"Highscore\", \"Kill The Beat\" and \"Beat Of The Drum\" and collaborations with Arzadous, Adjuzt and Sound Rush, among others."
+  },
+  "tracks": [
+   "Highscore",
+   "Kill The Beat",
+   "Beat Of The Drum",
+   "Pain"
+  ],
+  "links": {
+   "sp": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+  },
+  "src": [
+   "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Pinotello": {
+  "noImg": "2026-10-31",
+  "tracks": [
+   "Gotta Die",
+   "BadBoy Sound",
+   "BRUTAL KAOZ"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/pinostacks"
+  },
+  "infoChk": "2026-10-31"
+ },
+ "Poley Tight": {
+  "noImg": "2026-10-31",
+  "tracks": [
+   "Engel des Todes",
+   "Blasphemous Traitors"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/poleytight"
+  },
+  "sets": [
+   {
+    "t": "Poley Tight @ Dominator 2024",
+    "u": "https://soundcloud.com/dominatorfestival/dominator-2024-poley-tight"
+   }
+  ],
+  "setsChecked": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Schlot": {
+  "noImg": "2026-10-31",
+  "tracks": [
+   "Legacy of Chaos (Freedom of Hardcore Intro)",
+   "The Underworld",
+   "Hard Beats"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/therealschlot"
+  },
+  "infoChk": "2026-10-31"
+ },
+ "Outlined": {
+  "noImg": "2026-10-31",
+  "links": {
+   "sc": "https://soundcloud.com/user-530319358"
+  },
+  "infoChk": "2026-10-31"
+ },
+ "NEXUS": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "SAMI": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "DJ Fred": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "zey": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Santo": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Chrome": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "j.around": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Lenz Rausch": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Scheibosan": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "C12": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Floer Klamauk": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Stalinsky": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "DJ Shady MF": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Sonic Warfare": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Another Dimension": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Emkatress": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Fractured Souls": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Eternal Injustice vs Raw Kickzz": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Recovered": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  }
 };
 const VG={
