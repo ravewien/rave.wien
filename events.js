@@ -600,7 +600,6 @@ const CI={
   ],
   "membersSrc": "https://ponyhof-official.at/",
   "logo": "https://ponyhof-official.at/wp-content/uploads/2021/06/cropped-ponyhof_sticker_Black_rainbow-II-270x270.png",
-  "logoBg": "#ffffff",
   "type": [
    "Kollektiv"
   ],
