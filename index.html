@@ -220,11 +220,7 @@ body.vw-loc{--accent:var(--c-ven);--accent-fg:#06140a;--sel:#173f20}
 .cal .ev.pastev:hover,.cal .ev.pastev[aria-current="true"]{opacity:.8}
 .cal .dots i.pd{opacity:.35}
 .row.pastrow{opacity:.55}
-.cov.live img,.lgt.fly.live img{border-radius:50% !important;-webkit-mask:radial-gradient(circle,transparent 0 5%,#000 5.5%);mask:radial-gradient(circle,transparent 0 5%,#000 5.5%);animation:rwspin 3.2s linear infinite}
-.row.tk>.cov.live::before{border-radius:50%;animation:rwspin 3.2s linear infinite}
 .cov.done img,.lgt.fly.done img{filter:grayscale(1) brightness(.75)}
-@keyframes rwspin{to{transform:rotate(360deg)}}
-@media (prefers-reduced-motion:reduce){.cov.live img,.lgt.fly.live img,.row.tk>.cov.live::before{animation:none}}
 .deck.isp h2{color:var(--mute)}
 .morebtn{margin-top:8px;background:none;border:1px solid var(--line);border-radius:3px;color:var(--mute);font-size:12px;padding:5px 12px}
 .morebtn:hover{color:var(--fg)}
