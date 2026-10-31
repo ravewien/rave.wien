@@ -4,7 +4,7 @@ name: Vorschauseiten
 on:
   push:
     branches: [main]
-    paths: [events.js, .github/scripts/previews.js]
+    paths: [events.js, past.js, .github/scripts/previews.js, .github/scripts/stats.js]
   workflow_dispatch:
 permissions:
   contents: write
@@ -16,18 +16,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 20
       - name: Seiten erzeugen
         run: node .github/scripts/previews.js
+      - name: Statistik erzeugen
+        run: node .github/scripts/stats.js
       - name: Speichern
         run: |
           git config user.name "rave.wien Vorschau"
           git config user.email "ravewien@users.noreply.github.com"
-          git add e a c v
+          git add e a c v stats.json
           if git diff --cached --quiet; then echo "Keine Änderungen."; exit 0; fi
-          git commit -m "Vorschauseiten aktualisiert"
+          git commit -m "Vorschauseiten und Statistik aktualisiert"
           for i in 1 2 3 4 5; do
             git pull --rebase -q origin main && git push -q origin HEAD:main && exit 0
             sleep $((i*5))

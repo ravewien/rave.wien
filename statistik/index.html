@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="de"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>rave.wien Statistik</title>
+<link rel="stylesheet" href="/fonts.css">
+<style>
+:root{--bg:#08090b;--panel:#131519;--panel2:#1a1d22;--line:#2a2e36;--fg:#e9ecf1;--mute:#8f96a3;--accent:#1f8bff;
+--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;
+--f-pixel:"Doto","Courier New",monospace;--f-display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;--f-body:"Barlow","Helvetica Neue",Arial,sans-serif;--f-mono:"JetBrains Mono",ui-monospace,Menlo,monospace;color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.45 var(--f-body)}
+main{max-width:1180px;margin:0 auto;padding:22px 16px 60px}
+h1{font-family:var(--f-pixel);font-weight:900;font-size:30px;margin:0;letter-spacing:.02em;text-transform:lowercase}
+h1 i{display:inline-block;width:.16em;height:.16em;background:var(--accent);margin:0 .12em 0 0}
+h1 small{font-family:var(--f-mono);font-size:12px;color:var(--accent);font-weight:700;margin-left:10px;letter-spacing:.06em;text-transform:none}
+.sub{color:var(--mute);font-size:13px;margin:6px 0 22px}
+h2{font-family:var(--f-display);font-weight:700;letter-spacing:.12em;text-transform:uppercase;font-size:14px;color:var(--mute);margin:30px 0 10px}
+.kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.kpi{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:14px 14px 12px}
+.kpi b{display:block;font-family:var(--f-display);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--mute);font-weight:700}
+.kpi .n{font-family:var(--f-mono);font-size:30px;font-weight:700;margin:4px 0 2px}
+.kpi .d{font-family:var(--f-mono);font-size:12px;color:var(--mute)}
+.kpi .d em{font-style:normal;color:var(--fg)}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.grid4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:12px 12px 8px;min-width:0}
+.card h3{margin:0 0 2px;font-size:14px;font-weight:600}
+.card p{margin:0 0 8px;color:var(--mute);font-size:12px}
+.cv{position:relative;height:200px}
+.cv.tall{height:260px}
+.legend{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:12px;color:var(--mute);margin:0 0 6px}
+.legend span{display:inline-flex;align-items:center;gap:5px}
+.legend i{width:12px;height:3px;border-radius:2px;display:inline-block}
+details{margin-top:26px;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:10px 12px}
+summary{cursor:pointer;font-family:var(--f-display);letter-spacing:.1em;text-transform:uppercase;font-size:13px;color:var(--mute)}
+.tw{overflow-x:auto;margin-top:10px}
+table{border-collapse:collapse;font-family:var(--f-mono);font-size:12px;width:100%}
+th,td{padding:4px 8px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+th:first-child,td:first-child{text-align:left}
+th{color:var(--mute);font-weight:600}
+.err{color:#ff8a9a}
+@media (max-width:900px){.kpis,.grid4{grid-template-columns:repeat(2,minmax(0,1fr))}.grid{grid-template-columns:1fr}}
+@media (max-width:420px){.kpi .n{font-size:24px}}
+</style>
+</head><body><main>
+<h1>rave<i></i>wien<small>statistik</small></h1>
+<div class="sub" id="sub">Lade Daten …</div>
+
+<div class="kpis" id="kpis"></div>
+
+<h2>Neu dazugekommen pro Tag</h2>
+<div class="grid4">
+  <div class="card"><h3>Events</h3><p>neu entdeckt</p><div class="cv"><canvas id="nEv"></canvas></div></div>
+  <div class="card"><h3>Artists</h3><p>neu entdeckt</p><div class="cv"><canvas id="nArt"></canvas></div></div>
+  <div class="card"><h3>Veranstalter</h3><p>neu entdeckt</p><div class="cv"><canvas id="nCol"></canvas></div></div>
+  <div class="card"><h3>Locations</h3><p>neu entdeckt</p><div class="cv"><canvas id="nVen"></canvas></div></div>
+</div>
+
+<h2>Gefundene Infos im Verlauf</h2>
+<div class="grid">
+  <div class="card"><h3>Kommende Events – Vollständigkeit</h3><p>Anteil der kommenden Events mit …</p><div class="legend" id="lgUp"></div><div class="cv tall"><canvas id="cUp"></canvas></div></div>
+  <div class="card"><h3>Artist-Profile</h3><p>Anzahl Artists mit …</p><div class="legend" id="lgArt"></div><div class="cv tall"><canvas id="cArt"></canvas></div></div>
+  <div class="card"><h3>Veranstalter-Profile</h3><p>Anzahl Veranstalter mit …</p><div class="legend" id="lgCol"></div><div class="cv tall"><canvas id="cCol"></canvas></div></div>
+  <div class="card"><h3>Location-Profile</h3><p>Anzahl Locations mit …</p><div class="legend" id="lgVen"></div><div class="cv tall"><canvas id="cVen"></canvas></div></div>
+</div>
+
+<h2>Bestand</h2>
+<div class="grid4">
+  <div class="card"><h3>Kommende Events</h3><p>im Kalender</p><div class="cv"><canvas id="bUp"></canvas></div></div>
+  <div class="card"><h3>Artists</h3><p>bekannt insgesamt</p><div class="cv"><canvas id="bArt"></canvas></div></div>
+  <div class="card"><h3>Veranstalter</h3><p>bekannt insgesamt</p><div class="cv"><canvas id="bCol"></canvas></div></div>
+  <div class="card"><h3>Locations</h3><p>bekannt insgesamt</p><div class="cv"><canvas id="bVen"></canvas></div></div>
+</div>
+
+<details><summary>Tabelle pro Tag</summary><div class="tw" id="tab"></div></details>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script>
+(async()=>{
+const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const C={s1:css("--s1"),s2:css("--s2"),s3:css("--s3"),s4:css("--s4"),s5:css("--s5"),mute:css("--mute"),line:css("--line"),fg:css("--fg"),acc:css("--accent")};
+let data;try{data=await (await fetch("/stats.json?"+Date.now(),{cache:"no-store"})).json()}catch(e){document.getElementById("sub").innerHTML='<span class="err">Statistik konnte nicht geladen werden.</span>';return}
+const S=data.snaps;if(!S.length)return;
+const vday=t=>new Date(t).toLocaleDateString("sv-SE",{timeZone:"Europe/Vienna"});
+const lbl=t=>new Date(t).toLocaleString("de-AT",{timeZone:"Europe/Vienna",day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
+const dlbl=d=>{const [y,m,t]=d.split("-");return ["So","Mo","Di","Mi","Do","Fr","Sa"][new Date(d+"T12:00:00").getDay()]+" "+t+"."+m+"."};
+// letzte Momentaufnahme pro Tag
+const byDay={};S.forEach(s=>byDay[vday(s.t)]=s);const days=Object.keys(byDay).sort();
+const first=S[0],last=S[S.length-1];
+const delta=(get)=>days.map((d,i)=>get(byDay[d])-(i?get(byDay[days[i-1]]):get(first)));
+const today=days[days.length-1];
+const fmt=n=>n.toLocaleString("de-AT");
+document.getElementById("sub").textContent=`Stand: ${lbl(last.t)} · ${S.length} Datenstände seit ${dlbl(vday(first.t))} · „neu“ = erstmals in den Daten aufgetaucht (Startbestand am ersten Tag nicht mitgezählt)`;
+const kp=[["Events",last.ev.seen,s=>s.ev.seen,`${fmt(last.ev.up)} kommend`],["Artists",last.art.seen,s=>s.art.seen,`${fmt(last.art.ar)} mit Profil`],["Veranstalter",last.col.seen,s=>s.col.seen,`${fmt(last.col.ci)} mit Profil`],["Locations",last.ven.seen,s=>s.ven.seen,`${fmt(last.ven.logo)} mit Logo`]];
+document.getElementById("kpis").innerHTML=kp.map(([n,v,g,x])=>{const dd=delta(g);return `<div class="kpi"><b>${n}</b><div class="n">${fmt(v)}</div><div class="d"><em>+${fmt(dd[dd.length-1])}</em> heute · <em>+${fmt(v-g(first))}</em> seit Start<br>${x}</div></div>`}).join("");
+Chart.defaults.color=C.mute;Chart.defaults.font.family=css("--f-mono")||"monospace";Chart.defaults.font.size=11;Chart.defaults.borderColor=C.line;
+const base={responsive:true,maintainAspectRatio:false,animation:false,interaction:{mode:"index",intersect:false},
+  plugins:{legend:{display:false},tooltip:{backgroundColor:"#0b0d10",borderColor:C.line,borderWidth:1,titleColor:C.fg,bodyColor:C.fg,padding:8,boxPadding:4}},
+  scales:{x:{grid:{display:false},ticks:{maxRotation:0,autoSkip:true,maxTicksLimit:7}},y:{beginAtZero:true,grid:{color:"rgba(255,255,255,.06)"},border:{display:false},ticks:{precision:0,maxTicksLimit:5}}}};
+const bar=(id,vals,col)=>{const o=JSON.parse(JSON.stringify(base));o.scales.x.ticks.autoSkip=days.length>8;new Chart(document.getElementById(id),{type:"bar",data:{labels:days.map(d=>innerWidth<640?d.slice(8)+".":dlbl(d).slice(3)),datasets:[{label:"neu",data:vals,backgroundColor:col,borderRadius:{topLeft:4,topRight:4},borderSkipped:"bottom",maxBarThickness:28}]},options:o})};
+bar("nEv",delta(s=>s.ev.seen),C.s1);bar("nArt",delta(s=>s.art.seen),C.s1);bar("nCol",delta(s=>s.col.seen),C.s1);bar("nVen",delta(s=>s.ven.seen),C.s1);
+const L=S.map(s=>lbl(s.t));
+const line=(id,lgId,series,pct,zero=true)=>{const cols=[C.s1,C.s2,C.s3,C.s4,C.s5];
+  if(lgId)document.getElementById(lgId).innerHTML=series.map((s,i)=>`<span><i style="background:${cols[i]}"></i>${s[0]}</span>`).join("");
+  const o=JSON.parse(JSON.stringify(base));o.scales.y.beginAtZero=zero;const t0=new Date(vday(first.t)+"T00:00:00").getTime()-3600e3;o.scales.x={type:"linear",min:t0,max:Math.max(Date.parse(last.t),t0+86400e3),grid:{display:false},ticks:{stepSize:86400e3,maxRotation:0,callback:v=>dlbl(vday(v+3*3600e3)).slice(3)}};if(pct){o.scales.y.max=100;o.scales.y.ticks.callback=v=>v+" %"}
+  o.plugins.tooltip.callbacks={title:it=>lbl(it[0].parsed.x),label:c=>` ${c.dataset.label}: ${pct?c.parsed.y.toFixed(0)+" %":fmt(c.parsed.y)}`};
+  new Chart(document.getElementById(id),{type:"line",data:{datasets:series.map((s,i)=>({label:s[0],data:S.map(x=>({x:Date.parse(x.t),y:s[1](x)})),borderColor:cols[i],backgroundColor:cols[i],borderWidth:2,pointRadius:0,pointHoverRadius:4,pointHoverBorderColor:"#131519",pointHoverBorderWidth:2,tension:.25}))},options:o})};
+const pc=(a,n)=>n?100*a/n:0;
+line("cUp","lgUp",[["Beschreibung",s=>pc(s.upq.note,s.upq.n)],["Preis",s=>pc(s.upq.price,s.upq.n)],["Line-up",s=>pc(s.upq.lineup,s.upq.n)],["Genres",s=>pc(s.upq.genres,s.upq.n)],["Flyer",s=>pc(s.upq.flyer,s.upq.n)]],true);
+line("cArt","lgArt",[["Links",s=>s.art.links],["Bild",s=>s.art.img],["Bio",s=>s.art.bio],["Sets",s=>s.art.sets]]);
+line("cCol","lgCol",[["Text",s=>s.col.txt],["Website/Instagram",s=>s.col.web],["Logo",s=>s.col.logo]]);
+line("cVen","lgVen",[["Indoor/Outdoor",s=>s.ven.io],["Text",s=>s.ven.txt],["Logo",s=>s.ven.logo]]);
+line("bUp",null,[["Kommende Events",s=>s.ev.up]],false,false);line("bArt",null,[["Artists",s=>s.art.seen]],false,false);line("bCol",null,[["Veranstalter",s=>s.col.seen]],false,false);line("bVen",null,[["Locations",s=>s.ven.seen]],false,false);
+const nE=delta(s=>s.ev.seen),nA=delta(s=>s.art.seen),nC=delta(s=>s.col.seen),nV=delta(s=>s.ven.seen);
+document.getElementById("tab").innerHTML=`<table><thead><tr><th>Tag</th><th>neue Events</th><th>neue Artists</th><th>neue Veranstalter</th><th>neue Locations</th><th>kommend</th><th>Artists mit Bild</th><th>mit Bio</th><th>Veranst. mit Text</th><th>mit Logo</th></tr></thead><tbody>${days.map((d,i)=>{const s=byDay[d];return `<tr><td>${dlbl(d)}</td><td>${nE[i]}</td><td>${nA[i]}</td><td>${nC[i]}</td><td>${nV[i]}</td><td>${s.ev.up}</td><td>${s.art.img}</td><td>${s.art.bio}</td><td>${s.col.txt}</td><td>${s.col.logo}</td></tr>`}).reverse().join("")}</tbody></table>`;
+})();
+</script>
+</body></html>

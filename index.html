@@ -1769,6 +1769,7 @@ if(EMBED&&!CONS)showBanner();
 .edbar[hidden]{display:none}
 .edbar b{color:#e3b341}
 .edbar button{border:1px solid var(--line);background:transparent;color:var(--fg);border-radius:3px;padding:5px 9px;font:700 11px var(--f-mono);letter-spacing:.05em;text-transform:uppercase;cursor:pointer}
+.edbar .edstat{border:1px solid var(--line);color:var(--fg);border-radius:3px;padding:5px 9px;font:700 11px var(--f-mono);letter-spacing:.05em;text-transform:uppercase;text-decoration:none}
 .edbar button.go{background:#e3b341;border-color:#e3b341;color:#111}
 .edbar .msg{color:var(--mute);font-size:11.5px;flex-basis:100%}
 .edmod{position:fixed;inset:0;z-index:230;background:rgba(0,0,0,.72);display:flex;justify-content:center;align-items:flex-start;overflow:auto;padding:24px 12px}
@@ -1932,7 +1933,7 @@ let tmsg="";function toast(t){tmsg=t;drawBar();setTimeout(()=>{if(tmsg===t){tmsg
 function drawBar(){const bar=$("edbar");if(!ON){bar.hidden=true;return}const list=Object.values(EDITS).filter(d=>d.status==="pending");
   const err=Object.values(EDITS).filter(d=>d.status==="error");
   bar.hidden=false;bar.innerHTML=`<span>✎ <b>${list.length}</b> ausstehend${err.length?` · <span style="color:#ff6b6b">${err.length} Fehler</span>`:""}</span>
-   <button type="button" data-edlist>Ansehen</button><button type="button" data-ednew="ev">＋ Event</button>
+   <button type="button" data-edlist>Ansehen</button><button type="button" data-ednew="ev">＋ Event</button><a href="https://rave.wien/statistik/" target="_blank" rel="noopener" class="edstat">Statistik ↗</a>
    ${list.length?`<button type="button" class="go" data-edlive>Live schalten</button>`:""}${tmsg?`<span class="msg">${esc(tmsg)}</span>`:""}`;
   document.querySelectorAll(".deck[data-card]").forEach(decorate)}
 function showList(){const box=$("edbox");const all=Object.entries(EDITS).sort((a,b)=>(b[1].ts||0)-(a[1].ts||0)).slice(0,60);
