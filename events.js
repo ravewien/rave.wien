@@ -2589,14 +2589,21 @@ const AR={
    "Ponyhof"
   ],
   "links": {
-   "sc": "https://soundcloud.com/ponyhof_official",
-   "ig": "https://www.instagram.com/_ponyhof_official/"
+   "sc": "https://soundcloud.com/benjamindibora",
+   "ig": "https://www.instagram.com/benjamindibora"
   },
   "src": [
    "https://ponyhof-official.at/",
    "https://ponyhof-official.at/en/"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "sets": [
+   {
+    "t": "Opening Set For Wehbba And Luft Liebe Pratersauna",
+    "u": "https://soundcloud.com/benjamindibora/opening-set-for-wehbba-and-luft-liebe-pratersauna"
+   }
+  ],
+  "man": 1
  },
  "Da_Mike": {
   "img": "https://ponyhof-official.at/wp-content/themes/ponyhof/assets/img/jockeys/damike.webp",
@@ -2704,14 +2711,25 @@ const AR={
    "Ponyhof"
   ],
   "links": {
-   "sc": "https://soundcloud.com/ponyhof_official",
-   "ig": "https://www.instagram.com/_ponyhof_official/"
+   "sc": "https://soundcloud.com/david-penz-987684508",
+   "ig": "https://www.instagram.com/ravedave_dj/"
   },
   "src": [
    "https://ponyhof-official.at/",
    "https://ponyhof-official.at/en/"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "genres": [
+   "Hard Bounce",
+   "Bounce"
+  ],
+  "sets": [
+   {
+    "t": "Ponyhof Raveodave Radio Rudina",
+    "u": "https://soundcloud.com/radiorudina/ponyhof-raveodave-radio-rudina"
+   }
+  ],
+  "man": 1
  },
  "Feni": {
   "img": "https://ponyhof-official.at/wp-content/themes/ponyhof/assets/img/jockeys/feni.webp",
