@@ -5,7 +5,7 @@
 <title>rave.wien Statistik</title>
 <link rel="stylesheet" href="/fonts.css">
 <style>
-:root{--bg:#08090b;--panel:#131519;--panel2:#1a1d22;--line:#2a2e36;--fg:#e9ecf1;--mute:#8f96a3;--accent:#1f8bff;
+:root{--bg:#08090b;--panel:#131519;--line:#2a2e36;--fg:#e9ecf1;--mute:#8f96a3;--accent:#1f8bff;--srch:#7d8491;
 --s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;
 --f-pixel:"Doto","Courier New",monospace;--f-display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;--f-body:"Barlow","Helvetica Neue",Arial,sans-serif;--f-mono:"JetBrains Mono",ui-monospace,Menlo,monospace;color-scheme:dark}
 *{box-sizing:border-box}
@@ -14,129 +14,119 @@ main{max-width:1180px;margin:0 auto;padding:22px 16px 60px}
 h1{font-family:var(--f-pixel);font-weight:900;font-size:30px;margin:0;letter-spacing:.02em;text-transform:lowercase}
 h1 i{display:inline-block;width:.16em;height:.16em;background:var(--accent);margin:0 .12em 0 0}
 h1 small{font-family:var(--f-mono);font-size:12px;color:var(--accent);font-weight:700;margin-left:10px;letter-spacing:.06em;text-transform:none}
-.sub{color:var(--mute);font-size:13px;margin:6px 0 22px}
-h2{font-family:var(--f-display);font-weight:700;letter-spacing:.12em;text-transform:uppercase;font-size:14px;color:var(--mute);margin:30px 0 10px}
-.kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
-.kpi{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:14px 14px 12px}
-.kpi b{display:block;font-family:var(--f-display);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--mute);font-weight:700}
-.kpi .n{font-family:var(--f-mono);font-size:30px;font-weight:700;margin:4px 0 2px}
-.kpi .d{font-family:var(--f-mono);font-size:12px;color:var(--mute)}
-.kpi .d em{font-style:normal;color:var(--fg)}
-.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
-.grid4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
-.card{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:12px 12px 8px;min-width:0}
-.card h3{margin:0 0 2px;font-size:14px;font-weight:600}
-.card p{margin:0 0 8px;color:var(--mute);font-size:12px}
-.cv{position:relative;height:200px}
-.cv.tall{height:260px}
-.legend{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:12px;color:var(--mute);margin:0 0 6px}
-.legend span{display:inline-flex;align-items:center;gap:5px}
-.legend i{width:12px;height:3px;border-radius:2px;display:inline-block}
-.h2row{display:flex;align-items:flex-end;justify-content:space-between;gap:10px;margin:30px 0 10px}
-.h2row h2{margin:0}
-.seg{display:inline-flex;border:1px solid var(--line);border-radius:4px;overflow:hidden}
-.seg button{background:transparent;border:0;color:var(--mute);font:700 11px var(--f-mono);letter-spacing:.06em;text-transform:uppercase;padding:6px 12px;cursor:pointer}
+.sub{color:var(--mute);font-size:13px;margin:6px 0 18px}
+.ctl{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;justify-content:space-between;margin:0 0 12px;position:sticky;top:0;z-index:5;background:var(--bg);padding:8px 0}
+.ctl .lab{font-family:var(--f-display);font-weight:700;letter-spacing:.12em;text-transform:uppercase;font-size:12px;color:var(--mute);margin-right:8px}
+.seg{display:inline-flex;flex-wrap:wrap;border:1px solid var(--line);border-radius:4px;overflow:hidden}
+.seg button{background:transparent;border:0;border-left:1px solid var(--line);color:var(--mute);font:700 11px var(--f-mono);letter-spacing:.04em;text-transform:uppercase;padding:7px 11px;cursor:pointer}
+.seg button:first-child{border-left:0}
 .seg button[aria-pressed="true"]{background:var(--accent);color:#fff}
+.rnote{color:var(--mute);font-size:12px;margin:-4px 0 12px}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:14px 14px 10px;min-width:0}
+.ch{display:flex;align-items:baseline;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.ch h3{margin:0;font-family:var(--f-display);font-weight:700;letter-spacing:.12em;text-transform:uppercase;font-size:14px;color:var(--mute)}
+.ch .n{font-family:var(--f-mono);font-size:28px;font-weight:700}
+.nw{font-family:var(--f-mono);font-size:12px;color:var(--mute);margin:0 0 8px}
+.nw em{font-style:normal;color:var(--fg)}
 .mt{width:100%;border-collapse:collapse;font-family:var(--f-mono);font-size:12px;margin:2px 0 8px}
-.mt td{padding:3px 4px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+.mt td{padding:4px 4px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
 .mt td:first-child{text-align:left;font-family:var(--f-body);font-size:13px}
-.mt td:first-child i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+.mt td:first-child i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:7px;vertical-align:-1px}
+.mt td:first-child i.dash{height:0;width:14px;border-top:2px dashed var(--srch);border-radius:0;vertical-align:3px}
 .mt td.pc{color:var(--fg);font-weight:700;width:52px}
 .mt td.ct{color:var(--mute)}
 .mt tr.sr td{color:var(--mute);border-bottom:0}
-.mt td:first-child i.dash{height:0;border-top:2px dashed #7d8491;border-radius:0;vertical-align:3px}
-.pies{display:grid;grid-template-columns:repeat(auto-fill,minmax(110px,1fr));gap:8px;margin-top:4px}
+.mt tr.sr td.pc{color:var(--mute)}
+.cv{position:relative;height:220px}
+.cv.small{height:90px;margin-top:6px}
+.cvl{font-size:11px;color:var(--mute);margin:8px 0 0}
+.pies{display:grid;grid-template-columns:repeat(auto-fill,minmax(100px,1fr));gap:8px;margin-top:4px}
 .pie{text-align:center;font-size:12px;color:var(--mute)}
-.pie .pw{position:relative;height:96px}
-.pie .pw b{position:absolute;inset:0;display:grid;place-items:center;font:700 15px var(--f-mono);color:var(--fg);pointer-events:none}
+.pie .pw{position:relative;height:90px}
+.pie .pw b{position:absolute;inset:0;display:grid;place-items:center;font:700 14px var(--f-mono);color:var(--fg);pointer-events:none}
 .pie span{display:block;margin-top:2px;color:var(--fg)}
-details{margin-top:26px;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:10px 12px}
+details{margin-top:22px;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:10px 12px}
 summary{cursor:pointer;font-family:var(--f-display);letter-spacing:.1em;text-transform:uppercase;font-size:13px;color:var(--mute)}
 .tw{overflow-x:auto;margin-top:10px}
-table{border-collapse:collapse;font-family:var(--f-mono);font-size:12px;width:100%}
-th,td{padding:4px 8px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
-th:first-child,td:first-child{text-align:left}
-th{color:var(--mute);font-weight:600}
+table.tb{border-collapse:collapse;font-family:var(--f-mono);font-size:12px;width:100%}
+.tb th,.tb td{padding:4px 8px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+.tb th:first-child,.tb td:first-child{text-align:left}
+.tb th{color:var(--mute);font-weight:600}
 .err{color:#ff8a9a}
-@media (max-width:900px){.kpis,.grid4{grid-template-columns:repeat(2,minmax(0,1fr))}.grid{grid-template-columns:1fr}}
-@media (max-width:420px){.kpi .n{font-size:24px}}
+@media (max-width:900px){.grid{grid-template-columns:1fr}}
 </style>
 </head><body><main>
 <h1>rave<i></i>wien<small>statistik</small></h1>
 <div class="sub" id="sub">Lade Daten …</div>
-
-<div class="kpis" id="kpis"></div>
-
-<div class="h2row"><h2>Vollständigkeit der Infos</h2><div class="seg" role="group" aria-label="Ansicht"><button type="button" data-mode="line" aria-pressed="true">Verlauf</button><button type="button" data-mode="pie" aria-pressed="false">Heute</button></div></div>
-<div class="grid" id="qual"></div>
-
-<h2>Bestand</h2>
-<div class="grid4">
-  <div class="card"><h3>Kommende Events</h3><p>im Kalender</p><div class="cv"><canvas id="bUp"></canvas></div></div>
-  <div class="card"><h3>Artists</h3><p>bekannt insgesamt</p><div class="cv"><canvas id="bArt"></canvas></div></div>
-  <div class="card"><h3>Veranstalter</h3><p>bekannt insgesamt</p><div class="cv"><canvas id="bCol"></canvas></div></div>
-  <div class="card"><h3>Locations</h3><p>bekannt insgesamt</p><div class="cv"><canvas id="bVen"></canvas></div></div>
+<div class="ctl">
+  <div><span class="lab">Zeitraum</span><div class="seg" id="segR" role="group" aria-label="Zeitraum">
+    <button type="button" data-r="all">Alle Events</button><button type="button" data-r="d7">Diese Woche</button><button type="button" data-r="d14">2 Wochen</button><button type="button" data-r="d28">4 Wochen</button><button type="button" data-r="up">Alle kommenden</button></div></div>
+  <div><span class="lab">Ansicht</span><div class="seg" id="segM" role="group" aria-label="Ansicht"><button type="button" data-m="line">Verlauf</button><button type="button" data-m="pie">Heute</button></div></div>
 </div>
-
+<div class="rnote" id="rnote"></div>
+<div class="grid" id="cards"></div>
 <details><summary>Tabelle pro Tag</summary><div class="tw" id="tab"></div></details>
 </main>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <script>
 (async()=>{
 const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
-const C={s1:css("--s1"),s2:css("--s2"),s3:css("--s3"),s4:css("--s4"),s5:css("--s5"),mute:css("--mute"),line:css("--line"),fg:css("--fg"),acc:css("--accent")};
+const COLS=[css("--s1"),css("--s2"),css("--s3"),css("--s4"),css("--s5")],SR=css("--srch"),LINE=css("--line"),FG=css("--fg"),MUTE=css("--mute"),ACC=css("--accent");
 let data;try{data=await (await fetch("/stats.json?"+Date.now(),{cache:"no-store"})).json()}catch(e){document.getElementById("sub").innerHTML='<span class="err">Statistik konnte nicht geladen werden.</span>';return}
-const S=data.snaps;if(!S.length)return;
+const S=(data.snaps||[]).filter(s=>s.r);if(!S.length){document.getElementById("sub").textContent="Noch keine Daten.";return}
 const vday=t=>new Date(t).toLocaleDateString("sv-SE",{timeZone:"Europe/Vienna"});
 const lbl=t=>new Date(t).toLocaleString("de-AT",{timeZone:"Europe/Vienna",day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
 const dlbl=d=>{const [y,m,t]=d.split("-");return ["So","Mo","Di","Mi","Do","Fr","Sa"][new Date(d+"T12:00:00").getDay()]+" "+t+"."+m+"."};
-// letzte Momentaufnahme pro Tag
-const byDay={};S.forEach(s=>byDay[vday(s.t)]=s);const days=Object.keys(byDay).sort();
-const first=S[0],last=S[S.length-1];
-const delta=(get)=>days.map((d,i)=>get(byDay[d])-(i?get(byDay[days[i-1]]):get(first)));
-const today=days[days.length-1];
-const fmt=n=>n.toLocaleString("de-AT");
-document.getElementById("sub").textContent=`Stand: ${lbl(last.t)} · ${S.length} Datenstände seit ${dlbl(vday(first.t))} · „neu“ = erstmals in den Daten aufgetaucht (Startbestand am ersten Tag nicht mitgezählt)`;
-const kp=[["Events",last.ev.seen,s=>s.ev.seen,`${fmt(last.ev.up)} kommend`],["Artists",last.art.seen,s=>s.art.seen,`${fmt(last.art.ar)} mit Profil`],["Veranstalter",last.col.seen,s=>s.col.seen,`${fmt(last.col.ci)} mit Profil`],["Locations",last.ven.seen,s=>s.ven.seen,`${fmt(last.ven.logo)} mit Logo`]];
-document.getElementById("kpis").innerHTML=kp.map(([n,v,g,x])=>{const dd=delta(g);return `<div class="kpi"><b>${n}</b><div class="n">${fmt(v)}</div><div class="d"><em>+${fmt(dd[dd.length-1])}</em> heute · <em>+${fmt(v-g(first))}</em> seit Start<br>${x}</div></div>`}).join("");
-Chart.defaults.color=C.mute;Chart.defaults.locale="de-AT";Chart.defaults.font.family=css("--f-mono")||"monospace";Chart.defaults.font.size=11;Chart.defaults.borderColor=C.line;
-const base={responsive:true,maintainAspectRatio:false,animation:false,interaction:{mode:"index",intersect:false},
-  plugins:{legend:{display:false},tooltip:{backgroundColor:"#0b0d10",borderColor:C.line,borderWidth:1,titleColor:C.fg,bodyColor:C.fg,padding:8,boxPadding:4}},
-  scales:{x:{grid:{display:false},ticks:{maxRotation:0,autoSkip:true,maxTicksLimit:7}},y:{beginAtZero:true,grid:{color:"rgba(255,255,255,.06)"},border:{display:false},ticks:{precision:0,maxTicksLimit:5}}}};
-const L=S.map(s=>lbl(s.t));
-const line=(id,lgId,series,pct,zero=true)=>{const cols=[C.s1,C.s2,C.s3,C.s4,C.s5];
-  if(lgId)document.getElementById(lgId).innerHTML=series.map((s,i)=>`<span><i style="background:${cols[i]}"></i>${s[0]}</span>`).join("");
-  const o=JSON.parse(JSON.stringify(base));o.scales.y.beginAtZero=zero;const t0=new Date(vday(first.t)+"T00:00:00").getTime()-3600e3;o.scales.x={type:"linear",min:t0,max:Math.max(Date.parse(last.t),t0+86400e3),grid:{display:false},ticks:{stepSize:86400e3,maxRotation:0,callback:v=>dlbl(vday(v+3*3600e3)).slice(3)}};if(pct){o.scales.y.max=100;o.scales.y.ticks.callback=v=>v+" %"}
-  o.plugins.tooltip.callbacks={title:it=>lbl(it[0].parsed.x),label:c=>` ${c.dataset.label}: ${pct?c.parsed.y.toFixed(0)+" %":fmt(c.parsed.y)}`};
-  new Chart(document.getElementById(id),{type:"line",data:{datasets:series.map((s,i)=>({label:s[0],data:S.map(x=>({x:Date.parse(x.t),y:s[1](x)})),borderColor:cols[i],backgroundColor:cols[i],borderWidth:2,pointRadius:0,pointHoverRadius:4,pointHoverBorderColor:"#131519",pointHoverBorderWidth:2,tension:.25}))},options:o})};
-const pc=(a,n)=>n?100*a/n:0;
-const Q=[
- {t:"Kommende Events",p:"Anteil der kommenden Events mit …",tot:s=>s.upq.n,m:[["Beschreibung",s=>s.upq.note],["Preis",s=>s.upq.price],["Line-up",s=>s.upq.lineup],["Genres",s=>s.upq.genres],["Flyer",s=>s.upq.flyer]]},
- {t:"Artists bei kommenden Events",p:"Anteil der Artists, die demnächst spielen, mit …",tot:s=>s.art.upN||0,sr:s=>s.art.upSrch||0,srl:"schon gesucht",m:[["Links",s=>s.art.upLinks||0],["Bild",s=>s.art.upImg||0],["Bio",s=>s.art.upBio||0],["Sets",s=>s.art.upSets||0]]},
- {t:"Veranstalter bei kommenden Events",p:"Anteil der Veranstalter mit kommenden Events mit …",tot:s=>s.col.upN||0,sr:s=>s.col.upSrch||0,srl:"schon gesucht",m:[["Text",s=>s.col.upTxt||0],["Website/Instagram",s=>s.col.upWeb||0],["Logo",s=>s.col.upLogo||0]]},
- {t:"Locations",p:"Anteil aller Locations mit …",tot:s=>s.ven.now,sr:s=>s.ven.srch||0,srl:"Logo gesucht",m:[["Indoor/Outdoor",s=>s.ven.io],["Text",s=>s.ven.txt],["Logo",s=>s.ven.logo]]}];
-const COLS=[C.s1,C.s2,C.s3,C.s4,C.s5];const QC=[];
-const pcs=(v,n)=>n?Math.round(100*v/n):0;
-function renderQ(mode){QC.splice(0).forEach(c=>c.destroy());
- document.getElementById("qual").innerHTML=Q.map((q,qi)=>{const n=q.tot(last);
-  return `<div class="card"><h3>${q.t}</h3><p>${q.p}</p><table class="mt">${q.m.map((m,i)=>{const v=m[1](last);return `<tr><td><i style="background:${COLS[i]}"></i>${m[0]}</td><td class="ct">${fmt(v)} von ${fmt(n)}</td><td class="pc">${pcs(v,n)} %</td></tr>`}).join("")}${q.sr?`<tr class="sr"><td><i class="dash"></i>${q.srl}</td><td class="ct">${fmt(q.sr(last))} von ${fmt(n)}</td><td class="pc">${pcs(q.sr(last),n)} %</td></tr>`:""}</table>${mode==="line"?`<div class="cv tall"><canvas id="q${qi}"></canvas></div>`:`<div class="pies">${q.sr?`<div class="pie"><div class="pw"><canvas id="q${qi}ps"></canvas><b>${pcs(q.sr(last),n)} %</b></div><span>${q.srl}</span>${fmt(q.sr(last))} / ${fmt(n)}</div>`:""}${q.m.map((m,i)=>`<div class="pie"><div class="pw"><canvas id="q${qi}p${i}"></canvas><b>${pcs(m[1](last),n)} %</b></div><span>${m[0]}</span>${fmt(m[1](last))} / ${fmt(n)}</div>`).join("")}</div>`}</div>`}).join("");
- Q.forEach((q,qi)=>{
-  if(mode==="line"){const o=JSON.parse(JSON.stringify(base));const t0=new Date(vday(first.t)+"T00:00:00").getTime()-3600e3;
-   o.scales.x={type:"linear",min:t0,max:Math.max(Date.parse(last.t),t0+86400e3),grid:{display:false},ticks:{stepSize:86400e3,maxRotation:0,callback:v=>dlbl(vday(v+3*3600e3)).slice(3)}};
-   o.scales.y.max=100;o.scales.y.ticks.callback=v=>v+" %";
-   o.plugins.tooltip.callbacks={title:it=>lbl(it[0].parsed.x),label:c=>{const s=S[c.dataIndex],m=q.m[c.datasetIndex]||[q.srl,q.sr];return ` ${m[0]}: ${fmt(m[1](s))} von ${fmt(q.tot(s))} (${Math.round(c.parsed.y)} %)`}};
-   const ds=q.m.map((m,i)=>({label:m[0],data:S.map(s=>({x:Date.parse(s.t),y:q.tot(s)?100*m[1](s)/q.tot(s):0})),borderColor:COLS[i],backgroundColor:COLS[i],borderWidth:2,pointRadius:0,pointHoverRadius:4,pointHoverBorderColor:"#131519",pointHoverBorderWidth:2,tension:.25}));
-   if(q.sr)ds.push({label:q.srl,data:S.map(s=>({x:Date.parse(s.t),y:q.tot(s)?100*q.sr(s)/q.tot(s):0})),borderColor:"#7d8491",backgroundColor:"#7d8491",borderDash:[5,4],borderWidth:2,pointRadius:0,pointHoverRadius:4,tension:.25});
-   QC.push(new Chart(document.getElementById("q"+qi),{type:"line",data:{datasets:ds},options:o}));
-  }else{if(q.sr){const v=q.sr(last),n=q.tot(last);QC.push(new Chart(document.getElementById(`q${qi}ps`),{type:"doughnut",data:{labels:[q.srl,"noch nicht"],datasets:[{data:[v,Math.max(0,n-v)],backgroundColor:["#7d8491","#262a31"],borderColor:"#131519",borderWidth:2}]},options:{responsive:true,maintainAspectRatio:false,animation:false,cutout:"68%",plugins:{legend:{display:false},tooltip:{backgroundColor:"#0b0d10",borderColor:C.line,borderWidth:1,callbacks:{label:c=>` ${c.label}: ${fmt(c.parsed)} (${pcs(c.parsed,n)} %)`}}}}}))} q.m.forEach((m,i)=>{const v=m[1](last),n=q.tot(last);
-   QC.push(new Chart(document.getElementById(`q${qi}p${i}`),{type:"doughnut",data:{labels:[m[0],"ohne"],datasets:[{data:[v,Math.max(0,n-v)],backgroundColor:[COLS[i],"#262a31"],borderColor:"#131519",borderWidth:2}]},options:{responsive:true,maintainAspectRatio:false,animation:false,cutout:"68%",plugins:{legend:{display:false},tooltip:{backgroundColor:"#0b0d10",borderColor:C.line,borderWidth:1,callbacks:{label:c=>` ${c.label}: ${fmt(c.parsed)} (${pcs(c.parsed,n)} %)`}}}}}))})}});
+const fmt=n=>(n||0).toLocaleString("de-AT");const pcs=(v,n)=>n?Math.round(100*v/n):0;
+const first=S[0],last=S[S.length-1],FD=dlbl(data.first||vday(first.t)).slice(3);
+document.getElementById("sub").textContent=`Stand: ${lbl(last.t)} · ${S.length} Datenstände seit ${FD} · „neu“ = erstmals in den Daten aufgetaucht (der Bestand vom ${FD} zählt nicht als neu)`;
+const RN={all:"Alle Events inklusive Archiv seit 2024. Bei vergangenen Events gibt es weniger Felder (kein Flyer, keine Genres).",d7:"Events in den nächsten 7 Tagen und alle Artists, Veranstalter und Locations, die darin vorkommen.",d14:"Events in den nächsten 14 Tagen und alle Artists, Veranstalter und Locations, die darin vorkommen.",d28:"Events in den nächsten 28 Tagen und alle Artists, Veranstalter und Locations, die darin vorkommen.",up:"Alle kommenden Events im Kalender und alle Artists, Veranstalter und Locations, die darin vorkommen."};
+const CAT=[
+ {k:"ev",t:"Events",sl:"schon geprüft",m:[["Beschreibung","note"],["Preis","price"],["Line-up","lineup"],["Genres","genres"],["Flyer","flyer"]]},
+ {k:"art",t:"Artists",sl:"schon gesucht",m:[["Links","links"],["Bild","img"],["Bio","bio"],["Sets","sets"]]},
+ {k:"col",t:"Veranstalter",sl:"schon gesucht",m:[["Text","txt"],["Website/Instagram","web"],["Logo","logo"]]},
+ {k:"ven",t:"Locations",sl:"schon gesucht",m:[["Indoor/Outdoor","io"],["Text","txt"],["Logo","logo"]]}];
+Chart.defaults.color=MUTE;Chart.defaults.locale="de-AT";Chart.defaults.font.family=css("--f-mono")||"monospace";Chart.defaults.font.size=11;Chart.defaults.borderColor=LINE;
+const tip={backgroundColor:"#0b0d10",borderColor:LINE,borderWidth:1,titleColor:FG,bodyColor:FG,padding:8,boxPadding:4};
+const t0=new Date(vday(first.t)+"T00:00:00").getTime()-3600e3,t1=Math.max(Date.parse(last.t),t0+86400e3);
+const xax={type:"linear",min:t0,max:t1,grid:{display:false},ticks:{stepSize:86400e3,maxRotation:0,callback:v=>dlbl(vday(v+3*3600e3)).slice(3)}};
+let R="d14",M="line";try{R=localStorage.getItem("rw-statR")||R;M=localStorage.getItem("rw-statM")||M}catch(_){}
+const CH=[];
+function render(){CH.splice(0).forEach(c=>c.destroy());
+ document.querySelectorAll("#segR button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.r===R));
+ document.querySelectorAll("#segM button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.m===M));
+ document.getElementById("rnote").textContent=RN[R];
+ const g=(s,k)=>s.r[R][k];
+ document.getElementById("cards").innerHTML=CAT.map((c,ci)=>{const L=g(last,c.k),n=L.n;
+  return `<div class="card"><div class="ch"><h3>${c.t}</h3><span class="n">${fmt(n)}</span></div>
+   <div class="nw"><em>+${fmt(L.newDay)}</em> neu heute · <em>+${fmt(L.newSince)}</em> neu seit ${FD}</div>
+   <table class="mt">${c.m.map((m,i)=>`<tr><td><i style="background:${COLS[i]}"></i>${m[0]}</td><td class="ct">${fmt(L[m[1]])} von ${fmt(n)}</td><td class="pc">${pcs(L[m[1]],n)} %</td></tr>`).join("")}
+   <tr class="sr"><td><i class="dash"></i>${c.sl}</td><td class="ct">${fmt(L.srch)} von ${fmt(n)}</td><td class="pc">${pcs(L.srch,n)} %</td></tr></table>
+   ${M==="line"?`<div class="cv"><canvas id="c${ci}"></canvas></div><div class="cvl">Anzahl im Verlauf</div><div class="cv small"><canvas id="c${ci}n"></canvas></div>`:
+   `<div class="pies"><div class="pie"><div class="pw"><canvas id="c${ci}ps"></canvas><b>${pcs(L.srch,n)} %</b></div><span>${c.sl}</span>${fmt(L.srch)} / ${fmt(n)}</div>${c.m.map((m,i)=>`<div class="pie"><div class="pw"><canvas id="c${ci}p${i}"></canvas><b>${pcs(L[m[1]],n)} %</b></div><span>${m[0]}</span>${fmt(L[m[1]])} / ${fmt(n)}</div>`).join("")}</div>`}</div>`}).join("");
+ CAT.forEach((c,ci)=>{
+  if(M==="line"){
+   const ds=c.m.map((m,i)=>({label:m[0],key:m[1],data:S.map(s=>{const o=g(s,c.k);return {x:Date.parse(s.t),y:o.n?100*o[m[1]]/o.n:0}}),borderColor:COLS[i],backgroundColor:COLS[i],borderWidth:2,pointRadius:0,pointHoverRadius:4,pointHoverBorderColor:"#131519",pointHoverBorderWidth:2,tension:.25}));
+   ds.push({label:c.sl,key:"srch",data:S.map(s=>{const o=g(s,c.k);return {x:Date.parse(s.t),y:o.n?100*o.srch/o.n:0}}),borderColor:SR,backgroundColor:SR,borderDash:[5,4],borderWidth:2,pointRadius:0,pointHoverRadius:4,tension:.25});
+   CH.push(new Chart(document.getElementById("c"+ci),{type:"line",data:{datasets:ds},options:{responsive:true,maintainAspectRatio:false,animation:false,interaction:{mode:"index",intersect:false},
+    plugins:{legend:{display:false},tooltip:Object.assign({},tip,{callbacks:{title:it=>lbl(it[0].parsed.x),label:x=>{const o=g(S[x.dataIndex],c.k),k=x.dataset.key;return ` ${x.dataset.label}: ${fmt(o[k])} von ${fmt(o.n)} (${Math.round(x.parsed.y)} %)`}}})},
+    scales:{x:xax,y:{min:0,max:100,grid:{color:"rgba(255,255,255,.06)"},border:{display:false},ticks:{maxTicksLimit:5,callback:v=>v+" %"}}}}}));
+   const vals=S.map(s=>g(s,c.k).n),mn=Math.min(...vals),mx=Math.max(...vals),pad=Math.max(1,Math.round((mx-mn)*.15));
+   CH.push(new Chart(document.getElementById("c"+ci+"n"),{type:"line",data:{datasets:[{label:"Anzahl",data:S.map(s=>({x:Date.parse(s.t),y:g(s,c.k).n})),borderColor:FG,backgroundColor:FG,borderWidth:1.5,pointRadius:0,pointHoverRadius:3,tension:.25}]},
+    options:{responsive:true,maintainAspectRatio:false,animation:false,interaction:{mode:"index",intersect:false},plugins:{legend:{display:false},tooltip:Object.assign({},tip,{callbacks:{title:it=>lbl(it[0].parsed.x),label:x=>` ${c.t}: ${fmt(x.parsed.y)}`}})},
+    scales:{x:Object.assign({},xax,{ticks:{display:false},border:{display:false}}),y:{min:Math.max(0,mn-pad),max:mx+pad,grid:{color:"rgba(255,255,255,.06)"},border:{display:false},ticks:{maxTicksLimit:3,precision:0}}}}}));
+  }else{const L=g(last,c.k),n=L.n;
+   const donut=(id,v,col,lab)=>CH.push(new Chart(document.getElementById(id),{type:"doughnut",data:{labels:[lab,"ohne"],datasets:[{data:[v,Math.max(0,n-v)],backgroundColor:[col,"#262a31"],borderColor:"#131519",borderWidth:2}]},
+    options:{responsive:true,maintainAspectRatio:false,animation:false,cutout:"68%",plugins:{legend:{display:false},tooltip:Object.assign({},tip,{callbacks:{label:x=>` ${x.label}: ${fmt(x.parsed)} (${pcs(x.parsed,n)} %)`}})}}}));
+   donut(`c${ci}ps`,L.srch,SR,c.sl);c.m.forEach((m,i)=>donut(`c${ci}p${i}`,L[m[1]],COLS[i],m[0]))}
+ });
+ const byDay={};S.forEach(s=>byDay[vday(s.t)]=s);const days=Object.keys(byDay).sort().reverse();
+ document.getElementById("tab").innerHTML=`<table class="tb"><thead><tr><th>Tag</th>${CAT.map(c=>`<th>${c.t}</th><th>neu</th><th>${c.sl}</th>`).join("")}</tr></thead><tbody>${days.map(d=>{const s=byDay[d];return `<tr><td>${dlbl(d)}</td>${CAT.map(c=>{const o=g(s,c.k);return `<td>${fmt(o.n)}</td><td>+${fmt(o.newDay)}</td><td>${fmt(o.srch)}</td>`}).join("")}</tr>`}).join("")}</tbody></table>`;
 }
-let QM="line";try{QM=localStorage.getItem("rw-statmode")||"line"}catch(_){}
-document.querySelectorAll(".seg button").forEach(b=>{b.setAttribute("aria-pressed",b.dataset.mode===QM);b.onclick=()=>{QM=b.dataset.mode;try{localStorage.setItem("rw-statmode",QM)}catch(_){}document.querySelectorAll(".seg button").forEach(x=>x.setAttribute("aria-pressed",x===b));renderQ(QM)}});
-renderQ(QM);
-line("bUp",null,[["Kommende Events",s=>s.ev.up]],false,false);line("bArt",null,[["Artists",s=>s.art.seen]],false,false);line("bCol",null,[["Veranstalter",s=>s.col.seen]],false,false);line("bVen",null,[["Locations",s=>s.ven.seen]],false,false);
-const nE=delta(s=>s.ev.seen),nA=delta(s=>s.art.seen),nC=delta(s=>s.col.seen),nV=delta(s=>s.ven.seen);
-document.getElementById("tab").innerHTML=`<table><thead><tr><th>Tag</th><th>neue Events</th><th>neue Artists</th><th>neue Veranstalter</th><th>neue Locations</th><th>kommend</th><th>Artists mit Bild</th><th>mit Bio</th><th>Veranst. mit Text</th><th>mit Logo</th></tr></thead><tbody>${days.map((d,i)=>{const s=byDay[d];return `<tr><td>${dlbl(d)}</td><td>${nE[i]}</td><td>${nA[i]}</td><td>${nC[i]}</td><td>${nV[i]}</td><td>${s.ev.up}</td><td>${s.art.img}</td><td>${s.art.bio}</td><td>${s.col.txt}</td><td>${s.col.logo}</td></tr>`}).reverse().join("")}</tbody></table>`;
+document.querySelectorAll("#segR button").forEach(b=>b.onclick=()=>{R=b.dataset.r;try{localStorage.setItem("rw-statR",R)}catch(_){}render()});
+document.querySelectorAll("#segM button").forEach(b=>b.onclick=()=>{M=b.dataset.m;try{localStorage.setItem("rw-statM",M)}catch(_){}render()});
+render();
 })();
 </script>
 </body></html>
