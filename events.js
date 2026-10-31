@@ -103,7 +103,7 @@ const S={
  "smt": "sunmoon.ticket.io"
 };
 const SO=["hg","un","pt","wm","ftr","ksot","stepf","awsm","bio","kore","tl","rr","srd","sw","gl","smt"];
-const VR={"Grelle Forelle":{"age":"21+","sound":{"de":"Alcons Audio + Lambda Labs","en":"Alcons Audio + Lambda Labs","src":"https://www.properformance.audio/articles/grelle-forelle-mainfloor","floors":{"main":{"de":"Alcons Audio QR36 Line Arrays, 8× Lambda Labs DW-15 Subs","en":"Alcons Audio QR36 line arrays, 8× Lambda Labs DW-15 subs"},"kitchen":{"de":"Lambda Labs (MF-15A Subs, TX-2A, CX-1A Monitore)","en":"Lambda Labs (MF-15A subs, TX-2A, CX-1A monitors)","src":"https://lambda-labs.com/en/references/grelle-forelle"}}}},"Das Werk":{"age":"21+","sound":{"de":"Alcons Audio RR12 + Eigenbau-Subwoofer (12× 15\")","en":"Alcons Audio RR12 + custom subwoofer (12× 15\")","src":"https://www.prosoundweb.com/art-culture-venue-in-austria-outfitted-with-alcons-audio/"}},"SASS Music Club":{"age":"18+","aw":1,"sound":{"de":"Beschallung mit Alcons-Audio-Lautsprechern (Pro-Ribbon-Technologie), installiert von Pro Performance.","en":"Alcons Audio loudspeakers (pro-ribbon technology), installed by Pro Performance.","src":"https://properformance.at/en/projects/club/club-sass-wien/"}},"O der Klub":{"age":"18+"},"FLUCC Wanne":{"aw":1},"Club Exil":{"sound":{"de":"Lambda-Labs-Soundsystem: Auf dem Mainfloor ein 90°-QX-Setup mit 20 DH-18-Subwoofern.","en":"Lambda Labs sound system: a 90° QX setup with 20 DH-18 subwoofers on the main floor.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series","floors":{"mainfloor":{"de":"Lambda Labs QX in 90°-Anordnung mit 20 DH-18-Subwoofern.","en":"Lambda Labs QX in a 90° configuration with 20 DH-18 subwoofers.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series"}}}},"The Loft":{"sound":{"de":"KV2-Anlage im Keller (Dancefloor Unten).","en":"KV2 sound system in the basement (Unten dancefloor).","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056","floors":{"Unten":{"de":"KV2-Anlage","en":"KV2 sound system","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056"}}}}};
+const VR={"Grelle Forelle":{"age":"21+","sound":{"de":"Alcons Audio + Lambda Labs","en":"Alcons Audio + Lambda Labs","src":"https://www.properformance.audio/articles/grelle-forelle-mainfloor","floors":{"main":{"de":"Alcons Audio QR36 Line Arrays, 8× Lambda Labs DW-15 Subs","en":"Alcons Audio QR36 line arrays, 8× Lambda Labs DW-15 subs"},"kitchen":{"de":"Lambda Labs (MF-15A Subs, TX-2A, CX-1A Monitore)","en":"Lambda Labs (MF-15A subs, TX-2A, CX-1A monitors)","src":"https://lambda-labs.com/en/references/grelle-forelle"}}}},"Das Werk":{"age":"21+","sound":{"de":"Alcons Audio RR12 + Eigenbau-Subwoofer (12× 15\")","en":"Alcons Audio RR12 + custom subwoofer (12× 15\")","src":"https://www.prosoundweb.com/art-culture-venue-in-austria-outfitted-with-alcons-audio/"}},"SASS Music Club":{"age":"18+","aw":1,"sound":{"de":"Beschallung mit Alcons-Audio-Lautsprechern (Pro-Ribbon-Technologie), installiert von Pro Performance.","en":"Alcons Audio loudspeakers (pro-ribbon technology), installed by Pro Performance.","src":"https://properformance.at/en/projects/club/club-sass-wien/"}},"O der Klub":{"age":"18+"},"FLUCC Wanne":{"aw":1},"Club Exil":{"sound":{"de":"Lambda-Labs-Soundsystem: Auf dem Mainfloor ein 90°-QX-Setup mit 20 DH-18-Subwoofern.","en":"Lambda Labs sound system: a 90° QX setup with 20 DH-18 subwoofers on the main floor.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series","floors":{"mainfloor":{"de":"Lambda Labs QX in 90°-Anordnung mit 20 DH-18-Subwoofern.","en":"Lambda Labs QX in a 90° configuration with 20 DH-18 subwoofers.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series"}}}},"The Loft":{"sound":{"de":"KV2-Anlage im Keller (Dancefloor Unten).","en":"KV2 sound system in the basement (Unten dancefloor).","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056","floors":{"Unten":{"de":"KV2-Anlage","en":"KV2 sound system","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056"}}}},"Flex":{"sound":{"de":"Alcons-Soundsystem (Planung/Installation Pro Performance seit 2007): Main Floor seit 2022 mit 8 Alcons QR24 und 2 QM24 als L/R-Arrays, 4 BC543-Cardioid-Bässen und dem berühmten Beton-Horn-Subwoofer; Flex Café mit Alcons LR18; im Außenbereich die früheren QR36.","en":"Alcons sound system (designed/installed by Pro Performance since 2007): since 2022 the main floor runs 8 Alcons QR24 plus 2 QM24 as L/R arrays, 4 BC543 cardioid subs and the famous concrete horn subwoofers; the Flex Café uses Alcons LR18; the former QR36 now cover the outdoor area.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex","floors":{"Main Floor":{"de":"8× Alcons QR24 (4× QR24/80, 4× QR24/110) + 2× QM24 als L/R-Arrays, 4× BC543 Cardioid-Bass, Beton-Horn-Subwoofer mit je vier 15\"-Treibern pro Seite.","en":"8× Alcons QR24 (4× QR24/80, 4× QR24/110) + 2× QM24 as L/R arrays, 4× BC543 cardioid bass, concrete horn subwoofers with four 15\" drivers per side.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex"},"Flex Café":{"de":"Alcons LR18 Pro-Ribbon-Line-Array links/rechts der Bühne, Bässe in End-Fire-Anordnung.","en":"Alcons LR18 pro-ribbon line array left/right of the stage, subs in end-fire configuration.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex"}}}},"PRST":{"sound":{"de":"Lambda-Labs-Soundsystem von Pro Performance Sound + Acoustics (Wolfgang Sauter): Lambda Labs QX als Haupt-PA, horizontales Double-Endfire-Array aus 8 DH-18-Subwoofern vor und hinter dem DJ-Pult, DJ-Monitoring mit CB-Design-15\"-Subs und Lambda Labs TX-3A; Active Noise Control zwischen Clubraum und Bar.","en":"Lambda Labs sound system by Pro Performance Sound + Acoustics (Wolfgang Sauter): Lambda Labs QX main PA, a horizontal double end-fire array of 8 DH-18 subwoofers in front of and behind the DJ booth, DJ monitoring with CB-Design 15\" subs and Lambda Labs TX-3A; active noise control between club room and bar.","src":"https://www.lewitt-audio.com/blog/PRST-audio-experience"}}};
 const CG={
  "303": [
   "Drum & Bass",
@@ -112,7 +112,10 @@ const CG={
  "Im Freudentaumel": [
   "Downtempo",
   "Deep House",
-  "Techno"
+  "Techno",
+  "Midtempo",
+  "House",
+  "Psy-Techno"
  ],
  "Herzfrequenz": [
   "Trance",
@@ -782,11 +785,13 @@ const CI={
   "from": "Wien",
   "src": [
    "https://ra.co/events/1927240",
-   "https://ohschonhell.at/orte/flucc/50"
+   "https://ohschonhell.at/orte/flucc/50",
+   "https://de.ra.co/events/1827218"
   ],
   "founded": "2022",
   "foundedNote": 1,
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "infoChk": "2026-10-31"
  },
  "Zuckerwatt": {
   "founded": "2008",
@@ -852,8 +857,16 @@ const CI={
   "founded": "2023",
   "foundedNote": 1,
   "src": [
-   "https://ohschonhell.at/orte/das+werk/14"
-  ]
+   "https://ohschonhell.at/orte/das+werk/14",
+   "https://ra.co/events/1832377",
+   "https://ra.co/events/2466171"
+  ],
+  "de": "Techno-Reihe im Das Werk, veranstaltet von Nine O Nine und LSH (Les Suspects Habituels); versteht sich als „safe space for people of all shades“ und „rave where we challenge the concept of obscenity“.",
+  "en": "Techno series at Das Werk run by Nine O Nine and LSH (Les Suspects Habituels); aims to be 'a safe space for people of all shades' and 'a rave where we challenge the concept of obscenity'.",
+  "type": [
+   "Reihe"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Rave am Mittwoch": {
   "founded": "2022",
@@ -957,9 +970,18 @@ const CI={
   "founded": "2023",
   "foundedNote": 1,
   "src": [
-   "https://ohschonhell.at/orte/club+lucia/963"
+   "https://ohschonhell.at/orte/club+lucia/963",
+   "https://ra.co/events/2284048",
+   "https://www.eventbrite.at/e/fuelized-pres-objectiv-uk-tickets-1980332038436"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "de": "Wiener Drum-&-Bass-Veranstalter (FUELIZED EVENTS) mit Partys im Club Lucia, Fokus auf minimale, deepe und soulige Drum-&-Bass-Sounds.",
+  "en": "Vienna drum & bass promoter (FUELIZED EVENTS) running parties at Club Lucia, focusing on minimal, deep and soulful drum & bass.",
+  "type": [
+   "Promoter"
+  ],
+  "from": "Wien",
+  "infoChk": "2026-10-31"
  },
  "Drum & Bassick": {
   "founded": "2025",
@@ -1045,7 +1067,8 @@ const CI={
    "SORRY MOM x USUS",
    "SORRY MOM herbstrascheln"
   ],
-  "logo": "https://ugc.production.linktr.ee/56ada16d-b647-4532-93c3-350fbac3c672_sorry-mom-logo-1080x1080-sw-kreis.png"
+  "logo": "https://ugc.production.linktr.ee/56ada16d-b647-4532-93c3-350fbac3c672_sorry-mom-logo-1080x1080-sw-kreis.png",
+  "infoChk": "2026-10-31"
  },
  "Kinky Galore": {
   "de": "Sexpositive Partyreihe, in Wien u. a. im Club Exil.",
@@ -1117,13 +1140,15 @@ const CI={
   "rules": {
    "sexpos": 1
   },
-  "man": 1
+  "man": 1,
+  "infoChk": "2026-10-31"
  },
  "Slutlabs": {
   "rules": {
    "sexpos": 1
   },
-  "man": 1
+  "man": 1,
+  "infoChk": "2026-10-31"
  },
  "STRICT!": {
   "rules": {
@@ -1374,6 +1399,179 @@ const CI={
  "WOS Soundsystem": {
   "noLogo": "2026-10-31",
   "infoChk": "2026-10-31"
+ },
+ "GDN": {
+  "de": "GDN (Gesindel der Nacht) ist ein Musikkollektiv, Label und Agentur, das in Wien Partys wie NACHTSCHUB im Das Werk und BOUNCYLICIOUS im FLUCC veranstaltet.",
+  "en": "GDN (Gesindel der Nacht) is a music collective, label and agency running parties in Vienna such as NACHTSCHUB at Das Werk and BOUNCYLICIOUS at FLUCC.",
+  "type": [
+   "Kollektiv",
+   "Label"
+  ],
+  "web": "https://gesindeldernacht.at",
+  "noLogo": "2026-10-31",
+  "src": [
+   "https://fr.ra.co/events/2117571",
+   "https://fr.ra.co/promoters/126017",
+   "https://gesindeldernacht.at",
+   "https://de.ra.co/events/2077984"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Kollektiv Ost:West": {
+  "de": "Wiener Kollektiv (KO:W), das u. a. 2023 die Party „Kollektiv Ost:West & Friends“ am Badeschiff veranstaltete.",
+  "en": "Vienna collective (KO:W) that hosted parties such as 'Kollektiv Ost:West & Friends' at Badeschiff in 2023.",
+  "type": [
+   "Kollektiv"
+  ],
+  "src": [
+   "https://ra.co/events/1748332"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Soularium": {
+  "de": "Wiener Partyreihe „Soularium Club“, u. a. gemeinsam mit 808Factory im PRST („Open Format Party“) und mit No Sleep Club im The Loft.",
+  "en": "Vienna party series 'Soularium Club', e.g. with 808Factory at PRST ('open format party') and with No Sleep Club at The Loft.",
+  "ig": "https://www.instagram.com/soularium.club/",
+  "src": [
+   "https://ra.co/events/1926527",
+   "https://de.ra.co/events/2337976"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "euphonic records": {
+  "de": "Label bzw. Musikproduktionsfirma „Euphonic“, 1997 von Ralph Kyau und Steven Möbius Albert (Kyau & Albert) gegründet.",
+  "en": "Label and music production company 'Euphonic', founded in 1997 by Ralph Kyau and Steven Möbius Albert (Kyau & Albert).",
+  "type": [
+   "Label"
+  ],
+  "founded": "1997",
+  "src": [
+   "https://en.wikipedia.org/wiki/Kyau_%26_Albert",
+   "https://preview.vinylcentric.ca/label/euphonic"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Little Beat More": {
+  "de": "Unabhängiges Label aus Wien, betrieben vom italienischen DJ/Produzenten Woxow, zugleich DJ-Kollektiv und Veranstalter von Partys mit lokalen und internationalen Gästen; Motto „We Dance We Think“.",
+  "en": "Independent Vienna-based record label run by Italian DJ/producer Woxow, also a DJ collective and promoter of parties with local and international guests; motto 'We Dance We Think'.",
+  "type": [
+   "Label",
+   "Kollektiv",
+   "Promoter"
+  ],
+  "from": "Wien",
+  "web": "https://linktr.ee/littlebeatmore",
+  "bc": "https://littlebeatmore.bandcamp.com",
+  "noLogo": "2026-10-31",
+  "src": [
+   "https://littlebeatmore.bandcamp.com/artists",
+   "https://linktr.ee/littlebeatmore",
+   "https://termine.orf.at/fm4/veranstaltung/little-beat-more-96753"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "created-on-earth": {
+  "infoChk": "2026-10-31"
+ },
+ "Nine O Nine": {
+  "de": "Techno-Crew (Instagram 909techno), die gemeinsam mit LSH (Les Suspects Habituels) die Reihe TECHNO OBSCENE im Das Werk veranstaltet.",
+  "en": "Techno crew (Instagram 909techno) that runs the TECHNO OBSCENE series at Das Werk together with LSH (Les Suspects Habituels).",
+  "ig": "https://instagram.com/909techno",
+  "src": [
+   "https://ra.co/events/1832377",
+   "https://ra.co/events/2466171"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "LSH": {
+  "de": "LSH (Les Suspects Habituels) veranstaltet gemeinsam mit Nine O Nine die Techno-Reihe TECHNO OBSCENE im Das Werk.",
+  "en": "LSH (Les Suspects Habituels) co-hosts the techno series TECHNO OBSCENE at Das Werk with Nine O Nine.",
+  "ig": "https://www.instagram.com/lessuspectshabituels/",
+  "src": [
+   "https://ra.co/events/1832377"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "909techno": {
+  "de": "Techno-Crew Nine O Nine (909techno), die gemeinsam mit LSH die Reihe TECHNO OBSCENE im Das Werk veranstaltet.",
+  "en": "Techno crew Nine O Nine (909techno), co-hosting the TECHNO OBSCENE series at Das Werk with LSH.",
+  "ig": "https://instagram.com/909techno",
+  "src": [
+   "https://ra.co/events/1832377",
+   "https://ra.co/events/2466171"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "served": {
+  "de": "Wiener Partyreihe für queere Menschen und Gleichgesinnte mit House und Techno; die Ausgabe mit Harmony Rec. × hereandthere ist die dritte.",
+  "en": "Vienna party series for queer people and like-minded folks with house and techno; the edition with Harmony Rec. × hereandthere is its third.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "ig": "https://www.instagram.com/serve.ddd",
+  "src": [
+   "https://ra.co/events/2542405",
+   "https://ra.co/promoters/157180"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Harmony Rec.": {
+  "de": "Label und Kollektiv aus Prag (heute Berlin & Prag), das seit 2014 ortsspezifische audiovisuelle Events veranstaltet und seit 2017 Platten veröffentlicht.",
+  "en": "Label and collective from Prague (now Berlin & Prague) organising site-specific audiovisual events since 2014 and releasing records since 2017.",
+  "type": [
+   "Label",
+   "Kollektiv",
+   "Reihe"
+  ],
+  "founded": "2014",
+  "from": "Prag",
+  "web": "https://harmonyrec.com",
+  "ig": "https://www.instagram.com/harmony_rec/",
+  "sc": "https://soundcloud.com/harmony-rec",
+  "bc": "https://harmonyrec.bandcamp.com",
+  "noLogo": "2026-10-31",
+  "src": [
+   "https://harmonyrec.bandcamp.com",
+   "https://harmonyrec.com",
+   "https://www.hhv-mag.com/feature/how-harmony-rec-went-from-prague-off-raves-to-becoming-a-leading-name-in-european-techno/?lang=en",
+   "https://ra.co/events/2542405"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "hereandthere": {
+  "de": "Label aus Prag, laut RA-Eventtext eines von „two multidimensional labels from Prague“.",
+  "en": "Label from Prague, described as one of 'two multidimensional labels from Prague'.",
+  "type": [
+   "Label"
+  ],
+  "from": "Prag",
+  "noLogo": "2026-10-31",
+  "src": [
+   "https://ra.co/events/2542405",
+   "https://ra.co/promoters/127072"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "technolog": {
+  "infoChk": "2026-10-31"
+ },
+ "Hanzom": {
+  "de": "Hanzom Music ist ein deutsches Drum-&-Bass-Label mit eigenen Events, 2018 gegründet, mit Fokus auf deep, dark Drum & Bass.",
+  "en": "Hanzom Music is a German drum & bass label and event brand founded in 2018, focused on deep, dark drum & bass.",
+  "type": [
+   "Label"
+  ],
+  "founded": "2018",
+  "web": "https://www.hanzom.com/",
+  "ig": "https://www.instagram.com/hanzom_music/",
+  "sc": "https://soundcloud.com/hanzommusic",
+  "noLogo": "2026-10-31",
+  "src": [
+   "https://ra.co/labels/18326",
+   "https://ukf.com/read/get-to-know-the-deep-dark-futuristic-sound-of-hanzom-music/"
+  ],
+  "infoChk": "2026-10-31"
  }
 };
 const VI={
@@ -1517,12 +1715,16 @@ const VI={
   "de": "Club Praterstraße (PRST), House- und Techno-Club in der Leopoldstadt.",
   "en": "Club Praterstraße (PRST), house and techno club in Leopoldstadt.",
   "src": [
-   "https://ohschonhell.at/orte/praterstrasse+-+prst/912"
+   "https://ohschonhell.at/orte/praterstrasse+-+prst/912",
+   "https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/praterstrasse-421558",
+   "https://www.lewitt-audio.com/blog/PRST-audio-experience"
   ],
   "noLogo": "2026-10-28",
   "io": [
    "Indoor"
-  ]
+  ],
+  "web": "https://www.praterstrasse.wien/",
+  "infoChk": "2026-10-31"
  },
  "Club Exil": {
   "web": "https://www.club-exil.at/",
@@ -1542,7 +1744,8 @@ const VI={
    "Bridge Floor",
    "Maschinenraum",
    "Cyberspace"
-  ]
+  ],
+  "infoChk": "2026-10-31"
  },
  "Kramladen": {
   "opened": "2015",
@@ -1604,12 +1807,19 @@ const VI={
   "web": "https://www.clublucia.at/",
   "src": [
    "https://ohschonhell.at/orte/club+lucia/963",
-   "https://www.clublucia.at/"
+   "https://www.clublucia.at/",
+   "https://ra.co/news/83353",
+   "https://www.1000thingsmagazine.com/de/a/2153427/wien-hat-einen-neuen-club-in-den-stadtbahnboegen/",
+   "https://www.technoairlines.com/club/club-lucia-vienna"
   ],
   "logo": "https://www.clublucia.at/wp-content/uploads/2025/05/LUCIA-FINAL-white-1-1024x968.png",
   "io": [
    "Indoor"
-  ]
+  ],
+  "de": "Live-Musik- und Club-Location in den Stadtbahnbögen 24/25 am Gürtel (1080, nahe U6 Thaliastraße), seit August 2025 – Konzerte unter der Woche, am Wochenende Clubnächte mit House, Techno und Drum & Bass.",
+  "en": "Live music and club venue in railway arches 24/25 on the Gürtel (1080, near U6 Thaliastraße), open since August 2025 – concerts on weeknights, club nights with house, techno and drum & bass at weekends.",
+  "opened": "2025",
+  "infoChk": "2026-10-31"
  },
  "O der Klub": {
   "web": "https://o-klub.at/",
@@ -1633,7 +1843,8 @@ const VI={
   "logo": "https://o-klub.at/wp-content/uploads/2022/09/Logo_w.svg",
   "io": [
    "Indoor"
-  ]
+  ],
+  "infoChk": "2026-10-31"
  },
  "Libelle": {
   "web": "https://www.libelle.at/",
@@ -1717,13 +1928,26 @@ const VI={
  },
  "Flex": {
   "src": [
-   "https://flex.at/event/the-hive-x-collapse/"
+   "https://flex.at/event/the-hive-x-collapse/",
+   "https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/flex-346082",
+   "https://www.profil.at/kultur/warum-wien-kult-location-flex-378184",
+   "https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex",
+   "https://www.technoairlines.com/club/flex-vienna"
   ],
   "noLogo": "2026-10-28",
   "io": [
    "Indoor",
    "Outdoor"
-  ]
+  ],
+  "de": "Kult-Club in einem stillgelegten U-Bahn-Tunnel am Donaukanal bei der Augartenbrücke; 1990 gegründet, seit 1995 am heutigen Standort – bekannt für Drum & Bass, Techno und Konzerte, mit Flex Café und Platz am Kanalufer.",
+  "en": "Cult club in a disused underground tunnel on the Danube Canal by the Augartenbrücke; founded in 1990, at its current site since 1995 – known for drum & bass, techno and concerts, with the Flex Café and space on the canal bank.",
+  "web": "https://flex.at/",
+  "opened": "1990",
+  "floors": [
+   "Main Floor",
+   "Flex Café"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Ottakringer Brauerei": {
   "src": [
@@ -1768,12 +1992,18 @@ const VI={
  "Rhiz": {
   "src": [
    "https://ra.co/events/2563381",
-   "https://rhiz.wien/blog/"
+   "https://rhiz.wien/blog/",
+   "https://www.wien.info/de/essen-trinken/bars-clubs/live-locations/rhiz-356666",
+   "https://wien.info/en/dine-drink/bars-clubs/nightlife-under-subway-354334"
   ],
   "logo": "https://rhiz.wien/wp-content/uploads/2026/01/cropped-favicon-270x270.png",
   "io": [
    "Indoor"
-  ]
+  ],
+  "de": "Bar und Live-Location in den Stadtbahnbögen 37–38 am Lerchenfelder Gürtel (1080) – Wiens Anlaufstelle für avancierte Elektronik und experimentellen Rock, mit Konzerten unter der Woche und DJ-Abenden am Wochenende.",
+  "en": "Bar and live venue in railway arches 37–38 on the Lerchenfelder Gürtel (1080) – Vienna's hub for advanced electronic music and experimental rock, with concerts during the week and DJ nights at weekends.",
+  "web": "https://rhiz.wien/",
+  "infoChk": "2026-10-31"
  },
  "kv.r.": {
   "src": [
@@ -3642,7 +3872,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/bambi_berlin",
    "ig": "https://www.instagram.com/bambi_berlin",
-   "web": "http://linktr.ee/bambi_berlin"
+   "web": "http://linktr.ee/bambi_berlin",
+   "ra": "https://ra.co/dj/bambi-s"
   },
   "src": [
    "https://ra.co/dj/bambi-s"
@@ -3657,7 +3888,25 @@ const AR={
     "u": "https://soundcloud.com/bambi_berlin/bambi-s-unvrs-opening-ibiza-30052025"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/bambi-s.jpg?dateUpdated=1786441014807",
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "House",
+   "Techno"
+  ],
+  "labels": [
+   "Miura Records",
+   "La Zic"
+  ],
+  "bio": {
+   "de": "Bambi-S ist in Berlin ansässig, legt als DJ auf und produziert. Der Sound verbindet groovigen House, Detroit-Einflüsse, Oldschool-Techno und aktuelle Tracks. Releases auf Miura Records und La Zic.",
+   "en": "Bambi-S is a Berlin-based DJ and producer. The sound blends groove-driven house, Detroit influences, old-school techno and contemporary cuts. Releases on Miura Records and La Zic."
+  },
+  "infoChk": "2026-10-31"
  },
  "Anatol": {
   "links": {
@@ -3681,7 +3930,8 @@ const AR={
    "ra": "https://ra.co/dj/dorah"
   },
   "src": [
-   "https://es.ra.co/dj/dorah"
+   "https://es.ra.co/dj/dorah",
+   "https://ra.co/events/2523457"
   ],
   "sets": [
    {
@@ -3691,14 +3941,29 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/square/dorah.jpg?dateUpdated=1767780618000",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "real": "Dora B",
+  "genres": [
+   "Hard Bounce",
+   "Hard Techno"
+  ],
+  "bio": {
+   "de": "In Wien ansässige DJ und Produzentin, die Hard Bounce und Hard Techno mit melodischen Elementen verbindet. Ihre eigenen Produktionen prägen ihre energiegeladenen Sets; verwurzelt ist sie in Wiens queerer Underground-Szene.",
+   "en": "Vienna-based DJ and producer blending hard bounce and hard techno with melodic elements. Her own productions shape her high-energy sets, and she is rooted in Vienna's queer underground scene."
+  },
+  "infoChk": "2026-10-31"
  },
  "maro": {
   "links": {
    "sc": "https://soundcloud.com/maro87c",
    "ig": "https://www.instagram.com/maro87c/",
    "bc": "https://maro87.bandcamp.com",
-   "web": "http://www.maro87c.at"
+   "web": "http://www.maro87c.at",
+   "ra": "https://ra.co/dj/maro"
   },
   "src": [
    "https://de.ra.co/dj/maro"
@@ -3709,7 +3974,23 @@ const AR={
     "u": "https://soundcloud.com/mahlwerk-mwk/max-mustermann"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/maro.jpg?dateUpdated=1766386631437",
+  "from": {
+   "de": "Deutschland, lebt in Österreich",
+   "en": "Germany, based in Austria"
+  },
+  "genres": [
+   "Techno",
+   "Trance",
+   "Hardgroove",
+   "Breakbeat"
+  ],
+  "bio": {
+   "de": "maro ist in Deutschland geboren und in Österreich ansässig. Bekannt für energiegeladene Sets, die Techno, Trance, Hardgroove und Breakbeats verbinden. Spielt am häufigsten in Wien, u. a. in Grelle Forelle, PRST, Gleis19 und Flex.",
+   "en": "maro was born in Germany and is based in Austria. Known for high-energy sets blending techno, trance, hardgroove and breakbeats. Plays most often in Vienna, including Grelle Forelle, PRST, Gleis19 and Flex."
+  },
+  "infoChk": "2026-10-31"
  },
  "k means": {
   "links": {
@@ -3783,7 +4064,17 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/square/wo.izzy.jpg?dateUpdated=1769419964937",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "real": "Isabella",
+  "bio": {
+   "de": "WO.IZZY ist eine Newcomerin der Wiener Elektronikszene. Ihr RA-Profil beschreibt sie als abenteuerlustig, neugierig, verspielt und furchtlos. Sie spielt u. a. im SASS Music Club, Celeste und Das Werk.",
+   "en": "WO.IZZY is a rising newcomer in Vienna's electronic scene. Her RA profile describes her as adventurous, curious, playful and fearless. She plays at venues including SASS Music Club, Celeste and Das Werk."
+  },
+  "infoChk": "2026-10-31"
  },
  "Vivienna": {
   "links": {
@@ -4161,7 +4452,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/benderris",
    "ig": "https://www.instagram.com/ben.der.riss",
-   "bc": "https://benderris.bandcamp.com"
+   "bc": "https://benderris.bandcamp.com",
+   "ra": "https://ra.co/dj/benderris"
   },
   "src": [
    "https://de.ra.co/dj/benderris"
@@ -4172,14 +4464,26 @@ const AR={
     "u": "https://soundcloud.com/benderris/22-01-25-hoer-berlin-fixed"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/benderris.jpg?dateUpdated=1692724586000",
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "real": "Ben",
+  "bio": {
+   "de": "Ben Derris ist ein DJ aus Deutschland. Er spielt vor allem in Berlin, Hamburg, Leipzig, Köln und Frankfurt, u. a. im Lokschuppen Berlin, Humboldthain Club und OXI.",
+   "en": "Ben Derris is a DJ from Germany. He plays mostly in Berlin, Hamburg, Leipzig, Cologne and Frankfurt, including Lokschuppen Berlin, Humboldthain Club and OXI."
+  },
+  "infoChk": "2026-10-31"
  },
  "Linus Villa": {
   "links": {
    "sc": "https://soundcloud.com/linusvilla",
    "ig": "https://www.instagram.com/linusvilla",
    "bc": "https://linusvilla.bandcamp.com",
-   "sp": "https://open.spotify.com/artist/0t7Btp9w37XCPaJOm7XMti"
+   "sp": "https://open.spotify.com/artist/0t7Btp9w37XCPaJOm7XMti",
+   "ra": "https://ra.co/dj/linusvilla"
   },
   "src": [
    "https://ra.co/dj/linusvilla"
@@ -4194,12 +4498,28 @@ const AR={
     "u": "https://soundcloud.com/linusvilla/sonnenstudio-abschiedset"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/linusvilla.jpg",
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Deadline Records",
+   "240 KM/H",
+   "Hot Meal Records"
+  ],
+  "bio": {
+   "de": "Linus Villa ist ein Produzent und DJ aus Deutschland. Releases u. a. auf Deadline Records, 240 KM/H und Hot Meal Records. Er spielt vor allem in Berlin, Köln, Hamburg, Stuttgart und München.",
+   "en": "Linus Villa is a producer and DJ from Germany. He has released on labels including Deadline Records, 240 KM/H and Hot Meal Records. He plays mostly in Berlin, Cologne, Hamburg, Stuttgart and Munich."
+  },
+  "infoChk": "2026-10-31"
  },
  "Sophti": {
   "links": {
    "sc": "https://soundcloud.com/sophtidj",
-   "ig": "https://www.instagram.com/dj.sophti"
+   "ig": "https://www.instagram.com/dj.sophti",
+   "ra": "https://ra.co/dj/sophti"
   },
   "src": [
    "https://ra.co/dj/sophti"
@@ -4214,12 +4534,23 @@ const AR={
     "u": "https://soundcloud.com/elm-street-42/019-sophti"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/sophti.jpg?dateUpdated=1710155118000",
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "Sophti ist eine DJ aus Deutschland. Ihr Sound ist ein verspielter Multi-Genre-Mashup. Sie spielt u. a. regelmäßig bei der Partyreihe STUDIO 69.",
+   "en": "Sophti is a DJ from Germany. Her sound is a playful multi-genre mashup. She plays regularly at the STUDIO 69 party series, among others."
+  },
+  "infoChk": "2026-10-31"
  },
  "Kat Ze": {
   "links": {
    "sc": "https://soundcloud.com/kat_ze_music",
-   "ig": "https://www.instagram.com/kat__ze"
+   "ig": "https://www.instagram.com/kat__ze",
+   "ra": "https://ra.co/dj/katzedj"
   },
   "src": [
    "https://de.ra.co/dj/katzedj"
@@ -4230,7 +4561,21 @@ const AR={
     "u": "https://soundcloud.com/kat_ze_music/kat-ze-hoer-berlin"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/katzedj.jpg?dateUpdated=1690547231000",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "real": "Katharina Ze",
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Kat Ze (Kathi) ist eine Techno-DJ aus Wien. Sie spielt u. a. in Grelle Forelle, Das Werk, Flex und Club Exil.",
+   "en": "Kat Ze (Kathi) is a techno DJ living in Vienna. She plays at venues including Grelle Forelle, Das Werk, Flex and Club Exil."
+  },
+  "infoChk": "2026-10-31"
  },
  "Prismode": {
   "links": {
@@ -4675,7 +5020,21 @@ const AR={
    }
   ],
   "setsChecked": "2026-10-28",
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Techno-Act aus der Wiener Szene, angekündigt mit Verweisen auf die legendären Gazometer-Raves und die Partyreihe XXX Favorite Tools. Auf SoundCloud finden sich u. a. ein Livemix aus der Pratersauna Wien und Peaktime-Techno-Mixe.",
+   "en": "Techno act from the Vienna scene, billed with references to the legendary Gazometer raves and the XXX Favorite Tools party series. Their SoundCloud includes a live mix from Pratersauna Vienna and peak-time techno mixes."
+  },
+  "src": [
+   "https://de.ra.co/events/2391499",
+   "https://soundcloud.com/joro_und_joabo",
+   "https://soundcloud.com/joro_und_joabo/livemix-at-pratersauna-vienna",
+   "https://soundcloud.com/joro_und_joabo/peaktimetechno0722"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Atomik": {
   "noLinks": "2026-10-28"
@@ -4969,7 +5328,9 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Leon Diamant": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31",
+  "noLinks": "2026-10-31"
  },
  "Peradise": {
   "noImg": "2026-10-28",
@@ -5247,13 +5608,25 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Misspixie": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "links": {
+   "sc": "https://soundcloud.com/tekniker_at"
+  },
+  "src": [
+   "https://soundcloud.com/tekniker_at",
+   "https://soundcloud.com/tekniker_at/misspixie-live-decibelles-2025_12_26"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Stefanie Brida": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31",
+  "noLinks": "2026-10-31"
  },
  "Wisteria": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31",
+  "noLinks": "2026-10-31"
  },
  "Sanex": {
   "noImg": "2026-10-28",
@@ -6114,6 +6487,345 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Zuckerfrei": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "The Lebanese": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "Findus": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "Helix": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "sig. Molteni": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "Birk": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "Soularium": {
+  "links": {
+   "sc": "https://soundcloud.com/soularium-club"
+  },
+  "src": [
+   "https://soundcloud.com/soularium-club",
+   "https://soundcloud.com/callshopradio/soularium-101124",
+   "https://ra.co/events/1926527"
+  ],
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31"
+ },
+ "Kasho Chualan": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "Parajekt": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "Eye F": {
+  "img": "https://static.ra.co/images/profiles/square/eyef.jpg?dateUpdated=1608128874000",
+  "links": {
+   "ra": "https://es.ra.co/dj/eyef"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "real": "Florian",
+  "bio": {
+   "de": "Eye F ist ein DJ aus Österreich, der vor allem in Wien auftritt.",
+   "en": "Eye F is a DJ from Austria who mostly plays in Vienna."
+  },
+  "src": [
+   "https://es.ra.co/dj/eyef"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Gilista": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "Artemuse": {
+  "img": "https://static.ra.co/images/profiles/square/artemuse.jpg?dateUpdated=1744275702490",
+  "links": {
+   "ra": "https://ra.co/dj/artemuse",
+   "sc": "https://www.soundcloud.com/artemis-katefidis",
+   "ig": "https://www.instagram.com/artemuse___"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "real": "Artemis Katefidis",
+  "genres": [
+   "House",
+   "Techno"
+  ],
+  "bio": {
+   "de": "Artemuse ist eine österreichische House- und Techno-DJ mit griechischen Wurzeln. Sie spielt vor allem in Wien.",
+   "en": "Artemuse is an Austrian house and techno DJ with Greek roots. She plays mostly in Vienna."
+  },
+  "src": [
+   "https://ra.co/dj/artemuse"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Michael Wagner": {
+  "img": "https://static.ra.co/images/profiles/square/michaelwagner.jpg?dateUpdated=1694429396000",
+  "links": {
+   "ra": "https://ra.co/dj/michaelwagner",
+   "sc": "https://soundcloud.com/michaelwagnersc",
+   "ig": "https://www.instagram.com/michaelwagner_"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "DJ und Produzent aus Österreich mit einer Leidenschaft für das Unbekannte.",
+   "en": "DJ and producer from Austria with a passion for the unknown."
+  },
+  "src": [
+   "https://ra.co/dj/michaelwagner"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "MJANE": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "Miyra Lim": {
+  "img": "https://static.ra.co/images/profiles/square/miyralim.jpg?dateUpdated=1734399689000",
+  "links": {
+   "ra": "https://ra.co/dj/miyralim",
+   "sc": "https://soundcloud.com/miyralim"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "House"
+  ],
+  "bio": {
+   "de": "In Wien aktive DJ, deren Sound in House-Musik und ihrer Kultur verwurzelt ist, ergänzt um Jazz, Hip-Hop und Soul. Im Mittelpunkt steht für sie eine authentische Klangwelt, in der sich die Tanzenden frei bewegen können.",
+   "en": "Vienna-based DJ whose sound is rooted in house music and its culture, blended with jazz, hip hop and soul. Her priority is an authentic soundscape where dancers can move freely."
+  },
+  "src": [
+   "https://ra.co/dj/miyralim",
+   "https://pl.ra.co/dj/miyralim/biography"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Cristinho": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "Florian No": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "Elex Red": {
+  "links": {
+   "sc": "https://soundcloud.com/alexrot"
+  },
+  "src": [
+   "https://soundcloud.com/alexrot",
+   "https://soundcloud.com/alexrot/alex-rot-elektro-goenner-mix"
+  ],
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31"
+ },
+ "Tolaris": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "MC Mars": {
+  "bio": {
+   "de": "Wiener MC, der bei Raves als Host am Mikrofon steht. Wird in Line-ups mit Verweisen auf LIVING F/X und die Gazometer-Raves angekündigt, häufig gemeinsam mit MC Spot.",
+   "en": "Vienna MC who hosts raves on the mic. Billed with references to LIVING F/X and the Gazometer raves, often alongside MC Spot."
+  },
+  "src": [
+   "https://de.ra.co/events/2391499"
+  ],
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "MC Spot": {
+  "bio": {
+   "de": "Wiener MC, der bei Raves als Host am Mikrofon steht. Wird in Line-ups mit Verweisen auf LIVING F/X und die Gazometer-Raves angekündigt, häufig gemeinsam mit MC Mars.",
+   "en": "Vienna MC who hosts raves on the mic. Billed with references to LIVING F/X and the Gazometer raves, often alongside MC Mars."
+  },
+  "src": [
+   "https://de.ra.co/events/2391499"
+  ],
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "MARØ": {
+  "img": "https://static.ra.co/images/profiles/square/maro.jpg?dateUpdated=1766386631437",
+  "links": {
+   "ra": "https://ra.co/dj/maro",
+   "sc": "https://soundcloud.com/maro87c",
+   "ig": "https://www.instagram.com/maro87c/",
+   "bc": "https://maro87.bandcamp.com"
+  },
+  "from": {
+   "de": "Deutschland (lebt in Österreich)",
+   "en": "Germany (based in Austria)"
+  },
+  "genres": [
+   "Techno",
+   "Trance",
+   "Hardgroove",
+   "Breakbeat"
+  ],
+  "bio": {
+   "de": "In Deutschland geborener, in Österreich ansässiger DJ und Produzent. Bekannt für energiegeladene, genreübergreifende Sets, die Techno, Trance und Hardgroove mit Breakbeats verbinden.",
+   "en": "German-born DJ and producer based in Austria. Known for high-energy, genre-blurring sets that blend techno, trance and hardgroove with breakbeats."
+  },
+  "src": [
+   "https://ra.co/events/2523457",
+   "https://de.ra.co/dj/maro"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Who is Ela¿": {
+  "img": "https://static.ra.co/images/profiles/square/whoisela%C2%BF.jpg?dateUpdated=1774034559527",
+  "links": {
+   "ra": "https://ra.co/dj/whoisela%C2%BF",
+   "sc": "https://soundcloud.com/whos_elaaa"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "real": "Elena Eichhorn",
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "DJ aus Österreich, bekannt für treibende Basslines, eingängige Sounds und energiegeladene Sets. Ihr Sound verbindet experimentellen Techno, hüpfende Melodien und harte Underground-Stile, mit Fokus auf Energie und unerwartete Momente.",
+   "en": "Austrian DJ known for driving basslines, catchy sounds and energetic sets. Her sound blends experimental techno, bouncy melodies and hard underground styles, focusing on energy and unexpected moments."
+  },
+  "src": [
+   "https://ra.co/dj/whoisela%C2%BF",
+   "https://ra.co/events/2523457"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "DJ SDRICCI": {
+  "links": {
+   "sc": "https://soundcloud.com/hux-de-bude-aka-sdricci"
+  },
+  "bio": {
+   "de": "Auch unter dem Namen HuxDeBude aktiv. Auf SoundCloud finden sich Sets u. a. von Vienna Virus und Ultraschall.",
+   "en": "Also active under the name HuxDeBude. His SoundCloud features sets from events such as Vienna Virus and Ultraschall."
+  },
+  "src": [
+   "https://soundcloud.com/hux-de-bude-aka-sdricci",
+   "https://soundcloud.com/hux-de-bude-aka-sdricci/vienna-virus-prt2",
+   "https://soundcloud.com/hux-de-bude-aka-sdricci/huxdebude-aka-sdricci"
+  ],
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31"
+ },
+ "Marilou": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "Raphael Warg": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "LĪVA": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "Mary Slim": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "Edictum": {
+  "img": "https://static.ra.co/images/profiles/square/edictum.jpg?dateUpdated=1750928248000",
+  "links": {
+   "ra": "https://ra.co/dj/edictum",
+   "sc": "https://soundcloud.com/edictum303",
+   "bc": "https://edictum.bandcamp.com",
+   "ig": "https://www.instagram.com/Edictum303",
+   "web": "https://edictum.music"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "real": "Simon",
+  "bio": {
+   "de": "Edictum ist ein österreichischer Produzent und DJ, seit 2002 aktiv. Sein Fokus liegt auf melodischer, tanzbarer elektronischer Musik; Releases auf über 15 Labels. Er spielt regelmäßig in Wien, u. a. im Loop und bei Empyreon.",
+   "en": "Edictum is an Austrian producer and DJ, active since 2002. He focuses on melodic, danceable electronic music and has released on more than 15 labels. He plays regularly in Vienna, including at Loop and Empyreon."
+  },
+  "src": [
+   "https://fr.ra.co/dj/edictum"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Matt Ludlam": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "DJ Andy": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "Max Wagner": {
+  "img": "https://static.ra.co/images/profiles/square/maxwagner.jpg?dateUpdated=1712866351000",
+  "links": {
+   "ra": "https://ra.co/dj/maxwagner",
+   "ig": "https://www.instagram.com/waxmagna"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Max Wagner ist ein DJ aus Österreich. Er spielt vor allem in Wien, u. a. in Grelle Forelle, Flex und PRST.",
+   "en": "Max Wagner is a DJ from Austria. He mostly plays in Vienna, including Grelle Forelle, Flex and PRST."
+  },
+  "src": [
+   "https://de.ra.co/dj/maxwagner"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Sony2k": {
   "infoChk": "2026-10-31",
   "noImg": "2026-10-31",
   "noLinks": "2026-10-31"
