@@ -1751,7 +1751,9 @@ const VI={
    "Indoor"
   ],
   "web": "https://www.praterstrasse.wien/",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "logo": "https://imgproxy.ra.co/_/quality:66/h:180/w:180/extend:1/rt:fill/enlarge:1/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL2NsdWJzL3Byc3RfcmFfbG9nb196ZWljaGVuZmxhLWNoZS0xLnBuZz9kYXRlVXBkYXRlZD0xNzc0NTM1MzAzNTkw",
+  "man": 1
  },
  "Club Exil": {
   "web": "https://www.club-exil.at/",
