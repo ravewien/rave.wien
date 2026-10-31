@@ -1677,7 +1677,9 @@ const VI={
    "Indoor"
   ],
   "opened": "2006",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "logo": "https://imgproxy.ra.co/_/quality:66/h:180/w:180/extend:1/rt:fill/enlarge:1/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL2NsdWJzL2F0LXdlcmsuanBnP2RhdGVVcGRhdGVkPTE2NTY5NDc0NzkyOTc=",
+  "man": 1
  },
  "FLUCC Wanne": {
   "web": "https://flucc.at/",
@@ -1697,7 +1699,8 @@ const VI={
    "Indoor"
   ],
   "man": 1,
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "logo": "https://imgproxy.ra.co/_/quality:66/h:180/w:180/extend:1/rt:fill/enlarge:1/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL2NsdWJzL2ZsdWNjLnBuZz9kYXRlVXBkYXRlZD0xNzIyODY4Mzk5NDMz"
  },
  "FLUCC Deck": {
   "web": "https://flucc.at/",
@@ -1717,7 +1720,8 @@ const VI={
    "Indoor"
   ],
   "man": 1,
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "logo": "https://imgproxy.ra.co/_/quality:66/h:180/w:180/extend:1/rt:fill/enlarge:1/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL2NsdWJzL2ZsdWNjLnBuZz9kYXRlVXBkYXRlZD0xNzIyODY4Mzk5NDMz"
  },
  "SASS Music Club": {
   "web": "https://sassvienna.com/",
