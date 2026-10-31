@@ -777,7 +777,10 @@ const CI={
    "Journey to Tarab Festival",
    "Tarablantis",
    "Heimlich ins Tarab"
-  ]
+  ],
+  "logo": "https://i1.sndcdn.com/avatars-000545622270-yfcydf-t500x500.jpg",
+  "sc": "https://soundcloud.com/journeytotarab",
+  "man": 1
  },
  "Im Freudentaumel": {
   "de": "Wiener Partyreihe im FLUCC, oft gemeinsam mit Journey to Tarab.",
