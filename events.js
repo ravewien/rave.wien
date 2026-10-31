@@ -801,7 +801,9 @@ const CI={
   "src": [
    "https://goodnight.at/magazin/party/1992-die-coolsten-veranstaltungskollektive-wiens"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxSNTz3y4vRe1uW6jAeEvkGJ8big2rRBHtXt7PFPx_1NgOIsaeuPzAUOIDBMAMDyhlvyg4dpSfKKDm66ShGgXrn-rYA-IQ7v_uHAdON2-SyAoiFnhr2mG6DOb4fSA0aCD2n6d_2e9RxVYc/s1600/zuckerwatt_hq.jpg",
+  "man": 1
  },
  "Herzfrequenz": {
   "founded": "2023",
@@ -1572,6 +1574,14 @@ const CI={
    "https://ukf.com/read/get-to-know-the-deep-dark-futuristic-sound-of-hanzom-music/"
   ],
   "infoChk": "2026-10-31"
+ },
+ "Gassen aus Zucker": {
+  "de": "DJ- and Event-Collective based in Vienna (AUT)",
+  "en": "DJ- and Event-Collective based in Vienna (AUT)",
+  "logo": "https://i1.sndcdn.com/avatars-000048192524-zbrypt-t500x500.jpg",
+  "sc": "https://soundcloud.com/gassen-aus-zucker",
+  "web": "https://gassenauszucker.at/",
+  "man": 1
  }
 };
 const VI={
