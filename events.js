@@ -1898,7 +1898,15 @@ const VI={
    "Indoor",
    "Outdoor"
   ],
-  "ioMain": "Outdoor"
+  "ioMain": "Outdoor",
+  "floors": [
+   "Kulturdeck",
+   "Salon",
+   "Sonnendecks"
+  ],
+  "logo": "https://assets-s3.welocally.at/shrine/store/fdb7dbe8a7bf036d6f0ac22885b8b3d2.png",
+  "web": "https://amwasser.wien",
+  "man": 1
  },
  "Porto Pollo": {
   "de": "Bar am Ufer der Donauinsel in Kaisermühlen, Day-Raves am Wochenende.",
