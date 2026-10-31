@@ -1359,6 +1359,12 @@ const VI={
   "logo": "https://www.club-exil.at/logo.svg",
   "io": [
    "Indoor"
+  ],
+  "floors": [
+   "Mainfloor",
+   "Bridge Floor",
+   "Maschinenraum",
+   "Cyberspace"
   ]
  },
  "Kramladen": {
@@ -1409,7 +1415,8 @@ const VI={
   "web": "https://www.instagram.com/tagada.club",
   "floors": [
    "Rausch (Bar)",
-   "Dancefloor"
+   "Dancefloor",
+   "Courtyard"
   ],
   "noLogo": "2026-10-28",
   "io": [
@@ -1436,7 +1443,10 @@ const VI={
    "Mainfloor",
    "Salon Wasabi",
    "Chill Out Area",
-   "Rote Bar"
+   "Rote Bar",
+   "Core",
+   "Orbit",
+   "Konsulat"
   ],
   "src": [
    "https://warda.at/magazin/lifestyle/o-der-klub-partytreffpunkt-wien/",
@@ -1543,6 +1553,10 @@ const VI={
   "io": [
    "Indoor",
    "Outdoor"
+  ],
+  "floors": [
+   "Hefeboden",
+   "Alte Technik"
   ]
  },
  "Lugner City": {
@@ -1623,6 +1637,11 @@ const VI={
  "Event Arena Vösendorf": {
   "io": [
    "Indoor"
+  ],
+  "floors": [
+   "Ground Zero",
+   "The Tunnel",
+   "Machine Room"
   ]
  },
  "M1 Club": {
