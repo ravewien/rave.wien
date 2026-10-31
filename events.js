@@ -783,8 +783,8 @@ const CI={
   "man": 1
  },
  "Im Freudentaumel": {
-  "de": "Wiener Partyreihe im FLUCC, oft gemeinsam mit Journey to Tarab.",
-  "en": "Viennese party series at FLUCC, often with Journey to Tarab.",
+  "de": "Wiener Partyreihe im FLUCC",
+  "en": "Viennese party series at FLUCC",
   "from": "Wien",
   "src": [
    "https://ra.co/events/1927240",
@@ -794,7 +794,10 @@ const CI={
   "founded": "2022",
   "foundedNote": 1,
   "noLogo": "2026-10-28",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "ig": "https://www.instagram.com/im.freudentaumel",
+  "logo": "https://assets-flucc-at.fra1.digitaloceanspaces.com/flucc-at-uploads/images/im-freudentaumel_KxbXHnR.max-2560x1440.png",
+  "man": 1
  },
  "Zuckerwatt": {
   "founded": "2008",
