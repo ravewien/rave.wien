@@ -2573,7 +2573,14 @@ const AR={
    "https://ponyhof-official.at/",
    "https://ponyhof-official.at/en/"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "sets": [
+   {
+    "t": "Riverrave1 2 11 09 25 16 08",
+    "u": "https://soundcloud.com/ponyhof_official/riverrave1-2-11-09-25-16-08"
+   }
+  ],
+  "man": 1
  },
  "Benjamin Di Bora": {
   "img": "https://ponyhof-official.at/wp-content/themes/ponyhof/assets/img/jockeys/benjamindibora.webp",
@@ -2649,7 +2656,14 @@ const AR={
    "https://ponyhof-official.at/",
    "https://ponyhof-official.at/en/"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "sets": [
+   {
+    "t": "Grelleforellekitchenzuckerwatt Megamietzi Reaching The Peak",
+    "u": "https://soundcloud.com/ponyhof_official/grelleforellekitchenzuckerwatt-megamietzi-reaching-the-peak"
+   }
+  ],
+  "man": 1
  },
  "Nira": {
   "img": "https://ponyhof-official.at/wp-content/themes/ponyhof/assets/img/jockeys/nira.webp",
@@ -2695,7 +2709,14 @@ const AR={
    "https://ponyhof-official.at/",
    "https://ponyhof-official.at/en/"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "sets": [
+   {
+    "t": "Techpool Kovinator",
+    "u": "https://soundcloud.com/ponyhof_official/techpool-kovinator"
+   }
+  ],
+  "man": 1
  },
  "Rave Dave": {
   "img": "https://ponyhof-official.at/wp-content/themes/ponyhof/assets/img/jockeys/ravedave.webp",
