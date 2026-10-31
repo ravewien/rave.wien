@@ -103,7 +103,7 @@ const S={
  "smt": "sunmoon.ticket.io"
 };
 const SO=["hg","un","pt","wm","ftr","ksot","stepf","awsm","bio","kore","tl","rr","srd","sw","gl","smt"];
-const VR={"Grelle Forelle":{"age":"21+","sound":{"de":"Alcons Audio + Lambda Labs","en":"Alcons Audio + Lambda Labs","src":"https://www.properformance.audio/articles/grelle-forelle-mainfloor","floors":{"main":{"de":"Alcons Audio QR36 Line Arrays, 8× Lambda Labs DW-15 Subs","en":"Alcons Audio QR36 line arrays, 8× Lambda Labs DW-15 subs"},"kitchen":{"de":"Lambda Labs (MF-15A Subs, TX-2A, CX-1A Monitore)","en":"Lambda Labs (MF-15A subs, TX-2A, CX-1A monitors)","src":"https://lambda-labs.com/en/references/grelle-forelle"}}}},"Das Werk":{"age":"21+","sound":{"de":"Alcons Audio RR12 + Eigenbau-Subwoofer (12× 15\")","en":"Alcons Audio RR12 + custom subwoofer (12× 15\")","src":"https://www.prosoundweb.com/art-culture-venue-in-austria-outfitted-with-alcons-audio/"}},"SASS Music Club":{"age":"18+","aw":1,"sound":{"de":"Beschallung mit Alcons-Audio-Lautsprechern (Pro-Ribbon-Technologie), installiert von Pro Performance.","en":"Alcons Audio loudspeakers (pro-ribbon technology), installed by Pro Performance.","src":"https://properformance.at/en/projects/club/club-sass-wien/"}},"O der Klub":{"age":"18+"},"FLUCC Wanne":{"aw":1},"Club Exil":{"sound":{"de":"Lambda-Labs-Soundsystem: Auf dem Mainfloor ein 90°-QX-Setup mit 20 DH-18-Subwoofern.","en":"Lambda Labs sound system: a 90° QX setup with 20 DH-18 subwoofers on the main floor.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series","floors":{"mainfloor":{"de":"Lambda Labs QX in 90°-Anordnung mit 20 DH-18-Subwoofern.","en":"Lambda Labs QX in a 90° configuration with 20 DH-18 subwoofers.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series"}}}}};
+const VR={"Grelle Forelle":{"age":"21+","sound":{"de":"Alcons Audio + Lambda Labs","en":"Alcons Audio + Lambda Labs","src":"https://www.properformance.audio/articles/grelle-forelle-mainfloor","floors":{"main":{"de":"Alcons Audio QR36 Line Arrays, 8× Lambda Labs DW-15 Subs","en":"Alcons Audio QR36 line arrays, 8× Lambda Labs DW-15 subs"},"kitchen":{"de":"Lambda Labs (MF-15A Subs, TX-2A, CX-1A Monitore)","en":"Lambda Labs (MF-15A subs, TX-2A, CX-1A monitors)","src":"https://lambda-labs.com/en/references/grelle-forelle"}}}},"Das Werk":{"age":"21+","sound":{"de":"Alcons Audio RR12 + Eigenbau-Subwoofer (12× 15\")","en":"Alcons Audio RR12 + custom subwoofer (12× 15\")","src":"https://www.prosoundweb.com/art-culture-venue-in-austria-outfitted-with-alcons-audio/"}},"SASS Music Club":{"age":"18+","aw":1,"sound":{"de":"Beschallung mit Alcons-Audio-Lautsprechern (Pro-Ribbon-Technologie), installiert von Pro Performance.","en":"Alcons Audio loudspeakers (pro-ribbon technology), installed by Pro Performance.","src":"https://properformance.at/en/projects/club/club-sass-wien/"}},"O der Klub":{"age":"18+"},"FLUCC Wanne":{"aw":1},"Club Exil":{"sound":{"de":"Lambda-Labs-Soundsystem: Auf dem Mainfloor ein 90°-QX-Setup mit 20 DH-18-Subwoofern.","en":"Lambda Labs sound system: a 90° QX setup with 20 DH-18 subwoofers on the main floor.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series","floors":{"mainfloor":{"de":"Lambda Labs QX in 90°-Anordnung mit 20 DH-18-Subwoofern.","en":"Lambda Labs QX in a 90° configuration with 20 DH-18 subwoofers.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series"}}}},"The Loft":{"sound":{"de":"KV2-Anlage im Keller (Dancefloor Unten).","en":"KV2 sound system in the basement (Unten dancefloor).","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056","floors":{"Unten":{"de":"KV2-Anlage","en":"KV2 sound system","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056"}}}}};
 const CG={
  "303": [
   "Drum & Bass",
@@ -434,10 +434,14 @@ const CG={
   "Pop"
  ],
  "Empyreon": [
-  "Progressive House"
+  "Progressive House",
+  "Deep House",
+  "Melodic House"
  ],
  "Kollektiv Birdhouse": [
-  "Progressive House"
+  "Progressive House",
+  "Electroclash",
+  "Indie Dance"
  ],
  "Soularium": [
   "House"
@@ -570,7 +574,7 @@ const CG={
   "House"
  ]
 };
-const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","AWSM","Bassbussi","Bassclub","Bassproduction","Belly Dance Services","Bestand","Bonkers","Callshop Radio","Cardio Cult","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Dark Pressure","Das Syndikat","deep cut","Drum & Bassick","Dunkelton Kollektiv","Dystopia Rave","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","House of Plüsch","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Little Beat More","LSH","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Ravenbogen","Rude Bwoy Embassy","sama recordings","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Super Disco","Switch!","Synergy","Taktgefühl","Tasteless","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","TUFF","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","YE","Zuckerwatt","Zyklop Audio"];
+const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","AWSM","Bassbussi","Bassclub","Bassproduction","Belly Dance Services","Bestand","Bonkers","Callshop Radio","Cardio Cult","ClassiX","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Dark Pressure","Das Syndikat","deep cut","Drum & Bassick","Dunkelton Kollektiv","Dystopia Rave","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","House of Plüsch","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Little Beat More","LSH","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Ravenbogen","Rude Bwoy Embassy","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Super Disco","Switch!","Synergy","Taktgefühl","Tasteless","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","TUFF","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","Wreck","YE","Zuckerwatt","Zyklop Audio"];
 const CI={
  "303": {
   "noLogo": "2026-10-31",
@@ -889,9 +893,16 @@ const CI={
   "founded": "2023",
   "foundedNote": 1,
   "src": [
-   "https://ohschonhell.at/orte/kramladen/549"
+   "https://ohschonhell.at/orte/kramladen/549",
+   "https://www.theloft.at/bass-bussi/",
+   "https://de.ra.co/events/2532710",
+   "https://ra.co/events/2154859"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "de": "Wiener Partyreihe im The Loft, die bei ihren Ausgaben beide Floors bespielt; Headliner u. a. ELOISA (Berlin) mit Sounds von Hard House über Groove bis Acid.",
+  "en": "Vienna party series at The Loft that takes over both floors; headliners have included ELOISA (Berlin) with sounds ranging from hard house to groove and acid.",
+  "ig": "https://www.instagram.com/bassxbussi/",
+  "infoChk": "2026-10-31"
  },
  "KEN Club": {
   "founded": "2013",
@@ -1085,14 +1096,22 @@ const CI={
    "https://www.impulstanz.com/social/aid2185/",
    "https://ra.co/events/2110843"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "infoChk": "2026-10-31"
  },
  "Wien Modern": {
   "logo": "https://www.wienmodern.at/images/Logo.png",
   "web": "https://www.wienmodern.at/",
   "src": [
-   "https://www.wienmodern.at/"
-  ]
+   "https://www.wienmodern.at/",
+   "https://en.wikipedia.org/wiki/Wien_Modern",
+   "https://flucc.at/events/RVw6Sh-party-modern-schcht/"
+  ],
+  "de": "Festival für zeitgenössische Musik in Wien, 1988 von Claudio Abbado gegründet; veranstaltet u. a. die Clubreihe Party Modern.",
+  "en": "Vienna festival of contemporary music, founded in 1988 by Claudio Abbado; its programme includes the club series Party Modern.",
+  "founded": "1988",
+  "from": "Wien",
+  "infoChk": "2026-10-31"
  },
  "Pole Circle": {
   "rules": {
@@ -1205,6 +1224,156 @@ const CI={
  "KØRE": {
   "noLogo": "2026-10-31",
   "infoChk": "2026-10-31"
+ },
+ "Callshop Radio": {
+  "de": "Radioprojekt mit Stationen in Düsseldorf, Leipzig und Paris; in Kooperation mit dem FLUCC Transmitter (FLUT) entstand daraus ein Wiener Programm aus verschiedenen Strömungen der lokalen Musik- und Kulturszene, das regelmäßig am FLUCC Deck läuft.",
+  "en": "Radio project with stations in Düsseldorf, Leipzig and Paris; together with FLUCC Transmitter (FLUT) it runs a Vienna programme featuring various currents of the local music and culture scene, held regularly at FLUCC Deck.",
+  "founded": "2017",
+  "foundedNote": 1,
+  "web": "https://callshopradio.com/",
+  "ig": "https://instagram.com/callshopradio",
+  "src": [
+   "https://flucc.at/events/fwStcm-flut-x-callshop-radio-week-46-26/",
+   "https://ra.co/events/2130003",
+   "https://de.ra.co/events/1908134"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Wreck": {
+  "de": "Veranstaltungsreihe im Wiener SASS Music Club, bei der LaLa und Æ-X Extended Sets spielen – Motto: „In einer Welt, in der alle immer schneller werden, nehmen wir uns Zeit.“",
+  "en": "Event series at Vienna's SASS Music Club featuring extended sets by LaLa and Æ-X – motto: 'In a world where everyone keeps getting faster, we take our time.'",
+  "noLogo": "2026-10-31",
+  "src": [
+   "https://sassvienna.com/en/events/event/wreck-7"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "AWSM": {
+  "infoChk": "2026-10-31"
+ },
+ "ClassiX": {
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Pink Mayhem": {
+  "de": "Wiener Partyreihe am FLUCC Deck mit eigener Resident-Crew und DJ-Contest; regelmäßig auch Halloween-Specials (seit 2023 belegt).",
+  "en": "Vienna party series at FLUCC Deck with its own resident crew and a DJ contest; regular Halloween specials (documented since 2023).",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "ig": "https://www.instagram.com/dankepinkmayhem/",
+  "noLogo": "2026-10-31",
+  "src": [
+   "https://flucc.at/events/dc4JWH-pink-mayhem/",
+   "https://flucc.at/events/h7acrh-pink-mayhem-halloween-special/"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Collapse": {
+  "de": "Wiener Drum-&-Bass-Veranstalter, der u. a. „COLLAPSE XL“ in der Arena Wien mit kompromissloser elektronischer Musik, schwerem Sound und immersiven Visuals ausrichtet.",
+  "en": "Vienna drum & bass promoter behind events such as 'COLLAPSE XL' at Arena Wien, promising uncompromising electronic music, heavy sound and immersive visuals.",
+  "tix": "https://collapse-events.ticket.io/",
+  "noLogo": "2026-10-31",
+  "src": [
+   "https://de.ra.co/events/2445780",
+   "https://collapse.ticket.io/j0hmygbn/"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Dunkelton Kollektiv": {
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Spumante Records": {
+  "de": "Wiener Veranstalter/Label, das das Programm „FLUT x Callshop Radio“ am FLUCC kuratiert und dort Kooperationen wie mit Threads Radio präsentiert.",
+  "en": "Vienna-based outfit that curates the 'FLUT x Callshop Radio' programme at FLUCC and presents collaborations there, e.g. with Threads Radio.",
+  "from": "Wien",
+  "ig": "https://www.instagram.com/spumanterecords/",
+  "src": [
+   "https://flucc.at/events/fwStcm-flut-x-callshop-radio-week-46-26/",
+   "https://ra.co/events/2130003",
+   "https://ra.co/promoters/150702"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "sch:cht": {
+  "de": "Konzert-/Clubreihe des Kulturvereins kunstl:cht, die sich seit Frühjahr 2022 als Plattform für musikalische Entdeckungen abseits des Mainstreams versteht – zwischen akustischer und elektronischer Klangästhetik; Gast bei Wien Moderns Party Modern im FLUCC.",
+  "en": "Concert/club series run by the cultural association kunstl:cht, a platform for musical discoveries beyond the mainstream since spring 2022, between acoustic and electronic sound aesthetics; regular guest at Wien Modern's Party Modern at FLUCC.",
+  "type": [
+   "Reihe"
+  ],
+  "founded": "2022",
+  "noLogo": "2026-10-31",
+  "src": [
+   "https://flucc.at/events/RVw6Sh-party-modern-schcht/",
+   "https://flucc.at/events/AbZjQp-party-modern-schcht-ct/"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Bestand": {
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "up/or": {
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "House of Plüsch": {
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Fluffig": {
+  "de": "Wiener Veranstalter von Trance- und Techno-Partys, u. a. der „Fluffig Punsch Party“ als Winter-Open-Air im Club U.",
+  "en": "Vienna organiser of trance and techno parties, including the 'Fluffig Punsch Party' winter open air at Club U.",
+  "noLogo": "2026-10-31",
+  "src": [
+   "https://de.ra.co/events/2323092"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Empyreon": {
+  "de": "Neue Eventreihe im Wiener The Loft mit dem Ziel, eine lokale Szene für Deep-, Progressive- und Melodic-House-Musik, DJs und Produzent:innen in Wien aufzubauen.",
+  "en": "New event series at Vienna's The Loft aiming to build a local scene for deep, progressive and melodic house music, DJs and producers in Vienna.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "noLogo": "2026-10-31",
+  "src": [
+   "https://www.theloft.at/empyreon-progressive-house-2/"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Kollektiv Birdhouse": {
+  "de": "Wiener Kollektiv („Birdhouse Collective“) hinter einer der langlebigsten alternativen Clubnächte Wiens, mit Electroclash, Indie Dance und Underground-Beats.",
+  "en": "Vienna collective ('Birdhouse Collective') behind one of the city's longest-running alternative club nights, featuring electroclash, indie dance and underground beats.",
+  "type": [
+   "Kollektiv"
+  ],
+  "from": "Wien",
+  "noLogo": "2026-10-31",
+  "src": [
+   "https://nl.ra.co/events/2514903"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Fadercult": {
+  "de": "Berliner Kollektiv, das u. a. gemeinsam mit Mahlwerk in der Wiener Grelle Forelle einen eigenen Floor („Kitchen“) hostet.",
+  "en": "Berlin collective that hosts its own floor ('Kitchen') at events such as its collaboration with Mahlwerk at Vienna's Grelle Forelle.",
+  "type": [
+   "Kollektiv"
+  ],
+  "from": "Berlin",
+  "noLogo": "2026-10-31",
+  "src": [
+   "https://www.grelleforelle.com/project/0611-mahlwerk-fadercult-w-afem-syko-lisa-horver/"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "WOS Soundsystem": {
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
  }
 };
 const VI={
@@ -1254,7 +1423,8 @@ const VI={
   "logo": "https://www.grelleforelle.com/wp-content/uploads/2016/08/cropped-favicon-270x270.png",
   "io": [
    "Indoor"
-  ]
+  ],
+  "infoChk": "2026-10-31"
  },
  "Das Werk": {
   "web": "https://www.daswerk.org/",
@@ -1268,21 +1438,26 @@ const VI={
    "Golpe",
    "Detoxx",
    "DJ Wifi",
-   "Patrick M4ss"
+   "Patrick M4ss",
+   "Arman Shadow"
   ],
   "resSrc": [
    "https://warda.at/events/werk-resident-night/",
-   "https://events.at/event/werk-resident-night-1"
+   "https://events.at/event/werk-resident-night-1",
+   "https://de.ra.co/dj/armanshadow/biography"
   ],
   "de": "Kulturverein im Stadtbahnbogen an der Spittelauer Lände, Schwerpunkt harte Techno-Spielarten, Schranz und Bounce.",
   "en": "Cultural association in the railway arches on Spittelauer Lände, focusing on hard techno, schranz and bounce.",
   "src": [
-   "https://ohschonhell.at/orte/das+werk/14"
+   "https://ohschonhell.at/orte/das+werk/14",
+   "https://www.daswerk.org/faq"
   ],
   "noLogo": "2026-10-28",
   "io": [
    "Indoor"
-  ]
+  ],
+  "opened": "2006",
+  "infoChk": "2026-10-31"
  },
  "FLUCC Wanne": {
   "web": "https://flucc.at/",
@@ -1301,7 +1476,8 @@ const VI={
   "io": [
    "Indoor"
   ],
-  "man": 1
+  "man": 1,
+  "infoChk": "2026-10-31"
  },
  "FLUCC Deck": {
   "web": "https://flucc.at/",
@@ -1320,7 +1496,8 @@ const VI={
   "io": [
    "Indoor"
   ],
-  "man": 1
+  "man": 1,
+  "infoChk": "2026-10-31"
  },
  "SASS Music Club": {
   "web": "https://sassvienna.com/",
@@ -1332,7 +1509,8 @@ const VI={
   "noLogo": "2026-10-28",
   "io": [
    "Indoor"
-  ]
+  ],
+  "infoChk": "2026-10-31"
  },
  "PRST": {
   "opened": "2020",
@@ -1519,12 +1697,15 @@ const VI={
   "en": "Club on Lerchenfelder Gürtel with three rooms (Oben, Unten, Wohnzimmer).",
   "src": [
    "https://www.theloft.at/feuchte-traeume-renaissance-of-pleasure/",
-   "https://www.theloft.at/"
+   "https://www.theloft.at/",
+   "https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056"
   ],
   "logo": "https://www.theloft.at/wp-content/uploads/2022/02/loft-logo.svg",
   "io": [
    "Indoor"
-  ]
+  ],
+  "opened": "2009",
+  "infoChk": "2026-10-31"
  },
  "Pyramide Vösendorf": {
   "src": [
@@ -3074,7 +3255,17 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "img": "https://f4.bcbits.com/img/0032193901_21.jpg",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "real": "Paul H",
+  "bio": {
+   "de": "DJ aus Österreich, der vor allem in Wien spielt – am häufigsten im Das Werk, im FLUCC und im Ponyhof.",
+   "en": "DJ from Austria who mostly plays in Vienna – most often at Das Werk, FLUCC and Ponyhof."
+  },
+  "infoChk": "2026-10-31"
  },
  "Lorenzo Raganzini": {
   "links": {
@@ -3124,7 +3315,8 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "noImg": "2026-10-28",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "infoChk": "2026-10-31"
  },
  "Neon Graveyard": {
   "links": {
@@ -3178,7 +3370,17 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/square/tezibel.jpg?dateUpdated=1649160889000",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "real": "Tessa Kadletz",
+  "bio": {
+   "de": "TEZIBEL ist eine in Wien lebende DJ und Produzentin. Sie spielt regelmäßig in Wiener Clubs wie Grelle Forelle, PRST, Das Werk und Pratersauna.",
+   "en": "TEZIBEL is a Vienna-based DJ and producer. She plays regularly at Viennese clubs such as Grelle Forelle, PRST, Das Werk and Pratersauna."
+  },
+  "infoChk": "2026-10-31"
  },
  "Katia Curie": {
   "links": {
@@ -3375,7 +3577,16 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/square/bludhound.jpg?dateUpdated=1730462122000",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "DJ aus Österreich. Spielt vor allem in Wiener Clubs wie FLUCC, Das Werk und Flex.",
+   "en": "DJ from Austria. Plays mainly at Viennese clubs such as FLUCC, Das Werk and Flex."
+  },
+  "infoChk": "2026-10-31"
  },
  "Memet Acuma": {
   "links": {
@@ -3814,12 +4025,14 @@ const AR={
    "sc": "https://soundcloud.com/andy-catana",
    "ig": "https://www.instagram.com/andycatana",
    "bc": "https://andycatana.bandcamp.com",
-   "ra": "https://ra.co/dj/andycatana"
+   "ra": "https://ra.co/dj/andycatana",
+   "web": "https://doeasyrec.com"
   },
   "src": [
    "https://de.ra.co/dj/andycatana",
    "https://andycatana.bandcamp.com",
-   "https://es.ra.co/dj/andycatana"
+   "https://es.ra.co/dj/andycatana",
+   "https://ra.co/dj/andycatana/biography"
   ],
   "sets": [
    {
@@ -3829,7 +4042,23 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "img": "https://f4.bcbits.com/img/0037264141_21.jpg",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Österreich (Wels), geboren in Rumänien",
+   "en": "Austria (Wels), born in Romania"
+  },
+  "labels": [
+   "Do Easy Records",
+   "Moon Harbour Recordings",
+   "Bloop Recordings",
+   "Valioso Recordings",
+   "Fizical"
+  ],
+  "bio": {
+   "de": "In Rumänien geboren, kam Andy Catana mit fünf Jahren nach Österreich und wuchs in Wels auf. Seit den frühen 2000ern DJ und Produzent, gründete er 2009 sein Label Do Easy Records. Releases u. a. auf Moon Harbour, Bloop und Valioso.",
+   "en": "Born in Romania, Andy Catana moved to Austria at the age of five and grew up in Wels. A DJ and producer since the early 2000s, he founded his label Do Easy Records in 2009. Releases include Moon Harbour, Bloop and Valioso."
+  },
+  "infoChk": "2026-10-31"
  },
  "Rizmo": {
   "links": {
@@ -3884,7 +4113,16 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/square/stipo-at.jpg?dateUpdated=1744405896187",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "DJ aus Österreich, der vor allem in Wien auflegt – am häufigsten im PRST, im SASS Music Club, in der Pratersauna und in der Grelle Forelle.",
+   "en": "DJ from Austria who mostly plays in Vienna – most often at PRST, SASS Music Club, Pratersauna and Grelle Forelle."
+  },
+  "infoChk": "2026-10-31"
  },
  "Arman Shadow": {
   "links": {
@@ -3893,7 +4131,8 @@ const AR={
    "ra": "https://ra.co/dj/armanshadow"
   },
   "src": [
-   "https://de.ra.co/dj/armanshadow"
+   "https://de.ra.co/dj/armanshadow",
+   "https://de.ra.co/dj/armanshadow/biography"
   ],
   "sets": [
    {
@@ -3907,7 +4146,16 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/square/armanshadow.jpg?dateUpdated=1764132002880",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Iran, lebt in Paris",
+   "en": "Iran, based in Paris"
+  },
+  "bio": {
+   "de": "Techno-Produzent und DJ aus dem Iran, der aus dem Wiener und Pariser Underground kommt und heute in Paris lebt. Bekannt für groovige, hypnotische Sets; laut RA Resident im Das Werk.",
+   "en": "Techno producer and DJ from Iran who emerged from the Vienna and Paris underground and is now based in Paris. Known for groove-driven, hypnotic sets; according to RA a resident at Das Werk."
+  },
+  "infoChk": "2026-10-31"
  },
  "Ben Derris": {
   "links": {
@@ -4195,7 +4443,8 @@ const AR={
    "ra": "https://ra.co/dj/crystalo"
   },
   "src": [
-   "https://de.ra.co/dj/crystalo"
+   "https://de.ra.co/dj/crystalo",
+   "https://de.ra.co/dj/crystalo/biography"
   ],
   "sets": [
    {
@@ -4209,7 +4458,16 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/square/crystalo.jpg?dateUpdated=1664963179000",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "genres": [
+   "Hard Techno",
+   "Schranz"
+  ],
+  "bio": {
+   "de": "Crystal O gilt laut RA als künstlerische Säule der Wiener Queer-Community. Sie spielt harte, groovige Sounds, frühen deutschen Hardtechno und Schranz; ohne Drag tritt sie auch als Crystal Ohne auf.",
+   "en": "According to RA, Crystal O is an artistic pillar of Vienna's queer community. She plays hard, groovy sounds, early German hard techno and schranz, and also performs out of drag as Crystal Ohne."
+  },
+  "infoChk": "2026-10-31"
  },
  "Apua": {
   "links": {
@@ -4237,7 +4495,12 @@ const AR={
   ],
   "setsChecked": "2026-10-28",
   "img": "https://static.ra.co/images/profiles/apua.jpg?dateUpdated=1484824441833",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "bio": {
+   "de": "DJ aus Österreich. Spielt regelmäßig im PRST und SASS Music Club in Wien sowie in Graz (Postgarage, Forum Stadtpark).",
+   "en": "DJ from Austria. Plays regularly at PRST and SASS Music Club in Vienna as well as in Graz (Postgarage, Forum Stadtpark)."
+  },
+  "infoChk": "2026-10-31"
  },
  "Peter Pixzel": {
   "links": {
@@ -4504,12 +4767,14 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Alex Maurer": {
-  "noLinks": "2026-10-28",
-  "noImg": "2026-10-28"
+  "noLinks": "2026-10-31",
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31"
  },
  "DJ Bottleghost": {
-  "noLinks": "2026-10-28",
-  "noImg": "2026-10-28"
+  "noLinks": "2026-10-31",
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31"
  },
  "DJ Veloziped": {
   "links": {
@@ -4536,7 +4801,13 @@ const AR={
   ],
   "setsChecked": "2026-10-28",
   "img": "https://static.ra.co/images/profiles/veloziped.jpg?dateUpdated=1301554098000",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "real": "Walter Garber",
+  "bio": {
+   "de": "DJ aus Italien, früher unter dem Namen Technowalter aktiv. Spielt vor allem in Norditalien, u. a. in Clubs wie Sketch, Basis Vinschgau und Mirò Club.",
+   "en": "DJ from Italy, formerly known as Technowalter. Plays mainly in northern Italy, at clubs such as Sketch, Basis Vinschgau and Mirò Club."
+  },
+  "infoChk": "2026-10-31"
  },
  "Altroy Jerome": {
   "links": {
@@ -4549,7 +4820,12 @@ const AR={
    "de": "Österreich",
    "en": "Austria"
   },
-  "img": "https://static.ra.co/images/profiles/square/altroyjerome.jpg?dateUpdated=1746100566000"
+  "img": "https://static.ra.co/images/profiles/square/altroyjerome.jpg?dateUpdated=1746100566000",
+  "bio": {
+   "de": "US-amerikanischer DJ und Produzent mit Wohnsitz in Österreich. Bekannt für die Verbindung von deepen, souligen Sounds mit elektronischen Rhythmen. Spielt regelmäßig in Wiener Clubs wie FLUCC, PRST, Das Werk und Black Market.",
+   "en": "US-born DJ and producer based in Austria. Known for fusing deep, soulful music with electronic rhythms and melodies. Plays regularly at Viennese clubs such as FLUCC, PRST, Das Werk and Black Market."
+  },
+  "infoChk": "2026-10-31"
  },
  "saschka": {
   "img": "https://static.ra.co/images/profiles/square/saschka.jpg?dateUpdated=1790180348463",
@@ -4592,9 +4868,25 @@ const AR={
    "ra": "https://ra.co/dj/weazl"
   },
   "src": [
-   "https://ra.co/dj/weazl"
+   "https://ra.co/dj/weazl",
+   "https://ra.co/dj/weazl/biography"
   ],
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Collapse Recordings"
+  ],
+  "bio": {
+   "de": "WEAZL ist ein Drum-&-Bass-DJ aus Wien, der seit seinem 16. Lebensjahr auflegt. Er leitet das Label Collapse Recordings und teilte die Bühne bereits mit Artists wie AC13, Malux, Rido, Maze, Basstripper und Sinister Souls.",
+   "en": "WEAZL is a drum & bass DJ from Vienna who has been spinning since the age of 16. He heads the label Collapse Recordings and has shared stages with artists such as AC13, Malux, Rido, Maze, Basstripper and Sinister Souls."
+  },
+  "infoChk": "2026-10-31"
  },
  "Magnetude": {
   "img": "https://static.ra.co/images/profiles/square/magnetude.jpg?dateUpdated=1738720233000",
@@ -4664,16 +4956,30 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Reinhard Zach": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "links": {
+   "sc": "https://soundcloud.com/reinhard-zach"
+  },
+  "src": [
+   "https://soundcloud.com/reinhard-zach",
+   "https://m.soundcloud.com/boothhub/0068-reinhard-zach",
+   "https://soundcloud.com/non-funxion/special-agent-008-reinhard-zach",
+   "https://soundcloud.com/moveandconnect/reini-move-connect-podcast"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Leon Diamant": {
   "noImg": "2026-10-28"
  },
  "Peradise": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31",
+  "noLinks": "2026-10-31"
  },
  "Sweet Spot": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31",
+  "noLinks": "2026-10-31"
  },
  "Deleven": {
   "noImg": "2026-10-28"
@@ -4694,16 +5000,49 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Pinklotion": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "links": {
+   "sc": "https://soundcloud.com/mrpinklotion"
+  },
+  "genres": [
+   "Hard Techno",
+   "Schranz"
+  ],
+  "bio": {
+   "de": "Hard-Techno- und Schranz-DJ mit der Mixreihe „pinked out“ (155–160 BPM). Veröffentlicht eigene Tracks wie „pentada“ und „expressversand“ (mit terrortussy).",
+   "en": "Hard techno and schranz DJ behind the \"pinked out\" mix series (155–160 BPM). Releases own tracks such as \"pentada\" and \"expressversand\" (with terrortussy)."
+  },
+  "src": [
+   "https://soundcloud.com/mrpinklotion/tracks",
+   "https://soundcloud.com/mrpinklotion/pinked-out-001-hard-technoschranz-set-155-160bpm",
+   "https://soundcloud.com/mrpinklotion/pentada",
+   "https://soundcloud.com/mrpinklotion/pinklotion-terrortussy-expressversand",
+   "https://soundcloud.com/radiorudina/almost-pinkcast-mel-b2b-pinklotion-b2b-bludhound"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Gopnikbarbie": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31",
+  "noLinks": "2026-10-31"
  },
  "Hello Kiffy": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "links": {
+   "sc": "https://soundcloud.com/user-zlmss"
+  },
+  "src": [
+   "https://soundcloud.com/user-zlmss",
+   "https://soundcloud.com/pinkmayhem/hello-kiffy-set-recording",
+   "https://soundcloud.com/pinkmayhem/mel-b2b-hello-kiffy-set-recording-2401",
+   "https://soundcloud.com/radiorudina/almost-pinkcast-mel-b2b-pinklotion-b2b-bludhound?in=user-zlmss%2Fsets%2Fink-mayhem"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Kristus": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31",
+  "noLinks": "2026-10-31"
  },
  "Pitch Madattak": {
   "img": "https://f4.bcbits.com/img/0013234561_23.jpg",
@@ -4766,22 +5105,48 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "DNBREAK": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "links": {
+   "sc": "https://soundcloud.com/fabiiam"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "src": [
+   "https://soundcloud.com/fabiiam",
+   "https://soundcloud.com/gorilla-cave/dnbreak-b2b-scarnox-mastered?in=luke-anmacht/sets/dnb"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Scapula": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "links": {
+   "sc": "https://soundcloud.com/scapula_at"
+  },
+  "src": [
+   "https://soundcloud.com/scapula_at"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Skeedz": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31",
+  "noLinks": "2026-10-31"
  },
  "Rellux": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31",
+  "noLinks": "2026-10-31"
  },
  "Sinis": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31",
+  "noLinks": "2026-10-31"
  },
  "Mayez": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31",
+  "noLinks": "2026-10-31"
  },
  "Ben Leander": {
   "noImg": "2026-10-31",
@@ -4891,7 +5256,9 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Sanex": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31",
+  "noLinks": "2026-10-31"
  },
  "PATRIK HOUR": {
   "noImg": "2026-10-31",
@@ -4914,10 +5281,55 @@ const AR={
   "noImg": "2026-10-28"
  },
  "LUZZT": {
-  "noImg": "2026-10-28"
+  "img": "https://static.ra.co/images/profiles/square/luzzt.jpg?dateUpdated=1692132918000",
+  "links": {
+   "ra": "https://ra.co/dj/luzzt"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "real": "Georg Böck",
+  "bio": {
+   "de": "LUZZT (Georg Böck) ist ein österreichischer DJ, der vor allem in Wien auflegt. Am häufigsten spielt er im Das Werk und im FLUCC.",
+   "en": "LUZZT (Georg Böck) is an Austrian DJ who mostly plays in Vienna. His most-played clubs are Das Werk and FLUCC."
+  },
+  "src": [
+   "https://ra.co/events/2143849",
+   "https://ra.co/dj/luzzt"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Qaoz": {
-  "noImg": "2026-10-28"
+  "img": "https://static.ra.co/images/profiles/square/qaoz.jpg?dateUpdated=1722523267000",
+  "links": {
+   "ra": "https://ra.co/dj/qaoz",
+   "sc": "https://soundcloud.com/qaoz",
+   "ig": "https://www.instagram.com/byqaoz",
+   "web": "https://qaoz.me"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "labels": [
+   "Feel Free Records",
+   "Obscuur",
+   "Carbone Records",
+   "fhainest",
+   "DTECT-Records",
+   "Streamlines",
+   "Milli Records"
+  ],
+  "bio": {
+   "de": "Qaoz ist ein österreichischer DJ und Produzent, der vor allem in Wien spielt, am häufigsten im Das Werk. Veröffentlichungen erschienen u. a. auf Feel Free Records, Obscuur, Carbone Records, DTECT-Records und Milli Records.",
+   "en": "Qaoz is an Austrian DJ and producer who plays mostly in Vienna, most often at Das Werk. Releases have appeared on labels including Feel Free Records, Obscuur, Carbone Records, DTECT-Records and Milli Records."
+  },
+  "src": [
+   "https://ra.co/events/2353351",
+   "https://ra.co/dj/qaoz"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Drum Dad & Bass Boy": {
   "img": "https://i.scdn.co/image/ab6761610000e5eb4ff7471ebb471b57166b4093",
@@ -4925,8 +5337,16 @@ const AR={
    "sp": "https://open.spotify.com/artist/3UyclZxeiOyCtZyiWmUbBm"
   },
   "src": [
-   "https://open.spotify.com/artist/3UyclZxeiOyCtZyiWmUbBm"
-  ]
+   "https://open.spotify.com/artist/3UyclZxeiOyCtZyiWmUbBm",
+   "https://open.spotify.com/album/3uw1Wkfi360BvKH0ZjJ0pW",
+   "https://open.spotify.com/album/43IhxxqKfS2NLiSg3t0gSH",
+   "https://open.spotify.com/album/5ESMgKEUZzOJLfCG7c13vN"
+  ],
+  "bio": {
+   "de": "Drum-&-Bass-Act mit Singles wie „Feeling Good“ (2026), „Walzer“ und „BOMBOCLAT DUB“.",
+   "en": "Drum & bass act with singles such as \"Feeling Good\" (2026), \"Walzer\" and \"BOMBOCLAT DUB\"."
+  },
+  "infoChk": "2026-10-31"
  },
  "lexyz0 & DJ Lotto": {
   "noImg": "2026-10-28"
@@ -4957,7 +5377,9 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Meltdown": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31",
+  "noLinks": "2026-10-31"
  },
  "Janex": {
   "noImg": "2026-10-31",
@@ -4977,22 +5399,73 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "maximo": {
-  "noImg": "2026-10-28"
+  "img": "https://static.ra.co/images/profiles/square/maximilianfoit-at.jpg?dateUpdated=1682594057000",
+  "links": {
+   "ra": "https://ra.co/dj/maximilianfoit-at",
+   "sc": "https://soundcloud.com/maximilian-foit-1"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "real": "Maximilian Foit",
+  "bio": {
+   "de": "maximo ist das Alias von Maximilian Foit, der in Wien geboren und aufgewachsen ist. Seine erste Verbindung zur elektronischen Musik entstand Mitte der 90er im Alter von acht Jahren. Am häufigsten spielt er in Wien in der Pratersauna, im SASS Music Club, in der Auslage, im FLUCC und im PRST.",
+   "en": "maximo is the alias of Maximilian Foit, born and raised in Vienna. His first connection to electronic music came in the mid-90s at the age of eight. His most-played Vienna clubs are Pratersauna, SASS Music Club, Auslage, FLUCC and PRST."
+  },
+  "src": [
+   "https://ra.co/dj/maximilianfoit-at",
+   "https://soundcloud.com/maximilian-foit-1",
+   "https://ra.co/events/1378405"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Joey": {
-  "noImg": "2026-10-28"
+  "img": "https://static.ra.co/images/profiles/square/joey-2.jpg?dateUpdated=1769944329620",
+  "links": {
+   "ra": "https://ra.co/dj/joey-2",
+   "sc": "https://soundcloud.com/joey_vienna",
+   "ig": "https://www.instagram.com/joey.vienna",
+   "web": "https://dj-joey.com"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "real": "Johannes Turpel",
+  "labels": [
+   "The Finest Techno",
+   "HERZFREQUENZ"
+  ],
+  "bio": {
+   "de": "Joey (Johannes Turpel) ist ein österreichischer Techno-DJ mit dem Motto „Loud & Louder. Hard & Harder.“ Er spielt vor allem in Wien, am häufigsten im Das Werk, in der Grelle Forelle und im FLUCC. Auf RA sind die Labels The Finest Techno und HERZFREQUENZ gelistet.",
+   "en": "Joey (Johannes Turpel) is an Austrian techno DJ whose motto is \"Loud & Louder. Hard & Harder.\" He plays mostly in Vienna, most often at Das Werk, Grelle Forelle and FLUCC. His RA profile lists the labels The Finest Techno and HERZFREQUENZ."
+  },
+  "src": [
+   "https://ra.co/events/2382527",
+   "https://ra.co/dj/joey-2"
+  ],
+  "infoChk": "2026-10-31"
  },
  "CED": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31",
+  "noLinks": "2026-10-31"
  },
  "Lazaro": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31",
+  "noLinks": "2026-10-31"
  },
  "Distorted": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31",
+  "noLinks": "2026-10-31"
  },
  "Hannah": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-10-31",
+  "noLinks": "2026-10-31"
  },
  "Anni Herzer": {
   "from": {
@@ -5528,6 +6001,122 @@ const AR={
   "noImg": "2026-10-31",
   "noLinks": "2026-10-31",
   "infoChk": "2026-10-31"
+ },
+ "Rantom": {
+  "bio": {
+   "de": "Rantom ist ein Techno-DJ aus der Wiener Szene, von dem HERZFREQUENZ mehrere Set-Mitschnitte aus dem Das Werk und der Grelle Forelle veröffentlicht hat. Sein Track „Crowd Control“ erschien auf der Compilation „Pakt VA“ [GDNVA01].",
+   "en": "Rantom is a techno DJ from the Vienna scene; HERZFREQUENZ has released several of his set recordings from Das Werk and Grelle Forelle. His track \"Crowd Control\" appeared on the compilation \"Pakt VA\" [GDNVA01]."
+  },
+  "src": [
+   "https://soundcloud.com/herzfrequenz_techno/rantom-hz-250110",
+   "https://soundcloud.com/herzfrequenz_techno/rantom-impulse-021124",
+   "https://soundcloud.com/technowereld/premiere-rantom-crowd-control-gdnva01",
+   "https://ra.co/events/2382527",
+   "https://ra.co/events/2143849"
+  ],
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "Nikilist": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "KRISTUS": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
+ },
+ "Feli Nightingale": {
+  "img": "https://static.ra.co/images/profiles/square/felinightingale.jpg?dateUpdated=1778683118337",
+  "links": {
+   "ra": "https://ra.co/dj/felinightingale",
+   "ig": "https://www.instagram.com/Felinightingale"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "real": "Feliciano Nightingale",
+  "bio": {
+   "de": "Feli Nightingale ist Promoter, DJ und Produzent aus Wien. Am häufigsten spielt er im Das Werk und in der Grelle Forelle.",
+   "en": "Feli Nightingale is a promoter, DJ and producer from Vienna. His most-played clubs are Das Werk and Grelle Forelle."
+  },
+  "src": [
+   "https://ra.co/events/2323484",
+   "https://ra.co/dj/felinightingale"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Techflex": {
+  "img": "https://static.ra.co/images/profiles/square/techflex.jpg?dateUpdated=1744880555000",
+  "links": {
+   "ra": "https://ra.co/dj/techflex"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "real": "Felix Lebl",
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Trapez",
+   "Children of Tomorrow",
+   "Sleaze Records",
+   "Naked Lunch Records",
+   "Jeton Records",
+   "Luminar Records",
+   "Unknown Territory",
+   "Dolma Records",
+   "Technodrome",
+   "Black Codes Experiments",
+   "Shadow State"
+  ],
+  "bio": {
+   "de": "Techflex ist ein in Wien ansässiger Techno-Produzent und DJ, der seit den frühen 1990ern in der Techno-Szene aktiv ist. Sein Sound ist roh, hypnotisch, dunkel und hart. Er veröffentlichte u.a. auf Naked Lunch, Black Codes Experiments, Sleaze Records, Children of Tomorrow, Trapez und Dolma und betreibt das Underground-Techno-Label Shadow State.",
+   "en": "Techflex is a Vienna-based techno producer and DJ who has been involved in techno since the early 1990s. His sound is raw, hypnotic, dark and hard. He has released on labels including Naked Lunch, Black Codes Experiments, Sleaze Records, Children of Tomorrow, Trapez and Dolma, and runs the underground techno label Shadow State."
+  },
+  "src": [
+   "https://ra.co/dj/techflex",
+   "https://ra.co/dj/techflex/biography"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Mike Mystik": {
+  "img": "https://static.ra.co/images/profiles/square/mikemystik.jpg?dateUpdated=1789204766220",
+  "links": {
+   "ra": "https://ra.co/dj/mikemystik",
+   "sc": "https://soundcloud.com/dj-mike-mystic",
+   "ig": "https://www.instagram.com/dj_mike_mystik",
+   "web": "https://www.beatport.com/de/artist/mike-mystik/1501932"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "real": "Michael Böhm",
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Shadow State"
+  ],
+  "bio": {
+   "de": "Mike Mystik steht für deepe, dunkle Techno-Vibes. Er legte bereits vor 2000 in Underground-Techno-Clubs auf und ist nach einer langen Pause mit treibendem Sound für Wien zurück.",
+   "en": "Mike Mystik stands for deep and dark techno vibes. He played underground techno clubs before 2000 and, after a long break, is back with a driving sound for Vienna."
+  },
+  "src": [
+   "https://ra.co/dj/mikemystik"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Zuckerfrei": {
+  "infoChk": "2026-10-31",
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31"
  }
 };
 const VG={
