@@ -570,7 +570,7 @@ const CG={
   "House"
  ]
 };
-const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","AWSM","Bassbussi","Bassclub","Bassproduction","Belly Dance Services","Bestand","Bonkers","Callshop Radio","Cardio Cult","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Dark Pressure","Das Syndikat","deep cut","Drum & Bassick","Dunkelton Kollektiv","Dystopia Rave","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hanzom","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","House of Plüsch","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Little Beat More","LSH","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Ravenbogen","Rude Bwoy Embassy","sama recordings","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Super Disco","Switch!","Synergy","Taktgefühl","Tasteless","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","TUFF","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","Zuckerwatt","Zyklop Audio"];
+const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","AWSM","Bassbussi","Bassclub","Bassproduction","Belly Dance Services","Bestand","Bonkers","Callshop Radio","Cardio Cult","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Dark Pressure","Das Syndikat","deep cut","Drum & Bassick","Dunkelton Kollektiv","Dystopia Rave","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","House of Plüsch","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Little Beat More","LSH","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Ravenbogen","Rude Bwoy Embassy","sama recordings","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Super Disco","Switch!","Synergy","Taktgefühl","Tasteless","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","TUFF","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","YE","Zuckerwatt","Zyklop Audio"];
 const CI={
  "303": {
   "noLogo": "2026-10-31",
@@ -1158,6 +1158,52 @@ const CI={
   "infoChk": "2026-10-31"
  },
  "The Hive": {
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Tasteless": {
+  "de": "Wiener Partyreihe (Tasteless.vie) mit Events u. a. im The Loft, im PRST und auf dem Otto-Wagner-Areal; das Grand Opening fand im Jänner 2024 statt.",
+  "en": "Viennese party series (Tasteless.vie) with events at The Loft, PRST and the Otto Wagner Areal, among others; its grand opening took place in January 2024.",
+  "from": "Wien",
+  "src": [
+   "https://de.ra.co/events/1835390",
+   "https://de.ra.co/events/2003539"
+  ],
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Ravenbogen": {
+  "de": "Queere Partyreihe aus Graz, u. a. mit „Gayliens on Stardust“ im Theatercafé Hin & Wider.",
+  "en": "Queer party series from Graz, including \"Gayliens on Stardust\" at Theatercafé Hin & Wider.",
+  "from": "Graz",
+  "ig": "https://www.instagram.com/ravenbogen",
+  "src": [
+   "https://rainbowtime.super.site/events-database/ravenbogen-gayliens-on-stardust"
+  ],
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Hardline": {
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "YE": {
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Alles Allen": {
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Housetiere": {
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Entrance": {
+  "noLogo": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "KØRE": {
   "noLogo": "2026-10-31",
   "infoChk": "2026-10-31"
  }
@@ -3164,7 +3210,20 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/square/nizarsarakbi.jpg?dateUpdated=1747852656690",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Ukraine, lebt in Wien",
+   "en": "Ukraine, based in Vienna"
+  },
+  "bio": {
+   "de": "Wiener DJ, Produzent und Plattensammler mit einem Geschmack zwischen dem Unerwarteten und dem Unbestreitbaren; Releases auf System Error und Tancido.",
+   "en": "Vienna-based DJ, producer and record digger with a taste that swerves between the unexpected and the undeniable; releases on System Error and Tancido."
+  },
+  "labels": [
+   "System Error",
+   "Tancido"
+  ],
+  "infoChk": "2026-10-31"
  },
  "The Advent": {
   "links": {
@@ -3214,11 +3273,29 @@ const AR={
    "ra": "https://ra.co/dj/cozi"
   },
   "src": [
-   "https://ra.co/dj/cozi"
+   "https://ra.co/dj/cozi",
+   "https://ra.co/dj/cozi/biography"
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/square/cozi.jpg?dateUpdated=1765353323750",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Sydney, Australien, lebt in Österreich",
+   "en": "Sydney, Australia, based in Austria"
+  },
+  "real": "Connor",
+  "bio": {
+   "de": "Ehemaliger Profitänzer aus Sydney, heute DJ und Produzent in Österreich mit groovigem House und Tech-House mit 2000er-Wurzeln. Gründete Anfang 2025 das Label Energy In Motion, dort erschien seine Debüt-EP „The 5th Dimension“.",
+   "en": "Former professional dancer from Sydney, now a DJ and producer in Austria playing groovy house and tech house with 2000s roots. Founded the label Energy In Motion in early 2025, home of his debut EP \"The 5th Dimension\"."
+  },
+  "genres": [
+   "House",
+   "Tech House"
+  ],
+  "labels": [
+   "Energy In Motion"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Bludhound": {
   "links": {
@@ -3589,7 +3666,19 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/square/julani.jpg?dateUpdated=1756911615000",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna, Austria"
+  },
+  "bio": {
+   "de": "Wiener DJ mit Fokus auf Underground-House in all seinen Spielarten; spielt vor allem im Tagada und im SASS Music Club.",
+   "en": "Vienna-based DJ focused on underground house music of all styles; plays mostly at Tagada and SASS Music Club."
+  },
+  "genres": [
+   "House"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Manuel Correa": {
   "links": {
@@ -4413,7 +4502,8 @@ const AR={
   },
   "src": [
    "https://pl.ra.co/dj/saschka",
-   "https://ra.co/dj/saschka"
+   "https://ra.co/dj/saschka",
+   "https://ra.co/dj/saschka/biography"
   ],
   "linksOk": "2026-10-29",
   "sets": [
@@ -4422,7 +4512,22 @@ const AR={
     "u": "https://soundcloud.com/amore-vienna/lhf-003"
    }
   ],
-  "setsChecked": "2026-10-31"
+  "setsChecked": "2026-10-31",
+  "from": {
+   "de": "Stuttgart, lebt in Wien",
+   "en": "Stuttgart, based in Vienna"
+  },
+  "bio": {
+   "de": "In Stuttgart aufgewachsen, heute in Wien: Multi-Genre-DJ zwischen House, Trance und Techno mit Wurzeln in der deutschen Rave-Szene. Auftritte u. a. bei Herrensauna, Grand Lighthouse Festival und in den Corsica Studios.",
+   "en": "Raised in Stuttgart, now based in Vienna: a multi-genre DJ moving between house, trance and techno with roots in the German rave scene. Played Herrensauna, Grand Lighthouse Festival and Corsica Studios, among others."
+  },
+  "genres": [
+   "Trance",
+   "Techno",
+   "Progressive",
+   "House"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Weazl": {
   "img": "https://static.ra.co/images/profiles/square/weazl.jpg?dateUpdated=1713883742000",
@@ -4466,13 +4571,23 @@ const AR={
   "img": "https://static.ra.co/images/profiles/square/djsweet6teen.jpg?dateUpdated=1789122042677",
   "links": {
    "ra": "https://ra.co/dj/djsweet6teen",
-   "sc": "https://soundcloud.com/djsweet6teen"
+   "sc": "https://soundcloud.com/djsweet6teen",
+   "ig": "https://www.instagram.com/djsweet6teen"
   },
   "src": [
    "https://fr.ra.co/dj/djsweet6teen",
    "https://ra.co/dj/djsweet6teen"
   ],
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "DJ aus Deutschland, gestaltete den RA-Podcast RA.1004; spielt u. a. im Gewölbe, Subway (Köln) und Thuishaven.",
+   "en": "DJ from Germany who mixed RA podcast RA.1004; plays at Gewölbe, Subway (Cologne) and Thuishaven, among others."
+  },
+  "infoChk": "2026-10-31"
  },
  "Konrad Kaltenböck": {
   "noImg": "2026-10-28"
@@ -4487,7 +4602,9 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Foxloe": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "Reinhard Zach": {
   "noImg": "2026-10-28"
@@ -4532,25 +4649,59 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Pitch Madattak": {
-  "noImg": "2026-10-28"
+  "img": "https://f4.bcbits.com/img/0013234561_23.jpg",
+  "from": {
+   "de": "Bozen, Italien",
+   "en": "Bolzano, Italy"
+  },
+  "bio": {
+   "de": "Produzent und Live-Act aus Bozen, der zwischen Italien und Europa auftritt; Releases u. a. auf Astrofonik und Undergroundtekno.",
+   "en": "Producer and live act from Bolzano performing across Italy and Europe; releases on Astrofonik and Undergroundtekno, among others."
+  },
+  "labels": [
+   "Astrofonik",
+   "Undergroundtekno",
+   "FLS"
+  ],
+  "links": {
+   "bc": "https://pitchmadattak1.bandcamp.com"
+  },
+  "noLinks": "2026-10-31",
+  "src": [
+   "https://pitchmadattak1.bandcamp.com",
+   "https://www.infoconcert.com/artiste/pitch-mad-attak-146194/concerts/presentation"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Gehlektek": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "Apocalypz": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "Miss Undertaker": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "Sportacore": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "Cheddar Boyz": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "Veneno": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "PRDK": {
   "noImg": "2026-10-31",
@@ -4576,31 +4727,93 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Ben Leander": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "2bihonest": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "Sarah Dæwie": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "Jade Anima": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "Burr Oak": {
-  "noImg": "2026-10-28"
+  "img": "https://i.scdn.co/image/ab6761610000e5eb1812dfb8da2c1231ea762ebc",
+  "tracks": [
+   "Originate",
+   "Ring The Death Knell"
+  ],
+  "links": {
+   "sp": "https://open.spotify.com/artist/3yyEYoHrjvoUtLJ6n2Wz83"
+  },
+  "src": [
+   "https://open.spotify.com/artist/3yyEYoHrjvoUtLJ6n2Wz83"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Zombie Cats": {
-  "noImg": "2026-10-28"
+  "img": "https://f4.bcbits.com/img/0021678544_23.jpg",
+  "from": {
+   "de": "Deutschland/Australien",
+   "en": "Germany/Australia"
+  },
+  "bio": {
+   "de": "Drum-&-Bass-Duo aus Rouven Fehr und Ross Deschamp mit Studios in Deutschland und Australien; Releases u. a. auf Eatbrain, Liquicity, Dispatch und Drum&BassArena.",
+   "en": "Drum & bass duo of Rouven Fehr and Ross Deschamp with studios in Germany and Australia; releases on Eatbrain, Liquicity, Dispatch and Drum&BassArena, among others."
+  },
+  "tracks": [
+   "Cat Attack",
+   "Zima",
+   "Kraken"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Eatbrain",
+   "Liquicity",
+   "Dispatch",
+   "Drum&BassArena"
+  ],
+  "links": {
+   "bc": "https://wearezombiecats.bandcamp.com",
+   "web": "https://wearezombiecats.org"
+  },
+  "noLinks": "2026-10-31",
+  "src": [
+   "https://wearezombiecats.bandcamp.com/music"
+  ],
+  "infoChk": "2026-10-31"
  },
  "Kaama": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "links": {
+   "sc": "https://soundcloud.com/kamila-vejvodova"
+  },
+  "infoChk": "2026-10-31"
  },
  "Didz": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "links": {
+   "sc": "https://soundcloud.com/diddi-schellnegger"
+  },
+  "infoChk": "2026-10-31"
  },
  "Puppy Devil": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "links": {
+   "sc": "https://soundcloud.com/user-345074195"
+  },
+  "infoChk": "2026-10-31"
  },
  "ADOBEAR": {
   "noImg": "2026-10-28"
@@ -4624,7 +4837,9 @@ const AR={
   "noImg": "2026-10-28"
  },
  "PATRIK HOUR": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "Pau:sa": {
   "noImg": "2026-10-28"
@@ -4675,22 +4890,34 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Luca": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "Hanno": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "Meltdown": {
   "noImg": "2026-10-28"
  },
  "Janex": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "OKO": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "links": {
+   "sc": "https://soundcloud.com/eorgiearper"
+  },
+  "infoChk": "2026-10-31"
  },
  "Mina": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
  },
  "maximo": {
   "noImg": "2026-10-28"
@@ -5143,6 +5370,104 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Recovered": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Dennes Deen": {
+  "noImg": "2026-10-31",
+  "links": {
+   "sc": "https://soundcloud.com/dennesdeen"
+  },
+  "infoChk": "2026-10-31"
+ },
+ "Duracell": {
+  "noImg": "2026-10-31",
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Österreichische DJ-Legende, die zuerst im Biosphere mit sphärischem Sound auf sich aufmerksam machte.",
+   "en": "Austrian DJ legend who first made a name for himself with a spherical sound at Biosphere."
+  },
+  "noLinks": "2026-10-31",
+  "src": [
+   "https://www.vienna.at/timeline-die-dj-legenden-sterreichs/2952605"
+  ],
+  "infoChk": "2026-10-31"
+ },
+ "Uptempo Babys": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Agonize": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Burger Kingz": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Mark Enigma": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Rick C": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Cancel": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "KarmaSutra": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Pesca": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Lucifer": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Frau F": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "DJ Handgepäck": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "DJ Streuselkuchen": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Tom Silver": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Sdricci": {
+  "noImg": "2026-10-31",
+  "noLinks": "2026-10-31",
+  "infoChk": "2026-10-31"
+ },
+ "Adelic": {
   "noImg": "2026-10-31",
   "noLinks": "2026-10-31",
   "infoChk": "2026-10-31"
