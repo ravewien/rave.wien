@@ -795,7 +795,7 @@ footer a:hover{color:var(--accent)}
 <button class="stackx" id="stackx" type="button" hidden></button>
 <div class="pullhint" id="pullhint" hidden><span></span><i></i></div>
 
-<script>(()=>{const q=/(^|\.)rave\.wien$/.test(location.hostname)?"?v="+Math.floor(Date.now()/60000):"";document.write('<script src="events.js'+q+'"><\/script><script src="past.js'+q+'"><\/script>')})()</script>
+<script>(()=>{const q=/(^|\.)rave\.wien$/.test(location.hostname)?"?v="+Math.floor(Date.now()/60000):"";document.write('<script src="events.js'+q+'"><\/script><script src="past.js'+q+'"><\/script><script src="logos.js'+q+'"><\/script>')})()</script>
 <script>
 const VRULES=typeof VR!=="undefined"?VR:{};const SORG=typeof SO!=="undefined"?SO:[];const CGEN=typeof CG!=="undefined"?CG:{};
 function norm(t){return t.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/w\/|with|pres\.?|presents|feat\.?|at prst|<>|<|>|[|×x&+\-–:.,!'"()\/]/g," ").replace(/\s+/g," ").trim()}
@@ -1034,8 +1034,15 @@ const isImg=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif)(\?[^"'<>\s]*)?$
 const coversOn=()=>!EMBED||consentOK();
 const isLogo=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif|svg)(\?[^"'<>\s]*)?$/i.test(u||"")||/^https:\/\/i\.scdn\.co\/image\/[a-z0-9]+$/i.test(u||"");
 const initials=n=>n.replace(/^(the|club|das|der|die|o)\s+/i,"").split(/[\s\-–.]+/).filter(w=>/^[A-Za-z0-9ÄÖÜäöü]/.test(w)).slice(0,2).map(w=>w[0].toUpperCase()).join("")||n.slice(0,2).toUpperCase();
-function logoTile(n,cls,info){const vi=info||VINFO[n]||{};const lu=vi.logo||vi.img;const ok=isLogo(lu)&&coversOn();const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:"";
-  return `<span class="lgt${cls?" "+cls:""}${vi.img&&!vi.logo?" ph":""}" aria-hidden="true"${bg&&ok?` style="background:${bg}"`:""}${ok?` data-flyer="${esc(lu)}" data-ft="${esc(n)}"`:""}>${esc(initials(n))}${ok?`<img src="${esc(lu)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
+// Logo so groß wie möglich: der gemessene Inhaltsbereich (ohne transparenten/einfarbigen Rand, siehe logos.js)
+// wird mittig und unverzerrt auf die Kachel abzüglich eines kleinen Abstands skaliert.
+const LOGOPAD=.08;
+function logoFit(u){const b=(typeof LOGOBOX!=="undefined"&&LOGOBOX||{})[u];if(!b||b.length<6)return null;const[W,H,x0,y0,x1,y1,bc]=b,bw=x1-x0,bh=y1-y0;if(!(W>0&&H>0&&bw>0&&bh>0))return null;
+  const s=(1-2*LOGOPAD)/Math.max(bw,bh),f=v=>(v*100).toFixed(3)+"%";
+  return{st:`inset:auto;left:${f(.5-(x0+bw/2)*s)};top:${f(.5-(y0+bh/2)*s)};width:${f(W*s)};height:${f(H*s)};padding:0;object-fit:fill`,bg:/^#[0-9a-f]{6}$/i.test(bc||"")?bc:""}}
+function logoTile(n,cls,info){const vi=info||VINFO[n]||{};const lu=vi.logo||vi.img;const ok=isLogo(lu)&&coversOn();const fit=ok&&vi.logo?logoFit(lu):null;
+  const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:(fit&&fit.bg)||"";
+  return `<span class="lgt${cls?" "+cls:""}${vi.img&&!vi.logo?" ph":""}" aria-hidden="true"${bg&&ok?` style="background:${bg}"`:""}${ok?` data-flyer="${esc(lu)}" data-ft="${esc(n)}"`:""}>${esc(initials(n))}${ok?`<img src="${esc(lu)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"${fit?` style="${fit.st}"`:""}>`:""}</span>`}
 const noVen=v=>!v||v==="TBA"||v==="Secret Location";
 const venTag=(v,on)=>noVen(v)?`<span class="tag ve na">${IPIN}${esc(v||"TBA")}</span>`:`<span class="tag ve${on?" on":""}" data-tov="${esc(v)}">${IPIN}${esc(v)}</span>`;
 const colTag=c=>`<span class="tag co${st.c.has(c)?" on":""}" data-toc="${esc(c)}">${ICOL}${esc(c)}</span>`;
@@ -1939,7 +1946,7 @@ function collect(box){const kind=box.dataset.kind;const out={};
 function diff(cur,now){const d={};Object.entries(now).forEach(([k,v])=>{const o=get(cur,k);const norm=x=>x==null||x===false||x===""||(Array.isArray(x)&&!x.length)?null:x;
   if(JSON.stringify(norm(o))!==JSON.stringify(norm(v)))d[k]=v===false?null:v});return d}
 function addChip(c,v){if([...c.querySelectorAll("span[data-v]")].some(s=>s.dataset.v.toLowerCase()===v.toLowerCase()))return;const s=document.createElement("span");s.dataset.v=v;s.textContent=v;const b=document.createElement("button");b.type="button";b.dataset.rm="";b.textContent="×";s.appendChild(b);c.insertBefore(s,c.querySelector("input"))}
-const badUrl=d=>Object.entries(d).find(([k,v])=>(/^(tickets|flyer|img|logo|web|ig|sc|bc|tix|links\.)/.test(k)&&typeof v==="string"&&v&&!/^https?:\/\//.test(v))||(k==="sets"&&(v||[]).some(x=>!/^https?:\/\//.test(x.u))));
+const badUrl=d=>Object.entries(d).find(([k,v])=>(/^(?:(?:tickets|flyer|img|logo|web|ig|sc|bc|tix)$|links\.)/.test(k)&&typeof v==="string"&&v&&!/^https?:\/\//.test(v))||(k==="sets"&&(v||[]).some(x=>!/^https?:\/\//.test(x.u))));
 
 async function save(){const box=$("edbox");const kind=box.dataset.kind;const isNew=!!box.dataset.isnew;let key=box.dataset.key;
   const now=collect(box);
