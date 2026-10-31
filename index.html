@@ -432,6 +432,7 @@ iframe.mc{width:100%;height:60px;border:0;margin-bottom:6px}
 .lgt{position:relative;flex:none;display:inline-grid;place-items:center;width:44px;height:44px;border-radius:4px;background:#1b1e24;border:1px solid var(--line);overflow:hidden;font-family:var(--f-pixel);font-weight:900;font-size:15px;line-height:1;color:var(--mute);padding:0}
 .lgt img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:10%;background:inherit;box-sizing:border-box}
 .lgt.big{width:60px;height:60px;font-size:20px}
+.aka{margin:4px 0 0;font-size:13px;color:var(--mute)}.sg .al{color:var(--mute);font-size:.9em}
 .lgt.ph img{object-fit:cover;padding:0}.lgt img{padding:4%}.lgt[data-flyer]{cursor:zoom-in}.lgt[data-flyer]:hover{border-color:var(--fg)}
 .lgt.fly{width:64px;height:64px;cursor:zoom-in;background:#2a2d33}.lgt.fly img{object-fit:cover;padding:0}
 .lgt.fly:hover{border-color:var(--fg)}
@@ -813,6 +814,7 @@ const splitA=n=>n.split(/\s+b2b\s+/i).map(x=>x.trim()).filter(Boolean);
 const abtn=(n,H)=>splitA(n).map(x=>{const c=canon(x),h=H&&H.has(c);return `<button data-artist="${esc(c)}"${h?` class="hl" title="Headliner"`:""}>${esc(x)}</button>`}).join('<span class="b2b">b2b</span>');
 function richness(e){return (e.floors?e.floors.reduce((n,f)=>n+f.a.length,0):0)*3+(e.genres||[]).length+(e.coll||[]).length+(e.tickets?2:0)+(e.e?1:0)+(e.price?1:0)}
 const akey=n=>fold(n).replace(/\s(und|and)\s/g," ").replace(/\((live|dj set|[a-z]{2,3})\)/g,"").replace(/[^a-z0-9¿øæ]/g,"");
+const aliasArr=x=>Array.isArray(x&&x.alias)?x.alias.filter(s=>typeof s==="string"&&s.trim()).map(s=>s.trim()):[];
 const CANON=(()=>{const c={};const add=(n,w)=>{n=String(n).trim();if(!n||n==="TBA")return;const k=akey(n);if(!k)return;(c[k]=c[k]||{})[n]=(c[k][n]||0)+(w||1)};
   RAW.forEach(e=>(e.floors||[]).forEach(f=>f.a.flatMap(a=>splitA(nm(a))).forEach(n=>add(n))));
   (typeof PAST!=="undefined"?PAST:[]).forEach(r=>(r[4]||[]).flatMap(splitA).forEach(n=>add(n)));
@@ -820,7 +822,9 @@ const CANON=(()=>{const c={};const add=(n,w)=>{n=String(n).trim();if(!n||n==="TB
   if(typeof CI!=="undefined")Object.values(CI).forEach(x=>(x.members||[]).forEach(n=>add(n,3)));
   if(typeof VI!=="undefined")Object.values(VI).forEach(x=>(x.residents||[]).forEach(n=>add(n,3)));
   const sc=n=>(/[a-z]/.test(n)&&/[A-Z]/.test(n)?.5:0)+(/\(/.test(n)?-.3:0)+n.split(/\s+/).filter(w=>/^[A-ZÄÖÜ]/.test(w)).length*.05;
-  const out={};for(const k in c){out[k]=Object.entries(c[k]).sort((a,b)=>(b[1]+sc(b[0]))-(a[1]+sc(a[0])))[0][0]}return out})();
+  const out={};for(const k in c){out[k]=Object.entries(c[k]).sort((a,b)=>(b[1]+sc(b[0]))-(a[1]+sc(a[0])))[0][0]}
+  if(typeof AR!=="undefined")Object.keys(AR).forEach(n=>aliasArr(AR[n]).forEach(x=>{const k=akey(x);if(k&&k!==akey(n))out[k]=out[akey(n)]||n}));
+  return out})();
 const canon=n=>CANON[akey(n)]||n;
 const ARK=(()=>{const o={};const A=typeof AR!=="undefined"?AR:{};for(const n in A)o[akey(n)]=Object.assign({name:n},A[n]);return o})();
 function dedupe(raw){
@@ -855,7 +859,7 @@ const EV=ALL.filter(e=>endTime(e)>NOW);
 
 const T={
  de:{latestSC:"Neueste Tracks & Sets auf SoundCloud",latestMC:"Mixes auf Mixcloud",latestSP:"Auf Spotify anhören",webS:"Website",listenS:"Anhören",routeS:"Route",since:"Seit",djs:"DJs",upShortU:"Kommend",nextS:"Nächster",gigs:"Auftritte",resShort:"Resident",floorsSound:"Floors & Sound",nextEv:"Nächste Events",moreShow:"weitere anzeigen",showAllN:"alle % anzeigen ▾",ticketsS:"Tickets",srcBtn:"Quelle",akOnly:"Nur Abendkasse",noTix:"Kein Vorverkauf",zeroS:"Null Toleranz",pullPast:"↑ weiter ziehen für vergangene Events",stackClose:"Stack schließen",playNote:"Abspielen lädt den Player von SoundCloud bzw. Mixcloud (Drittanbieter, setzt Cookies). Er spielt unten weiter, während du weiterstöberst.",phTxt:"Dieser Player wird von % geladen. Dabei werden Daten an % übertragen und Cookies gesetzt.",phBtn:"%-Player laden",phOpen:"Auf % öffnen",ckT:"Cookies & Drittanbieter",ckTxt:"rave.wien selbst setzt keine Tracking-Cookies. Favoriten und Filter werden nur auf deinem Gerät gespeichert. Flyer-Bilder (direkt von den Websites der Veranstalter) und Player von SoundCloud und Mixcloud laden erst, wenn du zustimmst.",ckMore:"Datenschutz",ckEss:"Nur essenzielle",ckAll:"Drittanbieter erlauben",thArt:"Artist · Veranstalter",thCol:"Veranstalter",thVen:"Location · Adresse",thNext:"Nächster Termin",thHear:"Hören",thGenRules:"Genres · Regeln",thRules:"Hausregeln · Sound",cTerm:"Termine",cTerm1:"Termin",cUp:"Kommend",cPast:"vergangen",cDj:"DJs",calW:"Kalender",icsFile:"Apple / .ics-Datei",thTime:"Zeit",thEv:"Event · Location",thLu:"Lineup",thGen:"Genres · Vibe",thAge:"Alter",thPrice:"Preis",closeAll:"Alle schließen",cols:"Veranstalter",colsN:"Veranstalter",toCal:"In Kalender speichern",gcal:"Google Kalender",after:"Afterhour (Start 4–12 Uhr)",qclear:"Suche leeren",favAsk:"zu den Favoriten hinzufügen?",yes:"Hinzufügen",no:"Nein",sug:"Event vorschlagen",sugL:"Link zum Event (Eventseite, RA, Instagram …)",sugNote:"Notiz (optional)",sugSend:"Vorschlag senden",sugOk:"Danke! Der Vorschlag wird geprüft.",sugMail:"Vorschlag per Mail schicken ↗",sugMailOpen:"Dein Mailprogramm öffnet sich mit dem Vorschlag – einfach absenden. Danke!",sugMailAgain:"Nicht geöffnet? Hier klicken ↗",sugAdm:"Vorschläge zur Freigabe (nur für dich sichtbar)",approve:"Freigeben",reject:"Ablehnen",sugNone:"Keine Vorschläge warten auf Freigabe.",sugSt:{new:"neu",pending:"wartet auf Freigabe",approved:"freigegeben",published:"veröffentlicht",rejected:"abgelehnt"},djs:"DJs",archTop:"Archiv seit 2024 · Anfang erreicht",list:"Liste",cal:"Kalender",collRule:"Veranstalter-Regel",favs:"Favoriten",favAdd:"Zu Favoriten",favRem:"Aus Favoriten entfernen",favEv:"Gemerkte Events",favUp:"Kommende Events deiner Favoriten",favNone:"Noch keine Favoriten. Tippe in einer Karte auf ☆, um ein Event, einen Artist, einen Veranstalter oder eine Location zu merken.",favNoUp:"Gerade keine kommenden Events deiner Favoriten.",favKinds:{a:"Artists",c:"Veranstalter",v:"Locations"},favNote:"Favoriten werden nur auf diesem Gerät gespeichert.",showPast:"^ vergangene Events anzeigen",hidePast:"vergangene Events ausblenden",nowSep:"↑ vergangene Events · Heute ↓",price:"Eintritt",evKind:"Event",pastKind:"Vergangenes Event",pastNoteLu:"Dieses Event ist vorbei. Lineup laut Eventseite im Archiv.",pastNote:"Dieses Event ist vorbei. Lineup und Veranstalter stammen aus dem Eventtitel im Archiv und sind daher eventuell unvollständig.",moreCal:"weitere im Kalender",artistsL:"Artists",locs:"Locations",locsN:"Locations",vKind:"Location",opened:"Eröffnet",residents:"Residents",upcomingN:"Kommend",pastN:"Seit 2024",pastEv:"Vergangene Events",topColl:"Reihen & Veranstalter",topArt:"Oft zu Gast",residentAt:"Resident in",pastGigs:"Vergangene Auftritte",showAll:"alle anzeigen",closedV:"geschlossen",labelArt:"Label-Artists",friends:"Umfeld",approx:"laut Jubiläums-Events",archive:"Archiv",upShort:"kommend",pastShort:"seit 2024",last:"zuletzt",soundAll:"Soundsystem",kG:"G",kC:"K",colKind:"Veranstalter",founded:"Gegründet",seat:"Sitz",upcoming:"Termine",members:"DJs & Crew",guests:"Spielen bei ihren Events",series:"Reihen",noColl:"Zu diesem Veranstalter gibt es noch keine Infos. Der tägliche Task ergänzt sie nach und nach.",arts:"Artists",artistsN:"Artists",withInfo:"mit Infos",noDates:"Aktuell keine Termine in Wien.",noArts:"Keine Artists mit diesen Filtern.",dates:"Termine",coll:"Veranstalter",albums:"Alben",eps:"EPs & Singles",map:"Karte",mapHint:"Schematische Karte. Tippe auf einen Punkt oder eine Location darunter.",mapAll:"Alle Locations",outside:"außerhalb",noPin:"Ohne Ort auf der Karte",events:"Events",search:"Suche",ph:"Artist, Veranstalter, Club …",reset:"Filter zurücksetzen",prog:"Programm",
-  profile:"Vibe & Safety",genres:"Genres",venues:"Locations",colls:"Veranstalter",artists:"Artists",event:"event",
+  aka:"auch:",profile:"Vibe & Safety",genres:"Genres",venues:"Locations",colls:"Veranstalter",artists:"Artists",event:"event",
   lineup:"Lineup / Floors",timetable:"Timetable",time:"Zeit",entry:"Eintritt",date:"Datum",age:"Alter",
   tickets:"Tickets / Vorverkauf",flyer:"Flyer ansehen",source:"Gefunden auf",na:"k. A.",tba:"wird noch bekanntgegeben",maps:"In Google Maps öffnen",
   none:"Keine Events mit diesen Filtern.",alt:"anderswo",close:"Schließen",days:["So","Mo","Di","Mi","Do","Fr","Sa"],
@@ -867,7 +871,7 @@ const T={
   foot1:"Stand: 27. Oktober 2026. Quellen: Club-Websites (Grelle Forelle, FLUCC, SASS, PRST, Das Werk, Weberknecht, Exil), Veranstalter (hausgemacht u. a.) und Portale (Resident Advisor, oh schon hell, frey-tag, regioactive, events.at, volume.at, FALTER, Wien Modern, rausgegangen, sexpositives.com, goodnight.at).",
   foot2:"Events, die nur eine Quelle haben und nicht von der Location selbst bestätigt sind, tragen den Hinweis „nur 1 Quelle“. Vibe & Safety und Eintrittsalter sind nur markiert, wenn Club oder Veranstalter sie angeben. Grelle Forelle und Das Werk lassen laut Wien-Guides in der Regel ab 21 Jahren ein, SASS und O der Klub ab 18; einzelne Events können abweichen. Fehlt eine Markierung, heißt das nicht, dass es sie nicht gibt. Flyer werden nicht eingebettet, der Link führt zur Quelle."},
  en:{latestSC:"Latest tracks & sets on SoundCloud",latestMC:"Mixes on Mixcloud",latestSP:"Listen on Spotify",webS:"Website",listenS:"Listen",routeS:"Route",since:"Since",djs:"DJs",upShortU:"Upcoming",nextS:"Next",gigs:"Gigs",resShort:"Resident",floorsSound:"Floors & sound",nextEv:"Next events",moreShow:"more",showAllN:"show all % ▾",ticketsS:"Tickets",srcBtn:"Source",akOnly:"Door only",noTix:"No presale",zeroS:"Zero tolerance",pullPast:"↑ keep pulling for past events",stackClose:"Close stack",playNote:"Playing loads the SoundCloud or Mixcloud player (third party, sets cookies). It keeps playing at the bottom while you browse.",phTxt:"This player is loaded from %. Data is sent to % and cookies are set.",phBtn:"Load % player",phOpen:"Open on %",ckT:"Cookies & third parties",ckTxt:"rave.wien itself sets no tracking cookies. Favourites and filters are stored on your device only. Flyer images (loaded directly from organisers' websites) and SoundCloud and Mixcloud players only load after you agree.",ckMore:"Privacy",ckEss:"Essential only",ckAll:"Allow third parties",thArt:"Artist · Promoter",thCol:"Promoter",thVen:"Venue · Address",thNext:"Next date",thHear:"Listen",thGenRules:"Genres · Rules",thRules:"House rules · Sound",cTerm:"Dates",cTerm1:"Date",cUp:"Upcoming",cPast:"past",cDj:"DJs",calW:"Calendar",icsFile:"Apple / .ics file",thTime:"Time",thEv:"Event · Venue",thLu:"Lineup",thGen:"Genres · Vibe",thAge:"Age",thPrice:"Price",closeAll:"Close all",cols:"Promoters",colsN:"promoters",toCal:"Save to calendar",gcal:"Google Calendar",after:"Afterhour (starts 4am–noon)",qclear:"Clear search",favAsk:"add to favourites?",yes:"Add",no:"No",sug:"Suggest an event",sugL:"Link to the event (event page, RA, Instagram …)",sugNote:"Note (optional)",sugSend:"Send suggestion",sugOk:"Thanks! The suggestion will be reviewed.",sugMail:"Send suggestion by email ↗",sugMailOpen:"Your mail app opens with the suggestion – just hit send. Thanks!",sugMailAgain:"Didn't open? Click here ↗",sugAdm:"Suggestions awaiting approval (only visible to you)",approve:"Approve",reject:"Reject",sugNone:"No suggestions awaiting approval.",sugSt:{new:"new",pending:"awaiting approval",approved:"approved",published:"published",rejected:"rejected"},djs:"DJs",archTop:"Archive since 2024 · start reached",list:"List",cal:"Calendar",collRule:"promoter rule",favs:"Favourites",favAdd:"Add to favourites",favRem:"Remove from favourites",favEv:"Saved events",favUp:"Upcoming events of your favourites",favNone:"No favourites yet. Tap ☆ on a card to save an event, artist, promoter or venue.",favNoUp:"No upcoming events of your favourites right now.",favKinds:{a:"Artists",c:"Promoters",v:"Venues"},favNote:"Favourites are stored on this device only.",showPast:"^ show past events",hidePast:"hide past events",nowSep:"↑ past events · today ↓",price:"Entry",evKind:"Event",pastKind:"Past event",pastNoteLu:"This event is over. Lineup from the event page in the archive.",pastNote:"This event is over. Lineup and promoters come from the event title in the archive and may be incomplete.",moreCal:"more in the calendar",artistsL:"Artists",locs:"Venues",locsN:"venues",vKind:"Venue",opened:"Opened",residents:"Residents",upcomingN:"Upcoming",pastN:"Since 2024",pastEv:"Past events",topColl:"Series & promoters",topArt:"Frequent guests",residentAt:"Resident at",pastGigs:"Past gigs",showAll:"show all",closedV:"closed",labelArt:"Label artists",friends:"Circle",approx:"from anniversary events",archive:"Archive",upShort:"upcoming",pastShort:"since 2024",last:"last",soundAll:"Sound system",kG:"G",kC:"C",colKind:"Promoter",founded:"Founded",seat:"Based in",upcoming:"Dates",members:"DJs & crew",guests:"Playing at their events",series:"Series",noColl:"No info on this promoter yet. The daily task adds it over time.",arts:"Artists",artistsN:"artists",withInfo:"with info",noDates:"No upcoming dates in Vienna.",noArts:"No artists match these filters.",dates:"dates",coll:"Promoter",albums:"Albums",eps:"EPs & singles",map:"Map",mapHint:"Schematic map. Tap a dot or a venue below.",mapAll:"All venues",outside:"outside",noPin:"Not on the map",events:"events",search:"Search",ph:"Artist, promoter, club …",reset:"Reset filters",prog:"Programme",
-  profile:"Vibe & Safety",genres:"Genres",venues:"Venues",colls:"Promoters",artists:"Artists",event:"event",
+  aka:"aka",profile:"Vibe & Safety",genres:"Genres",venues:"Venues",colls:"Promoters",artists:"Artists",event:"event",
   lineup:"Lineup / floors",timetable:"Timetable",time:"Time",entry:"Entry",date:"Date",age:"Age",
   tickets:"Tickets / presale",flyer:"View flyer",source:"Found on",na:"n/a",tba:"to be announced",maps:"Open in Google Maps",
   none:"No events match these filters.",alt:"elsewhere",close:"Close",days:["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],
@@ -923,7 +927,14 @@ const UNI={v:Object.keys(V).filter(x=>x!=="Secret Location"&&x!=="TBA"),c:[...ne
 const CINFO=typeof CI!=="undefined"?CI:{};
 UNI.a=[...new Set([...Object.values(ARK).map(x=>canon(x.name)),...Object.values(CINFO).flatMap(c=>(c.members||[]).map(canon))])];
 const VINFO=typeof VI!=="undefined"?VI:{};
-const ckey=n=>fold(n).replace(/[^a-z0-9]/g,"");
+const ckey0=n=>fold(n).replace(/[^a-z0-9]/g,"");
+const CKA=(()=>{const o={};Object.keys(CINFO).forEach(n=>aliasArr(CINFO[n]).forEach(x=>{const k=ckey0(x);if(k&&k!==ckey0(n))o[k]=ckey0(n)}));return o})();
+const ckey=n=>{const k=ckey0(n);return CKA[k]||k};
+// Aliase (andere Schreibweisen) für Artists, Veranstalter und Locations
+const ALI=(()=>{const o={a:{},c:{},v:{}};Object.values(ARK).forEach(x=>{const l=aliasArr(x);if(l.length)o.a[akey(x.name)]=l});
+  Object.keys(CINFO).forEach(n=>{const l=aliasArr(CINFO[n]);if(l.length)o.c[ckey0(n)]=l});Object.keys(VINFO).forEach(n=>{const l=aliasArr(VINFO[n]);if(l.length)o.v[n]=l});return o})();
+const aliasOf=(k,n)=>(k==="a"?ALI.a[akey(n)]:k==="c"?ALI.c[ckey(n)]:ALI.v[n])||[];
+const qName=(k,n)=>[n,...aliasOf(k,n)].join(" ");
 const sameColl=(a,b)=>ckey(a)===ckey(b);
 const PASTR=(()=>{const seen=new Set(ALL.map(e=>e.id));
   const ended=ALL.filter(e=>endTime(e)<=NOW).map(e=>({id:e.id,past:1,ev:1,d:e.d,v:e.venue,t:e.title,c:e.coll,a:e.artists,x:{s:e.s,e:e.e,price:e.price,note:e.note}}));
@@ -939,7 +950,7 @@ function pastMatches(p){
   if(st.v.size&&!vs.some(x=>st.v.has(x)))return false;if(vs.some(x=>st.x.v.has(x)))return false;
   if(st.c.size&&!p.c.some(c=>[...st.c].some(x=>sameColl(x,c))))return false;if(p.c.some(c=>[...st.x.c].some(x=>sameColl(x,c))))return false;
   if(st.a.size&&!p.a.some(a=>st.a.has(a)))return false;if(p.a.some(a=>st.x.a.has(a)))return false;
-  if(st.q){const hh=norm([p.t,p.v,...p.c,...p.a].join(" "));if(!norm(st.q).split(" ").every(w=>hh.includes(w)))return false}
+  if(st.q){const hh=norm([p.t,qName("v",p.v),...p.c.map(x=>qName("c",x)),...p.a.map(x=>qName("a",x))].join(" "));if(!norm(st.q).split(" ").every(w=>hh.includes(w)))return false}
   return true}
 const vgroup=v=>(VINFO[v]&&VINFO[v].group)||v;
 const PART=(()=>{const m={};PASTR.forEach(p=>p.a.forEach(a=>{(m[a]=m[a]||[]).push(p)}));return m})();
@@ -957,7 +968,7 @@ function matches(e,skip){
     if(st.x[k].size&&vals.some(x=>st.x[k].has(x)))return false}
   if(skip!=="f"){for(const k of st.f)if(!e[k])return false;for(const k of st.x.f)if(e[k])return false}
   for(const [k,fn] of EXTRA){if(skip===k)continue;const v=[].concat(fn(e));if(st[k].size&&!v.some(x=>st[k].has(x)))return false;if(v.some(x=>st.x[k].has(x)))return false}
-  if(st.q){const h=norm([e.title,e.venue,...e.genres,...e.coll,...e.artists].join(" "));if(!norm(st.q).split(" ").every(w=>h.includes(w)))return false}
+  if(st.q){const h=norm([e.title,qName("v",e.venue),...e.genres,...e.coll.map(x=>qName("c",x)),...e.artists.map(x=>qName("a",x))].join(" "));if(!norm(st.q).split(" ").every(w=>h.includes(w)))return false}
   return true;
 }
 function flagHTML(e,noAge){const l=L();
@@ -1043,6 +1054,7 @@ function logoFit(u){const b=(typeof LOGOBOX!=="undefined"&&LOGOBOX||{})[u];if(!b
 function logoTile(n,cls,info){const vi=info||VINFO[n]||{};const lu=vi.logo||vi.img;const ok=isLogo(lu)&&coversOn();const fit=ok&&vi.logo?logoFit(lu):null;
   const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:(fit&&fit.bg)||"";
   return `<span class="lgt${cls?" "+cls:""}${vi.img&&!vi.logo?" ph":""}" aria-hidden="true"${bg&&ok?` style="background:${bg}"`:""}${ok?` data-flyer="${esc(lu)}" data-ft="${esc(n)}"`:""}>${esc(initials(n))}${ok?`<img src="${esc(lu)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"${fit?` style="${fit.st}"`:""}>`:""}</span>`}
+const akaH=(k,n)=>{const a=aliasOf(k,n);return a.length?`<div class="aka">${L().aka} ${a.map(esc).join(" · ")}</div>`:""};
 const noVen=v=>!v||v==="TBA"||v==="Secret Location";
 const venTag=(v,on)=>noVen(v)?`<span class="tag ve na">${IPIN}${esc(v||"TBA")}</span>`:`<span class="tag ve${on?" on":""}" data-tov="${esc(v)}">${IPIN}${esc(v)}</span>`;
 const colTag=c=>`<span class="tag co${st.c.has(c)?" on":""}" data-toc="${esc(c)}">${ICOL}${esc(c)}</span>`;
@@ -1189,7 +1201,7 @@ function renderArtists(ev){
   const l=L();const m=artistsFrom(ev);
   if(st.fav)FAV.a.forEach(n=>{if(!m.has(n))m.set(n,[])});
   let names=[...m.keys()];if(st.fav)names=names.filter(n=>FAV.a.includes(n));
-  const q=fold(st.q.trim());if(q)names=names.filter(n=>fold(n).includes(q));
+  const q=fold(st.q.trim());if(q)names=names.filter(n=>fold(qName("a",n)).includes(q));
   const sk=n=>fold(n).replace(/^[^a-z0-9]+/,"");names.sort((x,y)=>sk(x).localeCompare(sk(y)));
   const info=names.filter(n=>ARK[akey(n)]).length;
   $("t-list").textContent=`${names.length} ${l.artistsN}`;
@@ -1381,7 +1393,7 @@ function renderColl(cd,n){
   const prim=c.web?[l.webS,c.web]:c.tix?[l.ticketsS,c.tix]:null;
   cd.innerHTML=`${ctopHTML(l.colKind,favBtn("c",n))}
   <div class="ehead"><div class="emain">
-    <div class="head wt">${logoTile(n,"big",CINFO[n]||{})}<h2>${esc(n)}</h2></div>
+    <div class="head wt">${logoTile(n,"big",CINFO[n]||{})}<h2>${esc(n)}</h2></div>${akaH("c",n)}
     ${(c.type||[]).length?`<span class="sub2">${esc(c.type.join(" / "))}</span>`:""}
     ${c.from||c.series?`<span class="sub2">${IPIN}${esc([c.from,c.series?l.series+": "+c.series.join(", "):""].filter(Boolean).join(" · "))}</span>`:""}
     ${gclHTML(genres)}
@@ -1416,7 +1428,7 @@ function renderArtist(ad,name){
   const past=PART[name]||[];const co=collOf(name);const res=RESID[name]||[];
   ad.innerHTML=`${ctopHTML(l.artist,favBtn("a",name))}
   <div class="ehead"><div class="emain">
-    <div class="head wt">${logoTile(name,"big",a||{})}<h2>${esc(name)}</h2></div>
+    <div class="head wt">${logoTile(name,"big",a||{})}<h2>${esc(name)}</h2></div>${akaH("a",name)}
     ${co.length||res.length?`<div class="tags">${co.map(c=>`<button class="tag co" data-coll="${esc(c)}">${ICOL}${esc(c)}</button>`).join("")}${res.map(v=>`<button class="tag ve" data-vopen="${esc(v)}" title="${esc(l.residentAt)}">${IPIN}${esc(l.resShort)} ${esc(v)}</button>`).join("")}</div>`:""}
     ${a&&(a.from||a.real)?`<span class="sub2">${a.from?IPIN+esc(a.from[st.lang]||a.from.de):""}${a.real?(a.from?" · ":"")+esc(a.real):""}</span>`:""}
     ${gclHTML(genres)}
@@ -1469,7 +1481,7 @@ function renderVen(vd,n){
   const links=[];if(vi.web)links.push(["web",vi.web]);
   vd.innerHTML=`${ctopHTML(l.vKind,favBtn("v",n))}
   <div class="ehead"><div class="emain">
-    <div class="head wt">${logoTile(n,"big")}<h2>${esc(n)}${vi.closed?`<span class="badge">${l.closedV}</span>`:""}</h2></div>
+    <div class="head wt">${logoTile(n,"big")}<h2>${esc(n)}${vi.closed?`<span class="badge">${l.closedV}</span>`:""}</h2></div>${akaH("v",n)}
     ${addr?`<a class="addr" href="${route}" target="_blank" rel="noopener">${esc(addr)} ↗</a>`:""}
     ${FLAGS.some(f=>vr[f[0]])||(vi.io||[]).length?`<div class="flags">${ioTags(ioOf(vi.io))}${ruleTags(vr,l.house)}</div>`:""}
     ${gclHTML(tg)}
@@ -1486,7 +1498,7 @@ function renderVen(vd,n){
 }
 function renderLocs(){
   const l=L();const q=fold(st.q.trim());
-  let vs=UNI.v.slice();if(st.fav)vs=vs.filter(v=>FAV.v.includes(v));if(q)vs=vs.filter(v=>fold(v).includes(q));
+  let vs=UNI.v.slice();if(st.fav)vs=vs.filter(v=>FAV.v.includes(v));if(q)vs=vs.filter(v=>fold(qName("v",v)).includes(q));
   if(st.v.size)vs=vs.filter(v=>st.v.has(v));vs=vs.filter(v=>!st.x.v.has(v));
   const ioK=v=>{const k=ioOf((VINFO[v]||{}).io);return k.length?k:["unk"]};
   if(st.io.size)vs=vs.filter(v=>ioK(v).some(k=>st.io.has(k)));if(st.x.io.size)vs=vs.filter(v=>!ioK(v).some(k=>st.x.io.has(k)));
@@ -1504,7 +1516,7 @@ function renderLocs(){
 function renderColls(){
   const l=L();const q=fold(st.q.trim());
   const all=[...UNI.c];EV.forEach(e=>e.coll.forEach(c=>{if(!all.some(x=>sameColl(x,c)))all.push(c)}));
-  let cs=all;if(st.fav)cs=cs.filter(c=>FAV.c.some(x=>sameColl(x,c)));if(q)cs=cs.filter(c=>fold(c).includes(q));
+  let cs=all;if(st.fav)cs=cs.filter(c=>FAV.c.some(x=>sameColl(x,c)));if(q)cs=cs.filter(c=>fold(qName("c",c)).includes(q));
   const fa=FK.some(k=>k!=="c"&&(st[k].size||st.x[k].size));if(st.c.size)cs=cs.filter(c=>[...st.c].some(x=>sameColl(x,c)));cs=cs.filter(c=>![...st.x.c].some(x=>sameColl(x,c)));
   const rows=xorder(cs.map(c=>{const up=EV.filter(e=>e.coll.some(x=>sameColl(x,c))&&matches(e,"c"));return {n:c,c,up,mem:collMembers(c).length,nx:up[0],n1:up.length,n2:PASTR.filter(p=>p.c.some(x=>sameColl(x,c))).length}}).filter(r=>!fa||r.up.length));
   $("t-list").textContent=`${st.fav?"★ ":""}${rows.length} ${l.colsN}`;
@@ -1617,7 +1629,7 @@ function renderActive(){
 function suggestions(q){
   const f=fold(q.trim());if(f.length<2)return [];
   const l=L();const out=[];
-  const add=(k,name,count,extra,date)=>{const i=fold(name).indexOf(f);if(i<0)return;out.push({k,name,count,i,extra,date})};
+  const add=(k,name,count,extra,date)=>{let i=fold(name).indexOf(f),al="";if(i<0&&(k==="a"||k==="c"||k==="v")){al=aliasOf(k,name).find(x=>fold(x).includes(f))||"";if(!al)return;i=50+fold(al).indexOf(f)}if(i<0)return;out.push({k,name,count,i,extra,date,al})};
   const cnt=(get,base=[])=>{const m=new Map(base.map(x=>[x,0]));EV.forEach(e=>get(e).forEach(x=>m.set(x,(m.get(x)||0)+1)));return m};
   cnt(e=>e.coll,UNI.c).forEach((c,n)=>add("c",n,c));
   cnt(e=>e.artists,ALLART()).forEach((c,n)=>add("a",n,c));
@@ -1635,7 +1647,7 @@ function renderSugg(){
   if(st.q.trim().length<2){box.hidden=true;$("q").setAttribute("aria-expanded","false");return}
   const l=L();const f=fold(st.q.trim());
   const hl=n=>{const i=fold(n).indexOf(f);return i<0?esc(n):esc(n.slice(0,i))+"<mark>"+esc(n.slice(i,i+f.length))+"</mark>"+esc(n.slice(i+f.length))};
-  box.innerHTML=SUG.length?SUG.map((s,i)=>`<button class="sg" role="option" data-si="${i}" aria-selected="${i===st.hi}"><span class="ty">${l.ty[s.k]}:</span><span class="nm">${hl(s.name)}</span>${s.count!=null?`<em>${s.count}</em>`:s.date?`<em>${s.date.split("-").reverse().join(".")}</em>`:""}</button>`).join("")
+  box.innerHTML=SUG.length?SUG.map((s,i)=>`<button class="sg" role="option" data-si="${i}" aria-selected="${i===st.hi}"><span class="ty">${l.ty[s.k]}:</span><span class="nm">${hl(s.name)}${s.al?` <small class="al">(${hl(s.al)})</small>`:""}</span>${s.count!=null?`<em>${s.count}</em>`:s.date?`<em>${s.date.split("-").reverse().join(".")}</em>`:""}</button>`).join("")
     :`<div class="sg" style="color:var(--mute)">${l.nosugg}</div>`;
   box.hidden=false;$("q").setAttribute("aria-expanded","true");
 }
@@ -1868,7 +1880,7 @@ function schema(kind){
     ["io","Indoor / Outdoor (leer = automatisch über die Location)","checks","full",{opts:["Indoor","Outdoor"]}],
     ["_flags","Vibe & Safety","flags","full",{flags:EVFLAGS}]];
   if(kind==="art")return [
-    ["from.de","Herkunft (DE)","text"],["from.en","Herkunft (EN)","text"],["real","Bürgerlicher Name","text"],["img","Profilbild (Bild-Adresse)","url"],
+    ["from.de","Herkunft (DE)","text"],["from.en","Herkunft (EN)","text"],["real","Bürgerlicher Name","text"],["alias","Aliase / andere Schreibweisen","chips","full"],["img","Profilbild (Bild-Adresse)","url"],
     ["genres","Genres","chips","full",{list:"edl-gen"}],["coll","Veranstalter / Kollektiv","chips","full",{list:"edl-col"}],
     ["bio.de","Bio (DE)","textarea","full"],["bio.en","Bio (EN)","textarea","full"],
     ["labels","Labels","chips","full"],["sets","Sets zum Reinhören","sets","full"],
@@ -1876,7 +1888,7 @@ function schema(kind){
     ["links.ig","Instagram","url"],["links.ra","Resident Advisor","url"],["links.web","Website","url","full"]];
   if(kind==="col")return [
     ["type","Art","checks","full",{opts:COLTYPES}],
-    ["founded","Gegründet (Jahr)","text"],["from","Sitz","text"],
+    ["founded","Gegründet (Jahr)","text"],["from","Sitz","text"],["alias","Aliase / andere Schreibweisen","chips","full"],
     ["genres","Typische Genres","chips","full",{list:"edl-gen"}],
     ["de","Beschreibung (DE)","textarea","full"],["en","Beschreibung (EN)","textarea","full"],
     ["members","DJs & Crew","chips","full",{list:"edl-art"}],
@@ -1884,7 +1896,7 @@ function schema(kind){
     ["logoBg","Logo-Hintergrund","select",null,{opts:["","#ffffff"],labels:["dunkel (Standard)","weiß"]}],
     ["_rules","Regeln für alle Events","rflags","full",{flags:RULEFLAGS}]];
   return [
-    ["address","Adresse (Straße Nr, PLZ)","text","full"],["web","Website","url"],["opened","Eröffnet (Jahr)","text"],
+    ["address","Adresse (Straße Nr, PLZ)","text","full"],["alias","Aliase / andere Schreibweisen","chips","full"],["web","Website","url"],["opened","Eröffnet (Jahr)","text"],
     ["de","Beschreibung (DE)","textarea","full"],["en","Beschreibung (EN)","textarea","full"],
     ["io","Indoor / Outdoor","checks","full",{opts:["Indoor","Outdoor"]}],["ioMain","Bei beidem: hauptsächlich","select",null,{opts:["","Outdoor"],labels:["Indoor (Nov–Feb automatisch drinnen)","Outdoor (z. B. Usus)"]}],
     ["floors","Floors","chips","full"],["logo","Logo (Bild-Adresse)","url"],

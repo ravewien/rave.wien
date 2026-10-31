@@ -1733,6 +1733,7 @@ const VI={
   "infoChk": "2026-10-31"
  },
  "PRST": {
+  "alias": ["Praterstraße", "Club Praterstraße"],
   "opened": "2020",
   "de": "Club Praterstraße (PRST), House- und Techno-Club in der Leopoldstadt.",
   "en": "Club Praterstraße (PRST), house and techno club in Leopoldstadt.",
@@ -2142,6 +2143,7 @@ const LS={
 };
 const AR={
  "Tanzfuchs": {
+  "alias": ["TNZFX"],
   "sets": [
    {
     "t": "Tanzfuchs – Integrity",
