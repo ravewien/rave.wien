@@ -640,6 +640,7 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
   .xhead{display:grid;grid-template-columns:var(--xc);column-gap:16px;padding:7px 14px;font-family:var(--f-mono);font-size:9.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--mute);border-bottom:1px solid var(--line)}
   .x-col .xhead .h2,.x-ven .xhead .h5{display:none}
   .xhead .h4,.xhead .h5{text-align:right}
+  .xsb{background:none;border:0;padding:0;font:inherit;letter-spacing:inherit;text-transform:inherit;color:inherit;cursor:pointer}.xsb:hover{color:var(--fg)}.xsb.on{color:var(--fg)}
   .xr{grid-template-columns:var(--xc);column-gap:16px;padding:9px 14px;align-items:center}
   .xr .main,.xr .stub{display:contents}
   .xr,.xhead{padding-right:36px}
@@ -1171,21 +1172,18 @@ function renderArtists(ev){
   const info=names.filter(n=>ARK[akey(n)]).length;
   $("t-list").textContent=`${names.length} ${l.artistsN}`;
   if(!names.length){$("out").innerHTML=`<div class="empty-state">${l.noArts}</div>`;return}
-  let html="",cur="";
-  names.forEach(n=>{
-    const f0=sk(n)[0]||"#";const L0=/[a-z]/.test(f0)?f0.toUpperCase():"#";
-    if(L0!==cur){html+=cur?'<div class="daygap"></div>':"";cur=L0;html+=`<div class="dayhdr">${cur} <span>${names.filter(x=>{const f=sk(x)[0]||"#";return (/[a-z]/.test(f)?f.toUpperCase():"#")===cur}).length}</span></div>`}
-    const a=ARK[akey(n)];const evs=(m.get(n)||[]).slice().sort((x,y)=>x.d.localeCompare(y.d));
+  const rows=xorder(names.map(n=>{const evs=(m.get(n)||[]).slice().sort((x,y)=>(x.d+(x.s||"")).localeCompare(y.d+(y.s||"")));return {n,evs,nx:evs[0],n1:evs.length,n2:(PART[n]||[]).length}}));
+  const html=rows.map(r=>{const n=r.n,evs=r.evs;
+    const a=ARK[akey(n)];
     const gen=a&&a.genres?a.genres:[];
     const co=collOf(n);const from=a&&a.from?(a.from[st.lang]||a.from.de):"";const lk=(a&&a.links)||{};
     const hear=["sc","mc","sp","bc"].filter(k=>lk[k]).map(k=>`<span class="lk">${LICON[k]}</span>`).join("");
-    html+=xrowHTML({k:"art",tile:logoTile(n,"",a||{}),attr:`data-aopen="${esc(n)}"`,cur:st.artist===n,name:n,
+    return xrowHTML({k:"art",tile:logoTile(n,"",a||{}),attr:`data-aopen="${esc(n)}"`,cur:st.artist===n,name:n,
       sub:RESID[n]?`${l.residents.replace(/s$/,"")}: ${RESID[n].join(", ")}`:"",
       tags:co.map(c=>`<span class="tag co${st.c.has(c)?" on":""}" data-tf="c" data-n="${esc(c)}">${ICOL}${esc(c)}</span>`).join(""),c2:from,
       gen:gen.slice(0,4),flags:"",nx:evs[0],nxSub:evs[0]?`<span class="tag ve${st.v.has(evs[0].venue)?" on":""}" data-tf="v" data-n="${esc(evs[0].venue)}">${IPIN}${esc(evs[0].venue)}</span>`:"",
-      n1:evs.length,n2:(PART[n]||[]).length,n1l:l.cUp,ex:hear});
-  });
-  $("out").innerHTML=`<div class="xlist x-art">${xheadHTML("art")}${html}</div>`;
+      n1:r.n1,n2:r.n2,n1l:l.cUp,ex:hear})});
+  $("out").innerHTML=`<div class="xlist x-art">${xheadHTML("art")}${withLetters(rows,html)}</div>`;
 }
 const EMBED=/(^|\.)rave\.wien$/.test(location.hostname);
 const GCQ=[];function gc(path,title,event){if(!EMBED)return;const o={path,title:title||path,event:!!event};try{if(window.goatcounter&&window.goatcounter.count)window.goatcounter.count(o);else GCQ.push(o)}catch(_){}}
@@ -1468,35 +1466,41 @@ function renderLocs(){
   const l=L();const q=fold(st.q.trim());
   let vs=UNI.v.slice();if(st.fav)vs=vs.filter(v=>FAV.v.includes(v));if(q)vs=vs.filter(v=>fold(v).includes(q));
   const fa=FK.some(k=>k!=="v"&&(st[k].size||st.x[k].size));if(st.v.size)vs=vs.filter(v=>st.v.has(v));vs=vs.filter(v=>!st.x.v.has(v));
-  const rows=xsort(vs.map(v=>{const s=venueStats(v);return {n:v,up:s.up.filter(e=>matches(e,"v")),all:s.up}}).filter(r=>!fa||r.up.length));
+  const rows=xorder(vs.map(v=>{const s=venueStats(v);const up=s.up.filter(e=>matches(e,"v"));return {n:v,up,all:s.up,nx:up[0],n1:up.length,n2:s.past.length}}).filter(r=>!fa||r.up.length));
   $("t-list").textContent=`${rows.length} ${l.locsN}`;
   $("out").innerHTML=`<div class="xlist x-ven">${xheadHTML("ven")}${withLetters(rows,rows.map(r=>{const vi=VINFO[r.n]||{};const vr=VRULES[r.n]||{};const g={};r.all.forEach(e=>e.genres.forEach(x=>g[x]=(g[x]||0)+1));const tg=Object.entries(g).sort((a,b)=>b[1]-a[1]).slice(0,4).map(x=>x[0]);
     const snd=vr.sound?(vr.sound[st.lang]||vr.sound.de||""):"";
     const rules=ioTags(ioOf(vi.io))+(vr.age?`<span class="flag age">${esc(vr.age)}</span>`:"")+ruleFlags(vr)+(snd?`<span class="snd">♫ ${esc(snd.length>48?snd.slice(0,46)+"…":snd)}</span>`:"");
     return xrowHTML({k:"ven",tile:logoTile(r.n),attr:`data-vopen="${esc(r.n)}"`,cur:st.ven===r.n,name:r.n,closed:vi.closed,sub:V[r.n]&&V[r.n]!=="TBA"?V[r.n]:"",tags:"",c2:"",
-      gen:tg,flags:rules,nx:r.up[0],nxSub:r.up[0]?`<span class="nxt">${esc(r.up[0].title)}</span>`:"",n1:r.up.length,n2:venueStats(r.n).past.length,n1l:l.cUp,ex:""})}))}</div>`;
+      gen:tg,flags:rules,nx:r.up[0],nxSub:r.up[0]?`<span class="nxt">${esc(r.up[0].title)}</span>`:"",n1:r.n1,n2:r.n2,n1l:l.cUp,ex:""})}))}</div>`;
 }
 function renderColls(){
   const l=L();const q=fold(st.q.trim());
   const all=[...UNI.c];EV.forEach(e=>e.coll.forEach(c=>{if(!all.some(x=>sameColl(x,c)))all.push(c)}));
   let cs=all;if(st.fav)cs=cs.filter(c=>FAV.c.some(x=>sameColl(x,c)));if(q)cs=cs.filter(c=>fold(c).includes(q));
   const fa=FK.some(k=>k!=="c"&&(st[k].size||st.x[k].size));if(st.c.size)cs=cs.filter(c=>[...st.c].some(x=>sameColl(x,c)));cs=cs.filter(c=>![...st.x.c].some(x=>sameColl(x,c)));
-  const rows=xsort(cs.map(c=>{const up=EV.filter(e=>e.coll.some(x=>sameColl(x,c))&&matches(e,"c"));return {n:c,c,up,mem:collMembers(c).length}}).filter(r=>!fa||r.up.length));
+  const rows=xorder(cs.map(c=>{const up=EV.filter(e=>e.coll.some(x=>sameColl(x,c))&&matches(e,"c"));return {n:c,c,up,mem:collMembers(c).length,nx:up[0],n1:up.length,n2:PASTR.filter(p=>p.c.some(x=>sameColl(x,c))).length}}).filter(r=>!fa||r.up.length));
   $("t-list").textContent=`${st.fav?"★ ":""}${rows.length} ${l.colsN}`;
   if(!rows.length){$("out").innerHTML=`<div class="empty-state">${l.none}</div>`;return}
   $("out").innerHTML=`<div class="xlist x-col">${xheadHTML("col")}${withLetters(rows,rows.map(r=>{const ci=CINFO[r.c]||{};const g=[...new Set([...(CGEN[r.c]||[]),...r.up.flatMap(e=>e.genres)])].slice(0,4);
     const sub=[(ci.type||[]).join(" / "),ci.founded?l.since+" "+(ci.foundedNote?"≈ ":"")+ci.founded:"",ci.from||""].filter(Boolean).join(" · ");
     return xrowHTML({k:"col",tile:logoTile(r.c,"",ci),attr:`data-copen="${esc(r.c)}"`,cur:st.coll===r.c,name:r.c,sub,tags:"",c2:"",gen:g,flags:ruleFlags(ci.rules||{}),
-      nx:r.up[0],nxSub:r.up[0]?`<span class="tag ve${st.v.has(r.up[0].venue)?" on":""}" data-tf="v" data-n="${esc(r.up[0].venue)}">${IPIN}${esc(r.up[0].venue)}</span>`:"",n1:r.up.length,n2:PASTR.filter(p=>p.c.some(x=>sameColl(x,r.c))).length,n1l:l.cUp,ex:r.mem?`<span class="xn">${r.mem}<small>${l.cDj}</small></span>`:""})}))}</div>`;
+      nx:r.up[0],nxSub:r.up[0]?`<span class="tag ve${st.v.has(r.up[0].venue)?" on":""}" data-tf="v" data-n="${esc(r.up[0].venue)}">${IPIN}${esc(r.up[0].venue)}</span>`:"",n1:r.n1,n2:r.n2,n1l:l.cUp,ex:r.mem?`<span class="xn">${r.mem}<small>${l.cDj}</small></span>`:""})}))}</div>`;
 }
 /* overview rows for artists / collectives / venues – same structure as event rows */
 const sortKey=n=>fold(n).replace(/^[^a-z0-9]+/,"");
 function xsort(rows){return rows.sort((a,b)=>sortKey(a.n).localeCompare(sortKey(b.n)))}
-function withLetters(rows,html){let cur="",out="";rows.forEach((r,i)=>{const f=sortKey(r.n)[0]||"#";const L0=/[a-z]/.test(f)?f.toUpperCase():"#";
+let XS={by:"name",dir:1};try{const o=JSON.parse(localStorage.getItem("rw-xsort")||"null");if(o&&o.by)XS=o}catch(_){}
+const xsOn=()=>XS.by!=="name"&&($("out").clientWidth||0)>=760;
+function xorder(rows){xsort(rows);if(!xsOn())return rows;const d=XS.dir;const nk=r=>r.nx?(r.nx.d+(r.nx.s||"99")):null;
+  const f={next:(a,b)=>{const x=nk(a),y=nk(b);if(!x&&!y)return 0;if(!x)return 1;if(!y)return -1;return d*x.localeCompare(y)},up:(a,b)=>d*((b.n1||0)-(a.n1||0)),past:(a,b)=>d*((b.n2||0)-(a.n2||0))}[XS.by];
+  if(f){const idx=new Map(rows.map((r,i)=>[r,i]));rows.sort((a,b)=>f(a,b)||idx.get(a)-idx.get(b))}return rows}
+function withLetters(rows,html){if(xsOn())return html.join("");let cur="",out="";rows.forEach((r,i)=>{const f=sortKey(r.n)[0]||"#";const L0=/[a-z]/.test(f)?f.toUpperCase():"#";
   if(L0!==cur){out+=cur?'<div class="daygap"></div>':"";cur=L0;out+=`<div class="dayhdr">${cur} <span>${rows.filter(x=>{const g=sortKey(x.n)[0]||"#";return (/[a-z]/.test(g)?g.toUpperCase():"#")===cur}).length}</span></div>`}out+=html[i]});return out}
 function ruleFlags(r){const l=L();return FLAGS.filter(f=>r&&r[f[0]]).map(([k,c,lab,,ic])=>`<span class="flag ${c}${st.f.has(k)?" on":""}" data-tf="f" data-n="${k}" title="${esc(l[lab])}"><i class="ico ${c}">${ic}</i>${esc(l[lab])}</span>`).join("")}
 function xheadHTML(k){const l=L();const H={art:[l.thArt,l.origin,l.genres,l.thNext,l.cTerm,l.thHear],col:[l.thCol,l.thGenRules,"",l.thNext,l.cTerm,l.cDj],ven:[l.thVen,l.genres,l.thRules,l.thNext,l.cTerm,""]}[k];
-  return `<div class="xhead">${H.map((h,i)=>`<span class="h${i}">${esc(h)}</span>`).join("")}</div>`}
+  const ar=b=>XS.by===b||(b==="name"&&!xsOn())?(XS.dir>0||b==="name"?" ▾":" ▴"):"";const sb=(b,t)=>`<button type="button" class="xsb${XS.by===b||(b==="name"&&!xsOn())?" on":""}" data-xs="${b}">${esc(t)}${ar(b)}</button>`;
+  return `<div class="xhead">${H.map((h,i)=>`<span class="h${i}">${i===0?sb("name",h):i===3?sb("next",h):i===4?sb("up",l.cUp)+" · "+sb("past",l.cPast):esc(h)}</span>`).join("")}</div>`}
 function xrowHTML(o){const l=L();
   const fk={art:"a",col:"c",ven:"v"}[o.k];return `<button class="row xr${o.closed?" xclosed":""}${isFav(fk,o.name)?" isfav":""}" ${o.attr} aria-current="${o.cur}">${rstar(fk,o.name)}<span class="main">
     <span class="c1${o.tile?" wl":""}">${o.tile||""}${o.tile?`<span class="c1t">`:""}<span class="ti">${esc(o.name)}${o.closed?`<span class="badge">${l.closedV}</span>`:""}</span>${o.sub?`<small class="sub">${esc(o.sub)}</small>`:""}${o.tags?`<span class="tags">${o.tags}</span>`:""}${o.tile?`</span>`:""}</span>
@@ -1680,6 +1684,7 @@ document.addEventListener("click",ev=>{
   if(mqSheet.matches&&st.cards.some(c=>!c.min)){if(ev.target.closest(".top,#msearch,.side"))minAll();else if(!ev.target.closest(".rcol,.dscrim")){ev.preventDefault();ev.stopPropagation();minAll();return}}
   const cd=ev.target.closest("[data-cday]");
   if(cd&&!ev.target.closest(".ev")&&matchMedia("(max-width:639px)").matches){st.calDay=cd.dataset.cday;renderList();return}
+  const xsb=ev.target.closest("#out [data-xs]");if(xsb){const b=xsb.dataset.xs;XS=XS.by===b&&b!=="name"?{by:b,dir:-XS.dir}:{by:b,dir:1};try{localStorage.setItem("rw-xsort",JSON.stringify(XS))}catch(_){}render();return}
   const tf=ev.target.closest("#out [data-tf]");if(tf){const k=tf.dataset.tf,n=tf.dataset.n;st.x[k].delete(n);if(st[k].has(n))st[k].delete(n);else st[k].add(n);render();return}
   const pg=ev.target.closest("[data-pin]");if(pg){st.pin=st.pin===pg.dataset.pin?null:pg.dataset.pin;renderList();return}
   const tb=ev.target.closest("button,a");
