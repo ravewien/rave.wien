@@ -219,6 +219,11 @@ body.vw-loc{--accent:var(--c-ven);--accent-fg:#06140a;--sel:#173f20}
 .cal .ev.pastev:hover,.cal .ev.pastev[aria-current="true"]{opacity:.8}
 .cal .dots i.pd{opacity:.35}
 .row.pastrow{opacity:.55}
+.cov.live img,.lgt.fly.live img{border-radius:50% !important;-webkit-mask:radial-gradient(circle,transparent 0 5%,#000 5.5%);mask:radial-gradient(circle,transparent 0 5%,#000 5.5%);animation:rwspin 3.2s linear infinite}
+.row.tk>.cov.live::before{border-radius:50%;animation:rwspin 3.2s linear infinite}
+.cov.done img,.lgt.fly.done img{filter:grayscale(1) brightness(.75)}
+@keyframes rwspin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.cov.live img,.lgt.fly.live img,.row.tk>.cov.live::before{animation:none}}
 .deck.isp h2{color:var(--mute)}
 .morebtn{margin-top:8px;background:none;border:1px solid var(--line);border-radius:3px;color:var(--mute);font-size:12px;padding:5px 12px}
 .morebtn:hover{color:var(--fg)}
@@ -1028,7 +1033,8 @@ const isLogo=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif|svg)(\?[^"'<>\s
 const initials=n=>n.replace(/^(the|club|das|der|die|o)\s+/i,"").split(/[\s\-–.]+/).filter(w=>/^[A-Za-z0-9ÄÖÜäöü]/.test(w)).slice(0,2).map(w=>w[0].toUpperCase()).join("")||n.slice(0,2).toUpperCase();
 function logoTile(n,cls,info){const vi=info||VINFO[n]||{};const lu=vi.logo||vi.img;const ok=isLogo(lu)&&coversOn();const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:"";
   return `<span class="lgt${cls?" "+cls:""}${vi.img&&!vi.logo?" ph":""}" aria-hidden="true"${bg&&ok?` style="background:${bg}"`:""}${ok?` data-flyer="${esc(lu)}" data-ft="${esc(n)}"`:""}>${esc(initials(n))}${ok?`<img src="${esc(lu)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
-function coverHTML(e){return `<span class="cov" aria-hidden="true"${isImg(e.flyer)&&coversOn()?` data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}"`:""}>${isImg(e.flyer)&&coversOn()?`<img src="${esc(e.flyer)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
+function evPhase(e){const en=endTime(e);if(NOW>=en)return "done";const st0=new Date(e.d+"T"+(e.s||"22:00")+":00");return NOW>=st0?"live":""}
+function coverHTML(e){return `<span class="cov ${evPhase(e)}" aria-hidden="true"${isImg(e.flyer)&&coversOn()?` data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}"`:""}>${isImg(e.flyer)&&coversOn()?`<img src="${esc(e.flyer)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
 document.addEventListener("error",ev=>{const t=ev.target;if(t&&t.tagName==="IMG"&&t.parentNode&&t.parentNode.classList&&(t.parentNode.classList.contains("cov")||t.parentNode.classList.contains("lgt"))){if(t.parentNode.classList.contains("fly")){t.parentNode.remove();return}t.parentNode.removeAttribute("data-flyer");t.remove()}},true);
 let PTOT=0;
 function topH(){return (parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--top2"))||56)+8}
@@ -1549,7 +1555,7 @@ function renderEv(dk,id){
   const fimg=isImg(e.flyer)&&coversOn();
   dk.innerHTML=`<div class="ctop"><span class="akind"${endTime(e)<=NOW?' style="color:var(--mute)"':""}>${endTime(e)<=NOW?l.pastKind:l.evKind}</span><span class="cbtns">${favBtn("e",e.id)}<button class="close" data-close aria-label="${l.close}">×</button></span></div>
     <div class="ehead"><div class="emain">
-      <div class="head${fimg?" wt":""}">${fimg?`<button type="button" class="lgt fly" data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}" aria-label="${esc(l.flyer)}"><img src="${esc(e.flyer)}" alt="" loading="lazy" referrerpolicy="no-referrer"></button>`:""}<h2>${esc(e.title)}</h2>${vchk(e)}</div>
+      <div class="head${fimg?" wt":""}">${fimg?`<button type="button" class="lgt fly ${evPhase(e)}" data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}" aria-label="${esc(l.flyer)}"><img src="${esc(e.flyer)}" alt="" loading="lazy" referrerpolicy="no-referrer"></button>`:""}<h2>${esc(e.title)}</h2>${vchk(e)}</div>
       <div class="tags"><button class="tag ve" data-venue="${esc(e.venue)}">${IPIN}${esc(e.venue)}</button>${e.coll.map(c=>`<button class="tag co" data-coll="${esc(c)}">${ICOL}${esc(c)}</button>`).join("")}</div>
       ${addr?`<a class="addr" href="${maps(e)}" target="_blank" rel="noopener" title="${l.maps}">${esc(addr)} ↗</a>`:""}
       ${e.genres.length?`<span class="tags"><span class="gcl"><b>♫</b>${e.genres.map(g=>`<button data-f="g" data-n="${esc(g)}"${e.typGenres.includes(g)?` class="typ" title="${esc(l.typ)}"`:""}>${esc(g)}${e.typGenres.includes(g)?"*":""}</button>`).join("")}</span></span>`:""}
