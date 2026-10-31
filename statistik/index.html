@@ -43,6 +43,8 @@ h2{font-family:var(--f-display);font-weight:700;letter-spacing:.12em;text-transf
 .mt td:first-child i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
 .mt td.pc{color:var(--fg);font-weight:700;width:52px}
 .mt td.ct{color:var(--mute)}
+.mt tr.sr td{color:var(--mute);border-bottom:0}
+.mt td:first-child i.dash{height:0;border-top:2px dashed #7d8491;border-radius:0;vertical-align:3px}
 .pies{display:grid;grid-template-columns:repeat(auto-fill,minmax(110px,1fr));gap:8px;margin-top:4px}
 .pie{text-align:center;font-size:12px;color:var(--mute)}
 .pie .pw{position:relative;height:96px}
@@ -110,22 +112,24 @@ const line=(id,lgId,series,pct,zero=true)=>{const cols=[C.s1,C.s2,C.s3,C.s4,C.s5
 const pc=(a,n)=>n?100*a/n:0;
 const Q=[
  {t:"Kommende Events",p:"Anteil der kommenden Events mit …",tot:s=>s.upq.n,m:[["Beschreibung",s=>s.upq.note],["Preis",s=>s.upq.price],["Line-up",s=>s.upq.lineup],["Genres",s=>s.upq.genres],["Flyer",s=>s.upq.flyer]]},
- {t:"Artists bei kommenden Events",p:"Anteil der Artists, die demnächst spielen, mit …",tot:s=>s.art.upN||0,m:[["Links",s=>s.art.upLinks||0],["Bild",s=>s.art.upImg||0],["Bio",s=>s.art.upBio||0],["Sets",s=>s.art.upSets||0]]},
- {t:"Veranstalter bei kommenden Events",p:"Anteil der Veranstalter mit kommenden Events mit …",tot:s=>s.col.upN||0,m:[["Text",s=>s.col.upTxt||0],["Website/Instagram",s=>s.col.upWeb||0],["Logo",s=>s.col.upLogo||0]]},
- {t:"Locations",p:"Anteil aller Locations mit …",tot:s=>s.ven.now,m:[["Indoor/Outdoor",s=>s.ven.io],["Text",s=>s.ven.txt],["Logo",s=>s.ven.logo]]}];
+ {t:"Artists bei kommenden Events",p:"Anteil der Artists, die demnächst spielen, mit …",tot:s=>s.art.upN||0,sr:s=>s.art.upSrch||0,srl:"schon gesucht",m:[["Links",s=>s.art.upLinks||0],["Bild",s=>s.art.upImg||0],["Bio",s=>s.art.upBio||0],["Sets",s=>s.art.upSets||0]]},
+ {t:"Veranstalter bei kommenden Events",p:"Anteil der Veranstalter mit kommenden Events mit …",tot:s=>s.col.upN||0,sr:s=>s.col.upSrch||0,srl:"schon gesucht",m:[["Text",s=>s.col.upTxt||0],["Website/Instagram",s=>s.col.upWeb||0],["Logo",s=>s.col.upLogo||0]]},
+ {t:"Locations",p:"Anteil aller Locations mit …",tot:s=>s.ven.now,sr:s=>s.ven.srch||0,srl:"Logo gesucht",m:[["Indoor/Outdoor",s=>s.ven.io],["Text",s=>s.ven.txt],["Logo",s=>s.ven.logo]]}];
 const COLS=[C.s1,C.s2,C.s3,C.s4,C.s5];const QC=[];
 const pcs=(v,n)=>n?Math.round(100*v/n):0;
 function renderQ(mode){QC.splice(0).forEach(c=>c.destroy());
  document.getElementById("qual").innerHTML=Q.map((q,qi)=>{const n=q.tot(last);
-  return `<div class="card"><h3>${q.t}</h3><p>${q.p}</p><table class="mt">${q.m.map((m,i)=>{const v=m[1](last);return `<tr><td><i style="background:${COLS[i]}"></i>${m[0]}</td><td class="ct">${fmt(v)} von ${fmt(n)}</td><td class="pc">${pcs(v,n)} %</td></tr>`}).join("")}</table>${mode==="line"?`<div class="cv tall"><canvas id="q${qi}"></canvas></div>`:`<div class="pies">${q.m.map((m,i)=>`<div class="pie"><div class="pw"><canvas id="q${qi}p${i}"></canvas><b>${pcs(m[1](last),n)} %</b></div><span>${m[0]}</span>${fmt(m[1](last))} / ${fmt(n)}</div>`).join("")}</div>`}</div>`}).join("");
+  return `<div class="card"><h3>${q.t}</h3><p>${q.p}</p><table class="mt">${q.m.map((m,i)=>{const v=m[1](last);return `<tr><td><i style="background:${COLS[i]}"></i>${m[0]}</td><td class="ct">${fmt(v)} von ${fmt(n)}</td><td class="pc">${pcs(v,n)} %</td></tr>`}).join("")}${q.sr?`<tr class="sr"><td><i class="dash"></i>${q.srl}</td><td class="ct">${fmt(q.sr(last))} von ${fmt(n)}</td><td class="pc">${pcs(q.sr(last),n)} %</td></tr>`:""}</table>${mode==="line"?`<div class="cv tall"><canvas id="q${qi}"></canvas></div>`:`<div class="pies">${q.sr?`<div class="pie"><div class="pw"><canvas id="q${qi}ps"></canvas><b>${pcs(q.sr(last),n)} %</b></div><span>${q.srl}</span>${fmt(q.sr(last))} / ${fmt(n)}</div>`:""}${q.m.map((m,i)=>`<div class="pie"><div class="pw"><canvas id="q${qi}p${i}"></canvas><b>${pcs(m[1](last),n)} %</b></div><span>${m[0]}</span>${fmt(m[1](last))} / ${fmt(n)}</div>`).join("")}</div>`}</div>`}).join("");
  Q.forEach((q,qi)=>{
   if(mode==="line"){const o=JSON.parse(JSON.stringify(base));const t0=new Date(vday(first.t)+"T00:00:00").getTime()-3600e3;
    o.scales.x={type:"linear",min:t0,max:Math.max(Date.parse(last.t),t0+86400e3),grid:{display:false},ticks:{stepSize:86400e3,maxRotation:0,callback:v=>dlbl(vday(v+3*3600e3)).slice(3)}};
    o.scales.y.max=100;o.scales.y.ticks.callback=v=>v+" %";
-   o.plugins.tooltip.callbacks={title:it=>lbl(it[0].parsed.x),label:c=>{const s=S[c.dataIndex],m=q.m[c.datasetIndex];return ` ${m[0]}: ${fmt(m[1](s))} von ${fmt(q.tot(s))} (${Math.round(c.parsed.y)} %)`}};
-   QC.push(new Chart(document.getElementById("q"+qi),{type:"line",data:{datasets:q.m.map((m,i)=>({label:m[0],data:S.map(s=>({x:Date.parse(s.t),y:q.tot(s)?100*m[1](s)/q.tot(s):0})),borderColor:COLS[i],backgroundColor:COLS[i],borderWidth:2,pointRadius:0,pointHoverRadius:4,pointHoverBorderColor:"#131519",pointHoverBorderWidth:2,tension:.25}))},options:o}));
-  }else q.m.forEach((m,i)=>{const v=m[1](last),n=q.tot(last);
-   QC.push(new Chart(document.getElementById(`q${qi}p${i}`),{type:"doughnut",data:{labels:[m[0],"ohne"],datasets:[{data:[v,Math.max(0,n-v)],backgroundColor:[COLS[i],"#262a31"],borderColor:"#131519",borderWidth:2}]},options:{responsive:true,maintainAspectRatio:false,animation:false,cutout:"68%",plugins:{legend:{display:false},tooltip:{backgroundColor:"#0b0d10",borderColor:C.line,borderWidth:1,callbacks:{label:c=>` ${c.label}: ${fmt(c.parsed)} (${pcs(c.parsed,n)} %)`}}}}}))})});
+   o.plugins.tooltip.callbacks={title:it=>lbl(it[0].parsed.x),label:c=>{const s=S[c.dataIndex],m=q.m[c.datasetIndex]||[q.srl,q.sr];return ` ${m[0]}: ${fmt(m[1](s))} von ${fmt(q.tot(s))} (${Math.round(c.parsed.y)} %)`}};
+   const ds=q.m.map((m,i)=>({label:m[0],data:S.map(s=>({x:Date.parse(s.t),y:q.tot(s)?100*m[1](s)/q.tot(s):0})),borderColor:COLS[i],backgroundColor:COLS[i],borderWidth:2,pointRadius:0,pointHoverRadius:4,pointHoverBorderColor:"#131519",pointHoverBorderWidth:2,tension:.25}));
+   if(q.sr)ds.push({label:q.srl,data:S.map(s=>({x:Date.parse(s.t),y:q.tot(s)?100*q.sr(s)/q.tot(s):0})),borderColor:"#7d8491",backgroundColor:"#7d8491",borderDash:[5,4],borderWidth:2,pointRadius:0,pointHoverRadius:4,tension:.25});
+   QC.push(new Chart(document.getElementById("q"+qi),{type:"line",data:{datasets:ds},options:o}));
+  }else{if(q.sr){const v=q.sr(last),n=q.tot(last);QC.push(new Chart(document.getElementById(`q${qi}ps`),{type:"doughnut",data:{labels:[q.srl,"noch nicht"],datasets:[{data:[v,Math.max(0,n-v)],backgroundColor:["#7d8491","#262a31"],borderColor:"#131519",borderWidth:2}]},options:{responsive:true,maintainAspectRatio:false,animation:false,cutout:"68%",plugins:{legend:{display:false},tooltip:{backgroundColor:"#0b0d10",borderColor:C.line,borderWidth:1,callbacks:{label:c=>` ${c.label}: ${fmt(c.parsed)} (${pcs(c.parsed,n)} %)`}}}}}))} q.m.forEach((m,i)=>{const v=m[1](last),n=q.tot(last);
+   QC.push(new Chart(document.getElementById(`q${qi}p${i}`),{type:"doughnut",data:{labels:[m[0],"ohne"],datasets:[{data:[v,Math.max(0,n-v)],backgroundColor:[COLS[i],"#262a31"],borderColor:"#131519",borderWidth:2}]},options:{responsive:true,maintainAspectRatio:false,animation:false,cutout:"68%",plugins:{legend:{display:false},tooltip:{backgroundColor:"#0b0d10",borderColor:C.line,borderWidth:1,callbacks:{label:c=>` ${c.label}: ${fmt(c.parsed)} (${pcs(c.parsed,n)} %)`}}}}}))})}});
 }
 let QM="line";try{QM=localStorage.getItem("rw-statmode")||"line"}catch(_){}
 document.querySelectorAll(".seg button").forEach(b=>{b.setAttribute("aria-pressed",b.dataset.mode===QM);b.onclick=()=>{QM=b.dataset.mode;try{localStorage.setItem("rw-statmode",QM)}catch(_){}document.querySelectorAll(".seg button").forEach(x=>x.setAttribute("aria-pressed",x===b));renderQ(QM)}});
