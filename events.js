@@ -1588,6 +1588,11 @@ const CI={
   "sc": "https://soundcloud.com/gassen-aus-zucker",
   "web": "https://gassenauszucker.at/",
   "man": 1
+ },
+ "Paradies Garten": {
+  "logo": "https://www.paradiesgartenfestival.at/assets/website/images/logo/paradies-garten.d1836a4e.svg",
+  "web": "https://www.paradiesgartenfestival.at",
+  "man": 1
  }
 };
 const VI={
