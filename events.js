@@ -1592,7 +1592,8 @@ const CI={
  "Paradies Garten": {
   "logo": "https://www.paradiesgartenfestival.at/assets/website/images/logo/paradies-garten.d1836a4e.svg",
   "web": "https://www.paradiesgartenfestival.at",
-  "man": 1
+  "man": 1,
+  "logoBg": "#ffffff"
  }
 };
 const VI={
