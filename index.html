@@ -1465,12 +1465,17 @@ function renderVen(vd,n){
 function renderLocs(){
   const l=L();const q=fold(st.q.trim());
   let vs=UNI.v.slice();if(st.fav)vs=vs.filter(v=>FAV.v.includes(v));if(q)vs=vs.filter(v=>fold(v).includes(q));
-  const fa=FK.some(k=>k!=="v"&&(st[k].size||st.x[k].size));if(st.v.size)vs=vs.filter(v=>st.v.has(v));vs=vs.filter(v=>!st.x.v.has(v));
+  if(st.v.size)vs=vs.filter(v=>st.v.has(v));vs=vs.filter(v=>!st.x.v.has(v));
+  const ioK=v=>{const k=ioOf((VINFO[v]||{}).io);return k.length?k:["unk"]};
+  if(st.io.size)vs=vs.filter(v=>ioK(v).some(k=>st.io.has(k)));if(st.x.io.size)vs=vs.filter(v=>!ioK(v).some(k=>st.x.io.has(k)));
+  const sio=st.io,sxio=st.x.io;st.io=new Set();st.x.io=new Set();
+  const fa=FK.some(k=>k!=="v"&&(st[k].size||st.x[k].size));
   const rows=xorder(vs.map(v=>{const s=venueStats(v);const up=s.up.filter(e=>matches(e,"v"));return {n:v,up,all:s.up,nx:up[0],n1:up.length,n2:s.past.length}}).filter(r=>!fa||r.up.length));
+  st.io=sio;st.x.io=sxio;
   $("t-list").textContent=`${rows.length} ${l.locsN}`;
   $("out").innerHTML=`<div class="xlist x-ven">${xheadHTML("ven")}${withLetters(rows,rows.map(r=>{const vi=VINFO[r.n]||{};const vr=VRULES[r.n]||{};const g={};r.all.forEach(e=>e.genres.forEach(x=>g[x]=(g[x]||0)+1));const tg=Object.entries(g).sort((a,b)=>b[1]-a[1]).slice(0,4).map(x=>x[0]);
     const snd=vr.sound?(vr.sound[st.lang]||vr.sound.de||""):"";
-    const rules=ioTags(ioOf(vi.io))+(vr.age?`<span class="flag age">${esc(vr.age)}</span>`:"")+ruleFlags(vr)+(snd?`<span class="snd">♫ ${esc(snd.length>48?snd.slice(0,46)+"…":snd)}</span>`:"");
+    const rules=ioTags(ioOf(vi.io),1)+(vr.age?`<span class="flag age">${esc(vr.age)}</span>`:"")+ruleFlags(vr)+(snd?`<span class="snd">♫ ${esc(snd.length>48?snd.slice(0,46)+"…":snd)}</span>`:"");
     return xrowHTML({k:"ven",tile:logoTile(r.n),attr:`data-vopen="${esc(r.n)}"`,cur:st.ven===r.n,name:r.n,closed:vi.closed,sub:V[r.n]&&V[r.n]!=="TBA"?V[r.n]:"",tags:"",c2:"",
       gen:tg,flags:rules,nx:r.up[0],nxSub:r.up[0]?`<span class="nxt">${esc(r.up[0].title)}</span>`:"",n1:r.n1,n2:r.n2,n1l:l.cUp,ex:""})}))}</div>`;
 }
