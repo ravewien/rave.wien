@@ -123,7 +123,9 @@ const CG={
  "Herzfrequenz": [
   "Trance",
   "Hardtechno",
-  "Hard Bounce"
+  "Hard Bounce",
+  "Hard Techno",
+  "Nightcore"
  ],
  "Heimlich": [
   "Downtempo",
@@ -542,7 +544,9 @@ const CG={
  "VLAN": [
   "Experimental",
   "Dub Techno",
-  "Ambient"
+  "Ambient",
+  "Dub",
+  "Downtempo"
  ],
  "Bonkers": [
   "House",
@@ -578,9 +582,17 @@ const CG={
  "Untz Baby Untz": [
   "Techno",
   "House"
+ ],
+ "Luv Affair": [
+  "Disco",
+  "House"
+ ],
+ "TUFF": [
+  "Bounce",
+  "Hardbounce"
  ]
 };
-const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","AWSM","Bassbussi","Bassclub","Bassproduction","Belly Dance Services","Bestand","Bonkers","Café Mondo","Callshop Radio","Cardio Cult","ClassiX","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Derisch","Drum & Bassick","Dunkelton Kollektiv","Dystopia Rave","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","House of Plüsch","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Ravenbogen","Rude Bwoy Embassy","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Super Disco","Superego Records","Switch!","Synergy","Taktgefühl","Tasteless","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","Wreck","YE","Zuckerwatt","Zyklop Audio"];
+const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","AWSM","Bassbussi","Bassclub","Bassproduction","Belly Dance Services","Bestand","Bonkers","Café Mondo","Callshop Radio","Cardio Cult","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Derisch","Drum & Bassick","Dunkelton Kollektiv","Dystopia Rave","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","House of Plüsch","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Vienna","Ravenbogen","Rude Bwoy Embassy","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Super Disco","Superego Records","Switch!","Synergy","Taktgefühl","Tasteless","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","Wreck","YE","Zuckerwatt","Zyklop Audio"];
 const CI={
  "303": {
   "noLogo": "2026-10-31",
@@ -821,9 +833,18 @@ const CI={
   "founded": "2023",
   "foundedNote": 1,
   "src": [
-   "https://ohschonhell.at/orte/das+werk/14"
+   "https://ohschonhell.at/orte/das+werk/14",
+   "https://herzfrequenz-techno.com",
+   "https://ra.co/events/2382527"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "de": "Wiener Drag-Rave („Shirts Off Rave“), der Hard Techno, Hard Bounce und Nightcore mit Drag-Kunst verbindet – u. a. im Das Werk, inklusive offizieller Vienna-Pride-Afterparty.",
+  "en": "Vienna drag rave (a 'shirts off rave') combining hard techno, hard bounce and nightcore with drag performance, held at venues such as Das Werk, including the official Vienna Pride afterparty.",
+  "from": "Wien",
+  "web": "https://herzfrequenz-techno.com",
+  "ig": "https://instagram.com/herzfrequenz.techno",
+  "sc": "https://soundcloud.com/herzfrequenz_techno",
+  "infoChk": "2026-11-01"
  },
  "Contrast": {
   "founded": "2015",
@@ -985,7 +1006,9 @@ const CI={
   "foundedNote": 1,
   "src": [
    "https://ohschonhell.at/orte/flucc/50"
-  ]
+  ],
+  "noLogo": "2026-11-01",
+  "infoChk": "2026-11-01"
  },
  "Hypertrash": {
   "founded": "2023",
@@ -1015,8 +1038,20 @@ const CI={
   "founded": "2025",
   "foundedNote": 1,
   "src": [
-   "https://ohschonhell.at/orte/club+lucia/963"
-  ]
+   "https://ohschonhell.at/orte/club+lucia/963",
+   "https://ra.co/events/2467514",
+   "https://www.clublucia.at/event/drum-bassick-x-radiance/",
+   "https://de.ra.co/events/2219708"
+  ],
+  "de": "Wiener Drum-&-Bass-Partyreihe, die seit 2025 Raves im Club Lucia und im Loop veranstaltet, mit Fokus auf Community und gelegentlichen Charity-Specials.",
+  "en": "Viennese drum & bass party series running raves at Club Lucia and Loop since 2025, with a focus on community and occasional charity specials.",
+  "from": "Wien",
+  "ig": "https://www.instagram.com/drumandbassick/",
+  "type": [
+   "Reihe"
+  ],
+  "noLogo": "2026-11-01",
+  "infoChk": "2026-11-01"
  },
  "Acid Techno Techno Club": {
   "founded": "2018",
@@ -1182,7 +1217,8 @@ const CI={
   "rules": {
    "sexpos": 1
   },
-  "man": 1
+  "man": 1,
+  "infoChk": "2026-11-01"
  },
  "SubRosaDictum": {
   "rules": {
@@ -1624,7 +1660,8 @@ const CI={
   "logo": "https://www.paradiesgartenfestival.at/assets/website/images/logo/paradies-garten.d1836a4e.svg",
   "web": "https://www.paradiesgartenfestival.at",
   "man": 1,
-  "logoBg": "#ffffff"
+  "logoBg": "#ffffff",
+  "infoChk": "2026-11-01"
  },
  "Fader Friends": {
   "noLogo": "2026-10-31",
@@ -1804,6 +1841,182 @@ const CI={
    "https://www.theloft.at/rudebwoy-embassy-meets-bassclub-30-years-jah-power-sound/"
   ],
   "infoChk": "2026-10-31"
+ },
+ "Luv Affair": {
+  "de": "Wiener Disco- und House-Kollektiv mit Heimat im FLUCC am Praterstern; 2025 feierte es sein sechsjähriges Bestehen. Veranstaltet auch Floors in der Grellen Forelle und im Mon Ami.",
+  "en": "Viennese disco and house collective based at FLUCC on Praterstern; it celebrated its sixth anniversary in 2025. Also hosts floors at Grelle Forelle and Mon Ami.",
+  "founded": "2019",
+  "foundedNote": 1,
+  "from": "Wien",
+  "ig": "https://www.instagram.com/luvaffair_vienna/",
+  "type": [
+   "Kollektiv"
+  ],
+  "alias": ["LuvAffair"],
+  "noLogo": "2026-11-01",
+  "src": [
+   "https://de.ra.co/events/2291520",
+   "https://de.ra.co/promoters/139324",
+   "https://ra.co/events/2360512",
+   "https://www.grelleforelle.com/project/2011-fish-market-feat-altinbas-annika-stein-gerald-vdh-luvaffair-floor/"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Café Mondo": {
+  "de": "Wiener Partyreihe, die Gast-DJs einlädt und u. a. im Tagada Club, im Funkhaus und im Espresso Burggasse stattfindet.",
+  "en": "Viennese party series inviting guest DJs, held at venues such as Tagada Club, Funkhaus and Espresso Burggasse.",
+  "from": "Wien",
+  "alias": ["Cafe Mondo"],
+  "noLogo": "2026-11-01",
+  "src": [
+   "https://termine.orf.at/fm4/veranstaltung/3-years-caf-mondo-107856",
+   "https://de.ra.co/events/2285862",
+   "https://ra.co/events/2524100"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "LustMusik": {
+  "de": "Wiener Techno-Act und Veranstalter von Clubnächten wie „Schrille Marille“ im Rhiz.",
+  "en": "Viennese techno act and promoter of club nights such as 'Schrille Marille' at Rhiz.",
+  "from": "Wien",
+  "noLogo": "2026-11-01",
+  "src": [
+   "https://de.ra.co/events/2531884"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Superego Records": {
+  "de": "Wiener Label, das Labelnights mit Live-Acts und DJ-Sets veranstaltet, etwa im Celeste.",
+  "en": "Vienna-based label hosting label nights with live acts and DJ sets, for example at Celeste.",
+  "from": "Wien",
+  "type": [
+   "Label"
+  ],
+  "noLogo": "2026-11-01",
+  "src": [
+   "https://ra.co/events/2570993",
+   "https://ra.co/promoters/196842"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "TUFF": {
+  "de": "Bounce-Partyreihe („Viennas bounce hub“), die unter dem Motto „Hard. Fast. TUFF.“ im Club Exil Bounce und Hardbounce spielt.",
+  "en": "Bounce party series ('Vienna's bounce hub') playing bounce and hardbounce at Club Exil under the motto 'Hard. Fast. TUFF.'",
+  "from": "Wien",
+  "type": [
+   "Reihe"
+  ],
+  "noLogo": "2026-11-01",
+  "src": [
+   "https://exil.ticket.io/nDYvo6wD/"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Radiance": {
+  "de": "Wiener Drum-&-Bass-Veranstaltung, die gemeinsam mit Drum & Bassick im Club Lucia mit lokalen DJs von Neurofunk bis Liquid spielt.",
+  "en": "Viennese drum & bass event teaming up with Drum & Bassick at Club Lucia, with local DJs from neurofunk to liquid.",
+  "from": "Wien",
+  "ig": "https://www.instagram.com/radiance.at/",
+  "noLogo": "2026-11-01",
+  "src": [
+   "https://www.clublucia.at/event/drum-bassick-x-radiance/"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Kaisa Bodega": {
+  "noLogo": "2026-11-01",
+  "src": [
+   "https://ra.co/events/2546333"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Pingpaya Fenty Savage": {
+  "noLogo": "2026-11-01",
+  "src": [
+   "https://ra.co/events/2546333"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "VLAN": {
+  "de": "VLAN („Vienna Local Area Network“) ist ein Wiener Internetradio für zeitgenössische (Nicht-)Club-Musik mit Fokus auf die Stärkung marginalisierter Gruppen; veranstaltet u. a. die Reihe HEAVY LISTENING mit Ambient, Dub und experimenteller Elektronik.",
+  "en": "VLAN ('Vienna Local Area Network') is a Viennese internet radio for contemporary (non-)club music focused on empowering marginalised groups; it hosts the HEAVY LISTENING series of ambient, dub and experimental electronics.",
+  "from": "Wien",
+  "ig": "https://www.instagram.com/vlan.radio/",
+  "sc": "https://soundcloud.com/vlanradio",
+  "alias": ["VLAN Radio", "Vienna Local Area Network"],
+  "noLogo": "2026-11-01",
+  "src": [
+   "https://ra.co/events/2568237",
+   "https://www.mqw.at/en/program/vlan-radio"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Fifi": {
+  "noLogo": "2026-11-01",
+  "src": [
+   "https://flucc.at/events/X3Fef2-fifi-x-schrodinger-s-groove/"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Schrödingers Groove": {
+  "noLogo": "2026-11-01",
+  "src": [
+   "https://flucc.at/events/X3Fef2-fifi-x-schrodinger-s-groove/"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Radio Rudina": {
+  "de": "Unabhängiges Wiener Musik- und Kulturkollektiv mit 24/7-Webradio, Live-Shows und Events, etwa regelmäßigen Partys im PRST.",
+  "en": "Independent Viennese music and culture collective running a 24/7 web radio, live shows and events, including regular parties at PRST.",
+  "from": "Wien",
+  "web": "https://www.radiorudina.com",
+  "ig": "https://www.instagram.com/radiorudina/",
+  "sc": "https://soundcloud.com/radiorudina",
+  "tix": "https://radiorudina.ticket.io/",
+  "logoBg": "#000000",
+  "type": [
+   "Kollektiv"
+  ],
+  "logo": "https://images.squarespace-cdn.com/content/v1/6847ea8642e80a7c5234842b/3f2e1a87-f2d6-48f5-ae0a-3fe153e5b704/Radio+Rudina+Logo+wei%C3%9F+og1.png?format=1500w",
+  "src": [
+   "https://www.radiorudina.com",
+   "https://de.ra.co/promoters/146609",
+   "https://radiorudina.ticket.io/sbEA0Me0/"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Club Pompadour": {
+  "noLogo": "2026-11-01",
+  "src": [
+   "https://sassvienna.com/en/events/event/club-pompadour-november"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Raqsouna": {
+  "de": "Von Qamareen (Luna Al-Mousli) gegründete Wiener Partyreihe mit SWANA-Sounds, u. a. im Club Lucia.",
+  "en": "Vienna party series founded by Qamareen (Luna Al-Mousli), focused on SWANA sounds, held at venues such as Club Lucia.",
+  "from": "Wien",
+  "type": [
+   "Reihe"
+  ],
+  "noLogo": "2026-11-01",
+  "src": [
+   "https://de.ra.co/dj/qamareen/biography",
+   "https://ra.co/events/2561086"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "MEIOSISS": {
+  "de": "MEIOSISS veranstaltet im FLUCC die Techno-Flirtparty „Hot & Flirty“ mit Flirt-Armbändern und Konsens-Fokus („only YES means YES“) und legt dort auch selbst auf.",
+  "en": "MEIOSISS hosts the techno flirt party 'Hot & Flirty' at FLUCC, with flirt wristbands and a focus on consent ('only YES means YES'), and also DJs there.",
+  "from": "Wien",
+  "noLogo": "2026-11-01",
+  "src": [
+   "https://ra.co/events/2561330",
+   "https://ra.co/events/2388587",
+   "https://ra.co/events/2310895"
+  ],
+  "infoChk": "2026-11-01"
  }
 };
 const VI={
@@ -2180,11 +2393,22 @@ const VI={
  },
  "Pyramide Vösendorf": {
   "src": [
-   "https://o-klub.at/events/pyramide-takeover/"
+   "https://o-klub.at/events/pyramide-takeover/",
+   "https://www.conferencehotelgroup.com/hotels/299/Eventhotel-Pyramide---Congress-Center",
+   "https://warda.at/events/signal-festival-pyramide-takeover-we2/"
   ],
   "io": [
    "Indoor"
-  ]
+  ],
+  "de": "Glaspyramide des Eventhotels Pyramide in Vösendorf am südlichen Stadtrand von Wien, neben der Shopping City Süd; die große Event-Halle wird gelegentlich für große Clubevents genutzt.",
+  "en": "Glass pyramid of the Eventhotel Pyramide in Vösendorf on Vienna's southern edge, next to Shopping City Süd; its large event hall occasionally hosts big club events.",
+  "alias": ["Eventhotel Pyramide"],
+  "floors": [
+   "Main",
+   "Hard Techno Stage"
+  ],
+  "noLogo": "2026-11-01",
+  "infoChk": "2026-11-01"
  },
  "Flex": {
   "src": [
@@ -2238,12 +2462,22 @@ const VI={
  },
  "U4": {
   "src": [
-   "https://ra.co/events/2506486"
+   "https://ra.co/events/2506486",
+   "https://www.u4.at/",
+   "https://www.technoairlines.com/club/u4-vienna"
   ],
   "noLogo": "2026-10-28",
   "io": [
    "Indoor"
-  ]
+  ],
+  "de": "Traditionsreicher Kellerclub in Meidling an der Schönbrunner Straße, seit den frühen 1980ern eine Institution des Wiener Nachtlebens. Zwei Dancefloors (Main Floor und Club Floor) mit Clubnächten und Partyreihen.",
+  "en": "Long-running basement club in Meidling on Schönbrunner Straße, an institution of Vienna nightlife since the early 1980s. Two dancefloors (Main Floor and Club Floor) hosting club nights and party series.",
+  "web": "https://www.u4.at/",
+  "floors": [
+   "Main Floor",
+   "Club Floor"
+  ],
+  "infoChk": "2026-11-01"
  },
  "Funkhaus": {
   "src": [
@@ -2280,13 +2514,20 @@ const VI={
   "src": [
    "https://ra.co/events/2564492"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "infoChk": "2026-11-01"
  },
  "Kollektiv Kaorle": {
   "src": [
-   "https://ra.co/events/2555979"
+   "https://ra.co/events/2555979",
+   "https://kollektiv-kaorle.at",
+   "https://www.vienna.at/wiener-otto-wagner-areal-bekommt-neue-zwischennutzer/9638579"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "de": "Kulturverein bzw. Kollektiv, das leerstehende Räume bespielt; seit Oktober 2025 im Pavillon 21 am Otto-Wagner-Areal (Steinhof, Penzing), davor in Ottakring. Programm aus Konzerten, Festivals, Ausstellungen, Film und Workshops.",
+  "en": "Cultural association/collective activating vacant spaces; since October 2025 in Pavilion 21 of the Otto Wagner Areal (Steinhof, Penzing), previously in Ottakring. Programme of concerts, festivals, exhibitions, film and workshops.",
+  "web": "https://kollektiv-kaorle.at",
+  "infoChk": "2026-11-01"
  },
  "Westbahn Studios": {
   "src": [
@@ -2313,7 +2554,8 @@ const VI={
   "io": [
    "Indoor"
   ],
-  "man": 1
+  "man": 1,
+  "infoChk": "2026-11-01"
  },
  "Event Arena Vösendorf": {
   "io": [
@@ -2359,12 +2601,21 @@ const VI={
  "Jaz in the City": {
   "de": "Hotel Jaz in the City in der Windmühlgasse (Mariahilf) mit der Dachbar Mariatrink, in der die Rooftop Series mit DJ-Sets stattfindet.",
   "en": "Jaz in the City hotel on Windmühlgasse (Mariahilf) with the Mariatrink rooftop bar, home of the Rooftop Series DJ sessions.",
-  "alias": [
-   "Mariatrink"
-  ],
+  "alias": ["Mariatrink"],
   "src": [
-   "https://ra.co/events/2527346"
-  ]
+   "https://ra.co/events/2527346",
+   "https://www.tageskarte.io/hotellerie/detail/jaz-in-the-city-vienna-eroeffnet.html",
+   "https://hrewards.com/en/jaz-in-the-city-vienna",
+   "https://therooftopguide.com/rooftop-bars-in-vienna/mariatrink.html"
+  ],
+  "web": "https://hrewards.com/en/jaz-in-the-city-vienna",
+  "opened": "2021",
+  "io": [
+   "Indoor",
+   "Outdoor"
+  ],
+  "noLogo": "2026-11-01",
+  "infoChk": "2026-11-01"
  },
  "Stiftskeller Klosterneuburg": {
   "de": "Gewölbekeller mit hohen Decken und Ziegelwänden unter dem Stiftsrestaurant Leopold in Klosterneuburg.",
@@ -4966,7 +5217,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/ntonto",
    "ig": "https://www.instagram.com/ntomusic",
-   "web": "https://www.ntomusic.com/"
+   "web": "https://www.ntomusic.com/",
+   "ra": "https://ra.co/dj/nto"
   },
   "src": [
    "https://ra.co/dj/nto"
@@ -4981,7 +5233,30 @@ const AR={
     "u": "https://soundcloud.com/dgtl-festival/nto-live-dgtl-festival-2016-amsterdam-26032016"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/nto.jpg?dateUpdated=1633011040000",
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "bio": {
+   "de": "NTO ist ein französischer Live-Act im Bereich Melodic Techno. Releases u. a. auf Hungry Music, Afterlife, Burlesque Musique und Parquet Recordings.",
+   "en": "NTO is a French melodic techno live act with releases on Hungry Music, Afterlife, Burlesque Musique and Parquet Recordings, among others."
+  },
+  "labels": [
+   "Parquet Recordings",
+   "Burlesque Musique",
+   "Form Music",
+   "Klangwelt",
+   "Delicieuse Records",
+   "Afterlife",
+   "Hungry Music",
+   "Bambu Records"
+  ],
+  "genres": [
+   "Melodic Techno"
+  ],
+  "infoChk": "2026-11-01"
  },
  "Oxygeno": {
   "links": {
@@ -5007,7 +5282,17 @@ const AR={
     "u": "https://soundcloud.com/bcco/bcco-x-soundcloud-new-faces-s04e02-melimeko"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/melimeko.jpg?dateUpdated=1787584908987",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Techno-DJ aus Wien.",
+   "en": "Vienna-based techno DJ."
+  },
+  "infoChk": "2026-11-01"
  },
  "Elah": {
   "links": {
@@ -7692,6 +7977,688 @@ const AR={
    "https://ra.co/dj/ayu-1"
   ],
   "infoChk": "2026-10-31"
+ },
+ "Mama Demba": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "The Res": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "Jana Passt": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "LinsenJoe": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "Mia Wurscht": {
+  "links": {
+   "sc": "https://soundcloud.com/miawurscht"
+  },
+  "src": [
+   "https://soundcloud.com/miawurscht"
+  ],
+  "noImg": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "SandimSchuh": {
+  "links": {
+   "sc": "https://soundcloud.com/ninjannn"
+  },
+  "src": [
+   "https://soundcloud.com/ninjannn"
+  ],
+  "noImg": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "Georgia Bird": {
+  "img": "https://static.ra.co/images/profiles/square/georgiabird.jpg?dateUpdated=1784713038403",
+  "links": {
+   "ra": "https://ra.co/dj/georgiabird",
+   "sc": "https://soundcloud.com/georgia-bird-3",
+   "ig": "https://www.instagram.com/junglegeorgia",
+   "bc": "https://georgiabird1.bandcamp.com"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "In Australien geborene DJ, die in Deutschland lebt. Verbunden mit dem Label The Space Between Us (TSBU).",
+   "en": "Australian-born DJ based in Germany. Affiliated with the label The Space Between Us (TSBU)."
+  },
+  "labels": [
+   "The Space Between Us"
+  ],
+  "sets": [
+   {
+    "t": "meltdown 13 - georgia bird",
+    "u": "https://soundcloud.com/slowburncast/meltdown-013-georgia-bird"
+   },
+   {
+    "t": "Georgia Bird @ daycare x Harmony [Sonnenraum, Berlin] 2025",
+    "u": "https://soundcloud.com/harmony-rec/georgia-bird-daycare-x-harmony-sonnenraum-berlin-2025"
+   }
+  ],
+  "setsChecked": "2026-11-01",
+  "src": [
+   "https://ra.co/dj/georgiabird"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Menal Batti": {
+  "img": "https://static.ra.co/images/profiles/square/menalbatti.jpg?dateUpdated=1692640637000",
+  "links": {
+   "ra": "https://ra.co/dj/menalbatti",
+   "sc": "https://soundcloud.com/menal_batti",
+   "ig": "https://www.instagram.com/menal_batti"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "In Schweden geborene DJ, die in Österreich lebt. Sie lädt dazu ein, in ihre wandelbare und vielschichtige Klangwelt einzutauchen.",
+   "en": "Swedish-born DJ based in Austria. She invites listeners to immerse themselves in her transformative and multifaceted soundscape."
+  },
+  "sets": [
+   {
+    "t": "TILT.cast 11 Menal Batti",
+    "u": "https://soundcloud.com/tilt-label/menal-batti-tiltcast-master-44"
+   },
+   {
+    "t": "Vault Sessions #263 - Menal Batti",
+    "u": "https://soundcloud.com/vault-sessions-collective/vault-sessions-263-menal-batti"
+   }
+  ],
+  "setsChecked": "2026-11-01",
+  "src": [
+   "https://ra.co/dj/menalbatti"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Pink Concrete": {
+  "img": "https://static.ra.co/images/profiles/square/pinkconcrete.jpg?dateUpdated=1561540594000",
+  "links": {
+   "ra": "https://ra.co/dj/pinkconcrete",
+   "sc": "https://soundcloud.com/pinkconcrete",
+   "ig": "https://www.instagram.com/pinkconcrete",
+   "bc": "https://herenthere.bandcamp.com",
+   "web": "https://www.hereandthe.re"
+  },
+  "from": {
+   "de": "Tschechien",
+   "en": "Czech Republic"
+  },
+  "bio": {
+   "de": "In der Türkei geborener DJ und Produzent, der in Tschechien lebt. Veröffentlichungen auf Labels wie Children of Tomorrow, Hardgroove, Bipolar Disorder, Hedone und hereandthere.",
+   "en": "Turkish-born DJ and producer based in the Czech Republic. Releases on labels including Children of Tomorrow, Hardgroove, Bipolar Disorder, Hedone and hereandthere."
+  },
+  "real": "Yalin Yucel",
+  "labels": [
+   "Children of Tomorrow",
+   "Hardgroove",
+   "Bipolar Disorder",
+   "Moving Pictures",
+   "Hedone",
+   "hereandthere",
+   "EvilGroove Records"
+  ],
+  "sets": [
+   {
+    "t": "BCCO Podcast 388: Pink Concrete",
+    "u": "https://soundcloud.com/bcco/bcco-podcast-388-pink-concrete"
+   },
+   {
+    "t": "Pink Concrete — HATE Podcast 429",
+    "u": "https://soundcloud.com/hate_music/pink-concrete-hate-podcast-429"
+   }
+  ],
+  "setsChecked": "2026-11-01",
+  "src": [
+   "https://ra.co/dj/pinkconcrete"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Yan": {
+  "links": {
+   "ra": "https://ra.co/dj/yan-cz",
+   "sc": "https://soundcloud.com/yanmmxiv",
+   "ig": "https://www.instagram.com/najkebarh"
+  },
+  "from": {
+   "de": "Tschechien",
+   "en": "Czech Republic"
+  },
+  "bio": {
+   "de": "DJ aus Tschechien, Co-Kurator von Harmony Rec. und Resident im Ankali in Prag.",
+   "en": "Czech DJ, co-curator of Harmony Rec. and resident at Ankali in Prague."
+  },
+  "real": "Jan Hrabek",
+  "labels": [
+   "Harmony Rec."
+  ],
+  "sets": [
+   {
+    "t": "Harmony Rec w/ Yan",
+    "u": "https://soundcloud.com/shella-radio/harmony-rec-w-yan"
+   }
+  ],
+  "setsChecked": "2026-11-01",
+  "src": [
+   "https://ra.co/dj/yan-cz"
+  ],
+  "noImg": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "anexate": {
+  "links": {
+   "sc": "https://soundcloud.com/anexate"
+  },
+  "sets": [
+   {
+    "t": "anexate - Technolog @Flex - Echosphere 20 04 14",
+    "u": "https://soundcloud.com/anexate/anexate-technologflex-echosphere200414"
+   },
+   {
+    "t": "Vienna Virus Infects Technolog @dasWerK(Vienna) 19 11 16",
+    "u": "https://soundcloud.com/anexate/vienna-virus-infects-technolog-werk-19-11-16"
+   }
+  ],
+  "setsChecked": "2026-11-01",
+  "src": [
+   "https://soundcloud.com/anexate"
+  ],
+  "noImg": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "Hetum": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "Roton": {
+  "img": "https://static.ra.co/images/profiles/square/roton.jpg?dateUpdated=1792759218327",
+  "links": {
+   "ra": "https://ra.co/dj/roton",
+   "sc": "https://soundcloud.com/roton",
+   "web": "https://technolog.wtf"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "DJ und Produzent aus Wien. Spielt rohen, hypnotischen Techno mit tiefem Sub-Bass, minimalistischen Loops, industriellen Texturen und verzerrten Synths.",
+   "en": "Vienna-based DJ and producer. Plays raw, hypnotic techno with deep sub-bass, minimalist loops, industrial textures and distorted synths."
+  },
+  "genres": [
+   "Techno"
+  ],
+  "src": [
+   "https://ra.co/dj/roton"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "adrialin": {
+  "img": "https://static.ra.co/images/profiles/square/adrialin.jpg?dateUpdated=1708339086000",
+  "links": {
+   "ra": "https://ra.co/dj/adrialin",
+   "sc": "https://soundcloud.com/adrialin",
+   "ig": "https://www.instagram.com/adrialin_dj"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "DJ aus Wien. Ihre Leidenschaft gilt rauem, basslastigem Techno, der zum ewigen Bleiben auf der Tanzfläche einlädt.",
+   "en": "Vienna-based DJ. Her passion lies in rough, bassy techno that makes you want to stay on the dance floor forever."
+  },
+  "real": "Adriana Davidovic",
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "Rave on Society @das Werk Vienna 27.05.2023",
+    "u": "https://soundcloud.com/adrialin/rave-on-society"
+   },
+   {
+    "t": "Adrialin Closing Eskalante Kante Rave",
+    "u": "https://soundcloud.com/adrialin/closing-eskalante-kante-rave"
+   }
+  ],
+  "setsChecked": "2026-11-01",
+  "src": [
+   "https://ra.co/dj/adrialin"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Enoltra": {
+  "img": "https://f4.bcbits.com/img/0030125330_21.jpg",
+  "links": {
+   "bc": "https://enoltralive.bandcamp.com",
+   "sc": "https://soundcloud.com/enoltralive",
+   "ig": "https://instagram.com/enoltralive"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Enoltra ist eine in Österreich lebende Produzentin elektronischer Musik und stammt ursprünglich aus Bosnien und Herzegowina. Ihre Musik bewegt sich zwischen Trance, Hard Techno, Schranz und Soundtracks.",
+   "en": "Enoltra is an Austria-based electronic music producer originally from Bosnia and Herzegovina. Her music centers on trance, hard techno, schranz and soundtracks."
+  },
+  "genres": [
+   "Trance",
+   "Hard Techno",
+   "Schranz"
+  ],
+  "src": [
+   "https://enoltralive.bandcamp.com/music"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "The Bear": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "gåpe": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "wert": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "Luminoise": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "Nikø Nøx": {
+  "img": "https://static.ra.co/images/profiles/square/nikonox.jpg?dateUpdated=1793026945000",
+  "links": {
+   "ra": "https://ra.co/dj/nikonox",
+   "sc": "https://soundcloud.com/nikonox",
+   "ig": "https://www.instagram.com/dj_niko_nox",
+   "web": "https://nikonox.com"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Nikø Nøx verbindet die treibende Kraft von Peak Time Techno mit der Intensität von Hard Techno und ergänzt seine Sets um melodische und emotionale Momente. In Wien spielte er unter anderem im Kramladen, Club Lucia, Rhiz, Das Werk und Loop.",
+   "en": "Nikø Nøx blends the drive of peak-time techno with the intensity of hard techno, adding melodic and emotional elements to his sets. In Vienna he has played Kramladen, Club Lucia, Rhiz, Das Werk and Loop."
+  },
+  "genres": [
+   "Peak Time Techno",
+   "Hard Techno"
+  ],
+  "alias": ["NIKØ NO/X"],
+  "src": [
+   "https://ra.co/dj/nikonox",
+   "https://ra.co/dj/nikonox/biography"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Zer0Ton1n": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "RIETVELD": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "Arne": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "André": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "Arni Jr.": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "Duplikate": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "PLAYBACK": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "MAH MOOD": {
+  "img": "https://static.ra.co/images/profiles/square/mahmood.jpg?dateUpdated=1783951841643",
+  "links": {
+   "ra": "https://ra.co/dj/mahmood",
+   "sc": "https://soundcloud.com/r8dtM6hCMn7328aH7",
+   "ig": "https://www.instagram.com/__mah_mood____"
+  },
+  "from": {
+   "de": "Haifa",
+   "en": "Haifa"
+  },
+  "bio": {
+   "de": "MAH MOOD ist ein queerer palästinensischer DJ, Produzent und Kurator aus Haifa. Er spielt hypnotischen Techno und perkussiven House, beeinflusst von den Underground-Traditionen aus Chicago, Detroit und Berlin. Er gründete die queere palästinensische Partyreihe Makhluta.",
+   "en": "MAH MOOD is a queer Palestinian DJ, producer and curator based in Haifa. He plays hypnotic techno and percussive house influenced by the Chicago, Detroit and Berlin underground traditions. He founded the queer Palestinian party series Makhluta."
+  },
+  "genres": [
+   "Techno",
+   "House"
+  ],
+  "src": [
+   "https://ra.co/dj/mahmood",
+   "https://ra.co/dj/mahmood/biography"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Rakans": {
+  "img": "https://static.ra.co/images/profiles/rakans.jpg?dateUpdated=1578674790000",
+  "links": {
+   "ra": "https://ra.co/dj/rakans",
+   "sc": "https://soundcloud.com/Rakans",
+   "ig": "https://www.instagram.com/Rakanscom",
+   "web": "https://www.rakans.com"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "Rakans ist DJ, Künstler und visueller Gestalter, dessen Weg in Beirut begann. Seine experimentellen, eklektischen Sets verbinden Techno mit orientalischen Einflüssen. Er gründete die Dresdner Clubnacht Rawmantique.",
+   "en": "Rakans is a DJ, artist and visual creator whose journey began in Beirut. His experimental, eclectic sets blend techno with oriental influences. He founded the Dresden club night Rawmantique."
+  },
+  "labels": [
+   "SYXT",
+   "Linea Records",
+   "Secta"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "alias": ["LÜJAH"],
+  "src": [
+   "https://ra.co/dj/rakans",
+   "https://ra.co/dj/rakans/biography"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Sherine Falasteen": {
+  "from": {
+   "de": "Jerusalem",
+   "en": "Jerusalem"
+  },
+  "bio": {
+   "de": "Sherine Falasteen ist eine Drag-Künstlerin aus Jerusalem, die zwischen Ramallah und Brüssel lebt. Sie tritt in traditionellen Thobes auf und ist Resident-Performerin der Party Gazelle L'Hafla.",
+   "en": "Sherine Falasteen is a drag artist originally from Jerusalem, based between Ramallah and Brussels. She performs in traditional thobes and is a resident performer of Gazelle L'Hafla."
+  },
+  "src": [
+   "https://ra.co/events/2552786"
+  ],
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "MODI": {
+  "bio": {
+   "de": "MODI ist Tabla-Spieler, geboren im Irak mit Wurzeln in Haifa. Er spielt live zu DJ-Sets und ergänzt sie um perkussive Rhythmen.",
+   "en": "MODI is a tabla player born in Iraq with roots in Haifa. He joins DJ sets live, adding percussive rhythms."
+  },
+  "src": [
+   "https://ra.co/events/2552786"
+  ],
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "Sanadrilla": {
+  "links": {
+   "sc": "https://soundcloud.com/sanadrilla"
+  },
+  "bio": {
+   "de": "Sanadrilla ist eine palästinensisch-jordanische DJ mit mütterlichen Wurzeln in Hebron. Sie spielt energiegeladene Arab-Pop-Edits und Selections.",
+   "en": "Sanadrilla is a Palestinian-Jordanian DJ with maternal roots in Hebron, playing energetic Arab pop edits and selections."
+  },
+  "src": [
+   "https://ra.co/events/2552786",
+   "https://soundcloud.com/sanadrilla"
+  ],
+  "noImg": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "Thomas Grün": {
+  "img": "https://static.ra.co/images/profiles/thomasgrun.jpg?dateUpdated=1426300331543",
+  "links": {
+   "ra": "https://ra.co/dj/thomasgrun",
+   "sc": "https://soundcloud.com/thomas-gruen",
+   "web": "https://www.movimiento.at"
+  },
+  "from": {
+   "de": "Kärnten",
+   "en": "Carinthia"
+  },
+  "bio": {
+   "de": "Thomas Grün wurde 1981 in Kärnten geboren. Zu seinen Einflüssen zählt er Jeff Mills, Carl Cox und Armand van Helden. Releases auf Untitled 100.",
+   "en": "Thomas Grün was born in 1981 in Carinthia, Austria. He cites Jeff Mills, Carl Cox and Armand van Helden as influences. Releases on Untitled 100."
+  },
+  "labels": [
+   "Untitled 100"
+  ],
+  "src": [
+   "https://ra.co/dj/thomasgrun"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Ulfersson": {
+  "links": {
+   "sc": "https://soundcloud.com/ulfersson"
+  },
+  "src": [
+   "https://soundcloud.com/ulfersson"
+  ],
+  "noImg": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "Drehli Robnik": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Drehli Robnik ist ein Wiener Film- und Politiktheoretiker, Kritiker, Essayist und „talking DJ“. In seinen DJ-Sets verbindet er Songs mit gleichnamigen Filmen.",
+   "en": "Drehli Robnik is a Vienna-based film and political theorist, critic, essayist and 'talking DJ' whose sets pair songs with films of the same title."
+  },
+  "src": [
+   "https://www.diametrale.at/en/festivals/2019-diametrale/program/dj-brunch-mit-drehli-robnik/"
+  ],
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "Vantan": {
+  "links": {
+   "sc": "https://soundcloud.com/johannavantan"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Vantan ist das Projekt der Wiener Komponistin, Performerin und Instrumentalistin Johanna Schlömicher. Ihre Musik bewegt sich zwischen Soundscapes, Singer-Songwriter, Noise, Synth-Pop und New Wave.",
+   "en": "Vantan is the project of Viennese composer, performer and instrumentalist Johanna Schlömicher, moving between soundscapes, singer-songwriter material, noise, synth pop and new wave."
+  },
+  "real": "Johanna Schlömicher",
+  "src": [
+   "https://de.ra.co/events/2101000",
+   "https://soundcloud.com/johannavantan"
+  ],
+  "noImg": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "Sodomland": {
+  "img": "https://static.ra.co/images/profiles/square/sodomland.jpg?dateUpdated=1782761041460",
+  "links": {
+   "ra": "https://ra.co/dj/sodomland",
+   "sc": "https://soundcloud.com/sodomland",
+   "ig": "https://www.instagram.com/sodomland",
+   "bc": "https://sodomland.bandcamp.com"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "Sodomland ist ein in Deutschland ansässiger Act. Die Selbstbeschreibung auf RA lautet „Esoteric EDM Ontology“.",
+   "en": "Sodomland is a Germany-based act, self-described on RA as 'Esoteric EDM Ontology'."
+  },
+  "src": [
+   "https://ra.co/dj/sodomland"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Fatima Hajji": {
+  "img": "https://static.ra.co/images/profiles/square/fatimahajji.jpg?dateUpdated=1739448008000",
+  "links": {
+   "ra": "https://ra.co/dj/fatimahajji",
+   "sc": "https://soundcloud.com/fatimahajji",
+   "ig": "https://www.instagram.com/fatimahajji",
+   "web": "https://www.fatimahajji.com"
+  },
+  "from": {
+   "de": "Spanien",
+   "en": "Spain"
+  },
+  "bio": {
+   "de": "Fatima Hajji ist eine spanische Techno-DJ mit arabischen Wurzeln und bekannt für energiegeladene Sets. Sie verbindet Tribal-Grooves mit modernem Techno. Releases u. a. auf Codex Recordings, Pornographic Recordings und Unity Records.",
+   "en": "Fatima Hajji is a Spanish techno DJ with Arab roots, known for high-energy shows. She blends tribal grooves with modern techno. Releases include Codex Recordings, Pornographic Recordings and Unity Records."
+  },
+  "labels": [
+   "Standbite Music",
+   "Pornographic Recordings",
+   "Unity Records",
+   "Riot Recordings",
+   "AudioCode Records",
+   "Taikatta",
+   "Codex Recordings",
+   "Dolma Records",
+   "Emphatic Records",
+   "Silver M"
+  ],
+  "src": [
+   "https://ra.co/dj/fatimahajji"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Jah Power Sound": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
+ },
+ "Kobermann": {
+  "img": "https://static.ra.co/images/profiles/kobermann.jpg?dateUpdated=1583343662000",
+  "links": {
+   "ra": "https://ra.co/dj/kobermann"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Kobermann (Johannes Piller, auch Laminat) ist ein österreichischer Artist, der vor allem in Wien auftritt, etwa im Werk, in der Grellen Forelle und im Celeste. Releases auf Terra Magica Rec.",
+   "en": "Kobermann (Johannes Piller, aka Laminat) is an Austrian artist who mostly plays in Vienna, including Das Werk, Grelle Forelle and Celeste. Releases on Terra Magica Rec."
+  },
+  "real": "Johannes Piller",
+  "labels": [
+   "Terra Magica Rec."
+  ],
+  "alias": ["Laminat"],
+  "src": [
+   "https://ra.co/dj/kobermann"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "MPU101": {
+  "img": "https://i.scdn.co/image/ab6761610000e5eb594e23449e92af6107ee5a31",
+  "links": {
+   "sc": "https://soundcloud.com/mpu101",
+   "sp": "https://open.spotify.com/artist/2P7CNpfHB0cOsqu0Gwl8he"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "MPU101 ist ein Produzent aus Deutschland, der auf Ilian Tape veröffentlicht, darunter die Releases MPU101 bis MPU108. Er tritt mit Live-Sets auf.",
+   "en": "MPU101 is a German producer releasing on Ilian Tape, including the MPU101–MPU108 series, and performs live sets."
+  },
+  "labels": [
+   "Ilian Tape"
+  ],
+  "src": [
+   "https://open.spotify.com/artist/2P7CNpfHB0cOsqu0Gwl8he"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Electric Indigo": {
+  "img": "https://static.ra.co/images/profiles/square/electricindigo.jpg?dateUpdated=1535236216000",
+  "links": {
+   "ra": "https://ra.co/dj/electricindigo",
+   "sc": "https://soundcloud.com/indigo",
+   "bc": "https://electricindigo.bandcamp.com",
+   "web": "https://indigo-inc.at"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Electric Indigo (Susanne Kirchmayr) ist eine österreichische DJ, Musikerin und Komponistin, die seit über 30 Jahren in 45 Ländern auflegt. Veröffentlichungen u. a. auf Editions Mego, Imbalance Computer Music, Disko B und ihrem Label indigo:inc.",
+   "en": "Electric Indigo (Susanne Kirchmayr) is an Austrian DJ, musician and composer who has played clubs and festivals in 45 countries for more than 30 years. Releases include Editions Mego, Imbalance Computer Music, Disko B and her own indigo:inc."
+  },
+  "real": "Susanne Kirchmayr",
+  "labels": [
+   "International DeeJay Gigolo Records",
+   "Disko B",
+   "Editions Mego",
+   "Imbalance Computer Music",
+   "Athletikk",
+   "Muller Records",
+   "indigo:inc",
+   "Illegal Alien Records",
+   "Different is Different Records",
+   "temp~"
+  ],
+  "src": [
+   "https://ra.co/dj/electricindigo"
+  ],
+  "infoChk": "2026-11-01"
+ },
+ "Dune": {
+  "noImg": "2026-11-01",
+  "noLinks": "2026-11-01",
+  "infoChk": "2026-11-01"
  }
 };
 const VG={
