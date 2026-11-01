@@ -7,6 +7,7 @@ const LOGOBOX={
 "https://i1.sndcdn.com/avatars-000048192524-zbrypt-t500x500.jpg":[500,500,0,0,500,500,""],
 "https://i1.sndcdn.com/avatars-000545622270-yfcydf-t500x500.jpg":[500,500,0,0,500,500,""],
 "https://images.squarespace-cdn.com/content/v1/584c26392e69cf97b9090b2b/1611049853178-TGV1HYVMOKWBB22MBJGQ/Heimlich-Vienna-Downtempo-Musik-Music-Label-Slow-House-Electronica-Rave.png?format=1500w":[592,164,25,31,564,133,""],
+"https://images.squarespace-cdn.com/content/v1/6847ea8642e80a7c5234842b/3f2e1a87-f2d6-48f5-ae0a-3fe153e5b704/Radio+Rudina+Logo+wei%C3%9F+og1.png?format=1500w":[791,200,2,34,789,167,""],
 "https://o-klub.at/wp-content/uploads/2022/09/Logo_w.svg":[673,767,9,10,664,757,""],
 "https://ponyhof-official.at/wp-content/uploads/2021/06/cropped-ponyhof_sticker_Black_rainbow-II-270x270.png":[270,270,49,52,220,223,""],
 "https://rhiz.wien/wp-content/uploads/2026/01/cropped-favicon-270x270.png":[270,270,0,0,270,270,""],
