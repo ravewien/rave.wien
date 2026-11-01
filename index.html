@@ -806,7 +806,7 @@ function toks(t){return new Set(norm(t).split(" ").filter(w=>w.length>2))}
 function sim(a,b){const A=toks(a),B=toks(b);if(!A.size||!B.size)return 0;let i=0;A.forEach(w=>{if(B.has(w))i++});return i/Math.min(A.size,B.size)}
 function vkey(v){return v.replace(/ (Wanne|Deck)$/,"")}
 const nm=a=>a.includes("|")?a.split("|")[1]:a;
-const splitA=n=>n.split(/\s+b2b\s+/i).map(x=>x.trim()).filter(Boolean);
+const splitA=n=>String(n==null?"":n).split(/\s+b2b\s+/i).map(x=>x.trim()).filter(Boolean);
 const abtn=(n,H)=>splitA(n).map(x=>{const c=canon(x),h=H&&H.has(c);return `<button data-artist="${esc(c)}"${h?` class="hl" title="Headliner"`:""}>${esc(x)}</button>`}).join('<span class="b2b">b2b</span>');
 function richness(e){return (e.floors?e.floors.reduce((n,f)=>n+f.a.length,0):0)*3+(e.genres||[]).length+(e.coll||[]).length+(e.tickets?2:0)+(e.e?1:0)+(e.price?1:0)}
 const akey=n=>fold(n).replace(/\s(und|and)\s/g," ").replace(/\((live|dj set|[a-z]{2,3})\)/g,"").replace(/[^a-z0-9¿øæ]/g,"");
@@ -1549,7 +1549,9 @@ const RENDER={ev:(el,id)=>PBYID[id]&&!PBYID[id].ev?renderPastEv(el,PBYID[id]):re
 function renderDeck(){
   const rc=$("rcol");const keep=new Set();const l=L();
   st.cards.forEach(c=>{const key=ck(c);keep.add(key);let el=CEL[key];if(!el){el=document.createElement("section");el.setAttribute("aria-live","polite");rc.appendChild(el);CEL[key]=el;el.dataset.fresh=1}
-    el.className="deck k-"+c.k;el.dataset.card=key;const sc=el.scrollTop;RENDER[c.k](el,c.n);if(el.dataset.fresh){delete el.dataset.fresh}else el.scrollTop=sc});
+    el.className="deck k-"+c.k;el.dataset.card=key;const sc=el.scrollTop;
+    // Ein fehlerhafter Eintrag darf nie die anderen Karten blockieren
+    try{RENDER[c.k](el,c.n)}catch(err){console.error("Karte",key,err);el.innerHTML=`${ctopHTML("","")}<p style="padding:16px;color:var(--mute)">Diese Karte konnte nicht angezeigt werden.</p>`}if(el.dataset.fresh){delete el.dataset.fresh}else el.scrollTop=sc});
   Object.keys(CEL).forEach(key=>{if(!keep.has(key)){CEL[key].remove();delete CEL[key]}});
   const em=$("deck0");em.hidden=st.cards.length>0&&!st.gone;
   em.className="deck empty"+(st.gone?" gone":"");em.innerHTML=`<div class="deck-empty"><span class="disc">--:--</span><div><b>${l.emptyT}</b>${st.gone?l.gone:l.emptyS}</div></div>`;
@@ -1566,7 +1568,7 @@ function renderEv(dk,id){
   const anyFloorSound=sfl&&e.floors.some(f=>fsound(f));
   const pads=e.floors.length?e.floors.map((f,i)=>{
     const inner=f.a.some(a=>a.includes("|"))
-      ?`<div class="tt">${f.a.map(a=>{const [t,n]=a.split("|");return `<span class="tm">${t}</span><span>${abtn(n,e.headSet)}</span>`}).join("")}</div>`
+      ?`<div class="tt">${f.a.map(a=>{const [t,n]=a.includes("|")?a.split("|"):["",a];return `<span class="tm">${t}</span><span>${abtn(n,e.headSet)}</span>`}).join("")}</div>`
       :`<div class="artists">${f.a.map(a=>a==="TBA"?`<span style="color:var(--mute)">${l.tba}</span>`:`<span>${abtn(a,e.headSet)}</span>`).join("")}</div>`;
     return `<div class="pad"><span class="key" style="background:var(--cue${CUE[i%8]})">${CUE[i%8]}</span><div>${f.f?`<div class="fl">${esc(f.f)}</div>`:""}${inner}${fsound(f)?`<div class="snd"><span class="sndk">SOUND</span>${esc(fsound(f)[st.lang]||fsound(f).de)}</div>`:""}</div></div>`}).join("")
     :`<div class="pad"><span class="key" style="background:var(--cueA)">A</span><div style="color:var(--mute)">${l.tba}</div></div>`;
