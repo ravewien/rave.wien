@@ -80,5 +80,6 @@ for (const [sha, iso] of commits) {
   }
   snaps.push({ t: iso, d: day, r: R });
 }
+snaps.sort((x, y) => new Date(x.t) - new Date(y.t));
 fs.writeFileSync(path.join(root, "stats.json"), JSON.stringify({ gen: new Date().toISOString(), first: firstDay, snaps }));
 console.log(`${snaps.length} Momentaufnahmen geschrieben.`);
