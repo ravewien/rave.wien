@@ -5754,10 +5754,12 @@ const AR={
  "Frederic.": {
   "links": {
    "sc": "https://soundcloud.com/frederic-selected",
-   "ig": "https://www.instagram.com/frederic.selected"
+   "ig": "https://www.instagram.com/frederic.selected",
+   "ra": "https://ra.co/dj/frederic-de"
   },
   "src": [
-   "https://ra.co/dj/frederic-de"
+   "https://ra.co/dj/frederic-de",
+   "https://ra.co/dj/frederic-de/biography"
   ],
   "sets": [
    {
@@ -5769,7 +5771,17 @@ const AR={
     "u": "https://soundcloud.com/selected-berlin/frederic-geheimclub-magdeburg-100722"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-11-02",
+  "img": "https://static.ra.co/images/profiles/square/frederic-de.jpg?dateUpdated=1774863813873",
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "bio": {
+   "de": "Frederic. ist ein in Berlin lebender DJ, Produzent und Veranstalter und Manager der Selected-Crew. Er spielt mentalen, rave-orientierten Techno und stand u. a. im Tresor, RSO, Fold, Mondo Disko und Radion hinter den Decks. Regelmäßig ist er zudem mit Shows auf HÖR zu hören.",
+   "en": "Frederic. is a Berlin-based DJ, producer and promoter and manager of the Selected crew. He plays mental, rave-oriented techno and has performed at venues such as Tresor, RSO, Fold, Mondo Disko and Radion. He also plays regular shows on HÖR."
+  },
+  "infoChk": "2026-11-02"
  },
  "Max Kernmayer": {
   "links": {
@@ -6064,7 +6076,8 @@ const AR={
  },
  "Joro & Joabo": {
   "links": {
-   "sc": "https://soundcloud.com/joro_und_joabo"
+   "sc": "https://soundcloud.com/joro_und_joabo",
+   "ig": "https://www.instagram.com/joro.und.joabo/"
   },
   "sets": [
    {
@@ -6076,8 +6089,8 @@ const AR={
     "u": "https://soundcloud.com/joro_und_joabo/peaktimetechno0722"
    }
   ],
-  "setsChecked": "2026-10-28",
-  "noImg": "2026-10-28",
+  "setsChecked": "2026-11-02",
+  "noImg": "2026-11-02",
   "genres": [
    "Techno"
   ],
@@ -6089,9 +6102,10 @@ const AR={
    "https://de.ra.co/events/2391499",
    "https://soundcloud.com/joro_und_joabo",
    "https://soundcloud.com/joro_und_joabo/livemix-at-pratersauna-vienna",
-   "https://soundcloud.com/joro_und_joabo/peaktimetechno0722"
+   "https://soundcloud.com/joro_und_joabo/peaktimetechno0722",
+   "https://www.instagram.com/joro.und.joabo/"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Atomik": {
   "noLinks": "2026-10-28"
@@ -7933,14 +7947,34 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "High on Melancholia": {
-  "noImg": "2026-10-31",
+  "noImg": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/highonmelancholia"
   },
   "src": [
-   "https://soundcloud.com/highonmelancholia/high-on-melancholia-eskalante-kante-vol1-lichtbogen-09022024-set-recording"
+   "https://soundcloud.com/highonmelancholia/high-on-melancholia-eskalante-kante-vol1-lichtbogen-09022024-set-recording",
+   "https://soundcloud.com/dur_label/high-on-melancholia-bre-petrunko-dur007",
+   "https://soundcloud.com/gesindel-der-nacht/high-on-melancholia-let-the-games-begin",
+   "https://soundcloud.com/jahanamsound/high-on-melancholia-womanizer-hom-edit-jah092"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "bio": {
+   "de": "High on Melancholia (HOM.) ist ein Techno-Act mit Releases auf DUR_ (EP „High On Melancholia / Never Meant To Belong“, DUR007), GDN Records („Let The Games Begin“) und Jahanam. Auf SoundCloud finden sich Set-Aufnahmen, u. a. von der Reihe Eskalante Kante.",
+   "en": "High on Melancholia (HOM.) is a techno act with releases on DUR_ (the “High On Melancholia / Never Meant To Belong” EP, DUR007), GDN Records (“Let The Games Begin”) and Jahanam. Their SoundCloud features set recordings, including from the Eskalante Kante series."
+  },
+  "labels": [
+   "DUR_",
+   "GDN Records",
+   "Jahanam"
+  ],
+  "alias": ["HOM."],
+  "sets": [
+   {
+    "t": "High On Melancholia @ Eskalante Kante Vol. 1, Lichtbogen (09.02.2024)",
+    "u": "https://soundcloud.com/highonmelancholia/high-on-melancholia-eskalante-kante-vol1-lichtbogen-09022024-set-recording"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "LavendL": {
   "noImg": "2026-10-31",
@@ -8158,12 +8192,12 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "ICY.DJ": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
   "src": [
    "https://ra.co/events/2250635"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Incognito": {
   "noImg": "2026-11-02",
@@ -9015,9 +9049,9 @@ const AR={
   "infoChk": "2026-11-01"
  },
  "Jah Power Sound": {
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Kobermann": {
   "img": "https://static.ra.co/images/profiles/kobermann.jpg?dateUpdated=1583343662000",
@@ -9710,10 +9744,21 @@ const AR={
    "en": "Gawdesque is a Vienna-based DJ playing music from West and South Africa and the African diaspora in the Americas and the Caribbean, celebrating their African heritage and its global branches."
   },
   "src": [
-   "https://brut-wien.at/en/artists/gawdesque"
+   "https://brut-wien.at/en/artists/gawdesque",
+   "https://soundcloud.com/gawdesque",
+   "https://soundcloud.com/boosterclub_vienna/booster-club-ola-radio-takeover-part-3"
   ],
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/gawdesque"
+  },
+  "sets": [
+   {
+    "t": "BOOSTER CLUB #3 w/ Gawdesque, Carmen Copper (Res.Radio)",
+    "u": "https://soundcloud.com/resradio/boosterclub-3"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Amina Malounadou": {
   "noImg": "2026-11-02",
@@ -10340,6 +10385,128 @@ const AR={
   "infoChk": "2026-11-02",
   "noImg": "2026-11-02",
   "noLinks": "2026-11-02"
+ },
+ "HÄNSCH": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "esti.d": {
+  "img": "https://static.ra.co/images/profiles/square/esti.d.jpg?dateUpdated=1792594143910",
+  "links": {
+   "ra": "https://ra.co/dj/esti.d",
+   "sc": "https://soundcloud.com/3st1",
+   "ig": "https://www.instagram.com/3st1.d"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "esti.d ist ein:e DJ aus der Wiener Clubszene; das RA-Profil führt Österreich als Standort und den Alias PISSTWINK. Die eigene Bio beschreibt den Sound als „interessant und unvorhersehbar“. esti.d spielte u. a. bei HYPERTRASH-Partys in Wien und war bei Res.Radio in der Reihe ÄRGER Hits zu Gast.",
+   "en": "esti.d is a DJ from Vienna's club scene; their RA profile lists Austria as location and the alias PISSTWINK. Their own bio describes the sound as \"interesting and unpredictable\". esti.d has played HYPERTRASH parties in Vienna and guested on Res.Radio's ÄRGER Hits series."
+  },
+  "alias": ["PISSTWINK"],
+  "sets": [
+   {
+    "t": "ÄRGER Hits Volume 3 w/ esti.d (Res.Radio)",
+    "u": "https://soundcloud.com/resradio/arger-hits-volume-3-w-estid"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://de.ra.co/dj/esti.d",
+   "https://ra.co/dj/esti.d/biography",
+   "https://soundcloud.com/3st1",
+   "https://soundcloud.com/resradio/arger-hits-volume-3-w-estid"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Ernst": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "IVUR": {
+  "img": "https://f4.bcbits.com/img/0028539340_21.jpg",
+  "links": {
+   "bc": "https://ivur.bandcamp.com"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "IVUR ist ein österreichisch-ungarisches Elektronik-Duo aus dem Raum Wien, bestehend aus dem langjährigen Underground-DJ Mr.URNs und dem Multiinstrumentalisten FKV. Der Name steht für „Infraviolet Ultrared“. Auf Bandcamp ordnet sich das Duo zwischen Italo Disco, Minimal Synth, New Wave und Synthpop ein.",
+   "en": "IVUR is an Austrian-Hungarian electronic duo from the Vienna area, made up of veteran underground DJ Mr.URNs and multi-instrumentalist FKV. The name stands for \"Infraviolet Ultrared\". On Bandcamp the duo tags its music as Italo disco, minimal synth, new wave and synthpop."
+  },
+  "genres": [
+   "Italo Disco",
+   "Minimal Synth",
+   "New Wave",
+   "Synthpop"
+  ],
+  "src": [
+   "https://ivur.bandcamp.com/track/fire"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Illtek": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Insano": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Ellen Allien": {
+  "img": "https://static.ra.co/images/profiles/square/ellenallien.jpg?dateUpdated=1778835341000",
+  "links": {
+   "ra": "https://ra.co/dj/ellenallien",
+   "sc": "https://soundcloud.com/ellen-allien",
+   "ig": "https://www.instagram.com/ellen.allien",
+   "bc": "https://ellenallien.bandcamp.com"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "bio": {
+   "de": "Ellen Allien ist DJ, Musikerin und Labelbetreiberin aus Berlin. Sie leitet die Labels BPitch und UFO Inc., das sie 2018 für härteren, clubtauglichen Techno gründete. Sie hat zehn Alben sowie Singles, EPs und Remixe veröffentlicht, u. a. auf Warp und Mute, zuletzt das Album AurAA. In Berlin veranstaltet sie die Reihe We Are Not Alone, international tourt sie als UFO Rave.",
+   "en": "Ellen Allien is a DJ, musician and label head from Berlin. She runs the labels BPitch and UFO Inc., the latter launched in 2018 as an outlet for harder, dancefloor-focused techno. She has released ten albums plus singles, EPs and remixes, including on Warp and Mute, most recently the album AurAA. In Berlin she runs the We Are Not Alone raves and takes the party worldwide as UFO Rave."
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "BPitch",
+   "UFO Inc."
+  ],
+  "sets": [
+   {
+    "t": "Ellen Allien – Live DJ Set @ Ritvales, Medellín",
+    "u": "https://soundcloud.com/ellen-allien/ellen-allien_ritvales_medellin"
+   },
+   {
+    "t": "Ellen Allien – Boiler Room x T2 Berlin DJ Set (90s Set)",
+    "u": "https://soundcloud.com/platform/ellen-allien-3"
+   },
+   {
+    "t": "Ellen Allien – 4h DJ Set @ Melt Festival Sleepless Floor (17.07.2016)",
+    "u": "https://soundcloud.com/ellen-allien/ellen-allien-djset-melt-festival-sleepless-floor-120915"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/ellenallien",
+   "https://ra.co/dj/ellenallien/biography",
+   "https://soundcloud.com/ellen-allien/ellen-allien_ritvales_medellin",
+   "https://soundcloud.com/platform/ellen-allien-3",
+   "https://soundcloud.com/ellen-allien/ellen-allien-djset-melt-festival-sleepless-floor-120915"
+  ],
+  "infoChk": "2026-11-02"
  }
 };
 const VG={
