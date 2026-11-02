@@ -7256,9 +7256,9 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "Mayez": {
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "noLinks": "2026-11-02"
  },
  "Ben Leander": {
   "noImg": "2026-10-31",
@@ -8369,7 +8369,22 @@ const AR={
   "src": [
    "https://ra.co/dj/mikemystik"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "sets": [
+   {
+    "t": "Raw Techno X-mas Special 2024",
+    "u": "https://soundcloud.com/dj-mike-mystic/raw-techno-christmas-special-2024"
+   },
+   {
+    "t": "Techno Trip Raw #1 on Radio NRG 8.10.2024",
+    "u": "https://soundcloud.com/dj-mike-mystic/techno-trip-raw-on-radio-nrg-8102024"
+   },
+   {
+    "t": "Radio NRG Techno Tuesday 3.9.2024",
+    "u": "https://soundcloud.com/dj-mike-mystic/techneck-techno-tuesday-3924"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Zuckerfrei": {
   "infoChk": "2026-10-31",
@@ -8530,12 +8545,32 @@ const AR={
   "src": [
    "https://ra.co/dj/michaelwagner"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "setsChecked": "2026-11-02"
  },
  "MJANE": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "links": {
+   "ig": "https://www.instagram.com/mjane.upd8e"
+  },
+  "from": {
+   "de": "Oberösterreich, lebt in Wien",
+   "en": "Upper Austria, based in Vienna"
+  },
+  "bio": {
+   "de": "In Oberösterreich geborene Vinyl-DJ, seit rund zwanzig Jahren DJ und Veranstalterin in der österreichischen Subkultur; nach Jahren in Linz lebt sie in Wien. In Wien legt sie vor allem Jungle und UK Bass mit dem Kollektiv UPD8E auf, im House-Bereich ist sie mit der Crew Commandyoursoul verbunden. Sie moderiert bei FM4 und hat mit Kid Kodama die Sendung „Atmospheric Funk“ auf res.radio gestaltet.",
+   "en": "Vinyl DJ born in Upper Austria, active as a DJ and organiser in Austrian subculture for about twenty years; after some years in Linz she moved to Vienna. In Vienna her main focus is jungle and UK bass with the UPD8E collective, while on the house side she is connected to the Commandyoursoul crew. She presents on FM4 and co-created the show \"Atmospheric Funk\" with Kid Kodama on res.radio."
+  },
+  "genres": [
+   "House",
+   "Jungle",
+   "Funk",
+   "Hip Hop"
+  ],
+  "src": [
+   "https://www.mqw.at/en/program/monday-listening-club-hosted-by-martin-markeli-special-guest-mjane"
+  ]
  },
  "Miyra Lim": {
   "img": "https://static.ra.co/images/profiles/square/miyralim.jpg?dateUpdated=1734399689000",
@@ -8558,7 +8593,22 @@ const AR={
    "https://ra.co/dj/miyralim",
    "https://pl.ra.co/dj/miyralim/biography"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "sets": [
+   {
+    "t": "Miyra Lim (VFM002) – Vienna’s Filthiest",
+    "u": "https://soundcloud.com/viennasfilthiest/miyra-lim-vfm002"
+   },
+   {
+    "t": "Radio Analogique DJ-Set by Miyra Lim",
+    "u": "https://soundcloud.com/analogiquemusic/radio-analogique-djset-by-miyra-lim"
+   },
+   {
+    "t": "Miyra Lim at Callshop Radio 26.07.2023",
+    "u": "https://soundcloud.com/callshopradio/miyra-lim-at-callshop-radio-26072023"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Cristinho": {
   "infoChk": "2026-11-02",
@@ -8602,9 +8652,9 @@ const AR={
   "src": [
    "https://de.ra.co/events/2391499"
   ],
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
  },
  "MC Spot": {
   "bio": {
@@ -8614,9 +8664,9 @@ const AR={
   "src": [
    "https://de.ra.co/events/2391499"
   ],
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
  },
  "MARØ": {
   "img": "https://static.ra.co/images/profiles/square/maro.jpg?dateUpdated=1766386631437",
@@ -8644,7 +8694,14 @@ const AR={
    "https://ra.co/events/2523457",
    "https://de.ra.co/dj/maro"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "sets": [
+   {
+    "t": "maro – no lullaby (Mahlwerk Artist Set MWK007)",
+    "u": "https://soundcloud.com/mahlwerk-mwk/max-mustermann"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Who is Ela¿": {
   "img": "https://static.ra.co/images/profiles/square/whoisela%C2%BF.jpg?dateUpdated=1774034559527",
@@ -8707,9 +8764,9 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Marilou": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
  },
  "Raphael Warg": {
   "infoChk": "2026-11-02",
@@ -8722,9 +8779,9 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "Mary Slim": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
  },
  "Edictum": {
   "img": "https://static.ra.co/images/profiles/square/edictum.jpg?dateUpdated=1750928248000",
@@ -8750,9 +8807,9 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Matt Ludlam": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
  },
  "DJ Andy": {
   "infoChk": "2026-11-02",
@@ -8859,9 +8916,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "MATIVIO": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Glitzer & Bass": {
   "img": "https://static.ra.co/images/profiles/square/glitzerundbass.jpg?dateUpdated=1709052562000",
@@ -8956,7 +9013,7 @@ const AR={
    "https://ra.co/events/2218855",
    "https://ra.co/dj/matthiaskaiser"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Gugu": {
   "noImg": "2026-11-02",
@@ -9032,12 +9089,12 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "MJT & RPM": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
   "src": [
    "https://ra.co/events/2506486"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "D.b.h": {
   "noImg": "2026-11-02",
@@ -9139,12 +9196,12 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "M4YB3": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
   "src": [
    "https://ra.co/events/2250635"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Shaxoron": {
   "noImg": "2026-11-02",
@@ -9422,9 +9479,27 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Mama Demba": {
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02",
+  "img": "https://leguesswho.com/media/acts%202026/Mama%20Demba.jpg",
+  "links": {
+   "ig": "https://www.instagram.com/mamademba_djset"
+  },
+  "from": {
+   "de": "Kap Verde",
+   "en": "Cape Verde"
+  },
+  "bio": {
+   "de": "Kapverdischer DJ und Plattensammler, der als „Archäologe lusophoner Musik“ gilt und eine der besten Sammlungen afrikanischer Platten in Europa besitzen soll. In seinen Sets verbindet er Sounds aus Kap Verde, Angola, Guinea-Bissau, São Tomé und Príncipe und der Karibik. Er ist Mitbegründer von Tabanka Records und gehört den Kollektiven Badju D'Terra Sound System und Mindel Reggae Family an.",
+   "en": "Cape Verdean DJ and record collector described as a \"true archaeologist of Lusophone music\", said to own one of the finest African record collections in Europe. His sets blend sounds from Cape Verde, Angola, Guinea-Bissau, São Tomé and Príncipe and the Caribbean. He co-founded Tabanka Records and is part of the Badju D'Terra Sound System and Mindel Reggae Family collectives."
+  },
+  "labels": [
+   "Tabanka Records"
+  ],
+  "src": [
+   "https://leguesswho.com/lineup/mama-demba",
+   "https://operator-radio.com/artists/mama-demba",
+   "https://ra.co/events/2568365"
+  ]
  },
  "The Res": {
   "noImg": "2026-11-02",
@@ -9448,8 +9523,9 @@ const AR={
   "src": [
    "https://soundcloud.com/miawurscht"
   ],
-  "noImg": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "setsChecked": "2026-11-02"
  },
  "SandimSchuh": {
   "links": {
@@ -9845,7 +9921,8 @@ const AR={
    "https://ra.co/dj/mahmood",
    "https://ra.co/dj/mahmood/biography"
   ],
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-01",
+  "setsChecked": "2026-11-02"
  },
  "Rakans": {
   "img": "https://static.ra.co/images/profiles/rakans.jpg?dateUpdated=1578674790000",
@@ -9903,9 +9980,9 @@ const AR={
   "src": [
    "https://ra.co/events/2552786"
   ],
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Sanadrilla": {
   "links": {
@@ -10127,7 +10204,8 @@ const AR={
   "src": [
    "https://open.spotify.com/artist/2P7CNpfHB0cOsqu0Gwl8he"
   ],
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-01",
+  "setsChecked": "2026-11-02"
  },
  "Electric Indigo": {
   "img": "https://static.ra.co/images/profiles/square/electricindigo.jpg?dateUpdated=1535236216000",
@@ -11122,9 +11200,37 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Maissouille": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "img": "https://www.technoairlines.com/wp-content/uploads/2026/10/maissouille-dj-photo-768x768.jpg",
+  "links": {
+   "sc": "https://soundcloud.com/maissouille",
+   "sp": "https://open.spotify.com/artist/1aQbGaag8KEI8kKtY37UQU",
+   "ig": "https://www.instagram.com/maissouille_music/"
+  },
+  "from": {
+   "de": "Frankreich, lebt in Caen",
+   "en": "France, based in Caen"
+  },
+  "bio": {
+   "de": "Französischer DJ und Produzent, seit Ende der 1990er aktiv und 1999 Mitgründer des Soundsystems CO2, das in Nordfrankreich Free Partys veranstaltete. Er spielt Frenchcore, Hardcore und Tribecore, veröffentlichte Alben auf Audiogenic und gründete die Labels Biomaster und Hardcore France Records.",
+   "en": "French DJ and producer active since the late 1990s, who co-founded the CO2 sound system in 1999, throwing free parties in northern France. He plays frenchcore, hardcore and tribecore, released albums on Audiogenic and founded the labels Biomaster and Hardcore France Records."
+  },
+  "real": "Denis Masson",
+  "genres": [
+   "Frenchcore",
+   "Hardcore",
+   "Tribecore"
+  ],
+  "labels": [
+   "Hardcore France Records",
+   "Biomaster",
+   "Audiogenic"
+  ],
+  "src": [
+   "https://www.technoairlines.com/artist/maissouille",
+   "https://www.last.fm/music/Maissouille/+wiki"
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Radze": {
   "links": {
@@ -11154,15 +11260,46 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Miss Pixie aka Tekniker": {
-  "alias": ["Miss Pixie", "Tekniker"],
+  "alias": [
+   "Miss Pixie",
+   "Tekniker"
+  ],
   "links": {
-   "sc": "https://soundcloud.com/tekniker_at"
+   "sc": "https://soundcloud.com/tekniker_at",
+   "bc": "https://misspixie.bandcamp.com",
+   "ig": "https://www.instagram.com/misspixie.at"
   },
   "src": [
-   "https://soundcloud.com/tekniker_at"
+   "https://soundcloud.com/tekniker_at",
+   "https://misspixie.bandcamp.com/track/ich-bin-tekno"
   ],
-  "noImg": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "img": "https://f4.bcbits.com/img/0037357762_10.jpg",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Wiener Artist, die aus dem Projekt Tekniker hervorgegangen ist und seit 1998 Acid, Hardtek und Techno macht – nach dem Motto „so melodisch wie möglich“. Früher verkaufte sie Tapes auf Free Partys; heute arbeitet sie als Musik-, Audio- und VFX-Künstlerin und veröffentlicht auf Bandcamp, etwa „Ich bin Tekno“ (2024).",
+   "en": "Vienna-based artist who evolved out of the Tekniker project and has been making acid, hardtek and techno since 1998 – \"as melodic as possible\". She used to sell tapes at free parties; today she works as a music, audio and VFX artist and releases on Bandcamp, e.g. \"Ich bin Tekno\" (2024)."
+  },
+  "genres": [
+   "Acid",
+   "Hardtek",
+   "Techno",
+   "Tekno"
+  ],
+  "sets": [
+   {
+    "t": "Miss Pixie – Live @ Decibelles 2025_12",
+    "u": "https://soundcloud.com/tekniker_at/misspixie-live-decibelles-2025_12_26"
+   },
+   {
+    "t": "Miss Pixie – Live @ Vienn-a-tek 2025_05 (Flucc, Vienna)",
+    "u": "https://soundcloud.com/tekniker_at/live-vienn-a-tek-2025_05-flucc-vienna"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Genetek": {
   "links": {
@@ -11280,9 +11417,25 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Mariephi": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "img": "https://static.ra.co/images/profiles/square/mariephi.jpg?dateUpdated=1773240414187",
+  "links": {
+   "ra": "https://ra.co/dj/mariephi",
+   "sc": "https://soundcloud.com/marie_phi",
+   "ig": "https://www.instagram.com/mariephi__"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "mariephi ist eine in Wien lebende DJ. Ihre Sets bewegen sich zwischen warmen, hypnotischen und minimalen Sounds.",
+   "en": "mariephi is a Vienna-based DJ. Her sets move between warm, hypnotic and minimal sounds."
+  },
+  "src": [
+   "https://de.ra.co/dj/mariephi"
+  ],
+  "setsChecked": "2026-11-02"
  },
  "H∆NN∆": {
   "infoChk": "2026-11-02",
@@ -14823,6 +14976,211 @@ const AR={
    "https://www.beatport.com/artist/urklang/1117834"
   ],
   "infoChk": "2026-11-02"
+ },
+ "MC Jimmy Danger": {
+  "from": {
+   "de": "Großbritannien",
+   "en": "United Kingdom"
+  },
+  "bio": {
+   "de": "Britischer MC aus dem Drum-&-Bass-Umfeld, der als Host bei Drum-&-Bass-Nächten am Mikrofon steht. Mit dem slowakischen Produzenten L Plus bildet er ein gemeinsames slowakisch-englisches Projekt.",
+   "en": "British MC from the drum & bass scene who hosts drum & bass nights on the mic. Together with Slovak producer L Plus he runs a joint Slovak-English project."
+  },
+  "src": [
+   "https://goout.net/banabass-l-plus-and-jimmy-danger%2Bdalsi/szetnqx/"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Martin Oelz": {
+  "bio": {
+   "de": "Techno-DJ, der in Line-ups mit Verweisen auf die Gazometer-Raves und die Free Parade angekündigt wird. Regelmäßig bei der Reihe Flashback – Techno Classics in Wien zu hören.",
+   "en": "Techno DJ billed in line-ups with references to the Gazometer raves and the Free Parade. A regular at the Flashback – Techno Classics series in Vienna."
+  },
+  "src": [
+   "https://de.ra.co/events/2108941"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Mateo!": {
+  "img": "https://electronicgroove.com/wp-content/uploads/2024/10/Mateo.jpg",
+  "bio": {
+   "de": "Techno-Produzent und DJ, der auf dem Label Vision Serpent die EP „Soulseek“ veröffentlichte (mit den Tracks „Soulseek“ und „White Nile“ sowie einem Remix von Breger). Seine Musik wird als immersiver Techno mit minimalen Rhythmen und hypnotischen Texturen beschrieben.",
+   "en": "Techno producer and DJ who released the EP \"Soulseek\" on Vision Serpent (featuring \"Soulseek\", \"White Nile\" and a remix by Breger). His music is described as immersive techno with minimal rhythms and hypnotic textures."
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Vision Serpent"
+  ],
+  "src": [
+   "https://electronicgroove.com/mateo-releases-soulseek-via-vision-serpent/"
+  ],
+  "infoChk": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Mert Seger": {
+  "links": {
+   "sc": "https://soundcloud.com/mertsegermusic"
+  },
+  "from": {
+   "de": "Lyon, Frankreich",
+   "en": "Lyon, France"
+  },
+  "bio": {
+   "de": "Mert Seger ist ein Projekt des in Lyon lebenden Produzenten Marc-Étienne Guibert, der auch als Gil.Barte auftritt und die Labels KUMP und Meth.O tapes gegründet hat. 2025 erschien auf dem Bristoler Label Plaque das Album „Empire Des Pulsions“ mit neun langsam aufbauenden, dunklen Tracks zwischen Dub, Drone, Industrial und Minimal Synth; zuvor veröffentlichte er auf KUMP.",
+   "en": "Mert Seger is a project of Lyon-based producer Marc-Étienne Guibert, who also records as Gil.Barte and founded the labels KUMP and Meth.O tapes. In 2025 the Bristol label Plaque released his album \"Empire Des Pulsions\", nine slow-building, dark tracks between dub, drone, industrial and minimal synth; he had previously released on KUMP."
+  },
+  "real": "Marc-Étienne Guibert",
+  "labels": [
+   "Plaque",
+   "KUMP"
+  ],
+  "alias": [
+   "Gil.Barte"
+  ],
+  "src": [
+   "https://plaquebristol.bandcamp.com/album/empire-des-pulsions",
+   "https://kump.bandcamp.com/album/kump8-mert-seger-y-t-kp-nra"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
+ },
+ "Mitra": {
+  "img": "https://dev2.elevate.at/fileadmin/EIS_images/artist/2687/9157-Mitra_1280x853.png",
+  "links": {
+   "ig": "https://www.instagram.com/_mi.tra__",
+   "bc": "https://mitra10.bandcamp.com"
+  },
+  "from": {
+   "de": "Wien und München",
+   "en": "Vienna and Munich"
+  },
+  "bio": {
+   "de": "Live-Elektronik-Duo aus Wien und München. Mitra arbeitet mit Live-Improvisation und Frequenzen und passt jede Performance an Zeit und Atmosphäre an; der Sound vermischt Genres und entzieht sich festen Kategorien. 2026 trat das Duo beim Elevate Festival auf, auf Bandcamp ist das Album „Vivarium“ erschienen.",
+   "en": "Live electronic duo from Vienna and Munich. Mitra works with live improvisation and frequencies, adapting each performance to its time and atmosphere; the sound blends genres and resists fixed categories. In 2026 the duo played Elevate Festival, and the album \"Vivarium\" is out on Bandcamp."
+  },
+  "src": [
+   "https://dev2.elevate.at/en/music/artists/mitra"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "MANY MAMMUT": {
+  "links": {
+   "sc": "https://soundcloud.com/many23",
+   "mc": "https://www.mixcloud.com/many23/",
+   "ig": "https://www.instagram.com/manymammut/"
+  },
+  "bio": {
+   "de": "DJ aus dem Acid- und Tekno-Umfeld, auch als Many23 unterwegs. Auf SoundCloud und Mixcloud finden sich Mixe von Acid über Techno bis Tekno, darunter ein Warm-up-Set für Ilsa Gold (2014).",
+   "en": "DJ from the acid and tekno scene, also known as Many23. His SoundCloud and Mixcloud feature mixes ranging from acid via techno to tekno, including a warm-up set for Ilsa Gold (2014)."
+  },
+  "genres": [
+   "Acid",
+   "Tekno",
+   "Techno"
+  ],
+  "alias": [
+   "Many23"
+  ],
+  "sets": [
+   {
+    "t": "Many23 b2b Yrah @ Connections 23 (Part 1) – Acid to Tekno journey",
+    "u": "https://soundcloud.com/many23/manyrah-connections23-part1"
+   },
+   {
+    "t": "Some Spec – Many (noTek Mix, März 2013)",
+    "u": "https://www.mixcloud.com/many23/some-spec-many/"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://www.mixcloud.com/many23/some-spec-many/",
+   "https://soundcloud.com/many23"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
+ },
+ "Marc Græbnør": {
+  "img": "https://static.ra.co/images/profiles/square/marcgr%C3%A6bnor.jpg?dateUpdated=1758710400000",
+  "links": {
+   "ra": "https://ra.co/dj/marcgr%C3%A6bnor",
+   "sc": "https://soundcloud.com/goldcutcrates"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Österreichischer DJ, vor allem in Wien aktiv. Auf RA wurde er als Teil von Werk Statt Raum angekündigt und spielte u. a. im Werk und in der Grelle Forelle. Er mixte Folge #013 der Podcast-Reihe Black Quartz von Nutriot Recordings und war 2024 Gast bei Radio TNP.",
+   "en": "Austrian DJ, mainly active in Vienna. RA has billed him as part of Werk Statt Raum, and he has played Das Werk and Grelle Forelle, among others. He mixed episode #013 of Nutriot Recordings' Black Quartz podcast series and guested on Radio TNP in 2024."
+  },
+  "sets": [
+   {
+    "t": "Could be us, but u’re human w/ Marc Græbnør @ Radio TNP 11.10.2024",
+    "u": "https://soundcloud.com/radiotemponaopara/could-be-us-marc-graebnor-11-10-2024"
+   },
+   {
+    "t": "BLACK QUARTZ #013 by Marc Græbnør",
+    "u": "https://soundcloud.com/nutriot/black-quartz-13"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/marcgr%C3%A6bnor",
+   "https://ra.co/events/1243822"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "MEIOSISS": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "MØCK": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Malounadou": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Mark Dale": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "MANiLO": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "missantroop": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "MAWU": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Mr. Highfi": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "MESROD": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
  }
 };
 
