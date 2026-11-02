@@ -6451,7 +6451,7 @@ const AR={
   "noLinks": "2026-10-31"
  },
  "Hello Kiffy": {
-  "noImg": "2026-10-28",
+  "noImg": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/user-zlmss"
   },
@@ -6461,7 +6461,18 @@ const AR={
    "https://soundcloud.com/pinkmayhem/mel-b2b-hello-kiffy-set-recording-2401",
    "https://soundcloud.com/radiorudina/almost-pinkcast-mel-b2b-pinklotion-b2b-bludhound?in=user-zlmss%2Fsets%2Fink-mayhem"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "sets": [
+   {
+    "t": "HELLO KIFFY [SET RECORDING ROSAROT 8.8]",
+    "u": "https://soundcloud.com/pinkmayhem/hello-kiffy-set-recording"
+   },
+   {
+    "t": "MEL B2B HELLO KIFFY [SET RECORDING 24.01]",
+    "u": "https://soundcloud.com/pinkmayhem/mel-b2b-hello-kiffy-set-recording-2401"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Kristus": {
   "noImg": "2026-10-28",
@@ -6808,9 +6819,9 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Hanno": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Meltdown": {
   "noImg": "2026-10-28",
@@ -7621,9 +7632,9 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Gilista": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
  },
  "Artemuse": {
   "img": "https://static.ra.co/images/profiles/square/artemuse.jpg?dateUpdated=1744275702490",
@@ -7704,9 +7715,9 @@ const AR={
   "noLinks": "2026-10-31"
  },
  "Florian No": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
  },
  "Elex Red": {
   "links": {
@@ -7716,8 +7727,16 @@ const AR={
    "https://soundcloud.com/alexrot",
    "https://soundcloud.com/alexrot/alex-rot-elektro-goenner-mix"
   ],
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "alias": ["Alex Rot"],
+  "sets": [
+   {
+    "t": "Alex Rot - Elektro Goenner Mix - 20120309",
+    "u": "https://soundcloud.com/alexrot/alex-rot-elektro-goenner-mix"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Tolaris": {
   "infoChk": "2026-10-31",
@@ -8029,20 +8048,20 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Gugu": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
   "src": [
    "https://ra.co/events/2521239"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Hanneken": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
   "src": [
    "https://ra.co/events/1986880"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "PA_olo": {
   "noImg": "2026-10-31",
@@ -8147,13 +8166,13 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Incognito": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
   "src": [
    "https://ra.co/events/1873343",
    "https://ra.co/events/2250635"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "M4YB3": {
   "noImg": "2026-10-31",
@@ -8393,9 +8412,9 @@ const AR={
   "infoChk": "2026-11-01"
  },
  "Jana Passt": {
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "LinsenJoe": {
   "noImg": "2026-11-01",
@@ -8584,9 +8603,29 @@ const AR={
   "infoChk": "2026-11-01"
  },
  "Hetum": {
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02",
+  "img": "https://static.ra.co/images/profiles/square/hetum.jpg?dateUpdated=1511136000000",
+  "links": {
+   "ra": "https://ra.co/dj/hetum",
+   "sc": "https://soundcloud.com/hetum"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Hetum ist ein österreichischer Techno-DJ. Er spielt regelmäßig bei der Reihe technolog im Wiener Kramladen, meist gemeinsam mit Roton. Laut RA ist er auch unter den Namen Schallstrahler, Nareg und MarsBed aktiv.",
+   "en": "Hetum is an Austrian techno DJ. He plays regularly at the technolog series at Kramladen in Vienna, usually alongside Roton. According to RA he is also active as Schallstrahler, Nareg and MarsBed."
+  },
+  "genres": [
+   "Techno"
+  ],
+  "alias": ["Schallstrahler", "Nareg", "MarsBed", "ɦɘɬʊɱ"],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/hetum",
+   "https://soundcloud.com/hetum"
+  ]
  },
  "Roton": {
   "img": "https://static.ra.co/images/profiles/square/roton.jpg?dateUpdated=1792759218327",
@@ -8677,9 +8716,9 @@ const AR={
   "infoChk": "2026-11-01"
  },
  "gåpe": {
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "wert": {
   "noImg": "2026-11-01",
@@ -9124,10 +9163,13 @@ const AR={
   "img": "https://i.scdn.co/image/ab6761610000e5eb4c2bb832ac6ec6a011a9b253",
   "links": {
    "sp": "https://open.spotify.com/artist/6WaK9Bq6tJ5gRhs0VTtujg",
-   "sc": "https://soundcloud.com/gaouta"
+   "sc": "https://soundcloud.com/gaouta",
+   "bc": "https://gaoutamusic.bandcamp.com"
   },
   "src": [
-   "https://open.spotify.com/artist/6WaK9Bq6tJ5gRhs0VTtujg"
+   "https://open.spotify.com/artist/6WaK9Bq6tJ5gRhs0VTtujg",
+   "https://gaoutamusic.bandcamp.com",
+   "https://www.periscope-lyon.com/?p=17943"
   ],
   "infoChk": "2026-11-02",
   "sets": [
@@ -9140,7 +9182,20 @@ const AR={
     "u": "https://soundcloud.com/ines-yazidi-608912782/club-gouine-invite-gaouta"
    }
   ],
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "from": {
+   "de": "Casablanca, Marokko",
+   "en": "Casablanca, Morocco"
+  },
+  "bio": {
+   "de": "Gaouta ist eine marokkanische Musikerin aus Casablanca. Sie schreibt, komponiert und produziert Cold-Wave- und Post-Punk-Musik mit 80er-Einflüssen und singt auf Darija (marokkanisches Arabisch). Live tritt sie solo an Drums mit elektronischen Texturen auf.",
+   "en": "Gaouta is a Moroccan musician based in Casablanca. She writes, composes and produces cold wave and post-punk music with 80s influences, sung in Darija (Moroccan Arabic). Live, she performs solo on drums with electronic textures."
+  },
+  "genres": [
+   "Post-Punk",
+   "Cold Wave",
+   "New Wave"
+  ]
  },
  "Jules Foe": {
   "noImg": "2026-11-02",
@@ -9286,8 +9341,22 @@ const AR={
  },
  "Ian Staraj": {
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/ianstaraj"
+  },
+  "sets": [
+   {
+    "t": "Ian Staraj @ Love International 2024",
+    "u": "https://soundcloud.com/greenlight_collective/ian-staraj-love-international-2024"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://soundcloud.com/ianstaraj",
+   "https://soundcloud.com/greenlight_collective/ian-staraj-love-international-2024",
+   "https://ra.co/events/2554813"
+  ]
  },
  "RUG": {
   "noImg": "2026-11-02",
@@ -9331,8 +9400,14 @@ const AR={
  },
  "Gush Valley": {
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "links": {
+   "ig": "https://www.instagram.com/gush.valley/"
+  },
+  "src": [
+   "https://www.instagram.com/gush.valley/",
+   "https://de.ra.co/events/2384766"
+  ]
  },
  "Darina": {
   "noImg": "2026-11-02",
@@ -9470,10 +9545,34 @@ const AR={
   },
   "src": [
    "https://www.mixcloud.com/gspotsound/",
-   "https://www.sherwood.it/articolo/4537/g-spot-sound-from-wien-aut"
+   "https://www.sherwood.it/articolo/4537/g-spot-sound-from-wien-aut",
+   "https://www.mixcloud.com/gspotsound/uploads/"
   ],
   "noImg": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "bio": {
+   "de": "G-Spot Sound ist ein Wiener Soundsystem in jamaikanischer Tradition, 2001 von Phile und Oliver gegründet. Die Crew veranstaltet Dances und setzt auf Dubplates, die bei regelmäßigen Reisen nach Kingston aufgenommen werden. Später kamen Selecta O.G. und 2004 Koolbreak dazu; bekannt ist das Soundsystem vor allem für sein Juggling.",
+   "en": "G-Spot Sound is a Vienna-based soundsystem in the Jamaican tradition, founded in 2001 by Phile and Oliver. The crew organises dances and focuses on dubplates voiced during regular trips to Kingston. Selecta O.G. joined later and Koolbreak in 2004; the sound is known above all for its juggling."
+  },
+  "genres": [
+   "Reggae",
+   "Dancehall"
+  ],
+  "sets": [
+   {
+    "t": "G-SPOT SOUND pres. BODYSLAM VOL.II (mixed by Koolbreak)",
+    "u": "https://www.mixcloud.com/gspotsound/g-spot-sound-pres-bodyslam-volii-mixed-by-koolbreak/"
+   },
+   {
+    "t": "Maaad Jamaican Juggling Pt. II (mixed by Koolbreak)",
+    "u": "https://www.mixcloud.com/gspotsound/maaad-jamaican-juggling-pt-ii-mixed-by-koolbreak/"
+   },
+   {
+    "t": "Bodyslam",
+    "u": "https://www.mixcloud.com/gspotsound/bodyslam/"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Barbara Lago": {
   "from": {
@@ -9547,8 +9646,37 @@ const AR={
  },
  "Escapism": {
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/escapismdnb"
+  },
+  "bio": {
+   "de": "Escapism ist ein Drum-&-Bass-DJ aus der Wiener Szene. Auf SoundCloud finden sich Gastmixe u. a. für die FM4-Sendung Dog's Bollocks (Februar 2021) und für die Radioshow Pandora's Playground auf Superfly.fm.",
+   "en": "Escapism is a drum & bass DJ from the Vienna scene. His SoundCloud features guest mixes for FM4's Dog's Bollocks show (February 2021) and for the Pandora's Playground radio show on Superfly.fm."
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "sets": [
+   {
+    "t": "ESCAPISM @ Pandora's Playground (Superfly.fm) Ep. 96",
+    "u": "https://soundcloud.com/escapismdnb/pandorasplayground96"
+   },
+   {
+    "t": "FM4 Dog's Bollocks Jungle/Footwork/Drum & Bass (February 2021)",
+    "u": "https://soundcloud.com/escapismdnb/fm4-february-2021"
+   },
+   {
+    "t": "ESCAPISM @ Pandora's Playground (Superfly.fm Radioshow) – Interview & Guestmix",
+    "u": "https://soundcloud.com/escapismdnb/pandorasplayground"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://soundcloud.com/escapismdnb",
+   "https://soundcloud.com/escapismdnb/fm4-february-2021",
+   "https://soundcloud.com/escapismdnb/pandorasplayground96"
+  ]
  },
  "Synthesis": {
   "noImg": "2026-11-02",
@@ -9568,7 +9696,8 @@ const AR={
    "https://soundcloud.com/user-520936179"
   ],
   "noImg": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "setsChecked": "2026-11-02"
  },
  "Gawdesque": {
   "from": {
@@ -9635,7 +9764,8 @@ const AR={
    "https://soundcloud.com/genetektekno"
   ],
   "noImg": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "setsChecked": "2026-11-02"
  },
  "The Rave Bear": {
   "noImg": "2026-11-02",
@@ -9743,6 +9873,473 @@ const AR={
   "noImg": "2026-11-02",
   "noLinks": "2026-11-02",
   "infoChk": "2026-11-02"
+ },
+ "H∆NN∆": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "færo demonic": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "eira haul": {
+  "img": "https://static.ra.co/images/profiles/square/eirahaul.jpg?dateUpdated=1772077947010",
+  "links": {
+   "ra": "https://ra.co/dj/eirahaul",
+   "sc": "https://soundcloud.com/eira_haul",
+   "ig": "https://www.instagram.com/eira_haul"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "eira haul ist ein DJ und Produzent aus Deutschland mit Basis in Berlin und Leipzig, der verschiedene Spielarten von House mit hellen melodischen Elementen verbindet. Er war Resident beim Akasha Festival und veröffentlichte zwei EPs auf Edition Akasha, außerdem auf R.A.N.D. Muzik, Limousine Dream und Anna Walls Dream Theory. 2024 gründete er das Label utopiazones mit.",
+   "en": "eira haul is a German DJ and producer based in Berlin and Leipzig, blending various strands of house with bright melodic touches. He was a resident at Akasha Festival and released two EPs on Edition Akasha, plus records on R.A.N.D. Muzik, Limousine Dream and Anna Wall's Dream Theory. In 2024 he co-founded the label utopiazones."
+  },
+  "genres": [
+   "House",
+   "Deep House"
+  ],
+  "labels": [
+   "Edition Akasha",
+   "utopiazones",
+   "R.A.N.D. Muzik",
+   "Limousine Dream",
+   "Dream Theory"
+  ],
+  "sets": [
+   {
+    "t": "eira haul live in Jakarta",
+    "u": "https://soundcloud.com/eira_haul/eira-haul-live-in-jakarta"
+   },
+   {
+    "t": "Eira Haul - 28 Septembre 2020 (Rinse France)",
+    "u": "https://soundcloud.com/rinse_france/eira-haul-28-septembre-2020"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/eirahaul",
+   "https://volumo.com/artist/1047052-eira-haul/about"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Franky": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "En:vy": {
+  "img": "https://criticalmusic.com/wp-content/uploads/2025/12/Photo_envy-400x400.jpg",
+  "links": {
+   "sc": "https://soundcloud.com/envydnb",
+   "ig": "https://www.instagram.com/envy.music_/"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "En:vy ist ein Drum-&-Bass-Produzent, der in Wien aufgewachsen ist und inzwischen in Bristol lebt. Seine ersten Drum-&-Bass-Abende erlebte er 2015 bei Contrast in der Grelle Forelle. Er veröffentlicht regelmäßig auf Critical Music (u. a. Binary EP, Neo EP, Death Sprint EP mit Enei, Love Talk / Boss Fight), früher auch auf Overview Music und Flexout Audio.",
+   "en": "En:vy is a drum & bass producer who grew up in Vienna and is now based in Bristol. He first experienced drum & bass at Contrast at Grelle Forelle in 2015. He releases regularly on Critical Music (including the Binary EP, Neo EP, Death Sprint EP with Enei and Love Talk / Boss Fight), and earlier on Overview Music and Flexout Audio."
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Critical Music",
+   "Overview Music",
+   "Flexout Audio"
+  ],
+  "sets": [
+   {
+    "t": "1985 Music (En:vy Guestmix) – Rinse FM Podcast",
+    "u": "https://soundcloud.com/envydnb/1985-rinse-fm-podcast-envy"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://criticalmusic.com/artists/envy/",
+   "https://ukf.com/read/who-the-hell-is-envy/",
+   "https://soundcloud.com/envydnb"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Julia Goldfarb": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Hamelin": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Inou Ki Endo": {
+  "img": "https://static.ra.co/images/profiles/inoukiendo.jpg?dateUpdated=1522944790000",
+  "links": {
+   "ra": "https://ra.co/dj/inoukiendo",
+   "sc": "https://soundcloud.com/inoukiendo"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Inou Ki Endo ist ein in Österreich verorteter DJ, der seit etwa 2018 regelmäßig in der Wiener Clubszene auftritt, etwa bei Common Contact im EKH sowie bei Struma+Iodine in FLUCC, Venster 99 und Rhiz. Für Struma+Iodine entstanden die Podcast-Mixe SI019 und SI110. Dazu kommen Mixe für den TONGUES-Podcast und eine Res.Radio-Sendung mit dem Wiener Label Ventil Records.",
+   "en": "Inou Ki Endo is an Austria-based DJ who has played Vienna's club scene regularly since around 2018, including Common Contact at EKH and Struma+Iodine nights at FLUCC, Venster 99 and Rhiz. The podcast mixes SI019 and SI110 were made for Struma+Iodine. Other mixes include one for the TONGUES podcast and a Res.Radio show with Vienna label Ventil Records."
+  },
+  "sets": [
+   {
+    "t": "SI110 - INOU KI ENDO",
+    "u": "https://soundcloud.com/strumandiodine/inou-ki-endo-2026"
+   },
+   {
+    "t": "GM190824 - Inou Ki Endo - nightcrawler mix (TONGUES)",
+    "u": "https://soundcloud.com/tongues_1150/tongues-inoukiendo-plus3db"
+   },
+   {
+    "t": "Curated #1.3 Ventil Records w/ Inou Ki Endo (Res.Radio)",
+    "u": "https://soundcloud.com/resradio/curated-13-ventil-records-w-inou-ki-endo"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://de.ra.co/dj/inoukiendo",
+   "https://ra.co/events/1177528",
+   "https://ra.co/events/1275466",
+   "https://ra.co/events/1213968",
+   "https://de.ra.co/events/2054017",
+   "https://soundcloud.com/inoukiendo",
+   "https://soundcloud.com/strumandiodine/inou-ki-endo-2026",
+   "https://soundcloud.com/strumandiodine/si019-inou-ki-endo",
+   "https://soundcloud.com/tongues_1150/tongues-inoukiendo-plus3db",
+   "https://soundcloud.com/resradio/curated-13-ventil-records-w-inou-ki-endo"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Gerald VDH": {
+  "img": "https://static.ra.co/images/profiles/square/geraldvdh.jpg?dateUpdated=1479208210000",
+  "links": {
+   "ra": "https://ra.co/dj/geraldvdh",
+   "sc": "https://soundcloud.com/geraldvdh",
+   "ig": "https://www.instagram.com/geraldvdh",
+   "web": "https://www.blakksheep.com/artist/gerald-vdh/"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Gerald VDH (Gerald van der Hint) ist ein Wiener Vinyl-DJ für Techno und House, der seit 1998 auflegt. Er veranstaltet in Wien die Partyreihen MEAT MARKET, FISH MARKET, F*CKEN PLUS und MUTTER. Als Produzent veröffentlichte er unter anderem auf Meat Recordings und spielte Podcasts etwa für das Groove Magazin.",
+   "en": "Gerald VDH (Gerald van der Hint) is a Vienna-based vinyl DJ who has played techno and house since 1998. He runs the Vienna party series MEAT MARKET, FISH MARKET, F*CKEN PLUS and MUTTER. As a producer he has released on Meat Recordings, among others, and has recorded podcasts for outlets such as Groove Magazin."
+  },
+  "genres": [
+   "Techno",
+   "House"
+  ],
+  "labels": [
+   "Meat Recordings"
+  ],
+  "alias": ["Gerald van der Hint"],
+  "sets": [
+   {
+    "t": "GUEST SERIES: Gerald VDH @ FISH MARKET, GRELLE FORELLE - 29/06/24",
+    "u": "https://soundcloud.com/conceptualviolence/guest-series-gerald-vdh-fish-market-grelle-forelle-290624"
+   },
+   {
+    "t": "DJ-Set at Grelle Forelle April 19",
+    "u": "https://soundcloud.com/geraldvdh/dj-set-at-grelle-forelle-april-19"
+   },
+   {
+    "t": "DJ Set at Grelle Forelle - Fish Market 16.04.16",
+    "u": "https://soundcloud.com/geraldvdh/dj-set-at-grelle-forelle-fish-market-160416"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/geraldvdh",
+   "https://de.ra.co/dj/geraldvanderhint/biography",
+   "https://soundcloud.com/geraldvdh/tracks",
+   "https://soundcloud.com/6amgroup/premiere-gerald-vdh-push-meat-recordings",
+   "https://soundcloud.com/groove-magazin/groove-resident-podcast-5-gerald-vdh",
+   "https://soundcloud.com/conceptualviolence/guest-series-gerald-vdh-fish-market-grelle-forelle-290624"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Gomez & Nickfried": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Ironica Los Culos": {
+  "links": {
+   "sc": "https://soundcloud.com/ironica-los-culos"
+  },
+  "sets": [
+   {
+    "t": "CommON AIR Festival 2022: IRONICA LOS CULOS 25/05/22",
+    "u": "https://soundcloud.com/vlanradio/ironicalosculos-250522"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://soundcloud.com/ironica-los-culos",
+   "https://soundcloud.com/vlanradio/ironicalosculos-250522"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
+ },
+ "Fairy Mary": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Egorythmia": {
+  "links": {
+   "sc": "https://soundcloud.com/egorythmia"
+  },
+  "from": {
+   "de": "Nordmazedonien",
+   "en": "North Macedonia"
+  },
+  "bio": {
+   "de": "Egorythmia ist das Progressive-Psytrance-Projekt von Boban Lazovski aus Skopje in Nordmazedonien. Sein Debüt war 2008 die EP „Night Sight“ auf Iono Music. Seitdem tritt er weltweit auf Festivals auf, etwa beim Boom Festival und beim Ozora Festival.",
+   "en": "Egorythmia is the progressive psytrance project of Boban Lazovski from Skopje, North Macedonia. He debuted in 2008 with the EP 'Night Sight' on Iono Music. Since then he has played festivals worldwide, including Boom Festival and Ozora Festival."
+  },
+  "genres": [
+   "Psytrance",
+   "Progressive Psytrance"
+  ],
+  "labels": [
+   "Iono Music"
+  ],
+  "sets": [
+   {
+    "t": "Egorythmia @ Ozora Festival 2026",
+    "u": "https://soundcloud.com/egorythmia/egorythmia-ozora-festival-2026"
+   },
+   {
+    "t": "Egorythmia Live @ Boom 2012",
+    "u": "https://soundcloud.com/egorythmia/egorythmia-live-boom-2012"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://www.beatport.com/artist/egorythmia/67000",
+   "https://www.discogs.com/artist/1056854-Boban-Lazovski",
+   "https://soundcloud.com/egorythmia",
+   "https://soundcloud.com/egorythmia/egorythmia-ozora-festival-2026",
+   "https://soundcloud.com/egorythmia/egorythmia-live-boom-2012"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
+ },
+ "Eric Prydz": {
+  "img": "https://static.ra.co/images/profiles/ericprydz.jpg?dateUpdated=1605876513000",
+  "links": {
+   "ra": "https://ra.co/dj/ericprydz",
+   "web": "https://www.ericprydz.com"
+  },
+  "from": {
+   "de": "Schweden",
+   "en": "Sweden"
+  },
+  "bio": {
+   "de": "Eric Prydz ist ein schwedischer DJ und Produzent. Er veröffentlicht melodischen House als Pryda und härteren Techno als Cirez D und betreibt die Labels Pryda, Pryda Friends und Mouseville. Bekannt wurde er 2004 mit „Call On Me“, das sechs Wochen auf Platz eins der UK-Charts stand.",
+   "en": "Eric Prydz is a Swedish DJ and producer. He releases melodic house as Pryda and harder techno as Cirez D, and runs the labels Pryda, Pryda Friends and Mouseville. He broke through in 2004 with 'Call On Me', which spent six weeks at number one in the UK charts."
+  },
+  "genres": [
+   "Progressive House",
+   "Techno"
+  ],
+  "labels": [
+   "Pryda",
+   "Pryda Friends",
+   "Mouseville"
+  ],
+  "alias": ["Pryda", "Cirez D"],
+  "src": [
+   "https://ra.co/dj/ericprydz",
+   "https://ra.co/dj/ericprydz/biography"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Inaya": {
+  "links": {
+   "sc": "https://soundcloud.com/inayadnb",
+   "ig": "https://www.instagram.com/inayadnb/"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "alias": ["인아야"],
+  "sets": [
+   {
+    "t": "INAYA @ CINEMATIƆ – Prater Dome Vienna 13.09.2024",
+    "u": "https://soundcloud.com/prater-dome/inaya-cinematic-prater-dome-vienna-13-09-2024"
+   },
+   {
+    "t": "OFFICE SESSION: Drum & Bass by INAYA",
+    "u": "https://soundcloud.com/verumgaudium/office-session-drum-bass-by-inaya"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://soundcloud.com/inayadnb",
+   "https://soundcloud.com/inayadnb/sets/mixes",
+   "https://www.instagram.com/inayadnb/",
+   "https://ra.co/events/2143808"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
+ },
+ "Heap": {
+  "img": "https://static.ra.co/images/profiles/square/heap.jpg?dateUpdated=1518191055000",
+  "links": {
+   "ra": "https://ra.co/dj/heap",
+   "sc": "https://soundcloud.com/heapvienna",
+   "ig": "https://www.instagram.com/heapvienna",
+   "web": "https://neubau-music.art"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Heap ist ein österreichischer DJ und Produzent aus Wien und Gründer von Neubau. Er steht für rohe, kantige und abstrakte Elektronik für den Dancefloor abseits von Trends. Releases bzw. Remixe erschienen u. a. auf ESP Institute, Berceuse Heroique, Mechatronica, Super Utu und Betonska.",
+   "en": "Heap is an Austrian DJ and producer from Vienna and the founder of Neubau. He stands for raw, rugged and abstract electronics for the dancefloor, away from trends. Releases and remixes have appeared on labels including ESP Institute, Berceuse Heroique, Mechatronica, Super Utu and Betonska."
+  },
+  "labels": [
+   "Neubau",
+   "ESP Institute",
+   "Berceuse Heroique",
+   "Mechatronica",
+   "Super Utu",
+   "Betonska"
+  ],
+  "real": "Florian Stöffelbauer",
+  "alias": ["FS"],
+  "sets": [
+   {
+    "t": "Heap @ ÆDEN Berlin, Dec 2021",
+    "u": "https://soundcloud.com/vertere-berlin/heap-aeden-berlin-dec-2021"
+   },
+   {
+    "t": "Phormix Podcast #158 Heap @ Camp Cosmic 2019",
+    "u": "https://soundcloud.com/phormix/phormix-podcast-158-heap-camp-cosmic-2019"
+   },
+   {
+    "t": "Heap - Oddity Influence Mix",
+    "u": "https://soundcloud.com/oddityradio/neubau-oddity-influence-mix"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/heap",
+   "https://soundcloud.com/vertere-berlin/heap-aeden-berlin-dec-2021",
+   "https://soundcloud.com/phormix/phormix-podcast-158-heap-camp-cosmic-2019",
+   "https://soundcloud.com/oddityradio/neubau-oddity-influence-mix"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Jule Feser": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Fede Frostl": {
+  "img": "https://static.ra.co/images/profiles/square/fedefrostl.jpg?dateUpdated=1702403094000",
+  "links": {
+   "ra": "https://ra.co/dj/fedefrostl",
+   "sc": "https://soundcloud.com/fede-froestl",
+   "ig": "https://www.instagram.com/fedefrostl",
+   "web": "https://www.fedefrostl.com"
+  },
+  "from": {
+   "de": "Argentinien",
+   "en": "Argentina"
+  },
+  "bio": {
+   "de": "Fede Frostl ist ein Progressive-House-DJ aus Argentinien, der in Österreich lebt. Er hat in Argentinien, Mexiko, Österreich, Deutschland, Spanien, Ungarn und weiteren Ländern gespielt; in Wien u. a. mit der Reihe Pure Progressive. Tracks erschienen u. a. auf South America Sound Avenue, Stellar Fountain und Trippy Code.",
+   "en": "Fede Frostl is a progressive house DJ from Argentina based in Austria. He has played in Argentina, Mexico, Austria, Germany, Spain, Hungary and other countries; in Vienna among others with the Pure Progressive series. Tracks have appeared on labels including South America Sound Avenue, Stellar Fountain and Trippy Code."
+  },
+  "genres": [
+   "Progressive House"
+  ],
+  "labels": [
+   "South America Sound Avenue",
+   "Stellar Fountain",
+   "Trippy Code",
+   "Another Life",
+   "Balkan Connection South America"
+  ],
+  "alias": ["Fede Fröstl"],
+  "sets": [
+   {
+    "t": "Pure Progressive - Fede Fröstl live at Kramladen, Vienna 15.2.25",
+    "u": "https://soundcloud.com/fede-froestl/3-25a"
+   },
+   {
+    "t": "Pure Progressive - Set 1.25",
+    "u": "https://soundcloud.com/fede-froestl/set-125"
+   },
+   {
+    "t": "Live set at Kramladen, Vienna. 14.9.24",
+    "u": "https://soundcloud.com/fede-froestl/set-kramladen"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/fedefrostl/biography",
+   "https://de.ra.co/dj/fedefrostl",
+   "https://soundcloud.com/fede-froestl/3-25a",
+   "https://soundcloud.com/fede-froestl/set-125",
+   "https://soundcloud.com/fede-froestl/set-kramladen"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "finster": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Flo Førg": {
+  "img": "https://static.ra.co/images/profiles/square/floforg.jpg?dateUpdated=1573430400000",
+  "links": {
+   "ra": "https://ra.co/dj/floforg"
+  },
+  "from": {
+   "de": "München",
+   "en": "Munich"
+  },
+  "bio": {
+   "de": "Flo Førg ist DJ, Produzent, Veranstalter und Labelbetreiber aus München, bekannt für eklektische Sets zwischen Downtempo, House, Funk, Disco, Hip-Hop und Jazz. Er begann Ende der 1990er-Jahre in Münchner Clubs aufzulegen und moderierte die Black Label Radioshow von Compost Records mit. Er betreibt das Label Wertstoff Musik.",
+   "en": "Flo Førg is a Munich-based DJ, producer, promoter and label owner known for eclectic sets spanning downtempo, house, funk, disco, hip-hop and jazz. He started DJing in Munich clubs in the late 1990s and co-hosted Compost Records' Black Label Radioshow. He runs the label Wertstoff Musik."
+  },
+  "labels": [
+   "Wertstoff Musik",
+   "Compost Black Label",
+   "Eskapaden Musik",
+   "Fine Coincidence"
+  ],
+  "src": [
+   "https://es-mx.ra.co/dj/floforg/biography"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Fliize": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Entheon": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
  }
 };
 const VG={
