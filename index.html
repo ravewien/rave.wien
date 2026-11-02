@@ -527,6 +527,10 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
 .flag.uc.on{background:var(--mute);color:#0b0d10;border-style:solid}
 .flag.on .ico{background:#0b0d10!important;color:#e9ecf1}
 .b2b{font-family:var(--f-mono);font-size:10px;color:var(--mute);margin:0 6px;text-transform:lowercase}
+.an{white-space:nowrap}.an>button[data-artist]{white-space:normal}
+.aplay{display:inline-grid;place-items:center;width:17px;height:17px;margin-left:5px;padding:0;border:0;background:none;color:var(--accent);vertical-align:-3px;cursor:pointer;text-decoration:none!important}
+.aplay svg{width:17px;height:17px;display:block}.aplay:hover{color:var(--fg)}
+.aplay.on,.aplay.on:hover{color:var(--accent)}.aplay.on circle{fill:currentColor}.aplay.on path{fill:var(--bg)}
 .tt{display:grid;grid-template-columns:auto minmax(0,1fr);gap:3px 10px;margin-top:4px}
 .tt .tm{font-family:"DSEG7",var(--f-mono);font-size:12px;color:var(--accent);padding-top:3px;letter-spacing:.02em}
 
@@ -807,7 +811,12 @@ function sim(a,b){const A=toks(a),B=toks(b);if(!A.size||!B.size)return 0;let i=0
 function vkey(v){return v.replace(/ (Wanne|Deck)$/,"")}
 const nm=a=>a.includes("|")?a.split("|")[1]:a;
 const splitA=n=>String(n==null?"":n).split(/\s+b2b\s+/i).map(x=>x.trim()).filter(Boolean);
-const abtn=(n,H)=>splitA(n).map(x=>{const c=canon(x),h=H&&H.has(c);return `<button data-artist="${esc(c)}"${h?` class="hl" title="Headliner"`:""}>${esc(x)}</button>`}).join('<span class="b2b">b2b</span>');
+// Erstes hinterlegtes Set eines Artists (SoundCloud/Mixcloud) für den Play-Knopf im Lineup
+const firstSet=n=>{const a=ARK[akey(n)];const s=a&&(a.sets||[]).find(x=>x&&/soundcloud\.com|mixcloud\.com/.test(x.u||""));return s||null};
+const ICPLAY=`<svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="8.6" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M8 6.4v7.2l6-3.6z" fill="currentColor"/></svg>`;
+const aplay=(c,P)=>{if(!P||typeof EMBED==="undefined"||!EMBED)return "";const s=firstSet(c);if(!s)return "";const t=s.t||"Set";
+  return `<button type="button" class="aplay${DOCK.u===s.u?" on":""}" data-play="${esc(su(s.u))}" data-pt="${esc(fold(t).includes(fold(c))?t:c+" – "+t)}" title="${esc(L().listenS+": "+t)}" aria-label="${esc(L().listenS+": "+c)}">${ICPLAY}</button>`};
+const abtn=(n,H,P)=>splitA(n).map(x=>{const c=canon(x),h=H&&H.has(c);return `<span class="an"><button data-artist="${esc(c)}"${h?` class="hl" title="Headliner"`:""}>${esc(x)}</button>${aplay(c,P)}</span>`}).join('<span class="b2b">b2b</span>');
 function richness(e){return (e.floors?e.floors.reduce((n,f)=>n+f.a.length,0):0)*3+(e.genres||[]).length+(e.coll||[]).length+(e.tickets?2:0)+(e.e?1:0)+(e.price?1:0)}
 const akey=n=>fold(n).replace(/\s(und|and)\s/g," ").replace(/\((live|dj set|[a-z]{2,3})\)/g,"").replace(/[^a-z0-9¿øæ]/g,"");
 const aliasArr=x=>Array.isArray(x&&x.alias)?x.alias.filter(s=>typeof s==="string"&&s.trim()).map(s=>s.trim()):[];
@@ -1568,8 +1577,8 @@ function renderEv(dk,id){
   const anyFloorSound=sfl&&e.floors.some(f=>fsound(f));
   const pads=e.floors.length?e.floors.map((f,i)=>{
     const inner=f.a.some(a=>a.includes("|"))
-      ?`<div class="tt">${f.a.map(a=>{const [t,n]=a.includes("|")?a.split("|"):["",a];return `<span class="tm">${t}</span><span>${abtn(n,e.headSet)}</span>`}).join("")}</div>`
-      :`<div class="artists">${f.a.map(a=>a==="TBA"?`<span style="color:var(--mute)">${l.tba}</span>`:`<span>${abtn(a,e.headSet)}</span>`).join("")}</div>`;
+      ?`<div class="tt">${f.a.map(a=>{const [t,n]=a.includes("|")?a.split("|"):["",a];return `<span class="tm">${t}</span><span>${abtn(n,e.headSet,1)}</span>`}).join("")}</div>`
+      :`<div class="artists">${f.a.map(a=>a==="TBA"?`<span style="color:var(--mute)">${l.tba}</span>`:`<span>${abtn(a,e.headSet,1)}</span>`).join("")}</div>`;
     return `<div class="pad"><span class="key" style="background:var(--cue${CUE[i%8]})">${CUE[i%8]}</span><div>${f.f?`<div class="fl">${esc(f.f)}</div>`:""}${inner}${fsound(f)?`<div class="snd"><span class="sndk">SOUND</span>${esc(fsound(f)[st.lang]||fsound(f).de)}</div>`:""}</div></div>`}).join("")
     :`<div class="pad"><span class="key" style="background:var(--cueA)">A</span><div style="color:var(--mute)">${l.tba}</div></div>`;
   const vibe=FLAGS.filter(f=>e[f[0]]).map(([k,c,lab,,ic])=>{const why=e.fromVenue.includes(k)?`${l.house} ${e.venue}`:e.fromColl&&e.fromColl[k]?`${l.collRule} ${e.fromColl[k]}`:"";return `<button class="flag ${c}" data-ff="${k}" title="${esc(l.filter+(why?" · "+why:""))}"><i class="ico ${c}">${ic}</i>${esc(l[lab])}${why?"*":""}</button>`});
