@@ -492,6 +492,28 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
 /* desktop table layout: kicks in when the list column itself is wide (mobile untouched) */
 #out{container-type:inline-size;container-name:out}
 .thead{display:none}
+.row.tk>.cflags{display:none}
+/* Mobile Liste: Location und Veranstalter ohne Rahmen, als farbiger Text */
+@container out (max-width:759px){
+  .row.tk .vtags{display:flex;flex-wrap:wrap;gap:2px 14px;margin:1px 0}
+  .row.tk .vtags .tag{border:0;background:none;padding:0;border-radius:0;text-transform:none;letter-spacing:0;font-family:Barlow,var(--f-body,sans-serif);font-weight:600;font-size:14px;line-height:1.3;white-space:normal}
+  .row.tk .vtags .tag .ii,.row.tk .vtags .tag svg{margin-right:4px}
+  .row.tk .vtags .tag.on{background:none;text-decoration:underline;text-underline-offset:3px}
+  .row.tk .vtags .tag.co.on{color:var(--c-col)}.row.tk .vtags .tag.co.on .ii{color:var(--c-col)}
+  /* Genres ohne Kasten */
+  .row.tk .gcl{border:0;background:none;letter-spacing:.06em;font-size:12px;color:var(--mute)}
+  .row.tk .gcl b{padding:0 5px 0 0}
+  .row.tk .gcl span{border:0;padding:0}
+  .row.tk .gcl span:not(:last-child)::after{content:"·";margin:0 6px;color:#5a616d}
+  .row.tk .gcl span.on{background:none;color:var(--fg);text-decoration:underline}
+  /* Vibe-Symbole links unter dem Cover, am unteren Rand */
+  .row.tk>.cflags{display:none}
+  .row.tk{grid-template-rows:auto 1fr}.row.tk>.cflags{display:flex;grid-column:1;grid-row:2;padding:6px 0 11px 10px;align-self:end}
+  .row.tk>.cflags .flags{display:flex;flex-wrap:wrap;gap:4px;width:60px}
+  .row.tk>.cov{grid-row:1}
+  .row.tk>.main,.row.tk>.stub{grid-row:1/3}
+  .row.tk .gf>.flags{display:none}
+}
 @container out (min-width:760px){
   .thead{display:grid;grid-template-columns:52px 58px minmax(0,1.5fr) minmax(0,1.2fr) minmax(0,.9fr) 40px 76px;column-gap:16px;padding:7px 14px;font-family:var(--f-mono);font-size:9.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--mute);border-bottom:1px solid var(--line)}
   .thead span:last-child{text-align:right}
@@ -1044,7 +1066,7 @@ function pastRowHTML(p){if(p.ev){const e=ALL.find(x=>x.id===p.id);if(e)return ro
 function rowHTML(e){
   const why=st.fav?(FAV.e.includes(e.id)?[]:favReason(e)):[];
   const tk=timeK(e);
-  return `<button class="row tk tod-${tk}${isFav("e",e.id)?" isfav":""}" data-id="${e.id}" aria-current="${st.sel===e.id}">${rstar("e",e.id)}${coverHTML(e)}<span class="main"><span class="c1">
+  return `<button class="row tk tod-${tk}${isFav("e",e.id)?" isfav":""}" data-id="${e.id}" aria-current="${st.sel===e.id}">${rstar("e",e.id)}${coverHTML(e)}<span class="cflags">${flagHTML(e,1)}</span><span class="main"><span class="c1">
     <span class="head"><span class="ti">${esc(e.title)}</span>${vchk(e)}</span>
     <span class="tags vtags">${venTag(e.venue,st.v.has(e.venue))}${e.coll.map(c=>`<span class="tag co${st.c.has(c)?" on":""}" data-toc="${esc(c)}">${ICOL}${esc(c)}</span>`).join("")}</span>
     ${why.length?`<small class="why">★ ${esc(why.join(" · "))}</small>`:""}</span>
