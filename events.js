@@ -5999,8 +5999,9 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Aleta": {
-  "noLinks": "2026-10-28",
-  "noImg": "2026-10-28"
+  "noLinks": "2026-11-02",
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Seba": {
   "img": "https://static.ra.co/images/profiles/seba.jpg?dateUpdated=1494519179647",
@@ -6203,9 +6204,9 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Alex Maurer": {
-  "noLinks": "2026-10-31",
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31"
+  "noLinks": "2026-11-02",
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "DJ Bottleghost": {
   "noLinks": "2026-10-31",
@@ -6524,9 +6525,9 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Apocalypz": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Miss Undertaker": {
   "noImg": "2026-10-31",
@@ -7741,9 +7742,11 @@ const AR={
    "en": "Artemuse is an Austrian house and techno DJ with Greek roots. She plays mostly in Vienna."
   },
   "src": [
-   "https://ra.co/dj/artemuse"
+   "https://ra.co/dj/artemuse",
+   "https://soundcloud.com/artemis-katefidis"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "setsChecked": "2026-11-02"
  },
  "Michael Wagner": {
   "img": "https://static.ra.co/images/profiles/square/michaelwagner.jpg?dateUpdated=1694429396000",
@@ -8259,7 +8262,7 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "AudioDevice": {
-  "noImg": "2026-10-31",
+  "noImg": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/audiodevice",
    "mc": "https://www.mixcloud.com/AudioDevice/"
@@ -8279,7 +8282,22 @@ const AR={
    "https://soundcloud.com/audiodevice/audiodevice-at-contrast-grelle-forelle-2472021",
    "https://soundcloud.com/audiodevice/contrast-radio-show"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "sets": [
+   {
+    "t": "CONTRAST RADIO SHOW AudioDevice MAR 21 2025",
+    "u": "https://soundcloud.com/audiodevice/contrast-radio-show"
+   },
+   {
+    "t": "AudioDevice At Contrast <>< Grelle Forelle Nov 20 2021",
+    "u": "https://soundcloud.com/audiodevice/audiodevice-at-contrast-grelle-forelle-nov-20-2021"
+   },
+   {
+    "t": "AudioDevice B2B Redex Warming Up 4 Phace At Contrast Boatparty 21.8.2021",
+    "u": "https://soundcloud.com/audiodevice/audiodevice-b2b-redex-warming-up-4-phace-at-contrast-boatparty-2182021"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "ICY.DJ": {
   "noImg": "2026-11-02",
@@ -8513,7 +8531,8 @@ const AR={
    "https://ra.co/dj/anxxxious_t",
    "https://ra.co/dj/anxxxious_t/biography"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "setsChecked": "2026-11-02"
  },
  "Ayū": {
   "img": "https://static.ra.co/images/profiles/square/ayu-1.jpg?dateUpdated=1778053913547",
@@ -8536,9 +8555,25 @@ const AR={
    "Neptune Discs"
   ],
   "src": [
-   "https://ra.co/dj/ayu-1"
+   "https://ra.co/dj/ayu-1",
+   "https://soundcloud.com/ayuuuuuuuuuuuu/ayu-live-pbs-radio-melbourne-1"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "sets": [
+   {
+    "t": "RA Live – Alfred Czital and Ayū (Live) – Pitch Music & Arts 2026",
+    "u": "https://soundcloud.com/resident-advisor/ra-live-alfred-czital-and-ayu-pitch-music-arts-2026-13"
+   },
+   {
+    "t": "Ayū*live @ PBS Radio Melbourne",
+    "u": "https://soundcloud.com/ayuuuuuuuuuuuu/ayu-live-pbs-radio-melbourne-1"
+   },
+   {
+    "t": "pi/live: Alfred Czital and Ayu live set @ Ankali, Prague (17.05.2024)",
+    "u": "https://soundcloud.com/pipipigroup/pilive-alfred-czital-and-ayu-live-set-at-ankali-05-17-2024"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Mama Demba": {
   "noImg": "2026-11-01",
@@ -8735,12 +8770,12 @@ const AR={
     "u": "https://soundcloud.com/anexate/vienna-virus-infects-technolog-werk-19-11-16"
    }
   ],
-  "setsChecked": "2026-11-01",
+  "setsChecked": "2026-11-02",
   "src": [
    "https://soundcloud.com/anexate"
   ],
-  "noImg": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Hetum": {
   "infoChk": "2026-11-02",
@@ -8908,19 +8943,28 @@ const AR={
   "infoChk": "2026-11-01"
  },
  "Arne": {
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "André": {
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "bio": {
+   "de": "André legt seit über zehn Jahren auf und lebt seit 2019 in Offenbach. Er gräbt nach House, Progressive und Minimal ab den frühen 2000ern und betreibt die Off-Location-Reihe Not From This Earth. In Wien spielt er im Rahmen von Cyclic Existence.",
+   "en": "André has been DJing for more than ten years and has lived in Offenbach since 2019. He digs for house, progressive and minimal from the early 2000s onwards and runs the off-location series Not From This Earth. In Vienna he plays as part of Cyclic Existence."
+  },
+  "genres": [
+   "House",
+   "Progressive",
+   "Minimal"
+  ]
  },
  "Arni Jr.": {
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Duplikate": {
   "noImg": "2026-11-01",
@@ -9382,8 +9426,38 @@ const AR={
  },
  "Adina Camhy": {
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/adinacamhy"
+  },
+  "bio": {
+   "de": "Adina Camhy ist eine in Graz und Wien tätige Künstlerin an der Schnittstelle von Musik, Sound, Video, Text, Performance und Zeichnung. Live arbeitet sie mit Field Recordings, Kirchenorgel-Improvisationen und Stimme zwischen Noise, Ambient, Drone und Industrial. Ihr Album „krst“ erschien im September 2025 auf Small Forms und basiert auf Field Recordings aus Residencies in Triest 2023 und 2024.",
+   "en": "Adina Camhy is an artist based in Graz and Vienna working across music, sound, video, text, performance and drawing. Her live work combines field recordings, church organ improvisation and voice between noise, ambient, drone and industrial. Her album 'krst' was released in September 2025 on Small Forms and is based on field recordings made during residencies in Trieste in 2023 and 2024."
+  },
+  "from": {
+   "de": "Graz/Wien",
+   "en": "Graz/Vienna, Austria"
+  },
+  "genres": [
+   "Experimental",
+   "Ambient",
+   "Drone",
+   "Noise"
+  ],
+  "labels": [
+   "Small Forms"
+  ],
+  "sets": [
+   {
+    "t": "Concert excerpt – Wow! Signal Festival, April 2024, Semmelweisklinik, Vienna",
+    "u": "https://soundcloud.com/adinacamhy/wow-signal-concert-excerpt-2024"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://smallforms.bandcamp.com/album/krst",
+   "https://dafilms.com/director/12989-adina-camhy"
+  ]
  },
  "Andrea Ida": {
   "noImg": "2026-11-02",
@@ -9474,7 +9548,11 @@ const AR={
    "https://ra.co/dj/andrijamlacovic"
   ],
   "infoChk": "2026-11-02",
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "bio": {
+   "de": "Andrija Mlacovic ist ein DJ aus Kroatien, der laut RA vor allem in Zagreb auftritt, am häufigsten im Club Masters. In Wien spielt er mit dem Green Light Collective.",
+   "en": "Andrija Mlacovic is a DJ from Croatia who, according to RA, mostly plays in Zagreb, most often at Masters. In Vienna he plays with Green Light Collective."
+  }
  },
  "Andreas": {
   "noImg": "2026-11-02",
@@ -9636,7 +9714,18 @@ const AR={
  "Aura": {
   "noImg": "2026-11-02",
   "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "bio": {
+   "de": "Aura ist das dawless Live-Projekt von Dcascallana und pezel. Dcascallana spielt regelmäßig in Wiener Clubs wie Kramladen, FLUCC und Das Werk und ist mit dem Label Dark Pressure verbunden.",
+   "en": "Aura is the dawless live project of Dcascallana and pezel. Dcascallana plays regularly at Vienna clubs such as Kramladen, FLUCC and Das Werk and is connected to the label Dark Pressure."
+  },
+  "genres": [
+   "Techno",
+   "Live"
+  ],
+  "src": [
+   "https://de.ra.co/dj/dcascallana"
+  ]
  },
  "Pezo Fox": {
   "noImg": "2026-11-02",
@@ -9799,9 +9888,21 @@ const AR={
    "en": "Bárbara Lago comes from a small town in northern Spain; she settled in A Coruña in 2015 and began her career as a DJ there."
   },
   "src": [
-   "https://es.ra.co/dj/barbaralago"
+   "https://es.ra.co/dj/barbaralago",
+   "https://soundcloud.com/barbaralago"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "sets": [
+   {
+    "t": "BCCO Mix Series 526: Barbara Lago",
+    "u": "https://soundcloud.com/bcco/bcco-mix-series-526-barbara-lago"
+   },
+   {
+    "t": "Blackworks Radio: Barbara Lago",
+    "u": "https://soundcloud.com/blackworksclub/blackworks-radio-barbara-lago"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "KRL MX": {
   "from": {
@@ -10730,10 +10831,7 @@ const AR={
    "fb": "https://www.facebook.com/sssaliva/"
   },
   "real": "François Boulanger",
-  "alias": [
-   "Cupp Cave",
-   "Kingfisherg"
-  ],
+  "alias": ["Cupp Cave", "Kingfisherg"],
   "from": {
    "de": "Lüttich",
    "en": "Liège"
@@ -10993,9 +11091,7 @@ const AR={
   "labels": [
    "Mutual Rytm"
   ],
-  "alias": [
-   "SHDW & Obscure Shape"
-  ],
+  "alias": ["SHDW & Obscure Shape"],
   "sets": [
    {
     "t": "SHDW at EXPO XXI Warsaw (2025)",
@@ -11069,6 +11165,639 @@ const AR={
   ],
   "setsChecked": "2026-11-02",
   "infoChk": "2026-11-02"
+ },
+ "Annie High": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Boris Brejcha": {
+  "img": "https://static.ra.co/images/profiles/square/borisbrejcha.jpg?dateUpdated=1464181990000",
+  "links": {
+   "ra": "https://ra.co/dj/borisbrejcha",
+   "sc": "https://soundcloud.com/boris-brejcha",
+   "ig": "https://www.instagram.com/borisbrejcha",
+   "web": "https://www.borisbrejcha.de"
+  },
+  "bio": {
+   "de": "Boris Brejcha ist ein deutscher DJ und Produzent, der für seinen Stil den eigenen Begriff „High-Tech Minimal“ prägte. Er tritt mit Joker-Maske auf und spielt Live-Sets aus eigenen Produktionen. Releases erschienen u. a. auf Harthouse Mannheim, Ultra Records und Cloning Sound.",
+   "en": "Boris Brejcha is a German DJ and producer who coined his own term, \"high-tech minimal\", for his style. He performs wearing a joker mask and plays live sets built from his own productions. He has released on labels including Harthouse Mannheim, Ultra Records and Cloning Sound."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "High-Tech Minimal",
+   "Techno",
+   "Minimal"
+  ],
+  "labels": [
+   "Ultra Records",
+   "Harthouse Mannheim",
+   "Cloning Sound",
+   "Electronic Petz",
+   "Circle Music"
+  ],
+  "sets": [
+   {
+    "t": "Boris Brejcha @ Grand Palais for Cercle",
+    "u": "https://soundcloud.com/cerclelive/boris-brejcha-grand-palais-for-cercle"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/borisbrejcha"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Aside": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna, Austria"
+  },
+  "src": [
+   "https://de.ra.co/events/1787089"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "AE-X": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "B.visible": {
+  "img": "https://f4.bcbits.com/img/0044756308_21.jpg",
+  "links": {
+   "bc": "https://bvisible.bandcamp.com",
+   "sc": "https://soundcloud.com/b-vsbl",
+   "ig": "https://www.instagram.com/b.visible/",
+   "web": "https://b-visible.net/"
+  },
+  "bio": {
+   "de": "B.Visible ist ein Wiener Produzent und DJ, der seit 2004 auflegt und produziert. Seine Musik verbindet scharfe elektronische Elemente mit staubigen akustischen Schichten; seine Debüt-EP „Order and Chaos“ erschien auf dem französischen Label Cosmonostro. Weitere Releases sind u. a. „Life is my Hobby“, „Planes“ und „In Between Places“.",
+   "en": "B.Visible is a Viennese producer and DJ who has been producing and DJing since 2004. His music blends sharp electronic elements with dusty acoustic layers; his debut EP \"Order and Chaos\" came out on the French label Cosmonostro. Other releases include \"Life is my Hobby\", \"Planes\" and \"In Between Places\"."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna, Austria"
+  },
+  "genres": [
+   "Electronica",
+   "Beats"
+  ],
+  "labels": [
+   "Cosmonostro"
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://bvisible.bandcamp.com/music",
+   "https://www.thewildcity.com/features/2498-in-profile-b-visible"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Boom Shankar": {
+  "links": {
+   "sc": "https://soundcloud.com/boomshankar-bmssrecords"
+  },
+  "bio": {
+   "de": "Boom Shankar ist ein in Deutschland ansässiger Psytrance-DJ, Labelmanager von BMSS Records und Veranstalter. Er kam Anfang der 1990er mit der Goa-Trance-Szene in Kontakt, kompilierte zahlreiche Compilations auf BMSS Records und gehört zur Crew des S.U.N. Festivals in Ungarn sowie der Partyreihe Alice im Wummerland.",
+   "en": "Boom Shankar is a Germany-based psytrance DJ, label manager of BMSS Records and event promoter. He was introduced to the Goa trance scene in the early 1990s, has compiled numerous compilations on BMSS Records and is part of the S.U.N. Festival crew in Hungary and the Alice im Wummerland party series."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Psytrance",
+   "Goa Trance"
+  ],
+  "labels": [
+   "BMSS Records"
+  ],
+  "sets": [
+   {
+    "t": "Boom Shankar - Psyence Fiction [Psychedelic Dj Set 2016]",
+    "u": "https://soundcloud.com/boomshankar-bmssrecords/boom-shankar-psyence-fiction"
+   },
+   {
+    "t": "S.U.N. Festival 2015 - Boom Shankar Dj Set",
+    "u": "https://soundcloud.com/boomshankar-bmssrecords/boom-shankar-sun-festival-2015-a-voyage-into-trance"
+   },
+   {
+    "t": "S.U.N. Festival 2014 - Boom Shankar Dj Set",
+    "u": "https://soundcloud.com/boomshankar-bmssrecords/sun-festival-2014-boom-shankar-dj-set"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://www.beatport.com/artist/boom-shankar/381159",
+   "https://festapp.io/es/artists/boom-shankar"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
+ },
+ "AVO2X": {
+  "img": "https://static.ra.co/images/profiles/square/avo2x.jpg?dateUpdated=1678964293000",
+  "links": {
+   "ra": "https://ra.co/dj/avo2x",
+   "sc": "https://soundcloud.com/djavoavo",
+   "ig": "https://www.instagram.com/avo_avo_"
+  },
+  "bio": {
+   "de": "AVO2X ist DJ und Promoter des österreichischen Techno-Kollektivs Cybertribe und legt seit rund 15 Jahren auf. Als Cybertribe-Resident spielt AVO2X häufig b2b mit ENJA.",
+   "en": "AVO2X is a DJ and promoter of the Austrian techno collective Cybertribe and has been DJing for around 15 years. As a Cybertribe resident, AVO2X often plays b2b with ENJA."
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "Techno",
+   "Trance"
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/avo2x",
+   "https://ra.co/events/2400422"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "ALT": {
+  "img": "https://f4.bcbits.com/img/0026447848_10.jpg",
+  "links": {
+   "bc": "https://abbyleetee.bandcamp.com",
+   "sc": "https://soundcloud.com/abbyleetee",
+   "mc": "https://www.mixcloud.com/abbyleetee",
+   "ig": "https://www.instagram.com/_abbyleetee",
+   "web": "https://abbyleetee.com"
+  },
+  "bio": {
+   "de": "ALT ist ein Projektname von Abby Lee Tee, einem österreichischen Musiker und Klangkünstler (Jahrgang 1987), laut Bandcamp in Linz ansässig. Seit 2009 veröffentlicht er Solomaterial zwischen Instrumental-Hip-Hop, Electronica und Experimental mit Faible für Field Recordings, u. a. auf Shash, Czaszka, Dinzu Artefacts und Accidental. Daneben arbeitet er an Installationen, Soundwalks, Theater-Sounddesign und audiovisuellen Projekten.",
+   "en": "ALT is a project name of Abby Lee Tee, an Austrian musician and sound artist (born 1987), based in Linz according to Bandcamp. He has released solo material since 2009, spanning instrumental hip hop, electronica and experimental music with a focus on field recordings, on labels including Shash, Czaszka, Dinzu Artefacts and Accidental. He also works on installations, sound walks, theatre sound design and audiovisual projects."
+  },
+  "from": {
+   "de": "Linz",
+   "en": "Linz, Austria"
+  },
+  "genres": [
+   "Instrumental Hip Hop",
+   "Electronica",
+   "Experimental"
+  ],
+  "labels": [
+   "Shash",
+   "Czaszka",
+   "Dinzu Artefacts",
+   "Accidental"
+  ],
+  "alias": ["Abby Lee Tee"],
+  "sets": [
+   {
+    "t": "MIMS Guest Mix – Abby Lee Tee (Austria)",
+    "u": "https://soundcloud.com/musicismysanctuary/mims-guest-mix-abby-lee-tee"
+   },
+   {
+    "t": "Abby Lee Tee presents 'young frogs & golden lakes' [mix]",
+    "u": "https://soundcloud.com/acloserlisten/abby-lee-tee-presents-young-frogs-golden-lakes-mix"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://abbyleetee.bandcamp.com/",
+   "https://cense.earth/abby-lee-tee"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "ADHS Lene": {
+  "links": {
+   "sc": "https://soundcloud.com/adhs_lene"
+  },
+  "sets": [
+   {
+    "t": "Welia #8 w/ ADHS Lene (09/04/20) – Retreat Radio",
+    "u": "https://soundcloud.com/retreatradio/welia-8"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://soundcloud.com/adhs_lene"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
+ },
+ "Andre Zimmer": {
+  "img": "https://static.ra.co/images/profiles/square/andrezimmer.jpg?dateUpdated=1786040801473",
+  "links": {
+   "ra": "https://ra.co/dj/andrezimmer",
+   "sc": "https://soundcloud.com/andrezimmermusic",
+   "bc": "https://andrezimmer.bandcamp.com"
+  },
+  "bio": {
+   "de": "Andre Zimmer ist ein in Kanada geborener, in Berlin lebender Selector, Produzent und Labelbetreiber. Er führt die Labels Big Trouble Records und Lost & Found Re-issues. Laut RA ist er u. a. mit fabric Records, Life and Death, Craigie Knowes und Shall Not Fade verbunden.",
+   "en": "Andre Zimmer is a Canada-born, Berlin-based selector, producer and label owner. He runs Big Trouble Records and Lost & Found Re-issues. RA also associates him with fabric Records, Life and Death, Craigie Knowes and Shall Not Fade."
+  },
+  "from": {
+   "de": "Berlin (geboren in Kanada)",
+   "en": "Berlin, Germany (born in Canada)"
+  },
+  "genres": [
+   "House"
+  ],
+  "labels": [
+   "Big Trouble Records",
+   "Lost & Found Re-issues",
+   "fabric Records",
+   "Life and Death",
+   "Craigie Knowes",
+   "Shall Not Fade"
+  ],
+  "sets": [
+   {
+    "t": "Andre Zimmer Mixtape for KALTBLUT Magazine",
+    "u": "https://soundcloud.com/kaltblutmagazine/andre-zimmer"
+   },
+   {
+    "t": "LYO#262 / Andre Zimmer",
+    "u": "https://soundcloud.com/les-yeux-orange/lyo262-andre-zimmer"
+   },
+   {
+    "t": "Big Trouble Records Link Up w/ Andre Zimmer",
+    "u": "https://soundcloud.com/bigtroublerecords/big-trouble-records-link-up-w-andre-zimmer"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/andrezimmer"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Anxhela": {
+  "img": "https://static.ra.co/images/profiles/square/anxhela.jpg?dateUpdated=1771443051863",
+  "links": {
+   "ra": "https://ra.co/dj/anxhela",
+   "sc": "https://soundcloud.com/anxheladj",
+   "bc": "https://anxhela1.black-hole.bandcamp.com",
+   "ig": "https://www.instagram.com/anxhelamusic",
+   "web": "https://anxhela.komi.io"
+  },
+  "bio": {
+   "de": "Anxhela ist eine italienisch-albanische Techno-DJ und Produzentin, die mit 17 in die Techno-Szene kam. Ihre energiegeladenen Hard-Techno-Sets sind von Trance und Acid beeinflusst. Ihr erster Track „3nter 0n the 3ternal acid rave“ erschien 2022 auf MRC Records; im selben Jahr folgte eine Kollaboration mit Alignment auf Voxnox Records.",
+   "en": "Anxhela is an Italian-Albanian techno DJ and producer who entered the techno scene at 17. Her high-energy hard techno sets draw on trance and acid influences. Her first track '3nter 0n the 3ternal acid rave' came out in 2022 on MRC Records, followed that year by a collaboration with Alignment on Voxnox Records."
+  },
+  "from": {
+   "de": "Italien/Albanien",
+   "en": "Italy/Albania"
+  },
+  "genres": [
+   "Hard Techno",
+   "Techno",
+   "Acid",
+   "Trance"
+  ],
+  "labels": [
+   "MRC Records",
+   "Voxnox Records"
+  ],
+  "sets": [
+   {
+    "t": "Anxhela @ Soenda Indoor Festival 2024",
+    "u": "https://soundcloud.com/soendafestival/anxhela-soenda-indoor-festival-2024"
+   },
+   {
+    "t": "Anxhela – Madrid Blackworks NYD",
+    "u": "https://soundcloud.com/platform/anxhela-madrid-blackworks-nyd"
+   },
+   {
+    "t": "MRC Agency Podcast 03: ANXHELA",
+    "u": "https://soundcloud.com/mrcagency/mrc-agency-podcast-03-anxhela"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/anxhela",
+   "https://fr.ra.co/dj/anxhela/biography",
+   "https://trifec.one/anxhela/"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Andrew Ahmed": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Benjay": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Arnab": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Alena Noctis": {
+  "img": "https://static.ra.co/images/profiles/square/alenanoctis.jpg?dateUpdated=1774262264833",
+  "links": {
+   "ra": "https://ra.co/dj/alenanoctis",
+   "sc": "https://soundcloud.com/user-837576255",
+   "ig": "https://www.instagram.com/alenanoctis"
+  },
+  "bio": {
+   "de": "Alena Noctis ist DJ und Produzentin aus Wien und spielt rohen, treibenden Techno. Sie ist Resident des Wiener Kollektivs Spectral, wo sie Acid, melodischen und treibenden Techno auflegt. Releases erschienen u. a. auf OFF Recordings und Xperiment Records.",
+   "en": "Alena Noctis is a DJ and producer from Vienna playing raw, driving techno. She is a resident of the Vienna collective Spectral, where she plays acid, melodic and driving techno. Her releases have appeared on labels including OFF Recordings and Xperiment Records."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna, Austria"
+  },
+  "genres": [
+   "Techno",
+   "Acid"
+  ],
+  "labels": [
+   "OFF Recordings",
+   "Xperiment Records"
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://es.ra.co/dj/alenanoctis"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "AUGEN ZU": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Abu Naima": {
+  "img": "https://static.ra.co/images/profiles/square/abunaima.jpg?dateUpdated=1737971743000",
+  "links": {
+   "ra": "https://ra.co/dj/abunaima"
+  },
+  "bio": {
+   "de": "Abu Naima ist DJ und Teil von Raqsouna, einer Reihe, die u. a. im Wiener Club Lucia stattfindet. Er spielt nostalgische arabische Musik der 1970er ebenso wie basslastige Clubmusik; seine Wurzeln liegen im Hip-Hop.",
+   "en": "Abu Naima is a DJ and part of Raqsouna, a series hosted at venues including Club Lucia in Vienna. He plays nostalgic Arabic music from the 1970s as well as bass-heavy club music, with roots in hip-hop."
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "src": [
+   "https://ra.co/dj/abunaima"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Altinbas": {
+  "img": "https://static.ra.co/images/profiles/square/altinbas.jpg?dateUpdated=1691777201590",
+  "links": {
+   "ra": "https://ra.co/dj/altinbas",
+   "sc": "https://soundcloud.com/altinbas",
+   "bc": "https://observerstation.bandcamp.com",
+   "ig": "https://www.instagram.com/altinbas.t"
+  },
+  "bio": {
+   "de": "Ahmet Altinbas ist ein türkisch-belgischer Techno-Artist aus Brüssel. Er ist Resident und Label-Kurator des Brüsseler Clubs Fuse und gilt als eines der prägenden Talente der Brüsseler Elektronikszene. Releases erschienen u. a. auf Token, Float Records, SK_eleven und seinem Label Observer Station.",
+   "en": "Ahmet Altinbas is a Turkish-Belgian techno artist from Brussels. He is a resident and in-house label curator at Brussels club Fuse and one of the leading talents in the city's electronic scene. His releases have appeared on Token, Float Records, SK_eleven and his label Observer Station."
+  },
+  "from": {
+   "de": "Brüssel, Belgien",
+   "en": "Brussels, Belgium"
+  },
+  "real": "Ahmet Altinbas",
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Token",
+   "Non Series",
+   "Float Records",
+   "SK_eleven",
+   "Observer Station"
+  ],
+  "sets": [
+   {
+    "t": "Altinbas at SECTION., London 07-03-2026",
+    "u": "https://soundcloud.com/altinbas/altinbas-at-section-london-07"
+   },
+   {
+    "t": "Altinbas at Waking Life 2025, Sunday Floresta Opening",
+    "u": "https://soundcloud.com/altinbas/altinbas-at-waking-life-2025-sunday-floresta-opening"
+   },
+   {
+    "t": "Altinbas at Church of Endzeit, San Francisco 04-04-2025",
+    "u": "https://soundcloud.com/altinbas/altinbas-at-church-of-endzeit-san-francisco-04-04-2025"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/altinbas",
+   "https://soundcloud.com/altinbas"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Biia": {
+  "img": "https://static.ra.co/images/profiles/square/biia.jpg?dateUpdated=1574422275000",
+  "links": {
+   "ra": "https://ra.co/dj/biia",
+   "sc": "https://soundcloud.com/biiamusic",
+   "bc": "https://biia.bandcamp.com"
+  },
+  "bio": {
+   "de": "BIIA ist eine portugiesische Techno-Künstlerin, die laut einem Interview von 2023 in Barcelona lebt. Ihr Sound ist roh und hart, mit 90er-Beats, trippigen Elementen, schweren Kicks und konzeptuellen Vocals, und kreuzt immer wieder andere Genres.",
+   "en": "BIIA is a Portuguese techno artist who, according to a 2023 interview, lives in Barcelona. Her sound is raw and hard, with 90s-style beats, trippy elements, heavy kicks and conceptual vocals, often crossing into other genres."
+  },
+  "from": {
+   "de": "Portugal",
+   "en": "Portugal"
+  },
+  "real": "Beatriz Soares",
+  "genres": [
+   "Techno",
+   "Hard Techno"
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/biia",
+   "https://ra.co/dj/biia/biography",
+   "https://6amgroup.com/articles/all/navigating-the-electronic-landscape-biia-on-sound-style-and-inspiration"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "ARAS JE'TÄM": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Ave Maria": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Breeze": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Alezzaro": {
+  "links": {
+   "sc": "https://soundcloud.com/alezzaro"
+  },
+  "genres": [
+   "Psytrance",
+   "Progressive Psytrance"
+  ],
+  "sets": [
+   {
+    "t": "ALEZZARO 3years progressive selection 132-138bpm",
+    "u": "https://soundcloud.com/alezzaro/dj-alezzaro-3years-progressive"
+   },
+   {
+    "t": "Alezzaro @ Spirit Base meets Psyisland 2020 Saturday 13 - 15",
+    "u": "https://soundcloud.com/alezzaro/alezzaro-spirit-base-meets-psyisland-2020-saturday-13-15"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://soundcloud.com/alezzaro"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
+ },
+ "Armin Schmelz": {
+  "links": {
+   "sc": "https://soundcloud.com/znicz-olimpijski"
+  },
+  "bio": {
+   "de": "Armin Schmelz ist ein DJ aus Wien und wird bei RA im Umfeld des Wiener Kollektivs Liederbetätigung geführt. Er spielte u. a. bei Dancing For Mental Health im Berliner Sameheads, bei Camp Cosmic in Chemnitz und auf der Fusion (Karla Kutter). Mixe von ihm erschienen u. a. im Krossfingers Podcast, in der Average Records Mix Series und bei Ola Radio.",
+   "en": "Armin Schmelz is a Vienna-based DJ listed on RA in connection with the Viennese collective Liederbetätigung. He has played Dancing For Mental Health at Sameheads in Berlin, Camp Cosmic in Chemnitz and Fusion Festival (Karla Kutter). Mixes of his have appeared on the Krossfingers podcast, the Average Records Mix Series and Ola Radio."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna, Austria"
+  },
+  "sets": [
+   {
+    "t": "Krossfingers Podcast 149 – Armin Schmelz",
+    "u": "https://soundcloud.com/krossfingers/podcast-149-armin-schmelz"
+   },
+   {
+    "t": "Average Records Mix Series 008 – Armin Schmelz live at DFMH @ Sameheads (28.02.2020)",
+    "u": "https://soundcloud.com/averagerecordsbln/average-records-mix-series-armin-schmelz-live-at-dfmh-sameheads-february-28th-2020"
+   },
+   {
+    "t": "Local Heroes – Jann invite Armin Schmelz (Ola Radio, 10.07.2019)",
+    "u": "https://soundcloud.com/ola_radio/local-heroes-jann-invite-armin-schmelz"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/events/1384072",
+   "https://soundcloud.com/znicz-olimpijski/tracks",
+   "https://soundcloud.com/liederbetaetigung"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
+ },
+ "Annika Stein": {
+  "img": "https://static.ra.co/images/profiles/square/annikastein.jpg?dateUpdated=1571917354000",
+  "links": {
+   "ra": "https://ra.co/dj/annikastein",
+   "sc": "https://soundcloud.com/annikastein",
+   "bc": "https://annikastein.bandcamp.com",
+   "ig": "https://www.instagram.com/annika____stein"
+  },
+  "bio": {
+   "de": "Annika Stein ist eine in Deutschland geborene, in Österreich lebende DJ, die ihren Sound auf RA als Prime-Time-Techno, Industrial und Breaks beschreibt. Sie ist Resident der Reihe Fish Market (früher MEAT MARKET) in der Grelle Forelle. Sets von ihr erschienen u. a. bei hausgemacht (Das Werk).",
+   "en": "Annika Stein is a German-born DJ based in Austria who describes her sound on RA as prime-time techno, industrial and breaks. She is a resident of the Fish Market (formerly MEAT MARKET) series at Grelle Forelle. Sets of hers have appeared via hausgemacht (Das Werk)."
+  },
+  "from": {
+   "de": "Deutschland, lebt in Österreich",
+   "en": "Germany, based in Austria"
+  },
+  "genres": [
+   "Techno",
+   "Industrial",
+   "Breaks"
+  ],
+  "sets": [
+   {
+    "t": "HAPPY PRIDE MONTH MIX",
+    "u": "https://soundcloud.com/annikastein/happypride"
+   },
+   {
+    "t": "Annika Stein @BeatTheVirus (Rette das Werk, 28.03.2020)",
+    "u": "https://soundcloud.com/hausgemachtinwien/annika-stein-beatthevirus-rette-das-werk-28032020-wien"
+   },
+   {
+    "t": "Annika Stein @ Yas, Queen, Werk (06.03.2020, Das Werk)",
+    "u": "https://soundcloud.com/hausgemachtinwien/annika-stein-yas-queen-werk-6"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://es.ra.co/dj/annikastein"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Anna Soto": {
+  "sets": [
+   {
+    "t": "Anna Soto – Soundbüglerei (Radio Rudina)",
+    "u": "https://soundcloud.com/radiorudina/anna-soto-soundbuglerei-radio-rudina"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://de.ra.co/events/2144473"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Armin Karmin": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "AKOV": {
+  "img": "https://f4.bcbits.com/img/0037136745_10.jpg",
+  "links": {
+   "sc": "https://soundcloud.com/akovmusic",
+   "bc": "https://akov.bandcamp.com",
+   "web": "https://www.akovmusic.com/"
+  },
+  "bio": {
+   "de": "AKOV ist ein österreichischer Drum-&-Bass-Produzent mit Fokus auf Neurofunk, der eigene Releases sowie Sample-Packs veröffentlicht. Er ist zudem Frontmann der Metal-Band Aenygma und verbindet bei High Voltage Fairies im Flex Metal und Drum & Bass mit Live-Gesang.",
+   "en": "AKOV is an Austrian drum & bass producer focused on neurofunk who puts out his own releases and sample packs. He is also the frontman of the metal band Aenygma and combines metal and drum & bass with live vocals at High Voltage Fairies at Flex."
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Neurofunk",
+   "Metal"
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://akov.bandcamp.com",
+   "https://akovmusic.com/shop/"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Braincell": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Bornvoyage": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
  }
 };
 const VG={
