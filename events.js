@@ -7207,9 +7207,9 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Veneno": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "PRDK": {
   "noImg": "2026-10-31",
@@ -7991,9 +7991,51 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "zey": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "img": "https://static.ra.co/images/profiles/square/zey.jpg?dateUpdated=1738754549000",
+  "links": {
+   "ra": "https://ra.co/dj/zey",
+   "sc": "https://soundcloud.com/djzey",
+   "ig": "https://www.instagram.com/liminalz_"
+  },
+  "from": {
+   "de": "Prag, lebt in Wien",
+   "en": "Prague, based in Vienna"
+  },
+  "bio": {
+   "de": "zey ist in Prag geboren und lebt in Wien – DJ, interdisziplinäre*r Künstler*in, Sounddesigner*in, Tontechniker*in und Community-Organizer*in. Die Mixes verbinden Schwarze zeitgenössische Musikszenen, von Footwork, Jersey Club und Gqom über Jungle und Baile Funk bis zu Bouyon, Batida und Kuduro. Seit 2017 organisiert zey QTI*BIPOC-Safer-Space-Partys in Tschechien und Österreich und ist Teil des Wiener Kollektivs Spice Mixers; Mixes liefen u. a. auf Radio Punctum, LYL Radio und Oroko Radio.",
+   "en": "zey is a Prague-born DJ, interdisciplinary artist, sound designer, sound engineer and community organiser based in Vienna. Their mixes link Black contemporary music scenes, drawing on footwork, jersey club, gqom, jungle, baile funk, bouyon, batida and kuduro. Since 2017 they have organised QTI*BIPOC safer-space parties in the Czech Republic and Austria and are a fluid member of the Vienna-based Spice Mixers collective; their mixes have aired on Radio Punctum, LYL Radio and Oroko Radio."
+  },
+  "genres": [
+   "Footwork",
+   "Jersey Club",
+   "Gqom",
+   "Jungle",
+   "Baile Funk",
+   "Kuduro"
+  ],
+  "sets": [
+   {
+    "t": "Oroko Radio Guest Mix: zey // mix17102025",
+    "u": "https://soundcloud.com/djzey/orokoradio"
+   },
+   {
+    "t": "WTF IS A TRANSITION?! // mix03082024",
+    "u": "https://soundcloud.com/djzey/wtf-is-a-transition-mix03082024"
+   },
+   {
+    "t": "SPIRIT FIELD // set 11072020",
+    "u": "https://soundcloud.com/djzey/spiritfield"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://fr.ra.co/dj/zey",
+   "https://kioskradio.com/artist/zey",
+   "https://brut-wien.at/en/artists/zey",
+   "https://oroko.live/radio/zey",
+   "https://soundcloud.com/djzey"
+  ]
  },
  "Santo": {
   "infoChk": "2026-11-02",
@@ -8548,9 +8590,9 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Tolaris": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
  },
  "MC Mars": {
   "bio": {
@@ -9003,9 +9045,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Urlaub in Jazzolo": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Café Mondo": {
   "noImg": "2026-11-02",
@@ -9234,12 +9276,12 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Valera": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
   "src": [
    "https://ra.co/dj/valera-de"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Sasuma": {
   "noImg": "2026-11-02",
@@ -9274,22 +9316,46 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Vibechen": {
-  "noImg": "2026-10-31",
   "links": {
-   "sc": "https://soundcloud.com/vibechen"
+   "sc": "https://soundcloud.com/vibechen",
+   "ra": "https://ra.co/dj/vibechen"
   },
   "src": [
-   "https://soundcloud.com/vibechen/vibechen-fm4-digital-konfusion-mixshow"
+   "https://soundcloud.com/vibechen/vibechen-fm4-digital-konfusion-mixshow",
+   "https://de.ra.co/dj/vibechen",
+   "https://de.ra.co/dj/vibechen/biography",
+   "https://soundcloud.com/gans-anders-146472570/vibechen-230923-gans-anders-unterholz-6a"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "img": "https://static.ra.co/images/profiles/square/vibechen.jpg?dateUpdated=1749199842000",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "real": "Jessica Wurzer",
+  "bio": {
+   "de": "Vibechen ist Tänzerin, Choreografin, Sängerin und DJ mit Sitz in Wien. Sie spielt regelmäßig in Wiener Clubs wie Grelle Forelle, Das Werk, SASS, Pratersauna und FLUCC und war mit einem Mix in der FM4 Digital Konfusion Mixshow zu hören.",
+   "en": "Vibechen is a Vienna-based dancer, choreographer, singer and DJ. She plays regularly at Viennese clubs such as Grelle Forelle, Das Werk, SASS, Pratersauna and FLUCC, and has contributed a mix to FM4's Digital Konfusion mixshow."
+  },
+  "sets": [
+   {
+    "t": "Vibechen @ FM4 Digital Konfusion Mixshow",
+    "u": "https://soundcloud.com/vibechen/vibechen-fm4-digital-konfusion-mixshow"
+   },
+   {
+    "t": "Vibechen 230923 @Gans Anders Unterholz 6a",
+    "u": "https://soundcloud.com/gans-anders-146472570/vibechen-230923-gans-anders-unterholz-6a"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "URBANIST": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
   "src": [
    "https://soundcloud.com/theurbanist"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "anxxxious_t": {
   "img": "https://static.ra.co/images/profiles/square/anxxxious_t.jpg?dateUpdated=1767757936970",
@@ -9361,9 +9427,9 @@ const AR={
   "infoChk": "2026-11-01"
  },
  "The Res": {
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Jana Passt": {
   "noImg": "2026-11-02",
@@ -9533,8 +9599,8 @@ const AR={
   "src": [
    "https://ra.co/dj/yan-cz"
   ],
-  "noImg": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02",
+  "img": "https://static.ra.co/images/profiles/yan-cz.jpg?dateUpdated=1537977855000"
  },
  "anexate": {
   "links": {
@@ -9666,9 +9732,9 @@ const AR={
   "infoChk": "2026-11-01"
  },
  "The Bear": {
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "gåpe": {
   "noImg": "2026-11-02",
@@ -9676,9 +9742,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "wert": {
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Luminoise": {
   "noImg": "2026-11-02",
@@ -9713,9 +9779,9 @@ const AR={
   "infoChk": "2026-11-01"
  },
  "Zer0Ton1n": {
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "RIETVELD": {
   "noImg": "2026-11-02",
@@ -9882,13 +9948,45 @@ const AR={
  },
  "Ulfersson": {
   "links": {
-   "sc": "https://soundcloud.com/ulfersson"
+   "sc": "https://soundcloud.com/ulfersson",
+   "mc": "https://www.mixcloud.com/ulfersson_dkm/"
   },
   "src": [
-   "https://soundcloud.com/ulfersson"
+   "https://soundcloud.com/ulfersson",
+   "https://www.mixcloud.com/ulfersson_dkm/",
+   "https://www.mixcloud.com/ulfersson_dkm/subscribe/",
+   "https://sassvienna.com/en/events/event/morgengymnastik-172"
   ],
-  "noImg": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "House-DJ aus Wien, der Anfang 2018 debütierte und Mitglied der Wiener DJ-Crew Digital Konfusion ist. Er spielt House von Deep und Melodic über Soulful, Vocal und Latin bis Deep-Tech und Tech-House. Auftritte u. a. in der Pratersauna, der Grelle Forelle und bei Kein Sonntag ohne Techno; er betreibt Vibrant.vie.",
+   "en": "Vienna-based house DJ who debuted in early 2018 and is a member of the Viennese DJ crew Digital Konfusion. He plays house ranging from deep and melodic to soulful, vocal, Latin, deep-tech and tech-house. He has played at Pratersauna, Grelle Forelle and Kein Sonntag ohne Techno, and runs Vibrant.vie."
+  },
+  "genres": [
+   "House",
+   "Deep House",
+   "Tech House"
+  ],
+  "sets": [
+   {
+    "t": "ON A SECRET MISSION /w ULFERSSON",
+    "u": "https://www.mixcloud.com/ulfersson_dkm/mandoiu-s-secret-by-ulfersson/"
+   },
+   {
+    "t": "From SWEELY with LOVE / Ulfersson Mixtape",
+    "u": "https://www.mixcloud.com/ulfersson_dkm/from-sweely-with-love-ulfersson-mixtape/"
+   },
+   {
+    "t": "Nachtschwimmer Closing - 3hours",
+    "u": "https://www.mixcloud.com/ulfersson_dkm/nachtschwimmer-closing-3hours/"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Drehli Robnik": {
   "from": {
@@ -9924,8 +10022,8 @@ const AR={
    "https://de.ra.co/events/2101000",
    "https://soundcloud.com/johannavantan"
   ],
-  "noImg": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Sodomland": {
   "img": "https://static.ra.co/images/profiles/square/sodomland.jpg?dateUpdated=1782761041460",
@@ -10505,9 +10603,30 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Xavior": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "img": "https://static.ra.co/images/profiles/square/ephemer-4.jpg?dateUpdated=1769514906763",
+  "links": {
+   "ra": "https://ra.co/dj/ephemer-4",
+   "sc": "https://soundcloud.com/ephemer95",
+   "ig": "https://www.instagram.com/worldxavior"
+  },
+  "bio": {
+   "de": "XAVIOR, auch als ephemer bekannt, ist Künstler, Musiker und Veranstalter aus Asunción (Paraguay) und in der Wiener Szene sehr aktiv – u. a. mit der Band Atom Womb & the Telebrains (Siluh Records) und im Hybrid-Club-Umfeld des Labels Ashida Park. Als DJ mischt er Genres von Dembow über Gabber bis Hyperpop, Trance, Gqom, Noise und Metal. Er ist Mitbegründer der Reihen Fractal Nights und Millenial Puzzled.",
+   "en": "XAVIOR, also known as ephemer, is an artist, musician and promoter from Asunción, Paraguay, and very active in Vienna – among others with the band Atom Womb & the Telebrains (Siluh Records) and in the hybrid club scene around the label Ashida Park. As a DJ he blends genres from dembow and gabber to hyperpop, trance, gqom, noise and metal. He co-founded the event series Fractal Nights and Millenial Puzzled."
+  },
+  "alias": [
+   "ephemer"
+  ],
+  "labels": [
+   "Ashida Park"
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://de.ra.co/dj/ephemer-4",
+   "https://de.ra.co/dj/ephemer-4/biography",
+   "https://soundcloud.com/ephemer95",
+   "https://ra.co/events/2476015"
+  ]
  },
  "PartyPauli": {
   "noImg": "2026-11-02",
@@ -10532,9 +10651,30 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Voltmarie": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "img": "https://static.ra.co/images/profiles/square/voltmarie.jpg?dateUpdated=1768946676507",
+  "links": {
+   "ra": "https://ra.co/dj/voltmarie",
+   "sc": "https://soundcloud.com/voltmarie",
+   "ig": "https://www.instagram.com/volt.marie"
+  },
+  "from": {
+   "de": "Westösterreich, lebt in Wien",
+   "en": "Western Austria, based in Vienna"
+  },
+  "real": "Sarah Maria",
+  "bio": {
+   "de": "DJ aus Westösterreich, die heute in Wien lebt und als Resident des Kollektivs Cybertribe auflegt. Unter dem Motto „Where groove meets grit“ bewegen sich ihre techno-verwurzelten Sets zwischen dunklen, hypnotischen Rhythmen und verspielten Grooves.",
+   "en": "DJ from Western Austria, now based in Vienna and a resident of the Cybertribe collective. Under the motto 'where groove meets grit', her techno-rooted sets move between dark, hypnotic rhythms and playful grooves."
+  },
+  "genres": [
+   "Techno"
+  ],
+  "src": [
+   "https://ra.co/dj/voltmarie",
+   "https://ra.co/dj/voltmarie/biography",
+   "https://ra.co/events/2400422"
+  ]
  },
  "DJ Backstage": {
   "from": {
@@ -14060,6 +14200,629 @@ const AR={
   "setsChecked": "2026-11-02",
   "infoChk": "2026-11-02",
   "noImg": "2026-11-02"
+ },
+ "THAO": {
+  "img": "https://static.ra.co/images/profiles/square/thao.jpg?dateUpdated=1781720521777",
+  "links": {
+   "ra": "https://ra.co/dj/thao",
+   "sc": "https://soundcloud.com/thao-nguyen-1"
+  },
+  "bio": {
+   "de": "Thao ist eine in Wien lebende DJ. Sie begann ihre musikalische Reise mit Grime und erweiterte ihren Horizont bald auf das gesamte Spektrum des UK-Sounds. Laut FLUCC erkundet sie elektronische Clubmusik aus der ost- und südostasiatischen Diaspora; gespielt hat sie u. a. im FLUCC, Rhiz und Tagada.",
+   "en": "Thao is a DJ based in Vienna. She began her musical journey with grime and soon expanded to the entire spectrum of the UK sound. According to FLUCC, she explores electronic club music from the East and Southeast Asian diaspora; she has played at venues including FLUCC, Rhiz and Tagada."
+  },
+  "from": {
+   "de": "Deutschland, lebt in Wien",
+   "en": "Germany, based in Vienna"
+  },
+  "genres": [
+   "Grime",
+   "UK Bass"
+  ],
+  "src": [
+   "https://ra.co/dj/thao",
+   "https://ra.co/dj/thao/biography",
+   "https://ra.co/events/2126843"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Waeys": {
+  "img": "https://static.ra.co/images/profiles/square/waeys.jpg?dateUpdated=1695114470000",
+  "links": {
+   "ra": "https://ra.co/dj/waeys",
+   "sc": "https://soundcloud.com/waeys",
+   "sp": "https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9",
+   "ig": "https://www.instagram.com/casper.waeys/",
+   "web": "https://criticalmusic.com/artists/waeys/"
+  },
+  "bio": {
+   "de": "Waeys ist ein Drum-&-Bass-Produzent aus Amsterdam. 2020 gewann er bei den D&BA Awards den Preis „Best Newcomer“ und landete mit „Framed“ (mit Klinical) weit oben in den Beatport-Charts. Er veröffentlicht vor allem auf Critical Music (u. a. „Stopping Turning“, „Repetition LP“ 2023), außerdem auf Hospital Records, Blackout, Dispatch und Spearhead.",
+   "en": "Waeys is a drum & bass producer from Amsterdam. In 2020 he won Best Newcomer at the D&BA Awards and charted high on Beatport with 'Framed' (with Klinical). He releases mainly on Critical Music (incl. 'Stopping Turning' and the 2023 'Repetition LP'), as well as on Hospital Records, Blackout, Dispatch and Spearhead."
+  },
+  "from": {
+   "de": "Amsterdam, Niederlande",
+   "en": "Amsterdam, Netherlands"
+  },
+  "real": "Casper Van Wijngaarden",
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Critical Music",
+   "Hospital Records",
+   "Intervall Audio",
+   "Blackout",
+   "Dispatch Recordings",
+   "Spearhead Records",
+   "Flexout Audio"
+  ],
+  "sets": [
+   {
+    "t": "Waeys DJ Set – Ohlala Festival 2025",
+    "u": "https://soundcloud.com/wearestudio/waeys-dj-set-ohlala-festival-2025-drum-bass"
+   },
+   {
+    "t": "Waeys – Drum&BassArena Guest Mix",
+    "u": "https://soundcloud.com/drumandbassarena/waeys-drumbassarena-guest-mix"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/waeys",
+   "https://criticalmusic.com/artists/waeys/",
+   "https://soundcloud.com/waeys/tracks",
+   "https://www.facebook.com/waeyss"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Wingz": {
+  "links": {
+   "sc": "https://soundcloud.com/wingzdnb",
+   "sp": "https://open.spotify.com/artist/0qBdx1zHFyHsFLd2nG5ezW"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Drum-&-Bass-Produzent und DJ aus Wien, der seit 2008 auflegt und sich 2013 das Produzieren selbst beigebracht hat. Er steht für die minimale, technische Seite von Deep Drum & Bass und veröffentlicht seit 2018 vor allem auf Overview Music, dazu u. a. auf VISION, Critical Music, Blackout, Dispatch und Cyberfunk. 2024 erschien sein Album „Ghost“ auf Overview.",
+   "en": "Vienna-based drum & bass producer and DJ who has been DJing since 2008 and taught himself production in 2013. He represents the minimal, technical side of deep drum & bass and has released mainly on Overview Music since 2018, as well as on VISION, Critical Music, Blackout, Dispatch and Cyberfunk. His album 'Ghost' came out on Overview in 2024."
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Overview Music",
+   "VISION",
+   "Critical Music",
+   "Blackout Music",
+   "Dispatch Recordings",
+   "Cyberfunk",
+   "Flexout"
+  ],
+  "src": [
+   "https://dropthebass.co/artists/wingz",
+   "https://ra.co/events/2284048",
+   "https://m.soundcloud.com/wingzdnb/sets/out-now-2"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
+ },
+ "5HA5H": {
+  "links": {
+   "sc": "https://soundcloud.com/5ha5h"
+  },
+  "bio": {
+   "de": "5HA5H ist ein Drum-&-Bass-DJ mit Fokus auf Neurofunk und wird als „Selector of Eatbrain“ geführt: Er gewann den History-of-Eatbrain-DJ-Wettbewerb und hostet die Eatbrain-Radio-Show. In Wien spielt er regelmäßig bei The Hive und Beat It im Flex; 2025 gab er sein UK-Debüt in London.",
+   "en": "5HA5H is a drum & bass DJ focused on neurofunk, billed as the \"Selector of Eatbrain\": he won the History of Eatbrain DJ competition and hosts the Eatbrain Radio show. In Vienna he regularly plays The Hive and Beat It at Flex; in 2025 he made his UK debut in London."
+  },
+  "genres": [
+   "Drum & Bass",
+   "Neurofunk"
+  ],
+  "sets": [
+   {
+    "t": "MURMIX028: 5HA5H [Eatbrain] (Guest Mix)",
+    "u": "https://soundcloud.com/murmurationrecords/murmix028-5ha5h-eatbrain-guest-mix"
+   },
+   {
+    "t": "Eatbrain Radio // S03E08 // Hosted by 5HA5H",
+    "u": "https://soundcloud.com/eatbrain/eatbrain-radio-s03e08-hosted-by-5ha5h"
+   },
+   {
+    "t": "8 Years of 5HA5H (Electrocord - Radio Guerrilla, 22.12.2023)",
+    "u": "https://soundcloud.com/5ha5h/8-years-of-5ha5h"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/events/2148754",
+   "https://de.ra.co/events/1934244",
+   "https://de.ra.co/events/2080019",
+   "https://soundcloud.com/5ha5h/beat-it-181123-enos-b2b-5ha5h",
+   "https://soundcloud.com/5ha5h/history-of-eatbrain-contest-mix",
+   "https://soundcloud.com/eatbrain/eatbrain-radio-s03e08-hosted-by-5ha5h"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
+ },
+ "Valentin Zelz": {
+  "img": "https://static.ra.co/images/profiles/square/valentinzelz.jpg?dateUpdated=1747155024143",
+  "links": {
+   "ra": "https://ra.co/dj/valentinzelz",
+   "sc": "https://soundcloud.com/valentinzelz"
+  },
+  "from": {
+   "de": "Augsburg, lebt in Berlin",
+   "en": "Augsburg, based in Berlin"
+  },
+  "bio": {
+   "de": "Valentin Zelz ist ein in Berlin lebender DJ und Veranstalter mit Wurzeln in Augsburg. Mit seinem Projekt Fiesta Frizzante steht er für House-Sets, die emotional, nostalgisch und zugleich zeitgemäß sowie bewusst ungeschliffen sind. Gespielt hat er u. a. in Kopenhagen, Hamburg, München und Wien.",
+   "en": "Valentin Zelz is a Berlin-based DJ and promoter with roots in Augsburg. Through his project Fiesta Frizzante he plays house sets that are emotionally driven, nostalgic yet contemporary and deliberately unpolished. He has played cities including Copenhagen, Hamburg, Munich and Vienna."
+  },
+  "genres": [
+   "House"
+  ],
+  "sets": [
+   {
+    "t": "Valentin Zelz live @ Fiesta Frizzante, Hallo Werner Augsburg (03.09.22)",
+    "u": "https://soundcloud.com/valentinzelz/valentin-zelz-live-fiesta-frizzante-030922-hallo-werner"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/valentinzelz/biography",
+   "https://soundcloud.com/valentinzelz/sets/mixes"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Veronika Amie": {
+  "img": "https://static.ra.co/images/profiles/square/veronikaamie.jpg?dateUpdated=1731578535000",
+  "links": {
+   "ra": "https://ra.co/dj/veronikaamie",
+   "sc": "https://soundcloud.com/veronika-amie"
+  },
+  "bio": {
+   "de": "Veronika Amie ist eine in Wien aktive DJ. Sie spielt regelmäßig bei der Reihe Club Pompadour im SASS Music Club, u. a. gemeinsam mit Philipp Blecha. Mixe von ihr erschienen unter anderem bei Radio Rudina und in der Viennoise-Mixreihe.",
+   "en": "Veronika Amie is a DJ active in Vienna. She plays regularly at the Club Pompadour series at SASS Music Club, among others alongside Philipp Blecha. Her mixes have appeared on Radio Rudina and in the Viennoise mix series."
+  },
+  "sets": [
+   {
+    "t": "Veronika Amie b2b Konstil – Radio Rudina",
+    "u": "https://soundcloud.com/radiorudina/veronika-amie-b2b-konstil-radio-rudina"
+   },
+   {
+    "t": "Mosaiek – Veronika Amie (Radio Rudina)",
+    "u": "https://soundcloud.com/radiorudina/mosaiek-veronika-aime"
+   },
+   {
+    "t": "Veronika Amie – Viennoise Mix – Autumn 2015",
+    "u": "https://soundcloud.com/viennoise/veronika-amie-2015"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/veronikaamie",
+   "https://ra.co/events/2022013",
+   "https://soundcloud.com/veronika-amie"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Tanja Turner": {
+  "img": "https://static.ra.co/images/profiles/square/tanjaturner.jpg?dateUpdated=1744620586887",
+  "links": {
+   "ra": "https://ra.co/dj/tanjaturner",
+   "sc": "https://soundcloud.com/tanjaturner"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Wiener DJ und Kuratorin sowie Mitglied von vlan.radio. Ihre Sets bewegen sich zwischen introspektiv-düster und verspielt-energetisch, inspiriert von Vergangenheit und Gegenwart mit einem neugierigen Ohr für das Unkonventionelle. Regelmäßige Sendungen auf vlan.radio, Auftritte u. a. im Celeste.",
+   "en": "Vienna-based DJ, curator and member of vlan.radio. Her sets move between introspective and moody and playful and energetic, drawing on past and present with an ever-curious ear for the unconventional. She hosts regular shows on vlan.radio and has played at Celeste, among others."
+  },
+  "sets": [
+   {
+    "t": "CommON AIR - Tanja Turner - 251023",
+    "u": "https://soundcloud.com/vlanradio/tanjaturner-251023"
+   },
+   {
+    "t": "TANJA TURNER - 12/04/24",
+    "u": "https://soundcloud.com/vlanradio/tanjaturner-120424"
+   },
+   {
+    "t": "turns out i got nothing else to do on a friday night",
+    "u": "https://soundcloud.com/tanjaturner/turns-out-i-got-nothing-else-to-do-on-a-friday-night"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/tanjaturner",
+   "https://ra.co/events/2090652"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "UV Project": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Userkiller": {
+  "img": "https://static.ra.co/images/profiles/square/userkiller.jpg?dateUpdated=1741953946000",
+  "links": {
+   "ra": "https://ra.co/dj/userkiller",
+   "sc": "https://soundcloud.com/userkiller",
+   "ig": "https://www.instagram.com/userkiller_tonidrogemeyer"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "real": "Toni Drögemeyer",
+  "bio": {
+   "de": "Userkiller ist ein Techno-DJ und -Produzent aus Deutschland, der mit dem Berliner Tresor und der Crew R.C.S in Verbindung steht. Releases erschienen u. a. auf DataBlender (Noize Of The Damned One EP); bei Sub Zero im The Loft vertritt er die Berliner Seite von „Vienna meets Berlin“.",
+   "en": "Userkiller is a German techno DJ and producer associated with Berlin's Tresor and the R.C.S crew. His releases include the Noize Of The Damned One EP on DataBlender; at Sub Zero in The Loft he represents the Berlin side of 'Vienna meets Berlin'."
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "DataBlender"
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/userkiller",
+   "https://www.theloft.at/sub-zero/",
+   "https://soundcloud.com/datablender/sets/dtb061d-userkiller-noize-of-the-damned-one-ep",
+   "https://www.discogs.com/artist/170667-Userkiller",
+   "https://www.facebook.com/userkiller",
+   "https://www.beatport.com/artist/userkiller/149216"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "TenFifty": {
+  "bio": {
+   "de": "TenFifty ist das Tech-House-Projekt von Grafenauer und KΛSKIN und Resident der House-Reihe GLITCH, die 2025 mit kleinen Off-Location-Partys in Kärnten begann und nun auch in Wien veranstaltet. KΛSKIN stammt aus Villach und gilt laut Veranstalter als eines der ersten Indie-Dance-Projekte Österreichs.",
+   "en": "TenFifty is the tech house project of Grafenauer and KΛSKIN and resident of the house series GLITCH, which started in 2025 with small off-location parties in Carinthia and now also runs events in Vienna. KΛSKIN hails from Villach and, according to the organisers, is one of Austria's first indie dance projects."
+  },
+  "genres": [
+   "Tech House",
+   "House"
+  ],
+  "src": [
+   "https://www.enter-glitch.com/events/glitch-vienna-001"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Wal_Halla": {
+  "img": "https://static.ra.co/images/profiles/square/wal_halla.jpg?dateUpdated=1788612597173",
+  "links": {
+   "ra": "https://ra.co/dj/wal_halla",
+   "sc": "https://soundcloud.com/wal_halla",
+   "ig": "https://www.instagram.com/wal_halla"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "DJ und Veranstalterin aus Wien mit Hintergrund in klassischer Musik und Tanz. Sie verbindet Techno, Trance und Acid zu tanzbaren Sets mit treibenden Rhythmen und verspielten Vocals. Mit ihrer Reihe Art Attech verknüpft sie Techno-Rave und Vernissage; Auftritte u. a. in der Arena Wien, der FLUCC Wanne, im Club U und in Kuala Lumpur.",
+   "en": "Vienna-based DJ and event organizer with a background in classical music and dance. She blends techno, trance and acid into danceable sets with driving rhythms and playful vocal touches. Her series Art Attech pairs a techno rave with an art opening; she has played at Arena Wien, FLUCC Wanne, Club U and in Kuala Lumpur, among others."
+  },
+  "genres": [
+   "Techno",
+   "Trance",
+   "Acid"
+  ],
+  "src": [
+   "https://ra.co/dj/wal_halla",
+   "https://ra.co/dj/wal_halla/biography"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Teppich Funk": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Wiener Grantscheibn": {
+  "img": "https://static.ra.co/images/profiles/square/wienergrantscheibn.jpg?dateUpdated=1672052653000",
+  "links": {
+   "ra": "https://ra.co/dj/wienergrantscheibn",
+   "sc": "https://soundcloud.com/wienergrantscheibn",
+   "ig": "https://www.instagram.com/wienergrantscheibn"
+  },
+  "bio": {
+   "de": "Wiener Grantscheibn ist DJ und Saxophonist aus Wien und verbindet DJ-Sets mit Live-Saxophon. Er veranstaltete u. a. 2023 die Nacht „Kollektives Tanzen“ im FLUCC mit House und Techno sowie Live-Instrumentals.",
+   "en": "Wiener Grantscheibn is a DJ and saxophonist from Vienna who combines DJ sets with live saxophone. In 2023 he hosted the night 'Kollektives Tanzen' at FLUCC with house, techno and live instrumentals."
+  },
+  "real": "Emil Schiener",
+  "src": [
+   "https://ra.co/dj/wienergrantscheibn",
+   "https://ra.co/events/1759646",
+   "https://soundcloud.com/wienergrantscheibn",
+   "https://www.facebook.com/wienergrantscheibn"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Tim Kern": {
+  "img": "https://static.ra.co/images/profiles/square/timkern.jpg?dateUpdated=1618904917000",
+  "links": {
+   "ra": "https://ra.co/dj/timkern"
+  },
+  "from": {
+   "de": "Kranj, Slowenien",
+   "en": "Kranj, Slovenia"
+  },
+  "bio": {
+   "de": "DJ aus Kranj (Slowenien), seit 2012 in der Szene aktiv – zunächst mit Partys in Kranj, später in Ljubljana mit den Kollektiven Colours in Music und All We Are. 2017 gründete er mit Valentino Kanzyani, Ian F., Mayell und Tzena die Crew Luckison, die Partys in ganz Slowenien sowie Showcases in London, Berlin, Wien und Florenz veranstaltet. Sein warmer Sound bewegt sich zwischen House, Breakbeat und Electro.",
+   "en": "DJ from Kranj, Slovenia, active since 2012 – first with parties in Kranj, later in Ljubljana with the Colours in Music and All We Are collectives. In 2017 he co-founded the Luckison crew with Valentino Kanzyani, Ian F., Mayell and Tzena, which hosts parties across Slovenia and has showcased in London, Berlin, Vienna and Florence. His warm sound sits between house, breakbeat and electro."
+  },
+  "genres": [
+   "House",
+   "Breakbeat",
+   "Electro"
+  ],
+  "src": [
+   "https://ra.co/dj/timkern/biography",
+   "https://ra.co/dj/-lala-"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Young Sun": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Tomasz Guiddo": {
+  "img": "https://static.ra.co/images/profiles/guiddo.jpg?dateUpdated=1567641600000",
+  "links": {
+   "ra": "https://ra.co/dj/guiddo",
+   "sc": "https://soundcloud.com/tomaszguiddo",
+   "ig": "https://www.instagram.com/tomaszguiddo"
+  },
+  "bio": {
+   "de": "Tomasz Guiddo ist DJ, Produzent, Sounddesigner und Radiojournalist, geboren in Warschau, mit Stationen in Berlin und Shenzhen/Hongkong, wo er die VINYLHOUSE-Plattenläden mitgründete. Seit 2005 moderiert er auf RadioJazzFM die Sendung „Input Output Putput“. Releases erschienen u. a. auf Compost, Get Physical, Ostgut Ton/Unterton, Sonar Kollektiv und Mule Musiq; außerdem steht er hinter dem Projekt Manhooker.",
+   "en": "Tomasz Guiddo is a DJ, producer, sound designer and radio journalist, born in Warsaw, who has lived in Berlin and Shenzhen/Hong Kong, where he co-founded the VINYLHOUSE record stores. Since 2005 he has hosted the show 'Input Output Putput' on RadioJazzFM. He has released on Compost, Get Physical, Ostgut Ton/Unterton, Sonar Kollektiv and Mule Musiq, among others, and is the producer behind Manhooker."
+  },
+  "from": {
+   "de": "Warschau, Polen",
+   "en": "Warsaw, Poland"
+  },
+  "alias": [
+   "Guiddo",
+   "Manhooker"
+  ],
+  "labels": [
+   "Compost",
+   "Get Physical",
+   "Ostgut Ton",
+   "Unterton",
+   "Sonar Kollektiv",
+   "Mule Musiq",
+   "Beats In Space",
+   "KID Recordings"
+  ],
+  "sets": [
+   {
+    "t": "Tomasz Guiddo @ Rave The Planet & Friends 03-11-2023 Berlin (live rec)",
+    "u": "https://soundcloud.com/ravetheplanetggmbh/tomasz-guiddo-rave-the-planet"
+   },
+   {
+    "t": "Tomasz Guiddo @ PODcst #24 (live @ Rave The Planet & Friends 29-09-2022)",
+    "u": "https://soundcloud.com/ravetheplanetggmbh/tomasz-guiddo-podcst-24-live-rec"
+   },
+   {
+    "t": "Tomasz Guiddo – JMA Radio Show #12",
+    "u": "https://soundcloud.com/janemusicagency/tomasz-guiddo-radio-show-30-jane-music-agency-podcast"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/guiddo",
+   "https://ra.co/dj/guiddo/biography",
+   "https://soundcloud.com/tomaszguiddo",
+   "https://www.facebook.com/GuiddoOfficial",
+   "https://www.discogs.com/artist/1676896-Guiddo"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Thomas Schumacher": {
+  "img": "https://static.ra.co/images/profiles/square/thomasschumacher.jpg?dateUpdated=1522937670000",
+  "links": {
+   "ra": "https://ra.co/dj/thomasschumacher",
+   "sc": "https://soundcloud.com/thomas-schumacher",
+   "ig": "https://www.instagram.com/djthomasschumacher",
+   "web": "https://www.thomasschumacher.com"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "Deutscher Techno-DJ, Produzent und Komponist. Releases u. a. auf Spielzeug, Noir Music, Bush Records, Electric Ballroom, MONO.NOISE und Voltage. Gemeinsam mit Stephan Bodzin und der Sängerin Caitlin Devlin bildet er das Projekt Elektrochemie, das auf Get Physical veröffentlichte.",
+   "en": "German techno DJ, producer and composer. He has released on labels including Spielzeug, Noir Music, Bush Records, Electric Ballroom, MONO.NOISE and Voltage. Together with Stephan Bodzin and vocalist Caitlin Devlin he forms the project Elektrochemie, which released on Get Physical."
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Spielzeug",
+   "Noir Music",
+   "Bush Records",
+   "Electric Ballroom",
+   "MONO.NOISE",
+   "Voltage",
+   "Get Physical"
+  ],
+  "src": [
+   "https://de.ra.co/dj/thomasschumacher",
+   "https://ra.co/dj/elektrochemie/biography",
+   "https://www.facebook.com/ThomasSchumacherOfficial",
+   "https://www.discogs.com/artist/Thomas+Schumacher"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Tom Snow": {
+  "links": {
+   "sc": "https://soundcloud.com/tom-snow"
+  },
+  "bio": {
+   "de": "Tom Snow ist ein Wiener DJ, der seine Sets und Mixes unter dem Motto „Vienna Calling“ veröffentlicht. Auf Flashback-Techno-Classics-Flyern wird er mit Loveparade Vienna und Biosphere in Verbindung gebracht; aufgelegt hat er u. a. in der Kantine, im Volksgarten und am Vienna City Beach.",
+   "en": "Tom Snow is a Vienna DJ who releases his sets and mixes under the banner \"Vienna Calling\". Flashback Techno Classics flyers link him to Loveparade Vienna and Biosphere; he has played venues including Die Kantine, Volksgarten and Vienna City Beach."
+  },
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "Vienna Calling Day & Night – Live Recording, Vienna City Beach 2017",
+    "u": "https://soundcloud.com/tom-snow/vienna-calling-day-night-live-recording-day-vienna-city-beach-2017"
+   },
+   {
+    "t": "Vienna Calling On The Beach (Night-Day-Night Mix 2016)",
+    "u": "https://soundcloud.com/tom-snow/tom-snow-vienna-calling-on-the-beach-night-day-night-mix-2016"
+   },
+   {
+    "t": "Vienna Calling Live Recording – Die Kantine",
+    "u": "https://soundcloud.com/tom-snow/tom-snow-vienna-calling-live-recording-die-kantine"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/events/1653680",
+   "https://soundcloud.com/tom-snow",
+   "https://soundcloud.com/tom-snow/garden-club-volksgarten-vienna"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
+ },
+ "Vivid": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Van:Hill": {
+  "links": {
+   "sc": "https://soundcloud.com/vanhilldnb",
+   "ig": "https://www.instagram.com/vanhillmusic"
+  },
+  "bio": {
+   "de": "Drum-&-Bass-DJ, der in Wien u. a. bei der Reihe The Hive im Flex aufgelegt hat. Bei High Voltage Fairies spielt Van:Hill ein Metal-x-DnB-Set b2b mit AKOV.",
+   "en": "Drum & bass DJ who has played in Vienna at The Hive series at Flex, among others. At High Voltage Fairies, Van:Hill plays a metal x DnB set b2b with AKOV."
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "src": [
+   "https://ra.co/events/1934244",
+   "https://flex.at/event/high-voltage-fairies-in-the-pit/"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
+ },
+ "WNR": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Tündérke": {
+  "links": {
+   "mc": "https://www.mixcloud.com/tunderke_/",
+   "ig": "https://www.instagram.com/tunderke__"
+  },
+  "bio": {
+   "de": "Tündérke (auch Djane Tündérke) ist eine Psytrance-DJ aus Budapest und Teil der Crew HungalienZ. Ihre Sets bewegen sich zwischen Psychedelic, Hitech und Forest; regelmäßig erscheinen Mixe von ihr bei Radio Zora. In Wien spielte sie u. a. 2025 bei Psytrance Universe im FLUCC.",
+   "en": "Tündérke (also Djane Tündérke) is a psytrance DJ from Budapest and part of the HungalienZ crew. Her sets move between psychedelic, hitech and forest; her mixes regularly appear on Radio Zora. In Vienna she played Psytrance Universe at FLUCC in 2025, among others."
+  },
+  "from": {
+   "de": "Budapest, Ungarn",
+   "en": "Budapest, Hungary"
+  },
+  "genres": [
+   "Psytrance",
+   "Hitech",
+   "Forest"
+  ],
+  "alias": [
+   "Djane Tündérke"
+  ],
+  "sets": [
+   {
+    "t": "TÜNDÉRKE Selects 'Dark Ascension' (Radio Zora, 11.07.2025)",
+    "u": "https://soundcloud.com/radiozora/tunderke-selects-dark-ascension-11072025"
+   },
+   {
+    "t": "TÜNDÉRKE – Psybabas Radio Show Ep. 205 (Radio Zora, 22.02.2024)",
+    "u": "https://soundcloud.com/radiozora/tunderke-psybabas-radio-show-ep-205-22022024"
+   },
+   {
+    "t": "Psychedelic Adventures – Back to Rave Vol. 2 (Hitech DJ Set)",
+    "u": "https://www.mixcloud.com/tunderke_/psychedelic-adventures-back-to-rave-vol2-hitech-dj-set/"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://www.mixcloud.com/tunderke_/",
+   "https://ra.co/events/2163396",
+   "https://www.facebook.com/tunderke3"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
+ },
+ "Urklang": {
+  "img": "https://f4.bcbits.com/img/0030506317_10.jpg",
+  "links": {
+   "bc": "https://urklang.bandcamp.com/",
+   "sc": "https://soundcloud.com/urklang-music",
+   "ig": "https://www.instagram.com/urklang.music"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "real": "Fabian Kerschbaum",
+  "bio": {
+   "de": "Urklang ist das Soloprojekt des österreichischen Musikers und Produzenten Fabian Kerschbaum mit Sitz in Wien. Er bewegt sich zwischen Forest- und Dark-Prog-Psytrance sowie PsyDub und veröffentlicht u. a. auf Universal Tribe Records, Sentimony Records und Merkaba Music (Album „Cosmic Heart“ als Urklang in Dub). 2025 spielte er live auf der Trancestage der Fusion.",
+   "en": "Urklang is the solo project of Vienna-based Austrian musician and producer Fabian Kerschbaum. His sound moves between forest and dark prog psytrance and psydub, with releases on Universal Tribe Records, Sentimony Records and Merkaba Music (album 'Cosmic Heart' as Urklang in Dub). In 2025 he played live on the Trancestage at Fusion Festival."
+  },
+  "genres": [
+   "Psytrance",
+   "Forest",
+   "PsyDub"
+  ],
+  "labels": [
+   "Universal Tribe Records",
+   "Sentimony Records",
+   "Merkaba Music",
+   "Neurotrance Records"
+  ],
+  "alias": [
+   "Urklang in Dub"
+  ],
+  "sets": [
+   {
+    "t": "URKLANG Live @ FUSION FESTIVAL 2025 @ TranceStage",
+    "u": "https://soundcloud.com/urklang-music/urklang-live-fusion-festival-2025-trancestage"
+   },
+   {
+    "t": "[DHRK SONIK RADIO] - PODCAST 01 MASTER OF PUPPETS 2023 - URKLANG (LIVE)",
+    "u": "https://soundcloud.com/dark-sonik/dhrk-sonik-radio-podcast-01-master-of-puppets-2023-urklang-live"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://urklang.bandcamp.com/",
+   "https://merkabamusic1.bandcamp.com/album/cosmic-heart",
+   "https://set79.com/dj/URKLANG",
+   "https://www.beatport.com/artist/urklang/1117834/tracks",
+   "https://www.facebook.com/urklang",
+   "https://www.beatport.com/artist/urklang/1117834"
+  ],
+  "infoChk": "2026-11-02"
  }
 };
 
