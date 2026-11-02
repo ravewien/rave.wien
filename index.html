@@ -769,6 +769,14 @@ footer a:hover{color:var(--accent)}
 .report:hover{color:var(--fg);border-color:var(--mute)}
 
 @media (prefers-reduced-motion:no-preference){.row,.opt,.sg{transition:background .12s}}
+
+/* Vibe-Tags einheitlich: farbiges Symbol auf transparentem Hintergrund (wie Indoor/Outdoor); gefiltert = umgekehrt (gefüllt) */
+.flag .ico:not(.lg),.flag.on .ico:not(.lg){background:none!important;border:0;color:inherit!important;text-shadow:none}
+.flag .ico.lg,.flag.on .ico.lg{border-radius:2px;background:linear-gradient(180deg,#e40303 0 16.6%,#ff8c00 16.6% 33.3%,#ffed00 33.3% 50%,#008026 50% 66.6%,#004dff 66.6% 83.3%,#750787 83.3%)!important}
+.flag.np{color:#e9ecf1;background:rgba(233,236,241,.06);border:1px solid rgba(233,236,241,.35)}
+.flag.np.on{background:#e9ecf1;color:#0b0d10;border-color:#e9ecf1}
+.flag.sx.on{border-color:var(--sex)}.flag.lg.on{border-color:var(--lg)}.flag.aw.on{border-color:var(--aw)}.flag.od.on{border-color:var(--od)}
+.flag.age{color:var(--fg);background:transparent;border:1px solid var(--line)}
 </style>
 
 <header class="top">
