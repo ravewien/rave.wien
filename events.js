@@ -2818,13 +2818,15 @@ const VI={
   "en": "Former imperial residence on Heldenplatz whose state halls are also used for large events.",
   "src": [
    "https://ksot.ticket.io/",
-   "https://meeting.vienna.info/en/event-planning/venue-finder/hofburg-vienna-325428"
+   "https://meeting.vienna.info/en/event-planning/venue-finder/hofburg-vienna-325428",
+   "https://hofburg.com/en/organising_1"
   ],
   "io": [
    "Indoor"
   ],
   "web": "https://www.hofburg.com/en",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "logo": "https://hofburg.com/jart/prj3/hofburg/resources/images/hofburg-white.png"
  },
  "Grelle Forelle": {
   "web": "https://www.grelleforelle.com/",
@@ -2935,13 +2937,14 @@ const VI={
   "de": "Club am Karlsplatz, Schwerpunkt House und Techno, sonntags „Morgengymnastik“.",
   "en": "Club at Karlsplatz, focus on house and techno, Sundays “Morgengymnastik”.",
   "src": [
-   "https://ohschonhell.at/orte/sass/9"
+   "https://ohschonhell.at/orte/sass/9",
+   "https://sassvienna.com/en/club"
   ],
   "noLogo": "2026-10-28",
   "io": [
    "Indoor"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "PRST": {
   "alias": ["Praterstraße", "Club Praterstraße"],
@@ -3005,13 +3008,15 @@ const VI={
   "src": [
    "https://ohschonhell.at/orte/celeste/47",
    "https://www.technoairlines.com/club/celeste-vienna",
-   "https://www.theviennareview.at/food-drink/1745/celeste"
+   "https://www.theviennareview.at/food-drink/1745/celeste",
+   "https://www.celeste.co.at/"
   ],
-  "noLogo": "2026-10-28",
   "io": [
    "Indoor"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "web": "https://www.celeste.co.at/",
+  "logo": "https://www.celeste.co.at/img/logosmall.png"
  },
  "Weberknecht": {
   "web": "https://weberknecht.at/",
@@ -3107,11 +3112,13 @@ const VI={
   "logo": "https://www.libelle.at/wp-content/uploads/2024/03/cropped-Libelle_Logo-270x270.png",
   "src": [
    "https://www.libelle.at/",
-   "https://www.1000thingsmagazine.com/de/a/2045907/sex-positive-partys-wien/"
+   "https://www.1000thingsmagazine.com/de/a/2045907/sex-positive-partys-wien/",
+   "https://www.libelle.at/die-location/",
+   "https://www.libelle.at/spielregeln/"
   ],
   "infoChk": "2026-11-02",
-  "de": "Sexpositiver Ort in der Tellgasse im Nibelungenviertel (Rudolfsheim-Fünfhaus), früher „Schwelle Wien“: regelmäßige Workshops rund um Sexualität sowie Partys, die sexuellen Begegnungen offenstehen. Grundregel: „Alles außer ein enthusiastisches Ja ist ein Nein.“",
-  "en": "Sex-positive space on Tellgasse in the Nibelungenviertel (Rudolfsheim-Fünfhaus), formerly \"Schwelle Wien\": regular workshops on sexuality and parties open to sexual encounters. Core rule: \"Anything but an enthusiastic yes is a no.\"",
+  "de": "Nach eigener Angabe Wiens erste sexpositive Location, früher „Schwelle Wien“: über 350 m² in der Tellgasse im Nibelungenviertel (Rudolfsheim-Fünfhaus) mit Workshops rund um Sexualität und Partys, die sexuellen Begegnungen offenstehen, dazu ein Playroom. Grundregel: „Alles außer ein enthusiastisches Ja ist ein Nein.“",
+  "en": "By its own account Vienna's first sex-positive venue, formerly \"Schwelle Wien\": over 350 m² on Tellgasse in the Nibelungenviertel (Rudolfsheim-Fünfhaus) hosting workshops on sexuality and parties open to sexual encounters, plus a playroom. Core rule: \"Anything but an enthusiastic yes is a no.\"",
   "io": [
    "Indoor"
   ],
@@ -3291,7 +3298,8 @@ const VI={
    "https://ra.co/events/2547379",
    "https://www.vienna.at/funkhaus-in-wien-wieden-verwandelt-sich-in-gratzlhub/9297596",
    "https://www.weekend.at/de/projekt/funkhaus-vienna-s-got-a-new-rhythm/OBGC202509241453541414ebd8086ac",
-   "https://www.leadersnet.at/news/87908,das-traditionsreiche-funkhaus-in-wien-wird-neugestaltet.html"
+   "https://www.leadersnet.at/news/87908,das-traditionsreiche-funkhaus-in-wien-wird-neugestaltet.html",
+   "https://www.funkhaus.wien/en/about"
   ],
   "noLogo": "2026-10-28",
   "io": [
