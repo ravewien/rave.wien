@@ -5720,11 +5720,15 @@ const AR={
    "sc": "https://soundcloud.com/paracek",
    "bc": "https://paracek.bandcamp.com",
    "web": "http://linktr.ee/paracek",
-   "ra": "https://ra.co/dj/para%C3%A7ek"
+   "ra": "https://ra.co/dj/para%C3%A7ek",
+   "sp": "https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1",
+   "ig": "https://www.instagram.com/paracek_official/"
   },
   "src": [
    "https://de.ra.co/dj/paracek",
-   "https://de.ra.co/dj/para%C3%A7ek"
+   "https://de.ra.co/dj/para%C3%A7ek",
+   "https://www.technoairlines.com/artist/paracek",
+   "https://www.regioactive.de/party/paradies-garten-w-paracek-grelle-forelle-wien-2026-11-14-JVJJnmCzgx"
   ],
   "sets": [
    {
@@ -5745,7 +5749,16 @@ const AR={
   "labels": [
    "TRANCEKRAFT 4000"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "bio": {
+   "de": "Paraçek ist ein in Dresden ansässiger DJ, dessen Sound in der Free-Party-Rave-Szene von Leipzig und Dresden wurzelt. Seit 2021 aktiv, verbindet er schnellen Hard Dance und Hard Trance mit 90er-Trance und Acid-Rave. Veröffentlichungen erschienen u. a. auf TRANCEKRAFT 4000.",
+   "en": "Paraçek is a Dresden-based DJ whose sound is rooted in the free-party rave scene of Leipzig and Dresden. Active since 2021, he blends fast hard dance and hard trance with 90s trance and acid rave. His releases include output on TRANCEKRAFT 4000."
+  },
+  "genres": [
+   "Hard Trance",
+   "Hard Dance",
+   "Trance"
+  ]
  },
  "Felix Rupprecht": {
   "links": {
@@ -5839,10 +5852,12 @@ const AR={
    "sc": "https://soundcloud.com/pola-bryson",
    "sp": "https://open.spotify.com/artist/79pzyyqayunwsvh4ty4vpr",
    "ig": "https://www.instagram.com/polabryson",
-   "bc": "http://polabryson.bandcamp.com"
+   "bc": "http://polabryson.bandcamp.com",
+   "ra": "https://ra.co/dj/polabryson"
   },
   "src": [
-   "https://ra.co/dj/polabryson"
+   "https://ra.co/dj/polabryson",
+   "https://ra.co/dj/polabryson/biography"
   ],
   "sets": [
    {
@@ -5854,7 +5869,25 @@ const AR={
     "u": "https://soundcloud.com/pola-bryson/rb-meets-db-mix"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/polabryson.jpg?dateUpdated=1737980042000",
+  "bio": {
+   "de": "Pola & Bryson sind ein britisches Drum-&-Bass-Produzentenduo: Jack (Pola) stammt aus East London, Harry (Bryson) aus West Yorkshire. Nach dem Debütalbum „This Time Last Year“ auf ihrem Label Soulvent Records erschienen „Lost In Thought“ und „Beneath The Surface“ (2021) auf Shogun Audio; „Phoneline“ mit Emily Makis wurde 2023 zu einer viel gespielten D&B-Hymne.",
+   "en": "Pola & Bryson are a UK drum & bass production duo: Jack (Pola) grew up in East London and Harry (Bryson) in West Yorkshire. After their debut album 'This Time Last Year' on their own Soulvent Records, they released 'Lost In Thought' and 'Beneath The Surface' (2021) on Shogun Audio; 'Phoneline' with Emily Makis became a widely played D&B anthem in 2023."
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "labels": [
+   "Shogun Audio",
+   "Soulvent Records"
+  ],
+  "genres": [
+   "Drum & Bass",
+   "Liquid Drum & Bass"
+  ],
+  "infoChk": "2026-11-02"
  },
  "Thomas Schumacher (Elektrochemie LK)": {
   "links": {
@@ -6697,8 +6730,9 @@ const AR={
   "noLinks": "2026-10-28"
  },
  "Norg3n": {
-  "noLinks": "2026-10-28",
-  "noImg": "2026-10-28"
+  "noLinks": "2026-11-02",
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Peter Pan": {
   "links": {
@@ -6709,7 +6743,9 @@ const AR={
    "ra": "https://ra.co/dj/peterpan-no"
   },
   "src": [
-   "https://ra.co/dj/peterpan-no"
+   "https://ra.co/dj/peterpan-no",
+   "https://de.ra.co/dj/peterpan-no",
+   "https://de.ra.co/dj/peterpan-no/biography"
   ],
   "from": {
    "de": "Norwegen",
@@ -6717,7 +6753,18 @@ const AR={
   },
   "setsChecked": "2026-10-28",
   "img": "https://static.ra.co/images/profiles/square/peterpan-no.jpg?dateUpdated=1772446692163",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "bio": {
+   "de": "Peter Pan (auch Peter Greenwood bzw. PeterPan303) ist ein norwegischer DJ und Produzent. Seine Musik reicht von melodischem House bis zu tieferem Techno; Releases erschienen u. a. auf Avocado Records, Aquavit BEAT und NeverLand Productions. Er stand u. a. mit John Digweed, Sasha, Guy J, Boris Brejcha und Fluke auf Line-ups.",
+   "en": "Peter Pan (also Peter Greenwood or PeterPan303) is a Norwegian DJ and producer. His music ranges from melodic house to deeper techno, with releases on labels including Avocado Records, Aquavit BEAT and NeverLand Productions. He has shared line-ups with John Digweed, Sasha, Guy J, Boris Brejcha and Fluke."
+  },
+  "labels": [
+   "Avocado Records",
+   "Aquavit BEAT",
+   "NeverLand Productions"
+  ],
+  "alias": ["Peter Greenwood", "PeterPan303"],
+  "infoChk": "2026-11-02"
  },
  "JP eXbert": {
   "links": {
@@ -7024,7 +7071,7 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Pinklotion": {
-  "noImg": "2026-10-28",
+  "noImg": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/mrpinklotion"
   },
@@ -7041,9 +7088,21 @@ const AR={
    "https://soundcloud.com/mrpinklotion/pinked-out-001-hard-technoschranz-set-155-160bpm",
    "https://soundcloud.com/mrpinklotion/pentada",
    "https://soundcloud.com/mrpinklotion/pinklotion-terrortussy-expressversand",
-   "https://soundcloud.com/radiorudina/almost-pinkcast-mel-b2b-pinklotion-b2b-bludhound"
+   "https://soundcloud.com/radiorudina/almost-pinkcast-mel-b2b-pinklotion-b2b-bludhound",
+   "https://soundcloud.com/radiorudina/pinklotion"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "sets": [
+   {
+    "t": "Pinklotion – Radio Rudina",
+    "u": "https://soundcloud.com/radiorudina/pinklotion"
+   },
+   {
+    "t": "pinked out 001 – Hard Techno/Schranz Set (155–160 BPM)",
+    "u": "https://soundcloud.com/mrpinklotion/pinked-out-001-hard-technoschranz-set-155-160bpm"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Gopnikbarbie": {
   "noImg": "2026-10-28",
@@ -7857,9 +7916,31 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "NEXUS": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "bio": {
+   "de": "NEXUS ist das gemeinsame Projekt von B4MBA und MOOKI6 aus dem panafrikanischen, multidisziplinären Jokkoo Collective in Barcelona. Ihre dichte, konfrontative Musik verbindet Punk, Industrial, Dancehall, Noise und Trap. 2023 erschien bei Jokkoo die EP „PROTO NEXUS“ mit Industrial-Dancehall und Jungle, entstanden auf einer Reise durch Kenia.",
+   "en": "NEXUS is the joint project of B4MBA and MOOKI6 from Barcelona's pan-African, multidisciplinary Jokkoo Collective. Their dense, confrontational music blends punk, industrial, dancehall, noise and trap. In 2023 they released the EP 'PROTO NEXUS' on Jokkoo, combining industrial dancehall and jungle, made during a trip through Kenya."
+  },
+  "from": {
+   "de": "Barcelona",
+   "en": "Barcelona"
+  },
+  "labels": [
+   "Jokkoo"
+  ],
+  "genres": [
+   "Experimental",
+   "Dancehall",
+   "Industrial",
+   "Jungle"
+  ],
+  "src": [
+   "https://www.ctm-festival.de/festival-2026/programme/artists/n/nexus",
+   "https://jokkoo.bandcamp.com/album/proto-nexus",
+   "https://www.artexplora.org/en/festival/performance/jokkoo-collective---dj-set"
+  ]
  },
  "SAMI": {
   "infoChk": "2026-11-02",
@@ -8292,9 +8373,33 @@ const AR={
   ]
  },
  "Parajekt": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "img": "https://f4.bcbits.com/img/0040447540_10.jpg",
+  "bio": {
+   "de": "Parajekt ist das Wiener Elektronik-Duo von Bernhard Hammer und Matija Schellander. Ihre Musik entsteht mit Drum Machines, Samplern, Modularsynthesizern und Effekten, aufgenommen auf Tonband und anschließend mit Dub-Techniken weiterbearbeitet; sie verbindet elektronische Beatmusik mit Musique concrète und Noise. Das selbstbetitelte Album erschien im Jänner 2026 auf Palazzo Recordings.",
+   "en": "Parajekt is the Vienna-based electronic duo of Bernhard Hammer and Matija Schellander. Their music is built with drum machines, samplers, modular synths and effects, recorded to tape and then reworked with dub techniques, blending electronic beat music with musique concrète and noise. Their self-titled album was released on Palazzo Recordings in January 2026."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "real": "Bernhard Hammer & Matija Schellander",
+  "links": {
+   "bc": "https://parajekt.bandcamp.com/"
+  },
+  "labels": [
+   "Palazzo Recordings"
+  ],
+  "genres": [
+   "Musique concrète",
+   "Noise",
+   "Dub"
+  ],
+  "src": [
+   "https://parajekt.bandcamp.com/",
+   "https://parajekt.bandcamp.com/album/parajekt-2",
+   "https://www.dancingvinyl.com/release/1759469450021/parajekt-parajekt-(lp)"
+  ]
  },
  "Eye F": {
   "img": "https://static.ra.co/images/profiles/square/eyef.jpg?dateUpdated=1608128874000",
@@ -8547,9 +8652,9 @@ const AR={
   "noLinks": "2026-10-31"
  },
  "Raphael Warg": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
  },
  "LĪVA": {
   "infoChk": "2026-11-02",
@@ -8719,9 +8824,9 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Nafaka & Lipo": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Kollektiv Sheesh": {
   "noImg": "2026-11-02",
@@ -8810,27 +8915,53 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "PA_olo": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
+  "noImg": "2026-11-02",
   "src": [
-   "https://ra.co/events/1986880"
+   "https://ra.co/events/1986880",
+   "https://soundcloud.com/pa_olo"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/pa_olo"
+  },
+  "setsChecked": "2026-11-02"
  },
  "Romen Est Omen": {
-  "noImg": "2026-10-31",
+  "noImg": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/romen_est_omen"
   },
   "src": [
    "https://soundcloud.com/romen_est_omen"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "setsChecked": "2026-11-02"
  },
  "Peter Illias": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "bio": {
+   "de": "Peter Illias ist Produzent und DJ im Bereich Progressive House. Er veröffentlichte u. a. „Summer Vibes“ auf Silk Music (Monstercat Silk) sowie „Evolution“ auf Silk Royal und „For This Moment“ (mit Ad Brown) auf Arrival.",
+   "en": "Peter Illias is a progressive house producer and DJ. His releases include 'Summer Vibes' on Silk Music (Monstercat Silk), 'Evolution' on Silk Royal and 'For This Moment' (with Ad Brown) on Arrival."
+  },
+  "links": {
+   "sc": "https://soundcloud.com/peter-illias"
+  },
+  "labels": [
+   "Silk Music",
+   "Silk Royal",
+   "Arrival"
+  ],
+  "genres": [
+   "Progressive House"
+  ],
+  "src": [
+   "https://soundcloud.com/peter-illias",
+   "https://www.beatport.com/track/summer-vibes-original-mix/4441719",
+   "https://soundcloud.com/peter-illias/peter-illias-evolution",
+   "https://soundcloud.com/peter-illias/peter-illias-moment-original"
+  ],
+  "setsChecked": "2026-11-02"
  },
  "CREEXX": {
   "noImg": "2026-11-02",
@@ -9569,9 +9700,9 @@ const AR={
   "infoChk": "2026-11-01"
  },
  "RIETVELD": {
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Arne": {
   "noImg": "2026-11-02",
@@ -9928,12 +10059,27 @@ const AR={
   },
   "img": "https://static.ra.co/images/profiles/square/neophyte.jpg?dateUpdated=1716925787000",
   "links": {
-   "ra": "https://ra.co/dj/neophyte"
+   "ra": "https://ra.co/dj/neophyte",
+   "sp": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
   },
   "src": [
-   "https://ra.co/dj/neophyte"
+   "https://ra.co/dj/neophyte",
+   "https://en.wikipedia.org/wiki/Neophyte_(band)",
+   "https://www.technoairlines.com/artist/neophyte"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "bio": {
+   "de": "Neophyte ist eine niederländische Hardcore-/Gabber-Formation, 1992 in Rotterdam gegründet; aktuell besteht sie aus Jeroen Streunding, Danny Greten und Jarno Butter. Die frühen Tracks erschienen auf Paul Elstaks Label Rotterdam Records, später gründete die Gruppe ihr eigenes Label Neophyte Records (u. a. Tha Playah, DJ Panic, Evil Activities). Bekannt sind u. a. „Army of Hardcore“ und die offizielle Thunderdome-Hymne „TD is You“ (2012).",
+   "en": "Neophyte is a Dutch hardcore/gabber group formed in 1992 in Rotterdam, currently made up of Jeroen Streunding, Danny Greten and Jarno Butter. Their early tracks came out on Paul Elstak's Rotterdam Records, and the group later founded its own label Neophyte Records (home to Tha Playah, DJ Panic and Evil Activities, among others). Known tracks include \"Army of Hardcore\" and the official Thunderdome anthem \"TD is You\" (2012)."
+  },
+  "labels": [
+   "Neophyte Records",
+   "Rotterdam Records"
+  ],
+  "genres": [
+   "Hardcore",
+   "Gabber"
+  ]
  },
  "Ed Rush": {
   "from": {
@@ -10022,10 +10168,12 @@ const AR={
  },
  "Redivider": {
   "links": {
-   "sc": "https://soundcloud.com/redividervienna"
+   "sc": "https://soundcloud.com/redividervienna",
+   "ig": "https://www.instagram.com/redivideredivider"
   },
   "src": [
-   "https://soundcloud.com/redividervienna"
+   "https://soundcloud.com/redividervienna",
+   "https://sassvienna.com/en/events/event/Redivider-173"
   ],
   "noImg": "2026-11-02",
   "infoChk": "2026-11-02",
@@ -10277,9 +10425,35 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Punzmann": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "img": "https://static.ra.co/images/profiles/square/punzmann.jpg?dateUpdated=1658219698000",
+  "bio": {
+   "de": "Punzmann (Christoph Punzmann) ist ein in Deutschland geborener Komponist, Performer, Multiinstrumentalist und Produzent mit peruanischen Wurzeln. Seine Arbeiten reichen von Stereo- und Mehrkanal-Live-Performances über Guzheng bis zu klassischer Instrumentalmusik und nutzen Field Recordings sowie analoge und digitale Synthese. Auf dem Wiener Label Superego Records erschienen das Album „Hoquetus“ (2023) und die Doppelsingle „Chaski / Ananay“ (2026).",
+   "en": "Punzmann (Christoph Punzmann) is a German-born composer, performer, multi-instrumentalist and producer with Peruvian roots. His work ranges from stereo and multichannel live performances to guzheng and classical instrumental music, drawing on field recordings and analogue and digital synthesis. The Viennese label Superego Records released his album 'Hoquetus' (2023) and the double single 'Chaski / Ananay' (2026)."
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "real": "Christoph Punzmann",
+  "links": {
+   "ra": "https://ra.co/dj/punzmann",
+   "ig": "https://www.instagram.com/punzmann_/",
+   "bc": "https://punzmann.bandcamp.com",
+   "web": "https://www.punzmann.com"
+  },
+  "labels": [
+   "Superego Records"
+  ],
+  "genres": [
+   "Experimental",
+   "Electroacoustic"
+  ],
+  "src": [
+   "https://ra.co/dj/punzmann",
+   "https://www.superego-records.com/artist-punzmann.html",
+   "https://www.superego-records.com/kopie-von-punzmann-1"
+  ]
  },
  "Nava Hemyari": {
   "noImg": "2026-11-02",
@@ -10319,8 +10493,25 @@ const AR={
  },
  "PartyPauli": {
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "bio": {
+   "de": "PartyPauli legt in der Wiener Clubszene auf, u. a. bei Achterbahn (f2f mit DJ SUSI) im PRST und beim MUSCHI ISST WURST Festival. Auf SoundCloud veröffentlicht PartyPauli eigene Edits, etwa Baile-, Summer-Trance- und Donk-Versionen bekannter Tracks.",
+   "en": "PartyPauli plays in Vienna's club scene, including Achterbahn (f2f with DJ SUSI) at PRST and the MUSCHI ISST WURST festival. On SoundCloud, PartyPauli releases their own edits, such as baile, summer-trance and donk versions of well-known tracks."
+  },
+  "links": {
+   "sc": "https://soundcloud.com/user-199275066",
+   "ig": "https://www.instagram.com/partypaulii/"
+  },
+  "src": [
+   "https://ra.co/events/2359494",
+   "https://ra.co/events/2411670",
+   "https://ra.co/events/2249727",
+   "https://soundcloud.com/user-199275066/undressed-sombr-summer-trance-edit",
+   "https://soundcloud.com/user-199275066/break-it-off-pinkpantheress",
+   "https://soundcloud.com/user-199275066/shake-it-to-the-max-donk-remix",
+   "https://www.instagram.com/partypaulii/"
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Voltmarie": {
   "noImg": "2026-11-02",
@@ -10366,8 +10557,24 @@ const AR={
  },
  "Pezo Fox": {
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/pezofox"
+  },
+  "sets": [
+   {
+    "t": "Pezo Steelo 2022-01-24",
+    "u": "https://soundcloud.com/pezofox/pezo_steelo_24jan2022"
+   },
+   {
+    "t": "MQ Weekendsounds 2014-08-17",
+    "u": "https://soundcloud.com/pezofox/mq-weekendsounds-2014-08-17"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/pezofox"
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Mantis": {
   "noImg": "2026-11-02",
@@ -10766,10 +10973,22 @@ const AR={
    "sc": "https://soundcloud.com/radze"
   },
   "src": [
-   "https://soundcloud.com/radze"
+   "https://soundcloud.com/radze",
+   "https://soundcloud.com/radze/the-end-liveset-2019-acid-vs-tekno"
   ],
   "noImg": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "genres": [
+   "Acid",
+   "Tekno"
+  ],
+  "sets": [
+   {
+    "t": "The END Liveset 2019 – Acid vs Tekno",
+    "u": "https://soundcloud.com/radze/the-end-liveset-2019-acid-vs-tekno"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Toge": {
   "noImg": "2026-11-02",
@@ -10867,7 +11086,8 @@ const AR={
    "https://soundcloud.com/para2p3ctrum"
   ],
   "noImg": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "setsChecked": "2026-11-02"
  },
  "Louisa India": {
   "from": {
@@ -13296,8 +13516,535 @@ const AR={
    "https://soundcloud.com/chiara_allnutt"
   ],
   "infoChk": "2026-11-02"
+ },
+ "Patrik Pagan": {
+  "img": "https://static.ra.co/images/profiles/square/patrikpagan.jpg?dateUpdated=1718637639000",
+  "bio": {
+   "de": "Patrik Pagan ist ein in Wien ansässiger Techno-DJ mit einer Vorliebe für dunkle, treibende Sounds. Er ist Resident der Wiener Reihe Spectral und spielte u. a. im FLUCC, im Kramladen, in der Pratersauna und im Werk.",
+   "en": "Patrik Pagan is a Vienna-based techno DJ with a passion for dark and driving sounds. He is a resident of the Viennese series Spectral and has played venues such as FLUCC, Kramladen, Pratersauna and Das Werk."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "links": {
+   "ra": "https://ra.co/dj/patrikpagan",
+   "sc": "https://soundcloud.com/patrikpagan",
+   "ig": "https://www.instagram.com/patrik_pagan"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "Loft Closing – 23.02.2024",
+    "u": "https://soundcloud.com/patrikpagan/loft-closing-23022024"
+   },
+   {
+    "t": "Otto Wagina b2b Patrik Pagan @ Flucc",
+    "u": "https://soundcloud.com/patrikpagan/ab3b3ea7-89f1-41ed-8aff-1b0ff1c4fa69"
+   }
+  ],
+  "src": [
+   "https://pl.ra.co/dj/patrikpagan",
+   "https://pl.ra.co/events/2059567",
+   "https://soundcloud.com/patrikpagan"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Relinquo": {
+  "img": "https://static.ra.co/images/profiles/square/relinquo.jpg?dateUpdated=1782726657707",
+  "bio": {
+   "de": "Relinquo ist ein Wiener Producer und DJ, der seinen Stil „Cinematic Peak Time Techno“ nennt: filmisches Sounddesign trifft auf treibende Techno-Drums und Basslines. Seine Wurzeln liegen auch in Drum & Bass, Punk und Post-Hardcore. Er veröffentlichte u. a. auf Pentaphonia, Animarum, OFF Recordings, Reload und IAMT und war Resident in mehreren Wiener Clubs.",
+   "en": "Relinquo is a Viennese producer and DJ who calls his style 'Cinematic Peak Time Techno', combining cinematic sound design with driving techno drums and basslines. His background also includes drum & bass, punk and post-hardcore. He has released on labels such as Pentaphonia, Animarum, OFF Recordings, Reload and IAMT and has held residencies at several Vienna clubs."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "links": {
+   "ra": "https://ra.co/dj/relinquo",
+   "sc": "https://soundcloud.com/relinquo",
+   "ig": "https://www.instagram.com/relinquobeats"
+  },
+  "labels": [
+   "Pentaphonia",
+   "Animarum Recordings",
+   "OFF Recordings",
+   "Reload Records",
+   "IAMT",
+   "Renesanz",
+   "Xperiment Records",
+   "Loading Systems Records",
+   "Hyggelit Records"
+  ],
+  "genres": [
+   "Techno",
+   "Peak Time Techno"
+  ],
+  "sets": [
+   {
+    "t": "Vespera 2 (Peak Time Techno Mix)",
+    "u": "https://soundcloud.com/relinquo/relinquo-end-of-summer-2023"
+   },
+   {
+    "t": "Cinematic Techno Mix I",
+    "u": "https://soundcloud.com/relinquo/cinematic-techno-mix"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/relinquo",
+   "https://ra.co/dj/relinquo/biography",
+   "https://volumo.com/artist/548209-relinquo"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Paul Panther": {
+  "img": "https://static.ra.co/images/profiles/square/paulpanther.jpg?dateUpdated=1662479768000",
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "real": "Paul Angerer",
+  "links": {
+   "ra": "https://ra.co/dj/paulpanther",
+   "ig": "https://www.instagram.com/paulangerer/"
+  },
+  "src": [
+   "https://de.ra.co/dj/paulpanther"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Philipp Blecha": {
+  "img": "https://static.ra.co/images/profiles/philippblecha.jpg?dateUpdated=1457006057603",
+  "bio": {
+   "de": "Philipp Blecha alias Dadajack ist ein österreichischer DJ und Producer zwischen Techno, Acid, Minimal und House, geprägt von Detroit Techno sowie Chicago und Acid House der 1990er. Er legt seit 1998 auf, produziert seit 2007 (u. a. als Herbst & Blecha) und ist seit 2013 Teil des Labels imola-music. 2002 gründete er die Reihe Movimiento mit, die heute Club Pompadour heißt; 2014–2016 war er Resident in der Pratersauna.",
+   "en": "Philipp Blecha aka Dadajack is an Austrian DJ and producer working across techno, acid, minimal and house, rooted in 1990s Detroit techno and Chicago and acid house. He has DJed since 1998, produced since 2007 (including as Herbst & Blecha) and joined the imola-music roster in 2013. In 2002 he co-founded the Movimiento series, now known as Club Pompadour, and was resident at Pratersauna from 2014 to 2016."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "links": {
+   "ra": "https://ra.co/dj/philippblecha",
+   "sc": "https://soundcloud.com/philblecha_dadajack",
+   "ig": "https://www.instagram.com/philblecha_dadajack",
+   "web": "https://philippblecha.com"
+  },
+  "labels": [
+   "imola-music",
+   "NB Records",
+   "Youngsociety"
+  ],
+  "genres": [
+   "Techno",
+   "Acid",
+   "Minimal",
+   "House"
+  ],
+  "sets": [
+   {
+    "t": "Philipp Blecha @ Club Pompadour / Sass Music Club 12.01.2024",
+    "u": "https://soundcloud.com/philblecha_dadajack/philipp-blecha-club-pompadour-sass-music-club-12012024"
+   },
+   {
+    "t": "Flashback MayDay Rave / Grelle Forelle / 30.04.19 – Oldschool-Set",
+    "u": "https://soundcloud.com/philblecha_dadajack/flashback-300419-grelleforelle"
+   },
+   {
+    "t": "Philipp Blecha @ Prater Unser Festival 2014 Opening Day 2",
+    "u": "https://soundcloud.com/philblecha_dadajack/philipp_blecha"
+   }
+  ],
+  "alias": ["Dadajack"],
+  "src": [
+   "https://ra.co/dj/philippblecha",
+   "https://ra.co/dj/philippblecha/biography"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Randalia": {
+  "img": "https://static.ra.co/images/profiles/square/randalia.jpg?dateUpdated=1723474432000",
+  "bio": {
+   "de": "Randalia ist eine DJ aus Wien und in der Wiener Musikszene aktiv. Ihre Sets verbinden Progressive House, Psytrance, Breakbeat, Electro und Trance mit Einflüssen aus den späten 90ern und frühen 2000ern und reichen von schweren Basslines bis zu verträumten Melodien.",
+   "en": "Randalia is a DJ from Vienna who is active in the Viennese music scene. Her sets blend progressive house, psytrance, breakbeat, electro and trance with influences from the late '90s and early 2000s, ranging from heavy basslines to dreamy melodies."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "links": {
+   "ra": "https://ra.co/dj/randalia"
+  },
+  "genres": [
+   "Progressive House",
+   "Psytrance",
+   "Breakbeat",
+   "Electro",
+   "Trance"
+  ],
+  "src": [
+   "https://ra.co/dj/randalia/biography",
+   "https://ra.co/events/2199660",
+   "https://ra.co/events/2500898"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Qamareen": {
+  "img": "https://static.ra.co/images/profiles/square/qamareen.jpg?dateUpdated=1718977105000",
+  "bio": {
+   "de": "Qamareen (Luna Al-Mousli) ist eine Wiener DJ und Gründerin der Partyreihe Raqsouna, die Partykultur neu denken und neue Räume zum Tanzen schaffen will. In ihren Sets spielt sie SWANA-Sounds und verbindet Pop, Indie und elektronische Beats, wobei Lyrics neben der Melodie eine zentrale Rolle spielen.",
+   "en": "Qamareen (Luna Al-Mousli) is a Vienna-based DJ and founder of the Raqsouna party series, which aims to rethink party culture and create new spaces for dancing. Her sets feature SWANA sounds blending pop, indie and electronic beats, with lyrics playing as central a role as melody."
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "real": "Luna Al-Mousli",
+  "links": {
+   "ra": "https://ra.co/dj/qamareen",
+   "sc": "https://soundcloud.com/luna-al-mousli"
+  },
+  "genres": [
+   "SWANA",
+   "Pop",
+   "Indie",
+   "Electronic"
+  ],
+  "src": [
+   "https://ra.co/dj/qamareen",
+   "https://ra.co/dj/qamareen/biography",
+   "https://www.mdw.ac.at/musicandminorities/symposium2026/programme/closing-party-at-brunnenpassage/"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Nick Hanzo": {
+  "img": "https://f4.bcbits.com/img/0010041718_23.jpg",
+  "bio": {
+   "de": "Nick Hanzo ist ein in Wien ansässiger Producer und DJ, der 2016 seinen Bürojob aufgab, um sich ganz der Musik zu widmen. Er betreibt das Label Belly Dance Services mit, bildet mit Yaman das Duo Hanzo & Yaman und veröffentlichte u. a. auf Bonkers Music die „Frequent Habits“-EP. Seine Sets und Produktionen liefen auf FM4, etwa in La Boum de Luxe.",
+   "en": "Nick Hanzo is a Vienna-based producer and DJ who left his office job in 2016 to focus fully on music. He co-runs the label Belly Dance Services, forms the duo Hanzo & Yaman with Yaman, and has released on Bonkers Music, among others the 'Frequent Habits' EP. His sets and productions have been played on FM4, for example on La Boum de Luxe."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "links": {
+   "sc": "https://soundcloud.com/nickhanzo",
+   "bc": "https://nickhanzo.bandcamp.com/",
+   "web": "https://www.nickhanzo.com"
+  },
+  "labels": [
+   "Belly Dance Services",
+   "Bonkers Music"
+  ],
+  "sets": [
+   {
+    "t": "Electric Shapes 203 – Nick Hanzo",
+    "u": "https://soundcloud.com/electric_shapes/203nick-hanzo"
+   },
+   {
+    "t": "TB Podcast #15 – Nick Hanzo (Tellerbetrieb)",
+    "u": "https://www.mixcloud.com/Tellerbetrieb/tb-podcast-15-nick-hanzo/"
+   },
+   {
+    "t": "FM4 La Boum De Luxe – Hanzo's Summer Mix (2018)",
+    "u": "https://soundcloud.com/nickhanzo/sommermix2018"
+   }
+  ],
+  "src": [
+   "https://jericho.orf.at/soundpark/n/nickhanzo/main",
+   "https://nickhanzo.bandcamp.com/",
+   "https://bonkers.bandcamp.com/album/frequent-habits",
+   "https://soundcloud.com/nickhanzo"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Nasty": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "NoNameLeft": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Nya Nyx": {
+  "img": "https://static.ra.co/images/profiles/square/nyanyx.jpg?dateUpdated=1686044690000",
+  "bio": {
+   "de": "Nya Nyx ist eine österreichische DJ, die ihren Sound auf RA als „dark, psychedelic and just the right amount of crazy“ beschreibt. Sie spielt vor allem in Wien, etwa in der FLUCC Wanne, und stand bei einer Vision-Serpent-Labelnacht in Budapest im Lineup. Gastmixe lieferte sie u. a. für den Tiefdruck Podcast und die Techgnosis Sessions.",
+   "en": "Nya Nyx is an Austrian DJ who describes her sound on RA as 'dark, psychedelic and just the right amount of crazy'. She mostly plays in Vienna, for example at FLUCC Wanne, and was on the lineup of a Vision Serpent label night in Budapest. She has recorded guest mixes for the Tiefdruck Podcast and Techgnosis Sessions, among others."
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "links": {
+   "ra": "https://ra.co/dj/nyanyx",
+   "sc": "https://soundcloud.com/nya_nyx",
+   "ig": "https://www.instagram.com/nya.nyx_music"
+  },
+  "genres": [
+   "Techno",
+   "Psytech"
+  ],
+  "sets": [
+   {
+    "t": "Nya Nyx am Sturmdeck @ Schall & Rauch 25 (unlock|me)",
+    "u": "https://soundcloud.com/unlock_me/nya-nyx-am-sturmdeck-schall-rauch-25"
+   },
+   {
+    "t": "Tiefdruck Podcast #130",
+    "u": "https://soundcloud.com/tiefdrucksalzburgszg2020/nyanyx-tiefdruck-podcast-130"
+   },
+   {
+    "t": "Techgnosis Sessions 086 – Nya Nyx [AUT]",
+    "u": "https://soundcloud.com/techgnosis-records/techgnosis-sessions-nya-nyx"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/nyanyx",
+   "https://ra.co/events/2252547",
+   "https://soundcloud.com/nya_nyx"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Paris Böhm": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Noemi Universe": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "OK CUTEE": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Paul Galbur": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Romanova": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "_ra_di_aa_ti_on_": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Nysos": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Nova.psd": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "neomodern": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Ruben de Ronde": {
+  "img": "https://static.ra.co/images/profiles/square/rubenderonde.jpg?dateUpdated=1778148207227",
+  "bio": {
+   "de": "Ruben de Ronde ist ein niederländischer DJ, Produzent und Radiomoderator aus dem Progressive- und Trance-Bereich und Labelbetreiber im Umfeld von Statement! Music. Er tourt mit A State of Trance; sein Remix von Above & Beyonds „Can't Sleep“ (mit Elevven, 2022) stand drei Wochen auf Platz 1 bei Beatport.",
+   "en": "Ruben de Ronde is a Dutch DJ, producer and radio host working in progressive and trance, and a label owner associated with Statement! Music. He tours with A State of Trance; his 2022 remix of Above & Beyond's 'Can't Sleep' (with Elevven) held the Beatport #1 spot for three weeks."
+  },
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "links": {
+   "ra": "https://ra.co/dj/rubenderonde",
+   "sc": "https://soundcloud.com/rubenderonde"
+  },
+  "labels": [
+   "Statement! Music"
+  ],
+  "genres": [
+   "Trance",
+   "Progressive"
+  ],
+  "src": [
+   "https://ra.co/dj/rubenderonde",
+   "https://nl.ra.co/dj/rubenderonde/biography"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Rokis": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Rosi": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Rosa Nebel": {
+  "img": "https://f4.bcbits.com/img/0031729466_10.jpg",
+  "bio": {
+   "de": "Rosa Nebel ist ein Live-Act aus Wien. Auf Bandcamp erschienen u. a. „Morbid Self-Attention“ (auch über Tutamen), „08_20“ und „Pseudofreiheit der Beliebigkeit“ sowie eine Split-EP auf Lux Rec.",
+   "en": "Rosa Nebel is a live act from Vienna. Releases on Bandcamp include 'Morbid Self-Attention' (also via Tutamen), '08_20' and 'Pseudofreiheit der Beliebigkeit', plus a split EP on Lux Rec."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "links": {
+   "bc": "https://rosanebel.bandcamp.com/",
+   "sc": "https://soundcloud.com/rosanebel",
+   "ig": "https://www.instagram.com/rosanebelvie/"
+  },
+  "src": [
+   "https://rosanebel.bandcamp.com/",
+   "https://tutamen.bandcamp.com/album/morbid-self-attention",
+   "https://luxrec.bandcamp.com/album/split-ep"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Primate": {
+  "bio": {
+   "de": "Primate ist ein Drum-&-Bass-Producer und DJ aus Gent (Belgien), der laut seiner Agentur 2018 seine erste Drum-&-Bass-Show spielte. Bekannt wurde er mit kreischenden Bässen und harten Drums; inzwischen bewegt sich sein Sound zu melodischeren, technischeren Tracks mit rauer Kante. 2025 erschien die Single „About Us“.",
+   "en": "Primate is a drum & bass producer and DJ from Ghent, Belgium, who according to his agency played his first drum & bass show in 2018. He became known for screechy basses and hard-hitting drums, and his sound has since shifted towards more melodic, technical tracks with a gritty edge. In 2025 he released the single 'About Us'."
+  },
+  "from": {
+   "de": "Gent, Belgien",
+   "en": "Ghent, Belgium"
+  },
+  "real": "Marcel Matheussen",
+  "links": {
+   "sc": "https://soundcloud.com/absoluteprimate",
+   "sp": "https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU",
+   "ig": "https://www.instagram.com/itsprimate/"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "src": [
+   "https://www.mbartists.co.uk/artists/primate",
+   "https://www.c-heads.com/2025/09/26/behind-the-beats-primate-on-live-energy-growth-and-the-story-of-about-us/"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
+ },
+ "Replic": {
+  "img": "https://static.ra.co/images/profiles/replic.jpg?dateUpdated=1321611783000",
+  "bio": {
+   "de": "Drum-&-Bass-DJ, der regelmäßig bei der Reihe Switch! im Flex in Wien auflegt, u. a. bei „10 Years of Switch!“, beim „Switch! Birthday Bash“ und an der Seite von Alcemist & Teddy Killerz.",
+   "en": "Drum & bass DJ who plays regularly at the Switch! series at Flex in Vienna, including \"10 Years of Switch!\", the \"Switch! Birthday Bash\" and alongside Alcemist & Teddy Killerz."
+  },
+  "real": "Alex Mohebbi",
+  "links": {
+   "ra": "https://ra.co/dj/replic",
+   "sc": "https://soundcloud.com/replic"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "src": [
+   "https://ra.co/dj/replic"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "PJPJPJ": {
+  "img": "https://static.ra.co/images/profiles/square/pjpjpj.jpg?dateUpdated=1727797306000",
+  "bio": {
+   "de": "PJPJPJ ist Plattensammler und Produzent, der seit 2013 Platten gräbt und regelmäßig in Wien und Leipzig auflegt. Seine Sets reichen von trippigem Acid über Italo-Breaks bis zu euphorischem Progressive House. Er war u. a. bei Callshop Radio zu Gast und veröffentlichte auf Metro Drive.",
+   "en": "PJPJPJ is a record collector and producer who has been digging for records since 2013 and plays regularly in Vienna and Leipzig. His sets range from trippy acid and Italo breaks to uplifting progressive house. He has guested on Callshop Radio and released on Metro Drive."
+  },
+  "links": {
+   "ra": "https://ra.co/dj/pjpjpj",
+   "sc": "https://soundcloud.com/pjnm"
+  },
+  "labels": [
+   "Metro Drive"
+  ],
+  "genres": [
+   "Acid",
+   "Italo",
+   "Progressive House"
+  ],
+  "sets": [
+   {
+    "t": "PJPJPJ @ AMUSE Festival 2025",
+    "u": "https://soundcloud.com/pjnm/pj-amuse-festival-2025"
+   },
+   {
+    "t": "bin aural #10 w/ PJPJPJ 16.04.24 (Callshop Radio)",
+    "u": "https://soundcloud.com/callshopradio/bin-aural-10-w-pjpjpj-160424"
+   },
+   {
+    "t": "Magic Water Records invites: PJ.nm (Radioshow 28|06|23)",
+    "u": "https://soundcloud.com/magic-water-records/magic-water-records-invites-pjnm-radioshow-280623"
+   }
+  ],
+  "alias": ["Aerodynamic Boy", "PJ.nm"],
+  "src": [
+   "https://de.ra.co/dj/pjpjpj",
+   "https://de.ra.co/dj/pjpjpj/biography",
+   "https://soundcloud.com/pjnm"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Psynonima": {
+  "bio": {
+   "de": "Djane Psynonima ist eine DJ aus dem Hi-Tech-Psytrance-Bereich. Sie hat u. a. Sets für Radio Zora (World People Productions Series) und Trance México gespielt und die Compilation „Mystic Spiral“ zusammengestellt.",
+   "en": "Djane Psynonima is a hi-tech psytrance DJ. She has recorded sets for Radio Zora (World People Productions series) and Trance México and compiled the compilation 'Mystic Spiral'."
+  },
+  "links": {
+   "sc": "https://soundcloud.com/psynonima",
+   "ig": "https://www.instagram.com/djane_psynonima/"
+  },
+  "genres": [
+   "Hi-Tech Psytrance"
+  ],
+  "sets": [
+   {
+    "t": "Pakawalla Hitech DJ-Set",
+    "u": "https://soundcloud.com/psynonima/pakawalla-hitech-djset-psynonima"
+   },
+   {
+    "t": "Djane Psynonima – Set #351 für Trance México",
+    "u": "https://soundcloud.com/trance-mexico/djane-psynonima-set-351-exclusivo-para-trance-mexico"
+   },
+   {
+    "t": "Psynonima – World People Productions Series Vol. 6 (Radio Zora, 22.05.2019)",
+    "u": "https://soundcloud.com/radiozora/psynonima-world-people-productions-series-vol-6-22052019"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/psynonima",
+   "https://www.instagram.com/djane_psynonima/",
+   "https://soundcloud.com/psynonima/sets/mystic-spiral-compiled-by-djane-psynonima"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
  }
 };
+
 const VG={
  "Event Arena Vösendorf": [
   48.123,
