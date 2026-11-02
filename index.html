@@ -785,6 +785,17 @@ footer a:hover{color:var(--accent)}
 .row.tk>.cflags .flag .ico svg{display:block;margin:0 auto}
 .row.tk>.cflags .flag svg{width:16px;height:16px}
 .row.tk>.cflags .flag .ico.lg{width:16px;min-width:16px;height:12px}
+
+/* Mobile Listen Artists/Veranstalter/Locations: wie die Event-Liste – Genres, Location und Veranstalter ohne Rahmen */
+@container out (max-width:759px){
+  .row.xr .gcl{border:0;background:none;letter-spacing:.06em;font-size:12px;color:var(--mute)}
+  .row.xr .gcl b{padding:0 5px 0 0}
+  .row.xr .gcl span,.row.xr .gcl button{border:0;padding:0}
+  .row.xr .gcl>:not(b):not(:last-child)::after{content:"·";display:inline-block;margin:0 6px;color:#5a616d;text-decoration:none}
+  .row.xr .gcl span.on{background:none;color:var(--fg);text-decoration:underline}
+  .row.xr .tag.ve,.row.xr .tag.co{border:0;background:none;padding:0;border-radius:0;text-transform:none;letter-spacing:0;font-family:Barlow,var(--f-body,sans-serif);font-weight:600;font-size:13.5px;line-height:1.3;white-space:normal}
+  .row.xr .tag.ve.on,.row.xr .tag.co.on{background:none;text-decoration:underline;text-underline-offset:3px}.row.xr .tag.co.on{color:var(--c-col)}
+}
 </style>
 
 <header class="top">
