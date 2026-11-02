@@ -812,7 +812,9 @@ function vkey(v){return v.replace(/ (Wanne|Deck)$/,"")}
 const nm=a=>a.includes("|")?a.split("|")[1]:a;
 const splitA=n=>String(n==null?"":n).split(/\s+b2b\s+/i).map(x=>x.trim()).filter(Boolean);
 // Erstes hinterlegtes Set eines Artists (SoundCloud/Mixcloud) für den Play-Knopf im Lineup
-const firstSet=n=>{const a=ARK[akey(n)];const s=a&&(a.sets||[]).find(x=>x&&/soundcloud\.com|mixcloud\.com/.test(x.u||""));return s||null};
+// Fallback wie im Artist-Profil: SoundCloud- bzw. Mixcloud-Profil (spielt die neuesten Tracks & Sets)
+const firstSet=n=>{const a=ARK[akey(n)];if(!a)return null;const ok=u=>/soundcloud\.com|mixcloud\.com/.test(u||"");const s=(a.sets||[]).find(x=>x&&ok(x.u));if(s)return s;
+  const lk=a.links||{};if(ok(lk.sc))return {u:lk.sc,t:L().latestSC};if(ok(lk.mc))return {u:lk.mc,t:L().latestMC};return null};
 const ICPLAY=`<svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="8.6" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M8 6.4v7.2l6-3.6z" fill="currentColor"/></svg>`;
 const aplay=(c,P)=>{if(!P||typeof EMBED==="undefined"||!EMBED)return "";const s=firstSet(c);if(!s)return "";const t=s.t||"Set";
   return `<button type="button" class="aplay${DOCK.u===s.u?" on":""}" data-play="${esc(su(s.u))}" data-pt="${esc(fold(t).includes(fold(c))?t:c+" – "+t)}" title="${esc(L().listenS+": "+t)}" aria-label="${esc(L().listenS+": "+c)}">${ICPLAY}</button>`};
