@@ -493,6 +493,16 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
 #out{container-type:inline-size;container-name:out}
 .thead{display:none}
 .row.tk>.cflags{display:none}
+/* Detailkarten: Location, Veranstalter und Genres ohne Rahmen */
+.deck .tag.ve,.deck .tag.co{border:0;background:none;padding:0;border-radius:0;text-transform:none;letter-spacing:0;font-family:Barlow,var(--f-body,sans-serif);font-weight:600;font-size:15px;line-height:1.3;white-space:normal}
+.deck .tags:has(>.tag.ve),.deck .tags:has(>.tag.co){gap:3px 16px}
+.deck .tag.ve.on,.deck .tag.co.on{background:none;text-decoration:underline;text-underline-offset:3px}.deck .tag.co.on{color:var(--c-col)}.deck .tag.co.on .ii{color:var(--c-col)}
+.deck .tag.ve:hover,.deck .tag.co:hover{text-decoration:underline;text-underline-offset:3px}
+.deck .gcl{border:0;background:none;color:var(--mute);font-size:12.5px}
+.deck .gcl b{padding:0 6px 0 0}
+.deck .gcl button,.deck .gcl span{border:0;padding:0}
+.deck .gcl button:hover{background:none;color:var(--fg);text-decoration:underline}
+.deck .gcl>:not(b):not(:last-child)::after{content:"·";display:inline-block;margin:0 7px;color:#5a616d;text-decoration:none}
 /* Mobile Liste: Location und Veranstalter ohne Rahmen, als farbiger Text */
 @container out (max-width:759px){
   .row.tk .vtags{display:flex;flex-wrap:wrap;gap:2px 14px;margin:1px 0}
@@ -504,7 +514,7 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
   .row.tk .gcl{border:0;background:none;letter-spacing:.06em;font-size:12px;color:var(--mute)}
   .row.tk .gcl b{padding:0 5px 0 0}
   .row.tk .gcl span{border:0;padding:0}
-  .row.tk .gcl span:not(:last-child)::after{content:"·";margin:0 6px;color:#5a616d}
+  .row.tk .gcl span:not(:last-child)::after{content:"·";display:inline-block;margin:0 6px;color:#5a616d;text-decoration:none}
   .row.tk .gcl span.on{background:none;color:var(--fg);text-decoration:underline}
   /* Vibe-Symbole links unter dem Cover, am unteren Rand */
   .row.tk>.cflags{display:none}
