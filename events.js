@@ -598,9 +598,16 @@ const CG={
   "Bounce",
   "Hard Bounce",
   "Hard Techno"
+ ],
+ "Frieden & Liebe": [
+  "House"
+ ],
+ "Ninecircles": [
+  "Techno",
+  "Industrial"
  ]
 };
-const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Bassbussi","Bassclub","Bassproduction","Belly Dance Services","Bestand","Bonkers","Café Mondo","Callshop Radio","Cardio Cult","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Derisch","Drum & Bassick","Dunkelton Kollektiv","Dystopia Rave","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Fish Market","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","House of Plüsch","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Vienna","Ravenbogen","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spectral","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Super Disco","Superego Records","Switch!","Synergy","Taktgefühl","Tanz dich glücklich","Tasteless","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","Wreck","YE","Zuckerwatt","Zyklop Audio"];
+const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Bassbussi","Bassclub","Bassproduction","Belly Dance Services","Bestand","Bonkers","Café Mondo","Callshop Radio","Cardio Cult","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Derisch","Drum & Bassick","Dunkelton Kollektiv","Dystopia Rave","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Fish Market","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","High Voltage Fairies","House of Plüsch","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Vienna","Ravenbogen","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spectral","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Super Disco","Superego Records","Switch!","Synergy","Taktgefühl","Tanz dich glücklich","Tasteless","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","Wreck","YE","Zuckerwatt","Zyklop Audio"];
 const CI={
  "303": {
   "noLogo": "2026-10-31",
@@ -1089,7 +1096,9 @@ const CI={
  "Selected": {
   "src": [
    "https://ohschonhell.at/orte/grelle+forelle/3"
-  ]
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Achterbahn": {
   "de": "Reihe von Anna Ullrich im PRST.",
@@ -2188,10 +2197,86 @@ const CI={
   ],
   "noLogo": "2026-11-02",
   "infoChk": "2026-11-02"
+ },
+ "Flashback": {
+  "de": "Partyreihe mit Techno-Klassikern („Techno Classics“) in der Grellen Forelle, u. a. mit Sommer-Ausgaben.",
+  "en": "Party series dedicated to techno classics at Grelle Forelle, including summer editions.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "src": [
+   "https://www.regioactive.de/party/flashback-techno-classics-summer-edition-grelle-forelle-vienna-wien-2026-08-29-Qqy0cZsYRy"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "FactX": {
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Frieden & Liebe": {
+  "de": "Wiener Kollektiv hinter der Reihe VIVID im SASS Music Club, die für eklektischen, genreübergreifenden House steht.",
+  "en": "Vienna collective behind the VIVID series at SASS Music Club, standing for eclectic, genre-crossing house.",
+  "type": [
+   "Kollektiv"
+  ],
+  "from": "Wien",
+  "ig": "https://www.instagram.com/friedenundliebe.vienna",
+  "series": [
+   "Vivid"
+  ],
+  "src": [
+   "https://sassvienna.com/de/programm/event/vivid-w-frieden-liebe"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "High Voltage Fairies": {
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Ninecircles": {
+  "de": "Partyreihe für Techno und Industrial im Werk – „ein kompromissloser Trip in den Underground“.",
+  "en": "Techno and industrial party series at Das Werk – “an uncompromising trip into the underground”.",
+  "alias": ["Nine Circles"],
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "src": [
+   "https://ra.co/events/2473498"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Switch!": {
+  "de": "Drum-&-Bass-Veranstalter, der internationale Acts ins Flex holt (z. B. Subsonic Frequencies × MAZE, Primate).",
+  "en": "Drum & bass promoter bringing international acts to Flex (e.g. Subsonic Frequencies × MAZE, Primate).",
+  "from": "Wien",
+  "tix": "https://switch.ticket.io/",
+  "src": [
+   "https://ra.co/events/2340564"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Cardio Cult": {
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
  }
 };
 const VI={
- "Coco Bar": {"de":"Bar in den Stadtbahnbögen am Lerchenfelder Gürtel mit gelegentlichen DJ- und Listening-Abenden.","en":"Bar in the railway arches on Lerchenfelder Gürtel with occasional DJ and listening nights.","io":["Indoor"],"src":["https://ra.co/events/2573316"]},
+ "Coco Bar": {
+  "de": "Bar in den Stadtbahnbögen am Lerchenfelder Gürtel mit gelegentlichen DJ- und Listening-Abenden.",
+  "en": "Bar in the railway arches on Lerchenfelder Gürtel with occasional DJ and listening nights.",
+  "io": [
+   "Indoor"
+  ],
+  "src": [
+   "https://ra.co/events/2573316"
+  ]
+ },
  "Wiener Würstelstand Spittelau": {
   "de": "Würstelstand von Mike Lanner und Sengl bei der U-Bahn-Station Spittelau mit modernen Hot Dogs, Fassbier und Garten; gelegentlich legen hier DJs auf.",
   "en": "Sausage stand by Mike Lanner and Sengl at the Spittelau underground station, serving modern hot dogs and draught beer, with a garden; DJs play here occasionally.",
@@ -2412,7 +2497,8 @@ const VI={
   "logo": "https://weberknecht.at/wp-content/uploads/2018/06/cropped-grunge-plus-1-270x270.png",
   "io": [
    "Indoor"
-  ]
+  ],
+  "infoChk": "2026-11-02"
  },
  "Tagada": {
   "src": [
@@ -2750,22 +2836,51 @@ const VI={
    "Ground Zero",
    "The Tunnel",
    "Machine Room"
-  ]
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "M1 Club": {
   "io": [
    "Indoor"
-  ]
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "B72": {
   "io": [
    "Indoor"
-  ]
+  ],
+  "de": "Zweistöckiger Club und Live-Musik-Ort in zwei U-Bahn-Bögen am Hernalser Gürtel nahe der U6-Station Alser Straße – Schwerpunkt gitarrenlastige Alternative-Musik mit Konzerten, Clubnächten und DJ-Abenden; im Sommer mit Gastgarten.",
+  "en": "Two-storey club and live music venue in two U-Bahn arches on Hernalser Gürtel near U6 Alser Straße – focusing on guitar-based alternative music with concerts, club nights and DJ evenings; with a garden in summer.",
+  "web": "https://www.b72.at",
+  "src": [
+   "https://www.wien.info/en/dine-drink/bars-clubs/live-locations/b72-340090"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Metastadt": {
   "io": [
    "Indoor"
-  ]
+  ],
+  "de": "Multifunktionale Eventlocation in den revitalisierten ehemaligen ELIN-Werken in der Donaustadt, mit mehreren Hallen auf rund 14.500 m² und Außenflächen für bis zu 5.000 Gäste.",
+  "en": "Multifunctional event venue in the revitalised former ELIN factories in Donaustadt, with several halls across about 14,500 m² plus outdoor areas for up to 5,000 guests.",
+  "web": "https://www.metastadt.at/",
+  "floors": [
+   "METAHall",
+   "METAArt 1",
+   "METAArt 2",
+   "METACube",
+   "WAGENWerk",
+   "KESSELHaus",
+   "KESSELBar"
+  ],
+  "src": [
+   "https://meeting.vienna.info/en/event-planning/venue-finder/metastadt-congress-326114"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Prater (Calafatiplatz)": {
   "io": [
@@ -2776,7 +2891,14 @@ const VI={
   "io": [
    "Indoor",
    "Outdoor"
-  ]
+  ],
+  "de": "Weitläufiges Areal mit Grünflächen und historischen Pavillons auf der Baumgartner Höhe im 14. Bezirk; seit 2025 in Zwischennutzung durch Kreative und Kulturvereine und ein beliebter Veranstaltungsort.",
+  "en": "Extensive site with green spaces and historic pavilions on the Baumgartner Höhe in Vienna's 14th district; since 2025 in interim use by creatives and cultural associations and a popular event location.",
+  "src": [
+   "https://www.1000thingsmagazine.com/de/a/2159363/otto-wagner-areal-wien-zwischennutzung/"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Loop": {
   "src": [
@@ -4858,12 +4980,25 @@ const AR={
  "Vivienna": {
   "links": {
    "sc": "https://soundcloud.com/t2vM8zxuw47WrxBBA",
-   "ig": "https://www.instagram.com/viviennepohl"
+   "ig": "https://www.instagram.com/viviennepohl",
+   "ra": "https://ra.co/dj/vivienna"
   },
   "src": [
-   "https://it.ra.co/dj/vivienna"
+   "https://it.ra.co/dj/vivienna",
+   "https://es.ra.co/dj/vivienna"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "from": {
+   "de": "Geboren in Deutschland, lebt in Wien",
+   "en": "Born in Germany, based in Vienna"
+  },
+  "real": "Vivienne",
+  "img": "https://static.ra.co/images/profiles/square/vivienna.jpg?dateUpdated=1786223820637",
+  "bio": {
+   "de": "Vivienna ist eine genrefluide DJ, geboren in Deutschland und in Wien zu Hause. Sie spielt hypnotischen, groovigen Techno und mischt über mehrere Decks Einflüsse aus Hip-Hop, Latin, MENA und Jazz hinein.",
+   "en": "Vivienna is a genre-fluid DJ, born in Germany and based in Vienna. She plays hypnotic, groovy techno, layering multiple decks to bring in hip-hop, Latin, MENA and jazz influences."
+  },
+  "infoChk": "2026-11-02"
  },
  "Albin Brezlan": {
   "links": {
@@ -5092,11 +5227,23 @@ const AR={
  },
  "Manuel Correa": {
   "links": {
-   "ig": "https://www.instagram.com/_manuelcorrea"
+   "ig": "https://www.instagram.com/_manuelcorrea",
+   "ra": "https://ra.co/dj/manuelcorrea"
   },
   "src": [
    "https://ra.co/dj/manuelcorrea"
-  ]
+  ],
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "real": "Manuel Correa Kunnen",
+  "img": "https://static.ra.co/images/profiles/square/manuelcorrea.jpg?dateUpdated=1667988584000",
+  "bio": {
+   "de": "Manuel Correa ist ein DJ und Produzent aus Wien, der vor allem im PRST, im SASS Music Club und in der Pratersauna spielt.",
+   "en": "Manuel Correa is a Vienna-based DJ and producer who mostly plays at PRST, SASS Music Club and Pratersauna."
+  },
+  "infoChk": "2026-11-02"
  },
  "DLV": {
   "links": {
@@ -9259,6 +9406,340 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Dicie Globie": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Sparky Rugged": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Astarr": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Ijahson": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Bandulu": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Camel": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "DJ Smo": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Baba Sound": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Kings Crown Sound": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Thr33lake": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Royal Marx Sound": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "G Spot Sound": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "links": {
+   "mc": "https://www.mixcloud.com/gspotsound/"
+  },
+  "src": [
+   "https://www.mixcloud.com/gspotsound/",
+   "https://www.sherwood.it/articolo/4537/g-spot-sound-from-wien-aut"
+  ],
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Barbara Lago": {
+  "from": {
+   "de": "Spanien",
+   "en": "Spain"
+  },
+  "img": "https://static.ra.co/images/profiles/square/barbaralago.jpg?dateUpdated=1657115623000",
+  "links": {
+   "ra": "https://ra.co/dj/barbaralago",
+   "sc": "https://soundcloud.com/barbaralago",
+   "ig": "https://www.instagram.com/barbara_lago"
+  },
+  "alias": ["Bárbara Lago"],
+  "bio": {
+   "de": "Bárbara Lago stammt aus einer kleinen Stadt im Norden Spaniens, ließ sich 2015 in A Coruña nieder und begann dort ihre Laufbahn als DJ.",
+   "en": "Bárbara Lago comes from a small town in northern Spain; she settled in A Coruña in 2015 and began her career as a DJ there."
+  },
+  "src": [
+   "https://es.ra.co/dj/barbaralago"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "KRL MX": {
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "img": "https://static.ra.co/images/profiles/square/krlmx.jpg?dateUpdated=1790418999747",
+  "links": {
+   "ra": "https://ra.co/dj/krlmx",
+   "sc": "https://soundcloud.com/krl_mx",
+   "ig": "https://www.instagram.com/krl_mx.666",
+   "bc": "https://kapitalistdanceclub.bandcamp.com"
+  },
+  "labels": [
+   "Kapitalist Dance Club",
+   "EXHALE Records",
+   "Taapion Records",
+   "ARTS",
+   "Ismus",
+   "RAW"
+  ],
+  "bio": {
+   "de": "KRL MX aus Frankreich bewegt sich in der schnellen elektronischen Szene, spielte u. a. für Boiler Room und Teletech und veröffentlichte auf Exhale. Er betreibt sein eigenes Label Kapitalist Dance Club.",
+   "en": "KRL MX from France operates in the fast-paced electronic scene, has played for Boiler Room and Teletech and released on Exhale. He runs his own imprint, Kapitalist Dance Club."
+  },
+  "src": [
+   "https://ra.co/dj/krlmx"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "NYRA": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Serafin": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Dave & Bass": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Cybercutz": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Escapism": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Synthesis": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Vibrant": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "I-Jin": {
+  "links": {
+   "sc": "https://soundcloud.com/user-520936179"
+  },
+  "src": [
+   "https://soundcloud.com/user-520936179"
+  ],
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Gawdesque": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "img": "https://brut-wien.at/assets/artists/gawdesque/26_Gawdesque_c_Fadia-Hanuna.jpeg",
+  "bio": {
+   "de": "Gawdesque ist ein:e in Wien lebende:r DJ und spielt Musik aus West- und Südafrika sowie der afrikanischen Diaspora in Amerika und der Karibik – als Feier des eigenen afrikanischen Erbes und seiner globalen Verzweigungen.",
+   "en": "Gawdesque is a Vienna-based DJ playing music from West and South Africa and the African diaspora in the Americas and the Caribbean, celebrating their African heritage and its global branches."
+  },
+  "src": [
+   "https://brut-wien.at/en/artists/gawdesque"
+  ],
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Amina Malounadou": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Bellavie": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Maissouille": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Radze": {
+  "links": {
+   "sc": "https://soundcloud.com/radze"
+  },
+  "src": [
+   "https://soundcloud.com/radze"
+  ],
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Toge": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Miss Pixie aka Tekniker": {
+  "alias": ["Miss Pixie", "Tekniker"],
+  "links": {
+   "sc": "https://soundcloud.com/tekniker_at"
+  },
+  "src": [
+   "https://soundcloud.com/tekniker_at"
+  ],
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Genetek": {
+  "links": {
+   "sc": "https://soundcloud.com/genetektekno"
+  },
+  "src": [
+   "https://soundcloud.com/genetektekno"
+  ],
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "The Rave Bear": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Klaut-G": {
+  "links": {
+   "sc": "https://soundcloud.com/klaut-g-van-donderland"
+  },
+  "src": [
+   "https://soundcloud.com/klaut-g-van-donderland"
+  ],
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "SYC": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Gingertek": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Auditore": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Brandix": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Se.Vero": {
+  "links": {
+   "sc": "https://soundcloud.com/dj-se-vero"
+  },
+  "src": [
+   "https://soundcloud.com/dj-se-vero"
+  ],
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Gosh": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Fullip": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Poison": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Para2P3ctrum": {
+  "links": {
+   "sc": "https://soundcloud.com/para2p3ctrum"
+  },
+  "src": [
+   "https://soundcloud.com/para2p3ctrum"
+  ],
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Louisa India": {
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "real": "Louisa India",
+  "img": "https://static.ra.co/images/profiles/square/louisaindia.jpg?dateUpdated=1706299454000",
+  "links": {
+   "ra": "https://ra.co/dj/louisaindia",
+   "sc": "https://soundcloud.com/louisaindia",
+   "ig": "https://www.instagram.com/louisaindia_"
+  },
+  "genres": [
+   "Hard Techno",
+   "Hard Bounce",
+   "Trance",
+   "Tek"
+  ],
+  "bio": {
+   "de": "Louisa India ist eine österreichische DJ aus Wien, die Hard Techno, Hard Bounce, Trance und Tek spielt – vor allem im Werk, im Club Exil, im FLUCC, in der Pratersauna und in der Grellen Forelle.",
+   "en": "Louisa India is an Austrian DJ from Vienna playing hard techno, hard bounce, trance and tek – mostly at Das Werk, Club Exil, FLUCC, Pratersauna and Grelle Forelle."
+  },
+  "src": [
+   "https://ra.co/dj/louisaindia"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Kandy": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Mariephi": {
   "noImg": "2026-11-02",
   "noLinks": "2026-11-02",
   "infoChk": "2026-11-02"
