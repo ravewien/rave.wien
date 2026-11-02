@@ -6588,9 +6588,9 @@ const AR={
   "noLinks": "2026-10-31"
  },
  "Sinis": {
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "noLinks": "2026-11-02"
  },
  "Mayez": {
   "noImg": "2026-10-28",
@@ -7276,9 +7276,29 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "SAMI": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "img": "https://static.ra.co/images/profiles/square/sami-2.jpg?dateUpdated=1704706839000",
+  "links": {
+   "ra": "https://ra.co/dj/sami-2"
+  },
+  "bio": {
+   "de": "SAMI ist Producer und DJ in Berlin mit Wurzeln im palästinensischen Dorf Kufr Bir'em und Gründer der Berliner Partyreihe DASAM. Die Sets sind hart und basslastig und verbinden Grime, 140er-Dubstep, Left-Field-Bass und experimentellen Hip-Hop. Angefangen hat SAMI als Rapper in verschiedenen Stilen.",
+   "en": "SAMI is a Berlin-based producer and DJ with roots in the Palestinian village of Kufr Bir'em and the founder of the Berlin party series DASAM. The hard-hitting, bass-heavy sets blend grime, 140 dubstep, left-field bass and experimental hip hop. SAMI started out as a rapper across several styles."
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "Grime",
+   "Dubstep",
+   "Bass",
+   "Hip Hop"
+  ],
+  "src": [
+   "https://ra.co/dj/sami-2",
+   "https://ra.co/events/2248860"
+  ]
  },
  "DJ Fred": {
   "noImg": "2026-10-31",
@@ -7291,9 +7311,31 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Santo": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "img": "https://f4.bcbits.com/img/0044668134_10.jpg",
+  "links": {
+   "sc": "https://soundcloud.com/wearesanto",
+   "bc": "https://wearesanto.bandcamp.com",
+   "ig": "https://www.instagram.com/wearesanto/",
+   "sp": "https://open.spotify.com/artist/62qdQ7T1K8aby7gQWH2gWg"
+  },
+  "from": {
+   "de": "Lausanne",
+   "en": "Lausanne"
+  },
+  "genres": [
+   "Afro House"
+  ],
+  "bio": {
+   "de": "SANTO (CH) ist ein DJ und Produzent aus Lausanne, der Einflüsse aus vielen Kulturen verbindet und als Pionier der „Global Club Remixes“ gilt. Laut Montreux Jazz Festival hat er über 3 Millionen SoundCloud-Streams und mehrere Gold- und Platin-Auszeichnungen für Produktionen mit internationalen Artists. Auf SoundCloud veröffentlicht er u. a. Afro-House-Edits und Flips.",
+   "en": "SANTO (CH) is a Lausanne-based DJ and producer who blends influences from many cultures and is described as a pioneer of global club remixes. According to Montreux Jazz Festival he has over 3 million SoundCloud streams and several gold and platinum records for production work with international artists. His SoundCloud features Afro house edits and flips."
+  },
+  "src": [
+   "https://soundcloud.com/wearesanto",
+   "https://wearesanto.bandcamp.com",
+   "https://www.montreuxjazzfestival.com/en/artist/santo/"
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Chrome": {
   "noImg": "2026-10-31",
@@ -7311,9 +7353,37 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Scheibosan": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/scheibosan"
+  },
+  "bio": {
+   "de": "Scheibosan ist ein österreichischer DJ, der seit 1981 auflegt. Bekannt wurde er u. a. durch die Compilation-Reihe „Black Coffee“ auf Ecco Chamber, die Dub, R&B, Funk, Soul, Acid Jazz, Breakbeats und Electro verbindet; gemeinsam mit Shanti Roots produziert er Remixe. Seine Mixe dokumentieren u. a. Sets im Funkhaus Wien und beim Gomde Sommerfest.",
+   "en": "Scheibosan is an Austrian DJ who has been spinning since 1981. He is known among other things for the 'Black Coffee' compilation series on Ecco Chamber, blending dub, R&B, funk, soul, acid jazz, breakbeats and electro, and produces remixes together with Shanti Roots. His mixes document sets at Funkhaus Wien and the Gomde Sommerfest, among others."
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "labels": [
+   "Ecco Chamber"
+  ],
+  "sets": [
+   {
+    "t": "Scheibosan B2B DJ H.ott - Sunday Chillout @ Gomde Sommerfest 2025",
+    "u": "https://soundcloud.com/scheibosan/scheibosan-b2b-dj-h-ott-1"
+   },
+   {
+    "t": "Scheibosan B2B DJ H.ott - Gomde Sommerfest 2025",
+    "u": "https://soundcloud.com/scheibosan/scheibosan-b2b-dj-h-ott-gomde"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/scheibosan",
+   "https://www.last.fm/music/Shanti+Roots+&amp;+Scheibosan/+wiki"
+  ],
+  "setsChecked": "2026-11-02"
  },
  "C12": {
   "noImg": "2026-10-31",
@@ -7922,9 +7992,29 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Sony2k": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "img": "https://static.ra.co/images/profiles/square/sony2k.jpg?dateUpdated=1734451493000",
+  "links": {
+   "ra": "https://ra.co/dj/sony2k",
+   "ig": "https://www.instagram.com/sony2k__"
+  },
+  "real": "Eric Odavas",
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "Sony2k ist ein in Deutschland ansässiger DJ aus dem Berliner Umfeld. Als Promoter veranstaltet er unter anderem die Party Rapido mit Trance und Hardgroove im Humboldthain Club in Berlin, wo er auch selbst auflegt.",
+   "en": "Sony2k is a Germany-based DJ from the Berlin scene. As a promoter he runs events such as Rapido, a trance and hardgroove party at Humboldthain Club in Berlin, where he also plays himself."
+  },
+  "genres": [
+   "Trance",
+   "Hardgroove"
+  ],
+  "src": [
+   "https://ra.co/dj/sony2k",
+   "https://ra.co/events/2194462"
+  ]
  },
  "Oliviero": {
   "img": "https://static.ra.co/images/profiles/square/oliviero.jpg?dateUpdated=1735293087900",
@@ -8217,16 +8307,16 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Shaxoron": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
   "src": [
    "https://ra.co/events/2250635"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Snowtek": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
   "bio": {
    "de": "Snowtek ist ein Drum-&-Bass-Produzent und -DJ mit Releases auf Blu Saphir (u. a. „Lost In Memory EP“, BLUS054) und Celsius Recordings („Underwater EP“ mit Ferice). Er arbeitet häufig mit Ferice zusammen und spielte 2024 bei „Eight Years NU:Vision“ in Österreich (gelistet als Blu Saphir / NU:Vision).",
    "en": "Snowtek is a drum & bass producer and DJ with releases on Blu Saphir (incl. the 'Lost In Memory EP', BLUS054) and Celsius Recordings ('Underwater EP' with Ferice). He frequently collaborates with Ferice and played 'Eight Years NU:Vision' in Austria in 2024 (billed as Blu Saphir / NU:Vision)."
@@ -8241,7 +8331,14 @@ const AR={
    "https://soundcloud.com/celsiusrecordings/snowtek-ferice-circeling",
    "https://soundcloud.com/blusaphir_records/blu-saphir-studio-mix-003-by-snowtek-january-2022"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "sets": [
+   {
+    "t": "Blu Saphir Studio Mix 003 w/ Snowtek (January 2022)",
+    "u": "https://soundcloud.com/blusaphir_records/blu-saphir-studio-mix-003-by-snowtek-january-2022"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Pancratio": {
   "img": "https://static.ra.co/images/profiles/square/pancratio.jpg?dateUpdated=1787467740553",
@@ -8303,12 +8400,20 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Suitside": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
   "src": [
-   "https://soundcloud.com/suitsidemusic"
+   "https://soundcloud.com/suitsidemusic",
+   "https://soundcloud.com/herzfrequenz_techno/suitside-f2f-yonder-vs-a-face2face-rave-das-werk-15082025-set-recording-3"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "sets": [
+   {
+    "t": "SUITSIDE F2F YØNDER – VS: A Face2Face Rave @ Das Werk (15.08.2025)",
+    "u": "https://soundcloud.com/herzfrequenz_techno/suitside-f2f-yonder-vs-a-face2face-rave-das-werk-15082025-set-recording-3"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "DJ Parkverbot": {
   "img": "https://static.ra.co/images/profiles/square/djparkverbot.jpg?dateUpdated=1788429401000",
@@ -8339,12 +8444,12 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Sasuma": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
   "src": [
    "https://de.ra.co/dj/sasuma"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Jayzo": {
   "img": "https://static.ra.co/images/profiles/square/jayzo.jpg?dateUpdated=1772388351453",
@@ -8472,8 +8577,9 @@ const AR={
   "src": [
    "https://soundcloud.com/ninjannn"
   ],
-  "noImg": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "setsChecked": "2026-11-02"
  },
  "Georgia Bird": {
   "img": "https://static.ra.co/images/profiles/square/georgiabird.jpg?dateUpdated=1784713038403",
@@ -8892,11 +8998,12 @@ const AR={
    "en": "Sherine Falasteen is a drag artist originally from Jerusalem, based between Ramallah and Brussels. She performs in traditional thobes and is a resident performer of Gazelle L'Hafla."
   },
   "src": [
-   "https://ra.co/events/2552786"
+   "https://ra.co/events/2552786",
+   "https://ra.co/events/2145453"
   ],
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "MODI": {
   "bio": {
@@ -8922,8 +9029,9 @@ const AR={
    "https://ra.co/events/2552786",
    "https://soundcloud.com/sanadrilla"
   ],
-  "noImg": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "setsChecked": "2026-11-02"
  },
  "Thomas Grün": {
   "img": "https://static.ra.co/images/profiles/thomasgrun.jpg?dateUpdated=1426300331543",
@@ -9404,8 +9512,42 @@ const AR={
  },
  "Soulspin": {
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "links": {
+   "mc": "https://www.mixcloud.com/djsoulspin/"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Soul",
+   "Funk",
+   "Disco",
+   "House"
+  ],
+  "sets": [
+   {
+    "t": "Decades",
+    "u": "https://www.mixcloud.com/djsoulspin/decades/"
+   },
+   {
+    "t": "The Real Nitty Gritty",
+    "u": "https://www.mixcloud.com/djsoulspin/the-real-nitty-gritty/"
+   },
+   {
+    "t": "Discoliebe",
+    "u": "https://www.mixcloud.com/djsoulspin/discoliebe/"
+   }
+  ],
+  "bio": {
+   "de": "Soulspin ist ein Wiener DJ, dessen Mixe sich zwischen Soul, Funk, Disco, House und Edits bewegen. Beim Superego-Records-Labelabend im Celeste wird er mit Disco, Italo, Hi-NRG und Proto-House angekündigt.",
+   "en": "Soulspin is a Vienna-based DJ whose mixes move between soul, funk, disco, house and edits. For the Superego Records label night at Celeste he is billed with disco, Italo, Hi-NRG and proto-house."
+  },
+  "src": [
+   "https://www.mixcloud.com/djsoulspin/"
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Dansmussen": {
   "noImg": "2026-11-02",
@@ -9414,8 +9556,15 @@ const AR={
  },
  "Siili": {
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/siilimusic"
+  },
+  "src": [
+   "https://soundcloud.com/siilimusic",
+   "https://soundcloud.com/siilimusic/siili-dead-end-praterstern-original-mix"
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Punzmann": {
   "noImg": "2026-11-02",
@@ -9511,8 +9660,33 @@ const AR={
  },
  "Scooby Duo": {
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "links": {
+   "mc": "https://www.mixcloud.com/scoobyduo/"
+  },
+  "bio": {
+   "de": "Scooby Duo ist ein Wiener DJ-Duo, das seit 2012 aktiv ist und neue Fundstücke, alte Platten und Underground-Grooves teilt. Das Duo moderiert jeden ersten Montag im Monat die „Scooby Duo Radio Show“ auf Radio Superfly.",
+   "en": "Scooby Duo is a Vienna-based DJ duo active since 2012, sharing new finds, old records and underground grooves. They host the Scooby Duo Radio Show on Radio Superfly on the first Monday of every month."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "sets": [
+   {
+    "t": "The Scooby Duo Radio Show 010",
+    "u": "https://www.mixcloud.com/scoobyduo/the-scooby-duo-radio-show-010/"
+   },
+   {
+    "t": "The Scooby Duo Radio Show 001",
+    "u": "https://www.mixcloud.com/scoobyduo/the-scooby-duo-radio-show-001/"
+   }
+  ],
+  "src": [
+   "https://www.mixcloud.com/scoobyduo/listens/",
+   "https://www.mixcloud.com/scoobyduo/the-scooby-duo-radio-show-010/"
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Dicie Globie": {
   "noImg": "2026-11-02",
@@ -9715,7 +9889,10 @@ const AR={
  "Synthesis": {
   "noImg": "2026-11-02",
   "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "src": [
+   "https://soundcloud.com/nightsirens/synthesis-at-liquid-drum-and"
+  ]
  },
  "Vibrant": {
   "noImg": "2026-11-02",
@@ -9855,7 +10032,8 @@ const AR={
    "https://soundcloud.com/dj-se-vero"
   ],
   "noImg": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "setsChecked": "2026-11-02"
  },
  "Gosh": {
   "noImg": "2026-11-02",
@@ -10506,6 +10684,390 @@ const AR={
    "https://soundcloud.com/platform/ellen-allien-3",
    "https://soundcloud.com/ellen-allien/ellen-allien-djset-melt-festival-sleepless-floor-120915"
   ],
+  "infoChk": "2026-11-02"
+ },
+ "Sentic Cycle": {
+  "img": "https://static.ra.co/images/profiles/square/senticcycle.jpg?dateUpdated=1792956162853",
+  "links": {
+   "ra": "https://ra.co/dj/senticcycle"
+  },
+  "real": "Theodor Sperl",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "labels": [
+   "Unchained",
+   "Cyberfunk",
+   "4NC¥"
+  ],
+  "bio": {
+   "de": "Sentic Cycle ist das Projekt des Wiener Produzenten und Fotografen Theodor Sperl, der Klang und Bild verbindet. Seit 2017 aktiv, hat er Singles, EPs und LPs u. a. auf Unchained, Cyberfunk und 4NC¥ veröffentlicht; seine Musik lief auf FM4, BBC Radio 1, Noisia Radio und im Diffrent Music Podcast. Live und an den Decks war er u. a. in Pratersauna, Flex und Rhiz zu hören.",
+   "en": "Sentic Cycle is the project of Vienna-based producer and photographer Theodor Sperl, who combines sound and visual art. Active since 2017, he has released singles, EPs and LPs on labels including Unchained, Cyberfunk and 4NC¥, with airplay on FM4, BBC Radio 1, Noisia Radio and the Diffrent Music Podcast. He has performed at Vienna venues such as Pratersauna, Flex and Rhiz."
+  },
+  "src": [
+   "https://ra.co/dj/senticcycle",
+   "https://ra.co/dj/senticcycle/biography"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Shaolinda": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Sora": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Ssaliva": {
+  "img": "https://static.ra.co/images/profiles/ssaliva.jpg?dateUpdated=1493130981000",
+  "links": {
+   "ra": "https://ra.co/dj/ssaliva",
+   "bc": "https://ssaliva.bandcamp.com",
+   "sc": "https://soundcloud.com/ssaliva",
+   "fb": "https://www.facebook.com/sssaliva/"
+  },
+  "real": "François Boulanger",
+  "alias": [
+   "Cupp Cave",
+   "Kingfisherg"
+  ],
+  "from": {
+   "de": "Lüttich",
+   "en": "Liège"
+  },
+  "genres": [
+   "Ambient",
+   "Experimental"
+  ],
+  "labels": [
+   "Vlek",
+   "Leaving Records",
+   "Surf Kill",
+   "Ekster",
+   "Slagwerk"
+  ],
+  "bio": {
+   "de": "Ssaliva ist das Projekt des belgischen Produzenten François Boulanger aus Lüttich, der zuvor als Kingfisherg und Cupp Cave aktiv war. Seine Musik ist überwiegend beatlos, atmosphärisch und experimentell und gilt live als besonders eindrücklich. Veröffentlicht hat er vor allem auf Vlek, Surf Kill und dem Label Leaving Records aus L.A.",
+   "en": "Ssaliva is the project of Belgian producer François Boulanger from Liège, who previously released as Kingfisherg and Cupp Cave. His music is largely beatless, atmospheric and experimental, and best experienced live. He releases mainly on Vlek, Surf Kill and L.A.'s Leaving Records."
+  },
+  "src": [
+   "https://ra.co/dj/ssaliva",
+   "https://ssaliva.bandcamp.com/",
+   "https://www.discogs.com/artist/2172100-Ssaliva",
+   "https://www.meakusma-festival.be/?p=5722"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Sebastian Wagner": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Sabina": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "STAATSEINDE": {
+  "img": "https://f4.bcbits.com/img/0047558788_21.jpg",
+  "links": {
+   "bc": "https://staatseinde.bandcamp.com",
+   "sp": "https://open.spotify.com/artist/3J4naeNeXCdeiDicpCsPHO",
+   "ig": "https://www.instagram.com/staatseinde",
+   "fb": "https://www.facebook.com/Staatseinde",
+   "web": "https://staatseinde.com"
+  },
+  "from": {
+   "de": "Utrecht",
+   "en": "Utrecht"
+  },
+  "genres": [
+   "EBM",
+   "Synth-Punk",
+   "New Wave"
+  ],
+  "labels": [
+   "Wharf Records",
+   "Enfant Terrible",
+   "Ende Der Zukunft Recordings",
+   "Onrijn Records",
+   "Lo Phi Forms Records"
+  ],
+  "bio": {
+   "de": "STAATSEINDE ist eine Cosmic-EBM- und Synth-Band aus Utrecht, die die Dringlichkeit von EBM mit futuristischem Synth-Punk und 80er-Wave verbindet. Ihren Sound nennt die Band „Neue-Niederländische-Welle“; seit dem Abgang des Schlagzeugers arbeitet sie stärker elektronisch mit Sequencing und Drum-Programming. Releases erschienen u. a. auf Enfant Terrible und Ende Der Zukunft Recordings, die Live-Shows sind energiegeladen und clubartig.",
+   "en": "STAATSEINDE is a cosmic EBM and synth band from Utrecht that fuses the urgency of EBM with futuristic synth-punk and 80s wave. The band calls its sound 'Neue-Niederländische-Welle' and has moved to a more electronic approach built on sequencing and drum programming. Releases have appeared on labels such as Enfant Terrible and Ende Der Zukunft Recordings, and their live shows are high-energy and club-like."
+  },
+  "src": [
+   "https://staatseinde.bandcamp.com/",
+   "https://www.discogs.com/artist/1855311-Staatseinde"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Stan Matan": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Saender": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Saratonin": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "SWEGALICIOUS": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Slack Hippy": {
+  "links": {
+   "sc": "https://soundcloud.com/slackhippy",
+   "mc": "https://www.mixcloud.com/slackhippy/"
+  },
+  "bio": {
+   "de": "Slack Hippy wurde in London geboren, wuchs in Cornwall auf und lebt seit 1991 in Wien, wo er seit 1990 auflegt. Er ist Resident-DJ der FM4-Sendung La Boum De Luxe und Mitbegründer und Co-Host (mit D.Kay) der monatlichen Breakbeat-Sendung The Dogs Bollocks auf FM4. Musikalisch spielt er alles zwischen 80 und 180 BPM, mit besonderer Vorliebe für Underground Drum & Bass.",
+   "en": "Slack Hippy was born in London, raised in Cornwall and has lived in Vienna since 1991, DJing since 1990. He is resident DJ of FM4's La Boum De Luxe and founder and co-host (with D.Kay) of the monthly breakbeat show The Dogs Bollocks on FM4. He plays anything from 80 to 180 bpm, with a particular love for deep underground drum & bass."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Breakbeat"
+  ],
+  "sets": [
+   {
+    "t": "Slack Hippy FM4 Mix Mar 2020",
+    "u": "https://soundcloud.com/slackhippy/slack-hippy-fm4-mix-mar-20201"
+   },
+   {
+    "t": "Luv Shack Rec Pres: GYS Austria #4",
+    "u": "https://soundcloud.com/slackhippy/slack-hippy-globalise-yourself-mix"
+   }
+  ],
+  "src": [
+   "https://www.mixcloud.com/slackhippy/listens/",
+   "https://elevate.at/websites/2009/en/music-arts/artists/artist-details/guests/slack-hippy/index.html%3Ftx_ttnews[backPid]=504&cHash=2314a0277ce4b76221b5ec51440fe7ae.html",
+   "https://soundcloud.com/slackhippy"
+  ],
+  "setsChecked": "2026-11-02",
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Station Rose": {
+  "links": {
+   "sc": "https://soundcloud.com/station-rose"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Station Rose ist das Multimedia-Duo von Elisa Rose (Bild) und Gary Danner (Sound), 1988 in Wien als audiovisuelles Labor gegründet. Mit der Reihe Gunafa Clubbing verbanden sie früh elektronische Musik, Visuals und Live-Internet. Musikalisch reicht das Spektrum von Techno über Dub und Electro bis Ambient; Releases erschienen u. a. auf International Deejay Gigolo, Mille Plateaux, Sony Music und ihrem eigenen Label Gunafa.",
+   "en": "Station Rose is the multimedia duo of Elisa Rose (visuals) and Gary Danner (sound), founded in Vienna in 1988 as an audiovisual laboratory. Their Gunafa Clubbing series was an early fusion of electronic music, visuals and live internet connection. Musically they range from techno to dub, electro and ambient, with releases on International Deejay Gigolo, Mille Plateaux, Sony Music and their own Gunafa label."
+  },
+  "genres": [
+   "Techno",
+   "Ambient",
+   "Electronic"
+  ],
+  "labels": [
+   "Gunafa",
+   "International Deejay Gigolo Records",
+   "Mille Plateaux",
+   "Spaziotempo",
+   "Childhood Intelligence"
+  ],
+  "src": [
+   "https://kunsthallewien.at/en/event/station-rose",
+   "https://ra.co/reviews/34721",
+   "https://soundcloud.com/station-rose",
+   "https://www.discogs.com/artist/6950-Station-Rose"
+  ],
+  "setsChecked": "2026-11-02",
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Sluzy": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Splinta": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "SIS": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Sonya Hibiscus": {
+  "links": {
+   "sc": "https://soundcloud.com/sonya-hibiscus",
+   "ig": "https://www.instagram.com/sonya_hibiscus/"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "bio": {
+   "de": "Sonya Hibiscus ist eine DJ aus Frankreich, die mit der Pariser Partyreihe Grand Bal Zouk verbunden ist, einer Nacht für Retro-Zouk, Kompa und karibische Clubkultur. Ihre Sets verbinden tropische und Balearic-Sounds mit Boogie und Breaks.",
+   "en": "Sonya Hibiscus is a French DJ associated with the Paris party series Grand Bal Zouk, a night dedicated to retro zouk, kompa and Caribbean club culture. Her sets blend tropical and Balearic sounds with boogie and breaks."
+  },
+  "src": [
+   "https://soundcloud.com/sonya-hibiscus",
+   "https://www.instagram.com/sonya_hibiscus/",
+   "https://ra.co/events/2080997",
+   "https://ra.co/events/2568201"
+  ],
+  "setsChecked": "2026-11-02",
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Stef Davidse": {
+  "img": "https://static.ra.co/images/profiles/square/stefdavidse.jpg?dateUpdated=1689326207000",
+  "links": {
+   "ra": "https://ra.co/dj/stefdavidse",
+   "sc": "https://soundcloud.com/stefdavidse",
+   "ig": "https://www.instagram.com/stefdavidse",
+   "web": "https://linktr.ee/stefdavidse"
+  },
+  "bio": {
+   "de": "Stef Davidse ist ein DJ und Producer aus Rotterdam. Nach Anfängen im Hip-Hop kam er 2018 zum House; seine Sets und Produktionen setzen auf rollende, oldschool-angehauchte Tracks mit Fokus auf Vocals, Percussion und Bass. Releases erschienen u. a. auf Nervous Records, Innocent Music und Wyld Records, Support kam etwa von Jamie Jones, Archie Hamilton und East End Dubs.",
+   "en": "Stef Davidse is a Rotterdam-based DJ and producer. Coming from hip hop, he moved to house in 2018; his sets and productions favour rolling, old-school-leaning tunes focused on vocals, percussion and bass. He has released on labels such as Nervous Records, Innocent Music and Wyld Records, with support from Jamie Jones, Archie Hamilton and East End Dubs."
+  },
+  "from": {
+   "de": "Rotterdam",
+   "en": "Rotterdam"
+  },
+  "genres": [
+   "House"
+  ],
+  "labels": [
+   "Nervous Records",
+   "Innocent Music",
+   "Wyld Records",
+   "Happiness Therapy",
+   "neXup recz"
+  ],
+  "sets": [
+   {
+    "t": "Hottrax LIVE 003: Stef Davidse",
+    "u": "https://soundcloud.com/hottraxmusic/hottrax-live-003-stef-davidse"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/stefdavidse",
+   "https://ra.co/dj/stefdavidse/biography",
+   "https://soundcloud.com/stefdavidse/stef-davidse-burnin-2026-1",
+   "https://soundcloud.com/hottraxmusic/hottrax-live-003-stef-davidse"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "SHDW": {
+  "img": "https://static.ra.co/images/profiles/square/shdw.jpg?dateUpdated=1772164135830",
+  "links": {
+   "ra": "https://ra.co/dj/shdw",
+   "sc": "https://soundcloud.com/shdw-mutual-rytm",
+   "ig": "https://www.instagram.com/i.am.shdw",
+   "bc": "https://mutual-rytm.bandcamp.com",
+   "fb": "https://www.facebook.com/shdw.official"
+  },
+  "real": "Marco Bläsi",
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Mutual Rytm"
+  ],
+  "alias": [
+   "SHDW & Obscure Shape"
+  ],
+  "sets": [
+   {
+    "t": "SHDW at EXPO XXI Warsaw (2025)",
+    "u": "https://soundcloud.com/shdw-mutual-rytm/shdw-at-expo-xxi-warsaw-poland-2025"
+   },
+   {
+    "t": "SHDW – HATE Podcast 377",
+    "u": "https://soundcloud.com/hate_music/shdw-hate-podcast-377"
+   },
+   {
+    "t": "Bassiani invites SHDW / Podcast #267",
+    "u": "https://soundcloud.com/bassiani/bassiani-invites-shdw-podcast-267"
+   }
+  ],
+  "bio": {
+   "de": "SHDW ist ein deutscher Techno-DJ und Produzent, der über ein Jahrzehnt als eine Hälfte des einflussreichen Duos SHDW & Obscure Shape bekannt wurde, mit dem er das Label Mutual Rytm gründete. Seit 2024 verfolgt er ein Soloprojekt, das ganz auf seine eigene Musik, Decks und Mixer reduziert ist.",
+   "en": "SHDW is a German techno DJ and producer who built a lasting legacy over a decade as one half of the influential duo SHDW & Obscure Shape, with whom he co-founded the label Mutual Rytm. Since 2024 he has pursued a solo project built around performing with just his music, decks and a mixer."
+  },
+  "src": [
+   "https://ra.co/dj/shdw",
+   "https://ra.co/events/2540048"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Svetec": {
+  "img": "https://static.ra.co/images/profiles/square/svetec.jpg?dateUpdated=1451997150543",
+  "links": {
+   "ra": "https://ra.co/dj/svetec",
+   "sc": "https://www.soundcloud.com/svetec",
+   "bc": "https://svetec.bandcamp.com",
+   "ig": "https://www.instagram.com/svetec_official",
+   "fb": "https://www.facebook.com/deejaysvetec"
+  },
+  "bio": {
+   "de": "SveTec ist ein ungarischer Hard-Techno-DJ und -Produzent, der seit rund zwei Jahrzehnten aktiv ist und laut RA zu den prägendsten Figuren der Hard-Techno-Szene zählt. 2016 gründete er sein Label Mad Made als Plattform für Newcomer und Hard-Techno-Veteranen. Releases erschienen u.a. auf AudioCode Records und Hardwork Records; gespielt hat er in zahlreichen Ländern Europas und Südamerikas.",
+   "en": "SveTec is a Hungarian hard techno DJ and producer active for around two decades, described by RA as one of the most dominant figures of the hard techno scene. In 2016 he launched his label Mad Made as a platform for emerging artists and hard techno veterans. He has released on labels such as AudioCode Records and Hardwork Records and has played across Europe and South America."
+  },
+  "from": {
+   "de": "Ungarn",
+   "en": "Hungary"
+  },
+  "genres": [
+   "Hard Techno"
+  ],
+  "labels": [
+   "Mad Made",
+   "AudioCode Records",
+   "Hardwork Records",
+   "Oskyrth"
+  ],
+  "real": "Adam Szvetek",
+  "sets": [
+   {
+    "t": "TKWT Podcast #044 - SveTec",
+    "u": "https://soundcloud.com/tkwt-podcast/tkwt-podcast-044-svetec"
+   },
+   {
+    "t": "AudioCode Podcast #4: SveTec (HU)",
+    "u": "https://soundcloud.com/audiocode/audiocode-podcast-4-svetec"
+   },
+   {
+    "t": "Podcast Vol. 8/2016 - Mixed by SveTec",
+    "u": "https://soundcloud.com/schubfaktor/podcast-032-mixed-by-svetec"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/svetec",
+   "https://pl.ra.co/dj/svetec/biography",
+   "https://ra.co/events/2540048"
+  ],
+  "setsChecked": "2026-11-02",
   "infoChk": "2026-11-02"
  }
 };
