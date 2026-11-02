@@ -2817,11 +2817,14 @@ const VI={
   "de": "Ehemalige Kaiserresidenz am Heldenplatz, deren Prunksäle auch für Großveranstaltungen genutzt werden.",
   "en": "Former imperial residence on Heldenplatz whose state halls are also used for large events.",
   "src": [
-   "https://ksot.ticket.io/"
+   "https://ksot.ticket.io/",
+   "https://meeting.vienna.info/en/event-planning/venue-finder/hofburg-vienna-325428"
   ],
   "io": [
    "Indoor"
-  ]
+  ],
+  "web": "https://www.hofburg.com/en",
+  "infoChk": "2026-11-02"
  },
  "Grelle Forelle": {
   "web": "https://www.grelleforelle.com/",
@@ -3204,7 +3207,8 @@ const VI={
    "Hard Techno Stage"
   ],
   "noLogo": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02",
+  "opened": "1982"
  },
  "Flex": {
   "src": [
@@ -3250,11 +3254,16 @@ const VI={
  },
  "Lugner City": {
   "src": [
-   "https://www.volume.at/events/koere-halloween-rave-2026-2026-10-31/"
+   "https://www.volume.at/events/koere-halloween-rave-2026-2026-10-31/",
+   "https://www.salzburg24.at/news/oesterreich/richard-lugner-war-stolz-auf-sein-baby-lugner-city-163332769"
   ],
   "io": [
    "Indoor"
-  ]
+  ],
+  "de": "Einkaufszentrum von Richard Lugner im 15. Bezirk (Rudolfsheim-Fünfhaus), eröffnet im September 1990, heute rund 25.000 m² mit über 100 Geschäften; Ende Oktober 2026 erstmals Schauplatz einer Halloween-Drum-&-Bass-Nacht.",
+  "en": "Shopping centre founded by Richard Lugner in Vienna's 15th district (Rudolfsheim-Fünfhaus), opened in September 1990, now around 25,000 m² with more than 100 shops; in late October 2026 it hosted its first Halloween drum & bass night.",
+  "opened": "1990",
+  "infoChk": "2026-11-02"
  },
  "U4": {
   "src": [
@@ -3433,7 +3442,15 @@ const VI={
  "Prater (Calafatiplatz)": {
   "io": [
    "Outdoor"
-  ]
+  ],
+  "de": "Platz im Wurstelprater mit der Steinfigur des „Chinesen“ vom historischen Calafati-Karussell; vom Prater als rund 200 m² große Eventfläche für Open-Air-Veranstaltungen vermietet.",
+  "en": "Square in the Wurstelprater with the stone figure from the historic Calafati carousel; rented out by the Prater as an event area of around 200 m² for open-air events.",
+  "web": "https://www.praterwien.com/en/prater/event-management/for-organizers",
+  "src": [
+   "https://www.praterwien.com/en/prater/event-management/for-organizers",
+   "https://www.selux.com/NOR/en/cases/calafatiplatz-in-the-prater-vienna-austria"
+  ],
+  "infoChk": "2026-11-02"
  },
  "Otto Wagner Areal": {
   "io": [
@@ -3443,7 +3460,8 @@ const VI={
   "de": "Weitläufiges Areal mit Grünflächen und historischen Pavillons auf der Baumgartner Höhe im 14. Bezirk; seit 2025 in Zwischennutzung durch Kreative und Kulturvereine und ein beliebter Veranstaltungsort.",
   "en": "Extensive site with green spaces and historic pavilions on the Baumgartner Höhe in Vienna's 14th district; since 2025 in interim use by creatives and cultural associations and a popular event location.",
   "src": [
-   "https://www.1000thingsmagazine.com/de/a/2159363/otto-wagner-areal-wien-zwischennutzung/"
+   "https://www.1000thingsmagazine.com/de/a/2159363/otto-wagner-areal-wien-zwischennutzung/",
+   "https://www.vienna.at/wiener-otto-wagner-areal-bekommt-neue-zwischennutzer/9638579"
   ],
   "noLogo": "2026-11-02",
   "infoChk": "2026-11-02"
