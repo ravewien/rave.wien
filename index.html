@@ -777,6 +777,13 @@ footer a:hover{color:var(--accent)}
 .flag.np.on{background:#e9ecf1;color:#0b0d10;border-color:#e9ecf1}
 .flag.sx.on{border-color:var(--sex)}.flag.lg.on{border-color:var(--lg)}.flag.aw.on{border-color:var(--aw)}.flag.od.on{border-color:var(--od)}
 .flag.age{color:var(--fg);background:transparent;border:1px solid var(--line)}
+
+/* Vibe-Symbole unter dem Flyer: alle gleich groß, sauberes 2er-Raster */
+.row.tk>.cflags .flags{display:grid!important;grid-template-columns:repeat(2,26px);gap:5px;width:auto!important}
+.row.tk>.cflags .flag:not(.age){width:26px;height:26px;padding:0!important;font-size:0;gap:0;justify-content:center;box-sizing:border-box}
+.row.tk>.cflags .flag .ico,.row.tk>.cflags .flag.io .ico{margin:0!important;width:15px;min-width:15px;height:15px;font-size:14px}
+.row.tk>.cflags .flag svg{width:14px;height:14px}
+.row.tk>.cflags .flag .ico.lg{width:16px;min-width:16px;height:12px}
 </style>
 
 <header class="top">
