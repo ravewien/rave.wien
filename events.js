@@ -4107,11 +4107,31 @@ const AR={
    "The Brazilian Job",
    "Mystic Sunset"
   ],
-  "links": {},
+  "links": {
+   "ra": "https://ra.co/dj/djmarky"
+  },
   "src": [
    "https://en.wikipedia.org/wiki/DJ_Marky",
-   "https://www.technoairlines.com/artist/dj-marky"
-  ]
+   "https://www.technoairlines.com/artist/dj-marky",
+   "https://ra.co/dj/djmarky"
+  ],
+  "img": "https://static.ra.co/images/profiles/djmarky.jpg?dateUpdated=1253524755000",
+  "sets": [
+   {
+    "t": "DJ Marky B2B DJ Die – SUNANDBASS 24",
+    "u": "https://soundcloud.com/sunandbass/marky-b2b-dj-die-sunandbass-24"
+   },
+   {
+    "t": "DJ Marky – Marky & Friends London Promo Mix 2018 (Drum&BassArena)",
+    "u": "https://soundcloud.com/drumandbassarena/dj-marky-marky-friends-london-promo-mix-2018"
+   },
+   {
+    "t": "Boiler Room São Paulo – DJ Marky DnB",
+    "u": "https://soundcloud.com/platform/boiler-room-sao-paulo-dj-marky-dnb"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Mijk van Dijk": {
   "from": {
@@ -6256,10 +6276,12 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/caraxelizabeth",
    "ig": "https://www.instagram.com/caraxelizabeth",
-   "sp": "https://open.spotify.com/artist/4Ol10UBcGz0YO0XpAKoGIU"
+   "sp": "https://open.spotify.com/artist/4Ol10UBcGz0YO0XpAKoGIU",
+   "ra": "https://ra.co/dj/caraelizabeth"
   },
   "src": [
-   "https://ra.co/dj/caraelizabeth"
+   "https://ra.co/dj/caraelizabeth",
+   "https://ra.co/dj/caraelizabeth/biography"
   ],
   "sets": [
    {
@@ -6271,7 +6293,22 @@ const AR={
     "u": "https://soundcloud.com/jedentageinset/cara-elizabeth-oxa-beach-berlin-calling-jedentageinset-special-31012024"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/caraelizabeth.jpg?dateUpdated=1657546889000",
+  "bio": {
+   "de": "Cara Elizabeth ist eine in Berlin geborene und lebende DJ. Sie spielt harte, zugleich melodische Sets zwischen Neo-Rave, Hard Techno und Trance.",
+   "en": "Cara Elizabeth is a DJ born and based in Berlin. She plays hard yet melodic sets that move between neo-rave, hard techno and trance."
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "genres": [
+   "Hard Techno",
+   "Trance",
+   "Neo-Rave"
+  ],
+  "infoChk": "2026-11-02"
  },
  "Frederic.": {
   "links": {
@@ -7824,9 +7861,9 @@ const AR={
   ]
  },
  "DJ Fred": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "zey": {
   "noImg": "2026-10-31",
@@ -7861,9 +7898,9 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Chrome": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "j.around": {
   "noImg": "2026-10-31",
@@ -8333,9 +8370,9 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Cristinho": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
  },
  "Florian No": {
   "infoChk": "2026-11-02",
@@ -8453,10 +8490,30 @@ const AR={
   "src": [
    "https://soundcloud.com/hux-de-bude-aka-sdricci",
    "https://soundcloud.com/hux-de-bude-aka-sdricci/vienna-virus-prt2",
-   "https://soundcloud.com/hux-de-bude-aka-sdricci/huxdebude-aka-sdricci"
+   "https://soundcloud.com/hux-de-bude-aka-sdricci/huxdebude-aka-sdricci",
+   "https://soundcloud.com/hux-de-bude-aka-sdricci/garden-of-dreams-20191102",
+   "https://soundcloud.com/hux-de-bude-aka-sdricci/huxdebude-surfclub-2014"
   ],
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "alias": [
+   "HuxDeBude"
+  ],
+  "sets": [
+   {
+    "t": "@garden of dreams 20191102",
+    "u": "https://soundcloud.com/hux-de-bude-aka-sdricci/garden-of-dreams-20191102"
+   },
+   {
+    "t": "HuxDeBude@surfclub 2014",
+    "u": "https://soundcloud.com/hux-de-bude-aka-sdricci/huxdebude-surfclub-2014"
+   },
+   {
+    "t": "HuxDeBude aka Sdricci @ ultraschall 2013",
+    "u": "https://soundcloud.com/hux-de-bude-aka-sdricci/huxdebude-aka-sdricci"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "Marilou": {
   "infoChk": "2026-10-31",
@@ -8507,9 +8564,9 @@ const AR={
   "noLinks": "2026-10-31"
  },
  "DJ Andy": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
  },
  "Max Wagner": {
   "img": "https://static.ra.co/images/profiles/square/maxwagner.jpg?dateUpdated=1712866351000",
@@ -8750,12 +8807,12 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "CREEXX": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
   "src": [
    "https://ra.co/events/2506486"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "MJT & RPM": {
   "noImg": "2026-10-31",
@@ -8766,9 +8823,9 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "D.b.h": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Urlaub in Jazzolo": {
   "noImg": "2026-10-31",
@@ -8776,7 +8833,7 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Café Mondo": {
-  "noImg": "2026-10-31",
+  "noImg": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/cafe-mondo",
    "ig": "https://www.instagram.com/cafe_mondo_/",
@@ -8793,9 +8850,21 @@ const AR={
    "https://soundcloud.com/callshopradio/cafe-mondo-190125",
    "https://soundcloud.com/resradio/sets/cafe-mondo",
    "https://soundcloud.com/tropicalthundervienna/cafe-mondo",
-   "https://ra.co/promoters/196602"
+   "https://ra.co/promoters/196602",
+   "https://soundcloud.com/callshopradio/cafe-mondo-081224"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "sets": [
+   {
+    "t": "Café Mondo 19.01.25 (Callshop Radio)",
+    "u": "https://soundcloud.com/callshopradio/cafe-mondo-190125"
+   },
+   {
+    "t": "Cafe Mondo 08.12.24 (Callshop Radio)",
+    "u": "https://soundcloud.com/callshopradio/cafe-mondo-081224"
+   }
+  ],
+  "setsChecked": "2026-11-02"
  },
  "AudioDevice": {
   "noImg": "2026-11-02",
@@ -8945,13 +9014,13 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Catlex": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
   "src": [
    "https://soundcloud.com/catlexxx",
    "https://soundcloud.com/catlexmusic"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Suitside": {
   "noImg": "2026-11-02",
@@ -8982,7 +9051,7 @@ const AR={
   "src": [
    "https://ra.co/dj/djparkverbot"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Lieblos": {
   "noImg": "2026-11-02",
@@ -9503,9 +9572,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Duplikate": {
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "PLAYBACK": {
   "noImg": "2026-11-01",
@@ -9656,11 +9725,12 @@ const AR={
    "en": "Drehli Robnik is a Vienna-based film and political theorist, critic, essayist and 'talking DJ' whose sets pair songs with films of the same title."
   },
   "src": [
-   "https://www.diametrale.at/en/festivals/2019-diametrale/program/dj-brunch-mit-drehli-robnik/"
+   "https://www.diametrale.at/en/festivals/2019-diametrale/program/dj-brunch-mit-drehli-robnik/",
+   "https://geschichte.lbg.ac.at/team/drehli-robnik/?lang=en"
   ],
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Vantan": {
   "links": {
@@ -9821,9 +9891,9 @@ const AR={
   "infoChk": "2026-11-01"
  },
  "Dune": {
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Neophyte": {
   "from": {
@@ -10242,10 +10312,15 @@ const AR={
    "sc": "https://soundcloud.com/djbackstage"
   },
   "src": [
-   "https://de.ra.co/dj/djbackstage"
+   "https://de.ra.co/dj/djbackstage",
+   "https://es-mx.ra.co/dj/djbackstage"
   ],
   "infoChk": "2026-11-02",
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "bio": {
+   "de": "DJ Backstage ist ein österreichischer DJ aus dem Umfeld der Wiener Reihe Cybertribe und spielt regelmäßig bei deren Events im PRST, in The Loft und im Gleis 19. 2025 legte er außerdem in Amsterdam auf, u. a. in der Hi-Fi-Bar Radio Radio und bei SISSI'S.",
+   "en": "DJ Backstage is an Austrian DJ from the orbit of the Vienna series Cybertribe, playing its events at PRST, The Loft and Gleis 19. In 2025 he also played in Amsterdam, including the hi-fi bar Radio Radio and SISSI'S."
+  }
  },
  "Aura": {
   "noImg": "2026-11-02",
@@ -10345,8 +10420,45 @@ const AR={
  },
  "DJ Smo": {
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "links": {
+   "mc": "https://www.mixcloud.com/realdjsmo/",
+   "sc": "https://soundcloud.com/realdjsmo",
+   "ig": "https://www.instagram.com/realdjsmo",
+   "web": "https://hyperfollow.com/djsmo"
+  },
+  "bio": {
+   "de": "DJ Smo ist ein in Wien ansässiger Dancehall-DJ, Produzent und MC. Laut eigenem Profil ist er Kernmitglied der Jugglerz-Crew und veröffentlicht seit 2022 eigene Musik zwischen Trap und Dancehall, u. a. mit Konshens und Spice. Seine Mixtapes reichen von Dancehall und Bashment über Afro bis Reggae.",
+   "en": "DJ Smo is a Vienna-based dancehall DJ, producer and MC. According to his own profile he is a core member of the Jugglerz crew and has released solo music blending trap and dancehall since 2022, including collaborations with Konshens and Spice. His mixtapes range from dancehall and bashment to afro and reggae."
+  },
+  "genres": [
+   "Dancehall",
+   "Reggae"
+  ],
+  "sets": [
+   {
+    "t": "Hot Gyal Summer Dancehall Mixtape (2026)",
+    "u": "https://www.mixcloud.com/realdjsmo/hot-gyal-summer-dancehall-mixtape-2026/"
+   },
+   {
+    "t": "DJ Smo live in Warsaw 2026 – hosted by Splendid Sound",
+    "u": "https://www.mixcloud.com/realdjsmo/dj-smo-live-in-warsaw-2026-hosted-by-splendid-sound-dancehall/"
+   },
+   {
+    "t": "DJ Smo – Kingston Current – Reggae Mixtape 2026",
+    "u": "https://www.mixcloud.com/realdjsmo/dj-smo-kingston-current-reggae-mixtape-2026/"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://www.mixcloud.com/realdjsmo/stream/",
+   "https://soundcloud.com/realdjsmo/smo23",
+   "https://soundcloud.com/realdjsmo/transporter-mixtape"
+  ]
  },
  "Baba Sound": {
   "noImg": "2026-11-02",
@@ -10482,12 +10594,46 @@ const AR={
  "Dave & Bass": {
   "noImg": "2026-11-02",
   "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Dave & Bass ist ein Wiener Drum-&-Bass-DJ. Er steht regelmäßig im Lineup der Reihe Drum & Bassick im Club Lucia, u. a. beim Summer Opening Special und beim einjährigen Jubiläum 2026, und spielt auch bei der Metal-x-DnB-Party High Voltage Fairies im Flex.",
+   "en": "Dave & Bass is a Vienna-based drum & bass DJ. He regularly appears on the lineups of the Drum & Bassick series at Club Lucia, including its Summer Opening Special and its first anniversary in 2026, and also plays the metal-meets-DnB party High Voltage Fairies at Flex."
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "src": [
+   "https://ra.co/events/2442906",
+   "https://ra.co/events/2467514",
+   "https://www.clublucia.at/event/drum-bassick-x-radiance/",
+   "https://flex.at/event/high-voltage-fairies-in-the-pit/"
+  ]
  },
  "Cybercutz": {
   "noImg": "2026-11-02",
   "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Cybercutz ist ein Wiener Drum-&-Bass-DJ und tritt auf Resident Advisor als Veranstalter der Reihe Drum & Bassick im Club Lucia auf, die 2026 ihr einjähriges Bestehen feierte. Cybercutz spielt dort regelmäßig selbst, oft gemeinsam mit Dave & Bass.",
+   "en": "Cybercutz is a Vienna-based drum & bass DJ and is listed on Resident Advisor as the promoter of the Drum & Bassick series at Club Lucia, which celebrated its first anniversary in 2026. Cybercutz regularly plays there as well, often alongside Dave & Bass."
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "src": [
+   "https://ra.co/promoters/168917",
+   "https://ra.co/events/2467514",
+   "https://ra.co/events/2442906",
+   "https://www.clublucia.at/event/drum-bassick-x-radiance/"
+  ]
  },
  "Escapism": {
   "noImg": "2026-11-02",
@@ -12683,6 +12829,447 @@ const AR={
   "infoChk": "2026-11-02",
   "noImg": "2026-11-02",
   "noLinks": "2026-11-02"
+ },
+ "DJ Kompact": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "DDS Fam": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Dual Drive": {
+  "img": "https://static.ra.co/images/profiles/square/dualdrive.jpg?dateUpdated=1773411077417",
+  "links": {
+   "ra": "https://ra.co/dj/dualdrive",
+   "sc": "https://soundcloud.com/dualdriveofficial",
+   "ig": "https://www.instagram.com/dualdriveofficial",
+   "web": "https://linktr.ee/dualdriveofficial"
+  },
+  "bio": {
+   "de": "Schwedisches DJ-Duo aus Bara W und Technokid, das treibenden, groovigen Techno spielt. Die beiden legen seit über vier Jahren gemeinsam auf und betrieben zuvor die Stockholmer Eventmarke Demand (Demandsthlm), mit der sie internationale Artists buchten. Sie standen bereits mit Lilly Palmer, Bart Skils und Thomas Schumacher auf der Bühne.",
+   "en": "Swedish DJ duo of Bara W and Technokid, playing driving, groovy techno. The two have played together for more than four years and previously ran the Stockholm event brand Demand (Demandsthlm), booking international artists. They have shared stages with Lilly Palmer, Bart Skils and Thomas Schumacher."
+  },
+  "from": {
+   "de": "Schweden",
+   "en": "Sweden"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "Dual Drive Live @ DEMAND Pres. Lilly Palmer [Slaktkyrkan, Stockholm]",
+    "u": "https://soundcloud.com/dualdriveofficial/dual-drive-live-demand-pres-lilly-palmer-slaktkyrkan"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/dualdrive",
+   "https://ra.co/dj/dualdrive/biography",
+   "https://soundcloud.com/dualdriveofficial/dual-drive-live-demand-pres-lilly-palmer-slaktkyrkan",
+   "https://www.instagram.com/dualdriveofficial/"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "DJ Scarf": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Djane Stone": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "DJ Zidi": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Carl H": {
+  "img": "https://static.ra.co/images/profiles/carlh.jpg?dateUpdated=1762190738567",
+  "links": {
+   "ra": "https://ra.co/dj/carlh",
+   "sc": "https://soundcloud.com/carl-haop"
+  },
+  "from": {
+   "de": "Cleethorpes, Vereinigtes Königreich",
+   "en": "Cleethorpes, United Kingdom"
+  },
+  "genres": [
+   "House",
+   "Techno",
+   "Electro",
+   "Acid"
+  ],
+  "labels": [
+   "Animals On Psychedelics"
+  ],
+  "bio": {
+   "de": "Carl H ist DJ, Labelbetreiber, Veranstalter und Radiomoderator aus Cleethorpes, England, und leitet das Label Animals On Psychedelics. Seine Sets bewegen sich zwischen House, Techno, Electro, Rave und Acid. Er war Resident bei Northern Purpose, Collective Minds (Birmingham) und Sub:System (London) und spielte u. a. im Club der Visionaere und in der Grelle Forelle. Auf dem Leedser Sender KMAH moderiert er eine monatliche Radioshow unter dem Namen seines Labels.",
+   "en": "Carl H is a DJ, label owner, promoter and radio host from Cleethorpes, England, who runs the label Animals On Psychedelics. His sets range across house, techno, electro, rave and acid. He has held residencies at Northern Purpose, Collective Minds (Birmingham) and Sub:System (London) and has played Club der Visionaere and Grelle Forelle, among others. He hosts a monthly radio show named after his label on Leeds station KMAH."
+  },
+  "sets": [
+   {
+    "t": "Carl H @ Kraft und Licht invites Animals on Psychedelics [ADE '22]",
+    "u": "https://soundcloud.com/kraftundlicht/carlh-kraft-und-licht-invites-animals-on-psychedelics"
+   },
+   {
+    "t": "Ute Mix Series #41 – Carl H",
+    "u": "https://soundcloud.com/ute-rec/41-carlh"
+   },
+   {
+    "t": "Animals On Psychedelics KMAH #1",
+    "u": "https://soundcloud.com/carl-haop/animals-on-psychedelics-kmah1"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/carlh",
+   "https://ra.co/dj/carlh/biography",
+   "https://soundcloud.com/carl-haop/tracks"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "DJ Countessa": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Chicano": {
+  "img": "https://static.ra.co/images/profiles/square/chicano.jpg?dateUpdated=1482404218000",
+  "links": {
+   "ra": "https://ra.co/dj/chicano",
+   "sc": "https://soundcloud.com/chicano-6",
+   "ig": "https://www.instagram.com/chicano_music",
+   "bc": "https://chicano.bandcamp.com"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "real": "Manuel Clauss",
+  "genres": [
+   "Deep House",
+   "Tech House",
+   "Techno"
+  ],
+  "labels": [
+   "Chicano - Music",
+   "Matrix Music Records",
+   "Disco Balls Records"
+  ],
+  "bio": {
+   "de": "Chicano ist ein deutscher DJ und Produzent zwischen Deep House, Tech House und Techno, aufgewachsen in Nordrhein-Westfalen nahe Bonn/Köln. Er veröffentlichte auf seinem eigenen Imprint Chicano - Music sowie auf Matrix Music Records und Disco Balls Records. Gespielt hat er u. a. in der Elektroküche (Köln) und beim Beats For Love Festival in Ostrava.",
+   "en": "Chicano is a German DJ and producer working between deep house, tech house and techno, raised in North Rhine-Westphalia near Bonn/Cologne. He has released on his own imprint Chicano - Music as well as on Matrix Music Records and Disco Balls Records. He has played at Elektroküche (Cologne) and Beats For Love Festival in Ostrava, among others."
+  },
+  "src": [
+   "https://ra.co/dj/chicano",
+   "https://ra.co/dj/chicano/biography",
+   "https://ra.co/events/2550352"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "David Phoenix": {
+  "img": "https://static.ra.co/images/profiles/square/davidphoenix.jpg?dateUpdated=1791571998880",
+  "links": {
+   "ra": "https://ra.co/dj/davidphoenix",
+   "sc": "https://soundcloud.com/davidphoenixdj",
+   "ig": "https://www.instagram.com/davidphoenixdj",
+   "bc": "https://davidphoenix.bandcamp.com"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "Techno",
+   "Minimal Techno",
+   "Psytech"
+  ],
+  "labels": [
+   "Iboga Records",
+   "Soupherb Records",
+   "Set About",
+   "Subios Records",
+   "Techgnosis Records",
+   "Vision Serpent",
+   "Shadow Wulf"
+  ],
+  "bio": {
+   "de": "David Phoenix ist ein in Ungarn geborener, in Österreich ansässiger DJ und Produzent, der sich auf der abstrakten Seite von Techno und Minimal bewegt. Seine Musik ist düster und treibend. Releases erschienen u. a. auf Iboga Records, Techgnosis Records, Shadow Wulf und Vision Serpent, für das er auch die Reihe „Vision Serpent Podcast“ mixt.",
+   "en": "David Phoenix is a Hungarian-born, Austria-based DJ and producer working on the abstract side of techno and minimal. His music is dark and driving. He has released on labels including Iboga Records, Techgnosis Records, Shadow Wulf and Vision Serpent, for which he also mixes the Vision Serpent Podcast series."
+  },
+  "sets": [
+   {
+    "t": "Vision Serpent Podcast 006",
+    "u": "https://soundcloud.com/davidphoenixdj/vision-serpent-podcast-006"
+   },
+   {
+    "t": "Vision Serpent Podcast 004",
+    "u": "https://soundcloud.com/davidphoenixdj/vision-serpent-podcast-004"
+   },
+   {
+    "t": "Vision Serpent Podcast 001",
+    "u": "https://soundcloud.com/davidphoenixdj/vision-serpent-podcast-001"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://de.ra.co/dj/davidphoenix",
+   "https://davidphoenix.bandcamp.com/music",
+   "https://soundcloud.com/davidphoenixdj"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "CREEDS": {
+  "links": {
+   "sc": "https://soundcloud.com/creeds",
+   "sp": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5",
+   "ig": "https://www.instagram.com/creeds_official/"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "genres": [
+   "Hard Techno",
+   "Frenchcore"
+  ],
+  "bio": {
+   "de": "CREEDS ist ein französischer Produzent und DJ mit Wurzeln im Frenchcore, der heute im Bereich Hard Techno und Hardstyle arbeitet. Sein Track „Push Up“ (2022) ging viral und wurde in mehreren europäischen Ländern mit Gold und Platin ausgezeichnet. Weitere Releases sind u. a. „Closer“ (2024) und „Dangerous“ (2026).",
+   "en": "CREEDS is a French producer and DJ with roots in frenchcore who now works in hard techno and hardstyle. His track \"Push Up\" (2022) went viral and earned gold and platinum certifications in several European countries. Further releases include \"Closer\" (2024) and \"Dangerous\" (2026)."
+  },
+  "sets": [
+   {
+    "t": "RaveCast118 - Creeds",
+    "u": "https://soundcloud.com/rave_alert/ravecast118-creeds"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://www.technoairlines.com/artist/creeds",
+   "https://fourfourmag.com/in-conversation-with-creeds-i-was-ready-to-give-up-then-push-up-happened/",
+   "https://soundcloud.com/creeds/push-up"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
+ },
+ "DJEENI": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Crnobrnja": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Cosmic Gate": {
+  "img": "https://i.scdn.co/image/ab6761610000e5eb715f2b0a098b31ba36e14876",
+  "links": {
+   "ra": "https://ra.co/dj/cosmicgate",
+   "sc": "https://soundcloud.com/cosmicgateofficial",
+   "sp": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+  },
+  "bio": {
+   "de": "Cosmic Gate ist ein deutsches Trance-Projekt, das Nic Chagall und Bossi (Stefan Bossems) Ende 1998 gründeten. Bekannt wurde es mit Tracks wie „Fire Wire“, „Exploration of Space“ und „Not Enough Time“ sowie mit der Compilation-Reihe „Back2Back“ auf Tiëstos Label Black Hole Recordings. Im Februar 2026 stieg Bossems nach 27 Jahren aus, seither führt Nic Chagall Cosmic Gate allein weiter.",
+   "en": "Cosmic Gate is a German trance project that Nic Chagall and Bossi (Stefan Bossems) started in late 1998. It became known for tracks such as \"Fire Wire\", \"Exploration of Space\" and \"Not Enough Time\", and for the Back2Back compilation series on Tiësto's label Black Hole Recordings. In February 2026 Bossems left after 27 years, and Nic Chagall has continued Cosmic Gate as a solo project since then."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Trance"
+  ],
+  "labels": [
+   "Black Hole Recordings"
+  ],
+  "sets": [
+   {
+    "t": "Cosmic Gate live at The Concourse Project, Austin, TX (31.08.24)",
+    "u": "https://soundcloud.com/cosmicgateofficial/cosmic-gate-live-at-the-concourse-project-austin-tx-310824"
+   },
+   {
+    "t": "Cosmic Gate – Live DJ Set, 1001Tracklists x DJ Lovers Club pres. Water Ways Miami 2024",
+    "u": "https://soundcloud.com/1001tracklists/cosmic-gate-live-water-ways-miami-2024"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/cosmicgate",
+   "https://ra.co/dj/cosmicgate/biography",
+   "https://ra.co/news/84631",
+   "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS",
+   "https://soundcloud.com/cosmicgateofficial/cosmic-gate-live-at-the-concourse-project-austin-tx-310824"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Christella": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "DJ Keshi": {
+  "img": "https://static.ra.co/images/profiles/square/djkeshi.jpg?dateUpdated=1793569898640",
+  "links": {
+   "ra": "https://ra.co/dj/djkeshi",
+   "sc": "https://soundcloud.com/dj-keshii",
+   "ig": "https://www.instagram.com/dj_keshi"
+  },
+  "bio": {
+   "de": "DJ Keshi ist eine Wiener DJ mit iranischen und kurdischen Wurzeln. Sie spielt vor allem basslastige, perkussive Sets zwischen Breaks und Broken Beat, beeinflusst von Global Bass und diasporischen Sounds, kombiniert mit verspielten Vocals und Edits. Sie ist Mitgründerin des Wiener Breakbeat- und Bass-Kollektivs breakberry und Teil von Res Radio.",
+   "en": "DJ Keshi is a Vienna-based DJ with Iranian and Kurdish roots. She mostly plays bass-heavy, percussion-driven sets built on breaks and broken beat, drawing on global bass and diasporic sounds and mixing in playful vocals and edits. She co-founded the Viennese breakbeat and bass collective breakberry and is part of Res Radio."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Breakbeat",
+   "Bass"
+  ],
+  "sets": [
+   {
+    "t": "DJ Keshi b2b 2NDLISTEN b2b o0m @ Lichtung Festival 2026",
+    "u": "https://soundcloud.com/dj-keshii/dj-keshi-b2b-2ndlisten-b2b-o0m"
+   },
+   {
+    "t": "Radio Roll #2 w/ DJ Keshi (Res.Radio)",
+    "u": "https://soundcloud.com/resradio/radio-roll-2"
+   },
+   {
+    "t": "The res Breakfast Show w/ DJ Keshi & o0m (Res.Radio)",
+    "u": "https://soundcloud.com/resradio/sunday-klubb-5"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/djkeshi",
+   "https://fr.ra.co/dj/djkeshi/biography",
+   "https://soundcloud.com/dj-keshii"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Disorder": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "DJ Karotte": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Crazy Sonic": {
+  "img": "https://static.ra.co/images/profiles/crazysonic.jpg?dateUpdated=1305481560000",
+  "links": {
+   "ra": "https://ra.co/dj/crazysonic",
+   "sc": "https://soundcloud.com/crazysonic"
+  },
+  "real": "Rudolf Wrany",
+  "bio": {
+   "de": "Crazy Sonic organisiert seit den frühen 1990ern Partys in Wiener Clubs und veranstaltete in dieser Zeit auch Events mit Kruder & Dorfmeister. Ab 1998 buchte er für das Flex, wo er 2001 die wöchentliche Dienstagsreihe „CRAZY“ startete, die rund neun Jahre lief. Seit 2006 produziert er; Releases erschienen u. a. auf VIM Records, Estrela, International DeeJay Gigolo Records und seinem Label FLEX Schallplatten.",
+   "en": "Crazy Sonic has been organising parties in Vienna's clubs since the early 1990s, including events with Kruder & Dorfmeister. He began booking for Flex in 1998, and in 2001 he launched the weekly Tuesday night \"CRAZY\" there, which ran for about nine years. He has been producing since 2006, with releases on labels including VIM Records, Estrela, International DeeJay Gigolo Records and his own FLEX Schallplatten."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "labels": [
+   "International DeeJay Gigolo Records",
+   "VIM Records",
+   "Estrela",
+   "Clean And Dirty Recordings",
+   "Souled Records",
+   "Stripped Down Records",
+   "FLEX Schallplatten"
+  ],
+  "src": [
+   "https://ra.co/dj/crazysonic",
+   "https://ra.co/dj/crazysonic/biography"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Caban": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "DBBD": {
+  "img": "https://static.ra.co/images/profiles/square/dbbd.jpg?dateUpdated=1777499633167",
+  "links": {
+   "ra": "https://ra.co/dj/dbbd",
+   "sc": "https://soundcloud.com/playdbbd",
+   "bc": "https://dbbd.bandcamp.com"
+  },
+  "bio": {
+   "de": "DBBD ist ein Produzent und DJ aus Berlin und gilt als Pionier des „Slut Bass“: dreckige Basslines, eingängige Synth-Melodien und oft freche weibliche Vocals. Er arbeitet häufig mit Miss Bashful zusammen, unter anderem an „Hard Being Hot“ und „DJ on Your Face“ (mit MCR-T).",
+   "en": "DBBD is a Berlin producer and DJ regarded as a pioneer of \"slut bass\": dirty basslines, catchy synth melodies and often cheeky female vocals. He collaborates frequently with Miss Bashful, including on \"Hard Being Hot\" and \"DJ on Your Face\" (with MCR-T)."
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "sets": [
+   {
+    "t": "TUNNEL Mix 005 – Miss Bashful x DBBD live @ TUNNEL (14.01.2023)",
+    "u": "https://soundcloud.com/tunnel_radio/miss-bashful-x-dbbd-live-tunnel-jan-14-2023"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://ra.co/dj/dbbd",
+   "https://dbbd.bandcamp.com/community",
+   "https://www.technoairlines.com/event/cybertribe-11-years-with-dbbd-berlin-vienna-prst-2026-12-07",
+   "https://kzsc.org/blog/2025/03/10/berlins-it-girl-and-dbbd-at-1015-folsom/",
+   "https://soundcloud.com/playdbbd/dbbd-x-miss-bashful-hard-being-hot",
+   "https://soundcloud.com/livefromearth/mcr-t-miss-bashful-dbbd-dj-on"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Chiara Allnutt": {
+  "img": "https://static.ra.co/images/profiles/square/chiaraallnutt.jpg?dateUpdated=1765647857577",
+  "links": {
+   "ra": "https://ra.co/dj/chiaraallnutt",
+   "sc": "https://soundcloud.com/chiara_allnutt",
+   "ig": "https://www.instagram.com/chiara.allnutt"
+  },
+  "bio": {
+   "de": "Chiara Allnutt ist in Deutschland geboren, von Berlin geprägt und laut RA in Österreich ansässig. Sie spielt groovigen Uptempo-Techno mit Vocals und hüpfenden Grooves und mischt dabei verschiedene Genres. Sie legt regelmäßig in Wien (u. a. The Loft) und Berlin auf.",
+   "en": "Chiara Allnutt was born in Germany, shaped by Berlin and, according to RA, is based in Austria. She plays groovy uptempo techno with vocals and bouncy grooves, mixing several genres. She plays regularly in Vienna (including The Loft) and Berlin."
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "alias": [
+   "Chiara Allnut"
+  ],
+  "sets": [
+   {
+    "t": "NonStop No. 187 – Chiara Allnutt at OXI (09.11.2024)",
+    "u": "https://soundcloud.com/nonchalance_music/nonstop-no-187-chiara-allnutt"
+   },
+   {
+    "t": "Chiara Allnutt b2b MC1R – Synthetic Love (Radio Rudina)",
+    "u": "https://soundcloud.com/radiorudina/chiara-allnut-b2b-mc1r-synthetic-love-radio-rudina"
+   }
+  ],
+  "setsChecked": "2026-11-02",
+  "src": [
+   "https://de.ra.co/dj/chiaraallnutt",
+   "https://ra.co/dj/chiaraallnut",
+   "https://soundcloud.com/chiara_allnutt"
+  ],
+  "infoChk": "2026-11-02"
  }
 };
 const VG={
