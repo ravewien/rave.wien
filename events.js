@@ -2797,7 +2797,8 @@ const VI={
   ],
   "src": [
    "https://ra.co/events/2573316"
-  ]
+  ],
+  "infoChk": "2026-11-02"
  },
  "Wiener Würstelstand Spittelau": {
   "de": "Würstelstand von Mike Lanner und Sengl bei der U-Bahn-Station Spittelau mit modernen Hot Dogs, Fassbier und Garten; gelegentlich legen hier DJs auf.",
@@ -2961,7 +2962,7 @@ const VI={
    "Indoor"
   ],
   "web": "https://www.praterstrasse.wien/",
-  "infoChk": "2026-10-31",
+  "infoChk": "2026-11-02",
   "logo": "https://imgproxy.ra.co/_/quality:66/h:180/w:180/extend:1/rt:fill/enlarge:1/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL2NsdWJzL3Byc3RfcmFfbG9nb196ZWljaGVuZmxhLWNoZS0xLnBuZz9kYXRlVXBkYXRlZD0xNzc0NTM1MzAzNTkw",
   "man": 1
  },
@@ -2999,7 +3000,7 @@ const VI={
   "io": [
    "Indoor"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Celeste": {
   "opened": "2014",
@@ -3056,7 +3057,7 @@ const VI={
   "io": [
    "Indoor"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Club Lucia": {
   "web": "https://www.clublucia.at/",
@@ -3074,7 +3075,7 @@ const VI={
   "de": "Live-Musik- und Club-Location in den Stadtbahnbögen 24/25 am Gürtel (1080, nahe U6 Thaliastraße), seit August 2025 – Konzerte unter der Woche, am Wochenende Clubnächte mit House, Techno und Drum & Bass.",
   "en": "Live music and club venue in railway arches 24/25 on the Gürtel (1080, near U6 Thaliastraße), open since August 2025 – concerts on weeknights, club nights with house, techno and drum & bass at weekends.",
   "opened": "2025",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "O der Klub": {
   "web": "https://o-klub.at/",
@@ -3156,7 +3157,8 @@ const VI={
   ],
   "logo": "https://assets-s3.welocally.at/shrine/store/fdb7dbe8a7bf036d6f0ac22885b8b3d2.png",
   "web": "https://amwasser.wien",
-  "man": 1
+  "man": 1,
+  "infoChk": "2026-11-02"
  },
  "Porto Pollo": {
   "de": "Bar am Ufer der Donauinsel in Kaisermühlen, Day-Raves am Wochenende.",
@@ -3167,14 +3169,16 @@ const VI={
   ],
   "io": [
    "Outdoor"
-  ]
+  ],
+  "infoChk": "2026-11-02"
  },
  "The Popp im Prater": {
   "de": "Location im Wurstelprater, Open Airs u. a. vom Kollektiv Ponyhof.",
   "en": "Venue in the Wurstelprater, open airs e.g. by the Ponyhof collective.",
   "src": [
    "https://www.instagram.com/reel/Dc_fDV6s2Nv/"
-  ]
+  ],
+  "infoChk": "2026-11-02"
  },
  "The Loft": {
   "web": "https://www.theloft.at/",
@@ -3243,7 +3247,8 @@ const VI={
  "Ottakringer Brauerei": {
   "src": [
    "https://warda.at/events/ksot-halloween-warehouse-rave/",
-   "https://meeting.vienna.info/en/event-planning/venue-finder/ottakringer-eventlocation-454394"
+   "https://meeting.vienna.info/en/event-planning/venue-finder/ottakringer-eventlocation-454394",
+   "https://www.ottakringerbrauerei.at/en/beer-and-brewing/about-ottakringer/"
   ],
   "noLogo": "2026-10-28",
   "io": [
@@ -3257,7 +3262,8 @@ const VI={
   "de": "Traditionsbrauerei in Ottakring, deren historische Brauereiräume (u. a. Hefeboden, Alte Technik) als Eventlocation für Firmen- und Privatfeiern, Seminare und Clubbings genutzt werden; dazu ein rund 1.000 m² großer Außenbereich.",
   "en": "Traditional brewery in Ottakring whose historic brewing halls (incl. Hefeboden, Alte Technik) serve as an event venue for corporate and private events, seminars and club nights, plus an outdoor area of around 1,000 m².",
   "web": "https://www.ottakringerbrauerei.at",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "opened": "1837"
  },
  "Lugner City": {
   "src": [
@@ -3325,14 +3331,14 @@ const VI={
   "de": "Bar und Live-Location in den Stadtbahnbögen 37–38 am Lerchenfelder Gürtel (1080) – Wiens Anlaufstelle für avancierte Elektronik und experimentellen Rock, mit Konzerten unter der Woche und DJ-Abenden am Wochenende.",
   "en": "Bar and live venue in railway arches 37–38 on the Lerchenfelder Gürtel (1080) – Vienna's hub for advanced electronic music and experimental rock, with concerts during the week and DJ nights at weekends.",
   "web": "https://rhiz.wien/",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "kv.r.": {
   "src": [
    "https://ra.co/events/2564492"
   ],
   "noLogo": "2026-10-28",
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02"
  },
  "Kollektiv Kaorle": {
   "src": [
@@ -3344,7 +3350,7 @@ const VI={
   "de": "Kulturverein bzw. Kollektiv, das leerstehende Räume bespielt; seit Oktober 2025 im Pavillon 21 am Otto-Wagner-Areal (Steinhof, Penzing), davor in Ottakring. Programm aus Konzerten, Festivals, Ausstellungen, Film und Workshops.",
   "en": "Cultural association/collective activating vacant spaces; since October 2025 in Pavilion 21 of the Otto Wagner Areal (Steinhof, Penzing), previously in Ottakring. Programme of concerts, festivals, exhibitions, film and workshops.",
   "web": "https://kollektiv-kaorle.at",
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02"
  },
  "Westbahn Studios": {
   "src": [
@@ -3478,7 +3484,8 @@ const VI={
   "src": [
    "https://ra.co/events/2548181",
    "https://www.wien.info/de/essen-trinken/bars-clubs/guertel-347398",
-   "https://www.loop.co.at"
+   "https://www.loop.co.at",
+   "https://loop.co.at/"
   ],
   "de": "Musikbar in den Stadtbahnbögen am Lerchenfelder Gürtel – Mischung aus Bar, Club und Lounge mit Konzerten, Sessions, DJ-Sets und Schanigarten, seit über zwei Jahrzehnten.",
   "en": "Music bar in the Stadtbahn arches on Lerchenfelder Gürtel – a mix of bar, club and lounge with concerts, sessions, DJ sets and a outdoor terrace, open for more than two decades.",
@@ -3506,7 +3513,7 @@ const VI={
    "Outdoor"
   ],
   "noLogo": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02"
  },
  "Stiftskeller Klosterneuburg": {
   "de": "Gewölbekeller mit hohen Decken und Ziegelwänden unter dem Stiftsrestaurant Leopold in Klosterneuburg.",
