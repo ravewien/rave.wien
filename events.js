@@ -394,7 +394,8 @@ const CG={
  "Vision Serpent": [
   "Techno",
   "Minimal Techno",
-  "Psytech"
+  "Psytech",
+  "Minimal"
  ],
  "techNOage": [
   "Techno"
@@ -560,7 +561,8 @@ const CG={
   "Ambient"
  ],
  "Triple A Events": [
-  "Trance"
+  "Trance",
+  "Melodic Techno"
  ],
  "AWSM": [
   "Afro House",
@@ -590,9 +592,14 @@ const CG={
  "TUFF": [
   "Bounce",
   "Hardbounce"
+ ],
+ "54Hz": [
+  "Bounce",
+  "Hard Bounce",
+  "Hard Techno"
  ]
 };
-const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","AWSM","Bassbussi","Bassclub","Bassproduction","Belly Dance Services","Bestand","Bonkers","Café Mondo","Callshop Radio","Cardio Cult","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Derisch","Drum & Bassick","Dunkelton Kollektiv","Dystopia Rave","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","House of Plüsch","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Vienna","Ravenbogen","Rude Bwoy Embassy","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Super Disco","Superego Records","Switch!","Synergy","Taktgefühl","Tasteless","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","Wreck","YE","Zuckerwatt","Zyklop Audio"];
+const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","AWSM","Bassbussi","Bassclub","Bassproduction","Belly Dance Services","Bestand","Bonkers","Café Mondo","Callshop Radio","Cardio Cult","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Derisch","Drum & Bassick","Dunkelton Kollektiv","Dystopia Rave","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Fish Market","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","House of Plüsch","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Vienna","Ravenbogen","Rude Bwoy Embassy","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Super Disco","Superego Records","Switch!","Synergy","Taktgefühl","Tanz dich glücklich","Tasteless","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","Wreck","YE","Zuckerwatt","Zyklop Audio"];
 const CI={
  "303": {
   "noLogo": "2026-10-31",
@@ -851,7 +858,9 @@ const CI={
   "foundedNote": 1,
   "src": [
    "https://ohschonhell.at/orte/grelle+forelle/3"
-  ]
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Techno Entgleist": {
   "founded": "2017",
@@ -1072,7 +1081,9 @@ const CI={
   "en": "Series by MEAT (MEAT Recordings, since 2009) at Grelle Forelle.",
   "src": [
    "https://ohschonhell.at/orte/grelle+forelle/3"
-  ]
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Selected": {
   "src": [
@@ -1224,7 +1235,9 @@ const CI={
   "rules": {
    "sexpos": 1
   },
-  "man": 1
+  "man": 1,
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "HERZZZ": {
   "members": [
@@ -2017,6 +2030,163 @@ const CI={
    "https://ra.co/events/2310895"
   ],
   "infoChk": "2026-11-01"
+ },
+ "Derisch": {
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Bonkers": {
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Belly Dance Services": {
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "AMBIEVENT": {
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Das Syndikat": {
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Sub Zero": {
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Tanz dich glücklich": {
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Vision Serpent": {
+  "de": "Techno-Label aus Österreich zwischen Techno, Minimal und Psytech, kuratiert von Gründer David Phoenix; veranstaltet auch Label-Showcases.",
+  "en": "Austrian techno label bridging techno, minimal and psytech, curated by founder David Phoenix; also hosts label showcases.",
+  "type": [
+   "Label"
+  ],
+  "from": "Österreich",
+  "web": "https://visionserpentrecords.com",
+  "ig": "https://www.instagram.com/visionserpentrecords",
+  "bc": "https://visionserpentrecords.bandcamp.com",
+  "logo": "https://ugc.production.linktr.ee/c93e2304-592a-41c3-80c5-fd1e533ca7e4_VS-LOGO-4000-centered-b.png?io=true&size=avatar-v3_0",
+  "src": [
+   "https://de.ra.co/labels/22834",
+   "https://linktr.ee/visionserpentrecords"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Synergy": {
+  "de": "Partyreihe „SYNERGY RAVE“ mit Trance und Hard Techno im Werk, veranstaltet von KARTELL.FM.",
+  "en": "Party series “SYNERGY RAVE” with trance and hard techno at Das Werk, run by KARTELL.FM.",
+  "alias": ["SYNERGY RAVE"],
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "tix": "https://synergy.kartell.fm",
+  "src": [
+   "https://de.ra.co/events/2445175"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "KARTELL.FM": {
+  "de": "Wiener Veranstalter hinter der Reihe SYNERGY RAVE (Trance und Hard Techno) im Werk.",
+  "en": "Vienna-based organiser behind the SYNERGY RAVE series (trance and hard techno) at Das Werk.",
+  "from": "Wien",
+  "web": "https://kartell.fm",
+  "ig": "https://instagram.com/kartell.fm",
+  "series": [
+   "Synergy"
+  ],
+  "src": [
+   "https://de.ra.co/events/2445175",
+   "https://kartell.fm"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "HEKTISCH": {
+  "de": "Wiener Crew, die bei SYNERGY RAVE im Werk einen eigenen Floor gestaltet.",
+  "en": "Vienna crew hosting its own floor at SYNERGY RAVE at Das Werk.",
+  "from": "Wien",
+  "ig": "https://instagram.com/hektisch.vie",
+  "src": [
+   "https://de.ra.co/events/2445175"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "GLITCH": {
+  "web": "https://www.enter-glitch.com/",
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "techNOage": {
+  "de": "Monatliches Techno-Clubbing am Nachmittag ab 15 Uhr, das Inklusion und Begegnung zwischen Generationen fördert – für Senior:innen, Menschen mit Behinderung, Eltern sowie frühere und heutige Raver:innen.",
+  "en": "Monthly afternoon techno clubbing from 3 pm promoting inclusion and intergenerational encounters – for seniors, people with disabilities, parents and past and present ravers.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "src": [
+   "https://ra.co/events/2325124"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Art Attech": {
+  "de": "Event-Reihe „Kunst küsst Techno“ im FLUCC, die Kunst und Techno zum „Art Rave“ verbindet; 2026 fand die 14. Ausgabe statt.",
+  "en": "Event series “Kunst küsst Techno” (art kisses techno) at FLUCC, combining art and techno into an “art rave”; the 14th edition took place in 2026.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "ig": "https://www.instagram.com/artattechwien/",
+  "src": [
+   "https://flucc.at/events/hnXWhA-art-attech/"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "54Hz": {
+  "de": "Partyformat im Werk mit Bounce, Hard Bounce und Hard Techno.",
+  "en": "Party format at Das Werk featuring bounce, hard bounce and hard techno.",
+  "from": "Wien",
+  "src": [
+   "https://ra.co/events/2464385"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "CPE": {
+  "de": "Wiener Party-Crew, die seit 2006 Partys veranstaltet und 2026 im Club Exil ihr 20-jähriges Bestehen feiert.",
+  "en": "Vienna party crew throwing parties since 2006, celebrating its 20th anniversary at Club Exil in 2026.",
+  "founded": "2006",
+  "foundedNote": 1,
+  "from": "Wien",
+  "src": [
+   "https://www.club-exil.at/en"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Triple A Events": {
+  "de": "Wiener Veranstalter (auch „AAA Events“) mit der Eventmarke „Access Another Atmosphere“ für Trance, Melodic Techno und verwandte Sounds, u. a. im Club Exil und im Prater Dome.",
+  "en": "Vienna-based organiser (also “AAA Events”) behind the event brand “Access Another Atmosphere”, focusing on trance, melodic techno and related sounds, e.g. at Club Exil and Prater Dome.",
+  "alias": ["AAA Events"],
+  "from": "Wien",
+  "web": "https://www.aaa-events.at/",
+  "series": [
+   "Access Another Atmosphere"
+  ],
+  "src": [
+   "https://www.aaa-events.at/",
+   "https://ra.co/events/2546243"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
  }
 };
 const VI={
@@ -2030,7 +2200,9 @@ const VI={
   ],
   "io": [
    "Outdoor"
-  ]
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Hofburg Vienna": {
   "de": "Ehemalige Kaiserresidenz am Heldenplatz, deren Prunksäle auch für Großveranstaltungen genutzt werden.",
@@ -2533,19 +2705,30 @@ const VI={
   "src": [
    "https://ra.co/events/2568237"
   ],
-  "noLogo": "2026-10-28",
+  "noLogo": "2026-11-02",
   "io": [
    "Indoor"
-  ]
+  ],
+  "infoChk": "2026-11-02"
  },
  "Prater Dome": {
   "src": [
-   "https://ra.co/events/2546243"
+   "https://ra.co/events/2546243",
+   "https://www.wien.info/en/dine-drink/bars-clubs/clubs-discos/prater-dome-355624",
+   "https://www.praterdome.at"
   ],
-  "noLogo": "2026-10-28",
   "io": [
    "Indoor"
-  ]
+  ],
+  "de": "Großdiskothek im Wiener Prater am Riesenradplatz – laut Wien Tourismus die größte Disco Österreichs, mit zwei Ebenen, drei Floors und zwölf Bars; musikalisch breit von Techno, House, EDM, Drum & Bass und Trance bis Hip-Hop und 90er/2000er.",
+  "en": "Large nightclub in Vienna's Prater at Riesenradplatz – according to Vienna Tourism Austria's largest disco, with two levels, three floors and twelve bars; musically broad, from techno, house, EDM, drum & bass and trance to hip-hop and 90s/2000s.",
+  "web": "https://www.praterdome.at",
+  "opened": "2008",
+  "logo": "https://praterdome.at/media/default/_targets/override/images/praterdome-logo.png?v=1793200157",
+  "floors": [
+   "Main Floor"
+  ],
+  "infoChk": "2026-11-02"
  },
  "Altia Skybar – DC Tower": {
   "src": [
@@ -2595,8 +2778,18 @@ const VI={
  },
  "Loop": {
   "src": [
-   "https://ra.co/events/2548181"
-  ]
+   "https://ra.co/events/2548181",
+   "https://www.wien.info/de/essen-trinken/bars-clubs/guertel-347398",
+   "https://www.loop.co.at"
+  ],
+  "de": "Musikbar in den Stadtbahnbögen am Lerchenfelder Gürtel – Mischung aus Bar, Club und Lounge mit Konzerten, Sessions, DJ-Sets und Schanigarten, seit über zwei Jahrzehnten.",
+  "en": "Music bar in the Stadtbahn arches on Lerchenfelder Gürtel – a mix of bar, club and lounge with concerts, sessions, DJ sets and a outdoor terrace, open for more than two decades.",
+  "web": "https://loop.co.at",
+  "io": [
+   "Indoor"
+  ],
+  "logo": "https://loop.co.at/wp-content/uploads/2022/02/copy-loop-logo_white.jpg",
+  "infoChk": "2026-11-02"
  },
  "Jaz in the City": {
   "de": "Hotel Jaz in the City in der Windmühlgasse (Mariahilf) mit der Dachbar Mariatrink, in der die Rooftop Series mit DJ-Sets stattfindet.",
@@ -2625,7 +2818,9 @@ const VI={
   ],
   "src": [
    "https://ra.co/events/2547042"
-  ]
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Multiversum Schwechat": {
   "de": "Veranstaltungszentrum in Schwechat südöstlich von Wien.",
@@ -2634,8 +2829,18 @@ const VI={
    "Indoor"
   ],
   "src": [
-   "https://ra.co/events/2540048"
-  ]
+   "https://ra.co/events/2540048",
+   "https://www.lower-austria.info/convention/location/multiversum-schwechat"
+  ],
+  "web": "https://www.multiversum-schwechat.at",
+  "opened": "2011",
+  "floors": [
+   "Eventhalle",
+   "VIP-Raum",
+   "Lounge"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
  }
 };
 /* LS = Logo-Suche ohne Treffer für Locations (v) / Kollektive (c) ohne VI-/CI-Eintrag: Datum der letzten Suche; frühestens 60 Tage danach erneut suchen. */
@@ -3989,7 +4194,9 @@ const AR={
    "The Loft",
    "Vakanz",
    "PRST"
-  ]
+  ],
+  "img": "https://static.ra.co/images/profiles/square/enja.jpg?dateUpdated=1711360724000",
+  "infoChk": "2026-11-02"
  },
  "Jorkes": {
   "links": {
@@ -4784,21 +4991,35 @@ const AR={
  "Spud Bencer": {
   "links": {
    "sc": "https://soundcloud.com/spudbencervie",
-   "ig": "https://www.instagram.com/spudbencer0815"
+   "ig": "https://www.instagram.com/spudbencer0815",
+   "ra": "https://ra.co/dj/spudbencer"
   },
   "src": [
    "https://ra.co/dj/spudbencer"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "real": "Felix Schwarzmann",
+  "img": "https://static.ra.co/images/profiles/square/spudbencer.jpg?dateUpdated=1706112484000",
+  "bio": {
+   "de": "Spud Bencer ist ein Wiener DJ, der seit rund zehn Jahren auflegt, u. a. in The Loft, Grelle Forelle, B72 und PRST.",
+   "en": "Spud Bencer is a Vienna-based DJ who has been playing for around ten years, including at The Loft, Grelle Forelle, B72 and PRST."
+  },
+  "infoChk": "2026-11-02"
  },
  "Paraçek": {
   "links": {
    "sc": "https://soundcloud.com/paracek",
    "bc": "https://paracek.bandcamp.com",
-   "web": "http://linktr.ee/paracek"
+   "web": "http://linktr.ee/paracek",
+   "ra": "https://ra.co/dj/para%C3%A7ek"
   },
   "src": [
-   "https://de.ra.co/dj/paracek"
+   "https://de.ra.co/dj/paracek",
+   "https://de.ra.co/dj/para%C3%A7ek"
   ],
   "sets": [
    {
@@ -4810,7 +5031,16 @@ const AR={
     "u": "https://soundcloud.com/paracek/paracek-hor-set-2025"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "img": "https://static.ra.co/images/profiles/square/para%C3%A7ek.jpg?dateUpdated=1761495669563",
+  "labels": [
+   "TRANCEKRAFT 4000"
+  ],
+  "infoChk": "2026-11-02"
  },
  "Felix Rupprecht": {
   "links": {
@@ -5261,12 +5491,36 @@ const AR={
  "Oxygeno": {
   "links": {
    "sc": "https://soundcloud.com/oxxxygeno",
-   "ig": "https://www.instagram.com/oxygeno__"
+   "ig": "https://www.instagram.com/oxygeno__",
+   "ra": "https://ra.co/dj/oxygeno",
+   "bc": "https://lostversesmusic.bandcamp.com"
   },
   "src": [
    "https://ra.co/dj/oxygeno"
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "from": {
+   "de": "Spanien",
+   "en": "Spain"
+  },
+  "real": "Diego Amido Teijeiro",
+  "img": "https://static.ra.co/images/profiles/square/oxygeno.jpg?dateUpdated=1578337446000",
+  "labels": [
+   "Axis Records",
+   "Soma Records",
+   "Edit Select Records",
+   "Illegal Alien Records",
+   "Mord",
+   "Lost Verses"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Oxygeno (Diego Amido) wurde 1995 im Norden Spaniens geboren und gilt seit 2019 als eine feste Größe der spanischen Techno-Szene. Er veröffentlichte u. a. auf Axis, Soma, Mord, Edit Select und Illegal Alien Records.",
+   "en": "Oxygeno (Diego Amido) was born in 1995 in northern Spain and has been a key figure in Spanish techno since 2019. He has released on Axis, Soma, Mord, Edit Select and Illegal Alien Records, among others."
+  },
+  "infoChk": "2026-11-02"
  },
  "Melimeko": {
   "links": {
@@ -5647,8 +5901,9 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Adam19": {
-  "noLinks": "2026-10-28",
-  "noImg": "2026-10-28"
+  "noLinks": "2026-11-02",
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Meril Fox": {
   "noLinks": "2026-10-28",
@@ -8659,6 +8914,352 @@ const AR={
   "noImg": "2026-11-01",
   "noLinks": "2026-11-01",
   "infoChk": "2026-11-01"
+ },
+ "Neophyte": {
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "img": "https://static.ra.co/images/profiles/square/neophyte.jpg?dateUpdated=1716925787000",
+  "links": {
+   "ra": "https://ra.co/dj/neophyte"
+  },
+  "src": [
+   "https://ra.co/dj/neophyte"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Ed Rush": {
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "real": "Ben Settle",
+  "img": "https://static.ra.co/images/profiles/edrush.jpg?dateUpdated=1187272638407",
+  "links": {
+   "ra": "https://ra.co/dj/edrush",
+   "sc": "https://soundcloud.com/edrush"
+  },
+  "labels": [
+   "Virus Recordings",
+   "V Recordings",
+   "Quarantine",
+   "Resist Music",
+   "Deep Jungle Records"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Ed Rush (bürgerlich Ben Settle) aus Großbritannien gilt als eine der prägenden Figuren des Drum & Bass. Er veröffentlichte u. a. auf Virus Recordings, V Recordings, Quarantine und Deep Jungle Records und ist auch als Teil des Duos Ed Rush & Optical bekannt.",
+   "en": "Ed Rush (real name Ben Settle) from the UK is regarded as one of the leading figures of drum & bass. He has released on Virus Recordings, V Recordings, Quarantine and Deep Jungle Records, among others, and is also known as one half of Ed Rush & Optical."
+  },
+  "src": [
+   "https://ra.co/dj/edrush"
+  ],
+  "infoChk": "2026-11-02",
+  "sets": [
+   {
+    "t": "Ed Rush – Summer 2012 Mix",
+    "u": "https://soundcloud.com/edrush/ed-rush-summer-2012-mix-final"
+   }
+  ],
+  "setsChecked": "2026-11-02"
+ },
+ "POSTSCRIPTUM": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Gaouta": {
+  "img": "https://i.scdn.co/image/ab6761610000e5eb4c2bb832ac6ec6a011a9b253",
+  "links": {
+   "sp": "https://open.spotify.com/artist/6WaK9Bq6tJ5gRhs0VTtujg",
+   "sc": "https://soundcloud.com/gaouta"
+  },
+  "src": [
+   "https://open.spotify.com/artist/6WaK9Bq6tJ5gRhs0VTtujg"
+  ],
+  "infoChk": "2026-11-02",
+  "sets": [
+   {
+    "t": "GAOUTA @ GIMIC (02.10.2024)",
+    "u": "https://soundcloud.com/gimic-radio/gaouta-gimic-02-october-2024"
+   },
+   {
+    "t": "Club Gouine invite Gaouta (Januar 2024)",
+    "u": "https://soundcloud.com/ines-yazidi-608912782/club-gouine-invite-gaouta"
+   }
+  ],
+  "setsChecked": "2026-11-02"
+ },
+ "Jules Foe": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Redivider": {
+  "links": {
+   "sc": "https://soundcloud.com/redividervienna"
+  },
+  "src": [
+   "https://soundcloud.com/redividervienna"
+  ],
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "setsChecked": "2026-11-02"
+ },
+ "FESH": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Antone": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Dudas": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Chris Eru": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Mahofsky": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Adina Camhy": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Andrea Ida": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Philipp Otterbach": {
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "img": "https://static.ra.co/images/profiles/philippotterbach.jpg?dateUpdated=1428411289637",
+  "links": {
+   "ra": "https://ra.co/dj/philippotterbach",
+   "sc": "https://soundcloud.com/philipp-otterbach"
+  },
+  "labels": [
+   "Offen Music",
+   "Knekelhuis",
+   "Tour Messier",
+   "Grokenberger Records",
+   "R.i.O.",
+   "WARNING"
+  ],
+  "bio": {
+   "de": "Philipp Otterbach ist ein DJ und Produzent aus Deutschland. Er veröffentlichte u. a. auf Offen Music, Knekelhuis, Tour Messier, Grokenberger Records und R.i.O.",
+   "en": "Philipp Otterbach is a DJ and producer from Germany. He has released on Offen Music, Knekelhuis, Tour Messier, Grokenberger Records and R.i.O., among others."
+  },
+  "src": [
+   "https://ra.co/dj/philippotterbach"
+  ],
+  "infoChk": "2026-11-02",
+  "sets": [
+   {
+    "t": "Crack Mix 305: Philipp Otterbach",
+    "u": "https://soundcloud.com/crackmagazine/crack-mix-305-phillip-otterbach"
+   },
+   {
+    "t": "Warming S03E05 Philipp Otterbach",
+    "u": "https://soundcloud.com/warningberlin/warming_philipp_otterbach"
+   }
+  ],
+  "setsChecked": "2026-11-02"
+ },
+ "Grenco": {
+  "from": {
+   "de": "Kroatien",
+   "en": "Croatia"
+  },
+  "real": "Fran Grenko",
+  "img": "https://static.ra.co/images/profiles/square/grenco.jpg?dateUpdated=1768569419933",
+  "links": {
+   "ra": "https://ra.co/dj/grenco",
+   "sc": "https://soundcloud.com/grenco",
+   "ig": "https://www.instagram.com/grenco_dj"
+  },
+  "labels": [
+   "THANQ",
+   "Picnic Records"
+  ],
+  "bio": {
+   "de": "Grenco (Fran Grenko) ist ein Produzent und DJ aus Kroatien und gehört zur neuen Generation der kroatischen Underground-Szene. Er veröffentlichte auf THANQ und Picnic Records.",
+   "en": "Grenco (Fran Grenko) is a producer and DJ from Croatia and part of the new generation of the country's underground scene. He has released on THANQ and Picnic Records."
+  },
+  "src": [
+   "https://ra.co/dj/grenco"
+  ],
+  "infoChk": "2026-11-02",
+  "sets": [
+   {
+    "t": "Grenco ■ Hapësira Podcast LXXII",
+    "u": "https://soundcloud.com/hapesira/grenco-hapesira-podcast-lxxii"
+   }
+  ],
+  "setsChecked": "2026-11-02"
+ },
+ "Andrija Mlacovic": {
+  "from": {
+   "de": "Kroatien",
+   "en": "Croatia"
+  },
+  "img": "https://static.ra.co/images/profiles/square/andrijamlacovic.jpg?dateUpdated=1731578495000",
+  "links": {
+   "ra": "https://ra.co/dj/andrijamlacovic",
+   "sc": "https://soundcloud.com/andrijamla"
+  },
+  "src": [
+   "https://ra.co/dj/andrijamlacovic"
+  ],
+  "infoChk": "2026-11-02",
+  "setsChecked": "2026-11-02"
+ },
+ "Andreas": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Ian Staraj": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "RUG": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Marie Byrd Land": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Soulspin": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Dansmussen": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Siili": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Punzmann": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Nava Hemyari": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Kilroy": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Gush Valley": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Darina": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Djinn Sylva": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Xavior": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "PartyPauli": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Voltmarie": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "DJ Backstage": {
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "img": "https://static.ra.co/images/profiles/square/djbackstage.jpg?dateUpdated=1708952443000",
+  "links": {
+   "ra": "https://ra.co/dj/djbackstage",
+   "sc": "https://soundcloud.com/djbackstage"
+  },
+  "src": [
+   "https://de.ra.co/dj/djbackstage"
+  ],
+  "infoChk": "2026-11-02",
+  "setsChecked": "2026-11-02"
+ },
+ "Aura": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Pezo Fox": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Mantis": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Stoney Curtis": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Zuzee": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Scooby Duo": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Dicie Globie": {
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  }
 };
 const VG={
