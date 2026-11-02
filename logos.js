@@ -12,6 +12,7 @@ const LOGOBOX={
 "https://o-klub.at/wp-content/uploads/2022/09/Logo_w.svg":[673,767,9,10,664,757,""],
 "https://ponyhof-official.at/wp-content/uploads/2021/06/cropped-ponyhof_sticker_Black_rainbow-II-270x270.png":[270,270,49,52,220,223,""],
 "https://praterdome.at/media/default/_targets/override/images/praterdome-logo.png?v=1793200157":[2433,272,0,0,2433,272,""],
+"https://queertactics.at/wp-content/uploads/2025/10/queertactics_schriftzug_rot-scaled.png":[2560,320,0,7,2560,320,""],
 "https://rhiz.wien/wp-content/uploads/2026/01/cropped-favicon-270x270.png":[270,270,0,0,270,270,""],
 "https://ugc.production.linktr.ee/56ada16d-b647-4532-93c3-350fbac3c672_sorry-mom-logo-1080x1080-sw-kreis.png":[600,600,23,33,569,579,""],
 "https://ugc.production.linktr.ee/c93e2304-592a-41c3-80c5-fd1e533ca7e4_VS-LOGO-4000-centered-b.png?io=true&size=avatar-v3_0":[400,400,34,74,327,360,"#000000"],
@@ -22,7 +23,9 @@ const LOGOBOX={
 "https://www.grelleforelle.com/wp-content/uploads/2016/08/cropped-favicon-270x270.png":[270,270,0,0,270,270,""],
 "https://www.libelle.at/wp-content/uploads/2024/03/cropped-Libelle_Logo-270x270.png":[270,270,0,75,270,211,"#f7fdfb"],
 "https://www.paradiesgartenfestival.at/assets/website/images/logo/paradies-garten.d1836a4e.svg":[704,83,7,0,697,83,""],
+"https://www.soul-events.at/wp-content/uploads/2023/02/cropped-Logo_regenbogenkreis-min.jpg":[512,512,12,15,495,498,"#ffffff"],
 "https://www.technovienna.com/wp-content/uploads/2021/06/Logo_nl_2.png":[1173,373,13,11,1158,362,""],
 "https://www.theloft.at/wp-content/uploads/2022/02/loft-logo.svg":[319,69,0,0,319,69,""],
+"https://www.ttbb.at/wp-content/uploads/2026/03/Schriftzug-weiss.svg":[760,2813,163,200,627,2608,""],
 "https://www.wienmodern.at/images/Logo.png":[226,57,0,0,226,57,""]
 };
