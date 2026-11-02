@@ -6778,9 +6778,9 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Kristus": {
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noImg": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "noLinks": "2026-11-02"
  },
  "Pitch Madattak": {
   "img": "https://f4.bcbits.com/img/0013234561_23.jpg",
@@ -7976,9 +7976,23 @@ const AR={
   "noImg": "2026-10-31"
  },
  "Kasho Chualan": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "img": "https://f4.bcbits.com/img/0047713957_10.jpg",
+  "links": {
+   "bc": "https://kasho.bandcamp.com"
+  },
+  "from": {
+   "de": "Kurdisch-kanadisch, lebt in Wien",
+   "en": "Kurdish-Canadian, based in Vienna"
+  },
+  "bio": {
+   "de": "Kasho Chualan ist eine kurdisch-kanadische Pianistin, Komponistin und Klangkünstlerin mit Sitz in Wien. Mit Klavier, Keyboards, präparierten Instrumenten, Tapes und Klangobjekten verbindet sie klassische Formen mit experimentellen, improvisierten und erzählerischen Ansätzen; ihr kurdisches Erbe prägt ihre Arbeit. 2023 erschien ihre Single „Trauma Nostalgique“.",
+   "en": "Kasho Chualan is a Kurdish-Canadian pianist, composer and sound artist based in Vienna. Using piano, keyboards, prepared instruments, tapes and sound objects, she blends classical forms with experimental, improvised and narrative approaches; her Kurdish heritage informs her work. Her single \"Trauma Nostalgique\" came out in 2023."
+  },
+  "src": [
+   "https://kasho.bandcamp.com/",
+   "https://www.kontejner.org/en/osobe/kasho-chualan-kuca"
+  ]
  },
  "Parajekt": {
   "infoChk": "2026-10-31",
@@ -8221,9 +8235,9 @@ const AR={
   "noLinks": "2026-10-31"
  },
  "LĪVA": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
  },
  "Mary Slim": {
   "infoChk": "2026-10-31",
@@ -8358,9 +8372,9 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "LavendL": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "MATIVIO": {
   "noImg": "2026-10-31",
@@ -8393,7 +8407,7 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Kollektiv Sheesh": {
-  "noImg": "2026-10-31",
+  "noImg": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/kollektivsheesh"
   },
@@ -8401,7 +8415,7 @@ const AR={
    "https://soundcloud.com/kollektivsheesh/matija-kollektiv-sheesh-im-freudentaumel-flucc-vienna-2023",
    "https://soundcloud.com/kollektivsheesh/kollektiv-sheesh-3000grad-festival-schiff-ahoi-3023"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Chris Freud": {
   "img": "https://static.ra.co/images/profiles/square/chrisfreud.jpg?dateUpdated=1747310537723",
@@ -8737,9 +8751,9 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Lieblos": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Valera": {
   "noImg": "2026-10-31",
@@ -8879,9 +8893,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "LinsenJoe": {
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Mia Wurscht": {
   "links": {
@@ -9189,9 +9203,9 @@ const AR={
   "infoChk": "2026-11-01"
  },
  "Luminoise": {
-  "noImg": "2026-11-01",
-  "noLinks": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "Nikø Nøx": {
   "img": "https://static.ra.co/images/profiles/square/nikonox.jpg?dateUpdated=1793026945000",
@@ -12083,6 +12097,355 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "Bornvoyage": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "KlangKuenstler": {
+  "img": "https://static.ra.co/images/profiles/square/klangkuenstler.jpg?dateUpdated=1578873600000",
+  "links": {
+   "sc": "https://soundcloud.com/klangkuenstler",
+   "ig": "https://www.instagram.com/klangkuenstler",
+   "ra": "https://ra.co/dj/klangkuenstler"
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "labels": [
+   "EXHALE Records"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "KlangKuenstler ist ein Techno-Produzent aus Berlin, dessen Sound stark von den 90er- und frühen 2000er-Jahren geprägt ist. Er veröffentlicht u. a. auf EXHALE Records und spielt international, etwa im Ääniwalli in Helsinki, im Arzenal in Budapest oder im Bolgia.",
+   "en": "KlangKuenstler is a Berlin techno producer whose sound is strongly influenced by the 1990s and early 2000s. He releases on labels such as EXHALE Records and plays internationally, e.g. at Ääniwalli in Helsinki, Arzenal in Budapest and Bolgia."
+  },
+  "src": [
+   "https://ra.co/dj/klangkuenstler",
+   "https://ra.co/dj/klangkuenstler/biography"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Kasia": {
+  "img": "https://static.ra.co/images/profiles/square/kasia-ofc.jpg?dateUpdated=1771344732733",
+  "links": {
+   "sc": "https://soundcloud.com/kasia_music",
+   "ig": "https://www.instagram.com/kasia.music_",
+   "ra": "https://ra.co/dj/kasia-ofc"
+  },
+  "real": "Kasia Sobczyk",
+  "from": {
+   "de": "Polen, lebt in den USA",
+   "en": "Poland, based in the USA"
+  },
+  "labels": [
+   "Armada Music",
+   "Einmusika"
+  ],
+  "bio": {
+   "de": "KASIA (Kasia Sobczyk) ist eine in Polen geborene, in den USA ansässige DJ und Produzentin. Ihr Sound ist in der Rave-Kultur verwurzelt und baut hypnotische, perkussive Spannungsbögen auf. Releases erschienen u. a. auf Armada Music und Einmusika; sie wird auch unter dem Drumcode-Banner gebucht.",
+   "en": "KASIA (Kasia Sobczyk) is a Poland-born DJ and producer based in the USA. Rooted in rave culture, her sound builds hypnotic, percussive energy arcs. She has released on labels such as Armada Music and Einmusika and is also booked under the Drumcode banner."
+  },
+  "src": [
+   "https://nl.ra.co/dj/kasia-ofc",
+   "https://o-klub.at/events/pyramide-takeover/"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Kjaer": {
+  "links": {
+   "sc": "https://soundcloud.com/kjaer_music"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "labels": [
+   "IAMT Red",
+   "Fine Artistry"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "KJAER ist ein österreichischer Techno-DJ und -Produzent mit Releases auf IAMT Red und Fine Artistry. Er spielte u. a. bei Stahlstadt Techno in der Linzer Tabakfabrik und bei FM4 La Boum Deluxe in Wien.",
+   "en": "KJAER is an Austrian techno DJ and producer with releases on IAMT Red and Fine Artistry. He has played at Stahlstadt Techno in Linz's Tabakfabrik and at FM4 La Boum Deluxe in Vienna, among others."
+  },
+  "sets": [
+   {
+    "t": "KJAER – DJ Set @ FM4 La Boum Deluxe (Vienna, 14.04.23)",
+    "u": "https://soundcloud.com/kjaer_music/kjaer-fm4-la-boum-deluxe-140423"
+   },
+   {
+    "t": "KJAER – DJ Set @ Stahlstadt Techno, Tabakfabrik Linz (03.12.22)",
+    "u": "https://soundcloud.com/kjaer_music/kjaer-stahlstadt-techno-linz-austria"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/kjaer_music",
+   "https://www.theloft.at/sub-zero/"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02"
+ },
+ "Ludviq": {
+  "img": "https://static.ra.co/images/profiles/square/ludviq.jpg?dateUpdated=1695899307000",
+  "links": {
+   "sc": "https://soundcloud.com/ludviqmsc",
+   "ig": "https://www.instagram.com/ludviq.msc",
+   "bc": "https://ludviq.bandcamp.com",
+   "ra": "https://ra.co/dj/ludviq"
+  },
+  "real": "Luis Fernando Hernandez Madrigal",
+  "from": {
+   "de": "Guadalajara, Mexiko; lebt in Barcelona",
+   "en": "Guadalajara, Mexico; based in Barcelona"
+  },
+  "labels": [
+   "Bonkers Music",
+   "Belly Dance Services",
+   "Playground Records",
+   "Play Pal Music",
+   "THISBE Recordings",
+   "Kaputt.wav",
+   "Sonido Moderna"
+  ],
+  "bio": {
+   "de": "Ludviq ist das Projekt von Luis Fernando, geboren in Guadalajara (Mexiko) und heute in Barcelona ansässig. 2018 gründete er in Barcelona Bonkers Music – Reihe und Label ohne Genregrenzen zwischen Techno, Breaks, Psychedelic und EBM. Releases erschienen u. a. auf Bonkers Music, Belly Dance Services, Playground Records und Kaputt.wav.",
+   "en": "Ludviq is the project of Luis Fernando, born in Guadalajara (Mexico) and now based in Barcelona. In 2018 he founded Bonkers Music in Barcelona, a party series and label without genre limits spanning techno, breaks, psychedelia and EBM. He has released on Bonkers Music, Belly Dance Services, Playground Records and Kaputt.wav, among others."
+  },
+  "sets": [
+   {
+    "t": "aka-tape no 69 by Ludviq",
+    "u": "https://soundcloud.com/aka-tapes/aka-tape-no-69-by-ludviq"
+   },
+   {
+    "t": "FF025 Ludviq [Bonkers Records] – Future Frequencies",
+    "u": "https://soundcloud.com/futurefrequencies/ff025-ludviq-bonkers-records-guadalajara-mx"
+   },
+   {
+    "t": "Quixotical Mix #005 – Ludviq",
+    "u": "https://soundcloud.com/quixoticalrecords/quixotical-mix-005-ludviq"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/ludviq",
+   "https://ra.co/events/2567928"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Konman": {
+  "bio": {
+   "de": "Konman ist ein DJ mit wandelbarem Stil, der sich nach Stimmung und Rahmen richtet. Meist bewegt er sich in tiefen, groovigen Sounds, wechselt aber mühelos ins Trippige.",
+   "en": "Konman is a DJ with a versatile style that adapts to the mood and setting. He mostly leans towards deep, groovy sounds but switches easily into trippier territory."
+  },
+  "src": [
+   "https://www.wienmodern.at/2026-bio-konman-de-9346"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Lucia Kagramanyan": {
+  "img": "https://dev2.elevate.at/fileadmin/EIS_images/artist/2733/9129-Lucia-Kagramanyan_1280x853.png",
+  "links": {
+   "sc": "https://soundcloud.com/luciakagramanyan"
+  },
+  "from": {
+   "de": "Lebt in Wien",
+   "en": "Based in Vienna"
+  },
+  "bio": {
+   "de": "Lucia Kagramanyan ist eine in Wien lebende Künstlerin, DJ und Klangforscherin, die Archivmaterial mit dem Underground verbindet. In ihrer Sendung „Panorama Yerevan“ auf NTS Radio widmet sie sich ausschließlich armenischer Musik in ihrer ganzen Vielfalt – mit seltenen Aufnahmen aus Radio- und Privatarchiven neben der aktuellen Szene. 2026 spielte sie u. a. beim Elevate Festival in Graz.",
+   "en": "Lucia Kagramanyan is a Vienna-based artist, DJ and sonic researcher who connects archival material with the underground. Her NTS Radio show \"Panorama Yerevan\" is devoted solely to Armenian music in all its variety, placing rare recordings from radio and private archives next to the contemporary scene. In 2026 she played Elevate Festival in Graz, among others."
+  },
+  "src": [
+   "https://dev2.elevate.at/en/music/artists/lucia_kagramanyan/",
+   "https://mizna.org/mizna-news/interview-lucia-kagramanyan/"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Kenji Araki": {
+  "img": "https://static.ra.co/images/profiles/square/kenjiaraki.jpg?dateUpdated=1702582823467",
+  "alias": [
+   "enns"
+  ],
+  "links": {
+   "web": "https://kenji-araki.com/",
+   "sc": "https://soundcloud.com/kenjiaraki",
+   "bc": "https://kenjiaraki.bandcamp.com",
+   "ig": "https://www.instagram.com/_kenjiaraki_",
+   "ra": "https://ra.co/dj/kenjiaraki"
+  },
+  "from": {
+   "de": "Wien, mit japanischen Wurzeln",
+   "en": "Vienna, with roots in Japan"
+  },
+  "labels": [
+   "Affine Records",
+   "Ashida Park"
+  ],
+  "bio": {
+   "de": "Kenji Araki ist Musiker, digitaler Künstler und Performer mit Sitz in Wien und Wurzeln in Japan. 2023 erschien auf Affine Records sein Release „Hope Chess“; außerdem veröffentlichte er auf Ashida Park, teils auch unter dem Namen enns. Er trat u. a. beim Donaufestival, bei Ars Electronica und beim Elevate Festival auf.",
+   "en": "Kenji Araki is a musician, digital artist and performer based in Vienna with roots in Japan. His release \"Hope Chess\" came out on Affine Records in 2023, and he has also released on Ashida Park, partly under the name enns. He has performed at Donaufestival, Ars Electronica and Elevate Festival, among others."
+  },
+  "src": [
+   "https://ra.co/dj/kenjiaraki",
+   "https://affinerecords.com/kenji-araki-hope-chess/",
+   "https://www.donaufestival.at/en/artists/kenji-araki/276",
+   "https://dev2.elevate.at/en/music/artists/kenji_araki"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Lila Gold": {
+  "img": "https://static.ra.co/images/profiles/square/lilagold-2.jpg?dateUpdated=1764326805980",
+  "links": {
+   "sc": "https://soundcloud.com/lila_gold",
+   "ig": "https://www.instagram.com/lila.goold",
+   "ra": "https://ra.co/dj/lilagold-2"
+  },
+  "from": {
+   "de": "Österreich (vor allem Wien)",
+   "en": "Austria (mostly Vienna)"
+  },
+  "genres": [
+   "Trance",
+   "Hard Trance",
+   "Hard Bounce",
+   "Hard House"
+  ],
+  "bio": {
+   "de": "LILA GOLD ist eine in Österreich ansässige DJ, die vor allem in Wien auflegt und sich zwischen Trance, Hard Trance, Hard Bounce und Hard House bewegt. Sie spielte u. a. bei HOT&FLIRTY und BOUNCYLICIOUS (GDN) im FLUCC, bei MIXED in der Grelle Forelle und bei Trance Babes im Kramladen.",
+   "en": "LILA GOLD is an Austria-based DJ who mostly plays in Vienna, moving between trance, hard trance, hard bounce and hard house. She has played HOT&FLIRTY and BOUNCYLICIOUS (GDN) at FLUCC, MIXED at Grelle Forelle and Trance Babes at Kramladen, among others."
+  },
+  "sets": [
+   {
+    "t": "SILVESTER GOLD (Cybertribe Closing)",
+    "u": "https://soundcloud.com/lila_gold/silvester-gold-cybertribe-closing"
+   },
+   {
+    "t": "HOT&WET – LILA GOLD & DER Radio",
+    "u": "https://soundcloud.com/der-radio/hot-wet-lila-gold-der-radio"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/lilagold-2"
+  ],
+  "setsChecked": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "KΛSKIN": {
+  "from": {
+   "de": "Villach (Kärnten), auch in Wien aktiv",
+   "en": "Villach (Carinthia), also active in Vienna"
+  },
+  "bio": {
+   "de": "KΛSKIN gilt laut der Reihe GLITCH als eines der ersten Indie-Dance-Projekte Österreichs, stammt aus Villach und ist auch in Wien aktiv. Gemeinsam mit Grafenauer bildet KΛSKIN das Tech-House-Projekt TenFifty, Resident bei GLITCH.",
+   "en": "According to the GLITCH series, KΛSKIN is one of Austria's first indie dance projects, hailing from Villach and also active in Vienna. Together with Grafenauer, KΛSKIN forms the tech house project TenFifty, a GLITCH resident."
+  },
+  "src": [
+   "https://www.enter-glitch.com/events/glitch-vienna-001"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "LLo": {
+  "from": {
+   "de": "Italien (Mailand)",
+   "en": "Italy (Milan)"
+  },
+  "bio": {
+   "de": "LLo ist ein italienischer House-DJ aus dem Umfeld von Resonance Social Artists in Mailand. In Wien spielt LLo auf Einladung der House-Reihe GLITCH.",
+   "en": "LLo is an Italian house DJ from the Resonance Social Artists circle in Milan. In Vienna, LLo plays at the invitation of the house series GLITCH."
+  },
+  "src": [
+   "https://www.theloft.at/glitch-vienna-pres-stef-davidse/"
+  ],
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Lucy Bakanal": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "LCA": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Lim Banda": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Krawallbarbie": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Kmanxak": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "LaLa": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Leanne": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "L3nny": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Lilosh": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Louk": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Krueger": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Karam": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Kayara": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "KWEEN BEE": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "L.O.S.S.": {
+  "infoChk": "2026-11-02",
+  "noImg": "2026-11-02",
+  "noLinks": "2026-11-02"
+ },
+ "Karolina": {
   "infoChk": "2026-11-02",
   "noImg": "2026-11-02",
   "noLinks": "2026-11-02"
