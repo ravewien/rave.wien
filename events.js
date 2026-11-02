@@ -364,7 +364,8 @@ const CG={
   "Hard Dance",
   "Trance",
   "Acid",
-  "House"
+  "House",
+  "Techno"
  ],
  "MEIOSISS": [
   "Techno"
@@ -441,7 +442,8 @@ const CG={
  ],
  "Titti Queer Club": [
   "Techno",
-  "Pop"
+  "Pop",
+  "Rock"
  ],
  "Empyreon": [
   "Progressive House",
@@ -605,9 +607,29 @@ const CG={
  "Ninecircles": [
   "Techno",
   "Industrial"
+ ],
+ "Spectral": [
+  "Techno",
+  "Acid",
+  "Melodic Techno"
+ ],
+ "Rave On Vienna": [
+  "Rave",
+  "Tekno"
+ ],
+ "Tanz dich glücklich": [
+  "House",
+  "Bounce"
+ ],
+ "Tropical Thunder": [
+  "Balearic",
+  "Tropical",
+  "Zouk",
+  "Afrobeat",
+  "Indie Dance"
  ]
 };
-const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Bassbussi","Bassclub","Bassproduction","Belly Dance Services","Bestand","Bonkers","Café Mondo","Callshop Radio","Cardio Cult","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Derisch","Drum & Bassick","Dunkelton Kollektiv","Dystopia Rave","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Fish Market","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","High Voltage Fairies","House of Plüsch","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Vienna","Ravenbogen","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spectral","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Super Disco","Superego Records","Switch!","Synergy","Taktgefühl","Tanz dich glücklich","Tasteless","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","Wreck","YE","Zuckerwatt","Zyklop Audio"];
+const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Bassbussi","Bassclub","Bassproduction","Belly Dance Services","Bestand","Bonkers","Café Mondo","Callshop Radio","Cardio Cult","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Derisch","Drum & Bassick","Dunkelton Kollektiv","Dystopia Rave","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Fish Market","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","High Voltage Fairies","House of Plüsch","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Vienna","Ravenbogen","Resonance Social Artists","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spectral","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Super Disco","Superego Records","Switch!","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","Wreck","YE","Zuckerwatt","Zyklop Audio"];
 const CI={
  "303": {
   "noLogo": "2026-10-31",
@@ -842,7 +864,7 @@ const CI={
   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxSNTz3y4vRe1uW6jAeEvkGJ8big2rRBHtXt7PFPx_1NgOIsaeuPzAUOIDBMAMDyhlvyg4dpSfKKDm66ShGgXrn-rYA-IQ7v_uHAdON2-SyAoiFnhr2mG6DOb4fSA0aCD2n6d_2e9RxVYc/s1600/zuckerwatt_hq.jpg",
   "man": 1,
   "tix": "https://zuckerwatt.ticket.io/",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Herzfrequenz": {
   "founded": "2023",
@@ -918,7 +940,8 @@ const CI={
   "type": [
    "Reihe"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noLogo": "2026-11-02"
  },
  "Rave am Mittwoch": {
   "founded": "2022",
@@ -927,11 +950,14 @@ const CI={
    "https://ohschonhell.at/orte/das+werk/14",
    "https://de.ra.co/events/2556025"
   ],
-  "noLogo": "2026-10-28",
-  "de": "Wöchentliche Rave-Reihe am Mittwoch im Werk, Eintritt gegen freie Spende, mit Awareness-Team.",
-  "en": "Weekly Wednesday rave series at Das Werk, entry by free donation, with an awareness team.",
+  "noLogo": "2026-11-02",
+  "de": "Wöchentliche Rave-Reihe am Mittwoch („RAM – Recharge Wednesdays“) im Werk, 23–6 Uhr, Eintritt gegen freie Spende, ohne Dresscode und mit Awareness-Team.",
+  "en": "Weekly Wednesday rave series ('RAM – Recharge Wednesdays') at Das Werk, 11pm–6am, entry by free donation, no dress code and with an awareness team.",
   "from": "Wien",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "alias": [
+   "RAM"
+  ]
  },
  "Euphoria": {
   "founded": "2022",
@@ -1022,10 +1048,20 @@ const CI={
   "founded": "2013",
   "foundedNote": 1,
   "src": [
-   "https://ohschonhell.at/orte/flucc/50"
+   "https://ohschonhell.at/orte/flucc/50",
+   "https://sunmoon.ticket.io/ObeGEC9z/"
   ],
-  "noLogo": "2026-11-01",
-  "infoChk": "2026-11-01"
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "de": "Wiener Partyreihe für 90er-Rave und Tekno, die laut ihrem „12th Bday Bash“ im Februar 2025 seit etwa 2013 besteht. Regelmäßig im FLUCC, außerdem mit der Großausgabe „Rave On XXL“ im Club Exil.",
+  "en": "Viennese party series for 90s rave and tekno, which according to its '12th Bday Bash' in February 2025 has been running since around 2013. Regularly at FLUCC, plus the large-scale edition 'Rave On XXL' at Club Exil.",
+  "type": [
+   "Reihe"
+  ],
+  "alias": [
+   "Rave On",
+   "Rave On XXL"
+  ]
  },
  "Hypertrash": {
   "founded": "2023",
@@ -1152,7 +1188,7 @@ const CI={
    "SORRY MOM herbstrascheln"
   ],
   "logo": "https://ugc.production.linktr.ee/56ada16d-b647-4532-93c3-350fbac3c672_sorry-mom-logo-1080x1080-sw-kreis.png",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Kinky Galore": {
   "de": "Sexpositive Partyreihe, in Wien u. a. im Club Exil.",
@@ -1201,10 +1237,15 @@ const CI={
    "https://www.tausendaugen.at/mahlwerk",
    "https://popfest.at/07/25/mahlwerk/",
    "https://www.impulstanz.com/social/aid2185/",
-   "https://ra.co/events/2110843"
+   "https://ra.co/events/2110843",
+   "https://linktr.ee/mahlwerk"
   ],
-  "noLogo": "2026-10-28",
-  "infoChk": "2026-10-31"
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "bc": "https://mahlwerk.bandcamp.com/",
+  "type": [
+   "Kollektiv"
+  ]
  },
  "Wien Modern": {
   "logo": "https://www.wienmodern.at/images/Logo.png",
@@ -1214,32 +1255,49 @@ const CI={
    "https://en.wikipedia.org/wiki/Wien_Modern",
    "https://flucc.at/events/RVw6Sh-party-modern-schcht/"
   ],
-  "de": "Festival für zeitgenössische Musik in Wien, 1988 von Claudio Abbado gegründet; veranstaltet u. a. die Clubreihe Party Modern.",
-  "en": "Vienna festival of contemporary music, founded in 1988 by Claudio Abbado; its programme includes the club series Party Modern.",
+  "de": "Festival für zeitgenössische Musik in Wien, 1988 auf Initiative von Claudio Abbado gegründet; findet jedes Jahr rund einen Monat lang im November an vielen Orten der Stadt statt und veranstaltet u. a. die Clubreihe Party Modern.",
+  "en": "Vienna festival of contemporary music, founded in 1988 on the initiative of Claudio Abbado; it runs for about a month every November at many venues across the city, and its programme includes the club series Party Modern.",
   "founded": "1988",
   "from": "Wien",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "ig": "https://www.instagram.com/wienmodern/",
+  "sc": "https://soundcloud.com/wienmodern1"
  },
  "Pole Circle": {
   "rules": {
    "sexpos": 1
   },
   "man": 1,
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "de": "Veranstalter, der gemeinsam mit Slutlabs den von Sexarbeiter*innen geprägten, queeren Pop-up-Club SXXPLICIT mit Stage-Shows, Pole- und Lapdances in die Libelle Wien bringt.",
+  "en": "Organiser that, together with Slutlabs, brings SXXPLICIT – a worker-centred, queer pop-up club with stage shows, pole and lap dances – to Libelle in Vienna.",
+  "src": [
+   "https://www.libelle.at/events/sxxplicit-by-pole-circle-x-slutlabs/",
+   "https://sexpositives.com/en/events/sxxplicit-wien-2026-11-07/"
+  ],
+  "noLogo": "2026-11-02"
  },
  "Slutlabs": {
   "rules": {
    "sexpos": 1
   },
   "man": 1,
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noLogo": "2026-11-02"
  },
  "STRICT!": {
   "rules": {
    "sexpos": 1
   },
   "man": 1,
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02",
+  "de": "Veranstalter von Fetisch-Play-Partys in der Libelle Wien, etwa der Themennacht „The Dark Circus“ mit Performances; ausdrücklich keine Tanzparty, Teilnahme nur nach Voranmeldung, mit eigenem Dresscode und Verhaltenskodex.",
+  "en": "Organiser of fetish play parties at Libelle in Vienna, such as the themed night “The Dark Circus” with performances; explicitly not a dance party, attendance by advance registration only, with its own dress code and code of conduct.",
+  "src": [
+   "https://www.libelle.at/events/dark-circus-hosted-by-strict-3/",
+   "https://sexpositives.com/en/events/strict-dark-circus-wien-2026-11-14/"
+  ],
+  "noLogo": "2026-11-02"
  },
  "SubRosaDictum": {
   "rules": {
@@ -1247,7 +1305,13 @@ const CI={
   },
   "man": 1,
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "de": "Veranstalter von BDSM- und Fetisch-Events wie Wiener Blut, Hotel Lust, THE UNION und Pleasure Bay mit Mixed Dance Floor, Performances und Playground; Vorverkaufsstellen in Wien, München und Salzburg, strenger Dresscode (keine Streetwear) und Foto-/Filmverbot.",
+  "en": "Organiser of BDSM and fetish events such as Wiener Blut, Hotel Lust, THE UNION and Pleasure Bay with a mixed dance floor, performances and a playground; ticket outlets in Vienna, Munich and Salzburg, a strict dress code (no streetwear) and a ban on photos and filming.",
+  "web": "https://subrosadictum.de/",
+  "src": [
+   "https://subrosadictum.de/events/wiener-blut/"
+  ]
  },
  "HERZZZ": {
   "members": [
@@ -1287,8 +1351,19 @@ const CI={
   "infoChk": "2026-10-31"
  },
  "SIGNAL": {
-  "noLogo": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "de": "Event- und Festivalreihe von O – der Klub (Horst Group) in Wien mit Techno, Melodic und Hard Techno; neben Clubnächten im O der Klub gibt es größere Festival-Ausgaben in der Pyramide Vösendorf (Herbst 2026: vierte Ausgabe).",
+  "en": "Event and festival series by O – der Klub (Horst Group) in Vienna featuring techno, melodic and hard techno; besides club nights at O der Klub there are larger festival editions at Pyramide Vösendorf (autumn 2026: fourth edition).",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "web": "https://o-klub.at/event-type/signal/",
+  "src": [
+   "https://o-klub.at/events/pyramide-takeover/",
+   "https://o-klub.at/event-type/signal/"
+  ]
  },
  "Super Disco": {
   "noLogo": "2026-10-31",
@@ -1299,8 +1374,14 @@ const CI={
   "infoChk": "2026-10-31"
  },
  "The Hive": {
-  "noLogo": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "de": "Drum-&-Bass-Veranstaltung im Wiener Flex, die internationale Acts wie Ed Rush, Millbrook oder Tantron mit lokalen DJs präsentiert; Ausgaben sind mindestens seit 2024 belegt, 2026 gemeinsam mit Collapse.",
+  "en": "Drum & bass event at Vienna's Flex presenting international acts such as Ed Rush, Millbrook or Tantron alongside local DJs; editions are documented since at least 2024, in 2026 together with Collapse.",
+  "src": [
+   "https://flex.at/event/the-hive/",
+   "https://ra.co/events/1934244"
+  ]
  },
  "Tasteless": {
   "de": "Wiener Partyreihe (Tasteless.vie) mit Events u. a. im The Loft, im PRST und auf dem Otto-Wagner-Areal; das Grand Opening fand im Jänner 2024 statt.",
@@ -1365,11 +1446,11 @@ const CI={
  "Wreck": {
   "de": "Veranstaltungsreihe im Wiener SASS Music Club, bei der LaLa und Æ-X Extended Sets spielen – Motto: „In einer Welt, in der alle immer schneller werden, nehmen wir uns Zeit.“",
   "en": "Event series at Vienna's SASS Music Club featuring extended sets by LaLa and Æ-X – motto: 'In a world where everyone keeps getting faster, we take our time.'",
-  "noLogo": "2026-10-31",
+  "noLogo": "2026-11-02",
   "src": [
    "https://sassvienna.com/en/events/event/wreck-7"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "AWSM": {
   "infoChk": "2026-10-31"
@@ -1427,20 +1508,30 @@ const CI={
    "Reihe"
   ],
   "founded": "2022",
-  "noLogo": "2026-10-31",
+  "noLogo": "2026-11-02",
   "src": [
    "https://flucc.at/events/RVw6Sh-party-modern-schcht/",
    "https://flucc.at/events/AbZjQp-party-modern-schcht-ct/"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Bestand": {
   "noLogo": "2026-10-31",
   "infoChk": "2026-10-31"
  },
  "up/or": {
-  "noLogo": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02",
+  "de": "Eventreihe des Vereins Bestand zwischen politischer Artikulation, klanglichem Experiment und Clubmusik. Der Name steht für Richtungswechsel („up“) und Transformation („or“); „upor“ ist zudem slowenisch für „Widerstand“. Veranstaltungsort u. a. das FLUCC Deck.",
+  "en": "Event series by the association Bestand, situated between political articulation, sonic experimentation and club music. The name stands for a change of direction ('up') and transformation ('or'); 'upor' is also Slovenian for 'resistance'. Venues include FLUCC Deck.",
+  "type": [
+   "Reihe"
+  ],
+  "web": "https://bestand.org/",
+  "src": [
+   "https://bestand.org/termine/upor_nov26",
+   "https://flucc.at/events/X7gLPJ-upor-with-nexus-live-k-means-sami-dj-fred-zey/"
+  ]
  },
  "House of Plüsch": {
   "noLogo": "2026-10-31",
@@ -1495,8 +1586,8 @@ const CI={
   "infoChk": "2026-10-31"
  },
  "WOS Soundsystem": {
-  "noLogo": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
  },
  "GDN": {
   "de": "GDN (Gesindel der Nacht) ist ein Musikkollektiv, Label und Agentur, das in Wien Partys wie NACHTSCHUB im Das Werk und BOUNCYLICIOUS im FLUCC veranstaltet.",
@@ -1534,7 +1625,8 @@ const CI={
    "https://ra.co/events/1926527",
    "https://de.ra.co/events/2337976"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noLogo": "2026-11-02"
  },
  "euphonic records": {
   "de": "Label bzw. Musikproduktionsfirma „Euphonic“, 1997 von Ralph Kyau und Steven Möbius Albert (Kyau & Albert) gegründet.",
@@ -1572,14 +1664,16 @@ const CI={
   "infoChk": "2026-10-31"
  },
  "Nine O Nine": {
-  "de": "Techno-Crew (Instagram 909techno), die gemeinsam mit LSH (Les Suspects Habituels) die Reihe TECHNO OBSCENE im Das Werk veranstaltet.",
-  "en": "Techno crew (Instagram 909techno) that runs the TECHNO OBSCENE series at Das Werk together with LSH (Les Suspects Habituels).",
+  "de": "Techno-Crew (Instagram 909techno), die gemeinsam mit LSH (Les Suspects Habituels) seit 2023 die Reihe TECHNO OBSCENE im Das Werk veranstaltet – mit zwei Floors für Rave-Techno (Detroit, Hardtechno) und Groove (Dub, Hypnotic, Hardgroove).",
+  "en": "Techno crew (Instagram 909techno) that has run the TECHNO OBSCENE series at Das Werk together with LSH (Les Suspects Habituels) since 2023, with two floors for rave techno (Detroit, hard techno) and groove (dub, hypnotic, hardgroove).",
   "ig": "https://instagram.com/909techno",
   "src": [
    "https://ra.co/events/1832377",
-   "https://ra.co/events/2466171"
+   "https://ra.co/events/2466171",
+   "https://ra.co/events/2556685"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noLogo": "2026-11-02"
  },
  "LSH": {
   "de": "LSH (Les Suspects Habituels) veranstaltet gemeinsam mit Nine O Nine die Techno-Reihe TECHNO OBSCENE im Das Werk.",
@@ -1612,7 +1706,8 @@ const CI={
    "https://ra.co/events/2542405",
    "https://ra.co/promoters/157180"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "noLogo": "2026-11-02"
  },
  "Harmony Rec.": {
   "de": "Label und Kollektiv aus Prag (heute Berlin & Prag), das seit 2014 ortsspezifische audiovisuelle Events veranstaltet und seit 2017 Platten veröffentlicht.",
@@ -1652,7 +1747,29 @@ const CI={
   "infoChk": "2026-10-31"
  },
  "technolog": {
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "de": "Wiener DJ-Kollektiv, 2012 gegründet, mit Techno von tief-harmonisch bis dunkel-industriell. Die Veranstaltungen finden vor allem im Kramladen statt, vereinzelt auch im Lucia.",
+  "en": "Viennese DJ collective founded in 2012, playing techno ranging from deep and harmonic to dark and industrial. Events mostly take place at Kramladen, occasionally also at Lucia.",
+  "type": [
+   "Kollektiv"
+  ],
+  "founded": "2012",
+  "from": "Wien",
+  "web": "https://www.technolog.wtf",
+  "ig": "https://www.instagram.com/_technolog__/",
+  "sc": "https://soundcloud.com/technolog_official",
+  "members": [
+   "hetum",
+   "ROTON",
+   "anexate"
+  ],
+  "membersSrc": "https://www.technolog.wtf",
+  "src": [
+   "https://www.technolog.wtf",
+   "https://ra.co/dj/roton/biography",
+   "https://ra.co/events/2557226"
+  ],
+  "noLogo": "2026-11-02"
  },
  "Hanzom": {
   "de": "Hanzom Music ist ein deutsches Drum-&-Bass-Label mit eigenen Events, 2018 gegründet, mit Fokus auf deep, dark Drum & Bass.",
@@ -1684,7 +1801,14 @@ const CI={
   "web": "https://www.paradiesgartenfestival.at",
   "man": 1,
   "logoBg": "#ffffff",
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02",
+  "de": "Elektronik-Festival für Techno und House im Schlossgarten von Schloss Prugg in Bruck an der Leitha (ca. 30 Minuten von Wien), das unter dem Namen Paradies Garten auch Clubnächte in Wien veranstaltet, u. a. in der Grelle Forelle.",
+  "en": "Electronic music festival for techno and house in the castle gardens of Schloss Prugg in Bruck an der Leitha (about 30 minutes from Vienna), which also hosts club nights in Vienna under the Paradies Garten name, including at Grelle Forelle.",
+  "ig": "https://www.instagram.com/paradiesgartenfestival/",
+  "src": [
+   "https://www.paradiesgartenfestival.at",
+   "https://www.grelleforelle.com/project/1411-paradies-garten-w-paracek/"
+  ]
  },
  "Fader Friends": {
   "noLogo": "2026-10-31",
@@ -1772,28 +1896,30 @@ const CI={
   "sc": "https://soundcloud.com/sama-recordings",
   "bc": "https://samarecordings.bandcamp.com/",
   "tix": "https://kupfticket.com/en/shops/samarecordings",
-  "noLogo": "2026-10-31",
+  "noLogo": "2026-11-02",
   "src": [
    "https://samarecordings.bandcamp.com/track/distant-object",
    "https://ra.co/events/2261057"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Green Light Collective": {
   "noLogo": "2026-10-31",
   "infoChk": "2026-10-31"
  },
  "Queertactics": {
-  "de": "Queer-feministisches Filmfestival in Wien (2025 sechste Ausgabe) mit international kuratierten Programmen und Filmgesprächen; dazu eine Festival-Party mit DJs und Performances im FLUCC.",
-  "en": "Queer-feminist film festival in Vienna (sixth edition in 2025) with internationally curated programmes and talks, plus a festival party with DJs and performances at FLUCC.",
+  "de": "Queer-feministisches Filmfestival in Wien, organisiert vom Verein zur Förderung queer_feministischer Perspektiven in Wissenschaft und Kunst; 2026 siebte Ausgabe in Stadtkino, Admiralkino und Breitenseer Lichtspielen, mit Kurzfilmpreis Goldene Medusa und einer Festival-Party mit DJs und Performances im FLUCC.",
+  "en": "Queer-feminist film festival in Vienna, organised by the Verein zur Förderung queer_feministischer Perspektiven in Wissenschaft und Kunst; its seventh edition in 2026 takes place at Stadtkino, Admiralkino and Breitenseer Lichtspiele, with the Golden Medusa short-film award and a festival party with DJs and performances at FLUCC.",
   "from": "Wien",
   "web": "https://queertactics.at",
-  "noLogo": "2026-10-31",
   "src": [
    "https://www.pressefeuer.at/queertactics-2025-das-festival-das-wien-verzaubert",
-   "https://flucc.at/events/Ahdm47-queertactics-6/"
+   "https://flucc.at/events/Ahdm47-queertactics-6/",
+   "https://queertactics.at"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02",
+  "ig": "https://www.instagram.com/queertactics.at/",
+  "logo": "https://queertactics.at/wp-content/uploads/2025/10/queertactics_schriftzug_rot-scaled.png"
  },
  "50 Herz": {
   "noLogo": "2026-10-31",
@@ -1847,12 +1973,14 @@ const CI={
   "infoChk": "2026-10-31"
  },
  "Rude Bwoy Embassy": {
-  "alias": ["Rudebwoy Embassy"],
-  "noLogo": "2026-10-31",
+  "alias": [
+   "Rudebwoy Embassy"
+  ],
+  "noLogo": "2026-11-02",
   "src": [
    "https://www.theloft.at/rudebwoy-embassy-meets-bassclub-30-years-jah-power-sound/"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-02"
  },
  "Jah Power Sound": {
   "de": "Soundsystem für Reggae, Dancehall und Dub, das 2026 mit einer Nacht im Loft 30 Jahre jamaikanische Soundsystem-Kultur feiert.",
@@ -1915,12 +2043,12 @@ const CI={
   "type": [
    "Label"
   ],
-  "noLogo": "2026-11-01",
+  "noLogo": "2026-11-02",
   "src": [
    "https://ra.co/events/2570993",
    "https://ra.co/promoters/196842"
   ],
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02"
  },
  "TUFF": {
   "de": "Bounce-Partyreihe („Viennas bounce hub“), die unter dem Motto „Hard. Fast. TUFF.“ im Club Exil Bounce und Hardbounce spielt.",
@@ -1929,22 +2057,22 @@ const CI={
   "type": [
    "Reihe"
   ],
-  "noLogo": "2026-11-01",
+  "noLogo": "2026-11-02",
   "src": [
    "https://exil.ticket.io/nDYvo6wD/"
   ],
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02"
  },
  "Radiance": {
   "de": "Wiener Drum-&-Bass-Veranstaltung, die gemeinsam mit Drum & Bassick im Club Lucia mit lokalen DJs von Neurofunk bis Liquid spielt.",
   "en": "Viennese drum & bass event teaming up with Drum & Bassick at Club Lucia, with local DJs from neurofunk to liquid.",
   "from": "Wien",
   "ig": "https://www.instagram.com/radiance.at/",
-  "noLogo": "2026-11-01",
+  "noLogo": "2026-11-02",
   "src": [
    "https://www.clublucia.at/event/drum-bassick-x-radiance/"
   ],
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02"
  },
  "Kaisa Bodega": {
   "noLogo": "2026-11-01",
@@ -1954,11 +2082,11 @@ const CI={
   "infoChk": "2026-11-01"
  },
  "Pingpaya Fenty Savage": {
-  "noLogo": "2026-11-01",
+  "noLogo": "2026-11-02",
   "src": [
    "https://ra.co/events/2546333"
   ],
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02"
  },
  "VLAN": {
   "de": "VLAN („Vienna Local Area Network“) ist ein Wiener Internetradio für zeitgenössische (Nicht-)Club-Musik mit Fokus auf die Stärkung marginalisierter Gruppen; veranstaltet u. a. die Reihe HEAVY LISTENING mit Ambient, Dub und experimenteller Elektronik.",
@@ -1966,13 +2094,16 @@ const CI={
   "from": "Wien",
   "ig": "https://www.instagram.com/vlan.radio/",
   "sc": "https://soundcloud.com/vlanradio",
-  "alias": ["VLAN Radio", "Vienna Local Area Network"],
-  "noLogo": "2026-11-01",
+  "alias": [
+   "VLAN Radio",
+   "Vienna Local Area Network"
+  ],
+  "noLogo": "2026-11-02",
   "src": [
    "https://ra.co/events/2568237",
    "https://www.mqw.at/en/program/vlan-radio"
   ],
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02"
  },
  "Fifi": {
   "noLogo": "2026-11-01",
@@ -1982,11 +2113,11 @@ const CI={
   "infoChk": "2026-11-01"
  },
  "Schrödingers Groove": {
-  "noLogo": "2026-11-01",
+  "noLogo": "2026-11-02",
   "src": [
    "https://flucc.at/events/X3Fef2-fifi-x-schrodinger-s-groove/"
   ],
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02"
  },
  "Radio Rudina": {
   "de": "Unabhängiges Wiener Musik- und Kulturkollektiv mit 24/7-Webradio, Live-Shows und Events, etwa regelmäßigen Partys im PRST.",
@@ -2006,7 +2137,7 @@ const CI={
    "https://de.ra.co/promoters/146609",
    "https://radiorudina.ticket.io/sbEA0Me0/"
   ],
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02"
  },
  "Club Pompadour": {
   "noLogo": "2026-11-01",
@@ -2016,30 +2147,32 @@ const CI={
   "infoChk": "2026-11-01"
  },
  "Raqsouna": {
-  "de": "Von Qamareen (Luna Al-Mousli) gegründete Wiener Partyreihe mit SWANA-Sounds, u. a. im Club Lucia.",
-  "en": "Vienna party series founded by Qamareen (Luna Al-Mousli), focused on SWANA sounds, held at venues such as Club Lucia.",
+  "de": "Von Qamareen (Luna Al-Mousli) gegründete Wiener Partyreihe („Raqsouna – Make Us Dance!“) mit Musik und Musiker:innen aus der SWANA-Region und darüber hinaus, die die BIPOC-Diaspora feiern und einen achtsamen Raum bieten will; mit Live-Acts und den Residents Qamareen und Abu Naima u. a. im Club Lucia und im Flucc.",
+  "en": "Vienna party series ('Raqsouna – Make Us Dance!') founded by Qamareen (Luna Al-Mousli), focused on music and musicians from the SWANA region and beyond, aiming to celebrate the BIPOC diaspora in a caring space; with live acts and residents Qamareen and Abu Naima at venues such as Club Lucia and Flucc.",
   "from": "Wien",
   "type": [
    "Reihe"
   ],
-  "noLogo": "2026-11-01",
+  "noLogo": "2026-11-02",
   "src": [
    "https://de.ra.co/dj/qamareen/biography",
-   "https://ra.co/events/2561086"
+   "https://ra.co/events/2561086",
+   "https://tzkrti.com/en/events/3787",
+   "https://tzkrti.com/profile/raqsouna"
   ],
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02"
  },
  "MEIOSISS": {
   "de": "MEIOSISS veranstaltet im FLUCC die Techno-Flirtparty „Hot & Flirty“ mit Flirt-Armbändern und Konsens-Fokus („only YES means YES“) und legt dort auch selbst auf.",
   "en": "MEIOSISS hosts the techno flirt party 'Hot & Flirty' at FLUCC, with flirt wristbands and a focus on consent ('only YES means YES'), and also DJs there.",
   "from": "Wien",
-  "noLogo": "2026-11-01",
+  "noLogo": "2026-11-02",
   "src": [
    "https://ra.co/events/2561330",
    "https://ra.co/events/2388587",
    "https://ra.co/events/2310895"
   ],
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-02"
  },
  "Derisch": {
   "noLogo": "2026-11-02",
@@ -2063,11 +2196,30 @@ const CI={
  },
  "Sub Zero": {
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "de": "Techno-Reihe unter dem Motto „Vienna meets Berlin“ im The Loft, die Berliner Techno-Acts mit der dunkleren, rohen Seite der Wiener Szene zusammenbringt – treibende Kicks, düstere Atmosphäre, kein Mainstream.",
+  "en": "Techno series under the motto 'Vienna meets Berlin' at The Loft, bringing Berlin techno acts together with the darker, raw side of the Vienna scene – driving kicks, dark atmospheres, no mainstream.",
+  "alias": [
+   "SUBZERO"
+  ],
+  "src": [
+   "https://www.theloft.at/sub-zero/",
+   "https://ra.co/events/2550352"
+  ]
  },
  "Tanz dich glücklich": {
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "de": "Feel-Good-Partyreihe, die es seit 2018 gibt. Gespielt wird alles zwischen groovy House und schnellem Bounce, teils mit Live-Saxophon; Motto „Come as you are!“. Veranstaltungsort u. a. das FLUCC Deck.",
+  "en": "Feel-good party series running since 2018. The music spans everything from groovy house to fast bounce, sometimes with live saxophone; motto: 'Come as you are!'. Venues include FLUCC Deck.",
+  "type": [
+   "Reihe"
+  ],
+  "founded": "2018",
+  "ig": "https://www.instagram.com/tanzdichgluecklich/",
+  "src": [
+   "https://flucc.at/events/iXY45x-tanz-dich-glucklich/"
+  ]
  },
  "Vision Serpent": {
   "de": "Techno-Label aus Österreich zwischen Techno, Minimal und Psytech, kuratiert von Gründer David Phoenix; veranstaltet auch Label-Showcases.",
@@ -2134,14 +2286,16 @@ const CI={
   "infoChk": "2026-11-02"
  },
  "techNOage": {
-  "de": "Monatliches Techno-Clubbing am Nachmittag ab 15 Uhr, das Inklusion und Begegnung zwischen Generationen fördert – für Senior:innen, Menschen mit Behinderung, Eltern sowie frühere und heutige Raver:innen.",
-  "en": "Monthly afternoon techno clubbing from 3 pm promoting inclusion and intergenerational encounters – for seniors, people with disabilities, parents and past and present ravers.",
+  "de": "Monatliches Techno-Clubbing am Nachmittag ab 15 Uhr, das Inklusion und Begegnung zwischen Generationen fördert – für Senior:innen, Menschen mit Behinderung, Eltern sowie frühere und heutige Raver:innen. Veranstaltet von Vier::tel Vienna (vierviertelvienna) und SNDR_Xone, u. a. im FLUCC (Deck/Wanne); Eintritt auch nach dem Prinzip „pay what you can“.",
+  "en": "Monthly afternoon techno clubbing from 3 pm promoting inclusion and intergenerational encounters – for seniors, people with disabilities, parents and past and present ravers. Run by Vier::tel Vienna (vierviertelvienna) and SNDR_Xone, held at FLUCC (Deck/Wanne) among others; admission also on a pay-what-you-can basis.",
   "type": [
    "Reihe"
   ],
   "from": "Wien",
   "src": [
-   "https://ra.co/events/2325124"
+   "https://ra.co/events/2325124",
+   "https://ra.co/promoters/133764",
+   "https://www.1000thingsmagazine.com/de/a/1180209/vierviertel-vienna-techno-inklusion/"
   ],
   "noLogo": "2026-11-02",
   "infoChk": "2026-11-02"
@@ -2262,6 +2416,140 @@ const CI={
   "infoChk": "2026-11-02"
  },
  "Cardio Cult": {
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Spectral": {
+  "de": "Techno-Reihe im Wiener Kramladen mit internationalen und österreichischen Gästen, u. a. Kollaborationen mit Crews wie Sonic Spinz (Innsbruck); musikalisch zwischen Acid, melodischem und treibendem Techno. Veranstaltungen 2026 meist bei freiem Eintritt.",
+  "en": "Techno series at Vienna's Kramladen featuring international and Austrian guests, including collaborations with crews such as Sonic Spinz (Innsbruck); musically between acid, melodic and driving techno. Events in 2026 mostly free entry.",
+  "type": [
+   "Reihe"
+  ],
+  "src": [
+   "https://ra.co/events/2573844",
+   "https://de.ra.co/events/2416037",
+   "https://de.ra.co/dj/alenanoctis"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "S.O.U.L.": {
+  "de": "Wiener Verein, der unter dem Titel „S.O.U.L. Utopia“ sexpositive Partynächte veranstaltet, im November 2026 bereits zum 56. Mal. Laut eigener Website will S.O.U.L. „alle Menschen in (Selbst)liebe zusammenführen und das Leben zelebrieren“. Der Fokus liegt auf einvernehmlichen Begegnungen und gemeinsamem Tanzen; der Veranstaltungsort wird erst mit dem Ticket bekanntgegeben.",
+  "en": "Viennese association hosting sex-positive party nights under the title 'S.O.U.L. Utopia', reaching its 56th edition in November 2026. According to its website, S.O.U.L. aims to 'bring all people together in (self-)love and celebrate life'. The focus is on consensual encounters and dancing together; the venue is only revealed with the ticket.",
+  "type": [
+   "Promoter"
+  ],
+  "from": "Wien",
+  "alias": [
+   "S.O.U.L. Utopia",
+   "SOUL Events"
+  ],
+  "web": "https://www.soul-events.at/",
+  "ig": "https://www.instagram.com/s.o.u.l.events/",
+  "logo": "https://www.soul-events.at/wp-content/uploads/2023/02/cropped-Logo_regenbogenkreis-min.jpg",
+  "src": [
+   "https://www.soul-events.at/",
+   "https://sexpositives.com/en/events/soul-utopia-wild-things-wien-2026-11-13/"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Tanz oder gar nicht": {
+  "de": "Wiener Techno-Partyreihe, u. a. im FLUCC Deck; veranstaltete im Oktober 2026 gemeinsam mit Sorry Mom die Nacht „TOGAther“ im Kramladen.",
+  "en": "Vienna techno party series, held at venues such as FLUCC Deck; co-hosted the night 'TOGAther' with Sorry Mom at Kramladen in October 2026.",
+  "ig": "https://www.instagram.com/tanzodergarnicht.xyz/",
+  "src": [
+   "https://de.ra.co/events/2521255",
+   "https://flucc.at/events/JeJdYy-tanzodergarnicht/"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "VG+": {
+  "de": "Wiener House-Kollektiv, das im Dezember 2026 erstmals gemeinsam mit Housetiere einen Weekender im Tagada (Courtyard, Club) und in der Soulkitchen veranstaltet.",
+  "en": "Vienna house collective that teams up with Housetiere for the first time in December 2026 for a weekender at Tagada (courtyard, club) and Soulkitchen.",
+  "type": [
+   "Kollektiv"
+  ],
+  "ig": "https://www.instagram.com/very.good.plus/",
+  "src": [
+   "https://ra.co/events/2567885"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Tribal Vibes": {
+  "de": "Psytrance-Veranstalter, der nach eigener Ankündigung „den authentischen Old-School-Psychedelic-Spirit zurück nach Wien“ bringen will. Veranstaltungsort u. a. der Club Exil („Tribal Vibes meets Exil“).",
+  "en": "Psytrance promoter that, in its own words, aims to bring 'the authentic old-school psychedelic spirit back to Vienna'. Venues include Club Exil ('Tribal Vibes meets Exil').",
+  "type": [
+   "Promoter"
+  ],
+  "ig": "https://www.instagram.com/tribalvibes3/",
+  "src": [
+   "https://ra.co/events/2560058"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Tropical Thunder": {
+  "de": "Wiener Partyreihe mit tropischen und balearischen Sounds – von Vintage-Südafrika, Karibik, Compas, Soca, Afrobeat und Tropicália bis Retro-Zouk, French Boogie und Indie Dance. Seit mindestens 2020 aktiv, u. a. in der Gönnerbar, im FLUCC, in der Pratersauna, am Porto Pollo (Open Air) und im Funkhaus; das Format „Noche d'Amore“ entstand 2025 für die Wiener Festwochen.",
+  "en": "Vienna party series built around tropical and Balearic sounds – from vintage South African, Caribbean, compas, soca, afrobeat and tropicália to retro zouk, French boogie and indie dance. Active since at least 2020 at venues such as Gönnerbar, FLUCC, Pratersauna, Porto Pollo (open air) and Funkhaus; its 'Noche d'Amore' format was created in 2025 for the Wiener Festwochen.",
+  "from": "Wien",
+  "src": [
+   "https://ra.co/events/2568201",
+   "https://ra.co/events/1291997",
+   "https://de.ra.co/events/2234391",
+   "https://de.ra.co/events/1805502",
+   "https://ra.co/events/2225282",
+   "https://ra.co/events/2305457"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Untz Baby Untz": {
+  "ig": "https://www.instagram.com/untz.baby.untz/",
+  "de": "Day-Rave-Reihe in Wien; am 6. Dezember 2026 findet im Funkhaus das erste Indoor-Event statt.",
+  "en": "Day-rave series in Vienna; its first indoor event takes place at Funkhaus on 6 December 2026.",
+  "src": [
+   "https://ra.co/events/2568943",
+   "https://ra.co/promoters/192705"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Resonance Social Artists": {
+  "de": "Crew aus Mailand, befreundet mit der Reihe GLITCH; LLo (IT) von Resonance Social Artists spielt im Dezember 2026 bei GLITCH Vienna im The Loft.",
+  "en": "Milan-based crew, friends of the GLITCH series; LLo (IT) of Resonance Social Artists plays GLITCH Vienna at The Loft in December 2026.",
+  "from": "Mailand",
+  "src": [
+   "https://www.theloft.at/glitch-vienna-pres-stef-davidse/"
+  ],
+  "noLogo": "2026-11-02",
+  "infoChk": "2026-11-02"
+ },
+ "Titti Queer Club": {
+  "de": "Queere Partyreihe in Wien („Titti Titti Bang Bang“), die sich als Safe Space für queere Gäste und offene Bühne für queere Künstler:innen versteht. Drei Floors mit Pop, Rock und Techno, dazu Drag-Shows und Performances, u. a. im The Loft. Alle Geschlechter willkommen, keine Toleranz für Diskriminierung.",
+  "en": "Queer party series in Vienna ('Titti Titti Bang Bang') positioning itself as a safe space for queer guests and an open stage for queer artists. Three floors of pop, rock and techno plus drag shows and performances, e.g. at The Loft. All genders welcome, no tolerance for discrimination.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "alias": [
+   "Titti Titti Bang Bang",
+   "Titty Titty Bang Bang",
+   "TTBB"
+  ],
+  "web": "https://www.ttbb.at/",
+  "ig": "https://www.instagram.com/tittitittibangbang/",
+  "logo": "https://www.ttbb.at/wp-content/uploads/2026/03/Schriftzug-weiss.svg",
+  "logoBg": "#000000",
+  "src": [
+   "https://www.ttbb.at/",
+   "https://www.theloft.at/titti-titti-bang-bang-14/",
+   "https://www.1000thingsmagazine.com/de/a/2045907/sex-positive-partys-wien/"
+  ],
+  "infoChk": "2026-11-02"
+ },
+ "Taktgefühl": {
   "noLogo": "2026-11-02",
   "infoChk": "2026-11-02"
  }
