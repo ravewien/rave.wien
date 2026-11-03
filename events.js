@@ -1,5 +1,9 @@
 /* rave.wien event data. Updated by the scheduled task. Fields: d(date) s(start) e(end) title venue coll[] genres[] floors[{f,a[]}] (artist "HH:MM|Name" = timetable) price age tickets flyer note{de,en} flags: sexpos lgbtq aw nophoto opendecks zero. src[[sourceKey,url]]. VR = Hausregeln je Location (age, aw, nophoto …) gelten für alle Events dort, sofern das Event nichts anderes angibt. VG = Koordinaten [lat,lng] je Location für die Karte. vok:1 = von der Location selbst bestätigt; Events ohne vok und mit nur einer Quelle zeigt die Seite als „nur 1 Quelle“. KC = bekannte Kollektive (auch ohne aktuelle Events im Filter sichtbar). AR = Artist-Infos (Herkunft, Genres, Clubs, Festivals, Links, Sets). CG = typische Genres je Kollektiv (aus früheren Events), ergänzt fehlende Genres. */
 const V={
+ "Semmelweisklinik": "Hockegasse 37, 1180",
+ "Arena Wien": "Baumgasse 80, 1030",
+ "Himmel und Wasser": "Steinspornbrücke 1, 1220",
+ "Club U": "Karlsplatz, 1010",
  "Wiener Würstelstand Spittelau": "U-Bahn-Station Spittelau, 1090",
  "Event Arena Vösendorf": "Marktstraße 13a, 2331 Vösendorf",
  "M1 Club": "Schwarzenbergplatz 10, 1040",
@@ -653,7 +657,7 @@ const CG={
   "Techno"
  ]
 };
-const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Bassbussi","Bassclub","Bassproduction","Basstrace","Belly Dance Services","Bestand","Bonkers","Café Mondo","Callshop Radio","Cardio Cult","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Derisch","Drum & Bassick","Dunkelton Kollektiv","Dystopia Rave","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hallraum","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","High Voltage Fairies","House of Plüsch","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Vienna","Ravenbogen","Resonance Social Artists","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spectral","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Super Disco","Superego Records","Switch!","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tayrona Records","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","Wreck","YE","Zuckerwatt","Zyklop Audio"];
+const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Bassbussi","Bassclub","Bassproduction","Basstrace","Belly Dance Services","Bestand","Bonkers","Café Mondo","Callshop Radio","Cardio Cult","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Der Radio","Derisch","Drum & Bassick","Du Tanzt Mich Mal","Dunkelton Kollektiv","Dystopia Rave","ELEMNT","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hallraum","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","High Voltage Fairies","House of Plüsch","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KSOT","Köstlich","KØRE","Liminal","Little Beat More","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Vienna","Ravenbogen","Resonance Social Artists","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spectral","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Switch!","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tayrona Records","Techno am Wasser","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","Wreck","YE","Zuckerwatt","Zyklop Audio"];
 const CI={
  "303": {
   "noLogo": "2026-11-02",
@@ -2791,6 +2795,56 @@ const CI={
  }
 };
 const VI={
+ "Semmelweisklinik": {
+  "de": "Ehemalige Semmelweis-Frauenklinik in Währing, heute Kulturareal mit Ateliers, Ausstellungen und Festivals; dort finden u. a. Open-Decks-Nächte statt.",
+  "en": "Former Semmelweis maternity clinic in Währing, now a cultural site with studios, exhibitions and festivals; it also hosts open decks nights.",
+  "src": [
+   "https://de.ra.co/events/2565066",
+   "https://de.ra.co/clubs/247098",
+   "https://www.1000thingsmagazine.com/de/a/481273/kulturzentrum-semmelweisklinik-wien/"
+  ]
+ },
+ "Arena Wien": {
+  "de": "Kulturzentrum im ehemaligen Schlachthof St. Marx, vor allem Konzerte; elektronische Events v. a. Drum-&-Bass-Nächte (z. B. ELEMNT).",
+  "en": "Cultural centre in the former St. Marx slaughterhouse, mostly concerts; electronic events are mainly drum & bass nights (e.g. ELEMNT).",
+  "web": "https://arena.wien",
+  "io": [
+   "Indoor",
+   "Outdoor"
+  ],
+  "src": [
+   "https://www.eventbrite.com/e/elemnt-pres-kanine-reflections-arcando-basstripper-grafix-skiye-tickets-1998799288478",
+   "https://www.volume.at/events/elemnt-2025-12-13/"
+  ]
+ },
+ "Himmel und Wasser": {
+  "de": "Restaurant, Bar und Biergarten auf der Donauinsel bei der Steinspornbrücke, geöffnet Mai bis September; im Sommer Techno-Open-Airs (z. B. Techno am Wasser).",
+  "en": "Restaurant, bar and beer garden on the Danube Island by the Steinspornbrücke, open May to September; techno open airs in summer (e.g. Techno am Wasser).",
+  "web": "https://www.himmelundwasser.at",
+  "io": [
+   "Outdoor"
+  ],
+  "logo": "https://www.himmelundwasser.at/wp-content/uploads/2024/04/LOGO-COLOR-NO-STARS-No-Background-300x300.png",
+  "src": [
+   "https://www.himmelundwasser.at/",
+   "https://www.1000thingsmagazine.com/info/himmel-und-wasser/",
+   "https://warda.at/events/techno-am-wasser-3/"
+  ]
+ },
+ "Club U": {
+  "de": "Kleiner DJ-Club im Otto-Wagner-Pavillon am Karlsplatz (gemeinsam mit dem Café Karl & Otto), abends Mittwoch bis Samstag mit DJ-Nächten; im Sommer Open Airs am Karlsplatz.",
+  "en": "Small DJ club in the Otto Wagner Pavilion at Karlsplatz (shared with Café Karl & Otto), open Wednesday to Saturday nights with DJ nights; open airs on Karlsplatz in summer.",
+  "web": "https://club-u.at",
+  "io": [
+   "Indoor",
+   "Outdoor"
+  ],
+  "src": [
+   "https://www.technoairlines.com/club/club-u-vienna",
+   "https://de.ra.co/clubs/16057",
+   "https://de.ra.co/events/2462572"
+  ]
+ },
  "Coco Bar": {
   "de": "Bar in den Stadtbahnbögen am Lerchenfelder Gürtel mit gelegentlichen DJ- und Listening-Abenden.",
   "en": "Bar in the railway arches on Lerchenfelder Gürtel with occasional DJ and listening nights.",
@@ -15232,6 +15286,14 @@ const AR={
 };
 
 const VG={
+ "Arena Wien": [
+  48.18719,
+  16.41287
+ ],
+ "Club U": [
+  48.2006,
+  16.3697
+ ],
  "Porto Pollo": [
   48.2308,
   16.4059
