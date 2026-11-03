@@ -22455,6 +22455,657 @@ const AR={
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
   "setsChecked": "2026-11-03"
+ },
+ "Kloud": {
+  "img": "https://static.ra.co/images/profiles/square/kloud.jpg?dateUpdated=1681211904000",
+  "links": {
+   "ra": "https://ra.co/dj/kloud",
+   "sc": "https://soundcloud.com/wearekloud",
+   "bc": "https://wearekloud.bandcamp.com",
+   "ig": "https://www.instagram.com/wearekloud"
+  },
+  "from": {
+   "de": "USA",
+   "en": "USA"
+  },
+  "genres": [
+   "Techno",
+   "Hard Techno"
+  ],
+  "bio": {
+   "de": "KLOUD ist ein Produzent und DJ aus den USA, der zeitlose elektronische Sounds mit moderner Produktion verbindet – geprägt von dunklem Techno, House, Electro und analogen Synthesizern. Er spielt regelmäßig in Clubs wie SILO in New York.",
+   "en": "KLOUD is a US producer and DJ who merges timeless electronic sounds with modern production, drawing on darker techno, house, electro and analog synthesizers. He plays regularly at clubs such as SILO in New York."
+  },
+  "src": [
+   "https://ra.co/dj/kloud"
+  ],
+  "sets": [
+   {
+    "t": "KLOUD – Los Angeles Live Set 2023",
+    "u": "https://soundcloud.com/wearekloud/kloud-los-angeles-live-set-2023"
+   }
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Luciid": {
+  "img": "https://static.ra.co/images/profiles/square/luciid.jpg?dateUpdated=1579623899000",
+  "links": {
+   "ra": "https://ra.co/dj/luciid",
+   "sc": "https://soundcloud.com/thisisluciid",
+   "ig": "https://www.instagram.com/luciidmusic"
+  },
+  "from": {
+   "de": "Irland",
+   "en": "Ireland"
+  },
+  "genres": [
+   "Hard Techno"
+  ],
+  "labels": [
+   "Suara",
+   "Kneaded Pains",
+   "Arkham XXX"
+  ],
+  "bio": {
+   "de": "Luciid ist ein irischer DJ und Produzent aus dem Hard-Techno-Umfeld und gilt als einer der aufstrebenden Namen der Szene. Veröffentlichungen erschienen u. a. auf Suara, Kneaded Pains und Arkham XXX.",
+   "en": "Luciid is an Irish DJ and producer from the harder techno scene and one of its rising names. He has released on labels such as Suara, Kneaded Pains and Arkham XXX."
+  },
+  "src": [
+   "https://ra.co/dj/luciid"
+  ],
+  "sets": [
+   {
+    "t": "LUCIID @ DOMO VIII",
+    "u": "https://soundcloud.com/thisisluciid/luciid-domo-viii-1"
+   }
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Lola Cerise": {
+  "img": "https://static.ra.co/images/profiles/square/lolacerise.jpg?dateUpdated=1793702855000",
+  "links": {
+   "ra": "https://ra.co/dj/lolacerise",
+   "sc": "https://soundcloud.com/lola-cerise",
+   "bc": "https://lolacerise.bandcamp.com"
+  },
+  "from": {
+   "de": "Paris, Frankreich",
+   "en": "Paris, France"
+  },
+  "genres": [
+   "Trance",
+   "Hard Trance",
+   "Acid",
+   "Hard Techno"
+  ],
+  "labels": [
+   "ARTCORE Records"
+  ],
+  "bio": {
+   "de": "Lola Cerise ist eine in Frankreich geborene DJ und Produzentin mit Sitz in Paris. Sie verbindet Trance, Hard Trance, Acid und Hard Bounce zu einem schnellen, energiegeladenen Stil und veröffentlichte u. a. auf ARTCORE Records.",
+   "en": "Lola Cerise is a French-born DJ and producer based in Paris. She blends trance, hard trance, acid and hard bounce into a fast-paced, high-energy style and has released on ARTCORE Records, among others."
+  },
+  "src": [
+   "https://ra.co/dj/lolacerise"
+  ],
+  "sets": [
+   {
+    "t": "DUSKCAST 155 – Lola Cerise",
+    "u": "https://soundcloud.com/dvskrecords/duskcast-lola-cerise"
+   },
+   {
+    "t": "BCCO Mix Series 495: Lola Cerise",
+    "u": "https://soundcloud.com/bcco/bcco-mix-series-495-lola-cerise"
+   }
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Kiss The Future": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "MME Psychosis": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Ora Et Labora": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Jung": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Haskii": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "V01D": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "TwoSlice": {
+  "img": "https://static.ra.co/images/profiles/square/twoslice.jpg?dateUpdated=1583861219000",
+  "links": {
+   "ra": "https://ra.co/dj/twoslice",
+   "sc": "https://soundcloud.com/twoslice",
+   "ig": "https://www.instagram.com/twoslicemusic"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "genres": [
+   "House",
+   "Tech House"
+  ],
+  "labels": [
+   "Love Not Money",
+   "Happy Records",
+   "Red Lunar Records",
+   "HAAS Records",
+   "Too Many Rules",
+   "Distance Music"
+  ],
+  "bio": {
+   "de": "TwoSlice ist ein britisches DJ- und Produzenten-Duo, das vor allem in London und Brighton auflegt. Releases erschienen u. a. auf Too Many Rules, Distance Music und Happy Records; Support kam von Sidney Charles, Marco Carola und Max Chapman.",
+   "en": "TwoSlice is a UK DJ and production duo playing mostly in London and Brighton. They have released on Too Many Rules, Distance Music and Happy Records, with support from Sidney Charles, Marco Carola and Max Chapman."
+  },
+  "src": [
+   "https://ra.co/dj/twoslice"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "JOR": {
+  "img": "https://static.ra.co/images/profiles/square/jor-ire.jpg?dateUpdated=1786794599570",
+  "links": {
+   "ra": "https://ra.co/dj/jor-ire",
+   "sc": "https://soundcloud.com/jor_musicc"
+  },
+  "from": {
+   "de": "Irland",
+   "en": "Ireland"
+  },
+  "genres": [
+   "Techno",
+   "Trance",
+   "Hard Bounce"
+  ],
+  "bio": {
+   "de": "JOR ist ein aufstrebender Produzent und DJ aus Irland, der Techno, Trance und Hard Bounce zu einem energiegeladenen Sound verbindet. Auf SoundCloud veröffentlicht er u. a. Trance-Edits und eigene Tracks.",
+   "en": "JOR is a rising producer and DJ from Ireland fusing techno, trance and hard bounce into a high-energy sound. On SoundCloud he shares trance edits and original tracks."
+  },
+  "src": [
+   "https://ra.co/dj/jor-ire"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Jaz Imsky": {
+  "img": "https://static.ra.co/images/profiles/square/jazimsky.jpg?dateUpdated=1740532977000",
+  "links": {
+   "ra": "https://ra.co/dj/jazimsky",
+   "sc": "https://soundcloud.com/jazimsky"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "genres": [
+   "Dubstep",
+   "Bass"
+  ],
+  "labels": [
+   "ec2a"
+  ],
+  "bio": {
+   "de": "JAZ IMSKY ist eine DJ und Produzentin aus Großbritannien, die vor allem in London und Bristol auflegt, u. a. neben Coki, Mala und Youngsta. Sie moderiert eine eigene Show auf Reprezent Radio.",
+   "en": "JAZ IMSKY is a UK DJ and producer playing mostly in London and Bristol, alongside artists such as Coki, Mala and Youngsta. She hosts her own show on Reprezent Radio."
+  },
+  "src": [
+   "https://ra.co/dj/jazimsky",
+   "https://soundcloud.com/jazimsky"
+  ],
+  "sets": [
+   {
+    "t": "JAZ IMSKY Show w/ Coco Dubz, Reeya Rich & Mimi Mxnroe – Reprezent Radio 30.08.25",
+    "u": "https://soundcloud.com/jazimsky/jaz-imsky-show-w-coco-dubz-reeya-rich-mimi-mxnroe-reprezent-radio-300825"
+   },
+   {
+    "t": "JAZ IMSKY B2B URMA @ Warehouse Project 2025",
+    "u": "https://soundcloud.com/jazimsky/jaz-imsky-b2b-urma-whp-2025"
+   },
+   {
+    "t": "JAZ IMSKY [Debut] Show – Reprezent Radio 07.05.25",
+    "u": "https://soundcloud.com/jazimsky/jaz-imsky-first-show-reprezent"
+   }
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Airod": {
+  "img": "https://static.ra.co/images/profiles/square/airod.jpg?dateUpdated=1558078333000",
+  "links": {
+   "ra": "https://ra.co/dj/airod",
+   "sc": "https://soundcloud.com/airodmusic",
+   "bc": "https://airodmusic.bandcamp.com",
+   "ig": "https://www.instagram.com/airod_b"
+  },
+  "from": {
+   "de": "Paris, Frankreich",
+   "en": "Paris, France"
+  },
+  "genres": [
+   "Techno",
+   "Hard Techno"
+  ],
+  "labels": [
+   "Elixyr",
+   "KNTXT",
+   "Molekül",
+   "Lenske",
+   "EXHALE Records",
+   "Monnom Black"
+  ],
+  "bio": {
+   "de": "AIROD ist ein Produzent und DJ aus Paris und betreibt das Label Elixyr. Releases erschienen u. a. auf KNTXT, Molekül, Lenske, Exhale und Monnom Black; er spielt international, etwa bei den Nuits sonores in Lyon.",
+   "en": "AIROD is a Paris-based producer and DJ who runs the Elixyr label. He has released on KNTXT, Molekül, Lenske, Exhale and Monnom Black and plays internationally, including Nuits sonores in Lyon."
+  },
+  "src": [
+   "https://ra.co/dj/airod"
+  ],
+  "sets": [
+   {
+    "t": "Reclaim Your City 355 – AIROD",
+    "u": "https://soundcloud.com/reclaim-your-city/reclaim-your-city-355-airod"
+   },
+   {
+    "t": "AIROD at Intercell x SNTS Invites (ADE 2021)",
+    "u": "https://soundcloud.com/intercell/airod-at-intercell-x-snts-invites-ade-2021"
+   }
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Jacidorex": {
+  "img": "https://static.ra.co/images/profiles/square/jacidorex.jpg?dateUpdated=1496047383003",
+  "links": {
+   "ra": "https://ra.co/dj/jacidorex",
+   "sc": "https://soundcloud.com/jacidorex"
+  },
+  "from": {
+   "de": "Brüssel, Belgien",
+   "en": "Brussels, Belgium"
+  },
+  "genres": [
+   "Techno",
+   "Acid",
+   "Hard Techno"
+  ],
+  "labels": [
+   "Neoacid",
+   "Unfaced",
+   "9x9"
+  ],
+  "bio": {
+   "de": "Jacidorex ist ein DJ und Produzent aus Brüssel. 2017 gründete er das Label Neoacid zwischen Industrial Techno, Acid und Rave; 2022 folgte das Label- und Eventkonzept Unfaced. Er spielte u. a. beim Dour Festival, bei Possession und im Fuse in Brüssel.",
+   "en": "Jacidorex is a DJ and producer from Brussels. In 2017 he founded the Neoacid label, blending industrial techno, acid and rave, followed in 2022 by the label and event concept Unfaced. He has played Dour Festival, Possession and Fuse in Brussels, among others."
+  },
+  "src": [
+   "https://ra.co/dj/jacidorex/biography"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Wonkers": {
+  "img": "https://static.ra.co/images/profiles/square/wonkers.jpg?dateUpdated=1348491942490",
+  "links": {
+   "ra": "https://ra.co/dj/wonkers",
+   "sc": "https://soundcloud.com/wonkers",
+   "ig": "https://www.instagram.com/wonkers.berlin",
+   "web": "https://www.wonkers.de"
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "genres": [
+   "House",
+   "Tech House"
+  ],
+  "labels": [
+   "Kindisch Records",
+   "Erase Records",
+   "NastyFunk Records",
+   "WellDone! Music"
+  ],
+  "bio": {
+   "de": "Wonkers ist ein DJ und Produzent aus Berlin, der u. a. im Sisyphos, Ritter Butzke und Weekend Club aufgelegt hat. Releases erschienen auf Labels wie Kindisch, Erase Records und WellDone! Music.",
+   "en": "Wonkers is a Berlin DJ and producer who has played clubs such as Sisyphos, Ritter Butzke and Weekend Club. He has released on labels including Kindisch, Erase Records and WellDone! Music."
+  },
+  "src": [
+   "https://ra.co/dj/wonkers"
+  ],
+  "sets": [
+   {
+    "t": "Wonkers @ Sisyphos Berlin (Wintergarten) 01.10.2016",
+    "u": "https://soundcloud.com/wonkers/wonkers-sisyphos-berlin-wintergarten-01102016"
+   },
+   {
+    "t": "Wonkers @ Magdalena Berlin, Niejeliebt 22.03.2014",
+    "u": "https://soundcloud.com/wonkers/wonkers-niejeliebt"
+   }
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "two girls one mom": {
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "genres": [
+   "Trance",
+   "Hard Techno"
+  ],
+  "bio": {
+   "de": "two girls one mom ist ein Duo aus Berlin, das schnelle Clubmusik mit russischen Wurzeln erkundet – trancelastiger High-Speed-Rave mit hüpfenden Rhythmen und harten Selektionen.",
+   "en": "two girls one mom is a Berlin-based duo exploring fast-paced club music with Russian roots – high-speed, trance-infused rave with bouncy rhythms and hard-hitting selections."
+  },
+  "src": [
+   "https://www.set79.com/tracklist/soundcloud.com/newschoolravers/two-girls-one-mom-newschoolravers-mix"
+  ],
+  "sets": [
+   {
+    "t": "two girls one mom – Newschoolravers Mix",
+    "u": "https://soundcloud.com/newschoolravers/two-girls-one-mom-newschoolravers-mix"
+   }
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Fake_Friends": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Brandmann": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Lagos": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Numa": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Krawallkasper": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Champion": {
+  "img": "https://static.ra.co/images/profiles/champion.jpg?dateUpdated=1366144001000",
+  "links": {
+   "ra": "https://ra.co/dj/champion",
+   "sc": "https://soundcloud.com/championdj"
+  },
+  "from": {
+   "de": "London, Vereinigtes Königreich",
+   "en": "London, United Kingdom"
+  },
+  "genres": [
+   "UK Funky",
+   "Grime",
+   "Bass"
+  ],
+  "labels": [
+   "Formula Records",
+   "Butterz",
+   "Roska Kicks & Snares",
+   "Hardrive",
+   "Hyperdub",
+   "Digital Soundboy"
+  ],
+  "bio": {
+   "de": "Champion ist ein Produzent und DJ aus East London, bekannt für tiefe Basslines und treibende Rhythmen zwischen UK Funky, House und Grime. Er debütierte 2011 auf Terror Danjahs Label Hardrive, veröffentlichte u. a. auf Butterz und Roska Kicks & Snares und betreibt das Label Formula Records.",
+   "en": "Champion is an East London producer and DJ known for heavy basslines and driving rhythms spanning UK funky, house and grime. He debuted in 2011 on Terror Danjah's Hardrive label, has released on Butterz and Roska Kicks & Snares and runs his own label, Formula Records."
+  },
+  "src": [
+   "https://ra.co/dj/champion/biography"
+  ],
+  "sets": [
+   {
+    "t": "Champion – Snapshot Mix",
+    "u": "https://soundcloud.com/championdj/champion-snapshot-mix"
+   }
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Brent Honey": {
+  "img": "https://static.ra.co/images/profiles/square/brenthoney.jpg?dateUpdated=1690544331000",
+  "links": {
+   "ra": "https://ra.co/dj/brenthoney",
+   "sc": "https://soundcloud.com/brenthoneyy",
+   "ig": "https://www.instagram.com/brenthoney_"
+  },
+  "from": {
+   "de": "Melbourne, Australien",
+   "en": "Melbourne, Australia"
+  },
+  "genres": [
+   "Trance",
+   "Techno"
+  ],
+  "bio": {
+   "de": "Brent Honey ist ein DJ aus Melbourne/Naarm, der energiegeladene, von den 90ern inspirierte Sets mit schnellem Mixing spielt. Er legte u. a. für Triple J und im HÖR Berlin auf.",
+   "en": "Brent Honey is a Melbourne/Naarm DJ playing upbeat, 90s-inspired sets with fast-paced mixing. He has recorded mixes for Triple J and played HÖR Berlin."
+  },
+  "src": [
+   "https://ra.co/dj/brenthoney",
+   "https://soundcloud.com/brenthoneyy"
+  ],
+  "sets": [
+   {
+    "t": "HÖR Berlin – Brent Honey – 21 August 2025",
+    "u": "https://soundcloud.com/brenthoneyy/hor-berlin-brent-honey-21-august-2025"
+   },
+   {
+    "t": "Triple J Friday Mix – Brent Honey – 11 April 2025",
+    "u": "https://soundcloud.com/brenthoneyy/triple-j-friday-mix-brent-honey-11-april-2025"
+   },
+   {
+    "t": "Love Cast 017 – Brent Honey",
+    "u": "https://soundcloud.com/syntheticlovehamburg/love-cast-017-brent-honey"
+   }
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Canelle Doublekick": {
+  "img": "https://static.ra.co/images/profiles/square/canelledoublekick.jpg?dateUpdated=1771234168000",
+  "links": {
+   "ra": "https://ra.co/dj/canelledoublekick",
+   "sc": "https://soundcloud.com/canelledoublekick",
+   "bc": "https://canelledoublekick.bandcamp.com",
+   "ig": "https://www.instagram.com/canelledoublekick"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "genres": [
+   "Trance",
+   "Hard Techno"
+  ],
+  "labels": [
+   "Tekno Kawaii",
+   "Union Trance Mission"
+  ],
+  "bio": {
+   "de": "Canelle Doublekick ist eine DJ und Produzentin aus Frankreich mit Fokus auf Trance und schnellem Rave-Sound. Sie spielte u. a. bei Boiler Room Paris, im Mia Mao in Paris und im C12 in Brüssel und veröffentlichte auf Tekno Kawaii und Union Trance Mission.",
+   "en": "Canelle Doublekick is a French DJ and producer focused on trance and fast rave sounds. She has played Boiler Room Paris, Mia Mao in Paris and C12 in Brussels and has released on Tekno Kawaii and Union Trance Mission."
+  },
+  "src": [
+   "https://ra.co/dj/canelledoublekick"
+  ],
+  "sets": [
+   {
+    "t": "Canelle Doublekick – Boiler Room Paris",
+    "u": "https://soundcloud.com/platform/canelle-doublekick-boiler-room-paris-la-darude"
+   },
+   {
+    "t": "FLUIDCAST05 • Canelle Doublekick",
+    "u": "https://soundcloud.com/fluid-xp/fluidcast05-canelle-doublekick"
+   },
+   {
+    "t": "Technopol Mix 044",
+    "u": "https://soundcloud.com/technopol-asso/technopol-mix-044-canelle-doublekick"
+   }
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Felix Kröcher": {
+  "img": "https://static.ra.co/images/profiles/felixkrocher.jpg?dateUpdated=1488371518993",
+  "links": {
+   "ra": "https://ra.co/dj/felixkrocher",
+   "sc": "https://soundcloud.com/felix-kroecher"
+  },
+  "from": {
+   "de": "Frankfurt am Main, Deutschland",
+   "en": "Frankfurt, Germany"
+  },
+  "genres": [
+   "Techno",
+   "Schranz"
+  ],
+  "labels": [
+   "Bigcitybeats",
+   "Kontor Records",
+   "Toptrax",
+   "Kne'Deep",
+   "FK Recordings",
+   "Beatdisaster",
+   "Compressed"
+  ],
+  "bio": {
+   "de": "Felix Kröcher ist ein Techno-DJ und Produzent aus Frankfurt, der seit Mitte der 2000er aktiv ist; seinen Sound entwickelte er im Frankfurter U60311. Er spielt große Festivals wie Nature One, moderiert eine langjährige Radioshow auf Sunshine Live und veröffentlichte 2011 das Album „LÄUFT.“.",
+   "en": "Felix Kröcher is a techno DJ and producer from Frankfurt, active since the mid-2000s, who shaped his sound at Frankfurt's U60311. He plays major festivals such as Nature One, hosts a long-running radio show on Sunshine Live and released the album 'LÄUFT.' in 2011."
+  },
+  "src": [
+   "https://ra.co/dj/felixkrocher/biography"
+  ],
+  "sets": [
+   {
+    "t": "Felix Kröcher @ Rave The Planet Parade 2024",
+    "u": "https://soundcloud.com/ravetheplanetggmbh/felix-krocher-rave-the-planet-parade-2024"
+   },
+   {
+    "t": "Felix Kröcher – Techno Germany Podcast 159",
+    "u": "https://soundcloud.com/technogermany/felix-krocher-techno-germany-podcast-159"
+   }
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Alba Franch": {
+  "img": "https://static.ra.co/images/profiles/square/albafranch.jpg?dateUpdated=1722960313000",
+  "links": {
+   "ra": "https://ra.co/dj/albafranch",
+   "sc": "https://soundcloud.com/alba-franchg"
+  },
+  "from": {
+   "de": "Spanien",
+   "en": "Spain"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Alba Franch ist eine DJ aus Spanien, die vor allem in Madrid, Berlin, Barcelona, Köln und Amsterdam auflegt, u. a. regelmäßig im Mondo in Madrid und im RSO Berlin.",
+   "en": "Alba Franch is a DJ from Spain who plays mostly in Madrid, Berlin, Barcelona, Cologne and Amsterdam, including regular dates at Mondo in Madrid and RSO Berlin."
+  },
+  "src": [
+   "https://ra.co/dj/albafranch"
+  ],
+  "sets": [
+   {
+    "t": "Alba Franch at RSO Berlin, January 2026",
+    "u": "https://soundcloud.com/alba-franchg/alba-franch-at-rso-berlin"
+   },
+   {
+    "t": "BCCO Mix Series 815: Alba Franch",
+    "u": "https://soundcloud.com/bcco/bcco-mix-series-814-alba"
+   },
+   {
+    "t": "Fridget Spinner 046: Alba Franch",
+    "u": "https://soundcloud.com/polyamor-berlin/fridget-spinner-046-alba-franch"
+   }
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "AMØN": {
+  "img": "https://static.ra.co/images/profiles/square/amon.jpg?dateUpdated=1789027013473",
+  "links": {
+   "ra": "https://ra.co/dj/amon",
+   "sc": "https://soundcloud.com/amontechno",
+   "ig": "https://www.instagram.com/Amonism_"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Trance",
+   "Hard Techno"
+  ],
+  "labels": [
+   "Galactic Harmony"
+  ],
+  "bio": {
+   "de": "Amøn ist ein DJ und Produzent aus Deutschland, Gründer der Reihe Trancecore und Resident bei Formula90 und Galactic Harmony. Tracks erschienen u. a. auf Galactic Harmony.",
+   "en": "Amøn is a DJ and producer from Germany, founder of Trancecore and resident at Formula90 and Galactic Harmony. His tracks have appeared on Galactic Harmony, among others."
+  },
+  "src": [
+   "https://ra.co/dj/amon"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "GBRL": {
+  "img": "https://static.ra.co/images/profiles/square/gbrl.jpg?dateUpdated=1723474642000",
+  "links": {
+   "ra": "https://ra.co/dj/gbrl",
+   "sc": "https://soundcloud.com/gbrl_cyber"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "GBRL (auch Gabriel, AllCity, CYBERTRØN) ist ein österreichischer DJ, der vor allem in Wien und London auflegt. Neben der Musik widmet er sich Kunst, Grafik, Visuals, Turntablism und Skate-Kultur.",
+   "en": "GBRL (also Gabriel, AllCity, CYBERTRØN) is an Austrian DJ playing mostly in Vienna and London. Besides music he is into art, graphics, visuals, turntablism and skate culture."
+  },
+  "src": [
+   "https://ra.co/dj/gbrl"
+  ],
+  "infoChk": "2026-11-03"
  }
 };
 
