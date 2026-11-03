@@ -12195,9 +12195,36 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Julia Goldfarb": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/julia-goldfarb"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "House",
+   "Electro",
+   "Breaks"
+  ],
+  "bio": {
+   "de": "Julia Goldfarb ist eine DJ aus Österreich, die sich in den letzten Jahren in der Londoner Szene einen Namen gemacht hat. Sie legt sich ungern auf ein Genre fest; ihre Sets bewegen sich vor allem zwischen groovigem House, Electro und Breaks. Gespielt hat sie u. a. beim Lighthouse Festival in Kroatien, im FOLD in London und im Culture Box in Kopenhagen.",
+   "en": "Julia Goldfarb is a DJ from Austria who has made a name for herself in the London scene in recent years. She avoids sticking to one genre; her sets mainly move between groovy house, electro and breaks. She has played at Lighthouse Festival in Croatia, FOLD in London and Culture Box in Copenhagen, among others."
+  },
+  "sets": [
+   {
+    "t": "Julia Goldfarb @ Kiosk Radio 07.03.2025",
+    "u": "https://soundcloud.com/kioskradio/julia-goldfarb-kiosk-radio-07"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://www.wienmodern.at/2026-bio-julia-goldfarb-de-9347",
+   "https://soundcloud.com/julia-goldfarb"
+  ]
  },
  "Hamelin": {
   "infoChk": "2026-11-03",
@@ -12944,7 +12971,9 @@ const AR={
  },
  "Station Rose": {
   "links": {
-   "sc": "https://soundcloud.com/station-rose"
+   "sc": "https://soundcloud.com/station-rose",
+   "bc": "https://stationrose.bandcamp.com",
+   "web": "https://stationrose.com"
   },
   "from": {
    "de": "Wien",
@@ -12970,11 +12999,14 @@ const AR={
    "https://kunsthallewien.at/en/event/station-rose",
    "https://ra.co/reviews/34721",
    "https://soundcloud.com/station-rose",
-   "https://www.discogs.com/artist/6950-Station-Rose"
+   "https://www.discogs.com/artist/6950-Station-Rose",
+   "https://stationrose.bandcamp.com/releases",
+   "https://stationrose.com/biography.html"
   ],
   "setsChecked": "2026-11-02",
   "noImg": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "img": "https://f4.bcbits.com/img/0029226117_10.jpg"
  },
  "Sluzy": {
   "noImg": "2026-11-02",
@@ -14035,9 +14067,9 @@ const AR={
   "src": [
    "https://www.wienmodern.at/2026-bio-konman-de-9346"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Lucia Kagramanyan": {
   "img": "https://dev2.elevate.at/fileadmin/EIS_images/artist/2733/9129-Lucia-Kagramanyan_1280x853.png",
@@ -14621,10 +14653,12 @@ const AR={
   "src": [
    "https://www.technoairlines.com/artist/creeds",
    "https://fourfourmag.com/in-conversation-with-creeds-i-was-ready-to-give-up-then-push-up-happened/",
-   "https://soundcloud.com/creeds/push-up"
+   "https://soundcloud.com/creeds/push-up",
+   "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-02",
+  "img": "https://i.scdn.co/image/ab6761610000e5eb6edd94c9c9efd85879f24bd5"
  },
  "DJEENI": {
   "infoChk": "2026-11-02",
@@ -15199,9 +15233,44 @@ const AR={
   ]
  },
  "NoNameLeft": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/nonameleftmusic"
+  },
+  "from": {
+   "de": "Budapest, Ungarn",
+   "en": "Budapest, Hungary"
+  },
+  "genres": [
+   "Techno",
+   "Melodic Techno"
+  ],
+  "labels": [
+   "Vision Serpent",
+   "FORM Music",
+   "SubVision",
+   "Rubik's Recordings",
+   "Jannowitz Records"
+  ],
+  "bio": {
+   "de": "NoNameLeft ist ein Produzenten- und DJ-Duo aus Budapest, bestehend aus Balázs Dubraviczky und Ottó Ullmann. Ihr Sound reicht von kraftvollem und melodischem Techno bis zu Minimal- und Progressive-Einflüssen. Releases erschienen u. a. auf Vision Serpent („Oscillate“), FORM Music („Supercluster“ EP), SubVision, Rubik's Recordings und Jannowitz Records.",
+   "en": "NoNameLeft is a producer and DJ duo from Budapest, made up of Balázs Dubraviczky and Ottó Ullmann. Their sound ranges from driving and melodic techno to minimal and progressive influences. Releases include Vision Serpent (\"Oscillate\"), FORM Music (\"Supercluster\" EP), SubVision, Rubik's Recordings and Jannowitz Records."
+  },
+  "sets": [
+   {
+    "t": "NoNameLeft @ Yalta Club Sofia – Phoenix Movement Birthday 25.06.2022",
+    "u": "https://soundcloud.com/nonameleftmusic/yalta-nonameleft"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://www.beatport.com/artist/nonameleft/763032",
+   "https://www.housemusicwithlove.com/2023/nonameleft-debuts-on-form-music-with-supercluster-ep/",
+   "https://summer3p.subotica.com/team/nonameleft/",
+   "https://www.beatport.com/track/oscillate/19673907"
+  ]
  },
  "Nya Nyx": {
   "img": "https://static.ra.co/images/profiles/square/nyanyx.jpg?dateUpdated=1686044690000",
@@ -15855,9 +15924,12 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Teppich Funk": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "alias": [
+   "Lee&Marvin"
+  ]
  },
  "Wiener Grantscheibn": {
   "img": "https://static.ra.co/images/profiles/square/wienergrantscheibn.jpg?dateUpdated=1672052653000",
@@ -15877,7 +15949,11 @@ const AR={
    "https://soundcloud.com/wienergrantscheibn",
    "https://www.facebook.com/wienergrantscheibn"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  }
  },
  "Tim Kern": {
   "img": "https://static.ra.co/images/profiles/square/timkern.jpg?dateUpdated=1618904917000",
@@ -16052,8 +16128,15 @@ const AR={
    "https://ra.co/events/1934244",
    "https://flex.at/event/high-voltage-fairies-in-the-pit/"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "sets": [
+   {
+    "t": "Van:Hill B2B Jalen Mess @ Marley Club Ostrava (CZ)",
+    "u": "https://soundcloud.com/vanhilldnb/vanhill-b2b-jalen-mess"
+   }
+  ],
+  "setsChecked": "2026-11-03"
  },
  "WNR": {
   "infoChk": "2026-11-02",
@@ -16200,10 +16283,15 @@ const AR={
    "Vision Serpent"
   ],
   "src": [
-   "https://electronicgroove.com/mateo-releases-soulseek-via-vision-serpent/"
+   "https://electronicgroove.com/mateo-releases-soulseek-via-vision-serpent/",
+   "https://www.beatport.com/artist/mateo/283287"
   ],
-  "infoChk": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "from": {
+   "de": "Ungarn",
+   "en": "Hungary"
+  }
  },
  "Mert Seger": {
   "links": {
@@ -16366,14 +16454,47 @@ const AR={
   ]
  },
  "Mark Dale": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "MANiLO": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/manilo-music-official",
+   "mc": "https://www.mixcloud.com/ma-ni-lo/"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Hard Techno",
+   "Hardgroove",
+   "Techno"
+  ],
+  "bio": {
+   "de": "MANiLO ist ein Techno-DJ aus Deutschland, der in seinen Sets Hardtechno, Hardgroove und Techno verbindet. Er wird mit Vorwärts Musik und der Crew R.C.S in Verbindung gebracht und spielte u. a. 2025 b2b mit DJ Tribe bei der Zug-der-Liebe-Aftershow im Berliner Ritter Butzke.",
+   "en": "MANiLO is a techno DJ from Germany who blends hard techno, hardgroove and techno in his sets. He is associated with Vorwärts Musik and the R.C.S crew and played, among others, a b2b with DJ Tribe at the 2025 Zug der Liebe aftershow at Berlin's Ritter Butzke."
+  },
+  "sets": [
+   {
+    "t": "MANiLO b2b DJ Tribe @ Ritter Butzke / Zug der Liebe 25 Aftershow",
+    "u": "https://soundcloud.com/manilo-music-official/manilo-b2b-dj-tribe-ritter-butzke-zug-der-liebe-25-aftershow-opening-hutte"
+   },
+   {
+    "t": "Hardtechno/Hardgroove/Techno Set",
+    "u": "https://soundcloud.com/manilo-music-official/hardtechno-hardgroove-techno"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/manilo-music-official",
+   "https://soundcloud.com/zugderliebe/manilo-hardgroove-salsa",
+   "https://www.mixcloud.com/ma-ni-lo/"
+  ]
  },
  "missantroop": {
   "infoChk": "2026-11-02",
