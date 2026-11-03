@@ -6078,8 +6078,7 @@ const AR={
    "ra": "https://ra.co/dj/neongraveyard"
   },
   "src": [
-   "https://de.ra.co/dj/neongraveyard",
-   "https://ra.co/dj/neongraveyard"
+   "https://ra.co/dj/neongraveyard/biography"
   ],
   "sets": [
    {
@@ -6089,7 +6088,21 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/square/neongraveyard.jpg?dateUpdated=1647614393547",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Köln, Deutschland",
+   "en": "Cologne, Germany"
+  },
+  "labels": [
+   "WAHN",
+   "Måinmise",
+   "Techno Germany Records"
+  ],
+  "bio": {
+   "de": "Neon Graveyard ist ein anonymer Produzent, DJ und Mitbegründer des Labels WAHN aus Köln. Sein Sound verbindet verzerrte, dröhnende Basslines und rohe Drums mit frühen Hardcore- und Breakbeat-Einflüssen; seine Sets speisen sich aus 2000er-Techno, Industrial, Breaks und Trance. Releases u. a. die „Sex & Suicide EP“ (Måinmise) und „This mind is a warzone“ (WAHN).",
+   "en": "Neon Graveyard is an anonymous producer, DJ and co-founder of the label WAHN, based in Cologne. His sound combines distorted, droning basslines and raw percussion with early hardcore and breakbeat influences; his sets draw on 2000s techno, industrial, breaks and trance. Releases include the \"Sex & Suicide EP\" (Måinmise) and \"This mind is a warzone\" (WAHN)."
+  },
+  "infoChk": "2026-11-03"
  },
  "Stratera": {
   "links": {
@@ -6097,11 +6110,25 @@ const AR={
    "ra": "https://ra.co/dj/stratera"
   },
   "src": [
-   "https://ra.co/dj/stratera"
+   "https://ra.co/dj/stratera/biography"
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/square/stratera.jpg?dateUpdated=1770845938507",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Schranz",
+   "Hard Techno",
+   "Industrial"
+  ],
+  "bio": {
+   "de": "Stratera ist eine Hard-Techno-Produzentin und DJ aus Wien mit Fokus auf kompromisslosen Schranz. Seit ihrem DJ-Debüt im Dezember 2024 spielte sie u. a. bei VOID-Events und Verknipt; sie ist Resident bei void.vienna. Ihr Sound ist roh und treibend, mit verzerrten Flächen, wuchtigen Kicks und Peak-Time-Drops.",
+   "en": "Stratera is a hard techno producer and DJ from Vienna focused on uncompromising schranz. Since her DJ debut in December 2024 she has played VOID events and Verknipt and is a resident at void.vienna. Her sound is raw and driving, with distorted textures, heavy kicks and peak-time drops."
+  },
+  "infoChk": "2026-11-03"
  },
  "Tezibel": {
   "links": {
@@ -6586,7 +6613,16 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/square/silentsevir.jpg?dateUpdated=1752757701203",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Silentsevir ist ein Techno-DJ und Produzent aus Wien, der vor allem im Werk und im FLUCC spielt.",
+   "en": "Silentsevir is a techno DJ and producer from Vienna who plays mostly at Das Werk and FLUCC."
+  },
+  "infoChk": "2026-11-03"
  },
  "WO.IZZY": {
   "links": {
@@ -7535,7 +7571,16 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/square/ruidejaneiro.jpg?dateUpdated=1717603677000",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Österreich (Wien)",
+   "en": "Austria (Vienna)"
+  },
+  "bio": {
+   "de": "Rui de Janeiro war lange vom Rock geprägt und fand 2019 zur elektronischen Musik. Seitdem legt er Techno und House auf, vor allem in Wien – etwa im Kramladen, im Volksgarten Pavillon („das techno cafe“), im Werk und im FLUCC.",
+   "en": "Rui de Janeiro was shaped by rock music for most of his life before discovering electronic music in 2019. Since then he has been playing techno and house, mainly in Vienna at venues such as Kramladen, Volksgarten Pavillon (\"das techno cafe\"), Das Werk and FLUCC."
+  },
+  "infoChk": "2026-11-03"
  },
  "Ele Luz": {
   "links": {
@@ -7673,14 +7718,25 @@ const AR={
    "ra": "https://ra.co/dj/peterpixzel"
   },
   "src": [
-   "https://ra.co/dj/peterpixzel"
+   "https://ra.co/dj/peterpixzel/biography"
   ],
   "from": {
    "de": "London, Vereinigtes Königreich",
    "en": "London, United Kingdom"
   },
   "img": "https://static.ra.co/images/profiles/peterpixzel.jpg?dateUpdated=1287578646000",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "labels": [
+   "WetYourSelf Recordings",
+   "Watergate Recordings",
+   "Diynamic",
+   "Kindisch"
+  ],
+  "bio": {
+   "de": "Peter Pixzel wurde in Kopenhagen geboren und lebt in London. Er begann als House-DJ, gründete 2010 mit Cormac und Jacob Husley das Label WYS! Recordings und veranstaltet die Partyreihe WetYourSelf, u. a. als Residency im fabric. Releases u. a. auf Watergate, Diynamic und Kindisch; mit August Jacobson bildet er das Live-Duo APP.",
+   "en": "Peter Pixzel was born in Copenhagen and is based in London. He started out as a house DJ, co-founded WYS! Recordings with Cormac and Jacob Husley in 2010 and runs the WetYourSelf party series, including a residency at fabric. He has released on Watergate, Diynamic and Kindisch and forms the live duo APP with August Jacobson."
+  },
+  "infoChk": "2026-11-03"
  },
  "Sam Gittis": {
   "links": {
@@ -7706,11 +7762,22 @@ const AR={
   ],
   "setsChecked": "2026-10-28",
   "img": "https://static.ra.co/images/profiles/square/samgittis.jpg?dateUpdated=1749156896243",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "labels": [
+   "Muzik & Friendz Records",
+   "Lisztomania Records",
+   "Dub Forest"
+  ],
+  "bio": {
+   "de": "Sam Gittis wuchs an der US-Ostküste auf, wurde im europäischen Underground geprägt und lebt in Prag. Seine Musik verbindet den federnden Groove des Hip-Hop mit der Präzision von Minimal und Tech House. Releases u. a. auf Muzik & Friendz, Lisztomania und Dub Forest.",
+   "en": "Sam Gittis grew up on the US East Coast, was shaped by Europe's underground and is based in Prague. His music fuses the bounce of hip-hop with the precision of minimal and tech house. He has released on Muzik & Friendz, Lisztomania and Dub Forest."
+  },
+  "infoChk": "2026-11-03"
  },
  "DizzyDray": {
-  "noLinks": "2026-10-28",
-  "noImg": "2026-10-28"
+  "noLinks": "2026-11-03",
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Vanessa Sa": {
   "links": {
@@ -7718,7 +7785,7 @@ const AR={
    "ra": "https://ra.co/dj/vanessasa"
   },
   "src": [
-   "https://ra.co/dj/vanessasa"
+   "https://de.ra.co/dj/vanessasa"
   ],
   "from": {
    "de": "Österreich",
@@ -7736,7 +7803,12 @@ const AR={
   ],
   "setsChecked": "2026-10-28",
   "img": "https://static.ra.co/images/profiles/square/vanessasa.jpg?dateUpdated=1750242437000",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "bio": {
+   "de": "Vanessa Sa ist eine DJ aus Österreich, die seit 2023 vor allem in Wiener Clubs wie FLUCC und The Loft auflegt, u. a. an der Seite von BRX, Who is ela¿ und Kollektiv Sheesh.",
+   "en": "Vanessa Sa is an Austrian DJ who has been playing mainly in Viennese clubs such as FLUCC and The Loft since 2023, alongside artists like BRX, Who is ela¿ and Kollektiv Sheesh."
+  },
+  "infoChk": "2026-11-03"
  },
  "Casanoah": {
   "links": {
@@ -7749,7 +7821,8 @@ const AR={
    }
   ],
   "setsChecked": "2026-10-28",
-  "noImg": "2026-10-28"
+  "noImg": "2026-10-28",
+  "infoChk": "2026-11-03"
  },
  "Aleta": {
   "noLinks": "2026-11-03",
@@ -7764,12 +7837,30 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Melchiorr": {
-  "noLinks": "2026-10-28",
-  "noImg": "2026-10-28"
+  "noLinks": "2026-11-03",
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Osmos": {
-  "noLinks": "2026-10-28",
-  "noImg": "2026-10-28"
+  "noLinks": "2026-11-03",
+  "noImg": "2026-11-03",
+  "from": {
+   "de": "Belgien",
+   "en": "Belgium"
+  },
+  "genres": [
+   "Hard Techno",
+   "Industrial",
+   "Schranz"
+  ],
+  "bio": {
+   "de": "Osmos ist ein aufstrebender belgischer DJ und Produzent, der sich in weniger als zwei Jahren in der Hard-Techno-Szene etabliert hat. Sein Sound verbindet treibende harte Beats mit Industrial-Texturen und Schranz-Energie; seine Sets gelten als straff und technisch präzise.",
+   "en": "Osmos is an up-and-coming Belgian DJ and producer who established himself in the hard techno scene in less than two years. His sound blends driving hard beats with industrial textures and schranz energy; his sets are known as tight and technically precise."
+  },
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://events.musicofourdesire.com/artist/osmos"
+  ]
  },
  "Prakas": {
   "links": {
@@ -7798,8 +7889,9 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Farbod": {
-  "noLinks": "2026-10-28",
-  "noImg": "2026-10-28"
+  "noLinks": "2026-11-03",
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Patrick M4SS": {
   "links": {
@@ -7838,8 +7930,9 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Lenzi": {
-  "noLinks": "2026-10-28",
-  "noImg": "2026-10-28"
+  "noLinks": "2026-11-03",
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Adam19": {
   "noLinks": "2026-11-03",
@@ -7854,12 +7947,14 @@ const AR={
   ]
  },
  "Meril Fox": {
-  "noLinks": "2026-10-28",
-  "noImg": "2026-10-28"
+  "noLinks": "2026-11-03",
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Noel": {
-  "noLinks": "2026-10-28",
-  "noImg": "2026-10-28"
+  "noLinks": "2026-11-03",
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Joro & Joabo": {
   "links": {
@@ -7969,7 +8064,7 @@ const AR={
    "ra": "https://ra.co/dj/jpexbert"
   },
   "src": [
-   "https://ra.co/dj/jpexbert"
+   "https://ra.co/dj/jpexbert/biography"
   ],
   "from": {
    "de": "Österreich",
@@ -7982,7 +8077,12 @@ const AR={
    }
   ],
   "setsChecked": "2026-10-28",
-  "img": "https://static.ra.co/images/profiles/square/jpexbert.jpg?dateUpdated=1740684805353"
+  "img": "https://static.ra.co/images/profiles/square/jpexbert.jpg?dateUpdated=1740684805353",
+  "bio": {
+   "de": "J.P. eXbert entdeckte Ende der 1990er auf den Gasometer-Raves und in Clubs wie P1 und Volksgarten seine Liebe zum Techno und prägt die österreichische Szene seither als DJ mit. 2002 gründete er mit Danny Freeman das Duo „The eXMAN Project“, seit 2012 ist er bei Mind Entertainment aktiv, seit 2024 mit Deck Shark Production. Seine Einflüsse reichen von Techno, Electro und Hardtechno bis Hardcore, Hardstyle, Psy und Minimal.",
+   "en": "J.P. eXbert fell in love with techno at the Gasometer raves and in clubs such as P1 and Volksgarten in the late 1990s and has since been part of Austria's scene as a DJ. In 2002 he founded the duo \"The eXMAN Project\" with Danny Freeman, has been active with Mind Entertainment since 2012 and with Deck Shark Production since 2024. His influences range from techno, electro and hard techno to hardcore, hardstyle, psy and minimal."
+  },
+  "infoChk": "2026-11-03"
  },
  "Aschenbrenner": {
   "links": {
@@ -28455,6 +28555,137 @@ const AR={
    "https://ra.co/exchange/785"
   ],
   "infoChk": "2026-11-03"
+ },
+ "Sven Väth": {
+  "img": "https://static.ra.co/images/profiles/square/svenvath.jpg?dateUpdated=1504079729000",
+  "alias": [
+   "Sven Vath",
+   "Sven Vaeth"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/svenvath",
+   "ig": "https://www.instagram.com/svenvaeth_official",
+   "web": "https://www.cocoon.net"
+  },
+  "from": {
+   "de": "Frankfurt am Main, Deutschland",
+   "en": "Frankfurt am Main, Germany"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Cocoon Recordings"
+  ],
+  "bio": {
+   "de": "Sven Väth legt seit 1981 in Frankfurt auf und wurde – u. a. mit dem Omen Club – rasch zu einer Leitfigur der deutschen Techno-Bewegung, die sich von dort international ausbreitete. Er steht hinter Cocoon (Label und Partyreihe) und spielte über Jahrzehnte in Clubs wie Amnesia Ibiza, Cocoon Club, WOMB und Watergate.",
+   "en": "Sven Väth has been DJing in Frankfurt since 1981 and, not least through the Omen club, quickly became a leading figure of the German techno movement that spread internationally from there. He is behind Cocoon (label and party series) and has played for decades at clubs such as Amnesia Ibiza, Cocoon Club, WOMB and Watergate."
+  },
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/svenvath"
+  ]
+ },
+ "Kanine": {
+  "img": "https://static.ra.co/images/profiles/square/kanine.jpg?dateUpdated=1776933552440",
+  "links": {
+   "ra": "https://ra.co/dj/kanine"
+  },
+  "from": {
+   "de": "London, Vereinigtes Königreich",
+   "en": "London, United Kingdom"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "RAM Records",
+   "Shogun Audio",
+   "Playaz Recordings",
+   "Elevate Audio"
+  ],
+  "bio": {
+   "de": "Kanine ist ein Drum-&-Bass-DJ und Produzent aus London. Er veröffentlichte u. a. auf RAM Records, Shogun Audio, Playaz und Elevate Audio und tourt international, von Tokio bis Toronto.",
+   "en": "Kanine is a drum & bass DJ and producer from London. He has released on RAM Records, Shogun Audio, Playaz and Elevate Audio and tours internationally, from Tokyo to Toronto."
+  },
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/kanine"
+  ]
+ },
+ "Grafix": {
+  "img": "https://static.ra.co/images/profiles/square/grafix.jpg?dateUpdated=1695114402000",
+  "links": {
+   "ra": "https://ra.co/dj/grafix"
+  },
+  "from": {
+   "de": "Exeter, Vereinigtes Königreich",
+   "en": "Exeter, United Kingdom"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Hospital Records"
+  ],
+  "bio": {
+   "de": "Grafix ist ein Drum-&-Bass-Produzent und DJ aus Exeter, der energiegeladene Dancefloor-Beats mit melodisch-melancholischen Elementen verbindet. Nach Releases auf Hospital Records erschien 2022 sein Debütalbum „Half Life“ mit Support von BBC Radio 1; „Somewhere“ (feat. Reiki Ruawai) lief im Soundtrack von EA Sports F1 22. 2025 folgte das Album „Don't Slow Down“.",
+   "en": "Grafix is a drum & bass producer and DJ from Exeter who pairs high-energy dancefloor beats with melodic, melancholic elements. After releases on Hospital Records his debut album \"Half Life\" (2022) gained BBC Radio 1 support, and \"Somewhere\" (feat. Reiki Ruawai) featured on the EA Sports F1 22 soundtrack. The album \"Don't Slow Down\" followed in 2025."
+  },
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/grafix/biography",
+   "https://ra.co/events/2267629"
+  ]
+ },
+ "Basstripper": {
+  "img": "https://static.ra.co/images/profiles/square/basstripper.jpg?dateUpdated=1710755905000",
+  "links": {
+   "ra": "https://ra.co/dj/basstripper"
+  },
+  "from": {
+   "de": "Belgien",
+   "en": "Belgium"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Jump Up"
+  ],
+  "bio": {
+   "de": "Basstripper ist ein belgischer Jump-Up-Drum-&-Bass-DJ und Produzent, der international von Europa bis Australien auftritt.",
+   "en": "Basstripper is a Belgian jump-up drum & bass DJ and producer who performs internationally, from Europe to Australia."
+  },
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/basstripper"
+  ]
+ },
+ "Skiye": {
+  "img": "https://static.ra.co/images/profiles/square/skiye.jpg?dateUpdated=1790176801000",
+  "links": {
+   "ra": "https://ra.co/dj/skiye"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Jump Up"
+  ],
+  "labels": [
+   "DnB Allstars",
+   "Elevate Records",
+   "High Tea"
+  ],
+  "bio": {
+   "de": "SKIYE ist ein österreichischer Drum-&-Bass-Produzent und DJ, der euphorischen Dancefloor-Sound mit Jump Up verbindet. Bekannt wurde er durch inoffizielle Remixe von Calvin Harris und Missy Elliott; mit „Walkman“ erreichte er Platz 1 der Beatport-DnB-Charts. Support kommt u. a. von Netsky, Dimension und Camo & Krooked; Auftritte bei BBC Radio 1 und FM4.",
+   "en": "SKIYE is an Austrian drum & bass producer and DJ blending euphoric dancefloor sounds with jump up. He rose to attention with unofficial remixes of Calvin Harris and Missy Elliott, and his track \"Walkman\" hit No. 1 in Beatport's DnB chart. He is supported by Netsky, Dimension and Camo & Krooked and has featured on BBC Radio 1 and FM4."
+  },
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/skiye/biography"
+  ]
  }
 };
 
