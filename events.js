@@ -26951,6 +26951,341 @@ const AR={
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03"
+ },
+ "Andata": {
+  "img": "https://static.ra.co/images/profiles/square/andata.jpg?dateUpdated=1714666978000",
+  "links": {
+   "ra": "https://ra.co/dj/andata",
+   "sc": "https://soundcloud.com/andata",
+   "ig": "https://www.instagram.com/andata.music"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Three Six Zero Recordings",
+   "Customized Culture Recordings"
+  ],
+  "bio": {
+   "de": "ANDATA ist ein DJ- und Produzenten-Act aus Deutschland, verbunden mit Senso Sounds. Veröffentlicht wird u. a. auf Three Six Zero und Customized Culture; gespielt wurde etwa in der fabric London, im Uebel & Gefährlich und im Helios37.",
+   "en": "ANDATA is a German DJ and production act linked to Senso Sounds. Releases have come out on Three Six Zero and Customized Culture, with gigs at fabric London, Uebel & Gefährlich and Helios37."
+  },
+  "src": [
+   "https://ra.co/dj/andata"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Rampue": {
+  "img": "https://static.ra.co/images/profiles/square/rampue.jpg?dateUpdated=1567269533000",
+  "links": {
+   "ra": "https://ra.co/dj/rampue",
+   "sc": "https://soundcloud.com/rampue",
+   "ig": "https://www.instagram.com/rampue"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Audiolith Records",
+   "URSL",
+   "Kiosk I.D.",
+   "Dantze"
+  ],
+  "bio": {
+   "de": "Rampue ist ein deutscher Produzent und DJ, bekannt durch den Hit „Sonne, Park und Sterni“ und frühe Releases auf Audiolith. Später folgten u. a. URSL, Dantze und Kiosk I.D.; er spielt international, etwa mit Mayan Warrior in London sowie in Madrid und Mexiko-Stadt.",
+   "en": "Rampue is a German producer and DJ known for the hit “Sonne, Park und Sterni” and early releases on Audiolith. Later work came out on URSL, Dantze and Kiosk I.D.; he plays internationally, including with Mayan Warrior in London and in Madrid and Mexico City."
+  },
+  "src": [
+   "https://ra.co/dj/rampue"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "martha van straaten": {
+  "links": {
+   "sc": "https://soundcloud.com/marthavanstraaten"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "bio": {
+   "de": "martha van straaten ist eine Berliner DJ. Auf SoundCloud finden sich Sets u. a. aus dem Sisyphos, vom Fusion Festival und eine Reggae-Sendung für Radio Alhara; außerdem eine Show auf NTS.",
+   "en": "martha van straaten is a Berlin-based DJ. Her SoundCloud features sets from Sisyphos, Fusion Festival and a reggae show for Radio Alhara; she also has a show on NTS."
+  },
+  "sets": [
+   {
+    "t": "Martha ät Radio Alhara: Reggae For Breakups // 18.04.2021",
+    "u": "https://soundcloud.com/marthavanstraaten/martha-x-radio-alhara-reggae-for-breakups-18042021"
+   },
+   {
+    "t": "Martha auf Karls Kutter // Fusion Festival 2015",
+    "u": "https://soundcloud.com/marthavanstraaten/martha-aufm-kutter-fusion-festival-2015"
+   },
+   {
+    "t": "Martha im Sisyphos // Berlin, 01.02.15",
+    "u": "https://soundcloud.com/marthavanstraaten/sisyphosarbeit"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/marthavanstraaten",
+   "https://ra.co/events/2404877"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Lammer": {
+  "img": "https://static.ra.co/images/profiles/square/lammer.jpg?dateUpdated=1666859621000",
+  "links": {
+   "ra": "https://ra.co/dj/lammer",
+   "sc": "https://soundcloud.com/lammermusic",
+   "ig": "https://www.instagram.com/lammermusic",
+   "bc": "https://lammermusic.bandcamp.com"
+  },
+  "from": {
+   "de": "Rotterdam, Niederlande",
+   "en": "Rotterdam, Netherlands"
+  },
+  "genres": [
+   "House",
+   "Trance",
+   "Techno"
+  ],
+  "bio": {
+   "de": "LAMMER ist ein House-DJ und Produzent aus Rotterdam mit starken Trance- und Techno-Einflüssen. Gespielt hat er u. a. im Shelter Amsterdam, im Lokschuppen Berlin und beim Rotterdam Rave Festival.",
+   "en": "LAMMER is a house DJ and producer from Rotterdam with heavy trance and techno influences. He has played Shelter Amsterdam, Lokschuppen Berlin and Rotterdam Rave Festival, among others."
+  },
+  "src": [
+   "https://nl.ra.co/dj/lammer"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Electric Universe": {
+  "img": "https://avatar-music.com/artists/electricUniverse_files/electricUniverse.jpg",
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Psytrance"
+  ],
+  "labels": [
+   "Spirit Zone",
+   "Avatar"
+  ],
+  "bio": {
+   "de": "Electric Universe ist ein deutsches Psytrance-Projekt, 1991 von Boris Blenn und Micky Dressler gestartet und heute von Blenn weitergeführt. Frühe Releases erschienen auf Spirit Zone (Hamburg), Alben wie „Blue Planet“ und „Twisted Bliss“ auf Avatar.",
+   "en": "Electric Universe is a German psytrance project started in 1991 by Boris Blenn and Micky Dressler and now continued by Blenn. Early releases came out on Spirit Zone (Hamburg), albums such as “Blue Planet” and “Twisted Bliss” on Avatar."
+  },
+  "src": [
+   "https://avatar-music.com/artists/artists-electricUniverse.html"
+  ],
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Juicy Romance": {
+  "img": "https://static.ra.co/images/profiles/square/juicyromance.jpg?dateUpdated=1693477635000",
+  "links": {
+   "ra": "https://ra.co/dj/juicyromance",
+   "sc": "https://soundcloud.com/juicyromance"
+  },
+  "from": {
+   "de": "Naarm/Melbourne, Australien",
+   "en": "Naarm/Melbourne, Australia"
+  },
+  "bio": {
+   "de": "Juicy Romance ist eine junge DJ aus Naarm/Melbourne. Sie spielte u. a. b2b mit Partiboi69, beim HIVE Festival, im ://about blank und beim 2Much Festival in Paris.",
+   "en": "Juicy Romance is a young DJ from Naarm/Melbourne. She has played b2b with Partiboi69 and at HIVE Festival, ://about blank and 2Much Festival in Paris."
+  },
+  "src": [
+   "https://ra.co/dj/juicyromance"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Riana Holley": {
+  "img": "https://static.ra.co/images/profiles/square/rianaholley.jpg?dateUpdated=1770734539010",
+  "links": {
+   "ra": "https://ra.co/dj/rianaholley",
+   "sc": "https://soundcloud.com/riana-holley"
+  },
+  "from": {
+   "de": "Brügge, Belgien",
+   "en": "Bruges, Belgium"
+  },
+  "genres": [
+   "Bouncy Techno"
+  ],
+  "labels": [
+   "Back to Bounce"
+  ],
+  "bio": {
+   "de": "Riana Holley ist eine DJ aus Brügge, die bouncy Techno spielt und mit dem Label Back to Bounce verbunden ist. Sie spielte u. a. im Fuse Brüssel, im Garage Klub Antwerpen und im DNA Club München.",
+   "en": "Riana Holley is a DJ from Bruges playing bouncy techno, linked to the label Back to Bounce. She has played Fuse Brussels, Garage Klub Antwerp and DNA Club Munich, among others."
+  },
+  "src": [
+   "https://ra.co/dj/rianaholley"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Virgilio": {
+  "img": "https://static.ra.co/images/profiles/virgilio.jpg?dateUpdated=1646073436623",
+  "links": {
+   "ra": "https://ra.co/dj/virgilio"
+  },
+  "from": {
+   "de": "Italien",
+   "en": "Italy"
+  },
+  "bio": {
+   "de": "Virgilio ist ein italienischer Vinyl-DJ mit Faible für 90er-Fundstücke.",
+   "en": "Virgilio is an Italian vinyl DJ with a taste for 90s digs."
+  },
+  "src": [
+   "https://ra.co/dj/virgilio",
+   "https://ra.co/events/2454902"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Lerro": {
+  "img": "https://static.ra.co/images/profiles/square/lerro.jpg?dateUpdated=1690992776000",
+  "links": {
+   "ra": "https://ra.co/dj/lerro",
+   "sc": "https://soundcloud.com/ler_ro",
+   "ig": "https://www.instagram.com/lerro____"
+  },
+  "alias": [
+   "Bossu"
+  ],
+  "from": {
+   "de": "Slowenien",
+   "en": "Slovenia"
+  },
+  "labels": [
+   "Phi",
+   "MINDHELMET"
+  ],
+  "bio": {
+   "de": "Lerro ist ein DJ aus Slowenien, auch als Bossu aktiv, mit Releases auf Phi und MINDHELMET.",
+   "en": "Lerro is a DJ from Slovenia, also active as Bossu, with releases on Phi and MINDHELMET."
+  },
+  "src": [
+   "https://fr.ra.co/dj/lerro",
+   "https://ra.co/events/2454902"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Lottie": {
+  "img": "https://static.ra.co/images/profiles/square/lottie-si.jpg?dateUpdated=1744088989740",
+  "links": {
+   "ra": "https://ra.co/dj/lottie-si",
+   "sc": "https://soundcloud.com/loti-kavsek",
+   "ig": "https://www.instagram.com/_lottie.k_"
+  },
+  "from": {
+   "de": "Slowenien",
+   "en": "Slovenia"
+  },
+  "src": [
+   "https://ra.co/dj/lottie-si",
+   "https://ra.co/events/2454902"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Lara": {
+  "img": "https://static.ra.co/images/profiles/lara-1.jpg?dateUpdated=1502122438000",
+  "links": {
+   "ra": "https://ra.co/dj/lara-1",
+   "ig": "https://www.instagram.com/lara_hace"
+  },
+  "from": {
+   "de": "Slowenien",
+   "en": "Slovenia"
+  },
+  "genres": [
+   "Breakbeat",
+   "Electro",
+   "House",
+   "Techno"
+  ],
+  "bio": {
+   "de": "Lara ist eine DJ aus Slowenien zwischen Breakbeat, Electro, House und Techno; sie spielte u. a. beim Festival Od:vod in Tolmin und im Klub K4 in Ljubljana.",
+   "en": "Lara is a DJ from Slovenia moving between breakbeat, electro, house and techno; she has played Festival Od:vod in Tolmin and Klub K4 in Ljubljana."
+  },
+  "src": [
+   "https://ra.co/dj/lara-1",
+   "https://ra.co/events/2454902"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Monti": {
+  "img": "https://static.ra.co/images/profiles/square/monti1one.jpg?dateUpdated=1757409747037",
+  "links": {
+   "ra": "https://ra.co/dj/monti1one",
+   "sc": "https://soundcloud.com/monti-1-one",
+   "ig": "https://www.instagram.com/monti1one"
+  },
+  "alias": [
+   "Monti1one"
+  ],
+  "labels": [
+   "Heavy Rotation"
+  ],
+  "bio": {
+   "de": "Monti (Monti1one) ist „Selecter & Discjokey“ und mit dem Label Heavy Rotation verbunden. Bei der Vinyl-Reihe VG+ im SASS Music Club legt er regelmäßig auf und ist auf RA als Event-Admin eingetragen.",
+   "en": "Monti (Monti1one) is a “selecter & discjokey” linked to the label Heavy Rotation. He regularly plays the vinyl series VG+ at SASS Music Club and is listed as its event admin on RA."
+  },
+  "src": [
+   "https://ra.co/dj/monti1one",
+   "https://ra.co/events/2412474"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "DJ Sun": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "The Wilds": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Firas": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Fabio": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Ben": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Verleger": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "wanek": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Välth": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Sublee": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  }
 };
 
