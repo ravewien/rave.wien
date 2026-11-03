@@ -8103,19 +8103,19 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "2bihonest": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Sarah Dæwie": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Jade Anima": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Burr Oak": {
   "img": "https://i.scdn.co/image/ab6761610000e5eb1812dfb8da2c1231ea762ebc",
@@ -8124,12 +8124,25 @@ const AR={
    "Ring The Death Knell"
   ],
   "links": {
-   "sp": "https://open.spotify.com/artist/3yyEYoHrjvoUtLJ6n2Wz83"
+   "sp": "https://open.spotify.com/artist/3yyEYoHrjvoUtLJ6n2Wz83",
+   "sc": "https://soundcloud.com/burroakmusic",
+   "ig": "https://www.instagram.com/burroakmusic/"
   },
   "src": [
-   "https://open.spotify.com/artist/3yyEYoHrjvoUtLJ6n2Wz83"
+   "https://open.spotify.com/artist/3yyEYoHrjvoUtLJ6n2Wz83",
+   "https://eatbrain.net/burr-oak",
+   "https://www.darkdnb.com/burr-oak"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "bio": {
+   "de": "Neurofunk-/Dark-Drum-&-Bass-Projekt von The Clamps und Opsen (zuvor Teil des Duos Signs). Releases u. a. auf Trendkill Records (dem Label von Prolix), Eatbrain und Cause4Concern.",
+   "en": "Neurofunk/dark drum & bass project by The Clamps and Opsen (formerly part of the duo Signs). Releases include Trendkill Records (Prolix's label), Eatbrain and Cause4Concern."
+  },
+  "labels": [
+   "Trendkill Records",
+   "Eatbrain",
+   "Cause4Concern"
+  ]
  },
  "Zombie Cats": {
   "img": "https://f4.bcbits.com/img/0021678544_23.jpg",
@@ -8166,25 +8179,47 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Kaama": {
-  "noImg": "2026-10-31",
+  "noImg": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/kamila-vejvodova"
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "sets": [
+   {
+    "t": "N3UROFUNK #3",
+    "u": "https://soundcloud.com/kamila-vejvodova/n3urofunk-3"
+   }
+  ],
+  "setsChecked": "2026-11-03"
  },
  "Didz": {
-  "noImg": "2026-10-31",
+  "noImg": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/diddi-schellnegger"
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "sets": [
+   {
+    "t": "Didz B2B Synerratic @ Happy Meal Madness 2025",
+    "u": "https://soundcloud.com/diddi-schellnegger/didz-b2b-synerratic-happy-meal"
+   },
+   {
+    "t": "Bassment 2024 DJ Contest - Didz Entry",
+    "u": "https://soundcloud.com/diddi-schellnegger/bassment-2024-dj-contest-didz-entry"
+   },
+   {
+    "t": "DIDZ DnB Mix - the second journey",
+    "u": "https://soundcloud.com/diddi-schellnegger/didz-dnb-mix-the-second-journey"
+   }
+  ],
+  "setsChecked": "2026-11-03"
  },
  "Puppy Devil": {
-  "noImg": "2026-10-31",
+  "noImg": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/user-345074195"
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03"
  },
  "ADOBEAR": {
   "noImg": "2026-11-03",
@@ -8228,9 +8263,9 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "PATRIK HOUR": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Pau:sa": {
   "noImg": "2026-10-28"
@@ -8328,19 +8363,22 @@ const AR={
  "Drum Dad & Bass Boy": {
   "img": "https://i.scdn.co/image/ab6761610000e5eb4ff7471ebb471b57166b4093",
   "links": {
-   "sp": "https://open.spotify.com/artist/3UyclZxeiOyCtZyiWmUbBm"
+   "sp": "https://open.spotify.com/artist/3UyclZxeiOyCtZyiWmUbBm",
+   "sc": "https://soundcloud.com/drumdadbassboy",
+   "ig": "https://www.instagram.com/drumdadbassboy/"
   },
   "src": [
    "https://open.spotify.com/artist/3UyclZxeiOyCtZyiWmUbBm",
    "https://open.spotify.com/album/3uw1Wkfi360BvKH0ZjJ0pW",
    "https://open.spotify.com/album/43IhxxqKfS2NLiSg3t0gSH",
-   "https://open.spotify.com/album/5ESMgKEUZzOJLfCG7c13vN"
+   "https://open.spotify.com/album/5ESMgKEUZzOJLfCG7c13vN",
+   "https://www.mbartists.co.uk/artists/drumdadbassboy"
   ],
   "bio": {
    "de": "Drum-&-Bass-Act mit Singles wie „Feeling Good“ (2026), „Walzer“ und „BOMBOCLAT DUB“.",
    "en": "Drum & bass act with singles such as \"Feeling Good\" (2026), \"Walzer\" and \"BOMBOCLAT DUB\"."
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03"
  },
  "lexyz0 & DJ Lotto": {
   "noImg": "2026-11-03",
@@ -8395,14 +8433,51 @@ const AR={
  "OKO": {
   "noImg": "2026-10-31",
   "links": {
-   "sc": "https://soundcloud.com/eorgiearper"
+   "sc": "https://soundcloud.com/eorgiearper",
+   "ig": "https://www.instagram.com/oko_uk_/",
+   "sp": "https://open.spotify.com/artist/5oFM5kxRXZI1qOzvdyPkkV"
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "img": "https://zjenokhunppshsbitzpz.supabase.co/storage/v1/object/public/artist-images/artists/oko-1779980784616.jpeg",
+  "from": {
+   "de": "Bristol, Vereinigtes Königreich",
+   "en": "Bristol, United Kingdom"
+  },
+  "bio": {
+   "de": "Drum-&-Bass-DJ und Produzentin aus Bristol mit Releases auf Born On Road, Rinse und High Tea Music. Sie betreibt in Bristol das Label und Event-Brand Eight Five Two, hatte Mixe auf BBC Radio 1 und spielte u. a. bei Printworks, Glastonbury und auf der Boomtown Main Stage.",
+   "en": "Drum & bass DJ and producer from Bristol with releases on Born On Road, Rinse and High Tea Music. She runs the label and event brand Eight Five Two in Bristol, has had mixes on BBC Radio 1 and has played Printworks, Glastonbury and the Boomtown main stage."
+  },
+  "labels": [
+   "Born On Road",
+   "Rinse",
+   "High Tea Music"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "sets": [
+   {
+    "t": "OKO - Radio 1 Drum & Bass mix - 2025",
+    "u": "https://soundcloud.com/eorgiearper/oko-radio-1-drum-bass-mix-2025"
+   },
+   {
+    "t": "OKO - Mollie Collins Guest Mix - 2024",
+    "u": "https://soundcloud.com/eorgiearper/oko-mollie-collins-guest-mix-2024"
+   },
+   {
+    "t": "OKO Drum & Bass Guest Mix on George FM (NZ)",
+    "u": "https://soundcloud.com/eorgiearper/oko-drum-bass-guest-mix-on-george-fm-nz"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://www.mbartists.co.uk/artists/oko"
+  ]
  },
  "Mina": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "maximo": {
   "img": "https://static.ra.co/images/profiles/square/maximilianfoit-at.jpg?dateUpdated=1682594057000",
@@ -8728,7 +8803,7 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "The Dark Horror": {
-  "noImg": "2026-10-31",
+  "noImg": "2026-11-03",
   "bio": {
    "de": "Hardcore-Produzent mit Kollaborationen u. a. mit Guizcore, Deadly Guns, Major Conspiracy und Dual Damage.",
    "en": "Hardcore producer with collaborations with Guizcore, Deadly Guns, Major Conspiracy and Dual Damage, among others."
@@ -8744,7 +8819,18 @@ const AR={
   "src": [
    "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "sets": [
+   {
+    "t": "The Dark Horror @ Harmony of Hardcore 2024 (Ravezone)",
+    "u": "https://soundcloud.com/harmony-of-hardcore/the-dark-horror-harmony-of-hardcore-2024-ravezone"
+   },
+   {
+    "t": "The Dark Horror - Hardcore Livestream Titanium Festival",
+    "u": "https://soundcloud.com/neophyte-372786251/the-dark-horror-hardcore-livestream-titanium-festival"
+   }
+  ],
+  "setsChecked": "2026-11-03"
  },
  "The Straikerz": {
   "img": "https://i.scdn.co/image/ab6761610000e5ebf889cf24b9ebd129d03f3a10",
@@ -8767,7 +8853,7 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Pinotello": {
-  "noImg": "2026-10-31",
+  "noImg": "2026-11-03",
   "tracks": [
    "Gotta Die",
    "BadBoy Sound",
@@ -8776,7 +8862,18 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/pinostacks"
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "bio": {
+   "de": "Uptempo-/Hardcore-DJ und Produzent, der zunächst eher aus Spaß zu Hardcore auflegte und nach gut aufgenommenen Online-Sets eigene Musik zu produzieren begann. Seine Tracks „Spongebob“ und „Sick Fuck“ haben auf Spotify jeweils über eine Million Streams Er spielte auf der Shutdown Stage beim Electric Love.",
+   "en": "Uptempo/hardcore DJ and producer who started DJing almost as a joke and began producing after his online sets caught on. His tracks \"Spongebob\" and \"Sick Fuck\" each have over a million Spotify streams; he has played the Shutdown stage at Electric Love."
+  },
+  "genres": [
+   "Uptempo",
+   "Hardcore"
+  ],
+  "src": [
+   "https://www.electriclove.at/en/artist/pinotello/"
+  ]
  },
  "Poley Tight": {
   "noImg": "2026-10-31",
@@ -8794,7 +8891,19 @@ const AR={
    }
   ],
   "setsChecked": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "img": "https://viberate-upload.ams3.cdn.digitaloceanspaces.com/prod/entity/artist/poley-tight.jpg",
+  "from": {
+   "de": "Graz, Österreich",
+   "en": "Graz, Austria"
+  },
+  "bio": {
+   "de": "Hardstyle-/Hardcore-Act aus Graz mit Tracks wie „Engel des Todes“ und „Blasphemous Traitors“. 2024 spielte er beim Dominator Festival.",
+   "en": "Hardstyle/hardcore act from Graz with tracks such as \"Engel des Todes\" and \"Blasphemous Traitors\". In 2024 he played Dominator Festival."
+  },
+  "src": [
+   "https://viberate.com/artist/poley-tight"
+  ]
  },
  "Schlot": {
   "noImg": "2026-10-31",
@@ -8809,11 +8918,25 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Outlined": {
-  "noImg": "2026-10-31",
+  "noImg": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/user-530319358"
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Rawstyle-DJ aus Österreich mit harten Beats, düsterer Atmosphäre und oft eigenen Vocals in seinen Tracks. Er spielte u. a. bei Electric Love, World Club Dome, Shutdown, Hard Tribe, Frequency und Ikarus sowie in Italien, Deutschland und Kroatien.",
+   "en": "Rawstyle DJ from Austria known for hard beats, a dark atmosphere and his own vocals in many of his tracks. He has played Electric Love, World Club Dome, Shutdown, Hard Tribe, Frequency and Ikarus, as well as in Italy, Germany and Croatia."
+  },
+  "genres": [
+   "Rawstyle"
+  ],
+  "src": [
+   "https://www.frequency.at/en/artist/outlined"
+  ]
  },
  "NEXUS": {
   "noImg": "2026-11-03",
@@ -8952,14 +9075,14 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "j.around": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Lenz Rausch": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Scheibosan": {
   "noImg": "2026-11-02",
@@ -8998,19 +9121,19 @@ const AR={
   "img": "https://f4.bcbits.com/img/0008268725_41.jpg"
  },
  "C12": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Floer Klamauk": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Stalinsky": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "DJ Shady MF": {
   "noImg": "2026-10-31",
@@ -9085,14 +9208,34 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Dennes Deen": {
-  "noImg": "2026-10-31",
+  "noImg": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/dennesdeen"
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Österreichischer House-DJ, der seit rund 20 Jahren auflegt und sich als klassischer „Old School“-DJ mit eklektischen, groove-orientierten Sets versteht. 2012 war er Finalist bei Burn Studios; Veröffentlichungen u. a. auf Schönbrunner Perlen, LevelNONzero, Alchemy und DJ Sneaks I'm A House Gangster.",
+   "en": "Austrian house DJ who has been playing for around 20 years and sees himself as a classic old-school DJ with eclectic, groove-driven sets. In 2012 he was a Burn Studios finalist; releases include Schönbrunner Perlen, LevelNONzero, Alchemy and DJ Sneak's I'm A House Gangster."
+  },
+  "labels": [
+   "Schönbrunner Perlen",
+   "LevelNONzero",
+   "Alchemy",
+   "I'm A House Gangster"
+  ],
+  "genres": [
+   "House"
+  ],
+  "src": [
+   "https://imahousegangster.libsyn.com/dennes-deen-gangstercast-81"
+  ]
  },
  "Duracell": {
-  "noImg": "2026-10-31",
+  "noImg": "2026-11-03",
   "from": {
    "de": "Österreich",
    "en": "Austria"
@@ -9101,11 +9244,11 @@ const AR={
    "de": "Österreichische DJ-Legende, die zuerst im Biosphere mit sphärischem Sound auf sich aufmerksam machte.",
    "en": "Austrian DJ legend who first made a name for himself with a spherical sound at Biosphere."
   },
-  "noLinks": "2026-10-31",
+  "noLinks": "2026-11-03",
   "src": [
    "https://www.vienna.at/timeline-die-dj-legenden-sterreichs/2952605"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03"
  },
  "Uptempo Babys": {
   "noImg": "2026-10-31",
@@ -9168,19 +9311,41 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Tom Silver": {
-  "noImg": "2026-10-31",
+  "noImg": "2026-11-03",
   "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/tomsilver_official",
+   "ig": "https://www.instagram.com/tomsilver.official/",
+   "sp": "https://open.spotify.com/artist/4yjCk1wg0rUZzHSrCzs9A8",
+   "web": "https://sites.google.com/view/tomsilver/biography"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "In Österreich aktiver DJ und Produzent, der mit 20 beim „Austria DJ Team“ unterschrieb und seit 2004 Resident in der Babenberger Passage in Wien ist. Releases u. a. auf Tom Novys House-Label Noveau Niveau, Senssual Records und Disturbed Records; 2023 listete ihn Beatport unter den „Trending Artists“.",
+   "en": "DJ and producer active in Austria who signed with the \"Austria DJ Team\" at 20 and has been a resident at Babenberger Passage in Vienna since 2004. Releases include Tom Novy's house label Noveau Niveau, Senssual Records and Disturbed Records; in 2023 Beatport listed him among its \"Trending Artists\"."
+  },
+  "labels": [
+   "Noveau Niveau",
+   "Senssual Records",
+   "Disturbed Records"
+  ],
+  "src": [
+   "https://sites.google.com/view/tomsilver/biography"
+  ]
  },
  "Sdricci": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Adelic": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Rantom": {
   "bio": {
