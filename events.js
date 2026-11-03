@@ -8217,7 +8217,33 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Konrad Kaltenböck": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/dbvienna"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Wiener DJ aus dem Umfeld des Kollektivs hausgemacht, mit dem er u. a. bei Nacktzeptanz im LOFT spielte. Außerdem legte er bei der Morgengymnastik-Afterhour im Sass auf.",
+   "en": "Viennese DJ from the circle of the hausgemacht collective, with whom he has played Nacktzeptanz at LOFT. He has also played the Morgengymnastik afterhour at Sass."
+  },
+  "sets": [
+   {
+    "t": "Sass Morgengymnastik Afterhour 10.08.2025 – Manuel Grün & Konrad Kaltenböck",
+    "u": "https://soundcloud.com/dbvienna/sass-morgengymnastik-afterhour-10082025-manuel-grun-konrad-kaltenbock"
+   },
+   {
+    "t": "Konrad Kaltenböck B2B Max Kernmayer – Hausgemacht Nacktzeptanz 25.04.2025, LOFT Vienna",
+    "u": "https://soundcloud.com/dbvienna/konrad-kaltenbock-b2b-max-kernmayer-hausgemacht-nacktzeptanz-25042025-loft-vienna"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/dbvienna"
+  ],
+  "infoChk": "2026-11-03"
  },
  "Frühwerk": {
   "noImg": "2026-11-03",
@@ -8843,7 +8869,9 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Pau:sa": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "MA!A": {
   "noImg": "2026-11-03",
@@ -8877,7 +8905,9 @@ const AR={
   ]
  },
  "Baby Blue": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Artifex": {
   "noImg": "2026-11-03",
@@ -9439,8 +9469,8 @@ const AR={
   },
   "infoChk": "2026-11-03",
   "bio": {
-   "de": "Uptempo-/Hardcore-DJ und Produzent, der zunächst eher aus Spaß zu Hardcore auflegte und nach gut aufgenommenen Online-Sets eigene Musik zu produzieren begann. Seine Tracks „Spongebob“ und „Sick Fuck“ haben auf Spotify jeweils über eine Million Streams Er spielte auf der Shutdown Stage beim Electric Love.",
-   "en": "Uptempo/hardcore DJ and producer who started DJing almost as a joke and began producing after his online sets caught on. His tracks \"Spongebob\" and \"Sick Fuck\" each have over a million Spotify streams; he has played the Shutdown stage at Electric Love."
+   "de": "Uptempo-/Hardcore-DJ und Produzent, der zunächst eher aus Spaß zu Hardcore auflegte und nach gut aufgenommenen Online-Sets eigene Musik zu produzieren begann. Seine Tracks „Spongebob“ und „Sick Fuck“ kommen auf Spotify auf über eine Million Streams. Er spielte auf der Shutdown Stage beim Electric Love.",
+   "en": "Uptempo/hardcore DJ and producer who started DJing almost as a joke and began producing after his online sets caught on. His tracks \"Spongebob\" and \"Sick Fuck\" have over a million Spotify streams; he has played the Shutdown stage at Electric Love."
   },
   "genres": [
    "Uptempo",
@@ -9481,7 +9511,7 @@ const AR={
   ]
  },
  "Schlot": {
-  "noImg": "2026-10-31",
+  "noImg": "2026-11-03",
   "tracks": [
    "Legacy of Chaos (Freedom of Hardcore Intro)",
    "The Underworld",
@@ -9490,7 +9520,14 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/therealschlot"
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "sets": [
+   {
+    "t": "Krach Agency welcomes: Schlot (Promo Mix)",
+    "u": "https://soundcloud.com/therealschlot/schlot-krach-agency-promo-mix"
+   }
+  ],
+  "setsChecked": "2026-11-03"
  },
  "Outlined": {
   "noImg": "2026-11-03",
@@ -9753,34 +9790,34 @@ const AR={
   "setsChecked": "2026-11-03"
  },
  "Sonic Warfare": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Another Dimension": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Emkatress": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Fractured Souls": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Eternal Injustice vs Raw Kickzz": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Recovered": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Dennes Deen": {
   "noImg": "2026-11-03",
@@ -9826,64 +9863,64 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Uptempo Babys": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Agonize": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Burger Kingz": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Mark Enigma": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Rick C": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Cancel": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "KarmaSutra": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Pesca": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Lucifer": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Frau F": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "DJ Handgepäck": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "DJ Streuselkuchen": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Tom Silver": {
   "noImg": "2026-11-03",
@@ -27861,6 +27898,35 @@ const AR={
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03"
+ },
+ "Revax": {
+  "img": "https://static.ra.co/images/profiles/revax.jpg?dateUpdated=1737728741000",
+  "links": {
+   "ra": "https://ra.co/dj/revax",
+   "sc": "https://soundcloud.com/revaxxx",
+   "ig": "https://www.instagram.com/revax_dnb",
+   "bc": "https://revax.bandcamp.com"
+  },
+  "from": {
+   "de": "Wien, Österreich",
+   "en": "Vienna, Austria"
+  },
+  "bio": {
+   "de": "Drum-&-Bass-DJ und Produzent aus Österreich, der als klassisch ausgebildeter Cellist klassische Einflüsse mit Drum & Bass verbindet. Er spielt vor allem in Wien, u. a. bei FUELIZED und Beatdown im Ponyhof sowie bei River Resonance.",
+   "en": "Drum & bass DJ and producer from Austria, a classically trained cellist who blends classical influences with drum & bass. He plays mostly in Vienna, including FUELIZED and Beatdown at Der Ponyhof and River Resonance."
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "src": [
+   "https://ra.co/dj/revax"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Martin_Van_Vienna": {
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  }
 };
 
