@@ -1111,6 +1111,7 @@ const CI={
   "founded": "2018",
   "foundedNote": 1,
   "src": [
+   "https://ohschonhell.at/orte/praterstrasse+-+prst/912",
    "https://warda.at/events/8-years-rhythm-science/",
    "https://ra.co/events/2247828"
   ],
@@ -1127,6 +1128,7 @@ const CI={
   "founded": "2016",
   "foundedNote": 1,
   "src": [
+   "https://ohschonhell.at/orte/praterstrasse+-+prst/912",
    "https://ra.co/events/2334467",
    "https://ra.co/promoters/79040"
   ],
@@ -1141,6 +1143,7 @@ const CI={
   "founded": "2019",
   "foundedNote": 1,
   "src": [
+   "https://ohschonhell.at/orte/flucc/50",
    "https://warda.at/events/a-party-called-jack-sass-16-09-22/",
    "https://ra.co/events/2364400",
    "https://ra.co/promoters/94008"
@@ -1158,6 +1161,7 @@ const CI={
   "founded": "2022",
   "foundedNote": 1,
   "src": [
+   "https://ohschonhell.at/orte/praterstrasse+-+prst/912",
    "https://ra.co/events/2046151",
    "https://ra.co/promoters/132564"
   ],
@@ -1206,6 +1210,7 @@ const CI={
   "founded": "2022",
   "foundedNote": 1,
   "src": [
+   "https://ohschonhell.at/orte/flucc/50",
    "https://de.ra.co/events/2202475",
    "https://ra.co/events/1821323"
   ],
@@ -1222,6 +1227,7 @@ const CI={
   "founded": "2022",
   "foundedNote": 1,
   "src": [
+   "https://ohschonhell.at/orte/flucc/50",
    "https://dropthebass.co/events/3-years-of-reverse-pres-prdk-shmidoo-resselrave-afterparty-with-soundlabs-200925",
    "https://ra.co/events/2425613"
   ],
