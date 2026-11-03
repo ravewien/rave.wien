@@ -7627,13 +7627,55 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Frühwerk": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/fruhwerk"
+  },
+  "from": {
+   "de": "Mannheim / Wien",
+   "en": "Mannheim / Vienna"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Solamente",
+   "Reload Records"
+  ],
+  "bio": {
+   "de": "Frühwerk ist ein Techno-DJ und -Produzent aus Mannheim und Wien mit Hang zu härterem Cosmic Techno. 2018 gewann er einen DJ-Contest des Wiener Kollektivs hausgemacht; 2021 gründete er mit Donnerkanzel einen Verein, der Visuals und elektronische Musik verbindet. Releases u. a. die EP „Polarize“ (2021, Solamente) und „Dancing Leads“ (Reload Records).",
+   "en": "Frühwerk is a techno DJ and producer from Mannheim and Vienna with a leaning towards harder cosmic techno. In 2018 he won a DJ contest held by Viennese collective hausgemacht; in 2021 he co-founded Donnerkanzel, an association combining visuals and electronic music. Releases include the \"Polarize\" EP (2021, Solamente) and \"Dancing Leads\" (Reload Records)."
+  },
+  "sets": [
+   {
+    "t": "Frühwerk @ Wilde Renate, Berlin (02.11.2023)",
+    "u": "https://soundcloud.com/fruhwerk/fruhwerk-wilde-renate-berlin-021123"
+   },
+   {
+    "t": "Frühwerk @ Fluc Wanne (25.10.2021) – Donnerkanzel",
+    "u": "https://soundcloud.com/donnerkanzel/fruehwerk"
+   },
+   {
+    "t": "Frühwerk @ Zusammen Kommen 7. Akt (Grelle Forelle, 24.11.2019) – hausgemacht",
+    "u": "https://soundcloud.com/hausgemachtinwien/fruehwerk-zusammen-kommen-7"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://www.beatport.com/artist/fruhwerk/520236",
+   "https://soundcloud.com/fruhwerk"
+  ]
  },
  "Delaine": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Saint A": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Foxloe": {
   "noImg": "2026-10-31",
@@ -7705,22 +7747,70 @@ const AR={
   "noLinks": "2026-10-31"
  },
  "Deleven": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Ryta Tale": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "links": {
+   "ig": "https://www.instagram.com/rytatale/"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Ryta Tale ist eine Wiener Drag Queen, die mit Grazia Patricia und Metamorkid die Wiener Drag-Szene prägt. Die drei organisieren u. a. die queere Revue „Club Couleur“ und das „Drag Lab“ und wurden von WienTourismus in der Doku „Queens of Vienna“ porträtiert.",
+   "en": "Ryta Tale is a Vienna-based drag queen who, together with Grazia Patricia and Metamorkid, is a fixture of the city's drag scene. The three organise the queer revue \"Club Couleur\" and \"Drag Lab\" and were portrayed by the Vienna Tourist Board in the documentary \"Queens of Vienna\"."
+  },
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://www.wien.info/de/ganz-wien/schwul-lesbisch/queens-of-vienna-dragqueens-425662"
+  ]
  },
  "Clemotone": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/clemotone",
+   "ig": "https://www.instagram.com/clemotone_official/"
+  },
+  "genres": [
+   "Open Format",
+   "Disco House",
+   "House"
+  ],
+  "sets": [
+   {
+    "t": "Clemotone – Open Format Club Mix 2023",
+    "u": "https://soundcloud.com/clemotone/clemotone-open-format-club-mix-2023"
+   },
+   {
+    "t": "Clemotone – Disco House & House 2023",
+    "u": "https://soundcloud.com/clemotone/clemotone-disco-house-house-2023"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/clemotone",
+   "https://www.instagram.com/clemotone_official/"
+  ]
  },
  "Countessa": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Flual": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Bloodsugar": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Pinklotion": {
   "noImg": "2026-11-03",
@@ -8070,13 +8160,19 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "ADOBEAR": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "BAD PANDA": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "YAKKA": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Misspixie": {
   "noImg": "2026-10-28",
@@ -8118,7 +8214,30 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "Ferdinand Schwarz": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/ferdinand-schwarz"
+  },
+  "sets": [
+   {
+    "t": "Ferdinand Schwarz – Live Record @ Praterstraße (18.05.2022) – hausgemacht",
+    "u": "https://soundcloud.com/hausgemachtinwien/ferdinand-schwarz-live-record-praterstrase-180522"
+   },
+   {
+    "t": "Ferdinand Schwarz @ hausgemachter Tausendsassa (SASS, 21.09.2018)",
+    "u": "https://soundcloud.com/hausgemachtinwien/ferdinand-schwarz-hausgemachter-tausendsassa-sass-21092018"
+   },
+   {
+    "t": "Ferdinand Schwarz @ 3 Jahre hausgemacht (Werk, 14.10.2017)",
+    "u": "https://soundcloud.com/ferdinand-schwarz/recorded-3-jahre-hausgemacht-werk-141017"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/ferdinand-schwarz/recorded-3-jahre-hausgemacht-werk-141017",
+   "https://soundcloud.com/hausgemachtinwien/ferdinand-schwarz-live-record-praterstrase-180522"
+  ]
  },
  "Baby Blue": {
   "noImg": "2026-10-28"
@@ -8197,22 +8316,34 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "lexyz0 & DJ Lotto": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Bella": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Nani Mag. Viech": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "TRMT": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "La Destinación Final": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Humi": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Luca": {
   "noImg": "2026-11-03",
@@ -19875,6 +20006,55 @@ const AR={
    "https://ra.co/dj/calyx"
   ],
   "infoChk": "2026-11-03"
+ },
+ "Hannsolo": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "ing.dude": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Mareia": {
+  "img": "https://static.ra.co/images/profiles/square/mareia.jpg?dateUpdated=1729155331000",
+  "links": {
+   "ra": "https://ra.co/dj/mareia",
+   "sc": "https://soundcloud.com/maier_mareia"
+  },
+  "alias": [
+   "Marieu"
+  ],
+  "from": {
+   "de": "Wien (russisch-österreichisch)",
+   "en": "Vienna (Russian-Austrian)"
+  },
+  "bio": {
+   "de": "Mareia steht für einen federnden, eklektischen Sound mit rauen Kanten und produziert auch eigene Musik. Die russisch-österreichische Kulturarbeiterin ist Mitbegründerin des Wiener Kollektivs Heimlich und Coach beim FLINTA-DJ-Netzwerk Donna Decks.",
+   "en": "Mareia stands for a bouncy, eclectic sound with raw edges and also produces her own music. The Russian-Austrian cultural worker co-founded the Viennese collective Heimlich and coaches at the FLINTA DJ network Donna Decks."
+  },
+  "sets": [
+   {
+    "t": "Mareia im Wintergarten – Sisyphos (28.10.2024)",
+    "u": "https://soundcloud.com/maier_mareia/mareia-im-wintergarten-281024-sisyphos"
+   },
+   {
+    "t": "FRUITCAST #34 – Mareia",
+    "u": "https://soundcloud.com/journeytotarab/fruitcast-34-mareia"
+   },
+   {
+    "t": "Mareia – Alles Banane @ Schloss Cobenzl (19.05.2018)",
+    "u": "https://soundcloud.com/maier_mareia/alles-banane-schloss-cobenzl-190518"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/mareia/biography",
+   "https://soundcloud.com/maier_mareia",
+   "https://soundcloud.com/keller/kellersinfonie-33-leschueft-mareia-aka-marieu"
+  ]
  }
 };
 
