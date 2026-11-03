@@ -1656,7 +1656,7 @@ function renderLocs(){
     LF.tileLayer("https://basemaps.cartocdn.com/rastertiles/dark_all/{z}/{x}/{y}{r}.png?key="+CARTO_KEY,{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions" target="_blank" rel="noopener">CARTO</a>'}).addTo(map);
     const pins={};onMap.forEach(r=>{const g=G[r.n],k=g.join(",");const p=pins[k]=pins[k]||{g,rows:[]};p.rows.push(r)});
     const grp=Object.values(pins).map(p=>{p.up=p.rows.flatMap(r=>r.up).sort((a,b)=>(a.d+(a.s||"")).localeCompare(b.d+(b.s||"")));p.names=p.rows.map(r=>r.n);
-      p.nm=p.names.length>1&&p.names.every(x=>/^FLUCC/.test(x))?"FLUCC":p.names.join(" / ");return p});
+      p.nm=p.names.join(" / ");return p});
     const popHTML=ps=>{const names=ps.flatMap(p=>p.names),up=ps.flatMap(p=>p.up).sort((a,b)=>(a.d+(a.s||"")).localeCompare(b.d+(b.s||""))),n=up.length,one=ps.length===1;
       const evs=up.slice(0,8).map(e=>`<button class="lpe" data-oev="${esc(e.id)}"><span>${fmtDay(e.d)}${e.s?` · ${esc(e.s)}`:""}${one?"":` · ${esc(e.v)}`}</span>${esc(e.title)}</button>`).join("");
       const ad=one&&V[names[0]]&&!/^(Wien|TBA)$/.test(V[names[0]])?V[names[0]]:"";
@@ -1772,7 +1772,7 @@ function renderEv(dk,id){
 }
 const shareURL=e=>"https://rave.wien/e/"+e.id;
 const shareK=(k,n)=>"https://rave.wien/"+k+"/"+slug(n);
-function fromSlug(k,sl){const pool=k==="a"?ALLART():k==="c"?[...UNI.c,...EV.flatMap(e=>e.coll)]:UNI.v;const t=slug(sl);return pool.find(n=>slug(n)===t)}
+function fromSlug(k,sl){const pool=k==="a"?ALLART():k==="c"?[...UNI.c,...EV.flatMap(e=>e.coll)]:UNI.v;const t=slug(sl);return pool.find(n=>slug(n)===t)||(k==="v"?Object.keys(VINFO).find(n=>aliasOf("v",n).some(x=>slug(x)===t)):undefined)}
 function setHash(id){try{if(id){if(location.hash!=="#"+id)history.replaceState(history.state,"","#"+id)}else if(location.hash)history.replaceState(history.state,"",location.pathname+location.search)}catch(_){}}
 function fromHash(){const id=decodeURIComponent((location.hash||"").slice(1));if(!id)return;
   const m=/^([acv])\/(.+)$/.exec(id);if(m){const n=fromSlug(m[1],m[2]);if(n){const k={a:"art",c:"col",v:"ven"}[m[1]];addCard(k,n);gcCard(k,n)}return}
@@ -1844,6 +1844,8 @@ const SRCLIST=(()=>{const dom={};RAW.forEach(e=>(e.src||[]).forEach(([k,u])=>{if
   return Object.keys(S).filter(k=>dom[k]).map(k=>[S[k],dom[k]]).sort((a,b)=>a[0].localeCompare(b[0],"de",{sensitivity:"base"}))})();
 const FAVKEY="rw-fav";
 let FAV={e:[],a:[],c:[],v:[]};try{const o=JSON.parse(localStorage.getItem(FAVKEY)||"null");if(o)FAV=Object.assign(FAV,o)}catch(_){}
+// alte Location-Namen (z. B. „FLUCC Wanne“/„FLUCC Deck“ → „FLUCC“) über Aliase auf den Hauptnamen umstellen
+try{FAV.v=[...new Set((FAV.v||[]).map(n=>V[n]?n:(Object.keys(VINFO).find(k=>aliasOf("v",k).includes(n))||n)))]}catch(_){}
 const isFav=(k,n)=>(FAV[k]||[]).includes(n);
 function toggleFav(k,n){const a=FAV[k]=FAV[k]||[];const i=a.indexOf(n);if(i<0)a.push(n);else a.splice(i,1);gc("favorit/"+k+(i<0?"/dazu":"/weg"),"Favorit",true);try{localStorage.setItem(FAVKEY,JSON.stringify(FAV))}catch(_){}}
 const favCount=()=>FAV.e.filter(id=>EV.some(e=>e.id===id)).length+FAV.a.length+FAV.c.length+FAV.v.length;
