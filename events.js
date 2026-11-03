@@ -23106,6 +23106,1339 @@ const AR={
    "https://ra.co/dj/gbrl"
   ],
   "infoChk": "2026-11-03"
+ },
+ "AAT": {
+  "img": "https://static.ra.co/images/profiles/square/aat-nl.jpg?dateUpdated=1780482760950",
+  "links": {
+   "ra": "https://ra.co/dj/aat-nl"
+  },
+  "bio": {
+   "de": "AAT ist eine House-DJ aus Den Haag, die Anfang 2023 zu spielen begann und sich schnell in der niederländischen Szene einen Namen machte. Sie spielte u. a. bei Loveland, Awakenings, Audio Obscura, Thuishaven und Free Your Mind und ist seit 2025 offizielle Elrow-Residentin. Ihr Sound ist groovig und energiegeladen; im Oktober 2025 erschien ihre Debüt-EP „Get Funky“.",
+   "en": "AAT is a house DJ from The Hague who started playing in early 2023 and quickly made a name for herself in the Dutch scene. She has played Loveland, Awakenings, Audio Obscura, Thuishaven and Free Your Mind, among others, and has been an official Elrow resident since 2025. Her sound is groovy and high-energy; her debut EP \"Get Funky\" came out in October 2025."
+  },
+  "from": {
+   "de": "Den Haag",
+   "en": "The Hague"
+  },
+  "genres": [
+   "House"
+  ],
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/aat-nl/biography"
+  ]
+ },
+ "Simon Kidzoo": {
+  "img": "https://static.ra.co/images/profiles/square/simonkidzoo.jpg?dateUpdated=1750245372000",
+  "links": {
+   "ra": "https://ra.co/dj/simonkidzoo",
+   "sc": "https://soundcloud.com/simonkidzoo",
+   "ig": "https://www.instagram.com/simonkidzoo"
+  },
+  "bio": {
+   "de": "Simon Kidzoo ist ein House-DJ und Produzent aus den Niederlanden, Jahrgang 1994, der mit einer Liebe zur House-Musik aufwuchs. Releases erschienen u. a. auf Saved Records, Nervous Records und Kaluki Musik.",
+   "en": "Simon Kidzoo is a house DJ and producer from the Netherlands, born in 1994, who grew up with a love for house music. He has released on labels including Saved Records, Nervous Records and Kaluki Musik."
+  },
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "labels": [
+   "Saved Records",
+   "Nervous Records",
+   "Kaluki Musik"
+  ],
+  "genres": [
+   "House"
+  ],
+  "real": "Swenno Hoogerwaard",
+  "sets": [
+   {
+    "t": "Simon Kidzoo - 1001Tracklists Exclusive Mix",
+    "u": "https://soundcloud.com/1001tracklists/simon-kidzoo"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/simonkidzoo",
+   "https://soundcloud.com/simonkidzoo/tracks"
+  ]
+ },
+ "Hyperaktivist": {
+  "img": "https://static.ra.co/images/profiles/square/hyperaktivist.jpg?dateUpdated=1770145855997",
+  "links": {
+   "ra": "https://ra.co/dj/hyperaktivist",
+   "sc": "https://soundcloud.com/hyperaktivist",
+   "ig": "https://www.instagram.com/hyperaktivist"
+  },
+  "bio": {
+   "de": "Hyperaktivist ist eine in Venezuela geborene, in Berlin lebende DJ und Produzentin. Ihre Sets pendeln zwischen schnellerem Techno und House mit starkem Einfluss der 90er und Oldschool-Tracks. Sie ist Residentin bei Mala Junta; Releases erschienen u. a. auf Proxima und Creatures of the Night.",
+   "en": "Hyperaktivist is a Venezuelan-born, Berlin-based DJ and producer. Her sets oscillate between faster techno and house with a strong influence from the 90s and old-school tracks. She is a resident of Mala Junta and has released on labels including Proxima and Creatures of the Night."
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "labels": [
+   "Proxima",
+   "Creatures of the Night"
+  ],
+  "genres": [
+   "Techno",
+   "House"
+  ],
+  "sets": [
+   {
+    "t": "Hyperaktivist — HATE Podcast 455",
+    "u": "https://soundcloud.com/hate_music/hyperaktivist-hate-podcast-455"
+   },
+   {
+    "t": "Ute Mix Series #53: Hyperaktivist",
+    "u": "https://soundcloud.com/ute-rec/ute-mix-series-53-hyperaktivist"
+   },
+   {
+    "t": "Mala Junta w/ Hyperaktivist (NTS, 20.02.23)",
+    "u": "https://soundcloud.com/user-62184333/mala-junta-200223"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/hyperaktivist"
+  ]
+ },
+ "Schellt": {
+  "img": "https://static.ra.co/images/profiles/square/schellt.jpg?dateUpdated=1756321367783",
+  "links": {
+   "ra": "https://ra.co/dj/schellt",
+   "sc": "https://soundcloud.com/schellt",
+   "ig": "https://www.instagram.com/schellt.mp3"
+  },
+  "bio": {
+   "de": "SCHELLT ist ein in Warschau lebender DJ aus Kyjiw. Er gründete RaveKiev, ist Mitgründer von Schissma und Ssssessions und Resident-DJ bei Schissma.",
+   "en": "SCHELLT is a Warsaw-based DJ originally from Kyiv. He founded RaveKiev, co-founded Schissma and Ssssessions, and is a resident DJ at Schissma."
+  },
+  "from": {
+   "de": "Warschau",
+   "en": "Warsaw"
+  },
+  "sets": [
+   {
+    "t": "SCHELLT @ Schissma (20.12.24, Ciało, Wrocław)",
+    "u": "https://soundcloud.com/schissma/schissma-live-set-schellt-schissma-161223-cialo-wroclaw"
+   },
+   {
+    "t": "Znamy się z Techno Podcast #78: SCHELLT",
+    "u": "https://soundcloud.com/znamysieztechno/znamy-sie-z-techno-podcast-78"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/schellt"
+  ]
+ },
+ "Blasha": {
+  "img": "https://static.ra.co/images/profiles/square/blashaallatt.jpg?dateUpdated=1753960509243",
+  "links": {
+   "ra": "https://ra.co/dj/blashaallatt",
+   "sc": "https://soundcloud.com/blasha-allatt"
+  },
+  "bio": {
+   "de": "Blasha bildet zusammen mit Allatt das Techno-Duo Blasha & Allatt, das hinter dem Kollektiv Meat Free steht und für kompromisslosen, fokussierten Techno bekannt ist, zuletzt auch mit House-Sets. Das Duo ist Resident bei Meat Free, Vault Sessions und Tech Couture; Releases erschienen u. a. auf Blue Hour, Positive Source, Discos Paraiso und Symbolism.",
+   "en": "Blasha forms the techno duo Blasha & Allatt together with Allatt; the pair drive the Meat Free collective and are known for uncompromising, deeply focused techno, and recently also play house sets. The duo are residents at Meat Free, Vault Sessions and Tech Couture and have released on labels including Blue Hour, Positive Source, Discos Paraiso and Symbolism."
+  },
+  "labels": [
+   "Blue Hour",
+   "Positive Source",
+   "Discos Paraiso",
+   "Symbolism"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "Blasha & Allatt @ The Lot Radio 02-06-2025",
+    "u": "https://soundcloud.com/thelotradio/blasha-allatt-the-lot-radio-02-06-2025"
+   },
+   {
+    "t": "Blitz Live: Blasha & Allatt (01.03.2025)",
+    "u": "https://soundcloud.com/blitzclub/f3adfb90-f4d5-4562-b67a-df010a522968"
+   },
+   {
+    "t": "Awakenings Podcast S233 - Blasha & Allatt",
+    "u": "https://soundcloud.com/awakenings/awakenings-podcast-s233-blasha-allatt"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/blashaallatt/biography",
+   "https://soundcloud.com/blasha-allatt/tracks"
+  ]
+ },
+ "Allatt": {
+  "img": "https://static.ra.co/images/profiles/square/blashaallatt.jpg?dateUpdated=1753960509243",
+  "links": {
+   "ra": "https://ra.co/dj/blashaallatt",
+   "sc": "https://soundcloud.com/blasha-allatt"
+  },
+  "bio": {
+   "de": "Allatt bildet zusammen mit Blasha das Techno-Duo Blasha & Allatt, das hinter dem Kollektiv Meat Free steht und für kompromisslosen, fokussierten Techno bekannt ist, zuletzt auch mit House-Sets. Das Duo ist Resident bei Meat Free, Vault Sessions und Tech Couture; Releases erschienen u. a. auf Blue Hour, Positive Source, Discos Paraiso und Symbolism.",
+   "en": "Allatt forms the techno duo Blasha & Allatt together with Blasha; the pair drive the Meat Free collective and are known for uncompromising, deeply focused techno, and recently also play house sets. The duo are residents at Meat Free, Vault Sessions and Tech Couture and have released on labels including Blue Hour, Positive Source, Discos Paraiso and Symbolism."
+  },
+  "labels": [
+   "Blue Hour",
+   "Positive Source",
+   "Discos Paraiso",
+   "Symbolism"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "Blasha & Allatt @ The Lot Radio 02-06-2025",
+    "u": "https://soundcloud.com/thelotradio/blasha-allatt-the-lot-radio-02-06-2025"
+   },
+   {
+    "t": "Blitz Live: Blasha & Allatt (01.03.2025)",
+    "u": "https://soundcloud.com/blitzclub/f3adfb90-f4d5-4562-b67a-df010a522968"
+   },
+   {
+    "t": "Awakenings Podcast S233 - Blasha & Allatt",
+    "u": "https://soundcloud.com/awakenings/awakenings-podcast-s233-blasha-allatt"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/blashaallatt/biography",
+   "https://soundcloud.com/blasha-allatt/tracks"
+  ]
+ },
+ "Setaoc Mass": {
+  "img": "https://static.ra.co/images/profiles/square/setaocmass.jpg?dateUpdated=1784884335493",
+  "links": {
+   "ra": "https://ra.co/dj/setaocmass",
+   "sc": "https://soundcloud.com/setaoc_mass",
+   "ig": "https://www.instagram.com/setaoc_mass",
+   "bc": "https://skeleven.bandcamp.com"
+  },
+  "bio": {
+   "de": "Setaoc Mass ist ein in Großbritannien geborener, in Deutschland lebender DJ, Produzent und Label-Kurator, dessen Stil in Techno, IDM und experimenteller Musik wurzelt. Er betreibt das Label SK_eleven; Releases erschienen u. a. auf Soma Records, Figure und Blueprint Records.",
+   "en": "Setaoc Mass is a UK-born, Germany-based DJ, producer and label curator whose style is rooted in techno, IDM and experimental music. He runs the label SK_eleven and has released on labels including Soma Records, Figure and Blueprint Records."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "SK_eleven",
+   "Soma Records",
+   "Figure",
+   "Blueprint Records"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "Reclaim Your City 646: Setaoc Mass",
+    "u": "https://soundcloud.com/reclaim-your-city/reclaim-your-city-646-setaoc-mass"
+   },
+   {
+    "t": "Reclaim Your City 398: Setaoc Mass",
+    "u": "https://soundcloud.com/reclaim-your-city/reclaim-your-city-398-setaoc-mass"
+   },
+   {
+    "t": "Setaoc Mass DJ set @ Cocoliche, Buenos Aires (4 hours)",
+    "u": "https://soundcloud.com/setaoc_mass/setaocmasscocolicheba"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/setaocmass"
+  ]
+ },
+ "Raresh": {
+  "img": "https://static.ra.co/images/profiles/raresh.jpg?dateUpdated=1520415717000",
+  "links": {
+   "ra": "https://ra.co/dj/raresh",
+   "sc": "https://soundcloud.com/rareshofficial"
+  },
+  "from": {
+   "de": "Rumänien",
+   "en": "Romania"
+  },
+  "real": "Rares Ionut Iliescu",
+  "labels": [
+   "Cocoon Recordings",
+   "[a:rpia:r]",
+   "Amphia",
+   "Understand",
+   "Metereze",
+   "Zebra Rec."
+  ],
+  "genres": [
+   "House",
+   "Techno"
+  ],
+  "bio": {
+   "de": "Raresh ist ein House- und Techno-DJ und Produzent aus Rumänien. Veröffentlicht hat er unter anderem auf [a:rpia:r], Cocoon Recordings, Amphia und Understand. Sets von ihm erschienen u. a. von Houghton, Dimensions und als fabric-78-Promo-Mix.",
+   "en": "Raresh is a house and techno DJ and producer from Romania. He has released on labels including [a:rpia:r], Cocoon Recordings, Amphia and Understand. His sets have been published by Houghton, Dimensions and fabric (fabric 78 promo mix)."
+  },
+  "sets": [
+   {
+    "t": "RA Live - Raresh - Houghton, 2025",
+    "u": "https://soundcloud.com/resident-advisor/raresh-houghton-2025"
+   },
+   {
+    "t": "Recorded at Houghton - Raresh (2023)",
+    "u": "https://soundcloud.com/houghton-festival/recorded-at-houghton-raresh-2023"
+   },
+   {
+    "t": "Raresh - Live at Dimensions 2022",
+    "u": "https://soundcloud.com/dimensionsfestival/raresh-live-at-dimensions-2022"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/raresh",
+   "https://soundcloud.com/rareshofficial/tracks"
+  ]
+ },
+ "Mischluft": {
+  "img": "https://static.ra.co/images/profiles/square/mischluft.jpg?dateUpdated=1741997339630",
+  "links": {
+   "ra": "https://ra.co/dj/mischluft",
+   "sc": "https://soundcloud.com/mischluft",
+   "ig": "https://www.instagram.com/mischluft",
+   "bc": "https://mischluft.bandcamp.com"
+  },
+  "from": {
+   "de": "Leipzig",
+   "en": "Leipzig"
+  },
+  "real": "Fritz Model",
+  "labels": [
+   "SINDEX",
+   "Hot Meal Records"
+  ],
+  "genres": [
+   "Trance",
+   "Techno"
+  ],
+  "bio": {
+   "de": "Mischluft ist ein DJ und Produzent aus Leipzig. Bekannt ist er für eingängige Vocal-Lines und groovige, ravige Tracks zwischen vokallastigem Trance und federndem Techno. Releases erschienen u. a. auf SINDEX und Hot Meal Records.",
+   "en": "Mischluft is a DJ and producer based in Leipzig. He is known for catchy vocal lines and groovy, ravey tracks bridging vocal-driven trance and bouncy techno grooves. He has released on labels including SINDEX and Hot Meal Records."
+  },
+  "sets": [
+   {
+    "t": "BCCO Mix Series 339: Mischluft",
+    "u": "https://soundcloud.com/bcco/mischluft"
+   },
+   {
+    "t": "Glitch Podcast 071 / Mischluft",
+    "u": "https://soundcloud.com/glitchfestival/podcast-071"
+   },
+   {
+    "t": "Love Cast 001 - Mischluft",
+    "u": "https://soundcloud.com/syntheticlovehamburg/love-cast-001-mischluft"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/mischluft",
+   "https://de.ra.co/dj/mischluft/biography"
+  ]
+ },
+ "Wilderích": {
+  "img": "https://static.ra.co/images/profiles/square/wilderich.jpg?dateUpdated=1723536204000",
+  "links": {
+   "ra": "https://ra.co/dj/wilderich",
+   "sc": "https://soundcloud.com/wilderichofficial"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "240 KM/H",
+   "BrutalismXBasseht"
+  ],
+  "bio": {
+   "de": "WILDERÍCH ist ein DJ und Produzent aus Deutschland. Releases erschienen u. a. auf 240 KM/H und BrutalismXBasseht. Er tritt häufig gemeinsam mit zwilling. auf.",
+   "en": "WILDERÍCH is a DJ and producer from Germany. He has released on labels including 240 KM/H and BrutalismXBasseht. He frequently performs alongside zwilling."
+  },
+  "sets": [
+   {
+    "t": "Fridget Spinner 023: WILDERíCH",
+    "u": "https://soundcloud.com/polyamor-berlin/fridget-spinner-023-wilderich"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/wilderich",
+   "https://soundcloud.com/wilderichofficial/tracks"
+  ]
+ },
+ "Yatuuza": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Liminal Kin": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "DJ Yarak": {
+  "img": "https://static.ra.co/images/profiles/square/djyarak.jpg?dateUpdated=1781524154903",
+  "links": {
+   "ra": "https://ra.co/dj/djyarak",
+   "sc": "https://soundcloud.com/djyarak",
+   "ig": "https://www.instagram.com/therealdjyarak",
+   "web": "https://www.djyarak.com"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "DJ YARAK ist ein DJ aus Deutschland, der über SoundCloud bekannt wurde und heute in internationalen Clubs spielt. Sein Stil verbindet Dance-Musik der frühen 2000er, Hip-Hop und Internetkultur auf verspielte Art.",
+   "en": "DJ YARAK is a DJ from Germany who rose from SoundCloud and now plays international club floors. His style blends early-2000s dance music, hip-hop and internet culture in a fun, lighthearted way."
+  },
+  "sets": [
+   {
+    "t": "BCCO Mix Series 333: DJ YARAK",
+    "u": "https://soundcloud.com/bcco/djyarak"
+   },
+   {
+    "t": "DJ YARAK @FEEL(MANN) 2024",
+    "u": "https://soundcloud.com/djyarak/dj-yarak-feelmann-2024"
+   },
+   {
+    "t": "SUPER-YARAK-MIX",
+    "u": "https://soundcloud.com/djyarak/super-yarak-mix"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://es.ra.co/dj/djyarak",
+   "https://ra.co/dj/djyarak/biography",
+   "https://soundcloud.com/djyarak/tracks"
+  ]
+ },
+ "Destroyer": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Wurstaufschnitt": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Mihai Popoviciu": {
+  "img": "https://static.ra.co/images/profiles/mihaipopoviciu.jpg?dateUpdated=1498467916000",
+  "links": {
+   "ra": "https://ra.co/dj/mihaipopoviciu",
+   "sc": "https://soundcloud.com/mihai-popoviciu-1"
+  },
+  "from": {
+   "de": "Sibiu, Rumänien",
+   "en": "Sibiu, Romania"
+  },
+  "labels": [
+   "Poker Flat Recordings",
+   "Bondage Music",
+   "Level Non Zero",
+   "Highgrade Records",
+   "Area Remote",
+   "Hudd Traxx",
+   "Hermine Records",
+   "Gartenhaus",
+   "Moan Recordings",
+   "CYCLIC RECORDS"
+  ],
+  "bio": {
+   "de": "Mihai Popoviciu ist ein Produzent und DJ aus Sibiu, Rumänien, Jahrgang 1981. Geprägt von der Rave-Szene der 1990er begann er schon in jungen Jahren zu produzieren. Er gilt als einer der innovativsten osteuropäischen Produzenten elektronischer Musik und veröffentlichte u. a. auf Poker Flat, Bondage Music und Highgrade.",
+   "en": "Mihai Popoviciu is a producer and DJ from Sibiu, Romania, born in 1981. Drawn to the 1990s rave scene, he started producing music in his youth. He is considered one of the most innovative Eastern European electronic music producers and has released on Poker Flat, Bondage Music and Highgrade, among others."
+  },
+  "sets": [
+   {
+    "t": "Mihai Popoviciu, Nightclubber Podcast 213",
+    "u": "https://soundcloud.com/nightclubberro/mihai-popoviciu-nightclubber-podcast-212"
+   },
+   {
+    "t": "DHB Podcast #116 - Mihai Popoviciu",
+    "u": "https://soundcloud.com/deephousebucharest/dhb-podcast-116-mihai-popoviciu"
+   },
+   {
+    "t": "BERG AUDIO PODCAST 06: MIHAI POPOVICIU",
+    "u": "https://soundcloud.com/berg_audio/berg-audio-podcast-06-mihai-popoviciu"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/mihaipopoviciu",
+   "https://www.discogs.com/artist/Mihai+Popoviciu"
+  ]
+ },
+ "Bejbi Motorola": {
+  "alias": [
+   "Beba Moto"
+  ],
+  "bio": {
+   "de": "Bejbi Motorola veröffentlicht Musik auf SoundCloud unter dem Profilnamen Beba Moto. Zu den Veröffentlichungen zählen „Plejboj Karting“, „Nemoguće dupe“ und die Kollaboration „Još da traje“ mit Mimi Mercedez (prod. by ACOR).",
+   "en": "Bejbi Motorola releases music on SoundCloud under the profile name Beba Moto. Releases include “Plejboj Karting”, “Nemoguće dupe” and the collaboration “Još da traje” with Mimi Mercedez (prod. by ACOR)."
+  },
+  "src": [
+   "https://soundcloud.com/bejbi-motorola",
+   "https://soundcloud.com/bejbi-motorola/4-bejbi-motorola-x-mimi"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "setsChecked": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/bejbi-motorola"
+  }
+ },
+ "GORO": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Kid Kodama": {
+  "img": "https://static.ra.co/images/profiles/square/kidkodama.jpg?dateUpdated=1730128943000",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Kid Kodama ist DJ, Produzent, Künstler und Veranstalter aus Wien und seit 2015 in der Underground-Musikszene aktiv. Er bewegt sich zwischen unterschiedlichen atmosphärischen Kontexten und erzählt in seinen DJ-Mixes am liebsten eine durchgehende Geschichte. Auf RA beschreibt er sich als jemand, der gern Platten und Instrumente spielt und sich Musik und Community widmet.",
+   "en": "Kid Kodama is a DJ, producer, artist and promoter from Vienna, active in the underground music scene since 2015. He moves between different atmospheric contexts and most enjoys telling a thorough story through his DJ mixes. On RA he describes himself as someone who loves to play records and instruments, dedicated to music and community."
+  },
+  "sets": [
+   {
+    "t": "Kid Kodama - Membrain Festival 2023 - Promo Mix",
+    "u": "https://soundcloud.com/membrainfestival/kid-kodama-membrain-festival-2023-promo-mix"
+   },
+   {
+    "t": "Kid Kodama @ Grund für SOS 31/05/2019",
+    "u": "https://soundcloud.com/bass-cave/solirave-05-31-kid-kodama"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://de.ra.co/dj/kidkodama/past-events",
+   "https://www.wienxtra.at/soundbase/event/36927",
+   "https://soundcloud.com/membrainfestival/kid-kodama-membrain-festival-2023-promo-mix"
+  ],
+  "infoChk": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/kid-kodama",
+   "ra": "https://ra.co/dj/kidkodama",
+   "ig": "https://www.instagram.com/kidkodama"
+  }
+ },
+ "Lnkmn": {
+  "bio": {
+   "de": "LNKMN ist DJ und im Umfeld der Wiener Reihe Acid Lambada aktiv, u. a. mit der Acid Lambada Radioshow #5 auf Res.Radio und einem Acid Lambada Showcase auf Callshop Radio (2024). Gemeinsam mit Kid Kodama und Dzc. gestaltete er die Sendung „Cosy Dub #1“ auf Res.Radio.",
+   "en": "LNKMN is a DJ active around the Vienna party series Acid Lambada, including the Acid Lambada Radioshow #5 on Res.Radio and an Acid Lambada showcase on Callshop Radio (2024). Together with Kid Kodama and Dzc. he hosted the show “Cosy Dub #1” on Res.Radio."
+  },
+  "sets": [
+   {
+    "t": "Acid Lambada Showcase w/ LNKMN 29.09.24",
+    "u": "https://soundcloud.com/callshopradio/acid-lambada-showcase-w-lnkmn"
+   },
+   {
+    "t": "LNKMN - @ResRadio - Acid Lambada Radioshow #5",
+    "u": "https://soundcloud.com/lnkmn/lnkmn-resradio-acid-lambada-radioshow-5"
+   },
+   {
+    "t": "LNKMN - The Plant Tape",
+    "u": "https://soundcloud.com/lnkmn/lnkmn-the-plant-tape"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/lnkmn/lnkmn-resradio-acid-lambada-radioshow-5",
+   "https://soundcloud.com/callshopradio/acid-lambada-showcase-w-lnkmn",
+   "https://soundcloud.com/resradio/cosy-dub-1-w-kid-kodama-lnkmn"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/lnkmn"
+  }
+ },
+ "Giuseppe Ottaviani": {
+  "img": "https://static.ra.co/images/profiles/giuseppeottaviani.jpg?dateUpdated=1248279486000",
+  "from": {
+   "de": "Italien",
+   "en": "Italy"
+  },
+  "genres": [
+   "Trance"
+  ],
+  "labels": [
+   "VANDIT Records",
+   "Armada"
+  ],
+  "bio": {
+   "de": "Giuseppe Ottaviani stammt aus Viterbo nahe Rom, spielte ab vier Jahren Klavier und studierte klassische Musik, bevor er zur elektronischen Musik kam. 1999 gründete er mit Andrea Ribeca das Projekt NU NRG und veröffentlichte ab 2001 auf Paul van Dyks Label VANDIT Records. Mit NU NRG gewann er die Trance Awards als Best Live Act 2004, 2006 und 2007; seit 2005 ist er solo mit Live-Sets auf Festivals weltweit unterwegs.",
+   "en": "Giuseppe Ottaviani comes from Viterbo near Rome, began playing piano at the age of four and studied classical music before turning to electronic music. In 1999 he formed NU NRG with Andrea Ribeca and from 2001 released on Paul van Dyk's label VANDIT Records. He won Trance Awards for Best Live Act in 2004, 2006 and 2007 and has pursued a solo career with live sets at festivals worldwide since 2005."
+  },
+  "sets": [
+   {
+    "t": "[Promo Mix] Giuseppe Ottaviani at Legia Stadium for ASOT Poland at Warsaw Music Festival",
+    "u": "https://soundcloud.com/giuseppeottaviani/giuseppe-ottaviani-at-legia"
+   },
+   {
+    "t": "Giuseppe Ottaviani - Exclusive 2hr EOYC 2013 Mix",
+    "u": "https://soundcloud.com/giuseppeottaviani/giuseppe-ottaviani-eoyc-2013"
+   },
+   {
+    "t": "This is Giuseppe Ottaviani - 60 min. mix",
+    "u": "https://soundcloud.com/giuseppeottaviani/this-is-giuseppe-ottaviani"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/giuseppeottaviani/biography",
+   "https://soundcloud.com/giuseppeottaviani/this-is-giuseppe-ottaviani"
+  ],
+  "infoChk": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/giuseppeottaviani",
+   "ra": "https://ra.co/dj/giuseppeottaviani"
+  }
+ },
+ "Buchecha": {
+  "img": "https://static.ra.co/images/profiles/buchecha.jpg?dateUpdated=1302381831000",
+  "real": "Anderson Carvalho",
+  "from": {
+   "de": "Brasilien",
+   "en": "Brazil"
+  },
+  "labels": [
+   "Kazima Records",
+   "Intuition Recordings PT",
+   "AudioCode Records",
+   "TechnoMind Records"
+  ],
+  "bio": {
+   "de": "Buchecha (Anderson Carvalho) wurde 1984 in São Paulo geboren. Musik prägt ihn seit seinem zwölften Lebensjahr; bis 14 spielte er Gitarre in einer Hardcore-Band aus São Paulo, dann entdeckte er elektronische Musik. Releases erschienen u. a. auf Kazima Records, AudioCode Records und TechnoMind Records.",
+   "en": "Buchecha (Anderson Carvalho) was born in São Paulo in 1984. Music has shaped him since the age of twelve; until 14 he played guitar in a São Paulo hardcore band before discovering electronic music. His releases have appeared on labels including Kazima Records, AudioCode Records and TechnoMind Records."
+  },
+  "sets": [
+   {
+    "t": "Buchecha @ NADA Lisbon - 09.05.2025",
+    "u": "https://soundcloud.com/djbuchecha/buchecha-nada-lisbon-09-05"
+   },
+   {
+    "t": "Buchecha @ Mind Blowing Hard Set #02 - December 2014",
+    "u": "https://soundcloud.com/djbuchecha/buchecha-mind-blowing-hard-set-02-december-2014"
+   },
+   {
+    "t": "Buchecha @ Club Zoreks - Spain 20.02.2009 - 3 Hours Set",
+    "u": "https://soundcloud.com/djbuchecha/buchecha-club-zoreks-spain-20"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/buchecha",
+   "https://ra.co/events/2433008",
+   "https://m.soundcloud.com/djbuchecha/buchecha-nada-lisbon-09-05"
+  ],
+  "infoChk": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/djbuchecha",
+   "ra": "https://ra.co/dj/buchecha",
+   "web": "https://www.djbuchecha.com"
+  }
+ },
+ "Dj Fuckoff": {
+  "img": "https://static.ra.co/images/profiles/square/djfuckoff.jpg?dateUpdated=1769056837540",
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "INDEX:Records",
+   "JUICY GANG RECORDS"
+  ],
+  "bio": {
+   "de": "DJ Fuckoff ist ein DJ und Produzent aus Deutschland, dessen Sound RA dem globalen Bass-Underground zuordnet. Releases erschienen auf INDEX:Records und JUICY GANG RECORDS. Mixe entstanden u. a. für Mixmag (The Mix 069), The Lot Radio und Pitch Music & Arts.",
+   "en": "DJ Fuckoff is a DJ and producer from Germany whose sound RA places in the global bass underground. Releases have appeared on INDEX:Records and JUICY GANG RECORDS. Mixes include sets for Mixmag (The Mix 069), The Lot Radio and Pitch Music & Arts."
+  },
+  "sets": [
+   {
+    "t": "DJ Fuckoff — Pitch Music & Arts 2025",
+    "u": "https://soundcloud.com/pitchfestival/dj-fuckoff-pitch-music-arts-2025"
+   },
+   {
+    "t": "DJ FUCKOFF @ The Lot Radio 05-08-2024",
+    "u": "https://soundcloud.com/thelotradio/dj-fuckoff-the-lot-radio-05-08-2024"
+   },
+   {
+    "t": "The Mix 069: DJ Fuckoff",
+    "u": "https://soundcloud.com/mixmag-1/the-mix-069-dj-fuckoff"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/djfuckoff",
+   "https://soundcloud.com/mixmag-1/the-mix-069-dj-fuckoff"
+  ],
+  "infoChk": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/djfuckoff",
+   "ra": "https://ra.co/dj/djfuckoff"
+  }
+ },
+ "Helena Lauwaert": {
+  "img": "https://static.ra.co/images/profiles/square/helenalauwaert.jpg?dateUpdated=1678360570000",
+  "from": {
+   "de": "Gent, Belgien",
+   "en": "Ghent, Belgium"
+  },
+  "genres": [
+   "Techno",
+   "Hard House",
+   "Speed House"
+  ],
+  "bio": {
+   "de": "Helena Lauwaert ist eine junge DJ aus Gent in Belgien. Ihre Sets verbinden groovigen Techno, Hard House und Speed House. Mixe erschienen u. a. bei Studio Brussel (UNTZ), Paradise City Festival und Black Teeth Radio.",
+   "en": "Helena Lauwaert is a young and upcoming DJ from Ghent, Belgium. Her sets blend groovy techno, hard house and speed house. Her mixes have appeared on Studio Brussel (UNTZ), Paradise City Festival and Black Teeth Radio, among others."
+  },
+  "sets": [
+   {
+    "t": "Helena Lauwaert live at Orbit Stage, Paradise City 2024",
+    "u": "https://soundcloud.com/paradise-city-festival/helena-lauwaert-live-at-orbit-paradise-city-2024"
+   },
+   {
+    "t": "Helena Lauwaert - UNTZ Mix 3 (StuBru)",
+    "u": "https://soundcloud.com/helenalauwaert/helena-lauwaert-stubru-untz-2024-deel-2wav"
+   },
+   {
+    "t": "Black Teeth Radio: Helena And Friends With Helena Lauwaert (28-01-2024)",
+    "u": "https://soundcloud.com/blackteethrecords/black-teeth-radio-helena-and-friends-with-helena-lauwaert-28-01-2024"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://nl.ra.co/dj/helenalauwaert",
+   "https://soundcloud.com/helenalauwaert"
+  ],
+  "infoChk": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/helenalauwaert",
+   "ra": "https://ra.co/dj/helenalauwaert",
+   "ig": "https://www.instagram.com/helenalauwaert"
+  }
+ },
+ "Alice": {
+  "img": "https://static.ra.co/images/profiles/square/alice-at.jpg?dateUpdated=1752519285470",
+  "alias": [
+   "Alice (AT)"
+  ],
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Alice ist eine DJ aus Österreich, die nach elektronischen Spuren vergangener Jahrzehnte sucht. In ihren Sets lässt sie die Zeit verschwimmen und Genres zu etwas schwer Einordenbarem verschmelzen. 2026 stand sie im Line-up des Lighthouse Festival in Kroatien und spielte in Wien u. a. bei PRST und im Tagada.",
+   "en": "Alice is a DJ from Austria who seeks out electronic traces from past decades. In her sets she lets time slip and genres dissolve into something unplaceable. In 2026 she was on the line-up of Lighthouse Festival in Croatia and has played in Vienna at venues such as PRST and Tagada."
+  },
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://de.ra.co/dj/alice-at"
+  ],
+  "infoChk": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/victoria_alice",
+   "ra": "https://ra.co/dj/alice-at",
+   "ig": "https://www.instagram.com/v___alice"
+  }
+ },
+ "Muallem": {
+  "img": "https://static.ra.co/images/profiles/square/muallem.jpg?dateUpdated=1779700772747",
+  "real": "David Muallem",
+  "alias": [
+   "Spectacle"
+  ],
+  "from": {
+   "de": "München",
+   "en": "Munich"
+  },
+  "labels": [
+   "Permanent Vacation",
+   "Public Possession",
+   "Childhood"
+  ],
+  "bio": {
+   "de": "Muallem ist ein DJ aus München, der den BLITZ Club und das Label Childhood betreibt. Releases erschienen u. a. auf Permanent Vacation und Public Possession. Childhood startete er mit einer EP von DJ Deep.",
+   "en": "Muallem is a DJ from Munich who runs BLITZ club and the label Childhood. His releases have appeared on labels including Permanent Vacation and Public Possession. He launched Childhood with an EP by DJ Deep."
+  },
+  "sets": [
+   {
+    "t": "Blitzcast 007 — Muallem",
+    "u": "https://soundcloud.com/blitzclub/blitzcast-007-muallem"
+   },
+   {
+    "t": "SPND20 Mixtape By Muallem",
+    "u": "https://soundcloud.com/spandau20/spnd20-mixtape-by-muallem"
+   },
+   {
+    "t": "Muallem DJ Set at Bob Beaman Club December 4th 2010",
+    "u": "https://soundcloud.com/muallem/bobbeaman_live_041210"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/muallem",
+   "https://ra.co/news/73514",
+   "https://ra.co/exchange/497",
+   "https://soundcloud.com/muallem"
+  ],
+  "infoChk": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/muallem",
+   "ra": "https://ra.co/dj/muallem",
+   "bc": "https://childhood2020.bandcamp.com",
+   "ig": "https://www.instagram.com/dmuallem",
+   "web": "https://www.muallem.net"
+  }
+ },
+ "Sumi": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Beyond": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Numero 6": {
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "bio": {
+   "de": "Numero 6 ist ein französischer Produzent und DJ. Er bewegt sich zwischen Tech House, Breakbeat und Electro, mit eindringlichen Vocals, verträumten Melodien und rohen Percussion-Schichten. Releases erschienen u. a. auf Velvet Spirit und Chat Noir; zuletzt stellte er sein Projekt Wave Witness vor.",
+   "en": "Numero 6 is a French producer and DJ. His music moves between tech house, breakbeat and electro, with haunting vocals, dreamy melodies and raw percussive layers. He has released on Velvet Spirit and Chat Noir, among others, and recently unveiled his project Wave Witness."
+  },
+  "labels": [
+   "Velvet Spirit",
+   "Chat Noir"
+  ],
+  "genres": [
+   "Tech House",
+   "Breakbeat",
+   "Electro"
+  ],
+  "src": [
+   "https://ra.co/events/2342590"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Hearthug": {
+  "img": "https://static.ra.co/images/profiles/square/hearthug.jpg?dateUpdated=1528243200000",
+  "from": {
+   "de": "Tunesien",
+   "en": "Tunisia"
+  },
+  "real": "Jihed Monser",
+  "bio": {
+   "de": "HearThug ist ein DJ und Produzent aus Tunesien und steht hinter dem Label Are You Alien. Releases erschienen u. a. auf Banoffee Pies, Casa Voyager, Pleasure Club und Sex Tapes From Mars.",
+   "en": "HearThug is a DJ and producer from Tunisia and the force behind the label Are You Alien. He has released on Banoffee Pies, Casa Voyager, Pleasure Club and Sex Tapes From Mars, among others."
+  },
+  "labels": [
+   "Are You Alien",
+   "Banoffee Pies",
+   "Casa Voyager",
+   "Pleasure Club",
+   "Sex Tapes From Mars"
+  ],
+  "src": [
+   "https://ra.co/dj/hearthug",
+   "https://ra.co/events/2468575"
+  ],
+  "infoChk": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/hearthug",
+   "ra": "https://ra.co/dj/hearthug",
+   "bc": "https://areyoualien.bandcamp.com",
+   "ig": "https://www.instagram.com/hearthug_"
+  }
+ },
+ "Iambp": {
+  "img": "https://static.ra.co/images/profiles/square/iambp.jpg?dateUpdated=1760439255813",
+  "alias": [
+   "I Am Black Panther"
+  ],
+  "from": {
+   "de": "Paris",
+   "en": "Paris"
+  },
+  "bio": {
+   "de": "IAMBP (I Am Black Panther) ist eine DJ aus Paris. Sie bewegt sich zwischen Electro, Old-School-Tech-House, New Beat und Breaks – mit einem Hang zu „spooky“ Beats.",
+   "en": "IAMBP (I Am Black Panther) is a DJ from Paris. She moves through electro, old-school tech house, new beat and breaks, with a taste for spooky beats."
+  },
+  "genres": [
+   "Electro",
+   "Tech House",
+   "New Beat",
+   "Breaks"
+  ],
+  "sets": [
+   {
+    "t": "IAMBP - Trommel InSession 173",
+    "u": "https://soundcloud.com/trommelmusic/iambp-trommel-insession-173"
+   },
+   {
+    "t": "Chat Noir Podcast #6: IAMBP",
+    "u": "https://soundcloud.com/chatnoirfr/chat-noir-podcast-6-iambp"
+   },
+   {
+    "t": "Venus Vacarme #1 - IAMBP",
+    "u": "https://soundcloud.com/venusclubofficiel/venus-vacarme-1-iambp"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/iambp",
+   "https://soundcloud.com/iamblackp/sets/iambp-mix"
+  ],
+  "infoChk": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/iamblackp",
+   "ra": "https://ra.co/dj/iambp",
+   "ig": "https://www.instagram.com/iamblackpanther"
+  }
+ },
+ "Stef Mendesidis": {
+  "img": "https://static.ra.co/images/profiles/square/stefmendesidis.jpg?dateUpdated=1564430854853",
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "bio": {
+   "de": "Stef Mendesidis ist ein in den Niederlanden ansässiger Techno-Live-Act. Er arbeitet mit One-Take-Aufnahmen und bleibt dem Prinzip der Live-Techno-Produktion treu; sein synästhetischer Ansatz übersetzt Gefühle, Bilder und Ideen in Klangmuster. Releases erschienen u. a. auf Klockworks und Clergy.",
+   "en": "Stef Mendesidis is a Netherlands-based techno live act. He works with one-take recordings, staying loyal to the principle of live techno creation, and his synesthetic approach turns feelings, images and ideas into sound patterns. He has released on Klockworks and Clergy, among others."
+  },
+  "labels": [
+   "Klockworks",
+   "Clergy"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "Stone Techno Festival 2025 - Stef Mendesidis (live) - Arte Concert",
+    "u": "https://soundcloud.com/thethirdroom_t3r/stone-techno-festival-2025-stef-mendesidis-arte-concert"
+   },
+   {
+    "t": "Stef Mendesidis (live) at Dalma Festival 2025",
+    "u": "https://soundcloud.com/glitchfestival/stefmendesidis-dalma25"
+   },
+   {
+    "t": "Stef Mendesidis [live] at Intercell x BCCO",
+    "u": "https://soundcloud.com/intercell/stef-mendesidis-live-at-intercell-x-bcco-ade"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/stefmendesidis",
+   "https://www.discogs.com/artist/3957064-Stef-Mendesidis"
+  ],
+  "infoChk": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/stefmendesidis",
+   "ra": "https://ra.co/dj/stefmendesidis",
+   "ig": "https://www.instagram.com/stefmendesidis"
+  }
+ },
+ "Maurice Mino": {
+  "img": "https://static.ra.co/images/profiles/square/mauricemino-de.jpg?dateUpdated=1789683322180",
+  "alias": [
+   "MINO"
+  ],
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "bio": {
+   "de": "Maurice Mino (MINO) ist DJ, Produzent und Veranstalter aus Berlin, der mehrere Eventreihen, Kollektive und Projekte leitet und mit Rebellion der Träumer verbunden ist. Er spielt in Berlin, Deutschland und Europa; sein Stil ist von wuchtigen Basswechseln und einem dissoziativen Klangbild geprägt. Releases erschienen u. a. auf Ritter Butzke Records, Jannowitz Records und Kosmos Records.",
+   "en": "Maurice Mino (MINO) is a DJ, producer and organiser from Berlin who runs several event series, collectives and projects and is associated with Rebellion der Träumer. He plays across Berlin, Germany and Europe; his style is defined by shattering bass changes and a dissociative sound image. He has released on Ritter Butzke Records, Jannowitz Records and Kosmos Records, among others."
+  },
+  "labels": [
+   "Ritter Butzke Records",
+   "Tragedie",
+   "Turbo Records",
+   "44 Hertz",
+   "Kosmos Records",
+   "Alaula Music",
+   "Jannowitz Records",
+   "Lauter Unfug",
+   "Herz & Leber"
+  ],
+  "sets": [
+   {
+    "t": "b2b Sabura • Homecoming • Praerie Festival • Canyon • 2025",
+    "u": "https://soundcloud.com/mauricemino/praeriehomecoming"
+   },
+   {
+    "t": "Jannopod #146 by Maurice Mino",
+    "u": "https://soundcloud.com/jannowitz/jannopod-146-by-maurice-mino"
+   },
+   {
+    "t": "Möhrecast #37 - Maurice Mino",
+    "u": "https://soundcloud.com/moehrerekorder/mohre-podcast-37-maurice-mino"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/mauricemino-de/biography",
+   "https://soundcloud.com/mauricemino/sets/club-sets"
+  ],
+  "infoChk": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/mauricemino",
+   "ra": "https://ra.co/dj/mauricemino-de"
+  }
+ },
+ "Wndrlst": {
+  "img": "https://static.ra.co/images/profiles/wndrlst.jpg?dateUpdated=1553012040000",
+  "from": {
+   "de": "Rotterdam / Budapest",
+   "en": "Rotterdam / Budapest"
+  },
+  "bio": {
+   "de": "WNDRLST ist ein in Rotterdam geborener Techno-DJ und Produzent mit Sitz in Budapest. Releases erschienen u. a. auf Sacred Court, Battle Audio Records, Whirlwind Trax, Stroberload und Deestricted.",
+   "en": "WNDRLST is a Rotterdam-born techno DJ and producer based in Budapest, Hungary. He has released on Sacred Court, Battle Audio Records, Whirlwind Trax, Stroberload and Deestricted, among others."
+  },
+  "labels": [
+   "Sacred Court",
+   "Battle Audio Records",
+   "Whirlwind Trax",
+   "Stroberload",
+   "Deestricted"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "WNDRLST - Toffler Rotterdam, All Night Long Set (23.02.2024)",
+    "u": "https://soundcloud.com/wndrlstt/wndrlst-toffer-rotterdam-all-night-long-set-23022024"
+   },
+   {
+    "t": "WNDRLST - Closing Set Hour 2/3 Live Recording - Jaded x Jannah",
+    "u": "https://soundcloud.com/wndrlstt/wndrlst-closing-set-jaded-x-jannah-w-kozlov-abdenord"
+   },
+   {
+    "t": "(Be-At.TV x Monasterio) WNDRLST - Livestream Set 16/07/20",
+    "u": "https://soundcloud.com/wndrlstt/be-attv-wndrlst-x-monasterio-livestream-set"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/wndrlst"
+  ],
+  "infoChk": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/wndrlstt",
+   "ra": "https://ra.co/dj/wndrlst",
+   "bc": "https://wndrlstnl.bandcamp.com",
+   "ig": "https://www.instagram.com/wndrlst_music"
+  }
+ },
+ "Elpawel": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "DJ Dreckisch": {
+  "img": "https://static.ra.co/images/profiles/square/djdreckisch.jpg?dateUpdated=1764236837287",
+  "alias": [
+   "Maxlion"
+  ],
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "DJ Dreckisch (auch Maxlion) ist ein DJ und Produzent aus Deutschland. Er spielt u. a. bei Partyreihen wie Dirty Dancing und Color and Bass sowie im Berliner OST und veröffentlicht eigene Tracks auf SoundCloud.",
+   "en": "DJ Dreckisch (also Maxlion) is a DJ and producer from Germany. He plays party series such as Dirty Dancing and Color and Bass as well as Berlin's OST, and releases his own tracks on SoundCloud."
+  },
+  "sets": [
+   {
+    "t": "DJ DRECKISCH @ Techno Freitag by HandOfBlood",
+    "u": "https://soundcloud.com/dj_dreckisch/dj-dreckisch-techno-freitag"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/djdreckisch",
+   "https://soundcloud.com/dj_dreckisch"
+  ],
+  "infoChk": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/dj_dreckisch",
+   "ra": "https://ra.co/dj/djdreckisch"
+  }
+ },
+ "Henry Wagner": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Skalah": {
+  "img": "https://static.ra.co/images/profiles/square/skala-uk.jpg?dateUpdated=1775654036000",
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "bio": {
+   "de": "SKALAH ist ein DJ und Produzent aus Großbritannien. Auf Rinse FM präsentiert er eine eigene Show mit Dubstep aus Vergangenheit, Gegenwart und Zukunft. Zu seinen Releases zählen Tracks mit Grime-MCs wie Capo Lee und Killa P.",
+   "en": "SKALAH is a DJ and producer from the United Kingdom. He hosts his own show on Rinse FM showcasing dubstep from the past, present and future. His releases include tracks featuring grime MCs such as Capo Lee and Killa P."
+  },
+  "genres": [
+   "Dubstep",
+   "Grime",
+   "Bass"
+  ],
+  "sets": [
+   {
+    "t": "SKALAH - 16 April 2026 (Rinse FM)",
+    "u": "https://soundcloud.com/rinsefm/skalah160426"
+   },
+   {
+    "t": "SKALAH - 19 March 2026 (Rinse FM)",
+    "u": "https://soundcloud.com/rinsefm/skallah190326"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/skala-uk",
+   "https://www.rinse.fm/shows/skalah",
+   "https://soundcloud.com/skalah-music/steady-ft-capo-lee",
+   "https://soundcloud.com/kingtweek/skala-different-style-feat",
+   "https://soundcloud.com/rinsefm/skalah160426",
+   "https://soundcloud.com/rinsefm/skallah190326"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/skalauk",
+   "ra": "https://ra.co/dj/skala-uk",
+   "bc": "https://skalaa.bandcamp.com",
+   "ig": "https://www.instagram.com/skala_uk"
+  }
+ },
+ "Jolie P": {
+  "img": "https://static.ra.co/images/profiles/square/joliep.jpg?dateUpdated=1791542127000",
+  "bio": {
+   "de": "Jolie P ist eine DJ und Host aus dem UK-Bass-Umfeld. Sie hostete u. a. die Tengu-x-Rinse-FM-Nacht in Dublin und spielte bei Ez Junglin im Patterns in Brighton.",
+   "en": "Jolie P is a DJ and host from the UK bass scene. She hosted the Tengu x Rinse FM night in Dublin and played for Ez Junglin at Patterns in Brighton."
+  },
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/joliep/tour-dates",
+   "https://ra.co/events/2141371",
+   "https://ra.co/events/2419467"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/joliep"
+  }
+ },
+ "Melody": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Raven": {
+  "from": {
+   "de": "Barcelona",
+   "en": "Barcelona"
+  },
+  "bio": {
+   "de": "Raven ist eine in Barcelona lebende DJ und Musikerin. Sie verfügt über ein tiefes Wissen über die Geschichte der elektronischen Musik und konzentriert sich auf Underground-Musik.",
+   "en": "Raven is a Barcelona-based DJ and musician. She has a deep knowledge of the history of electronic music and focuses on underground music."
+  },
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "src": [
+   "https://ra.co/events/2428788"
+  ]
+ },
+ "Nikolina": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Ben Techy": {
+  "img": "https://static.ra.co/images/profiles/bentechy.jpg?dateUpdated=1474032806623",
+  "from": {
+   "de": "Schottland",
+   "en": "Scotland"
+  },
+  "bio": {
+   "de": "Ben Techy ist ein schottischer Techno-Produzent und DJ. Seine Tracks erschienen u. a. auf Renesanz, Variance, Sonika Music, Obscuur und Raw Paper Records. Er produziert auch Hard-Techno-/Schranz-Edits.",
+   "en": "Ben Techy is a Scottish techno producer and DJ. His tracks have been released on labels such as Renesanz, Variance, Sonika Music, Obscuur and Raw Paper Records. He also produces hard techno/schranz edits."
+  },
+  "labels": [
+   "Renesanz",
+   "Variance",
+   "Sonika Music",
+   "Obscuur",
+   "Raw Paper Records",
+   "Rhythm Control Records",
+   "Darkground Records"
+  ],
+  "genres": [
+   "Techno",
+   "Hard Techno"
+  ],
+  "alias": [
+   "Ancestor"
+  ],
+  "real": "Ruairidh McKay",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://de.ra.co/dj/bentechy",
+   "https://ra.co/events/2415716",
+   "https://soundcloud.com/bentechy/fullclip-never-wanted-it-to-end-ben-techy-hard-technoschranz-edit-free-dl",
+   "https://soundcloud.com/darkgroundrecords/ben-techy-what-is-what-darkground-records"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/bentechy",
+   "ra": "https://ra.co/dj/bentechy",
+   "ig": "https://www.instagram.com/bentechyofficial"
+  }
+ },
+ "IOSIO": {
+  "img": "https://static.ra.co/images/profiles/square/iosio.jpg?dateUpdated=1758281988340",
+  "from": {
+   "de": "Rotterdam",
+   "en": "Rotterdam"
+  },
+  "bio": {
+   "de": "IOSIO ist ein in Rotterdam ansässiger DJ und Produzent, der bouncy Techno in den Vordergrund rückt. Seine energiegeladenen Sets verbinden Trance und Techno. Releases erschienen u. a. auf EXHALE Records und Sweet Nothing.",
+   "en": "IOSIO is a Rotterdam-based DJ and producer pushing bouncy techno to the forefront. His high-energy sets blend trance and techno. He has released on labels including EXHALE Records and Sweet Nothing."
+  },
+  "labels": [
+   "EXHALE Records",
+   "Sweet Nothing"
+  ],
+  "genres": [
+   "Techno",
+   "Trance"
+  ],
+  "sets": [
+   {
+    "t": "IOSIO -/- TEGENDRAADS Indoor 10.01.26",
+    "u": "https://soundcloud.com/wijzijntegendraads/iosio-tegendraads-indoor"
+   },
+   {
+    "t": "IOSIO -/- TEGENDRAADS Indoor 2025",
+    "u": "https://soundcloud.com/wijzijntegendraads/iosio-tegendraads-indoor-2025"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/iosio",
+   "https://soundcloud.com/wijzijntegendraads/iosio-tegendraads-indoor",
+   "https://soundcloud.com/wijzijntegendraads/iosio-tegendraads-indoor-2025"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/iosio",
+   "ra": "https://ra.co/dj/iosio",
+   "ig": "https://www.instagram.com/iosio.music"
+  }
+ },
+ "Fluid": {
+  "img": "https://static.ra.co/images/profiles/square/fluid.jpg?dateUpdated=1788770241873",
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "bio": {
+   "de": "Fluid ist ein queerer, in Berlin ansässiger DJ und Produzent mit Fokus auf industriellen und hypnotischen Techno. Releases erschienen auf SUBVERTED und NOGENDER.",
+   "en": "Fluid is a queer Berlin-based DJ and producer focusing on industrial and hypnotic techno. Releases have come out on SUBVERTED and NOGENDER."
+  },
+  "labels": [
+   "SUBVERTED",
+   "NOGENDER"
+  ],
+  "genres": [
+   "Techno",
+   "Industrial"
+  ],
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://de.ra.co/dj/fluid",
+   "https://de.ra.co/events/2408115",
+   "https://soundcloud.com/fluid_music"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/fluid_music",
+   "ra": "https://ra.co/dj/fluid",
+   "ig": "https://www.instagram.com/fluid.techno"
+  }
+ },
+ "Zmøra": {
+  "img": "https://static.ra.co/images/profiles/square/zmora-pl.jpg?dateUpdated=1753466061903",
+  "from": {
+   "de": "Krakau",
+   "en": "Kraków"
+  },
+  "bio": {
+   "de": "ZMØRA ist eine in Krakau ansässige multidisziplinäre Künstlerin mit dunklem, rauem Club-Sound. Neben DJ-Sets gestaltet sie auch visuelle Projektionen.",
+   "en": "ZMØRA is a Kraków-based multidisciplinary artist with a dark, gritty club sound. Besides DJ sets she also creates visual projections."
+  },
+  "genres": [
+   "Techno",
+   "Industrial"
+  ],
+  "real": "Aleksandra Wróbel",
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://de.ra.co/dj/zmora-pl",
+   "https://de.ra.co/events/2408115"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/zmoraetlabora",
+   "ra": "https://ra.co/dj/zmora-pl",
+   "ig": "https://www.instagram.com/zmoraetlabora"
+  }
+ },
+ "DUR": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Weird Planet": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  }
 };
 
