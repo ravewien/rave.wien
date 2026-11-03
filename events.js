@@ -29265,6 +29265,108 @@ const AR={
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03"
+ },
+ "FX-31": {
+  "links": {
+   "sc": "https://soundcloud.com/fx-31"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "FX-31 produziert schnellen Techno, etwa „Switching Sides“ mit Suitside (155 BPM), und veröffentlicht Tracks und Edits auf SoundCloud.",
+   "en": "FX-31 produces fast techno, such as “Switching Sides” with Suitside (155 BPM), and shares tracks and edits on SoundCloud."
+  },
+  "src": [
+   "https://soundcloud.com/fx-31"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
+ },
+ "Blue Rose": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Cynthia Cee": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Shepperd": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "saint noir.": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "karl klit": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Kaisa Bodega": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Parham Rostam Abadi": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Flocker Lockig": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Sansea": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Mood Shifter": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "David Bowiedl": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Cherches": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "LEAH": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Je'täm": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Wearethezombies": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Cameron": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Static Bloom": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  }
 };
 
