@@ -9450,12 +9450,18 @@ const AR={
    "Pain"
   ],
   "links": {
-   "sp": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+   "sp": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l",
+   "sc": "https://soundcloud.com/thestraikerz"
   },
   "src": [
-   "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+   "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l",
+   "https://www.sway.events/artist/3333"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "from": {
+   "de": "Spanien (heute in den Niederlanden)",
+   "en": "Spain (now based in the Netherlands)"
+  }
  },
  "Pinotello": {
   "noImg": "2026-11-03",
