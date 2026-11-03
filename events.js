@@ -10452,9 +10452,31 @@ const AR={
   "infoChk": "2026-11-01"
  },
  "Dune": {
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "links": {
+   "web": "https://www.duneofficial.com",
+   "ig": "https://www.instagram.com/dune_official",
+   "sp": "https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "Dune ist ein deutsches Dance-Projekt, 1994 von Oliver Froning gegründet, der bis heute Frontmann, DJ und Produzent ist. Der Sound verbindet Techno, Rave und (Happy) Hardcore; bekannt wurden Hits wie „Hardcore Vibes“, „Can't Stop Raving“, „Million Miles From Home“ und „Rainbow To The Stars“.",
+   "en": "Dune is a German dance act founded in 1994 by Oliver Froning, who remains its frontman, DJ and producer. The sound blends techno, rave and (happy) hardcore; the act is known for hits such as \"Hardcore Vibes\", \"Can't Stop Raving\", \"Million Miles From Home\" and \"Rainbow To The Stars\"."
+  },
+  "genres": [
+   "Rave",
+   "Happy Hardcore",
+   "Techno"
+  ],
+  "real": "Oliver Froning",
+  "src": [
+   "https://dunefansite.com"
+  ]
  },
  "Neophyte": {
   "from": {
@@ -10576,12 +10598,22 @@ const AR={
    "ig": "https://www.instagram.com/redivideredivider"
   },
   "src": [
-   "https://soundcloud.com/redividervienna",
-   "https://sassvienna.com/en/events/event/Redivider-173"
+   "https://ntry.at/redividerpresvel?l=en",
+   "https://ntry.at/redividerpresDINA?l=es",
+   "https://ntry.at/redividerpresspfdj?l=en",
+   "https://ntry.at/redividerpresbambounou?l=es"
   ],
-  "noImg": "2026-11-02",
-  "infoChk": "2026-11-02",
-  "setsChecked": "2026-11-02"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-02",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Redivider ist eine Wiener Techno-Reihe, veranstaltet vom Kulturverein Atlantis. Unter „Redivider pres.“ holte sie Gäste wie Vel, DINA, SPFDJ und Bambounou, etwa zur „Double Action“ im September 2025 mit Open Air im Porto Pollo und Nacht im PRST.",
+   "en": "Redivider is a Vienna techno series run by Kulturverein Atlantis. Under the \"Redivider pres.\" banner it has brought guests such as Vel, DINA, SPFDJ and Bambounou, for example the \"Double Action\" in September 2025 with an open air at Porto Pollo followed by a night at PRST."
+  }
  },
  "FESH": {
   "noImg": "2026-11-02",
@@ -11406,14 +11438,14 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Amina Malounadou": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Bellavie": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Maissouille": {
   "infoChk": "2026-11-02",
@@ -11453,11 +11485,13 @@ const AR={
    "sc": "https://soundcloud.com/radze"
   },
   "src": [
-   "https://soundcloud.com/radze",
-   "https://soundcloud.com/radze/the-end-liveset-2019-acid-vs-tekno"
+   "https://soundcloud.com/radze/tracks",
+   "https://soundcloud.com/acidelics/radze-goblin-dance",
+   "https://soundcloud.com/espritssauvages/lost-303",
+   "https://soundcloud.com/hashtek23records/radze-nok-on-dour-4"
   ],
-  "noImg": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
   "genres": [
    "Acid",
    "Tekno"
@@ -11468,12 +11502,21 @@ const AR={
     "u": "https://soundcloud.com/radze/the-end-liveset-2019-acid-vs-tekno"
    }
   ],
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "bio": {
+   "de": "Radze produziert und spielt Acid und Tekno. Tracks erschienen u. a. auf Acidelics („Goblin Dance“, 2024), Esprits Sauvages („Lost 303“) und Hashtek23 Records; dazu Livesets wie „The END Liveset 2019 – Acid vs Tekno“.",
+   "en": "Radze produces and plays acid and tekno. Tracks have come out on Acidelics (\"Goblin Dance\", 2024), Esprits Sauvages (\"Lost 303\") and Hashtek23 Records, alongside live sets such as \"The END Liveset 2019 – Acid vs Tekno\"."
+  },
+  "labels": [
+   "Acidelics",
+   "Esprits Sauvages",
+   "Hashtek23 Records"
+  ]
  },
  "Toge": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Miss Pixie aka Tekniker": {
   "alias": [
@@ -11522,11 +11565,20 @@ const AR={
    "sc": "https://soundcloud.com/genetektekno"
   },
   "src": [
-   "https://soundcloud.com/genetektekno"
+   "https://soundcloud.com/genetektekno",
+   "https://soundcloud.com/genetektekno/genetek-teknofairytaletribe"
   ],
-  "noImg": "2026-11-02",
-  "infoChk": "2026-11-02",
-  "setsChecked": "2026-11-02"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-02",
+  "bio": {
+   "de": "Genetek (auf SoundCloud auch „TekAddictedBuali“) produziert Tekno mit Tribe-Einschlag, etwa „Teknofairytale (Tribe)“, „BlackHole“, „Connectandkill“ und „SynthetikForest“ als Free Download.",
+   "en": "Genetek (also \"TekAddictedBuali\" on SoundCloud) produces tribe-leaning tekno, such as \"Teknofairytale (Tribe)\", \"BlackHole\", \"Connectandkill\" and the free download \"SynthetikForest\"."
+  },
+  "genres": [
+   "Tekno",
+   "Tribe"
+  ]
  },
  "The Rave Bear": {
   "noImg": "2026-11-02",
@@ -12170,9 +12222,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Ernst": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "IVUR": {
   "img": "https://f4.bcbits.com/img/0028539340_21.jpg",
@@ -12347,14 +12399,14 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Sebastian Wagner": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Sabina": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "STAATSEINDE": {
   "img": "https://f4.bcbits.com/img/0047558788_21.jpg",
@@ -13571,9 +13623,9 @@ const AR={
   "src": [
    "https://www.enter-glitch.com/events/glitch-vienna-001"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "LLo": {
   "from": {
@@ -13602,9 +13654,36 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "Lim Banda": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/lim_banda"
+  },
+  "bio": {
+   "de": "Lim Banda ist ein DJ aus dem Umfeld der Wiener Reihe LuvAffair, für die er mehrere Sets aufgenommen hat, u. a. b2b mit Ben Born (Mystic Creatures 2024) und mit Luke Wackelkopf. Im Fluc spielte er bei Tiefenrausch im Garten von Eben.",
+   "en": "Lim Banda is a DJ from the circle of the Vienna series LuvAffair, for which he has recorded several sets, including b2b with Ben Born (Mystic Creatures 2024) and with Luke Wackelkopf. At Fluc he played Tiefenrausch im Garten von Eben."
+  },
+  "sets": [
+   {
+    "t": "A LuvAffair With: Lim Banda & Luke Wackelkopf",
+    "u": "https://soundcloud.com/luvaffair_vienna/a-luvaffair-with-lim-banda-2"
+   },
+   {
+    "t": "A LuvAffair with: Lim Banda b2b Ben Born #2",
+    "u": "https://soundcloud.com/luvaffair_vienna/a-luvaffair-with-lim-banda-b2b"
+   },
+   {
+    "t": "LimBanda's Deepside – Tiefenrausch im Garten von Eben @ Fluc Café & Wanne",
+    "u": "https://soundcloud.com/lim_banda/limbandas-deepside-tiefenrausch-im-garten-von-eben-fluc-cafe-wanne"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/lim_banda",
+   "https://soundcloud.com/luvaffair_vienna/a-luvaffair-with-lim-banda-2",
+   "https://soundcloud.com/luvaffair_vienna/benbornlimbanda"
+  ]
  },
  "Krawallbarbie": {
   "infoChk": "2026-11-03",
@@ -13805,9 +13884,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "DJ Countessa": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Chicano": {
   "img": "https://static.ra.co/images/profiles/square/chicano.jpg?dateUpdated=1482404218000",
@@ -14442,14 +14521,38 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Paris Böhm": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "bio": {
+   "de": "Paris Böhm spielt gemeinsam mit Jorkes als Duo hinter der Reihe Freeride Millenium, die eine regelmäßige Sendung auf Radio 80000 hat. Für den BLITZ Club nahmen die beiden den BLITZcast 020 auf.",
+   "en": "Paris Böhm plays together with Jorkes as the duo behind the Freeride Millenium series, which has a regular show on Radio 80000. For BLITZ Club the two recorded BLITZcast 020."
+  },
+  "sets": [
+   {
+    "t": "Freeride Millenium #60 w/ Paris Böhm & Jorkes (Radio 80000, 15.04.2025)",
+    "u": "https://soundcloud.com/radio80000/freeride-millenium-60-w-paris-bohm-jorkes-15042025"
+   },
+   {
+    "t": "Freeride Millenium #49 with Paris Böhm & Jorkes (Radio 80000, 14.05.2024)",
+    "u": "https://soundcloud.com/radio80000/freeride-millenium-49-with-paris-bohm-jorkes-14052024"
+   },
+   {
+    "t": "Blitzcast 020: Jorkes & Paris Böhm",
+    "u": "https://soundcloud.com/blitzclub/blitzcast-020-jorkes-paris-bohm"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/radio80000/freeride-millenium-60-w-paris-bohm-jorkes-15042025",
+   "https://soundcloud.com/blitzclub/blitzcast-020-jorkes-paris-bohm",
+   "https://soundcloud.com/freeridemillenium/41-radio-80000-w-paris-bohm-jorkes"
+  ]
  },
  "Noemi Universe": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "OK CUTEE": {
   "infoChk": "2026-11-02",
@@ -14948,9 +15051,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "UV Project": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Userkiller": {
   "img": "https://static.ra.co/images/profiles/square/userkiller.jpg?dateUpdated=1741953946000",
@@ -15403,8 +15506,8 @@ const AR={
    "https://kump.bandcamp.com/album/kump8-mert-seger-y-t-kp-nra"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
  },
  "Mitra": {
   "img": "https://dev2.elevate.at/fileadmin/EIS_images/artist/2687/9157-Mitra_1280x853.png",
