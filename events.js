@@ -8198,9 +8198,9 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "NEXUS": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03",
   "bio": {
    "de": "NEXUS ist das gemeinsame Projekt von B4MBA und MOOKI6 aus dem panafrikanischen, multidisziplinären Jokkoo Collective in Barcelona. Ihre dichte, konfrontative Musik verbindet Punk, Industrial, Dancehall, Noise und Trap. 2023 erschien bei Jokkoo die EP „PROTO NEXUS“ mit Industrial-Dancehall und Jungle, entstanden auf einer Reise durch Kenia.",
    "en": "NEXUS is the joint project of B4MBA and MOOKI6 from Barcelona's pan-African, multidisciplinary Jokkoo Collective. Their dense, confrontational music blends punk, industrial, dancehall, noise and trap. In 2023 they released the EP 'PROTO NEXUS' on Jokkoo, combining industrial dancehall and jungle, made during a trip through Kenya."
@@ -8250,9 +8250,9 @@ const AR={
   ]
  },
  "DJ Fred": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "zey": {
   "infoChk": "2026-11-02",
@@ -8853,8 +8853,8 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "MJANE": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
   "links": {
    "ig": "https://www.instagram.com/mjane.upd8e"
   },
@@ -8915,14 +8915,14 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Cristinho": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Florian No": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Elex Red": {
   "links": {
@@ -9048,8 +9048,8 @@ const AR={
    "https://soundcloud.com/hux-de-bude-aka-sdricci/garden-of-dreams-20191102",
    "https://soundcloud.com/hux-de-bude-aka-sdricci/huxdebude-surfclub-2014"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
   "alias": [
    "HuxDeBude"
   ],
@@ -9070,14 +9070,14 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Marilou": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Raphael Warg": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "LĪVA": {
   "infoChk": "2026-11-02",
@@ -9085,9 +9085,9 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "Mary Slim": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Edictum": {
   "img": "https://static.ra.co/images/profiles/square/edictum.jpg?dateUpdated=1750928248000",
@@ -9113,14 +9113,14 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Matt Ludlam": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "DJ Andy": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Max Wagner": {
   "img": "https://static.ra.co/images/profiles/square/maxwagner.jpg?dateUpdated=1712866351000",
@@ -9187,7 +9187,7 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "High on Melancholia": {
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/highonmelancholia"
   },
@@ -9197,7 +9197,7 @@ const AR={
    "https://soundcloud.com/gesindel-der-nacht/high-on-melancholia-let-the-games-begin",
    "https://soundcloud.com/jahanamsound/high-on-melancholia-womanizer-hom-edit-jah092"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "bio": {
    "de": "High on Melancholia (HOM.) ist ein Techno-Act mit Releases auf DUR_ (EP „High On Melancholia / Never Meant To Belong“, DUR007), GDN Records („Let The Games Begin“) und Jahanam. Auf SoundCloud finden sich Set-Aufnahmen, u. a. von der Reihe Eskalante Kante.",
    "en": "High on Melancholia (HOM.) is a techno act with releases on DUR_ (the “High On Melancholia / Never Meant To Belong” EP, DUR007), GDN Records (“Let The Games Begin”) and Jahanam. Their SoundCloud features set recordings, including from the Eskalante Kante series."
@@ -9219,9 +9219,9 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "LavendL": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "MATIVIO": {
   "noImg": "2026-11-02",
@@ -9249,9 +9249,9 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Nafaka & Lipo": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Kollektiv Sheesh": {
   "noImg": "2026-11-03",
@@ -9330,7 +9330,7 @@ const AR={
    "https://ra.co/events/2218855",
    "https://ra.co/dj/matthiaskaiser"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Gugu": {
   "noImg": "2026-11-03",
@@ -9611,13 +9611,13 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Catlex": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "src": [
    "https://soundcloud.com/catlexxx",
    "https://soundcloud.com/catlexmusic"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Suitside": {
   "noImg": "2026-11-03",
@@ -9651,9 +9651,9 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Lieblos": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Valera": {
   "noImg": "2026-11-02",
@@ -9664,12 +9664,12 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Sasuma": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "src": [
    "https://de.ra.co/dj/sasuma"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Jayzo": {
   "img": "https://static.ra.co/images/profiles/square/jayzo.jpg?dateUpdated=1772388351453",
@@ -9730,12 +9730,12 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "URBANIST": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "src": [
    "https://soundcloud.com/theurbanist"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "anxxxious_t": {
   "img": "https://static.ra.co/images/profiles/square/anxxxious_t.jpg?dateUpdated=1767757936970",
@@ -9830,14 +9830,14 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Jana Passt": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "LinsenJoe": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Mia Wurscht": {
   "links": {
@@ -10019,8 +10019,8 @@ const AR={
   "src": [
    "https://soundcloud.com/anexate"
   ],
-  "noImg": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Hetum": {
   "infoChk": "2026-11-02",
@@ -10136,24 +10136,24 @@ const AR={
   "infoChk": "2026-11-01"
  },
  "The Bear": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "gåpe": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "wert": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Luminoise": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Nikø Nøx": {
   "img": "https://static.ra.co/images/profiles/square/nikonox.jpg?dateUpdated=1793026945000",
@@ -10185,24 +10185,24 @@ const AR={
   "infoChk": "2026-11-01"
  },
  "Zer0Ton1n": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "RIETVELD": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Arne": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "André": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03",
   "bio": {
    "de": "André legt seit über zehn Jahren auf und lebt seit 2019 in Offenbach. Er gräbt nach House, Progressive und Minimal ab den frühen 2000ern und betreibt die Off-Location-Reihe Not From This Earth. In Wien spielt er im Rahmen von Cyclic Existence.",
    "en": "André has been DJing for more than ten years and has lived in Offenbach since 2019. He digs for house, progressive and minimal from the early 2000s onwards and runs the off-location series Not From This Earth. In Vienna he plays as part of Cyclic Existence."
@@ -10214,9 +10214,9 @@ const AR={
   ]
  },
  "Arni Jr.": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Duplikate": {
   "noImg": "2026-11-03",
@@ -10297,12 +10297,14 @@ const AR={
    "en": "Sherine Falasteen is a drag artist originally from Jerusalem, based between Ramallah and Brussels. She performs in traditional thobes and is a resident performer of Gazelle L'Hafla."
   },
   "src": [
-   "https://ra.co/events/2552786",
-   "https://ra.co/events/2145453"
+   "https://www.tickettailor.com/events/klubhalal/2454809"
   ],
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "links": {
+   "ig": "https://www.instagram.com/sherine_falasteen"
+  }
  },
  "MODI": {
   "bio": {
@@ -10310,11 +10312,18 @@ const AR={
    "en": "MODI is a tabla player born in Iraq with roots in Haifa. He joins DJ sets live, adding percussive rhythms."
   },
   "src": [
-   "https://ra.co/events/2552786"
+   "https://www.tickettailor.com/events/klubhalal/2454809"
   ],
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "links": {
+   "ig": "https://www.instagram.com/derbekista"
+  },
+  "from": {
+   "de": "Irak, Wurzeln in Haifa",
+   "en": "Iraq, roots in Haifa"
+  }
  },
  "Sanadrilla": {
   "links": {
@@ -10328,8 +10337,8 @@ const AR={
    "https://ra.co/events/2552786",
    "https://soundcloud.com/sanadrilla"
   ],
-  "noImg": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
   "setsChecked": "2026-11-02"
  },
  "Thomas Grün": {
@@ -11843,9 +11852,9 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "H∆NN∆": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "færo demonic": {
   "infoChk": "2026-11-02",
@@ -12519,9 +12528,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Shaolinda": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Sora": {
   "noImg": "2026-11-03",
@@ -12900,9 +12909,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Annie High": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Boris Brejcha": {
   "img": "https://static.ra.co/images/profiles/square/borisbrejcha.jpg?dateUpdated=1464181990000",
@@ -14030,14 +14039,14 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "DJ Kompact": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "DDS Fam": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Dual Drive": {
   "img": "https://static.ra.co/images/profiles/square/dualdrive.jpg?dateUpdated=1773411077417",
@@ -16442,7 +16451,21 @@ const AR={
  "Shyborg": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "links": {
+   "ig": "https://www.instagram.com/shyb00rg/"
+  },
+  "bio": {
+   "de": "DJ Shyborg spielt Sets, die mit Spannung und Auflösung arbeiten – mal minimal, immer tief und atmosphärisch. Zuletzt liegt der Fokus auf tiefen, organischen und experimentellen Bass-Spielarten von Dubstep über polyrhythmische, technoide Steppers bis zu Low-End-Psychedelia.",
+   "en": "DJ Shyborg plays sets built on tension and release – sometimes minimal, always deep and atmospheric. Recently the focus has been on deep, organic and experimental bass mutations, from dubstep through polyrhythmic, techno-leaning steppers to low-end psychedelia."
+  },
+  "genres": [
+   "Dubstep",
+   "Bass"
+  ],
+  "src": [
+   "https://pmk.or.at/de/events/massarchive-thelonius-hamel-live-dj-shyborg"
+  ]
  },
  "DJ Odd": {
   "noImg": "2026-11-03",
