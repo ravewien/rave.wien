@@ -6810,9 +6810,9 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Aleta": {
-  "noLinks": "2026-11-02",
-  "noImg": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noLinks": "2026-11-03",
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Seba": {
   "img": "https://static.ra.co/images/profiles/seba.jpg?dateUpdated=1494519179647",
@@ -6904,7 +6904,7 @@ const AR={
    }
   ],
   "setsChecked": "2026-11-02",
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "genres": [
    "Techno"
   ],
@@ -6919,7 +6919,7 @@ const AR={
    "https://soundcloud.com/joro_und_joabo/peaktimetechno0722",
    "https://www.instagram.com/joro.und.joabo/"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Atomik": {
   "noLinks": "2026-10-28"
@@ -7034,9 +7034,9 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Alex Maurer": {
-  "noLinks": "2026-11-02",
-  "noImg": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noLinks": "2026-11-03",
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "DJ Bottleghost": {
   "noLinks": "2026-10-31",
@@ -7269,7 +7269,7 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Pinklotion": {
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/mrpinklotion"
   },
@@ -7289,7 +7289,7 @@ const AR={
    "https://soundcloud.com/radiorudina/almost-pinkcast-mel-b2b-pinklotion-b2b-bludhound",
    "https://soundcloud.com/radiorudina/pinklotion"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "sets": [
    {
     "t": "Pinklotion – Radio Rudina",
@@ -7332,9 +7332,9 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Kristus": {
-  "noImg": "2026-11-02",
-  "infoChk": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Pitch Madattak": {
   "img": "https://f4.bcbits.com/img/0013234561_23.jpg",
@@ -7676,9 +7676,9 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Hanno": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Meltdown": {
   "noImg": "2026-10-28",
@@ -8808,8 +8808,8 @@ const AR={
    "https://soundcloud.com/alexrot",
    "https://soundcloud.com/alexrot/alex-rot-elektro-goenner-mix"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
   "alias": [
    "Alex Rot"
   ],
@@ -8822,9 +8822,9 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Tolaris": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "MC Mars": {
   "bio": {
@@ -8834,9 +8834,9 @@ const AR={
   "src": [
    "https://de.ra.co/events/2391499"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "MC Spot": {
   "bio": {
@@ -8846,9 +8846,9 @@ const AR={
   "src": [
    "https://de.ra.co/events/2391499"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "MARØ": {
   "img": "https://static.ra.co/images/profiles/square/maro.jpg?dateUpdated=1766386631437",
@@ -9130,15 +9130,24 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Kollektiv Sheesh": {
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/kollektivsheesh"
   },
   "src": [
    "https://soundcloud.com/kollektivsheesh/matija-kollektiv-sheesh-im-freudentaumel-flucc-vienna-2023",
-   "https://soundcloud.com/kollektivsheesh/kollektiv-sheesh-3000grad-festival-schiff-ahoi-3023"
+   "https://soundcloud.com/kollektivsheesh/kollektiv-sheesh-3000grad-festival-schiff-ahoi-3023",
+   "https://elevate.at/en/music/artists/kollektiv_sheesh"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "genres": [
+   "Downtempo",
+   "Melodic Techno"
+  ],
+  "bio": {
+   "de": "Kollektiv Sheesh ist seit 2019 aktiv und spielt tanzbare Sets zwischen Downtempo und melodischem Techno – oft schneller und härter als erwartet. Das Kollektiv ist eng mit der Reihe Im Freudentaumel im FLUCC verbunden und trat u. a. beim Elevate Festival in Graz auf.",
+   "en": "Kollektiv Sheesh has been active since 2019, playing danceable sets ranging from downtempo to melodic techno – often faster and harder than expected. The collective is closely tied to the Im Freudentaumel series at FLUCC and has played Elevate Festival in Graz."
+  }
  },
  "Chris Freud": {
   "img": "https://static.ra.co/images/profiles/square/chrisfreud.jpg?dateUpdated=1747310537723",
@@ -9200,42 +9209,42 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Gugu": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "src": [
    "https://ra.co/events/2521239"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Hanneken": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "src": [
    "https://ra.co/events/1986880"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "PA_olo": {
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "src": [
    "https://ra.co/events/1986880",
    "https://soundcloud.com/pa_olo"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/pa_olo"
   },
   "setsChecked": "2026-11-02"
  },
  "Romen Est Omen": {
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/romen_est_omen"
   },
   "src": [
    "https://soundcloud.com/romen_est_omen"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "setsChecked": "2026-11-02"
  },
  "Peter Illias": {
@@ -9487,13 +9496,13 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Suitside": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "src": [
    "https://soundcloud.com/suitsidemusic",
    "https://soundcloud.com/herzfrequenz_techno/suitside-f2f-yonder-vs-a-face2face-rave-das-werk-15082025-set-recording-3"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "sets": [
    {
     "t": "SUITSIDE F2F YØNDER – VS: A Face2Face Rave @ Das Werk (15.08.2025)",
@@ -9515,7 +9524,7 @@ const AR={
   "src": [
    "https://ra.co/dj/djparkverbot"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Lieblos": {
   "noImg": "2026-11-02",
@@ -10086,9 +10095,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Duplikate": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "PLAYBACK": {
   "noImg": "2026-11-01",
@@ -10277,9 +10286,9 @@ const AR={
    "https://www.diametrale.at/en/festivals/2019-diametrale/program/dj-brunch-mit-drehli-robnik/",
    "https://geschichte.lbg.ac.at/team/drehli-robnik/?lang=en"
   ],
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Vantan": {
   "links": {
@@ -10908,8 +10917,8 @@ const AR={
   ]
  },
  "PartyPauli": {
-  "noImg": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
   "bio": {
    "de": "PartyPauli legt in der Wiener Clubszene auf, u. a. bei Achterbahn (f2f mit DJ SUSI) im PRST und beim MUSCHI ISST WURST Festival. Auf SoundCloud veröffentlicht PartyPauli eigene Edits, etwa Baile-, Summer-Trance- und Donk-Versionen bekannter Tracks.",
    "en": "PartyPauli plays in Vienna's club scene, including Achterbahn (f2f with DJ SUSI) at PRST and the MUSCHI ISST WURST festival. On SoundCloud, PartyPauli releases their own edits, such as baile, summer-trance and donk versions of well-known tracks."
@@ -11014,9 +11023,9 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Mantis": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Stoney Curtis": {
   "noImg": "2026-11-02",
@@ -11259,14 +11268,14 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Serafin": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Dave & Bass": {
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "from": {
    "de": "Wien",
    "en": "Vienna"
@@ -11282,8 +11291,12 @@ const AR={
    "https://ra.co/events/2442906",
    "https://ra.co/events/2467514",
    "https://www.clublucia.at/event/drum-bassick-x-radiance/",
-   "https://flex.at/event/high-voltage-fairies-in-the-pit/"
-  ]
+   "https://flex.at/event/high-voltage-fairies-in-the-pit/",
+   "https://soundcloud.com/dave-and-bass"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/dave-and-bass"
+  }
  },
  "Cybercutz": {
   "noImg": "2026-11-02",
@@ -11350,9 +11363,9 @@ const AR={
   ]
  },
  "Vibrant": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "I-Jin": {
   "links": {
@@ -11858,8 +11871,8 @@ const AR={
    "https://soundcloud.com/ironica-los-culos",
    "https://soundcloud.com/vlanradio/ironicalosculos-250522"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
  },
  "Fairy Mary": {
   "infoChk": "2026-11-02",
@@ -12186,14 +12199,29 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Illtek": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/illtek23"
+  },
+  "genres": [
+   "Tekno",
+   "Acid Tekno"
+  ],
+  "bio": {
+   "de": "Illtek produziert Tekno und Acid Tek; auf SoundCloud finden sich Tracks wie „Acidiot“ (V.I.E.S #03) und „4 the future“ (mit Velox, V.I.E.S 02) sowie „Voices Of Mazatek“. In Wien spielte er u. a. bei Step to Tek XL im Werk, beim SIN x Überdruck Soundsystem im FLUCC und bei 20 Jahre CPE im Club Exil.",
+   "en": "Illtek produces tekno and acid tek; his SoundCloud features tracks such as 'Acidiot' (V.I.E.S #03), '4 the future' (with Velox, V.I.E.S 02) and 'Voices Of Mazatek'. In Vienna he has played Step to Tek XL at Das Werk, SIN x Überdruck Soundsystem at FLUCC and 20 Jahre CPE at Club Exil."
+  },
+  "src": [
+   "https://soundcloud.com/illtek23/acidiot",
+   "https://soundcloud.com/illtek23/illtek-vs-velox-4-the-future-forthcoming-on-vies-02"
+  ]
  },
  "Insano": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Ellen Allien": {
   "img": "https://static.ra.co/images/profiles/square/ellenallien.jpg?dateUpdated=1778835341000",
@@ -12273,9 +12301,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Sora": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Ssaliva": {
   "img": "https://static.ra.co/images/profiles/ssaliva.jpg?dateUpdated=1493130981000",
@@ -12946,9 +12974,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Andrew Ahmed": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Benjay": {
   "infoChk": "2026-11-02",
@@ -12956,9 +12984,9 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "Arnab": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Alena Noctis": {
   "img": "https://static.ra.co/images/profiles/square/alenanoctis.jpg?dateUpdated=1774262264833",
@@ -13105,7 +13133,8 @@ const AR={
  },
  "Alezzaro": {
   "links": {
-   "sc": "https://soundcloud.com/alezzaro"
+   "sc": "https://soundcloud.com/alezzaro",
+   "ig": "https://www.instagram.com/alezzaro_music/"
   },
   "genres": [
    "Psytrance",
@@ -13123,10 +13152,22 @@ const AR={
   ],
   "setsChecked": "2026-11-02",
   "src": [
-   "https://soundcloud.com/alezzaro"
+   "https://soundcloud.com/alezzaro",
+   "https://www.sway.events/artist/5988"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Alezzaro ist ein in Wien lebender Psytrance-DJ, der in energiegeladenen Sets House, Techno und Trance verbindet. Seit Oktober 2010 ist er der erste österreichische Label-DJ von IONO MUSIC und hat auf internationalen Festivals und in Clubs gespielt.",
+   "en": "Alezzaro is a Vienna-based psytrance DJ whose high-energy sets blend house, techno and trance. Since October 2010 he has been IONO MUSIC's first Austrian label DJ and has played international festivals and clubs."
+  },
+  "labels": [
+   "IONO MUSIC"
+  ]
  },
  "Armin Schmelz": {
   "links": {
@@ -13257,9 +13298,29 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "Bornvoyage": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/bornvoyage"
+  },
+  "alias": [
+   "Born Voyage"
+  ],
+  "genres": [
+   "Psytrance"
+  ],
+  "sets": [
+   {
+    "t": "Born Voyage – Opening Set Spirit Base 2022",
+    "u": "https://soundcloud.com/bornvoyage/borny-voyage-spirit-base-2022"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/bornvoyage",
+   "https://soundcloud.com/bornvoyage/borny-voyage-spirit-base-2022"
+  ]
  },
  "KlangKuenstler": {
   "img": "https://static.ra.co/images/profiles/square/klangkuenstler.jpg?dateUpdated=1578873600000",
@@ -13536,9 +13597,9 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "LCA": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Lim Banda": {
   "infoChk": "2026-11-02",
@@ -13546,9 +13607,28 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "Krawallbarbie": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/krawall_barbie"
+  },
+  "bio": {
+   "de": "Krawallbarbie ist in der Wiener Techno-Szene aktiv und spielte u. a. bei ELEKTRA und Techno.Kult in der Grelle Forelle sowie bei Art Attech im FLUCC. Auf SoundCloud veröffentlicht Krawallbarbie eigene Tracks wie „Fiebertraum“ und „ganz wien“; ein Studio-Set erschien bei Radio Rudina.",
+   "en": "Krawallbarbie is active in Vienna's techno scene, playing ELEKTRA and Techno.Kult at Grelle Forelle and Art Attech at FLUCC. On SoundCloud, Krawallbarbie releases own tracks such as 'Fiebertraum' and 'ganz wien'; a studio set appeared on Radio Rudina."
+  },
+  "sets": [
+   {
+    "t": "krawallbarbie – live from the studio (Radio Rudina)",
+    "u": "https://soundcloud.com/radiorudina/krawallbarbie-live-from-the-studio"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/krawall_barbie/tracks",
+   "https://soundcloud.com/krawall_barbie/01-ganz-wien",
+   "https://soundcloud.com/radiorudina/krawallbarbie-live-from-the-studio"
+  ]
  },
  "Kmanxak": {
   "infoChk": "2026-11-02",
@@ -13556,9 +13636,19 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "LaLa": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "sets": [
+   {
+    "t": "Lala – Radio Rudina",
+    "u": "https://soundcloud.com/radiorudina/lala-radio-rudina"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/radiorudina/lala-radio-rudina"
+  ]
  },
  "Leanne": {
   "infoChk": "2026-11-02",
@@ -13576,9 +13666,9 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "Louk": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Krueger": {
   "infoChk": "2026-11-02",
@@ -13606,9 +13696,9 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "Karolina": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "DJ Kompact": {
   "infoChk": "2026-11-02",
@@ -14425,9 +14515,41 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Rokis": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-02",
+  "links": {
+   "mc": "https://www.mixcloud.com/Rokis/"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Rokis ist ein Wiener DJ. Auf Mixcloud veröffentlicht er Mixe und Live-Aufnahmen, die bis in die 1990er zurückreichen, etwa aus dem Chattanooga (1995) oder „Obsession 1997“. Regelmäßig spielt er bei der Reihe Flashback – Techno Classics.",
+   "en": "Rokis is a Vienna-based DJ. On Mixcloud he shares mixes and live recordings going back to the 1990s, such as Chattanooga (1995) or 'Obsession 1997'. He is a regular at the Flashback – Techno Classics series."
+  },
+  "sets": [
+   {
+    "t": "Rokis live @ Pfizer Club, Tulum",
+    "u": "https://www.mixcloud.com/Rokis/rokis-live-pfizer-club-tulum/"
+   },
+   {
+    "t": "Rokis @ Chattanooga, April 1995",
+    "u": "https://www.mixcloud.com/Rokis/rokis-april-1995/"
+   },
+   {
+    "t": "Be Smart Be Like Rokis Mix",
+    "u": "https://www.mixcloud.com/Rokis/be-smart-be-like-rokis-mix/"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://www.mixcloud.com/Rokis/"
+  ]
  },
  "Rosi": {
   "infoChk": "2026-11-02",
@@ -14545,7 +14667,7 @@ const AR={
    "https://soundcloud.com/pjnm"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Psynonima": {
   "bio": {
@@ -14579,8 +14701,8 @@ const AR={
    "https://soundcloud.com/psynonima/sets/mystic-spiral-compiled-by-djane-psynonima"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
  },
  "THAO": {
   "img": "https://static.ra.co/images/profiles/square/thao.jpg?dateUpdated=1781720521777",
@@ -14686,8 +14808,9 @@ const AR={
    "https://ra.co/events/2284048",
    "https://m.soundcloud.com/wingzdnb/sets/out-now-2"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-02",
+  "img": "https://i.scdn.co/image/ab6761610000e5ebfa98d17f08fb5734eec875ab"
  },
  "5HA5H": {
   "links": {
@@ -14787,7 +14910,7 @@ const AR={
    "https://ra.co/events/2022013",
    "https://soundcloud.com/veronika-amie"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Tanja Turner": {
   "img": "https://static.ra.co/images/profiles/square/tanjaturner.jpg?dateUpdated=1744620586887",
@@ -14874,9 +14997,9 @@ const AR={
   "src": [
    "https://www.enter-glitch.com/events/glitch-vienna-001"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Wal_Halla": {
   "img": "https://static.ra.co/images/profiles/square/wal_halla.jpg?dateUpdated=1788612597173",
@@ -15078,8 +15201,8 @@ const AR={
    "https://soundcloud.com/tom-snow",
    "https://soundcloud.com/tom-snow/garden-club-volksgarten-vienna"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
  },
  "Vivid": {
   "infoChk": "2026-11-02",
@@ -15227,11 +15350,15 @@ const AR={
    "en": "Techno DJ billed in line-ups with references to the Gazometer raves and the Free Parade. A regular at the Flashback – Techno Classics series in Vienna."
   },
   "src": [
-   "https://de.ra.co/events/2108941"
+   "https://de.ra.co/events/2108941",
+   "https://soundcloud.com/martinoelz"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/martinoelz"
+  }
  },
  "Mateo!": {
   "img": "https://electronicgroove.com/wp-content/uploads/2024/10/Mateo.jpg",
@@ -15376,9 +15503,36 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "Malounadou": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-02",
+  "links": {
+   "ig": "https://www.instagram.com/malounadou/"
+  },
+  "bio": {
+   "de": "Malounadou hat regelmäßige Sendungen bei vlan.radio und spielte 2025 mit der Motion Blur Crew beim Free Tree Open Air Festival. In Wien war Malounadou u. a. bei GAZE im PRST, bei der Soundbüglerei im Tagada und bei Das Syndikat zu hören.",
+   "en": "Malounadou hosts regular shows on vlan.radio and played with the Motion Blur Crew at Free Tree Open Air Festival 2025. In Vienna, Malounadou has played GAZE at PRST, Soundbüglerei at Tagada and Das Syndikat."
+  },
+  "sets": [
+   {
+    "t": "MALOUNADOU – vlan.radio (25.10.2024)",
+    "u": "https://soundcloud.com/vlanradio/malounadou-251024"
+   },
+   {
+    "t": "MALOUNADOU – vlan.radio (21.06.2024)",
+    "u": "https://soundcloud.com/vlanradio/malounadoud-210624"
+   },
+   {
+    "t": "MALOUNADOU – vlan.radio (15.03.2024)",
+    "u": "https://soundcloud.com/vlanradio/malounadou-150324"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://www.instagram.com/malounadou/",
+   "https://soundcloud.com/vlanradio/malounadou-251024",
+   "https://soundcloud.com/1312motionblur420/liveblur-motion-blur-crew-free-tree-open-air-festival-2025-marc-sker-malounadou-opicore-ness-t"
+  ]
  },
  "Mark Dale": {
   "infoChk": "2026-11-02",
@@ -15396,9 +15550,9 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "MAWU": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Mr. Highfi": {
   "infoChk": "2026-11-02",
