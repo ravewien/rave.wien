@@ -1,0 +1,28 @@
+// Automatisch erzeugt (.github/scripts/geocode.js, Daten © OpenStreetMap-Mitwirkende) – nicht bearbeiten.
+const GEO2={
+"Altia Skybar – DC Tower":[48.23197,16.4137],
+"B72":[48.21512,16.34099],
+"Coco Bar":[48.21031,16.339],
+"Fanialive Wien":[48.20948,16.33922],
+"Flex":[48.21778,16.37091],
+"Funkhaus":[48.19476,16.37316],
+"Hofburg Vienna":[48.20547,16.36239],
+"Jaz in the City":[48.19841,16.35527],
+"Kollektiv Kaorle":[48.21356,16.31047],
+"Loop":[48.20945,16.33889],
+"Lugner City":[48.2035,16.33433],
+"Metastadt":[48.23196,16.45501],
+"Multiversum Schwechat":[48.14165,16.48175],
+"Porto Pollo":[48.24697,16.38856],
+"Prater Dome":[48.21737,16.39743],
+"Pratersauna":[48.21326,16.40491],
+"Pyramide Vösendorf":[48.1123,16.31312],
+"Rhiz":[48.21076,16.33907],
+"Stiftskeller Klosterneuburg":[48.30654,16.32437],
+"The Inner Circle":[48.15599,16.31922],
+"The Loft":[48.20891,16.33815],
+"The Popp im Prater":[48.21561,16.39958],
+"U4":[48.1833,16.32816],
+"Usus am Wasser":[48.24099,16.39867],
+"kv.r.":[48.21891,16.32953]
+};
