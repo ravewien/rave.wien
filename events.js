@@ -5168,8 +5168,7 @@ const AR={
    "ra": "https://ra.co/dj/lorenzo-es"
   },
   "src": [
-   "https://ra.co/dj/lorenzo-es",
-   "https://open.spotify.com/artist/0bvhASdLuh4STSJPxMjjSo"
+   "https://ra.co/dj/lorenzo-es/biography"
   ],
   "sets": [
    {
@@ -5183,7 +5182,23 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "img": "https://i.scdn.co/image/ab6761610000e5eb9da6e147cc195d4d97fd61c5",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Italien",
+   "en": "Italy"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "111 Records",
+   "HEX Techno Movement"
+  ],
+  "bio": {
+   "de": "Italienischer Techno-Künstler, seit 2014 aktiv. Mitbegründer der Clubmarke und des Labels HEX Techno Movement, das er bis 2025 leitete; seither unabhängig mit seinem Label 111 Records und dem Podcast 111 Radio. 2026 erschien sein Debütalbum „Techno Rebels“; Auftritte u. a. beim EXIT Festival.",
+   "en": "Italian techno artist active since 2014. Co-founder of the club brand and label HEX Techno Movement, which he ran until 2025; since then independent with his label 111 Records and the 111 Radio podcast. His debut album “Techno Rebels” came out in 2026; he has played EXIT Festival among others."
+  },
+  "infoChk": "2026-11-03"
  },
  "Dj Wifi": {
   "links": {
@@ -6637,12 +6652,30 @@ const AR={
    "ra": "https://ra.co/dj/maxkernmayer"
   },
   "src": [
-   "https://ra.co/dj/maxkernmayer",
-   "https://es.ra.co/dj/maxkernmayer"
+   "https://de.ra.co/dj/maxkernmayer"
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/square/maxkernmayer.jpg?dateUpdated=1546821638000",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Tech House",
+   "Techno"
+  ],
+  "labels": [
+   "White Widow Records",
+   "Defined Music",
+   "Baikonur Recordings",
+   "Never Be Normal"
+  ],
+  "bio": {
+   "de": "Wiener DJ und Produzent für „pumpin’ Tech House & Techno“ mit Releases auf White Widow, Defined Music, Baikonur Recordings und Never Be Normal. Spielt vor allem in Pratersauna, The Loft, SASS Music Club (u. a. Deep Dive) und Club Exil.",
+   "en": "Viennese DJ and producer of “pumpin’ tech house & techno” with releases on White Widow, Defined Music, Baikonur Recordings and Never Be Normal. He plays mostly at Pratersauna, The Loft, SASS Music Club (including Deep Dive) and Club Exil."
+  },
+  "infoChk": "2026-11-03"
  },
  "Rui de Janeiro": {
   "links": {
@@ -6664,8 +6697,7 @@ const AR={
    "ra": "https://ra.co/dj/eleluz"
   },
   "src": [
-   "https://ra.co/dj/eleluz",
-   "https://open.spotify.com/artist/6CAmOOikxXb6SmPODWGN5d"
+   "https://ra.co/dj/eleluz"
   ],
   "sets": [
    {
@@ -6679,7 +6711,16 @@ const AR={
   ],
   "setsChecked": "2026-10-27",
   "img": "https://i.scdn.co/image/ab6761610000e5eb6a47af2dd6f1fff22f265ab8",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "Deutsche DJ, seit 2017 auf RA, die vor allem in Berlin, Wien, Hamburg, München und Lissabon spielt – meist in Ritter Butzke, Renate, Birgit und Kater. Sets u. a. vom Boom Festival 2025 (Alchemy Circle).",
+   "en": "German DJ, listed on RA since 2017, who plays mainly in Berlin, Vienna, Hamburg, Munich and Lisbon, most often at Ritter Butzke, Renate, Birgit and Kater. Recordings include her set at Boom Festival 2025 (Alchemy Circle)."
+  },
+  "infoChk": "2026-11-03"
  },
  "PSMT": {
   "links": {
@@ -7321,8 +7362,37 @@ const AR={
  },
  "Leon Diamant": {
   "noImg": "2026-10-28",
-  "infoChk": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-10-31",
+  "img": "https://static.ra.co/images/profiles/square/leondiamant.jpg?dateUpdated=1709290930000",
+  "links": {
+   "sc": "https://soundcloud.com/leon_diamant",
+   "ig": "https://www.instagram.com/leon.diamant",
+   "bc": "https://analogique.bandcamp.com",
+   "ra": "https://ra.co/dj/leondiamant",
+   "web": "https://analogique.at"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "labels": [
+   "Analogique"
+  ],
+  "bio": {
+   "de": "Österreichischer DJ, verbunden mit dem Wiener Label Analogique. Spielt vor allem im SASS Music Club, im Celeste und im Club U und war bei Callshop Radio (Soundcruise) zu Gast.",
+   "en": "Austrian DJ connected to the Viennese label Analogique. He plays mostly at SASS Music Club, Celeste and Club U and has guested on Callshop Radio (Soundcruise)."
+  },
+  "sets": [
+   {
+    "t": "Soundcruise w/ Leon Diamant 09.06.24 (Callshop Radio)",
+    "u": "https://soundcloud.com/callshopradio/soundcruise-w-leon-diamant-090624"
+   }
+  ],
+  "src": [
+   "https://de.ra.co/dj/leondiamant"
+  ],
+  "setsChecked": "2026-11-03"
  },
  "Peradise": {
   "noImg": "2026-10-28",
@@ -7455,7 +7525,29 @@ const AR={
  "Gehlektek": {
   "noImg": "2026-10-31",
   "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "img": "https://f4.bcbits.com/img/0035922200_23.jpg",
+  "links": {
+   "sc": "https://soundcloud.com/gehlektek",
+   "bc": "https://gehlektek.bandcamp.com"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Tekno",
+   "Acid",
+   "Trance"
+  ],
+  "bio": {
+   "de": "Elektronisches Live-Projekt aus Wien zwischen Trance, Acid, Tekno und Mental Tribe – Motto „peace, love and bass“. Tracks u. a. auf Acid Pirate und Underground Tekno; live bei SIN, Überdruck Soundsystem und Melting Minds.",
+   "en": "Electronic live project from Vienna spanning trance, acid, tekno and mental tribe, under the motto “peace, love and bass”. Tracks on Acid Pirate and Underground Tekno; live at SIN, Überdruck Soundsystem and Melting Minds."
+  },
+  "src": [
+   "https://gehlektek.bandcamp.com",
+   "https://soundcloud.com/gehlektek"
+  ]
  },
  "Apocalypz": {
   "noImg": "2026-11-02",
@@ -7467,9 +7559,9 @@ const AR={
   }
  },
  "Miss Undertaker": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Sportacore": {
   "noImg": "2026-10-31",
@@ -7477,9 +7569,22 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Cheddar Boyz": {
-  "noImg": "2026-10-31",
+  "noImg": "2026-11-03",
   "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/cheddar-boyz"
+  },
+  "genres": [
+   "Psytrance"
+  ],
+  "bio": {
+   "de": "Psytrance-Act, u. a. live bei der Psyperience Pool Party sowie bei Psytrance Universe in der Grelle Forelle.",
+   "en": "Psytrance act that has played live at the Psyperience Pool Party and at Psytrance Universe in Grelle Forelle."
+  },
+  "src": [
+   "https://soundcloud.com/cheddar-boyz"
+  ]
  },
  "Veneno": {
   "noImg": "2026-11-02",
@@ -7491,9 +7596,31 @@ const AR={
   }
  },
  "PRDK": {
-  "noImg": "2026-10-31",
+  "noImg": "2026-11-03",
   "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/prdkdnb"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Neurofunk"
+  ],
+  "bio": {
+   "de": "Neurofunk-Produzent und DJ aus der Darkshire-Crew mit zahlreichen Releases auf verschiedenen Labels, u. a. Darkshire Sound. Bekannt für energiegeladene Sets voller frischer Dubs; in Wien bei Reverse und The Hive im FLUCC und Flex zu Gast.",
+   "en": "Neurofunk producer and DJ from the Darkshire crew with numerous releases on various labels, including Darkshire Sound. Known for high-energy sets full of fresh dubs; in Vienna he has played Reverse and The Hive at FLUCC and Flex."
+  },
+  "sets": [
+   {
+    "t": "PRDK – live [Darkshire Sound] Lviv 06.06.2026",
+    "u": "https://soundcloud.com/sounds-ukraine/prdk-darkshire-lviv"
+   }
+  ],
+  "src": [
+   "https://dropthebass.co/events/3-years-of-reverse-pres-prdk-shmidoo-resselrave-afterparty-with-soundlabs-200925",
+   "https://soundcloud.com/prdkdnb"
+  ],
+  "setsChecked": "2026-11-03"
  },
  "DNBREAK": {
   "noImg": "2026-10-28",
@@ -7663,9 +7790,9 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Stefanie Brida": {
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Wisteria": {
   "noImg": "2026-10-28",
@@ -7686,7 +7813,9 @@ const AR={
   "noImg": "2026-10-28"
  },
  "MA!A": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Ferdinand Schwarz": {
   "noImg": "2026-10-28"
@@ -7784,9 +7913,9 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Luca": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Hanno": {
   "noImg": "2026-11-03",
@@ -8730,9 +8859,9 @@ const AR={
   "noLinks": "2026-10-31"
  },
  "Findus": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Helix": {
   "infoChk": "2026-10-31",
@@ -18691,6 +18820,72 @@ const AR={
   "src": [
    "https://www.mixcloud.com/tsubitsu/",
    "https://viberate.com/artist/dj-tsubi"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Frau Hofmann": {
+  "img": "https://static.ra.co/images/profiles/square/frauhofmann.jpg?dateUpdated=1780586796000",
+  "links": {
+   "sc": "https://soundcloud.com/frauhofmann",
+   "ig": "https://www.instagram.com/frauhofmann_official",
+   "ra": "https://ra.co/dj/frauhofmann",
+   "web": "https://frauhofmann.com"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "Techno",
+   "Deep Techno"
+  ],
+  "bio": {
+   "de": "Österreichische Techno-DJ, die vor allem in Wien, München und Berlin auflegt – meistbespielte Clubs sind Harry Klein, Pratersauna und Grelle Forelle. Mixe u. a. für Afterhour Sounds, KataHaifisch, United We Stream und Res.Radio.",
+   "en": "Austrian techno DJ who plays mostly in Vienna, Munich and Berlin; her most-played clubs are Harry Klein, Pratersauna and Grelle Forelle. Mixes for Afterhour Sounds, KataHaifisch, United We Stream and Res.Radio."
+  },
+  "sets": [
+   {
+    "t": "Frau Hofmann @ FrüherKommen v4 (22.11.2025, Exil)",
+    "u": "https://soundcloud.com/hausgemachtinwien/frau-hofmann-fruherkommen-v4-22112025-exil"
+   },
+   {
+    "t": "MFG #14 w/ Frau Hofmann (Res.Radio)",
+    "u": "https://soundcloud.com/resradio/mfg-14-w-frau-hofmann"
+   },
+   {
+    "t": "KataHaifisch Podcast 003 – Frau Hofmann",
+    "u": "https://soundcloud.com/katahaifisch/katahaifisch-podcast-003-frau-hofmann"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/frauhofmann",
+   "https://soundcloud.com/frauhofmann"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Drahthaus": {
+  "img": "https://i.scdn.co/image/ab6761610000e5eb9b17454b20226b6a4bf904f8",
+  "links": {
+   "sc": "https://soundcloud.com/drahthaus",
+   "sp": "https://open.spotify.com/artist/1coyH3ThOWbCVmwlFxTD2I",
+   "web": "https://www.drahthaus.at"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Electronic",
+   "Live"
+  ],
+  "bio": {
+   "de": "2015 gegründetes Wiener Kollektiv aus Musiker:innen, Künstler:innen, Designer:innen und Techniker:innen, live mit Ludwig Ascher, Valentin Martins, Simon Öggl und Hans Zoderer. Spielt elektronische Musik live mit über zwanzig akustischen und digitalen Instrumenten, Alltagsgegenständen und Effektgeräten; Releases auf monkey.",
+   "en": "Viennese collective founded in 2015 that brings together musicians, artists, designers and technicians, performing live as Ludwig Ascher, Valentin Martins, Simon Öggl and Hans Zoderer. They play electronic music live on more than twenty acoustic and digital instruments, everyday objects and effects units; releases on monkey."
+  },
+  "src": [
+   "https://monkeymusic.at/drahthaus-drahthaus",
+   "https://open.spotify.com/artist/1coyH3ThOWbCVmwlFxTD2I"
   ],
   "infoChk": "2026-11-03"
  }
