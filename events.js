@@ -13127,11 +13127,13 @@ const AR={
  "Sonya Hibiscus": {
   "links": {
    "sc": "https://soundcloud.com/sonya-hibiscus",
-   "ig": "https://www.instagram.com/sonya_hibiscus/"
+   "ig": "https://www.instagram.com/sonya_hibiscus/",
+   "sp": "https://open.spotify.com/artist/44TANDuXJVsnFaDcwQGf4h",
+   "bc": "https://sonyahibiscus.bandcamp.com"
   },
   "from": {
-   "de": "Frankreich",
-   "en": "France"
+   "de": "Paris, Frankreich",
+   "en": "Paris, France"
   },
   "bio": {
    "de": "Sonya Hibiscus ist eine DJ aus Frankreich, die mit der Pariser Partyreihe Grand Bal Zouk verbunden ist, einer Nacht für Retro-Zouk, Kompa und karibische Clubkultur. Ihre Sets verbinden tropische und Balearic-Sounds mit Boogie und Breaks.",
@@ -13141,11 +13143,13 @@ const AR={
    "https://soundcloud.com/sonya-hibiscus",
    "https://www.instagram.com/sonya_hibiscus/",
    "https://ra.co/events/2080997",
-   "https://ra.co/events/2568201"
+   "https://ra.co/events/2568201",
+   "https://sonyahibiscus.bandcamp.com/"
   ],
   "setsChecked": "2026-11-02",
   "noImg": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "img": "https://i.scdn.co/image/ab6761610000e5eb9fedc098a1652f20f165c469"
  },
  "Stef Davidse": {
   "img": "https://static.ra.co/images/profiles/square/stefdavidse.jpg?dateUpdated=1689326207000",
@@ -15144,12 +15148,17 @@ const AR={
   "real": "Paul Angerer",
   "links": {
    "ra": "https://ra.co/dj/paulpanther",
-   "ig": "https://www.instagram.com/paulangerer/"
+   "ig": "https://www.instagram.com/paulangerer/",
+   "sc": "https://soundcloud.com/paulthepanther"
   },
   "src": [
    "https://de.ra.co/dj/paulpanther"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "bio": {
+   "de": "Paul Panther (Paul Angerer) ist ein österreichischer DJ, der in Wien u. a. bei Club Pompadour im SASS und bei der Afterparty von Techno Entgleist x Du Tanzt Mich Mal in der Grelle Forelle spielte.",
+   "en": "Paul Panther (Paul Angerer) is an Austrian DJ who has played in Vienna at Club Pompadour at SASS and the Techno Entgleist x Du Tanzt Mich Mal afterparty at Grelle Forelle, among others."
+  }
  },
  "Philipp Blecha": {
   "img": "https://static.ra.co/images/profiles/philippblecha.jpg?dateUpdated=1457006057603",
