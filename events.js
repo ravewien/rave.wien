@@ -654,6 +654,17 @@ const CG={
  ],
  "Fish Market": [
   "Techno"
+ ],
+ "Hallraum": [
+  "Techno"
+ ],
+ "Firlefunk": [
+  "Disco",
+  "Funk"
+ ],
+ "Pirotecnia": [
+  "House",
+  "Techno"
  ]
 };
 const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Bassbussi","Bassclub","Bassproduction","Basstrace","Belly Dance Services","Bestand","Bonkers","Café Mondo","Callshop Radio","Cardio Cult","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Der Radio","Derisch","Drum & Bassick","Du Tanzt Mich Mal","Dunkelton Kollektiv","Dystopia Rave","ELEMNT","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hallraum","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","High Voltage Fairies","House of Plüsch","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KSOT","Köstlich","KØRE","Liminal","Little Beat More","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Vienna","Ravenbogen","Resonance Social Artists","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spectral","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Switch!","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tayrona Records","Techno am Wasser","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","Wreck","YE","Zuckerwatt","Zyklop Audio"];
@@ -2791,6 +2802,49 @@ const CI={
   ],
   "noLogo": "2026-11-02",
   "infoChk": "2026-11-02"
+ },
+ "Pirotecnia": {
+  "de": "Chilenisches Label (gegründet 2014) für House, Techno, Global Beats und Experimentelles mit elektronischen lateinamerikanischen Rhythmen; laut RA Mitveranstalter des Wien-Abends mit DJ Raff im Fanialive.",
+  "en": "Chilean label (founded 2014) for house, techno, global beats and experimental music built on electronic Latin rhythms; according to RA co-promoter of the Vienna night with DJ Raff at Fanialive.",
+  "type": [
+   "Label"
+  ],
+  "founded": "2014",
+  "from": "Chile",
+  "web": "https://linktr.ee/pirotecnia",
+  "logo": "https://static.ra.co/images/labels/pirotecnia.jpg?dateUpdated=1645610083473",
+  "src": [
+   "https://es.ra.co/labels/19952"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Hallraum": {
+  "de": "Wiener Techno-Reihe, u. a. im Tagada am Yppenplatz; gemeinsam mit Neoteric veranstaltet sie auch Dub-Techno-Abende im The Loft.",
+  "en": "Viennese techno series, e.g. at Tagada on Yppenplatz; together with Neoteric it also runs dub techno nights at The Loft.",
+  "from": "Wien",
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://frey-tag.at/kalender/hallraum?s=38SCP3g27",
+   "https://ra.co/events/2524587"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Firlefunk": {
+  "de": "Wiener Disco- und Funk-Abende, gemeinsam mit Cafe Disko u. a. im Fanialive und im Funkhaus (mit Gästen wie Diskohengst); auch zu Gast bei Callshop Radio.",
+  "en": "Viennese disco and funk nights, together with Cafe Disko at venues such as Fanialive and Funkhaus (with guests like Diskohengst); also featured on Callshop Radio.",
+  "from": "Wien",
+  "ig": "https://www.instagram.com/firlefunk_/",
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://de.ra.co/events/2129931",
+   "https://www.instagram.com/firlefunk_/",
+   "https://soundcloud.com/callshopradio/tropical-thunder-selectors-w-firlefunk"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Tayrona Records": {
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
  }
 };
 const VI={
@@ -2800,8 +2854,12 @@ const VI={
   "src": [
    "https://de.ra.co/events/2565066",
    "https://de.ra.co/clubs/247098",
+   "https://www.1000thingsmagazine.com/de/a/481273/kulturzentrum-semmelweisklinik-wien/",
    "https://www.1000thingsmagazine.com/de/a/481273/kulturzentrum-semmelweisklinik-wien/"
-  ]
+  ],
+  "web": "https://www.semmelweisklinik.at",
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Arena Wien": {
   "de": "Kulturzentrum im ehemaligen Schlachthof St. Marx, vor allem Konzerte; elektronische Events v. a. Drum-&-Bass-Nächte (z. B. ELEMNT).",
@@ -2813,8 +2871,14 @@ const VI={
   ],
   "src": [
    "https://www.eventbrite.com/e/elemnt-pres-kanine-reflections-arcando-basstripper-grafix-skiye-tickets-1998799288478",
-   "https://www.volume.at/events/elemnt-2025-12-13/"
-  ]
+   "https://www.volume.at/events/elemnt-2025-12-13/",
+   "https://en.wikipedia.org/wiki/Arena,_Vienna"
+  ],
+  "alias": [
+   "Arena"
+  ],
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Himmel und Wasser": {
   "de": "Restaurant, Bar und Biergarten auf der Donauinsel bei der Steinspornbrücke, geöffnet Mai bis September; im Sommer Techno-Open-Airs (z. B. Techno am Wasser).",
@@ -2828,7 +2892,8 @@ const VI={
    "https://www.himmelundwasser.at/",
    "https://www.1000thingsmagazine.com/info/himmel-und-wasser/",
    "https://warda.at/events/techno-am-wasser-3/"
-  ]
+  ],
+  "infoChk": "2026-11-03"
  },
  "Club U": {
   "de": "Kleiner DJ-Club im Otto-Wagner-Pavillon am Karlsplatz (gemeinsam mit dem Café Karl & Otto), abends Mittwoch bis Samstag mit DJ-Nächten; im Sommer Open Airs am Karlsplatz.",
@@ -2841,8 +2906,14 @@ const VI={
   "src": [
    "https://www.technoairlines.com/club/club-u-vienna",
    "https://de.ra.co/clubs/16057",
-   "https://de.ra.co/events/2462572"
-  ]
+   "https://de.ra.co/events/2462572",
+   "https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/club-u-343420"
+  ],
+  "alias": [
+   "Club U im Otto-Wagner-Pavillon"
+  ],
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Coco Bar": {
   "de": "Bar in den Stadtbahnbögen am Lerchenfelder Gürtel mit gelegentlichen DJ- und Listening-Abenden.",
@@ -2987,7 +3058,10 @@ const VI={
   "infoChk": "2026-11-02"
  },
  "PRST": {
-  "alias": ["Praterstraße", "Club Praterstraße"],
+  "alias": [
+   "Praterstraße",
+   "Club Praterstraße"
+  ],
   "opened": "2020",
   "de": "Club Praterstraße (PRST), House- und Techno-Club in der Leopoldstadt.",
   "en": "Club Praterstraße (PRST), house and techno club in Leopoldstadt.",
@@ -3162,7 +3236,9 @@ const VI={
   "io": [
    "Indoor"
   ],
-  "alias": ["Schwelle Wien"]
+  "alias": [
+   "Schwelle Wien"
+  ]
  },
  "Pratersauna": {
   "opened": "1965",
@@ -3251,7 +3327,9 @@ const VI={
   ],
   "de": "Glaspyramide des Eventhotels Pyramide in Vösendorf am südlichen Stadtrand von Wien, neben der Shopping City Süd; die große Event-Halle wird gelegentlich für große Clubevents genutzt.",
   "en": "Glass pyramid of the Eventhotel Pyramide in Vösendorf on Vienna's southern edge, next to Shopping City Süd; its large event hall occasionally hosts big club events.",
-  "alias": ["Eventhotel Pyramide"],
+  "alias": [
+   "Eventhotel Pyramide"
+  ],
   "floors": [
    "Main",
    "Hard Techno Stage"
@@ -3352,7 +3430,10 @@ const VI={
   ],
   "de": "Ehemaliges, denkmalgeschütztes ORF-Funkhaus (1930) in der Argentinierstraße auf der Wieden, das zum offenen Kulturhub mit Konzert- und Veranstaltungsräumen, Gastronomie, Ateliers und Studios umgebaut wird; die Sendesäle bleiben ORF-Veranstaltungen vorbehalten.",
   "en": "Former listed ORF broadcasting house (1930) on Argentinierstraße in Wieden, being converted into an open cultural hub with concert and event spaces, gastronomy, studios and ateliers; the broadcast halls remain in use for ORF events.",
-  "alias": ["ORF-Funkhaus", "Funkhaus Wien"],
+  "alias": [
+   "ORF-Funkhaus",
+   "Funkhaus Wien"
+  ],
   "infoChk": "2026-11-02",
   "web": "https://www.funkhaus.wien"
  },
@@ -3434,7 +3515,9 @@ const VI={
   "de": "Skybar mit Cocktailbar, Lounge und Dachterrasse im 58. Stock des DC Tower (Hotel Meliá Vienna) in der Donau City, laut Betreiber die höchstgelegene Dachterrasse Österreichs; eleganter Dresscode, DJ-Sessions.",
   "en": "Sky bar with cocktail bar, lounge and roof terrace on the 58th floor of DC Tower (Meliá Vienna hotel) in Donau City, billed as Austria's highest roof terrace; elegant dress code, DJ sessions.",
   "web": "https://www.melia.com/de/hotels/osterreich/wien/melia-vienna/restaurants/altia-skybar",
-  "alias": ["Altia Skybar"]
+  "alias": [
+   "Altia Skybar"
+  ]
  },
  "Event Arena Vösendorf": {
   "io": [
@@ -3538,7 +3621,9 @@ const VI={
  "Jaz in the City": {
   "de": "Hotel Jaz in the City in der Windmühlgasse (Mariahilf) mit der Dachbar Mariatrink, in der die Rooftop Series mit DJ-Sets stattfindet.",
   "en": "Jaz in the City hotel on Windmühlgasse (Mariahilf) with the Mariatrink rooftop bar, home of the Rooftop Series DJ sessions.",
-  "alias": ["Mariatrink"],
+  "alias": [
+   "Mariatrink"
+  ],
   "src": [
    "https://ra.co/events/2527346",
    "https://www.tageskarte.io/hotellerie/detail/jaz-in-the-city-vienna-eroeffnet.html",
@@ -3600,7 +3685,11 @@ const VI={
    "https://ra.co/events/2574326",
    "https://ra.co/events/2574334"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "residents": [
+   "chris deeper"
+  ],
+  "resSrc": "https://ra.co/events/2306531"
  },
  "Fanialive Wien": {
   "de": "Location in den U-Bahn-Bögen am Gürtel (1080 Wien), in der u. a. Clubnächte mit lateinamerikanischer elektronischer Musik stattfinden.",
@@ -3643,7 +3732,9 @@ const LS={
 };
 const AR={
  "Tanzfuchs": {
-  "alias": ["TNZFX"],
+  "alias": [
+   "TNZFX"
+  ],
   "sets": [
    {
     "t": "Tanzfuchs – Integrity",
@@ -6726,7 +6817,9 @@ const AR={
  "Seba": {
   "img": "https://static.ra.co/images/profiles/seba.jpg?dateUpdated=1494519179647",
   "links": {},
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Melchiorr": {
   "noLinks": "2026-10-28",
@@ -6865,7 +6958,10 @@ const AR={
    "Aquavit BEAT",
    "NeverLand Productions"
   ],
-  "alias": ["Peter Greenwood", "PeterPan303"],
+  "alias": [
+   "Peter Greenwood",
+   "PeterPan303"
+  ],
   "infoChk": "2026-11-02"
  },
  "JP eXbert": {
@@ -8714,7 +8810,9 @@ const AR={
   ],
   "infoChk": "2026-11-02",
   "noImg": "2026-11-02",
-  "alias": ["Alex Rot"],
+  "alias": [
+   "Alex Rot"
+  ],
   "sets": [
    {
     "t": "Alex Rot - Elektro Goenner Mix - 20120309",
@@ -8985,7 +9083,9 @@ const AR={
    "GDN Records",
    "Jahanam"
   ],
-  "alias": ["HOM."],
+  "alias": [
+   "HOM."
+  ],
   "sets": [
    {
     "t": "High On Melancholia @ Eskalante Kante Vol. 1, Lichtbogen (09.02.2024)",
@@ -9238,7 +9338,9 @@ const AR={
    "de": "Wien",
    "en": "Vienna"
   },
-  "alias": ["Audio Device"],
+  "alias": [
+   "Audio Device"
+  ],
   "src": [
    "https://www.mixcloud.com/AudioDevice/listens/",
    "https://soundcloud.com/audiodevice",
@@ -9343,7 +9445,11 @@ const AR={
    "Love On The Rocks",
    "Faith Beat"
   ],
-  "alias": ["Alli Borem", "Ndsomeware", "Archivia Tapes"],
+  "alias": [
+   "Alli Borem",
+   "Ndsomeware",
+   "Archivia Tapes"
+  ],
   "src": [
    "https://ra.co/dj/pancratio"
   ],
@@ -9801,7 +9907,12 @@ const AR={
   "genres": [
    "Techno"
   ],
-  "alias": ["Schallstrahler", "Nareg", "MarsBed", "ɦɘɬʊɱ"],
+  "alias": [
+   "Schallstrahler",
+   "Nareg",
+   "MarsBed",
+   "ɦɘɬʊɱ"
+  ],
   "setsChecked": "2026-11-02",
   "src": [
    "https://ra.co/dj/hetum",
@@ -9931,7 +10042,9 @@ const AR={
    "Peak Time Techno",
    "Hard Techno"
   ],
-  "alias": ["NIKØ NO/X"],
+  "alias": [
+   "NIKØ NO/X"
+  ],
   "src": [
    "https://ra.co/dj/nikonox",
    "https://ra.co/dj/nikonox/biography"
@@ -10032,7 +10145,9 @@ const AR={
   "genres": [
    "Techno"
   ],
-  "alias": ["LÜJAH"],
+  "alias": [
+   "LÜJAH"
+  ],
   "src": [
    "https://ra.co/dj/rakans",
    "https://ra.co/dj/rakans/biography"
@@ -10262,7 +10377,9 @@ const AR={
   "labels": [
    "Terra Magica Rec."
   ],
-  "alias": ["Laminat"],
+  "alias": [
+   "Laminat"
+  ],
   "src": [
    "https://ra.co/dj/kobermann"
   ],
@@ -11083,7 +11200,9 @@ const AR={
    "sc": "https://soundcloud.com/barbaralago",
    "ig": "https://www.instagram.com/barbara_lago"
   },
-  "alias": ["Bárbara Lago"],
+  "alias": [
+   "Bárbara Lago"
+  ],
   "bio": {
    "de": "Bárbara Lago stammt aus einer kleinen Stadt im Norden Spaniens, ließ sich 2015 in A Coruña nieder und begann dort ihre Laufbahn als DJ.",
    "en": "Bárbara Lago comes from a small town in northern Spain; she settled in A Coruña in 2015 and began her career as a DJ there."
@@ -11691,7 +11810,9 @@ const AR={
   "labels": [
    "Meat Recordings"
   ],
-  "alias": ["Gerald van der Hint"],
+  "alias": [
+   "Gerald van der Hint"
+  ],
   "sets": [
    {
     "t": "GUEST SERIES: Gerald VDH @ FISH MARKET, GRELLE FORELLE - 29/06/24",
@@ -11808,7 +11929,10 @@ const AR={
    "Pryda Friends",
    "Mouseville"
   ],
-  "alias": ["Pryda", "Cirez D"],
+  "alias": [
+   "Pryda",
+   "Cirez D"
+  ],
   "src": [
    "https://ra.co/dj/ericprydz",
    "https://ra.co/dj/ericprydz/biography"
@@ -11823,7 +11947,9 @@ const AR={
   "genres": [
    "Drum & Bass"
   ],
-  "alias": ["인아야"],
+  "alias": [
+   "인아야"
+  ],
   "sets": [
    {
     "t": "INAYA @ CINEMATIƆ – Prater Dome Vienna 13.09.2024",
@@ -11869,7 +11995,9 @@ const AR={
    "Betonska"
   ],
   "real": "Florian Stöffelbauer",
-  "alias": ["FS"],
+  "alias": [
+   "FS"
+  ],
   "sets": [
    {
     "t": "Heap @ ÆDEN Berlin, Dec 2021",
@@ -11924,7 +12052,9 @@ const AR={
    "Another Life",
    "Balkan Connection South America"
   ],
-  "alias": ["Fede Fröstl"],
+  "alias": [
+   "Fede Fröstl"
+  ],
   "sets": [
    {
     "t": "Pure Progressive - Fede Fröstl live at Kramladen, Vienna 15.2.25",
@@ -12008,7 +12138,9 @@ const AR={
    "de": "esti.d ist ein:e DJ aus der Wiener Clubszene; das RA-Profil führt Österreich als Standort und den Alias PISSTWINK. Die eigene Bio beschreibt den Sound als „interessant und unvorhersehbar“. esti.d spielte u. a. bei HYPERTRASH-Partys in Wien und war bei Res.Radio in der Reihe ÄRGER Hits zu Gast.",
    "en": "esti.d is a DJ from Vienna's club scene; their RA profile lists Austria as location and the alias PISSTWINK. Their own bio describes the sound as \"interesting and unpredictable\". esti.d has played HYPERTRASH parties in Vienna and guested on Res.Radio's ÄRGER Hits series."
   },
-  "alias": ["PISSTWINK"],
+  "alias": [
+   "PISSTWINK"
+  ],
   "sets": [
    {
     "t": "ÄRGER Hits Volume 3 w/ esti.d (Res.Radio)",
@@ -12154,7 +12286,10 @@ const AR={
    "fb": "https://www.facebook.com/sssaliva/"
   },
   "real": "François Boulanger",
-  "alias": ["Cupp Cave", "Kingfisherg"],
+  "alias": [
+   "Cupp Cave",
+   "Kingfisherg"
+  ],
   "from": {
    "de": "Lüttich",
    "en": "Liège"
@@ -12414,7 +12549,9 @@ const AR={
   "labels": [
    "Mutual Rytm"
   ],
-  "alias": ["SHDW & Obscure Shape"],
+  "alias": [
+   "SHDW & Obscure Shape"
+  ],
   "sets": [
    {
     "t": "SHDW at EXPO XXI Warsaw (2025)",
@@ -12676,7 +12813,9 @@ const AR={
    "Dinzu Artefacts",
    "Accidental"
   ],
-  "alias": ["Abby Lee Tee"],
+  "alias": [
+   "Abby Lee Tee"
+  ],
   "sets": [
    {
     "t": "MIMS Guest Mix – Abby Lee Tee (Austria)",
@@ -14053,7 +14192,9 @@ const AR={
     "u": "https://soundcloud.com/philblecha_dadajack/philipp_blecha"
    }
   ],
-  "alias": ["Dadajack"],
+  "alias": [
+   "Dadajack"
+  ],
   "src": [
    "https://ra.co/dj/philippblecha",
    "https://ra.co/dj/philippblecha/biography"
@@ -14394,7 +14535,10 @@ const AR={
     "u": "https://soundcloud.com/magic-water-records/magic-water-records-invites-pjnm-radioshow-280623"
    }
   ],
-  "alias": ["Aerodynamic Boy", "PJ.nm"],
+  "alias": [
+   "Aerodynamic Boy",
+   "PJ.nm"
+  ],
   "src": [
    "https://de.ra.co/dj/pjpjpj",
    "https://de.ra.co/dj/pjpjpj/biography",
@@ -15265,6 +15409,375 @@ const AR={
   "infoChk": "2026-11-02",
   "noImg": "2026-11-02",
   "noLinks": "2026-11-02"
+ },
+ "DJ Raff": {
+  "img": "https://static.ra.co/images/profiles/square/djraff.jpg?dateUpdated=1788865830440",
+  "links": {
+   "ra": "https://ra.co/dj/djraff",
+   "sc": "https://soundcloud.com/djraff",
+   "ig": "https://www.instagram.com/djraff",
+   "bc": "https://djraffmusic.bandcamp.com",
+   "web": "https://linktr.ee/djraff"
+  },
+  "real": "Rafael Pérez",
+  "from": {
+   "de": "Chile / London",
+   "en": "Chile / London"
+  },
+  "bio": {
+   "de": "Chilenischer DJ und Produzent mit Basis in Großbritannien, der laut RA „lysergische, tief hängende Tanzmusik“ macht. Veröffentlicht u. a. auf Nacional Records, Pirotecnia, Kebrada, SHIKA SHIKA, Big In Japan und Les Disques du bord de l'eau.",
+   "en": "Chilean DJ and producer based in the UK who, according to RA, crafts \"lysergic, low-slung dance music to lose yourself to\". Releases on labels such as Nacional Records, Pirotecnia, Kebrada, SHIKA SHIKA, Big In Japan and Les Disques du bord de l'eau."
+  },
+  "labels": [
+   "Nacional Records",
+   "Big In Japan",
+   "SHIKA SHIKA",
+   "Kebrada",
+   "Pirotecnia",
+   "Les Disques du bord de l'eau",
+   "Feedasoul Records"
+  ],
+  "src": [
+   "https://ra.co/dj/djraff"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Atarrayo": {
+  "img": "https://static.ra.co/images/profiles/square/atarrayo.jpg?dateUpdated=1699897342000",
+  "links": {
+   "ra": "https://ra.co/dj/atarrayo",
+   "ig": "https://www.instagram.com/juanolemete"
+  },
+  "real": "Juan Lemaitre",
+  "from": {
+   "de": "Barranquilla, Kolumbien",
+   "en": "Barranquilla, Colombia"
+  },
+  "bio": {
+   "de": "Musiker und Produzent aus Barranquilla (Kolumbien), der afrokolumbianische Klänge mit elektronischer Musik verbindet. Veröffentlicht auf Les Disques du bord de l'eau.",
+   "en": "Musician and producer from Barranquilla, Colombia, who captures the essence of Afro-Colombian sounds and blends them with electronic music. Releases on Les Disques du bord de l'eau."
+  },
+  "labels": [
+   "Les Disques du bord de l'eau"
+  ],
+  "src": [
+   "https://ra.co/dj/atarrayo"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "binderos": {
+  "noImg": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/binderos"
+  },
+  "src": [
+   "https://soundcloud.com/binderos"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "sophaya aka drahra": {
+  "noImg": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/aka_drahra"
+  },
+  "alias": [
+   "sophaya",
+   "drahra"
+  ],
+  "src": [
+   "https://soundcloud.com/aka_drahra"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "ooku.": {
+  "noImg": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/ooku_the"
+  },
+  "sets": [
+   {
+    "t": "ooku. & dr. schick present: shared frequencies #8 (Res.Radio)",
+    "u": "https://soundcloud.com/resradio/ooku-dr-schick-present-2"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/ooku_the",
+   "https://soundcloud.com/resradio/ooku-dr-schick-present-2"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "paul heimlich": {
+  "noImg": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/paul_heimlich"
+  },
+  "sets": [
+   {
+    "t": "Paul Heimlich @ Park&Platte (19.07.2025)",
+    "u": "https://soundcloud.com/kollektiv-uns/paul-heimlich-190725-parkplatte"
+   },
+   {
+    "t": "Home Session 2 (Vinyl Only) – House, Tech House",
+    "u": "https://soundcloud.com/paul_heimlich/home-session-vinyl-only-house"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/paul_heimlich"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Hiff": {
+  "img": "https://static.ra.co/images/profiles/square/hiff.jpg?dateUpdated=1787910239000",
+  "links": {
+   "ra": "https://ra.co/dj/hiff",
+   "sc": "https://soundcloud.com/ffiihh",
+   "ig": "https://www.instagram.com/h.i."
+  },
+  "from": {
+   "de": "Wien (geboren in Deutschland)",
+   "en": "Vienna (born in Germany)"
+  },
+  "bio": {
+   "de": "In Wien lebende:r DJ, laut eigenem RA-Profil „leidenschaftliche:r Musikhörer:in und gelegentliche:r DJ“.",
+   "en": "Vienna-based DJ who describes themselves on RA as \"an avid music listener and occasional dj\"."
+  },
+  "src": [
+   "https://ra.co/dj/hiff"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Diskohengst": {
+  "img": "https://static.ra.co/images/profiles/square/diskohengst.jpg?dateUpdated=1687946065000",
+  "links": {
+   "ra": "https://ra.co/dj/diskohengst",
+   "sc": "https://soundcloud.com/diskohengst",
+   "ig": "https://www.instagram.com/shacke_one"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "bio": {
+   "de": "Disko-DJ aus Berlin, auch bekannt als Shacke One. Spielt u. a. bei „Das Zündet“ im Humboldthain Club Berlin und war bereits mit Cafe Disko x Firlefunk in Wien zu Gast.",
+   "en": "Disco DJ from Berlin, also known as Shacke One. Plays e.g. at \"Das Zündet\" at Berlin's Humboldthain Club and has played Vienna before with Cafe Disko x Firlefunk."
+  },
+  "alias": [
+   "Shacke One"
+  ],
+  "src": [
+   "https://de.ra.co/dj/diskohengst",
+   "https://de.ra.co/events/2129931"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "chris deeper": {
+  "img": "https://static.ra.co/images/profiles/square/chrisdeeper.jpg?dateUpdated=1736989922000",
+  "links": {
+   "ra": "https://ra.co/dj/chrisdeeper",
+   "ig": "https://www.instagram.com/chris.deeper"
+  },
+  "real": "Christoph Mangold",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Wiener DJ, der Ende der 1980er-Jahre mit 15 zu legen begann. Spielt heute Ambient, Deep und Dub Techno sowie Hypnotic Techno und ist laut RA Resident im The Inner Circle.",
+   "en": "Vienna-based DJ who started DJing at 15 in the late 1980s. Today he plays ambient, deep and dub techno as well as hypnotic techno and, according to RA, is a resident at The Inner Circle."
+  },
+  "genres": [
+   "Hypnotic Techno",
+   "Deep Techno",
+   "Dub Techno",
+   "Classic Techno"
+  ],
+  "src": [
+   "https://ra.co/dj/chrisdeeper",
+   "https://ra.co/events/2306531"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "403Vorbidden": {
+  "noImg": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/403vorbidden",
+   "ig": "https://www.instagram.com/403vorbidden/"
+  },
+  "real": "Christian Strini",
+  "sets": [
+   {
+    "t": "Uncensored DJ Mix – 403 Vorbidden b2b Marsbach",
+    "u": "https://soundcloud.com/marsbachschallkultur/uncensored-dj-mix-403-vorbitten-b2b-marsbach"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/403vorbidden",
+   "https://www.instagram.com/403vorbidden/"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "WONKA CTK": {
+  "img": "https://f4.bcbits.com/img/0017755285_10.jpg",
+  "links": {
+   "bc": "https://wonkactk.bandcamp.com",
+   "ig": "https://www.instagram.com/wonka_ctk/",
+   "sc": "https://soundcloud.com/wonka_ctk"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Österreichischer Acid-Tekno-Artist: Mit 19 packte ihn das „Acid-Tekno-Virus“, er baute seine erste PA, gründete das CTK Soundsystem und begann Beats zu produzieren. Sein Sound ist nach eigener Aussage „positiv und dunkel zugleich“; Releases über Bandcamp, u. a. „Sugar Daddy“.",
+   "en": "Austrian acid tekno artist: at 19 the \"acid tekno virus\" grabbed him; he built his first PA, founded CTK Soundsystem and started producing beats. In his own words his sound is \"positive & dark at the same time\"; releases via Bandcamp, including \"Sugar Daddy\"."
+  },
+  "genres": [
+   "Acid Tekno"
+  ],
+  "alias": [
+   "Wonka"
+  ],
+  "src": [
+   "https://wonkactk.bandcamp.com/music"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Mickey Gee": {
+  "img": "https://static.ra.co/images/profiles/square/mikeygee.jpg?dateUpdated=1738234502000",
+  "links": {
+   "ra": "https://ra.co/dj/mikeygee"
+  },
+  "from": {
+   "de": "München",
+   "en": "Munich"
+  },
+  "bio": {
+   "de": "DJ aus München, laut RA vor allem im Goldenen Reiter, in der Roten Sonne und im Unter Deck zu hören; lädt gemeinsam mit Dancekowski u. a. Diskohengst ein.",
+   "en": "Munich DJ who according to RA mostly plays Goldener Reiter, Rote Sonne and Unter Deck; together with Dancekowski he has invited guests such as Diskohengst."
+  },
+  "alias": [
+   "Mikey Gee"
+  ],
+  "src": [
+   "https://ra.co/dj/mikeygee",
+   "https://de.ra.co/events/2014409"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Elasoul": {
+  "noImg": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/elasoul"
+  },
+  "src": [
+   "https://soundcloud.com/elasoul"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Felix Wolfs": {
+  "img": "https://static.ra.co/images/profiles/square/felixwolfs.jpg?dateUpdated=1793099552000",
+  "links": {
+   "ra": "https://ra.co/dj/felixwolfs",
+   "sc": "https://soundcloud.com/felixew99"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "In Wien lebender Balearic-House-DJ.",
+   "en": "Vienna-based balearic house DJ."
+  },
+  "genres": [
+   "Balearic House"
+  ],
+  "src": [
+   "https://ra.co/dj/felixwolfs"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Zeq": {
+  "img": "https://static.ra.co/images/profiles/square/zeq-1.jpg?dateUpdated=1770716614000",
+  "links": {
+   "ra": "https://ra.co/dj/zeq-1",
+   "sc": "https://soundcloud.com/NTcEbHatyWQtQmHOfe",
+   "ig": "https://www.instagram.com/zeq.music"
+  },
+  "real": "Paul Grüll",
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Österreichischer DJ, der u. a. im Werk, im PRST (Bassbussi Allstars), im Club Lucia und in der Grelle Forelle spielt.",
+   "en": "Austrian DJ who has played Das Werk, PRST (Bassbussi Allstars), Club Lucia and Grelle Forelle, among others."
+  },
+  "src": [
+   "https://ra.co/dj/zeq-1"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "DONAURAVE": {
+  "noImg": "2026-11-03",
+  "links": {
+   "sc": "https://soundcloud.com/donaurave",
+   "ig": "https://www.instagram.com/donaurave.wien/"
+  },
+  "src": [
+   "https://soundcloud.com/donaurave",
+   "https://www.instagram.com/donaurave.wien/"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "rambazambra": {
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "unselm": {
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "Observer": {
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "Shyborg": {
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "DJ Odd": {
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "dj-spike": {
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "LIVA": {
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "Grafenauer": {
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "Dj Ritual Spirit": {
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "Floreal": {
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  }
 };
 
