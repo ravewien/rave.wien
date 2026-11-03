@@ -12183,9 +12183,9 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "færo demonic": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "eira haul": {
   "img": "https://static.ra.co/images/profiles/square/eirahaul.jpg?dateUpdated=1772077947010",
@@ -12231,9 +12231,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Franky": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "En:vy": {
   "img": "https://criticalmusic.com/wp-content/uploads/2025/12/Photo_envy-400x400.jpg",
@@ -12410,9 +12410,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Gomez & Nickfried": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Ironica Los Culos": {
   "links": {
@@ -12433,9 +12433,9 @@ const AR={
   "noImg": "2026-11-03"
  },
  "Fairy Mary": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Egorythmia": {
   "links": {
@@ -12595,9 +12595,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Jule Feser": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Fede Frostl": {
   "img": "https://static.ra.co/images/profiles/square/fedefrostl.jpg?dateUpdated=1702403094000",
@@ -12653,9 +12653,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "finster": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Flo Førg": {
   "img": "https://static.ra.co/images/profiles/square/floforg.jpg?dateUpdated=1573430400000",
@@ -12991,24 +12991,24 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Stan Matan": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Saender": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Saratonin": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "SWEGALICIOUS": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Slack Hippy": {
   "links": {
@@ -13040,11 +13040,13 @@ const AR={
   "src": [
    "https://www.mixcloud.com/slackhippy/listens/",
    "https://elevate.at/websites/2009/en/music-arts/artists/artist-details/guests/slack-hippy/index.html%3Ftx_ttnews[backPid]=504&cHash=2314a0277ce4b76221b5ec51440fe7ae.html",
-   "https://soundcloud.com/slackhippy"
+   "https://soundcloud.com/slackhippy",
+   "https://www.mixcloud.com/slackhippy/slack-hippys-rest-fettn-home-disco-mix/"
   ],
   "setsChecked": "2026-11-02",
   "noImg": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "img": "https://thumbnailer.mixcloud.com/unsafe/290x290/profile/d/f/9/9/1a47-6b9a-47fa-affc-952c32d042d0.jpg"
  },
  "Station Rose": {
   "links": {
@@ -13086,9 +13088,9 @@ const AR={
   "img": "https://f4.bcbits.com/img/0029226117_10.jpg"
  },
  "Sluzy": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Splinta": {
   "noImg": "2026-11-02",
@@ -13333,14 +13335,14 @@ const AR={
   "src": [
    "https://de.ra.co/events/1787089"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "AE-X": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "B.visible": {
   "img": "https://f4.bcbits.com/img/0044756308_21.jpg",
@@ -13751,14 +13753,14 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "ARAS JE'TÄM": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Ave Maria": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Breeze": {
   "infoChk": "2026-11-03",
@@ -13906,9 +13908,9 @@ const AR={
   }
  },
  "Armin Karmin": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "AKOV": {
   "img": "https://f4.bcbits.com/img/0037136745_10.jpg",
@@ -14054,7 +14056,8 @@ const AR={
  },
  "Kjaer": {
   "links": {
-   "sc": "https://soundcloud.com/kjaer_music"
+   "sc": "https://soundcloud.com/kjaer_music",
+   "ig": "https://www.instagram.com/kjaer_music/"
   },
   "from": {
    "de": "Österreich",
@@ -14086,8 +14089,8 @@ const AR={
    "https://www.theloft.at/sub-zero/"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
  },
  "Ludviq": {
   "img": "https://static.ra.co/images/profiles/square/ludviq.jpg?dateUpdated=1695899307000",
@@ -14335,9 +14338,9 @@ const AR={
   ]
  },
  "Kmanxak": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "LaLa": {
   "infoChk": "2026-11-03",
@@ -14355,9 +14358,9 @@ const AR={
   ]
  },
  "Leanne": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "L3nny": {
   "infoChk": "2026-11-03",
@@ -14738,14 +14741,14 @@ const AR={
   "img": "https://i.scdn.co/image/ab6761610000e5eb6edd94c9c9efd85879f24bd5"
  },
  "DJEENI": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Crnobrnja": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Cosmic Gate": {
   "img": "https://i.scdn.co/image/ab6761610000e5eb715f2b0a098b31ba36e14876",
@@ -14789,9 +14792,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Christella": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "DJ Keshi": {
   "img": "https://static.ra.co/images/profiles/square/djkeshi.jpg?dateUpdated=1793569898640",
@@ -15425,39 +15428,39 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "OK CUTEE": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Paul Galbur": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Romanova": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "_ra_di_aa_ti_on_": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Nysos": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Nova.psd": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "neomodern": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Ruben de Ronde": {
   "img": "https://static.ra.co/images/profiles/square/rubenderonde.jpg?dateUpdated=1778148207227",
@@ -15525,9 +15528,9 @@ const AR={
   ]
  },
  "Rosi": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Rosa Nebel": {
   "img": "https://f4.bcbits.com/img/0031729466_10.jpg",
@@ -16057,9 +16060,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Young Sun": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Tomasz Guiddo": {
   "img": "https://static.ra.co/images/profiles/guiddo.jpg?dateUpdated=1567641600000",
@@ -16216,9 +16219,9 @@ const AR={
   "setsChecked": "2026-11-03"
  },
  "WNR": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Tündérke": {
   "links": {
@@ -16574,9 +16577,9 @@ const AR={
   ]
  },
  "missantroop": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "MAWU": {
   "infoChk": "2026-11-03",
