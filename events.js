@@ -9477,7 +9477,7 @@ const AR={
    "https://ra.co/promoters/196602",
    "https://soundcloud.com/callshopradio/cafe-mondo-081224"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "sets": [
    {
     "t": "Café Mondo 19.01.25 (Callshop Radio)",
@@ -9488,7 +9488,11 @@ const AR={
     "u": "https://soundcloud.com/callshopradio/cafe-mondo-081224"
    }
   ],
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  }
  },
  "AudioDevice": {
   "noImg": "2026-11-02",
@@ -10851,7 +10855,30 @@ const AR={
  "Andrea Ida": {
   "noImg": "2026-11-02",
   "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "img": "https://elevate.at/websites/2023/elevate.at/fileadmin/EIS_images/artist/2306/8147-detail_andreaida_by_annabreit.jpg",
+  "links": {
+   "sc": "https://soundcloud.com/ae-ida",
+   "ig": "https://www.instagram.com/andrea_ida/"
+  },
+  "genres": [
+   "Ambient",
+   "Experimental"
+  ],
+  "bio": {
+   "de": "Andrea Ida ist DJ und Plattensammlerin; Mixtapes aufzunehmen ist für sie eine nie versiegende Quelle der Faszination. Ihre Sets reichen von Ambient, Dub und Electronics der frühen 90er über Experimental, Folk, Jazz-, Kraut- und Post-Rock bis zu New/Minimal Wave, Post-Punk und Synth-Pop. 2023 spielte sie beim elevate Festival in Graz; auf NTS war sie mit Adam Oko zu hören.",
+   "en": "Andrea Ida is a DJ and record collector for whom recording mixtapes is a never-fading source of fascination. Her sets range from ambient, dub and early-90s electronics through experimental, folk, jazz, krautrock and post-rock to new/minimal wave, post-punk and synth-pop. She played elevate Festival in Graz in 2023 and appeared on NTS with Adam Oko."
+  },
+  "sets": [
+   {
+    "t": "Adam Oko with Andrea Ida – NTS",
+    "u": "https://soundcloud.com/ae-ida/adam-oko-with-andrea-ida"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://elevate.at/websites/2023/elevate.at/en/music/artists/andrea_ida/index.html"
+  ]
  },
  "Philipp Otterbach": {
   "from": {
@@ -11105,7 +11132,7 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Xavior": {
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "img": "https://static.ra.co/images/profiles/square/ephemer-4.jpg?dateUpdated=1769514906763",
   "links": {
    "ra": "https://ra.co/dj/ephemer-4",
@@ -11128,7 +11155,11 @@ const AR={
    "https://de.ra.co/dj/ephemer-4/biography",
    "https://soundcloud.com/ephemer95",
    "https://ra.co/events/2476015"
-  ]
+  ],
+  "from": {
+   "de": "Asunción (Paraguay)",
+   "en": "Asunción, Paraguay"
+  }
  },
  "PartyPauli": {
   "noImg": "2026-11-03",
@@ -11354,9 +11385,24 @@ const AR={
   ]
  },
  "Baba Sound": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna, Austria"
+  },
+  "genres": [
+   "Reggae",
+   "Dancehall"
+  ],
+  "bio": {
+   "de": "Baba Sound ist ein Wiener Reggae- und Dancehall-Soundsystem um Selector DJ Kutta, der bereits 2001 eine der ersten wöchentlichen Dancehall-Clubnächte in Wien veranstaltete. Das Soundsystem spielte u. a. beim Rototom Sunsplash sowie in Deutschland, Ungarn, der Slowakei und Bulgarien; Kutta legte 2006–2008 auch bei einem Soundsystem in Jamaika auf. Mit eigenen Boxen und Verstärkern veranstaltet Baba Sound Dances für die austro-jamaikanische Community.",
+   "en": "Baba Sound is a Vienna reggae and dancehall sound system led by selector DJ Kutta, who started one of Vienna's first weekly dancehall club nights back in 2001. The sound has played Rototom Sunsplash as well as in Germany, Hungary, Slovakia and Bulgaria; Kutta also played with a local sound system in Jamaica from 2006 to 2008. With its own speakers and amps, Baba Sound hosts dances for the Austro-Jamaican community."
+  },
+  "src": [
+   "https://www.partyvibe.com/?p=1976"
+  ]
  },
  "Kings Crown Sound": {
   "noImg": "2026-11-02",
@@ -11371,7 +11417,26 @@ const AR={
  "Royal Marx Sound": {
   "noImg": "2026-11-02",
   "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "img": "https://f4.bcbits.com/img/0031141963_2.jpg",
+  "from": {
+   "de": "Kettering (UK)",
+   "en": "Kettering, UK"
+  },
+  "genres": [
+   "Reggae"
+  ],
+  "links": {
+   "bc": "https://royalmarxsoundsystem.bandcamp.com",
+   "web": "https://www.royal-marx.com"
+  },
+  "bio": {
+   "de": "Royal Marx Soundsystem wurde 2014 in Kettering (England) von Mista Sensi gegründet, einem ehemaligen DJ und Radiomoderator mit Hintergrund in der britischen Urban-Music-Szene. Ziel des Sounds ist es, positive Reggae-Vibes so weit wie möglich zu verbreiten. Auf Bandcamp erschien u. a. „Badda General Meets Sparky Rugged Inna Soundsystem Style“.",
+   "en": "Royal Marx Soundsystem was founded in 2014 in Kettering, England, by Mista Sensi, a former DJ and radio host with a background in the UK urban music scene. Its mission is to spread the positive vibes of reggae music as far and wide as possible. Releases on Bandcamp include 'Badda General Meets Sparky Rugged Inna Soundsystem Style'."
+  },
+  "src": [
+   "https://royalmarxsoundsystem.bandcamp.com/community"
+  ]
  },
  "G Spot Sound": {
   "from": {
@@ -11536,7 +11601,7 @@ const AR={
  },
  "Escapism": {
   "noImg": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/escapismdnb"
   },
@@ -11566,7 +11631,11 @@ const AR={
    "https://soundcloud.com/escapismdnb",
    "https://soundcloud.com/escapismdnb/fm4-february-2021",
    "https://soundcloud.com/escapismdnb/pandorasplayground96"
-  ]
+  ],
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  }
  },
  "Synthesis": {
   "noImg": "2026-11-02",
