@@ -15778,6 +15778,548 @@ const AR={
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
   "infoChk": "2026-11-03"
+ },
+ "meet.franka": {
+  "img": "https://static.ra.co/images/profiles/square/meetfranka.jpg?dateUpdated=1736168997000",
+  "links": {
+   "sc": "https://soundcloud.com/meetfranka",
+   "ra": "https://ra.co/dj/meetfranka"
+  },
+  "alias": [
+   "MeetFranca"
+  ],
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Wiener DJ, die sich selbst „zwischen Pet Shop Boys & Berghain“ verortet. Spielt u. a. bei Kein Sonntag ohne Techno, im SASS Music Club und in der Grelle Forelle und war bei Res.Radio (Turntablista Showcase) zu Gast.",
+   "en": "Vienna-based DJ who describes her sound as “between Pet Shop Boys & Berghain”. She plays at Kein Sonntag ohne Techno, SASS Music Club and Grelle Forelle and has guested on Res.Radio (Turntablista Showcase)."
+  },
+  "sets": [
+   {
+    "t": "Kein Sonntag Ohne Techno NYE 2024 @ Cobenzl – MeetFranka",
+    "u": "https://soundcloud.com/meetfranka/kein-sonntag-ohne-techno-nye-2024-cobenzl-meetfranka"
+   },
+   {
+    "t": "Turntablista Showcase #16 w/ MeetFranca (Res.Radio)",
+    "u": "https://soundcloud.com/resradio/turntablista-showcase-16-w-meetfranca"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/meetfranka",
+   "https://soundcloud.com/meetfranka"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Rosa Rosen": {
+  "img": "https://static.ra.co/images/profiles/square/rosarosen.jpg?dateUpdated=1746695499000",
+  "links": {
+   "sc": "https://soundcloud.com/rosarosen",
+   "ig": "https://www.instagram.com/leonirosarosen",
+   "ra": "https://ra.co/dj/rosarosen"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Wiener DJ, bekannt für feines musikalisches Gespür und ansteckende Energie. Spielt regelmäßig in Pratersauna, PRST und Gleis19, mixte für FM4 La Boum de Luxe und legt mit Umberto Gollini als „Family Affair“ auf.",
+   "en": "Vienna-based DJ known for her finely tuned musical intuition and infectious energy. She plays regularly at Pratersauna, PRST and Gleis19, has recorded a mix for FM4 La Boum de Luxe and performs with Umberto Gollini as “Family Affair”."
+  },
+  "sets": [
+   {
+    "t": "MFG #10 w/ Rosa Rosen (Res.Radio)",
+    "u": "https://soundcloud.com/resradio/mfg-10-w-rosa-rosen"
+   },
+   {
+    "t": "FM4 La Boum de Luxe Mix – Rosa Rosen",
+    "u": "https://soundcloud.com/rosarosen/fm4-la-boum-de-luxe-rosa-rosen"
+   },
+   {
+    "t": "Rosa Rosen – Radio Rudina",
+    "u": "https://soundcloud.com/radiorudina/rosa-rosen-radio-rudina"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/rosarosen",
+   "https://soundcloud.com/rosarosen"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Phace": {
+  "img": "https://static.ra.co/images/profiles/square/phace.jpg?dateUpdated=1488820419353",
+  "links": {
+   "sc": "https://soundcloud.com/phace",
+   "ra": "https://ra.co/dj/phace"
+  },
+  "real": "Florian Harres",
+  "from": {
+   "de": "Hamburg",
+   "en": "Hamburg"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Neosignal",
+   "Critical Music"
+  ],
+  "bio": {
+   "de": "Drum-&-Bass-Produzent, DJ und Labelbetreiber aus Hamburg, Gründer von Neosignal. Gilt als wegweisend und progressiv; veröffentlichte u. a. die Alben „Psycho“, „From Deep Space“, „Raum und Zeit“ und „Shape the Random“, auch auf Critical Music.",
+   "en": "Drum & bass producer, DJ and label owner from Hamburg, founder of Neosignal. Regarded as pioneering and progressive, he has released the albums “Psycho”, “From Deep Space”, “Raum und Zeit” and “Shape the Random”, also on Critical Music."
+  },
+  "src": [
+   "https://ra.co/dj/phace",
+   "https://ra.co/dj/phace/biography"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Misanthrop": {
+  "img": "https://static.ra.co/images/profiles/square/misanthrop.jpg?dateUpdated=1652813881000",
+  "links": {
+   "sc": "https://soundcloud.com/misanthropnsgnl",
+   "ra": "https://ra.co/dj/misanthrop"
+  },
+  "from": {
+   "de": "Süddeutschland",
+   "en": "Southern Germany"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Neosignal",
+   "RAM",
+   "Shogun Audio",
+   "Blackout",
+   "Division",
+   "OWSLA",
+   "Mau5trap",
+   "Renegade Hardware"
+  ],
+  "bio": {
+   "de": "Experimentierfreudiger Drum-&-Bass-Produzent und DJ aus Süddeutschland, seit den frühen 90ern im Genre aktiv. Mitbetreiber von Neosignal; Releases u. a. auf RAM, Shogun Audio, Blackout, OWSLA und Mau5trap.",
+   "en": "Experimental drum & bass producer and DJ from southern Germany, active in the genre since the early nineties. Co-runs Neosignal; releases on RAM, Shogun Audio, Blackout, OWSLA and Mau5trap among others."
+  },
+  "src": [
+   "https://ra.co/dj/misanthrop/biography",
+   "https://soundcloud.com/misanthropnsgnl"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Rockwell": {
+  "img": "https://static.ra.co/images/profiles/rockwell.jpg?dateUpdated=1480414282470",
+  "links": {
+   "sc": "https://soundcloud.com/rockwell",
+   "ra": "https://ra.co/dj/rockwell"
+  },
+  "real": "Thomas Green",
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Shogun Audio",
+   "Critical Music",
+   "Digital Soundboy",
+   "Darkestral Recordings",
+   "Renegade Hardware"
+  ],
+  "bio": {
+   "de": "Britischer Drum-&-Bass-Produzent und DJ, bekannt für energiegeladene, experimentelle Tracks mit wechselnden Tempi. Releases auf Critical, Digital Soundboy, Renegade Hardware und Shogun Audio, darunter „Detroit“ und das Debütalbum „Obsolete Medium“ (2015); hatte eine eigene Show auf BBC Radio 1.",
+   "en": "British drum & bass producer and DJ known for high-energy, experimental tracks with shifting tempos. Releases on Critical, Digital Soundboy, Renegade Hardware and Shogun Audio, including “Detroit” and the debut album “Obsolete Medium” (2015); he also hosted a show on BBC Radio 1."
+  },
+  "src": [
+   "https://ra.co/dj/rockwell",
+   "https://ra.co/dj/rockwell/biography"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Oliver Rottmann": {
+  "img": "https://static.ra.co/images/profiles/oliverrottmann.jpg?dateUpdated=1437495161847",
+  "links": {
+   "sc": "https://soundcloud.com/oliverrottmann",
+   "ra": "https://ra.co/dj/oliverrottmann"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "House",
+   "Deep House",
+   "Techno"
+  ],
+  "bio": {
+   "de": "In Wien geborener und aufgewachsener DJ, der mit 18 zur elektronischen Musik kam. Inspiriert von Berliner Labels spielt er zwischen House, melodischem Deep House und Techno; vom Keller-Rave ging es in Clubs wie Pratersauna und Flex, als Support für u. a. Dominik Eulberg und Oliver Koletzki.",
+   "en": "DJ born and raised in Vienna who discovered electronic music at 18. Inspired by Berlin labels, he plays between house, melodic deep house and techno; from basement parties he moved on to clubs such as Pratersauna and Flex, supporting acts like Dominik Eulberg and Oliver Koletzki."
+  },
+  "sets": [
+   {
+    "t": "Camel Riders Trips 026 – Oliver Rottmann",
+    "u": "https://soundcloud.com/camelridersrec/camelriders-podcast-mixed-by-oliver-rottmann"
+   },
+   {
+    "t": "Oliver Rottmann – 2.8.7E4 (Kollektiv Liebe Podcast 93)",
+    "u": "https://soundcloud.com/kollektiv-liebe/oliver-rottmann-287e4-kollektivliebe-podcast93"
+   },
+   {
+    "t": "DJ Set @ Als die Menschen die Stadt verließen 2019",
+    "u": "https://soundcloud.com/oliverrottmann/dj-set-als-die-menschen-die-stadt-verliesen-2019"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/oliverrottmann/biography",
+   "https://soundcloud.com/oliverrottmann"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Visages": {
+  "img": "https://static.ra.co/images/profiles/square/visages.jpg?dateUpdated=1719934936000",
+  "links": {
+   "ra": "https://ra.co/dj/visages"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "1985 Music",
+   "Shogun Audio",
+   "Dispatch Recordings",
+   "Flexout Audio",
+   "Integral Records"
+  ],
+  "bio": {
+   "de": "Französisches Drum-&-Bass-Projekt mit Releases auf 1985 Music, Shogun Audio, Dispatch Recordings, Flexout Audio und Integral Records. In Wien regelmäßig bei Contrast in der Grelle Forelle zu Gast.",
+   "en": "French drum & bass project with releases on 1985 Music, Shogun Audio, Dispatch Recordings, Flexout Audio and Integral Records. A regular guest at Contrast in Vienna’s Grelle Forelle."
+  },
+  "src": [
+   "https://ra.co/dj/visages"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Wolfram": {
+  "img": "https://static.ra.co/images/profiles/wolfram.jpg?dateUpdated=1296649343000",
+  "links": {
+   "ra": "https://ra.co/dj/wolfram"
+  },
+  "alias": [
+   "Diskokaine",
+   "marfloW"
+  ],
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "Disco",
+   "Electro"
+  ],
+  "labels": [
+   "Permanent Vacation",
+   "DFA Records",
+   "Mute Records",
+   "Gomma",
+   "Crème Organization",
+   "Diskokaine"
+  ],
+  "bio": {
+   "de": "Österreichischer Produzent und DJ, auch als Diskokaine bekannt. Veröffentlichte u. a. auf Permanent Vacation, DFA, Mute, Gomma und Crème Organization und spielt seit den 2000ern in Pratersauna, Grelle Forelle sowie in New York, Berlin und Paris.",
+   "en": "Austrian producer and DJ, also known as Diskokaine. He has released on Permanent Vacation, DFA, Mute, Gomma and Crème Organization and has played Pratersauna and Grelle Forelle as well as New York, Berlin and Paris since the 2000s."
+  },
+  "src": [
+   "https://ra.co/dj/wolfram"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Johannes Schuster": {
+  "img": "https://static.ra.co/images/profiles/johannesschuster.jpg?dateUpdated=1692784872000",
+  "links": {
+   "sc": "https://soundcloud.com/johannes-schuster",
+   "ra": "https://ra.co/dj/johannesschuster"
+  },
+  "genres": [
+   "Hard Techno",
+   "Acid",
+   "Techno"
+  ],
+  "labels": [
+   "Soma",
+   "Green Fetish",
+   "NineTimesNine",
+   "Voxnox",
+   "RND Records",
+   "Märked"
+  ],
+  "bio": {
+   "de": "DJ und Produzent, der seit seinem 15. Lebensjahr auflegt und Vinyl sammelt. Seine Sets verbinden dunkle, industrielle Tracks mit emotionalen Pads, Acid und Old-School-Grooves; Releases auf Soma, Green Fetish, NineTimesNine und Voxnox. Resident bei 303 im Artheater und bei Unreal im Bootshaus Köln, in Wien regelmäßig all night long bei Impulse.",
+   "en": "DJ and producer who has been DJing and collecting vinyl since the age of 15. His sets blend dark, industrial tracks with emotional pads, acid and old-school grooves; releases on Soma, Green Fetish, NineTimesNine and Voxnox. Resident at 303 at Artheater and Unreal at Bootshaus Cologne, and a regular all-night-long guest at Impulse in Vienna."
+  },
+  "sets": [
+   {
+    "t": "Johannes Schuster at Baum Festival x Unreal – Bogotá 2026",
+    "u": "https://soundcloud.com/johannes-schuster/johannes-schuster-baum"
+   },
+   {
+    "t": "#SlamRadio 518 – Johannes Schuster",
+    "u": "https://soundcloud.com/slam_djs/slamradio-518-johannes-schuster"
+   },
+   {
+    "t": "Techno Germany Podcast 031 – Johannes Schuster",
+    "u": "https://soundcloud.com/technogermany/johannes-schuster-techno-germany-podcast-031"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/johannesschuster/biography",
+   "https://soundcloud.com/johannes-schuster"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Aida Arko": {
+  "img": "https://static.ra.co/images/profiles/square/aidaarko.jpg?dateUpdated=1604793600000",
+  "links": {
+   "sc": "https://soundcloud.com/aida-arko",
+   "ra": "https://ra.co/dj/aidaarko"
+  },
+  "from": {
+   "de": "Wien/Berlin",
+   "en": "Vienna/Berlin"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "HEKATE Records",
+   "Soma Records",
+   "Techno Germany"
+  ],
+  "bio": {
+   "de": "Techno-Produzentin und DJ mit persischen Wurzeln, lebt zwischen Wien und Berlin. Ihr Sound reicht von intensiven Soundscapes bis zu energiegeladenen Rave-Tracks; Releases auf HEKATE und Soma, Auftritte u. a. bei Boiler Room, Terminal V, Fold und RSO. Resident in der Grelle Forelle sowie bei Gegen und NoGender.",
+   "en": "Techno producer and DJ with Persian roots, based between Vienna and Berlin. Her sound ranges from intense soundscapes to high-energy rave tracks; releases on HEKATE and Soma, with appearances at Boiler Room, Terminal V, Fold and RSO. Resident at Grelle Forelle as well as Gegen and NoGender."
+  },
+  "sets": [
+   {
+    "t": "#SlamRadio 461 – Aida Arko",
+    "u": "https://soundcloud.com/slam_djs/slamradio-461-aida-arko"
+   },
+   {
+    "t": "Techno Germany Podcast 216 – Aida Arko",
+    "u": "https://soundcloud.com/technogermany/aida-arko-techno-germany"
+   },
+   {
+    "t": "BCCO Mix Series 177: Aida Arko",
+    "u": "https://soundcloud.com/bcco/aida-arko"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/aidaarko/biography",
+   "https://soundcloud.com/aida-arko"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Emperor": {
+  "links": {
+   "sc": "https://soundcloud.com/the_emperor"
+  },
+  "from": {
+   "de": "Yorkshire (England)",
+   "en": "Yorkshire (England)"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Critical Music",
+   "Neosignal",
+   "Inspected",
+   "Symmetry Recordings"
+  ],
+  "bio": {
+   "de": "Drum-&-Bass-Produzent und DJ aus Yorkshire, bekannt für rauen, mechanischen Sound. Releases auf Critical Music (u. a. „Bloodsport“ EP), Neosignal, Inspected und Symmetry; in Wien regelmäßig bei Contrast in der Grelle Forelle.",
+   "en": "Drum & bass producer and DJ from Yorkshire known for gritty, mechanical dynamics. Releases on Critical Music (including the “Bloodsport” EP), Neosignal, Inspected and Symmetry; a regular at Contrast in Vienna’s Grelle Forelle."
+  },
+  "src": [
+   "https://ukf.com/artist/emperor",
+   "https://soundcloud.com/the_emperor"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
+ },
+ "Franjazzco": {
+  "img": "https://static.ra.co/images/profiles/franjazzco.jpg?dateUpdated=1382477246000",
+  "links": {
+   "sc": "https://soundcloud.com/franjazzco",
+   "ra": "https://ra.co/dj/franjazzco",
+   "web": "https://www.franjazzco.com"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Juke",
+   "Footwork",
+   "Bass"
+  ],
+  "labels": [
+   "disko404",
+   "Footwork Frenzy",
+   "Balkan Kolektiv Records",
+   "temp~"
+  ],
+  "bio": {
+   "de": "Wiener DJ und Produzent, seit 1995 aktiv – auch als Veranstalter und Radiomoderator. Als DJ spannt er den Bogen von Jazz, Funk und Hip-Hop über House und Techno bis zu Bass Music; als Produzent widmet er sich vor allem Chicago Juke und Footwork, mit Releases auf disko404, World Wide Juke und seinem Label Footwork Frenzy.",
+   "en": "Viennese DJ and producer active since 1995, also as a promoter and radio host. His DJ sets range from jazz, funk and hip-hop to house, techno and bass music; as a producer he focuses on Chicago juke and footwork, with releases on disko404, World Wide Juke and his own label Footwork Frenzy."
+  },
+  "sets": [
+   {
+    "t": "DJ-Set @ Bassic Instinct – Himmel & Wasser Vienna 2025-05-30",
+    "u": "https://soundcloud.com/franjazzco/dj-set-bassic-instinct-himmelwasser-vienna-2025-05-30"
+   },
+   {
+    "t": "Juno Download Guest Mix – Franjazzco (Footwork Frenzy)",
+    "u": "https://soundcloud.com/juno-download/juno-download-guest-mix-franjazzco-footwork-frenzy"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/franjazzco/biography",
+   "https://soundcloud.com/franjazzco"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Mischa Beton": {
+  "img": "https://static.ra.co/images/profiles/square/mischabeton.jpg?dateUpdated=1759053500120",
+  "links": {
+   "sc": "https://soundcloud.com/mischabeton",
+   "ig": "https://www.instagram.com/mischa_beton",
+   "ra": "https://ra.co/dj/mischabeton"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Wiener Techno-DJ, die über das PUSH – Female DJ Network FLINTA*-DJs in ganz Europa vernetzt. Spielt regelmäßig in der Grelle Forelle (u. a. Fish Market, PUSH), im Das Werk und im Tresor Berlin.",
+   "en": "Vienna-based techno DJ who connects FLINTA* DJs across Europe through PUSH – Female DJ Network. She plays regularly at Grelle Forelle (Fish Market, PUSH), Das Werk and Tresor Berlin."
+  },
+  "sets": [
+   {
+    "t": "Mischa Beton – Closing PUSH x Grelle Forelle 2.5.2025",
+    "u": "https://soundcloud.com/push_femaledjnetwork/mischa-beton-closing-push-x-grelle-forelle-252025"
+   },
+   {
+    "t": "Mischa Beton @ Tresor Berlin, 9.10.2024, Opening",
+    "u": "https://soundcloud.com/mischabeton/mischa-beton-tresor-berlin-opening-push-9102024"
+   },
+   {
+    "t": "Mischa Beton @ Fish Market / Grelle Forelle, 18.11.22",
+    "u": "https://soundcloud.com/mischabeton/mischa-beton-fish-market-grelle-forelle-vienna-181122"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/mischabeton",
+   "https://soundcloud.com/mischabeton"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Vich Mind": {
+  "img": "https://static.ra.co/images/profiles/square/vichmind.jpg?dateUpdated=1769800988860",
+  "links": {
+   "sc": "https://soundcloud.com/vichmind",
+   "ig": "https://www.instagram.com/vichmind",
+   "ra": "https://ra.co/dj/vichmind",
+   "web": "https://vich.info"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "In Berlin lebender DJ, der vor allem in Wien und Berlin auflegt – meist in der Grelle Forelle (Fish Market, PUSH) und im Das Werk. Mixe u. a. für HER Transmission, CRUDE und PUSH invites.",
+   "en": "Berlin-based DJ who plays mostly in Vienna and Berlin, above all at Grelle Forelle (Fish Market, PUSH) and Das Werk. Mixes for HER Transmission, CRUDE and PUSH invites."
+  },
+  "sets": [
+   {
+    "t": "CRUDE MIX 185 – Vich Mind",
+    "u": "https://soundcloud.com/crudeberlin/crude-mix-185-vich-mind"
+   },
+   {
+    "t": "HER Transmission 178: Vich Mind",
+    "u": "https://soundcloud.com/hermusicequality/178-vich-mind"
+   },
+   {
+    "t": "PUSH invites Vich Mind – 003",
+    "u": "https://soundcloud.com/push_femaledjnetwork/push-invites-vich-mind-003"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/vichmind",
+   "https://soundcloud.com/vichmind"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "KTK": {
+  "img": "https://static.ra.co/images/profiles/square/ktkde.jpg?dateUpdated=1778571006853",
+  "links": {
+   "sc": "https://soundcloud.com/djktk1111",
+   "ig": "https://www.instagram.com/djktk1111",
+   "ra": "https://ra.co/dj/ktkde"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Techno",
+   "Acid"
+  ],
+  "labels": [
+   "Misguided",
+   "Mama told ya",
+   "Embargo"
+  ],
+  "bio": {
+   "de": "Deutscher Techno-DJ mit Releases auf Misguided, Mama told ya und Embargo. Spielt oft gemeinsam mit DLV, u. a. bei Misguided und dem Acid Techno Techno Club; meistbespielte Clubs sind RSO.BERLIN, Bunker, Grelle Forelle und OST.",
+   "en": "German techno DJ with releases on Misguided, Mama told ya and Embargo. Often plays alongside DLV, including at Misguided and Acid Techno Techno Club; most-played clubs include RSO.BERLIN, Bunker, Grelle Forelle and OST."
+  },
+  "sets": [
+   {
+    "t": "Techno Germany Podcast 188 – KTK",
+    "u": "https://soundcloud.com/technogermany/ktk-techno-germany-podcast-188"
+   },
+   {
+    "t": "ODYSSEY056: KTK",
+    "u": "https://soundcloud.com/transition_ofc/odyssey056"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/ktkde",
+   "https://soundcloud.com/djktk1111"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
  }
 };
 
