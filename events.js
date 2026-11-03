@@ -24694,6 +24694,890 @@ const AR={
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
   "setsChecked": "2026-11-03"
+ },
+ "SMG": {
+  "img": "https://static.ra.co/images/profiles/square/smguk.jpg?dateUpdated=1768817313000",
+  "links": {
+   "ra": "https://ra.co/dj/smguk",
+   "sc": "https://soundcloud.com/smg_dnb"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "real": "Jamie Le Brocq",
+  "labels": [
+   "Critical Music"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "SMG ist ein Drum-&-Bass-Produzent und DJ aus dem Vereinigten Königreich, der für dunklen, intensiven Drum & Bass steht. Er veröffentlicht unter anderem auf Critical Music und ist für sein hohes Release-Tempo bekannt.",
+   "en": "SMG is a UK drum & bass producer and DJ known for dark, intense drum & bass. He releases on Critical Music, among others, and is known for a prolific release schedule."
+  },
+  "src": [
+   "https://ra.co/dj/smguk"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Lacchesi": {
+  "img": "https://static.ra.co/images/profiles/square/lacchesi.jpg?dateUpdated=1786014069213",
+  "links": {
+   "ra": "https://ra.co/dj/lacchesi",
+   "sc": "https://soundcloud.com/lorenzolacchesi",
+   "bc": "https://maisoncloserecords.bandcamp.com",
+   "sp": "https://open.spotify.com/intl-fr/artist/5o4fyrhry7bjanrortj5qs"
+  },
+  "from": {
+   "de": "Paris, Frankreich",
+   "en": "Paris, France"
+  },
+  "real": "Lorenzo Lacchesi",
+  "labels": [
+   "Maison Close",
+   "Bipolar Disorder",
+   "Mama told ya",
+   "KR Records",
+   "EXTRA ENERGY",
+   "Matière"
+  ],
+  "bio": {
+   "de": "Lacchesi ist ein französischer DJ, Produzent elektronischer Musik und Labelbetreiber mit Sitz in Paris. Er veröffentlichte unter anderem auf Bipolar Disorder, Mama told ya, KR Records und Matière und betreibt das Label Maison Close.",
+   "en": "Lacchesi is a Paris-based French DJ, electronic music producer and label owner. He has released on labels such as Bipolar Disorder, Mama told ya, KR Records and Matière and runs the label Maison Close."
+  },
+  "sets": [
+   {
+    "t": "LACCHESI – Intake Paris – DJ Set",
+    "u": "https://soundcloud.com/intake-music-998517119/m_intake_s13_lacchesi"
+   },
+   {
+    "t": "ANTIVERSE 3JUNE23: LACCHESI (3hours set) – Carbone club Paris",
+    "u": "https://soundcloud.com/antiverseworld/antiverse-3june23-lacchesi-3hours-set-carbone-club-paris"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/lacchesi"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Justin Jay": {
+  "img": "https://static.ra.co/images/profiles/square/justinjay.jpg?dateUpdated=1760646902810",
+  "links": {
+   "ra": "https://ra.co/dj/justinjay",
+   "sc": "https://soundcloud.com/justin-jay",
+   "ig": "https://www.instagram.com/justinjaymusic",
+   "bc": "https://cleanenergy.bandcamp.com"
+  },
+  "from": {
+   "de": "USA",
+   "en": "USA"
+  },
+  "labels": [
+   "Club Heart Broken",
+   "RAW",
+   "Hot Meal Records"
+  ],
+  "genres": [
+   "House",
+   "Techno"
+  ],
+  "bio": {
+   "de": "Justin Jay ist ein DJ und Produzent aus den USA, der nach eigener Beschreibung lustigen, groovigen House und Techno mit ein paar Überraschungen spielt. Releases erschienen unter anderem auf Club Heart Broken, RAW und Hot Meal Records; mit der Reihe „Fantastic Voyage“ veröffentlicht er eigene Mixe.",
+   "en": "Justin Jay is a US DJ and producer who, in his own words, plays fun, groovy house and techno with some surprises. He has released on labels such as Club Heart Broken, RAW and Hot Meal Records and publishes his own mixes under the Fantastic Voyage banner."
+  },
+  "sets": [
+   {
+    "t": "Fantastic Voyage House Party Mix",
+    "u": "https://soundcloud.com/justin-jay/fantastic-voyage-mix"
+   },
+   {
+    "t": "Edible Beats #135 guest mix from Justin Jay",
+    "u": "https://soundcloud.com/eatseverything/edible-beats-135-guest-mix-from-justin-jay"
+   },
+   {
+    "t": "Justin Jay – dirtybird Halloweend Mix",
+    "u": "https://soundcloud.com/dirtybirdrecords/justin-jay-dirtybird"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/justinjay"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Just Emma": {
+  "img": "https://static.ra.co/images/profiles/justemma.jpg?dateUpdated=1379976265000",
+  "links": {
+   "ra": "https://ra.co/dj/justemma",
+   "sc": "https://soundcloud.com/justemmaoffical"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Underyourskin Records",
+   "Katermukke",
+   "Atmosphere Records",
+   "Feines Tier",
+   "3000Grad Records"
+  ],
+  "bio": {
+   "de": "Just Emma ist ein Act aus Deutschland, der tiefe, melancholische elektronische Tracks produziert – nach eigener Aussage „wohnen sie über den Wolken und ihre Heimat ist das Meer“. Releases erschienen unter anderem auf Underyourskin, Katermukke, Feines Tier und 3000Grad.",
+   "en": "Just Emma is a German act producing deep, melancholic electronic tracks – in their own words, they 'live above the clouds and the sea is their home'. Releases have appeared on Underyourskin, Katermukke, Feines Tier and 3000Grad, among others."
+  },
+  "sets": [
+   {
+    "t": "Just Emma for Casa Jaguar",
+    "u": "https://soundcloud.com/casajaguartulum/just-emma-for-casa-jaguar"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/justemma",
+   "https://soundcloud.com/justemmaoffical"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Angiko": {
+  "img": "https://static.ra.co/images/profiles/square/angiko-2.jpg?dateUpdated=1746546661000",
+  "links": {
+   "ra": "https://ra.co/dj/angiko-2",
+   "sc": "https://soundcloud.com/angi-ko"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Angiko legt in Wien Techno auf und hat die Reihe Tohuwabohu mitgegründet sowie Theta Waves gegründet. Die meisten Auftritte finden im FLUCC statt, etwa bei deep cut und Tohuwabohu, dazu beim streamlines festival.",
+   "en": "Angiko is a Vienna-based techno DJ who co-founded the Tohuwabohu series and founded Theta Waves. Most appearances are at FLUCC, e.g. at deep cut and Tohuwabohu, as well as at streamlines festival."
+  },
+  "sets": [
+   {
+    "t": "Angiko – Streamlines Lichtbogen 14.12.2024 Set",
+    "u": "https://soundcloud.com/angi-ko/angiko-streamlines-lichtbogen-14122024-set"
+   },
+   {
+    "t": "Angiko – Sphericalifragilisticexpialidocious Set",
+    "u": "https://soundcloud.com/angi-ko/angiko-sphericalifragilisticexpialidocious-set"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/angiko-2"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Exonot": {
+  "links": {
+   "sc": "https://soundcloud.com/exonot"
+  },
+  "sets": [
+   {
+    "t": "Exonot – Tiefdruck Podcast #80",
+    "u": "https://soundcloud.com/tiefdrucksalzburgszg2020/exonot-tiefdruck-podcast-80"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "noImg": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/exonot"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Carmen Electro": {
+  "img": "https://static.ra.co/images/profiles/square/carmenelectro.jpg?dateUpdated=1782813511567",
+  "links": {
+   "ra": "https://ra.co/dj/carmenelectro",
+   "ig": "https://www.instagram.com/carmenelectro",
+   "sc": "https://soundcloud.com/carmenelectr0",
+   "bc": "https://kujerecords.bandcamp.com"
+  },
+  "alias": [
+   "C. Candy"
+  ],
+  "from": {
+   "de": "Finnland, lebt in Deutschland",
+   "en": "Finland, based in Germany"
+  },
+  "labels": [
+   "Seven"
+  ],
+  "genres": [
+   "Techno",
+   "House"
+  ],
+  "bio": {
+   "de": "Carmen Electro ist eine in Finnland geborene, in Deutschland lebende Vinyl-DJ, die auch unter dem Namen C. Candy auftritt. Sie spielt hypnotischen Techno und House und veröffentlicht unter anderem auf dem Berliner Label SEVEN.",
+   "en": "Carmen Electro is a Finnish-born, Germany-based vinyl DJ who also performs as C. Candy. She plays hypnotic techno and house and releases on the Berlin label SEVEN, among others."
+  },
+  "sets": [
+   {
+    "t": "Mix Series 434: Carmen Electro Plays House (SEVEN)",
+    "u": "https://soundcloud.com/sevenberlin/podcast-434-carmen-electro-plays-house"
+   },
+   {
+    "t": "Intercell.064 – Carmen Electro [vinyl set]",
+    "u": "https://soundcloud.com/intercell/intercell064-carmen-electro"
+   },
+   {
+    "t": "Vault Sessions #257 – Carmen Electro",
+    "u": "https://soundcloud.com/vault-sessions-collective/vault-sessions-257-carmen-electro"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/carmenelectro"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Withecker": {
+  "links": {
+   "sc": "https://soundcloud.com/withecker-1"
+  },
+  "real": "Zdeněk Vážan",
+  "from": {
+   "de": "Tschechien",
+   "en": "Czech Republic"
+  },
+  "genres": [
+   "Hard Techno",
+   "Techno"
+  ],
+  "bio": {
+   "de": "Withecker ist ein tschechischer Techno-DJ und Produzent. Er legt seit etwa 2001 auf, kam über Tribal- und Groove-Techno zum Hardtechno und produziert eigene Tracks, etwa für Battle Audio Records und Combat Skill.",
+   "en": "Withecker is a Czech techno DJ and producer. DJing since around 2001, he moved from tribal and groove techno to hard techno and produces his own tracks, released e.g. on Battle Audio Records and Combat Skill."
+  },
+  "sets": [
+   {
+    "t": "Podcast #17 – Withecker (CZ) – Audiocode Records",
+    "u": "https://soundcloud.com/audiocode/acpodcast-17-withecker"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "noImg": "2026-11-03",
+  "src": [
+   "https://goout.net/cs/withecker/pzvlfcg/",
+   "https://soundcloud.com/withecker-1"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Thea": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Frazi.er": {
+  "img": "https://static.ra.co/images/profiles/square/frazier-uk.jpg?dateUpdated=1709747025000",
+  "links": {
+   "ra": "https://ra.co/dj/frazier-uk",
+   "sc": "https://soundcloud.com/frazi_er",
+   "ig": "https://www.instagram.com/frazi.er"
+  },
+  "from": {
+   "de": "Schottland, Vereinigtes Königreich",
+   "en": "Scotland, United Kingdom"
+  },
+  "labels": [
+   "Suara",
+   "Second State",
+   "Mutual Rytm",
+   "Perc Trax",
+   "Crisis Of Man",
+   "Motech",
+   "Sleaze Records",
+   "Hydraulix Records",
+   "EXHALE Records"
+  ],
+  "genres": [
+   "Techno",
+   "Hardgroove"
+  ],
+  "bio": {
+   "de": "Frazi.er ist ein Techno-DJ und Produzent aus Schottland, bekannt für treibenden Techno und Hardgroove. Releases erschienen unter anderem auf Suara, Second State, Mutual Rytm und Perc Trax; mit Gary Beck bildet er das Duo DRUM.ARCHIVE und betreibt die Partyreihe Parallel Visions.",
+   "en": "Frazi.er is a Scottish techno DJ and producer known for driving techno and hardgroove. He has released on Suara, Second State, Mutual Rytm and Perc Trax, among others; with Gary Beck he forms the duo DRUM.ARCHIVE, and he runs the party series Parallel Visions."
+  },
+  "sets": [
+   {
+    "t": "45MIN RAVE WORK-OUT MIX",
+    "u": "https://soundcloud.com/frazi_er/45min-rave-work-out-mix"
+   },
+   {
+    "t": "MAXXIMUM RADIO x EXHALE: The Residency w/ Frazi.er",
+    "u": "https://soundcloud.com/exhaleofc/maxximum-radio-x-exhale-the-residency-w-frazier"
+   },
+   {
+    "t": "Global Vibe Radio 364 feat. Frazi.er",
+    "u": "https://soundcloud.com/6amgroup/global-vibe-radio-364-feat-frazier-exhale-hydraulix"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/frazier-uk",
+   "https://ra.co/news/80628"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Hannah mit Hut": {
+  "img": "https://static.ra.co/images/profiles/square/hannahmithut.jpg?dateUpdated=1728896553000",
+  "links": {
+   "ra": "https://ra.co/dj/hannahmithut",
+   "sc": "https://soundcloud.com/hannahmithut_musik",
+   "ig": "https://www.instagram.com/hannahmithut.musik"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "Hard Techno",
+   "Tekno",
+   "Psytrance"
+  ],
+  "bio": {
+   "de": "Hannah mit Hut ist eine österreichische DJ für Hardtechno, Tekno und Psytrance. Sie spielt in Wien vor allem im FLUCC, in der Pratersauna, im Werk, im Club Exil und in der Grellen Forelle.",
+   "en": "Hannah mit Hut is an Austrian hard techno, tekno and psytrance DJ. In Vienna she mostly plays at FLUCC, Pratersauna, Das Werk, Club Exil and Grelle Forelle."
+  },
+  "sets": [
+   {
+    "t": "Hannah mit Hut @ DiesDas MANGO (hausgemacht)",
+    "u": "https://soundcloud.com/hausgemachtinwien/hannah-mit-hut-diesdas-mango"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/hannahmithut"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Sungdi": {
+  "links": {
+   "sc": "https://soundcloud.com/sungdimusic"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Deep Tech",
+   "Minimal",
+   "House"
+  ],
+  "bio": {
+   "de": "Sungdi ist ein in Wien ansässiger Produzent mit deutschen, chinesischen und indonesischen Wurzeln, geboren in Belgien und aufgewachsen in Deutschland, Großbritannien und China. Nach Experimenten mit rollenden Basslines und funky Stabs fand er zu Deep Tech, Minimal und House.",
+   "en": "Sungdi is a Vienna-based producer with German, Chinese and Indonesian roots, born in Belgium and raised in Germany, the UK and China. After experimenting with rolling basslines and funky stabs he moved towards deep tech, minimal and house."
+  },
+  "sets": [
+   {
+    "t": "90s rave stab techno mix",
+    "u": "https://soundcloud.com/sungdimusic/fastertechno"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "noImg": "2026-11-03",
+  "src": [
+   "https://beatport.com/artist/sungdi/1112286"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Carl Haze": {
+  "img": "https://static.ra.co/images/profiles/carlhaze.jpg?dateUpdated=1541167633000",
+  "links": {
+   "ra": "https://ra.co/dj/carlhaze",
+   "sc": "https://soundcloud.com/carlhazemusic"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "labels": [
+   "OFF Recordings",
+   "Numen",
+   "Xperiment Records",
+   "IAMT"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Carl Haze ist ein Wiener Techno-DJ und Produzent mit Releases auf OFF Recordings, Numen, Xperiment Records und IAMT. Er spielt regelmäßig im Usus am Wasser, im Werk und im Club Exil und veröffentlicht seine Sets in der Reihe DRKNSS.",
+   "en": "Carl Haze is a Viennese techno DJ and producer with releases on OFF Recordings, Numen, Xperiment Records and IAMT. He plays regularly at Usus am Wasser, Das Werk and Club Exil and publishes his sets in the DRKNSS series."
+  },
+  "sets": [
+   {
+    "t": "Carl Haze @ Mambo San José, Costa Rica",
+    "u": "https://soundcloud.com/carlhazemusic/carl-haze-mambo-san-jose-costa-rica-2025-06-28"
+   },
+   {
+    "t": "CARL HAZE @ CHROM:E Prater Dome Vienna 09.05.2025",
+    "u": "https://soundcloud.com/prater-dome/carl-haze-chrome-prater-dome-vienna-09-05-2025"
+   },
+   {
+    "t": "DRKNSS 018 – Carl Haze B2B Sutter Cane at Verknallt Opening, Club Exil Vienna",
+    "u": "https://soundcloud.com/carlhazemusic/drknss-018-carl-haze-b2b-sutter-cane-live-at-verknallt-opening-w-anxhela-club-exil-vienna-austria"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/carlhaze"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Narciss": {
+  "img": "https://static.ra.co/images/profiles/square/narciss-de.jpg?dateUpdated=1730233099000",
+  "links": {
+   "ra": "https://ra.co/dj/narciss-de",
+   "web": "https://linktr.ee/narciss"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Running Back",
+   "SEELEN",
+   "Lobster Theremin"
+  ],
+  "bio": {
+   "de": "Narciss ist ein DJ und Produzent aus Deutschland mit Releases auf Running Back, SEELEN und Lobster Theremin („Language Of Love“ EP). Unter dem Titel Language of Love kuratiert er eigene Partys; als Leitmotiv nennt er „Schmerz und Lust und die Alchemie, das eine durch Ausdruck in das andere zu verwandeln“.",
+   "en": "Narciss is a German DJ and producer with releases on Running Back, SEELEN and Lobster Theremin (the 'Language Of Love' EP). He curates his own parties under the Language of Love banner; his motto is 'pain and pleasure, and the alchemy of converting one to the other through expression'."
+  },
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/narciss-de",
+   "https://ra.co/events/2290493"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Alarico": {
+  "img": "https://static.ra.co/images/profiles/square/alarico.jpg?dateUpdated=1626882858000",
+  "links": {
+   "ra": "https://ra.co/dj/alarico",
+   "sc": "https://soundcloud.com/alarico_katana"
+  },
+  "real": "Alarico Zucchi",
+  "from": {
+   "de": "Mailand, Italien",
+   "en": "Milan, Italy"
+  },
+  "labels": [
+   "Katana Records",
+   "Newrhytmic Records",
+   "OOM Records",
+   "Mutual Rytm"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Alarico ist ein Techno-DJ und Produzent aus Mailand, der seit 2015 auflegt. Sein Stil: roher, nach vorne gerichteter Techno mit 90er-Einflüssen, schnellen Tempi und groovigen, ungeraden Rhythmen. Er gründete das Vinyl-Label Katana Records und veröffentlichte u. a. auf Newrhytmic und OOM Records.",
+   "en": "Alarico is a techno DJ and producer from Milan who has been DJing since 2015. His style is raw, forward-leaning techno with 90s influences, fast tempos and groovy, uneven rhythms. He founded the vinyl imprint Katana Records and has released on Newrhytmic and OOM Records, among others."
+  },
+  "sets": [
+   {
+    "t": "Alarico @ And Club I MUUD 04.11.23 Closing Set",
+    "u": "https://soundcloud.com/alarico_katana/alarico-and-club-i-muud-041123-closing-set"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/alarico",
+   "https://last.fm/music/Alarico/+wiki"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Scheibenwischer": {
+  "img": "https://static.ra.co/images/profiles/square/scheibenwischer.jpg?dateUpdated=1787828210710",
+  "links": {
+   "ra": "https://ra.co/dj/scheibenwischer",
+   "sc": "https://soundcloud.com/scheibenwisch3r",
+   "ig": "https://www.instagram.com/scheibenwisch3r"
+  },
+  "alias": [
+   "Scheibenwisch3r"
+  ],
+  "real": "Matthias Seidl",
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Scheibenwischer (auch Scheibenwisch3r) ist ein österreichischer DJ. Er spielt vor allem im Werk, im PRST und im Gleis19, etwa bei Rave am Mittwoch und Selected.",
+   "en": "Scheibenwischer (also Scheibenwisch3r) is an Austrian DJ. He mostly plays at Das Werk, PRST and Gleis19, e.g. at Rave am Mittwoch and Selected."
+  },
+  "sets": [
+   {
+    "t": "SCHEIBENWISCHER @ RAVE AM MITTWOCH // WERK WIEN",
+    "u": "https://soundcloud.com/scheibenwisch3r/scheibenwischer-rave-am-mittwoch-werk-wien"
+   },
+   {
+    "t": "SCHEIBENWISCHER & DER Radio",
+    "u": "https://soundcloud.com/der-radio/scheibenwischer-der-radio"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/scheibenwischer"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Daria Kolosova": {
+  "img": "https://static.ra.co/images/profiles/square/dariakolosova.jpg?dateUpdated=1765651539363",
+  "links": {
+   "ra": "https://ra.co/dj/dariakolosova",
+   "sc": "https://soundcloud.com/dar_key",
+   "ig": "https://www.instagram.com/dar.key"
+  },
+  "from": {
+   "de": "Ukraine, lebt in Deutschland",
+   "en": "Ukraine, based in Germany"
+  },
+  "genres": [
+   "Techno",
+   "Electro",
+   "Trance"
+  ],
+  "bio": {
+   "de": "Daria Kolosova ist eine in der Ukraine geborene, in Deutschland lebende Techno-DJ. Sie spielt kinetischen Techno mit Electro- und Trance-Einflüssen und trat unter anderem im Berghain, Bassiani, fabric und bei Awakenings auf; 2023 lieferte sie den RA-Podcast 886.",
+   "en": "Daria Kolosova is a Ukrainian-born, Germany-based techno DJ. She plays kinetic techno with electro and trance influences and has performed at Berghain, Bassiani, fabric and Awakenings, among others; she recorded RA Podcast 886."
+  },
+  "sets": [
+   {
+    "t": "IWD24 – Daria Kolosova – fabric podcast",
+    "u": "https://soundcloud.com/fabric/iwd24-daria-kolosova"
+   },
+   {
+    "t": "Amelie Lens Presents EXHALE Radio 073 w/ Daria Kolosova",
+    "u": "https://soundcloud.com/amelielens/amelie-lens-presents-exhale-radio-073-w-daria-kolosova"
+   },
+   {
+    "t": "BCCO Mix Series 079: Daria Kolosova",
+    "u": "https://soundcloud.com/bcco/dariakolosova"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/dariakolosova",
+   "https://ra.co/podcast/886"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "IGDA": {
+  "img": "https://static.ra.co/images/profiles/square/igda.jpg?dateUpdated=1757506865200",
+  "links": {
+   "ra": "https://ra.co/dj/igda",
+   "sc": "https://soundcloud.com/igda_official"
+  },
+  "real": "Philip Igdalov",
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Hard Techno",
+   "Neo Rave"
+  ],
+  "bio": {
+   "de": "IGDA ist ein junger Hardtechno-DJ und Produzent aus Deutschland, der dem Neo-Rave-Umfeld zugerechnet wird. Er spielt energiegeladene Sets um 155–160 BPM und veröffentlicht eigene Tracks, etwa gemeinsam mit NOTMYTYPE.",
+   "en": "IGDA is a young hard techno DJ and producer from Germany associated with the neo rave movement. He plays high-energy sets around 155–160 BPM and releases his own tracks, e.g. together with NOTMYTYPE."
+  },
+  "sets": [
+   {
+    "t": "IGDA – HIVE 2025 Techno Castle Opening Set",
+    "u": "https://soundcloud.com/igda_official/igda-hive2025-techno-castle-opening-set"
+   },
+   {
+    "t": "IGDA DJ SET",
+    "u": "https://soundcloud.com/igda_official/igda-set-neu"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/igda",
+   "https://ra.co/events/2274999"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Monty": {
+  "labels": [
+   "1985 Music"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Monty ist ein Drum-&-Bass-Produzent und DJ, der vor allem auf Alix Perez’ Label 1985 Music veröffentlicht, darunter die „Hyptnotize“-EP. Er arbeitete unter anderem mit Visages und Hyroglifics zusammen.",
+   "en": "Monty is a drum & bass producer and DJ who releases mainly on Alix Perez's label 1985 Music, including the 'Hyptnotize' EP. He has collaborated with Visages and Hyroglifics, among others."
+  },
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/1985music1985/monty-visages-vibin",
+   "https://soundcloud.com/drumandbassarena/monty-sleepless"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "COLD ASS ICE": {
+  "img": "https://static.ra.co/images/profiles/square/coldassice.jpg?dateUpdated=1711989133000",
+  "links": {
+   "ra": "https://ra.co/dj/coldassice",
+   "sc": "https://soundcloud.com/cold-ass-ice",
+   "ig": "https://www.instagram.com/cold.ass.ice",
+   "bc": "https://coldassice.bandcamp.com"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "Hard Techno",
+   "Trance"
+  ],
+  "bio": {
+   "de": "COLD ASS ICE ist ein österreichisches DJ-Duo – nach eigener Beschreibung „2 girls who love 2 play music“. Die beiden spielen schnelle Sets und treten vor allem in Wien und Österreich auf, etwa bei Fluffig, NEXUS und Cybertribe.",
+   "en": "COLD ASS ICE is an Austrian DJ duo – in their own words '2 girls who love 2 play music'. They play fast-paced sets and perform mostly in Vienna and across Austria, e.g. at Fluffig, NEXUS and Cybertribe."
+  },
+  "sets": [
+   {
+    "t": "COLD ASS ICE | HÖR – Aug 14 2024",
+    "u": "https://soundcloud.com/cold-ass-ice/cold-ass-ice-hor-aug-14-2024"
+   },
+   {
+    "t": "COLD ASS ICE – 160km/h mix",
+    "u": "https://soundcloud.com/cold-ass-ice/cold-ass-ice-160kmh-mix"
+   },
+   {
+    "t": "COLD ASS ICE @ Komodfestival 2023",
+    "u": "https://soundcloud.com/cold-ass-ice/cold-ass-ice-komodfestival-2023"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/coldassice"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "MILA": {
+  "img": "https://static.ra.co/images/profiles/square/mila-5.jpg?dateUpdated=1770116736000",
+  "links": {
+   "ra": "https://ra.co/dj/mila-5",
+   "ig": "https://www.instagram.com/mila_wav"
+  },
+  "from": {
+   "de": "Polen",
+   "en": "Poland"
+  },
+  "genres": [
+   "Schranz"
+  ],
+  "bio": {
+   "de": "MILA ist eine Schranz-DJ und Produzentin aus Polen. Sie spielt regelmäßig im SCHRON in Posen und trat außerdem in Prag, in der Ukraine und im Werk in Wien auf.",
+   "en": "MILA is a Schranz DJ and producer from Poland. She plays regularly at SCHRON in Poznań and has also performed in Prague, Ukraine and at Das Werk in Vienna."
+  },
+  "src": [
+   "https://ra.co/dj/mila-5",
+   "https://ra.co/events/2360549"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Yanamaste": {
+  "img": "https://static.ra.co/images/profiles/square/yanamaste.jpg?dateUpdated=1515685862000",
+  "links": {
+   "ra": "https://ra.co/dj/yanamaste",
+   "sc": "https://soundcloud.com/yanamaste14",
+   "ig": "https://www.instagram.com/yanamaste"
+  },
+  "real": "Irakli Danelia",
+  "from": {
+   "de": "Georgien, lebt in Spanien",
+   "en": "Georgia, based in Spain"
+  },
+  "labels": [
+   "Semantica Records",
+   "KHIDI",
+   "Mutual Rytm",
+   "INNSIGNN",
+   "Hayes"
+  ],
+  "genres": [
+   "Hardgroove",
+   "Techno"
+  ],
+  "bio": {
+   "de": "Yanamaste ist ein in Georgien geborener, in Spanien lebender Techno-DJ und Produzent, bekannt für Hardgroove und loopigen Techno. Er ist mit dem Tifliser Club KHIDI verbunden und veröffentlichte unter anderem auf Semantica Records und Mutual Rytm.",
+   "en": "Yanamaste is a Georgian-born, Spain-based techno DJ and producer known for hardgroove and loop-driven techno. He is associated with Tbilisi's KHIDI club and has released on Semantica Records and Mutual Rytm, among others."
+  },
+  "sets": [
+   {
+    "t": "Yanamaste [live] at Intercell x BCCO (ADE 2024)",
+    "u": "https://soundcloud.com/intercell/yanamaste-live-at-intercell-x-bcco-ade-2024"
+   },
+   {
+    "t": "Yanamaste – LIVE Set 27.09.2020 KHIDI Club Tbilisi",
+    "u": "https://soundcloud.com/yanamaste14/yanamaste-live-set-27092020-khidi-club-tbilisi"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/yanamaste",
+   "https://ra.co/events/2141524"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Leonard Palm": {
+  "img": "https://static.ra.co/images/profiles/square/leonardpalm.jpg?dateUpdated=1723045033000",
+  "links": {
+   "ra": "https://ra.co/dj/leonardpalm",
+   "sc": "https://soundcloud.com/leonardpalmen"
+  },
+  "real": "Leonard Palmen",
+  "from": {
+   "de": "Köln, Deutschland",
+   "en": "Cologne, Germany"
+  },
+  "genres": [
+   "Hard Techno"
+  ],
+  "bio": {
+   "de": "Leonard Palm ist ein Hardtechno-DJ aus Deutschland und Resident im Chrome in Köln. Er steht für energiegeladenen, geradlinigen Hardtechno und spielt unter anderem im Bootshaus, im Artheater und im Freud Club.",
+   "en": "Leonard Palm is a German hard techno DJ and resident at Chrome in Cologne. He stands for high-energy, straight hard techno and has played at Bootshaus, Artheater and Freud Club, among others."
+  },
+  "sets": [
+   {
+    "t": "LEONARD PALM @ CHROME COLOGNE",
+    "u": "https://soundcloud.com/leonardpalmen/lp-bootshaus-3"
+   },
+   {
+    "t": "LEONARD PALM @ BOGEN 2",
+    "u": "https://soundcloud.com/leonardpalmen/leonard-palm-bogen-2-mattermind-hardtechno-set-010423"
+   },
+   {
+    "t": "LEONARD PALM @ ARTHEATER",
+    "u": "https://soundcloud.com/leonardpalmen/lp-artheater-1"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/leonardpalm"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Dax J": {
+  "img": "https://static.ra.co/images/profiles/daxj.jpg?dateUpdated=1769512780000",
+  "links": {
+   "ra": "https://ra.co/dj/daxj",
+   "sc": "https://soundcloud.com/daxj",
+   "ig": "https://www.instagram.com/daxj1",
+   "bc": "https://monnomblack.bandcamp.com",
+   "web": "https://linktr.ee/daxj"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich, lebt in Deutschland",
+   "en": "United Kingdom, based in Germany"
+  },
+  "labels": [
+   "Monnom Black",
+   "Klockworks",
+   "Perc Trax",
+   "Soma Records",
+   "Deeply Rooted",
+   "Electric Deluxe",
+   "EarToGround"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Dax J ist ein britischer, in Deutschland lebender Techno-DJ und Produzent und eine feste Größe der internationalen Techno-Szene. Er betreibt das Label Monnom Black und veröffentlichte unter anderem auf Klockworks, Perc Trax, Soma und Electric Deluxe.",
+   "en": "Dax J is a UK-born, Germany-based techno DJ and producer and a mainstay of the international techno scene. He runs the label Monnom Black and has released on Klockworks, Perc Trax, Soma and Electric Deluxe, among others."
+  },
+  "sets": [
+   {
+    "t": "Dax J – Isolation Mix – 2020",
+    "u": "https://soundcloud.com/daxj/dax-j-isolation-mix"
+   },
+   {
+    "t": "Dax J – Summer Isolation Set 2020",
+    "u": "https://soundcloud.com/daxj/dax-summer-isolation-set-live-from-lockdown"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/daxj"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Deborah Aime La Bagarre": {
+  "img": "https://static.ra.co/images/profiles/square/deborahaimelabagarre.jpg?dateUpdated=1773683191293",
+  "links": {
+   "ra": "https://ra.co/dj/deborahaimelabagarre",
+   "sc": "https://soundcloud.com/deborahaimelabagarre",
+   "ig": "https://www.instagram.com/deborahaimelabagarre",
+   "bc": "https://deborahaimelabagarre.bandcamp.com"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "labels": [
+   "Shall Not Fade",
+   "Pont Neuf Records",
+   "Dansu Discs",
+   "Chat Noir Records",
+   "Frappé"
+  ],
+  "genres": [
+   "House"
+  ],
+  "bio": {
+   "de": "Deborah Aime La Bagarre ist ein französischer DJ und Produzent mit Releases auf Shall Not Fade, Pont Neuf Records, Dansu Discs und Chat Noir Records. Er produziert pianolastigen House, oft gemeinsam mit Herr Krank, und ist mit der Pariser Reihe Frappé verbunden.",
+   "en": "Deborah Aime La Bagarre is a French DJ and producer with releases on Shall Not Fade, Pont Neuf Records, Dansu Discs and Chat Noir Records. He produces piano-driven house, often together with Herr Krank, and is linked to the Paris party Frappé."
+  },
+  "sets": [
+   {
+    "t": "Reprezent Radio (UK) • Live Mix",
+    "u": "https://soundcloud.com/deborahaimelabagarre/reprezent-radio-dalb"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/deborahaimelabagarre"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Andrea Salvaggio": {
+  "img": "https://static.ra.co/images/profiles/square/andreasalvaggio.jpg?dateUpdated=1640252889000",
+  "links": {
+   "ra": "https://ra.co/dj/andreasalvaggio",
+   "sc": "https://soundcloud.com/andreasalvaggio",
+   "ig": "https://www.instagram.com/andrea__slvg",
+   "web": "https://linktr.ee/andreasalvaggio"
+  },
+  "from": {
+   "de": "Italien",
+   "en": "Italy"
+  },
+  "bio": {
+   "de": "Andrea Salvaggio ist ein italienischer DJ, der sich selbst als unermüdlichen Digger und Selector beschreibt. Seine Sets sollen den Dancefloor in eine immersive Reise mitnehmen; in Wien spielte er bei Connecting People und WRECK.",
+   "en": "Andrea Salvaggio is an Italian DJ who describes himself as a relentless digger and selector. His sets aim to take the dancefloor on an immersive journey; in Vienna he has played at Connecting People and WRECK."
+  },
+  "sets": [
+   {
+    "t": "Internal Selection 046: Andrea Salvaggio (Parkett)",
+    "u": "https://soundcloud.com/parkettchannel/internal-selection-046-andrea-salvaggio"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/andreasalvaggio"
+  ],
+  "infoChk": "2026-11-03"
  }
 };
 
