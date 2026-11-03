@@ -24,6 +24,7 @@ const LOGOBOX={
 "https://www.club-exil.at/logo.svg":[3150,337,39,28,3111,309,""],
 "https://www.clublucia.at/wp-content/uploads/2025/05/LUCIA-FINAL-white-1-1024x968.png":[1024,968,4,8,1020,961,""],
 "https://www.grelleforelle.com/wp-content/uploads/2016/08/cropped-favicon-270x270.png":[270,270,0,0,270,270,""],
+"https://www.himmelundwasser.at/wp-content/uploads/2024/04/LOGO-COLOR-NO-STARS-No-Background-300x300.png":[300,300,0,1,300,299,""],
 "https://www.libelle.at/wp-content/uploads/2024/03/cropped-Libelle_Logo-270x270.png":[270,270,0,75,270,211,"#f7fdfb"],
 "https://www.paradiesgartenfestival.at/assets/website/images/logo/paradies-garten.d1836a4e.svg":[704,83,7,0,697,83,""],
 "https://www.soul-events.at/wp-content/uploads/2023/02/cropped-Logo_regenbogenkreis-min.jpg":[512,512,12,15,495,498,"#ffffff"],
