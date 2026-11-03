@@ -16,6 +16,7 @@ const LOGOBOX={
 "https://praterdome.at/media/default/_targets/override/images/praterdome-logo.png?v=1793200157":[2433,272,0,0,2433,272,""],
 "https://queertactics.at/wp-content/uploads/2025/10/queertactics_schriftzug_rot-scaled.png":[2560,320,0,7,2560,320,""],
 "https://rhiz.wien/wp-content/uploads/2026/01/cropped-favicon-270x270.png":[270,270,0,0,270,270,""],
+"https://static.ra.co/images/labels/pirotecnia.jpg?dateUpdated=1645610083473":[1440,1440,239,401,1207,1039,"#000000"],
 "https://ugc.production.linktr.ee/56ada16d-b647-4532-93c3-350fbac3c672_sorry-mom-logo-1080x1080-sw-kreis.png":[600,600,23,33,569,579,""],
 "https://ugc.production.linktr.ee/c93e2304-592a-41c3-80c5-fd1e533ca7e4_VS-LOGO-4000-centered-b.png?io=true&size=avatar-v3_0":[400,400,34,74,327,360,"#000000"],
 "https://weberknecht.at/wp-content/uploads/2018/06/cropped-grunge-plus-1-270x270.png":[270,270,0,0,270,270,""],
