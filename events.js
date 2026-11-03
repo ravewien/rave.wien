@@ -20523,6 +20523,1428 @@ const AR={
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03"
+ },
+ "Stinny Stone": {
+  "img": "https://static.ra.co/images/profiles/square/stinnystone.jpg?dateUpdated=1746456229840",
+  "links": {
+   "ra": "https://ra.co/dj/stinnystone",
+   "sc": "https://soundcloud.com/stinny-stone"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "DJ und Produzent:in aus Deutschland, eng mit der Berliner Partyreihe GOAT BALL verbunden, für die Stinny Stone mehrere GOAT-BOX-Mixe aufgenommen hat. Veröffentlichte gemeinsam mit KH38 die „Pump That Pussy“-EP auf Sachsentrance.",
+   "en": "DJ and producer from Germany, closely linked to the Berlin party series GOAT BALL, for which Stinny Stone has recorded several GOAT BOX mixes. Released the 'Pump That Pussy' EP with KH38 on Sachsentrance."
+  },
+  "labels": [
+   "Sachsentrance"
+  ],
+  "sets": [
+   {
+    "t": "Stinny Stone – GOAT BOX Nr. 63",
+    "u": "https://soundcloud.com/contact-714385853/stinny-stone-goat-box-nr-63"
+   },
+   {
+    "t": "STINNY STONE – GOAT BOX Nr. 2",
+    "u": "https://soundcloud.com/contact-714385853/stinny-stone-goat-box-nr-2"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/stinnystone",
+   "https://soundcloud.com/stinny-stone/h-bch"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Armin Hermann": {
+  "img": "https://static.ra.co/images/profiles/square/arminhermann.jpg?dateUpdated=1736169446000",
+  "links": {
+   "ra": "https://ra.co/dj/arminhermann",
+   "sc": "https://soundcloud.com/arminhermann",
+   "ig": "https://www.instagram.com/arminhermann_"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "DJ und Produzent aus Österreich, der vor allem in Wien und Berlin auflegt – häufig in der Grelle Forelle und im Lokschuppen Berlin. Veröffentlichte u. a. „Get Naughty“ auf Polyamor Records.",
+   "en": "DJ and producer from Austria who plays mostly in Vienna and Berlin, frequently at Grelle Forelle and Lokschuppen Berlin. Releases include 'Get Naughty' on Polyamor Records."
+  },
+  "labels": [
+   "Polyamor Records"
+  ],
+  "sets": [
+   {
+    "t": "Armin Hermann – Radio Rudina",
+    "u": "https://soundcloud.com/radiorudina/armin-hermann-radio-rudina"
+   },
+   {
+    "t": "ARMIN HERMANN [SET RECORDING 24.01] – PINK MAYHEM",
+    "u": "https://soundcloud.com/pinkmayhem/armin-hermann-set-recording-2401"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/arminhermann",
+   "https://soundcloud.com/polyamor-berlin/armin-hermann-get-naughty"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Rusrus": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Mela Leone": {
+  "alias": [
+   "Mela Leøne"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/mela_leone"
+  },
+  "bio": {
+   "de": "Techno-DJ, die regelmäßig in Wien auflegt – u. a. als Opening für UMEK im Jolly Roger, bei der Vienna Pride 2023 und bei ZWIDEMU am Maria-Theresien-Platz. Ihre Sets veröffentlicht sie auf SoundCloud.",
+   "en": "Techno DJ who plays regularly in Vienna – including opening for UMEK at Jolly Roger, at Vienna Pride 2023 and at ZWIDEMU on Maria-Theresien-Platz. She shares her sets on SoundCloud."
+  },
+  "sets": [
+   {
+    "t": "ZWIDEMU 22.06.24 Maria-Theresien-Platz, Vienna",
+    "u": "https://soundcloud.com/mela_leone/mela-leone-zwidemu-220624-maria-theresien-platz-vienna"
+   },
+   {
+    "t": "JOLLY ROGER Opening for UMEK 26.01.24 Vienna",
+    "u": "https://soundcloud.com/mela_leone/jolly-roger-vienna-opening-for-umek-260124"
+   },
+   {
+    "t": "Pride Vienna 2023",
+    "u": "https://soundcloud.com/mela_leone/vienna-pride-2023"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/mela_leone"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
+ },
+ "Sabu": {
+  "alias": [
+   "Sabu!"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/sabu.jpg?dateUpdated=1769156683800",
+  "links": {
+   "ra": "https://ra.co/dj/sabu",
+   "sc": "https://soundcloud.com/sabu303",
+   "bc": "https://sachsentrance.bandcamp.com",
+   "ig": "https://www.instagram.com/sabu_exclamation_mark"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "Trance-DJ und Produzent:in aus Deutschland und Teil des Sachsentrance-Umfelds; tritt auch als Sabrina – the teenage b*sh, Funky Floorburn und DJ Nugget auf. Releases u. a. auf Tooflez Muzik, Union Trance Mission und Underzone; spielt oft im Lokschuppen Berlin, ://about blank und in der Roten Sonne.",
+   "en": "Trance DJ and producer from Germany, part of the Sachsentrance circle; also performs as Sabrina – the teenage b*sh, Funky Floorburn and DJ Nugget. Releases on Tooflez Muzik, Union Trance Mission and Underzone; plays often at Lokschuppen Berlin, ://about blank and Rote Sonne."
+  },
+  "labels": [
+   "Tooflez Muzik",
+   "Union Trance Mission",
+   "Underzone"
+  ],
+  "sets": [
+   {
+    "t": "BACKOFFICE BOAT SESSION 06/06/26",
+    "u": "https://soundcloud.com/sabu303/backoffice-boat-session-06-06"
+   },
+   {
+    "t": "Home Again Club Festival @ RSO.BERLIN 09/05/24",
+    "u": "https://soundcloud.com/sabu303/sabu-home-again-club-festival-rsoberlin-may-9th-2024"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/sabu"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "It’s George": {
+  "alias": [
+   "It's George!"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/itsgeorge!.jpg?dateUpdated=1704420955000",
+  "links": {
+   "ra": "https://ra.co/dj/itsgeorge!",
+   "sc": "https://soundcloud.com/derschorsch"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Wiener House-DJ mit frischem, feinem Sound aus Tech-Elementen sowie Funk- und Disco-Einflüssen. Fester Teil der Reihe RED GROOVE (Social Club), mit der er regelmäßig im PRST spielt.",
+   "en": "Vienna-based house DJ with a fresh, refined sound blending tech elements with funk and disco influences. A regular of the RED GROOVE (Social Club) series, playing frequently at PRST."
+  },
+  "genres": [
+   "House"
+  ],
+  "sets": [
+   {
+    "t": "RED GROOVE (Soundsystem) Live @PRST Vienna 18.10.2025",
+    "u": "https://soundcloud.com/derschorsch/red-groove-soundsystem-live"
+   },
+   {
+    "t": "It's George Live @ 2 Years RED GROOVE (Social Club) PRST Vienna 16.05.25",
+    "u": "https://soundcloud.com/derschorsch/its-george-live-2-years-red-groove-social-club-prst-vienna-160525"
+   },
+   {
+    "t": "It’s George! – THE RED GROOVE SOCIAL CLUB Episode 001",
+    "u": "https://soundcloud.com/derschorsch/its-george-the-red-groove-social-club-1"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/itsgeorge!"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Techno Ganoven": {
+  "alias": [
+   "Techno Ganove"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/technoganoven.jpg?dateUpdated=1704887674000",
+  "links": {
+   "ra": "https://ra.co/dj/technoganoven"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Duo aus Wien, das „dawless“ – also ohne Computer – Melodic House & Techno live spielt. Regelmäßig bei RED GROOVE im PRST und in der Säulenhalle zu hören; die „Ad Astra EP“ erschien auf Traum Schallplatten.",
+   "en": "Vienna duo performing 'dawless' melodic house & techno live, without a computer. Regularly heard at RED GROOVE at PRST and at Säulenhalle; their 'Ad Astra EP' came out on Traum Schallplatten."
+  },
+  "genres": [
+   "Melodic House",
+   "Techno"
+  ],
+  "labels": [
+   "Traum Schallplatten"
+  ],
+  "src": [
+   "https://ra.co/dj/technoganoven",
+   "https://traumschallplatten.de/traum/v296.html"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Kl:Ra": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Kalte Liebe": {
+  "img": "https://static.ra.co/images/profiles/square/kalteliebe.jpg?dateUpdated=1635515166023",
+  "links": {
+   "ra": "https://ra.co/dj/kalteliebe"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "bio": {
+   "de": "Berliner Produzenten-Duo, das seit 2019 EBM und Old-School-Dark-Wave mit technoiden Elementen und verzerrten deutschen und englischen Vocals verbindet, daneben harten, treibenden Techno. Releases auf 01010100 Records, Vitus Curse und BFT sowie in Eigenregie; live mit Vocal-Performance.",
+   "en": "Berlin production duo who since 2019 have fused EBM and old-school dark wave with techno elements and distorted German and English vocals, alongside hard-driving techno. Releases on 01010100 Records, Vitus Curse, BFT and self-released; their live show includes a vocal performance."
+  },
+  "genres": [
+   "EBM",
+   "Dark Wave",
+   "Techno"
+  ],
+  "labels": [
+   "01010100 Records",
+   "Vitus Curse",
+   "BFT"
+  ],
+  "src": [
+   "https://de.ra.co/dj/kalteliebe/biography"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Goldi": {
+  "alias": [
+   "GOLDI (AT)"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/goldi-at.jpg?dateUpdated=1713784439000",
+  "links": {
+   "ra": "https://ra.co/dj/goldi-at",
+   "sc": "https://soundcloud.com/goldigoldigoldi",
+   "ig": "https://www.instagram.com/linusgoldgruber"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "DJ aus Österreich, der vor allem in Wiener Clubs wie Grelle Forelle, Flex, PRST, Pratersauna und OST spielt.",
+   "en": "DJ from Austria who mainly plays Vienna clubs such as Grelle Forelle, Flex, PRST, Pratersauna and OST."
+  },
+  "src": [
+   "https://ra.co/dj/goldi-at"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Rugrats": {
+  "links": {
+   "sc": "https://soundcloud.com/rugratsmusic"
+  },
+  "bio": {
+   "de": "Psytrance-Produzent und Live-Act auf Looney Moon Records mit Releases wie der „Super Baked EP“ und der „Zone Approach EP“ sowie Kollaborationen mit Jumpstreet und Render.",
+   "en": "Psytrance producer and live act on Looney Moon Records with releases such as the 'Super Baked EP' and 'Zone Approach EP', plus collaborations with Jumpstreet and Render."
+  },
+  "genres": [
+   "Psytrance"
+  ],
+  "labels": [
+   "Looney Moon Records"
+  ],
+  "sets": [
+   {
+    "t": "RUGRATS – Looney Moon Records Series EP 99 (Radio Zora)",
+    "u": "https://soundcloud.com/radiozora/rugrats-looney-moon-records-series-ep-99-12062024"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/rugratsmusic/sets/live-sets"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
+ },
+ "Chris Liebing": {
+  "img": "https://static.ra.co/images/profiles/square/chrisliebing.jpg?dateUpdated=1783602571990",
+  "links": {
+   "ra": "https://ra.co/dj/chrisliebing",
+   "sc": "https://soundcloud.com/chris-liebing"
+  },
+  "bio": {
+   "de": "Deutscher Techno-DJ und Produzent aus der Nähe von Frankfurt, dessen Karriere Ende 1995 im Frankfurter Omen begann; später Resident im Omen und im Berliner Tresor. Er arbeitete für Sven Väths Label Eye-Q, betreibt das Label CLR samt CLR-Podcast und veröffentlichte auch auf Mute Records.",
+   "en": "German techno DJ and producer from near Frankfurt whose career began at Frankfurt's Omen in late 1995; later resident at Omen and Berlin's Tresor. He worked for Sven Väth's label Eye-Q, runs the label CLR and its CLR Podcast, and has also released on Mute Records."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "CLR",
+   "Mute Records"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "Chris Liebing – Labyrinth ADE 2025 (RADION Amsterdam)",
+    "u": "https://soundcloud.com/radionamsterdam/chris-liebing-labyrinth-ade-25"
+   },
+   {
+    "t": "CLR Podcast 432 I Chris Liebing",
+    "u": "https://soundcloud.com/chris-liebing/clr-podcast-432-i-chris-liebing"
+   },
+   {
+    "t": "CLR Podcast 424 I Chris Liebing – Part 1",
+    "u": "https://soundcloud.com/chris-liebing/clr-podcast-424-i-chris-liebing-part-1"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/chrisliebing/biography",
+   "https://soundcloud.com/chris-liebing/sets"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "DJ Gigola": {
+  "img": "https://static.ra.co/images/profiles/square/djgigola.jpg?dateUpdated=1788127137920",
+  "links": {
+   "ra": "https://ra.co/dj/djgigola",
+   "sc": "https://soundcloud.com/djgigola",
+   "bc": "https://livefromearthklub.bandcamp.com"
+  },
+  "bio": {
+   "de": "In Berlin aktive DJ und Produzentin aus Deutschland. Sie veröffentlichte u. a. auf Running Back, Nervous Records, Public Possession und Live From Earth; RA stellte sie in der Reihe „Breaking Through“ vor.",
+   "en": "Berlin-based DJ and producer from Germany. She has released on labels including Running Back, Nervous Records, Public Possession and Live From Earth; RA featured her in its 'Breaking Through' series."
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "labels": [
+   "Running Back",
+   "Nervous Records",
+   "Public Possession",
+   "Live From Earth",
+   "Method 808"
+  ],
+  "src": [
+   "https://ra.co/dj/djgigola",
+   "https://ra.co/features/4140"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Kaufmann": {
+  "img": "https://static.ra.co/images/profiles/square/kaufmann.jpg?dateUpdated=1754742574613",
+  "links": {
+   "ra": "https://ra.co/dj/kaufmann",
+   "sc": "https://soundcloud.com/kaufmann_unofficial",
+   "ig": "https://www.instagram.com/kaufmann.unofficial",
+   "web": "https://www.beatport.com/artist/kaufmann-de/866330"
+  },
+  "bio": {
+   "de": "Deutscher Techno-DJ und Produzent mit Sitz in Berlin. Er veröffentlicht u. a. auf Drumcode, Stil vor Talent und Truesoul und spielt regelmäßig in Clubs wie Renate, Ritter Butzke und im Münchner Bahnwärter Thiel.",
+   "en": "German techno DJ and producer based in Berlin. He releases on labels such as Drumcode, Stil vor Talent and Truesoul and plays regularly at clubs like Renate, Ritter Butzke and Munich's Bahnwärter Thiel."
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "labels": [
+   "Drumcode",
+   "Stil vor Talent",
+   "Truesoul",
+   "Senso Sounds"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "src": [
+   "https://de.ra.co/dj/kaufmann",
+   "https://www.technoairlines.com/artist/kaufmann",
+   "https://de.ra.co/events/1973848"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "ENEI": {
+  "img": "https://static.ra.co/images/profiles/enei.jpg?dateUpdated=1300722893000",
+  "links": {
+   "ra": "https://ra.co/dj/enei",
+   "sc": "https://soundcloud.com/enei"
+  },
+  "bio": {
+   "de": "Drum-&-Bass-Produzent und DJ aus Russland (bürgerlich Alexey Egorchenkov), aktiv seit 2003. Seine erste Platte erschien 2007 auf Fokuz; heute ist er vor allem mit Critical Music verbunden, wo u. a. seine Alben und die EP „Divided Mode“ erschienen.",
+   "en": "Drum & bass producer and DJ from Russia (real name Alexey Egorchenkov), active since 2003. His first record came out on Fokuz in 2007; today he is closely associated with Critical Music, which has released his albums and the 'Divided Mode' EP."
+  },
+  "from": {
+   "de": "Russland",
+   "en": "Russia"
+  },
+  "alias": [
+   "Enei"
+  ],
+  "labels": [
+   "Critical Music",
+   "Fokuz"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "src": [
+   "https://ra.co/dj/enei",
+   "https://ra.co/news/44050",
+   "https://ra.co/news/31790"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Eargasm God": {
+  "img": "https://static.ra.co/images/profiles/square/eargasmgod.jpg?dateUpdated=1685614922000",
+  "links": {
+   "ra": "https://ra.co/dj/eargasmgod",
+   "sc": "https://soundcloud.com/eargasmgod"
+  },
+  "bio": {
+   "de": "Produzent und DJ aus der DIY-SoundCloud-Generation, der seine Tracks veröffentlicht, wann er will, und damit viele Millionen Streams erreicht hat. Seine eigenwillige, von ihm selbst als „Strip-Club-Musik“ beschriebene Musik und seine ekstatischen, unberechenbaren Sets führten ihn u. a. zu Boiler Room und in Clubs in Paris, Berlin und Warschau.",
+   "en": "Producer and DJ from the DIY SoundCloud generation who releases tracks whenever he wants and has gathered many millions of streams. His idiosyncratic music, which he calls 'strip club music', and ecstatic, unpredictable sets have taken him to Boiler Room and clubs in Paris, Berlin and Warsaw."
+  },
+  "sets": [
+   {
+    "t": "Eargasm God – TEGENDRAADS Festival 2024",
+    "u": "https://soundcloud.com/wijzijntegendraads/eargasm-god-tegendraads-festival-2024"
+   },
+   {
+    "t": "EARGASM GOD – Boiler Room",
+    "u": "https://soundcloud.com/platform/eargasm-god-boiler-room"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/eargasmgod/biography",
+   "https://soundcloud.com/eargasmgod"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Marko Nastic": {
+  "img": "https://static.ra.co/images/profiles/markonastic.jpg?dateUpdated=1495441316000",
+  "links": {
+   "ra": "https://ra.co/dj/markonastic",
+   "sc": "https://soundcloud.com/markonastic"
+  },
+  "bio": {
+   "de": "Techno-DJ und Produzent aus Belgrad, einer der bekanntesten Techno-Acts Südosteuropas und maßgeblich am Aufbau der Clubszene am Balkan beteiligt. Bekannt für Sets mit drei Plattenspielern, Resident beim Exit Festival; er veröffentlicht auf seinen Labels Sake & Vinyl Only und Ama.",
+   "en": "Techno DJ and producer from Belgrade, one of Southeast Europe's best-known techno acts and a key figure in building the Balkan club scene. Known for three-deck sets and a resident of Exit Festival, he releases on his labels Sake & Vinyl Only and Ama."
+  },
+  "from": {
+   "de": "Belgrad, Serbien",
+   "en": "Belgrade, Serbia"
+  },
+  "alias": [
+   "Marko Nastić"
+  ],
+  "labels": [
+   "Sake & Vinyl Only",
+   "Ama"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "Marko Nastic Live @ Social Club Belgrade 06.03.2020",
+    "u": "https://soundcloud.com/markonastic/live-social-club-belgrade-serbia-06032020"
+   },
+   {
+    "t": "Trommel.222 – Marko Nastic",
+    "u": "https://soundcloud.com/trommelmusic/trommel-222-marko-nastic"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/markonastic/biography",
+   "https://soundcloud.com/markonastic/tracks"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Sama’ Abdulhadi": {
+  "img": "https://static.ra.co/images/profiles/square/samaabdulhadi.jpg?dateUpdated=1612881402000",
+  "links": {
+   "ra": "https://ra.co/dj/samaabdulhadi",
+   "sc": "https://soundcloud.com/sama_abdulhadi"
+  },
+  "bio": {
+   "de": "Gilt als erste palästinensische Techno-DJ und Produzentin; geboren in Jordanien, aufgewachsen in Ramallah, heute in Paris. Sie studierte Audio Engineering in London, gründete mit Eka3 die Agentur Awyav und gelang 2018 mit Auftritten bei Fusion, Sziget und einem Boiler-Room-Set der Durchbruch; früher auch als Skywalker aktiv.",
+   "en": "Regarded as the first Palestinian techno DJ and producer; born in Jordan, raised in Ramallah and now based in Paris. She studied audio engineering in London, co-founded the agency Awyav with Eka3, and broke through in 2018 with Fusion, Sziget and a Boiler Room set; she previously performed as Skywalker."
+  },
+  "from": {
+   "de": "Ramallah, Palästina",
+   "en": "Ramallah, Palestine"
+  },
+  "alias": [
+   "Sama' Abdulhadi",
+   "Skywalker"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "SAMA' ABDULHADI – 909 Festival 2025",
+    "u": "https://soundcloud.com/909events/sama-abdulhadi-909-festival-2025"
+   },
+   {
+    "t": "RA.1000 Sama' Abdulhadi",
+    "u": "https://soundcloud.com/resident-advisor/ra1000-sama-abdulhadi"
+   },
+   {
+    "t": "SAMA' @ Fusion Festival, Turmbühne",
+    "u": "https://soundcloud.com/sama_abdulhadi/sama-fusion-festival-turmbuhne-stage"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/samaabdulhadi/biography",
+   "https://ra.co/podcast/1010"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Michael Zehetner": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Imanu": {
+  "img": "https://static.ra.co/images/profiles/square/imanu.jpg?dateUpdated=1643107867000",
+  "links": {
+   "ra": "https://ra.co/dj/imanu",
+   "sc": "https://soundcloud.com/imanumusic"
+  },
+  "bio": {
+   "de": "Niederländischer Drum-&-Bass-Produzent und DJ (bürgerlich Jonathan Kievit), früher als Signal aktiv. Unter dem Banner DE_VERTE präsentiert er Clubnächte u. a. im Amsterdamer Melkweg, im Berliner Gretchen und in der Grelle Forelle.",
+   "en": "Dutch drum & bass producer and DJ (real name Jonathan Kievit), formerly known as Signal. Under the DE_VERTE banner he presents club nights at venues including Amsterdam's Melkweg, Berlin's Gretchen and Vienna's Grelle Forelle."
+  },
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "alias": [
+   "Signal",
+   "IMANU"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "sets": [
+   {
+    "t": "IMANU – Liquicity Festival 2024",
+    "u": "https://soundcloud.com/liquicityevents/imanu-full-set-liquicity-festival-2024"
+   },
+   {
+    "t": "IMANU DJ Set @ Kilowatt, Paris (Ohlala Festival 2024)",
+    "u": "https://soundcloud.com/wearestudio/imanu-dj-set-kilowatt-paris-ohlala-festival-2024"
+   },
+   {
+    "t": "IMANU DJ Set @ Bootshaus Cologne",
+    "u": "https://soundcloud.com/imanumusic/imanu-dj-set-bootshaus-cologne"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/imanu",
+   "https://ra.co/events/2257285"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Caniche": {
+  "img": "https://static.ra.co/images/profiles/square/caniche.jpg?dateUpdated=1788906242820",
+  "links": {
+   "ra": "https://ra.co/dj/caniche",
+   "sc": "https://soundcloud.com/caniche_techno",
+   "ig": "https://www.instagram.com/caniche.mp3"
+  },
+  "bio": {
+   "de": "Berliner Techno-DJ und Produzentin, Resident im Tresor und Mitgründerin des PUSH – Female DJ Network. Sie spielt regelmäßig in Wien, vor allem in der Grelle Forelle.",
+   "en": "Berlin-based techno DJ and producer, resident at Tresor and co-founder of PUSH – Female DJ Network. She plays regularly in Vienna, especially at Grelle Forelle."
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "src": [
+   "https://de.ra.co/dj/caniche"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Specific Objects": {
+  "img": "https://static.ra.co/images/profiles/square/specificobjects.jpg?dateUpdated=1791819517273",
+  "links": {
+   "ra": "https://ra.co/dj/specificobjects",
+   "sc": "https://soundcloud.com/specific-objects",
+   "ig": "https://www.instagram.com/specific.objects",
+   "bc": "https://twiceinfinity.bandcamp.com"
+  },
+  "bio": {
+   "de": "DJ, Produzent und Labelbetreiber aus Berlin mit treibendem, perkussivem und rohem Techno, der Grooves der frühen 2000er mit aktuellen Tracks verbindet. Er veröffentlichte u. a. auf Olympian, Front Left und Twice Infinity und spielt am häufigsten in Wien, etwa in der Grelle Forelle, im Werk und im FLUCC.",
+   "en": "Berlin DJ, producer and label owner playing driving, percussive, raw techno that blends early-2000s grooves with current tracks. He has released on labels including Olympian, Front Left and Twice Infinity and plays most often in Vienna, at Grelle Forelle, Das Werk and FLUCC."
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "labels": [
+   "Olympian",
+   "Front Left Records",
+   "Twice Infinity",
+   "Life In Patterns"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "src": [
+   "https://ra.co/dj/specificobjects"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Dominik Eulberg": {
+  "img": "https://static.ra.co/images/profiles/dominikeulberg.jpg?dateUpdated=1792333612000",
+  "links": {
+   "ra": "https://ra.co/dj/dominikeulberg",
+   "sc": "https://soundcloud.com/dominik-eulberg"
+  },
+  "bio": {
+   "de": "Deutscher Produzent und DJ, der in seiner organischen, melodischen elektronischen Musik Klang und Natur verbindet; laut RA ist er Forstwart. Er veröffentlichte u. a. auf Traum Schallplatten, Cocoon Recordings und Herzblut, darunter die Alben „Diorama“ und „Perlmutt“.",
+   "en": "German producer and DJ whose organic, melodic electronic music connects sound and nature; according to RA he is a trained forester. He has released on Traum Schallplatten, Cocoon Recordings and Herzblut, including 'Diorama' and 'Perlmutt'."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Traum Schallplatten",
+   "Cocoon Recordings",
+   "Herzblut Recordings"
+  ],
+  "src": [
+   "https://de.ra.co/dj/dominikeulberg",
+   "https://ra.co/podcast/13"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Klopfgeister": {
+  "img": "https://cdn.prod.website-files.com/63ea1918fd8efbcdef2c2702/65c61a25359cdd571f80be0f_Klopfgeister-transformed.jpeg",
+  "links": {
+   "sc": "https://soundcloud.com/klopfgeister"
+  },
+  "bio": {
+   "de": "Psytrance- und Progressive-Projekt von Thorsten Paul aus Hamburg mit tiefen, emotional positiven Klanglandschaften und kräftigem Groove. Er spielt regelmäßig bei der Berliner Reihe Goanautika; unter Nightsoul bzw. Clubgeister erscheinen langsamere Stücke.",
+   "en": "Psytrance and progressive project by Thorsten Paul from Hamburg, built on deep, emotionally positive soundscapes and a strong groove. He plays regularly at Berlin's Goanautika series; slower material appears under Nightsoul and Clubgeister."
+  },
+  "from": {
+   "de": "Hamburg, Deutschland",
+   "en": "Hamburg, Germany"
+  },
+  "genres": [
+   "Psytrance",
+   "Progressive"
+  ],
+  "sets": [
+   {
+    "t": "Klopfgeister [DJ Set] – Please Mom, lemme sleep 5 minutes more [137 BPM]",
+    "u": "https://soundcloud.com/klopfgeister/klopfgeister-dj-set-2011-please-mom-lemme-sleep-5-minutes-more-137-bpm"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://www.impuls-festival.com/musik/klopfgeister",
+   "https://de.ra.co/events/2185053"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "DJ Heartstring": {
+  "img": "https://static.ra.co/images/profiles/square/djheartstring.jpg?dateUpdated=1673143618000",
+  "links": {
+   "ra": "https://ra.co/dj/djheartstring",
+   "sc": "https://soundcloud.com/djheartstring"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "Trance"
+  ],
+  "bio": {
+   "de": "Trance-Act aus Berlin, der sich selbst mit „Trance Dance Music from Berlin“ beschreibt. Spielte unter anderem einen BBC Radio 1 Essential Mix und ein Boiler-Room-Set beim AVA Festival 2023.",
+   "en": "Trance act from Berlin, describing itself as “Trance Dance Music from Berlin”. Has played a BBC Radio 1 Essential Mix and a Boiler Room set at AVA Festival 2023."
+  },
+  "sets": [
+   {
+    "t": "DJ HEARTSTRING – BBC Radio 1 Essential Mix",
+    "u": "https://soundcloud.com/djheartstring/dj-heartstring-bbc-radio-1-essential-mix"
+   },
+   {
+    "t": "DJ Heartstring – Boiler Room x AVA Festival 2023",
+    "u": "https://soundcloud.com/djheartstring/dj-heartstring-boiler-room-x-ava-festival-2023"
+   },
+   {
+    "t": "FMB Mixtape 197 – DJ Heartstring",
+    "u": "https://soundcloud.com/djheartstring/fmb-mixtape-197-dj-heartstring"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/djheartstring/biography",
+   "https://soundcloud.com/djheartstring/tracks"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Gaiser": {
+  "img": "https://static.ra.co/images/profiles/square/gaiser.jpg?dateUpdated=1417641501083",
+  "real": "Jon Gaiser",
+  "alias": [
+   "VOID"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/gaiser",
+   "sc": "https://soundcloud.com/gaiser_official"
+  },
+  "from": {
+   "de": "Grand Rapids, Michigan (USA)",
+   "en": "Grand Rapids, Michigan (USA)"
+  },
+  "labels": [
+   "Minus"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Techno-Produzent und Live-Act aus Grand Rapids (Michigan), geprägt von der Detroit-Techno-Szene. Zentrale Figur auf Richie Hawtins Label Minus und Resident bei ENTER, bekannt für Live-Sets mit Visuals. Alben u. a. „Blank Fade“ (2008) und „False Light“ (2014), als VOID „No Sudden Movements“ (2011).",
+   "en": "Techno producer and live act from Grand Rapids, Michigan, shaped by the Detroit techno scene. A key figure on Richie Hawtin's label Minus and a resident at ENTER, known for live sets with visuals. Albums include “Blank Fade” (2008) and “False Light” (2014), plus “No Sudden Movements” (2011) as VOID."
+  },
+  "sets": [
+   {
+    "t": "Gaiser LIVE – Grelle Forelle Vienna 25.10.2017",
+    "u": "https://soundcloud.com/gaiser_official/gaiser-live-grelle-forelle-vienna-25102017-part1"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/gaiser/biography",
+   "https://www.discogs.com/artist/471791-Jon-Gaiser"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Ben Manson": {
+  "img": "https://static.ra.co/images/profiles/square/benmanson.jpg?dateUpdated=1650286757000",
+  "links": {
+   "ra": "https://ra.co/dj/benmanson",
+   "sc": "https://soundcloud.com/djbenmanson"
+  },
+  "from": {
+   "de": "Paris (Frankreich)",
+   "en": "Paris (France)"
+  },
+  "labels": [
+   "LDMT Records"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "DJ und Produzent aus Paris, aktiv seit 1998; acht Jahre Resident im Queen Paris, später u. a. bei La Demence. Gründer und Resident der monatlichen Reihe Less Drama More Techno (LDMT) im Nouveau Casino und des 2021 gegründeten Labels LDMT Records zur Förderung queerer Talente. Sound zwischen hypnotischem, groovigem, tribal-rohem Techno.",
+   "en": "Paris-based DJ and producer, active since 1998; resident at Queen Paris for eight years, later at venues including La Demence. Founder and resident of the monthly Less Drama More Techno (LDMT) series at Nouveau Casino and of LDMT Records, founded in 2021 to support queer talent. His sound blends hypnotic, groovy and raw tribal techno."
+  },
+  "sets": [
+   {
+    "t": "BEN MANSON Live At Grelle Forelle (FISH MARKET Pride Edition)",
+    "u": "https://soundcloud.com/djbenmanson/ben-manson-live-at-grelle-forelle-fish-market-pride-edition"
+   },
+   {
+    "t": "BEN MANSON Live at LDMT TECHNO SUNDAY [Le Mazette – Paris]",
+    "u": "https://soundcloud.com/djbenmanson/ben-manson-live-ldmt-techno-sunday-le-mazette-paris"
+   },
+   {
+    "t": "Ben Manson Live At Wasteland Berlin (KitKatKlub)",
+    "u": "https://soundcloud.com/djbenmanson/ben-manson-live-at-wasteland-berlin-kitkatklub"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/benmanson/biography",
+   "https://soundcloud.com/djbenmanson"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "DJ Deadlift": {
+  "img": "https://static.ra.co/images/profiles/square/djdeadlift.jpg?dateUpdated=1718808299000",
+  "real": "Adrian",
+  "links": {
+   "ra": "https://ra.co/dj/djdeadlift",
+   "sc": "https://soundcloud.com/deadlift_rdvdr",
+   "ig": "https://www.instagram.com/adrian_deadlift"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "DJ aus Österreich, der regelmäßig in Wien auflegt, etwa bei FISH MARKET in der Grelle Forelle und im PRST. Spielte außerdem beim Lighthouse Festival 2026 in Kroatien.",
+   "en": "DJ from Austria who plays regularly in Vienna, for example at FISH MARKET at Grelle Forelle and at PRST. Also played Lighthouse Festival 2026 in Croatia."
+  },
+  "sets": [
+   {
+    "t": "F+ Closing Feb 2026 @ Grelle Forelle, Vienna",
+    "u": "https://soundcloud.com/deadlift_rdvdr/f-closing-feb-2026-grelle"
+   },
+   {
+    "t": "MITSUcast 064 – DJ Deadlift",
+    "u": "https://soundcloud.com/mitsu2000/mitsucast-064-dj-deadlift"
+   },
+   {
+    "t": "DJ Deadlift – vlan.radio 04/11/22",
+    "u": "https://soundcloud.com/vlanradio/djdeadlift-041122"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/djdeadlift",
+   "https://soundcloud.com/deadlift_rdvdr"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Marco Bailey": {
+  "img": "https://static.ra.co/images/profiles/square/marcobailey.jpg?dateUpdated=1492453403377",
+  "links": {
+   "ra": "https://ra.co/dj/marcobailey",
+   "sc": "https://soundcloud.com/marco-bailey",
+   "web": "https://www.marcobailey.com"
+  },
+  "from": {
+   "de": "Belgien",
+   "en": "Belgium"
+  },
+  "labels": [
+   "MB Elektronics",
+   "MATERIA"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Autodidaktischer Techno-DJ und Produzent aus Belgien, aktiv seit Ende der 1980er-Jahre. Betreibt seit 2001 das Label MB Elektronics und seit 2015 das Event- und Labelkonzept MATERIA samt Radioshow. Veröffentlichungen u. a. auf Drumcode, Bedrock, Intec und Primate; Auftritte weltweit.",
+   "en": "Self-taught techno DJ and producer from Belgium, active since the late 1980s. Runs the label MB Elektronics since 2001 and the MATERIA event and label concept with its radio show since 2015. Releases on Drumcode, Bedrock, Intec and Primate, among others; plays worldwide."
+  },
+  "sets": [
+   {
+    "t": "MATERIA Music Radio Show 095 with Marco Bailey",
+    "u": "https://soundcloud.com/marco-bailey/materia-music-radio-show-095-with-marco-bailey"
+   },
+   {
+    "t": "Bassiani invites Marco Bailey / Podcast #203",
+    "u": "https://soundcloud.com/bassiani/bassiani-invites-marco-bailey-podcast-203"
+   },
+   {
+    "t": "Marco Bailey Live at MATERIA x Kombination Research @ Verknipt, ADE 2018",
+    "u": "https://soundcloud.com/marco-bailey/marco-bailey-live-at-materia-verknipt-amsterdam-dance-event-19102018"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/marcobailey/biography"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Teenage Mutants": {
+  "img": "https://static.ra.co/images/profiles/square/teenagemutants.jpg?dateUpdated=1701426748000",
+  "links": {
+   "ra": "https://ra.co/dj/teenagemutants",
+   "sc": "https://soundcloud.com/teenage-mutants"
+  },
+  "from": {
+   "de": "Hamburg (Deutschland)",
+   "en": "Hamburg (Germany)"
+  },
+  "labels": [
+   "TRAGEDIE",
+   "Drumcode",
+   "Filth On Acid",
+   "Terminal M"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Techno-Duo aus Deutschland (Christian und Fabio), das mit einer Party im Hamburger Baumhaus an der Reeperbahn begann. Ihr Stil nennen sie „Techno With Drama“; „Dark Clouds“ erreichte 2023 Platz 1 bei Beatport. Releases auf Drumcode, Filth On Acid und Terminal M sowie auf dem eigenen Label TRAGEDIE.",
+   "en": "Techno duo from Germany (Christian and Fabio) who started with a party at Hamburg's Baumhaus on the Reeperbahn. They call their style “Techno With Drama”; “Dark Clouds” reached No. 1 on Beatport in 2023. Releases on Drumcode, Filth On Acid and Terminal M as well as their own label TRAGEDIE."
+  },
+  "sets": [
+   {
+    "t": "Teenage Mutants @ Fusion Festival 2025 (Turmbühne)",
+    "u": "https://soundcloud.com/teenage-mutants/teenage-mutants-fusion-festival-2025-turmbuhne"
+   },
+   {
+    "t": "Teenage Mutants @ Feel Festival 2024 – DJ Set",
+    "u": "https://soundcloud.com/teenage-mutants/teenage-mutants-feel-festival-2024-dj-set"
+   },
+   {
+    "t": "SVT-Podcast095 – Teenage Mutants",
+    "u": "https://soundcloud.com/stilvortalent/svt-podcast095-teenage-mutants"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/teenagemutants/biography"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "countershine": {
+  "img": "https://static.ra.co/images/profiles/square/countershine.jpg?dateUpdated=1755713825990",
+  "real": "Valentin Rett",
+  "links": {
+   "ra": "https://ra.co/dj/countershine",
+   "sc": "https://soundcloud.com/countershine_ctsh"
+  },
+  "from": {
+   "de": "Deutschland, lebt in Österreich",
+   "en": "Germany, based in Austria"
+  },
+  "bio": {
+   "de": "In Deutschland geborener, in Österreich lebender DJ mit dem Motto „stay proggy“. Spielt u. a. im PRST in Wien sowie bei Fako-5- und Straat-264-Events in Berlin, München und Stuttgart.",
+   "en": "Germany-born DJ based in Austria with the motto “stay proggy”. Plays at PRST in Vienna among others, as well as at Fako 5 and Straat 264 events in Berlin, Munich and Stuttgart."
+  },
+  "sets": [
+   {
+    "t": "MITMIXEN 047 – COUNTERSHINE",
+    "u": "https://soundcloud.com/mitmischenberlin/mitmixen-047-countershine"
+   },
+   {
+    "t": "WORKOUT #17 – COUNTERSHINE",
+    "u": "https://soundcloud.com/perraspartyservice/workout-17-countershine"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/countershine"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Nhoah": {
+  "img": "https://static.ra.co/images/profiles/square/nhoah.jpg?dateUpdated=1756903142883",
+  "links": {
+   "ra": "https://ra.co/dj/nhoah",
+   "sc": "https://soundcloud.com/nhoah",
+   "ig": "https://www.instagram.com/nhoah_nhoah",
+   "bc": "https://nhoah.bandcamp.com",
+   "web": "https://www.nhoah.com"
+  },
+  "from": {
+   "de": "Berlin; lebt in Berlin und Wien",
+   "en": "Berlin; based in Berlin and Vienna"
+  },
+  "labels": [
+   "R.O.T"
+  ],
+  "bio": {
+   "de": "In Berlin geborener Produzent, Komponist, DJ und Künstler, der in Berlin und Wien lebt. Betreibt das Label R.O.T Records. Spielte in Wien u. a. bei Techno am Wasser und beim Wild Gemischt Festival.",
+   "en": "Berlin-born producer, composer, DJ and artist based in Berlin and Vienna. Runs the label R.O.T Records. In Vienna he has played Techno am Wasser and Wild Gemischt Festival, among others."
+  },
+  "sets": [
+   {
+    "t": "NHOAH – miami sundown set @sterlingexperience",
+    "u": "https://soundcloud.com/nhoah/miami-sundown-set"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/nhoah"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Paul Boese": {
+  "links": {
+   "sc": "https://soundcloud.com/user817920827"
+  },
+  "bio": {
+   "de": "DJ aus dem Umfeld der Reihe Techno Entgleist in der Grelle Forelle in Wien, wo er u. a. das Warm-up am Mainfloor spielte.",
+   "en": "DJ associated with the Techno Entgleist series at Grelle Forelle in Vienna, where he has played the main-floor warm-up."
+  },
+  "sets": [
+   {
+    "t": "paul boese – mainfloor warm up @ Grelle Forelle (22.03.25)",
+    "u": "https://soundcloud.com/user817920827/grelle-forelle-set-22-03-2"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/user817920827"
+  ],
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "Mac DeClos": {
+  "img": "https://static.ra.co/images/profiles/square/macdeclos.jpg?dateUpdated=1786014096660",
+  "links": {
+   "ra": "https://ra.co/dj/macdeclos",
+   "sc": "https://soundcloud.com/mac-declos",
+   "bc": "https://macdeclos.bandcamp.com",
+   "web": "https://www.mamalovesya.co/macdeclos"
+  },
+  "from": {
+   "de": "Paris (Frankreich)",
+   "en": "Paris (France)"
+  },
+  "labels": [
+   "Mama told ya",
+   "Agora Records",
+   "XX LAB"
+  ],
+  "bio": {
+   "de": "Französischer DJ und Produzent elektronischer Musik mit Sitz in Paris. Veröffentlicht auf Mama told ya, Agora Records und XX LAB; tritt international auf, etwa in New York, Athen, Kopenhagen und Shenzhen.",
+   "en": "French DJ and producer of electronic music based in Paris. Releases on Mama told ya, Agora Records and XX LAB; plays internationally, including New York, Athens, Copenhagen and Shenzhen."
+  },
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/macdeclos"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Saba": {
+  "img": "https://static.ra.co/images/profiles/square/saba-2.jpg?dateUpdated=1736504951000",
+  "alias": [
+   "Saba Mattheku"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/saba-2",
+   "sc": "https://soundcloud.com/unofficialsaba"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "In Wien lebender DJ, der u. a. in der Grelle Forelle, im PRST und in der Pratersauna auflegt.",
+   "en": "Vienna-based DJ who plays at Grelle Forelle, PRST and Pratersauna, among others."
+  },
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/saba-2",
+   "https://ra.co/events/2205907"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Noe Bortolussi": {
+  "img": "https://static.ra.co/images/profiles/square/noebortolussi.jpg?dateUpdated=1784044552667",
+  "links": {
+   "ra": "https://ra.co/dj/noebortolussi",
+   "sc": "https://soundcloud.com/noebortolussi"
+  },
+  "from": {
+   "de": "Argentinien",
+   "en": "Argentina"
+  },
+  "genres": [
+   "Progressive House",
+   "Melodic Techno"
+  ],
+  "bio": {
+   "de": "Argentinische DJ und Produzentin, die mit Progressive House, melodischem Techno und filmischen Klangflächen emotionale, erzählerische Sets spielt. Auftritte u. a. im Kramladen Wien, Hard Rock Café Amsterdam und TOFFLER Rotterdam. Moderiert die wöchentliche Radiosendung und Mix-Serie GALACTICA.",
+   "en": "Argentinian DJ and producer crafting emotional, narrative sets of progressive house, melodic techno and cinematic soundscapes. Has played Kramladen Vienna, Hard Rock Café Amsterdam and TOFFLER Rotterdam, among others. Hosts the weekly radio show and mix series GALACTICA."
+  },
+  "sets": [
+   {
+    "t": "GALACTICA #154 – 11/11/2025",
+    "u": "https://soundcloud.com/noebortolussi/galactica-154"
+   },
+   {
+    "t": "GALACTICA #153 – 04/11/2025",
+    "u": "https://soundcloud.com/noebortolussi/galactica-153"
+   },
+   {
+    "t": "Live set at Kramladen, Vienna – 14.09",
+    "u": "https://soundcloud.com/noebortolussi/live-set-at-kramladen-vienna-september-1409"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/noebortolussi/biography",
+   "https://soundcloud.com/noebortolussi"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Caiva": {
+  "img": "https://static.ra.co/images/profiles/square/caiva.jpg?dateUpdated=1786290188317",
+  "links": {
+   "ra": "https://ra.co/dj/caiva",
+   "sc": "https://soundcloud.com/caiva"
+  },
+  "from": {
+   "de": "Berlin (Deutschland)",
+   "en": "Berlin (Germany)"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Deutsche:r DJ und Produzent:in mit Sitz in Berlin, die/der in Produktionen Stimme, Gitarre, Saxophon und Klavier einsetzt. Der Ansatz wurzelt in zeitgenössischer klassischer Musik und musikwissenschaftlichem Studium, mit Einflüssen aus Folk und Ambient-Techno; Releases u. a. auf Lobster Theremin.",
+   "en": "German DJ and producer based in Berlin who uses voice, guitar, saxophone and piano in productions. The approach is rooted in contemporary classical music and musicology studies, with influences from folk and ambient techno; releases include Lobster Theremin."
+  },
+  "sets": [
+   {
+    "t": "RaveCast76 – Caiva",
+    "u": "https://soundcloud.com/rave_alert/ravecast76-caiva"
+   },
+   {
+    "t": "TLP087 CAIVA",
+    "u": "https://soundcloud.com/technoloft/tlp087-caiva"
+   },
+   {
+    "t": "Girlcast #052 by CAIVA",
+    "u": "https://soundcloud.com/klaudia-kowalski/girlcast-caiva"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://pt-br.ra.co/dj/caiva/biography",
+   "https://soundcloud.com/caiva/tracks"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Kobosil": {
+  "img": "https://static.ra.co/images/profiles/square/kobosil.jpg?dateUpdated=1561717589000",
+  "links": {
+   "ra": "https://ra.co/dj/kobosil",
+   "sc": "https://soundcloud.com/kobosil",
+   "ig": "https://www.instagram.com/kobosil",
+   "bc": "https://kobosil.bandcamp.com"
+  },
+  "bio": {
+   "de": "Kobosil (Max Kobosil) ist ein deutscher Techno-DJ und Produzent mit einem tiefen, schnellen und aggressiven Sound. Er veröffentlichte auf Ostgut Ton, Marcel Dettmann Records und Unterton und betreibt die R Label Group; RA beschrieb ihn als Resident im Berghain.",
+   "en": "Kobosil (Max Kobosil) is a German techno DJ and producer known for a deep, fast and aggressive sound. He has released on Ostgut Ton, Marcel Dettmann Records and Unterton and runs R Label Group; RA described him as a Berghain resident."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Ostgut Ton",
+   "Marcel Dettmann Records",
+   "Unterton",
+   "R Label Group"
+  ],
+  "sets": [
+   {
+    "t": "KOBOSIL @ Sweaty German Techno Rave (Full Set)",
+    "u": "https://soundcloud.com/kobosil/kobosil-sweaty-german-techno-rave-full-set"
+   },
+   {
+    "t": "[Exclusive Mix] Kobosil – Mix for Time Warp",
+    "u": "https://soundcloud.com/timewarp_official/kobosil-mix-for-time-warp"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/kobosil"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "DOBE": {
+  "alias": [
+   "DOBé"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/dobe.jpg?dateUpdated=1639675923000",
+  "links": {
+   "ra": "https://ra.co/dj/dobe",
+   "sc": "https://soundcloud.com/d-o-b-e",
+   "ig": "https://www.instagram.com/dobemusic"
+  },
+  "bio": {
+   "de": "DOBé ist DJ und Produzent mit Sitz in Berlin. Releases erschienen auf Katermukke und Jannowitz Records.",
+   "en": "DOBé is a DJ and producer based in Berlin. Releases have come out on Katermukke and Jannowitz Records."
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "labels": [
+   "Katermukke",
+   "Jannowitz Records"
+  ],
+  "sets": [
+   {
+    "t": "DOBé @ Love Live Dance Festival, Cape Town (23.04.21)",
+    "u": "https://soundcloud.com/d-o-b-e/dobe-love-live-dance-festival-cape-town-23-04-21"
+   },
+   {
+    "t": "DOBé @ 3NTRY Shanghai (14.12.19)",
+    "u": "https://soundcloud.com/d-o-b-e/dobe-3ntry-shanghai-14-12-19"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/dobe"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Cleopard2000": {
+  "img": "https://static.ra.co/images/profiles/square/cleopard2000.jpg?dateUpdated=1678963493000",
+  "real": "Leon Purrucker",
+  "links": {
+   "ra": "https://ra.co/dj/cleopard2000",
+   "sc": "https://soundcloud.com/cleopard2000",
+   "ig": "https://www.instagram.com/cleopard2000/"
+  },
+  "bio": {
+   "de": "Cleopard2000 (Leon Purrucker) interpretiert Trance, Hard Trance und Eurodance aus dem Berliner Underground neu. Er begann mit Gitarre, brachte sich Klavier bei und fand dann in der elektronischen Musik sein Zuhause.",
+   "en": "Cleopard2000 (Leon Purrucker) is redefining trance, hard trance and Eurodance from Berlin's underground. He started on guitar, taught himself piano and found his creative home in electronic music."
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "genres": [
+   "Trance",
+   "Hard Trance",
+   "Eurodance"
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/cleopard2000"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Molecular": {
+  "img": "https://earth-agency.com/app/uploads/2024/02/RAFA-31.jpeg",
+  "links": {
+   "sc": "https://soundcloud.com/moleculardnb",
+   "ig": "https://www.instagram.com/rafmolecular",
+   "sp": "https://open.spotify.com/artist/69dILXHVwcYRPfoOhmd0uj"
+  },
+  "bio": {
+   "de": "Molecular ist ein Drum-&-Bass-Produzent aus Porto, Portugal, beeinflusst von Dub, Reggae, Soundsystem-Kultur, Jazz und Soul. Releases erschienen u. a. auf Sofa Sound, Critical Music, Vision Recordings und Cause4Concern; er remixte offiziell Noisia.",
+   "en": "Molecular is a drum & bass producer from Porto, Portugal, influenced by dub, reggae, sound system culture, jazz and soul. He has released on Sofa Sound, Critical Music, Vision Recordings and Cause4Concern, among others, and officially remixed Noisia."
+  },
+  "from": {
+   "de": "Porto, Portugal",
+   "en": "Porto, Portugal"
+  },
+  "labels": [
+   "Sofa Sound",
+   "Critical Music",
+   "Vision Recordings",
+   "Overview Music",
+   "Cause4Concern",
+   "Skankandbass"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://earth-agency.com/artist/molecular"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Epicuro": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Alexis Hera": {
+  "img": "https://static.ra.co/images/profiles/square/alexishera.jpg?dateUpdated=1742232529000",
+  "links": {
+   "ra": "https://ra.co/dj/alexishera",
+   "sc": "https://soundcloud.com/alexishera"
+  },
+  "bio": {
+   "de": "Alexis Hera ist eine in Wien lebende Künstlerin mit deutsch-indischen Wurzeln. Mit Rhythmus und Tanz aufgewachsen, verbindet sie verschiedene Genres zu energiegeladenen Sets.",
+   "en": "Alexis Hera is a Vienna-based artist with German-Indian roots. Having grown up immersed in rhythm and dance, she blends genres into powerful, energetic sets."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "sets": [
+   {
+    "t": "Trancefusion Live Rec @ DNA Club Munich (20.12.2024)",
+    "u": "https://soundcloud.com/alexishera/trancefusion-dna-club-munich-20122024-warm-up-for-mika-heggemann-cleopard2000"
+   },
+   {
+    "t": "Bouncy Ravevolution @ Zwidemu Vienna 30.09.2023 Part 1",
+    "u": "https://soundcloud.com/alexishera/bouncy-ravevolution-zwidemu-vienna-30092023"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/alexishera"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Smuf": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Tony V": {
+  "img": "https://static.ra.co/images/profiles/square/tonyv.jpg?dateUpdated=1707913803000",
+  "links": {
+   "ra": "https://ra.co/dj/tonyv",
+   "ig": "https://www.instagram.com/tonyvat"
+  },
+  "bio": {
+   "de": "Tony V ist ein Techno-DJ aus Wien. Er spielt regelmäßig bei TECHNO OBSCENE (NINE O NINE x LSH) im Werk.",
+   "en": "Tony V is a techno DJ from Vienna. He plays regularly at TECHNO OBSCENE (NINE O NINE x LSH) at Das Werk."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "src": [
+   "https://ra.co/dj/tonyv"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Halogenix": {
+  "img": "https://static.ra.co/images/profiles/halogenix.jpg?dateUpdated=1529941561000",
+  "links": {
+   "ra": "https://ra.co/dj/halogenix",
+   "sc": "https://soundcloud.com/halogenix"
+  },
+  "bio": {
+   "de": "Halogenix ist ein britischer Drum-&-Bass-Produzent und DJ, der vor allem auf Critical Music veröffentlicht. Er war außerdem Teil des Trios Ivy Lab (mit Sabre und Stray).",
+   "en": "Halogenix is a UK drum & bass producer and DJ, releasing primarily on Critical Music. He was also part of the trio Ivy Lab alongside Sabre and Stray."
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "labels": [
+   "Critical Music"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "sets": [
+   {
+    "t": "KoolFM – Halogenix – 07-05-23",
+    "u": "https://soundcloud.com/halogenix/koolfm-halogenix-07-05-23"
+   },
+   {
+    "t": "Halogenix 2021 Soulful Mix",
+    "u": "https://soundcloud.com/halogenix/2021-soulful-mix"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/halogenix",
+   "https://ra.co/news/18607"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Monster": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "GYDAH": {
+  "img": "https://static.ra.co/images/profiles/square/gydah.jpg?dateUpdated=1680256473000",
+  "real": "Sophia Diem",
+  "links": {
+   "ra": "https://ra.co/dj/gydah",
+   "sc": "https://soundcloud.com/gydah",
+   "ig": "https://www.instagram.com/gydah_sophia",
+   "bc": "https://gydah.bandcamp.com"
+  },
+  "bio": {
+   "de": "GYDAH (Sophia Diem) ist eine DJ aus Wien. Sie spielte u. a. im Berliner Tresor sowie bei Radio Sunshine Live und Radio FM4.",
+   "en": "GYDAH (Sophia Diem) is a Vienna-based DJ. She has played Tresor in Berlin and appeared on Radio Sunshine Live and Radio FM4."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "sets": [
+   {
+    "t": "GYDAH @ Tresor Berlin, 10.4.2024, Closing Set",
+    "u": "https://soundcloud.com/gydah/gydah-tresor-berlin-1042024-closing-setmp3"
+   },
+   {
+    "t": "Gydah @ Tresor Berlin, 25.10.2023",
+    "u": "https://soundcloud.com/gydah/gydah-tresor-berlin-25102023"
+   },
+   {
+    "t": "GYDAH @ Radio Sunshine Live 10.3.2023",
+    "u": "https://soundcloud.com/gydah/gydah-radio-sunshine-live-1032023"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/gydah"
+  ],
+  "infoChk": "2026-11-03"
  }
 };
 
