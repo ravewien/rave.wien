@@ -824,6 +824,56 @@ footer a:hover{color:var(--accent)}
 .opt.inc>.ico.sx{background:var(--sex);border-color:var(--sex);color:#1a0508}.opt.inc>.ico.aw{background:var(--aw);border-color:var(--aw);color:#1a1300}
 .opt.inc>.ico.od{background:var(--od);border-color:var(--od);color:#04140f}.opt.inc>.ico.np{background:#e9ecf1;border-color:#e9ecf1;color:#0b0d10}.opt.inc>.ico.lg{border-color:var(--lg)}
 .opt>.ico svg{width:12px;height:12px}
+/* Barrierefreiheit */
+@font-face{font-family:"OpenDyslexic";src:url(fonts/opendyslexic-latin-400-normal.woff2) format("woff2");font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:"OpenDyslexic";src:url(fonts/opendyslexic-latin-700-normal.woff2) format("woff2");font-weight:600 900;font-style:normal;font-display:swap}
+.zseg #a11y-b{display:inline-grid;place-items:center;padding:3px 4px;font-size:0;opacity:.85}
+/* Handy: Schriftgröße steckt im Barrierefreiheits-Menü, oben nur das Symbol */
+@media (max-width:879px){.zseg #z-m,.zseg #z-p{display:none}.zseg #a11y-b{padding:4px 6px}.zseg #a11y-b svg{width:20px;height:20px}}
+/* breite Schriften: Menü-Leiste darf seitlich scrollen statt zu überlappen */
+html.a-dys .top .seg[aria-label="View"]{overflow-x:auto;scrollbar-width:none}html.a-dys .top .seg[aria-label="View"] button{flex:none}
+.zseg #a11y-b[aria-expanded="true"],html.a11y-on .zseg #a11y-b{color:var(--accent);opacity:1}
+.a11yp{position:fixed;z-index:300;top:calc(env(safe-area-inset-top,0px) + var(--top) + 6px);right:max(12px,env(safe-area-inset-right,0px));width:min(360px,calc(100vw - 24px));max-height:calc(100vh - var(--top) - 24px);overflow:auto;background:var(--panel);border:1px solid var(--line);border-top:3px solid var(--accent);border-radius:6px;box-shadow:0 12px 40px rgba(0,0,0,.6);padding:14px 14px 12px;overscroll-behavior:contain}
+.a11yp h2{margin:0 0 4px;font:700 13px var(--f-display);letter-spacing:.14em;text-transform:uppercase;color:var(--fg);display:flex;align-items:center;justify-content:space-between}
+.a11yp h2 button{all:unset;cursor:pointer;color:var(--mute);font-size:18px;line-height:1;padding:2px 6px}
+.a11yp>p{margin:0 0 10px;color:var(--mute);font-size:12.5px}
+.a11yrow{display:flex;align-items:center;gap:12px;padding:9px 2px;border-top:1px solid var(--line);cursor:pointer}
+.a11yrow span{flex:1;min-width:0}.a11yrow b{display:block;font-weight:600;font-size:14.5px;color:var(--fg)}.a11yrow small{display:block;color:var(--mute);font-size:12.5px;line-height:1.35;margin-top:1px}
+.a11yrow input{appearance:none;-webkit-appearance:none;flex:none;width:40px;height:23px;border-radius:12px;background:var(--panel2);border:1px solid #4a515c;position:relative;cursor:pointer;margin:0;transition:background .15s}
+.a11yrow input::after{content:"";position:absolute;top:2px;left:2px;width:17px;height:17px;border-radius:50%;background:#aab1bc;transition:transform .15s}
+.a11yrow input:checked{background:var(--accent);border-color:var(--accent)}.a11yrow input:checked::after{transform:translateX(17px);background:#fff}
+.a11yrow input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.a11yft{display:flex;justify-content:space-between;align-items:center;gap:10px;border-top:1px solid var(--line);padding-top:10px;margin-top:2px}
+.a11yft button{background:var(--panel2);border:1px solid var(--line);color:var(--fg);border-radius:4px;padding:6px 12px;font:600 12px var(--f-display);letter-spacing:.08em;text-transform:uppercase;cursor:pointer}
+.a11yft small{color:var(--mute);font-size:12px}
+.a11yz{background:var(--panel2);border:1px solid var(--line);color:var(--fg);border-radius:4px;padding:4px 11px;font:600 14px var(--f-display);cursor:pointer}.a11yz:disabled{opacity:.35;cursor:default}
+/* hoher Kontrast */
+html.a-contrast{--bg:#000;--panel:#000;--panel2:#111;--panel3:#0a0a0a;--line:#8a929e;--fg:#fff;--mute:#e3e7ec;--accent:#5aaeff;--sel:#003a80}
+html.a-contrast *{text-shadow:none}
+html.a-contrast .zseg button,html.a-contrast .row .stub,html.a-contrast .lpin.none{opacity:1}
+html.a-contrast .row,html.a-contrast .deck,html.a-contrast .side,html.a-contrast .opt{border-color:#8a929e}
+/* umgekehrte Farben: Bilder, Videos, Player und Kartenkacheln wieder richtig herum */
+html.a-invert img,html.a-invert video,html.a-invert iframe,html.a-invert .leaflet-tile-pane{filter:invert(1) hue-rotate(180deg)}
+/* einfache Schrift */
+html.a-simple{--f-pixel:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;--f-display:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;--f-body:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;--f-mono:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+html.a-simple body *:not(svg):not(svg *):not(.brand):not(.brand *){font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif!important;letter-spacing:normal!important}
+/* Legasthenie-Schrift */
+html.a-dys{--f-pixel:"OpenDyslexic",sans-serif;--f-display:"OpenDyslexic",sans-serif;--f-body:"OpenDyslexic",sans-serif;--f-mono:"OpenDyslexic",sans-serif}
+html.a-dys body *:not(svg):not(svg *):not(.brand):not(.brand *){font-family:"OpenDyslexic",sans-serif!important;letter-spacing:normal!important}
+html.a-dys .top .brand,html.a-simple .top .brand{font-family:"Doto","Courier New",monospace!important}
+/* mehr Abstand */
+html.a-spacing body{line-height:1.7;word-spacing:.12em}
+html.a-spacing :is(p,li,dd,blockquote,.arts,.ti,h1,h2,h3,.note,.lpe,.a11yrow small){line-height:1.75!important;letter-spacing:.03em;word-spacing:.12em}
+/* Links unterstreichen */
+html.a-links :is(a,[data-vopen],[data-aopen],[data-copen],[data-oev],[data-venue],[data-coll],[data-toc],[data-tv]){text-decoration:underline!important;text-underline-offset:3px}
+/* Bewegung aus */
+html.a-motion *,html.a-motion *::before,html.a-motion *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+/* Fokus deutlich */
+html.a-focus :focus{outline:3px solid #ffd24a!important;outline-offset:2px!important;box-shadow:0 0 0 5px rgba(0,0,0,.8)!important}
+/* großer Mauszeiger */
+html.a-cursor,html.a-cursor *{cursor:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Cpath d='M4 3l26 13-11 3 7 13-5 3-7-13-8 8z' fill='%23fff' stroke='%23000' stroke-width='2.2' stroke-linejoin='round'/%3E%3C/svg%3E") 4 3,auto!important}
+html.a-cursor :is(a,button,[role=button],label,summary,input,select,[data-vopen],[data-aopen],[data-copen],[data-id],.leaflet-interactive,.lpin){cursor:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Cpath d='M15 4a3 3 0 0 1 6 0v12l2-1a3 3 0 0 1 4 1l1 1a3 3 0 0 1 4 1l1 2a3 3 0 0 1 3 3v6c0 5-4 9-9 9h-5c-3 0-5-1-7-4L8 25a3 3 0 0 1 4-4l3 3z' fill='%23fff' stroke='%23000' stroke-width='2' stroke-linejoin='round'/%3E%3C/svg%3E") 15 3,pointer!important}
+
 /* Locations-Karte */
 .lmapwrap{position:relative;padding:10px;isolation:isolate;z-index:0}
 #lmap{position:relative;height:min(72vh,680px);min-height:380px;border:1px solid var(--line);border-radius:6px;overflow:hidden;background:#0d0f12;z-index:0}
@@ -855,9 +905,10 @@ footer a:hover{color:var(--accent)}
   <div class="brand"><span class="astro" role="img" aria-label="rave.wien Astronaut"></span><span>rave<i class="dot"></i>wien</span><span class="betab"><span class="beta">beta</span><a id="t-brep" href="mailto:feedback@rave.wien"><span id="t-brepl"><span class="fw">fehler </span>melden</span></a></span></div>
   <div class="spacer"></div>
   <div class="seg" role="group" aria-label="View"><button class="favnav" id="v-fav" aria-pressed="false" aria-label="Favoriten">★<em id="favn"></em></button><button id="v-list" aria-pressed="true"></button><button id="v-cal" aria-pressed="false"></button><button id="v-loc" aria-pressed="false"></button><button id="v-art" aria-pressed="false"></button><button id="v-col" aria-pressed="false"></button></div>
-  <div class="zseg" role="group" aria-label="Schriftgröße"><button id="z-m" aria-label="Schrift kleiner">A−</button><button id="z-p" aria-label="Schrift größer">A+</button></div>
+  <div class="zseg" role="group" aria-label="Schriftgröße"><button id="z-m" aria-label="Schrift kleiner">A−</button><button id="z-p" aria-label="Schrift größer">A+</button><button id="a11y-b" type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="a11y-p" aria-label="Barrierefreiheit" title="Barrierefreiheit"><svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="none" stroke="currentColor" stroke-width="1.6"/><circle cx="12" cy="6.6" r="1.7" fill="currentColor"/><path d="M6.6 9.3c1.8.5 3.6.8 5.4.8s3.6-.3 5.4-.8M12 10.2v3.6m0 0-2.4 5m2.4-5 2.4 5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg></button></div>
   <div class="seg" role="group" aria-label="Language"><button id="l-de" aria-pressed="true">DE</button><button id="l-en" aria-pressed="false">EN</button></div>
 </header>
+<div id="a11y-p" class="a11yp" role="dialog" aria-modal="false" aria-labelledby="a11y-h" hidden></div>
 
 <div id="msearch"></div>
 <section class="browser">
@@ -1026,6 +1077,14 @@ function timeK(e){if(!e.s)return "unk";const h=+e.s.slice(0,2);return h>=4&&h<12
 const EXTRA=[["src",e=>e.srcCats,["loc","org","multi","one","mn"]],["age",ageK,["18+","21+","unk"]],["price",priceK,["free","p10","p20","p99","unk"]],["time",timeK,["night","day","after","unk"]],["io",e=>e.ioK.length?e.ioK:["unk"],["ioIn","ioOut","unk"]]];
 const xLabel=(k,v)=>k==="age"&&v!=="unk"?v:L()[v];
 try{const p=JSON.parse(localStorage.getItem("rw2")||"{}");if(p.lang)st.lang=p.lang;if(["list","cal","art","loc","col"].includes(p.view))st.view=p.view;if(p.view==="fav"||p.fav)st.fav=true}catch(_){}
+// Barrierefreiheit: Einstellungen merken und sofort anwenden
+const A11YK=["contrast","invert","gray","simple","dys","spacing","links","motion","focus","cursor"];
+let A11Y=new Set();try{(JSON.parse(localStorage.getItem("rw-a11y")||"[]")||[]).forEach(k=>A11YK.includes(k)&&A11Y.add(k))}catch(_){}
+function applyA11y(){const h=document.documentElement;A11YK.forEach(k=>h.classList.toggle("a-"+k,A11Y.has(k)));h.classList.toggle("a11y-on",A11Y.size>0);
+  if(A11Y.has("simple")&&A11Y.has("dys"))h.classList.remove("a-simple");
+  const f=[A11Y.has("invert")?"invert(1) hue-rotate(180deg)":"",A11Y.has("gray")?"grayscale(1)":""].filter(Boolean).join(" ");h.style.filter=f;
+  try{localStorage.setItem("rw-a11y",JSON.stringify([...A11Y]))}catch(_){}}
+applyA11y();
 const ZL=[.9,1,1.1,1.2,1.35];let ZI=1;try{const z=+localStorage.getItem("rw-z");if(ZL.includes(z))ZI=ZL.indexOf(z)}catch(_){}
 function applyZ(){document.documentElement.style.setProperty("--z",ZL[ZI]);try{localStorage.setItem("rw-z",ZL[ZI])}catch(_){};const m=document.getElementById("z-m"),p=document.getElementById("z-p");if(m){m.disabled=ZI===0;p.disabled=ZI===ZL.length-1}}
 const save=()=>{try{localStorage.setItem("rw2",JSON.stringify({lang:st.lang,view:st.view,fav:st.fav}))}catch(_){}};
@@ -1856,7 +1915,7 @@ function pastFavReason(p){const r=[];if(FAV.v.some(v=>p.v===v||vgroup(v)===p.v))
 const mqSheet=matchMedia("(max-width:1199px)"),mqMob=matchMedia("(max-width:879px)");
 function texts(){
   const l=L();document.documentElement.lang=st.lang;
-  $("v-list").textContent=l.list;$("v-art").textContent=l.arts;$("v-col").textContent=l.cols;$("v-loc").textContent=l.locs;$("t-filter").textContent=l.filter;$("v-cal").textContent=l.cal;
+  try{const ab=$("a11y-b");ab.title=A11YT[st.lang].t;ab.setAttribute("aria-label",A11YT[st.lang].t)}catch(_){}$("v-list").textContent=l.list;$("v-art").textContent=l.arts;$("v-col").textContent=l.cols;$("v-loc").textContent=l.locs;$("t-filter").textContent=l.filter;$("v-cal").textContent=l.cal;
   $("t-searchlbl").textContent=l.search;$("q").placeholder=l.ph;$("reset").textContent=l.reset;const sv=hasSaved();$("savef").textContent=sv?l.savedF:l.saveF;$("savef").setAttribute("aria-pressed",sv);
   $("t-ai").textContent=l.ai;$("t-foot1").innerHTML=`${l.asOf} · ${l.srcList}: `+SRCLIST.map(([n,u])=>`<a href="${esc(su(u))}" target="_blank" rel="noopener">${esc(n)}</a>`).join(", ");$("t-report").textContent=l.report;$("t-report").href=reportURL("","");$("t-brep").href=reportURL("","");$("t-brepl").innerHTML=l.repS;
   $("sugbtn").textContent=l.sug;$("t-sugl").textContent=l.sugL;$("sugnote").placeholder=l.sugNote;$("t-sugsend").textContent=l.sugSend;
@@ -1884,6 +1943,36 @@ const gcView=(v,start)=>gc("ansicht/"+(start?"start-":"")+({list:"liste",cal:"ka
 function setView(v){if(st.view===v)return;st.view=v;gcView(v);save();scrollTo(0,0);render()}
 try{gcView(st.view,1)}catch(_){}
 
+// Barrierefreiheits-Menü
+const A11YT={
+ de:{t:"Barrierefreiheit",i:"Die Einstellungen gelten nur auf diesem Gerät und bleiben gespeichert.",reset:"Alles zurücksetzen",close:"Schließen",size:"Schriftgröße",smaller:"kleiner",bigger:"größer",
+  o:{contrast:["Hoher Kontrast","Weiße Schrift auf Schwarz, kräftigere Rahmen"],invert:["Farben umkehren","Heller Hintergrund mit dunkler Schrift"],gray:["Graustufen","Alles ohne Farben, z. B. bei Farbsehschwäche oder Reizüberflutung"],
+   simple:["Einfache Schrift","Gut lesbare Standardschrift statt Pixel- und Schmalschrift"],dys:["Legasthenie-Schrift","OpenDyslexic: Buchstaben, die sich schwerer verwechseln lassen"],spacing:["Mehr Abstand","Größerer Zeilen-, Wort- und Buchstabenabstand"],
+   links:["Links unterstreichen","Alles Anklickbare ist unterstrichen"],motion:["Bewegung aus","Keine Animationen und Übergänge"],focus:["Fokus deutlich zeigen","Gut sichtbarer Rahmen bei Bedienung mit der Tastatur"],cursor:["Großer Mauszeiger","Größerer Zeiger am Computer"]}},
+ en:{t:"Accessibility",i:"Settings apply to this device only and are remembered.",reset:"Reset all",close:"Close",size:"Text size",smaller:"smaller",bigger:"larger",
+  o:{contrast:["High contrast","White text on black, stronger borders"],invert:["Invert colours","Light background with dark text"],gray:["Greyscale","No colours, e.g. for colour vision deficiency or sensory overload"],
+   simple:["Simple font","Easy-to-read standard font instead of pixel and condensed fonts"],dys:["Dyslexia font","OpenDyslexic: letters that are harder to mix up"],spacing:["More spacing","Larger line, word and letter spacing"],
+   links:["Underline links","Everything clickable is underlined"],motion:["Reduce motion","No animations or transitions"],focus:["Highlight focus","Clearly visible outline when using the keyboard"],cursor:["Large cursor","Bigger mouse pointer on computers"]}}};
+function a11yHTML(){const t=A11YT[st.lang]||A11YT.de;const fine=matchMedia("(pointer:fine)").matches;
+  return `<h2 id="a11y-h">${t.t}<button type="button" data-a11yx aria-label="${t.close}">×</button></h2><p>${t.i}</p>`+
+   `<div class="a11yrow" style="cursor:default"><span><b>${t.size}</b></span><span style="flex:none;display:flex;gap:6px"><button type="button" class="a11yz" data-a11yz="-" aria-label="${t.size} ${t.smaller}">A−</button><button type="button" class="a11yz" data-a11yz="+" aria-label="${t.size} ${t.bigger}">A+</button></span></div>`+
+   A11YK.filter(k=>k!=="cursor"||fine).map(k=>`<label class="a11yrow"><span><b>${t.o[k][0]}</b><small>${t.o[k][1]}</small></span><input type="checkbox" role="switch" data-a11y="${k}"${A11Y.has(k)?" checked":""}></label>`).join("")+
+   `<div class="a11yft"><button type="button" data-a11yr>${t.reset}</button></div>`}
+function a11yOpen(){const p=$("a11y-p");p.innerHTML=a11yHTML();p.hidden=false;$("a11y-b").setAttribute("aria-expanded","true");const f=p.querySelector("input,button");if(f)f.focus();gc("a11y/menue","Barrierefreiheit: Menü geöffnet",true)}
+function a11yClose(back){const p=$("a11y-p");if(p.hidden)return;p.hidden=true;$("a11y-b").setAttribute("aria-expanded","false");if(back)$("a11y-b").focus()}
+document.addEventListener("click",ev=>{const t=ev.target;
+  if(t.closest("#a11y-b")){ev.preventDefault();$("a11y-p").hidden?a11yOpen():a11yClose();return}
+  const p=$("a11y-p");if(p.hidden)return;
+  if(!t.closest("#a11y-p")){a11yClose();return}
+  if(t.closest("[data-a11yx]")){a11yClose(1);return}
+  const z=t.closest("[data-a11yz]");if(z){$(z.dataset.a11yz==="+"?"z-p":"z-m").click();return}
+  if(t.closest("[data-a11yr]")){A11Y.clear();applyA11y();p.querySelectorAll("[data-a11y]").forEach(i=>i.checked=false);if(LMAP)setTimeout(()=>LMAP.invalidateSize(),50);return}},true);
+document.addEventListener("change",ev=>{const i=ev.target.closest&&ev.target.closest("[data-a11y]");if(!i)return;const k=i.dataset.a11y;
+  if(i.checked){A11Y.add(k);gc("a11y/"+k,"Barrierefreiheit: "+(A11YT.de.o[k]||[k])[0],true);
+    if(k==="simple"&&A11Y.delete("dys")){const d=$("a11y-p").querySelector('[data-a11y="dys"]');if(d)d.checked=false}
+    if(k==="dys"&&A11Y.delete("simple")){const d=$("a11y-p").querySelector('[data-a11y="simple"]');if(d)d.checked=false}}
+  else A11Y.delete(k);applyA11y();if(LMAP)setTimeout(()=>LMAP.invalidateSize(),50)});
+document.addEventListener("keydown",ev=>{if(ev.key==="Escape"&&!$("a11y-p").hidden){a11yClose(1)}});
 document.addEventListener("keydown",ev=>{if(ev.key==="Escape"&&!$("flybox").hidden){$("flybox").hidden=true;hpop(1);return}if((ev.key==="Enter"||ev.key===" ")&&ev.target.dataset&&ev.target.dataset.pin!=null){ev.preventDefault();ev.target.dispatchEvent(new MouseEvent("click",{bubbles:true}));return}if(ev.key==="Escape"&&$("side").classList.contains("open")){drawer(false);return}if(ev.key==="Escape"&&document.activeElement!==$("q")&&st.cards.length){closeCard(ck(st.cards[st.cards.length-1]));hpop(1)}});
 document.addEventListener("click",ev=>{
   {const tk=ev.target.closest&&ev.target.closest("a.tixbtn");if(tk)gc("ticket","Ticket-Klick",true)}
