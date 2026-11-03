@@ -4,7 +4,7 @@ name: Vorschauseiten
 on:
   push:
     branches: [main]
-    paths: [events.js, past.js, .github/scripts/previews.js, .github/scripts/stats.js, .github/scripts/logos.js]
+    paths: [events.js, past.js, .github/scripts/previews.js, .github/scripts/stats.js, .github/scripts/logos.js, .github/scripts/geocode.js]
   workflow_dispatch:
 permissions:
   contents: write
@@ -27,13 +27,15 @@ jobs:
         run: |
           npm i --no-save --no-package-lock --silent sharp@0.33.5
           node .github/scripts/logos.js
+      - name: Koordinaten ermitteln
+        run: node .github/scripts/geocode.js || true
       - name: Statistik erzeugen
         run: node .github/scripts/stats.js
       - name: Speichern
         run: |
           git config user.name "rave.wien Vorschau"
           git config user.email "ravewien@users.noreply.github.com"
-          git add e a c v stats.json logos.js
+          git add e a c v stats.json logos.js geo.js
           if git diff --cached --quiet; then echo "Keine Änderungen."; exit 0; fi
           git commit -m "Vorschauseiten und Statistik aktualisiert"
           for i in 1 2 3 4 5; do
