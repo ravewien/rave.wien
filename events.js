@@ -7411,14 +7411,14 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Scapula": {
-  "noImg": "2026-10-28",
+  "noImg": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/scapula_at"
   },
   "src": [
    "https://soundcloud.com/scapula_at"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03"
  },
  "Skeedz": {
   "noImg": "2026-10-28",
@@ -10307,8 +10307,8 @@ const AR={
    "https://de.ra.co/events/2101000",
    "https://soundcloud.com/johannavantan"
   ],
-  "noImg": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Sodomland": {
   "img": "https://static.ra.co/images/profiles/square/sodomland.jpg?dateUpdated=1782761041460",
@@ -10588,9 +10588,9 @@ const AR={
   ]
  },
  "Jules Foe": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Redivider": {
   "links": {
@@ -10795,18 +10795,18 @@ const AR={
   ]
  },
  "RUG": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Marie Byrd Land": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Soulspin": {
-  "noImg": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
   "links": {
    "mc": "https://www.mixcloud.com/djsoulspin/"
   },
@@ -10844,21 +10844,30 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Dansmussen": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Siili": {
   "noImg": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "links": {
-   "sc": "https://soundcloud.com/siilimusic"
+   "sc": "https://soundcloud.com/siilimusic",
+   "bc": "https://bandcamp.com/siilimusique"
   },
   "src": [
-   "https://soundcloud.com/siilimusic",
-   "https://soundcloud.com/siilimusic/siili-dead-end-praterstern-original-mix"
+   "https://bandcamp.com/siilimusique"
   ],
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "img": "https://f4.bcbits.com/img/0031620181_41.jpg",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Siili ist ein in Wien lebender DJ und Produzent, der für das Projekt Grätzlsound auflegt und produziert. Er hostet in Wien die Listening-Sessions „Hör ma sich“, die Produzent:innen aller Genres und Erfahrungsstufen unterstützen. Beim Superego-Records-Labelabend im Celeste wird er (nomind) mit Minimal und House angekündigt.",
+   "en": "Siili is a Vienna-based DJ and producer working with Grätzlsound. In Vienna he hosts the listening sessions \"Hör ma sich\", which support producers of all genres and experience levels. For the Superego Records label night at Celeste he is billed (nomind) with minimal and house."
+  }
  },
  "Punzmann": {
   "infoChk": "2026-11-02",
@@ -10892,18 +10901,18 @@ const AR={
   ]
  },
  "Nava Hemyari": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Kilroy": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Gush Valley": {
-  "noImg": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
   "links": {
    "ig": "https://www.instagram.com/gush.valley/"
   },
@@ -12184,9 +12193,9 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "HÄNSCH": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "esti.d": {
   "img": "https://static.ra.co/images/profiles/square/esti.d.jpg?dateUpdated=1792594143910",
@@ -13070,9 +13079,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "AUGEN ZU": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Abu Naima": {
   "img": "https://static.ra.co/images/profiles/square/abunaima.jpg?dateUpdated=1737971743000",
@@ -15596,14 +15605,14 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "MEIOSISS": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "MØCK": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Malounadou": {
   "infoChk": "2026-11-03",
