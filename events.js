@@ -7054,7 +7054,11 @@ const AR={
    "de": "Crystal O gilt laut RA als künstlerische Säule der Wiener Queer-Community. Sie spielt harte, groovige Sounds, frühen deutschen Hardtechno und Schranz; ohne Drag tritt sie auch als Crystal Ohne auf.",
    "en": "According to RA, Crystal O is an artistic pillar of Vienna's queer community. She plays hard, groovy sounds, early German hard techno and schranz, and also performs out of drag as Crystal Ohne."
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  }
  },
  "Apua": {
   "links": {
@@ -7448,8 +7452,22 @@ const AR={
    }
   ],
   "setsChecked": "2026-10-28",
-  "noImg": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "from": {
+   "de": "Melle (Niedersachsen), Deutschland",
+   "en": "Melle (Lower Saxony), Germany"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "The Tunegirl spielt Techno live auf einem modularen Eurorack-System – ohne Computer und vorprogrammierte Sequenzen, jede Performance ist ein Unikat. Die Musikerin aus Melle in Niedersachsen kehrte 2009 zur Musik zurück und debütierte im Mai 2026 beim Awakenings-Upclose-Festival in Amsterdam.",
+   "en": "The Tunegirl performs techno live on a modular Eurorack system – no computer, no pre-programmed sequences, every performance unique. The musician from Melle in Lower Saxony returned to music in 2009 and debuted at Awakenings Upclose in Amsterdam in May 2026."
+  },
+  "src": [
+   "https://www.leinetal24.de/niedersachsen/63-jaehrige-aus-niedersachsen-mischt-internationale-techno-szene-auf-94324592.html"
+  ]
  },
  "Alex Maurer": {
   "noLinks": "2026-11-03",
@@ -7457,9 +7475,9 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "DJ Bottleghost": {
-  "noLinks": "2026-10-31",
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31"
+  "noLinks": "2026-11-03",
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "DJ Veloziped": {
   "links": {
@@ -7678,9 +7696,9 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "Foxloe": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Reinhard Zach": {
   "noImg": "2026-10-28",
@@ -7737,14 +7755,14 @@ const AR={
   "setsChecked": "2026-11-03"
  },
  "Peradise": {
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Sweet Spot": {
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Deleven": {
   "noImg": "2026-11-03",
@@ -7847,9 +7865,9 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Gopnikbarbie": {
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Hello Kiffy": {
   "noImg": "2026-11-03",
@@ -7954,9 +7972,9 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Sportacore": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Cheddar Boyz": {
   "noImg": "2026-11-03",
@@ -8013,7 +8031,7 @@ const AR={
   "setsChecked": "2026-11-03"
  },
  "DNBREAK": {
-  "noImg": "2026-10-28",
+  "noImg": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/fabiiam"
   },
@@ -8024,7 +8042,7 @@ const AR={
    "https://soundcloud.com/fabiiam",
    "https://soundcloud.com/gorilla-cave/dnbreak-b2b-scarnox-mastered?in=luke-anmacht/sets/dnb"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-11-03"
  },
  "Scapula": {
   "noImg": "2026-11-03",
@@ -8037,14 +8055,23 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Skeedz": {
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Rellux": {
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-10-31",
+  "links": {
+   "sc": "https://soundcloud.com/rellux"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "src": [
+   "https://soundcloud.com/rellux"
+  ]
  },
  "Sinis": {
   "noImg": "2026-11-03",
@@ -8071,9 +8098,9 @@ const AR={
   ]
  },
  "Ben Leander": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "2bihonest": {
   "noImg": "2026-10-31",
@@ -8191,14 +8218,14 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "Wisteria": {
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Sanex": {
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "PATRIK HOUR": {
   "noImg": "2026-10-31",
@@ -8356,14 +8383,14 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Meltdown": {
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Janex": {
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "OKO": {
   "noImg": "2026-10-31",
@@ -8427,24 +8454,24 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "CED": {
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Lazaro": {
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Distorted": {
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Hannah": {
-  "noImg": "2026-10-28",
-  "infoChk": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Anni Herzer": {
   "from": {
@@ -9167,14 +9194,32 @@ const AR={
    "https://ra.co/events/2382527",
    "https://ra.co/events/2143849"
   ],
-  "infoChk": "2026-10-31",
+  "infoChk": "2026-11-03",
   "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noLinks": "2026-10-31",
+  "links": {
+   "sc": "https://soundcloud.com/rantom_official"
+  },
+  "sets": [
+   {
+    "t": "RANTOM F2F PATRICK M4SS – VERSUS: A Face2Face Rave @ Das Werk (20.06.2025)",
+    "u": "https://soundcloud.com/herzfrequenz_techno/rantom-f2f-patrick-m4ss-versus-a-face2face-rave-das-werk-20062025-set-recording"
+   },
+   {
+    "t": "RANTOM – HERZFREQUENZ x NINE O NINE @ Das Werk (10.01.2025)",
+    "u": "https://soundcloud.com/herzfrequenz_techno/rantom-hz-250110"
+   },
+   {
+    "t": "RANTOM – IMPULSE @ Grelle Forelle (02.11.2024)",
+    "u": "https://soundcloud.com/herzfrequenz_techno/rantom-impulse-021124"
+   }
+  ],
+  "setsChecked": "2026-11-03"
  },
  "Nikilist": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "KRISTUS": {
   "infoChk": "2026-10-31",
@@ -9282,14 +9327,14 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Zuckerfrei": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "The Lebanese": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Findus": {
   "infoChk": "2026-11-03",
@@ -9297,19 +9342,19 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "Helix": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "sig. Molteni": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Birk": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Soularium": {
   "links": {
@@ -9320,8 +9365,8 @@ const AR={
    "https://soundcloud.com/callshopradio/soularium-101124",
    "https://ra.co/events/1926527"
   ],
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
  },
  "Kasho Chualan": {
   "infoChk": "2026-11-02",
