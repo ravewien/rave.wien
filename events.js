@@ -20055,6 +20055,474 @@ const AR={
    "https://soundcloud.com/maier_mareia",
    "https://soundcloud.com/keller/kellersinfonie-33-leschueft-mareia-aka-marieu"
   ]
+ },
+ "Simula": {
+  "img": "https://static.ra.co/images/profiles/square/simula.jpg?dateUpdated=1726562813000",
+  "links": {
+   "ra": "https://ra.co/dj/simula",
+   "sc": "https://soundcloud.com/simula"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Playaz Recordings"
+  ],
+  "bio": {
+   "de": "Simula ist ein Drum-&-Bass-Artist aus Großbritannien und Mitinhaber von Neksus Sound. Releases erschienen u. a. auf Playaz Recordings; er spielt bei Critical-Music-Nächten.",
+   "en": "Simula is a UK drum & bass artist and co-owner of Neksus Sound. His releases include records on Playaz Recordings, and he plays Critical Music nights."
+  },
+  "src": [
+   "https://ra.co/dj/simula",
+   "https://ra.co/events/2036510"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Annix": {
+  "img": "https://static.ra.co/images/profiles/annix.jpg?dateUpdated=1490033176383",
+  "links": {
+   "ra": "https://ra.co/dj/annix",
+   "sc": "https://soundcloud.com/annixdnb",
+   "web": "https://www.playaz.co.uk/artists/annix"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Playaz"
+  ],
+  "bio": {
+   "de": "Annix ist ein britisches Drum-&-Bass-Duo aus Konichi und Decimal Bass. Seit 2012 sind die beiden mit DJ Hypes Label Playaz verbunden.",
+   "en": "Annix is a UK drum & bass duo formed by Konichi and Decimal Bass. Since 2012 they have been affiliated with DJ Hype's Playaz label."
+  },
+  "src": [
+   "https://ra.co/dj/annix"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "AZYR": {
+  "img": "https://static.ra.co/images/profiles/square/azyr.jpg?dateUpdated=1638796603000",
+  "links": {
+   "ra": "https://ra.co/dj/azyr",
+   "sc": "https://soundcloud.com/Azy_r",
+   "ig": "https://www.instagram.com/Azyr_music",
+   "bc": "https://azyr.bandcamp.com"
+  },
+  "from": {
+   "de": "Nordwestengland, Vereinigtes Königreich",
+   "en": "North West England, United Kingdom"
+  },
+  "real": "Olly Rowley",
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Animal Farm Records",
+   "Obscuur Records",
+   "MOTZ",
+   "ECHO Recordings",
+   "Insane Industry Recordings"
+  ],
+  "bio": {
+   "de": "Azyr (Olly Rowley) ist DJ und Produzent aus dem Nordwesten Englands. Er ist regelmäßig bei Teletech zu hören und veröffentlichte u. a. auf Animal Farm Records, Obscuur Records, MOTZ und Insane Industry.",
+   "en": "Azyr (Olly Rowley) is a DJ and producer from the North West of England. He is a regular on Teletech line-ups and has released on Animal Farm Records, Obscuur Records, MOTZ and Insane Industry, among others."
+  },
+  "src": [
+   "https://ra.co/dj/azyr"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Laurent Garnier": {
+  "img": "https://static.ra.co/images/profiles/square/laurentgarnier.jpg?dateUpdated=1574086292000",
+  "links": {
+   "ra": "https://ra.co/dj/laurentgarnier",
+   "sc": "https://soundcloud.com/laurent-garnier",
+   "ig": "https://www.instagram.com/laurent_garnier",
+   "web": "https://www.laurentgarnier.com"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "alias": [
+   "Alaska"
+  ],
+  "genres": [
+   "Techno",
+   "House"
+  ],
+  "labels": [
+   "F Communications",
+   "Mute Records",
+   "PIAS",
+   "Kompakt",
+   "Rekids",
+   "Ed Banger Records"
+  ],
+  "bio": {
+   "de": "Laurent Garnier ist einer der prägenden DJs und Produzenten der französischen Techno- und House-Szene. Er veröffentlichte u. a. auf F Communications, Mute, PIAS, Kompakt und Rekids und wurde in Frankreich mit der Ehrenlegion ausgezeichnet.",
+   "en": "Laurent Garnier is one of the defining DJs and producers of French techno and house. He has released on F Communications, Mute, PIAS, Kompakt and Rekids, among others, and was awarded France's Legion of Honour."
+  },
+  "src": [
+   "https://ra.co/dj/laurentgarnier",
+   "https://ra.co/news/37732"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Mcr-t": {
+  "img": "https://static.ra.co/images/profiles/square/mcr-t.jpg?dateUpdated=1760451451733",
+  "links": {
+   "ra": "https://ra.co/dj/mcr-t",
+   "ig": "https://www.instagram.com/kolegajj"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Live From Earth"
+  ],
+  "bio": {
+   "de": "MCR-T ist ein in Deutschland ansässiger DJ und Produzent aus dem Umfeld des Berliner Labels und Kollektivs Live From Earth. Er spielt international, etwa bei Live From Earth Klub im Berghain oder Tunnel in Los Angeles.",
+   "en": "MCR-T is a Germany-based DJ and producer from the circle of Berlin label and collective Live From Earth. He plays internationally, e.g. at Live From Earth Klub at Berghain or Tunnel in Los Angeles."
+  },
+  "src": [
+   "https://ra.co/dj/mcr-t",
+   "https://ra.co/events/1614763",
+   "https://ra.co/events/1684659"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Lea Occhi": {
+  "img": "https://static.ra.co/images/profiles/square/leaocchi.jpg?dateUpdated=1775485969317",
+  "links": {
+   "ra": "https://ra.co/dj/leaocchi",
+   "sc": "https://soundcloud.com/lea-occhi",
+   "ig": "https://www.instagram.com/leaocchi"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "alias": [
+   "Léa Occhi"
+  ],
+  "bio": {
+   "de": "Léa Occhi ist eine französische DJ, Mitgründerin und Resident des Pariser Queer-Kollektivs Spectrum Waves. Sie spielt international, etwa in Warschau, New York und Los Angeles.",
+   "en": "Léa Occhi is a French DJ, co-founder and resident of the Parisian queer collective Spectrum Waves. She plays internationally, including Warsaw, New York and Los Angeles."
+  },
+  "src": [
+   "https://ra.co/dj/leaocchi"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Ryan Elliott": {
+  "img": "https://static.ra.co/images/profiles/square/ryanelliott.jpg?dateUpdated=1773824903920",
+  "links": {
+   "ra": "https://ra.co/dj/ryanelliott",
+   "sc": "https://soundcloud.com/ryan-elliott",
+   "ig": "https://www.instagram.com/ryan.r.elliott",
+   "web": "https://www.ostgut.berlin/ryan-elliott"
+  },
+  "from": {
+   "de": "Detroit, USA; lebt in Berlin",
+   "en": "Detroit, USA; based in Berlin"
+  },
+  "genres": [
+   "Techno",
+   "House"
+  ],
+  "labels": [
+   "Ostgut Ton",
+   "Faith Beat"
+  ],
+  "bio": {
+   "de": "Ryan Elliott stammt aus Detroit und lebt in Berlin. Er ist Resident im Berghain/Panorama Bar, veröffentlicht auf Ostgut Ton und betreibt das Label Faith Beat.",
+   "en": "Ryan Elliott is a Detroit-born DJ and producer based in Berlin. He is a resident at Berghain/Panorama Bar, releases on Ostgut Ton and runs the label Faith Beat."
+  },
+  "src": [
+   "https://ra.co/dj/ryanelliott"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "DJ Hyperdrive": {
+  "img": "https://static.ra.co/images/profiles/square/djhyperdrive.jpg?dateUpdated=1569844095000",
+  "links": {
+   "ra": "https://ra.co/dj/djhyperdrive",
+   "sc": "https://soundcloud.com/djhyperdrive",
+   "ig": "https://www.instagram.com/fuckrobb"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "src": [
+   "https://ra.co/dj/djhyperdrive",
+   "https://ra.co/events/2493420"
+  ],
+  "infoChk": "2026-11-03",
+  "bio": {
+   "de": "DJ Hyperdrive ist ein in Deutschland ansässiger DJ, der u. a. bei BCCO-Nächten in Berlin, Paris, Amsterdam und Helsinki sowie bei Hard-Trade-Events spielt.",
+   "en": "DJ Hyperdrive is a Germany-based DJ who plays BCCO nights in Berlin, Paris, Amsterdam and Helsinki, as well as Hard Trade events."
+  }
+ },
+ "Manu Script": {
+  "links": {
+   "sc": "https://soundcloud.com/manu_script"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Manu Script ist ein Techno-DJ und Produzent aus der Wiener Szene. Er spielt regelmäßig im B2B mit Adrian Tronic, u. a. in der Grelle Forelle, der Pratersauna und im SASS Music Club; sein Track „Nasty“ erschien auf Endless Music.",
+   "en": "Manu Script is a techno DJ and producer from the Vienna scene. He regularly plays back-to-back with Adrian Tronic, e.g. at Grelle Forelle, Pratersauna and SASS Music Club; his track \"Nasty\" was released on Endless Music."
+  },
+  "sets": [
+   {
+    "t": "Summer Mix 2025",
+    "u": "https://soundcloud.com/manu_script/summer-mix-2025"
+   },
+   {
+    "t": "Adrian Tronic B2B Manu Script @ Grelle Forelle Vienna",
+    "u": "https://soundcloud.com/adriantronic/adrian-tronic-b2b-manu-script-grelle-forelle-vienna"
+   },
+   {
+    "t": "Adrian Tronic B2B Manu Script @ Pratersauna (25.9.21)",
+    "u": "https://soundcloud.com/adriantronic/pratersauna-dj-set-25921-adrian-tronic-b2b-manu-script"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/manu_script/summer-mix-2025",
+   "https://soundcloud.com/adriantronic/adrian-tronic-b2b-manu-script-grelle-forelle-vienna",
+   "https://soundcloud.com/berlinhousemusic/premiere-manu-script-nasty-gregory-at-remix-endless-music"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
+ },
+ "Van der Wiese": {
+  "links": {
+   "sc": "https://soundcloud.com/van-der-wiese"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Violent Cases"
+  ],
+  "bio": {
+   "de": "Van der Wiese ist ein Techno-Produzent und DJ. Releases erschienen u. a. auf Violent Cases (Vestiges EP, VC033), dazu Kollaborationen mit Enko.",
+   "en": "Van der Wiese is a techno producer and DJ. His releases include the Vestiges EP (VC033) on Violent Cases, plus collaborations with Enko."
+  },
+  "src": [
+   "https://soundcloud.com/van-der-wiese/sets/vestiges",
+   "https://soundcloud.com/violentcases/sets/vc006-van-der-wiese",
+   "https://soundcloud.com/enkosound/asfalt-raver-enko-van-der-wiese"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
+ },
+ "Alecid": {
+  "img": "https://static.ra.co/images/profiles/alecid.jpg?dateUpdated=1551181451000",
+  "links": {
+   "ra": "https://ra.co/dj/alecid"
+  },
+  "from": {
+   "de": "Österreich (Wien)",
+   "en": "Austria (Vienna)"
+  },
+  "real": "Alessa Däger",
+  "labels": [
+   "Mosiak Records"
+  ],
+  "bio": {
+   "de": "Alecid ist eine Wiener DJ mit Release auf Mosiak Records. Sie spielt u. a. bei Dance Danubia am Arena Beach, in der Grelle Forelle und im FLUCC.",
+   "en": "Alecid is a Vienna-based DJ with a release on Mosiak Records. She plays Dance Danubia at Arena Beach, Grelle Forelle and FLUCC, among others."
+  },
+  "src": [
+   "https://ra.co/dj/alecid"
+  ],
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Rene Wise": {
+  "img": "https://static.ra.co/images/profiles/square/renewise.jpg?dateUpdated=1544745600000",
+  "links": {
+   "ra": "https://ra.co/dj/renewise",
+   "sc": "https://soundcloud.com/renewise",
+   "ig": "https://www.instagram.com/renewise"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich; lebt in Portugal",
+   "en": "United Kingdom; based in Portugal"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Enemy Records",
+   "Mote-Evolver",
+   "Blueprint Records",
+   "Bassiani",
+   "Knowledge Imprint"
+  ],
+  "bio": {
+   "de": "Rene Wise ist ein britischer Techno-DJ und Produzent mit Sitz in Portugal, bei dem Produktion und DJing als ein Konzept mit Fokus auf Erzählen durch Klang verschmelzen. Releases erschienen u. a. auf Enemy Records, Mote-Evolver, Blueprint und Bassiani; er spielt etwa im Berghain.",
+   "en": "Rene Wise is a UK-born techno DJ and producer based in Portugal, whose production and DJing fuse into one concept focused on storytelling through sound. He has released on Enemy Records, Mote-Evolver, Blueprint and Bassiani, and plays clubs such as Berghain."
+  },
+  "src": [
+   "https://ra.co/dj/renewise",
+   "https://ra.co/events/1709135"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Bushman": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Artemis": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Dream DJ Team": {
+  "img": "https://static.ra.co/images/profiles/square/dreamdjteam.jpg?dateUpdated=1724248450000",
+  "links": {
+   "ra": "https://ra.co/dj/dreamdjteam",
+   "sc": "https://soundcloud.com/dream-dj-team",
+   "bc": "https://glubhotline.bandcamp.com"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Dream DJ Team ist ein DJ-Duo aus Österreich aus dem Umfeld von Glub Hotline. Im PRST feierte es die Release-Party zum Album „Klopf Klopf“.",
+   "en": "Dream DJ Team is a DJ duo from Austria, connected to Glub Hotline. At PRST they celebrated the release party for the album \"Klopf Klopf\"."
+  },
+  "src": [
+   "https://ra.co/dj/dreamdjteam"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "TingelTangelTek": {
+  "links": {
+   "sc": "https://soundcloud.com/tingeltangeltek"
+  },
+  "src": [
+   "https://soundcloud.com/tingeltangeltek"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
+ },
+ "Rumi Von Baires": {
+  "img": "https://images.ctfassets.net/taoiy3h84mql/5IgXuyDhwnJMpwl5WiutZG/35c3c6a04978dcf41ecd335375704be8/10741938720_IMG_3492.JPG?w=3840&h=2160&q=75&fm=jpg&fl=progressive&f=faces&fit=fill",
+  "links": {
+   "bc": "https://bandcamp.com/rumivonbaires"
+  },
+  "from": {
+   "de": "Buenos Aires, Argentinien; lebt seit 2016 in Wien",
+   "en": "Buenos Aires, Argentina; based in Vienna since 2016"
+  },
+  "real": "Romualdo Ramos",
+  "genres": [
+   "House",
+   "Disco",
+   "Breaks",
+   "Techno"
+  ],
+  "bio": {
+   "de": "Rumi von Baires ist DJ und Produzent, aufgewachsen in Buenos Aires in kapverdischen Familien. Seit seinem Umzug nach Wien 2016 ist er in der Szene aktiv: Er gründete die House-Party „A party called Jack“ und 2021 die LGBTQI+-Reihe GAZE mit. Seine Sets bewegen sich zwischen House, Disco, Breaks und Techno mit Jazz-, Soul- und afro-lateinamerikanischen Einflüssen.",
+   "en": "Rumi von Baires is a DJ and producer raised in Buenos Aires in Cape Verdean families. Since moving to Vienna in 2016 he has been active in the scene, co-founding the house party \"A party called Jack\" and, in 2021, the LGBTQI+ series GAZE. His sets move across house, disco, breaks and techno with jazz, soul and Afro-Latin influences."
+  },
+  "sets": [
+   {
+    "t": "GEMS | Rumi von Baires (Refuge Worldwide, 30.03.2024)",
+    "u": "https://refugeworldwide.com/radio/gems-rumi-von-baires-30-mar-2024"
+   },
+   {
+    "t": "GEMS | Rumi von Baires (Refuge Worldwide, 11.04.2023)",
+    "u": "https://refugeworldwide.com/radio/gems-rumi-von-baires-11-apr-2023"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://refugeworldwide.com/artists/rumi-von-baires",
+   "https://re-imagine-europe.eu/?p=20158"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Theo Meier": {
+  "img": "https://static.ra.co/images/profiles/square/theomeier.jpg?dateUpdated=1556841600000",
+  "links": {
+   "ra": "https://ra.co/dj/theomeier",
+   "sc": "https://soundcloud.com/theo-meier",
+   "ig": "https://www.instagram.com/theodor.meier"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Progressive House",
+   "Melodic Techno",
+   "House"
+  ],
+  "labels": [
+   "Weltn Audio",
+   "Get Physical Music",
+   "Traum Schallplatten",
+   "Einmusika",
+   "Poesie Musik"
+  ],
+  "bio": {
+   "de": "Theo Meier ist ein Wiener Produzent und DJ zwischen Progressive House, Melodic Techno und House. Er betreibt das Label Weltn Audio und veröffentlichte u. a. auf Get Physical, Traum Schallplatten, Einmusika und Poesie Musik.",
+   "en": "Theo Meier is a Vienna-based producer and DJ working between progressive house, melodic techno and house. He runs the label Weltn Audio and has released on Get Physical, Traum Schallplatten, Einmusika and Poesie Musik, among others."
+  },
+  "src": [
+   "https://ra.co/dj/theomeier"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Aylean": {
+  "links": {
+   "sc": "https://soundcloud.com/ayleanx"
+  },
+  "bio": {
+   "de": "Aylean ist eine DJ aus der Wiener Szene, die u. a. einen Mix für FM4 La Boum Deluxe beigesteuert hat und in der Grelle Forelle spielt.",
+   "en": "Aylean is a DJ from the Vienna scene who has contributed a mix to FM4 La Boum Deluxe and plays Grelle Forelle."
+  },
+  "sets": [
+   {
+    "t": "Aylean X FM4 La Boum Deluxe",
+    "u": "https://soundcloud.com/ayleanx/aylean-x-fm4-la-boum-deluxe"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/ayleanx/aylean-x-fm4-la-boum-deluxe"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
+ },
+ "Sømnus": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "FTS": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  }
 };
 
