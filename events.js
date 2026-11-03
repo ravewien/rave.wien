@@ -165,7 +165,10 @@ const CG={
  ],
  "Step Forward": [
   "Techno",
-  "Trance"
+  "Trance",
+  "Ghetto Tech",
+  "Electro",
+  "House"
  ],
  "Soundlabs": [
   "Techno",
@@ -668,9 +671,37 @@ const CG={
  ],
  "GLITCH": [
   "House"
+ ],
+ "Red Groove Social Club": [
+  "House",
+  "Disco"
+ ],
+ "Nachtschub": [
+  "Trance",
+  "Techno"
+ ],
+ "Morgengymnastik": [
+  "House"
+ ],
+ "Löwenzahn": [
+  "Techno",
+  "Melodic Techno"
+ ],
+ "Impulse": [
+  "Techno"
+ ],
+ "TURBO": [
+  "Techno"
+ ],
+ "Wiener Mischung": [
+  "House"
+ ],
+ "Achterbahn": [
+  "Trance",
+  "Techno"
  ]
 };
-const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Bassbussi","Bassclub","Bassproduction","Basstrace","Belly Dance Services","Bestand","Bonkers","Café Mondo","Callshop Radio","Cardio Cult","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Der Radio","Derisch","Drum & Bassick","Du Tanzt Mich Mal","Dunkelton Kollektiv","Dystopia Rave","ELEMNT","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hallraum","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","High Voltage Fairies","House of Plüsch","Housetiere","Im Freudentaumel","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KSOT","Köstlich","KØRE","Liminal","Little Beat More","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Vienna","Ravenbogen","Resonance Social Artists","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spectral","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Switch!","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tayrona Records","Techno am Wasser","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","WOS Soundsystem","Wreck","YE","Zuckerwatt","Zyklop Audio"];
+const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Bassbussi","Bassclub","Bassproduction","Basstrace","Belly Dance Services","Bestand","Bonkers","Café Mondo","Callshop Radio","Cardio Cult","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Der Radio","Derisch","Drum & Bassick","Du Tanzt Mich Mal","Dunkelton Kollektiv","Dystopia Rave","ELEMNT","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hallraum","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","High Voltage Fairies","House of Plüsch","Housetiere","Im Freudentaumel","Impulse","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","Löwenzahn","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Morgengymnastik","Nachtschub","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Vienna","Ravenbogen","Red Groove Social Club","Resonance Social Artists","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spectral","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Switch!","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tayrona Records","Techno am Wasser","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","Wiener Mischung","WOS Soundsystem","Wreck","YE","Zuckerwatt","Zyklop Audio"];
 const CI={
  "303": {
   "noLogo": "2026-11-02",
@@ -1229,11 +1260,17 @@ const CI={
   "infoChk": "2026-11-03"
  },
  "Achterbahn": {
-  "de": "Reihe von Anna Ullrich im PRST.",
-  "en": "Series by Anna Ullrich at PRST.",
+  "de": "Trance- und Techno-Reihe von Anna Ullrich im PRST (Praterstraße), mit Gästen wie DJ Yarak und Andata sowie Kooperationen mit Fluffig und Schizo Records.",
+  "en": "Trance and techno series by Anna Ullrich at PRST (Praterstraße), with guests such as DJ Yarak and Andata and collaborations with Fluffig and Schizo Records.",
   "src": [
-   "https://ohschonhell.at/orte/praterstrasse+-+prst/912"
-  ]
+   "https://ohschonhell.at/orte/praterstrasse+-+prst/912",
+   "https://de.ra.co/events/2437284",
+   "https://ra.co/events/2249727",
+   "https://ra.co/events/2359494"
+  ],
+  "ig": "https://www.instagram.com/achterbahn.vie/",
+  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-03"
  },
  "Feuchte Träume": {
   "de": "Gemeinnütziger, nicht gewinnorientierter Verein für sexpositive Partys: fördert lokale Artists, FLINTA*/LGBTQIA+, Workshops zu Konsens, Awareness-Team; Tickets nach Fragebogen.",
@@ -2892,6 +2929,164 @@ const CI={
  "Tayrona Records": {
   "noLogo": "2026-11-03",
   "infoChk": "2026-11-03"
+ },
+ "Morgengymnastik": {
+  "de": "Sonntagmorgen-Afterhour im SASS Music Club am Karlsplatz (6 bis 11 Uhr), bei der jeweils wechselnde DJs – meist zu zweit – die Nacht in den Vormittag verlängern; auf RA schon 2015 als „Morgengymnastik / Afterhour“ gelistet.",
+  "en": "Sunday-morning afterhour at SASS Music Club on Karlsplatz (6 to 11 am), where changing DJs – usually two per edition – stretch the night into the morning; listed on RA as 'Morgengymnastik / Afterhour' as early as 2015.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "src": [
+   "https://sassvienna.com/en/events/event/morgengymnastik-128",
+   "https://ra.co/events/2523418",
+   "https://ra.co/events/671409"
+  ],
+  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-03"
+ },
+ "Red Groove Social Club": {
+  "de": "Clubreihe im PRST (Praterstraße) für „Quality House Music & Disco“, mit Residents wie It's George und Techno Ganoven sowie internationalen House-Gästen wie Nick Curly, Marco Lys oder Dan Ghenacia.",
+  "en": "Club series at PRST (Praterstraße) for 'quality house music & disco', with residents such as It's George and Techno Ganoven and international house guests like Nick Curly, Marco Lys and Dan Ghenacia.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "alias": [
+   "RED GROOVE (Social Club)",
+   "Red Groove"
+  ],
+  "ig": "https://www.instagram.com/redgroovesocialclub/",
+  "src": [
+   "https://ra.co/events/2304853",
+   "https://warda.at/?p=104163",
+   "https://ra.co/events/1761838"
+  ],
+  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-03"
+ },
+ "Nachtschub": {
+  "de": "Trance- und Techno-Reihe im Wiener Das Werk, veranstaltet von Gesindel der Nacht; regelmäßige FLINTA*-Editionen mit bewusst FLINTA*-only Line-ups, strikter No-Photo-Policy und geschultem Awareness-Team, dazu Specials wie eine Schranz-&-Bounce-Edition.",
+  "en": "Trance and techno series at Vienna's Das Werk, run by Gesindel der Nacht; regular FLINTA* editions with deliberately FLINTA*-only line-ups, a strict no-photo policy and a trained awareness team, plus specials such as a schranz & bounce edition.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "ig": "https://www.instagram.com/gesindel_der_nacht",
+  "src": [
+   "https://ra.co/events/2374402",
+   "https://ra.co/promoters/126017",
+   "https://ra.co/events/2304550",
+   "https://de.ra.co/events/2077984"
+  ],
+  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-03"
+ },
+ "Impulse": {
+  "de": "Techno-Reihe in der Wiener Grelle Forelle mit nummerierten „Rounds“ (2025 Round VII) und Gästen wie Dax J, DJ Rush, Somewhen, CLTX oder Johannes Schuster (All Night Long); veranstaltet von Kevin Primus.",
+  "en": "Techno series at Vienna's Grelle Forelle with numbered 'Rounds' (Round VII in 2025) and guests such as Dax J, DJ Rush, Somewhen, CLTX and Johannes Schuster (all night long); organised by Kevin Primus.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "alias": [
+   "IMPULSE"
+  ],
+  "src": [
+   "https://ntry.at/cltx2025?l=en",
+   "https://ra.co/events/1349665",
+   "https://ra.co/events/1513952",
+   "https://warda.at/events/johannes-schuster-all-night-long-impulse-grelle-forelle/"
+  ],
+  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-03"
+ },
+ "TURBO": {
+  "de": "Techno-Reihe von Turbo Projects in der Wiener Grelle Forelle mit internationalen Headlinern wie Sven Väth, Chris Liebing, Ben Klock, Robert Hood, Peggy Gou oder Funk Tribu; 2015 feierte sie „5 Jahre TURBO“.",
+  "en": "Techno series by Turbo Projects at Vienna's Grelle Forelle with international headliners such as Sven Väth, Chris Liebing, Ben Klock, Robert Hood, Peggy Gou and Funk Tribu; it celebrated '5 Jahre TURBO' in 2015.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "founded": "2010",
+  "foundedNote": 1,
+  "alias": [
+   "Turbo Projects",
+   "Turbo project"
+  ],
+  "src": [
+   "https://ra.co/events/1510389",
+   "https://ra.co/promoters/29100",
+   "https://www.volume.at/70405",
+   "https://viennawurstelstand.com/event/dubfire-gaiser-nils-frahm-afterparty-turbo",
+   "https://ra.co/events/2075257"
+  ],
+  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-03"
+ },
+ "Wiener Mischung": {
+  "de": "Wiener Kollektiv („Kollektiv Wiener Mischung“), das im Kramladen regelmäßig Abende mit House und Groove veranstaltet – unter dem Titel „Mitmischen“ meist bei freiem Eintritt, auch mit Gast-Kollektiven wie Modular Mountain.",
+  "en": "Viennese collective ('Kollektiv Wiener Mischung') regularly hosting house and groove nights at Kramladen – under the title 'Mitmischen', mostly with free entry, also with guest collectives such as Modular Mountain.",
+  "type": [
+   "Kollektiv"
+  ],
+  "from": "Wien",
+  "src": [
+   "https://ra.co/events/1687768",
+   "https://de.ra.co/events/2055565",
+   "https://de.ra.co/events/2255469"
+  ],
+  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-03"
+ },
+ "Löwenzahn": {
+  "de": "Wiener Techno-Crew („Löwenzahn Wien“, #LWZwien) mit Clubbings, Open Airs und Livestreams unter dem Motto „General Techno De-Restoration“, u. a. im Kramladen und bei Gratis-Open-Airs am Himmel und Wasser (Deep, Melodic, Rave, Techno); queer-friendly und konsensorientiert.",
+  "en": "Viennese techno crew ('Löwenzahn Wien', #LWZwien) running clubbings, open airs and livestreams under the motto 'General Techno De-Restoration', e.g. at Kramladen and free open airs at Himmel und Wasser (deep, melodic, rave, techno); queer-friendly and consent-oriented.",
+  "type": [
+   "Kollektiv"
+  ],
+  "from": "Wien",
+  "alias": [
+   "Löwenzahn Wien",
+   "Loewenzahn"
+  ],
+  "web": "https://linktr.ee/loewenzahnwien",
+  "ig": "https://instagram.com/loewenzahnwien",
+  "members": [
+   "Tim Es Punkt",
+   "Cassel Dub",
+   "FLOiO",
+   "Xhonta",
+   "Dubyworld",
+   "microMarie"
+  ],
+  "membersSrc": "https://linktr.ee/loewenzahnwien",
+  "src": [
+   "https://linktr.ee/loewenzahnwien",
+   "https://warda.at/?p=110136",
+   "https://ra.co/events/1452269"
+  ],
+  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-03"
+ },
+ "Step Forward": {
+  "de": "Wiener Veranstalter (Step Forward Music), der internationale Acts wie Partiboi69, Southstar, P.Vanilla Boy, Juicy Romance oder Shoki in die Grelle Forelle und ins PRST holt – zwischen Techno, Ghetto Tech, Electro und House.",
+  "en": "Viennese promoter (Step Forward Music) bringing international acts such as Partiboi69, Southstar, P.Vanilla Boy, Juicy Romance and Shoki to Grelle Forelle and PRST – spanning techno, ghetto tech, electro and house.",
+  "from": "Wien",
+  "alias": [
+   "Step Forward Music",
+   "StepForward"
+  ],
+  "ig": "https://www.instagram.com/stepforwardmusic/",
+  "src": [
+   "https://www.tickettailor.com/events/stepforward/1111715",
+   "https://ra.co/events/1935690",
+   "https://de.ra.co/events/2365217",
+   "https://warda.at/events/step-forward-pres-p-vanilla-boy/",
+   "https://warda.at/?p=87238"
+  ],
+  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-03"
  }
 };
 const VI={
