@@ -27933,6 +27933,528 @@ const AR={
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
   "infoChk": "2026-11-03"
+ },
+ "Lsb": {
+  "img": "https://static.ra.co/images/profiles/lsb.jpg?dateUpdated=1468400357707",
+  "links": {
+   "ra": "https://ra.co/dj/lsb",
+   "sc": "https://soundcloud.com/lukelsb"
+  },
+  "real": "Luke Beavon",
+  "from": {
+   "de": "Essex, Vereinigtes Königreich",
+   "en": "Essex, United Kingdom"
+  },
+  "labels": [
+   "Hospital Records",
+   "Shogun Audio",
+   "Soul:r",
+   "Spearhead Records",
+   "The North Quarter"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "LSB ist ein Drum-&-Bass-Produzent und DJ aus Essex, der nach eigener Beschreibung melancholischen Drum & Bass macht. Releases erschienen auf Hospital Records, Shogun Audio, Soul:r und Spearhead; oft tritt er gemeinsam mit DRS auf.",
+   "en": "LSB is a drum & bass producer and DJ from Essex who, in his own words, makes melancholic drum & bass. He has released on Hospital Records, Shogun Audio, Soul:r and Spearhead and often performs with DRS."
+  },
+  "sets": [
+   {
+    "t": "LSB – FABRICLIVE x Soul:ution Mix",
+    "u": "https://soundcloud.com/fabric/lsb-fabriclive-x-soulution-mix"
+   },
+   {
+    "t": "[Live Mix] LSB & Messy MC @ DNBTV 200",
+    "u": "https://soundcloud.com/lukelsb/lsb-messy-mc-dnbtv200"
+   },
+   {
+    "t": "DRS & LSB JAPAN 2016 PROMO MIX",
+    "u": "https://soundcloud.com/lukelsb/drs-lsb-japan-2016-promo-mix"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/lsb"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Fumi": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Rehorn": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Micyvid": {
+  "img": "https://static.ra.co/images/profiles/square/micyvid.jpg?dateUpdated=1779804175807",
+  "links": {
+   "ra": "https://ra.co/dj/micyvid",
+   "sc": "https://soundcloud.com/turbobunnies"
+  },
+  "from": {
+   "de": "Serbien",
+   "en": "Serbia"
+  },
+  "bio": {
+   "de": "MICYVID legt Techno auf, stammt aus Serbien und tritt häufig im Duo mit Ivv.lmtd auf. Auftritte gab es unter anderem beim Lovefest in Serbien, bei HÖR On Tour in Belgrad und in Wien bei Nachtschub und Dystøpia Rave.",
+   "en": "MICYVID is a techno DJ from Serbia who often performs as a duo with Ivv.lmtd, with appearances at Lovefest in Serbia, HÖR On Tour in Belgrade and, in Vienna, Nachtschub and Dystøpia Rave."
+  },
+  "sets": [
+   {
+    "t": "MICYVID X IVV.LMTD – LOVEFEST 2024 – RAW STAGE",
+    "u": "https://soundcloud.com/live4thrill/micyvid-x-ivvlmtd-lovefest-2024-raw-stage"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/micyvid",
+   "https://ra.co/events/2242570"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Ivv.lmtd": {
+  "alias": [
+   "IVVLMTD"
+  ],
+  "bio": {
+   "de": "Ivv.lmtd legt Techno auf und tritt häufig im Duo mit MICYVID auf, etwa beim Lovefest 2024 in Serbien, bei HÖR On Tour in Belgrad sowie in Wien bei Nachtschub und Dystøpia Rave.",
+   "en": "Ivv.lmtd is a techno DJ who often performs as a duo with MICYVID, e.g. at Lovefest 2024 in Serbia, HÖR On Tour in Belgrade and, in Vienna, at Nachtschub and Dystøpia Rave."
+  },
+  "sets": [
+   {
+    "t": "MICYVID X IVV.LMTD – LOVEFEST 2024 – RAW STAGE",
+    "u": "https://soundcloud.com/live4thrill/micyvid-x-ivvlmtd-lovefest-2024-raw-stage"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/micyvid"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Traumer": {
+  "img": "https://static.ra.co/images/profiles/traumer.jpg?dateUpdated=1734450310387",
+  "links": {
+   "ra": "https://ra.co/dj/traumer"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "labels": [
+   "get—traum"
+  ],
+  "bio": {
+   "de": "Traumer ist ein französischer DJ und Produzent, der seit über zehn Jahren gefeierte Musik veröffentlicht und unter mehreren Aliasen und Projekten arbeitet. In seinen Sets spielt er viele unveröffentlichte eigene Produktionen und Edits; im Mittelpunkt steht sein 2016 gegründetes Label get—traum. 2023 lieferte er den RA-Podcast 1048.",
+   "en": "Traumer is a French DJ and producer who has been releasing acclaimed music for over a decade under several aliases and projects. His sets feature many unreleased productions and edits; his main focus is his label get—traum, founded in 2016. He recorded RA Podcast 1048."
+  },
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/traumer/biography",
+   "https://ra.co/podcast/1067"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Mika Heggemann": {
+  "img": "https://static.ra.co/images/profiles/square/heggemann.jpg?dateUpdated=1782508116043",
+  "links": {
+   "ra": "https://ra.co/dj/heggemann",
+   "sc": "https://soundcloud.com/mikaheggemann",
+   "ig": "https://www.instagram.com/mika_heggemann",
+   "bc": "https://heggemann.bandcamp.com",
+   "web": "https://mika-heggemann.com"
+  },
+  "alias": [
+   "Heggemann"
+  ],
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "genres": [
+   "Techno",
+   "Trance"
+  ],
+  "bio": {
+   "de": "Mika Heggemann ist ein Berliner DJ, Produzent und autodidaktischer Toningenieur, der im Club aufgewachsen ist. Er produziert federnden Techno und trance-getränkte Hymnen und ist eng mit der Berliner Reihe Polyamor verbunden.",
+   "en": "Mika Heggemann is a Berlin-based, club-raised DJ, producer and self-taught sound engineer. He produces bouncy techno and trance-infused anthems and is closely linked to the Berlin party Polyamor."
+  },
+  "sets": [
+   {
+    "t": "Mika Heggemann – Main Floor Gotec Club – 2h Nu Trance Set",
+    "u": "https://soundcloud.com/gotec76/mika-heggemann-main-floor-gotec-club-2h-nu-trance-set"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/heggemann"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Monrroe": {
+  "img": "https://static.ra.co/images/profiles/square/monrroe.jpg?dateUpdated=1698250299000",
+  "links": {
+   "ra": "https://ra.co/dj/monrroe",
+   "sc": "https://soundcloud.com/monrroe-e"
+  },
+  "real": "Elijah George Symons",
+  "from": {
+   "de": "Bath/Bristol, Vereinigtes Königreich",
+   "en": "Bath/Bristol, United Kingdom"
+  },
+  "labels": [
+   "Shogun Audio",
+   "Ram Records",
+   "Dispatch Recordings",
+   "Spearhead Records",
+   "Liquicity Records"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Monrroe ist ein Drum-&-Bass-DJ und Produzent aus Bath/Bristol. Releases erschienen unter anderem auf Shogun Audio (etwa die „Ikebana“-EP), Ram Records, Dispatch, Spearhead und Liquicity.",
+   "en": "Monrroe is a drum & bass DJ and producer from Bath/Bristol. He has released on Shogun Audio (e.g. the 'Ikebana' EP), Ram Records, Dispatch, Spearhead and Liquicity, among others."
+  },
+  "sets": [
+   {
+    "t": "DNB Allstars Mix 040 w/ Monrroe",
+    "u": "https://soundcloud.com/dnballstars/dnb-allstars-mix-040-w-monrroe"
+   },
+   {
+    "t": "Liquid & Beyond #19 (Monrroe Guest Mix)",
+    "u": "https://soundcloud.com/liquidandbeyond/liquid-beyond-19-liquid-dnb-mix-monrroe-guest-mix"
+   },
+   {
+    "t": "Monrroe Roll Out Mix [2018]",
+    "u": "https://soundcloud.com/monrroe-e/monrroe-roll-out-mix-2018"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/monrroe"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Sedef Adasï": {
+  "img": "https://static.ra.co/images/profiles/square/sedefadasi.jpg?dateUpdated=1687524676000",
+  "links": {
+   "ra": "https://ra.co/dj/sedefadasi",
+   "sc": "https://soundcloud.com/sedefadasi",
+   "ig": "https://www.instagram.com/sedeffadasi",
+   "bc": "https://sedefadasi.bandcamp.com"
+  },
+  "alias": [
+   "Sedef Adasi"
+  ],
+  "from": {
+   "de": "Türkei, lebt in Augsburg",
+   "en": "Turkey, based in Augsburg"
+  },
+  "labels": [
+   "Permanent Vacation",
+   "Public Possession",
+   "Freeride Millenium",
+   "KALT Records"
+  ],
+  "genres": [
+   "Electro",
+   "Techno",
+   "House"
+  ],
+  "bio": {
+   "de": "Sedef Adasï ist eine in der Türkei geborene, in Augsburg lebende DJ und Betreiberin der Reihe HAMAM Nights. Sie spielt geschmeidigen Electro und Techno mit House- und Acid-Einflüssen und gilt als Teil der neuen Berghain-Generation; Releases erschienen auf Permanent Vacation, Public Possession und KALT.",
+   "en": "Sedef Adasï is a Turkish-born, Augsburg-based DJ who runs the HAMAM Nights series. She plays sleek electro and techno with house and acid influences and is regarded as part of Berghain's new wave; releases have appeared on Permanent Vacation, Public Possession and KALT."
+  },
+  "sets": [
+   {
+    "t": "Dekmantel Podcast 452 – Sedef Adasi",
+    "u": "https://soundcloud.com/dkmntl/dekmantel-podcast-452-sedef-adasi"
+   },
+   {
+    "t": "fabric mix by Sedef Adasi",
+    "u": "https://soundcloud.com/fabric/fabric-mix-by-sedef-adasi-with-intro"
+   },
+   {
+    "t": "PP#29 by Sedef Adasi (Public Possession)",
+    "u": "https://soundcloud.com/publicpossession/pp29-by-sedef-adasi"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/sedefadasi",
+   "https://ra.co/news/77303"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Katy Rough": {
+  "img": "https://static.ra.co/images/profiles/square/katyrough.jpg?dateUpdated=1728041581000",
+  "links": {
+   "ra": "https://ra.co/dj/katyrough",
+   "sc": "https://soundcloud.com/katyroughdj",
+   "ig": "https://www.instagram.com/katyroughdj"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Katy Rough ist eine Techno-DJ aus Deutschland, die über die Freiheit und Freude auf dem Dancefloor zum Auflegen kam. Sie ist für intensive, treibende Sets bekannt, die Euphorie erzeugen sollen, und spielt regelmäßig im Berliner OST, etwa bei der Reihe CONVENT.",
+   "en": "Katy Rough is a German techno DJ who came to DJing through the freedom and joy she found on the dancefloor. She is known for intense, driving sets designed to create euphoria and plays regularly at Berlin's OST, e.g. at the CONVENT series."
+  },
+  "sets": [
+   {
+    "t": "27.02.2026 CONVENT CLUB OST",
+    "u": "https://soundcloud.com/katyroughdj/groovysexybounce"
+   },
+   {
+    "t": "CLUB OST CONVENT 14.03.2025",
+    "u": "https://soundcloud.com/katyroughdj/clubost-convent"
+   },
+   {
+    "t": "KATY ROUGH HÖR BERLIN",
+    "u": "https://soundcloud.com/katyroughdj/katy-rough-hor-berlin"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/katyrough",
+   "https://ra.co/events/2274999"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "ksot soundsystem": {
+  "img": "https://static.ra.co/images/profiles/ksotsoundsystem.jpg?dateUpdated=1476354818000",
+  "links": {
+   "ra": "https://ra.co/dj/ksotsoundsystem"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "ksot soundsystem ist das DJ-Projekt hinter der Wiener Reihe Kein Sonntag ohne Techno (KSOT). Es spielt vor allem in der Pratersauna, der Grellen Forelle, im SASS Music Club, in der Ottakringer Brauerei und im Schloss Cobenzl.",
+   "en": "ksot soundsystem is the DJ project behind the Viennese series Kein Sonntag ohne Techno (KSOT). It mostly plays at Pratersauna, Grelle Forelle, SASS Music Club, Ottakringer Brauerei and Schloss Cobenzl."
+  },
+  "src": [
+   "https://ra.co/dj/ksotsoundsystem"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "L.zwo": {
+  "img": "https://static.ra.co/images/profiles/square/l.zwo.jpg?dateUpdated=1724162178000",
+  "links": {
+   "ra": "https://ra.co/dj/l.zwo",
+   "sc": "https://soundcloud.com/lzwomusic",
+   "ig": "https://www.instagram.com/l.zwo"
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "labels": [
+   "Polyamor Records",
+   "SYNTHX Records"
+  ],
+  "genres": [
+   "Trance",
+   "Techno"
+  ],
+  "bio": {
+   "de": "L.zwo ist ein junger Trance-DJ und Produzent aus Berlin, der die kreative Energie der Stadt in seinen elektronischen Sound überträgt. Releases erschienen unter anderem auf Polyamor Records und SYNTHX Records; bekannt ist er auch für Trance-Edits von Rap- und Pop-Songs.",
+   "en": "L.zwo is a young trance DJ and producer from Berlin who channels the city's creative energy into his electronic sound. He has released on Polyamor Records and SYNTHX Records, among others, and is also known for trance edits of rap and pop songs."
+  },
+  "sets": [
+   {
+    "t": "L.ZWO @ TRANCEFORMATION – LAUTKLUB",
+    "u": "https://soundcloud.com/lzwomusic/lzwotranceformation-lautklub"
+   },
+   {
+    "t": "Musik für Morgenkreis [L.zwo] – Elotrance Podcast #064",
+    "u": "https://soundcloud.com/elotrance/erzieher-trance-lzwo-elotrance-podcast-064"
+   },
+   {
+    "t": "LZWO – Boiler Gotec Club – 1h Trancy Techno Set",
+    "u": "https://soundcloud.com/gotec76/lzwo-boiler-gotec-club-1-h-trancy-techno-set"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/l.zwo"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Zwilling": {
+  "img": "https://static.ra.co/images/profiles/square/zwilling..jpg?dateUpdated=1713947074000",
+  "links": {
+   "ra": "https://ra.co/dj/zwilling.",
+   "sc": "https://soundcloud.com/zwillingmusic"
+  },
+  "alias": [
+   "zwilling."
+  ],
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "ONLYTRANCE",
+   "240 KM/H",
+   "Galactic Harmony Records"
+  ],
+  "genres": [
+   "Bounce",
+   "Trance",
+   "Techno"
+  ],
+  "bio": {
+   "de": "zwilling. ist ein DJ und Produzent aus Deutschland mit Releases auf ONLYTRANCE, 240 KM/H und Galactic Harmony Records. Er spielt schnellen, federnden Bounce- und Trance-Techno, unter anderem bei 240 KM/H und Trancecore-Nächten.",
+   "en": "zwilling. is a German DJ and producer with releases on ONLYTRANCE, 240 KM/H and Galactic Harmony Records. He plays fast, bouncy bounce and trance techno, e.g. at 240 KM/H and Trancecore nights."
+  },
+  "sets": [
+   {
+    "t": "ZWILLING. @ RAVEOUT500 A 240KM/H – Octogon 360 Madrid",
+    "u": "https://soundcloud.com/zwillingmusic/zwilling-raveout500-a-240kmh-octogon-360-madrid"
+   },
+   {
+    "t": "zwilling. Live @ ReadyForTechno – Mobilat Heilbronn",
+    "u": "https://soundcloud.com/zwillingmusic/zwilling-live-readyfortechno-mobilat-heilbronn-12112021"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/zwilling."
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Davyboi": {
+  "img": "https://static.ra.co/images/profiles/square/davyboi.jpg?dateUpdated=1702666014000",
+  "links": {
+   "ra": "https://ra.co/dj/davyboi",
+   "sc": "https://soundcloud.com/davyboii",
+   "ig": "https://www.instagram.com/iamdavyboi",
+   "web": "https://davyboi.de"
+  },
+  "from": {
+   "de": "München, Deutschland",
+   "en": "Munich, Germany"
+  },
+  "labels": [
+   "Polyamor Records"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Davyboi ist ein junger DJ aus München mit polnischen Wurzeln. Er spielt energiegeladenen Techno, tourt mit All-Night-Long-Sets durch Europa und veröffentlicht unter anderem auf Polyamor Records.",
+   "en": "Davyboi is a young DJ from Munich with Polish roots. He plays high-energy techno, tours Europe with all-night-long sets and has released on Polyamor Records, among others."
+  },
+  "sets": [
+   {
+    "t": "Davyboi @ Hive Festival 2025",
+    "u": "https://soundcloud.com/davyboii/hive-davyboi"
+   },
+   {
+    "t": "Davyboi – HÖR Berlin Live Set",
+    "u": "https://soundcloud.com/davyboii/davyboi-hor-berlin-live-set"
+   },
+   {
+    "t": "3h Davyboi @ Rote Sonne",
+    "u": "https://soundcloud.com/davyboii/davyboi-rote-sonne-set"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/davyboi"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Buunshin": {
+  "img": "https://static.ra.co/images/profiles/square/buunshin.jpg?dateUpdated=1687424100000",
+  "links": {
+   "ra": "https://ra.co/dj/buunshin"
+  },
+  "real": "Ferry Mellegers",
+  "from": {
+   "de": "Rotterdam, Niederlande",
+   "en": "Rotterdam, Netherlands"
+  },
+  "labels": [
+   "Critical Music",
+   "Neosignal"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Buunshin ist ein Drum-&-Bass-Produzent aus Rotterdam mit Releases auf Critical Music und Neosignal. Er spielt international, etwa bei DE_VERTE-Nächten gemeinsam mit Imanu und The Caracal Project.",
+   "en": "Buunshin is a drum & bass producer from Rotterdam with releases on Critical Music and Neosignal. He plays internationally, e.g. at DE_VERTE nights alongside Imanu and The Caracal Project."
+  },
+  "src": [
+   "https://ra.co/dj/buunshin"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Miklei": {
+  "img": "https://static.ra.co/images/profiles/square/miklei.jpg?dateUpdated=1773255545920",
+  "links": {
+   "ra": "https://ra.co/dj/miklei",
+   "sc": "https://soundcloud.com/miklei"
+  },
+  "from": {
+   "de": "Ukraine, lebt in Bratislava",
+   "en": "Ukraine, based in Bratislava"
+  },
+  "genres": [
+   "Techno",
+   "Hardgroove",
+   "Trance"
+  ],
+  "bio": {
+   "de": "Miklei ist eine ukrainische Techno-DJ und Produzentin mit Sitz in Bratislava. Ihre schnellen, energiegeladenen Sets verbinden Hypno-Groove und Tribal-Techno mit Vocal-Hardgroove und Trance; sie spielt vor allem in Bratislava, Prag und Wien.",
+   "en": "Miklei is a Ukrainian techno DJ and producer based in Bratislava. Her fast-paced, energetic sets blend hypno groove and tribal techno with vocal hardgroove and trance; she mostly plays in Bratislava, Prague and Vienna."
+  },
+  "src": [
+   "https://ra.co/dj/miklei"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Patrick Mason": {
+  "img": "https://static.ra.co/images/profiles/square/patrickmason.jpg?dateUpdated=1647525923427",
+  "links": {
+   "ra": "https://ra.co/dj/patrickmason",
+   "sc": "https://soundcloud.com/Patrick_Mason",
+   "ig": "https://www.instagram.com/Iampatrickmason"
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "labels": [
+   "Rekids"
+  ],
+  "genres": [
+   "Techno",
+   "House"
+  ],
+  "bio": {
+   "de": "Patrick Mason ist ein Berliner Techno- und House-DJ, bekannt für mitreißende, hochenergetische hybride Sets in Clubs weltweit. Releases erschienen auf Rekids; RA führte ihn im Interview-Format Exchange (EX.747).",
+   "en": "Patrick Mason is a Berlin-based techno and house DJ known for infectious, highly energising hybrid sets at clubs worldwide. He has released on Rekids and featured in RA's Exchange interview series (EX.747)."
+  },
+  "src": [
+   "https://ra.co/dj/patrickmason",
+   "https://ra.co/exchange/785"
+  ],
+  "infoChk": "2026-11-03"
  }
 };
 
