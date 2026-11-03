@@ -822,7 +822,7 @@ footer a:hover{color:var(--accent)}
 #lmap .leaflet-popup-content{margin:12px 14px;font:14px/1.35 Barlow,sans-serif}
 #lmap a.leaflet-popup-close-button{color:var(--mute)}
 .lpp button{all:unset;cursor:pointer;display:block;box-sizing:border-box;width:100%}
-.lpv{color:var(--c-ven);font-weight:700;font-size:15px}.lpv:hover{text-decoration:underline}.lpv svg,.lpv .ico{margin-right:4px}
+.lpp .lpv{color:var(--c-ven);font-weight:700;font-size:15px;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}.lpp .lpv:hover{text-decoration-thickness:2px}.lpv svg,.lpv .ico{margin-right:4px}
 .lpa{color:var(--mute);font-size:12.5px;margin:2px 0 8px}
 .lpn{font:600 11px var(--f-display);letter-spacing:.1em;text-transform:uppercase;color:var(--mute);border-top:1px solid var(--line);padding-top:7px;margin-bottom:3px}
 .lpl{max-height:46vh;overflow:auto}
@@ -837,7 +837,7 @@ footer a:hover{color:var(--accent)}
   <button class="burger" id="burger" aria-label="Filter" aria-controls="side" aria-expanded="false"></button>
   <div class="brand"><span class="astro" role="img" aria-label="rave.wien Astronaut"></span><span>rave<i class="dot"></i>wien</span><span class="betab"><span class="beta">beta</span><a id="t-brep" href="mailto:feedback@rave.wien"><span id="t-brepl"><span class="fw">fehler </span>melden</span></a></span></div>
   <div class="spacer"></div>
-  <div class="seg" role="group" aria-label="View"><button class="favnav" id="v-fav" aria-pressed="false" aria-label="Favoriten">★<em id="favn"></em></button><button id="v-list" aria-pressed="true"></button><button id="v-cal" aria-pressed="false"></button><button id="v-art" aria-pressed="false"></button><button id="v-col" aria-pressed="false"></button><button id="v-loc" aria-pressed="false"></button></div>
+  <div class="seg" role="group" aria-label="View"><button class="favnav" id="v-fav" aria-pressed="false" aria-label="Favoriten">★<em id="favn"></em></button><button id="v-list" aria-pressed="true"></button><button id="v-cal" aria-pressed="false"></button><button id="v-loc" aria-pressed="false"></button><button id="v-art" aria-pressed="false"></button><button id="v-col" aria-pressed="false"></button></div>
   <div class="zseg" role="group" aria-label="Schriftgröße"><button id="z-m" aria-label="Schrift kleiner">A−</button><button id="z-p" aria-label="Schrift größer">A+</button></div>
   <div class="seg" role="group" aria-label="Language"><button id="l-de" aria-pressed="true">DE</button><button id="l-en" aria-pressed="false">EN</button></div>
 </header>
@@ -1623,7 +1623,7 @@ function loadLeaflet(){if(LEAF)return Promise.resolve(LEAF);if(LEAFP)return LEAF
     const sc=document.createElement("script");sc.src="vendor/leaflet.js?v=1.9.4";sc.onload=()=>{LEAF=window.L;try{LEAF.noConflict()}catch(_){}ok(LEAF)};sc.onerror=no;document.head.appendChild(sc)});return LEAFP}
 // Desktop: Karte füllt den Bildschirm bis zum unteren Rand
 function fitMapH(){const el=$("lmap");if(!el)return;if(innerWidth<900){el.style.height="";return}
-  const top=el.getBoundingClientRect().top+scrollY;el.style.height=Math.max(420,innerHeight-top-14)+"px";if(LMAP)LMAP.invalidateSize()}
+  const top=el.getBoundingClientRect().top+scrollY;const pad=el.closest(".lmapwrap"),pb=pad?parseFloat(getComputedStyle(pad).paddingBottom)||0:0;el.style.height=Math.max(420,innerHeight-top-pb-34)+"px";if(LMAP)LMAP.invalidateSize()}
 addEventListener("resize",()=>{if(st.view==="loc")fitMapH()},{passive:true});
 function renderLocs(){
   const l=L();const rows=locRows();const G=LGEO();
@@ -1635,7 +1635,7 @@ function renderLocs(){
   if(!ok)return;
   loadLeaflet().then(LF=>{const el=$("lmap");if(!el||st.view!=="loc")return;
     if(LMAP){try{LMAP.remove()}catch(_){}LMAP=null}
-    const map=LF.map(el,{zoomControl:true,attributionControl:true,zoomSnap:.5});LMAP=map;
+    const map=LF.map(el,{zoomControl:false,attributionControl:true,zoomSnap:.5});LF.control.zoom({position:innerWidth<760?"bottomright":"topleft"}).addTo(map);LMAP=map;
     LF.tileLayer("https://basemaps.cartocdn.com/rastertiles/dark_all/{z}/{x}/{y}{r}.png?key="+CARTO_KEY,{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions" target="_blank" rel="noopener">CARTO</a>'}).addTo(map);
     const pins={};onMap.forEach(r=>{const g=G[r.n],k=g.join(",");const p=pins[k]=pins[k]||{g,rows:[]};p.rows.push(r)});
     const grp=Object.values(pins).map(p=>{p.up=p.rows.flatMap(r=>r.up).sort((a,b)=>(a.d+(a.s||"")).localeCompare(b.d+(b.s||"")));p.names=p.rows.map(r=>r.n);
@@ -1646,6 +1646,7 @@ function renderLocs(){
       return `<div class="lpp">${names.map(x=>`<button class="lpv" data-vopen="${esc(x)}">${IPIN}${esc(x)}</button>`).join("")}${ad?`<div class="lpa">${esc(ad)}</div>`:""}`+
         (n?`<div class="lpn">${n} ${n===1?l.mapEv1:l.mapEvN}</div><div class="lpl">${evs}</div>${n>8&&one?`<button class="lpmore" data-vopen="${esc(names[0])}">+ ${n-8} ${l.moreShow}</button>`:""}`:`<div class="lpn">${l.noDates}</div>`)+`</div>`};
     const pinSz=n=>n?Math.min(36,20+Math.sqrt(n)*3.2):14;const icon=(n,cl,extra)=>{const sz=pinSz(n);return LF.divIcon({className:"",html:`<div class="lpin${n?"":" none"}${cl?" cl":""}${extra||""}" style="width:${sz}px;height:${sz}px">${n||""}</div>`,iconSize:[sz,sz],iconAnchor:[sz/2,sz/2]})};
+    const mob=innerWidth<760,POPO={maxWidth:mob?250:290,minWidth:mob?200:230,autoPanPaddingTopLeft:LF.point(mob?54:58,12),autoPanPaddingBottomRight:LF.point(12,12)};
     const lay=LF.layerGroup().addTo(map);
     const draw=()=>{lay.clearLayers();const z=map.getZoom();
       // nahe beieinander liegende Locations zusammenfassen, damit sich Pins nicht überdecken
@@ -1653,10 +1654,11 @@ function renderLocs(){
       items.forEach(it=>{const c=z<17&&cls.find(c=>c.pt.distanceTo(it.pt)<30);if(c)c.m.push(it);else cls.push({pt:it.pt,m:[it]})});
       cls.forEach(c=>{const ps=c.m.map(x=>x.p),n=ps.reduce((a,p)=>a+p.up.length,0);
         if(ps.length===1){const p=ps[0];const m=LF.marker(p.g,{icon:icon(n,0,p.names.includes(st.ven)?" cur":""),title:p.nm,zIndexOffset:n*10}).addTo(lay);
-          m.bindTooltip(esc(p.nm),{permanent:true,direction:"right",className:"llbl",offset:[pinSz(n)/2+2,0]});m.bindPopup(popHTML(ps),{maxWidth:290,minWidth:230});return}
+          m.bindTooltip(esc(p.nm),{permanent:true,direction:"right",className:"llbl",offset:[pinSz(n)/2+2,0]});m.bindPopup(popHTML(ps),POPO);
+          m.on("click",()=>{if(innerWidth>=900&&p.names.length===1&&st.ven!==p.names[0])openCard("ven",p.names[0])});return}
         const b=LF.latLngBounds(ps.map(p=>p.g));const m=LF.marker(b.getCenter(),{icon:icon(n,1),title:ps.map(p=>p.nm).join(", "),zIndexOffset:1000+n}).addTo(lay);
         m.bindTooltip(`${ps.length} Locations`,{direction:"top",className:"llbl"});
-        m.on("click",()=>{if(z>=16)m.bindPopup(popHTML(ps),{maxWidth:290,minWidth:230}).openPopup();else map.flyToBounds(b.pad(.6),{maxZoom:Math.max(z+2,16),duration:.5})})})};
+        m.on("click",()=>{if(z>=16)m.bindPopup(popHTML(ps),POPO).openPopup();else map.flyToBounds(b.pad(.6),{maxZoom:Math.max(z+2,16),duration:.5})})})};
     map.on("zoomend",draw);
     if(st.mapView)map.setView(st.mapView.c,st.mapView.z);else{const act=grp.filter(p=>p.up.length);map.fitBounds(LF.latLngBounds((act.length?act:grp).map(p=>p.g)).pad(.05),{maxZoom:15});if(!grp.length)map.setView([48.2075,16.365],12)}
     draw();map.attributionControl.setPrefix('<a href="https://leafletjs.com" target="_blank" rel="noopener">Leaflet</a>');
