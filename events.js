@@ -704,9 +704,65 @@ const CG={
   "Disco",
   "Afro",
   "Latin"
+ ],
+ "Soundhouse": [
+  "Techno",
+  "Acid",
+  "House"
+ ],
+ "Step to Tek": [
+  "Tekno",
+  "Acid"
+ ],
+ "YN Collective": [
+  "Techno"
+ ],
+ "CIVIC": [
+  "Bounce",
+  "Hard Techno"
+ ],
+ "Hit It Hard": [
+  "Bounce",
+  "Hard Trance",
+  "Hard Techno"
+ ],
+ "Fractal Fusion": [
+  "Techno",
+  "Acid",
+  "Psytech"
+ ],
+ "Misguided": [
+  "Techno",
+  "Breakbeat",
+  "Drum and Bass",
+  "House"
+ ],
+ "Techno am Wasser": [
+  "Techno",
+  "House"
+ ],
+ "Between Us": [
+  "House"
+ ],
+ "Votiv Session": [
+  "Progressive House",
+  "Deep House"
+ ],
+ "Below the Surface": [
+  "Trance",
+  "Techno"
+ ],
+ "NEXUS": [
+  "Trance"
+ ],
+ "SIN": [
+  "Mentaltek",
+  "Tribe",
+  "Spacetek",
+  "Industrial"
  ]
 };
-const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Bassbussi","Bassclub","Bassproduction","Basstrace","Belly Dance Services","Bestand","Bonkers","Café Mondo","Callshop Radio","Cardio Cult","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Der Radio","Derisch","Drum & Bassick","Du Tanzt Mich Mal","Dunkelton Kollektiv","Dystopia Rave","ELEMNT","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Hallraum","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","High Voltage Fairies","House of Plüsch","Housetiere","Im Freudentaumel","Impulse","Jah Power Sound","Journey to Tarab","Kaisa Bodega","KARTELL.FM","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","Löwenzahn","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Morgengymnastik","Nachtschub","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Pole Circle","Ponyhof","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Vienna","Ravenbogen","Red Groove Social Club","Resonance Social Artists","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Selected","served","SIGNAL","Slutlabs","Sorry Mom","Soularium","Soundlabs","Spectral","Spumante Records","Step Forward","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Switch!","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tayrona Records","Techno am Wasser","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Untz Baby Untz","up/or","VG+","Vision Serpent","VLAN","Wien Modern","Wiener Mischung","WOS Soundsystem","Wreck","YE","Zuckerwatt","Zyklop Audio"];
+const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Bassbussi","Bassclub","Bassproduction","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","Bonkers","Bouncylicious","Café Mondo","Callshop Radio","Cardio Cult","CIVIC","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Egg","CPE","created-on-earth","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Der Radio","Derisch","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","Empyreon","Entrance","euphonic records","FactX","Fader Friends","Fadercult","Female Pleasure","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","Fractal Fusion","Freeride Millenium","Frieden & Liebe","Fuelized","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","High Voltage Fairies","Hit It Hard","Homebase","House of Ludic","House of Plüsch","Housetiere","Im Freudentaumel","Impulse","Jah Power Sound","Jeez Louise","Journey to Tarab","Kaisa Bodega","KARTELL.FM","KISSEN","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","Löwenzahn","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Mixed","Monochrom","Morgengymnastik","Nachtschub","Nine O Nine","Ninecircles","Paradies Garten","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Pole Circle","Ponyhof","Praternostra","Purradox","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Vienna","Ravenbogen","Red Groove Social Club","Resonance Social Artists","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Selected","served","Shameless Kollektiv","SIGNAL","SIN","Slutlabs","Sorry Mom","Soularium","Soundhouse","Soundlabs","Spectral","Spumante Records","Step Forward","Step to Tek","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Switch!","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Untz Baby Untz","up/or","Verknallt","VG+","VIE.W","Vienn_a_Tek","Vision Serpent","VLAN","VNV","Votiv Session","Wien Modern","Wiener Mischung","WOS Soundsystem","Wreck","YE","YN Collective","Zuckerwatt","Zyklop Audio"];
 const CI={
  "303": {
   "noLogo": "2026-11-02",
@@ -1112,15 +1168,37 @@ const CI={
   "founded": "2013",
   "foundedNote": 1,
   "src": [
-   "https://ohschonhell.at/orte/das+werk/14"
-  ]
+   "https://ohschonhell.at/orte/das+werk/14",
+   "https://www.gaytravel4u.com/event/ken-club-vienna/",
+   "https://www.travelgay.com/venue/ken-club-vienna"
+  ],
+  "de": "KEN Club ist eine langjährige Wiener Gay-Party für schwule Männer, Lesben und Freund:innen, mit Pop, Trash, 80s, 90s und House. Die Party findet an wechselnden Orten statt, zuletzt unter anderem im Das Werk, mit GoGos und Drag-Acts.",
+  "en": "KEN Club is a long-running gay party in Vienna for gay men, lesbians and friends, playing pop, trash, 80s, 90s and house. The party moves between venues, recently including Das Werk, and features go-go dancers and drag acts.",
+  "from": "Wien",
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Gaze": {
   "founded": "2021",
   "foundedNote": 1,
   "src": [
-   "https://ohschonhell.at/orte/pratersauna/5"
-  ]
+   "https://ohschonhell.at/orte/pratersauna/5",
+   "https://ra.co/events/1781807",
+   "https://ra.co/events/2138978",
+   "https://ra.co/events/2178708"
+  ],
+  "de": "GAZE ist eine Wiener Crew, die seit etwa 2021 House- und Techno-Nächte mit Performances, Visuals und Awareness-Team veranstaltet. Die Partys finden u. a. in der Pratersauna, im FLUCC, im Flex, im PRST und im SASS Music Club statt.",
+  "en": "GAZE is a Vienna crew that has hosted house and techno nights with performances, visuals and an awareness team since around 2021. Its parties take place at venues including Pratersauna, FLUCC, Flex, PRST and SASS Music Club.",
+  "type": [
+   "Kollektiv"
+  ],
+  "from": "Wien",
+  "alias": [
+   "GAZE Vienna"
+  ],
+  "ig": "https://www.instagram.com/gaze.wien/",
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Basstrace": {
   "founded": "2015",
@@ -1148,15 +1226,36 @@ const CI={
   "founded": "2024",
   "foundedNote": 1,
   "src": [
-   "https://ohschonhell.at/orte/praterstrasse+-+prst/912"
-  ]
+   "https://ohschonhell.at/orte/praterstrasse+-+prst/912",
+   "https://warda.at/?p=109456",
+   "https://thebrvtalist.com/dlvmisguided/",
+   "https://ra.co/events/2170621"
+  ],
+  "de": "Misguided ist ein 2024 von DLV gegründetes Label für elektronische Musik mit einer Partyreihe in Wien, vor allem im PRST und im Flex. Die Labelnächte bringen Techno und verwandte Spielarten, mit Gästen wie Yanamaste, KTK oder Marcel Fengler.",
+  "en": "Misguided is a label for electronic music founded by DLV in 2024, with a party series in Vienna, mainly at PRST and Flex. Its label nights feature techno and related styles, with guests such as Yanamaste, KTK and Marcel Fengler.",
+  "type": [
+   "Label",
+   "Reihe"
+  ],
+  "ig": "https://www.instagram.com/misguided_label/",
+  "bc": "https://misguidedlabel.bandcamp.com/",
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Vienna Worldwide": {
   "founded": "2021",
   "foundedNote": 1,
   "src": [
    "https://ohschonhell.at/orte/praterstrasse+-+prst/912"
-  ]
+  ],
+  "de": "Vienna Worldwide ist eine Partyreihe im PRST in Wien. 2025 feierte die Reihe dort ihr vierjähriges Bestehen.",
+  "en": "Vienna Worldwide is a party series at PRST in Vienna. In 2025 the series celebrated its fourth anniversary there.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Rave On Vienna": {
   "founded": "2013",
@@ -1235,8 +1334,16 @@ const CI={
   "founded": "2022",
   "foundedNote": 1,
   "src": [
-   "https://ohschonhell.at/orte/grelle+forelle/3"
-  ]
+   "https://ohschonhell.at/orte/grelle+forelle/3",
+   "https://ra.co/events/2143127"
+  ],
+  "de": "NEXUS ist eine Partyreihe in der Grelle Forelle mit eigenen Residents. Gespielt werden verschiedene Genres, Trance steht auf dem Mainfloor aber im Mittelpunkt. Es gab Kooperationen mit TURBO und WYLDHEARTS.",
+  "en": "NEXUS is a party series at Grelle Forelle with its own residents. It covers a range of genres, but trance is the main focus on the main floor. It has collaborated with TURBO and WYLDHEARTS.",
+  "type": [
+   "Reihe"
+  ],
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Fish Market": {
   "de": "Techno-Partyreihe in der Grellen Forelle, veranstaltet von Meat Market Vienna (MEAT); 2024 wurde das 15-jährige Bestehen seit der ersten Party gefeiert. Neben Clubnächten mit internationalen Gästen richtet die Reihe auch offizielle Pride-Afterpartys aus.",
@@ -3117,6 +3224,474 @@ const CI={
   ],
   "infoChk": "2026-11-03",
   "noLogo": "2026-11-03"
+ },
+ "Soundhouse": {
+  "de": "Soundhouse ist eine Wiener Partyreihe für Techno, Acid und House samt Subgenres, die sich selbst als „sophisticated listening“ beschreibt. Die Nächte finden u. a. im SASS Music Club und im Tagada statt.",
+  "en": "Soundhouse is a Vienna party series for techno, acid and house and their sub-genres, describing itself as “sophisticated listening”. Its nights take place at venues including SASS Music Club and Tagada.",
+  "type": [
+   "Reihe"
+  ],
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://ra.co/events/2091729"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Tattu Tatta Glub": {
+  "de": "Tattu Tatta Glub (kurz TTG) ist eine Wiener Partyreihe, die regelmäßig in der Grelle Forelle und im PRST veranstaltet, u. a. mit der Ausgabe „TTG macht PAU'SE“ und Kooperationen mit Polyamor, Sachsentrance und Goat Ball.",
+  "en": "Tattu Tatta Glub (TTG for short) is a Vienna party series that regularly hosts nights at Grelle Forelle and PRST, including the “TTG macht PAU'SE” editions and collaborations with Polyamor, Sachsentrance and Goat Ball.",
+  "type": [
+   "Reihe"
+  ],
+  "alias": [
+   "TTG"
+  ],
+  "tix": "https://tattutattaglub.ticket.io/",
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://ra.co/events/2153024",
+   "https://ra.co/promoters/151097",
+   "https://de.ra.co/events/1999601"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Step to Tek": {
+  "de": "Step to Tek ist eine Partyreihe für treibenden Tekno, Acid und Underground-Sound, die in Wien u. a. im Das Werk (als „Step to Tek XL“), im Ponyhof und im Black Market veranstaltet hat. Die Events setzen auf ein Awareness-Team und eine klare Haltung gegen Diskriminierung.",
+  "en": "Step to Tek is a party series for driving tekno, acid and underground sounds that has held events in Vienna at Das Werk (as “Step to Tek XL”), Der Ponyhof and Black Market. Its events feature an awareness team and a clear stance against discrimination.",
+  "type": [
+   "Reihe"
+  ],
+  "alias": [
+   "Step To Tek XL"
+  ],
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://de.ra.co/events/2163897",
+   "https://ra.co/events/1571062"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Soundlabs": {
+  "de": "Soundlabs ist ein Wiener Veranstalter mit eigenen Residents, bekannt für den kostenlosen Open-Air „ressel:rave“ im Resselpark am Karlsplatz (seit 2024). Clubnächte mit Techno und basslastigen Sounds gibt es u. a. im FLUCC, in The Loft und in der Grelle Forelle.",
+  "en": "Soundlabs is a Vienna promoter with its own residents, known for the free open-air “ressel:rave” in Resselpark at Karlsplatz (since 2024). Its club nights with techno and bass-heavy sounds take place at FLUCC, The Loft and Grelle Forelle, among others.",
+  "from": "Wien",
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://de.ra.co/events/2453677",
+   "https://de.ra.co/events/1934680",
+   "https://warda.at/?p=109012",
+   "https://ra.co/events/2396859"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Purradox": {
+  "de": "Purradox ist eine Partyreihe in der Wiener Grelle Forelle, die dort seit mindestens 2024 regelmäßig stattfindet.",
+  "en": "Purradox is a party series at Vienna's Grelle Forelle, held there regularly since at least 2024.",
+  "type": [
+   "Reihe"
+  ],
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://de.ra.co/events/1893761"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Toy Tonics": {
+  "de": "Toy Tonics ist ein Berliner House- und Disco-Label, das seit 2013 Vinyl und Digital veröffentlicht und von Kapote betrieben wird. In Wien richtet das Label regelmäßig die Labelnacht „Toy Tonics JAM“ im PRST aus.",
+  "en": "Toy Tonics is a Berlin label releasing on vinyl and digital since 2013, run by Kapote. In Vienna the label regularly hosts its “Toy Tonics JAM” label night at PRST.",
+  "type": [
+   "Label"
+  ],
+  "founded": "2013",
+  "from": "Berlin",
+  "web": "https://www.toytonics.de",
+  "bc": "https://toytonics.bandcamp.com",
+  "alias": [
+   "Toy Tonics JAM"
+  ],
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://toytonics.bandcamp.com"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "YN Collective": {
+  "de": "YN Collective (auch YN Raves) ist ein Wiener Techno-Kollektiv, das seit mindestens 2022 Raves veranstaltet, u. a. in der Grelle Forelle, der Pratersauna und im Sauna Strand Klub (YN Pool House). Die Events setzen auf einen Safer-Space-Ansatz mit Awareness-Team, Code of Conduct und Foto-/Videoverbot.",
+  "en": "YN Collective (also YN Raves) is a Vienna techno collective that has been throwing raves since at least 2022, at venues including Grelle Forelle, Pratersauna and Sauna Strand Klub (YN Pool House). Its events follow a safer-space approach with an awareness team, a code of conduct and a no photo/video policy.",
+  "type": [
+   "Kollektiv"
+  ],
+  "from": "Wien",
+  "alias": [
+   "YN Raves",
+   "YN"
+  ],
+  "ig": "https://www.instagram.com/yn.raves/",
+  "tix": "https://yn-collective.ticket.io/",
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://de.ra.co/events/2406035",
+   "https://ra.co/events/1676080",
+   "https://de.ra.co/events/1556162"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "CIVIC": {
+  "de": "CIVIC (Civic Collective) ist ein Wiener Kollektiv für Bounce und Hard Techno, das sich im August 2025 mit „Introducing CIVIC“ im Loop vorstellte. Seither veranstaltet es u. a. die Reihe „Body Control“ im FLUCC sowie DnB-Ausgaben im Club Lucia.",
+  "en": "CIVIC (Civic Collective) is a Vienna collective for bounce and hard techno that launched with “Introducing CIVIC” at Loop in August 2025. Since then it has hosted the “Body Control” nights at FLUCC as well as DnB editions at Club Lucia.",
+  "type": [
+   "Kollektiv"
+  ],
+  "founded": "2025",
+  "foundedNote": 1,
+  "from": "Wien",
+  "alias": [
+   "Civic Collective"
+  ],
+  "ig": "https://www.instagram.com/civic_collective/",
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://de.ra.co/events/2212926",
+   "https://de.ra.co/promoters/168324",
+   "https://ra.co/events/2255962"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Jeez Louise": {
+  "de": "Jeez Louise ist eine Partyreihe im Wiener SASS Music Club, die dort regelmäßig an Donnerstagen stattfindet.",
+  "en": "Jeez Louise is a party series at Vienna's SASS Music Club, held there regularly on Thursdays.",
+  "type": [
+   "Reihe"
+  ],
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://de.ra.co/events/2366198"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Homebase": {
+  "de": "Homebase ist eine Wiener Partyreihe, die im Jänner 2024 mit einem 12-Stunden-Marathon gemeinsam mit dem Fabrika Festival im PRST debütierte. Seither finden die Nächte regelmäßig im SASS Music Club statt.",
+  "en": "Homebase is a Vienna party series that debuted in January 2024 with a 12-hour marathon at PRST together with Fabrika Festival. Since then its nights have taken place regularly at SASS Music Club.",
+  "type": [
+   "Reihe"
+  ],
+  "founded": "2024",
+  "from": "Wien",
+  "ig": "https://www.instagram.com/homebase.vie/",
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://ra.co/events/1828287"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Shameless Kollektiv": {
+  "de": "Shameless ist ein Wiener Party-Kollektiv, das Clubnächte u. a. im FLUCC, im Kramladen und im Club Lucia veranstaltet, etwa die Reihe „Overdrive“ und eine Kollaboration mit Kollektiv Klanggerecht.",
+  "en": "Shameless is a Vienna party collective hosting club nights at venues including FLUCC, Kramladen and Club Lucia, such as the “Overdrive” night and a collaboration with Kollektiv Klanggerecht.",
+  "type": [
+   "Kollektiv"
+  ],
+  "alias": [
+   "Shameless"
+  ],
+  "src": [
+   "https://ntry.at/kkshameless?l=en"
+  ],
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "Hit It Hard": {
+  "de": "HIT IT HARD ist eine Partyreihe im Wiener Das Werk mit Bounce, Hard Trance und Hard Techno. Die Veranstaltungen laufen unter einer „Respect the Club“-Policy gegen Sexismus, Rassismus, Homo- und Transphobie.",
+  "en": "HIT IT HARD is a party series at Das Werk in Vienna focused on bounce, hard trance and hard techno. Its events run under a “Respect the Club” policy against sexism, racism, homophobia and transphobia.",
+  "type": [
+   "Reihe"
+  ],
+  "src": [
+   "https://ra.co/events/2180328"
+  ],
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "VIE.W": {
+  "de": "VIE.W ist ein Wiener Veranstalter elektronischer Clubnächte, vor allem im SASS Music Club und im PRST, mit Gastacts wie Andy Kas oder Mayell.",
+  "en": "VIE.W is a Vienna promoter of electronic club nights, mainly at SASS Music Club and PRST, with guests such as Andy Kas and Mayell.",
+  "type": [
+   "Promoter"
+  ],
+  "src": [
+   "https://ra.co/events/2172736"
+  ],
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "Fractal Fusion": {
+  "de": "FRACTAL FUSION ist eine Partyreihe für hypnotischen, tiefen und dunklen Clubtechno, Acid und Psytech. Sie findet in Wien im Kramladen und im Club Weberknecht statt, u. a. als Women's Day Edition.",
+  "en": "FRACTAL FUSION is a party series for hypnotic, deep and dark club techno, acid and psytech. In Vienna it takes place at Kramladen and Club Weberknecht, including a Women's Day Edition.",
+  "type": [
+   "Reihe"
+  ],
+  "src": [
+   "https://ra.co/events/2198899",
+   "https://warda.at/events/fractal-fusion-womens-day-edition/"
+  ],
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "Praternostra": {
+  "de": "PRATERNOSTRA ist eine nummerierte Partyreihe in der Wiener Pratersauna mit Tech House und Deep House, zu der regelmäßig internationale Gäste wie Mimi Love (Katermukke, Berlin) eingeladen werden.",
+  "en": "PRATERNOSTRA is a numbered party series at Vienna's Pratersauna featuring tech house and deep house, regularly inviting international guests such as Mimi Love (Katermukke, Berlin).",
+  "type": [
+   "Reihe"
+  ],
+  "src": [
+   "https://de.ra.co/events/2186843"
+  ],
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "Monochrom": {
+  "de": "MONOCHROM ist eine 2024 gestartete Samstagsreihe der Wiener Pratersauna, die als „der neue Samstag mit dem besten, was der Underground zu bieten hat“ angekündigt wurde. Musikalisch reicht sie von Techno bis Trance, oft als Kollaboration mit anderen Crews.",
+  "en": "MONOCHROM is a Saturday series at Vienna's Pratersauna launched in 2024 and billed as “the new Saturday with the best the underground has to offer”. Musically it spans techno and trance, often as collaborations with other crews.",
+  "type": [
+   "Reihe"
+  ],
+  "founded": "2024",
+  "src": [
+   "https://ra.co/events/1925282"
+  ],
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "KISSEN": {
+  "de": "KISSEN ist eine queere Partyreihe eines Wiener Kollektivs, die seit 2024 Nächte mit Fokus auf trans* Künstler*innen veranstaltet. Musik, Szenografie und Performance stehen im Mittelpunkt; Veranstaltungsort ist vor allem das FLUCC, dazu Kooperationen wie mit brut Wien oder beim Club der Republik der Wiener Festwochen.",
+  "en": "KISSEN is a queer party series run by a Vienna collective that has hosted nights focused on trans* artists since 2024. Music, scenography and performance are central; it is mainly held at FLUCC, alongside collaborations with brut Wien and the Wiener Festwochen's Club der Republik.",
+  "type": [
+   "Kollektiv",
+   "Reihe"
+  ],
+  "founded": "2024",
+  "from": "Wien",
+  "src": [
+   "https://brut-wien.at/en/Artists/KISSEN",
+   "https://ra.co/events/2340464"
+  ],
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "Mixed": {
+  "de": "MIXED Vienna ist eine Wiener Partyreihe, die vor allem in der Grelle Forelle stattfindet, dazu Open Airs wie im Gleis19. Gespielt werden vor allem House und Trance, u. a. bei einer Kollaboration mit HÖR Berlin.",
+  "en": "MIXED Vienna is a Vienna party series held mainly at Grelle Forelle, plus open-air events such as at Gleis19. The music is mostly house and trance, including a collaboration with HÖR Berlin.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "alias": [
+   "MIXED Vienna"
+  ],
+  "ig": "https://www.instagram.com/mixed.vienna/",
+  "src": [
+   "https://de.ra.co/events/2438497"
+  ],
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "Techno am Wasser": {
+  "de": "Techno am Wasser ist eine Open-Air-Reihe der Wiener Crew Techno Vienna, die erste Ausgabe unter diesem Namen fand im Juli 2021 im USUS am Wasser an der Neuen Donau statt. Die Musik geht vom entspannten House am Tag bis zu härterem Techno in der Nacht. Neben dem USUS am Wasser gab es Ausgaben im Himmel und Wasser, oft als Free Open Air mit Spendenbox.",
+  "en": "Techno am Wasser is an open-air series by the Vienna crew Techno Vienna. The first edition under this name took place in July 2021 at USUS am Wasser on the Neue Donau. The music moves from relaxed house during the day to harder techno at night. Besides USUS am Wasser, editions have also taken place at Himmel und Wasser, often as free open airs with a donation box.",
+  "type": [
+   "Reihe"
+  ],
+  "founded": "2021",
+  "from": "Wien",
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://warda.at/?p=67822",
+   "https://warda.at/events/techno-am-wasser-season-opening-x-free-open-air/",
+   "https://ra.co/events/2417964"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Bouncylicious": {
+  "de": "BOUNCYLICIOUS ist eine Partyreihe des Wiener Kollektivs Gesindel der Nacht im FLUCC. Die Reihe setzt auf energiegeladene, treibende Clubmusik und positioniert sich klar gegen Homophobie, Transphobie, Rassismus und Sexismus.",
+  "en": "BOUNCYLICIOUS is a party series by the Vienna collective Gesindel der Nacht at FLUCC. The series focuses on high-energy, driving club music and takes a clear stance against homophobia, transphobia, racism and sexism.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://de.ra.co/events/2412334"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Between Us": {
+  "de": "Between Us ist eine Wiener Partyreihe, die einen intimen Raum für soulful Dance Music schaffen will und internationale Selector, Kollektive und Tänzer:innen zusammenbringt. Die Reihe ist seit 2024 aktiv, unter anderem im PRST, im Tagada und im Celeste.",
+  "en": "Between Us is a Vienna party series that aims to create an intimate space for soulful dance music and brings together selectors, collectives and dancers from around the world. It has been active since 2024, with events at PRST, Tagada and Celeste, among other venues.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "ig": "https://www.instagram.com/betweenus.club/",
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://warda.at/?p=102953"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Electric Gallery": {
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "Votiv Session": {
+  "de": "votiv session ist eine Wiener Partyreihe mit funky Sounds, Progressive House und Deep Grooves. Die erste Ausgabe (votiv session 01) fand 2025 im Tagada statt, danach folgten Ausgaben im Club Lucia und im SASS Music Club.",
+  "en": "votiv session is a Vienna party series built around funky sounds, progressive house and deep grooves. The first edition (votiv session 01) took place at Tagada in 2025, followed by editions at Club Lucia and SASS Music Club.",
+  "type": [
+   "Reihe"
+  ],
+  "founded": "2025",
+  "from": "Wien",
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://ra.co/events/2199660"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "House of Ludic": {
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "Below the Surface": {
+  "de": "BELOW THE SURFACE ist eine Partyreihe des Wiener Kollektivs YN (YN Raves) in der Grelle Forelle, mit Trance und Techno. Die Reihe legt Wert auf Safer Space mit Awareness-Team, Code of Conduct, Türselektion und striktem Foto- und Videoverbot.",
+  "en": "BELOW THE SURFACE is a party series by the Vienna collective YN (YN Raves) at Grelle Forelle, focusing on trance and techno. The series emphasises a safer space with an awareness team, a code of conduct, door selection and a strict no-photo/no-video policy.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://de.ra.co/events/2109983"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Female Pleasure": {
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "SIN": {
+  "de": "SIN ist eine Tekno-Partyreihe im Fluc und in der Fluc Wanne in Wien, mindestens seit 2023. Die Reihe bewegt sich nach eigener Beschreibung zwischen Mental-, Tribe-, Spacetek- und Industrial-Sounds, oft mit Live-Acts und AV-Sets.",
+  "en": "SIN is a tekno party series at Fluc and Fluc Wanne in Vienna, running since at least 2023. In its own words it moves between mental, tribe, spacetek and industrial sounds, often with live acts and AV sets.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://warda.at/events/sin-w-wonka-live-keflat-23-live-illtek-live-x-havana-syndrome-vjset-memplex-vazdaz-babzilla/",
+   "https://warda.at/?p=91829"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Überdruck": {
+  "de": "Überdruck ist eine Wiener Crew, die Partys im Fluc und im Werk veranstaltet, teils als Überdruck Soundsystem und in Kooperation mit SIN und Decibelles.",
+  "en": "Überdruck is a Vienna crew hosting parties at Fluc and Das Werk, sometimes as Überdruck Soundsystem and in collaboration with SIN and Decibelles.",
+  "alias": [
+   "Überdruck Soundsystem"
+  ],
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "Freeride Millenium": {
+  "de": "Freeride Millenium ist eine Partyreihe im Wiener SASS Music Club.",
+  "en": "Freeride Millenium is a party series at SASS Music Club in Vienna.",
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "Verknallt": {
+  "de": "VERKNALLT ist eine Techno-Partyreihe im Club Exil in Vösendorf bei Wien, mit Nachtausgaben und Daytime-Raves am Sonntag.",
+  "en": "VERKNALLT is a techno party series at Club Exil in Vösendorf near Vienna, with night editions and Sunday daytime raves.",
+  "type": [
+   "Reihe"
+  ],
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://de.ra.co/events/2365223",
+   "https://edmdancedirectory.com/news/verknallt-with-nikolina-x-ben-techy-vienna-2026-tickets-and-lineup-vienna"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Vienn_a_Tek": {
+  "de": "Vienn_a_Tek ist eine Tekno-Partyreihe im Fluc und in der Fluc Wanne in Wien, mindestens seit 2022, mit Acid-Specials und Live-Acts aus der Tekno-Szene.",
+  "en": "Vienn_a_Tek is a tekno party series at Fluc and Fluc Wanne in Vienna, running since at least 2022, with acid specials and live acts from the tekno scene.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "alias": [
+   "Vienn-a-tek"
+  ],
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://www.fluc.at/programm/2022/12/w03_2300-Vienn_a_Tek-pres-Van-der-Wiese-LIVE-AT+Wonka-LIVE-PL.html",
+   "https://viennawurstelstand.com/event/filmriss-vs-vienn-a-tek-acid-special-3/"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Magika": {
+  "de": "Magika ist ein Wiener Veranstalter (Magika e.U.) mit Partyreihen wie Salon Magika, Playa Magika und Cacao-Raves. Salon Magika läuft mindestens seit 2018 im Werk, weitere Abende fanden in der Pratersauna, im Flex und im Porto Pollo statt.",
+  "en": "Magika is a Vienna-based organiser (Magika e.U.) running party series such as Salon Magika, Playa Magika and cacao raves. Salon Magika has been held at Das Werk since at least 2018, with further nights at Pratersauna, Flex and Porto Pollo.",
+  "type": [
+   "Promoter"
+  ],
+  "from": "Wien",
+  "alias": [
+   "Salon Magika",
+   "Magika_magic"
+  ],
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://ntry.at/SalonMagika?l=en",
+   "https://de.ra.co/events/2169288",
+   "https://ra.co/events/1161042"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Halli Galli": {
+  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-03"
+ },
+ "VNV": {
+  "de": "VNV ist ein Wiener Kollektiv aus dem Techno-Umfeld mit Abenden im SASS Music Club und Kooperationen mit Cybertribe, Soundbüglerei und STRAAT in der Grellen Forelle.",
+  "en": "VNV is a Vienna techno collective hosting nights at SASS Music Club and collaborating with Cybertribe, Soundbüglerei and STRAAT at Grelle Forelle.",
+  "type": [
+   "Kollektiv"
+  ],
+  "from": "Wien",
+  "alias": [
+   "VNV Kollektiv",
+   "VNV Collective"
+  ],
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://events.at/event/cybertribe-vnv-pres-x-club"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Drumworks": {
+  "de": "Drumworks ist eine Drum-and-Bass-Partyreihe in Wien, mindestens seit 2020. Die Reihe lief zunächst im Black Market, später im Weberknecht und im Club Lucia.",
+  "en": "Drumworks is a drum and bass party series in Vienna, running since at least 2020. It started at Black Market and later moved to Weberknecht and Club Lucia.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "alias": [
+   "DRUMWORKS"
+  ],
+  "noLogo": "2026-11-03",
+  "src": [
+   "https://ra.co/events/1368237",
+   "https://ra.co/events/1478317",
+   "https://ra.co/events/1821603"
+  ],
+  "infoChk": "2026-11-03"
  }
 };
 const VI={
