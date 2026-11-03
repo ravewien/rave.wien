@@ -11680,9 +11680,9 @@ const AR={
   ]
  },
  "The Rave Bear": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Klaut-G": {
   "links": {
@@ -11691,28 +11691,28 @@ const AR={
   "src": [
    "https://soundcloud.com/klaut-g-van-donderland"
   ],
-  "noImg": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "SYC": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Gingertek": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Auditore": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Brandix": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Se.Vero": {
   "links": {
@@ -11721,35 +11721,39 @@ const AR={
   "src": [
    "https://soundcloud.com/dj-se-vero"
   ],
-  "noImg": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
   "setsChecked": "2026-11-02"
  },
  "Gosh": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Fullip": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Poison": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Para2P3ctrum": {
   "links": {
    "sc": "https://soundcloud.com/para2p3ctrum"
   },
   "src": [
-   "https://soundcloud.com/para2p3ctrum"
+   "https://soundcloud.com/para2p3ctrum",
+   "https://flucc.at/events/JKxQVy-rave-on/"
   ],
-  "noImg": "2026-11-02",
-  "infoChk": "2026-11-02",
-  "setsChecked": "2026-11-02"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-02",
+  "alias": [
+   "Paraspectrum"
+  ]
  },
  "Louisa India": {
   "from": {
@@ -11779,9 +11783,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Kandy": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Mariephi": {
   "infoChk": "2026-11-02",
@@ -12127,12 +12131,14 @@ const AR={
   "setsChecked": "2026-11-02",
   "src": [
    "https://soundcloud.com/inayadnb",
-   "https://soundcloud.com/inayadnb/sets/mixes",
-   "https://www.instagram.com/inayadnb/",
-   "https://ra.co/events/2143808"
+   "https://soundcloud.com/inayadnb/la-boum-de-luxe-030323"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "bio": {
+   "de": "INAYA legt Drum & Bass auf und ist in der Wiener Szene aktiv: Auf SoundCloud finden sich u. a. ein Set bei CINEMATIƆ im Prater Dome (September 2024) und ein Mitschnitt von La Boum De Luxe beim YOUPHORIA-Takeover (März 2023). Bei uns steht INAYA im Line-up von The Hive im Flex.",
+   "en": "INAYA is a drum & bass DJ active in Vienna's scene: SoundCloud features a set at CINEMATIƆ at Prater Dome (September 2024) and a recording from La Boum De Luxe during the YOUPHORIA takeover (March 2023). INAYA is on the line-up of The Hive at Flex."
+  }
  },
  "Heap": {
   "img": "https://static.ra.co/images/profiles/square/heap.jpg?dateUpdated=1518191055000",
@@ -13743,9 +13749,9 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "Lucy Bakanal": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "LCA": {
   "infoChk": "2026-11-03",
@@ -13923,19 +13929,53 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "DJ Scarf": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": null,
+  "links": {
+   "mc": "https://www.mixcloud.com/Djscarf256/",
+   "ig": "https://www.instagram.com/man_with_the_scarf"
+  },
+  "alias": [
+   "Scarf DJ"
+  ],
+  "real": "Jamal",
+  "from": {
+   "de": "Uganda, lebt in Wien",
+   "en": "Uganda, based in Vienna"
+  },
+  "genres": [
+   "Afro House",
+   "House"
+  ],
+  "bio": {
+   "de": "DJ Scarf (auch Scarf DJ) ist Performance-Künstler, Tänzer und DJ. Er stammt aus Uganda, lebt in Wien und legt seit 2016 auf. Gespielt wird vor allem afrikanische Musik, meist Afro House mit ostafrikanischen Rhythmen.",
+   "en": "DJ Scarf (also Scarf DJ) is a performance artist, dancer and DJ. Originally from Uganda and based in Vienna, he has been DJing since 2016. He mostly plays African music, above all Afro house with East African rhythms."
+  },
+  "sets": [
+   {
+    "t": "B2B House Set w/ DJ Yanomi",
+    "u": "https://www.mixcloud.com/Djscarf256/b2b-house-set-w_djyanomi/"
+   },
+   {
+    "t": "Masere Afrohouse Mix 26",
+    "u": "https://www.mixcloud.com/Djscarf256/masere-afrohouse-mix-26/"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://www.mixcloud.com/Djscarf256/"
+  ]
  },
  "Djane Stone": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "DJ Zidi": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Carl H": {
   "img": "https://static.ra.co/images/profiles/carlh.jpg?dateUpdated=1762190738567",
