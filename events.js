@@ -28992,6 +28992,84 @@ const AR={
   "src": [
    "https://ra.co/dj/skiye/biography"
   ]
+ },
+ "Authentically Plastic": {
+  "img": "https://static.ra.co/images/profiles/square/authenticallyplastic.jpg?dateUpdated=1576494969613",
+  "links": {
+   "ra": "https://ra.co/dj/authenticallyplastic",
+   "sc": "https://soundcloud.com/authenticallyplastic",
+   "ig": "https://www.instagram.com/authenticallyplastic"
+  },
+  "from": {
+   "de": "Kampala, Uganda",
+   "en": "Kampala, Uganda"
+  },
+  "labels": [
+   "Hakuna Kulala",
+   "ANTI-MASS",
+   "Club Chai"
+  ],
+  "bio": {
+   "de": "Authentically Plastic ist ein:e DJ und Produzent:in aus Kampala, Uganda, aus dem Umfeld des Nyege-Nyege-Kollektivs. Das Debütalbum „RAW SPACE“ erschien auf Hakuna Kulala, weitere Releases auf ANTI-MASS und Club Chai. Auftritte führten u. a. zum CTM Festival in Berlin und ins brut Wien.",
+   "en": "Authentically Plastic is a DJ and producer from Kampala, Uganda, from the orbit of the Nyege Nyege collective. The debut album “RAW SPACE” came out on Hakuna Kulala, with further releases on ANTI-MASS and Club Chai. Performances include CTM Festival in Berlin and brut Wien."
+  },
+  "src": [
+   "https://ra.co/dj/authenticallyplastic",
+   "https://ra.co/news/77641",
+   "https://www.ctm-festival.de/festival-2023/programme/artists/a/authentically-plastic",
+   "https://brut-wien.at/en/Programme/Calendar/Programm-2022/11/Authentically-Plastic-Konzert-DJ-Set"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Kling&klang": {
+  "img": "https://static.ra.co/images/profiles/square/klingklang.jpg?dateUpdated=1700578244000",
+  "alias": [
+   "Kling & Klang",
+   "Kling und Klang"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/klingklang",
+   "sc": "https://soundcloud.com/kling_und_klang",
+   "ig": "https://www.instagram.com/Kling.und.klang"
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "bio": {
+   "de": "KLING&KLANG ist ein DJ-Duo aus Leo Lingus und TJ, das aus der Berliner Underground-Szene kommt. Das Duo spielt regelmäßig in Berliner Clubs wie Lokschuppen (F90), OST und ://about blank sowie bei Festivals wie Nature One.",
+   "en": "KLING&KLANG is a DJ duo of Leo Lingus and TJ that came out of Berlin's underground scene. The duo plays Berlin clubs such as Lokschuppen (F90), OST and ://about blank as well as festivals like Nature One."
+  },
+  "sets": [
+   {
+    "t": "KLING&KLANG – HIVE Set 2023",
+    "u": "https://soundcloud.com/kling_und_klang/hive-set"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/klingklang"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "The Zees": {
+  "genres": [
+   "Hip Hop",
+   "Soul",
+   "Funk",
+   "Disco",
+   "House"
+  ],
+  "bio": {
+   "de": "THE ZEES sind das DJ-Duo von DJ Zuzee, bekannt von den Waxolutionists, und Mrs. Zee, die ursprünglich Tänzerin war. Ihre Sets verbinden Musik und Tanz und reichen von Hip Hop über Soul, Funk und Disco bis House.",
+   "en": "THE ZEES are the DJ duo of DJ Zuzee, known from the Waxolutionists, and Mrs. Zee, originally a dancer. Their sets combine music and dance, spanning hip hop, soul, funk, disco and house."
+  },
+  "src": [
+   "https://www.mqw.at/en/program/monday-listening-club-hosted-by-martin-markeli-special-guest-the-zees"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  }
 };
 
