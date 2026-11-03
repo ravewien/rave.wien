@@ -29177,6 +29177,94 @@ const AR={
    "https://ra.co/dj/sikoti"
   ],
   "infoChk": "2026-11-03"
+ },
+ "Arcando": {
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Arcando ist ein Drum-&-Bass-Artist aus den Niederlanden, der modernen DnB mit cineastischen Melodien, explosiven Drops und festivaltauglicher Energie verbindet. Seine Tracks kombinieren euphorische Aufbauten mit hart treibenden Basslines; 2026 spielte er u. a. bei Subset in der Schweiz.",
+   "en": "Arcando is a drum & bass artist from the Netherlands whose modern DnB pairs cinematic melodies with explosive drops and festival-ready energy. His tracks combine euphoric build-ups with hard-driving basslines; in 2026 he played Subset events in Switzerland, among others."
+  },
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "src": [
+   "https://ra.co/events/2407219"
+  ]
+ },
+ "Reika": {
+  "img": "https://static.ra.co/images/profiles/square/reika_dj.jpg?dateUpdated=1793709361000",
+  "alias": [
+   "REIKA_DJ"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/reika_dj",
+   "ig": "https://www.instagram.com/reika_dj",
+   "sc": "https://soundcloud.com/reikadj"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Reika ist eine Techno-DJ aus Österreich mit rohem, tiefem und hypnotischem Sound – dunkle Atmosphären und unerbittlicher Puls. In Wien spielte sie u. a. bei KONZEPT im FLUCC und bei „5 Years Exil“ mit Rødhåd im Club Exil.",
+   "en": "Reika is an Austrian techno DJ with a raw, deep and hypnotic sound – dark atmospheres and a relentless pulse. In Vienna she has played KONZEPT at FLUCC and \"5 Years Exil\" with Rødhåd at Club Exil."
+  },
+  "infoChk": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/reika_dj"
+  ]
+ },
+ "Stoik": {
+  "links": {
+   "sc": "https://soundcloud.com/iamstoik"
+  },
+  "bio": {
+   "de": "STOIK ist ein Techno-Act aus dem österreichischen Umfeld des Labels The Funky Cat, auf dem u. a. „S.T.O.I.K.“ (Album „Kontinuum“) und ein Remix von Ludwig Hirschs „1928“ erschienen.",
+   "en": "STOIK is a techno act from the Austrian circle of the label The Funky Cat, which released \"S.T.O.I.K.\" (from \"Kontinuum\") and a remix of Ludwig Hirsch's \"1928\"."
+  },
+  "sets": [
+   {
+    "t": "STOIK – live recorded at The Funky Cat #7 (16.03.2018)",
+    "u": "https://soundcloud.com/the-funky-cat/tfc7-stoik"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/the-funky-cat/stoik",
+   "https://soundcloud.com/the-funky-cat/1928-stoik-remix",
+   "https://soundcloud.com/the-funky-cat/tfc7-stoik"
+  ]
+ },
+ "Foe": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "T-Krush": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Joy Resistance": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Djsus": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  }
 };
 
