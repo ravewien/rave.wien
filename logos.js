@@ -4,6 +4,7 @@ const LOGOBOX={
 "https://assets-s3.welocally.at/shrine/store/fdb7dbe8a7bf036d6f0ac22885b8b3d2.png":[400,400,23,26,376,369,"#ffffff"],
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxSNTz3y4vRe1uW6jAeEvkGJ8big2rRBHtXt7PFPx_1NgOIsaeuPzAUOIDBMAMDyhlvyg4dpSfKKDm66ShGgXrn-rYA-IQ7v_uHAdON2-SyAoiFnhr2mG6DOb4fSA0aCD2n6d_2e9RxVYc/s1600/zuckerwatt_hq.jpg":[600,788,18,18,582,770,"#000000"],
 "https://deepcut.at/wp-content/uploads/2026/02/deep-cut-Logo-white-300w.png":[300,94,0,0,300,94,""],
+"https://f4.bcbits.com/img/0041298298_21.jpg":[120,120,9,32,111,88,"#ffffff"],
 "https://f4.bcbits.com/img/0047803878_100.png":[975,180,369,38,615,139,"#252523"],
 "https://hofburg.com/jart/prj3/hofburg/resources/images/hofburg-white.png":[152,74,9,5,145,69,"#ffffff"],
 "https://i1.sndcdn.com/avatars-000048192524-zbrypt-t500x500.jpg":[500,500,0,0,500,500,""],
