@@ -29076,6 +29076,107 @@ const AR={
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03"
+ },
+ "Fuxx": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Extrawelt": {
+  "img": "https://static.ra.co/images/profiles/square/extrawelt.jpg?dateUpdated=1788976625660",
+  "links": {
+   "ra": "https://ra.co/dj/extrawelt"
+  },
+  "from": {
+   "de": "Hamburg, Deutschland",
+   "en": "Hamburg, Germany"
+  },
+  "labels": [
+   "Cocoon Recordings",
+   "Border Community"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Extrawelt ist das 2005 gegründete Live-Duo der Hamburger Arne Schaffhausen und Wayan Raabe (zuvor Midimiliz und Spirallianz). Die erste Single erschien auf James Holdens Border Community, Alben wie „Schöne Neue Extrawelt“ (2008) und „In Aufruhr“ (2011) auf Cocoon. Sie wurden u. a. von Groove und Raveline für das beste Album bzw. den besten Live-Act ausgezeichnet.",
+   "en": "Extrawelt is a live duo formed in 2005 by Hamburg natives Arne Schaffhausen and Wayan Raabe (previously Midimiliz and Spirallianz). Their first single came out on James Holden's Border Community, and albums such as 'Schöne Neue Extrawelt' (2008) and 'In Aufruhr' (2011) on Cocoon. They have won awards from Groove and Raveline for best album and best live act."
+  },
+  "src": [
+   "https://ra.co/dj/extrawelt/biography"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Skeptical": {
+  "img": "https://static.ra.co/images/profiles/square/skeptical.jpg?dateUpdated=1527636064927",
+  "links": {
+   "ra": "https://ra.co/dj/skeptical",
+   "sc": "https://soundcloud.com/skeptical",
+   "ig": "https://www.instagram.com/Skepticaluk"
+  },
+  "real": "Ashley Tindall",
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "labels": [
+   "Metalheadz",
+   "R&S Records",
+   "Soul:r",
+   "Exit Records",
+   "Ingredients Records"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Skeptical ist ein britischer Drum-&-Bass-Produzent und DJ, den RA zu den Größen des Genres zählt. Releases erschienen unter anderem auf Metalheadz, R&S, Exit Records, Soul:r und Ingredients.",
+   "en": "Skeptical is a UK drum & bass producer and DJ whom RA counts among the genre's giants. He has released on Metalheadz, R&S, Exit Records, Soul:r and Ingredients, among others."
+  },
+  "sets": [
+   {
+    "t": "Skeptical DJ Set @ STUDIO Invites (Petit Bain)",
+    "u": "https://soundcloud.com/wearestudio/skeptical-dj-set-studio-invites-drum-bass-breaks-dubstep-petit-bain-france"
+   },
+   {
+    "t": "EXCLUSIVE MIX: Skeptical – Exit Records (DJ Mag)",
+    "u": "https://soundcloud.com/djmag/skeptical-exit-recs-dj-mag-mix"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/skeptical",
+   "https://ra.co/reviews/30934"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Sikoti": {
+  "img": "https://static.ra.co/images/profiles/square/sikoti.jpg?dateUpdated=1698341128000",
+  "links": {
+   "ra": "https://ra.co/dj/sikoti",
+   "sc": "https://soundcloud.com/sikotii"
+  },
+  "real": "Scott Harrison",
+  "from": {
+   "de": "Glasgow, Vereinigtes Königreich",
+   "en": "Glasgow, United Kingdom"
+  },
+  "labels": [
+   "Taapion Records",
+   "ELEVEN STH",
+   "The Finest Techno"
+  ],
+  "genres": [
+   "Hard Techno"
+  ],
+  "bio": {
+   "de": "SIKOTI ist ein Hardtechno-DJ und Produzent aus Glasgow mit Releases auf Taapion Records, ELEVEN STH und The Finest Techno. Er spielt international, unter anderem bei Teletech, Dangerous Goods und in Wien bei Impulse und Stay Acid.",
+   "en": "SIKOTI is a hard techno DJ and producer from Glasgow with releases on Taapion Records, ELEVEN STH and The Finest Techno. He plays internationally, e.g. at Teletech, Dangerous Goods and, in Vienna, at Impulse and Stay Acid."
+  },
+  "src": [
+   "https://ra.co/dj/sikoti"
+  ],
+  "infoChk": "2026-11-03"
  }
 };
 
