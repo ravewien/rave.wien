@@ -1345,6 +1345,7 @@ const DOCK={u:null};let DOCKH=0;
 function dockPlay(u,t){const l=L();if(!consentOK())consentSet("all");const d=$("dock");
   if(DOCK.u===u){dockClose();return}
   DOCK.u=u;const kind=audioKind(u),mc=kind==="mc",sp=kind==="sp",spm=sp&&u.match(SPRE);
+  {const nm={sc:"SoundCloud",mc:"Mixcloud",sp:"Spotify"}[kind]||"SoundCloud";gc("player/"+nm.toLowerCase(),"Player: "+nm,true)}
   d.innerHTML=`<div class="dhd"><span class="dpt">▶ ${esc(t)}</span><a href="${esc(su(u))}" target="_blank" rel="noopener" aria-label="${mc?"Mixcloud":sp?"Spotify":"SoundCloud"}">↗</a><button type="button" class="dx" data-dockx aria-label="${l.close}">×</button></div>`+
     (sp&&spm?`<iframe class="sp" title="Spotify" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" src="https://open.spotify.com/embed/${spm[1].toLowerCase()}/${spm[2]}?utm_source=generator&theme=0"></iframe>`:mc?`<iframe title="Mixcloud" allow="autoplay" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&autoplay=1&feed=${encodeURIComponent(u.replace(/^https?:\/\/(www\.)?mixcloud\.com/,""))}"></iframe>`
         :`<iframe title="SoundCloud" allow="autoplay" src="https://w.soundcloud.com/player/?url=${encodeURIComponent(u)}&color=%231f8bff&auto_play=true&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe>`);
