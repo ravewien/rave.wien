@@ -25578,6 +25578,496 @@ const AR={
    "https://ra.co/dj/andreasalvaggio"
   ],
   "infoChk": "2026-11-03"
+ },
+ "Paralich": {
+  "img": "https://static.ra.co/images/profiles/square/paralich.jpg?dateUpdated=1645450343000",
+  "links": {
+   "ra": "https://ra.co/dj/paralich",
+   "sc": "https://soundcloud.com/00paralich",
+   "ig": "https://www.instagram.com/paralich00"
+  },
+  "from": {
+   "de": "Budapest, Ungarn",
+   "en": "Budapest, Hungary"
+  },
+  "bio": {
+   "de": "Paralich ist DJ, Produzent und Partyveranstalter aus Budapest. Gespielt hat er u. a. in Berlin, Budapest und Prag, dazu Podcasts für Sachsentrance, Polyamor und Sound of Hell.",
+   "en": "Paralich is a Budapest-based DJ, producer and party organizer. He has played in Berlin, Budapest and Prague, and recorded podcasts for Sachsentrance, Polyamor and Sound of Hell."
+  },
+  "sets": [
+   {
+    "t": "Paralich – Sachsentrance Podcast #101",
+    "u": "https://soundcloud.com/sachsentrance/rec-2024-10-30-3"
+   },
+   {
+    "t": "Fridget Spinner 056: Paralich (Polyamor Records)",
+    "u": "https://soundcloud.com/polyamor-berlin/fridget-spinner-055-paralich"
+   },
+   {
+    "t": "Sound of Hell podcast010 – Paralich",
+    "u": "https://soundcloud.com/soundofhell_bln/sound-of-hell-podcast010-paralichh"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/paralich"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Robert Owens": {
+  "img": "https://static.ra.co/images/profiles/robertowens.jpg?dateUpdated=1199312716583",
+  "links": {
+   "ra": "https://ra.co/dj/robertowens"
+  },
+  "from": {
+   "de": "USA",
+   "en": "USA"
+  },
+  "bio": {
+   "de": "Robert Owens gilt als „Voice of House“: Mitte der 1980er gründete er in Chicago mit Larry Heard und Ron Wilson Fingers Inc. (Album „Another Side“, 1988). Später folgten Hits wie „I’ll Be Your Friend“ und „Mine to Give“ mit Photek sowie der Gesang auf „Tears“ von Frankie Knuckles und Satoshi Tomiie.",
+   "en": "Robert Owens is known as the “Voice of House”: in mid-1980s Chicago he formed Fingers Inc. with Larry Heard and Ron Wilson (album “Another Side”, 1988). Later came hits such as “I’ll Be Your Friend” and “Mine to Give” with Photek, plus vocals on Frankie Knuckles and Satoshi Tomiie’s “Tears”."
+  },
+  "labels": [
+   "Trax Records",
+   "Ninja Tune",
+   "Compost Records",
+   "Versatile Records"
+  ],
+  "src": [
+   "https://ra.co/dj/robertowens",
+   "https://en.wikipedia.org/wiki/Robert_Owens_(musician)"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Sibil": {
+  "img": "https://static.ra.co/images/profiles/square/sibil-1.jpg?dateUpdated=1789639308073",
+  "links": {
+   "ra": "https://ra.co/dj/sibil-1",
+   "sc": "https://soundcloud.com/sibil-fr"
+  },
+  "from": {
+   "de": "Frankreich / Slowenien",
+   "en": "France / Slovenia"
+  },
+  "bio": {
+   "de": "Sibil ist eine in Frankreich geborene, in Slowenien lebende DJ und Produzentin mit klassischer und Jazz-Ausbildung. Ihre House-Sets verbinden trippige Vocal-Schnipsel, funkige Basslines, Techno und verträumte Synths. Sie ist Teil des slowenischen Kollektivs LuckIsOn und hat mit Mayell das Purple Noise Studio gegründet.",
+   "en": "Sibil is a French-born, Slovenia-based DJ and producer with classical and jazz training. Her house sets blend trippy vocal snippets, funk-driven basslines, techno cuts and dreamy synths. She is part of the Slovenian collective LuckIsOn and co-founded Purple Noise Studio with Mayell."
+  },
+  "src": [
+   "https://ra.co/dj/sibil-1",
+   "https://ra.co/events/2469882"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Mexican Stepper": {
+  "links": {
+   "sc": "https://soundcloud.com/mexican-stepper-1"
+  },
+  "from": {
+   "de": "Mexiko",
+   "en": "Mexico"
+  },
+  "genres": [
+   "Dub"
+  ],
+  "bio": {
+   "de": "Mexican Stepper ist ein Dub-Produzent aus Mexiko, der schwere Conscious-Dub- und Steppers-Riddims macht. Veröffentlicht hat er u. a. auf Dubophonic und Original Dub Gathering (LP „Piramide del Sol“) sowie die „Mad Sunday“-EP.",
+   "en": "Mexican Stepper is a dub producer from Mexico making heavyweight conscious dub and steppers riddims. He has released on Dubophonic and Original Dub Gathering (LP “Piramide del Sol”) as well as the “Mad Sunday” EP."
+  },
+  "src": [
+   "https://iriemag.com/respect-mexican-stepper",
+   "https://soundcloud.com/mexican-stepper-1"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
+ },
+ "Tence": {
+  "img": "https://static.ra.co/images/profiles/square/tence.jpg?dateUpdated=1776674786000",
+  "links": {
+   "ra": "https://ra.co/dj/tence",
+   "sc": "https://soundcloud.com/terence_b",
+   "ig": "https://www.instagram.com/terence_braun"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "src": [
+   "https://ra.co/dj/tence",
+   "https://ra.co/events/2469302"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Lost Tourist": {
+  "links": {
+   "sc": "https://soundcloud.com/lostourist"
+  },
+  "bio": {
+   "de": "Lost Tourist ist Produzent und DJ; auf SoundCloud finden sich Remixe und Flips, u. a. für den Rapper P.TAH auf Duzz Down San.",
+   "en": "Lost Tourist is a producer and DJ; his SoundCloud features remixes and flips, including work for rapper P.TAH on Duzz Down San."
+  },
+  "src": [
+   "https://soundcloud.com/lostourist"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
+ },
+ "Blooom": {
+  "img": "https://static.ra.co/images/profiles/square/blooom.jpg?dateUpdated=1727099121000",
+  "links": {
+   "ra": "https://ra.co/dj/blooom",
+   "sc": "https://soundcloud.com/blooommusic",
+   "ig": "https://www.instagram.com/blooommusic"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Drum and Bass"
+  ],
+  "labels": [
+   "Hospital Records",
+   "Liquicity Records"
+  ],
+  "bio": {
+   "de": "Blooom ist ein Drum-and-Bass-Produzent aus Deutschland, bekannt durch seinen viralen „Sweet Dreams“-Bootleg und den Bombalaya-Remix. Er veröffentlicht auf Hospital Records und Liquicity und hat über 700.000 monatliche Spotify-Hörer:innen.",
+   "en": "Blooom is a German drum and bass producer known for his viral “Sweet Dreams” bootleg and the Bombalaya remix. He releases on Hospital Records and Liquicity and has over 700k monthly Spotify listeners."
+  },
+  "src": [
+   "https://ra.co/dj/blooom"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Fab Massimo": {
+  "img": "https://static.ra.co/images/profiles/square/fabmassimo.jpg?dateUpdated=1629448261000",
+  "links": {
+   "ra": "https://ra.co/dj/fabmassimo",
+   "sc": "https://soundcloud.com/fabmassimo",
+   "ig": "https://www.instagram.com/fabmassimo"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Glasgow Underground"
+  ],
+  "bio": {
+   "de": "Fab Massimo ist ein DJ und Produzent aus Deutschland mit Hang zu rollenden Basslines („Pondering the meaning of rolling bass since 1994“). Er veröffentlicht auf Glasgow Underground und spielt u. a. in Berlin, Amsterdam, Hamburg und Köln.",
+   "en": "Fab Massimo is a German DJ and producer devoted to rolling basslines (“Pondering the meaning of rolling bass since 1994”). He releases on Glasgow Underground and plays in Berlin, Amsterdam, Hamburg and Cologne, among others."
+  },
+  "src": [
+   "https://ra.co/dj/fabmassimo"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Kichta": {
+  "img": "https://static.ra.co/images/profiles/square/kichta.jpg?dateUpdated=1776169317973",
+  "links": {
+   "ra": "https://ra.co/dj/kichta",
+   "sc": "https://soundcloud.com/kichta-ghetto",
+   "ig": "https://www.instagram.com/kichta.music",
+   "bc": "https://kichta.bandcamp.com"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "bio": {
+   "de": "Kichta ist ein französischer Act mit energiegeladener, bassgetriebener Rave-Musik, die Techno, Trance und Hip-Hop zu einem rohen, clubtauglichen Sound verbindet. Gespielt hat er u. a. in Paris, Berlin, Zürich und Toronto.",
+   "en": "Kichta is a French act making high-energy, bass-driven rave music that fuses techno, trance and hip-hop into a raw, club-focused sound. He has played in Paris, Berlin, Zurich and Toronto, among others."
+  },
+  "src": [
+   "https://ra.co/dj/kichta"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Kristof Grandits": {
+  "links": {
+   "mc": "https://www.mixcloud.com/granditsios/"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Kristof Grandits ist ein Wiener DJ und Produzent, seit 2005 aktiv. Er verbindet melodische, treibende und mitunter raue Tracks aus Techno und House und spielte in Clubs in ganz Österreich sowie u. a. beim Donauinselfest, Beatpatrol und der Regenbogenparade.",
+   "en": "Kristof Grandits is a Viennese DJ and producer active since 2005. He blends melodic, driving and sometimes rough techno and house tracks and has played clubs across Austria as well as Donauinselfest, Beatpatrol and the Rainbow Parade."
+  },
+  "sets": [
+   {
+    "t": "House & Disco Classics 3 – mixed & selected by Kristof Grandits",
+    "u": "https://www.mixcloud.com/granditsios/house-disco-classics-3-mixed-selected-by-kristof-grandits/"
+   }
+  ],
+  "src": [
+   "https://www.mixcloud.com/granditsios/"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Nu Zau": {
+  "img": "https://static.ra.co/images/profiles/square/nuzau.jpg?dateUpdated=1488277392813",
+  "links": {
+   "ra": "https://ra.co/dj/nuzau",
+   "sc": "https://soundcloud.com/nu-zau",
+   "ig": "https://www.instagram.com/nuzau",
+   "bc": "https://nuzau.bandcamp.com"
+  },
+  "from": {
+   "de": "Rumänien",
+   "en": "Romania"
+  },
+  "labels": [
+   "Uvar",
+   "Fear of Flying",
+   "Solid Grooves Records",
+   "Memoria Recordings"
+  ],
+  "bio": {
+   "de": "Nu Zau ist ein rumänischer DJ und Produzent aus dem Umfeld von UVAR und Sunrise. Er veröffentlicht u. a. auf Uvar, Fear of Flying, Memoria und Solid Grooves und spielt international, etwa in New York, Antwerpen und Riga.",
+   "en": "Nu Zau is a Romanian DJ and producer from the UVAR and Sunrise circle. He has released on Uvar, Fear of Flying, Memoria and Solid Grooves and plays internationally, e.g. in New York, Antwerp and Riga."
+  },
+  "src": [
+   "https://ra.co/dj/nuzau"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Marrøn": {
+  "img": "https://static.ra.co/images/profiles/marron.jpg?dateUpdated=1491112286017",
+  "links": {
+   "ra": "https://ra.co/dj/marron",
+   "sc": "https://soundcloud.com/marron-official"
+  },
+  "alias": [
+   "MARRON"
+  ],
+  "from": {
+   "de": "Amsterdam, Niederlande",
+   "en": "Amsterdam, Netherlands"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "MARRØN ist Mitgründer und Resident von Eerste Communie in Amsterdam. RA beschreibt seinen Sound als vitalen, kinetischen „Afro Deep Techno“; er nahm den RA-Podcast 786 auf.",
+   "en": "MARRØN is co-founder and resident of Eerste Communie in Amsterdam. RA describes his sound as vital, kinetic “Afro deep techno”; he recorded RA Podcast 786."
+  },
+  "src": [
+   "https://ra.co/dj/marron"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Juri Heidemann": {
+  "img": "https://static.ra.co/images/profiles/square/juriheidemann.jpg?dateUpdated=1746426972870",
+  "links": {
+   "ra": "https://ra.co/dj/juriheidemann",
+   "sc": "https://soundcloud.com/juriheidemann",
+   "ig": "https://www.instagram.com/juri.heidemann",
+   "bc": "https://juriheidemann.bandcamp.com"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "labels": [
+   "Dolly",
+   "Instinkt Lab",
+   "Pengan Records"
+  ],
+  "bio": {
+   "de": "Juri Heidemann ist DJ und Produzent aus Berlin. Er veröffentlicht u. a. auf Dolly, Instinkt Lab und Pengan Records und spielte etwa im ://about blank, in der Roten Flora und in New York.",
+   "en": "Juri Heidemann is a Berlin-based DJ and producer. He has released on Dolly, Instinkt Lab and Pengan Records and played venues such as ://about blank, Rote Flora and New York."
+  },
+  "src": [
+   "https://ra.co/dj/juriheidemann"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Himera": {
+  "img": "https://images.prismic.io/norbergfestival2022/e6cdf75c-8447-4973-bb68-62ce430e08fd_himera-compress.png?auto=compress,format&w=2400&h=1350&ar=16:9&fit=facearea&facepad=10",
+  "links": {
+   "sc": "https://soundcloud.com/djhimera"
+  },
+  "from": {
+   "de": "Lettland / Amsterdam",
+   "en": "Latvia / Amsterdam"
+  },
+  "labels": [
+   "PC Music",
+   "YEAR001"
+  ],
+  "bio": {
+   "de": "Himera ist ein:e lettische:r, in Amsterdam lebende:r Produzent:in, der:die nostalgische Melodien, verspielte Arpeggios und osteuropäische Rave-Ästhetik verbindet. Veröffentlichungen gab es auf PC Music und YEAR001, u. a. mit Namasenda und Petal Supply.",
+   "en": "Himera is a Latvian, Amsterdam-based producer merging nostalgic melodies, ever-evolving arps and Eastern European rave aesthetics. They have released on PC Music and YEAR001, collaborating with Namasenda and Petal Supply."
+  },
+  "src": [
+   "https://2022.norbergfestival.com/artist/himera"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Blood of Aza": {
+  "from": {
+   "de": "Großbritannien",
+   "en": "UK"
+  },
+  "genres": [
+   "Deconstructed Club"
+  ],
+  "bio": {
+   "de": "Blood of Aza ist ein:e britische:r Deconstructed-Club-Artist und DJ zwischen Glitch, Club und Noise. Zu hören war Blood of Aza u. a. als Gast der NTS-Show ZULI (2024).",
+   "en": "Blood of Aza is a British deconstructed club artist and DJ moving between glitch, club and noise. Blood of Aza has appeared as a guest on NTS show ZULI (2024)."
+  },
+  "src": [
+   "https://www-integration.nts.live/artists/135111-blood-of-aza"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Liroy": {
+  "img": "https://static.ra.co/images/profiles/square/liroy.jpg?dateUpdated=1701081042000",
+  "links": {
+   "ra": "https://ra.co/dj/liroy",
+   "ig": "https://www.instagram.com/liroylive"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Techno",
+   "Trance"
+  ],
+  "bio": {
+   "de": "Liroy spielt Live-Techno, der sich vom Rock her zu Techno und Trance entwickelt hat.",
+   "en": "Liroy performs live techno that evolved from rock towards techno and trance."
+  },
+  "src": [
+   "https://de.ra.co/dj/liroy",
+   "https://de.ra.co/events/2462572"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "TAUSEND2Ø": {
+  "img": "https://static.ra.co/images/profiles/square/tausend2o.jpg?dateUpdated=1781081701007",
+  "links": {
+   "ra": "https://ra.co/dj/tausend2o",
+   "sc": "https://soundcloud.com/tausend20",
+   "ig": "https://www.instagram.com/tausend20"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Speed House",
+   "Garage",
+   "Techno",
+   "Bounce"
+  ],
+  "bio": {
+   "de": "TAUSEND2Ø ist ein Wiener DJ mit Fokus auf energiegeladene Clubmusik: Speed House, Garage, Techno und Bounce.",
+   "en": "TAUSEND2Ø is a Vienna-based DJ focused on high-energy club music: speed house, garage, techno and bounce."
+  },
+  "src": [
+   "https://de.ra.co/dj/tausend2o"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Dimitrios": {
+  "img": "https://static.ra.co/images/profiles/square/dimitrios-2.jpg?dateUpdated=1738749271000",
+  "links": {
+   "ra": "https://ra.co/dj/dimitrios-2",
+   "sc": "https://soundcloud.com/user-36883722",
+   "ig": "https://www.instagram.com/dimi_hellas"
+  },
+  "from": {
+   "de": "Wien (aufgewachsen in Frankfurt)",
+   "en": "Vienna (raised in Frankfurt)"
+  },
+  "bio": {
+   "de": "Dimitrios ist ein in Frankfurt aufgewachsener DJ, der in Wien lebt und hier hauptsächlich spielt.",
+   "en": "Dimitrios is a Frankfurt-raised DJ based in Vienna, where he mostly plays."
+  },
+  "src": [
+   "https://de.ra.co/dj/dimitrios-2"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "RASA": {
+  "img": "https://static.ra.co/images/profiles/square/rasain.jpg?dateUpdated=1757006360623",
+  "links": {
+   "ra": "https://ra.co/dj/rasain",
+   "sc": "https://soundcloud.com/rasa-official",
+   "ig": "https://www.instagram.com/rasa.wav"
+  },
+  "from": {
+   "de": "Punjab, Indien",
+   "en": "Punjab, India"
+  },
+  "genres": [
+   "Dubstep",
+   "Grime",
+   "UK Garage",
+   "Breaks"
+  ],
+  "bio": {
+   "de": "Rasa ist DJ und Toningenieurin aus Punjab, Indien, geprägt von Soundsystem-Kultur. Ihre Sets bauen auf schwerem Bass, verschachtelter Percussion und fließenden Wechseln zwischen Dubstep, Grime, UK Garage, Breaks und Electro; Mixmag nannte sie „Breakthrough DJ of the Year“.",
+   "en": "Rasa is a DJ and engineer from Punjab, India, inspired by soundsystem culture. Her sets build on heavy low end, intricate percussion and seamless shifts across dubstep, grime, UK garage, breaks and electro; Mixmag named her Breakthrough DJ of the Year."
+  },
+  "src": [
+   "https://ra.co/dj/rasain",
+   "https://ra.co/events/2467187"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Stella Sky": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "wedding dj": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Breezl": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Syntha": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "phisch": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "clark": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Disco Duck": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Lucky Shiner": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Manu:letta": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  }
 };
 
