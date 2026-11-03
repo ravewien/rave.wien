@@ -6764,8 +6764,8 @@ const AR={
    "en": "Germany"
   },
   "bio": {
-   "de": "Deutsche DJ, seit 2017 auf RA, die vor allem in Berlin, Wien, Hamburg, München und Lissabon spielt – meist in Ritter Butzke, Renate, Birgit und Kater. Sets u. a. vom Boom Festival 2025 (Alchemy Circle).",
-   "en": "German DJ, listed on RA since 2017, who plays mainly in Berlin, Vienna, Hamburg, Munich and Lisbon, most often at Ritter Butzke, Renate, Birgit and Kater. Recordings include her set at Boom Festival 2025 (Alchemy Circle)."
+   "de": "DJ aus Deutschland, seit 2017 auf RA, mit Auftritten vor allem in Berlin, Wien, Hamburg, München und Lissabon – meist in Ritter Butzke, Renate, Birgit und Kater. Sets u. a. vom Boom Festival 2025 (Alchemy Circle).",
+   "en": "Germany-based DJ, listed on RA since 2017, playing mainly in Berlin, Vienna, Hamburg, Munich and Lisbon, most often at Ritter Butzke, Renate, Birgit and Kater. Recordings include a set at Boom Festival 2025 (Alchemy Circle)."
   },
   "infoChk": "2026-11-03"
  },
@@ -17487,8 +17487,8 @@ const AR={
    "Techno"
   ],
   "bio": {
-   "de": "Wiener Techno-DJ, die über das PUSH – Female DJ Network FLINTA*-DJs in ganz Europa vernetzt. Spielt regelmäßig in der Grelle Forelle (u. a. Fish Market, PUSH), im Das Werk und im Tresor Berlin.",
-   "en": "Vienna-based techno DJ who connects FLINTA* DJs across Europe through PUSH – Female DJ Network. She plays regularly at Grelle Forelle (Fish Market, PUSH), Das Werk and Tresor Berlin."
+   "de": "Techno-DJ aus Wien, aktiv im PUSH – Female DJ Network, das FLINTA*-DJs in ganz Europa vernetzt. Spielt regelmäßig in der Grelle Forelle (u. a. Fish Market, PUSH), im Das Werk und im Tresor Berlin.",
+   "en": "Vienna-based techno DJ active in PUSH – Female DJ Network, which connects FLINTA* DJs across Europe. Plays regularly at Grelle Forelle (Fish Market, PUSH), Das Werk and Tresor Berlin."
   },
   "sets": [
    {
@@ -19340,6 +19340,307 @@ const AR={
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
   "setsChecked": "2026-11-03"
+ },
+ "T-Mission": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "DJ.org": {
+  "img": "https://static.ra.co/images/profiles/square/dj.org.jpg?dateUpdated=1723648661000",
+  "links": {
+   "ig": "https://www.instagram.com/philrirsch",
+   "ra": "https://ra.co/dj/dj.org",
+   "web": "https://www.radiorudina.com"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Österreichischer DJ aus dem Umfeld von Radio Rudina; spielt vor allem in Wien, meist in der Grelle Forelle und im PRST bei den Radio-Rudina-Nächten.",
+   "en": "Austrian DJ from the Radio Rudina circle who plays mostly in Vienna, above all at Grelle Forelle and PRST during Radio Rudina nights."
+  },
+  "src": [
+   "https://ra.co/dj/dj.org"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "COBRA": {
+  "img": "https://static.ra.co/images/profiles/square/cobra-at.jpg?dateUpdated=1766141988000",
+  "links": {
+   "ra": "https://ra.co/dj/cobra-at"
+  },
+  "from": {
+   "de": "Graz, lebt in Wien",
+   "en": "Graz, based in Vienna"
+  },
+  "genres": [
+   "Drum & Bass",
+   "UK Garage",
+   "Dubstep"
+  ],
+  "bio": {
+   "de": "DJ aus Graz mit Sitz in Wien, die seit 2024 statt Techno und Trance vor allem bassbetonte Musik spielt – Drum & Bass, UK Garage und 140/Dubstep. Ihre Sets gelten als energiegeladen und vielseitig; Auftritte in Wien, Salzburg und Graz, u. a. bei Contrast und Radio Rudina.",
+   "en": "DJ from Graz based in Vienna who since 2024 has shifted from techno and trance to bass-heavy music: drum & bass, UK garage and 140/dubstep. Her sets are known as energetic and versatile; she has played Vienna, Salzburg and Graz, including Contrast and Radio Rudina."
+  },
+  "src": [
+   "https://ra.co/dj/cobra-at"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Patrick Pulsinger": {
+  "img": "https://static.ra.co/images/profiles/patrickpulsinger.jpg?dateUpdated=1256896032000",
+  "links": {
+   "sc": "https://soundcloud.com/patrickpulsinger",
+   "ra": "https://ra.co/dj/patrickpulsinger"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Techno",
+   "Electronic"
+  ],
+  "labels": [
+   "Cheap Records"
+  ],
+  "bio": {
+   "de": "Wiener Produzent, DJ und Toningenieur, der Anfang der 90er mit maschinengeprägtem Techno auf analogen Synthesizern bekannt wurde und 1993 das Label Cheap Records mitgründete. Produzierte und remixte u. a. Elektro Guzzi, Hercules and Love Affair, Grace Jones und die Pet Shop Boys, arbeitete mit Fennesz und Roedelius und schreibt Musik für Theater und Film; tritt auch als Duo Pulsinger & Irl auf.",
+   "en": "Viennese producer, DJ and sound engineer who emerged in the early nineties with machine-driven techno on analogue synths and co-founded the label Cheap Records in 1993. He has produced and remixed Elektro Guzzi, Hercules and Love Affair, Grace Jones and the Pet Shop Boys, collaborated with Fennesz and Roedelius, and composes for theatre and film; he also performs as the duo Pulsinger & Irl."
+  },
+  "src": [
+   "https://musikprotokoll.orf.at/en/bio/patrick-pulsinger",
+   "https://ra.co/dj/patrickpulsinger/past-events"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "ESCA": {
+  "img": "https://static.ra.co/images/profiles/square/esca-3.jpg?dateUpdated=1776014496933",
+  "links": {
+   "sc": "https://soundcloud.com/esca_kassel",
+   "ra": "https://ra.co/dj/esca-3"
+  },
+  "from": {
+   "de": "Kassel",
+   "en": "Kassel"
+  },
+  "genres": [
+   "Hard Bounce",
+   "Trance",
+   "Rave Techno"
+  ],
+  "labels": [
+   "Kinky Promise",
+   "240 km/h",
+   "Galactic Harmony"
+  ],
+  "bio": {
+   "de": "Produzent und DJ aus Kassel, der Hard Bounce, Rave Techno und Trance mit Einflüssen aus Old-School-Rap und Hard Dance mischt. Releases auf 240 km/h, Galactic Harmony und seinem 2025 gegründeten Label Kinky Promise; in Wien regelmäßig bei Herzfrequenz im Das Werk.",
+   "en": "Producer and DJ from Kassel who mixes hard bounce, rave techno and trance with influences from old-school rap and hard dance. Releases on 240 km/h, Galactic Harmony and his own label Kinky Promise, founded in 2025; a regular at Herzfrequenz at Das Werk in Vienna."
+  },
+  "src": [
+   "https://ra.co/dj/esca-3/biography",
+   "https://soundcloud.com/esca_kassel"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Toni Stark": {
+  "img": "https://static.ra.co/images/profiles/square/tonistark.jpg?dateUpdated=1743519256000",
+  "links": {
+   "sc": "https://soundcloud.com/tonidiggin4culture",
+   "ra": "https://ra.co/dj/tonistark"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "House"
+  ],
+  "bio": {
+   "de": "House-DJ aus Wien und selbsternannter „House Music Enthusiast“. Spielt vor allem im SASS Music Club (u. a. Cardio Cult, Connections), im Club U und im Kramladen.",
+   "en": "Vienna-based house DJ and self-described “house music enthusiast”. He plays mostly at SASS Music Club (Cardio Cult, Connections), Club U and Kramladen."
+  },
+  "src": [
+   "https://de.ra.co/dj/tonistark"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Rødhåd": {
+  "img": "https://static.ra.co/images/profiles/square/rodhad.jpg?dateUpdated=1627396803000",
+  "links": {
+   "sc": "https://soundcloud.com/rodhad",
+   "ra": "https://ra.co/dj/rodhad"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Dystopian",
+   "WSNWG"
+  ],
+  "bio": {
+   "de": "Berliner Techno-DJ und Produzent, der aus der Off-Grid-Partyszene kam und 2006 seine erste Residency im Zementgarten hatte. Seit fast zwanzig Jahren steht er für tiefen, kraftvollen und melancholischen Techno zwischen Dub und House; Gründer von Dystopian (2009) und heute des Labels WSNWG. Alben „Anxious“ (2017) und „In Vere“ (2022), Live-Jams u. a. im Berghain und beim Dekmantel.",
+   "en": "Berlin techno DJ and producer who came out of the city’s off-grid party scene and held his first residency at Zementgarten in 2006. For almost twenty years he has stood for deep, powerful, melancholic techno ranging from dub to house; founder of Dystopian (2009) and now the label WSNWG. Albums “Anxious” (2017) and “In Vere” (2022), with live jams curated at Berghain and Dekmantel."
+  },
+  "sets": [
+   {
+    "t": "Rødhåd – BBC Radio 1 Essential Mix",
+    "u": "https://soundcloud.com/rodhad/radio-one-essential-mix-rodhad"
+   },
+   {
+    "t": "D-Node 169: Rødhåd",
+    "u": "https://soundcloud.com/rodhad/d-node-169-rodhad"
+   }
+  ],
+  "src": [
+   "https://es-mx.ra.co/dj/rodhad/biography",
+   "https://soundcloud.com/rodhad"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "ØTTA": {
+  "img": "https://static.ra.co/images/profiles/square/otta.jpg?dateUpdated=1776699907000",
+  "links": {
+   "sc": "https://soundcloud.com/ottaottie",
+   "ra": "https://ra.co/dj/otta"
+  },
+  "from": {
+   "de": "Portugal",
+   "en": "Portugal"
+  },
+  "genres": [
+   "Trance",
+   "Groove",
+   "Psytrance"
+  ],
+  "bio": {
+   "de": "Portugiesische DJ und Produzentin, die Trance und Groove verbindet – Old-School-Psytrance trifft brasilianische Rhythmen und leichte UK-Garage-Einflüsse. Von der „Plus One EP“ bis „Candy22“ gewachsen, gelang ihr mit einem Boiler-Room-Set der Durchbruch; in Wien regelmäßig bei Purradox in der Grelle Forelle.",
+   "en": "Portuguese DJ and producer blending trance and groove: old-school psytrance meets Brazilian rhythms and light UK garage influences. Growing from the “Plus One EP” to “Candy22”, she broke through with a Boiler Room set; a regular at Purradox at Vienna’s Grelle Forelle."
+  },
+  "sets": [
+   {
+    "t": "Glitch Podcast 054 / ØTTA",
+    "u": "https://soundcloud.com/glitchfestival/podcast-054"
+   },
+   {
+    "t": "ØTTA @ Teletech Festival 2022",
+    "u": "https://soundcloud.com/platform/otta-teletech-festival-2022"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/otta/biography",
+   "https://soundcloud.com/ottaottie"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Felicie": {
+  "img": "https://static.ra.co/images/profiles/square/felicie.jpg?dateUpdated=1748898952070",
+  "links": {
+   "sc": "https://soundcloud.com/feliciemusic",
+   "ra": "https://ra.co/dj/felicie"
+  },
+  "from": {
+   "de": "Frankreich, lebt in Amsterdam",
+   "en": "France, based in Amsterdam"
+  },
+  "genres": [
+   "Techno",
+   "Hardgroove"
+  ],
+  "labels": [
+   "Soma Records",
+   "Exhale",
+   "Mord",
+   "Clergy"
+  ],
+  "bio": {
+   "de": "Französische Techno-DJ und Produzentin mit Sitz in Amsterdam, deren Stil von schnellen Grooves bis zu hohem Tempo reicht. Ihr Projekt „Fastgroove Klub“ wurde zur eigenen Eventreihe (Start im Rex Club); Releases auf Soma, Exhale, Mord und Clergy, Auftritte bei Boiler Room, im Tresor und im Lehmann Club.",
+   "en": "French techno DJ and producer based in Amsterdam whose style ranges from fast grooves to high-tempo sounds. Her project “Fastgroove Klub” grew into its own event series (launched at Rex Club); releases on Soma, Exhale, Mord and Clergy, with sets at Boiler Room, Tresor and Lehmann Club."
+  },
+  "sets": [
+   {
+    "t": "Felicie @ Synoid, Griessmuehle",
+    "u": "https://soundcloud.com/feliciemusic/felicie-synoid-griessmuehle"
+   }
+  ],
+  "src": [
+   "https://fr.ra.co/dj/felicie/biography",
+   "https://soundcloud.com/feliciemusic"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Future.666": {
+  "img": "https://static.ra.co/images/profiles/square/future666.jpg?dateUpdated=1738754201000",
+  "links": {
+   "sc": "https://soundcloud.com/future_666",
+   "ra": "https://ra.co/dj/future666"
+  },
+  "genres": [
+   "Techno",
+   "Groove"
+  ],
+  "labels": [
+   "BCCO"
+  ],
+  "bio": {
+   "de": "Techno-DJ aus dem BCCO-Umfeld, seit über zehn Jahren aktiv und bekannt für schnelle, groovige Sets und lange Tanzsessions. Mixt oft mit drei bis vier CDJs gleichzeitig und spielt viele unveröffentlichte Tracks befreundeter Underground-Produzent:innen; kuratierte die BCCO-Compilation BCCOVA18.",
+   "en": "Techno DJ from the BCCO circle, active for over ten years and known for fast, groovy sets and long dance sessions. He often mixes with three to four CDJs at once and plays many unreleased tracks from underground producer friends; he curated the BCCO compilation BCCOVA18."
+  },
+  "sets": [
+   {
+    "t": "BCCO Mix Series 013: future.666",
+    "u": "https://soundcloud.com/bcco/bcco-podcast-013-future666"
+   },
+   {
+    "t": "klangkuenstler b2b future.666 @ BCCO Tower, Berlin",
+    "u": "https://soundcloud.com/klangkuenstler/klangkuenstler-b2b-future666-bcco-tower-berlin"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/future666/biography",
+   "https://soundcloud.com/future_666"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Calyx": {
+  "img": "https://static.ra.co/images/profiles/calyx.jpg?dateUpdated=1332422983000",
+  "links": {
+   "sc": "https://soundcloud.com/calyx",
+   "ra": "https://ra.co/dj/calyx"
+  },
+  "real": "Larry Cons",
+  "from": {
+   "de": "Südlondon",
+   "en": "South London"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "RAM Records",
+   "Metalheadz",
+   "Symmetry",
+   "Renegade Hardware"
+  ],
+  "bio": {
+   "de": "Drum-&-Bass-Produzent und DJ aus Südlondon, der seit Ende der 1990er auf Labels wie RAM, Metalheadz, Renegade Hardware und Symmetry veröffentlicht. Bekannt auch als Teil des Duos Calyx & Teebee; spielt u. a. in fabric, Motion Bristol und XOYO.",
+   "en": "Drum & bass producer and DJ from South London who has released on labels such as RAM, Metalheadz, Renegade Hardware and Symmetry since the late nineties. Also known as one half of Calyx & Teebee; he plays fabric, Motion Bristol and XOYO among others."
+  },
+  "src": [
+   "https://ra.co/dj/calyx"
+  ],
+  "infoChk": "2026-11-03"
  }
 };
 
