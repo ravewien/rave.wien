@@ -24484,6 +24484,216 @@ const AR={
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03"
+ },
+ "Beyond The Beat": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "P:y:g": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "ausgefinkelt": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Gridlock": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "DJ Lucy Bakanal": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Sa4a": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Mika": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "BaZx": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Madame Lea": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Virago": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "venusasaboy": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Gabi": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Lobster": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "_ \\ • / _eon": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "cri": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Lucia Lu": {
+  "img": "https://static.ra.co/images/profiles/square/lucialu.jpg?dateUpdated=1768163270817",
+  "links": {
+   "ra": "https://ra.co/dj/lucialu",
+   "sc": "https://soundcloud.com/iamlucialu"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Lucia Lu startete 2021 ihre Solokarriere mit genreoffenen DJ-Sets zwischen House und Techno, geprägt von Einflüssen der afrikanischen Diaspora und der deutschen Clubkultur. Seit 2025 widmet sie sich ganz dem Techno – inspiriert von den Detroiter Pionieren, mit fokussierten, hypnotischen Sets.",
+   "en": "Lucia Lu started her solo career in 2021 with genre-fluid DJ sets across house and techno, drawing on African diaspora and German club influences. Since 2025 she has fully committed to techno, inspired by Detroit's pioneers, playing focused, hypnotic sets."
+  },
+  "src": [
+   "https://ra.co/dj/lucialu/biography"
+  ],
+  "sets": [
+   {
+    "t": "Hard Dance 195: Lúcia Lu (Boiler Room)",
+    "u": "https://soundcloud.com/platform/hard-dance-195-lucia-lu"
+   },
+   {
+    "t": "ODYSSEY036: Lúcia Lu",
+    "u": "https://soundcloud.com/transition_ofc/odyssey036"
+   },
+   {
+    "t": "Lucia Lu @ Hör Berlin 1.12.21",
+    "u": "https://soundcloud.com/iamlucialu/lucia-lu-hor-berlin-11221"
+   }
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Menessy": {
+  "img": "https://static.ra.co/images/profiles/square/menessy.jpg?dateUpdated=1783349988000",
+  "links": {
+   "ra": "https://ra.co/dj/menessy",
+   "sc": "https://soundcloud.com/menssooo",
+   "ig": "https://www.instagram.com/menessy"
+  },
+  "from": {
+   "de": "Ägypten / Österreich",
+   "en": "Egypt / Austria"
+  },
+  "genres": [
+   "Techno",
+   "Bass"
+  ],
+  "bio": {
+   "de": "Menessy ist ein in Ägypten geborener, in Österreich lebender DJ, der sich als Selector, Kurator und Genre-Bender zwischen Techno und Bass beschreibt. Er spielt u. a. bei der Reihe BUNKER BA$$ und bei CIVIC im FLUCC.",
+   "en": "Menessy is an Egyptian-born DJ based in Austria who describes himself as a selector, curator and genre bender between techno and bass. He plays at events such as BUNKER BA$$ and CIVIC at FLUCC."
+  },
+  "src": [
+   "https://ra.co/dj/menessy"
+  ],
+  "sets": [
+   {
+    "t": "DEADCAST0055 x MENESSY",
+    "u": "https://soundcloud.com/dead-end1/menessy"
+   }
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Braindaamage": {
+  "img": "https://static.ra.co/images/profiles/square/braindaamage.jpg?dateUpdated=1676649482000",
+  "links": {
+   "ra": "https://ra.co/dj/braindaamage",
+   "sc": "https://soundcloud.com/braindaaaamage"
+  },
+  "from": {
+   "de": "Zentralschweiz",
+   "en": "Central Switzerland"
+  },
+  "genres": [
+   "Hard Techno",
+   "Tekk"
+  ],
+  "bio": {
+   "de": "BRAINDAAMAGE ist ein autodidaktischer Produzent aus der Zentralschweiz, dessen Musik von Tekkno, Hard Techno und Jumpstyle inspiriert ist. Ästhetisch orientiert er sich u. a. an Yabujin und Suicideboys.",
+   "en": "BRAINDAAMAGE is a self-taught producer from central Switzerland whose music draws on tekkno, hard techno and jumpstyle. His style and aesthetics are inspired by Yabujin and Suicideboys, among others."
+  },
+  "src": [
+   "https://ra.co/dj/braindaamage/biography"
+  ],
+  "sets": [
+   {
+    "t": "BRAINDAAMAGE – Let Him Cook",
+    "u": "https://soundcloud.com/lethimcookradio/braindaamage-let-him-cook"
+   }
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Kate la Boom": {
+  "links": {
+   "sc": "https://soundcloud.com/kate_la_boom"
+  },
+  "src": [
+   "https://soundcloud.com/kate_la_boom"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
+ },
+ "Zombieflesheater": {
+  "links": {
+   "bc": "https://zombieflesheater.bandcamp.com"
+  },
+  "genres": [
+   "Grindcore",
+   "Breakcore"
+  ],
+  "src": [
+   "https://zombieflesheater.bandcamp.com"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
+ },
+ "assimilatah": {
+  "links": {
+   "sc": "https://soundcloud.com/assimilatah2"
+  },
+  "src": [
+   "https://soundcloud.com/assimilatah2"
+  ],
+  "sets": [
+   {
+    "t": "Assimilatah live @ KOR 05 // EKH",
+    "u": "https://soundcloud.com/assimilatah2/assimilatah-live-kor-05-ekh-2010"
+   }
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "setsChecked": "2026-11-03"
  }
 };
 
