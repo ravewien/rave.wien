@@ -7233,8 +7233,8 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Adam19": {
-  "noLinks": "2026-11-02",
-  "noImg": "2026-11-02",
+  "noLinks": "2026-11-03",
+  "noImg": "2026-11-03",
   "infoChk": "2026-11-03",
   "bio": {
    "de": "Adam19 ist ein DJ-Act aus dem Wiener Umfeld von FIFI Rave, der u. a. bei FIFI RAVE im Werk spielte. Im Club Lucia steht Adam19 bei „Köstlich x Gürtelgroove“ auf dem Lineup, einer Nacht mit UK Garage, Hardgroove und Techno.",
@@ -7732,7 +7732,7 @@ const AR={
   "noLinks": "2026-10-31"
  },
  "Hello Kiffy": {
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/user-zlmss"
   },
@@ -7820,8 +7820,8 @@ const AR={
   ]
  },
  "Apocalypz": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "infoChk": "2026-11-03",
   "bio": {
    "de": "Apocalypz ist ein DJ-Act aus der Rave-Szene, der u. a. beim Halloween Rave im FLUCC und bei RAVE ON XXL 4.0 im Club Exil auf dem Lineup steht.",
@@ -7857,8 +7857,8 @@ const AR={
   ]
  },
  "Veneno": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "infoChk": "2026-11-03",
   "bio": {
    "de": "Veneno ist ein DJ-Act aus der Rave-Szene, der u. a. beim Halloween Rave im FLUCC und bei RAVE ON XXL 4.0 im Club Exil auf dem Lineup steht.",
@@ -7927,9 +7927,9 @@ const AR={
   "noLinks": "2026-10-31"
  },
  "Sinis": {
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "infoChk": "2026-11-03",
-  "noLinks": "2026-11-02",
+  "noLinks": "2026-11-03",
   "bio": {
    "de": "Sinis ist ein Drum-&-Bass-DJ-Act, der in Wien bei der Reihe The Hive im Flex spielt b2b mit Mayez, u. a. beim Halloween-Special „The Hive x Collapse – Face Off“.",
    "en": "Sinis is a drum & bass DJ act who plays the The Hive series at Flex in Vienna b2b with Mayez, including the Halloween special 'The Hive x Collapse – Face Off'."
@@ -7939,9 +7939,9 @@ const AR={
   ]
  },
  "Mayez": {
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "infoChk": "2026-11-03",
-  "noLinks": "2026-11-02",
+  "noLinks": "2026-11-03",
   "bio": {
    "de": "Mayez ist ein Drum-&-Bass-DJ-Act, der in Wien bei der Reihe The Hive im Flex spielt b2b mit Sinis, u. a. beim Halloween-Special „The Hive x Collapse – Face Off“.",
    "en": "Mayez is a drum & bass DJ act who plays the The Hive series at Flex in Vienna b2b with Sinis, including the Halloween special 'The Hive x Collapse – Face Off'."
@@ -9654,8 +9654,8 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "MATIVIO": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "infoChk": "2026-11-03",
   "bio": {
    "de": "MATIVIO ist ein DJ-Act aus der Hard-Dance- und Techno-Szene. Auftritte u. a. bei der GDN Klubnacht im Werk und bei RAVE ON XXL 4.0 im Club Exil.",
@@ -9907,7 +9907,7 @@ const AR={
   }
  },
  "AudioDevice": {
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/audiodevice",
    "mc": "https://www.mixcloud.com/AudioDevice/"
@@ -9929,7 +9929,7 @@ const AR={
    "https://soundcloud.com/audiodevice/audiodevice-at-contrast-grelle-forelle-2472021",
    "https://soundcloud.com/audiodevice/contrast-radio-show"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "sets": [
    {
     "t": "CONTRAST RADIO SHOW AudioDevice MAR 21 2025",
@@ -10105,8 +10105,8 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Valera": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "src": [
    "https://ra.co/dj/valera-de"
   ],
@@ -10831,8 +10831,8 @@ const AR={
    "https://www.mixcloud.com/ulfersson_dkm/subscribe/",
    "https://sassvienna.com/en/events/event/morgengymnastik-172"
   ],
-  "noImg": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
   "from": {
    "de": "Wien",
    "en": "Vienna"
@@ -12500,8 +12500,8 @@ const AR={
  },
  "Hamelin": {
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "bio": {
    "de": "Hamelin ist ein Psytrance-DJ-Act auf dem Lineup von „Tribal Vibes meets Exil“, der Old-School-Psytrance-Nacht der Reihe Tribal Vibes im Club Exil.",
    "en": "Hamelin is a psytrance DJ act on the line-up of 'Tribal Vibes meets Exil', the old-school psytrance night of the Tribal Vibes series at Club Exil."
@@ -12669,8 +12669,8 @@ const AR={
    "https://soundcloud.com/egorythmia/egorythmia-ozora-festival-2026",
    "https://soundcloud.com/egorythmia/egorythmia-live-boom-2012"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
  },
  "Eric Prydz": {
   "img": "https://static.ra.co/images/profiles/ericprydz.jpg?dateUpdated=1605876513000",
@@ -12878,8 +12878,8 @@ const AR={
  },
  "Fliize": {
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "bio": {
    "de": "Fliize ist ein House-DJ-Act auf dem Lineup des HOUSETIERE × VG+ Weekenders im Tagada.",
    "en": "Fliize is a house DJ act on the line-up of the HOUSETIERE × VG+ Weekender at Tagada."
@@ -12890,7 +12890,7 @@ const AR={
  },
  "Entheon": {
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "noLinks": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/entheon"
@@ -13315,9 +13315,9 @@ const AR={
   ]
  },
  "SIS": {
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-03"
  },
  "Sonya Hibiscus": {
   "links": {
@@ -13611,8 +13611,8 @@ const AR={
    "https://www.beatport.com/artist/boom-shankar/381159",
    "https://festapp.io/es/artists/boom-shankar"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
  },
  "AVO2X": {
   "img": "https://static.ra.co/images/profiles/square/avo2x.jpg?dateUpdated=1678964293000",
@@ -13703,7 +13703,7 @@ const AR={
    "https://soundcloud.com/adhs_lene"
   ],
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "bio": {
    "de": "ADHS Lene ist eine DJ, die in Wien u. a. bei Sniffin´ Glue im FLUCC und bei Invitation im Celeste auflegt. 2020 war sie Gast der Sendung Welia auf Retreat Radio.",
    "en": "ADHS Lene is a DJ who plays in Vienna at Sniffin´ Glue at FLUCC and Invitation at Celeste, among others. In 2020 she was a guest on the show Welia on Retreat Radio."
@@ -13811,8 +13811,8 @@ const AR={
  },
  "Benjay": {
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "bio": {
    "de": "Benjay ist ein DJ-Act auf dem Lineup von AWSM. Skyscraper Edition in der Altia Skybar im DC Tower, einer Nacht mit House, Afro House und Melodic House.",
    "en": "Benjay is a DJ act on the line-up of AWSM. Skyscraper Edition at Altia Skybar in DC Tower, a night of house, Afro house and melodic house."
@@ -13963,8 +13963,8 @@ const AR={
  },
  "Breeze": {
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "bio": {
    "de": "Breeze ist ein Drum-&-Bass-DJ-Act, der bei der Wiener Reihe Switch! im Flex auf dem Lineup steht, u. a. bei der Tour-Station von Primate.",
    "en": "Breeze is a drum & bass DJ act on the line-up of the Vienna series Switch! at Flex, including Primate's tour stop."
@@ -14099,8 +14099,8 @@ const AR={
    "https://de.ra.co/events/2144473"
   ],
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "bio": {
    "de": "Anna Soto ist eine DJ, die in Wien u. a. bei Cardio Cult im SASS (gemeinsam mit Andi Britz) und bei Das Syndikat im Celeste spielt. Bei Radio Rudina ist ihr Mix „Soundbüglerei“ erschienen.",
    "en": "Anna Soto is a DJ who plays in Vienna at Cardio Cult at SASS (alongside Andi Britz) and Das Syndikat at Celeste, among others. Her mix 'Soundbüglerei' has been released on Radio Rudina."
@@ -14466,9 +14466,9 @@ const AR={
   "src": [
    "https://www.theloft.at/glitch-vienna-pres-stef-davidse/"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Lucy Bakanal": {
   "infoChk": "2026-11-03",
@@ -14563,8 +14563,8 @@ const AR={
  },
  "L3nny": {
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "bio": {
    "de": "L3nny ist ein Drum-&-Bass-DJ-Act, der bei der Wiener Reihe Switch! im Flex auf dem Lineup steht, u. a. bei der Tour-Station von Primate.",
    "en": "L3nny is a drum & bass DJ act on the line-up of the Vienna series Switch! at Flex, including Primate's tour stop."
@@ -14575,7 +14575,7 @@ const AR={
  },
  "Lilosh": {
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "noLinks": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/liloshh"
@@ -14606,8 +14606,8 @@ const AR={
  },
  "Krueger": {
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "bio": {
    "de": "Krueger ist ein House-DJ-Act auf dem Lineup des HOUSETIERE × VG+ Weekenders im Tagada.",
    "en": "Krueger is a house DJ act on the line-up of the HOUSETIERE × VG+ Weekender at Tagada."
@@ -14618,8 +14618,8 @@ const AR={
  },
  "Karam": {
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "bio": {
    "de": "Karam ist ein Psytrance-DJ-Act auf dem Lineup von „Tribal Vibes meets Exil“, der Old-School-Psytrance-Nacht der Reihe Tribal Vibes im Club Exil.",
    "en": "Karam is a psytrance DJ act on the line-up of 'Tribal Vibes meets Exil', the old-school psytrance night of the Tribal Vibes series at Club Exil."
@@ -14630,8 +14630,8 @@ const AR={
  },
  "Kayara": {
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "bio": {
    "de": "Kayara ist ein Psytrance-DJ-Act auf dem Lineup von „Tribal Vibes meets Exil“, der Old-School-Psytrance-Nacht der Reihe Tribal Vibes im Club Exil.",
    "en": "Kayara is a psytrance DJ act on the line-up of 'Tribal Vibes meets Exil', the old-school psytrance night of the Tribal Vibes series at Club Exil."
@@ -14642,8 +14642,8 @@ const AR={
  },
  "KWEEN BEE": {
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "bio": {
    "de": "KWEEN BEE ist ein DJ-Act, der laut Ankündigung der Reihe TAKTGEFÜHL schnellen Techno mit funkigen Elementen spielt. In Wien steht KWEEN BEE bei TAKTGEFÜHL Vol. 2 im Club Lucia auf dem Lineup.",
    "en": "KWEEN BEE is a DJ act who, according to the TAKTGEFÜHL series, plays fast techno with funky elements. In Vienna, KWEEN BEE is on the line-up of TAKTGEFÜHL Vol. 2 at Club Lucia."
@@ -14657,8 +14657,8 @@ const AR={
  },
  "L.O.S.S.": {
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "bio": {
    "de": "L.O.S.S. ist ein DJ-Act, der laut Ankündigung der Reihe TAKTGEFÜHL mit einer Sammlung alter Trance-CDs auflegt. In Wien steht L.O.S.S. bei TAKTGEFÜHL Vol. 2 im Club Lucia auf dem Lineup.",
    "en": "L.O.S.S. is a DJ act who, according to the TAKTGEFÜHL series, plays from a collection of old trance CDs. In Vienna, L.O.S.S. is on the line-up of TAKTGEFÜHL Vol. 2 at Club Lucia."
@@ -15038,7 +15038,7 @@ const AR={
  },
  "Disorder": {
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "noLinks": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/disordervienna"
@@ -15138,7 +15138,7 @@ const AR={
  },
  "Caban": {
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "noLinks": "2026-11-02",
   "links": {
    "mc": "https://www.mixcloud.com/DJ_CABAN/",
@@ -15506,8 +15506,8 @@ const AR={
  },
  "Nasty": {
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "bio": {
    "de": "Nasty ist ein Techno-DJ-Act, der in Wien u. a. bei TATTU TATTA GLUB in der Grelle Forelle spielte und bei der Reihe Teknoteka im Kramladen auflegt.",
    "en": "Nasty is a techno DJ act who has played TATTU TATTA GLUB at Grelle Forelle in Vienna and plays the Teknoteka series at Kramladen, among others."
@@ -15782,8 +15782,8 @@ const AR={
    "https://www.c-heads.com/2025/09/26/behind-the-beats-primate-on-live-energy-growth-and-the-story-of-about-us/"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
  },
  "Replic": {
   "img": "https://static.ra.co/images/profiles/replic.jpg?dateUpdated=1321611783000",
@@ -15803,7 +15803,7 @@ const AR={
    "https://ra.co/dj/replic"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "PJPJPJ": {
   "img": "https://static.ra.co/images/profiles/square/pjpjpj.jpg?dateUpdated=1727797306000",
@@ -16468,8 +16468,8 @@ const AR={
    "https://ra.co/events/2163396",
    "https://www.facebook.com/tunderke3"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
  },
  "Urklang": {
   "img": "https://f4.bcbits.com/img/0030506317_10.jpg",
@@ -16534,9 +16534,9 @@ const AR={
   "src": [
    "https://goout.net/banabass-l-plus-and-jimmy-danger%2Bdalsi/szetnqx/"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "Martin Oelz": {
   "bio": {
@@ -16662,7 +16662,7 @@ const AR={
    "https://soundcloud.com/many23"
   ],
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02"
+  "noImg": "2026-11-03"
  },
  "Marc Græbnør": {
   "img": "https://static.ra.co/images/profiles/square/marcgr%C3%A6bnor.jpg?dateUpdated=1758710400000",
@@ -16792,8 +16792,8 @@ const AR={
  },
  "Mr. Highfi": {
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
   "bio": {
    "de": "Mr. Highfi ist ein Drum-&-Bass-DJ-Act, der bei der Wiener Reihe Switch! im Flex auf dem Lineup steht, u. a. bei der Tour-Station von Primate.",
    "en": "Mr. Highfi is a drum & bass DJ act on the line-up of the Vienna series Switch! at Flex, including Primate's tour stop."
@@ -16804,7 +16804,7 @@ const AR={
  },
  "MESROD": {
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-02",
+  "noImg": "2026-11-03",
   "noLinks": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/mesrodetavner"
