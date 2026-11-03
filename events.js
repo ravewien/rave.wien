@@ -8314,17 +8314,18 @@ const AR={
  },
  "Scheibosan": {
   "noImg": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "links": {
-   "sc": "https://soundcloud.com/scheibosan"
+   "sc": "https://soundcloud.com/scheibosan",
+   "web": "https://www.scheibosan.at"
   },
   "bio": {
    "de": "Scheibosan ist ein österreichischer DJ, der seit 1981 auflegt. Bekannt wurde er u. a. durch die Compilation-Reihe „Black Coffee“ auf Ecco Chamber, die Dub, R&B, Funk, Soul, Acid Jazz, Breakbeats und Electro verbindet; gemeinsam mit Shanti Roots produziert er Remixe. Seine Mixe dokumentieren u. a. Sets im Funkhaus Wien und beim Gomde Sommerfest.",
    "en": "Scheibosan is an Austrian DJ who has been spinning since 1981. He is known among other things for the 'Black Coffee' compilation series on Ecco Chamber, blending dub, R&B, funk, soul, acid jazz, breakbeats and electro, and produces remixes together with Shanti Roots. His mixes document sets at Funkhaus Wien and the Gomde Sommerfest, among others."
   },
   "from": {
-   "de": "Österreich",
-   "en": "Austria"
+   "de": "Wien",
+   "en": "Vienna"
   },
   "labels": [
    "Ecco Chamber"
@@ -8341,9 +8342,11 @@ const AR={
   ],
   "src": [
    "https://soundcloud.com/scheibosan",
-   "https://www.last.fm/music/Shanti+Roots+&amp;+Scheibosan/+wiki"
+   "https://www.last.fm/music/Shanti+Roots+&amp;+Scheibosan/+wiki",
+   "https://bandcamp.com/Scheibosan"
   ],
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "img": "https://f4.bcbits.com/img/0008268725_41.jpg"
  },
  "C12": {
   "noImg": "2026-10-31",
@@ -12284,9 +12287,41 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "Entheon": {
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "noLinks": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/entheon"
+  },
+  "bio": {
+   "de": "Entheon ist ein Psytrance-DJ aus dem Umfeld von Hunab Ku Records, für das er u. a. die Compilation „Eudaimaniacs“ zusammengestellt hat. Er spielte auf der Main Stage des Cosmic Convergence Festival in Guatemala (Silvester 2019/20) und beim Sunrice Festival 2022 b2b mit Fischmehl.",
+   "en": "Entheon is a psytrance DJ from the Hunab Ku Records circle, for which he compiled the Eudaimaniacs compilation, among others. He played the main stage of Cosmic Convergence Festival in Guatemala (New Year 2019/20) and Sunrice Festival 2022 b2b with Fischmehl."
+  },
+  "genres": [
+   "Psytrance"
+  ],
+  "labels": [
+   "Hunab Ku Records"
+  ],
+  "sets": [
+   {
+    "t": "Cosmic Convergence Festival 2019 - 2020 (Main Stage) New Years Session @Guatemala",
+    "u": "https://soundcloud.com/entheon/cosmic-convergence-festival-2019-2020"
+   },
+   {
+    "t": "Fischmehl B2B Entheon - Sunrice Festival 2022",
+    "u": "https://soundcloud.com/fischmehl/sunrice2022"
+   },
+   {
+    "t": "Ibidelyc & Friends 22 - Entheon (Hunab Ku Records)",
+    "u": "https://soundcloud.com/ibidelyc/ibidelyc-friends-22-entheon-dj-hunab-ku-records"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/entheon",
+   "https://soundcloud.com/hunabkurecordings/jumpstreet-art-materials-street-art-eudaimaniacs-va-compiled-by-entheon"
+  ]
  },
  "HÄNSCH": {
   "infoChk": "2026-11-03",
@@ -12646,7 +12681,29 @@ const AR={
  "Splinta": {
   "noImg": "2026-11-02",
   "noLinks": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "img": "https://www.frequency.at/wp-content/uploads/sites/2/splinta-roster.jpeg",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "links": {
+   "web": "https://www.frequency.at/artist/splinta/"
+  },
+  "bio": {
+   "de": "Splinta ist ein Wiener Drum-&-Bass-DJ und Veranstalter, der seit 2002 auflegt; zur elektronischen Musik kam er 1999 über das Flex. Er gründete 2002 Static Echo mit der Reihe Fluid Drum & Bass, veranstaltete 2003–2014 mit Zubcore die Therapy Sessions Austria in der Arena und ist seit 2015 Teil von Switch!; außerdem ist er Resident bei City Warriors Vienna. Er spielt Deep, Liquid, Jump-Up und Neurofunk ebenso wie Klassiker der späten 1990er bis 2010.",
+   "en": "Splinta is a Vienna drum & bass DJ and promoter who has been DJing since 2002; he discovered electronic music at Flex in 1999. In 2002 he founded Static Echo with the Fluid Drum & Bass series, ran Therapy Sessions Austria at Arena with Zubcore from 2003 to 2014, and has been part of Switch! since 2015; he is also a resident at City Warriors Vienna. He plays deep, liquid, jump-up and neurofunk as well as classics from the late 1990s to 2010."
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Switch! Recordings"
+  ],
+  "src": [
+   "https://www.frequency.at/artist/splinta/",
+   "https://www.songkick.com/de/concerts/21629663-splinta-aut-at-einbaumobel"
+  ]
  },
  "SIS": {
   "noImg": "2026-11-02",
@@ -13450,9 +13507,41 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Braincell": {
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "noLinks": "2026-11-02",
+  "img": "https://i.discogs.com/RyqnN-kaa3aGRhldjgkL17eFoizVQaCl_JtDiv5Y738/rs:fit/g:sm/q:90/h:460/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4MTMx/My0xNTM2MDc3OTEz/LTcwODEuanBlZw.jpeg",
+  "from": {
+   "de": "Muri, Schweiz",
+   "en": "Muri, Switzerland"
+  },
+  "links": {
+   "sc": "https://soundcloud.com/brainalien",
+   "bc": "https://braincell-nano.bandcamp.com",
+   "web": "https://www.brainalien.info/"
+  },
+  "bio": {
+   "de": "Braincell ist das Psytrance-Projekt von Ralph Knobloch Freund aus Muri in der Schweiz, gestartet 2003. Er hat sechs Alben und rund 50 Compilation-Beiträge veröffentlicht und ist auch als Solar Spectrum und Unknown Reality aktiv. 2016 schloss er die Main Stage des Ozora Festivals; er spielte u. a. in den USA, Brasilien, Australien, Indien und Thailand.",
+   "en": "Braincell is the psytrance project of Ralph Knobloch Freund from Muri, Switzerland, started in 2003. He has released six albums and around 50 compilation tracks and is also active as Solar Spectrum and Unknown Reality. In 2016 he closed the main stage at Ozora Festival; he has played in the USA, Brazil, Australia, India and Thailand, among others."
+  },
+  "genres": [
+   "Psytrance"
+  ],
+  "alias": [
+   "Solar Spectrum",
+   "Unknown Reality"
+  ],
+  "sets": [
+   {
+    "t": "BRAINCELL - Live @ O.Z.O.R.A. Festival 2016 Main Stage",
+    "u": "https://soundcloud.com/ozora-festival/braincellliveo16"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://www.discogs.com/artist/381313-Braincell-3",
+   "https://psylofashion.com/blogs/blog/ralph-k-freund-aka-braincell-exclusive-interview"
+  ]
  },
  "Bornvoyage": {
   "infoChk": "2026-11-03",
@@ -14244,14 +14333,74 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Disorder": {
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "noLinks": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/disordervienna"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Disorder ist ein Drum-&-Bass-DJ aus Wien, der u. a. im Werk und bei der Reihe Switch! im Flex auflegt.",
+   "en": "Disorder is a drum & bass DJ from Vienna who has played Das Werk and the Switch! series at Flex, among others."
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "sets": [
+   {
+    "t": "Disorder @ das Werk Vienna || 1.12.18",
+    "u": "https://soundcloud.com/poto001/disorder-das-werk-vienna-11218"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/disordervienna",
+   "https://soundcloud.com/poto001/disorder-das-werk-vienna-11218"
+  ]
  },
  "DJ Karotte": {
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "noLinks": "2026-11-02",
+  "img": "https://static.ra.co/images/profiles/karotte.jpg?dateUpdated=1754428629000",
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "links": {
+   "ra": "https://ra.co/dj/karotte",
+   "sc": "https://soundcloud.com/familyaffairs",
+   "web": "https://www.djkarotte.de"
+  },
+  "bio": {
+   "de": "Karotte gilt als deutsche Techno-Legende und spielt House und Techno, u. a. bei Time Warp. Releases erschienen auf Labels wie Polar Noise, Break New Soil, People Going Crazy und KD RAW. Mit „Karotte im Zimmer“ betreibt er eine eigene Reihe in Mannheim; in Wien spielte er u. a. bei Zuckerwatt in der Grelle Forelle.",
+   "en": "Karotte is regarded as a German techno legend, playing house and techno, including at Time Warp. He has released on labels such as Polar Noise, Break New Soil, People Going Crazy and KD RAW. He runs his own series 'Karotte im Zimmer' in Mannheim; in Vienna he has played Zuckerwatt at Grelle Forelle, among others."
+  },
+  "genres": [
+   "Techno",
+   "House",
+   "Tech House"
+  ],
+  "labels": [
+   "Polar Noise",
+   "Break New Soil",
+   "People Going Crazy",
+   "KD RAW"
+  ],
+  "alias": [
+   "Karotte"
+  ],
+  "src": [
+   "https://de.ra.co/dj/karotte",
+   "https://ra.co/events/1604743",
+   "https://www.time-warp.de/artists/karotte/",
+   "https://www.vol.at/die-deutsche-techno-legende-karotte-legt-zum-ersten-mal-in-brand-auf/9277010",
+   "https://warda.at/?p=71350"
+  ]
  },
  "Crazy Sonic": {
   "img": "https://static.ra.co/images/profiles/crazysonic.jpg?dateUpdated=1305481560000",
@@ -14284,9 +14433,47 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Caban": {
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "noLinks": "2026-11-02",
+  "links": {
+   "mc": "https://www.mixcloud.com/DJ_CABAN/",
+   "sc": "https://soundcloud.com/caban-1"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Caban ist ein österreichischer Psytrance-DJ, Percussionist und Performer, der seit über 22 Jahren auflegt und 2003 bis 2009 auch als Live-Act auftrat. Er spielte u. a. beim Ozora Festival (2011–2015), beim Boom Festival (2006, 2008), bei Summer Never Ends, Psy Island, Paradise Festival, Sonnenklang und dem FLOW Festival.",
+   "en": "Caban is an Austrian psytrance DJ, percussionist and performer who has been DJing for over 22 years and also performed as a live act from 2003 to 2009. He has played Ozora Festival (2011–2015), Boom Festival (2006, 2008), Summer Never Ends, Psy Island, Paradise Festival, Sonnenklang and FLOW Festival, among others."
+  },
+  "genres": [
+   "Psytrance",
+   "Progressive Psytrance",
+   "Forest"
+  ],
+  "alias": [
+   "DJ Caban"
+  ],
+  "sets": [
+   {
+    "t": "Caban@PsyIsland aka Spiritbase Festival 2020",
+    "u": "https://www.mixcloud.com/DJ_CABAN/cabanpsyisland-aka-spiritbase-festival-2020/"
+   },
+   {
+    "t": "Caban´s progressive intensions 2",
+    "u": "https://www.mixcloud.com/DJ_CABAN/caban-s-progressive-intensions-2/"
+   },
+   {
+    "t": "DJ CABAN @ FLOW Festival 2014",
+    "u": "https://soundcloud.com/caban-1/dj-caban-flow-festival-2014"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://www.mixcloud.com/DJ_CABAN/"
+  ]
  },
  "DBBD": {
   "img": "https://static.ra.co/images/profiles/square/dbbd.jpg?dateUpdated=1777499633167",
@@ -15691,16 +15878,20 @@ const AR={
     "u": "https://soundcloud.com/many23/manyrah-connections23-part1"
    },
    {
+    "t": "Many & Nebula @ Freshid Techno 170813 Vienna",
+    "u": "https://soundcloud.com/many23/many-nebula-freshid-techno"
+   },
+   {
     "t": "Some Spec – Many (noTek Mix, März 2013)",
     "u": "https://www.mixcloud.com/many23/some-spec-many/"
    }
   ],
-  "setsChecked": "2026-11-02",
+  "setsChecked": "2026-11-03",
   "src": [
    "https://www.mixcloud.com/many23/some-spec-many/",
    "https://soundcloud.com/many23"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "noImg": "2026-11-02"
  },
  "Marc Græbnør": {
@@ -16121,9 +16312,33 @@ const AR={
   },
   "src": [
    "https://soundcloud.com/donaurave",
-   "https://www.instagram.com/donaurave.wien/"
+   "https://www.instagram.com/donaurave.wien/",
+   "https://de.ra.co/events/2157973",
+   "https://soundcloud.com/callshopradio/gustav-g-b2b-tomey-ti-donaurave-080224"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "DONAURAVE ist ein Wiener Rave-Projekt, das als Act auf Lineups auftaucht, etwa bei Zuckerwatt oder gemeinsam mit Morgengymnastik im SASS. Bei der Donaurave-Ausgabe auf Callshop Radio im Februar 2024 spielten Gustav G b2b Tomey Ti und Stefan Löffler.",
+   "en": "DONAURAVE is a Vienna rave project that appears as an act on line-ups, for example at Zuckerwatt or together with Morgengymnastik at SASS. Its February 2024 edition on Callshop Radio featured Gustav G b2b Tomey Ti and Stefan Löffler."
+  },
+  "alias": [
+   "Donau Rave"
+  ],
+  "sets": [
+   {
+    "t": "Gustav G B2B Tomey Ti / Donaurave 08.02.24 (Callshop Radio)",
+    "u": "https://soundcloud.com/callshopradio/gustav-g-b2b-tomey-ti-donaurave-080224"
+   },
+   {
+    "t": "Stefan Löffler / Donaurave 08.02.24 (Callshop Radio)",
+    "u": "https://soundcloud.com/callshopradio/stefan-loffler-donaurave-080224"
+   }
+  ],
+  "setsChecked": "2026-11-03"
  },
  "rambazambra": {
   "noImg": "2026-11-03",
@@ -18123,6 +18338,42 @@ const AR={
   ],
   "infoChk": "2026-11-03",
   "setsChecked": "2026-11-03"
+ },
+ "Tsubi": {
+  "img": "https://viberate-upload.ams3.cdn.digitaloceanspaces.com/prod/entity/artist/dj-tsubi.jpg",
+  "from": {
+   "de": "Budapest, Ungarn",
+   "en": "Budapest, Hungary"
+  },
+  "links": {
+   "mc": "https://www.mixcloud.com/tsubitsu/"
+  },
+  "bio": {
+   "de": "Tsubi (auch Tsu) gilt als einer der bekanntesten und dienstältesten Psytrance-DJs Ungarns; er legt seit etwa 2000 auf. Er spielte u. a. in Brasilien, Mexiko, den USA, Japan, Indien und Südafrika sowie bei Ozora und Boom, war maßgeblich an radiOzora beteiligt und ist bei Sangoma Records. Neben Psytrance spielt er auch Techno, House und Disco.",
+   "en": "Tsubi (also Tsu) is one of Hungary's best-known and longest-serving psytrance DJs, spinning since around 2000. He has played in Brazil, Mexico, the USA, Japan, India and South Africa as well as at Ozora and Boom, was instrumental in radiOzora and is with Sangoma Records. Besides psytrance he also plays techno, house and disco."
+  },
+  "genres": [
+   "Psytrance"
+  ],
+  "labels": [
+   "Sangoma Records"
+  ],
+  "alias": [
+   "DJ Tsubi",
+   "Tsu"
+  ],
+  "sets": [
+   {
+    "t": "Tsu @ radiOzora x RTS.FM // 15.12.2018 | Budapest",
+    "u": "https://www.mixcloud.com/tsubitsu/tsu-radiozora-x-rtsfm-budapest-15122018/"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://www.mixcloud.com/tsubitsu/",
+   "https://viberate.com/artist/dj-tsubi"
+  ],
+  "infoChk": "2026-11-03"
  }
 };
 
