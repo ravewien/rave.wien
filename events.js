@@ -26233,6 +26233,724 @@ const AR={
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03"
+ },
+ "ranzig": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "emr miranda": {
+  "bio": {
+   "de": "E.M.R. Miranda ist ein DJ aus Wien, der in Line-ups mit der Wiener Crew Funkroom geführt wird. 2019 spielte er bei Horsepower im Werk in Wien, außerdem war er Gast der Sendung RUNTIN Radio auf Res.Radio.",
+   "en": "E.M.R. Miranda is a Vienna-based DJ listed in line-ups alongside the Viennese crew Funkroom. In 2019 he played Horsepower at Das Werk in Vienna, and he has guested on the RUNTIN Radio show on Res.Radio."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "alias": [
+   "E.M.R. Miranda",
+   "E.M.R."
+  ],
+  "src": [
+   "https://ra.co/events/1221100",
+   "https://soundcloud.com/resradio/runtin-radio-rtr001-w-mad-eaz-ghettorave-emr-miranda-funkroom"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "faz og": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "samuel": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "LiSSTN": {
+  "img": "https://static.ra.co/images/profiles/square/lisstn.jpg?dateUpdated=1695899330000",
+  "links": {
+   "ra": "https://ra.co/dj/lisstn",
+   "sc": "https://soundcloud.com/lissa-817268743"
+  },
+  "bio": {
+   "de": "LiSSTN ist eine in Deutschland geborene, in Österreich lebende DJ, die vor allem im SASS Music Club und im PRST in Wien auflegt. Ihr Motto: jede Musik, die Spaß macht und zum Tanzen bringt. Auf Resident Advisor ist sie mit Rosa Brisante verbunden.",
+   "en": "LiSSTN is a German-born, Austria-based DJ who plays mostly at SASS Music Club and PRST in Vienna. Her motto: any music that brings fun and makes you dance. On Resident Advisor she is linked to Rosa Brisante."
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "labels": [
+   "Rosa Brisante"
+  ],
+  "sets": [
+   {
+    "t": "superstate Session #2 x Radio Rudina with LiSSTN",
+    "u": "https://soundcloud.com/radiorudina/lisstn-rosa-brisante"
+   },
+   {
+    "t": "Radio Analogique DJ Set by LiSSTN",
+    "u": "https://soundcloud.com/analogiquemusic/radio-analogique-dj-set-by"
+   },
+   {
+    "t": "Spumix #004 LiSSTN",
+    "u": "https://soundcloud.com/spumanterecords/spumix-004-lisstn"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/lisstn",
+   "https://soundcloud.com/lissa-817268743"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Mat Schubert": {
+  "img": "https://static.ra.co/images/profiles/square/matschubert.jpg?dateUpdated=1750713812507",
+  "links": {
+   "ra": "https://ra.co/dj/matschubert",
+   "sc": "https://soundcloud.com/matschubertmusic",
+   "ig": "https://www.instagram.com/matschubertmusic"
+  },
+  "bio": {
+   "de": "Mat Schubert ist Musikproduzent und DJ aus Wien. Er spielt Afro House, Melodic House und Techno, unter anderem bei den Reihen Melodic Monday und Boho Beats in Wien.",
+   "en": "Mat Schubert is a music producer and DJ from Vienna. He plays Afro House, Melodic House and Techno, including at the Melodic Monday and Boho Beats series in Vienna."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Afro House",
+   "Melodic House",
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "MELODIC MONDAY - Vienna, 07.07.2025 - Afro House Warmup Set",
+    "u": "https://soundcloud.com/matschubertmusic/melodic-monday-vienna-07-07"
+   },
+   {
+    "t": "das techno cafe - Vienna, 24.06.2025",
+    "u": "https://soundcloud.com/matschubertmusic/techno-cafe-vienna"
+   },
+   {
+    "t": "MELODIC MONDAY - Vienna, 21.04.2025",
+    "u": "https://soundcloud.com/matschubertmusic/melodic-monday-x-muse-easter-special"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/matschubert",
+   "https://soundcloud.com/matschubertmusic"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "DELIVARY": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Juan Schreiber": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Kor1n": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Fairytalesoundsystem": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "V1not1c": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Spelz": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Eren Duman": {
+  "links": {
+   "sc": "https://soundcloud.com/erenduman"
+  },
+  "bio": {
+   "de": "Eren Duman ist ein DJ aus der Wiener Clubszene, der u. a. im FLUCC (Im Freudentaumel, Schnuppern) und im SASS Music Club (Donnerstag Nacht / Garten von Eben) auflegt. Auf SoundCloud veröffentlicht er Live-Mitschnitte, etwa aus dem SASS Club, dem Club Romantica Stuttgart und von Istanbul Noh Radio.",
+   "en": "Eren Duman is a DJ from Vienna's club scene who plays at FLUCC (Im Freudentaumel, Schnuppern) and SASS Music Club (Donnerstag Nacht / Garten von Eben), among others. On SoundCloud he shares live recordings, e.g. from SASS Club, Club Romantica Stuttgart and Istanbul Noh Radio."
+  },
+  "sets": [
+   {
+    "t": "Garten von Eben 13.06.2024 @ Sass Club",
+    "u": "https://soundcloud.com/erenduman/garten-von-eben-13062024-sass-club"
+   },
+   {
+    "t": "Im Freudentaumel 01.07.2023 @ Club Romantica Stuttgart",
+    "u": "https://soundcloud.com/erenduman/im-freudentaumel-01072023-club-romantica-stuttgart"
+   },
+   {
+    "t": "Istanbul Noh Radio / Live Stream",
+    "u": "https://soundcloud.com/erenduman/istanbul-noh-radio-live-stream"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/erenduman",
+   "https://ra.co/events/1569130",
+   "https://ra.co/events/2037397"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
+ },
+ "Tanzinstanz": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "DJ Soulglo": {
+  "img": "https://static.ra.co/images/profiles/soulglo.jpg?dateUpdated=1322041407000",
+  "links": {
+   "ra": "https://ra.co/dj/soulglo",
+   "web": "https://strumandiodine.com/artist/soulglo/"
+  },
+  "bio": {
+   "de": "Soulglo ist das Alias von Philipp Haffner, der seit den 1990er-Jahren Teil der österreichischen elektronischen Musikszene ist. Gemeinsam mit Constantin Zeileissen veröffentlicht er seit 2003 u. a. als Microthol, Buffered Multiple und Ha-ze Factory, Releases erschienen etwa auf Trust und Pomelo. Seit 2014 arbeitet er auch mit Videosynthese und gestaltet audioreaktive Visuals, z. B. für die Reihe „funkroom“.",
+   "en": "Soulglo is the alias of Philipp Haffner, who has been part of Austria's electronic music scene since the 1990s. Together with Constantin Zeileissen he has released music since 2003 as Microthol, Buffered Multiple and Ha-ze Factory, among others, with releases on labels such as Trust and Pomelo. Since 2014 he has also worked with video synthesis and creates audio-reactive visuals, e.g. for the 'funkroom' series."
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "labels": [
+   "Trust",
+   "Pomelo",
+   "Puzzlebox",
+   "Shaddock",
+   "Minimalsoul"
+  ],
+  "alias": [
+   "Soulglo"
+  ],
+  "src": [
+   "https://ra.co/dj/soulglo",
+   "https://strumandiodine.com/artist/soulglo"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Sophie Hosner": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Travmkind": {
+  "img": "https://static.ra.co/images/profiles/square/travmkind.jpg?dateUpdated=1769993909060",
+  "links": {
+   "ra": "https://ra.co/dj/travmkind",
+   "sc": "https://soundcloud.com/abbybabygoeswild",
+   "ig": "https://www.instagram.com/travmkindmusic"
+  },
+  "bio": {
+   "de": "Travmkind ist ein DJ und Produzent aus Wien mit Wurzeln in Katar, der in energiegeladenen Sets House und Techno verbindet. Er spielt in Wiener Clubs wie Pratersauna, Das Werk, PRST und O der Klub und veranstaltet die Reihe „Travmkinder“.",
+   "en": "Travmkind is a Vienna-based DJ and producer with roots in Qatar who blends house and techno in energetic sets. He plays Viennese clubs such as Pratersauna, Das Werk, PRST and O der Klub and hosts the 'Travmkinder' series."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "House",
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "HOUSE MIXTAPE l Session 02 - TRAVMKIND",
+    "u": "https://soundcloud.com/travmkindmusic/house-mixtape-l-session-02-1"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://de.ra.co/dj/travmkind",
+   "https://soundcloud.com/travmkindmusic/house-mixtape-l-session-02-1"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Kai Galactic": {
+  "links": {
+   "sc": "https://soundcloud.com/kaigalactic"
+  },
+  "bio": {
+   "de": "Kai Galactic ist ein DJ und Produzent aus Tokio, der das Label DAYBREAK Recordings betreibt. Seine Tracks erschienen u. a. auf Oslated, Katharsis Recordings, Registros Siderales, Art Bei Ton und Linderluft.",
+   "en": "Kai Galactic is a Tokyo-based DJ and producer who runs the label DAYBREAK Recordings. His tracks have been released on labels such as Oslated, Katharsis Recordings, Registros Siderales, Art Bei Ton and Linderluft."
+  },
+  "from": {
+   "de": "Tokio",
+   "en": "Tokyo"
+  },
+  "labels": [
+   "DAYBREAK Recordings",
+   "Oslated",
+   "Katharsis Recordings"
+  ],
+  "src": [
+   "https://ra.co/events/2503436",
+   "https://soundcloud.com/kaigalactic/tracks",
+   "https://soundcloud.com/oslated/kai-galactic-departure-osl042"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
+ },
+ "Aseka": {
+  "bio": {
+   "de": "Aseka stammt aus Sri Lanka und ist DJ, Produzent, Musiker und wissenschaftlicher Forscher im Bereich experimenteller Elektronik.",
+   "en": "Aseka hails from Sri Lanka and is a DJ, producer, musician and scientific researcher working in experimental electronics."
+  },
+  "from": {
+   "de": "Sri Lanka",
+   "en": "Sri Lanka"
+  },
+  "src": [
+   "https://ra.co/events/2503436"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Thomas Stieler": {
+  "img": "https://static.ra.co/images/profiles/square/thomasstieler.jpg?dateUpdated=1780223991700",
+  "links": {
+   "ra": "https://ra.co/dj/thomasstieler",
+   "sc": "https://soundcloud.com/thomasstieler",
+   "ig": "https://www.instagram.com/thomasstieler",
+   "web": "https://www.paracou.de/artists/thomas-stieler/"
+  },
+  "bio": {
+   "de": "Thomas Stieler ist ein DJ und Produzent aus Deutschland mit langjähriger Produktionserfahrung. Releases erschienen u. a. auf Freude am Tanzen, Rotary Cocktail Recordings, Brise Records und Schönbrunner Perlen. Er spielt regelmäßig im Pimpernel (München) und in Clubs wie Distillery (Leipzig), MUNA und Kassablanca.",
+   "en": "Thomas Stieler is a DJ and producer from Germany with many years of production experience. He has released on labels such as Freude am Tanzen, Rotary Cocktail Recordings, Brise Records and Schönbrunner Perlen. He plays regularly at Pimpernel (Munich) and at clubs such as Distillery (Leipzig), MUNA and Kassablanca."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Freude Am Tanzen",
+   "Rotary Cocktail Recordings",
+   "Brise Records",
+   "Foul & Sunk",
+   "Polynom",
+   "Frole Records",
+   "Schönbrunner Perlen",
+   "Biotop Label",
+   "Rough Recordings",
+   "Muna Musik"
+  ],
+  "sets": [
+   {
+    "t": "Thomas Stieler @ MUNA 11.03.2023",
+    "u": "https://soundcloud.com/thomasstieler/thomas-stieler-muna-11032023"
+   },
+   {
+    "t": "Thomas Stieler @ Freiland Sommerfest 2018",
+    "u": "https://soundcloud.com/thomasstieler/thomas-stieler-freiland-sommerfest-2018"
+   },
+   {
+    "t": "Thomas Stieler @ Distillery Leipzig 30.04.2016 (Warm Up Set)",
+    "u": "https://soundcloud.com/thomasstieler/thomas-stieler-distillery-leipzig-30042016-warm-up-set"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/thomasstieler",
+   "https://soundcloud.com/thomasstieler"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Tosta Vica": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Marika Rossa": {
+  "img": "https://static.ra.co/images/profiles/square/marikarossa.jpg?dateUpdated=1559549918000",
+  "links": {
+   "ra": "https://ra.co/dj/marikarossa",
+   "sc": "https://soundcloud.com/marikarossa"
+  },
+  "bio": {
+   "de": "Marika Rossa ist eine ukrainische Techno-DJ und Produzentin, die regelmäßig auf großen europäischen Line-ups spielt und Spitzenplätze in den Beatport-Charts erreicht hat. Sie veröffentlichte Singles und Remixe u. a. auf Crunch Control, Naughty Pills, Pragmatik Recordings und Elektrax Recordings. Im April 2015 gründete sie ihr eigenes Label Fresh Cut.",
+   "en": "Marika Rossa is a Ukrainian techno DJ and producer who regularly plays major European line-ups and has topped the Beatport charts. She has released singles and remixes on labels including Crunch Control, Naughty Pills, Pragmatik Recordings and Elektrax Recordings. In April 2015 she launched her own label, Fresh Cut."
+  },
+  "from": {
+   "de": "Ukraine",
+   "en": "Ukraine"
+  },
+  "labels": [
+   "Fresh Cut",
+   "Crunch Control",
+   "Naughty Pills Records",
+   "Elektrax Recordings",
+   "Pragmatik Recordings"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "Marika Rossa at ECHELON Open Air Festival, Bad Aibling (19.08.2017)",
+    "u": "https://soundcloud.com/marikarossa/echelon-open-air"
+   },
+   {
+    "t": "Marika Rossa - Fresh Cut technopodcast",
+    "u": "https://soundcloud.com/marikarossa/marika-rossa-fresh-cut-technopodcast"
+   },
+   {
+    "t": "Marika Rossa - Kazantip 2010",
+    "u": "https://soundcloud.com/marikarossa/marika-rossa-kazantip-2010"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/marikarossa",
+   "https://ra.co/dj/marikarossa/biography",
+   "https://soundcloud.com/marikarossa"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Markus Taubenschlag": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "MHAK": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Amadeuz": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Swiver": {
+  "img": "https://static.ra.co/images/profiles/square/swiver.jpg?dateUpdated=1717431942000",
+  "links": {
+   "ra": "https://ra.co/dj/swiver",
+   "sc": "https://soundcloud.com/swiver"
+  },
+  "bio": {
+   "de": "Swiver ist ein:e DJ aus Wien. Swiver spielt regelmäßig in Wiener Clubs wie Das Werk, Club Lucia und Grelle Forelle, u. a. bei RUHE:STÖRUNG, Stay Acid und im Umfeld der Krawall-Partys.",
+   "en": "Swiver is a DJ based in Vienna. Swiver regularly plays Viennese clubs such as Das Werk, Club Lucia and Grelle Forelle, including RUHE:STÖRUNG, Stay Acid and the Krawall parties."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "sets": [
+   {
+    "t": "Reverse this Bass Set - Swiver",
+    "u": "https://soundcloud.com/swiver/krawallcast-hardstyle"
+   },
+   {
+    "t": "MÜCKENCAST #004 - Swiver",
+    "u": "https://soundcloud.com/swiver/muckencast-004-swiver"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://de.ra.co/dj/swiver",
+   "https://soundcloud.com/swiver"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Testpress": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Der Parkverbot": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "9euro": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "DJ Nana": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "DJ Schelle": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "DJ Trace": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Ozzy Era": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Tankstelle 247": {
+  "links": {
+   "sc": "https://soundcloud.com/user-49694959"
+  },
+  "src": [
+   "https://soundcloud.com/user-49694959",
+   "https://ra.co/events/2411672"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
+ },
+ "DJ So": {
+  "img": "https://static.ra.co/images/profiles/square/djso.jpg?dateUpdated=1580211517000",
+  "links": {
+   "ra": "https://ra.co/dj/djso",
+   "sc": "https://soundcloud.com/dj_so",
+   "ig": "https://www.instagram.com/dj.so_"
+  },
+  "bio": {
+   "de": "DJ SO ist ein japanischer DJ und seit rund 15 Jahren Resident des legendären japanischen Festivals „The Labyrinth“, das er auch mitorganisiert. Er hat unter anderem im Tresor und im Berghain gespielt. In Wien war er im Juli 2026 bei deep cut & RAW Session im FLUCC mit einem dreistündigen Set zu Gast.",
+   "en": "DJ SO is a Japanese DJ and has been the resident of the legendary Japanese festival \"The Labyrinth\" for about 15 years, which he also helps organise. He has played clubs including Tresor and Berghain. In Vienna he played a three-hour set at deep cut & RAW Session at FLUCC in July 2026."
+  },
+  "from": {
+   "de": "Japan",
+   "en": "Japan"
+  },
+  "alias": [
+   "SO"
+  ],
+  "sets": [
+   {
+    "t": "Soul Strings 2022",
+    "u": "https://soundcloud.com/dj_so/soul-strings-2022"
+   },
+   {
+    "t": "DREAMSCAPE 2020",
+    "u": "https://soundcloud.com/dj_so/dreamscape-2020"
+   },
+   {
+    "t": "THE LABYRINTH 2017",
+    "u": "https://soundcloud.com/dj_so/the-labyrinth-2017"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/djso",
+   "https://ra.co/events/2482873",
+   "https://soundcloud.com/dj_so/tracks"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Balint Revesz": {
+  "img": "https://static.ra.co/images/profiles/square/reveszbalint.jpg?dateUpdated=1740585295000",
+  "links": {
+   "ra": "https://ra.co/dj/reveszbalint",
+   "sc": "https://soundcloud.com/reveszbalint",
+   "ig": "https://www.instagram.com/reveszbalint"
+  },
+  "bio": {
+   "de": "Bálint Révész ist ein in Budapest lebender DJ mit Wurzeln am ungarischen Land, der fast sieben Jahre in Dänemark gelebt hat. Sein Sound verbindet ungarische Underground-Elektronik mit skandinavischen Einflüssen. Er spielt u. a. bei Festivals wie MANAS und MicrOasis in Ungarn.",
+   "en": "Bálint Révész is a Budapest-based DJ with roots in the Hungarian countryside who spent nearly seven years living in Denmark. His sound blends Hungarian underground electronic music with Scandinavian influences. He plays festivals such as MANAS and MicrOasis in Hungary."
+  },
+  "from": {
+   "de": "Budapest",
+   "en": "Budapest"
+  },
+  "alias": [
+   "Révész Bálint"
+  ],
+  "sets": [
+   {
+    "t": "Bálint Révész @ Manas 2025 - Official After / The Bowl",
+    "u": "https://soundcloud.com/reveszbalint/balint-revesz-manas-2025-official-after-the-bowl"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/reveszbalint",
+   "https://ra.co/events/2482873",
+   "https://soundcloud.com/reveszbalint/balint-revesz-manas-2025-official-after-the-bowl"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Caravel": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Zero Raves": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Dxpe": {
+  "links": {
+   "ra": "https://ra.co/dj/dxpe",
+   "sc": "https://soundcloud.com/dxpe_music"
+  },
+  "sets": [
+   {
+    "t": "DXPE @ MIA MAO 16-10-25 (Paris, FR)",
+    "u": "https://soundcloud.com/dxpe_music/dxpe-mia-mao-16-10-25-paris-fr"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/dxpe",
+   "https://soundcloud.com/dxpe_music"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03"
+ },
+ "Jokesonyou": {
+  "img": "https://static.ra.co/images/profiles/square/jokesonyou.jpg?dateUpdated=1742986872000",
+  "links": {
+   "ra": "https://ra.co/dj/jokesonyou",
+   "sc": "https://soundcloud.com/jokessonyou"
+  },
+  "bio": {
+   "de": "JOKESONYOU ist ein Trance-DJ und Produzent aus Australien. Er veröffentlicht u. a. auf dem Label Sweet Nothing und spielt vor allem in Berlin, Melbourne, Hamburg, London und Paris, regelmäßig etwa im Lokschuppen Berlin.",
+   "en": "JOKESONYOU is a trance DJ and producer from Australia. He releases on labels including Sweet Nothing and plays mostly in Berlin, Melbourne, Hamburg, London and Paris, regularly at Lokschuppen Berlin among others."
+  },
+  "from": {
+   "de": "Australien",
+   "en": "Australia"
+  },
+  "labels": [
+   "Sweet Nothing"
+  ],
+  "genres": [
+   "Trance"
+  ],
+  "sets": [
+   {
+    "t": "Terminal V Podcast 108 || JOKESONYOU",
+    "u": "https://soundcloud.com/terminalvfest/terminal-v-podcast-108-jokesonyou"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://de.ra.co/dj/jokesonyou",
+   "https://soundcloud.com/jokessonyou"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Feuerdrache": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Frankov": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "FIVESIXSEVENKATE": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "bk.west": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Dextro": {
+  "img": "https://static.ra.co/images/profiles/square/dextro.jpg?dateUpdated=1761780117057",
+  "links": {
+   "ra": "https://ra.co/dj/dextro",
+   "sc": "https://soundcloud.com/dextro_uk",
+   "bc": "https://dextro.bandcamp.com",
+   "ig": "https://www.instagram.com/_dextro_music_"
+  },
+  "bio": {
+   "de": "Dextro ist das Musikprojekt des schottischen Musikers Ewan Mackenzie. Seine Musik erschien u. a. auf Hope Recordings, Border Community, A Strangely Isolated Place und 16k Records. Im Juli 2026 spielte er bei FISH MARKET in der Grellen Forelle in Wien.",
+   "en": "Dextro is the recording alias of Scottish musician Ewan Mackenzie. His music has been released on labels including Hope Recordings, Border Community, A Strangely Isolated Place and 16k Records. In July 2026 he played FISH MARKET at Grelle Forelle in Vienna."
+  },
+  "from": {
+   "de": "Schottland",
+   "en": "Scotland"
+  },
+  "labels": [
+   "Hope Recordings",
+   "Border Community",
+   "A Strangely Isolated Place",
+   "16k Records"
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/dextro"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Lina K": {
+  "img": "https://static.ra.co/images/profiles/square/linak.jpg?dateUpdated=1744265280660",
+  "links": {
+   "ra": "https://ra.co/dj/linak",
+   "sc": "https://soundcloud.com/lina_bobina_k",
+   "ig": "https://www.instagram.com/lina_bobina_k"
+  },
+  "bio": {
+   "de": "Lina K ist eine in Moldau geborene DJ und Produzentin mit Basis in China, wo sie seit über zehn Jahren als DJ und Szene-Kuratorin aktiv ist und als feste Größe des chinesischen Undergrounds gilt. Ihr Sound verbindet düstere Atmosphären, groovige Basslines und kosmische Klangflächen mit hypnotischen FM-Tönen. Releases erschienen u. a. auf Acidchicken Records und Rave The Planet; in der Grellen Forelle spielte sie bereits bei FISH MARKET.",
+   "en": "Lina K is a Moldova-born DJ and producer based in China, where she has been active as a DJ and scene curator for over a decade and is regarded as a pillar of the Chinese underground. Her sound blends dark atmospheres, groovy basslines and cosmic soundscapes with hypnotic FM tones. She has released on labels including Acidchicken Records and Rave The Planet, and has previously played FISH MARKET at Grelle Forelle in Vienna."
+  },
+  "from": {
+   "de": "China",
+   "en": "China"
+  },
+  "labels": [
+   "Acidchicken Records"
+  ],
+  "sets": [
+   {
+    "t": "Lina K @ Youshan Festival 2025",
+    "u": "https://soundcloud.com/lina_bobina_k/lina-k-youshen-festival-2025"
+   },
+   {
+    "t": "Lina K for Fish Market 16 Years of Meat @ Grelle Forelle [Vienna]",
+    "u": "https://soundcloud.com/lina_bobina_k/lina-k-for-fish-market-16-years-of-meat-grelle-forelle-vienna"
+   },
+   {
+    "t": "Guest Mix: Lina K (6AM)",
+    "u": "https://soundcloud.com/6amgroup/guest-mix-lina-k"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://ra.co/dj/linak",
+   "https://ra.co/events/2100155",
+   "https://soundcloud.com/lina_bobina_k"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Arrived": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Solvær": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
+ },
+ "Justin the Lover": {
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03"
  }
 };
 
