@@ -21945,6 +21945,516 @@ const AR={
    "https://ra.co/dj/gydah"
   ],
   "infoChk": "2026-11-03"
+ },
+ "Modeselektor": {
+  "img": "https://static.ra.co/images/profiles/square/modeselektor.jpg?dateUpdated=1415191875610",
+  "links": {
+   "ra": "https://ra.co/dj/modeselektor",
+   "sc": "https://soundcloud.com/modeselektor",
+   "ig": "https://www.instagram.com/modeselektor_berlin",
+   "bc": "https://modeselektor.bandcamp.com",
+   "web": "https://www.modeselektor.com"
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "labels": [
+   "BPitch",
+   "Monkeytown Records",
+   "50 Weapons",
+   "Detroit Underground"
+  ],
+  "bio": {
+   "de": "Modeselektor ist das Berliner Duo von Gernot Bronsert und Sebastian Szary. Ihre Musik bewegt sich wild und überschwänglich zwischen Techno, Bass und Electronica. Veröffentlicht haben sie u. a. auf BPitch, Monkeytown Records und 50 Weapons.",
+   "en": "Modeselektor is the Berlin duo of Gernot Bronsert and Sebastian Szary. Their music moves wildly and exuberantly between techno, bass and electronica. They have released on labels including BPitch, Monkeytown Records and 50 Weapons."
+  },
+  "src": [
+   "https://ra.co/dj/modeselektor"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Rosa Red": {
+  "img": "https://static.ra.co/images/profiles/square/rosared.jpg?dateUpdated=1770137246897",
+  "links": {
+   "ra": "https://ra.co/dj/rosared",
+   "sc": "https://soundcloud.com/redrosared",
+   "ig": "https://www.instagram.com/rosa_red_music",
+   "bc": "https://rosared.bandcamp.com"
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "labels": [
+   "Permanent Vacation",
+   "Correspondant",
+   "Club Mix",
+   "Creatures of the Night"
+  ],
+  "bio": {
+   "de": "Rosa Red ist eine in Berlin lebende DJ und Produzentin. Sie veröffentlicht u. a. auf Permanent Vacation, Correspondant und Club Mix und spielt regelmäßig bei Permanent-Vacation-Nächten, etwa im Else in Berlin.",
+   "en": "Rosa Red is a Berlin-based DJ and producer. She releases on labels such as Permanent Vacation, Correspondant and Club Mix and regularly plays the label's Permanent Vacation nights, for example at Else in Berlin."
+  },
+  "sets": [
+   {
+    "t": "Rosa Red @ Fabric / Aug 23",
+    "u": "https://soundcloud.com/redrosared/live-at-fabric-aug-23"
+   },
+   {
+    "t": "Sweatlodge w/ Rosa Red @ HÖR",
+    "u": "https://soundcloud.com/redrosared/sweatlodge-rosa-red-hor"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/rosared",
+   "https://soundcloud.com/redrosared"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Golpe": {
+  "img": "https://static.ra.co/images/profiles/square/golpe.jpg?dateUpdated=1752077096207",
+  "links": {
+   "ra": "https://ra.co/dj/golpe"
+  },
+  "from": {
+   "de": "Tschechien",
+   "en": "Czech Republic"
+  },
+  "labels": [
+   "AudioCode Records"
+  ],
+  "bio": {
+   "de": "Golpe ist ein Techno-DJ aus Tschechien, der auf AudioCode Records veröffentlicht hat. Er spielte u. a. bei Sektor B in Berlin und bei der Wiener Reihe Gesindel der Nacht (GDN).",
+   "en": "Golpe is a techno DJ from the Czech Republic who has released on AudioCode Records. He has played at Sektor B in Berlin and at the Vienna series Gesindel der Nacht (GDN), among others."
+  },
+  "src": [
+   "https://de.ra.co/dj/golpe"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Ladrillovitz": {
+  "img": "https://static.ra.co/images/profiles/square/ladrillovitz.jpg?dateUpdated=1759443297797",
+  "links": {
+   "ra": "https://ra.co/dj/ladrillovitz",
+   "sc": "https://soundcloud.com/go-2",
+   "web": "https://linktr.ee/ladrillovitz"
+  },
+  "from": {
+   "de": "Valencia, Spanien",
+   "en": "Valencia, Spain"
+  },
+  "bio": {
+   "de": "Ladrillovitz ist eine DJ aus Valencia mit über 15 Jahren Erfahrung. Sie ist Resident im Club Oven und bei der von Ariezzz kuratierten Party „Total“ und gilt als vielseitige DJ, die den Dancefloor zu jeder Uhrzeit trägt.",
+   "en": "Ladrillovitz is a Valencia-based DJ with more than 15 years of experience. She is a resident at Club Oven and at the party “Total” curated by Ariezzz, known for versatile sets that carry the dancefloor at any hour."
+  },
+  "src": [
+   "https://ra.co/dj/ladrillovitz"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Dan Lodig": {
+  "img": "https://static.ra.co/images/profiles/square/danlodig.jpg?dateUpdated=1756322328843",
+  "links": {
+   "ra": "https://ra.co/dj/danlodig",
+   "sc": "https://soundcloud.com/lo-d",
+   "bc": "https://lodig.bandcamp.com",
+   "web": "https://lodig.tech"
+  },
+  "from": {
+   "de": "Österreich, lebt in Deutschland",
+   "en": "Austria, based in Germany"
+  },
+  "labels": [
+   "Pomelo",
+   "TRUST",
+   "Minimalsoul Recordings",
+   "Yoshi"
+  ],
+  "bio": {
+   "de": "Dan Lodig (Daniel Lodig) stammt aus Österreich und lebt in Deutschland. Er betreibt die Labels Pomelo und Vigram mit und produziert gemeinsam mit Dibek als /DL/MS/. Regelmäßig spielt er bei der Wiener Rave-Reihe LOOP im Fluc.",
+   "en": "Dan Lodig (Daniel Lodig) is from Austria and lives in Germany. He co-runs the labels Pomelo and Vigram and records with Dibek as /DL/MS/. He regularly plays the Vienna rave series LOOP at Fluc."
+  },
+  "src": [
+   "https://ra.co/dj/danlodig"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Glow": {
+  "img": "https://static.ra.co/images/profiles/square/djglow.jpg?dateUpdated=1462455979800",
+  "alias": [
+   "DJ Glow",
+   "gl03"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/djglow",
+   "sc": "https://soundcloud.com/gl03",
+   "ig": "https://www.instagram.com/gl03_",
+   "bc": "https://trust.bandcamp.com",
+   "web": "https://trust.at"
+  },
+  "from": {
+   "de": "Österreich, lebt in Deutschland",
+   "en": "Austria, based in Germany"
+  },
+  "labels": [
+   "TRUST",
+   "Pomelo",
+   "Scram"
+  ],
+  "bio": {
+   "de": "DJ Glow (auch gl03) stammt aus Österreich und lebt in Deutschland. Das Projekt ist mit dem Label TRUST verbunden und veröffentlicht auch auf Pomelo und Scram. In Wien ist DJ Glow regelmäßig bei LOOP im Fluc und bei Pomelo-Labelnächten zu hören.",
+   "en": "DJ Glow (also gl03) is from Austria and lives in Germany. The project is connected to the label TRUST and also releases on Pomelo and Scram. In Vienna DJ Glow regularly plays LOOP at Fluc and Pomelo label nights."
+  },
+  "src": [
+   "https://ra.co/dj/djglow"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Pure": {
+  "img": "https://static.ra.co/images/profiles/pure.jpg?dateUpdated=1489766361053",
+  "alias": [
+   "Current 909"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/pure",
+   "sc": "https://soundcloud.com/pure",
+   "bc": "https://musicwithmachines.bandcamp.com",
+   "web": "https://www.musicwithmachines.org"
+  },
+  "from": {
+   "de": "Österreich, lebt in Deutschland",
+   "en": "Austria, based in Germany"
+  },
+  "labels": [
+   "Editions Mego",
+   "Monolith Records",
+   "Ophism",
+   "Rave Or Die",
+   "Several Roots"
+  ],
+  "bio": {
+   "de": "Pure macht seit 1991 kompromisslose elektronische Musik und ist seit über 30 Jahren Vinyl-DJ. Seine Sets mischen düster und noisy Techno, Electro, Acid, Rave und Industrial – einst „Horror Rave“ genannt. Veröffentlicht hat er u. a. auf Editions Mego und Rave Or Die.",
+   "en": "Pure has been making uncompromising electronic music since 1991 and has been a vinyl-only DJ for more than 30 years. His sets mix a doomy, noisy blend of techno, electro, acid, rave and industrial once called “Horror Rave”. He has released on labels such as Editions Mego and Rave Or Die."
+  },
+  "src": [
+   "https://ra.co/dj/pure"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Phara": {
+  "img": "https://static.ra.co/images/profiles/square/phara.jpg?dateUpdated=1746446306940",
+  "links": {
+   "ra": "https://ra.co/dj/phara",
+   "sc": "https://soundcloud.com/phara-6",
+   "ig": "https://www.instagram.com/phara___",
+   "bc": "https://phaaar.bandcamp.com"
+  },
+  "from": {
+   "de": "Belgien",
+   "en": "Belgium"
+  },
+  "labels": [
+   "Soma Records",
+   "Stockholm LTD",
+   "Planet Rhythm Records",
+   "SK_eleven",
+   "Sonntag Morgen"
+  ],
+  "bio": {
+   "de": "Phara ist ein belgischer Techno-DJ und Produzent, Resident im Fuse in Brüssel. Er veröffentlicht u. a. auf Soma Records, Stockholm LTD, Planet Rhythm und SK_eleven.",
+   "en": "Phara is a Belgian techno DJ and producer and a resident at Fuse in Brussels. He has released on Soma Records, Stockholm LTD, Planet Rhythm and SK_eleven, among others."
+  },
+  "src": [
+   "https://ra.co/dj/phara"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Truncate": {
+  "img": "https://static.ra.co/images/profiles/square/truncate.jpg?dateUpdated=1559779200000",
+  "alias": [
+   "Audio Injection"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/truncate",
+   "sc": "https://soundcloud.com/truncate",
+   "ig": "https://www.instagram.com/truncate_la",
+   "bc": "https://truncate.bandcamp.com"
+  },
+  "from": {
+   "de": "Los Angeles, USA",
+   "en": "Los Angeles, USA"
+  },
+  "labels": [
+   "Truncate",
+   "Hidden Recordings",
+   "Droid Recordings",
+   "Kanzleramt",
+   "Mote-Evolver"
+  ],
+  "bio": {
+   "de": "Truncate (früher Audio Injection) ist ein Techno-Produzent und DJ aus Los Angeles. Er betreibt das Label Truncate und veröffentlichte u. a. auf Droid Recordings, Kanzleramt und Mote-Evolver.",
+   "en": "Truncate (formerly Audio Injection) is a techno producer and DJ from Los Angeles. He runs the Truncate label and has released on Droid Recordings, Kanzleramt and Mote-Evolver, among others."
+  },
+  "src": [
+   "https://ra.co/dj/truncate"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Uncertain": {
+  "img": "https://static.ra.co/images/profiles/square/uncertain.jpg?dateUpdated=1788250510193",
+  "alias": [
+   "Boriqua Tribez"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/uncertain",
+   "sc": "https://soundcloud.com/boriquatribez",
+   "ig": "https://www.instagram.com/uncertain.techno.official"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "labels": [
+   "Intec Digital",
+   "Rekids",
+   "Truncate",
+   "Illegal Alien Records",
+   "Life In Patterns"
+  ],
+  "bio": {
+   "de": "Uncertain (früher Boriqua Tribez) ist seit 1989 in der elektronischen Musik aktiv. Der in Österreich ansässige Techno-Produzent veröffentlichte u. a. auf Intec Digital, Rekids und Truncate.",
+   "en": "Uncertain (formerly Boriqua Tribez) has been active in electronic music since 1989. The Austria-based techno producer has released on Intec Digital, Rekids and Truncate, among others."
+  },
+  "src": [
+   "https://ra.co/dj/uncertain"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Sarica": {
+  "img": "https://static.ra.co/images/profiles/square/sarica.jpg?dateUpdated=1758718524367",
+  "links": {
+   "ra": "https://ra.co/dj/sarica",
+   "sc": "https://soundcloud.com/Sarica_music",
+   "ig": "https://www.instagram.com/Sarica_"
+  },
+  "from": {
+   "de": "München, Deutschland (geboren in Kroatien)",
+   "en": "Munich, Germany (born in Croatia)"
+  },
+  "genres": [
+   "Hardgroove",
+   "Techno"
+  ],
+  "bio": {
+   "de": "Sarica ist Techno-DJ und Produzentin aus München und leitet die Reihe GrooveRaiderz. Seit 2020 spielt sie würzigen Hardgroove.",
+   "en": "Sarica is a techno DJ and producer from Munich and heads the GrooveRaiderz series. She has been serving spicy hardgroove since 2020."
+  },
+  "src": [
+   "https://ra.co/dj/sarica"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Fenimore": {
+  "img": "https://static.ra.co/images/profiles/square/fenim0re.jpg?dateUpdated=1774905617670",
+  "alias": [
+   "FENIM0RE"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/fenim0re",
+   "sc": "https://soundcloud.com/LcrPfEEDjZRilnmCYl"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Key Vinyl",
+   "Agora Records",
+   "Transition"
+  ],
+  "bio": {
+   "de": "FENIM0RE ist ein DJ-Projekt aus Deutschland, dessen Sound federnde Basslines mit energiegeladenen Grooves verbindet. Releases erschienen auf Key Vinyl, Agora Records und Transition; regelmäßig ist FENIM0RE bei BCCO-Nächten in Berlin, Mailand, London und Valencia zu hören.",
+   "en": "FENIM0RE is a DJ from Germany whose signature sound fuses bouncy basslines with high-energy grooves. Releases have come out on Key Vinyl, Agora Records and Transition, and FENIM0RE regularly plays BCCO nights in Berlin, Milan, London and Valencia."
+  },
+  "src": [
+   "https://ra.co/dj/fenim0re"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Mia Mia": {
+  "img": "https://static.ra.co/images/profiles/square/miamia.jpg?dateUpdated=1780263997907",
+  "links": {
+   "ra": "https://ra.co/dj/miamia",
+   "sc": "https://soundcloud.com/mia_mia-dj"
+  },
+  "from": {
+   "de": "Österreich (geboren in Deutschland)",
+   "en": "Austria (born in Germany)"
+  },
+  "bio": {
+   "de": "Mia Mia ist eine in Österreich lebende DJ, geboren in Deutschland. In Wien spielte sie u. a. bei YN-Collective-Nächten in der Grelle Forelle und im Gleis19 sowie bei Morgengymnastik im SASS.",
+   "en": "Mia Mia is an Austria-based DJ, born in Germany. In Vienna she has played YN Collective nights at Grelle Forelle and Gleis19 as well as Morgengymnastik at SASS."
+  },
+  "src": [
+   "https://ra.co/dj/miamia"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Juan Caballo": {
+  "img": "https://static.ra.co/images/profiles/square/juan.caballo.jpg?dateUpdated=1706696510000",
+  "links": {
+   "ra": "https://ra.co/dj/juan.caballo"
+  },
+  "genres": [
+   "Hardgroove"
+  ],
+  "bio": {
+   "de": "Juan Caballo spielt Hardgroove mit schweren Grooves und Vocals, inspiriert von der Underground-Szene Madrids. Er tritt im Umfeld der Münchner Reihe Groove Raiderz auf.",
+   "en": "Juan Caballo plays hardgroove with heavy grooves and vocals, inspired by Madrid's underground scene. He performs in the orbit of the Munich series Groove Raiderz."
+  },
+  "src": [
+   "https://ra.co/dj/juan.caballo/biography"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "PERT": {
+  "img": "https://static.ra.co/images/profiles/square/pert.jpg?dateUpdated=1773830000957",
+  "links": {
+   "ra": "https://ra.co/dj/pert",
+   "sc": "https://soundcloud.com/pertdj",
+   "ig": "https://www.instagram.com/pert________",
+   "bc": "https://pertcoin.bandcamp.com",
+   "sp": "https://open.spotify.com/intl-es/artist/17hoo5ffjjngxgpqhwuaf0"
+  },
+  "from": {
+   "de": "Buenos Aires, Argentinien",
+   "en": "Buenos Aires, Argentina"
+  },
+  "labels": [
+   "Life In Patterns",
+   "Reverse",
+   "Gruvalismo",
+   "PRTL WRX",
+   "Tzunami"
+  ],
+  "bio": {
+   "de": "PERT ist eine DJ und Produzentin aus Buenos Aires. Ihr Sound ist mental und groovig, mit hypnotischen Rhythmen, bearbeiteten Vocals, Tribal-Techno-Elementen und dunkler Perkussion. Veröffentlicht hat sie u. a. auf Life In Patterns und Reverse.",
+   "en": "PERT is a DJ and producer from Buenos Aires. Her sound is mental and groovy, blending hypnotic rhythms, processed vocals, tribal techno elements and dark percussion. She has released on Life In Patterns and Reverse, among others."
+  },
+  "src": [
+   "https://ra.co/dj/pert"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "DJ Lelo": {
+  "img": "https://static.ra.co/images/profiles/square/djlelo.jpg?dateUpdated=1723475213000",
+  "links": {
+   "ra": "https://ra.co/dj/djlelo",
+   "sc": "https://soundcloud.com/leonleon001",
+   "ig": "https://www.instagram.com/lelo.leon",
+   "web": "https://www.radiorudina.com"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "DJ Lelo ist ein Wiener DJ aus dem Umfeld von Radio Rudina und spielt regelmäßig bei deren Nächten im PRST und in der Grelle Forelle.",
+   "en": "DJ Lelo is a Vienna DJ from the Radio Rudina crew and plays their nights at PRST and Grelle Forelle regularly."
+  },
+  "src": [
+   "https://ra.co/dj/djlelo"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Voltaire": {
+  "img": "https://static.ra.co/images/profiles/square/voltaire-fr.jpg?dateUpdated=1788167919393",
+  "links": {
+   "ra": "https://ra.co/dj/voltaire-fr",
+   "sc": "https://soundcloud.com/voltaire0music",
+   "ig": "https://www.instagram.com/voltairedj_",
+   "bc": "https://aestria.bandcamp.com",
+   "web": "https://linktr.ee/voltaire_"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "labels": [
+   "Cod3 QR",
+   "Skryptom",
+   "Aestria"
+  ],
+  "bio": {
+   "de": "Voltaire ist ein französischer Techno-Produzent, bekannt geworden über Cod3 QR, das Label von Laurent Garnier und Oliver Way. Er veröffentlicht außerdem auf Skryptom und Aestria.",
+   "en": "Voltaire is a French techno producer who came to attention on Cod3 QR, the label of Laurent Garnier and Oliver Way. He also releases on Skryptom and Aestria."
+  },
+  "src": [
+   "https://ra.co/dj/voltaire-fr",
+   "https://de.ra.co/events/2505366"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Arthur Pringle": {
+  "img": "https://static.ra.co/images/profiles/square/a.pringle.jpg?dateUpdated=1736420360000",
+  "alias": [
+   "A.Pringle"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/a.pringle",
+   "sc": "https://soundcloud.com/user-867418979"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "labels": [
+   "Cod3 QR"
+  ],
+  "bio": {
+   "de": "Arthur Pringle (A.Pringle) ist ein junger DJ und Produzent aus Frankreich, der auf Cod3 QR, dem Label von Laurent Garnier und Oliver Way, veröffentlicht hat.",
+   "en": "Arthur Pringle (A.Pringle) is a young DJ and producer from France who has released on Cod3 QR, the label founded by Laurent Garnier and Oliver Way."
+  },
+  "src": [
+   "https://ra.co/dj/a.pringle",
+   "https://de.ra.co/events/2505366"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Artyficial": {
+  "links": {
+   "sc": "https://soundcloud.com/artyficialmusic"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "Psytrance"
+  ],
+  "bio": {
+   "de": "Artyficial ist ein österreichischer Psytrance-Act, der auf Flow Ev Records veröffentlicht. Auftritte gab es u. a. bei Indian Spirit und beim WAHA Festival.",
+   "en": "Artyficial is an Austrian psytrance act releasing on Flow Ev Records, with appearances at Indian Spirit and WAHA Festival, among others."
+  },
+  "sets": [
+   {
+    "t": "Artyficial @ Indian Spirit 2022",
+    "u": "https://soundcloud.com/artyficialmusic/artyficial-indian-spirit-2022"
+   },
+   {
+    "t": "Artyficial @ WAHA Festival 2019",
+    "u": "https://soundcloud.com/artyficialmusic/artyficial-waha-festival-2019"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/artyficialmusic",
+   "https://viberate.com/artist/artyficial"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "setsChecked": "2026-11-03"
  }
 };
 
