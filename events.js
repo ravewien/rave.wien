@@ -6773,11 +6773,25 @@ const AR={
    "ra": "https://ra.co/dj/psmt"
   },
   "src": [
-   "https://ra.co/dj/psmt"
+   "https://ra.co/dj/psmt/biography"
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/square/psmt.jpg?dateUpdated=1793047727933",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "real": "Philipp Siegmeth",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Techno",
+   "Hypnotic Techno"
+  ],
+  "bio": {
+   "de": "Wiener Techno-DJ, der über harte, industrielle Sounds zum Techno kam und heute hypnotischen, fließenden Techno spielt. Mit seiner Eventreihe SCHLACHTHAUS schafft er Raum für Subkultur und einen respektvollen Dancefloor; Auftritte u. a. in Grelle Forelle, ÆDEN und Bahnwärter Thiel.",
+   "en": "Vienna-based techno DJ who came to techno through hard, industrial sounds and now plays hypnotic, flowing techno. With his event series SCHLACHTHAUS he creates space for subculture and a respectful dancefloor; he has played Grelle Forelle, ÆDEN and Bahnwärter Thiel."
+  },
+  "infoChk": "2026-11-03"
  },
  "Crystal O": {
   "links": {
@@ -6982,11 +6996,11 @@ const AR={
  "Patrick M4SS": {
   "links": {
    "sc": "https://soundcloud.com/patrickm4ss",
-   "sp": "https://open.spotify.com/artist/3ID7rrudaERHQPjtHZDSVs"
+   "sp": "https://open.spotify.com/artist/3ID7rrudaERHQPjtHZDSVs",
+   "bc": "https://patrickm4ss.bandcamp.com"
   },
   "src": [
-   "https://open.spotify.com/track/2ic4vdco6f9MwZCPJB4QvV",
-   "https://open.spotify.com/artist/3ID7rrudaERHQPjtHZDSVs"
+   "https://patrickm4ss.bandcamp.com"
   ],
   "sets": [
    {
@@ -6999,7 +7013,21 @@ const AR={
    }
   ],
   "setsChecked": "2026-10-28",
-  "img": "https://i.scdn.co/image/ab6761610000e5eb3e0464abd55a3415fbcf8e19"
+  "img": "https://i.scdn.co/image/ab6761610000e5eb3e0464abd55a3415fbcf8e19",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Hard Techno",
+   "Schranz",
+   "Acid Techno"
+  ],
+  "bio": {
+   "de": "Wiener Hardtechno-Produzent und DJ zwischen Hardtechno, Schranz, Acid Techno und Hard Dance; Gründer und Mitglied von D.C.P. & Fakom United. 2022 erschien sein Album „Scared al Pacino“; spielt u. a. bei Herzfrequenz und Schwerkraft im Das Werk.",
+   "en": "Viennese hard techno producer and DJ spanning hard techno, schranz, acid techno and hard dance; founder and member of D.C.P. & Fakom United. His album “Scared al Pacino” came out in 2022; he plays at Herzfrequenz and Schwerkraft at Das Werk among others."
+  },
+  "infoChk": "2026-11-03"
  },
  "Lenzi": {
   "noLinks": "2026-10-28",
@@ -7867,7 +7895,9 @@ const AR={
   "noImg": "2026-10-28"
  },
  "Artifex": {
-  "noImg": "2026-10-28"
+  "noImg": "2026-11-03",
+  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-03"
  },
  "LUZZT": {
   "img": "https://static.ra.co/images/profiles/square/luzzt.jpg?dateUpdated=1692132918000",
@@ -19063,6 +19093,246 @@ const AR={
    "https://open.spotify.com/artist/1coyH3ThOWbCVmwlFxTD2I"
   ],
   "infoChk": "2026-11-03"
+ },
+ "Purrdition": {
+  "img": "https://static.ra.co/images/profiles/square/purrdition.jpg?dateUpdated=1690544701000",
+  "links": {
+   "sc": "https://soundcloud.com/purrdition",
+   "ra": "https://ra.co/dj/purrdition"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Hard Techno",
+   "Techno",
+   "Trance"
+  ],
+  "labels": [
+   "FEMpire",
+   "The Acid Mind Recordings"
+  ],
+  "bio": {
+   "de": "Gebürtige Wiener Techno-DJ, Produzentin und Labelbetreiberin, die über das Kollektiv hausgemacht zum Auflegen kam. Ihr Stil reicht von Progressive House bis Hard Techno mit Vorliebe für trancige, rhythmische Elemente; 2023 gründete sie das FLINTA*-Technolabel FEMpire. Spielte u. a. in Grelle Forelle, Pratersauna, Club Exil, Flex und bei FM4 La Boum de Luxe.",
+   "en": "Vienna-born techno DJ, producer and label owner who started DJing after joining the collective hausgemacht. Her style ranges from progressive house to hard techno with a fondness for trancy, rhythmic elements; in 2023 she founded the FLINTA* techno label FEMpire. She has played Grelle Forelle, Pratersauna, Club Exil, Flex and FM4 La Boum de Luxe."
+  },
+  "sets": [
+   {
+    "t": "FM4 La Boum de Luxe feat. Purrdition 14.06.2023",
+    "u": "https://soundcloud.com/purrdition/fm4-la-boum-de-luxe-feat-purrdition-14062023"
+   }
+  ],
+  "src": [
+   "https://de.ra.co/dj/purrdition/biography",
+   "https://soundcloud.com/purrdition"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Dcascallana": {
+  "img": "https://static.ra.co/images/profiles/square/dcascallana.jpg?dateUpdated=1741256735237",
+  "links": {
+   "sc": "https://soundcloud.com/dcascallana",
+   "ig": "https://www.instagram.com/dcascallana",
+   "ra": "https://ra.co/dj/dcascallana",
+   "web": "https://www.dcascallana.com"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "Techno",
+   "Hypnotic Techno"
+  ],
+  "labels": [
+   "Dark Pressure"
+  ],
+  "bio": {
+   "de": "In Österreich lebender Techno-DJ und Produzent mit Releases auf Dark Pressure. Spielt hypnotischen und deepen Techno, vor allem in Wien – im Kramladen (u. a. deep cut, Underground Pulse), im FLUCC (VVAX – Vinyl Only Techno) und im Das Werk.",
+   "en": "Austria-based techno DJ and producer with releases on Dark Pressure. He plays hypnotic and deep techno, mostly in Vienna, at Kramladen (deep cut, Underground Pulse), FLUCC (VVAX – Vinyl Only Techno) and Das Werk."
+  },
+  "sets": [
+   {
+    "t": "Dcascallana @ Underground Pulse – Kramladen Vienna 29.03.2025",
+    "u": "https://soundcloud.com/dcascallana/kramladen29032025"
+   },
+   {
+    "t": "Dcascallana @ Pratersauna Monochrom – Closing Set 22.06.2024",
+    "u": "https://soundcloud.com/dcascallana/dcascallanapratersauna-monochrom-closing-set-vienna-22-06-2024"
+   }
+  ],
+  "src": [
+   "https://de.ra.co/dj/dcascallana",
+   "https://soundcloud.com/dcascallana"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "JP Bechamel": {
+  "img": "https://static.ra.co/images/profiles/square/jpbechamel.jpg?dateUpdated=1685995549730",
+  "links": {
+   "sc": "https://soundcloud.com/jeremy-somers-1",
+   "ig": "https://www.instagram.com/jpbechamel",
+   "ra": "https://ra.co/dj/jpbechamel"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "In Österreich lebender DJ, Resident der Reihe „A party called JACK“ im FLUCC und Host der Lo-Fi-Radioshow „Feelin’ kinda Orange“ auf Res.Radio. Spielt vor allem in FLUCC, PRST, SASS Music Club und Petersplatz.Eins.",
+   "en": "Austria-based DJ, resident of the series “A party called JACK” at FLUCC and host of the lo-fi radio show “Feelin’ kinda Orange” on Res.Radio. He plays mostly at FLUCC, PRST, SASS Music Club and Petersplatz.Eins."
+  },
+  "sets": [
+   {
+    "t": "A8 instore session 06.04.24 (vinyl) – JP Bechamel",
+    "u": "https://soundcloud.com/jeremy-somers-1/a8-instore-session-vinyl-only"
+   },
+   {
+    "t": "Superstate Session #3 – JP Bechamel (Radio Rudina)",
+    "u": "https://soundcloud.com/radiorudina/superstate-session-3-jp-bechamel"
+   },
+   {
+    "t": "A LuvAffair with: JP Bechamel",
+    "u": "https://soundcloud.com/luvaffair_vienna/a-luvaffair-with-jp-bechamel"
+   }
+  ],
+  "src": [
+   "https://de.ra.co/dj/jpbechamel",
+   "https://soundcloud.com/jeremy-somers-1"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "DJ Achim Feuervogel": {
+  "img": "https://static.ra.co/images/profiles/square/djachimfeuervogel.jpg?dateUpdated=1714468166000",
+  "links": {
+   "sc": "https://soundcloud.com/djachimfeuervogelx",
+   "ig": "https://www.instagram.com/djachimfeuervogel",
+   "bc": "https://galacticharmony8.bandcamp.com",
+   "ra": "https://ra.co/dj/djachimfeuervogel"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Trance",
+   "Hard Trance"
+  ],
+  "labels": [
+   "Galactic Harmony Records",
+   "ONLYTRANCE"
+  ],
+  "bio": {
+   "de": "Deutscher Trance-DJ und Produzent mit Releases und Edits auf Galactic Harmony Records und ONLYTRANCE, oft gemeinsam mit zwilling. Spielt u. a. in Lokschuppen Berlin, OST, Artheater und Schrotty.",
+   "en": "German trance DJ and producer with releases and edits on Galactic Harmony Records and ONLYTRANCE, often together with zwilling. He plays at Lokschuppen Berlin, OST, Artheater and Schrotty among others."
+  },
+  "src": [
+   "https://de.ra.co/dj/djachimfeuervogel",
+   "https://soundcloud.com/djachimfeuervogelx"
+  ],
+  "infoChk": "2026-11-03"
+ },
+ "Jerm": {
+  "img": "https://static.ra.co/images/profiles/square/jerm.jpg?dateUpdated=1772206005657",
+  "links": {
+   "sc": "https://soundcloud.com/jerm_oner",
+   "ra": "https://ra.co/dj/jerm"
+  },
+  "from": {
+   "de": "Athen",
+   "en": "Athens"
+  },
+  "genres": [
+   "Techno",
+   "Acid"
+  ],
+  "labels": [
+   "Analogue",
+   "Soma Records",
+   "Emerald",
+   "HEX",
+   "Blue Hour"
+  ],
+  "bio": {
+   "de": "DJ und Produzent aus Athen, Kopf von Analogue Records und den CoMA-Events und treibende Kraft der griechischen Techno-Szene. Seine intensiven Sets reichen von psychedelischen Tracks bis zu rohem 909-Techno; Releases u. a. auf Soma, Analogue und HEX, Auftritte in Tresor, Fold und Grelle Forelle.",
+   "en": "DJ and producer from Athens, head of Analogue Records and the CoMA events and a driving force of Greece’s underground techno scene. His intense sets range from psychedelic tracks to raw 909 techno; releases on Soma, Analogue and HEX, with appearances at Tresor, Fold and Grelle Forelle."
+  },
+  "sets": [
+   {
+    "t": "#SlamRadio 413 – Jerm",
+    "u": "https://soundcloud.com/slam_djs/slamradio-413-jerm"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/jerm/biography",
+   "https://soundcloud.com/jerm_oner"
+  ],
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Avalon": {
+  "links": {
+   "sc": "https://soundcloud.com/avalon"
+  },
+  "genres": [
+   "Psytrance"
+  ],
+  "labels": [
+   "Nano Records"
+  ],
+  "bio": {
+   "de": "Psytrance-Produzent und DJ auf Nano Records, u. a. mit „Hall of Fame“ (mit Mad Maxx) und „We Are Psychedelic“ (mit Tristan). Spielte mehrfach beim Ozora Festival.",
+   "en": "Psytrance producer and DJ on Nano Records, known for “Hall of Fame” (with Mad Maxx) and “We Are Psychedelic” (with Tristan). He has played Ozora Festival several times."
+  },
+  "sets": [
+   {
+    "t": "Avalon Live at Ozora Festival 2022 (Full Set)",
+    "u": "https://soundcloud.com/avalon/avalon-live-at-ozora-festival-2022-full-set"
+   },
+   {
+    "t": "Avalon Live at Ozora Festival 2017 (2h Opening Set)",
+    "u": "https://soundcloud.com/avalon/avalon-live-at-ozora-festival-2017-2hr-opening-set"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/avalon"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "setsChecked": "2026-11-03"
+ },
+ "Tristan": {
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "genres": [
+   "Psytrance"
+  ],
+  "labels": [
+   "Nano Records"
+  ],
+  "bio": {
+   "de": "Britischer Psytrance-Produzent und DJ auf Nano Records („Psytrance Family“, „Time and Space“, „The Tristan Collection“), oft gemeinsam mit Avalon („We Are Psychedelic“).",
+   "en": "British psytrance producer and DJ on Nano Records (“Psytrance Family”, “Time and Space”, “The Tristan Collection”), often working with Avalon (“We Are Psychedelic”)."
+  },
+  "sets": [
+   {
+    "t": "The Tristan Collection mixed by Tristan (Nano Records)",
+    "u": "https://soundcloud.com/nano-records/the-tristan-collection-mixed-by-tristan"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/nano-records/the-tristan-collection-mixed-by-tristan"
+  ],
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-03",
+  "noLinks": "2026-11-03",
+  "setsChecked": "2026-11-03"
  }
 };
 
