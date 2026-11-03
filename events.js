@@ -6973,7 +6973,31 @@ const AR={
  "Norg3n": {
   "noLinks": "2026-11-02",
   "noImg": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "img": "https://norg3n.pages.dev/images/norg3n-artist.jpg",
+  "from": {
+   "de": "Wien (geboren in Budapest)",
+   "en": "Vienna (born in Budapest)"
+  },
+  "real": "Viktor Szabo",
+  "links": {
+   "sc": "https://soundcloud.com/norg3n",
+   "ig": "https://www.instagram.com/norg3n",
+   "sp": "https://open.spotify.com/artist/2fdec4yb8bncoxhiodmNGa",
+   "web": "https://norg3n.pages.dev/"
+  },
+  "bio": {
+   "de": "NORG3N ist ein in Budapest geborener, in Wien lebender DJ und Produzent. Als DJ spielt er Psytrance, Bounce und Techno, im Studio produziert und mischt er Trap, Hip-Hop, Psy, Trance und elektronische Musik. Er besuchte die DJ Sound Academy und spielte u. a. Sets im BassBunker und im Loft.",
+   "en": "NORG3N is a Budapest-born DJ and producer based in Vienna. As a DJ he plays psytrance, bounce and techno; in the studio he produces and mixes trap, hip-hop, psy, trance and electronic music. He attended the DJ Sound Academy and has played sets at BassBunker and The Loft, among others."
+  },
+  "genres": [
+   "Techno",
+   "Psytrance",
+   "Bounce"
+  ],
+  "src": [
+   "https://norg3n.pages.dev/"
+  ]
  },
  "Peter Pan": {
   "links": {
@@ -7371,7 +7395,7 @@ const AR={
    "https://soundcloud.com/pinkmayhem/mel-b2b-hello-kiffy-set-recording-2401",
    "https://soundcloud.com/radiorudina/almost-pinkcast-mel-b2b-pinklotion-b2b-bludhound?in=user-zlmss%2Fsets%2Fink-mayhem"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "sets": [
    {
     "t": "HELLO KIFFY [SET RECORDING ROSAROT 8.8]",
@@ -7382,7 +7406,14 @@ const AR={
     "u": "https://soundcloud.com/pinkmayhem/mel-b2b-hello-kiffy-set-recording-2401"
    }
   ],
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "bio": {
+   "de": "Hello Kiffy ist ein DJ-Act aus dem Umfeld der Wiener Hardtechno-Reihe Pink Mayhem, auf deren SoundCloud Set-Aufnahmen erscheinen, etwa von „Rosarot“ und b2b mit Mel. In Wien gibt es Auftritte u. a. bei Pink Mayhem im FLUCC und bei der GDN Klubnacht im Werk.",
+   "en": "Hello Kiffy is a DJ act from the circle of the Vienna hard techno series Pink Mayhem, whose SoundCloud features set recordings, e.g. from 'Rosarot' and b2b with Mel. Vienna appearances include Pink Mayhem at FLUCC and the GDN Klubnacht at Das Werk."
+  },
+  "genres": [
+   "Hardtechno"
+  ]
  },
  "Kristus": {
   "noImg": "2026-11-03",
@@ -12305,12 +12336,12 @@ const AR={
   ],
   "sets": [
    {
-    "t": "Cosmic Convergence Festival 2019 - 2020 (Main Stage) New Years Session @Guatemala",
-    "u": "https://soundcloud.com/entheon/cosmic-convergence-festival-2019-2020"
-   },
-   {
     "t": "Fischmehl B2B Entheon - Sunrice Festival 2022",
     "u": "https://soundcloud.com/fischmehl/sunrice2022"
+   },
+   {
+    "t": "Cosmic Convergence Festival 2019 - 2020 (Main Stage) New Years Session @Guatemala",
+    "u": "https://soundcloud.com/entheon/cosmic-convergence-festival-2019-2020"
    },
    {
     "t": "Ibidelyc & Friends 22 - Entheon (Hunab Ku Records)",
@@ -13089,8 +13120,12 @@ const AR={
   "src": [
    "https://soundcloud.com/adhs_lene"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "noImg": "2026-11-02",
+  "bio": {
+   "de": "ADHS Lene ist eine DJ, die in Wien u. a. bei Sniffin´ Glue im FLUCC und bei Invitation im Celeste auflegt. 2020 war sie Gast der Sendung Welia auf Retreat Radio.",
+   "en": "ADHS Lene is a DJ who plays in Vienna at Sniffin´ Glue at FLUCC and Invitation at Celeste, among others. In 2020 she was a guest on the show Welia on Retreat Radio."
+  }
  },
  "Andre Zimmer": {
   "img": "https://static.ra.co/images/profiles/square/andrezimmer.jpg?dateUpdated=1786040801473",
@@ -13934,9 +13969,30 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "Lilosh": {
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "noLinks": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/liloshh"
+  },
+  "bio": {
+   "de": "Lilosh ist ein House-DJ-Act, der u. a. im Rahmen von Live at Robert Johnson x Radio 80000 ein Set im Robert Johnson in Offenbach aufgenommen hat. In Wien spielt Lilosh beim HOUSETIERE × VG+ Weekender im Tagada.",
+   "en": "Lilosh is a house DJ act who has recorded a set at Robert Johnson in Offenbach as part of Live at Robert Johnson x Radio 80000, among others. In Vienna, Lilosh plays the HOUSETIERE × VG+ Weekender at Tagada."
+  },
+  "genres": [
+   "House"
+  ],
+  "sets": [
+   {
+    "t": "Live at Robert Johnson x Radio80000 - Lilosh",
+    "u": "https://soundcloud.com/live-at-robert-johnson/live-at-robert-johnson-x-radio-80k-lilosh"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/liloshh",
+   "https://soundcloud.com/live-at-robert-johnson/live-at-robert-johnson-x-radio-80k-lilosh"
+  ]
  },
  "Louk": {
   "infoChk": "2026-11-03",
@@ -15993,9 +16049,37 @@ const AR={
   "noLinks": "2026-11-02"
  },
  "MESROD": {
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "noLinks": "2026-11-02",
+  "links": {
+   "sc": "https://soundcloud.com/mesrodetavner"
+  },
+  "alias": [
+   "Mesrød"
+  ],
+  "bio": {
+   "de": "MESROD (auch Mesrød) ist ein House-DJ, der u. a. einen Podcast für das Kollektiv La Graine aufgenommen und in Marseille im Baby Club gespielt hat. Beim HOUSETIERE × VG+ Weekender im Tagada gibt er sein Wien-Debüt.",
+   "en": "MESROD (also Mesrød) is a house DJ who has recorded a podcast for the La Graine collective and played Baby Club in Marseille, among others. He makes his Vienna debut at the HOUSETIERE × VG+ Weekender at Tagada."
+  },
+  "genres": [
+   "House"
+  ],
+  "sets": [
+   {
+    "t": "Podcast - 028 - Mesrod (La Graine)",
+    "u": "https://soundcloud.com/lagrainecollectif/podcast-028-mesrod"
+   },
+   {
+    "t": "Mesrod & Odeon @ Quarry#1 (Shotgun)",
+    "u": "https://soundcloud.com/shotgunrec/6-mesrod-odeon"
+   }
+  ],
+  "setsChecked": "2026-11-03",
+  "src": [
+   "https://soundcloud.com/mesrodetavner",
+   "https://ra.co/events/1218351"
+  ]
  },
  "DJ Raff": {
   "img": "https://static.ra.co/images/profiles/square/djraff.jpg?dateUpdated=1788865830440",
