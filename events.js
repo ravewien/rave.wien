@@ -15232,6 +15232,10 @@ const AR={
 };
 
 const VG={
+ "Porto Pollo": [
+  48.2308,
+  16.4059
+ ],
  "Event Arena Vösendorf": [
   48.123,
   16.33
