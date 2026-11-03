@@ -1,0 +1,41 @@
+# Veranstalter – Liste v05 (40). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>Events bei uns (Kontext)
+Groove Operators	neu	-	2026-05-13 Club Lucia – Baile de Groove Operators | 2026-01-22 SASS Music Club – Groove Operators | 2025-12-20 Club Lucia – Aftii pres. GROOVEMAS with Groove Operators x Spätschicht | … insgesamt 4 Events
+Dance 2 House	neu	-	2026-05-06 PRST – DANCE 2 HOUSE | 2026-04-29 PRST – DANCE 2 HOUSE | 2026-04-22 PRST – DANCE 2 HOUSE | … insgesamt 4 Events
+Acid Lambada	neu	-	2025-09-18 SASS Music Club – Acid Lambada | 2025-04-04 FLUCC – Acid Lambada invites Sam Irl & Patrick Pulsinger (live) | 2025-02-14 FLUCC – Acid Lambada invites Yanther | … insgesamt 4 Events
+Festklub	neu	-	2025-09-05 Grelle Forelle – festklub invites Ben UFO | 2025-07-04 Grelle Forelle – festklub invites Carlos Willengton & Deborah Aime La Bagarre | 2025-02-09 Grelle Forelle – Festklub pres. TAGSÜBER w/ Ryan Elliott | … insgesamt 4 Events
+Oxygene	neu	-	2025-08-01 FLUCC – Oxygene | 2025-05-02 SASS Music Club – Oxygene x Just Kidding | 2024-11-01 FLUCC – Oxygene | … insgesamt 4 Events
+Zorro Azul	neu	-	2025-04-26 PRST – Zorro Azul X PRST | 2025-01-23 PRST – Zorro Azul X PRST | 2024-12-05 PRST – Zorro Azul x PRST Krampus Special | … insgesamt 4 Events
+Multicolor	neu	-	2024-11-15 Pratersauna – MULTICOLOR x REFRESHED with Mr. Belt & Wezol | 2024-10-25 Pratersauna – MULTICOLOR SPEZIAL with Themba [SA] | 2024-07-26 Pratersauna – MULTICOLOR Spezial | Dan Shake x Unknwn | … insgesamt 4 Events
+Auf der Lauer	text,links	2026-10-31	2026-10-31 TBA – Halloween auf der Lauer | 2026-09-25 PRST – AUF DER LAUER | 2026-02-27 PRST – AUF DER LAUER
+Out of Space	neu	-	2026-10-22 Weberknecht – OUT OF SPACE | 2026-06-11 Weberknecht – Out of Space GOA | 2025-10-23 Weberknecht – Out of Space
+LOOP	neu	-	2026-10-10 FLUCC – LOOP 2026 – Maximum Rave since 1993 | 2025-10-25 FLUCC – LOOP 2025 | 2024-11-23 FLUCC – LOOP 2024 @flucc deck
+[kju:t]	neu	-	2026-10-09 Tagada – [kju:t] | 2026-05-09 Tagada – Between Us x [kju:t] | 2026-02-20 Tagada – [kju:t]
+Exposed	neu	-	2026-10-02 Tagada – EXPOSED | 2026-06-26 Tagada – EXPOSED | 2026-03-19 Tagada – EXPOSED
+Discordia	neu	-	2026-09-05 Club Lucia – DISCORDIA | 2026-01-30 Tagada – Discordia | 2025-11-14 Tagada – DISCORDIA
+Rhythmic Playground	neu	-	2026-08-28 SASS Music Club – Rhythmic Playground | 2026-01-08 SASS Music Club – Rhythmic Playground | 2025-07-03 SASS Music Club – Rhythmic Playground
+Danza Obscura	neu	-	2026-08-14 SASS Music Club – Danza Obscura | 2026-07-24 SASS Music Club – Danza Obscura | 2025-04-26 SASS Music Club – DANZA OBSCURA
+Vertigo	neu	-	2026-08-01 SASS Music Club – vertigo | 2026-04-03 SASS Music Club – vertigo | 2026-02-21 SASS Music Club – vertigo
+fm.einfamilienhaus	neu	-	2026-07-02 SASS Music Club – FM.EINFAMILIENHAUS – der radio | 2025-11-27 SASS Music Club – fm.einfamilienhaus | 2025-08-07 SASS Music Club – fm.einfamilienhaus
+Hypertrash	text,links,logo	-	2026-06-13 FLUCC – HYPERTRASH x Schere3000 Pride Night Special with Himera & Bl | 2026-05-15 Celeste – 3 YEARS OF HYPERTRASH | 2026-01-31 FLUCC – HYPERTRASH loud, queer & annoying
+Polyamor	neu	-	2026-04-24 Grelle Forelle – Polyamor pres. Mika Heggemann All Night Long Tour | 2025-06-18 Grelle Forelle – Polyamor Vienna | 2024-09-28 Grelle Forelle – Tattu Tatta Glub & Polyamor
+Spätschicht	neu	-	2026-04-11 Club Lucia – TANZ IN DEN FRÜHLING – TDS X SPÄTSCHICHT | 2025-12-20 Club Lucia – Aftii pres. GROOVEMAS with Groove Operators x Spätschicht | 2025-11-15 Club Lucia – SPÄTSCHICHT INVITES
+Hot & Flirty	neu	-	2026-04-03 FLUCC – HOT&FLIRTY pt. 4 | 2025-12-20 FLUCC – HOT&FLIRTY pt. 3 | 2025-08-16 FLUCC – HOT&FLIRTY pt. 2
+Spectrum	neu	-	2026-02-21 FLUCC – Spectrum with Dj Schnake | 2025-12-26 Das Werk – Decibell(e)s X Spectrum | 2025-08-09 FLUCC – Spectrum w/ Bass Temp
+In Love	neu	-	2026-01-31 PRST – IN LOVE x SOUND SOUND | 2025-08-16 PRST – IN LOVE | XOXO REC. & SOUNDLABS & WITHTHELOVE | 2025-07-19 PRST – IN LOVE / XOXO REC. YN RAVES, COSA CONSTANCE, Rave on Societ
+Club Fatale	neu	-	2025-12-06 SASS Music Club – club fatale invites cosmic motion | 2025-10-10 SASS Music Club – club fatale w. rasho | 2025-05-23 SASS Music Club – cafe & club fatale
+Superstate	neu	-	2025-11-28 SASS Music Club – Superstate | 2025-09-19 SASS Music Club – SuperAmore w/Eliza | 2025-06-06 SASS Music Club – Superstate W/ Almedina
+Volta	neu	-	2025-10-17 Pratersauna – Volta invites ELIF | 2025-08-30 Pratersauna – VOLTA with People Science invites DEA | 2025-05-03 Pratersauna – Volta
+Analogique	neu	-	2025-10-16 SASS Music Club – Analogique | 2025-01-05 FLUCC – Disskorienta x Analogique x Soundbüglerei | 2024-11-15 Celeste – Analogique x Soundbüglerei x hwtk
+High Steppin	neu	-	2025-06-26 PRST – High Steppin | 2025-04-05 PRST – High Steppin | 2025-03-15 PRST – HIGH STEPPIN‘ invites Art of Tones
+Just Kidding	neu	-	2025-05-02 SASS Music Club – Oxygene x Just Kidding | 2024-12-13 PRST – Just Kidding | 2024-06-21 PRST – Just Kidding
+Playdate	neu	-	2025-05-02 PRST – Playdate: MAYDATE with Bailey Ibbs | 2024-11-01 PRST – PLAYDATE: 111 Special | 2024-09-26 PRST – Playdate: Launch Party
+MinimaL	neu	-	2025-05-01 PRST – MinimaL | 2025-02-13 PRST – MinimaL | 2025-01-09 PRST – MinimaL at Praterstrasse
+Perspective	neu	-	2024-11-29 Pratersauna – PERSPECTIVE with Mandidextrous [UK] | 2024-10-18 Pratersauna – Perspective Festival Day 1 | 2024-02-16 Pratersauna – PERSPECTIVE w/ FRICTION [UK]
+KSOT	links	2026-10-31	2026-10-31 Ottakringer Brauerei – KSOT – Halloween Warehouse Rave | 2026-10-31 Hofburg Vienna – Bloody Masquerade – Halloween × Hofburg Vienna
+Kinky Galore	links,logo	-	2026-10-17 Club Exil – KINKY GALORE by jan.ehret WIEN | 2025-11-01 Club Exil – KINKY GALORE Wien
+Ritual	neu	-	2026-10-02 Club Exil – RITUAL II with Felicie, Phara, Truncate, Uncertain | 2026-06-12 Club Exil – RITUAL – opening ceremony with Yanamaste
+Meier	neu	-	2026-09-18 PRST – MEIER | 2026-03-27 PRST – MEIER W/ DJ DEEP
+Techno.Kult	neu	-	2026-09-18 Grelle Forelle – Fish Market w/LACCHESI: Techno.Kult Kitchen Hosting | 2026-08-07 Grelle Forelle – Techno.Kult x Grelle Forelle Clubnight – Kitchen Hosting
+Klanggerecht	neu	-	2026-08-21 Club Lucia – Klanggerecht presents: TANZINSTANZ | 2026-06-20 FLUCC – KLANGGERECHT X SHAMELESS feat. Fab Massimo
+Bassic Instinct	neu	-	2026-08-01 Club Lucia – BASSIC INSTINCT – Old School DnB & Jungle | 2026-03-21 Club Lucia – BASSIC INSTINCT PRES. DKAY & Paul SG
+Wyldhearts	neu	-	2026-07-11 Grelle Forelle – Trance & Bounce in der Grellen Forelle /w Wyldhearts Germany | 2025-11-29 Grelle Forelle – NEXUS X WYLDHEARTS

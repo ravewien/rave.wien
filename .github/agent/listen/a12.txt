@@ -1,0 +1,51 @@
+# Artists – Liste a12 (50). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+2bihonest	img,links,bio,from	2026-10-31	2026-10-31 Celeste (Ravenbogen) – Halloqueer
+Sarah Dæwie	img,links,bio,from	2026-10-31	2026-10-31 Celeste (Ravenbogen) – Halloqueer
+Jade Anima	img,links,bio,from	2026-10-31	2026-10-31 Celeste (Ravenbogen) – Halloqueer
+Burr Oak	bio,from	2026-10-31	2026-10-31 Lugner City (KØRE) – KØRE Halloween Rave 2026
+OKO	img,bio,from	2026-10-31	2026-10-31 Lugner City (KØRE) – KØRE Halloween Rave 2026
+Drum Dad & Bass Boy	from	2026-10-31	2026-10-31 Lugner City (KØRE) – KØRE Halloween Rave 2026
+Kaama	img,bio,from	2026-10-31	2026-10-31 Lugner City (KØRE) – KØRE Halloween Rave 2026
+Didz	img,bio,from	2026-10-31	2026-10-31 Lugner City (KØRE) – KØRE Halloween Rave 2026
+Mina	img,links,bio,from	2026-10-31	2026-10-31 Lugner City (KØRE) – KØRE Halloween Rave 2026
+Puppy Devil	img,bio,from	2026-10-31	2026-10-31 Lugner City (KØRE) – KØRE Halloween Rave 2026
+Dennes Deen	img,bio,from	2026-10-31	2026-10-31 M1 Club (ClassiX) – ClassiX – Halloween Madness
+Tom Silver	img,links,bio,from	2026-10-31	2026-10-31 M1 Club (ClassiX) – ClassiX – Halloween Madness
+Sdricci	img,links,bio,from	2026-10-31	2026-10-31 M1 Club (ClassiX) – ClassiX – Halloween Madness
+Adelic	img,links,bio,from	2026-10-31	2026-10-31 M1 Club (ClassiX) – ClassiX – Halloween Madness
+Duracell	img,links	2026-10-31	2026-10-31 M1 Club (ClassiX) – ClassiX – Halloween Madness
+PATRIK HOUR	img,links,bio,from	2026-10-31	2026-10-31 Otto Wagner Areal (Tasteless) – Tasteless 3 Yrs Anniversary – Halloween Special
+j.around	img,links,bio,from	2026-10-31	2026-10-31 TBA (Auf der Lauer) – Halloween auf der Lauer
+Lenz Rausch	img,links,bio,from	2026-10-31	2026-10-31 TBA (Auf der Lauer) – Halloween auf der Lauer
+C12	img,links,bio,from	2026-10-31	2026-10-31 TBA (Auf der Lauer) – Halloween auf der Lauer
+Floer Klamauk	img,links,bio,from	2026-10-31	2026-10-31 TBA (Auf der Lauer) – Halloween auf der Lauer
+Stalinsky	img,links,bio,from	2026-10-31	2026-10-31 TBA (Auf der Lauer) – Halloween auf der Lauer
+The Dark Horror	img,from	2026-10-31	2026-10-31 Event Arena Vösendorf (Hardline) – HARDLINE: Purge Night – A Halloween Special
+The Straikerz	from	2026-10-31	2026-10-31 Event Arena Vösendorf (Hardline) – HARDLINE: Purge Night – A Halloween Special
+Outlined	img,bio,from	2026-10-31	2026-10-31 Event Arena Vösendorf (Hardline) – HARDLINE: Purge Night – A Halloween Special
+Pinotello	img,bio,from	2026-10-31	2026-10-31 Event Arena Vösendorf (Hardline) – HARDLINE: Purge Night – A Halloween Special
+Poley Tight	img,bio,from	2026-10-31	2026-10-31 Event Arena Vösendorf (Hardline) – HARDLINE: Purge Night – A Halloween Special
+Schlot	img,bio,from	2026-10-31	2026-10-31 Event Arena Vösendorf (Hardline) – HARDLINE: Purge Night – A Halloween Special
+Sonic Warfare	img,links,bio,from	2026-10-31	2026-10-31 Event Arena Vösendorf (Hardline) – HARDLINE: Purge Night – A Halloween Special
+Another Dimension	img,links,bio,from	2026-10-31	2026-10-31 Event Arena Vösendorf (Hardline) – HARDLINE: Purge Night – A Halloween Special
+Emkatress	img,links,bio,from	2026-10-31	2026-10-31 Event Arena Vösendorf (Hardline) – HARDLINE: Purge Night – A Halloween Special
+Fractured Souls	img,links,bio,from	2026-10-31	2026-10-31 Event Arena Vösendorf (Hardline) – HARDLINE: Purge Night – A Halloween Special
+Eternal Injustice vs Raw Kickzz	img,links,bio,from	2026-10-31	2026-10-31 Event Arena Vösendorf (Hardline) – HARDLINE: Purge Night – A Halloween Special
+Recovered	img,links,bio,from	2026-10-31	2026-10-31 Event Arena Vösendorf (Hardline) – HARDLINE: Purge Night – A Halloween Special
+Uptempo Babys	img,links,bio,from	2026-10-31	2026-10-31 Event Arena Vösendorf (Hardline) – HARDLINE: Purge Night – A Halloween Special
+Agonize	img,links,bio,from	2026-10-31	2026-10-31 Event Arena Vösendorf (Hardline) – HARDLINE: Purge Night – A Halloween Special
+Burger Kingz	img,links,bio,from	2026-10-31	2026-10-31 Event Arena Vösendorf (Hardline) – HARDLINE: Purge Night – A Halloween Special
+Mark Enigma	img,links,bio,from	2026-10-31	2026-10-31 Event Arena Vösendorf (Hardline) – HARDLINE: Purge Night – A Halloween Special
+Rick C	img,links,bio,from	2026-10-31	2026-10-31 Event Arena Vösendorf (Hardline) – HARDLINE: Purge Night – A Halloween Special
+Cancel	img,links,bio,from	2026-10-31	2026-10-31 Rhiz (Alles Allen) – ALLES ALLEN No Halloween Birthday Bash
+KarmaSutra	img,links,bio,from	2026-10-31	2026-10-31 Rhiz (Alles Allen) – ALLES ALLEN No Halloween Birthday Bash
+Pesca	img,links,bio,from	2026-10-31	2026-10-31 Rhiz (Alles Allen) – ALLES ALLEN No Halloween Birthday Bash
+Lucifer	img,links,bio,from	2026-10-31	2026-10-31 Rhiz (Alles Allen) – ALLES ALLEN No Halloween Birthday Bash
+Frau F	img,links,bio,from	2026-10-31	2026-10-31 Rhiz (Alles Allen) – ALLES ALLEN No Halloween Birthday Bash
+DJ Handgepäck	img,links,bio,from	2026-10-31	2026-10-31 Rhiz (Alles Allen) – ALLES ALLEN No Halloween Birthday Bash
+DJ Streuselkuchen	img,links,bio,from	2026-10-31	2026-10-31 Rhiz (Alles Allen) – ALLES ALLEN No Halloween Birthday Bash
+Martin_Van_Vienna	neu	-	2026-10-30 Wiener Würstelstand Spittelau – Drum&Bass am Würstelstand
+Revax	neu	-	2026-10-30 Wiener Würstelstand Spittelau – Drum&Bass am Würstelstand
+Konrad Kaltenböck	img,links,bio,from	2026-10-28	2026-10-30 Ottakringer Brauerei (hausgemacht) – ZusammenKommen – Süßes oder Sauerei
+Baby Blue	img,links,bio,from	2026-10-28	2026-10-30 Ottakringer Brauerei (hausgemacht) – ZusammenKommen – Süßes oder Sauerei
+Pau:sa	img,links,bio,from	2026-10-28	2026-10-30 Ottakringer Brauerei (hausgemacht) – ZusammenKommen – Süßes oder Sauerei

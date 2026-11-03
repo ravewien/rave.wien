@@ -1,0 +1,51 @@
+# Artists – Liste a23 (50). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+Dub Ten	neu	-	2025-10-11 Club Lucia (Fuelized) – FUELIZED pres. EMPATHY AUDIO LABEL NIGHT VIENNA w/ DUB TEN, 
+Acris	neu	-	2025-10-11 Club Lucia (Fuelized) – FUELIZED pres. EMPATHY AUDIO LABEL NIGHT VIENNA w/ DUB TEN, 
+rasho	neu	-	2025-10-10 SASS Music Club (Club Fatale) – club fatale w. rasho
+Bennet	neu	-	2025-10-10 PRST (Amore AG) – Amore AG invites Bennet
+Mugli Project	neu	-	2025-10-10 Das Werk (Herzfrequenz) – HERZFREQUENZ presents: MUGLI PROJECT
+Frieden	neu	-	2025-10-05 SASS Music Club (Morgengymnastik, Frieden & Liebe) – Morgengymnastik w/Frieden und Liebe
+Subb-an	neu	-	2025-10-04 PRST (BLUR) – BLUR with Subb-an
+Chet Rubbs	neu	-	2025-09-27 Tagada (Soundbüglerei) – Soundbüglerei with Chet Rubbs, heronymus
+heronymus	neu	-	2025-09-27 Tagada (Soundbüglerei) – Soundbüglerei with Chet Rubbs, heronymus
+Vel	neu	-	2025-09-27 PRST (Redivider) – REDIVIDER pres. Vel
+HNAS	neu	-	2025-09-26 Das Werk (Nachtschub, GDN) – NACHTSCHUB with HNAS (DE) presented by GDN
+Perra Inmunda	neu	-	2025-09-25 Tagada – LIVE FROM EARTH pres X CLUB with Vivienna, Perra Inmunda & H
+Hellnah	neu	-	2025-09-25 Tagada – LIVE FROM EARTH pres X CLUB with Vivienna, Perra Inmunda & H
+Shmidoo	neu	-	2025-09-20 FLUCC (Reverse, Soundlabs) – 3 Years of Reverse pres. PRDK & Shmidoo + Resselrave Afterpa
+DICE	neu	-	2025-09-20 Das Werk (Stay Acid) – Stay Acid: 54Hz with DICE
+Eliza	neu	-	2025-09-19 SASS Music Club (Superstate) – SuperAmore w/Eliza
+Krystal Klear	neu	-	2025-09-19 PRST (Red Groove Social Club) – RED GROOVE (Social Club) presents: Krystal Klear
+Youngsta	neu	-	2025-09-19 FLUCC (Basstrace) – Basstrace with Youngsta, WZ & SUGAR SLIP – hosted by SGT POK
+WZ	neu	-	2025-09-19 FLUCC (Basstrace) – Basstrace with Youngsta, WZ & SUGAR SLIP – hosted by SGT POK
+Martial Canterel	neu	-	2025-09-19 FLUCC – Sniffin Glue I Martial Canterel (live), EYE (live)
+EYE	neu	-	2025-09-19 FLUCC – Sniffin Glue I Martial Canterel (live), EYE (live)
+Estella Boersma	neu	-	2025-09-12 Grelle Forelle (Zuckerwatt) – ZUCKERWATT w/ ESTELLA BOERSMA
+Ashida Park	neu	-	2025-09-12 FLUCC – Ashida Park & friends Vienna Fundraiser
+SaltySis	neu	-	2025-09-12 Das Werk (Herzfrequenz) – HERZFREQUENZ presents: SaltySis & VAENT
+Vaent	neu	-	2025-09-12 Das Werk (Herzfrequenz) – HERZFREQUENZ presents: SaltySis & VAENT
+Cloud 909	neu	-	2025-09-12 Club Lucia – Reverie presents: Cloud 909
+CI_RED	neu	-	2025-09-06 Grelle Forelle (Impulse) – IMPULSE and FRIENDS, VOL. 2
+JO Trauner	neu	-	2025-09-06 Grelle Forelle (Impulse) – IMPULSE and FRIENDS, VOL. 2
+Matthew	neu	-	2025-09-06 Grelle Forelle (Impulse) – IMPULSE and FRIENDS, VOL. 2
+Majsko	neu	-	2025-09-06 Grelle Forelle (Impulse) – IMPULSE and FRIENDS, VOL. 2
+Audio Werner	neu	-	2025-09-05 SASS Music Club – mints w. audio werner
+Ben UFO	neu	-	2025-09-05 Grelle Forelle (Festklub) – festklub invites Ben UFO
+Atzendent	neu	-	2025-09-05 Club Lucia – AtzenPardy3000 with ATZENDENT & DJ RUNDFUNK
+DJ Rundfunk	neu	-	2025-09-05 Club Lucia – AtzenPardy3000 with ATZENDENT & DJ RUNDFUNK
+DEA	neu	-	2025-08-30 Pratersauna (Volta) – VOLTA with People Science invites DEA
+Rich NxT	neu	-	2025-08-30 PRST (BLUR) – BLUR with Rich NxT
+Lto	neu	-	2025-08-29 Kramladen (deep cut) – deep cut 14 w Lto, pezel, urna()sonic – hypnotic & deep Tech
+urna()sonic – hypnotic	neu	-	2025-08-29 Kramladen (deep cut) – deep cut 14 w Lto, pezel, urna()sonic – hypnotic & deep Tech
+deep Techno	neu	-	2025-08-29 Kramladen (deep cut) – deep cut 14 w Lto, pezel, urna()sonic – hypnotic & deep Tech
+Yant	neu	-	2025-08-23 Grelle Forelle (Below the Surface) – BELOW THE SURFACE with Yant & GEISTFREI
+Geistfrei	neu	-	2025-08-23 Grelle Forelle (Below the Surface) – BELOW THE SURFACE with Yant & GEISTFREI
+Philipp Gauf	neu	-	2025-08-23 Grelle Forelle – ELEKTRA
+schlennert	neu	-	2025-08-23 Grelle Forelle – ELEKTRA
+Iudex	neu	-	2025-08-23 Grelle Forelle – ELEKTRA
+Nat Wendell	neu	-	2025-08-22 PRST – RUMI INVITES…w/ NAT WENDELL (UK) & CJ Bambi (Service, Vienna
+CJ Bambi (Service	neu	-	2025-08-22 PRST – RUMI INVITES…w/ NAT WENDELL (UK) & CJ Bambi (Service, Vienna
+Vienna)	neu	-	2025-08-22 PRST – RUMI INVITES…w/ NAT WENDELL (UK) & CJ Bambi (Service, Vienna
+Benwal	neu	-	2025-08-22 Grelle Forelle (TURBO, NEXUS) – TURBO X NEXUS Feat. Benwal
+Batschu	neu	-	2025-08-16 Grelle Forelle – Batschu & Friends
+Cherry & Beats	neu	-	2025-08-14 Grelle Forelle – Sommernachtstraum 2025

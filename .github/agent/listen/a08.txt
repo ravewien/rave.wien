@@ -1,0 +1,51 @@
+# Artists – Liste a08 (50). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+meet.franka	neu	-	2026-04-05 Grelle Forelle – KEIN SONNTAG OHNE TECHNO | Season Opening | 2025-10-18 PRST (Red Groove Social Club) – RED GROOVE (Social Club) with Aaron, It’s George, Meet Frank | 2025-08-14 Grelle Forelle – Sommernachtstraum 2025
+Rosa Rosen	neu	-	2026-04-05 Grelle Forelle – KEIN SONNTAG OHNE TECHNO | Season Opening | 2025-11-15 Pratersauna (Praternostra) – PRATERNOSTRA invites Tommahawk & Rosa Rosen | 2025-05-02 Grelle Forelle (PUSH) – PUSH x Grelle Forelle
+Phace	neu	-	2026-03-21 Grelle Forelle (Contrast) – CONTRAST pres. NEOSIGNAL w/ PHACE + MISANTHROP + ROCKWELL +  | 2025-02-21 Grelle Forelle (Contrast) – CONTRAST – X – 10 YRS at GRELLE FORELLE | 2024-04-20 Grelle Forelle (Contrast) – CONTRAST pres. NEOSIGNAL w/ PHACE + MISANTHROP + ANNIX + ROC
+Misanthrop	neu	-	2026-03-21 Grelle Forelle (Contrast) – CONTRAST pres. NEOSIGNAL w/ PHACE + MISANTHROP + ROCKWELL +  | 2025-02-21 Grelle Forelle (Contrast) – CONTRAST – X – 10 YRS at GRELLE FORELLE | 2024-04-20 Grelle Forelle (Contrast) – CONTRAST pres. NEOSIGNAL w/ PHACE + MISANTHROP + ANNIX + ROC
+Rockwell	neu	-	2026-03-21 Grelle Forelle (Contrast) – CONTRAST pres. NEOSIGNAL w/ PHACE + MISANTHROP + ROCKWELL +  | 2025-02-21 Grelle Forelle (Contrast) – CONTRAST – X – 10 YRS at GRELLE FORELLE | 2024-04-20 Grelle Forelle (Contrast) – CONTRAST pres. NEOSIGNAL w/ PHACE + MISANTHROP + ANNIX + ROC
+Oliver Rottmann	neu	-	2026-03-06 B72 (Heimlich) – Heimliche Frühlingsgefühle | 2026-01-18 FLUCC (Garten von Eben) – Garten von Eben pres. Traumtempo x Oliver Rottmann | 2024-11-09 FLUCC (Im Freudentaumel) – Just Emma im Freudentaumel w/ Oliver Rottmann & Kollektiv Sh
+Visages	neu	-	2026-02-21 Grelle Forelle (Contrast) – CONTRAST – 11 YRS ANNIVERSARY w/ SKEPTICAL + VISAGES + SUBMA | 2025-03-15 Grelle Forelle (Contrast) – CONTRAST pres. 1985 MUSIC w/ SKEPTICAL + VISAGES + MONTY + C | 2024-07-27 Grelle Forelle (Contrast) – CONTRAST pres. 1985 MUSIC w/ ALIX PEREZ + VISAGES + CESCO | 
+Wolfram	neu	-	2026-02-06 PRST – DISCO BALL W/ WOLFRAM | 2025-12-13 Grelle Forelle – Grelle Forelle XMAS | Wolfram | 2024-10-31 Grelle Forelle – Wolfram | Halloween
+Johannes Schuster	neu	-	2026-01-10 Grelle Forelle (Impulse) – Johannes Schuster: ALL NIGHT LONG // IMPULSE // Grelle Forel | 2024-11-02 Grelle Forelle (Impulse) – Johannes Schuster All Night Long | IMPULSE | 2024-08-17 Grelle Forelle (Impulse) – Rikhter LIVE & Johannes Schuster | IMPULSE
+Aida Arko	neu	-	2025-12-31 Grelle Forelle – 2025 | Grelle Forelle NYE | 2025-04-25 Grelle Forelle (TURBO) – Cera Khin & Aida Arko | TURBO | 2024-12-31 Grelle Forelle – 2025 | Grelle Forelle NYE
+Emperor	neu	-	2025-12-07 Grelle Forelle (Contrast) – CONTRAST pres. EMPEROR + QZB + SMG | 18+ | 2025-05-17 Grelle Forelle (Contrast) – CONTRAST pres. BREAK + HALOGENIX + EMPEROR | 18+ | 2024-11-01 Grelle Forelle (Contrast) – CONTRAST pres. THE UPBEATS + EMPEROR + POSIJ + ROHAAN | 18+
+Franjazzco	neu	-	2025-12-05 Grelle Forelle – 14 YRS Grelle Forelle | 2024-12-06 Grelle Forelle – 13 YRS Grelle Forelle | 2024-08-17 Celeste – Agape Pizza w/ CJ Bambi, Franjazzco, Moska
+Mischa Beton	neu	-	2025-05-02 Grelle Forelle (PUSH) – PUSH x Grelle Forelle | 2025-03-14 Grelle Forelle (Fish Market) – FISH MARKET w/ JakoJako, Gerald VDH, Mischa Beton, u.v.m. | 2024-12-20 Grelle Forelle (Fish Market) – FISH MARKET w/ Cleric (Clergy, UK), Specific Objects, Gerald
+Vich Mind	neu	-	2025-05-02 Grelle Forelle (PUSH) – PUSH x Grelle Forelle | 2024-10-18 Grelle Forelle (Fish Market) – FISH MARKET w/ Black Mirror Park, Gerald VDH, Vich Mind, etc | 2024-06-07 Grelle Forelle – Free Friday
+KTK	neu	-	2025-04-25 PRST (Misguided) – 1YR MISGUIDED with STEYA, Marcel Fengler, KTK & DLV | 2024-10-12 Grelle Forelle (Acid Techno Techno Club) – 6 YRS ACID TECHNO TECHNO CLUB w/ REGAL, KTK & DLV | 2024-03-30 Grelle Forelle (Misguided) – Misguided Label Launch w/ Obscure Shape, Ruiz OSC1, KTK & DL
+Frau Hofmann	neu	-	2024-07-13 Grelle Forelle (Flashback, Club Pompadour) – FLASHBACK Techno Classics & Pompadour @ Grelle Forelle | 2024-05-03 Grelle Forelle (Duality) – Duality X Demolate | 2024-03-09 Grelle Forelle – (K)eine Hexerei – ein Festakt von und für Göttinnen*
+Leon Diamant	img,links,bio,from	2026-10-31	2026-11-01 SASS Music Club (Connecting People) – Morgengymnastik × Connecting People | 2025-10-30 SASS Music Club – Connections w/ Leon Diamant, Toni Stark
+Findus	img,links,bio,from	2026-10-31	2026-11-01 FLUCC (Spumante Records, Callshop Radio) – FLUT x Callshop Radio – Week 44 | 2026-10-23 Semmelweisklinik – OPEN DECKS NIGHT
+Stefanie Brida	img,links,bio,from	2026-10-31	2026-10-31 Club Lucia – Homesounds – Local FLINTA for local homeless | 2026-10-31 Club Lucia – Homesounds – Local FLINTA for local homeless
+Luca	img,links,bio,from	2026-10-31	2026-10-31 PRST – Halloween at PRST w/ Camion Bazar & Franziska Berns | 2026-10-31 Otto Wagner Areal (Tasteless) – Tasteless 3 Yrs Anniversary – Halloween Special
+PRDK	img,links,bio,from	2026-10-31	2026-10-31 Flex (The Hive, Collapse) – The Hive x Collapse – Face Off Halloween Special | 2025-09-20 FLUCC (Reverse, Soundlabs) – 3 Years of Reverse pres. PRDK & Shmidoo + Resselrave Afterpa
+Gehlektek	img,links,bio,from	2026-10-31	2026-10-31 FLUCC – Halloween Rave | 2024-09-07 FLUCC (SIN, Überdruck) – SIN x Überdruck Soundsystem w/ GehLekTek, Blazin' Bomzai, Ti
+Cheddar Boyz	img,links,bio,from	2026-10-31	2026-10-31 FLUCC – Halloween Rave | 2025-05-30 Grelle Forelle (Psytrance Universe) – Psytrance Universe – Neon Dimensions @ Grelle Forelle
+Miss Undertaker	img,links,bio,from	2026-10-31	2026-10-31 FLUCC – Halloween Rave | 2026-10-24 FLUCC (Tohuwabohu) – Tohuwabohu Technoid Edition
+Max Kernmayer	bio,from	-	2026-10-30 Ottakringer Brauerei (hausgemacht) – ZusammenKommen – Süßes oder Sauerei | 2025-08-22 SASS Music Club (Deep Dive) – DEEP DIVE W/ MAX KERNMAYER
+Ele Luz	bio,from	-	2026-10-30 Ottakringer Brauerei (hausgemacht) – ZusammenKommen – Süßes oder Sauerei | 2026-10-02 FLUCC (Art Attech) – ART ATTECH Special Edition #15
+MA!A	img,links,bio,from	2026-10-28	2026-10-30 Ottakringer Brauerei (hausgemacht) – ZusammenKommen – Süßes oder Sauerei | 2024-03-09 Grelle Forelle – (K)eine Hexerei – ein Festakt von und für Göttinnen*
+Drahthaus	neu	-	2026-10-30 FLUCC (Tanz oder gar nicht) – Drahthaus Album Release Show x TOGA | 2025-10-04 Pratersauna (Magika) – Salon Magika x CitrusCue x SubWaves with Drahthaus
+Lorenzo Raganzini	bio,from	-	2026-10-30 Club Exil – Kranke Welt: Halloween Kick Off | 2024-10-11 Grelle Forelle (Zuckerwatt) – ZUCKERWATT w/ PAOLO FERRARA b2b LORENZO RAGANZINI
+Artifex	img,links,bio,from	2026-10-28	2026-10-30 FLUCC (Schlachthaus) – SCHLACHTHAUS w/ Toobris | 2026-01-16 Club Lucia (Votiv Session) – votiv session with Artifex, Luko, Steven Savage
+PSMT	bio,from	-	2026-10-30 FLUCC (Schlachthaus) – SCHLACHTHAUS w/ Toobris | 2024-06-07 Grelle Forelle – Free Friday
+Patrick M4SS	bio,from	-	2026-10-30 Das Werk (Schrödingers Groove, FIFI Rave) – Schwerkraft w/ Alex TB, Prakas, Osmos | 2025-09-06 Grelle Forelle (Impulse) – IMPULSE and FRIENDS, VOL. 2
+Purrdition	neu	-	2026-10-24 FLUCC (Tohuwabohu) – Tohuwabohu Technoid Edition | 2024-03-09 Grelle Forelle – (K)eine Hexerei – ein Festakt von und für Göttinnen*
+Dcascallana	neu	-	2026-10-23 FLUCC – Konzept-Techno Experience | 2025-04-11 Kramladen (deep cut) – deep cut w/ Dcascallana & CPR0 – Hypnotic & Deep Techno
+JP Bechamel	neu	-	2026-10-17 FLUCC (A Party Called Jack) – A party called JACK | 2026-08-22 FLUCC (A Party Called Jack) – An R’n’B party called JACK
+DJ Achim Feuervogel	neu	-	2026-10-17 Das Werk (Stay Acid) – Stay Acid presents 54hz with DJ Achim Feuervogel + KLING&KLA | 2026-03-07 Grelle Forelle – Part Time Killer & DJ Achim Feuervogel | Grelle Forelle Club
+Jerm	neu	-	2026-10-16 Grelle Forelle (F*cken Plus) – F*cken Plus w/ Jerm, Gerald VDH, Deadlift, Trash Department | 2024-06-01 Grelle Forelle (Acid Techno Techno Club) – ACID TECHNO TECHNO CLUB w/ FRAZI.ER, JERM & DLV
+Avalon	neu	-	2026-10-16 Club Exil – One Day & Night in Paradise with Avalon & Tristan | 2025-12-12 Pratersauna – Astralunio pres. AVALON & RUGRATS
+Tristan	neu	-	2026-10-16 Club Exil – One Day & Night in Paradise with Avalon & Tristan | 2026-04-11 Weberknecht – TRISTAN IN VIENNA / UK / TRANCE
+T-Mission	neu	-	2026-10-10 SASS Music Club – 3345 pres.: T–MISSION „Tech in da house“ | 2025-06-13 SASS Music Club – 3345 ROOM pres T MISSION release party
+DJ.org	neu	-	2026-10-10 Grelle Forelle (Radio Rudina) – Radio Rudina | 2024-11-23 Grelle Forelle – AFTERMATH Vol. 6
+COBRA	neu	-	2026-10-10 Grelle Forelle (Radio Rudina) – Radio Rudina | 2025-10-18 Grelle Forelle (Contrast) – CONTRAST pres. DE_VERTE w/ IMANU + IVY LAB + SKOFI + COBRA |
+Patrick Pulsinger	neu	-	2026-10-10 FLUCC (LOOP) – LOOP 2026 – Maximum Rave since 1993 | 2025-04-04 FLUCC (Acid Lambada) – Acid Lambada invites Sam Irl & Patrick Pulsinger (live)
+ESCA	neu	-	2026-10-09 Das Werk (Herzfrequenz) – HERZFREQUENZ presents ESCA & LEAH | 2025-02-14 Das Werk (Herzfrequenz) – HERZFREQUENZ: TRANCE EDITION feat. ESCA
+Rødhåd	neu	-	2026-10-09 Club Exil – 5 YEARS EXIL – FREE RAVE with Rødhåd | 2024-03-22 Grelle Forelle (TURBO) – Rødhåd | TURBO
+Toni Stark	neu	-	2026-10-08 SASS Music Club (Cardio Cult) – Cardio Cult with Toni Stark | 2025-10-30 SASS Music Club – Connections w/ Leon Diamant, Toni Stark
+ØTTA	neu	-	2026-10-02 Grelle Forelle (Purradox) – PURRADOX w/ ØTTA, STEYA, PERT | 2024-04-13 Grelle Forelle (Purradox) – PURRADOX w/ Øtta
+Felicie	neu	-	2026-10-02 Club Exil (Ritual) – RITUAL II with Felicie, Phara, Truncate, Uncertain | 2024-05-24 Grelle Forelle (Techno Komet) – TECHNO KOMET invites FELICIE [FR] | Grelle Forelle
+Future.666	neu	-	2026-09-26 Grelle Forelle (YN Collective) – YN x BCCO Club Night | 2024-11-09 Pratersauna – BCCO with Bad Boombox & future.666
+Calyx	neu	-	2026-09-19 Grelle Forelle (Contrast) – CONTRAST pres. CRITICAL w/ CALYX + KASRA + QZB + SEQUENT + S | 2024-06-14 Grelle Forelle (Contrast) – CONTRAST pres. SYMMETRY w/ BREAK + CALYX + DLR | 18+

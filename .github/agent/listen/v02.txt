@@ -1,0 +1,41 @@
+# Veranstalter – Liste v02 (40). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>Events bei uns (Kontext)
+MEIOSISS	links	2026-11-02	2026-11-14 FLUCC – Hot'n'Wet
+Derisch	text,links	2026-11-02	2026-11-14 Kramladen – Derisch
+Superego Records	links	2026-11-02	2026-11-13 Celeste – Superego Records Labelnight + Vantan Record Release
+50 Herz	text,links	2026-11-02	2026-11-13 Kollektiv Kaorle – 50 Herz / Sodomland
+Dark Pressure	links	2026-11-02	2026-11-13 FLUCC – deep cut × Dark Pressure
+Bassclub	text,links	2026-11-02	2026-11-13 The Loft – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Rude Bwoy Embassy	text,links	2026-11-02	2026-11-13 The Loft – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Jah Power Sound	links	2026-11-02	2026-11-13 The Loft – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+TUFF	links	2026-11-02	2026-11-13 Club Exil – TUFF vol. 2
+Green Light Collective	text,links	2026-11-02	2026-11-12 SASS Music Club – Donnerstag Nacht × Green Light Collective
+Gürtelgroove	text	2026-11-02	2026-11-11 Club Lucia – Köstlich x Gürtelgroove
+euphonic records	links	2026-11-02	2026-11-07 U4 – Kyau & Albert (Extended Set)
+Pole Circle	links	2026-11-02	2026-11-07 Libelle – SXXPLICIT Pop-up Club
+Slutlabs	text,links	2026-11-02	2026-11-07 Libelle – SXXPLICIT Pop-up Club
+Tayrona Records	text,links	2026-11-03	2026-11-07 Fanialive Wien – Fanialive & Tayrona Records present DJ Raff
+created-on-earth	text,links	2026-11-02	2026-11-07 Funkhaus – traveling without moving
+Hallraum	links	2026-11-03	2026-11-07 Tagada – Hallraum
+hereandthere	links	2026-10-31	2026-11-07 Secret Location – served invites Harmony Rec. × hereandthere
+303	links	2026-11-02	2026-11-07 Flex – 303 presents Hanzom Label Night
+Fader Friends	text,links	2026-11-02	2026-11-07 Rhiz – Cosmic BirthRave
+Cosmic Egg	text,links	2026-11-02	2026-11-07 Rhiz – Cosmic BirthRave
+Habibi Party	text,links	2026-10-31	2026-11-07 FLUCC – Klub Halal pres. Klub Palestine
+Bestand	text,links	2026-11-02	2026-11-06 FLUCC – up/or with NEXUS (live), k means, SAMI, DJ Fred & zey
+Empyreon	links	2026-11-02	2026-11-06 The Loft – Empyreon – Vol. III
+Kollektiv Birdhouse	links	2026-11-02	2026-11-06 The Loft – Empyreon – Vol. III
+Café Mondo	links	2026-11-02	2026-11-06 Funkhaus – Café Mondo invites Mama Demba
+Fadercult	links	2026-11-02	2026-11-06 Grelle Forelle – Mahlwerk × Fadercult w/ Afem Syko & Lisa Korver
+WOS Soundsystem	text,links	2026-11-02	2026-11-06 SASS Music Club – WOS Soundsystem invites Josefina Tapia
+Kollektiv Ost:West	links	2026-11-02	2026-11-06 PRST – BLUR with E.LINA
+LustMusik	links	2026-11-02	2026-11-06 Loop – 5. Org
+sch:cht	links	2026-11-02	2026-11-05 FLUCC – Party Modern | SCH:CHT
+Morgengymnastik	neu	-	2026-09-27 SASS Music Club – Morgengymnastik | 2026-09-20 SASS Music Club – Morgengymnastik | 2026-09-13 SASS Music Club – Morgengymnastik w/Wonkers | … insgesamt 67 Events
+Red Groove Social Club	neu	-	2026-09-19 PRST – RED GROOVE (Social Club) with TwoSlice | 2026-05-30 PRST – RED GROOVE (Social Club) x HUSH with: AAT, Simon Kidzoo & RE | 2026-04-10 PRST – RED GROOVE (Social Club) presents: Dan Ghenacia & RED GROOVE | … insgesamt 25 Events
+Impulse	neu	-	2026-02-07 Grelle Forelle – VATOZ LOCOZ // IMPULSE // GRELLE FORELLE | 2026-01-10 Grelle Forelle – Johannes Schuster: ALL NIGHT LONG // IMPULSE // Grelle Forel | 2025-12-20 Grelle Forelle – KALTE LIEBE (LIVE) // IMPULSE // GRELLE FORELLE | … insgesamt 25 Events
+Wiener Mischung	neu	-	2026-06-27 Kramladen – Mitmischen by Wiener Mischung | 2026-02-13 Kramladen – Mitmischen by Wiener Mischung w/RUSRUS, ALTHER und nosewise | 2025-09-12 Kramladen – Mitmischen | … insgesamt 19 Events
+TURBO	neu	-	2026-10-23 Grelle Forelle – Sven Väth | TURBO | 2026-06-26 Grelle Forelle – CHLÄR All Night Long | TURBO | 2026-02-27 Grelle Forelle – Patrick Mason | TURBO | … insgesamt 16 Events
+Löwenzahn	neu	-	2026-04-25 Kramladen – LÖWENZAHN | General Techno De-Restoration | 2025-10-18 Kramladen – LÖWENZAHN | General Techno De-Restoration | 2025-06-28 Kramladen – LÖWENZAHN | General Techno De-Restoration | … insgesamt 16 Events
+Achterbahn	links,logo	-	2026-08-28 PRST – FLUFFIG X ACHTERBAHN | 2026-06-06 PRST – Anna Ullrich pres. ACHTERBAHN w ANDATA | 2026-05-16 PRST – Anna Ullrich pres. ACHTERBAHN w DJ YARAK | … insgesamt 15 Events
+Nachtschub	neu	-	2026-06-05 Das Werk – NACHTSCHUB with Leonard Palm & PRYDIE | 2026-05-01 Das Werk – NACHTSCHUB – FLINTA* Edition with MICYVID X IVV.LMTD | 2026-04-03 Das Werk – NACHTSCHUB with dasstudach & Prydie | … insgesamt 15 Events
+Step Forward	neu	-	2026-10-30 Grelle Forelle – Step Forward pres. Shoki | 2026-07-03 Grelle Forelle – Step Forward pres. Partiboi69 | 2026-06-03 PRST – STEP FORWARD PRES. Juicy Romance | … insgesamt 14 Events

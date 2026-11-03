@@ -1,0 +1,51 @@
+# Artists – Liste a03 (50). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+Elasoul	img,bio,from	2026-11-03	2026-11-27 Funkhaus (Firlefunk) – Cafe Disko x Firlefunk
+Station Rose	img	2026-11-02	2026-11-27 PRST (Wien Modern) – Party Modern × PRST: Station Rose
+Konman	img,links,from	2026-11-02	2026-11-27 PRST (Wien Modern) – Party Modern × PRST: Station Rose
+Julia Goldfarb	img,links,bio,from	2026-11-02	2026-11-27 PRST (Wien Modern) – Party Modern × PRST: Station Rose
+Sluzy	img,links,bio,from	2026-11-02	2026-11-27 The Loft (Bassbussi) – Bassbussi Allstars – 3 Years Anniversary
+Leanne	img,links,bio,from	2026-11-02	2026-11-27 The Loft (Bassbussi) – Bassbussi Allstars – 3 Years Anniversary
+Ave Maria	img,links,bio,from	2026-11-02	2026-11-27 The Loft (Bassbussi) – Bassbussi Allstars – 3 Years Anniversary
+Christella	img,links,bio,from	2026-11-02	2026-11-27 The Loft (Bassbussi) – Bassbussi Allstars – 3 Years Anniversary
+Vivid	img,links,bio,from	2026-11-02	2026-11-27 SASS Music Club (Frieden & Liebe) – Vivid – Frieden & Liebe
+Van:Hill	img,from	2026-11-02	2026-11-27 Flex (High Voltage Fairies) – High Voltage Fairies in the Pit – Metal x DnB
+Rosi	img,links,bio,from	2026-11-02	2026-11-27 Flex (High Voltage Fairies) – High Voltage Fairies in the Pit – Metal x DnB
+WNR	img,links,bio,from	2026-11-02	2026-11-27 Flex (High Voltage Fairies) – High Voltage Fairies in the Pit – Metal x DnB
+Fairy Mary	img,links,bio,from	2026-11-02	2026-11-27 Flex (High Voltage Fairies) – High Voltage Fairies in the Pit – Metal x DnB
+Slack Hippy	img	2026-11-02	2026-11-26 SASS Music Club – Donnerstag Nacht
+neomodern	img,links,bio,from	2026-11-02	2026-11-26 SASS Music Club – Donnerstag Nacht
+Crnobrnja	img,links,bio,from	2026-11-02	2026-11-26 SASS Music Club – Donnerstag Nacht
+Young Sun	img,links,bio,from	2026-11-02	2026-11-22 SASS Music Club (Wreck) – Morgengymnastik × Wreck
+AE-X	img,links,bio,from	2026-11-02	2026-11-22 SASS Music Club (Wreck) – Morgengymnastik × Wreck
+ARAS JE'TÄM	img,links,bio,from	2026-11-02	2026-11-21 FLUCC (Art Attech) – Art Attech – Kunst küsst Techno
+OK CUTEE	img,links,bio,from	2026-11-02	2026-11-21 FLUCC (Art Attech) – Art Attech – Kunst küsst Techno
+Teppich Funk	img,links,bio,from	2026-11-02	2026-11-21 Weberknecht – Mottosause // Boots, Beer & Beats
+Paul Galbur	img,links,bio,from	2026-11-02	2026-11-21 Weberknecht – Mottosause // Boots, Beer & Beats
+Romanova	img,links,bio,from	2026-11-02	2026-11-21 Weberknecht – Mottosause // Boots, Beer & Beats
+Franky	img,links,bio,from	2026-11-02	2026-11-21 Weberknecht – Mottosause // Boots, Beer & Beats
+Gomez & Nickfried	img,links,bio,from	2026-11-02	2026-11-21 Weberknecht – Mottosause // Boots, Beer & Beats
+missantroop	img,links,bio,from	2026-11-02	2026-11-21 Celeste – hosted by the zound partisans
+_ra_di_aa_ti_on_	img,links,bio,from	2026-11-02	2026-11-21 Celeste – hosted by the zound partisans
+finster	img,links,bio,from	2026-11-02	2026-11-21 Celeste – hosted by the zound partisans
+Contrast Residents	neu	-	2026-11-21 Grelle Forelle (Contrast) – Contrast pres. DJ Marky + Pola & Bryson
+Armin Karmin	img,links,bio,from	2026-11-02	2026-11-21 Grelle Forelle (Contrast) – Contrast pres. DJ Marky + Pola & Bryson
+Stan Matan	img,links,bio,from	2026-11-02	2026-11-21 Grelle Forelle (Contrast) – Contrast pres. DJ Marky + Pola & Bryson
+Nysos	img,links,bio,from	2026-11-02	2026-11-21 Grelle Forelle (Contrast) – Contrast pres. DJ Marky + Pola & Bryson
+CREEDS	img	2026-11-02	2026-11-21 Das Werk (54Hz) – 54Hz pres. CREEDS
+Kmanxak	img,links,bio,from	2026-11-02	2026-11-21 Rhiz – POLYCHAOS DUBIUM
+Nova.psd	img,links,bio,from	2026-11-02	2026-11-21 Rhiz – POLYCHAOS DUBIUM
+DJEENI	img,links,bio,from	2026-11-02	2026-11-21 FLUCC (Tanz dich glücklich) – Tanz dich glücklich
+Saender	img,links,bio,from	2026-11-02	2026-11-21 FLUCC (Tanz dich glücklich) – Tanz dich glücklich
+Saratonin	img,links,bio,from	2026-11-02	2026-11-21 FLUCC (Tanz dich glücklich) – Tanz dich glücklich
+SWEGALICIOUS	img,links,bio,from	2026-11-02	2026-11-21 FLUCC (Tanz dich glücklich) – Tanz dich glücklich
+Wiener Grantscheibn	from	2026-11-02	2026-11-21 FLUCC (Tanz dich glücklich) – Tanz dich glücklich
+Dj Ritual Spirit	img,links,bio,from	2026-11-03	2026-11-21 The Inner Circle – lost or unreachable
+403Vorbidden	img,bio,from	2026-11-03	2026-11-21 The Inner Circle – lost or unreachable
+færo demonic	img,links,bio,from	2026-11-02	2026-11-20 Kollektiv Kaorle (AMBIEVENT) – AMBIEVENT – trace encounters
+Jule Feser	img,links,bio,from	2026-11-02	2026-11-20 Celeste (Das Syndikat) – syndikat
+Aside	img,links,bio	2026-11-02	2026-11-20 Celeste (Das Syndikat) – syndikat
+NoNameLeft	img,links,bio,from	2026-11-02	2026-11-20 FLUCC (Vision Serpent) – Vision Serpent
+Mateo!	links,from	2026-11-02	2026-11-20 FLUCC (Vision Serpent) – Vision Serpent
+Kjaer	img	2026-11-02	2026-11-20 The Loft (Sub Zero) – Sub Zero
+Mark Dale	img,links,bio,from	2026-11-02	2026-11-20 The Loft (Sub Zero) – Sub Zero
+MANiLO	img,links,bio,from	2026-11-02	2026-11-20 The Loft (Sub Zero) – Sub Zero

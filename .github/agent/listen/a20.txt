@@ -1,0 +1,51 @@
+# Artists – Liste a20 (50). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+YīN YīN	neu	-	2026-03-19 Grelle Forelle – FYI: YīN YīN
+EXOS	neu	-	2026-03-14 Grelle Forelle (Below the Surface, YN Collective) – BELOW THE SURFACE | RAW x YN
+Ketarina	neu	-	2026-03-14 Grelle Forelle (Below the Surface, YN Collective) – BELOW THE SURFACE | RAW x YN
+Works Of Intent	neu	-	2026-03-14 FLUCC – CONNÆKT x Works Of Intent
+Plea5urepul5e	neu	-	2026-03-14 Das Werk (Dystøpia Rave) – DYSTOPIA RAVE w/ PLEA5UREPUL5E
+Für Lau	neu	-	2026-03-13 The Loft (Feuchte Träume) – Feuchte Träume – Renaissance of Pleasure
+Dragon & DJ Orgy	neu	-	2026-03-13 The Loft (Feuchte Träume) – Feuchte Träume – Renaissance of Pleasure
+Monosol	neu	-	2026-03-13 The Loft (Feuchte Träume) – Feuchte Träume – Renaissance of Pleasure
+NHDT aka Tino	neu	-	2026-03-13 The Loft (Feuchte Träume) – Feuchte Träume – Renaissance of Pleasure
+Penelope	neu	-	2026-03-13 SASS Music Club (WRECK) – WRECK invites: PENELOPE
+Objectiv	neu	-	2026-03-13 Club Lucia (Fuelized) – FUELIZED presents OBJECTIV [UK]
+Highbrow76	neu	-	2026-03-12 SASS Music Club (Groove Revival) – Groove Revival invites Highbrow76
+Davie Jones	neu	-	2026-03-12 Grelle Forelle – United Battle Culture – Session #02
+Tyler Bourbon	neu	-	2026-03-12 Grelle Forelle – United Battle Culture – Session #02
+Mamo	neu	-	2026-03-12 Grelle Forelle – United Battle Culture – Session #02
+Musio	neu	-	2026-03-12 Grelle Forelle – United Battle Culture – Session #02
+Joshy	neu	-	2026-03-12 Grelle Forelle – United Battle Culture – Session #02
+Brombeeren Ben	neu	-	2026-03-12 Grelle Forelle – United Battle Culture – Session #02
+Jonas Gottlieb	neu	-	2026-03-07 Tagada – House of Bloom with Jonas Gottlieb
+Part Time Killer	neu	-	2026-03-07 Grelle Forelle – Part Time Killer & DJ Achim Feuervogel | Grelle Forelle Club
+southstar	neu	-	2026-03-06 Grelle Forelle (Step Forward) – Step Forward pres. southstar
+Veyla	neu	-	2026-03-06 Das Werk (Nachtschub) – NACHTSCHUB – FLINTA* Edition w/ VEYLA
+Leo Schick	neu	-	2026-03-06 B72 (Heimlich) – Heimliche Frühlingsgefühle
+Terrible	neu	-	2026-03-06 B72 (Heimlich) – Heimliche Frühlingsgefühle
+MËX	neu	-	2026-03-06 B72 (Heimlich) – Heimliche Frühlingsgefühle
+Andreas Buchner	neu	-	2026-03-06 B72 (Heimlich) – Heimliche Frühlingsgefühle
+House	neu	-	2026-02-28 Tagada – Where Disco flirts with House
+Ii-faces	neu	-	2026-02-28 PRST (Red Groove Social Club) – RED GROOVE (Social Club) with II-FACES (FR) & Red Groove Sys
+Dual DeStress	neu	-	2026-02-28 Kramladen (Spectral) – Spectral with Dual DeStress and Herbrido
+Herbrido	neu	-	2026-02-28 Kramladen (Spectral) – Spectral with Dual DeStress and Herbrido
+7circle	neu	-	2026-02-28 Grelle Forelle (F*cken Plus) – F*PLUS feat. 7CIRCLE, Violetta, Deadlift
+Fellowsoph	neu	-	2026-02-28 FLUCC – Fellowsoph & Edi Flaneur: Funk und Fernsehen – Releaseparty
+Edi Flaneur	neu	-	2026-02-28 FLUCC – Fellowsoph & Edi Flaneur: Funk und Fernsehen – Releaseparty
+Rinkadink	neu	-	2026-02-28 Club Exil (Psytrance Universe) – PSYTRANCE UNIVERSE – 12H Day & Night Rave with Rinkadink at 
+Lefteris	neu	-	2026-02-27 SASS Music Club (Deep Dive) – DEEP DIVE | LEFTERIS BIRTHDAY BASH
+Sergej Krstic	neu	-	2026-02-21 Tagada (Between Us) – Between Us x Sergej Krstic
+Submarine	neu	-	2026-02-21 Grelle Forelle (Contrast) – CONTRAST – 11 YRS ANNIVERSARY w/ SKEPTICAL + VISAGES + SUBMA
+Dj Schnake	neu	-	2026-02-21 FLUCC (Spectrum) – Spectrum with Dj Schnake
+The Trip	neu	-	2026-02-20 PRST – PRST INVITES THE TRIP
+Temudo	neu	-	2026-02-20 Grelle Forelle (Fish Market) – FISH MARKET x HOLEY feat. TEMUDO u.a.
+DJ Guestlist	neu	-	2026-02-20 FLUCC (Bouncylicious) – BOUNCYLICIOUS with DJ GUESTLIST
+RiVid	neu	-	2026-02-20 Das Werk – RUHE:STÖRUNG w/ RiVid
+Neoom	neu	-	2026-02-19 Kramladen (deep cut) – deep cut w/ Neoom, Pauna, Pezel
+PAUNA	img,bio,from	-	2026-02-19 Kramladen (deep cut) – deep cut w/ Neoom, Pauna, Pezel
+Nicolas Julian	neu	-	2026-02-15 Club Exil (Verknallt) – VERKNALLT – DAYTIME SPECIAL with Nicolas Julian
+Cobb Douglas	neu	-	2026-02-14 Grelle Forelle (Tattu Tatta Glub) – TATTU TATTA GLUB & GOAT BALL
+Sohoe	neu	-	2026-02-14 Grelle Forelle (Tattu Tatta Glub) – TATTU TATTA GLUB & GOAT BALL
+Terra Twiins	neu	-	2026-02-14 Grelle Forelle (Tattu Tatta Glub) – TATTU TATTA GLUB & GOAT BALL
+Super Sound Global	neu	-	2026-02-13 Tagada (Soundbüglerei) – Spumante & Soundbüglerei with Super Sound Global
+Alther	neu	-	2026-02-13 Kramladen (Wiener Mischung) – Mitmischen by Wiener Mischung w/RUSRUS, ALTHER und nosewise

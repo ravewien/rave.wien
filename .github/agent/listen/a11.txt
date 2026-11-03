@@ -1,0 +1,51 @@
+# Artists – Liste a11 (50). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+Simula	neu	-	2025-04-19 Grelle Forelle (Contrast) – CONTRAST pres. SIMULA + SKANTIA + ANNIX | 18+ | 2024-12-21 Grelle Forelle (Contrast) – CONTRAST pres. CRITICAL MUSIC w/ SIMULA + ENEI + KASRA + QZB
+Annix	neu	-	2025-04-19 Grelle Forelle (Contrast) – CONTRAST pres. SIMULA + SKANTIA + ANNIX | 18+ | 2024-04-20 Grelle Forelle (Contrast) – CONTRAST pres. NEOSIGNAL w/ PHACE + MISANTHROP + ANNIX + ROC
+AZYR	neu	-	2025-04-18 Grelle Forelle (Impulse) – AZYR (TELETECH)//IMPULSE//GRELLE FORELLE | 2024-03-02 Grelle Forelle (Impulse) – Impulse w/ Azyr (Teletech)
+Laurent Garnier	neu	-	2025-04-05 Grelle Forelle (Zuckerwatt) – ZUCKERWATT w/ Laurent Garnier | 2025-02-13 Grelle Forelle (Zuckerwatt) – ZUCKERWATT w/ LAURENT GARNIER
+Mcr-t	neu	-	2025-04-04 Grelle Forelle (Step Forward) – Step Forward pres. MCR-T | 2024-12-27 Grelle Forelle (Selected) – MCR-T & Frederic. All Night Long | Selected x Grelle Forelle
+Manu Script	neu	-	2025-03-22 Grelle Forelle (Techno Entgleist) – TECHNO ENTGLEIST x DU TANZT MICH MAL | 2024-03-01 Grelle Forelle (Techno Entgleist) – TECHNO ENTGLEIST | BUSSIS AUS BERLIN
+Van der Wiese	neu	-	2025-02-25 FLUCC (SIN) – SIN w/ Van der Wiese | 2025-01-25 FLUCC (SIN) – SIN w/ Van der Wiese
+Lea Occhi	neu	-	2025-02-14 Grelle Forelle (Fish Market) – FISH MARKET – 16 YEARS of MEAT w/ LEA OCCHI (and many more) | 2024-07-19 Grelle Forelle (Fish Market, PUSH) – FISH MARKET – The Cursed Ones w/ Lea Occhi, Annika Stein, ma
+Ryan Elliott	neu	-	2025-02-09 Grelle Forelle (Festklub) – Festklub pres. TAGSÜBER w/ Ryan Elliott | 2024-05-08 PRST – Demuja invites Ryan Elliott
+DJ Hyperdrive	neu	-	2025-01-04 PRST – NEW YEAR PLAY WITH DJ Hyperdrive | 2024-05-29 PRST (Straat 264) – STRAAT 264 w/ DJ Hyperdrive
+Bushman	neu	-	2024-12-28 Das Werk (Step to Tek) – Step to Tek XL with Bushman, Mazatek, Illtek & Optimatek | 2024-02-16 Das Werk (Step to Tek) – StepToTek XL – Carnival Special w/ BUSHMAN Live
+Alecid	neu	-	2024-12-13 FLUCC – PRATERRAKETE w/ Aio, Alecid, Patrik Pagan & Otto Wagina | 2024-03-09 Grelle Forelle – (K)eine Hexerei – ein Festakt von und für Göttinnen*
+Artemis	neu	-	2024-10-26 Grelle Forelle (Techno Entgleist) – TECHNO ENTGLEIST | BACK TO THE ROOTS | 2024-07-24 Pratersauna (Rave am Mittwoch) – RAVE AM MITTWOCH – Tomagan, ARTEMIS & Jodok
+Dream DJ Team	neu	-	2024-10-03 PRST – "Klopf Klopf" Album Release Party – Dream DJ Team | 2024-05-11 Grelle Forelle (Tattu Tatta Glub) – Tattu Tatta Glub | Glub Hotline
+Rene Wise	neu	-	2024-09-20 Grelle Forelle (Fish Market, PUSH) – FISH MARKET w/ Rene Wise, Annika Stein, Gerald VDH, PUSH, uv | 2024-04-19 Grelle Forelle (Fish Market) – FISH MARKET w/ Rene Wise
+TingelTangelTek	neu	-	2024-09-07 FLUCC (SIN, Überdruck) – SIN x Überdruck Soundsystem w/ GehLekTek, Blazin' Bomzai, Ti | 2024-07-05 FLUCC (Herzfrequenz, SIN) – SIN x Herzfrequenz w/ FTS, TingelTangelTek, SoDa, Louisa Ind
+Sømnus	neu	-	2024-08-23 Grelle Forelle (NEXUS) – 2YRS of NEXUS | 2024-06-07 Grelle Forelle – Free Friday
+Rumi Von Baires	neu	-	2024-07-26 Grelle Forelle – Grelle Forelle Sommerfest | 2024-01-20 PRST (Gaze) – GAZE w/ Chris Cruse, Malounadou, Jorkes & Rumi von Baires
+FTS	neu	-	2024-07-05 FLUCC (Herzfrequenz, SIN) – SIN x Herzfrequenz w/ FTS, TingelTangelTek, SoDa, Louisa Ind | 2024-03-08 Pratersauna (Melting Minds) – MELTING MINDS w/ Phat Otiz, FTS & Noizelein
+Theo Meier	neu	-	2024-06-28 FLUCC (Im Freudentaumel) – Im Freudentaumel w/ Theo Meier, Lenia, Nya Nyx & Sheesh | 2024-05-24 Tagada – Private Sessions w/ Stefan Obermaier b2b Theo Meier
+Aylean	neu	-	2024-05-03 Grelle Forelle (Duality) – Duality X Demolate | 2024-03-09 Grelle Forelle – (K)eine Hexerei – ein Festakt von und für Göttinnen*
+The Lebanese	img,links,bio,from	2026-10-31	2026-11-01 FLUCC (Spumante Records, Callshop Radio) – FLUT x Callshop Radio – Week 44
+Helix	img,links,bio,from	2026-10-31	2026-11-01 FLUCC (Spumante Records, Callshop Radio) – FLUT x Callshop Radio – Week 44
+sig. Molteni	img,links,bio,from	2026-10-31	2026-11-01 FLUCC (Spumante Records, Callshop Radio) – FLUT x Callshop Radio – Week 44
+Birk	img,links,bio,from	2026-10-31	2026-11-01 FLUCC (Spumante Records, Callshop Radio) – FLUT x Callshop Radio – Week 44
+Soularium	img,bio,from	2026-10-31	2026-11-01 FLUCC (Spumante Records, Callshop Radio) – FLUT x Callshop Radio – Week 44
+Hannah	img,links,bio,from	2026-10-31	2026-10-31 Club Lucia – Homesounds – Local FLINTA for local homeless
+Sanex	img,links,bio,from	2026-10-31	2026-10-31 Club Lucia – Homesounds – Local FLINTA for local homeless
+Wisteria	img,links,bio,from	2026-10-31	2026-10-31 Club Lucia – Homesounds – Local FLINTA for local homeless
+Zuckerfrei	img,links,bio,from	2026-10-31	2026-10-31 Loop (Dunkelton Kollektiv) – Black Signal
+Gopnikbarbie	img,links,bio,from	2026-10-31	2026-10-31 FLUCC (Pink Mayhem) – Pink Mayhem – Hardtechno Halloween
+Meltdown	img,links,bio,from	2026-10-31	2026-10-31 FLUCC (Pink Mayhem) – Pink Mayhem – Hardtechno Halloween
+The Tunegirl	img,bio,from	2026-10-31	2026-10-31 Grelle Forelle – Halloween | The Tunegirl Live
+DJ Bottleghost	img,links,bio,from	2026-10-31	2026-10-31 Grelle Forelle – Halloween | The Tunegirl Live
+Peradise	img,links,bio,from	2026-10-31	2026-10-31 SASS Music Club (Connecting People) – Connecting People
+Sweet Spot	img,links,bio,from	2026-10-31	2026-10-31 SASS Music Club (Connecting People) – Connecting People
+Crystal O	from	2026-10-31	2026-10-31 Das Werk – Halloween Special
+Rantom	img,links,from	2026-10-31	2026-10-31 Das Werk – Halloween Special
+Nikilist	img,links,bio,from	2026-10-31	2026-10-31 Das Werk – Halloween Special
+CED	img,links,bio,from	2026-10-31	2026-10-31 Flex (The Hive, Collapse) – The Hive x Collapse – Face Off Halloween Special
+DNBREAK	img,bio,from	2026-10-31	2026-10-31 Flex (The Hive, Collapse) – The Hive x Collapse – Face Off Halloween Special
+Scapula	img,bio,from	2026-10-31	2026-10-31 Flex (The Hive, Collapse) – The Hive x Collapse – Face Off Halloween Special
+Lazaro	img,links,bio,from	2026-10-31	2026-10-31 Flex (The Hive, Collapse) – The Hive x Collapse – Face Off Halloween Special
+Skeedz	img,links,bio,from	2026-10-31	2026-10-31 Flex (The Hive, Collapse) – The Hive x Collapse – Face Off Halloween Special
+Rellux	img,links,bio,from	2026-10-31	2026-10-31 Flex (The Hive, Collapse) – The Hive x Collapse – Face Off Halloween Special
+Distorted	img,links,bio,from	2026-10-31	2026-10-31 Flex (The Hive, Collapse) – The Hive x Collapse – Face Off Halloween Special
+Foxloe	img,links,bio,from	2026-10-31	2026-10-31 Tagada (Housetiere, Entrance) – Housetiere w/ Chata
+Janex	img,links,bio,from	2026-10-31	2026-10-31 FLUCC – Halloween Rave
+Sportacore	img,links,bio,from	2026-10-31	2026-10-31 FLUCC – Halloween Rave
+Ben Leander	img,links,bio,from	2026-10-31	2026-10-31 Celeste (Ravenbogen) – Halloqueer

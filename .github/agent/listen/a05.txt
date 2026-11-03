@@ -1,0 +1,51 @@
+# Artists – Liste a05 (50). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+Darina	img,links,bio,from	2026-11-02	2026-11-13 Kollektiv Kaorle (50 Herz) – 50 Herz / Sodomland
+Djinn Sylva	img,links,bio,from	2026-11-02	2026-11-13 Kollektiv Kaorle (50 Herz) – 50 Herz / Sodomland
+Xavior	from	2026-11-02	2026-11-13 Kollektiv Kaorle (50 Herz) – 50 Herz / Sodomland
+Aura	img,links,from	2026-11-02	2026-11-13 FLUCC (deep cut, Dark Pressure) – deep cut × Dark Pressure
+Pezo Fox	img,bio,from	2026-11-02	2026-11-13 The Loft (Bassclub, Rude Bwoy Embassy, Jah Power Sound) – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Stoney Curtis	img,links,bio,from	2026-11-02	2026-11-13 The Loft (Bassclub, Rude Bwoy Embassy, Jah Power Sound) – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Zuzee	img,links,bio,from	2026-11-02	2026-11-13 The Loft (Bassclub, Rude Bwoy Embassy, Jah Power Sound) – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Scooby Duo	img	2026-11-02	2026-11-13 The Loft (Bassclub, Rude Bwoy Embassy, Jah Power Sound) – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Dicie Globie	img,links,bio,from	2026-11-02	2026-11-13 The Loft (Bassclub, Rude Bwoy Embassy, Jah Power Sound) – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Sparky Rugged	img,links,bio,from	2026-11-02	2026-11-13 The Loft (Bassclub, Rude Bwoy Embassy, Jah Power Sound) – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Astarr	img,links,bio,from	2026-11-02	2026-11-13 The Loft (Bassclub, Rude Bwoy Embassy, Jah Power Sound) – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Ijahson	img,links,bio,from	2026-11-02	2026-11-13 The Loft (Bassclub, Rude Bwoy Embassy, Jah Power Sound) – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Bandulu	img,links,bio,from	2026-11-02	2026-11-13 The Loft (Bassclub, Rude Bwoy Embassy, Jah Power Sound) – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Camel	img,links,bio,from	2026-11-02	2026-11-13 The Loft (Bassclub, Rude Bwoy Embassy, Jah Power Sound) – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+DJ Smo	img	2026-11-02	2026-11-13 The Loft (Bassclub, Rude Bwoy Embassy, Jah Power Sound) – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Baba Sound	img,links,bio,from	2026-11-02	2026-11-13 The Loft (Bassclub, Rude Bwoy Embassy, Jah Power Sound) – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Kings Crown Sound	img,links,bio,from	2026-11-02	2026-11-13 The Loft (Bassclub, Rude Bwoy Embassy, Jah Power Sound) – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Thr33lake	img,links,bio,from	2026-11-02	2026-11-13 The Loft (Bassclub, Rude Bwoy Embassy, Jah Power Sound) – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Jah Power Sound	img,links,bio,from	2026-11-02	2026-11-13 The Loft (Bassclub, Rude Bwoy Embassy, Jah Power Sound) – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Royal Marx Sound	img,links,bio,from	2026-11-02	2026-11-13 The Loft (Bassclub, Rude Bwoy Embassy, Jah Power Sound) – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+G Spot Sound	img	2026-11-02	2026-11-13 The Loft (Bassclub, Rude Bwoy Embassy, Jah Power Sound) – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+NYRA	img,links,bio,from	2026-11-02	2026-11-13 Club Exil (TUFF) – TUFF vol. 2
+Cybercutz	img,links	2026-11-02	2026-11-13 Club Lucia (Drum & Bassick, Radiance) – Drum & Bassick x Radiance
+Escapism	img,from	2026-11-02	2026-11-13 Club Lucia (Drum & Bassick, Radiance) – Drum & Bassick x Radiance
+I-Jin	img,bio,from	2026-11-02	2026-11-13 Club Lucia (Drum & Bassick, Radiance) – Drum & Bassick x Radiance
+Synthesis	img,links,bio,from	2026-11-02	2026-11-13 Club Lucia (Drum & Bassick, Radiance) – Drum & Bassick x Radiance
+Adina Camhy	img	2026-11-02	2026-11-12 kv.r. (sama recordings) – sama recordings pres. s c h w e b e n
+Andrea Ida	img,links,bio,from	2026-11-02	2026-11-12 kv.r. (sama recordings) – sama recordings pres. s c h w e b e n
+Andreas	img,links,bio,from	2026-11-02	2026-11-12 SASS Music Club (Green Light Collective) – Donnerstag Nacht × Green Light Collective
+Ian Staraj	img,bio,from	2026-11-02	2026-11-12 SASS Music Club (Green Light Collective) – Donnerstag Nacht × Green Light Collective
+POSTSCRIPTUM	img,links,bio,from	2026-11-02	2026-11-11 Club Lucia (Köstlich, Gürtelgroove) – Köstlich x Gürtelgroove
+FESH	img,links,bio,from	2026-11-02	2026-11-11 Club Lucia (Köstlich, Gürtelgroove) – Köstlich x Gürtelgroove
+Antone	img,links,bio,from	2026-11-02	2026-11-11 Club Lucia (Köstlich, Gürtelgroove) – Köstlich x Gürtelgroove
+Dudas	img,links,bio,from	2026-11-02	2026-11-11 Club Lucia (Köstlich, Gürtelgroove) – Köstlich x Gürtelgroove
+Chris Eru	img,links,bio,from	2026-11-02	2026-11-11 Club Lucia (Köstlich, Gürtelgroove) – Köstlich x Gürtelgroove
+Mahofsky	img,links,bio,from	2026-11-02	2026-11-11 Club Lucia (Köstlich, Gürtelgroove) – Köstlich x Gürtelgroove
+The Res	img,links,bio,from	2026-11-02	2026-11-08 FLUCC – Sonntag'sdisco Vol. 28 w/ The Res
+Peter Illias	img,from	2026-11-02	2026-11-07 U4 (euphonic records) – Kyau & Albert (Extended Set)
+CREEXX	img,links,bio,from	2026-11-02	2026-11-07 U4 (euphonic records) – Kyau & Albert (Extended Set)
+MJT & RPM	img,links,bio,from	2026-11-02	2026-11-07 U4 (euphonic records) – Kyau & Albert (Extended Set)
+D.b.h	img,links,bio,from	2026-11-02	2026-11-07 FLUCC (Little Beat More) – Pomelo Plaza #3 presented by Little Beat More
+Urlaub in Jazzolo	img,links,bio,from	2026-11-02	2026-11-07 FLUCC (Little Beat More) – Pomelo Plaza #3 presented by Little Beat More
+Café Mondo	img,from	2026-11-02	2026-11-07 FLUCC (Little Beat More) – Pomelo Plaza #3 presented by Little Beat More
+Chrome	img,links,bio,from	2026-11-02	2026-11-07 Club Lucia (Fuelized) – Fuelized 3 Year Anniversary w/ Minor Forms & Chrome
+ICY.DJ	img,links,bio,from	2026-11-02	2026-11-07 Club Lucia (Fuelized) – Fuelized 3 Year Anniversary w/ Minor Forms & Chrome
+Incognito	img,links,bio,from	2026-11-02	2026-11-07 Club Lucia (Fuelized) – Fuelized 3 Year Anniversary w/ Minor Forms & Chrome
+M4YB3	img,links,bio,from	2026-11-02	2026-11-07 Club Lucia (Fuelized) – Fuelized 3 Year Anniversary w/ Minor Forms & Chrome
+Shaxoron	img,links,bio,from	2026-11-02	2026-11-07 Club Lucia (Fuelized) – Fuelized 3 Year Anniversary w/ Minor Forms & Chrome
+Snowtek	img,links,from	2026-11-02	2026-11-07 Club Lucia (Fuelized) – Fuelized 3 Year Anniversary w/ Minor Forms & Chrome
+Armin Schmelz	img	2026-11-02	2026-11-07 Celeste – Invitation

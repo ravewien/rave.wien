@@ -1,0 +1,41 @@
+# Veranstalter – Liste v06 (40). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>Events bei uns (Kontext)
+Schere3000	neu	-	2026-07-04 FLUCC – Dyke March Afterparty hosted by Schere3000 | 2026-06-13 FLUCC – HYPERTRASH x Schere3000 Pride Night Special with Himera & Bl
+Dualism	neu	-	2026-05-23 Club Exil – Dualism w/ Paraçek | 2025-12-06 Pratersauna – DUALISM with L.zwo, NIKE101 uvm
+Unkwn	neu	-	2026-04-25 SASS Music Club – UNKWN | 2024-05-10 PRST – UNKWN_001 feat. Cezar
+Unframed	neu	-	2026-04-25 Club Lucia – unframed – fluffy house minimalism | 2025-11-06 Tagada – unframed – fluffy house minimalism
+Opération	neu	-	2026-04-17 SASS Music Club – Opération | 2026-01-31 SASS Music Club – Opération
+VOID	neu	-	2026-04-11 Club Exil – VOID SPRING SPECIAL 2026 | 2025-11-07 Club Exil – VOID WINTER SPECIAL 2025
+Wu Wolves	neu	-	2026-03-05 PRST – WU WOLVES | 2026-01-29 PRST – WU WOLVES
+Addicted to Pressure	neu	-	2025-12-31 Club Exil – ADDICTED TO PRESSURE 30H NYE RAVE | 2024-12-31 Club Exil – Addicted to Pressure – NYE Rave at EXIL
+Club Casa	neu	-	2025-12-13 SASS Music Club – Club Casa | 2025-04-24 SASS Music Club – Club Casa
+Function Blue	neu	-	2025-11-27 PRST – Function Blue Vol. III | 2025-03-14 PRST – FUNCTION BLUE
+Shapes & Fugazi	neu	-	2025-11-14 PRST – SHAPES & FUGAZI pres. Shy One | 2025-05-30 PRST – SHAPES & FUGAZI present JAEL
+Buntergrund	neu	-	2025-11-07 SASS Music Club – BUNTERGRUND | 2025-09-26 SASS Music Club – Buntergrund
+Profiliga	neu	-	2025-10-25 Pratersauna – PROFILIGA präs: Victor Ruiz | 2025-08-16 Pratersauna – PROFILIGA presents MARCO BAILEY!
+FM4 Unlimited	neu	-	2025-10-03 Prater (Calafatiplatz) – FM4 Unlimited im Prater | 2024-10-04 Prater (Calafatiplatz) – FM4 Unlimited im Prater
+Nass vom Bass	neu	-	2025-09-05 Pratersauna – NASS VOM BASS | 2025-07-19 Pratersauna – NASS VOM BASS
+Techno Vienna	text	-	2025-08-01 Usus am Wasser – TECHNO AM WASSER⁴ x Open Air Rave 2025 | 2025-06-06 Usus am Wasser – TECHNO AM WASSER x Open Air Rave 2025
+Raverknecht	neu	-	2024-10-19 Weberknecht – RAVERKNECHT – an art & techno rave | 2024-01-26 Weberknecht – Raverknecht Vol. 4
+Acid Techno Techno Club	text,links,logo	-	2024-10-12 Grelle Forelle – 6 YRS ACID TECHNO TECHNO CLUB w/ REGAL, KTK & DLV | 2024-06-01 Grelle Forelle – ACID TECHNO TECHNO CLUB w/ FRAZI.ER, JERM & DLV
+Melting Minds	neu	-	2024-08-14 Pratersauna – Melting Minds with Expulze & Narfos live & Step To Tek Bunke | 2024-03-08 Pratersauna – MELTING MINDS w/ Phat Otiz, FTS & Noizelein
+Luft & Liebe	neu	-	2024-07-20 Pratersauna – MONOCHROM | Luft & Liebe x Henson | 2024-02-17 Pratersauna – LUFT & LIEBE w/ DOMINIK EULBERG x Rave On Society
+Klassentreffen	neu	-	2024-06-22 PRST – Klassentreffen w/ Karotte | 2024-01-27 PRST – KLASSENTREFFEN/PRST
+The Academy	neu	-	2024-06-01 PRST – The Academy | 2024-05-25 PRST – The Academy
+Schlaflos	neu	-	2024-04-13 Pratersauna – Schlaflos im April mit Denis Sulta | Das Ende einer Ära | 2024-03-09 Pratersauna – Schlaflos im März mit Mall Grab
+Spumante Records	logo	2026-10-31	2026-11-01 FLUCC – FLUT x Callshop Radio – Week 44
+Dunkelton Kollektiv	text,links	2026-10-31	2026-10-31 Loop – Black Signal
+Collapse	links	2026-10-31	2026-10-31 Flex – The Hive x Collapse – Face Off Halloween Special
+Entrance	text,links	2026-10-31	2026-10-31 Tagada – Housetiere w/ Chata
+Super Disco	text,links	2026-10-31	2026-10-31 O der Klub – Halloween Transmission
+KØRE	text,links	2026-10-31	2026-10-31 Lugner City – KØRE Halloween Rave 2026
+ClassiX	text,links	2026-10-31	2026-10-31 M1 Club – ClassiX – Halloween Madness
+Hardline	text,links	2026-10-31	2026-10-31 Event Arena Vösendorf – HARDLINE: Purge Night – A Halloween Special
+YE	text,links	2026-10-31	2026-10-31 Hofburg Vienna – Bloody Masquerade – Halloween × Hofburg Vienna
+Alles Allen	text,links	2026-10-31	2026-10-31 Rhiz – ALLES ALLEN No Halloween Birthday Bash
+FORA	neu	-	2026-10-30 PRST – FORA
+Bassproduction	neu	-	2026-10-30 Weberknecht – Mijk van Dijk (live) // Joro & Joabo // Atomik
+ELEMNT	neu	-	2026-10-24 Arena Wien – ELEMNT pres. KANINE – Reflections + ARCANDO + BASSTRIPPER + 
+Du Tanzt Mich Mal	neu	-	2026-07-18 Club U – Du Tanzt Mich Mal Open Air Karlsplatz + Afterparty
+Subwaves	neu	-	2026-06-26 Club U – DER RADIO X Subwaves
+nomind.	neu	-	2026-06-11 Porto Pollo – nomind. invites Verleger
+Lighthouse	neu	-	2026-05-09 Grelle Forelle – Lighthouse X Grelle Forelle Warmup VIE

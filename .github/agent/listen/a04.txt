@@ -1,0 +1,51 @@
+# Artists – Liste a04 (50). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+Paris Böhm	img,links,bio,from	2026-11-02	2026-11-20 SASS Music Club – Freeride Millenium
+DJ Countessa	img,links,bio,from	2026-11-02	2026-11-20 The Loft – Männer im Loft
+Sebastian Wagner	img,links,bio,from	2026-11-02	2026-11-20 The Loft – Männer im Loft
+Noemi Universe	img,links,bio,from	2026-11-02	2026-11-20 The Loft – Männer im Loft
+Lim Banda	img,links,bio,from	2026-11-02	2026-11-20 Grelle Forelle (Fish Market, Luv Affair) – Fish Market w/ Altinbas, Annika Stein, Gerald VDH
+Sabina	img,links,bio,from	2026-11-02	2026-11-20 Grelle Forelle (Fish Market, Luv Affair) – Fish Market w/ Altinbas, Annika Stein, Gerald VDH
+Ernst	img,links,bio,from	2026-11-02	2026-11-20 Grelle Forelle (Fish Market, Luv Affair) – Fish Market w/ Altinbas, Annika Stein, Gerald VDH
+KΛSKIN	img,links	2026-11-02	2026-11-20 Rhiz (GLITCH) – GLITCH Vienna 001
+Mert Seger	img	2026-11-02	2026-11-19 Coco Bar (VLAN) – HEAVY LISTENING with Tanja Turner, Mert Seger & Heap
+UV Project	img,links,bio,from	2026-11-02	2026-11-19 Kramladen – Teknoteka
+Redivider	img,bio,from	2026-11-02	2026-11-15 SASS Music Club – Redivider
+Amina Malounadou	img,links,bio,from	2026-11-02	2026-11-14 Funkhaus (Kaisa Bodega, Pingpaya Fenty Savage) – Once in a Blue Moon – Kiki Ball + Afterparty
+Bellavie	img,links,bio,from	2026-11-02	2026-11-14 Funkhaus (Kaisa Bodega, Pingpaya Fenty Savage) – Once in a Blue Moon – Kiki Ball + Afterparty
+Dune	img,links,bio,from	2026-11-02	2026-11-14 Club Exil (Rave On Vienna) – RAVE ON XXL 4.0
+Radze	img,bio,from	2026-11-02	2026-11-14 Club Exil (Rave On Vienna) – RAVE ON XXL 4.0
+Toge	img,links,bio,from	2026-11-02	2026-11-14 Club Exil (Rave On Vienna) – RAVE ON XXL 4.0
+Genetek	img,bio,from	2026-11-02	2026-11-14 Club Exil (Rave On Vienna) – RAVE ON XXL 4.0
+The Rave Bear	img,links,bio,from	2026-11-02	2026-11-14 Club Exil (Rave On Vienna) – RAVE ON XXL 4.0
+Klaut-G	img,bio,from	2026-11-02	2026-11-14 Club Exil (Rave On Vienna) – RAVE ON XXL 4.0
+SYC	img,links,bio,from	2026-11-02	2026-11-14 Club Exil (Rave On Vienna) – RAVE ON XXL 4.0
+Gingertek	img,links,bio,from	2026-11-02	2026-11-14 Club Exil (Rave On Vienna) – RAVE ON XXL 4.0
+Auditore	img,links,bio,from	2026-11-02	2026-11-14 Club Exil (Rave On Vienna) – RAVE ON XXL 4.0
+Brandix	img,links,bio,from	2026-11-02	2026-11-14 Club Exil (Rave On Vienna) – RAVE ON XXL 4.0
+Se.Vero	img,bio,from	2026-11-02	2026-11-14 Club Exil (Rave On Vienna) – RAVE ON XXL 4.0
+Gosh	img,links,bio,from	2026-11-02	2026-11-14 Club Exil (Rave On Vienna) – RAVE ON XXL 4.0
+Fullip	img,links,bio,from	2026-11-02	2026-11-14 Club Exil (Rave On Vienna) – RAVE ON XXL 4.0
+Poison	img,links,bio,from	2026-11-02	2026-11-14 Club Exil (Rave On Vienna) – RAVE ON XXL 4.0
+Para2P3ctrum	img,bio,from	2026-11-02	2026-11-14 Club Exil (Rave On Vienna) – RAVE ON XXL 4.0
+Kandy	img,links,bio,from	2026-11-02	2026-11-14 Club Exil (Rave On Vienna) – RAVE ON XXL 4.0
+DJ Scarf	img,links,bio,from	2026-11-02	2026-11-14 Celeste (Ausländer Haus) – Ausländer HAUS! Vol. 22
+Djane Stone	img,links,bio,from	2026-11-02	2026-11-14 Celeste (Ausländer Haus) – Ausländer HAUS! Vol. 22
+DJ Zidi	img,links,bio,from	2026-11-02	2026-11-14 Celeste (Ausländer Haus) – Ausländer HAUS! Vol. 22
+Lucy Bakanal	img,links,bio,from	2026-11-02	2026-11-14 Celeste (Ausländer Haus) – Ausländer HAUS! Vol. 22
+Inaya	img,bio,from	2026-11-02	2026-11-14 Flex (The Hive) – The Hive
+Scapula & Weazl	neu	-	2026-11-14 Flex (The Hive) – The Hive
+5HA5H	img,from	2026-11-02	2026-11-14 Flex (The Hive) – The Hive
+Jules Foe	img,links,bio,from	2026-11-02	2026-11-14 FLUCC (MEIOSISS) – Hot'n'Wet
+MEIOSISS	img,links,bio,from	2026-11-02	2026-11-14 FLUCC (MEIOSISS) – Hot'n'Wet
+HÄNSCH	img,links,bio,from	2026-11-02	2026-11-14 Kramladen (Derisch) – Derisch
+AUGEN ZU	img,links,bio,from	2026-11-02	2026-11-14 Kramladen (Derisch) – Derisch
+MØCK	img,links,bio,from	2026-11-02	2026-11-14 Kramladen (Derisch) – Derisch
+Vantan	img	2026-11-02	2026-11-13 Celeste (Superego Records) – Superego Records Labelnight + Vantan Record Release
+RUG	img,links,bio,from	2026-11-02	2026-11-13 Celeste (Superego Records) – Superego Records Labelnight + Vantan Record Release
+Marie Byrd Land	img,links,bio,from	2026-11-02	2026-11-13 Celeste (Superego Records) – Superego Records Labelnight + Vantan Record Release
+Soulspin	img	2026-11-02	2026-11-13 Celeste (Superego Records) – Superego Records Labelnight + Vantan Record Release
+Dansmussen	img,links,bio,from	2026-11-02	2026-11-13 Celeste (Superego Records) – Superego Records Labelnight + Vantan Record Release
+Siili	img,bio,from	2026-11-02	2026-11-13 Celeste (Superego Records) – Superego Records Labelnight + Vantan Record Release
+Nava Hemyari	img,links,bio,from	2026-11-02	2026-11-13 Celeste (Superego Records) – Superego Records Labelnight + Vantan Record Release
+Kilroy	img,links,bio,from	2026-11-02	2026-11-13 Kollektiv Kaorle (50 Herz) – 50 Herz / Sodomland
+Gush Valley	img,bio,from	2026-11-02	2026-11-13 Kollektiv Kaorle (50 Herz) – 50 Herz / Sodomland

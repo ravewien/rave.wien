@@ -1,0 +1,51 @@
+# Artists – Liste a13 (50). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+lexyz0 & DJ Lotto	img,links,bio,from	2026-10-28	2026-10-30 Ottakringer Brauerei (hausgemacht) – ZusammenKommen – Süßes oder Sauerei
+Frühwerk	img,links,bio,from	2026-10-28	2026-10-30 Ottakringer Brauerei (hausgemacht) – ZusammenKommen – Süßes oder Sauerei
+Delaine	img,links,bio,from	2026-10-28	2026-10-30 Ottakringer Brauerei (hausgemacht) – ZusammenKommen – Süßes oder Sauerei
+Saint A	img,links,bio,from	2026-10-28	2026-10-30 Ottakringer Brauerei (hausgemacht) – ZusammenKommen – Süßes oder Sauerei
+Ferdinand Schwarz	img,links,bio,from	2026-10-28	2026-10-30 Ottakringer Brauerei (hausgemacht) – ZusammenKommen – Süßes oder Sauerei
+Hannsolo	neu	-	2026-10-30 FLUCC (Tanz oder gar nicht) – Drahthaus Album Release Show x TOGA
+Mareia	neu	-	2026-10-30 FLUCC (Tanz oder gar nicht) – Drahthaus Album Release Show x TOGA
+ing.dude	neu	-	2026-10-30 FLUCC (Tanz oder gar nicht) – Drahthaus Album Release Show x TOGA
+ADOBEAR	img,links,bio,from	2026-10-28	2026-10-30 PRST (FORA) – FORA
+BAD PANDA	img,links,bio,from	2026-10-28	2026-10-30 PRST (FORA) – FORA
+YAKKA	img,links,bio,from	2026-10-28	2026-10-30 PRST (FORA) – FORA
+Deleven	img,links,bio,from	2026-10-28	2026-10-30 The Loft (Titti Queer Club) – Gayloween x Titti Queer Club
+Bella	img,links,bio,from	2026-10-28	2026-10-30 The Loft (Titti Queer Club) – Gayloween x Titti Queer Club
+Ryta Tale	img,links,bio,from	2026-10-28	2026-10-30 The Loft (Titti Queer Club) – Gayloween x Titti Queer Club
+Clemotone	img,links,bio,from	2026-10-28	2026-10-30 The Loft (Titti Queer Club) – Gayloween x Titti Queer Club
+Nani Mag. Viech	img,links,bio,from	2026-10-28	2026-10-30 The Loft (Titti Queer Club) – Gayloween x Titti Queer Club
+Countessa	img,links,bio,from	2026-10-28	2026-10-30 The Loft (Titti Queer Club) – Gayloween x Titti Queer Club
+TRMT	img,links,bio,from	2026-10-28	2026-10-30 The Loft (Titti Queer Club) – Gayloween x Titti Queer Club
+La Destinación Final	img,links,bio,from	2026-10-28	2026-10-30 The Loft (Titti Queer Club) – Gayloween x Titti Queer Club
+Humi	img,links,bio,from	2026-10-28	2026-10-30 The Loft (Titti Queer Club) – Gayloween x Titti Queer Club
+Flual	img,links,bio,from	2026-10-28	2026-10-30 The Loft (Titti Queer Club) – Gayloween x Titti Queer Club
+Bloodsugar	img,links,bio,from	2026-10-28	2026-10-30 The Loft (Titti Queer Club) – Gayloween x Titti Queer Club
+Neon Graveyard	bio,from	-	2026-10-30 Club Exil – Kranke Welt: Halloween Kick Off
+Stratera	bio,from	-	2026-10-30 Club Exil – Kranke Welt: Halloween Kick Off
+DizzyDray	img,links,bio,from	2026-10-28	2026-10-30 Grelle Forelle (Step Forward, Soundlabs) – Step Forward pres. Shoki
+Vanessa Sa	bio	-	2026-10-30 Grelle Forelle (Step Forward, Soundlabs) – Step Forward pres. Shoki
+Casanoah	img,bio,from	2026-10-28	2026-10-30 Grelle Forelle (Step Forward, Soundlabs) – Step Forward pres. Shoki
+Melchiorr	img,links,bio,from	2026-10-28	2026-10-30 FLUCC (Schlachthaus) – SCHLACHTHAUS w/ Toobris
+Silentsevir	bio,from	-	2026-10-30 FLUCC (Schlachthaus) – SCHLACHTHAUS w/ Toobris
+Osmos	img,links,bio,from	2026-10-28	2026-10-30 Das Werk (Schrödingers Groove, FIFI Rave) – Schwerkraft w/ Alex TB, Prakas, Osmos
+Farbod	img,links,bio,from	2026-10-28	2026-10-30 Das Werk (Schrödingers Groove, FIFI Rave) – Schwerkraft w/ Alex TB, Prakas, Osmos
+Lenzi	img,links,bio,from	2026-10-28	2026-10-30 Das Werk (Schrödingers Groove, FIFI Rave) – Schwerkraft w/ Alex TB, Prakas, Osmos
+Rui de Janeiro	bio,from	-	2026-10-30 Das Werk (Schrödingers Groove, FIFI Rave) – Schwerkraft w/ Alex TB, Prakas, Osmos
+Meril Fox	img,links,bio,from	2026-10-28	2026-10-30 Das Werk (Schrödingers Groove, FIFI Rave) – Schwerkraft w/ Alex TB, Prakas, Osmos
+Noel	img,links,bio,from	2026-10-28	2026-10-30 Das Werk (Schrödingers Groove, FIFI Rave) – Schwerkraft w/ Alex TB, Prakas, Osmos
+JP eXbert	bio	-	2026-10-30 Weberknecht (Bassproduction) – Mijk van Dijk (live) // Joro & Joabo // Atomik
+Peter Pixzel	bio	-	2026-10-29 SASS Music Club (Zyklop Audio) – Donnerstag Nacht
+Sam Gittis	bio	-	2026-10-29 SASS Music Club (Zyklop Audio) – Donnerstag Nacht
+Stoik	neu	-	2026-10-24 FLUCC (Tohuwabohu) – Tohuwabohu Technoid Edition
+Foe	neu	-	2026-10-24 FLUCC (Tohuwabohu) – Tohuwabohu Technoid Edition
+Kanine	neu	-	2026-10-24 Arena Wien (ELEMNT) – ELEMNT pres. KANINE – Reflections + ARCANDO + BASSTRIPPER + 
+Arcando	neu	-	2026-10-24 Arena Wien (ELEMNT) – ELEMNT pres. KANINE – Reflections + ARCANDO + BASSTRIPPER + 
+Basstripper	neu	-	2026-10-24 Arena Wien (ELEMNT) – ELEMNT pres. KANINE – Reflections + ARCANDO + BASSTRIPPER + 
+Grafix	neu	-	2026-10-24 Arena Wien (ELEMNT) – ELEMNT pres. KANINE – Reflections + ARCANDO + BASSTRIPPER + 
+Skiye	neu	-	2026-10-24 Arena Wien (ELEMNT) – ELEMNT pres. KANINE – Reflections + ARCANDO + BASSTRIPPER + 
+Sven Väth	neu	-	2026-10-23 Grelle Forelle (TURBO) – Sven Väth | TURBO
+Reika	neu	-	2026-10-23 FLUCC – Konzept-Techno Experience
+T-Krush	neu	-	2026-10-23 Semmelweisklinik – OPEN DECKS NIGHT
+Joy Resistance	neu	-	2026-10-23 Semmelweisklinik – OPEN DECKS NIGHT
+Djsus	neu	-	2026-10-23 Semmelweisklinik – OPEN DECKS NIGHT

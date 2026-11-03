@@ -1,0 +1,41 @@
+# Veranstalter – Liste v01 (40). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>Events bei uns (Kontext)
+Rave am Mittwoch	links	2026-11-02	2026-11-04 Das Werk – Rave am Mittwoch | 2026-11-11 Das Werk – Rave am Mittwoch | 2026-11-18 Das Werk – Rave am Mittwoch | … insgesamt 32 Events
+Zuckerwatt	links	2026-11-02	2026-11-13 Grelle Forelle – Zuckerwatt w/ MIJA | 2026-12-11 Grelle Forelle – Zuckerwatt w/ Ellen Allien | 2026-10-09 Grelle Forelle – Pan-Pot – Zuckerwatt | … insgesamt 31 Events
+Techno Obscene	links	2026-11-02	2026-11-07 Das Werk – Techno Obscene #35 – 3 Year Anniversary | 2026-10-03 Das Werk – TECHNO OBSCENE #34 – NINE O NINE x LSH | 2026-09-05 Das Werk – TECHNO OBSCENE #33 – NINE O NINE x LSH | … insgesamt 30 Events
+Contrast	links	2026-11-02	2026-11-21 Grelle Forelle – Contrast pres. DJ Marky + Pola & Bryson | 2026-09-19 Grelle Forelle – CONTRAST pres. CRITICAL w/ CALYX + KASRA + QZB + SEQUENT + S | 2026-07-18 Grelle Forelle – CONTRAST x DARKMTTR w/ S.P.Y + ALIBI + IAMDOOMED + Special G | … insgesamt 29 Events
+Fish Market	links	2026-11-02	2026-11-20 Grelle Forelle – Fish Market w/ Altinbas, Annika Stein, Gerald VDH | 2026-09-18 Grelle Forelle – Fish Market w/LACCHESI: Techno.Kult Kitchen Hosting | 2026-07-17 Grelle Forelle – FISH MARKET w/ DEXTRO, Gerald VDH, Lina K and many more | … insgesamt 29 Events
+Synergy	links	2026-11-02	2026-11-20 Das Werk – Synergy Rave x Trance + Hard Techno | 2026-10-16 Das Werk – SYNERGY RAVE x Trance + Hard Techno | 2026-09-18 Das Werk – SYNERGY RAVE x Trance + Hard Techno – JOR *SPECIAL GUEST* | … insgesamt 23 Events
+Dystopia Rave	links	2026-11-02	2026-11-13 Das Werk – Dystopia | 2026-10-10 Das Werk – DYSTØPIA RAVE | 2026-09-12 Das Werk – DYSTØPIA RAVE | … insgesamt 23 Events
+Flashback	links	2026-11-02	2026-11-27 Grelle Forelle – Flashback w/ Thomas Schumacher – Techno Classics | 2026-08-29 Grelle Forelle – Flashback Techno Classics – Summer Edition | 2026-06-20 Himmel und Wasser – TECHNO AM WASSER x FLASHBACK – Free Open Air Special | … insgesamt 15 Events
+Housetiere	text,links	2026-10-31	2026-12-05 Tagada – HOUSETIERE × VG+ Weekender | 2026-10-31 Tagada – Housetiere w/ Chata | 2026-09-25 Tagada – Housetiere with Kiss The Future (FR) | … insgesamt 11 Events
+Wreck	links	2026-11-02	2026-11-21 SASS Music Club – Wreck | 2026-11-22 SASS Music Club – Morgengymnastik × Wreck | 2026-09-26 SASS Music Club – WRECK invites Ladrillovitz & Cameron | … insgesamt 11 Events
+Spectral	links	2026-11-02	2026-11-06 Kramladen – Spectral with Dual Drive (SE) | 2026-08-01 Kramladen – Spectral pres. Nocturna – Female Energy | 2026-06-27 Club Lucia – Spectral with The Wilds | … insgesamt 11 Events
+Selected	text,links	2026-11-02	2026-11-28 Grelle Forelle – Selected × Bassbussi w/ Cara Elizabeth & Frederic. | 2026-05-13 Grelle Forelle – Fumi b2b Frederic. | Selected | 2026-01-23 Grelle Forelle – Selected – Scheibenwisch3r & Frederic | … insgesamt 8 Events
+Cardio Cult	links	2026-11-02	2026-11-28 SASS Music Club – Cardio Cult | 2026-10-08 SASS Music Club – Cardio Cult with Toni Stark | 2026-08-21 SASS Music Club – Cardio Cult | … insgesamt 8 Events
+techNOage	links	2026-11-02	2026-11-21 FLUCC – techNOage – ab fünfzehn Uhr Clubbing | 2026-06-06 SASS Music Club – Pompadour I SOUNDHOUSE I techNOage | 2025-12-20 FLUCC – techNOage, from three o`clock clubbing | … insgesamt 7 Events
+Rave On Vienna	links	2026-11-02	2026-11-14 Club Exil – RAVE ON XXL 4.0 | 2026-01-05 FLUCC – Rave On – 90´s Rave Party | 2025-02-22 FLUCC – RAVE ON VIENNA – 12th Bday Bash | … insgesamt 5 Events
+Ausländer Haus	links	2026-11-02	2026-11-14 Celeste – Ausländer HAUS! Vol. 22 | 2026-03-14 Celeste – Ausländer Haus vol 16 | 2026-01-31 Celeste – Ausländer Haus Vol 14 | … insgesamt 5 Events
+HERZZZ	links	2026-11-02	2026-11-13 SASS Music Club – HERZZZ | 2026-02-14 SASS Music Club – HERZZZ | 2025-11-21 SASS Music Club – HERZZZ | … insgesamt 5 Events
+Fluffig	links	2026-11-02	2026-11-06 Club Exil – Biosphere – The Techno Spirit of 1997 | 2026-08-28 PRST – FLUFFIG X ACHTERBAHN | 2026-06-13 Club U – Fluffig OPEN AIR | … insgesamt 4 Events
+Cybertribe	links	2026-11-02	2026-11-13 Grelle Forelle – Zuckerwatt w/ MIJA | 2026-12-07 PRST – Cybertribe 11 Years w/ DBBD | 2026-04-03 PRST – CYBERTRIBE
+GLITCH	text	2026-11-02	2026-11-20 Rhiz – GLITCH Vienna 001 | 2026-12-07 The Loft – GLITCH Vienna pres. Stef Davidse
+Schrödingers Groove	text,links	2026-11-02	2026-11-14 FLUCC – Fifi x Schrödinger's Groove | 2026-10-30 Das Werk – Schwerkraft w/ Alex TB, Prakas, Osmos
+The Hive	links	2026-11-02	2026-11-14 Flex – The Hive | 2026-10-31 Flex – The Hive x Collapse – Face Off Halloween Special
+Liminal	text,links	2026-11-02	2026-12-12 The Loft – Liminal Afterhour #3
+Taktgefühl	text,links	2026-11-02	2026-12-11 Club Lucia – TAKTGEFÜHL Vol. 2
+Resonance Social Artists	links	2026-11-02	2026-12-07 The Loft – GLITCH Vienna pres. Stef Davidse
+Tropical Thunder	links	2026-11-02	2026-12-05 Funkhaus – Noche d'Amore – A Dance Romance
+Ninecircles	links	2026-11-02	2026-11-28 Das Werk – Nine Circles
+Switch!	links	2026-11-02	2026-11-28 Flex – Switch! presents Primate – Sticks & Stones Europe Tour
+CPE	links	2026-11-02	2026-11-27 Club Exil – 20 Jahre CPE
+FactX	text,links	2026-11-02	2026-11-27 Grelle Forelle – Flashback w/ Thomas Schumacher – Techno Classics
+High Voltage Fairies	text,links	2026-11-02	2026-11-27 Flex – High Voltage Fairies in the Pit – Metal x DnB
+54Hz	links	2026-11-02	2026-11-21 Das Werk – 54Hz pres. CREEDS
+AMBIEVENT	text,links	2026-11-02	2026-11-20 Kollektiv Kaorle – AMBIEVENT – trace encounters
+Das Syndikat	text,links	2026-11-02	2026-11-20 Celeste – syndikat
+Sub Zero	links	2026-11-02	2026-11-20 The Loft – Sub Zero
+Bonkers	text,links	2026-11-02	2026-11-19 SASS Music Club – Bonkers × Belly Dance Services
+Kaisa Bodega	text,links	2026-11-02	2026-11-14 Funkhaus – Once in a Blue Moon – Kiki Ball + Afterparty
+Pingpaya Fenty Savage	text,links	2026-11-02	2026-11-14 Funkhaus – Once in a Blue Moon – Kiki Ball + Afterparty
+STRICT!	links	2026-11-02	2026-11-14 Libelle – STRICT! The Dark Circus
+Raqsouna	links	2026-11-02	2026-11-14 Club Lucia – Raqsouna invites Gaouta

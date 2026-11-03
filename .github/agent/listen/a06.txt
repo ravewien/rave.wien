@@ -1,0 +1,51 @@
+# Artists – Liste a06 (50). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+Annie High	img,links,bio,from	2026-11-02	2026-11-07 Celeste – Invitation
+Observer	img,links,bio,from	2026-11-03	2026-11-07 Tagada (Hallraum) – Hallraum
+Shyborg	img,links,bio,from	2026-11-03	2026-11-07 Tagada (Hallraum) – Hallraum
+DJ Odd	img,links,bio,from	2026-11-03	2026-11-07 Tagada (Hallraum) – Hallraum
+Catlex	img,links,bio,from	2026-11-02	2026-11-07 Grelle Forelle – Mixed Vienna w/ Prada2000
+Lieblos	img,links,bio,from	2026-11-02	2026-11-07 Grelle Forelle – Mixed Vienna w/ Prada2000
+Sasuma	img,links,bio,from	2026-11-02	2026-11-07 Grelle Forelle – Mixed Vienna w/ Prada2000
+URBANIST	img,links,bio,from	2026-11-02	2026-11-07 Das Werk (Nine O Nine, LSH, 909techno, Techno Obscene) – Techno Obscene #35 – 3 Year Anniversary
+anexate	img,bio,from	2026-11-02	2026-11-07 Kramladen (technolog) – technolog Special with Michel Lauriola (ARG)
+The Bear	img,links,bio,from	2026-11-02	2026-11-07 Rhiz (Fader Friends, Cosmic Egg) – Cosmic BirthRave
+gåpe	img,links,bio,from	2026-11-02	2026-11-07 Rhiz (Fader Friends, Cosmic Egg) – Cosmic BirthRave
+wert	img,links,bio,from	2026-11-02	2026-11-07 Rhiz (Fader Friends, Cosmic Egg) – Cosmic BirthRave
+Luminoise	img,links,bio,from	2026-11-02	2026-11-07 Rhiz (Fader Friends, Cosmic Egg) – Cosmic BirthRave
+Zer0Ton1n	img,links,bio,from	2026-11-02	2026-11-07 Rhiz (Fader Friends, Cosmic Egg) – Cosmic BirthRave
+RIETVELD	img,links,bio,from	2026-11-02	2026-11-07 Rhiz (Fader Friends, Cosmic Egg) – Cosmic BirthRave
+Arne	img,links,bio,from	2026-11-02	2026-11-07 SASS Music Club (Cyclic Existence) – Cyclic Existence
+André	img,links,from	2026-11-02	2026-11-07 SASS Music Club (Cyclic Existence) – Cyclic Existence
+Arni Jr.	img,links,bio,from	2026-11-02	2026-11-07 SASS Music Club (Cyclic Existence) – Cyclic Existence
+dj-spike	img,links,bio,from	2026-11-03	2026-11-07 The Inner Circle – disconnected from the present
+Grafenauer	img,links,bio,from	2026-11-03	2026-11-07 The Inner Circle – disconnected from the present
+Sherine Falasteen	img,links	2026-11-02	2026-11-07 FLUCC (Klub Halal, Habibi Party) – Klub Halal pres. Klub Palestine
+MODI	img,links,from	2026-11-02	2026-11-07 FLUCC (Klub Halal, Habibi Party) – Klub Halal pres. Klub Palestine
+Sanadrilla	img,from	2026-11-02	2026-11-07 FLUCC (Klub Halal, Habibi Party) – Klub Halal pres. Klub Palestine
+NEXUS	img,links	2026-11-02	2026-11-06 FLUCC (Bestand, up/or) – up/or with NEXUS (live), k means, SAMI, DJ Fred & zey
+DJ Fred	img,links,bio,from	2026-11-02	2026-11-06 FLUCC (Bestand, up/or) – up/or with NEXUS (live), k means, SAMI, DJ Fred & zey
+MJANE	img	2026-11-02	2026-11-06 Tagada (House of Plüsch) – Plüsch
+Cristinho	img,links,bio,from	2026-11-02	2026-11-06 Tagada (House of Plüsch) – Plüsch
+Florian No	img,links,bio,from	2026-11-02	2026-11-06 Tagada (House of Plüsch) – Plüsch
+DJ SDRICCI	img,from	2026-11-02	2026-11-06 Club Exil (Fluffig) – Biosphere – The Techno Spirit of 1997
+Marilou	img,links,bio,from	2026-11-02	2026-11-06 Club Exil (Fluffig) – Biosphere – The Techno Spirit of 1997
+Raphael Warg	img,links,bio,from	2026-11-02	2026-11-06 Club Exil (Fluffig) – Biosphere – The Techno Spirit of 1997
+Mary Slim	img,links,bio,from	2026-11-02	2026-11-06 The Loft (Empyreon, Kollektiv Birdhouse) – Empyreon – Vol. III
+Matt Ludlam	img,links,bio,from	2026-11-02	2026-11-06 The Loft (Empyreon, Kollektiv Birdhouse) – Empyreon – Vol. III
+DJ Andy	img,links,bio,from	2026-11-02	2026-11-06 The Loft (Empyreon, Kollektiv Birdhouse) – Empyreon – Vol. III
+rambazambra	img,links,bio,from	2026-11-03	2026-11-06 Funkhaus (Café Mondo) – Café Mondo invites Mama Demba
+binderos	img,bio,from	2026-11-03	2026-11-06 Funkhaus (Café Mondo) – Café Mondo invites Mama Demba
+sophaya aka drahra	img,bio,from	2026-11-03	2026-11-06 Funkhaus (Café Mondo) – Café Mondo invites Mama Demba
+ooku.	img,bio,from	2026-11-03	2026-11-06 Funkhaus (Café Mondo) – Café Mondo invites Mama Demba
+unselm	img,links,bio,from	2026-11-03	2026-11-06 Funkhaus (Café Mondo) – Café Mondo invites Mama Demba
+paul heimlich	img,bio,from	2026-11-03	2026-11-06 Funkhaus (Café Mondo) – Café Mondo invites Mama Demba
+H∆NN∆	img,links,bio,from	2026-11-02	2026-11-06 Celeste – Clubbduzz
+Shaolinda	img,links,bio,from	2026-11-02	2026-11-06 Celeste – Clubbduzz
+DJ Kompact	img,links,bio,from	2026-11-02	2026-11-06 Celeste – Clubbduzz
+DDS Fam	img,links,bio,from	2026-11-02	2026-11-06 Celeste – Clubbduzz
+High on Melancholia	img,from	2026-11-02	2026-11-06 Das Werk (GDN) – GDN Klubnacht w/ Tham
+LavendL	img,links,bio,from	2026-11-02	2026-11-06 Das Werk (GDN) – GDN Klubnacht w/ Tham
+Nafaka & Lipo	img,links,bio,from	2026-11-02	2026-11-06 FLUCC (Im Freudentaumel) – Im Freudentaumel
+Matthias Kaiser	bio	2026-11-02	2026-11-06 PRST (Kollektiv Ost:West) – BLUR with E.LINA
+Jana Passt	img,links,bio,from	2026-11-02	2026-11-06 Loop (LustMusik) – 5. Org
+LinsenJoe	img,links,bio,from	2026-11-02	2026-11-06 Loop (LustMusik) – 5. Org

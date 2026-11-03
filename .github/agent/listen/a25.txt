@@ -1,0 +1,51 @@
+# Artists – Liste a25 (50). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+Particle	neu	-	2025-06-13 Grelle Forelle (Contrast) – CONTRAST pres. PARTICLE + MOLECULAR | 18+
+Peter Blue	neu	-	2025-06-08 PRST (Mahlwerk) – Mahlwerk w/ Peter Blue
+Mimi Love	neu	-	2025-06-07 Pratersauna (Praternostra) – PRATERNOSTRA /W MIMI LOVE (Berlin/Kater Blau)
+Lee Ann Roberts	neu	-	2025-06-07 Grelle Forelle (Purradox) – PURRADOX w/ LEE ANN ROBERTS
+LsDirty	neu	-	2025-06-07 FLUCC – PSYPERIENCE Birthday Bash with LsDirty
+Almedina	neu	-	2025-06-06 SASS Music Club (Superstate) – Superstate W/ Almedina
+Ida Engberg	neu	-	2025-06-06 Grelle Forelle (Zuckerwatt) – ZUCKERWATT w/ IDA ENGBERG
+Martin Freudentanz	neu	-	2025-05-31 Grelle Forelle (Flashback) – FLASHBACK Techno Classics @ Grelle Forelle
+Falabella	neu	-	2025-05-31 Grelle Forelle (Flashback) – FLASHBACK Techno Classics @ Grelle Forelle
+Belocca	neu	-	2025-05-31 FLUCC (Spectral) – Spectral with Belocca
+Cyan85	neu	-	2025-05-30 SASS Music Club – Spumante Nights w/ Cyan85
+JAEL	neu	-	2025-05-30 PRST (Shapes & Fugazi) – SHAPES & FUGAZI present JAEL
+Cougar	neu	-	2025-05-30 Grelle Forelle (Psytrance Universe) – Psytrance Universe – Neon Dimensions @ Grelle Forelle
+Misaya	neu	-	2025-05-30 Grelle Forelle (Psytrance Universe) – Psytrance Universe – Neon Dimensions @ Grelle Forelle
+Progtamin	neu	-	2025-05-30 Grelle Forelle (Psytrance Universe) – Psytrance Universe – Neon Dimensions @ Grelle Forelle
+Oblix	neu	-	2025-05-30 Grelle Forelle (Psytrance Universe) – Psytrance Universe – Neon Dimensions @ Grelle Forelle
+Serex	neu	-	2025-05-30 Grelle Forelle (Psytrance Universe) – Psytrance Universe – Neon Dimensions @ Grelle Forelle
+Marakame	neu	-	2025-05-30 Grelle Forelle (Psytrance Universe) – Psytrance Universe – Neon Dimensions @ Grelle Forelle
+Agnya	neu	-	2025-05-30 Grelle Forelle (Psytrance Universe) – Psytrance Universe – Neon Dimensions @ Grelle Forelle
+Karam J	neu	-	2025-05-30 Grelle Forelle (Psytrance Universe) – Psytrance Universe – Neon Dimensions @ Grelle Forelle
+Camsis	neu	-	2025-05-30 Grelle Forelle (Psytrance Universe) – Psytrance Universe – Neon Dimensions @ Grelle Forelle
+Cook Strummer	neu	-	2025-05-30 FLUCC – SUD Art and Sound Journey with Cook Strummer & Scoopsi
+Scoopsi	neu	-	2025-05-30 FLUCC – SUD Art and Sound Journey with Cook Strummer & Scoopsi
+Peletronicc	neu	-	2025-05-28 SASS Music Club – Fortunea Records Release-Party: Restless EP by Peletronicc
+Marsolo	neu	-	2025-05-28 Grelle Forelle (Zuckerwatt) – ZUCKERWATT x DU TANZT MICH MAL – 2 FLOORS + OPEN AIR w/ MARS
+Elah	img,bio,from	-	2025-05-28 FLUCC (deep cut) – deep cut w/ Altroy Jerome & Elah – Hypnotic & Deep Techno
+RUNY	neu	-	2025-05-24 Tagada (WRECK) – WRECK pres. RUNY & MANDE
+Mande	neu	-	2025-05-24 Tagada (WRECK) – WRECK pres. RUNY & MANDE
+Paige Tomlinson	neu	-	2025-05-24 PRST (Tasteless) – TASTELESS INVITES Paige Tomlinson
+Zisko	neu	-	2025-05-24 Grelle Forelle (Below the Surface) – BELOW THE SURFACE w/ ZISKO
+Pascal Moscheni	neu	-	2025-05-23 PRST (Paradies Garten, VIE.W) – Paradies Garten & Vie.w x PRST with Pascal Moscheni
+Mimosa	neu	-	2025-05-23 Grelle Forelle (Techno Entgleist) – 8 YRS TECHNO ENTGLEIST | Open Air & Indoor
+Danloe	neu	-	2025-05-23 Grelle Forelle (Techno Entgleist) – 8 YRS TECHNO ENTGLEIST | Open Air & Indoor
+Ritter Butzke	neu	-	2025-05-23 FLUCC (Im Freudentaumel) – Im Freudentaumel mit Maurice Mino (Praerie Festival, Ritter 
+Re:vo)	neu	-	2025-05-23 FLUCC (Im Freudentaumel) – Im Freudentaumel mit Maurice Mino (Praerie Festival, Ritter 
+Skoden	neu	-	2025-05-23 Das Werk (Nachtschub) – NACHTSCHUB with Skoden (UK)
+Kaze Elza	neu	-	2025-05-22 SASS Music Club – Donnerstag Nacht mit Kaze Elza
+Calabazza	neu	-	2025-05-17 SASS Music Club – A LuvAffair with Calabazza
+Stigmatique	neu	-	2025-05-16 Grelle Forelle (Fish Market) – FISH MARKET x HOLEY feat. Seelen Rec. Label Night
+DJ Yugo	neu	-	2025-05-16 Grelle Forelle (Fish Market) – FISH MARKET x HOLEY feat. Seelen Rec. Label Night
+Erhyc	neu	-	2025-05-16 Grelle Forelle (Fish Market) – FISH MARKET x HOLEY feat. Seelen Rec. Label Night
+VSSL	neu	-	2025-05-16 Grelle Forelle (Fish Market) – FISH MARKET x HOLEY feat. Seelen Rec. Label Night
+Gremlinz	neu	-	2025-05-16 FLUCC – INTRIKAT presents GREMLINZ
+Monile	neu	-	2025-05-15 SASS Music Club (Groove Revival) – Groove Revival invites MONILE
+Mariad	neu	-	2025-05-10 Grelle Forelle (Tattu Tatta Glub) – TATTU TATTA GLUB macht PAU’se @ GRELLE FORELLE
+Greg	neu	-	2025-05-10 Grelle Forelle (Tattu Tatta Glub) – TATTU TATTA GLUB macht PAU’se @ GRELLE FORELLE
+DJ Spit & Caramelo	neu	-	2025-05-10 Grelle Forelle (Tattu Tatta Glub) – TATTU TATTA GLUB macht PAU’se @ GRELLE FORELLE
+Prosumer	neu	-	2025-05-09 PRST – Demuja X PRST w/ Prosumer
+A.n.i	neu	-	2025-05-09 Grelle Forelle (Zuckerwatt) – ZUCKERWATT w/ A.N.I. x VOID x DONAU RAVE
+VOID	neu	-	2025-05-09 Grelle Forelle (Zuckerwatt) – ZUCKERWATT w/ A.N.I. x VOID x DONAU RAVE

@@ -1,0 +1,51 @@
+# Artists – Liste a22 (50). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+Bababass3000	neu	-	2025-11-29 Grelle Forelle (NEXUS, Wyldhearts) – NEXUS X WYLDHEARTS
+Baumeister98	neu	-	2025-11-29 Grelle Forelle (NEXUS, Wyldhearts) – NEXUS X WYLDHEARTS
+Ferrand	neu	-	2025-11-29 Grelle Forelle (NEXUS, Wyldhearts) – NEXUS X WYLDHEARTS
+Calu	neu	-	2025-11-29 Grelle Forelle (NEXUS, Wyldhearts) – NEXUS X WYLDHEARTS
+Kafka	neu	-	2025-11-29 Club Lucia (Deep Dive) – DEEP DIVE W/ KAFKA
+NVST	neu	-	2025-11-28 Pratersauna – common ground with NVST
+Nick Curly	neu	-	2025-11-28 PRST (Red Groove Social Club) – RED GROOVE (Social Club) presents: Nick Curly
+D Dan	neu	-	2025-11-28 Grelle Forelle (F*cken Plus) – F*PLUS w/ D DAN, GERALD VDH, VIOLETTA, ua
+Carré	neu	-	2025-11-22 Pratersauna (Basstrace) – Basstrace 065 with Carré, Dubrunner, Truant & OFF THE GRID
+Dubrunner	neu	-	2025-11-22 Pratersauna (Basstrace) – Basstrace 065 with Carré, Dubrunner, Truant & OFF THE GRID
+Truant	neu	-	2025-11-22 Pratersauna (Basstrace) – Basstrace 065 with Carré, Dubrunner, Truant & OFF THE GRID
+Off The Grid	neu	-	2025-11-22 Pratersauna (Basstrace) – Basstrace 065 with Carré, Dubrunner, Truant & OFF THE GRID
+Mike Vinyl	neu	-	2025-11-22 Grelle Forelle (Flashback) – FLASHBACK Techno Classics
+Spandau 20	neu	-	2025-11-21 Grelle Forelle (TURBO) – Spandau 20 | Fjaak, Elli Acula, Claus | TURBO
+Tommahawk	neu	-	2025-11-15 Pratersauna (Praternostra) – PRATERNOSTRA invites Tommahawk & Rosa Rosen
+Spätschicht Invites	neu	-	2025-11-15 Club Lucia (Spätschicht) – SPÄTSCHICHT INVITES
+Claudio Ricci	neu	-	2025-11-14 SASS Music Club (Club Pompadour) – Club Pompadour with Claudio Ricci
+Shy One	neu	-	2025-11-14 PRST (Shapes & Fugazi) – SHAPES & FUGAZI pres. Shy One
+Freddy K	neu	-	2025-11-14 Grelle Forelle (Fish Market) – FISH MARKET w/ FREDDY K, Annika Stein, Deadlift, etc.
+Don Darkoe	neu	-	2025-11-13 PRST – BLCKSHIFT ANNIVERSARY SESSION with Don Darkoe, Atmos & Feist
+Atmos	neu	-	2025-11-13 PRST – BLCKSHIFT ANNIVERSARY SESSION with Don Darkoe, Atmos & Feist
+Feistling	neu	-	2025-11-13 PRST – BLCKSHIFT ANNIVERSARY SESSION with Don Darkoe, Atmos & Feist
+Thursday Immersion	neu	-	2025-11-13 Kramladen (Spectral) – Spectral pres. Thursday Immersion
+entrance	neu	-	2025-11-09 SASS Music Club (Morgengymnastik) – Morgengymnastik w/entrance
+Mike Momburg	neu	-	2025-11-08 SASS Music Club – Viva Vienna invites: Mike Momburg
+klangfülle	neu	-	2025-11-08 Pratersauna (Magika) – Cacao Rave w/ Kakaochi & Magika: T.A.N.Z. feat klangfülle
+Flo Massé	neu	-	2025-11-08 PRST – VOYAGE w/ Flo Massé
+Orbit141	neu	-	2025-11-08 Das Werk (Dystøpia Rave) – DYSTØPIA RAVE with ORBIT141
+Creatures	neu	-	2025-11-08 Club Lucia (Fuelized) – FUELIZED 2 YEAR ANNIVERSARY W/ CREATURES [UK] + WINGZ [AT]
+Ephy Pinkman	neu	-	2025-11-07 Pratersauna – JOKER invites: Ephy Pinkman
+Niotech	neu	-	2025-11-07 Das Werk (Herzfrequenz) – HERZFREQUENZ presents: NIOTECH
+Dino Saints	neu	-	2025-11-01 SASS Music Club (Deep Dive) – DEEP DIVE W/ DINO SAINTS
+Gromma	neu	-	2025-10-31 SASS Music Club – Do Easy Rec. with FRANZISKA BERNS & GROMMA
+Steve Bug	neu	-	2025-10-31 PRST – Halloween at PRST Club with Steve Bug
+Vera Grace	neu	-	2025-10-31 Grelle Forelle – Halloween w/ Chlär & Vera Grace
+Steve Hope	neu	-	2025-10-25 SASS Music Club – Steve Hope and Friends E.Royal Birthday
+Victor Ruiz	neu	-	2025-10-25 Pratersauna (Profiliga) – PROFILIGA präs: Victor Ruiz
+Ben Klock	neu	-	2025-10-24 Grelle Forelle (TURBO) – Ben Klock | TURBO
+Bedandclouds	neu	-	2025-10-23 SASS Music Club (VIE.W) – VIE.W w/ Bedandclouds
+Aaron	neu	-	2025-10-18 PRST (Red Groove Social Club) – RED GROOVE (Social Club) with Aaron, It’s George, Meet Frank
+Ivy Lab	neu	-	2025-10-18 Grelle Forelle (Contrast) – CONTRAST pres. DE_VERTE w/ IMANU + IVY LAB + SKOFI + COBRA |
+Skofi	neu	-	2025-10-18 Grelle Forelle (Contrast) – CONTRAST pres. DE_VERTE w/ IMANU + IVY LAB + SKOFI + COBRA |
+Lady Maru	neu	-	2025-10-17 Tagada (Hart Lab) – Hart Lab w/ Lady Maru
+Camp Prog	neu	-	2025-10-17 SASS Music Club (Amore AG) – Amore AG presents: CAMP PROG
+ELIF	neu	-	2025-10-17 Pratersauna (Volta) – Volta invites ELIF
+DVS1	neu	-	2025-10-17 Grelle Forelle (Fish Market) – FISH MARKET feat. DVS1
+OME	neu	-	2025-10-17 Club Lucia – BLVZE x Subzone pres. OME
+Andi Britz	neu	-	2025-10-11 SASS Music Club (Cardio Cult) – Cardio Cult w/ Andi Britz & Anna Soto
+Emerald	neu	-	2025-10-11 Pratersauna (Praternostra) – PRATERNOSTRA Invites Emerald
+Sachsentrance	neu	-	2025-10-11 Grelle Forelle (Tattu Tatta Glub) – TATTU TATTA GLUB & SACHSENTRANCE @ Grelle Forelle
