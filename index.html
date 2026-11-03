@@ -1876,7 +1876,11 @@ function setTop(){const t=document.querySelector(".top").offsetHeight;document.d
 addEventListener("resize",()=>{setTop();layoutStack()});
 function render(){texts();renderSide();renderList();renderActive();renderDeck();persistF()}
 function persistF(){try{localStorage.setItem(FKEY,JSON.stringify({...Object.fromEntries(FK.map(k=>[k,[...st[k]]])),x:Object.fromEntries(FK.map(k=>[k,[...st.x[k]]]))}))}catch(_){}}
-function setView(v){if(st.view===v)return;st.view=v;save();scrollTo(0,0);render()}
+// GoatCounter: welche Ansichten genutzt werden (Wechsel per Menü + Ansicht beim Öffnen der Seite)
+const VIEWN={list:"Liste",cal:"Kalender",loc:"Karte",art:"Artists",col:"Veranstalter"};
+const gcView=(v,start)=>gc("ansicht/"+(start?"start-":"")+({list:"liste",cal:"kalender",loc:"karte",art:"artists",col:"veranstalter"}[v]||v),(start?"Ansicht beim Start: ":"Ansicht: ")+(VIEWN[v]||v),true);
+function setView(v){if(st.view===v)return;st.view=v;gcView(v);save();scrollTo(0,0);render()}
+try{gcView(st.view,1)}catch(_){}
 
 document.addEventListener("keydown",ev=>{if(ev.key==="Escape"&&!$("flybox").hidden){$("flybox").hidden=true;hpop(1);return}if((ev.key==="Enter"||ev.key===" ")&&ev.target.dataset&&ev.target.dataset.pin!=null){ev.preventDefault();ev.target.dispatchEvent(new MouseEvent("click",{bubbles:true}));return}if(ev.key==="Escape"&&$("side").classList.contains("open")){drawer(false);return}if(ev.key==="Escape"&&document.activeElement!==$("q")&&st.cards.length){closeCard(ck(st.cards[st.cards.length-1]));hpop(1)}});
 document.addEventListener("click",ev=>{
