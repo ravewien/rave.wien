@@ -945,7 +945,7 @@ const CI={
    "https://ra.co/events/993998"
   ],
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "de": "Drum-&-Bass-Reihe, die seit 2015 ausschließlich in der Grellen Forelle stattfindet und von Markus Szabo veranstaltet wird. Laut Veranstalter war sie eine der ersten Wiener D&B-Veranstaltungen ab 18 Jahren; gebucht werden regelmäßig internationale Gäste, u. a. aus Großbritannien, sowie Labelnächte.",
   "en": "Drum & bass series held exclusively at Grelle Forelle since 2015, hosted by Markus Szabo. According to the organiser it was one of the first 18+ d&b events in Vienna; it regularly books international guests, including from the UK, as well as label nights.",
   "type": [
@@ -1015,7 +1015,7 @@ const CI={
   "de": "Wöchentliche Rave-Reihe am Mittwoch („RAM – Recharge Wednesdays“) im Werk, 23–6 Uhr, Eintritt gegen freie Spende, ohne Dresscode und mit Awareness-Team.",
   "en": "Weekly Wednesday rave series ('RAM – Recharge Wednesdays') at Das Werk, 11pm–6am, entry by free donation, no dress code and with an awareness team.",
   "from": "Wien",
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "alias": [
    "RAM"
   ]
@@ -1213,7 +1213,7 @@ const CI={
    "https://ra.co/events/1198279"
   ],
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "type": [
    "Reihe"
   ],
@@ -1226,7 +1226,7 @@ const CI={
    "https://ohschonhell.at/orte/grelle+forelle/3"
   ],
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Achterbahn": {
   "de": "Reihe von Anna Ullrich im PRST.",
@@ -1470,7 +1470,7 @@ const CI={
  },
  "The Hive": {
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "de": "Drum-&-Bass-Veranstaltung im Wiener Flex, die internationale Acts wie Ed Rush, Millbrook oder Tantron mit lokalen DJs präsentiert; Ausgaben sind mindestens seit 2024 belegt, 2026 gemeinsam mit Collapse.",
   "en": "Drum & bass event at Vienna's Flex presenting international acts such as Ed Rush, Millbrook or Tantron alongside local DJs; editions are documented since at least 2024, in 2026 together with Collapse.",
   "src": [
@@ -1559,7 +1559,7 @@ const CI={
   "src": [
    "https://sassvienna.com/en/events/event/wreck-7"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "AWSM": {
   "infoChk": "2026-11-02",
@@ -1679,7 +1679,7 @@ const CI={
    "https://de.ra.co/events/2323092",
    "https://de.ra.co/events/2462572"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Empyreon": {
   "de": "Neue Eventreihe im Wiener The Loft mit dem Ziel, eine lokale Szene für Deep-, Progressive- und Melodic-House-Musik, DJs und Produzent:innen in Wien aufzubauen.",
@@ -2112,7 +2112,7 @@ const CI={
    "https://de.ra.co/events/2100688",
    "https://ra.co/events/2561642"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "founded": "2015",
   "foundedNote": 1
  },
@@ -2271,14 +2271,14 @@ const CI={
   "src": [
    "https://ra.co/events/2546333"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Pingpaya Fenty Savage": {
   "noLogo": "2026-11-02",
   "src": [
    "https://ra.co/events/2546333"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "VLAN": {
   "de": "VLAN („Vienna Local Area Network“) ist ein Wiener Internetradio für zeitgenössische (Nicht-)Club-Musik mit Fokus auf die Stärkung marginalisierter Gruppen; veranstaltet u. a. die Reihe HEAVY LISTENING mit Ambient, Dub und experimenteller Elektronik.",
@@ -2400,7 +2400,7 @@ const CI={
  },
  "Bonkers": {
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Belly Dance Services": {
   "noLogo": "2026-11-02",
@@ -2419,15 +2419,15 @@ const CI={
  },
  "AMBIEVENT": {
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Das Syndikat": {
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Sub Zero": {
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "de": "Techno-Reihe unter dem Motto „Vienna meets Berlin“ im The Loft, die Berliner Techno-Acts mit der dunkleren, rohen Seite der Wiener Szene zusammenbringt – treibende Kicks, düstere Atmosphäre, kein Mainstream.",
   "en": "Techno series under the motto 'Vienna meets Berlin' at The Loft, bringing Berlin techno acts together with the darker, raw side of the Vienna scene – driving kicks, dark atmospheres, no mainstream.",
   "alias": [
@@ -2541,7 +2541,8 @@ const CI={
    "https://www.1000thingsmagazine.com/de/a/1180209/vierviertel-vienna-techno-inklusion/"
   ],
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "ig": "https://www.instagram.com/vierviertelvienna/"
  },
  "Art Attech": {
   "de": "Wiener Event-Reihe „Kunst küsst Techno“ im FLUCC, die eine Kunst-Vernissage (Ausstellung, Performances, Artist Talks, Live- und Mitmach-Painting) mit einem anschließenden Techno-Rave verbindet; ein Teil der Einnahmen geht an die ausstellenden Künstler:innen. Ausgabe #9 fand im November 2024, #10 im Jänner 2025 statt, 2026 folgte die 14. Ausgabe.",
@@ -2569,7 +2570,7 @@ const CI={
    "https://ra.co/events/2415040"
   ],
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "type": [
    "Reihe"
   ]
@@ -2584,7 +2585,7 @@ const CI={
    "https://www.club-exil.at/en"
   ],
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Triple A Events": {
   "de": "Wiener Veranstalter (auch „AAA Events“) mit der Eventmarke „Access Another Atmosphere“ für Trance, Melodic Techno und verwandte Sounds, u. a. im Club Exil und im Prater Dome.",
@@ -2624,7 +2625,7 @@ const CI={
  },
  "FactX": {
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Frieden & Liebe": {
   "de": "Wiener Kollektiv hinter der Reihe VIVID im SASS Music Club, die für eklektischen, genreübergreifenden House steht.",
@@ -2645,7 +2646,7 @@ const CI={
  },
  "High Voltage Fairies": {
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Ninecircles": {
   "de": "Partyreihe für Techno und Industrial im Werk – „ein kompromissloser Trip in den Underground“.",
@@ -2661,7 +2662,7 @@ const CI={
    "https://ra.co/events/2473498"
   ],
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Switch!": {
   "de": "Drum-&-Bass-Veranstalter, der internationale Acts ins Flex holt (z. B. Subsonic Frequencies × MAZE, Primate).",
@@ -2669,14 +2670,17 @@ const CI={
   "from": "Wien",
   "tix": "https://switch.ticket.io/",
   "src": [
-   "https://ra.co/events/2340564"
+   "https://ra.co/events/2340564",
+   "https://soundcloud.com/switchrecordings/sub-zero-switch-23032024"
   ],
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03",
+  "ig": "https://www.instagram.com/switchrecordings/",
+  "sc": "https://soundcloud.com/switchrecordings"
  },
  "Cardio Cult": {
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-03",
   "de": "Wiederkehrende Clubnacht im SASS Music Club in Wien, auf RA mit mehreren Ausgaben gelistet.",
   "en": "Recurring club night at SASS Music Club in Vienna, with several editions listed on RA.",
   "type": [
@@ -2798,7 +2802,7 @@ const CI={
    "https://www.theloft.at/glitch-vienna-pres-stef-davidse/"
   ],
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Titti Queer Club": {
   "de": "Queere Partyreihe in Wien („Titti Titti Bang Bang“), die sich als Safe Space für queere Gäste und offene Bühne für queere Künstler:innen versteht. Drei Floors mit Pop, Rock und Techno, dazu Drag-Shows und Performances, u. a. im The Loft. Alle Geschlechter willkommen, keine Toleranz für Diskriminierung.",
@@ -2825,11 +2829,11 @@ const CI={
  },
  "Taktgefühl": {
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Liminal": {
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Ausländer Haus": {
   "de": "Wiener Partyreihe mit multikulturellem Fokus: Afro House, Latin und orientalische Beats, aufgelegt von DJs aus dem Globalen Süden (u. a. Chile, Ägypten, Uganda, Indien, Nigeria). Stationen u. a. Cafe Derwisch Partykeller, FLUCC und Celeste; mittlerweile über 20 Ausgaben.",
@@ -2844,7 +2848,7 @@ const CI={
    "https://de.ra.co/events/2290782"
   ],
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-03"
  },
  "Pirotecnia": {
   "de": "Chilenisches Label (gegründet 2014) für House, Techno, Global Beats und Experimentelles mit elektronischen lateinamerikanischen Rhythmen; laut RA Mitveranstalter des Wien-Abends mit DJ Raff im Fanialive.",
