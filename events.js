@@ -43123,7 +43123,8 @@ const AR={
  "Marcel Fengler": {
   "img": "https://static.ra.co/images/profiles/square/marcelfengler.jpg?dateUpdated=1746051559657",
   "links": {
-   "ra": "https://ra.co/dj/marcelfengler"
+   "ra": "https://ra.co/dj/marcelfengler",
+   "sc": "https://soundcloud.com/marcel-fengler"
   },
   "genres": [
    "Techno"
@@ -43141,9 +43142,25 @@ const AR={
    "en": "Techno DJ and producer who was among the first residents at Berghain/Panorama Bar in Berlin in 2005. His style ranges from hard, industrial sounds to broken beats, dark dubs and melodic grooves. Releases on Ostgut Ton and Mote Evolver among others, debut album \"Fokus\" (2013); in 2011 he founded his label IMF."
   },
   "src": [
-   "https://ra.co/dj/marcelfengler/biography"
+   "https://ra.co/dj/marcelfengler/biography",
+   "https://soundcloud.com/marcel-fengler"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "sets": [
+   {
+    "t": "Marcel Fengler b2b STEYA – Live at RE/FORM Spring 2025",
+    "u": "https://soundcloud.com/6amgroup/marcel-fengler-b2b-steya-live-at-reform-spring-2025"
+   },
+   {
+    "t": "Crack Mix 173 – Marcel Fengler",
+    "u": "https://soundcloud.com/crackmagazine/crack-mix-173-marcel-fengler"
+   },
+   {
+    "t": "RA.209 Marcel Fengler",
+    "u": "https://soundcloud.com/resident-advisor/ra209-marcel-fengler"
+   }
+  ],
+  "setsChecked": "2026-11-04"
  },
  "Cera Khin": {
   "img": "https://static.ra.co/images/profiles/square/cerakhin.jpg?dateUpdated=1779828455197",
@@ -43336,7 +43353,8 @@ const AR={
  "Lisana": {
   "img": "https://static.ra.co/images/profiles/square/lisana.jpg?dateUpdated=1586523587000",
   "links": {
-   "ra": "https://ra.co/dj/lisana"
+   "ra": "https://ra.co/dj/lisana",
+   "sc": "https://soundcloud.com/lisanaofficial"
   },
   "from": {
    "de": "Österreich",
@@ -43350,9 +43368,21 @@ const AR={
    "en": "DJ project of Anna Sophie and Lisa Christina, born in summer 2019 after a trip to Ibiza. Back in Austria they started mixing and share their mixes online; in 2021 tracks such as \"Panthera\" and \"Pharao\" came out on CHAPTER EIGHT."
   },
   "src": [
-   "https://ra.co/dj/lisana/biography"
+   "https://ra.co/dj/lisana/biography",
+   "https://soundcloud.com/lisanaofficial"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "sets": [
+   {
+    "t": "Techno am Berg Set 2022",
+    "u": "https://soundcloud.com/lisanaofficial/technoamberg-set-2022"
+   },
+   {
+    "t": "Lisana #12",
+    "u": "https://soundcloud.com/lisanaofficial/lisana-12"
+   }
+  ],
+  "setsChecked": "2026-11-04"
  },
  "Skantia": {
   "img": "https://static.ra.co/images/profiles/square/skantia.jpg?dateUpdated=1725529357000",
@@ -43376,7 +43406,18 @@ const AR={
   "src": [
    "https://ra.co/dj/skantia/biography"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "sets": [
+   {
+    "t": "PRG:MIX015 – Skantia (RAM Records)",
+    "u": "https://soundcloud.com/ramrecords/skantia-mix"
+   },
+   {
+    "t": "Skantia – Mixmag Lab",
+    "u": "https://soundcloud.com/mixmag-1/skantia-mixmag-lab"
+   }
+  ],
+  "setsChecked": "2026-11-04"
  },
  "The Jakob Sister": {
   "img": "https://static.ra.co/images/profiles/square/thejakobsister.jpg?dateUpdated=1699354135000",
@@ -43435,7 +43476,8 @@ const AR={
  "Sam Irl": {
   "img": "https://static.ra.co/images/profiles/square/samirl.jpg?dateUpdated=1485293715673",
   "links": {
-   "ra": "https://ra.co/dj/samirl"
+   "ra": "https://ra.co/dj/samirl",
+   "sc": "https://soundcloud.com/sam-irl"
   },
   "from": {
    "de": "Niederbayern, lebt in Wien",
@@ -43457,7 +43499,8 @@ const AR={
    "en": "Vienna-based producer, DJ and mixing/mastering engineer releasing since 2006 on labels such as Freerange, Jazz & Milk, Brownswood and Running Back. His sound blends sample-based MPC grooves, jazz harmonies, analogue synths and dub. With his studio neighbour Patrick Pulsinger he produces dubby, analogue house and techno as Pulsinger & Irl."
   },
   "src": [
-   "https://ra.co/dj/samirl/biography"
+   "https://ra.co/dj/samirl/biography",
+   "https://soundcloud.com/sam-irl"
   ],
   "infoChk": "2026-11-04"
  },
@@ -43533,9 +43576,18 @@ const AR={
    "DJ Tjizza"
   ],
   "src": [
-   "https://ra.co/dj/djtjizza"
+   "https://ra.co/dj/djtjizza",
+   "https://soundcloud.com/moodwaves/cm006-rap-moods-dj-tjizza-nasty-tools-ep"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "labels": [
+   "Mood Waves",
+   "Días De Campo"
+  ],
+  "bio": {
+   "de": "DJ und Produzent aus Deutschland mit Releases u. a. auf Mood Waves (Conceptual Moods) und Días De Campo. Seit 2020 auf RA gelistet, spielt er vor allem in Berlin, Amsterdam, London, Paris und Barcelona.",
+   "en": "DJ and producer from Germany with releases on Mood Waves (Conceptual Moods) and Días De Campo, among others. Listed on RA since 2020, he plays mostly in Berlin, Amsterdam, London, Paris and Barcelona."
+  }
  },
  "Helly": {
   "img": "https://static.ra.co/images/profiles/square/helly.jpg?dateUpdated=1676907358000",
@@ -43551,7 +43603,11 @@ const AR={
   "src": [
    "https://ra.co/dj/helly"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "bio": {
+   "de": "DJ aus Deutschland, seit 2022 auf RA gelistet. Sie spielt vor allem in Berlin, Amsterdam, London und Köln, etwa im Club der Visionaere und in der Renate.",
+   "en": "DJ from Germany, listed on RA since 2022. She plays mostly in Berlin, Amsterdam, London and Cologne, at venues such as Club der Visionaere and Renate."
+  }
  },
  "LB": {
   "img": "https://static.ra.co/images/profiles/square/lbakalabat.jpg?dateUpdated=1763642744867",
@@ -43594,7 +43650,8 @@ const AR={
  "Art of Tones": {
   "img": "https://static.ra.co/images/profiles/square/artoftones.jpg?dateUpdated=1696438459147",
   "links": {
-   "ra": "https://ra.co/dj/artoftones"
+   "ra": "https://ra.co/dj/artoftones",
+   "sc": "https://soundcloud.com/llorca"
   },
   "genres": [
    "House",
@@ -43615,9 +43672,25 @@ const AR={
    "en": "Ludovic Llorca's alter ego for jazz-tinged house and disco, launched in 2006 as a side project with a run of EPs. Known for tracks such as \"Praise\" and \"The Rainbow Song\"; releases on Local Talk, Toy Tonics and Glitterbox, where he has been a regular at their parties since 2022."
   },
   "src": [
-   "https://ra.co/dj/artoftones/biography"
+   "https://ra.co/dj/artoftones/biography",
+   "https://soundcloud.com/llorca/sets/art-of-tones-tunes"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "sets": [
+   {
+    "t": "Traxsource LIVE! #568 Art Of Tones",
+    "u": "https://soundcloud.com/traxsource/live-568-art-of-tones"
+   },
+   {
+    "t": "Traxsource LIVE! #541 Art Of Tones",
+    "u": "https://soundcloud.com/traxsource/live-541-art-of-tones"
+   },
+   {
+    "t": "Traxsource LIVE! #461 with Art Of Tones",
+    "u": "https://soundcloud.com/traxsource/live-461-art-of-tones"
+   }
+  ],
+  "setsChecked": "2026-11-04"
  },
  "Chimpo": {
   "img": "https://static.ra.co/images/profiles/chimpo.jpg?dateUpdated=1453136144820",
@@ -43720,7 +43793,22 @@ const AR={
   "src": [
    "https://ra.co/dj/neux/biography"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "sets": [
+   {
+    "t": "NEUX at G2 (KHIDI, 02.08.2024)",
+    "u": "https://soundcloud.com/khidi/neux-at-g2-020724"
+   },
+   {
+    "t": "BITECAST 017 w/ NEUX",
+    "u": "https://soundcloud.com/bitelabel/bitecast-017-w-neux"
+   },
+   {
+    "t": "KHIDI Podcast NR.67: NEUX",
+    "u": "https://soundcloud.com/khidi/khidi-podcast-nr67-neux"
+   }
+  ],
+  "setsChecked": "2026-11-04"
  },
  "Schtu": {
   "img": "https://static.ra.co/images/profiles/schtu.jpg?dateUpdated=1515431327000",
@@ -45460,6 +45548,189 @@ const AR={
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04",
   "infoChk": "2026-11-04"
+ },
+ "Takeshi's Cashew": {
+  "links": {
+   "sp": "https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA",
+   "ig": "https://www.instagram.com/takeshiscashew/",
+   "bc": "https://takeshis-cashew.bandcamp.com",
+   "web": "https://linktr.ee/takeshis_cashew"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Psych-Funk",
+   "Krautrock",
+   "Disco"
+  ],
+  "labels": [
+   "Laut & Luise"
+  ],
+  "bio": {
+   "de": "Sechsköpfige österreichische Psych-Funk-Band, die ihren Sound selbst „Psychedelic Cosmofunk“ nennt. Sie verbindet Club-Kultur, Weltmusik und 70er-Psychedelia – kosmischen Krautrock, Cumbia, Afrobeat und Disco – mit Flöten, Percussion und alten Synthesizern. Ihr Debüt entstand im eigenen DIY-Studio in Wien, das zweite Album „Enter J’s Chamber“ erschien auf Laut & Luise.",
+   "en": "Six-piece Austrian psych-funk band describing its sound as \"psychedelic cosmofunk\". They blend club culture, world music and 70s psychedelia – cosmic krautrock, cumbia, afrobeat and disco – with flutes, percussion and vintage synths. Their debut was recorded in their own DIY studio in Vienna; the second album \"Enter J’s Chamber\" came out on Laut & Luise."
+  },
+  "src": [
+   "https://esns.nl/en/festival/artists/takeshis-cashew/",
+   "https://www.abconcerts.be/en/agenda/takeshis-cashew/a10Qw000000GuMPIA0"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "The Clamps": {
+  "links": {
+   "sc": "https://soundcloud.com/the-clamps",
+   "sp": "https://open.spotify.com/artist/6sNeV6FX2me50N5Jh1idA4"
+  },
+  "from": {
+   "de": "Toulouse, Frankreich",
+   "en": "Toulouse, France"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Neurofunk"
+  ],
+  "labels": [
+   "Kosenprod",
+   "Eatbrain",
+   "Blackout Music",
+   "C4C Recordings"
+  ],
+  "bio": {
+   "de": "Neurofunk-Projekt des Toulouser Produzenten und DJs Julien Carbou, das Drum & Bass mit Einflüssen aus Techno und Industrial verbindet. Releases u. a. auf Kosenprod, Eatbrain und Blackout Music; 2024 erschien das Album „From Dust to Dawn“.",
+   "en": "Neurofunk project of Toulouse producer and DJ Julien Carbou, blending drum & bass with techno and industrial influences. Releases on Kosenprod, Eatbrain and Blackout Music, among others; the album \"From Dust to Dawn\" followed in 2024."
+  },
+  "src": [
+   "https://dropthebass.co/artists/the-clamps"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "DJ Debo": {
+  "alias": [
+   "DJ Debo (Funk Freaks"
+  ],
+  "from": {
+   "de": "Costa Mesa, Kalifornien, USA",
+   "en": "Costa Mesa, California, USA"
+  },
+  "genres": [
+   "Boogie",
+   "Funk",
+   "Modern Soul"
+  ],
+  "bio": {
+   "de": "Mitbegründer der Funk-Freaks-Crew aus Costa Mesa (Orange County), die mit Partys in Santa Ana und einer NTS-Sendung den 80er-Boogie-Funk lebendig hält. Er legt seltene Boogie-, Funk- und Modern-Soul-Platten auf Vinyl auf und tourt regelmäßig durch Europa.",
+   "en": "Co-founder of the Funk Freaks crew from Costa Mesa (Orange County), keeping 80s boogie funk alive with parties in Santa Ana and a show on NTS. He plays rare boogie, funk and modern soul on vinyl and tours Europe regularly."
+  },
+  "sets": [
+   {
+    "t": "Funk Freaks w/ Debo and Stay Phunky (NTS, 12.09.2022)",
+    "u": "https://soundcloud.com/user-62184333/funk-freaks-w-debo-and-stay-phunky-120922"
+   },
+   {
+    "t": "Funk Freaks Radio w/ DJ Debo (NTS, 12.12.2017)",
+    "u": "https://www.mixcloud.com/NTSRadio/funk-freaks-radio-w-dj-debo-12th-december-2017/"
+   },
+   {
+    "t": "Le Bijoutier captures DJ Debo 45s Funk Freaks Special (06/2017)",
+    "u": "https://www.mixcloud.com/don-bijoutier/le-bijoutier-captures-dj-debo-45s-funkfreaks-special-june-2017/"
+   }
+  ],
+  "src": [
+   "https://www.ocweekly.com/music/costa-mesas-funk-freaks-bring-boogie-from-the-barrio-to-europe-and-back-6879141"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "setsChecked": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "CPR0": {
+  "links": {
+   "sc": "https://soundcloud.com/cpro909"
+  },
+  "alias": [
+   "CPRO"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Techno-DJ aus dem Wiener Umfeld, der regelmäßig die Sendung „Iteration“ auf dem Wiener RES.Radio bestreitet. Bei uns spielte er hypnotischen, deepen Techno bei deep cut im Kramladen.",
+   "en": "Techno DJ from the Vienna scene who regularly hosts the show \"Iteration\" on Vienna's RES.Radio. With us he played hypnotic, deep techno at deep cut in Kramladen."
+  },
+  "sets": [
+   {
+    "t": "Iteration #40 w/ CPR0 (RES.Radio)",
+    "u": "https://soundcloud.com/resradio/iteration-40"
+   },
+   {
+    "t": "Iteration #38 w/ CPR0 (RES.Radio)",
+    "u": "https://soundcloud.com/resradio/iteration-38-w-cpr0"
+   },
+   {
+    "t": "Iteration #13 w/ CPR0 (RES.Radio)",
+    "u": "https://soundcloud.com/resradio/iteration-13-w-cpr0"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/cpro909",
+   "https://soundcloud.com/resradio/iteration-40"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "LizN": {
+  "links": {
+   "sc": "https://soundcloud.com/lizntome"
+  },
+  "genres": [
+   "Minimal House",
+   "Hardgroove"
+  ],
+  "bio": {
+   "de": "DJ, die auf SoundCloud Minimal-House- und Afterhour-Sets sowie House- und Hardgroove-b2b-Aufnahmen veröffentlicht. Bei uns spielte sie bei Techno Entgleist x Du Tanzt Mich Mal in der Grellen Forelle.",
+   "en": "DJ sharing minimal house and afterhour sets as well as house and hardgroove b2b recordings on SoundCloud. With us she played Techno Entgleist x Du Tanzt Mich Mal at Grelle Forelle."
+  },
+  "sets": [
+   {
+    "t": "LizN b2b Stani – Live Recording (House & Hardgroove)",
+    "u": "https://soundcloud.com/lizntome/lizn-b2b-stani-live-recording-house-hardgroove"
+   },
+   {
+    "t": "stay sparkling // minimal house set",
+    "u": "https://soundcloud.com/lizntome/stay-sparkling"
+   },
+   {
+    "t": "stay funky // minimal house set",
+    "u": "https://soundcloud.com/lizntome/stay-funky"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/lizntome",
+   "https://de.ra.co/events/2113496"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "LVCA": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Azura": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Katerfrühstück": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
  }
 };
 
