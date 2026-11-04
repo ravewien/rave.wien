@@ -837,8 +837,8 @@ footer a:hover{color:var(--accent)}
 /* 4 Mindestgrößen */
 .opt em{font-size:12px}.dayhdr span{font-size:12px}.thead{font-size:10.5px}
 .row.tk .flags .flag{font-size:11.5px}
-/* 5 Event-Titel in gut lesbarer Schrift, Pixel-Schrift bleibt für Logo, Überschriften und Uhrzeit */
-.row.tk .ti,.ti{font-family:var(--f-body);font-weight:700;letter-spacing:0;font-size:17px;line-height:1.25}
+/* 5 Event-Titel: Pixel-Schrift, aber weißer und kräftiger */
+.row.tk .ti{color:#fff;-webkit-text-stroke:.45px #fff;paint-order:stroke fill}
 /* 7 Location-/Veranstalter-Logo statt Platzhalter */
 .cov.lgc::before,.cov.ferr:has(.covlg)::before{visibility:hidden}
 .cov .covfb{display:none}.cov.ferr>img{display:none}.cov.ferr .covfb{display:contents}
