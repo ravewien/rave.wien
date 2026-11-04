@@ -868,9 +868,35 @@ const CG={
   "House",
   "Disco",
   "Breaks"
+ ],
+ "LOOP": [
+  "Techno"
+ ],
+ "Vertigo": [
+  "House",
+  "Minimal"
+ ],
+ "Perspective": [
+  "Drum & Bass"
+ ],
+ "Polyamor": [
+  "Hardgroove",
+  "Trance"
+ ],
+ "Out of Space": [
+  "Psytrance",
+  "Goa"
+ ],
+ "Bassic Instinct": [
+  "Drum & Bass",
+  "Jungle"
+ ],
+ "Wyldhearts": [
+  "Trance",
+  "Bounce"
  ]
 };
-const KC=["303","50 Herz","54Hz","909techno","Acid Lambada","Addicted to Pressure","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Baseline","Bassbussi","Bassclub","Bassproduction","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","BLUR","Bonkers","Bouncylicious","Café Mondo","Callshop Radio","Cardio Cult","CIVIC","ClassiX","Club Fatale","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Deep Dive","Der Radio","Derisch","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","Empyreon","Endless Grooves","Entrance","euphonic records","Euphoria","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","Fractal Fusion","Freeride Millenium","Frieden & Liebe","Fuelized","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Voltage Fairies","Hit It Hard","Homebase","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Im Freudentaumel","Impulse","In Love","Jah Power Sound","Jeez Louise","Journey to Tarab","Kaisa Bodega","KARTELL.FM","KISSEN","Klanggerecht","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","Löwenzahn","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Mind Entertainment","Mixed","Monochrom","Morgengymnastik","Multicolor","Nachtschub","Nine O Nine","Ninecircles","Opération","Paradies Garten","Park It Here","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Pole Circle","Ponyhof","Praternostra","Psytrance Universe","Purradox","PUSH","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Red Groove Social Club","Redivider","Resonance Social Artists","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schere3000","Schlachthaus","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","SIGNAL","SIN","Slutlabs","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Untz Baby Untz","up/or","Verknallt","VG+","VIE.W","Vienn_a_Tek","Vision Serpent","VLAN","VNV","VOID","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Xperiment","YE","YN Collective","Zorro Azul","Zuckerwatt","Zyklop Audio"];
+const KC=["[kju:t]","303","50 Herz","54Hz","909techno","Acid Lambada","Addicted to Pressure","Alles Allen","AMBIEVENT","Analogique","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Baseline","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","BLUR","Bonkers","Bouncylicious","Café Mondo","Callshop Radio","Cardio Cult","CIVIC","ClassiX","Club Fatale","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Cybertribe","Cyclic Existence","Dance 2 House","Danza Obscura","Dark Pressure","Das Syndikat","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","Empyreon","Endless Grooves","Entrance","euphonic records","Euphoria","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","Fractal Fusion","Freeride Millenium","Frieden & Liebe","Fuelized","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","LOOP","Löwenzahn","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","Meier","MEIOSISS","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Monochrom","Morgengymnastik","Multicolor","Nachtschub","Nine O Nine","Ninecircles","Opération","Out of Space","Oxygene","Paradies Garten","Park It Here","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Psytrance Universe","Purradox","PUSH","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Red Groove Social Club","Redivider","Resonance Social Artists","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schere3000","Schlachthaus","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","SIGNAL","SIN","Slutlabs","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","The Hive","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Untz Baby Untz","up/or","Verknallt","Vertigo","VG+","VIE.W","Vienn_a_Tek","Vision Serpent","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wyldhearts","Xperiment","YE","YN Collective","Zorro Azul","Zuckerwatt","Zyklop Audio"];
 const CI={
  "303": {
   "noLogo": "2026-11-02",
@@ -1460,8 +1486,19 @@ const CI={
   "founded": "2023",
   "foundedNote": 1,
   "src": [
-   "https://ohschonhell.at/orte/celeste/47"
-  ]
+   "https://de.ra.co/events/2486851",
+   "https://de.ra.co/events/2433647",
+   "https://ra.co/events/2368504"
+  ],
+  "de": "Wiener Partyreihe, die sich selbst „loud, queer & annoying“ nennt: Treffpunkt für Queers, Misfits und Leute, die „generic techno“ entkommen wollen, mit Electro, Pop und Experimentellem. Abende u. a. im FLUCC, Celeste, Titanic und Club U, 2026 mit Pride-Special (mit Schere3000) und der Frost-Children-Afterparty.",
+  "en": "Viennese party series that calls itself “loud, queer & annoying”: a meeting point for queers, misfits and anyone escaping “generic techno”, with electro, pop and experimental sounds. Nights at FLUCC, Celeste, Titanic and Club U, among others; in 2026 a Pride special (with Schere3000) and the Frost Children afterparty.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "ig": "https://www.instagram.com/hyp3rtr4sh/",
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
  },
  "Fuelized": {
   "founded": "2023",
@@ -1610,11 +1647,21 @@ const CI={
   "infoChk": "2026-11-02"
  },
  "Kinky Galore": {
-  "de": "Sexpositive Partyreihe, in Wien u. a. im Club Exil.",
-  "en": "Sex-positive party series, in Vienna e.g. at Club Exil.",
+  "de": "Sexpositive Fetisch-Partyreihe von DJ Jan Ehret, die in vielen deutschen Städten (u. a. Berlin, München, Stuttgart, Köln) stattfindet und in Wien im Club Exil gastiert: Techno und Electro, Performances und Shows, Awareness-Team.",
+  "en": "Sex-positive fetish party series by DJ Jan Ehret, held in many German cities (including Berlin, Munich, Stuttgart and Cologne) and visiting Vienna at Club Exil: techno and electro, performances and shows, awareness team.",
   "rules": {
    "sexpos": 1
-  }
+  },
+  "type": [
+   "Reihe"
+  ],
+  "web": "https://www.kinkygalore.net/",
+  "src": [
+   "https://de.ra.co/events/2556687",
+   "https://www.stuttgarter-zeitung.de/lokales/stuttgart/kinky-galore-veranstalter-jan-ehret-warum-stuttgart-ein-hotspot-von-sexpositiv-partys-ist-78961504.html"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
  },
  "Zyklop Audio": {
   "de": "Vinyl-only-Label aus Wien, 2025 von Kormos gegründet; als Zyklop veranstaltet es auch Partys, etwa Open Airs mit Dunia.",
@@ -1758,11 +1805,11 @@ const CI={
   "from": "Wien",
   "tix": "https://ksot.ticket.io/",
   "src": [
-   "https://www.1000thingsmagazine.com/de/a/2223438/ksot-rave-hofburg-wien/",
-   "https://de.ra.co/dj/ksotsoundsystem"
+   "https://www.1000thingsmagazine.com/de/a/2223438/ksot-rave-hofburg-wien/"
   ],
-  "noLogo": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noLogo": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "sc": "https://soundcloud.com/keinsonntagohnetechno"
  },
  "Auf der Lauer": {
   "from": "Wien",
@@ -4563,6 +4610,245 @@ const CI={
   "infoChk": "2026-11-04"
  },
  "Groove Operators": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Dance 2 House": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Oxygene": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Out of Space": {
+  "de": "Psytrance-Clubnacht im Wiener Weberknecht am Lerchenfelder Gürtel, die dort schon 2019/2020 als „Out of Space Psytrance Club“ lief; 2025 und 2026 wieder im Programm, teils als Goa-Ausgabe.",
+  "en": "Psytrance club night at Vienna’s Weberknecht on Lerchenfelder Gürtel, which already ran there in 2019/2020 as “Out of Space Psytrance Club”; back on the programme in 2025 and 2026, partly as a Goa edition.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "src": [
+   "https://ra.co/events/1340200",
+   "https://ra.co/events/1383334"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "LOOP": {
+  "de": "Wiener Oldschool-Rave mit dem Motto „Maximum Rave not Minimal Techno“: Techno bis 1994, DJ-Sets strikt auf Vinyl. Läuft seit Jahren im FLUCC (schon 2017 als „Oldschool Loop“), u. a. mit Dan Lodig, Pure, Glow und Patrick Pulsinger.",
+  "en": "Viennese old-school rave under the motto “Maximum Rave not Minimal Techno”: techno up to 1994, DJ sets strictly on vinyl. Has run at FLUCC for years (already in 2017 as “Oldschool Loop”), with Dan Lodig, Pure, Glow and Patrick Pulsinger, among others.",
+  "alias": [
+   "Oldschool Loop"
+  ],
+  "from": "Wien",
+  "src": [
+   "https://ra.co/events/978301"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "[kju:t]": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Exposed": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Discordia": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Rhythmic Playground": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Danza Obscura": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Vertigo": {
+  "de": "Wiener Reihe für Deep-Minimal-House im SASS Music Club, seit 2025 mehrmals im Jahr: langsam aufbauende, hypnotische, reduzierte Nächte ohne Peaks; mit Awareness-Team.",
+  "en": "Viennese series for deep minimal house at SASS Music Club, several times a year since 2025: slowly building, hypnotic, stripped-back nights without peaks; with an awareness team.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "ig": "https://www.instagram.com/vertigo.vienna/",
+  "src": [
+   "https://ra.co/events/2361270",
+   "https://de.ra.co/events/2068583"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "fm.einfamilienhaus": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Polyamor": {
+  "de": "Berliner Partyreihe und Kollektiv um die Produzenten Mika Heggemann und Jonas Purrucker: schneller, hüpfender Hardgroove mit Trance, Eurodance und Rave-Nostalgie im Y2K-Look. Gastiert u. a. in Hamburg, Nürnberg, Amsterdam und in Wien in der Grelle Forelle.",
+  "en": "Berlin party series and collective around producers Mika Heggemann and Jonas Purrucker: fast, bouncy hardgroove with trance, eurodance and rave nostalgia in a Y2K look. Also hosts nights in Hamburg, Nuremberg, Amsterdam and, in Vienna, at Grelle Forelle.",
+  "type": [
+   "Kollektiv"
+  ],
+  "from": "Berlin",
+  "ig": "https://www.instagram.com/polyamor.berlin",
+  "src": [
+   "https://xceed.me/blog/en/polyamor-2026/",
+   "https://ra.co/dj/heggemann/biography",
+   "https://de.ra.co/events/1999601"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Spätschicht": {
+  "de": "Party-Crew mit Abenden im Wiener Club Lucia („Spätschicht invites“, 2025); 2026 mit Tanzdirektion Süd (TDS) bei „Tanz in den Frühling“, das zuvor in Regensburg Premiere hatte – mit House, Garage, Breaks und Trance.",
+  "en": "Party crew with nights at Vienna’s Club Lucia (“Spätschicht invites”, 2025); in 2026 with Tanzdirektion Süd (TDS) for “Tanz in den Frühling”, which had premiered in Regensburg – with house, garage, breaks and trance.",
+  "ig": "https://www.instagram.com/spaetschicht.oida",
+  "src": [
+   "https://ra.co/events/2411672"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Hot & Flirty": {
+  "de": "Flirt-Party im Wiener FLUCC (seit 2025, 2026 bereits Teil 4): Liebe in allen Formen feiern, Singles sollen Partner, Crush oder Freunde finden. Musikalisch Pop, Groove, Trance, Bounce, Acid und Techno; auf RA eingetragen von MEIOSISS.",
+  "en": "Flirt party at Vienna’s FLUCC (since 2025, part 4 in 2026): celebrating love in all forms, with singles hoping to find a partner, crush or friends. Musically pop, groove, trance, bounce, acid and techno; listed on RA by MEIOSISS.",
+  "alias": [
+   "HOT&FLIRTY"
+  ],
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "src": [
+   "https://ra.co/events/2388587",
+   "https://ra.co/events/2310895"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Superstate": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Volta": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Analogique": {
+  "de": "Partyreihe mit Abenden in Wien, u. a. 2024 beim Club-U-Open-Air gemeinsam mit dem Kollektiv SUD, im Celeste und FLUCC zusammen mit Soundbüglerei sowie 2025 im SASS Music Club.",
+  "en": "Party series with nights in Vienna, including the 2024 Club U open air together with collective SUD, nights at Celeste and FLUCC with Soundbüglerei, and SASS Music Club in 2025.",
+  "type": [
+   "Reihe"
+  ],
+  "src": [
+   "https://de.ra.co/events/1900139"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "High Steppin": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Just Kidding": {
+  "de": "Partyreihe, die im Juni 2024 im Wiener PRST startete, mit Techno und House im Main Room und einem Ambient Room samt Performance; danach weitere Abende im PRST und 2025 gemeinsam mit Oxygene im SASS Music Club.",
+  "en": "Party series that launched at Vienna’s PRST in June 2024, with techno and house in the main room plus an ambient room with performance; followed by further nights at PRST and, in 2025, a night with Oxygene at SASS Music Club.",
+  "type": [
+   "Reihe"
+  ],
+  "founded": "2024",
+  "from": "Wien",
+  "src": [
+   "https://ra.co/events/1935402"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Playdate": {
+  "de": "Partyreihe im Wiener PRST, gestartet im September 2024 mit einer Launch Party; Techno und „finest grooves until the very morning“, 2025 etwa „Maydate“ mit Bailey Ibbs. Auf RA von OFF CONCEPTS eingetragen.",
+  "en": "Party series at Vienna’s PRST, launched in September 2024 with a launch party; techno and “finest grooves until the very morning”, e.g. “Maydate” with Bailey Ibbs in 2025. Listed on RA by OFF CONCEPTS.",
+  "type": [
+   "Reihe"
+  ],
+  "founded": "2024",
+  "from": "Wien",
+  "ig": "https://www.instagram.com/playdate.on/",
+  "src": [
+   "https://ra.co/events/2029427",
+   "https://ra.co/events/2150124"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "MinimaL": {
+  "de": "Tech-House-Reihe im Wiener PRST (Praterstraße), 2025 mehrfach als „MinimaL x PRST“ mit House und Tech House, u. a. mit DJ PTR, Allaire und Laulee.",
+  "en": "Tech house series at Vienna’s PRST (Praterstraße), held several times in 2025 as “MinimaL x PRST” with house and tech house, featuring DJ PTR, Allaire and Laulee, among others.",
+  "type": [
+   "Reihe"
+  ],
+  "src": [
+   "https://ra.co/events/2075263"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Perspective": {
+  "de": "Drum-&-Bass-Reihe in der Wiener Pratersauna, gestartet 2023 („PERSPECTIVE.DNB“) mit zwei Floors; Gäste u. a. Skepsis, Friction und Mandidextrous, 2024 auch als „Perspective Festival“.",
+  "en": "Drum & bass series at Vienna’s Pratersauna, launched in 2023 (“PERSPECTIVE.DNB”) with two floors; guests have included Skepsis, Friction and Mandidextrous, and in 2024 it also ran as “Perspective Festival”.",
+  "alias": [
+   "PERSPECTIVE.DNB"
+  ],
+  "type": [
+   "Reihe"
+  ],
+  "founded": "2023",
+  "from": "Wien",
+  "src": [
+   "https://ra.co/events/1760764"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Ritual": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Meier": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Techno.Kult": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Bassic Instinct": {
+  "de": "Clubnacht des Wiener Drum-&-Bass-DJs BIG Z für Old School Drum & Bass und Jungle, zum Auftakt oft mit Bass, Breaks und Garage; 2025 im Loop in den Stadtbahnbögen, 2026 im Club Lucia, u. a. mit DKAY und Paul SG.",
+  "en": "Club night by Viennese drum & bass DJ BIG Z for old-school drum & bass and jungle, often opening with bass, breaks and garage; in 2025 at Loop in the Stadtbahnbögen, in 2026 at Club Lucia, featuring DKAY and Paul SG, among others.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "src": [
+   "https://ra.co/events/2086614"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Wyldhearts": {
+  "de": "Partyreihe aus Deutschland („Wyldhearts Germany“) für Trance und Bounce („Trancy, Bouncy & Wyld“), mit Events u. a. in Köln (Schrotty, Odonien, Fühlinger See) und Stuttgart; in Wien zu Gast in der Grelle Forelle, 2025 gemeinsam mit Nexus.",
+  "en": "Party series from Germany (“Wyldhearts Germany”) for trance and bounce (“Trancy, Bouncy & Wyld”), with events in Cologne (Schrotty, Odonien, Fühlinger See) and Stuttgart, among others; in Vienna a guest at Grelle Forelle, in 2025 together with Nexus.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Deutschland",
+  "src": [
+   "https://ra.co/events/2371425",
+   "https://de.ra.co/events/2170040"
+  ],
   "infoChk": "2026-11-04",
   "noLogo": "2026-11-04"
  }
