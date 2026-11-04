@@ -20,6 +20,7 @@ const LOGOBOX={
 "https://queertactics.at/wp-content/uploads/2025/10/queertactics_schriftzug_rot-scaled.png":[2560,320,0,7,2560,320,""],
 "https://rhiz.wien/wp-content/uploads/2026/01/cropped-favicon-270x270.png":[270,270,0,0,270,270,""],
 "https://schoenborngasse.vbs.ac.at/wp-content/uploads/sites/14/2022/11/ottakringer-brauerei-logo-768x768.jpg":[768,768,0,0,768,768,"#b09000"],
+"https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/302655939_473865571415822_4896686984121746693_n.jpg?stp=dst-jpg_tt6&cstp=mx776x775&ctp=s776x775&_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2OpcPQKMQTYQ7kNvwGUbKDe&_nc_oc=Adrmd_oJTn9zKbDncD6MT0sAsCltX6oR0DTJDmC9fAi_aNbZ0lQeHRGWGSOSHYxhlNY&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=izbFHfBPVeBqPLmte8rG_g&_nc_ss=7a289&oh=00_AQQI0hgN_zEtRNikSuGfNVwV4xBIl-u7ZQGZPFH1erdbhg&oe=6AF0F26F":[776,775,0,0,776,775,""],
 "https://static.ra.co/images/labels/pirotecnia.jpg?dateUpdated=1645610083473":[1440,1440,239,401,1207,1039,"#000000"],
 "https://theinnercircle.at/circlelogo.svg":[365,357,0,0,365,357,""],
 "https://ugc.production.linktr.ee/56ada16d-b647-4532-93c3-350fbac3c672_sorry-mom-logo-1080x1080-sw-kreis.png":[600,600,23,33,569,579,""],
