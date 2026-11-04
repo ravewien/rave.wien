@@ -14,7 +14,8 @@ Ziel: Für ein Gespräch mit der Vienna Club Commission sollen die Profile aller
 ## Wer ist dran
 - „Kommend“ = alle Events in RAW ab heute (Europe/Vienna), ohne Zeitgrenze.
 - Artists: aus floors (Präfix „HH:MM|“ entfernen; „A b2b B“ = zwei; "TBA" ignorieren). Partition nach dem ersten Buchstaben/Ziffer des Namens (ohne Akzente/Sonderzeichen), wie in der Startnachricht angegeben.
-- Bearbeiten, wenn mindestens eines fehlt: Bild (`img`), Links (sc/mc/sp/ra/bc/ig/web), Bio (`bio.de`/`bio.en`), Herkunft (`from`). Die 60-Tage-Sperre gilt in diesem Lauf NICHT. Wurde ein Eintrag schon gesucht (infoChk/noImg/noLinks gesetzt), dann gezielt ANDERE Quellen als RA probieren (siehe unten), statt dieselbe Suche zu wiederholen.
+- Bearbeiten, wenn mindestens eines fehlt: Bild (`img`), Links (sc/mc/sp/ra/bc/ig/web), Bio (`bio.de`/`bio.en`), Herkunft (`from`) – und nur, wenn die letzte Suche (infoChk/noImg/noLinks) mindestens 60 Tage her ist. Nur wenn die Startnachricht ausdrücklich etwas anderes sagt, gilt die 60-Tage-Sperre nicht; dann bei schon gesuchten Einträgen gezielt ANDERE Quellen als RA probieren (siehe unten), statt dieselbe Suche zu wiederholen.
+- Artists, Veranstalter und Locations ohne kommendes Event nie bearbeiten, außer die Startnachricht nennt ausdrücklich eine Liste (siehe sonderlauf-listen.md).
 - Reihenfolge: Headliner und Artists der nächsten 14 Tage zuerst.
 
 ## Quellen für Artists (der Reihe nach, bis die Lücken gefüllt sind)
