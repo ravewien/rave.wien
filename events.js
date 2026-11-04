@@ -5800,7 +5800,7 @@ const VI={
   ],
   "infoChk": "2026-11-02",
   "web": "https://www.funkhaus.wien",
-  "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEqtzrryIumWg/company-logo_400_400/B4DZmAYdErJgAY-/0/1758795520556/funkhaus_wien_logo?e=1795651200&v=beta&t=TBHV3JezrAElVEJTydAmyfN6fmgckC8kjzGK3oiDBCQ",
+  "logo": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-1/885312764_122146568583034745_445659225063797392_n.avif?stp=dst-avif&cstp=mx2048x2048&ctp=s200x200&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=YKITRsMNgbsQ7kNvwGcxYud&_nc_oc=AdqHHAPDXJxv0V15FsZ6eacsYQ4SXnNHUYAkMxavQYgXSbqlEYyAaY5bE0eXs18XS0Q&_nc_zt=24&_nc_ht=scontent-vie1-1.xx&_nc_gid=3n5zGnrDf_nILZyFPOOlzg&_nc_ss=7a289&oh=00_AQRoIzovdPTyfrgPWqBe4n4EdsBsMdxxe9RdImV4NUkzpg&oe=6AF0FA0E",
   "man": 1
  },
  "Rhiz": {
