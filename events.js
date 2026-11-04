@@ -41761,6 +41761,533 @@ const AR={
    "https://ra.co/dj/tonicwalter"
   ],
   "infoChk": "2026-11-04"
+ },
+ "P.O": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Schnell": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Stabil": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Katzengold": {
+  "links": {
+   "sc": "https://soundcloud.com/katzen_gold"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "bio": {
+   "de": "DJ und Produzentin aus Berlin im Umfeld von 3000Grad, mit Gigs u. a. im Sisyphos. Ihre Sets bewegen sich zwischen Deep House und melodischem, treibendem Sound.",
+   "en": "Berlin DJ and producer from the 3000Grad circle, with gigs at Sisyphos among others. Her sets move between deep house and melodic, driving sounds."
+  },
+  "sets": [
+   {
+    "t": "Katzengold – Jeden Tag ein Set Podcast 102",
+    "u": "https://soundcloud.com/jedentageinset/katzengold-jeden-tag-ein-set-podcast-102"
+   },
+   {
+    "t": "entropieCast 009 – Katzengold",
+    "u": "https://soundcloud.com/entropiefestival/entropiecast009"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "noImg": "2026-11-04",
+  "src": [
+   "https://www.viberate.com/artist/katzengold",
+   "https://soundcloud.com/subground-talk/010-katzengold"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Mr. Belt": {
+  "img": "https://static.ra.co/images/profiles/square/mr.beltwezol.jpg?dateUpdated=1725296691000",
+  "links": {
+   "ra": "https://ra.co/dj/mr.beltwezol",
+   "sc": "https://soundcloud.com/mrbeltandwezol",
+   "ig": "https://www.instagram.com/mrbeltandwezol",
+   "web": "https://mrbeltandwezol.com/"
+  },
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "genres": [
+   "House"
+  ],
+  "bio": {
+   "de": "Niederländisches DJ- und Produzentenduo Mr. Belt & Wezol, das in seinen Sets und Produktionen Retro- und aktuelle Sounds verbindet. Schwerpunkt sind samplebasierte House-Tracks zwischen Vertrautem und Unbekanntem.",
+   "en": "Dutch DJ and production duo Mr. Belt & Wezol, blending retro and contemporary sounds in their sets and productions. Their focus is sample-based house tracks balancing the familiar and the unfamiliar."
+  },
+  "src": [
+   "https://ra.co/dj/mr.beltwezol"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Wezol": {
+  "img": "https://static.ra.co/images/profiles/square/mr.beltwezol.jpg?dateUpdated=1725296691000",
+  "links": {
+   "ra": "https://ra.co/dj/mr.beltwezol",
+   "sc": "https://soundcloud.com/mrbeltandwezol",
+   "ig": "https://www.instagram.com/mrbeltandwezol",
+   "web": "https://mrbeltandwezol.com/"
+  },
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "genres": [
+   "House"
+  ],
+  "bio": {
+   "de": "Niederländisches DJ- und Produzentenduo Mr. Belt & Wezol, das in seinen Sets und Produktionen Retro- und aktuelle Sounds verbindet. Schwerpunkt sind samplebasierte House-Tracks zwischen Vertrautem und Unbekanntem.",
+   "en": "Dutch DJ and production duo Mr. Belt & Wezol, blending retro and contemporary sounds in their sets and productions. Their focus is sample-based house tracks balancing the familiar and the unfamiliar."
+  },
+  "src": [
+   "https://ra.co/dj/mr.beltwezol"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Raumtester": {
+  "img": "https://static.ra.co/images/profiles/square/raumtester.jpg?dateUpdated=1572631230077",
+  "links": {
+   "ra": "https://ra.co/dj/raumtester",
+   "sc": "https://soundcloud.com/raumtester",
+   "ig": "https://www.instagram.com/raumtester"
+  },
+  "from": {
+   "de": "Russland / Berlin",
+   "en": "Russia / Berlin"
+  },
+  "labels": [
+   "PG TUNE"
+  ],
+  "bio": {
+   "de": "DJ aus Russland, der seit 2015 professionell auflegt und heute in Berlin lebt. Er verbindet die Tiefe von modularem Techno mit der Euphorie von Trance; in Russland betrieb er eine eigene Queer-Partyreihe und die Radiosendung „квир мир“ auf Test FM. Mixe bzw. Auftritte u. a. für Boiler Room, Crack Magazine, HÖR und Rinse FM.",
+   "en": "Russian-born DJ, playing professionally since 2015 and now based in Berlin. He links the depth of modular techno with the euphoria of trance; in Russia he ran his own queer party series and the radio show “квир мир” on Test FM. Mixes or sets for Boiler Room, Crack Magazine, HÖR and Rinse FM among others."
+  },
+  "src": [
+   "https://ra.co/dj/raumtester/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Bad Boombox": {
+  "img": "https://static.ra.co/images/profiles/square/badboombox.jpg?dateUpdated=1754644866750",
+  "links": {
+   "ra": "https://ra.co/dj/badboombox",
+   "sc": "https://soundcloud.com/badboombox",
+   "bc": "https://badboombox.bandcamp.com",
+   "ig": "https://www.instagram.com/badboombox",
+   "web": "https://hotmealrecords.com"
+  },
+  "from": {
+   "de": "Bulgarien / Deutschland",
+   "en": "Bulgaria / Germany"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Hot Meal Records",
+   "Fantastic Voyage"
+  ],
+  "bio": {
+   "de": "In Bulgarien geborener, in Deutschland lebender Techno-DJ, bekannt für respektlos-bunte, verspielte Sets. Releases auf Hot Meal Records und Fantastic Voyage; er spielt u. a. in Amsterdam, Madrid, Dublin und Glasgow.",
+   "en": "Bulgarian-born, Germany-based techno DJ known for irreverent, colourful and playful sets. Releases on Hot Meal Records and Fantastic Voyage; he plays Amsterdam, Madrid, Dublin and Glasgow among others."
+  },
+  "src": [
+   "https://ra.co/dj/badboombox/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Resslek": {
+  "from": {
+   "de": "Portugal",
+   "en": "Portugal"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Yamatai Records",
+   "Delta 9 Recordings",
+   "Engage Audio",
+   "Impact Music",
+   "Transparent Audio"
+  ],
+  "bio": {
+   "de": "Drum-&-Bass-Produzent aus Portugal mit tiefem, minimalistischem Sound: kompakte Basslines, scharfe Drums und dichte Texturen. Releases u. a. auf Yamatai Records (Scope EP), Delta 9, Engage Audio und Transparent Audio.",
+   "en": "Drum & bass producer from Portugal with a deep, minimal sound: compact basslines, sharp drums and intense textures. Releases on Yamatai Records (Scope EP), Delta 9, Engage Audio and Transparent Audio among others."
+  },
+  "src": [
+   "https://www.ticketfairy.com/word/2023/04/10/tfword-in-conversation-with-resslek"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Isaiah": {
+  "img": "https://static.ra.co/images/profiles/square/isaiah-nl.jpg?dateUpdated=1787907472000",
+  "links": {
+   "ra": "https://ra.co/dj/isaiah-nl",
+   "sc": "https://soundcloud.com/isaiahtechno",
+   "bc": "https://isaj.bandcamp.com",
+   "ig": "https://www.instagram.com/isajtd"
+  },
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Frenzy Recordings"
+  ],
+  "bio": {
+   "de": "Techno-DJ und Produzent aus den Niederlanden, aktiv seit 2017 und regelmäßig in Amsterdam, Berlin, Paris und London zu hören. Releases u. a. auf Frenzy Recordings.",
+   "en": "Techno DJ and producer from the Netherlands, active since 2017 and playing regularly in Amsterdam, Berlin, Paris and London. Releases on Frenzy Recordings among others."
+  },
+  "src": [
+   "https://ra.co/dj/isaiah-nl",
+   "https://ra.co/events/2023875"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Pelin Vedis": {
+  "img": "https://static.ra.co/images/profiles/square/pelinvedis.jpg?dateUpdated=1646214411000",
+  "links": {
+   "ra": "https://ra.co/dj/pelinvedis",
+   "sc": "https://soundcloud.com/pelinvds",
+   "ig": "https://www.instagram.com/pelin.vds"
+  },
+  "from": {
+   "de": "Istanbul / Schweiz",
+   "en": "Istanbul / Switzerland"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "In Istanbul geborene, in der Schweiz lebende DJ, die seit mehreren Jahren in der Schweizer Techno-Szene präsent ist. Sie spielt u. a. bei TRANCEMAXXING im Zoo Genf, im Artheater Köln und im Rex Club Paris.",
+   "en": "Istanbul-born, Switzerland-based DJ who has been part of the Swiss techno scene for several years. She has played TRANCEMAXXING at Zoo Geneva, Artheater Cologne and Rex Club Paris among others."
+  },
+  "src": [
+   "https://ra.co/dj/pelinvedis",
+   "https://ra.co/events/2023875"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Ogazón": {
+  "img": "https://static.ra.co/images/profiles/square/ogazon.jpg?dateUpdated=1569283200000",
+  "links": {
+   "ra": "https://ra.co/dj/ogazon",
+   "sc": "https://soundcloud.com/ogazon",
+   "ig": "https://www.instagram.com/ogazon.dj"
+  },
+  "from": {
+   "de": "Luxemburg / Berlin",
+   "en": "Luxembourg / Berlin"
+  },
+  "genres": [
+   "House",
+   "Techno"
+  ],
+  "bio": {
+   "de": "In Luxemburg geborene, in Berlin lebende DJ, die mit Vinyl-Sets und einem Old-School-Zugang zu House und Techno heraussticht. Sie mixte den RA-Podcast RA.1060 und gründete ein eigenes Label.",
+   "en": "Luxembourg-born, Berlin-based DJ who stands out with vinyl sets and an old-school approach to house and techno. She recorded RA Podcast RA.1060 and launched her own label."
+  },
+  "src": [
+   "https://ra.co/dj/ogazon",
+   "https://ra.co/features/4257"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Pessimist": {
+  "alias": [
+   "Soft Boi"
+  ],
+  "img": "https://static.ra.co/images/profiles/pessimist.jpg?dateUpdated=1571662326000",
+  "links": {
+   "ra": "https://ra.co/dj/pessimist",
+   "sc": "https://soundcloud.com/pessimist"
+  },
+  "from": {
+   "de": "Bristol",
+   "en": "Bristol"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Techno"
+  ],
+  "labels": [
+   "Blackest Ever Black",
+   "Ilian Tape",
+   "Renegade Hardware",
+   "Samurai Music",
+   "Osiris Music UK",
+   "UVB-76",
+   "A14"
+  ],
+  "bio": {
+   "de": "Produzent aus Bristol, der Techno und Drum & Bass verbindet und später zu seinen Drum-&-Bass-Wurzeln zurückkehrte. Releases u. a. auf Blackest Ever Black (Debütalbum), Ilian Tape, Renegade Hardware und Samurai Music; unter dem Alias Soft Boi erschien das Album „So Nice“.",
+   "en": "Bristol producer combining techno and drum & bass who later returned to his drum & bass roots. Releases on Blackest Ever Black (debut album), Ilian Tape, Renegade Hardware and Samurai Music among others; the album “So Nice” came out under his alias Soft Boi."
+  },
+  "src": [
+   "https://ra.co/dj/pessimist"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Chris Liberator": {
+  "img": "https://static.ra.co/images/profiles/chrisliberator.jpg?dateUpdated=1187272638407",
+  "links": {
+   "ra": "https://ra.co/dj/chrisliberator"
+  },
+  "from": {
+   "de": "London",
+   "en": "London"
+  },
+  "genres": [
+   "Acid Techno"
+  ],
+  "labels": [
+   "Stay Up Forever",
+   "Hydraulix Records",
+   "Eukatech",
+   "Highland Beats",
+   "Carbon Audio"
+  ],
+  "bio": {
+   "de": "Londoner Acid-Techno-DJ und Mitglied der legendären Liberator-DJs-Crew, die 2022 ihr 30-jähriges Bestehen feierte. Releases u. a. auf Stay Up Forever, Hydraulix und Eukatech; er spielt vor allem in London, Paris und Berlin.",
+   "en": "London acid techno DJ and member of the legendary Liberator DJs crew, which celebrated 30 years in 2022. Releases on Stay Up Forever, Hydraulix and Eukatech among others; he plays mostly in London, Paris and Berlin."
+  },
+  "src": [
+   "https://ra.co/dj/chrisliberator",
+   "https://ra.co/news/76853"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "ERIS": {
+  "img": "https://static.ra.co/images/profiles/square/eris.jpg?dateUpdated=1559596962903",
+  "links": {
+   "ra": "https://ra.co/dj/eris",
+   "sc": "https://soundcloud.com/erisduo"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "labels": [
+   "20/20 Vision",
+   "Cabaret Recordings",
+   "WARNING",
+   "Plexus 4"
+  ],
+  "bio": {
+   "de": "Berliner Duo aus Enrica Falqui (Sardinien) und Dea Dvornik (Kroatien), das Techno, House, Ambient und Acid verbindet. Releases u. a. auf 20/20 Vision, Cabaret Recordings und WARNING.",
+   "en": "Berlin-based duo of Enrica Falqui (Sardinia) and Dea Dvornik (Croatia), blending techno, house, ambient and acid. Releases on 20/20 Vision, Cabaret Recordings and WARNING among others."
+  },
+  "src": [
+   "https://ra.co/dj/eris",
+   "https://ra.co/events/2032288"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "The Upbeats": {
+  "img": "https://static.ra.co/images/profiles/theupbeats.jpg?dateUpdated=1440784530640",
+  "links": {
+   "ra": "https://ra.co/dj/theupbeats",
+   "sc": "https://soundcloud.com/theupbeats",
+   "web": "https://www.theupbeats.co.nz"
+  },
+  "from": {
+   "de": "Wellington, Neuseeland",
+   "en": "Wellington, New Zealand"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Ram Records",
+   "Hospital Records",
+   "Soul:r",
+   "Renegade Hardware",
+   "Samurai Music",
+   "Commercial Suicide",
+   "Virus Recordings"
+  ],
+  "bio": {
+   "de": "Produktions- und DJ-Duo aus Wellington (Terror Snake und Downie Wolf), eines der bekanntesten Acts der neuseeländischen Drum-&-Bass-Szene. Releases u. a. auf Ram Records, Hospital Records, Renegade Hardware und Virus Recordings.",
+   "en": "Production and DJ duo from Wellington (Terror Snake and Downie Wolf), one of the best-known acts of the New Zealand drum & bass scene. Releases on Ram Records, Hospital Records, Renegade Hardware and Virus Recordings among others."
+  },
+  "src": [
+   "https://ra.co/dj/theupbeats/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Posij": {
+  "img": "https://static.ra.co/images/profiles/posij.jpg?dateUpdated=1453222682197",
+  "links": {
+   "ra": "https://ra.co/dj/posij",
+   "sc": "https://soundcloud.com/posij"
+  },
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Drum-&-Bass-DJ und Produzent aus den Niederlanden, seit 2010 aktiv. Er spielt regelmäßig in Amsterdam (u. a. Melkweg, OOST), London, Paris und Wien.",
+   "en": "Drum & bass DJ and producer from the Netherlands, active since 2010. He plays regularly in Amsterdam (Melkweg, OOST), London, Paris and Vienna."
+  },
+  "src": [
+   "https://ra.co/dj/posij"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Rohaan": {
+  "img": "https://static.ra.co/images/profiles/square/rohaan.jpg?dateUpdated=1718277355000",
+  "links": {
+   "ra": "https://ra.co/dj/rohaan"
+  },
+  "from": {
+   "de": "Großbritannien",
+   "en": "United Kingdom"
+  },
+  "labels": [
+   "Hospital Records"
+  ],
+  "bio": {
+   "de": "DJ und Produzent aus Großbritannien mit Releases auf Hospital Records.",
+   "en": "UK DJ and producer with releases on Hospital Records."
+  },
+  "src": [
+   "https://ra.co/dj/rohaan"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Archie Hamilton": {
+  "img": "https://static.ra.co/images/profiles/square/archiehamilton.jpg?dateUpdated=1507718267000",
+  "links": {
+   "ra": "https://ra.co/dj/archiehamilton",
+   "sc": "https://soundcloud.com/archiehamiltonmusic",
+   "ig": "https://www.instagram.com/archiebhamilton"
+  },
+  "from": {
+   "de": "London",
+   "en": "London"
+  },
+  "labels": [
+   "MicroHertz",
+   "Fuse London",
+   "Moscow Records",
+   "Cécille Records",
+   "Fear of Flying"
+  ],
+  "bio": {
+   "de": "Londoner DJ und Produzent und Betreiber des Labels MicroHertz. Releases u. a. auf Fuse London, Moscow Records, Cécille und Fear of Flying.",
+   "en": "London-based DJ, producer and owner of the MicroHertz label. Releases on Fuse London, Moscow Records, Cécille and Fear of Flying among others."
+  },
+  "src": [
+   "https://ra.co/dj/archiehamilton"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Conntex": {
+  "img": "https://static.ra.co/images/profiles/square/conntex.jpg?dateUpdated=1745855859963",
+  "links": {
+   "ra": "https://ra.co/dj/conntex",
+   "sc": "https://soundcloud.com/conntex",
+   "bc": "https://conntex.bandcamp.com",
+   "ig": "https://www.instagram.com/conntex.3r",
+   "web": "https://como-records.com"
+  },
+  "from": {
+   "de": "Deutschland / Berlin",
+   "en": "Germany / Berlin"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "COMO Records",
+   "KR Records",
+   "Warok",
+   "EXTRA ENERGY",
+   "Kluster Records",
+   "Duplicity Records"
+  ],
+  "bio": {
+   "de": "DJ und Produzent aus Deutschland, heute in Berlin, seit 2021 auf Bühnen vor allem in Österreich, Berlin und München. Releases u. a. auf COMO Records, KR Records, Warok und Kluster Records.",
+   "en": "DJ and producer from Germany, now based in Berlin, playing since 2021 mainly in Austria, Berlin and Munich. Releases on COMO Records, KR Records, Warok and Kluster Records among others."
+  },
+  "src": [
+   "https://ra.co/dj/conntex"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Zapravka": {
+  "alias": [
+   "ZAPRAVKA"
+  ],
+  "img": "https://gg.festapp.io/small_1711441202_small_zapravka.jpeg",
+  "links": {
+   "sc": "https://soundcloud.com/zapravka-music"
+  },
+  "from": {
+   "de": "Russland",
+   "en": "Russia"
+  },
+  "genres": [
+   "Hard Techno"
+  ],
+  "bio": {
+   "de": "Russisches Duo, 2021 von zwei Freunden gegründet, das über Drum & Bass, Hardstyle und Bass House zum Techno kam. Bekannt für humorvollen Hard Techno mit verzerrtem Bass und geshouteten Phrasen; Alben u. a. АИ-95, АИ-98 und TEMPLE OF SILENCE (2026).",
+   "en": "Russian duo formed in 2021 by two friends who came to techno via drum & bass, hardstyle and bass house. Known for humorous hard techno with distorted bass and shouted phrases; albums include АИ-95, АИ-98 and TEMPLE OF SILENCE (2026)."
+  },
+  "src": [
+   "https://festapp.io/artists/zapravka"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "DRS": {
+  "alias": [
+   "MC DRS"
+  ],
+  "img": "https://cdn.shopify.com/s/files/1/1308/1899/files/DRS_main_ppic_480x480.jpg?v=1659365138",
+  "links": {
+   "sp": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2",
+   "ig": "https://www.instagram.com/delrokski/"
+  },
+  "from": {
+   "de": "Manchester",
+   "en": "Manchester"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Shogun Audio",
+   "Space Cadet",
+   "Hospital Records"
+  ],
+  "bio": {
+   "de": "Drum-&-Bass-MC und Lyriker aus Manchester, bekannt für emotionale Wortspiele über schnellen Breakbeats. In den 1990ern Resident-MC im Club Xtreme, heute auf Shogun Audio; mit LSB tourt er als „Space Age“ (gemeinsames Album „The Blue Hour“).",
+   "en": "Drum & bass MC and lyricist from Manchester known for emotive wordplay over fast breakbeats. Resident MC at Club Xtreme in the 1990s, now on Shogun Audio; with LSB he tours as “Space Age” (joint album “The Blue Hour”)."
+  },
+  "src": [
+   "https://www.shogunaudio.co.uk/pages/drs"
+  ],
+  "infoChk": "2026-11-04"
  }
 };
 
