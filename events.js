@@ -44806,8 +44806,8 @@ const AR={
    "House"
   ],
   "bio": {
-   "de": "DJ und Produzent aus dem Umfeld des Wiener Kollektivs Room 555, für das er den Podcast ROOMCAST004 aufnahm. Mit Jas Rial veröffentlichte er die Tracks „Shinobi’s Pitch“ und „Shaolin Monk“.",
-   "en": "DJ and producer from the circle of the Viennese collective Room 555, for which he recorded the ROOMCAST004 podcast. Together with Jas Rial he released the tracks “Shinobi’s Pitch” and “Shaolin Monk”."
+   "de": "DJ und Produzent, der den Podcast ROOMCAST004 des Wiener Kollektivs Room 555 aufnahm. Mit Jas Rial veröffentlichte er die Tracks „Shinobi’s Pitch“ und „Shaolin Monk“.",
+   "en": "DJ and producer who recorded the ROOMCAST004 podcast for the Viennese collective Room 555. Together with Jas Rial he released the tracks “Shinobi’s Pitch” and “Shaolin Monk”."
   },
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04",
@@ -44815,7 +44815,14 @@ const AR={
    "https://soundcloud.com/room555/roomcast004-sunshine-daddy",
    "https://jasrial.bandcamp.com/"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "sets": [
+   {
+    "t": "[ROOMCAST004] Sunshine Daddy",
+    "u": "https://soundcloud.com/room555/roomcast004-sunshine-daddy"
+   }
+  ],
+  "setsChecked": "2026-11-04"
  },
  "FNKYN": {
   "noImg": "2026-11-04",
@@ -45045,6 +45052,413 @@ const AR={
   "src": [
    "https://ra.co/dj/inverruf"
   ],
+  "infoChk": "2026-11-04"
+ },
+ "Lene Ma Rue": {
+  "img": "https://static.ra.co/images/profiles/square/lenemarue.jpg?dateUpdated=1656928549683",
+  "links": {
+   "ra": "https://ra.co/dj/lenemarue"
+  },
+  "from": {
+   "de": "Estland",
+   "en": "Estonia"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Techno-Artist aus Estland. Spielte u. a. beim zweijährigen Jubiläum des Halal Club in Tallinn sowie bei IMPULSE in der Grelle Forelle in Wien.",
+   "en": "Techno artist from Estonia who has played, among others, the Halal Club two-year anniversary in Tallinn and IMPULSE at Grelle Forelle in Vienna."
+  },
+  "src": [
+   "https://ra.co/dj/lenemarue/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Funk Tribu": {
+  "img": "https://static.ra.co/images/profiles/square/funktribu.jpg?dateUpdated=1671640124000",
+  "links": {
+   "ra": "https://ra.co/dj/funktribu"
+  },
+  "from": {
+   "de": "Kolumbien, lebt in Deutschland",
+   "en": "Colombia, based in Germany"
+  },
+  "real": "Eduardo Jose Montañez Sanchez",
+  "genres": [
+   "Techno",
+   "Hard Techno"
+  ],
+  "labels": [
+   "Taapion Records",
+   "Gomboc Records",
+   "KTK Records",
+   "Underzone",
+   "Speedmaster Records",
+   "Customized Culture Recordings"
+  ],
+  "bio": {
+   "de": "In Kolumbien geborener, in Deutschland lebender DJ und Produzent. Releases u. a. auf Taapion Records, Gomboc Records und KTK Records; tritt international auf, etwa bei RUSH im Knockdown Center in New York, im RSO.BERLIN und bei Mondo Open Air in Madrid.",
+   "en": "Colombian-born DJ and producer based in Germany. Releases on labels including Taapion Records, Gomboc Records and KTK Records; he performs internationally, for example at RUSH at Knockdown Center in New York, RSO.BERLIN and Mondo Open Air in Madrid."
+  },
+  "src": [
+   "https://ra.co/dj/funktribu"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Free Meyeno": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "DJ Assault": {
+  "img": "https://static.ra.co/images/profiles/djassault.jpg?dateUpdated=1266601408000",
+  "links": {
+   "ra": "https://ra.co/dj/djassault"
+  },
+  "from": {
+   "de": "USA",
+   "en": "USA"
+  },
+  "real": "Craig Adams",
+  "genres": [
+   "Ghettotech"
+  ],
+  "labels": [
+   "Thug Records"
+  ],
+  "bio": {
+   "de": "US-amerikanischer DJ und Produzent (bürgerlich Craig Adams), der mit seiner Show „Straight Up Detroit Sh*t“ international unterwegs ist. Spielt regelmäßig u. a. im Market Hotel in New York und im fabric in London sowie in Detroit, Berlin und Amsterdam.",
+   "en": "US DJ and producer (real name Craig Adams) who tours internationally with his “Straight Up Detroit Sh*t” show. He plays regularly at Market Hotel in New York and fabric in London, as well as in Detroit, Berlin and Amsterdam."
+  },
+  "src": [
+   "https://ra.co/dj/djassault",
+   "https://ra.co/events/1973568"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Alcatraz": {
+  "img": "https://static.ra.co/images/profiles/square/alcatraz.jpg?dateUpdated=1785201725077",
+  "links": {
+   "ra": "https://ra.co/dj/alcatraz",
+   "ig": "https://www.instagram.com/alcatrazzz"
+  },
+  "from": {
+   "de": "Deutschland, lebt in den Niederlanden",
+   "en": "Germany, based in the Netherlands"
+  },
+  "real": "Lenny Altaras",
+  "bio": {
+   "de": "In Deutschland geborener, in den Niederlanden lebender DJ (bürgerlich Lenny Altaras). Spielt häufig bei LIVE FROM EARTH, u. a. im BLITZ in München und im Berghain, sowie bei HOMOBLOC in Manchester und im Trädgården in Stockholm.",
+   "en": "German-born DJ based in the Netherlands (real name Lenny Altaras). Plays frequently at LIVE FROM EARTH nights, including BLITZ in Munich and Berghain, as well as HOMOBLOC in Manchester and Trädgården in Stockholm."
+  },
+  "src": [
+   "https://es.ra.co/dj/alcatraz"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Etherwood": {
+  "img": "https://static.ra.co/images/profiles/etherwood.jpg?dateUpdated=1383089136000",
+  "links": {
+   "ra": "https://ra.co/dj/etherwood",
+   "sc": "https://www.soundcloud.com/etherwood",
+   "web": "https://etherwood.co.uk/"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Liquid"
+  ],
+  "labels": [
+   "Med School"
+  ],
+  "bio": {
+   "de": "Britischer Drum-&-Bass-Produzent und DJ, dessen Musik auf Med School, dem Schwesterlabel von Hospital Records, erscheint. Spielte u. a. bei Hospitality im Melkweg Amsterdam und bei Mainframe Recordings in der Arena Wien.",
+   "en": "British drum & bass producer and DJ whose music is released on Med School, the sister label of Hospital Records. He has played Hospitality at Melkweg Amsterdam and Mainframe Recordings at Arena Wien, among others."
+  },
+  "src": [
+   "https://ra.co/dj/etherwood",
+   "https://ra.co/news/21589",
+   "https://ra.co/events/932004"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Unglued": {
+  "img": "https://static.ra.co/images/profiles/square/unglued.jpg?dateUpdated=1521643580000",
+  "links": {
+   "ra": "https://ra.co/dj/unglued",
+   "sc": "https://www.soundcloud.com/unglueddnb"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Britischer Drum-&-Bass-Artist, der u. a. bei den Hospital30-Shows zum 30-jährigen Jubiläum von Hospital Records in Australien und Neuseeland spielte. Häufig zu Gast in Motion Bristol, Studio 338, fabric und bei The Garden Tisno.",
+   "en": "British drum & bass artist who played, among others, the Hospital30 shows celebrating 30 years of Hospital Records in Australia and New Zealand. Regular appearances at Motion Bristol, Studio 338, fabric and The Garden Tisno."
+  },
+  "src": [
+   "https://ra.co/dj/unglued"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Henning Baer": {
+  "img": "https://static.ra.co/images/profiles/henningbaer.jpg?dateUpdated=1486583385270",
+  "links": {
+   "ra": "https://ra.co/dj/henningbaer",
+   "sc": "https://www.soundcloud.com/henningbaerberlin",
+   "ig": "https://www.instagram.com/henningbaer_",
+   "bc": "https://manhighrecordingsbln.bandcamp.com",
+   "web": "https://www.henningbaer.de"
+  },
+  "from": {
+   "de": "Deutschland (Berlin)",
+   "en": "Germany (Berlin)"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "MANHIGH Recordings",
+   "Sonic Groove",
+   "K209",
+   "Non Series",
+   "Codec 992"
+  ],
+  "bio": {
+   "de": "Berliner Techno-DJ und Produzent, Mitgründer, Kurator und Resident der Partyreihe Grounded Theory. Releases u. a. auf seinem Label MANHIGH Recordings sowie auf Sonic Groove, K209 und Non Series; international unterwegs, u. a. im Berghain und im Artheater Köln.",
+   "en": "Berlin techno DJ and producer, co-founder, curator and resident of the Grounded Theory party series. Releases on his own MANHIGH Recordings label as well as Sonic Groove, K209 and Non Series; he plays internationally, including Berghain and Artheater Cologne."
+  },
+  "src": [
+   "https://ra.co/dj/henningbaer"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Little Guy": {
+  "img": "https://f4.bcbits.com/img/0019445099_23.jpg",
+  "links": {
+   "bc": "https://littleguy.bandcamp.com",
+   "sc": "https://soundcloud.com/littleguy-dst"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "genres": [
+   "Tekno",
+   "Hardtek",
+   "Tribe"
+  ],
+  "bio": {
+   "de": "Französischer Underground-Tekno-Produzent, aktiv seit 1997, mit Hardtek, Tribe, Tekno und Drums auf Vinyl und digital. Releases u. a. auf Tribe Factory, Nazdar Bazar und Fat Fury, dazu Live-Set-Sammlungen auf Bandcamp.",
+   "en": "French underground tekno producer active since 1997, making hardtek, tribe, tekno and drums on vinyl and digital. Releases include Tribe Factory, Nazdar Bazar and Fat Fury, plus live set collections on Bandcamp."
+  },
+  "src": [
+   "https://littleguy.bandcamp.com/music"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Tigerhead": {
+  "img": "https://static.ra.co/images/profiles/square/tigerhead.jpg?dateUpdated=1740699947250",
+  "links": {
+   "ra": "https://ra.co/dj/tigerhead",
+   "sc": "https://www.soundcloud.com/tigerhead",
+   "ig": "https://www.instagram.com/_tigerhead_",
+   "bc": "https://tigerheadofficial.bandcamp.com",
+   "web": "https://www.bpitch.de/en/artist/tigerhead/"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "BPitch",
+   "KILLEKILL",
+   "HET",
+   "EXHALE Records",
+   "Misguided Label",
+   "66.circuit"
+  ],
+  "bio": {
+   "de": "In Deutschland ansässige DJ und Produzentin, bekannt für rohe, überraschende und vielseitige Sets in Clubs wie dem Berghain und bei Awakenings; ihr HÖR-Set gehört zu den meistgesehenen der Plattform. Releases u. a. auf BPitch, KILLEKILL und EXHALE Records.",
+   "en": "Germany-based DJ and producer known for raw, surprising and diverse sets at clubs such as Berghain and at Awakenings; her HÖR set is among the platform’s most-watched. Releases on BPitch, KILLEKILL and EXHALE Records, among others."
+  },
+  "src": [
+   "https://ra.co/dj/tigerhead"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Beau Didier": {
+  "img": "https://static.ra.co/images/profiles/square/beaudidier.jpg?dateUpdated=1783594585000",
+  "links": {
+   "ra": "https://ra.co/dj/beaudidier",
+   "sc": "https://www.soundcloud.com/beaudidier",
+   "ig": "https://www.instagram.com/beaudidier909/",
+   "bc": "https://beaudidier.bandcamp.com"
+  },
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Frenzy Recordings"
+  ],
+  "bio": {
+   "de": "Niederländischer DJ und Produzent mit Releases auf Frenzy Recordings. Tourt international, u. a. im ://about blank und OXI in Berlin, im Artheater Köln, im Wigwam Dublin und in The Dove Club Melbourne.",
+   "en": "Dutch DJ and producer with releases on Frenzy Recordings. He tours internationally, including ://about blank and OXI in Berlin, Artheater Cologne, Wigwam Dublin and The Dove Club in Melbourne."
+  },
+  "src": [
+   "https://ra.co/dj/beaudidier"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Bashkka": {
+  "img": "https://static.ra.co/images/profiles/square/bashkka.jpg?dateUpdated=1718875878000",
+  "links": {
+   "ra": "https://ra.co/dj/bashkka"
+  },
+  "from": {
+   "de": "Deutschland (München)",
+   "en": "Germany (Munich)"
+  },
+  "bio": {
+   "de": "DJ mit Heimat-Residency im Blitz Club München, die ein Jahrzehnt in New York lebte, wo die Ballroom-Szene ihren Stil prägte. Bekannt für energiegeladene, freche Sets; setzt sich für Community, SWANA-Repräsentation und queere Sichtbarkeit ein und spielt regelmäßig in Berghain/Panorama Bar.",
+   "en": "DJ with a home residency at Blitz Club in Munich who spent a decade in New York, where the ballroom scene shaped her style. Known for energetic, cheeky sets; she champions community, SWANA representation and queer visibility and plays regularly at Berghain/Panorama Bar."
+  },
+  "src": [
+   "https://ra.co/dj/bashkka/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Holy Lolly": {
+  "links": {
+   "sc": "https://soundcloud.com/holylolly"
+  },
+  "from": {
+   "de": "Wien, Wurzeln in Ghana",
+   "en": "Vienna, roots in Ghana"
+  },
+  "genres": [
+   "House"
+  ],
+  "bio": {
+   "de": "DJ und Host mit Wurzeln in Ghana, die progressiven, sinnlichen House mit jazzigen und tribalen Elementen spielt. In der Wiener Clubszene über Radio, Partyhosting und Kolumnen etabliert; spielt u. a. bei GAZE, etwa bei der ImPulsTanz-Afterparty im Burgtheater.",
+   "en": "DJ and host with roots in Ghana who plays progressive, sensual house with jazzy and tribal elements. Established in Vienna’s club scene through radio, party hosting and columns; plays GAZE nights, including the ImPulsTanz afterparty at Burgtheater."
+  },
+  "noImg": "2026-11-04",
+  "src": [
+   "https://ra.co/events/2212791"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "vince": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "The Devil Dwarf": {
+  "links": {
+   "sc": "https://soundcloud.com/thedevildwarf"
+  },
+  "from": {
+   "de": "Italien (Rom)",
+   "en": "Italy (Rome)"
+  },
+  "genres": [
+   "Hard Techno",
+   "Hardstyle"
+  ],
+  "labels": [
+   "Tx Records",
+   "Hekate Records"
+  ],
+  "bio": {
+   "de": "Italienischer Produzent und DJ aus Rom, der Hard Techno mit Einflüssen aus Psy, Hardcore und Hardstyle verbindet. Releases u. a. auf Tx Records („Going Hard Ravers“, „The Process“) und Hekate Records („More Time“).",
+   "en": "Italian producer and DJ from Rome blending hard techno with influences from psy, hardcore and hardstyle. Releases include Tx Records (“Going Hard Ravers”, “The Process”) and Hekate Records (“More Time”)."
+  },
+  "noImg": "2026-11-04",
+  "src": [
+   "https://goout.net/de/the-devil-dwarf/pzvhaqg/",
+   "https://soundcloud.com/thedevildwarf"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Shirin": {
+  "links": {
+   "sc": "https://soundcloud.com/shirin-farassat"
+  },
+  "genres": [
+   "Tekno"
+  ],
+  "bio": {
+   "de": "Tekno-Produzentin und DJ; veröffentlichte u. a. den Track „The Escape“ gemeinsam mit Keton. Spielte in Wien beim SIN x Überdruck Soundsystem im FLUCC.",
+   "en": "Tekno producer and DJ who released the track “The Escape” together with Keton, among others. Played SIN x Überdruck Soundsystem at FLUCC in Vienna."
+  },
+  "noImg": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/shirin-farassat/shirin-keton-the-escape"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Keton": {
+  "genres": [
+   "Tekno"
+  ],
+  "bio": {
+   "de": "Tekno-Act, der mit Shirin den Track „The Escape“ veröffentlichte. Spielte in Wien beim SIN x Überdruck Soundsystem im FLUCC.",
+   "en": "Tekno act who released the track “The Escape” with Shirin. Played SIN x Überdruck Soundsystem at FLUCC in Vienna."
+  },
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/shirin-farassat/shirin-keton-the-escape"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Geehee": {
+  "links": {
+   "sc": "https://soundcloud.com/geeheedbc"
+  },
+  "bio": {
+   "de": "DJ und Produzent aus dem Umfeld von Hell Kartell und Big Maschines mit Live-Sets u. a. aus dem Glashaus Worbis, der Alten Hopfendarre Emersleben und dem Areal Orbis in Leipzig. Veröffentlicht auch unter „Deep District“ (mit Corespondent).",
+   "en": "DJ and producer associated with Hell Kartell and Big Maschines, with live sets from Glashaus Worbis, Alte Hopfendarre Emersleben and Areal Orbis in Leipzig, among others. Also releases as “Deep District” (with Corespondent)."
+  },
+  "sets": [
+   {
+    "t": "DISTRICT 91 @ Glashaus Worbis – Extaso Bday – Live Set (14.12.2024)",
+    "u": "https://soundcloud.com/geeheedbc/district-91-glashaus-worbis-13"
+   },
+   {
+    "t": "GEEHEE & CLYDE @ AREAL ORBIS LEIPZIG",
+    "u": "https://soundcloud.com/geeheedbc/geehee-vs-clyde-areal-orbis"
+   },
+   {
+    "t": "Geehee @ Alte Hopfendarre Emersleben",
+    "u": "https://soundcloud.com/geeheedbc/geehee-alte-hopfendarre-emersleben"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "noImg": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/geeheedbc"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Mazatek": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
   "infoChk": "2026-11-04"
  }
 };
