@@ -32052,6 +32052,384 @@ const AR={
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04"
+ },
+ "CARV": {
+  "img": "https://static.ra.co/images/profiles/square/carv.jpg?dateUpdated=1696359605000",
+  "links": {
+   "ra": "https://ra.co/dj/carv",
+   "sc": "https://soundcloud.com/carv-music"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Hard Techno"
+  ],
+  "bio": {
+   "de": "DJ und Produzent aus Deutschland im Hard-Techno-Umfeld, der seinen Sound auf RA selbst als „criminal and rough“ beschreibt. Tracks erschienen u. a. bei Tx Records und Finder Records.",
+   "en": "German DJ and producer from the hard techno scene who describes his own sound on RA as “criminal and rough”. His tracks have appeared on labels such as Tx Records and Finder Records."
+  },
+  "labels": [
+   "Tx Records",
+   "Finder Records"
+  ],
+  "sets": [
+   {
+    "t": "Projects Podcast 29 – CARV",
+    "u": "https://soundcloud.com/unwind-events/projects-podcast-29-carv-hardtechno"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/carv",
+   "https://soundcloud.com/carv-music/tracks"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Bailey Ibbs": {
+  "img": "https://static.ra.co/images/profiles/square/baileyibbs.jpg?dateUpdated=1784300587477",
+  "links": {
+   "ra": "https://ra.co/dj/baileyibbs",
+   "sc": "https://soundcloud.com/bailey-ibbs"
+  },
+  "genres": [
+   "Techno",
+   "Breaks"
+  ],
+  "labels": [
+   "Night Service"
+  ],
+  "bio": {
+   "de": "DJ, Produzent und Kurator, dessen Sound Techno, Breaks und Rave-Musik verbindet; er betreibt das eigene Label Night Service. 2022 machte er mit der „Volta EP“ auf sich aufmerksam, 2023 folgte die „Not Into It EP“ auf Night Service, dazu Beiträge zu Releases für KiNK, Token und SLAM. Seit 2024 ist er Resident im Berliner Tresor.",
+   "en": "DJ, producer and curator whose sound blends techno, breaks and rave music; he runs his own label, Night Service. He drew attention with the Volta EP in 2022, followed by the Not Into It EP on Night Service in 2023, plus contributions to releases for KiNK, Token and SLAM. Since 2024 he has been a resident at Berlin's Tresor."
+  },
+  "sets": [
+   {
+    "t": "Bailey Ibbs @ RSO, Berlin (16.09.2024)",
+    "u": "https://soundcloud.com/bailey-ibbs/bailey-ibbs-rso-berlin-16th-september-2024"
+   },
+   {
+    "t": "Bailey Ibbs – HATE Podcast 430",
+    "u": "https://soundcloud.com/hate_music/bailey-ibbs-hate-podcast-430"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/baileyibbs/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "ANNĒ": {
+  "img": "https://static.ra.co/images/profiles/square/anne.jpg?dateUpdated=1776190041637",
+  "links": {
+   "ra": "https://ra.co/dj/anne",
+   "sc": "https://soundcloud.com/annemusicofficial"
+  },
+  "from": {
+   "de": "Thessaloniki, Griechenland",
+   "en": "Thessaloniki, Greece"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Soma Records",
+   "Hardgroove",
+   "Symbolism",
+   "Mutual Rytm",
+   "Arsenik",
+   "Renegade Methodz",
+   "Blind Harmonies"
+  ],
+  "alias": [
+   "Annē"
+  ],
+  "bio": {
+   "de": "Griechische Techno-DJ und Komponistin aus Thessaloniki, die seit 2012 Musik macht. Ihr energiegeladener Sound bezieht sich auf Detroit-Techno und Klänge der 90er und frühen 2000er; Releases u. a. auf Soma, Hardgroove, Symbolism und Mutual Rytm. Sie spielte u. a. im Berghain, Bassiani, bei Awakenings und Sónar und gründet 2026 ihr eigenes Label Blind Harmonies.",
+   "en": "Greek techno DJ and composer from Thessaloniki who started making music in 2012. Her high-energy sound draws on Detroit techno and the sounds of the 90s and early 2000s, with releases on Soma, Hardgroove, Symbolism and Mutual Rytm. She has played Berghain, Bassiani, Awakenings and Sónar, and launches her own label, Blind Harmonies, in 2026."
+  },
+  "sets": [
+   {
+    "t": "BPITCH 044 – ANNĒ",
+    "u": "https://soundcloud.com/bpitch-control/bpitchpodcast044-anne"
+   },
+   {
+    "t": "DifferentSound invites ANNĒ / Podcast #280",
+    "u": "https://soundcloud.com/differentsoundofficial/anne-differentsound"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/anne/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Lucinee": {
+  "img": "https://static.ra.co/images/profiles/square/lucinee.jpg?dateUpdated=1785260065257",
+  "links": {
+   "ra": "https://ra.co/dj/lucinee",
+   "sc": "https://soundcloud.com/lucinee"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "BPitch",
+   "EXHALE",
+   "Space Trax",
+   "Distant Lifeforms"
+  ],
+  "alias": [
+   "DJ Dripcore"
+  ],
+  "bio": {
+   "de": "In Berlin lebende Techno-DJ, Produzentin und Live-Act mit deutschen und armenisch-iranischen Wurzeln, die Peak-Time-Energie mit tieferen, atmosphärischen Momenten verbindet. Releases u. a. auf BPitch, EXHALE und Space Trax; Auftritte im Tresor, in der Säule des Berghain und bei Boiler Room. 2025 gründete sie das Label Distant Lifeforms, zugleich ihr modulares Live-Projekt mit Lifka.",
+   "en": "Berlin-based techno DJ, producer and live act with German and Armenian-Iranian roots who pairs peak-time energy with deeper, atmospheric moments. Releases on BPitch, EXHALE and Space Trax; she has played Tresor, Berghain's Säule and Boiler Room. In 2025 she founded the label Distant Lifeforms, also the name of her modular live project with Lifka."
+  },
+  "sets": [
+   {
+    "t": "Hard Dance 109: Lucinee (Boiler Room)",
+    "u": "https://soundcloud.com/platform/hard-dance-109-lucinee"
+   },
+   {
+    "t": "Lucinee – HATE Podcast 285",
+    "u": "https://soundcloud.com/hate_music/lucinee-hate-podcast-285"
+   },
+   {
+    "t": "BCCO Mix Series 093: Lucinee aka DJ Dripcore",
+    "u": "https://soundcloud.com/bcco/bcco-podcast-093-lucinee-aka-dj-dripcore"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/lucinee/biography",
+   "https://soundcloud.com/bcco/bcco-podcast-093-lucinee-aka-dj-dripcore"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Bonnie Callini": {
+  "links": {
+   "sc": "https://soundcloud.com/callmebonnie"
+  },
+  "from": {
+   "de": "Salzburg",
+   "en": "Salzburg"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Salzburger Techno-DJ, die auch eigene Tracks produziert und Teil des Olymp Kollektivs ist. Sie spielt regelmäßig im Soda Club in der Gstättengasse und tritt auch weit über Salzburg hinaus auf; dabei setzt sie sich für mehr Raum und Akzeptanz für Subkulturen in der Stadt ein.",
+   "en": "Salzburg techno DJ who also produces her own tracks and is part of the Olymp collective. She plays regularly at Soda Club on Gstättengasse and performs well beyond Salzburg, while campaigning for more space and acceptance for subcultures in the city."
+  },
+  "sets": [
+   {
+    "t": "FM4 x La Boum de Luxe 01.09.23",
+    "u": "https://soundcloud.com/callmebonnie/bonnie-callini-fm4"
+   },
+   {
+    "t": "SURREAL x Airport Salzburg 22.04.23",
+    "u": "https://soundcloud.com/callmebonnie/bonnie-callini-surreal-x-wolfgang"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "noImg": "2026-11-04",
+  "src": [
+   "https://www.salzburgerland.com/de/zweitenblicke-auf-salzburgs-subkulturen",
+   "https://soundcloud.com/callmebonnie"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Sonja Moonear": {
+  "img": "https://static.ra.co/images/profiles/square/sonjamoonear.jpg?dateUpdated=1507718447000",
+  "links": {
+   "ra": "https://ra.co/dj/sonjamoonear",
+   "sc": "https://soundcloud.com/moonear",
+   "web": "https://www.ruta5.org"
+  },
+  "from": {
+   "de": "Schweiz",
+   "en": "Switzerland"
+  },
+  "labels": [
+   "Perlon",
+   "Karat Records",
+   "Ruta 5",
+   "Adjunct",
+   "Monika Enterprise",
+   "æternum music"
+  ],
+  "alias": [
+   "Junction SM"
+  ],
+  "bio": {
+   "de": "Schweizer DJ und Produzentin, die auch als Junction SM veröffentlicht. Ihre Releases erschienen u. a. auf Perlon, Karat, Adjunct, Monika Enterprise und Ruta 5; sie mixte die Compilation „Cocoon Ibiza“ und steuerte den RA Podcast 520 bei.",
+   "en": "Swiss DJ and producer who also releases as Junction SM. Her records have come out on Perlon, Karat, Adjunct, Monika Enterprise and Ruta 5; she mixed the Cocoon Ibiza compilation and contributed RA Podcast 520."
+  },
+  "sets": [
+   {
+    "t": "Sonja Moonear – International Women's Day mix for Juno Records x fabric",
+    "u": "https://soundcloud.com/junorecords/sonja-moonears-international-womens-day-mix-for-juno-records-x-fabric"
+   },
+   {
+    "t": "Sonja Moonear – fabric Promo Mix",
+    "u": "https://soundcloud.com/fabric/sonja-moonear-fabric-promo-miz"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/sonjamoonear",
+   "https://ra.co/podcast/520",
+   "https://ra.co/reviews/19740"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Emilija": {
+  "img": "https://static.ra.co/images/profiles/square/emilija.jpg?dateUpdated=1649435485000",
+  "links": {
+   "ra": "https://ra.co/dj/emilija"
+  },
+  "genres": [
+   "Hard House",
+   "Techno"
+  ],
+  "alias": [
+   "EMILIJA"
+  ],
+  "bio": {
+   "de": "DJ, deren Sound RA als furchtlose, „dampfende“ Kollision aus Hard-House-Deep-Cuts und energiegeladenem Techno beschreibt. Ihre Sets gelten als notorisch energiegeladen; in Wien spielte sie bei „Aftermath by Radio Rudina“ in der Grellen Forelle.",
+   "en": "DJ whose sound RA describes as a fearless, steamy collision of hard house deep cuts and high-energy techno. Her sets are known as notoriously energetic; in Vienna she played “Aftermath by Radio Rudina” at Grelle Forelle."
+  },
+  "src": [
+   "https://ra.co/dj/emilija/biography",
+   "https://de.ra.co/events/2152856"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Toximami": {
+  "img": "https://static.ra.co/images/profiles/square/toximami.jpg?dateUpdated=1712857272290",
+  "links": {
+   "ra": "https://ra.co/dj/toximami"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "alias": [
+   "TOXIMAMI"
+  ],
+  "bio": {
+   "de": "In Berlin lebende DJ und Produzentin mit ägyptisch-deutschem Hintergrund. Ihr Stil verbindet dunkle und melodische Sounds, Popkultur-Bezüge und Nischen-Subgenres der elektronischen Musik.",
+   "en": "Berlin-based DJ and producer of Egyptian-German background. Her style combines dark and melodic sounds, pop-culture references and niche electronic subgenres."
+  },
+  "src": [
+   "https://ra.co/dj/toximami/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "DJ Cringey": {
+  "img": "https://static.ra.co/images/profiles/square/djcringey.jpg?dateUpdated=1692102720000",
+  "links": {
+   "ra": "https://ra.co/dj/djcringey",
+   "sc": "https://soundcloud.com/dj_cringey",
+   "bc": "https://djcringey.bandcamp.com",
+   "ig": "https://www.instagram.com/djcringey"
+  },
+  "from": {
+   "de": "Neuseeland, lebt in Deutschland",
+   "en": "New Zealand, based in Germany"
+  },
+  "genres": [
+   "Techno",
+   "Groove",
+   "Acid",
+   "EBM",
+   "House"
+  ],
+  "bio": {
+   "de": "Neuseeländisch-deutsche DJ, die Techno, Groove, Acid, EBM und House mit experimentellen Sounds und Vocals zu energiegeladenen Sets mischt. Sie lebt in Deutschland und spielt u. a. bei SESH im RSO.Berlin.",
+   "en": "Kiwi/German DJ who mixes techno, groove, acid, EBM and house with experimental sounds and vocals into energetic sets. Based in Germany, she has played SESH at RSO.Berlin, among others."
+  },
+  "src": [
+   "https://es.ra.co/dj/djcringey",
+   "https://ra.co/events/2276792"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Travis Allen": {
+  "img": "https://static.ra.co/images/profiles/square/travisallen.jpg?dateUpdated=1711724354000",
+  "links": {
+   "ra": "https://ra.co/dj/travisallen",
+   "sc": "https://soundcloud.com/travisxallen_ams",
+   "sp": "https://open.spotify.com/artist/0l0phgobrccr7wqtrbwbcp"
+  },
+  "from": {
+   "de": "Curaçao, lebt in den Niederlanden",
+   "en": "Curaçao, based in the Netherlands"
+  },
+  "bio": {
+   "de": "DJ aus Curaçao, der in den Niederlanden aktiv ist. Er hat schon immer eine große Bandbreite an Musik gehört und sieht diesen vielseitigen Geschmack als Stärke seiner Sets.",
+   "en": "DJ from Curaçao active in the Netherlands. He has always listened to a wide range of music and sees this varied taste as an asset in his sets."
+  },
+  "src": [
+   "https://ra.co/dj/travisallen"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Raven Karijo": {
+  "img": "https://static.ra.co/images/profiles/square/ravenkarijo.jpg?dateUpdated=1749557702150",
+  "links": {
+   "ra": "https://ra.co/dj/ravenkarijo"
+  },
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "bio": {
+   "de": "DJ aus den Niederlanden, die seit 2022 vor allem in Amsterdam auflegt, u. a. im Pacific Amsterdam, RADION, Skatecafe und Shelter. In Wien spielte sie bei „Aftermath by Radio Rudina“ in der Grellen Forelle.",
+   "en": "DJ from the Netherlands who has been playing mainly in Amsterdam since 2022, including Pacific Amsterdam, RADION, Skatecafe and Shelter. In Vienna she played “Aftermath by Radio Rudina” at Grelle Forelle."
+  },
+  "src": [
+   "https://ra.co/dj/ravenkarijo"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Rob Black": {
+  "img": "https://static.ra.co/images/profiles/square/robblack.jpg?dateUpdated=1757966391853",
+  "links": {
+   "ra": "https://ra.co/dj/robblack"
+  },
+  "genres": [
+   "House"
+  ],
+  "bio": {
+   "de": "House-DJ und Produzent mit rauem, groovigem und perkussivem Stil, geprägt von UK-Sounds und seinem Hip-Hop-Hintergrund. Er ist Teil des Amsterdamer Kollektivs YereYere und spielte u. a. bei Radio Rudina, Keep Hush und in der Grellen Forelle.",
+   "en": "House DJ and producer with a gritty, groove-driven, percussive style shaped by UK sounds and his hip-hop background. He is part of the Amsterdam collective YereYere and has played Radio Rudina, Keep Hush and Grelle Forelle, among others."
+  },
+  "src": [
+   "https://ra.co/dj/robblack/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Andy Luff": {
+  "img": "https://static.ra.co/images/profiles/andyluff.jpg?dateUpdated=1387273358000",
+  "links": {
+   "ra": "https://ra.co/dj/andyluff",
+   "sc": "https://soundcloud.com/andyluff212"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "src": [
+   "https://ra.co/dj/andyluff"
+  ],
+  "infoChk": "2026-11-04"
  }
 };
 
