@@ -42813,6 +42813,659 @@ const AR={
   ],
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04"
+ },
+ "Marcel Fengler": {
+  "img": "https://static.ra.co/images/profiles/square/marcelfengler.jpg?dateUpdated=1746051559657",
+  "links": {
+   "ra": "https://ra.co/dj/marcelfengler"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Ostgut Ton",
+   "Mote Evolver",
+   "IMF"
+  ],
+  "alias": [
+   "AZUR"
+  ],
+  "bio": {
+   "de": "Techno-DJ und Produzent, der 2005 zu den ersten Residents von Berghain/Panorama Bar in Berlin gehörte. Sein Stil reicht von harten, industriellen Sounds über Broken Beats und düstere Dubs bis zu melodischen Grooves. Releases u. a. auf Ostgut Ton und Mote Evolver, Debütalbum „Fokus“ (2013); 2011 gründete er sein Label IMF.",
+   "en": "Techno DJ and producer who was among the first residents at Berghain/Panorama Bar in Berlin in 2005. His style ranges from hard, industrial sounds to broken beats, dark dubs and melodic grooves. Releases on Ostgut Ton and Mote Evolver among others, debut album \"Fokus\" (2013); in 2011 he founded his label IMF."
+  },
+  "src": [
+   "https://ra.co/dj/marcelfengler/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Cera Khin": {
+  "img": "https://static.ra.co/images/profiles/square/cerakhin.jpg?dateUpdated=1779828455197",
+  "links": {
+   "ra": "https://ra.co/dj/cerakhin",
+   "sc": "https://soundcloud.com/cera-khin",
+   "ig": "https://www.instagram.com/cerakhin",
+   "web": "https://linktr.ee/cerakhin"
+  },
+  "from": {
+   "de": "Tunesien, lebt in Barcelona",
+   "en": "Tunisia, based in Barcelona"
+  },
+  "genres": [
+   "Hardgroove",
+   "Trance",
+   "Schranz",
+   "Acid"
+  ],
+  "labels": [
+   "CK777 Recordings"
+  ],
+  "bio": {
+   "de": "In Tunesien geborene DJ, die 2014 von Berlin nach Barcelona zog und sich das Auflegen selbst beibrachte. Ihre Sets bewegen sich zwischen Hardgroove, Bounce, Trance, Psytrance, Schranz und Acid; Residencies bei Noods, Rinse und NTS. 2024 gründete sie das Label CK777 Recordings und spielte u. a. bei Awakenings, Dour und Timewarp.",
+   "en": "Tunisian-born DJ who moved from Berlin to Barcelona in 2014 and taught herself to DJ. Her sets move between hardgroove, bounce, trance, psytrance, schranz and acid; residencies at Noods, Rinse and NTS. In 2024 she founded the label CK777 Recordings, and she has played Awakenings, Dour and Timewarp, among others."
+  },
+  "src": [
+   "https://ra.co/dj/cerakhin/biography",
+   "https://ra.co/dj/cerakhin"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Marlon Hoffstadt": {
+  "img": "https://static.ra.co/images/profiles/square/marlonhoffstadt.jpg?dateUpdated=1757583849263",
+  "links": {
+   "ra": "https://ra.co/dj/marlonhoffstadt",
+   "sc": "https://soundcloud.com/marlonhoffstadt",
+   "ig": "https://www.instagram.com/marlonhoffstadt",
+   "bc": "https://midnightthemes.bandcamp.com",
+   "web": "https://marlonhoffstadt.com"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "labels": [
+   "Midnight Themes",
+   "Rawax",
+   "Ransom Note Records"
+  ],
+  "alias": [
+   "DJ Daddy Trance"
+  ],
+  "bio": {
+   "de": "Berliner DJ und Produzent, auch bekannt als DJ Daddy Trance. Er betreibt das Label Midnight Themes und veröffentlichte u. a. auf Rawax und Ransom Note Records; 2020 erschien sein Debütalbum „Planet Love“. Er spielt vor allem in Berlin, Amsterdam, London, Barcelona und Paris.",
+   "en": "Berlin DJ and producer, also known as DJ Daddy Trance. He runs the label Midnight Themes and has released on Rawax and Ransom Note Records, among others; his debut album \"Planet Love\" came out in 2020. He plays most often in Berlin, Amsterdam, London, Barcelona and Paris."
+  },
+  "src": [
+   "https://ra.co/dj/marlonhoffstadt"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "JakoJako": {
+  "img": "https://static.ra.co/images/profiles/square/jakojako.jpg?dateUpdated=1530562404263",
+  "links": {
+   "ra": "https://ra.co/dj/jakojako",
+   "sc": "https://soundcloud.com/jakojako_live",
+   "bc": "https://aequilibration.bandcamp.com"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Berghain-Resident, die als Live-Act und DJ auftritt. In Produktion und Live-Sets arbeitet sie intensiv mit modularen Synthesizern und berät Künstler*innen bei ihren Setups im Berliner SchneidersLaden.",
+   "en": "Berghain resident who performs as a live act and DJ. She works extensively with modular synthesizers in production and live sets, and advises artists on their setups at Berlin's SchneidersLaden."
+  },
+  "src": [
+   "https://ra.co/dj/jakojako/biography",
+   "https://ra.co/dj/jakojako"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Francesco Del Garda": {
+  "img": "https://static.ra.co/images/profiles/square/francescodelgarda.jpg?dateUpdated=1468832399743",
+  "links": {
+   "ra": "https://ra.co/dj/francescodelgarda",
+   "sc": "https://soundcloud.com/francesco-del-garda"
+  },
+  "from": {
+   "de": "Italien",
+   "en": "Italy"
+  },
+  "genres": [
+   "House",
+   "Techno"
+  ],
+  "bio": {
+   "de": "Italienischer DJ (Jahrgang 1978), der mit 16 zur elektronischen Musik fand. Sein Stil verbindet Funk, Techno und groovigen House, gemischt mit Electro, Garage und Minimal; bekannt für unbekannte Tracks und seine Treue zu Vinyl.",
+   "en": "Italian DJ (born 1978) who discovered electronic music at 16. His style blends funk, techno and groovy house, mixed with electro, garage and minimal; known for digging out obscure tracks and his loyalty to vinyl."
+  },
+  "src": [
+   "https://ra.co/dj/francescodelgarda/biography",
+   "https://ra.co/dj/francescodelgarda"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Skrimor": {
+  "img": "https://static.ra.co/images/profiles/square/skrimor.jpg?dateUpdated=1738717622000",
+  "links": {
+   "ra": "https://ra.co/dj/skrimor",
+   "sc": "https://soundcloud.com/skrimor",
+   "ig": "https://www.instagram.com/skrimor_dnb",
+   "bc": "https://skrimor.bandcamp.com"
+  },
+  "from": {
+   "de": "Polen",
+   "en": "Poland"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Drum-and-Bass-DJ und Produzent aus Polen, der seit 2023 auf RA geführt wird und vor allem in Prag auftritt.",
+   "en": "Drum & bass DJ and producer from Poland, listed on RA since 2023 and playing most often in Prague."
+  },
+  "src": [
+   "https://es.ra.co/dj/skrimor"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "ddwy": {
+  "img": "https://static.ra.co/images/profiles/square/ddwy.jpg?dateUpdated=1753709130587",
+  "links": {
+   "ra": "https://ra.co/dj/ddwy",
+   "sc": "https://soundcloud.com/ddwy-music",
+   "ig": "https://www.instagram.com/ddwy__",
+   "bc": "https://ddwy.bandcamp.com"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "labels": [
+   "Public Possession"
+  ],
+  "bio": {
+   "de": "Duo-Projekt von Inner Totality und nangi, das als DJ- und Live-Act auftritt. Ihre Musik erscheint auf Public Possession; RA beschrieb ihre Platte „Naini’s Call“ als dubbigen Ambient und wirbelnden Downtempo. Sie spielen vor allem in London, Berlin und Helsinki.",
+   "en": "Duo project of Inner Totality and nangi, performing as DJs and live. Their music is released on Public Possession; RA described their record \"Naini’s Call\" as dubby ambient and swirling downtempo. They play most often in London, Berlin and Helsinki."
+  },
+  "src": [
+   "https://ra.co/dj/ddwy"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "DJ Swisherman": {
+  "img": "https://static.ra.co/images/profiles/square/djswisherman.jpg?dateUpdated=1694686682000",
+  "links": {
+   "ra": "https://ra.co/dj/djswisherman",
+   "sc": "https://soundcloud.com/djswisherman",
+   "ig": "https://www.instagram.com/djswisherman",
+   "bc": "https://djswisherman.bandcamp.com"
+  },
+  "from": {
+   "de": "Galicien, Spanien",
+   "en": "Galicia, Spain"
+  },
+  "labels": [
+   "Deadline Records",
+   "Disintegrated",
+   "PHTM",
+   "Numerus Records",
+   "POTOP Records"
+  ],
+  "alias": [
+   "DJ SWISHERMAN"
+  ],
+  "bio": {
+   "de": "Produzent und DJ aus Galicien, Spanien, mit Releases u. a. auf Deadline Records, Disintegrated, PHTM und POTOP Records. Er spielt regelmäßig im Madrider Mondo sowie in Berlin, Dublin und Melbourne.",
+   "en": "Producer and DJ based in Galicia, Spain, with releases on Deadline Records, Disintegrated, PHTM and POTOP Records, among others. He plays regularly at Mondo in Madrid as well as in Berlin, Dublin and Melbourne."
+  },
+  "src": [
+   "https://ra.co/dj/djswisherman"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Lisana": {
+  "img": "https://static.ra.co/images/profiles/square/lisana.jpg?dateUpdated=1586523587000",
+  "links": {
+   "ra": "https://ra.co/dj/lisana"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "labels": [
+   "CHAPTER EIGHT"
+  ],
+  "bio": {
+   "de": "DJ-Projekt von Anna Sophie und Lisa Christina, entstanden im Sommer 2019 nach einem Ibiza-Besuch. Zurück in Österreich begannen sie zu mixen und veröffentlichen ihre Mixe online; 2021 erschienen Tracks wie „Panthera“ und „Pharao“ auf CHAPTER EIGHT.",
+   "en": "DJ project of Anna Sophie and Lisa Christina, born in summer 2019 after a trip to Ibiza. Back in Austria they started mixing and share their mixes online; in 2021 tracks such as \"Panthera\" and \"Pharao\" came out on CHAPTER EIGHT."
+  },
+  "src": [
+   "https://ra.co/dj/lisana/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Skantia": {
+  "img": "https://static.ra.co/images/profiles/square/skantia.jpg?dateUpdated=1725529357000",
+  "links": {
+   "ra": "https://ra.co/dj/skantia"
+  },
+  "from": {
+   "de": "Newcastle, Vereinigtes Königreich",
+   "en": "Newcastle, United Kingdom"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "RAM Records"
+  ],
+  "bio": {
+   "de": "Drum-and-Bass-Produzent und DJ aus Newcastle, der exklusiv bei RAM unter Vertrag ist. Er begann 2015 als Ticketverkäufer der lokalen Nacht „Dilate“ und wurde dort später Resident; inspiriert von Culture Shock und Noisia.",
+   "en": "Drum & bass producer and DJ from Newcastle, signed exclusively to RAM. He started out in 2015 selling tickets for the local night Dilate, where he later became a resident; inspired by Culture Shock and Noisia."
+  },
+  "src": [
+   "https://ra.co/dj/skantia/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "The Jakob Sister": {
+  "img": "https://static.ra.co/images/profiles/square/thejakobsister.jpg?dateUpdated=1699354135000",
+  "links": {
+   "ra": "https://ra.co/dj/thejakobsister",
+   "sc": "https://soundcloud.com/thejakobsister",
+   "bc": "https://sachsentrance.bandcamp.com"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "Trance"
+  ],
+  "labels": [
+   "Sachsentrance"
+  ],
+  "alias": [
+   "DJ Gonzo",
+   "Funky Floorburn",
+   "Hitstorm"
+  ],
+  "bio": {
+   "de": "Trance-DJ aus Berlin und Gründerin von Sachsentrance, das Eventreihe und Label zugleich ist. Sie spielt vor allem in Berlin, Leipzig, Köln, Hamburg und Dresden, etwa im Lokschuppen Berlin, im objekt klein a und im ://about blank.",
+   "en": "Berlin-based trance DJ and founder of Sachsentrance, both an event series and a label. She plays mostly in Berlin, Leipzig, Cologne, Hamburg and Dresden, at venues such as Lokschuppen Berlin, objekt klein a and ://about blank."
+  },
+  "src": [
+   "https://ra.co/dj/thejakobsister"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Fenrick": {
+  "img": "https://static.ra.co/images/profiles/square/fenrick.jpg?dateUpdated=1675772915267",
+  "links": {
+   "ra": "https://ra.co/dj/fenrick",
+   "sc": "https://soundcloud.com/fenrickmusic"
+  },
+  "from": {
+   "de": "Belgien",
+   "en": "Belgium"
+  },
+  "labels": [
+   "Taapion Records",
+   "Unfair Records"
+  ],
+  "bio": {
+   "de": "DJ und Produzent aus Belgien mit Releases auf Taapion Records und Unfair Records. Seit 2022 auf RA gelistet, spielt er vor allem in Brüssel, Paris, Amsterdam und Berlin, etwa im BASIS, Fuse und Rex Club.",
+   "en": "DJ and producer from Belgium with releases on Taapion Records and Unfair Records. Listed on RA since 2022, he plays mostly in Brussels, Paris, Amsterdam and Berlin, at clubs such as BASIS, Fuse and Rex Club."
+  },
+  "src": [
+   "https://ra.co/dj/fenrick"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Sam Irl": {
+  "img": "https://static.ra.co/images/profiles/square/samirl.jpg?dateUpdated=1485293715673",
+  "links": {
+   "ra": "https://ra.co/dj/samirl"
+  },
+  "from": {
+   "de": "Niederbayern, lebt in Wien",
+   "en": "Lower Bavaria, based in Vienna"
+  },
+  "genres": [
+   "House",
+   "Techno"
+  ],
+  "labels": [
+   "Freerange Records",
+   "Jazz & Milk Recordings",
+   "Brownswood",
+   "Running Back",
+   "Pomelo Records"
+  ],
+  "bio": {
+   "de": "In Wien lebender Produzent, DJ sowie Mixing- und Mastering-Engineer, der seit 2006 veröffentlicht, u. a. auf Freerange, Jazz & Milk, Brownswood und Running Back. Sein Sound verbindet samplebasierte MPC-Grooves, Jazzharmonien, analoge Synthesizer und Dub. Mit seinem Studionachbarn Patrick Pulsinger produziert er als Pulsinger & Irl dubbigen, analogen House und Techno.",
+   "en": "Vienna-based producer, DJ and mixing/mastering engineer releasing since 2006 on labels such as Freerange, Jazz & Milk, Brownswood and Running Back. His sound blends sample-based MPC grooves, jazz harmonies, analogue synths and dub. With his studio neighbour Patrick Pulsinger he produces dubby, analogue house and techno as Pulsinger & Irl."
+  },
+  "src": [
+   "https://ra.co/dj/samirl/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Jamback": {
+  "img": "https://static.ra.co/images/profiles/square/jamback.jpg?dateUpdated=1676367965000",
+  "links": {
+   "ra": "https://ra.co/dj/jamback",
+   "sc": "https://soundcloud.com/jambackmusic",
+   "ig": "https://www.instagram.com/jambackdj",
+   "web": "https://jamback.nl"
+  },
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "genres": [
+   "House"
+  ],
+  "labels": [
+   "Piv Records",
+   "WHIPPIN",
+   "OG Records"
+  ],
+  "bio": {
+   "de": "Junger House-Artist aus den Niederlanden mit frischem, energiegeladenem Stil und Releases u. a. auf Piv Records und WHIPPIN. Er spielt vor allem in Amsterdam, Rotterdam, Ibiza und London, etwa im Shelter Amsterdam, Thuishaven und DC-10.",
+   "en": "Young house artist from the Netherlands with a fresh, energetic style and releases on Piv Records and WHIPPIN, among others. He plays mostly in Amsterdam, Rotterdam, Ibiza and London, at venues such as Shelter Amsterdam, Thuishaven and DC-10."
+  },
+  "src": [
+   "https://ra.co/dj/jamback"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Surusinghe": {
+  "img": "https://static.ra.co/images/profiles/square/surusinghe.jpg?dateUpdated=1776680315747",
+  "links": {
+   "ra": "https://ra.co/dj/surusinghe",
+   "sc": "https://soundcloud.com/surusinghe",
+   "ig": "https://www.instagram.com/surusinghe"
+  },
+  "from": {
+   "de": "Australien, lebt in London",
+   "en": "Australia, based in London"
+  },
+  "genres": [
+   "Bass",
+   "Broken Beat",
+   "Techno"
+  ],
+  "labels": [
+   "AD 93",
+   "Steel City Dance Discs",
+   "TraTraTrax"
+  ],
+  "bio": {
+   "de": "In Australien geborene, in London lebende DJ, Produzentin, Promoterin und Labelbetreiberin. Sie experimentiert mit Bass, Reggaeton, Broken Beat und Techno; Releases u. a. auf AD 93 („Brake Fluid“) und Steel City Dance Discs („Skit“).",
+   "en": "Australian-born, London-based DJ, producer, promoter and label runner. She experiments with bass, reggaeton, broken beat and techno; releases include \"Brake Fluid\" on AD 93 and \"Skit\" on Steel City Dance Discs."
+  },
+  "src": [
+   "https://ra.co/dj/surusinghe"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Dj Tjizza": {
+  "img": "https://static.ra.co/images/profiles/square/djtjizza.jpg?dateUpdated=1743445634307",
+  "links": {
+   "ra": "https://ra.co/dj/djtjizza"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "alias": [
+   "DJ Tjizza"
+  ],
+  "src": [
+   "https://ra.co/dj/djtjizza"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Helly": {
+  "img": "https://static.ra.co/images/profiles/square/helly.jpg?dateUpdated=1676907358000",
+  "links": {
+   "ra": "https://ra.co/dj/helly",
+   "sc": "https://soundcloud.com/heeehelly",
+   "ig": "https://www.instagram.com/heeehelly"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "src": [
+   "https://ra.co/dj/helly"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "LB": {
+  "img": "https://static.ra.co/images/profiles/square/lbakalabat.jpg?dateUpdated=1763642744867",
+  "links": {
+   "ra": "https://ra.co/dj/lbakalabat",
+   "sc": "https://soundcloud.com/lb-aka-labat",
+   "ig": "https://www.instagram.com/lbakalabat",
+   "bc": "https://lbakalabat.bandcamp.com",
+   "web": "https://lb-aka-labat.com"
+  },
+  "from": {
+   "de": "Straßburg, Frankreich",
+   "en": "Strasbourg, France"
+  },
+  "genres": [
+   "House",
+   "Techno",
+   "UK Garage",
+   "Hard House"
+  ],
+  "labels": [
+   "D.KO Records",
+   "Steel City Dance Discs",
+   "Because Music"
+  ],
+  "alias": [
+   "LB aka LABAT",
+   "LABAT"
+  ],
+  "bio": {
+   "de": "DJ, Produzent und Label-Betreiber aus Straßburg, der zwischen Frankreich und Indien aufwuchs und mit sieben Jahren zu mixen begann. Er verbindet Filtered House, Techno, UKG und Hard House; nach einer Residency im Lyoner Café Galerie folgten Nuits Sonores und Boiler Room. Releases u. a. auf D.KO Records und Steel City Dance Discs.",
+   "en": "DJ, producer and label owner from Strasbourg who grew up between France and India and started mixing at seven. He blends filtered house, techno, UKG and hard house; a residency at Café Galerie in Lyon led to Nuits Sonores and Boiler Room. Releases on D.KO Records and Steel City Dance Discs, among others."
+  },
+  "src": [
+   "https://ra.co/dj/lbakalabat/biography",
+   "https://ra.co/dj/lbakalabat"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Art of Tones": {
+  "img": "https://static.ra.co/images/profiles/square/artoftones.jpg?dateUpdated=1696438459147",
+  "links": {
+   "ra": "https://ra.co/dj/artoftones"
+  },
+  "genres": [
+   "House",
+   "Disco"
+  ],
+  "labels": [
+   "Glitterbox",
+   "Local Talk",
+   "Toy Tonics",
+   "Z Records",
+   "Palp"
+  ],
+  "alias": [
+   "Llorca"
+  ],
+  "bio": {
+   "de": "Alter Ego von Ludovic Llorca für House und Disco mit Jazz-Einflüssen, 2006 als Nebenprojekt mit einer Reihe von EPs gestartet. Bekannt für Tracks wie „Praise“ und „The Rainbow Song“; Releases u. a. auf Local Talk, Toy Tonics und Glitterbox, wo er seit 2022 fester Act der Partys ist.",
+   "en": "Ludovic Llorca's alter ego for jazz-tinged house and disco, launched in 2006 as a side project with a run of EPs. Known for tracks such as \"Praise\" and \"The Rainbow Song\"; releases on Local Talk, Toy Tonics and Glitterbox, where he has been a regular at their parties since 2022."
+  },
+  "src": [
+   "https://ra.co/dj/artoftones/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Chimpo": {
+  "img": "https://static.ra.co/images/profiles/chimpo.jpg?dateUpdated=1453136144820",
+  "links": {
+   "ra": "https://ra.co/dj/chimpo",
+   "sc": "https://soundcloud.com/chimpo-mcr"
+  },
+  "from": {
+   "de": "Manchester, Vereinigtes Königreich",
+   "en": "Manchester, United Kingdom"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Jungle"
+  ],
+  "labels": [
+   "Metalheadz",
+   "Exit Records",
+   "Soul:r"
+  ],
+  "bio": {
+   "de": "DJ und Produzent aus Großbritannien, der vor allem in Manchester, London, Bristol und Leeds auftritt, u. a. im fabric und beim Warehouse Project. Releases auf Labels wie Metalheadz, Exit Records und Soul:r.",
+   "en": "UK DJ and producer who plays mostly in Manchester, London, Bristol and Leeds, including fabric and The Warehouse Project. Releases on labels such as Metalheadz, Exit Records and Soul:r."
+  },
+  "src": [
+   "https://ja.ra.co/dj/chimpo"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Durdenhauer": {
+  "img": "https://static.ra.co/images/profiles/square/durdenhauer.jpg?dateUpdated=1678363707000",
+  "links": {
+   "ra": "https://ra.co/dj/durdenhauer",
+   "sc": "https://soundcloud.com/durdenhauer",
+   "ig": "https://www.instagram.com/durdenhauer"
+  },
+  "from": {
+   "de": "Frankreich, lebt in den Niederlanden",
+   "en": "France, based in the Netherlands"
+  },
+  "alias": [
+   "DURDENHAUER"
+  ],
+  "bio": {
+   "de": "In Frankreich geborener, in den Niederlanden lebender DJ und Produzent, seit 2023 auf RA gelistet. Er spielt vor allem in Paris, Berlin, Brüssel und Utrecht, etwa im OST, BASIS und Lokschuppen Berlin.",
+   "en": "French-born, Netherlands-based DJ and producer, listed on RA since 2023. He plays mostly in Paris, Berlin, Brussels and Utrecht, at clubs such as OST, BASIS and Lokschuppen Berlin."
+  },
+  "src": [
+   "https://ra.co/dj/durdenhauer"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Konduku": {
+  "img": "https://static.ra.co/images/profiles/square/konduku.jpg?dateUpdated=1528908670350",
+  "links": {
+   "ra": "https://ra.co/dj/konduku",
+   "sc": "https://soundcloud.com/kondukukonduku",
+   "ig": "https://www.instagram.com/konduku",
+   "bc": "https://konduku.bandcamp.com"
+  },
+  "from": {
+   "de": "Niederlande, lebt in Deutschland",
+   "en": "Netherlands, based in Germany"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Delsin",
+   "Nous'klaer Audio",
+   "Idle Hands",
+   "Bitta",
+   "Midgar"
+  ],
+  "bio": {
+   "de": "In den Niederlanden geborener, in Deutschland lebender Produzent und DJ, der einen psychedelischen, hypnotischen Zweig des modernen Techno prägt. Sein drittes Album „Mantis 0910“ erschien 2022 auf Delsin, weitere Releases auf Nous'klaer Audio und Bitta; 2024 lieferte er den RA-Podcast RA.967.",
+   "en": "Dutch-born, Germany-based producer and DJ shaping a psychedelic, hypnotic strand of modern techno. His third album \"Mantis 0910\" came out on Delsin in 2022, with further releases on Nous'klaer Audio and Bitta; in 2024 he recorded RA podcast RA.967."
+  },
+  "src": [
+   "https://ra.co/dj/konduku"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "NEUX": {
+  "img": "https://static.ra.co/images/profiles/square/neux.jpg?dateUpdated=1698763408207",
+  "links": {
+   "ra": "https://ra.co/dj/neux"
+  },
+  "from": {
+   "de": "Georgien, lebt in Berlin",
+   "en": "Georgia, based in Berlin"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Georgische, in Berlin lebende DJ und Resident im Tbilisser Club KHIDI. Sie verbindet Berliner Techno mit georgischen Rhythmen und bringt auch Singer-Songwriter-Elemente ein; ihr experimentelles Debüt heißt „All I Want“.",
+   "en": "Georgian, Berlin-based DJ and resident at Tbilisi's KHIDI. She blends Berlin techno with Georgian rhythms and also brings in singer-songwriter elements; her experimental debut is called \"All I Want\"."
+  },
+  "src": [
+   "https://ra.co/dj/neux/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Schtu": {
+  "img": "https://static.ra.co/images/profiles/schtu.jpg?dateUpdated=1515431327000",
+  "links": {
+   "ra": "https://ra.co/dj/schtu",
+   "sc": "https://soundcloud.com/schtu",
+   "web": "https://schtu.de"
+  },
+  "from": {
+   "de": "Großbritannien, lebt in Berlin",
+   "en": "UK, based in Berlin"
+  },
+  "labels": [
+   "Bullfinch",
+   "Deep Stories Records"
+  ],
+  "bio": {
+   "de": "In Großbritannien geborener DJ und Produzent mit Sitz in Berlin, der auch live spielt. Releases auf Bullfinch und Deep Stories Records; am häufigsten tritt er in Berlin auf, etwa im Beate Uwe.",
+   "en": "UK-born DJ and producer based in Berlin who also performs live. Releases on Bullfinch and Deep Stories Records; he plays most often in Berlin, for example at Beate Uwe."
+  },
+  "src": [
+   "https://de.ra.co/dj/schtu"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Rooléh": {
+  "img": "https://static.ra.co/images/profiles/square/rooleh.jpg?dateUpdated=1768333057800",
+  "links": {
+   "ra": "https://ra.co/dj/rooleh",
+   "sc": "https://soundcloud.com/Rooleh",
+   "ig": "https://www.instagram.com/roolehmusic",
+   "bc": "https://Rooleh.bandcamp.com"
+  },
+  "from": {
+   "de": "Amsterdam, Niederlande",
+   "en": "Amsterdam, Netherlands"
+  },
+  "genres": [
+   "House"
+  ],
+  "alias": [
+   "Rooleh"
+  ],
+  "bio": {
+   "de": "Niederländischer House-Produzent und DJ (Jahrgang 1999), den RA als eines der spannendsten aufstrebenden Talente der Amsterdamer House-Szene bezeichnet. Sein Stil kombiniert eingängige Grooves mit gesampelten Klangtexturen; er spielt u. a. im Thuishaven und Shelter Amsterdam.",
+   "en": "Dutch house producer and DJ (born 1999), described by RA as one of Amsterdam's most exciting emerging house talents. His style pairs catchy grooves with sampled textures; he plays venues such as Thuishaven and Shelter Amsterdam."
+  },
+  "src": [
+   "https://ra.co/dj/rooleh"
+  ],
+  "infoChk": "2026-11-04"
  }
 };
 
