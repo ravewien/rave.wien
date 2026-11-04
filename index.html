@@ -855,6 +855,10 @@ footer a:hover{color:var(--accent)}
   #msearch .search{padding:7px 10px}
   .browser{margin-top:6px}
 }
+/* Platzhalter-Kacheln: Person / Gruppe als Symbol, Initialen gut lesbar */
+.lgt{color:#dfe4ea}.lgt .ph-ico{width:52%;height:52%;color:#7f8794}
+/* Namen in Artist-/Veranstalter-Listen: Pixel-Schrift bleibt, aber weißer und kräftiger */
+.xr .ti{color:#fff;-webkit-text-stroke:.45px #fff;paint-order:stroke fill}
 /* Barrierefreiheit */
 @font-face{font-family:"OpenDyslexic";src:url(fonts/opendyslexic-latin-400-normal.woff2) format("woff2");font-weight:400;font-style:normal;font-display:swap}
 @font-face{font-family:"OpenDyslexic";src:url(fonts/opendyslexic-latin-700-normal.woff2) format("woff2");font-weight:600 900;font-style:normal;font-display:swap}
@@ -1267,9 +1271,11 @@ const LOGOPAD=.08;
 function logoFit(u){const b=(typeof LOGOBOX!=="undefined"&&LOGOBOX||{})[u];if(!b||b.length<6)return null;const[W,H,x0,y0,x1,y1,bc]=b,bw=x1-x0,bh=y1-y0;if(!(W>0&&H>0&&bw>0&&bh>0))return null;
   const s=(1-2*LOGOPAD)/Math.max(bw,bh),f=v=>(v*100).toFixed(3)+"%";
   return{st:`inset:auto;left:${f(.5-(x0+bw/2)*s)};top:${f(.5-(y0+bh/2)*s)};width:${f(W*s)};height:${f(H*s)};padding:0;object-fit:fill`,bg:/^#[0-9a-f]{6}$/i.test(bc||"")?bc:""}}
-function logoTile(n,cls,info){const vi=info||VINFO[n]||{};const lu=vi.logo||vi.img;const ok=isLogo(lu)&&coversOn();const fit=ok&&vi.logo?logoFit(lu):null;
+const IPERSON='<svg class="ph-ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="4.2" fill="currentColor"/><path d="M3.8 21c.6-4.3 4-7 8.2-7s7.6 2.7 8.2 7z" fill="currentColor"/></svg>';
+const IGROUP='<svg class="ph-ico" viewBox="0 0 24 24" aria-hidden="true"><g fill="currentColor"><circle cx="12" cy="7.2" r="3.4"/><circle cx="5.2" cy="9" r="2.6"/><circle cx="18.8" cy="9" r="2.6"/><path d="M6.4 20c.4-3.6 2.8-5.8 5.6-5.8s5.2 2.2 5.6 5.8z"/><path d="M.8 19.2c.3-2.8 2-4.5 4.3-4.5 1 0 1.9.3 2.6.9-1.2 1-2 2.3-2.3 3.6z"/><path d="M23.2 19.2c-.3-2.8-2-4.5-4.3-4.5-1 0-1.9.3-2.6.9 1.2 1 2 2.3 2.3 3.6z"/></g></svg>';
+function logoTile(n,cls,info,kind){const vi=info||VINFO[n]||{};const lu=vi.logo||vi.img;const ok=isLogo(lu)&&coversOn();const fit=ok&&vi.logo?logoFit(lu):null;
   const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:(fit&&fit.bg)||"";
-  return `<span class="lgt${cls?" "+cls:""}${vi.img&&!vi.logo?" ph":""}" aria-hidden="true"${bg&&ok?` style="background:${bg}"`:""}${ok?` data-flyer="${esc(lu)}" data-ft="${esc(n)}"`:""}>${esc(initials(n))}${ok?`<img src="${esc(lu)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"${fit?` style="${fit.st}"`:""}>`:""}</span>`}
+  return `<span class="lgt${cls?" "+cls:""}${vi.img&&!vi.logo?" ph":""}" aria-hidden="true"${bg&&ok?` style="background:${bg}"`:""}${ok?` data-flyer="${esc(lu)}" data-ft="${esc(n)}"`:""}>${kind==="a"?IPERSON:kind==="c"?IGROUP:esc(initials(n))}${ok?`<img src="${esc(lu)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"${fit?` style="${fit.st}"`:""}>`:""}</span>`}
 const akaH=(k,n)=>{const a=aliasOf(k,n);return a.length?`<div class="aka">${L().aka} ${a.map(esc).join(" · ")}</div>`:""};
 const noVen=v=>!v||v==="TBA"||v==="Secret Location";
 const venTag=(v,on)=>noVen(v)?`<span class="tag ve na">${IPIN}${esc(v||"TBA")}</span>`:`<span class="tag ve${on?" on":""}" data-tov="${esc(v)}">${IPIN}${esc(v)}</span>`;
@@ -1440,7 +1446,7 @@ function renderArtists(ev){
     const gen=a&&a.genres?a.genres:[];
     const co=collOf(n);const from=a&&a.from?(a.from[st.lang]||a.from.de):"";const lk=(a&&a.links)||{};
     const hear=["sc","mc","sp","bc"].filter(k=>lk[k]).map(k=>`<span class="lk">${LICON[k]}</span>`).join("");
-    return xrowHTML({k:"art",tile:logoTile(n,"",a||{}),attr:`data-aopen="${esc(n)}"`,cur:st.artist===n,name:n,
+    return xrowHTML({k:"art",tile:logoTile(n,"",a||{},"a"),attr:`data-aopen="${esc(n)}"`,cur:st.artist===n,name:n,
       sub:RESID[n]?`${l.residents.replace(/s$/,"")}: ${RESID[n].join(", ")}`:"",
       tags:co.map(colTag).join(""),c2:from,
       gen:gen.slice(0,4),flags:"",nx:evs[0],nxSub:evs[0]?venTag(evs[0].venue,st.v.has(evs[0].venue)):"",
@@ -1622,7 +1628,7 @@ function renderColl(cd,n){
   const prim=c.web?[l.webS,c.web]:c.tix?[l.ticketsS,c.tix]:null;
   cd.innerHTML=`${ctopHTML(l.colKind,favBtn("c",n))}
   <div class="ehead"><div class="emain">
-    <div class="head wt">${logoTile(n,"big",CINFO[n]||{})}<h2>${esc(n)}</h2></div>${akaH("c",n)}
+    <div class="head wt">${logoTile(n,"big",CINFO[n]||{},"c")}<h2>${esc(n)}</h2></div>${akaH("c",n)}
     ${(c.type||[]).length?`<span class="sub2">${esc(c.type.join(" / "))}</span>`:""}
     ${c.from||c.series?`<span class="sub2">${IPIN}${esc([c.from,c.series?l.series+": "+c.series.join(", "):""].filter(Boolean).join(" · "))}</span>`:""}
     ${gclHTML(genres)}
@@ -1657,7 +1663,7 @@ function renderArtist(ad,name){
   const past=PART[name]||[];const co=collOf(name);const res=RESID[name]||[];
   ad.innerHTML=`${ctopHTML(l.artist,favBtn("a",name))}
   <div class="ehead"><div class="emain">
-    <div class="head wt">${logoTile(name,"big",a||{})}<h2>${esc(name)}</h2></div>${akaH("a",name)}
+    <div class="head wt">${logoTile(name,"big",a||{},"a")}<h2>${esc(name)}</h2></div>${akaH("a",name)}
     ${co.length||res.length?`<div class="tags">${co.map(c=>`<button class="tag co" data-coll="${esc(c)}">${ICOL}${esc(c)}</button>`).join("")}${res.map(v=>`<button class="tag ve" data-vopen="${esc(v)}" title="${esc(l.residentAt)}">${IPIN}${esc(l.resShort)} ${esc(v)}</button>`).join("")}</div>`:""}
     ${a&&(a.from||a.real)?`<span class="sub2">${a.from?IPIN+esc(a.from[st.lang]||a.from.de):""}${a.real?(a.from?" · ":"")+esc(a.real):""}</span>`:""}
     ${gclHTML(genres)}
@@ -1801,7 +1807,7 @@ function renderColls(){
   if(!rows.length){$("out").innerHTML=`<div class="empty-state">${l.none}</div>`;return}
   $("out").innerHTML=`<div class="xlist x-col">${xheadHTML("col")}${withLetters(rows,rows.map(r=>{const ci=CINFO[r.c]||{};const g=[...new Set([...(CGEN[r.c]||[]),...r.up.flatMap(e=>e.genres)])].slice(0,4);
     const sub=[(ci.type||[]).join(" / "),ci.founded?l.since+" "+(ci.foundedNote?"≈ ":"")+ci.founded:"",ci.from||""].filter(Boolean).join(" · ");
-    return xrowHTML({k:"col",tile:logoTile(r.c,"",ci),attr:`data-copen="${esc(r.c)}"`,cur:st.coll===r.c,name:r.c,sub,tags:"",c2:"",gen:g,flags:ruleFlags(ci.rules||{}),
+    return xrowHTML({k:"col",tile:logoTile(r.c,"",ci,"c"),attr:`data-copen="${esc(r.c)}"`,cur:st.coll===r.c,name:r.c,sub,tags:"",c2:"",gen:g,flags:ruleFlags(ci.rules||{}),
       nx:r.up[0],nxSub:r.up[0]?venTag(r.up[0].venue,st.v.has(r.up[0].venue)):"",n1:r.n1,n2:r.n2,n1l:l.cUp,ex:r.mem?`<span class="xn">${r.mem}<small>${l.cDj}</small></span>`:""})}))}</div>`;
 }
 /* overview rows for artists / collectives / venues – same structure as event rows */
