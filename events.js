@@ -36823,6 +36823,1426 @@ const AR={
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04"
+ },
+ "DJ Katse": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Therese Terror": {
+  "img": "https://static.ra.co/images/profiles/square/thereseterror.jpg?dateUpdated=1516035531000",
+  "links": {
+   "ra": "https://ra.co/dj/thereseterror",
+   "sc": "https://soundcloud.com/thereseterror"
+  },
+  "bio": {
+   "de": "Therese Terror ist eine in Wien ansässige DJ, Kuratorin und Veranstalterin, die sich für Gleichberechtigung und Diversität in der elektronischen Musik einsetzt. Mit ihrer Reihe „Reign of Terror“ ist sie Resident in der Grelle Forelle, wo sie Pionier*innen der elektronischen Musik und lokale Newcomer präsentiert. Auf dem Wiener Community-Sender res.radio moderiert sie die zweimonatliche Show „Guilty Pleasures“. Ihre Sets bewegen sich zwischen Techno, Acid, Trance, Leftfield-Elektronik und Pop.",
+   "en": "Therese Terror is a Vienna-based DJ, curator and promoter who advocates for gender equality and diversity in electronic music. She is a resident at Grelle Forelle with her series 'Reign of Terror', showcasing electronic music pioneers alongside local newcomers. She hosts the bi-monthly show 'Guilty Pleasures' on Viennese community station res.radio. Her sets span techno, acid, trance, leftfield electronica and pop."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Techno",
+   "Acid",
+   "Trance",
+   "Leftfield Electronica"
+  ],
+  "sets": [
+   {
+    "t": "Therese Terror • RES TAKEOVER (Ola Radio)",
+    "u": "https://soundcloud.com/ola_radio/res-radio-takeover-w-therese"
+   },
+   {
+    "t": "Guilty Pleasures #4 w/ Therese Terror (Res.Radio)",
+    "u": "https://soundcloud.com/resradio/guilty-pleasures-4-w-therese-terror"
+   },
+   {
+    "t": "Therese Terror - FM pres. Queer Base Takeover @ Radio 80000 20/02/2021",
+    "u": "https://soundcloud.com/freeridemillenium/therese-terror"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/thereseterror/biography",
+   "https://m.soundcloud.com/thereseterror",
+   "https://soundcloud.com/resradio/guilty-pleasures-4-w-therese-terror"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Siphlex": {
+  "links": {
+   "sc": "https://soundcloud.com/siphlexdnb",
+   "ig": "https://www.instagram.com/siphlex"
+  },
+  "bio": {
+   "de": "Siphlex ist ein Drum-&-Bass-DJ und -Produzent aus Luxemburg, der in der Kölner Underground-Szene aktiv ist. Ursprünglich vom Liquid kommend, steht er heute für deep und dunkel ausgerichteten Drum & Bass mit schwerem Low End. Releases erschienen u. a. auf EKOU, Citrus Recordings und Rollout Records.",
+   "en": "Siphlex is a drum & bass DJ and producer from Luxembourg, active in Cologne's underground scene. Starting out in liquid, he moved towards deeper, darker drum & bass with a heavy low end. He has released on EKOU, Citrus Recordings and Rollout Records."
+  },
+  "from": {
+   "de": "Luxemburg",
+   "en": "Luxembourg"
+  },
+  "labels": [
+   "EKOU",
+   "Citrus Recordings",
+   "Rollout Records"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/events/2219038",
+   "https://soundcloud.com/siphlexdnb",
+   "https://soundcloud.com/citrusrecs/critical-mass-1"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Bass Temp": {
+  "img": "https://f4.bcbits.com/img/0030795226_23.jpg",
+  "links": {
+   "sc": "https://soundcloud.com/bass-temp",
+   "bc": "https://basstemperature.bandcamp.com"
+  },
+  "bio": {
+   "de": "Bass Temp (auch Bass Température) ist ein Techno-Produzent und DJ aus Toulouse, Frankreich, mit Fokus auf schnelle, basslastige Sounds. Releases erschienen u. a. auf Tekno Dimension Records.",
+   "en": "Bass Temp (also Bass Température) is a techno producer and DJ from Toulouse, France, focused on fast, bass-heavy sounds. Releases include output on Tekno Dimension Records."
+  },
+  "from": {
+   "de": "Toulouse, Frankreich",
+   "en": "Toulouse, France"
+  },
+  "labels": [
+   "Tekno Dimension Records"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "alias": [
+   "Bass Température"
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/events/2195862",
+   "https://basstemperature.bandcamp.com/music",
+   "https://soundcloud.com/bass-temp/tracks",
+   "https://soundcloud.com/teknodimension/bass-temperature-unknown-dimension"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "The Director": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Alex Ranerro": {
+  "links": {
+   "ra": "https://ra.co/dj/alexranerro",
+   "sc": "https://soundcloud.com/alex-ranerro"
+  },
+  "bio": {
+   "de": "Alex Ranerro ist ein slowenischer DJ und Produzent sowie Mitbegründer der 2016 gegründeten Elektronik-Plattform und des Magazins SOLVD. Seine Produktionen reichen von Peak-Time-House bis zu tieferen, dub-beeinflussten Sounds, geprägt von Hip-Hop, R&B und klassischem House. Mit SOLVD hat er eine monatliche Residency im Club K4 in Ljubljana; Releases erschienen u. a. auf Berg Audio, Bondage Music, PIV, Sintope und MyHouse YourHouse.",
+   "en": "Alex Ranerro is a Slovenian DJ and producer and co-founder of SOLVD, the electronic music magazine and platform launched in 2016. His productions range from peak-time house to deeper, dub-influenced sounds, informed by hip-hop, R&B and classic house. He holds a monthly SOLVD residency at K4 in Ljubljana and has released on Berg Audio, Bondage Music, PIV, Sintope and MyHouse YourHouse, among others."
+  },
+  "from": {
+   "de": "Slowenien",
+   "en": "Slovenia"
+  },
+  "labels": [
+   "Berg Audio",
+   "Bondage Music",
+   "Djebali",
+   "PIV",
+   "Blind Vision Dubs",
+   "HouseOnWax",
+   "MyHouse YourHouse",
+   "Sintope"
+  ],
+  "genres": [
+   "House"
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://es-mx.ra.co/dj/alexranerro/biography",
+   "https://soundcloud.com/alex-ranerro/tracks",
+   "https://Beatport.com/artist/alex-ranerro/191465"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Dreya": {
+  "img": "https://static.ra.co/images/profiles/square/dreya.jpg?dateUpdated=1715954776000",
+  "links": {
+   "ra": "https://ra.co/dj/dreya",
+   "sc": "https://soundcloud.com/dreya_vie"
+  },
+  "bio": {
+   "de": "DREYA ist eine DJ aus Österreich, die vor allem in Wien auflegt, u. a. bei REDIVIDER-Events im PRST und bei der Morgengymnastik im SASS Music Club.",
+   "en": "DREYA is a DJ from Austria who mostly plays in Vienna, including REDIVIDER events at PRST and Morgengymnastik at SASS Music Club."
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/dreya",
+   "https://ra.co/events/2250121",
+   "https://ra.co/events/2118550",
+   "https://soundcloud.com/dreya_vie/popular-tracks"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Violette": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Mello1": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Stephan Deutsch": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Sunny": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Jaiden Wild": {
+  "links": {
+   "sc": "https://soundcloud.com/user-621320712"
+  },
+  "genres": [
+   "Techno",
+   "Hardgroove"
+  ],
+  "labels": [
+   "INVICTA"
+  ],
+  "bio": {
+   "de": "Jaiden Wild ist Techno-DJ und Produzent. Gemeinsam mit SILSAN veröffentlichte er den Track „Enter The Void“, der auf INVICTA mit einem Remix von Innervoix erschien; außerdem entstand mit Moto Moto der Track „Dub Sequence“.",
+   "en": "Jaiden Wild is a techno DJ and producer. Together with SILSAN he released the track \"Enter The Void\", which came out on INVICTA with a remix by Innervoix; he also made the track \"Dub Sequence\" with Moto Moto."
+  },
+  "sets": [
+   {
+    "t": "Hardgroove Techno Mix - B2B with Jaiden Wild (Tactical Delay)",
+    "u": "https://soundcloud.com/tactical-delay/hardgroove-techno-mix"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/user-621320712",
+   "https://soundcloud.com/invicta_label/silsan-jaiden-wild-enter-the-void-innervoix-remix",
+   "https://soundcloud.com/alulatunes/dubsequence"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "DYEN": {
+  "img": "https://static.ra.co/images/profiles/square/dyen.jpg?dateUpdated=1515493365000",
+  "links": {
+   "ra": "https://ra.co/dj/dyen",
+   "sc": "https://soundcloud.com/dyenmusic",
+   "bc": "https://dyen.bandcamp.com",
+   "ig": "https://www.instagram.com/dyen_music"
+  },
+  "from": {
+   "de": "Rotterdam, Niederlande",
+   "en": "Rotterdam, Netherlands"
+  },
+  "genres": [
+   "Techno",
+   "Rave"
+  ],
+  "labels": [
+   "Everyone On Acid",
+   "Ismus",
+   "WarinD Records",
+   "KTK Records",
+   "EXHALE Records"
+  ],
+  "bio": {
+   "de": "DYEN ist ein in Rotterdam ansässiger Techno- und Rave-DJ aus den Niederlanden. Er veröffentlichte u. a. auf Everyone On Acid, Ismus, WarinD Records, KTK Records und EXHALE Records und spielte bei Rotterdam Rave in der Ahoy sowie bei Verknipt.",
+   "en": "DYEN is a Rotterdam-based techno and rave DJ from the Netherlands. He has released on labels including Everyone On Acid, Ismus, WarinD Records, KTK Records and EXHALE Records, and has played Rotterdam Rave at Ahoy as well as Verknipt."
+  },
+  "sets": [
+   {
+    "t": "DYEN @ BLACKWORKS VI ANNIVERSARY (20.09.2025)",
+    "u": "https://soundcloud.com/blackworksclub/dyen-blackworks-vi-anniversary-20092025"
+   },
+   {
+    "t": "DYEN @ Rotterdam Rave 'Kick Off' 15-02-2025, Ahoy, Rotterdam",
+    "u": "https://soundcloud.com/rotterdamse-rave/dyen-rotterdam-rave-kick-off-15-02-2025-ahoy-rotterdam"
+   },
+   {
+    "t": "DYEN @ Rotterdam Rave Festival, 07-09-2024, Ahoy, Rotterdam",
+    "u": "https://soundcloud.com/rotterdamse-rave/dyen-rotterdam-rave-festival-09-07-2024-ahoy-rotterdam"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/dyen",
+   "https://soundcloud.com/dyenmusic/tracks"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Super Jet Kinoko": {
+  "links": {
+   "sp": "https://open.spotify.com/artist/1VpmNLzbYNlRE1gv8kRIlz",
+   "ig": "https://www.instagram.com/super_jet_kinoko/"
+  },
+  "from": {
+   "de": "Osaka, Japan",
+   "en": "Osaka, Japan"
+  },
+  "genres": [
+   "Trance",
+   "Psychedelic",
+   "New Wave"
+  ],
+  "bio": {
+   "de": "Super Jet Kinoko ist eine 2019 im Underground von Osaka entstandene Band, die Rock, Trance, Punk und psychedelische Tanzmusik zu einem Sound verbindet, den sie „NANIWADELIC“ nennt. Die energiegeladene Live-Show führte sie 2025 und 2026 auf Europatournee; zur Besetzung gehört u. a. Gitarrist Daoud Akira (Kikagaku Moyo). Im Juni 2026 erschien ihr drittes Album „Mushroom Sutra -SHROOMY THE GO GO-“.",
+   "en": "Super Jet Kinoko is a band formed in 2019 in Osaka's underground scene, blending rock, trance, punk and psychedelic dance music into a sound they call \"NANIWADELIC\". Their high-energy live show took them on European tours in 2025 and 2026; members include guitarist Daoud Akira (Kikagaku Moyo). Their third album \"Mushroom Sutra -SHROOMY THE GO GO-\" came out in June 2026."
+  },
+  "src": [
+   "https://www.tunecore.co.jp/artists/super-jet-kinoko?lang=en",
+   "https://avo-magazine.com/en/2025/10/super-jet-kinoko-once-again-in-europe-for-a-tour-shroomy-parade-25-harvest-autumn"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Prolix": {
+  "img": "https://static.ra.co/images/profiles/prolix.jpg?dateUpdated=1455625232940",
+  "links": {
+   "ra": "https://ra.co/dj/prolix",
+   "sc": "https://soundcloud.com/prolixuk"
+  },
+  "real": "Chris McCarthy",
+  "from": {
+   "de": "London, Großbritannien",
+   "en": "London, United Kingdom"
+  },
+  "genres": [
+   "Drum and Bass"
+  ],
+  "labels": [
+   "Trendkill Records",
+   "RAM Records",
+   "Metalheadz",
+   "Commercial Suicide",
+   "Playaz Recordings",
+   "Virus Recordings",
+   "Blackout Music",
+   "Vision",
+   "Shogun Audio",
+   "OWSLA"
+  ],
+  "bio": {
+   "de": "Prolix ist ein Drum-and-Bass-Produzent und DJ aus London und Gründer von Trendkill Records. Er veröffentlichte auf RAM, Metalheadz, Commercial Suicide, Playaz, Virus, Blackout, Vision, Shogun Audio und OWSLA.",
+   "en": "Prolix is a London-based drum and bass producer and DJ and the founder of Trendkill Records. He has released on RAM, Metalheadz, Commercial Suicide, Playaz, Virus, Blackout, Vision, Shogun Audio and OWSLA."
+  },
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/prolix",
+   "https://ra.co/events/2185582",
+   "https://soundcloud.com/prolixuk"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "First Person": {
+  "links": {
+   "sc": "https://soundcloud.com/firstpersonmusic",
+   "ig": "https://www.instagram.com/firstperson_music/"
+  },
+  "real": "Kevin Hoogers",
+  "from": {
+   "de": "Amsterdam, Niederlande",
+   "en": "Amsterdam, Netherlands"
+  },
+  "genres": [
+   "Drum and Bass",
+   "Neurofunk"
+  ],
+  "labels": [
+   "Skamele Recordings",
+   "Blackout Music",
+   "Hanzom Music"
+  ],
+  "bio": {
+   "de": "First Person ist ein in Amsterdam ansässiger Drum-and-Bass-Produzent und DJ aus den Niederlanden, bekannt für harten, druckvollen Sound mit tiefen Basslines und kräftigen Melodien. Er leitet das Label Skamele Recordings und veröffentlichte auf Blackout Music, Hanzom Music und Skamele, u. a. gemeinsam mit dem österreichischen Produzenten TR Tactics.",
+   "en": "First Person is an Amsterdam-based drum and bass producer and DJ from the Netherlands, known for a heavy, aggressive sound with deep basslines and strong melodies. He runs the label Skamele Recordings and has released on Blackout Music, Hanzom Music and Skamele, including work with Austrian producer TR Tactics."
+  },
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://eatbrain.net/first-person",
+   "https://ra.co/events/2185582",
+   "https://soundcloud.com/skamelerecordings/first-person-circuits-skamele-recordings"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Overtune": {
+  "alias": [
+   "Overtune (AT)"
+  ],
+  "from": {
+   "de": "Niederösterreich",
+   "en": "Lower Austria"
+  },
+  "genres": [
+   "Drum and Bass",
+   "Neurofunk"
+  ],
+  "labels": [
+   "Neuroheadz",
+   "Skamele Recordings"
+  ],
+  "bio": {
+   "de": "Overtune ist ein Neurofunk-Produzent und DJ aus einer Kleinstadt in Niederösterreich, der heute in Wien lebt. Er veröffentlichte u. a. „Sonic Boom“, „Push“ und „Nothing Will Survive“ auf dem britischen Label Neuroheadz sowie „ATW“ auf Skamele Recordings.",
+   "en": "Overtune is a neurofunk producer and DJ from a small town in Lower Austria, now based in Vienna. His releases include \"Sonic Boom\", \"Push\" and \"Nothing Will Survive\" on UK label Neuroheadz, as well as \"ATW\" on Skamele Recordings."
+  },
+  "sets": [
+   {
+    "t": "The Lost Mixes #013 by Overtune",
+    "u": "https://soundcloud.com/reverse-dnb/the-lost-mixes-013-by-overtune"
+   }
+  ],
+  "src": [
+   "https://ra.co/events/2185582",
+   "https://www.beatport.com/artist/overtune-at/1146120",
+   "https://soundcloud.com/skamelerecordings/overtune-atw"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Très Julie": {
+  "links": {
+   "sc": "https://soundcloud.com/tresjulietechno"
+  },
+  "alias": [
+   "très.julie"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "nach[✚]hall 011 - Très Julie",
+    "u": "https://soundcloud.com/donnerkanzel/nachhall-011-tres-julie"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/tresjulietechno",
+   "https://soundcloud.com/donnerkanzel/nachhall-011-tres-julie"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Goldie Goldenshowers": {
+  "links": {
+   "sc": "https://soundcloud.com/goldie_goldenshowers"
+  },
+  "sets": [
+   {
+    "t": "Goldie Goldenshowers @CALABAZZA x Arche*Ahoi // 04.01.25",
+    "u": "https://soundcloud.com/calabazza/goldie-goldenshowers"
+   },
+   {
+    "t": "Knalle Koralle Closing @ Pastanaga Festival",
+    "u": "https://soundcloud.com/goldie_goldenshowers/knalle-koralle-closing-set-pastanaga-festival"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/goldie_goldenshowers"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Audri": {
+  "img": "https://static.ra.co/images/profiles/audri.jpg?dateUpdated=1490873623607",
+  "links": {
+   "sc": "https://soundcloud.com/dj-audri",
+   "ra": "https://ra.co/dj/audri"
+  },
+  "bio": {
+   "de": "Audri ist ein in Italien geborener, in Deutschland lebender Techno-DJ und Produzent. Releases erschienen u. a. auf Imprints Records, Yay Recordings, Paruro Electroniks und OPIA Records.",
+   "en": "Audri is an Italian-born, Germany-based techno DJ and producer. His releases have appeared on labels such as Imprints Records, Yay Recordings, Paruro Electroniks and OPIA Records."
+  },
+  "from": {
+   "de": "Italien",
+   "en": "Italy"
+  },
+  "labels": [
+   "Imprints Records",
+   "Yay Recordings",
+   "Paruro Electroniks",
+   "OPIA Records"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "Audri Solo Podcast 001",
+    "u": "https://soundcloud.com/dj-audri/audri-solo-podcast-001"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/audri",
+   "https://soundcloud.com/dj-audri"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Pablo Bozzi": {
+  "links": {
+   "sc": "https://soundcloud.com/pablo-bozzi",
+   "ig": "https://www.instagram.com/pablo.bozzi"
+  },
+  "bio": {
+   "de": "Pablo Bozzi ist ein in Berlin lebender Produzent und DJ, ursprünglich aus Toulouse. Seinen hybriden Sound nennt er „Italo Body Music“: Italo-Disco-Melodien über EBM-Beats. Releases erschienen u. a. auf Dischi Autunno (EP „Ghost of Chance“) und Bite (EP „Magnetisma“); 2022 folgte sein Debütalbum „Street Reign on Pinkman“.",
+   "en": "Pablo Bozzi is a Berlin-based producer and DJ by way of Toulouse. He calls his hybrid sound 'Italo Body Music', layering Italo disco melodies over EBM beats. He has released on Dischi Autunno (Ghost of Chance EP) and Bite (Magnetisma EP), followed by his debut album 'Street Reign on Pinkman' in 2022."
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "labels": [
+   "Dischi Autunno",
+   "Bite"
+  ],
+  "genres": [
+   "Italo Body Music",
+   "EBM",
+   "Italo Disco"
+  ],
+  "sets": [
+   {
+    "t": "Pablo Bozzi @ The Lot Radio 10-03-2025",
+    "u": "https://soundcloud.com/thelotradio/pablo-bozzi-the-lot-radio-10"
+   },
+   {
+    "t": "FEEL MY BICEP Podcast 186 - Pablo Bozzi",
+    "u": "https://soundcloud.com/pablo-bozzi/feel-my-bicep-podcast-186-pablo-bozzi"
+   },
+   {
+    "t": "KHIDI Podcast NR.68: Pablo Bozzi",
+    "u": "https://soundcloud.com/khidi/khidi-podcast-nr68-pablo-bozzi"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://volumo.com/artist/32922-pablo-bozzi/about",
+   "https://soundcloud.com/pablo-bozzi/sets",
+   "https://ra.co/events/1816459"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Krakota": {
+  "img": "https://static.ra.co/images/profiles/krakota.jpg?dateUpdated=1452869816387",
+  "links": {
+   "sc": "https://soundcloud.com/krakota",
+   "ig": "https://www.instagram.com/krakota/",
+   "sp": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF",
+   "ra": "https://ra.co/dj/krakota"
+  },
+  "bio": {
+   "de": "Krakota ist ein Drum-&-Bass-Produzent und DJ aus Großbritannien mit Fokus auf Dancefloor-DnB. Er veröffentlichte regelmäßig auf Hospital Records sowie bei UKF und Drum & Bass Arena und ist exklusiv bei Wilkinsons Label Sleepless Music unter Vertrag. Er spielte u. a. auf Glastonbury, Let It Roll und Outlook.",
+   "en": "Krakota is a UK-based drum & bass producer and DJ focused on dancefloor DnB. He has released steadily on Hospital Records as well as via UKF and Drum & Bass Arena, and signed exclusively to Wilkinson's label Sleepless Music. He has played festivals including Glastonbury, Let It Roll and Outlook."
+  },
+  "from": {
+   "de": "Großbritannien",
+   "en": "United Kingdom"
+  },
+  "labels": [
+   "Hospital Records",
+   "Sleepless Music"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "src": [
+   "https://ra.co/dj/krakota",
+   "https://www.mbartists.co.uk/artists/krakota",
+   "https://ra.co/events/2220539"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Olivia Mendez": {
+  "img": "https://static.ra.co/images/profiles/square/oliviamendez.jpg?dateUpdated=1551178461000",
+  "links": {
+   "sc": "https://soundcloud.com/olivia-mendez",
+   "ra": "https://ra.co/dj/oliviamendez"
+  },
+  "bio": {
+   "de": "Olivia Mendez ist eine in Frankreich geborene, in Deutschland lebende DJ. Reclaim Your City bezeichnete sie 2018 als eine der Schlüsselfiguren, die Partys am Leben halten.",
+   "en": "Olivia Mendez is a French-born DJ based in Germany. In 2018 Reclaim Your City described her as one of the key figures in keeping parties alive."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [],
+  "genres": [],
+  "src": [
+   "https://ra.co/dj/oliviamendez"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "LoveFoxy": {
+  "img": "https://static.ra.co/images/profiles/square/lovefoxy.jpg?dateUpdated=1744131263000",
+  "links": {
+   "sc": "https://soundcloud.com/foxy-love-1",
+   "ig": "https://www.instagram.com/lovefoxy",
+   "ra": "https://ra.co/dj/lovefoxy"
+  },
+  "bio": {
+   "de": "LOVEFOXY ist eine in Berlin lebende Künstlerin, deren Sound vom 90er-House inspiriert ist, mit dem sie aufgewachsen ist. Ihr Stil ist energiegeladen und druckvoll; sie veröffentlicht auf Nervous Records.",
+   "en": "LOVEFOXY is a Berlin-based artist whose sound is inspired by the 90s house music she grew up with. Her style is energetic and punchy, and she releases on Nervous Records."
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "labels": [
+   "Nervous Records"
+  ],
+  "genres": [
+   "House"
+  ],
+  "real": "Fania Folaji",
+  "src": [
+   "https://ra.co/dj/lovefoxy"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Oskar_Kreuz": {
+  "bio": {
+   "de": "Oskar_Kreuz (auch Byrdee) kam mit elf Jahren über einen Techno-Plattenladen zum Vinyl und legt seit 2009 ausschließlich Platten auf. Er spielt abstrakten, anspruchsvollen Techno.",
+   "en": "Oskar_Kreuz (also known as Byrdee) got into records at the age of eleven after visiting a techno record store and has played vinyl only since 2009. He plays abstract and sophisticated techno."
+  },
+  "genres": [
+   "Techno"
+  ],
+  "alias": [
+   "Oskar Kreuz",
+   "Byrdee"
+  ],
+  "src": [
+   "https://de.ra.co/events/2212252"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Emeveka": {
+  "img": "https://static.ra.co/images/profiles/square/emeveka.jpg?dateUpdated=1742951179137",
+  "links": {
+   "sc": "https://soundcloud.com/mvk_music",
+   "ig": "https://www.instagram.com/mvk.music",
+   "ra": "https://ra.co/dj/emeveka"
+  },
+  "bio": {
+   "de": "Emeveka ist ein in Argentinien geborener, in Deutschland lebender DJ und Produzent für Progressive und Psy Techno. Seine Sets spielte er u. a. im Elipamanoke und in der Garage Ost in Leipzig sowie im Repeat in Berlin.",
+   "en": "Emeveka is an Argentinian-born, Germany-based DJ and producer of progressive and psy techno. He has played sets at venues such as Elipamanoke and Garage Ost in Leipzig and Repeat in Berlin."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [],
+  "genres": [
+   "Progressive Techno",
+   "Psy Techno"
+  ],
+  "alias": [
+   "MVK"
+  ],
+  "real": "Martin Vilar Karlen",
+  "sets": [
+   {
+    "t": "Uruk Hai Techno Set - Progressive Leipzig 3rd anniversary",
+    "u": "https://soundcloud.com/mvk_music/uruk-hai-3rd-anniversary"
+   },
+   {
+    "t": "Xmagine @ Repeat, Berlin - Emeveka [Progressive Techno]",
+    "u": "https://soundcloud.com/mvk_music/xmagine-repeat-bar-berlin-emeveka-progressive-techno"
+   },
+   {
+    "t": "Find a place @ Elipamanoke - June '24 [Progressive / Melodic / Techno]",
+    "u": "https://soundcloud.com/mvk_music/find-your-place-elipamanoke-june-24-progressive-techno"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/emeveka",
+   "https://ra.co/events/2155914",
+   "https://soundcloud.com/mvk_music"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Monofade": {
+  "links": {
+   "sc": "https://soundcloud.com/monofade"
+  },
+  "bio": {
+   "de": "Monofade ist ein ungarisches Elektronik-Duo aus László und Tamás, das 2013 in Großbritannien zu produzieren begann und seit 2016 auch als DJ-Team auftritt. Releases erschienen u. a. auf Natura Viva, Dear Deer, Capital Heaven und Krafted Underground; ihre Tracks wurden u. a. von John Digweed unterstützt.",
+   "en": "Monofade is a Hungarian electronic duo made up of László and Tamás, who started working together in the UK in 2013 and have performed as DJs since 2016. They have released on labels including Natura Viva, Dear Deer, Capital Heaven and Krafted Underground, with support from John Digweed."
+  },
+  "from": {
+   "de": "Ungarn",
+   "en": "Hungary"
+  },
+  "labels": [
+   "Natura Viva",
+   "Dear Deer",
+   "Capital Heaven",
+   "Krafted Underground"
+  ],
+  "genres": [
+   "Progressive House"
+  ],
+  "sets": [
+   {
+    "t": "Club Mood Vibes Podcast #288: Monofade",
+    "u": "https://soundcloud.com/clubmoodvibes/cast288"
+   },
+   {
+    "t": "Thumper Sounds 38 - Monofade",
+    "u": "https://soundcloud.com/thumpercamp/thumper-sounds-38-monofade"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://www.beatport.com/artist/monofade/343625",
+   "https://ra.co/events/2155914",
+   "https://soundcloud.com/MONOFADE"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Givio": {
+  "img": "https://static.ra.co/images/profiles/square/givio.jpg?dateUpdated=1719504977000",
+  "links": {
+   "sc": "https://soundcloud.com/giviomusic",
+   "ra": "https://ra.co/dj/givio"
+  },
+  "bio": {
+   "de": "GIVIO ist ein DJ aus Spanien, der vor allem in Barcelona und Madrid auflegt.",
+   "en": "GIVIO is a DJ from Spain who mostly plays in Barcelona and Madrid."
+  },
+  "from": {
+   "de": "Spanien",
+   "en": "Spain"
+  },
+  "labels": [],
+  "genres": [],
+  "real": "Oriol Vila Gil",
+  "src": [
+   "https://ra.co/dj/givio"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Mathheku": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "80k": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Rudina": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "CLTX": {
+  "img": "https://static.ra.co/images/profiles/cltx.jpg?dateUpdated=1583842023000",
+  "links": {
+   "ra": "https://ra.co/dj/cltx",
+   "sc": "https://soundcloud.com/cltxx"
+  },
+  "bio": {
+   "de": "CLTX ist ein in Frankreich geborener, in Deutschland lebender Techno-DJ und Produzent. Veröffentlichungen erschienen u. a. auf Voxnox Records, Gomboc Records, Everyone On Acid, SCTR und NOGENDER.",
+   "en": "CLTX is a French-born techno DJ and producer based in Germany. His releases have appeared on labels such as Voxnox Records, Gomboc Records, Everyone On Acid, SCTR and NOGENDER."
+  },
+  "from": {
+   "de": "Frankreich / Deutschland",
+   "en": "France / Germany"
+  },
+  "labels": [
+   "Voxnox Records",
+   "Gomboc Records",
+   "Everyone On Acid",
+   "SCTR",
+   "Insane Industry Recordings",
+   "LABURNUM Records",
+   "Underzone",
+   "SINDEX",
+   "NOGENDER"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "real": "Clément Teixeira",
+  "sets": [
+   {
+    "t": "CLTX at Intercell x 999999999 Invites - BY DAY (ADE 2022)",
+    "u": "https://soundcloud.com/intercell/cltx-at-intercell-x-999999999-invites-by-day-ade-2022"
+   },
+   {
+    "t": "CLTX - Techno Wereld Podcast",
+    "u": "https://soundcloud.com/technowereld/cltx-techno-wereld-podcast"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/cltx",
+   "https://soundcloud.com/cltxx"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Carl Craig": {
+  "img": "https://static.ra.co/images/profiles/square/carlcraig.jpg?dateUpdated=1514978909000",
+  "links": {
+   "ra": "https://ra.co/dj/carlcraig",
+   "sc": "https://soundcloud.com/planetedetroit",
+   "web": "https://www.carlcraig.net"
+  },
+  "bio": {
+   "de": "Carl Craig ist ein Detroit-Techno-Produzent und DJ aus den USA, bekannt als experimentierfreudiger Dancefloor-Künstler mit großem Einfluss. Veröffentlichungen erschienen u. a. auf Planet E, Transmat, Tronic, Mojuba und fabric Records. Bekannte Projekte sind Paperclip People, Innerzone Orchestra und 69.",
+   "en": "Carl Craig is a US Detroit techno producer and DJ, described as a dancefloor experimentalist with few equals in the artistry, influence and diversity of his recordings. Releases have appeared on Planet E, Transmat, Tronic, Mojuba and fabric Records among others. Known projects include Paperclip People, Innerzone Orchestra and 69."
+  },
+  "from": {
+   "de": "Detroit, USA",
+   "en": "Detroit, USA"
+  },
+  "labels": [
+   "Planet E",
+   "Transmat",
+   "fabric Records",
+   "Clone Records",
+   "Ibadan Records",
+   "Rapster Records",
+   "Mojuba",
+   "Tronic",
+   "Third Ear Recordings"
+  ],
+  "genres": [
+   "Techno",
+   "Detroit Techno"
+  ],
+  "alias": [
+   "C2",
+   "Paperclip People",
+   "Innerzone Orchestra",
+   "69",
+   "Tribe"
+  ],
+  "sets": [
+   {
+    "t": "Carl Craig Boiler Room Detroit Love DJ Set",
+    "u": "https://soundcloud.com/platform/carl-craig"
+   },
+   {
+    "t": "DMY Mix 007 - Carl Craig",
+    "u": "https://soundcloud.com/dummymag/dmy-mix-007-carl-craig"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/carlcraig"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Carlos Willengton": {
+  "img": "https://static.ra.co/images/profiles/square/carloswillengton.jpg?dateUpdated=1664534221000",
+  "links": {
+   "ra": "https://ra.co/dj/carloswillengton",
+   "ig": "https://www.instagram.com/dj_carlos_willengton"
+  },
+  "bio": {
+   "de": "DJ Carlos Willengton ist ein DJ aus Spanien (Salou), der vor allem Disco, House und 90s-Vinyl auflegt. Er spielte u. a. bei Happy Feelings in Utrecht, auf Rinse FM und Threads Radio sowie international von London bis Buenos Aires.",
+   "en": "DJ Carlos Willengton is a DJ from Spain (Salou) known for disco, house and 90s vinyl sets. He has played Happy Feelings in Utrecht, Rinse FM and Threads Radio, and internationally from London to Buenos Aires."
+  },
+  "from": {
+   "de": "Spanien",
+   "en": "Spain"
+  },
+  "genres": [
+   "Disco",
+   "House"
+  ],
+  "alias": [
+   "DJ Carlos Willengton",
+   "DJ Carlos Wellington"
+  ],
+  "sets": [
+   {
+    "t": "Carlos Willengton B2B Jamie 3:26 @ Happy Feelings 12,5 Years Festival (27.09.25)",
+    "u": "https://soundcloud.com/happy-feelings-1/carlos-willengton-b2b-jamie-326-happy-feelings-125-years-festival-27-09-25"
+   },
+   {
+    "t": "Aterral Mix 61 - Carlos Willengton",
+    "u": "https://soundcloud.com/aterralrecords/aterral-mix-61-carlos-willengton"
+   },
+   {
+    "t": "DJ Carlos Willengton (*Salou) - 07-Feb-22 (Threads Radio)",
+    "u": "https://www.mixcloud.com/ThreadsRadio/dj-carlos-wellington-salou-07-feb-22/"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/carloswillengton",
+   "https://www.mixcloud.com/ThreadsRadio/dj-carlos-wellington-salou-07-feb-22/",
+   "https://soundcloud.com/rinsefm/tomshorterz120221"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Mir-I-am": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Mize Hetner": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "lumiuex": {
+  "img": "https://static.ra.co/images/profiles/lumieux.jpg?dateUpdated=1540400062000",
+  "links": {
+   "ra": "https://ra.co/dj/lumieux",
+   "sc": "https://soundcloud.com/lumieux",
+   "bc": "https://lumieuxprod.bandcamp.com",
+   "ig": "https://www.instagram.com/lumieuxprod"
+  },
+  "bio": {
+   "de": "Lumieux ist DJ und Produzent aus Bukarest, Rumänien. Veröffentlichungen erschienen u. a. auf Body Parts, Uvar, Subtil, Inwave, Trapped Ldn und Cuplet; Mixe gab es u. a. für fabric und Cadenza Radio.",
+   "en": "Lumieux is a DJ and producer from Bucharest, Romania. Releases have appeared on labels such as Body Parts, Uvar, Subtil, Inwave, Trapped Ldn and Cuplet, with mixes for fabric and Cadenza Radio."
+  },
+  "from": {
+   "de": "Bukarest, Rumänien",
+   "en": "Bucharest, Romania"
+  },
+  "labels": [
+   "Body Parts",
+   "Uvar",
+   "Subtil",
+   "Inwave",
+   "LDN",
+   "Trapped Ldn",
+   "Cuplet",
+   "Adam's Bite",
+   "Equinox Records"
+  ],
+  "genres": [
+   "Minimal",
+   "House"
+  ],
+  "alias": [
+   "Lumieux"
+  ],
+  "sets": [
+   {
+    "t": "Lumieux Goosebumps Promo Mix (fabric)",
+    "u": "https://soundcloud.com/fabric/lumieux-goosebumps-promo-mix"
+   },
+   {
+    "t": "Cadenza Radio 043 - Lumieux",
+    "u": "https://soundcloud.com/cadenzarecords/cadenza-radio-043-lumieux"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/lumieux"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Jamaica Suk": {
+  "img": "https://static.ra.co/images/profiles/square/jamaicasuk.jpg?dateUpdated=1767033924640",
+  "links": {
+   "ra": "https://ra.co/dj/jamaicasuk",
+   "sc": "https://soundcloud.com/jamaicasuk",
+   "bc": "https://jamaicasuk.bandcamp.com"
+  },
+  "bio": {
+   "de": "Jamaica Suk ist eine in den USA geborene, in Berlin lebende Techno-DJ und Produzentin. Boiler Room nannte sie eines der bestgehüteten Geheimnisse Berlins. Veröffentlichungen erschienen u. a. auf Mute Records, L.A.G., Counterchange, Mord und Gradient.",
+   "en": "Jamaica Suk is a US-born, Berlin-based techno DJ and producer. Boiler Room called her one of Berlin's best-kept secrets. Her releases have appeared on Mute Records, L.A.G., Counterchange, Mord and Gradient among others."
+  },
+  "from": {
+   "de": "USA / Berlin",
+   "en": "USA / Berlin"
+  },
+  "labels": [
+   "Mute Records",
+   "L.A.G.",
+   "Counterchange",
+   "Mord",
+   "Arcing Seas",
+   "Gradient",
+   "SEELEN.",
+   "Tremsix"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "Bassiani invites Jamaica Suk / Podcast #177",
+    "u": "https://soundcloud.com/bassiani/bassiani-invites-jamaica-suk-podcast-177"
+   },
+   {
+    "t": "Groove Podcast 170 - Jamaica Suk",
+    "u": "https://soundcloud.com/groove-magazin/groove-podcast-170-jamaica-suk"
+   },
+   {
+    "t": "KHIDI Podcast 142: Jamaica Suk",
+    "u": "https://soundcloud.com/khidi/podcast-142-jamaica-suk"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/jamaicasuk"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "O.b.i": {
+  "img": "https://static.ra.co/images/profiles/square/o.b.i.-de.jpg?dateUpdated=1699615315000",
+  "links": {
+   "ra": "https://ra.co/dj/o.b.i.-de",
+   "sc": "https://soundcloud.com/obihardtechno",
+   "bc": "https://obihardtechno.bandcamp.com",
+   "ig": "https://www.instagram.com/o.b.i._hardtechno",
+   "web": "https://www.obihardtechno.com"
+  },
+  "bio": {
+   "de": "O.B.I. ist ein Hardtechno-DJ und Produzent aus Deutschland und steht für bedingungslose Hingabe an die härtere Seite des Techno. Sein Release „Gib Mir Alles“ (2021) sorgte in der Szene für Aufsehen.",
+   "en": "O.B.I. is a hard techno DJ and producer from Germany, synonymous with unconditional dedication to the harder side of techno. His 2021 release \"Gib Mir Alles\" made a strong impact on the scene."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "R LABEL GROUP"
+  ],
+  "genres": [
+   "Hard Techno",
+   "Schranz"
+  ],
+  "alias": [
+   "O.B.I."
+  ],
+  "real": "Tobias Lüke",
+  "sets": [
+   {
+    "t": "O.B.I. @ Pioneer DJ Mix Mission 2021 for Radio Sunshine Live",
+    "u": "https://soundcloud.com/obihardtechno/obi-pioneer-dj-mix-mission-2021-for-radio-sunshine-live"
+   },
+   {
+    "t": "O.B.I. @ Definition Of Hard Techno 10.10.2020 in Münster",
+    "u": "https://soundcloud.com/obihardtechno/obi-definition-of-hard-techno-10102020-in-munster-germany"
+   },
+   {
+    "t": "O.B.I. @ 5 Years Definition Of Hard Techno Online",
+    "u": "https://soundcloud.com/obihardtechno/obi-5-years-definition-of-hard-techno-online"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://es.ra.co/dj/o.b.i.-de",
+   "https://www.daswerk.org/programm/stay-acid-presents-54hz-with-o-b-i/"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Oliver Huntemann": {
+  "img": "https://static.ra.co/images/profiles/oliverhuntemann.jpg?dateUpdated=1409231532123",
+  "links": {
+   "ra": "https://ra.co/dj/oliverhuntemann",
+   "sc": "https://soundcloud.com/oliver-huntemann",
+   "web": "https://www.huntemann.tv"
+  },
+  "bio": {
+   "de": "Oliver Huntemann ist ein Techno- und Electro-Produzent aus Hamburg. Er veröffentlichte u. a. auf International DeeJay Gigolo Records, Confused Recordings, Senso Sounds und Ideal Audio. Er mixte die Compilation-Reihe PLAY! und lieferte den RA-Podcast RA.037.",
+   "en": "Oliver Huntemann is a techno and electro producer from Hamburg, Germany. He has released on International DeeJay Gigolo Records, Confused Recordings, Senso Sounds and Ideal Audio, among others. He mixed the PLAY! compilation series and recorded RA podcast RA.037."
+  },
+  "from": {
+   "de": "Hamburg",
+   "en": "Hamburg"
+  },
+  "labels": [
+   "International DeeJay Gigolo Records",
+   "Confused Recordings",
+   "Rekorder",
+   "Ideal Audio",
+   "Fever Sound Records",
+   "KDW",
+   "Senso Sounds",
+   "Analogik Records"
+  ],
+  "genres": [
+   "Techno",
+   "Electro"
+  ],
+  "alias": [
+   "H-Man",
+   "Huntemann"
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/oliverhuntemann",
+   "https://ra.co/podcast/38",
+   "https://ra.co/news/11911"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Young Marco": {
+  "img": "https://static.ra.co/images/profiles/square/youngmarco.jpg?dateUpdated=1684767658000",
+  "links": {
+   "ra": "https://ra.co/dj/youngmarco",
+   "sc": "https://soundcloud.com/user-50361174",
+   "ig": "https://www.instagram.com/youngmarco",
+   "bc": "https://safetrip.bandcamp.com",
+   "web": "https://www.youngmarco.com"
+  },
+  "bio": {
+   "de": "Young Marco ist ein in Amsterdam ansässiger DJ und Produzent, der das Label Safe Trip betreibt. Releases erschienen u. a. auf Rush Hour, ESP Institute und Island Of The Gods. Er spielte u. a. ein BBC Essential Mix (2023), einen Boiler Room und beim Dekmantel Festival.",
+   "en": "Young Marco is an Amsterdam-based DJ and producer who runs the Safe Trip label. He has released on Rush Hour, ESP Institute and Island Of The Gods, among others. He has recorded a BBC Essential Mix (2023), a Boiler Room set and played Dekmantel Festival."
+  },
+  "from": {
+   "de": "Amsterdam",
+   "en": "Amsterdam"
+  },
+  "labels": [
+   "Safe Trip",
+   "Rush Hour Music",
+   "ESP Institute",
+   "Island Of The Gods",
+   "Ministry Of Sound"
+  ],
+  "real": "Marco Sterk",
+  "sets": [
+   {
+    "t": "Young Marco at Dekmantel Festival 2023",
+    "u": "https://soundcloud.com/dkmntl/young-marco-at-dekmantel-festival-2024"
+   },
+   {
+    "t": "Young Marco mix on Gilles Peterson Worldwide (GPWW975)",
+    "u": "https://soundcloud.com/worldwide-fm/young-marco"
+   },
+   {
+    "t": "Young Marco 40 min Boiler Room Mix",
+    "u": "https://soundcloud.com/platform/young-marco-40-min-boiler-room"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/youngmarco",
+   "https://soundcloud.com/dkmntl/young-marco-at-dekmantel-festival-2024",
+   "https://soundcloud.com/youngmarcoessentialmix/young-marco-essential-mix-2023-07-01"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Elotrance": {
+  "img": "https://static.ra.co/images/profiles/square/elotrance.jpg?dateUpdated=1784224051667",
+  "links": {
+   "ra": "https://ra.co/dj/elotrance",
+   "sc": "https://soundcloud.com/elo_trance",
+   "ig": "https://www.instagram.com/elotrance9"
+  },
+  "bio": {
+   "de": "Elotrance ist eine DJ aus Deutschland, die vor allem in Berlin, Wien, Köln, Hamburg und Nürnberg auflegt. Ihr Stil verbindet groovigen Techno mit bouncigen, tranceigen Elementen. Sie spielt regelmäßig im Umfeld von Polyamor (Fridget Spinner 044) und oft b2b mit Justin Tinderdate.",
+   "en": "Elotrance is a DJ from Germany who mostly plays in Berlin, Vienna, Cologne, Hamburg and Nuremberg. Her style mixes groovy techno with bouncy, trancey elements. She recorded Fridget Spinner 044 for Polyamor Records and often plays b2b with Justin Tinderdate."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Techno",
+   "Trance"
+  ],
+  "sets": [
+   {
+    "t": "Elotrance b2b Justin Tinderdate @ Hafen 49 (06.07.2025)",
+    "u": "https://soundcloud.com/elo_trance/elotrance-b2b-justin-tinderdate-hafen-49-06072025"
+   },
+   {
+    "t": "EloTrance B2B Justin Tinderdate (Radio Rudina)",
+    "u": "https://soundcloud.com/radiorudina/elotrance-b2b-justin-tinderdate-radio-rudina"
+   },
+   {
+    "t": "Fridget Spinner 044: EloTrance",
+    "u": "https://soundcloud.com/polyamor-berlin/fridget-spinner-044-elotrance"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/elotrance",
+   "https://soundcloud.com/elo_trance",
+   "https://ra.co/events/2266729"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Justin Tinderdate": {
+  "img": "https://static.ra.co/images/profiles/square/justintinderdate.jpg?dateUpdated=1659517229000",
+  "links": {
+   "ra": "https://ra.co/dj/justintinderdate",
+   "sc": "https://soundcloud.com/justin_tinderdate",
+   "ig": "https://www.instagram.com/justin_tinderdate",
+   "bc": "https://justintinderdate.bandcamp.com"
+  },
+  "bio": {
+   "de": "Justin Tinderdate ist ein DJ und Produzent aus Deutschland, oft auf Trance-Events wie „I Love Trance“ oder „Sachsentrance“ gebucht. Er spielte u. a. einen Boiler Room im Gotec Karlsruhe (2024), bei Revier Südost Berlin und Tresor West Dortmund. Mixe erschienen u. a. für Polyamor Records (Fridget Spinner), BCCO und Warning.",
+   "en": "Justin Tinderdate is a DJ and producer from Germany, frequently booked for trance events such as I Love Trance and Sachsentrance. He has played a Boiler Room at Gotec Karlsruhe (2024), Revier Südost Berlin and Tresor West Dortmund. He has recorded mixes for Polyamor Records (Fridget Spinner), BCCO and Warning."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Low Income $quad"
+  ],
+  "genres": [
+   "Trance",
+   "Techno"
+  ],
+  "alias": [
+   "Pablo Pepstasy"
+  ],
+  "sets": [
+   {
+    "t": "Boiler Room @ Gotec, Karlsruhe, October 2024",
+    "u": "https://soundcloud.com/justin_tinderdate/boiler-room-gotec-karlsruhe-october-2024"
+   },
+   {
+    "t": "BCCO Mix Series 513: Justin Tinderdate",
+    "u": "https://soundcloud.com/bcco/bcco-mix-series-513-justin-tinderdate"
+   },
+   {
+    "t": "Revier Südost, 13.11.2022, Berlin (Live Recording)",
+    "u": "https://soundcloud.com/justin_tinderdate/revier-sudost-13112022-berlin-live-recording"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/justintinderdate",
+   "https://soundcloud.com/justin_tinderdate",
+   "https://soundcloud.com/lowincomesquad/justin-tinderdate-work-bch"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Chaya": {
+  "img": "https://static.ra.co/images/profiles/square/chaya-at.jpg?dateUpdated=1793032073647",
+  "links": {
+   "ra": "https://ra.co/dj/chaya-at",
+   "sc": "https://soundcloud.com/djchaya"
+  },
+  "bio": {
+   "de": "CHAYA ist eine in Wien ansässige DJ, die Trance, Ambient und Experimentelles erkundet. Ihre Sets bewegen sich zwischen hypnotischer Intensität und zerbrechlicher Schönheit.",
+   "en": "CHAYA is a Vienna-based DJ exploring trance, ambient and experimental music. Her sets move between hypnotic intensity and fragile beauty."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Trance",
+   "Ambient",
+   "Experimental"
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/chaya-at"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Armin Herrmann": {
+  "img": "https://static.ra.co/images/profiles/square/arminhermann.jpg?dateUpdated=1736169446000",
+  "links": {
+   "ra": "https://ra.co/dj/arminhermann",
+   "sc": "https://soundcloud.com/arminhermann",
+   "ig": "https://www.instagram.com/arminhermann_"
+  },
+  "bio": {
+   "de": "Armin Hermann ist ein DJ und Produzent aus Österreich, der vor allem in Wien und Berlin auflegt. Releases erschienen u. a. auf Powertrance.",
+   "en": "Armin Hermann is a DJ and producer from Austria who mostly plays in Vienna and Berlin. He has released on Powertrance, among others."
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "labels": [
+   "Powertrance"
+  ],
+  "genres": [
+   "Trance"
+  ],
+  "alias": [
+   "Armin Hermann"
+  ],
+  "sets": [
+   {
+    "t": "ARMIN HERMANN [SET RECORDING 24.01] (Pink Mayhem)",
+    "u": "https://soundcloud.com/pinkmayhem/armin-hermann-set-recording-2401"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/arminhermann",
+   "https://soundcloud.com/powertrancerec/armin-hermann-back-to-the-vibe"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Saytek": {
+  "img": "https://static.ra.co/images/profiles/square/saytek.jpg?dateUpdated=1789147174903",
+  "links": {
+   "ra": "https://ra.co/dj/saytek",
+   "sc": "https://soundcloud.com/saytek",
+   "ig": "https://www.instagram.com/saytek_live"
+  },
+  "bio": {
+   "de": "Saytek ist ein britischer Live-Act aus London, der seit 2003 komplett improvisierte, maschinenbasierte Techno-Live-Sets spielt. Releases erschienen u. a. auf Bedrock, fabric, Soma, Liebe*Detail, R&S und Cubism. Seit 2019 ist er jedes Jahr in den FAZEmag-Top-20-Live-Acts vertreten.",
+   "en": "Saytek is a UK live act from London who has performed fully improvised, machine-driven techno live sets since 2003. He has released on Bedrock, fabric, Soma, Liebe*Detail, R&S and Cubism, among others. He has been ranked in FAZEmag's Top 20 Live Acts every year since 2019."
+  },
+  "from": {
+   "de": "London",
+   "en": "London"
+  },
+  "labels": [
+   "Bedrock Records",
+   "fabric Records",
+   "Soma Records",
+   "Wiggle",
+   "Trax Records",
+   "Liebe*Detail",
+   "KMS",
+   "R&S Records",
+   "Cubism",
+   "Superfreq Records"
+  ],
+  "genres": [
+   "Techno",
+   "Live"
+  ],
+  "real": "Joseph Keevill",
+  "sets": [
+   {
+    "t": "Live Performance At Rave The Planet 2026 (Human Colours Float)",
+    "u": "https://soundcloud.com/saytek/live-at-rave-the-planet"
+   },
+   {
+    "t": "Saytek Live Performance at Awakenings ADE",
+    "u": "https://soundcloud.com/saytek/saytek-live-performance-at-awakenings"
+   },
+   {
+    "t": "fabric podcast 015: Saytek (Live)",
+    "u": "https://soundcloud.com/fabric/015-saytek-live-fabric-podcast"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/saytek",
+   "https://soundcloud.com/saytek"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Drakk": {
+  "img": "https://static.ra.co/images/profiles/square/drakk.jpg?dateUpdated=1643798382000",
+  "links": {
+   "ra": "https://ra.co/dj/drakk",
+   "sc": "https://soundcloud.com/drakkofficial",
+   "ig": "https://www.instagram.com/drakkofficial",
+   "bc": "https://drakk.bandcamp.com",
+   "web": "https://solo.to/drakkofficial"
+  },
+  "bio": {
+   "de": "DRAKK ist ein Produzent und DJ aus dem Santa Clara Valley (USA), der Industrial Techno spielt. Sein Sound setzt auf starke Verzerrung, pulsierende Rhythmen und düstere Atmosphäre. Releases erschienen u. a. auf Kontor, Hardwandler Records und Neoacid.",
+   "en": "DRAKK is a producer and DJ from the Santa Clara Valley (USA) playing industrial techno. His sound centers on heavy distortion, pulsing rhythms and a dark atmosphere. He has released on Kontor, Hardwandler Records and Neoacid, among others."
+  },
+  "from": {
+   "de": "Santa Clara Valley, USA",
+   "en": "Santa Clara Valley, USA"
+  },
+  "labels": [
+   "Kontor",
+   "Hardwandler Records",
+   "Neoacid",
+   "Dstm"
+  ],
+  "genres": [
+   "Industrial Techno",
+   "Hard Techno"
+  ],
+  "real": "Shayan Mirzadeh",
+  "sets": [
+   {
+    "t": "DRAKK - Underworld Essential Mix 009",
+    "u": "https://soundcloud.com/drakkofficial/drakk-underworld-essential-mix-10"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/drakk",
+   "https://soundcloud.com/drakkofficial"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Alci": {
+  "img": "https://static.ra.co/images/profiles/alci.jpg?dateUpdated=1762163206537",
+  "links": {
+   "ra": "https://ra.co/dj/alci",
+   "sc": "https://soundcloud.com/alci",
+   "ig": "https://www.instagram.com/alcimusiq",
+   "bc": "https://alcimusiq.bandcamp.com",
+   "web": "https://www.alcimusiq.com"
+  },
+  "bio": {
+   "de": "Alci ist ein DJ und Produzent aus der Schweiz, der vor allem in Zürich, Amsterdam, London und Barcelona auflegt. Releases erschienen u. a. auf Cadenza, Robsoul, Meander, Apollonia und Mormorio Records.",
+   "en": "Alci is a DJ and producer from Switzerland who mostly plays in Zurich, Amsterdam, London and Barcelona. He has released on Cadenza, Robsoul, Meander, Apollonia and Mormorio Records, among others."
+  },
+  "from": {
+   "de": "Schweiz",
+   "en": "Switzerland"
+  },
+  "labels": [
+   "Cadenza Records",
+   "Robsoul Recordings",
+   "Meander",
+   "Nervmusic Records",
+   "Apollonia",
+   "æternum music",
+   "Infuse",
+   "Seeingsounds",
+   "Mormorio Records"
+  ],
+  "alias": [
+   "Shaolin Fantastic"
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/alci"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Merge": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
  }
 };
 
