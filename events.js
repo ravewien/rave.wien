@@ -5408,7 +5408,10 @@ const VI={
   "io": [
    "Indoor"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "logo": "https://vorteilsclub.wien.at/file/vorteilsclub/partner/logo-image/logo-image_sass-music-club.5d005c62855e8d0243bdb2c27012cc61.jpeg",
+  "logoBg": "#ffffff",
+  "man": 1
  },
  "PRST": {
   "alias": [
@@ -5712,7 +5715,9 @@ const VI={
    "Main Floor",
    "Flex Café"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "logo": "https://flex.at/wp-content/uploads/2022/05/Flex-Logo-weiss.svg",
+  "man": 1
  },
  "Ottakringer Brauerei": {
   "src": [
@@ -5733,7 +5738,9 @@ const VI={
   "en": "Traditional brewery in Ottakring whose historic brewing halls (incl. Hefeboden, Alte Technik) serve as an event venue for corporate and private events, seminars and club nights, plus an outdoor area of around 1,000 m².",
   "web": "https://www.ottakringerbrauerei.at",
   "infoChk": "2026-11-02",
-  "opened": "1837"
+  "opened": "1837",
+  "logo": "https://schoenborngasse.vbs.ac.at/wp-content/uploads/sites/14/2022/11/ottakringer-brauerei-logo-768x768.jpg",
+  "man": 1
  },
  "Lugner City": {
   "src": [
@@ -5767,7 +5774,9 @@ const VI={
    "Club Floor"
   ],
   "infoChk": "2026-11-02",
-  "opened": "1980"
+  "opened": "1980",
+  "logo": "https://falco.net/wp-content/uploads/2017/01/u4logo-1-678x381.jpg",
+  "man": 1
  },
  "Funkhaus": {
   "src": [
@@ -6042,7 +6051,9 @@ const VI={
   "residents": [
    "chris deeper"
   ],
-  "resSrc": "https://ra.co/events/2306531"
+  "resSrc": "https://ra.co/events/2306531",
+  "logo": "https://theinnercircle.at/circlelogo.svg",
+  "man": 1
  },
  "Fanialive Wien": {
   "de": "Location in den U-Bahn-Bögen am Gürtel (1080 Wien), in der u. a. Clubnächte mit lateinamerikanischer elektronischer Musik stattfinden.",
