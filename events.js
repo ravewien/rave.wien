@@ -8937,7 +8937,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/prismode",
    "ig": "https://www.instagram.com/prismode",
-   "web": "http://prismode.com"
+   "web": "http://prismode.com",
+   "ra": "https://ra.co/dj/prismode-de"
   },
   "src": [
    "https://ra.co/dj/prismode-de"
@@ -8948,7 +8949,9 @@ const AR={
     "u": "https://soundcloud.com/ritter-butzke/prismode-solvane-at-feel-festival-2017"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/prismode-de.jpg?dateUpdated=1458607070337",
+  "infoChk": "2026-11-04"
  },
  "NTO": {
   "links": {
@@ -9095,10 +9098,12 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/solvane",
    "ig": "https://www.instagram.com/IamSolvane",
-   "web": "http://www.solvane.de"
+   "web": "http://www.solvane.de",
+   "ra": "https://ra.co/dj/solvane"
   },
   "src": [
-   "https://de.ra.co/dj/solvane"
+   "https://de.ra.co/dj/solvane",
+   "https://ra.co/dj/solvane/tour-dates"
   ],
   "sets": [
    {
@@ -9106,7 +9111,17 @@ const AR={
     "u": "https://soundcloud.com/ritter-butzke/prismode-solvane-at-feel-festival-2017"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/solvane.jpg?dateUpdated=1490726448990",
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "bio": {
+   "de": "Solvane ist ein in Berlin ansässiger Act, der laut RA emotionale elektronische Musik zwischen House und Techno macht; spielt regelmäßig gemeinsam mit Prismode, u. a. im Ritter Butzke.",
+   "en": "Solvane is a Berlin-based act making, according to RA, emotional electronic music spanning house and techno; plays regularly together with Prismode, including at Ritter Butzke."
+  },
+  "infoChk": "2026-11-04"
  },
  "Cara Elizabeth": {
   "links": {
