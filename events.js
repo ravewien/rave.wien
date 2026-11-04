@@ -829,9 +829,19 @@ const CG={
   "Deep Tech",
   "Tech House",
   "Deep House"
+ ],
+ "Herrensauna": [
+  "Techno"
+ ],
+ "Cosmic Space Disco": [
+  "Psytrance"
+ ],
+ "Duality": [
+  "Techno",
+  "Hard Techno"
  ]
 };
-const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Bassbussi","Bassclub","Bassproduction","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","BLUR","Bonkers","Bouncylicious","Café Mondo","Callshop Radio","Cardio Cult","CIVIC","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","CPE","created-on-earth","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Deep Dive","Der Radio","Derisch","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","Empyreon","Endless Grooves","Entrance","euphonic records","Euphoria","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","Fractal Fusion","Freeride Millenium","Frieden & Liebe","Fuelized","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herzfrequenz","HERZZZ","High Voltage Fairies","Hit It Hard","Homebase","House of Ludic","House of Plüsch","Housetiere","Im Freudentaumel","Impulse","Jah Power Sound","Jeez Louise","Journey to Tarab","Kaisa Bodega","KARTELL.FM","KISSEN","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","Löwenzahn","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Mind Entertainment","Mixed","Monochrom","Morgengymnastik","Nachtschub","Nine O Nine","Ninecircles","Paradies Garten","Park It Here","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Pole Circle","Ponyhof","Praternostra","Psytrance Universe","Purradox","PUSH","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Red Groove Social Club","Redivider","Resonance Social Artists","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","SIGNAL","SIN","Slutlabs","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spectral","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Switch!","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tohuwabohu","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Untz Baby Untz","up/or","Verknallt","VG+","VIE.W","Vienn_a_Tek","Vision Serpent","VLAN","VNV","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Xperiment","YE","YN Collective","Zuckerwatt","Zyklop Audio"];
+const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Baseline","Bassbussi","Bassclub","Bassproduction","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","BLUR","Bonkers","Bouncylicious","Café Mondo","Callshop Radio","Cardio Cult","CIVIC","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Deep Dive","Der Radio","Derisch","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","Empyreon","Endless Grooves","Entrance","euphonic records","Euphoria","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","Fractal Fusion","Freeride Millenium","Frieden & Liebe","Fuelized","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Voltage Fairies","Hit It Hard","Homebase","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Im Freudentaumel","Impulse","Jah Power Sound","Jeez Louise","Journey to Tarab","Kaisa Bodega","KARTELL.FM","KISSEN","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","Löwenzahn","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Mind Entertainment","Mixed","Monochrom","Morgengymnastik","Nachtschub","Nine O Nine","Ninecircles","Paradies Garten","Park It Here","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Pole Circle","Ponyhof","Praternostra","Psytrance Universe","Purradox","PUSH","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Red Groove Social Club","Redivider","Resonance Social Artists","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","SIGNAL","SIN","Slutlabs","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spectral","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Untz Baby Untz","up/or","Verknallt","VG+","VIE.W","Vienn_a_Tek","Vision Serpent","VLAN","VNV","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Xperiment","YE","YN Collective","Zuckerwatt","Zyklop Audio"];
 const CI={
  "303": {
   "noLogo": "2026-11-02",
@@ -4219,6 +4229,99 @@ const CI={
   "en": "Numbered series at Kramladen (up to at least vol. 14).",
   "infoChk": "2026-11-03",
   "noLogo": "2026-11-03"
+ },
+ "Herrensauna": {
+  "de": "Queere Techno-Party aus Berlin, 2015 von den DJs CEM und MCMLXXXV gegründet und seit 2017 im Tresor zu Hause; steht für harten, schnellen Techno und betreibt ein eigenes Label. In Wien gemeinsame Nächte mit der Reihe Euphoria, etwa in der Pratersauna (2025).",
+  "en": "Queer techno party from Berlin, founded in 2015 by DJs CEM and MCMLXXXV and based at Tresor since 2017; known for hard, fast techno and runs its own label. In Vienna it has held joint nights with the Euphoria series, e.g. at Pratersauna (2025).",
+  "type": [
+   "Kollektiv"
+  ],
+  "founded": "2015",
+  "from": "Berlin",
+  "src": [
+   "https://ra.co/events/2276635",
+   "https://ra.co/news/73179",
+   "https://boilerroom.tv/article/hard-dance-herrensauna-cultivating-chaos"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Symbiotikka": {
+  "de": "Berliner Fetisch-Technoparty mit Heimat im KitKatClub, laut Veranstaltern seit über sechs Jahren (Stand 2023), mit international bekannten DJs und Dresscode in Richtung Fetisch (Latex, Leder, Gummi). 2023 Gastspiel im Amnesia auf Ibiza, im Dezember 2025 zu Gast in der Wiener Pratersauna.",
+  "en": "Berlin fetish techno party based at KitKatClub, running for over six years according to the organisers (as of 2023), with internationally known DJs and a fetish-leaning dress code (latex, leather, rubber). Guest edition at Amnesia Ibiza in 2023 and at Vienna's Pratersauna in December 2025.",
+  "from": "Berlin",
+  "ig": "https://www.instagram.com/symbiotikka/",
+  "src": [
+   "https://thefestivals.uk/symbiotikka-amnesia/",
+   "https://ra.co/promoters/102845",
+   "https://www.instagram.com/symbiotikka/channel/"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Techno Komet": {
+  "de": "Wiener Techno-Veranstalter mit Events seit mindestens 2021 an wechselnden Orten – Usus am Wasser, Ottakringer Brauerei, Pratersauna und Grelle Forelle – und Gästen wie Umek, Annika Stein und Kim She; dazu das Format „Female Authority“ mit rein weiblichen Line-ups.",
+  "en": "Viennese techno promoter running events since at least 2021 at changing venues – Usus am Wasser, Ottakringer Brauerei, Pratersauna and Grelle Forelle – with guests such as Umek, Annika Stein and Kim She, plus the “Female Authority” format with all-female line-ups.",
+  "type": [
+   "Promoter"
+  ],
+  "from": "Wien",
+  "ig": "https://www.instagram.com/technokomet.official/",
+  "src": [
+   "https://ra.co/events/1539228",
+   "https://ohschonhell.at/date/usus-am-wasser-wien-01-10-2021-techno-komet-sommerschluss-ein-letztes-open-air",
+   "https://ohschonhell.at/date/pratersauna-vienna-25-11-2022-techno-komet-pres-kim-she-female-authority",
+   "https://ohschonhell.at/date/grelle-forelle-vienna-28-07-2023-techno-komet-against-patriarchy-grelle-forelle",
+   "https://www.facebook.com/TechnoKomet.official/"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Duality": {
+  "de": "Wiener Techno-Reihe auf zwei Floors zwischen Minimal Techno und Hard Techno („Zwischen zwei Welten gefangen sein“); 2023 von Hausgemacht veranstaltet, u. a. in The Loft und in der Grelle Forelle, 2024 als Duality x Demolate in der Grelle Forelle.",
+  "en": "Viennese techno series on two floors between minimal techno and hard techno (“being caught between two worlds”); run by Hausgemacht in 2023, e.g. at The Loft and Grelle Forelle, and in 2024 as Duality x Demolate at Grelle Forelle.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "src": [
+   "https://es.ra.co/events/1666236",
+   "https://ohschonhell.at/date/grelle-forelle-vienna-12-08-2023-duality-3",
+   "https://ohschonhell.at/date/grelle-forelle-vienna-03-05-2024-duality-x-demolate"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Cosmic Space Disco": {
+  "de": "Wiener Psytrance-Reihe, die im April 2017 ihr zehnjähriges Bestehen feierte; auf der Space Stage laufen Progressive Psy, Full-On und Psytrance. Ausgaben fanden u. a. im Planetarium, in der Pratersauna, der Kantine, im WUK und in der Grelle Forelle statt.",
+  "en": "Viennese psytrance series that celebrated its tenth anniversary in April 2017; the Space Stage features progressive psy, full-on and psytrance. Editions have taken place at the Planetarium, Pratersauna, Kantine, WUK and Grelle Forelle, among others.",
+  "type": [
+   "Reihe"
+  ],
+  "founded": "2007",
+  "foundedNote": 1,
+  "from": "Wien",
+  "src": [
+   "https://www.vienna.at/cosmic-space-disco-feiert-10-geburtstag/5235655"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Crisp": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Baseline": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Toner": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Housebesuch": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
  }
 };
 const VI={
