@@ -34816,6 +34816,186 @@ const AR={
   ],
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04"
+ },
+ "YīN YīN": {
+  "img": "https://static.ra.co/images/profiles/yinyin.jpg?dateUpdated=1565880370000",
+  "links": {
+   "ra": "https://ra.co/dj/yinyin",
+   "sc": "https://soundcloud.com/yinyinband"
+  },
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "labels": [
+   "Interceptor Editions",
+   "Coaster Records"
+  ],
+  "bio": {
+   "de": "Niederländisches Duo aus Kees Berkers und Yves Lennertz, das seit 2017 gemeinsam Musik macht. Beide sind Plattensammler; ihr Sound verbindet südostasiatische Musik der 1960er und 1970er mit Disco, Funk und elektronischen Einflüssen. Das Debüt-Tape „Pingpxng“ erschien 2018 auf Coaster Records und Interceptor Editions.",
+   "en": "Dutch duo of Kees Berkers and Yves Lennertz, making music together since 2017. Both are record collectors; their sound blends 1960s and 1970s Southeast Asian music with disco, funk and electronic influences. Their debut tape “Pingpxng” came out in 2018 on Coaster Records and Interceptor Editions."
+  },
+  "src": [
+   "https://ra.co/dj/yinyin/biography",
+   "https://soundcloud.com/yinyinband/dis-k-dis-k-16b-44k-hedd-tube"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "EXOS": {
+  "img": "https://static.ra.co/images/profiles/square/exos.jpg?dateUpdated=1559122256000",
+  "links": {
+   "ra": "https://ra.co/dj/exos",
+   "sc": "https://soundcloud.com/exos",
+   "ig": "https://www.instagram.com/exos_____",
+   "bc": "https://planetxsociety.bandcamp.com",
+   "web": "https://www.pointcollective.net/artists/exos"
+  },
+  "from": {
+   "de": "Island",
+   "en": "Iceland"
+  },
+  "labels": [
+   "Planet X",
+   "Force Inc. Music Works",
+   "Thule",
+   "Trip",
+   "Berg Audio",
+   "Solid Groove"
+  ],
+  "bio": {
+   "de": "Exos zählt seit Mitte der 1990er zu den erfahrensten Techno-Künstlern Islands. Er veröffentlichte u. a. auf Force Inc. Music Works, Thule, Trip und Berg Audio und gründete 2019 sein eigenes Label Planet X.",
+   "en": "Exos has been one of Iceland's most experienced techno artists since the mid-nineties. He has released on labels such as Force Inc. Music Works, Thule, Trip and Berg Audio and launched his own label Planet X in 2019."
+  },
+  "sets": [
+   {
+    "t": "#SlamRadio 226 – Exos (Best of 2016 mix)",
+    "u": "https://soundcloud.com/slam_djs/slamradio-226-exos-best-of-2016-mix"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/exos"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Ketarina": {
+  "img": "https://static.ra.co/images/profiles/square/ketarina.jpg?dateUpdated=1744828930897",
+  "links": {
+   "ra": "https://ra.co/dj/ketarina",
+   "sc": "https://soundcloud.com/ketarinaaa",
+   "ig": "https://www.instagram.com/ketarinaaa"
+  },
+  "from": {
+   "de": "Portugal",
+   "en": "Portugal"
+  },
+  "bio": {
+   "de": "In Portugal ansässige DJ, die hypnotische Grooves mit überraschender Trackauswahl verbindet. Seit 2017 aktiv, spielt sie vor allem in Lissabon, Berlin und Paris.",
+   "en": "Portugal-based DJ combining hypnotic grooves with surprising track selections. Active since 2017, she plays mostly in Lisbon, Berlin and Paris."
+  },
+  "sets": [
+   {
+    "t": "RAWCAST253 • Ketarina",
+    "u": "https://soundcloud.com/rawppl/rawcast253-ketarina"
+   },
+   {
+    "t": "HÖR Set – Ketarina",
+    "u": "https://soundcloud.com/ketarinaaa/hor-set-ketarina"
+   },
+   {
+    "t": "Ketarina – Radio Rudina",
+    "u": "https://soundcloud.com/radiorudina/ketarina-radio-rudina"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/ketarina"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Works Of Intent": {
+  "img": "https://static.ra.co/images/profiles/square/rosh.jpg?dateUpdated=1740450200367",
+  "alias": [
+   "R.O.S.H."
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/rosh",
+   "sc": "https://soundcloud.com/worksofintent",
+   "ig": "https://www.instagram.com/worksofintent",
+   "bc": "https://worksofintent.bandcamp.com",
+   "web": "https://beacons.ai/worksofintent"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "labels": [
+   "Turbo Recordings",
+   "Rekids",
+   "Monkeytown Records",
+   "Obscura",
+   "Cod3 QR"
+  ],
+  "bio": {
+   "de": "Britischer Techno-Produzent und Autor, der bis 2021 als R.O.S.H. auftrat. Sein Motto lautet „dance music that hurts“; Releases erschienen u. a. auf Turbo Recordings, Rekids, Monkeytown und Cod3 QR.",
+   "en": "UK techno producer and writer who performed as R.O.S.H. until 2021. His motto is “dance music that hurts”; releases have come out on Turbo Recordings, Rekids, Monkeytown and Cod3 QR, among others."
+  },
+  "sets": [
+   {
+    "t": "EPM Podcast #153 – Works Of Intent, Live @ fabric",
+    "u": "https://soundcloud.com/epm-music/epm-podcast-153-works-of-intent"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/rosh"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Plea5urepul5e": {
+  "img": "https://static.ra.co/images/profiles/square/plea5urepul5e.jpg?dateUpdated=1770113884000",
+  "links": {
+   "ra": "https://ra.co/dj/plea5urepul5e",
+   "sc": "https://soundcloud.com/plea5urepul5e"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "src": [
+   "https://ra.co/dj/plea5urepul5e",
+   "https://soundcloud.com/plea5urepul5e"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Objectiv": {
+  "from": {
+   "de": "Bristol, Vereinigtes Königreich",
+   "en": "Bristol, United Kingdom"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Drum-&-Bass-Produzent und DJ aus Bristol. Er spielte u. a. bei „30 Years of Playaz“ in London und veröffentlichte Tracks auf Flexout Audio.",
+   "en": "Drum & bass producer and DJ from Bristol. He has played events such as “30 Years of Playaz” in London and released tracks on Flexout Audio."
+  },
+  "labels": [
+   "Flexout Audio"
+  ],
+  "src": [
+   "https://www.viberate.com/artist/objectiv",
+   "https://ra.co/events/2357444",
+   "https://soundcloud.com/flexoutaudio/objectiv-fading"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Penelope": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
  }
 };
 
