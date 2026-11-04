@@ -8344,10 +8344,12 @@ const AR={
  "Elah": {
   "links": {
    "sc": "https://soundcloud.com/awkwardendeavor",
-   "ig": "https://www.instagram.com/awkwardendeavor"
+   "ig": "https://www.instagram.com/awkwardendeavor",
+   "ra": "https://ra.co/dj/elah"
   },
   "src": [
-   "https://de.ra.co/dj/elah"
+   "https://ra.co/dj/elah",
+   "https://ra.co/dj/elah/biography"
   ],
   "sets": [
    {
@@ -8355,7 +8357,25 @@ const AR={
     "u": "https://soundcloud.com/awkwardendeavor/bar-mix"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/elah.jpg?dateUpdated=1770248213580",
+  "from": {
+   "de": "Wien (aufgewachsen in Augsburg)",
+   "en": "Vienna (grew up in Augsburg)"
+  },
+  "alias": [
+   "Awkward Endeavor"
+  ],
+  "genres": [
+   "Techno",
+   "Tech House",
+   "Breakbeat"
+  ],
+  "bio": {
+   "de": "In Wien lebende DJ und Produzentin, aufgewachsen im Augsburger Textilviertel. Mitglied des Kollektivs RAW Session; ihre Sets verbinden Techno, Tech House und Breakbeat. Auch unter dem Namen Awkward Endeavor aktiv.",
+   "en": "Vienna-based DJ and producer who grew up in Augsburg's Textile District. Part of the RAW Session collective; her sets blend techno, tech house and breakbeat. Also active as Awkward Endeavor."
+  },
+  "infoChk": "2026-11-04"
  },
  "Solvane": {
   "links": {
@@ -43464,6 +43484,691 @@ const AR={
   },
   "src": [
    "https://ra.co/dj/rooleh"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Falabella": {
+  "from": {
+   "de": "Graz (Postgarage)",
+   "en": "Graz (Postgarage)"
+  },
+  "bio": {
+   "de": "DJ aus dem Umfeld der Grazer Postgarage; spielte 2025 gemeinsam mit Martin Freudentanz bei FLASHBACK Techno Classics in der Grellen Forelle.",
+   "en": "DJ from the circle of Graz's Postgarage; played FLASHBACK Techno Classics at Grelle Forelle in 2025 together with Martin Freudentanz."
+  },
+  "src": [
+   "https://ra.co/events/2180147"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "JAEL": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Cougar": {
+  "genres": [
+   "Psytrance"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Misaya": {
+  "links": {
+   "sc": "https://soundcloud.com/misayaofficial"
+  },
+  "genres": [
+   "Progressive Psytrance",
+   "Full-On"
+  ],
+  "bio": {
+   "de": "Psytrance-Projekt, inspiriert von den frühen Psy-Produzenten: Progressive Psy mit Full-On-Einflüssen, das die spirituelle Reise des Lebens auf den Trancefloor übertragen will. Releases u. a. „Back to the Future“ und auf „Goa, Vol. 78“.",
+   "en": "Psytrance project inspired by the early psy producers: progressive psy with touches of full-on, aiming to translate life's spiritual journey to the trancefloor. Releases include \"Back to the Future\" and a track on \"Goa, Vol. 78\"."
+  },
+  "sets": [
+   {
+    "t": "Psychedelic Woods Records Podcast #4 with Misaya",
+    "u": "https://soundcloud.com/psychedelic-woods-records/podcast-4-with-misaya"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://beatport.com/artist/misaya/1026525",
+   "https://ra.co/events/2170582"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Progtamin": {
+  "links": {
+   "sc": "https://soundcloud.com/progtamin"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Progressive Psytrance"
+  ],
+  "bio": {
+   "de": "Wiener Psytrance-DJ mit Schwerpunkt auf Progressive; spielte u. a. bei Deeprog Tuesdays im Flex, am Donauinselfest 2022 (Summerstation) und bei Cosmic Space Disco in der Pratersauna.",
+   "en": "Vienna psytrance DJ focusing on progressive; has played Deeprog Tuesdays at Flex, Donauinselfest 2022 (Summerstation) and Cosmic Space Disco at Pratersauna."
+  },
+  "sets": [
+   {
+    "t": "Progtamin @Donauinselfest 2022 \"SUMMERSTATION\" #Vienna",
+    "u": "https://soundcloud.com/progtamin/progtamin-donauinselfest-2022-summerstation-vienna"
+   },
+   {
+    "t": "Progtamin @COSMIC SPACE DISCO - Herbst Special @PRATERSAUNA #Vienna",
+    "u": "https://soundcloud.com/progtamin/progtamin-cosmic-space-disco-herbst-special-pratersauna-vienna"
+   },
+   {
+    "t": "Progtamin @Deeprog Tuesdays Part 4 @FLEX #Vienna",
+    "u": "https://soundcloud.com/progtamin/progtamin-deeprog-tuesdays-part-4-flex-vienna"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/progtamin"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Oblix": {
+  "genres": [
+   "Psytrance"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Serex": {
+  "genres": [
+   "Psytrance"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Marakame": {
+  "genres": [
+   "Psytrance"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Agnya": {
+  "genres": [
+   "Psytrance"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Karam J": {
+  "genres": [
+   "Psytrance"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Camsis": {
+  "links": {
+   "sc": "https://soundcloud.com/camsis"
+  },
+  "labels": [
+   "Vantara Vichitra Records"
+  ],
+  "genres": [
+   "Psytrance"
+  ],
+  "bio": {
+   "de": "Psytrance-Act aus dem Umfeld von Vantara Vichitra Records; tritt auch im Duo Insano & Camsis auf (u. a. Parvati Label Night Vienna).",
+   "en": "Psytrance act associated with Vantara Vichitra Records; also performs as the duo Insano & Camsis (e.g. Parvati Label Night Vienna)."
+  },
+  "sets": [
+   {
+    "t": "Parvati Label Night Vienna (Insano & Camsis)",
+    "u": "https://soundcloud.com/insanocamsis/parvati-label-night-vienna"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/camsis",
+   "https://soundcloud.com/insanocamsis"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Cook Strummer": {
+  "img": "https://static.ra.co/images/profiles/square/cookstrummer.jpg?dateUpdated=1539166973000",
+  "links": {
+   "ra": "https://ra.co/dj/cookstrummer",
+   "sc": "https://www.soundcloud.com/cook-strummer",
+   "ig": "https://www.instagram.com/cookstrummer"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Get Physical Music",
+   "Moodmusic",
+   "Stil vor Talent",
+   "LOK Recordings",
+   "Radikon",
+   "HOUPH"
+  ],
+  "bio": {
+   "de": "Deutscher DJ und Produzent mit Releases u. a. auf Get Physical, Moodmusic und Stil vor Talent. Spielt vor allem in Berlin (Kater, Renate, Polygon), Barcelona und Istanbul und inszeniert seine Auftritte mit Strobe- und Licht-Visuals.",
+   "en": "German DJ and producer with releases on Get Physical, Moodmusic and Stil vor Talent among others. Plays mostly in Berlin (Kater, Renate, Polygon), Barcelona and Istanbul, staging his performances with strobe and light visuals."
+  },
+  "src": [
+   "https://ra.co/dj/cookstrummer"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Paige Tomlinson": {
+  "img": "https://static.ra.co/images/profiles/square/paigetomlinson.jpg?dateUpdated=1778101893797",
+  "links": {
+   "ra": "https://ra.co/dj/paigetomlinson",
+   "sc": "https://www.soundcloud.com/paigetomlinsondj",
+   "ig": "https://www.instagram.com/paigetomlinson_dj"
+  },
+  "from": {
+   "de": "Großbritannien",
+   "en": "United Kingdom"
+  },
+  "labels": [
+   "Social Pleasure"
+  ],
+  "bio": {
+   "de": "Britische DJ und Betreiberin von Eventreihe und Label Social Pleasure. Spielt vor allem in London, Amsterdam, Ibiza, Liverpool und Manchester, u. a. im Eden und Amnesia Ibiza.",
+   "en": "UK DJ and owner of the event series and label Social Pleasure. Plays mostly in London, Amsterdam, Ibiza, Liverpool and Manchester, including Eden and Amnesia Ibiza."
+  },
+  "src": [
+   "https://ra.co/dj/paigetomlinson"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Zisko": {
+  "img": "https://static.ra.co/images/profiles/square/zisko.jpg?dateUpdated=1664963392000",
+  "links": {
+   "ra": "https://ra.co/dj/zisko",
+   "sc": "https://www.soundcloud.com/ziskomusic",
+   "bc": "https://ziskomusic.bandcamp.com",
+   "ig": "https://www.instagram.com/ziskomusic"
+  },
+  "from": {
+   "de": "Argentinien",
+   "en": "Argentina"
+  },
+  "alias": [
+   "Oksiz",
+   "Iksoz"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Suara",
+   "Gomboc Records",
+   "MATERIA",
+   "Bipolar Disorder",
+   "LABURNUM Records",
+   "Secta"
+  ],
+  "bio": {
+   "de": "Argentinischer Techno-DJ und Produzent mit Releases u. a. auf Suara, Gomboc Records und MATERIA. Spielt international, etwa im Berghain, Bassiani und Crobar Buenos Aires.",
+   "en": "Argentinian techno DJ and producer with releases on Suara, Gomboc Records and MATERIA among others. Plays internationally, including Berghain, Bassiani and Crobar Buenos Aires."
+  },
+  "src": [
+   "https://ra.co/dj/zisko"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Pascal Moscheni": {
+  "img": "https://static.ra.co/images/profiles/square/pascalmoscheni.jpg?dateUpdated=1727430510000",
+  "links": {
+   "ra": "https://ra.co/dj/pascalmoscheni",
+   "sc": "https://www.soundcloud.com/pascalmoscheni"
+  },
+  "from": {
+   "de": "Spanien",
+   "en": "Spain"
+  },
+  "labels": [
+   "Public Possession",
+   "Polifonic",
+   "Ears On Earth"
+  ],
+  "genres": [
+   "House"
+  ],
+  "bio": {
+   "de": "DJ, der italienischen Dream House mit perkussiven Rhythmen, Acid und Trance verbindet. Resident beim Polifonic-Festival und Macher der Reihe „Snacks“ im Pacha Ibiza; Releases u. a. auf Public Possession.",
+   "en": "DJ blending Italian dream house with percussive rhythms, acid and trance. Resident at Polifonic festival and runs the \"Snacks\" series at Pacha Ibiza; releases on Public Possession among others."
+  },
+  "src": [
+   "https://ra.co/dj/pascalmoscheni"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Peletronicc": {
+  "alias": [
+   "Peletronic"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/peletronic",
+   "sp": "https://open.spotify.com/artist/2ITHfPdkN6uf4qk26uOicE"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "House",
+   "Electro",
+   "Techno"
+  ],
+  "labels": [
+   "Fortunea Records"
+  ],
+  "bio": {
+   "de": "Wiener Produzent und DJ (aktiv seit 2004), bekannt für Verbindungen aus House, Electro und Techno mit Jazz-Einflüssen. Veröffentlicht auf Fortunea Records, u. a. die EPs „Hazy Jane“ und „Restless“ (2025) mit dem Track „1160 Dub“ als Gruß an seinen Wiener Bezirk.",
+   "en": "Vienna-based producer and DJ (active since 2004), known for fusing house, electro and techno with jazz influences. Releases on Fortunea Records, including the EPs \"Hazy Jane\" and \"Restless\" (2025), whose track \"1160 Dub\" nods to his Vienna district."
+  },
+  "src": [
+   "https://magneticmag.com/2025/05/peletronic-drops-emotive-immersive-new-ep-restless/"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Scoopsi": {
+  "img": "https://static.ra.co/images/profiles/square/scoopsi.jpg?dateUpdated=1670511973000",
+  "links": {
+   "ra": "https://ra.co/dj/scoopsi",
+   "sc": "https://www.soundcloud.com/scoopsxo",
+   "ig": "https://www.instagram.com/scoopsi__"
+  },
+  "from": {
+   "de": "Deutschland (geboren in Kanada)",
+   "en": "Germany (born in Canada)"
+  },
+  "bio": {
+   "de": "In Kanada geborene, in Deutschland lebende DJ. Spielt vor allem in Berlin, Leipzig und München, u. a. im Kater, Golden Gate und in der Renate.",
+   "en": "Canadian-born DJ based in Germany. Plays mostly in Berlin, Leipzig and Munich, including Kater, Golden Gate and Renate."
+  },
+  "src": [
+   "https://ra.co/dj/scoopsi"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Marsolo": {
+  "img": "https://static.ra.co/images/profiles/square/marsolo.jpg?dateUpdated=1678719735000",
+  "links": {
+   "ra": "https://ra.co/dj/marsolo",
+   "sc": "https://www.soundcloud.com/marsolomusic",
+   "bc": "https://marsolo.bandcamp.com",
+   "ig": "https://www.instagram.com/marsolomusic"
+  },
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "genres": [
+   "House"
+  ],
+  "labels": [
+   "Koltrax"
+  ],
+  "bio": {
+   "de": "Niederländischer House-Produzent und DJ, der als aufstrebendes junges Talent gilt. Releases auf Koltrax; spielt vor allem in Amsterdam, London, Ibiza und Barcelona.",
+   "en": "Dutch house producer and DJ regarded as a rising young talent. Releases on Koltrax; plays mostly in Amsterdam, London, Ibiza and Barcelona."
+  },
+  "src": [
+   "https://ra.co/dj/marsolo"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "RUNY": {
+  "img": "https://static.ra.co/images/profiles/square/runy.jpg?dateUpdated=1780525726037",
+  "links": {
+   "ra": "https://ra.co/dj/runy",
+   "sc": "https://www.soundcloud.com/stefan-roncevic",
+   "ig": "https://www.instagram.com/runy_cmok"
+  },
+  "from": {
+   "de": "Belgrad (Serbien)",
+   "en": "Belgrade (Serbia)"
+  },
+  "genres": [
+   "Electro",
+   "Acid",
+   "House"
+  ],
+  "bio": {
+   "de": "DJ, Produzent und Veranstalter aus Belgrad (Umfeld der Reihe CMOK). Bekannt für lange, tranceartige Sets zwischen Electro, Acid, proggy House und deepen Club-Sounds.",
+   "en": "Belgrade-based DJ, producer and promoter (CMOK circle). Known for long, trance-like sets blending electro, acid, proggy house and deep club sounds."
+  },
+  "src": [
+   "https://ra.co/dj/runy"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Mande": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Mimosa": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Danloe": {
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "DJ aus dem Umfeld der Wiener Reihe Techno Entgleist; spielte u. a. beim Techno Entgleist Open Air am Gleis 19 und bei 8 Jahre Techno Entgleist in der Grellen Forelle.",
+   "en": "DJ from the circle of Vienna's Techno Entgleist series; played the Techno Entgleist Open Air at Gleis 19 and 8 Years Techno Entgleist at Grelle Forelle."
+  },
+  "src": [
+   "https://ra.co/events/2194379"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Skoden": {
+  "img": "https://static.ra.co/images/profiles/square/skoden.jpg?dateUpdated=1746202861557",
+  "links": {
+   "ra": "https://ra.co/dj/skoden",
+   "sc": "https://www.soundcloud.com/skodendj",
+   "ig": "https://www.instagram.com/skoden.dj"
+  },
+  "from": {
+   "de": "Großbritannien",
+   "en": "United Kingdom"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Sacred Court",
+   "Now Now",
+   "HEKATE Records"
+  ],
+  "bio": {
+   "de": "Britischer Techno-DJ mit Releases u. a. auf Sacred Court, Now Now und HEKATE Records. Spielt vor allem in Liverpool, Birmingham (Tunnel Club) und Glasgow.",
+   "en": "UK techno DJ with releases on Sacred Court, Now Now and HEKATE Records among others. Plays mostly in Liverpool, Birmingham (Tunnel Club) and Glasgow."
+  },
+  "src": [
+   "https://ra.co/dj/skoden"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Kaze Elza": {
+  "img": "https://dev2.elevate.at/fileadmin/EIS_images/artist/2430/8473-kaze_elza.jpg",
+  "links": {
+   "sc": "https://soundcloud.com/kaze-elza",
+   "ig": "https://www.instagram.com/kazeelza/",
+   "web": "https://www.ernte-festival.at/"
+  },
+  "genres": [
+   "Minimal",
+   "House",
+   "Breaks"
+  ],
+  "bio": {
+   "de": "Interdisziplinäres Kunst- und Kulturkollektiv befreundeter Liebhaber:innen elektronischer Musik, das in seiner ländlichen Heimatregion das ERNTE-Festival mit Film, Fotografie, bildender Kunst, Architektur, Lichttechnik und Musik veranstaltet. Als DJs (Crystal Stuermer, Flake, H.Gardner, Pipo Renault, Sharp) bewegen sie sich zwischen Minimal, House und Breaks.",
+   "en": "Interdisciplinary art and culture collective of friends united by electronic music, organising the ERNTE festival in their rural home region with film, photography, visual arts, architecture, lighting and music. As DJs (Crystal Stuermer, Flake, H.Gardner, Pipo Renault, Sharp) they move between minimal, house and breaks."
+  },
+  "src": [
+   "https://dev2.elevate.at/en/music/artists/kaze_elza/"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Calabazza": {
+  "links": {
+   "sc": "https://soundcloud.com/calabazza"
+  },
+  "src": [
+   "https://soundcloud.com/calabazza"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Stigmatique": {
+  "img": "https://static.ra.co/images/profiles/square/stigmatique.jpg?dateUpdated=1792002612987",
+  "links": {
+   "ra": "https://ra.co/dj/stigmatique",
+   "sc": "https://www.soundcloud.com/stigmatix-1-1",
+   "bc": "https://seelen.bandcamp.com",
+   "ig": "https://www.instagram.com/stigmatique_____"
+  },
+  "from": {
+   "de": "Leipzig",
+   "en": "Leipzig"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "SEELEN.",
+   "Trau-ma",
+   "DVNTT",
+   "Kriptika Records",
+   "Deestricted"
+  ],
+  "bio": {
+   "de": "Leipziger Techno-Artist aus dem Umfeld von SEELEN. und der Distillery. Releases u. a. auf SEELEN. (Unstoppable Desire EP, 2020), Trau-ma und DVNTT; bekannt für perkussionsbetonten Techno.",
+   "en": "Leipzig-based techno artist from the SEELEN. and Distillery circle. Releases on SEELEN. (Unstoppable Desire EP, 2020), Trau-ma and DVNTT among others; known for percussion-driven techno."
+  },
+  "src": [
+   "https://ra.co/dj/stigmatique",
+   "https://novafuture.blog/2020/03/04/stigmatique-unstoppable-desire-ep-seelen-records/"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "DJ Yugo": {
+  "img": "https://static.ra.co/images/profiles/square/djyugo.jpg?dateUpdated=1764836874347",
+  "links": {
+   "ra": "https://ra.co/dj/djyugo",
+   "sc": "https://www.soundcloud.com/dj_yugo",
+   "ig": "https://www.instagram.com/djyugoo"
+  },
+  "from": {
+   "de": "München",
+   "en": "Munich"
+  },
+  "bio": {
+   "de": "DJ aus München, aktiv seit 2010. Spielt u. a. in der Roten Sonne, im Bahnwärter Thiel und im Lieberscholli sowie im OWL Osaka.",
+   "en": "Munich DJ, active since 2010. Plays venues including Rote Sonne, Bahnwärter Thiel, Lieberscholli and OWL Osaka."
+  },
+  "src": [
+   "https://ra.co/dj/djyugo"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Erhyc": {
+  "img": "https://static.ra.co/images/profiles/square/erhyc.jpg?dateUpdated=1720009821787",
+  "links": {
+   "ra": "https://ra.co/dj/erhyc",
+   "sc": "https://www.soundcloud.com/erhyc",
+   "ig": "https://www.instagram.com/erhyc.music"
+  },
+  "from": {
+   "de": "München",
+   "en": "Munich"
+  },
+  "bio": {
+   "de": "Münchner DJ, Resident bei Garry Klein in der Roten Sonne und bei der monatlichen Party DEEP – beide Teil der queeren elektronischen Szene der Stadt.",
+   "en": "Munich DJ, resident at Garry Klein at Rote Sonne and at the monthly party DEEP, both part of the city's queer electronic scene."
+  },
+  "src": [
+   "https://ra.co/dj/erhyc"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "VSSL": {
+  "img": "https://static.ra.co/images/profiles/square/vssl.jpg?dateUpdated=1654766649000",
+  "links": {
+   "ra": "https://ra.co/dj/vssl",
+   "sc": "https://www.soundcloud.com/vssl_official"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "bio": {
+   "de": "In Berlin lebender DJ und Produzent. Spielt vor allem in München und Wien, u. a. in der Roten Sonne (Holey) und in der Grellen Forelle.",
+   "en": "Berlin-based DJ and producer. Plays mostly in Munich and Vienna, including Rote Sonne (Holey) and Grelle Forelle."
+  },
+  "src": [
+   "https://ra.co/dj/vssl"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Gremlinz": {
+  "img": "https://static.ra.co/images/profiles/square/gremlinz.jpg?dateUpdated=1761790585843",
+  "links": {
+   "ra": "https://ra.co/dj/gremlinz",
+   "sc": "https://www.soundcloud.com/gremlinz"
+  },
+  "from": {
+   "de": "Toronto (Kanada)",
+   "en": "Toronto (Canada)"
+  },
+  "alias": [
+   "AU"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Metalheadz",
+   "Renegade Hardware",
+   "Samurai Music",
+   "Paradox Music",
+   "Absys Records",
+   "Architecture Recordings"
+  ],
+  "bio": {
+   "de": "Drum-&-Bass-Artist aus Toronto mit über 20 Jahren in der Szene, bekannt für einen eigenständigen, konsequenten Sound abseits von Trends. Releases u. a. auf Metalheadz, Renegade Hardware und Samurai Music.",
+   "en": "Toronto drum & bass artist with over 20 years in the scene, known for a consistent, distinctive sound rather than chasing trends. Releases on Metalheadz, Renegade Hardware and Samurai Music among others."
+  },
+  "src": [
+   "https://ra.co/dj/gremlinz"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Monile": {
+  "img": "https://static.ra.co/images/profiles/square/monile.jpg?dateUpdated=1642242850000",
+  "links": {
+   "ra": "https://ra.co/dj/monile",
+   "sc": "https://www.soundcloud.com/monile-music"
+  },
+  "from": {
+   "de": "Barcelona (geboren in Marokko)",
+   "en": "Barcelona (born in Morocco)"
+  },
+  "labels": [
+   "WORK IN PROGRESS",
+   "Le Matin Records"
+  ],
+  "bio": {
+   "de": "In Marokko geborener, in Barcelona lebender DJ und Produzent mit Releases auf WORK IN PROGRESS und Le Matin Records.",
+   "en": "Morocco-born, Barcelona-based DJ and producer with releases on WORK IN PROGRESS and Le Matin Records."
+  },
+  "src": [
+   "https://ra.co/dj/monile"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Mariad": {
+  "img": "https://static.ra.co/images/profiles/square/mariad.jpg?dateUpdated=1731577734000",
+  "links": {
+   "ra": "https://ra.co/dj/mariad",
+   "sc": "https://www.soundcloud.com/mariaddddd"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "bio": {
+   "de": "Französische DJ („sad siren very angry dj“), die vor allem in Paris und Straßburg auflegt, u. a. im Badaboum, Glazart und Panic Room.",
+   "en": "French DJ (\"sad siren very angry dj\") playing mostly in Paris and Strasbourg, including Badaboum, Glazart and Panic Room."
+  },
+  "src": [
+   "https://ra.co/dj/mariad",
+   "https://ra.co/events/2153024"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Greg": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Prosumer": {
+  "img": "https://static.ra.co/images/profiles/prosumer.jpg?dateUpdated=1409186549303",
+  "links": {
+   "ra": "https://ra.co/dj/prosumer"
+  },
+  "from": {
+   "de": "Edinburgh (aufgewachsen in Saarbrücken)",
+   "en": "Edinburgh (grew up in Saarbrücken)"
+  },
+  "genres": [
+   "House"
+  ],
+  "labels": [
+   "Ostgut Ton",
+   "Playhouse",
+   "Running Back",
+   "Diamonds & Pearls",
+   "Simple Records",
+   "Potion"
+  ],
+  "bio": {
+   "de": "House-DJ und Produzent, aufgewachsen in Saarbrücken, lange in Berlin aktiv und heute in Edinburgh zuhause. Releases u. a. auf Ostgut Ton, Playhouse und Running Back.",
+   "en": "House DJ and producer who grew up in Saarbrücken, spent years in Berlin and now lives in Edinburgh. Releases on Ostgut Ton, Playhouse and Running Back among others."
+  },
+  "src": [
+   "https://ra.co/dj/prosumer"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "A.n.i": {
+  "img": "https://static.ra.co/images/profiles/square/ani.jpg?dateUpdated=1739544105000",
+  "links": {
+   "ra": "https://ra.co/dj/ani",
+   "sc": "https://www.soundcloud.com/a_n_i_dj"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Hard Techno",
+   "Acid",
+   "Hard Trance"
+  ],
+  "bio": {
+   "de": "Deutsche DJ mit schnellen, stark rhythmischen Sets zwischen Hard Techno, Acid, Gabber, Hard Trance und Hardstyle. Spielt vor allem in Berlin und ganz Deutschland.",
+   "en": "German DJ with fast, highly rhythmic sets spanning hard techno, acid, gabber, hard trance and hardstyle. Plays mostly in Berlin and across Germany."
+  },
+  "src": [
+   "https://ra.co/dj/ani",
+   "https://ra.co/events/2157973"
   ],
   "infoChk": "2026-11-04"
  }
