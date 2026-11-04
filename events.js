@@ -5799,7 +5799,9 @@ const VI={
    "Funkhaus Wien"
   ],
   "infoChk": "2026-11-02",
-  "web": "https://www.funkhaus.wien"
+  "web": "https://www.funkhaus.wien",
+  "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEqtzrryIumWg/company-logo_400_400/B4DZmAYdErJgAY-/0/1758795520556/funkhaus_wien_logo?e=1795651200&v=beta&t=TBHV3JezrAElVEJTydAmyfN6fmgckC8kjzGK3oiDBCQ",
+  "man": 1
  },
  "Rhiz": {
   "src": [
