@@ -11695,7 +11695,10 @@ const AR={
   "bio": {
    "de": "Kollektiv Sheesh ist seit 2019 aktiv und spielt tanzbare Sets zwischen Downtempo und melodischem Techno – oft schneller und härter als erwartet. Das Kollektiv ist eng mit der Reihe Im Freudentaumel im FLUCC verbunden und trat u. a. beim Elevate Festival in Graz auf.",
    "en": "Kollektiv Sheesh has been active since 2019, playing danceable sets ranging from downtempo to melodic techno – often faster and harder than expected. The collective is closely tied to the Im Freudentaumel series at FLUCC and has played Elevate Festival in Graz."
-  }
+  },
+  "alias": [
+   "Sheesh"
+  ]
  },
  "Chris Freud": {
   "img": "https://static.ra.co/images/profiles/square/chrisfreud.jpg?dateUpdated=1747310537723",
