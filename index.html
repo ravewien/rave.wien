@@ -388,7 +388,7 @@ iframe.mc{width:100%;height:60px;border:0;margin-bottom:6px}
 .artists{display:flex;flex-wrap:wrap;gap:4px 12px;margin-top:2px}
 .artists button,.tt button{background:none;border:0;padding:0;font-weight:500;font-size:14px;text-align:left}
 .artists button:hover,.tt button:hover{color:var(--accent);text-decoration:underline}
-.row.tk{display:grid;grid-template-columns:auto minmax(0,1fr) 92px;gap:0;padding:0;align-items:stretch}
+.row.tk{display:grid;grid-template-columns:auto minmax(0,1fr) 104px;gap:0;padding:0;align-items:stretch}
 .row.tk>.cov{padding:10px 0 10px 10px;align-self:start}
 .cov{display:block;position:relative}
 .row.tk>.cov::before{content:"";display:block;width:60px;aspect-ratio:1;border-radius:3px;box-shadow:0 0 0 1px rgba(255,255,255,.07);background:radial-gradient(circle,#1c1e22 0 10.5%,#3a3d43 11% 51%,#1c1e22 51.5%)}
@@ -525,9 +525,9 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
   .row.tk .gf>.flags{display:none}
 }
 @container out (min-width:760px){
-  .thead{display:grid;grid-template-columns:52px 58px minmax(0,1.5fr) minmax(0,1.2fr) minmax(0,.9fr) 40px 76px;column-gap:16px;padding:7px 14px;font-family:var(--f-mono);font-size:9.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--mute);border-bottom:1px solid var(--line)}
+  .thead{display:grid;grid-template-columns:52px 58px minmax(0,1.5fr) minmax(0,1.2fr) minmax(0,.9fr) 40px 96px;column-gap:16px;padding:7px 14px;font-family:var(--f-mono);font-size:9.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--mute);border-bottom:1px solid var(--line)}
   .thead span:last-child{text-align:right}
-  .row.tk{grid-template-columns:52px 58px minmax(0,1.5fr) minmax(0,1.2fr) minmax(0,.9fr) 40px 76px;grid-template-areas:"cv t c1 arts gf age price";column-gap:16px;padding:9px 14px;align-items:center}
+  .row.tk{grid-template-columns:52px 58px minmax(0,1.5fr) minmax(0,1.2fr) minmax(0,.9fr) 40px 96px;grid-template-areas:"cv t c1 arts gf age price";column-gap:16px;padding:9px 14px;align-items:center}
   .row.tk .main,.row.tk .stub{display:contents}
   .row.tk .c1{grid-area:c1;display:flex;flex-direction:column;gap:5px;min-width:0}
   .row.tk .head{justify-content:flex-start}
@@ -825,6 +825,35 @@ footer a:hover{color:var(--accent)}
 .opt.inc>.ico.od{background:var(--od);border-color:var(--od);color:#04140f}.opt.inc>.ico.np{background:#e9ecf1;border-color:#e9ecf1;color:#0b0d10}.opt.inc>.ico.lg{border-color:var(--lg)}
 .opt>.ico svg{width:12px;height:12px}
 .xhid{margin:0;padding:14px 16px;color:var(--mute);font-size:12.5px;text-align:center;border-top:1px solid var(--line)}
+/* UI/UX-Verbesserungen (Nov 2026) */
+/* 1+2 Favoriten-Stern: besser sichtbar, größere Tippfläche */
+.rstar{color:#9aa1ad}.rstar::after{content:"";position:absolute;inset:-11px}
+.betab a{font-size:10px}.betab a::after{inset:-12px -8px}
+/* 3 Preis: keine Trennung mitten im Wort, lange Zusätze kürzen */
+.stub .price{overflow-wrap:normal;word-break:normal;hyphens:manual}
+.stub .price small{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;font-size:11.5px;line-height:1.25}
+.stub .t small{font-size:11.5px}
+.pna{font-family:var(--f-body);font-weight:500;font-size:12.5px;color:var(--mute)}
+/* 4 Mindestgrößen */
+.opt em{font-size:12px}.dayhdr span{font-size:12px}.thead{font-size:10.5px}
+.row.tk .flags .flag{font-size:11.5px}
+/* 5 Event-Titel in gut lesbarer Schrift, Pixel-Schrift bleibt für Logo, Überschriften und Uhrzeit */
+.row.tk .ti,.ti{font-family:var(--f-body);font-weight:700;letter-spacing:0;font-size:17px;line-height:1.25}
+/* 7 Location-/Veranstalter-Logo statt Platzhalter */
+.cov.lgc::before{visibility:hidden}
+.covlg{position:absolute;top:10px;left:10px;width:60px;height:60px;border-radius:3px;overflow:hidden;box-shadow:0 0 0 1px rgba(255,255,255,.07)}
+.covlg img{position:absolute;inset:8%;width:84%;height:84%;object-fit:contain}
+@container out (min-width:760px){.covlg{top:0;left:0;width:52px;height:52px}}
+.cov:not(.lgc):not(:has(img))::before{opacity:.45}
+/* 10 Genres: Top 10, Rest ausklappbar */
+.optmore{all:unset;cursor:pointer;display:block;padding:7px 8px;color:var(--accent);font-size:12.5px;font-weight:600}.optmore:hover{text-decoration:underline}
+/* 6 Handy: weniger Kopf, schneller zum ersten Event */
+@media (max-width:879px){
+  .list-head:has(#activef:empty):has(#pastbtn[hidden]){display:none}
+  #msearch{padding:4px 0}
+  #msearch .search{padding:7px 10px}
+  .browser{margin-top:6px}
+}
 /* Barrierefreiheit */
 @font-face{font-family:"OpenDyslexic";src:url(fonts/opendyslexic-latin-400-normal.woff2) format("woff2");font-weight:400;font-style:normal;font-display:swap}
 @font-face{font-family:"OpenDyslexic";src:url(fonts/opendyslexic-latin-700-normal.woff2) format("woff2");font-weight:600 900;font-style:normal;font-display:swap}
@@ -1037,7 +1066,7 @@ const T={
   lineup:"Lineup / Floors",timetable:"Timetable",time:"Zeit",entry:"Eintritt",date:"Datum",age:"Alter",
   tickets:"Tickets / Vorverkauf",flyer:"Flyer ansehen",source:"Gefunden auf",na:"k. A.",tba:"wird noch bekanntgegeben",maps:"In Google Maps öffnen",
   none:"Keine Events mit diesen Filtern.",alt:"anderswo",close:"Schließen",days:["So","Mo","Di","Mi","Do","Fr","Sa"],
-  emptyT:"Kein Event geladen",artist:"Artist",origin:"Herkunft",labels:"Labels",clubs:"Clubs",festivals:"Festivals",tracks:"Bekannte Tracks",listen:"Reinhören",inVienna:"Termine in Wien",backEv:"zurück zum Event",scProfile:"SoundCloud-Profil",scSearch:"Auf SoundCloud suchen",raSearch:"Auf RA suchen",noArtist:"Zu diesem Artist gibt es noch keine Infos. Der tägliche Task ergänzt sie nach und nach.",embedHint:"Die Player erscheinen direkt hier, sobald die Seite unter rave.wien läuft. In der claude.ai-Ansicht sind eingebettete Player nicht erlaubt.",not:"ohne",tri:"1× nur das · 2× ausblenden · 3× zurücksetzen",single:"nur 1 Quelle",rSingle:"Nicht gegengeprüft, bisher nur gefunden auf:",rCheck:"Bitte vor dem Hingehen beim Veranstalter prüfen.",fsrc:"Quellenlage",loc:"Website der Location",org:"Website des Veranstalters",multi:"mehrere Quellen",one:"nur 1 Quelle",mn:"manuell eingetragen",manS:"Manuell eingetragen",fio:"Setting",ioIn:"Indoor",ioOut:"Outdoor",rLoc:"Steht auf der Website der Location",rOrg:"Steht auf der Website des Veranstalters",rBoth:"Steht auf der Website der Location und des Veranstalters",sound:"Soundsystem",report:"Fehler melden",repS:'<span class="fw">fehler </span>melden',reportSub:"Fehler auf rave.wien",reportBody:"Was stimmt nicht?",asOf:"Stand: 27. Oktober 2026",srcList:"Quellen",saveF:"Filter auf diesem Gerät speichern",savedF:"Gespeicherte Filter löschen",savedMsg:"Gespeichert. Beim nächsten Öffnen sind diese Filter aktiv.",clearedMsg:"Gespeicherte Filter gelöscht.",loadedMsg:"Gespeicherte Filter geladen.",saveFail:"Speichern ist in diesem Browser nicht möglich.",house:"Hausregel",typ:"typisch für den Veranstalter",share:"Teilen",copied:"Link kopiert",copyFail:"Link markiert, bitte kopieren",gone:"Dieses Event ist vorbei oder nicht mehr im Kalender.",prevM:"Voriger Monat",nextM:"Nächster Monat",tapDay:"Tippe auf einen Tag, um seine Events zu sehen.",std:"Ohne Tag",filter:"Filter",fage:"Eintrittsalter",fprice:"Eintrittspreis",ftime:"Tageszeit",day:"Daytime (Start 12–18 Uhr)",night:"Nighttime",unk:"keine Angabe",free:"Gratis / Spende",p10:"bis 10 €",p20:"11–20 €",p99:"über 20 €",clubRule:"Hausregel des Clubs sonst",emptyS:"Wähl ein Event in der Liste aus, die Details erscheinen hier.",nosugg:"Keine Vorschläge",
+  emptyT:"Kein Event geladen",artist:"Artist",origin:"Herkunft",labels:"Labels",clubs:"Clubs",festivals:"Festivals",tracks:"Bekannte Tracks",listen:"Reinhören",inVienna:"Termine in Wien",backEv:"zurück zum Event",scProfile:"SoundCloud-Profil",scSearch:"Auf SoundCloud suchen",raSearch:"Auf RA suchen",noArtist:"Zu diesem Artist gibt es noch keine Infos. Der tägliche Task ergänzt sie nach und nach.",embedHint:"Die Player erscheinen direkt hier, sobald die Seite unter rave.wien läuft. In der claude.ai-Ansicht sind eingebettete Player nicht erlaubt.",not:"ohne",tri:"1× nur das · 2× ausblenden · 3× zurücksetzen",single:"nur 1 Quelle",rSingle:"Nicht gegengeprüft, bisher nur gefunden auf:",rCheck:"Bitte vor dem Hingehen beim Veranstalter prüfen.",fsrc:"Quellenlage",loc:"Website der Location",org:"Website des Veranstalters",multi:"mehrere Quellen",one:"nur 1 Quelle",mn:"manuell eingetragen",manS:"Manuell eingetragen",fio:"Setting",ioIn:"Indoor",ioOut:"Outdoor",rLoc:"Steht auf der Website der Location",rOrg:"Steht auf der Website des Veranstalters",rBoth:"Steht auf der Website der Location und des Veranstalters",sound:"Soundsystem",report:"Fehler melden",repS:'<span class="fw">fehler </span>melden',reportSub:"Fehler auf rave.wien",reportBody:"Was stimmt nicht?",asOf:"Stand: 27. Oktober 2026",srcList:"Quellen",saveF:"Filter auf diesem Gerät speichern",savedF:"Gespeicherte Filter löschen",savedMsg:"Gespeichert. Beim nächsten Öffnen sind diese Filter aktiv.",clearedMsg:"Gespeicherte Filter gelöscht.",loadedMsg:"Gespeicherte Filter geladen.",saveFail:"Speichern ist in diesem Browser nicht möglich.",house:"Hausregel",typ:"typisch für den Veranstalter",share:"Teilen",copied:"Link kopiert",copyFail:"Link markiert, bitte kopieren",gone:"Dieses Event ist vorbei oder nicht mehr im Kalender.",prevM:"Voriger Monat",nextM:"Nächster Monat",tapDay:"Tippe auf einen Tag, um seine Events zu sehen.",std:"Ohne Tag",filter:"Filter",fage:"Eintrittsalter",fprice:"Eintrittspreis",ftime:"Tageszeit",day:"Daytime (Start 12–18 Uhr)",night:"Nighttime",unk:"keine Angabe",free:"Gratis / Spende",p10:"bis 10 €",p20:"11–20 €",p99:"über 20 €",clubRule:"Hausregel des Clubs sonst",emptyS:"Wähl ein Event in der Liste aus, die Details erscheinen hier.",priceTBA:"Preis folgt",gAll:"alle {n} zeigen",gLess:"weniger zeigen",nosugg:"Keine Vorschläge",
   ty:{col:"veranstalter",src:"quellen",c:"veranstalter",a:"artist",v:"location",g:"genre",f:"vibe",e:"event",age:"alter",price:"preis",time:"zeit",io:"setting"},
   fSx:"Sexpositiv",fLg:"LGBTQIA+",fAw:"Awareness",fNp:"Keine Fotos / Videos",fOd:"Open Decks",
   rSx:"Sexpositive Party",rLg:"Für LGBTQIA+ Publikum",rAw:"Awareness",rNp:"Keine Fotos und Videos",rZt:"Null Toleranz für Sexismus, Rassismus, Homo- und Transphobie",rOd:"Open Decks: selbst auflegen möglich",
@@ -1049,7 +1078,7 @@ const T={
   lineup:"Lineup / floors",timetable:"Timetable",time:"Time",entry:"Entry",date:"Date",age:"Age",
   tickets:"Tickets / presale",flyer:"View flyer",source:"Found on",na:"n/a",tba:"to be announced",maps:"Open in Google Maps",
   none:"No events match these filters.",alt:"elsewhere",close:"Close",days:["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],
-  emptyT:"No event loaded",artist:"Artist",origin:"From",labels:"Labels",clubs:"Clubs",festivals:"Festivals",tracks:"Known tracks",listen:"Listen",inVienna:"Dates in Vienna",backEv:"back to event",scProfile:"SoundCloud profile",scSearch:"Search on SoundCloud",raSearch:"Search on RA",noArtist:"No info on this artist yet. The daily task adds it over time.",embedHint:"Players appear right here once the page runs on rave.wien. Embedded players are not allowed in the claude.ai view.",not:"without",tri:"1× only this · 2× exclude · 3× reset",single:"single source",rSingle:"Not cross-checked, so far only found on:",rCheck:"Please check with the promoter before going.",fsrc:"Source check",loc:"Venue website",org:"Promoter website",multi:"several sources",one:"single source",mn:"added manually",manS:"Added manually",fio:"Setting",ioIn:"Indoor",ioOut:"Outdoor",rLoc:"Listed on the venue website",rOrg:"Listed on the promoter website",rBoth:"Listed on the venue and promoter websites",sound:"Sound system",report:"Report an error",repS:'report<span class="fw"> error</span>',reportSub:"Error on rave.wien",reportBody:"What is wrong?",asOf:"As of 27 October 2026",srcList:"Sources",saveF:"Save filters on this device",savedF:"Delete saved filters",savedMsg:"Saved. These filters will be active next time.",clearedMsg:"Saved filters deleted.",loadedMsg:"Saved filters loaded.",saveFail:"Saving is not possible in this browser.",house:"house rule",typ:"typical for the promoter",share:"Share",copied:"Link copied",copyFail:"Link selected, please copy it",gone:"This event is over or no longer listed.",prevM:"Previous month",nextM:"Next month",tapDay:"Tap a day to see its events.",std:"No tag",filter:"Filters",fage:"Entry age",fprice:"Entry price",ftime:"Time of day",day:"Daytime (starts noon–6pm)",night:"Nighttime",unk:"not stated",free:"Free / donation",p10:"up to €10",p20:"€11–20",p99:"over €20",clubRule:"club rule otherwise",emptyS:"Pick an event from the list and its details appear here.",nosugg:"No suggestions",
+  emptyT:"No event loaded",artist:"Artist",origin:"From",labels:"Labels",clubs:"Clubs",festivals:"Festivals",tracks:"Known tracks",listen:"Listen",inVienna:"Dates in Vienna",backEv:"back to event",scProfile:"SoundCloud profile",scSearch:"Search on SoundCloud",raSearch:"Search on RA",noArtist:"No info on this artist yet. The daily task adds it over time.",embedHint:"Players appear right here once the page runs on rave.wien. Embedded players are not allowed in the claude.ai view.",not:"without",tri:"1× only this · 2× exclude · 3× reset",single:"single source",rSingle:"Not cross-checked, so far only found on:",rCheck:"Please check with the promoter before going.",fsrc:"Source check",loc:"Venue website",org:"Promoter website",multi:"several sources",one:"single source",mn:"added manually",manS:"Added manually",fio:"Setting",ioIn:"Indoor",ioOut:"Outdoor",rLoc:"Listed on the venue website",rOrg:"Listed on the promoter website",rBoth:"Listed on the venue and promoter websites",sound:"Sound system",report:"Report an error",repS:'report<span class="fw"> error</span>',reportSub:"Error on rave.wien",reportBody:"What is wrong?",asOf:"As of 27 October 2026",srcList:"Sources",saveF:"Save filters on this device",savedF:"Delete saved filters",savedMsg:"Saved. These filters will be active next time.",clearedMsg:"Saved filters deleted.",loadedMsg:"Saved filters loaded.",saveFail:"Saving is not possible in this browser.",house:"house rule",typ:"typical for the promoter",share:"Share",copied:"Link copied",copyFail:"Link selected, please copy it",gone:"This event is over or no longer listed.",prevM:"Previous month",nextM:"Next month",tapDay:"Tap a day to see its events.",std:"No tag",filter:"Filters",fage:"Entry age",fprice:"Entry price",ftime:"Time of day",day:"Daytime (starts noon–6pm)",night:"Nighttime",unk:"not stated",free:"Free / donation",p10:"up to €10",p20:"€11–20",p99:"over €20",clubRule:"club rule otherwise",emptyS:"Pick an event from the list and its details appear here.",priceTBA:"Price TBA",gAll:"show all {n}",gLess:"show fewer",nosugg:"No suggestions",
   ty:{col:"promoter",src:"sources",c:"promoter",a:"artist",v:"venue",g:"genre",f:"vibe",e:"event",age:"age",price:"price",time:"time",io:"setting"},
   fSx:"Sex-positive",fLg:"LGBTQIA+",fAw:"Awareness",fNp:"No photos / videos",fOd:"Open decks",
   rSx:"Sex-positive party",rLg:"For an LGBTQIA+ crowd",rAw:"Awareness",rNp:"No photos or videos",rZt:"Zero tolerance for sexism, racism, homophobia and transphobia",rOd:"Open decks: you can sign up to play",
@@ -1165,6 +1194,8 @@ function fstate(k,n){return st[k].has(n)?1:st.x[k].has(n)?2:0}
 function fcls(k,n){const s=fstate(k,n);return s===1?"inc":s===2?"exc":""}
 function fattr(k,n){const s=fstate(k,n);return `aria-pressed="${s===1?"true":s===2?"mixed":"false"}"`}
 function cycle(k,n){const s=fstate(k,n);st[k].delete(n);st.x[k].delete(n);if(s===0)st[k].add(n);else if(s===1)st.x[k].add(n)}
+let GALL=false;
+document.addEventListener("click",ev=>{if(ev.target.closest&&ev.target.closest("[data-gall]")){ev.preventDefault();ev.stopPropagation();GALL=!GALL;renderSide()}},true);
 function renderSide(){
   const l=L();
   const open={};document.querySelectorAll("#trees details").forEach(d=>open[d.dataset.k]=d.open);
@@ -1187,8 +1218,10 @@ function renderSide(){
     if(k==="v")[...m.keys()].filter(noVen).forEach(x=>m.delete(x));
     const f=[...m].sort((a,b)=>sortKey(a[0]).localeCompare(sortKey(b[0]))||a[0].localeCompare(b[0]));
     const isOpen=open[k]!=null?open[k]:(k==="g");
+    let top=null;if(k==="g"&&!GALL&&f.length>12){top=new Set([...f].sort((a,b)=>b[1]-a[1]).slice(0,10).map(x=>x[0]));st.g.forEach(x=>top.add(x));st.x.g.forEach(x=>top.add(x))}
+    const shown=top?f.filter(([n])=>top.has(n)):f;
     return `<details class="tree" data-k="${k}" ${isOpen?"open":""}><summary><span>${label}</span><em>${f.length}</em></summary><div class="opts">${
-      f.map(([n,c])=>`<button class="opt ${fcls(k,n)}${c?"":" zero"}" data-k="${k}" data-n="${esc(n)}" ${fattr(k,n)}><span>${esc(n)}</span><em>${c}</em></button>`).join("")}</div></details>`}).join("");
+      shown.map(([n,c])=>`<button class="opt ${fcls(k,n)}${c?"":" zero"}" data-k="${k}" data-n="${esc(n)}" ${fattr(k,n)}><span>${esc(n)}</span><em>${c}</em></button>`).join("")}${k==="g"&&f.length>12?`<button type="button" class="optmore" data-gall>${GALL?l.gLess:l.gAll.replace("{n}",f.length)}</button>`:""}</div></details>`}).join("");
   document.querySelectorAll("#trees details").forEach(d=>{const o=d.querySelector(".opts");if(o&&scr[d.dataset.k]!=null)o.scrollTop=scr[d.dataset.k]});
   $("side").scrollTop=sideTop;
   if(fk){const el=document.querySelector("#trees "+fk);if(el)el.focus({preventScroll:true})}
@@ -1207,7 +1240,7 @@ function normPrice(p){if(!p)return p;const s=String(p);
   const f=n=>Number.isInteger(n)?String(n):n.toFixed(2).replace(".",",");
   const mn=Math.min(...d),mx=Math.max(...d);return (mn===mx?(ab?"ab ":"")+f(mn):f(mn)+"–"+f(mx))+" €"+(red.length?" / "+red.join(", "):"")}
 function stubHTML(s,e,age,price,tk){price=normPrice(price);const pm=price?String(price).split(/\s+[·|\/]\s+|,\s+/):[];
-  return `<span class="stub"><span class="t">${s||"--:--"}<small>${e?"-"+e:""}</small></span><span class="agec">${age?`<span class="flag age">${esc(age)}</span>`:""}</span><span class="price">${pm.length?esc(pm[0]):"–"}${pm.length>1?`<small>${esc(pm.slice(1).join(" · "))}</small>`:""}</span></span>`}
+  return `<span class="stub"><span class="t">${s||"--:--"}<small>${e?"-"+e:""}</small></span><span class="agec">${age?`<span class="flag age">${esc(age)}</span>`:""}</span><span class="price">${pm.length?esc(pm[0]):`<span class="pna">${L().priceTBA}</span>`}${pm.length>1?`<small>${esc(pm.slice(1).join(" · "))}</small>`:""}</span></span>`}
 function pastRowHTML(p){if(p.ev){const e=ALL.find(x=>x.id===p.id);if(e)return rowHTML(e).replace('class="row tk ','class="row tk pastrow ')}const why=st.fav?pastFavReason(p):[];
   return `<button class="row tk pastrow" data-id="${p.id}" aria-current="${st.sel===p.id}"><span class="cov" aria-hidden="true"></span><span class="main"><span class="head"><span class="ti">${esc(p.t)}</span></span>
     <span class="tags"><span class="tag ve">${IPIN}${esc(p.v)}</span>${p.c.map(c=>`<span class="tag co">${ICOL}${esc(c)}</span>`).join("")}</span>
@@ -1225,7 +1258,7 @@ function rowHTML(e){
 /* flyer covers: hot-linked from the source (not downloaded); vinyl placeholder underneath */
 const isImg=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif)(\?[^"'<>\s]*)?$/i.test(u||"");
 const coversOn=()=>!EMBED||consentOK();
-const isLogo=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif|svg)(\?[^"'<>\s]*)?$/i.test(u||"")||/^https:\/\/i\.scdn\.co\/image\/[a-z0-9]+$/i.test(u||"");
+const isLogo=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif|svg)(\?[^"'<>\s]*)?$/i.test(u||"")||/^https:\/\/imgproxy\.ra\.co\/[^"'<>\s]+$/i.test(u||"")||/^https:\/\/i\.scdn\.co\/image\/[a-z0-9]+$/i.test(u||"");
 const initials=n=>n.replace(/^(the|club|das|der|die|o)\s+/i,"").split(/[\s\-–.]+/).filter(w=>/^[A-Za-z0-9ÄÖÜäöü]/.test(w)).slice(0,2).map(w=>w[0].toUpperCase()).join("")||n.slice(0,2).toUpperCase();
 // Logo so groß wie möglich: der gemessene Inhaltsbereich (ohne transparenten/einfarbigen Rand, siehe logos.js)
 // wird mittig und unverzerrt auf die Kachel abzüglich eines kleinen Abstands skaliert.
@@ -1244,7 +1277,10 @@ function bestSrc(e){const L0=(e.src||[]).filter(([k,u])=>k!=="man"&&/^https?:\/\
   const dom=u=>{try{return new URL(u).hostname.replace(/^www\./,"")}catch(_){return ""}};const vw=dom(((VINFO||{})[e.venue]||{}).web||"");
   return ((vw&&L0.find(([k,u])=>dom(u)===vw))||L0.find(([k])=>SORG.includes(k))||(e.vok&&L0[0])||L0.find(([k])=>k==="ra")||L0[0])[1]}
 function evPhase(e){const en=endTime(e);if(NOW>=en)return "done";const st0=new Date(e.d+"T"+(e.s||"22:00")+":00");return NOW>=st0?"live":""}
-function coverHTML(e){return `<span class="cov ${evPhase(e)}" aria-hidden="true"${isImg(e.flyer)&&coversOn()?` data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}"`:""}>${isImg(e.flyer)&&coversOn()?`<img src="${esc(e.flyer)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
+function covLogo(e){if(!coversOn())return "";const cand=[VINFO[e.venue],...(e.coll||[]).map(c=>CINFO[c])].filter(Boolean);
+  for(const vi of cand){if(vi.logo&&isLogo(vi.logo)){const f=logoFit(vi.logo);const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:(f&&f.bg)||"#fff";
+    return `<span class="covlg" style="background:${bg}"><img src="${esc(vi.logo)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"${f?` style="${f.st}"`:""}></span>`}}return ""}
+function coverHTML(e){if(!(isImg(e.flyer)&&coversOn())){const lg=covLogo(e);if(lg)return `<span class="cov lgc ${evPhase(e)}" aria-hidden="true">${lg}</span>`}return `<span class="cov ${evPhase(e)}" aria-hidden="true"${isImg(e.flyer)&&coversOn()?` data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}"`:""}>${isImg(e.flyer)&&coversOn()?`<img src="${esc(e.flyer)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
 document.addEventListener("error",ev=>{const t=ev.target;if(t&&t.tagName==="IMG"&&t.parentNode&&t.parentNode.classList&&(t.parentNode.classList.contains("cov")||t.parentNode.classList.contains("lgt"))){if(t.parentNode.classList.contains("fly")){t.parentNode.remove();return}t.parentNode.removeAttribute("data-flyer");t.remove()}},true);
 let PTOT=0;
 function topH(){return (parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--top2"))||56)+8}
@@ -1797,7 +1833,8 @@ function renderDeck(){
     try{RENDER[c.k](el,c.n)}catch(err){console.error("Karte",key,err);el.innerHTML=`${ctopHTML("","")}<p style="padding:16px;color:var(--mute)">Diese Karte konnte nicht angezeigt werden.</p>`}if(el.dataset.fresh){delete el.dataset.fresh}else el.scrollTop=sc});
   Object.keys(CEL).forEach(key=>{if(!keep.has(key)){CEL[key].remove();delete CEL[key]}});
   const em=$("deck0");em.hidden=st.cards.length>0&&!st.gone;
-  em.className="deck empty"+(st.gone?" gone":"");em.innerHTML=`<div class="deck-empty"><span class="disc">--:--</span><div><b>${l.emptyT}</b>${st.gone?l.gone:l.emptyS}</div></div>`;
+  em.className="deck empty"+(st.gone?" gone":"");
+  em.innerHTML=`<div class="deck-empty"><span class="disc">--:--</span><div><b>${l.emptyT}</b>${st.gone?l.gone:l.emptyS}</div></div>`;
   if(st.gone&&st.cards.length)em.hidden=true;
   setHash(st.sel||null);
   layoutStack();
