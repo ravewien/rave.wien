@@ -29923,6 +29923,268 @@ const AR={
   "src": [
    "https://ra.co/dj/danielnitsch"
   ]
+ },
+ "Somewhen": {
+  "img": "https://static.ra.co/images/profiles/square/somewhen.jpg?dateUpdated=1752055552080",
+  "links": {
+   "ra": "https://ra.co/dj/somewhen",
+   "sc": "https://soundcloud.com/somewhen-1",
+   "ig": "https://www.instagram.com/somewhensrx"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "R Label Group",
+   "Ostgut Ton"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Techno-DJ und Produzent aus Deutschland und Berghain-Resident. Veröffentlicht u. a. auf R Label Group; mit der EP „AFL“ erschien er erstmals auf Ostgut Ton.",
+   "en": "Techno DJ and producer from Germany and a Berghain resident. Releases on labels including R Label Group; his EP “AFL” marked his first appearance on Ostgut Ton."
+  },
+  "src": [
+   "https://ra.co/dj/somewhen",
+   "https://ra.co/news/41042"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Shlømo": {
+  "img": "https://static.ra.co/images/profiles/square/shlomo.jpg?dateUpdated=1503896745000",
+  "links": {
+   "ra": "https://ra.co/dj/shlomo"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "labels": [
+   "Taapion Records",
+   "SAIKE Records"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Französischer Techno-Produzent und DJ mit einer Bandbreite von Techno bis Ambient und IDM. Gründete die Labels Taapion Records (2013) und SAIKE Records (2022); seine Live-Sets verbinden Rave, Melodie, Breaks und IDM.",
+   "en": "French techno producer and DJ whose output ranges from techno to ambient and IDM. Founded the labels Taapion Records (2013) and SAIKE Records (2022); his live sets blend rave, melody, breaks and IDM."
+  },
+  "src": [
+   "https://ra.co/dj/shlomo/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Herton": {
+  "img": "https://static.ra.co/images/profiles/square/herton.jpg?dateUpdated=1544662602330",
+  "links": {
+   "ra": "https://ra.co/dj/herton",
+   "sc": "https://soundcloud.com/herton-be"
+  },
+  "from": {
+   "de": "Belgien (Brüssel)",
+   "en": "Belgium (Brussels)"
+  },
+  "labels": [
+   "Suara",
+   "Obscura",
+   "Gravitational Forces"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Techno-DJ und Produzent aus Belgien, Gründer von Factor BE und Promoter bei C12 in Brüssel. Releases u. a. auf Suara, Obscura und Gravitational Forces.",
+   "en": "Techno DJ and producer from Belgium, founder of Factor BE and promoter at C12 in Brussels. Releases on labels including Suara, Obscura and Gravitational Forces."
+  },
+  "src": [
+   "https://ra.co/dj/herton"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Merikan": {
+  "img": "https://static.ra.co/images/profiles/square/merikan.jpg?dateUpdated=1721934582000",
+  "links": {
+   "ra": "https://ra.co/dj/merikan"
+  },
+  "from": {
+   "de": "Italien (Neapel/Pozzuoli)",
+   "en": "Italy (Naples/Pozzuoli)"
+  },
+  "labels": [
+   "Close2Death",
+   "Disturbed",
+   "Cause4Concern Recordings",
+   "PRSPCT Recordings",
+   "MethLab Recordings",
+   "Blackout"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Drum-&-Bass-Produzent und DJ aus Italien, bekannt für energiegeladenen, harten Neuro und Twisted DnB. Releases u. a. auf Blackout, PRSPCT, MethLab, Cause4Concern und Close2Death.",
+   "en": "Drum & bass producer and DJ from Italy, known for high-energy, hard-hitting neuro and twisted DnB. Releases on labels including Blackout, PRSPCT, MethLab, Cause4Concern and Close2Death."
+  },
+  "src": [
+   "https://ra.co/dj/merikan/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Mefjus & Daxta": {
+  "img": "https://static.ra.co/images/profiles/mefjus.jpg?dateUpdated=1453131067933",
+  "links": {
+   "ra": "https://ra.co/dj/mefjus",
+   "sc": "https://soundcloud.com/mefjus"
+  },
+  "from": {
+   "de": "Österreich (Linz)",
+   "en": "Austria (Linz)"
+  },
+  "real": "Martin Schober (Mefjus)",
+  "labels": [
+   "Critical Music",
+   "Viper Recordings",
+   "Virus Recordings"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Drum-&-Bass-Produzent Mefjus (Martin Schober) aus Linz, gemeinsam mit dem erfahrenen MC Daxta. Mefjus gründete mit Camo & Krooked das Trio MODUS und veröffentlichte die Alben „Emulation“ und „Manifest“, u. a. auf Critical Music.",
+   "en": "Drum & bass producer Mefjus (Martin Schober) from Linz, together with veteran MC Daxta. Mefjus co-founded the trio MODUS with Camo & Krooked and released the albums “Emulation” and “Manifest”, including on Critical Music."
+  },
+  "src": [
+   "https://ra.co/dj/mefjus",
+   "https://ra.co/events/2513205"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Dub Phizix & Strategy": {
+  "links": {
+   "ra": "https://ra.co/dj/dubphizix",
+   "sc": "https://soundcloud.com/dubphizix",
+   "web": "https://www.dubphizix.com/"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "labels": [
+   "Soul:r",
+   "Exit Records",
+   "Dispatch Recordings",
+   "Samurai Music",
+   "Commercial Suicide",
+   "fabric Records"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Drum-&-Bass-Act aus Großbritannien: Produzent und DJ Dub Phizix zusammen mit MC Strategy. Dub Phizix veröffentlichte u. a. auf Soul:r, Exit Records, Dispatch und Samurai Music und mixte Fabriclive 84.",
+   "en": "Drum & bass act from the UK: producer and DJ Dub Phizix together with MC Strategy. Dub Phizix has released on labels including Soul:r, Exit Records, Dispatch and Samurai Music and mixed Fabriclive 84."
+  },
+  "src": [
+   "https://pt.ra.co/dj/dubphizix",
+   "https://ra.co/news/31703",
+   "https://ra.co/events/1343146"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Forbidden Society": {
+  "links": {
+   "sc": "https://soundcloud.com/forbiddensociety",
+   "bc": "https://forbiddensocietyrecordings.bandcamp.com"
+  },
+  "from": {
+   "de": "Tschechien",
+   "en": "Czech Republic"
+  },
+  "real": "Jindrich Brejcha",
+  "labels": [
+   "Forbidden Society Recordings"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Tschechischer Bass-Veteran, der von Hardcore und Breakcore zu hartem Drum & Bass kam und heute auch tiefere, rollende Sounds mit Halftime-Elementen produziert. Betreibt das Label Forbidden Society Recordings; Alben u. a. „Thronecrusher“ und „Fog Walk“.",
+   "en": "Czech bass veteran who moved from hardcore and breakcore to hard drum & bass and now also produces deeper, rolling sounds with halftime elements. Runs the label Forbidden Society Recordings; albums include “Thronecrusher” and “Fog Walk”."
+  },
+  "src": [
+   "https://ukf.com/read/how-forbidden-society-found-his-groove-again",
+   "https://forbiddensocietyrecordings.bandcamp.com"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Tobax": {
+  "links": {
+   "sc": "https://soundcloud.com/alex-tobax"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Drum-&-Bass-Produzent mit Releases u. a. auf Eatbrain, Neuropunk Records und Titan Records.",
+   "en": "Drum & bass producer with releases on labels including Eatbrain, Neuropunk Records and Titan Records."
+  },
+  "src": [
+   "https://soundcloud.com/eatbrain/tobax-burning-eatbrain082",
+   "https://soundcloud.com/neuropunkrecords/tobax-time-illusion",
+   "https://soundcloud.com/titanrecords/titan026-tobax-one-chance-out-now"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Blind Judge": {
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Drum-&-Bass-DJ aus Österreich, regelmäßig für CONTRAST in der Grelle Forelle am Mainfloor.",
+   "en": "Drum & bass DJ from Austria, a regular on the main floor at CONTRAST nights in Grelle Forelle."
+  },
+  "src": [
+   "https://ra.co/events/2020426"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Redex": {
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Drum-&-Bass-DJ aus Österreich, regelmäßig bei CONTRAST in der Grelle Forelle, u. a. B2B mit AudioDevice.",
+   "en": "Drum & bass DJ from Austria, a regular at CONTRAST in Grelle Forelle, including B2B sets with AudioDevice."
+  },
+  "sets": [
+   {
+    "t": "AudioDevice B2B Redex – Warming up for Phace at Contrast Boatparty 21.8.2021",
+    "u": "https://soundcloud.com/audiodevice/audiodevice-b2b-redex-warming-up-4-phace-at-contrast-boatparty-2182021"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/events/2020426"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
  }
 };
 
