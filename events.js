@@ -44683,6 +44683,369 @@ const AR={
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04"
+ },
+ "Dora": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "Lost Content": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "Aras": {
+  "img": "https://static.ra.co/images/profiles/square/aras.jpg?dateUpdated=1722332517000",
+  "links": {
+   "ra": "https://ra.co/dj/aras"
+  },
+  "from": {
+   "de": "Tschechien",
+   "en": "Czech Republic"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Drum-&-Bass-DJ, laut Resident Advisor aus Tschechien. In Wien spielt Aras vor allem bei CONTRAST in der Grelle Forelle, u. a. bei der DARKMTTR Label Night und bei DJ Marky, sowie bei Switch! im Flex.",
+   "en": "Drum & bass DJ who, according to Resident Advisor, is based in the Czech Republic. In Vienna Aras mostly plays CONTRAST nights at Grelle Forelle, including the DARKMTTR label night and the DJ Marky show, as well as Switch! at Flex."
+  },
+  "src": [
+   "https://ra.co/dj/aras",
+   "https://ra.co/events/2099735"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Jalen Mess": {
+  "links": {
+   "sc": "https://soundcloud.com/jana-meissnitzer"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Drum-&-Bass-DJ mit Mixen für FM4, u. a. für die Digital Konfusion Mixshow, La Boum de Luxe und FM4 Unlimited (mit dem Kollektiv ami|kal). Spielte auch B2B mit Van:Hill im Marley Club in Ostrava.",
+   "en": "Drum & bass DJ who has recorded mixes for FM4, including the Digital Konfusion Mixshow, La Boum de Luxe and FM4 Unlimited (with the ami|kal collective). Also played B2B with Van:Hill at Marley Club in Ostrava."
+  },
+  "sets": [
+   {
+    "t": "ami|kal x FM4 Unlimited – Jalen Mess",
+    "u": "https://soundcloud.com/amikalkollektiv/fm4-unlimited-jalen-mess"
+   },
+   {
+    "t": "La Boum de Luxe 08.10.2021 / The Hive [Drum and Bass]",
+    "u": "https://soundcloud.com/jana-meissnitzer/la-boum-de-luxe-08102021-the-hive-drum-and-bass"
+   },
+   {
+    "t": "Digital Konfusion Mixshow on FM4 13.12.2020 [Drum & Bass]",
+    "u": "https://soundcloud.com/jana-meissnitzer/jalen-mess-dkm"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "noImg": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/jana-meissnitzer",
+   "https://soundcloud.com/amikalkollektiv/fm4-unlimited-jalen-mess"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Sarah Allen": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "Jas Rial": {
+  "img": "https://static.ra.co/images/profiles/square/jasrial.jpg?dateUpdated=1756458109720",
+  "links": {
+   "ra": "https://ra.co/dj/jasrial",
+   "sc": "https://soundcloud.com/jas_rial",
+   "bc": "https://jasrial.bandcamp.com",
+   "ig": "https://www.instagram.com/jas.rial"
+  },
+  "from": {
+   "de": "Österreich (Wien)",
+   "en": "Austria (Vienna)"
+  },
+  "genres": [
+   "Minimal",
+   "House"
+  ],
+  "labels": [
+   "Room 555",
+   "Whoyostro",
+   "Elastique Music",
+   "Pleasure in Mind Records",
+   "Na Zrak Records",
+   "Midnight Social Recordings"
+  ],
+  "bio": {
+   "de": "Wiener DJ und Produzent mit rollenden Grooves zwischen Minimal und House. Mitgründer des Wiener Kollektivs Room 555, auf dessen Label 2020 seine „Astronomical Forms EP“ erschien; weitere Releases u. a. auf Midnight Social Recordings und im Eigenverlag (JR001, JR002).",
+   "en": "Vienna-based DJ and producer playing rolling grooves somewhere between minimal and house. Co-founder of the Viennese collective Room 555, whose label released his “Astronomical Forms EP” in 2020; further releases include Midnight Social Recordings and his self-released JR001 and JR002."
+  },
+  "sets": [
+   {
+    "t": "[ROOMCAST006] Jas Rial",
+    "u": "https://soundcloud.com/room555/roomcast-006-jas-rial"
+   },
+   {
+    "t": "[ROOMCAST003] Jas Rial",
+    "u": "https://soundcloud.com/room555/roomcast003-jas-rial"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/jasrial",
+   "https://jasrial.bandcamp.com/",
+   "https://room555.bandcamp.com/album/astronomical-forms-ep"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Sunshine Daddy": {
+  "genres": [
+   "Minimal",
+   "House"
+  ],
+  "bio": {
+   "de": "DJ und Produzent aus dem Umfeld des Wiener Kollektivs Room 555, für das er den Podcast ROOMCAST004 aufnahm. Mit Jas Rial veröffentlichte er die Tracks „Shinobi’s Pitch“ und „Shaolin Monk“.",
+   "en": "DJ and producer from the circle of the Viennese collective Room 555, for which he recorded the ROOMCAST004 podcast. Together with Jas Rial he released the tracks “Shinobi’s Pitch” and “Shaolin Monk”."
+  },
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/room555/roomcast004-sunshine-daddy",
+   "https://jasrial.bandcamp.com/"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "FNKYN": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "Ridgie": {
+  "img": "https://static.ra.co/images/profiles/square/ridgie.jpg?dateUpdated=1699896919000",
+  "links": {
+   "ra": "https://ra.co/dj/ridgie"
+  },
+  "from": {
+   "de": "Kroatien (Zagreb), lebt in Wien",
+   "en": "Croatia (Zagreb), based in Vienna"
+  },
+  "genres": [
+   "Techno",
+   "Hypnotic Techno"
+  ],
+  "bio": {
+   "de": "Techno-DJ aus Zagreb, der in Wien lebt. Begann 2016 mit Hardtechno und fand später zu einem langsameren, groovigen und hypnotischen Sound mit minimalistischem Fundament, gelegentlich mit Breaks. In Wien veranstaltet er unter dem Namen Neoteric eigene Clubnächte und spielt häufig im Ponyhof.",
+   "en": "Techno DJ from Zagreb, Croatia, now based in Vienna. Started out with hard techno in 2016 before moving to a slower, groovier and more hypnotic sound built on a minimalist foundation, sometimes with breaks. In Vienna he runs his own club nights under the name Neoteric and plays regularly at Der Ponyhof."
+  },
+  "src": [
+   "https://es.ra.co/events/2099189",
+   "https://es.ra.co/dj/ridgie"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Luuk van Dijk": {
+  "img": "https://static.ra.co/images/profiles/square/luukvandijk-nl.jpg?dateUpdated=1578321792000",
+  "links": {
+   "ra": "https://ra.co/dj/luukvandijk-nl"
+  },
+  "from": {
+   "de": "Niederlande (Amsterdam)",
+   "en": "Netherlands (Amsterdam)"
+  },
+  "genres": [
+   "Tech House",
+   "House"
+  ],
+  "labels": [
+   "Hot Creations",
+   "Solid Grooves",
+   "VIVa Music",
+   "Circus Recordings"
+  ],
+  "bio": {
+   "de": "In Amsterdam ansässiger DJ und Produzent, der seit 2011 elektronische Musik macht und für groovigen Tech House mit markanten Basslines bekannt ist. Releases u. a. auf Hot Creations, Solid Grooves, VIVa Music und Circus Recordings; Auftritte bei Awakenings, Paradise, elrow und Cocoon sowie eine Residency bei Straf_Werk.",
+   "en": "Amsterdam-based DJ and producer making electronic music since 2011, known for groovy tech house with distinctive basslines. Releases on labels including Hot Creations, Solid Grooves, VIVa Music and Circus Recordings; he has played Awakenings, Paradise, elrow and Cocoon and holds a residency at Straf_Werk."
+  },
+  "src": [
+   "https://ra.co/dj/luukvandijk-nl/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Baran Kok": {
+  "img": "https://static.ra.co/images/profiles/square/barankok.jpg?dateUpdated=1727342185503",
+  "links": {
+   "ra": "https://ra.co/dj/barankok",
+   "sc": "https://www.soundcloud.com/baranskok",
+   "ig": "https://www.instagram.com/baranskok"
+  },
+  "from": {
+   "de": "Deutschland (Berlin), geboren in Istanbul",
+   "en": "Germany (Berlin), born in Istanbul"
+  },
+  "genres": [
+   "Hip-Hop",
+   "Tech House",
+   "Baile Funk"
+  ],
+  "bio": {
+   "de": "In Istanbul geboren und als Kind kurdischer Geflüchteter in Freiburg im Breisgau aufgewachsen, lebt Baran Kok in Berlin und ist dort in der Underground-Clubszene wie in der Rap-Szene aktiv. Seine schnellen Sets verbinden Hip-Hop, vor allem weiblichen Rap, mit Pop, Tech House und Baile Funk.",
+   "en": "Born in Istanbul and raised in Freiburg im Breisgau as the child of Kurdish refugees, Baran Kok is based in Berlin, where he is active in both the underground club scene and the rap scene. His high-tempo sets blend hip-hop, especially female rap, with pop, tech house and baile funk."
+  },
+  "src": [
+   "https://ra.co/dj/barankok",
+   "https://ra.co/dj/barankok/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "DjBounty3000": {
+  "img": "https://static.ra.co/images/profiles/square/djbounty3000.jpg?dateUpdated=1649855306000",
+  "links": {
+   "ra": "https://ra.co/dj/djbounty3000",
+   "ig": "https://www.instagram.com/djbounty3000"
+  },
+  "from": {
+   "de": "Deutschland (Berlin), lebt in Amsterdam",
+   "en": "Germany (Berlin), based in Amsterdam"
+  },
+  "labels": [
+   "Molekül"
+  ],
+  "bio": {
+   "de": "In Berlin geborener und aufgewachsener DJ und Produzent, der in Amsterdam lebt. Legt funkige Grooves ebenso auf wie schnelle Breakbeats, schätzt Vinyl und experimentiert mit Hybrid-Sets mit Gitarre; Releases u. a. auf Molekül.",
+   "en": "Berlin-born and raised DJ and producer based in Amsterdam. He plays funky grooves as well as fast breakbeat tracks, favours vinyl and experiments with hybrid sets featuring guitar; releases include the Molekül label."
+  },
+  "src": [
+   "https://ra.co/dj/djbounty3000",
+   "https://ra.co/dj/djbounty3000/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Icydeoz": {
+  "links": {
+   "sc": "https://soundcloud.com/deoz-zz"
+  },
+  "noImg": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/deoz-zz"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Yanther": {
+  "links": {
+   "sc": "https://soundcloud.com/yanther1"
+  },
+  "bio": {
+   "de": "DJ mit Mixen u. a. für die Reihen „kassette“ von sowasvon, „muschelmix“ von Laguna Life und FRUITCAST; spielte zusammen mit Eunoia im Kater Blau in Berlin.",
+   "en": "DJ who has recorded mixes for series including sowasvon’s “kassette”, Laguna Life’s “muschelmix” and FRUITCAST, and has played with Eunoia at Kater Blau in Berlin."
+  },
+  "sets": [
+   {
+    "t": "Kaffee Kippe Kiosk, keine Koko Kaka. Eunoia & Yanther @ Kater Blau",
+    "u": "https://soundcloud.com/yanther1/kaffee-kippe-kiosk-eunoia-moses-viders-kater-blau"
+   },
+   {
+    "t": "kassette #77 - Yanther",
+    "u": "https://soundcloud.com/swsvn/kassette-77-yanther"
+   },
+   {
+    "t": "muschelmix004: yanther",
+    "u": "https://soundcloud.com/lagunalife/muschelmix004"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "noImg": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/yanther1/kaffee-kippe-kiosk-eunoia-moses-viders-kater-blau",
+   "https://soundcloud.com/swsvn/kassette-77-yanther",
+   "https://soundcloud.com/lagunalife/muschelmix004"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Palms Trax": {
+  "img": "https://static.ra.co/images/profiles/square/palmstrax.jpg?dateUpdated=1734602133000",
+  "links": {
+   "ra": "https://ra.co/dj/palmstrax",
+   "sc": "https://www.soundcloud.com/palmstrax",
+   "ig": "https://www.instagram.com/palmstrax",
+   "web": "https://palmstrax.tumblr.com/"
+  },
+  "from": {
+   "de": "Deutschland (Berlin)",
+   "en": "Germany (Berlin)"
+  },
+  "real": "Jay Donaldson",
+  "genres": [
+   "House",
+   "Disco"
+  ],
+  "labels": [
+   "Dekmantel",
+   "Rush Hour Music",
+   "Secretsundaze",
+   "Lobster Theremin",
+   "CWPT"
+  ],
+  "bio": {
+   "de": "In Berlin lebender DJ und Produzent (bürgerlich Jay Donaldson). Seine erste Platte erschien im Oktober 2013 auf dem Londoner Label Lobster Theremin, weitere Releases folgten u. a. auf Dekmantel, Rush Hour und Secretsundaze. Spielt regelmäßig in Clubs wie Berghain/Panorama Bar, XOYO und DC-10.",
+   "en": "Berlin-based DJ and producer (real name Jay Donaldson). His first record came out in October 2013 on London label Lobster Theremin, followed by releases on Dekmantel, Rush Hour and Secretsundaze, among others. He plays regularly at clubs such as Berghain/Panorama Bar, XOYO and DC-10."
+  },
+  "src": [
+   "https://ra.co/dj/palmstrax"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Bodin": {
+  "img": "https://static.ra.co/images/profiles/square/bodin.jpg?dateUpdated=1466420806000",
+  "links": {
+   "ra": "https://ra.co/dj/bodin"
+  },
+  "from": {
+   "de": "Deutschland (Frankfurt)",
+   "en": "Germany (Frankfurt)"
+  },
+  "real": "Bodin Stojanoski",
+  "labels": [
+   "Traffic",
+   "Pressure Traxx",
+   "Gosu"
+  ],
+  "bio": {
+   "de": "DJ und Produzent aus Frankfurt und Gründer des Labels Traffic Records, auf dem auch sein Debütalbum erschien. Weitere Releases u. a. auf Pressure Traxx und Gosu; in Wien spielte er u. a. im PRST.",
+   "en": "Frankfurt-based DJ and producer and founder of the Traffic Records label, which also released his debut album. Further releases include Pressure Traxx and Gosu; in Vienna he has played at PRST, among others."
+  },
+  "src": [
+   "https://ra.co/dj/bodin"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "In Verruf": {
+  "img": "https://static.ra.co/images/profiles/square/inverruf.jpg?dateUpdated=1692784931000",
+  "links": {
+   "ra": "https://ra.co/dj/inverruf",
+   "sc": "https://www.soundcloud.com/inverruf"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "real": "Ferdinand Hartmann",
+  "genres": [
+   "Techno",
+   "Hard Techno"
+  ],
+  "labels": [
+   "R Label Group"
+  ],
+  "bio": {
+   "de": "Deutscher Techno-DJ und Produzent (bürgerlich Ferdinand Hartmann), der die Euphorie dunkler Underground-Räume auf die Tanzfläche bringen will. Releases auf der R Label Group; Auftritte u. a. beim Vortex Festival, Harbour Festival Leipzig und bei SCHRANZ is BACK in Madrid.",
+   "en": "German techno DJ and producer (real name Ferdinand Hartmann) who aims to bring the euphoria of dark underground spaces to the dancefloor. Releases on R Label Group; he has played Vortex Festival, Harbour Festival Leipzig and SCHRANZ is BACK in Madrid, among others."
+  },
+  "src": [
+   "https://ra.co/dj/inverruf"
+  ],
+  "infoChk": "2026-11-04"
  }
 };
 
