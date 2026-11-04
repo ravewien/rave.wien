@@ -41423,6 +41423,365 @@ const AR={
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04"
+ },
+ "Draco": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Dancekowsi": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "DJ Wolle": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Wurstsalon": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Emma Keks": {
+  "img": "https://goout.net/i/080/809161-383.jpg",
+  "links": {
+   "sc": "https://soundcloud.com/emmakeksmusic"
+  },
+  "from": {
+   "de": "Thüringen",
+   "en": "Thuringia"
+  },
+  "genres": [
+   "Tech House"
+  ],
+  "bio": {
+   "de": "DJ aus Thüringen, die vom Clubgast zur DJ wurde und in Berlin nach ihrem ersten All-Night-Set eine monatliche Residency bekam. Sie ist Teil von Voidance Records, einem Label und Kollektiv aus Berlin und London, und spielt Tech House und groovige Beats. Häufig tritt sie b2b mit Stephan Licha auf.",
+   "en": "DJ from Thuringia who went from clubgoer to DJ and landed a monthly residency in Berlin after her first all-night set. She is part of Voidance Records, a Berlin/London label and collective, and plays tech house and groovy beats. She often plays b2b with Stephan Licha."
+  },
+  "sets": [
+   {
+    "t": "Stephan Licha b2b Emma Keks Live @ Nacht Am See 17.06.23",
+    "u": "https://soundcloud.com/emmakeksmusic/stephan-licha-b2b-emma-keks-live-nacht-am-see-170623"
+   },
+   {
+    "t": "Emma Keks x Stephan Licha Podcast 003 (DeepTech)",
+    "u": "https://soundcloud.com/emmakeksmusic/emma-keks-x-stephan-licha-podcast-003-deeptech"
+   },
+   {
+    "t": "Mikro Clubcast No. 16 by Emma Keks",
+    "u": "https://soundcloud.com/mikroclubjena/mikro-clubcast-no-16-by-emma-keks"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://goout.net/de/emma-keks/pzjexdg/",
+   "https://ra.co/events/1470993"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Stephan Licha": {
+  "img": "https://static.ra.co/images/profiles/stephanlicha.jpg?dateUpdated=1489421846000",
+  "links": {
+   "ra": "https://ra.co/dj/stephanlicha",
+   "sc": "https://soundcloud.com/stephan-licha"
+  },
+  "from": {
+   "de": "Bayreuth / Berlin",
+   "en": "Bayreuth / Berlin"
+  },
+  "labels": [
+   "Lapsus Music",
+   "Weplayminimal",
+   "Flicker Rhythm",
+   "Switched On Records",
+   "Whoyostro",
+   "Shikki Mikki Records",
+   "Golden Gate Club Records"
+  ],
+  "bio": {
+   "de": "DJ und Produzent aus Bayreuth, der seit 2005 auflegt und 2009 nach Berlin zog. Erste Releases ab 2015 auf ShikkiMikki Records, danach u. a. auf Lapsus Music und Yellow Productions; sein Track „Choose One“ erreichte Platz 3 der Traxsource-Tech-House-Charts. Regelmäßig spielt er in Berlin und Wien, oft b2b mit Emma Keks.",
+   "en": "DJ and producer from Bayreuth who has been DJing since 2005 and moved to Berlin in 2009. First releases from 2015 on ShikkiMikki Records, later on Lapsus Music and Yellow Productions among others; his track “Choose One” reached #3 in the Traxsource tech house charts. He plays regularly in Berlin and Vienna, often b2b with Emma Keks."
+  },
+  "sets": [
+   {
+    "t": "Emma Keks & Stephan Licha b2b",
+    "u": "https://soundcloud.com/stephan-licha/emma-keks-stephan-licha-b2b"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/stephanlicha/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Mandidextrous": {
+  "img": "https://static.ra.co/images/profiles/mandidextrous.jpg?dateUpdated=1554733483000",
+  "links": {
+   "ra": "https://ra.co/dj/mandidextrous",
+   "sc": "https://soundcloud.com/mandidextroustnt"
+  },
+  "from": {
+   "de": "Großbritannien",
+   "en": "United Kingdom"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Jungle"
+  ],
+  "bio": {
+   "de": "DJ und Produzentin aus Großbritannien, aktiv seit den frühen 2010ern, mit Schwerpunkt Drum & Bass und Jungle. Releases u. a. auf RAM Records; Sets auf Festivals wie Liquicity und für Hospital Records. Spielt regelmäßig in London, Bristol und Leeds.",
+   "en": "UK DJ and producer active since the early 2010s, focused on drum & bass and jungle. Releases include RAM Records; sets at festivals such as Liquicity and for Hospital Records. She plays regularly in London, Bristol and Leeds."
+  },
+  "sets": [
+   {
+    "t": "Mandidextrous DJ Set – Liquicity Festival 2023",
+    "u": "https://soundcloud.com/liquicityevents/mandidextrous-dj-set-liquicity-festival-2023"
+   },
+   {
+    "t": "Mandidextrous DJ Set – U Fest 2023",
+    "u": "https://soundcloud.com/wearestudio/mandidextrous-dj-set-u-fest-2023"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/mandidextrous"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Demuja": {
+  "img": "https://static.ra.co/images/profiles/square/demuja.jpg?dateUpdated=1567268738000",
+  "links": {
+   "ra": "https://ra.co/dj/demuja",
+   "sc": "https://soundcloud.com/demuja",
+   "bc": "https://demuja.bandcamp.com",
+   "ig": "https://www.instagram.com/iamdemuja",
+   "web": "https://demuja.com"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "House",
+   "Disco"
+  ],
+  "labels": [
+   "MUJA",
+   "Aus Music",
+   "Freerange Records",
+   "Nervous Records",
+   "Toy Tonics",
+   "Shall Not Fade",
+   "Madhouse"
+  ],
+  "bio": {
+   "de": "In Österreich ansässiger DJ und Produzent, der Disco, House und Techno mit soulful-emotionalem Ansatz verbindet. Die meisten Tracks erscheinen auf seinem eigenen Label MUJA, dazu Releases u. a. auf Shall Not Fade, Nervous Records und Freerange. Er hat in 38 Ländern gespielt und wurde u. a. von BBC Radio 1, NTS und Mixmag gefeatured.",
+   "en": "Austria-based DJ and producer blending disco, house and techno with a soulful, emotive approach. Most of his music comes out on his own label MUJA, with further releases on Shall Not Fade, Nervous Records and Freerange among others. He has played in 38 countries and been featured by BBC Radio 1, NTS and Mixmag."
+  },
+  "src": [
+   "https://ra.co/dj/demuja/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Serafina": {
+  "img": "https://static.ra.co/images/profiles/square/serafina.jpg?dateUpdated=1781775413000",
+  "links": {
+   "ra": "https://ra.co/dj/serafina",
+   "sc": "https://soundcloud.com/kaLWjTJGujaz7E7J9",
+   "ig": "https://www.instagram.com/serafina.music"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "src": [
+   "https://ra.co/dj/serafina",
+   "https://ra.co/events/2034402"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Ice Scholle": {
+  "img": "https://static.ra.co/images/profiles/square/icescholle.jpg?dateUpdated=1724079988000",
+  "links": {
+   "ra": "https://ra.co/dj/icescholle",
+   "ig": "https://www.instagram.com/icescholle_2000"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Wiener DJ aus dem Umfeld von Radio Rudina, gespielt vor allem in der Grelle Forelle und im PRST, u. a. bei AFTERMATH Vol. 6 und den Radio-Rudina-Nächten mit DJ Lelo und DJ.org.",
+   "en": "Vienna-based DJ from the Radio Rudina circle, playing mainly at Grelle Forelle and PRST, including AFTERMATH Vol. 6 and the Radio Rudina nights with DJ Lelo and DJ.org."
+  },
+  "src": [
+   "https://ra.co/dj/icescholle",
+   "https://ra.co/events/2034402"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Lelo": {
+  "alias": [
+   "DJ Lelo"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/djlelo.jpg?dateUpdated=1723475213000",
+  "links": {
+   "ra": "https://ra.co/dj/djlelo",
+   "sc": "https://soundcloud.com/leonleon001",
+   "ig": "https://www.instagram.com/lelo.leon"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Wiener DJ aus dem Umfeld von Radio Rudina, gespielt vor allem in der Grelle Forelle und im PRST, u. a. bei AFTERMATH Vol. 6.",
+   "en": "Vienna-based DJ from the Radio Rudina circle, playing mainly at Grelle Forelle and PRST, including AFTERMATH Vol. 6."
+  },
+  "src": [
+   "https://ra.co/dj/djlelo",
+   "https://ra.co/events/2034402"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Stoneturner": {
+  "img": "https://static.ra.co/images/profiles/square/stoneturner.jpg?dateUpdated=1730367299000",
+  "links": {
+   "ra": "https://ra.co/dj/stoneturner"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "src": [
+   "https://ra.co/dj/stoneturner",
+   "https://ra.co/events/2034402"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Ypsy": {
+  "img": "https://static.ra.co/images/profiles/square/ypsy.jpg?dateUpdated=1723648110000",
+  "links": {
+   "ra": "https://ra.co/dj/ypsy",
+   "ig": "https://www.instagram.com/ypsychotropicos"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "src": [
+   "https://ra.co/dj/ypsy",
+   "https://ra.co/events/2034402"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Elli Acula": {
+  "img": "https://static.ra.co/images/profiles/square/elliacula.jpg?dateUpdated=1740582014297",
+  "links": {
+   "ra": "https://ra.co/dj/elliacula",
+   "sc": "https://soundcloud.com/elliacula",
+   "ig": "https://www.instagram.com/elli.acula",
+   "web": "https://elliacula.com"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Hypercolour",
+   "SPANDAU20",
+   "fabric Originals"
+  ],
+  "bio": {
+   "de": "Internationale Techno-DJ und Produzentin aus Deutschland, bekannt für energiegeladene, groovige Sets. Sie spielte u. a. im Berghain, Printworks und Fabric sowie auf Festivals wie Glastonbury und Awakenings (Mainstage). Releases u. a. auf Hypercolour, SPANDAU20 und fabric Originals.",
+   "en": "International techno DJ and producer from Germany known for upbeat, groove-driven sets. She has played Berghain, Printworks and Fabric as well as festivals such as Glastonbury and Awakenings (main stage). Releases on Hypercolour, SPANDAU20 and fabric Originals among others."
+  },
+  "src": [
+   "https://ra.co/dj/elliacula"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Mollono.Bass": {
+  "alias": [
+   "Molle"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/mollono.bass.jpg?dateUpdated=1317366130000",
+  "links": {
+   "ra": "https://ra.co/dj/mollono.bass",
+   "web": "https://www.3000booking.de"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Acker Records",
+   "3000° Records",
+   "Ostwind Records",
+   "Simple as That Records",
+   "Fenou"
+  ],
+  "bio": {
+   "de": "Deutscher DJ und Produzent, Gründungsmitglied des Quartetts Kombinat100 und seit Langem fester Teil der Szene rund um 3000Grad. 2006 gründete er Acker Records, das er bis heute leitet; Releases u. a. auf 3000° Records, Ostwind und Fenou.",
+   "en": "German DJ and producer, founding member of the quartet Kombinat100 and a long-standing figure in the 3000Grad scene. In 2006 he founded Acker Records, which he still runs; releases on 3000° Records, Ostwind and Fenou among others."
+  },
+  "src": [
+   "https://ra.co/dj/mollono.bass"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Mark Reeve": {
+  "img": "https://static.ra.co/images/profiles/square/markreeve.jpg?dateUpdated=1500508800000",
+  "links": {
+   "ra": "https://ra.co/dj/markreeve",
+   "sc": "https://soundcloud.com/markreeve",
+   "web": "https://www.mark-reeve.com"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Drumcode",
+   "Afterlife"
+  ],
+  "bio": {
+   "de": "Deutscher Techno-DJ und Produzent mit Releases auf Drumcode und Afterlife. Er spielt international in Clubs und auf Festivals.",
+   "en": "German techno DJ and producer with releases on Drumcode and Afterlife. He plays clubs and festivals internationally."
+  },
+  "src": [
+   "https://ra.co/dj/markreeve"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Tonic Walter": {
+  "img": "https://static.ra.co/images/profiles/square/tonicwalter.jpg?dateUpdated=1779289518290",
+  "links": {
+   "ra": "https://ra.co/dj/tonicwalter",
+   "sc": "https://soundcloud.com/therealtonicwalter",
+   "ig": "https://www.instagram.com/therealtonicwalter",
+   "web": "https://www.tonicwalter.de/"
+  },
+  "from": {
+   "de": "Süddeutschland",
+   "en": "Southern Germany"
+  },
+  "bio": {
+   "de": "Elektronisches Duo aus Süddeutschland, bestehend aus den langjährigen Freunden Maximilian Nestmann und Marcel Vckov. Es spielt international, u. a. in Barcelona und Amsterdam.",
+   "en": "Electronic duo from southern Germany made up of longtime friends Maximilian Nestmann and Marcel Vckov. They play internationally, including Barcelona and Amsterdam."
+  },
+  "src": [
+   "https://ra.co/dj/tonicwalter"
+  ],
+  "infoChk": "2026-11-04"
  }
 };
 
