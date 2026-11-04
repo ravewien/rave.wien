@@ -41152,6 +41152,277 @@ const AR={
    "https://ra.co/dj/nicolasjulian/biography"
   ],
   "infoChk": "2026-11-04"
+ },
+ "Cobb Douglas": {
+  "img": "https://static.ra.co/images/profiles/square/cobbdouglas.jpg?dateUpdated=1662368392000",
+  "links": {
+   "ra": "https://ra.co/dj/cobbdouglas",
+   "sc": "https://soundcloud.com/cobb-douglas",
+   "ig": "https://www.instagram.com/cobb_douglasx/"
+  },
+  "from": {
+   "de": "Barcelona (lebt in Berlin)",
+   "en": "Barcelona (based in Berlin)"
+  },
+  "genres": [
+   "Bouncy",
+   "Trance",
+   "Hardstyle"
+  ],
+  "bio": {
+   "de": "Cobb Douglas ist ein Multigenre-DJ und Produzent aus Barcelona, der in Berlin lebt. Seine Sets mischen Bouncy, Trance, Hardstyle und Hardcore mit hohen BPM und Remixes bekannter Songs; er ist in der queeren Techno-Szene aktiv und versteht Raves als sichere Räume. Er spielte u. a. bei GOAT BALL in Berlin und im Razzmatazz.",
+   "en": "Cobb Douglas is a multi-genre DJ and producer from Barcelona based in Berlin. His sets mix bouncy, trance, hardstyle and hardcore at high BPMs with remixes of well-known songs; he is active in the queer techno scene and sees raves as safe spaces. He has played GOAT BALL in Berlin and Razzmatazz."
+  },
+  "sets": [
+   {
+    "t": "Closing Set Lokschuppen Berlin (Suicide Club)",
+    "u": "https://soundcloud.com/cobb-douglas/closing-set-lokschuppen-berlin-suicide-club-fhainest-0203-3"
+   },
+   {
+    "t": "Closing HUMAN CLUB Razzmatazz 13/01",
+    "u": "https://soundcloud.com/cobb-douglas/closinghumanrazzamatazz"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/cobbdouglas/biography",
+   "https://ra.co/events/2332715"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Sohoe": {
+  "img": "https://static.ra.co/images/profiles/square/sohoe.jpg?dateUpdated=1750118575797",
+  "links": {
+   "ra": "https://ra.co/dj/sohoe",
+   "sc": "https://soundcloud.com/sohoe-bln",
+   "ig": "https://www.instagram.com/sohoe.bln/"
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "genres": [
+   "Techno",
+   "Trance",
+   "Guaracha"
+  ],
+  "bio": {
+   "de": "SOHOE ist DJ in der Berliner Clubszene und spielt poppigen Techno, Trance und Guaracha mit einem Fokus auf Selbstausdruck, Freiheit und Nostalgie. Nach dem Debüt im Humboldthain Club folgten u. a. Auftritte bei GOAT BALL; erklärtes Ziel ist eine inklusivere elektronische Musikszene.",
+   "en": "SOHOE is a DJ in Berlin's club scene playing poppy techno, trance and guaracha with a focus on self-expression, freedom and nostalgia. After a debut at Humboldthain Club came appearances including GOAT BALL; the stated aim is a more inclusive electronic music scene."
+  },
+  "src": [
+   "https://ra.co/dj/sohoe/biography",
+   "https://de.ra.co/events/1676594"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Terra Twiins": {
+  "img": "https://static.ra.co/images/profiles/square/terratwiins.jpg?dateUpdated=1701082821000",
+  "links": {
+   "ra": "https://ra.co/dj/terratwiins",
+   "sc": "https://soundcloud.com/terratwiins",
+   "ig": "https://www.instagram.com/terra.twiins/"
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "genres": [
+   "Trance",
+   "Techno"
+  ],
+  "bio": {
+   "de": "TERRA TWIINS (Emkay & Teejay) sind ein Berliner DJ-Duo aus der Trance- und Techno-Szene. Sie spielten auf mehreren Festivals, etwa Splash und Feel Festival 2023, sowie in Clubs in ganz Europa und veröffentlichen eigene Remixe.",
+   "en": "TERRA TWIINS (Emkay & Teejay) are a Berlin DJ duo from the trance and techno scene. They have played several festivals, including Splash and Feel Festival 2023, and clubs across Europe, and release their own remixes."
+  },
+  "sets": [
+   {
+    "t": "Terra Twiins – Splash Festival 2023",
+    "u": "https://soundcloud.com/terratwiins/splashfestival2023"
+   },
+   {
+    "t": "Terra Twiins – Feel Festival 2023",
+    "u": "https://soundcloud.com/terratwiins/feelfestival"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/terratwiins"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Super Sound Global": {
+  "img": "https://f4.bcbits.com/img/0033443239_23.jpg",
+  "links": {
+   "bc": "https://supersoundglobal.bandcamp.com"
+  },
+  "from": {
+   "de": "München, Deutschland",
+   "en": "Munich, Germany"
+  },
+  "bio": {
+   "de": "Super Sound Global ist eine Crew aus Plattensammlern und DJs aus München.",
+   "en": "Super Sound Global is a crew of record collectors and DJs from Munich, Germany."
+  },
+  "src": [
+   "https://supersoundglobal.bandcamp.com"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Fellowsoph": {
+  "img": "https://themessagemagazine.at/wp-content/uploads/2020/06/20200531_FellowsophEdiFlaneur-8426.jpg",
+  "links": {
+   "bc": "https://fellowsoph.bandcamp.com",
+   "ig": "https://www.instagram.com/fellow.und.edi/"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Hip-Hop"
+  ],
+  "labels": [
+   "Loewenhertz",
+   "Heiße Luft"
+  ],
+  "bio": {
+   "de": "Fellowsoph ist ein Wiener Rapper, der gemeinsam mit dem Produzenten Edi Flaneur jazzig-funkigen Boombap-HipHop macht. Solo erschienen die EPs „Ausblick“ und „Between The Beats“ auf Heiße Luft, als Duo 2020 das Album „Fahrräder und Drumracks“ auf Loewenhertz.",
+   "en": "Fellowsoph is a Vienna rapper who makes jazzy, funky boom-bap hip-hop together with producer Edi Flaneur. His solo EPs \"Ausblick\" and \"Between The Beats\" came out on Heiße Luft; as a duo they released the album \"Fahrräder und Drumracks\" on Loewenhertz in 2020."
+  },
+  "src": [
+   "https://themessagemagazine.at/fellowsoph-edi-flaneur-interview/"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Edi Flaneur": {
+  "img": "https://themessagemagazine.at/wp-content/uploads/2020/06/20200531_FellowsophEdiFlaneur-8426.jpg",
+  "links": {
+   "bc": "https://fellowedi.bandcamp.com/",
+   "ig": "https://www.instagram.com/fellow.und.edi/"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Hip-Hop"
+  ],
+  "labels": [
+   "Loewenhertz"
+  ],
+  "bio": {
+   "de": "Edi Flaneur ist ein Wiener Produzent, der aus der House- und Techno-Szene kam und über Jamsessions zum HipHop fand. Mit dem Rapper Fellowsoph macht er jazzig-funkigen Boombap; 2020 erschien das gemeinsame Album „Fahrräder und Drumracks“ auf Loewenhertz.",
+   "en": "Edi Flaneur is a Vienna producer who came from the house and techno scene and found his way to hip-hop through jam sessions. With rapper Fellowsoph he makes jazzy, funky boom-bap; their joint album \"Fahrräder und Drumracks\" came out on Loewenhertz in 2020."
+  },
+  "src": [
+   "https://themessagemagazine.at/fellowsoph-edi-flaneur-interview/"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Jonas Gottlieb": {
+  "alias": [
+   "Jogoli"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/devilsfruitjonas"
+  },
+  "genres": [
+   "House"
+  ],
+  "labels": [
+   "Dance Petrol Records",
+   "Panorama Records",
+   "Amsterdam Dance Capital"
+  ],
+  "bio": {
+   "de": "Jonas Gottlieb (auch Jogoli) ist ein House-Produzent und DJ mit Releases u. a. auf Dance Petrol Records („Backroom Player“), Panorama Records und Amsterdam Dance Capital. Er war Gast im Fuelcast von Dance Petrol Records und spielte u. a. bei HÖR in Berlin.",
+   "en": "Jonas Gottlieb (also Jogoli) is a house producer and DJ with releases on labels such as Dance Petrol Records (\"Backroom Player\"), Panorama Records and Amsterdam Dance Capital. He has recorded the Dance Petrol Fuelcast and played HÖR in Berlin."
+  },
+  "sets": [
+   {
+    "t": "Jonas Gottlieb @ HÖR 29.09.2026",
+    "u": "https://soundcloud.com/devilsfruitjonas/jonas-gottlieb-hoer-29-09-2026"
+   },
+   {
+    "t": "Fuelcast 025: Jonas Gottlieb",
+    "u": "https://soundcloud.com/dancepetrolrecords/fuelcast-025-jonas-gottlieb"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/devilsfruitjonas",
+   "https://www.traxsource.com/title/2108746/backroom-player"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Für Lau": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Dragon & DJ Orgy": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Monosol": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "NHDT aka Tino": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Davie Jones": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Tyler Bourbon": {
+  "src": [
+   "https://themessagemagazine.at/united-battle-culture-2-freestyle-acapella-und-eine-beatbox-premiere/"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Mamo": {
+  "src": [
+   "https://themessagemagazine.at/united-battle-culture-2-freestyle-acapella-und-eine-beatbox-premiere/"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Musio": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Joshy": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Brombeeren Ben": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "The Trip": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Alther": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
  }
 };
 
