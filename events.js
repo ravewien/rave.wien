@@ -30478,6 +30478,1281 @@ const AR={
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
   "setsChecked": "2026-11-04"
+ },
+ "Bababass3000": {
+  "img": "https://static.ra.co/images/profiles/square/bababass3000.jpg?dateUpdated=1747686505993",
+  "links": {
+   "ra": "https://ra.co/dj/bababass3000",
+   "sc": "https://soundcloud.com/bababass3000",
+   "ig": "https://www.instagram.com/bababass3000"
+  },
+  "bio": {
+   "de": "BabaBass3000 ist ein DJ und Produzent aus Deutschland, der sich selbst mit „Trancy, Bouncy, Wyld“ beschreibt. Seine Tracks und Edits erscheinen u. a. bei WYLDHEARTS und Sachsentrance, teils gemeinsam mit HugoBass303.",
+   "en": "BabaBass3000 is a DJ and producer from Germany who describes his style as \"Trancy, Bouncy, Wyld\". His tracks and edits have been released on WYLDHEARTS and Sachsentrance, some in collaboration with HugoBass303."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Trance"
+  ],
+  "labels": [
+   "WYLDHEARTS",
+   "Sachsentrance"
+  ],
+  "src": [
+   "https://de.ra.co/dj/bababass3000",
+   "https://soundcloud.com/wyldhearts/bababass3000-chop-chop-original-mix",
+   "https://soundcloud.com/sachsentrance/st013-bababass3000-hugobass303-heat-this-party"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Baumeister98": {
+  "img": "https://static.ra.co/images/profiles/square/baumeister98.jpg?dateUpdated=1750409977000",
+  "links": {
+   "ra": "https://ra.co/dj/baumeister98",
+   "sc": "https://soundcloud.com/baumeister98"
+  },
+  "bio": {
+   "de": "Baumeister98 ist ein DJ aus Deutschland, der energiegeladene, trance-inspirierte Sets mit Melodie, Druck und Tiefgang spielt. Das Projekt entstand laut eigener Bio auf einer Baustelle und ist für intensive Peak-Momente gemacht. Am häufigsten spielt er in Köln, u. a. im Artheater und im Schrotty.",
+   "en": "Baumeister98 is a DJ from Germany playing energetic, trance-inspired sets combining melody, pressure and depth. According to his bio, the project was born on a construction site and is built for intense peak-time moments. He plays most often in Cologne, including Artheater and Schrotty."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Trance"
+  ],
+  "real": "Tobias Weindorf",
+  "src": [
+   "https://de.ra.co/dj/baumeister98",
+   "https://soundcloud.com/baumeister98"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Ferrand": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Calu": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Kafka": {
+  "bio": {
+   "de": "KAFKA ist ein Duo aus zwei Brüdern aus Österreich, die ihre gemeinsame Liebe zu House verbindet. Geprägt von Funk, Soul und Disco entwickeln sie einen Sound zwischen deep und tanzbar.",
+   "en": "KAFKA is a duo of two brothers from Austria united by their shared love for house music. Shaped by funk, soul and disco, they are developing a sound that sits between deep and danceable."
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "House"
+  ],
+  "src": [
+   "https://ra.co/events/2303170"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "NVST": {
+  "img": "https://static.ra.co/images/profiles/square/nvst.jpg?dateUpdated=1771548353320",
+  "links": {
+   "ra": "https://ra.co/dj/nvst",
+   "sc": "https://soundcloud.com/ghettonast"
+  },
+  "bio": {
+   "de": "NVST ist ein Schweizer DJ und Produzent, der aus der Free-Party- und Rave-Szene von Lausanne kommt. Seine Sets bewegen sich zwischen Breakbeat, Techno, Acid und Industrial. Veröffentlichungen erschienen u. a. auf Tresor, Dekmantel und Fabric Records; Residencies hat er im C12 in Brüssel sowie bei Kiosk Radio und Rinse FM.",
+   "en": "NVST is a Swiss DJ and producer who emerged from Lausanne's free party and rave scene. His sets span breakbeat, techno, acid and industrial. He has released on Tresor, Dekmantel and Fabric Records, among others, and holds residencies at C12 in Brussels as well as with Kiosk Radio and Rinse FM."
+  },
+  "from": {
+   "de": "Lausanne, Schweiz",
+   "en": "Lausanne, Switzerland"
+  },
+  "genres": [
+   "Breakbeat",
+   "Techno",
+   "Acid",
+   "Industrial"
+  ],
+  "labels": [
+   "Tresor",
+   "Dekmantel",
+   "Fabric Records",
+   "Big Science",
+   "Serious Trouble",
+   "Club Culture",
+   "Pensament Sonic"
+  ],
+  "alias": [
+   "The Drift Institute"
+  ],
+  "sets": [
+   {
+    "t": "NVST – BBC Radio 6 Sweatbox Mix For Sherelle",
+    "u": "https://soundcloud.com/ghettonast/nvst-bbc6-sherelle-sweatbox"
+   },
+   {
+    "t": "NVST DJ set @ DT CAMP 2023",
+    "u": "https://soundcloud.com/digitaltsunami/nvst-1"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/nvst/biography",
+   "https://soundcloud.com/ghettonast/nvst-bbc6-sherelle-sweatbox",
+   "https://soundcloud.com/digitaltsunami/nvst-1"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Nick Curly": {
+  "img": "https://static.ra.co/images/profiles/square/nickcurly.jpg?dateUpdated=1448494071387",
+  "links": {
+   "ra": "https://ra.co/dj/nickcurly",
+   "sc": "https://soundcloud.com/nickcurly",
+   "ig": "https://www.instagram.com/nick.curly"
+  },
+  "bio": {
+   "de": "Nick Curly ist ein DJ und Produzent aus Deutschland, der seit seinem Durchbruch 2008 zu den führenden internationalen Acts im modernen House zählt. Er veröffentlichte u. a. auf Cocoon Recordings, Akbal Music und Cécille Records.",
+   "en": "Nick Curly is a DJ and producer from Germany who, since his breakthrough in 2008, has been one of the leading international acts in modern house music. He has released on Cocoon Recordings, Akbal Music and Cécille Records, among others."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "House"
+  ],
+  "labels": [
+   "Cocoon Recordings",
+   "Akbal Music",
+   "Cécille Records",
+   "8bit",
+   "Cécille Numbers",
+   "Circus Recordings",
+   "Definition:Music"
+  ],
+  "sets": [
+   {
+    "t": "Nick Curly Live at Crobar Buenos Aires (DJ Mag Latinoamérica)",
+    "u": "https://soundcloud.com/djmagla/nickcurly-crobarbuenosaires"
+   },
+   {
+    "t": "Awakenings Podcast #054 – Nick Curly",
+    "u": "https://soundcloud.com/awakenings/podcast-054-nick-curly"
+   },
+   {
+    "t": "Nick Curly Live @ Winter Music Conference 2013 (Miami)",
+    "u": "https://soundcloud.com/nickcurly/nick-curly-live-winter-music"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/nickcurly",
+   "https://soundcloud.com/nickcurly"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "D Dan": {
+  "img": "https://static.ra.co/images/profiles/square/ddan.jpg?dateUpdated=1744117697420",
+  "links": {
+   "ra": "https://ra.co/dj/ddan",
+   "sc": "https://soundcloud.com/ddan-tek",
+   "ig": "https://www.instagram.com/d.dan___"
+  },
+  "bio": {
+   "de": "D.Dan ist ein in den USA geborener, in Berlin lebender DJ und Produzent. Sein Sound bewegt sich zwischen groovigem Techno und psychedelischen, dunkleren, maschinenhaften Klängen. Releases erschienen u. a. auf Blue Hour, Arsenik und Amniote; zudem steuerte er den RA-Podcast RA.994 bei.",
+   "en": "D.Dan is a US-born, Berlin-based DJ and producer. His work sits where groove-driven techno meets psychedelic, darker and machine-focused sounds. He has released on Blue Hour, Arsenik and Amniote, among others, and contributed RA podcast RA.994."
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Blue Hour",
+   "Arsenik",
+   "Amniote",
+   "positivesource",
+   "summerpup"
+  ],
+  "src": [
+   "https://ra.co/dj/ddan",
+   "https://ra.co/podcast/994"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Carré": {
+  "img": "https://static.ra.co/images/profiles/square/carre.jpg?dateUpdated=1777287787130",
+  "links": {
+   "ra": "https://ra.co/dj/carre",
+   "sc": "https://soundcloud.com/carreo",
+   "ig": "https://www.instagram.com/carre__carre"
+  },
+  "bio": {
+   "de": "Carré ist Produzentin, DJ und Mitgründerin von Fast At Work. Die in den USA geborene Künstlerin lebte zuvor in Los Angeles und ist heute in London ansässig. Veröffentlichungen erschienen u. a. auf Tempa, SPE:C, Woozy und Bait.",
+   "en": "Carré is a producer, DJ and co-founder of Fast At Work. Born in the US, she previously lived in Los Angeles and is now based in London. She has released on Tempa, SPE:C, Woozy and Bait, among others."
+  },
+  "from": {
+   "de": "London",
+   "en": "London"
+  },
+  "labels": [
+   "Tempa",
+   "SPE:C",
+   "Woozy",
+   "Bait",
+   "Fast At Work"
+  ],
+  "real": "Carré Orenstein",
+  "src": [
+   "https://ra.co/dj/carre"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Dubrunner": {
+  "img": "https://static.ra.co/images/profiles/square/dubrunner.jpg?dateUpdated=1765885964200",
+  "links": {
+   "ra": "https://ra.co/dj/dubrunner",
+   "sc": "https://soundcloud.com/dubrunneruk",
+   "ig": "https://www.instagram.com/dubrunner___",
+   "bc": "https://dubrunner.bandcamp.com"
+  },
+  "bio": {
+   "de": "Dubrunner ist ein in Großbritannien geborener, in Deutschland lebender DJ und Produzent, der seinen Sound als „Industrial Reggae“ beschreibt. Veröffentlichungen erschienen auf Menace, Scuffed Recordings und Future Bounce; er spielte u. a. bei FWD>>, im Berghain und beim Outlook Origins.",
+   "en": "Dubrunner is a UK-born, Germany-based DJ and producer who describes his sound as \"Industrial Reggae\". He has released on Menace, Scuffed Recordings and Future Bounce, and has played FWD>>, Berghain and Outlook Origins, among others."
+  },
+  "from": {
+   "de": "Großbritannien",
+   "en": "United Kingdom"
+  },
+  "labels": [
+   "Menace",
+   "Scuffed Recordings",
+   "Future Bounce"
+  ],
+  "src": [
+   "https://ra.co/dj/dubrunner"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Truant": {
+  "img": "https://static.ra.co/images/profiles/truantuk.jpg?dateUpdated=1505144236000",
+  "links": {
+   "ra": "https://ra.co/dj/truantuk",
+   "sc": "https://soundcloud.com/truantuk"
+  },
+  "bio": {
+   "de": "Truant ist ein DJ und Produzent aus Großbritannien, der in der Bass- und Dub-orientierten Szene aktiv ist. Er spielte u. a. Bass-Nächte in London, Bristol, Sydney und Melbourne.",
+   "en": "Truant is a UK DJ and producer active in the bass- and dub-oriented scene. He has played bass nights in London, Bristol, Sydney and Melbourne, among others."
+  },
+  "from": {
+   "de": "Großbritannien",
+   "en": "United Kingdom"
+  },
+  "sets": [
+   {
+    "t": "Truant - JUAN005 Promo Mix",
+    "u": "https://soundcloud.com/juanforteuk/truant-juan005-promo-mix"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/truantuk",
+   "https://soundcloud.com/truantuk/a-london-feel-closer-vip",
+   "https://soundcloud.com/juanforteuk/truant-juan005-promo-mix"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Off The Grid": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Mike Vinyl": {
+  "img": "https://static.ra.co/images/profiles/mikevinyl.jpg?dateUpdated=1297292548000",
+  "links": {
+   "ra": "https://ra.co/dj/mikevinyl",
+   "sc": "https://www.soundcloud.com/mike-vinyl"
+  },
+  "bio": {
+   "de": "Mike Vinyl ist DJ, Produzent und Veranstalter aus Steyr (Oberösterreich) und legt seit den frühen 90ern Techno auf. Über seine Plattform Injectionmusic startete er Partyreihen wie Elektrofix, Auf der Flucht und Vinylauslese. Er war Resident im Club Ambassada Gavioli (Slowenien) und im NOVA in Sattledt; Releases erschienen u. a. auf Injectionmusic und Ipunk Rec.",
+   "en": "Mike Vinyl is a DJ, producer and promoter from Steyr, Upper Austria, playing techno since the early 90s. Through his platform Injectionmusic he launched party series such as Elektrofix, Auf der Flucht and Vinylauslese. He held residencies at Club Ambassada Gavioli (Slovenia) and NOVA in Sattledt; releases include Injectionmusic and Ipunk Rec."
+  },
+  "from": {
+   "de": "Steyr",
+   "en": "Steyr"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Injection Music"
+  ],
+  "real": "Mike Gelsinger",
+  "src": [
+   "https://ra.co/dj/mikevinyl",
+   "https://ra.co/dj/mikevinyl/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Tommahawk": {
+  "img": "https://static.ra.co/images/profiles/square/tommahawk.jpg?dateUpdated=1779891983983",
+  "links": {
+   "ra": "https://ra.co/dj/tommahawk",
+   "sc": "https://www.soundcloud.com/tommahawk_music",
+   "ig": "https://www.instagram.com/Tommahawk.music"
+  },
+  "bio": {
+   "de": "Tommahawk ist ein*e in Deutschland geborene*r DJ mit Basis in Hamburg. Releases erschienen u. a. auf Terminal M, Electric Ballroom und Rave The Planet; gemeinsam mit Dr. Motte entstand die offizielle Rave-The-Planet-Parade-Hymne 2026 „Imagine Love“.",
+   "en": "Tommahawk is a German-born DJ based in Hamburg. Releases have appeared on Terminal M, Electric Ballroom and Rave The Planet; a collaboration with Dr. Motte became the official 2026 Rave The Planet Parade anthem \"Imagine Love\"."
+  },
+  "from": {
+   "de": "Hamburg",
+   "en": "Hamburg"
+  },
+  "labels": [
+   "Terminal M",
+   "Electric Ballroom",
+   "Rave The Planet"
+  ],
+  "sets": [
+   {
+    "t": "Tommahawk @ Rave The Planet & Friends 2025 [Main Floor]",
+    "u": "https://soundcloud.com/ravetheplanetggmbh/tommahawk-rtp-friends-2025"
+   },
+   {
+    "t": "Tommahawk @ Oneiro Festival, Costa Rica",
+    "u": "https://soundcloud.com/tommahawk_music/oneiro-festival"
+   },
+   {
+    "t": "Tommahawk @ Uebel&Gefährlich, Hamburg",
+    "u": "https://soundcloud.com/tommahawk_music/generation-why-uebelgefahrlich-hamburg-10-june-2022"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://de.ra.co/dj/tommahawk",
+   "https://soundcloud.com/tommahawk_music/oneiro-festival",
+   "https://soundcloud.com/ravetheplanetggmbh/imagine-love"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Claudio Ricci": {
+  "img": "https://static.ra.co/images/profiles/square/claudioricci.jpg?dateUpdated=1604016000000",
+  "links": {
+   "ra": "https://ra.co/dj/claudioricci",
+   "sc": "https://soundcloud.com/claudioricci"
+  },
+  "bio": {
+   "de": "Claudio Ricci legt seit 1999 auf; seine Wurzeln liegen in Chile, seine Familie emigrierte während der Diktatur nach Österreich. Er spielt House in seinen Spielarten von Deep House bis Techno und stand mit Acts wie Solomun, The Chemical Brothers und John Digweed hinter dem Pult. Releases erschienen u. a. auf Stripped Down, MoBlack, Compost und Connected; auf Ibiza Global Radio moderierte er Radioshows.",
+   "en": "Claudio Ricci has been DJing since 1999; his roots are in Chile, and his family emigrated to Austria during the dictatorship. He plays house in its many forms from deep house to techno and has shared booths with Solomun, The Chemical Brothers and John Digweed. Releases appeared on Stripped Down, MoBlack, Compost and Connected, among others; he has hosted radio shows on Ibiza Global Radio."
+  },
+  "genres": [
+   "House",
+   "Deep House",
+   "Techno"
+  ],
+  "labels": [
+   "Connected",
+   "Compost",
+   "Isolate",
+   "MoBlack",
+   "Secret Fusion",
+   "Stripped Down",
+   "Coya Music",
+   "Heideton Records",
+   "Moodmusic",
+   "Blu Fin",
+   "Schönbrunner Perlen",
+   "Strizzi Records",
+   "Sudam Recordings"
+  ],
+  "real": "Claudio Cesar Ricci",
+  "sets": [
+   {
+    "t": "Claudio Ricci @ Supersonicos - Ibiza Sonica - 13.06.2024",
+    "u": "https://soundcloud.com/claudioricci/claudio-ricci-supersonicos-ibiza-sonica-13062024"
+   },
+   {
+    "t": "Soy Como Soy Radioshow Nr. 68",
+    "u": "https://soundcloud.com/claudioricci/soy-como-soy-radioshow-nr-68-ibiza-global-radio"
+   },
+   {
+    "t": "Stripped Down by Claudio Ricci #020 - 22.10.2020 - Live at Ibiza Global Radio",
+    "u": "https://soundcloud.com/claudioricci/strd_radio_cr_020"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/claudioricci/biography",
+   "https://soundcloud.com/claudioricci"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Shy One": {
+  "img": "https://static.ra.co/images/profiles/shyone.jpg?dateUpdated=1759401666000",
+  "links": {
+   "ra": "https://ra.co/dj/shyone",
+   "sc": "https://www.soundcloud.com/shyonebeats",
+   "bc": "https://shyone.bandcamp.com",
+   "ig": "https://www.instagram.com/shyclart"
+  },
+  "bio": {
+   "de": "Shy One ist DJ und Produzentin aus London mit Shows auf NTS („Soup To Nuts“) und Balamii Radio. Releases erschienen u. a. auf Big Dada, Eglo Records, Numbers, DVA Music und Wah Wah 45s; sie mischte den RA-Podcast RA.911.",
+   "en": "Shy One is a London DJ and producer with shows on NTS (\"Soup To Nuts\") and Balamii Radio. Releases have appeared on Big Dada, Eglo Records, Numbers, DVA Music and Wah Wah 45s, among others; she mixed RA podcast RA.911."
+  },
+  "from": {
+   "de": "London",
+   "en": "London"
+  },
+  "labels": [
+   "Big Dada",
+   "Eglo Records",
+   "Numbers",
+   "DVA Music",
+   "Diskotopia",
+   "Astral Black",
+   "Wah Wah 45s",
+   "Through My Speakers",
+   "Touching Bass"
+  ],
+  "real": "Mali Larrington-Nelson",
+  "sets": [
+   {
+    "t": "Shy One B2b Ruby Savage - Nike Air Max Day (Naarm/Melbourne)",
+    "u": "https://soundcloud.com/shyonebeats/shy-one-b2b-ruby-savage-nike-air-max-day"
+   },
+   {
+    "t": "Blast Radio 160122",
+    "u": "https://soundcloud.com/shyonebeats/shy-one-blast-radio-160122"
+   },
+   {
+    "t": "BIS Radio Show #1047 with Shy One",
+    "u": "https://soundcloud.com/timsweeney/shyone"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/shyone",
+   "https://ra.co/podcast/911",
+   "https://soundcloud.com/shyonebeats/tracks"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Freddy K": {
+  "img": "https://static.ra.co/images/profiles/freddyk.jpg?dateUpdated=1559123690000",
+  "links": {
+   "ra": "https://ra.co/dj/freddyk",
+   "sc": "https://www.soundcloud.com/freddy_k_berlin",
+   "bc": "https://keyvinyl.bandcamp.com",
+   "ig": "https://www.instagram.com/freddyk3614"
+  },
+  "bio": {
+   "de": "Freddy K ist seit 1991 Techno-DJ und Produzent und betreibt das Label KEY Vinyl. Er ist in Deutschland (Berlin) ansässig und mischte u. a. den RA-Podcast RA.641.",
+   "en": "Freddy K has been a techno DJ and producer since 1991 and runs the label KEY Vinyl. He is based in Germany (Berlin) and mixed RA podcast RA.641, among others."
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Key Vinyl"
+  ],
+  "real": "Alessio Armeni",
+  "sets": [
+   {
+    "t": "Krzrzrz Day 3",
+    "u": "https://soundcloud.com/freddy_k_berlin/krzrzrz-day-3"
+   },
+   {
+    "t": "Freddy K - Club Quarantäne 27.06.2020",
+    "u": "https://soundcloud.com/freddy_k_berlin/freddy-k-club-quarantane-27062020"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/freddyk",
+   "https://ra.co/podcast/641",
+   "https://soundcloud.com/freddy_k_berlin"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Don Darkoe": {
+  "links": {
+   "sc": "https://soundcloud.com/dondarkoe",
+   "ig": "https://www.instagram.com/dondarkoe"
+  },
+  "bio": {
+   "de": "DON DARKOE ist ein in Indonesien geborener, in Australien (Perth) lebender Drum-&-Bass-Produzent und DJ, der das Projekt Ende 2022 startete, um australischen Jump-Up zu pushen und Drum & Bass in Asien zu verbreiten. Releases erschienen u. a. auf Radar Records, Macky Gee Music, Pure Filth Records, CruCast und UKF; Tourneen führten ihn durch Australien, Neuseeland, Asien und Europa.",
+   "en": "DON DARKOE is an Indonesian-born, Australia-based (Perth) drum & bass producer and DJ who launched the project in late 2022 to push Australian jump-up and spread drum & bass across Asia. Releases include Radar Records, Macky Gee Music, Pure Filth Records, CruCast and UKF; he has toured Australia, New Zealand, Asia and Europe."
+  },
+  "from": {
+   "de": "Australien",
+   "en": "Australia"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Jump-Up"
+  ],
+  "labels": [
+   "Radar Records",
+   "Macky Gee Music",
+   "Pure Filth Records",
+   "CruCast",
+   "UKF"
+  ],
+  "noImg": "2026-11-04",
+  "src": [
+   "https://volumo.com/artist/606226-don-darkoe",
+   "https://ra.co/events/2286286",
+   "https://soundcloud.com/dondarkoe/tracks"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Atmos": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "src": [
+   "https://ra.co/events/2286286"
+  ]
+ },
+ "Feistling": {
+  "links": {
+   "sc": "https://soundcloud.com/feistling-mp3",
+   "bc": "https://feistling.bandcamp.com"
+  },
+  "bio": {
+   "de": "FEISTLING ist ein Drum-&-Bass-Produzent und DJ aus Österreich, beeinflusst von Dubstep, Trap und Bass House. Bekannt ist er vor allem für DnB-Flips und Remixe (u. a. von ISOxo, Marshmello & HOL! sowie Chase & Status), die er als Free Downloads veröffentlicht. 2025 spielte er bei der Blckshift Anniversary Session im PRST in Wien.",
+   "en": "FEISTLING is a drum & bass producer and DJ from Austria, influenced by dubstep, trap and bass house. He is known mainly for DnB flips and remixes (including ISOxo, Marshmello & HOL! and Chase & Status) released as free downloads. In 2025 he played the Blckshift Anniversary Session at PRST in Vienna."
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "src": [
+   "https://ra.co/events/2286286",
+   "https://soundcloud.com/feistling-mp3",
+   "https://feistling.bandcamp.com/track/back-again"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Mike Momburg": {
+  "img": "https://static.ra.co/images/profiles/square/mikemomburg.jpg?dateUpdated=1770124332873",
+  "links": {
+   "ra": "https://ra.co/dj/mikemomburg",
+   "sc": "https://soundcloud.com/mikemomburg",
+   "ig": "https://www.instagram.com/mikemomburg",
+   "web": "https://soundsound.net"
+  },
+  "bio": {
+   "de": "Mike Momburg ist ein House-DJ aus Köln. Er veröffentlicht u. a. auf Shall Not Fade und Spinning Beats und ist mit der Kölner Reihe SOUND SOUND verbunden, wo er regelmäßig mit Domenik Deckert im Gewölbe spielt.",
+   "en": "Mike Momburg is a Cologne-based house DJ. He has released on labels including Shall Not Fade and Spinning Beats and is connected to the Cologne series SOUND SOUND, regularly playing alongside Domenik Deckert at Gewölbe."
+  },
+  "from": {
+   "de": "Köln",
+   "en": "Cologne"
+  },
+  "genres": [
+   "House"
+  ],
+  "labels": [
+   "Shall Not Fade",
+   "Spinning Beats",
+   "SOUND SOUND"
+  ],
+  "sets": [
+   {
+    "t": "Domenik Deckert & Mike Momburg at Gewölbe, 15.12.23",
+    "u": "https://soundcloud.com/soundsoundcologne/domenik-deckert-mike-momburg-at-gewolbe-151223"
+   },
+   {
+    "t": "SPINNING RADIO 013 - MIKE MOMBURG",
+    "u": "https://soundcloud.com/spinningbeats/spinning-beats-radio-013-mike-momburg"
+   },
+   {
+    "t": "Mike Momburg @ Radio Rudina",
+    "u": "https://soundcloud.com/radiorudina/mike-momburh-radio-rudina"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/mikemomburg",
+   "https://soundcloud.com/mikemomburg/tracks"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "klangfülle": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Flo Massé": {
+  "img": "https://static.ra.co/images/profiles/square/flomasse.jpg?dateUpdated=1748488789653",
+  "links": {
+   "ra": "https://ra.co/dj/flomasse",
+   "sc": "https://soundcloud.com/flomasse",
+   "ig": "https://www.instagram.com/flo_masse"
+  },
+  "bio": {
+   "de": "Flo Massé stammt aus Brasilien und lebt in Spanien. Bekannt für eigenwillige Vinyl-Selektionen, spielt Flo Massé international in Amerika, Europa und Asien, u. a. im Rex Club Paris, im Studio Stereo Barcelona und bei Rinse France.",
+   "en": "Flo Massé was born in Brazil and is based in Spain. Known for distinctive vinyl selections, Flo Massé performs internationally across the Americas, Europe and Asia, including Rex Club Paris, Studio Stereo Barcelona and Rinse France."
+  },
+  "from": {
+   "de": "Brasilien",
+   "en": "Brazil"
+  },
+  "sets": [
+   {
+    "t": "HORS-SOL : Germain Cls invite Flo Massé - 28 Mars 2024 (Rinse France)",
+    "u": "https://soundcloud.com/rinse_france/hors-sol-germain-cls-invite-flo-masse-28-mars-2024"
+   },
+   {
+    "t": "DIM299 - Flo Massé (Dimensions Festival)",
+    "u": "https://soundcloud.com/dimensionsfestival/dim299-flo-masse"
+   },
+   {
+    "t": "HAWSMIX098 // Flo Massé",
+    "u": "https://soundcloud.com/hawsmusic/hawsmix098"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/flomasse",
+   "https://soundcloud.com/flomasse/sets"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Orbit141": {
+  "img": "https://static.ra.co/images/profiles/square/orbit141.jpg?dateUpdated=1757400141790",
+  "links": {
+   "ra": "https://ra.co/dj/orbit141",
+   "sc": "https://soundcloud.com/orbit141",
+   "web": "https://linktr.ee/orbit141"
+  },
+  "bio": {
+   "de": "ORBIT141 ist ein junger DJ und Produzent aus Frankfurt am Main. Sein Spektrum reicht von Hardtechno über Rawstyle bis Psytrance; auf SoundCloud veröffentlicht er eigene Tracks und Techno-Remixe.",
+   "en": "ORBIT141 is a young DJ and producer from Frankfurt, Germany. His sound ranges from hard techno and rawstyle to psytrance, and he releases original tracks and techno remixes on SoundCloud."
+  },
+  "from": {
+   "de": "Frankfurt am Main",
+   "en": "Frankfurt"
+  },
+  "genres": [
+   "Hardtechno",
+   "Rawstyle",
+   "Psytrance"
+  ],
+  "real": "Asrin Demirol",
+  "sets": [
+   {
+    "t": "ORBIT141 - Let Him Cook Radio",
+    "u": "https://soundcloud.com/lethimcookradio/orbit141-let-him-cook-radio"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://de.ra.co/dj/orbit141",
+   "https://soundcloud.com/orbit141"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Creatures": {
+  "bio": {
+   "de": "Creatures ist ein Drum-&-Bass-Act aus Großbritannien, angekündigt als einer der innovativsten DnB-Acts des Landes. Releases erschienen u. a. auf Dispatch (Dispatch Limited) und Innerground. 2025 spielte Creatures erstmals in Wien beim Fuelized 2 Year Anniversary im Club Lucia, inkl. B2B mit Wingz.",
+   "en": "Creatures is a UK drum & bass act, billed as one of the UK's finest drum & bass innovators. Releases have appeared on Dispatch (Dispatch Limited) and Innerground, among others. In 2025 Creatures played Vienna for the first time at Fuelized's 2 Year Anniversary at Club Lucia, including a B2B with Wingz."
+  },
+  "from": {
+   "de": "Großbritannien",
+   "en": "United Kingdom"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Dispatch",
+   "Innerground"
+  ],
+  "src": [
+   "https://ra.co/events/2284048",
+   "https://m.soundcloud.com/anttc1/creatures-tephra-substance-dispatch-limited-078",
+   "https://soundcloud.com/innergroundmusic/zerozero-creatures-crying"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Ephy Pinkman": {
+  "img": "https://static.ra.co/images/profiles/square/ephypinkman.jpg?dateUpdated=1770814784237",
+  "links": {
+   "ra": "https://ra.co/dj/ephypinkman",
+   "sc": "https://soundcloud.com/ephypinkman",
+   "bc": "https://ephypinkman.bandcamp.com"
+  },
+  "bio": {
+   "de": "Ephy Pinkman ist ein in Berlin ansässiger DJ und Produzent, der mittelalterlichen, cineastischen Hard Trance macht. Als „zeitreisender DJ“ nimmt er sein Publikum in seinen Sets mit ins Mittelalter – harte Kicks, Melodien direkt aus dem Herzen. Er spielt u. a. seine Reihe „Mythical Rave Pull“ und trat bei Verknipt Germany auf.",
+   "en": "Ephy Pinkman is a Berlin-based DJ and producer making medieval, cinematic hard trance. Billed as a 'time-traveling DJ', he takes his crowd back to the Middle Ages with hard kicks and heartfelt melodies. He runs the 'Mythical Rave Pull' nights and has played Verknipt Germany."
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "Hard Trance"
+  ],
+  "sets": [
+   {
+    "t": "Ephy Pinkman @ Verknipt Germany Day 2",
+    "u": "https://soundcloud.com/verknipt-events/ephy-pinkmann-verknipt-germany"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/ephypinkman/biography",
+   "https://de.ra.co/events/2290041",
+   "https://soundcloud.com/ephypinkman/tracks",
+   "https://ephypinkman.bandcamp.com/music"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Niotech": {
+  "img": "https://static.ra.co/images/profiles/square/niotech.jpg?dateUpdated=1692102199000",
+  "links": {
+   "ra": "https://ra.co/dj/niotech",
+   "sc": "https://soundcloud.com/niotech",
+   "ig": "https://www.instagram.com/niotech_"
+  },
+  "bio": {
+   "de": "Niotech ist ein in Berlin ansässiger Techno-Artist, dessen Musik von Hard Techno und Acid Techno geprägt ist. Releases erschienen u. a. auf Everyone On Acid, DTECT-Records und INNERGATE.",
+   "en": "Niotech is a Berlin-based techno artist whose music is influenced by hard and acid techno. Releases have come out on labels including Everyone On Acid, DTECT-Records and INNERGATE."
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "Hard Techno",
+   "Acid Techno"
+  ],
+  "labels": [
+   "Everyone On Acid",
+   "DTECT-Records",
+   "INNERGATE"
+  ],
+  "sets": [
+   {
+    "t": "MASS Sessions #280 – Niotech",
+    "u": "https://soundcloud.com/mass-ldn/mass-sessions-280-niotech"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/niotech",
+   "https://soundcloud.com/niotech"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Dino Saints": {
+  "img": "https://static.ra.co/images/profiles/dinosaints.jpg?dateUpdated=1460582551780",
+  "links": {
+   "ra": "https://ra.co/dj/dinosaints",
+   "sc": "https://soundcloud.com/dinosaints"
+  },
+  "bio": {
+   "de": "Dino Saints ist ein DJ und Produzent aus Italien. Seine Tracks erschienen u. a. auf White Island Recordings, DMR Digital, Beat It Music, Delusion Music und Distrikt Records, dazu Releases auf Psicodelica, NotForMe und Roush Label.",
+   "en": "Dino Saints is a DJ and producer from Italy. His tracks have been released on labels including White Island Recordings, DMR Digital, Beat It Music, Delusion Music and Distrikt Records, plus releases on Psicodelica, NotForMe and Roush Label."
+  },
+  "from": {
+   "de": "Italien",
+   "en": "Italy"
+  },
+  "labels": [
+   "White Island Recordings",
+   "DMR Digital",
+   "Beat It Music",
+   "Delusion Music",
+   "Distrikt Records",
+   "Psicodelica",
+   "NotForMe",
+   "Roush Label"
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://de.ra.co/dj/dinosaints",
+   "https://soundcloud.com/dinosaints"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Gromma": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Steve Bug": {
+  "img": "https://static.ra.co/images/profiles/square/stevebug.jpg?dateUpdated=1455702173697",
+  "links": {
+   "ra": "https://ra.co/dj/stevebug",
+   "sc": "https://soundcloud.com/stevebug"
+  },
+  "bio": {
+   "de": "Steve Bug ist ein deutscher DJ und Produzent, der seit Jahren als Taste-Maker der House- und Techno-Szene gilt. Er ist Gründer von Poker Flat Recordings und Dessous Recordings und veröffentlichte u. a. auch auf Traffic Signs, Marine Parade und Moodmusic.",
+   "en": "Steve Bug is a German DJ and producer long regarded as a taste-maker of the house and techno scene. He founded Poker Flat Recordings and Dessous Recordings and has also released on labels including Traffic Signs, Marine Parade and Moodmusic."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "House"
+  ],
+  "labels": [
+   "Poker Flat Recordings",
+   "Dessous Recordings",
+   "Traffic Signs",
+   "Marine Parade",
+   "Italic",
+   "Moodmusic",
+   "Rejected",
+   "Minimood",
+   "Rotary Cocktail Recordings",
+   "Ornaments Music"
+  ],
+  "alias": [
+   "Traffic Signs"
+  ],
+  "sets": [
+   {
+    "t": "Steve Bug Boiler Room Berlin DJ Set",
+    "u": "https://soundcloud.com/platform/steve-bug"
+   },
+   {
+    "t": "Revscast 024: Steve Bug",
+    "u": "https://soundcloud.com/revolverupstairs/revscast-024-steve-bug"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/stevebug",
+   "https://soundcloud.com/stevebug"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Vera Grace": {
+  "img": "https://static.ra.co/images/profiles/square/veragrace.jpg?dateUpdated=1762781163657",
+  "links": {
+   "ra": "https://ra.co/dj/veragrace",
+   "sc": "https://soundcloud.com/veragraceb"
+  },
+  "bio": {
+   "de": "Vera Grace ist eine niederländische Künstlerin, die am Conservatorium van Amsterdam studiert hat und experimentelles Sounddesign mit treibendem Techno verbindet. Zuletzt arbeitet sie verstärkt mit modularer Synthese und spielt auch ein analoges Live-Set. Ihre EPs „What Was Always There“ und „Funktion Over Form“ bewegen sich zwischen Broken Beats, Ambient und 4/4; gespielt hat sie u. a. in Radion, Tresor sowie bei Awakenings und DGTL.",
+   "en": "Vera Grace is a Dutch artist who studied at the Conservatorium of Amsterdam and blends experimental sound design with driving techno. Her recent work centres on modular synthesis, and she also performs a live analogue set. Her EPs 'What Was Always There' and 'Funktion Over Form' move between broken rhythms, ambient and 4/4; she has played Radion, Tresor, Awakenings and DGTL."
+  },
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "genres": [
+   "Techno",
+   "Experimental"
+  ],
+  "sets": [
+   {
+    "t": "Vera Grace – HATE Podcast 410",
+    "u": "https://soundcloud.com/hate_music/vera-grace-hate-podcast-410"
+   },
+   {
+    "t": "BCCO Mix Series 168: Vera Grace",
+    "u": "https://soundcloud.com/bcco/vera-grace"
+   },
+   {
+    "t": "DUSKCAST 116 – Vera Grace",
+    "u": "https://soundcloud.com/dvskrecords/duskcast-l-vera-grace"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/veragrace/biography",
+   "https://soundcloud.com/veragraceb"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Steve Hope": {
+  "img": "https://static.ra.co/images/profiles/stevehope.jpg?dateUpdated=1460767230927",
+  "links": {
+   "ra": "https://ra.co/dj/stevehope",
+   "sc": "https://soundcloud.com/steve_hope"
+  },
+  "bio": {
+   "de": "Steve Hope ist ein in Wien ansässiger House-DJ und Produzent aus Österreich. Seine Tracks erschienen u. a. auf Get Physical Music, Kittball Records, Great Stuff Recordings, Tiefblau Records, Poesie Musik und Vagabond Recordings.",
+   "en": "Steve Hope is a Vienna-based house DJ and producer from Austria. His tracks have been released on labels including Get Physical Music, Kittball Records, Great Stuff Recordings, Tiefblau Records, Poesie Musik and Vagabond Recordings."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "labels": [
+   "Get Physical Music",
+   "Great Stuff Recordings",
+   "Kittball Records",
+   "Tiefblau Records",
+   "Poesie Musik",
+   "Vagabond Recordings"
+  ],
+  "sets": [
+   {
+    "t": "Grätzlsound Podcast #32 – Steve Hope",
+    "u": "https://soundcloud.com/graetzlsound/gratzlsound-podcast-32-steve-hope-seelensauna"
+   },
+   {
+    "t": "RAWLScast017 – Steve Hope",
+    "u": "https://soundcloud.com/rawls-music/rawlscast017-steve-hope"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/stevehope",
+   "https://soundcloud.com/steve_hope/tracks"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Victor Ruiz": {
+  "img": "https://static.ra.co/images/profiles/square/victorruiz.jpg?dateUpdated=1481797956000",
+  "links": {
+   "ra": "https://ra.co/dj/victorruiz",
+   "sc": "https://soundcloud.com/victorruiz",
+   "ig": "https://www.instagram.com/victorruizdj"
+  },
+  "bio": {
+   "de": "Victor Ruiz ist ein in Brasilien geborener, in Portugal lebender Techno-DJ und Produzent. Er veröffentlichte u. a. auf Drumcode, Noir Music, Terminal M, Suara und Senso Sounds und spielte u. a. bei Tomorrowland.",
+   "en": "Victor Ruiz is a Brazilian-born, Portugal-based techno DJ and producer. He has released on labels including Drumcode, Noir Music, Terminal M, Suara and Senso Sounds and has played Tomorrowland."
+  },
+  "from": {
+   "de": "Brasilien",
+   "en": "Brazil"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Drumcode",
+   "Noir Music",
+   "Terminal M",
+   "Suara",
+   "Senso Sounds",
+   "Customized Culture Recordings"
+  ],
+  "sets": [
+   {
+    "t": "Victor Ruiz @ Tomorrowland 2023 (Atmosphere Stage)",
+    "u": "https://soundcloud.com/victorruiz/victor-ruiz-tomorrowland-2023"
+   },
+   {
+    "t": "Beatport Live 014: Victor Ruiz",
+    "u": "https://soundcloud.com/beatport/beatport-live-014-victor-ruiz"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/victorruiz",
+   "https://soundcloud.com/drumcode/victor-ruiz-existence-drumcode"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Ben Klock": {
+  "img": "https://static.ra.co/images/profiles/square/benklock.jpg?dateUpdated=1614674302000",
+  "links": {
+   "ra": "https://ra.co/dj/benklock",
+   "sc": "https://soundcloud.com/ben-klock",
+   "ig": "https://www.instagram.com/ben_klock",
+   "bc": "https://benklock.bandcamp.com"
+  },
+  "bio": {
+   "de": "Ben Klock ist seit 2005 Resident im Berghain und gilt als eine der prägenden Figuren des Berliner Techno. Er betreibt das Label Klockworks und veröffentlichte u. a. auf Ostgut Ton, BPitch, Rekids und Electric Deluxe.",
+   "en": "Ben Klock has been a Berghain resident since 2005 and is one of the defining figures of Berlin techno. He runs the Klockworks label and has released on Ostgut Ton, BPitch, Rekids and Electric Deluxe, among others."
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Klockworks",
+   "Ostgut Ton",
+   "BPitch",
+   "Rekids",
+   "Memo",
+   "Sino",
+   "Rejected",
+   "Soniculture",
+   "Electric Deluxe",
+   "Blueprint Records"
+  ],
+  "sets": [
+   {
+    "t": "Ben Klock — HATE Podcast 500",
+    "u": "https://soundcloud.com/hate_music/ben-klock-hate-podcast-500"
+   },
+   {
+    "t": "Ben Klock – Loveland Festival 2024",
+    "u": "https://soundcloud.com/loveland-legacy/ben-klock-loveland-festival-2024"
+   },
+   {
+    "t": "Ben Klock - Sound Warehouse Rave Prague 01/03/2024",
+    "u": "https://soundcloud.com/ben-klock/ben-klock-soun2d-warehouse-rave-prague-01032024"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/benklock",
+   "https://soundcloud.com/ben-klock/sets"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Bedandclouds": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Aaron": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Ivy Lab": {
+  "img": "https://static.ra.co/images/profiles/square/ivylab.jpg?dateUpdated=1548984452000",
+  "links": {
+   "ra": "https://ra.co/dj/ivylab",
+   "sc": "https://soundcloud.com/ivylab"
+  },
+  "bio": {
+   "de": "Ivy Lab ist ein britisches Kollaborationsprojekt von Sabre & Stray. Releases erschienen u. a. auf Critical Music und dem eigenen Label 20/20 LDN.",
+   "en": "Ivy Lab is a UK collaborative project between Sabre & Stray. Releases include output on Critical Music and their own label 20/20 LDN."
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "labels": [
+   "Critical Music",
+   "20/20 LDN"
+  ],
+  "alias": [
+   "Sabre & Stray"
+  ],
+  "sets": [
+   {
+    "t": "Ivy Lab – 2025 Shambhala Mix Series",
+    "u": "https://soundcloud.com/shambhala_mf/ivy-lab-2025-shambhala-mix-series"
+   },
+   {
+    "t": "Ivy Lab DJ Set – Petit Bain, Paris (Studio Invites)",
+    "u": "https://soundcloud.com/wearestudio/ivy-lab-dj-set-petit-bain-paris-studio-invites"
+   },
+   {
+    "t": "IvyCast /002",
+    "u": "https://soundcloud.com/ivylab/ivycast-002"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/ivylab",
+   "https://soundcloud.com/ivylab"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Skofi": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Lady Maru": {
+  "img": "https://static.ra.co/images/profiles/square/ladymaru.jpg?dateUpdated=1600905600000",
+  "links": {
+   "ra": "https://ra.co/dj/ladymaru",
+   "sc": "https://soundcloud.com/dj-lady-maru"
+  },
+  "bio": {
+   "de": "Lady Maru ist eine in Italien geborene, in Deutschland lebende Produzentin von Industrial-, Acid- und Hardtechno sowie Postpunk-Musikerin. Releases erschienen u. a. auf Gegen Records, Physical Techno Recordings, Hydraulix Records und Dreizehn Schallplatten.",
+   "en": "Lady Maru is an Italian-born, Germany-based industrial acid hardtechno producer and post-punk musician. Her releases include output on Gegen Records, Physical Techno Recordings, Hydraulix Records and Dreizehn Schallplatten."
+  },
+  "from": {
+   "de": "Italien (lebt in Deutschland)",
+   "en": "Italy (based in Germany)"
+  },
+  "genres": [
+   "Hardtechno",
+   "Industrial Techno",
+   "Acid"
+  ],
+  "labels": [
+   "Hydraulix Records",
+   "Luminar Records",
+   "Physical Techno Recordings",
+   "DSR Digital",
+   "Obscuur Records",
+   "Dreizehn Schallplatten",
+   "Obskur Music",
+   "Fluctuat Records",
+   "acid boiler coalition",
+   "Gegen Records"
+  ],
+  "real": "maru maruhup",
+  "sets": [
+   {
+    "t": "Gegen Podcast Series #04 – Lady Maru",
+    "u": "https://soundcloud.com/gegenberlin/gegen-podcast-series-04-lady-maru"
+   },
+   {
+    "t": "Lady Maru – Podcast Series Das Kollektive 028",
+    "u": "https://soundcloud.com/daskollektive/lady-maru-podcast-series-das-kollektive-028"
+   },
+   {
+    "t": "Lady Maru – Tech Clubbers Podcast #013",
+    "u": "https://soundcloud.com/techclubbers/lady-maru-tech-clubbers-podcast-013"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/ladymaru",
+   "https://soundcloud.com/dj-lady-maru"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "ELIF": {
+  "img": "https://static.ra.co/images/profiles/square/elif.jpg?dateUpdated=1792114543500",
+  "links": {
+   "ra": "https://ra.co/dj/elif",
+   "sc": "https://soundcloud.com/elifmusique",
+   "ig": "https://www.instagram.com/elifmusique",
+   "bc": "https://elifmusique.bandcamp.com"
+  },
+  "bio": {
+   "de": "ELIF ist DJ, Produzentin und Gründerin des Labels Marginalia – geboren in Istanbul, lebt in Barcelona. Auf RA werden u. a. Get Physical Music, Kindisch, Stil vor Talent, Anjunadeep und Watergate Records als Labels gelistet.",
+   "en": "ELIF is a DJ, producer and founder of the Marginalia label, made in Istanbul and based in Barcelona. RA lists labels including Get Physical Music, Kindisch, Stil vor Talent, Anjunadeep and Watergate Records."
+  },
+  "from": {
+   "de": "Istanbul (lebt in Barcelona)",
+   "en": "Istanbul (based in Barcelona)"
+  },
+  "labels": [
+   "Marginalia",
+   "Get Physical Music",
+   "Kindisch Records",
+   "Stil vor Talent",
+   "Anjunadeep",
+   "Watergate Records",
+   "Ki Records",
+   "Kinetika Records",
+   "Last Night On Earth",
+   "Selador",
+   "Just This"
+  ],
+  "sets": [
+   {
+    "t": "EARMILK Exclusive: Elif LIB 2023 Promo Mix",
+    "u": "https://soundcloud.com/thedolab/earmilk-elif-lib-2023-mix"
+   },
+   {
+    "t": "The Anjunadeep Edition 343 with Elif",
+    "u": "https://soundcloud.com/anjunadeep/the-anjunadeep-edition-343"
+   },
+   {
+    "t": "Mix: Sunday Chillin' (October 2017)",
+    "u": "https://soundcloud.com/elifmusique/october-mix"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/elif",
+   "https://soundcloud.com/elifmusique"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "DVS1": {
+  "img": "https://static.ra.co/images/profiles/square/dvs1.jpg?dateUpdated=1761570041647",
+  "links": {
+   "ra": "https://ra.co/dj/dvs1",
+   "sc": "https://soundcloud.com/dvs1",
+   "ig": "https://www.instagram.com/dvs1hush",
+   "bc": "https://dvs1hush.bandcamp.com"
+  },
+  "bio": {
+   "de": "DVS1 (Zak Khutoretsky) gilt als eine der respektiertesten und kompromisslosesten Figuren der elektronischen Musik. Er stammt aus der Rave-Szene des Mittleren Westens der frühen 90er und kam in Minneapolis hoch. Releases erschienen u. a. auf Klockworks, Ostgut Ton, Transmat und fabric Records; sein Langzeitprojekt heißt HUSH.",
+   "en": "DVS1 (Zak Khutoretsky) is one of electronic music's most respected and uncompromising figures. He came up in Minneapolis out of the early-'90s Midwest rave scene. Releases include Klockworks, Ostgut Ton, Transmat and fabric Records; his long-running project is HUSH."
+  },
+  "from": {
+   "de": "Minneapolis, USA",
+   "en": "Minneapolis, USA"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "fabric Records",
+   "Axis Records",
+   "Ostgut Ton",
+   "Transmat",
+   "Klockworks",
+   "Running Back",
+   "Enemy Records",
+   "Prologue",
+   "Timefog",
+   "Blueprint Records"
+  ],
+  "real": "Zak Khutoretsky",
+  "sets": [
+   {
+    "t": "DVS1 live from Katharsis 2017",
+    "u": "https://soundcloud.com/dvs1/dvs1-live-from-katharsis-2017"
+   },
+   {
+    "t": "DVS1 live at UNIT club in Tokyo (03.08.2013)",
+    "u": "https://soundcloud.com/dvs1/dvs1-live-at-unit-club-in"
+   },
+   {
+    "t": "DVS1 50 min Boiler Room DJ Set at Decibel Festival",
+    "u": "https://soundcloud.com/platform/dvs1-50-min-boiler-room-dj-set"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/dvs1",
+   "https://soundcloud.com/dvs1"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "OME": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Andi Britz": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Emerald": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
  }
 };
 
