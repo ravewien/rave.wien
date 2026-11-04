@@ -39362,6 +39362,1137 @@ const AR={
   "src": [
    "https://ra.co/dj/algayev/biography"
   ]
+ },
+ "Alex Farell": {
+  "img": "https://static.ra.co/images/profiles/square/alexfarell.jpg?dateUpdated=1695033537000",
+  "links": {
+   "ra": "https://ra.co/dj/alexfarell",
+   "sc": "https://soundcloud.com/alexfarrelldj"
+  },
+  "bio": {
+   "de": "Alex Farell ist DJ und Produzent aus Liverpool (UK). Er veröffentlicht unter anderem auf Taapion Records, weitere Tracks erschienen bei Revised Records und HEKATE Records. Für Teletech steuerte er die Mix-Folge „XXL Invites 063“ bei.",
+   "en": "Alex Farell is a DJ and producer from Liverpool, UK. He releases on Taapion Records among others, with further tracks out on Revised Records and HEKATE Records. He contributed the mix \"XXL Invites 063\" to Teletech."
+  },
+  "from": {
+   "de": "Liverpool, UK",
+   "en": "Liverpool, UK"
+  },
+  "labels": [
+   "Taapion Records"
+  ],
+  "sets": [
+   {
+    "t": "XXL Invites 063",
+    "u": "https://soundcloud.com/teletechuk/xxl-invites-063-alex-farell"
+   },
+   {
+    "t": "Alex Farell 4 Hour Set @ Retrospect Ayr",
+    "u": "https://soundcloud.com/alexfarrelldj/alex-farell-4-hour-set-retrospect-ayr"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/alexfarell",
+   "https://soundcloud.com/alexfarrelldj"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "no_oys": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "nuno": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Technimatic": {
+  "img": "https://static.ra.co/images/profiles/square/technimatic-uk.jpg?dateUpdated=1444905158403",
+  "links": {
+   "ra": "https://ra.co/dj/technimatic-uk",
+   "sc": "https://soundcloud.com/technimatic",
+   "web": "https://www.shogunaudio.co.uk/artists/technimatic"
+  },
+  "bio": {
+   "de": "Technimatic ist das britische Drum-&-Bass-Duo von Pete Rogers und Andy Powell. Ihr musikalisch reicher, emotionaler Sound macht sie zu einer festen Größe im Roster von Shogun Audio. Bekannte Mixe entstanden u. a. für BBC Radio 1 und 1Xtra.",
+   "en": "Technimatic is the UK drum & bass duo of Pete Rogers and Andy Powell. Their musically rich, emotionally charged sound has made them a mainstay of the Shogun Audio roster. They have recorded guest mixes for BBC Radio 1 and 1Xtra, among others."
+  },
+  "from": {
+   "de": "UK",
+   "en": "UK"
+  },
+  "real": "Andy Powell, Peter Rogers",
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Shogun Audio"
+  ],
+  "sets": [
+   {
+    "t": "BBC Radio 1 Guest Mix - Feb 2021",
+    "u": "https://soundcloud.com/technimatic/bbc-radio-1-guest-mix-feb-2021"
+   },
+   {
+    "t": "Technimatic Winter Mix 2019",
+    "u": "https://soundcloud.com/technimatic/technimatic-winter-mix-2019"
+   },
+   {
+    "t": "Summer Mix 2017",
+    "u": "https://soundcloud.com/technimatic/summer-mix-2017"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/technimatic-uk",
+   "https://soundcloud.com/technimatic/better-perspective-mix"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Emily Makis": {
+  "img": "https://static.ra.co/images/profiles/square/emilymakis.jpg?dateUpdated=1690994014000",
+  "links": {
+   "ra": "https://ra.co/dj/emilymakis"
+  },
+  "bio": {
+   "de": "Emily Makis ist eine britische Drum-&-Bass-Künstlerin, deren Sound sich als Mischung aus „gritty & sweet“ beschreibt. Sie veröffentlicht auf Shogun Audio, Spearhead Records und Liquicity Records und ist als Featured-Vocalist u. a. mit K Motionz, Telomic sowie Nero & Taiki Nulight zu hören.",
+   "en": "Emily Makis is a UK drum & bass artist whose sound is described as a mix of gritty and sweet. She releases on Shogun Audio, Spearhead Records and Liquicity Records and features as a vocalist with K Motionz, Telomic and Nero & Taiki Nulight, among others."
+  },
+  "from": {
+   "de": "UK",
+   "en": "UK"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Shogun Audio",
+   "Spearhead Records",
+   "Liquicity Records"
+  ],
+  "src": [
+   "https://ra.co/dj/emilymakis",
+   "https://soundcloud.com/shogunaudio/emily-makis-too-fast"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Nastia Reigel": {
+  "img": "https://static.ra.co/images/profiles/square/nastiareigel.jpg?dateUpdated=1773846827113",
+  "links": {
+   "ra": "https://ra.co/dj/nastiareigel",
+   "sc": "https://soundcloud.com/nastiareigel",
+   "ig": "https://www.instagram.com/nastiareigel"
+  },
+  "bio": {
+   "de": "Nastia Reigel ist eine in Deutschland ansässige Techno-DJ und Produzentin. Sie veröffentlichte u. a. auf Token, fabric Records, Enemy Records, Infrastructure New York und Dekmantel UFO. Weitere Projekte laufen unter den Namen Rosa Damask und Devocion.",
+   "en": "Nastia Reigel is a Germany-based techno DJ and producer. She has released on Token, fabric Records, Enemy Records, Infrastructure New York and Dekmantel UFO, among others. Further projects run under the names Rosa Damask and Devocion."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Token",
+   "fabric Records",
+   "Enemy Records",
+   "Infrastructure New York",
+   "Dekmantel UFO",
+   "WSNWG"
+  ],
+  "alias": [
+   "Rosa Damask",
+   "Devocion"
+  ],
+  "sets": [
+   {
+    "t": "PoleGroup Radio - Nastia Reigel 25.09.2024",
+    "u": "https://soundcloud.com/polegroup/nastia-reigel-polegroup-radio-25092024"
+   },
+   {
+    "t": "MNMT 426 : Nastia Reigel",
+    "u": "https://soundcloud.com/monument-podcast/mnmt-426-nastia-reigel"
+   },
+   {
+    "t": "BCCO Mix Series 176: Nastia Reigel",
+    "u": "https://soundcloud.com/bcco/nastia-reigel"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/nastiareigel",
+   "https://soundcloud.com/nastiareigel/end-up-here"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "UREM": {
+  "img": "https://static.ra.co/images/profiles/square/urem.jpg?dateUpdated=1589379718000",
+  "links": {
+   "ra": "https://ra.co/dj/urem",
+   "sc": "https://soundcloud.com/urem",
+   "ig": "https://www.instagram.com/urem_music"
+  },
+  "bio": {
+   "de": "UREM ist ein DJ und Produzent aus Deutschland, dessen Sound melodisch, progressiv und dunkel ist. Er spielte u. a. auf der Fusion (Tanzwüste), im Sisyphos und beim Mystic Creatures Festival. Tracks erschienen u. a. auf TIPPING • POINT.",
+   "en": "UREM is a DJ and producer from Germany whose sound is melodic, progressive and dark. He has played Fusion Festival (Tanzwüste), Sisyphos and Mystic Creatures Festival, among others. Tracks have appeared on TIPPING • POINT, among others."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "real": "Lucas Girke",
+  "sets": [
+   {
+    "t": "UREM @ Mystic Creatures Festival 2025",
+    "u": "https://soundcloud.com/urem/urem-mystic-creatures-festival-2025"
+   },
+   {
+    "t": "UREM @ Fusion Festival 2025 ✷ Tanzwüste",
+    "u": "https://soundcloud.com/urem/urem-fusion-festival-2025-tanzwuste"
+   },
+   {
+    "t": "UREM @ Sisyphos ✷ A Sunday Spring Bounce 2025",
+    "u": "https://soundcloud.com/urem/urem-sisyphos-a-sunday-spring-bounce-2025"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/urem",
+   "https://soundcloud.com/urem/tracks"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Neelix": {
+  "links": {
+   "sp": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
+  },
+  "bio": {
+   "de": "Neelix ist ein deutscher Produzent und DJ aus Hamburg im Bereich Psytrance und Progressive. Er legt seit 1996 auf, veröffentlichte 2003 sein Debütalbum „Resident“ und brachte bis 2020 zwölf Alben heraus, dazu Kollaborationen u. a. mit Vini Vici und Phaxe. Er trat auf Festivals in Europa, Israel, Brasilien, Mexiko und Australien auf.",
+   "en": "Neelix is a German producer and DJ from Hamburg working in psytrance and progressive. He has been DJing since 1996, released his debut album \"Resident\" in 2003 and put out twelve albums by 2020, plus collaborations with Vini Vici and Phaxe, among others. He has performed at festivals in Europe, Israel, Brazil, Mexico and Australia."
+  },
+  "from": {
+   "de": "Hamburg, Deutschland",
+   "en": "Hamburg, Germany"
+  },
+  "genres": [
+   "Psytrance",
+   "Progressive"
+  ],
+  "noImg": "2026-11-04",
+  "src": [
+   "https://www.qobuz.com/at-de/interpreter/neelix/130487",
+   "https://open.spotify.com/track/2IbRQFaJOFP60SpF09TbBT"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Klix": {
+  "img": "https://static.ra.co/images/profiles/square/klix-de.jpg?dateUpdated=1781705069000",
+  "links": {
+   "ra": "https://ra.co/dj/klix-de",
+   "sc": "https://soundcloud.com/klix-breidenbach-studio"
+  },
+  "bio": {
+   "de": "Klix ist ein House-DJ aus Berlin und gehört zur Crew von Heavy Rotation. Veröffentlichungen erschienen u. a. auf Digital Delight, Pager Records, Loser Records, Body Movement und Random Mind State.",
+   "en": "Klix is a house DJ from Berlin and part of the Heavy Rotation crew. Releases have appeared on Digital Delight, Pager Records, Loser Records, Body Movement and Random Mind State, among others."
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "real": "Sebastian Klix",
+  "genres": [
+   "House"
+  ],
+  "labels": [
+   "Digital Delight",
+   "Pager Records",
+   "Loser Records",
+   "Body Movement",
+   "Random Mind State"
+  ],
+  "src": [
+   "https://ra.co/dj/klix-de",
+   "https://ra.co/events/2412474"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Nell": {
+  "bio": {
+   "de": "Nell ist Teil des Leipziger House-Duos Lulu & Nell, das Minimal, Tech und Deep House zu einem warmen, verspielten Sound verbindet. Gemeinsam mit der Crème-Club-Crew kuratiert das Duo Events in Leipzig.",
+   "en": "Nell is one half of the Leipzig house duo Lulu & Nell, blending minimal, tech and deep house into a warm, playful sound. Together with the Crème Club crew, the duo curates events in Leipzig."
+  },
+  "from": {
+   "de": "Leipzig, Deutschland",
+   "en": "Leipzig, Germany"
+  },
+  "genres": [
+   "House",
+   "Minimal",
+   "Deep House"
+  ],
+  "src": [
+   "https://ra.co/events/2412474",
+   "https://ra.co/dj/luluandnell"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Futuremoon": {
+  "links": {
+   "sc": "https://soundcloud.com/djfuturemoon_official"
+  },
+  "bio": {
+   "de": "FutureMoon ist ein deutscher Psytrance-DJ und Produzent aus dem Umfeld des Labels Digital Om. Auftritte u. a. bei Antaris Project, Indian Spirit und der Fusion (Trancefloor).",
+   "en": "FutureMoon is a German psytrance DJ and producer associated with the label Digital Om. Performances include Antaris Project, Indian Spirit and Fusion Festival (Trancefloor)."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Psytrance"
+  ],
+  "labels": [
+   "Digital Om"
+  ],
+  "sets": [
+   {
+    "t": "FutureMoon - Fusion Festival / Trancefloor 2026",
+    "u": "https://soundcloud.com/djfuturemoon_official/futuremoon-fusion-festival"
+   },
+   {
+    "t": "FutureMoon - Echoes from the Future [Trancentral Mix 121]",
+    "u": "https://soundcloud.com/trancentral-1/futuremoon-echoes-from-the-future-trancentral-mix-121"
+   },
+   {
+    "t": "Exclusive Podcast #135 with FutureMoon",
+    "u": "https://soundcloud.com/maleficarumpsychedelic/exclusive-podcast-135-with-futuremoon-digital-om-productions"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/djfuturemoon_official",
+   "https://www.viberate.com/artist/futuremoon"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Boris Coelman": {
+  "img": "https://static.ra.co/images/profiles/square/boriscoelman.jpg?dateUpdated=1735393703390",
+  "links": {
+   "ra": "https://ra.co/dj/boriscoelman",
+   "sc": "https://soundcloud.com/boriscoelman",
+   "ig": "https://www.instagram.com/boriscoelman"
+  },
+  "bio": {
+   "de": "Boris Coelman ist ein DJ und Produzent aus Amsterdam. Er spielt regelmäßig in der niederländischen Clubszene, etwa bei SISSI'S Amsterdam, BASIS Utrecht und Lowlands.",
+   "en": "Boris Coelman is a DJ and producer based in Amsterdam. He plays regularly in the Dutch club scene, including SISSI'S Amsterdam, BASIS Utrecht and Lowlands."
+  },
+  "from": {
+   "de": "Amsterdam, Niederlande",
+   "en": "Amsterdam, Netherlands"
+  },
+  "src": [
+   "https://ra.co/dj/boriscoelman"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Mirabhai": {
+  "src": [
+   "https://ra.co/events/2196638"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Steal Tapes": {
+  "img": "https://static.ra.co/images/profiles/square/stealtapes.jpg?dateUpdated=1753483563583",
+  "links": {
+   "ra": "https://ra.co/dj/stealtapes",
+   "ig": "https://www.instagram.com/steal.tapes"
+  },
+  "bio": {
+   "de": "Steal Tapes ist ein House-DJ und Produzent aus Italien, verbunden mit Househeadz Records. Releases u. a. auf W&O Street Tracks, CUFF, Ibiza Talents, Purveyor Underground und MINE IS YOURS; Gigs führten ihn bis nach Shanghai, Peking und Tokio.",
+   "en": "Steal Tapes is a house DJ and producer from Italy, associated with Househeadz Records. He has released on W&O Street Tracks, CUFF, Ibiza Talents, Purveyor Underground and MINE IS YOURS, with gigs as far as Shanghai, Beijing and Tokyo."
+  },
+  "from": {
+   "de": "Italien",
+   "en": "Italy"
+  },
+  "genres": [
+   "House"
+  ],
+  "labels": [
+   "W&O Street Tracks",
+   "CUFF",
+   "Ibiza Talents",
+   "Adunanza Records",
+   "Brobot",
+   "Purveyor Underground",
+   "MINE IS YOURS",
+   "Manzo Edits"
+  ],
+  "alias": [
+   "HouseHeadz00"
+  ],
+  "src": [
+   "https://ra.co/dj/stealtapes",
+   "https://ra.co/events/2468159"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Gabriel Belabbas": {
+  "img": "https://static.ra.co/images/profiles/square/gabrielbelabbas.jpg?dateUpdated=1744900539777",
+  "links": {
+   "ra": "https://ra.co/dj/gabrielbelabbas",
+   "sc": "https://soundcloud.com/gabrielbelabbas"
+  },
+  "bio": {
+   "de": "Gabriel Belabbas ist ein französischer Produzent und DJ aus Paris. Er veröffentlicht u. a. auf Automatic Writing und Positive Future Music.",
+   "en": "Gabriel Belabbas is a French producer and DJ based in Paris. He has released on labels including Automatic Writing and Positive Future Music."
+  },
+  "from": {
+   "de": "Paris, Frankreich",
+   "en": "Paris, France"
+  },
+  "labels": [
+   "Automatic Writing",
+   "Positive Future Music"
+  ],
+  "alias": [
+   "Gaab"
+  ],
+  "src": [
+   "https://ra.co/dj/gabrielbelabbas",
+   "https://www.discogs.com/artist/7599529-Gabriel-Belabbas"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Dan Ghenacia": {
+  "img": "https://static.ra.co/images/profiles/square/danghenacia.jpg?dateUpdated=1387207245950",
+  "links": {
+   "ra": "https://ra.co/dj/danghenacia"
+  },
+  "bio": {
+   "de": "Dan Ghenacia ist eine Schlüsselfigur der Pariser Underground-Szene. Er betrieb den Plattenladen Traffic Records, gründete das Label Freak N'Chic und 2012 mit Dyed Soundorom und Shonky das Label und Trio Apollonia. Er ist Resident im DC10 auf Ibiza.",
+   "en": "Dan Ghenacia is a key figure of the Paris underground scene. He ran the record store Traffic Records, founded the label Freak N'Chic and in 2012 co-founded the label and trio Apollonia with Dyed Soundorom and Shonky. He holds a residency at DC10 in Ibiza."
+  },
+  "from": {
+   "de": "Paris, Frankreich",
+   "en": "Paris, France"
+  },
+  "genres": [
+   "House",
+   "Deep House",
+   "Techno"
+  ],
+  "labels": [
+   "Apollonia",
+   "Freak N'Chic"
+  ],
+  "src": [
+   "https://ra.co/dj/danghenacia/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "DJ Boring": {
+  "img": "https://static.ra.co/images/profiles/square/djboring.jpg?dateUpdated=1568819980000",
+  "links": {
+   "ra": "https://ra.co/dj/djboring",
+   "sc": "https://soundcloud.com/djboring1990",
+   "bc": "https://dj-boring.bandcamp.com",
+   "ig": "https://www.instagram.com/dj.boring",
+   "web": "https://djboring.com"
+  },
+  "bio": {
+   "de": "DJ Boring ist ein in London lebender DJ und Produzent mit Wurzeln in Australien. Releases u. a. auf Ninja Tune, Let's Play House, Heist Recordings, Shall Not Fade und E-Beamz.",
+   "en": "DJ Boring is a London-based DJ and producer originally from Australia. He has released on Ninja Tune, Let's Play House, Heist Recordings, Shall Not Fade and E-Beamz, among others."
+  },
+  "from": {
+   "de": "London, UK (ursprünglich Australien)",
+   "en": "London, UK (originally Australia)"
+  },
+  "real": "Tristan Hallis",
+  "genres": [
+   "House"
+  ],
+  "labels": [
+   "Ninja Tune",
+   "Let's Play House",
+   "Heist Recordings",
+   "Bobby Donny",
+   "Shall Not Fade",
+   "E-Beamz",
+   "Lost Palms",
+   "Vienna"
+  ],
+  "src": [
+   "https://ra.co/dj/djboring",
+   "https://www.discogs.com/artist/5328800-DJ-Boring"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Redeyes": {
+  "img": "https://static.ra.co/images/profiles/square/redeyes.jpg?dateUpdated=1693212259000",
+  "links": {
+   "ra": "https://ra.co/dj/redeyes"
+  },
+  "bio": {
+   "de": "Redeyes ist ein Drum-&-Bass-DJ und Produzent aus Toulouse, seit seinem Durchbruch 2006 fest in der Szene. Alben wie „Poetry In Motion“ (2008) und „Broken Soul“ (2018); er ist eng mit dem Label The North Quarter verbunden und veröffentlichte u. a. auf Vandal. Sein Stil schöpft aus Hip-Hop, Jazz, Soul, Funk und Dub.",
+   "en": "Redeyes is a drum & bass DJ and producer from Toulouse, established in the scene since his 2006 breakthrough. Albums include Poetry In Motion (2008) and Broken Soul (2018); he is a core artist of The North Quarter and has released on Vandal. His style draws on hip-hop, jazz, soul, funk and dub."
+  },
+  "from": {
+   "de": "Toulouse, Frankreich",
+   "en": "Toulouse, France"
+  },
+  "real": "Julien Salvi",
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "The North Quarter",
+   "Vandal"
+  ],
+  "src": [
+   "https://ra.co/dj/redeyes/biography",
+   "https://www.discogs.com/artist/572751-Redeyes"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "DJ Habibeats": {
+  "img": "https://static.ra.co/images/profiles/square/djhabibeats.jpg?dateUpdated=1683019268000",
+  "links": {
+   "ra": "https://ra.co/dj/djhabibeats"
+  },
+  "bio": {
+   "de": "DJ Habibeats ist DJ aus Los Angeles und gründete Habibi's House, eine Partyreihe, die arabische Clubmusik feiert. Habibi's House tourte u. a. durch Detroit, Chicago, London und Helsinki.",
+   "en": "DJ Habibeats is a Los Angeles-based DJ and founder of Habibi's House, a party celebrating Arabic club music. Habibi's House has toured cities including Detroit, Chicago, London and Helsinki."
+  },
+  "from": {
+   "de": "Los Angeles, USA",
+   "en": "Los Angeles, USA"
+  },
+  "src": [
+   "https://ra.co/dj/djhabibeats/biography",
+   "https://ra.co/events/1976264"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "alina": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "aramboa": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "doktor dopf": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "honeyvalxx": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Adrianna": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "dasstudach": {
+  "img": "https://static.ra.co/images/profiles/square/dasstudach.jpg?dateUpdated=1652695154000",
+  "links": {
+   "ra": "https://ra.co/dj/dasstudach",
+   "sc": "https://soundcloud.com/dasstudach"
+  },
+  "from": {
+   "de": "Schweiz",
+   "en": "Switzerland"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "dasstudach ist ein Techno-DJ aus der Schweiz. Laut RA spielt er am häufigsten in Zürich, Karlsruhe, Berlin und Basel. Mixe von ihm erschienen u. a. in der BCCO Mix Series, bei BRUTALISM sowie als Boiler-Room-Set aus Zürich.",
+   "en": "dasstudach is a techno DJ from Switzerland. According to RA he plays most often in Zurich, Karlsruhe, Berlin and Basel. His mixes have appeared in the BCCO Mix Series, on BRUTALISM and as a Boiler Room set from Zurich."
+  },
+  "sets": [
+   {
+    "t": "Dasstudach – Boiler Room Zurich",
+    "u": "https://soundcloud.com/platform/dasstudach-boiler-room-zurich"
+   },
+   {
+    "t": "BCCO Mix Series 238: Dasstudach",
+    "u": "https://soundcloud.com/bcco/dasstudach"
+   },
+   {
+    "t": "DASSTUDACH // BRUTALISM 013",
+    "u": "https://soundcloud.com/brutalism_x_basseht/dasstudach-brutalism013"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://de.ra.co/dj/dasstudach",
+   "https://soundcloud.com/dasstudach"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Sarah Wild": {
+  "img": "https://static.ra.co/images/profiles/square/sarahwild.jpg?dateUpdated=1552786200153",
+  "links": {
+   "ra": "https://ra.co/dj/sarahwild",
+   "sc": "https://soundcloud.com/wildsarah",
+   "ig": "https://www.instagram.com/sarahwild_music",
+   "bc": "https://midnight-operators.bandcamp.com"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "House"
+  ],
+  "labels": [
+   "Midnight Operators",
+   "Permanent Vacation",
+   "Feines Tier",
+   "HIFI/LOFI Records"
+  ],
+  "bio": {
+   "de": "Sarah Wild ist eine House-DJ und Produzentin aus Deutschland. Ihr Sound verbindet pulsierende Wave-Texturen im Stil der 80er mit treibendem House und Acid-Techno, dazu kommt Live-Saxofon – sie ist ausgebildete Saxofonistin und spielt auch Klavier. Releases erschienen auf ihrem eigenen Label Midnight Operators sowie auf Feines Tier und Permanent Vacation.",
+   "en": "Sarah Wild is a house DJ and producer from Germany. Her sound blends pulsating 80s-style wave textures with driving house and acid techno, plus live saxophone – she is a trained saxophonist who also plays piano. Her releases have come out on her own label Midnight Operators as well as on Feines Tier and Permanent Vacation."
+  },
+  "src": [
+   "https://ra.co/dj/sarahwild",
+   "https://ra.co/dj/sarahwild/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "DINA": {
+  "img": "https://static.ra.co/images/profiles/square/dina.jpg?dateUpdated=1771932855563",
+  "links": {
+   "ra": "https://ra.co/dj/dina",
+   "sc": "https://soundcloud.com/dinakhashan",
+   "ig": "https://www.instagram.com/dinakhashan",
+   "bc": "https://nachtcrew.bandcamp.com",
+   "web": "https://nachtcrew.ca/"
+  },
+  "from": {
+   "de": "Kanada (lebt in Deutschland)",
+   "en": "Canada (based in Germany)"
+  },
+  "labels": [
+   "Slash",
+   "Huntleys + Palmers",
+   "Air Texture",
+   "Molten Moods",
+   "Live From Earth",
+   "Amniote",
+   "Space Trax"
+  ],
+  "bio": {
+   "de": "DINA ist eine in Kanada geborene, in Deutschland lebende DJ und eine Hälfte von nachtcrew. Releases erschienen u. a. auf Slash, Huntleys + Palmers, Air Texture und Molten Moods. Laut RA spielt sie am häufigsten in Berlin, München, Amsterdam und Paris, etwa in der Roten Sonne, im RSO.BERLIN, Else und Renate.",
+   "en": "DINA is a Canadian-born, Germany-based DJ and one half of nachtcrew. She has released on labels including Slash, Huntleys + Palmers, Air Texture and Molten Moods. According to RA she plays most often in Berlin, Munich, Amsterdam and Paris, at clubs such as Rote Sonne, RSO.BERLIN, Else and Renate."
+  },
+  "src": [
+   "https://ra.co/dj/dina"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Zeno": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Talia Dorr": {
+  "img": "https://static.ra.co/images/profiles/square/taliadorr.jpg?dateUpdated=1770127025277",
+  "links": {
+   "sc": "https://soundcloud.com/talia-dorr",
+   "ra": "https://ra.co/dj/taliadorr"
+  },
+  "bio": {
+   "de": "Talia Dorr ist eine in Deutschland verortete DJ, die vor allem in Städten wie Berlin, Hamburg, Frankfurt und Münster auflegt; auch Wien zählt zu ihren meistbespielten Regionen. Mixe von ihr erschienen u. a. im Sachsentrance Podcast, bei ELM STREET 42 und vom TARMAC Festival 2025.",
+   "en": "Talia Dorr is a Germany-based DJ who mainly plays in cities such as Berlin, Hamburg, Frankfurt and Münster; Vienna is also among her most-played regions. Her mixes have appeared on the Sachsentrance Podcast, ELM STREET 42 and from TARMAC Festival 2025."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "sets": [
+   {
+    "t": "Talia Dorr - TARMAC Festival 2025 @ Vacanza",
+    "u": "https://soundcloud.com/vacanzaev/talia-dorr-tarmac-festival-2025-vacanza"
+   },
+   {
+    "t": "Talia Dorr - SACHSENTRANCE PODCAST #97",
+    "u": "https://soundcloud.com/sachsentrance/talia-dorr-sachsentrance-podcast-97"
+   },
+   {
+    "t": "027 TALIA DORR (ELM STREET 42)",
+    "u": "https://soundcloud.com/elm-street-42/027-talia-dorr"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/taliadorr",
+   "https://soundcloud.com/talia-dorr/sets/sets-podcasts"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Pablo": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "DJ Deep": {
+  "img": "https://static.ra.co/images/profiles/djdeep.jpg?dateUpdated=1481038270943",
+  "links": {
+   "ra": "https://ra.co/dj/djdeep",
+   "web": "https://www.djdeep.com"
+  },
+  "bio": {
+   "de": "DJ Deep ist ein französischer House- und Techno-DJ und Produzent. Er betreibt das Label Deeply Rooted (früher Deeply Rooted House); Releases erschienen u. a. auf King Street Sounds, F Communications, Rekids und Tresor.",
+   "en": "DJ Deep is a French house and techno DJ and producer. He runs the Deeply Rooted label (formerly Deeply Rooted House); his releases have appeared on labels including King Street Sounds, F Communications, Rekids and Tresor."
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "real": "Cyril Etienne des Rosaies",
+  "genres": [
+   "House",
+   "Techno"
+  ],
+  "labels": [
+   "Deeply Rooted",
+   "King Street Sounds",
+   "F Communications",
+   "Rekids",
+   "Tresor"
+  ],
+  "src": [
+   "https://ra.co/dj/djdeep"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Alexskyspirit": {
+  "img": "https://static.ra.co/images/profiles/square/alexskyspirit.jpg?dateUpdated=1769261369963",
+  "links": {
+   "sc": "https://soundcloud.com/alexskyspirit",
+   "bc": "https://alexskyspirit.bandcamp.com",
+   "ig": "https://www.instagram.com/alexskyspirit",
+   "ra": "https://ra.co/dj/alexskyspirit"
+  },
+  "bio": {
+   "de": "Alexskyspirit ist ein griechischer DJ und Produzent für hypnotischen Techno, verwurzelt in Minimalismus und emotionaler Tiefe, mit meditativen Rhythmen und sich entwickelnden Texturen. Releases erschienen u. a. auf Edit Select, Planet Rhythm, Soria Records und Lotus Parable; aufgetreten ist er u. a. in Zypern, Albanien und Polen.",
+   "en": "Alexskyspirit is a Greek DJ and producer of hypnotic techno rooted in minimalism and emotional depth, with meditative rhythms and evolving textures. He has released on labels including Edit Select, Planet Rhythm, Soria Records and Lotus Parable, and has played in Cyprus, Albania and Poland."
+  },
+  "from": {
+   "de": "Griechenland",
+   "en": "Greece"
+  },
+  "genres": [
+   "Hypnotic Techno"
+  ],
+  "labels": [
+   "Edit Select Records",
+   "Quartz Rec",
+   "Planet Rhythm Records",
+   "Circular Limited",
+   "Hidden Traffic",
+   "NODE Recordings",
+   "Lotus Parable",
+   "Khoros Records",
+   "Aurora Mística Records",
+   "Soria Records"
+  ],
+  "sets": [
+   {
+    "t": "MNMT Recordings: Alexskyspirit @ FLUCC - Vienna",
+    "u": "https://soundcloud.com/monument-podcast/mnmt-recordings-alexskyspirit"
+   },
+   {
+    "t": "Alexskyspirit @ OMG Events (Oslo, 20.09.2025)",
+    "u": "https://soundcloud.com/alexskyspirit/alexskyspirit-omg-events-oslo-20092025"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/alexskyspirit",
+   "https://ra.co/dj/alexskyspirit/biography",
+   "https://ra.co/events/2360383"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Alviker": {
+  "img": "https://static.ra.co/images/profiles/square/alviker.jpg?dateUpdated=1741889488517",
+  "links": {
+   "sc": "https://soundcloud.com/alviker",
+   "bc": "https://alviker.bandcamp.com",
+   "ig": "https://www.instagram.com/alviker",
+   "ra": "https://ra.co/dj/alviker"
+  },
+  "bio": {
+   "de": "Alviker ist ein spanischer DJ mit Fokus auf die Underground-, Queer- und Rave-Szene, der vor allem in Madrid, Berlin und Barcelona auflegt. Er ist Resident und Veranstalter bei KREAM in Madrid; Releases erschienen u. a. auf Milli Records.",
+   "en": "Alviker is a Spanish DJ focused on the underground, queer and rave scenes, playing mostly in Madrid, Berlin and Barcelona. He is a resident and promoter at KREAM in Madrid and has released on Milli Records, among others."
+  },
+  "from": {
+   "de": "Spanien",
+   "en": "Spain"
+  },
+  "real": "Álvaro Hernando Gavilán",
+  "labels": [
+   "Milli Records"
+  ],
+  "sets": [
+   {
+    "t": "Metaphysical Thoughts, DJ Set",
+    "u": "https://soundcloud.com/alviker/metaphysical-thoughts"
+   },
+   {
+    "t": "Kindergarten 2020, Main Stage DJ Set",
+    "u": "https://soundcloud.com/alviker/kindergarten-2020-main-stage-dj-set"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/alviker",
+   "https://soundcloud.com/alviker"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "DJ Terror": {
+  "bio": {
+   "de": "DJ Terror legt Techno weit über Minimal hinaus auf, gefärbt von Acid, Jungle und Trance, und greift dabei auch popkulturelle und politische Bezüge auf. Im März 2026 spielte sie bei Hart Lab im Tagada in Wien.",
+   "en": "DJ Terror plays techno far beyond the minimal, coloured by acid, jungle and trance, and draws on pop-cultural and political references. In March 2026 she played Hart Lab at Tagada in Vienna."
+  },
+  "genres": [
+   "Techno",
+   "Acid"
+  ],
+  "src": [
+   "https://ra.co/events/2377233"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Zötsch": {
+  "bio": {
+   "de": "Zötsch hat über die Jahre viele verschiedene Genres aufgelegt; seine Sets kreisen um die ganze Bandbreite der Techno-Rhythmen. Im März 2026 spielte er bei Hart Lab im Tagada in Wien.",
+   "en": "Zötsch has played many different genres over the years; his sets revolve around the full range of techno rhythms. In March 2026 he played Hart Lab at Tagada in Vienna."
+  },
+  "genres": [
+   "Techno"
+  ],
+  "src": [
+   "https://ra.co/events/2377233"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Jules Jay": {
+  "img": "https://static.ra.co/images/profiles/square/jules.jpg?dateUpdated=1758715467000",
+  "links": {
+   "sc": "https://soundcloud.com/BDTfW",
+   "ig": "https://www.instagram.com/julesjaymusic",
+   "ra": "https://ra.co/dj/jules",
+   "web": "https://linktr.ee/julesjaymusic"
+  },
+  "bio": {
+   "de": "Jules Jay ist ein DJ aus München, der unter dem Motto „The art of hypnotic groove“ auflegt. Er spielt regelmäßig in Münchner Clubs wie Legal, Praterinsel, Bahnwärter Thiel und Pacha; im März 2026 war er bei RED GROOVE (Social Club) im PRST in Wien zu Gast.",
+   "en": "Jules Jay is a DJ from Munich whose motto is \"The art of hypnotic groove\". He regularly plays Munich clubs such as Legal, Praterinsel, Bahnwärter Thiel and Pacha, and guested at RED GROOVE (Social Club) at PRST in Vienna in March 2026."
+  },
+  "from": {
+   "de": "München",
+   "en": "Munich"
+  },
+  "alias": [
+   "julës jay"
+  ],
+  "src": [
+   "https://de.ra.co/dj/jules",
+   "https://de.ra.co/events/2390644"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Leeb": {
+  "bio": {
+   "de": "Leeb ist ein DJ aus München. Im März 2026 spielte er gemeinsam mit Jules Jay bei RED GROOVE (Social Club) im PRST in Wien, einer Nacht mit groovigem, funky Sound.",
+   "en": "Leeb is a DJ from Munich. In March 2026 he played alongside Jules Jay at RED GROOVE (Social Club) at PRST in Vienna, a night with a groovy, funky sound."
+  },
+  "from": {
+   "de": "München",
+   "en": "Munich"
+  },
+  "src": [
+   "https://de.ra.co/events/2390644"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Kander": {
+  "img": "https://static.ra.co/images/profiles/square/kander.jpg?dateUpdated=1552319305000",
+  "links": {
+   "sc": "https://soundcloud.com/kanderuk",
+   "ig": "https://www.instagram.com/kander.info",
+   "ra": "https://ra.co/dj/kander"
+  },
+  "bio": {
+   "de": "Kander ist ein Act aus Manchester (UK). Die Debüt-EP erschien im Mai 2020 auf R-Label mit den Tracks „To My Face“ und „Born To Fail“; weitere Releases u. a. auf Clergy.",
+   "en": "Kander is an act from Manchester (UK). The debut EP came out on R-Label in May 2020, featuring \"To My Face\" and \"Born To Fail\"; further releases include Clergy."
+  },
+  "from": {
+   "de": "Manchester, UK",
+   "en": "Manchester, UK"
+  },
+  "labels": [
+   "Clergy",
+   "R Label Group"
+  ],
+  "src": [
+   "https://ra.co/dj/kander"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "DKAY": {
+  "img": "https://static.ra.co/images/profiles/d.kay.jpg?dateUpdated=1199030453937",
+  "links": {
+   "ra": "https://ra.co/dj/d.kay"
+  },
+  "alias": [
+   "D.Kay",
+   "Aikon",
+   "Mindmachine"
+  ],
+  "real": "David Kulenkampff",
+  "from": {
+   "de": "Wien, Österreich",
+   "en": "Vienna, Austria"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Soul:R",
+   "Bingo Beats",
+   "Hospital",
+   "Renegade Hardware"
+  ],
+  "bio": {
+   "de": "D.Kay (David Kulenkampff) ist ein Drum'n'Bass-DJ und Produzent aus Wien. Er veröffentlichte u. a. auf Soul:R, Bingo, Hospital und Renegade Hardware; sein Track „Barcelona“ mit Epsilon und Stamina MC erreichte 2003 Platz 14 der britischen Single-Charts. 2001 gründete er mit Rawfull das Duo Ill.Skillz.",
+   "en": "D.Kay (David Kulenkampff) is a drum'n'bass DJ and producer from Vienna. He has released on labels such as Soul:R, Bingo, Hospital and Renegade Hardware; his track \"Barcelona\" with Epsilon and Stamina MC reached number 14 in the UK singles chart in 2003. In 2001 he formed the duo Ill.Skillz with Rawfull."
+  },
+  "src": [
+   "https://ra.co/dj/d.kay",
+   "https://en.wikipedia.org/wiki/D.Kay",
+   "https://ra.co/events/2127571"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Paul SG": {
+  "img": "https://static.ra.co/images/profiles/paulsg.jpg?dateUpdated=1478010315000",
+  "links": {
+   "ra": "https://ra.co/dj/paulsg"
+  },
+  "from": {
+   "de": "Bielefeld, Deutschland / Wien",
+   "en": "Bielefeld, Germany / Vienna"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Jazzsticks Recordings",
+   "Goodlooking Records",
+   "Liquid V",
+   "Innerground",
+   "Shogun Audio",
+   "Fokuz"
+  ],
+  "bio": {
+   "de": "Paul SG ist ein in Bielefeld geborener, in Wien lebender Drum-&-Bass-Produzent und DJ, der jazzige, soulige und funkige Einflüsse mit schweren Drum-Arrangements verbindet. Er arbeitete jahrelang mit LTJ Bukem und Good Looking Records und war Resident bei Bukems Nächten im Londoner Fabric. Er betreibt das Label Jazzsticks Recordings und veröffentlichte u. a. auf Liquid V, Innerground, Shogun Audio und Fokuz; 2016 erschien sein Debütalbum „This Is Me“.",
+   "en": "Paul SG is a Bielefeld-born, Vienna-based drum & bass producer and DJ who blends jazz, soul and funk with heavy drum arrangements. He worked with LTJ Bukem and Good Looking Records for years and was a resident at Bukem's nights at fabric in London. He runs the label Jazzsticks Recordings and has released on Liquid V, Innerground, Shogun Audio and Fokuz, among others; his debut LP \"This Is Me\" came out in 2016."
+  },
+  "sets": [
+   {
+    "t": "Juno Download Guest Mix - Paul SG (Jazzsticks Recordings)",
+    "u": "https://soundcloud.com/juno-download/juno-download-guest-mix-paul-sg-jazzsticks-recordings"
+   },
+   {
+    "t": "SUNANDBASS Podcast #55 - Paul SG ft. T.R.A.C & MC Conrad",
+    "u": "https://soundcloud.com/sunandbass/sunandbass-podcast-55-paul-sg-ft-trac-mc-conrad"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/paulsg/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "ISI": {
+  "img": "https://static.ra.co/images/profiles/square/isi-2.jpg?dateUpdated=1736416354000",
+  "links": {
+   "ra": "https://ra.co/dj/isi-2"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "ISI ist in Wien geboren und aufgewachsen – Künstler*in, DJ und Gastgeber*in der Partyreihe Falle. In Wien legt ISI vor allem im SASS Music Club auf.",
+   "en": "ISI is a Vienna-born and raised artist and DJ who hosts the Falle party series. In Vienna, ISI plays most often at SASS Music Club."
+  },
+  "src": [
+   "https://ra.co/dj/isi-2"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Lars Huismann": {
+  "img": "https://static.ra.co/images/profiles/square/larshuismann.jpg?dateUpdated=1789218884027",
+  "links": {
+   "ra": "https://ra.co/dj/larshuismann",
+   "sc": "https://soundcloud.com/lars-huismann"
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Monnom Black",
+   "Mutual Rytm"
+  ],
+  "bio": {
+   "de": "Lars Huismann ist ein Techno-Produzent und DJ aus Berlin. Er veröffentlicht u. a. auf Monnom Black und Mutual Rytm und spielt regelmäßig in Clubs wie RSO.BERLIN, OXI und Tresor.",
+   "en": "Lars Huismann is a Berlin-based techno producer and DJ. He releases on labels such as Monnom Black and Mutual Rytm and regularly plays clubs like RSO.BERLIN, OXI and Tresor."
+  },
+  "src": [
+   "https://ra.co/dj/larshuismann"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Flausche": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Shaymi": {
+  "links": {
+   "sc": "https://soundcloud.com/shaymidnb"
+  },
+  "from": {
+   "de": "Budapest, Ungarn",
+   "en": "Budapest, Hungary"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Shaymi ist ein Drum-&-Bass-DJ aus der Budapester Bladerunnaz-Crew. Seine Sets reichen von hartem Crossbreed bis zu rollenden Dancefloor-Sounds.",
+   "en": "Shaymi is a drum & bass DJ from the Bladerunnaz crew in Budapest. His sets range from hard crossbreed to rolling dancefloor sounds."
+  },
+  "sets": [
+   {
+    "t": "Bladerunnaz 2021 Winter Mix By Shaymi",
+    "u": "https://soundcloud.com/bladerunnaz/bladerunnaz-2021-winter-mix-by-shaymi"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/events/2387039",
+   "https://soundcloud.com/shaymidnb"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Phenom": {
+  "links": {
+   "sc": "https://soundcloud.com/phenomdischarge"
+  },
+  "from": {
+   "de": "Prag, Tschechien",
+   "en": "Prague, Czech Republic"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Neurofunk"
+  ],
+  "labels": [
+   "Skamele",
+   "Neuroheadz"
+  ],
+  "bio": {
+   "de": "Phenom ist DJ und Produzent aus Prag und bildet gemeinsam mit Discharge das Neurofunk-Duo Phenom & Discharge. Das Duo gilt als feste Größe im modernen Neurofunk und veröffentlicht u. a. auf Neuroheadz und Skamele.",
+   "en": "Phenom is a DJ and producer from Prague who forms the neurofunk duo Phenom & Discharge together with Discharge. The duo is regarded as a key name in modern neurofunk, with releases on Neuroheadz and Skamele, among others."
+  },
+  "sets": [
+   {
+    "t": "Phenom & Discharge x Underside x Dr.Ax - NEUROMORPHOSIS Pt. 3 (B2B Edition)",
+    "u": "https://soundcloud.com/phenomdischarge/phenom-discharge-x-underside-x-drax-neuromorphosis-pt-3-b2b-edition"
+   },
+   {
+    "t": "Phenom & Discharge - NEUROMORPHOSIS Pt. 1",
+    "u": "https://soundcloud.com/phenomdischarge/phenom-discharge-neuromorphosis-pt-1"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/events/2387039",
+   "https://soundcloud.com/phenomdischarge"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Discharge": {
+  "links": {
+   "sc": "https://soundcloud.com/phenomdischarge"
+  },
+  "from": {
+   "de": "Prag, Tschechien",
+   "en": "Prague, Czech Republic"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Neurofunk"
+  ],
+  "labels": [
+   "Skamele",
+   "Neuroheadz"
+  ],
+  "bio": {
+   "de": "Discharge ist DJ und Produzent aus Prag und bildet gemeinsam mit Phenom das Neurofunk-Duo Phenom & Discharge. Das Duo gilt als feste Größe im modernen Neurofunk und veröffentlicht u. a. auf Neuroheadz und Skamele.",
+   "en": "Discharge is a DJ and producer from Prague who forms the neurofunk duo Phenom & Discharge together with Phenom. The duo is regarded as a key name in modern neurofunk, with releases on Neuroheadz and Skamele, among others."
+  },
+  "sets": [
+   {
+    "t": "Phenom & Discharge x Underside x Dr.Ax - NEUROMORPHOSIS Pt. 3 (B2B Edition)",
+    "u": "https://soundcloud.com/phenomdischarge/phenom-discharge-x-underside-x-drax-neuromorphosis-pt-3-b2b-edition"
+   },
+   {
+    "t": "Phenom & Discharge - NEUROMORPHOSIS Pt. 1",
+    "u": "https://soundcloud.com/phenomdischarge/phenom-discharge-neuromorphosis-pt-1"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/events/2387039",
+   "https://soundcloud.com/phenomdischarge"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
  }
 };
 
