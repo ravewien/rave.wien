@@ -31753,6 +31753,305 @@ const AR={
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04"
+ },
+ "Mimi Love": {
+  "img": "https://static.ra.co/images/profiles/square/mimilove.jpg?dateUpdated=1769810830157",
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "House"
+  ],
+  "bio": {
+   "de": "House-DJ aus dem Berliner Kater-Blau- und Bachstelzen-Umfeld, die zwischen groovigen Tracks und erdendem House wechselt. Begann an der Bar25 mit Downbeat und spielte u. a. bei Garbicz und Fusion.",
+   "en": "House DJ from Berlin's Kater Blau and Bachstelzen circle, moving between groovy tunes and grounding house. She started out at Bar25 playing downbeat and has played festivals such as Garbicz and Fusion."
+  },
+  "links": {
+   "ra": "https://ra.co/dj/mimilove",
+   "sc": "https://soundcloud.com/spreedelay"
+  },
+  "sets": [
+   {
+    "t": "Mimi Love @ Mahalla NYE 25/26 ✷ Bachstelzen",
+    "u": "https://soundcloud.com/spreedelay/mimi-love-mahalla-nye-2626-bachstelzen"
+   },
+   {
+    "t": "Mimi Love @ Wiese ⌘ Garbicz 2024",
+    "u": "https://soundcloud.com/spreedelay/mimi-love-wiese-garbicz-2024"
+   },
+   {
+    "t": "Mimi Love @ Seefloor ⌘ Garbicz 2023",
+    "u": "https://soundcloud.com/spreedelay/mimi-love-seebuhne-garbicz-2023"
+   }
+  ],
+  "src": [
+   "https://de.ra.co/dj/mimilove/biography"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Lee Ann Roberts": {
+  "img": "https://static.ra.co/images/profiles/square/lee-annroberts.jpg?dateUpdated=1686567367000",
+  "from": {
+   "de": "Südafrika, lebt in den Niederlanden",
+   "en": "South Africa, based in the Netherlands"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Suara",
+   "Gomboc Records",
+   "NowNow Records"
+  ],
+  "bio": {
+   "de": "In Südafrika geborene, in den Niederlanden lebende Techno-DJ und Produzentin. Sie veröffentlicht u. a. auf Suara, Gomboc Records und ihrem Label NowNow Records.",
+   "en": "South African-born techno DJ and producer based in the Netherlands. She has released on Suara, Gomboc Records and her own NowNow Records."
+  },
+  "links": {
+   "ra": "https://ra.co/dj/lee-annroberts",
+   "web": "https://www.leeannroberts.com/",
+   "ig": "https://www.instagram.com/leeann_roberts",
+   "sc": "https://www.soundcloud.com/leeannroberts",
+   "bc": "https://nownowrecords.bandcamp.com"
+  },
+  "src": [
+   "https://ra.co/dj/lee-annroberts"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Ida Engberg": {
+  "img": "https://static.ra.co/images/profiles/idaengberg.jpg?dateUpdated=1321570016000",
+  "from": {
+   "de": "Schweden",
+   "en": "Sweden"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Crosstown Rebels",
+   "Get Physical Music",
+   "Drumcode",
+   "Truesoul"
+  ],
+  "bio": {
+   "de": "Schwedische Techno-DJ und Produzentin mit Releases auf Drumcode, Truesoul, Crosstown Rebels und Get Physical. Sie spielte u. a. bei Awakenings und in der Drumcode Radio Live-Reihe.",
+   "en": "Swedish techno DJ and producer with releases on Drumcode, Truesoul, Crosstown Rebels and Get Physical. She has played Awakenings and featured on Drumcode Radio Live."
+  },
+  "links": {
+   "ra": "https://ra.co/dj/idaengberg",
+   "sc": "https://soundcloud.com/ida-engberg"
+  },
+  "sets": [
+   {
+    "t": "Ida Engberg @ Awakenings Festival 2019",
+    "u": "https://soundcloud.com/awakenings/ida-engberg-awakenings-festival-2019-30-06-2019"
+   },
+   {
+    "t": "Awakenings Podcast #015 - Ida Engberg",
+    "u": "https://soundcloud.com/awakenings/podcast-015-ida-engberg"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/idaengberg"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Almedina": {
+  "img": "https://static.ra.co/images/profiles/square/almedina-2.jpg?dateUpdated=1762423863000",
+  "from": {
+   "de": "München (geboren in Burghausen, bosnische Wurzeln)",
+   "en": "Munich (born in Burghausen, Bosnian roots)"
+  },
+  "genres": [
+   "Techno",
+   "Electro"
+  ],
+  "bio": {
+   "de": "Münchner DJ und Produzentin zwischen Electro, Acid, Progressive und minimal geprägtem Techno. Sie ist Mitgründerin des Münchner House-Clubs LEGAL (2023).",
+   "en": "Munich-based DJ and producer moving between electro, acid, progressive and minimal-leaning techno. She co-founded the Munich house club LEGAL in 2023."
+  },
+  "links": {
+   "ra": "https://ra.co/dj/almedina-2"
+  },
+  "sets": [
+   {
+    "t": "Legal Fundraiser w/ Almedina (Radio 80000)",
+    "u": "https://soundcloud.com/radio80000/legal-fundraiser-w-almedina"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/almedina-2/biography"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Martin Freudentanz": {
+  "img": "https://static.ra.co/images/profiles/martinfreudentanz.jpg?dateUpdated=1355478858000",
+  "from": {
+   "de": "Österreich (Graz)",
+   "en": "Austria (Graz)"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Österreichischer Techno-DJ aus dem Umfeld der Grazer Postgarage und der Freudentanz-/Rave-on-Snow-Veranstaltungen. Er wuchs in einem musikalischen Haushalt mit Klavier und Geige auf.",
+   "en": "Austrian techno DJ from the circle of Graz's Postgarage and the Freudentanz / Rave on Snow events. He grew up in a musical household playing piano and violin."
+  },
+  "links": {
+   "ra": "https://ra.co/dj/martinfreudentanz",
+   "sc": "https://soundcloud.com/martinfreudentanz"
+  },
+  "sets": [
+   {
+    "t": "Martin Freudentanz @ Springfestival 2023",
+    "u": "https://soundcloud.com/martinfreudentanz/martin-freudentanz-springfestival-2023"
+   },
+   {
+    "t": "Rave On Snow 2017 (Open Air Stage)",
+    "u": "https://soundcloud.com/martinfreudentanz/rave-on-snow-2017-open-air-stage"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/martinfreudentanz",
+   "https://ra.co/events/2180147"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Belocca": {
+  "img": "https://static.ra.co/images/profiles/square/belocca.jpg?dateUpdated=1472757615507",
+  "from": {
+   "de": "Ungarn",
+   "en": "Hungary"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Mainground Music",
+   "Filth On Acid",
+   "HILOMATIK"
+  ],
+  "bio": {
+   "de": "Ungarischer Techno-DJ, Produzent und Labelbetreiber (Mainground Music) mit über zwei Jahrzehnten Szeneerfahrung. Bekannt für treibende, industriell angehauchte Sets; veranstaltet die Mainground Sessions in Budapest.",
+   "en": "Hungarian techno DJ, producer and label owner (Mainground Music) with over two decades in the scene. Known for driving, industrial-leaning sets, he hosts Mainground Sessions events in Budapest."
+  },
+  "links": {
+   "ra": "https://ra.co/dj/belocca",
+   "sc": "https://soundcloud.com/belocca"
+  },
+  "sets": [
+   {
+    "t": "Mainground Music Sessions 057: Belocca",
+    "u": "https://soundcloud.com/belocca/mainground-music-sessions-057-belocca"
+   },
+   {
+    "t": "Mainground Sessions LIVE 006: Belocca live from D9, Budapest",
+    "u": "https://soundcloud.com/belocca/mainground-sessions-live-006-belocca-live-from-d9-budapest-hungary-20230113"
+   }
+  ],
+  "src": [
+   "https://es.ra.co/dj/belocca/biography"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Cyan85": {
+  "img": "https://static.ra.co/images/profiles/cyan85.jpg?dateUpdated=1558683209123",
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Electro"
+  ],
+  "labels": [
+   "VOITAX",
+   "Undersound Recordings",
+   "Lunar Orbiter Program",
+   "International Chrome"
+  ],
+  "bio": {
+   "de": "Aus Ostdeutschland stammender DJ und Produzent, dessen Sound von warmen, sonnigen Hymnen bis zu härteren, robotischen Tracks reicht. Releases u. a. auf VOITAX, Lunar Orbiter Program und International Chrome.",
+   "en": "DJ and producer from eastern Germany whose sound ranges from warm, sun-drenched anthems to harder, robotic tracks. Releases on VOITAX, Lunar Orbiter Program and International Chrome, among others."
+  },
+  "links": {
+   "ra": "https://ra.co/dj/cyan85",
+   "sc": "https://www.soundcloud.com/cyan85",
+   "ig": "https://www.instagram.com/cyan__85/"
+  },
+  "src": [
+   "https://ra.co/dj/cyan85"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Particle": {
+  "img": "https://zjenokhunppshsbitzpz.supabase.co/storage/v1/object/public/artist-images/artists/particle-1780042185865.png",
+  "from": {
+   "de": "Großbritannien",
+   "en": "United Kingdom"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Critical Music",
+   "Dance Macabre",
+   "UKF",
+   "Shogun Audio"
+  ],
+  "bio": {
+   "de": "Britischer Drum-&-Bass-Produzent und DJ, seit 2019 aktiv, mit dunklem, treibendem und perkussivem Sound. Releases u. a. auf Critical Music, UKF und Shogun Audio; Debütalbum „Pyro“.",
+   "en": "UK drum & bass producer and DJ active since 2019, known for a dark, driving, percussive sound. Releases on Critical Music, UKF and Shogun Audio; debut album 'Pyro'."
+  },
+  "links": {
+   "sc": "https://soundcloud.com/particle",
+   "ig": "https://www.instagram.com/alexparticle/",
+   "sp": "https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0"
+  },
+  "src": [
+   "https://www.mbartists.co.uk/artists/particle"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "LsDirty": {
+  "from": {
+   "de": "Italien",
+   "en": "Italy"
+  },
+  "genres": [
+   "Psytrance",
+   "Psy-Reggae"
+  ],
+  "bio": {
+   "de": "Italienischer Act, der Psytrance mit Ska, italienischem Underground und Reggae-Rhythmen zu „Psy-Reggae“ mit schweren Bässen verbindet. Bekannt u. a. für Bootlegs von Reggae- und Dub-Klassikern.",
+   "en": "Italian act blending psytrance with ska, Italian underground music and reggae rhythms into heavy-bassed 'psy-reggae'. Known for bootlegs of reggae and dub classics."
+  },
+  "links": {
+   "sc": "https://soundcloud.com/lsdirty"
+  },
+  "sets": [
+   {
+    "t": "Set 2019",
+    "u": "https://soundcloud.com/lsdirty/set-2019"
+   }
+  ],
+  "src": [
+   "https://de.ra.co/events/2177709"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Peter Blue": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
  }
 };
 
