@@ -30185,6 +30185,299 @@ const AR={
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04"
+ },
+ "Optimatek": {
+  "links": {
+   "sc": "https://soundcloud.com/optimatek"
+  },
+  "src": [
+   "https://soundcloud.com/optimatek"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Spekki Webu": {
+  "img": "https://static.ra.co/images/profiles/square/spekkiwebu.jpg?dateUpdated=1787860005230",
+  "links": {
+   "ra": "https://ra.co/dj/spekkiwebu",
+   "sc": "https://soundcloud.com/spekkiwebu"
+  },
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "labels": [
+   "Mirror Zone"
+  ],
+  "bio": {
+   "de": "Multidisziplinärer Künstler, halb Afroamerikaner, halb Deutscher, aufgewachsen in den Niederlanden und geprägt von den Hardcore- und Freeparty-Undergroundszenen. Er betreibt das Label Mirror Zone und das audiovisuelle Projekt Signal Transmutations. Mixe u. a. für den RA-Podcast (RA.714), Dekmantel und HATE.",
+   "en": "Multidisciplinary artist, half African-American and half German, raised in the Netherlands and shaped by the hardcore and free-party underground. He runs the label Mirror Zone and the audiovisual project Signal Transmutations. Mixes include the RA Podcast (RA.714), Dekmantel and HATE."
+  },
+  "sets": [
+   {
+    "t": "Spekki Webu @ The Swamp, Modem Festival 2024",
+    "u": "https://soundcloud.com/mo_dem/spekki-webu-the-swamp-modem-festival-2024"
+   },
+   {
+    "t": "MNMT 480: Spekki Webu",
+    "u": "https://soundcloud.com/monument-podcast/mnmt-480-spekki-webu"
+   },
+   {
+    "t": "RA.714 Spekki Webu",
+    "u": "https://soundcloud.com/resident-advisor/ra714-spekki-webu"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/spekkiwebu/biography"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Cleric": {
+  "alias": [
+   "Cleric (Clergy"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/cleric.jpg?dateUpdated=1758205014053",
+  "links": {
+   "ra": "https://ra.co/dj/cleric",
+   "sc": "https://soundcloud.com/cleric"
+  },
+  "from": {
+   "de": "Manchester, UK",
+   "en": "Manchester, UK"
+  },
+  "labels": [
+   "Clergy",
+   "Arts",
+   "Soma",
+   "Figure"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Techno-Produzent und DJ aus Manchester, seit 2012 aktiv und bekannt für hohes Tempo, groovige Strukturen und kräftige Kickdrums. Er betreibt das Label Clergy (u. a. mit Releases von Dax J, James Ruskin und Kwartz) und veröffentlichte zuvor auf Arts, Soma und Figure. Auftritte u. a. im Berghain, im Fabric und bei Awakenings.",
+   "en": "Techno producer and DJ from Manchester, active since 2012 and known for high tempo, groovy structures and heavy kick drums. He runs the label Clergy (releases by Dax J, James Ruskin and Kwartz among others) and previously released on Arts, Soma and Figure. He has played Berghain, Fabric and Awakenings."
+  },
+  "sets": [
+   {
+    "t": "Cleric – Vault Sessions 31.08.21",
+    "u": "https://soundcloud.com/cleric/cleric-vault-sessions-310821"
+   },
+   {
+    "t": "Cleric – HATE Podcast 238",
+    "u": "https://soundcloud.com/hate_music/cleric-hate-podcast-238"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/cleric/biography"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Aio": {
+  "img": "https://static.ra.co/images/profiles/square/aio.jpg?dateUpdated=1493737696000",
+  "links": {
+   "ra": "https://ra.co/dj/aio",
+   "sc": "https://soundcloud.com/aio-music"
+  },
+  "from": {
+   "de": "Leipzig",
+   "en": "Leipzig"
+  },
+  "labels": [
+   "Senso Sounds",
+   "Stil vor Talent",
+   "Alula Tunes",
+   "DENSE AUDIO",
+   "Parquet Recordings",
+   "KE//ER"
+  ],
+  "bio": {
+   "de": "Produzent und DJ aus Leipzig, der gern mit seiner Musik experimentiert und dunkle Elemente mit eleganten Melodien verbindet. Releases u. a. auf Senso Sounds, Stil vor Talent, Parquet Recordings und DENSE AUDIO; Auftritte u. a. im Sisyphos, im Watergate und mit Live-Set auf der Fusion.",
+   "en": "Leipzig-based producer and DJ who likes to experiment while keeping his distinctive sound, combining dark elements with elegant melodies. Releases on Senso Sounds, Stil vor Talent, Parquet Recordings and DENSE AUDIO among others; he has played Sisyphos, Watergate and a live set at Fusion."
+  },
+  "sets": [
+   {
+    "t": "Aio @ Westhafen Leipzig (Stream 18.04.2020, DJ-Set)",
+    "u": "https://soundcloud.com/aio-music/aio-westhafen-leipzig-stream-18042020-dj-set"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/aio/biography",
+   "https://de.ra.co/events/2059567"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Otto Wagina": {
+  "links": {
+   "sc": "https://soundcloud.com/ottowagina"
+  },
+  "bio": {
+   "de": "DJ aus der Wiener Szene mit Hang zu progressiven und melodischen Sets. Spielte u. a. im FLUCC (Praterrakete, b2b mit Patrik Pagan) und bei Unlock the Free Space 2025; außerdem Mix für den Streamlines Podcast (015).",
+   "en": "DJ from the Vienna scene with a leaning towards progressive and melodic sets. Played FLUCC (Praterrakete, b2b with Patrik Pagan) and Unlock the Free Space 2025, and recorded a mix for the Streamlines Podcast (015)."
+  },
+  "sets": [
+   {
+    "t": "Fresse Spaces @ Unlock The Free Space 2025 – Otto Wagina",
+    "u": "https://soundcloud.com/unlock_me/fresse-spaces-unlock-the-free-space-2025-by-otto-wagina"
+   },
+   {
+    "t": "Otto Wagina b2b Patrik Pagan @ Flucc",
+    "u": "https://soundcloud.com/patrikpagan/ab3b3ea7-89f1-41ed-8aff-1b0ff1c4fa69"
+   },
+   {
+    "t": "Streamlines Podcast 015 – Otto Wagina",
+    "u": "https://soundcloud.com/streamlines-rec/streamlines-podcast-15-otto-wagina"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/ottowagina",
+   "https://de.ra.co/events/2059567"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Derrick Raw": {
+  "alias": [
+   "Derrick F. Raw"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/derrickraw.jpg?dateUpdated=1660031524320",
+  "links": {
+   "ra": "https://ra.co/dj/derrickraw",
+   "sc": "https://soundcloud.com/derrick_raw",
+   "ig": "https://www.instagram.com/Derrick__Raw"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Techno",
+   "Acid"
+  ],
+  "bio": {
+   "de": "In Wien ansässiger DJ, der seinen Stil als Mischung aus klassischen Grooves und modernen, hart treibenden Sounds beschreibt. Resident in der Grelle Forelle und Gründungsmitglied des Acid Techno Techno Club.",
+   "en": "Vienna-based DJ who describes his style as a blend of classic grooves and modern, hard-driving sounds. Resident at Grelle Forelle and founding member of Acid Techno Techno Club."
+  },
+  "sets": [
+   {
+    "t": "Derrick Raw b2b Seb Soda // krypt. session #6",
+    "u": "https://soundcloud.com/krypt_bar/derrick-raw-b2b-seb-soda-krypt-session-6"
+   },
+   {
+    "t": "Sinus #2 w/ Derrick Raw (Res.Radio)",
+    "u": "https://soundcloud.com/resradio/sinus-2-w-derrick-raw"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/derrickraw"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Koa": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Evanora:Unlimited": {
+  "img": "https://static.ra.co/images/profiles/square/evanoraunlimited.jpg?dateUpdated=1677151663000",
+  "links": {
+   "ra": "https://ra.co/dj/evanoraunlimited",
+   "sc": "https://soundcloud.com/evanoraunlimited"
+  },
+  "bio": {
+   "de": "Produzent*in und DJ, auf SoundCloud mit eigenen Tracks wie „Age of Information“ (feat. Taraneh & Ivy Knight). Auftritte u. a. im Acud Macht Neu (Berlin), im Cinetol (Amsterdam), im MOD Club (Tallinn) und im Xanadu (New York).",
+   "en": "Producer and DJ with original tracks on SoundCloud such as “Age of Information” (feat. Taraneh & Ivy Knight). Has played Acud Macht Neu (Berlin), Cinetol (Amsterdam), MOD Club (Tallinn) and Xanadu (New York)."
+  },
+  "sets": [
+   {
+    "t": "Evanora:Unlimited and Duskdriven @ The Lot Radio 19.11.2025",
+    "u": "https://soundcloud.com/thelotradio/evanoraunlimited-and-duskdriven-the-lot-radio-11-19-2025"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/evanoraunlimited",
+   "https://soundcloud.com/evanoraunlimited/tracks"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Diksha": {
+  "links": {
+   "sc": "https://soundcloud.com/diksha-music"
+  },
+  "from": {
+   "de": "Brasilien",
+   "en": "Brazil"
+  },
+  "labels": [
+   "Paramystical Records"
+  ],
+  "genres": [
+   "Psytrance"
+  ],
+  "bio": {
+   "de": "Psytrance-Liveact aus Brasilien, verbunden mit dem Label Paramystical Records aus São Paulo (EP „Purple Aura“). Spielte u. a. beim Universo Paralello und beim Modem Festival und tritt häufig gemeinsam mit Synkronic auf.",
+   "en": "Psytrance live act from Brazil, associated with the São Paulo label Paramystical Records (EP “Purple Aura”). Has played Universo Paralello and Modem Festival and often tours together with Synkronic."
+  },
+  "sets": [
+   {
+    "t": "Diksha – Full Set, Universo Paralello #16 (2022/2023)",
+    "u": "https://soundcloud.com/diksha-music/diksha-full-set-universo-paralello-16-20222023"
+   },
+   {
+    "t": "DIKSHA @ The Hive, Modem Festival 2019",
+    "u": "https://soundcloud.com/mo_dem/diksha-the-hive-modem-festival-2019"
+   }
+  ],
+  "src": [
+   "https://de.ra.co/events/2043390",
+   "https://soundcloud.com/diksha-music",
+   "https://paramysticalrecords.bandcamp.com"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Synkronic": {
+  "links": {
+   "sc": "https://soundcloud.com/synkronic-music"
+  },
+  "from": {
+   "de": "Brasilien",
+   "en": "Brazil"
+  },
+  "labels": [
+   "Looney Moon Records"
+  ],
+  "genres": [
+   "Psytrance"
+  ],
+  "bio": {
+   "de": "Psytrance-Liveact aus Brasilien mit Releases auf Looney Moon Records (u. a. „Space Monkeys“, „Back To The Future“). Tritt häufig gemeinsam mit Diksha auf, etwa bei Psy Gaff in Dublin.",
+   "en": "Psytrance live act from Brazil with releases on Looney Moon Records (including “Space Monkeys” and “Back To The Future”). Often performs together with Diksha, e.g. at Psy Gaff in Dublin."
+  },
+  "sets": [
+   {
+    "t": "Synkronic – Looney Moon Records Series EP 98 (08.05.2024, Radio Zora)",
+    "u": "https://soundcloud.com/radiozora/synkronic-looney-moon-records-series-ep-98-08052024"
+   },
+   {
+    "t": "Synkronic – Looney Moon Records Series EP 90 (17.06.2023, Radio Zora)",
+    "u": "https://soundcloud.com/radiozora/synkronic-looney-moon-records-series-ep-90-17062023"
+   }
+  ],
+  "src": [
+   "https://de.ra.co/events/2043390",
+   "https://soundcloud.com/synkronic-music"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "setsChecked": "2026-11-04"
  }
 };
 
