@@ -32430,6 +32430,1133 @@ const AR={
    "https://ra.co/dj/andyluff"
   ],
   "infoChk": "2026-11-04"
+ },
+ "Dub Ten": {
+  "from": {
+   "de": "Tirol, Österreich",
+   "en": "Tyrol, Austria"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Empathy Audio",
+   "Flexout Audio",
+   "DOMAIN",
+   "Yamatai Records"
+  ],
+  "bio": {
+   "de": "Dub Ten ist ein Drum-&-Bass-Produzent aus Tirol, dessen Sound von harten Club-Tracks bis zu atmosphärischen, souligen Stücken reicht. Er debütierte 2023 und veröffentlicht auf Empathy Audio (Innsbruck), Flexout Audio, DOMAIN und Yamatai Records. Er ist Mitgründer von Empathy Audio und arbeitet oft mit Acris zusammen.",
+   "en": "Dub Ten is a drum & bass producer from Tyrol whose sound ranges from hard-hitting club tracks to atmospheric, soulful pieces. He debuted in 2023 and releases on Empathy Audio (Innsbruck), Flexout Audio, DOMAIN and Yamatai Records. He co-founded Empathy Audio and often collaborates with Acris."
+  },
+  "src": [
+   "https://events.musicofourdesire.com/artist/dub-ten",
+   "https://de.ra.co/events/2240420",
+   "https://de.ra.co/dj/acris/biography"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Acris": {
+  "img": "https://static.ra.co/images/profiles/square/acris.jpg?dateUpdated=1759915352000",
+  "links": {
+   "ra": "https://ra.co/dj/acris",
+   "sc": "https://soundcloud.com/acris-official-music"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Empathy Audio",
+   "Flexout Audio",
+   "Yamatai Records",
+   "Transparent Audio"
+  ],
+  "bio": {
+   "de": "Acris ist ein in Österreich ansässiger Drum-&-Bass-Produzent mit tiefem, atmosphärischem Sound, dichten Texturen und schweren Bässen. Er veröffentlicht auf Flexout Audio und Yamatai Records und betreibt gemeinsam mit Dub Ten das Label Empathy Audio. Am häufigsten spielt er in Wien, vor allem im Club Lucia.",
+   "en": "Acris is an Austria-based drum & bass producer with a deep, atmospheric sound, rich textures and heavy low end. He has released on Flexout Audio and Yamatai Records and co-runs the Empathy Audio label with Dub Ten. He plays most often in Vienna, especially at Club Lucia."
+  },
+  "src": [
+   "https://de.ra.co/dj/acris",
+   "https://de.ra.co/dj/acris/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "rasho": {
+  "img": "https://static.ra.co/images/profiles/square/rasho.jpg?dateUpdated=1787934848067",
+  "links": {
+   "ra": "https://ra.co/dj/rasho",
+   "sc": "https://soundcloud.com/rrasho"
+  },
+  "from": {
+   "de": "New York City, USA",
+   "en": "New York City, USA"
+  },
+  "bio": {
+   "de": "Rasho ist ein DJ aus New York City und Resident bei Resolute. Mixe von ihm erschienen u. a. in der Dimensions Mix Series, bei Meld und in der Reihe Spaced auf Rinse FM.",
+   "en": "Rasho is a New York City DJ and resident at Resolute. His mixes have appeared in the Dimensions mix series, at Meld and in the Spaced series on Rinse FM."
+  },
+  "sets": [
+   {
+    "t": "DIM328 – Rasho (Dimensions Mix Series)",
+    "u": "https://soundcloud.com/dimensionsfestival/dim328-rasho"
+   },
+   {
+    "t": "MELD MIX 04 – Rasho (Resolute)",
+    "u": "https://soundcloud.com/meldberlin/meld-mix-04-rasho-resolute"
+   },
+   {
+    "t": "Spaced 17 – Rasho",
+    "u": "https://soundcloud.com/spacedlondon/spaced17rasho"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/rasho",
+   "https://ra.co/dj/rasho/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Bennet": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Mugli Project": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Subb-an": {
+  "img": "https://static.ra.co/images/profiles/square/subb-an.jpg?dateUpdated=1558077461000",
+  "links": {
+   "ra": "https://ra.co/dj/subb-an",
+   "sc": "https://soundcloud.com/subb-an"
+  },
+  "from": {
+   "de": "Birmingham, Großbritannien",
+   "en": "Birmingham, UK"
+  },
+  "genres": [
+   "House",
+   "Tech House"
+  ],
+  "labels": [
+   "One Records",
+   "Crosstown Rebels",
+   "Spectral Sound",
+   "20/20 Vision",
+   "BPitch",
+   "Leftroom"
+  ],
+  "bio": {
+   "de": "Subb-an ist ein Elektronik-Künstler aus Birmingham, dessen Sets tiefe, groovige Basslines mit hypnotischen Rhythmen verbinden. Er veröffentlichte u. a. auf One Records, Crosstown Rebels und Spectral Sound und remixte Lana Del Rey, Jamie Woon und Maya Jane Coles. Er spielte u. a. im DC10, im Fabric, in Glastonbury und beim Houghton Festival.",
+   "en": "Subb-an is an electronic artist from Birmingham whose sets blend deep, groovy basslines with hypnotic rhythms. He has released on One Records, Crosstown Rebels and Spectral Sound, among others, and remixed Lana Del Rey, Jamie Woon and Maya Jane Coles. He has played DC10, Fabric, Glastonbury and Houghton."
+  },
+  "sets": [
+   {
+    "t": "Subb-an – Essential Mix (BBC Radio 1)",
+    "u": "https://soundcloud.com/subb-an/essential-mix"
+   },
+   {
+    "t": "Gottwood Mix #50 – Subb-an",
+    "u": "https://soundcloud.com/gottwax/gottwood-mix-50-subb-an-1"
+   },
+   {
+    "t": "Adam Shelton & Subb-an – fabric x One Records Promo Mix",
+    "u": "https://soundcloud.com/fabric/adam-shelton-subb-an-fabric-x-one-records-promo-mix"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/subb-an",
+   "https://ra.co/dj/subb-an/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Chet Rubbs": {
+  "img": "https://static.ra.co/images/profiles/square/chetrubbs.jpg?dateUpdated=1742326701047",
+  "links": {
+   "ra": "https://ra.co/dj/chetrubbs",
+   "ig": "https://www.instagram.com/schvvbert",
+   "sc": "https://soundcloud.com/XK3V2srFAGczhjYH9"
+  },
+  "from": {
+   "de": "München, Deutschland",
+   "en": "Munich, Germany"
+  },
+  "bio": {
+   "de": "Chet Rubbs ist ein DJ aus München, der vor allem im Goldenen Reiter, im Legal und in der Roten Sonne auflegt. Er ist regelmäßig bei der Münchner Reihe Hotstuff zu hören.",
+   "en": "Chet Rubbs is a Munich DJ who mostly plays at Goldener Reiter, Legal and Rote Sonne. He appears regularly at the Munich party series Hotstuff."
+  },
+  "src": [
+   "https://de.ra.co/dj/chetrubbs"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "heronymus": {
+  "img": "https://static.ra.co/images/profiles/square/heronymus.jpg?dateUpdated=1745268612490",
+  "alias": [
+   "schrommi"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/heronymus",
+   "ig": "https://www.instagram.com/schr0mmi",
+   "sc": "https://soundcloud.com/heronymus",
+   "bc": "https://sonicvibrations.bandcamp.com"
+  },
+  "from": {
+   "de": "München, Deutschland",
+   "en": "Munich, Germany"
+  },
+  "genres": [
+   "Balearic",
+   "NDW",
+   "Cosmic"
+  ],
+  "bio": {
+   "de": "heronymus (auch schrommi) ist ein DJ aus München und Teil der Sonic Vibrations Crew. Er spielt Verschiedenes von Balearic über NDW bis zu kosmischen Sounds, meist im Goldenen Reiter und im Holy Home.",
+   "en": "heronymus (also schrommi) is a Munich DJ and part of the Sonic Vibrations crew. He plays everything from Balearic to NDW and cosmic sounds, mostly at Goldener Reiter and Holy Home."
+  },
+  "sets": [
+   {
+    "t": "Heronymus @ Goldener Reiter (14.10.23)",
+    "u": "https://soundcloud.com/69heronymus/heronymus-goldener-reiter"
+   },
+   {
+    "t": "Sonic Vibrations – DJ Heronymus (Radio Rudina)",
+    "u": "https://soundcloud.com/radiorudina/dj-heronymuss"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://de.ra.co/dj/heronymus"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Vel": {
+  "img": "https://static.ra.co/images/profiles/square/vel-ma.jpg?dateUpdated=1786014155220",
+  "links": {
+   "ra": "https://ra.co/dj/vel-ma"
+  },
+  "from": {
+   "de": "Marokko, lebt in Paris",
+   "en": "Morocco, based in Paris"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Unusual Records",
+   "Mama Told Ya",
+   "PURR"
+  ],
+  "bio": {
+   "de": "Vel ist eine marokkanische, in Paris lebende DJ und Produzentin elektronischer Musik. Ihr Techno ist stark perkussiv geprägt; Releases erschienen auf Unusual Records, Mama Told Ya und PURR.",
+   "en": "Vel is a Moroccan, Paris-based DJ and producer of electronic music. Her techno is strongly percussion-driven, with releases on Unusual Records, Mama Told Ya and PURR."
+  },
+  "src": [
+   "https://ra.co/dj/vel-ma/events",
+   "https://ra.co/events/2250121"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "HNAS": {
+  "img": "https://static.ra.co/images/profiles/square/hnas.jpg?dateUpdated=1674818599000",
+  "links": {
+   "ra": "https://ra.co/dj/hnas",
+   "ig": "https://www.instagram.com/hnasofficial",
+   "sc": "https://soundcloud.com/hnasofficial",
+   "bc": "https://hnasofficial.bandcamp.com"
+  },
+  "from": {
+   "de": "Herzogenaurach, Deutschland",
+   "en": "Herzogenaurach, Germany"
+  },
+  "genres": [
+   "Techno",
+   "Trance"
+  ],
+  "labels": [
+   "H33 Records"
+  ],
+  "bio": {
+   "de": "HNAS ist ein DJ aus Herzogenaurach und fester Teil der Nürnberger Techno-Szene. Er spielt treibenden Techno mit Trance-Elementen und einer Prise Disco und Oldies; sein Hip-Hop-Hintergrund macht seine Sets vielseitig. Seit 2021 gehört er zu den Haus33 Residents, Releases erschienen auf H33 Records.",
+   "en": "HNAS is a DJ from Herzogenaurach and part of the Nuremberg techno scene. He plays hard-driving techno with trance elements and a touch of disco and oldies; his hip-hop background makes his sets versatile. He has been one of the Haus33 residents since 2021, with releases on H33 Records."
+  },
+  "src": [
+   "https://de.ra.co/dj/hnas",
+   "https://ra.co/dj/hnas/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Perra Inmunda": {
+  "img": "https://static.ra.co/images/profiles/square/perrainmunda.jpg?dateUpdated=1665050167000",
+  "links": {
+   "ra": "https://ra.co/dj/perrainmunda"
+  },
+  "from": {
+   "de": "Kolumbien, lebt in Berlin",
+   "en": "Colombia, based in Berlin"
+  },
+  "bio": {
+   "de": "Perra Inmunda ist eine in Berlin lebende kolumbianische Musikerin, DJ und Performerin. Auftritte u. a. im OXI, im ÆDEN und im Münchner BLITZ sowie bei der Reihe Live From Earth.",
+   "en": "Perra Inmunda is a Berlin-based Colombian musician, DJ and performer. Appearances include OXI, ÆDEN, Munich's BLITZ and the Live From Earth series."
+  },
+  "sets": [
+   {
+    "t": "Perra Inmunda @ Kiosk Radio 01.05.2025",
+    "u": "https://soundcloud.com/kioskradio/perra-inmunda-kiosk-radio-01"
+   },
+   {
+    "t": "LIVE FROM EARTH Mix w/ Perra Inmunda (42)",
+    "u": "https://soundcloud.com/livefromearth/lfe-klub-mix-w-perra-immunda-42"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://de.ra.co/dj/perrainmunda"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Krystal Klear": {
+  "img": "https://static.ra.co/images/profiles/square/krystalklear.jpg?dateUpdated=1760629579100",
+  "links": {
+   "ra": "https://ra.co/dj/krystalklear",
+   "sc": "https://soundcloud.com/krystalklear",
+   "ig": "https://www.instagram.com/krystalkleezy",
+   "bc": "https://coldtonic.bandcamp.com"
+  },
+  "bio": {
+   "de": "Krystal Klear (Dec Lennon) ist ein DJ und Produzent aus Dublin, der in London lebt. Er betreibt das Label Cold Tonic und veröffentlichte u. a. auf Running Back, UTTU, Madtech, Eglo und All City; sein Durchbruch war „Neutron Dance“. Residencies hatte er u. a. bei der Warehouse Project in Manchester und im Robert Johnson in Frankfurt.",
+   "en": "Krystal Klear (Dec Lennon) is a DJ and producer from Dublin, based in London. He runs the Cold Tonic label and has released on Running Back, UTTU, Madtech, Eglo and All City, with \"Neutron Dance\" as his breakout track. He has held residencies at Manchester's Warehouse Project and Frankfurt's Robert Johnson, among others."
+  },
+  "from": {
+   "de": "Dublin, Irland (lebt in London)",
+   "en": "Dublin, Ireland (based in London)"
+  },
+  "labels": [
+   "Cold Tonic",
+   "Running Back",
+   "UTTU",
+   "Madtech",
+   "Eglo",
+   "All City"
+  ],
+  "sets": [
+   {
+    "t": "Krystal Klear – Benji B BBC Radio 1 Mix",
+    "u": "https://soundcloud.com/krystalklear/benji-b-bbc-radio-1-mix"
+   },
+   {
+    "t": "Krystal Klear – fabric Promo Mix",
+    "u": "https://soundcloud.com/fabric/krystal-klear-fabric-promo-mix"
+   },
+   {
+    "t": "Krystal Klear – 45 min Boiler Room Mix",
+    "u": "https://soundcloud.com/platform/krystal-klear-45-min-boiler"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/krystalklear",
+   "https://ra.co/dj/krystalklear/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Youngsta": {
+  "img": "https://static.ra.co/images/profiles/square/youngsta.jpg?dateUpdated=1466094294000",
+  "links": {
+   "ra": "https://ra.co/dj/youngsta",
+   "sc": "https://soundcloud.com/youngstauk"
+  },
+  "bio": {
+   "de": "Youngsta ist ein britischer Dubstep-DJ der ersten Stunde und Resident der Londoner Reihe FWD>>. Er brachte viele Hymnen des Genres erstmals in die Clubs und veröffentlicht bzw. ist verbunden mit Labels wie Tempa und Artikal Music UK. 2015 mischte er die Compilation Rinse:14.",
+   "en": "Youngsta is a UK dubstep DJ from the genre's earliest days and a resident of London's FWD>> night. He introduced many of the genre's anthems to the dancefloor and is connected with labels such as Tempa and Artikal Music UK. He mixed the Rinse:14 compilation."
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "genres": [
+   "Dubstep"
+  ],
+  "labels": [
+   "Tempa",
+   "Artikal Music UK"
+  ],
+  "sets": [
+   {
+    "t": "Youngsta – Outlook Mix Series 2019",
+    "u": "https://soundcloud.com/outlookfestival/youngsta-outlook-mix-series-2019"
+   },
+   {
+    "t": "Road To VSC 2018 Mix Series #012: Youngsta",
+    "u": "https://soundcloud.com/youngstauk/road-to-vsc-2018-mix-series-012-youngsta"
+   },
+   {
+    "t": "Youngsta – FABRICLIVE Promo Mix",
+    "u": "https://soundcloud.com/fabric/youngsta-fabriclive-promo-mix"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/youngsta",
+   "https://ra.co/events/2253591",
+   "https://ra.co/news/13862"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Martial Canterel": {
+  "img": "https://static.ra.co/images/profiles/square/martialcanterel.jpg?dateUpdated=1505205545000",
+  "links": {
+   "ra": "https://ra.co/dj/martialcanterel",
+   "bc": "https://martialcanterel.bandcamp.com",
+   "sc": "https://soundcloud.com/martialcanterel"
+  },
+  "bio": {
+   "de": "Martial Canterel ist das Solo-Projekt von Sean McBride aus Brooklyn, New York, der dort seit 2002 auftritt. Er steht für kühlen, melancholischen Minimal Synth mit analogen Synthesizern und ist auch Teil des Duos Xeno & Oaklander. Seine Alben erschienen u. a. auf Wierd Records, Dais Records und Onderstroom.",
+   "en": "Martial Canterel is the solo project of Sean McBride from Brooklyn, New York, who has performed there since 2002. He is known for cold, melancholic minimal synth on analogue synthesizers and is also one half of the duo Xeno & Oaklander. His albums have appeared on Wierd Records, Dais Records and Onderstroom, among others."
+  },
+  "from": {
+   "de": "Brooklyn, New York, USA",
+   "en": "Brooklyn, New York, USA"
+  },
+  "genres": [
+   "Minimal Synth",
+   "Coldwave"
+  ],
+  "labels": [
+   "Dais Records",
+   "Wierd Records",
+   "Onderstroom"
+  ],
+  "sets": [
+   {
+    "t": "Martial Canterel – Live @ Moog BCN, Clásicos Del Weekend (2015)",
+    "u": "https://soundcloud.com/moog-club-bcn/martial-canterel-live-moog"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/martialcanterel",
+   "https://forcedexposure.com/Artists/MARTIAL.CANTEREL.html"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Estella Boersma": {
+  "img": "https://static.ra.co/images/profiles/square/estellaboersma.jpg?dateUpdated=1775731127300",
+  "links": {
+   "ra": "https://ra.co/dj/estellaboersma",
+   "sc": "https://soundcloud.com/estellaboersma",
+   "bc": "https://estellaboersma.bandcamp.com"
+  },
+  "bio": {
+   "de": "Estella Boersma ist eine niederländische Techno-DJ und Produzentin mit Sitz in Berlin. Sie veröffentlichte auf Unknown To The Unknown bzw. dessen Reihe Dance Trax und betreibt seit 2024 ihr eigenes Label EB-REX für energiegeladenen Club-Techno. Gespielt hat sie u. a. bei Awakenings, Time Warp, Sziget und im fabric London.",
+   "en": "Estella Boersma is a Dutch techno DJ and producer based in Berlin. She has released on Unknown To The Unknown and its Dance Trax series and has run her own label EB-REX for high-energy club techno since 2024. She has played Awakenings, Time Warp, Sziget and fabric London, among others."
+  },
+  "from": {
+   "de": "Niederlande (lebt in Berlin)",
+   "en": "Netherlands (based in Berlin)"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Unknown To The Unknown",
+   "Lobster Theremin",
+   "EB-REX"
+  ],
+  "sets": [
+   {
+    "t": "CLR Podcast 423 | Estella Boersma",
+    "u": "https://soundcloud.com/chris-liebing/clr-podcast-423-i-estella-boersma"
+   },
+   {
+    "t": "BCCO Mix Series 141: Estella Boersma",
+    "u": "https://soundcloud.com/bcco/estella-boersma"
+   },
+   {
+    "t": "SPND20 Mixtape by Estella Boersma",
+    "u": "https://soundcloud.com/spandau20/spnd20-mixtape-by-estella-boersma1"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/estellaboersma",
+   "https://ra.co/dj/estellaboersma/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Shmidoo": {
+  "img": "https://static.ra.co/images/profiles/square/shmidoo.jpg?dateUpdated=1736386006000",
+  "links": {
+   "ra": "https://ra.co/dj/shmidoo",
+   "sc": "https://soundcloud.com/shmidoo"
+  },
+  "bio": {
+   "de": "Shmidoo ist ein Drum-&-Bass-DJ und Produzent aus Tschechien. Releases erschienen u. a. auf PRSPCT Recordings, Drumatch Records und Techsys Recordings.",
+   "en": "Shmidoo is a drum & bass DJ and producer from the Czech Republic. His releases have come out on PRSPCT Recordings, Drumatch Records and Techsys Recordings, among others."
+  },
+  "from": {
+   "de": "Tschechien",
+   "en": "Czech Republic"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "PRSPCT Recordings",
+   "Drumatch Records",
+   "Techsys Recordings"
+  ],
+  "sets": [
+   {
+    "t": "Shmidoo – Special Liquid Mix, Darkshire In The Woods 2022",
+    "u": "https://soundcloud.com/shmidoo/special-liquid-mix-from-darkshire-in-the-woods-2022"
+   },
+   {
+    "t": "Shmidoo b2b Dekel @ Drumatch Machines 47",
+    "u": "https://soundcloud.com/patrik-skuhra-1/shmidoo-b2b-dekel-drumatch-machines-47"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/shmidoo",
+   "https://de.ra.co/events/2259277"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "WZ": {
+  "img": "https://goout.net/i/133/1330490-383.jpg",
+  "links": {
+   "sc": "https://soundcloud.com/wzshakhta",
+   "bc": "https://wzshakhta.bandcamp.com",
+   "ig": "https://www.instagram.com/wz_illa",
+   "sp": "https://open.spotify.com/artist/39o1PEHoC5IYfzgYG1Vjx0"
+  },
+  "bio": {
+   "de": "WZ ist ein Dubstep-DJ und Produzent aus Havířov in Tschechien, der in Ostrava lebt und für tiefen, sub-lastigen Dubstep steht. Er ist Mitgründer der Labels Shakhta Records und Harmless Youth Recs und veröffentlichte auf britischen Labels wie FatKidOnFire, Locus Sound und Artikal Music. 2023 erschien sein hip-hop-geprägtes Debütalbum „Voices“ mit britischen MCs.",
+   "en": "WZ is a dubstep DJ and producer from Havířov, Czech Republic, based in Ostrava, known for deep, sub-heavy dubstep. He co-founded the labels Shakhta Records and Harmless Youth Recs and has released on UK labels such as FatKidOnFire, Locus Sound and Artikal Music. His hip-hop-influenced debut album \"Voices\" (2023) features various UK MCs."
+  },
+  "from": {
+   "de": "Havířov/Ostrava, Tschechien",
+   "en": "Havířov/Ostrava, Czech Republic"
+  },
+  "genres": [
+   "Dubstep"
+  ],
+  "labels": [
+   "Shakhta Records",
+   "Harmless Youth Recs",
+   "FatKidOnFire",
+   "Locus Sound",
+   "Artikal Music"
+  ],
+  "src": [
+   "https://goout.net/en/wz/pzhxgqf/",
+   "https://ra.co/events/2253591"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Hellnah": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "DICE": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Eliza": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "EYE": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "SaltySis": {
+  "img": "https://static.ra.co/images/profiles/square/saltysis.jpg?dateUpdated=1778699125600",
+  "links": {
+   "ra": "https://ra.co/dj/saltysis",
+   "sc": "https://soundcloud.com/saltysis",
+   "bc": "https://saltysis-music.bandcamp.com",
+   "ig": "https://www.instagram.com/saltysis.music"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Hardtechno"
+  ],
+  "labels": [
+   "fhainest"
+  ],
+  "bio": {
+   "de": "SaltySis ist eine DJ und Produzentin aus Deutschland, die ihren Sound als „Hardtechno dipped in euphoria“ beschreibt. Sie ist mit dem Label fhainest verbunden und hat Tracks u. a. auf Whalien und H33 Records veröffentlicht.",
+   "en": "SaltySis is a DJ and producer from Germany who describes her sound as “hardtechno dipped in euphoria”. She is connected to the fhainest label and has released tracks on Whalien and H33 Records, among others."
+  },
+  "sets": [
+   {
+    "t": "fhainest Sportlight #54 – SaltySis",
+    "u": "https://soundcloud.com/fhainest/fhainest-sportlight-54-saltysis"
+   },
+   {
+    "t": "SaltySis – GOAT BOX Nr. 18",
+    "u": "https://soundcloud.com/contact-714385853/saltysis-goat-box-nr-18"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/saltysis"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Vaent": {
+  "img": "https://static.ra.co/images/profiles/square/vaent.jpg?dateUpdated=1766093678240",
+  "alias": [
+   "VAENT",
+   "Nicky Vaent"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/vaent",
+   "sc": "https://soundcloud.com/vaent",
+   "ig": "https://www.instagram.com/vaent_music"
+  },
+  "from": {
+   "de": "Köln, Deutschland",
+   "en": "Cologne, Germany"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Cloudwalk"
+  ],
+  "bio": {
+   "de": "VAENT ist ein DJ und Produzent aus Köln, der pumpenden Techno um 160 BPM spielt. Seine Debüt-EP „Voltage“ erschien auf Cloudwalk; weitere Releases kamen u. a. auf Techno Germany und H33 Records.",
+   "en": "VAENT is a Cologne-based DJ and producer playing pumping techno around 160 BPM. His debut EP “Voltage” came out on Cloudwalk, with further releases on Techno Germany and H33 Records, among others."
+  },
+  "src": [
+   "https://ra.co/dj/vaent",
+   "https://ra.co/dj/vaent/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Cloud 909": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "CI_RED": {
+  "links": {
+   "sc": "https://soundcloud.com/celi-trummer"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "CI_RED ist eine Techno-DJ aus dem österreichischen Umfeld, die u. a. bei der Reihe Impulse in der Grelle Forelle in Wien und bei Herzfrequenz-Veranstaltungen (Postgarage Graz) gespielt hat.",
+   "en": "CI_RED is a techno DJ from the Austrian scene who has played the Impulse series at Grelle Forelle in Vienna and Herzfrequenz events (Postgarage Graz), among others."
+  },
+  "sets": [
+   {
+    "t": "CI_RED – Impulse Vienna 07.02. (Recording)",
+    "u": "https://soundcloud.com/celi-trummer/ci_red_070226-mp3"
+   },
+   {
+    "t": "CI RED – NZNZ5 @ Postgarage Graz (28.03.2025)",
+    "u": "https://soundcloud.com/herzfrequenz_techno/ci-red-nznz5"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/celi-trummer"
+  ],
+  "noImg": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "JO Trauner": {
+  "img": "https://static.ra.co/images/profiles/square/jotrauner.jpg?dateUpdated=1742952010000",
+  "links": {
+   "ra": "https://ra.co/dj/jotrauner",
+   "sc": "https://soundcloud.com/jotrauner"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "JO Trauner ist ein DJ aus Österreich, der vor allem in Wien auflegt.",
+   "en": "JO Trauner is a DJ from Austria who mainly plays in Vienna."
+  },
+  "src": [
+   "https://de.ra.co/dj/jotrauner"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Matthew": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Majsko": {
+  "img": "https://static.ra.co/images/profiles/square/majsko.jpg?dateUpdated=1736163261000",
+  "links": {
+   "ra": "https://ra.co/dj/majsko"
+  },
+  "from": {
+   "de": "Bratislava, Slowakei",
+   "en": "Bratislava, Slovakia"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Majsko ist ein Techno-DJ aus Bratislava und das jüngste Mitglied der Crew Techno Gang. Er spielt vor allem in Bratislava, u. a. im Radost Music Club.",
+   "en": "Majsko is a techno DJ from Bratislava and the newest member of the Techno Gang crew. He mostly plays in Bratislava, including Radost Music Club."
+  },
+  "src": [
+   "https://ra.co/dj/majsko"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Audio Werner": {
+  "img": "https://static.ra.co/images/profiles/square/audiowerner.jpg?dateUpdated=1573048360000",
+  "links": {
+   "ra": "https://ra.co/dj/audiowerner",
+   "sc": "https://soundcloud.com/audiowerner",
+   "ig": "https://www.instagram.com/audio__werner",
+   "web": "https://www.audiowerner.com"
+  },
+  "from": {
+   "de": "Köln, Deutschland",
+   "en": "Cologne, Germany"
+  },
+  "labels": [
+   "Hartchef Discos",
+   "Perlon",
+   "Minibar",
+   "Sushitech",
+   "Circus Company",
+   "Hello?Repeat",
+   "Galdoors",
+   "Cabinet Records"
+  ],
+  "bio": {
+   "de": "Audio Werner ist ein Produzent und DJ aus Köln, der seit den 90ern auflegt und Vinyl sammelt. Er veröffentlichte u. a. auf Hartchef Discos („Still Jackin'“, „Trust“), Perlon („Onandon“, „Couched“), Minibar und Circus Company.",
+   "en": "Audio Werner is a Cologne producer and DJ who has been DJing and collecting vinyl since the 90s. He has released on Hartchef Discos (“Still Jackin'”, “Trust”), Perlon (“Onandon”, “Couched”), Minibar and Circus Company, among others."
+  },
+  "sets": [
+   {
+    "t": "GH013 ::: Audio Werner (Club Guesthouse)",
+    "u": "https://soundcloud.com/clubguesthousero/gh013-audio-werner"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/audiowerner",
+   "https://ra.co/dj/audiowerner/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Ben UFO": {
+  "img": "https://static.ra.co/images/profiles/square/benufo.jpg?dateUpdated=1507716793000",
+  "links": {
+   "ra": "https://ra.co/dj/benufo",
+   "sc": "https://soundcloud.com/benufo",
+   "ig": "https://www.instagram.com/ben___ufo"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "labels": [
+   "Hessle Audio"
+  ],
+  "bio": {
+   "de": "Ben UFO ist ein britischer DJ, der 2007 gemeinsam mit Pearson Sound und Pangaea das Label Hessle Audio gründete. Er moderiert eine Sendung auf Rinse FM und gilt als einer der vielseitigsten DJs der britischen Clubszene.",
+   "en": "Ben UFO is a British DJ who co-founded the Hessle Audio label with Pearson Sound and Pangaea in 2007. He hosts a show on Rinse FM and is regarded as one of the most versatile DJs of the UK club scene."
+  },
+  "sets": [
+   {
+    "t": "Ben UFO – Radio 1 Guest Mix for Ahadadream (Jan 2026)",
+    "u": "https://soundcloud.com/benufo/radio-1-guest-mix-for-ahadadream-jan-2026"
+   },
+   {
+    "t": "Ben UFO – Essential Mix 25.09.21",
+    "u": "https://soundcloud.com/benufo/ben-ufo-essential-mix-250921"
+   },
+   {
+    "t": "Solid Steel 01.03.19 – Ben UFO",
+    "u": "https://soundcloud.com/ninja-tune/19-03-01-01-ben-ufo"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/benufo"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Atzendent": {
+  "img": "https://static.ra.co/images/profiles/square/atzendent.jpg?dateUpdated=1752574102000",
+  "links": {
+   "ra": "https://ra.co/dj/atzendent",
+   "sc": "https://soundcloud.com/atzendent"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Trance"
+  ],
+  "labels": [
+   "Galactic Harmony Records",
+   "Milli Records"
+  ],
+  "bio": {
+   "de": "Atzendent ist ein DJ und Produzent aus Deutschland, der vor allem in Köln auflegt. Seine Sets verbinden laut Eigenbeschreibung „Melodic pressure“ mit „bouncy energy“; er veröffentlicht Edits und Tracks u. a. auf Galactic Harmony Records und Milli Records.",
+   "en": "Atzendent is a DJ and producer from Germany who mostly plays in Cologne. In his own words his sets combine “melodic pressure” with “bouncy energy”; he releases edits and tracks on Galactic Harmony Records and Milli Records, among others."
+  },
+  "sets": [
+   {
+    "t": "13.07 HAFEN7 – Atzendent",
+    "u": "https://soundcloud.com/atzendent/hafen7-set-atzendent"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/atzendent",
+   "https://ra.co/news/83353"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "DJ Rundfunk": {
+  "links": {
+   "sc": "https://soundcloud.com/djrundfunk"
+  },
+  "genres": [
+   "Trance"
+  ],
+  "bio": {
+   "de": "DJ Rundfunk ist ein DJ und Produzent aus dem Kölner Umfeld, der u. a. Mixe für Katana und WyldHearts (Schrotty) gespielt hat. Er veröffentlicht Edits und Tracks, etwa auf UNDRGRNDSPORTS und Ricochet.",
+   "en": "DJ Rundfunk is a DJ and producer from the Cologne scene who has recorded mixes for Katana and WyldHearts (Schrotty). He releases edits and tracks on UNDRGRNDSPORTS and Ricochet, among others."
+  },
+  "sets": [
+   {
+    "t": "KATANA PODCAST #023 – DJ Rundfunk",
+    "u": "https://soundcloud.com/katanacologne/14d54f86-5a2d-415b-a7de-f4c856b4bc6c"
+   },
+   {
+    "t": "WyldSesh #3 – DJ Rundfunk @ WyldHearts, Schrotty",
+    "u": "https://soundcloud.com/wyldhearts/wyldsesh-3-dj-rundfunk-at-wyldhearts-schrotty"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/djrundfunk",
+   "https://ra.co/news/83353"
+  ],
+  "noImg": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "Rich NxT": {
+  "img": "https://static.ra.co/images/profiles/square/richnxt.jpg?dateUpdated=1768821448000",
+  "links": {
+   "ra": "https://ra.co/dj/richnxt",
+   "sc": "https://soundcloud.com/richnxt",
+   "bc": "https://richnxt.bandcamp.com",
+   "ig": "https://www.instagram.com/rich_nxt"
+  },
+  "alias": [
+   "Rich NXT"
+  ],
+  "from": {
+   "de": "London, Vereinigtes Königreich",
+   "en": "London, United Kingdom"
+  },
+  "labels": [
+   "Hot Creations",
+   "Moan Recordings",
+   "Snatch! Records",
+   "Fuse London",
+   "Deeperfect Records"
+  ],
+  "bio": {
+   "de": "Rich NxT ist ein Underground-House-Artist aus London. Sein Sound steht für Groove und Swing; Releases erschienen u. a. auf Hot Creations, Moan Recordings, Snatch! Records und Fuse London.",
+   "en": "Rich NxT is an underground house artist from London. His sound is built on groove and swing, with releases on labels such as Hot Creations, Moan Recordings, Snatch! Records and Fuse London."
+  },
+  "src": [
+   "https://ra.co/dj/richnxt"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Yant": {
+  "img": "https://static.ra.co/images/profiles/square/yant.jpg?dateUpdated=1756207208780",
+  "links": {
+   "ra": "https://ra.co/dj/yant",
+   "sc": "https://soundcloud.com/yantmusicuk",
+   "bc": "https://yantmusicuk.bandcamp.com",
+   "ig": "https://www.instagram.com/yant_dj"
+  },
+  "from": {
+   "de": "Manchester, Vereinigtes Königreich",
+   "en": "Manchester, United Kingdom"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Token",
+   "SK_eleven",
+   "Blackaxon",
+   "Hardgroove"
+  ],
+  "bio": {
+   "de": "Yant ist ein Techno-DJ und Produzent aus Manchester, bekannt für dunkle, groovige und kraftvolle Sets mit hypnotischen Sounds. Releases erschienen u. a. auf Token, SK_Eleven und Blackaxon; gespielt hat er etwa im Berghain, Bassiani und K-41.",
+   "en": "Yant is a techno DJ and producer from Manchester, known for dark, groovy and powerful sets with hypnotic sounds. He has released on Token, SK_Eleven and Blackaxon and played clubs such as Berghain, Bassiani and K-41."
+  },
+  "sets": [
+   {
+    "t": "YANT – HATE Podcast 292",
+    "u": "https://soundcloud.com/hate_music/yant-hate-podcast-292"
+   },
+   {
+    "t": "KALT Podcast #3.13 // YANT",
+    "u": "https://soundcloud.com/clubkalt/kalt-podcast-313-yant"
+   },
+   {
+    "t": "Yant [2hr Live mix] at The DBA",
+    "u": "https://soundcloud.com/meat-free-djs/yant-2hr-live-mix-at-the-dba-270123"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/yant",
+   "https://ra.co/dj/yant/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Geistfrei": {
+  "img": "https://static.ra.co/images/profiles/square/geistfrei.jpg?dateUpdated=1792718421300",
+  "links": {
+   "ra": "https://ra.co/dj/geistfrei",
+   "sc": "https://soundcloud.com/geistfrei_raum"
+  },
+  "alias": [
+   "GEISTFREI"
+  ],
+  "from": {
+   "de": "München, Deutschland",
+   "en": "Munich, Germany"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "GEISTFREI stammt aus einem selbstorganisierten Rave-Netzwerk in München – Partys in Wäldern, leerstehenden Gebäuden und unter der Stadt. Der Sound verbindet treibende Basslines, emotionale Melodien und hypnotische Rhythmen.",
+   "en": "GEISTFREI emerged from a self-organised rave network in Munich, with parties in forests, empty buildings and beneath the city. The sound combines driving basslines, emotional melodies and hypnotic rhythms."
+  },
+  "src": [
+   "https://ra.co/dj/geistfrei/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Nat Wendell": {
+  "img": "https://static.ra.co/images/profiles/square/natwendell.jpg?dateUpdated=1748606407450",
+  "links": {
+   "ra": "https://ra.co/dj/natwendell",
+   "sc": "https://soundcloud.com/NatWendell",
+   "bc": "https://natwendell.bandcamp.com",
+   "ig": "https://www.instagram.com/natwendelldj",
+   "web": "https://natwendell.com"
+  },
+  "from": {
+   "de": "London, Vereinigtes Königreich (lebt in Berlin)",
+   "en": "London, United Kingdom (based in Berlin)"
+  },
+  "genres": [
+   "House"
+  ],
+  "labels": [
+   "Depth of My Soul",
+   "Depths"
+  ],
+  "bio": {
+   "de": "Nat Wendell ist ein House-DJ und Produzent aus dem Nordwesten Londons, der heute in Berlin lebt. Seit 1998 legt er mit unverkennbarem Swing auf und betreibt die Labels Depth of My Soul und Depths.",
+   "en": "Nat Wendell is a house DJ and producer from North-West London, now based in Berlin. He has been DJing with his unmistakable sense of swing since 1998 and runs the labels Depth of My Soul and Depths."
+  },
+  "sets": [
+   {
+    "t": "In Depth – Nat Wendell w/ Mike Terra (02.10.2023)",
+    "u": "https://soundcloud.com/natwendell/in-depth-wmike-terra"
+   },
+   {
+    "t": "Nat Wendell – A 5 Mag Mix 57",
+    "u": "https://soundcloud.com/5magazine/nat-wendell-5-mag-mix-57"
+   },
+   {
+    "t": "Nat Wendell – Live at Gimme Groove",
+    "u": "https://soundcloud.com/natwendell/liveat-gimmegroove-1stmarch"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/natwendell",
+   "https://ra.co/events/2234493"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "CJ Bambi": {
+  "links": {
+   "sc": "https://soundcloud.com/bambi_vienna",
+   "ig": "https://www.instagram.com/cj__bambi"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "House",
+   "Disco"
+  ],
+  "bio": {
+   "de": "CJ Bambi ist fester Teil der Wiener Service-Crew und bekannt für ihre eigenwillige Interpretation von House und Disco.",
+   "en": "CJ Bambi is a staple of Vienna's Service crew, known for her wicked take on house and disco."
+  },
+  "src": [
+   "https://ra.co/events/2234493",
+   "https://soundcloud.com/bambi_vienna"
+  ],
+  "noImg": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "Philipp Gauf": {
+  "img": "https://static.ra.co/images/profiles/square/philippgauf.jpg?dateUpdated=1707913713000",
+  "links": {
+   "ra": "https://ra.co/dj/philippgauf"
+  },
+  "from": {
+   "de": "Frankfurt, Deutschland (lebt in Lissabon)",
+   "en": "Frankfurt, Germany (based in Lisbon)"
+  },
+  "genres": [
+   "Techno",
+   "Hard Groove",
+   "Trance"
+  ],
+  "bio": {
+   "de": "Philipp Gauf ist ein DJ aus Frankfurt, der in Lissabon lebt. Er begann 2018 mit French House und spielt heute treibenden Industrial-Detroit-Techno, Hardgroove und Trance; in Lissabon ist er Kernmitglied und Resident des Kollektivs Elektra.",
+   "en": "Philipp Gauf is a DJ from Frankfurt based in Lisbon. Starting with French house in 2018, he now plays driving industrial Detroit techno, hard groove and trance, and is a core team member and resident of the Lisbon collective Elektra."
+  },
+  "src": [
+   "https://ra.co/dj/philippgauf/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Iudex": {
+  "img": "https://static.ra.co/images/profiles/square/iudex.jpg?dateUpdated=1708944411000",
+  "links": {
+   "ra": "https://ra.co/dj/iudex",
+   "sc": "https://soundcloud.com/iudexiudex",
+   "ig": "https://www.instagram.com/iudex.elektra"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "Iudex ist ein DJ aus Deutschland, der vor allem in Frankfurt und Lissabon auftritt. In Lissabon spielte er mehrfach bei Events des Kollektivs Elektra.",
+   "en": "Iudex is a DJ from Germany who mainly plays in Frankfurt and Lisbon, where he has appeared repeatedly at events by the Elektra collective."
+  },
+  "src": [
+   "https://de.ra.co/dj/iudex"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "schlennert": {
+  "img": "https://static.ra.co/images/profiles/square/schlennert.jpg?dateUpdated=1706553467000",
+  "links": {
+   "ra": "https://ra.co/dj/schlennert"
+  },
+  "from": {
+   "de": "Deutschland (lebt in Portugal)",
+   "en": "Germany (based in Portugal)"
+  },
+  "bio": {
+   "de": "schlennert ist ein in Portugal lebender DJ aus Deutschland. In Lissabon spielte er bei Events, die vom Kollektiv Elektra kuratiert wurden.",
+   "en": "schlennert is a German-born DJ based in Portugal who has played at events curated by the Elektra collective in Lisbon."
+  },
+  "src": [
+   "https://de.ra.co/dj/schlennert"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Benwal": {
+  "img": "https://static.ra.co/images/profiles/square/benwal.jpg?dateUpdated=1769787640010",
+  "links": {
+   "ra": "https://ra.co/dj/benwal",
+   "sc": "https://soundcloud.com/benwalmusic",
+   "bc": "https://benwal.bandcamp.com",
+   "ig": "https://www.instagram.com/benwal.music"
+  },
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "labels": [
+   "Club Heart Broken",
+   "Speedmaster Records"
+  ],
+  "bio": {
+   "de": "Benwal ist ein DJ und Produzent aus den Niederlanden, der von Underground-Raves auf große Bühnen kam. Releases erschienen u. a. auf Club Heart Broken und Speedmaster Records.",
+   "en": "Benwal is a DJ and producer from the Netherlands who went from underground raves to packed stages, with releases on labels such as Club Heart Broken and Speedmaster Records."
+  },
+  "sets": [
+   {
+    "t": "Tomorrowland Friendship Mix with Benwal – April 2026",
+    "u": "https://soundcloud.com/tomorrowland/tomorrowland-friendship-mix-7"
+   },
+   {
+    "t": "BENWAL @ NOUW",
+    "u": "https://soundcloud.com/benwalmusic/benwal-nouw-triple-j-mix-up-6425"
+   },
+   {
+    "t": "BCCO Mix Series 242: Benwal",
+    "u": "https://soundcloud.com/bcco/benwal"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/benwal"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "DEA": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Lto": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Batschu": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
  }
 };
 
