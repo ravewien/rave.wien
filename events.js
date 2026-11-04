@@ -839,9 +839,29 @@ const CG={
  "Duality": [
   "Techno",
   "Hard Techno"
+ ],
+ "Unframed": [
+  "Minimal House",
+  "House"
+ ],
+ "Opération": [
+  "House",
+  "Progressive House"
+ ],
+ "VOID": [
+  "Techno"
+ ],
+ "Addicted to Pressure": [
+  "Acid",
+  "Hardtechno",
+  "Techno"
+ ],
+ "Dualism": [
+  "Trance",
+  "Techno"
  ]
 };
-const KC=["303","50 Herz","54Hz","909techno","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Baseline","Bassbussi","Bassclub","Bassproduction","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","BLUR","Bonkers","Bouncylicious","Café Mondo","Callshop Radio","Cardio Cult","CIVIC","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Deep Dive","Der Radio","Derisch","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","Empyreon","Endless Grooves","Entrance","euphonic records","Euphoria","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","Fractal Fusion","Freeride Millenium","Frieden & Liebe","Fuelized","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Voltage Fairies","Hit It Hard","Homebase","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Im Freudentaumel","Impulse","Jah Power Sound","Jeez Louise","Journey to Tarab","Kaisa Bodega","KARTELL.FM","KISSEN","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","Löwenzahn","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Mind Entertainment","Mixed","Monochrom","Morgengymnastik","Nachtschub","Nine O Nine","Ninecircles","Paradies Garten","Park It Here","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Pole Circle","Ponyhof","Praternostra","Psytrance Universe","Purradox","PUSH","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Red Groove Social Club","Redivider","Resonance Social Artists","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schlachthaus","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","SIGNAL","SIN","Slutlabs","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spectral","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Untz Baby Untz","up/or","Verknallt","VG+","VIE.W","Vienn_a_Tek","Vision Serpent","VLAN","VNV","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Xperiment","YE","YN Collective","Zuckerwatt","Zyklop Audio"];
+const KC=["303","50 Herz","54Hz","909techno","Addicted to Pressure","Alles Allen","AMBIEVENT","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Baseline","Bassbussi","Bassclub","Bassproduction","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","BLUR","Bonkers","Bouncylicious","Café Mondo","Callshop Radio","Cardio Cult","CIVIC","ClassiX","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Cybertribe","Cyclic Existence","Dark Pressure","Das Syndikat","deep cut","Deep Dive","Der Radio","Derisch","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","Empyreon","Endless Grooves","Entrance","euphonic records","Euphoria","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","Fractal Fusion","Freeride Millenium","Frieden & Liebe","Fuelized","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Voltage Fairies","Hit It Hard","Homebase","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Im Freudentaumel","Impulse","Jah Power Sound","Jeez Louise","Journey to Tarab","Kaisa Bodega","KARTELL.FM","KISSEN","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Liminal","Little Beat More","Löwenzahn","LSH","LustMusik","Luv Affair","Magika","Mahlwerk","MEIOSISS","Merkwürdig","Mind Entertainment","Mixed","Monochrom","Morgengymnastik","Nachtschub","Nine O Nine","Ninecircles","Opération","Paradies Garten","Park It Here","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Pole Circle","Ponyhof","Praternostra","Psytrance Universe","Purradox","PUSH","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Red Groove Social Club","Redivider","Resonance Social Artists","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schere3000","Schlachthaus","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","SIGNAL","SIN","Slutlabs","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spectral","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","techNOage","technolog","The Hive","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Untz Baby Untz","up/or","Verknallt","VG+","VIE.W","Vienn_a_Tek","Vision Serpent","VLAN","VNV","VOID","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Xperiment","YE","YN Collective","Zuckerwatt","Zyklop Audio"];
 const CI={
  "303": {
   "noLogo": "2026-11-02",
@@ -4320,6 +4340,90 @@ const CI={
   "noLogo": "2026-11-04"
  },
  "Housebesuch": {
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Schere3000": {
+  "de": "Veranstalterin queer-alternativer Nächte, die sich selbst als „sapphic power house of queer-alternative nightlife“ beschreibt. In Wien u. a. im FLUCC aktiv – mit dem Pride-Night-Special gemeinsam mit HYPERTRASH und der Afterparty zum Dyke March.",
+  "en": "Promoter of queer-alternative nights describing itself as 'the sapphic power house of queer-alternative nightlife'. Active in Vienna at venues such as FLUCC – including a Pride Night Special together with HYPERTRASH and the Dyke March afterparty.",
+  "ig": "https://www.instagram.com/schere3000/",
+  "src": [
+   "https://de.ra.co/events/2433647",
+   "https://de.ra.co/promoters/170159"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Dualism": {
+  "de": "Berliner Partyreihe (DUALISM Berlin) für Trance und Techno, u. a. mit dem 50-stündigen „Dualism Weekender“ im ://about blank. In Wien gastierte Dualism im Club Exil – angekündigt mit „bouncy trance, happy vibes“.",
+  "en": "Berlin party series (DUALISM Berlin) for trance and techno, including the 50-hour 'Dualism Weekender' at ://about blank. In Vienna, Dualism has hosted nights at Club Exil, promising 'bouncy trance, happy vibes'.",
+  "from": "Berlin",
+  "type": [
+   "Reihe"
+  ],
+  "ig": "https://www.instagram.com/dualism_berlin/",
+  "alias": [
+   "DUALISM Berlin"
+  ],
+  "src": [
+   "https://ra.co/events/2254235",
+   "https://ra.co/promoters/108108",
+   "https://www.siegessaeule.de/en/events/clubs/dualism-weekender-with-goat-ball-hakke-silikon/2026-06-05/22:00/"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Unframed": {
+  "de": "Partyreihe für Minimal House unter dem Motto „fluffy house minimalism“ – in Wien u. a. im FLUCC, im Tagada und im Club Lucia, 2026 auch mit einem Gastspiel in Berlin.",
+  "en": "Party series for minimal house under the motto 'fluffy house minimalism' – in Vienna at FLUCC, Tagada and Club Lucia among others, and in 2026 also with a guest night in Berlin.",
+  "type": [
+   "Reihe"
+  ],
+  "ig": "https://www.instagram.com/unframed.wav/",
+  "src": [
+   "https://ra.co/events/2378984",
+   "https://ra.co/dj/grey.ish"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Opération": {
+  "de": "Österreichisches Eventformat, gegründet 2025, mit House- und Progressive-House-Nächten im SASS Music Club am Karlsplatz.",
+  "en": "Austrian event format founded in 2025, hosting house and progressive house nights at SASS Music Club on Karlsplatz.",
+  "founded": "2025",
+  "from": "Österreich",
+  "type": [
+   "Reihe"
+  ],
+  "src": [
+   "https://de.ra.co/events/2347980"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "VOID": {
+  "de": "Wiener Techno-Veranstalter (void.vienna) unter dem Motto „Harder. Faster. Darker.“ – mit saisonalen Specials im Club Exil in Vösendorf, etwa mit Kobosil und Somewhen, sowie Events im Multiversum Schwechat.",
+  "en": "Vienna techno promoter (void.vienna) with the motto 'Harder. Faster. Darker.' – known for seasonal specials at Club Exil in Vösendorf, e.g. with Kobosil and Somewhen, and events at Multiversum Schwechat.",
+  "from": "Wien",
+  "ig": "https://www.instagram.com/void.vienna/",
+  "alias": [
+   "VOID.VIENNA"
+  ],
+  "src": [
+   "https://ra.co/events/2379959"
+  ],
+  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-04"
+ },
+ "Addicted to Pressure": {
+  "de": "Rave-Reihe im Club Exil in Vösendorf, bekannt für ihre 30-stündigen Silvester-Raves mit Acid, Tekno, Techno, Hardtechno, Acidcore, Psy und Neoacid; als Veranstalter tritt auf RA sunmoonevents auf.",
+  "en": "Rave series at Club Exil in Vösendorf, known for its 30-hour New Year's Eve raves spanning acid, tekno, techno, hard techno, acidcore, psy and neoacid; listed on RA under the promoter sunmoonevents.",
+  "type": [
+   "Reihe"
+  ],
+  "src": [
+   "https://de.ra.co/events/2067244"
+  ],
   "infoChk": "2026-11-04",
   "noLogo": "2026-11-04"
  }
