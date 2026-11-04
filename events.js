@@ -5447,6 +5447,34 @@ const LS={
  }
 };
 const AR={
+ "999999999": {
+  "img": "https://static.ra.co/images/profiles/square/999999999.jpg?dateUpdated=1557751711000",
+  "links": {
+   "ra": "https://ra.co/dj/999999999",
+   "sc": "https://soundcloud.com/999999999music",
+   "bc": "https://999999999music.bandcamp.com",
+   "ig": "https://www.instagram.com/999999999_live",
+   "web": "https://apelago.com/999999999-1"
+  },
+  "bio": {
+   "de": "999999999 ist ein Techno-Act aus Italien („Techno from outer space“), der live und als DJ auftritt. Veröffentlichungen u. a. auf Rave Or Die.",
+   "en": "999999999 is a techno act from Italy (“Techno from outer space”) performing both live and as DJs. Releases include Rave Or Die."
+  },
+  "from": {
+   "de": "Italien",
+   "en": "Italy"
+  },
+  "labels": [
+   "Rave Or Die"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/999999999"
+  ]
+ },
  "Tanzfuchs": {
   "alias": [
    "TNZFX"
@@ -38243,6 +38271,1097 @@ const AR={
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04"
+ },
+ "Vina Konda": {
+  "img": "https://static.ra.co/images/profiles/square/vinakonda.jpg?dateUpdated=1724250080000",
+  "links": {
+   "ra": "https://ra.co/dj/vinakonda",
+   "sc": "https://soundcloud.com/vinakonda",
+   "ig": "https://www.instagram.com/vina_konda"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "bio": {
+   "de": "Vina Konda ist ein französischer DJ und Produzent, der vor allem in Paris auflegt, u. a. im Le Gambetta Club und in La Station – Gare des Mines. Releases erschienen u. a. auf TEMƎT Music, darunter das Album „Yromem“.",
+   "en": "Vina Konda is a French DJ and producer who mostly plays in Paris, including Le Gambetta Club and La Station – Gare des Mines. Releases have come out on TEMƎT Music among others, including the album 'Yromem'."
+  },
+  "labels": [
+   "TEMƎT Music"
+  ],
+  "sets": [
+   {
+    "t": "21SSD LIVE N°02 - Vina Konda",
+    "u": "https://soundcloud.com/21ssd/21ssd-live-n2-vina-konda"
+   },
+   {
+    "t": "Geipan #19 w/ Vina Konda",
+    "u": "https://soundcloud.com/stationstation/geipan-19-vina-konda"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/vinakonda",
+   "https://soundcloud.com/temet-music/sets/vina-konda-yromem-lp"
+  ]
+ },
+ "Ængl": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Dilâ": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "DJ Hell": {
+  "img": "https://static.ra.co/images/profiles/hell.jpg?dateUpdated=1748882497000",
+  "links": {
+   "ra": "https://ra.co/dj/hell",
+   "sc": "https://soundcloud.com/DJHellOfficial",
+   "ig": "https://www.instagram.com/djhellofficial"
+  },
+  "from": {
+   "de": "Deutschland (München/Berlin)",
+   "en": "Germany (Munich/Berlin)"
+  },
+  "bio": {
+   "de": "DJ Hell legt seit 1978 auf und zählt zu den Pionieren von House und Techno in Deutschland. Er war Mitbegründer des Labels Disko B und gründete 1997 International DeeJay Gigolo Records, das den Electroclash prägte. Zu seinen Alben gehören „Munich Machine“ (2000), „NY Muscle“ (2003) und „Teufelswerk“ (2009).",
+   "en": "DJ Hell has been DJing since 1978 and is one of the pioneers of house and techno in Germany. He co-founded the Disko B label and launched International DeeJay Gigolo Records in 1997, which shaped electroclash. His albums include 'Munich Machine' (2000), 'NY Muscle' (2003) and 'Teufelswerk' (2009)."
+  },
+  "labels": [
+   "International DeeJay Gigolo Records",
+   "Disko B",
+   "Tresor",
+   "R&S Records"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/hell",
+   "https://ra.co/dj/hell/biography"
+  ]
+ },
+ "KEYL": {
+  "img": "https://static.ra.co/images/profiles/square/keyl.jpg?dateUpdated=1762968413637",
+  "links": {
+   "ra": "https://ra.co/dj/keyl",
+   "sc": "https://soundcloud.com/leonkeyl"
+  },
+  "from": {
+   "de": "Wien, jetzt Berlin",
+   "en": "Vienna, now Berlin"
+  },
+  "bio": {
+   "de": "KEYL ist DJ und Produzent zwischen Fast House, Speed Garage und 90s Hardhouse – mit tiefen Basslines, euphorischen Vocals und Melodien. Er begann in Wien als Teil des VNV Kollektivs, kam vom Auflegen zum Produzieren und sammelte Erfahrung als Veranstalter. Heute lebt er in Berlin.",
+   "en": "KEYL is a DJ and producer moving between fast house, speed garage and 90s hard house, with deep basslines, uplifting vocals and melodies. He started out in Vienna as part of the VNV collective, moved from DJing into producing and gained experience organising events. He is now based in Berlin."
+  },
+  "genres": [
+   "Fast House",
+   "Speed Garage",
+   "Hard House"
+  ],
+  "sets": [
+   {
+    "t": "VNV Kollektiv - KEYL (Radio Rudina)",
+    "u": "https://soundcloud.com/radiorudina/vnv-kollektiv-keyl-radio-rudina"
+   },
+   {
+    "t": "KEYL (Radio Rudina)",
+    "u": "https://soundcloud.com/radiorudina/keyl-radio-rudina"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/keyl/biography"
+  ]
+ },
+ "Embaixador": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Vendex": {
+  "img": "https://static.ra.co/images/profiles/square/vendex.jpg?dateUpdated=1675186475000",
+  "links": {
+   "ra": "https://ra.co/dj/vendex",
+   "sc": "https://soundcloud.com/vendexofficial"
+  },
+  "from": {
+   "de": "Barcelona, Spanien",
+   "en": "Barcelona, Spain"
+  },
+  "bio": {
+   "de": "Vendex ist ein in Barcelona geborener DJ und Produzent, der seit 2016 produziert. Sein Fokus liegt auf dunklem, industriellem Acid- und Hard Techno, inspiriert von Dantes „Göttlicher Komödie“ und der Alchemie. Releases erschienen u. a. auf The Techno's Children, Falsive Records und Obscuur Records.",
+   "en": "Vendex is a Barcelona-born DJ and producer who has been producing since 2016. He focuses on dark, industrial, acid and hard techno, inspired by Dante's 'Divine Comedy' and alchemy. Releases have appeared on The Techno's Children, Falsive Records and Obscuur Records among others."
+  },
+  "genres": [
+   "Hard Techno",
+   "Industrial Techno",
+   "Acid"
+  ],
+  "labels": [
+   "The Techno's Children",
+   "Falsive Records",
+   "Obscuur Records"
+  ],
+  "sets": [
+   {
+    "t": "VALKHØR MADRID 2026",
+    "u": "https://soundcloud.com/vendexofficial/valkhor-madrid-2026-vendex-all"
+   },
+   {
+    "t": "VENDEX - Techno Germany Podcast 056",
+    "u": "https://soundcloud.com/technogermany/vendex-techno-germany-podcast-056"
+   },
+   {
+    "t": "[PDCST167] - Vendex (The Techno's Children)",
+    "u": "https://soundcloud.com/technos-children/pdcst167-vendex"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/vendex/biography"
+  ]
+ },
+ "u.r.trax": {
+  "img": "https://static.ra.co/images/profiles/square/u.r.trax.jpg?dateUpdated=1784670794117",
+  "links": {
+   "ra": "https://ra.co/dj/u.r.trax",
+   "sc": "https://soundcloud.com/urtrax"
+  },
+  "from": {
+   "de": "Paris, Frankreich",
+   "en": "Paris, France"
+  },
+  "bio": {
+   "de": "u.r.trax ist eine autodidaktische DJ und Produzentin aus der Nähe von Paris, geprägt von Cold Wave, Chicago House, Detroit Techno und Rave-Kultur. Nach der Single „Folge Mir“ (2020) erschien 2022 ihr Debütalbum „Third Ear“ auf Nina Kraviz' Label трип. 2026 folgte „the party is where u.r.“ bei Because.",
+   "en": "u.r.trax is a self-taught DJ and producer from the outskirts of Paris, shaped by cold wave, Chicago house, Detroit techno and rave culture. After the single 'Folge Mir' (2020), her debut album 'Third Ear' came out on Nina Kraviz's label трип in 2022, followed in 2026 by 'the party is where u.r.' on Because."
+  },
+  "labels": [
+   "трип",
+   "Because Music"
+  ],
+  "sets": [
+   {
+    "t": "RA Live - u.r.trax - Pitch Music & Arts 2023",
+    "u": "https://soundcloud.com/resident-advisor/urtrax-pitch-music-arts-festival-australia-2023-saturday"
+   },
+   {
+    "t": "Junction 2 Mix Series 032 - u.r.trax",
+    "u": "https://soundcloud.com/junction-2-london/junction-2-mix-series-032-urtrax"
+   },
+   {
+    "t": "Intercell.045 - u.r.trax",
+    "u": "https://soundcloud.com/intercell/intercell045-urtrax"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/u.r.trax/biography"
+  ]
+ },
+ "Kataya": {
+  "img": "https://static.ra.co/images/profiles/square/kataya.jpg?dateUpdated=1756315003000",
+  "links": {
+   "ra": "https://ra.co/dj/kataya",
+   "sc": "https://soundcloud.com/kataya_blossmbae"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "bio": {
+   "de": "Kataya ist eine queere DJ und Künstlerin aus Berlin, bekannt für Space-Disco-Sets – ihre Fans nennen sie „Space Disco Queen“. Sie spielte u. a. in Deutschland, den Niederlanden, Frankreich, Kolumbien und Peru sowie als Headlinerin bei Garbicz (2022), Fusion (2023) und Bosburcht (2024).",
+   "en": "Kataya is a queer Berlin-based DJ and artist known for space disco sets – her fans call her the 'Space Disco Queen'. She has played in Germany, the Netherlands, France, Colombia and Peru, and headlined festivals such as Garbicz (2022), Fusion (2023) and Bosburcht (2024)."
+  },
+  "genres": [
+   "Space Disco"
+  ],
+  "sets": [
+   {
+    "t": "Disco Duck – Kaschemme Sisyphos 2025",
+    "u": "https://soundcloud.com/kataya_blossmbae/disco-duck-kaschemme-sisyphos-2025"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/kataya/biography"
+  ]
+ },
+ "Stefan Obermaier": {
+  "img": "https://static.ra.co/images/profiles/square/stefanobermaier.jpg?dateUpdated=1566950400000",
+  "links": {
+   "ra": "https://ra.co/dj/stefanobermaier",
+   "sc": "https://soundcloud.com/stefanobermaier"
+  },
+  "from": {
+   "de": "Salzburg, lebt seit 2001 in Wien",
+   "en": "Salzburg, based in Vienna since 2001"
+  },
+  "bio": {
+   "de": "Stefan Obermaier stammt aus Salzburg und lebt seit 2001 in Wien. Mit Wurzeln in Funk und Jazz war er mit 17 einer der ersten österreichischen Live-Elektronik-Acts und unterschrieb später bei Universal Music. Sein Sound verbindet den Wiener Sound der 90er mit Tech House und souligen Elementen; Remixe erschienen u. a. auf Armada, !K7 und Compost.",
+   "en": "Stefan Obermaier was born in Salzburg and has lived in Vienna since 2001. With roots in funk and jazz, he was one of the first Austrian electronic live performers at 17 and later signed to Universal Music. His sound blends mid-90s Vienna influences with tech house and soulful elements; remixes have appeared on Armada, !K7 and Compost among others."
+  },
+  "genres": [
+   "Tech House"
+  ],
+  "labels": [
+   "Drift Recordings",
+   "Vienna Scientists Records",
+   "Universal Music",
+   "Compost Records"
+  ],
+  "sets": [
+   {
+    "t": "PLAYY. Mix #190: Stefan Obermaier",
+    "u": "https://soundcloud.com/the_playground/playy-mix-190-stefan-obermaier"
+   },
+   {
+    "t": "Stripped Down Radio Show #037 - Stefan Obermaier",
+    "u": "https://soundcloud.com/strippeddown/strd-radio-037"
+   },
+   {
+    "t": "Stefan Obermaier @ Tel Aviv Beach / Vienna (13.06.15)",
+    "u": "https://soundcloud.com/stefanobermaier/stefan-obermaier-tel-aviv-beach-vienna-130615"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/stefanobermaier/biography"
+  ]
+ },
+ "Sexapil": {
+  "bio": {
+   "de": "Sexapil ist ein gemeinsames Projekt der französischen DJs Amor Satyr und Siu Mata.",
+   "en": "Sexapil is a joint project of the French DJs Amor Satyr and Siu Mata."
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "src": [
+   "https://ra.co/events/1928192"
+  ]
+ },
+ "Wajang": {
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "src": [
+   "https://ra.co/events/1928192"
+  ]
+ },
+ "Lenzman": {
+  "img": "https://static.ra.co/images/profiles/lenzman.jpg?dateUpdated=1490018602390",
+  "links": {
+   "ra": "https://ra.co/dj/lenzman",
+   "sc": "https://soundcloud.com/thenorthquarter",
+   "ig": "https://www.instagram.com/thelenzman",
+   "web": "https://thenorthquarter.nl/"
+  },
+  "bio": {
+   "de": "Lenzman (Teije van Vliet) ist ein niederländischer Drum-&-Bass-Produzent und DJ. Sein Sound gilt als soulful, deep und melancholisch, beeinflusst von Hip-Hop, Jazz und Soul; 2014 erschien sein Debütalbum „Looking At The Stars“. Releases u. a. auf Metalheadz, Shogun Audio und Soul:r sowie auf seinem eigenen Label The North Quarter.",
+   "en": "Lenzman (Teije van Vliet) is a Dutch drum & bass producer and DJ. His sound is described as soulful, deep and melancholic, drawing on hip hop, jazz and soul; his debut album 'Looking At The Stars' came out in 2014. He has released on Metalheadz, Shogun Audio and Soul:r as well as his own label The North Quarter."
+  },
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "labels": [
+   "Metalheadz",
+   "Shogun Audio",
+   "Soul:r",
+   "Subtitles Music",
+   "C.I.A.",
+   "The North Quarter"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/lenzman",
+   "https://ra.co/dj/lenzman/biography"
+  ]
+ },
+ "Cinthie": {
+  "img": "https://static.ra.co/images/profiles/square/cinthie.jpg?dateUpdated=1504079100000",
+  "links": {
+   "ra": "https://ra.co/dj/cinthie"
+  },
+  "bio": {
+   "de": "Cinthie ist eine Berliner House-DJ, Produzentin, Label- und Plattenladenbesitzerin. Sie betreibt das Label 803 Crystal Grooves mit dem Sublabel Collective Cuts sowie den Plattenladen Elevate in Berlin. Ihre Sets verbinden New Yorker Swing, Chicagoer Rohheit und Berliner Energie; Releases erschienen u. a. auf Heist und Aus Music.",
+   "en": "Cinthie is a Berlin-based house DJ, producer, label and record store owner. She runs the label 803 Crystal Grooves with its sub-label Collective Cuts and the Elevate record store in Berlin. Her sets connect New York swing, Chicago rawness and Berlin energy; she has released on labels such as Heist and Aus Music."
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "labels": [
+   "803 Crystal Grooves",
+   "Collective Cuts",
+   "Heist",
+   "Aus Music"
+  ],
+  "genres": [
+   "House"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/cinthie/biography"
+  ]
+ },
+ "Jenny Cara": {
+  "img": "https://static.ra.co/images/profiles/square/jennycara.jpg?dateUpdated=1783193245533",
+  "links": {
+   "ra": "https://ra.co/dj/jennycara",
+   "sc": "https://soundcloud.com/jennycara",
+   "bc": "https://jennycara.bandcamp.com",
+   "ig": "https://www.instagram.com/jennycara_"
+  },
+  "bio": {
+   "de": "Jenny Cara ist eine Schweizer DJ aus Zürich, deren Sets zwischen unbeschwerten, fröhlichen Sounds pendeln und stark von der UK-Soundkultur geprägt sind. Sie hostet die NTS-Radio-Residency „Situationship“ und war Bookerin und später Managerin des Zürcher Club Zukunft. Gespielt hat sie u. a. in der Panorama Bar, im De School und im Robert Johnson.",
+   "en": "Jenny Cara is a Swiss DJ based in Zurich whose sets oscillate between blithe, cheerful sounds driven by UK sound culture. She hosts the NTS Radio residency 'Situationship' and was booker and later manager of Zurich's Club Zukunft. She has played Panorama Bar, De School and Robert Johnson, among others."
+  },
+  "from": {
+   "de": "Zürich, Schweiz",
+   "en": "Zurich, Switzerland"
+  },
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/jennycara",
+   "https://ra.co/dj/jennycara/biography"
+  ]
+ },
+ "Babybens": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Dj Wenzel": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Dj Https": {
+  "img": "https://static.ra.co/images/profiles/square/djhttps.jpg?dateUpdated=1669217737000",
+  "links": {
+   "ra": "https://ra.co/dj/djhttps"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://de.ra.co/dj/djhttps"
+  ]
+ },
+ "Rebekah Abdeen": {
+  "img": "https://static.ra.co/images/profiles/square/rebekahabdeen.jpg?dateUpdated=1787110113067",
+  "links": {
+   "ra": "https://ra.co/dj/rebekahabdeen",
+   "sc": "https://soundcloud.com/rebekahabdeen",
+   "bc": "https://rebekahabdeen.bandcamp.com",
+   "ig": "https://www.instagram.com/rebekahabdeen",
+   "web": "https://www.rebekahabdeen.com"
+  },
+  "bio": {
+   "de": "Rebekah Abdeen ist eine in Newcastle geborene, in London lebende DJ und Produzentin zwischen Hardgroove, Breaks und Bass. Releases erschienen auf Unknown To The Unknown, Sound As Records und Plastician's Terrorhythm. Mit ihrer Reihe RECREATION ist sie Resident im Fox & Firkin in Südost-London und hat eine monatliche Show auf Subtle Radio.",
+   "en": "Rebekah Abdeen is a Newcastle-born, London-based DJ and producer working across hardgroove, breaks and bass. She has released on Unknown To The Unknown, Sound As Records and Plastician's Terrorhythm. With her RECREATION brand she holds a residency at The Fox & Firkin in South East London and hosts a monthly show on Subtle Radio."
+  },
+  "from": {
+   "de": "Newcastle / London, UK",
+   "en": "Newcastle / London, UK"
+  },
+  "labels": [
+   "Unknown To The Unknown",
+   "Terrorhythm Recordings",
+   "Sound As Records",
+   "S1 Records"
+  ],
+  "genres": [
+   "Hardgroove",
+   "Breaks",
+   "Bass"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/rebekahabdeen",
+   "https://ra.co/dj/rebekahabdeen/biography"
+  ]
+ },
+ "DJ Rush": {
+  "img": "https://static.ra.co/images/profiles/djrush.jpg?dateUpdated=1648640163000",
+  "links": {
+   "ra": "https://ra.co/dj/djrush",
+   "web": "https://www.djrush.net"
+  },
+  "bio": {
+   "de": "DJ Rush (Isaiah Major, auch Major Rush) ist ein in Chicago geborener Techno-DJ und Produzent, der Berlin zu seiner Wahlheimat machte. Er ist bekannt für energiegeladene Techno-Sets und einen extravaganten Glam-Auftritt. Veröffentlichungen u. a. auf Dance Mania, Djax-Up-Beats, Relief Records, Terminal M und Mental Groove.",
+   "en": "DJ Rush (Isaiah Major, aka Major Rush) is a Chicago-born techno DJ and producer who made Berlin his adopted home. He is known for high-energy techno sets and a flamboyant glam style. Releases include Dance Mania, Djax-Up-Beats, Relief Records, Terminal M and Mental Groove."
+  },
+  "from": {
+   "de": "Chicago (USA)",
+   "en": "Chicago (USA)"
+  },
+  "labels": [
+   "Dance Mania",
+   "Djax-Up-Beats",
+   "Relief Records",
+   "Terminal M",
+   "Mental Groove",
+   "Dark House Music",
+   "Basic Beat",
+   "Technasia Records",
+   "SCHUBfaktor Records",
+   "TS Music"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "alias": [
+   "Major Rush"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/djrush"
+  ]
+ },
+ "Nico Eyrich": {
+  "img": "https://static.ra.co/images/profiles/square/nicoeyrich.jpg?dateUpdated=1492448826110",
+  "links": {
+   "ra": "https://ra.co/dj/nicoeyrich",
+   "sc": "https://soundcloud.com/nicoeyrich"
+  },
+  "bio": {
+   "de": "Nico Eyrich ist ein in Deutschland geborener, in Wien lebender DJ aus dem Umfeld des Kollektivs hausgemacht. Er spielt vor allem in der Grelle Forelle und im Club Exil; auf hausgemacht erschien u. a. sein Track „Back 2 Da Sound“.",
+   "en": "Nico Eyrich is a German-born, Vienna-based DJ from the circle of the hausgemacht collective. He mostly plays at Grelle Forelle and Club Exil; his track “Back 2 Da Sound” was released via hausgemacht."
+  },
+  "from": {
+   "de": "Wien (geboren in Deutschland)",
+   "en": "Vienna (born in Germany)"
+  },
+  "sets": [
+   {
+    "t": "Nira B2B Nico Eyrich (hausgemacht)",
+    "u": "https://soundcloud.com/hausgemachtinwien/nira-b2b-nico-eyrich"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/nicoeyrich",
+   "https://ra.co/events/1918786"
+  ]
+ },
+ "ricksen": {
+  "img": "https://static.ra.co/images/profiles/square/ricksen.jpg?dateUpdated=1679485350000",
+  "links": {
+   "ra": "https://ra.co/dj/ricksen",
+   "sc": "https://soundcloud.com/user-648642464"
+  },
+  "bio": {
+   "de": "Ricksen ist ein Techno-DJ aus Berlin, der sich schon seit seiner Jugend für elektronische Musik begeistert. Er gehört zum Berliner Kollektiv Demolition.",
+   "en": "Ricksen is a Berlin-native techno DJ who has been drawn to electronic music since his youth. He is part of the Berlin collective Demolition."
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/ricksen",
+   "https://ra.co/events/1918786"
+  ]
+ },
+ "mefteh": {
+  "img": "https://static.ra.co/images/profiles/square/mefteh.jpg?dateUpdated=1742376079257",
+  "links": {
+   "ra": "https://ra.co/dj/mefteh",
+   "sc": "https://soundcloud.com/mefteh",
+   "ig": "https://www.instagram.com/mefteh"
+  },
+  "bio": {
+   "de": "Mefteh (Ghaith Mefteh) ist ein in Berlin lebender Techno-DJ und Produzent, dessen Musik als roh, zeitlos, organisch und treibend beschrieben wird. Veröffentlichungen u. a. auf Kontur und DifferentSound; er gehört zum Berliner Kollektiv Demolition.",
+   "en": "Mefteh (Ghaith Mefteh) is a Berlin-based techno DJ and producer whose music is described as raw, timeless, organic and driving. Releases include Kontur and DifferentSound; he is part of the Berlin collective Demolition."
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "labels": [
+   "Kontur",
+   "DifferentSound"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "alias": [
+   "Ghaithh"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/mefteh",
+   "https://ra.co/events/1918786"
+  ]
+ },
+ "maximus": {
+  "img": "https://static.ra.co/images/profiles/square/maximus-de.jpg?dateUpdated=1753111391000",
+  "links": {
+   "ra": "https://ra.co/dj/maximus-de",
+   "sc": "https://soundcloud.com/maximuzs"
+  },
+  "bio": {
+   "de": "Maximus ist ein Berliner Techno-DJ mit hypnotischen Sets, treibenden Basslines und schnellem, minimalistischem Techno mit Groove. Er veröffentlicht auf voyeuristic disorder und gehört zum Berliner Kollektiv Demolition.",
+   "en": "Maximus is a Berlin techno DJ known for hypnotic sets, driving basslines and fast-paced minimalistic techno with groove. He releases on voyeuristic disorder and is part of the Berlin collective Demolition."
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "labels": [
+   "voyeuristic disorder"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "alias": [
+   "Maximus."
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/maximus-de",
+   "https://ra.co/events/1918786"
+  ]
+ },
+ "l.aux": {
+  "img": "https://static.ra.co/images/profiles/square/l-aux.jpg?dateUpdated=1687768094923",
+  "links": {
+   "ra": "https://ra.co/dj/l-aux",
+   "sc": "https://soundcloud.com/l-aux_music",
+   "ig": "https://www.instagram.com/l.aux_music"
+  },
+  "bio": {
+   "de": "L-AUX ist ein in der Schweiz geborener, in Deutschland lebender Techno-DJ mit Fokus auf Groove und Rhythmus. Teil des Kollektivs Demolition aus der Berliner und Basler Techno-Szene; spielte u. a. den [selected] podcast 050.",
+   "en": "L-AUX is a Swiss-born, Germany-based techno DJ focused on groove and rhythm. Part of the Demolition collective from the Berlin and Basel techno scenes; recorded [selected] podcast 050."
+  },
+  "from": {
+   "de": "Schweiz, lebt in Deutschland",
+   "en": "Switzerland, based in Germany"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "alias": [
+   "L-AUX"
+  ],
+  "sets": [
+   {
+    "t": "[selected] podcast 050 w/ L-AUX",
+    "u": "https://soundcloud.com/selected-berlin/selected-podcast-050-w-l-aux"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/l-aux",
+   "https://ra.co/events/1918786"
+  ]
+ },
+ "DJ Sex": {
+  "img": "https://static.ra.co/images/profiles/square/djsex-1.jpg?dateUpdated=1760181038513",
+  "links": {
+   "ra": "https://ra.co/dj/djsex-1",
+   "sc": "https://soundcloud.com/dj-sex-official",
+   "ig": "https://www.instagram.com/dj.sexx"
+  },
+  "bio": {
+   "de": "DJ SEX ist eine gebürtige Wienerin, die nach Berlin gezogen ist und dort für Body Positivity und Raum für FLINTA*-Artists steht. Ihre Sets beschreibt sie als „anschwellende Körper, die einen Zyklus der Erregung imitieren“.",
+   "en": "DJ SEX is a Vienna native who moved to Berlin, where she has built a profile around body positivity and space claiming for FLINTA* artists. She describes her sets as “swelling bodies, imitating a cycle of excitement”."
+  },
+  "from": {
+   "de": "Wien, lebt in Berlin",
+   "en": "Vienna, based in Berlin"
+  },
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/djsex-1",
+   "https://ra.co/events/1918786"
+  ]
+ },
+ "Ferdinger": {
+  "img": "https://static.ra.co/images/profiles/square/ferdinger.jpg?dateUpdated=1758097944277",
+  "links": {
+   "ra": "https://ra.co/dj/ferdinger",
+   "sc": "https://soundcloud.com/ferdinger",
+   "bc": "https://life-in-patterns.bandcamp.com",
+   "ig": "https://www.instagram.com/ferdinger_",
+   "web": "https://life-in-patterns.net"
+  },
+  "bio": {
+   "de": "Ferdinger ist ein kompromissloser Techno-Artist aus Süddeutschland, der in Paris lebt. Er betreibt das Label/Kollektiv Life In Patterns und veröffentlichte u. a. auf ARTS, Front Left, Inherit, Transition und GAUL.",
+   "en": "Ferdinger is an uncompromising techno artist from southern Germany now living in Paris. He runs the label/collective Life In Patterns and has released on ARTS, Front Left, Inherit, Transition and GAUL, among others."
+  },
+  "from": {
+   "de": "Süddeutschland, lebt in Paris",
+   "en": "Southern Germany, based in Paris"
+  },
+  "labels": [
+   "Life In Patterns",
+   "ARTS",
+   "Front Left Records",
+   "Agora Records",
+   "GAUL",
+   "Inherit",
+   "Transition"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/ferdinger"
+  ]
+ },
+ "Ki/ki": {
+  "img": "https://static.ra.co/images/profiles/square/ki-ki.jpg?dateUpdated=1780955468893",
+  "links": {
+   "ra": "https://ra.co/dj/ki-ki",
+   "sc": "https://soundcloud.com/ki_slash_ki",
+   "bc": "https://slashlabel.bandcamp.com",
+   "ig": "https://www.instagram.com/ki.slash.ki"
+  },
+  "bio": {
+   "de": "KI/KI ist ein Act aus Amsterdam (DJ und Produktion) zwischen Acid Techno und Trance. Gespielt wird vom queeren Underground bis zu großen internationalen Festivalbühnen.",
+   "en": "KI/KI is an Amsterdam-based DJ and producer moving between acid techno and trance, playing everywhere from the queer underground to international festival stages."
+  },
+  "from": {
+   "de": "Amsterdam",
+   "en": "Amsterdam"
+  },
+  "genres": [
+   "Acid Techno",
+   "Trance"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/ki-ki"
+  ]
+ },
+ "Pin": {
+  "img": "https://static.ra.co/images/profiles/pin.jpg?dateUpdated=1327146826000",
+  "links": {
+   "ra": "https://ra.co/dj/pin",
+   "sc": "https://soundcloud.com/loopin",
+   "web": "https://pinmusic.wordpress.com/"
+  },
+  "bio": {
+   "de": "Pin (auch Loopin) ist ein DJ aus Spanien, der vor allem in Valencia auflegt, u. a. regelmäßig im Oven Club und im Spook Club. Laut RA gehört auch das PRST in Wien zu seinen meistbespielten Clubs.",
+   "en": "Pin (also known as Loopin) is a DJ from Spain who mainly plays in Valencia, including regular dates at Oven Club and Spook Club. According to RA, PRST in Vienna is also among his most-played clubs."
+  },
+  "from": {
+   "de": "Spanien",
+   "en": "Spain"
+  },
+  "alias": [
+   "Loopin"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/pin"
+  ]
+ },
+ "Denis Sulta": {
+  "img": "https://static.ra.co/images/profiles/square/denissulta.jpg?dateUpdated=1771516352720",
+  "links": {
+   "ra": "https://ra.co/dj/denissulta",
+   "sc": "https://soundcloud.com/denissulta",
+   "bc": "https://denissulta.bandcamp.com",
+   "ig": "https://www.instagram.com/denissulta"
+  },
+  "bio": {
+   "de": "Denis Sulta (Hector Barbour) ist DJ und Produzent aus Glasgow und einer der produktivsten Dance-Music-Artists der dortigen Szene. Bekannt wurde er u. a. mit „It's Only Real“ (2015) und Boiler-Room-Sets; auf Ninja Tune erschien die EP „Aye Spoake Te Sumwuhn & They Listenhd“. Mit seiner Reihe Sulta Selects bespielt er u. a. Glasgow und Ibiza, dazu hatte er eine Residency-Show auf BBC Radio 1.",
+   "en": "Denis Sulta (Hector Barbour) is a DJ and producer from Glasgow and one of the most prolific dance music artists of the city's scene. He made his name with 'It's Only Real' (2015) and his Boiler Room sets; Ninja Tune released his EP 'Aye Spoake Te Sumwuhn & They Listenhd'. His Sulta Selects series has run events in Glasgow and Ibiza, and he held a residency show on BBC Radio 1."
+  },
+  "from": {
+   "de": "Glasgow, Schottland",
+   "en": "Glasgow, Scotland"
+  },
+  "labels": [
+   "Sulta Selects",
+   "Ninja Tune"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/denissulta",
+   "https://ra.co/dj/denissulta/biography"
+  ]
+ },
+ "Francesco Farfa": {
+  "img": "https://static.ra.co/images/profiles/square/francescofarfa.jpg?dateUpdated=1592406570000",
+  "links": {
+   "ra": "https://ra.co/dj/francescofarfa",
+   "sc": "https://soundcloud.com/francescofarfa"
+  },
+  "bio": {
+   "de": "Francesco Farfa ist ein in Florenz geborener DJ, der seit Anfang der 1980er-Jahre auflegt. Er ist für vielseitige Sets jenseits von Genre-Schubladen bekannt, die von Funk bis zu frühen elektronischen Rhythmen reichen. Releases erschienen u. a. auf Souvenir Music, Sudbeat, UMM und Recline Music.",
+   "en": "Francesco Farfa is a Florence-born DJ who has been playing since the early 1980s. He is known for eclectic sets that avoid genre boxes, ranging from funk to early electronic rhythms. His releases have appeared on labels such as Souvenir Music, Sudbeat, UMM and Recline Music."
+  },
+  "from": {
+   "de": "Florenz, Italien",
+   "en": "Florence, Italy"
+  },
+  "labels": [
+   "Souvenir Music",
+   "Sudbeat",
+   "UMM",
+   "Recline Music",
+   "Ocean Trax",
+   "Audio Esperanto"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/francescofarfa"
+  ]
+ },
+ "Boys Noize": {
+  "img": "https://static.ra.co/images/profiles/boysnoize.jpg?dateUpdated=1534321681000",
+  "links": {
+   "ra": "https://ra.co/dj/boysnoize",
+   "sc": "https://soundcloud.com/boysnoize",
+   "web": "https://www.boysnoize.com"
+  },
+  "bio": {
+   "de": "Boys Noize ist das Projekt des Berliner DJs und Produzenten Alexander Ridha, Gründer von Boysnoize Records und dessen Sublabel BNR TRAX. Veröffentlichungen erschienen außerdem u. a. auf Mute, Cocoon, International DeeJay Gigolo und Turbo. Weitere Projekte sind u. a. Octave Minds und Handbraekes.",
+   "en": "Boys Noize is the project of Berlin-based DJ and producer Alexander Ridha, founder of Boysnoize Records and its sub-label BNR TRAX. He has also released on Mute, Cocoon, International DeeJay Gigolo and Turbo. Other projects include Octave Minds and Handbraekes."
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "labels": [
+   "Boysnoize Records",
+   "Mute Records",
+   "Cocoon Recordings",
+   "International DeeJay Gigolo Records",
+   "Turbo Recordings"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/boysnoize"
+  ]
+ },
+ "Callush": {
+  "img": "https://static.ra.co/images/profiles/square/callush.jpg?dateUpdated=1747056653483",
+  "links": {
+   "ra": "https://ra.co/dj/callush",
+   "sc": "https://soundcloud.com/callush",
+   "ig": "https://www.instagram.com/carolina_callush"
+  },
+  "bio": {
+   "de": "CALLUSH ist DJ und Produzentin aus Berlin, bekannt für rebellischen Techno. Sie veröffentlicht u. a. auf RAW und spielt regelmäßig in Clubs wie Gotec, OST und Nordstern.",
+   "en": "CALLUSH is a DJ and producer from Berlin known for rebellious techno. She has released on RAW and plays regularly at clubs such as Gotec, OST and Nordstern."
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "labels": [
+   "RAW"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/callush",
+   "https://ra.co/dj/callush/biography"
+  ]
+ },
+ "GRAY": {
+  "img": "https://static.ra.co/images/profiles/square/grayuk.jpg?dateUpdated=1761082121363",
+  "links": {
+   "ra": "https://ra.co/dj/grayuk",
+   "sc": "https://soundcloud.com/gray_music",
+   "ig": "https://www.instagram.com/graydnb",
+   "web": "https://graymusic.uk"
+  },
+  "bio": {
+   "de": "Gray ist ein in London ansässiger Jungle- und Drum-&-Bass-Artist, bekannt für Tracks wie „One Spliff“ und „Rubadub“. Er veröffentlicht u. a. auf Shogun Audio, betreibt das Label Shaded und brachte das Album „Digital Nomad“ heraus. Gespielt hat er u. a. in Printworks, Motion und auf der Boomtown Main Stage.",
+   "en": "Gray is a London-based jungle and drum & bass artist known for tracks such as 'One Spliff' and 'Rubadub'. He has released on Shogun Audio, runs his own label Shaded and put out the album 'Digital Nomad'. He has played Printworks, Motion and the Boomtown main stage."
+  },
+  "from": {
+   "de": "London, UK",
+   "en": "London, UK"
+  },
+  "labels": [
+   "Shogun Audio",
+   "Shaded"
+  ],
+  "genres": [
+   "Drum & Bass",
+   "Jungle"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/grayuk",
+   "https://ra.co/dj/grayuk/biography"
+  ]
+ },
+ "Obscure Shape": {
+  "img": "https://static.ra.co/images/profiles/square/obscureshape.jpg?dateUpdated=1772192623780",
+  "links": {
+   "ra": "https://ra.co/dj/obscureshape",
+   "sc": "https://soundcloud.com/obscure_shape",
+   "ig": "https://www.instagram.com/obscure_shape",
+   "web": "https://obscureshape.com"
+  },
+  "bio": {
+   "de": "Obscure Shape ist ein Techno-DJ und Produzent aus Deutschland, bekannt als eine Hälfte des Duos SHDW & Obscure Shape. Releases erschienen u. a. auf Second State, Monnom Black, Clergy und Planet X.",
+   "en": "Obscure Shape is a techno DJ and producer from Germany, known as one half of the duo SHDW & Obscure Shape. His releases have appeared on Second State, Monnom Black, Clergy and Planet X."
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Second State",
+   "Monnom Black",
+   "Clergy",
+   "Planet X",
+   "Bipolar Disorder",
+   "Frenzy Recordings",
+   "Backspin"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/obscureshape",
+   "https://ra.co/dj/shdw/biography"
+  ]
+ },
+ "Ruiz OSC1": {
+  "img": "https://static.ra.co/images/profiles/square/ruizosc1.jpg?dateUpdated=1765199409860",
+  "links": {
+   "ra": "https://ra.co/dj/ruizosc1",
+   "sc": "https://soundcloud.com/ruizprod",
+   "bc": "https://ruizosc1.bandcamp.com",
+   "ig": "https://www.instagram.com/ruizosc1",
+   "web": "https://ruizosc1.com"
+  },
+  "from": {
+   "de": "Kolumbien (Bogotá), lebt in Italien",
+   "en": "Colombia (Bogotá), based in Italy"
+  },
+  "bio": {
+   "de": "RUIZ OSC1 ist eine DJ und Produzentin aus Bogotá, die seit 2010 in Europa lebt und mit Vinyl auflegt. Ihren Sound nennt sie „folkloric techno“: Techno, der Rhythmen aus Salsa, Merengue und kolumbianischer Folklore aufgreift. Sie spielte u. a. im Bassiani, Tresor und Basement New York; Releases erschienen u. a. auf KAOS, Emerald und Molekül.",
+   "en": "RUIZ OSC1 is a DJ and producer from Bogotá who has lived in Europe since 2010 and plays vinyl. She calls her sound 'folkloric techno': techno drawing on rhythms from salsa, merengue and Colombian folklore. She has played Bassiani, Tresor and Basement New York, with releases on KAOS, Emerald and Molekül among others."
+  },
+  "labels": [
+   "KAOS",
+   "Emerald",
+   "Molekül",
+   "Agora Records"
+  ],
+  "alias": [
+   "Stinky Producer"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/ruizosc1",
+   "https://ra.co/dj/ruizosc1/biography"
+  ]
+ },
+ "Norman Nodge": {
+  "img": "https://static.ra.co/images/profiles/square/normannodge.jpg?dateUpdated=1586476800000",
+  "links": {
+   "ra": "https://ra.co/dj/normannodge",
+   "sc": "https://soundcloud.com/norman-nodge",
+   "ig": "https://www.instagram.com/norman_nodge",
+   "web": "https://www.ostgut.de/booking/artist/norman-nodge"
+  },
+  "from": {
+   "de": "Deutschland (Berlin)",
+   "en": "Germany (Berlin)"
+  },
+  "bio": {
+   "de": "Norman Nodge ist ein Berliner Techno-DJ und -Produzent mit kraftvollem, dubbigem und hypnotischem Stil. Nach Jahren als DJ und Veranstalter in den 1990ern ist er seit 2005 Resident im Berghain. Releases erschienen u. a. auf Ostgut Ton, Marcel Dettmann Records und Mote-Evolver.",
+   "en": "Norman Nodge is a Berlin techno DJ and producer with a forceful, dubby and hypnotic style. After years as a DJ and promoter in the 1990s, he has been a Berghain resident since 2005. Releases have come out on Ostgut Ton, Marcel Dettmann Records and Mote-Evolver among others."
+  },
+  "labels": [
+   "Ostgut Ton",
+   "Marcel Dettmann Records",
+   "Mote-Evolver",
+   "Octopus Music",
+   "Synewave"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/normannodge"
+  ]
+ },
+ "Mall Grab": {
+  "img": "https://static.ra.co/images/profiles/square/mallgrab.jpg?dateUpdated=1518538759000",
+  "links": {
+   "ra": "https://ra.co/dj/mallgrab",
+   "sc": "https://soundcloud.com/mallgrab",
+   "bc": "https://lookingfortroublemg.bandcamp.com",
+   "ig": "https://www.instagram.com/youngmallgrab",
+   "web": "https://lookingfortrouble.club"
+  },
+  "from": {
+   "de": "Australien, lebt in Großbritannien",
+   "en": "Australia, based in the UK"
+  },
+  "bio": {
+   "de": "Mall Grab (Jordon Alexander) ist ein in Australien geborener, in Großbritannien lebender DJ und Produzent. Er betreibt das Label Looking For Trouble.",
+   "en": "Mall Grab (Jordon Alexander) is an Australian-born, UK-based DJ and producer. He runs the label Looking For Trouble."
+  },
+  "labels": [
+   "Looking For Trouble"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/mallgrab"
+  ]
+ },
+ "Nora Finke": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Phat Otiz": {
+  "links": {
+   "sc": "https://soundcloud.com/phatotiz",
+   "bc": "https://phatotiz.bandcamp.com"
+  },
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/phatotiz",
+   "https://ra.co/events/1877592"
+  ]
+ },
+ "Noizelein": {
+  "links": {
+   "sc": "https://soundcloud.com/noizelein"
+  },
+  "sets": [
+   {
+    "t": "Hocus Focus // Vinyl Mix",
+    "u": "https://soundcloud.com/noizelein/hocus-focus"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/noizelein",
+   "https://ra.co/events/1877592"
+  ]
+ },
+ "Maurice Fulton": {
+  "img": "https://static.ra.co/images/profiles/mauricefulton.jpg?dateUpdated=1187272638407",
+  "links": {
+   "ra": "https://ra.co/dj/mauricefulton"
+  },
+  "from": {
+   "de": "USA",
+   "en": "USA"
+  },
+  "bio": {
+   "de": "Maurice Fulton ist ein US-amerikanischer House-Produzent und DJ, der seit Langem im Ausland lebt. Er wirkte an der Produktion von Crystal Waters' „Gypsy Woman“ mit und wird in der Underground-House- wie in der Leftfield-Szene geschätzt. Als Ladyvipb veröffentlichte er auf Nuphonic.",
+   "en": "Maurice Fulton is an American house producer and DJ who has long lived abroad. He helped produce Crystal Waters' 'Gypsy Woman' and is respected in both the underground house and leftfield scenes. As Ladyvipb he released on Nuphonic."
+  },
+  "labels": [
+   "Nuphonic"
+  ],
+  "alias": [
+   "Ladyvipb"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/mauricefulton/biography"
+  ]
+ },
+ "BOHO": {
+  "img": "https://static.ra.co/images/profiles/square/boho.jpg?dateUpdated=1579612575000",
+  "links": {
+   "ra": "https://ra.co/dj/boho",
+   "sc": "https://soundcloud.com/bohojaw",
+   "ig": "https://www.instagram.com/boho_jaw",
+   "web": "https://www.jannowitz.com/boho"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "BOHO ist das Techno-Projekt von Lars Kohl, Labelchef von Jannowitz Records, Jaw Dropping Records und Edition JAW; er tritt auch als Ryan Nasty auf. Releases erschienen u. a. auf Katermukke, Yoshitoshi und Octopus Music.",
+   "en": "BOHO is the techno project of Lars Kohl, head of Jannowitz Records, Jaw Dropping Records and Edition JAW; he also performs as Ryan Nasty. Releases have come out on Katermukke, Yoshitoshi and Octopus Music among others."
+  },
+  "labels": [
+   "Jannowitz Records",
+   "Katermukke",
+   "Yoshitoshi",
+   "Octopus Music",
+   "Stil vor Talent"
+  ],
+  "alias": [
+   "Ryan Nasty"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/boho"
+  ]
+ },
+ "Gockel": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Algayev": {
+  "img": "https://static.ra.co/images/profiles/square/algayev.jpg?dateUpdated=1681154770000",
+  "links": {
+   "ra": "https://ra.co/dj/algayev"
+  },
+  "from": {
+   "de": "Aserbaidschan (Baku), lebt in Budapest",
+   "en": "Azerbaijan (Baku), based in Budapest"
+  },
+  "bio": {
+   "de": "Algayev wurde in Baku geboren und wuchs mit den industriellen Klängen der Stadt auf. Über die elektronische Szene in Budapest kam er zum Auflegen und Produzieren. Seine Live-Sets verbinden harte, groovige Tracks mit eigenen Elementen.",
+   "en": "Algayev was born in Baku and grew up around the city's industrial sounds. Budapest's electronic music scene led him to performing and producing. His live sets blend heavy, groovy tracks with his own elements."
+  },
+  "genres": [
+   "Techno"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/algayev/biography"
+  ]
  }
 };
 
