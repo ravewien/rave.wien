@@ -40500,6 +40500,349 @@ const AR={
   ],
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04"
+ },
+ "Highbrow76": {
+  "img": "https://static.ra.co/images/profiles/square/highbrow76.jpg?dateUpdated=1773152619600",
+  "links": {
+   "ra": "https://ra.co/dj/highbrow76",
+   "sc": "https://soundcloud.com/user7038681",
+   "ig": "https://www.instagram.com/highbrow76",
+   "web": "https://linktr.ee/highbrow76"
+  },
+  "from": {
+   "de": "London, Vereinigtes Königreich",
+   "en": "London, United Kingdom"
+  },
+  "genres": [
+   "Deep House",
+   "House"
+  ],
+  "bio": {
+   "de": "Highbrow76 ist ein Londoner DJ mit Wurzeln in der Underground-Clubkultur Manchesters Mitte der 90er-Jahre. Er sammelt und spielt seit über 30 Jahren Platten und legt fast ausschließlich Vinyl auf. Seine Sets bewegen sich zwischen Deep House, Detroit- und Chicago-Einflüssen, Balearic und hypnotischem Techno.",
+   "en": "Highbrow76 is a London-based DJ with roots in Manchester's mid-90s underground club culture. He has been collecting and playing records for over 30 years and focuses on vinyl. His sets move between deep house, Detroit and Chicago influences, Balearic and hypnotic techno."
+  },
+  "src": [
+   "https://ra.co/dj/highbrow76",
+   "https://de.ra.co/events/2436052"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Part Time Killer": {
+  "img": "https://static.ra.co/images/profiles/square/parttimekiller.jpg?dateUpdated=1680080805000",
+  "alias": [
+   "Vermeer"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/parttimekiller",
+   "sc": "https://soundcloud.com/part-time-killer",
+   "ig": "https://www.instagram.com/part.time.killer",
+   "bc": "https://parttimekiller.bandcamp.com"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "genres": [
+   "Techno",
+   "Trance"
+  ],
+  "labels": [
+   "Selected",
+   "EXTRA ENERGY",
+   "Underzone",
+   "Speedmaster Records",
+   "NowNow Records",
+   "Repent Records"
+  ],
+  "bio": {
+   "de": "Part Time Killer ist ein deutscher Produzent und DJ, Mitglied von Selected Berlin und Betreiber des Labels Blake Records. Seine Musik verbindet Gesang mit futuristischem Sounddesign zu einer filmischen, cyberpunkartigen Atmosphäre auf schnellen Techno-Grooves. Releases erschienen u. a. auf Selected, EXTRA ENERGY und Repent Records.",
+   "en": "Part Time Killer is a German producer and DJ, a member of Selected Berlin and head of the label Blake Records. His music blends vocals with futuristic sound design into a cinematic, cyberpunk-like atmosphere over fast techno grooves. Releases have appeared on labels such as Selected, EXTRA ENERGY and Repent Records."
+  },
+  "sets": [
+   {
+    "t": "Part Time Killer & Cara Elizabeth – HÖR BERLIN 2025 DJ Set",
+    "u": "https://soundcloud.com/part-time-killer/part-time-killer-cara-elizabeth-hor-berlin-2025-dj-set"
+   },
+   {
+    "t": "Part Time Killer – Intake Paris – DJ Set",
+    "u": "https://soundcloud.com/intake-music-998517119/part-time-killer-intake-paris-dj-set"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/parttimekiller",
+   "https://ra.co/dj/parttimekiller/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "southstar": {
+  "img": "https://static.ra.co/images/profiles/square/southstar.jpg?dateUpdated=1769102437000",
+  "links": {
+   "ra": "https://ra.co/dj/southstar",
+   "sc": "https://soundcloud.com/user-894394120-615016070",
+   "ig": "https://www.instagram.com/southstarr"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "southstar ist ein DJ und Produzent aus Deutschland, bekannt für Remixe und Edits. Er spielte u. a. im Watergate Berlin, im Elsewhere in New York, im EXIL Zürich, beim AVA Festival Belfast und bei Boiler Room Warsaw 2026.",
+   "en": "southstar is a DJ and producer from Germany known for remixes and edits. He has played at venues and events such as Watergate Berlin, Elsewhere in New York, EXIL Zurich, AVA Festival Belfast and Boiler Room Warsaw 2026."
+  },
+  "sets": [
+   {
+    "t": "Southstar 161024 (NTS)",
+    "u": "https://soundcloud.com/user-643553014/southstar-161024"
+   },
+   {
+    "t": "SOUTHSTAR SUMMER SET 23",
+    "u": "https://soundcloud.com/user-894394120-615016070/southstar-summer-set-23"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/southstar",
+   "https://ra.co/news/78614"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Veyla": {
+  "from": {
+   "de": "Nürnberg, Deutschland",
+   "en": "Nuremberg, Germany"
+  },
+  "src": [
+   "https://de.ra.co/events/2374402"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Leo Schick": {
+  "img": "https://static.ra.co/images/profiles/square/leoschick.jpg?dateUpdated=1722331333000",
+  "links": {
+   "ra": "https://ra.co/dj/leoschick"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "src": [
+   "https://de.ra.co/dj/leoschick",
+   "https://de.ra.co/events/2382465"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Terrible": {
+  "img": "https://static.ra.co/images/profiles/square/terrible.jpg?dateUpdated=1776296194570",
+  "alias": [
+   "DJ Terrible",
+   "Terribleinc"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/terrible",
+   "sc": "https://soundcloud.com/terribleinc",
+   "ig": "https://www.instagram.com/terribleinc",
+   "bc": "https://txlr.bandcamp.com"
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "bio": {
+   "de": "DJ Terrible ist ein in Berlin lebender DJ und Künstler, der klassische Musik mit elektronischen Klängen verbindet. Er spielt regelmäßig in Berliner Clubs wie Paloma, KaterHolzig und Berghain/Panorama Bar und ist bei der Wiener Downtempo-Reihe Heimlich zu Gast.",
+   "en": "DJ Terrible is a Berlin-based DJ and artist known for blending classical music with electronic sounds. He has played Berlin clubs such as Paloma, KaterHolzig and Berghain/Panorama Bar and appears at Vienna's downtempo series Heimlich."
+  },
+  "src": [
+   "https://de.ra.co/dj/terrible"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "MËX": {
+  "alias": [
+   "m ë x",
+   "MEX_Heimlich"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/meaex"
+  },
+  "genres": [
+   "Downtempo"
+  ],
+  "bio": {
+   "de": "MËX (m ë x) ist DJ im Umfeld der Wiener Downtempo-Reihe Heimlich. Sets von ihm erschienen u. a. von der Fusion (2018–2026), Planet Magika und Lokotanien sowie im Deep House Moscow Podcast.",
+   "en": "MËX (m ë x) is a DJ connected to Vienna's downtempo series Heimlich. His recorded sets include appearances at Fusion Festival (2018–2026), Planet Magika and Lokotanien, as well as the Deep House Moscow podcast."
+  },
+  "sets": [
+   {
+    "t": "Mex (m ë x) @ Fusion Festival 2026 – Palapa Bar",
+    "u": "https://soundcloud.com/meaex/mex-m-e-x-fusion-festival-2"
+   },
+   {
+    "t": "Mex (m ë x) @ Planet Magika 2024 – Magic Island",
+    "u": "https://soundcloud.com/meaex/mex-magika-final-1"
+   },
+   {
+    "t": "Mex (m ë x) @ Lokotanien 2023",
+    "u": "https://soundcloud.com/meaex/mex-m-e-x-lokotanien-2023-casa-utopia-i-leipzig"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/meaex",
+   "https://de.ra.co/events/2382465"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Andreas Buchner": {
+  "img": "https://static.ra.co/images/profiles/andreasbuchner.jpg?dateUpdated=1327618314000",
+  "links": {
+   "ra": "https://ra.co/dj/andreasbuchner",
+   "sc": "https://soundcloud.com/buchner"
+  },
+  "from": {
+   "de": "Landshut, Deutschland (lebt in Wien)",
+   "en": "Landshut, Germany (based in Vienna)"
+  },
+  "labels": [
+   "Schönbrunner Perlen"
+  ],
+  "bio": {
+   "de": "Andreas Buchner, 1989 in Landshut geboren, kam über Bands zur elektronischen Musik und gründete 2007 mit Sebastian Oberst das DJ- und Produzentenkollektiv Four Finger. Seit 2010 lebt er in Wien; als Buchner & Oberst erschien „Today I Feel“ auf Schönbrunner Perlen, 2012 sein Soloalbum „Ascent/Decline“. Seine Musik verbindet House, IDM, Ambient, Jazz und Field Recordings.",
+   "en": "Andreas Buchner, born in 1989 in Landshut, came to electronic music via bands and co-founded the DJ/producer collective Four Finger with Sebastian Oberst in 2007. He has lived in Vienna since 2010; as Buchner & Oberst he released \"Today I Feel\" on Schönbrunner Perlen, followed by his solo album \"Ascent/Decline\" in 2012. His music blends house, IDM, ambient, jazz and field recordings."
+  },
+  "sets": [
+   {
+    "t": "Serenades Podcast #53 – Oberst & Buchner",
+    "u": "https://soundcloud.com/serenades_show/oberst-buchner"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://de.ra.co/dj/andreasbuchner",
+   "https://de.ra.co/dj/andreasbuchner/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Ii-faces": {
+  "img": "https://static.ra.co/images/profiles/square/iifaces.jpg?dateUpdated=1670589631707",
+  "alias": [
+   "II FACES"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/iifaces",
+   "sc": "https://soundcloud.com/iifaces",
+   "ig": "https://www.instagram.com/ii_faces"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "labels": [
+   "Signatune Records",
+   "WHIPPIN",
+   "Bamboleo Records"
+  ],
+  "genres": [
+   "House"
+  ],
+  "bio": {
+   "de": "II Faces ist ein französisches DJ- und Produzentenduo aus Ben Weiss und Saull, das sich auf das Zusammenspiel zweier sich ergänzender Gegensätze beruft. Releases erschienen u. a. auf Signatune Records, WHIPPIN und Bamboleo Records; dazu kommt eine eigene Edit-Serie.",
+   "en": "II Faces is a French DJ and production duo made up of Ben Weiss and Saull, built on the idea of two complementary opposites. Their releases have appeared on labels such as Signatune Records, WHIPPIN and Bamboleo Records, alongside their own edits series."
+  },
+  "src": [
+   "https://ra.co/dj/iifaces"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Dual DeStress": {
+  "img": "https://static.ra.co/images/profiles/square/dualdestress.jpg?dateUpdated=1712865452000",
+  "links": {
+   "ra": "https://ra.co/dj/dualdestress",
+   "sc": "https://soundcloud.com/dualdestress",
+   "ig": "https://www.instagram.com/dualdestress"
+  },
+  "from": {
+   "de": "Ungarn",
+   "en": "Hungary"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Fierce Animal Recordings",
+   "Rubik Records",
+   "Mainground Music",
+   "Reload Records",
+   "Airborne Black",
+   "Red Channel Records",
+   "Black Snake Recordings"
+  ],
+  "bio": {
+   "de": "Dual DeStress ist ein Techno-Produzent und DJ aus Ungarn, der regelmäßig bei der Budapester Reihe Liquid Night spielt. Releases erschienen u. a. auf Airborne Black, Fierce Animal Recordings, Rubik Records und Mainground Music.",
+   "en": "Dual DeStress is a techno producer and DJ from Hungary who regularly plays Budapest's Liquid Night series. Releases have appeared on labels such as Airborne Black, Fierce Animal Recordings, Rubik Records and Mainground Music."
+  },
+  "src": [
+   "https://ra.co/dj/dualdestress",
+   "https://ra.co/events/2036180"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Herbrido": {
+  "img": "https://static.ra.co/images/profiles/square/herbrido.jpg?dateUpdated=1755766740583",
+  "links": {
+   "ra": "https://ra.co/dj/herbrido",
+   "sc": "https://soundcloud.com/herbrido"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Herbrido ist ein Techno-DJ und Produzent, der laut Fazemag zu den besten DJs Deutschlands zählt und u. a. in Los Angeles und Istanbul spielte. Seine Produktionen erschienen auf Labels wie Chlore Records, Frequenza Records und Lakota Records und landeten regelmäßig in den Beatport-Top-100; Amelie Lens spielte einen seiner Tracks in ihrem Tomorrowland-Mix.",
+   "en": "Herbrido is a techno DJ and producer named by Fazemag among Germany's best DJs, with gigs including Los Angeles and Istanbul. His productions have appeared on labels such as Chlore Records, Frequenza Records and Lakota Records, regularly reaching the Beatport Top 100; Amelie Lens played one of his tracks in her Tomorrowland mix."
+  },
+  "src": [
+   "https://de.ra.co/dj/herbrido/biography"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "7circle": {
+  "img": "https://static.ra.co/images/profiles/square/7circle.jpg?dateUpdated=1742562503943",
+  "alias": [
+   "VII Circle"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/7circle",
+   "sc": "https://soundcloud.com/7circledtr",
+   "ig": "https://www.instagram.com/7circle.dtr",
+   "bc": "https://destroytorebuildrecords.bandcamp.com"
+  },
+  "from": {
+   "de": "Italien",
+   "en": "Italy"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Destroy To Rebuild Records",
+   "Pure Hate Trax",
+   "Darkart"
+  ],
+  "bio": {
+   "de": "7CIRCLE ist ein Techno-DJ und Produzent aus Italien und Kopf des Labels Destroy to Rebuild Records. Er produziert emotionalen, rohen Techno, der mit Spannung und Auflösung arbeitet; seine rhythmisch komplexen Sets liefen u. a. bei Boiler Room, Awakenings und Slam Radio.",
+   "en": "7CIRCLE is a techno DJ and producer from Italy and head of the label Destroy to Rebuild Records. He produces emotional, raw techno built on tension and release; his rhythmically complex sets have featured at Boiler Room, Awakenings and Slam Radio."
+  },
+  "src": [
+   "https://ra.co/dj/7circle",
+   "https://ra.co/dj/7circle/biography"
+  ],
+  "infoChk": "2026-11-04"
  }
 };
 
