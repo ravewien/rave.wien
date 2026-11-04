@@ -840,7 +840,8 @@ footer a:hover{color:var(--accent)}
 /* 5 Event-Titel in gut lesbarer Schrift, Pixel-Schrift bleibt für Logo, Überschriften und Uhrzeit */
 .row.tk .ti,.ti{font-family:var(--f-body);font-weight:700;letter-spacing:0;font-size:17px;line-height:1.25}
 /* 7 Location-/Veranstalter-Logo statt Platzhalter */
-.cov.lgc::before{visibility:hidden}
+.cov.lgc::before,.cov.ferr:has(.covlg)::before{visibility:hidden}
+.cov .covfb{display:none}.cov.ferr>img{display:none}.cov.ferr .covfb{display:contents}
 .covlg{position:absolute;top:10px;left:10px;width:60px;height:60px;border-radius:3px;overflow:hidden;background:var(--panel2);box-shadow:0 0 0 1px rgba(255,255,255,.07)}
 .covlg img{position:absolute;inset:8%;width:84%;height:84%;object-fit:contain}
 @container out (min-width:760px){.covlg{top:0;left:0;width:52px;height:52px}}
@@ -1280,7 +1281,9 @@ function evPhase(e){const en=endTime(e);if(NOW>=en)return "done";const st0=new D
 function covLogo(e){if(!coversOn())return "";const cand=[VINFO[e.venue],...(e.coll||[]).map(c=>CINFO[c])].filter(Boolean);
   for(const vi of cand){if(vi.logo&&isLogo(vi.logo)){const f=logoFit(vi.logo);const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:(f&&f.bg)||"";
     return `<span class="covlg"${bg?` style="background:${bg}"`:""}><img src="${esc(vi.logo)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"${f?` style="${f.st}"`:""}></span>`}}return ""}
-function coverHTML(e){if(!(isImg(e.flyer)&&coversOn())){const lg=covLogo(e);if(lg)return `<span class="cov lgc ${evPhase(e)}" aria-hidden="true">${lg}</span>`}return `<span class="cov ${evPhase(e)}" aria-hidden="true"${isImg(e.flyer)&&coversOn()?` data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}"`:""}>${isImg(e.flyer)&&coversOn()?`<img src="${esc(e.flyer)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">`:""}</span>`}
+function coverHTML(e){if(!(isImg(e.flyer)&&coversOn())){const lg=covLogo(e);if(lg)return `<span class="cov lgc ${evPhase(e)}" aria-hidden="true">${lg}</span>`}return `<span class="cov ${evPhase(e)}" aria-hidden="true"${isImg(e.flyer)&&coversOn()?` data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}"`:""}>${isImg(e.flyer)&&coversOn()?`<img src="${esc(e.flyer)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="covfb">${covLogo(e)}</span>`:""}</span>`}
+// Flyer lädt nicht (Link kaputt/gesperrt): stattdessen Logo der Location bzw. des Veranstalters zeigen
+document.addEventListener("error",ev=>{const im=ev.target;if(!im||im.tagName!=="IMG"||im.closest(".covlg"))return;const c=im.closest(".cov");if(!c)return;c.classList.add("ferr");c.removeAttribute("data-flyer")},true);
 document.addEventListener("error",ev=>{const t=ev.target;if(t&&t.tagName==="IMG"&&t.parentNode&&t.parentNode.classList&&(t.parentNode.classList.contains("cov")||t.parentNode.classList.contains("lgt"))){if(t.parentNode.classList.contains("fly")){t.parentNode.remove();return}t.parentNode.removeAttribute("data-flyer");t.remove()}},true);
 let PTOT=0;
 function topH(){return (parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--top2"))||56)+8}
