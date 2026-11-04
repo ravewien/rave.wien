@@ -44457,6 +44457,232 @@ const AR={
    "https://ra.co/events/2157973"
   ],
   "infoChk": "2026-11-04"
+ },
+ "Laurine": {
+  "img": "https://static.ra.co/images/profiles/laurine.jpg?dateUpdated=1787144435867",
+  "links": {
+   "ra": "https://ra.co/dj/laurine",
+   "sc": "https://soundcloud.com/laurine_sl",
+   "ig": "https://www.instagram.com/laurineslowlife",
+   "bc": "https://slowlife.bandcamp.com",
+   "web": "https://www.slowlifemusic.org/"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "labels": [
+   "Slow Life"
+  ],
+  "bio": {
+   "de": "Laurine ist eine in Berlin lebende DJ aus dem Umfeld des Labels und Kollektivs Slow Life. Sie steht für smoothen, eklektischen House und steuerte 2021 den RA-Podcast RA.773 bei.",
+   "en": "Laurine is a Berlin-based DJ from the circle of the Slow Life label and collective. She is known for smooth, eclectic house and contributed RA podcast RA.773 in 2021."
+  },
+  "sets": [
+   {
+    "t": "RA.773 Laurine",
+    "u": "https://ra.co/podcast/773"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/laurine",
+   "https://ra.co/podcast/773"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Reiss": {
+  "img": "https://static.ra.co/images/profiles/square/reiss.jpg?dateUpdated=1463075925090",
+  "links": {
+   "ra": "https://ra.co/dj/reiss",
+   "sc": "https://soundcloud.com/reiss_amsterdam"
+  },
+  "from": {
+   "de": "Amsterdam, Niederlande",
+   "en": "Amsterdam, Netherlands"
+  },
+  "labels": [
+   "VBX Records"
+  ],
+  "bio": {
+   "de": "Reiss (Maurits Reiss) ist ein DJ aus Amsterdam und mit dem Label VBX Records verbunden. Er spielt regelmäßig in Clubs wie BRET, Studio 80, Shelter und Lofi sowie beim Thuishaven.",
+   "en": "Reiss (Maurits Reiss) is a DJ from Amsterdam connected to the label VBX Records. He regularly plays venues such as BRET, Studio 80, Shelter and Lofi as well as Thuishaven."
+  },
+  "src": [
+   "https://ra.co/dj/reiss"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Krawalle und Liebe": {
+  "img": "https://static.ra.co/images/profiles/square/krawalleundliebe.jpg?dateUpdated=1698776424000",
+  "links": {
+   "ra": "https://ra.co/dj/krawalleundliebe",
+   "sc": "https://soundcloud.com/krawalleliebe",
+   "ig": "https://www.instagram.com/krawalle_liebe"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "alias": [
+   "Krawalle & Liebe",
+   "Krawalle"
+  ],
+  "labels": [
+   "KRUG Records",
+   "SCHORLÉ"
+  ],
+  "bio": {
+   "de": "krawalle&liebe ist ein queerfeministisches DJ- und Produzent:innen-Duo aus Berlin. Releases erschienen auf KRUG Records und SCHORLÉ; am häufigsten spielt das Duo im Kater, im Renate und im Mensch Meier.",
+   "en": "krawalle&liebe is a queer-feminist DJ and producer duo from Berlin. Releases have come out on KRUG Records and SCHORLÉ, and the duo most often plays Kater, Renate and Mensch Meier."
+  },
+  "src": [
+   "https://de.ra.co/dj/krawalleundliebe"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Lenia": {
+  "links": {
+   "sc": "https://soundcloud.com/djlenia"
+  },
+  "bio": {
+   "de": "Lenia ist eine DJ aus dem Umfeld von Gassen aus Zucker. Sets auf SoundCloud stammen u. a. von 7 Jahre Halligalli / Journey to Tarab im FLUCC, vom Sisyphos und von der Fusion.",
+   "en": "Lenia is a DJ from the Gassen aus Zucker circle. Her SoundCloud sets include 7 Jahre Halligalli / Journey to Tarab at FLUCC, Sisyphos and Fusion festival."
+  },
+  "sets": [
+   {
+    "t": "Lenia – Herbstmontag im Wintergarten, Sisyphos (28.10.2025)",
+    "u": "https://soundcloud.com/djlenia/lenia-herbstmontag-im-wintergarten-sisyphos-28102025"
+   },
+   {
+    "t": "Lenia – 7 Jahre Halligalli / Journey to Tarab, FLUCC (01.12.23)",
+    "u": "https://soundcloud.com/djlenia/lenia-7jahre-halligalli-journey-to-tarab-011223-flucc"
+   },
+   {
+    "t": "Lenia – Fusion Festival 2022 (Tanzwüste)",
+    "u": "https://soundcloud.com/djlenia/lenia-fusion-festival-2022-tanzwuste"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/djlenia",
+   "https://soundcloud.com/wildsilence-music/diffikast-s02-i-21-by-lenia",
+   "https://soundcloud.com/gassen-aus-zucker/lena-fusion-2016"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Leo Bufera": {
+  "img": "https://static.ra.co/images/profiles/square/leobufera.jpg?dateUpdated=1697043700000",
+  "links": {
+   "ra": "https://ra.co/dj/leobufera"
+  },
+  "from": {
+   "de": "Italien",
+   "en": "Italy"
+  },
+  "labels": [
+   "DSR Digital",
+   "Carbone Records",
+   "SYNDEN",
+   "ART.1.43 RECORDS",
+   "Undershit Records"
+  ],
+  "bio": {
+   "de": "Leo Bufera (Leonardo Gabrielli) ist ein italienischer DJ und Produzent, der vor allem in Mailand spielt. Releases erschienen u. a. auf DSR Digital, Carbone Records und SYNDEN; Auftritte führten ihn u. a. zu Verknipt in Amsterdam und nach Madrid, Warschau und Malta.",
+   "en": "Leo Bufera (Leonardo Gabrielli) is an Italian DJ and producer who mostly plays in Milan. Releases have come out on DSR Digital, Carbone Records and SYNDEN, and he has played Verknipt in Amsterdam as well as Madrid, Warsaw and Malta."
+  },
+  "src": [
+   "https://ra.co/dj/leobufera",
+   "https://ra.co/events/1551171"
+  ],
+  "infoChk": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Andrew Cairns": {
+  "img": "https://static.ra.co/images/profiles/square/andrewcairns.jpg?dateUpdated=1752670458787",
+  "links": {
+   "ra": "https://ra.co/dj/andrewcairns",
+   "sc": "https://soundcloud.com/andrewcairnsss",
+   "ig": "https://www.instagram.com/andrewcairnsss"
+  },
+  "from": {
+   "de": "Belfast, Nordirland",
+   "en": "Belfast, Northern Ireland"
+  },
+  "alias": [
+   "DREW"
+  ],
+  "bio": {
+   "de": "Andrew Cairns ist ein DJ und Produzent aus Belfast, der in der Rave-Szene für Aufsehen sorgt. Am häufigsten spielt er im Telegraph Building in Belfast, im Classic Grand in Glasgow und im Club21.",
+   "en": "Andrew Cairns is a Belfast-based DJ and producer making waves in the rave scene. He most often plays The Telegraph Building in Belfast, The Classic Grand in Glasgow and Club21."
+  },
+  "src": [
+   "https://ra.co/dj/andrewcairns"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "1200 Micrograms": {
+  "alias": [
+   "1200 Mics"
+  ],
+  "bio": {
+   "de": "1200 Micrograms ist ein Psytrance-Projekt, dessen gleichnamiges Debütalbum am 30. September 2002 auf dem Londoner Label TIP Records erschien. Bei DJ-Sets unter diesem Namen steht u. a. DJ Chicago hinter den Decks.",
+   "en": "1200 Micrograms is a psytrance project whose self-titled debut album was released on 30 September 2002 on London label TIP Records. DJ sets under the name are played by, among others, DJ Chicago."
+  },
+  "labels": [
+   "TIP Records"
+  ],
+  "genres": [
+   "Psytrance"
+  ],
+  "src": [
+   "https://tiprecords.bandcamp.com/album/1200-micrograms",
+   "https://ra.co/events/1404152",
+   "https://ra.co/events/1838161"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Havik": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Xenia": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Sharp": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "MDDB": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Why?Not": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Billy MPEG": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Rudi Rolliru": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "SoDa": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
  }
 };
 
