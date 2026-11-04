@@ -33766,23 +33766,23 @@ const AR={
    "ig": "https://www.instagram.com/cj__bambi"
   },
   "from": {
-   "de": "Wien",
-   "en": "Vienna"
+   "de": "Wien, Österreich",
+   "en": "Vienna, Austria"
   },
   "genres": [
    "House",
    "Disco"
   ],
   "bio": {
-   "de": "CJ Bambi ist fester Teil der Wiener Service-Crew und bekannt für ihre eigenwillige Interpretation von House und Disco.",
-   "en": "CJ Bambi is a staple of Vienna's Service crew, known for her wicked take on house and disco."
+   "de": "CJ Bambi ist eine Wiener DJ und fester Bestandteil der Wiener Crew Service. Sie ist bekannt für ihre eigenwillige Interpretation von House und Disco.",
+   "en": "CJ Bambi is a Vienna-based DJ and a staple of the Vienna crew Service. She is known for her wicked take on house and disco."
   },
   "src": [
-   "https://ra.co/events/2234493",
-   "https://soundcloud.com/bambi_vienna"
+   "https://ra.co/events/2234493"
   ],
   "noImg": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
  },
  "Philipp Gauf": {
   "img": "https://static.ra.co/images/profiles/square/philippgauf.jpg?dateUpdated=1707913713000",
@@ -35445,6 +35445,1384 @@ const AR={
    "https://ra.co/dj/julietfox"
   ],
   "infoChk": "2026-11-04"
+ },
+ "Nat Suprise": {
+  "img": "https://static.ra.co/images/profiles/square/natsuprise.jpg?dateUpdated=1747923963973",
+  "links": {
+   "ra": "https://ra.co/dj/natsuprise",
+   "sc": "https://soundcloud.com/natsuprise",
+   "ig": "https://www.instagram.com/natsuprise"
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "bio": {
+   "de": "Nat SuPrise ist eine in Berlin ansässige DJ, die seit 2016 in der Szene aktiv ist. Ihr Sound bewegt sich zwischen Techno, Tech House und Elektro, unter anderem mit Live-Sets aus dem Berliner Sisyphos. Bei RA ist sie mit dem Label Natura Viva verbunden.",
+   "en": "Nat SuPrise is a Berlin-based DJ who has been active in the scene since 2016. Her sound moves between techno, tech house and electro, including live sets recorded at Berlin's Sisyphos. On RA she is associated with the label Natura Viva."
+  },
+  "labels": [
+   "Natura Viva"
+  ],
+  "genres": [
+   "Techno",
+   "Tech House"
+  ],
+  "real": "Natalia Bobrich",
+  "sets": [
+   {
+    "t": "Crazy Techno Rave @ Sisyphos Berlin / Hammahalle live 05.06.2022",
+    "u": "https://soundcloud.com/natsuprise/sisyphos-hammahalle"
+   },
+   {
+    "t": "Disco & Chill @ Bodega @ Rummelsbucht Berlin",
+    "u": "https://soundcloud.com/natsuprise/bodega-rummelsbucht"
+   },
+   {
+    "t": "Nat Suprise - Microglobe Collective Launch Mix",
+    "u": "https://soundcloud.com/microglobe-collective/nat-suprise-microglobe-collective-launch-mix"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/natsuprise",
+   "https://soundcloud.com/natsuprise/sisyphos-hammahalle"
+  ]
+ },
+ "Yansen": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Kon:Stil": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Carlo Kalu": {
+  "img": "https://static.ra.co/images/profiles/square/carlokalu.jpg?dateUpdated=1721933537000",
+  "links": {
+   "ra": "https://ra.co/dj/carlokalu",
+   "sc": "https://soundcloud.com/carlokalu",
+   "bc": "https://carlokalu.bandcamp.com",
+   "ig": "https://www.instagram.com/carlokalumusic"
+  },
+  "from": {
+   "de": "Bremen, Deutschland",
+   "en": "Bremen, Germany"
+  },
+  "bio": {
+   "de": "carlo kalu ist ein Hard-Techno-DJ und Produzent aus Bremen, dessen energiegeladener Sound Einflüsse aus Hands-up, House und frühem Hardstyle aufnimmt. In Bremen spielte er mit dem Kollektiv CCR und tritt in Clubs und auf Festivals in Deutschland und Europa auf, in Wien regelmäßig im Das Werk. Releases erschienen u. a. auf WAXXA, MOTZ, MELTDOWN, H33 Records, Tx Records, MASS und The Finest Techno.",
+   "en": "carlo kalu is a hard techno DJ and producer from Bremen whose high-energy sound draws on hands-up, house and early hardstyle. In Bremen he played with the collective CCR, and he performs at clubs and festivals across Germany and Europe, regularly at Das Werk in Vienna. His releases have come out on WAXXA, MOTZ, MELTDOWN, H33 Records, Tx Records, MASS and The Finest Techno, among others."
+  },
+  "labels": [
+   "WAXXA",
+   "MOTZ",
+   "MELTDOWN",
+   "H33 Records",
+   "Tx Records",
+   "MASS",
+   "Dreizehn Schallplatten",
+   "The Finest Techno"
+  ],
+  "genres": [
+   "Hard Techno"
+  ],
+  "sets": [
+   {
+    "t": "CARLO KALU @ Tracks Insanas Podcast 304",
+    "u": "https://soundcloud.com/tracksinsanas/carlo-kalu-tracks-insanas-podcast-304-germany"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://de.ra.co/dj/carlokalu",
+   "https://de.ra.co/dj/carlokalu/biography"
+  ]
+ },
+ "Themba": {
+  "img": "https://static.ra.co/images/profiles/square/themba.jpg?dateUpdated=1757583689000",
+  "links": {
+   "ra": "https://ra.co/dj/themba",
+   "sc": "https://soundcloud.com/iamthemba",
+   "ig": "https://www.instagram.com/iam.themba",
+   "web": "https://iamthemba.africa"
+  },
+  "from": {
+   "de": "Johannesburg, Südafrika",
+   "en": "Johannesburg, South Africa"
+  },
+  "bio": {
+   "de": "THEMBA stammt aus Johannesburg, Südafrika, und verbindet House und Techno mit Einflüssen seines afrikanischen Erbes. Seit seinem Debüt 2018 spielte er u. a. bei Hï Ibiza, Music On im Pacha Ibiza, im Phantom Paris und bei Untold. Zu seinen Releases zählen \"Disappear\" mit Nico de Andrea und Tasan sowie Remixe für Vintage Culture und Bob Sinclar; Labels sind u. a. Knee Deep In Sound und REDOLENT.",
+   "en": "THEMBA hails from Johannesburg, South Africa, and fuses house and techno with influences from his African heritage. Since his debut in 2018 he has played Hï Ibiza, Music On at Pacha Ibiza, Phantom in Paris and Untold, among others. His releases include \"Disappear\" with Nico de Andrea and Tasan as well as remixes for Vintage Culture and Bob Sinclar; labels include Knee Deep In Sound and REDOLENT."
+  },
+  "labels": [
+   "Knee Deep In Sound",
+   "REDOLENT",
+   "iVAV Recordings"
+  ],
+  "genres": [
+   "House",
+   "Techno",
+   "Afro House"
+  ],
+  "real": "Themba Nkosi",
+  "sets": [
+   {
+    "t": "Themba Live @ Ushuaïa Ibiza for Pamarama Black Coffee Saturdays",
+    "u": "https://soundcloud.com/iamthemba/themba-live-ushuaia-ibiza-for-pamarama-black-cofee-saturdays"
+   },
+   {
+    "t": "Themba recorded live at Hï Ibiza 2019",
+    "u": "https://soundcloud.com/hiibizaofficial/themba"
+   },
+   {
+    "t": "Themba's Herd In Ibiza",
+    "u": "https://soundcloud.com/iamthemba/thembas-herd-in-ibiza"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/themba",
+   "https://ra.co/dj/themba/biography"
+  ]
+ },
+ "Fadi Mohem": {
+  "img": "https://static.ra.co/images/profiles/square/fadimohem.jpg?dateUpdated=1488986264000",
+  "links": {
+   "ra": "https://ra.co/dj/fadimohem",
+   "sc": "https://soundcloud.com/fadimohem",
+   "bc": "https://fadimohem.bandcamp.com",
+   "ig": "https://www.instagram.com/fadi.mohem"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "Fadi Mohem ist ein Techno-DJ und Produzent aus Deutschland, der vor allem in Berlin, Amsterdam und London spielt. Er veröffentlicht auf Ben Klocks Label Klockworks sowie auf WERK Records, Seilscheibenpfeiler und seinem eigenen Label MOHEM. Er steuerte u. a. RA.842, Dekmantel Mix 491 und einen Klockworks-Podcast bei.",
+   "en": "Fadi Mohem is a techno DJ and producer from Germany who plays mostly in Berlin, Amsterdam and London. He releases on Ben Klock's Klockworks as well as WERK Records, Seilscheibenpfeiler and his own label MOHEM. His mixes include RA.842, Dekmantel Mix 491 and a Klockworks podcast."
+  },
+  "labels": [
+   "Klockworks",
+   "WERK Records",
+   "Seilscheibenpfeiler",
+   "MOHEM",
+   "WSNWG"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "Fadi Mohem b2b Rødhåd 3-hr set – 909 Festival 2024",
+    "u": "https://soundcloud.com/909events/fadi-mohem-b2b-rodhad-3-hr-set-909-festival-2024"
+   },
+   {
+    "t": "Dekmantel Mix 491 - Fadi Mohem",
+    "u": "https://soundcloud.com/dkmntl/dekmantel-mix-491-fadi-mohem"
+   },
+   {
+    "t": "Fadi Mohem — HATE Podcast 496",
+    "u": "https://soundcloud.com/hate_music/fadi-mohem-hate-podcast-496"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/fadimohem",
+   "https://ra.co/podcast/842"
+  ]
+ },
+ "Grace Dahl": {
+  "img": "https://static.ra.co/images/profiles/square/gracedahl.jpg?dateUpdated=1773937114897",
+  "links": {
+   "ra": "https://ra.co/dj/gracedahl",
+   "sc": "https://soundcloud.com/gracedahl",
+   "ig": "https://www.instagram.com/gracedahldj",
+   "web": "https://linktree.com/gracedahl"
+  },
+  "from": {
+   "de": "Amsterdam, Niederlande",
+   "en": "Amsterdam, Netherlands"
+  },
+  "bio": {
+   "de": "Grace Dahl wurde in Budapest geboren, wuchs teils in Spanien auf und startete ihre Karriere in Amsterdam, wo sie Resident der Vault Sessions wurde. Sie steht für emotionalen, energiegeladenen Techno mit wuchtiger Percussion und dichten Klangflächen. Releases erschienen u. a. auf Exhale, Khazad Records und Frenzy Recordings; 2024 gründete sie ihr eigenes Label Serial Disc Touchers (SDT Recordings).",
+   "en": "Grace Dahl was born in Budapest, spent part of her childhood in Spain and launched her career in Amsterdam, where she became a resident of Vault Sessions. She is known for emotive, high-energy techno built on weighty percussion and immersive soundscapes. She has released on Exhale, Khazad Records and Frenzy Recordings, and in 2024 launched her own label Serial Disc Touchers (SDT Recordings)."
+  },
+  "labels": [
+   "Serial Disc Touchers",
+   "Exhale",
+   "Khazad Records",
+   "Frenzy Recordings",
+   "Voxnox Records"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "Grace Dahl at Glitch Berlin RSO 2024",
+    "u": "https://soundcloud.com/glitchfestival/gracedahlglitchberlin"
+   },
+   {
+    "t": "BCCO Mix Series 264: Grace Dahl",
+    "u": "https://soundcloud.com/bcco/grace-dahl"
+   },
+   {
+    "t": "PLUSCAST #041 - Grace Dahl",
+    "u": "https://soundcloud.com/plusagency/grace_dahl"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/gracedahl",
+   "https://ra.co/dj/gracedahl/biography"
+  ]
+ },
+ "Myselor": {
+  "links": {
+   "sc": "https://soundcloud.com/myselor"
+  },
+  "from": {
+   "de": "Basel, Schweiz",
+   "en": "Basel, Switzerland"
+  },
+  "bio": {
+   "de": "Myselor ist ein Drum-and-Bass-Produzent und DJ, der in Griechenland aufwuchs und 2019 nach Mitteleuropa zog; heute lebt er in Basel. Er veröffentlichte auf Blackout Music, Cause4Concern, SOM und Red Light Records und gewann einen Remix-Wettbewerb von Black Sun Empire.",
+   "en": "Myselor is a drum and bass producer and DJ who grew up in Greece and moved to Central Europe in 2019; he now lives in Basel. He has released on Blackout Music, Cause4Concern, SOM and Red Light Records and won a remix competition hosted by Black Sun Empire."
+  },
+  "labels": [
+   "Blackout Music",
+   "Cause4Concern",
+   "SOM",
+   "Red Light Records"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "src": [
+   "https://ra.co/events/2025913",
+   "https://soundcloud.com/myselor/tracks"
+  ]
+ },
+ "Division": {
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Division ist ein österreichischer Drum-and-Bass-Produzent und DJ mit tiefem Underground-Sound. Er veröffentlichte auf Dispatch, Overview, Delta9 und Plab Recordings und betreibt sein eigenes Label Deep Within Recordings.",
+   "en": "Division is an Austrian drum and bass producer and DJ with a deep underground sound. He has released on Dispatch, Overview, Delta9 and Plab Recordings and runs his own label, Deep Within Recordings."
+  },
+  "labels": [
+   "Deep Within Recordings",
+   "Dispatch",
+   "Overview",
+   "Delta9",
+   "Plab Recordings"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "src": [
+   "https://ra.co/events/2025913"
+  ]
+ },
+ "Kepler": {
+  "img": "https://static.ra.co/images/profiles/Kepler.jpg?dateUpdated=1763115517723",
+  "links": {
+   "ra": "https://ra.co/dj/Kepler",
+   "sc": "https://soundcloud.com/keplerleeds",
+   "bc": "https://kepleruk.bandcamp.com",
+   "ig": "https://www.instagram.com/kepler__uk"
+  },
+  "from": {
+   "de": "Nordengland, Vereinigtes Königreich",
+   "en": "North of England, United Kingdom"
+  },
+  "bio": {
+   "de": "Kepler ist ein DJ und Produzent aus dem Norden Englands (Leeds), der sich auf Underground-Electronic-Music spezialisiert hat. Er veröffentlichte u. a. auf Fuse London, Constant Sound und Homegrown Label und spielt regelmäßig in Leeds, London und auf Ibiza.",
+   "en": "Kepler is a DJ and producer from the North of England (Leeds) specialising in underground electronic music. He has released on Fuse London, Constant Sound and Homegrown Label, among others, and plays regularly in Leeds, London and Ibiza."
+  },
+  "labels": [
+   "Fuse London",
+   "Constant Sound",
+   "Homegrown Label",
+   "Instinct",
+   "Up The Stuss"
+  ],
+  "alias": [
+   "0113",
+   "Relpek"
+  ],
+  "real": "Matt Farrow",
+  "sets": [
+   {
+    "t": "Kepler - Live @ HÖR, Berlin (17/07/25)",
+    "u": "https://soundcloud.com/keplerleeds/kepler-live-hor-berlin-170725"
+   },
+   {
+    "t": "Kepler - Live From SASH Breakfast @ Home, Sydney (25/04/22)",
+    "u": "https://soundcloud.com/keplerleeds/kepler-live-from-sash-breakfast-home-sydney-250422"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/Kepler"
+  ]
+ },
+ "Breger": {
+  "img": "https://static.ra.co/images/profiles/breger.jpg?dateUpdated=1346953076807",
+  "links": {
+   "ra": "https://ra.co/dj/breger",
+   "sc": "https://soundcloud.com/breger",
+   "bc": "https://breger.bandcamp.com",
+   "ig": "https://www.instagram.com/breger_music"
+  },
+  "from": {
+   "de": "Goa, Indien (geboren in Deutschland)",
+   "en": "Goa, India (born in Germany)"
+  },
+  "bio": {
+   "de": "Breger ist ein in Deutschland geborener, in Goa lebender DJ und Produzent, der seit rund 15 Jahren die Underground-Kultur unterstützt. Er ist Mitgründer des Labels Copycow und des Beatplantation Festivals in Deutschland. Releases erschienen u. a. auf Minimal Force Records, Buena Onda Records, Elektrotribe und Tonkind; Live-Sets spielte er u. a. auf der Fusion.",
+   "en": "Breger is a German-born, Goa-based DJ and producer who has supported underground culture for around 15 years. He co-founded the label Copycow and the Beatplantation festival in Germany. He has released on Minimal Force Records, Buena Onda Records, Elektrotribe and Tonkind, among others, and has played Fusion Festival."
+  },
+  "labels": [
+   "Copycow",
+   "Minimal Force Records",
+   "Buena Onda Records",
+   "Elektrotribe Records",
+   "Tonkind",
+   "Lebensfreude Records"
+  ],
+  "alias": [
+   "Extra Mind",
+   "Falling Cows"
+  ],
+  "sets": [
+   {
+    "t": "Breger @ Fusion Festival [Turmbühne] 2024",
+    "u": "https://soundcloud.com/breger/fusion-2024"
+   },
+   {
+    "t": "Breger Live @ Pandora [House of Chapora] India 2023",
+    "u": "https://soundcloud.com/breger/live-goa-2023"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://es.ra.co/dj/breger",
+   "https://ra.co/events/1988910"
+  ]
+ },
+ "Emi Ömar": {
+  "img": "https://static.ra.co/images/profiles/square/emiomar.jpg?dateUpdated=1709655294000",
+  "links": {
+   "ra": "https://ra.co/dj/emiomar",
+   "sc": "https://soundcloud.com/emi-oemar"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "bio": {
+   "de": "Emi Ömar ist ein französischer Produzent und Live-Act, der sich selbst als begeisterten Klangforscher beschreibt. Seine elektronische Musik wurzelt in Old-School-Stilen und schöpft aus dem musikalischen Hintergrund seiner Familie. Releases erschienen u. a. auf Increase the Groove Records.",
+   "en": "Emi Ömar is a French producer and live act who describes himself as an enthusiastic sound explorer. His electronic music is rooted in old-school styles and draws on his family's musical background. He has released on Increase the Groove Records, among others."
+  },
+  "labels": [
+   "Increase the Groove Records"
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/emiomar"
+  ]
+ },
+ "Black Mirror Park": {
+  "img": "https://static.ra.co/images/profiles/square/blackmirrorpark.jpg?dateUpdated=1785666835873",
+  "links": {
+   "ra": "https://ra.co/dj/blackmirrorpark",
+   "sc": "https://soundcloud.com/blackmirrorpark",
+   "ig": "https://www.instagram.com/blackmirrorpark"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "Black Mirror Park ist ein Techno-Act aus Deutschland, dessen Motto „Techno, but make it fun“ lautet. Releases erschienen u. a. auf Planet Rhythm Records, Front Left Records, KONFLKT, Entourage Concept, RI7MO und Echo Locations. Zu seinen Auftritten zählen Sets auf der Fusion Festival 2023 und 2024.",
+   "en": "Black Mirror Park is a techno act from Germany whose motto is “Techno, but make it fun”. Releases have appeared on Planet Rhythm Records, Front Left Records, KONFLKT, Entourage Concept, RI7MO and Echo Locations, among others. Appearances include sets at Fusion Festival 2023 and 2024."
+  },
+  "labels": [
+   "Planet Rhythm Records",
+   "Front Left Records",
+   "KONFLKT",
+   "Entourage Concept",
+   "RI7MO",
+   "Echo Locations"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "alias": [
+   "Dr. Faustus"
+  ],
+  "sets": [
+   {
+    "t": "Black Mirror Park @ Fusion Festival 2024",
+    "u": "https://soundcloud.com/blackmirrorpark/fusion2024"
+   },
+   {
+    "t": "Black Mirror Park @ Fusion Festival 2023",
+    "u": "https://soundcloud.com/blackmirrorpark/fusion-2023"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://de.ra.co/dj/blackmirrorpark",
+   "https://m.soundcloud.com/blackmirrorpark/fusion2024"
+  ]
+ },
+ "Spray": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Regal": {
+  "img": "https://static.ra.co/images/profiles/square/regal.jpg?dateUpdated=1774250868747",
+  "links": {
+   "ra": "https://ra.co/dj/regal",
+   "sc": "https://soundcloud.com/regalmusic"
+  },
+  "bio": {
+   "de": "Regal zählt laut RA zu den einflussreichsten Techno-Artists und tourt seit über einem Jahrzehnt weltweit. Er ist Resident im Berghain, RSO, Basement NY und KHIDI. Er gründete das Label Involve Records und betreibt heute Backspin Records, inspiriert von Hardgroove und loopigem Techno der frühen 2000er.",
+   "en": "According to RA, Regal is one of techno's most influential artists, touring globally for over a decade. He holds residencies at Berghain, RSO, Basement NY and KHIDI. He founded the label Involve Records and now runs Backspin Records, inspired by early-2000s hardgroove and loopy techno."
+  },
+  "labels": [
+   "Involve Records",
+   "Backspin Records"
+  ],
+  "genres": [
+   "Techno",
+   "Acid Techno",
+   "Hardgroove"
+  ],
+  "sets": [
+   {
+    "t": "Groove Podcast 236 - Regal",
+    "u": "https://soundcloud.com/groove-magazin/groove-podcast-236-regal"
+   },
+   {
+    "t": "KHIDI Podcast NR.16: Regal",
+    "u": "https://soundcloud.com/khidi/khidi-podcast-16-regal"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/regal/biography",
+   "https://ra.co/events/1385377",
+   "https://soundcloud.com/regalmusic/sets/sets"
+  ]
+ },
+ "DJ T-1000": {
+  "img": "https://static.ra.co/images/profiles/djt-1000.jpg?dateUpdated=1570060800000",
+  "links": {
+   "ra": "https://ra.co/dj/djt-1000"
+  },
+  "from": {
+   "de": "Detroit, USA (lebt in Berlin)",
+   "en": "Detroit, USA (based in Berlin)"
+  },
+  "real": "Alan D. Oldham",
+  "alias": [
+   "Alan Oldham",
+   "Signal To Noise Ratio"
+  ],
+  "bio": {
+   "de": "DJ T-1000 ist der in Detroit geborene Alan D. Oldham – Musiker, Labelbetreiber, Remixer, Illustrator und DJ, von Muzik Magazine als „Detroit Techno's Renaissance Man“ bezeichnet. Er gestaltete Artwork für Derrick Mays Transmat, moderierte die Elektronik-Sendung auf WDET und ersetzte Jeff Mills als Tour-DJ von Underground Resistance. Er betreibt die Labels Generator und Pure Sonik und lebt seit 2005 in Berlin; Releases u. a. auf Tresor und BPitch.",
+   "en": "DJ T-1000 is Detroit-born Alan D. Oldham – musician, label owner, remixer, illustrator and DJ, dubbed “Detroit Techno's Renaissance Man” by Muzik Magazine. He created artwork for Derrick May's Transmat, hosted WDET's electronic music show and replaced Jeff Mills as Underground Resistance's touring DJ. He runs the labels Generator and Pure Sonik and has lived in Berlin since 2005, with releases on Tresor and BPitch among others."
+  },
+  "labels": [
+   "Generator",
+   "Pure Sonik",
+   "Tresor",
+   "Djax-Up-Beats",
+   "BPitch"
+  ],
+  "genres": [
+   "Techno",
+   "Detroit Techno"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/djt-1000/biography",
+   "https://soundcloud.com/bpitch-control/sets/bpc331-dj-t1000"
+  ]
+ },
+ "BB Deng": {
+  "img": "https://static.ra.co/images/profiles/square/bbdeng-tw.jpg?dateUpdated=1496317786433",
+  "links": {
+   "ra": "https://ra.co/dj/bbdeng-tw",
+   "sc": "https://soundcloud.com/djbbdeng"
+  },
+  "from": {
+   "de": "Taiwan (lebt in Berlin)",
+   "en": "Taiwan (based in Berlin)"
+  },
+  "bio": {
+   "de": "BB Deng ist eine in Hongkong geborene, in Taiwan aufgewachsene DJ, Produzentin und Labelbetreiberin, die seit 2018 in Berlin lebt. Nach Residencies in Taipeh wurde sie in Peking zu einer der aktivsten Elektronik-Artists Chinas, eröffnete dort den Club The Boat und organisierte rund ein Jahrzehnt lang Events und Festivals. Seit 2015 tourt sie international; 2022 startete sie Ego Riot.",
+   "en": "BB Deng is a Hong Kong-born, Taiwan-raised DJ, producer and label owner who has lived in Berlin since 2018. After residencies in Taipei she became one of China's most active electronic artists in Beijing, where she opened the club The Boat and organised events and festivals for about a decade. She has toured internationally since 2015 and launched Ego Riot in 2022."
+  },
+  "labels": [
+   "Ego Riot"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "BB Deng at Fusion Festival Germany 2023 // Räuber*höhle",
+    "u": "https://soundcloud.com/djbbdeng/bb-deng-at-fusion-festival-2023-rauberinnenhohle"
+   },
+   {
+    "t": "Be Radio Athens podcast with BB Deng (No love radio show)",
+    "u": "https://soundcloud.com/djbbdeng/be-radio-athens-podcast-with-bb-deng"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/bbdeng-tw/biography",
+   "https://soundcloud.com/djbbdeng"
+  ]
+ },
+ "Sublimit": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Incus": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Paolo Ferrara": {
+  "img": "https://static.ra.co/images/profiles/square/PaoloFerrara.jpg?dateUpdated=1751457660783",
+  "links": {
+   "ra": "https://ra.co/dj/PaoloFerrara"
+  },
+  "alias": [
+   "PØLI"
+  ],
+  "bio": {
+   "de": "Paolo Ferrara ist Techno-Produzent und DJ und Gründer von HEX (HEX Techno Movement / HEX Recordings, Barcelona). Seine Musik bewegt sich laut RA zwischen Ordnung und Chaos; zuletzt startete er das Konzept Syrion. Er produziert regelmäßig gemeinsam mit Lorenzo Raganzini und trat auch als PØLI auf.",
+   "en": "Paolo Ferrara is a techno producer and DJ and the founder of HEX (HEX Techno Movement / HEX Recordings, Barcelona). According to RA his music sits between order and chaos; he recently launched the concept Syrion. He regularly produces with Lorenzo Raganzini and has also performed as PØLI."
+  },
+  "labels": [
+   "HEX Recordings"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/PaoloFerrara/biography",
+   "https://ra.co/events/1591447",
+   "https://soundcloud.com/hex_technomovement/hex-phoenix"
+  ]
+ },
+ "Christian AB": {
+  "img": "https://static.ra.co/images/profiles/square/christianab.jpg?dateUpdated=1782980744107",
+  "links": {
+   "ra": "https://ra.co/dj/christianab",
+   "sc": "https://soundcloud.com/christian_ab"
+  },
+  "bio": {
+   "de": "Christian AB ist DJ und Produzent, der House, Techno, Breaks und Electro verbindet und laut RA Teil von Berlins Vinyl-Community ist. Releases erschienen auf Faith Beat und Timeless; sein Album „The Nu Life“ wurde von RA rezensiert. Er lieferte u. a. den RA-Podcast RA.1045.",
+   "en": "Christian AB is a DJ and producer blending house, techno, breaks and electro, described by RA as part of Berlin's vinyl-loving community. He has released on Faith Beat and Timeless; his album “The Nu Life” was reviewed by RA. He also recorded RA podcast RA.1045."
+  },
+  "labels": [
+   "Faith Beat",
+   "Timeless"
+  ],
+  "genres": [
+   "House",
+   "Techno",
+   "Breaks",
+   "Electro"
+  ],
+  "sets": [
+   {
+    "t": "RA.1045 Christian AB",
+    "u": "https://soundcloud.com/resident-advisor/ra-1046-christian-ab"
+   },
+   {
+    "t": "Crack Mix 584: Christian AB",
+    "u": "https://soundcloud.com/crackmagazine/crack-mix-584-christian-ab"
+   },
+   {
+    "t": "Recorded at Houghton - Christian AB (2024)",
+    "u": "https://soundcloud.com/houghton-festival/recorded-at-houghton-christian"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/christianab/biography",
+   "https://ra.co/podcast/1065",
+   "https://ra.co/reviews/36161"
+  ]
+ },
+ "Bondi": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Temple Tears": {
+  "img": "https://static.ra.co/images/profiles/square/templetears.jpg?dateUpdated=1624536310000",
+  "links": {
+   "ra": "https://ra.co/dj/templetears",
+   "sc": "https://soundcloud.com/temple-tears",
+   "ig": "https://www.instagram.com/templetears"
+  },
+  "from": {
+   "de": "Frankreich (lebt in Deutschland)",
+   "en": "France (based in Germany)"
+  },
+  "bio": {
+   "de": "Temple Tears ist ein in Frankreich geborener, in Deutschland lebender DJ und Produzent. Releases erschienen u. a. auf Stil vor Talent, Katermukke, Akumandra und Tipping Point sowie bei Rebellion der Träumer. Auftritte u. a. bei Bucht der Träumer 2025 und dem Soul Tribe Festival 2024.",
+   "en": "Temple Tears is a France-born DJ and producer based in Germany. Releases have appeared on Stil vor Talent, Katermukke, Akumandra and Tipping Point, as well as Rebellion der Träumer. Appearances include Bucht der Träumer 2025 and Soul Tribe Festival 2024."
+  },
+  "labels": [
+   "Stil vor Talent",
+   "Katermukke",
+   "Akumandra",
+   "Tipping Point"
+  ],
+  "sets": [
+   {
+    "t": "Temple Tears @ Bucht der Träumer 2025 / Unterholz",
+    "u": "https://soundcloud.com/temple-tears/bucht-der-traumer-2025"
+   },
+   {
+    "t": "KataHaifisch Podcast 212 - Temple Tears",
+    "u": "https://soundcloud.com/katahaifisch/katahaifisch-podcast-212-temple-tears"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/templetears",
+   "https://soundcloud.com/temple-tears/bucht-der-traumer-2025"
+  ]
+ },
+ "Ouhana": {
+  "links": {
+   "sc": "https://soundcloud.com/ouhana"
+  },
+  "bio": {
+   "de": "Ouhana ist ein DJ- und Produktionsprojekt mit Releases auf Talpa Rec. (EP „Levaa“) und Magician On Duty („Nightwalker“). Auftritte u. a. bei Mystic Tales im Klunkerkranich und Beate Barfuß in Berlin.",
+   "en": "Ouhana is a DJ and production project with releases on Talpa Rec. (the “Levaa” EP) and Magician On Duty (“Nightwalker”). Appearances include Mystic Tales at Klunkerkranich and Beate Barfuß in Berlin."
+  },
+  "labels": [
+   "Talpa Rec.",
+   "Magician On Duty"
+  ],
+  "sets": [
+   {
+    "t": "Ouhana @ Wanndacircus",
+    "u": "https://soundcloud.com/ouhana/ouhanawandazirkus"
+   },
+   {
+    "t": "Ouhana @ Dimension (NZ)",
+    "u": "https://soundcloud.com/ouhana/ouhana-dimension-nz"
+   },
+   {
+    "t": "Ouhana @ Ketoga Odonien",
+    "u": "https://soundcloud.com/ouhana/ouhana-ketoga-odonien"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/ouhana/ouhanawandazirkus",
+   "https://ra.co/events/1735942",
+   "https://es-mx.ra.co/events/1575083"
+  ]
+ },
+ "Psycholyse": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "UHD": {
+  "img": "https://static.ra.co/images/profiles/square/uhd-ge.jpg?dateUpdated=1705337409000",
+  "links": {
+   "ra": "https://ra.co/dj/uhd-ge"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "TAUBE RECORDS"
+  ],
+  "bio": {
+   "de": "UHD ist ein DJ aus Deutschland, der vor allem in Berlin auflegt, etwa im Humboldthain Club und im Studio 1111. Auf Resident Advisor ist UHD mit TAUBE RECORDS verbunden und spielte u. a. beim Trägertal Festival und beim Pangea Festival.",
+   "en": "UHD is a DJ from Germany who mostly plays in Berlin, including Humboldthain Club and Studio 1111. On Resident Advisor UHD is linked to TAUBE RECORDS and has played Trägertal Festival and Pangea Festival, among others."
+  },
+  "src": [
+   "https://de.ra.co/dj/uhd-ge",
+   "https://de.ra.co/events/1999601"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "ALIS.": {
+  "img": "https://static.ra.co/images/profiles/square/alis-de.jpg?dateUpdated=1688471087000",
+  "links": {
+   "ra": "https://ra.co/dj/alis-de",
+   "sc": "https://soundcloud.com/alisxlis",
+   "ig": "https://www.instagram.com/alisxlis"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "real": "Alisa Chepel",
+  "bio": {
+   "de": "ALIS. (Alisa Chepel) ist eine DJ aus Deutschland, die vor allem in Berlin auflegt, außerdem in Köln, Brüssel, Kyjiw und Madrid. Sie spielte u. a. im Tresor (New Faces) und bei Berlin Beats im Hamburger Bahnhof und ist in Podcast-Reihen wie Intercell und FrenzyPodcast vertreten.",
+   "en": "ALIS. (Alisa Chepel) is a DJ from Germany who mainly plays in Berlin as well as Cologne, Brussels, Kyiv and Madrid. She has played Tresor (New Faces) and Berlin Beats at Hamburger Bahnhof, and has contributed to podcast series such as Intercell and FrenzyPodcast."
+  },
+  "sets": [
+   {
+    "t": "ALIS. @ Berlin Beats // Hamburger Bahnhof // 24.08.2024",
+    "u": "https://soundcloud.com/alisxlis/alis-berlin-beats-hamburger-bahnhof-24082024"
+   },
+   {
+    "t": "ALIS. @ Tresor / live recording (New Faces, 10.05.2023)",
+    "u": "https://soundcloud.com/alisxlis/alis-tresor-new-faces-10052023"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://de.ra.co/dj/alis-de",
+   "https://de.ra.co/events/1999601",
+   "https://soundcloud.com/alisxlis"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Bitschu Batschu": {
+  "img": "https://static.ra.co/images/profiles/square/bitschubatschu.jpg?dateUpdated=1789639486683",
+  "links": {
+   "ra": "https://ra.co/dj/bitschubatschu",
+   "sc": "https://soundcloud.com/bitschubatschu",
+   "ig": "https://www.instagram.com/bitschubatschu",
+   "bc": "https://bitschubatschu.bandcamp.com",
+   "web": "https://bitschubatschu.eu"
+  },
+  "from": {
+   "de": "Wien, Österreich",
+   "en": "Vienna, Austria"
+  },
+  "real": "Elias",
+  "genres": [
+   "Trance",
+   "Hands Up"
+  ],
+  "bio": {
+   "de": "Bitschu Batschu ist ein DJ und Produzent aus Wien, der Trance und Hands Up der frühen 2000er mit modernem Club-Sound verbindet. Seine Tracks setzen auf emotionale Melodien, treibende Basslines und eingängige Vocals; mehrere davon haben über eine Million Streams. Er spielte u. a. bei der DREAM-DJ-TEAM-Albumtour, bei Polyamor und bei Kein Sonntag Ohne Techno.",
+   "en": "Bitschu Batschu is a DJ and producer from Vienna who blends early-2000s trance and hands up with a modern club sound. His tracks feature emotional melodies, driving basslines and catchy vocals, several of them passing one million streams. He has played the DREAM DJ TEAM album tour, Polyamor and Kein Sonntag Ohne Techno, among others."
+  },
+  "sets": [
+   {
+    "t": "Fridget Spinner 005: Bitschu Batschu (Polyamor Records)",
+    "u": "https://soundcloud.com/polyamor-berlin/fridget-spinner-005-bitschu-batschu"
+   },
+   {
+    "t": "#008 Bitschu Batschu at FLUGMODUS",
+    "u": "https://soundcloud.com/flugmodus/bitschu-batschu-at-flugmodus"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/bitschubatschu/biography",
+   "https://de.ra.co/dj/bitschubatschu",
+   "https://de.ra.co/events/1999601",
+   "https://soundcloud.com/bitschubatschu"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Johann Haidin": {
+  "alias": [
+   "Johann Haidin – deep",
+   "Johannes Haidin"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/johanneshaidin"
+  },
+  "genres": [
+   "Deep Techno",
+   "Hypnotic Techno"
+  ],
+  "bio": {
+   "de": "Johannes Haidin ist ein Techno-DJ und -Produzent aus der Wiener Szene, der mit der Reihe deep cut für deep & hypnotic Techno im Kramladen und im FLUCC steht. Er ist mit dem Wiener Lichtbogen-Umfeld (LichtbogenMusik „Wiener Audio Spuren“) verbunden, wo Tracks wie „Schwarze Seelen“ erschienen.",
+   "en": "Johannes Haidin is a techno DJ and producer from the Vienna scene, known for the deep cut series of deep and hypnotic techno at Kramladen and FLUCC. He is connected to Vienna's Lichtbogen circle (LichtbogenMusik \"Wiener Audio Spuren\"), which has put out tracks such as \"Schwarze Seelen\"."
+  },
+  "sets": [
+   {
+    "t": "Johannes Haidin & G.error im Lichtbogen",
+    "u": "https://soundcloud.com/lichtbogenmusik/johannes-haidin-gerror"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "noImg": "2026-11-04",
+  "src": [
+   "https://de.ra.co/events/2007253",
+   "https://ra.co/events/2113405",
+   "https://soundcloud.com/johanneshaidin",
+   "https://soundcloud.com/lichtbogenmusik"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "The Caracal Project": {
+  "img": "https://static.ra.co/images/profiles/square/thecaracalprojectfr.jpg?dateUpdated=1719335412000",
+  "links": {
+   "ra": "https://ra.co/dj/thecaracalprojectfr",
+   "sc": "https://soundcloud.com/thecaracalproject"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "real": "Félix Burnod",
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Hospital Records",
+   "Critical Music",
+   "Blackout",
+   "Neosignal"
+  ],
+  "bio": {
+   "de": "The Caracal Project ist ein Drum-&-Bass-Projekt aus Frankreich, 2017 als Duo von Félix Burnod und Maxime Engel gestartet. Seit Engels Ausstieg im Februar 2019 ist es das Soloprojekt von Félix Burnod. Releases erschienen u. a. auf Hospital Records, Critical Music, Blackout und Neosignal; mit IMANU und Buunshin tritt er als DE_VERTE auf.",
+   "en": "The Caracal Project is a drum & bass project from France, started in 2017 as a duo of Félix Burnod and Maxime Engel. Since Engel left in February 2019 it has been Félix Burnod's solo project. Releases have come out on Hospital Records, Critical Music, Blackout and Neosignal, and he performs with IMANU and Buunshin as DE_VERTE."
+  },
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/thecaracalprojectfr",
+   "https://ra.co/dj/thecaracalprojectfr/biography",
+   "https://de.ra.co/events/2074258"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "NXXT": {
+  "genres": [
+   "Hard Groove",
+   "Trance",
+   "Hard Techno"
+  ],
+  "bio": {
+   "de": "NXXT (NXXT KOLLEKTIV) ist ein Kollektiv, das in Berlin eigene Showcases veranstaltet, etwa im Lokschuppen Berlin. Der Sound reicht von Hard-Groove und Trance bis Hard-Techno.",
+   "en": "NXXT (NXXT KOLLEKTIV) is a collective that hosts its own showcases in Berlin, for example at Lokschuppen Berlin. Its sound ranges from hard groove and trance to hard techno."
+  },
+  "noImg": "2026-11-04",
+  "src": [
+   "https://ra.co/events/1927986",
+   "https://ra.co/events/2249697"
+  ],
+  "infoChk": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Anetha": {
+  "img": "https://static.ra.co/images/profiles/square/anetha.jpg?dateUpdated=1788773904053",
+  "links": {
+   "ra": "https://ra.co/dj/anetha",
+   "sc": "https://soundcloud.com/anethamusic",
+   "ig": "https://www.instagram.com/anetha_music",
+   "bc": "https://mamatoldaya.bandcamp.com",
+   "web": "https://biglink.to/anetha"
+  },
+  "from": {
+   "de": "Bordeaux, Frankreich",
+   "en": "Bordeaux, France"
+  },
+  "genres": [
+   "Techno",
+   "Trance",
+   "Experimental"
+  ],
+  "labels": [
+   "Mama Told Ya",
+   "Fané.e",
+   "Blocaus",
+   "Work Them",
+   "Anagram",
+   "OAKS"
+  ],
+  "bio": {
+   "de": "Anetha ist eine französische DJ, Produzentin und Labelbetreiberin aus Bordeaux mit Architektur-Hintergrund, die Techno, Trance und Experimentelles spielt. 2012 gründete sie Label und Partyreihe Blocaus mit, 2019 ihr Label Mama Told Ya, auf dem auch ihr Album erschien, und 2020 die Agentur Mama loves ya. 2024 spielte sie bei der Abschlussfeier der Paralympics in Paris, 2025 startete sie die AV-Show EXHIBIT.",
+   "en": "Anetha is a French DJ, producer and label head from Bordeaux with a background in architecture, playing techno, trance and experimental music. She co-founded the label and party series Blocaus in 2012, launched her label Mama Told Ya in 2019 (which released her album) and the agency Mama loves ya in 2020. In 2024 she played the Paris Paralympics closing ceremony and in 2025 launched the AV show EXHIBIT."
+  },
+  "sets": [
+   {
+    "t": "RA Live – Anetha – Pitch Music & Arts 2023",
+    "u": "https://soundcloud.com/resident-advisor/120323-anetha-pitch-music-arts-2023"
+   },
+   {
+    "t": "RA.865 Anetha",
+    "u": "https://soundcloud.com/resident-advisor/ra865-anetha"
+   },
+   {
+    "t": "Anetha Boiler Room Amsterdam DJ Set",
+    "u": "https://soundcloud.com/platform/anetha"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/anetha",
+   "https://ra.co/dj/anetha/biography",
+   "https://soundcloud.com/anethamusic"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "AnD": {
+  "img": "https://static.ra.co/images/profiles/square/and.jpg?dateUpdated=1641992113000",
+  "links": {
+   "ra": "https://ra.co/dj/and",
+   "sc": "https://soundcloud.com/andmusik",
+   "web": "https://andmusik.tumblr.com/"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Perc Trax",
+   "Electric Deluxe",
+   "Ann Aimee",
+   "Frozen Border",
+   "Horizontal Ground",
+   "Project Squared",
+   "Hidden Hawaii LTD",
+   "Reloading Records",
+   "Inner Surface",
+   "Earwiggle"
+  ],
+  "bio": {
+   "de": "AnD ist ein britisches Techno-Duo, das DJ-Sets, Live-Sets und All-Night-Long-Sets spielt. Releases erschienen u. a. auf Perc Trax, Electric Deluxe, Frozen Border und dem eigenen Label AnD; das Duo steuerte auch den RA-Podcast RA.398 bei.",
+   "en": "AnD are a British techno duo playing DJ sets, live sets and all-night-long sets. Their releases have come out on Perc Trax, Electric Deluxe, Frozen Border and their own AnD label, and they recorded RA podcast RA.398."
+  },
+  "sets": [
+   {
+    "t": "Telekom Electronic Beats Radio Mix – AnD",
+    "u": "https://soundcloud.com/andmusik/telekom-electronic-beats-radio-mix-and"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/and",
+   "https://ra.co/podcast/398",
+   "https://soundcloud.com/andmusik"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Blazin' Bomzai": {
+  "links": {
+   "sc": "https://soundcloud.com/blazinbomzai"
+  },
+  "genres": [
+   "Acid Tekno"
+  ],
+  "labels": [
+   "303Breakstreet"
+  ],
+  "bio": {
+   "de": "Blazin' Bomzai ist ein Acid-Tekno-DJ und -Produzent mit Releases auf 303Breakstreet, darunter „Hamelin's Flute“ und „Acid Stamp“, sowie Kollaborationen mit Exit:World. Er spielt international auf Tekno- und Acid-Events, etwa bei RAVETEK in Krakau.",
+   "en": "Blazin' Bomzai is an acid tekno DJ and producer with releases on 303Breakstreet, including \"Hamelin's Flute\" and \"Acid Stamp\", plus collaborations with Exit:World. He plays tekno and acid events internationally, for example RAVETEK in Krakow."
+  },
+  "sets": [
+   {
+    "t": "Blazin' Bomzai – Underground Faces Podcast #035",
+    "u": "https://soundcloud.com/tehran_underground/blazin-bomzai-underground-faces-podcast-035"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "noImg": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/blazinbomzai",
+   "https://fr.ra.co/events/2434917"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "S.b.s": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Martin Mind": {
+  "links": {
+   "sc": "https://soundcloud.com/martin_mind_official"
+  },
+  "labels": [
+   "Lelantus Records",
+   "Flauschig Records"
+  ],
+  "bio": {
+   "de": "Martin Mind ist ein DJ und Produzent aus dem Umfeld von Lelantus Records, wo u. a. „The Impact“ mit Justin Cowley erschien; ein weiterer Release („Metro“) kam auf Flauschig Records. Er spielt bei Lelantus-Events, etwa B2B mit Luca Belotti bei Die Rakete x Lelantus und mit Unseen. beim ADE 2023.",
+   "en": "Martin Mind is a DJ and producer from the Lelantus Records circle, which released \"The Impact\" with Justin Cowley; another release (\"Metro\") came out on Flauschig Records. He plays Lelantus events, including a B2B with Luca Belotti at Die Rakete x Lelantus and with Unseen. at ADE 2023."
+  },
+  "sets": [
+   {
+    "t": "Luca Belotti B2B Martin Mind – Die Rakete x Lelantus – 30.08.24",
+    "u": "https://soundcloud.com/martin_mind_official/luca-belotti-b2b-martin-mind-die-rakete-x-lelantus-300824"
+   },
+   {
+    "t": "Martin Mind x Unseen. – Amsterdam Dance Event – ADE 2023",
+    "u": "https://soundcloud.com/martin_mind_official/martin-mind-x-unseen-amsterdam-dance-event-ade-2023"
+   },
+   {
+    "t": "Martin Mind – VINYL only Mixtape #2",
+    "u": "https://soundcloud.com/martin_mind_official/martin-m-only-vinyl-mixtape-2"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "noImg": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/martin_mind_official",
+   "https://soundcloud.com/lelantusrecords/martin-mind-justin-cowley-4",
+   "https://soundcloud.com/flauschigrecords/martin-mind-metro-original-mix"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Malugi": {
+  "img": "https://static.ra.co/images/profiles/square/malugi.jpg?dateUpdated=1747749299990",
+  "links": {
+   "ra": "https://ra.co/dj/malugi",
+   "sc": "https://soundcloud.com/malugienergy",
+   "bc": "https://malugienergy.bandcamp.com",
+   "ig": "https://www.instagram.com/malugienergy"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "real": "Matteo",
+  "labels": [
+   "Club Heart Broken",
+   "SNC Recs."
+  ],
+  "genres": [
+   "House",
+   "UK Garage"
+  ],
+  "bio": {
+   "de": "MALUGI ist ein in Deutschland ansässiger DJ, bekannt als „The Happiest Man in Dance Music“ für seine ausgelassene Bühnenpräsenz. Er spielt schnellen, UK-beeinflussten House und wurde von BBC Radio 1 zum Future Star 2025 gekürt. Releases erschienen u. a. auf Club Heart Broken und SNC Recs.; 2024 hatte er zwei virale Boiler-Room-Sets und betreibt seine eigene Eventreihe „Happy Hour“.",
+   "en": "MALUGI is a Germany-based DJ known as \"The Happiest Man in Dance Music\" for his exuberant stage presence. He plays fast-paced, UK-influenced house and was named a BBC Radio 1 Future Star for 2025. He has released on Club Heart Broken and SNC Recs., had two viral Boiler Room sets in 2024 and runs his own \"Happy Hour\" event series."
+  },
+  "sets": [
+   {
+    "t": "RA.981 MALUGI (Resident Advisor Podcast)",
+    "u": "https://soundcloud.com/resident-advisor/ra981-malugi"
+   },
+   {
+    "t": "Glitch Podcast 049 / MALUGI",
+    "u": "https://soundcloud.com/glitchfestival/podcast-049"
+   },
+   {
+    "t": "Marlon Hoffstadt b2b Malugi",
+    "u": "https://soundcloud.com/platform/marlon-hoffstadt-b2b-malugi"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/malugi",
+   "https://ra.co/dj/malugi/biography"
+  ]
+ },
+ "Onur Özer": {
+  "img": "https://static.ra.co/images/profiles/square/onurozer.jpg?dateUpdated=1673965645000",
+  "links": {
+   "ra": "https://ra.co/dj/onurozer",
+   "sc": "https://soundcloud.com/onurozerofficial",
+   "ig": "https://www.instagram.com/o_n_ur__"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Denial",
+   "Time Passages",
+   "Treatment",
+   "100% Pure"
+  ],
+  "genres": [
+   "Minimal",
+   "House"
+  ],
+  "bio": {
+   "de": "Onur Özer ist ein langjähriger DJ und Produzent elektronischer Underground-Sounds mit Sitz in Deutschland. Releases erschienen u. a. auf Denial, Time Passages, Treatment und 100% Pure. Resident Advisor beschrieb seinen Weg als Veteran, der sich zunehmend „seltsameren Sounds“ zuwendet.",
+   "en": "Onur Özer is a veteran DJ and producer of electronic underground sounds based in Germany. He has released on labels including Denial, Time Passages, Treatment and 100% Pure. Resident Advisor described his journey as a veteran DJ moving towards stranger sounds."
+  },
+  "sets": [
+   {
+    "t": "Onur Ozer at Bla Bla ADE Studio 80 Amsterdam (25-10-2008)",
+    "u": "https://soundcloud.com/blabla-music/onur-ozer-ade-studio80-251008"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/onurozer",
+   "https://ra.co/features/2713"
+  ]
+ },
+ "Yonti": {
+  "img": "https://static.ra.co/images/profiles/square/yonti.jpg?dateUpdated=1762536489563",
+  "links": {
+   "ra": "https://ra.co/dj/yonti",
+   "sc": "https://soundcloud.com/yontii",
+   "ig": "https://www.instagram.com/_yonti"
+  },
+  "from": {
+   "de": "Berlin / Lissabon",
+   "en": "Berlin / Lisbon"
+  },
+  "real": "Jonathan Kram",
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Yonti ist ein in Berlin und Lissabon lebender Techno-DJ, der sich in der Underground-Szene seiner Heimatstadt als DJ und Club-/Event-Kurator einen Namen machte. Sein Stil ist zeitgenössischer, treibender Techno, der mit geschichteten Loops Spannung aufbaut. Mit 23 debütierte er bei der SNAX-Party im Berghain und spielte seither u. a. in Bassiani, K41, De School, BASEMENT, Tresor und beim Glastonbury Festival.",
+   "en": "Yonti is a Berlin- and Lisbon-based techno DJ who became a known figure in his hometown's underground scene as a DJ and club/event curator. His style is contemporary, driving techno that builds tension through layered loops. He debuted at Berghain's SNAX party at 23 and has since played Bassiani, K41, De School, BASEMENT, Tresor and Glastonbury Festival, among others."
+  },
+  "sets": [
+   {
+    "t": "FrenzyPodcast #126 - Yonti",
+    "u": "https://soundcloud.com/frenzynl/frenzypodcast-126-yonti"
+   },
+   {
+    "t": "OECUS Podcast 231 // YONTI",
+    "u": "https://soundcloud.com/oecusmusic/oecus-podcast-231-yonti"
+   },
+   {
+    "t": "Vault Sessions #226 - Yonti",
+    "u": "https://soundcloud.com/vault-sessions-collective/vault-sessions-226-yonti"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/yonti",
+   "https://ra.co/dj/yonti/biography"
+  ]
+ },
+ "Glossy QT": {
+  "links": {
+   "sc": "https://soundcloud.com/glossyqt"
+  },
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "src": [
+   "https://ra.co/events/2468773",
+   "https://ra.co/events/2195534"
+  ]
+ },
+ "EcleKtric": {
+  "img": "https://static.ra.co/images/profiles/square/eclektric.jpg?dateUpdated=1764673074000",
+  "links": {
+   "ra": "https://ra.co/dj/eclektric",
+   "sc": "https://soundcloud.com/eclektric-vie"
+  },
+  "from": {
+   "de": "Wien, Österreich",
+   "en": "Vienna, Austria"
+  },
+  "real": "Christoph Etzlsdorfer",
+  "alias": [
+   "DJ EcleKtric"
+  ],
+  "genres": [
+   "Electronic Pop",
+   "Eurodance",
+   "Hyperpop"
+  ],
+  "bio": {
+   "de": "EcleKtric bringt Tanzflächen in und um Wien mit einer Mischung aus elektronischem Pop und Dance Music in Bewegung. Seine Sets reichen von 80er-Klassikern über Eurodance bis Hyperpop und schlagen so eine Brücke über die Jahrzehnte des Dance-Pop.",
+   "en": "EcleKtric energizes dance floors in and around Vienna with a vibrant blend of electronic pop and dance music. His sets span 80s classics, Eurodance and hyperpop, bridging decades of dance-pop."
+  },
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/eclektric",
+   "https://ra.co/events/2195534"
+  ]
+ },
+ "Shonky": {
+  "img": "https://static.ra.co/images/profiles/square/shonky.jpg?dateUpdated=1470754294000",
+  "links": {
+   "ra": "https://ra.co/dj/shonky"
+  },
+  "labels": [
+   "Freak N' Chic",
+   "Third Ear Recordings",
+   "Stoned Pilot"
+  ],
+  "genres": [
+   "House",
+   "Minimal"
+  ],
+  "bio": {
+   "de": "Shonky ist ein House-DJ und Produzent. Sein Debütalbum „Time Zero“ erschien 2008 auf Freak N' Chic, das zweite Album „On The Run“ 2022 auf Third Ear Recordings. Außerdem gründete er Stoned Pilot, ein Label für Kollaborationsprojekte, dessen erste Veröffentlichung von Shonky & Otis stammt.",
+   "en": "Shonky is a house DJ and producer. His debut album \"Time Zero\" came out on Freak N' Chic in 2008, followed by his second album \"On The Run\" on Third Ear Recordings in 2022. He also founded Stoned Pilot, a label for collaborative projects whose first release was by Shonky & Otis."
+  },
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/shonky/tour-dates",
+   "https://ra.co/news/76877"
+  ]
+ },
+ "DJ Traytex": {
+  "links": {
+   "sc": "https://soundcloud.com/traytex"
+  },
+  "bio": {
+   "de": "DJ Traytex ist DJ und Produzent, der häufig gemeinsam mit EARGASM GOD auftritt, u. a. bei der Reihe DUALISM im ://about blank (Berlin) und im IfZ Leipzig sowie bei Fuse (Brüssel) und Night Tales (London). Eigene Tracks wie „4everyours“ erscheinen auf SoundCloud.",
+   "en": "DJ Traytex is a DJ and producer who frequently performs alongside EARGASM GOD, including at the DUALISM series at ://about blank (Berlin) and IfZ Leipzig as well as Fuse (Brussels) and Night Tales (London). Original tracks such as \"4everyours\" are released on SoundCloud."
+  },
+  "sets": [
+   {
+    "t": "Elasticast 007: DJ Traytex",
+    "u": "https://soundcloud.com/clubelastica/elasticast-007-dj-traytex"
+   },
+   {
+    "t": "Fridget Spinner 062: Meg McHugh B2B DJ Traytex",
+    "u": "https://soundcloud.com/polyamor-berlin/fridget-spinner-062-meg-mchugh-b2b-dj-traytex"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "src": [
+   "https://ra.co/events/2063391",
+   "https://ra.co/events/2023924"
+  ]
+ },
+ "Børt": {
+  "img": "https://static.ra.co/images/profiles/bort.jpg?dateUpdated=1534419342000",
+  "links": {
+   "ra": "https://ra.co/dj/bort"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "real": "Robert Neuwirth",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/bort",
+   "https://ra.co/events/1980454"
+  ]
+ },
+ "Tatjana Sünder": {
+  "img": "https://static.ra.co/images/profiles/square/tatjanasuender.jpg?dateUpdated=1477412206390",
+  "links": {
+   "ra": "https://ra.co/dj/tatjanasuender",
+   "sc": "https://soundcloud.com/sndrxone",
+   "ig": "https://www.instagram.com/sndr_xone"
+  },
+  "from": {
+   "de": "Wien, Österreich (geboren in Deutschland)",
+   "en": "Vienna, Austria (born in Germany)"
+  },
+  "alias": [
+   "SNDR_Xone",
+   "Leeres_Leben"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Tatjana Sünder alias SNDR_Xone ist Techno-DJ, Produzentin und Promoterin aus den Techno-Szenen von Berlin und Wien und seit den frühen 2000ern aktiv. Sie spielte u. a. im Tresor, Sisyphos, ://about blank und beim Feel Festival. Auf RES Radio Vienna moderiert sie die monatliche Sendung „Bass_ic Instinct“ und unterstützt die inklusive Techno-Reihe VIER::TEL.",
+   "en": "Tatjana Sünder aka SNDR_Xone is a techno DJ, producer and promoter rooted in the Berlin and Vienna techno scenes, active since the early 2000s. She has played Tresor, Sisyphos, ://about blank and Feel Festival. She hosts the monthly show \"Bass_ic Instinct\" on RES Radio Vienna and supports the inclusive techno series VIER::TEL."
+  },
+  "sets": [
+   {
+    "t": "techNOage w/ sndr_xone 02.02.25 (Callshop Radio)",
+    "u": "https://soundcloud.com/callshopradio/technoage-w-sndr_xone-020225"
+   },
+   {
+    "t": "Hart lab #11 w/ SNDR_Xone (Res.Radio)",
+    "u": "https://soundcloud.com/resradio/hart-lab-11-w-sxndr-xone"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/tatjanasuender",
+   "https://ra.co/dj/tatjanasuender/biography"
+  ]
+ },
+ "Rikhter": {
+  "img": "https://static.ra.co/images/profiles/square/rikhter.jpg?dateUpdated=1674680557733",
+  "links": {
+   "ra": "https://ra.co/dj/rikhter",
+   "sc": "https://soundcloud.com/rikhter23",
+   "ig": "https://www.instagram.com/rikhter_r23/"
+  },
+  "from": {
+   "de": "Russland",
+   "en": "Russia"
+  },
+  "labels": [
+   "R Label Group"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "RIKHTER ist ein maskierter Techno-Live-Act, über dessen Person bewusst wenig bekannt ist, damit die Musik für sich spricht. Er wurde in Russland geboren, lebte lange in Moskau und ist inzwischen in Berlin ansässig; er ist Resident der Monasterio Factory und fester Teil des Kollektivs R Label Group.",
+   "en": "RIKHTER is a masked techno live act who deliberately keeps his identity hidden so the music can speak for itself. Born in Russia and long based in Moscow, he now lives in Berlin; he is a resident of Monasterio Factory and an integral member of the R Label Group collective."
+  },
+  "sets": [
+   {
+    "t": "Monasterio Chamber Podcast #173 RIKHTER",
+    "u": "https://soundcloud.com/monasterio-techno-moscow/monasterio-chamber-podcast-173-rikhter"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/rikhter",
+   "https://de.ra.co/dj/rikhter/biography"
+  ]
+ },
+ "Moska": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
  }
 };
 
