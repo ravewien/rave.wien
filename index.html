@@ -1387,7 +1387,8 @@ function renderArtists(ev){
   // In der Übersicht ausblenden: nur EIN Auftritt, länger als ein Jahr her, und weder Bild noch Infos.
   // Über Suche, Filter, Favoriten, Lineups und Links bleiben sie erreichbar.
   let hid=0;if(!q&&!st.fav&&!st.a.size){const cut=(+TODAY.slice(0,4)-1)+TODAY.slice(4);
-    names=names.filter(n=>{if((m.get(n)||[]).length||n===st.artist||isFav("a",n))return true;const p=PART[n]||[];if(p.length!==1||p[0].d>=cut)return true;
+    const upA=new Set(EV.flatMap(e=>e.artists));
+    names=names.filter(n=>{if((m.get(n)||[]).length||upA.has(n)||n===st.artist||isFav("a",n))return true;const p=PART[n]||[];if(p.length!==1||p[0].d>=cut)return true;
       const a=ARK[akey(n)]||{},lk=a.links||{};const rich=a.img||a.from||(a.bio&&(a.bio.de||a.bio.en))||(a.sets||[]).length||["sc","mc","sp","ra","bc","ig","web"].some(k=>lk[k]||a[k]);
       if(rich)return true;hid++;return false})}
   const sk=n=>fold(n).replace(/^[^a-z0-9]+/,"");names.sort((x,y)=>sk(x).localeCompare(sk(y)));
