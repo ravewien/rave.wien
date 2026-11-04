@@ -24214,7 +24214,10 @@ const AR={
   "src": [
    "https://ra.co/dj/djlelo"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "alias": [
+   "Lelo"
+  ]
  },
  "Voltaire": {
   "img": "https://static.ra.co/images/profiles/square/voltaire-fr.jpg?dateUpdated=1788167919393",
@@ -41618,30 +41621,6 @@ const AR={
   },
   "src": [
    "https://ra.co/dj/icescholle",
-   "https://ra.co/events/2034402"
-  ],
-  "infoChk": "2026-11-04"
- },
- "Lelo": {
-  "alias": [
-   "DJ Lelo"
-  ],
-  "img": "https://static.ra.co/images/profiles/square/djlelo.jpg?dateUpdated=1723475213000",
-  "links": {
-   "ra": "https://ra.co/dj/djlelo",
-   "sc": "https://soundcloud.com/leonleon001",
-   "ig": "https://www.instagram.com/lelo.leon"
-  },
-  "from": {
-   "de": "Wien",
-   "en": "Vienna"
-  },
-  "bio": {
-   "de": "Wiener DJ aus dem Umfeld von Radio Rudina, gespielt vor allem in der Grelle Forelle und im PRST, u. a. bei AFTERMATH Vol. 6.",
-   "en": "Vienna-based DJ from the Radio Rudina circle, playing mainly at Grelle Forelle and PRST, including AFTERMATH Vol. 6."
-  },
-  "src": [
-   "https://ra.co/dj/djlelo",
    "https://ra.co/events/2034402"
   ],
   "infoChk": "2026-11-04"
