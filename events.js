@@ -5469,7 +5469,9 @@ const VI={
   "io": [
    "Indoor"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "logo": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/302655939_473865571415822_4896686984121746693_n.jpg?stp=dst-jpg_tt6&cstp=mx776x775&ctp=s776x775&_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2OpcPQKMQTYQ7kNvwGUbKDe&_nc_oc=Adrmd_oJTn9zKbDncD6MT0sAsCltX6oR0DTJDmC9fAi_aNbZ0lQeHRGWGSOSHYxhlNY&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=izbFHfBPVeBqPLmte8rG_g&_nc_ss=7a289&oh=00_AQQI0hgN_zEtRNikSuGfNVwV4xBIl-u7ZQGZPFH1erdbhg&oe=6AF0F26F",
+  "man": 1
  },
  "Celeste": {
   "opened": "2014",
