@@ -7613,10 +7613,11 @@ const AR={
  "PAUNA": {
   "links": {
    "sc": "https://soundcloud.com/djpauna",
-   "ig": "https://www.instagram.com/pauna_vie"
+   "ig": "https://www.instagram.com/pauna_vie",
+   "ra": "https://ra.co/dj/pauna"
   },
   "src": [
-   "https://fr.ra.co/dj/pauna"
+   "https://ra.co/dj/pauna/biography"
   ],
   "sets": [
    {
@@ -7628,7 +7629,21 @@ const AR={
     "u": "https://soundcloud.com/opmdpodcast/pauna-opmd020"
    }
   ],
-  "setsChecked": "2026-10-27"
+  "setsChecked": "2026-10-27",
+  "img": "https://static.ra.co/images/profiles/square/pauna.jpg?dateUpdated=1770986096847",
+  "from": {
+   "de": "Wien (rumänische Wurzeln)",
+   "en": "Vienna (Romanian roots)"
+  },
+  "genres": [
+   "Techno",
+   "Hypnotic Techno"
+  ],
+  "bio": {
+   "de": "PAUNA ist eine Wiener Techno-DJ mit rumänischen Wurzeln, deren Sets von hypnotischen Grooves, atmosphärischer Tiefe und roher Intensität geprägt sind. Sie ist Kernmitglied von RAW SESSION, Mitgründerin von ALERT[A] und moderiert die Sendung „Wiener Wohnzimmer“ auf Evosonic Radio; Auftritte führten sie u. a. nach Berlin und Lissabon.",
+   "en": "PAUNA is a Vienna-based techno DJ with Romanian roots whose sets are defined by hypnotic grooves, atmospheric depth and raw intensity. She is a core member of RAW SESSION, co-founder of ALERT[A] and hosts the show \"Wiener Wohnzimmer\" on Evosonic Radio; she has also played in Berlin and Lisbon."
+  },
+  "infoChk": "2026-11-04"
  },
  "Huebl": {
   "links": {
@@ -40841,6 +40856,300 @@ const AR={
   "src": [
    "https://ra.co/dj/7circle",
    "https://ra.co/dj/7circle/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Submarine": {
+  "img": "https://static.ra.co/images/profiles/submarine.jpg?dateUpdated=1571650550000",
+  "alias": [
+   "SubMarine"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/submarine",
+   "sc": "https://soundcloud.com/submarinecgn"
+  },
+  "from": {
+   "de": "Köln, Deutschland",
+   "en": "Cologne, Germany"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Dispatch Recordings",
+   "1985 Music",
+   "Bassliebe",
+   "Methlab"
+  ],
+  "bio": {
+   "de": "SubMarine ist das Drum-&-Bass-Projekt des Kölner Produzenten und DJs Jonas Briere, der 2010 mit der Musik begann. Sein Sound bewegt sich zwischen tiefem, schnellem Drum & Bass und cineastischen Elementen; Releases erschienen u. a. auf Bassliebe, Dispatch Recordings („Posse EP“, 2018), 1985 Music („Xertz EP“, 2018) und Methlab.",
+   "en": "SubMarine is the drum & bass project of Cologne producer and DJ Jonas Briere, who started making music in 2010. His sound sits between deep, fast drum & bass and cinematic elements; releases include Bassliebe, Dispatch Recordings (\"Posse EP\", 2018), 1985 Music (\"Xertz EP\", 2018) and Methlab."
+  },
+  "src": [
+   "https://ra.co/dj/submarine",
+   "https://ra.co/dj/submarine/biography"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Rinkadink": {
+  "links": {
+   "sc": "https://soundcloud.com/rinkadink"
+  },
+  "from": {
+   "de": "Südafrika",
+   "en": "South Africa"
+  },
+  "genres": [
+   "Psytrance"
+  ],
+  "bio": {
+   "de": "Rinkadink ist das Psytrance-Projekt des südafrikanischen Produzenten Werner „Vana“ Van Jaarsveld, bekannt für schnelle Tempi, schwere Basslines und ungewöhnliche elektronische Sounds. Neben zwei Alben und zahlreichen Compilation-Tracks arbeitete er u. a. in den Projekten Flaming Hoons und Whiplash; er spielte bei Festivals wie The Glade, Noisily und Illusive.",
+   "en": "Rinkadink is the psytrance project of South African producer Werner \"Vana\" Van Jaarsveld, known for fast tempos, heavy basslines and unusual electronic sounds. Besides two albums and numerous compilation tracks, he has worked in projects such as Flaming Hoons and Whiplash and has played festivals including The Glade, Noisily and Illusive."
+  },
+  "src": [
+   "https://www.ukfestivalguides.com/artists/rinkadink/",
+   "https://soundcloud.com/rinkadink"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Lefteris": {
+  "img": "https://static.ra.co/images/profiles/square/lefteris.jpg?dateUpdated=1729285015677",
+  "alias": [
+   "DJ Flashtrack"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/lefteris",
+   "sc": "https://soundcloud.com/lefterisofficial",
+   "ig": "https://www.instagram.com/lefterisofficial"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Minimal House",
+   "Deep Tech"
+  ],
+  "bio": {
+   "de": "Lefteris ist ein Wiener DJ aus dem Bereich Minimal House und Deep Tech und steht hinter der Reihe Deep Dive. Er spielt vor allem im SASS Music Club und im Kramladen und trat auch international auf, etwa im Radost in Bratislava.",
+   "en": "Lefteris is a Vienna-based DJ playing minimal house and deep tech and the person behind the Deep Dive series. He plays mostly at SASS Music Club and Kramladen and has also appeared abroad, e.g. at Radost in Bratislava."
+  },
+  "src": [
+   "https://ra.co/dj/lefteris",
+   "https://ra.co/events/2428044"
+  ],
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-04"
+ },
+ "Sergej Krstic": {
+  "img": "https://en.lovefest.rs/wp-content/uploads/2026/05/Sergej-Krstic%CC%81-Photo.jpg",
+  "alias": [
+   "Sergej Krstić"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/sergejkrstic"
+  },
+  "from": {
+   "de": "Belgrad, Serbien",
+   "en": "Belgrade, Serbia"
+  },
+  "genres": [
+   "House",
+   "Disco",
+   "Balearic"
+  ],
+  "bio": {
+   "de": "Sergej Krstić ist seit 2019 in der Belgrader DJ-Szene aktiv, Mitglied des Zora Collective und Mitgestalter der Radiosendung „Down By The River“ auf Radio D59B. Der eklektische DJ verbindet Street Soul, Balearic, Boogie, Afro, Disco und House mit Breakbeat, Techno und 90er-Trance. Er spielte u. a. im Karmakoma und Drugstore sowie bei Lovefest und EXIT.",
+   "en": "Sergej Krstić has been active in Belgrade's DJ scene since 2019, is a member of Zora Collective and co-hosts the radio show \"Down By The River\" on Radio D59B. An eclectic DJ, he blends street soul, Balearic, boogie, Afro, disco and house with breakbeat, techno and 90s trance. He has played Karmakoma and Drugstore as well as Lovefest and EXIT."
+  },
+  "sets": [
+   {
+    "t": "Sergej Krstic B2B Doo @ Minival Beograd 08.11.2024",
+    "u": "https://soundcloud.com/sergejkrstic/sergej-krstic-b2b-doo-minivalbeograd-08112024"
+   },
+   {
+    "t": "Sergej Krstic @ Ruke Beograd 29.02.2024",
+    "u": "https://soundcloud.com/sergejkrstic/sergej-krstic-rukebeograd-thursday-29022024"
+   },
+   {
+    "t": "RADAR Kitchen 009 – Sergej Krstić",
+    "u": "https://soundcloud.com/radarbelgrade/radarkitchen009"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://en.lovefest.rs/artist/sergej-krstic/"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Dj Schnake": {
+  "img": "https://static.ra.co/images/profiles/square/djschnake.jpg?dateUpdated=1704421198000",
+  "links": {
+   "ra": "https://ra.co/dj/djschnake",
+   "sc": "https://soundcloud.com/djschnake",
+   "ig": "https://www.instagram.com/dj_schnake/"
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "bio": {
+   "de": "DJ Schnake legt aus Frankreich auf und spielte u. a. bei Intake Paris, der Reihe 2much (Rinse France) und SHE RAVES. Die Termine führen durch Frankreich, Belgien, Deutschland, die Schweiz und Großbritannien.",
+   "en": "DJ Schnake is a DJ from France who has played Intake Paris, the 2much series (Rinse France) and SHE RAVES, with dates across France, Belgium, Germany, Switzerland and the UK."
+  },
+  "sets": [
+   {
+    "t": "2much invite DJ Schnake – 06.11.2025 (Rinse France)",
+    "u": "https://soundcloud.com/rinse_france/2much-invite-dj-schnake-06-novembre-2025"
+   },
+   {
+    "t": "DJ Schnake – Intake Paris – DJ Set",
+    "u": "https://soundcloud.com/intake-music-998517119/dj-schnake-intake-paris"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/djschnake"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Temudo": {
+  "img": "https://static.ra.co/images/profiles/temudo.jpg?dateUpdated=1581897600000",
+  "links": {
+   "ra": "https://ra.co/dj/temudo",
+   "sc": "https://soundcloud.com/temudo"
+  },
+  "from": {
+   "de": "Portugal",
+   "en": "Portugal"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Soma Records",
+   "Klockworks",
+   "Modularz",
+   "Planet Rhythm Records",
+   "Suara"
+  ],
+  "bio": {
+   "de": "Temudo (João Rodrigues) ist ein portugiesischer Techno-Produzent und DJ einer neuen Generation, der die Seele des Genres mit einem zeitgemäßen Ansatz verbindet. Releases erschienen u. a. auf Soma, Klockworks, Modularz und Planet Rhythm; er spielte in Paris, Amsterdam und Lissabon und war Gast im CLR-Podcast.",
+   "en": "Temudo (João Rodrigues) is a Portuguese techno producer and DJ from a new generation that combines the genre's soul with a contemporary approach. He has released on Soma, Klockworks, Modularz and Planet Rhythm, played in Paris, Amsterdam and Lisbon, and featured on the CLR podcast."
+  },
+  "sets": [
+   {
+    "t": "Temudo Live @ Danza Futura 2025",
+    "u": "https://soundcloud.com/danza-futura/temudo-live-danza-futura-2025"
+   },
+   {
+    "t": "CLR Podcast 446 – Temudo",
+    "u": "https://soundcloud.com/chris-liebing/clr-podcast-446-i-temudo"
+   },
+   {
+    "t": "Temudo – Live at Fold / Hayes Collective Showcase",
+    "u": "https://soundcloud.com/temudo/liveatfold"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/temudo"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "DJ Guestlist": {
+  "img": "https://static.ra.co/images/profiles/square/djguestlist.jpg?dateUpdated=1726485479000",
+  "links": {
+   "ra": "https://ra.co/dj/djguestlist"
+  },
+  "genres": [
+   "Trance",
+   "Hard Groove"
+  ],
+  "bio": {
+   "de": "DJ GUESTLIST ist DJ und Produzent mit über zehn Jahren Erfahrung in der elektronischen Musik, bekannt für energiegeladene Sets. Seine Releases „Bring It Back“ und „Tokyo Drift“ (2023) laufen in vielen DJ-Sets; sein Sound verbindet Trance-Elemente mit groovigen Rhythmen, Vocals und tiefem Sub-Bass. Er spielte u. a. bei REACTŌR, im Artheater Köln und bei 2Much in Berlin.",
+   "en": "DJ GUESTLIST is a DJ and producer with over a decade of experience in electronic music, known for high-energy sets. His releases \"Bring It Back\" and \"Tokyo Drift\" (2023) are staples in many DJ sets; his sound blends trance elements with groovy rhythms, vocals and deep sub-bass. He has played REACTŌR, Artheater Cologne and 2Much in Berlin."
+  },
+  "src": [
+   "https://ra.co/dj/djguestlist/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "RiVid": {
+  "img": "https://static.ra.co/images/profiles/square/rivid.jpg?dateUpdated=1677062147000",
+  "links": {
+   "ra": "https://ra.co/dj/rivid"
+  },
+  "from": {
+   "de": "Tschechien / Japan",
+   "en": "Czechia / Japan"
+  },
+  "genres": [
+   "Hard Techno"
+  ],
+  "labels": [
+   "Hilomatik",
+   "Riot Recordings",
+   "Mad Made",
+   "Chlore",
+   "Techno Germany"
+  ],
+  "bio": {
+   "de": "RiVid ist ein tschechisch-japanisches Hard-Techno-Duo, das seit 2020 aktiv ist und über 30 Tracks veröffentlicht hat, u. a. auf Hilomatik, Riot Recordings, Mad Made und Chlore. Bekannt wurde es auch mit seinen „A bit harder“-Edits auf SoundCloud; Auftritte führten u. a. nach Prag und Košice.",
+   "en": "RiVid is a Czech-Japanese hard techno duo active since 2020, with more than 30 tracks released on labels such as Hilomatik, Riot Recordings, Mad Made and Chlore. They are also known for their \"A bit harder\" edits on SoundCloud and have played in Prague and Košice."
+  },
+  "src": [
+   "https://ra.co/dj/rivid/biography"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Neoom": {
+  "img": "https://static.ra.co/images/profiles/square/neoom.jpg?dateUpdated=1744082762000",
+  "links": {
+   "ra": "https://ra.co/dj/neoom",
+   "sc": "https://soundcloud.com/benjamin-schaar",
+   "ig": "https://www.instagram.com/neoom.vienna"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Psytrance",
+   "Hypnotic Techno"
+  ],
+  "bio": {
+   "de": "Neoom ist ein Wiener DJ, dessen Sound sich zwischen Dark Progressive Psytrance, Psytechno, Bushprog und hypnotischem Technoid bewegt – durchgehend mit dunkler Atmosphäre. Er spielt vor allem im FLUCC, u. a. bei der Reihe deep cut, sowie beim streamlines festival.",
+   "en": "Neoom is a Vienna-based DJ whose sound moves between dark progressive psytrance, psytechno, bushprog and hypnotic technoid, always with a dark atmosphere. He plays mostly at FLUCC, including the deep cut series, as well as at streamlines festival."
+  },
+  "src": [
+   "https://ra.co/dj/neoom",
+   "https://ra.co/events/2156319"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Nicolas Julian": {
+  "img": "https://static.ra.co/images/profiles/square/nicolasjulian.jpg?dateUpdated=1695288486000",
+  "links": {
+   "ra": "https://ra.co/dj/nicolasjulian"
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "genres": [
+   "Hard Techno",
+   "Hard Trance",
+   "Hard Groove"
+  ],
+  "bio": {
+   "de": "Nicolas Julian ist ein Berliner DJ und Produzent für energiegeladenen Hard Techno, Hard Trance und Hard Groove. Tracks wie „Jump Dance Move Bounce“, „Bad Girls“ und „Sucker“ fanden große Resonanz; er spielte in Europa, Australien, den USA und Asien, u. a. beim HIVE Festival.",
+   "en": "Nicolas Julian is a Berlin DJ and producer of high-energy hard techno, hard trance and hard groove. Tracks such as \"Jump Dance Move Bounce\", \"Bad Girls\" and \"Sucker\" resonated widely; he has played across Europe, Australia, the US and Asia, including HIVE Festival."
+  },
+  "src": [
+   "https://ra.co/dj/nicolasjulian/biography"
   ],
   "infoChk": "2026-11-04"
  }
