@@ -34996,6 +34996,216 @@ const AR={
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04"
+ },
+ "Expulze": {
+  "links": {
+   "sc": "https://soundcloud.com/expulzeofficial"
+  },
+  "bio": {
+   "de": "Expulze ist ein Tekno-Produzent, der u. a. auf dem Label GHD veröffentlicht (z. B. „Anima“, „Platinum Bullets“). Gemeinsam mit Narfos tritt er als Live-Duo „Expulze & Narfos“ auf, u. a. bei Melting Minds in der Pratersauna und im Club Casablanca in Wien.",
+   "en": "Expulze is a tekno producer releasing on the GHD label, among others (e.g. “Anima”, “Platinum Bullets”). Together with Narfos he performs as the live duo “Expulze & Narfos”, including at Melting Minds in Pratersauna and Club Casablanca in Vienna."
+  },
+  "src": [
+   "https://soundcloud.com/expulzeofficial/expulze-anima-preview",
+   "https://soundcloud.com/expulze-and-narfos",
+   "https://de.ra.co/events/2109276"
+  ],
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04"
+ },
+ "Narfos": {
+  "img": "https://static.ra.co/images/profiles/square/narfos.jpg?dateUpdated=1672193291067",
+  "links": {
+   "ra": "https://ra.co/dj/narfos",
+   "sc": "https://soundcloud.com/narfos"
+  },
+  "from": {
+   "de": "Italien",
+   "en": "Italy"
+  },
+  "bio": {
+   "de": "Narfos ist ein in Italien ansässiger Tekno-Act („Pumpin Freaking Trash Sound“). Mit Expulze bildet er das Live-Duo „Expulze & Narfos“, das u. a. in Bristol und bei Melting Minds in der Wiener Pratersauna aufgetreten ist.",
+   "en": "Narfos is an Italy-based tekno act (“Pumpin Freaking Trash Sound”). With Expulze he forms the live duo “Expulze & Narfos”, which has played in Bristol and at Melting Minds in Vienna’s Pratersauna, among others."
+  },
+  "src": [
+   "https://ra.co/dj/narfos",
+   "https://soundcloud.com/expulze-and-narfos"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Alix Perez": {
+  "img": "https://static.ra.co/images/profiles/alixperez.jpg?dateUpdated=1498466204000",
+  "links": {
+   "ra": "https://ra.co/dj/alixperez",
+   "sc": "https://soundcloud.com/alixperez"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "alias": [
+   "Alter:Native"
+  ],
+  "labels": [
+   "1985 Music",
+   "Metalheadz",
+   "Shogun Audio",
+   "Soul:r",
+   "Audio Tactics"
+  ],
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "Alix Perez ist ein in Großbritannien ansässiger Drum-&-Bass-DJ und -Produzent und Gründer des Labels 1985 Music. Er veröffentlichte u. a. auf Metalheadz, Shogun Audio und Soul:r und produziert auch als Alter:Native.",
+   "en": "Alix Perez is a UK-based drum & bass DJ and producer and founder of the label 1985 Music. He has released on Metalheadz, Shogun Audio and Soul:r, among others, and also produces as Alter:Native."
+  },
+  "sets": [
+   {
+    "t": "BBC Radio 1 / D&B Mix – Dec 2022",
+    "u": "https://soundcloud.com/alixperez/alix-perez-radio-1-mix-dec-2022"
+   },
+   {
+    "t": "The Sound Of: 1985 Music, mixed by Alix Perez (DJ Mag)",
+    "u": "https://soundcloud.com/djmag/the-sound-of-1985-music-mixed-by-alix-perez"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/alixperez"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Dan Shake": {
+  "img": "https://static.ra.co/images/profiles/square/danshake.jpg?dateUpdated=1473203670923",
+  "links": {
+   "ra": "https://ra.co/dj/danshake",
+   "sc": "https://soundcloud.com/danshakemusic",
+   "ig": "https://www.instagram.com/danshake_",
+   "bc": "https://danshake.bandcamp.com",
+   "web": "https://danshake.com"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "labels": [
+   "Mahogani Music",
+   "Delusions Of Grandeur",
+   "Black Acre",
+   "Toy Tonics"
+  ],
+  "genres": [
+   "House",
+   "Disco"
+  ],
+  "bio": {
+   "de": "Dan Shake ist ein britischer DJ und Produzent. Er veröffentlichte u. a. auf Mahogani Music, Delusions Of Grandeur, Black Acre und Toy Tonics und spielte 2022 einen BBC Radio 1 Essential Mix.",
+   "en": "Dan Shake is a UK DJ and producer. He has released on Mahogani Music, Delusions Of Grandeur, Black Acre and Toy Tonics, among others, and recorded a BBC Radio 1 Essential Mix in 2022."
+  },
+  "sets": [
+   {
+    "t": "Essential Mix 2022-06-11",
+    "u": "https://soundcloud.com/danshakeessentialmix/dan-shake-essential-mix-2022-06-11"
+   },
+   {
+    "t": "The Cover Mix: Dan Shake (Mixmag)",
+    "u": "https://soundcloud.com/mixmag-1/the-cover-mix-dan-shake"
+   },
+   {
+    "t": "Groove Podcast 247",
+    "u": "https://soundcloud.com/groove-magazin/groove-podcast-247-dan-shake"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/danshake"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Pleasurekraft": {
+  "img": "https://static.ra.co/images/profiles/square/pleasurekraft.jpg?dateUpdated=1623168028000",
+  "links": {
+   "ra": "https://ra.co/dj/pleasurekraft",
+   "sc": "https://soundcloud.com/pleasurekraft",
+   "web": "https://pleasurekraft.com"
+  },
+  "from": {
+   "de": "USA",
+   "en": "USA"
+  },
+  "labels": [
+   "Kraftek",
+   "Suara",
+   "Relief Records",
+   "Octopus Music",
+   "Mood Records"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Pleasurekraft ist ein in den USA ansässiger Techno-Act („Making music for dancing and other physical indulgences“) und betreibt das Label Kraftek. Veröffentlichungen erschienen u. a. auf Suara, Relief Records, Octopus und Mood Records.",
+   "en": "Pleasurekraft is a US-based techno act (“Making music for dancing and other physical indulgences”) and runs the label Kraftek. Releases have appeared on Suara, Relief Records, Octopus and Mood Records, among others."
+  },
+  "sets": [
+   {
+    "t": "Drumcode Radio Live DCR754 – Live from Truth, Johannesburg",
+    "u": "https://soundcloud.com/adambeyer/dcr754-drumcode-radio-live-pleasurekraft-live-mix-from-truth-johannesburg"
+   },
+   {
+    "t": "Drumcode Radio Live DCR632 – Live at Re/Form Festival, Los Angeles",
+    "u": "https://soundcloud.com/adambeyer/dcr632-drumcode-radio-live-pleasurekraft-live-mix-at-reform-festival-in-los-angeles-usa"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/pleasurekraft"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "Juliet Fox": {
+  "img": "https://static.ra.co/images/profiles/square/julietfox.jpg?dateUpdated=1741849838003",
+  "links": {
+   "ra": "https://ra.co/dj/julietfox",
+   "sc": "https://soundcloud.com/djjulietfox",
+   "ig": "https://www.instagram.com/djjulietfox",
+   "bc": "https://julietfox.bandcamp.com",
+   "web": "https://www.julietfox.com"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Drumcode",
+   "Cajual Records",
+   "Suara",
+   "Kraftek",
+   "Filth on Acid"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Juliet Fox ist eine in Deutschland ansässige Techno-DJ und -Produzentin. Sie veröffentlichte u. a. auf Drumcode, Cajual, Suara, Kraftek und Filth on Acid und spielt international in Clubs und auf Festivals.",
+   "en": "Juliet Fox is a Germany-based techno DJ and producer. She has released on Drumcode, Cajual, Suara, Kraftek and Filth on Acid, among others, and plays clubs and festivals internationally."
+  },
+  "sets": [
+   {
+    "t": "Drumcode Radio Live DCR662 – Live from Printworks London",
+    "u": "https://soundcloud.com/adambeyer/dcr662-drumcode-radio-live-juliet-fox-live-mix-from-printworks-london-uk"
+   },
+   {
+    "t": "For Your Ears Only Mix (Cajual)",
+    "u": "https://soundcloud.com/cajual/juliet-fox-for-your-ears-only"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/julietfox"
+  ],
+  "infoChk": "2026-11-04"
  }
 };
 
