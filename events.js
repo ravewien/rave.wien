@@ -29582,6 +29582,347 @@ const AR={
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03"
+ },
+ "I Dance Alone": {
+  "img": "https://static.ra.co/images/profiles/square/idancealone.jpg?dateUpdated=1668084715000",
+  "links": {
+   "ra": "https://ra.co/dj/idancealone",
+   "sc": "https://soundcloud.com/1dancealone",
+   "ig": "https://www.instagram.com/1dancealone"
+  },
+  "from": {
+   "de": "Aserbaidschan / Polen",
+   "en": "Azerbaijan / Poland"
+  },
+  "bio": {
+   "de": "I Dance Alone ist ein in Aserbaidschan geborener DJ mit Wohnsitz in Polen. In Wien spielte er bei der Labelnacht von Gesindel der Nacht und GDN Records im Werk.",
+   "en": "I Dance Alone is a DJ born in Azerbaijan and based in Poland. In Vienna he played the Gesindel der Nacht x GDN Records label night at Das Werk."
+  },
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/idancealone"
+  ]
+ },
+ "Sweely": {
+  "img": "https://static.ra.co/images/profiles/square/sweely.jpg?dateUpdated=1757454281010",
+  "real": "William Montana",
+  "links": {
+   "ra": "https://ra.co/dj/sweely",
+   "sc": "https://soundcloud.com/sweelymusic"
+  },
+  "from": {
+   "de": "Frankreich / Spanien",
+   "en": "France / Spain"
+  },
+  "labels": [
+   "Concrete Music",
+   "Love On The Rocks",
+   "Swap White Ltd",
+   "Distant Hawaii",
+   "Automatic Writing",
+   "Limousine Dream",
+   "Butter Side Up",
+   "Pager Records"
+  ],
+  "bio": {
+   "de": "Sweely ist ein französischer Produzent und Live-Act mit Wohnsitz in Spanien, der zwischen House, Minimal und Electro wechselt. Releases erschienen u. a. auf Concrete Music, Love On The Rocks, Distant Hawaii und Butter Side Up.",
+   "en": "Sweely is a French producer and live act based in Spain who moves between house, minimal and electro. He has released on labels including Concrete Music, Love On The Rocks, Distant Hawaii and Butter Side Up."
+  },
+  "sets": [
+   {
+    "t": "RA Live – Sweely (Live) – Mode Festival 2024, Australia",
+    "u": "https://soundcloud.com/resident-advisor/ra-live-sweely-live-mode-festival-2024-australia-5"
+   },
+   {
+    "t": "Sweely (Live) for Mixmag x La Relève – Electronic Subculture",
+    "u": "https://soundcloud.com/electronicsubculture/sweely-live-for-mixmag-x-la-releve-electronic-subculture"
+   },
+   {
+    "t": "RominimalCast029: Sweely (Live Act)",
+    "u": "https://soundcloud.com/rominimalcollective/rominimalcast029-sweely-live_act"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/sweely"
+  ]
+ },
+ "Friction": {
+  "img": "https://static.ra.co/images/profiles/square/friction.jpg?dateUpdated=1444901585187",
+  "real": "Ed Keeley",
+  "links": {
+   "ra": "https://ra.co/dj/friction",
+   "sc": "https://soundcloud.com/djfriction",
+   "web": "https://www.thisisfriction.com"
+  },
+  "from": {
+   "de": "Brighton, Großbritannien",
+   "en": "Brighton, UK"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Shogun Audio",
+   "Bond Records",
+   "Lumberjacks in Hell",
+   "Playaz Recordings",
+   "Elevate Audio",
+   "Valve Recordings"
+  ],
+  "bio": {
+   "de": "Friction ist ein in Brighton aufgewachsener, mehrfach ausgezeichneter Drum-&-Bass-DJ und Produzent aus Großbritannien. Er veröffentlichte u. a. auf Shogun Audio, Playaz und Valve Recordings.",
+   "en": "Friction is a Brighton-raised, multi-award-winning drum & bass DJ and producer from the UK. He has released on labels including Shogun Audio, Playaz and Valve Recordings."
+  },
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/friction"
+  ]
+ },
+ "Paul Raal": {
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Paul Raal ist ein österreichischer DJ aus der Wiener Szene, der u. a. bei Disco Frisco und mit der Reihe Fixstern im Celeste auflegt. Sein Track „Neuroflex“ erschien bei Vienna Decay.",
+   "en": "Paul Raal is an Austrian DJ from the Vienna scene who has played at Disco Frisco and the Fixstern series at Celeste. His track “Neuroflex” was released on Vienna Decay."
+  },
+  "sets": [
+   {
+    "t": "Disco Frisco – Raal's Boogiefoxed Mix (live vinyl mix)",
+    "u": "https://soundcloud.com/disco-frisco/disco-frisco-boogiefoxed"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "src": [
+   "https://ra.co/events/1294418",
+   "https://soundcloud.com/viennadecay/10-neuroreflex"
+  ]
+ },
+ "Jessi Herz": {
+  "links": {
+   "sc": "https://soundcloud.com/jessiherz"
+  },
+  "bio": {
+   "de": "Jessi Herz ist DJ im Techno-Umfeld und steuerte die Folge 344 der Podcastreihe von KataHaifisch bei. In Wien spielte Jessi Herz bei Löwenzahn im Kramladen.",
+   "en": "Jessi Herz is a techno DJ who contributed episode 344 of the KataHaifisch podcast series. In Vienna, Jessi Herz played Löwenzahn at Kramladen."
+  },
+  "sets": [
+   {
+    "t": "KataHaifisch Podcast 344 – Jessi Herz",
+    "u": "https://soundcloud.com/katahaifisch/katahaifisch-podcast-344-jessi-herz"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/jessiherz"
+  ]
+ },
+ "Chris Cruse": {
+  "img": "https://static.ra.co/images/profiles/square/chriscruse.jpg?dateUpdated=1780688279673",
+  "links": {
+   "ra": "https://ra.co/dj/chriscruse",
+   "sc": "https://soundcloud.com/chriscruse",
+   "ig": "https://www.instagram.com/chriscruse",
+   "bc": "https://spotlightrecs.bandcamp.com"
+  },
+  "from": {
+   "de": "Brooklyn, USA",
+   "en": "Brooklyn, USA"
+  },
+  "labels": [
+   "Spotlight Records",
+   "Permanent Vacation",
+   "Funnuvojere Records",
+   "Major Records",
+   "CAN U NOT TALK"
+  ],
+  "bio": {
+   "de": "Chris Cruse ist Gründer der queeren Party und des Labels Spotlight aus Los Angeles und gehört zur Club-Toilet-Crew in Detroit. Seine Anfänge machte er in Berlin, heute lebt er in Brooklyn. Releases u. a. auf Permanent Vacation und Spotlight Records.",
+   "en": "Chris Cruse is the founder of the queer LA party and record label Spotlight and part of the Club Toilet crew in Detroit. He cut his teeth in Berlin and is now based in Brooklyn, with releases on Permanent Vacation and Spotlight Records among others."
+  },
+  "sets": [
+   {
+    "t": "Beats In Space #902 with Chris Cruse",
+    "u": "https://soundcloud.com/chriscruse/beats-in-space-902-with-chris-cruse"
+   },
+   {
+    "t": "Phonica Mix Series 118: Chris Cruse",
+    "u": "https://soundcloud.com/phonicarecords/phonica-mix-series-118-chris-cruse"
+   },
+   {
+    "t": "Crack Mix 289 – Chris Cruse",
+    "u": "https://soundcloud.com/crackmagazine/crack-mix-289-chris-cruse"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/chriscruse"
+  ]
+ },
+ "RSquared": {
+  "img": "https://static.ra.co/images/profiles/square/rsquared.jpg?dateUpdated=1642671328000",
+  "links": {
+   "ra": "https://ra.co/dj/rsquared",
+   "sc": "https://soundcloud.com/rsquareddj",
+   "ig": "https://www.instagram.com/rsquareddj"
+  },
+  "from": {
+   "de": "Großbritannien",
+   "en": "United Kingdom"
+  },
+  "labels": [
+   "Resonance Records",
+   "Roush",
+   "Lost Records",
+   "La Pera Records",
+   "SK Recordings",
+   "Sola Records",
+   "Revival New York"
+  ],
+  "bio": {
+   "de": "RSquared ist ein DJ- und Produzentenduo (Rory & Ryan) aus Großbritannien. Releases erschienen u. a. auf Sola, Roush, Lost Records und Revival New York; gespielt haben sie u. a. in London, Ibiza, Sydney und Miami.",
+   "en": "RSquared is a UK DJ and production duo (Rory & Ryan). They have released on labels including Sola, Roush, Lost Records and Revival New York, and have played in London, Ibiza, Sydney and Miami among others."
+  },
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/rsquared"
+  ]
+ },
+ "Jacopo Latini": {
+  "img": "https://static.ra.co/images/profiles/square/jacopolatini.jpg?dateUpdated=1661850768000",
+  "links": {
+   "ra": "https://ra.co/dj/jacopolatini",
+   "sc": "https://soundcloud.com/jacopolatini"
+  },
+  "from": {
+   "de": "Bologna, Italien",
+   "en": "Bologna, Italy"
+  },
+  "labels": [
+   "Mood Waves"
+  ],
+  "bio": {
+   "de": "Jacopo Latini ist ein DJ und Produzent aus Bologna. Er veröffentlichte u. a. auf Mood Waves (z. B. „Rumore Bianco EP“) und ist gemeinsam mit Giammarco Orsini als Data Memory Access aktiv.",
+   "en": "Jacopo Latini is a DJ and producer from Bologna. He has released on Mood Waves (e.g. the “Rumore Bianco EP”) and works with Giammarco Orsini as Data Memory Access."
+  },
+  "sets": [
+   {
+    "t": "Jacopo Latini – Trommel InSession 083",
+    "u": "https://soundcloud.com/trommelmusic/jacopo-latini-trommel-insession-083"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/jacopolatini",
+   "https://soundcloud.com/moodwaves/giammarco-orsini-jacopo-latini-pres-data-memory-access-the-experience-ep"
+  ]
+ },
+ "Fabiano": {
+  "img": "https://static.ra.co/images/profiles/fabiano.jpg?dateUpdated=1489145816597",
+  "real": "Fabian Weingart",
+  "links": {
+   "ra": "https://ra.co/dj/fabiano",
+   "web": "https://uponyou-records.com/booking/fabiano/"
+  },
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "clubs": [
+   "Kater",
+   "Watergate",
+   "Tresor"
+  ],
+  "bio": {
+   "de": "Fabiano ist seit 2007 als DJ in Berlin aktiv und wird über Upon You gebucht. Er spielte u. a. im Kater, Watergate und Tresor/Globus zu seinen meistbespielten Regionen zählt auch Wien.",
+   "en": "Fabiano has been a Berlin DJ since 2007 and is booked via Upon You. He has played at Kater, Watergate and Tresor/Globus Vienna is among the regions where he plays most often."
+  },
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/fabiano"
+  ]
+ },
+ "Rosi-tech": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "RocketCat": {
+  "links": {
+   "sc": "https://soundcloud.com/rocketcat23"
+  },
+  "genres": [
+   "Tekno"
+  ],
+  "bio": {
+   "de": "RocketCat ist ein Tekno-Live-Act, der seine Live-Tracks als RocketCat_RotoR auf SoundCloud veröffentlicht. In Wien spielte RocketCat live bei Step to Tek im Werk.",
+   "en": "RocketCat is a tekno live act who publishes live tracks on SoundCloud as RocketCat_RotoR. In Vienna, RocketCat played live at Step to Tek at Das Werk."
+  },
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "src": [
+   "https://soundcloud.com/rocketcat23"
+  ]
+ },
+ "Mushroomer": {
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04"
+ },
+ "Daniel Nitsch": {
+  "img": "https://static.ra.co/images/profiles/danielnitsch.jpg?dateUpdated=1453738892813",
+  "links": {
+   "ra": "https://ra.co/dj/danielnitsch",
+   "sc": "https://soundcloud.com/daniel-nitsch-the-glitz",
+   "web": "https://www.daniel-nitsch.com"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Fenou",
+   "Voltage Musique Records",
+   "Materialism",
+   "Superfancy Recordings",
+   "Feines Tier"
+  ],
+  "bio": {
+   "de": "Daniel Nitsch ist ein deutscher DJ und Produzent, der Mitte der 90er-Jahre als Veranstalter im Crossover-, Hip-Hop- und Big-Beat-Bereich begann und später zur elektronischen Musik fand. Releases erschienen u. a. auf Fenou, Materialism und Feines Tier; er spielt regelmäßig u. a. im Ritter Butzke, Kater und auf der Fusion.",
+   "en": "Daniel Nitsch is a German DJ and producer who started out organising crossover, hip hop and big beat events in the mid-90s before moving to electronic music. He has released on Fenou, Materialism and Feines Tier and plays regularly at venues such as Ritter Butzke, Kater and Fusion festival."
+  },
+  "sets": [
+   {
+    "t": "Fusion 2025 – Daniel Nitsch x Mystigrix – Neuland",
+    "u": "https://soundcloud.com/mystigrix/fusion-2025-daniel-nitsch-x-mystigrix"
+   },
+   {
+    "t": "Daniel Nitsch @ Fusion Festival 2023 – Neuland",
+    "u": "https://soundcloud.com/daniel-nitsch-the-glitz/daniel-nitsch-fusion-festival-2023-neuland"
+   },
+   {
+    "t": "Daniel Nitsch @ Quarterdeck Basel (Februar 2020, Live Recording)",
+    "u": "https://soundcloud.com/daniel-nitsch-the-glitz/daniel-nitsch-quarterdeck-basel-february-2020-live-recording"
+   }
+  ],
+  "setsChecked": "2026-11-04",
+  "infoChk": "2026-11-04",
+  "src": [
+   "https://ra.co/dj/danielnitsch"
+  ]
  }
 };
 
