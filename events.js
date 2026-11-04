@@ -950,6 +950,18 @@ const CG={
  "nomind.": [
   "House",
   "Minimal"
+ ],
+ "Entropy": [
+  "Hardgroove",
+  "Hard Dance",
+  "Hard Techno"
+ ],
+ "VIE'n'B": [
+  "Drum & Bass"
+ ],
+ "CitrusCue": [
+  "Bass",
+  "Dubstep"
  ]
 };
 const KC=["[kju:t]","303","50 Herz","54Hz","909techno","Acid Lambada","Addicted to Pressure","Alles Allen","AMBIEVENT","Analogique","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Baseline","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","BLUR","Bonkers","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Cybertribe","Cyclic Existence","Dance 2 House","Danza Obscura","Dark Pressure","Das Syndikat","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","Empyreon","Endless Grooves","Entrance","Entropy","euphonic records","Euphoria","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Fractal Fusion","Freeride Millenium","Frieden & Liebe","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","Meier","MEIOSISS","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Monochrom","Morgengymnastik","Multicolor","Nachtschub","Nass vom Bass","Nine O Nine","Ninecircles","nomind.","Opération","Out of Space","Oxygene","Paradies Garten","Park It Here","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Purradox","PUSH","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schere3000","Schlachthaus","Schlaflos","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","SIGNAL","SIN","Slutlabs","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","The Academy","The Hive","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Unkwn","Untz Baby Untz","up/or","Verknallt","Vertigo","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wyldhearts","Xperiment","YE","YN Collective","Zorro Azul","Zuckerwatt","Zyklop Audio"];
@@ -5198,6 +5210,57 @@ const CI={
   ],
   "infoChk": "2026-11-04",
   "noLogo": "2026-11-04"
+ },
+ "Vitamin.BPM": {
+  "de": "Wiener Techno-Veranstalter mit eigener Website; präsentiert u. a. die Techno-Reihe „Org“ im Loop am Gürtel und wird bei Partys wie „Schrille Marille“ (Rhiz) und „Techno Banane“ (Tagada) beworben.",
+  "en": "Viennese techno promoter with its own website; presents the techno series “Org” at Loop on the Gürtel and is promoted at parties such as “Schrille Marille” (Rhiz) and “Techno Banane” (Tagada).",
+  "from": "Wien",
+  "web": "https://vitaminbpm.com",
+  "src": [
+   "https://de.ra.co/events/2531884",
+   "https://ra.co/events/2523805",
+   "https://www.technoairlines.com/event/5-org-loop-2026-11-06"
+  ],
+  "noLogo": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "Entropy": {
+  "de": "Neu gegründeter Wiener Kulturverein (auf Instagram „Collective Entropy“), der Artists unterstützen, Vernetzung ermöglichen und Raum für neue Ideen schaffen will; musikalisch Hardgroove, Hard Dance, Hardbounce und Hard Techno. Erste offizielle Party im November 2026 im Loop.",
+  "en": "Newly founded Viennese cultural association (“Collective Entropy” on Instagram) aiming to support artists, enable networking and create space for new ideas; musically hardgroove, hard dance, hard bounce and hard techno. First official party in November 2026 at Loop.",
+  "alias": [
+   "Collective Entropy"
+  ],
+  "from": "Wien",
+  "src": [
+   "https://loop.co.at/event/entropy/"
+  ],
+  "noLogo": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "VIE'n'B": {
+  "de": "Wiener Drum-&-Bass-Kollektiv mit Partys im Loop, die von Liquid und Deep über Dancefloor bis Jump-Up und Neurofunk die ganze Bandbreite des Genres abdecken.",
+  "en": "Viennese drum & bass collective with parties at Loop covering the full range of the genre, from liquid and deep to dancefloor, jump-up and neurofunk.",
+  "type": [
+   "Kollektiv"
+  ],
+  "from": "Wien",
+  "src": [
+   "https://loop.co.at/event/vienb_21_11_26/"
+  ],
+  "noLogo": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "CitrusCue": {
+  "de": "Wiener Veranstalter von Bassmusik-Nächten im Club Lucia – von tiefen, atmosphärischen Sounds bis zu schwerer, groove-getriebener Clubenergie, mit internationalen Gästen und lokalem Support.",
+  "en": "Viennese promoter of bass music nights at Club Lucia, from deep, atmospheric sounds to heavy, groove-driven club energy, with international guests and local support.",
+  "from": "Wien",
+  "sc": "https://soundcloud.com/citruscue-official",
+  "src": [
+   "https://ra.co/events/2575308",
+   "https://soundcloud.com/citruscue-official/dj-xy-bass-set-lucia"
+  ],
+  "noLogo": "2026-11-04",
+  "infoChk": "2026-11-04"
  }
 };
 const VI={
@@ -11839,10 +11902,11 @@ const AR={
   "noImg": "2026-11-03"
  },
  "Kasho Chualan": {
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-04",
   "img": "https://f4.bcbits.com/img/0047713957_10.jpg",
   "links": {
-   "bc": "https://kasho.bandcamp.com"
+   "bc": "https://kasho.bandcamp.com",
+   "sp": "https://open.spotify.com/artist/4R7YKJ8MeTr7YfmaF149na"
   },
   "from": {
    "de": "Kurdisch-kanadisch, lebt in Wien",
@@ -11854,11 +11918,12 @@ const AR={
   },
   "src": [
    "https://kasho.bandcamp.com/",
-   "https://www.kontejner.org/en/osobe/kasho-chualan-kuca"
+   "https://www.kontejner.org/en/osobe/kasho-chualan-kuca",
+   "https://open.spotify.com/artist/4R7YKJ8MeTr7YfmaF149na"
   ]
  },
  "Parajekt": {
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-04",
   "img": "https://f4.bcbits.com/img/0040447540_10.jpg",
   "bio": {
    "de": "Parajekt ist das Wiener Elektronik-Duo von Bernhard Hammer und Matija Schellander. Ihre Musik entsteht mit Drum Machines, Samplern, Modularsynthesizern und Effekten, aufgenommen auf Tonband und anschließend mit Dub-Techniken weiterbearbeitet; sie verbindet elektronische Beatmusik mit Musique concrète und Noise. Das selbstbetitelte Album erschien im Jänner 2026 auf Palazzo Recordings.",
@@ -11870,7 +11935,8 @@ const AR={
   },
   "real": "Bernhard Hammer & Matija Schellander",
   "links": {
-   "bc": "https://parajekt.bandcamp.com/"
+   "bc": "https://parajekt.bandcamp.com/",
+   "sp": "https://open.spotify.com/artist/3s9cFIB18L0xydVWz9PANW"
   },
   "labels": [
    "Palazzo Recordings"
@@ -11883,7 +11949,8 @@ const AR={
   "src": [
    "https://parajekt.bandcamp.com/",
    "https://parajekt.bandcamp.com/album/parajekt-2",
-   "https://www.dancingvinyl.com/release/1759469450021/parajekt-parajekt-(lp)"
+   "https://www.dancingvinyl.com/release/1759469450021/parajekt-parajekt-(lp)",
+   "https://open.spotify.com/album/4IFiUtgy31MpcYs9GFaNB6"
   ]
  },
  "Eye F": {
@@ -11959,8 +12026,8 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "MJANE": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-04",
+  "noImg": "2026-11-04",
   "links": {
    "ig": "https://www.instagram.com/mjane.upd8e"
   },
@@ -11980,7 +12047,8 @@ const AR={
   ],
   "src": [
    "https://www.mqw.at/en/program/monday-listening-club-hosted-by-martin-markeli-special-guest-mjane"
-  ]
+  ],
+  "noLinks": "2026-11-04"
  },
  "Miyra Lim": {
   "img": "https://static.ra.co/images/profiles/square/miyralim.jpg?dateUpdated=1734399689000",
@@ -12216,7 +12284,19 @@ const AR={
   "src": [
    "https://fr.ra.co/dj/edictum"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "alias": [
+   "Mycorave",
+   "Shades of Thunder",
+   "Schwahappel"
+  ],
+  "sets": [
+   {
+    "t": "Radio Analogique DJ-Set by Edictum",
+    "u": "https://soundcloud.com/analogiquemusic/radio-analogique-djset-by-edictum"
+   }
+  ],
+  "setsChecked": "2026-11-04"
  },
  "Matt Ludlam": {
   "infoChk": "2026-11-03",
@@ -12937,7 +13017,7 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Mama Demba": {
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-04",
   "img": "https://leguesswho.com/media/acts%202026/Mama%20Demba.jpg",
   "links": {
    "ig": "https://www.instagram.com/mamademba_djset"
@@ -12957,7 +13037,8 @@ const AR={
    "https://leguesswho.com/lineup/mama-demba",
    "https://operator-radio.com/artists/mama-demba",
    "https://ra.co/events/2568365"
-  ]
+  ],
+  "noLinks": "2026-11-04"
  },
  "The Res": {
   "noImg": "2026-11-03",
@@ -14202,15 +14283,16 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Gush Valley": {
-  "noImg": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-04",
+  "infoChk": "2026-11-04",
   "links": {
    "ig": "https://www.instagram.com/gush.valley/"
   },
   "src": [
    "https://www.instagram.com/gush.valley/",
    "https://de.ra.co/events/2384766"
-  ]
+  ],
+  "noLinks": "2026-11-04"
  },
  "Darina": {
   "noImg": "2026-11-03",
@@ -15650,7 +15732,8 @@ const AR={
  "IVUR": {
   "img": "https://f4.bcbits.com/img/0028539340_21.jpg",
   "links": {
-   "bc": "https://ivur.bandcamp.com"
+   "bc": "https://ivur.bandcamp.com",
+   "sp": "https://open.spotify.com/artist/5Pny9VVWC7yCzC1z0phGlE"
   },
   "from": {
    "de": "Österreich",
@@ -15667,9 +15750,10 @@ const AR={
    "Synthpop"
   ],
   "src": [
-   "https://ivur.bandcamp.com/track/fire"
+   "https://ivur.bandcamp.com/track/fire",
+   "https://open.spotify.com/track/4247PxKNOzGZnQN2LyhPHL"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-04"
  },
  "Illtek": {
   "infoChk": "2026-11-03",
@@ -19301,7 +19385,8 @@ const AR={
   "src": [
    "https://dev2.elevate.at/en/music/artists/mitra"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-04",
+  "noLinks": "2026-11-04"
  },
  "MANY MAMMUT": {
   "links": {
@@ -46096,6 +46181,175 @@ const AR={
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04"
+ },
+ "LUXUS": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "BISHØP": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "SLUTBASS": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "Jubin Kim Amiri": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "QuotenDJ": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "BoyToyBeats": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "Stubble & Rust": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "L!KA": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "BON": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "ILLA": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "L!XXL": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "MANDALA": {
+  "noImg": "2026-11-04",
+  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "LustMusik": {
+  "links": {
+   "sc": "https://soundcloud.com/lustmusik"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "LustMusik ist ein Wiener Techno-Act, der zugleich eigene Clubnächte veranstaltet: Laut RA steht LustMusik als Veranstalter hinter „Schrille Marille“ im Rhiz und „Techno Banane“ im Tagada und spielt dort auch selbst.",
+   "en": "LustMusik is a Viennese techno act who also runs club nights: according to RA, LustMusik is behind “Schrille Marille” at Rhiz and “Techno Banane” at Tagada and also plays at them."
+  },
+  "genres": [
+   "Techno"
+  ],
+  "src": [
+   "https://soundcloud.com/lustmusik",
+   "https://de.ra.co/events/2531884",
+   "https://ra.co/events/2523805"
+  ],
+  "noImg": "2026-11-04",
+  "infoChk": "2026-11-04"
+ },
+ "COIDO": {
+  "links": {
+   "ra": "https://ra.co/dj/coido",
+   "ig": "https://www.instagram.com/coido__",
+   "bc": "https://coido.bandcamp.com"
+  },
+  "img": "https://static.ra.co/images/profiles/square/coido.jpg?dateUpdated=1748624023887",
+  "from": {
+   "de": "Italien, lebt in Deutschland",
+   "en": "Italy, based in Germany"
+  },
+  "bio": {
+   "de": "COIDO (Fabrizio Carlini) ist ein in Italien geborener, in Deutschland lebender Producer und DJ mit Releases u. a. auf Exit Records, Well Street Records, YUKU und Nerve Collect. Sein futuristischer Stil verbindet Techno, Breakbeat, Jersey Club und globale Grooves.",
+   "en": "COIDO (Fabrizio Carlini) is an Italian-born, Germany-based producer and DJ with releases on labels including Exit Records, Well Street Records, YUKU and Nerve Collect. His futuristic style draws on techno, breakbeat, Jersey club and global grooves."
+  },
+  "real": "Fabrizio Carlini",
+  "labels": [
+   "Exit Records",
+   "Well Street Records",
+   "YUKU",
+   "Nerve Collect"
+  ],
+  "src": [
+   "https://ra.co/dj/coido",
+   "https://ra.co/events/2575308"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "yarx": {
+  "links": {
+   "ra": "https://ra.co/dj/yarx",
+   "sc": "https://soundcloud.com/yarxn",
+   "ig": "https://www.instagram.com/yarx000000"
+  },
+  "img": "https://static.ra.co/images/profiles/square/yarx.jpg?dateUpdated=1756120114830",
+  "from": {
+   "de": "Ankara (Türkei), lebt in Wien",
+   "en": "Ankara (Turkey), based in Vienna"
+  },
+  "bio": {
+   "de": "yarx ist DJ und Forscherin bzw. Forscher aus Ankara mit Sitz in Wien. Die Sets verbinden Left-Field-Dubstep, Grime, Jungle und Footwork mit Post-Club-Sounds und perkussiven Tracks und greifen dabei SWANA-Rhythmen und diasporische Erfahrungen auf.",
+   "en": "yarx is a DJ and researcher from Ankara based in Vienna, blending left-field dubstep, grime, jungle and footwork with post-club sounds and percussion-driven tracks, drawing on SWANA rhythms and diasporic experience."
+  },
+  "src": [
+   "https://ra.co/dj/yarx"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "A_Phan": {
+  "links": {
+   "ra": "https://ra.co/dj/a_phan",
+   "sc": "https://soundcloud.com/aljhonphan",
+   "ig": "https://www.instagram.com/manuelcyrill",
+   "bc": "https://a-phan.bandcamp.com"
+  },
+  "img": "https://static.ra.co/images/profiles/square/a_phan.jpg?dateUpdated=1740402716000",
+  "from": {
+   "de": "Österreich, aktiv in Wien",
+   "en": "Austria, active in Vienna"
+  },
+  "bio": {
+   "de": "A_Phan (Manuel Cyrill Bachinger) ist ein österreichischer Live-Act, der vor allem in Wien auftritt, u. a. bei einer Release-Präsentation von sama recordings im KV.R. Gemeinsam mit FRNRKE veröffentlichte er ein Album, das im November 2025 im FLUCC präsentiert wurde.",
+   "en": "A_Phan (Manuel Cyrill Bachinger) is an Austrian live act performing mainly in Vienna, including at a sama recordings release presentation at KV.R. Together with FRNRKE he released an album presented at FLUCC in November 2025."
+  },
+  "real": "Manuel Cyrill Bachinger",
+  "src": [
+   "https://de.ra.co/dj/a_phan",
+   "https://soundcloud.com/aphanfrnrke/light-fog"
+  ],
+  "infoChk": "2026-11-04"
+ },
+ "FRNRKE": {
+  "links": {
+   "sc": "https://soundcloud.com/aphanfrnrke"
+  },
+  "bio": {
+   "de": "FRNRKE bildet gemeinsam mit A_Phan ein Live-Duo; die beiden veröffentlichen gemeinsam auf SoundCloud (u. a. „Light Fog“) und stellten im November 2025 im FLUCC ein gemeinsames Album vor.",
+   "en": "FRNRKE forms a live duo with A_Phan; the two release music together on SoundCloud (e.g. “Light Fog”) and presented a joint album at FLUCC in November 2025."
+  },
+  "src": [
+   "https://soundcloud.com/aphanfrnrke/light-fog",
+   "https://de.ra.co/dj/a_phan"
+  ],
+  "noImg": "2026-11-04",
+  "infoChk": "2026-11-04"
  }
 };
 
