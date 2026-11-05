@@ -5263,6 +5263,48 @@ const CI={
   ],
   "noLogo": "2026-11-04",
   "infoChk": "2026-11-04"
+ },
+ "Clubgewandte": {
+  "de": "Clubnacht im Gebäude der Universität für angewandte Kunst in der ehemaligen Postsparkasse (Angewandte PSK) mit Live-Musik, DJ-Sets und Kunst, meist bei freiem Eintritt.",
+  "en": "Club night in the University of Applied Arts' building in the former Postal Savings Bank (Angewandte PSK), with live music, DJ sets and art, usually with free entry.",
+  "from": "Wien",
+  "noLogo": "2026-11-05",
+  "infoChk": "2026-11-05",
+  "src": [
+   "https://ra.co/promoters/191529",
+   "https://ra.co/events/2574665"
+  ]
+ },
+ "nomenklatur": {
+  "alias": [
+   "nomenklatur.notes"
+  ],
+  "ig": "https://www.instagram.com/nomenklatur.notes/",
+  "de": "Wiener Veranstaltungsreihe (nomenklatur.notes), die u. a. im Rhiz Live-Konzerte aus dem Bereich Ambient und Experimental präsentiert.",
+  "en": "Vienna event series (nomenklatur.notes) presenting ambient and experimental live concerts, including at Rhiz.",
+  "noLogo": "2026-11-05",
+  "infoChk": "2026-11-05",
+  "src": [
+   "https://ra.co/events/2543911"
+  ]
+ },
+ "AIMmanagemnt": {
+  "de": "Veranstalter von Psytrance-Nächten in Wien, etwa „OUT OF SPACE“ im Weberknecht.",
+  "en": "Promoter of psytrance nights in Vienna, such as “OUT OF SPACE” at Weberknecht.",
+  "noLogo": "2026-11-05",
+  "infoChk": "2026-11-05",
+  "src": [
+   "https://ra.co/events/2575241"
+  ]
+ },
+ "Patches": {
+  "de": "Wiener Partyreihe für Breakbeat- und Club-Sounds mit eigener Crew und Gast-DJs; legt Wert darauf, dass sich alle auf der Party wohlfühlen.",
+  "en": "Vienna party series for breakbeat and club sounds with its own crew and guest DJs; stresses that everyone should feel comfortable at the party.",
+  "noLogo": "2026-11-05",
+  "infoChk": "2026-11-05",
+  "src": [
+   "https://ra.co/events/2575843"
+  ]
  }
 };
 const VI={
@@ -6148,8 +6190,11 @@ const VI={
    "Indoor"
   ],
   "src": [
-   "https://ra.co/events/2574665"
-  ]
+   "https://ra.co/clubs/298984"
+  ],
+  "web": "https://angewandte.at",
+  "noLogo": "2026-11-05",
+  "infoChk": "2026-11-05"
  }
 };
 /* LS = Logo-Suche ohne Treffer für Locations (v) / Kollektive (c) ohne VI-/CI-Eintrag: Datum der letzten Suche; frühestens 60 Tage danach erneut suchen. */
@@ -46377,6 +46422,163 @@ const AR={
   ],
   "noImg": "2026-11-04",
   "infoChk": "2026-11-04"
+ },
+ "Lamsi": {
+  "img": "https://static.ra.co/images/profiles/square/lamsi.jpg?dateUpdated=1682067840000",
+  "real": "Kevin Lamsberg",
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "links": {
+   "ra": "https://ra.co/dj/lamsi",
+   "sc": "https://www.soundcloud.com/lvmsi",
+   "bc": "https://lamsi.bandcamp.com",
+   "ig": "https://www.instagram.com/lamsi",
+   "web": "https://linktr.ee/lamsi"
+  },
+  "bio": {
+   "de": "LAMSI ist ein DJ aus den Niederlanden, der laut RA vor allem in Amsterdam, London und Berlin spielt, etwa im Skatecafe, Parallel und kanaal40 sowie bei FABRICLIVE in London.",
+   "en": "LAMSI is a DJ from the Netherlands who, according to RA, mostly plays Amsterdam, London and Berlin, including Skatecafe, Parallel and kanaal40 as well as FABRICLIVE in London."
+  },
+  "infoChk": "2026-11-05",
+  "src": [
+   "https://ra.co/dj/lamsi"
+  ]
+ },
+ "Keeo.fm": {
+  "img": "https://static.ra.co/images/profiles/square/keeo.fm.jpg?dateUpdated=1767088805000",
+  "real": "Gabriel",
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "links": {
+   "ra": "https://ra.co/dj/keeo.fm",
+   "sc": "https://www.soundcloud.com/keeo-fm",
+   "ig": "https://www.instagram.com/keeo.fm"
+  },
+  "bio": {
+   "de": "Keeo.fm ist ein DJ aus Wien, seit 2026 auf RA gelistet. Er spielte 2026 u. a. bei der Park It Here Summer Edition, bei Palais Session und beim Paradies Garten Festival.",
+   "en": "Keeo.fm is a Vienna-based DJ, listed on RA since 2026. In 2026 he played Park It Here Summer Edition, Palais Session and Paradies Garten Festival, among others."
+  },
+  "infoChk": "2026-11-05",
+  "src": [
+   "https://ra.co/dj/keeo.fm"
+  ]
+ },
+ "Liquidsound": {
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "links": {
+   "mc": "https://www.mixcloud.com/peter-liquidsound/"
+  },
+  "labels": [
+   "Enterrec"
+  ],
+  "bio": {
+   "de": "Liquidsound ist ein Psytrance-DJ aus Österreich, der dem Label Enterrec zugeordnet ist.",
+   "en": "Liquidsound is an Austrian psytrance DJ associated with the label Enterrec."
+  },
+  "noImg": "2026-11-05",
+  "infoChk": "2026-11-05",
+  "src": [
+   "https://ra.co/events/2575241",
+   "https://www.mixcloud.com/peter-liquidsound/"
+  ]
+ },
+ "Spoonwalker": {
+  "from": {
+   "de": "Tschechien",
+   "en": "Czech Republic"
+  },
+  "links": {
+   "sc": "https://soundcloud.com/spoonwalker"
+  },
+  "bio": {
+   "de": "Spoonwalker ist ein Psytrance-Act aus Tschechien, angekündigt mit Verweis auf das Psyna Festival; im November 2026 spielt er erstmals in Wien.",
+   "en": "Spoonwalker is a psytrance act from the Czech Republic, billed with reference to Psyna Festival; November 2026 marks his first Vienna show."
+  },
+  "noImg": "2026-11-05",
+  "infoChk": "2026-11-05",
+  "src": [
+   "https://ra.co/events/2575241"
+  ]
+ },
+ "El Tony Mate": {
+  "links": {
+   "sc": "https://soundcloud.com/el_tony_mate"
+  },
+  "noImg": "2026-11-05",
+  "infoChk": "2026-11-05"
+ },
+ "Dagmar Zuniga": {
+  "from": {
+   "de": "USA (Brooklyn)",
+   "en": "USA (Brooklyn)"
+  },
+  "links": {
+   "sp": "https://open.spotify.com/artist/59ZW99eqMF7Iv6QayaCD3Q",
+   "ig": "https://www.instagram.com/dagmarzuni/",
+   "web": "https://dagmarzuniga.neocities.org/"
+  },
+  "bio": {
+   "de": "Dagmar Zuniga ist eine nicaraguanisch-amerikanische Experimental-Folk-Künstlerin aus Brooklyn. Ihr über fünf Jahre auf einem Tascam-Vierspur aufgenommenes Debütalbum „in filth your mystery is kingdom / far smile peasant in yellow music“ (2025) verbindet Psych-Folk, Tonbandrauschen, verzerrte Gitarren und Synths. Sie trat u. a. bei NTS Radio und dem Rewire Festival auf und eröffnete Shows für Mount Eerie.",
+   "en": "Dagmar Zuniga is a Nicaraguan-American experimental folk artist based in Brooklyn. Her debut album “in filth your mystery is kingdom / far smile peasant in yellow music” (2025), recorded over five years on a Tascam four-track, blends psych folk, tape hiss, distorted guitars and synths. She has appeared on NTS Radio and at Rewire Festival and opened shows for Mount Eerie."
+  },
+  "noImg": "2026-11-05",
+  "infoChk": "2026-11-05",
+  "src": [
+   "https://ra.co/events/2543911",
+   "https://www.thefader.com/2025/06/03/dagmar-zuniga-opener-interview"
+  ]
+ },
+ "MИLO": {
+  "noImg": "2026-11-05",
+  "noLinks": "2026-11-05",
+  "infoChk": "2026-11-05"
+ },
+ "Melodic Soul": {
+  "noImg": "2026-11-05",
+  "noLinks": "2026-11-05",
+  "infoChk": "2026-11-05"
+ },
+ "luci jacuzzi": {
+  "noImg": "2026-11-05",
+  "noLinks": "2026-11-05",
+  "infoChk": "2026-11-05"
+ },
+ "mel e logan": {
+  "noImg": "2026-11-05",
+  "noLinks": "2026-11-05",
+  "infoChk": "2026-11-05"
+ },
+ "Dr. Schick": {
+  "noImg": "2026-11-05",
+  "noLinks": "2026-11-05",
+  "infoChk": "2026-11-05"
+ },
+ "Meander": {
+  "noImg": "2026-11-05",
+  "noLinks": "2026-11-05",
+  "infoChk": "2026-11-05"
+ },
+ "dj ayran": {
+  "noImg": "2026-11-05",
+  "noLinks": "2026-11-05",
+  "infoChk": "2026-11-05"
+ },
+ "Tursa": {
+  "noImg": "2026-11-05",
+  "noLinks": "2026-11-05",
+  "infoChk": "2026-11-05"
+ },
+ "Peter Spielmann": {
+  "noImg": "2026-11-05",
+  "noLinks": "2026-11-05",
+  "infoChk": "2026-11-05"
  }
 };
 
