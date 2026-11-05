@@ -1,6 +1,7 @@
 // Automatisch erzeugt (.github/scripts/geocode.js, Daten © OpenStreetMap-Mitwirkende) – nicht bearbeiten.
 const GEO2={
 "Altia Skybar – DC Tower":[48.23197,16.4137],
+"Angewandte PSK":[48.20998,16.38065],
 "B72":[48.21512,16.34099],
 "Coco Bar":[48.21031,16.339],
 "Fanialive Wien":[48.20948,16.33922],
