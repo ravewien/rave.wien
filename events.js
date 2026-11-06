@@ -35735,8 +35735,12 @@ const AR={
     "u": "https://soundcloud.com/philocgn/philo-at-fusion-2025-i-querfeld"
    },
    {
-    "t": "Philo @ HÖR Berlin (01.12.2023)",
-    "u": "https://soundcloud.com/philocgn/philo-hor-berlin-011223"
+    "t": "Philo b2b Tem Pura (HÖR takeover) @ Fi 29.03.25",
+    "u": "https://soundcloud.com/philocgn/philo-b2b-tem-pura-hor-takeover-fi-290325"
+   },
+   {
+    "t": "20231018 - Take a Break on jungletrain.net feat. dj kleinkriminell",
+    "u": "https://soundcloud.com/philocgn/231018-take-a-break-on-jungletrainnet-feat-dj-kleinkriminell"
    }
   ],
   "setsChecked": "2026-11-06",
