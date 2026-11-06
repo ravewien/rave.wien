@@ -1550,7 +1550,7 @@ function rects(){const r={};st.cards.forEach(c=>{const el=CEL[ck(c)];if(el)r[ck(
 const PEEKH=54,PEEKD=40;
 function layoutStack(){
   const rc=$("rcol");const els=st.cards.map(c=>CEL[ck(c)]).filter(Boolean);
-  els.forEach(el=>{el.classList.remove("under","front","multi","peek");["top","bottom","height","zIndex","transform","order","maxHeight"].forEach(p=>el.style[p]="")});
+  els.forEach(el=>{el.classList.remove("under","front","multi","peek","pk2");["top","bottom","height","zIndex","transform","order","maxHeight"].forEach(p=>el.style[p]="")});
   rc.classList.remove("stacked");rc.style.height="";document.body.style.paddingBottom=DOCKH?DOCKH+16+"px":"";
   const n=els.length;const D=DOCKH;
   $("stackx").hidden=true;
