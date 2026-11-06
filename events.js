@@ -5671,10 +5671,6 @@ const VI={
   "en": "Techno club in the former Albertina Passage between the Ring and the State Opera, run by the HORST GROUP since 2019 – with a main floor, Salon Wasabi, a chill-out area and the Rote Bar.",
   "opened": "2019",
   "floors": [
-   "Mainfloor",
-   "Salon Wasabi",
-   "Chill Out Area",
-   "Rote Bar",
    "Core",
    "Orbit",
    "Konsulat"
@@ -5694,7 +5690,8 @@ const VI={
   ],
   "resSrc": [
    "https://ra.co/dj/albinbrezlan/biography"
-  ]
+  ],
+  "man": 1
  },
  "Libelle": {
   "web": "https://www.libelle.at/",
