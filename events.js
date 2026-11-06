@@ -5306,6 +5306,15 @@ const CI={
   "src": [
    "https://ra.co/events/2575843"
   ]
+ },
+ "Kleingeld Kollektiv": {
+  "de": "Wiener Kollektiv, das Klubnächte im Club Lucia veranstaltet.",
+  "en": "Vienna collective hosting club nights at Club Lucia.",
+  "noLogo": "2026-11-06",
+  "infoChk": "2026-11-06",
+  "src": [
+   "https://www.technoairlines.com/event/kleingeld-kollektiv-klubnacht-club-lucia-2026-11-21"
+  ]
  }
 };
 const VI={
@@ -35698,11 +35707,12 @@ const AR={
    "ra": "https://ra.co/dj/philo_",
    "sc": "https://soundcloud.com/philocgn",
    "ig": "https://www.instagram.com/philorbn",
-   "bc": "https://philoxdreadmaul.bandcamp.com"
+   "bc": "https://philoxdreadmaul.bandcamp.com",
+   "web": "https://linktr.ee/philorbn"
   },
   "bio": {
-   "de": "Philo ist eine DJ mit Bezug zu Köln und Wien. Ihre eklektischen Sets sind von UK-Einflüssen geprägt und wechseln zwischen Breakbeat, 4-to-the-floor, House und Techno, mit einem Hauch 90er-Nostalgie. Releases bzw. Labelbezug u. a. Nice & Deadly, Miura Records, Hardcore Energy und STEREO 45; zudem Radioshows auf jungletrain.net.",
-   "en": "Philo is a DJ connected to Cologne and Vienna. Her eclectic sets draw from UK influences, shifting between breakbeat, 4-to-the-floor, house and techno, with a touch of 90s nostalgia. Label credits include Nice & Deadly, Miura Records, Hardcore Energy and STEREO 45; she also hosts radio shows on jungletrain.net."
+   "de": "DJ mit eklektischen Sets voller UK-Einflüsse zwischen Breakbeat, 4-to-the-floor, House und Techno, mit einem Hauch 90er-Nostalgie. Spielt vor allem in Köln, Wien, Berlin und Hamburg (u. a. Golden Pudel Club).",
+   "en": "DJ with eclectic, UK-influenced sets shifting between breakbeat, 4-to-the-floor, house and techno, with a touch of 90s nostalgia. Plays mostly in Cologne, Vienna, Berlin and Hamburg (incl. Golden Pudel Club)."
   },
   "from": {
    "de": "Österreich",
@@ -35735,11 +35745,13 @@ const AR={
   ],
   "setsChecked": "2026-11-04",
   "src": [
-   "https://ra.co/dj/philo_",
-   "https://ra.co/events/2325029",
-   "https://soundcloud.com/philocgn"
+   "https://ra.co/dj/philo_"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-06",
+  "real": "Philomene Robinne",
+  "alias": [
+   "Philo"
+  ]
  },
  "cosmic motion": {
   "infoChk": "2026-11-04",
@@ -46580,6 +46592,123 @@ const AR={
   "noImg": "2026-11-05",
   "noLinks": "2026-11-05",
   "infoChk": "2026-11-05"
+ },
+ "KRN": {
+  "img": "https://static.ra.co/images/profiles/square/krn.jpg?dateUpdated=1793026981000",
+  "real": "Philip Kearney",
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "links": {
+   "ra": "https://ra.co/dj/krn",
+   "sc": "https://soundcloud.com/k_rn"
+  },
+  "bio": {
+   "de": "DJ aus dem Vereinigten Königreich, der vor allem in London, Berlin, Paris und Edinburgh auflegt. 2024 lieferte er den RA-Podcast RA.951; 2026 spielte er u. a. beim Dimensions Festival in Kroatien.",
+   "en": "DJ from the United Kingdom who plays mostly in London, Berlin, Paris and Edinburgh. In 2024 he recorded the RA podcast RA.951; in 2026 he played Dimensions Festival in Croatia, among others."
+  },
+  "festivals": [
+   "Dimensions Festival"
+  ],
+  "infoChk": "2026-11-06",
+  "src": [
+   "https://ra.co/dj/krn",
+   "https://ra.co/podcast/951"
+  ]
+ },
+ "HAYA": {
+  "from": {
+   "de": "Haifa",
+   "en": "Haifa"
+  },
+  "links": {
+   "ig": "https://www.instagram.com/hayabu6"
+  },
+  "bio": {
+   "de": "Palästinensische DJ aus Haifa und Mitglied des Underground-Kollektivs Makhluta. Bekannt für energiegeladene Sets zwischen Hard Groove, bouncy Techno, Dembow und Breakbeat.",
+   "en": "Haifa-based Palestinian DJ and member of the underground collective Makhluta, known for high-energy sets blending hard groove, bouncy techno, dembow and breakbeat."
+  },
+  "genres": [
+   "Hardgroove",
+   "Techno",
+   "Dembow",
+   "Breakbeat"
+  ],
+  "noImg": "2026-11-06",
+  "noLinks": "2026-11-06",
+  "infoChk": "2026-11-06",
+  "src": [
+   "https://www.tickettailor.com/events/klubhalal/2454809"
+  ]
+ },
+ "Bambalan": {
+  "img": "https://static.ra.co/images/profiles/square/bambalan.jpg?dateUpdated=1664379407000",
+  "real": "Jürgen Bambalan",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "links": {
+   "ra": "https://ra.co/dj/bambalan",
+   "ig": "https://www.instagram.com/bamba_lan"
+  },
+  "bio": {
+   "de": "Wiener DJ, der laut RA vor allem im SASS Music Club, im Porto Pollo und im Flex auflegt – häufig bei Abenden von club fatale und café fatale.",
+   "en": "Vienna DJ who, according to RA, plays mostly at SASS Music Club, Porto Pollo and Flex – often at club fatale and café fatale nights."
+  },
+  "clubs": [
+   "SASS Music Club",
+   "Porto Pollo",
+   "Flex"
+  ],
+  "infoChk": "2026-11-06",
+  "src": [
+   "https://ra.co/dj/bambalan"
+  ]
+ },
+ "NO ONE": {
+  "noImg": "2026-11-06",
+  "noLinks": "2026-11-06",
+  "infoChk": "2026-11-06"
+ },
+ "Robert Maslach": {
+  "noImg": "2026-11-06",
+  "noLinks": "2026-11-06",
+  "infoChk": "2026-11-06"
+ },
+ "The Wash": {
+  "img": "https://static.ra.co/images/profiles/thewash.jpg?dateUpdated=1412159945410",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "links": {
+   "ra": "https://ra.co/dj/thewash",
+   "sc": "https://soundcloud.com/the_wash"
+  },
+  "bio": {
+   "de": "Wiener DJ und Produzent im Bereich Progressive House und Techno, außerdem Redakteur bei Progressive World. Seine Produktionen und Remixe wurden u. a. von Nicole Moudaber, Guy J und Cosmic Gate gespielt; Auftritte in Pratersauna, Grelle Forelle und Flex sowie Residency bei „Hard On“ in Wien.",
+   "en": "Vienna DJ and producer of progressive house and techno, also an editor for Progressive World. His productions and remixes have been played by Nicole Moudaber, Guy J and Cosmic Gate, among others; he has played Pratersauna, Grelle Forelle and Flex and held a residency at “Hard On” in Vienna."
+  },
+  "genres": [
+   "Progressive House",
+   "Tech House",
+   "Techno"
+  ],
+  "labels": [
+   "inU"
+  ],
+  "clubs": [
+   "Pratersauna",
+   "Grelle Forelle",
+   "Flex"
+  ],
+  "infoChk": "2026-11-06",
+  "src": [
+   "https://ra.co/dj/thewash",
+   "https://www.bandsintown.com/es/e/1014664009-the-wash-at-grelle-forelle"
+  ]
  }
 };
 
