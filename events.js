@@ -35731,19 +35731,15 @@ const AR={
   ],
   "sets": [
    {
-    "t": "Philo b2b Tem Pura (HÖR takeover) @ Fi 29.03.25",
-    "u": "https://soundcloud.com/philocgn/philo-b2b-tem-pura-hor-takeover-fi-290325"
+    "t": "Philo at Fusion 2025 I Querfeld",
+    "u": "https://soundcloud.com/philocgn/philo-at-fusion-2025-i-querfeld"
    },
    {
-    "t": "20231018 - Take a Break on jungletrain.net feat. dj kleinkriminell",
-    "u": "https://soundcloud.com/philocgn/231018-take-a-break-on-jungletrainnet-feat-dj-kleinkriminell"
-   },
-   {
-    "t": "230823 - Take a Break on jungletrain.net feat. DJ OK",
-    "u": "https://soundcloud.com/philocgn/230823-take-a-break-on-jungletrainnet-feat-dj-ok"
+    "t": "Philo @ HÖR Berlin (01.12.2023)",
+    "u": "https://soundcloud.com/philocgn/philo-hor-berlin-011223"
    }
   ],
-  "setsChecked": "2026-11-04",
+  "setsChecked": "2026-11-06",
   "src": [
    "https://ra.co/dj/philo_"
   ],
@@ -46615,7 +46611,18 @@ const AR={
   "src": [
    "https://ra.co/dj/krn",
    "https://ra.co/podcast/951"
-  ]
+  ],
+  "sets": [
+   {
+    "t": "DIM182 – KRN (Dimensions Mix Series)",
+    "u": "https://soundcloud.com/dimensionsfestival/dim182-krn"
+   },
+   {
+    "t": "Marginal Mix 02 – KRN",
+    "u": "https://soundcloud.com/marginal-returns/marginal-mix-02-krn"
+   }
+  ],
+  "setsChecked": "2026-11-06"
  },
  "HAYA": {
   "from": {
@@ -46708,7 +46715,18 @@ const AR={
   "src": [
    "https://ra.co/dj/thewash",
    "https://www.bandsintown.com/es/e/1014664009-the-wash-at-grelle-forelle"
-  ]
+  ],
+  "sets": [
+   {
+    "t": "ALL NIGHT 2026-01-30",
+    "u": "https://soundcloud.com/the_wash/all-night-2026-01-30"
+   },
+   {
+    "t": "Selador Sessions 284 – The Wash",
+    "u": "https://soundcloud.com/selador-recordings/selador-sessions-284-the-wash"
+   }
+  ],
+  "setsChecked": "2026-11-06"
  }
 };
 
