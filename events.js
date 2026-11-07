@@ -5315,6 +5315,42 @@ const CI={
   "src": [
    "https://www.technoairlines.com/event/kleingeld-kollektiv-klubnacht-club-lucia-2026-11-21"
   ]
+ },
+ "Schall & Schabernack": {
+  "de": "Partyreihe im Club Lucia in Wien.",
+  "en": "Party series at Club Lucia in Vienna.",
+  "alias": [
+   "Schall und Schabernack"
+  ],
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "noLogo": "2026-11-07",
+  "infoChk": "2026-11-07",
+  "src": [
+   "https://de.ra.co/events/2375539"
+  ]
+ },
+ "Apartment Acht": {
+  "de": "Plattenladen und Concept Store in Wien mit Fokus auf Subkultur, der auch Listening Sessions, Konzerte und Partys veranstaltet; seit November 2025 in der Reindorfgasse 44 (1150).",
+  "en": "Vienna record shop and concept store focused on subculture that also hosts listening sessions, concerts and parties; at Reindorfgasse 44 (1150) since November 2025.",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "ig": "https://www.instagram.com/apartment.acht/",
+  "sc": "https://soundcloud.com/apartmentacht",
+  "noLogo": "2026-11-07",
+  "infoChk": "2026-11-07",
+  "src": [
+   "https://de.ra.co/promoters/135485",
+   "https://www.1000thingsmagazine.com/de/a/2176002/apartment-acht-kehrt-zurueck-wien-1150/"
+  ]
+ },
+ "Restless": {
+  "noLogo": "2026-11-07",
+  "infoChk": "2026-11-07"
  }
 };
 const VI={
@@ -46728,6 +46764,210 @@ const AR={
    }
   ],
   "setsChecked": "2026-11-06"
+ },
+ "MZTAY": {
+  "infoChk": "2026-11-07",
+  "noImg": "2026-11-07",
+  "noLinks": "2026-11-07"
+ },
+ "DAFFODRILLS": {
+  "infoChk": "2026-11-07",
+  "noImg": "2026-11-07",
+  "noLinks": "2026-11-07"
+ },
+ "PHAEDRA": {
+  "infoChk": "2026-11-07",
+  "noImg": "2026-11-07",
+  "noLinks": "2026-11-07"
+ },
+ "Laerm": {
+  "infoChk": "2026-11-07",
+  "noImg": "2026-11-07",
+  "noLinks": "2026-11-07"
+ },
+ "bobbyyxjohnson": {
+  "infoChk": "2026-11-07",
+  "noImg": "2026-11-07",
+  "noLinks": "2026-11-07"
+ },
+ "MUSA": {
+  "infoChk": "2026-11-07",
+  "noImg": "2026-11-07",
+  "noLinks": "2026-11-07"
+ },
+ "ADANA": {
+  "infoChk": "2026-11-07",
+  "noImg": "2026-11-07",
+  "noLinks": "2026-11-07"
+ },
+ "Scapula & Weazl": {
+  "infoChk": "2026-11-07",
+  "noImg": "2026-11-07",
+  "noLinks": "2026-11-07"
+ },
+ "Algoriddim Girls": {
+  "img": "https://static.ra.co/images/profiles/square/algoriddimgirls.jpg?dateUpdated=1738233511000",
+  "links": {
+   "ra": "https://ra.co/dj/algoriddimgirls",
+   "ig": "https://www.instagram.com/algoriddim.girls/"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "DJ-Kollektiv aus Wien (Mira, Mathea & Thao), regelmäßig im FLUCC und bei queeren Partys zu hören. Shows u. a. bei Res.Radio („Vienna's Filthiest“) und Radio Rudina („Wet Vienna“).",
+   "en": "Vienna-based DJ collective (Mira, Mathea & Thao), regularly heard at FLUCC and queer parties. Shows on Res.Radio ('Vienna's Filthiest') and Radio Rudina ('Wet Vienna')."
+  },
+  "sets": [
+   {
+    "t": "Algoriddim Girls – Wet Vienna (Radio Rudina)",
+    "u": "https://soundcloud.com/radiorudina/algoriddim-girls-wet-viennna-radio-rudina"
+   },
+   {
+    "t": "Algoriddim Girls @ Res.Radio",
+    "u": "https://soundcloud.com/resradio/algoriddim-girls"
+   }
+  ],
+  "setsChecked": "2026-11-07",
+  "infoChk": "2026-11-07",
+  "src": [
+   "https://ra.co/dj/algoriddimgirls",
+   "https://ra.co/events/2469364"
+  ]
+ },
+ "Mischkonsum": {
+  "img": "https://static.ra.co/images/profiles/mischkonsum.jpg?dateUpdated=1322775967000",
+  "links": {
+   "ra": "https://ra.co/dj/mischkonsum"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "DJ aus Österreich, der sich laut RA-Profil früh in der steirischen Szene etabliert hat.",
+   "en": "Austrian DJ who, according to his RA profile, established himself early in the Styrian scene."
+  },
+  "infoChk": "2026-11-07",
+  "src": [
+   "https://ra.co/dj/mischkonsum",
+   "https://ra.co/events/2573295"
+  ]
+ },
+ "VIERZUDREI": {
+  "img": "https://static.ra.co/images/profiles/square/vierzudrei.jpg?dateUpdated=1781515842000",
+  "links": {
+   "ra": "https://ra.co/dj/vierzudrei",
+   "sc": "https://soundcloud.com/2gwmnJ1Ba5S4kHFmRr",
+   "ig": "https://www.instagram.com/vierzudreii"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Techno-DJ mit Sitz in Wien.",
+   "en": "Techno DJ based in Vienna."
+  },
+  "genres": [
+   "Techno"
+  ],
+  "setsChecked": "2026-11-07",
+  "infoChk": "2026-11-07",
+  "src": [
+   "https://ra.co/dj/vierzudrei"
+  ]
+ },
+ "DETOXX": {
+  "img": "https://static.ra.co/images/profiles/square/detoxx.jpg?dateUpdated=1776181185633",
+  "links": {
+   "ra": "https://ra.co/dj/detoxx",
+   "sc": "https://soundcloud.com/detoxxyourmind"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "bio": {
+   "de": "DJ und Produzent:in aus Brasilien mit Sitz in Berlin, spielt (Hard) Bounce und Hard Dance. Releases u. a. auf Sentiment.",
+   "en": "Brazilian DJ and producer based in Berlin, playing (hard) bounce and hard dance. Releases include Sentiment."
+  },
+  "labels": [
+   "Sentiment"
+  ],
+  "genres": [
+   "Hard Bounce",
+   "Hard Dance"
+  ],
+  "sets": [
+   {
+    "t": "DVAID b2b DETOXX – Hive Bounce",
+    "u": "https://soundcloud.com/dvaid_techno/dvaid-b2b-detoxx-hive-bounce"
+   }
+  ],
+  "setsChecked": "2026-11-07",
+  "infoChk": "2026-11-07",
+  "src": [
+   "https://ra.co/dj/detoxx"
+  ]
+ },
+ "Chrisfader": {
+  "links": {
+   "sc": "https://soundcloud.com/chrisfader-1",
+   "bc": "https://chrisfaderundtesta.bandcamp.com"
+  },
+  "from": {
+   "de": "Tirol / Wien",
+   "en": "Tyrol / Vienna"
+  },
+  "bio": {
+   "de": "Turntablist und DJ, mit Testa als Duo Chrisfader & Testa aktiv (Album „Overland“, 2010, auf Duzz Down San); das Duo gewann mehrere ITF-Titel und wurde 2006 Vierter beim europäischen Finale. Solodebüt „Scratchmusic“. Heute steuert er die Cuts im Wiener Trio Restless Leg Syndrome (mit d.b.h und Testa, Label Little Beat More) bei.",
+   "en": "Turntablist and DJ, active with Testa as the duo Chrisfader & Testa (album 'Overland', 2010, on Duzz Down San); the duo won several ITF titles and placed fourth at the 2006 European finals. Solo debut 'Scratchmusic'. He now does the cuts in the Vienna trio Restless Leg Syndrome (with d.b.h and Testa, on Little Beat More)."
+  },
+  "labels": [
+   "Duzz Down San",
+   "Little Beat More"
+  ],
+  "genres": [
+   "Hip-Hop"
+  ],
+  "sets": [
+   {
+    "t": "Chrisfader – Heat 2023 Mix",
+    "u": "https://soundcloud.com/duzz-down-san-records/chrisfader-heat-2023-mix"
+   }
+  ],
+  "setsChecked": "2026-11-07",
+  "noImg": "2026-11-07",
+  "infoChk": "2026-11-07",
+  "src": [
+   "https://chrisfaderundtesta.bandcamp.com",
+   "https://www.45live.net/magazine/article/restless-leg-syndrome-represent-the-fucking-planet-little-beat-more"
+  ]
+ },
+ "Testa": {
+  "img": "https://f4.bcbits.com/img/0036224829_21.jpg",
+  "links": {
+   "bc": "https://testa1.bandcamp.com"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "DJ, Produzent und Engineer aus Wien, verbunden mit dem Label Duzz Down San. Mit Chrisfader bildet er das Turntablism-Duo Chrisfader & Testa (Album „Overland“, 2010); weitere Projekte sind Von Seiten der Gemeinde, Nødstop und Restless Leg Syndrome (mit d.b.h und Chrisfader). Releases u. a. „Lamo EP“ (2021), „Lano“ und „Guss“ (2024).",
+   "en": "DJ, producer and engineer from Vienna, associated with the label Duzz Down San. With Chrisfader he forms the turntablism duo Chrisfader & Testa (album 'Overland', 2010); other projects include Von Seiten der Gemeinde, Nødstop and Restless Leg Syndrome (with d.b.h and Chrisfader). Releases include 'Lamo EP' (2021), 'Lano' and 'Guss' (2024)."
+  },
+  "labels": [
+   "Duzz Down San",
+   "Little Beat More"
+  ],
+  "infoChk": "2026-11-07",
+  "src": [
+   "https://testa1.bandcamp.com/merch",
+   "https://chrisfaderundtesta.bandcamp.com"
+  ]
  }
 };
 
