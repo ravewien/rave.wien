@@ -1986,7 +1986,10 @@ function texts(){
   ["list","cal","art","col","loc"].forEach(v=>$("v-"+v).setAttribute("aria-pressed",st.view===v));$("v-fav").setAttribute("aria-pressed",st.fav);$("v-fav").title=l.favs;$("favn").textContent=favCount()||"";
   qState();
 }
-function drawer(o){$("side").classList.toggle("open",o);$("dscrim").hidden=!o;$("burger").setAttribute("aria-expanded",o);if(o)$("dclose").focus()}
+// GoatCounter: nur OB Filter/Suche benutzt werden, nicht wonach (je Sitzung einmal)
+const USED=new Set();const gcUse=(k,t)=>{if(USED.has(k))return;USED.add(k);try{gc("nutzung/"+k,t,true)}catch(_){}};
+document.addEventListener("click",ev=>{if(ev.target.closest&&ev.target.closest(".opt[data-k]"))gcUse("filter-gesetzt","Filter gesetzt")},true);
+function drawer(o){if(o&&!$("side").classList.contains("open"))gcUse("filter-geoeffnet","Filter geöffnet (Handy)");$("side").classList.toggle("open",o);$("dscrim").hidden=!o;$("burger").setAttribute("aria-expanded",o);if(o)$("dclose").focus()}
 $("dscrim").addEventListener("click",()=>drawer(false));
 (()=>{let x0=null,y0=0;
   addEventListener("touchstart",ev=>{x0=null;if(!mqMob.matches)return;const open=$("side").classList.contains("open");if(!open&&ev.target.closest(".rcol>.deck:not(.peek),.sugg,input,.mapwrap"))return;x0=ev.touches[0].clientX;y0=ev.touches[0].clientY},{passive:true});
@@ -2107,7 +2110,7 @@ document.addEventListener("click",ev=>{
     reset:()=>{st.q="";$("q").value="";["g","v","c","a","f","src","age","price","time","io"].forEach(k=>{st[k].clear();st.x[k].clear()})}};
   if(map[t.id]){map[t.id]();save();render()}
 });
-$("q").addEventListener("input",e=>{st.q=e.target.value;st.hi=0;qState();renderSugg();renderSide();renderList()});
+$("q").addEventListener("input",e=>{if(e.target.value.trim())gcUse("suche","Suche benutzt");st.q=e.target.value;st.hi=0;qState();renderSugg();renderSide();renderList()});
 $("q").addEventListener("focus",()=>{if(mqSheet.matches&&st.cards.some(c=>!c.min))minAll();renderSugg()});
 $("q").addEventListener("keydown",e=>{
   if($("sugg").hidden||!SUG.length)return;
