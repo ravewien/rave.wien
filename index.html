@@ -864,6 +864,8 @@ footer a:hover{color:var(--accent)}
 .lgt{color:#dfe4ea}.lgt .ph-ico{width:52%;height:52%;color:#7f8794}
 /* Namen in Artist-/Veranstalter-Listen: Pixel-Schrift bleibt, aber weißer und kräftiger */
 .xr .ti{color:#fff;-webkit-text-stroke:.45px #fff;paint-order:stroke fill}
+/* Handy: Filter-Knopf links neben der Suche */
+#msearch{display:flex;align-items:stretch;gap:8px}#msearch>#searchwrap{flex:1;min-width:0}#msearch>.burger{flex:none;width:46px;height:auto;min-height:40px}
 /* Barrierefreiheit */
 @font-face{font-family:"OpenDyslexic";src:url(fonts/opendyslexic-latin-400-normal.woff2) format("woff2");font-weight:400;font-style:normal;font-display:swap}
 @font-face{font-family:"OpenDyslexic";src:url(fonts/opendyslexic-latin-700-normal.woff2) format("woff2");font-weight:600 900;font-style:normal;font-display:swap}
@@ -1990,7 +1992,9 @@ $("dscrim").addEventListener("click",()=>drawer(false));
   addEventListener("touchend",ev=>{if(x0==null)return;const t=ev.changedTouches[0];const dx=t.clientX-x0,dy=t.clientY-y0;x0=null;if(Math.abs(dy)>Math.abs(dx)*.6)return;
     const open=$("side").classList.contains("open");if(!open&&dx>70)drawer(true);else if(open&&dx<-70)drawer(false)},{passive:true});
 })();
-function placeSearch(){const w=$("searchwrap");if(mqMob.matches){if(w.parentNode!==$("msearch"))$("msearch").appendChild(w)}else if(w.parentNode!==$("side"))$("side").insertBefore(w,$("trees"));setTop()}
+function placeSearch(){const w=$("searchwrap"),b=$("burger"),ms=$("msearch"),top=document.querySelector(".top");
+  if(mqMob.matches){if(b.parentNode!==ms)ms.insertBefore(b,ms.firstChild);if(w.parentNode!==ms)ms.appendChild(w)}
+  else{if(b.parentNode!==top)top.insertBefore(b,top.firstChild);if(w.parentNode!==$("side"))$("side").insertBefore(w,$("trees"))}setTop()}
 mqMob.addEventListener?mqMob.addEventListener("change",placeSearch):mqMob.addListener(placeSearch);
 mqSheet.addEventListener?mqSheet.addEventListener("change",()=>layoutStack()):0;
 function setTop(){const t=document.querySelector(".top").offsetHeight;document.documentElement.style.setProperty("--top",t+"px");const ms=$("msearch");document.documentElement.style.setProperty("--top2",(t+(mqMob.matches&&ms.offsetHeight?ms.getBoundingClientRect().height:0))+"px")}
