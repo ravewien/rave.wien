@@ -4736,7 +4736,10 @@ const CI={
    "https://ntry.at/events/383891?l=en"
   ],
   "noLogo": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "alias": [
+   "Kollektiv Klanggerecht"
+  ]
  },
  "In Love": {
   "de": "Wiener Partyreihe zwischen Trance, House, Disco und Breaks mit queerem, buntem Anspruch („sei du selbst … aber vor allem nett zueinander“); Abende u. a. im Jolly Roger und im PRST, teils mit XOXO Rec. oder Sound Sound.",
@@ -5351,6 +5354,10 @@ const CI={
  "Restless": {
   "noLogo": "2026-11-07",
   "infoChk": "2026-11-07"
+ },
+ "Qualia": {
+  "noLogo": "2026-11-08",
+  "infoChk": "2026-11-08"
  }
 };
 const VI={
@@ -6015,7 +6022,13 @@ const VI={
   "floors": [
    "Main Floor"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "residents": [
+   "MEDUN"
+  ],
+  "resSrc": [
+   "https://www.electriclove.at/en/artist/medun-2/"
+  ]
  },
  "Altia Skybar – DC Tower": {
   "src": [
@@ -46967,7 +46980,147 @@ const AR={
   "src": [
    "https://testa1.bandcamp.com/merch",
    "https://chrisfaderundtesta.bandcamp.com"
+  ],
+  "noLinks": "2026-11-08"
+ },
+ "KSHMR": {
+  "img": "https://i.scdn.co/image/ab6761610000f178d6375815b4e8a04d9863c22c",
+  "links": {
+   "ra": "https://ra.co/dj/kshmr",
+   "sc": "https://soundcloud.com/kshmr",
+   "sp": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+  },
+  "from": {
+   "de": "USA",
+   "en": "USA"
+  },
+  "infoChk": "2026-11-08",
+  "src": [
+   "https://ra.co/dj/kshmr",
+   "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
   ]
+ },
+ "SHIZZLE": {
+  "img": "https://static.ra.co/images/profiles/square/shizzle.jpg?dateUpdated=1793962070000",
+  "links": {
+   "ra": "https://ra.co/dj/shizzle",
+   "sc": "https://soundcloud.com/shizzle_vie",
+   "ig": "https://www.instagram.com/shizzle.dj"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "real": "Krissi",
+  "genres": [
+   "Progressive House",
+   "Acid",
+   "Trance",
+   "Breakbeat"
+  ],
+  "bio": {
+   "de": "Wiener DJ mit Hang zu hypnotischen Grooves, 90er-Rave-Nostalgie und der euphorischen Seite der Clubmusik; bewegt sich zwischen Progressive House, Acid, Trance und Breakbeat. Laut RA Gründerin des DJ-Kollektivs Soda Zitron und Mitgründerin von Untz Baby Untz, einer Tagesrave-Reihe für Eltern und ihre Kinder.",
+   "en": "Vienna-based DJ drawn to hypnotic grooves, flashes of 90s rave nostalgia and the euphoric side of club music, moving between progressive house, acid, trance and breakbeat. According to RA she founded the DJ collective Soda Zitron and co-founded Untz Baby Untz, a daytime rave series for parents and their children."
+  },
+  "infoChk": "2026-11-08",
+  "src": [
+   "https://ra.co/dj/shizzle",
+   "https://ra.co/dj/shizzle/biography"
+  ]
+ },
+ "MEDUN": {
+  "from": {
+   "de": "Tirol",
+   "en": "Tyrol"
+  },
+  "bio": {
+   "de": "DJ und Produzent aus den Tiroler Alpen, Resident im Wiener Prater Dome. Veröffentlichte die Single „Gimme Your Love“ mit Marcus & Martinus und spielte auf der Mainstage des Electric Love Festivals.",
+   "en": "DJ and producer from the Tyrolean Alps, resident at Vienna's Prater Dome. Released the single 'Gimme Your Love' with Marcus & Martinus and played the Electric Love Festival main stage."
+  },
+  "clubs": [
+   "Prater Dome"
+  ],
+  "festivals": [
+   "Electric Love"
+  ],
+  "noImg": "2026-11-08",
+  "noLinks": "2026-11-08",
+  "infoChk": "2026-11-08",
+  "src": [
+   "https://www.electriclove.at/en/artist/medun-2/"
+  ]
+ },
+ "Little Beat More": {
+  "links": {
+   "sc": "https://soundcloud.com/littlebeatmore",
+   "mc": "https://www.mixcloud.com/littlebeatmore/",
+   "ig": "https://www.instagram.com/littlebeatmore/",
+   "bc": "https://littlebeatmore.bandcamp.com",
+   "web": "https://linktr.ee/littlebeatmore"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Unabhängiges Wiener Plattenlabel, betrieben vom italienischen DJ und Produzenten Woxow – ein Schmelztiegel von Sounds und Einflüssen aus aller Welt (Motto „We Dance We Think“).",
+   "en": "Independent Vienna record label run by Italian DJ/producer Woxow – a melting pot of sounds and influences from around the world (motto 'We Dance We Think')."
+  },
+  "noImg": "2026-11-08",
+  "infoChk": "2026-11-08",
+  "src": [
+   "https://littlebeatmore.bandcamp.com"
+  ]
+ },
+ "WESH": {
+  "noImg": "2026-11-08",
+  "noLinks": "2026-11-08",
+  "infoChk": "2026-11-08"
+ },
+ "Tonks": {
+  "noImg": "2026-11-08",
+  "noLinks": "2026-11-08",
+  "infoChk": "2026-11-08"
+ },
+ "wldfee": {
+  "noImg": "2026-11-08",
+  "noLinks": "2026-11-08",
+  "infoChk": "2026-11-08"
+ },
+ "Sauerstøff": {
+  "noImg": "2026-11-08",
+  "noLinks": "2026-11-08",
+  "infoChk": "2026-11-08"
+ },
+ "subinstans": {
+  "noImg": "2026-11-08",
+  "noLinks": "2026-11-08",
+  "infoChk": "2026-11-08"
+ },
+ "NooK": {
+  "noImg": "2026-11-08",
+  "noLinks": "2026-11-08",
+  "infoChk": "2026-11-08"
+ },
+ "mein__dm": {
+  "noImg": "2026-11-08",
+  "noLinks": "2026-11-08",
+  "infoChk": "2026-11-08"
+ },
+ "Techmoo": {
+  "noImg": "2026-11-08",
+  "noLinks": "2026-11-08",
+  "infoChk": "2026-11-08"
+ },
+ "Harry Knaypp": {
+  "noImg": "2026-11-08",
+  "noLinks": "2026-11-08",
+  "infoChk": "2026-11-08"
+ },
+ "Polo": {
+  "noImg": "2026-11-08",
+  "noLinks": "2026-11-08",
+  "infoChk": "2026-11-08"
  }
 };
 
