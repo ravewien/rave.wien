@@ -1898,7 +1898,11 @@ const CI={
   ],
   "noLogo": "2026-11-04",
   "infoChk": "2026-11-04",
-  "sc": "https://soundcloud.com/keinsonntagohnetechno"
+  "sc": "https://soundcloud.com/keinsonntagohnetechno",
+  "alias": [
+   "Kein Sonntag ohne Techno"
+  ],
+  "man": 1
  },
  "Auf der Lauer": {
   "from": "Wien",
