@@ -44637,7 +44637,10 @@ const AR={
    "https://soundcloud.com/insanocamsis"
   ],
   "infoChk": "2026-11-04",
-  "noImg": "2026-11-04"
+  "noImg": "2026-11-04",
+  "alias": [
+   "Cam Sis"
+  ]
  },
  "Cook Strummer": {
   "img": "https://static.ra.co/images/profiles/square/cookstrummer.jpg?dateUpdated=1539166973000",
