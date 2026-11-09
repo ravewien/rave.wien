@@ -1710,7 +1710,8 @@ const CI={
   "series": [
    "FT (nummerierte Ausgaben, z. B. FT — 12)"
   ],
-  "noLogo": "2026-10-28"
+  "noLogo": "2026-10-28",
+  "infoChk": "2026-11-09"
  },
  "Sorry Mom": {
   "src": [
@@ -5368,6 +5369,31 @@ const CI={
  "Qualia": {
   "noLogo": "2026-11-08",
   "infoChk": "2026-11-08"
+ },
+ "4lthangrund": {
+  "de": "Kollektiv und selbstorganisierter sozialer und kultureller Raum in 1090 Wien, der sich seit 2018 entwickelt; seit 2020 mit regelmäßigem Monatsprogramm.",
+  "en": "Collective and self-organised social and cultural space in Vienna’s 9th district, developing since 2018; running a regular monthly programme since 2020.",
+  "type": [
+   "Kollektiv"
+  ],
+  "founded": "2018",
+  "from": "Wien",
+  "web": "https://4lthangrund.jetzt",
+  "noLogo": "2026-11-09",
+  "infoChk": "2026-11-09",
+  "src": [
+   "https://startnext.com/en/4lthangrund/more-info"
+  ]
+ },
+ "Yolo Taxi": {
+  "de": "Act bzw. Reihe aus Wien, auf RA seit 2026 gelistet, mit Abenden vor allem im Funkhaus Wien.",
+  "en": "Vienna act/series listed on RA since 2026, playing mainly at Funkhaus Vienna.",
+  "from": "Wien",
+  "noLogo": "2026-11-09",
+  "infoChk": "2026-11-09",
+  "src": [
+   "https://ra.co/dj/yolotaxi"
+  ]
  }
 };
 const VI={
@@ -12418,13 +12444,13 @@ const AR={
   },
   "real": "Simon",
   "bio": {
-   "de": "Edictum ist ein österreichischer Produzent und DJ, seit 2002 aktiv. Sein Fokus liegt auf melodischer, tanzbarer elektronischer Musik; Releases auf über 15 Labels. Er spielt regelmäßig in Wien, u. a. im Loop und bei Empyreon.",
-   "en": "Edictum is an Austrian producer and DJ, active since 2002. He focuses on melodic, danceable electronic music and has released on more than 15 labels. He plays regularly in Vienna, including at Loop and Empyreon."
+   "de": "Edictum ist seit 2002 als Produzent und DJ aktiv, mit Fokus auf melodische, tanzbare elektronische Musik. Über zehn Alben und viele Singles auf mehr als 15 Labels; bekannt für lange, genreübergreifende Vinyl-Sets vom Warm-up bis zur Peak Time.",
+   "en": "Edictum has been active as a producer and DJ since 2002, focusing on melodic, danceable electronic music. More than ten albums and many singles on over 15 labels; known for long, genre-bending vinyl sets from warm-up to peak time."
   },
   "src": [
    "https://fr.ra.co/dj/edictum"
   ],
-  "infoChk": "2026-10-31",
+  "infoChk": "2026-11-09",
   "alias": [
    "Mycorave",
    "Shades of Thunder",
@@ -12436,7 +12462,7 @@ const AR={
     "u": "https://soundcloud.com/analogiquemusic/radio-analogique-djset-by-edictum"
    }
   ],
-  "setsChecked": "2026-11-04"
+  "setsChecked": "2026-11-09"
  },
  "Matt Ludlam": {
   "infoChk": "2026-11-03",
@@ -47133,6 +47159,159 @@ const AR={
   "noImg": "2026-11-08",
   "noLinks": "2026-11-08",
   "infoChk": "2026-11-08"
+ },
+ "Housefrau": {
+  "noImg": "2026-11-09",
+  "noLinks": "2026-11-09",
+  "infoChk": "2026-11-09"
+ },
+ "Zunidani": {
+  "noImg": "2026-11-09",
+  "noLinks": "2026-11-09",
+  "infoChk": "2026-11-09"
+ },
+ "Clem Vital": {
+  "noImg": "2026-11-09",
+  "noLinks": "2026-11-09",
+  "infoChk": "2026-11-09"
+ },
+ "KORKI": {
+  "noImg": "2026-11-09",
+  "noLinks": "2026-11-09",
+  "infoChk": "2026-11-09"
+ },
+ "great area": {
+  "noImg": "2026-11-09",
+  "noLinks": "2026-11-09",
+  "infoChk": "2026-11-09"
+ },
+ "PILLBERT": {
+  "noImg": "2026-11-09",
+  "noLinks": "2026-11-09",
+  "infoChk": "2026-11-09"
+ },
+ "Neoteric x Alerta": {
+  "noImg": "2026-11-09",
+  "noLinks": "2026-11-09",
+  "infoChk": "2026-11-09"
+ },
+ "Booster Club": {
+  "noImg": "2026-11-09",
+  "noLinks": "2026-11-09",
+  "infoChk": "2026-11-09"
+ },
+ "Soundbüglerei": {
+  "noImg": "2026-11-09",
+  "noLinks": "2026-11-09",
+  "infoChk": "2026-11-09"
+ },
+ "Initiative 21": {
+  "noImg": "2026-11-09",
+  "noLinks": "2026-11-09",
+  "infoChk": "2026-11-09"
+ },
+ "Kamafaka": {
+  "real": "Kamilla Dénes",
+  "from": {
+   "de": "Budapest, Ungarn",
+   "en": "Budapest, Hungary"
+  },
+  "genres": [
+   "Hard Techno",
+   "Industrial Techno"
+  ],
+  "bio": {
+   "de": "Kamafaka ist eine DJ aus Budapest, die früh zum Hard- und Industrial-Techno fand. Sie mixt lärmigen Industrial Techno mit hohem Tempo und klarem Rave-Charakter.",
+   "en": "Kamafaka is a Budapest-based DJ who fell for hard and industrial techno at an early age. She mixes noisy, high-BPM industrial techno with a strong rave signature."
+  },
+  "img": "https://static.ra.co/images/profiles/square/kamafaka.jpg?dateUpdated=1651678308000",
+  "links": {
+   "ra": "https://ra.co/dj/kamafaka",
+   "web": "https://linktr.ee/kamafaka"
+  },
+  "infoChk": "2026-11-09",
+  "src": [
+   "https://ra.co/dj/kamafaka",
+   "https://ra.co/dj/kamafaka/biography"
+  ]
+ },
+ "Danubian Dub": {
+  "alias": [
+   "Danubian Dub Soundsystem"
+  ],
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Dub"
+  ],
+  "bio": {
+   "de": "Danubian Dub Soundsystem ist ein Wiener Dub-Soundsystem, das seit 2017 die europäische Dub-Szene mitprägt und die Wiener Reihe „Vienna Dubwise“ ins Leben rief. Veröffentlichungen u. a. „Dismantle“ (2024) und das Doppelalbum „Red Horizon / Beyond Horizon“.",
+   "en": "Danubian Dub Soundsystem is a Vienna dub sound system that has been shaping the European dub scene since 2017 and started the Vienna event series “Vienna Dubwise”. Releases include “Dismantle” (2024) and the double album “Red Horizon / Beyond Horizon”."
+  },
+  "img": "https://www.uprising.sk/wp-content/uploads/2026/07/Danubian-Dub-Soundsystem-Uprising-Festival-2026.jpg",
+  "links": {
+   "mc": "https://www.mixcloud.com/Danubian_Dub_Soundsystem/",
+   "sp": "https://open.spotify.com/artist/26Dk54Uk6rbXYKWrOEySqQ",
+   "ig": "https://www.instagram.com/danubian_dub_soundsystem"
+  },
+  "infoChk": "2026-11-09",
+  "src": [
+   "https://www.uprising.sk/en/artist/danubian-dub-soundsystem-5/",
+   "https://www.mixcloud.com/Danubian_Dub_Soundsystem/"
+  ]
+ },
+ "Lua Preta": {
+  "from": {
+   "de": "Polen / Angola",
+   "en": "Poland / Angola"
+  },
+  "bio": {
+   "de": "Lua Preta ist ein polnisch-angolanisches Duo aus Vokalistin und MC Ms. Gia und dem polnischen DJ und Produzenten Mentalcut. Sie verbinden futuristische elektronische Musik mit afrikanischen Genres; die EP „Emoções Coloridas“ erschien auf Shango Records.",
+   "en": "Lua Preta is a Polish-Angolan duo of vocalist and MC Ms. Gia and Polish DJ and producer Mentalcut. They blend futuristic electronic music with African genres; their EP “Emoções Coloridas” came out on Shango Records."
+  },
+  "labels": [
+   "Shango Records"
+  ],
+  "img": "https://f4.bcbits.com/img/0028501018_23.jpg",
+  "links": {
+   "bc": "https://luapreta.bandcamp.com/",
+   "sc": "https://soundcloud.com/luapreta",
+   "ig": "https://www.instagram.com/lua_preta_sound/"
+  },
+  "sets": [
+   {
+    "t": "RADIOLAMENTO #21 – Lua Preta",
+    "u": "https://soundcloud.com/lamentomusic/radiolamento-21-lua-preta"
+   },
+   {
+    "t": "Lua Preta – Promo Mix UK Debut @ Jago, London (19.07.2019)",
+    "u": "https://soundcloud.com/unioftropicalsound/lua-preta-promo-mix-for-uk-debut-party-19th-of-july-2019-jago-london"
+   }
+  ],
+  "setsChecked": "2026-11-09",
+  "infoChk": "2026-11-09",
+  "src": [
+   "https://luapreta.bandcamp.com/community",
+   "https://www.unsound.pl/en/flower-power/artists/lua-preta"
+  ]
+ },
+ "UMAFRICANA": {
+  "links": {
+   "sc": "https://soundcloud.com/umafricana"
+  },
+  "noImg": "2026-11-09",
+  "infoChk": "2026-11-09",
+  "setsChecked": "2026-11-09"
+ },
+ "Miss Roshni": {
+  "links": {
+   "sc": "https://soundcloud.com/missroshni"
+  },
+  "noImg": "2026-11-09",
+  "infoChk": "2026-11-09",
+  "setsChecked": "2026-11-09"
  }
 };
 
