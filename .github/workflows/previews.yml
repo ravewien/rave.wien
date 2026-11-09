@@ -21,25 +21,24 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Seiten erzeugen
-        run: node .github/scripts/previews.js
-      - name: Logos vermessen
-        run: |
-          npm i --no-save --no-package-lock --silent sharp@0.33.5
-          node .github/scripts/logos.js
-      - name: Koordinaten ermitteln
-        run: node .github/scripts/geocode.js || true
-      - name: Statistik erzeugen
-        run: node .github/scripts/stats.js
-      - name: Speichern
+      - name: Werkzeuge
+        run: npm i --no-save --no-package-lock --silent sharp@0.33.5
+      - name: Erzeugen und speichern
         run: |
           git config user.name "rave.wien Vorschau"
           git config user.email "ravewien@users.noreply.github.com"
-          git add e a c v stats.json logos.js geo.js
-          if git diff --cached --quiet; then echo "Keine Änderungen."; exit 0; fi
-          git commit -m "Vorschauseiten und Statistik aktualisiert"
-          for i in 1 2 3 4 5; do
-            git pull --rebase -q origin main && git push -q origin HEAD:main && exit 0
+          # Bei jedem Versuch auf den neuesten Stand setzen und alles neu erzeugen –
+          # so gibt es keine Konflikte, wenn kurz hintereinander mehrere Updates kommen.
+          for i in 1 2 3 4 5 6; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            node .github/scripts/previews.js
+            node .github/scripts/logos.js
+            node .github/scripts/geocode.js || true
+            node .github/scripts/stats.js
+            git add e a c v stats.json logos.js geo.js
+            if git diff --cached --quiet; then echo "Keine Änderungen."; exit 0; fi
+            git commit -q -m "Vorschauseiten und Statistik aktualisiert"
+            git push -q origin HEAD:main && exit 0
             sleep $((i*5))
           done
           exit 1
