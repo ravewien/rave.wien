@@ -5436,7 +5436,9 @@ const VI={
    "Club U im Otto-Wagner-Pavillon"
   ],
   "noLogo": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "logo": "https://club-u.at/wp-content/uploads/2022/07/LOGO_big_n22-1024x579.jpg",
+  "man": 1
  },
  "Coco Bar": {
   "de": "Bar in den Stadtbahnbögen am Lerchenfelder Gürtel mit gelegentlichen DJ- und Listening-Abenden.",
