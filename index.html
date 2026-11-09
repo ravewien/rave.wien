@@ -171,6 +171,8 @@ body.vw-loc{--accent:var(--c-ven);--accent-fg:#06140a;--sel:#173f20}
 .ii.col{color:var(--c-col)}.ii.pin{color:var(--c-ven);width:10px;height:12px}
 .vchk{color:var(--c-ev);font-weight:800;margin-right:6px;letter-spacing:-.15em}
 .vchk.vmul{color:var(--mute)}
+.srcwarn{margin:0 0 12px;padding:9px 12px;border:1px solid rgba(255,190,80,.45);background:rgba(255,190,80,.10);border-radius:3px;font-size:13.5px;line-height:1.4;color:var(--fg)}
+.srcwarn b{color:#ffcf7a;font-weight:700}
 .tag{display:inline-flex;align-items:center;gap:0;border-radius:3px;padding:1px 7px 1px 6px;border:1px solid var(--line);background:var(--panel2);color:var(--fg);font-family:var(--f-display);font-weight:600;letter-spacing:.06em;text-transform:uppercase;font-size:11.5px;white-space:nowrap;line-height:1.5}
 .row.tk .tag.ve{max-width:100%;white-space:normal;text-align:left;line-height:1.25}
 .tag .ii{margin-right:5px}
@@ -1203,7 +1205,6 @@ function flagHTML(e,noAge){const l=L();
   const f=FLAGS.filter(x=>e[x[0]]).map(([k,c,lab,,ic])=>`<span class="flag ${c}${st.f.has(k)?" on":""}" data-tf="f" data-n="${k}" title="${esc(l[lab])}"><i class="ico ${c}">${ic}</i>${esc(l[lab])}</span>`);
   if(e.ioK&&e.ioK.length)f.unshift(ioTags(e.ioK,1));
   if(e.age&&!noAge)f.push(`<span class="flag age">${esc(e.age)}</span>`);
-  if(!e.conf)f.push(`<span class="flag uc${st.src.has("one")?" on":""}" data-tf="src" data-n="one" title="${esc(l.single)}"><i class="ico uc">?</i>${esc(l.single)}</span>`);
   return f.length?`<span class="flags">${f.join("")}</span>`:"";
 }
 const vchk=e=>e.multi?`<span class="vchk vmul" title="${esc(L().rMulti)}">✓</span>`:e.loc||e.org?`<span class="vchk" title="${esc(e.loc&&e.org?L().rBoth:e.loc?L().rLoc:L().rOrg)}">${e.loc&&e.org?"✓✓":"✓"}</span>`:"";
@@ -1882,17 +1883,17 @@ function renderEv(dk,id){
   const pm=e.price?String(normPrice(e.price)).split(/\s+[·|\/]\s+|,\s+/):[];
   const fimg=isImg(e.flyer)&&coversOn();
   dk.innerHTML=`<div class="ctop"><span class="akind"${endTime(e)<=NOW?' style="color:var(--mute)"':""}>${endTime(e)<=NOW?l.pastKind:l.evKind}</span><span class="cbtns">${favBtn("e",e.id)}<button class="close" data-close aria-label="${l.close}">×</button></span></div>
+    ${!e.conf?`<div class="srcwarn" role="note"><b>${esc(l.single[0].toUpperCase()+l.single.slice(1))}:</b> ${esc(l.rSingle+" "+e.src.map(s=>S[s[0]]).filter((v,i,a)=>v&&a.indexOf(v)===i).join(", ")+". "+l.rCheck)}</div>`:""}
     <div class="ehead"><div class="emain">
       <div class="head${fimg?" wt":""}">${fimg?`<button type="button" class="lgt fly ${evPhase(e)}" data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}" aria-label="${esc(l.flyer)}"><img src="${esc(e.flyer)}" alt="" loading="lazy" referrerpolicy="no-referrer"></button>`:""}<h2>${esc(e.title)}</h2>${vchk(e)}</div>
       <div class="tags">${noVen(e.venue)?`<span class="tag ve na">${IPIN}${esc(e.venue||"TBA")}</span>`:`<button class="tag ve" data-venue="${esc(e.venue)}">${IPIN}${esc(e.venue)}</button>`}${e.coll.map(c=>`<button class="tag co" data-coll="${esc(c)}">${ICOL}${esc(c)}</button>`).join("")}</div>
       ${addr?`<a class="addr" href="${maps(e)}" target="_blank" rel="noopener" title="${l.maps}">${esc(addr)} ↗</a>`:""}
       ${e.genres.length?`<span class="tags"><span class="gcl"><b>♫</b>${e.genres.map(g=>`<button data-f="g" data-n="${esc(g)}"${e.typGenres.includes(g)?` class="typ" title="${esc(l.typ)}"`:""}>${esc(g)}${e.typGenres.includes(g)?"*":""}</button>`).join("")}</span></span>`:""}
       ${vibe.length||e.ioK.length?`<div class="flags">${ioTags(e.ioK)}${vibe.join("")}</div>`:""}
-      ${!e.conf?`<div class="flags"><span class="flag uc"><i class="ico uc">?</i>${esc(l.single)}</span></div>`:""}
     </div><span class="stub"><span class="dt">${fmtDay(e.d)}</span><span class="t">${e.s||"--:--"}<small>-${e.e||"?"}</small></span>${e.age?`<span class="flag age"${e.clubAge&&e.age!==e.clubAge?` title="${esc(l.clubRule+" "+e.clubAge)}"`:""}>${esc(e.age)}</span>`:`<span class="flag age" style="color:var(--mute)">${l.na}</span>`}<span class="price">${pm.length?esc(pm[0]):l.na}${pm.length>1?`<small>${esc(pm.slice(1).join(" · "))}</small>`:""}${e.altPrice?`<small>${l.alt}: ${esc(e.altPrice)}</small>`:""}</span></span></div>
     ${e.note?`<div class="note">${esc(e.note[st.lang])}</div>`:""}
     <div><h3>${hasTimes?l.timetable:l.lineup}</h3>${e.sound&&!anyFloorSound?`<div class="sndline"><span class="sndk">SOUND</span>${esc(sfl?Object.values(sfl).map(x=>x[st.lang]||x.de).join(" · "):(e.sound[st.lang]||e.sound.de))}</div>`:""}${pads}</div>
-    <div class="src">${vf?`<span style="color:var(--accent)">${e.loc&&e.org?"✓✓":"✓"}</span> ${esc(vf)}<br>`:""}${!e.conf?esc(l.rSingle+" "+e.src.map(s=>S[s[0]]).filter((v,i,a)=>a.indexOf(v)===i).join(", ")+". "+l.rCheck)+"<br>":""}${viaRules.length?"* "+esc(viaRules.join(" · "))+"<br>":""}${e.typGenres.length?"* "+esc(l.typ)+"<br>":""}${e.sound&&e.sound.src?`<span class="sndk">SOUND</span><a href="${esc(su(e.sound.src))}" target="_blank" rel="noopener">${esc(e.sound.src.split("/")[2].replace(/^www\./,""))}</a><br>`:""}${e.manual&&!e.src.some(([k])=>k!=="man")?esc(l.manS):l.source+": "+e.src.map(([k,u])=>k==="man"?esc(l.manS):`<a href="${esc(su(u))}" target="_blank" rel="noopener">${S[k]}</a>`).join(" · ")}</div>
+    <div class="src">${vf?`<span style="color:var(--accent)">${e.loc&&e.org?"✓✓":"✓"}</span> ${esc(vf)}<br>`:""}${viaRules.length?"* "+esc(viaRules.join(" · "))+"<br>":""}${e.typGenres.length?"* "+esc(l.typ)+"<br>":""}${e.sound&&e.sound.src?`<span class="sndk">SOUND</span><a href="${esc(su(e.sound.src))}" target="_blank" rel="noopener">${esc(e.sound.src.split("/")[2].replace(/^www\./,""))}</a><br>`:""}${e.manual&&!e.src.some(([k])=>k!=="man")?esc(l.manS):l.source+": "+e.src.map(([k,u])=>k==="man"?esc(l.manS):`<a href="${esc(su(u))}" target="_blank" rel="noopener">${S[k]}</a>`).join(" · ")}</div>
     <div class="sharebox" hidden><input class="shareurl" readonly value="${shareURL(e)}" aria-label="Link"><span class="sharemsg"></span></div>
     <div class="cbar"><div class="calbox" hidden><a href="${esc(su(gcalURL(e)))}" target="_blank" rel="noopener">Google ${l.calW} ↗</a><a href="${esc(su(olURL(e)))}" target="_blank" rel="noopener">Outlook ↗</a><button type="button" data-icsdl="${e.id}">${l.icsFile}</button></div><button class="ibtn" data-share="${e.id}" title="${l.share}" aria-label="${l.share}">${ISHARE}</button><button class="ibtn" data-ics="${e.id}" title="${l.toCal}" aria-label="${l.toCal}">${ICAL}</button>${e.flyer?(fimg?`<button type="button" class="ibtn" data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}" title="${l.flyer}" aria-label="${l.flyer}">${IFLY}</button>`:`<a class="ibtn" href="${esc(su(e.flyer))}" target="_blank" rel="noopener" title="${l.flyer}" aria-label="${l.flyer}">${IFLY}</a>`):""}<a class="ibtn" href="${reportURL(e.title+" ("+e.d+")",shareURL(e))}" title="${l.report}" aria-label="${l.report}">${IFLAG}</a><span style="flex:1"></span>${e.tickets&&priceK(e)!=="free"?`<a class="tixbtn" href="${esc(su(e.tickets))}" target="_blank" rel="noopener">${l.ticketsS} ↗</a>`:(()=>{const u=bestSrc(e);return u?`<a class="tixbtn srcb" href="${esc(su(u))}" target="_blank" rel="noopener">${l.srcBtn} ↗</a>`:""})()}</div>`;
 }
