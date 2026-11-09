@@ -36,6 +36,11 @@ for (const [sha, iso] of commits) {
   const ARf = {}, CIf = {}, VIf = {};
   Object.keys(AR).forEach(k => ARf[fold(k)] = AR[k]);
   Object.keys(CI).forEach(k => CIf[fold(k)] = CI[k]);
+  // Aliase auf den Haupteintrag abbilden (eigener Schlüssel hat Vorrang)
+  const ALA = {}, ALC = {};
+  Object.keys(AR).forEach(k => [].concat(AR[k].alias || []).forEach(x => { if (!ARf[fold(x)]) ALA[fold(x)] = fold(k); }));
+  Object.keys(CI).forEach(k => [].concat(CI[k].alias || []).forEach(x => { if (!CIf[fold(x)]) ALC[fold(x)] = fold(k); }));
+  const fa = x => ALA[fold(x)] || fold(x), fc = x => ALC[fold(x)] || fold(x);
   Object.keys(VI).forEach(k => { const kk = vkey(k); VIf[kk] = Object.assign({}, VIf[kk] || {}, VI[k]); });
   Object.keys(V).filter(v => !skipV(v)).forEach(v => { if (!VIf[vkey(v)]) VIf[vkey(v)] = {}; });
 
@@ -50,7 +55,7 @@ for (const [sha, iso] of commits) {
     note: !!(x.note && (x.note.de || x.note.en)), price: has(x.price), genres: false, flyer: false,
     srch: has(x.src) || !!x.lu }); });
   E.forEach(e => { e.lineup = e.arts.length > 0; mark(first.ev, e.k, day);
-    e.arts.forEach(a => mark(first.art, fold(a), day)); e.cols.forEach(x => mark(first.col, fold(x), day));
+    e.arts.forEach(a => mark(first.art, fa(a), day)); e.cols.forEach(x => mark(first.col, fc(x), day));
     if (!skipV(e.venue)) mark(first.ven, vkey(e.venue), day); });
   Object.keys(AR).forEach(a => mark(first.art, fold(a), day));
   Object.keys(CI).forEach(x => mark(first.col, fold(x), day));
@@ -61,8 +66,8 @@ for (const [sha, iso] of commits) {
   const R = {};
   for (const r of RANGES) {
     const es = E.filter(e => inR[r](e.d));
-    const ak = [...new Set(es.flatMap(e => e.arts.map(fold)))];
-    const ck = [...new Set(es.flatMap(e => e.cols.map(fold)))];
+    const ak = [...new Set(es.flatMap(e => e.arts.map(fa)))];
+    const ck = [...new Set(es.flatMap(e => e.cols.map(fc)))];
     const vk = r === "all" ? Object.keys(VIf) : [...new Set(es.filter(e => !skipV(e.venue)).map(e => vkey(e.venue)))];
     const A = ak.map(k => ARf[k] || {}), Cc = ck.map(k => CIf[k] || {}), Vv = vk.map(k => VIf[k] || {});
     const ek = [...new Set(es.map(e => e.k))];
