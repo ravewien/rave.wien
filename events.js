@@ -5669,7 +5669,7 @@ const VI={
    "Indoor"
   ],
   "infoChk": "2026-11-02",
-  "logo": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/302655939_473865571415822_4896686984121746693_n.jpg?stp=dst-jpg_tt6&cstp=mx776x775&ctp=s776x775&_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2OpcPQKMQTYQ7kNvwGUbKDe&_nc_oc=Adrmd_oJTn9zKbDncD6MT0sAsCltX6oR0DTJDmC9fAi_aNbZ0lQeHRGWGSOSHYxhlNY&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=izbFHfBPVeBqPLmte8rG_g&_nc_ss=7a289&oh=00_AQQI0hgN_zEtRNikSuGfNVwV4xBIl-u7ZQGZPFH1erdbhg&oe=6AF0F26F",
+  "logo": "https://static.ra.co/images/clubs/kramladen.jpeg?dateUpdated=1716563846587",
   "man": 1
  },
  "Celeste": {
@@ -5996,7 +5996,8 @@ const VI={
   ],
   "infoChk": "2026-11-02",
   "web": "https://www.funkhaus.wien",
-  "logo": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-1/885312764_122146568583034745_445659225063797392_n.avif?stp=dst-avif&cstp=mx2048x2048&ctp=s200x200&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=YKITRsMNgbsQ7kNvwGcxYud&_nc_oc=AdqHHAPDXJxv0V15FsZ6eacsYQ4SXnNHUYAkMxavQYgXSbqlEYyAaY5bE0eXs18XS0Q&_nc_zt=24&_nc_ht=scontent-vie1-1.xx&_nc_gid=3n5zGnrDf_nILZyFPOOlzg&_nc_ss=7a289&oh=00_AQRoIzovdPTyfrgPWqBe4n4EdsBsMdxxe9RdImV4NUkzpg&oe=6AF0FA0E",
+  "logoBg": "#ffffff",
+  "logo": "https://www.funkhaus.wien/web/image/website/1/logo?unique=2b05b69",
   "man": 1
  },
  "Rhiz": {
@@ -6117,11 +6118,8 @@ const VI={
    "https://www.wien.info/en/dine-drink/bars-clubs/live-locations/b72-340090",
    "https://b72.at/about-and-where"
   ],
-  "noLogo": "2026-11-02",
   "infoChk": "2026-11-02",
   "opened": "1998",
-  "logo": "https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/326406733_575912604388213_5580350941445844946_n.png?stp=dst-png&cstp=mx272x272&ctp=s272x272&_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-7QUmhjmHBkQ7kNvwH7B2uX&_nc_oc=AdrD4gI8E2n8NpxoYprqjF7UQnCA2V6Qk7HTAoo6NLcet10p7C92HhhJ3UJQ2QCjzjs&_nc_zt=23&_nc_ht=scontent-vie1-1.xx&_nc_gid=E-M2gmWphpl76vPCXYrBlQ&_nc_ss=7a289&oh=00_AQQy5vqDlDNEuCPOoVxd4czjIP162KE4P4W7Wcwdetg8CQ&oe=6AF0D8AA",
-  "logoBg": "#ffffff",
   "man": 1
  },
  "Metastadt": {
