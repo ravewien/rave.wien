@@ -5996,8 +5996,7 @@ const VI={
   ],
   "infoChk": "2026-11-02",
   "web": "https://www.funkhaus.wien",
-  "logoBg": "#ffffff",
-  "logo": "https://www.funkhaus.wien/web/image/website/1/logo?unique=2b05b69",
+  "logo": "https://www.funkhaus.wien/funkhaus_website/static/src/img/logo_white.svg",
   "man": 1
  },
  "Rhiz": {
