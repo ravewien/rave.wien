@@ -5395,6 +5395,95 @@ const CI={
   "src": [
    "https://ra.co/dj/yolotaxi"
   ]
+ },
+ "Ventil Records": {
+  "de": "Wiener Label (Vinyl) an der Schnittstelle von Field Recordings, Elektroakustik und Post-Techno, gegründet von Ursula Winterauer, Peter Kutin, Michael Lahner und Florian Kindlinger. Betreibt mit den Westbahnstudios die Artist-Residency „Eardrum“.",
+  "en": "Vienna vinyl label at the intersection of field recordings, electro-acoustics and post-techno, founded by Ursula Winterauer, Peter Kutin, Michael Lahner and Florian Kindlinger. Runs the “Eardrum” artist residency with Westbahnstudios.",
+  "type": [
+   "Label"
+  ],
+  "from": "Wien",
+  "web": "https://www.ventil-records.com",
+  "ig": "https://www.instagram.com/ventilrecords",
+  "bc": "https://ventil-records.bandcamp.com",
+  "sc": "https://soundcloud.com/ventil-records",
+  "noLogo": "2026-11-10",
+  "infoChk": "2026-11-10",
+  "src": [
+   "https://www.musicexport.at/label-feature-ventil/",
+   "https://ventil-records.bandcamp.com/music",
+   "https://www.esel.at/de/event/eardrum--02xgY75yWgbIT0j7somKQc"
+  ]
+ },
+ "Captive Soul": {
+  "de": "Eventreihe der ukrainischen DJ und Produzentin Korolova mit Melodic Techno und Progressive House, u. a. in Amsterdam (ADE), London und Buenos Aires.",
+  "en": "Event series by Ukrainian DJ and producer Korolova focusing on melodic techno and progressive house, e.g. in Amsterdam (ADE), London and Buenos Aires.",
+  "type": [
+   "Reihe"
+  ],
+  "noLogo": "2026-11-10",
+  "infoChk": "2026-11-10",
+  "src": [
+   "https://warda.at/events/signal-festival-w-eric-prydz/",
+   "https://ra.co/events/1977443",
+   "https://res.ents24.com/london-events/here-at-outernet/korolova-captive-soul/7389124",
+   "https://www.technoairlines.com/event/korolova-pres-captive-soul-at-fcn-by-hist-entertainment-foro-costanera-norte-fcn-2026-12-06"
+  ]
+ },
+ "Publegenden": {
+  "de": "Wiener Partyreihe, die im November 2026 im Club U ihr zehnjähriges Bestehen feiert.",
+  "en": "Viennese party series celebrating its tenth anniversary at Club U in November 2026.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "founded": "2016",
+  "foundedNote": 1,
+  "noLogo": "2026-11-10",
+  "infoChk": "2026-11-10",
+  "src": [
+   "https://www.technoairlines.com/event/10-years-of-publegenden-feat-bort-club-u-2026-11-13"
+  ]
+ },
+ "Bass Cave": {
+  "de": "Wiener Drum-and-Bass-Reihe mit eigenen Residents, u. a. im Einbaumöbel (1bm) im Gürtelbogen; gemeinsame Specials mit Shake It and Break It im WARDA.",
+  "en": "Viennese drum & bass series with its own residents, e.g. at Einbaumöbel (1bm) in the Gürtel arches; joint specials with Shake It and Break It at WARDA.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "noLogo": "2026-11-10",
+  "infoChk": "2026-11-10",
+  "src": [
+   "https://ohschonhell.at/date/einbaumoebel-1bm-vienna-21-11-2026-bass-cave-drum-and-bass-w-unonessuno-mpathy",
+   "https://warda.at/?p=110196"
+  ]
+ },
+ "LOVEDANCIN'": {
+  "de": "Partyreihe aus Deutschland (u. a. Berlin und Köln), verbunden mit dem Label kickin up dust; in Wien mit einer Ausgabe im Funkhaus.",
+  "en": "Party series from Germany (e.g. Berlin and Cologne), linked to the kickin up dust label; with a Vienna edition at Funkhaus.",
+  "type": [
+   "Reihe"
+  ],
+  "noLogo": "2026-11-10",
+  "infoChk": "2026-11-10",
+  "src": [
+   "https://ra.co/events/1613525",
+   "https://ra.co/events/2404416",
+   "https://ra.co/events/2381562"
+  ]
+ },
+ "Kann&Will": {
+  "noLogo": "2026-11-10",
+  "infoChk": "2026-11-10"
+ },
+ "Acidic Juice": {
+  "noLogo": "2026-11-10",
+  "infoChk": "2026-11-10"
+ },
+ "NOTYOURORDINARY": {
+  "noLogo": "2026-11-10",
+  "infoChk": "2026-11-10"
  }
 };
 const VI={
@@ -47322,6 +47411,323 @@ const AR={
   "noImg": "2026-11-09",
   "infoChk": "2026-11-09",
   "setsChecked": "2026-11-09"
+ },
+ "Kann&Will": {
+  "infoChk": "2026-11-10",
+  "noImg": "2026-11-10",
+  "noLinks": "2026-11-10"
+ },
+ "Alex Skorin": {
+  "infoChk": "2026-11-10",
+  "noImg": "2026-11-10",
+  "noLinks": "2026-11-10"
+ },
+ "Constant.Change": {
+  "infoChk": "2026-11-10",
+  "noImg": "2026-11-10",
+  "noLinks": "2026-11-10"
+ },
+ "dj wernerschnitzel": {
+  "infoChk": "2026-11-10",
+  "noImg": "2026-11-10",
+  "noLinks": "2026-11-10"
+ },
+ "UNONESSUNO": {
+  "infoChk": "2026-11-10",
+  "noImg": "2026-11-10",
+  "noLinks": "2026-11-10"
+ },
+ "M:Pathy": {
+  "infoChk": "2026-11-10",
+  "noImg": "2026-11-10",
+  "noLinks": "2026-11-10"
+ },
+ "DAKINDL": {
+  "infoChk": "2026-11-10",
+  "noImg": "2026-11-10",
+  "noLinks": "2026-11-10"
+ },
+ "ROONY": {
+  "infoChk": "2026-11-10",
+  "noImg": "2026-11-10",
+  "noLinks": "2026-11-10"
+ },
+ "DI GELLNER": {
+  "infoChk": "2026-11-10",
+  "noImg": "2026-11-10",
+  "noLinks": "2026-11-10"
+ },
+ "PHUEL": {
+  "infoChk": "2026-11-10",
+  "noImg": "2026-11-10",
+  "noLinks": "2026-11-10"
+ },
+ "VAL": {
+  "infoChk": "2026-11-10",
+  "noImg": "2026-11-10",
+  "noLinks": "2026-11-10"
+ },
+ "Frankee": {
+  "infoChk": "2026-11-10",
+  "noImg": "2026-11-10",
+  "noLinks": "2026-11-10"
+ },
+ "Acula": {
+  "infoChk": "2026-11-10",
+  "noImg": "2026-11-10",
+  "noLinks": "2026-11-10"
+ },
+ "Softi": {
+  "infoChk": "2026-11-10",
+  "noImg": "2026-11-10",
+  "noLinks": "2026-11-10"
+ },
+ "Ricky Chong": {
+  "img": "https://static.ra.co/images/profiles/square/rickychong.jpg?dateUpdated=1790613182470",
+  "links": {
+   "ra": "https://ra.co/dj/rickychong",
+   "sc": "https://soundcloud.com/ricky_chong",
+   "bc": "https://rickychong.bandcamp.com",
+   "ig": "https://www.instagram.com/ricky_chong"
+  },
+  "from": {
+   "de": "Irland",
+   "en": "Ireland"
+  },
+  "labels": [
+   "Fresh Take Records",
+   "Nocturnal Hazard"
+  ],
+  "bio": {
+   "de": "In Irland geborener DJ und Produzent, der vergessene Musik vergangener Jahrzehnte mit neueren Sounds mischt. Releases u. a. auf Fresh Take Records und Nocturnal Hazard; spielt regelmäßig in Dublin und London.",
+   "en": "Irish-born DJ and producer who revives forgotten music of yesteryear mixed with newer sounds. Releases on labels such as Fresh Take Records and Nocturnal Hazard; plays regularly in Dublin and London."
+  },
+  "infoChk": "2026-11-10",
+  "src": [
+   "https://ra.co/dj/rickychong"
+  ]
+ },
+ "Mario Ranieri": {
+  "img": "https://static.ra.co/images/profiles/marioranieri.jpg?dateUpdated=1638365952000",
+  "links": {
+   "ra": "https://ra.co/dj/marioranieri",
+   "sc": "https://soundcloud.com/marioranieri",
+   "bc": "https://schubfaktor.bandcamp.com",
+   "ig": "https://www.instagram.com/djmarioranieri",
+   "web": "https://www.marioranieri.at"
+  },
+  "real": "Mario Leichtfried",
+  "alias": [
+   "Ranieri"
+  ],
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "labels": [
+   "SCHUBfaktor Records",
+   "Naked Lunch Records",
+   "TS Music",
+   "Vernacular",
+   "mk Recordings"
+  ],
+  "bio": {
+   "de": "Österreichischer Hardtechno-DJ und Produzent (bürgerlich Mario Leichtfried), Gründer von SCHUBfaktor Music. Veröffentlichte u. a. auf SCHUBfaktor Records, Naked Lunch und TS Music.",
+   "en": "Austrian hard techno DJ and producer (real name Mario Leichtfried), founder of SCHUBfaktor Music. Releases on SCHUBfaktor Records, Naked Lunch and TS Music, among others."
+  },
+  "infoChk": "2026-11-10",
+  "src": [
+   "https://ra.co/dj/marioranieri"
+  ]
+ },
+ "Korolova": {
+  "img": "https://static.ra.co/images/profiles/square/korolova.jpg?dateUpdated=1713030621000",
+  "links": {
+   "ra": "https://ra.co/dj/korolova",
+   "sc": "https://soundcloud.com/korolovadj",
+   "ig": "https://www.instagram.com/korolova.dj",
+   "web": "https://solo.to/korolova.dj"
+  },
+  "real": "Olga Korolova",
+  "from": {
+   "de": "Kyjiw, Ukraine (lebt in Portugal)",
+   "en": "Kyiv, Ukraine (based in Portugal)"
+  },
+  "labels": [
+   "Black Hole Recordings",
+   "Get Physical Music",
+   "Armada Music",
+   "BAR25",
+   "ZEHN Records"
+  ],
+  "bio": {
+   "de": "Ukrainische DJ und Produzentin aus Kyjiw, heute in Portugal ansässig. Melodic Techno und Progressive House mit Releases u. a. auf Armada, Black Hole Recordings und Get Physical; Gründerin der Reihe Captive Soul.",
+   "en": "Ukrainian DJ and producer from Kyiv, now based in Portugal. Melodic techno and progressive house with releases on Armada, Black Hole Recordings and Get Physical, among others; founder of the Captive Soul series."
+  },
+  "infoChk": "2026-11-10",
+  "src": [
+   "https://ra.co/dj/korolova",
+   "https://warda.at/events/signal-festival-w-eric-prydz/"
+  ]
+ },
+ "Fafi Abdel Nour": {
+  "img": "https://static.ra.co/images/profiles/square/fafiabdelnour.jpg?dateUpdated=1547730631900",
+  "links": {
+   "ra": "https://ra.co/dj/fafiabdelnour",
+   "sc": "https://soundcloud.com/fafi_abdel_nour",
+   "ig": "https://www.instagram.com/fafi_abdel_nour"
+  },
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "bio": {
+   "de": "In den Niederlanden ansässiger DJ, der sich auch als Community-Builder versteht. Laut RA Resident im Amsterdamer CLUB RAUM; spielt u. a. in De School und OOST.",
+   "en": "Netherlands-based DJ who also sees himself as a community builder. Described by RA as a CLUB RAUM resident in Amsterdam; plays venues such as De School and OOST."
+  },
+  "infoChk": "2026-11-10",
+  "src": [
+   "https://ra.co/dj/fafiabdelnour",
+   "https://ra.co/news/80817"
+  ]
+ },
+ "Gerd Janson": {
+  "img": "https://static.ra.co/images/profiles/square/gerdjanson.jpg?dateUpdated=1756905941253",
+  "links": {
+   "ra": "https://ra.co/dj/gerdjanson",
+   "sc": "https://soundcloud.com/runningback",
+   "bc": "https://runningbackrecords.bandcamp.com",
+   "ig": "https://www.instagram.com/gerdjansonofficial"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "Running Back"
+  ],
+  "bio": {
+   "de": "Deutscher DJ und Betreiber des Labels Running Back. Spielt weltweit House und Disco; Teil des Duos Tuff City Kids.",
+   "en": "German DJ who runs the Running Back label. Plays house and disco around the world; one half of the duo Tuff City Kids."
+  },
+  "infoChk": "2026-11-10",
+  "src": [
+   "https://pt-br.ra.co/dj/gerdjanson"
+  ]
+ },
+ "Tom Kutsche": {
+  "img": "https://static.ra.co/images/profiles/square/tomkutsche.jpg?dateUpdated=1626102581000",
+  "links": {
+   "ra": "https://ra.co/dj/tomkutsche",
+   "sc": "https://soundcloud.com/tomkutsche",
+   "ig": "https://www.instagram.com/tomkutsche_"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "labels": [
+   "kickin up dust"
+  ],
+  "bio": {
+   "de": "DJ aus Deutschland, verbunden mit dem Label kickin up dust und der Partyreihe LOVEDANCIN'.",
+   "en": "DJ from Germany, associated with the kickin up dust label and the LOVEDANCIN' party series."
+  },
+  "infoChk": "2026-11-10",
+  "src": [
+   "https://ra.co/dj/tomkutsche"
+  ]
+ },
+ "Kø:lab": {
+  "img": "https://f4.bcbits.com/img/0032812245_23.jpg",
+  "links": {
+   "bc": "https://kolab.bandcamp.com",
+   "ig": "https://www.instagram.com/kolab.berlin"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Techno-Projekt aus Berlin, hinter dem zwei Personen stehen. Rohe, ravige Old-School-Energie mit harten Kicks, verzerrten Vocals und Breakbeats; Releases wie die „Reversed Reality EP“ und Rave-Edits.",
+   "en": "Berlin techno project formed by two people. Raw, rave-driven old-school energy with relentless kicks, distorted vocals and breakbeats; releases include the “Reversed Reality EP” and rave edits."
+  },
+  "infoChk": "2026-11-10",
+  "src": [
+   "https://kolab.bandcamp.com",
+   "https://festapp.io/artists/kolab"
+  ]
+ },
+ "Mariam Rezaei": {
+  "links": {
+   "sp": "https://open.spotify.com/artist/1oUdbspKPQFPgMRZ6snFa5"
+  },
+  "from": {
+   "de": "Großbritannien",
+   "en": "United Kingdom"
+  },
+  "noImg": "2026-11-10",
+  "bio": {
+   "de": "Britisch-iranische experimentelle Turntablistin und Komponistin zwischen Turntablism und Noise. Album „BOWN“ (2023).",
+   "en": "British-Iranian experimental turntablist and composer working between turntablism and noise. Album “BOWN” (2023)."
+  },
+  "infoChk": "2026-11-10",
+  "src": [
+   "https://open.spotify.com/album/0N9XSZBQKCmSkIJVuD9Lsu",
+   "https://www.esel.at/de/event/eardrum--02xgY75yWgbIT0j7somKQc"
+  ]
+ },
+ "Ambient Animal": {
+  "links": {
+   "sc": "https://soundcloud.com/ambientanimal"
+  },
+  "noImg": "2026-11-10",
+  "labels": [
+   "sama recordings"
+  ],
+  "bio": {
+   "de": "Artist aus dem Umfeld des Wiener Labels sama recordings, auf dem die Veröffentlichung sama004 erschien. Spielt DJ-Sets bei der Reihe s c h w e b e n.",
+   "en": "Artist from the circle of the Vienna label sama recordings, which released sama004. Plays DJ sets at the s c h w e b e n series."
+  },
+  "sets": [
+   {
+    "t": "Ambient Animal @ sama recordings pres. s c h w e b e n, Einbaumöbel (11.04.2024)",
+    "u": "https://soundcloud.com/sama-recordings/ambient-animal-dj-set-sama"
+   },
+   {
+    "t": "OFF THE GRID Radio Show @ RES.radio w/ Ambient Animal (24.01.2024)",
+    "u": "https://soundcloud.com/off_the_grid_vienna/off-the-grid-radio-show-resradio-24012024"
+   }
+  ],
+  "setsChecked": "2026-11-10",
+  "infoChk": "2026-11-10",
+  "src": [
+   "https://soundcloud.com/sama-recordings/sets/sama004-ambient-animal"
+  ]
+ },
+ "POSI FLO": {
+  "links": {
+   "sc": "https://soundcloud.com/user-557855461"
+  },
+  "noImg": "2026-11-10",
+  "infoChk": "2026-11-10",
+  "sets": [
+   {
+    "t": "Posi Flo @ coppi (07.08.2025)",
+    "u": "https://soundcloud.com/coppiberlin/posi-flo-coppi-07082025-1"
+   }
+  ],
+  "setsChecked": "2026-11-10"
+ },
+ "Dijay Qualle": {
+  "links": {
+   "sc": "https://soundcloud.com/user-659478251"
+  },
+  "noImg": "2026-11-10",
+  "infoChk": "2026-11-10"
  }
 };
 
