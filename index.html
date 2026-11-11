@@ -951,7 +951,7 @@ html.a-cursor :is(a,button,[role=button],label,summary,input,select,[data-vopen]
 
 <header class="top">
   <button class="burger" id="burger" aria-label="Filter" aria-controls="side" aria-expanded="false"></button>
-  <div class="brand"><span class="astro" role="img" aria-label="rave.wien Astronaut"></span><span>rave<i class="dot"></i>wien</span><span class="betab"><span class="beta">beta</span><a id="t-brep" href="mailto:feedback@rave.wien"><span id="t-brepl"><span class="fw">fehler </span>melden</span></a></span></div>
+  <div class="brand"><span class="astro" role="img" aria-label="rave.wien Astronaut"></span><span>rave<i class="dot"></i>wien</span></div>
   <div class="spacer"></div>
   <div class="seg" role="group" aria-label="View"><button class="favnav" id="v-fav" aria-pressed="false" aria-label="Favoriten">★<em id="favn"></em></button><button id="v-list" aria-pressed="true"></button><button id="v-cal" aria-pressed="false"></button><button id="v-loc" aria-pressed="false"></button><button id="v-art" aria-pressed="false"></button><button id="v-col" aria-pressed="false"></button></div>
   <div class="zseg" role="group" aria-label="Schriftgröße"><button id="z-m" aria-label="Schrift kleiner">A−</button><button id="z-p" aria-label="Schrift größer">A+</button><button id="a11y-b" type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="a11y-p" aria-label="Barrierefreiheit" title="Barrierefreiheit"><svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true"><circle cx="12" cy="12" r="10.5" fill="none" stroke="currentColor" stroke-width="1.6"/><circle cx="12" cy="6.6" r="1.7" fill="currentColor"/><path d="M6.6 9.3c1.8.5 3.6.8 5.4.8s3.6-.3 5.4-.8M12 10.2v3.6m0 0-2.4 5m2.4-5 2.4 5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg></button></div>
@@ -2001,7 +2001,7 @@ function texts(){
   const l=L();document.documentElement.lang=st.lang;
   try{const ab=$("a11y-b");ab.title=A11YT[st.lang].t;ab.setAttribute("aria-label",A11YT[st.lang].t)}catch(_){}$("v-list").textContent=l.list;$("v-art").textContent=l.arts;$("v-col").textContent=l.cols;$("v-loc").textContent=l.locs;$("t-filter").textContent=l.filter;$("v-cal").textContent=l.cal;
   $("t-searchlbl").textContent=l.search;$("q").placeholder=l.ph;$("reset").textContent=l.reset;const sv=hasSaved();$("savef").textContent=sv?l.savedF:l.saveF;$("savef").setAttribute("aria-pressed",sv);
-  $("t-ai").textContent=l.ai;$("t-foot1").innerHTML=`${l.asOf} · ${l.srcList}: `+SRCLIST.map(([n,u])=>`<a href="${esc(su(u))}" target="_blank" rel="noopener">${esc(n)}</a>`).join(", ");$("t-report").textContent=l.report;$("t-report").href=reportURL("","");$("t-brep").href=reportURL("","");$("t-brepl").innerHTML=l.repS;
+  $("t-ai").textContent=l.ai;$("t-foot1").innerHTML=`${l.asOf} · ${l.srcList}: `+SRCLIST.map(([n,u])=>`<a href="${esc(su(u))}" target="_blank" rel="noopener">${esc(n)}</a>`).join(", ");$("t-report").textContent=l.report;$("t-report").href=reportURL("","");
   $("sugbtn").textContent=l.sug;$("t-sugl").textContent=l.sugL;$("sugnote").placeholder=l.sugNote;$("t-sugsend").textContent=l.sugSend;
   $("l-de").setAttribute("aria-pressed",st.lang==="de");$("l-en").setAttribute("aria-pressed",st.lang==="en");
   ["list","cal","art","col","loc"].forEach(v=>$("v-"+v).setAttribute("aria-pressed",st.view===v));$("v-fav").setAttribute("aria-pressed",st.fav);$("v-fav").title=l.favs;$("favn").textContent=favCount()||"";
