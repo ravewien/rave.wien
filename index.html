@@ -1008,6 +1008,22 @@ html.a-cursor :is(a,button,[role=button],label,summary,input,select,[data-vopen]
 <div class="pullhint" id="pullhint" hidden><span></span><i></i></div>
 
 <script>(()=>{const q=/(^|\.)rave\.wien$/.test(location.hostname)?"?v="+Math.floor(Date.now()/60000):"";document.write('<script src="events.js'+q+'"><\/script><script src="past.js'+q+'"><\/script><script src="logos.js'+q+'"><\/script><script src="geo.js'+q+'"><\/script>')})()</script>
+<script>/* Backend-Vorschau: ausstehende Änderungen vor dem Live-Schalten anwenden (nur im claude.ai-Artifact, nie auf rave.wien) */
+(()=>{try{if(/(^|\.)rave\.wien$/.test(location.hostname))return;const P=JSON.parse(localStorage.getItem("rw-preview")||"null");if(!P||!P.on||!Array.isArray(P.edits))return;
+const sl=t=>String(t||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/ß/g,"ss").replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
+const eid=e=>(e.d+"-"+sl(e.title)).slice(0,60).replace(/-$/,"");
+const put=(o,k,v)=>{const ps=k.split(".");let x=o;ps.slice(0,-1).forEach(p=>{x[p]=x[p]&&typeof x[p]==="object"?x[p]:{};x=x[p]});const l=ps[ps.length-1];if(v==null||v===false||v===""||(Array.isArray(v)&&!v.length))delete x[l];else x[l]=v};
+const R=typeof RAW!=="undefined"?RAW:null,A=typeof AR!=="undefined"?AR:null,C=typeof CI!=="undefined"?CI:null,VIx=typeof VI!=="undefined"?VI:null,Vx=typeof V!=="undefined"?V:null,VRx=typeof VR!=="undefined"?VR:null,CGx=typeof CG!=="undefined"?CG:null,KCx=typeof KC!=="undefined"?KC:null;
+let n=0;P.edits.forEach(ed=>{const d=ed.data||{},k=ed.key;
+ if(ed.kind==="ev"&&R){const base=k.replace(/-\d+$/,"");const hits=R.filter(e=>{const id=eid(e);return id===k||id===base});
+  if(ed.op==="delete"){hits.forEach(h=>R.splice(R.indexOf(h),1));n++;return}
+  if(ed.op==="add"&&!hits.length){const e={src:[["man",""]],floors:[{f:"",a:["TBA"]}],_pv:1};Object.entries(d).forEach(([p,v])=>put(e,p,v));R.push(e);n++;return}
+  hits.forEach(h=>{Object.entries(d).forEach(([p,v])=>put(h,p,v));h._pv=1});if(hits.length)n++;return}
+ if(ed.kind==="art"&&A){const t=A[k]=A[k]||{};if(ed.op==="delete"){delete A[k];n++;return}Object.entries(d).forEach(([p,v])=>put(t,p,v));n++;return}
+ if(ed.kind==="col"&&C){if(ed.op==="delete"){delete C[k];n++;return}const t=C[k]=C[k]||{};Object.entries(d).forEach(([p,v])=>{if(p==="genres"&&CGx){if(v&&v.length)CGx[k]=v;else delete CGx[k]}else put(t,p,v)});if(KCx&&!KCx.includes(k))KCx.push(k);n++;return}
+ if(ed.kind==="ven"&&VIx){if(ed.op==="delete"){delete VIx[k];if(Vx)delete Vx[k];n++;return}const t=VIx[k]=VIx[k]||{};Object.entries(d).forEach(([p,v])=>{if(p==="address"&&Vx){Vx[k]=v||Vx[k]||"Wien"}else if(p.startsWith("rules.")&&VRx){VRx[k]=VRx[k]||{};put(VRx[k],p.slice(6),v)}else put(t,p,v)});if(Vx&&!Vx[k])Vx[k]="Wien";n++;return}});
+window.RWPREVIEW=n}catch(e){console.warn("Vorschau",e)}})();
+</script>
 <script>
 const VRULES=typeof VR!=="undefined"?VR:{};const SORG=typeof SO!=="undefined"?SO:[];const CGEN=typeof CG!=="undefined"?CG:{};
 function norm(t){return t.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/w\/|with|pres\.?|presents|feat\.?|at prst|<>|<|>|[|×x&+\-–:.,!'"()\/]/g," ").replace(/\s+/g," ").trim()}
@@ -2159,6 +2175,7 @@ if(EMBED&&!CONS)showBanner();
 .edbar button{border:1px solid var(--line);background:transparent;color:var(--fg);border-radius:3px;padding:5px 9px;font:700 11px var(--f-mono);letter-spacing:.05em;text-transform:uppercase;cursor:pointer}
 .edbar .edstat{border:1px solid var(--line);color:var(--fg);border-radius:3px;padding:5px 9px;font:700 11px var(--f-mono);letter-spacing:.05em;text-transform:uppercase;text-decoration:none}
 .edbar button.go{background:#e3b341;border-color:#e3b341;color:#111}
+.edbar button.pvon{border-color:#58a6ff;color:#58a6ff}
 .edbar .msg{color:var(--mute);font-size:11.5px;flex-basis:100%}
 .edmod{position:fixed;inset:0;z-index:230;background:rgba(0,0,0,.72);display:flex;justify-content:center;align-items:flex-start;overflow:auto;padding:24px 12px}
 .edmod[hidden]{display:none}
@@ -2200,6 +2217,11 @@ if(EMBED&&!CONS)showBanner();
 (()=>{
 const TRIGGER="trig_015NBzoS6nd7XJ8rgvtwgrLV";
 let EDB=null,EDITS={},ON=false;
+const PVK="rw-preview";const pvGet=()=>{try{return JSON.parse(localStorage.getItem(PVK)||"null")}catch(_){return null}};
+const pvList=()=>Object.values(EDITS).filter(d=>d.status==="pending").sort((a,b)=>(a.ts||0)-(b.ts||0)).map(d=>({kind:d.kind,key:d.key,op:d.op,data:d.data||{},ts:d.ts||0}));
+const pvSig=l=>l.map(d=>d.kind+":"+d.key+":"+d.ts).join("|");
+function pvSet(on){try{if(on){const l=pvList();localStorage.setItem(PVK,JSON.stringify({on:1,edits:l,sig:pvSig(l)}))}else localStorage.removeItem(PVK)}catch(_){toast("Vorschau braucht Browser-Speicher – hier nicht verfügbar.");return false}return true}
+function pvSync(){const P=pvGet();if(!P||!P.on)return;const l=pvList();if(pvSig(l)!==P.sig&&pvSet(true)&&$("edmod").hidden)location.reload()}
 let ASKRES=null;function ask(msg,okOnly){return new Promise(res=>{const b=$("edask");$("edaskt").textContent=msg;$("edaskn").hidden=!!okOnly;b.hidden=false;
   ASKRES=v=>{b.hidden=true;ASKRES=null;res(v)}})}
 const KN={ev:"Event",art:"Artist",col:"Veranstalter",ven:"Location"};
@@ -2322,7 +2344,8 @@ function drawBar(){const bar=$("edbar");if(!ON){bar.hidden=true;return}const lis
   const err=Object.values(EDITS).filter(d=>d.status==="error");
   bar.hidden=false;bar.innerHTML=`<span>✎ <b>${list.length}</b> ausstehend${err.length?` · <span style="color:#ff6b6b">${err.length} Fehler</span>`:""}</span>
    <button type="button" data-edlist>Ansehen</button><button type="button" data-ednew="ev">＋ Event</button><a href="https://rave.wien/statistik/" target="_blank" rel="noopener" class="edstat">Statistik ↗</a>
-   ${list.length?`<button type="button" class="go" data-edlive>Live schalten</button>`:""}${tmsg?`<span class="msg">${esc(tmsg)}</span>`:""}`;
+   <button type="button" data-edpv class="${(pvGet()||{}).on?"pvon":""}" title="Ausstehende Änderungen schon hier im Backend anzeigen">${(pvGet()||{}).on?"👁 Vorschau an":"👁 Vorschau"}</button>
+   ${list.length?`<button type="button" class="go" data-edlive>Live schalten</button>`:""}${(pvGet()||{}).on?`<span class="msg">Vorschau: ${window.RWPREVIEW||0} ausstehende Änderung(en) eingerechnet – so sieht es nach „Live schalten“ aus.</span>`:""}${tmsg?`<span class="msg">${esc(tmsg)}</span>`:""}`;
   document.querySelectorAll(".deck[data-card]").forEach(decorate)}
 function showList(){const box=$("edbox");const all=Object.entries(EDITS).sort((a,b)=>(b[1].ts||0)-(a[1].ts||0)).slice(0,60);
   const st2={pending:"ausstehend",applied:"live",error:"Fehler"};
@@ -2344,6 +2367,7 @@ document.addEventListener("click",async ev=>{if(!ON)return;const t=ev.target;
   if(t.closest("[data-ednew]")){openEdit(t.closest("[data-ednew]").dataset.ednew,"",true);return}
   if(t.closest("[data-edlist]")){showList();return}
   if(t.closest("[data-edlive]")){goLive();return}
+  if(t.closest("[data-edpv]")){const on=!(pvGet()||{}).on;if(pvSet(on))location.reload();return}
   if(!t.closest("#edmod"))return;ev.stopPropagation();
   if(t.id==="edmod"||t.closest("[data-edcancel]")){closeEd();return}
   if(t.closest("[data-rm]")){t.closest("span[data-v]").remove();return}
@@ -2360,7 +2384,7 @@ document.addEventListener("keydown",ev=>{if(!ON||$("edmod").hidden)return;
 
 const _rd=renderDeck;renderDeck=function(){_rd();if(ON)document.querySelectorAll(".deck[data-card]").forEach(decorate)};
 (async()=>{if(EMBED||!window.claude)return;try{const u=await claude.use("user");if(!u||!(await u.isOwner()))return;EDB=await claude.use("db");if(!EDB)return;ON=true;
-  EDB.collection("edits").onSnapshot(q=>{EDITS={};q.docs.forEach(d=>EDITS[d.id]=d.data());drawBar()},()=>{});drawBar()}catch(_){}})();
+  EDB.collection("edits").onSnapshot(q=>{EDITS={};q.docs.forEach(d=>EDITS[d.id]=d.data());drawBar();pvSync()},()=>{});drawBar()}catch(_){}})();
 })();
 </script>
 
