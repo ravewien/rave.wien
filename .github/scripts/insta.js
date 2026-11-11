@@ -77,7 +77,7 @@ const slide=(EVS,pg,i,n,label,dd,mm)=>`<!doctype html><meta charset="utf-8"><sty
  <div class="top"><div class="brand"><span class="astro"></span><span>rave<i class="dot"></i>wien</span></div><div class="pg">${n>1?`${i+1}/${n}`:''}</div></div>
  <div class="head"><div class="hrow"><div class="day">${esc(label)}</div><div class="date"><span>${dd}</span><i class="dd"></i><span>${mm}</span><i class="dd"></i></div></div><div class="sub">${EVS.length} Event${EVS.length===1?'':'s'} in Wien</div></div>
  <div class="list">${pg.map(e=>{const pr=price(e.p);return `<div class="ev"><div class="t">${esc(e.s||'--:--')}${e.e?`<small>-${esc(e.e)}</small>`:''}</div>
-  <div><div class="ti">${esc(e.t)}</div><div class="meta"><div class="where"><span class="ven">${PIN}${esc(e.v)}</span>${e.c.length?`<span class="col">${GRP}${esc(e.c.join(' · '))}</span>`:''}</div><span class="pr ${/frei/i.test(pr)?'free':/folgt/.test(pr)?'tbd':/Abendkasse|Ausverkauft/.test(pr)?'ak':''}">${esc(pr)}</span></div></div></div>`}).join('')}</div>
+  <div><div class="ti">${esc(e.t)}</div><div class="meta"><div class="where"><span class="ven">${PIN}${esc(e.v)}</span>${e.c.length?`<span class="col">${GRP}${esc(e.c.join(' · '))}</span>`:''}</div>${pr==='Eintritt frei'?`<span class="pr free">${esc(pr)}</span>`:''}</div></div></div>`}).join('')}</div>
  <div class="foot"><span>Lineups, Tickets &amp; mehr</span><b>rave<i></i>wien</b></div></div></body>`;
 // ---- Post-Text ----
 function caption(EVS,label,dd,mm,wd){
