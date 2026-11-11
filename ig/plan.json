@@ -1,0 +1,10 @@
+{
+  "_info": "Wann der Instagram-Post für die Events eines Wochentags erscheint: 'tage_vorher' Tage vor dem Eventtag um 'uhrzeit' (Wiener Zeit). Wochentag fehlt oder aktiv=false → kein Post.",
+  "montag":     {"aktiv": true, "tage_vorher": 0, "uhrzeit": "12:00"},
+  "dienstag":   {"aktiv": true, "tage_vorher": 0, "uhrzeit": "12:00"},
+  "mittwoch":   {"aktiv": true, "tage_vorher": 0, "uhrzeit": "12:00"},
+  "donnerstag": {"aktiv": true, "tage_vorher": 3, "uhrzeit": "18:00"},
+  "freitag":    {"aktiv": true, "tage_vorher": 3, "uhrzeit": "18:00"},
+  "samstag":    {"aktiv": true, "tage_vorher": 3, "uhrzeit": "18:00"},
+  "sonntag":    {"aktiv": true, "tage_vorher": 3, "uhrzeit": "18:00"}
+}

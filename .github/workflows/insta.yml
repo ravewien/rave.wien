@@ -1,0 +1,44 @@
+name: Instagram-Posts
+# Erzeugt alle 3 Stunden die fälligen Instagram-Posts (Bilder + Text) nach ig/plan.json
+# und legt sie unter ig/ ab. Der Raspberry Pi holt sie von rave.wien/ig/queue.json.
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      datum:
+        description: "Nur diesen Tag sofort erzeugen (JJJJ-MM-TT), leer = nach Plan"
+        required: false
+permissions:
+  contents: write
+concurrency:
+  group: insta
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Werkzeuge
+        run: |
+          npm i --no-save --no-package-lock --silent playwright@1.48.2
+          npx playwright install --with-deps chromium
+      - name: Erzeugen und speichern
+        env:
+          DATUM: ${{ github.event.inputs.datum }}
+        run: |
+          git config user.name "rave.wien Instagram"
+          git config user.email "ravewien@users.noreply.github.com"
+          for i in 1 2 3 4 5; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            node .github/scripts/insta.js $DATUM
+            git add -A ig
+            if git diff --cached --quiet; then echo "Keine Änderungen."; exit 0; fi
+            git commit -q -m "Instagram-Posts aktualisiert"
+            git push -q origin HEAD:main && exit 0
+            sleep $((i*5))
+          done
+          exit 1
