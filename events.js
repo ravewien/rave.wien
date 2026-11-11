@@ -1510,7 +1510,8 @@ const CI={
   "web": "https://basstrace.com",
   "sc": "https://soundcloud.com/basstrace",
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "ig": "https://www.instagram.com/basstrace/"
  },
  "Misguided": {
   "founded": "2024",
@@ -2651,7 +2652,8 @@ const CI={
  },
  "50 Herz": {
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "ig": "https://www.instagram.com/50.herz/"
  },
  "Cybertribe": {
   "de": "Wiener Techno-Kollektiv, das seit rund 2015 Clubnächte mit internationalen Gästen veranstaltet, u. a. im Flex, in der PRST, im B72, im Opera Club und im The Loft – teils gemeinsam mit Crews wie Misguided, Mahlwerk, VNV Kollektiv oder NEXUS.",
@@ -2804,7 +2806,8 @@ const CI={
    "https://ra.co/events/2570993",
    "https://ra.co/promoters/196842"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "ig": "https://www.instagram.com/superego_records/"
  },
  "TUFF": {
   "de": "Bounce-Partyreihe („Viennas bounce hub“), die unter dem Motto „Hard. Fast. TUFF.“ im Club Exil Bounce und Hardbounce spielt.",
@@ -3414,7 +3417,8 @@ const CI={
    "https://de.ra.co/events/2290782"
   ],
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "ig": "https://www.instagram.com/auslander_haus/"
  },
  "Pirotecnia": {
   "de": "Chilenisches Label (gegründet 2014) für House, Techno, Global Beats und Experimentelles mit elektronischen lateinamerikanischen Rhythmen; laut RA Mitveranstalter des Wien-Abends mit DJ Raff im Fanialive.",
@@ -4152,7 +4156,8 @@ const CI={
    "https://www.ntry.at/redividerpreskonduku?l=en"
   ],
   "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "noLogo": "2026-11-03",
+  "ig": "https://www.instagram.com/redivideredivider/"
  },
  "Park It Here": {
   "de": "Wiener Reihe für UK-Sound: UK Garage, Bassline, Grime und Drum & Bass. Events u. a. im PRST, SASS Music Club und in der Pratersauna.",
@@ -5449,7 +5454,8 @@ const CI={
   "infoChk": "2026-11-10",
   "src": [
    "https://www.technoairlines.com/event/10-years-of-publegenden-feat-bort-club-u-2026-11-13"
-  ]
+  ],
+  "ig": "https://www.instagram.com/publegenden/"
  },
  "Bass Cave": {
   "de": "Wiener Drum-and-Bass-Reihe mit eigenen Residents, u. a. im Einbaumöbel (1bm) im Gürtelbogen; gemeinsame Specials mit Shake It and Break It im WARDA.",
@@ -5627,7 +5633,8 @@ const VI={
   "io": [
    "Indoor"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "ig": "https://www.instagram.com/grelle_forelle/"
  },
  "Das Werk": {
   "web": "https://www.daswerk.org/",
@@ -5662,7 +5669,8 @@ const VI={
   "opened": "2006",
   "infoChk": "2026-10-31",
   "logo": "https://imgproxy.ra.co/_/quality:66/h:180/w:180/extend:1/rt:fill/enlarge:1/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL2NsdWJzL2F0LXdlcmsuanBnP2RhdGVVcGRhdGVkPTE2NTY5NDc0NzkyOTc=",
-  "man": 1
+  "man": 1,
+  "ig": "https://www.instagram.com/daswerk_wien/"
  },
  "FLUCC": {
   "web": "https://flucc.at/",
@@ -5688,7 +5696,8 @@ const VI={
    "FLUCC Deck",
    "FLUC",
    "Fluc Wanne"
-  ]
+  ],
+  "ig": "https://www.instagram.com/fluccvienna/"
  },
  "SASS Music Club": {
   "web": "https://sassvienna.com/",
@@ -5705,7 +5714,8 @@ const VI={
   "infoChk": "2026-11-02",
   "logo": "https://vorteilsclub.wien.at/file/vorteilsclub/partner/logo-image/logo-image_sass-music-club.5d005c62855e8d0243bdb2c27012cc61.jpeg",
   "logoBg": "#ffffff",
-  "man": 1
+  "man": 1,
+  "ig": "https://www.instagram.com/sassmusicclub/"
  },
  "PRST": {
   "alias": [
@@ -5748,7 +5758,8 @@ const VI={
    "Maschinenraum",
    "Cyberspace"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "ig": "https://www.instagram.com/club_exil/"
  },
  "Kramladen": {
   "opened": "2015",
@@ -5782,7 +5793,8 @@ const VI={
   ],
   "infoChk": "2026-11-02",
   "web": "https://www.celeste.co.at/",
-  "logo": "https://www.celeste.co.at/img/logosmall.png"
+  "logo": "https://www.celeste.co.at/img/logosmall.png",
+  "ig": "https://www.instagram.com/celeste_wien/"
  },
  "Weberknecht": {
   "web": "https://weberknecht.at/",
@@ -5840,7 +5852,8 @@ const VI={
   "de": "Live-Musik- und Club-Location in den Stadtbahnbögen 24/25 am Gürtel (1080, nahe U6 Thaliastraße), seit August 2025 – Konzerte unter der Woche, am Wochenende Clubnächte mit House, Techno und Drum & Bass.",
   "en": "Live music and club venue in railway arches 24/25 on the Gürtel (1080, near U6 Thaliastraße), open since August 2025 – concerts on weeknights, club nights with house, techno and drum & bass at weekends.",
   "opened": "2025",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "ig": "https://www.instagram.com/lucia.vienna/"
  },
  "O der Klub": {
   "web": "https://o-klub.at/",
@@ -5868,7 +5881,8 @@ const VI={
   "resSrc": [
    "https://ra.co/dj/albinbrezlan/biography"
   ],
-  "man": 1
+  "man": 1,
+  "ig": "https://www.instagram.com/o_der_klub/"
  },
  "Libelle": {
   "web": "https://www.libelle.at/",
@@ -5963,7 +5977,8 @@ const VI={
    "Indoor"
   ],
   "opened": "2009",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "ig": "https://www.instagram.com/theloftvienna/"
  },
  "Pyramide Vösendorf": {
   "src": [
@@ -6010,7 +6025,8 @@ const VI={
   ],
   "infoChk": "2026-10-31",
   "logo": "https://flex.at/wp-content/uploads/2022/05/Flex-Logo-weiss.svg",
-  "man": 1
+  "man": 1,
+  "ig": "https://www.instagram.com/flexvienna_official/"
  },
  "Ottakringer Brauerei": {
   "src": [
@@ -6108,7 +6124,8 @@ const VI={
   "de": "Bar und Live-Location in den Stadtbahnbögen 37–38 am Lerchenfelder Gürtel (1080) – Wiens Anlaufstelle für avancierte Elektronik und experimentellen Rock, mit Konzerten unter der Woche und DJ-Abenden am Wochenende.",
   "en": "Bar and live venue in railway arches 37–38 on the Lerchenfelder Gürtel (1080) – Vienna's hub for advanced electronic music and experimental rock, with concerts during the week and DJ nights at weekends.",
   "web": "https://rhiz.wien/",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "ig": "https://www.instagram.com/rhizvienna/"
  },
  "kv.r.": {
   "src": [
@@ -6127,7 +6144,8 @@ const VI={
   "de": "Kulturverein bzw. Kollektiv, das leerstehende Räume bespielt; seit Oktober 2025 im Pavillon 21 am Otto-Wagner-Areal (Steinhof, Penzing), davor in Ottakring. Programm aus Konzerten, Festivals, Ausstellungen, Film und Workshops.",
   "en": "Cultural association/collective activating vacant spaces; since October 2025 in Pavilion 21 of the Otto Wagner Areal (Steinhof, Penzing), previously in Ottakring. Programme of concerts, festivals, exhibitions, film and workshops.",
   "web": "https://kollektiv-kaorle.at",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "ig": "https://www.instagram.com/kollektiv_kaorle/"
  },
  "Westbahn Studios": {
   "src": [
@@ -6279,7 +6297,8 @@ const VI={
    "Indoor"
   ],
   "logo": "https://loop.co.at/wp-content/uploads/2022/02/copy-loop-logo_white.jpg",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "ig": "https://www.instagram.com/loopwien/"
  },
  "Jaz in the City": {
   "de": "Hotel Jaz in the City in der Windmühlgasse (Mariahilf) mit der Dachbar Mariatrink, in der die Rooftop Series mit DJ-Sets stattfindet.",
