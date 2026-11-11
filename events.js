@@ -978,6 +978,17 @@ const CG={
  "CitrusCue": [
   "Bass",
   "Dubstep"
+ ],
+ "KRAWALL": [
+  "Trance",
+  "Techno"
+ ],
+ "Palazzo Recordings": [
+  "Techno"
+ ],
+ "Uniquely Journeys": [
+  "Psytrance",
+  "Goa"
  ]
 };
 const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","909techno","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","BLUR","Bonkers","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Cybertribe","Cyclic Existence","Dance 2 House","Danza Obscura","Dark Pressure","Das Syndikat","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Klanggerecht","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","Meier","MEIOSISS","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Opération","Out of Space","Oxygene","Palazzo Recordings","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","SIGNAL","SIN","Slutlabs","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","The Academy","The Hive","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Uniquely Journeys","Unkwn","Untz Baby Untz","up/or","Ventil Records","Verknallt","Vertigo","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wyldhearts","Xperiment","YE","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
@@ -1170,7 +1181,8 @@ const CI={
    "Kollektiv"
   ],
   "man": 1,
-  "logo": "https://www.backbeat.at/wp-content/uploads/2022/01/Download.png"
+  "logo": "https://www.backbeat.at/wp-content/uploads/2022/01/Download.png",
+  "infoChk": "2026-11-11"
  },
  "Journey to Tarab": {
   "de": "Wiener Kollektiv, Partys „von Freund*innen für Freund*innen“, oft gemeinsam mit Im Freudentaumel im FLUCC.",
@@ -5496,6 +5508,92 @@ const CI={
  "NOTYOURORDINARY": {
   "noLogo": "2026-11-10",
   "infoChk": "2026-11-10"
+ },
+ "Endless Insanity": {
+  "de": "Partyreihe im Maschinenraum des Club Exil in Vösendorf bei Wien – laut Ankündigung mit langen Sets und „ohne Kompromisse“. Teil III steigt am 21.11.2026, Teil IV am 10.04.2027.",
+  "en": "Party series in the Maschinenraum of Club Exil in Vösendorf near Vienna, promising long sets and “no compromises”. Part III takes place on 21 Nov 2026, part IV on 10 Apr 2027.",
+  "type": [
+   "Reihe"
+  ],
+  "src": [
+   "https://www.goabase.net/party/endless-insanity-iii-klangmassaker-highko-agressive-mood-maze-of-madness/117871",
+   "https://www.goabase.net/party/endless-insanity-iv-radice-indacoruna-radiruna-kinetik-flux/117872"
+  ],
+  "noLogo": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "KRAWALL": {
+  "de": "Partyreihe aus Köln (Trance, Techno) mit Kölner Residents wie Elyante, Schana, Kippenhaus, Jokkel, DJ Hüftschwung und Evi B. Am 05.12.2026 holt KRAWALL zum vierjährigen Bestehen seine Residency für das erste internationale Event als „KRAMPUS RAVE“ in den Club Lucia nach Wien.",
+  "en": "Cologne party series (trance, techno) with Cologne residents including Elyante, Schana, Kippenhaus, Jokkel, DJ Hüftschwung and Evi B. For its fourth anniversary, KRAWALL brings its residency to Club Lucia in Vienna on 5 Dec 2026 as “KRAMPUS RAVE”, its first international event.",
+  "type": [
+   "Reihe"
+  ],
+  "founded": "2022",
+  "foundedNote": 1,
+  "from": "Köln",
+  "src": [
+   "https://ra.co/events/2581841",
+   "https://ra.co/promoters/185611"
+  ],
+  "noLogo": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "Palazzo Recordings": {
+  "de": "Wiener Label des Live-Techno-Trios Elektro Guzzi mit Releases von Elektro Guzzi, PNØ, Parajekt, Tumido und Monochord. Veranstaltet Palazzo-Labelnights, etwa im FLUCC, und am 05.12.2026 das Palazzo Festival im WUK.",
+  "en": "Vienna label run by live-techno trio Elektro Guzzi, releasing music by Elektro Guzzi, PNØ, Parajekt, Tumido and Monochord. It hosts Palazzo label nights, e.g. at FLUCC, and the Palazzo Festival at WUK on 5 Dec 2026.",
+  "type": [
+   "Label"
+  ],
+  "from": "Wien",
+  "bc": "https://palazzo-rec.bandcamp.com/",
+  "src": [
+   "https://palazzo-rec.bandcamp.com/",
+   "https://ra.co/promoters/197621",
+   "https://ra.co/events/2580457",
+   "https://ra.co/events/2412914",
+   "https://forcedexposure.com/Labels/PALAZZO.RECORDINGS.AUSTRIA.HTML",
+   "https://ntry.at/elektroguzzilive",
+   "https://ntry.at/palazzolabelnight?l=de"
+  ],
+  "noLogo": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "Uniquely Journeys": {
+  "de": "Neue Psytrance-Veranstaltung aus Wien, die mit „Maiden Voyage“ am 07.12.2026 in The Chamber (Hernalser Gürtel) ihre „Jungfernfahrt“ feiert.",
+  "en": "New Vienna psytrance event that celebrates its “maiden voyage” with “Maiden Voyage” at The Chamber (Hernalser Gürtel) on 7 Dec 2026.",
+  "founded": "2026",
+  "from": "Wien",
+  "src": [
+   "https://www.goabase.net/es/party/maiden-voyage/118000"
+  ],
+  "noLogo": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "FromDuskTillDawn": {
+  "noLogo": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "Nasty Connexion": {
+  "de": "Veranstalter der Techno-/Psy-Tekno-Reihe TEKNOTEKA im Weberknecht (Lerchenfelder Gürtel) in Wien: Vol. 3 am 19.11.2026, Vol. 4 am 11.12.2026 (u. a. mit Kork, Gurkal²³, Nasty, Tekno Nixe), Vol. 5 am 02.04.2027.",
+  "en": "Organiser of the techno/psy-tekno series TEKNOTEKA at Weberknecht (Lerchenfelder Gürtel), Vienna: Vol. 3 on 19 Nov 2026, Vol. 4 on 11 Dec 2026 (with Kork, Gurkal²³, Nasty, Tekno Nixe and others), Vol. 5 on 2 Apr 2027.",
+  "src": [
+   "https://www.goabase.net/party/teknoteka-vol4/118639",
+   "https://www.goabase.net/party/teknoteka-vol3/118540",
+   "https://www.goabase.net/party/teknoteka-vol5/118542"
+  ],
+  "noLogo": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "NachtAktiv": {
+  "de": "Wiener Veranstalter elektronischer Clubnächte in The Chamber am Hernalser Gürtel, u. a. „NachtAktiv presents PsyJungle“ am 18.12.2026 und das abgesagte „Bass Therapy“ mit DJ Emsion im August 2026.",
+  "en": "Vienna organiser of electronic club nights at The Chamber on Hernalser Gürtel, including “NachtAktiv presents PsyJungle” on 18 Dec 2026 and the cancelled “Bass Therapy” with DJ Emsion in August 2026.",
+  "from": "Wien",
+  "src": [
+   "https://www.goabase.net/party/nachtaktiv-pres-bass-therapy-w-dj-emsion/117839",
+   "https://www.goabase.net/party/?bPast=0&nPos=0&saAtt%5Bgeolat%5D=48.2&saAtt%5Bgeoloc%5D=Wien&saAtt%5Bgeolon%5D=16.3&saAtt%5Bradius%5D=100"
+  ],
+  "noLogo": "2026-11-11",
+  "infoChk": "2026-11-11"
  }
 };
 const VI={
@@ -6419,7 +6517,9 @@ const VI={
   "en": "Venue on Hernalser Gürtel; according to the organisers the location of Uniquely Journeys' psytrance night 'Maiden Voyage'.",
   "src": [
    "https://www.goabase.net/party/maiden-voyage/118000"
-  ]
+  ],
+  "noLogo": "2026-11-11",
+  "infoChk": "2026-11-11"
  },
  "BC Vienna Arena": {
   "io": [
@@ -6432,14 +6532,31 @@ const VI={
   "en": "Event hall in Favoriten (formerly Hallmann Dome), home of the psytrance festival Paradise Winter Festival among others.",
   "src": [
    "https://www.volume.at/events/paradise-winter-festival-2027-2027-01-29/"
-  ]
+  ],
+  "web": "https://www.hallmann-dome.at/",
+  "opened": "1984",
+  "noLogo": "2026-11-11",
+  "infoChk": "2026-11-11"
  },
  "WUK": {
   "web": "https://www.wuk.at",
   "io": [
    "Indoor",
    "Outdoor"
-  ]
+  ],
+  "de": "Das WUK (Werkstätten- und Kulturhaus) ist ein großes, selbstverwaltetes Kulturzentrum in einer ehemaligen Lokomotivfabrik im 9. Bezirk (Alsergrund). Neben Werkstätten, Ateliers und Proberäumen bietet es Bühnen, Konzertsäle und Ausstellungsräume für Konzerte, Clubabende, Performance und Kunst.",
+  "en": "WUK (Werkstätten- und Kulturhaus) is a large self-organised cultural centre housed in a former locomotive factory in Vienna's 9th district (Alsergrund). Besides workshops, studios and rehearsal rooms it has stages, concert halls and exhibition spaces for concerts, club nights, performance and art.",
+  "opened": "1981",
+  "noLogo": "2026-11-11",
+  "floors": [
+   "Saal",
+   "Foyer",
+   "Projektraum",
+   "Museum",
+   "Kunsthalle Exnergasse",
+   "Initiativenraum"
+  ],
+  "infoChk": "2026-11-11"
  }
 };
 /* LS = Logo-Suche ohne Treffer für Locations (v) / Kollektive (c) ohne VI-/CI-Eintrag: Datum der letzten Suche; frühestens 60 Tage danach erneut suchen. */
@@ -45317,7 +45434,9 @@ const AR={
    "https://ra.co/dj/ani",
    "https://ra.co/events/2157973"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
  },
  "Laurine": {
   "img": "https://static.ra.co/images/profiles/laurine.jpg?dateUpdated=1787144435867",
@@ -47697,7 +47816,10 @@ const AR={
   "img": "https://f4.bcbits.com/img/0032812245_23.jpg",
   "links": {
    "bc": "https://kolab.bandcamp.com",
-   "ig": "https://www.instagram.com/kolab.berlin"
+   "ig": "https://www.instagram.com/kolab.berlin",
+   "ra": "https://ra.co/dj/kolab",
+   "sc": "https://soundcloud.com/kolabberlin",
+   "sp": "https://open.spotify.com/artist/14HsByUX40hG0DvFDVT8pa"
   },
   "from": {
    "de": "Berlin",
@@ -47712,8 +47834,8 @@ const AR={
   },
   "infoChk": "2026-11-10",
   "src": [
-   "https://kolab.bandcamp.com",
-   "https://festapp.io/artists/kolab"
+   "https://ra.co/dj/kolab",
+   "https://open.spotify.com/track/3VPfq4ql61VcKLHZK3zMel"
   ]
  },
  "Mariam Rezaei": {
@@ -47783,6 +47905,619 @@ const AR={
   },
   "noImg": "2026-11-10",
   "infoChk": "2026-11-10"
+ },
+ "DJ Mimo": {
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "DJ Etherdoll": {
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "DJ Hueftschwung": {
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "DJ Off Duty": {
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "Dubsburg Soundsystem": {
+  "from": {
+   "de": "Burgenland, Österreich",
+   "en": "Burgenland, Austria"
+  },
+  "bio": {
+   "de": "Dub-Soundsystem aus dem Burgenland. Bringt bei „10 Years of Publegenden“ im Club U gemeinsam mit BØRT den Bassdruck.",
+   "en": "Dub sound system from Burgenland, Austria. Brings the bass pressure alongside BØRT at '10 Years of Publegenden' at Club U."
+  },
+  "links": {
+   "sc": "https://soundcloud.com/dubsburgsound",
+   "ig": "https://www.instagram.com/dubsburgsoundsystem"
+  },
+  "src": [
+   "https://ra.co/events/2579812",
+   "https://soundcloud.com/dubsburgsound"
+  ],
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11"
+ },
+ "Klangmassaker": {
+  "bio": {
+   "de": "Psytrance-Produzent. Tracks u. a. auf Releases von Soundlab Pirates sowie Kollaborationen mit Mindpirates und Malex.",
+   "en": "Psytrance producer. Tracks include releases via Soundlab Pirates and collaborations with Mindpirates and Malex."
+  },
+  "links": {
+   "sc": "https://soundcloud.com/klangmassaker"
+  },
+  "src": [
+   "https://soundcloud.com/klangmassaker",
+   "https://soundcloud.com/soundlabpirates/klangmassaker-the-sense-of"
+  ],
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11"
+ },
+ "Highko": {
+  "bio": {
+   "de": "Psytrance-Produzent und DJ. Veröffentlichte gemeinsam mit Agressive Mood das Album „Maze of Madness“ auf Blast Records.",
+   "en": "Psytrance producer and DJ. Released the album 'Maze of Madness' together with Agressive Mood on Blast Records."
+  },
+  "labels": [
+   "Blast Records"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/highkonoisepoison"
+  },
+  "src": [
+   "https://soundcloud.com/highkonoisepoison",
+   "https://soundcloud.com/blastrecords25/sets/highko-and-agressive-mood-maze-of-madness"
+  ],
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11"
+ },
+ "Agressive Mood": {
+  "bio": {
+   "de": "Psytrance-Produzent. Veröffentlichte das Album „Portal Generator“ (2017, Black Out Records) sowie mit Highko das Album „Maze of Madness“ auf Blast Records.",
+   "en": "Psytrance producer. Released the album 'Portal Generator' (2017, Black Out Records) and, with Highko, the album 'Maze of Madness' on Blast Records."
+  },
+  "labels": [
+   "Black Out Records",
+   "Blast Records"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/agressive-mood",
+   "sp": "https://open.spotify.com/artist/3eEiHN6C5Qr3UPAFS31RUi"
+  },
+  "src": [
+   "https://soundcloud.com/agressive-mood",
+   "https://open.spotify.com/album/4xJR4zjV96RxvKCPIIm7PL",
+   "https://soundcloud.com/black-out-records/agressive-mood-portal-generator-album-preview"
+  ],
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11"
+ },
+ "Maze of Madness": {
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "Harmont": {
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Österreichisches Electronica/Jazz-Duo der Multiinstrumentalisten Konrad Milan und Andreas Moser. Aus ihrer gemeinsamen Liebe zum Film entstehen nachdenkliche, cineastische, genreübergreifende Arrangements, beeinflusst von The Cinematic Orchestra, Ólafur Arnalds und Portico Quartet.",
+   "en": "Austrian electronica/jazz duo formed by multi-instrumentalists Konrad Milan and Andreas Moser. Their shared love for film shapes thoughtful, cinematic, genre-bending arrangements, influenced by The Cinematic Orchestra, Ólafur Arnalds and Portico Quartet."
+  },
+  "links": {
+   "web": "https://www.harmontmusic.com"
+  },
+  "src": [
+   "https://ra.co/events/2570410"
+  ],
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "Elektro Guzzi": {
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Live-Techno-Trio aus Österreich, beschrieben als „man-machine, clockwork, techno organism“. Veröffentlichungen u. a. auf Macro und Denovali Records.",
+   "en": "Live techno trio from Austria – called 'man-machine, clockwork, techno organism'. Releases on labels including Macro and Denovali Records."
+  },
+  "labels": [
+   "Macro",
+   "Pomelo",
+   "Ghosthall",
+   "Denovali Records"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/elektroguzzi.jpg",
+  "links": {
+   "ra": "https://ra.co/dj/elektroguzzi",
+   "sc": "https://soundcloud.com/elektroguzzi",
+   "sp": "https://open.spotify.com/artist/7k5umNvyeiiTV0xxw5Qr8s",
+   "ig": "https://www.instagram.com/elektroguzzi",
+   "web": "https://www.elektroguzzi.net"
+  },
+  "src": [
+   "https://ra.co/dj/elektroguzzi",
+   "https://open.spotify.com/album/1NnfO8eRsaEadEzd3hMkVb"
+  ],
+  "infoChk": "2026-11-11"
+ },
+ "vazov": {
+  "alias": [
+   "Subcurrent"
+  ],
+  "bio": {
+   "de": "VAZOV, früher bekannt als Subcurrent, ist ein Wiener Local-Act. Er spielt schnelleren, hypnotischen, groove-getriebenen Techno mit schwerem Low End.",
+   "en": "VAZOV, formerly known as Subcurrent, is a Vienna local act. He plays faster, hypnotic, groove-driven techno with a heavy low end."
+  },
+  "src": [
+   "https://ra.co/events/2575308"
+  ],
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "fejv": {
+  "bio": {
+   "de": "Fejv ist Local Support der CitrusCue-Reihe in Wien. Das Set reicht von UK Bass mit klassischen Club-Sounds bis zu experimentellen, leftfield Selections.",
+   "en": "Fejv is local support at the CitrusCue series in Vienna. The sets range from UK bass with classic club sounds to experimental, leftfield selections."
+  },
+  "src": [
+   "https://ra.co/events/2575308"
+  ],
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "Distorgina": {
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "Elyante": {
+  "bio": {
+   "de": "Elyante ist Teil der Kölner KRAWALL-Crew und veröffentlicht auf SoundCloud Remixe und Edits als Free Downloads, u. a. gemeinsam mit Kippenhaus.",
+   "en": "Elyante is part of the Cologne KRAWALL crew and releases remixes and edits as free downloads on SoundCloud, including collaborations with Kippenhaus."
+  },
+  "links": {
+   "sc": "https://soundcloud.com/elyante"
+  },
+  "src": [
+   "https://soundcloud.com/elyante/kraftwerk-das-model-kippenhaus-x-elyante-remix-free-dl",
+   "https://ra.co/events/2581841"
+  ],
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11"
+ },
+ "Schana": {
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "Kippenhaus": {
+  "bio": {
+   "de": "Kippenhaus ist Produzent und DJ aus dem Umfeld der Kölner KRAWALL-Crew. 2026 erschien sein Track „Green Flavour“ (ARVA01), außerdem gibt es Kollaborationen mit Elyante.",
+   "en": "Kippenhaus is a producer and DJ from the Cologne KRAWALL crew. His track \"Green Flavour\" (ARVA01) came out in 2026, alongside collaborations with Elyante."
+  },
+  "links": {
+   "sc": "https://soundcloud.com/kippenhaus",
+   "sp": "https://open.spotify.com/artist/7y6OYZ4aBOlwO2n1VjnNa1"
+  },
+  "src": [
+   "https://soundcloud.com/roovetechno/roove-premiere-kippenhaus",
+   "https://open.spotify.com/intl-pt/track/6r3pX07lMk6gVAzqh8lNZH",
+   "https://ra.co/events/2581841"
+  ],
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11"
+ },
+ "Jokkel": {
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "Evi B": {
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "WaqWaq Kingdom": {
+  "from": {
+   "de": "Japan / Deutschland",
+   "en": "Japan / Germany"
+  },
+  "bio": {
+   "de": "WaqWaq Kingdom ist das Projekt von Kiki Hitomi und DJ Scotch Egg, mit Wurzeln in Japan und Sitz in Deutschland. 2019 erschien das Album „Essaka Hoisa“ auf Phantom Limb, später folgte die EP „Dokkoisho“.",
+   "en": "WaqWaq Kingdom is the project of Kiki Hitomi and DJ Scotch Egg, rooted in Japan and based in Germany. Their album \"Essaka Hoisa\" came out on Phantom Limb in 2019, later followed by the EP \"Dokkoisho\"."
+  },
+  "labels": [
+   "Phantom Limb"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/waqwaqkingdom.jpg?dateUpdated=1644924218000",
+  "links": {
+   "ra": "https://ra.co/dj/waqwaqkingdom",
+   "ig": "https://www.instagram.com/waqwaqkingdom/",
+   "web": "https://waqwaqkingdom.com/"
+  },
+  "src": [
+   "https://ra.co/dj/waqwaqkingdom",
+   "https://ra.co/news/44402",
+   "https://ra.co/news/73268",
+   "https://ra.co/events/2580457"
+  ],
+  "infoChk": "2026-11-11"
+ },
+ "Catu Diosis": {
+  "from": {
+   "de": "Kampala, Uganda",
+   "en": "Kampala, Uganda"
+  },
+  "bio": {
+   "de": "Catu Diosis ist eine junge DJ und Produzentin aus Kampala. Sie spielt afro-inspirierte Bass Music.",
+   "en": "Catu Diosis is a young Kampala-based DJ and producer. She plays Afro-inspired bass music."
+  },
+  "img": "https://static.ra.co/images/profiles/square/catudiosis.jpg?dateUpdated=1564656489000",
+  "links": {
+   "ra": "https://ra.co/dj/catudiosis",
+   "sc": "https://soundcloud.com/catu_dj"
+  },
+  "src": [
+   "https://ra.co/dj/catudiosis"
+  ],
+  "infoChk": "2026-11-11"
+ },
+ "Fingers of God": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Fingers Of God ist DJ und Live-Act aus Wien. Veröffentlichungen erschienen u. a. auf Night Defined Recordings, LKR Records, GRID, Dance Data und sama recordings.",
+   "en": "Fingers Of God is a DJ and live act from Vienna. Releases have appeared on labels including Night Defined Recordings, LKR Records, GRID, Dance Data and sama recordings."
+  },
+  "labels": [
+   "Night Defined Recordings",
+   "LKR Records",
+   "GRID",
+   "Dance Data",
+   "sama recordings"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/fingersofgod.jpg?dateUpdated=1511826654847",
+  "links": {
+   "ra": "https://ra.co/dj/fingersofgod",
+   "sc": "https://soundcloud.com/fingersofgod",
+   "ig": "https://www.instagram.com/fingersofgod",
+   "web": "https://philipppettauer.com"
+  },
+  "src": [
+   "https://ra.co/dj/fingersofgod",
+   "https://ra.co/events/2580457"
+  ],
+  "infoChk": "2026-11-11"
+ },
+ "Richard Steinschlag": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Richard Steinschlag ist DJ und Produzent aus Wien. Er begann 1999 mit Live-Acts, kam später zum DJing und spielt seit 2010 regelmäßig. Er ist Teil von Mind Entertainment Records.",
+   "en": "Richard Steinschlag is a DJ and producer from Vienna. He started with live acts in 1999, later added DJing and has played many gigs since 2010. He is part of Mind Entertainment Records."
+  },
+  "labels": [
+   "Mind Entertainment Records"
+  ],
+  "alias": [
+   "NC Joe"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/richardsteinschlag.jpg?dateUpdated=1728588937000",
+  "links": {
+   "ra": "https://ra.co/dj/richardsteinschlag",
+   "sc": "https://soundcloud.com/richardsteinschlag",
+   "web": "https://www.mindentertainment.org"
+  },
+  "src": [
+   "https://ra.co/dj/richardsteinschlag",
+   "https://ra.co/events/2580612"
+  ],
+  "infoChk": "2026-11-11"
+ },
+ "Yoshiko": {
+  "from": {
+   "de": "Italien",
+   "en": "Italy"
+  },
+  "bio": {
+   "de": "Yoshiko ist ein:e Hard-Dance-DJ aus Italien und auf RA mit dem Label Darkside Unleashed verknüpft. Auftritte u. a. bei STIMULAR Open Air in Gent und bei Hardline: Cold War in Vösendorf.",
+   "en": "Yoshiko is a hard dance DJ from Italy, linked on RA to the label Darkside Unleashed. Bookings include STIMULAR Open Air in Ghent and Hardline: Cold War in Vösendorf."
+  },
+  "labels": [
+   "Darkside Unleashed"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/yoshiko.jpg?dateUpdated=1717604179000",
+  "links": {
+   "ra": "https://ra.co/dj/yoshiko"
+  },
+  "src": [
+   "https://ra.co/dj/yoshiko",
+   "https://ra.co/events/2538107"
+  ],
+  "infoChk": "2026-11-11"
+ },
+ "Lekkerfaces": {
+  "from": {
+   "de": "Italien (lebt in den Niederlanden)",
+   "en": "Italy (based in the Netherlands)"
+  },
+  "bio": {
+   "de": "Lekkerfaces stammt aus Italien und lebt laut RA in den Niederlanden. Auf RA ist das Label Darkside Unleashed angegeben.",
+   "en": "Lekkerfaces was born in Italy and, according to RA, is based in the Netherlands. RA lists the label Darkside Unleashed."
+  },
+  "labels": [
+   "Darkside Unleashed"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/lekkerfaces.jpg?dateUpdated=1675418964000",
+  "links": {
+   "ra": "https://ra.co/dj/lekkerfaces"
+  },
+  "src": [
+   "https://ra.co/dj/lekkerfaces"
+  ],
+  "infoChk": "2026-11-11"
+ },
+ "99PRBLMZ": {
+  "img": "https://i.scdn.co/image/ab6761610000e5eb2b822b030816f8eeb049c4e4",
+  "links": {
+   "sc": "https://soundcloud.com/99prblmz",
+   "sp": "https://open.spotify.com/artist/6SU7dAcEA0XXqGTLMM9zSF"
+  },
+  "src": [
+   "https://open.spotify.com/artist/6SU7dAcEA0XXqGTLMM9zSF",
+   "https://soundcloud.com/99prblmz/tracks"
+  ],
+  "infoChk": "2026-11-11"
+ },
+ "Peygan": {
+  "links": {
+   "sc": "https://soundcloud.com/peyganofficial",
+   "sp": "https://open.spotify.com/artist/7Gatqa2VVX586jcYiIVJg9"
+  },
+  "src": [
+   "https://soundcloud.com/peyganofficial",
+   "https://open.spotify.com/album/4EEDrzDGBvXgiI7glhYMj8"
+  ],
+  "noImg": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "Unicorn on K": {
+  "from": {
+   "de": "Spanien",
+   "en": "Spain"
+  },
+  "alias": [
+   "Unicorn on Ketamine"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/unicornonketamine.jpg?dateUpdated=1711724480000",
+  "links": {
+   "ra": "https://ra.co/dj/unicornonketamine"
+  },
+  "src": [
+   "https://ra.co/dj/unicornonketamine",
+   "https://ra.co/events/2347185",
+   "https://ra.co/events/1762523"
+  ],
+  "infoChk": "2026-11-11"
+ },
+ "2 Facez": {
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "Active Elementz": {
+  "links": {
+   "sc": "https://soundcloud.com/activeelementz"
+  },
+  "src": [
+   "https://soundcloud.com/activeelementz"
+  ],
+  "noImg": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "Delighted": {
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "img": "https://i.scdn.co/image/ab6761610000e5ebbcf73db9c3bec66fd3fbfde6",
+  "links": {
+   "sp": "https://open.spotify.com/artist/1vXpEYQw96lfSORnyiL9A5"
+  },
+  "src": [
+   "https://www.musicmetricsvault.com/artists/delighted/1vXpEYQw96lfSORnyiL9A5"
+  ],
+  "infoChk": "2026-11-11"
+ },
+ "Monch": {
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "Pablo Morello": {
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "Eternal Injustice": {
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "Humanforce": {
+  "bio": {
+   "de": "HumanForce veröffentlicht auf SoundCloud Rawtempo-Edits, etwa „Holy Atlantis (HumanForce Rawtempo Edit)“ und „Weihnachtsmann & Co KG (HumanForce Rawtempo Edit)“. Auf Spotify ist u. a. der Track „Rio de Raw (I Wanna Party)“ erschienen.",
+   "en": "HumanForce releases rawtempo edits on SoundCloud, such as \"Holy Atlantis (HumanForce Rawtempo Edit)\" and \"Weihnachtsmann & Co KG (HumanForce Rawtempo Edit)\". Releases on Spotify include the track \"Rio de Raw (I Wanna Party)\"."
+  },
+  "genres": [
+   "Rawtempo"
+  ],
+  "img": "https://i.scdn.co/image/ab6761610000e5ebecb48a30a18d7a9485e3e28d",
+  "links": {
+   "sc": "https://soundcloud.com/humanforce",
+   "sp": "https://open.spotify.com/artist/2Esmvh0vyS639iZGlAJZYh"
+  },
+  "src": [
+   "https://soundcloud.com/humanforce",
+   "https://open.spotify.com/artist/2Esmvh0vyS639iZGlAJZYh",
+   "https://open.spotify.com/track/46OoLEm52m4xDEpixneLiE"
+  ],
+  "infoChk": "2026-11-11"
+ },
+ "Likeflow": {
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "Nightcrawler": {
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "Raw Kickzz": {
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "Reflexx": {
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "RefleXx ist ein deutsches DJ- und Produzenten-Projekt aus dem Uptempo-Hardcore, das Anfang 2020 startete. Bekannt wurde es u. a. durch Hardstyle- und Hardcore-Remixes populärer Songs (z. B. „Pepas“, „Danza Kuduro“) und Videos in sozialen Medien; auf Spotify erschien u. a. „The Age Of Hardcore“.",
+   "en": "RefleXx is a German uptempo hardcore DJ/producer project that started in early 2020. It became known for hardstyle and hardcore remixes of popular songs (e.g. \"Pepas\", \"Danza Kuduro\") and social media videos; Spotify releases include \"The Age Of Hardcore\"."
+  },
+  "genres": [
+   "Uptempo Hardcore",
+   "Hardcore",
+   "Hardstyle"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/officialreflexx",
+   "sp": "https://open.spotify.com/artist/3jQC1xm2BCJY3T5mG66pZ0"
+  },
+  "src": [
+   "https://partyflock.nl/artist/145942:RefleXx",
+   "https://www.viberate.com/artist/reflexx/",
+   "https://soundcloud.com/officialreflexx/farruko-pepas-reflexx-hardstyle-remix-short-edit",
+   "https://open.spotify.com/intl-de/album/6XEZmVG3MKDM3i1dOxeahb"
+  ],
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11"
+ },
+ "Cryoonix": {
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "STXRLI": {
+  "infoChk": "2026-11-11",
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11"
+ },
+ "Tapanov": {
+  "links": {
+   "sc": "https://soundcloud.com/djtapanov"
+  },
+  "src": [
+   "https://soundcloud.com/djtapanov"
+  ],
+  "noImg": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "Active8": {
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "Askeladd": {
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "Katana": {
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "Twisted Aura": {
+  "links": {
+   "sc": "https://soundcloud.com/twistedaura",
+   "sp": "https://open.spotify.com/artist/7wygrgvNvLOjGlz6Y7eDqU"
+  },
+  "src": [
+   "https://soundcloud.com/twistedaura",
+   "https://open.spotify.com/artist/7wygrgvNvLOjGlz6Y7eDqU"
+  ],
+  "noImg": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "Kork": {
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "Gurkal²³": {
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "Tekno Nixe": {
+  "links": {
+   "sc": "https://soundcloud.com/tekno-nixe"
+  },
+  "src": [
+   "https://soundcloud.com/tekno-nixe"
+  ],
+  "noImg": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "Lee U Mash": {
+  "noImg": "2026-11-11",
+  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-11"
+ },
+ "Opthix": {
+  "img": "https://i.scdn.co/image/ab6761610000e5eb45d8a2a1acdc61d7556688bb",
+  "links": {
+   "sc": "https://soundcloud.com/opthix",
+   "sp": "https://open.spotify.com/artist/2SicmUBLLAVXHZE92I7vSy"
+  },
+  "src": [
+   "https://soundcloud.com/opthix",
+   "https://open.spotify.com/artist/2SicmUBLLAVXHZE92I7vSy"
+  ],
+  "infoChk": "2026-11-11"
+ },
+ "Petronik": {
+  "links": {
+   "sc": "https://soundcloud.com/p-e-t-r-o-n-i-k"
+  },
+  "src": [
+   "https://soundcloud.com/p-e-t-r-o-n-i-k/petronik-love-the-flow-dj-set"
+  ],
+  "noImg": "2026-11-11",
+  "infoChk": "2026-11-11"
  }
 };
 
