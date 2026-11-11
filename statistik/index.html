@@ -33,6 +33,7 @@ h1 small{font-family:var(--f-mono);font-size:12px;color:var(--accent);font-weigh
 .mt td{padding:4px 4px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
 .mt td:first-child{text-align:left;font-family:var(--f-body);font-size:13px}
 .mt td:first-child i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:7px;vertical-align:-1px}
+.mt tr.xx td{color:var(--mute)}.mt td:first-child i.no{background:none;border:1.5px solid var(--mute);border-radius:50%}
 .mt td:first-child i.dash{height:0;width:14px;border-top:2px dashed var(--srch);border-radius:0;vertical-align:3px}
 .mt td.pc{color:var(--fg);font-weight:700;width:52px}
 .mt td.ct{color:var(--mute)}
@@ -102,7 +103,9 @@ function render(){CH.splice(0).forEach(c=>c.destroy());
   return `<div class="card"><div class="ch"><h3>${c.t}</h3><span class="n">${fmt(n)}</span></div>
    <div class="nw"><em>+${fmt(L.newDay)}</em> neu heute · <em>+${fmt(L.newSince)}</em> neu seit ${FD}</div>
    <table class="mt">${c.m.map((m,i)=>`<tr><td><i style="background:${COLS[i]}"></i>${m[0]}</td><td class="ct">${fmt(L[m[1]])} von ${fmt(n)}</td><td class="pc">${pcs(L[m[1]],n)} %</td></tr>`).join("")}
-   <tr class="sr"><td><i class="dash"></i>${c.sl}</td><td class="ct">${fmt(L.srch)} von ${fmt(n)}</td><td class="pc">${pcs(L.srch,n)} %</td></tr></table>
+   <tr class="sr"><td><i class="dash"></i>${c.sl}</td><td class="ct">${fmt(L.srch)} von ${fmt(n)}</td><td class="pc">${pcs(L.srch,n)} %</td></tr>
+   ${L.empty!=null?`<tr class="xx"><td><i class="no"></i>nur Name, keine Infos</td><td class="ct">${fmt(L.empty)} von ${fmt(n)}</td><td class="pc">${pcs(L.empty,n)} %</td></tr>`:""}
+   ${(last.r.all[c.k]||{}).hid!=null?`<tr class="xx"><td><i class="no"></i>in der Übersicht ausgeblendet</td><td class="ct">${fmt(last.r.all[c.k].hid)} von ${fmt(last.r.all[c.k].n)}</td><td class="pc">${pcs(last.r.all[c.k].hid,last.r.all[c.k].n)} %</td></tr>`:""}</table>
    ${M==="line"?`<div class="cv"><canvas id="c${ci}"></canvas></div><div class="cvl">Anzahl im Verlauf</div><div class="cv small"><canvas id="c${ci}n"></canvas></div>`:
    `<div class="pies"><div class="pie"><div class="pw"><canvas id="c${ci}ps"></canvas><b>${pcs(L.srch,n)} %</b></div><span>${c.sl}</span>${fmt(L.srch)} / ${fmt(n)}</div>${c.m.map((m,i)=>`<div class="pie"><div class="pw"><canvas id="c${ci}p${i}"></canvas><b>${pcs(L[m[1]],n)} %</b></div><span>${m[0]}</span>${fmt(L[m[1]])} / ${fmt(n)}</div>`).join("")}</div>`}</div>`}).join("");
  CAT.forEach((c,ci)=>{

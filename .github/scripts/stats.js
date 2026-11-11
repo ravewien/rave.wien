@@ -61,6 +61,15 @@ for (const [sha, iso] of commits) {
   Object.keys(CI).forEach(x => mark(first.col, fold(x), day));
   Object.keys(VIf).forEach(v => mark(first.ven, v, day));
 
+  // Übersicht: ausgeblendete Einträge (wie auf der Website) und Einträge ganz ohne Infos
+  const monthsAgo = k => { const t = new Date(day + "T12:00:00Z"); t.setUTCMonth(t.getUTCMonth() - k); return t.toISOString().slice(0, 10); };
+  const M6 = monthsAgo(6), M13 = monthsAgo(13);
+  const hist = (keyOf) => { const m = new Map(); E.forEach(e => keyOf(e).forEach(k => { const o = m.get(k) || { up: 0, past: [] }; if (e.d >= day) o.up++; else o.past.push(e.d); m.set(k, o); })); return m; };
+  const HA = hist(e => [...new Set(e.arts.map(fa))]), HC = hist(e => [...new Set(e.cols.map(fc))]), HV = hist(e => skipV(e.venue) ? [] : [vkey(e.venue)]);
+  const oldHide = (o, img) => { if (!o || o.up || img || !o.past.length) return false; const last = o.past.reduce((x, d) => d > x ? d : x, ""); return last < (o.past.length === 1 ? M6 : M13); };
+  const venHide = o => !o || (!o.up && !(o.past.length && o.past.reduce((x, d) => d > x ? d : x, "") >= M13));
+  const emptyA = a => !has(a.img) && !has(a.links) && !(a.bio && (a.bio.de || a.bio.en)) && !has(a.from) && !has(a.sets) && !has(a.genres);
+  const emptyC = x => !has(x.logo) && !has(x.de) && !has(x.en) && !has(x.web) && !has(x.ig) && !has(x.links) && !has(x.type) && !has(x.founded) && !has(x.from);
   const inR = { all: () => true, up: d => d >= day, d7: d => d >= day && d < addDays(day, 7), d14: d => d >= day && d < addDays(day, 14), d28: d => d >= day && d < addDays(day, 28) };
   const nw = (m, keys) => ({ newDay: keys.filter(k => m.get(k) === day && day !== firstDay).length, newSince: keys.filter(k => m.get(k) > firstDay).length });
   const R = {};
@@ -75,12 +84,17 @@ for (const [sha, iso] of commits) {
       ev: Object.assign({ n: es.length, note: es.filter(e => e.note).length, price: es.filter(e => e.price).length, lineup: es.filter(e => e.lineup).length,
         genres: es.filter(e => e.genres).length, flyer: es.filter(e => e.flyer).length, srch: es.filter(e => e.srch).length }, nw(first.ev, ek)),
       art: Object.assign({ n: ak.length, links: A.filter(a => has(a.links)).length, img: A.filter(a => has(a.img)).length,
-        bio: A.filter(a => a.bio && (a.bio.de || a.bio.en)).length, sets: A.filter(a => has(a.sets)).length,
+        bio: A.filter(a => a.bio && (a.bio.de || a.bio.en)).length, sets: A.filter(a => has(a.sets)).length, empty: A.filter(emptyA).length,
+        ...(r === "all" ? { hid: ak.filter(k => oldHide(HA.get(k), has((ARf[k] || {}).img))).length } : {}),
         srch: A.filter(a => has(a.img) || has(a.noImg) || has(a.infoChk) || has(a.noLinks)).length }, nw(first.art, ak)),
       col: Object.assign({ n: ck.length, txt: Cc.filter(x => has(x.de) || has(x.en)).length, web: Cc.filter(x => has(x.web) || has(x.ig)).length,
-        logo: Cc.filter(x => has(x.logo)).length, srch: Cc.filter(x => has(x.infoChk) || has(x.noLogo) || has(x.logo)).length }, nw(first.col, ck)),
+        logo: Cc.filter(x => has(x.logo)).length, empty: Cc.filter(emptyC).length,
+        ...(r === "all" ? { hid: ck.filter(k => oldHide(HC.get(k), has((CIf[k] || {}).logo))).length } : {}),
+        srch: Cc.filter(x => has(x.infoChk) || has(x.noLogo) || has(x.logo)).length }, nw(first.col, ck)),
       ven: Object.assign({ n: vk.length, txt: Vv.filter(x => has(x.de) || has(x.en)).length, io: Vv.filter(x => has(x.io)).length,
-        logo: Vv.filter(x => has(x.logo)).length, srch: Vv.filter(x => has(x.infoChk) || has(x.noLogo) || has(x.logo)).length }, nw(first.ven, vk))
+        logo: Vv.filter(x => has(x.logo)).length,
+        ...(r === "all" ? { hid: vk.filter(k => venHide(HV.get(k))).length } : {}),
+        srch: Vv.filter(x => has(x.infoChk) || has(x.noLogo) || has(x.logo)).length }, nw(first.ven, vk))
     };
   }
   snaps.push({ t: iso, d: day, r: R });
