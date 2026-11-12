@@ -117,4 +117,110 @@ DESCRIPTION:Eintritt: 8–12 €\n\nSonderausgabe der „Transmission“-
  ransmission
 URL:https://rave.wien/e/2026-12-07-monday-transmission
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-december-transmission@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T230000
+DTEND;TZID=Europe/Vienna:20261219T040000
+SUMMARY:December-Transmission
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Eintritt: 8–12 €\n\nMonatliche „Transmission“-Nacht i
+ m O – der Klub unter dem Motto „Three floors\, one night“: Core mi
+ t Hits & Classics\, Orbit mit Melodic House & Techno und das Konsulat mi
+ t Hip-Hop & Urban. DJs sind noch nicht genannt. Beginn 23:00\, Tickets 8
+ –12 €\, Dresscode casual chic.\n\nhttps://rave.wien/e/2026-12-18-dec
+ ember-transmission
+URL:https://rave.wien/e/2026-12-18-december-transmission
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-new-year-s-eve@rave.wien
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Vienna:20261231T230000
+DTEND;TZID=Europe/Vienna:20270101T040000
+SUMMARY:New Year's Eve
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Eintritt: 20–40 €\n\nSilvester im O – der Klub unter de
+ r Staatsoper\, drei Floors mit eigenem Sound: Core mit Hits & Classics\,
+  Orbit mit Melodic House & Techno\, Konsulat mit Hip-Hop & Urban. DJs no
+ ch nicht genannt. Beginn 23:00\, Tickets 20–40 € (Early Bird erhält
+ lich)\, Dresscode casual chic.\n\nhttps://rave.wien/e/2026-12-31-new-yea
+ r-s-eve
+URL:https://rave.wien/e/2026-12-31-new-year-s-eve
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-01-2027-transmission@rave.wien
+DTSTAMP:20270101T000000Z
+DTSTART;TZID=Europe/Vienna:20270101T230000
+DTEND;TZID=Europe/Vienna:20270102T040000
+SUMMARY:2027-Transmission
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Eintritt frei\n\nErste „Transmission“ des Jahres im O –
+  der Klub: Core mit Hits & Classics\, Orbit mit Melodic House & Techno\,
+  Konsulat mit Hip-Hop & Urban. DJs noch nicht genannt. Beginn 23:00\, Ei
+ ntritt die ganze Nacht frei\, Dresscode casual chic.\n\nhttps://rave.wie
+ n/e/2027-01-01-2027-transmission
+URL:https://rave.wien/e/2027-01-01-2027-transmission
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-klangkarussell@rave.wien
+DTSTAMP:20270115T000000Z
+DTSTART;TZID=Europe/Vienna:20270115T230000
+DTEND;TZID=Europe/Vienna:20270116T040000
+SUMMARY:Klangkarussell
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Klangkarussell\nVeranstalter: SIGNAL\n\nSIGNAL präsentiert d
+ as österreichische Duo Klangkarussell („Sonnentanz“\, über 2 Milli
+ arden Streams) mit einem DJ-Set zwischen organischen Klangflächen\, zei
+ tlosen Melodien und euphorischer Clubenergie. Beginn 23:00\, Dresscode c
+ asual. Preis noch nicht genannt.\n\nhttps://rave.wien/e/2027-01-15-klang
+ karussell
+URL:https://rave.wien/e/2027-01-15-klangkarussell
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-ueberrest@rave.wien
+DTSTAMP:20270122T000000Z
+DTSTART;TZID=Europe/Vienna:20270122T230000
+DTEND;TZID=Europe/Vienna:20270123T040000
+SUMMARY:Ueberrest
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Ueberrest\nVeranstalter: SIGNAL\nEintritt: ab 12 €\n\nSIGNA
+ L präsentiert den Schweizer Hard-Techno-Künstler Ueberrest\, dessen So
+ und euphorische Momente mit düsterer Industrial-Härte verbindet – be
+ kannt für „Disturbing Paradise“ und Releases auf Kobosils 44 LABEL 
+ GROUP\, Auftritte u. a. bei HIVE\, Unreal\, Verknipt und Teletech. Begin
+ n 23:00\, Tickets ab 12 €\, Dresscode casual.\n\nhttps://rave.wien/e/2
+ 027-01-22-ueberrest
+URL:https://rave.wien/e/2027-01-22-ueberrest
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-charlie-sparks@rave.wien
+DTSTAMP:20270129T000000Z
+DTSTART;TZID=Europe/Vienna:20270129T230000
+DTEND;TZID=Europe/Vienna:20270130T060000
+SUMMARY:Charlie Sparks
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Charlie Sparks\nVeranstalter: SIGNAL\nEintritt: 15–25 €\n
+ \nSIGNAL holt die britische Hard-Techno-Künstlerin Charlie Sparks rund 
+ eineinhalb Jahre nach ihrem letzten Auftritt zurück – ein Sound aus A
+ cid\, Industrial\, Rave und Psytrance-Einflüssen mit treibenden Rhythme
+ n und harten Drops. 23:00–06:00\, Tickets 15–25 €.\n\nhttps://rave
+ .wien/e/2027-01-29-charlie-sparks
+URL:https://rave.wien/e/2027-01-29-charlie-sparks
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-schrotthagen@rave.wien
+DTSTAMP:20270212T000000Z
+DTSTART;TZID=Europe/Vienna:20270212T230000
+DTEND;TZID=Europe/Vienna:20270213T040000
+SUMMARY:Schrotthagen
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Schrotthagen\nVeranstalter: SIGNAL\nEintritt: ab 15 €\n\nSI
+ GNAL präsentiert das deutsche Duo Schrotthagen (Giovanni Berg und Diete
+ r Schleip\, gegründet 2023)\, das Hard Techno und Trance mit cineastisc
+ hen Klangwelten verbindet – bekannt für das Album „Nostalgie & Trau
+ rigkeit“. Ihre erste Club-Show in Wien. Beginn 23:00\, Tickets ab 15 
+ €\, Dresscode casual // rave.\n\nhttps://rave.wien/e/2027-02-12-schrot
+ thagen
+URL:https://rave.wien/e/2027-02-12-schrotthagen
+END:VEVENT
 END:VCALENDAR

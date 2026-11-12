@@ -87,4 +87,66 @@ DESCRIPTION:Eric Prydz\, Korolova\, Kasia\nVeranstalter: SIGNAL\, Captive
  .wien/e/2026-12-11-signal-festival-w-eric-prydz
 URL:https://rave.wien/e/2026-12-11-signal-festival-w-eric-prydz
 END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-klangkarussell@rave.wien
+DTSTAMP:20270115T000000Z
+DTSTART;TZID=Europe/Vienna:20270115T230000
+DTEND;TZID=Europe/Vienna:20270116T040000
+SUMMARY:Klangkarussell
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Klangkarussell\nVeranstalter: SIGNAL\n\nSIGNAL präsentiert d
+ as österreichische Duo Klangkarussell („Sonnentanz“\, über 2 Milli
+ arden Streams) mit einem DJ-Set zwischen organischen Klangflächen\, zei
+ tlosen Melodien und euphorischer Clubenergie. Beginn 23:00\, Dresscode c
+ asual. Preis noch nicht genannt.\n\nhttps://rave.wien/e/2027-01-15-klang
+ karussell
+URL:https://rave.wien/e/2027-01-15-klangkarussell
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-ueberrest@rave.wien
+DTSTAMP:20270122T000000Z
+DTSTART;TZID=Europe/Vienna:20270122T230000
+DTEND;TZID=Europe/Vienna:20270123T040000
+SUMMARY:Ueberrest
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Ueberrest\nVeranstalter: SIGNAL\nEintritt: ab 12 €\n\nSIGNA
+ L präsentiert den Schweizer Hard-Techno-Künstler Ueberrest\, dessen So
+ und euphorische Momente mit düsterer Industrial-Härte verbindet – be
+ kannt für „Disturbing Paradise“ und Releases auf Kobosils 44 LABEL 
+ GROUP\, Auftritte u. a. bei HIVE\, Unreal\, Verknipt und Teletech. Begin
+ n 23:00\, Tickets ab 12 €\, Dresscode casual.\n\nhttps://rave.wien/e/2
+ 027-01-22-ueberrest
+URL:https://rave.wien/e/2027-01-22-ueberrest
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-charlie-sparks@rave.wien
+DTSTAMP:20270129T000000Z
+DTSTART;TZID=Europe/Vienna:20270129T230000
+DTEND;TZID=Europe/Vienna:20270130T060000
+SUMMARY:Charlie Sparks
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Charlie Sparks\nVeranstalter: SIGNAL\nEintritt: 15–25 €\n
+ \nSIGNAL holt die britische Hard-Techno-Künstlerin Charlie Sparks rund 
+ eineinhalb Jahre nach ihrem letzten Auftritt zurück – ein Sound aus A
+ cid\, Industrial\, Rave und Psytrance-Einflüssen mit treibenden Rhythme
+ n und harten Drops. 23:00–06:00\, Tickets 15–25 €.\n\nhttps://rave
+ .wien/e/2027-01-29-charlie-sparks
+URL:https://rave.wien/e/2027-01-29-charlie-sparks
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-schrotthagen@rave.wien
+DTSTAMP:20270212T000000Z
+DTSTART;TZID=Europe/Vienna:20270212T230000
+DTEND;TZID=Europe/Vienna:20270213T040000
+SUMMARY:Schrotthagen
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Schrotthagen\nVeranstalter: SIGNAL\nEintritt: ab 15 €\n\nSI
+ GNAL präsentiert das deutsche Duo Schrotthagen (Giovanni Berg und Diete
+ r Schleip\, gegründet 2023)\, das Hard Techno und Trance mit cineastisc
+ hen Klangwelten verbindet – bekannt für das Album „Nostalgie & Trau
+ rigkeit“. Ihre erste Club-Show in Wien. Beginn 23:00\, Tickets ab 15 
+ €\, Dresscode casual // rave.\n\nhttps://rave.wien/e/2027-02-12-schrot
+ thagen
+URL:https://rave.wien/e/2027-02-12-schrotthagen
+END:VEVENT
 END:VCALENDAR
