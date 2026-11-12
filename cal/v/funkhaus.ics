@@ -169,15 +169,15 @@ BEGIN:VEVENT
 UID:2026-12-18-lovedancin-vienna@rave.wien
 DTSTAMP:20261218T000000Z
 DTSTART;TZID=Europe/Vienna:20261218T220000
-DTEND;TZID=Europe/Vienna:20261219T030000
+DTEND;TZID=Europe/Vienna:20261219T060000
 SUMMARY:LOVEDANCIN' Vienna
 LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
 DESCRIPTION:Gerd Janson\, Tom Kutsche\, Mareia\nVeranstalter: LOVEDANCIN'
  \n\nWiener Ausgabe der Partyreihe LOVEDANCIN' im Funkhaus. Headliner ist
   Gerd Janson\, Running-Back-Labelchef und Resident im Robert Johnson in 
- Offenbach\; dazu spielen Tom Kutsche und Mareia. Endzeit\, Preise und Mi
- ndestalter waren in den gelesenen Quellen noch nicht angegeben.\n\nhttps
- ://rave.wien/e/2026-12-18-lovedancin-vienna
+ Offenbach\; dazu spielen Tom Kutsche und Mareia. Läuft bis 06:00\; Prei
+ se und Mindestalter sind noch nicht angegeben.\n\nhttps://rave.wien/e/20
+ 26-12-18-lovedancin-vienna
 URL:https://rave.wien/e/2026-12-18-lovedancin-vienna
 END:VEVENT
 BEGIN:VEVENT
