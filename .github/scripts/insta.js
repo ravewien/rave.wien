@@ -37,7 +37,7 @@ const CSS=`
 @font-face{font-family:JB;src:url(${f64('jetbrains-mono-latin-700-normal.woff2')});font-weight:700}
 @font-face{font-family:DSEG7;src:url(${DSEG})}
 *{box-sizing:border-box;margin:0;padding:0}
-.few .list{justify-content:flex-start;padding-top:10px}.few .ev{padding:34px 0}.few .ti{font-size:48px}.few .t{font-size:60px}.few .t small{font-size:32px}.few .ven{font-size:32px}.few .col{font-size:31px}.few .pr{font-size:32px}.few .ev{grid-template-columns:230px minmax(0,1fr)}
+.few .list{justify-content:space-evenly;padding:10px 0 30px}.few .ev{padding:34px 0}.few .ti{font-size:48px}.few .t{font-size:60px}.few .t small{font-size:32px}.few .ven{font-size:32px}.few .col{font-size:31px}.few .pr{font-size:32px}.few .ev{grid-template-columns:230px minmax(0,1fr)}
 body{width:1080px;height:1350px;background:#08090b;color:#e9ecf1;font-family:BC,sans-serif;overflow:hidden;position:relative}
 .bg{position:absolute;inset:0;background:radial-gradient(900px 520px at 85% -8%,rgba(31,139,255,.22),transparent 70%),radial-gradient(700px 500px at -10% 105%,rgba(47,209,69,.10),transparent 70%)}
 .grid{position:absolute;inset:0;background-image:radial-gradient(rgba(233,236,241,.07) 1.2px,transparent 1.3px);background-size:18px 18px}
