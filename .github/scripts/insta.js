@@ -62,11 +62,11 @@ body{width:1080px;height:1350px;background:#08090b;color:#e9ecf1;font-family:BC,
 .t.tAft{color:rgb(170,110,255);text-shadow:none}.t.tAft small{color:#8a8f99}
 .t.tDay{color:rgb(255,196,60);text-shadow:none}.t.tDay small{color:#8a8f99}
 .ti{font-family:Doto;font-weight:900;font-size:36px;line-height:1.08;color:#fff;-webkit-text-stroke:1px #fff;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;word-break:break-word}
-.meta{margin-top:10px;display:flex;justify-content:space-between;align-items:flex-start;gap:18px}
+.meta{margin-top:10px;display:flex;justify-content:space-between;align-items:flex-end;gap:18px}
 .where{flex:1 1 auto;display:flex;flex-wrap:wrap;align-items:center;gap:4px 22px;min-width:0}
 .ven{display:inline-flex;align-items:center;gap:6px;color:#2fd145;font-weight:700;font-size:27px;letter-spacing:.06em;text-transform:uppercase;white-space:nowrap}
 .ven svg{width:22px;height:22px;flex:none}
-.pr{font-family:JB;font-weight:700;font-size:28px;color:#e9ecf1;white-space:nowrap;padding-top:1px;flex:none}
+.pr{font-family:JB;font-weight:700;font-size:28px;color:#e9ecf1;white-space:nowrap;padding-bottom:1px;flex:none}
 .col{display:inline-flex;align-items:center;gap:7px;color:#ff8c1a;font-weight:600;font-size:26px;letter-spacing:.03em;white-space:nowrap}
 .col svg{width:24px;height:24px;flex:none}
 .pr.free{color:#5fe0c0}.pr.ak{color:#ffd24a}.pr.tbd{color:#8f96a3}
