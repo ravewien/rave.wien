@@ -47,14 +47,14 @@ body{width:1080px;height:1350px;background:#08090b;color:#e9ecf1;font-family:BC,
 .dot{display:inline-block;width:.16em;height:.16em;background:#1f8bff;margin:0 .12em 0 .02em}
 .top{display:flex;justify-content:space-between;align-items:center}
 .foot .pg{font-family:JB;font-weight:700;font-size:30px;color:#cfd4dc;letter-spacing:.08em}
-.head{margin-top:40px;padding-bottom:22px;border-bottom:2px solid #2a2e36}
+.head{margin-top:6px;padding-bottom:22px;border-bottom:2px solid #2a2e36}
 .date .dd{display:block;flex:none;width:9px;height:9px;background:#1f8bff;margin:60px 10px 0 3.25px;box-shadow:0 0 14px rgba(31,139,255,.5)}
 .date .dd:last-child{margin-right:0}
 .hrow{display:flex;justify-content:space-between;align-items:flex-start;gap:24px}
 .day{font-family:Doto;font-weight:900;font-size:86px;line-height:.95;letter-spacing:-.01em;color:#fff;-webkit-text-stroke:2px #fff;text-transform:uppercase;white-space:nowrap}
 .date{display:flex;align-items:flex-start;font-family:Doto;font-weight:900;font-size:86px;line-height:.95;letter-spacing:-.01em;color:#1f8bff;-webkit-text-stroke:2px #1f8bff;white-space:nowrap;text-shadow:0 0 22px rgba(31,139,255,.45)}
 .sub{margin-top:14px;font-family:JB;font-weight:700;font-size:22px;letter-spacing:.14em;color:#8f96a3;text-transform:uppercase}
-.list{flex:1;min-height:0;overflow:hidden;display:flex;flex-direction:column;justify-content:flex-start;margin-top:12px}
+.list{flex:1;min-height:0;overflow:hidden;display:flex;flex-direction:column;justify-content:space-evenly;margin-top:12px}
 .ev{display:grid;grid-template-columns:200px minmax(0,1fr);column-gap:26px;padding:17px 0;border-bottom:1px solid #1d2026}
 .ev:last-child{border-bottom:0}
 .t{font-family:DSEG7;color:#1f8bff;font-size:46px;text-align:right;line-height:1;text-shadow:0 0 14px rgba(31,139,255,.4)}
@@ -78,7 +78,6 @@ const tk=t=>{if(!t)return '';const h=+String(t).slice(0,2);return h>=4&&h<12?'af
 const GRP='<svg viewBox="0 0 24 24"><path fill="#ff8c1a" d="M9 11a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm7.5 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM9 13c-3.3 0-7 1.6-7 4.3V20h14v-2.7C16 14.6 12.3 13 9 13zm7.5 0c-.5 0-1 0-1.6.1 1.3.9 2.1 2.2 2.1 4.2V20h6v-2.4c0-2.6-3.6-4.6-6.5-4.6z"/></svg>';
 const PIN='<svg viewBox="0 0 24 24"><path fill="#2fd145" d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg>';
 const slide=(EVS,pg,i,n,label,dd,mm)=>`<!doctype html><meta charset="utf-8"><style>${CSS}</style><body class="${EVS.length<=3?'few':''}"><div class="bg"></div><div class="grid"></div><div class="wrap">
- <div class="top"><div class="brand"><span class="astro"></span><span>rave<i class="dot"></i>wien</span></div></div>
  <div class="head"><div class="hrow"><div class="day">${esc(label)}</div><div class="date"><span>${dd}</span><i class="dd"></i><span>${mm}</span><i class="dd"></i></div></div><div class="sub">${EVS.length} Event${EVS.length===1?'':'s'} in Wien</div></div>
  <div class="list">${pg.map(e=>{const pr=price(e.p);return `<div class="ev"><div class="t ${tk(e.s)}">${esc(e.s||'--:--')}${e.e?`<small>-${esc(e.e)}</small>`:''}</div>
   <div><div class="ti">${esc(e.t)}</div><div class="meta"><div class="where"><span class="ven">${PIN}${esc(e.v)}</span>${e.c.length?`<span class="col">${GRP}${esc(e.c.join(' · '))}</span>`:''}</div>${pr==='Eintritt frei'?`<span class="pr free">${esc(pr)}</span>`:''}</div></div></div>`}).join('')}</div>
