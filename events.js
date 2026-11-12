@@ -3752,7 +3752,7 @@ const CI={
    "YN Raves",
    "YN"
   ],
-  "ig": "https://www.instagram.com/yn.raves/",
+  "ig": "https://www.instagram.com/yn_collective/",
   "tix": "https://yn-collective.ticket.io/",
   "noLogo": "2026-11-03",
   "src": [
@@ -3760,7 +3760,8 @@ const CI={
    "https://ra.co/events/1676080",
    "https://de.ra.co/events/1556162"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "man": 1
  },
  "CIVIC": {
   "de": "CIVIC (Civic Collective) ist ein Wiener Kollektiv für Bounce und Hard Techno, das sich im August 2025 mit „Introducing CIVIC“ im Loop vorstellte. Seither veranstaltet es u. a. die Reihe „Body Control“ im FLUCC sowie DnB-Ausgaben im Club Lucia.",
