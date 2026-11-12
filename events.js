@@ -5839,7 +5839,8 @@ const VI={
   "web": "https://www.praterstrasse.wien/",
   "infoChk": "2026-11-02",
   "logo": "https://imgproxy.ra.co/_/quality:66/h:180/w:180/extend:1/rt:fill/enlarge:1/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL2NsdWJzL3Byc3RfcmFfbG9nb196ZWljaGVuZmxhLWNoZS0xLnBuZz9kYXRlVXBkYXRlZD0xNzc0NTM1MzAzNTkw",
-  "man": 1
+  "man": 1,
+  "ig": "https://www.instagram.com/prst.club/"
  },
  "Club Exil": {
   "web": "https://www.club-exil.at/",
