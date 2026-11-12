@@ -45440,26 +45440,28 @@ const AR={
   "img": "https://static.ra.co/images/profiles/square/ani.jpg?dateUpdated=1739544105000",
   "links": {
    "ra": "https://ra.co/dj/ani",
-   "sc": "https://www.soundcloud.com/a_n_i_dj"
+   "sc": "https://soundcloud.com/a_n_i_dj",
+   "ig": "https://www.instagram.com/a.n.i._official_/"
   },
   "from": {
-   "de": "Deutschland",
-   "en": "Germany"
+   "de": "Berlin",
+   "en": "Berlin"
   },
   "genres": [
    "Hard Techno",
    "Acid",
-   "Hard Trance"
+   "Gabber",
+   "Hard Trance",
+   "Hardstyle"
   ],
   "bio": {
-   "de": "Deutsche DJ mit schnellen, stark rhythmischen Sets zwischen Hard Techno, Acid, Gabber, Hard Trance und Hardstyle. Spielt vor allem in Berlin und ganz Deutschland.",
-   "en": "German DJ with fast, highly rhythmic sets spanning hard techno, acid, gabber, hard trance and hardstyle. Plays mostly in Berlin and across Germany."
+   "de": "A.N.I. ist eine in Berlin geborene Techno-DJ und Produzentin mit schnellen, stark rhythmischen Sets zwischen Hard Techno, Acid, Gabber, Hard Trance und Hardstyle. Nach klassischer Klavierausbildung kam sie während ihres Tontechnik-Studiums zum Mixen.",
+   "en": "A.N.I. is a Berlin-born techno DJ and producer known for fast, highly rhythmic sets spanning hard techno, acid, gabber, hard trance and hardstyle. After classical piano training she began mixing while studying audio engineering."
   },
   "src": [
-   "https://ra.co/dj/ani",
-   "https://ra.co/events/2157973"
+   "https://ra.co/dj/ani"
   ],
-  "infoChk": "2026-11-11",
+  "infoChk": "2026-11-12",
   "noImg": "2026-11-11",
   "noLinks": "2026-11-11"
  },
@@ -48543,6 +48545,483 @@ const AR={
   ],
   "noImg": "2026-11-11",
   "infoChk": "2026-11-11"
+ },
+ "Corps A Core": {
+  "links": {
+   "sc": "https://soundcloud.com/corpsacore",
+   "sp": "https://open.spotify.com/artist/0VhIpOnK3Te0EiSLsmOGlI"
+  },
+  "genres": [
+   "Tekno"
+  ],
+  "src": [
+   "https://soundcloud.com/corpsacore/rsf-14-corps-a-core",
+   "https://open.spotify.com/intl-es/artist/0VhIpOnK3Te0EiSLsmOGlI"
+  ],
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12"
+ },
+ "Gotek": {
+  "links": {
+   "sc": "https://soundcloud.com/gotektnl"
+  },
+  "src": [
+   "https://soundcloud.com/gotektnl/gotek-tek-no-lineum"
+  ],
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12"
+ },
+ "David Green": {
+  "links": {
+   "sc": "https://soundcloud.com/davidgreeninfrabass"
+  },
+  "src": [
+   "https://soundcloud.com/davidgreeninfrabass"
+  ],
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12"
+ },
+ "Nexxor": {
+  "links": {
+   "sc": "https://soundcloud.com/nexxor_ff"
+  },
+  "src": [
+   "https://soundcloud.com/nexxor_ff/nexxor-tektool-02"
+  ],
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12"
+ },
+ "Maddike": {
+  "links": {
+   "sc": "https://soundcloud.com/maddike",
+   "sp": "https://open.spotify.com/artist/37VtG5ajluaof6To1QlilR"
+  },
+  "src": [
+   "https://soundcloud.com/maddike/mad004-that-speaker",
+   "https://open.spotify.com/artist/37VtG5ajluaof6To1QlilR"
+  ],
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12"
+ },
+ "CaHOLIC & Antivirus": {
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12",
+  "noLinks": "2026-11-12"
+ },
+ "Knisda Kanisda": {
+  "links": {
+   "sc": "https://soundcloud.com/knisda_kanisda",
+   "sp": "https://open.spotify.com/artist/2ywelwjfIkgn4Jp0hkBxDK"
+  },
+  "src": [
+   "https://soundcloud.com/knisda_kanisda/knisdakanisda-hit-the-tajine-atm00-a"
+  ],
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12"
+ },
+ "Denis the Menice": {
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12",
+  "noLinks": "2026-11-12"
+ },
+ "Noisys": {
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12",
+  "noLinks": "2026-11-12"
+ },
+ "Ostbam": {
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12",
+  "noLinks": "2026-11-12"
+ },
+ "Some of the Other Aliens": {
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12",
+  "noLinks": "2026-11-12"
+ },
+ "Makava": {
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12",
+  "noLinks": "2026-11-12"
+ },
+ "FTSK": {
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12",
+  "noLinks": "2026-11-12"
+ },
+ "ATM": {
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12",
+  "noLinks": "2026-11-12"
+ },
+ "Resolut": {
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12",
+  "noLinks": "2026-11-12"
+ },
+ "Symbiotik": {
+  "links": {
+   "sc": "https://soundcloud.com/user-562169131"
+  },
+  "src": [
+   "https://ra.co/events/1763769",
+   "https://soundcloud.com/user-562169131"
+  ],
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12"
+ },
+ "Madskillz": {
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12",
+  "noLinks": "2026-11-12"
+ },
+ "DJ Art-Hur": {
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12",
+  "noLinks": "2026-11-12"
+ },
+ "DJ SAMDMA": {
+  "img": "https://static.ra.co/images/profiles/square/samdma.jpg?dateUpdated=1761127855680",
+  "links": {
+   "ra": "https://ra.co/dj/samdma",
+   "sc": "https://soundcloud.com/sam_dma",
+   "ig": "https://www.instagram.com/sam.dma/"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "SAMDMA ist ein DJ aus Österreich, der regelmäßig in Wien spielt, etwa bei Art Attech im FLUCC und bei Techno am Wasser. Sein Motto: „because a drum machine is cheaper than therapy“.",
+   "en": "SAMDMA is an Austrian DJ who plays regularly in Vienna, including Art Attech at FLUCC and Techno am Wasser. His motto: \"because a drum machine is cheaper than therapy\"."
+  },
+  "labels": [
+   "Mainground Music",
+   "Set About"
+  ],
+  "alias": [
+   "SAMDMA"
+  ],
+  "src": [
+   "https://ra.co/dj/samdma"
+  ],
+  "infoChk": "2026-11-12"
+ },
+ "DJ Wal_halla": {
+  "img": "https://static.ra.co/images/profiles/square/wal_halla.jpg?dateUpdated=1788612597173",
+  "links": {
+   "ra": "https://ra.co/dj/wal_halla",
+   "sc": "https://soundcloud.com/wal_halla",
+   "ig": "https://www.instagram.com/wal_halla/"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Wal_Halla ist DJ und Veranstalterin aus Wien. Mit einem Hintergrund in klassischer Musik und Tanz verbindet sie Techno, Trance und Acid zu tanzbaren Sets mit pulsierenden Beats und verspielten Vocals.",
+   "en": "Wal_Halla is a Vienna-based DJ and event organiser. With a background in classical music and dance, she blends techno, trance and acid into danceable sets with pulsating beats and playful vocals."
+  },
+  "genres": [
+   "Techno",
+   "Trance",
+   "Acid"
+  ],
+  "alias": [
+   "Wal_Halla"
+  ],
+  "src": [
+   "https://ra.co/dj/wal_halla"
+  ],
+  "infoChk": "2026-11-12"
+ },
+ "DJ Born Voyage": {
+  "links": {
+   "sc": "https://soundcloud.com/bornvoyage"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "alias": [
+   "Born Voyage"
+  ],
+  "src": [
+   "https://ra.co/events/1920347",
+   "https://soundcloud.com/bornvoyage"
+  ],
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12"
+ },
+ "Franco": {
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12",
+  "noLinks": "2026-11-12"
+ },
+ "Doudou MD": {
+  "img": "https://static.ra.co/images/profiles/square/doudoumd.jpg?dateUpdated=1636541539000",
+  "links": {
+   "ra": "https://ra.co/dj/doudoumd",
+   "sc": "https://soundcloud.com/doudou-md"
+  },
+  "from": {
+   "de": "Amsterdam",
+   "en": "Amsterdam"
+  },
+  "bio": {
+   "de": "Doudou MD ist eine Amsterdamer DJ, die vor allem Vinyl spielt und sich auf House und Techno der 90er aus UK, USA und Deutschland mit starker Percussion konzentriert. Ihre ersten Clubjahre verbrachte sie in Utrecht und Amsterdam im Umfeld von Slapfunk und VBX, danach fünf Jahre in Berlin; heute lebt sie wieder in Amsterdam.",
+   "en": "Doudou MD is an Amsterdam-based, mostly vinyl DJ focused on 90s UK, US and German house and techno with strong percussion. She came up in Utrecht and Amsterdam around Slapfunk and VBX, then spent five years in Berlin before returning to Amsterdam."
+  },
+  "genres": [
+   "House",
+   "Techno"
+  ],
+  "src": [
+   "https://ra.co/dj/doudoumd"
+  ],
+  "infoChk": "2026-11-12"
+ },
+ "KILL.DB": {
+  "img": "https://static.ra.co/images/profiles/square/kill.db.jpg?dateUpdated=1757335776000",
+  "links": {
+   "ra": "https://ra.co/dj/kill.db",
+   "sc": "https://soundcloud.com/KILL.DB",
+   "ig": "https://www.instagram.com/killdb.music/"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "KILL.DB ist ein Vater-Sohn-Duo (Luca David & Dirk Bachmann), das House spielt. Das in Deutschland gegründete, in Österreich ansässige Duo tritt häufig in Wien auf, etwa im PRST und im SASS Music Club.",
+   "en": "KILL.DB is a father-and-son duo (Luca David & Dirk Bachmann) playing house music. Founded in Germany and based in Austria, they appear regularly in Vienna at venues such as PRST and SASS Music Club."
+  },
+  "labels": [
+   "Whoyostro"
+  ],
+  "genres": [
+   "House"
+  ],
+  "src": [
+   "https://ra.co/dj/kill.db"
+  ],
+  "infoChk": "2026-11-12"
+ },
+ "ARX": {
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12",
+  "noLinks": "2026-11-12"
+ },
+ "Dunik": {
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12",
+  "noLinks": "2026-11-12"
+ },
+ "Michkx": {
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12",
+  "noLinks": "2026-11-12"
+ },
+ "Audrey Danza": {
+  "img": "https://static.ra.co/images/profiles/square/audreydanza.jpg?dateUpdated=1792569085910",
+  "links": {
+   "ra": "https://ra.co/dj/audreydanza",
+   "sc": "https://soundcloud.com/audreydanza",
+   "ig": "https://www.instagram.com/audreydanza/"
+  },
+  "from": {
+   "de": "Schweiz",
+   "en": "Switzerland"
+  },
+  "bio": {
+   "de": "Audrey Danza ist DJ und Produzentin, in der Schweiz geboren und in Deutschland ansässig. Sie ist Mitgründerin des Labels Proxima und veröffentlichte außerdem auf Lustpoderosa, Dischi Autunno und PLOT.",
+   "en": "Audrey Danza is a DJ and producer, born in Switzerland and based in Germany. She co-founded the label Proxima and has also released on Lustpoderosa, Dischi Autunno and PLOT."
+  },
+  "labels": [
+   "Proxima",
+   "Lustpoderosa",
+   "Dischi Autunno",
+   "PLOT"
+  ],
+  "src": [
+   "https://ra.co/dj/audreydanza"
+  ],
+  "infoChk": "2026-11-12"
+ },
+ "Acidic Juice": {
+  "img": "https://static.ra.co/images/profiles/square/acidicjuice.jpg?dateUpdated=1792571423590",
+  "links": {
+   "ra": "https://ra.co/dj/acidicjuice",
+   "sc": "https://soundcloud.com/acidic-juice",
+   "ig": "https://www.instagram.com/acidicjuice2000/",
+   "bc": "https://acidicjuice2000.bandcamp.com",
+   "web": "https://linktr.ee/acidicjuice"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "bio": {
+   "de": "Acidic Juice ist ein Live-Electronic-Projekt aus Berlin mit basslastiger Rave-Energie, Breaks, Electro und jungle-lastigen Rhythmen. Zu den Einflüssen zählen UK-Clubmusik, Soundsystem-Kultur und Oldschool-Rave.",
+   "en": "Acidic Juice is a Berlin-based live electronic project built on bass-heavy rave energy, breaks, electro and jungle-leaning rhythms. Influences include UK club music, soundsystem culture and old-school rave."
+  },
+  "labels": [
+   "Ovelha Trax",
+   "FFS Collective"
+  ],
+  "src": [
+   "https://ra.co/dj/acidicjuice",
+   "https://ra.co/events/2575633"
+  ],
+  "infoChk": "2026-11-12"
+ },
+ "NOTYOURORDINARY": {
+  "links": {
+   "ig": "https://www.instagram.com/notyourordinary.official/"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "NOTYOURORDINARY ist ein Wiener Live-Act zwischen elektronischer Musik, Jazz und Rock mit Punk-Attitüde. Im Set kommen Synthesizer, akustische Instrumente, Live-Resampling und Remixing zum Einsatz.",
+   "en": "NOTYOURORDINARY is a Vienna-based live act working across electronic music, jazz and rock with a punk attitude. The set combines synthesizers, acoustic instruments, live resampling and remixing."
+  },
+  "src": [
+   "https://ra.co/events/2575633"
+  ],
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12",
+  "noLinks": "2026-11-12"
+ },
+ "Chakabalara": {
+  "links": {
+   "bc": "https://chakabalara.bandcamp.com"
+  },
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "bio": {
+   "de": "Chakabalara ist ein Live-Rave-Duo aus Berlin mit Noam Jose Edelcopp (Drums, Vocals) und Niv Levy (Synths, Vocals).",
+   "en": "Chakabalara is a live rave duo from Berlin featuring Noam Jose Edelcopp (drums, vocals) and Niv Levy (synths, vocals)."
+  },
+  "genres": [
+   "Drum & Bass",
+   "Electronic",
+   "Experimental",
+   "Noise"
+  ],
+  "src": [
+   "https://chakabalara.bandcamp.com/album/anti-tsunami",
+   "https://ra.co/events/2575633"
+  ],
+  "infoChk": "2026-11-12",
+  "noImg": "2026-11-12",
+  "noLinks": "2026-11-12"
+ },
+ "Klangkarussell": {
+  "img": "https://static.ra.co/images/profiles/square/klangkarussell.jpg?dateUpdated=1587549774000",
+  "links": {
+   "ra": "https://ra.co/dj/klangkarussell",
+   "sc": "https://soundcloud.com/klangkarussell",
+   "ig": "https://www.instagram.com/klangkarussellofficial/",
+   "bc": "https://klangkarussell.bandcamp.com",
+   "web": "https://klangkarussell.com"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Klangkarussell ist ein österreichisches Electronic-Duo, dessen Track „Sonnentanz“ zum weltweiten Charthit wurde. Heute veröffentlicht das Duo unabhängig auf seinem eigenen Label Bias Beach Records.",
+   "en": "Klangkarussell is an Austrian electronic duo whose track \"Sonnentanz\" became a global chart hit. The duo now releases independently on its own label, Bias Beach Records."
+  },
+  "labels": [
+   "Bias Beach Records",
+   "Anjunadeep",
+   "Kuukou Records"
+  ],
+  "alias": [
+   "Heldenklang"
+  ],
+  "src": [
+   "https://ra.co/dj/klangkarussell"
+  ],
+  "infoChk": "2026-11-12"
+ },
+ "Ueberrest": {
+  "img": "https://static.ra.co/images/profiles/square/ueberrest.jpg?dateUpdated=1756985771000",
+  "links": {
+   "ra": "https://ra.co/dj/ueberrest"
+  },
+  "from": {
+   "de": "Schweiz",
+   "en": "Switzerland"
+  },
+  "bio": {
+   "de": "Ueberrest ist ein Hard-Techno-Artist aus der Schweiz, dessen Sound zwischen euphorischen Momenten und düsterer, industrieller Intensität pendelt. Sein Track „Disturbing Paradise“ wurde zur Festival-Hymne; er veröffentlicht auf Kobosils 44 LABEL GROUP und spielte u. a. bei HIVE, Unreal, Verknipt und Teletech.",
+   "en": "Ueberrest is a Swiss hard techno artist whose sound moves between euphoric moments and dark, industrial intensity. His track \"Disturbing Paradise\" became a festival anthem; he releases on Kobosil's 44 LABEL GROUP and has played HIVE, Unreal, Verknipt and Teletech."
+  },
+  "labels": [
+   "44 LABEL GROUP"
+  ],
+  "src": [
+   "https://ra.co/dj/ueberrest"
+  ],
+  "infoChk": "2026-11-12"
+ },
+ "Charlie Sparks": {
+  "img": "https://static.ra.co/images/profiles/square/charliesparks.jpg?dateUpdated=1741962613283",
+  "links": {
+   "ra": "https://ra.co/dj/charliesparks",
+   "sc": "https://soundcloud.com/charlie-sparks-531540495",
+   "ig": "https://www.instagram.com/charliesparksmusic/",
+   "web": "https://elektrasparks.com"
+  },
+  "from": {
+   "de": "Vereinigtes Königreich",
+   "en": "United Kingdom"
+  },
+  "bio": {
+   "de": "Charlie Sparks ist ein britischer Hard-Techno-DJ und -Produzent, der für schnellen, energiegeladenen Techno steht. Sein Sound verbindet Acid, Industrial, Rave und Psytrance-inspirierte Grooves mit treibenden Rhythmen.",
+   "en": "Charlie Sparks is a British hard techno DJ and producer known for fast-paced, high-energy techno. His sound blends acid, industrial, rave and psytrance-inspired grooves with relentless rhythms."
+  },
+  "labels": [
+   "KR Records",
+   "Possession",
+   "Moments In Time",
+   "EXHALE Records",
+   "Hekate",
+   "ELEKTRA MUSIC"
+  ],
+  "src": [
+   "https://ra.co/dj/charliesparks"
+  ],
+  "infoChk": "2026-11-12"
+ },
+ "Schrotthagen": {
+  "img": "https://static.ra.co/images/profiles/square/schrotthagen.jpg?dateUpdated=1758538264620",
+  "links": {
+   "ra": "https://ra.co/dj/schrotthagen",
+   "sc": "https://soundcloud.com/schrotthagen-music",
+   "ig": "https://www.instagram.com/schrotthagen/"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "Schrotthagen ist ein 2023 gegründetes deutsches Duo aus Giovanni Berg und Dieter Schleip, das „Cinematic Techno“ macht. Klassik, Jazz, Punk und Filmmusik verbinden sich mit Hard Techno und Trance; das Album „Nostalgie & Traurigkeit“ führte zu einer Europatour mit über 31 Stationen.",
+   "en": "Schrotthagen is a German duo formed in 2023 by Giovanni Berg and Dieter Schleip, making \"cinematic techno\". Classical, jazz, punk and film scoring meet hard techno and trance; their album \"Nostalgie & Traurigkeit\" led to a European tour with more than 31 stops."
+  },
+  "genres": [
+   "Cinematic Techno"
+  ],
+  "src": [
+   "https://ra.co/dj/schrotthagen"
+  ],
+  "infoChk": "2026-11-12"
  }
 };
 
