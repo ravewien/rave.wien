@@ -1140,7 +1140,7 @@ st.x=Object.fromEntries(["g","v","c","a","f","src","age","price","time","io"].ma
 const ageK=e=>e.age||"unk";
 function priceK(e){if(!e.price)return "unk";if(/spende|gratis|free/i.test(e.price))return "free";const m=e.price.match(/\d+/);if(!m)return "unk";const n=+m[0];return n<=10?"p10":n<=20?"p20":"p99"}
 // Preis in Teile zerlegen; Klammer-Zusätze wie „(Regular/Supporter)“ kommen klein in die nächste Zeile
-function splitPrice(p){const out=[];String(p).split(/\s+[·|\/]\s+|,\s+/).forEach(x=>{const m=x.match(/^(.*?)\s*\(([^)]*)\)\s*(.*)$/);if(m&&m[1]){out.push((m[1]+(m[3]?" "+m[3]:"")).trim());out.push(m[2])}else out.push(x)});return out.map(x=>x.replace(/\//g,"/\u200b"))}
+function splitPrice(p){const out=[];String(p).split(/\s+[·|\/]\s+|,\s+/).forEach(x=>{const m=x.match(/^(.*?)\s*\(([^)]*)\)\s*(.*)$/);if(m&&m[1]){out.push((m[1]+(m[3]?" "+m[3]:"")).trim());out.push(m[2])}else out.push(x)});return out.map((x,i)=>{x=x.replace(/\//g,"/\u200b").replace(/(\d)\s+€/g,"$1\u00a0€");return i?x.replace(/(\d)\s*([–-])\s*(\d)/g,"$1$2\u2060$3"):x})}
 function timeK(e){if(!e.s)return "unk";const h=+e.s.slice(0,2);return h>=4&&h<12?"after":h>=12&&h<18?"day":"night"}
 const EXTRA=[["src",e=>e.srcCats,["loc","org","multi","one","mn"]],["age",ageK,["18+","21+","unk"]],["price",priceK,["free","p10","p20","p99","unk"]],["time",timeK,["night","day","after","unk"]],["io",e=>e.ioK.length?e.ioK:["unk"],["ioIn","ioOut","unk"]]];
 const xLabel=(k,v)=>k==="age"&&v!=="unk"?v:L()[v];
