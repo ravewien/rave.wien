@@ -67,7 +67,7 @@ body{width:1080px;height:1350px;background:#08090b;color:#e9ecf1;font-family:BC,
 .ven{display:inline-flex;align-items:center;gap:6px;color:#2fd145;font-weight:700;font-size:27px;letter-spacing:.06em;text-transform:uppercase;white-space:nowrap}
 .ven svg{width:22px;height:22px;flex:none}
 .pr{font-family:JB;font-weight:700;font-size:28px;color:#e9ecf1;white-space:nowrap;padding-bottom:1px;flex:none}
-.col{display:inline-flex;align-items:center;gap:7px;color:#ff8c1a;font-weight:600;font-size:26px;letter-spacing:.03em;white-space:nowrap}
+.col{display:inline-flex;align-items:center;gap:7px;color:#ff8c1a;font-weight:600;font-size:26px;letter-spacing:.03em;white-space:normal;min-width:0;max-width:100%}
 .col svg{width:24px;height:24px;flex:none}
 .pr.free{color:#5fe0c0}.pr.ak{color:#ffd24a}.pr.tbd{color:#8f96a3}
 .foot{display:flex;justify-content:space-between;align-items:center;padding-top:26px;border-top:2px solid #2a2e36;font-family:JB;font-weight:700;font-size:24px;letter-spacing:.06em;color:#8f96a3}
