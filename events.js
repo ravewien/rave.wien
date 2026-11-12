@@ -1186,7 +1186,8 @@ const CI={
   ],
   "man": 1,
   "logo": "https://www.backbeat.at/wp-content/uploads/2022/01/Download.png",
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "ig": "https://www.instagram.com/hausgemachtinwien/"
  },
  "Journey to Tarab": {
   "de": "Wiener Kollektiv, Partys „von Freund*innen für Freund*innen“, oft gemeinsam mit Im Freudentaumel im FLUCC.",
@@ -1363,7 +1364,8 @@ const CI={
   ],
   "from": "Wien",
   "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "noLogo": "2026-11-03",
+  "ig": "https://www.instagram.com/amore___ag/"
  },
  "Techno Obscene": {
   "founded": "2023",
@@ -1395,7 +1397,8 @@ const CI={
   "infoChk": "2026-11-03",
   "alias": [
    "RAM"
-  ]
+  ],
+  "ig": "https://www.instagram.com/fifi__rave/"
  },
  "Euphoria": {
   "founded": "2022",
@@ -1877,7 +1880,8 @@ const CI={
    "https://www.libelle.at/events/dark-circus-hosted-by-strict-3/",
    "https://sexpositives.com/en/events/strict-dark-circus-wien-2026-11-14/"
   ],
-  "noLogo": "2026-11-02"
+  "noLogo": "2026-11-02",
+  "ig": "https://www.instagram.com/strict_event/"
  },
  "SubRosaDictum": {
   "rules": {
@@ -2015,7 +2019,8 @@ const CI={
   "en": "Hard dance event at Event Arena Vösendorf with three areas: hardstyle on the main stage, rawstyle and uptempo in the Tunnel, gabber, early hardcore and hakken in the Machine Room – for Halloween 2026 as 'Purge Night'.",
   "src": [
    "https://www.volume.at/events/hardline-purge-night-2026-10-31/"
-  ]
+  ],
+  "ig": "https://www.instagram.com/hardline_events/"
  },
  "YE": {
   "noLogo": "2026-10-31",
@@ -2051,7 +2056,8 @@ const CI={
    "https://ra.co/events/2554895",
    "https://ra.co/events/2499818",
    "https://ra.co/dj/julani"
-  ]
+  ],
+  "ig": "https://www.instagram.com/housetiere_vienna/"
  },
  "Entrance": {
   "noLogo": "2026-10-31",
@@ -3004,7 +3010,8 @@ const CI={
  },
  "AMBIEVENT": {
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "ig": "https://www.instagram.com/ambievent_/"
  },
  "Das Syndikat": {
   "noLogo": "2026-11-02",
@@ -3111,7 +3118,8 @@ const CI={
   "from": "Kärnten",
   "src": [
    "https://www.theloft.at/glitch-vienna-pres-stef-davidse/"
-  ]
+  ],
+  "ig": "https://www.instagram.com/enter_glitch/"
  },
  "techNOage": {
   "de": "Monatliches Techno-Clubbing am Nachmittag ab 15 Uhr, das Inklusion und Begegnung zwischen Generationen fördert – für Senior:innen, Menschen mit Behinderung, Eltern sowie frühere und heutige Raver:innen. Veranstaltet von Vier::tel Vienna (vierviertelvienna) und SNDR_Xone, u. a. im FLUCC (Deck/Wanne); Eintritt auch nach dem Prinzip „pay what you can“.",
@@ -3275,7 +3283,8 @@ const CI={
   "src": [
    "https://de.ra.co/dj/magsi",
    "https://de.ra.co/dj/leondiamant"
-  ]
+  ],
+  "ig": "https://www.instagram.com/cardio.cult/"
  },
  "Spectral": {
   "de": "Techno-Reihe im Wiener Kramladen mit internationalen und österreichischen Gästen, u. a. Kollaborationen mit Crews wie Sonic Spinz (Innsbruck); musikalisch zwischen Acid, melodischem und treibendem Techno. Veranstaltungen 2026 meist bei freiem Eintritt.",
@@ -3418,7 +3427,8 @@ const CI={
  },
  "Liminal": {
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "ig": "https://www.instagram.com/liminal.vienna/"
  },
  "Ausländer Haus": {
   "de": "Wiener Partyreihe mit multikulturellem Fokus: Afro House, Latin und orientalische Beats, aufgelegt von DJs aus dem Globalen Süden (u. a. Chile, Ägypten, Uganda, Indien, Nigeria). Stationen u. a. Cafe Derwisch Partykeller, FLUCC und Celeste; mittlerweile über 20 Ausgaben.",
@@ -4032,7 +4042,8 @@ const CI={
    "https://de.ra.co/events/2365223",
    "https://edmdancedirectory.com/news/verknallt-with-nikolina-x-ben-techy-vienna-2026-tickets-and-lineup-vienna"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "ig": "https://www.instagram.com/verknallt.perplex/"
  },
  "Vienn_a_Tek": {
   "de": "Vienn_a_Tek ist eine Tekno-Partyreihe im Fluc und in der Fluc Wanne in Wien, mindestens seit 2022, mit Acid-Specials und Live-Acts aus der Tekno-Szene.",
@@ -4118,7 +4129,8 @@ const CI={
    "https://de.ra.co/events/2360669"
   ],
   "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "noLogo": "2026-11-03",
+  "ig": "https://www.instagram.com/stay_acid/"
  },
  "Psytrance Universe": {
   "de": "Wiener Psytrance-Reihe mit „100% Psytrance und Psychedelic Trance“ – von melodischem Progressive bis Psychedelic, Hitech und Forest –, oft auf zwei Floors und mit bunter Deko. Stationen u. a. Das Werk, FLUCC, Grelle Forelle, Club Exil und Pratersauna.",
@@ -4842,7 +4854,8 @@ const CI={
  },
  "Discordia": {
   "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "noLogo": "2026-11-04",
+  "ig": "https://www.instagram.com/meetdiscordia/"
  },
  "Rhythmic Playground": {
   "infoChk": "2026-11-04",
@@ -5214,7 +5227,8 @@ const CI={
    "https://www.ntry.at/keplerprst2024?l=de"
   ],
   "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "noLogo": "2026-11-04",
+  "ig": "https://www.instagram.com/dutanztmichmal.at/"
  },
  "Subwaves": {
   "de": "Wiener Veranstaltungsreihe für House und Garage, auch UK Garage, Hardgroove und Breaks. Sie veranstaltet Gratis-Open-Airs am Wiener Würstelstand Spittelau, Raves auf der Donauinsel und 2026 ein Event mit Der Radio im Club U.",
@@ -5347,7 +5361,8 @@ const CI={
   "infoChk": "2026-11-05",
   "src": [
    "https://ra.co/events/2575843"
-  ]
+  ],
+  "ig": "https://www.instagram.com/patches.vienna/"
  },
  "Kleingeld Kollektiv": {
   "de": "Wiener Kollektiv, das Klubnächte im Club Lucia veranstaltet.",
@@ -5392,7 +5407,8 @@ const CI={
  },
  "Restless": {
   "noLogo": "2026-11-07",
-  "infoChk": "2026-11-07"
+  "infoChk": "2026-11-07",
+  "ig": "https://www.instagram.com/restless_26/"
  },
  "Qualia": {
   "noLogo": "2026-11-08",
@@ -5503,15 +5519,18 @@ const CI={
  },
  "Kann&Will": {
   "noLogo": "2026-11-10",
-  "infoChk": "2026-11-10"
+  "infoChk": "2026-11-10",
+  "ig": "https://www.instagram.com/kann_und_will/"
  },
  "Acidic Juice": {
   "noLogo": "2026-11-10",
-  "infoChk": "2026-11-10"
+  "infoChk": "2026-11-10",
+  "ig": "https://www.instagram.com/acidicjuice2000/"
  },
  "NOTYOURORDINARY": {
   "noLogo": "2026-11-10",
-  "infoChk": "2026-11-10"
+  "infoChk": "2026-11-10",
+  "ig": "https://www.instagram.com/notyourordinary.official/"
  },
  "Endless Insanity": {
   "de": "Partyreihe im Maschinenraum des Club Exil in Vösendorf bei Wien – laut Ankündigung mit langen Sets und „ohne Kompromisse“. Teil III steigt am 21.11.2026, Teil IV am 10.04.2027.",
