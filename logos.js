@@ -32,7 +32,7 @@ const LOGOBOX={
 "https://www.celeste.co.at/img/logosmall.png":[50,51,0,0,50,50,"#000000"],
 "https://www.club-exil.at/logo.svg":[3150,337,39,28,3111,309,"#000000"],
 "https://www.clublucia.at/wp-content/uploads/2025/05/LUCIA-FINAL-white-1-1024x968.png":[1024,968,4,8,1020,961,"#000000"],
-"https://www.funkhaus.wien/funkhaus_website/static/src/img/logo_white.svg":[2529,248,0,0,2529,248,""],
+"https://www.funkhaus.wien/images/site/logo_white.svg":[2529,248,0,0,2529,248,"#000000"],
 "https://www.grelleforelle.com/wp-content/uploads/2016/08/cropped-favicon-270x270.png":[270,270,0,0,270,270,"#ffffff"],
 "https://www.himmelundwasser.at/wp-content/uploads/2024/04/LOGO-COLOR-NO-STARS-No-Background-300x300.png":[300,300,0,1,300,299,"#000000"],
 "https://www.libelle.at/wp-content/uploads/2024/03/cropped-Libelle_Logo-270x270.png":[270,270,0,75,270,211,"#f7fdfb"],
