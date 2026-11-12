@@ -6230,7 +6230,7 @@ const VI={
   ],
   "infoChk": "2026-11-02",
   "web": "https://www.funkhaus.wien",
-  "logo": "https://www.funkhaus.wien/funkhaus_website/static/src/img/logo_white.svg",
+  "logo": "https://www.funkhaus.wien/images/site/logo_white.svg",
   "man": 1
  },
  "Rhiz": {
