@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Christella · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-27-bassbussi-allstars-3-years-anniversary@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T230000
+DTEND;TZID=Europe/Vienna:20261128T040000
+SUMMARY:Bassbussi Allstars – 3 Years Anniversary
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Oben: Andrew Ahmed\, Sluzy\, PartyPauli\, maro\, Arman Shadow
+ \, Leanne\nUnten: Ave Maria\, Christella\, WO.IZZY\, DJ Parkverbot\, Asc
+ henbrenner\, Zeq\, Anatol\, Pinklotion\nVeranstalter: Bassbussi\nEintrit
+ t: 15 €\n\nBassbussi feiert den dritten Geburtstag im The Loft mit ein
+ em „BB-Allstars B2B Special“: drei Jahre Bass\, Nächte am Dancefloo
+ r und gemeinsame Erinnerungen. Oben spielen Andrew Ahmed b2b Sluzy\, Par
+ tyPauli b2b Maro und Arman Shadow b2b Leanne\, unten Ave Maria b2b Chris
+ tella\, WO.IZZY b2b DJ Parkverbot\, Aschenbrenner b2b Zeq und Anatol b2b
+  Pinklotion – alle Sets als B2B. Start 23:00\, Eintritt 15 €. Set-Ze
+ iten\, Ende und Mindestalter nennt die Location nicht.\n\nhttps://rave.w
+ ien/e/2026-11-27-bassbussi-allstars-3-years-anniversary
+URL:https://rave.wien/e/2026-11-27-bassbussi-allstars-3-years-anniversary
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mahlwerk · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-04-step-forward-pres-eargasm-god@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T040000
+SUMMARY:Step Forward pres. Eargasm God
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: Eargasm God\, Who is Ela¿\, Distorgina\nVeranstal
+ ter: Step Forward\, Mahlwerk\n\nStep Forward holt Eargasm God erneut in 
+ die Grelle Forelle – nach den Step-Forward-Nächten im November 2024 u
+ nd 2025 die nächste Ausgabe. Die Grelle Forelle kündigt eine Techno-Na
+ cht an\, bei der Eargasm God\, der online eine große Reichweite hat\, b
+ esonders mit seinem Live-Set beworben wird. Am Mainfloor spielen außerd
+ em Who is Ela¿ und Distorgina\, die Kitchen wird vom Kollektiv Mahlwerk
+  gehostet (Lineup noch offen). Einlass und Abendkassa ab 23:00\, Vorverk
+ auf über Tickettailor\; Preise sind auf der Location-Seite nicht angege
+ ben.\n\nhttps://rave.wien/e/2026-12-04-step-forward-pres-eargasm-god
+URL:https://rave.wien/e/2026-12-04-step-forward-pres-eargasm-god
+END:VEVENT
+END:VCALENDAR

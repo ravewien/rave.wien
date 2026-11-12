@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Royal Marx Sound · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-13-rudebwoy-embassy-meets-bassclub-30-years-jah-powe@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T040000
+SUMMARY:Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Oben (Bassclub): Pezo Fox\, Mantis\, Stoney Curtis\, Zuzee\, 
+ Scooby Duo\nUnten (Jah Power Sound / Rude Bwoy Embassy): Dicie Globie\, 
+ Sparky Rugged\, Astarr\, Ijahson\, Bandulu\, Camel\, DJ Smo\, Baba Sound
+ \, Kings Crown Sound\, Thr33lake\, Jah Power Sound\, Royal Marx Sound\, 
+ G Spot Sound\nVeranstalter: Bassclub\, Rude Bwoy Embassy\, Jah Power Sou
+ nd\nEintritt: 10 € bis 24:00\, danach 15 € / Ladies free bis 24:00\n
+ \nRudebwoy Embassy und Bassclub feiern 30 Jahre Jah Power Sound und dami
+ t jamaikanische Soundsystem-Kultur in Österreich\, mit 13 DJs und 6 Liv
+ e-Acts auf zwei Floors. Oben übernimmt Bassclub mit Drum & Bass\, Dubst
+ ep\, Grime\, UK Bass\, Breaks\, Jungle und HipHop: Pezo Fox b2b Mantis\,
+  Stoney Curtis b2b Zuzee\, Scooby Duo und angekündigte Special Acts. Un
+ ten gehört die Bühne Jah Power Sound mit Reggae\, Dancehall und Dub: l
+ ive Dicie Globie\, Sparky Rugged\, Astarr\, Ijahson\, Bandulu und Camel.
+  An den Decks unten stehen DJ Smo\, Baba Sound\, Kings Crown Sound\, Thr
+ 33lake\, Jah Power Sound\, Royal Marx Sound und G Spot Sound. Beginn 23:
+ 00\; 10 € bis Mitternacht\, danach 15 €\, Frauen bis Mitternacht gra
+ tis.\n\nhttps://rave.wien/e/2026-11-13-rudebwoy-embassy-meets-bassclub-3
+ 0-years-jah-powe
+URL:https://rave.wien/e/2026-11-13-rudebwoy-embassy-meets-bassclub-30-yea
+ rs-jah-powe
+END:VEVENT
+END:VCALENDAR

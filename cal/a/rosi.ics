@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rosi · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-27-high-voltage-fairies-in-the-pit-metal-x-dnb@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T230000
+DTEND;TZID=Europe/Vienna:20261128T040000
+SUMMARY:High Voltage Fairies in the Pit – Metal x DnB
+LOCATION:Flex\, Augartenbrücke 1\, 1010 Wien
+DESCRIPTION:AKOV\, Van:Hill\, Dave & Bass\, Rosi\, WNR\, Fairy Mary\nVera
+ nstalter: High Voltage Fairies\n\nDer „Fairy Pit“ kehrt ins Flex zur
+ ück – laut Flex Wiens einzige Metal-&-Drum-&-Bass-Party\, bei der Alt
+ \, Nu Metal und Metalcore auf Drum & Bass treffen. Im Zentrum steht ein 
+ Metal-x-DnB-Set von AKOV b2b Van:Hill mit Live-Metal-Gesang von AKOV\, F
+ rontmann der Band Aenygma. Special Guest ist Dave & Bass\, die Residents
+  Rosi\, WNR und Fairy Mary liefern den „High Voltage“-Sound\; dazu g
+ ibt es Live-Fairy-Dance-Performances auf der Bühne. Einlass 23:00\; Tic
+ kets im VVK (Eventim Light\, oeticket) und an der Abendkasse\, Preise si
+ nd nicht angegeben.\n\nhttps://rave.wien/e/2026-11-27-high-voltage-fairi
+ es-in-the-pit-metal-x-dnb
+URL:https://rave.wien/e/2026-11-27-high-voltage-fairies-in-the-pit-metal-
+ x-dnb
+END:VEVENT
+END:VCALENDAR

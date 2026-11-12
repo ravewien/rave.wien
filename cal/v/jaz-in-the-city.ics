@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jaz in the City · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-21-rooftop-series-at-mariatrink@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T200000
+DTEND;TZID=Europe/Vienna:20261121T230000
+SUMMARY:Rooftop Series at Mariatrink
+LOCATION:Jaz in the City\, Windmühlgasse 28\, 1060 Wien
+DESCRIPTION:Fede Frostl\nEintritt frei\n\nRooftop-Session in der Mariatri
+ nk\, der Dachbar des Hotels Jaz in the City in der Windmühlgasse: DJ Fe
+ de Frostl spielt ab 20:00 ein Set mit Progressive House. Eintritt frei\,
+  Ende laut RA 23:00. Weitere Infos zu Mindestalter oder Dresscode gibt e
+ s nicht.\n\nhttps://rave.wien/e/2026-11-21-rooftop-series-at-mariatrink
+URL:https://rave.wien/e/2026-11-21-rooftop-series-at-mariatrink
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-rooftop-series-at-mariatrink@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T200000
+DTEND;TZID=Europe/Vienna:20261205T230000
+SUMMARY:Rooftop Series at Mariatrink
+LOCATION:Jaz in the City\, Windmühlgasse 28\, 1060 Wien
+DESCRIPTION:Fede Frostl\nEintritt frei\n\nWeitere Rooftop-Session in der 
+ Mariatrink\, der Dachbar des Hotels Jaz in the City in der Windmühlgass
+ e: DJ Fede Frostl spielt ab 20:00 Progressive House. Eintritt frei\, End
+ e laut RA 23:00.\n\nhttps://rave.wien/e/2026-12-05-rooftop-series-at-mar
+ iatrink
+URL:https://rave.wien/e/2026-12-05-rooftop-series-at-mariatrink
+END:VEVENT
+END:VCALENDAR

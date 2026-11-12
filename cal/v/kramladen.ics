@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kramladen · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-13-mitmischen@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T233000
+DTEND;TZID=Europe/Vienna:20261114T060000
+SUMMARY:Mitmischen
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Alex Skorin\, Constant.Change\, dj wernerschnitzel\, Psycholy
+ se\nVeranstalter: Wiener Mischung\nEintritt frei\n\nDie Wiener Mischung 
+ lädt wieder zu „Mitmischen“ in den Kramladen in den Stadtbahnbögen
+ . Alex Skorin und Constant.Change eröffnen b2b (23:30–01:30)\, danach
+  spielt dj wernerschnitzel (01:30–03:00)\, Psycholyse aus Deutschland 
+ schließt von 03:00 bis 06:00. Musikalisch reicht der Abend laut Program
+ m von Indie Dance und Tech House über Hard House und Hardgroove bis Tec
+ hno\, Trance und Hypnotic. Eintritt frei. Hinweis: Der Ankündigungstext
+  spricht von „Samstag“\, das Datum 13.11.2026 ist jedoch ein Freitag
+ .\n\nhttps://rave.wien/e/2026-11-13-mitmischen
+URL:https://rave.wien/e/2026-11-13-mitmischen
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-derisch@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T235500
+DTEND;TZID=Europe/Vienna:20261115T045500
+SUMMARY:Derisch
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:HÄNSCH\, KORKI\, AUGEN ZU\, MØCK\nVeranstalter: Derisch\nEi
+ ntritt frei\n\nDERISCH geht im Kramladen in die nächste Runde. Laut fre
+ y-tag gibt es zwei Debüts: HÄNSCH spielt zum ersten Mal\, AUGEN ZU spi
+ elt ein Back-to-back-Set mit MØCK. Als Genre ist Techno angegeben\, der
+  Eintritt ist frei. KORKI steht auf RA im Line-up\, wird auf frey-tag ab
+ er nicht genannt\; Techno Airlines führt das Event fälschlich im Tagad
+ a.\n\nhttps://rave.wien/e/2026-11-14-derisch
+URL:https://rave.wien/e/2026-11-14-derisch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-teknoteka@rave.wien
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=Europe/Vienna:20261119T230000
+DTEND;TZID=Europe/Vienna:20261120T040000
+SUMMARY:Teknoteka
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:UV Project\, Norg3n\, Nasty\nEintritt frei / free entry\n\nTe
+ knoteka geht in die dritte Runde und bringt eine Nacht mit treibenden Ba
+ sslines\, Underground-Beats und energiegeladenem Techno in den Kramladen
+ . Special Guest ist UV Project\, dazu spielen NORG3N und Nasty. Eintritt
+  frei.\n\nhttps://rave.wien/e/2026-11-19-teknoteka
+URL:https://rave.wien/e/2026-11-19-teknoteka
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-fifi-rave@rave.wien
+DTSTAMP:20261203T000000Z
+DTSTART;TZID=Europe/Vienna:20261203T233000
+DTEND;TZID=Europe/Vienna:20261204T050000
+SUMMARY:FIFI RAVE
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:ARX\, Adam19\, Dunik\, Michkx\nVeranstalter: Fifi\nEintritt f
+ rei\n\nFIFI RAVE kehrt für eine weitere Hardgroove-Nacht in den Kramlad
+ en zurück („Hardgroove All Night“). Laut Timetable eröffnet ARX um
+  00:00\, ab 01:30 spielt Adam19\, ab 03:00 folgen Dunik und Michkx back 
+ to back. Einlass ab 23:30\, Ende 05:00\, Eintritt frei\, ab 18\; RA tagg
+ t Techno und Minimal Techno.\n\nhttps://rave.wien/e/2026-12-03-fifi-rave
+URL:https://rave.wien/e/2026-12-03-fifi-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-acidic-juice-x-notyourordinary-live@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T200000
+DTEND;TZID=Europe/Vienna:20261219T040000
+SUMMARY:Acidic Juice x NOTYOURORDINARY – Live
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Acidic Juice\, Chakabalara\, NOTYOURORDINARY\nVeranstalter: A
+ cidic Juice\, NOTYOURORDINARY\nEintritt: VVK 12 €\, AK 15 €\n\nLive-
+ Abend im Kramladen\, angekündigt als Electro-Punk-Rave zwischen elektro
+ nischer Musik\, Live-Instrumenten\, gebrochenen Rhythmen und schwerem Ba
+ ss (20:00–04:00). Acidic Juice ist ein Live-Elektronik-Projekt aus Ber
+ lin mit Bass\, Breakbeats\, Electro und Old-School-Rave-Energie\, beeinf
+ lusst von UK-Clubmusik und Soundsystem-Kultur\; für diese Show erweiter
+ t AJ (Elektronik) das Projekt mit dem Live-Bass-Duo Chakabalara zum Trio
+ . NOTYOURORDINARY aus Wien verbindet elektronische Musik\, Jazz und Rock
+  mit Punk-Attitüde und arbeitet mit Synthesizern\, akustischen Instrume
+ nten\, Live-Resampling und Remixing. Nach den Live-Acts legen DJs des Kr
+ amladen auf. Vorverkauf 12 €\, Abendkasse 15 €\, ab 21.\n\nhttps://r
+ ave.wien/e/2026-12-18-acidic-juice-x-notyourordinary-live
+URL:https://rave.wien/e/2026-12-18-acidic-juice-x-notyourordinary-live
+END:VEVENT
+END:VCALENDAR

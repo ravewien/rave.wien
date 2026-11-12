@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rhiz · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-13-basstrace-soliparty@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T040000
+SUMMARY:Basstrace Soliparty
+LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
+DESCRIPTION:Veranstalter: Basstrace\n\nSoliparty der Wiener Drum-&-Bass-R
+ eihe Basstrace im Rhiz am Gürtel\, Beginn 23:00. Der Abend ist bei Tech
+ no Airlines gelistet\; Lineup\, Preis und Zweck der Soli-Einnahmen sind 
+ noch nicht angegeben.\n\nhttps://rave.wien/e/2026-11-13-basstrace-solipa
+ rty
+URL:https://rave.wien/e/2026-11-13-basstrace-soliparty
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-nomenklatur-w-great-area-pillbert-live@rave.wien
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Vienna:20261115T190000
+DTEND;TZID=Europe/Vienna:20261115T230000
+SUMMARY:nomenklatur w/ great area & PILLBERT (live)
+LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
+DESCRIPTION:great area\, PILLBERT\nVeranstalter: nomenklatur\n\nDie Reihe
+  nomenklatur (Label nomenklatur.notes) im Rhiz präsentiert diesmal grea
+ t area und PILLBERT (live)\, 19–23 Uhr. Ursprünglich war Dagmar Zunig
+ a (live) angekündigt\; Titel und Ticketlink (KUPFticket „great-area
+ “) laufen inzwischen auf das neue Lineup\, die Beschreibung bei techno
+ beatscloud nennt Zuniga aber noch. Beschrieben wird ein introspektives\,
+  intimes Live-Set aus geschichteten Harmonien\, Bandrauschen\, verzerrte
+ n Gitarren und digitalen Oszillatoren\; Genres laut technobeatscloud Amb
+ ient/Downtempo und Experimental.\n\nhttps://rave.wien/e/2026-11-15-nomen
+ klatur-w-great-area-pillbert-live
+URL:https://rave.wien/e/2026-11-15-nomenklatur-w-great-area-pillbert-live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-glitch-vienna-001@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T235900
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:GLITCH Vienna 001
+LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
+DESCRIPTION:KΛSKIN\, TenFifty\nVeranstalter: GLITCH\n\nAuftakt der House
+ -Residency von GLITCH im Rhiz. GLITCH ist eine 2025 gegründete House-Ev
+ entreihe (Verein GLITCH)\, ursprünglich mit kleinen Off-Location-Partys
+  in Kärnten. Es spielen KΛSKIN\, laut Veranstalter eines der ersten In
+ die-Dance-Projekte Österreichs (aus Villach\, auch in Wien aktiv)\, und
+  das GLITCH-Resident-Tech-House-Projekt TenFifty (Grafenauer & KΛSKIN\,
+  Wien-Margareten). Weitere Acts sind angekündigt.\n\nhttps://rave.wien/
+ e/2026-11-20-glitch-vienna-001
+URL:https://rave.wien/e/2026-11-20-glitch-vienna-001
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-polychaos-dubium@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T230000
+DTEND;TZID=Europe/Vienna:20261122T060000
+SUMMARY:POLYCHAOS DUBIUM
+LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
+DESCRIPTION:Gawdesque\, anxxxious_t\, Kmanxak\, Ironica Los Culos\, Nova.
+ psd\n\nZweite Ausgabe\; Visuals von Nova.psd (CRT-TV-Installation)\, Lic
+ ht/Objekte von Qualia & Ironica Los Culos. Beschreibung nennt 22–04 Uh
+ r.\n\nhttps://rave.wien/e/2026-11-21-polychaos-dubium
+URL:https://rave.wien/e/2026-11-21-polychaos-dubium
+END:VEVENT
+END:VCALENDAR

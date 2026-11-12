@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NTO · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-14-nto-live@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T190000
+DTEND;TZID=Europe/Vienna:20261114T230000
+SUMMARY:NTO live
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:NTO\, Prismode\, Solvane\nEintritt: ab 25 €\n\nDer französ
+ ische Produzent NTO macht mit seiner neuen Live-Tour Station im O der Kl
+ ub. Er spielt melodischen Techno mit emotionaler Tiefe\, darunter neue\,
+  unveröffentlichte Tracks seines kommenden Albums. Die Show ist als Mis
+ chung aus Konzert und Club mit treibenden Beats und filmischen Klangflä
+ chen angelegt. Beginn 19:00\, Tickets ab 25 € über ticketlodge\; Supp
+ ort und Set-Zeiten sind nicht genannt.\n\nhttps://rave.wien/e/2026-11-14
+ -nto-live
+URL:https://rave.wien/e/2026-11-14-nto-live
+END:VEVENT
+END:VCALENDAR

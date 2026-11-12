@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Basstrace · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-13-basstrace-soliparty@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T040000
+SUMMARY:Basstrace Soliparty
+LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
+DESCRIPTION:Veranstalter: Basstrace\n\nSoliparty der Wiener Drum-&-Bass-R
+ eihe Basstrace im Rhiz am Gürtel\, Beginn 23:00. Der Abend ist bei Tech
+ no Airlines gelistet\; Lineup\, Preis und Zweck der Soli-Einnahmen sind 
+ noch nicht angegeben.\n\nhttps://rave.wien/e/2026-11-13-basstrace-solipa
+ rty
+URL:https://rave.wien/e/2026-11-13-basstrace-soliparty
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-basstrace@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T233000
+DTEND;TZID=Europe/Vienna:20261205T043000
+SUMMARY:Basstrace
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Basstrace\n\nBasstrace im FLUCC Wanne. Die Loca
+ tion-Seite nennt bisher nur Titel\, Datum und Beginn (23:30 Uhr)\; Lineu
+ p\, Preis\, Ende und Flyer sind noch nicht veröffentlicht. Verlinkt ist
+  die Website basstrace.com.\n\nhttps://rave.wien/e/2026-12-04-basstrace
+URL:https://rave.wien/e/2026-12-04-basstrace
+END:VEVENT
+END:VCALENDAR

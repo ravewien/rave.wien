@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Qualia · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-27-qualia@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T235900
+DTEND;TZID=Europe/Vienna:20261128T050000
+SUMMARY:Qualia
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Harry Knaypp\, Polo\nVeranstalter: Qualia\nEintritt: 10 € (
+ Abendkasse)\n\nClubnacht der Reihe Qualia (Instagram: qualia.series) im 
+ Club Lucia in den Gürtelbögen. An den Decks stehen Harry Knaypp und Po
+ lo. Die Eventseite nennt keinen Beschreibungstext und keine Genres. Eint
+ ritt 10 € an der Abendkasse.\n\nhttps://rave.wien/e/2026-11-27-qualia
+URL:https://rave.wien/e/2026-11-27-qualia
+END:VEVENT
+END:VCALENDAR

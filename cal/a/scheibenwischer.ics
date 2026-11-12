@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Scheibenwischer · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-14-fifi-x-schrodinger-s-groove@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T230000
+DTEND;TZID=Europe/Vienna:20261115T040000
+SUMMARY:Fifi x Schrödinger's Groove
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Scheibenwischer\, Farbod\, Rui de Janeiro\nVeranstalter: Fifi
+ \, Schrödingers Groove\n\n„Groove Night“: gemeinsame Clubnacht der 
+ Kollektive Fifi Rave (bekannt u. a. als Gastgeber des Rave am Mittwoch i
+ m Werk) und Schrödinger's Groove in der FLUCC Wanne\, Beginn 23:00. Auf
+  dem Lineup stehen Scheibenwischer\, Farbod und Rui de Janeiro\; Timetab
+ le und Floor-Aufteilung sind nicht veröffentlicht. Tickets laufen über
+  Resident Advisor\, Preis und Ende sind in den gelesenen Quellen nicht a
+ ngegeben. In der Wanne ist eine Awareness-Person vor Ort.\n\nhttps://rav
+ e.wien/e/2026-11-14-fifi-x-schrodinger-s-groove
+URL:https://rave.wien/e/2026-11-14-fifi-x-schrodinger-s-groove
+END:VEVENT
+END:VCALENDAR

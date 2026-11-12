@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Adam19 · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-11-kostlich-x-gurtelgroove@rave.wien
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Vienna:20261111T210000
+DTEND;TZID=Europe/Vienna:20261112T040000
+SUMMARY:Köstlich x Gürtelgroove
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:POSTSCRIPTUM\, FESH\, Adam19\, Antone\, Dudas\, Chris Eru\, M
+ ahofsky\nVeranstalter: Köstlich\, Gürtelgroove\nEintritt: free (Spende
+ n willkommen)\n\nDie Kollektive Köstlich und Gürtelgroove teilen sich 
+ einen Mittwochabend im Club Lucia\, angekündigt als Nacht voller Groove
+  und Rhythmus mit UKG\, Hardgroove und Techno. Von Köstlich spielen POS
+ TSCRIPTUM\, FESH sowie Chris Eru b2b Mahofsky\, von Gürtelgroove Antone
+  b2b Dudas. Dazu kommt Adam19 vom Kollektiv FIFI. Der Eintritt ist frei\
+ , Spenden sind willkommen. Die Veranstalter halten fest: kein Platz für
+  Rassismus\, Sexismus\, Faschismus oder andere Formen von Hass und Gewal
+ t.\n\nhttps://rave.wien/e/2026-11-11-kostlich-x-gurtelgroove
+URL:https://rave.wien/e/2026-11-11-kostlich-x-gurtelgroove
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-fifi-rave@rave.wien
+DTSTAMP:20261203T000000Z
+DTSTART;TZID=Europe/Vienna:20261203T233000
+DTEND;TZID=Europe/Vienna:20261204T050000
+SUMMARY:FIFI RAVE
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:ARX\, Adam19\, Dunik\, Michkx\nVeranstalter: Fifi\nEintritt f
+ rei\n\nFIFI RAVE kehrt für eine weitere Hardgroove-Nacht in den Kramlad
+ en zurück („Hardgroove All Night“). Laut Timetable eröffnet ARX um
+  00:00\, ab 01:30 spielt Adam19\, ab 03:00 folgen Dunik und Michkx back 
+ to back. Einlass ab 23:30\, Ende 05:00\, Eintritt frei\, ab 18\; RA tagg
+ t Techno und Minimal Techno.\n\nhttps://rave.wien/e/2026-12-03-fifi-rave
+URL:https://rave.wien/e/2026-12-03-fifi-rave
+END:VEVENT
+END:VCALENDAR

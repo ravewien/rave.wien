@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WaqWaq Kingdom · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-05-elektro-guzzi-special-guests-palazzo-festival@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T210000
+DTEND;TZID=Europe/Vienna:20261206T020000
+SUMMARY:Elektro Guzzi & Special Guests – Palazzo Festival
+LOCATION:WUK\, Währinger Straße 59\, 1090 Wien
+DESCRIPTION:Elektro Guzzi\, WaqWaq Kingdom\, Catu Diosis\, Fingers of God
+ \nVeranstalter: Palazzo Recordings\nEintritt: 30\,50 € (Eventim\, zzgl
+ . Gebühr)\n\nDas Wiener Trio Elektro Guzzi bringt sein Label Palazzo Re
+ cordings für einen Abend mit Clubkultur und Live-Energie in den Saal de
+ s WUK (Eingang C). Elektro Guzzi spielen Techno live mit Gitarre\, Bass 
+ und Schlagzeug\, ohne Computer oder Looper\, und sind auf vielen europä
+ ischen und internationalen Dance-Festivals und in Clubs aufgetreten\; Pa
+ lazzo Recordings versteht sich als DIY-Plattform für rauere Sounds und 
+ bildende Künstler:innen. Dazu kommen ein internationaler Live-Act (WaqW
+ aq Kingdom) und DJs auf zwei Floors\, genannt sind außerdem Catu Diosis
+  und Fingers of God. Einlass 21:00\, Beginn 22:00. Veranstalter ist die 
+ Spoon Agency\; der Preis stammt von Eventim (Stehplatz)\, Tickets auch i
+ m WUK-Onlineshop\, bei oeticket und an der Abendkassa.\n\nhttps://rave.w
+ ien/e/2026-12-05-elektro-guzzi-special-guests-palazzo-festival
+URL:https://rave.wien/e/2026-12-05-elektro-guzzi-special-guests-palazzo-f
+ estival
+END:VEVENT
+END:VCALENDAR

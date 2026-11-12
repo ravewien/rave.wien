@@ -1,0 +1,379 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FLUCC · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-13-queertactics-festival-party@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T200000
+DTEND;TZID=Europe/Vienna:20261114T040000
+SUMMARY:Queertactics Festival Party
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:MZTAY\, DAFFODRILLS\, PHAEDRA\, Algoriddim Girls\nVeranstalte
+ r: Queertactics\nEintritt frei\n\nDie Queertactics Festival Party kehrt 
+ aufs FLUCC Deck zurück und mischt Club-Sounds mit Live-Musik\, Eintritt
+  frei. MZTAY eröffnet (20:00) mit Grooves zwischen Alternative R&B\, Ho
+ use\, Hip-Hop und Bounce\, danach spielt DAFFODRILLS (21:30) Ghetto Hous
+ e\, Jersey Club\, Baile Funk und Bubbling. Um 23:00 folgt PHAEDRA mit Li
+ ve-Performance und Set\, die Gesang\, elektronische Sounds und lateiname
+ rikanische Rhythmen mit Themen wie Widerstand\, Sehnsucht und Freiheit v
+ erbindet. Zum Abschluss spielen die ALGORIDDIM GIRLS von 01:00 bis 04:00
+  ein b2b-Doppelset aus Bass\, Percussion und globalen Club-Einflüssen. 
+ Ein Awareness-Team ist vor Ort.\n\nhttps://rave.wien/e/2026-11-13-queert
+ actics-festival-party
+URL:https://rave.wien/e/2026-11-13-queertactics-festival-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-deep-cut-dark-pressure@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T060000
+SUMMARY:deep cut × Dark Pressure
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Alex Maurer\, Aura\, Oxygeno\, Melimeko\nVeranstalter: deep c
+ ut\, Dark Pressure\nEintritt: 15 € VVK / 18 € AK\n\ndeep cut und Dar
+ k Pressure präsentieren eine Nacht mit hypnotischem und deepem Techno i
+ n der FLUCC Wanne. Hauptgast ist Oxygeno aus Spanien\, der rohe\, emotio
+ nale Produktionen u. a. auf Mord\, Axis\, Semantica\, Non Series und Som
+ a veröffentlicht hat\, das Label Lost Verses betreibt und international
+  neben Jeff Mills\, Oscar Mulero und Ø [Phase] spielte. Alex Maurer (Tu
+ rbo) eröffnet um 23:00\, um 00:45 feiert Aura Premiere\, das dawless Li
+ ve-Projekt von Dcascallana und pezel. Oxygeno spielt ab 02:15\, Melimeko
+  (RAW Session) schließt von 04:15 bis 06:00. Tickets 15 € im VVK\, 18
+  € an der Abendkasse\; Flyer-Artwork von Martin Daxinger. frey-tag.at 
+ führt das Event abweichend im Kramladen\; flucc.at nennt die FLUCC Wann
+ e.\n\nhttps://rave.wien/e/2026-11-13-deep-cut-dark-pressure
+URL:https://rave.wien/e/2026-11-13-deep-cut-dark-pressure
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-fifi-x-schrodinger-s-groove@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T230000
+DTEND;TZID=Europe/Vienna:20261115T040000
+SUMMARY:Fifi x Schrödinger's Groove
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Scheibenwischer\, Farbod\, Rui de Janeiro\nVeranstalter: Fifi
+ \, Schrödingers Groove\n\n„Groove Night“: gemeinsame Clubnacht der 
+ Kollektive Fifi Rave (bekannt u. a. als Gastgeber des Rave am Mittwoch i
+ m Werk) und Schrödinger's Groove in der FLUCC Wanne\, Beginn 23:00. Auf
+  dem Lineup stehen Scheibenwischer\, Farbod und Rui de Janeiro\; Timetab
+ le und Floor-Aufteilung sind nicht veröffentlicht. Tickets laufen über
+  Resident Advisor\, Preis und Ende sind in den gelesenen Quellen nicht a
+ ngegeben. In der Wanne ist eine Awareness-Person vor Ort.\n\nhttps://rav
+ e.wien/e/2026-11-14-fifi-x-schrodinger-s-groove
+URL:https://rave.wien/e/2026-11-14-fifi-x-schrodinger-s-groove
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-hot-n-wet@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T235900
+DTEND;TZID=Europe/Vienna:20261115T060000
+SUMMARY:Hot'n'Wet
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Jules Foe\, Lila Gold\, MEIOSISS\nVeranstalter: MEIOSISS\nEin
+ tritt: 10 €\n\nMEIOSISS veranstaltet am FLUCC Deck die sechste Ausgabe
+  ihrer Flirt-Party\, auf RA als „Hot & Flirty #6“ gelistet: Flirten 
+ soll statt per Dating-App wieder im echten Leben auf der Tanzfläche pas
+ sieren. Markenzeichen sind Flirt-Armbänder\, die anderen zeigen\, worau
+ f man Lust hat. Persönliche Grenzen und Einvernehmlichkeit sind Grundvo
+ raussetzung („only YES means YES“). Es spielen Lila Gold\, MEIOSISS 
+ und Jules Foe als Special Guest\, RA taggt Techno. Beginn 23:59 (RA-Besc
+ hreibung: 00:00)\, Ende 06:00\, 10 € für die ganze Nacht\, ab 18. RA 
+ und Techno Airlines führen den Abend inzwischen unter dem Titel „HOT 
+ & FLIRTY #6“.\n\nhttps://rave.wien/e/2026-11-14-hot-n-wet
+URL:https://rave.wien/e/2026-11-14-hot-n-wet
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-flut-x-callshop-radio-week-46@rave.wien
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Vienna:20261115T140000
+DTEND;TZID=Europe/Vienna:20261115T200000
+SUMMARY:FLUT x Callshop Radio – Week 46
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Callshop Radio\, Spumante Records\nEintritt fre
+ i\n\nFLUT ist die Radioschiene des FLUCC in Kooperation mit Callshop Rad
+ io\, das auch in Düsseldorf\, Leipzig und Paris sendet\; die Session wi
+ rd über Stream 2 auf callshopradio.com übertragen. Week 46 kuratieren 
+ Spumante Records aus Wien\, das Lineup ist noch offen. Während des Stre
+ ams hat die Deck Bar geöffnet\, Gäste können den Sonntagnachmittag mi
+ t Live-DJs verbringen. Von 14:00 bis 20:00\, Eintritt frei.\n\nhttps://r
+ ave.wien/e/2026-11-15-flut-x-callshop-radio-week-46
+URL:https://rave.wien/e/2026-11-15-flut-x-callshop-radio-week-46
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-kollektiv-klanggerecht-presents-tanzinstanz-raw-e@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T220000
+DTEND;TZID=Europe/Vienna:20261121T054500
+SUMMARY:Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Tonks\, wldfee\, Sauerstøff\, subinstans\, NooK\, mein__dm\,
+  Techmoo\nVeranstalter: Kollektiv Klanggerecht\, Klanggerecht\nEintritt:
+  5 € (nur Abendkasse)\n\nDas Kollektiv Klanggerecht kehrt mit seiner R
+ eihe Tanzinstanz in einer „RAW EDITION“ auf das FLUCC Deck zurück. 
+ Im Fokus stehen Raw Techno\, Hypnotic und Hard Groove – treibende Beat
+ s und dunkle\, hypnotische Grooves bis in die frühen Morgenstunden. Es 
+ spielen sieben Acts: Tonks\, wldfee\, Sauerstøff\, subinstans\, NooK\, 
+ mein__dm und Techmoo. Eintritt 5 €\, nur an der Abendkasse.\n\nhttps:/
+ /rave.wien/e/2026-11-20-kollektiv-klanggerecht-presents-tanzinstanz-raw-
+ e
+URL:https://rave.wien/e/2026-11-20-kollektiv-klanggerecht-presents-tanzin
+ stanz-raw-e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-vision-serpent@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Vision Serpent
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:NoNameLeft\, Mateo!\, David Phoenix\, Nya Nyx\nVeranstalter: 
+ Vision Serpent\nEintritt: VVK 10 €\, AK 18 €\n\nVision Serpent lädt
+  zum Showcase in die FLUCC Wanne mit NoNameLeft\, Mateo!\, David Phoenix
+  und Nya Nyx. Bisherige Quellen ordnen den Abend Techno\, Minimal Techno
+  und Psytech zu. Beginn 23:00\, Ende 06:00\; Vorverkauf 10 € über kup
+ fticket\, Abendkasse 18 €. Die FLUCC-Seite selbst enthält noch keine 
+ Beschreibung oder Flyer.\n\nhttps://rave.wien/e/2026-11-20-vision-serpen
+ t
+URL:https://rave.wien/e/2026-11-20-vision-serpent
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-technoage-ab-funfzehn-uhr-clubbing@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T150000
+DTEND;TZID=Europe/Vienna:20261121T210000
+SUMMARY:techNOage – ab fünfzehn Uhr Clubbing
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: techNOage\nEintritt: Freie Spende\n\ntechNOage 
+ lädt zum Nachmittags-Clubbing aufs FLUCC Deck (15–21 Uhr)\, Eintritt 
+ gegen freie Spende („So viel Dein Taktor wippt“). Die Reihe versteht
+  Techno nicht als enge Kategorie\, verweist auf seine Wurzeln in der Sch
+ warzen Arbeiter:innenbewegung Detroits zwischen Soul\, Funk und Maschine
+ nmusik und fragt\, wo die Grenzen des Genres liegen. Das Lineup bewegt s
+ ich in Phasen innerhalb des Four-to-the-floor-Rahmens und baut wie in ei
+ ner Ein-Raum-Disco einen Spannungsbogen vom Anfang bis zum Ende auf. Es 
+ gibt Kaffee und Kuchen für einen guten Zweck\, der Zugang ist barrieref
+ rei. DJ-Namen nennt die Seite nicht.\n\nhttps://rave.wien/e/2026-11-21-t
+ echnoage-ab-funfzehn-uhr-clubbing
+URL:https://rave.wien/e/2026-11-21-technoage-ab-funfzehn-uhr-clubbing
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-art-attech-kunst-kusst-techno@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T200000
+DTEND;TZID=Europe/Vienna:20261122T060000
+SUMMARY:Art Attech – Kunst küsst Techno
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Aleta\, ARAS JE'TÄM\, Krawallbarbie\, OK CUTEE\, Wal_Halla\,
+  DJ Parkverbot\nVeranstalter: Art Attech\nEintritt: VVK 14–18 €\, AK
+  19 €\n\n16. Ausgabe von Art Attech („Kunst küsst Techno“) in der
+  FLUCC Wanne\, von 20:00 bis 06:00. Auf dem Lineup stehen Aleta\, ARAS J
+ E'TÄM\, Krawallbarbie\, OK CUTEE\, Wal_Halla und DJ Parkverbot. Vorverk
+ auf 14–18 €\, Abendkassa 19 €\, ab 18 Jahren. In der Wanne ist ein
+ e Awareness-Person vor Ort.\n\nhttps://rave.wien/e/2026-11-21-art-attech
+ -kunst-kusst-techno
+URL:https://rave.wien/e/2026-11-21-art-attech-kunst-kusst-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-tanz-dich-glucklich@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T230000
+DTEND;TZID=Europe/Vienna:20261122T040000
+SUMMARY:Tanz dich glücklich
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:DJEENI\, Saender\, Saratonin\, SWEGALICIOUS\, Wiener Grantsch
+ eibn\nVeranstalter: Tanz dich glücklich\nEintritt: AK 15 €\n\nDie Fee
+ l-Good-Partyreihe Tanz dich glücklich\, die es seit 2018 gibt\, kommt a
+ ufs FLUCC Deck. Gespielt wird alles zwischen groovy House und schnellem 
+ Bounce\, dazu kommt Live-Saxophon. Hinter den Decks stehen DJEENI\, Saen
+ der\, Saratonin\, SWEGALICIOUS und Wiener Grantscheibn\; Set-Zeiten nenn
+ t die Location nicht. Eintritt 15 €\, nur an der Abendkasse.\n\nhttps:
+ //rave.wien/e/2026-11-21-tanz-dich-glucklich
+URL:https://rave.wien/e/2026-11-21-tanz-dich-glucklich
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-sonntag-sdisco-vol-29@rave.wien
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Vienna:20261122T200000
+DTEND;TZID=Europe/Vienna:20261122T234500
+SUMMARY:Sonntag'sdisco Vol. 29
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Drehli Robnik\nEintritt: 10 € (nur AK)\n\nDie 29. Ausgabe d
+ er Sonntag'sdisco am FLUCC Deck von 20:00 bis 23:45. Ein Live-Act ist an
+ gekündigt\, aber noch nicht benannt. Davor und danach legt Drehli Robni
+ k viele seiner Platten auf. Eintritt 10 €\, nur an der Abendkasse.\n\n
+ https://rave.wien/e/2026-11-22-sonntag-sdisco-vol-29
+URL:https://rave.wien/e/2026-11-22-sonntag-sdisco-vol-29
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-luv-affair@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T220000
+DTEND;TZID=Europe/Vienna:20261128T030000
+SUMMARY:Luv Affair
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Luv Affair\n\nLuv Affair auf beiden Floors (Wan
+ ne & Deck)\; Line-up noch nicht veröffentlicht.\n\nhttps://rave.wien/e/
+ 2026-11-27-luv-affair
+URL:https://rave.wien/e/2026-11-27-luv-affair
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-flut-x-callshop-radio-week-48@rave.wien
+DTSTAMP:20261129T000000Z
+DTSTART;TZID=Europe/Vienna:20261129T140000
+DTEND;TZID=Europe/Vienna:20261129T200000
+SUMMARY:FLUT x Callshop Radio – Week 48
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Callshop Radio\, Spumante Records\nEintritt fre
+ i\n\nFLUT ist die Radioschiene des FLUCC in Kooperation mit Callshop Rad
+ io\, das auch in Düsseldorf\, Leipzig und Paris sendet\; die Session wi
+ rd über Stream 2 auf callshopradio.com übertragen. Week 48 hosten Spum
+ ante Records aus Wien\, das Lineup ist noch offen. Während des Streams 
+ hat die Deck Bar geöffnet\, Gäste können den Sonntagnachmittag mit Li
+ ve-DJs verbringen. Von 14:00 bis 20:00\, Eintritt frei.\n\nhttps://rave.
+ wien/e/2026-11-29-flut-x-callshop-radio-week-48
+URL:https://rave.wien/e/2026-11-29-flut-x-callshop-radio-week-48
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-tonic-walter-ii-tour-2026@rave.wien
+DTSTAMP:20261202T000000Z
+DTSTART;TZID=Europe/Vienna:20261202T200000
+DTEND;TZID=Europe/Vienna:20261203T010000
+SUMMARY:Tonic Walter – II Tour 2026
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Tonic Walter\n\nDas Duo Tonic Walter kommt mit seiner „II T
+ our 2026“ ins FLUCC und stellt dort sein zweites Album „II“ live v
+ or. Die Show verbindet Melodic House und Techno mit Live-Band-Elementen\
+ ; 2025 tourte das Duo u. a. mit Tycho und Fritz Kalkbrenner. Weitere Tou
+ rstopps sind Hamburg\, Berlin\, München und Köln. Beginn 20:00\; es ha
+ ndelt sich um ein Live-Konzert\, Support und Preis sind noch nicht bekan
+ nt.\n\nhttps://rave.wien/e/2026-12-02-tonic-walter-ii-tour-2026
+URL:https://rave.wien/e/2026-12-02-tonic-walter-ii-tour-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-15-years-restless-album-release-party@rave.wien
+DTSTAMP:20261203T000000Z
+DTSTART;TZID=Europe/Vienna:20261203T200000
+DTEND;TZID=Europe/Vienna:20261204T020000
+SUMMARY:15 Years Restless – Album Release Party
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Little Beat More\, Chrisfader\, Testa\, D.b.h\nVeranstalter: 
+ Restless\nEintritt: 5 € (nur Abendkasse)\n\nRESTLESS feiert 15 Jahre g
+ emeinsames Musikmachen und die Veröffentlichung des fünften Albums „
+ V“ mit einer Reihe von Partys\; diese findet auf dem FLUCC Deck statt.
+  Angekündigt ist eine Nacht mit Beats\, Cuts und Global Grooves. An den
+  Decks stehen Little Beat More\, Chrisfader\, Testa und d.b.h\, dazu kom
+ men ungenannte Special Guests und Freund:innen aus 15 Jahren. Es gibt ei
+ nen limitierten Vinyl- und Merch-Verkauf. Eintritt 5 €\, nur Abendkass
+ e.\n\nhttps://rave.wien/e/2026-12-03-15-years-restless-album-release-par
+ ty
+URL:https://rave.wien/e/2026-12-03-15-years-restless-album-release-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-tanz-oder-gar-nicht@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T040000
+SUMMARY:Tanz oder gar nicht
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Tanz oder gar nicht\n\nTanz oder gar nicht im F
+ LUCC Deck. Die Location-Seite nennt bisher nur Titel\, Datum und Beginn 
+ (23:00 Uhr)\; Lineup\, Preis\, Ende und Flyer sind noch nicht veröffent
+ licht.\n\nhttps://rave.wien/e/2026-12-04-tanz-oder-gar-nicht
+URL:https://rave.wien/e/2026-12-04-tanz-oder-gar-nicht
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-basstrace@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T233000
+DTEND;TZID=Europe/Vienna:20261205T043000
+SUMMARY:Basstrace
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Basstrace\n\nBasstrace im FLUCC Wanne. Die Loca
+ tion-Seite nennt bisher nur Titel\, Datum und Beginn (23:30 Uhr)\; Lineu
+ p\, Preis\, Ende und Flyer sind noch nicht veröffentlicht. Verlinkt ist
+  die Website basstrace.com.\n\nhttps://rave.wien/e/2026-12-04-basstrace
+URL:https://rave.wien/e/2026-12-04-basstrace
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-panzerschokolade@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T220000
+DTEND;TZID=Europe/Vienna:20261206T030000
+SUMMARY:Panzerschokolade
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:\nPanzerschokolade im FLUCC Deck. Die Location-Seite nennt bi
+ sher nur Titel\, Datum und Beginn (22:00 Uhr)\; Lineup\, Preis\, Ende un
+ d Flyer sind noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-
+ 05-panzerschokolade
+URL:https://rave.wien/e/2026-12-05-panzerschokolade
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-bassbehorde@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T230000
+DTEND;TZID=Europe/Vienna:20261206T040000
+SUMMARY:Bassbehörde
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:\nBassbehörde im FLUCC Wanne. Die Location-Seite nennt bishe
+ r nur Titel\, Datum und Beginn (23:00 Uhr)\; Lineup\, Preis\, Ende und F
+ lyer sind noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-05-
+ bassbehorde
+URL:https://rave.wien/e/2026-12-05-bassbehorde
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-amore-ag-x-vnv-with-fafi-abdel-nour@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T230000
+DTEND;TZID=Europe/Vienna:20261212T040000
+SUMMARY:Amore AG x VNV with Fafi Abdel Nour
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Fafi Abdel Nour\nVeranstalter: Amore AG\, VNV\n\nClubnacht de
+ r Wiener Reihen Amore AG und VNV im FLUCC mit Fafi Abdel Nour als einzig
+ em bisher genanntem Act\, Beginn 23:00. Techno Airlines führt die Nacht
+  als Techno-Event und verlinkt das RA-Event 2578113 für Tickets. Auf fl
+ ucc.at ist der Termin noch nicht gelistet\, daher sind Floor\, Ende und 
+ Preis offen.\n\nhttps://rave.wien/e/2026-12-11-amore-ag-x-vnv-with-fafi-
+ abdel-nour
+URL:https://rave.wien/e/2026-12-11-amore-ag-x-vnv-with-fafi-abdel-nour
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-flut-x-callshop-radio-week-50@rave.wien
+DTSTAMP:20261213T000000Z
+DTSTART;TZID=Europe/Vienna:20261213T140000
+DTEND;TZID=Europe/Vienna:20261213T200000
+SUMMARY:FLUT x Callshop Radio – Week 50
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Callshop Radio\, Spumante Records\nEintritt fre
+ i\n\nSonntags-DJ-Session der Reihe FLUT (FLUCC Transmitter) auf dem FLUC
+ C Deck\, 14:00–20:00\, Eintritt frei. FLUT entsteht in Kooperation mit
+  Callshop Radio und wird inzwischen von Spumante Records aus Wien kurati
+ ert\; gestreamt wird über Stream 2 von Callshop Radio. Während des Str
+ eams ist die Deck-Bar geöffnet\, das DJ-Lineup ist noch nicht angekünd
+ igt.\n\nhttps://rave.wien/e/2026-12-13-flut-x-callshop-radio-week-50
+URL:https://rave.wien/e/2026-12-13-flut-x-callshop-radio-week-50
+END:VEVENT
+END:VCALENDAR

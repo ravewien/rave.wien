@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DONAURAVE · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-29-morgengymnastik-donaurave@rave.wien
+DTSTAMP:20261129T000000Z
+DTSTART;TZID=Europe/Vienna:20261129T060000
+DTEND;TZID=Europe/Vienna:20261129T110000
+SUMMARY:Morgengymnastik × Donaurave
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:DONAURAVE\nVeranstalter: Morgengymnastik\nEintritt: 15 €\n\
+ nMorgengymnastik\, die Sonntags-Afterhour im SASS Music Club\, wird von 
+ 6 bis 11 Uhr von DONAURAVE (@donaurave.wien) übernommen. Der Eintritt b
+ eträgt 15 €. Alle SASS-Veranstaltungen werden von einem Awareness-Tea
+ m begleitet\; Einlass ab 18 mit Ausweis- und Taschenkontrolle.\n\nhttps:
+ //rave.wien/e/2026-11-29-morgengymnastik-donaurave
+URL:https://rave.wien/e/2026-11-29-morgengymnastik-donaurave
+END:VEVENT
+END:VCALENDAR

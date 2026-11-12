@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tonic Walter · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-02-tonic-walter-ii-tour-2026@rave.wien
+DTSTAMP:20261202T000000Z
+DTSTART;TZID=Europe/Vienna:20261202T200000
+DTEND;TZID=Europe/Vienna:20261203T010000
+SUMMARY:Tonic Walter – II Tour 2026
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Tonic Walter\n\nDas Duo Tonic Walter kommt mit seiner „II T
+ our 2026“ ins FLUCC und stellt dort sein zweites Album „II“ live v
+ or. Die Show verbindet Melodic House und Techno mit Live-Band-Elementen\
+ ; 2025 tourte das Duo u. a. mit Tycho und Fritz Kalkbrenner. Weitere Tou
+ rstopps sind Hamburg\, Berlin\, München und Köln. Beginn 20:00\; es ha
+ ndelt sich um ein Live-Konzert\, Support und Preis sind noch nicht bekan
+ nt.\n\nhttps://rave.wien/e/2026-12-02-tonic-walter-ii-tour-2026
+URL:https://rave.wien/e/2026-12-02-tonic-walter-ii-tour-2026
+END:VEVENT
+END:VCALENDAR

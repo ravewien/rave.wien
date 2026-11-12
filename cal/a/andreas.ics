@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Andreas · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-12-donnerstag-nacht-green-light-collective@rave.wien
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=Europe/Vienna:20261112T230000
+DTEND;TZID=Europe/Vienna:20261113T060000
+SUMMARY:Donnerstag Nacht × Green Light Collective
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Grenco\, Andreas\, Ian Staraj\, Andrija Mlacovic\nVeranstalte
+ r: Green Light Collective\nEintritt: 10–15 € / Studierende 0–5 €
+ \n\nDonnerstag Nacht im SASS Music Club mit dem kroatischen Green Light 
+ Collective\, 2023 als „Collective of the Year“ ausgezeichnet und fes
+ ter Bestandteil von Love International in Tisno\; zuvor ist das Kollekti
+ v bei Radio Rudina in Wien zu Gast. Co-Gründer und Produzent Grenco spi
+ elt nach der Energie des Raums statt nach festen Regeln\, Andreas aus Gr
+ az ist visueller Leiter des Kollektivs und für abenteuerliche Plattenau
+ swahl bekannt. Ian Staraj und Andrija Mlacovic treten gemeinsam als Duo 
+ Phonophobes in kroatischen Clubs auf. Eintritt regulär 10–15 €\, St
+ udierende 0–5 €\, jeweils inklusive Willkommensgetränk\; Awareness-
+ Team vor Ort\, Einlass ab 18 mit Ausweis- und Taschenkontrolle.\n\nhttps
+ ://rave.wien/e/2026-11-12-donnerstag-nacht-green-light-collective
+URL:https://rave.wien/e/2026-11-12-donnerstag-nacht-green-light-collective
+END:VEVENT
+END:VCALENDAR

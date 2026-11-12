@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Apua · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-15-morgengymnastik-with-redivider@rave.wien
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Vienna:20261115T060000
+DTEND;TZID=Europe/Vienna:20261115T110000
+SUMMARY:Morgengymnastik with Redivider
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Apua\, DJ Deadlift\nVeranstalter: Redivider\, Morgengymnastik
+ \nEintritt: 15 €\n\nMorgengymnastik-Session der Reihe Redivider im SAS
+ S Music Club\, Sonntagmorgen 6–11 Uhr. Redivider ist seit Jahren Teil 
+ der Wiener Clubszene und wechselt genreübergreifend zwischen verschiede
+ nen Sounds\, Räumen und Stimmungen. Eingeladen ist Apua: DJ\, Produzent
+  und Plattensammler\, seit über zehn Jahren in Österreichs Clubszene a
+ ktiv\, mit Releases auf Pager Records und seinem eigenen Label Kopf Bei 
+ Fuss\, Resident im Tante Emma Club und Mitgründer des Wiener Labels und
+  Partyformats VIE.W\; gemeinsam mit DJ Deadlift wird er als „Dream Duo
+ “ angekündigt. Eintritt 15 €\, ab 18 mit Ausweiskontrolle\; ein Awa
+ reness-Team ist vor Ort.\n\nhttps://rave.wien/e/2026-11-15-morgengymnast
+ ik-with-redivider
+URL:https://rave.wien/e/2026-11-15-morgengymnastik-with-redivider
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-redivider-pres-audrey-danza@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T230000
+DTEND;TZID=Europe/Vienna:20261213T040000
+SUMMARY:REDIVIDER pres. Audrey Danza
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Audrey Danza\, Apua\, DJ Deadlift\, Dreya\nVeranstalter: Redi
+ vider\n\nDie Wiener Techno-Reihe Redivider holt Audrey Danza ins PRST. D
+ ie Schweizer DJ ist mit Proxima und Motel Campo verbunden und spielt reg
+ elmäßig international\, u. a. in Turin und Köln. Dazu legen Apua\, DJ
+  Deadlift und Dreya aus dem Redivider-Umfeld auf\; laut Übersicht ist e
+ in weiterer Act noch nicht namentlich genannt. Beginn 23:00\; Preis\, En
+ de und Flyer sind noch offen.\n\nhttps://rave.wien/e/2026-12-12-redivide
+ r-pres-audrey-danza
+URL:https://rave.wien/e/2026-12-12-redivider-pres-audrey-danza
+END:VEVENT
+END:VCALENDAR

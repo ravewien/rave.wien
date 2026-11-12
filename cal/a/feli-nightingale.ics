@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Feli Nightingale · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-12-contrast-pres-dance-macabre-w-simula-enei-skantia@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T230000
+DTEND;TZID=Europe/Vienna:20261213T040000
+SUMMARY:Contrast pres. Dance Macabre w/ Simula + Enei + Skantia
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: Simula\, Enei\, Skantia\, En:vy\, Wingz\, Contrast
+  Residents\nKitchen (hosted by Feli Nightingale): Armin Hermann\, Rantom
+ \, Nikilist\, Softi\, Feli Nightingale\nVeranstalter: Contrast\n\nDie Wi
+ ener Drum-&-Bass-Reihe Contrast präsentiert in der Grelle Forelle eine 
+ „Dance Macabre“-Nacht\, benannt nach dem Label von Simula. Am Mainfl
+ oor spielen Simula (UK\, Critical Music / Dance Macabre)\, Enei (RU\, Cr
+ itical Music) und Skantia (UK\, Ram Records)\, dazu die in Wien aufgewac
+ hsenen En:vy (Critical Music\, Gemini Gemini\, Dial 1) und Wingz (Overvi
+ ew Music\, Gemini Gemini) sowie die Contrast Residents. Die Kitchen wird
+  von Feli Nightingale gehostet und bringt „Finest Techno / Trance“ m
+ it Armin Hermann\, Rantom\, Nikilist\, Softi und Feli Nightingale. Einla
+ ss und Abendkassa ab 23:00\, ab 18 mit Ausweis\; Vorverkauf über Eventb
+ rite\, Preise nennt die Location-Seite nicht.\n\nhttps://rave.wien/e/202
+ 6-12-12-contrast-pres-dance-macabre-w-simula-enei-skantia
+URL:https://rave.wien/e/2026-12-12-contrast-pres-dance-macabre-w-simula-e
+ nei-skantia
+END:VEVENT
+END:VCALENDAR

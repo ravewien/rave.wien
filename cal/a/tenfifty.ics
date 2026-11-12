@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TenFifty · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-20-glitch-vienna-001@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T235900
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:GLITCH Vienna 001
+LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
+DESCRIPTION:KΛSKIN\, TenFifty\nVeranstalter: GLITCH\n\nAuftakt der House
+ -Residency von GLITCH im Rhiz. GLITCH ist eine 2025 gegründete House-Ev
+ entreihe (Verein GLITCH)\, ursprünglich mit kleinen Off-Location-Partys
+  in Kärnten. Es spielen KΛSKIN\, laut Veranstalter eines der ersten In
+ die-Dance-Projekte Österreichs (aus Villach\, auch in Wien aktiv)\, und
+  das GLITCH-Resident-Tech-House-Projekt TenFifty (Grafenauer & KΛSKIN\,
+  Wien-Margareten). Weitere Acts sind angekündigt.\n\nhttps://rave.wien/
+ e/2026-11-20-glitch-vienna-001
+URL:https://rave.wien/e/2026-11-20-glitch-vienna-001
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-glitch-vienna-pres-stef-davidse@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T230000
+DTEND;TZID=Europe/Vienna:20261208T040000
+SUMMARY:GLITCH Vienna pres. Stef Davidse
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Stef Davidse\, TenFifty\, LLo\nVeranstalter: GLITCH\, Resonan
+ ce Social Artists\nEintritt: 7–15 €\n\nNach kleinen Off-Location-Par
+ tys in Kärnten bringt GLITCH sein bisher größtes Event nach Wien: Hea
+ dliner ist der Niederländer Stef Davidse (Eastenderz). Dazu spielen GLI
+ TCH-Resident Tenfifty und LLo (IT) von Resonance Social Artists aus Mail
+ and. Ein Raum\, ein Dancefloor\, House-Musik. Die Loft-Website nennt als
+  Termin Montag\, 7.12.2026\, mit der offensichtlichen Platzhalter-Uhrzei
+ t 00:23\; Beginn und genaue Nacht sind daher noch unklar.\n\nhttps://rav
+ e.wien/e/2026-12-07-glitch-vienna-pres-stef-davidse
+URL:https://rave.wien/e/2026-12-07-glitch-vienna-pres-stef-davidse
+END:VEVENT
+END:VCALENDAR

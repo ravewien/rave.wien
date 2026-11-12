@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ARX · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-03-fifi-rave@rave.wien
+DTSTAMP:20261203T000000Z
+DTSTART;TZID=Europe/Vienna:20261203T233000
+DTEND;TZID=Europe/Vienna:20261204T050000
+SUMMARY:FIFI RAVE
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:ARX\, Adam19\, Dunik\, Michkx\nVeranstalter: Fifi\nEintritt f
+ rei\n\nFIFI RAVE kehrt für eine weitere Hardgroove-Nacht in den Kramlad
+ en zurück („Hardgroove All Night“). Laut Timetable eröffnet ARX um
+  00:00\, ab 01:30 spielt Adam19\, ab 03:00 folgen Dunik und Michkx back 
+ to back. Einlass ab 23:30\, Ende 05:00\, Eintritt frei\, ab 18\; RA tagg
+ t Techno und Minimal Techno.\n\nhttps://rave.wien/e/2026-12-03-fifi-rave
+URL:https://rave.wien/e/2026-12-03-fifi-rave
+END:VEVENT
+END:VCALENDAR

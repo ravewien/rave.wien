@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PRST · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-12-donnerstrada@rave.wien
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=Europe/Vienna:20261112T230000
+DTEND;TZID=Europe/Vienna:20261113T040000
+SUMMARY:Donnerstrada
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Housefrau\, Zunidani\nVeranstalter: Donnerstrada\nEintritt fr
+ ei\n\nDonnerstrada ist die Donnerstagsreihe in der PRST (Club Praterstra
+ ße)\, angekündigt mit freiem Eintritt die ganze Nacht. Es legen Housef
+ rau und Zunidani auf. Freytag führt den Abend unter Party und Techno\; 
+ ein ausführlicher Beschreibungstext wurde nicht veröffentlicht.\n\nhtt
+ ps://rave.wien/e/2026-11-12-donnerstrada
+URL:https://rave.wien/e/2026-11-12-donnerstrada
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-voyage-with-carl-h@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T060000
+SUMMARY:VOYAGE with Carl H
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Carl H\, Clem Vital\, Randalia\nVeranstalter: Frieden & Liebe
+ \, VNV\nEintritt: 17\,61 €\n\nZweite Ausgabe von VOYAGE im PRST: eine 
+ Nacht mit ungewöhnlichen\, psychedelischen Raritäten und progressiven 
+ Rhythmen. Headliner ist Carl H (Acid Operators)\, Labelchef von Animals 
+ on Psychedelics\, der in Europa\, Asien und Amerika aufgelegt hat\; dazu
+  spielt Randalia (Clem Vital). Erwartet werden progressive Kuriositäten
+ \, trance-inspirierte Fundstücke und genreübergreifende Dancefloor-Mus
+ ik. RA taggt House. Beginn 23:00\, Ende 06:00\, 17\,61 € (Tickets übe
+ r Eventfrog)\, ab 21. Hinweis: Freytag und Techno Airlines führen den A
+ bend inzwischen am Freitag\, 13.11. (statt 14.11.)\; veranstaltet von Fr
+ ieden & Liebe und VNV.\n\nhttps://rave.wien/e/2026-11-13-voyage-with-car
+ l-h
+URL:https://rave.wien/e/2026-11-13-voyage-with-carl-h
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-radio-rudina@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T230000
+DTEND;TZID=Europe/Vienna:20261115T060000
+SUMMARY:Radio Rudina
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Andre Zimmer\, Anni Herzer\, Valentin Zelz\nVeranstalter: Rad
+ io Rudina\nEintritt: 13–14 € (Early Bird 13 €)\n\nRadio Rudina lä
+ dt in den PRST in der Praterstraße\; laut radiorudina.com unter dem Mot
+ to „Radio Rudina invites Fiesta Frizzante“. Es spielen Andre Zimmer\
+ , Anni Herzer und Valentin Zelz (auf radiorudina.com „Valentin Zell“
+ )\, RA taggt das Event als House. Beginn 23:00\, Ende 06:00. Early-Bird-
+ Tickets 13 € über ticket.io\, RA nennt 14 €. RA gibt als Mindestalt
+ er 20+ an.\n\nhttps://rave.wien/e/2026-11-14-radio-rudina
+URL:https://rave.wien/e/2026-11-14-radio-rudina
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-anna-ullrich-pres-achterbahn@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Anna Ullrich pres. Achterbahn
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Anna Ullrich\, NO ONE\, Armin Hermann\, Aleta\nVeranstalter: 
+ Achterbahn\nEintritt: 15–18 € (Early Bird 15 €\, Regular 18 €)\n
+ \nDie Wiener DJ und Produzentin Anna Ullrich präsentiert eine Ausgabe d
+ er Reihe Achterbahn im PRST. Anna Ullrich verbindet 90er-inspirierten Tr
+ ance mit minimalistischem Techno und spielte u. a. im PRST\, Club Exil\,
+  in der Grelle Forelle\, im SASS und beim Reeperbahn Festival. Weitere A
+ cts\, Endzeit und Mindestalter nennt der PRST-Ticketshop noch nicht. Beg
+ inn 23:00\, Tickets 15 € (Early Bird) bzw. 18 € (Regular) über prst
+ .ticket.io.\n\nhttps://rave.wien/e/2026-11-20-anna-ullrich-pres-achterba
+ hn
+URL:https://rave.wien/e/2026-11-20-anna-ullrich-pres-achterbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-party-modern-prst-station-rose@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T230000
+DTEND;TZID=Europe/Vienna:20261128T060000
+SUMMARY:Party Modern × PRST: Station Rose
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Stipo\, Station Rose\, Konman\, Julia Goldfarb\nVeranstalter:
+  Wien Modern\nEintritt: €12–15 (€5 mit Festivalpass)\n\nPRST-Produ
+ ktion in Koproduktion mit Wien Modern. Zusätzlich gelistet: „Gunafa C
+ lubbing // Nature Is Cool AI 1126 (UA)“. Nicht im PRST-Ticketshop.\n\n
+ https://rave.wien/e/2026-11-27-party-modern-prst-station-rose
+URL:https://rave.wien/e/2026-11-27-party-modern-prst-station-rose
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-red-groove-social-club-with-nick-curly@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T230000
+DTEND;TZID=Europe/Vienna:20261129T040000
+SUMMARY:RED GROOVE (Social Club) with Nick Curly
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Nick Curly\, KILL.DB\, RED GROOVE SYSTEM\nVeranstalter: Red G
+ roove Social Club\n\nDie PRST-Reihe Red Groove (Social Club) für House 
+ und Disco holt Nick Curly zurück in die Praterstraße. Der deutsche DJ 
+ und Produzent zählt seit seinem Durchbruch 2008 zu den bekannten Namen 
+ im modernen House und veröffentlichte u. a. auf Cocoon\, Akbal Music un
+ d Cécille. Techno Airlines führt den Abend ab 23:00\; weitere Acts\, P
+ reis und Tickets sind noch nicht bekannt.\n\nhttps://rave.wien/e/2026-11
+ -28-red-groove-social-club-with-nick-curly
+URL:https://rave.wien/e/2026-11-28-red-groove-social-club-with-nick-curly
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-blur-with-doudou-md@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T040000
+SUMMARY:BLUR with Doudou MD
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Doudou MD\, Chris Freud\, David Radi\, Matthias Kaiser\nVeran
+ stalter: BLUR\n\nAusgabe der Reihe BLUR im PRST mit Doudou MD als Gast\,
+  Beginn 23:00. Außerdem stehen Chris Freud\, David Radi und Matthias Ka
+ iser im Lineup. Bisher nur über die Monatsliste von Techno Airlines bel
+ egt\; Preis\, Ende und Ticketlink sind noch offen.\n\nhttps://rave.wien/
+ e/2026-12-04-blur-with-doudou-md
+URL:https://rave.wien/e/2026-12-04-blur-with-doudou-md
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-cybertribe-11-years-w-dbbd@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T230000
+DTEND;TZID=Europe/Vienna:20261208T060000
+SUMMARY:Cybertribe 11 Years w/ DBBD
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DBBD\, Who is Ela¿\, AVO2X\, ENJA\, Spud Bencer\, DJ Backsta
+ ge\nVeranstalter: Cybertribe\nEintritt: 12 €\n\nCybertribe feiert elf 
+ Jahre und kommt zum dritten Mal ins PRST – in der Nacht vor dem Feiert
+ ag (8. Dezember). Headliner ist der Berliner Produzent DBBD\, ein Pionie
+ r des „Slut Bass“ mit dreckigen Basslines\, eingängigen Synth-Melod
+ ien und oft frechen weiblichen Vocals\; seine DJ-Sets mischen energiegel
+ aden Techno mit eigenen Produktionen. Dazu spielen Who is Ela¿ (Residen
+ t bei Soundlabs) sowie die Cybertribe-Residents AVO2X\, ENJA\, Spud Benc
+ er und DJ Backstage. RA nennt Trance und Techno\, 23:00–06:00\, Ticket
+ s 12 € (limitiert\, über Universe)\, ab 18. Cybertribe versteht den F
+ loor als sicheren\, inklusiven Raum gegen Rassismus\, Sexismus\, Homo- u
+ nd Transphobie\, Antisemitismus\, Ableismus und jede Diskriminierung.\n\
+ nhttps://rave.wien/e/2026-12-07-cybertribe-11-years-w-dbbd
+URL:https://rave.wien/e/2026-12-07-cybertribe-11-years-w-dbbd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-redivider-pres-audrey-danza@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T230000
+DTEND;TZID=Europe/Vienna:20261213T040000
+SUMMARY:REDIVIDER pres. Audrey Danza
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Audrey Danza\, Apua\, DJ Deadlift\, Dreya\nVeranstalter: Redi
+ vider\n\nDie Wiener Techno-Reihe Redivider holt Audrey Danza ins PRST. D
+ ie Schweizer DJ ist mit Proxima und Motel Campo verbunden und spielt reg
+ elmäßig international\, u. a. in Turin und Köln. Dazu legen Apua\, DJ
+  Deadlift und Dreya aus dem Redivider-Umfeld auf\; laut Übersicht ist e
+ in weiterer Act noch nicht namentlich genannt. Beginn 23:00\; Preis\, En
+ de und Flyer sind noch offen.\n\nhttps://rave.wien/e/2026-12-12-redivide
+ r-pres-audrey-danza
+URL:https://rave.wien/e/2026-12-12-redivider-pres-audrey-danza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-prst-invites-the-trip@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T230000
+DTEND;TZID=Europe/Vienna:20261219T040000
+SUMMARY:PRST invites The Trip
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:The Trip\nEintritt: Early Bird 12 €\n\nDie PRST holt im Rah
+ men ihrer Reihe „PRST invites“ The Trip in den Club in der Praterstr
+ aße\; The Trip war bereits im Februar 2026 Gast einer gleichnamigen Nac
+ ht. Beginn ist um 23 Uhr. Im PRST-Ticketshop sind bisher nur Early-Bird-
+ Tickets zu 12 € erhältlich\; weitere Acts\, Ende und Beschreibung sin
+ d noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-18-prst-inv
+ ites-the-trip
+URL:https://rave.wien/e/2026-12-18-prst-invites-the-trip
+END:VEVENT
+END:VCALENDAR

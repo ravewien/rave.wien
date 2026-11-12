@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kollektiv Birdhouse · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-04-empyreon-vol-iv@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T220000
+DTEND;TZID=Europe/Vienna:20261205T030000
+SUMMARY:Empyreon – Vol. IV
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Robert Maslach\, Fede Frostl\, The Wash\, Edictum\nVeranstalt
+ er: Empyreon\, Kollektiv Birdhouse\nEintritt: Freie Spende\n\nVierte Aus
+ gabe von Empyreon im Wohnzimmer des Loft: Gastgeber Kollektiv Birdhouse 
+ will in Wien eine Progressive-House-Underground-Szene aufbauen und setzt
+  auf ein internationales Lineup und DJ-Handwerk. Die Sets sind als Bogen
+  geplant – von deepen Grooves über treibende\, melodische und emotion
+ ale Sounds bis zu dunklen\, technoiden\, hypnotischen Rhythmen. Es spiel
+ en Robert Maslach\, Fede Fröstl\, The Wash und Edictum (Edictum war sch
+ on bei Vol. III dabei)\; Set-Zeiten sind noch nicht veröffentlicht. Ein
+ tritt gegen freie Spende.\n\nhttps://rave.wien/e/2026-12-04-empyreon-vol
+ -iv
+URL:https://rave.wien/e/2026-12-04-empyreon-vol-iv
+END:VEVENT
+END:VCALENDAR

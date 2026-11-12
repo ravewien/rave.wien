@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Club U · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-13-10-years-of-publegenden-feat-b-rt@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T220000
+DTEND;TZID=Europe/Vienna:20261114T030000
+SUMMARY:10 Years of Publegenden feat. BØRT
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:Børt\, Dubsburg Soundsystem\nVeranstalter: Publegenden\nEint
+ ritt frei\n\nDie Reihe Publegenden feiert im Club U ihr zehnjähriges Be
+ stehen\; als Gast ist Børt angekündigt. Techno Airlines führt den Abe
+ nd als Clubnacht in seinem Techno-Kalender ab 22:00 und verlinkt für Ti
+ ckets auf Resident Advisor. Weitere Acts\, Endzeit\, Preis und Mindestal
+ ter sind nicht veröffentlicht\; die RA-Seite war nicht abrufbar.\n\nhtt
+ ps://rave.wien/e/2026-11-13-10-years-of-publegenden-feat-b-rt
+URL:https://rave.wien/e/2026-11-13-10-years-of-publegenden-feat-b-rt
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-fluffig-punschabend@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T180000
+DTEND;TZID=Europe/Vienna:20261120T220000
+SUMMARY:Fluffig – Punschabend
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:DizzyDray\, Anna Ullrich\, Rosa Rosen\, TAUSEND2Ø\nVeranstal
+ ter: Fluffig\n\nPunschabend der Wiener Reihe Fluffig im Club U am Karlsp
+ latz\, mit frühem Beginn um 18:00. Es spielen DizzyDray\, Anna Ullrich 
+ (Techno\, Bounce\, Trance)\, Rosa Rosen und TAUSEND2Ø. Endzeit\, Eintri
+ tt und Flyer sind noch nicht bekannt.\n\nhttps://rave.wien/e/2026-11-20-
+ fluffig-punschabend
+URL:https://rave.wien/e/2026-11-20-fluffig-punschabend
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-du-tanzt-mich-mal-winter-open-air-punsch-rave-ope@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T160000
+DTEND;TZID=Europe/Vienna:20261121T220000
+SUMMARY:Du Tanzt Mich Mal – Winter Open Air: Punsch Rave (Opening)
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:Duplikate\, Adrian Tronic\, Manu Script\nVeranstalter: Du Tan
+ zt Mich Mal\nEintritt: 10 €\n\nAuftakt der Winter-Open-Air-Reihe „Pu
+ nsch Rave“ von Du Tanzt Mich Mal am Karlsplatz beim Club U: Open-Air-R
+ ave von 16 bis 22 Uhr mit Minimal\, House und Techno auf dem Lambda-Labs
+ -Soundsystem\, dazu Punsch\, Glühwein und Tacos von Tacos Hermanos. Es 
+ spielen Duplikate\, Adrian Tronic und Manu Script.\n\nhttps://rave.wien/
+ e/2026-11-21-du-tanzt-mich-mal-winter-open-air-punsch-rave-ope
+URL:https://rave.wien/e/2026-11-21-du-tanzt-mich-mal-winter-open-air-puns
+ ch-rave-ope
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-du-tanzt-mich-mal-winter-open-air-punsch-rave-day@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T160000
+DTEND;TZID=Europe/Vienna:20261206T040000
+SUMMARY:Du Tanzt Mich Mal – Winter Open Air: Punsch Rave (Day & Night)
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:Veranstalter: Du Tanzt Mich Mal\nEintritt: 15 €\n\nDay & Ni
+ ght-Ausgabe der Winter-Open-Air-Reihe „Punsch Rave“ von Du Tanzt Mic
+ h Mal: ab 16 Uhr Open Air am Karlsplatz\, danach drinnen im Club U bis 4
+  Uhr – zwei Floors mit Minimal\, House und Techno auf dem Lambda-Labs-
+ Soundsystem\, dazu Punsch\, Glühwein und Tacos von Tacos Hermanos. Line
+ up noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-05-du-tanz
+ t-mich-mal-winter-open-air-punsch-rave-day
+URL:https://rave.wien/e/2026-12-05-du-tanzt-mich-mal-winter-open-air-puns
+ ch-rave-day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-du-tanzt-mich-mal-winter-open-air-punsch-rave@rave.wien
+DTSTAMP:20261219T000000Z
+DTSTART;TZID=Europe/Vienna:20261219T160000
+DTEND;TZID=Europe/Vienna:20261219T220000
+SUMMARY:Du Tanzt Mich Mal – Winter Open Air: Punsch Rave
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:Veranstalter: Du Tanzt Mich Mal\nEintritt: 10 €\n\nLetzte A
+ usgabe der Winter-Open-Air-Reihe „Punsch Rave“ von Du Tanzt Mich Mal
+  vor Weihnachten: Open-Air-Rave am Karlsplatz beim Club U von 16 bis 22 
+ Uhr mit Minimal\, House und Techno auf dem Lambda-Labs-Soundsystem\, daz
+ u Punsch\, Glühwein und Tacos von Tacos Hermanos. Lineup noch nicht ver
+ öffentlicht.\n\nhttps://rave.wien/e/2026-12-19-du-tanzt-mich-mal-winter
+ -open-air-punsch-rave
+URL:https://rave.wien/e/2026-12-19-du-tanzt-mich-mal-winter-open-air-puns
+ ch-rave
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Taktgefühl · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-11-taktgefuhl-vol-2@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T233000
+DTEND;TZID=Europe/Vienna:20261212T050000
+SUMMARY:TAKTGEFÜHL Vol. 2
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:KWEEN BEE\, Chiara Allnutt\, L.O.S.S.\nVeranstalter: Taktgef
+ ühl\nEintritt: 12–15 €\n\nZweite Ausgabe der Reihe TAKTGEFÜHL im C
+ lub Lucia\, zwischen Groove\, Techno und Trance. KWEEN BEE spielt schnel
+ len Techno mit funkigen Elementen\, Chiara Allnutt groovigen\, uptempo T
+ echno. L.O.S.S. bringt eine Sammlung alter Trance-CDs mit.\n\nhttps://ra
+ ve.wien/e/2026-12-11-taktgefuhl-vol-2
+URL:https://rave.wien/e/2026-12-11-taktgefuhl-vol-2
+END:VEVENT
+END:VCALENDAR

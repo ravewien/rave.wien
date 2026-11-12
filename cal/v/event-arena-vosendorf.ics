@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Event Arena Vösendorf · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-07-hardline-cold-war-a-winter-special@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T210000
+DTEND;TZID=Europe/Vienna:20261208T020000
+SUMMARY:HARDLINE: COLD WAR – A Winter Special
+LOCATION:Event Arena Vösendorf\, Marktstraße 13a\, 2331 Vösendorf Wien
+DESCRIPTION:Main Floor: Yoshiko\, Lekkerfaces\, 99PRBLMZ\, Another Dimens
+ ion vs Reflexx\, Meltdown\, Peygan\, Poley Tight\, Sonic Warfare\, Unico
+ rn on K\nThe Tunnel: 2 Facez\, Active Elementz\, Delighted\, Monch\, Pab
+ lo Morello\, Sonic Warfare\nMachine Room: Cryoonix vs STXRLI\, Eternal I
+ njustice\, Fractured Souls\, Humanforce\, Likeflow\, Nightcrawler\, Raw 
+ Kickzz\, Recovered\nVeranstalter: Hardline\nEintritt: 29\,90–34\,90 
+ € (je nach Phase)\, VIP 49\,90 €\n\nNach der Halloween-„Purge Nigh
+ t“ kommt Hardline am Abend vor dem Feiertag (8.12.) zurück in die Eve
+ nt Arena Vösendorf: drei Areas mit Hardstyle\, Rawstyle\, Hardcore\, Up
+ tempo und Gabber. Auf dem Main Floor spielen u. a. Yoshiko\, Lekkerfaces
+  und 99PRBLMZ\, im Tunnel 2 Facez und Active Elementz\, im Machine Room 
+ u. a. Cryoonix vs STXRLI und Eternal Injustice.\n\nhttps://rave.wien/e/2
+ 026-12-07-hardline-cold-war-a-winter-special
+URL:https://rave.wien/e/2026-12-07-hardline-cold-war-a-winter-special
+END:VEVENT
+END:VCALENDAR

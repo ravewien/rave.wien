@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dj Ritual Spirit · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-21-lost-or-unreachable@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T230000
+DTEND;TZID=Europe/Vienna:20261122T060000
+SUMMARY:lost or unreachable
+LOCATION:The Inner Circle\, Altmannsdorfer Straße 144\, 1230 Wien
+DESCRIPTION:Main: chris deeper\, Dj Ritual Spirit\, 403Vorbidden\, Mike M
+ ystik\nZWISCHEN: Edictum\, Elex Red\nEintritt: 13 €\n\nClubnacht im In
+ ner Circle in Liesing (laut eigener Angabe „einziger Underground-Techn
+ o-Club Wiens“\, nur für Mitglieder – Registrierung über enter.thei
+ nnercircle.at). Main: Resident chris deeper (Melancholic & Deep Techno\,
+  23–1 Uhr)\, Dj Ritual Spirit (Tribal und Oldschool Techno\, 1–2:45)
+ \, 403Vorbidden (Techno\, Hard Techno\, Industrial\, 2:45–4:30) und Re
+ sident Mike Mystik (Techno\, Hypnotic Techno\, 4:30–6 Uhr). Im ZWISCHE
+ N:RAUM spielen ab 23:45 Edictum (Vinyl\; Progressive\, Synthwave) und Re
+ sident Elex Red (Tech House\, Deep House\, Electronica)\; die Aufteilung
+  der Floors ist auf RA nicht ganz eindeutig. Dazu Crêpes und Galettes\,
+  kleine Verkaufsstände\, Leuchtfeder-Badminton\, Retro-Games und bei gu
+ tem Wetter Lagerfeuer im Garten. Eintritt 13 €.\n\nhttps://rave.wien/e
+ /2026-11-21-lost-or-unreachable
+URL:https://rave.wien/e/2026-11-21-lost-or-unreachable
+END:VEVENT
+END:VCALENDAR

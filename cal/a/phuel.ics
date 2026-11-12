@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PHUEL · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-21-bass-cave-drum-and-bass-w-unonessuno-m-pathy@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T210000
+DTEND;TZID=Europe/Vienna:20261122T020000
+SUMMARY:Bass Cave – Drum and Bass w/ UNONESSUNO & M:PATHY
+LOCATION:Einbaumöbel\, Währinger Gürtel\, Stadtbahnbogen 97\, 1090 Wien
+DESCRIPTION:UNONESSUNO\, M:Pathy\, DAKINDL\, ROONY\, DI GELLNER\, PHUEL\,
+  VAL\nVeranstalter: Bass Cave\nEintritt: Freie Spende\n\nDie Drum-and-Ba
+ ss-Reihe Bass Cave lädt in den Kulturverein Einbaumöbel (1bm) im Gürt
+ elbogen 97. Headliner sind UNONESSUNO b2b M:PATHY\, zwei Mitglieder des 
+ Wiener Drum-and-Bass-Kollektivs Drumworks. DAKINDL (Shake it and Break i
+ t) spielt ein Vinyl-Set\, die Bass-Cave-Residents ROONY b2b DI GELLNER u
+ nd PHUEL b2b VAL runden den Abend ab. Angekündigt als Abend mit zukunft
+ sorientiertem Drum and Bass\; Eintritt gegen freie Spende\, Beginn 21:00
+ .\n\nhttps://rave.wien/e/2026-11-21-bass-cave-drum-and-bass-w-unonessuno
+ -m-pathy
+URL:https://rave.wien/e/2026-11-21-bass-cave-drum-and-bass-w-unonessuno-m
+ -pathy
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,224 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Club Lucia · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-11-kostlich-x-gurtelgroove@rave.wien
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Vienna:20261111T210000
+DTEND;TZID=Europe/Vienna:20261112T040000
+SUMMARY:Köstlich x Gürtelgroove
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:POSTSCRIPTUM\, FESH\, Adam19\, Antone\, Dudas\, Chris Eru\, M
+ ahofsky\nVeranstalter: Köstlich\, Gürtelgroove\nEintritt: free (Spende
+ n willkommen)\n\nDie Kollektive Köstlich und Gürtelgroove teilen sich 
+ einen Mittwochabend im Club Lucia\, angekündigt als Nacht voller Groove
+  und Rhythmus mit UKG\, Hardgroove und Techno. Von Köstlich spielen POS
+ TSCRIPTUM\, FESH sowie Chris Eru b2b Mahofsky\, von Gürtelgroove Antone
+  b2b Dudas. Dazu kommt Adam19 vom Kollektiv FIFI. Der Eintritt ist frei\
+ , Spenden sind willkommen. Die Veranstalter halten fest: kein Platz für
+  Rassismus\, Sexismus\, Faschismus oder andere Formen von Hass und Gewal
+ t.\n\nhttps://rave.wien/e/2026-11-11-kostlich-x-gurtelgroove
+URL:https://rave.wien/e/2026-11-11-kostlich-x-gurtelgroove
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-drum-bassick-x-radiance@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T235500
+DTEND;TZID=Europe/Vienna:20261114T050000
+SUMMARY:Drum & Bassick x Radiance
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Dave & Bass\, Cybercutz\, Escapism\, I-Jin\, Synthesis\, Vibr
+ ant\nVeranstalter: Drum & Bassick\, Radiance\nEintritt: 10 € (AK)\n\nD
+ ie Reihen Drum & Bassick und Radiance tun sich im Club Lucia zusammen\, 
+ um das ganze Spektrum von Drum & Bass auf einen Floor zu bringen. Sechs 
+ lokale DJs decken alles von Neurofunk bis Liquid ab: Dave & Bass b2b Cyb
+ ercutz\, Escapism\, I-Jin\, Synthesis und Vibrant. Angekündigt ist auß
+ erdem ein B2B\, das „no one’s ever done before“\, Details verraten
+  die Veranstalter nicht. Beginn 23:55\, Ende 05:00\, Eintritt 10 € an 
+ der Abendkasse.\n\nhttps://rave.wien/e/2026-11-13-drum-bassick-x-radianc
+ e
+URL:https://rave.wien/e/2026-11-13-drum-bassick-x-radiance
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-raqsouna-invites-gaouta@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T233000
+DTEND;TZID=Europe/Vienna:20261115T040000
+SUMMARY:Raqsouna invites Gaouta
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Gaouta\, Qamareen\, Abu Naima\nVeranstalter: Raqsouna\nEintri
+ tt: Early Bird 10 € / VVK 12 € / AK 15 € / Community-Ticket auf An
+ frage\n\nLetzte Raqsouna-Ausgabe des Jahres im Club Lucia\, unterstützt
+  von Stadt Wien Kultur (MA7). Live spielt Gaouta\, ein marokkanischer Mu
+ siker an Drums\, Gitarre\, Synths und Gesang\, der Post-Punk\, New Wave 
+ und 80er-Sounds mit Darija verbindet. Dazu legen die Residents auf: Qama
+ reen (auch Luna Al-Mousli) mit SWANA-Pop\, Indie und Elektronik sowie Ab
+ u Naima\, der von Hip-Hop-Wurzeln und arabischer Musik der 1970er bis zu
+  aktueller basslastiger Clubmusik spielt.\n\nhttps://rave.wien/e/2026-11
+ -14-raqsouna-invites-gaouta
+URL:https://rave.wien/e/2026-11-14-raqsouna-invites-gaouta
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-schall-schabernack@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T235900
+DTEND;TZID=Europe/Vienna:20261121T050000
+SUMMARY:Schall & Schabernack
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:L!KA\, Laerm\, bobbyyxjohnson\, PAUNA\nVeranstalter: Schall &
+  Schabernack\nEintritt: 8 € (AK)\n\nClubnacht der Reihe Schall & Schab
+ ernack im Club Lucia unter dem Motto „Nur bis 5 aber keine Polizei“:
+  Die Wälder sind still und die Nächte länger\, doch die Lust auf trei
+ bende Basslines kennt keine Jahreszeit. Lokale DJs spielen ausgewählten
+  Hard Groove und Techno. L!KA eröffnet (23:59–01:30)\, dann Laerm b2b
+  bobbyyxjohnson (Instagram-Name\, 01:30–03:30)\, zum Schluss die Wiene
+ r Techno-DJ PAUNA (03:30–05:00)\, Kernmitglied von RAW SESSION und Mit
+ gründerin von ALERT[A]. Eintritt 8 € an der Abendkassa\, Ende 5 Uhr.\
+ n\nhttps://rave.wien/e/2026-11-20-schall-schabernack
+URL:https://rave.wien/e/2026-11-20-schall-schabernack
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-kleingeld-kollektiv-klubnacht@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T235900
+DTEND;TZID=Europe/Vienna:20261122T050000
+SUMMARY:Kleingeld Kollektiv Klubnacht
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Telicho\, Artifex\, Frankee\, Acula\, Dijay Qualle\nVeranstal
+ ter: Kleingeld Kollektiv\nEintritt: 7 € (AK)\n\nDas Kleingeld Kollekti
+ v\, eine Wiener Techno-Crew aus vier Freunden\, die mit günstigen Party
+ s und guter Musik begann und sich in rund einem Jahr einen Namen im leis
+ tbaren Underground-Nachtleben gemacht hat\, ist zum ersten Mal im Club L
+ ucia. Headliner ist Telicho\, bekannte Wiener Produzentin und DJ mit roh
+ em\, hypnotischem Techno und zentrale Figur der lokalen Szene. Artifex v
+ erbindet in seinen Sets House und Techno und ist in Deutschland und Öst
+ erreich bekannt\, Frankee spielt treibenden Progressive House ausschlie
+ ßlich auf Vinyl. Die Veranstalter Acula und Dijay Qualle ergänzen mit 
+ hypnotischen Sounds. Beginn 23:59\, Ende 05:00\, Eintritt 7 € an der A
+ bendkasse.\n\nhttps://rave.wien/e/2026-11-21-kleingeld-kollektiv-klubnac
+ ht
+URL:https://rave.wien/e/2026-11-21-kleingeld-kollektiv-klubnacht
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-qualia@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T235900
+DTEND;TZID=Europe/Vienna:20261128T050000
+SUMMARY:Qualia
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Harry Knaypp\, Polo\nVeranstalter: Qualia\nEintritt: 10 € (
+ Abendkasse)\n\nClubnacht der Reihe Qualia (Instagram: qualia.series) im 
+ Club Lucia in den Gürtelbögen. An den Decks stehen Harry Knaypp und Po
+ lo. Die Eventseite nennt keinen Beschreibungstext und keine Genres. Eint
+ ritt 10 € an der Abendkasse.\n\nhttps://rave.wien/e/2026-11-27-qualia
+URL:https://rave.wien/e/2026-11-27-qualia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-citruscue-presents-coido-wingz@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T235900
+DTEND;TZID=Europe/Vienna:20261129T050000
+SUMMARY:CitrusCue presents COIDO & Wingz
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:COIDO\, Wingz\, yarx\, vazov\, fejv\nVeranstalter: CitrusCue\
+ nEintritt: 12–15 €\n\nCitrusCue kehrt für eine Bass-Music-Nacht von
+  tiefen\, atmosphärischen Klängen bis zu schwerer\, groovelastiger Clu
+ bmusik in den Club Lucia zurück. Headliner COIDO verbindet futuristisch
+  Techno\, Breakbeat\, Jersey Club und globale Grooves. Wingz aus Wien sp
+ ielt präzisen\, atmosphärischen Drum & Bass. Lokale Unterstützung: ya
+ rx (Dubstep\, Grime\, Footwork\, dekonstruierte Rhythmen)\, fejv (UK Bas
+ s von klassisch bis experimentell) und vazov (früher Subcurrent\; schne
+ ller\, hypnotischer Techno mit viel Tiefbass).\n\nhttps://rave.wien/e/20
+ 26-11-28-citruscue-presents-coido-wingz
+URL:https://rave.wien/e/2026-11-28-citruscue-presents-coido-wingz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-30-harmont-live-with-a-phan-frnrke@rave.wien
+DTSTAMP:20261130T000000Z
+DTSTART;TZID=Europe/Vienna:20261130T190000
+DTEND;TZID=Europe/Vienna:20261130T230000
+SUMMARY:Harmont Live with A_Phan & FRNRKE
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Harmont\, A_Phan\, FRNRKE\nEintritt: 15 €\n\nLive-Abend im 
+ Club Lucia: Harmont ist ein Electronica-Jazz-Duo aus dem Raum Wien (Konr
+ ad Milan\, Andreas Moser) mit filmischer\, genreübergreifender Musik\, 
+ beeinflusst von The Cinematic Orchestra\, Ólafur Arnalds und Portico Qu
+ artet. A_Phan & FRNRKE sind ein Wiener Künstlerduo zwischen elektronisc
+ hem Minimalismus und Alternative Pop\; live kombinieren sie Gesang mit M
+ odularsynthesizern\, ihr Debütalbum „7Y“ erschien im November 2025.
+  Beginn 19:00\, Ende 23:00.\n\nhttps://rave.wien/e/2026-11-30-harmont-li
+ ve-with-a-phan-frnrke
+URL:https://rave.wien/e/2026-11-30-harmont-live-with-a-phan-frnrke
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-discordia@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T234500
+DTEND;TZID=Europe/Vienna:20261205T044500
+SUMMARY:DISCORDIA
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Veranstalter: Discordia\nEintritt: ab 7 €\n\nClubnacht DISC
+ ORDIA im Club Lucia ab 23:30\, gelistet auf der Club-Lucia-Seite von Tec
+ hno Airlines. Lineup\, Eintritt und weitere Details sind noch nicht ver
+ öffentlicht.\n\nhttps://rave.wien/e/2026-12-04-discordia
+URL:https://rave.wien/e/2026-12-04-discordia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-krampus-rave-by-krawall@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T220000
+DTEND;TZID=Europe/Vienna:20261206T050000
+SUMMARY:KRAMPUS RAVE by KRAWALL
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:TONKS\, maro\, Elyante\, Schana\, Kippenhaus\, Jokkel\, Evi B
+ \, DJ Hueftschwung\nVeranstalter: KRAWALL\nEintritt: 10 €\n\nDas Köln
+ er Kollektiv KRAWALL gibt mit dem Krampus Rave sein internationales Deb
+ üt im Club Lucia und bringt seine komplette Kölner Resident-Crew (Elya
+ nte\, Schana\, Kippenhaus\, Jokkel\, Evi B\, DJ Hueftschwung) nach Wien.
+  Anlass sind vier Jahre KRAWALL-Partys mit elektronischer Musik. Als Hea
+ dliner bzw. lokale Unterstützung sind TONKS und maro angekündigt. Mott
+ o: „Cologne meets Vienna. Same energy. New city.“ Laut RA Trance und
+  Techno\, ab 18 Jahren.\n\nhttps://rave.wien/e/2026-12-05-krampus-rave-b
+ y-krawall
+URL:https://rave.wien/e/2026-12-05-krampus-rave-by-krawall
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-taktgefuhl-vol-2@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T233000
+DTEND;TZID=Europe/Vienna:20261212T050000
+SUMMARY:TAKTGEFÜHL Vol. 2
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:KWEEN BEE\, Chiara Allnutt\, L.O.S.S.\nVeranstalter: Taktgef
+ ühl\nEintritt: 12–15 €\n\nZweite Ausgabe der Reihe TAKTGEFÜHL im C
+ lub Lucia\, zwischen Groove\, Techno und Trance. KWEEN BEE spielt schnel
+ len Techno mit funkigen Elementen\, Chiara Allnutt groovigen\, uptempo T
+ echno. L.O.S.S. bringt eine Sammlung alter Trance-CDs mit.\n\nhttps://ra
+ ve.wien/e/2026-12-11-taktgefuhl-vol-2
+URL:https://rave.wien/e/2026-12-11-taktgefuhl-vol-2
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Queertactics · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-13-queertactics-festival-party@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T200000
+DTEND;TZID=Europe/Vienna:20261114T040000
+SUMMARY:Queertactics Festival Party
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:MZTAY\, DAFFODRILLS\, PHAEDRA\, Algoriddim Girls\nVeranstalte
+ r: Queertactics\nEintritt frei\n\nDie Queertactics Festival Party kehrt 
+ aufs FLUCC Deck zurück und mischt Club-Sounds mit Live-Musik\, Eintritt
+  frei. MZTAY eröffnet (20:00) mit Grooves zwischen Alternative R&B\, Ho
+ use\, Hip-Hop und Bounce\, danach spielt DAFFODRILLS (21:30) Ghetto Hous
+ e\, Jersey Club\, Baile Funk und Bubbling. Um 23:00 folgt PHAEDRA mit Li
+ ve-Performance und Set\, die Gesang\, elektronische Sounds und lateiname
+ rikanische Rhythmen mit Themen wie Widerstand\, Sehnsucht und Freiheit v
+ erbindet. Zum Abschluss spielen die ALGORIDDIM GIRLS von 01:00 bis 04:00
+  ein b2b-Doppelset aus Bass\, Percussion und globalen Club-Einflüssen. 
+ Ein Awareness-Team ist vor Ort.\n\nhttps://rave.wien/e/2026-11-13-queert
+ actics-festival-party
+URL:https://rave.wien/e/2026-11-13-queertactics-festival-party
+END:VEVENT
+END:VCALENDAR

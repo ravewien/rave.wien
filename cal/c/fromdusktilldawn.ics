@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FromDuskTillDawn · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-12-psytrance-universe-werk@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T220000
+DTEND;TZID=Europe/Vienna:20261213T120000
+SUMMARY:Psytrance Universe @ Werk
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: FromDuskTillDawn\, Psytrance Universe\n\nPsytra
+ nce-Nacht von FromDuskTillDawn im Werk\, die bis Sonntagmittag (12 Uhr) 
+ läuft. Das Line-up ist noch nicht veröffentlicht.\n\nhttps://rave.wien
+ /e/2026-12-12-psytrance-universe-werk
+URL:https://rave.wien/e/2026-12-12-psytrance-universe-werk
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-psytrance-werk@rave.wien
+DTSTAMP:20270109T000000Z
+DTSTART;TZID=Europe/Vienna:20270109T230000
+DTEND;TZID=Europe/Vienna:20270110T060000
+SUMMARY:Psytrance @ Werk
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: FromDuskTillDawn\n\nMonatliche Psytrance-Nacht 
+ von FromDuskTillDawn im Werk. Das Line-up ist noch nicht veröffentlicht
+ .\n\nhttps://rave.wien/e/2027-01-09-psytrance-werk
+URL:https://rave.wien/e/2027-01-09-psytrance-werk
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-paradise-winter-festival-2027-nacht-1@rave.wien
+DTSTAMP:20270129T000000Z
+DTSTART;TZID=Europe/Vienna:20270129T210000
+DTEND;TZID=Europe/Vienna:20270130T060000
+SUMMARY:Paradise Winter Festival 2027 – Nacht 1
+LOCATION:BC Vienna Arena\, Gutheil-Schoder-Gasse 9\, 1100 Wien
+DESCRIPTION:Veranstalter: FromDuskTillDawn\nEintritt: Festivalpass 69 €
+  (beide Nächte)\n\nDas Psytrance-Festival Paradise Winter Festival kehr
+ t für zwei Nächte in die BC Vienna Arena (ehemals Hallmann Dome) zurü
+ ck: sechs internationale Acts und über 20 lokale DJs und Live-Acts. Nam
+ en sind noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2027-01-29-pa
+ radise-winter-festival-2027-nacht-1
+URL:https://rave.wien/e/2027-01-29-paradise-winter-festival-2027-nacht-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-paradise-winter-festival-2027-nacht-2@rave.wien
+DTSTAMP:20270130T000000Z
+DTSTART;TZID=Europe/Vienna:20270130T210000
+DTEND;TZID=Europe/Vienna:20270131T060000
+SUMMARY:Paradise Winter Festival 2027 – Nacht 2
+LOCATION:BC Vienna Arena\, Gutheil-Schoder-Gasse 9\, 1100 Wien
+DESCRIPTION:Veranstalter: FromDuskTillDawn\nEintritt: Festivalpass 69 €
+  (beide Nächte)\n\nZweite Nacht des Paradise Winter Festival in der BC 
+ Vienna Arena (ehemals Hallmann Dome)\; der Festivalpass gilt für beide 
+ Nächte.\n\nhttps://rave.wien/e/2027-01-30-paradise-winter-festival-2027
+ -nacht-2
+URL:https://rave.wien/e/2027-01-30-paradise-winter-festival-2027-nacht-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-13-psytrance-werk@rave.wien
+DTSTAMP:20270213T000000Z
+DTSTART;TZID=Europe/Vienna:20270213T230000
+DTEND;TZID=Europe/Vienna:20270214T060000
+SUMMARY:Psytrance @ Werk
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: FromDuskTillDawn\n\nMonatliche Psytrance-Nacht 
+ von FromDuskTillDawn im Werk. Das Line-up ist noch nicht veröffentlicht
+ .\n\nhttps://rave.wien/e/2027-02-13-psytrance-werk
+URL:https://rave.wien/e/2027-02-13-psytrance-werk
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-06-20-yrs-cosmic-space-disco@rave.wien
+DTSTAMP:20270306T000000Z
+DTSTART;TZID=Europe/Vienna:20270306T210000
+DTEND;TZID=Europe/Vienna:20270307T120000
+SUMMARY:20 Yrs Cosmic Space Disco
+DESCRIPTION:Veranstalter: FromDuskTillDawn\n\nJubiläumsparty zu 20 Jahre
+ n Cosmic Space Disco\, veranstaltet von FromDuskTillDawn\, von 21 Uhr bi
+ s Sonntagmittag. Location und Line-up sind noch nicht bekannt.\n\nhttps:
+ //rave.wien/e/2027-03-06-20-yrs-cosmic-space-disco
+URL:https://rave.wien/e/2027-03-06-20-yrs-cosmic-space-disco
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-psytrance-werk@rave.wien
+DTSTAMP:20270313T000000Z
+DTSTART;TZID=Europe/Vienna:20270313T230000
+DTEND;TZID=Europe/Vienna:20270314T060000
+SUMMARY:Psytrance @ Werk
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: FromDuskTillDawn\n\nMonatliche Psytrance-Nacht 
+ von FromDuskTillDawn im Werk. Das Line-up ist noch nicht veröffentlicht
+ .\n\nhttps://rave.wien/e/2027-03-13-psytrance-werk
+URL:https://rave.wien/e/2027-03-13-psytrance-werk
+END:VEVENT
+END:VCALENDAR

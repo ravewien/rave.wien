@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:sama recordings · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-12-sama-recordings-pres-schweben@rave.wien
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=Europe/Vienna:20261112T193000
+DTEND;TZID=Europe/Vienna:20261112T235900
+SUMMARY:sama recordings pres. schweben
+LOCATION:kv.r.\, Hernalser Hauptstraße 86\, 1170 Wien
+DESCRIPTION:Philipp Otterbach\, Adina Camhy\, Andrea Ida\nVeranstalter: s
+ ama recordings\nEintritt: 16\,95–22\,60 € (Regular/Supporter)\n\ns c
+  h w e b e n ist die seit 2020 laufende Reihe von sama recordings zwisch
+ en Avantgarde-Pop\, elektronischer Clubmusik und Experiment. Der deutsch
+ e Produzent\, DJ und Remixer Philipp Otterbach zeigt bei seiner Wien-Pre
+ miere ein neu entwickeltes Live-Set mit ambienten Klanglandschaften. Adi
+ na Camhy (AT) spielt live mit Field Recordings\, Kirchenorgel-Improvisat
+ ionen und Stimme zwischen Noise\, Ambient\, Drone und Industrial\; ihr A
+ lbum „krst“ erschien 2025 bei smallforms. Andrea Ida (AT)\, Musikeri
+ n und Moderatorin bei Noods Radio (Bristol)\, legt ein DJ-Set auf. Es gi
+ lt ein Verhaltenskodex gegen Diskriminierung\, Belästigung kann per E-M
+ ail oder beim Team vor Ort gemeldet werden\; Tickets als Regular oder Su
+ pporter (Soli-Aufpreis).\n\nhttps://rave.wien/e/2026-11-12-sama-recordin
+ gs-pres-schweben
+URL:https://rave.wien/e/2026-11-12-sama-recordings-pres-schweben
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-sama-recordings-pres-schweben@rave.wien
+DTSTAMP:20261216T000000Z
+DTSTART;TZID=Europe/Vienna:20261216T190000
+DTEND;TZID=Europe/Vienna:20261217T000000
+SUMMARY:sama recordings pres. schweben
+LOCATION:Westbahn Studios\, Adresse noch TBA Wien
+DESCRIPTION:Veranstalter: sama recordings\n\nWeitere Ausgabe der Reihe s 
+ c h w e b e n des Wiener Labels sama recordings\, diesmal an einem Mittw
+ ochabend in den Westbahn Studios\, Beginn 19:00. Die Reihe verbindet Ava
+ ntgarde-Pop\, elektronische und experimentelle Musik der 70er und 80er m
+ it neueren Club- und Ambient-Sounds und bietet meist Live-Sets plus DJs.
+  Lineup\, Preis und Flyer sind noch nicht veröffentlicht\; Techno Airli
+ nes verweist auf RA-Event 2564506.\n\nhttps://rave.wien/e/2026-12-16-sam
+ a-recordings-pres-schweben
+URL:https://rave.wien/e/2026-12-16-sama-recordings-pres-schweben
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-sama-recordings-pres-schweben@rave.wien
+DTSTAMP:20261219T000000Z
+DTSTART;TZID=Europe/Vienna:20261219T210000
+DTEND;TZID=Europe/Vienna:20261220T020000
+SUMMARY:sama recordings pres. schweben
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Ambient Animal\, Tanja Turner\nVeranstalter: sama recordings\
+ n\nWeitere Ausgabe der Reihe s c h w e b e n des Wiener Labels sama reco
+ rdings\, diesmal im Celeste. Die Reihe verbindet Avantgarde-Pop\, elektr
+ onische und experimentelle Musik mit Club- und Ambient-Sounds\, meist mi
+ t Live-Sets und DJs. Lineup\, Beginn\, Preis und Flyer sind noch nicht v
+ eröffentlicht.\n\nhttps://rave.wien/e/2026-12-19-sama-recordings-pres-s
+ chweben
+URL:https://rave.wien/e/2026-12-19-sama-recordings-pres-schweben
+END:VEVENT
+END:VCALENDAR

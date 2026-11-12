@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mickey Gee · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-27-cafe-disko-x-firlefunk@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T220000
+DTEND;TZID=Europe/Vienna:20261128T050000
+SUMMARY:Cafe Disko x Firlefunk
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Diskohengst\, Mickey Gee\, Elasoul\, Floreal\, Felix Wolfs\nV
+ eranstalter: Firlefunk\nEintritt: 15 €\n\nDisko und Firlefunk tun sich
+  zusammen und holen Diskohengst alias Shacke One aus Berlin zurück nach
+  Wien – die letzte gemeinsame Nacht soll so heiß gewesen sein\, dass 
+ „die Decke geschwitzt“ hat\, daher geht es diesmal in den größeren
+  Raum des Funkhauses. Neben Diskohengst legen Mickey Gee\, Elasoul\, Flo
+ real und Felix Wolfs Disco\, Funk und Soul auf. Das Motto: in Bewegung b
+ leiben\, den Kopf in die Musik stecken und selbstbewusst tanzen. 22:00
+ –05:00\, Eintritt 15 €\, ab 18\; Poster von Coletta.\n\nhttps://rave
+ .wien/e/2026-11-27-cafe-disko-x-firlefunk
+URL:https://rave.wien/e/2026-11-27-cafe-disko-x-firlefunk
+END:VEVENT
+END:VCALENDAR

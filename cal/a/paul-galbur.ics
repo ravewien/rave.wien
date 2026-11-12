@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Paul Galbur · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-21-mottosause-boots-beer-beats@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T201500
+DTEND;TZID=Europe/Vienna:20261122T060000
+SUMMARY:Mottosause // Boots\, Beer & Beats
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Floor 1: Teppich Funk\, Paul Galbur\nDown Under: Romanova\, F
+ ranky\, Gomez & Nickfried\nEintritt frei\n\nMottoparty im Gürtel Saloon
+  des Weberknecht unter dem Dresscode „Boots\, Beer & Beats“. Auf Flo
+ or 1 spielen Teppich Funk (aka Lee&Marvin) und Paul Galbur\, im Down Und
+ er Romanova\, Franky sowie Gomez & Nickfried. Beginn 20:15\, Ende 06:00\
+ , Eintritt frei. Genres nennt das Weberknecht nicht.\n\nhttps://rave.wie
+ n/e/2026-11-21-mottosause-boots-beer-beats
+URL:https://rave.wien/e/2026-11-21-mottosause-boots-beer-beats
+END:VEVENT
+END:VCALENDAR

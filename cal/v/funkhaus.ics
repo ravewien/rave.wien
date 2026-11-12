@@ -1,0 +1,199 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Funkhaus · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-13-club-fatale-w-krn@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T220000
+DTEND;TZID=Europe/Vienna:20261114T060000
+SUMMARY:club fatale w. KRN
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:KRN\, Alice (AT)\, foxloe\, Bambalan\nVeranstalter: Club Fata
+ le\nEintritt: 20 €\n\nclub fatale kehrt ins Funkhaus zurück – laut 
+ Ankündigung „reworked“ mit Void Acoustics und neuem Raumgefühl. He
+ adliner ist KRN\, bekannt für tiefe\, weit gefächerte Selections. Dazu
+  spielen die lokalen Digger foxloe und Alice (AT) sowie Resident Bambala
+ n. Genres laut RA: Techno\, House\; 18+. Preise: RA nannte 20 €\, das 
+ Wochenend-Magazin von goodnight.at nennt 13 € Early Bird bzw. 18 € r
+ egulär.\n\nhttps://rave.wien/e/2026-11-13-club-fatale-w-krn
+URL:https://rave.wien/e/2026-11-13-club-fatale-w-krn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-once-in-a-blue-moon-kiki-ball-afterparty@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T170000
+DTEND;TZID=Europe/Vienna:20261115T060000
+SUMMARY:Once in a Blue Moon – Kiki Ball + Afterparty
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Gawdesque\, Amina Malounadou\, Bellavie\nVeranstalter: Kaisa 
+ Bodega\, Pingpaya Fenty Savage\n\nKaisa Bodega und Pingpaya Fenty Savage
+  präsentieren einen Kiki Ball mit anschließender Afterparty im Funkhau
+ s. Angekündigt ist eine Ballroom-Nacht voller Glamour\, Fantasie und Ve
+ rwandlung\, in der Gäste ihre seltensten Seiten zeigen sollen – etwas
+ \, das nur „once in a blue moon“ passiert. Genannt sind Gawdesque\, 
+ Amina Malounadou und Bellavie\; Kategorien\, Hosts\, Judges und Ablauf s
+ tehen noch nicht fest. Beginn 17:00\, Ende 06:00\, ab 18.\n\nhttps://rav
+ e.wien/e/2026-11-14-once-in-a-blue-moon-kiki-ball-afterparty
+URL:https://rave.wien/e/2026-11-14-once-in-a-blue-moon-kiki-ball-afterpar
+ ty
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-the-house-of-funk-presents-ricky-chong@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T040000
+SUMMARY:The House of Funk presents Ricky Chong
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Ricky Chong\n\nClubnacht der Reihe The House of Funk im Funkh
+ aus mit Ricky Chong als Gast. Techno Airlines führt den Abend ab 23:00 
+ in seinem Wiener Techno-Kalender. Weitere Acts\, Endzeit\, Preis und Tic
+ kets sind noch nicht bekannt\; die Detailseite war nicht abrufbar.\n\nht
+ tps://rave.wien/e/2026-11-20-the-house-of-funk-presents-ricky-chong
+URL:https://rave.wien/e/2026-11-20-the-house-of-funk-presents-ricky-chong
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-yolo-taxi-with-umafricana-lua-preta-miss-roshni@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T220000
+DTEND;TZID=Europe/Vienna:20261122T030000
+SUMMARY:Yolo Taxi with UMAFRICANA\, Lua Preta & Miss Roshni
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:UMAFRICANA\, Lua Preta\, Miss Roshni\nVeranstalter: Yolo Taxi
+ \n\nClubnacht der Reihe Yolo Taxi im Funkhaus mit UMAFRICANA\, Lua Preta
+  und Miss Roshni. Lua Preta ist ein polnisch-angolanisches Duo mit afro-
+ diasporischem Clubsound\, das u. a. auf U Know Me Records veröffentlich
+ t hat. UMAFRICANA ist ein international (u. a. in Lissabon) gebuchter DJ
+ -Act\, Miss Roshni ergänzt das Lineup. Preis\, Ende und Tickets sind bi
+ sher nicht bekannt\; die Detailseite war nicht abrufbar.\n\nhttps://rave
+ .wien/e/2026-11-21-yolo-taxi-with-umafricana-lua-preta-miss-roshni
+URL:https://rave.wien/e/2026-11-21-yolo-taxi-with-umafricana-lua-preta-mi
+ ss-roshni
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-cafe-disko-x-firlefunk@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T220000
+DTEND;TZID=Europe/Vienna:20261128T050000
+SUMMARY:Cafe Disko x Firlefunk
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Diskohengst\, Mickey Gee\, Elasoul\, Floreal\, Felix Wolfs\nV
+ eranstalter: Firlefunk\nEintritt: 15 €\n\nDisko und Firlefunk tun sich
+  zusammen und holen Diskohengst alias Shacke One aus Berlin zurück nach
+  Wien – die letzte gemeinsame Nacht soll so heiß gewesen sein\, dass 
+ „die Decke geschwitzt“ hat\, daher geht es diesmal in den größeren
+  Raum des Funkhauses. Neben Diskohengst legen Mickey Gee\, Elasoul\, Flo
+ real und Felix Wolfs Disco\, Funk und Soul auf. Das Motto: in Bewegung b
+ leiben\, den Kopf in die Musik stecken und selbstbewusst tanzen. 22:00
+ –05:00\, Eintritt 15 €\, ab 18\; Poster von Coletta.\n\nhttps://rave
+ .wien/e/2026-11-27-cafe-disko-x-firlefunk
+URL:https://rave.wien/e/2026-11-27-cafe-disko-x-firlefunk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-apartment-acht-birthday-rave@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T220000
+DTEND;TZID=Europe/Vienna:20261129T030000
+SUMMARY:Apartment Acht Birthday Rave
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Veranstalter: Apartment Acht\n\nDas Wiener Kollektiv Apartmen
+ t Acht feiert im Funkhaus Geburtstag mit einem Rave ab 22:00. Techno Air
+ lines listet den Abend in seinem Wiener Techno-Kalender. Lineup\, Endzei
+ t\, Preis und Ticketverkauf sind noch nicht bekannt.\n\nhttps://rave.wie
+ n/e/2026-11-28-apartment-acht-birthday-rave
+URL:https://rave.wien/e/2026-11-28-apartment-acht-birthday-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-noche-d-amore-a-dance-romance@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T220000
+DTEND;TZID=Europe/Vienna:20261206T060000
+SUMMARY:Noche d'Amore – A Dance Romance
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Sonya Hibiscus\nVeranstalter: Tropical Thunder\nEintritt: 15 
+ €\n\nTropical Thunder lädt ins Funkhaus zu einer Mischung aus Slow-Da
+ nce-Abend und Tanzparty: Zwischen energiegeladenen Passagen gibt es lang
+ same „La Boum“-Momente\, bei denen man jemanden zum Tanzen aufforder
+ n und eng tanzen soll. Musikalisch geht es um Balearic-Sounds der 80er\,
+  90er und frühen 2000er\, Retro-Zouk\, French Boogie\, Indie Dance und 
+ NYC-Breaks der 70er. An den Decks steht Sonya Hibiscus (Grand Bal Zouk\,
+  Frankreich)\, dazu zeigen die Tropical Thunder Allstars Live-Tanzperfor
+ mances. Die Nacht ist bell hooks' Büchern „All About Love“ und „T
+ he Will to Change“ gewidmet\; das Format entstand 2025 für die „Rep
+ ublic of Love“ der Wiener Festwochen. 22:00–06:00\, 15 € über KUP
+ Fticket\, ab 18.\n\nhttps://rave.wien/e/2026-12-05-noche-d-amore-a-dance
+ -romance
+URL:https://rave.wien/e/2026-12-05-noche-d-amore-a-dance-romance
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-06-untz-baby-untz-nikolo-im-funkhaus@rave.wien
+DTSTAMP:20261206T000000Z
+DTSTART;TZID=Europe/Vienna:20261206T130000
+DTEND;TZID=Europe/Vienna:20261206T183000
+SUMMARY:Untz Baby Untz – Nikolo im Funkhaus
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:SHIZZLE\nVeranstalter: Untz Baby Untz\nEintritt: 13 €\n\nUn
+ tz Baby Untz ist eine familien- und kinderfreundliche Day-Rave-Reihe\; d
+ ie Nikolo-Ausgabe im Funkhaus ist laut Veranstalter das erste Indoor-Eve
+ nt der Reihe. Von 13:00 bis 18:30 legen DJs Techno und House auf. Bisher
+  ist SHIZZLE als Act gelistet\, weitere Namen sind noch nicht veröffent
+ licht. Early-Bird-Tickets um 13 € gibt es seit 2. November über Resid
+ ent Advisor.\n\nhttps://rave.wien/e/2026-12-06-untz-baby-untz-nikolo-im-
+ funkhaus
+URL:https://rave.wien/e/2026-12-06-untz-baby-untz-nikolo-im-funkhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-lovedancin-vienna@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T220000
+DTEND;TZID=Europe/Vienna:20261219T030000
+SUMMARY:LOVEDANCIN' Vienna
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Gerd Janson\, Tom Kutsche\, Mareia\nVeranstalter: LOVEDANCIN'
+ \n\nWiener Ausgabe der Partyreihe LOVEDANCIN' im Funkhaus. Headliner ist
+  Gerd Janson\, Running-Back-Labelchef und Resident im Robert Johnson in 
+ Offenbach\; dazu spielen Tom Kutsche und Mareia. Endzeit\, Preise und Mi
+ ndestalter waren in den gelesenen Quellen noch nicht angegeben.\n\nhttps
+ ://rave.wien/e/2026-12-18-lovedancin-vienna
+URL:https://rave.wien/e/2026-12-18-lovedancin-vienna
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-traveling-without-moving@rave.wien
+DTSTAMP:20261219T000000Z
+DTSTART;TZID=Europe/Vienna:20261219T220000
+DTEND;TZID=Europe/Vienna:20261220T030000
+SUMMARY:traveling without moving
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:\nWeitere Ausgabe von „traveling without moving“ im Funkh
+ aus – der Titel ist identisch mit der Clubnacht von created-on-earth a
+ m 7. November\, die Reihe kehrt damit kurz vor Weihnachten zurück. Tech
+ no Airlines führt den Abend als Club Night ab 22:00 und verweist für T
+ ickets und Details auf Resident Advisor. Lineup\, Endzeit und Preis sind
+  noch nicht angekündigt.\n\nhttps://rave.wien/e/2026-12-19-traveling-wi
+ thout-moving
+URL:https://rave.wien/e/2026-12-19-traveling-without-moving
+END:VEVENT
+END:VCALENDAR

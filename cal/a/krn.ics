@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:KRN · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-13-club-fatale-w-krn@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T220000
+DTEND;TZID=Europe/Vienna:20261114T060000
+SUMMARY:club fatale w. KRN
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:KRN\, Alice (AT)\, foxloe\, Bambalan\nVeranstalter: Club Fata
+ le\nEintritt: 20 €\n\nclub fatale kehrt ins Funkhaus zurück – laut 
+ Ankündigung „reworked“ mit Void Acoustics und neuem Raumgefühl. He
+ adliner ist KRN\, bekannt für tiefe\, weit gefächerte Selections. Dazu
+  spielen die lokalen Digger foxloe und Alice (AT) sowie Resident Bambala
+ n. Genres laut RA: Techno\, House\; 18+. Preise: RA nannte 20 €\, das 
+ Wochenend-Magazin von goodnight.at nennt 13 € Early Bird bzw. 18 € r
+ egulär.\n\nhttps://rave.wien/e/2026-11-13-club-fatale-w-krn
+URL:https://rave.wien/e/2026-11-13-club-fatale-w-krn
+END:VEVENT
+END:VCALENDAR

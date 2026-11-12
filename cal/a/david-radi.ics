@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:David Radi · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-04-blur-with-doudou-md@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T040000
+SUMMARY:BLUR with Doudou MD
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Doudou MD\, Chris Freud\, David Radi\, Matthias Kaiser\nVeran
+ stalter: BLUR\n\nAusgabe der Reihe BLUR im PRST mit Doudou MD als Gast\,
+  Beginn 23:00. Außerdem stehen Chris Freud\, David Radi und Matthias Ka
+ iser im Lineup. Bisher nur über die Monatsliste von Techno Airlines bel
+ egt\; Preis\, Ende und Ticketlink sind noch offen.\n\nhttps://rave.wien/
+ e/2026-12-04-blur-with-doudou-md
+URL:https://rave.wien/e/2026-12-04-blur-with-doudou-md
+END:VEVENT
+END:VCALENDAR

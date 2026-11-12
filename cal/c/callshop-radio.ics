@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Callshop Radio · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-15-flut-x-callshop-radio-week-46@rave.wien
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Vienna:20261115T140000
+DTEND;TZID=Europe/Vienna:20261115T200000
+SUMMARY:FLUT x Callshop Radio – Week 46
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Callshop Radio\, Spumante Records\nEintritt fre
+ i\n\nFLUT ist die Radioschiene des FLUCC in Kooperation mit Callshop Rad
+ io\, das auch in Düsseldorf\, Leipzig und Paris sendet\; die Session wi
+ rd über Stream 2 auf callshopradio.com übertragen. Week 46 kuratieren 
+ Spumante Records aus Wien\, das Lineup ist noch offen. Während des Stre
+ ams hat die Deck Bar geöffnet\, Gäste können den Sonntagnachmittag mi
+ t Live-DJs verbringen. Von 14:00 bis 20:00\, Eintritt frei.\n\nhttps://r
+ ave.wien/e/2026-11-15-flut-x-callshop-radio-week-46
+URL:https://rave.wien/e/2026-11-15-flut-x-callshop-radio-week-46
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-flut-x-callshop-radio-week-48@rave.wien
+DTSTAMP:20261129T000000Z
+DTSTART;TZID=Europe/Vienna:20261129T140000
+DTEND;TZID=Europe/Vienna:20261129T200000
+SUMMARY:FLUT x Callshop Radio – Week 48
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Callshop Radio\, Spumante Records\nEintritt fre
+ i\n\nFLUT ist die Radioschiene des FLUCC in Kooperation mit Callshop Rad
+ io\, das auch in Düsseldorf\, Leipzig und Paris sendet\; die Session wi
+ rd über Stream 2 auf callshopradio.com übertragen. Week 48 hosten Spum
+ ante Records aus Wien\, das Lineup ist noch offen. Während des Streams 
+ hat die Deck Bar geöffnet\, Gäste können den Sonntagnachmittag mit Li
+ ve-DJs verbringen. Von 14:00 bis 20:00\, Eintritt frei.\n\nhttps://rave.
+ wien/e/2026-11-29-flut-x-callshop-radio-week-48
+URL:https://rave.wien/e/2026-11-29-flut-x-callshop-radio-week-48
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-flut-x-callshop-radio-week-50@rave.wien
+DTSTAMP:20261213T000000Z
+DTSTART;TZID=Europe/Vienna:20261213T140000
+DTEND;TZID=Europe/Vienna:20261213T200000
+SUMMARY:FLUT x Callshop Radio – Week 50
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Callshop Radio\, Spumante Records\nEintritt fre
+ i\n\nSonntags-DJ-Session der Reihe FLUT (FLUCC Transmitter) auf dem FLUC
+ C Deck\, 14:00–20:00\, Eintritt frei. FLUT entsteht in Kooperation mit
+  Callshop Radio und wird inzwischen von Spumante Records aus Wien kurati
+ ert\; gestreamt wird über Stream 2 von Callshop Radio. Während des Str
+ eams ist die Deck-Bar geöffnet\, das DJ-Lineup ist noch nicht angekünd
+ igt.\n\nhttps://rave.wien/e/2026-12-13-flut-x-callshop-radio-week-50
+URL:https://rave.wien/e/2026-12-13-flut-x-callshop-radio-week-50
+END:VEVENT
+END:VCALENDAR

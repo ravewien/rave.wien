@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Norg3n · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-19-teknoteka@rave.wien
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=Europe/Vienna:20261119T230000
+DTEND;TZID=Europe/Vienna:20261120T040000
+SUMMARY:Teknoteka
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:UV Project\, Norg3n\, Nasty\nEintritt frei / free entry\n\nTe
+ knoteka geht in die dritte Runde und bringt eine Nacht mit treibenden Ba
+ sslines\, Underground-Beats und energiegeladenem Techno in den Kramladen
+ . Special Guest ist UV Project\, dazu spielen NORG3N und Nasty. Eintritt
+  frei.\n\nhttps://rave.wien/e/2026-11-19-teknoteka
+URL:https://rave.wien/e/2026-11-19-teknoteka
+END:VEVENT
+END:VCALENDAR

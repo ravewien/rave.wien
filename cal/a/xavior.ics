@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Xavior · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-13-50-herz-sodomland@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T210000
+DTEND;TZID=Europe/Vienna:20261114T020000
+SUMMARY:50 Herz / Sodomland
+LOCATION:Kollektiv Kaorle\, Baumgartner Höhe 1 (Otto Wagner Areal\, Pavi
+ llon 21)\, 1140 Wien
+DESCRIPTION:Kilroy\, Gush Valley\, Darina\, Darina & Djinn Sylva\, Sodoml
+ and\, Xavior\nVeranstalter: 50 Herz\nEintritt: €15–20 (Soli €15 / 
+ Standard €18 / Supporter €20)\n\n50 Herz lädt zur „Doomsday“-Pa
+ rty am Freitag\, dem 13.\, ins Kaorle am Otto-Wagner-Areal (Einlass 20:0
+ 0\, Beginn 21:00). Headliner ist das Berliner Duo Sodomland (Sarah Schla
+ tholt\, Bill Hartenstein) mit Electro\, Dancepunk\, Synth Rock und Witch
+  House\; 2025 erschien ihr Album „'61“. Davor spielen Kilroy (Solo-S
+ et\; Debütalbum „BLEED OUT“ für März 2027 angekündigt)\, das Wie
+ ner Electronic-Punk-Duo Gush Valley mit analogem Gerät\, die Wiener Dar
+ kwave-Künstlerin Darina sowie Darina & Djinn Sylva mit der Live-Premier
+ e ihrer gemeinsamen EP (Electronic Post-Punk). Zum Abschluss legt Xavior
+ ™ (Paraguay\, zwischen Wien und Tokio\; Releases auf Ashida Park\, Cun
+ try Club\, AUX\, Vain) Post-Club\, Hardcore\, Dubstep und Global Bass au
+ f. Das Kaorle führt den Abend als Konzert.\n\nhttps://rave.wien/e/2026-
+ 11-13-50-herz-sodomland
+URL:https://rave.wien/e/2026-11-13-50-herz-sodomland
+END:VEVENT
+END:VCALENDAR

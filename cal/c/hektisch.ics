@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HEKTISCH · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-20-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Synergy Rave x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\, KARTELL.FM\, HEKTISCH\nEintritt: VVK 
+ 15 € / Early Bird 10 €\; AK 15 €\, ab 00:00 18 €\n\nSynergy Rave
+  bringt Trance und Hard Techno auf zwei Floors ins Werk: Auf dem Lusterf
+ loor kuratiert KARTELL.FM von 23 bis 6 Uhr Trance & Bounce\, auf dem Las
+ terfloor übernimmt HEKTISCH von 0 bis 6 Uhr mit Hard Techno. Weitere Ac
+ ts sind noch nicht bekannt. Early Bird 10 €\, Vorverkauf 15 €\, Aben
+ dkasse 15 € bzw. 18 € ab Mitternacht\; Einlass ab 18. Zero Tolerance
+  gegenüber Homophobie\, Sexismus und Rassismus.\n\nhttps://rave.wien/e/
+ 2026-11-20-synergy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2026-11-20-synergy-rave-x-trance-hard-techno
+END:VEVENT
+END:VCALENDAR

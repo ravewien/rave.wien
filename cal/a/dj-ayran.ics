@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:dj ayran · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-28-patches@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T220000
+DTEND;TZID=Europe/Vienna:20261129T043000
+SUMMARY:Patches
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Philo_\, Dr. Schick\, Meander\, dj ayran\, Tursa\, Peter Spie
+ lmann\nVeranstalter: Patches\nEintritt: 5 €\n\nNeue Ausgabe der Wiener
+  Breakbeat-/Club-Reihe Patches\, erstmals im Tagada. Als Gäste spielen 
+ Philo_ und Dr. Schick\, dazu die Patches-Crew mit Meander\, dj ayran\, T
+ ursa und Peter Spielmann. Die Veranstalter betonen\, dass eine Party nur
+  Spaß macht\, wenn sie für alle Spaß macht: Wer sich unsicher oder un
+ wohl fühlt\, kann sich an die Crew am Eingang wenden. Artwork von Maxim
+ ilian Weber\; Eintritt laut RA 5 €\, 22:00 bis 04:30.\n\nhttps://rave.
+ wien/e/2026-11-28-patches
+URL:https://rave.wien/e/2026-11-28-patches
+END:VEVENT
+END:VCALENDAR

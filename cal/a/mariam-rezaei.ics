@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mariam Rezaei · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-21-ventil-records-pres-eardrum-residency-w-mariam-re@rave.wien
+DTSTAMP:20261221T000000Z
+DTSTART;TZID=Europe/Vienna:20261221T200000
+DTEND;TZID=Europe/Vienna:20261222T010000
+SUMMARY:Ventil Records pres. Eardrum Residency w/ Mariam Rezaei
+LOCATION:Westbahn Studios\, Adresse noch TBA Wien
+DESCRIPTION:Mariam Rezaei\nVeranstalter: Ventil Records\n\nAbschlussabend
+  der Eardrum-Residency\, des Artist-in-Residence-Programms von Ventil Re
+ cords und den Westbahnstudios: Internationale Artists arbeiten einige Ta
+ ge in den Studios an neuen Projekten und zeigen die Ergebnisse danach li
+ ve. Diesmal ist die britisch-iranische experimentelle Turntablistin und 
+ Komponistin Mariam Rezaei zu Gast. Zu erwarten ist laute\, experimentell
+ e Elektronik zwischen Turntablism und Noise. Weitere Acts\, Preis und En
+ de sind noch nicht bekannt.\n\nhttps://rave.wien/e/2026-12-21-ventil-rec
+ ords-pres-eardrum-residency-w-mariam-re
+URL:https://rave.wien/e/2026-12-21-ventil-records-pres-eardrum-residency-
+ w-mariam-re
+END:VEVENT
+END:VCALENDAR

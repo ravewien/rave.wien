@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tropical Thunder · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-05-noche-d-amore-a-dance-romance@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T220000
+DTEND;TZID=Europe/Vienna:20261206T060000
+SUMMARY:Noche d'Amore – A Dance Romance
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Sonya Hibiscus\nVeranstalter: Tropical Thunder\nEintritt: 15 
+ €\n\nTropical Thunder lädt ins Funkhaus zu einer Mischung aus Slow-Da
+ nce-Abend und Tanzparty: Zwischen energiegeladenen Passagen gibt es lang
+ same „La Boum“-Momente\, bei denen man jemanden zum Tanzen aufforder
+ n und eng tanzen soll. Musikalisch geht es um Balearic-Sounds der 80er\,
+  90er und frühen 2000er\, Retro-Zouk\, French Boogie\, Indie Dance und 
+ NYC-Breaks der 70er. An den Decks steht Sonya Hibiscus (Grand Bal Zouk\,
+  Frankreich)\, dazu zeigen die Tropical Thunder Allstars Live-Tanzperfor
+ mances. Die Nacht ist bell hooks' Büchern „All About Love“ und „T
+ he Will to Change“ gewidmet\; das Format entstand 2025 für die „Rep
+ ublic of Love“ der Wiener Festwochen. 22:00–06:00\, 15 € über KUP
+ Fticket\, ab 18.\n\nhttps://rave.wien/e/2026-12-05-noche-d-amore-a-dance
+ -romance
+URL:https://rave.wien/e/2026-12-05-noche-d-amore-a-dance-romance
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Raqsouna · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-14-raqsouna-invites-gaouta@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T233000
+DTEND;TZID=Europe/Vienna:20261115T040000
+SUMMARY:Raqsouna invites Gaouta
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Gaouta\, Qamareen\, Abu Naima\nVeranstalter: Raqsouna\nEintri
+ tt: Early Bird 10 € / VVK 12 € / AK 15 € / Community-Ticket auf An
+ frage\n\nLetzte Raqsouna-Ausgabe des Jahres im Club Lucia\, unterstützt
+  von Stadt Wien Kultur (MA7). Live spielt Gaouta\, ein marokkanischer Mu
+ siker an Drums\, Gitarre\, Synths und Gesang\, der Post-Punk\, New Wave 
+ und 80er-Sounds mit Darija verbindet. Dazu legen die Residents auf: Qama
+ reen (auch Luna Al-Mousli) mit SWANA-Pop\, Indie und Elektronik sowie Ab
+ u Naima\, der von Hip-Hop-Wurzeln und arabischer Musik der 1970er bis zu
+  aktueller basslastiger Clubmusik spielt.\n\nhttps://rave.wien/e/2026-11
+ -14-raqsouna-invites-gaouta
+URL:https://rave.wien/e/2026-11-14-raqsouna-invites-gaouta
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Noisys · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-14-out-of-ctrl-eardrums@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T220000
+DTEND;TZID=Europe/Vienna:20261115T030000
+SUMMARY:OUT OF CTRL – Eardrums
+LOCATION:Arena Wien\, Baumgasse 80\, 1030 Wien
+DESCRIPTION:Corps A Core\, Gotek\, David Green\, Nexxor\, Maddike\, CaHOL
+ IC & Antivirus\, Knisda Kanisda\, Noizelein\, Denis the Menice\, Noisys\
+ , Ostbam\, Faz Og\, Some of the Other Aliens\, Makava\, FTSK\, ATM\, Res
+ olut\, Symbiotik\, Madskillz\nEintritt: 14 € (Abendkasse)\n\nOUT OF CT
+ RL lädt unter dem Titel „Eardrums“ auf das Gelände der Arena Wien 
+ – angekündigt mit drei Floors plus dem Arena-Beisl. Das große Line-u
+ p vereint Acts verschiedener Crews\, u. a. Corps A Core (RSF)\, Gotek (T
+ NL)\, David Green (Infrabass)\, Nexxor (FF)\, Maddike (M.A.D.)\, CaHOLIC
+  & Antivirus (Krachkultur) sowie Knisda Kanisda und Noizelein (ATM). Das
+  Motto lautet „Love Music – Hate Fascism“\, dazu der Aufruf\, die 
+ Arena und ihre Crew zu unterstützen. Eintritt nur an der Abendkassa (14
+  €)\, Beginn 22 Uhr\; Genres und Floor-Aufteilung nennt die Arena nich
+ t.\n\nhttps://rave.wien/e/2026-11-14-out-of-ctrl-eardrums
+URL:https://rave.wien/e/2026-11-14-out-of-ctrl-eardrums
+END:VEVENT
+END:VCALENDAR

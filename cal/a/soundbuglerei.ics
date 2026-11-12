@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Soundbüglerei · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-20-grund-fur-exil-soliparty@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T180000
+DTEND;TZID=Europe/Vienna:20261121T070000
+SUMMARY:Grund für Exil – Soliparty
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Neoteric x Alerta\, Booster Club\, Danubian Dub\, Soundbügle
+ rei\, Initiative 21\nVeranstalter: 4lthangrund\nEintritt: Freie Spende\n
+ \nSoliparty des Kollektivs 4lthangrund im Club Exil: Live-Bands und DJs 
+ (Neoteric x Alerta\, Booster Club\, Danubian Dub\, Soundbüglerei\, Init
+ iative 21)\, dazu ein Dance Battle von FusionCollective\, eine Word-Art-
+ Stage mit Poesie und Musik sowie ein Panel Talk zu Solidarity City und C
+ are-Arbeit. Eintritt gegen Spende – die Einnahmen finanzieren die Räu
+ me von 4lthangrund. Das Erdgeschoss mit Dancefloors\, Bars und barrierea
+ rmen WCs ist rollstuhlgerecht\, der erste Stock nur über Stiegen erreic
+ hbar. Das Programm wird laut Veranstalter noch laufend ergänzt.\n\nhttp
+ s://rave.wien/e/2026-11-20-grund-fur-exil-soliparty
+URL:https://rave.wien/e/2026-11-20-grund-fur-exil-soliparty
+END:VEVENT
+END:VCALENDAR

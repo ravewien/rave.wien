@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:STAATSEINDE · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-21-hosted-by-the-zound-partisans@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T210000
+DTEND;TZID=Europe/Vienna:20261122T060000
+SUMMARY:hosted by the zound partisans
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:STAATSEINDE\, IVUR\, missantroop\, _ra_di_aa_ti_on_\, finster
+ \n\nDie zound partisans übernehmen das Celeste\, Gastgeber*in ist ha:ku
+ zaa. Live spielen STAATSEINDE und IVUR\, an den Decks stehen missantroop
+ \, _ra_di_aa_ti_on_ und finster. Von 21:00 bis 06:00. Preis\, Genres und
+  Flyer sind auf der Seite des Celeste nicht angegeben.\n\nhttps://rave.w
+ ien/e/2026-11-21-hosted-by-the-zound-partisans
+URL:https://rave.wien/e/2026-11-21-hosted-by-the-zound-partisans
+END:VEVENT
+END:VCALENDAR

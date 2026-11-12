@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Who is Ela¿ · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-13-zuckerwatt-w-mija@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T060000
+SUMMARY:Zuckerwatt w/ MIJA
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: MIJA\, PartyPauli\, Who is Ela¿\nKitchen (Cybertr
+ ibe): DJ Backstage\, ENJA\, Spud Bencer\, Voltmarie\nVeranstalter: Zucke
+ rwatt\, Cybertribe\n\nZuckerwatt holt MIJA in die Grelle Forelle\; die U
+ S-Künstlerin („Born to chill\, forced to DJ“) ist eine vielseitige 
+ Multidisziplin-Artist und betreibt das DIY-Label Never B Alone\, dessen 
+ Releases die Artists gemeinsam auswählen. Ihre EPs „Summer Groove“ 
+ und „Soft Groove“ verbinden Hardgroove mit House\, Techno und Funk. 
+ Am Mainfloor spielen außerdem PartyPauli und Who is Ela¿. Die Kitchen 
+ wird von Cybertribe gehostet mit DJ Backstage\, ENJA\, Spud Bencer und V
+ oltmarie. Einlass und Abendkassa ab 23:00\, Vorverkauf über ticket.io.\
+ n\nhttps://rave.wien/e/2026-11-13-zuckerwatt-w-mija
+URL:https://rave.wien/e/2026-11-13-zuckerwatt-w-mija
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-step-forward-pres-eargasm-god@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T040000
+SUMMARY:Step Forward pres. Eargasm God
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: Eargasm God\, Who is Ela¿\, Distorgina\nVeranstal
+ ter: Step Forward\, Mahlwerk\n\nStep Forward holt Eargasm God erneut in 
+ die Grelle Forelle – nach den Step-Forward-Nächten im November 2024 u
+ nd 2025 die nächste Ausgabe. Die Grelle Forelle kündigt eine Techno-Na
+ cht an\, bei der Eargasm God\, der online eine große Reichweite hat\, b
+ esonders mit seinem Live-Set beworben wird. Am Mainfloor spielen außerd
+ em Who is Ela¿ und Distorgina\, die Kitchen wird vom Kollektiv Mahlwerk
+  gehostet (Lineup noch offen). Einlass und Abendkassa ab 23:00\, Vorverk
+ auf über Tickettailor\; Preise sind auf der Location-Seite nicht angege
+ ben.\n\nhttps://rave.wien/e/2026-12-04-step-forward-pres-eargasm-god
+URL:https://rave.wien/e/2026-12-04-step-forward-pres-eargasm-god
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-cybertribe-11-years-w-dbbd@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T230000
+DTEND;TZID=Europe/Vienna:20261208T060000
+SUMMARY:Cybertribe 11 Years w/ DBBD
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DBBD\, Who is Ela¿\, AVO2X\, ENJA\, Spud Bencer\, DJ Backsta
+ ge\nVeranstalter: Cybertribe\nEintritt: 12 €\n\nCybertribe feiert elf 
+ Jahre und kommt zum dritten Mal ins PRST – in der Nacht vor dem Feiert
+ ag (8. Dezember). Headliner ist der Berliner Produzent DBBD\, ein Pionie
+ r des „Slut Bass“ mit dreckigen Basslines\, eingängigen Synth-Melod
+ ien und oft frechen weiblichen Vocals\; seine DJ-Sets mischen energiegel
+ aden Techno mit eigenen Produktionen. Dazu spielen Who is Ela¿ (Residen
+ t bei Soundlabs) sowie die Cybertribe-Residents AVO2X\, ENJA\, Spud Benc
+ er und DJ Backstage. RA nennt Trance und Techno\, 23:00–06:00\, Ticket
+ s 12 € (limitiert\, über Universe)\, ab 18. Cybertribe versteht den F
+ loor als sicheren\, inklusiven Raum gegen Rassismus\, Sexismus\, Homo- u
+ nd Transphobie\, Antisemitismus\, Ableismus und jede Diskriminierung.\n\
+ nhttps://rave.wien/e/2026-12-07-cybertribe-11-years-w-dbbd
+URL:https://rave.wien/e/2026-12-07-cybertribe-11-years-w-dbbd
+END:VEVENT
+END:VCALENDAR

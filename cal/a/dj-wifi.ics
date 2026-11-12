@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DJ Wifi · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-14-herzfrequenz-herzi-f2f-edition@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T230000
+DTEND;TZID=Europe/Vienna:20261115T040000
+SUMMARY:Herzfrequenz: Herzi F2F Edition
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Joey\, Crystal O\, DJ Wifi\, DJ Wolle\, Kat Ze\, Mischkonsum\
+ , Trugbild\, VIERZUDREI\nVeranstalter: Herzfrequenz\nEintritt: ab 18\,50
+  € (oeticket\, inkl. Gebühr)\n\nHerzfrequenz lädt zur „Herzi Face 
+ 2 Face Edition“ ins Werk. Laut Techno Airlines spielen Joey\, Crystal 
+ O\, DJ Wifi\, DJ Wolle\, Kat Ze\, Mischkonsum\, Trugbild und VIERZUDREI\
+ ; Floors und Set-Zeiten sind noch nicht angegeben. Beginn 23:00. Tickets
+  gibt es über oeticket (ab 18\,50 € inkl. Gebühr)\, RA führt das Ev
+ ent ebenfalls mit Ticketverkauf.\n\nhttps://rave.wien/e/2026-11-14-herzf
+ requenz-herzi-f2f-edition
+URL:https://rave.wien/e/2026-11-14-herzfrequenz-herzi-f2f-edition
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Benjay · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-28-awsm-skyscraper-edition@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T230000
+DTEND;TZID=Europe/Vienna:20261129T050000
+SUMMARY:AWSM. Skyscraper Edition
+LOCATION:Altia Skybar – DC Tower\, Donau-City-Straße 7\, 1220 Wien
+DESCRIPTION:MAWU\, Benjay\nVeranstalter: AWSM\nEintritt: €30–40 (gün
+ stigere Stufen ausverkauft)\n\nRooftop-House-Party von AWSM in der Altia
+  Skybar im 58. Stock des 220 Meter hohen DC Tower (Zugang über das Hote
+ l Meliá Vienna) mit Afro House und Melodic House von MAWU und Benjay\, 
+ 23:00–05:00. AUSVERKAUFT: Alle Ticketstufen (15–40 €) sind vergrif
+ fen\, es gibt eine Warteliste\; Zusatztermin am 27.11. Ab 19 mit Ausweis
+ \, Dresscode classy/smart\; Anreise mit der U1 bis Kaisermühlen-VIC.\n\
+ nhttps://rave.wien/e/2026-11-28-awsm-skyscraper-edition
+URL:https://rave.wien/e/2026-11-28-awsm-skyscraper-edition
+END:VEVENT
+END:VCALENDAR

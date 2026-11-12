@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rosa Nebel · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-28-kalte-das-celeste-wird-12-1-25@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T220000
+DTEND;TZID=Europe/Vienna:20261129T060000
+SUMMARY:KÄLTE! das celeste wird 12+1+25
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Rosa Nebel\, Mitra\, Lucia Kagramanyan\, Heap\, DJ Keshi\n\nD
+ as Celeste feiert Geburtstag („wird 12+1+25“) mit der Nacht „KÄLT
+ E!“. Live spielen Rosa Nebel und Mitra\, als DJs sind Lucia Kagramanya
+ n\, Heap und DJ Keshi dabei. Von 22:00 bis 06:00. Preis\, Genres und Fly
+ er sind auf der Seite des Celeste nicht angegeben.\n\nhttps://rave.wien/
+ e/2026-11-28-kalte-das-celeste-wird-12-1-25
+URL:https://rave.wien/e/2026-11-28-kalte-das-celeste-wird-12-1-25
+END:VEVENT
+END:VCALENDAR

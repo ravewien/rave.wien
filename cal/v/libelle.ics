@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Libelle · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-14-strict-the-dark-circus@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T200000
+DTEND;TZID=Europe/Vienna:20261115T040000
+SUMMARY:STRICT! The Dark Circus
+LOCATION:Libelle\, Tellgasse 25/1\, 1150 Wien
+DESCRIPTION:Veranstalter: STRICT!\nEintritt: €30\n\nSTRICT! lädt zur P
+ lay-Party „The Dark Circus“ in die Libelle\; ausdrücklich keine Tan
+ zparty oder Rave\, sondern ein Abend mit Ringmasters\, Dompteur*innen\, 
+ Freaks\, Dark Clowns\, Akrobat*innen und Burlesque-Performances. Teilnah
+ me nur mit Voranmeldung per E-Mail an submit@strict.events (Name laut Au
+ sweis\, Alter\, Geschlechtsidentität\, Bestätigung des Verhaltenskodex
+ \, Safeword und kurzes Motivationsschreiben)\, Eintritt 30 €\, ab 21. 
+ Dresscode Fetisch/Theaterkostüm (Latex\, Leder\, Korsagen\, Samt u. Ä.
+ )\; keine Streetwear\, Anzüge oder bloße Nacktheit\, Straßenschuhe bl
+ eiben am Eingang\, saubere Innenschuhe mitbringen. Es gelten Konsens\, D
+ rogenverbot und Safer-Sex-Regeln\, ein Safeguarding-Team ist da\, das Sa
+ feword „Elephant“ alarmiert sofort das Personal. Fotos\, Filmen und 
+ Smart Glasses sind verboten\, Handys nur im Eingangsbereich\; Einlass 20
+ –23 Uhr\, Ende 04:00.\n\nhttps://rave.wien/e/2026-11-14-strict-the-dar
+ k-circus
+URL:https://rave.wien/e/2026-11-14-strict-the-dark-circus
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-ungeniert-vol-5@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T210000
+DTEND;TZID=Europe/Vienna:20261206T020000
+SUMMARY:Ungeniert Vol. 5
+LOCATION:Libelle\, Tellgasse 25/1\, 1150 Wien
+DESCRIPTION:Eintritt: €29\n\nAuf ungeniert.org ist Vol. 5 noch nicht an
+ gekündigt (letzter Stand: Vol. 4 am 16.10.). Ablauf laut Veranstalter: 
+ Fragebogen\, Warteliste\, Gästeliste. Dresscode sinnlich\, Hausschuhe m
+ itbringen. Einlass bis 00:00. Keine Abendkasse\; Erstbesucher:innen fül
+ len vorab einen Fragebogen aus. Keine DJs/Genres angegeben.\n\nhttps://r
+ ave.wien/e/2026-12-05-ungeniert-vol-5
+URL:https://rave.wien/e/2026-12-05-ungeniert-vol-5
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jules Foe · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-14-hot-n-wet@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T235900
+DTEND;TZID=Europe/Vienna:20261115T060000
+SUMMARY:Hot'n'Wet
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Jules Foe\, Lila Gold\, MEIOSISS\nVeranstalter: MEIOSISS\nEin
+ tritt: 10 €\n\nMEIOSISS veranstaltet am FLUCC Deck die sechste Ausgabe
+  ihrer Flirt-Party\, auf RA als „Hot & Flirty #6“ gelistet: Flirten 
+ soll statt per Dating-App wieder im echten Leben auf der Tanzfläche pas
+ sieren. Markenzeichen sind Flirt-Armbänder\, die anderen zeigen\, worau
+ f man Lust hat. Persönliche Grenzen und Einvernehmlichkeit sind Grundvo
+ raussetzung („only YES means YES“). Es spielen Lila Gold\, MEIOSISS 
+ und Jules Foe als Special Guest\, RA taggt Techno. Beginn 23:59 (RA-Besc
+ hreibung: 00:00)\, Ende 06:00\, 10 € für die ganze Nacht\, ab 18. RA 
+ und Techno Airlines führen den Abend inzwischen unter dem Titel „HOT 
+ & FLIRTY #6“.\n\nhttps://rave.wien/e/2026-11-14-hot-n-wet
+URL:https://rave.wien/e/2026-11-14-hot-n-wet
+END:VEVENT
+END:VCALENDAR

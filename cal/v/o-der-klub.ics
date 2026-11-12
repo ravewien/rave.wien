@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:O der Klub · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-13-fatima-hajji@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T060000
+SUMMARY:Fatima Hajji
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Fatima Hajji\nVeranstalter: SIGNAL\nEintritt: ab 12 €\n\nSI
+ GNAL präsentiert die in Spanien geborene DJ Fatima Hajji mit arabischen
+  Wurzeln\, deren Sound kraftvolle Tribal-Grooves mit energiegeladenem mo
+ dernem Techno verbindet. Sie legte mit 16 erstmals auf und spielte zu Sp
+ itzenzeiten über 120 Shows pro Jahr. Auftritte führten sie u. a. zu Aw
+ akenings\, Verknipt\, Monegros\, Medusa und Time Warp Spain sowie in Clu
+ bs wie Tresor Berlin\, Fabric London und Amnesia Ibiza. 2023 startete si
+ e ihre Reihe „Fatima Hajji Invites“ mit einem ausverkauften All-Nigh
+ t-Long im Fabrik Madrid. Beginn 23:00\, Tickets ab 12 €\, Dresscode ca
+ sual.\n\nhttps://rave.wien/e/2026-11-13-fatima-hajji
+URL:https://rave.wien/e/2026-11-13-fatima-hajji
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-nto-live@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T190000
+DTEND;TZID=Europe/Vienna:20261114T230000
+SUMMARY:NTO live
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:NTO\, Prismode\, Solvane\nEintritt: ab 25 €\n\nDer französ
+ ische Produzent NTO macht mit seiner neuen Live-Tour Station im O der Kl
+ ub. Er spielt melodischen Techno mit emotionaler Tiefe\, darunter neue\,
+  unveröffentlichte Tracks seines kommenden Albums. Die Show ist als Mis
+ chung aus Konzert und Club mit treibenden Beats und filmischen Klangflä
+ chen angelegt. Beginn 19:00\, Tickets ab 25 € über ticketlodge\; Supp
+ ort und Set-Zeiten sind nicht genannt.\n\nhttps://rave.wien/e/2026-11-14
+ -nto-live
+URL:https://rave.wien/e/2026-11-14-nto-live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-november-transmission@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T230000
+DTEND;TZID=Europe/Vienna:20261128T040000
+SUMMARY:November-Transmission
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Eintritt: 8–12 €\n\nMonatliche „Transmission“-Nacht i
+ m O – der Klub auf drei Floors unter der Oper\, jeder mit eigenem Soun
+ d: Core mit Hits & Classics\, Orbit mit Melodic House & Techno und das K
+ onsulat mit Hip-Hop & Urban. Beginn 23:00\, Tickets 8–12 €\, Dressco
+ de casual chic\, Tischreservierung mit VIP-Eingang möglich\; ab 18 laut
+  Hausregel. Ein Lineup ist noch nicht genannt. Die Meta-Beschreibung der
+  Seite verweist noch auf eine frühere Ausgabe („2. Jänner“\, „Fr
+ ee entry“)\, der Eventtext nennt aber den 27.11. und Ticketpreise.\n\n
+ https://rave.wien/e/2026-11-27-november-transmission
+URL:https://rave.wien/e/2026-11-27-november-transmission
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-december-transmission@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T040000
+SUMMARY:December-Transmission
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Eintritt: 8–12 €\n\nMonatliche „Transmission“-Nacht i
+ m O – der Klub unter dem Motto „Three floors\, one night“\, jeder 
+ Floor mit eigenem Sound: Core mit Hits & Classics\, Orbit mit Melodic Ho
+ use & Techno und das Konsulat mit Hip-Hop & Urban. Namen von DJs sind no
+ ch nicht genannt. Beginn 23:00\, Tickets 8–12 €\, Dresscode casual c
+ hic\; Tischreservierung mit VIP-Eingang und Bottle-Service möglich. Die
+  Meta-Beschreibung der Seite verweist noch auf eine frühere Ausgabe (
+ „2. Jänner“\, „Free entry“)\, der Eventtext nennt aber den 4.12
+ . und Ticketpreise.\n\nhttps://rave.wien/e/2026-12-04-december-transmiss
+ ion
+URL:https://rave.wien/e/2026-12-04-december-transmission
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-monday-transmission@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T230000
+DTEND;TZID=Europe/Vienna:20261208T040000
+SUMMARY:Monday-Transmission
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Eintritt: 8–12 €\n\nSonderausgabe der „Transmission“-
+ Nacht im O – der Klub an einem Montag\, da der folgende Tag (8. Dezemb
+ er) ein Feiertag ist. Drei Floors unter der Oper mit je eigenem Sound: C
+ ore mit Hits & Classics\, Orbit mit Melodic House & Techno und das Konsu
+ lat mit Hip-Hop & Urban. Namen von DJs sind noch nicht genannt. Beginn 2
+ 3:00\, Tickets 8–12 €\, Dresscode casual chic\; Tischreservierung mi
+ t VIP-Eingang und Bottle-Service möglich. Die Seite nennt fälschlich 
+ „Friday\, 7 December“ und in der Meta-Beschreibung noch eine früher
+ e Ausgabe („2. Jänner“).\n\nhttps://rave.wien/e/2026-12-07-monday-t
+ ransmission
+URL:https://rave.wien/e/2026-12-07-monday-transmission
+END:VEVENT
+END:VCALENDAR

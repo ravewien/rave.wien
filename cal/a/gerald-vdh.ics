@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gerald VDH · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-20-fish-market-w-altinbas-annika-stein-gerald-vdh@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Fish Market w/ Altinbas\, Annika Stein\, Gerald VDH
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: Altinbas\, Annika Stein\, Gerald VDH\nKitchen (hos
+ ted by LuvAffair): Lim Banda\, Sabina\, Ernst\nVeranstalter: Fish Market
+ \, Luv Affair\nEintritt: 20–25 €\n\nFish Market feiert in der Grelle
+  Forelle fünf Jahre Annika Stein als Resident der Reihe MEAT MARKET –
+  mit einem ihrer Closing-Sets. Headliner ist Ahmet Altinbas\, türkisch-
+ belgischer Artist\, Resident und Label-Kurator im Brüsseler Club Fuse u
+ nd eines der prägenden Talente im modernen Techno\; dazu spielt Gerald 
+ VDH auf dem Mainfloor. Die Kitchen hostet LuvAffair mit Lim Banda\, Sabi
+ na und Ernst. Einlass ab 23:00\; Vorverkauf über Eventjet: VVK regulär
+  20 € (mit Newsletter) bzw. 22 €\, Last Minute 25 € (ein Super Ear
+ ly Bird um 14 € ist gelistet)\, Abendkassa ab 23:00. Strikte Hausregel
+ n gegen Homophobie\, Rassismus und Sexismus\; Foto- und Videoverbot\, di
+ e Handykameras werden am Eingang abgeklebt.\n\nhttps://rave.wien/e/2026-
+ 11-20-fish-market-w-altinbas-annika-stein-gerald-vdh
+URL:https://rave.wien/e/2026-11-20-fish-market-w-altinbas-annika-stein-ge
+ rald-vdh
+END:VEVENT
+END:VCALENDAR

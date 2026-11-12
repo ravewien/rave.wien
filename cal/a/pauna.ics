@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PAUNA · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-20-schall-schabernack@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T235900
+DTEND;TZID=Europe/Vienna:20261121T050000
+SUMMARY:Schall & Schabernack
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:L!KA\, Laerm\, bobbyyxjohnson\, PAUNA\nVeranstalter: Schall &
+  Schabernack\nEintritt: 8 € (AK)\n\nClubnacht der Reihe Schall & Schab
+ ernack im Club Lucia unter dem Motto „Nur bis 5 aber keine Polizei“:
+  Die Wälder sind still und die Nächte länger\, doch die Lust auf trei
+ bende Basslines kennt keine Jahreszeit. Lokale DJs spielen ausgewählten
+  Hard Groove und Techno. L!KA eröffnet (23:59–01:30)\, dann Laerm b2b
+  bobbyyxjohnson (Instagram-Name\, 01:30–03:30)\, zum Schluss die Wiene
+ r Techno-DJ PAUNA (03:30–05:00)\, Kernmitglied von RAW SESSION und Mit
+ gründerin von ALERT[A]. Eintritt 8 € an der Abendkassa\, Ende 5 Uhr.\
+ n\nhttps://rave.wien/e/2026-11-20-schall-schabernack
+URL:https://rave.wien/e/2026-11-20-schall-schabernack
+END:VEVENT
+END:VCALENDAR

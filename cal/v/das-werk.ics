@@ -1,0 +1,248 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Das Werk · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-11-rave-am-mittwoch@rave.wien
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Vienna:20261111T230000
+DTEND;TZID=Europe/Vienna:20261112T040000
+SUMMARY:Rave am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentliche Rave am M
+ ittwoch (RAM) im Werk unter dem Motto „Recharge Wednesdays“ – laut
+  Veranstalter jede Woche harte Beats und lange Nächte. Beginn 23 Uhr\; 
+ der Eintritt erfolgt in den bisherigen Ausgaben gegen freiwillige Spende
+ \, ein Dresscode existiert nicht. Ein Awareness-Team ist vor Ort. Das Li
+ ne-up dieser Ausgabe ist noch nicht veröffentlicht.\n\nhttps://rave.wie
+ n/e/2026-11-11-rave-am-mittwoch
+URL:https://rave.wien/e/2026-11-11-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-dyst-pia-rave-with-schellt@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T040000
+SUMMARY:DYSTØPIA RAVE with SCHELLT
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:SCHELLT\, Kamafaka\nVeranstalter: Dystopia Rave\n\nDYSTØPIA 
+ RAVE ist eine Techno-Reihe im Werk\; diese Ausgabe steht im Zeichen von 
+ SCHELLT als Hauptact\, dazu spielt Kamafaka. Tickets gibt es über Resid
+ ent Advisor. Beginn 23 Uhr\; Ende und Preis wurden bisher nicht veröffe
+ ntlicht. Im Werk gilt laut Hausregel ein Mindestalter von 21 Jahren.\n\n
+ https://rave.wien/e/2026-11-13-dyst-pia-rave-with-schellt
+URL:https://rave.wien/e/2026-11-13-dyst-pia-rave-with-schellt
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-herzfrequenz-herzi-f2f-edition@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T230000
+DTEND;TZID=Europe/Vienna:20261115T040000
+SUMMARY:Herzfrequenz: Herzi F2F Edition
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Joey\, Crystal O\, DJ Wifi\, DJ Wolle\, Kat Ze\, Mischkonsum\
+ , Trugbild\, VIERZUDREI\nVeranstalter: Herzfrequenz\nEintritt: ab 18\,50
+  € (oeticket\, inkl. Gebühr)\n\nHerzfrequenz lädt zur „Herzi Face 
+ 2 Face Edition“ ins Werk. Laut Techno Airlines spielen Joey\, Crystal 
+ O\, DJ Wifi\, DJ Wolle\, Kat Ze\, Mischkonsum\, Trugbild und VIERZUDREI\
+ ; Floors und Set-Zeiten sind noch nicht angegeben. Beginn 23:00. Tickets
+  gibt es über oeticket (ab 18\,50 € inkl. Gebühr)\, RA führt das Ev
+ ent ebenfalls mit Ticketverkauf.\n\nhttps://rave.wien/e/2026-11-14-herzf
+ requenz-herzi-f2f-edition
+URL:https://rave.wien/e/2026-11-14-herzfrequenz-herzi-f2f-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-rave-am-mittwoch@rave.wien
+DTSTAMP:20261118T000000Z
+DTSTART;TZID=Europe/Vienna:20261118T230000
+DTEND;TZID=Europe/Vienna:20261119T040000
+SUMMARY:Rave am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentliche Rave am M
+ ittwoch (RAM) im Werk unter dem Motto „Recharge Wednesdays“ – laut
+  Veranstalter jede Woche harte Beats und lange Nächte. Beginn 23 Uhr\; 
+ der Eintritt erfolgt in den bisherigen Ausgaben gegen freiwillige Spende
+ \, ein Dresscode existiert nicht. Ein Awareness-Team ist vor Ort. Das Li
+ ne-up dieser Ausgabe ist noch nicht veröffentlicht.\n\nhttps://rave.wie
+ n/e/2026-11-18-rave-am-mittwoch
+URL:https://rave.wien/e/2026-11-18-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Synergy Rave x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\, KARTELL.FM\, HEKTISCH\nEintritt: VVK 
+ 15 € / Early Bird 10 €\; AK 15 €\, ab 00:00 18 €\n\nSynergy Rave
+  bringt Trance und Hard Techno auf zwei Floors ins Werk: Auf dem Lusterf
+ loor kuratiert KARTELL.FM von 23 bis 6 Uhr Trance & Bounce\, auf dem Las
+ terfloor übernimmt HEKTISCH von 0 bis 6 Uhr mit Hard Techno. Weitere Ac
+ ts sind noch nicht bekannt. Early Bird 10 €\, Vorverkauf 15 €\, Aben
+ dkasse 15 € bzw. 18 € ab Mitternacht\; Einlass ab 18. Zero Tolerance
+  gegenüber Homophobie\, Sexismus und Rassismus.\n\nhttps://rave.wien/e/
+ 2026-11-20-synergy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2026-11-20-synergy-rave-x-trance-hard-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-54hz-pres-creeds@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T230000
+DTEND;TZID=Europe/Vienna:20261122T040000
+SUMMARY:54Hz pres. CREEDS
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Main Floor: CREEDS\, Arman Shadow\, DJ Wolle\, Rantom\, SoDa\
+ nLuster Floor: MUSA\, ADANA\, adrialin\nVeranstalter: 54Hz\, Stay Acid\n
+ \nStay Acid präsentiert eine weitere 54Hz-Nacht im Werk\, Headliner ist
+  CREEDS („Wien seid ihr Ready?“). Auf dem Main Floor spielen außerd
+ em Arman Shadow\, DJ Wolle sowie Rantom b2b SoDa\, auf dem Luster Floor 
+ MUSA\, ADANA und adrialin. events.at ordnet den Abend Bounce\, Hard Danc
+ e und Hard Techno zu. Beginn 23:00\; Tickets über oeticket\, Preise wur
+ den in den gelesenen Quellen nicht genannt.\n\nhttps://rave.wien/e/2026-
+ 11-21-54hz-pres-creeds
+URL:https://rave.wien/e/2026-11-21-54hz-pres-creeds
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-rave-am-mittwoch@rave.wien
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Vienna:20261125T230000
+DTEND;TZID=Europe/Vienna:20261126T040000
+SUMMARY:Rave am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentliche Rave am M
+ ittwoch (RAM) im Werk unter dem Motto „Recharge Wednesdays“ – laut
+  Veranstalter jede Woche harte Beats und lange Nächte\, Beginn 23 Uhr. 
+ Frühere Ausgaben (z. B. 14.10. mit FIFI RAVE) liefen mit Hardgroove und
+  Techno\, 18+\, Eintritt gegen freiwillige Spende\, ohne Dresscode und m
+ it Awareness-Team. Das Line-up dieser Ausgabe ist noch nicht veröffentl
+ icht.\n\nhttps://rave.wien/e/2026-11-25-rave-am-mittwoch
+URL:https://rave.wien/e/2026-11-25-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-resident-night-golpe-detoxx@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T230000
+DTEND;TZID=Europe/Vienna:20261128T040000
+SUMMARY:Resident Night: GOLPE // DETOXX
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:GOLPE\, DETOXX\n\nResident Night im Werk mit GOLPE und DETOXX
+ \, Beginn 23:00. Laut Programm des Werks spielen die beiden Residents\; 
+ weitere Acts\, Preise und Tickets sind noch nicht angekündigt.\n\nhttps
+ ://rave.wien/e/2026-11-27-resident-night-golpe-detoxx
+URL:https://rave.wien/e/2026-11-27-resident-night-golpe-detoxx
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-nine-circles@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T230000
+DTEND;TZID=Europe/Vienna:20261129T040000
+SUMMARY:Nine Circles
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Ninecircles\n\nNinecircles-Nacht im Werk\; Line
+ -up noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-11-28-nine-c
+ ircles
+URL:https://rave.wien/e/2026-11-28-nine-circles
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-psytrance-universe-werk@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T220000
+DTEND;TZID=Europe/Vienna:20261213T120000
+SUMMARY:Psytrance Universe @ Werk
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: FromDuskTillDawn\, Psytrance Universe\n\nPsytra
+ nce-Nacht von FromDuskTillDawn im Werk\, die bis Sonntagmittag (12 Uhr) 
+ läuft. Das Line-up ist noch nicht veröffentlicht.\n\nhttps://rave.wien
+ /e/2026-12-12-psytrance-universe-werk
+URL:https://rave.wien/e/2026-12-12-psytrance-universe-werk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-herzfrequenz@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T230000
+DTEND;TZID=Europe/Vienna:20261219T040000
+SUMMARY:HERZFREQUENZ
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Joey\, Kø:lab\, carlo kalu\, HNAS\nVeranstalter: Herzfrequen
+ z\n\nAuftakt des zweitägigen HERZFREQUENZ Weekenders im Werk (Tag 1\, a
+ b 23:00). Angekündigt sind Joey\, Kø:lab\, carlo kalu und HNAS\; am Fo
+ lgetag (19.12.) geht der Weekender mit Joey und Amøn weiter. Preise sin
+ d noch nicht veröffentlicht\, Tickets über Resident Advisor.\n\nhttps:
+ //rave.wien/e/2026-12-18-herzfrequenz
+URL:https://rave.wien/e/2026-12-18-herzfrequenz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-herzfrequenz-weekender-day-2@rave.wien
+DTSTAMP:20261219T000000Z
+DTSTART;TZID=Europe/Vienna:20261219T230000
+DTEND;TZID=Europe/Vienna:20261220T040000
+SUMMARY:HERZFREQUENZ WEEKENDER: DAY 2
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Joey\, Amøn\nVeranstalter: Herzfrequenz\n\nZweiter Tag des H
+ ERZFREQUENZ Weekenders im Werk ab 23:00\, nach dem Auftakt am 18.12. Ang
+ ekündigt sind Joey und Amøn. Preis\, Ende und Flyer sind noch nicht ve
+ röffentlicht.\n\nhttps://rave.wien/e/2026-12-19-herzfrequenz-weekender-
+ day-2
+URL:https://rave.wien/e/2026-12-19-herzfrequenz-weekender-day-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-09-psytrance-werk@rave.wien
+DTSTAMP:20270109T000000Z
+DTSTART;TZID=Europe/Vienna:20270109T230000
+DTEND;TZID=Europe/Vienna:20270110T060000
+SUMMARY:Psytrance @ Werk
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: FromDuskTillDawn\n\nMonatliche Psytrance-Nacht 
+ von FromDuskTillDawn im Werk. Das Line-up ist noch nicht veröffentlicht
+ .\n\nhttps://rave.wien/e/2027-01-09-psytrance-werk
+URL:https://rave.wien/e/2027-01-09-psytrance-werk
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-13-psytrance-werk@rave.wien
+DTSTAMP:20270213T000000Z
+DTSTART;TZID=Europe/Vienna:20270213T230000
+DTEND;TZID=Europe/Vienna:20270214T060000
+SUMMARY:Psytrance @ Werk
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: FromDuskTillDawn\n\nMonatliche Psytrance-Nacht 
+ von FromDuskTillDawn im Werk. Das Line-up ist noch nicht veröffentlicht
+ .\n\nhttps://rave.wien/e/2027-02-13-psytrance-werk
+URL:https://rave.wien/e/2027-02-13-psytrance-werk
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-psytrance-werk@rave.wien
+DTSTAMP:20270313T000000Z
+DTSTART;TZID=Europe/Vienna:20270313T230000
+DTEND;TZID=Europe/Vienna:20270314T060000
+SUMMARY:Psytrance @ Werk
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: FromDuskTillDawn\n\nMonatliche Psytrance-Nacht 
+ von FromDuskTillDawn im Werk. Das Line-up ist noch nicht veröffentlicht
+ .\n\nhttps://rave.wien/e/2027-03-13-psytrance-werk
+URL:https://rave.wien/e/2027-03-13-psytrance-werk
+END:VEVENT
+END:VCALENDAR

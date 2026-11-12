@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Active8 · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-07-maiden-voyage-w-tapanov@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T223000
+DTEND;TZID=Europe/Vienna:20261208T060000
+SUMMARY:Maiden Voyage w/ Tapanov
+LOCATION:The Chamber\, Hernalser Gürtel 18\, 1080 Wien
+DESCRIPTION:Tapanov\, Active8\, Askeladd\, Katana\, Twisted Aura\nVeranst
+ alter: Uniquely Journeys\n\nErste Ausgabe („Jungfernfahrt“) der neue
+ n Psytrance-Reihe von Uniquely Journeys am Abend vor dem Feiertag\, mit 
+ DJ Tapanov als Headliner sowie Active8\, Askeladd\, Katana und Twisted A
+ ura.\n\nhttps://rave.wien/e/2026-12-07-maiden-voyage-w-tapanov
+URL:https://rave.wien/e/2026-12-07-maiden-voyage-w-tapanov
+END:VEVENT
+END:VCALENDAR

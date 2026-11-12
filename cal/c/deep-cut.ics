@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:deep cut · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-13-deep-cut-dark-pressure@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T060000
+SUMMARY:deep cut × Dark Pressure
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Alex Maurer\, Aura\, Oxygeno\, Melimeko\nVeranstalter: deep c
+ ut\, Dark Pressure\nEintritt: 15 € VVK / 18 € AK\n\ndeep cut und Dar
+ k Pressure präsentieren eine Nacht mit hypnotischem und deepem Techno i
+ n der FLUCC Wanne. Hauptgast ist Oxygeno aus Spanien\, der rohe\, emotio
+ nale Produktionen u. a. auf Mord\, Axis\, Semantica\, Non Series und Som
+ a veröffentlicht hat\, das Label Lost Verses betreibt und international
+  neben Jeff Mills\, Oscar Mulero und Ø [Phase] spielte. Alex Maurer (Tu
+ rbo) eröffnet um 23:00\, um 00:45 feiert Aura Premiere\, das dawless Li
+ ve-Projekt von Dcascallana und pezel. Oxygeno spielt ab 02:15\, Melimeko
+  (RAW Session) schließt von 04:15 bis 06:00. Tickets 15 € im VVK\, 18
+  € an der Abendkasse\; Flyer-Artwork von Martin Daxinger. frey-tag.at 
+ führt das Event abweichend im Kramladen\; flucc.at nennt die FLUCC Wann
+ e.\n\nhttps://rave.wien/e/2026-11-13-deep-cut-dark-pressure
+URL:https://rave.wien/e/2026-11-13-deep-cut-dark-pressure
+END:VEVENT
+END:VCALENDAR

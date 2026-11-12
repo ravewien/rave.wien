@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Drehli Robnik · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-22-sonntag-sdisco-vol-29@rave.wien
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Vienna:20261122T200000
+DTEND;TZID=Europe/Vienna:20261122T234500
+SUMMARY:Sonntag'sdisco Vol. 29
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Drehli Robnik\nEintritt: 10 € (nur AK)\n\nDie 29. Ausgabe d
+ er Sonntag'sdisco am FLUCC Deck von 20:00 bis 23:45. Ein Live-Act ist an
+ gekündigt\, aber noch nicht benannt. Davor und danach legt Drehli Robni
+ k viele seiner Platten auf. Eintritt 10 €\, nur an der Abendkasse.\n\n
+ https://rave.wien/e/2026-11-22-sonntag-sdisco-vol-29
+URL:https://rave.wien/e/2026-11-22-sonntag-sdisco-vol-29
+END:VEVENT
+END:VCALENDAR

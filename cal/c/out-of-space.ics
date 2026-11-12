@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Out of Space · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-12-out-of-space@rave.wien
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=Europe/Vienna:20261112T230000
+DTEND;TZID=Europe/Vienna:20261113T040000
+SUMMARY:OUT OF SPACE
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Veranstalter: Out of Space\n\nNeue Ausgabe der Donnerstagsrei
+ he OUT OF SPACE im Weberknecht\, Beginn 23 Uhr. Die Reihe steht für Psy
+ trance-/Goa-Nächte am Gürtel\; frühere Ausgaben kosteten 5 €. Line-
+ up\, Preis und Flyer dieser Ausgabe sind bisher nicht veröffentlicht 
+ – Techno Airlines verweist auf ein RA-Event.\n\nhttps://rave.wien/e/20
+ 26-11-12-out-of-space
+URL:https://rave.wien/e/2026-11-12-out-of-space
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-out-of-space-xmas-eve@rave.wien
+DTSTAMP:20261224T000000Z
+DTSTART;TZID=Europe/Vienna:20261224T230000
+DTEND;TZID=Europe/Vienna:20261225T060000
+SUMMARY:OUT OF SPACE Xmas Eve
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Veranstalter: Nasty Connexion\, Out of Space\n\nWeihnachtsaus
+ gabe der Psytrance-Reihe Out of Space von Nasty Connexion\, die sonst do
+ nnerstags im Weberknecht läuft (zuletzt 5 € inkl. Shot). Line-up folg
+ t.\n\nhttps://rave.wien/e/2026-12-24-out-of-space-xmas-eve
+URL:https://rave.wien/e/2026-12-24-out-of-space-xmas-eve
+END:VEVENT
+END:VCALENDAR

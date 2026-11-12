@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Loft · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-12-pharmafest@rave.wien
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=Europe/Vienna:20261112T230000
+DTEND;TZID=Europe/Vienna:20261113T040000
+SUMMARY:Pharmafest
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:DJ Mimo\, DJ Etherdoll\nEintritt: 7 €\n\nDas Pharmafest fin
+ det dieses Jahr im Loft statt\, unten im Club. DJ Mimo eröffnet mit Dis
+ co und Tech\, danach spielt DJ Etherdoll Drum & Bass und Bounce. Einlass
+  und Musik ab 23:00\, Eintritt 7 €. Eine Endzeit und ein Mindestalter 
+ nennt die Location nicht.\n\nhttps://rave.wien/e/2026-11-12-pharmafest
+URL:https://rave.wien/e/2026-11-12-pharmafest
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-rudebwoy-embassy-meets-bassclub-30-years-jah-powe@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T040000
+SUMMARY:Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Oben (Bassclub): Pezo Fox\, Mantis\, Stoney Curtis\, Zuzee\, 
+ Scooby Duo\nUnten (Jah Power Sound / Rude Bwoy Embassy): Dicie Globie\, 
+ Sparky Rugged\, Astarr\, Ijahson\, Bandulu\, Camel\, DJ Smo\, Baba Sound
+ \, Kings Crown Sound\, Thr33lake\, Jah Power Sound\, Royal Marx Sound\, 
+ G Spot Sound\nVeranstalter: Bassclub\, Rude Bwoy Embassy\, Jah Power Sou
+ nd\nEintritt: 10 € bis 24:00\, danach 15 € / Ladies free bis 24:00\n
+ \nRudebwoy Embassy und Bassclub feiern 30 Jahre Jah Power Sound und dami
+ t jamaikanische Soundsystem-Kultur in Österreich\, mit 13 DJs und 6 Liv
+ e-Acts auf zwei Floors. Oben übernimmt Bassclub mit Drum & Bass\, Dubst
+ ep\, Grime\, UK Bass\, Breaks\, Jungle und HipHop: Pezo Fox b2b Mantis\,
+  Stoney Curtis b2b Zuzee\, Scooby Duo und angekündigte Special Acts. Un
+ ten gehört die Bühne Jah Power Sound mit Reggae\, Dancehall und Dub: l
+ ive Dicie Globie\, Sparky Rugged\, Astarr\, Ijahson\, Bandulu und Camel.
+  An den Decks unten stehen DJ Smo\, Baba Sound\, Kings Crown Sound\, Thr
+ 33lake\, Jah Power Sound\, Royal Marx Sound und G Spot Sound. Beginn 23:
+ 00\; 10 € bis Mitternacht\, danach 15 €\, Frauen bis Mitternacht gra
+ tis.\n\nhttps://rave.wien/e/2026-11-13-rudebwoy-embassy-meets-bassclub-3
+ 0-years-jah-powe
+URL:https://rave.wien/e/2026-11-13-rudebwoy-embassy-meets-bassclub-30-yea
+ rs-jah-powe
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-sub-zero@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Sub Zero
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Userkiller\, Kjaer\, Mark Dale\, Mike Mystik\, MANiLO\, Chica
+ no\nVeranstalter: Sub Zero\nEintritt: 10 € vor 00:00 / 12 € danach\n
+ \n„Vienna meets Berlin“: Sub Zero bringt den Berliner Techno-Sound i
+ ns The Loft und lässt ihn auf die dunklere\, rohere Seite der Wiener Sz
+ ene treffen – kein polierter Clubsound\, kein Mainstream\, sondern tre
+ ibende Kicks\, düstere Atmosphären und kompromissloser Techno. Aus Deu
+ tschland kommen Userkiller (Tresor Berlin\, R.C.S)\, MANiLO (Vorwärts M
+ usik\, R.C.S) und Chicano (R.C.S). Die österreichische Seite vertreten 
+ Kjaer (IAMT Red\, Fine Artistry)\, Mark Dale (Republic Artists\, Dynamic
+ ) und Mike Mystik (Dunkelton\, Shadow State). Gespielt wird im oberen Fl
+ oor\; Eintritt 10 € vor Mitternacht\, 12 € danach.\n\nhttps://rave.w
+ ien/e/2026-11-20-sub-zero
+URL:https://rave.wien/e/2026-11-20-sub-zero
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-manner-im-loft@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T040000
+SUMMARY:Männer im Loft
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:DJ Countessa\, Sebastian Wagner\, Noemi Universe\nEintritt: 1
+ 3–18 € / Trans\, Drags & Refugees frei\n\nZweite Ausgabe der Partyre
+ ihe „Männer im Loft“ (Tickets über Vangardist) mit „Home-Party-V
+ ibes“ im Unten-Floor und dem Wohnzimmer als Chill-Bereich mit Couches.
+  Es legen DJ Countessa\, Sebastian Wagner und Noemi Universe auf. Freier
+  Eintritt für Trans-Personen\, Drags und Geflüchtete. Genre nicht ange
+ geben.\n\nhttps://rave.wien/e/2026-11-20-manner-im-loft
+URL:https://rave.wien/e/2026-11-20-manner-im-loft
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-bassbussi-allstars-3-years-anniversary@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T230000
+DTEND;TZID=Europe/Vienna:20261128T040000
+SUMMARY:Bassbussi Allstars – 3 Years Anniversary
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Oben: Andrew Ahmed\, Sluzy\, PartyPauli\, maro\, Arman Shadow
+ \, Leanne\nUnten: Ave Maria\, Christella\, WO.IZZY\, DJ Parkverbot\, Asc
+ henbrenner\, Zeq\, Anatol\, Pinklotion\nVeranstalter: Bassbussi\nEintrit
+ t: 15 €\n\nBassbussi feiert den dritten Geburtstag im The Loft mit ein
+ em „BB-Allstars B2B Special“: drei Jahre Bass\, Nächte am Dancefloo
+ r und gemeinsame Erinnerungen. Oben spielen Andrew Ahmed b2b Sluzy\, Par
+ tyPauli b2b Maro und Arman Shadow b2b Leanne\, unten Ave Maria b2b Chris
+ tella\, WO.IZZY b2b DJ Parkverbot\, Aschenbrenner b2b Zeq und Anatol b2b
+  Pinklotion – alle Sets als B2B. Start 23:00\, Eintritt 15 €. Set-Ze
+ iten\, Ende und Mindestalter nennt die Location nicht.\n\nhttps://rave.w
+ ien/e/2026-11-27-bassbussi-allstars-3-years-anniversary
+URL:https://rave.wien/e/2026-11-27-bassbussi-allstars-3-years-anniversary
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-empyreon-vol-iv@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T220000
+DTEND;TZID=Europe/Vienna:20261205T030000
+SUMMARY:Empyreon – Vol. IV
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Robert Maslach\, Fede Frostl\, The Wash\, Edictum\nVeranstalt
+ er: Empyreon\, Kollektiv Birdhouse\nEintritt: Freie Spende\n\nVierte Aus
+ gabe von Empyreon im Wohnzimmer des Loft: Gastgeber Kollektiv Birdhouse 
+ will in Wien eine Progressive-House-Underground-Szene aufbauen und setzt
+  auf ein internationales Lineup und DJ-Handwerk. Die Sets sind als Bogen
+  geplant – von deepen Grooves über treibende\, melodische und emotion
+ ale Sounds bis zu dunklen\, technoiden\, hypnotischen Rhythmen. Es spiel
+ en Robert Maslach\, Fede Fröstl\, The Wash und Edictum (Edictum war sch
+ on bei Vol. III dabei)\; Set-Zeiten sind noch nicht veröffentlicht. Ein
+ tritt gegen freie Spende.\n\nhttps://rave.wien/e/2026-12-04-empyreon-vol
+ -iv
+URL:https://rave.wien/e/2026-12-04-empyreon-vol-iv
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-glitch-vienna-pres-stef-davidse@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T230000
+DTEND;TZID=Europe/Vienna:20261208T040000
+SUMMARY:GLITCH Vienna pres. Stef Davidse
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Stef Davidse\, TenFifty\, LLo\nVeranstalter: GLITCH\, Resonan
+ ce Social Artists\nEintritt: 7–15 €\n\nNach kleinen Off-Location-Par
+ tys in Kärnten bringt GLITCH sein bisher größtes Event nach Wien: Hea
+ dliner ist der Niederländer Stef Davidse (Eastenderz). Dazu spielen GLI
+ TCH-Resident Tenfifty und LLo (IT) von Resonance Social Artists aus Mail
+ and. Ein Raum\, ein Dancefloor\, House-Musik. Die Loft-Website nennt als
+  Termin Montag\, 7.12.2026\, mit der offensichtlichen Platzhalter-Uhrzei
+ t 00:23\; Beginn und genaue Nacht sind daher noch unklar.\n\nhttps://rav
+ e.wien/e/2026-12-07-glitch-vienna-pres-stef-davidse
+URL:https://rave.wien/e/2026-12-07-glitch-vienna-pres-stef-davidse
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-manner-im-loft@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T230000
+DTEND;TZID=Europe/Vienna:20261208T040000
+SUMMARY:Männer im Loft
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Eintritt: 13/15 € / Trans\, Drags & Refugees frei\n\nWeiter
+ e Ausgabe der Partyreihe „Männer im Loft“ in der Nacht vor dem Feie
+ rtag (Montag\, 7. Dezember) – Motto „Bring nothing. Find everyone.
+ “\, laut Ankündigung die Fortsetzung der Sommerpartys im Volksgarten.
+  Gefeiert wird im Unten-Floor mit kuratiertem Sound und Remixes\, das Wo
+ hnzimmer dient als zweiter Raum. Das Lineup ist noch TBA. Eintritt 13/15
+  €\, frei für Trans-Personen\, Drags und Geflüchtete.\n\nhttps://rav
+ e.wien/e/2026-12-07-manner-im-loft
+URL:https://rave.wien/e/2026-12-07-manner-im-loft
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-titti-titti-bang-bang@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T220000
+DTEND;TZID=Europe/Vienna:20261212T030000
+SUMMARY:Titti Titti Bang Bang
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Veranstalter: Titti Queer Club\nEintritt: 10–15 €\n\nTitt
+ i ist eine queere Partyreihe in Wien\, die seit rund sieben Jahren queer
+ en Gästen einen sicheren Raum und queeren Künstler:innen eine offene B
+ ühne bietet – diesmal als „Titti Titti Bang Bang“ auf drei Floors
+  im The Loft mit Pop\, gemischter Musik sowie Techno/House (welcher Floo
+ r was spielt\, ist nicht angegeben). Das DJ-Lineup verweist auf die TTBB
+ -Website. Um 01:00 gibt es unten eine Drag-Show\, gehostet von Ryta Tale
+  und Metamorkid mit Philisha Conditioner und Bloodsugar\; von 00:00 bis 
+ 02:00 schenkt Horness Gratis-Shots aus. Eintritt 10/15 €\, ab 18\; all
+ e Geschlechter willkommen\, keine Toleranz für Sexismus\, Homophobie\, 
+ Rassismus\, Body-Shaming oder andere Diskriminierung.\n\nhttps://rave.wi
+ en/e/2026-12-11-titti-titti-bang-bang
+URL:https://rave.wien/e/2026-12-11-titti-titti-bang-bang
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-liminal-afterhour-3@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T063000
+DTEND;TZID=Europe/Vienna:20261212T130000
+SUMMARY:Liminal Afterhour #3
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Veranstalter: Liminal\nEintritt: 10 €\n\nDritte Ausgabe der
+  Liminal Afterhour im Loft am Samstagmorgen: auf zwei Floors soll es Tec
+ hno\, Tech House\, House\, Breakbeat und Disco geben\, das Lineup ist no
+ ch nicht bekannt. 06:00–13:00\, 10 €\, ab 21.\n\nhttps://rave.wien/e
+ /2026-12-12-liminal-afterhour-3
+URL:https://rave.wien/e/2026-12-12-liminal-afterhour-3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-cybertribe-pres-club-gspusi@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T230000
+DTEND;TZID=Europe/Vienna:20261219T040000
+SUMMARY:CYBERTRIBE pres. CLUB GSPUSI
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Veranstalter: Cybertribe\nEintritt: 10–15 €\n\nDas Wiener
+  Kollektiv Cybertribe präsentiert „Club Gspusi“ im Loft am Lerchenf
+ elder Gürtel. Gespielt wird auf zwei Floors (Oben und Unten) ab 23:00\,
+  der Eintritt liegt laut Programm des Loft bei 10–15 €. Das Lineup i
+ st noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-18-cybertr
+ ibe-pres-club-gspusi
+URL:https://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
+END:VEVENT
+END:VCALENDAR

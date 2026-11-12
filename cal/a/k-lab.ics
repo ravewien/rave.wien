@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kø:lab · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-18-herzfrequenz@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T230000
+DTEND;TZID=Europe/Vienna:20261219T040000
+SUMMARY:HERZFREQUENZ
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Joey\, Kø:lab\, carlo kalu\, HNAS\nVeranstalter: Herzfrequen
+ z\n\nAuftakt des zweitägigen HERZFREQUENZ Weekenders im Werk (Tag 1\, a
+ b 23:00). Angekündigt sind Joey\, Kø:lab\, carlo kalu und HNAS\; am Fo
+ lgetag (19.12.) geht der Weekender mit Joey und Amøn weiter. Preise sin
+ d noch nicht veröffentlicht\, Tickets über Resident Advisor.\n\nhttps:
+ //rave.wien/e/2026-12-18-herzfrequenz
+URL:https://rave.wien/e/2026-12-18-herzfrequenz
+END:VEVENT
+END:VCALENDAR

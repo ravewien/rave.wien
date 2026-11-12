@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Club Pompadour · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-14-club-pompadour@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T230000
+DTEND;TZID=Europe/Vienna:20261115T050000
+SUMMARY:Club Pompadour
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veronika Amie\, Paul Panther\, Philipp Blecha\nVeranstalter: 
+ Club Pompadour\nEintritt: 10–15 €\n\nDie langjährige Reihe Club Pom
+ padour\, seit den 2000er-Jahren eine feste Größe der österreichischen
+  Elektronik-Szene\, kehrt für eine Nacht zurück – diesmal ins SASS M
+ usic Club (23:00–05:00). Es spielen drei auf Vinyl fokussierte DJs: Ve
+ ronika Amie\, Paul Panther und Pompadour-Mitbegründer Philipp Blecha. E
+ intritt 10–15 € inklusive Welcome-Drink\, ab 18 mit Ausweis-\, Tasch
+ en- und Sicherheitskontrolle. Wie bei allen SASS-Events ist ein Awarenes
+ s-Team vor Ort\; Set-Zeiten wurden nicht veröffentlicht.\n\nhttps://rav
+ e.wien/e/2026-11-14-club-pompadour
+URL:https://rave.wien/e/2026-11-14-club-pompadour
+END:VEVENT
+END:VCALENDAR

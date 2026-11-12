@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SASS Music Club · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-12-donnerstag-nacht-green-light-collective@rave.wien
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=Europe/Vienna:20261112T230000
+DTEND;TZID=Europe/Vienna:20261113T060000
+SUMMARY:Donnerstag Nacht × Green Light Collective
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Grenco\, Andreas\, Ian Staraj\, Andrija Mlacovic\nVeranstalte
+ r: Green Light Collective\nEintritt: 10–15 € / Studierende 0–5 €
+ \n\nDonnerstag Nacht im SASS Music Club mit dem kroatischen Green Light 
+ Collective\, 2023 als „Collective of the Year“ ausgezeichnet und fes
+ ter Bestandteil von Love International in Tisno\; zuvor ist das Kollekti
+ v bei Radio Rudina in Wien zu Gast. Co-Gründer und Produzent Grenco spi
+ elt nach der Energie des Raums statt nach festen Regeln\, Andreas aus Gr
+ az ist visueller Leiter des Kollektivs und für abenteuerliche Plattenau
+ swahl bekannt. Ian Staraj und Andrija Mlacovic treten gemeinsam als Duo 
+ Phonophobes in kroatischen Clubs auf. Eintritt regulär 10–15 €\, St
+ udierende 0–5 €\, jeweils inklusive Willkommensgetränk\; Awareness-
+ Team vor Ort\, Einlass ab 18 mit Ausweis- und Taschenkontrolle.\n\nhttps
+ ://rave.wien/e/2026-11-12-donnerstag-nacht-green-light-collective
+URL:https://rave.wien/e/2026-11-12-donnerstag-nacht-green-light-collective
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-herzzz@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T060000
+SUMMARY:HERZZZ
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Anni Herzer\, Felix Rupprecht\, Julani\nVeranstalter: HERZZZ\
+ nEintritt: 10–15 €\n\nDie Wiener DJ und Veranstalterin Anni Herzer b
+ ringt ihre Reihe HERZZZ mit zwei Gästen ins SASS Music Club (23:00–06
+ :00). Ihre Sets sind treibend und energiegeladen\, mit großen Vocal-Mom
+ enten. Felix Rupprecht\, aus Frankfurt nach Wien gezogen\, ist Resident 
+ im PRST und Teil der Lighthouse-Crew\; er versteht seine Sets als Reisen
+ \, die die 1990er und frühen 2000er lebendig halten. Julani ist im Wien
+ er Underground verwurzelt und sucht stets nach Platten\, die sonst niema
+ nd kennt. Eintritt 10–15 € inkl. Welcome Drink\, ab 18 mit Ausweis- 
+ und Taschenkontrolle\; Awareness-Team vor Ort.\n\nhttps://rave.wien/e/20
+ 26-11-13-herzzz
+URL:https://rave.wien/e/2026-11-13-herzzz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-club-pompadour@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T230000
+DTEND;TZID=Europe/Vienna:20261115T050000
+SUMMARY:Club Pompadour
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veronika Amie\, Paul Panther\, Philipp Blecha\nVeranstalter: 
+ Club Pompadour\nEintritt: 10–15 €\n\nDie langjährige Reihe Club Pom
+ padour\, seit den 2000er-Jahren eine feste Größe der österreichischen
+  Elektronik-Szene\, kehrt für eine Nacht zurück – diesmal ins SASS M
+ usic Club (23:00–05:00). Es spielen drei auf Vinyl fokussierte DJs: Ve
+ ronika Amie\, Paul Panther und Pompadour-Mitbegründer Philipp Blecha. E
+ intritt 10–15 € inklusive Welcome-Drink\, ab 18 mit Ausweis-\, Tasch
+ en- und Sicherheitskontrolle. Wie bei allen SASS-Events ist ein Awarenes
+ s-Team vor Ort\; Set-Zeiten wurden nicht veröffentlicht.\n\nhttps://rav
+ e.wien/e/2026-11-14-club-pompadour
+URL:https://rave.wien/e/2026-11-14-club-pompadour
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-morgengymnastik-with-redivider@rave.wien
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Vienna:20261115T060000
+DTEND;TZID=Europe/Vienna:20261115T110000
+SUMMARY:Morgengymnastik with Redivider
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Apua\, DJ Deadlift\nVeranstalter: Redivider\, Morgengymnastik
+ \nEintritt: 15 €\n\nMorgengymnastik-Session der Reihe Redivider im SAS
+ S Music Club\, Sonntagmorgen 6–11 Uhr. Redivider ist seit Jahren Teil 
+ der Wiener Clubszene und wechselt genreübergreifend zwischen verschiede
+ nen Sounds\, Räumen und Stimmungen. Eingeladen ist Apua: DJ\, Produzent
+  und Plattensammler\, seit über zehn Jahren in Österreichs Clubszene a
+ ktiv\, mit Releases auf Pager Records und seinem eigenen Label Kopf Bei 
+ Fuss\, Resident im Tante Emma Club und Mitgründer des Wiener Labels und
+  Partyformats VIE.W\; gemeinsam mit DJ Deadlift wird er als „Dream Duo
+ “ angekündigt. Eintritt 15 €\, ab 18 mit Ausweiskontrolle\; ein Awa
+ reness-Team ist vor Ort.\n\nhttps://rave.wien/e/2026-11-15-morgengymnast
+ ik-with-redivider
+URL:https://rave.wien/e/2026-11-15-morgengymnastik-with-redivider
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-bonkers-belly-dance-services@rave.wien
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=Europe/Vienna:20261119T230000
+DTEND;TZID=Europe/Vienna:20261120T060000
+SUMMARY:Bonkers × Belly Dance Services
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Ludviq\, Nick Hanzo\nVeranstalter: Bonkers\, Belly Dance Serv
+ ices\nEintritt: 10 €\n\nBonkers und Belly Dance Services stehen im SAS
+ S erstmals seit drei Jahren wieder gemeinsam auf einem Lineup – ein Wi
+ edersehen zweier DJs\, die seit Jahren zusammenarbeiten. Ludviq gründet
+ e Bonkers 2018 in Barcelona\; die Reihe ist an kein Genre gebunden\, von
+  Techno über Breaks und Psychedelic bis Indie und EBM. Nick Hanzo hat 2
+ 019 das multikulturelle Label Belly Dance Services mitgegründet\, desse
+ n Sound von trippy House über Slow Techno bis zu perkussiven Elementen 
+ reicht. RA taggt House und Acid\; 23:00–06:00\, 10 €\, ab 18.\n\nhtt
+ ps://rave.wien/e/2026-11-19-bonkers-belly-dance-services
+URL:https://rave.wien/e/2026-11-19-bonkers-belly-dance-services
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-freeride-millenium@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Freeride Millenium
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:eira haul\, Paris Böhm\, Seba\nVeranstalter: Freeride Millen
+ ium\nEintritt: 10–15 €\n\nFreeride Millenium im SASS Music Club von 
+ 23 bis 6 Uhr mit eira haul\, Paris Böhm und Seba. Der Eintritt beträgt
+  10–15 €\, ein Willkommensgetränk ist inklusive. Alle SASS-Veransta
+ ltungen werden von einem Awareness-Team begleitet – schaut auf euch un
+ d eure Mitmenschen. Einlass ab 18 mit Ausweis- und Taschenkontrolle.\n\n
+ https://rave.wien/e/2026-11-20-freeride-millenium
+URL:https://rave.wien/e/2026-11-20-freeride-millenium
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-wreck@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T230000
+DTEND;TZID=Europe/Vienna:20261122T050000
+SUMMARY:Wreck
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Tim Kern\, LaLa\nVeranstalter: Wreck\nEintritt: 10–15 €\n
+ \nWreck im SASS Music Club (23:00–05:00 Uhr) mit Tim Kern und LaLa. Ei
+ nen Beschreibungstext oder Set-Zeiten veröffentlicht der Club bisher ni
+ cht. Eintritt 10–15 € inkl. Welcome Drink\, ab 18 mit Ausweiskontrol
+ le\; wie bei allen SASS-Events ist ein Awareness-Team vor Ort.\n\nhttps:
+ //rave.wien/e/2026-11-21-wreck
+URL:https://rave.wien/e/2026-11-21-wreck
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-morgengymnastik-wreck@rave.wien
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Vienna:20261122T060000
+DTEND;TZID=Europe/Vienna:20261122T110000
+SUMMARY:Morgengymnastik × Wreck
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Young Sun\, AE-X\nVeranstalter: Wreck\, Morgengymnastik\nEint
+ ritt: 15 €\n\nMorgengymnastik\, die Sonntags-Afterhour im SASS Music C
+ lub\, wird diesmal von Wreck kuratiert: Von 6 bis 11 Uhr spielen Young S
+ un und AE-X. Der Eintritt beträgt 15 €. Alle SASS-Veranstaltungen wer
+ den von einem Awareness-Team begleitet\; Einlass ab 18 mit Ausweis- und 
+ Taschenkontrolle.\n\nhttps://rave.wien/e/2026-11-22-morgengymnastik-wrec
+ k
+URL:https://rave.wien/e/2026-11-22-morgengymnastik-wreck
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-donnerstag-nacht@rave.wien
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Vienna:20261126T230000
+DTEND;TZID=Europe/Vienna:20261127T060000
+SUMMARY:Donnerstag Nacht
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Slack Hippy\, neomodern\, Crnobrnja\nEintritt: 10–15 € / 
+ Studierende 0–5 €\n\nDonnerstag Nacht im SASS Music Club von 23 bis 
+ 6 Uhr mit Slack Hippy\, neomodern und Crnobrnja. Der Eintritt beträgt r
+ egulär 10–15 € inklusive Willkommensgetränk\, für Studierende 0
+ –5 €. Alle SASS-Veranstaltungen werden von einem Awareness-Team begl
+ eitet\; Einlass ab 18 mit Ausweis- und Taschenkontrolle.\n\nhttps://rave
+ .wien/e/2026-11-26-donnerstag-nacht
+URL:https://rave.wien/e/2026-11-26-donnerstag-nacht
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-vivid-frieden-liebe@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T230000
+DTEND;TZID=Europe/Vienna:20261128T060000
+SUMMARY:Vivid – Frieden & Liebe
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Vivid\nVeranstalter: Frieden & Liebe\nEintritt: 10–15 €\n
+ \nVivid\, präsentiert von Frieden & Liebe (@friedenundliebe.vienna)\, i
+ m SASS Music Club von 23 bis 6 Uhr\; ein detailliertes Line-up ist noch 
+ nicht veröffentlicht. Der Eintritt beträgt 10–15 €\, ein Willkomme
+ nsgetränk ist inklusive. Alle SASS-Veranstaltungen werden von einem Awa
+ reness-Team begleitet\; Einlass ab 18 mit Ausweis- und Taschenkontrolle.
+ \n\nhttps://rave.wien/e/2026-11-27-vivid-frieden-liebe
+URL:https://rave.wien/e/2026-11-27-vivid-frieden-liebe
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-cardio-cult@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T230000
+DTEND;TZID=Europe/Vienna:20261129T050000
+SUMMARY:Cardio Cult
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Cardio Cult\nEintritt: 10–15 € (inkl. Welco
+ me-Drink)\n\nCardio Cult im SASS Music Club von 23 bis 5 Uhr mit den DJs
+  des Cardio-Cult-Kollektivs (@cardio.cult)\; weitere Namen sind noch nic
+ ht bekannt. Der Eintritt beträgt 10–15 €\, ein Willkommensgetränk 
+ ist inklusive. Alle SASS-Veranstaltungen werden von einem Awareness-Team
+  begleitet\; Einlass ab 18 mit Ausweis- und Taschenkontrolle.\n\nhttps:/
+ /rave.wien/e/2026-11-28-cardio-cult
+URL:https://rave.wien/e/2026-11-28-cardio-cult
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-morgengymnastik-donaurave@rave.wien
+DTSTAMP:20261129T000000Z
+DTSTART;TZID=Europe/Vienna:20261129T060000
+DTEND;TZID=Europe/Vienna:20261129T110000
+SUMMARY:Morgengymnastik × Donaurave
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:DONAURAVE\nVeranstalter: Morgengymnastik\nEintritt: 15 €\n\
+ nMorgengymnastik\, die Sonntags-Afterhour im SASS Music Club\, wird von 
+ 6 bis 11 Uhr von DONAURAVE (@donaurave.wien) übernommen. Der Eintritt b
+ eträgt 15 €. Alle SASS-Veranstaltungen werden von einem Awareness-Tea
+ m begleitet\; Einlass ab 18 mit Ausweis- und Taschenkontrolle.\n\nhttps:
+ //rave.wien/e/2026-11-29-morgengymnastik-donaurave
+URL:https://rave.wien/e/2026-11-29-morgengymnastik-donaurave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-karotte-im-wohnzimmer@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T230000
+DTEND;TZID=Europe/Vienna:20261206T050000
+SUMMARY:Karotte im Wohnzimmer
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:DJ Karotte\, Crazy Sonic\, Joro & Joabo\nEintritt: 18 €\n\n
+ https://rave.wien/e/2026-12-05-karotte-im-wohnzimmer
+URL:https://rave.wien/e/2026-12-05-karotte-im-wohnzimmer
+END:VEVENT
+END:VCALENDAR

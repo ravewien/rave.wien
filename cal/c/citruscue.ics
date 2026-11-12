@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CitrusCue · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-28-citruscue-presents-coido-wingz@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T235900
+DTEND;TZID=Europe/Vienna:20261129T050000
+SUMMARY:CitrusCue presents COIDO & Wingz
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:COIDO\, Wingz\, yarx\, vazov\, fejv\nVeranstalter: CitrusCue\
+ nEintritt: 12–15 €\n\nCitrusCue kehrt für eine Bass-Music-Nacht von
+  tiefen\, atmosphärischen Klängen bis zu schwerer\, groovelastiger Clu
+ bmusik in den Club Lucia zurück. Headliner COIDO verbindet futuristisch
+  Techno\, Breakbeat\, Jersey Club und globale Grooves. Wingz aus Wien sp
+ ielt präzisen\, atmosphärischen Drum & Bass. Lokale Unterstützung: ya
+ rx (Dubstep\, Grime\, Footwork\, dekonstruierte Rhythmen)\, fejv (UK Bas
+ s von klassisch bis experimentell) und vazov (früher Subcurrent\; schne
+ ller\, hypnotischer Techno mit viel Tiefbass).\n\nhttps://rave.wien/e/20
+ 26-11-28-citruscue-presents-coido-wingz
+URL:https://rave.wien/e/2026-11-28-citruscue-presents-coido-wingz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-hot-wet-x-citrus-cue-christmas-party@rave.wien
+DTSTAMP:20261129T000000Z
+DTSTART;TZID=Europe/Vienna:20261129T143000
+DTEND;TZID=Europe/Vienna:20261129T193000
+SUMMARY:HOT&WET x Citrus Cue Christmas Party
+DESCRIPTION:Veranstalter: CitrusCue\n\nWeihnachtliche Day-Party am Sonnta
+ gnachmittag als Kooperation der Partyreihe Hot&Wet und des Wiener Kollek
+ tivs CitrusCue. Eventfrog führt sie unter House & Techno\; der Veransta
+ ltungsort wird noch angekündigt. Lineup und Preis sind noch nicht bekan
+ nt\; die Detailseite war nicht abrufbar.\n\nhttps://rave.wien/e/2026-11-
+ 29-hot-wet-x-citrus-cue-christmas-party
+URL:https://rave.wien/e/2026-11-29-hot-wet-x-citrus-cue-christmas-party
+END:VEVENT
+END:VCALENDAR

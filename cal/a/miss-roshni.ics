@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Miss Roshni · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-21-yolo-taxi-with-umafricana-lua-preta-miss-roshni@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T220000
+DTEND;TZID=Europe/Vienna:20261122T030000
+SUMMARY:Yolo Taxi with UMAFRICANA\, Lua Preta & Miss Roshni
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:UMAFRICANA\, Lua Preta\, Miss Roshni\nVeranstalter: Yolo Taxi
+ \n\nClubnacht der Reihe Yolo Taxi im Funkhaus mit UMAFRICANA\, Lua Preta
+  und Miss Roshni. Lua Preta ist ein polnisch-angolanisches Duo mit afro-
+ diasporischem Clubsound\, das u. a. auf U Know Me Records veröffentlich
+ t hat. UMAFRICANA ist ein international (u. a. in Lissabon) gebuchter DJ
+ -Act\, Miss Roshni ergänzt das Lineup. Preis\, Ende und Tickets sind bi
+ sher nicht bekannt\; die Detailseite war nicht abrufbar.\n\nhttps://rave
+ .wien/e/2026-11-21-yolo-taxi-with-umafricana-lua-preta-miss-roshni
+URL:https://rave.wien/e/2026-11-21-yolo-taxi-with-umafricana-lua-preta-mi
+ ss-roshni
+END:VEVENT
+END:VCALENDAR

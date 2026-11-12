@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bellavie · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-14-once-in-a-blue-moon-kiki-ball-afterparty@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T170000
+DTEND;TZID=Europe/Vienna:20261115T060000
+SUMMARY:Once in a Blue Moon – Kiki Ball + Afterparty
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Gawdesque\, Amina Malounadou\, Bellavie\nVeranstalter: Kaisa 
+ Bodega\, Pingpaya Fenty Savage\n\nKaisa Bodega und Pingpaya Fenty Savage
+  präsentieren einen Kiki Ball mit anschließender Afterparty im Funkhau
+ s. Angekündigt ist eine Ballroom-Nacht voller Glamour\, Fantasie und Ve
+ rwandlung\, in der Gäste ihre seltensten Seiten zeigen sollen – etwas
+ \, das nur „once in a blue moon“ passiert. Genannt sind Gawdesque\, 
+ Amina Malounadou und Bellavie\; Kategorien\, Hosts\, Judges und Ablauf s
+ tehen noch nicht fest. Beginn 17:00\, Ende 06:00\, ab 18.\n\nhttps://rav
+ e.wien/e/2026-11-14-once-in-a-blue-moon-kiki-ball-afterparty
+URL:https://rave.wien/e/2026-11-14-once-in-a-blue-moon-kiki-ball-afterpar
+ ty
+END:VEVENT
+END:VCALENDAR

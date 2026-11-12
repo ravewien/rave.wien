@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Aleta · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-20-anna-ullrich-pres-achterbahn@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Anna Ullrich pres. Achterbahn
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Anna Ullrich\, NO ONE\, Armin Hermann\, Aleta\nVeranstalter: 
+ Achterbahn\nEintritt: 15–18 € (Early Bird 15 €\, Regular 18 €)\n
+ \nDie Wiener DJ und Produzentin Anna Ullrich präsentiert eine Ausgabe d
+ er Reihe Achterbahn im PRST. Anna Ullrich verbindet 90er-inspirierten Tr
+ ance mit minimalistischem Techno und spielte u. a. im PRST\, Club Exil\,
+  in der Grelle Forelle\, im SASS und beim Reeperbahn Festival. Weitere A
+ cts\, Endzeit und Mindestalter nennt der PRST-Ticketshop noch nicht. Beg
+ inn 23:00\, Tickets 15 € (Early Bird) bzw. 18 € (Regular) über prst
+ .ticket.io.\n\nhttps://rave.wien/e/2026-11-20-anna-ullrich-pres-achterba
+ hn
+URL:https://rave.wien/e/2026-11-20-anna-ullrich-pres-achterbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-art-attech-kunst-kusst-techno@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T200000
+DTEND;TZID=Europe/Vienna:20261122T060000
+SUMMARY:Art Attech – Kunst küsst Techno
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Aleta\, ARAS JE'TÄM\, Krawallbarbie\, OK CUTEE\, Wal_Halla\,
+  DJ Parkverbot\nVeranstalter: Art Attech\nEintritt: VVK 14–18 €\, AK
+  19 €\n\n16. Ausgabe von Art Attech („Kunst küsst Techno“) in der
+  FLUCC Wanne\, von 20:00 bis 06:00. Auf dem Lineup stehen Aleta\, ARAS J
+ E'TÄM\, Krawallbarbie\, OK CUTEE\, Wal_Halla und DJ Parkverbot. Vorverk
+ auf 14–18 €\, Abendkassa 19 €\, ab 18 Jahren. In der Wanne ist ein
+ e Awareness-Person vor Ort.\n\nhttps://rave.wien/e/2026-11-21-art-attech
+ -kunst-kusst-techno
+URL:https://rave.wien/e/2026-11-21-art-attech-kunst-kusst-techno
+END:VEVENT
+END:VCALENDAR

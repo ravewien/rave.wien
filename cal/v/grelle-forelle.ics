@@ -1,0 +1,210 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Grelle Forelle · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-13-zuckerwatt-w-mija@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T060000
+SUMMARY:Zuckerwatt w/ MIJA
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: MIJA\, PartyPauli\, Who is Ela¿\nKitchen (Cybertr
+ ibe): DJ Backstage\, ENJA\, Spud Bencer\, Voltmarie\nVeranstalter: Zucke
+ rwatt\, Cybertribe\n\nZuckerwatt holt MIJA in die Grelle Forelle\; die U
+ S-Künstlerin („Born to chill\, forced to DJ“) ist eine vielseitige 
+ Multidisziplin-Artist und betreibt das DIY-Label Never B Alone\, dessen 
+ Releases die Artists gemeinsam auswählen. Ihre EPs „Summer Groove“ 
+ und „Soft Groove“ verbinden Hardgroove mit House\, Techno und Funk. 
+ Am Mainfloor spielen außerdem PartyPauli und Who is Ela¿. Die Kitchen 
+ wird von Cybertribe gehostet mit DJ Backstage\, ENJA\, Spud Bencer und V
+ oltmarie. Einlass und Abendkassa ab 23:00\, Vorverkauf über ticket.io.\
+ n\nhttps://rave.wien/e/2026-11-13-zuckerwatt-w-mija
+URL:https://rave.wien/e/2026-11-13-zuckerwatt-w-mija
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-paradies-garten-w-paracek@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T230000
+DTEND;TZID=Europe/Vienna:20261115T060000
+SUMMARY:Paradies Garten w/ Paraçek
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: Paraçek\, MARØ\, Vivienna\nKitchen: Felix Ruppre
+ cht\, Mariephi\, Manuel Correa\, Sora\nVeranstalter: Paradies Garten\nEi
+ ntritt: Ausverkauft. Limitierte Abendkasse\n\nParadies Garten kehrt nach
+  dem Sommer in die Grelle Forelle zurück\, mit einem durchgehend energi
+ egeladenen Lineup. Headliner Paraçek aus Deutschland kommt aus der Free
+ -Rave-Szene von Leipzig und Dresden und verbindet schnellen Hard Dance m
+ it 90er-Trance und Acid-Rave\, eingängigen Vocals\, euphorischen Synths
+  und kräftigen Basslines. Am Mainfloor spielen außerdem MARØ und Vivi
+ enna. In der Kitchen legen Felix Rupprecht\, Mariephi sowie Manuel Corre
+ a b2b Sora auf. Einlass und Abendkassa ab 23:00\, Vorverkauf über Paylo
+ gic\; RA nennt 18+\, Hausregel der Location ist 21+.\n\nhttps://rave.wie
+ n/e/2026-11-14-paradies-garten-w-paracek
+URL:https://rave.wien/e/2026-11-14-paradies-garten-w-paracek
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-fish-market-w-altinbas-annika-stein-gerald-vdh@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Fish Market w/ Altinbas\, Annika Stein\, Gerald VDH
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: Altinbas\, Annika Stein\, Gerald VDH\nKitchen (hos
+ ted by LuvAffair): Lim Banda\, Sabina\, Ernst\nVeranstalter: Fish Market
+ \, Luv Affair\nEintritt: 20–25 €\n\nFish Market feiert in der Grelle
+  Forelle fünf Jahre Annika Stein als Resident der Reihe MEAT MARKET –
+  mit einem ihrer Closing-Sets. Headliner ist Ahmet Altinbas\, türkisch-
+ belgischer Artist\, Resident und Label-Kurator im Brüsseler Club Fuse u
+ nd eines der prägenden Talente im modernen Techno\; dazu spielt Gerald 
+ VDH auf dem Mainfloor. Die Kitchen hostet LuvAffair mit Lim Banda\, Sabi
+ na und Ernst. Einlass ab 23:00\; Vorverkauf über Eventjet: VVK regulär
+  20 € (mit Newsletter) bzw. 22 €\, Last Minute 25 € (ein Super Ear
+ ly Bird um 14 € ist gelistet)\, Abendkassa ab 23:00. Strikte Hausregel
+ n gegen Homophobie\, Rassismus und Sexismus\; Foto- und Videoverbot\, di
+ e Handykameras werden am Eingang abgeklebt.\n\nhttps://rave.wien/e/2026-
+ 11-20-fish-market-w-altinbas-annika-stein-gerald-vdh
+URL:https://rave.wien/e/2026-11-20-fish-market-w-altinbas-annika-stein-ge
+ rald-vdh
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-contrast-pres-dj-marky-pola-bryson@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T230000
+DTEND;TZID=Europe/Vienna:20261122T060000
+SUMMARY:Contrast pres. DJ Marky + Pola & Bryson
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: DJ Marky\, Pola & Bryson\, Contrast Residents\nKit
+ chen · EN:VY: En:vy\, Armin Karmin\, Stan Matan\, Mantis\, Nysos\nVeran
+ stalter: Contrast\nEintritt: 26 € (AK)\n\nhttps://rave.wien/e/2026-11-
+ 21-contrast-pres-dj-marky-pola-bryson
+URL:https://rave.wien/e/2026-11-21-contrast-pres-dj-marky-pola-bryson
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-flashback-w-thomas-schumacher-techno-classics@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T230000
+DTEND;TZID=Europe/Vienna:20261128T060000
+SUMMARY:Flashback w/ Thomas Schumacher – Techno Classics
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: Thomas Schumacher\, Joro & Joabo\, Rokis\, Tom Sno
+ w\, MC Mars\, MC Spot\nKitchen: Martin Oelz\, Peter Pan\, Romen Est Omen
+ \, Hanneken\, PA_olo\nVeranstalter: Flashback\, FactX\nEintritt: ab 16 
+ €\n\nRA nennt 18+\, Hausregel der Location ist 21+.\n\nhttps://rave.wi
+ en/e/2026-11-27-flashback-w-thomas-schumacher-techno-classics
+URL:https://rave.wien/e/2026-11-27-flashback-w-thomas-schumacher-techno-c
+ lassics
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-selected-bassbussi-w-cara-elizabeth-frederic@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T230000
+DTEND;TZID=Europe/Vienna:20261129T040000
+SUMMARY:Selected × Bassbussi w/ Cara Elizabeth & Frederic.
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: Cara Elizabeth\, Frederic.\, Andrew Ahmed\nVeranst
+ alter: Selected\, Bassbussi\nEintritt: ab 17\,50 € (oeticket\, zzgl. G
+ ebühr)\n\nhttps://rave.wien/e/2026-11-28-selected-bassbussi-w-cara-eliz
+ abeth-frederic
+URL:https://rave.wien/e/2026-11-28-selected-bassbussi-w-cara-elizabeth-fr
+ ederic
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-step-forward-pres-eargasm-god@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T040000
+SUMMARY:Step Forward pres. Eargasm God
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: Eargasm God\, Who is Ela¿\, Distorgina\nVeranstal
+ ter: Step Forward\, Mahlwerk\n\nStep Forward holt Eargasm God erneut in 
+ die Grelle Forelle – nach den Step-Forward-Nächten im November 2024 u
+ nd 2025 die nächste Ausgabe. Die Grelle Forelle kündigt eine Techno-Na
+ cht an\, bei der Eargasm God\, der online eine große Reichweite hat\, b
+ esonders mit seinem Live-Set beworben wird. Am Mainfloor spielen außerd
+ em Who is Ela¿ und Distorgina\, die Kitchen wird vom Kollektiv Mahlwerk
+  gehostet (Lineup noch offen). Einlass und Abendkassa ab 23:00\, Vorverk
+ auf über Tickettailor\; Preise sind auf der Location-Seite nicht angege
+ ben.\n\nhttps://rave.wien/e/2026-12-04-step-forward-pres-eargasm-god
+URL:https://rave.wien/e/2026-12-04-step-forward-pres-eargasm-god
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-ft-12@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T210000
+DTEND;TZID=Europe/Vienna:20261208T060000
+SUMMARY:FT — 12
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Feuchte Träume\nEintritt: Early Bird 36\,16 
+ € (Member 28\,93 €)\, danach 41\,81 / 44\,64 / 47\,46 €\n\nNur mit
+  angenommener Online-Bewerbung\, keine Abendkasse\; personalisierte Tick
+ ets\, Outfit erwartet\, Kameras abgeklebt\, Awareness-Team. Line-up folg
+ t. Nacht vor dem Feiertag.\n\nhttps://rave.wien/e/2026-12-07-ft-12
+URL:https://rave.wien/e/2026-12-07-ft-12
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-zuckerwatt-w-ellen-allien@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T230000
+DTEND;TZID=Europe/Vienna:20261212T040000
+SUMMARY:Zuckerwatt w/ Ellen Allien
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: Ellen Allien\nVeranstalter: Zuckerwatt\n\nDie Reih
+ e Zuckerwatt holt Ellen Allien in die Grelle Forelle. Die Location besch
+ reibt sie als eine der prägendsten Künstlerinnen ihrer Generation\, di
+ e den Kern des Techno verkörpert\, als DJ in großen Clubs und auf Fest
+ ivals weltweit gespielt hat und einen umfangreichen Katalog aus Soloalbe
+ n\, Singles\, EPs und Remixen vorweisen kann. Weitere Acts für Mainfloo
+ r und Kitchen sind noch tba. Einlass 23:00\, Vorverkauf über ticket.io\
+ ; Preis und Ende sind noch nicht angegeben.\n\nhttps://rave.wien/e/2026-
+ 12-11-zuckerwatt-w-ellen-allien
+URL:https://rave.wien/e/2026-12-11-zuckerwatt-w-ellen-allien
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-contrast-pres-dance-macabre-w-simula-enei-skantia@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T230000
+DTEND;TZID=Europe/Vienna:20261213T040000
+SUMMARY:Contrast pres. Dance Macabre w/ Simula + Enei + Skantia
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: Simula\, Enei\, Skantia\, En:vy\, Wingz\, Contrast
+  Residents\nKitchen (hosted by Feli Nightingale): Armin Hermann\, Rantom
+ \, Nikilist\, Softi\, Feli Nightingale\nVeranstalter: Contrast\n\nDie Wi
+ ener Drum-&-Bass-Reihe Contrast präsentiert in der Grelle Forelle eine 
+ „Dance Macabre“-Nacht\, benannt nach dem Label von Simula. Am Mainfl
+ oor spielen Simula (UK\, Critical Music / Dance Macabre)\, Enei (RU\, Cr
+ itical Music) und Skantia (UK\, Ram Records)\, dazu die in Wien aufgewac
+ hsenen En:vy (Critical Music\, Gemini Gemini\, Dial 1) und Wingz (Overvi
+ ew Music\, Gemini Gemini) sowie die Contrast Residents. Die Kitchen wird
+  von Feli Nightingale gehostet und bringt „Finest Techno / Trance“ m
+ it Armin Hermann\, Rantom\, Nikilist\, Softi und Feli Nightingale. Einla
+ ss und Abendkassa ab 23:00\, ab 18 mit Ausweis\; Vorverkauf über Eventb
+ rite\, Preise nennt die Location-Seite nicht.\n\nhttps://rave.wien/e/202
+ 6-12-12-contrast-pres-dance-macabre-w-simula-enei-skantia
+URL:https://rave.wien/e/2026-12-12-contrast-pres-dance-macabre-w-simula-e
+ nei-skantia
+END:VEVENT
+END:VCALENDAR

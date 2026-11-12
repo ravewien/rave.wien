@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DJ Born Voyage · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-13-s-o-u-l-utopia-lvi-wild-things@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T235900
+DTEND;TZID=Europe/Vienna:20261114T075900
+SUMMARY:S.O.U.L. Utopia LVI – Wild Things
+DESCRIPTION:DJ Art-Hur\, DJ SAMDMA\, DJ Wal_halla\, DJ Born Voyage\nVeran
+ stalter: S.O.U.L.\nEintritt: 42 € / S.O.U.L.-Tarif 32 €\n\n56. Ausga
+ be der sexpositiven Party S.O.U.L. Utopia von Soul Events unter dem Mott
+ o „Wild Things“ (23:59–07:59). Die Gäste wechseln zwischen vier D
+ J-Sets – DJ Art-Hur (0–2 Uhr)\, DJ SAMDMA (2–4 Uhr)\, DJ Wal_halla
+  (4–6 Uhr) und DJ Born Voyage (ab 6 Uhr) – und Sauna-Sessions\; um 2
+  Uhr gibt es im Wintergarten einen Icebreaker für Alleinkommende. Die L
+ ocation liegt im 1. Bezirk\, die genaue Adresse steht nur auf dem Ticket
+ . Tickets nur im Vorverkauf über Tickethead (42 €\, S.O.U.L.-Tarif 32
+  €\, keine Abendkassa)\; Einlass bis 02:30\, ab 21\, jede Person brauc
+ ht einen eigenen Access Pass (Fragebogen für neue Gäste). Dresscode pa
+ ssend zum Motto statt Pflichtkostüm (z. B. Blumenkranz oder Kunstfell\,
+  keine Alltagskleidung)\; Straßenschuhe bleiben an der Garderobe\, Schl
+ apfen und Handtücher werden gestellt. Es gilt Konsens: „Nur ein klare
+ s Ja zählt“ – auch beim Icebreaker und in der Sauna.\n\nhttps://rav
+ e.wien/e/2026-11-13-s-o-u-l-utopia-lvi-wild-things
+URL:https://rave.wien/e/2026-11-13-s-o-u-l-utopia-lvi-wild-things
+END:VEVENT
+END:VCALENDAR

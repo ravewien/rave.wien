@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DJ Off Duty · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-14-auslander-haus-vol-22@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T220000
+DTEND;TZID=Europe/Vienna:20261115T060000
+SUMMARY:Ausländer HAUS! Vol. 22
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Djane Stone\, DJ Zidi\, Lucy Bakanal\, DJ Off Duty\nVeranstal
+ ter: Ausländer Haus\n\nDie Reihe Ausländer HAUS! geht im Celeste in di
+ e 22. Runde\, von 22:00 bis 06:00. Laut aktuellem Celeste-Programm legen
+  Djane Stone\, DJ Zidi\, Lucy Bakanal und DJ Off Duty auf. Frühere Ausg
+ aben fanden im Celeste und im FLUCC statt. Preis\, Genres und Flyer nenn
+ t das Celeste nicht.\n\nhttps://rave.wien/e/2026-11-14-auslander-haus-vo
+ l-22
+URL:https://rave.wien/e/2026-11-14-auslander-haus-vol-22
+END:VEVENT
+END:VCALENDAR

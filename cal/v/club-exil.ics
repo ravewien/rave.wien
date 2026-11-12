@@ -1,0 +1,182 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Club Exil · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-13-tuff-vol-2@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T040000
+SUMMARY:TUFF vol. 2
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Barbara Lago\, KRL MX\, NYRA\, Pinklotion\, Serafin\nVeransta
+ lter: TUFF\nEintritt: Early Bird 11 €\n\nTUFF\, nach eigener Beschreib
+ ung „Viennas bounce hub“\, geht im Club Exil in die zweite Runde –
+  Motto: „Hard. Fast. TUFF.“ Es spielen Barbara Lago\, KRL MX\, NYRA\
+ , Pinklotion und Serafin. Es gilt eine No-Photo-Policy.\n\nhttps://rave.
+ wien/e/2026-11-13-tuff-vol-2
+URL:https://rave.wien/e/2026-11-13-tuff-vol-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-rave-on-xxl-4-0@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T220000
+DTEND;TZID=Europe/Vienna:20261115T030000
+SUMMARY:RAVE ON XXL 4.0
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Dune\, Neophyte\, Maissouille\, Radze\, Toge\, Miss Pixie aka
+  Tekniker\, Genetek\, Apocalypz\, The Rave Bear\, Klaut-G\, Veneno\, SYC
+ \, Gingertek\, Auditore\, Brandix\, Se.Vero\, Gosh\, Fullip\, Poison\, P
+ ara2P3ctrum\, Louisa India\, Kandy\, MATIVIO\nVeranstalter: Rave On Vien
+ na\nEintritt: 34\,90 € (Final Phase\; günstigere Stufen ausverkauft)\
+ n\nDie vierte XXL-Ausgabe der Reihe Rave On\, veranstaltet von Sun & Moo
+ n Event\, belegt den Club Exil mit einem großen Line-up aus rund zwei D
+ utzend Acts\, darunter Dune und Neophyte sowie u. a. Miss Pixie aka Tekn
+ iker\, Apocalypz\, Veneno und Mativio. Einlass ab 22:00. Alle günstiger
+ en Ticketstufen sind bereits ausverkauft.\n\nhttps://rave.wien/e/2026-11
+ -14-rave-on-xxl-4-0
+URL:https://rave.wien/e/2026-11-14-rave-on-xxl-4-0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-grund-fur-exil-soliparty@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T180000
+DTEND;TZID=Europe/Vienna:20261121T070000
+SUMMARY:Grund für Exil – Soliparty
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Neoteric x Alerta\, Booster Club\, Danubian Dub\, Soundbügle
+ rei\, Initiative 21\nVeranstalter: 4lthangrund\nEintritt: Freie Spende\n
+ \nSoliparty des Kollektivs 4lthangrund im Club Exil: Live-Bands und DJs 
+ (Neoteric x Alerta\, Booster Club\, Danubian Dub\, Soundbüglerei\, Init
+ iative 21)\, dazu ein Dance Battle von FusionCollective\, eine Word-Art-
+ Stage mit Poesie und Musik sowie ein Panel Talk zu Solidarity City und C
+ are-Arbeit. Eintritt gegen Spende – die Einnahmen finanzieren die Räu
+ me von 4lthangrund. Das Erdgeschoss mit Dancefloors\, Bars und barrierea
+ rmen WCs ist rollstuhlgerecht\, der erste Stock nur über Stiegen erreic
+ hbar. Das Programm wird laut Veranstalter noch laufend ergänzt.\n\nhttp
+ s://rave.wien/e/2026-11-20-grund-fur-exil-soliparty
+URL:https://rave.wien/e/2026-11-20-grund-fur-exil-soliparty
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-endless-insanity-iii@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T220000
+DTEND;TZID=Europe/Vienna:20261122T060000
+SUMMARY:Endless Insanity III
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Klangmassaker\, Highko\, Agressive Mood\, Maze of Madness\nVe
+ ranstalter: Endless Insanity\nEintritt: nur Abendkasse\n\nDritte Ausgabe
+  der Hi-Tech-Reihe Endless Insanity im Maschinenraum des Exil – nach d
+ em Prinzip stundenlanger Sets ohne Unterbrechung: Klangmassaker spielt e
+ in zweistündiges Projekt\, danach Highko\, Agressive Mood und Maze of M
+ adness sechs Stunden als nahtloses Tri-Projekt. Tickets nur an der Abend
+ kasse.\n\nhttps://rave.wien/e/2026-11-21-endless-insanity-iii
+URL:https://rave.wien/e/2026-11-21-endless-insanity-iii
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-20-jahre-cpe@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T220000
+DTEND;TZID=Europe/Vienna:20261128T030000
+SUMMARY:20 Jahre CPE
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:WONKA CTK\, MANY MAMMUT\, Illtek\, CPE Crew & Friends\nVerans
+ talter: CPE\nEintritt: 15 €\n\nDie CPE-Crew feiert ihr 20-jähriges Be
+ stehen unter dem Motto „Wir haben noch lange nicht genug!“ im Club E
+ xil in Vösendorf (Marktstraße 13) – 20 Jahre Freundschaft\, Wahnsinn
+  und gemeinsame Leidenschaft. Versprochen wird eine laute\, intensive Na
+ cht mit alten Geschichten und Leuten\, die von Anfang an dabei waren\, 
+ „eine Nacht wie damals 2006“. Auf allen Floors spielen WONKA CTK\, M
+ ANY MAMMUT\, Illtek sowie die CPE Crew & Friends – „All Floors and a
+ ll Minds Open“. Tickets kosten 15 € über ticket.io.\n\nhttps://rave
+ .wien/e/2026-11-27-20-jahre-cpe
+URL:https://rave.wien/e/2026-11-27-20-jahre-cpe
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-tribal-vibes-meets-exil@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T200000
+DTEND;TZID=Europe/Vienna:20261206T070000
+SUMMARY:Tribal Vibes meets Exil
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Braincell\, Boom Shankar\, Egorythmia\, Psynonima\, Tsubi\, T
+ ündérke\, Arnab\, Karam\, Alezzaro\, Bornvoyage\, Caban\, Cam Sis\, In
+ sano\, Entheon\, Hamelin\, Kayara\, Urklang\nVeranstalter: Tribal Vibes\
+ nEintritt: 19\,65–24\,75 € (Super Early Bird / Early Bird)\n\nhttps:
+ //rave.wien/e/2026-12-05-tribal-vibes-meets-exil
+URL:https://rave.wien/e/2026-12-05-tribal-vibes-meets-exil
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-08-verknallt-x-tuff-w-a-n-i-dj-dreckisch-daytime-rav@rave.wien
+DTSTAMP:20261208T000000Z
+DTSTART;TZID=Europe/Vienna:20261208T140000
+DTEND;TZID=Europe/Vienna:20261208T190000
+SUMMARY:Verknallt x TUFF w/ A.N.I. & DJ Dreckisch – Daytime Rave
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:A.N.I.\, DJ Dreckisch\nVeranstalter: Verknallt\, TUFF\nEintri
+ tt: VVK 24\,40 €\n\nDaytime Rave am Feiertag (Dienstag\, 8. Dezember) 
+ im Club Exil in Vösendorf: Die Reihen Verknallt und TUFF – letztere n
+ ach eigener Beschreibung „Viennas bounce hub“ – tun sich zusammen.
+  Als Acts sind A.N.I. und DJ Dreckisch angekündigt\; DJ Dreckisch (auch
+  Maxlion) ist ein DJ und Produzent aus Deutschland\, der u. a. bei Party
+ reihen wie Dirty Dancing und Color and Bass spielt. Beginn 14:00\, Vorve
+ rkauf 24\,40 € über den Ticketshop des Exil. Ein vollständiges Lineu
+ p\, Endzeit und Genres sind auf der Exil-Übersicht noch nicht angegeben
+ .\n\nhttps://rave.wien/e/2026-12-08-verknallt-x-tuff-w-a-n-i-dj-dreckisc
+ h-daytime-rav
+URL:https://rave.wien/e/2026-12-08-verknallt-x-tuff-w-a-n-i-dj-dreckisch-
+ daytime-rav
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-ritual-x-yn-w-chris-liebing@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T230000
+DTEND;TZID=Europe/Vienna:20261219T040000
+SUMMARY:RITUAL x YN w/ Chris Liebing
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Chris Liebing\nVeranstalter: YN\, Ritual\nEintritt: VVK 16 
+ €\n\nDie Reihen RITUAL und YN holen Chris Liebing in den Club Exil in 
+ Vösendorf. Beginn 23:00\, Vorverkauf 16 € über den Ticketshop des Ex
+ il. Ein weiteres Lineup ist laut Programm der Location noch nicht genann
+ t.\n\nhttps://rave.wien/e/2026-12-18-ritual-x-yn-w-chris-liebing
+URL:https://rave.wien/e/2026-12-18-ritual-x-yn-w-chris-liebing
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-zusammenkommen-16@rave.wien
+DTSTAMP:20261219T000000Z
+DTSTART;TZID=Europe/Vienna:20261219T180000
+DTEND;TZID=Europe/Vienna:20261220T030000
+SUMMARY:ZusammenKommen 16
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Veranstalter: hausgemacht\n\nSave the Date. Details über den
+  hausgemacht-Newsletter. Nur Vorverkauf nach Bewerbung\; beim Ticketkauf
+  wird ein fester Zeitslot gewählt\, der nicht geändert werden kann. Ei
+ nlass nur einmalig (kein Wiedereinlass)\, letzter Einlass laut club-exil
+ .at 21:00\; Zeitslots 18:00–03:00. Line-up TBA.\n\nhttps://rave.wien/e
+ /2026-12-19-zusammenkommen-16
+URL:https://rave.wien/e/2026-12-19-zusammenkommen-16
+END:VEVENT
+END:VCALENDAR

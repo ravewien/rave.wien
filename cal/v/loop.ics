@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Loop · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-12-ingenieur-innen-ohne-grenzen-austria-kann-will@rave.wien
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=Europe/Vienna:20261112T170000
+DTEND;TZID=Europe/Vienna:20261112T220000
+SUMMARY:Ingenieur:innen ohne Grenzen Austria × Kann&Will!
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:Kann&Will\nVeranstalter: Kann&Will\nEintritt: 5–7 €\n\nAf
+ ter-Work-Party von Ingenieur:innen ohne Grenzen Austria gemeinsam mit de
+ m Kollektiv Kann&Will im Loop. Gespielt werden laut Loop House\, Drum an
+ d Bass\, 2000er und Pop. Der gesamte Erlös geht an das Wasserprojekt LE
+ NU von Ingenieur:innen ohne Grenzen Austria im Senegal. Eintritt 5–7 
+ €.\n\nhttps://rave.wien/e/2026-11-12-ingenieur-innen-ohne-grenzen-aust
+ ria-kann-will
+URL:https://rave.wien/e/2026-11-12-ingenieur-innen-ohne-grenzen-austria-k
+ ann-will
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-stubble-rust@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T235500
+DTEND;TZID=Europe/Vienna:20261115T040000
+SUMMARY:Stubble & Rust
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:Stubble & Rust\nEintritt: Freie Spende\n\nStubble & Rust ist 
+ ein Wiener Vinyl-Duo\, das im Loop in den Stadtbahnbögen auflegt. Auf d
+ em Programm stehen Funk\, Disco\, Nu Disco und House. Eintritt gegen fre
+ ie Spende.\n\nhttps://rave.wien/e/2026-11-14-stubble-rust
+URL:https://rave.wien/e/2026-11-14-stubble-rust
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-vie-n-b@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T235900
+DTEND;TZID=Europe/Vienna:20261122T050000
+SUMMARY:VIE'n'B
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:BON\, Escapism\, ILLA\, L!XXL\, MANDALA\, Shaxoron\, Synthesi
+ s\nVeranstalter: VIE'n'B\nEintritt: Freie Spende\n\nVIE'n'B ist eine Wie
+ ner Drum-and-Bass-Nacht im Loop. Es spielen BON\, Escapism\, ILLA\, L!XX
+ L\, MANDALA\, Shaxoron und Synthesis. Die Bandbreite reicht laut Loop vo
+ n Liquid und Deep über Dancefloor und Jump-Up bis Neurofunk. Eintritt g
+ egen freie Spende.\n\nhttps://rave.wien/e/2026-11-21-vie-n-b
+URL:https://rave.wien/e/2026-11-21-vie-n-b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-fuelized-friends@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T233000
+DTEND;TZID=Europe/Vienna:20261128T050000
+SUMMARY:Fuelized & Friends
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:Veranstalter: Fuelized\nEintritt: Freie Spende\n\nDrum-&-Bass
+ -Nacht der Wiener Reihe Fuelized im Loop am Gürtel. Laut Loop-Programm 
+ mit einem zu 100 % lokalen Wiener Lineup\; die Namen sind noch nicht ver
+ öffentlicht. 23:30–05:00\, Eintritt gegen freie Spende.\n\nhttps://ra
+ ve.wien/e/2026-11-27-fuelized-friends
+URL:https://rave.wien/e/2026-11-27-fuelized-friends
+END:VEVENT
+END:VCALENDAR

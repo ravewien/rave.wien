@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chakabalara · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-18-acidic-juice-x-notyourordinary-live@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T200000
+DTEND;TZID=Europe/Vienna:20261219T040000
+SUMMARY:Acidic Juice x NOTYOURORDINARY – Live
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Acidic Juice\, Chakabalara\, NOTYOURORDINARY\nVeranstalter: A
+ cidic Juice\, NOTYOURORDINARY\nEintritt: VVK 12 €\, AK 15 €\n\nLive-
+ Abend im Kramladen\, angekündigt als Electro-Punk-Rave zwischen elektro
+ nischer Musik\, Live-Instrumenten\, gebrochenen Rhythmen und schwerem Ba
+ ss (20:00–04:00). Acidic Juice ist ein Live-Elektronik-Projekt aus Ber
+ lin mit Bass\, Breakbeats\, Electro und Old-School-Rave-Energie\, beeinf
+ lusst von UK-Clubmusik und Soundsystem-Kultur\; für diese Show erweiter
+ t AJ (Elektronik) das Projekt mit dem Live-Bass-Duo Chakabalara zum Trio
+ . NOTYOURORDINARY aus Wien verbindet elektronische Musik\, Jazz und Rock
+  mit Punk-Attitüde und arbeitet mit Synthesizern\, akustischen Instrume
+ nten\, Live-Resampling und Remixing. Nach den Live-Acts legen DJs des Kr
+ amladen auf. Vorverkauf 12 €\, Abendkasse 15 €\, ab 21.\n\nhttps://r
+ ave.wien/e/2026-12-18-acidic-juice-x-notyourordinary-live
+URL:https://rave.wien/e/2026-12-18-acidic-juice-x-notyourordinary-live
+END:VEVENT
+END:VCALENDAR

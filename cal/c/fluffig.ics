@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fluffig · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-20-fluffig-punschabend@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T180000
+DTEND;TZID=Europe/Vienna:20261120T220000
+SUMMARY:Fluffig – Punschabend
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:DizzyDray\, Anna Ullrich\, Rosa Rosen\, TAUSEND2Ø\nVeranstal
+ ter: Fluffig\n\nPunschabend der Wiener Reihe Fluffig im Club U am Karlsp
+ latz\, mit frühem Beginn um 18:00. Es spielen DizzyDray\, Anna Ullrich 
+ (Techno\, Bounce\, Trance)\, Rosa Rosen und TAUSEND2Ø. Endzeit\, Eintri
+ tt und Flyer sind noch nicht bekannt.\n\nhttps://rave.wien/e/2026-11-20-
+ fluffig-punschabend
+URL:https://rave.wien/e/2026-11-20-fluffig-punschabend
+END:VEVENT
+END:VCALENDAR
