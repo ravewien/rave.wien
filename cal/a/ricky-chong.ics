@@ -29,14 +29,14 @@ BEGIN:VEVENT
 UID:2026-11-20-the-house-of-funk-presents-ricky-chong@rave.wien
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Vienna:20261120T230000
-DTEND;TZID=Europe/Vienna:20261121T040000
+DTEND;TZID=Europe/Vienna:20261121T060000
 SUMMARY:The House of Funk presents Ricky Chong
 LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
-DESCRIPTION:Ricky Chong\n\nClubnacht der Reihe The House of Funk im Funkh
- aus mit Ricky Chong als Gast. Techno Airlines führt den Abend ab 23:00 
- in seinem Wiener Techno-Kalender. Weitere Acts\, Endzeit\, Preis und Tic
- kets sind noch nicht bekannt\; die Detailseite war nicht abrufbar.\n\nht
- tps://rave.wien/e/2026-11-20-the-house-of-funk-presents-ricky-chong
+DESCRIPTION:Ricky Chong\, Franco\, The House of Funk Residents\nEintritt:
+  10 €\n\nClubnacht der Reihe The House of Funk im Funkhaus mit Ricky C
+ hong als Gast\, dazu Franco und die Residents von The House of Funk. 23:
+ 00–06:00\, Eintritt 10 €\, ab 18.\n\nhttps://rave.wien/e/2026-11-20-
+ the-house-of-funk-presents-ricky-chong
 URL:https://rave.wien/e/2026-11-20-the-house-of-funk-presents-ricky-chong
 END:VEVENT
 END:VCALENDAR
