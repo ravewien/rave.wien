@@ -50,13 +50,15 @@ async function measure(u) {
 }
 
 (async () => {
-  const out = {}; let neu = 0, fehl = 0;
+  const out = {}, tot = []; let neu = 0, fehl = 0;
   for (const u of urls) {
     if (old[u] && old[u][6]) { out[u] = old[u]; continue; }
-    try { out[u] = await measure(u); neu++; } catch (e) { fehl++; if (old[u]) out[u] = old[u]; console.log("nicht messbar:", u, String(e.message || e)); }
+    try { out[u] = await measure(u); neu++; } catch (e) { fehl++; if (old[u]) out[u] = old[u]; if (/HTTP 4\d\d/.test(String(e.message))) tot.push(u + "  (" + e.message + ")"); console.log("nicht messbar:", u, String(e.message || e)); }
   }
   const keys = Object.keys(out).sort();
   const body = "// Automatisch erzeugt (.github/scripts/logos.js) – nicht bearbeiten.\nconst LOGOBOX={\n" + keys.map(k => JSON.stringify(k) + ":" + JSON.stringify(out[k])).join(",\n") + "\n};\n";
   fs.writeFileSync(outF, body);
+  // Kaputte Logo-Adressen für den Profil-Lauf (der sucht dann eine neue Adresse)
+  fs.writeFileSync(path.join(root, "logos-kaputt.txt"), tot.length ? "# Logo-Adressen, die nicht mehr erreichbar sind – im Profil-Lauf ersetzen\n" + tot.join("\n") + "\n" : "");
   console.log(`${keys.length} Logos, ${neu} neu gemessen, ${fehl} nicht messbar.`);
 })();

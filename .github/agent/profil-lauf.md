@@ -49,3 +49,7 @@ Kein Artifact-Spiegel in diesem Lauf (das Backend wird vom Betreiber bzw. andere
 
 ## 7. Abschluss-Nachricht (kurz, Deutsch)
 Ob der GitHub-Push geklappt hat (bei Fehler die genaue Meldung); Anzahl Seitenabrufe; Artists bearbeitet / neue Bilder / neue Links / neue Infos / Sets / ohne Treffer; neue Aliase (Name → Alias); mögliche Doppeleinträge; Veranstalter bearbeitet (Namen) mit neuen Logos/Texten; Locations bearbeitet mit neuen Logos/Texten/Floors; wie viele Artists bzw. Veranstalter der nächsten 7 bzw. 14 Tage noch nicht gesucht sind.
+
+
+## Kaputte Logos
+Zu Beginn jedes Laufs logos-kaputt.txt im Repo lesen. Jede dort gelistete Logo-Adresse (aus AR/CI/VI .logo) ist nicht mehr erreichbar (z. B. 404 nach Website-Umbau): auf der aktuellen Website bzw. dem Profil des Artists/Veranstalters/der Location eine neue, dauerhafte Logo-Adresse mit Bildendung suchen (keine fbcdn/cdninstagram-Adressen) und eintragen; ohne Ersatz das logo-Feld entfernen.
