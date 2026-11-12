@@ -34,15 +34,26 @@ async function measure(u) {
   }
   let x0 = W, y0 = H, x1 = -1, y1 = -1;
   for (let y = 0; y < H; y++) for (let x = 0; x < W; x++) if (keep(px(x, y))) { if (x < x0) x0 = x; if (x > x1) x1 = x; if (y < y0) y0 = y; if (y > y1) y1 = y; }
-  if (x1 < 0) return [W, H, 0, 0, W, H, ""];
+  if (x1 < 0) return [W, H, 0, 0, W, H, "#000000"];
+  // 3) transparenter Hintergrund: Schwarz oder Weiß – je nachdem, was mehr Kontrast zur Logofarbe hat
+  if (!bg) {
+    const lin = v => { v /= 255; return v <= 0.04045 ? v / 12.92 : Math.pow((v + 0.055) / 1.055, 2.4); };
+    let sw = 0, sb = 0, n = 0; const st = Math.max(1, Math.floor(Math.sqrt(((x1 - x0 + 1) * (y1 - y0 + 1)) / 40000)));
+    for (let y = y0; y <= y1; y += st) for (let x = x0; x <= x1; x += st) {
+      const p = px(x, y); if (p[3] <= 16) continue;
+      const a = p[3] / 255, L = 0.2126 * lin(p[0]) + 0.7152 * lin(p[1]) + 0.0722 * lin(p[2]);
+      sw += a * (1.05 / (L + 0.05)); sb += a * ((L + 0.05) / 0.05); n += a;
+    }
+    bg = n && sw > sb ? "#ffffff" : "#000000";
+  }
   return [W, H, x0, y0, x1 + 1, y1 + 1, bg];
 }
 
 (async () => {
   const out = {}; let neu = 0, fehl = 0;
   for (const u of urls) {
-    if (old[u]) { out[u] = old[u]; continue; }
-    try { out[u] = await measure(u); neu++; } catch (e) { fehl++; console.log("nicht messbar:", u, String(e.message || e)); }
+    if (old[u] && old[u][6]) { out[u] = old[u]; continue; }
+    try { out[u] = await measure(u); neu++; } catch (e) { fehl++; if (old[u]) out[u] = old[u]; console.log("nicht messbar:", u, String(e.message || e)); }
   }
   const keys = Object.keys(out).sort();
   const body = "// Automatisch erzeugt (.github/scripts/logos.js) – nicht bearbeiten.\nconst LOGOBOX={\n" + keys.map(k => JSON.stringify(k) + ":" + JSON.stringify(out[k])).join(",\n") + "\n};\n";

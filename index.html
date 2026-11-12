@@ -1311,7 +1311,7 @@ function logoFit(u){const b=(typeof LOGOBOX!=="undefined"&&LOGOBOX||{})[u];if(!b
 const IPERSON='<svg class="ph-ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="4.2" fill="currentColor"/><path d="M3.8 21c.6-4.3 4-7 8.2-7s7.6 2.7 8.2 7z" fill="currentColor"/></svg>';
 const IGROUP='<svg class="ph-ico" viewBox="0 0 24 24" aria-hidden="true"><g fill="currentColor"><circle cx="12" cy="7.2" r="3.4"/><circle cx="5.2" cy="9" r="2.6"/><circle cx="18.8" cy="9" r="2.6"/><path d="M6.4 20c.4-3.6 2.8-5.8 5.6-5.8s5.2 2.2 5.6 5.8z"/><path d="M.8 19.2c.3-2.8 2-4.5 4.3-4.5 1 0 1.9.3 2.6.9-1.2 1-2 2.3-2.3 3.6z"/><path d="M23.2 19.2c-.3-2.8-2-4.5-4.3-4.5-1 0-1.9.3-2.6.9 1.2 1 2 2.3 2.3 3.6z"/></g></svg>';
 function logoTile(n,cls,info,kind){const vi=info||VINFO[n]||{};const lu=vi.logo||vi.img;const ok=isLogo(lu)&&coversOn();const fit=ok&&vi.logo?logoFit(lu):null;
-  const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:(fit&&fit.bg)||"";
+  const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:(fit&&fit.bg)||(vi.logo?"#000":"");
   return `<span class="lgt${cls?" "+cls:""}${vi.img&&!vi.logo?" ph":""}" aria-hidden="true"${bg&&ok?` style="background:${bg}"`:""}${ok?` data-flyer="${esc(lu)}" data-ft="${esc(n)}"`:""}>${kind==="a"?IPERSON:kind==="c"?IGROUP:esc(initials(n))}${ok?`<img src="${esc(lu)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"${fit?` style="${fit.st}"`:""}>`:""}</span>`}
 const akaH=(k,n)=>{const a=aliasOf(k,n);return a.length?`<div class="aka">${L().aka} ${a.map(esc).join(" · ")}</div>`:""};
 const noVen=v=>!v||v==="TBA"||v==="Secret Location";
@@ -1322,7 +1322,7 @@ function bestSrc(e){const L0=(e.src||[]).filter(([k,u])=>k!=="man"&&/^https?:\/\
   return ((vw&&L0.find(([k,u])=>dom(u)===vw))||L0.find(([k])=>SORG.includes(k))||(e.vok&&L0[0])||L0.find(([k])=>k==="ra")||L0[0])[1]}
 function evPhase(e){const en=endTime(e);if(NOW>=en)return "done";const st0=new Date(e.d+"T"+(e.s||"22:00")+":00");return NOW>=st0?"live":""}
 function covLogo(e){if(!coversOn())return "";const cand=[VINFO[e.venue],...(e.coll||[]).map(c=>CINFO[c])].filter(Boolean);
-  for(const vi of cand){if(vi.logo&&isLogo(vi.logo)){const f=logoFit(vi.logo);const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:(f&&f.bg)||"";
+  for(const vi of cand){if(vi.logo&&isLogo(vi.logo)){const f=logoFit(vi.logo);const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:(f&&f.bg)||"#000";
     return `<span class="covlg"${bg?` style="background:${bg}"`:""}><img src="${esc(vi.logo)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"${f?` style="${f.st}"`:""}></span>`}}return ""}
 function coverHTML(e){if(!(isImg(e.flyer)&&coversOn())){const lg=covLogo(e);if(lg)return `<span class="cov lgc ${evPhase(e)}" aria-hidden="true">${lg}</span>`}return `<span class="cov ${evPhase(e)}" aria-hidden="true"${isImg(e.flyer)&&coversOn()?` data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}"`:""}>${isImg(e.flyer)&&coversOn()?`<img src="${esc(e.flyer)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="covfb">${covLogo(e)}</span>`:""}</span>`}
 // Flyer lädt nicht (Link kaputt/gesperrt): stattdessen Logo der Location bzw. des Veranstalters zeigen
