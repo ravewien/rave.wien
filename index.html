@@ -1746,7 +1746,7 @@ function renderVen(vd,n){
   const floorsH=fls.length?fls.map((f,i)=>{const s=fsnd(f);return `<div class="pad"><span class="key" style="background:var(--cue${CUE[i%8]})">${CUE[i%8]}</span><div><div class="fl">${esc(f)}</div>${s?`<div style="font-size:13px">${esc(s[st.lang]||s.de)}</div>`:""}</div></div>`}).join("")+(snd&&!snd.floors?`<div class="sndline"><span class="sndk">SOUND</span>${esc(snd[st.lang]||snd.de)}</div>`:""):snd?`<div class="sndline"><span class="sndk">SOUND</span>${esc(snd[st.lang]||snd.de)}</div>`:"";
   const q=encodeURIComponent(n+" Wien");
   const route="https://www.google.com/maps/search/?api=1&query="+encodeURIComponent(n+(addr?", "+addr:"")+", Wien");
-  const links=[];if(vi.web)links.push(["web",vi.web]);
+  const links=[];if(vi.web)links.push(["web",vi.web]);if(vi.ig)links.push(["ig",vi.ig]);
   vd.innerHTML=`${ctopHTML(l.vKind,favBtn("v",n))}
   <div class="ehead"><div class="emain">
     <div class="head wt">${logoTile(n,"big")}<h2>${esc(n)}${vi.closed?`<span class="badge">${l.closedV}</span>`:""}</h2></div>${akaH("v",n)}
@@ -2269,7 +2269,7 @@ function schema(kind){
     ["logoBg","Logo-Hintergrund","select",null,{opts:["","#ffffff"],labels:["dunkel (Standard)","weiß"]}],
     ["_rules","Regeln für alle Events","rflags","full",{flags:RULEFLAGS}]];
   return [
-    ["address","Adresse (Straße Nr, PLZ)","text","full"],["alias","Aliase / andere Schreibweisen","chips","full"],["web","Website","url"],["opened","Eröffnet (Jahr)","text"],
+    ["address","Adresse (Straße Nr, PLZ)","text","full"],["alias","Aliase / andere Schreibweisen","chips","full"],["web","Website","url"],["ig","Instagram","url"],["opened","Eröffnet (Jahr)","text"],
     ["de","Beschreibung (DE)","textarea","full"],["en","Beschreibung (EN)","textarea","full"],
     ["io","Indoor / Outdoor","checks","full",{opts:["Indoor","Outdoor"]}],["ioMain","Bei beidem: hauptsächlich","select",null,{opts:["","Outdoor"],labels:["Indoor (Nov–Feb automatisch drinnen)","Outdoor (z. B. Usus)"]}],
     ["floors","Floors","chips","full"],["logo","Logo (Bild-Adresse)","url"],
