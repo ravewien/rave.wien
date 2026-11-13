@@ -6590,7 +6590,9 @@ const VI={
   "web": "https://viennaartweek.at/en/program/creative-cluster-open-doors",
   "src": [
    "https://viennaartweek.at/en/program/creative-cluster-open-doors"
-  ]
+  ],
+  "noLogo": "2026-11-13",
+  "infoChk": "2026-11-13"
  }
 };
 /* LS = Logo-Suche ohne Treffer für Locations (v) / Kollektive (c) ohne VI-/CI-Eintrag: Datum der letzten Suche; frühestens 60 Tage danach erneut suchen. */
@@ -49031,6 +49033,146 @@ const AR={
    "https://ra.co/dj/schrotthagen"
   ],
   "infoChk": "2026-11-12"
+ },
+ "Dino Spiluttini": {
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Österreichischer Produzent elektronischer Musik zwischen Ambient, dekonstruierter Clubmusik und Trance. Auf Bandcamp veröffentlichte er u. a. „Eros“ (2025), das er als „Rave-Brutalismus“ – minimalistische Clubmusik mit brutalistischer Haltung – beschreibt, sowie „Death Chants II“; das Album „Heaven“ erschien bei Editions Mego.",
+   "en": "Austrian producer of electronic music spanning ambient, deconstructed club music and trance. His Bandcamp releases include 'Eros' (2025), described as 'rave brutalism' – minimalist club music with a brutalist ethic – and 'Death Chants II'; his album 'Heaven' came out on Editions Mego."
+  },
+  "labels": [
+   "Editions Mego"
+  ],
+  "img": "https://f4.bcbits.com/img/0029591337_10.jpg",
+  "links": {
+   "bc": "https://dinospiluttini.bandcamp.com",
+   "sc": "https://soundcloud.com/dino-spiluttini",
+   "ig": "https://www.instagram.com/dinospiluttini/"
+  },
+  "infoChk": "2026-11-13",
+  "src": [
+   "https://dinospiluttini.bandcamp.com/",
+   "https://editionsmego.bandcamp.com/album/heaven",
+   "https://www.discogs.com/artist/771753-Dino-Spiluttini"
+  ]
+ },
+ "Valenthin": {
+  "from": {
+   "de": "Budapest, Ungarn",
+   "en": "Budapest, Hungary"
+  },
+  "real": "Balint Martincsek",
+  "bio": {
+   "de": "Valenthin ist ein DJ aus Budapest und Betreiber des Labels Funkful Records. Er spielt regelmäßig in Budapester Clubs wie Aether Club und Turbina, u. a. bei DEAD END und gemeinsam mit THIRD 2HIFT.",
+   "en": "Valenthin is a Budapest-based DJ and owner of the label Funkful Records. He plays regularly in Budapest clubs such as Aether Club and Turbina, including DEAD END nights and alongside THIRD 2HIFT."
+  },
+  "labels": [
+   "Funkful Records"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/valenthin.jpg?dateUpdated=1706181136147",
+  "links": {
+   "ra": "https://ra.co/dj/valenthin",
+   "sc": "https://soundcloud.com/valenth_in",
+   "ig": "https://www.instagram.com/valenth_in/"
+  },
+  "infoChk": "2026-11-13",
+  "src": [
+   "https://ra.co/dj/valenthin",
+   "https://ra.co/events/2397375"
+  ]
+ },
+ "THIRD 2HIFT": {
+  "from": {
+   "de": "Budapest, Ungarn",
+   "en": "Budapest, Hungary"
+  },
+  "real": "Christopher Nemeth",
+  "alias": [
+   "THIRD SHIFT"
+  ],
+  "bio": {
+   "de": "DJ und Produzent aus Budapest und Teil der DEAD-END-Crew. Seine Sets reichen von härterem Techno bis zu trancigen Sounds; er spielt regelmäßig in Budapester Clubs wie Turbina, Aether Club und Arzenal. Releases u. a. „Reunion“ auf DUR_ und „SCORPION“ auf DEAD END.",
+   "en": "Budapest-based DJ and producer and a member of the DEAD END crew. His sets range from harder techno to trancy sounds; he plays regularly at Budapest clubs such as Turbina, Aether Club and Arzenal. Releases include 'Reunion' on DUR_ and 'SCORPION' on DEAD END."
+  },
+  "labels": [
+   "DUR_",
+   "DEAD END"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/third2hift.jpg?dateUpdated=1644850285000",
+  "links": {
+   "ra": "https://ra.co/dj/third2hift",
+   "sc": "https://soundcloud.com/third_2hift",
+   "ig": "https://www.instagram.com/third_2hift/"
+  },
+  "infoChk": "2026-11-13",
+  "src": [
+   "https://ra.co/dj/third2hift",
+   "https://telekomspots.hu/en/performers/770/third-2hift",
+   "https://soundcloud.com/dur_label/third-2hift-reunion-durva004",
+   "https://soundcloud.com/dead-end1/third-2hift-scorpion"
+  ]
+ },
+ "Autonomuse": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "real": "Edith Ranacher",
+  "bio": {
+   "de": "Wiener DJ mit Vorliebe für unabhängige Musik und elektronische Subkultur. Ihr Sound verbindet futuristische, psychedelische, verzerrte und schnelle Rhythmen; regelmäßig bei Hart Lab zu hören.",
+   "en": "Vienna-based DJ with a strong affinity for independent music and electronic subculture. Her sound combines futuristic, psychedelic, distorted and fast rhythms; a regular at Hart Lab."
+  },
+  "img": "https://static.ra.co/images/profiles/square/autonomuse.jpg?dateUpdated=1669025123000",
+  "links": {
+   "ra": "https://ra.co/dj/autonomuse",
+   "sc": "https://soundcloud.com/autonomuse-vienna",
+   "bc": "https://autonomuse.bandcamp.com",
+   "ig": "https://www.instagram.com/_autonomuse_/"
+  },
+  "infoChk": "2026-11-13",
+  "src": [
+   "https://ra.co/dj/autonomuse"
+  ]
+ },
+ "Nomid Ion": {
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "DJ aus Deutschland vom Preset-Umfeld, im November 2026 Gast bei der Basstrace-Soliparty im Rhiz.",
+   "en": "DJ from Germany associated with Preset, guest at the Basstrace solidarity party at Rhiz in November 2026."
+  },
+  "noImg": "2026-11-13",
+  "noLinks": "2026-11-13",
+  "infoChk": "2026-11-13",
+  "src": [
+   "https://ra.co/events/2578526"
+  ]
+ },
+ "dRob": {
+  "noImg": "2026-11-13",
+  "noLinks": "2026-11-13",
+  "infoChk": "2026-11-13",
+  "src": [
+   "https://ra.co/events/2584070"
+  ]
+ },
+ "Anemona": {
+  "noImg": "2026-11-13",
+  "noLinks": "2026-11-13",
+  "infoChk": "2026-11-13",
+  "src": [
+   "https://soundcloud.com/hartlabvienna/anemona-for-hart-lab-rrr-300422"
+  ]
+ },
+ "Evren de concecao": {
+  "noImg": "2026-11-13",
+  "noLinks": "2026-11-13",
+  "infoChk": "2026-11-13"
  }
 };
 
