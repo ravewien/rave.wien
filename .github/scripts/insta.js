@@ -95,7 +95,7 @@ function caption(EVS,label,dd,mm,wd){
  return {text:t,handles,inText:[...ok]}}
 // ---- Ablauf ----
 (async()=>{
- const only=process.argv[2];const now=new Date();const today=todayV();
+ const only=process.argv[2];if(only&&!/^\d{4}-\d{2}-\d{2}$/.test(only)){console.error("Datum bitte als JJJJ-MM-TT");process.exit(1)}const now=new Date();const today=todayV();
  const jobs=[];
  if(only){jobs.push({d:only,at:new Date()})}
  else for(let k=-1;k<=7;k++){const d=addDays(today,k);const r=plan[WD[wdOf(d)]];if(!r||r.aktiv===false)continue;

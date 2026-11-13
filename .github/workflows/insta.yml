@@ -34,7 +34,7 @@ jobs:
           git config user.email "ravewien@users.noreply.github.com"
           for i in 1 2 3 4 5; do
             git fetch -q origin main && git reset -q --hard origin/main
-            node .github/scripts/insta.js $DATUM
+            node .github/scripts/insta.js ${DATUM:+"$DATUM"}
             git add -A ig
             if git diff --cached --quiet; then echo "Keine Änderungen."; exit 0; fi
             git commit -q -m "Instagram-Posts aktualisiert"
