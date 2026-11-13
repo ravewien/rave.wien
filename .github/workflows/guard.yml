@@ -27,6 +27,7 @@ jobs:
           node --check events.js || bad="events.js ist kein gültiges JavaScript"
           node --check past.js || bad="${bad:+$bad; }past.js ist kein gültiges JavaScript"
           if grep -qiE '"[[:space:]]*(javascript|vbscript|data):' events.js past.js; then bad="${bad:+$bad; }unsichere Links in den Daten"; fi
+          if [ -z "$bad" ]; then node .github/scripts/validate.js || bad="Daten-Prüfung fehlgeschlagen (HTML, unsichere Links oder kaputtes Datum/Uhrzeit in den Daten – Details im Protokoll)"; fi
           msg=$(git log -1 --pretty=%s)
           if echo "$msg" | grep -qE '^(Daten-Update|Wochenend-Check)'; then
             other=$(git diff --name-only HEAD~1 HEAD | grep -vE '^(events|past)\.js$' || true)
