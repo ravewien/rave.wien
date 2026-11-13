@@ -49057,7 +49057,18 @@ const AR={
    "https://dinospiluttini.bandcamp.com/",
    "https://editionsmego.bandcamp.com/album/heaven",
    "https://www.discogs.com/artist/771753-Dino-Spiluttini"
-  ]
+  ],
+  "sets": [
+   {
+    "t": "SHAPE+ Broadcast Series 04/25 w/ Dino Spiluttini (Radio Punctum)",
+    "u": "https://soundcloud.com/radiopunctum/shape-broadcast-series-0425-w-dino-spiluttini"
+   },
+   {
+    "t": "URBAN SESSIONS x SHAPE+ – Dino Spiluttini #78",
+    "u": "https://soundcloud.com/urban-fm-608950226/urban-sessions-x-shape-dino-spiluttini-78"
+   }
+  ],
+  "setsChecked": "2026-11-13"
  },
  "Valenthin": {
   "from": {
@@ -49082,7 +49093,8 @@ const AR={
   "src": [
    "https://ra.co/dj/valenthin",
    "https://ra.co/events/2397375"
-  ]
+  ],
+  "setsChecked": "2026-11-13"
  },
  "THIRD 2HIFT": {
   "from": {
@@ -49113,7 +49125,14 @@ const AR={
    "https://telekomspots.hu/en/performers/770/third-2hift",
    "https://soundcloud.com/dur_label/third-2hift-reunion-durva004",
    "https://soundcloud.com/dead-end1/third-2hift-scorpion"
-  ]
+  ],
+  "sets": [
+   {
+    "t": "DEADCAST x THIRD 2HIFT [Resident Edition]",
+    "u": "https://soundcloud.com/dead-end1/deadcast-x-third-2hift-resident-edition"
+   }
+  ],
+  "setsChecked": "2026-11-13"
  },
  "Autonomuse": {
   "from": {
@@ -49135,7 +49154,8 @@ const AR={
   "infoChk": "2026-11-13",
   "src": [
    "https://ra.co/dj/autonomuse"
-  ]
+  ],
+  "setsChecked": "2026-11-13"
  },
  "Nomid Ion": {
   "from": {
