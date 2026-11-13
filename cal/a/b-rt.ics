@@ -29,16 +29,17 @@ BEGIN:VEVENT
 UID:2026-11-13-10-years-of-publegenden-feat-b-rt@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T220000
-DTEND;TZID=Europe/Vienna:20261114T030000
+DTEND;TZID=Europe/Vienna:20261114T040000
 SUMMARY:10 Years of Publegenden feat. BØRT
 LOCATION:Club U\, Karlsplatz\, 1010 Wien
-DESCRIPTION:Børt\, Dubsburg Soundsystem\nVeranstalter: Publegenden\nEint
- ritt frei\n\nDie Reihe Publegenden feiert im Club U ihr zehnjähriges Be
- stehen\; als Gast ist Børt angekündigt. Techno Airlines führt den Abe
- nd als Clubnacht in seinem Techno-Kalender ab 22:00 und verlinkt für Ti
- ckets auf Resident Advisor. Weitere Acts\, Endzeit\, Preis und Mindestal
- ter sind nicht veröffentlicht\; die RA-Seite war nicht abrufbar.\n\nhtt
- ps://rave.wien/e/2026-11-13-10-years-of-publegenden-feat-b-rt
+DESCRIPTION:Børt\, Dubsburg Soundsystem\, Publegenden\nVeranstalter: Pub
+ legenden\nEintritt frei\n\nDie Reihe Publegenden feiert im Club U am Kar
+ lsplatz ihr zehnjähriges Bestehen. Die Wiener Rave-Legende Børt spielt
+  ein Vinyl-Set und gräbt dafür tief in seiner Plattensammlung\; dazu k
+ ommt Bass vom Dubsburg Soundsystem aus dem Burgenland\, außerdem legt d
+ ie Publegenden-Crew selbst auf. Laut RA geht es um Bass-Musik\, von 22:0
+ 0 bis 04:00\, ab 18. Der Eintritt ist frei.\n\nhttps://rave.wien/e/2026-
+ 11-13-10-years-of-publegenden-feat-b-rt
 URL:https://rave.wien/e/2026-11-13-10-years-of-publegenden-feat-b-rt
 END:VEVENT
 END:VCALENDAR

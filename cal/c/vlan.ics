@@ -26,27 +26,28 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-14-heavy-listening-with-kobermann-mpu101-electric-in@rave.wien
+UID:2026-11-14-heavy-listening-with-kobermann-mpu101-dino-spilut@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T193000
 DTEND;TZID=Europe/Vienna:20261114T233000
-SUMMARY:HEAVY LISTENING with Kobermann\, MPU101 & Electric Indigo
+SUMMARY:HEAVY LISTENING with Kobermann\, MPU101 & Dino Spiluttini
 LOCATION:Westbahn Studios\, Adresse noch TBA Wien
-DESCRIPTION:Kobermann\, MPU101\, Electric Indigo\nVeranstalter: VLAN\nEin
+DESCRIPTION:Kobermann\, MPU101\, Dino Spiluttini\nVeranstalter: VLAN\nEin
  tritt: 15 €\n\nDritte Ausgabe von HEAVY LISTENING\, präsentiert von V
- LAN in den Westbahnstudios (Einlass 19:30) – eine Reihe für immersive
- \, geduldige Musik für aufmerksames Zuhören\, gefördert von der Stadt
-  Wien (MA 7). Kobermann (Johannes Piller) eröffnet um 20:00 mit einem D
- J-Set\; er macht seit 2014 Lo-Fi-\, Kassetten-basierten Dub und Elektroa
- kustik und betreibt das Label A.T.C. Records. Um 21:00 folgt MPU101 live
- \, verbunden mit dem Münchner Label Ilian Tape und bekannt für Vintage
- -Hardware. Ab 22:00 spielt Electric Indigo (Susanne Kirchmayr) live\, Wi
- ener DJ und Komponistin seit 1989\, Gründerin von female:pressure und T
- rägerin des Österreichischen Kunstpreises für Musik 2020. 18+.\n\nhtt
- ps://rave.wien/e/2026-11-14-heavy-listening-with-kobermann-mpu101-electr
- ic-in
+ LAN in den Westbahnstudios (Einlass 19:30) – ein „Music first“-For
+ mat für Ambient\, New Age\, Dub\, Downtempo\, Tribal und experimentelle
+  Elektronik als Gegenentwurf zur schnellen Digitalkultur\, gefördert vo
+ n der Stadt Wien (MA 7). Kobermann (Johannes Piller) eröffnet um 20:00 
+ mit einem DJ-Set\; er macht seit 2014 Lo-Fi-\, Kassetten-basierten Dub u
+ nd Elektroakustik und betreibt das Label A.T.C. Records. Um 21:00 folgt 
+ MPU101 live\, verbunden mit dem Münchner Label Ilian Tape und bekannt f
+ ür Vintage-Hardware und Field Recordings. Ab 22:00 spielt Dino Spilutti
+ ni ein tranceartiges Live-Set. Ursprünglich war Electric Indigo als dri
+ tter Act angekündigt\; RA nennt inzwischen Dino Spiluttini. 18+.\n\nhtt
+ ps://rave.wien/e/2026-11-14-heavy-listening-with-kobermann-mpu101-dino-s
+ pilut
 URL:https://rave.wien/e/2026-11-14-heavy-listening-with-kobermann-mpu101-
- electric-in
+ dino-spilut
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-heavy-listening-with-tanja-turner-mert-seger-heap@rave.wien

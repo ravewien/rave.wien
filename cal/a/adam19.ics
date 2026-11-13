@@ -26,25 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-11-kostlich-x-gurtelgroove@rave.wien
-DTSTAMP:20261111T000000Z
-DTSTART;TZID=Europe/Vienna:20261111T210000
-DTEND;TZID=Europe/Vienna:20261112T040000
-SUMMARY:Köstlich x Gürtelgroove
-LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
-DESCRIPTION:POSTSCRIPTUM\, FESH\, Adam19\, Antone\, Dudas\, Chris Eru\, M
- ahofsky\nVeranstalter: Köstlich\, Gürtelgroove\nEintritt: free (Spende
- n willkommen)\n\nDie Kollektive Köstlich und Gürtelgroove teilen sich 
- einen Mittwochabend im Club Lucia\, angekündigt als Nacht voller Groove
-  und Rhythmus mit UKG\, Hardgroove und Techno. Von Köstlich spielen POS
- TSCRIPTUM\, FESH sowie Chris Eru b2b Mahofsky\, von Gürtelgroove Antone
-  b2b Dudas. Dazu kommt Adam19 vom Kollektiv FIFI. Der Eintritt ist frei\
- , Spenden sind willkommen. Die Veranstalter halten fest: kein Platz für
-  Rassismus\, Sexismus\, Faschismus oder andere Formen von Hass und Gewal
- t.\n\nhttps://rave.wien/e/2026-11-11-kostlich-x-gurtelgroove
-URL:https://rave.wien/e/2026-11-11-kostlich-x-gurtelgroove
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-12-03-fifi-rave@rave.wien
 DTSTAMP:20261203T000000Z
 DTSTART;TZID=Europe/Vienna:20261203T233000

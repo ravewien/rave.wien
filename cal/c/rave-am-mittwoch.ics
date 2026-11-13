@@ -26,22 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-11-rave-am-mittwoch@rave.wien
-DTSTAMP:20261111T000000Z
-DTSTART;TZID=Europe/Vienna:20261111T230000
-DTEND;TZID=Europe/Vienna:20261112T040000
-SUMMARY:Rave am Mittwoch
-LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentliche Rave am M
- ittwoch (RAM) im Werk unter dem Motto „Recharge Wednesdays“ – laut
-  Veranstalter jede Woche harte Beats und lange Nächte. Beginn 23 Uhr\; 
- der Eintritt erfolgt in den bisherigen Ausgaben gegen freiwillige Spende
- \, ein Dresscode existiert nicht. Ein Awareness-Team ist vor Ort. Das Li
- ne-up dieser Ausgabe ist noch nicht veröffentlicht.\n\nhttps://rave.wie
- n/e/2026-11-11-rave-am-mittwoch
-URL:https://rave.wien/e/2026-11-11-rave-am-mittwoch
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-18-rave-am-mittwoch@rave.wien
 DTSTAMP:20261118T000000Z
 DTSTART;TZID=Europe/Vienna:20261118T230000

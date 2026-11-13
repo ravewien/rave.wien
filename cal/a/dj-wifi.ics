@@ -43,4 +43,24 @@ DESCRIPTION:Joey\, Crystal O\, DJ Wifi\, DJ Wolle\, Kat Ze\, Mischkonsum\
  requenz-herzi-f2f-edition
 URL:https://rave.wien/e/2026-11-14-herzfrequenz-herzi-f2f-edition
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-28-dead-end-showcase-with-paralich-pres-by-gdn@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T230000
+DTEND;TZID=Europe/Vienna:20261129T040000
+SUMMARY:DEAD END Showcase with Paralich pres. by GDN
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Paralich\, THIRD 2HIFT\, Valenthin\, DJ Wifi\, LUZZT\nVeranst
+ alter: GDN\n\nGDN (Gesindel der Nacht) präsentiert im Werk einen DEAD E
+ ND Showcase mit Paralich als Hauptact. Außerdem stehen THIRD 2HIFT\, Va
+ lenthin\, DJ Wifi und LUZZT im Line-up. Techno Airlines führt den Abend
+  als Techno-Clubnacht ab 23:00\; Floors\, Set-Zeiten\, Endzeit und Preis
+ e sind dort nicht angegeben. Tickets und Details laufen über Resident A
+ dvisor. Hinweis: Im Programm des Werks war für denselben Abend zuvor ei
+ ne Nine-Circles-Nacht gelistet\; ob beide parallel stattfinden\, ist off
+ en.\n\nhttps://rave.wien/e/2026-11-28-dead-end-showcase-with-paralich-pr
+ es-by-gdn
+URL:https://rave.wien/e/2026-11-28-dead-end-showcase-with-paralich-pres-b
+ y-gdn
+END:VEVENT
 END:VCALENDAR

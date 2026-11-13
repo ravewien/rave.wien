@@ -29,16 +29,17 @@ BEGIN:VEVENT
 UID:2026-11-13-10-years-of-publegenden-feat-b-rt@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T220000
-DTEND;TZID=Europe/Vienna:20261114T030000
+DTEND;TZID=Europe/Vienna:20261114T040000
 SUMMARY:10 Years of Publegenden feat. BØRT
 LOCATION:Club U\, Karlsplatz\, 1010 Wien
-DESCRIPTION:Børt\, Dubsburg Soundsystem\nVeranstalter: Publegenden\nEint
- ritt frei\n\nDie Reihe Publegenden feiert im Club U ihr zehnjähriges Be
- stehen\; als Gast ist Børt angekündigt. Techno Airlines führt den Abe
- nd als Clubnacht in seinem Techno-Kalender ab 22:00 und verlinkt für Ti
- ckets auf Resident Advisor. Weitere Acts\, Endzeit\, Preis und Mindestal
- ter sind nicht veröffentlicht\; die RA-Seite war nicht abrufbar.\n\nhtt
- ps://rave.wien/e/2026-11-13-10-years-of-publegenden-feat-b-rt
+DESCRIPTION:Børt\, Dubsburg Soundsystem\, Publegenden\nVeranstalter: Pub
+ legenden\nEintritt frei\n\nDie Reihe Publegenden feiert im Club U am Kar
+ lsplatz ihr zehnjähriges Bestehen. Die Wiener Rave-Legende Børt spielt
+  ein Vinyl-Set und gräbt dafür tief in seiner Plattensammlung\; dazu k
+ ommt Bass vom Dubsburg Soundsystem aus dem Burgenland\, außerdem legt d
+ ie Publegenden-Crew selbst auf. Laut RA geht es um Bass-Musik\, von 22:0
+ 0 bis 04:00\, ab 18. Der Eintritt ist frei.\n\nhttps://rave.wien/e/2026-
+ 11-13-10-years-of-publegenden-feat-b-rt
 URL:https://rave.wien/e/2026-11-13-10-years-of-publegenden-feat-b-rt
 END:VEVENT
 BEGIN:VEVENT
@@ -50,10 +51,11 @@ SUMMARY:Fluffig – Punschabend
 LOCATION:Club U\, Karlsplatz\, 1010 Wien
 DESCRIPTION:DizzyDray\, Anna Ullrich\, Rosa Rosen\, TAUSEND2Ø\nVeranstal
  ter: Fluffig\n\nPunschabend der Wiener Reihe Fluffig im Club U am Karlsp
- latz\, mit frühem Beginn um 18:00. Es spielen DizzyDray\, Anna Ullrich 
- (Techno\, Bounce\, Trance)\, Rosa Rosen und TAUSEND2Ø. Endzeit\, Eintri
- tt und Flyer sind noch nicht bekannt.\n\nhttps://rave.wien/e/2026-11-20-
- fluffig-punschabend
+ latz: ein Open-Air-Punschstand mit DJs von 18:00 bis 22:00. Es spielen D
+ izzyDray\, Anna Ullrich (Techno\, Bounce\, Trance)\, Rosa Rosen und TAUS
+ END2Ø\; RA nennt Trance und Techno. Laut Freytag geht es danach in der 
+ PRST weiter. Eintritt und Mindestalter sind weder auf RA noch auf Freyta
+ g angegeben.\n\nhttps://rave.wien/e/2026-11-20-fluffig-punschabend
 URL:https://rave.wien/e/2026-11-20-fluffig-punschabend
 END:VEVENT
 BEGIN:VEVENT
@@ -63,13 +65,17 @@ DTSTART;TZID=Europe/Vienna:20261121T160000
 DTEND;TZID=Europe/Vienna:20261121T220000
 SUMMARY:Du Tanzt Mich Mal – Winter Open Air: Punsch Rave (Opening)
 LOCATION:Club U\, Karlsplatz\, 1010 Wien
-DESCRIPTION:Duplikate\, Adrian Tronic\, Manu Script\nVeranstalter: Du Tan
- zt Mich Mal\nEintritt: 10 €\n\nAuftakt der Winter-Open-Air-Reihe „Pu
- nsch Rave“ von Du Tanzt Mich Mal am Karlsplatz beim Club U: Open-Air-R
- ave von 16 bis 22 Uhr mit Minimal\, House und Techno auf dem Lambda-Labs
- -Soundsystem\, dazu Punsch\, Glühwein und Tacos von Tacos Hermanos. Es 
- spielen Duplikate\, Adrian Tronic und Manu Script.\n\nhttps://rave.wien/
- e/2026-11-21-du-tanzt-mich-mal-winter-open-air-punsch-rave-ope
+DESCRIPTION:Duplikate\, Adrian Tronic\, Manu Script\, dRob\nVeranstalter:
+  Du Tanzt Mich Mal\nEintritt: 10 € (nur Barzahlung\; laut RA 15–16 U
+ hr Eintritt frei)\n\nAuftakt der Winter-Open-Air-Reihe „Punsch Rave“
+  von Du Tanzt Mich Mal am Karlsplatz beim Club U: Open-Air-Rave bis 22 U
+ hr mit Minimal\, House und Techno (RA: Tech House\, Minimal) auf dem Lam
+ bda-Labs-Soundsystem mit Lichteffekten\, dazu Punsch\, ein spezieller Te
+ quila-Punsch und Tacos von Tacos Hermanos. Es spielen Duplikate\, Adrian
+  Tronic\, Manu Script und dRob. Die Veranstalter-Website nennt 16 Uhr al
+ s Beginn\, RA dagegen 15 Uhr mit freiem Eintritt bis 16 Uhr\; danach 10 
+ €\, nur Barzahlung\, ab 21.\n\nhttps://rave.wien/e/2026-11-21-du-tanzt
+ -mich-mal-winter-open-air-punsch-rave-ope
 URL:https://rave.wien/e/2026-11-21-du-tanzt-mich-mal-winter-open-air-puns
  ch-rave-ope
 END:VEVENT

@@ -25,27 +25,4 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:2026-11-14-heavy-listening-with-kobermann-mpu101-electric-in@rave.wien
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Vienna:20261114T193000
-DTEND;TZID=Europe/Vienna:20261114T233000
-SUMMARY:HEAVY LISTENING with Kobermann\, MPU101 & Electric Indigo
-LOCATION:Westbahn Studios\, Adresse noch TBA Wien
-DESCRIPTION:Kobermann\, MPU101\, Electric Indigo\nVeranstalter: VLAN\nEin
- tritt: 15 €\n\nDritte Ausgabe von HEAVY LISTENING\, präsentiert von V
- LAN in den Westbahnstudios (Einlass 19:30) – eine Reihe für immersive
- \, geduldige Musik für aufmerksames Zuhören\, gefördert von der Stadt
-  Wien (MA 7). Kobermann (Johannes Piller) eröffnet um 20:00 mit einem D
- J-Set\; er macht seit 2014 Lo-Fi-\, Kassetten-basierten Dub und Elektroa
- kustik und betreibt das Label A.T.C. Records. Um 21:00 folgt MPU101 live
- \, verbunden mit dem Münchner Label Ilian Tape und bekannt für Vintage
- -Hardware. Ab 22:00 spielt Electric Indigo (Susanne Kirchmayr) live\, Wi
- ener DJ und Komponistin seit 1989\, Gründerin von female:pressure und T
- rägerin des Österreichischen Kunstpreises für Musik 2020. 18+.\n\nhtt
- ps://rave.wien/e/2026-11-14-heavy-listening-with-kobermann-mpu101-electr
- ic-in
-URL:https://rave.wien/e/2026-11-14-heavy-listening-with-kobermann-mpu101-
- electric-in
-END:VEVENT
 END:VCALENDAR

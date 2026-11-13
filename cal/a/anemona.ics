@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Anemona · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-28-hart-lab-resonance@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T160000
+DTEND;TZID=Europe/Vienna:20261128T210000
+SUMMARY:Hart Lab: Resonance
+LOCATION:Creative Cluster Vienna\, Viktor-Christ-Gasse 10\, 1050 Wien
+DESCRIPTION:Evren de concecao\, Autonomuse\, Anemona\nVeranstalter: Hart 
+ Lab\n\nDas Wiener Kollektiv Hart Lab lädt unter dem Titel „Resonance
+ “ zu einer Daytime-Veranstaltung ins Creative Cluster in der Viktor-Ch
+ rist-Gasse (Margareten)\, einem Atelier- und Kreativhaus in einer ehemal
+ igen Schule. Hart Lab hat zuvor u. a. im FLUCC\, im Tagada und im Werk (
+ WERKSTADT mit Carbone Records) veranstaltet. Es spielen Evren de conceca
+ o\, Autonomuse und Anemona. Beginn 16 Uhr\; Ende\, Preis und Genres ware
+ n bei der Prüfung nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-11
+ -28-hart-lab-resonance
+URL:https://rave.wien/e/2026-11-28-hart-lab-resonance
+END:VEVENT
+END:VCALENDAR

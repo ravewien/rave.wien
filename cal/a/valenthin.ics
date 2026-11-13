@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Valenthin · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-28-dead-end-showcase-with-paralich-pres-by-gdn@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T230000
+DTEND;TZID=Europe/Vienna:20261129T040000
+SUMMARY:DEAD END Showcase with Paralich pres. by GDN
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Paralich\, THIRD 2HIFT\, Valenthin\, DJ Wifi\, LUZZT\nVeranst
+ alter: GDN\n\nGDN (Gesindel der Nacht) präsentiert im Werk einen DEAD E
+ ND Showcase mit Paralich als Hauptact. Außerdem stehen THIRD 2HIFT\, Va
+ lenthin\, DJ Wifi und LUZZT im Line-up. Techno Airlines führt den Abend
+  als Techno-Clubnacht ab 23:00\; Floors\, Set-Zeiten\, Endzeit und Preis
+ e sind dort nicht angegeben. Tickets und Details laufen über Resident A
+ dvisor. Hinweis: Im Programm des Werks war für denselben Abend zuvor ei
+ ne Nine-Circles-Nacht gelistet\; ob beide parallel stattfinden\, ist off
+ en.\n\nhttps://rave.wien/e/2026-11-28-dead-end-showcase-with-paralich-pr
+ es-by-gdn
+URL:https://rave.wien/e/2026-11-28-dead-end-showcase-with-paralich-pres-b
+ y-gdn
+END:VEVENT
+END:VCALENDAR
