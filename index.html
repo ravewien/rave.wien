@@ -613,7 +613,7 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
 .opt.inc::before{content:"●";color:var(--accent);margin-left:-13px;margin-right:4px;font-size:9px;line-height:1.9}
 .opt span{min-width:0;overflow-wrap:anywhere;flex:1}
 .opt[data-k="time"][data-n="night"] span{color:var(--accent)}.opt[data-k="time"][data-n="day"] span{color:rgb(var(--day))}.opt[data-k="time"][data-n="after"] span{color:rgb(var(--aft))}
-.opt span .xd{display:inline-grid;place-items:center;width:14px;height:14px;margin-right:7px;vertical-align:-2px;background:none;border-radius:0;font-style:normal;font-weight:800;font-size:13px;color:var(--c-ev)}.opt span .xd svg{width:13px;height:13px}.opt span .xd.xm{color:var(--mute)}.opt span .xd.xi{color:#5b9cf0}.opt span .xd.xo{color:#3e9d5c}
+.opt span .xd{display:inline-grid;place-items:center;width:14px;height:14px;margin-right:7px;vertical-align:-2px;background:none;border-radius:0;font-style:normal;font-weight:800;font-size:13px;color:var(--c-ev)}.opt span .xd svg{width:13px;height:13px}.opt span .xd.xm{color:var(--mute)}.opt span .xd.xa{width:auto;margin:0 0 0 5px;vertical-align:0}.opt span .xd.xi{color:#5b9cf0}.opt span .xd.xo{color:#3e9d5c}
 .opt span .fage{display:inline-block;font-family:var(--f-mono);font-weight:700;font-size:11px;line-height:1;padding:3px 5px;border-radius:3px;border:1px solid var(--line);color:var(--fg)}
 .opt em{font-style:normal;font-family:var(--f-mono);font-size:11px;color:var(--mute)}
 .opt i{width:8px;height:8px;border-radius:2px;flex:none}
@@ -1149,7 +1149,8 @@ function splitPrice(p){const out=[];String(p).split(/\s+[·|\/]\s+|,\s+/).forEac
 function timeK(e){if(!e.s)return "unk";const h=+e.s.slice(0,2);return h>=4&&h<12?"after":h>=12&&h<18?"day":"night"}
 const EXTRA=[["src",e=>e.srcCats,["loc","org","multi","one","mn"]],["age",ageK,["18+","21+","unk"]],["price",priceK,["free","p10","p20","p99","unk"]],["time",timeK,["night","day","after","unk"]],["io",e=>e.ioK.length?e.ioK:["unk"],["ioIn","ioOut","unk"]]];
 const xLabel=(k,v)=>k==="age"&&v!=="unk"?v:L()[v];
-const xDeco=(k,v)=>k==="io"?`<i class="xd ${v==="ioOut"?"xo":"xi"}">${v==="unk"?"":v==="ioOut"?ITREE:IHOUSE}</i>`:k==="src"?`<i class="xd${v==="multi"?" xm":""}">${v==="loc"||v==="org"||v==="multi"?"✓":""}</i>`:"";
+const xDeco=(k,v)=>k==="io"?`<i class="xd ${v==="ioOut"?"xo":"xi"}">${v==="unk"?"":v==="ioOut"?ITREE:IHOUSE}</i>`:"";
+const xAfter=(k,v)=>k==="src"&&(v==="loc"||v==="org"||v==="multi")?`<i class="xd xa${v==="multi"?" xm":""}">✓</i>`:"";
 try{const p=JSON.parse(localStorage.getItem("rw2")||"{}");if(p.lang)st.lang=p.lang;if(["list","cal","art","loc","col"].includes(p.view))st.view=p.view;if(p.view==="fav"||p.fav)st.fav=true}catch(_){}
 // Barrierefreiheit: Einstellungen merken und sofort anwenden
 const A11YK=["contrast","invert","gray","simple","dys","spacing","links","motion","focus","cursor"];
@@ -1251,7 +1252,7 @@ function renderSide(){
   const groups=[["g",l.genres,e=>e.genres],["v",l.venues,e=>[e.venue]],["c",l.colls,e=>e.coll],["a",l.artists,e=>e.artists]];
   const extra=EXTRA.map(([k,fn,vals])=>{const b=EV.filter(e=>matches(e,k));const lab={src:l.fsrc,age:l.fage,price:l.fprice,time:l.ftime,io:l.fio}[k];
     return `<details class="tree" data-k="${k}" ${open[k]?"open":""}><summary><span>${lab}</span><em>${vals.length}</em></summary><div class="opts">${
-      vals.map(v=>`<button class="opt ${fcls(k,v)}" data-k="${k}" data-n="${v}" ${fattr(k,v)}><span>${xDeco(k,v)}${k==="age"&&v!=="unk"?`<b class="fage">${v}</b>`:xLabel(k,v)}</span><em>${b.filter(e=>[].concat(fn(e)).includes(v)).length}</em></button>`).join("")}</div></details>`}).join("");
+      vals.map(v=>`<button class="opt ${fcls(k,v)}" data-k="${k}" data-n="${v}" ${fattr(k,v)}><span>${xDeco(k,v)}${k==="age"&&v!=="unk"?`<b class="fage">${v}</b>`:xLabel(k,v)}${xAfter(k,v)}</span><em>${b.filter(e=>[].concat(fn(e)).includes(v)).length}</em></button>`).join("")}</div></details>`}).join("");
   $("trees").innerHTML=prof+extra+groups.map(([k,label,get])=>{
     const m=new Map();EV.filter(e=>matches(e,k)).forEach(e=>get(e).forEach(x=>m.set(x,(m.get(x)||0)+1)));
     st[k].forEach(x=>{if(!m.has(x))m.set(x,0)});st.x[k].forEach(x=>{if(!m.has(x))m.set(x,0)});
