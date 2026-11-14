@@ -3,6 +3,7 @@
 set -e
 DIR="$HOME/rave-insta"; CONF="$HOME/.rave-insta"
 mkdir -p "$DIR" "$CONF"
+chmod 700 "$CONF"
 echo "→ Lade Programm …"
 curl -fsSL "https://rave.wien/pi/rave_insta.py" -o "$DIR/rave_insta.py"
 echo "→ Installiere Python-Umgebung (kann ein paar Minuten dauern) …"

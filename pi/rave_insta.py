@@ -23,8 +23,11 @@ CONFIG = HOME / "config"
 PAUSE = HOME / "PAUSE"
 DL = HOME / "bilder"
 MAX_VERSPAETUNG = timedelta(hours=6)   # was länger überfällig ist, wird nicht mehr nachgeholt
+MAX_POSTS_24H = 4                      # Sicherheitsnetz: mehr wird an einem Tag nie automatisch gepostet
 
 HOME.mkdir(parents=True, exist_ok=True)
+try: HOME.chmod(0o700)
+except OSError: pass
 logging.basicConfig(filename=HOME / "log.txt", level=logging.INFO,
                     format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("rave")
@@ -81,7 +84,31 @@ def client(interactive=False):
     cl.dump_settings(SESSION)
     return cl
 
+import re
+BILD_OK = re.compile(r"^ig/\d{4}-\d{2}-\d{2}/\d{1,2}\.jpg$")
+DATUM_OK = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+
+def pruefe(post):
+    """Nimmt nur Posts an, die so aussehen, wie rave.wien sie erzeugt."""
+    if not DATUM_OK.match(str(post.get("datum", ""))):
+        raise ValueError("ungültiges Datum in der Warteschlange")
+    bilder = post.get("bilder") or []
+    if not bilder or len(bilder) > 10 or not all(isinstance(b, str) and BILD_OK.match(b) for b in bilder):
+        raise ValueError("unerwartete Bildpfade in der Warteschlange")
+    if not isinstance(post.get("text"), str) or len(post["text"]) > 2200:
+        raise ValueError("Text fehlt oder ist zu lang")
+
+def zu_viele(state, now):
+    """True, wenn in den letzten 24 Stunden schon MAX_POSTS_24H Posts hinausgegangen sind."""
+    zeiten = [datetime.fromisoformat(t) for t in state.get("zeiten", [])]
+    return len([t for t in zeiten if now - t < timedelta(hours=24)]) >= MAX_POSTS_24H
+
+def merke(state, now):
+    zeiten = [t for t in state.get("zeiten", []) if now - datetime.fromisoformat(t) < timedelta(days=2)]
+    state["zeiten"] = zeiten + [now.isoformat()]
+
 def download(post):
+    pruefe(post)
     folder = DL / post["datum"]; folder.mkdir(parents=True, exist_ok=True)
     paths = []
     for rel in post["bilder"]:
@@ -144,7 +171,7 @@ def main():
         d = sys.argv[2]
         p = next((x for x in queue.get("posts", []) if x["datum"] == d), None)
         if not p: sys.exit(f"Kein Post für {d} in der Warteschlange.")
-        url = publish(p); state["gepostet"][d] = url; save_state(state); say(f"{d}: gepostet → {url}"); return
+        url = publish(p); state["gepostet"][d] = url; merke(state, now); save_state(state); say(f"{d}: gepostet → {url}"); return
     # normaler Lauf
     if PAUSE.exists():
         return
@@ -154,9 +181,12 @@ def main():
     time.sleep(random.randint(5, 120))  # nicht immer auf die Sekunde genau
     cl = client()
     for p in todo:
+        if zu_viele(state, datetime.now(timezone.utc)):
+            say(f"{p['datum']}: nicht gepostet – schon {MAX_POSTS_24H} Posts in 24 Stunden (Sicherheitsnetz). Von Hand: rave jetzt {p['datum']}")
+            break
         try:
             url = publish(p, cl)
-            state["gepostet"][p["datum"]] = url; save_state(state)
+            state["gepostet"][p["datum"]] = url; merke(state, datetime.now(timezone.utc)); save_state(state)
             say(f"{p['datum']}: gepostet → {url}")
             time.sleep(random.randint(60, 180))
         except Exception as e:

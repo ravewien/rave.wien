@@ -19,7 +19,9 @@ async function measure(u) {
   const ac = new AbortController(); const t = setTimeout(() => ac.abort(), 20000);
   const res = await fetch(u, { signal: ac.signal, headers: { "user-agent": "Mozilla/5.0 (rave.wien logo check)" } }); clearTimeout(t);
   if (!res.ok) throw new Error("HTTP " + res.status);
+  if (+(res.headers.get("content-length") || 0) > 15e6) throw new Error("zu groß");
   const buf = Buffer.from(await res.arrayBuffer());
+  if (buf.length > 15e6) throw new Error("zu groß");
   let img = sharp(buf, { density: 150 }).ensureAlpha();
   const { data, info } = await img.raw().toBuffer({ resolveWithObject: true });
   const W = info.width, H = info.height, C = info.channels;

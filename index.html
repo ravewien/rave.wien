@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-9NBA8nbrfX39SOKDF+r05LGscLzfKxT9yOi0MVXbBdQ=' 'sha256-aGYgwL27BgfOGQ9NNoslQ8stjKrozUOWGcyW9uuI2Sc='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-aGYgwL27BgfOGQ9NNoslQ8stjKrozUOWGcyW9uuI2Sc='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -1013,7 +1013,8 @@ html.a-cursor :is(a,button,[role=button],label,summary,input,select,[data-vopen]
 <button class="stackx" id="stackx" type="button" hidden></button>
 <div class="pullhint" id="pullhint" hidden><span></span><i></i></div>
 
-<script>(()=>{const q=/(^|\.)rave\.wien$/.test(location.hostname)?"?v="+Math.floor(Date.now()/60000):"";document.write('<script src="events.js'+q+'"><\/script><script src="past.js'+q+'"><\/script><script src="logos.js'+q+'"><\/script><script src="geo.js'+q+'"><\/script>')})()</script>
+<script>/* Versionskennung der Daten (winzige Datei, immer frisch) */(()=>{if(/(^|\.)rave\.wien$/.test(location.hostname))document.write('<script src="ver.js?t='+Math.floor(Date.now()/60000)+'"><\/script>')})()</script>
+<script>/* Daten laden: Adresse ändert sich nur, wenn sich die Datei geändert hat – sonst kommt sie aus dem Browser-Cache */(()=>{const live=/(^|\.)rave\.wien$/.test(location.hostname),V=window.RWV||{},q=f=>live?"?v="+(/^[a-f0-9]{6,20}$/.test(V[f]||"")?V[f]:Math.floor(Date.now()/60000)):"";document.write(["events.js","past.js","logos.js","geo.js"].map(f=>'<script src="'+f+q(f)+'"><\/script>').join(""))})()</script>
 
 <script>
 const VRULES=typeof VR!=="undefined"?VR:{};const SORG=typeof SO!=="undefined"?SO:[];const CGEN=typeof CG!=="undefined"?CG:{};
