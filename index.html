@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-aGYgwL27BgfOGQ9NNoslQ8stjKrozUOWGcyW9uuI2Sc='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-MBt8v+zX0RZNz2s8c6rZbMOK0oQeTLgy/f6x9z+7K5I='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -224,8 +224,6 @@ body.vw-loc{--accent:var(--c-ven);--accent-fg:#06140a;--sel:#173f20}
 .pev .mono{font-family:var(--f-mono);font-size:11.5px;color:var(--mute)}
 .pev small{grid-column:2;color:var(--mute);font-size:12px}
 .pev:hover{background:var(--panel2)}
-.cal .ev.pastev{opacity:.42;filter:grayscale(.7)}
-.cal .ev.pastev:hover,.cal .ev.pastev[aria-current="true"]{opacity:.8}
 .cal .dots i.pd{opacity:.35}
 .row.pastrow{opacity:.55}
 .cov.done img,.lgt.fly.done img{filter:grayscale(1) brightness(.75)}
@@ -749,32 +747,29 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
 .calnav button{width:34px;height:30px;border:1px solid var(--line);border-radius:3px;background:var(--panel);font-family:var(--f-mono);font-size:14px}
 .calnav button:disabled{opacity:.3;cursor:default}
 .cal{display:grid;grid-template-columns:repeat(7,minmax(0,1fr))}
-.cal .wd{background:var(--panel2);padding:6px;font-family:var(--f-mono);font-size:10px;color:var(--mute);text-transform:uppercase;border-bottom:1px solid var(--line)}
-.cell{min-height:70px;padding:4px;display:flex;flex-direction:column;gap:2px;min-width:0;border-right:1px solid var(--line);border-bottom:1px solid var(--line);background:var(--panel);text-align:left;font:inherit;color:inherit;border-top:0;border-left:0}
+.cal .wd{background:var(--panel2);padding:6px;text-align:center;font-family:var(--f-mono);font-size:10px;color:var(--mute);text-transform:uppercase;border-bottom:1px solid var(--line)}
+.cell{min-height:58px;padding:7px 4px 6px;display:flex;flex-direction:column;align-items:center;gap:5px;min-width:0;border-right:1px solid var(--line);border-bottom:1px solid var(--line);background:var(--panel);text-align:center;font:inherit;color:inherit;border-top:0;border-left:0;cursor:pointer}
+.cell:hover{background:var(--panel2)}
+.cell.sel,.cell.sel:hover{background:var(--sel)}
+.cell:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
 .cell:nth-child(7n){border-right:0}
 .cell.other{background:var(--panel3);cursor:pointer}
 .cell.other .n{opacity:.55}
 .cell.past{opacity:.45}
-.cell .n{font-family:var(--f-mono);font-size:11px;color:var(--mute);display:flex;gap:6px;align-items:baseline}
+.cell .n{font-family:var(--f-mono);font-size:14px;color:var(--fg);display:flex;gap:6px;align-items:baseline}
 .cell.today .n{color:var(--cueA);font-weight:600}
-.ev{display:flex;gap:5px;align-items:stretch;background:var(--panel2);border:0;border-radius:1px;padding:0;font-size:11px;text-align:left;line-height:1.25;width:100%}
-.ev .st{display:flex;gap:2px;flex:none}
-.ev .st i{width:3px;border-radius:1px}
-.ev .tx{padding:2px 4px 2px 0;overflow-wrap:anywhere;min-width:0}
-.ev:hover,.ev[aria-current="true"]{background:var(--sel)}
-.dots{display:none}
-.daylist{display:none}
+.dots{display:flex;flex-wrap:wrap;justify-content:center;gap:3px;max-width:100%}
+.dots i{width:6px;height:6px;border-radius:50%}
+.daylist{display:block;border-top:1px solid var(--line)}
 .legend{display:flex;flex-wrap:wrap;gap:4px 12px;padding:8px 12px;border-top:1px solid var(--line);font-size:11px;color:var(--mute)}
 .legend span{display:inline-flex;align-items:center;gap:5px}
 .legend i{width:3px;height:12px;border-radius:1px}
 @media (max-width:639px){
-  .cal .ev{display:none}
-  .cell{min-height:52px;align-items:center;cursor:pointer;padding:5px 2px}
-  .cell .n{font-size:13px;color:var(--fg)}
-  .cell.sel{background:var(--sel)}
-  .dots{display:flex;flex-wrap:wrap;justify-content:center;gap:2px;max-width:100%}
-  .dots i{width:5px;height:5px;border-radius:50%}
-  .daylist{display:block;border-top:1px solid var(--line)}
+  .cell{min-height:52px;padding:5px 2px;gap:2px}
+  .cell .n{font-size:13px}
+  .dots{gap:2px}
+  .dots i{width:5px;height:5px}
+}
 }
 
 footer{display:grid;gap:8px;justify-items:center;text-align:center;padding:8px 8px 24px;color:var(--mute);font-size:12px;line-height:1.55}
@@ -1419,10 +1414,9 @@ function renderCal(ev){
   for(let d=new Date(start);d<=end;d.setDate(d.getDate()+1)){
     const ds=iso(d);const de=ev.filter(e=>e.d===ds);const dp=ds<TODAY?pv.filter(p=>p.d===ds):[];
     const cls=[d.getMonth()!==mo-1?"other":"",ds<TODAY?"past":"",ds===TODAY?"today":"",st.calDay===ds?"sel":""].join(" ");
-    cells+=`<div class="cell ${cls}" data-cday="${ds}"><span class="n">${d.getDate()}</span>${
-      de.length||dp.length?`<span class="dots">${de.map(e=>`<i style="background:${stripes(e)[0]}"></i>`).join("")}${dp.map(()=>`<i class="pd" style="background:var(--mute)"></i>`).join("")}</span>`:""}${
-      dp.map(p=>`<button class="ev pastev" data-id="${p.id}" aria-current="${st.sel===p.id}" title="${esc(p.t)} · ${esc(p.v)}"><span class="st"><i style="background:var(--mute)"></i></span><span class="tx">${esc(p.t)}</span></button>`).join("")}${
-      de.map(e=>`<button class="ev" data-id="${e.id}" aria-current="${st.sel===e.id}" title="${esc(e.title)} · ${esc(e.venue)}"><span class="st">${stripes(e).map(c=>`<i style="background:${c}"></i>`).join("")}</span><span class="tx">${esc(e.title)}</span></button>`).join("")}</div>`;
+    const n=de.length+dp.length;
+    cells+=`<div class="cell ${cls}" data-cday="${ds}" role="button" tabindex="0" aria-pressed="${st.calDay===ds}" aria-label="${esc(fmtDay(ds,true))}: ${n} ${l.events}"><span class="n">${d.getDate()}</span>${
+      n?`<span class="dots">${de.map(e=>`<i style="background:${stripes(e)[0]}"></i>`).join("")}${dp.map(()=>`<i class="pd" style="background:var(--mute)"></i>`).join("")}</span>`:""}</div>`;
   }
   const label=first.toLocaleDateString(loc(),{month:"long",year:"numeric"});
   let day="";
@@ -2070,6 +2064,11 @@ document.addEventListener("change",ev=>{const i=ev.target.closest&&ev.target.clo
     if(k==="dys"&&A11Y.delete("simple")){const d=$("a11y-p").querySelector('[data-a11y="simple"]');if(d)d.checked=false}}
   else A11Y.delete(k);applyA11y();if(LMAP)setTimeout(()=>LMAP.invalidateSize(),50)});
 document.addEventListener("keydown",ev=>{if(ev.key==="Escape"&&!$("a11y-p").hidden){a11yClose(1)}});
+/* Kalender per Tastatur: Enter/Leertaste wählt den Tag, Pfeiltasten wandern durch die Tage */
+document.addEventListener("keydown",ev=>{const c=ev.target&&ev.target.closest&&ev.target.closest(".cell[data-cday]");if(!c)return;
+  if(ev.key==="Enter"||ev.key===" "){ev.preventDefault();c.click();return}
+  const step={ArrowLeft:-1,ArrowRight:1,ArrowUp:-7,ArrowDown:7}[ev.key];if(!step)return;
+  const d=new Date(c.dataset.cday+"T12:00:00");d.setDate(d.getDate()+step);const n=document.querySelector('.cell[data-cday="'+iso(d)+'"]');if(n){ev.preventDefault();n.click()}});
 document.addEventListener("keydown",ev=>{if(ev.key==="Escape"&&!$("flybox").hidden){$("flybox").hidden=true;hpop(1);return}if((ev.key==="Enter"||ev.key===" ")&&ev.target.dataset&&ev.target.dataset.pin!=null){ev.preventDefault();ev.target.dispatchEvent(new MouseEvent("click",{bubbles:true}));return}if(ev.key==="Escape"&&$("side").classList.contains("open")){drawer(false);return}if(ev.key==="Escape"&&document.activeElement!==$("q")&&st.cards.length){closeCard(ck(st.cards[st.cards.length-1]));hpop(1)}});
 document.addEventListener("click",ev=>{
   {const tk=ev.target.closest&&ev.target.closest("a.tixbtn");if(tk)gc("ticket","Ticket-Klick",true)}
@@ -2089,7 +2088,7 @@ document.addEventListener("click",ev=>{
   if(ev.target.closest("#stackx,#cardsx")){st.cards=[];syncCur();renderDeck();markCur();hpop(HD);return}
   if(mqSheet.matches&&st.cards.some(c=>!c.min)){if(ev.target.closest(".top,#msearch,.side"))minAll();else if(!ev.target.closest(".rcol,.dscrim")){ev.preventDefault();ev.stopPropagation();minAll();return}}
   const cd=ev.target.closest("[data-cday]");
-  if(cd&&!ev.target.closest(".ev")){const ds=cd.dataset.cday,mo=ds.slice(0,7),mob=matchMedia("(max-width:639px)").matches;if(mo!==st.month&&calMonths().includes(mo)){st.month=mo;st.calDay=ds;renderList();return}if(mob){st.calDay=ds;renderList();return}}
+  if(cd){const ds=cd.dataset.cday,mo=ds.slice(0,7);if(mo!==st.month&&calMonths().includes(mo))st.month=mo;if(ds.slice(0,7)===st.month){st.calDay=ds;renderList();const nc=document.querySelector('.cell[data-cday="'+ds+'"]');if(nc&&document.activeElement===document.body)nc.focus({preventScroll:true});return}}
   const xsb=ev.target.closest("#out [data-xs]");if(xsb){const b=xsb.dataset.xs;XS=XS.by===b&&b!=="name"?{by:b,dir:-XS.dir}:{by:b,dir:1};try{localStorage.setItem("rw-xsort",JSON.stringify(XS))}catch(_){}render();return}
   const tov=ev.target.closest("#out [data-tov],#out [data-toc]");if(tov){ev.preventDefault();ev.stopPropagation();if(tov.dataset.tov)openCard("ven",tov.dataset.tov);else openCard("col",tov.dataset.toc);return}
   const tf=ev.target.closest("#out [data-tf]");if(tf){const k=tf.dataset.tf,n=tf.dataset.n;st.x[k].delete(n);if(st[k].has(n))st[k].delete(n);else st[k].add(n);render();return}
