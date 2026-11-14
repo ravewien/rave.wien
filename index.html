@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-MBt8v+zX0RZNz2s8c6rZbMOK0oQeTLgy/f6x9z+7K5I='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-6AHMmYtwwNfZe5QB+uFAVMM/T1b0ZIvEA59KFDBofus='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -763,7 +763,8 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
 .daylist{display:block;border-top:1px solid var(--line)}
 .legend{display:flex;flex-wrap:wrap;gap:4px 12px;padding:8px 12px;border-top:1px solid var(--line);font-size:11px;color:var(--mute)}
 .legend span{display:inline-flex;align-items:center;gap:5px}
-.legend i{width:3px;height:12px;border-radius:1px}
+.legend i{width:8px;height:8px;border-radius:50%;flex:none}
+.t-night{background:var(--accent)}.t-day{background:rgb(var(--day))}.t-after{background:rgb(var(--aft))}.t-unk{background:var(--mute)}
 @media (max-width:639px){
   .cell{min-height:52px;padding:5px 2px;gap:2px}
   .cell .n{font-size:13px}
@@ -1401,6 +1402,8 @@ function renderMap(ev){
   const np=nopin.length?`<span>${l.noPin}: ${nopin.map(v=>`${esc(v)} (${by[v].length})`).join(", ")}</span>`:"";
   $("out").innerHTML=`<div class="maphint"><span>${l.mapHint}</span>${np}</div><div class="mapwrap">${svg}</div>${legend}${sel?`<div class="dayhdr">${esc(sel.id)} <span>${sel.ev.length}</span></div>${rows}`:""}`;
 }
+/* Punkte im Kalender: Farbe nach Tageszeit, in der Reihenfolge des Tages */
+const TORD={after:0,day:1,night:2,unk:3};
 function renderCal(ev){
   const l=L();const months=calMonths();
   if(!st.month||!months.includes(st.month))st.month=TODAY.slice(0,7);
@@ -1410,19 +1413,19 @@ function renderCal(ev){
   const first=new Date(y,mo-1,1),last=new Date(y,mo,0);
   const start=new Date(first);start.setDate(1-((first.getDay()+6)%7));
   const end=new Date(last);end.setDate(last.getDate()+(6-((last.getDay()+6)%7)));
-  let cells=[1,2,3,4,5,6,0].map(i=>`<div class="wd">${l.days[i]}</div>`).join("");
+  let cells=[1,2,3,4,5,6,0].map(i=>`<div class="wd">${l.days[i]}</div>`).join("");const seenK={};
   for(let d=new Date(start);d<=end;d.setDate(d.getDate()+1)){
     const ds=iso(d);const de=ev.filter(e=>e.d===ds);const dp=ds<TODAY?pv.filter(p=>p.d===ds):[];
     const cls=[d.getMonth()!==mo-1?"other":"",ds<TODAY?"past":"",ds===TODAY?"today":"",st.calDay===ds?"sel":""].join(" ");
     const n=de.length+dp.length;
     cells+=`<div class="cell ${cls}" data-cday="${ds}" role="button" tabindex="0" aria-pressed="${st.calDay===ds}" aria-label="${esc(fmtDay(ds,true))}: ${n} ${l.events}"><span class="n">${d.getDate()}</span>${
-      n?`<span class="dots">${de.map(e=>`<i style="background:${stripes(e)[0]}"></i>`).join("")}${dp.map(()=>`<i class="pd" style="background:var(--mute)"></i>`).join("")}</span>`:""}</div>`;
+      n?`<span class="dots">${[...dp.map(p=>timeK({s:(p.x||{}).s})),...de.map(timeK)].sort((a,b)=>TORD[a]-TORD[b]).map(k=>{seenK[k]=1;return `<i class="t-${k}"></i>`}).join("")}</span>`:""}</div>`;
   }
   const label=first.toLocaleDateString(loc(),{month:"long",year:"numeric"});
   let day="";
   if(st.calDay){const de=ev.filter(e=>e.d===st.calDay);const dp=st.calDay<TODAY?pv.filter(p=>p.d===st.calDay):[];day=`<div class="daylist"><div class="dayhdr">${fmtDay(st.calDay,true)} <span>${de.length+dp.length}</span></div>${de.length||dp.length?de.map(rowHTML).join("")+dp.map(pastRowHTML).join(""):`<div class="empty-state">${l.none}</div>`}</div>`}
   else day=`<div class="daylist"><div class="empty-state">${l.tapDay}</div></div>`;
-  const legend=`<div class="legend"><span><i style="background:var(--accent)"></i>${l.std}</span>${FLAGS.map(f=>`<span><i style="background:${TAGC[f[0]]}"></i>${l[f[2]]}</span>`).join("")}</div>`;
+  const legend=`<div class="legend">${["after","day","night","unk"].filter(k=>k!=="unk"||seenK.unk).map(k=>`<span><i class="t-${k}"></i>${l[k]}</span>`).join("")}</div>`;
   $("out").innerHTML=`<div class="calnav"><button id="mprev" aria-label="${l.prevM}" ${mi<=0?"disabled":""}>‹</button><b>${label}</b><button id="mnext" aria-label="${l.nextM}" ${mi>=months.length-1?"disabled":""}>›</button></div><div class="cal">${cells}</div>${legend}${day}`;
 }
 const maps=e=>"https://www.google.com/maps/search/?api=1&query="+encodeURIComponent(`${e.venue}, ${V[e.venue]&&V[e.venue]!=="TBA"&&V[e.venue]!=="Wien"?V[e.venue]:""} Wien`);
