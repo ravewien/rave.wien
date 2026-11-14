@@ -994,6 +994,9 @@ const CG={
  "Uniquely Journeys": [
   "Psytrance",
   "Goa"
+ ],
+ "Xperiment Records": [
+  "Techno"
  ]
 };
 const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","909techno","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","BLUR","Bonkers","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Cybertribe","Cyclic Existence","Dance 2 House","Danza Obscura","Dark Pressure","Das Syndikat","DEAD END","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Klanggerecht","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","Meier","MEIOSISS","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Opération","Out of Space","Oxygene","Palazzo Recordings","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","SIGNAL","SIN","Slutlabs","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","The Academy","The Hive","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Uniquely Journeys","Unkwn","Untz Baby Untz","up/or","Ventil Records","Verknallt","Vertigo","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wyldhearts","Xperiment","Xperiment Records","YE","YN","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
@@ -5619,6 +5622,23 @@ const CI={
   ],
   "noLogo": "2026-11-11",
   "infoChk": "2026-11-11"
+ },
+ "Xperiment Records": {
+  "de": "Österreichisches Techno-Label (laut RA seit etwa 2018), das im Wiener Kramladen die Reihe „Xperiment Nights“ unter dem Motto „Techno without Judgment!“ mit seinen Label-Artists veranstaltet.",
+  "en": "Austrian techno label (active since around 2018 according to RA) that runs the 'Xperiment Nights' series at Vienna's Kramladen with its label artists under the motto 'Techno without Judgment!'.",
+  "type": [
+   "Label",
+   "Reihe"
+  ],
+  "founded": "2018",
+  "from": "Österreich",
+  "ig": "https://www.instagram.com/xperimentrecords/",
+  "logo": "https://static.ra.co/images/labels/xperimentrecords.jpg?dateUpdated=1743628603820",
+  "src": [
+   "https://de.ra.co/labels/25498",
+   "https://ra.co/events/2584082"
+  ],
+  "infoChk": "2026-11-14"
  }
 };
 const VI={
@@ -49193,6 +49213,118 @@ const AR={
   "noImg": "2026-11-13",
   "noLinks": "2026-11-13",
   "infoChk": "2026-11-13"
+ },
+ "MORASS": {
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "real": "Rass Moradi",
+  "bio": {
+   "de": "MORASS ist ein in Wien aktiver Techno-DJ, der seit 2025 regelmäßig bei der Reihe Xperiment Nights von Xperiment Records im Kramladen spielt.",
+   "en": "MORASS is a Vienna-based techno DJ who has played regularly at Xperiment Records' Xperiment Nights series at Kramladen since 2025."
+  },
+  "img": "https://static.ra.co/images/profiles/square/morass.jpg?dateUpdated=1766941530437",
+  "links": {
+   "ra": "https://ra.co/dj/morass",
+   "sc": "https://soundcloud.com/morassmusic",
+   "ig": "https://www.instagram.com/morassmusic"
+  },
+  "src": [
+   "https://ra.co/dj/morass"
+  ],
+  "infoChk": "2026-11-14"
+ },
+ "DYMINIX": {
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "real": "Dominik Zeisler",
+  "labels": [
+   "Xperiment Records"
+  ],
+  "bio": {
+   "de": "DYMINIX ist ein österreichischer Techno-Artist beim Label Xperiment Records und spielt seit 2026 bei dessen Reihe Xperiment Nights im Kramladen.",
+   "en": "DYMINIX is an Austrian techno artist on Xperiment Records, playing its Xperiment Nights series at Kramladen since 2026."
+  },
+  "img": "https://static.ra.co/images/profiles/square/dyminix.jpg?dateUpdated=1783338356000",
+  "links": {
+   "ra": "https://ra.co/dj/dyminix",
+   "web": "https://www.dyminix.com",
+   "ig": "https://www.instagram.com/dyminix"
+  },
+  "src": [
+   "https://ra.co/dj/dyminix"
+  ],
+  "infoChk": "2026-11-14"
+ },
+ "Leen Tilt": {
+  "labels": [
+   "Xperiment Records"
+  ],
+  "bio": {
+   "de": "Leen Tilt ist Techno-DJ beim Label Xperiment Records, betreibt die Mix-Reihe „The Penguin Show“ auf SoundCloud und spielt regelmäßig bei den Xperiment Nights im Kramladen; Auftritte u. a. auch im Al Techno in Amman (Jordanien).",
+   "en": "Leen Tilt is a techno DJ on Xperiment Records who hosts the mix series 'The Penguin Show' on SoundCloud and plays regularly at Xperiment Nights at Kramladen; appearances also include Al Techno in Amman, Jordan."
+  },
+  "links": {
+   "ra": "https://ra.co/dj/leentilt",
+   "sc": "https://soundcloud.com/leentilt"
+  },
+  "sets": [
+   {
+    "t": "Leen Tilt – Live at Al Techno, Amman (Februar 2025)",
+    "u": "https://soundcloud.com/leentilt/altechno-amman-jordan"
+   }
+  ],
+  "setsChecked": "2026-11-14",
+  "noImg": "2026-11-14",
+  "src": [
+   "https://de.ra.co/labels/25498",
+   "https://ra.co/events/2584082",
+   "https://soundcloud.com/leentilt"
+  ],
+  "infoChk": "2026-11-14"
+ },
+ "GØVI": {
+  "infoChk": "2026-11-14",
+  "noImg": "2026-11-14",
+  "noLinks": "2026-11-14"
+ },
+ "DJ Ecoton": {
+  "infoChk": "2026-11-14",
+  "noImg": "2026-11-14",
+  "noLinks": "2026-11-14"
+ },
+ "DJ Can't Commit": {
+  "infoChk": "2026-11-14",
+  "noImg": "2026-11-14",
+  "noLinks": "2026-11-14"
+ },
+ "I.Lim": {
+  "infoChk": "2026-11-14",
+  "noImg": "2026-11-14",
+  "noLinks": "2026-11-14"
+ },
+ "High Noon Rockers": {
+  "infoChk": "2026-11-14",
+  "noImg": "2026-11-14",
+  "noLinks": "2026-11-14"
+ },
+ "Patches": {
+  "infoChk": "2026-11-14",
+  "noImg": "2026-11-14",
+  "noLinks": "2026-11-14"
+ },
+ "Luv Affair on Air": {
+  "infoChk": "2026-11-14",
+  "noImg": "2026-11-14",
+  "noLinks": "2026-11-14"
+ },
+ "DJ Hill's Sunday": {
+  "infoChk": "2026-11-14",
+  "noImg": "2026-11-14",
+  "noLinks": "2026-11-14"
  }
 };
 
