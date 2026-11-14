@@ -23,6 +23,7 @@ const LOGOBOX={
 "https://schoenborngasse.vbs.ac.at/wp-content/uploads/sites/14/2022/11/ottakringer-brauerei-logo-768x768.jpg":[768,768,0,0,768,768,"#b09000"],
 "https://static.ra.co/images/clubs/kramladen.jpeg?dateUpdated=1716563846587":[500,500,31,48,466,459,"#000000"],
 "https://static.ra.co/images/labels/pirotecnia.jpg?dateUpdated=1645610083473":[1440,1440,239,401,1207,1039,"#000000"],
+"https://static.ra.co/images/labels/xperimentrecords.jpg?dateUpdated=1743628603820":[1440,1440,0,0,1440,1440,"#ffffff"],
 "https://theinnercircle.at/circlelogo.svg":[365,357,0,0,365,357,"#000000"],
 "https://ugc.production.linktr.ee/56ada16d-b647-4532-93c3-350fbac3c672_sorry-mom-logo-1080x1080-sw-kreis.png":[600,600,23,33,569,579,"#ffffff"],
 "https://ugc.production.linktr.ee/c93e2304-592a-41c3-80c5-fd1e533ca7e4_VS-LOGO-4000-centered-b.png?io=true&size=avatar-v3_0":[400,400,34,74,327,360,"#000000"],
