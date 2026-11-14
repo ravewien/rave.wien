@@ -25,4 +25,25 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-07-fuelized-3-year-anniversary-w-minor-forms-chrome@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T220000
+DTEND;TZID=Europe/Vienna:20261108T060000
+SUMMARY:Fuelized 3 Year Anniversary w/ Minor Forms & Chrome
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Minor Forms\, Chrome\, AudioDevice\, ICY.DJ\, Incognito\, M4Y
+ B3\, Shaxoron\, Snowtek\nVeranstalter: Fuelized\nEintritt: 15 € (AK)\n
+ \nFuelized feiert drei Jahre Partys im Club Lucia\, die in Wien minimale
+ n\, deepen und souligen Drum & Bass pushen. Headliner sind zwei britisch
+ e Underground-Größen: Minor Forms (Releases auf Sofa Sound\, Flexout A
+ udio und V Recordings) und Chrome (Yamatai\, Mustard). Local Support kom
+ mt von AudioDevice (Contrast)\, ICY.DJ\, Incognito\, M4YB3\, Shaxoron\, 
+ Snowtek und dem Gewinner bzw. der Gewinnerin des Fuelized-Mix-Contests. 
+ 22:00–06:00\, Abendkasse 15 €\, Tickets über Eventfrog\; ab 18.\n\n
+ https://rave.wien/e/2026-11-07-fuelized-3-year-anniversary-w-minor-forms
+ -chrome
+URL:https://rave.wien/e/2026-11-07-fuelized-3-year-anniversary-w-minor-fo
+ rms-chrome
+END:VEVENT
 END:VCALENDAR

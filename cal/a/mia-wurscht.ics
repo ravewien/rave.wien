@@ -25,4 +25,21 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-06-5-org@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T233000
+DTEND;TZID=Europe/Vienna:20261107T050000
+SUMMARY:5. Org
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:SandimSchuh\, Mia Wurscht\, Jana Passt\, LustMusik\, LinsenJo
+ e\nVeranstalter: LustMusik\, Vitamin.BPM\nEintritt: Freie Spende\n\nFün
+ fte Ausgabe der Reihe „Org“ im Loop am Gürtel\, laut Loop präsenti
+ ert von Vitamin.BPM und als Techno-Nacht angekündigt. Timetable laut Lo
+ op: SandimSchuh ab 23:30\, Mia Wurscht ab 01:00\, Jana Passt ab 02:00\, 
+ LustMusik ab 03:00 und LinsenJoe ab 04:00\; in der Beschreibung wird zus
+ ätzlich J95.WTF genannt. 23:30–05:00\, Eintritt gegen freie Spende (R
+ A: 0)\, laut RA ab 18.\n\nhttps://rave.wien/e/2026-11-06-5-org
+URL:https://rave.wien/e/2026-11-06-5-org
+END:VEVENT
 END:VCALENDAR

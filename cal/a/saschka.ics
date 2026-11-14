@@ -25,4 +25,48 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-31-halloqueer@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T220000
+DTEND;TZID=Europe/Vienna:20261101T060000
+SUMMARY:Halloqueer
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Ben Leander\, 2bihonest\, Sarah Dæwie\, Jade Anima\, saschka
+ \nVeranstalter: Ravenbogen\nEintritt: Spende\, Richtwert 10 €\n\nDas q
+ ueere Kollektiv Ravenbogen kommt aus Graz nach Wien und bringt zu Hallow
+ een queeren House und Techno ins Celeste. Motto ist eine magisch-düster
+ e Hexen-Energie\; Kostüme sind willkommen\, vor Ort gibt es eine kosten
+ lose Glitzerstation. Es spielen Ben Leander\, 2bihonest\, Sarah Dæwie\,
+  Jade Anima und saschka. Eintritt auf Spendenbasis mit Richtwert 10 €\
+ , für Menschen mit wenig Einkommen gratis.\n\nhttps://rave.wien/e/2026-
+ 10-31-halloqueer
+URL:https://rave.wien/e/2026-10-31-halloqueer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-served-invites-harmony-rec-hereandthere@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T230000
+DTEND;TZID=Europe/Vienna:20261108T060000
+SUMMARY:served invites Harmony Rec. × hereandthere
+DESCRIPTION:anxxxious_t\, Ayū\, Georgia Bird\, Melimeko\, Menal Batti\, 
+ Pink Concrete\, Yan\, saschka\nVeranstalter: served\, Harmony Rec.\, her
+ eandthere\nEintritt: €15–20 (Abendkasse\, nur bar)\n\nDie dritte Aus
+ gabe von served kehrt zu ihrem ursprünglichen Spirit zurück – erstma
+ ls auf zwei Floors und mit dem bisher größten Lineup. Zu Gast sind die
+  Prager Crews Harmony Rec. und hereandthere\, dazu Wiener Artists: anxxx
+ ious_t\, Ayū (live)\, Georgia Bird\, Melimeko\, Menal Batti (House-Set)
+ \, Pink Concrete b2b Secret Guest und Yan b2b saschka. Im Mittelpunkt st
+ ehen persönliche Musik und ein Raum zum Abtauchen\; die Party ist von u
+ nd für queere Menschen und ihre Allies\, die Tanzflächen sind zum Tanz
+ en da. Vorab-Registrierung über ein Formular im served-Telegram-Kanal (
+ via Instagram @serve.ddd)\, Selektion an der Tür\, Hausregeln vorab auf
+  Instagram lesen. Secret Location\, 23:00–06:00\, 15–20 € nur bar 
+ an der Abendkasse\, ab 18. Laut RA neu im Lineup: Ayū (live)\, Menal Ba
+ tti (House-Set)\, Pink Concrete b2b Secret Guest sowie Yan b2b saschka\;
+  die Location bleibt geheim (Registrierung über Telegram via Instagram 
+ @serve.ddd\, Türselektion).\n\nhttps://rave.wien/e/2026-11-07-served-in
+ vites-harmony-rec-hereandthere
+URL:https://rave.wien/e/2026-11-07-served-invites-harmony-rec-hereandthere
+END:VEVENT
 END:VCALENDAR

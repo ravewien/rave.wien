@@ -25,4 +25,23 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-06-spectral-with-dual-drive-se@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T233000
+DTEND;TZID=Europe/Vienna:20261107T060000
+SUMMARY:Spectral with Dual Drive (SE)
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Dual Drive\, Alena Noctis\, Patrik Pagan\, Relinquo\nVeransta
+ lter: Spectral\nEintritt frei\n\nDie Reihe Spectral holt das schwedische
+  DJ-Duo Dual Drive in den Kramladen. Die beiden spielen seit über vier 
+ Jahren zusammen\, betreiben die Eventreihe Demand und standen schon mit 
+ Lilly Palmer\, Bart Skils und Thomas Schumacher auf der Bühne. Unterst
+ ützt werden sie von den Spectral-Residents Alena Noctis\, Patrik Pagan 
+ und Relinquo\, die mit Acid\, melodischem und treibendem Techno bis in d
+ en Morgen spielen. Beginn 23:30\, Ende 06:00\, Eintritt frei\, ab 18.\n\
+ nhttps://rave.wien/e/2026-11-06-spectral-with-dual-drive-se
+URL:https://rave.wien/e/2026-11-06-spectral-with-dual-drive-se
+END:VEVENT
 END:VCALENDAR

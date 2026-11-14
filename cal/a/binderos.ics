@@ -25,4 +25,30 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-06-cafe-mondo-invites-mama-demba@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T220000
+DTEND;TZID=Europe/Vienna:20261107T060000
+SUMMARY:Café Mondo invites Mama Demba
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Mama Demba\, rambazambra\, binderos\, sophaya aka drahra\, oo
+ ku.\, unselm\, paul heimlich\nVeranstalter: Café Mondo\nEintritt: 12 
+ €\n\nNach einem ruhigen Sommer meldet sich die Wiener Crew Café Mondo
+  mit einer Nacht im Funkhaus zurück\, angekündigt mit immersivem Sound
+ system. Zu Gast ist erstmals in Wien Mama Demba (CV/PT)\, ein in Lissabo
+ n lebender DJ aus Kap Verde\, der als Archäologe lusophoner Musik gilt 
+ und eine der besten Sammlungen afrikanischer Platten besitzen soll. Er s
+ pielt Sounds aus Kap Verde\, Angola\, Guinea-Bissau\, São Tomé und Pr
+ íncipe sowie den Westindischen Inseln und ist mit Tabanka Records\, dem
+  Badju D Terra Sound System Collective und der Mindel Reggae Family verb
+ unden. RA nennt Disco und Afrobeat\, 22:00–06:00\, 12 € (Early-Bird-
+ Vorverkauf über KUPFticket). Keine Toleranz für Rassismus und Hass –
+  wer sich unwohl fühlt\, wendet sich an Personal\, Bar oder Security. L
+ aut RA spielen neben Mama Demba (DJ-Set) auch rambazambra\, binderos\, s
+ ophaya aka drahra\, ooku.\, unselm und paul heimlich\; Tickets (Early Bi
+ rd) gibt es über KUPFticket.\n\nhttps://rave.wien/e/2026-11-06-cafe-mon
+ do-invites-mama-demba
+URL:https://rave.wien/e/2026-11-06-cafe-mondo-invites-mama-demba
+END:VEVENT
 END:VCALENDAR

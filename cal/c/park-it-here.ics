@@ -25,4 +25,22 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-07-park-it-here-pres-lamsi-uk@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T230000
+DTEND;TZID=Europe/Vienna:20261108T060000
+SUMMARY:Park It Here pres. Lamsi (UK)
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Lamsi\, Cherches\, Keeo.fm\, Cobra\, El Tony Mate\nVeranstalt
+ er: Park It Here\nEintritt: ab 9 €\n\nDie Wiener UK-Sound-Reihe Park I
+ t Here kehrt ins PRST zurück\, Special Guest ist Lamsi aus Großbritann
+ ien. Dazu spielen Cherches\, Keeo.fm und Cobra\, als Support ist El Tony
+  Mate angekündigt. Musikalisch reicht der Abend laut Ankündigung von U
+ K Garage über Dubstep\, Bass Music\, Electro und Breaks bis Drum & Bass
+ . Beginn 23:00\, Tickets ab 9 € über tickethead\; Ende (Freytag-Über
+ sicht: 06:00)\, Mindestalter und Flyer sind auf der Eventseite nicht ang
+ egeben.\n\nhttps://rave.wien/e/2026-11-07-park-it-here-pres-lamsi-uk
+URL:https://rave.wien/e/2026-11-07-park-it-here-pres-lamsi-uk
+END:VEVENT
 END:VCALENDAR

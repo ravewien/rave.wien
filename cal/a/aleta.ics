@@ -61,4 +61,25 @@ DESCRIPTION:Aleta\, ARAS JE'TÄM\, Krawallbarbie\, OK CUTEE\, Wal_Halla\,
  -kunst-kusst-techno
 URL:https://rave.wien/e/2026-11-21-art-attech-kunst-kusst-techno
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-step-forward-pres-shoki@rave.wien
+DTSTAMP:20261030T000000Z
+DTSTART;TZID=Europe/Vienna:20261030T230000
+DTEND;TZID=Europe/Vienna:20261031T060000
+SUMMARY:Step Forward pres. Shoki
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:SHOKI287\, pengg\, Anna Ullrich\, DizzyDray\, Paul Mile\, Van
+ essa Sa\, Casanoah\, Aleta\nVeranstalter: Step Forward\, Soundlabs\nEint
+ ritt: ab 16 €\n\nStep Forward holt SHOKI287 in die Grelle Forelle: Sie
+  spielt laut und unbekümmert schnellen Techno mit Trance-Passagen und g
+ elegentlich treibenden Remixen ihrer eigenen Rap-Releases – mit vielen
+  flexiblen Wechseln\, verspielt und mit direkter Underground-Haltung\, o
+ hne Pausen. Auf dem Main Floor ergänzen die Wiener DJs Anna Ullrich und
+  pengg (Prod by Pengg). Den Kitchen Floor gestaltet das Kollektiv Soundl
+ abs mit DizzyDray\, Paul Mile\, Vanessa Sa\, Casanoah und Aleta. Einlass
+  ab 23:00\; der Vorverkauf über Tickettailor ist ausverkauft\, Tickets 
+ gibt es an der Abendkasse.\n\nhttps://rave.wien/e/2026-10-30-step-forwar
+ d-pres-shoki
+URL:https://rave.wien/e/2026-10-30-step-forward-pres-shoki
+END:VEVENT
 END:VCALENDAR

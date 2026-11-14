@@ -25,4 +25,45 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-31-pink-mayhem-hardtechno-halloween@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T230000
+DTEND;TZID=Europe/Vienna:20261101T060000
+SUMMARY:Pink Mayhem – Hardtechno Halloween
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Pinklotion\, Kristus\, Bludhound\, Gopnikbarbie\, Meltdown\, 
+ Hello Kiffy\nVeranstalter: Pink Mayhem\nEintritt: 5 € vor 0 Uhr / 10 
+ € danach (nur AK)\n\nPink Mayhem lädt zum dritten Hardtechno-Hallowee
+ n-Special aufs FLUCC Deck – laut\, hart und sehr verschwitzt. Zum Auft
+ akt spielen Pinklotion b2b Kristus (23–01 Uhr)\, danach Bludhound b2b 
+ Gopnikbarbie (01–03 Uhr)\, Meltdown (03–04:30 Uhr) und zum Closing H
+ ello Kiffy (04:30–06 Uhr). Kostüme sind erwünscht. Tickets nur an de
+ r Abendkasse\, first come\, first served: 5 € vor Mitternacht\, danach
+  10 €. Das Awareness-Team erkennt man an Lichterketten.\n\nhttps://rav
+ e.wien/e/2026-10-31-pink-mayhem-hardtechno-halloween
+URL:https://rave.wien/e/2026-10-31-pink-mayhem-hardtechno-halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-entropy@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T233000
+DTEND;TZID=Europe/Vienna:20261108T050000
+SUMMARY:ENTROPY
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:Jubin Kim Amiri\, Dorian\, QuotenDJ\, Gopnikbarbie\, BoyToyBe
+ ats\, Kandy\, Collective Entropy\nVeranstalter: Entropy\nEintritt: Freie
+  Spende\n\nErste offizielle Party von Entropy\, einem neu gegründeten K
+ ulturverein (Instagram: Collective Entropy)\, im Loop am Gürtel. Der Ve
+ rein will Artists unterstützen\, Vernetzung ermöglichen und Raum für 
+ neue Ideen schaffen. Musikalisch geht es laut Loop um Hardgroove\, Hard 
+ Dance\, Hardbounce und Hard Techno. Es spielen Gründungsmitglieder und 
+ befreundete Artists\, die nicht Teil des Vereins sind: Jubin Kim Amiri\,
+  Dorian\, QuotenDJ\, Gopnikbarbie\, BoyToyBeats und Kandy\, dazu das Col
+ lective Entropy selbst\; Set-Zeiten sind nicht angegeben. 23:30–05:00\
+ , Eintritt gegen freie Spende. Zusätzlich ist Collective Entropy im Lin
+ eup\; es ist das erste offizielle Event des Kulturprojekts Entropy im Lo
+ op.\n\nhttps://rave.wien/e/2026-11-07-entropy
+URL:https://rave.wien/e/2026-11-07-entropy
+END:VEVENT
 END:VCALENDAR

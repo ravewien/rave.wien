@@ -25,4 +25,21 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-08-morgengymnastik@rave.wien
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Vienna:20261108T060000
+DTEND;TZID=Europe/Vienna:20261108T110000
+SUMMARY:Morgengymnastik
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Thomas Grün\, Ulfersson\nEintritt: 15 €\n\nDie Sonntags-Af
+ terhour Morgengymnastik im SASS (06:00–11:00) steht diesmal unter dem 
+ Motto „Making House Great Again“: Zwei befreundete DJs spielen Vinyl
+ -Sets\, um den Sonntag in Gang zu bringen. Thomas Grün\, bekannt aus de
+ m Club Pompadour\, kehrt nach einer kreativen Pause hinter die Decks zur
+ ück. Ulfersson betreibt Vibrant.vie und ist eine feste Größe der Wien
+ er House-Szene. Eintritt 15 €\, ab 18 mit Ausweiskontrolle\, Awareness
+ -Team vor Ort.\n\nhttps://rave.wien/e/2026-11-08-morgengymnastik
+URL:https://rave.wien/e/2026-11-08-morgengymnastik
+END:VEVENT
 END:VCALENDAR

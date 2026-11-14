@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-06-up-or-with-nexus-live-k-means-sami-dj-fred-zey@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T210000
+DTEND;TZID=Europe/Vienna:20261107T043000
+SUMMARY:up/or with NEXUS (live)\, k means\, SAMI\, DJ Fred & zey
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:NEXUS\, k means\, SAMI\, DJ Fred\, zey\nVeranstalter: Bestand
+ \, up/or\nEintritt: VVK 11 € · AK 14 €\n\nup/or – slowenisch für
+  „Widerstand“ – ist eine Reihe zwischen politischer Artikulation\,
+  klanglichem Experiment und Clubmusik\, präsentiert von Bestand auf dem
+  FLUCC Deck (21:00–04:30). Live spielt NEXUS\, das Duo aus B4mba und M
+ ooki6\, das das Erbe seiner Herkunft mit Metal\, Punk\, Dubstep\, Trap u
+ nd experimenteller Clubelektronik verbindet. k means aus Bristol pendelt
+  zwischen Club-Rush und experimentellen\, dunklen\, kakophonen Sounds\; 
+ SAMI\, Producerin und DJ aus Berlin\, spielt bassige\, genrefluide Sets 
+ mit Grime\, 140er-Dubstep\, Bass und Rap. DJ Fred bringt Breaks\, die Wi
+ ener DJ\, Sounddesignerin und Veranstalterin zey verbindet verschiedene 
+ Traditionen Schwarzer zeitgenössischer Musik. VVK 11 €\, AK 14 €\, 
+ ermäßigte Tickets online.\n\nhttps://rave.wien/e/2026-11-06-up-or-with
+ -nexus-live-k-means-sami-dj-fred-zey
+URL:https://rave.wien/e/2026-11-06-up-or-with-nexus-live-k-means-sami-dj-
+ fred-zey
+END:VEVENT
 END:VCALENDAR

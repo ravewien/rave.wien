@@ -25,4 +25,25 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-07-pomelo-plaza-3-presented-by-little-beat-more@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T210000
+DTEND;TZID=Europe/Vienna:20261108T040000
+SUMMARY:Pomelo Plaza #3 presented by Little Beat More
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:D.b.h\, Urlaub in Jazzolo\, Café Mondo\nVeranstalter: Little
+  Beat More\nEintritt: 10 € (nur Abendkasse\, bar)\n\nLittle Beat More 
+ lädt zur dritten Pomelo Plaza auf das FLUCC Deck – ein herbstlicher P
+ omelo-Abend mit funky Grooves\, Feel-Good-Rhythmen und Disco-Sounds\, au
+ sschließlich von Vinyl. Es spielen Little Beat More feat. D.b.h sowie d
+ ie Vinyl-Selectors Urlaub in Jazzolo und Café Mondo. Beginn 21:00\; das
+  Programm nennt 04:00 als Ende\, der Beschreibungstext 06:00. Eintritt 1
+ 0 € die ganze Nacht\, nur Abendkasse und nur bar. Null Toleranz für R
+ assismus und Hass – wer sich unwohl fühlt\, kann sich an Bar oder Sec
+ urity wenden.\n\nhttps://rave.wien/e/2026-11-07-pomelo-plaza-3-presented
+ -by-little-beat-more
+URL:https://rave.wien/e/2026-11-07-pomelo-plaza-3-presented-by-little-bea
+ t-more
+END:VEVENT
 END:VCALENDAR

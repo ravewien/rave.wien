@@ -45,4 +45,25 @@ DESCRIPTION:Paralich\, THIRD 2HIFT\, Valenthin\, DJ Wifi\, LUZZT\nVeranst
 URL:https://rave.wien/e/2026-11-28-dead-end-showcase-with-paralich-pres-b
  y-gdn
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-gdn-klubnacht-w-tham@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T230000
+DTEND;TZID=Europe/Vienna:20261107T040000
+SUMMARY:GDN Klubnacht w/ Tham
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:THAM\, Anatol\, Hello Kiffy\, High on Melancholia\, Kristus\,
+  LavendL\, MATIVIO\nVeranstalter: GDN\nEintritt: ab 12 €\n\nDie nächs
+ te GDN Klubnacht im Werk: Die Berliner Künstlerin THAM übernimmt den M
+ ainfloor mit groovigem Techno. Den Rest der Nacht bestreiten GDN-Residen
+ ts und Freund*innen des Kollektivs – ANATOL\, Hello Kiffy\, High on Me
+ lancholia\, KRISTUS\, LavendL und MATIVIO – mit Techno\, Hardgroove\, 
+ Schranz und Hardbounce. Ein geschultes Awareness-Team ist vor Ort (rote 
+ oder blaue Leuchtbänder am Arm\, rot mit zusätzlicher medizinischer Au
+ sbildung). Strikte No-Photo-Policy: Handykameras werden abgeklebt\, eine
+  Fotobox steht bereit\; kein Platz für Homo- und Transphobie\, Rassismu
+ s und Sexismus. Tickets ab 12 € über Eventim Light.\n\nhttps://rave.w
+ ien/e/2026-11-06-gdn-klubnacht-w-tham
+URL:https://rave.wien/e/2026-11-06-gdn-klubnacht-w-tham
+END:VEVENT
 END:VCALENDAR

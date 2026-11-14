@@ -181,4 +181,50 @@ DESCRIPTION:Veranstalter: hausgemacht\n\nSave the Date. Details über den
  /2026-12-19-zusammenkommen-16
 URL:https://rave.wien/e/2026-12-19-zusammenkommen-16
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-kranke-welt-halloween-kick-off@rave.wien
+DTSTAMP:20261030T000000Z
+DTSTART;TZID=Europe/Vienna:20261030T223000
+DTEND;TZID=Europe/Vienna:20261031T050000
+SUMMARY:Kranke Welt: Halloween Kick Off
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Aschenbrenner\, Lorenzo Raganzini\, Neon Graveyard\, Stratera
+ \nEintritt: 21 € (Final Phase) / Early Bird 12 €\n\nKranke Welt erö
+ ffnet das Halloween-Wochenende am Vorabend im Club Exil in Vösendorf\, 
+ knapp außerhalb Wiens: dunkle Sounds und hohe Energie\, von treibendem\
+ , groovigem Techno bis zu kompromisslos hartem Schranz. Headliner sind L
+ orenzo Raganzini und Neon Graveyard (u. a. bekannt für 12-Stunden-Schra
+ nz-Sets im Gotec Club)\, dazu spielen der Wiener Aschenbrenner und Strat
+ era. Kein Dresscode\, Kostüme sind willkommen\; auf dem Dancefloor gilt
+  No-Filming. Early-Bird-Tickets (12 €) waren limitiert\, aktuell 21 
+ € in der Final Phase.\n\nhttps://rave.wien/e/2026-10-30-kranke-welt-ha
+ lloween-kick-off
+URL:https://rave.wien/e/2026-10-30-kranke-welt-halloween-kick-off
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-biosphere-the-techno-spirit-of-1997@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T220000
+DTEND;TZID=Europe/Vienna:20261107T060000
+SUMMARY:Biosphere – The Techno Spirit of 1997
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Sam Paganini\, The Advent\, Joro & Joabo\, Elex Red\, Tolaris
+ \, MC Mars\, MC Spot\, Anna Ullrich\, MARØ\, Who is Ela¿\, DORAH\, DJ 
+ SDRICCI\, Marilou\, Raphael Warg\, LĪVA\nVeranstalter: Fluffig\nEintrit
+ t: ab 33 € (Zündung 1 ausverkauft)\n\nBIOSPHERE – The Techno Spirit
+  of 1997 lässt den Geist der Wiener Rave-Szene der 90er wieder aufleben
+ : „90s Acid Techno meets Cosmic Rave“\, 8 Stunden auf 3 Floors im Cl
+ ub Exil in Vösendorf (22:00–06:00\, ab 20). Auf dem Bridge Floor spie
+ len der Italiener Sam Paganini (Treviso\; bekannt für „Zoe“ und „
+ Rave“\, Releases auf Drumcode) und The Advent (London\, Raw Techno/Ele
+ ctro)\, dazu Joro & Joabo\, Elex Red und Tolaris sowie live die MCs MC M
+ ars und MC Spot. Den Maschinenraum gestaltet Fluffig mit Anna Ullrich (T
+ echno\, Bounce\, Trance)\, MARØ\, WHO IS ELA¿ und DORAH (Hard Bounce\,
+  Hard Techno). Im Cyberspace Artist Lab (in Kooperation mit Dancemalschu
+ tz) stehen Mentor DJ SDRICCI und ausgewählte Newcomer wie Marilou (Thes
+ saloniki)\, LĪVA und Raphael Warg. Erste Ticketstufe (33 €) ausverkau
+ ft\, Tickets über StageDates.\n\nhttps://rave.wien/e/2026-11-06-biosphe
+ re-the-techno-spirit-of-1997
+URL:https://rave.wien/e/2026-11-06-biosphere-the-techno-spirit-of-1997
+END:VEVENT
 END:VCALENDAR

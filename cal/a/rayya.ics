@@ -25,4 +25,22 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-07-traveling-without-moving@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T220000
+DTEND;TZID=Europe/Vienna:20261108T060000
+SUMMARY:traveling without moving
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Felix Rupprecht\, Pancratio\, Rayya\nVeranstalter: created-on
+ -earth\n\n„traveling without moving“ von created-on-earth meint\, si
+ ch durch Sound\, Rhythmus und Atmosphäre wegtragen zu lassen\, ohne die
+  Tanzfläche zu verlassen: Statt Ticket\, Pass und Koffer gibt es vielf
+ ältige Musik – trotz des Namens wird viel getanzt. Die Reise führt l
+ aut Beschreibung im Lauf der Nacht etwa nach Detroit und Rio. Es spielen
+  Felix Rupprecht\, Pancratio und Rayya\; RA taggt den Abend mit House. 2
+ 2:00–06:00 im Funkhaus\, ab 18.\n\nhttps://rave.wien/e/2026-11-07-trav
+ eling-without-moving
+URL:https://rave.wien/e/2026-11-07-traveling-without-moving
+END:VEVENT
 END:VCALENDAR

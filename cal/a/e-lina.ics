@@ -25,4 +25,24 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-06-blur-with-e-lina@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T230000
+DTEND;TZID=Europe/Vienna:20261107T060000
+SUMMARY:BLUR with E.LINA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:E.LINA\, Chris Freud\, David Radi\, Matthias Kaiser\nVeransta
+ lter: Kollektiv Ost:West\nEintritt: online 12–20 €\, AK 16 € vor 0
+  Uhr / 20 € danach\n\nBLUR ist eine House-Nacht von Kollektiv Ost:West
+  im PRST (23:00–06:00). Headlinerin ist E.LINA\, eine ukrainische\, in
+  Berlin lebende Künstlerin mit Wurzeln in Hip-Hop und elektronischer Mu
+ sik\, bekannt für tiefe Basslines und rhythmische Melodien\; gespielt h
+ at sie u. a. im CDV\, in der Panorama Bar\, im Amnesia sowie bei Dimensi
+ ons und Fusion. Dazu spielen die KO:W-Residents Chris Freud\, David Radi
+  und Matthias Kaiser. Online 12–20 €\, Abendkasse 16 € vor Mittern
+ acht\, 20 € danach\; ab 18.\n\nhttps://rave.wien/e/2026-11-06-blur-wit
+ h-e-lina
+URL:https://rave.wien/e/2026-11-06-blur-with-e-lina
+END:VEVENT
 END:VCALENDAR

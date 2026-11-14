@@ -39,4 +39,29 @@ DESCRIPTION:Stipo\, Station Rose\, Konman\, Julia Goldfarb\nVeranstalter:
  https://rave.wien/e/2026-11-27-party-modern-prst-station-rose
 URL:https://rave.wien/e/2026-11-27-party-modern-prst-station-rose
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-party-modern-sch-cht@rave.wien
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Vienna:20261105T203000
+DTEND;TZID=Europe/Vienna:20261106T003000
+SUMMARY:Party Modern | SCH:CHT
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Kasho Chualan\, Parajekt\, THAO\nVeranstalter: sch:cht\, Wien
+  Modern\nEintritt: 12 € VVK (bis 4.11.) / 15 € AK\, 5 € mit Wien-M
+ odern-Festivalpass\n\nDas Kollektiv sch:cht lädt gemeinsam mit dem Fest
+ ival Wien Modern zur Party auf das FLUCC Deck (Einlass 20:30\, Beginn 21
+ :30\, Ende ca. 00:30). Den Auftakt macht Kasho Chualan\, kurdisch-kanadi
+ sche Pianistin\, Komponistin und Klangkünstlerin aus Wien\, mit Klavier
+  und Elektronik. Danach spielt Parajekt\, das Elektronik-Duo von Bernhar
+ d Hammer (E-Gitarre\, Elektronik) und Matija Schellander (Drum Machine\,
+  Sampler)\, das elektronische Beats mit Musique concrète und Noise verb
+ indet\; das Set umfasst rund 48 Minuten. Zum Abschluss legt laut aktuell
+ er FLUCC-Seite die Wiener DJ THAO auf\, die elektronische Clubmusik aus 
+ der ost- und südostasiatischen Diaspora erkundet (früher war an dieser
+  Stelle Eye F genannt). Kuratiert vom Kulturverein kunstl:cht\, koproduz
+ iert von Wien Modern\; 12 € VVK bis 4.11.\, 15 € an der Abendkasse\,
+  5 € mit Festivalpass.\n\nhttps://rave.wien/e/2026-11-05-party-modern-
+ sch-cht
+URL:https://rave.wien/e/2026-11-05-party-modern-sch-cht
+END:VEVENT
 END:VCALENDAR

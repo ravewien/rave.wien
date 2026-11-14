@@ -25,4 +25,23 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-07-kyau-albert-extended-set@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T170000
+DTEND;TZID=Europe/Vienna:20261107T230000
+SUMMARY:Kyau & Albert (Extended Set)
+LOCATION:U4\, Schönbrunner Straße 222-228\, 1120 Wien
+DESCRIPTION:Kyau & Albert\, Peter Illias\, CREEXX\, MJT & RPM\nVeranstalt
+ er: euphonic records\nEintritt: €19\n\nKyau & Albert spielen im U4 ein
+  3-stündiges Extended Set – laut U4 ihr erster Auftritt in Österreic
+ h. Das deutsche Duo gründete 1997 das Label Euphonic\, veröffentlicht 
+ seit 2004 auf Anjunabeats (London)\, spielte in über 80 Ländern und au
+ f großen Festivals und moderiert die wöchentliche Radioshow „Euphoni
+ c Sessions“ (Progressive House\, Melodic Techno\, Trance). Support kom
+ mt von Peter Illias\, CREEXX und MJT & RPM. Abend-Event von 17:00 bis 23
+ :00\, 19 €\, ab 18\; Tickets über RA.\n\nhttps://rave.wien/e/2026-11-
+ 07-kyau-albert-extended-set
+URL:https://rave.wien/e/2026-11-07-kyau-albert-extended-set
+END:VEVENT
 END:VCALENDAR

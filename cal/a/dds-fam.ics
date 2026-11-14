@@ -25,4 +25,20 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-06-clubbduzz@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T220000
+DTEND;TZID=Europe/Vienna:20261107T060000
+SUMMARY:Clubbduzz
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:ALT\, H∆NN∆\, Sentic Cycle\, Shaolinda\, DJ Kompact\, DDS
+  Fam\n\nClubnacht Clubbduzz im Celeste in Margareten\, von 22:00 bis 06:
+ 00. Laut Programm des Celeste spielen ALT (aka AbbyLeeTee)\, H∆NN∆\,
+  Sentic Cycle\, Shaolinda\, DJ Kompact und die DDS Fam als DJ-Crew. Die 
+ Reihe war bereits im November 2025 im Celeste zu Gast. Preis\, Genres un
+ d Flyer nennt das Celeste nicht.\n\nhttps://rave.wien/e/2026-11-06-clubb
+ duzz
+URL:https://rave.wien/e/2026-11-06-clubbduzz
+END:VEVENT
 END:VCALENDAR

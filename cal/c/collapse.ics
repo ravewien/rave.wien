@@ -44,4 +44,24 @@ DESCRIPTION:Ed Rush\, Waeys\, Wingz\, Inaya\, Scapula & Weazl\, Sinis\, M
  Club nicht.\n\nhttps://rave.wien/e/2026-11-14-the-hive
 URL:https://rave.wien/e/2026-11-14-the-hive
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-the-hive-x-collapse-face-off-halloween-special@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T230000
+DTEND;TZID=Europe/Vienna:20261101T040000
+SUMMARY:The Hive x Collapse – Face Off Halloween Special
+LOCATION:Flex\, Augartenbrücke 1\, 1010 Wien
+DESCRIPTION:Magnetude\, PRDK\, CED\, DNBREAK\, Scapula\, Weazl\, Sinis\, 
+ Lazaro\, Mayez\, Skeedz\, Rellux\, Distorted\nVeranstalter: The Hive\, C
+ ollapse\nEintritt: 9–15 € (VVK)\n\nFace Off: The Hive und Collapse l
+ aden zum Drum-&-Bass-Halloween-Special ins Flex\, bei dem alle Acts Face
+ -to-Face (F2F) spielen. Headliner sind Magnetude aus Großbritannien F2F
+  PRDK aus Tschechien. Als Local Support treten CED F2F DNBREAK\, Scapula
+  F2F Weazl\, Sinis F2F Lazaro\, Mayez F2F Skeedz und Rellux F2F Distorte
+ d an. Einlass 23 Uhr\; VVK Phase 1 9 €\, Phase 2 15 €\, Abendkasse n
+ och offen. Ein Ende nennt der Club nicht.\n\nhttps://rave.wien/e/2026-10
+ -31-the-hive-x-collapse-face-off-halloween-special
+URL:https://rave.wien/e/2026-10-31-the-hive-x-collapse-face-off-halloween
+ -special
+END:VEVENT
 END:VCALENDAR

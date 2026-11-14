@@ -25,4 +25,49 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-31-ksot-halloween-warehouse-rave@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T210000
+DTEND;TZID=Europe/Vienna:20261101T050000
+SUMMARY:KSOT – Halloween Warehouse Rave
+LOCATION:Ottakringer Brauerei\, Ottakringer Platz 1\, 1160 Wien
+DESCRIPTION:Veranstalter: KSOT\nEintritt: 50 € (Last Release) / Final C
+ all 55 €\, Late Entry ab 01:30 25 €\, ab 02:00 20 €\n\nKSOT („Ke
+ in Sonntag ohne Techno“) macht zu Halloween eine Ausnahme vom Sonntag 
+ und lädt zum Warehouse Rave in die Ottakringer Brauerei\, beworben als 
+ Wiens größte Halloween-Nacht\, mit House und Techno auf mehreren Floor
+ s. Ein Line-up ist nicht veröffentlicht. Kostüme sind erwünscht\; lei
+ cht brennbare Deko (Stroh\, Papier\, Karton) ist verboten\, eigene Speis
+ en und Getränke ebenso. Kein Wiedereinlass\, Kartenzahlung möglich\, f
+ rüh kommen empfohlen. Early Entry (35 €) ist vorbei\, aktuell Last Re
+ lease 50 € bzw. Final Call 55 €\, Late Entry ab 01:30 25 € und ab 
+ 02:00 20 €.\n\nhttps://rave.wien/e/2026-10-31-ksot-halloween-warehouse
+ -rave
+URL:https://rave.wien/e/2026-10-31-ksot-halloween-warehouse-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-bloody-masquerade-halloween-hofburg-vienna@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T200000
+DTEND;TZID=Europe/Vienna:20261101T030000
+SUMMARY:Bloody Masquerade – Halloween × Hofburg Vienna
+LOCATION:Hofburg Vienna\, Heldenplatz\, 1010 Wien
+DESCRIPTION:Veranstalter: KSOT\, YE\nEintritt: Phase 3 50 € / Last Rele
+ ase 60 € / Final Call 80 €\; Early Entry bis 20:15 20 €\, bis 20:3
+ 0 25 €\, bis 21:00 30 €\, bis 21:30 35 €\; Gruppenticket (3 bzw. 4
+  Pers.) 40 €\; VIP Stage Pass (Ballroom) 149 €\n\nHalloween-Maskenba
+ ll in der Hofburg am Heldenplatz als erste gemeinsame Veranstaltung von 
+ YE und KSOT („Kein Sonntag ohne Techno“)\, angekündigt als Auftakt 
+ einer Partnerschaft der beiden Marken. Versprochen werden elektronische 
+ Musik mit nationalen und internationalen DJs\, eine große Produktion un
+ d ein eigens entwickeltes Lichtkonzept\; Namen sind nicht veröffentlich
+ t. Es gibt einen Ballroom mit VIP-Stage auf dem Mainfloor (VIP-Pass inkl
+ . Fast-Lane-Einlass). Die Kapazität ist begrenzt\, frühes Kommen wird 
+ mit günstigeren Early-Entry-Tickets belohnt. Mindestalter und Dresscode
+  sind nicht angegeben.\n\nhttps://rave.wien/e/2026-10-31-bloody-masquera
+ de-halloween-hofburg-vienna
+URL:https://rave.wien/e/2026-10-31-bloody-masquerade-halloween-hofburg-vi
+ enna
+END:VEVENT
 END:VCALENDAR

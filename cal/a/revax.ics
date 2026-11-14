@@ -25,4 +25,19 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-30-drum-bass-am-wurstelstand@rave.wien
+DTSTAMP:20261030T000000Z
+DTSTART;TZID=Europe/Vienna:20261030T190000
+DTEND;TZID=Europe/Vienna:20261031T000000
+SUMMARY:Drum&Bass am Würstelstand
+LOCATION:Wiener Würstelstand Spittelau\, U-Bahn-Station Spittelau\, 1090
+  Wien
+DESCRIPTION:Martin_Van_Vienna\, Revax\nEintritt frei / free entry\n\nDrum
+  & Bass im Freien am Wiener Würstelstand bei der U4-Station Spittelau: 
+ Martin_Van_Vienna legt von 19:00 bis 21:30 auf\, danach Revax bis Mitter
+ nacht. Eintritt frei.\n\nhttps://rave.wien/e/2026-10-30-drum-bass-am-wur
+ stelstand
+URL:https://rave.wien/e/2026-10-30-drum-bass-am-wurstelstand
+END:VEVENT
 END:VCALENDAR

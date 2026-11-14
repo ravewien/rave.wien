@@ -25,4 +25,23 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-01-morgengymnastik-connecting-people@rave.wien
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Vienna:20261101T060000
+DTEND;TZID=Europe/Vienna:20261101T110000
+SUMMARY:Morgengymnastik × Connecting People
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Memet Acuma\, Leon Diamant\nVeranstalter: Connecting People\n
+ Eintritt: 15 €\n\nWenn draußen der Morgen anbricht\, beginnt im SASS 
+ der Sonntag: Connecting People übernimmt die Afterhour Morgengymnastik 
+ mit zwei DJs\, die schon unzählige Stunden gemeinsam hinter den Decks v
+ erbracht haben. Memet Acuma\, seit Langem eine feste Größe der österr
+ eichischen Szene\, bewegt sich zwischen House\, Techno\, gebrochenen Rhy
+ thmen und experimentellen Texturen. Sein eingespielter Partner Leon Diam
+ ant ergänzt ihn – gemeinsam verbinden sie tiefen\, federnden House mi
+ t scharfen Electro-Cuts. Bequeme Schuhe empfohlen\; Awareness-Team vor O
+ rt.\n\nhttps://rave.wien/e/2026-11-01-morgengymnastik-connecting-people
+URL:https://rave.wien/e/2026-11-01-morgengymnastik-connecting-people
+END:VEVENT
 END:VCALENDAR

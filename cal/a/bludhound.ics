@@ -25,4 +25,23 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-31-pink-mayhem-hardtechno-halloween@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T230000
+DTEND;TZID=Europe/Vienna:20261101T060000
+SUMMARY:Pink Mayhem – Hardtechno Halloween
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Pinklotion\, Kristus\, Bludhound\, Gopnikbarbie\, Meltdown\, 
+ Hello Kiffy\nVeranstalter: Pink Mayhem\nEintritt: 5 € vor 0 Uhr / 10 
+ € danach (nur AK)\n\nPink Mayhem lädt zum dritten Hardtechno-Hallowee
+ n-Special aufs FLUCC Deck – laut\, hart und sehr verschwitzt. Zum Auft
+ akt spielen Pinklotion b2b Kristus (23–01 Uhr)\, danach Bludhound b2b 
+ Gopnikbarbie (01–03 Uhr)\, Meltdown (03–04:30 Uhr) und zum Closing H
+ ello Kiffy (04:30–06 Uhr). Kostüme sind erwünscht. Tickets nur an de
+ r Abendkasse\, first come\, first served: 5 € vor Mitternacht\, danach
+  10 €. Das Awareness-Team erkennt man an Lichterketten.\n\nhttps://rav
+ e.wien/e/2026-10-31-pink-mayhem-hardtechno-halloween
+URL:https://rave.wien/e/2026-10-31-pink-mayhem-hardtechno-halloween
+END:VEVENT
 END:VCALENDAR

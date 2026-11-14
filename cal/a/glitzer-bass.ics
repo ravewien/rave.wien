@@ -25,4 +25,22 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-06-im-freudentaumel@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T230000
+DTEND;TZID=Europe/Vienna:20261107T060000
+SUMMARY:Im Freudentaumel
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Scheibosan\, Glitzer & Bass\, Nafaka & Lipo\, Kollektiv Shees
+ h\nVeranstalter: Im Freudentaumel\nEintritt: 10–15 €\n\nIm Freudenta
+ umel ist nach einem gelungenen Herbststart zurück im FLUCC (Kupf) mit v
+ erträumtem Techno „in unterschiedlichen Farben“ (23:00–06:00). Es
+  spielen Scheibosan\, Glitzer & Bass\, Nafaka & Lipo und Kollektiv Shees
+ h. Dazu gibt es eine Live-Lichtshow\, verspielte Missionen\, Gratis-Secc
+ o und verträumte Deko. Tickets 10–15 € über KUPFticket\, ein klein
+ es Early-Bird-Kontingent um ca. 10 €.\n\nhttps://rave.wien/e/2026-11-0
+ 6-im-freudentaumel
+URL:https://rave.wien/e/2026-11-06-im-freudentaumel
+END:VEVENT
 END:VCALENDAR

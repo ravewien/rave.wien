@@ -40,4 +40,26 @@ DESCRIPTION:Main Floor: Cosmic Gate\, Ruben de Ronde\, DJ Observer\nPsytr
 URL:https://rave.wien/e/2026-11-27-access-another-atmosphere-w-cosmic-gat
  e-ruben-de
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-classix-halloween-madness@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T220000
+DTEND;TZID=Europe/Vienna:20261101T050000
+SUMMARY:ClassiX – Halloween Madness
+LOCATION:M1 Club\, Schwarzenbergplatz 10\, 1040 Wien
+DESCRIPTION:DJ Observer\, Dennes Deen\, Tom Silver\, Sdricci\, Adelic\, D
+ uracell\nVeranstalter: ClassiX\nEintritt: VVK 12 € / AK 15 € (VVK in
+ kl. Styling Corner 20 €\; Tischpaket 4 Pers. 300 €\, VIP-Lounge 6 Pe
+ rs. 500 €)\n\nClassiX kehrt zu Halloween im M1 Club (ehemals Atrium) a
+ m Schwarzenbergplatz zurück – so\, wie viele die Reihe von früher ke
+ nnen: House-\, Techno- und Trance-Classics der 90er- und 2000er-Jahre au
+ f drei Floors mit sechs DJs. Es spielen DJ Observer (bekannt von der Lov
+ eparade)\, Dennes Deen und Tom Silver (beide Hypnotic)\, Sdricci (Biosph
+ ere) sowie Adelic und Duracell (beide Gasometer). Dazu Halloween-Deko\, 
+ eine Styling Corner von Tichy (eigenes Ticket bzw. Kombiticket 20 €) s
+ owie Tisch- und VIP-Pakete. Veranstalter ist Hypnotic Organizer\; VVK 12
+  €\, Abendkasse 15 €.\n\nhttps://rave.wien/e/2026-10-31-classix-hall
+ oween-madness
+URL:https://rave.wien/e/2026-10-31-classix-halloween-madness
+END:VEVENT
 END:VCALENDAR

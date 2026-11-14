@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-07-invitation@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T220000
+DTEND;TZID=Europe/Vienna:20261108T060000
+SUMMARY:Invitation
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Armin Schmelz\, Annie High\, ADHS Lene\, Marc Græbnør\n\nCl
+ ubnacht „Invitation ♡“ im Celeste von 22:00 bis 06:00. Laut Celest
+ e-Programm sind Armin Schmelz sowie die DJs Annie High\, ADHS Lene und M
+ arc Græbnør dabei. Preis\, Genres und Flyer sind auf der Seite des Cel
+ este nicht angegeben.\n\nhttps://rave.wien/e/2026-11-07-invitation
+URL:https://rave.wien/e/2026-11-07-invitation
+END:VEVENT
 END:VCALENDAR

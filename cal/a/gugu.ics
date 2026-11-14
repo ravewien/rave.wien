@@ -25,4 +25,21 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-06-sorry-mom-herbstrascheln@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T234500
+DTEND;TZID=Europe/Vienna:20261107T060000
+SUMMARY:Sorry Mom – herbstrascheln
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Gugu\, Hanneken\, PA_olo\, Romen Est Omen\nVeranstalter: Sorr
+ y Mom\nEintritt: 10 €\n\nSorry Mom lädt zum „herbstrascheln“ in d
+ en Club Lucia: eine warme\, bassige Herbstnacht mit melodischem\, progre
+ ssivem\, treibendem Techno und Psytech\, um die Sommerträgheit vor dem 
+ Winter abzuschütteln. Es spielen Gugu\, Hanneken\, PA_olo und Romen est
+  Omen. Beginn 23:45\, Ende 06:00\, Eintritt 10 €\, ab 18\; gespielt wi
+ rd über ein L-Acoustics-System.\n\nhttps://rave.wien/e/2026-11-06-sorry
+ -mom-herbstrascheln
+URL:https://rave.wien/e/2026-11-06-sorry-mom-herbstrascheln
+END:VEVENT
 END:VCALENDAR

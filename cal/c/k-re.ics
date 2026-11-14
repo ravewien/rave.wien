@@ -25,4 +25,25 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-31-k-re-halloween-rave-2026@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T220000
+DTEND;TZID=Europe/Vienna:20261101T040000
+SUMMARY:KØRE Halloween Rave 2026
+LOCATION:Lugner City\, Gablenzgasse 5\, 1150 Wien
+DESCRIPTION:Burr Oak\, OKO\, Zombie Cats\, Drum Dad & Bass Boy\, Kaama\, 
+ Didz\, Mina\, Puppy Devil\nVeranstalter: KØRE\nEintritt: ab €22\n\nK
+ ØRE übernimmt mit seinem ersten Event die Lugner City und verwandelt d
+ as Einkaufszentrum in eine Halloween-Drum-&-Bass-Nacht mit schweren Bäs
+ sen\, hoher Energie und internationalem Line-up in einer eigens gestalte
+ ten Atmosphäre – Ziel ist\, Drum & Bass an Orte zu bringen\, wo man i
+ hn nicht erwartet. Es spielen Burr Oak\, OKO\, Zombie Cats\, Drum Dad & 
+ Bass Boy\, Kaama\, Didz b2b Mina und Puppy Devil\, dazu ein noch nicht g
+ enannter Special Guest. Kostüme sind erwünscht\, Zahlung mit Karte ode
+ r bar. VVK ab 22 € (circl: 22\,77 €\, 1000things: 28 €)\; das Ende
+  um 04:00 nennt nur circl.\n\nhttps://rave.wien/e/2026-10-31-k-re-hallow
+ een-rave-2026
+URL:https://rave.wien/e/2026-10-31-k-re-halloween-rave-2026
+END:VEVENT
 END:VCALENDAR

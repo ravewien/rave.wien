@@ -25,4 +25,22 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-31-black-signal@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T233000
+DTEND;TZID=Europe/Vienna:20261101T050000
+SUMMARY:Black Signal
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:Techflex\, Mike Mystik\, Zuckerfrei\nVeranstalter: Dunkelton 
+ Kollektiv\nEintritt frei / freiwillige Spende\n\nBlack Signal ist zurüc
+ k: Das Dunkelton Kollektiv lädt erneut in den Club Loop zu einer Nacht 
+ mit rohem\, tiefem und hypnotischem Techno. Erwartet werden treibende Rh
+ ythmen\, dunkle Atmosphäre und kompromisslose Underground-Sounds – 
+ „No hype. No mainstream. Just Techno.“ Es spielen Techflex\, Mike My
+ stik und Zuckerfrei. Eintritt frei bzw. freiwillige Spende. RA nennt in 
+ der Kopfzeile 23:00 und als Preis 5\, der Text spricht von 23:30 und fre
+ iem Eintritt bzw. Spende.\n\nhttps://rave.wien/e/2026-10-31-black-signal
+URL:https://rave.wien/e/2026-10-31-black-signal
+END:VEVENT
 END:VCALENDAR

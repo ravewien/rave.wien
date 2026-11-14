@@ -25,4 +25,23 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-31-housetiere-w-chata@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T220000
+DTEND;TZID=Europe/Vienna:20261101T050000
+SUMMARY:Housetiere w/ Chata
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Chata\, Foxloe\, Julani\, Hanno\nVeranstalter: Housetiere\, E
+ ntrance\nEintritt: €10\n\nHousetiere lädt zum Halloween-Dance ins Tag
+ ada mit zwei Gästen und Warm-up. Chata stammt aus Georgien\, lebt in Pr
+ ag und gilt als aufstrebender Künstler mit dubbigen\, groovigen Basslin
+ es\; seine Sets bestehen aus sorgfältig ausgewählten Platten passend z
+ u seinen eigenen Produktionen. Support kommt von Foxloe vom Wiener Kolle
+ ktiv Entrance\, gebürtig aus Frankreich und fester Bestandteil der Wien
+ er House-Szene\, mit tiefem\, atmosphärischem Sound. Das Warm-up übern
+ ehmen Julani und Hanno. House und Dub Techno\, Eintritt 10 €\, 18+.\n\
+ nhttps://rave.wien/e/2026-10-31-housetiere-w-chata
+URL:https://rave.wien/e/2026-10-31-housetiere-w-chata
+END:VEVENT
 END:VCALENDAR

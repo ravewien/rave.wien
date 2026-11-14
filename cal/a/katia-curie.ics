@@ -25,4 +25,25 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-31-tasteless-3-yrs-anniversary-halloween-special@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T210000
+DTEND;TZID=Europe/Vienna:20261101T060000
+SUMMARY:Tasteless 3 Yrs Anniversary – Halloween Special
+LOCATION:Otto Wagner Areal\, Baumgartner Höhe 1\, 1140 Wien
+DESCRIPTION:dj sweet6teen\, Katia Curie\, COZi\, Nizar Sarakbi\, PATRIK H
+ OUR\, Luca\nVeranstalter: Tasteless\nEintritt: 15–45 €\n\nTasteless 
+ feiert sein dreijähriges Bestehen mit einer Halloween-Edition im Otto W
+ agner Areal (Eingang Baumgartner Höhe 1 – Küche). Das Kollektiv war 
+ dieses Jahr erstmals auch in Städten außerhalb Österreichs unterwegs.
+  Es spielen dj sweet6teen\, Katia Curie und Nizar Sarakbi (die beiden tr
+ eten u. a. gemeinsam auf\, etwa bei Refuge Worldwide und auf dem Lightho
+ use Festival)\, COZi\, PATRIK HOUR und Luca – House und Minimal von 21
+  bis 06 Uhr. Einlass ab 18 Jahren. Die Early-Bird-Stufe war laut RA fast
+  ausverkauft\; Preis 15–45 €\, circl nennt ab 14\,90 €.\n\nhttps:/
+ /rave.wien/e/2026-10-31-tasteless-3-yrs-anniversary-halloween-special
+URL:https://rave.wien/e/2026-10-31-tasteless-3-yrs-anniversary-halloween-
+ special
+END:VEVENT
 END:VCALENDAR

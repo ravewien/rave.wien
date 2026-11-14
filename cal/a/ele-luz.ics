@@ -25,4 +25,29 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-30-zusammenkommen-susses-oder-sauerei@rave.wien
+DTSTAMP:20261030T000000Z
+DTSTART;TZID=Europe/Vienna:20261030T210000
+DTEND;TZID=Europe/Vienna:20261031T060000
+SUMMARY:ZusammenKommen – Süßes oder Sauerei
+LOCATION:Ottakringer Brauerei\, Ottakringer Platz 1\, 1160 Wien
+DESCRIPTION:Max Kernmayer\, Konrad Kaltenböck\, Baby Blue\, Pau:sa\, lex
+ yz0 & DJ Lotto\, Frühwerk\, Delaine\, Ele Luz\, Saint A\, Ferdinand Sch
+ warz\, MA!A\nVeranstalter: hausgemacht\n\nHalloween-Edition der sexposit
+ iven Reihe ZusammenKommen von hausgemacht in der Ottakringer Brauerei: d
+ rei Etagen mit drei Bereichen – einer für Musik und Bewegung\, einer 
+ für Performances und intimere Momente (inkl. Darkrooms) und eine Ruhezo
+ ne. Techno gibt es auf zwei Floors: Am Hefeboden spielen u. a. Max Kernm
+ ayer b2b Konrad Kaltenböck\, Baby Blue\, Pau:sa\, lexyz0 & DJ Lotto und
+  Frühwerk\, in der Alten Technik Delaine\, Ele Luz\, Saint A\, Ferdinan
+ d Schwarz und MA!A. Dresscode „Trick or Treat“ (keine politischen St
+ atements\, keine Uniformen von Rettungsdiensten\, keine Leuchtaccessoire
+ s\; Umziehen vor Ort nicht möglich). Konsens steht im Mittelpunkt\, Han
+ dykameras werden abgeklebt\, das Awareness-Team trägt Lichterketten. Ti
+ ckets nur im Vorverkauf nach Bewerbung\, strenge Tür\, 18+ mit Lichtbil
+ dausweis\; ein Preis ist nicht veröffentlicht.\n\nhttps://rave.wien/e/2
+ 026-10-30-zusammenkommen-susses-oder-sauerei
+URL:https://rave.wien/e/2026-10-30-zusammenkommen-susses-oder-sauerei
+END:VEVENT
 END:VCALENDAR

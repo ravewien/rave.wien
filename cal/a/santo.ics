@@ -25,4 +25,24 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-06-soularium-w-santo@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T230000
+DTEND;TZID=Europe/Vienna:20261107T040000
+SUMMARY:Soularium w/ Santo
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Santo\nVeranstalter: Soularium\nEintritt: 12–15/17 €\n\nD
+ ie Reihe Soularium holt den schweizerisch-kapverdischen DJ und Producer 
+ Santo aus Lausanne in den oberen Floor („Oben“) des Loft. Santo gilt
+  als früher Vertreter der SoundCloud-Edit-Szene und ist für Baile-Funk
+ - und afro-elektronische Reworks bekannt\, die DJs weltweit spielen\; er
+  wurde von Skrillex und Jarreau Vandal supportet\, hat an Gold- und Plat
+ in-zertifizierten Produktionen mitgewirkt und das Label ZRO21 mitgegrün
+ det. Den Warm-up spielt laut Loft-Seite ein namentlich nicht genannter G
+ ast-DJ (Instagram @itsfrannnnn_). Beginn 23:00\, Eintritt 12–15/17 €
+ \; Endzeit nicht angegeben.\n\nhttps://rave.wien/e/2026-11-06-soularium-
+ w-santo
+URL:https://rave.wien/e/2026-11-06-soularium-w-santo
+END:VEVENT
 END:VCALENDAR

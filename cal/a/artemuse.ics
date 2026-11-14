@@ -25,4 +25,25 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-05-donnerstag-nacht@rave.wien
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Vienna:20261105T230000
+DTEND;TZID=Europe/Vienna:20261106T060000
+SUMMARY:Donnerstag Nacht
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Gilista\, Artemuse\, Michael Wagner\nEintritt: 10–15 € / 
+ Studierende 0–5 € (inkl. Welcome-Drink)\n\nDonnerstag Nacht im SASS 
+ (23:00–06:00) mit drei DJs. Gilista übernimmt das Warm-up und verbind
+ et 2000er-Vibes mit neueren Sounds – nostalgisch\, treibend\, groovy. 
+ Artemuse\, Wiener DJ und Veranstalterin mit Kärntner und griechischen W
+ urzeln\, legt seit 2015 auf\, spielt rollende Basslines\, eingängige Me
+ lodien und starke Vocals und betreibt seit 2025 die Reihe Jeez Louise\, 
+ um mehr FLINTA*-DJs zu buchen. Michael Wagner aus Klagenfurt spielt nost
+ algischen\, groovigen House der frühen 90er und 2000er mit Fokus auf we
+ niger bekannte Tracks. Eintritt 10–15 €\, Studierende 0–5 €\, je
+ weils inkl. Welcome-Drink\; ab 18 mit Ausweis-\, Taschen- und Sicherheit
+ skontrolle.\n\nhttps://rave.wien/e/2026-11-05-donnerstag-nacht
+URL:https://rave.wien/e/2026-11-05-donnerstag-nacht
+END:VEVENT
 END:VCALENDAR

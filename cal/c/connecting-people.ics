@@ -25,4 +25,44 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-31-connecting-people@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T230000
+DTEND;TZID=Europe/Vienna:20261101T050000
+SUMMARY:Connecting People
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Peradise\, Sweet Spot\, maximo\nVeranstalter: Connecting Peop
+ le\nEintritt: 10–15 €\n\nDie Reihe Connecting People kehrt mit House
+ -Grooves ins SASS zurück. Peradise\, aufgewachsen zwischen Jazz und Kla
+ ssik\, verbindet groovigen House\, minimalistische Beats und feine elekt
+ ronische Klangflächen. Sweet Spot ist das Projekt zweier Brüder aus de
+ m Wiener Underground (bekannt durch House of Wonders und Wien Ballett) 
+ – sugr sugr steht für die harte\, futuristische Seite\, Vanja für Vi
+ elseitigkeit. maximo\, Gründer von Kollektiv und Label Connecting Peopl
+ e\, half ab 2013 beim Aufbau der SASS-Afterhour (damals „Sunday Mornin
+ gs“) und spielt aktuell Electro\, Electroclash\, New Wave und Synth Po
+ p. Welcome Drink inklusive\, Awareness-Team vor Ort.\n\nhttps://rave.wie
+ n/e/2026-10-31-connecting-people
+URL:https://rave.wien/e/2026-10-31-connecting-people
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-01-morgengymnastik-connecting-people@rave.wien
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Vienna:20261101T060000
+DTEND;TZID=Europe/Vienna:20261101T110000
+SUMMARY:Morgengymnastik × Connecting People
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Memet Acuma\, Leon Diamant\nVeranstalter: Connecting People\n
+ Eintritt: 15 €\n\nWenn draußen der Morgen anbricht\, beginnt im SASS 
+ der Sonntag: Connecting People übernimmt die Afterhour Morgengymnastik 
+ mit zwei DJs\, die schon unzählige Stunden gemeinsam hinter den Decks v
+ erbracht haben. Memet Acuma\, seit Langem eine feste Größe der österr
+ eichischen Szene\, bewegt sich zwischen House\, Techno\, gebrochenen Rhy
+ thmen und experimentellen Texturen. Sein eingespielter Partner Leon Diam
+ ant ergänzt ihn – gemeinsam verbinden sie tiefen\, federnden House mi
+ t scharfen Electro-Cuts. Bequeme Schuhe empfohlen\; Awareness-Team vor O
+ rt.\n\nhttps://rave.wien/e/2026-11-01-morgengymnastik-connecting-people
+URL:https://rave.wien/e/2026-11-01-morgengymnastik-connecting-people
+END:VEVENT
 END:VCALENDAR

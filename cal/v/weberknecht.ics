@@ -70,4 +70,60 @@ DESCRIPTION:Veranstalter: Nasty Connexion\, Out of Space\n\nWeihnachtsaus
  t.\n\nhttps://rave.wien/e/2026-12-24-out-of-space-xmas-eve
 URL:https://rave.wien/e/2026-12-24-out-of-space-xmas-eve
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-mijk-van-dijk-live-joro-joabo-atomik@rave.wien
+DTSTAMP:20261030T000000Z
+DTSTART;TZID=Europe/Vienna:20261030T230000
+DTEND;TZID=Europe/Vienna:20261031T060000
+SUMMARY:Mijk van Dijk (live) // Joro & Joabo // Atomik
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Mijk van Dijk\, Joro & Joabo\, Norg3n\, Peter Pan\, JP eXbert
+ \nVeranstalter: Bassproduction\nEintritt: 15 € / Early Bird 10 €\n\n
+ Techno-Nacht im Weberknecht mit Mijk van Dijk als Live-Act: Der Berliner
+  Produzent war in den 90ern Resident in Tresor und E-Werk\, prägte die 
+ Loveparade mit und ist bekannt für Marmion („Schöneberg“\, mit Mar
+ cos López)\, die MFS-Compilation „Tranceformed From Beyond“ mit Cos
+ mic Baby und sein Solodebüt „Afreuropamericasiaustralica“. Er verö
+ ffentlichte bei Sony Music und Frogman Records in Japan\, arbeitete mit 
+ Takkyu Ishino und schrieb Soundtracks zu „Ghost in the Shell“ und 
+ „Ridge Racer V“\; aktuell ist er mit Floats bei „Rave the Planet
+ “ und dem Album „From XS to Eternity“ mit Tom Wax aktiv. Dazu spie
+ len Joro & Joabo\, Norg3n\, Peter Pan und JP eXbert. Early Bird 10 € (
+ limitiert)\, regulär 15 €.\n\nhttps://rave.wien/e/2026-10-30-mijk-van
+ -dijk-live-joro-joabo-atomik
+URL:https://rave.wien/e/2026-10-30-mijk-van-dijk-live-joro-joabo-atomik
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-out-of-space@rave.wien
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Vienna:20261105T230000
+DTEND;TZID=Europe/Vienna:20261106T060000
+SUMMARY:OUT OF SPACE
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Arnab\, Nasty\, Liquidsound\, Spoonwalker\nVeranstalter: AIMm
+ anagemnt\nEintritt: 5 €\n\nWeltraum-Psytrance-Nacht im Weberknecht mit
+  treibenden Basslines und vier Acts. Arnab kommt aus dem Umfeld der Wien
+ er Psytrance-Crew Tribal Vibes\, Nasty (GR) ist mit Pixan Recordings ver
+ bunden\, Liquidsound (AT) mit Enterrec\, und Spoonwalker (CZ\, Psyna Fes
+ tival) spielt erstmals in Wien. Laut RA kostet der Eintritt 5 € (inklu
+ sive Shot)\; einen Online-Ticketverkauf gibt es nicht. Veranstaltet von 
+ AIMmanagemnt\, ab 18\, 23:00 bis 06:00.\n\nhttps://rave.wien/e/2026-11-0
+ 5-out-of-space
+URL:https://rave.wien/e/2026-11-05-out-of-space
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-out-of-space@rave.wien
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=Europe/Vienna:20261112T230000
+DTEND;TZID=Europe/Vienna:20261113T040000
+SUMMARY:OUT OF SPACE
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Veranstalter: Out of Space\n\nNeue Ausgabe der Donnerstagsrei
+ he OUT OF SPACE im Weberknecht\, Beginn 23 Uhr. Die Reihe steht für Psy
+ trance-/Goa-Nächte am Gürtel\; frühere Ausgaben kosteten 5 €. Line-
+ up\, Preis und Flyer dieser Ausgabe sind bisher nicht veröffentlicht 
+ – Techno Airlines verweist auf ein RA-Event.\n\nhttps://rave.wien/e/20
+ 26-11-12-out-of-space
+URL:https://rave.wien/e/2026-11-12-out-of-space
+END:VEVENT
 END:VCALENDAR

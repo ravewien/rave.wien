@@ -64,4 +64,24 @@ DESCRIPTION:Eintritt: €29\n\nAuf ungeniert.org ist Vol. 5 noch nicht an
  ave.wien/e/2026-12-05-ungeniert-vol-5
 URL:https://rave.wien/e/2026-12-05-ungeniert-vol-5
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-sxxplicit-pop-up-club@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T180000
+DTEND;TZID=Europe/Vienna:20261108T000000
+SUMMARY:SXXPLICIT Pop-up Club
+LOCATION:Libelle\, Tellgasse 25/1\, 1150 Wien
+DESCRIPTION:Veranstalter: Pole Circle\, Slutlabs\nEintritt: €45\n\nSXXP
+ LICIT ist ein von Gemma Rose gegründeter Pop-up-Club – ein von Sexarb
+ eiter*innen geprägter\, queerer Raum\, der die Standards der Branche ne
+ u definieren will. Nach Events in Großbritannien bringen Pole Circle un
+ d Slutlabs das Format in die Libelle: eine Nacht queerer Freude und erot
+ ischer Rebellion mit Stage-Shows sowie Pole- und Lapdances (18:00–00:0
+ 0). DJs\, Performer*innen und Musikrichtung sind nicht angegeben. Ticket
+  45 € über Eventjet\, das Ticket garantiert keinen Einlass (Door-Sele
+ ction)\; Consent-Regeln werden beim Einlass erklärt\, Gäste sollen in 
+ einem Zustand kommen\, in dem sie auf sich und andere achten können.\n\
+ nhttps://rave.wien/e/2026-11-07-sxxplicit-pop-up-club
+URL:https://rave.wien/e/2026-11-07-sxxplicit-pop-up-club
+END:VEVENT
 END:VCALENDAR

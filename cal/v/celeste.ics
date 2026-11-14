@@ -137,4 +137,52 @@ DESCRIPTION:Ambient Animal\, Tanja Turner\nVeranstalter: sama recordings\
  chweben
 URL:https://rave.wien/e/2026-12-19-sama-recordings-pres-schweben
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-halloqueer@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T220000
+DTEND;TZID=Europe/Vienna:20261101T060000
+SUMMARY:Halloqueer
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Ben Leander\, 2bihonest\, Sarah Dæwie\, Jade Anima\, saschka
+ \nVeranstalter: Ravenbogen\nEintritt: Spende\, Richtwert 10 €\n\nDas q
+ ueere Kollektiv Ravenbogen kommt aus Graz nach Wien und bringt zu Hallow
+ een queeren House und Techno ins Celeste. Motto ist eine magisch-düster
+ e Hexen-Energie\; Kostüme sind willkommen\, vor Ort gibt es eine kosten
+ lose Glitzerstation. Es spielen Ben Leander\, 2bihonest\, Sarah Dæwie\,
+  Jade Anima und saschka. Eintritt auf Spendenbasis mit Richtwert 10 €\
+ , für Menschen mit wenig Einkommen gratis.\n\nhttps://rave.wien/e/2026-
+ 10-31-halloqueer
+URL:https://rave.wien/e/2026-10-31-halloqueer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-clubbduzz@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T220000
+DTEND;TZID=Europe/Vienna:20261107T060000
+SUMMARY:Clubbduzz
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:ALT\, H∆NN∆\, Sentic Cycle\, Shaolinda\, DJ Kompact\, DDS
+  Fam\n\nClubnacht Clubbduzz im Celeste in Margareten\, von 22:00 bis 06:
+ 00. Laut Programm des Celeste spielen ALT (aka AbbyLeeTee)\, H∆NN∆\,
+  Sentic Cycle\, Shaolinda\, DJ Kompact und die DDS Fam als DJ-Crew. Die 
+ Reihe war bereits im November 2025 im Celeste zu Gast. Preis\, Genres un
+ d Flyer nennt das Celeste nicht.\n\nhttps://rave.wien/e/2026-11-06-clubb
+ duzz
+URL:https://rave.wien/e/2026-11-06-clubbduzz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-invitation@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T220000
+DTEND;TZID=Europe/Vienna:20261108T060000
+SUMMARY:Invitation
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Armin Schmelz\, Annie High\, ADHS Lene\, Marc Græbnør\n\nCl
+ ubnacht „Invitation ♡“ im Celeste von 22:00 bis 06:00. Laut Celest
+ e-Programm sind Armin Schmelz sowie die DJs Annie High\, ADHS Lene und M
+ arc Græbnør dabei. Preis\, Genres und Flyer sind auf der Seite des Cel
+ este nicht angegeben.\n\nhttps://rave.wien/e/2026-11-07-invitation
+URL:https://rave.wien/e/2026-11-07-invitation
+END:VEVENT
 END:VCALENDAR

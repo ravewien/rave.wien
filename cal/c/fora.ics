@@ -25,4 +25,21 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-30-fora@rave.wien
+DTSTAMP:20261030T000000Z
+DTSTART;TZID=Europe/Vienna:20261030T220000
+DTEND;TZID=Europe/Vienna:20261031T050000
+SUMMARY:FORA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:ADOBEAR\, BAD PANDA\, YAKKA\nVeranstalter: FORA\n\nFORA feier
+ t im PRST sein einjähriges Bestehen unter dem Motto „One Year. One Fa
+ mily. Countless Memories.“ – ein Rückblick auf ein Jahr voller Musi
+ k\, Nächte und Momente\, die die Community zusammengebracht haben. An d
+ en Decks stehen ADOBEAR\, BAD PANDA und YAKKA\; nähere Angaben zu den A
+ cts\, Set-Zeiten und ein Eintrittspreis sind nicht veröffentlicht. Das 
+ Event ist nicht im PRST-Ticketshop gelistet (prst.ticket.io führt nur H
+ alloween am 31.10.).\n\nhttps://rave.wien/e/2026-10-30-fora
+URL:https://rave.wien/e/2026-10-30-fora
+END:VEVENT
 END:VCALENDAR

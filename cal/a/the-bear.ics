@@ -25,4 +25,24 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-07-cosmic-birthrave@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T230000
+DTEND;TZID=Europe/Vienna:20261108T060000
+SUMMARY:Cosmic BirthRave
+LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
+DESCRIPTION:adrialin\, Enoltra\, The Bear\, gåpe\, wert\, Luminoise\, Ni
+ kø Nøx\, Zer0Ton1n\, RIETVELD\nVeranstalter: Fader Friends\, Cosmic Eg
+ g\nEintritt: 5 €\n\nFader Friends tun sich mit Cosmic Egg zusammen und
+  bringen deren Cosmic-Debütparty ins Rhiz – zugleich die Geburtstagsf
+ eier des Cosmic-Egg-Gründers. Versprochen wird eine Reise\, bei der der
+  Bass schwerer\, die BPM schneller und die Energie immer größer wird\,
+  mit Licht und Sound im Gleichklang. Das Lineup aus kuratierten lokalen 
+ Talenten führt durch mehrere Genres elektronischer Musik (RA: Techno\, 
+ Hardcore): adrialin\, Enoltra b2b The Bear\, gåpe\, wert\, Luminoise\, 
+ Nikø Nøx und Zer0Ton1n b2b RIETVELD. 23:00–06:00\, 5 €\, ab 18.\n\
+ nhttps://rave.wien/e/2026-11-07-cosmic-birthrave
+URL:https://rave.wien/e/2026-11-07-cosmic-birthrave
+END:VEVENT
 END:VCALENDAR

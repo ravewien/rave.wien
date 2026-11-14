@@ -62,4 +62,23 @@ DESCRIPTION:Andre Zimmer\, Anni Herzer\, Valentin Zelz\nVeranstalter: Rad
  er 20+ an.\n\nhttps://rave.wien/e/2026-11-14-radio-rudina
 URL:https://rave.wien/e/2026-11-14-radio-rudina
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-halloween-auf-der-lauer@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T200000
+DTEND;TZID=Europe/Vienna:20261101T060000
+SUMMARY:Halloween auf der Lauer
+DESCRIPTION:Anni Herzer\, Peter Portman\, j.around\, Lenz Rausch\, Scheib
+ osan\, C12\, Floer Klamauk\, Rizmo\, Stalinsky\nVeranstalter: Auf der La
+ uer\nEintritt: ausverkauft\n\nHalloween-Sonderausgabe von Auf der Lauer 
+ an einer geheimen Location\, die erst kurz vorher bekanntgegeben wird: z
+ wei Floors plus Open-Air-Bereich und aufwendige Deko. Über zehn DJs spi
+ elen rund zwölf Stunden elektronische Musik von House und Techno bis El
+ ectro und Breaks – darunter Anni Herzer\, Peter Portman\, j.around\, L
+ enz Rausch\, Scheibosan\, C12\, Floer Klamauk\, Rizmo und Stalinsky. Pas
+ sende Verkleidung ist erwünscht. Preis\, Mindestalter und Location sind
+  noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-10-31-halloween
+ -auf-der-lauer
+URL:https://rave.wien/e/2026-10-31-halloween-auf-der-lauer
+END:VEVENT
 END:VCALENDAR

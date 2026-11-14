@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-31-bloody-masquerade-halloween-hofburg-vienna@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T200000
+DTEND;TZID=Europe/Vienna:20261101T030000
+SUMMARY:Bloody Masquerade – Halloween × Hofburg Vienna
+LOCATION:Hofburg Vienna\, Heldenplatz\, 1010 Wien
+DESCRIPTION:Veranstalter: KSOT\, YE\nEintritt: Phase 3 50 € / Last Rele
+ ase 60 € / Final Call 80 €\; Early Entry bis 20:15 20 €\, bis 20:3
+ 0 25 €\, bis 21:00 30 €\, bis 21:30 35 €\; Gruppenticket (3 bzw. 4
+  Pers.) 40 €\; VIP Stage Pass (Ballroom) 149 €\n\nHalloween-Maskenba
+ ll in der Hofburg am Heldenplatz als erste gemeinsame Veranstaltung von 
+ YE und KSOT („Kein Sonntag ohne Techno“)\, angekündigt als Auftakt 
+ einer Partnerschaft der beiden Marken. Versprochen werden elektronische 
+ Musik mit nationalen und internationalen DJs\, eine große Produktion un
+ d ein eigens entwickeltes Lichtkonzept\; Namen sind nicht veröffentlich
+ t. Es gibt einen Ballroom mit VIP-Stage auf dem Mainfloor (VIP-Pass inkl
+ . Fast-Lane-Einlass). Die Kapazität ist begrenzt\, frühes Kommen wird 
+ mit günstigeren Early-Entry-Tickets belohnt. Mindestalter und Dresscode
+  sind nicht angegeben.\n\nhttps://rave.wien/e/2026-10-31-bloody-masquera
+ de-halloween-hofburg-vienna
+URL:https://rave.wien/e/2026-10-31-bloody-masquerade-halloween-hofburg-vi
+ enna
+END:VEVENT
 END:VCALENDAR

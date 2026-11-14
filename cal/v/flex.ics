@@ -85,4 +85,40 @@ DESCRIPTION:Primate\, Disorder\, Replic\, Splinta\, Mr. Highfi\, L3nny\,
 URL:https://rave.wien/e/2026-11-28-switch-presents-primate-sticks-stones-
  europe-tour
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-the-hive-x-collapse-face-off-halloween-special@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T230000
+DTEND;TZID=Europe/Vienna:20261101T040000
+SUMMARY:The Hive x Collapse – Face Off Halloween Special
+LOCATION:Flex\, Augartenbrücke 1\, 1010 Wien
+DESCRIPTION:Magnetude\, PRDK\, CED\, DNBREAK\, Scapula\, Weazl\, Sinis\, 
+ Lazaro\, Mayez\, Skeedz\, Rellux\, Distorted\nVeranstalter: The Hive\, C
+ ollapse\nEintritt: 9–15 € (VVK)\n\nFace Off: The Hive und Collapse l
+ aden zum Drum-&-Bass-Halloween-Special ins Flex\, bei dem alle Acts Face
+ -to-Face (F2F) spielen. Headliner sind Magnetude aus Großbritannien F2F
+  PRDK aus Tschechien. Als Local Support treten CED F2F DNBREAK\, Scapula
+  F2F Weazl\, Sinis F2F Lazaro\, Mayez F2F Skeedz und Rellux F2F Distorte
+ d an. Einlass 23 Uhr\; VVK Phase 1 9 €\, Phase 2 15 €\, Abendkasse n
+ och offen. Ein Ende nennt der Club nicht.\n\nhttps://rave.wien/e/2026-10
+ -31-the-hive-x-collapse-face-off-halloween-special
+URL:https://rave.wien/e/2026-10-31-the-hive-x-collapse-face-off-halloween
+ -special
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-303-presents-hanzom-label-night@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T230000
+DTEND;TZID=Europe/Vienna:20261108T040000
+SUMMARY:303 presents Hanzom Label Night
+LOCATION:Flex\, Augartenbrücke 1\, 1010 Wien
+DESCRIPTION:Veranstalter: 303\, Hanzom\nEintritt: 18\,75 € VVK (oeticke
+ t\, zzgl. Gebühr) / Abendkasse\n\nDas Label Hanzom kehrt mit 303 für e
+ ine Labelnacht ins Flex zurück: energiegeladener\, hart treibender Neur
+ ofunk mit schwerem Bass. Einzelne Acts sind weder beim Flex noch bei oet
+ icket oder events.at angegeben. Einlass 23:00\, Tickets limitiert – VV
+ K 18\,75 € über oeticket (zzgl. Servicegebühr) und Abendkasse.\n\nht
+ tps://rave.wien/e/2026-11-07-303-presents-hanzom-label-night
+URL:https://rave.wien/e/2026-11-07-303-presents-hanzom-label-night
+END:VEVENT
 END:VCALENDAR

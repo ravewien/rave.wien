@@ -25,4 +25,23 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-07-technolog-special-with-michel-lauriola-arg@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T230000
+DTEND;TZID=Europe/Vienna:20261108T060000
+SUMMARY:technolog Special with Michel Lauriola (ARG)
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:anexate\, Hetum\, Michel Lauriola\, Roton\nVeranstalter: tech
+ nolog\nEintritt frei / free entry\n\ntechnolog lädt zum Special in den 
+ Kramladen mit Michel Lauriola aus Argentinien\, der u. a. mit den Labels
+  Mord\, Nachtstrom Schallplatten und Semántica verbunden ist\; RA taggt
+  den Abend mit Techno und Industrial. Timetable: anexate (23:00)\, Hetum
+  (00:15)\, Michel Lauriola (01:30–04:00) und Roton zum Abschluss (04:0
+ 0–06:00). Freier Eintritt\, ab 21.\n\nhttps://rave.wien/e/2026-11-07-t
+ echnolog-special-with-michel-lauriola-arg
+URL:https://rave.wien/e/2026-11-07-technolog-special-with-michel-lauriola
+ -arg
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-06-plusch@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T210000
+DTEND;TZID=Europe/Vienna:20261107T040000
+SUMMARY:Plüsch
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:MJANE\, Miyra Lim\, Cristinho\, Florian No\nVeranstalter: Hou
+ se of Plüsch\n\nPlüsch ist eine House-Nacht im Tagada: Vier DJs – MJ
+ ANE\, Miyra Lim\, Cristinho und Florian No – sollen den Dancefloor zum
+  Kochen bringen. Motto: „4 DJs. 1 Message: Love will Save the Day“ 
+ – House Music All Night Long.\n\nhttps://rave.wien/e/2026-11-06-plusch
+URL:https://rave.wien/e/2026-11-06-plusch
+END:VEVENT
 END:VCALENDAR

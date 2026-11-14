@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-07-entropy@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T233000
+DTEND;TZID=Europe/Vienna:20261108T050000
+SUMMARY:ENTROPY
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:Jubin Kim Amiri\, Dorian\, QuotenDJ\, Gopnikbarbie\, BoyToyBe
+ ats\, Kandy\, Collective Entropy\nVeranstalter: Entropy\nEintritt: Freie
+  Spende\n\nErste offizielle Party von Entropy\, einem neu gegründeten K
+ ulturverein (Instagram: Collective Entropy)\, im Loop am Gürtel. Der Ve
+ rein will Artists unterstützen\, Vernetzung ermöglichen und Raum für 
+ neue Ideen schaffen. Musikalisch geht es laut Loop um Hardgroove\, Hard 
+ Dance\, Hardbounce und Hard Techno. Es spielen Gründungsmitglieder und 
+ befreundete Artists\, die nicht Teil des Vereins sind: Jubin Kim Amiri\,
+  Dorian\, QuotenDJ\, Gopnikbarbie\, BoyToyBeats und Kandy\, dazu das Col
+ lective Entropy selbst\; Set-Zeiten sind nicht angegeben. 23:30–05:00\
+ , Eintritt gegen freie Spende. Zusätzlich ist Collective Entropy im Lin
+ eup\; es ist das erste offizielle Event des Kulturprojekts Entropy im Lo
+ op.\n\nhttps://rave.wien/e/2026-11-07-entropy
+URL:https://rave.wien/e/2026-11-07-entropy
+END:VEVENT
 END:VCALENDAR

@@ -62,4 +62,65 @@ DESCRIPTION:ARX\, Adam19\, Dunik\, Michkx\nVeranstalter: Fifi\nEintritt f
  t Techno und Minimal Techno.\n\nhttps://rave.wien/e/2026-12-03-fifi-rave
 URL:https://rave.wien/e/2026-12-03-fifi-rave
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-schwerkraft-w-alex-tb-prakas-osmos@rave.wien
+DTSTAMP:20261030T000000Z
+DTSTART;TZID=Europe/Vienna:20261030T230000
+DTEND;TZID=Europe/Vienna:20261031T060000
+SUMMARY:Schwerkraft w/ Alex TB\, Prakas\, Osmos
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alex TB\, Osmos\, Prakas\, Farbod\, Patrick M4SS\, Lenzi\, Ru
+ i de Janeiro\, Adam19\, Meril Fox\, Noel\nVeranstalter: Schrödingers Gr
+ oove\, FIFI Rave\nEintritt: 12–20 €\n\nSchrödingers Groove lädt zu
+  einer Schranz-Nacht ins Werk. Auf dem Main Floor spielen Alex TB\, Hard
+ techno-Veteran und seit 1996 im Underground aktiv\, Prakas als Vertreter
+  der neuen Schranz-Generation mit Releases wie der „Kick Some Ass“-E
+ P (Audiocode Records) und „HTHK“ (44) sowie der belgische DJ und Pro
+ duzent Osmos\, bekannt für markante Percussion und verzerrte Drums (Rel
+ eases auf Audiocode\, Agony\, KKULA\, Merciless)\; dazu Farbod und Patri
+ ck M4SS. Den Luster Floor gestaltet FIFI Rave mit einer Groove-Auswahl a
+ us rollenden Rhythmen und Basslines (Lenzi\, Rui de Janeiro\, Adam19\, M
+ eril Fox\, Noel). Null Toleranz gegenüber Sexismus\, Rassismus und Homo
+ phobie. Einlass ab 18 (laut FAQ von Das Werk).\n\nhttps://rave.wien/e/20
+ 26-10-30-schwerkraft-w-alex-tb-prakas-osmos
+URL:https://rave.wien/e/2026-10-30-schwerkraft-w-alex-tb-prakas-osmos
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-fifi-rave@rave.wien
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Vienna:20261105T235500
+DTEND;TZID=Europe/Vienna:20261106T060000
+SUMMARY:FIFI Rave
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:LUXUS\, Adam19\, Silentsevir\, BISHØP\, SLUTBASS\nVeranstalt
+ er: Fifi\nEintritt frei\n\nDie Reihe FIFI Rave geht im Kramladen in die 
+ nächste Runde – eine Donnerstagnacht mit Techno bei freiem Eintritt. 
+ Es spielen LUXUS\, Adam19\, Silentsevir\, BISHØP und SLUTBASS\; Adam19 
+ stammt aus dem Umfeld von FIFI Rave\, Silentsevir ist ein Wiener Techno-
+ DJ und Produzent\, der vor allem im Werk und im FLUCC auflegt. Beginn 23
+ :55\, Ende laut Freytag-Übersicht 06:00. Weitere Details zu den Acts\, 
+ Mindestalter oder Awareness nennt die Ankündigung nicht.\n\nhttps://rav
+ e.wien/e/2026-11-05-fifi-rave
+URL:https://rave.wien/e/2026-11-05-fifi-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-kostlich-x-gurtelgroove@rave.wien
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=Europe/Vienna:20261111T210000
+DTEND;TZID=Europe/Vienna:20261112T040000
+SUMMARY:Köstlich x Gürtelgroove
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:POSTSCRIPTUM\, FESH\, Adam19\, Antone\, Dudas\, Chris Eru\, M
+ ahofsky\nVeranstalter: Köstlich\, Gürtelgroove\nEintritt: free (Spende
+ n willkommen)\n\nDie Kollektive Köstlich und Gürtelgroove teilen sich 
+ einen Mittwochabend im Club Lucia\, angekündigt als Nacht voller Groove
+  und Rhythmus mit UKG\, Hardgroove und Techno. Von Köstlich spielen POS
+ TSCRIPTUM\, FESH sowie Chris Eru b2b Mahofsky\, von Gürtelgroove Antone
+  b2b Dudas. Dazu kommt Adam19 vom Kollektiv FIFI. Der Eintritt ist frei\
+ , Spenden sind willkommen. Die Veranstalter halten fest: kein Platz für
+  Rassismus\, Sexismus\, Faschismus oder andere Formen von Hass und Gewal
+ t.\n\nhttps://rave.wien/e/2026-11-11-kostlich-x-gurtelgroove
+URL:https://rave.wien/e/2026-11-11-kostlich-x-gurtelgroove
+END:VEVENT
 END:VCALENDAR

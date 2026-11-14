@@ -25,4 +25,22 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-06-max-styler@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T230000
+DTEND;TZID=Europe/Vienna:20261107T060000
+SUMMARY:Max Styler
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Max Styler\nVeranstalter: SIGNAL\nEintritt: 12–25 €\n\nSI
+ GNAL präsentiert Max Styler im O der Klub (23:00–06:00\, ab 18). Der 
+ aus Kalifornien stammende Producer war 2025 laut 1001Tracklists der meis
+ tgesupportete Producer der Top 101 und landete mehrere Beatport-#1-Relea
+ ses. Er gründete sein eigenes Label und Eventformat Nu Moda\, war im J
+ änner 2026 Beatports Artist of the Month und erreichte mit „Greece 20
+ 00“ Platz 1 über alle Genres. Der Wien-Termin ist Teil seiner bisher 
+ größten Headline-Tour durch Nord- und Südamerika\, Großbritannien un
+ d Europa.\n\nhttps://rave.wien/e/2026-11-06-max-styler
+URL:https://rave.wien/e/2026-11-06-max-styler
+END:VEVENT
 END:VCALENDAR

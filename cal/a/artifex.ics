@@ -47,4 +47,22 @@ DESCRIPTION:Telicho\, Artifex\, Frankee\, Acula\, Dijay Qualle\nVeranstal
  ht
 URL:https://rave.wien/e/2026-11-21-kleingeld-kollektiv-klubnacht
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-schlachthaus-w-toobris@rave.wien
+DTSTAMP:20261030T000000Z
+DTSTART;TZID=Europe/Vienna:20261030T230000
+DTEND;TZID=Europe/Vienna:20261031T060000
+SUMMARY:SCHLACHTHAUS w/ Toobris
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Artifex\, Melchiorr\, Toobris\, Telicho\, Silentsevir\, PSMT\
+ nVeranstalter: Schlachthaus\nEintritt: 12 € VVK / 20 € AK\n\nSCHLACH
+ THAUS übernimmt am 30. Oktober wieder die FLUCC Wanne für eine Nacht m
+ it vorwärtsgewandtem Techno. Headliner Toobris steht für Forward-Techn
+ o mit souligen Grooves und viel Percussion\; dazu kommt Telicho aus Wien
+ . Die Residents Artifex und PSMT spielen jeweils b2b mit Gästen: Artife
+ x mit Melchiorr aus München zum Auftakt (23–01 Uhr)\, PSMT mit dem Wi
+ ener Silentsevir zum Closing (04:30–06 Uhr). VVK 12 €\, Abendkasse 2
+ 0 €.\n\nhttps://rave.wien/e/2026-10-30-schlachthaus-w-toobris
+URL:https://rave.wien/e/2026-10-30-schlachthaus-w-toobris
+END:VEVENT
 END:VCALENDAR

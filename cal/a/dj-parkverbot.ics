@@ -62,4 +62,24 @@ DESCRIPTION:Oben: Andrew Ahmed\, Sluzy\, PartyPauli\, maro\, Arman Shadow
  ien/e/2026-11-27-bassbussi-allstars-3-years-anniversary
 URL:https://rave.wien/e/2026-11-27-bassbussi-allstars-3-years-anniversary
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-mixed-vienna-w-prada2000@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T230000
+DTEND;TZID=Europe/Vienna:20261108T060000
+SUMMARY:Mixed Vienna w/ Prada2000
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Prada2000\, Catlex\, Suitside\, Aschenbrenner\, DJ Parkverbot
+ \, Lieblos\, Valera\, Sasuma\nEintritt: ab 15 €\n\nLetzte Mixed-Vienna
+ -Ausgabe des Jahres in der Grelle Forelle: Headliner Prada2000 spielt ei
+ n 3-stündiges Extended Set. Der Berliner DJ und Producer verbindet in e
+ nergiegeladenen Sets euphorische Melodien\, verspielte Vocals und druckv
+ ollen Bass. Auf dem Mainfloor spielen außerdem Catlex sowie Suitside b2
+ b Aschenbrenner\, die Kitchen bespielen Freund*innen der Crew: DJ Parkve
+ rbot\, Lieblos b2b Valera und Sasuma. Einlass 23:00\, Tickets ab 15 € 
+ über Eventim Light\, Abendkasse ab 23:00\, ab 21. Prada2000 spielt ein 
+ dreistündiges Extended Set\; es ist die letzte Mixed-Vienna-Ausgabe des
+  Jahres.\n\nhttps://rave.wien/e/2026-11-07-mixed-vienna-w-prada2000
+URL:https://rave.wien/e/2026-11-07-mixed-vienna-w-prada2000
+END:VEVENT
 END:VCALENDAR

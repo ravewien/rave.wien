@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-29-donnerstag-nacht@rave.wien
+DTSTAMP:20261029T000000Z
+DTSTART;TZID=Europe/Vienna:20261029T230000
+DTEND;TZID=Europe/Vienna:20261030T060000
+SUMMARY:Donnerstag Nacht
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Peter Pixzel\, Sam Gittis\, Kormos\nVeranstalter: Zyklop Audi
+ o\nEintritt: 10–15 € / Studierende 0–5 €\n\nZyklop Audio überni
+ mmt den Donnerstag im SASS und holt mit Peter Pixzel einen Headliner dir
+ ekt aus der Londoner House-Szene: Er ist seit 17 Jahren Mitgründer und 
+ Resident der Sunday-Night-Party WYS! im fabric London\, spielte u. a. im
+  Amnesia und Space auf Ibiza\, im Rex in Paris\, im D-Edge in São Paulo
+ \, im Womb in Tokio und im Club der Visionaere in Berlin und veröffentl
+ icht auf BienAimer\, WYS! Recordings und seinem Label Medola Audio. Sam 
+ Gittis kommt von der US-Ostküste\, hat Residencies im Prager Undergroun
+ d und Releases auf Johnny Johnny\, Piston Recordings und Music Stories. 
+ Kormos\, Gründer von Zyklop Audio\, eröffnet mit einem ausgedehnten Wa
+ rm-up aus hypnotischem Minimal und Microhouse. Willkommensgetränk inklu
+ sive.\n\nhttps://rave.wien/e/2026-10-29-donnerstag-nacht
+URL:https://rave.wien/e/2026-10-29-donnerstag-nacht
+END:VEVENT
 END:VCALENDAR

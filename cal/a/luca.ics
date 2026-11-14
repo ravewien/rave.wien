@@ -25,4 +25,49 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-31-halloween-at-prst-w-camion-bazar-franziska-berns@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T230000
+DTEND;TZID=Europe/Vienna:20261101T110000
+SUMMARY:Halloween at PRST w/ Camion Bazar & Franziska Berns
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Camion Bazar\, Franziska Berns\, Andy Catana\, Apua\, Luca\, 
+ Rizmo\, Reinhard Zach\, Stipo\nEintritt: 25 € (VVK Phase 3) / Early Bi
+ rd 15 € (ausverkauft)\n\nNach dem 12-Stunden-Halloween-Marathon im Vor
+ jahr lädt das PRST wieder zu einer verlängerten Halloween-Nacht von 23
+  bis 11 Uhr. Gäste sind Camion Bazar\, das Pariser Duo aus Benedetta un
+ d Romain Play mit hybriden Vinyl-Sets aus House\, Disco und Electro (Lab
+ el Enemy Dance\, Partyreihe VOLTAGE)\, sowie Franziska Berns\, Resident 
+ im Frankfurter Robert Johnson mit Techno mit funky Kante. Dazu spielen A
+ ndy Catana\, Apua (Kopf bei Fuss)\, Luca\, Rizmo\, Reinhard Zach und Sti
+ po. Early Bird sowie VVK-Phasen 1 und 2 (15/20/23 €) sind ausverkauft\
+ , aktuell gilt Phase 3 mit 25 €\; RA nennt 20–30 €. Der Online-Vor
+ verkauf ist inzwischen geschlossen (laut prst.ticket.io)\, Tickets nur n
+ och an der Abendkassa.\n\nhttps://rave.wien/e/2026-10-31-halloween-at-pr
+ st-w-camion-bazar-franziska-berns
+URL:https://rave.wien/e/2026-10-31-halloween-at-prst-w-camion-bazar-franz
+ iska-berns
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-tasteless-3-yrs-anniversary-halloween-special@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T210000
+DTEND;TZID=Europe/Vienna:20261101T060000
+SUMMARY:Tasteless 3 Yrs Anniversary – Halloween Special
+LOCATION:Otto Wagner Areal\, Baumgartner Höhe 1\, 1140 Wien
+DESCRIPTION:dj sweet6teen\, Katia Curie\, COZi\, Nizar Sarakbi\, PATRIK H
+ OUR\, Luca\nVeranstalter: Tasteless\nEintritt: 15–45 €\n\nTasteless 
+ feiert sein dreijähriges Bestehen mit einer Halloween-Edition im Otto W
+ agner Areal (Eingang Baumgartner Höhe 1 – Küche). Das Kollektiv war 
+ dieses Jahr erstmals auch in Städten außerhalb Österreichs unterwegs.
+  Es spielen dj sweet6teen\, Katia Curie und Nizar Sarakbi (die beiden tr
+ eten u. a. gemeinsam auf\, etwa bei Refuge Worldwide und auf dem Lightho
+ use Festival)\, COZi\, PATRIK HOUR und Luca – House und Minimal von 21
+  bis 06 Uhr. Einlass ab 18 Jahren. Die Early-Bird-Stufe war laut RA fast
+  ausverkauft\; Preis 15–45 €\, circl nennt ab 14\,90 €.\n\nhttps:/
+ /rave.wien/e/2026-10-31-tasteless-3-yrs-anniversary-halloween-special
+URL:https://rave.wien/e/2026-10-31-tasteless-3-yrs-anniversary-halloween-
+ special
+END:VEVENT
 END:VCALENDAR

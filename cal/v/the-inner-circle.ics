@@ -48,4 +48,23 @@ DESCRIPTION:Main: chris deeper\, Dj Ritual Spirit\, 403Vorbidden\, Mike M
  /2026-11-21-lost-or-unreachable
 URL:https://rave.wien/e/2026-11-21-lost-or-unreachable
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-disconnected-from-the-present@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T230000
+DTEND;TZID=Europe/Vienna:20261108T060000
+SUMMARY:disconnected from the present
+LOCATION:The Inner Circle\, Altmannsdorfer Straße 144\, 1230 Wien
+DESCRIPTION:dj-spike\, LIVA\, Grafenauer\nEintritt: 13 €\n\nClubnacht i
+ m Inner Circle in Liesing\, der sich selbst als „einziger Underground-
+ Techno-Club Wiens“ bezeichnet (#savetheunderground). Eintritt nur für
+  Mitglieder – Registrierung vorab über enter.theinnercircle.at. Timet
+ able: dj-spike (Techno\, Acid Techno\, House) 23–2 Uhr\, LIVA (Techno\
+ , Deep und Hypnotic Techno) 2–4 Uhr\, Grafenauer (Techno) 4–6 Uhr. D
+ azu Crêpes- und Galettes-Stand\, wechselnde kleine Verkaufsstände\, Le
+ uchtfeder-Badminton und Retro-Games (Schläger und Controller an der Bar
+ ) sowie bei gutem Wetter ein Garten mit Lagerfeuer. Eintritt 13 €.\n\n
+ https://rave.wien/e/2026-11-07-disconnected-from-the-present
+URL:https://rave.wien/e/2026-11-07-disconnected-from-the-present
+END:VEVENT
 END:VCALENDAR

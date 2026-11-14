@@ -25,4 +25,41 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-31-halloween-auf-der-lauer@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T200000
+DTEND;TZID=Europe/Vienna:20261101T060000
+SUMMARY:Halloween auf der Lauer
+DESCRIPTION:Anni Herzer\, Peter Portman\, j.around\, Lenz Rausch\, Scheib
+ osan\, C12\, Floer Klamauk\, Rizmo\, Stalinsky\nVeranstalter: Auf der La
+ uer\nEintritt: ausverkauft\n\nHalloween-Sonderausgabe von Auf der Lauer 
+ an einer geheimen Location\, die erst kurz vorher bekanntgegeben wird: z
+ wei Floors plus Open-Air-Bereich und aufwendige Deko. Über zehn DJs spi
+ elen rund zwölf Stunden elektronische Musik von House und Techno bis El
+ ectro und Breaks – darunter Anni Herzer\, Peter Portman\, j.around\, L
+ enz Rausch\, Scheibosan\, C12\, Floer Klamauk\, Rizmo und Stalinsky. Pas
+ sende Verkleidung ist erwünscht. Preis\, Mindestalter und Location sind
+  noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-10-31-halloween
+ -auf-der-lauer
+URL:https://rave.wien/e/2026-10-31-halloween-auf-der-lauer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-im-freudentaumel@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T230000
+DTEND;TZID=Europe/Vienna:20261107T060000
+SUMMARY:Im Freudentaumel
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Scheibosan\, Glitzer & Bass\, Nafaka & Lipo\, Kollektiv Shees
+ h\nVeranstalter: Im Freudentaumel\nEintritt: 10–15 €\n\nIm Freudenta
+ umel ist nach einem gelungenen Herbststart zurück im FLUCC (Kupf) mit v
+ erträumtem Techno „in unterschiedlichen Farben“ (23:00–06:00). Es
+  spielen Scheibosan\, Glitzer & Bass\, Nafaka & Lipo und Kollektiv Shees
+ h. Dazu gibt es eine Live-Lichtshow\, verspielte Missionen\, Gratis-Secc
+ o und verträumte Deko. Tickets 10–15 € über KUPFticket\, ein klein
+ es Early-Bird-Kontingent um ca. 10 €.\n\nhttps://rave.wien/e/2026-11-0
+ 6-im-freudentaumel
+URL:https://rave.wien/e/2026-11-06-im-freudentaumel
+END:VEVENT
 END:VCALENDAR

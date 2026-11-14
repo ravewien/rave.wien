@@ -25,4 +25,25 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-30-massimiliano-pagliara-im-wohnzimmer@rave.wien
+DTSTAMP:20261030T000000Z
+DTSTART;TZID=Europe/Vienna:20261030T230000
+DTEND;TZID=Europe/Vienna:20261031T060000
+SUMMARY:Massimiliano Pagliara im Wohnzimmer
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Massimiliano Pagliara\, Jorkes\, Seba\nEintritt: 10–15 €\
+ n\nMassimiliano Pagliara feiert 20 Jahre hinter den Decks und macht auf 
+ seiner Jubiläumstour im SASS Station. Der aus dem zeitgenössischen Tan
+ z kommende\, lange in Berlin lebende DJ ist Resident u. a. in der Panora
+ ma Bar\, im Robert Johnson\, im Romantica und im Basement New York\; er 
+ spielt House\, Disco\, Electro und Techno\, sein Album „See You In Par
+ adise“ wurde ausgezeichnet und mit Funnuvojere betreibt er ein eigenes
+  Label. Das Warm-up übernimmt Jorkes (House\, Disco\, Electro)\, ebenfa
+ lls Romantica-Resident und mit Paris Böhm Betreiber des Labels Freeride
+  Millenium\, das sich für die LGBTQIA+-Community einsetzt\; Seba spielt
+  Support. Welcome Drink inklusive\, Awareness-Team vor Ort.\n\nhttps://r
+ ave.wien/e/2026-10-30-massimiliano-pagliara-im-wohnzimmer
+URL:https://rave.wien/e/2026-10-30-massimiliano-pagliara-im-wohnzimmer
+END:VEVENT
 END:VCALENDAR

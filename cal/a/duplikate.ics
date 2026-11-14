@@ -59,4 +59,27 @@ DESCRIPTION:MESROD\, PJPJPJ\, Julani\, Lilosh\, Fliize\, Duplikate\, Hann
  After.\n\nhttps://rave.wien/e/2026-12-05-housetiere-vg-weekender
 URL:https://rave.wien/e/2026-12-05-housetiere-vg-weekender
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-cyclic-existence@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T230000
+DTEND;TZID=Europe/Vienna:20261108T050000
+SUMMARY:Cyclic Existence
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Arne\, André\, Arni Jr.\, Duplikate\nVeranstalter: Cyclic Ex
+ istence\nEintritt: 10–15 € (inkl. Welcome-Drink)\n\nCyclic Existence
+  bringt vier DJs für eine Nacht deeperen House ins SASS (23:00–05:00)
+  – entspannt\, langsam aufbauend\, mit Fokus auf Groove und gemeinsame
+ r Energie. Arne bewegt sich in fließenden\, unaufgeregten Sets zwischen
+  House\, Minimal und Techno. André legt seit über zehn Jahren auf\, le
+ bt seit 2019 in Offenbach\, gräbt nach House\, Progressive und Minimal 
+ ab den frühen 2000ern und betreibt die Off-Location-Reihe Not From This
+  Earth. Arni Jr. ist seit über zehn Jahren Vinyl-only-DJ in Wien (Come 
+ Closer\, Vinyl Fetish) mit Electro\, Techno\, Progressive und Broken Sou
+ nds\; Duplikate\, seit zwei Jahren im SASS und Teil des Housetiere-Kolle
+ ktivs\, spielt Electro House mit schweren Basslines\, eingängigen Vocal
+ s und Metal-Kante. Eintritt 10–15 € inkl. Welcome-Drink\, ab 18\, Aw
+ areness-Team vor Ort.\n\nhttps://rave.wien/e/2026-11-07-cyclic-existence
+URL:https://rave.wien/e/2026-11-07-cyclic-existence
+END:VEVENT
 END:VCALENDAR

@@ -39,4 +39,22 @@ DESCRIPTION:Braincell\, Boom Shankar\, Egorythmia\, Psynonima\, Tsubi\, T
  //rave.wien/e/2026-12-05-tribal-vibes-meets-exil
 URL:https://rave.wien/e/2026-12-05-tribal-vibes-meets-exil
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-out-of-space@rave.wien
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Vienna:20261105T230000
+DTEND;TZID=Europe/Vienna:20261106T060000
+SUMMARY:OUT OF SPACE
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Arnab\, Nasty\, Liquidsound\, Spoonwalker\nVeranstalter: AIMm
+ anagemnt\nEintritt: 5 €\n\nWeltraum-Psytrance-Nacht im Weberknecht mit
+  treibenden Basslines und vier Acts. Arnab kommt aus dem Umfeld der Wien
+ er Psytrance-Crew Tribal Vibes\, Nasty (GR) ist mit Pixan Recordings ver
+ bunden\, Liquidsound (AT) mit Enterrec\, und Spoonwalker (CZ\, Psyna Fes
+ tival) spielt erstmals in Wien. Laut RA kostet der Eintritt 5 € (inklu
+ sive Shot)\; einen Online-Ticketverkauf gibt es nicht. Veranstaltet von 
+ AIMmanagemnt\, ab 18\, 23:00 bis 06:00.\n\nhttps://rave.wien/e/2026-11-0
+ 5-out-of-space
+URL:https://rave.wien/e/2026-11-05-out-of-space
+END:VEVENT
 END:VCALENDAR

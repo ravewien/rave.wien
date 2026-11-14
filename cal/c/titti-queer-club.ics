@@ -46,4 +46,27 @@ DESCRIPTION:Veranstalter: Titti Queer Club\nEintritt: 10–15 €\n\nTitt
  en/e/2026-12-11-titti-titti-bang-bang
 URL:https://rave.wien/e/2026-12-11-titti-titti-bang-bang
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-gayloween-x-titti-queer-club@rave.wien
+DTSTAMP:20261030T000000Z
+DTSTART;TZID=Europe/Vienna:20261030T220000
+DTEND;TZID=Europe/Vienna:20261031T050000
+SUMMARY:Gayloween x Titti Queer Club
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Deleven\, DORAH\, Bella\, Ryta Tale\, Clemotone\, Nani Mag. V
+ iech\, Countessa\, TRMT\, La Destinación Final\, Humi\, Flual\, Bloodsu
+ gar\nVeranstalter: Titti Queer Club\nEintritt: 10–15 €\n\nTitti ist 
+ eine queere Partyreihe in Wien\, die seit rund sieben Jahren queeren Gä
+ sten einen sicheren Raum und queeren Künstler:innen eine Bühne bietet 
+ – zu Halloween als „Gayloween“ im The Loft auf drei Floors. Oben l
+ äuft Techno mit Deleven\, DORAH und Bella\, unten Pop und All-Time Favo
+ rites mit Ryta Tale\, Clemotone\, Nani Mag. Viech und Countessa\, im Woh
+ nzimmer gemischte Musik mit TRMT\, La Destinación Final\, Humi\, Flual 
+ und Bloodsugar. Um 01:00 gibt es unten eine Drag-Show mit Metamorkid\, R
+ yta Tale\, XYZ und Canaya. Eintritt 10/15 €\, ab 18\; alle Geschlechte
+ r willkommen\, keine Toleranz für Sexismus\, Homophobie\, Rassismus\, B
+ ody-Shaming oder andere Diskriminierung.\n\nhttps://rave.wien/e/2026-10-
+ 30-gayloween-x-titti-queer-club
+URL:https://rave.wien/e/2026-10-30-gayloween-x-titti-queer-club
+END:VEVENT
 END:VCALENDAR

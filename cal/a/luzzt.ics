@@ -45,4 +45,23 @@ DESCRIPTION:Paralich\, THIRD 2HIFT\, Valenthin\, DJ Wifi\, LUZZT\nVeranst
 URL:https://rave.wien/e/2026-11-28-dead-end-showcase-with-paralich-pres-b
  y-gdn
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-halloween-special@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T230000
+DTEND;TZID=Europe/Vienna:20261101T040000
+SUMMARY:Halloween Special
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Joey\, Crystal O\, Rantom\, LUZZT\, Dj Wifi\, Arman Shadow\, 
+ Nikilist\, Qaoz\, Trugbild\, KRISTUS\, Feli Nightingale\nEintritt: 12–
+ 20 € (Early Bird VVK 12 €\, AK 20 €)\n\nHalloween-Nacht im Werk (a
+ uf der Website als „Halloween Rave“ gelistet) ab 23:00 auf zwei Floo
+ rs: Am Main Floor spielen Joey\, Crystal O\, Rantom b2b LUZZT\, Dj Wifi 
+ und Arman Shadow\, am Luster Floor Nikilist\, Qaoz\, Trugbild b2b KRISTU
+ S und Feli Nightingale. Early-Bird-Vorverkauf 12 €\, Abendkassa 20 €
+  (oeticket listete zuvor ab 22\,20 € inkl. Gebühren). Eine Endzeit un
+ d einen Beschreibungstext veröffentlicht die Location nicht.\n\nhttps:/
+ /rave.wien/e/2026-10-31-halloween-special
+URL:https://rave.wien/e/2026-10-31-halloween-special
+END:VEVENT
 END:VCALENDAR

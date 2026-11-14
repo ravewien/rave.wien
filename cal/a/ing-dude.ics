@@ -25,4 +25,25 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-30-drahthaus-album-release-show-x-toga@rave.wien
+DTSTAMP:20261030T000000Z
+DTSTART;TZID=Europe/Vienna:20261030T210000
+DTEND;TZID=Europe/Vienna:20261031T060000
+SUMMARY:Drahthaus Album Release Show x TOGA
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Hannsolo\, Drahthaus\, Mareia\, ing.dude\nVeranstalter: Tanz 
+ oder gar nicht\nEintritt: VVK 22 € (weitere Stufen 11 € / 50 €\, n
+ icht näher bezeichnet)\n\nDie Wiener Band Drahthaus stellt im FLUCC Dec
+ k ihr Album „Elephant In The Room“ vor\, das auf Downtempo-Electroni
+ ca basiert\, die die Band dehnt und aufbricht – angekündigt als tanzb
+ are\, psychedelische und stellenweise humorvolle Show (live um 00:30). G
+ emeinsam mit dem befreundeten Kollektiv Tanz oder gar nicht (TOGA) wird 
+ daraus eine ganze Nacht: um 21:00 ein Tanzworkshop mit Tanzresonanz\, da
+ nach Hannsolo mit Latin Beats\, nach dem Konzert Mareia mit Bouncy Beats
+  und ab 04:00 ing.dude mit Old School Dubstep bis 06:00. Dazu Deko\, ein
+ e Tattoo-Station und Awareness-Angebote\; festliche Kleidung erwünscht.
+ \n\nhttps://rave.wien/e/2026-10-30-drahthaus-album-release-show-x-toga
+URL:https://rave.wien/e/2026-10-30-drahthaus-album-release-show-x-toga
+END:VEVENT
 END:VCALENDAR

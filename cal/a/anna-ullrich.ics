@@ -60,4 +60,51 @@ DESCRIPTION:Anna Ullrich\, NO ONE\, Armin Hermann\, Aleta\nVeranstalter:
  hn
 URL:https://rave.wien/e/2026-11-20-anna-ullrich-pres-achterbahn
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-step-forward-pres-shoki@rave.wien
+DTSTAMP:20261030T000000Z
+DTSTART;TZID=Europe/Vienna:20261030T230000
+DTEND;TZID=Europe/Vienna:20261031T060000
+SUMMARY:Step Forward pres. Shoki
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:SHOKI287\, pengg\, Anna Ullrich\, DizzyDray\, Paul Mile\, Van
+ essa Sa\, Casanoah\, Aleta\nVeranstalter: Step Forward\, Soundlabs\nEint
+ ritt: ab 16 €\n\nStep Forward holt SHOKI287 in die Grelle Forelle: Sie
+  spielt laut und unbekümmert schnellen Techno mit Trance-Passagen und g
+ elegentlich treibenden Remixen ihrer eigenen Rap-Releases – mit vielen
+  flexiblen Wechseln\, verspielt und mit direkter Underground-Haltung\, o
+ hne Pausen. Auf dem Main Floor ergänzen die Wiener DJs Anna Ullrich und
+  pengg (Prod by Pengg). Den Kitchen Floor gestaltet das Kollektiv Soundl
+ abs mit DizzyDray\, Paul Mile\, Vanessa Sa\, Casanoah und Aleta. Einlass
+  ab 23:00\; der Vorverkauf über Tickettailor ist ausverkauft\, Tickets 
+ gibt es an der Abendkasse.\n\nhttps://rave.wien/e/2026-10-30-step-forwar
+ d-pres-shoki
+URL:https://rave.wien/e/2026-10-30-step-forward-pres-shoki
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-biosphere-the-techno-spirit-of-1997@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T220000
+DTEND;TZID=Europe/Vienna:20261107T060000
+SUMMARY:Biosphere – The Techno Spirit of 1997
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Sam Paganini\, The Advent\, Joro & Joabo\, Elex Red\, Tolaris
+ \, MC Mars\, MC Spot\, Anna Ullrich\, MARØ\, Who is Ela¿\, DORAH\, DJ 
+ SDRICCI\, Marilou\, Raphael Warg\, LĪVA\nVeranstalter: Fluffig\nEintrit
+ t: ab 33 € (Zündung 1 ausverkauft)\n\nBIOSPHERE – The Techno Spirit
+  of 1997 lässt den Geist der Wiener Rave-Szene der 90er wieder aufleben
+ : „90s Acid Techno meets Cosmic Rave“\, 8 Stunden auf 3 Floors im Cl
+ ub Exil in Vösendorf (22:00–06:00\, ab 20). Auf dem Bridge Floor spie
+ len der Italiener Sam Paganini (Treviso\; bekannt für „Zoe“ und „
+ Rave“\, Releases auf Drumcode) und The Advent (London\, Raw Techno/Ele
+ ctro)\, dazu Joro & Joabo\, Elex Red und Tolaris sowie live die MCs MC M
+ ars und MC Spot. Den Maschinenraum gestaltet Fluffig mit Anna Ullrich (T
+ echno\, Bounce\, Trance)\, MARØ\, WHO IS ELA¿ und DORAH (Hard Bounce\,
+  Hard Techno). Im Cyberspace Artist Lab (in Kooperation mit Dancemalschu
+ tz) stehen Mentor DJ SDRICCI und ausgewählte Newcomer wie Marilou (Thes
+ saloniki)\, LĪVA und Raphael Warg. Erste Ticketstufe (33 €) ausverkau
+ ft\, Tickets über StageDates.\n\nhttps://rave.wien/e/2026-11-06-biosphe
+ re-the-techno-spirit-of-1997
+URL:https://rave.wien/e/2026-11-06-biosphere-the-techno-spirit-of-1997
+END:VEVENT
 END:VCALENDAR

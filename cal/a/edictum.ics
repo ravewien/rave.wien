@@ -68,4 +68,23 @@ DESCRIPTION:Robert Maslach\, Fede Frostl\, The Wash\, Edictum\nVeranstalt
  -iv
 URL:https://rave.wien/e/2026-12-04-empyreon-vol-iv
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-empyreon-vol-iii@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T220000
+DTEND;TZID=Europe/Vienna:20261107T044500
+SUMMARY:Empyreon – Vol. III
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Mary Slim\, Edictum\, Matt Ludlam\, DJ Andy\nVeranstalter: Em
+ pyreon\, Kollektiv Birdhouse\nEintritt: Freie Spende\n\nDritte Ausgabe v
+ on Empyreon im Wohnzimmer des Loft: Gastgeber Kollektiv Birdhouse will i
+ n Wien eine Progressive-House-Underground-Szene aufbauen und setzt auf e
+ in internationales Lineup und DJ-Handwerk. Die Sets sind als Bogen gepla
+ nt – von deepen Grooves über treibende\, melodische und emotionale So
+ unds bis zu dunklen\, technoiden\, hypnotischen Rhythmen. Es spielen Mar
+ y Slim (22:00)\, Edictum (23:40)\, Matt Ludlam (01:20) und DJ Andy (03:0
+ 0–04:45). Eintritt gegen freie Spende.\n\nhttps://rave.wien/e/2026-11-
+ 06-empyreon-vol-iii
+URL:https://rave.wien/e/2026-11-06-empyreon-vol-iii
+END:VEVENT
 END:VCALENDAR

@@ -79,4 +79,23 @@ DESCRIPTION:Veranstalter: Callshop Radio\, Spumante Records\nEintritt fre
  igt.\n\nhttps://rave.wien/e/2026-12-13-flut-x-callshop-radio-week-50
 URL:https://rave.wien/e/2026-12-13-flut-x-callshop-radio-week-50
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-01-flut-x-callshop-radio-week-44@rave.wien
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Vienna:20261101T140000
+DTEND;TZID=Europe/Vienna:20261101T200000
+SUMMARY:FLUT x Callshop Radio – Week 44
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:The Lebanese\, Findus\, Helix\, sig. Molteni\, Birk\, Soulari
+ um\nVeranstalter: Spumante Records\, Callshop Radio\nEintritt frei\n\nSo
+ nntagnachmittag am FLUCC Deck: FLUT (FLUCC Transmitter) ist Teil der erw
+ eiterten Aktivitäten des FLUCC und kooperiert mit Callshop Radio\, das 
+ auch aus Düsseldorf\, Leipzig und Paris sendet. Die Session wird live 
+ über Stream 2 auf callshopradio.com übertragen und von Spumante Record
+ s aus Wien kuratiert. Das Live-DJ-Line-up bilden The Lebanese\, Findus\,
+  Helix\, sig. Molteni\, Birk und Soularium. Während des Streams ist die
+  Deck-Bar geöffnet. Eintritt frei.\n\nhttps://rave.wien/e/2026-11-01-fl
+ ut-x-callshop-radio-week-44
+URL:https://rave.wien/e/2026-11-01-flut-x-callshop-radio-week-44
+END:VEVENT
 END:VCALENDAR

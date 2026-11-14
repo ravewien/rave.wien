@@ -63,4 +63,46 @@ DESCRIPTION:Audrey Danza\, Apua\, DJ Deadlift\, Dreya\nVeranstalter: Redi
  r-pres-audrey-danza
 URL:https://rave.wien/e/2026-12-12-redivider-pres-audrey-danza
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-halloween-at-prst-w-camion-bazar-franziska-berns@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T230000
+DTEND;TZID=Europe/Vienna:20261101T110000
+SUMMARY:Halloween at PRST w/ Camion Bazar & Franziska Berns
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Camion Bazar\, Franziska Berns\, Andy Catana\, Apua\, Luca\, 
+ Rizmo\, Reinhard Zach\, Stipo\nEintritt: 25 € (VVK Phase 3) / Early Bi
+ rd 15 € (ausverkauft)\n\nNach dem 12-Stunden-Halloween-Marathon im Vor
+ jahr lädt das PRST wieder zu einer verlängerten Halloween-Nacht von 23
+  bis 11 Uhr. Gäste sind Camion Bazar\, das Pariser Duo aus Benedetta un
+ d Romain Play mit hybriden Vinyl-Sets aus House\, Disco und Electro (Lab
+ el Enemy Dance\, Partyreihe VOLTAGE)\, sowie Franziska Berns\, Resident 
+ im Frankfurter Robert Johnson mit Techno mit funky Kante. Dazu spielen A
+ ndy Catana\, Apua (Kopf bei Fuss)\, Luca\, Rizmo\, Reinhard Zach und Sti
+ po. Early Bird sowie VVK-Phasen 1 und 2 (15/20/23 €) sind ausverkauft\
+ , aktuell gilt Phase 3 mit 25 €\; RA nennt 20–30 €. Der Online-Vor
+ verkauf ist inzwischen geschlossen (laut prst.ticket.io)\, Tickets nur n
+ och an der Abendkassa.\n\nhttps://rave.wien/e/2026-10-31-halloween-at-pr
+ st-w-camion-bazar-franziska-berns
+URL:https://rave.wien/e/2026-10-31-halloween-at-prst-w-camion-bazar-franz
+ iska-berns
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-wos-soundsystem-invites-josefina-tapia@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T230000
+DTEND;TZID=Europe/Vienna:20261107T060000
+SUMMARY:WOS Soundsystem invites Josefina Tapia
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Josefina Tapia\, Apua\, Bambi-S\, Oliviero\nVeranstalter: WOS
+  Soundsystem\nEintritt: 10–15 € (inkl. Welcome-Drink)\n\nWOS Soundsy
+ stem übernimmt das SASS für eine lange Nacht Clubmusik (23:00–06:00)
+  und lädt dafür Josefina Tapia ein\, eine aus Chile stammende DJ\, die
+  klassischen amerikanischen House mit europäischem Minimalismus verbind
+ et. Dazu spielen Apua\, Bambi-S und Oliviero. Der Eintritt (10–15 €)
+  enthält einen Welcome-Drink\; ab 18 mit Ausweis-\, Taschen- und Sicher
+ heitskontrolle\, das Awareness-Team des SASS ist vor Ort.\n\nhttps://rav
+ e.wien/e/2026-11-06-wos-soundsystem-invites-josefina-tapia
+URL:https://rave.wien/e/2026-11-06-wos-soundsystem-invites-josefina-tapia
+END:VEVENT
 END:VCALENDAR

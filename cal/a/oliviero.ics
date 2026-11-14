@@ -25,4 +25,22 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-06-wos-soundsystem-invites-josefina-tapia@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T230000
+DTEND;TZID=Europe/Vienna:20261107T060000
+SUMMARY:WOS Soundsystem invites Josefina Tapia
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Josefina Tapia\, Apua\, Bambi-S\, Oliviero\nVeranstalter: WOS
+  Soundsystem\nEintritt: 10–15 € (inkl. Welcome-Drink)\n\nWOS Soundsy
+ stem übernimmt das SASS für eine lange Nacht Clubmusik (23:00–06:00)
+  und lädt dafür Josefina Tapia ein\, eine aus Chile stammende DJ\, die
+  klassischen amerikanischen House mit europäischem Minimalismus verbind
+ et. Dazu spielen Apua\, Bambi-S und Oliviero. Der Eintritt (10–15 €)
+  enthält einen Welcome-Drink\; ab 18 mit Ausweis-\, Taschen- und Sicher
+ heitskontrolle\, das Awareness-Team des SASS ist vor Ort.\n\nhttps://rav
+ e.wien/e/2026-11-06-wos-soundsystem-invites-josefina-tapia
+URL:https://rave.wien/e/2026-11-06-wos-soundsystem-invites-josefina-tapia
+END:VEVENT
 END:VCALENDAR

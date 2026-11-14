@@ -149,4 +149,41 @@ DESCRIPTION:Schrotthagen\nVeranstalter: SIGNAL\nEintritt: ab 15 €\n\nSI
  thagen
 URL:https://rave.wien/e/2027-02-12-schrotthagen
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-halloween-transmission@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T220000
+DTEND;TZID=Europe/Vienna:20261101T060000
+SUMMARY:Halloween Transmission
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Veranstalter: SIGNAL\, Super Disco\nEintritt: VVK 17 €\n\nZ
+ u Halloween verwandelt sich O – der Klub in ein düsteres Paralleluniv
+ ersum zwischen Fiebertraum und Tanzekstase: drei Floors\, drei Musikwelt
+ en. Im CORE (Mainfloor) spielt Super Disco aktuelle Club-Charts und Klas
+ siker in einer Grusel-Sonderedition\, im ORBIT (2. Stock) übernimmt SIG
+ NAL mit Melodic House und Techno\, im KONSULAT (3. Stock) laufen die gan
+ ze Nacht Hip Hop und Urban Beats. Verkleidung erwünscht\, aber kein Mus
+ s. DJ-Namen werden nicht genannt\; Tischreservierungen mit VIP-Eingang u
+ nd Bottle Service möglich.\n\nhttps://rave.wien/e/2026-10-31-halloween-
+ transmission
+URL:https://rave.wien/e/2026-10-31-halloween-transmission
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-max-styler@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T230000
+DTEND;TZID=Europe/Vienna:20261107T060000
+SUMMARY:Max Styler
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Max Styler\nVeranstalter: SIGNAL\nEintritt: 12–25 €\n\nSI
+ GNAL präsentiert Max Styler im O der Klub (23:00–06:00\, ab 18). Der 
+ aus Kalifornien stammende Producer war 2025 laut 1001Tracklists der meis
+ tgesupportete Producer der Top 101 und landete mehrere Beatport-#1-Relea
+ ses. Er gründete sein eigenes Label und Eventformat Nu Moda\, war im J
+ änner 2026 Beatports Artist of the Month und erreichte mit „Greece 20
+ 00“ Platz 1 über alle Genres. Der Wien-Termin ist Teil seiner bisher 
+ größten Headline-Tour durch Nord- und Südamerika\, Großbritannien un
+ d Europa.\n\nhttps://rave.wien/e/2026-11-06-max-styler
+URL:https://rave.wien/e/2026-11-06-max-styler
+END:VEVENT
 END:VCALENDAR

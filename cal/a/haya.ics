@@ -25,4 +25,32 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-07-klub-halal-pres-klub-palestine@rave.wien
+DTSTAMP:20261107T000000Z
+DTSTART;TZID=Europe/Vienna:20261107T233000
+DTEND;TZID=Europe/Vienna:20261108T060000
+SUMMARY:Klub Halal pres. Klub Palestine
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:MAH MOOD\, Rakans\, Sherine Falasteen\, MODI\, Sanadrilla\, H
+ AYA\nVeranstalter: Klub Halal\, Habibi Party\nEintritt: 10–15 € (nur
+  Vorverkauf) · RA: 10/15/18 € (gestaffelt) / Community-Ticket auf Anf
+ rage\n\nKlub Halal präsentiert Klub Palestine in der FLUCC Wanne – ei
+ ne Nacht zu Ehren queerer palästinensischer Künstler*innen\, mit Solid
+ arität auch für Sudan\, Kongo\, Libanon und Iran. 100 % des Gewinns ge
+ hen an fünf queere und trans palästinensische Geflüchtete in Ägypten
+  (Wohnen\, Essen\, dringende Lebenskosten). Es treten auf: Drag-Artist S
+ herine Falasteen (aus Jerusalem\, zwischen Ramallah und Brüssel)\, Tech
+ no-Artist Rakans aus Nazareth (Gründer von Rawmantique)\, DJ und Produc
+ er MAH MOOD aus Haifa (Gründer der Reihe Makhlouta)\, Tabla-Spieler MOD
+ I (Klub-Halal-Mitglied\, live zu den DJ-Sets) und Klub-Halal-Gründerin 
+ Sanadrilla mit Arab-Pop-Edits. Awareness-Team in pinken Westen\, Consent
+ - und Filmregeln (Filmen nur auf der Bühne)\, null Toleranz gegen Diskr
+ iminierung\, Türpolitik\; nur Vorverkauf\, solidarisch ermäßigte Tick
+ ets für Menschen mit wenig Geld\, keine Rückerstattung außer bei Absa
+ ge. Neu im Lineup ist HAYA\; Tickets gibt es nur im Vorverkauf\, keine A
+ bendkasse.\n\nhttps://rave.wien/e/2026-11-07-klub-halal-pres-klub-palest
+ ine
+URL:https://rave.wien/e/2026-11-07-klub-halal-pres-klub-palestine
+END:VEVENT
 END:VCALENDAR

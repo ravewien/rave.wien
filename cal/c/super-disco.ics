@@ -25,4 +25,23 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-31-halloween-transmission@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T220000
+DTEND;TZID=Europe/Vienna:20261101T060000
+SUMMARY:Halloween Transmission
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Veranstalter: SIGNAL\, Super Disco\nEintritt: VVK 17 €\n\nZ
+ u Halloween verwandelt sich O – der Klub in ein düsteres Paralleluniv
+ ersum zwischen Fiebertraum und Tanzekstase: drei Floors\, drei Musikwelt
+ en. Im CORE (Mainfloor) spielt Super Disco aktuelle Club-Charts und Klas
+ siker in einer Grusel-Sonderedition\, im ORBIT (2. Stock) übernimmt SIG
+ NAL mit Melodic House und Techno\, im KONSULAT (3. Stock) laufen die gan
+ ze Nacht Hip Hop und Urban Beats. Verkleidung erwünscht\, aber kein Mus
+ s. DJ-Namen werden nicht genannt\; Tischreservierungen mit VIP-Eingang u
+ nd Bottle Service möglich.\n\nhttps://rave.wien/e/2026-10-31-halloween-
+ transmission
+URL:https://rave.wien/e/2026-10-31-halloween-transmission
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,23 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-05-fifi-rave@rave.wien
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=Europe/Vienna:20261105T235500
+DTEND;TZID=Europe/Vienna:20261106T060000
+SUMMARY:FIFI Rave
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:LUXUS\, Adam19\, Silentsevir\, BISHØP\, SLUTBASS\nVeranstalt
+ er: Fifi\nEintritt frei\n\nDie Reihe FIFI Rave geht im Kramladen in die 
+ nächste Runde – eine Donnerstagnacht mit Techno bei freiem Eintritt. 
+ Es spielen LUXUS\, Adam19\, Silentsevir\, BISHØP und SLUTBASS\; Adam19 
+ stammt aus dem Umfeld von FIFI Rave\, Silentsevir ist ein Wiener Techno-
+ DJ und Produzent\, der vor allem im Werk und im FLUCC auflegt. Beginn 23
+ :55\, Ende laut Freytag-Übersicht 06:00. Weitere Details zu den Acts\, 
+ Mindestalter oder Awareness nennt die Ankündigung nicht.\n\nhttps://rav
+ e.wien/e/2026-11-05-fifi-rave
+URL:https://rave.wien/e/2026-11-05-fifi-rave
+END:VEVENT
 END:VCALENDAR

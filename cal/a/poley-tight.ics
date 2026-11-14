@@ -47,4 +47,29 @@ DESCRIPTION:Main Floor: Yoshiko\, Lekkerfaces\, 99PRBLMZ\, Another Dimens
  026-12-07-hardline-cold-war-a-winter-special
 URL:https://rave.wien/e/2026-12-07-hardline-cold-war-a-winter-special
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-hardline-purge-night-a-halloween-special@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T200000
+DTEND;TZID=Europe/Vienna:20261101T010000
+SUMMARY:HARDLINE: Purge Night – A Halloween Special
+LOCATION:Event Arena Vösendorf\, Marktstraße 13a\, 2331 Vösendorf Wien
+DESCRIPTION:The Dark Horror\, The Straikerz\, DJ Shady MF\, Outlined\, Pi
+ notello\, Poley Tight\, Schlot\, Sonic Warfare\, Another Dimension\, Emk
+ atress\, Fractured Souls\, Eternal Injustice vs Raw Kickzz\, Recovered\,
+  Uptempo Babys\, Agonize\, Burger Kingz\, Mark Enigma\, Rick C\nVeransta
+ lter: Hardline\nEintritt: 38\,90 € (Phase 3) / VIP 54\,90 €\n\nHardl
+ ine verwandelt die Event Arena Vösendorf zu Halloween in eine Welt aus 
+ Chaos und Dunkelheit – „für eine Nacht gibt es keine Regeln mehr“
+ . Drei Areas mit eigenem Sound: Ground Zero ist die Mainstage u. a. mit 
+ The Dark Horror\, The Straikerz\, DJ Shady MF\, Outlined\, Pinotello\, S
+ chlot und Sonic Warfare\; The Tunnel steht für Rawstyle und Uptempo u. 
+ a. mit Another Dimension\, Emkatress\, Fractured Souls und Uptempo Babys
+ \; im Machine Room laufen Gabber\, Early Hardcore und Hakken u. a. mit A
+ gonize\, Burger Kingz\, Mark Enigma und Rick C. Einlass ab 20:00\, ein E
+ nde ist nicht angegeben. Tickets Phase 3 38\,90 €\, VIP 54\,90 €.\n\
+ nhttps://rave.wien/e/2026-10-31-hardline-purge-night-a-halloween-special
+URL:https://rave.wien/e/2026-10-31-hardline-purge-night-a-halloween-speci
+ al
+END:VEVENT
 END:VCALENDAR

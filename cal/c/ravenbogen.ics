@@ -25,4 +25,22 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-31-halloqueer@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T220000
+DTEND;TZID=Europe/Vienna:20261101T060000
+SUMMARY:Halloqueer
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Ben Leander\, 2bihonest\, Sarah Dæwie\, Jade Anima\, saschka
+ \nVeranstalter: Ravenbogen\nEintritt: Spende\, Richtwert 10 €\n\nDas q
+ ueere Kollektiv Ravenbogen kommt aus Graz nach Wien und bringt zu Hallow
+ een queeren House und Techno ins Celeste. Motto ist eine magisch-düster
+ e Hexen-Energie\; Kostüme sind willkommen\, vor Ort gibt es eine kosten
+ lose Glitzerstation. Es spielen Ben Leander\, 2bihonest\, Sarah Dæwie\,
+  Jade Anima und saschka. Eintritt auf Spendenbasis mit Richtwert 10 €\
+ , für Menschen mit wenig Einkommen gratis.\n\nhttps://rave.wien/e/2026-
+ 10-31-halloqueer
+URL:https://rave.wien/e/2026-10-31-halloqueer
+END:VEVENT
 END:VCALENDAR
