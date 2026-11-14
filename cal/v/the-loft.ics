@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-12-pharmafest@rave.wien
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=Europe/Vienna:20261112T230000
-DTEND;TZID=Europe/Vienna:20261113T040000
-SUMMARY:Pharmafest
-LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
-DESCRIPTION:DJ Mimo\, DJ Etherdoll\nEintritt: 7 €\n\nDas Pharmafest fin
- det dieses Jahr im Loft statt\, unten im Club. DJ Mimo eröffnet mit Dis
- co und Tech\, danach spielt DJ Etherdoll Drum & Bass und Bounce. Einlass
-  und Musik ab 23:00\, Eintritt 7 €. Eine Endzeit und ein Mindestalter 
- nennt die Location nicht.\n\nhttps://rave.wien/e/2026-11-12-pharmafest
-URL:https://rave.wien/e/2026-11-12-pharmafest
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-13-rudebwoy-embassy-meets-bassclub-30-years-jah-powe@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T230000
@@ -221,12 +207,17 @@ DTSTART;TZID=Europe/Vienna:20261218T230000
 DTEND;TZID=Europe/Vienna:20261219T040000
 SUMMARY:CYBERTRIBE pres. CLUB GSPUSI
 LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
-DESCRIPTION:Veranstalter: Cybertribe\nEintritt: 10–15 €\n\nDas Wiener
-  Kollektiv Cybertribe präsentiert „Club Gspusi“ im Loft am Lerchenf
- elder Gürtel. Gespielt wird auf zwei Floors (Oben und Unten) ab 23:00\,
-  der Eintritt liegt laut Programm des Loft bei 10–15 €. Das Lineup i
- st noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-18-cybertr
- ibe-pres-club-gspusi
+DESCRIPTION:Oben: Who is Ela¿\, maro\, Aschenbrenner\, Suitside\, DizzyD
+ ray\nUnten: AVO2X\, ENJA\, Goldi\, WO.IZZY\, Scheibenwischer\, DJ Backst
+ age\nVeranstalter: Cybertribe\nEintritt: 10–15 €\n\nDas Wiener Kolle
+ ktiv Cybertribe präsentiert „Club Gspusi“ im Loft – angekündigt 
+ als „deine neue Lieblingsbekanntschaft mit einer Schwäche für schnel
+ le Musik“. Oben läuft Trance und Bounce mit Who is Ela¿ b2b maro\, A
+ schenbrenner b2b Suitside sowie DizzyDray b2b Who is Ela¿. Unten gibt e
+ s House und Speed Garage mit AVO2X b2b ENJA\, Goldi b2b WO.IZZY und Sche
+ ibenwischer b2b DJ Backstage. Beginn 23:00\, Eintritt 10–15 €\, ab 1
+ 8\; der Loft betont einen sicheren\, inklusiven Dancefloor ohne Diskrimi
+ nierung.\n\nhttps://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
 URL:https://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
 END:VEVENT
 END:VCALENDAR

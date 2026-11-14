@@ -25,21 +25,4 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:2026-11-12-ingenieur-innen-ohne-grenzen-austria-kann-will@rave.wien
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=Europe/Vienna:20261112T170000
-DTEND;TZID=Europe/Vienna:20261112T220000
-SUMMARY:Ingenieur:innen ohne Grenzen Austria × Kann&Will!
-LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
-DESCRIPTION:Kann&Will\nVeranstalter: Kann&Will\nEintritt: 5–7 €\n\nAf
- ter-Work-Party von Ingenieur:innen ohne Grenzen Austria gemeinsam mit de
- m Kollektiv Kann&Will im Loop. Gespielt werden laut Loop House\, Drum an
- d Bass\, 2000er und Pop. Der gesamte Erlös geht an das Wasserprojekt LE
- NU von Ingenieur:innen ohne Grenzen Austria im Senegal. Eintritt 5–7 
- €.\n\nhttps://rave.wien/e/2026-11-12-ingenieur-innen-ohne-grenzen-aust
- ria-kann-will
-URL:https://rave.wien/e/2026-11-12-ingenieur-innen-ohne-grenzen-austria-k
- ann-will
-END:VEVENT
 END:VCALENDAR

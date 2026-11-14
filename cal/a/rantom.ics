@@ -26,6 +26,24 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-14-herzfrequenz-herzi-f2f-edition@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T230000
+DTEND;TZID=Europe/Vienna:20261115T060000
+SUMMARY:Herzfrequenz: Herzi F2F Edition
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Joey\, Crystal O\, DJ Wifi\, DJ Wolle\, Kat Ze\, Mischkonsum\
+ , Rantom\, Trugbild\, VIERZUDREI\nVeranstalter: Herzfrequenz\nEintritt: 
+ ab 18\,50 € (oeticket\, inkl. Gebühr)\n\nHerzfrequenz lädt zur „He
+ rzi Face 2 Face Edition“ ins Werk\, 23:00–06:00. Laut RA spielen Joe
+ y\, Crystal O\, DJ Wifi\, DJ Wolle\, Kat Ze\, Mischkonsum\, Rantom\, Tru
+ gbild und VIERZUDREI\; Floors und Set-Zeiten sind nicht angegeben. RA f
+ ührt das Event unter Trance und Techno. Tickets über oeticket ab 18\,5
+ 0 € inkl. Gebühr\, RA nennt 20 €\; Einlass ab 18.\n\nhttps://rave.w
+ ien/e/2026-11-14-herzfrequenz-herzi-f2f-edition
+URL:https://rave.wien/e/2026-11-14-herzfrequenz-herzi-f2f-edition
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-21-54hz-pres-creeds@rave.wien
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Vienna:20261121T230000

@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-12-out-of-space@rave.wien
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=Europe/Vienna:20261112T230000
-DTEND;TZID=Europe/Vienna:20261113T040000
-SUMMARY:OUT OF SPACE
-LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
-DESCRIPTION:Veranstalter: Out of Space\n\nNeue Ausgabe der Donnerstagsrei
- he OUT OF SPACE im Weberknecht\, Beginn 23 Uhr. Die Reihe steht für Psy
- trance-/Goa-Nächte am Gürtel\; frühere Ausgaben kosteten 5 €. Line-
- up\, Preis und Flyer dieser Ausgabe sind bisher nicht veröffentlicht 
- – Techno Airlines verweist auf ein RA-Event.\n\nhttps://rave.wien/e/20
- 26-11-12-out-of-space
-URL:https://rave.wien/e/2026-11-12-out-of-space
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-12-24-out-of-space-xmas-eve@rave.wien
 DTSTAMP:20261224T000000Z
 DTSTART;TZID=Europe/Vienna:20261224T230000

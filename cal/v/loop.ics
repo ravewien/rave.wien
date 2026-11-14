@@ -26,23 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-12-ingenieur-innen-ohne-grenzen-austria-kann-will@rave.wien
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=Europe/Vienna:20261112T170000
-DTEND;TZID=Europe/Vienna:20261112T220000
-SUMMARY:Ingenieur:innen ohne Grenzen Austria × Kann&Will!
-LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
-DESCRIPTION:Kann&Will\nVeranstalter: Kann&Will\nEintritt: 5–7 €\n\nAf
- ter-Work-Party von Ingenieur:innen ohne Grenzen Austria gemeinsam mit de
- m Kollektiv Kann&Will im Loop. Gespielt werden laut Loop House\, Drum an
- d Bass\, 2000er und Pop. Der gesamte Erlös geht an das Wasserprojekt LE
- NU von Ingenieur:innen ohne Grenzen Austria im Senegal. Eintritt 5–7 
- €.\n\nhttps://rave.wien/e/2026-11-12-ingenieur-innen-ohne-grenzen-aust
- ria-kann-will
-URL:https://rave.wien/e/2026-11-12-ingenieur-innen-ohne-grenzen-austria-k
- ann-will
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-14-stubble-rust@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T235500
@@ -50,9 +33,12 @@ DTEND;TZID=Europe/Vienna:20261115T040000
 SUMMARY:Stubble & Rust
 LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
 DESCRIPTION:Stubble & Rust\nEintritt: Freie Spende\n\nStubble & Rust ist 
- ein Wiener Vinyl-Duo\, das im Loop in den Stadtbahnbögen auflegt. Auf d
- em Programm stehen Funk\, Disco\, Nu Disco und House. Eintritt gegen fre
- ie Spende.\n\nhttps://rave.wien/e/2026-11-14-stubble-rust
+ ein Wiener Vinyl-DJ-Duo\, das im Loop in den Stadtbahnbögen am Gürtel 
+ auflegt. Ihre Sets bewegen sich in klassischem\, groovigem Stil zwischen
+  Funk\, Disco\, Nu Disco und House. Die Clubnacht läuft von 23:55 bis 0
+ 4:00\, im Anschluss an das Konzert der Jazz-Band The Peckers am selben A
+ bend. Eintritt gegen freie Spende.\n\nhttps://rave.wien/e/2026-11-14-stu
+ bble-rust
 URL:https://rave.wien/e/2026-11-14-stubble-rust
 END:VEVENT
 BEGIN:VEVENT

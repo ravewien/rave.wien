@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Luv Affair on Air · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-15-flut-x-callshop-radio-week-46@rave.wien
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Vienna:20261115T140000
+DTEND;TZID=Europe/Vienna:20261115T200000
+SUMMARY:FLUT x Callshop Radio – Week 46
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:High Noon Rockers\, Patches\, Luv Affair on Air\, Soundbügle
+ rei\, DJ Can't Commit\, I.Lim\, DJ Hill's Sunday\nVeranstalter: Callshop
+  Radio\, Spumante Records\nEintritt frei\n\nFLUT ist die Radioschiene de
+ s FLUCC in Kooperation mit Callshop Radio\, das auch in Düsseldorf\, Le
+ ipzig und Paris sendet\; die Session wird live über Stream 2 auf callsh
+ opradio.com übertragen. Week 46 gestaltet Spumante Records aus Wien auf
+  der Terrasse des FLUCC Deck (Seite Praterstern). Zu hören sind die Sho
+ ws High Noon Rockers\, Patches\, Luv Affair on Air\, Soundbüglerei\, Lo
+ w Frequency Logistics mit DJ Can't Commit und I.Lim sowie DJ Hill's Sund
+ ay\; einzelne Sendezeiten sind nicht angegeben. Die Bar hat während des
+  Streams geöffnet\, 14:00–20:00\, Eintritt frei.\n\nhttps://rave.wien
+ /e/2026-11-15-flut-x-callshop-radio-week-46
+URL:https://rave.wien/e/2026-11-15-flut-x-callshop-radio-week-46
+END:VEVENT
+END:VCALENDAR

@@ -29,18 +29,41 @@ BEGIN:VEVENT
 UID:2026-11-14-fifi-x-schrodinger-s-groove@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T230000
-DTEND;TZID=Europe/Vienna:20261115T040000
+DTEND;TZID=Europe/Vienna:20261115T060000
 SUMMARY:Fifi x Schrödinger's Groove
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Scheibenwischer\, Farbod\, Rui de Janeiro\nVeranstalter: Fifi
- \, Schroedinger's Groove\n\n„Groove Night“: gemeinsame Clubnacht der
-  Kollektive Fifi Rave (bekannt u. a. als Gastgeber des Rave am Mittwoch 
- im Werk) und Schrödinger's Groove in der FLUCC Wanne\, Beginn 23:00. Au
- f dem Lineup stehen Scheibenwischer\, Farbod und Rui de Janeiro\; Timeta
- ble und Floor-Aufteilung sind nicht veröffentlicht. Tickets laufen übe
- r Resident Advisor\, Preis und Ende sind in den gelesenen Quellen nicht 
- angegeben. In der Wanne ist eine Awareness-Person vor Ort.\n\nhttps://ra
- ve.wien/e/2026-11-14-fifi-x-schrodinger-s-groove
+DESCRIPTION:Scheibenwischer\, GØVI\, Adam19\, Farbod\, Rui de Janeiro\, 
+ Merilfox\nVeranstalter: Fifi\, Schroedinger's Groove\nEintritt: 10–15 
+ € (VVK 13 €)\n\n„Groove Night“: gemeinsame Clubnacht der Kollekt
+ ive Fifi Rave (bekannt u. a. als Gastgeber des Rave am Mittwoch im Werk)
+  und Schrödinger's Groove in der FLUCC Wanne\, 23:00–06:00. Die ganze
+  Nacht läuft Hardgroove\; als Hauptact angekündigt ist Scheibenwischer
+  (auf dem Flyer SCHEIBENWISCH3R)\, beworben mit ansteckenden Grooves\, e
+ igenem Sound und energiegeladenen Sets. Dazu spielen GØVI\, Adam19\, Fa
+ rbod\, Rui de Janeiro und Merilfox\; Set-Zeiten sind nicht veröffentlic
+ ht. Tickets im VVK 13 € über Eventfrog (laut FLUCC)\, RA nennt 10–1
+ 5 €\; ab 18. In der Wanne ist eine Awareness-Person vor Ort.\n\nhttps:
+ //rave.wien/e/2026-11-14-fifi-x-schrodinger-s-groove
 URL:https://rave.wien/e/2026-11-14-fifi-x-schrodinger-s-groove
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-cybertribe-pres-club-gspusi@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T230000
+DTEND;TZID=Europe/Vienna:20261219T040000
+SUMMARY:CYBERTRIBE pres. CLUB GSPUSI
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Oben: Who is Ela¿\, maro\, Aschenbrenner\, Suitside\, DizzyD
+ ray\nUnten: AVO2X\, ENJA\, Goldi\, WO.IZZY\, Scheibenwischer\, DJ Backst
+ age\nVeranstalter: Cybertribe\nEintritt: 10–15 €\n\nDas Wiener Kolle
+ ktiv Cybertribe präsentiert „Club Gspusi“ im Loft – angekündigt 
+ als „deine neue Lieblingsbekanntschaft mit einer Schwäche für schnel
+ le Musik“. Oben läuft Trance und Bounce mit Who is Ela¿ b2b maro\, A
+ schenbrenner b2b Suitside sowie DizzyDray b2b Who is Ela¿. Unten gibt e
+ s House und Speed Garage mit AVO2X b2b ENJA\, Goldi b2b WO.IZZY und Sche
+ ibenwischer b2b DJ Backstage. Beginn 23:00\, Eintritt 10–15 €\, ab 1
+ 8\; der Loft betont einen sicheren\, inklusiven Dancefloor ohne Diskrimi
+ nierung.\n\nhttps://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
+URL:https://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
 END:VEVENT
 END:VCALENDAR

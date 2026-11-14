@@ -80,6 +80,24 @@ DESCRIPTION:UV Project\, Norg3n\, Nasty\nEintritt frei / free entry\n\nTe
 URL:https://rave.wien/e/2026-11-19-teknoteka
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-xperiment-nights@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T235900
+DTEND;TZID=Europe/Vienna:20261129T060000
+SUMMARY:Xperiment Nights
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Leen Tilt\, MORASS\, DYMINIX\, DJ Ecoton\nVeranstalter: Xperi
+ ment Records\n\nWeitere Ausgabe der Reihe Xperiment Nights des Labels Xp
+ eriment Records im Kramladen unter dem Motto „Techno without Judgment!
+ “. Es spielen die Label-Artists Leen Tilt\, MORASS und DYMINIX\, dazu 
+ DJ Ecoton\, der nur im Beschreibungstext\, nicht aber im RA-Lineup genan
+ nt wird. Laut RA Techno\, 23:59–06:00. Preis\, Mindestalter und Ticket
+ infos sind nicht angegeben.\n\nhttps://rave.wien/e/2026-11-28-xperiment-
+ nights
+URL:https://rave.wien/e/2026-11-28-xperiment-nights
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-03-fifi-rave@rave.wien
 DTSTAMP:20261203T000000Z
 DTSTART;TZID=Europe/Vienna:20261203T233000

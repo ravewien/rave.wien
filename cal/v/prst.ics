@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-12-donnerstrada@rave.wien
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=Europe/Vienna:20261112T230000
-DTEND;TZID=Europe/Vienna:20261113T040000
-SUMMARY:Donnerstrada
-LOCATION:PRST\, Praterstraße 18\, 1020 Wien
-DESCRIPTION:Housefrau\, Zunidani\nVeranstalter: Donnerstrada\nEintritt fr
- ei\n\nDonnerstrada ist die Donnerstagsreihe in der PRST (Club Praterstra
- ße)\, angekündigt mit freiem Eintritt die ganze Nacht. Es legen Housef
- rau und Zunidani auf. Freytag führt den Abend unter Party und Techno\; 
- ein ausführlicher Beschreibungstext wurde nicht veröffentlicht.\n\nhtt
- ps://rave.wien/e/2026-11-12-donnerstrada
-URL:https://rave.wien/e/2026-11-12-donnerstrada
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-13-voyage-with-carl-h@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T230000

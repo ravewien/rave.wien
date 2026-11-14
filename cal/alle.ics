@@ -26,112 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-12-ingenieur-innen-ohne-grenzen-austria-kann-will@rave.wien
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=Europe/Vienna:20261112T170000
-DTEND;TZID=Europe/Vienna:20261112T220000
-SUMMARY:Ingenieur:innen ohne Grenzen Austria × Kann&Will!
-LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
-DESCRIPTION:Kann&Will\nVeranstalter: Kann&Will\nEintritt: 5–7 €\n\nAf
- ter-Work-Party von Ingenieur:innen ohne Grenzen Austria gemeinsam mit de
- m Kollektiv Kann&Will im Loop. Gespielt werden laut Loop House\, Drum an
- d Bass\, 2000er und Pop. Der gesamte Erlös geht an das Wasserprojekt LE
- NU von Ingenieur:innen ohne Grenzen Austria im Senegal. Eintritt 5–7 
- €.\n\nhttps://rave.wien/e/2026-11-12-ingenieur-innen-ohne-grenzen-aust
- ria-kann-will
-URL:https://rave.wien/e/2026-11-12-ingenieur-innen-ohne-grenzen-austria-k
- ann-will
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-12-sama-recordings-pres-schweben@rave.wien
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=Europe/Vienna:20261112T193000
-DTEND;TZID=Europe/Vienna:20261112T235900
-SUMMARY:sama recordings pres. schweben
-LOCATION:kv.r.\, Hernalser Hauptstraße 86\, 1170 Wien
-DESCRIPTION:Philipp Otterbach\, Adina Camhy\, Andrea Ida\nVeranstalter: s
- ama recordings\nEintritt: 16\,95–22\,60 € (Regular/Supporter)\n\ns c
-  h w e b e n ist die seit 2020 laufende Reihe von sama recordings zwisch
- en Avantgarde-Pop\, elektronischer Clubmusik und Experiment. Der deutsch
- e Produzent\, DJ und Remixer Philipp Otterbach zeigt bei seiner Wien-Pre
- miere ein neu entwickeltes Live-Set mit ambienten Klanglandschaften. Adi
- na Camhy (AT) spielt live mit Field Recordings\, Kirchenorgel-Improvisat
- ionen und Stimme zwischen Noise\, Ambient\, Drone und Industrial\; ihr A
- lbum „krst“ erschien 2025 bei smallforms. Andrea Ida (AT)\, Musikeri
- n und Moderatorin bei Noods Radio (Bristol)\, legt ein DJ-Set auf. Es gi
- lt ein Verhaltenskodex gegen Diskriminierung\, Belästigung kann per E-M
- ail oder beim Team vor Ort gemeldet werden\; Tickets als Regular oder Su
- pporter (Soli-Aufpreis).\n\nhttps://rave.wien/e/2026-11-12-sama-recordin
- gs-pres-schweben
-URL:https://rave.wien/e/2026-11-12-sama-recordings-pres-schweben
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-12-donnerstag-nacht-green-light-collective@rave.wien
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=Europe/Vienna:20261112T230000
-DTEND;TZID=Europe/Vienna:20261113T060000
-SUMMARY:Donnerstag Nacht × Green Light Collective
-LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Grenco\, Andreas\, Ian Staraj\, Andrija Mlacovic\nVeranstalte
- r: Green Light Collective\nEintritt: 10–15 € / Studierende 0–5 €
- \n\nDonnerstag Nacht im SASS Music Club mit dem kroatischen Green Light 
- Collective\, 2023 als „Collective of the Year“ ausgezeichnet und fes
- ter Bestandteil von Love International in Tisno\; zuvor ist das Kollekti
- v bei Radio Rudina in Wien zu Gast. Co-Gründer und Produzent Grenco spi
- elt nach der Energie des Raums statt nach festen Regeln\, Andreas aus Gr
- az ist visueller Leiter des Kollektivs und für abenteuerliche Plattenau
- swahl bekannt. Ian Staraj und Andrija Mlacovic treten gemeinsam als Duo 
- Phonophobes in kroatischen Clubs auf. Eintritt regulär 10–15 €\, St
- udierende 0–5 €\, jeweils inklusive Willkommensgetränk\; Awareness-
- Team vor Ort\, Einlass ab 18 mit Ausweis- und Taschenkontrolle.\n\nhttps
- ://rave.wien/e/2026-11-12-donnerstag-nacht-green-light-collective
-URL:https://rave.wien/e/2026-11-12-donnerstag-nacht-green-light-collective
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-12-donnerstrada@rave.wien
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=Europe/Vienna:20261112T230000
-DTEND;TZID=Europe/Vienna:20261113T040000
-SUMMARY:Donnerstrada
-LOCATION:PRST\, Praterstraße 18\, 1020 Wien
-DESCRIPTION:Housefrau\, Zunidani\nVeranstalter: Donnerstrada\nEintritt fr
- ei\n\nDonnerstrada ist die Donnerstagsreihe in der PRST (Club Praterstra
- ße)\, angekündigt mit freiem Eintritt die ganze Nacht. Es legen Housef
- rau und Zunidani auf. Freytag führt den Abend unter Party und Techno\; 
- ein ausführlicher Beschreibungstext wurde nicht veröffentlicht.\n\nhtt
- ps://rave.wien/e/2026-11-12-donnerstrada
-URL:https://rave.wien/e/2026-11-12-donnerstrada
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-12-pharmafest@rave.wien
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=Europe/Vienna:20261112T230000
-DTEND;TZID=Europe/Vienna:20261113T040000
-SUMMARY:Pharmafest
-LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
-DESCRIPTION:DJ Mimo\, DJ Etherdoll\nEintritt: 7 €\n\nDas Pharmafest fin
- det dieses Jahr im Loft statt\, unten im Club. DJ Mimo eröffnet mit Dis
- co und Tech\, danach spielt DJ Etherdoll Drum & Bass und Bounce. Einlass
-  und Musik ab 23:00\, Eintritt 7 €. Eine Endzeit und ein Mindestalter 
- nennt die Location nicht.\n\nhttps://rave.wien/e/2026-11-12-pharmafest
-URL:https://rave.wien/e/2026-11-12-pharmafest
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-12-out-of-space@rave.wien
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=Europe/Vienna:20261112T230000
-DTEND;TZID=Europe/Vienna:20261113T040000
-SUMMARY:OUT OF SPACE
-LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
-DESCRIPTION:Veranstalter: Out of Space\n\nNeue Ausgabe der Donnerstagsrei
- he OUT OF SPACE im Weberknecht\, Beginn 23 Uhr. Die Reihe steht für Psy
- trance-/Goa-Nächte am Gürtel\; frühere Ausgaben kosteten 5 €. Line-
- up\, Preis und Flyer dieser Ausgabe sind bisher nicht veröffentlicht 
- – Techno Airlines verweist auf ein RA-Event.\n\nhttps://rave.wien/e/20
- 26-11-12-out-of-space
-URL:https://rave.wien/e/2026-11-12-out-of-space
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-13-superego-records-labelnight-vantan-record-release@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T190000
@@ -659,18 +553,18 @@ BEGIN:VEVENT
 UID:2026-11-14-herzfrequenz-herzi-f2f-edition@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T230000
-DTEND;TZID=Europe/Vienna:20261115T040000
+DTEND;TZID=Europe/Vienna:20261115T060000
 SUMMARY:Herzfrequenz: Herzi F2F Edition
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Joey\, Crystal O\, DJ Wifi\, DJ Wolle\, Kat Ze\, Mischkonsum\
- , Trugbild\, VIERZUDREI\nVeranstalter: Herzfrequenz\nEintritt: ab 18\,50
-  € (oeticket\, inkl. Gebühr)\n\nHerzfrequenz lädt zur „Herzi Face 
- 2 Face Edition“ ins Werk. Laut Techno Airlines spielen Joey\, Crystal 
- O\, DJ Wifi\, DJ Wolle\, Kat Ze\, Mischkonsum\, Trugbild und VIERZUDREI\
- ; Floors und Set-Zeiten sind noch nicht angegeben. Beginn 23:00. Tickets
-  gibt es über oeticket (ab 18\,50 € inkl. Gebühr)\, RA führt das Ev
- ent ebenfalls mit Ticketverkauf.\n\nhttps://rave.wien/e/2026-11-14-herzf
- requenz-herzi-f2f-edition
+ , Rantom\, Trugbild\, VIERZUDREI\nVeranstalter: Herzfrequenz\nEintritt: 
+ ab 18\,50 € (oeticket\, inkl. Gebühr)\n\nHerzfrequenz lädt zur „He
+ rzi Face 2 Face Edition“ ins Werk\, 23:00–06:00. Laut RA spielen Joe
+ y\, Crystal O\, DJ Wifi\, DJ Wolle\, Kat Ze\, Mischkonsum\, Rantom\, Tru
+ gbild und VIERZUDREI\; Floors und Set-Zeiten sind nicht angegeben. RA f
+ ührt das Event unter Trance und Techno. Tickets über oeticket ab 18\,5
+ 0 € inkl. Gebühr\, RA nennt 20 €\; Einlass ab 18.\n\nhttps://rave.w
+ ien/e/2026-11-14-herzfrequenz-herzi-f2f-edition
 URL:https://rave.wien/e/2026-11-14-herzfrequenz-herzi-f2f-edition
 END:VEVENT
 BEGIN:VEVENT
@@ -698,18 +592,21 @@ BEGIN:VEVENT
 UID:2026-11-14-fifi-x-schrodinger-s-groove@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T230000
-DTEND;TZID=Europe/Vienna:20261115T040000
+DTEND;TZID=Europe/Vienna:20261115T060000
 SUMMARY:Fifi x Schrödinger's Groove
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Scheibenwischer\, Farbod\, Rui de Janeiro\nVeranstalter: Fifi
- \, Schroedinger's Groove\n\n„Groove Night“: gemeinsame Clubnacht der
-  Kollektive Fifi Rave (bekannt u. a. als Gastgeber des Rave am Mittwoch 
- im Werk) und Schrödinger's Groove in der FLUCC Wanne\, Beginn 23:00. Au
- f dem Lineup stehen Scheibenwischer\, Farbod und Rui de Janeiro\; Timeta
- ble und Floor-Aufteilung sind nicht veröffentlicht. Tickets laufen übe
- r Resident Advisor\, Preis und Ende sind in den gelesenen Quellen nicht 
- angegeben. In der Wanne ist eine Awareness-Person vor Ort.\n\nhttps://ra
- ve.wien/e/2026-11-14-fifi-x-schrodinger-s-groove
+DESCRIPTION:Scheibenwischer\, GØVI\, Adam19\, Farbod\, Rui de Janeiro\, 
+ Merilfox\nVeranstalter: Fifi\, Schroedinger's Groove\nEintritt: 10–15 
+ € (VVK 13 €)\n\n„Groove Night“: gemeinsame Clubnacht der Kollekt
+ ive Fifi Rave (bekannt u. a. als Gastgeber des Rave am Mittwoch im Werk)
+  und Schrödinger's Groove in der FLUCC Wanne\, 23:00–06:00. Die ganze
+  Nacht läuft Hardgroove\; als Hauptact angekündigt ist Scheibenwischer
+  (auf dem Flyer SCHEIBENWISCH3R)\, beworben mit ansteckenden Grooves\, e
+ igenem Sound und energiegeladenen Sets. Dazu spielen GØVI\, Adam19\, Fa
+ rbod\, Rui de Janeiro und Merilfox\; Set-Zeiten sind nicht veröffentlic
+ ht. Tickets im VVK 13 € über Eventfrog (laut FLUCC)\, RA nennt 10–1
+ 5 €\; ab 18. In der Wanne ist eine Awareness-Person vor Ort.\n\nhttps:
+ //rave.wien/e/2026-11-14-fifi-x-schrodinger-s-groove
 URL:https://rave.wien/e/2026-11-14-fifi-x-schrodinger-s-groove
 END:VEVENT
 BEGIN:VEVENT
@@ -794,9 +691,12 @@ DTEND;TZID=Europe/Vienna:20261115T040000
 SUMMARY:Stubble & Rust
 LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
 DESCRIPTION:Stubble & Rust\nEintritt: Freie Spende\n\nStubble & Rust ist 
- ein Wiener Vinyl-Duo\, das im Loop in den Stadtbahnbögen auflegt. Auf d
- em Programm stehen Funk\, Disco\, Nu Disco und House. Eintritt gegen fre
- ie Spende.\n\nhttps://rave.wien/e/2026-11-14-stubble-rust
+ ein Wiener Vinyl-DJ-Duo\, das im Loop in den Stadtbahnbögen am Gürtel 
+ auflegt. Ihre Sets bewegen sich in klassischem\, groovigem Stil zwischen
+  Funk\, Disco\, Nu Disco und House. Die Clubnacht läuft von 23:55 bis 0
+ 4:00\, im Anschluss an das Konzert der Jazz-Band The Peckers am selben A
+ bend. Eintritt gegen freie Spende.\n\nhttps://rave.wien/e/2026-11-14-stu
+ bble-rust
 URL:https://rave.wien/e/2026-11-14-stubble-rust
 END:VEVENT
 BEGIN:VEVENT
@@ -867,14 +767,18 @@ DTSTART;TZID=Europe/Vienna:20261115T140000
 DTEND;TZID=Europe/Vienna:20261115T200000
 SUMMARY:FLUT x Callshop Radio – Week 46
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Veranstalter: Callshop Radio\, Spumante Records\nEintritt fre
- i\n\nFLUT ist die Radioschiene des FLUCC in Kooperation mit Callshop Rad
- io\, das auch in Düsseldorf\, Leipzig und Paris sendet\; die Session wi
- rd über Stream 2 auf callshopradio.com übertragen. Week 46 kuratieren 
- Spumante Records aus Wien\, das Lineup ist noch offen. Während des Stre
- ams hat die Deck Bar geöffnet\, Gäste können den Sonntagnachmittag mi
- t Live-DJs verbringen. Von 14:00 bis 20:00\, Eintritt frei.\n\nhttps://r
- ave.wien/e/2026-11-15-flut-x-callshop-radio-week-46
+DESCRIPTION:High Noon Rockers\, Patches\, Luv Affair on Air\, Soundbügle
+ rei\, DJ Can't Commit\, I.Lim\, DJ Hill's Sunday\nVeranstalter: Callshop
+  Radio\, Spumante Records\nEintritt frei\n\nFLUT ist die Radioschiene de
+ s FLUCC in Kooperation mit Callshop Radio\, das auch in Düsseldorf\, Le
+ ipzig und Paris sendet\; die Session wird live über Stream 2 auf callsh
+ opradio.com übertragen. Week 46 gestaltet Spumante Records aus Wien auf
+  der Terrasse des FLUCC Deck (Seite Praterstern). Zu hören sind die Sho
+ ws High Noon Rockers\, Patches\, Luv Affair on Air\, Soundbüglerei\, Lo
+ w Frequency Logistics mit DJ Can't Commit und I.Lim sowie DJ Hill's Sund
+ ay\; einzelne Sendezeiten sind nicht angegeben. Die Bar hat während des
+  Streams geöffnet\, 14:00–20:00\, Eintritt frei.\n\nhttps://rave.wien
+ /e/2026-11-15-flut-x-callshop-radio-week-46
 URL:https://rave.wien/e/2026-11-15-flut-x-callshop-radio-week-46
 END:VEVENT
 BEGIN:VEVENT
@@ -1978,12 +1882,19 @@ DTSTART;TZID=Europe/Vienna:20261128T220000
 DTEND;TZID=Europe/Vienna:20261129T060000
 SUMMARY:Apartment Acht Birthday Rave
 LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
-DESCRIPTION:Veranstalter: Apartment Acht\nEintritt: 15–25 €\n\nDas Wi
- ener Kollektiv Apartment Acht feiert im Funkhaus Geburtstag. Das Lineup 
- ist noch geheim – zwei internationale Gäste werden später verraten\,
-  Boris bringt sein Soundsystem aus Slowenien mit. 22:00–06:00\, Early 
- Bird 15 € bzw. 20 €\, regulär 25 €\, ab 18.\n\nhttps://rave.wien/
- e/2026-11-28-apartment-acht-birthday-rave
+DESCRIPTION:Veranstalter: Apartment Acht\nEintritt: 15–25 € (Shop-Tic
+ kets 20 €)\n\nDas Wiener Kollektiv Apartment Acht feiert im Funkhaus d
+ en ersten Geburtstag seines neuen Shops in der Reindorfgasse 44 (15. Bez
+ irk)\; tagsüber gibt es dort ein In-Store-Programm\, danach geht es ins
+  Funkhaus\, das alte Radiogebäude vor seinem geplanten Umbau. Das Lineu
+ p ist geheim: zwei internationale Gäste werden später verraten\, Boris
+  bringt sein Soundsystem aus Slowenien mit. Laut RA Techno und House\, 2
+ 2:00–06:00\, ab 18. Tickets: Early Bird 15 € bzw. 20 € (limitiert\
+ , über RA)\, regulär 25 €\, Shop-Tickets 20 €\; Resttickets an der
+  Abendkasse nach dem Prinzip „first come\, first served“\, keine Gä
+ ste- oder Freundeslisten\, Soli-Tickets per E-Mail. Hausregeln: keine Ha
+ ndys\, keine Fotos\, die Tanzfläche ist zum Tanzen da.\n\nhttps://rave.
+ wien/e/2026-11-28-apartment-acht-birthday-rave
 URL:https://rave.wien/e/2026-11-28-apartment-acht-birthday-rave
 END:VEVENT
 BEGIN:VEVENT
@@ -2137,6 +2048,24 @@ DESCRIPTION:COIDO\, Wingz\, yarx\, vazov\, fejv\nVeranstalter: CitrusCue\
 URL:https://rave.wien/e/2026-11-28-citruscue-presents-coido-wingz
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-xperiment-nights@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T235900
+DTEND;TZID=Europe/Vienna:20261129T060000
+SUMMARY:Xperiment Nights
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Leen Tilt\, MORASS\, DYMINIX\, DJ Ecoton\nVeranstalter: Xperi
+ ment Records\n\nWeitere Ausgabe der Reihe Xperiment Nights des Labels Xp
+ eriment Records im Kramladen unter dem Motto „Techno without Judgment!
+ “. Es spielen die Label-Artists Leen Tilt\, MORASS und DYMINIX\, dazu 
+ DJ Ecoton\, der nur im Beschreibungstext\, nicht aber im RA-Lineup genan
+ nt wird. Laut RA Techno\, 23:59–06:00. Preis\, Mindestalter und Ticket
+ infos sind nicht angegeben.\n\nhttps://rave.wien/e/2026-11-28-xperiment-
+ nights
+URL:https://rave.wien/e/2026-11-28-xperiment-nights
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-morgengymnastik-donaurave@rave.wien
 DTSTAMP:20261129T000000Z
 DTSTART;TZID=Europe/Vienna:20261129T060000
@@ -2203,8 +2132,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-tonic-walter-ii-tour-2026@rave.wien
 DTSTAMP:20261202T000000Z
-DTSTART;TZID=Europe/Vienna:20261202T200000
-DTEND;TZID=Europe/Vienna:20261203T010000
+DTSTART;TZID=Europe/Vienna:20261202T190000
+DTEND;TZID=Europe/Vienna:20261203T000000
 SUMMARY:Tonic Walter – II Tour 2026
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
 DESCRIPTION:Tonic Walter\n\nDas Duo Tonic Walter kommt mit seiner „II T
@@ -3027,12 +2956,17 @@ DTSTART;TZID=Europe/Vienna:20261218T230000
 DTEND;TZID=Europe/Vienna:20261219T040000
 SUMMARY:CYBERTRIBE pres. CLUB GSPUSI
 LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
-DESCRIPTION:Veranstalter: Cybertribe\nEintritt: 10–15 €\n\nDas Wiener
-  Kollektiv Cybertribe präsentiert „Club Gspusi“ im Loft am Lerchenf
- elder Gürtel. Gespielt wird auf zwei Floors (Oben und Unten) ab 23:00\,
-  der Eintritt liegt laut Programm des Loft bei 10–15 €. Das Lineup i
- st noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-18-cybertr
- ibe-pres-club-gspusi
+DESCRIPTION:Oben: Who is Ela¿\, maro\, Aschenbrenner\, Suitside\, DizzyD
+ ray\nUnten: AVO2X\, ENJA\, Goldi\, WO.IZZY\, Scheibenwischer\, DJ Backst
+ age\nVeranstalter: Cybertribe\nEintritt: 10–15 €\n\nDas Wiener Kolle
+ ktiv Cybertribe präsentiert „Club Gspusi“ im Loft – angekündigt 
+ als „deine neue Lieblingsbekanntschaft mit einer Schwäche für schnel
+ le Musik“. Oben läuft Trance und Bounce mit Who is Ela¿ b2b maro\, A
+ schenbrenner b2b Suitside sowie DizzyDray b2b Who is Ela¿. Unten gibt e
+ s House und Speed Garage mit AVO2X b2b ENJA\, Goldi b2b WO.IZZY und Sche
+ ibenwischer b2b DJ Backstage. Beginn 23:00\, Eintritt 10–15 €\, ab 1
+ 8\; der Loft betont einen sicheren\, inklusiven Dancefloor ohne Diskrimi
+ nierung.\n\nhttps://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
 URL:https://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
 END:VEVENT
 BEGIN:VEVENT
