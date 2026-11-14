@@ -4,7 +4,7 @@ name: Vorschauseiten
 on:
   push:
     branches: [main]
-    paths: [events.js, past.js, .github/scripts/previews.js, .github/scripts/stats.js, .github/scripts/logos.js, .github/scripts/geocode.js]
+    paths: [events.js, past.js, .github/scripts/previews.js, .github/scripts/stats.js, .github/scripts/logos.js, .github/scripts/geocode.js, .github/scripts/ics.js, .github/scripts/version.js]
   workflow_dispatch:
 permissions:
   contents: write

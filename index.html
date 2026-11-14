@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-6AHMmYtwwNfZe5QB+uFAVMM/T1b0ZIvEA59KFDBofus='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-MWDd4t8vzFJiGJMT+55gTNZF7AT9Wky+taLx6OL+a4A='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -68,14 +68,29 @@ a{color:inherit}
 #msearch .lbl{display:none}
 #msearch:empty{display:none}
 .dscrim{position:fixed;inset:0;z-index:13;background:rgba(0,0,0,.6)}
+/* Handy: Das Filtermenü trägt rechts außen eine schmale schwarze Lasche „Filter“. Beim ersten Besuch lugt es einmal kurz herein. */
+.sidetab{display:none}
+@media (max-width:879px){
+  .sidetab{position:absolute;top:0;bottom:0;left:100%;width:34px;box-sizing:border-box;padding-top:calc(env(safe-area-inset-top,0px) + 8px);display:grid;grid-template-rows:auto 1fr;justify-items:center;
+    background:var(--bg);border-left:1px solid var(--line);border-right:1px solid var(--line);color:var(--fg);cursor:pointer}
+  .sidetab span{align-self:center;margin-bottom:44px;writing-mode:vertical-rl;font-family:var(--f-display);font-weight:700;font-size:14px;letter-spacing:.24em;text-transform:uppercase;white-space:nowrap}
+  .sidetab button{width:28px;height:36px;padding:0;border:1px solid var(--line);border-radius:3px;background:var(--panel2);color:var(--fg);font-size:17px;line-height:1}
+  .side:not(.open) .sidetab button{visibility:hidden}
+  @keyframes sidepeek{0%{transform:translateX(calc(-100% - 40px))}20%,72%{transform:translateX(calc(-100% + 64px))}100%{transform:translateX(calc(-100% - 40px))}}
+  .side.peek{visibility:visible;animation:sidepeek 2.4s cubic-bezier(.3,.7,.3,1) 1}
+  /* Wer Bewegung abgeschaltet hat, bekommt dasselbe ohne Schieben: der Rand blendet kurz ein und wieder aus */
+  @keyframes sidepeekfade{0%,100%{opacity:0}18%,78%{opacity:1}}
+  .side.peek.still{transform:translateX(calc(-100% + 64px));transition:none;animation:sidepeekfade 2.6s linear 1}
+}
 @media (max-width:879px){
   .burger{display:inline-block}
-  .side{position:fixed;top:0;bottom:0;left:0;z-index:14;width:min(86vw,340px);overflow-y:auto;border-radius:0;border:0;border-right:1px solid var(--line);
-    padding:calc(env(safe-area-inset-top,0px) + 12px) 14px calc(env(safe-area-inset-bottom,0px) + 20px) max(14px,env(safe-area-inset-left,0px));transform:translateX(-102%);visibility:hidden}
+  .side{position:fixed;top:0;bottom:0;left:0;z-index:14;width:min(calc(100vw - 50px),340px);overflow:visible;border-radius:0;border:0;padding:0;transform:translateX(calc(-100% - 40px));visibility:hidden}
+  aside.side{padding:0;border:0;border-radius:0}
+  .sidein{height:100%;box-sizing:border-box;overflow-y:auto;overscroll-behavior:contain;
+    padding:calc(env(safe-area-inset-top,0px) + 12px) 12px calc(env(safe-area-inset-bottom,0px) + 20px) max(12px,env(safe-area-inset-left,0px))}
   .side.open{transform:none;visibility:visible}
-  .drawer-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
+  .drawer-head{display:none}
   .drawer-head b{font-family:var(--f-pixel);font-weight:900;font-size:20px}
-  .drawer-head button{width:32px;height:32px;border:1px solid var(--line);border-radius:3px;background:var(--panel2);font-size:18px}
   .top{gap:8px 5px;flex-wrap:wrap}
   .top .spacer{flex:1 1 0;min-width:0}
   .top .seg[aria-label="View"]{order:3;width:100%;display:flex}
@@ -141,8 +156,8 @@ a{color:inherit}
 
 /* layout */
 .browser{margin-top:12px;display:grid;gap:12px;grid-template-columns:1fr;align-items:start}
-@media (min-width:880px){.browser{grid-template-columns:240px minmax(0,1fr)}}
-@media (min-width:1200px){.browser{grid-template-columns:240px minmax(0,1fr) minmax(340px,400px)}}
+@media (min-width:880px){.browser{grid-template-columns:264px minmax(0,1fr)}}
+@media (min-width:1200px){.browser{grid-template-columns:264px minmax(0,1fr) minmax(340px,400px)}}
 
 /* deck */
 .deck{background:var(--panel);border:1px solid var(--line);border-radius:4px;padding:16px;display:grid;gap:16px;align-content:start}
@@ -284,6 +299,18 @@ body.vw-loc{--accent:var(--c-ven);--accent-fg:#06140a;--sel:#173f20}
   .deck.empty:not(.gone){display:none}
 }
 .deck-empty{display:flex;align-items:center;gap:14px;color:var(--mute);min-height:120px}
+.welcome h2{margin:0 0 16px;padding:0;font-size:24px}
+.welcome .wbrand{white-space:nowrap;text-transform:lowercase;letter-spacing:.02em}
+.welcome .wbrand .dot{display:inline-block;width:.16em;height:.16em;background:var(--accent);margin:0 .12em 0 .02em;vertical-align:baseline}
+.welcome .wlead{margin:0 0 16px;color:var(--fg);font-size:14px;line-height:1.5}
+.welcome .wdid{margin:0 0 10px;font-family:var(--f-mono);font-size:11px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--mute)}
+.welcome dl{margin:0;display:grid;gap:12px}
+.welcome dl>div{border-top:1px solid var(--line);padding-top:12px;display:grid;grid-template-columns:30px minmax(0,1fr);column-gap:12px}
+.welcome .wi{grid-row:1/3;width:30px;height:30px;display:grid;place-items:center;color:var(--fg);font-size:22px;font-weight:800;line-height:1}
+.welcome .wi svg{width:22px;height:22px;display:block}
+.welcome .wi-fav{font-size:24px}
+.welcome dt{font-family:var(--f-mono);font-size:10.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin-bottom:3px;align-self:end}
+.welcome dd{margin:0;color:var(--mute);font-size:13px;line-height:1.5}
 .disc{width:52px;height:52px;border-radius:50%;border:2px solid var(--line);display:grid;place-items:center;font-family:var(--f-mono);font-size:10px;flex:none}
 .deck-empty b{display:block;font-family:var(--f-pixel);font-weight:800;font-size:18px;color:var(--fg);margin-bottom:2px}
 .dhead{position:relative}
@@ -577,8 +604,10 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
 /* sidebar */
 .side{background:var(--panel);border:1px solid var(--line);border-radius:3px;padding:12px}
 .lbl{font-family:var(--f-mono);font-size:10px;color:var(--mute);letter-spacing:.1em;text-transform:uppercase}
-.sbox{position:relative;margin:4px 0 4px}
-.search{width:100%;background:var(--panel2);border:1px solid var(--line);border-radius:3px;padding:8px 10px}
+.sbox{position:relative;margin:0 0 4px}
+.search{width:100%;background:var(--panel2);border:1px solid var(--line);border-radius:3px;padding:8px 10px 8px 32px}
+#t-searchlbl{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.sico{position:absolute;left:9px;top:50%;transform:translateY(-50%);width:15px;height:15px;color:var(--mute);pointer-events:none;display:block}.sico svg{width:15px;height:15px;display:block}.sbox:focus-within .sico{color:var(--fg)}
 .sugg{position:absolute;left:0;right:0;top:calc(100% + 4px);z-index:12;background:var(--panel2);border:1px solid var(--line);border-radius:3px;box-shadow:0 10px 30px rgba(0,0,0,.5);max-height:320px;overflow:auto;padding:4px}
 .sg{display:grid;grid-template-columns:1fr auto;column-gap:8px;row-gap:2px;align-items:baseline;width:100%;text-align:left;background:transparent;border:0;border-radius:2px;padding:7px 9px;font-size:14px;line-height:1.35;color:var(--fg)}
 .sg .ty{grid-column:1;grid-row:1}
@@ -610,7 +639,7 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
 .active-f button.exc small{text-decoration:none;display:inline-block;color:var(--neg)}
 .opt.inc::before{content:"●";color:var(--accent);margin-left:-13px;margin-right:4px;font-size:9px;line-height:1.9}
 .opt span{min-width:0;overflow-wrap:anywhere;flex:1}
-.opt[data-k="time"][data-n="night"] span{color:var(--accent)}.opt[data-k="time"][data-n="day"] span{color:rgb(var(--day))}.opt[data-k="time"][data-n="after"] span{color:rgb(var(--aft))}
+.opt[data-k="time"][data-n="night"] span{color:var(--c-ev)}.opt[data-k="time"][data-n="day"] span{color:rgb(var(--day))}.opt[data-k="time"][data-n="after"] span{color:rgb(var(--aft))}
 .opt span .xd{display:inline-grid;place-items:center;width:14px;height:14px;margin-right:7px;vertical-align:-2px;background:none;border-radius:0;font-style:normal;font-weight:800;font-size:13px;color:var(--c-ev)}.opt span .xd svg{width:13px;height:13px}.opt span .xd.xm{color:var(--mute)}.opt span .xd.xa{width:auto;margin:0 0 0 5px;vertical-align:0}.opt span .xd.xi{color:#5b9cf0}.opt span .xd.xo{color:#3e9d5c}
 .opt span .fage{display:inline-block;font-family:var(--f-mono);font-weight:700;font-size:11px;line-height:1;padding:3px 5px;border-radius:3px;border:1px solid var(--line);color:var(--fg)}
 .opt em{font-style:normal;font-family:var(--f-mono);font-size:11px;color:var(--mute)}
@@ -645,6 +674,14 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
 .active-f button{background:var(--sel);border:0;border-radius:3px;padding:2px 8px;font-size:12px}
 .active-f button small{color:var(--mute);margin-right:4px}
 .active-f button::after{content:" ×";color:var(--mute)}
+/* Filter filtern alles weg: Tags blinken abwechselnd in Themenfarbe und Rot, bis das Ergebnis nicht mehr leer ist */
+@keyframes fblink{0%,45%{background:var(--accent);color:#000}50%,95%{background:var(--cueA);color:#fff}100%{background:var(--accent);color:#000}}
+.active-f.nomatch button{background:var(--cueA);color:#fff;animation:fblink 1.2s linear infinite}
+.active-f.nomatch button small,.active-f.nomatch button::after{color:inherit;opacity:.85}
+@media (prefers-reduced-motion:reduce){.active-f.nomatch button{animation:none}}
+html.a-motion .active-f.nomatch button{animation:none}
+.ereset{margin-top:14px;border:1px solid var(--accent);background:none;color:var(--accent);border-radius:3px;padding:7px 16px;font-family:var(--f-display);font-weight:600;font-size:13px;letter-spacing:.08em;text-transform:uppercase}
+.ereset:hover{background:var(--accent);color:#000}
 @media (min-width:880px){.side{position:sticky;top:calc((env(safe-area-inset-top,0px) + var(--top) + 12px) / var(--z,1));max-height:calc((100vh - var(--top) - 24px) / var(--z,1));overflow:auto;scrollbar-width:thin}}
 @media (max-width:879px){#msearch{position:sticky;top:calc((env(safe-area-inset-top,0px) + var(--top)) / var(--z,1));z-index:8;background:var(--bg);margin-top:0;padding:8px 0}}
 .daygap{height:14px;background:var(--bg);border-top:0;border-bottom:1px solid var(--line);margin:0 -1px}
@@ -761,10 +798,29 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
 .dots{display:flex;flex-wrap:wrap;justify-content:center;gap:3px;max-width:100%}
 .dots i{width:6px;height:6px;border-radius:50%}
 .daylist{display:block;border-top:1px solid var(--line)}
+/* Mini-Kalender in der Filterspalte (nur wo die Spalte sichtbar ist) – wirkt als Datumsfilter */
+#mcal{display:none}
+@media (min-width:880px){#mcal{display:block;border-top:1px solid var(--line);padding-top:10px;margin-top:10px;user-select:none;-webkit-user-select:none}#v-cal{display:none}}
+.mchead{display:flex;align-items:center;justify-content:space-between;gap:6px;margin-bottom:6px}
+.mchead b{font-family:var(--f-pixel);font-weight:900;font-size:15px;text-transform:lowercase;white-space:nowrap}
+.mchead button{width:26px;height:24px;border:1px solid var(--line);border-radius:3px;background:var(--panel2);font-family:var(--f-mono);font-size:13px;line-height:1;padding:0}
+.mchead button:disabled{opacity:.3;cursor:default}
+.mcgrid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));row-gap:1px;touch-action:none}
+.mcgrid .wd{font-family:var(--f-mono);font-size:9px;color:var(--mute);text-align:center;text-transform:uppercase;padding:2px 0 4px}
+.mc{appearance:none;-webkit-appearance:none;border:0;background:none;color:var(--fg);font-family:var(--f-mono);font-size:12.5px;line-height:1;height:30px;padding:0;display:grid;place-items:center;cursor:pointer;border-radius:3px;min-width:0}
+.mc:hover{background:var(--panel2)}
+.mc.has{color:var(--accent);font-weight:700}            /* Tage mit Events: Themenfarbe */
+.mc.past,.mc.past.has{color:var(--mute);font-weight:400}  /* vergangene Tage: grau */
+.mc.other{opacity:.45}
+.mc.today{box-shadow:inset 0 0 0 1.5px var(--accent)}   /* heute: umrandet */
+.mc.in,.mc.in:hover,.mc.in.past{background:var(--accent);color:#000;font-weight:700;border-radius:0;opacity:1}
+.mc.in.a{border-top-left-radius:3px;border-bottom-left-radius:3px}.mc.in.b{border-top-right-radius:3px;border-bottom-right-radius:3px}
+.mc:focus-visible{outline:2px solid var(--fg);outline-offset:-2px}
+.mcfoot{margin-top:7px;font-size:11px;line-height:1.35;color:var(--mute)}
 .legend{display:flex;flex-wrap:wrap;gap:4px 12px;padding:8px 12px;border-top:1px solid var(--line);font-size:11px;color:var(--mute)}
 .legend span{display:inline-flex;align-items:center;gap:5px}
 .legend i{width:8px;height:8px;border-radius:50%;flex:none}
-.t-night{background:var(--accent)}.t-day{background:rgb(var(--day))}.t-after{background:rgb(var(--aft))}.t-unk{background:var(--mute)}
+.t-night{background:var(--c-ev)}.t-day{background:rgb(var(--day))}.t-after{background:rgb(var(--aft))}.t-unk{background:var(--mute)}
 @media (max-width:639px){
   .cell{min-height:52px;padding:5px 2px;gap:2px}
   .cell .n{font-size:13px}
@@ -864,7 +920,7 @@ footer a:hover{color:var(--accent)}
 @media (max-width:879px){
   .list-head:has(#activef:empty):has(#pastbtn[hidden]){display:none}
   #msearch{padding:4px 0}
-  #msearch .search{padding:7px 10px}
+  #msearch .search{padding:7px 10px 7px 32px}
   .browser{margin-top:6px}
 }
 /* Platzhalter-Kacheln: Person / Gruppe als Symbol, Initialen gut lesbar */
@@ -963,17 +1019,22 @@ html.a-cursor :is(a,button,[role=button],label,summary,input,select,[data-vopen]
 <div id="msearch"></div>
 <section class="browser">
   <aside class="side" id="side" aria-label="Filter">
-    <div class="drawer-head"><b id="t-filter">Filter</b><button id="dclose" aria-label="Close">×</button></div>
+    <div class="sidein" id="sidein">
+    <div class="drawer-head"><b id="t-filter" hidden>Filter</b></div>
     <div id="searchwrap"><label class="lbl" for="q" id="t-searchlbl"></label>
     <div class="sbox">
+      <span class="sico" aria-hidden="true"><svg viewBox="0 0 16 16"><circle cx="6.8" cy="6.8" r="4.3" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M10 10l4 4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg></span>
       <input class="search" id="q" type="search" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="sugg" aria-autocomplete="list">
       <button class="qx" id="qx" type="button" hidden>×</button>
       <div class="sugg" id="sugg" role="listbox" hidden></div>
     </div><div class="favask" id="favask" hidden></div></div>
+    <div id="mcal"></div>
     <div id="trees"></div>
     <button class="reset" id="reset"></button>
     <button class="reset save" id="savef" hidden></button>
     <div class="savemsg" id="savemsg" aria-live="polite"></div>
+    </div>
+    <div class="sidetab" id="sidetab"><button id="dclose" type="button" aria-label="Close">×</button><span id="sidetabl" aria-hidden="true"></span></div>
   </aside>
   <div class="mid">
     <div class="list">
@@ -1038,7 +1099,7 @@ const aplay=(c,P)=>{if(!P||typeof EMBED==="undefined"||!EMBED)return "";const s=
   return `<button type="button" class="aplay${DOCK.u===s.u?" on":""}" data-play="${esc(su(s.u))}" data-pt="${esc(fold(t).includes(fold(c))?t:c+" – "+t)}" title="${esc(L().listenS+": "+t)}" aria-label="${esc(L().listenS+": "+c)}">${ICPLAY}</button>`};
 const abtn=(n,H,P)=>splitA(n).map(x=>{const c=canon(x),h=H&&H.has(c);return `<span class="an"><button data-artist="${esc(c)}"${h?` class="hl" title="Headliner"`:""}>${esc(x)}</button>${aplay(c,P)}</span>`}).join('<span class="b2b">b2b</span>');
 function richness(e){return (e.floors?e.floors.reduce((n,f)=>n+f.a.length,0):0)*3+(e.genres||[]).length+(e.coll||[]).length+(e.tickets?2:0)+(e.e?1:0)+(e.price?1:0)}
-const akey=n=>fold(n).replace(/\s(und|and)\s/g," ").replace(/\((live|dj set|[a-z]{2,3})\)/g,"").replace(/[^a-z0-9¿øæ]/g,"");
+const AKC=new Map();const akey=n=>{let v=AKC.get(n);if(v===undefined){v=fold(n).replace(/\s(und|and)\s/g," ").replace(/\((live|dj set|[a-z]{2,3})\)/g,"").replace(/[^a-z0-9¿øæ]/g,"");AKC.set(n,v)}return v};
 const aliasArr=x=>Array.isArray(x&&x.alias)?x.alias.filter(s=>typeof s==="string"&&s.trim()).map(s=>s.trim()):[];
 const CANON=(()=>{const c={};const add=(n,w)=>{n=String(n).trim();if(!n||n==="TBA")return;const k=akey(n);if(!k)return;(c[k]=c[k]||{})[n]=(c[k][n]||0)+(w||1)};
   RAW.forEach(e=>(e.floors||[]).forEach(f=>f.a.flatMap(a=>splitA(nm(a))).forEach(n=>add(n))));
@@ -1088,25 +1149,41 @@ const NOW=new Date();
 const EV=ALL.filter(e=>endTime(e)>NOW);
 
 const T={
- de:{latestSC:"Neueste Tracks & Sets auf SoundCloud",latestMC:"Mixes auf Mixcloud",latestSP:"Auf Spotify anhören",webS:"Website",listenS:"Anhören",routeS:"Route",since:"Seit",djs:"DJs",upShortU:"Kommend",nextS:"Nächster",gigs:"Auftritte",resShort:"Resident",floorsSound:"Floors & Sound",nextEv:"Nächste Events",moreShow:"weitere anzeigen",showAllN:"alle % anzeigen ▾",ticketsS:"Tickets",srcBtn:"Quelle",akOnly:"Nur Abendkasse",noTix:"Kein Vorverkauf",zeroS:"Null Toleranz",pullPast:"↑ weiter ziehen für vergangene Events",stackClose:"Stack schließen",playNote:"Abspielen lädt den Player von SoundCloud, Mixcloud bzw. Spotify (Drittanbieter, setzt Cookies). Er spielt unten weiter, während du weiterstöberst.",phTxt:"Dieser Player wird von % geladen. Dabei werden Daten an % übertragen und Cookies gesetzt.",phBtn:"%-Player laden",phOpen:"Auf % öffnen",ckT:"Cookies & Drittanbieter",ckTxt:"rave.wien selbst setzt keine Tracking-Cookies. Favoriten und Filter werden nur auf deinem Gerät gespeichert. Flyer-Bilder (direkt von den Websites der Veranstalter) und Player von SoundCloud, Mixcloud und Spotify sowie die Karte (CARTO) laden erst, wenn du zustimmst.",ckMore:"Datenschutz",ckEss:"Nur essenzielle",ckAll:"Drittanbieter erlauben",thArt:"Artist · Veranstalter",thCol:"Veranstalter",thVen:"Location · Adresse",thNext:"Nächster Termin",thHear:"Hören",thGenRules:"Genres · Regeln",thRules:"Hausregeln · Sound",cTerm:"Termine",cTerm1:"Termin",cUp:"Kommend",cPast:"vergangen",cDj:"DJs",calW:"Kalender",icsFile:"Apple / .ics-Datei",subCal:"Kalender abonnieren",subHint:"Alle kommenden Termine automatisch im eigenen Kalender:",subCopy:"Link kopieren",thTime:"Zeit",thEv:"Event · Location",thLu:"Lineup",thGen:"Genres · Vibe",thAge:"Alter",thPrice:"Preis",closeAll:"Alle schließen",cols:"Veranstalter",colsN:"Veranstalter",toCal:"In Kalender speichern",gcal:"Google Kalender",after:"Afterhour (Start 4–12 Uhr)",qclear:"Suche leeren",favAsk:"zu den Favoriten hinzufügen?",yes:"Hinzufügen",no:"Nein",sug:"Event vorschlagen",sugL:"Link zum Event (Eventseite, RA, Instagram …)",sugNote:"Notiz (optional)",sugSend:"Vorschlag senden",sugOk:"Danke! Der Vorschlag wird geprüft.",sugMail:"Vorschlag per Mail schicken ↗",sugMailOpen:"Dein Mailprogramm öffnet sich mit dem Vorschlag – einfach absenden. Danke!",sugMailAgain:"Nicht geöffnet? Hier klicken ↗",sugAdm:"Vorschläge zur Freigabe (nur für dich sichtbar)",approve:"Freigeben",reject:"Ablehnen",sugNone:"Keine Vorschläge warten auf Freigabe.",sugSt:{new:"neu",pending:"wartet auf Freigabe",approved:"freigegeben",published:"veröffentlicht",rejected:"abgelehnt"},djs:"DJs",archTop:"Archiv seit 2024 · Anfang erreicht",list:"Liste",cal:"Kalender",collRule:"Veranstalter-Regel",favs:"Favoriten",favAdd:"Zu Favoriten",favRem:"Aus Favoriten entfernen",favEv:"Gemerkte Events",favUp:"Kommende Events deiner Favoriten",favNone:"Noch keine Favoriten. Tippe in einer Karte auf ☆, um ein Event, einen Artist, einen Veranstalter oder eine Location zu merken.",favNoUp:"Gerade keine kommenden Events deiner Favoriten.",favKinds:{a:"Artists",c:"Veranstalter",v:"Locations"},favNote:"Favoriten werden nur auf diesem Gerät gespeichert.",showPast:"^ vergangene Events anzeigen",hidePast:"vergangene Events ausblenden",nowSep:"↑ vergangene Events · Heute ↓",price:"Eintritt",evKind:"Event",pastKind:"Vergangenes Event",pastNoteLu:"Dieses Event ist vorbei. Lineup laut Eventseite im Archiv.",pastNote:"Dieses Event ist vorbei. Lineup und Veranstalter stammen aus dem Eventtitel im Archiv und sind daher eventuell unvollständig.",moreCal:"weitere im Kalender",artistsL:"Artists",locs:"Karte",locsN:"Locations",mapT:"Karte",mapTxt:"Die Karte lädt Kartenkacheln von CARTO (auf Basis von OpenStreetMap). Dabei wird deine IP-Adresse an CARTO übertragen.",mapBtn:"Karte laden",mapUp:"kommende Events (Zahl)",mapNone:"derzeit keine",mapEv1:"kommendes Event",mapEvN:"kommende Events",mapErr:"Die Karte konnte nicht geladen werden.",vKind:"Location",opened:"Eröffnet",residents:"Residents",upcomingN:"Kommend",pastN:"Seit 2024",pastEv:"Vergangene Events",topColl:"Reihen & Veranstalter",topArt:"Oft zu Gast",residentAt:"Resident in",pastGigs:"Vergangene Auftritte",showAll:"alle anzeigen",closedV:"geschlossen",labelArt:"Label-Artists",friends:"Umfeld",approx:"laut Jubiläums-Events",archive:"Archiv",upShort:"kommend",pastShort:"seit 2024",last:"zuletzt",soundAll:"Soundsystem",kG:"G",kC:"K",colKind:"Veranstalter",founded:"Gegründet",seat:"Sitz",upcoming:"Termine",members:"DJs & Crew",guests:"Spielen bei ihren Events",series:"Reihen",noColl:"Zu diesem Veranstalter gibt es noch keine Infos. Der tägliche Task ergänzt sie nach und nach.",arts:"Artists",artistsN:"Artists",artHidden:"{n} Artists ohne kommende Events, deren letzter Auftritt schon länger zurückliegt, sind hier ausgeblendet – über die Suche findest du sie trotzdem.",venHidden:"{n} Locations ohne Events in den letzten 13 Monaten ausgeblendet",colHidden:"{n} Veranstalter ohne kommende Events, deren letztes Event schon länger zurückliegt, sind hier ausgeblendet – über die Suche findest du sie trotzdem.",withInfo:"mit Infos",noDates:"Aktuell keine Termine in Wien.",noArts:"Keine Artists mit diesen Filtern.",dates:"Termine",coll:"Veranstalter",albums:"Alben",eps:"EPs & Singles",map:"Karte",mapHint:"Schematische Karte. Tippe auf einen Punkt oder eine Location darunter.",mapAll:"Alle Locations",outside:"außerhalb",noPin:"Ohne Ort auf der Karte",events:"Events",search:"Suche",ph:"Artist, Veranstalter, Club …",reset:"Filter zurücksetzen",prog:"Programm",
+ de:{latestSC:"Neueste Tracks & Sets auf SoundCloud",latestMC:"Mixes auf Mixcloud",latestSP:"Auf Spotify anhören",webS:"Website",listenS:"Anhören",routeS:"Route",since:"Seit",djs:"DJs",upShortU:"Kommend",nextS:"Nächster",gigs:"Auftritte",resShort:"Resident",floorsSound:"Floors & Sound",nextEv:"Nächste Events",moreShow:"weitere anzeigen",showAllN:"alle % anzeigen ▾",ticketsS:"Tickets",srcBtn:"Quelle",akOnly:"Nur Abendkasse",noTix:"Kein Vorverkauf",zeroS:"Null Toleranz",pullPast:"↑ weiter ziehen für vergangene Events",stackClose:"Stack schließen",playNote:"Abspielen lädt den Player von SoundCloud, Mixcloud bzw. Spotify (Drittanbieter, setzt Cookies). Er spielt unten weiter, während du weiterstöberst.",phTxt:"Dieser Player wird von % geladen. Dabei werden Daten an % übertragen und Cookies gesetzt.",phBtn:"%-Player laden",phOpen:"Auf % öffnen",ckT:"Cookies & Drittanbieter",ckTxt:"rave.wien selbst setzt keine Tracking-Cookies. Favoriten und Filter werden nur auf deinem Gerät gespeichert. Flyer-Bilder (direkt von den Websites der Veranstalter) und Player von SoundCloud, Mixcloud und Spotify sowie die Karte (CARTO) laden erst, wenn du zustimmst.",ckMore:"Datenschutz",ckEss:"Nur essenzielle",ckAll:"Drittanbieter erlauben",thArt:"Artist · Veranstalter",thCol:"Veranstalter",thVen:"Location · Adresse",thNext:"Nächster Termin",thHear:"Hören",thGenRules:"Genres · Regeln",thRules:"Hausregeln · Sound",cTerm:"Termine",cTerm1:"Termin",cUp:"Kommend",cPast:"vergangen",cDj:"DJs",calW:"Kalender",icsFile:"Apple / .ics-Datei",subCal:"Kalender abonnieren",subHint:"Alle kommenden Termine automatisch im eigenen Kalender:",subCopy:"Link kopieren",thTime:"Zeit",thEv:"Event · Location",thLu:"Lineup",thGen:"Genres · Vibe",thAge:"Alter",thPrice:"Preis",closeAll:"Alle schließen",cols:"Veranstalter",colsN:"Veranstalter",toCal:"In Kalender speichern",gcal:"Google Kalender",after:"Afterhour (Start 4–12 Uhr)",qclear:"Suche leeren",favAsk:"zu den Favoriten hinzufügen?",yes:"Hinzufügen",no:"Nein",sug:"Event vorschlagen",sugL:"Link zum Event (Eventseite, RA, Instagram …)",sugNote:"Notiz (optional)",sugSend:"Vorschlag senden",sugOk:"Danke! Der Vorschlag wird geprüft.",sugMail:"Vorschlag per Mail schicken ↗",sugMailOpen:"Dein Mailprogramm öffnet sich mit dem Vorschlag – einfach absenden. Danke!",sugMailAgain:"Nicht geöffnet? Hier klicken ↗",sugAdm:"Vorschläge zur Freigabe (nur für dich sichtbar)",approve:"Freigeben",reject:"Ablehnen",sugNone:"Keine Vorschläge warten auf Freigabe.",sugSt:{new:"neu",pending:"wartet auf Freigabe",approved:"freigegeben",published:"veröffentlicht",rejected:"abgelehnt"},djs:"DJs",archTop:"Archiv seit 2024 · Anfang erreicht",list:"Liste",cal:"Kalender",collRule:"Veranstalter-Regel",favs:"Favoriten",favAdd:"Zu Favoriten",favRem:"Aus Favoriten entfernen",favEv:"Gemerkte Events",favUp:"Kommende Events deiner Favoriten",favNone:"Noch keine Favoriten. Tippe in einer Karte auf ☆, um ein Event, einen Artist, einen Veranstalter oder eine Location zu merken.",favNoUp:"Gerade keine kommenden Events deiner Favoriten.",favKinds:{a:"Artists",c:"Veranstalter",v:"Locations"},favNote:"Favoriten werden nur auf diesem Gerät gespeichert.",showPast:"^ vergangene Events anzeigen",hidePast:"vergangene Events ausblenden",nowSep:"↑ vergangene Events · Heute ↓",price:"Eintritt",evKind:"Event",pastKind:"Vergangenes Event",pastNoteLu:"Dieses Event ist vorbei. Lineup laut Eventseite im Archiv.",pastNote:"Dieses Event ist vorbei. Lineup und Veranstalter stammen aus dem Eventtitel im Archiv und sind daher eventuell unvollständig.",moreCal:"weitere im Kalender",moreList:"weitere in der Liste",artistsL:"Artists",locs:"Karte",locsN:"Locations",mapT:"Karte",mapTxt:"Die Karte lädt Kartenkacheln von CARTO (auf Basis von OpenStreetMap). Dabei wird deine IP-Adresse an CARTO übertragen.",mapBtn:"Karte laden",mapUp:"kommende Events (Zahl)",mapNone:"derzeit keine",mapEv1:"kommendes Event",mapEvN:"kommende Events",mapErr:"Die Karte konnte nicht geladen werden.",vKind:"Location",opened:"Eröffnet",residents:"Residents",upcomingN:"Kommend",pastN:"Seit 2024",pastEv:"Vergangene Events",topColl:"Reihen & Veranstalter",topArt:"Oft zu Gast",residentAt:"Resident in",pastGigs:"Vergangene Auftritte",showAll:"alle anzeigen",closedV:"geschlossen",labelArt:"Label-Artists",friends:"Umfeld",approx:"laut Jubiläums-Events",archive:"Archiv",upShort:"kommend",pastShort:"seit 2024",last:"zuletzt",soundAll:"Soundsystem",kG:"G",kC:"K",colKind:"Veranstalter",founded:"Gegründet",seat:"Sitz",upcoming:"Termine",members:"DJs & Crew",guests:"Spielen bei ihren Events",series:"Reihen",noColl:"Zu diesem Veranstalter gibt es noch keine Infos. Der tägliche Task ergänzt sie nach und nach.",arts:"Artists",artistsN:"Artists",artHidden:"{n} Artists ohne kommende Events, deren letzter Auftritt schon länger zurückliegt, sind hier ausgeblendet – über die Suche findest du sie trotzdem.",venHidden:"{n} Locations ohne Events in den letzten 13 Monaten ausgeblendet",colHidden:"{n} Veranstalter ohne kommende Events, deren letztes Event schon länger zurückliegt, sind hier ausgeblendet – über die Suche findest du sie trotzdem.",withInfo:"mit Infos",noDates:"Aktuell keine Termine in Wien.",noArts:"Keine Artists mit diesen Filtern.",dates:"Termine",coll:"Veranstalter",albums:"Alben",eps:"EPs & Singles",map:"Karte",mapHint:"Schematische Karte. Tippe auf einen Punkt oder eine Location darunter.",mapAll:"Alle Locations",outside:"außerhalb",noPin:"Ohne Ort auf der Karte",events:"Events",search:"Suche",ph:"Artist, Veranstalter, Club …",reset:"Filter zurücksetzen",prog:"Programm",
   aka:"auch:",profile:"Vibe & Safety",genres:"Genres",venues:"Locations",colls:"Veranstalter",artists:"Artists",event:"event",
   lineup:"Lineup / Floors",timetable:"Timetable",time:"Zeit",entry:"Eintritt",date:"Datum",age:"Alter",
   tickets:"Tickets / Vorverkauf",flyer:"Flyer ansehen",source:"Gefunden auf",na:"k. A.",tba:"wird noch bekanntgegeben",maps:"In Google Maps öffnen",
   none:"Keine Events mit diesen Filtern.",alt:"anderswo",close:"Schließen",days:["So","Mo","Di","Mi","Do","Fr","Sa"],
   emptyT:"Kein Event geladen",artist:"Artist",origin:"Herkunft",labels:"Labels",clubs:"Clubs",festivals:"Festivals",tracks:"Bekannte Tracks",listen:"Reinhören",inVienna:"Termine in Wien",backEv:"zurück zum Event",scProfile:"SoundCloud-Profil",scSearch:"Auf SoundCloud suchen",raSearch:"Auf RA suchen",noArtist:"Zu diesem Artist gibt es noch keine Infos. Der tägliche Task ergänzt sie nach und nach.",embedHint:"Die Player erscheinen direkt hier, sobald die Seite unter rave.wien läuft. In der claude.ai-Ansicht sind eingebettete Player nicht erlaubt.",not:"ohne",tri:"1× nur das · 2× ausblenden · 3× zurücksetzen",single:"nur 1 Quelle",rSingle:"Nicht gegengeprüft, bisher nur gefunden auf:",rCheck:"Bitte vor dem Hingehen beim Veranstalter prüfen.",fsrc:"Quellenlage",loc:"Website der Location",org:"Website des Veranstalters",multi:"mehrere Quellen",one:"nur 1 Quelle",mn:"manuell eingetragen",manS:"Manuell eingetragen",fio:"Setting",ioIn:"Indoor",ioOut:"Outdoor",rLoc:"Steht auf der Website der Location",rOrg:"Steht auf der Website des Veranstalters",rBoth:"Steht auf der Website der Location und des Veranstalters",rMulti:"Von mehreren Quellen bestätigt, aber nicht auf der Website der Location oder des Veranstalters",sound:"Soundsystem",report:"Fehler melden",repS:'<span class="fw">fehler </span>melden',reportSub:"Fehler auf rave.wien",reportBody:"Was stimmt nicht?",asOf:"Stand: 27. Oktober 2026",srcList:"Quellen",saveF:"Filter auf diesem Gerät speichern",savedF:"Gespeicherte Filter löschen",savedMsg:"Gespeichert. Beim nächsten Öffnen sind diese Filter aktiv.",clearedMsg:"Gespeicherte Filter gelöscht.",loadedMsg:"Gespeicherte Filter geladen.",saveFail:"Speichern ist in diesem Browser nicht möglich.",house:"Hausregel",typ:"typisch für den Veranstalter",share:"Teilen",copied:"Link kopiert",copyFail:"Link markiert, bitte kopieren",gone:"Dieses Event ist vorbei oder nicht mehr im Kalender.",prevM:"Voriger Monat",nextM:"Nächster Monat",tapDay:"Tippe auf einen Tag, um seine Events zu sehen.",std:"Ohne Tag",filter:"Filter",fage:"Eintrittsalter",fprice:"Eintrittspreis",ftime:"Tageszeit",day:"Daytime (Start 12–18 Uhr)",night:"Nighttime",unk:"keine Angabe",free:"Gratis / Spende",p10:"bis 10 €",p20:"11–20 €",p99:"über 20 €",clubRule:"Hausregel des Clubs sonst",emptyS:"Wähl ein Event in der Liste aus, die Details erscheinen hier.",priceTBA:"Preis folgt",gAll:"alle {n} zeigen",gLess:"weniger zeigen",nosugg:"Keine Vorschläge",
-  ty:{col:"veranstalter",src:"quellen",c:"veranstalter",a:"artist",v:"location",g:"genre",f:"vibe",e:"event",age:"alter",price:"preis",time:"zeit",io:"setting"},
+  wT:"Willkommen auf",
+wItems:[["cal","Kalender","Ein Klick auf einen Tag zeigt nur diesen Tag. Ziehen oder Shift+Klick wählt einen Zeitraum."],
+["filter","Filter","1× klicken: nur das zeigen. 2× klicken: ausblenden. 3× klicken: zurücksetzen."],
+["search","Suche","Findet Artists, Veranstalter, Locations und Events."],
+["fav","Favoriten","Der Stern merkt Events, Artists, Veranstalter und Locations. Oben unter ★ findest du alles wieder – samt den kommenden Events deiner Favoriten."],
+["sc","Reinhören","Bei vielen Artists kannst du Sets direkt hier anhören. Der SoundCloud-Player bleibt unten offen, während du weiterstöberst."],
+["check","Häkchen","Blau: auf der Website der Location oder des Veranstalters bestätigt. Grau: von mehreren Quellen bestätigt."],
+["abo","Kalender-Abo","Jede Location, jeder Veranstalter und jeder Artist hat einen Kalender zum Abonnieren. Neue Termine landen dann von selbst in deinem Kalender."]],
+noLocs:"Keine Locations mit diesen Filtern.",noCols:"Keine Veranstalter mit diesen Filtern.",wDid:"Wusstest du schon?",mcHint:"Tag anklicken – ziehen oder Shift+Klick für einen Zeitraum",mcN:"{n} Events",ty:{d:"datum",col:"veranstalter",src:"quellen",c:"veranstalter",a:"artist",v:"location",g:"genre",f:"vibe",e:"event",age:"alter",price:"preis",time:"zeit",io:"setting"},
   fSx:"Sexpositiv",fLg:"LGBTQIA+",fAw:"Awareness",fNp:"Keine Fotos / Videos",fOd:"Open Decks",
   rSx:"Sexpositive Party",rLg:"Für LGBTQIA+ Publikum",rAw:"Awareness",rNp:"Keine Fotos und Videos",rZt:"Null Toleranz für Sexismus, Rassismus, Homo- und Transphobie",rOd:"Open Decks: selbst auflegen möglich",
   ai:"Diese Seite wurde mit KI (Claude von Anthropic) erstellt. Die Daten wurden automatisch aus öffentlichen Quellen gesammelt und zusammengeführt. Fehler sind möglich, bitte Angaben beim Veranstalter prüfen.",
   foot1:"Stand: 27. Oktober 2026. Quellen: Club-Websites (Grelle Forelle, FLUCC, SASS, PRST, Das Werk, Weberknecht, Exil), Veranstalter (hausgemacht u. a.) und Portale (Resident Advisor, oh schon hell, frey-tag, regioactive, events.at, volume.at, FALTER, Wien Modern, rausgegangen, sexpositives.com, goodnight.at).",
   foot2:"Events, die nur eine Quelle haben und nicht von der Location selbst bestätigt sind, tragen den Hinweis „nur 1 Quelle“. Vibe & Safety und Eintrittsalter sind nur markiert, wenn Club oder Veranstalter sie angeben. Grelle Forelle und Das Werk lassen laut Wien-Guides in der Regel ab 21 Jahren ein, SASS und O der Klub ab 18; einzelne Events können abweichen. Fehlt eine Markierung, heißt das nicht, dass es sie nicht gibt. Flyer werden nicht eingebettet, der Link führt zur Quelle."},
- en:{latestSC:"Latest tracks & sets on SoundCloud",latestMC:"Mixes on Mixcloud",latestSP:"Listen on Spotify",webS:"Website",listenS:"Listen",routeS:"Route",since:"Since",djs:"DJs",upShortU:"Upcoming",nextS:"Next",gigs:"Gigs",resShort:"Resident",floorsSound:"Floors & sound",nextEv:"Next events",moreShow:"more",showAllN:"show all % ▾",ticketsS:"Tickets",srcBtn:"Source",akOnly:"Door only",noTix:"No presale",zeroS:"Zero tolerance",pullPast:"↑ keep pulling for past events",stackClose:"Close stack",playNote:"Playing loads the SoundCloud, Mixcloud or Spotify player (third party, sets cookies). It keeps playing at the bottom while you browse.",phTxt:"This player is loaded from %. Data is sent to % and cookies are set.",phBtn:"Load % player",phOpen:"Open on %",ckT:"Cookies & third parties",ckTxt:"rave.wien itself sets no tracking cookies. Favourites and filters are stored on your device only. Flyer images (loaded directly from organisers' websites) and SoundCloud, Mixcloud and Spotify players as well as the map (CARTO) only load after you agree.",ckMore:"Privacy",ckEss:"Essential only",ckAll:"Allow third parties",thArt:"Artist · Promoter",thCol:"Promoter",thVen:"Venue · Address",thNext:"Next date",thHear:"Listen",thGenRules:"Genres · Rules",thRules:"House rules · Sound",cTerm:"Dates",cTerm1:"Date",cUp:"Upcoming",cPast:"past",cDj:"DJs",calW:"Calendar",icsFile:"Apple / .ics file",subCal:"Subscribe to calendar",subHint:"All upcoming dates automatically in your own calendar:",subCopy:"Copy link",thTime:"Time",thEv:"Event · Venue",thLu:"Lineup",thGen:"Genres · Vibe",thAge:"Age",thPrice:"Price",closeAll:"Close all",cols:"Promoters",colsN:"promoters",toCal:"Save to calendar",gcal:"Google Calendar",after:"Afterhour (starts 4am–noon)",qclear:"Clear search",favAsk:"add to favourites?",yes:"Add",no:"No",sug:"Suggest an event",sugL:"Link to the event (event page, RA, Instagram …)",sugNote:"Note (optional)",sugSend:"Send suggestion",sugOk:"Thanks! The suggestion will be reviewed.",sugMail:"Send suggestion by email ↗",sugMailOpen:"Your mail app opens with the suggestion – just hit send. Thanks!",sugMailAgain:"Didn't open? Click here ↗",sugAdm:"Suggestions awaiting approval (only visible to you)",approve:"Approve",reject:"Reject",sugNone:"No suggestions awaiting approval.",sugSt:{new:"new",pending:"awaiting approval",approved:"approved",published:"published",rejected:"rejected"},djs:"DJs",archTop:"Archive since 2024 · start reached",list:"List",cal:"Calendar",collRule:"promoter rule",favs:"Favourites",favAdd:"Add to favourites",favRem:"Remove from favourites",favEv:"Saved events",favUp:"Upcoming events of your favourites",favNone:"No favourites yet. Tap ☆ on a card to save an event, artist, promoter or venue.",favNoUp:"No upcoming events of your favourites right now.",favKinds:{a:"Artists",c:"Promoters",v:"Venues"},favNote:"Favourites are stored on this device only.",showPast:"^ show past events",hidePast:"hide past events",nowSep:"↑ past events · today ↓",price:"Entry",evKind:"Event",pastKind:"Past event",pastNoteLu:"This event is over. Lineup from the event page in the archive.",pastNote:"This event is over. Lineup and promoters come from the event title in the archive and may be incomplete.",moreCal:"more in the calendar",artistsL:"Artists",locs:"Map",locsN:"venues",mapT:"Map",mapTxt:"The map loads tiles from CARTO (based on OpenStreetMap). Your IP address is sent to CARTO.",mapBtn:"Load map",mapUp:"upcoming events (number)",mapNone:"none right now",mapEv1:"upcoming event",mapEvN:"upcoming events",mapErr:"The map could not be loaded.",vKind:"Venue",opened:"Opened",residents:"Residents",upcomingN:"Upcoming",pastN:"Since 2024",pastEv:"Past events",topColl:"Series & promoters",topArt:"Frequent guests",residentAt:"Resident at",pastGigs:"Past gigs",showAll:"show all",closedV:"closed",labelArt:"Label artists",friends:"Circle",approx:"from anniversary events",archive:"Archive",upShort:"upcoming",pastShort:"since 2024",last:"last",soundAll:"Sound system",kG:"G",kC:"C",colKind:"Promoter",founded:"Founded",seat:"Based in",upcoming:"Dates",members:"DJs & crew",guests:"Playing at their events",series:"Series",noColl:"No info on this promoter yet. The daily task adds it over time.",arts:"Artists",artistsN:"artists",artHidden:"{n} artists with no upcoming events whose last gig was a while ago are hidden here – you can still find them via search.",venHidden:"{n} venues with no events in the last 13 months hidden",colHidden:"{n} promoters with no upcoming events whose last event was a while ago are hidden here – you can still find them via search.",withInfo:"with info",noDates:"No upcoming dates in Vienna.",noArts:"No artists match these filters.",dates:"dates",coll:"Promoter",albums:"Albums",eps:"EPs & singles",map:"Map",mapHint:"Schematic map. Tap a dot or a venue below.",mapAll:"All venues",outside:"outside",noPin:"Not on the map",events:"events",search:"Search",ph:"Artist, promoter, club …",reset:"Reset filters",prog:"Programme",
+ en:{latestSC:"Latest tracks & sets on SoundCloud",latestMC:"Mixes on Mixcloud",latestSP:"Listen on Spotify",webS:"Website",listenS:"Listen",routeS:"Route",since:"Since",djs:"DJs",upShortU:"Upcoming",nextS:"Next",gigs:"Gigs",resShort:"Resident",floorsSound:"Floors & sound",nextEv:"Next events",moreShow:"more",showAllN:"show all % ▾",ticketsS:"Tickets",srcBtn:"Source",akOnly:"Door only",noTix:"No presale",zeroS:"Zero tolerance",pullPast:"↑ keep pulling for past events",stackClose:"Close stack",playNote:"Playing loads the SoundCloud, Mixcloud or Spotify player (third party, sets cookies). It keeps playing at the bottom while you browse.",phTxt:"This player is loaded from %. Data is sent to % and cookies are set.",phBtn:"Load % player",phOpen:"Open on %",ckT:"Cookies & third parties",ckTxt:"rave.wien itself sets no tracking cookies. Favourites and filters are stored on your device only. Flyer images (loaded directly from organisers' websites) and SoundCloud, Mixcloud and Spotify players as well as the map (CARTO) only load after you agree.",ckMore:"Privacy",ckEss:"Essential only",ckAll:"Allow third parties",thArt:"Artist · Promoter",thCol:"Promoter",thVen:"Venue · Address",thNext:"Next date",thHear:"Listen",thGenRules:"Genres · Rules",thRules:"House rules · Sound",cTerm:"Dates",cTerm1:"Date",cUp:"Upcoming",cPast:"past",cDj:"DJs",calW:"Calendar",icsFile:"Apple / .ics file",subCal:"Subscribe to calendar",subHint:"All upcoming dates automatically in your own calendar:",subCopy:"Copy link",thTime:"Time",thEv:"Event · Venue",thLu:"Lineup",thGen:"Genres · Vibe",thAge:"Age",thPrice:"Price",closeAll:"Close all",cols:"Promoters",colsN:"promoters",toCal:"Save to calendar",gcal:"Google Calendar",after:"Afterhour (starts 4am–noon)",qclear:"Clear search",favAsk:"add to favourites?",yes:"Add",no:"No",sug:"Suggest an event",sugL:"Link to the event (event page, RA, Instagram …)",sugNote:"Note (optional)",sugSend:"Send suggestion",sugOk:"Thanks! The suggestion will be reviewed.",sugMail:"Send suggestion by email ↗",sugMailOpen:"Your mail app opens with the suggestion – just hit send. Thanks!",sugMailAgain:"Didn't open? Click here ↗",sugAdm:"Suggestions awaiting approval (only visible to you)",approve:"Approve",reject:"Reject",sugNone:"No suggestions awaiting approval.",sugSt:{new:"new",pending:"awaiting approval",approved:"approved",published:"published",rejected:"rejected"},djs:"DJs",archTop:"Archive since 2024 · start reached",list:"List",cal:"Calendar",collRule:"promoter rule",favs:"Favourites",favAdd:"Add to favourites",favRem:"Remove from favourites",favEv:"Saved events",favUp:"Upcoming events of your favourites",favNone:"No favourites yet. Tap ☆ on a card to save an event, artist, promoter or venue.",favNoUp:"No upcoming events of your favourites right now.",favKinds:{a:"Artists",c:"Promoters",v:"Venues"},favNote:"Favourites are stored on this device only.",showPast:"^ show past events",hidePast:"hide past events",nowSep:"↑ past events · today ↓",price:"Entry",evKind:"Event",pastKind:"Past event",pastNoteLu:"This event is over. Lineup from the event page in the archive.",pastNote:"This event is over. Lineup and promoters come from the event title in the archive and may be incomplete.",moreCal:"more in the calendar",moreList:"more in the list",artistsL:"Artists",locs:"Map",locsN:"venues",mapT:"Map",mapTxt:"The map loads tiles from CARTO (based on OpenStreetMap). Your IP address is sent to CARTO.",mapBtn:"Load map",mapUp:"upcoming events (number)",mapNone:"none right now",mapEv1:"upcoming event",mapEvN:"upcoming events",mapErr:"The map could not be loaded.",vKind:"Venue",opened:"Opened",residents:"Residents",upcomingN:"Upcoming",pastN:"Since 2024",pastEv:"Past events",topColl:"Series & promoters",topArt:"Frequent guests",residentAt:"Resident at",pastGigs:"Past gigs",showAll:"show all",closedV:"closed",labelArt:"Label artists",friends:"Circle",approx:"from anniversary events",archive:"Archive",upShort:"upcoming",pastShort:"since 2024",last:"last",soundAll:"Sound system",kG:"G",kC:"C",colKind:"Promoter",founded:"Founded",seat:"Based in",upcoming:"Dates",members:"DJs & crew",guests:"Playing at their events",series:"Series",noColl:"No info on this promoter yet. The daily task adds it over time.",arts:"Artists",artistsN:"artists",artHidden:"{n} artists with no upcoming events whose last gig was a while ago are hidden here – you can still find them via search.",venHidden:"{n} venues with no events in the last 13 months hidden",colHidden:"{n} promoters with no upcoming events whose last event was a while ago are hidden here – you can still find them via search.",withInfo:"with info",noDates:"No upcoming dates in Vienna.",noArts:"No artists match these filters.",dates:"dates",coll:"Promoter",albums:"Albums",eps:"EPs & singles",map:"Map",mapHint:"Schematic map. Tap a dot or a venue below.",mapAll:"All venues",outside:"outside",noPin:"Not on the map",events:"events",search:"Search",ph:"Artist, promoter, club …",reset:"Reset filters",prog:"Programme",
   aka:"aka",profile:"Vibe & Safety",genres:"Genres",venues:"Venues",colls:"Promoters",artists:"Artists",event:"event",
   lineup:"Lineup / floors",timetable:"Timetable",time:"Time",entry:"Entry",date:"Date",age:"Age",
   tickets:"Tickets / presale",flyer:"View flyer",source:"Found on",na:"n/a",tba:"to be announced",maps:"Open in Google Maps",
   none:"No events match these filters.",alt:"elsewhere",close:"Close",days:["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],
   emptyT:"No event loaded",artist:"Artist",origin:"From",labels:"Labels",clubs:"Clubs",festivals:"Festivals",tracks:"Known tracks",listen:"Listen",inVienna:"Dates in Vienna",backEv:"back to event",scProfile:"SoundCloud profile",scSearch:"Search on SoundCloud",raSearch:"Search on RA",noArtist:"No info on this artist yet. The daily task adds it over time.",embedHint:"Players appear right here once the page runs on rave.wien. Embedded players are not allowed in the claude.ai view.",not:"without",tri:"1× only this · 2× exclude · 3× reset",single:"single source",rSingle:"Not cross-checked, so far only found on:",rCheck:"Please check with the promoter before going.",fsrc:"Source check",loc:"Venue website",org:"Promoter website",multi:"several sources",one:"single source",mn:"added manually",manS:"Added manually",fio:"Setting",ioIn:"Indoor",ioOut:"Outdoor",rLoc:"Listed on the venue website",rOrg:"Listed on the promoter website",rBoth:"Listed on the venue and promoter websites",rMulti:"Confirmed by several sources, but not on the venue or promoter website",sound:"Sound system",report:"Report an error",repS:'report<span class="fw"> error</span>',reportSub:"Error on rave.wien",reportBody:"What is wrong?",asOf:"As of 27 October 2026",srcList:"Sources",saveF:"Save filters on this device",savedF:"Delete saved filters",savedMsg:"Saved. These filters will be active next time.",clearedMsg:"Saved filters deleted.",loadedMsg:"Saved filters loaded.",saveFail:"Saving is not possible in this browser.",house:"house rule",typ:"typical for the promoter",share:"Share",copied:"Link copied",copyFail:"Link selected, please copy it",gone:"This event is over or no longer listed.",prevM:"Previous month",nextM:"Next month",tapDay:"Tap a day to see its events.",std:"No tag",filter:"Filters",fage:"Entry age",fprice:"Entry price",ftime:"Time of day",day:"Daytime (starts noon–6pm)",night:"Nighttime",unk:"not stated",free:"Free / donation",p10:"up to €10",p20:"€11–20",p99:"over €20",clubRule:"club rule otherwise",emptyS:"Pick an event from the list and its details appear here.",priceTBA:"Price TBA",gAll:"show all {n}",gLess:"show fewer",nosugg:"No suggestions",
-  ty:{col:"promoter",src:"sources",c:"promoter",a:"artist",v:"venue",g:"genre",f:"vibe",e:"event",age:"age",price:"price",time:"time",io:"setting"},
+  wT:"Welcome to",
+wItems:[["cal","Calendar","Click a day to see only that day. Drag or shift-click to pick a range."],
+["filter","Filters","Click once: show only this. Twice: hide it. Three times: reset."],
+["search","Search","Finds artists, promoters, venues and events."],
+["fav","Favourites","The star saves events, artists, promoters and venues. You'll find them all under ★ at the top – plus the upcoming events of your favourites."],
+["sc","Listen","For many artists you can play sets right here. The SoundCloud player stays open at the bottom while you keep browsing."],
+["check","Check marks","Blue: confirmed on the venue's or promoter's website. Grey: confirmed by several sources."],
+["abo","Calendar feeds","Every venue, promoter and artist has a calendar you can subscribe to. New dates then appear in your calendar automatically."]],
+noLocs:"No venues match these filters.",noCols:"No promoters match these filters.",wDid:"Did you know?",mcHint:"Click a day – drag or shift-click for a range",mcN:"{n} events",ty:{d:"date",col:"promoter",src:"sources",c:"promoter",a:"artist",v:"venue",g:"genre",f:"vibe",e:"event",age:"age",price:"price",time:"time",io:"setting"},
   fSx:"Sex-positive",fLg:"LGBTQIA+",fAw:"Awareness",fNp:"No photos / videos",fOd:"Open decks",
   rSx:"Sex-positive party",rLg:"For an LGBTQIA+ crowd",rAw:"Awareness",rNp:"No photos or videos",rZt:"Zero tolerance for sexism, racism, homophobia and transphobia",rOd:"Open decks: you can sign up to play",
   ai:"This page was made with AI (Claude by Anthropic). The data was collected and merged automatically from public sources. Mistakes are possible, please check details with the promoter.",
@@ -1132,6 +1209,12 @@ const ageK=e=>e.age||"unk";
 function priceK(e){if(!e.price)return "unk";if(/spende|gratis|free/i.test(e.price))return "free";const m=e.price.match(/\d+/);if(!m)return "unk";const n=+m[0];return n<=10?"p10":n<=20?"p20":"p99"}
 // Preis in Teile zerlegen; Klammer-Zusätze wie „(Regular/Supporter)“ kommen klein in die nächste Zeile
 function splitPrice(p){const out=[];String(p).split(/\s+[·|\/]\s+|,\s+/).forEach(x=>{const m=x.match(/^(.*?)\s*\(([^)]*)\)\s*(.*)$/);if(m&&m[1]){out.push((m[1]+(m[3]?" "+m[3]:"")).trim());out.push(m[2])}else out.push(x)});return out.map((x,i)=>{x=x.replace(/\//g,"/\u200b").replace(/(\d)\s+€/g,"$1\u00a0€");return i?x.replace(/(\d)\s*([–-])\s*(\d)/g,"$1$2\u2060$3"):x})}
+/* Datumsfilter (Mini-Kalender in der Filterspalte): ein Tag oder ein Zeitraum von–bis */
+const dOn=()=>!!st.dFrom;
+const inRange=d=>!st.dFrom||(d>=st.dFrom&&d<=st.dTo);
+function setRange(a,b){if(!a){st.dFrom=st.dTo=st.dAnchor=null;return}if(b<a)[a,b]=[b,a];st.dFrom=a;st.dTo=b}
+function rangeLabel(){const yr=x=>x.slice(0,4)!==TODAY.slice(0,4)?x.slice(0,4):"";const f=x=>{const d=dt(x);return d.getDate()+"."+(d.getMonth()+1)+"."+yr(x)};
+  return st.dFrom===st.dTo?fmtDay(st.dFrom)+yr(st.dFrom):f(st.dFrom)+"–"+f(st.dTo)}
 function timeK(e){if(!e.s)return "unk";const h=+e.s.slice(0,2);return h>=4&&h<12?"after":h>=12&&h<18?"day":"night"}
 const EXTRA=[["src",e=>e.srcCats,["loc","org","multi","one","mn"]],["age",ageK,["18+","21+","unk"]],["price",priceK,["free","p10","p20","p99","unk"]],["time",timeK,["night","day","after","unk"]],["io",e=>e.ioK.length?e.ioK:["unk"],["ioIn","ioOut","unk"]]];
 const xLabel=(k,v)=>k==="age"&&v!=="unk"?v:L()[v];
@@ -1171,7 +1254,8 @@ UNI.a=[...new Set([...Object.values(ARK).map(x=>canon(x.name)),...Object.values(
 const VINFO=typeof VI!=="undefined"?VI:{};
 const ckey0=n=>fold(n).replace(/[^a-z0-9]/g,"");
 const CKA=(()=>{const o={};Object.keys(CINFO).forEach(n=>aliasArr(CINFO[n]).forEach(x=>{const k=ckey0(x);if(k&&k!==ckey0(n))o[k]=ckey0(n)}));return o})();
-const ckey=n=>{const k=ckey0(n);return CKA[k]||k};
+// Namens-Schlüssel werden sehr oft gebraucht (Veranstalter-/Artist-Ansicht) – einmal berechnen, dann merken
+const CKC=new Map();const ckey=n=>{let v=CKC.get(n);if(v===undefined){const k=ckey0(n);v=CKA[k]||k;CKC.set(n,v)}return v};
 // Aliase (andere Schreibweisen) für Artists, Veranstalter und Locations
 const ALI=(()=>{const o={a:{},c:{},v:{}};Object.values(ARK).forEach(x=>{const l=aliasArr(x);if(l.length)o.a[akey(x.name)]=l});
   Object.keys(CINFO).forEach(n=>{const l=aliasArr(CINFO[n]);if(l.length)o.c[ckey0(n)]=l});Object.keys(VINFO).forEach(n=>{const l=aliasArr(VINFO[n]);if(l.length)o.v[n]=l});return o})();
@@ -1203,6 +1287,7 @@ Object.values(VINFO).forEach(i=>(i.residents||[]).forEach(a=>{const c=canon(a);i
 if(V.Pratersauna&&!UNI.v.includes("Pratersauna"))UNI.v.push("Pratersauna");
 const collOf=n=>{const a=ARK[akey(n)]||{};return [...new Set([...(a.coll||[]),...Object.keys(CINFO).filter(k=>(CINFO[k].members||[]).map(canon).includes(n))])].filter(k=>!((CINFO[k]||{}).exMembers||[]).map(canon).includes(n))};
 function matches(e,skip){
+  if(skip!=="d"&&st.dFrom&&(e.d<st.dFrom||e.d>st.dTo))return false;
   if(st.fav&&!FAV.e.includes(e.id)&&!favReason(e).length)return false;
   const LV={g:e.genres,v:[e.venue],c:e.coll,a:e.artists};
   for(const k in LV){if(skip===k)continue;const vals=LV[k];
@@ -1226,20 +1311,22 @@ function fattr(k,n){const s=fstate(k,n);return `aria-pressed="${s===1?"true":s==
 function cycle(k,n){const s=fstate(k,n);st[k].delete(n);st.x[k].delete(n);if(s===0)st[k].add(n);else if(s===1)st.x[k].add(n)}
 let GALL=false;
 document.addEventListener("click",ev=>{if(ev.target.closest&&ev.target.closest("[data-gall]")){ev.preventDefault();ev.stopPropagation();GALL=!GALL;renderSide()}},true);
+document.addEventListener("toggle",ev=>{const d=ev.target;if(d&&d.matches&&d.matches("#trees details.tree[data-lazy]")&&d.open)renderSide()},true);
 function renderSide(){
   const l=L();
   const open={};document.querySelectorAll("#trees details").forEach(d=>open[d.dataset.k]=d.open);
   const scr={};document.querySelectorAll("#trees details").forEach(d=>{const o=d.querySelector(".opts");if(o)scr[d.dataset.k]=o.scrollTop});
-  const sideTop=$("side").scrollTop,winY=window.scrollY;
+  const sideSc=mqMob.matches?$("sidein"):$("side"),sideTop=sideSc.scrollTop,winY=window.scrollY;
   const ae=document.activeElement,fk=ae&&ae.closest&&ae.closest("#trees")?(ae.dataset.flag?`[data-flag="${ae.dataset.flag}"]`:ae.dataset.k?`.opt[data-k="${ae.dataset.k}"][data-n="${CSS.escape(ae.dataset.n)}"]`:null):null;
   const base=EV.filter(e=>matches(e,"f"));
   const prof=`<details class="tree" data-k="f" ${open.f!==false?"open":""}><summary><span>${l.profile}</span><em>${FLAGS.length}</em></summary><div class="opts">${
     FLAGS.map(([k,c,lab,,ic])=>`<button class="opt ${fcls("f",k)}" data-flag="${k}" ${fattr("f",k)}><span class="ico ${c}" style="flex:none">${ic}</span><span>${l[lab]}</span><em>${base.filter(e=>e[k]&&[...st.f].every(x=>e[x])&&![...st.x.f].some(x=>e[x])).length}</em></button>`).join("")}</div></details>`;
   const groups=[["g",l.genres,e=>e.genres],["v",l.venues,e=>[e.venue]],["c",l.colls,e=>e.coll],["a",l.artists,e=>e.artists]];
-  const extra=EXTRA.map(([k,fn,vals])=>{const b=EV.filter(e=>matches(e,k));const lab={src:l.fsrc,age:l.fage,price:l.fprice,time:l.ftime,io:l.fio}[k];
-    return `<details class="tree" data-k="${k}" ${open[k]?"open":""}><summary><span>${lab}</span><em>${vals.length}</em></summary><div class="opts">${
-      vals.map(v=>`<button class="opt ${fcls(k,v)}" data-k="${k}" data-n="${v}" ${fattr(k,v)}><span>${xDeco(k,v)}${k==="age"&&v!=="unk"?`<b class="fage">${v}</b>`:xLabel(k,v)}${xAfter(k,v)}</span><em>${b.filter(e=>[].concat(fn(e)).includes(v)).length}</em></button>`).join("")}</div></details>`}).join("");
-  $("trees").innerHTML=prof+extra+groups.map(([k,label,get])=>{
+  const X={f:prof};
+  EXTRA.forEach(([k,fn,vals])=>{const b=EV.filter(e=>matches(e,k));const lab={src:l.fsrc,age:l.fage,price:l.fprice,time:l.ftime,io:l.fio}[k];
+    X[k]=`<details class="tree" data-k="${k}" ${open[k]?"open":""}><summary><span>${lab}</span><em>${vals.length}</em></summary><div class="opts">${
+      vals.map(v=>`<button class="opt ${fcls(k,v)}" data-k="${k}" data-n="${v}" ${fattr(k,v)}><span>${xDeco(k,v)}${k==="age"&&v!=="unk"?`<b class="fage">${v}</b>`:xLabel(k,v)}${xAfter(k,v)}</span><em>${b.filter(e=>[].concat(fn(e)).includes(v)).length}</em></button>`).join("")}</div></details>`});
+  groups.forEach(([k,label,get])=>{
     const m=new Map();EV.filter(e=>matches(e,k)).forEach(e=>get(e).forEach(x=>m.set(x,(m.get(x)||0)+1)));
     st[k].forEach(x=>{if(!m.has(x))m.set(x,0)});st.x[k].forEach(x=>{if(!m.has(x))m.set(x,0)});
     if(k==="v")Object.keys(V).filter(x=>x!=="Secret Location"&&x!=="TBA").forEach(x=>{if(!m.has(x))m.set(x,0)});
@@ -1250,13 +1337,57 @@ function renderSide(){
     const isOpen=open[k]!=null?open[k]:(k==="g");
     let top=null;if(k==="g"&&!GALL&&f.length>12){top=new Set([...f].sort((a,b)=>b[1]-a[1]).slice(0,10).map(x=>x[0]));st.g.forEach(x=>top.add(x));st.x.g.forEach(x=>top.add(x))}
     const shown=top?f.filter(([n])=>top.has(n)):f;
-    return `<details class="tree" data-k="${k}" ${isOpen?"open":""}><summary><span>${label}</span><em>${f.length}</em></summary><div class="opts">${
-      shown.map(([n,c])=>`<button class="opt ${fcls(k,n)}${c?"":" zero"}" data-k="${k}" data-n="${esc(n)}" ${fattr(k,n)}><span>${esc(n)}</span><em>${c}</em></button>`).join("")}${k==="g"&&f.length>12?`<button type="button" class="optmore" data-gall>${GALL?l.gLess:l.gAll.replace("{n}",f.length)}</button>`:""}</div></details>`}).join("");
+    // Zugeklappte Gruppen bekommen ihre (bis zu ~2000) Einträge erst beim Aufklappen – das hält jedes Neuzeichnen schnell
+    X[k]=`<details class="tree" data-k="${k}" ${isOpen?"open":"data-lazy"}><summary><span>${label}</span><em>${f.length}</em></summary><div class="opts">${!isOpen?"":
+      shown.map(([n,c])=>`<button class="opt ${fcls(k,n)}${c?"":" zero"}" data-k="${k}" data-n="${esc(n)}" ${fattr(k,n)}><span>${esc(n)}</span><em>${c}</em></button>`).join("")+(k==="g"&&f.length>12?`<button type="button" class="optmore" data-gall>${GALL?l.gLess:l.gAll.replace("{n}",f.length)}</button>`:"")}</div></details>`});
+  // Reihenfolge der Filtergruppen
+  $("trees").innerHTML=["f","g","time","io","price","age","v","c","a","src"].map(k=>X[k]||"").join("");
   document.querySelectorAll("#trees details").forEach(d=>{const o=d.querySelector(".opts");if(o&&scr[d.dataset.k]!=null)o.scrollTop=scr[d.dataset.k]});
-  $("side").scrollTop=sideTop;
+  renderMcal();
+  sideSc.scrollTop=sideTop;
   if(fk){const el=document.querySelector("#trees "+fk);if(el)el.focus({preventScroll:true})}
   if(window.scrollY!==winY)window.scrollTo(0,winY);
 }
+function renderMcal(){
+  const box=$("mcal");if(!box)return;if(mqMob.matches){box.innerHTML="";return}
+  const l=L();const months=calMonths();if(!st.month||!months.includes(st.month))st.month=TODAY.slice(0,7);
+  const mi=months.indexOf(st.month);const [y,mo]=st.month.split("-").map(Number);
+  const first=new Date(y,mo-1,1),last=new Date(y,mo,0);
+  const start=new Date(first);start.setDate(1-((first.getDay()+6)%7));
+  const end=new Date(last);end.setDate(last.getDate()+(6-((last.getDay()+6)%7)));
+  const a=iso(start),b=iso(end),cnt={};
+  // Ein Tag gilt nur als „mit Events“, wenn die aktuelle Ansicht dort auch etwas zeigen kann
+  // (Veranstalter-Ansicht: Event hat einen Veranstalter; Artists: hat ein Lineup; Karte: hat eine Location)
+  const vw=st.view,okE=e=>vw==="col"?e.coll.length>0:vw==="art"?e.artists.length>0:vw==="loc"?!noVen(e.venue):true,okP=p=>vw==="col"?p.c.length>0:vw==="art"?p.a.length>0:vw==="loc"?!noVen(p.v):true;
+  EV.forEach(e=>{if(e.d>=a&&e.d<=b&&okE(e)&&matches(e,"d"))cnt[e.d]=(cnt[e.d]||0)+1});
+  PASTR.forEach(p=>{if(p.d>=a&&p.d<=b&&okP(p)&&pastMatches(p))cnt[p.d]=(cnt[p.d]||0)+1});
+  const foc=document.activeElement&&document.activeElement.closest&&document.activeElement.closest("#mcal")?document.activeElement.dataset.mday:null;
+  let cells=[1,2,3,4,5,6,0].map(i=>`<div class="wd">${l.days[i]}</div>`).join("");
+  for(let d=new Date(start);d<=end;d.setDate(d.getDate()+1)){const ds=iso(d),n=cnt[ds]||0,inr=dOn()&&ds>=st.dFrom&&ds<=st.dTo;
+    const cls=[d.getMonth()!==mo-1?"other":"",ds<TODAY?"past":"",ds===TODAY?"today":"",n?"has":"",inr?"in":"",inr&&ds===st.dFrom?"a":"",inr&&ds===st.dTo?"b":""].filter(Boolean).join(" ");
+    cells+=`<button type="button" class="mc ${cls}" data-mday="${ds}" aria-pressed="${inr}" title="${esc(fmtDay(ds,true))}: ${l.mcN.replace("{n}",n)}" aria-label="${esc(fmtDay(ds,true))}: ${l.mcN.replace("{n}",n)}">${d.getDate()}</button>`}
+  const label=first.toLocaleDateString(loc(),{month:"long",year:"numeric"});
+  box.innerHTML=`<div class="mchead"><button type="button" id="mcprev" aria-label="${l.prevM}" ${mi<=0?"disabled":""}>‹</button><b>${label}</b><button type="button" id="mcnext" aria-label="${l.nextM}" ${mi>=months.length-1?"disabled":""}>›</button></div><div class="mcgrid">${cells}</div><div class="mcfoot">${l.mcHint}</div>`;
+  if(foc){const el=box.querySelector('[data-mday="'+foc+'"]');if(el)el.focus({preventScroll:true})}
+}
+/* Mini-Kalender bedienen: Klick = ein Tag (nochmal = aufheben), Ziehen oder Shift+Klick = Zeitraum */
+let MCD=null;
+function mcPreview(){const lo=MCD.a<MCD.b?MCD.a:MCD.b,hi=MCD.a<MCD.b?MCD.b:MCD.a;document.querySelectorAll("#mcal .mc").forEach(c=>{const d=c.dataset.mday,i=d>=lo&&d<=hi;c.classList.toggle("in",i);c.classList.toggle("a",i&&d===lo);c.classList.toggle("b",i&&d===hi)})}
+function mcCommit(a,b,shift){
+  if(a!==b){setRange(a,b);st.dAnchor=a}
+  else if(shift&&st.dFrom){setRange(st.dAnchor||st.dFrom,a)}
+  else if(st.dFrom===a&&st.dTo===a){setRange(null)}
+  else{setRange(a,a);st.dAnchor=a;if(calMonths().includes(a.slice(0,7)))st.month=a.slice(0,7)}
+  if(dOn())gcUse("datumsfilter","Datumsfilter benutzt");
+  if(st.view==="cal")st.view="list";scrollTo(0,0);render()}
+document.addEventListener("pointerdown",ev=>{const c=ev.target.closest&&ev.target.closest("#mcal [data-mday]");if(!c||ev.button!==0)return;MCD={a:c.dataset.mday,b:c.dataset.mday,shift:ev.shiftKey};mcPreview()});
+document.addEventListener("pointermove",ev=>{if(!MCD)return;const el=document.elementFromPoint(ev.clientX,ev.clientY);const c=el&&el.closest&&el.closest("#mcal [data-mday]");if(!c||c.dataset.mday===MCD.b)return;MCD.b=c.dataset.mday;mcPreview()});
+document.addEventListener("pointerup",()=>{if(!MCD)return;const m=MCD;MCD=null;mcCommit(m.a,m.b,m.shift)});
+document.addEventListener("pointercancel",()=>{if(MCD){MCD=null;renderMcal()}});
+document.addEventListener("keydown",ev=>{const c=ev.target&&ev.target.closest&&ev.target.closest("#mcal [data-mday]");if(!c)return;
+  if(ev.key==="Enter"||ev.key===" "){ev.preventDefault();mcCommit(c.dataset.mday,c.dataset.mday,ev.shiftKey);return}
+  const step={ArrowLeft:-1,ArrowRight:1,ArrowUp:-7,ArrowDown:7}[ev.key];if(!step)return;
+  const d=dt(c.dataset.mday);d.setDate(d.getDate()+step);const n=document.querySelector('#mcal [data-mday="'+iso(d)+'"]');if(n){ev.preventDefault();n.focus()}});
 const gcl=g=>g.length?`<span class="tags"><span class="gcl"><b>♫</b>${g.map(x=>`<span data-tf="g" data-n="${esc(x)}"${st.g.has(x)?' class="on"':""}>${esc(x)}</span>`).join("")}</span></span>`:"";
 /* Preise mit vielen Stufen kurz als von–bis */
 function normPrice(p){if(!p)return p;const s=String(p);
@@ -1287,7 +1418,9 @@ function rowHTML(e){
 }
 /* flyer covers: hot-linked from the source (not downloaded); vinyl placeholder underneath */
 const isImg=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif)(\?[^"'<>\s]*)?$/i.test(u||"");
-const coversOn=()=>!EMBED||consentOK();
+// Flyer, Logos und Bilder gibt es nur auf rave.wien (nach Einwilligung). Im Backend-Artefakt sind fremde Bilder
+// ohnehin gesperrt – dort gar nicht erst versuchen, das spart bei jedem Neuzeichnen hunderte fehlschlagende Anfragen.
+const coversOn=()=>EMBED&&consentOK();
 const isLogo=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif|svg)(\?[^"'<>\s]*)?$/i.test(u||"")||/^https:\/\/imgproxy\.ra\.co\/[^"'<>\s]+$/i.test(u||"")||/^https:\/\/i\.scdn\.co\/image\/[a-z0-9]+$/i.test(u||"");
 const initials=n=>n.replace(/^(the|club|das|der|die|o)\s+/i,"").split(/[\s\-–.]+/).filter(w=>/^[A-Za-z0-9ÄÖÜäöü]/.test(w)).slice(0,2).map(w=>w[0].toUpperCase()).join("")||n.slice(0,2).toUpperCase();
 // Logo so groß wie möglich: der gemessene Inhaltsbereich (ohne transparenten/einfarbigen Rand, siehe logos.js)
@@ -1318,7 +1451,12 @@ document.addEventListener("error",ev=>{const im=ev.target;if(!im||im.tagName!=="
 document.addEventListener("error",ev=>{const t=ev.target;if(t&&t.tagName==="IMG"&&t.parentNode&&t.parentNode.classList&&(t.parentNode.classList.contains("cov")||t.parentNode.classList.contains("lgt"))){if(t.parentNode.classList.contains("fly")){t.parentNode.remove();return}t.parentNode.removeAttribute("data-flyer");t.remove()}},true);
 let PTOT=0;
 function topH(){return (parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--top2"))||56)+8}
-function renderList(){
+/* Filtern die gesetzten Filter alles weg, blinken die Filter-Tags über der Liste kurz und bleiben umrandet */
+const anyFilter=()=>dOn()||!!st.q.trim()||FK.some(k=>st[k].size||st.x[k].size);
+function emptyHTML(msg){return `<div class="empty-state${anyFilter()?" fe":""}">${msg}${anyFilter()?`<div><button type="button" class="ereset" data-freset>${L().reset}</button></div>`:""}</div>`}
+function flagEmpty(){const a=$("activef");a.classList.toggle("nomatch",!!a.children.length&&!!document.querySelector("#out .empty-state.fe"))}
+function renderList(){renderList0();flagEmpty()}
+function renderList0(){
   const l=L();
   $("pastbtn").hidden=true;
   document.body.classList.remove("vw-art","vw-loc","vw-col");if(["art","loc","col"].includes(st.view))document.body.classList.add("vw-"+st.view);
@@ -1327,8 +1465,14 @@ function renderList(){
   if(st.view==="col"){renderColls();return}
   if(st.view==="art"){const q=st.q;st.q="";const ev2=EV.filter(e=>matches(e));st.q=q;renderArtists(ev2);return}
   const ev=EV.filter(e=>matches(e));
-  $("t-list").textContent=`${st.fav?"★ "+l.favs+" · ":""}${ev.length} ${l.events}`;
+  const pin=dOn()&&st.view!=="cal"?PASTR.filter(p=>inRange(p.d)&&pastMatches(p)):[];
+  $("t-list").textContent=`${st.fav?"★ "+l.favs+" · ":""}${ev.length+pin.length} ${l.events}`;
   if(st.view==="cal"){renderCal(ev);return}
+  if(dOn()){ // Datumsfilter: vergangene und kommende Events des Zeitraums in einer gemeinsamen Liste
+    const items=[...pin.map(p=>({d:p.d,s:(p.x||{}).s,h:pastRowHTML(p)})),...ev.map(e=>({d:e.d,s:e.s,h:rowHTML(e)}))].sort((x,y)=>(x.d+(x.s||"99")).localeCompare(y.d+(y.s||"99")));
+    let h=items.length?`<div class="thead"><span></span><span>${l.thTime}</span><span>${l.thEv}</span><span>${l.thLu}</span><span>${l.thGen}</span><span>${l.thAge}</span><span>${l.thPrice}</span></div>`:emptyHTML(l.none),c="";
+    items.forEach(it=>{if(it.d!==c){h+=c?'<div class="daygap"></div>':"";c=it.d;h+=`<div class="dayhdr${c<TODAY?" pastday":""}">${fmtDay(c,true)}${c.slice(0,4)!==TODAY.slice(0,4)?" "+c.slice(0,4):""} <span>${items.filter(x=>x.d===c).length}</span></div>`}h+=it.h});
+    $("out").innerHTML=h;return}
   const old=$("nowsep");const anchor=old?old.getBoundingClientRect().top:null;
   let html="",cur="";
   const pall=[];PTOT=0;
@@ -1336,7 +1480,7 @@ function renderList(){
     if(pv.length===pall.length)html+=`<div class="pastsep" style="color:var(--mute);border-color:var(--line)">${l.archTop}</div>`;
     pv.forEach(p=>{if(p.d!==pc){pc=p.d;html+=`<div class="dayhdr pastday">${fmtDay(p.d,true)} ${p.d.slice(0,4)} <span>${pall.filter(x=>x.d===pc).length}</span></div>`}html+=pastRowHTML(p)});
     html+=`<div class="pastsep" id="nowsep">${l.nowSep}</div>`}
-  if(!ev.length)html+=`<div class="empty-state">${l.none}</div>`;
+  if(!ev.length)html+=emptyHTML(l.none);
   else html+=`<div class="thead"><span></span><span>${l.thTime}</span><span>${l.thEv}</span><span>${l.thLu}</span><span>${l.thGen}</span><span>${l.thAge}</span><span>${l.thPrice}</span></div>`;
   ev.forEach(e=>{if(e.d!==cur){html+=cur?'<div class="daygap"></div>':"";cur=e.d;html+=`<div class="dayhdr">${fmtDay(e.d,true)} <span>${ev.filter(x=>x.d===cur).length}</span></div>`}html+=rowHTML(e)});
   if(pall.length&&ev.length<8)html+=`<div style="height:${Math.max(0,innerHeight-160-ev.length*64)}px"></div>`;
@@ -1424,6 +1568,7 @@ function renderCal(ev){
   let day="";
   if(st.calDay){const de=ev.filter(e=>e.d===st.calDay);const dp=st.calDay<TODAY?pv.filter(p=>p.d===st.calDay):[];day=`<div class="daylist"><div class="dayhdr">${fmtDay(st.calDay,true)} <span>${de.length+dp.length}</span></div>${de.length||dp.length?de.map(rowHTML).join("")+dp.map(pastRowHTML).join(""):`<div class="empty-state">${l.none}</div>`}</div>`}
   else day=`<div class="daylist"><div class="empty-state">${l.tapDay}</div></div>`;
+  if(!ev.length&&!pv.length&&anyFilter())day=`<div class="daylist">${emptyHTML(l.none)}</div>`;
   const legend=`<div class="legend">${["after","day","night","unk"].filter(k=>k!=="unk"||seenK.unk).map(k=>`<span><i class="t-${k}"></i>${l[k]}</span>`).join("")}</div>`;
   $("out").innerHTML=`<div class="calnav"><button id="mprev" aria-label="${l.prevM}" ${mi<=0?"disabled":""}>‹</button><b>${label}</b><button id="mnext" aria-label="${l.nextM}" ${mi>=months.length-1?"disabled":""}>›</button></div><div class="cal">${cells}</div>${legend}${day}`;
 }
@@ -1437,7 +1582,8 @@ function collInfo(){
 function artistsFrom(ev){
   const m=new Map();
   ev.forEach(e=>e.artists.forEach(n=>{if(!m.has(n))m.set(n,[]);m.get(n).push(e)}));
-  const onlyLV=FK.every(k=>["g","a","c"].includes(k)||(!st[k].size&&!st.x[k].size));
+  const onlyLV=!dOn()&&FK.every(k=>["g","a","c"].includes(k)||(!st[k].size&&!st.x[k].size));
+  if(dOn()){const q=st.q;st.q="";PASTR.forEach(p=>{if(inRange(p.d)&&pastMatches(p))p.a.forEach(n=>{if(!m.has(n))m.set(n,[])})});st.q=q}
   if(onlyLV)UNI.a.forEach(n=>{if(m.has(n))return;const a=ARK[akey(n)]||{};
     if(st.a.size&&!st.a.has(n))return;if(st.x.a.has(n))return;
     if(st.g.size&&!(a.genres||[]).some(g=>st.g.has(g)))return;
@@ -1459,13 +1605,13 @@ function renderArtists(ev){
   const q=fold(st.q.trim());if(q)names=names.filter(n=>fold(qName("a",n)).includes(q));
   // In der Übersicht ausblenden (Suche, Filter, Favoriten, Lineups und Links finden sie weiterhin):
   // keine kommenden Events, kein Bild, und 1 vergangenes Event älter als 6 Monate bzw. mehrere, deren letztes älter als 13 Monate ist.
-  let hid=0;if(!q&&!st.fav&&!st.a.size){const upA=new Set(EV.flatMap(e=>e.artists));
+  let hid=0;if(!q&&!st.fav&&!st.a.size&&!dOn()){const upA=new Set(EV.flatMap(e=>e.artists));
     names=names.filter(n=>{if((m.get(n)||[]).length||upA.has(n)||n===st.artist||isFav("a",n))return true;const a=ARK[akey(n)]||{};
       if(oldHide(PART[n]||[],!!a.img)){hid++;return false}return true})}
   const sk=n=>fold(n).replace(/^[^a-z0-9]+/,"");names.sort((x,y)=>sk(x).localeCompare(sk(y)));
   const info=names.filter(n=>ARK[akey(n)]).length;
   $("t-list").textContent=`${names.length} ${l.artistsN}`;
-  if(!names.length){$("out").innerHTML=`<div class="empty-state">${l.noArts}</div>`;return}
+  if(!names.length){$("out").innerHTML=emptyHTML(l.noArts);return}
   const rows=xorder(names.map(n=>{const evs=(m.get(n)||[]).slice().sort((x,y)=>(x.d+(x.s||"")).localeCompare(y.d+(y.s||"")));return {n,evs,nx:evs[0],n1:evs.length,n2:(PART[n]||[]).length}}));
   const html=rows.map(r=>{const n=r.n,evs=r.evs;
     const a=ARK[akey(n)];
@@ -1628,7 +1774,7 @@ function statsHTML(rows){return `<span class="stub sstats">${rows.map(([k,v,acc]
 function secH(t,n){return `<div class="sh">${esc(t)}${n!=null?`<i>${n}</i>`:""}</div>`}
 function mevHTML(e,ctx){return `<button class="mev" data-goev="${e.id}"><span class="m">${esc(e.title)}<small>${esc([ctx!=="ven"?e.venue:"",...e.coll].filter(Boolean).join(" · ")||e.artists.slice(0,4).join(", "))}</small></span><span class="s">${fmtDay(e.d)}<br>${e.s||""}</span></button>`}
 function mpastHTML(p,ctx){return `<button class="mev past" data-id="${esc(p.id)}"><span class="m">${esc(p.t)}<small>${esc([ctx!=="ven"?p.v:"",...p.c].filter(Boolean).join(" · "))}</small></span><span class="s">${p.d.slice(8,10)}.${p.d.slice(5,7)}.<br>${p.d.slice(0,4)}</span></button>`}
-function pastList(list,ctx,name){const l=L();return list.slice(0,3).map(p=>mpastHTML(p,ctx)).join("")+(list.length>3?(name?`<button type="button" class="more mcal" data-calk="${ctx}" data-caln="${esc(name)}" data-calm="${list[3].d.slice(0,7)}">+${list.length-3} ${l.moreCal} →</button>`:`<div class="more">+${list.length-3} ${l.moreCal}</div>`):"")}
+function pastList(list,ctx,name){const l=L();return list.slice(0,3).map(p=>mpastHTML(p,ctx)).join("")+(list.length>3?(name?`<button type="button" class="more mcal" data-calk="${ctx}" data-caln="${esc(name)}" data-calm="${list[3].d.slice(0,7)}">+${list.length-3} ${mqMob.matches?l.moreCal:l.moreList} →</button>`:`<div class="more">+${list.length-3} ${l.moreCal}</div>`):"")}
 function upList(list,ctx,max){const l=L();max=max||6;if(!list.length)return `<div class="more">${l.noDates}</div>`;return list.slice(0,max).map(e=>mevHTML(e,ctx)).join("")+(list.length>max?`<details class="morelist"><summary>+${list.length-max} ${l.moreShow}</summary>${list.slice(max).map(e=>mevHTML(e,ctx)).join("")}</details>`:"")}
 function namesHTML(arr,max,P){const l=L();max=max||12;P=P!==0;const b=a=>{const x=`<button data-aopen="${esc(a)}">${esc(a)}</button>`,pb=P?aplay(canon(a),1):"";return pb?`<span class="an">${x}${pb}</span>`:x};return `<div class="names">${arr.slice(0,max).map(b).join("")}</div>`+(arr.length>max?`<details class="morelist"><summary>${l.showAllN.replace("%",arr.length)}</summary><div class="names">${arr.slice(max).map(b).join("")}</div></details>`:"")}
 function factsHTML(rows){rows=rows.filter(r=>r[1]&&r[1].length);return rows.length?`<div class="facts">${rows.map(([k,v])=>`<span>${esc(k)}</span><div>${v.map(esc).join(" · ")}</div>`).join("")}</div>`:""}
@@ -1767,10 +1913,10 @@ function locRows(){
   const ioK=v=>{const k=ioOf((VINFO[v]||{}).io);return k.length?k:["unk"]};
   if(st.io.size)vs=vs.filter(v=>ioK(v).some(k=>st.io.has(k)));if(st.x.io.size)vs=vs.filter(v=>!ioK(v).some(k=>st.x.io.has(k)));
   const sio=st.io,sxio=st.x.io;st.io=new Set();st.x.io=new Set();
-  const fa=FK.some(k=>k!=="v"&&(st[k].size||st.x[k].size));
+  const fa=dOn()||FK.some(k=>k!=="v"&&(st[k].size||st.x[k].size));const pIn=l=>dOn()&&l.some(p=>inRange(p.d)&&pastMatches(p));
   // Ausblenden: 13 Monate (oder nie) ohne Events und nichts Kommendes – auch mit Bild (eventuell geschlossen). Suche findet sie weiter.
-  const tidy=!q&&!st.fav&&!st.v.size,M13=monthsAgo(13);let hid=0;
-  const rows=xorder(vs.map(v=>{const s=venueStats(v);const up=s.up.filter(e=>matches(e,"v"));return {n:v,up,all:s.up,past:s.past,nx:up[0],n1:up.length,n2:s.past.length}}).filter(r=>!fa||r.up.length)
+  const tidy=!q&&!st.fav&&!st.v.size&&!dOn(),M13=monthsAgo(13);let hid=0;
+  const rows=xorder(vs.map(v=>{const s=venueStats(v);const up=s.up.filter(e=>matches(e,"v"));return {n:v,up,all:s.up,past:s.past,nx:up[0],n1:up.length,n2:s.past.length}}).filter(r=>!fa||r.up.length||pIn(r.past))
     .filter(r=>{if(!tidy||r.all.length||st.ven===r.n||isFav("v",r.n))return true;const last=r.past.reduce((x,p)=>p.d>x?p.d:x,"");if(last>=M13)return true;hid++;return false}));
   rows.hid=hid;st.io=sio;st.x.io=sxio;return rows}
 // Locations als OpenStreetMap-Karte (Kacheln: CARTO). Die Filter der Seite gelten auch hier.
@@ -1791,7 +1937,7 @@ function renderLocs(){
   $("t-list").textContent=`${rows.length} ${l.locsN}`;
   const onMap=rows.filter(r=>G[r.n]&&!(VINFO[r.n]||{}).closed);
   const ok=consentOK()||!EMBED;
-  $("out").innerHTML=`<div class="lmapwrap"><div id="lmap">${ok?"":`<div class="lmph"><b>${l.mapT}</b><p>${l.mapTxt}</p><button type="button" data-mapok>${l.mapBtn}</button></div>`}</div><div class="lmleg"><span><i></i>${l.mapUp}</span><span><i class="n"></i>${l.mapNone}</span>${rows.hid?`<span class="lhid">${l.venHidden.replace("{n}",rows.hid)}</span>`:""}</div></div>`;
+  $("out").innerHTML=`${rows.length?"":emptyHTML(l.noLocs)}<div class="lmapwrap"><div id="lmap">${ok?"":`<div class="lmph"><b>${l.mapT}</b><p>${l.mapTxt}</p><button type="button" data-mapok>${l.mapBtn}</button></div>`}</div><div class="lmleg"><span><i></i>${l.mapUp}</span><span><i class="n"></i>${l.mapNone}</span>${rows.hid?`<span class="lhid">${l.venHidden.replace("{n}",rows.hid)}</span>`:""}</div></div>`;
   fitMapH();
   if(!ok)return;
   loadLeaflet().then(LF=>{const el=$("lmap");if(!el||st.view!=="loc")return;
@@ -1833,12 +1979,12 @@ function renderColls(){
   const l=L();const q=fold(st.q.trim());
   const all=[...UNI.c];EV.forEach(e=>e.coll.forEach(c=>{if(!all.some(x=>sameColl(x,c)))all.push(c)}));
   let cs=all;if(st.fav)cs=cs.filter(c=>FAV.c.some(x=>sameColl(x,c)));if(q)cs=cs.filter(c=>fold(qName("c",c)).includes(q));
-  const fa=FK.some(k=>k!=="c"&&(st[k].size||st.x[k].size));if(st.c.size)cs=cs.filter(c=>[...st.c].some(x=>sameColl(x,c)));cs=cs.filter(c=>![...st.x.c].some(x=>sameColl(x,c)));
-  let hid=0;const tidy=!q&&!st.fav&&!st.c.size;
-  const rows=xorder(cs.map(c=>{const up=EV.filter(e=>e.coll.some(x=>sameColl(x,c))&&matches(e,"c"));const past=PASTR.filter(p=>p.c.some(x=>sameColl(x,c)));return {n:c,c,up,past,mem:collMembers(c).length,nx:up[0],n1:up.length,n2:past.length}}).filter(r=>!fa||r.up.length)
+  const fa=dOn()||FK.some(k=>k!=="c"&&(st[k].size||st.x[k].size));const pIn=l=>dOn()&&l.some(p=>inRange(p.d)&&pastMatches(p));if(st.c.size)cs=cs.filter(c=>[...st.c].some(x=>sameColl(x,c)));cs=cs.filter(c=>![...st.x.c].some(x=>sameColl(x,c)));
+  let hid=0;const tidy=!q&&!st.fav&&!st.c.size&&!dOn();
+  const rows=xorder(cs.map(c=>{const up=EV.filter(e=>e.coll.some(x=>sameColl(x,c))&&matches(e,"c"));const past=PASTR.filter(p=>p.c.some(x=>sameColl(x,c)));return {n:c,c,up,past,mem:collMembers(c).length,nx:up[0],n1:up.length,n2:past.length}}).filter(r=>!fa||r.up.length||pIn(r.past))
     .filter(r=>{if(!tidy||r.up.length||st.coll===r.c||isFav("c",r.c)||EV.some(e=>e.coll.some(x=>sameColl(x,r.c))))return true;if(oldHide(r.past,!!(CINFO[r.c]||{}).logo)){hid++;return false}return true}));
   $("t-list").textContent=`${st.fav?"★ ":""}${rows.length} ${l.colsN}`;
-  if(!rows.length){$("out").innerHTML=`<div class="empty-state">${l.none}</div>`;return}
+  if(!rows.length){$("out").innerHTML=emptyHTML(l.noCols);return}
   $("out").innerHTML=`<div class="xlist x-col">${xheadHTML("col")}${withLetters(rows,rows.map(r=>{const ci=CINFO[r.c]||{};const g=[...new Set([...(CGEN[r.c]||[]),...r.up.flatMap(e=>e.genres)])].slice(0,4);
     const sub=[(ci.type||[]).join(" / "),ci.founded?l.since+" "+(ci.foundedNote?"≈ ":"")+ci.founded:"",ci.from||""].filter(Boolean).join(" · ");
     return xrowHTML({k:"col",tile:logoTile(r.c,"",ci,"c"),attr:`data-copen="${esc(r.c)}"`,cur:st.coll===r.c,name:r.c,sub,tags:"",c2:"",gen:g,flags:ruleFlags(ci.rules||{}),
@@ -1868,6 +2014,11 @@ function reportURL(what,link){const l=L();return "mailto:feedback@rave.wien?subj
 const PINSVG='<svg class="pin" viewBox="0 0 11 14" aria-hidden="true"><path fill="currentColor" d="M5.5 0A5.5 5.5 0 0 0 0 5.5C0 9.6 5.5 14 5.5 14S11 9.6 11 5.5A5.5 5.5 0 0 0 5.5 0zm0 7.6a2.1 2.1 0 1 1 0-4.2 2.1 2.1 0 0 1 0 4.2z"/></svg>';
 const CEL={};const ck=c=>c.k+"\u0001"+c.n;
 const RENDER={ev:(el,id)=>PBYID[id]&&!PBYID[id].ev?renderPastEv(el,PBYID[id]):renderEv(el,id),art:renderArtist,col:renderColl,ven:renderVen};
+/* Symbole für die Kurzerklärung im Platzhalter – dieselben wie an den jeweiligen Stellen der Seite */
+const WICON={cal:'<svg viewBox="0 0 16 16"><path fill="none" stroke="currentColor" stroke-width="1.4" d="M2 2.5h12v11H2z"/><path fill="currentColor" d="M4.3 5.6h1.6v1.6H4.3zM7.2 5.6h1.6v1.6H7.2zM10.1 5.6h1.6v1.6h-1.6zM4.3 8.8h1.6v1.6H4.3zM7.2 8.8h1.6v1.6H7.2zM10.1 8.8h1.6v1.6h-1.6z"/></svg>',
+  filter:'<svg viewBox="0 0 18 18"><path fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" d="M2 3h14l-5.5 6.5V15l-3 1.5V9.5z"/></svg>',
+  search:'<svg viewBox="0 0 16 16"><circle cx="6.8" cy="6.8" r="4.3" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M10 10l4 4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>',
+  check:"✓",fav:"★",abo:ICAL,sc:ISC};
 function renderDeck(){
   const rc=$("rcol");const keep=new Set();const l=L();
   st.cards.forEach(c=>{const key=ck(c);keep.add(key);let el=CEL[key];if(!el){el=document.createElement("section");el.setAttribute("aria-live","polite");rc.appendChild(el);CEL[key]=el;el.dataset.fresh=1}
@@ -1877,7 +2028,8 @@ function renderDeck(){
   Object.keys(CEL).forEach(key=>{if(!keep.has(key)){CEL[key].remove();delete CEL[key]}});
   const em=$("deck0");em.hidden=st.cards.length>0&&!st.gone;
   em.className="deck empty"+(st.gone?" gone":"");
-  em.innerHTML=`<div class="deck-empty"><span class="disc">--:--</span><div><b>${l.emptyT}</b>${st.gone?l.gone:l.emptyS}</div></div>`;
+  em.innerHTML=st.gone?`<div class="deck-empty"><span class="disc">--:--</span><div><b>${l.emptyT}</b>${l.gone}</div></div>`
+    :`<div class="welcome"><h2>${l.wT} <span class="wbrand">rave<i class="dot"></i>wien</span></h2><h3 class="wdid">${l.wDid}</h3><dl>${l.wItems.map(([ic,k,t])=>`<div><span class="wi wi-${ic}" aria-hidden="true">${WICON[ic]}</span><dt>${k}</dt><dd>${t}</dd></div>`).join("")}</dl></div>`;
   if(st.gone&&st.cards.length)em.hidden=true;
   setHash(st.sel||null);
   layoutStack();
@@ -1943,8 +2095,10 @@ function renderActive(){
   const l=L();const items=[];
   const lab=(k,v)=>k==="f"?flagLabel(v):EXTRA.some(x=>x[0]===k)?xLabel(k,v):v;
   FK.forEach(k=>{st[k].forEach(v=>items.push([k,v,lab(k,v),l.ty[k],0]));st.x[k].forEach(v=>items.push([k,v,lab(k,v),l.ty[k],1]))});
+  if(dOn())items.unshift(["d","",rangeLabel(),l.ty.d,0]);
   const n=items.length;$("burger").innerHTML=`<svg class="fic" viewBox="0 0 18 18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" d="M2 3h14l-5.5 6.5V15l-3 1.5V9.5z"/></svg>${n?`<em>${n}</em>`:""}`;
   $("activef").innerHTML=items.map(([k,n,lb,ty,ex])=>`<button data-rm="${k}" data-n="${esc(n)}" class="k-${k} ${ex?"exc":""}"><small>${ex?l.not:ty+":"}</small>${esc(lb)}</button>`).join("");
+  flagEmpty();
 }
 /* suggestions */
 function suggestions(q){
@@ -2003,8 +2157,8 @@ function pastFavReason(p){const r=[];if(FAV.v.some(v=>p.v===v||vgroup(v)===p.v))
 const mqSheet=matchMedia("(max-width:1199px)"),mqMob=matchMedia("(max-width:879px)");
 function texts(){
   const l=L();document.documentElement.lang=st.lang;
-  try{const ab=$("a11y-b");ab.title=A11YT[st.lang].t;ab.setAttribute("aria-label",A11YT[st.lang].t)}catch(_){}$("v-list").textContent=l.list;$("v-art").textContent=l.arts;$("v-col").textContent=l.cols;$("v-loc").textContent=l.locs;$("t-filter").textContent=l.filter;$("v-cal").textContent=l.cal;
-  $("t-searchlbl").textContent=l.search;$("q").placeholder=l.ph;$("reset").textContent=l.reset;const sv=hasSaved();$("savef").textContent=sv?l.savedF:l.saveF;$("savef").setAttribute("aria-pressed",sv);
+  try{const ab=$("a11y-b");ab.title=A11YT[st.lang].t;ab.setAttribute("aria-label",A11YT[st.lang].t)}catch(_){}$("v-list").textContent=l.list;$("v-art").textContent=l.arts;$("v-col").textContent=l.cols;$("v-loc").textContent=l.locs;$("t-filter").textContent=l.filter;$("sidetabl").textContent=l.filter;$("v-cal").textContent=l.cal;
+  $("t-searchlbl").textContent=l.search;$("q").setAttribute("aria-label",l.search);$("q").placeholder=l.ph;$("reset").textContent=l.reset;const sv=hasSaved();$("savef").textContent=sv?l.savedF:l.saveF;$("savef").setAttribute("aria-pressed",sv);
   $("t-ai").textContent=l.ai;$("t-foot1").innerHTML=`${l.asOf} · ${l.srcList}: `+SRCLIST.map(([n,u])=>`<a href="${esc(su(u))}" target="_blank" rel="noopener">${esc(n)}</a>`).join(", ");$("t-report").textContent=l.report;$("t-report").href=reportURL("","");
   $("sugbtn").textContent=l.sug;$("t-sugl").textContent=l.sugL;$("sugnote").placeholder=l.sugNote;$("t-sugsend").textContent=l.sugSend;
   $("l-de").setAttribute("aria-pressed",st.lang==="de");$("l-en").setAttribute("aria-pressed",st.lang==="en");
@@ -2014,8 +2168,15 @@ function texts(){
 // GoatCounter: nur OB Filter/Suche benutzt werden, nicht wonach (je Sitzung einmal)
 const USED=new Set();const gcUse=(k,t)=>{if(USED.has(k))return;USED.add(k);try{gc("nutzung/"+k,t,true)}catch(_){}};
 document.addEventListener("click",ev=>{if(ev.target.closest&&ev.target.closest(".opt[data-k]"))gcUse("filter-gesetzt","Filter gesetzt")},true);
-function drawer(o){if(o&&!$("side").classList.contains("open"))gcUse("filter-geoeffnet","Filter geöffnet (Handy)");$("side").classList.toggle("open",o);$("dscrim").hidden=!o;$("burger").setAttribute("aria-expanded",o);if(o)$("dclose").focus()}
+function drawer(o){$("side").classList.remove("peek","still");if(o&&!$("side").classList.contains("open"))gcUse("filter-geoeffnet","Filter geöffnet (Handy)");$("side").classList.toggle("open",o);$("dscrim").hidden=!o;$("burger").setAttribute("aria-expanded",o);if(o)$("dclose").focus()}
 $("dscrim").addEventListener("click",()=>drawer(false));
+$("sidetab").addEventListener("click",ev=>{if(ev.target.id==="dclose")return;drawer(!$("side").classList.contains("open"))});
+/* Beim ersten Besuch am Handy lugt das Filtermenü einmal kurz herein (im Backend zur Ansicht bei jedem Laden) */
+function sidePeek(){const K="rw-sidepeek";let seen=false;try{seen=!!localStorage.getItem(K)}catch(_){}
+  if(!mqMob.matches||(EMBED&&seen))return;
+  setTimeout(()=>{const sd=$("side");if(!mqMob.matches||sd.classList.contains("open")||st.cards.length)return;
+    const still=RM.matches||A11Y.has("motion");const done=()=>sd.classList.remove("peek","still");sd.addEventListener("animationend",done,{once:true});setTimeout(done,3300);
+    $("sidein").scrollTop=0;sd.classList.add("peek");if(still)sd.classList.add("still");if(EMBED){try{localStorage.setItem(K,"1")}catch(_){}}},1400)}
 (()=>{let x0=null,y0=0;
   addEventListener("touchstart",ev=>{x0=null;if(!mqMob.matches)return;const open=$("side").classList.contains("open");if(!open&&ev.target.closest(".rcol>.deck:not(.peek),.sugg,input,.mapwrap,#lmap,.lmapwrap"))return;x0=ev.touches[0].clientX;y0=ev.touches[0].clientY},{passive:true});
   addEventListener("touchend",ev=>{if(x0==null)return;const t=ev.changedTouches[0];const dx=t.clientX-x0,dy=t.clientY-y0;x0=null;if(Math.abs(dy)>Math.abs(dx)*.6)return;
@@ -2023,12 +2184,13 @@ $("dscrim").addEventListener("click",()=>drawer(false));
 })();
 function placeSearch(){const w=$("searchwrap"),b=$("burger"),ms=$("msearch"),top=document.querySelector(".top");
   if(mqMob.matches){if(b.parentNode!==ms)ms.insertBefore(b,ms.firstChild);if(w.parentNode!==ms)ms.appendChild(w)}
-  else{if(b.parentNode!==top)top.insertBefore(b,top.firstChild);if(w.parentNode!==$("side"))$("side").insertBefore(w,$("trees"))}setTop()}
+  else{if(b.parentNode!==top)top.insertBefore(b,top.firstChild);if(w.parentNode!==$("sidein"))$("sidein").insertBefore(w,$("mcal"))}setTop()}
 mqMob.addEventListener?mqMob.addEventListener("change",placeSearch):mqMob.addListener(placeSearch);
 mqSheet.addEventListener?mqSheet.addEventListener("change",()=>layoutStack()):0;
+mqMob.addEventListener?mqMob.addEventListener("change",()=>render()):0;
 function setTop(){const t=document.querySelector(".top").offsetHeight;document.documentElement.style.setProperty("--top",t+"px");const ms=$("msearch");document.documentElement.style.setProperty("--top2",(t+(mqMob.matches&&ms.offsetHeight?ms.getBoundingClientRect().height:0))+"px")}
 addEventListener("resize",()=>{setTop();layoutStack()});
-function render(){texts();renderSide();renderList();renderActive();renderDeck();persistF()}
+function render(){if(!mqMob.matches&&st.view==="cal")st.view="list";texts();renderSide();renderList();renderActive();renderDeck();persistF()}
 function persistF(){try{localStorage.setItem(FKEY,JSON.stringify({...Object.fromEntries(FK.map(k=>[k,[...st[k]]])),x:Object.fromEntries(FK.map(k=>[k,[...st.x[k]]]))}))}catch(_){}}
 // GoatCounter: welche Ansichten genutzt werden (Wechsel per Menü + Ansicht beim Öffnen der Seite)
 const VIEWN={list:"Liste",cal:"Kalender",loc:"Karte",art:"Artists",col:"Veranstalter"};
@@ -2080,6 +2242,8 @@ document.addEventListener("click",ev=>{
   if(ev.target.closest("#flybox")&&!ev.target.closest("#flybox a")){$("flybox").hidden=true;hpop(1);return}
   const mc=ev.target.closest("[data-calk]");if(mc){FK.forEach(k=>{st[k].clear();st.x[k].clear()});st.q="";$("q").value="";st.fav=false;
     st[{art:"a",col:"c",ven:"v"}[mc.dataset.calk]].add(mc.dataset.caln);st.month=mc.dataset.calm;st.calDay=null;st.view="cal";
+    if(!mqMob.matches){const n=mc.dataset.caln,k=mc.dataset.calk;const pl=(k==="art"?PART[n]||[]:k==="col"?PASTR.filter(p=>p.c.some(x=>sameColl(x,n))):venueStats(n).past).map(p=>p.d).sort();
+      if(pl.length){setRange(pl[0],pl[pl.length-1]);st.month=pl[pl.length-1].slice(0,7)}st.view="list"}
     if(mqSheet.matches)minAll();save();scrollTo(0,0);render();return}
   if(ev.target.closest("[data-mapok]")){ev.preventDefault();consentSet("all");renderList();return}
   const pl=ev.target.closest("[data-play]");if(pl){ev.preventDefault();dockPlay(pl.dataset.play,pl.dataset.pt);return}
@@ -2132,6 +2296,9 @@ document.addEventListener("click",ev=>{
   if(t.classList.contains("opt")){cycle(t.dataset.k,t.dataset.n);render();return}
   if(t.dataset.f){if(!["list","cal"].includes(st.view)){st.view="list";save()}st[t.dataset.f].add(t.dataset.n);if(mqSheet.matches)st.cards.forEach(c=>c.min=true);render();return}
   if(t.dataset.goev){openCard("ev",t.dataset.goev);return}
+  if(t.closest("[data-freset]")){$("reset").click();return}
+  if(t.dataset.rm==="d"||(t.closest("[data-rm]")&&t.closest("[data-rm]").dataset.rm==="d")){setRange(null);render();return}
+  if(t.id==="mcprev"||t.id==="mcnext"){const m=calMonths();st.month=m[m.indexOf(st.month)+(t.id==="mcnext"?1:-1)]||st.month;renderMcal();return}
   if(t.dataset.rm){st[t.dataset.rm].delete(t.dataset.n);st.x[t.dataset.rm].delete(t.dataset.n);render();return}
   if(t.dataset.id){drawer(false);openCard("ev",t.dataset.id);return}
   if(t.id==="z-m"||t.id==="z-p"){ZI=Math.max(0,Math.min(ZL.length-1,ZI+(t.id==="z-p"?1:-1)));applyZ();setTop();layoutStack();return}
@@ -2139,7 +2306,7 @@ document.addEventListener("click",ev=>{
   const vm={"v-list":"list","v-cal":"cal","v-art":"art","v-col":"col","v-loc":"loc"};
   if(vm[t.id]){setView(vm[t.id]);return}
   const map={"l-de":()=>st.lang="de","l-en":()=>st.lang="en",
-    reset:()=>{st.q="";$("q").value="";["g","v","c","a","f","src","age","price","time","io"].forEach(k=>{st[k].clear();st.x[k].clear()})}};
+    reset:()=>{st.q="";$("q").value="";setRange(null);["g","v","c","a","f","src","age","price","time","io"].forEach(k=>{st[k].clear();st.x[k].clear()})}};
   if(map[t.id]){map[t.id]();save();render()}
 });
 $("q").addEventListener("input",e=>{if(e.target.value.trim())gcUse("suche","Suche benutzt");st.q=e.target.value;st.hi=0;qState();renderSugg();renderSide();renderList()});
@@ -2169,7 +2336,7 @@ async function approve(id,status){const db=await getDB();if(!db)return;try{await
 const FKEY="rw-filters",FK=["g","v","c","a","f","src","age","price","time","io"];
 function hasSaved(){try{return !!localStorage.getItem(FKEY)}catch(_){return false}}
 function loadSaved(){try{const o=JSON.parse(localStorage.getItem(FKEY)||"null");if(!o)return;FK.forEach(k=>{if(Array.isArray(o[k]))st[k]=new Set(o[k]);if(o.x&&Array.isArray(o.x[k]))st.x[k]=new Set(o.x[k])});}catch(_){}}
-applyZ();placeSearch();loadSaved();fromHash();render();setTop();
+applyZ();placeSearch();loadSaved();fromHash();render();setTop();sidePeek();
 addEventListener("hashchange",()=>{if(Date.now()-HPOP<400)return;const id=location.hash.slice(1);if(id&&id!==st.sel){fromHash();render()}});
 
 if(EMBED&&!CONS)showBanner();

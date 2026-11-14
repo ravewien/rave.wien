@@ -7,6 +7,10 @@ const ctx = {};
 vm.runInNewContext(fs.readFileSync(path.join(root, "events.js"), "utf8") +
   "\n;this.RAW=RAW;this.V=V;this.AR=typeof AR!=='undefined'?AR:{};this.CI=typeof CI!=='undefined'?CI:{};this.VI=typeof VI!=='undefined'?VI:{};", ctx);
 const { RAW, V, AR, CI, VI } = ctx;
+// Archiv (bereits vergangene Events) – damit Termine im abonnierten Kalender stehen bleiben, wenn sie vorbei sind
+const pctx = {};
+try { vm.runInNewContext(fs.readFileSync(path.join(root, "past.js"), "utf8") + "\n;this.PAST=typeof PAST!=='undefined'?PAST:[];", pctx); } catch (e) { pctx.PAST = []; }
+const PAST = Array.isArray(pctx.PAST) ? pctx.PAST : [];
 const SITE = "https://rave.wien";
 const slug = t => String(t).toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/ß/g, "ss").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 const nm = a => (a.includes("|") ? a.split("|")[1] : a);
@@ -24,7 +28,9 @@ const addH = (d, t, h) => { const [H, M] = t.split(":").map(Number); let m = H *
 const VTZ = ["BEGIN:VTIMEZONE", "TZID:Europe/Vienna", "BEGIN:DAYLIGHT", "TZOFFSETFROM:+0100", "TZOFFSETTO:+0200", "TZNAME:CEST", "DTSTART:19700329T020000", "RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU", "END:DAYLIGHT", "BEGIN:STANDARD", "TZOFFSETFROM:+0200", "TZOFFSETTO:+0100", "TZNAME:CET", "DTSTART:19701025T030000", "RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU", "END:STANDARD", "END:VTIMEZONE"];
 
 // ---- Events aufbereiten (gleiche ID-Bildung wie index.html / Vorschauseiten) ----
-const from = addDay(new Date().toISOString().slice(0, 10), -14);
+// Vergangene Termine bleiben im Kalender. Start ist der Stand beim Einführen der Abos (alles ab 29.10.2026):
+// was einmal im Kalender stand, verschwindet nicht mehr.
+const from = "2026-10-29";
 const seen = new Set();
 const EVS = [];
 RAW.slice().sort((a, b) => (a.d + (a.s || "99")).localeCompare(b.d + (b.s || "99"))).forEach(e => {
@@ -32,7 +38,19 @@ RAW.slice().sort((a, b) => (a.d + (a.s || "99")).localeCompare(b.d + (b.s || "99
   while (seen.has(k)) k = id + "-" + i++;
   seen.add(k);
   if (e.d < from || e.cancel) return;
-  const floors = (e.floors || []).map(f => ({ f: f.f || "", a: [...new Set((f.a || []).map(nm).flatMap(splitA).filter(a => a !== "TBA"))] }));
+  addEvent(k, e, (e.floors || []).map(f => ({ f: f.f || "", a: [...new Set((f.a || []).map(nm).flatMap(splitA).filter(a => a !== "TBA"))] })));
+});
+// Archiv-Einträge: [Datum, Location, Titel, [Veranstalter], [Artists], {s,e,price,note,…}] – gleiche ID wie zuvor als kommendes Event
+PAST.filter(r => Array.isArray(r) && typeof r[0] === "string" && /^\d{4}-\d{2}-\d{2}$/.test(r[0]) && r[0] >= from && typeof r[2] === "string")
+  .sort((a, b) => a[0].localeCompare(b[0])).forEach(r => {
+    const k = (r[0] + "-" + slug(r[2])).slice(0, 60).replace(/-$/, "");
+    if (seen.has(k)) return; // steht noch bei den kommenden Events
+    seen.add(k);
+    const x = r[5] || {}, T = /^\d{1,2}:\d{2}$/;
+    addEvent(k, { d: r[0], s: T.test(x.s || "") ? x.s : "", e: T.test(x.e || "") ? x.e : "", title: r[2], venue: r[1], coll: r[3] || [], price: x.price, note: x.note },
+      [{ f: "", a: [...new Set((r[4] || []).map(nm).flatMap(splitA).filter(a => a && a !== "TBA"))] }]);
+  });
+function addEvent(k, e, floors) {
   const arts = [...new Set(floors.flatMap(f => f.a))];
   const venue = e.venue && e.venue !== "TBA" && e.venue !== "Secret Location" ? e.venue : "";
   const lines = [];
@@ -51,7 +69,7 @@ RAW.slice().sort((a, b) => (a.d + (a.s || "99")).localeCompare(b.d + (b.s || "99
   if (venue) ev.push(`LOCATION:${escT(venue + (V[venue] && V[venue] !== "Wien" ? ", " + V[venue] + " Wien" : ", Wien"))}`);
   ev.push(`DESCRIPTION:${escT(lines.join("\n"))}`, `URL:${SITE}/e/${k}`, "END:VEVENT");
   EVS.push({ ev, venue: venue ? cV(venue) : "", colls: (e.coll || []).map(cC), arts: arts.map(cA) });
-});
+}
 
 const cal = (name, list) => ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//rave.wien//Kalender//DE", "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
   `X-WR-CALNAME:${escT(name)}`, "X-WR-TIMEZONE:Europe/Vienna", `X-WR-CALDESC:${escT("Termine von rave.wien – aktualisiert sich automatisch")}`,
