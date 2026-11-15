@@ -6101,7 +6101,7 @@ const VI={
   "io": [
    "Indoor"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-15",
   "de": "Bar und Club am Lerchenfelder Gürtel, eine Institution, in der viele junge Musiker*innen ihre ersten Schritte gemacht haben; Partys werden oft von wechselnden Veranstalter*innen ausgerichtet, im Sommer gibt es einen Garten abseits des Gürtellärms.",
   "en": "Bar and club on Lerchenfelder Gürtel, an institution where many young musicians took their first steps; parties are often run by changing organisers, and in summer there is a garden away from the Gürtel noise.",
   "floors": [
@@ -6149,7 +6149,7 @@ const VI={
   "de": "Live-Musik- und Club-Location in den Stadtbahnbögen 24/25 am Gürtel (1080, nahe U6 Thaliastraße), seit August 2025 – Konzerte unter der Woche, am Wochenende Clubnächte mit House, Techno und Drum & Bass.",
   "en": "Live music and club venue in railway arches 24/25 on the Gürtel (1080, near U6 Thaliastraße), open since August 2025 – concerts on weeknights, club nights with house, techno and drum & bass at weekends.",
   "opened": "2025",
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-15",
   "ig": "https://www.instagram.com/lucia.vienna/"
  },
  "O der Klub": {
