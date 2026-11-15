@@ -13157,7 +13157,7 @@ const AR={
    "https://ra.co/events/2218855",
    "https://ra.co/dj/matthiaskaiser"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Gugu": {
@@ -47605,7 +47605,8 @@ const AR={
  },
  "FRNRKE": {
   "links": {
-   "sc": "https://soundcloud.com/aphanfrnrke"
+   "sc": "https://soundcloud.com/aphanfrnrke",
+   "bc": "https://aphanfrnrke.bandcamp.com/"
   },
   "bio": {
    "de": "FRNRKE bildet gemeinsam mit A_Phan ein Live-Duo; die beiden veröffentlichen gemeinsam auf SoundCloud (u. a. „Light Fog“) und stellten im November 2025 im FLUCC ein gemeinsames Album vor.",
@@ -47613,12 +47614,17 @@ const AR={
   },
   "src": [
    "https://soundcloud.com/aphanfrnrke/light-fog",
-   "https://de.ra.co/dj/a_phan"
+   "https://de.ra.co/dj/a_phan",
+   "https://aphanfrnrke.bandcamp.com/"
   ],
-  "noImg": "2026-11-04",
-  "infoChk": "2026-11-04",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
   "setsChecked": "2026-11-15",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna, Austria"
+  }
  },
  "Lamsi": {
   "img": "https://static.ra.co/images/profiles/square/lamsi.jpg?dateUpdated=1682067840000",
