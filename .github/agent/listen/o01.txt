@@ -1,0 +1,27 @@
+# Sonderlauf Locations – Liste o01 (26). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Events bei uns
+FLUCC	sound	2026-10-31	Adresse: Praterstern 5, 1020; web: https://flucc.at/; alias: FLUCC Wanne, FLUCC Deck, FLUC, Fluc Wanne; man:1	2026-11-15 FLUT x Callshop Radio – Week 46 | 2026-11-20 Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION | 2026-11-20 Vision Serpent | vergangene Events: 298
+PRST	floors	2026-11-02	Adresse: Praterstraße 18, 1020; web: https://www.praterstrasse.wien/; alias: Praterstraße, Club Praterstraße; man:1	2026-11-20 Anna Ullrich pres. Achterbahn | 2026-11-27 Party Modern × PRST: Station Rose | 2026-11-28 RED GROOVE (Social Club) with Nick Curly | vergangene Events: 290
+Tagada	logo,opened,sound	2026-11-02	Adresse: Brunnengasse 76, 1160; web: https://www.instagram.com/tagada.club	2026-11-21 Soundhouse | 2026-11-28 Patches | 2026-12-05 HOUSETIERE × VG+ Weekender | vergangene Events: 88
+Celeste	floors,sound	2026-11-02	Adresse: Hamburgerstraße 18, 1050; web: https://www.celeste.co.at/	2026-11-20 syndikat | 2026-11-21 hosted by the zound partisans | 2026-11-27 Like Minded. | vergangene Events: 52
+Club U	opened,floors,sound	2026-11-03	Adresse: Karlsplatz, 1010; web: https://club-u.at; alias: Club U im Otto-Wagner-Pavillon; man:1	2026-11-20 Fluffig – Punschabend | 2026-11-21 Du Tanzt Mich Mal – Winter Open Air: Punsch Rave (Opening) | 2026-12-05 Du Tanzt Mich Mal – Winter Open Air: Punsch Rave (Day & Night) | vergangene Events: 4
+Funkhaus	opened,floors,sound	2026-11-02	Adresse: Argentinierstraße 30a, 1040; web: https://www.funkhaus.wien; alias: ORF-Funkhaus, Funkhaus Wien; man:1	2026-11-20 The House of Funk presents Ricky Chong | 2026-11-21 Yolo Taxi with UMAFRICANA, Lua Preta & Miss Roshni | 2026-11-27 Cafe Disko x Firlefunk | vergangene Events: 3
+TBA	text,web,logo,opened,io,floors,sound		Adresse: TBA	2026-11-21 Tram & Bass Vol. 4 – Our longest ride yet | 2026-11-29 HOT&WET x Citrus Cue Christmas Party | 2026-12-11 TEKNOTEKA Vol. 4 | vergangene Events: 1
+Pyramide Vösendorf	web,logo,sound	2026-11-02	Adresse: Parkallee 2, 2334 Vösendorf; alias: Eventhotel Pyramide	2026-11-20 Pyramide Takeover – SIGNAL Festival | 2026-12-11 SIGNAL Festival w/ Eric Prydz | vergangene Events: 0
+Altia Skybar – DC Tower	logo,opened,floors,sound	2026-11-02	Adresse: Donau-City-Straße 7, 1220; web: https://www.melia.com/de/hotels/osterreich/wien/melia-vienna/restaurants/altia-skybar; alias: Altia Skybar; man:1	2026-11-27 AWSM. Skyscraper Edition (Extra Date) | 2026-11-28 AWSM. Skyscraper Edition | vergangene Events: 0
+Jaz in the City	logo,floors,sound	2026-11-02	Adresse: Windmühlgasse 28, 1060; web: https://hrewards.com/en/jaz-in-the-city-vienna; alias: Mariatrink	2026-11-21 Rooftop Series at Mariatrink | 2026-12-05 Rooftop Series at Mariatrink | vergangene Events: 0
+Ottakringer Brauerei	sound	2026-11-02	Adresse: Ottakringer Platz 1, 1160; web: https://www.ottakringerbrauerei.at; man:1	2026-11-21 Wiener Blut | vergangene Events: 2
+Libelle	opened,floors,sound	2026-11-02	Adresse: Tellgasse 25/1, 1150; web: https://www.libelle.at/; alias: Schwelle Wien	2026-12-05 Ungeniert Vol. 5 | vergangene Events: 1
+The Inner Circle	web,opened,floors,sound	2026-11-03	Adresse: Altmannsdorfer Straße 144, 1230; alias: the inner circle vienna / wien; man:1	2026-11-21 lost or unreachable | vergangene Events: 1
+Coco Bar	web,logo,opened,floors,sound	2026-11-02	Adresse: Lerchenfelder Gürtel Stadtbahnbogen 34–35, 1080	2026-11-19 HEAVY LISTENING with Tanja Turner, Mert Seger & Heap | vergangene Events: 0
+The Chamber	web,logo,opened,floors,sound	2026-11-11	Adresse: Hernalser Gürtel 18, 1080	2026-12-07 Maiden Voyage w/ Tapanov | vergangene Events: 0
+Creative Cluster Vienna	logo,opened,io,floors,sound	2026-11-13	Adresse: Viktor-Christ-Gasse 10, 1050; web: https://viennaartweek.at/en/program/creative-cluster-open-doors	2026-11-28 Hart Lab: Resonance | vergangene Events: 0
+Porto Pollo	web,logo,opened,floors,sound	2026-11-02	Adresse: Donauinsel 19, 1220	 | vergangene Events: 4
+B72	logo,floors,sound	2026-11-02	Adresse: Hernalser Gürtel 72–73, 1080; web: https://www.b72.at; man:1	 | vergangene Events: 2
+Secret Location	text,web,logo,opened,io,floors,sound		Adresse: TBA	 | vergangene Events: 2
+Arena Wien	logo,opened,floors,sound	2026-11-03	Adresse: Baumgasse 80, 1030; web: https://arena.wien; alias: Arena	 | vergangene Events: 1
+Wiener Würstelstand Spittelau	web,logo,opened,floors,sound	2026-11-02	Adresse: U-Bahn-Station Spittelau, 1090; man:1	 | vergangene Events: 1
+Metastadt	logo,opened,sound	2026-11-02	Adresse: Dr.-Otto-Neurath-Gasse 3, 1220; web: https://www.metastadt.at/	 | vergangene Events: 1
+Lugner City	web,logo,floors,sound	2026-11-02	Adresse: Gablenzgasse 5, 1150	 | vergangene Events: 1
+kv.r.	text,web,logo,opened,io,floors,sound	2026-11-02	Adresse: Hernalser Hauptstraße 86, 1170	 | vergangene Events: 1
+Fanialive Wien	web,logo,opened,floors,sound	2026-11-03	Adresse: U-Bahn-Bogen Gürtellinie 22–23, 1080; alias: Fanialive	 | vergangene Events: 1
+Stiftskeller Klosterneuburg	web,logo,opened,floors,sound	2026-11-02	Adresse: Albrechtsbergergasse 1, 3400 Klosterneuburg	 | vergangene Events: 0

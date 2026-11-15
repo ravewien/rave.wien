@@ -1,0 +1,31 @@
+# Sonderlauf Veranstalter – Liste c03 (30). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Events bei uns
+AMBIEVENT	text,logo	2026-11-03	ig: https://www.instagram.com/ambievent_/	2026-11-20 Kollektiv Kaorle – AMBIEVENT – trace encounters
+Apartment Acht	logo	2026-11-07	ig: https://www.instagram.com/apartment.acht/; sc: https://soundcloud.com/apartmentacht; Herkunft: Wien	2026-11-28 Funkhaus – Apartment Acht Birthday Rave
+Bass Cave	links,logo	2026-11-10	Art: Reihe; Herkunft: Wien	2026-11-21 Einbaumöbel – Bass Cave – Drum and Bass w/ UNONESSUNO & M:PATHY
+Belly Dance Services	ig,logo	2026-11-02	bc: https://bellydanceservices.bandcamp.com; Art: Label	2026-11-19 SASS Music Club – Bonkers × Belly Dance Services
+Bonkers	text,links,logo	2026-11-03		2026-11-19 SASS Music Club – Bonkers × Belly Dance Services
+Captive Soul	links,logo	2026-11-10	Art: Reihe	2026-12-11 Pyramide Vösendorf – SIGNAL Festival w/ Eric Prydz
+CPE	links,logo	2026-11-03	Herkunft: Wien	2026-11-27 Club Exil – 20 Jahre CPE
+Das Syndikat	text,links,logo	2026-11-03		2026-11-20 Celeste – syndikat
+Endless Insanity	links,logo	2026-11-11	Art: Reihe	2026-11-21 Club Exil – Endless Insanity III
+FactX	text,links,logo	2026-11-03		2026-11-27 Grelle Forelle – Flashback w/ Thomas Schumacher – Techno Classics
+Firlefunk	logo	2026-11-03	ig: https://www.instagram.com/firlefunk_/; Herkunft: Wien	2026-11-27 Funkhaus – Cafe Disko x Firlefunk
+HEKTISCH	logo	2026-11-02	ig: https://instagram.com/hektisch.vie; Herkunft: Wien	2026-11-20 Das Werk – Synergy Rave x Trance + Hard Techno
+High Voltage Fairies	text,links,logo	2026-11-03		2026-11-27 Flex – High Voltage Fairies in the Pit – Metal x DnB
+KARTELL.FM	logo	2026-11-02	web: https://kartell.fm; ig: https://instagram.com/kartell.fm; Herkunft: Wien	2026-11-20 Das Werk – Synergy Rave x Trance + Hard Techno
+Kleingeld Kollektiv	links,logo	2026-11-06		2026-11-21 Club Lucia – Kleingeld Kollektiv Klubnacht
+KRAWALL	links,logo	2026-11-11	Art: Reihe; Herkunft: Köln	2026-12-05 Club Lucia – KRAMPUS RAVE by KRAWALL
+Liminal	text,logo	2026-11-03	ig: https://www.instagram.com/liminal.vienna/	2026-12-12 The Loft – Liminal Afterhour #3
+LOVEDANCIN'	links,logo	2026-11-10	Art: Reihe	2026-12-18 Funkhaus – LOVEDANCIN' Vienna
+NachtAktiv	links,logo	2026-11-11	Herkunft: Wien	2026-12-18 TBA – NachtAktiv presents PsyJungle
+Ninecircles	links,logo	2026-11-03	Art: Reihe; Herkunft: Wien; alias: Nine Circles	2026-11-28 Das Werk – Nine Circles
+nomenklatur	logo	2026-11-05	ig: https://www.instagram.com/nomenklatur.notes/; alias: nomenklatur.notes	2026-11-15 Rhiz – nomenklatur w/ great area & PILLBERT (live)
+NOTYOURORDINARY	text,logo	2026-11-10	ig: https://www.instagram.com/notyourordinary.official/	2026-12-18 Kramladen – Acidic Juice x NOTYOURORDINARY – Live
+Palazzo Recordings	ig,logo	2026-11-11	bc: https://palazzo-rec.bandcamp.com/; Art: Label; Herkunft: Wien	2026-12-05 WUK – Elektro Guzzi & Special Guests – Palazzo Festival
+Patches	logo	2026-11-05	ig: https://www.instagram.com/patches.vienna/	2026-11-28 Tagada – Patches
+Qualia	text,links,logo	2026-11-08		2026-11-27 Club Lucia – Qualia
+Resonance Social Artists	links,logo	2026-11-03	Herkunft: Mailand	2026-12-07 The Loft – GLITCH Vienna pres. Stef Davidse
+Restless	text,logo	2026-11-07	ig: https://www.instagram.com/restless_26/	2026-12-03 FLUCC – 15 Years Restless – Album Release Party
+Schall & Schabernack	links,logo	2026-11-07	Herkunft: Wien; alias: Schall und Schabernack	2026-11-20 Club Lucia – Schall & Schabernack
+Sub Zero	links,logo	2026-11-03	alias: SUBZERO	2026-11-20 The Loft – Sub Zero
+SubRosaDictum	ig,logo	2026-11-02	web: https://subrosadictum.de/; man:1	2026-11-21 Ottakringer Brauerei – Wiener Blut

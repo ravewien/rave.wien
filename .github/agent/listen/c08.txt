@@ -1,0 +1,31 @@
+# Sonderlauf Veranstalter – Liste c08 (30). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Events bei uns
+MinimaL	links,logo	2026-11-04	Art: Reihe	2025-05-01 PRST – MinimaL | 2025-02-13 PRST – MinimaL | 2025-01-09 PRST – MinimaL at Praterstrasse
+Perspective	links,logo	2026-11-04	Art: Reihe; Herkunft: Wien; alias: PERSPECTIVE.DNB	2024-11-29 Pratersauna – PERSPECTIVE with Mandidextrous [UK] | 2024-10-18 Pratersauna – Perspective Festival Day 1 | 2024-02-16 Pratersauna – PERSPECTIVE w/ FRICTION [UK]
+Playdate	logo	2026-11-04	ig: https://www.instagram.com/playdate.on/; Art: Reihe; Herkunft: Wien	2025-05-02 PRST – Playdate: MAYDATE with Bailey Ibbs | 2024-11-01 PRST – PLAYDATE: 111 Special | 2024-09-26 PRST – Playdate: Launch Party
+Polyamor	logo	2026-11-04	ig: https://www.instagram.com/polyamor.berlin; Art: Kollektiv; Herkunft: Berlin	2026-04-24 Grelle Forelle – Polyamor pres. Mika Heggemann All Night Long Tour | 2025-06-18 Grelle Forelle – Polyamor Vienna | 2024-09-28 Grelle Forelle – Tattu Tatta Glub & Polyamor
+Rhythmic Playground	text,links,logo	2026-11-04		2026-08-28 SASS Music Club – Rhythmic Playground | 2026-01-08 SASS Music Club – Rhythmic Playground | 2025-07-03 SASS Music Club – Rhythmic Playground
+Soularium	logo	2026-11-02	ig: https://www.instagram.com/soularium.club/	2026-11-06 The Loft – Soularium w/ Santo | 2024-05-02 PRST – Soularium x 808 Factory | 2024-04-11 PRST – Soularium x Donnerstanz
+Spätschicht	logo	2026-11-04	ig: https://www.instagram.com/spaetschicht.oida	2026-04-11 Club Lucia – TANZ IN DEN FRÜHLING – TDS X SPÄTSCHICHT | 2025-12-20 Club Lucia – Aftii pres. GROOVEMAS with Groove Operators x Spätschicht | 2025-11-15 Club Lucia – SPÄTSCHICHT INVITES
+Spectrum	logo	2026-11-04	ig: https://www.instagram.com/spectrum.vie; tix: https://spectrumevents.ticket.io/; Art: Reihe; Herkunft: Wien	2026-02-21 FLUCC – Spectrum with Dj Schnake | 2025-12-26 Das Werk – Decibell(e)s X Spectrum | 2025-08-09 FLUCC – Spectrum w/ Bass Temp
+Superstate	text,links,logo	2026-11-04		2025-11-28 SASS Music Club – Superstate | 2025-09-19 SASS Music Club – SuperAmore w/Eliza | 2025-06-06 SASS Music Club – Superstate W/ Almedina
+Vertigo	logo	2026-11-04	ig: https://www.instagram.com/vertigo.vienna/; Art: Reihe; Herkunft: Wien	2026-08-01 SASS Music Club – vertigo | 2026-04-03 SASS Music Club – vertigo | 2026-02-21 SASS Music Club – vertigo
+Volta	text,links,logo	2026-11-04		2025-10-17 Pratersauna – Volta invites ELIF | 2025-08-30 Pratersauna – VOLTA with People Science invites DEA | 2025-05-03 Pratersauna – Volta
+Acid Techno Techno Club	logo	2026-11-04	ig: https://www.instagram.com/acidtechnotechnoclub/; Art: Reihe; Herkunft: Wien	2024-10-12 Grelle Forelle – 6 YRS ACID TECHNO TECHNO CLUB w/ REGAL, KTK & DLV | 2024-06-01 Grelle Forelle – ACID TECHNO TECHNO CLUB w/ FRAZI.ER, JERM & DLV
+Addicted to Pressure	links,logo	2026-11-04	Art: Reihe	2025-12-31 Club Exil – ADDICTED TO PRESSURE 30H NYE RAVE | 2024-12-31 Club Exil – Addicted to Pressure – NYE Rave at EXIL
+Bassic Instinct	links,logo	2026-11-04	Art: Reihe; Herkunft: Wien	2026-08-01 Club Lucia – BASSIC INSTINCT – Old School DnB & Jungle | 2026-03-21 Club Lucia – BASSIC INSTINCT PRES. DKAY & Paul SG
+Buntergrund	links,logo	2026-11-04	Art: Reihe	2025-11-07 SASS Music Club – BUNTERGRUND | 2025-09-26 SASS Music Club – Buntergrund
+Club Casa	logo	2026-11-04	ig: https://www.instagram.com/_clubcasa/; Art: Reihe	2025-12-13 SASS Music Club – Club Casa | 2025-04-24 SASS Music Club – Club Casa
+Dualism	logo	2026-11-04	ig: https://www.instagram.com/dualism_berlin/; Art: Reihe; Herkunft: Berlin; alias: DUALISM Berlin	2026-05-23 Club Exil – Dualism w/ Paraçek | 2025-12-06 Pratersauna – DUALISM with L.zwo, NIKE101 uvm
+FM4 Unlimited	links,logo	2026-11-04	Herkunft: Wien	2025-10-03 Prater (Calafatiplatz) – FM4 Unlimited im Prater | 2024-10-04 Prater (Calafatiplatz) – FM4 Unlimited im Prater
+Function Blue	links,logo	2026-11-04	Art: Reihe	2025-11-27 PRST – Function Blue Vol. III | 2025-03-14 PRST – FUNCTION BLUE
+Kinky Galore	ig,logo	2026-11-04	web: https://www.kinkygalore.net/; Art: Reihe	2026-10-17 Club Exil – KINKY GALORE by jan.ehret WIEN | 2025-11-01 Club Exil – KINKY GALORE Wien
+Klassentreffen	text,links,logo	2026-11-04		2024-06-22 PRST – Klassentreffen w/ Karotte | 2024-01-27 PRST – KLASSENTREFFEN/PRST
+KSOT	ig,logo	2026-11-04	sc: https://soundcloud.com/keinsonntagohnetechno; tix: https://ksot.ticket.io/; Herkunft: Wien; alias: Kein Sonntag ohne Techno; man:1	2026-10-31 Ottakringer Brauerei – KSOT – Halloween Warehouse Rave | 2026-10-31 Hofburg Vienna – Bloody Masquerade – Halloween × Hofburg Vienna
+Luft & Liebe	links,logo	2026-11-04	Art: Reihe	2024-07-20 Pratersauna – MONOCHROM | Luft & Liebe x Henson | 2024-02-17 Pratersauna – LUFT & LIEBE w/ DOMINIK EULBERG x Rave On Society
+Meier	text,links,logo	2026-11-04		2026-09-18 PRST – MEIER | 2026-03-27 PRST – MEIER W/ DJ DEEP
+Melting Minds	links,logo	2026-11-04	Art: Reihe	2024-08-14 Pratersauna – Melting Minds with Expulze & Narfos live & Step To Tek Bunker | 2024-03-08 Pratersauna – MELTING MINDS w/ Phat Otiz, FTS & Noizelein
+Nass vom Bass	text,links,logo	2026-11-04		2025-09-05 Pratersauna – NASS VOM BASS | 2025-07-19 Pratersauna – NASS VOM BASS
+Opération	links,logo	2026-11-04	Art: Reihe; Herkunft: Österreich	2026-04-17 SASS Music Club – Opération | 2026-01-31 SASS Music Club – Opération
+Profiliga	text,links,logo	2026-11-04		2025-10-25 Pratersauna – PROFILIGA präs: Victor Ruiz | 2025-08-16 Pratersauna – PROFILIGA presents MARCO BAILEY!
+Raverknecht	text,links,logo	2026-11-04		2024-10-19 Weberknecht – RAVERKNECHT – an art & techno rave | 2024-01-26 Weberknecht – Raverknecht Vol. 4
+Schere3000	logo	2026-11-04	ig: https://www.instagram.com/schere3000/	2026-07-04 FLUCC – Dyke March Afterparty hosted by Schere3000 | 2026-06-13 FLUCC – HYPERTRASH x Schere3000 Pride Night Special with Himera & Blood of Aza

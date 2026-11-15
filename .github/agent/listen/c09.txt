@@ -1,0 +1,31 @@
+# Sonderlauf Veranstalter – Liste c09 (30). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Events bei uns
+Schlaflos	links,logo	2026-11-04	Art: Reihe	2024-04-13 Pratersauna – Schlaflos im April mit Denis Sulta | Das Ende einer Ära | 2024-03-09 Pratersauna – Schlaflos im März mit Mall Grab
+Shapes & Fugazi	links,logo	2026-11-04	Art: Reihe; alias: Fugazi & Shapes	2025-11-14 PRST – SHAPES & FUGAZI pres. Shy One | 2025-05-30 PRST – SHAPES & FUGAZI present JAEL
+Techno Vienna	ig	2026-11-04	web: https://technovienna.com/; tix: https://technovienna.ticket.io/; Herkunft: Wien	2025-08-01 Usus am Wasser – TECHNO AM WASSER⁴ x Open Air Rave 2025 | 2025-06-06 Usus am Wasser – TECHNO AM WASSER x Open Air Rave 2025
+Techno.Kult	text,links,logo	2026-11-04		2026-09-18 Grelle Forelle – Fish Market w/LACCHESI: Techno.Kult Kitchen Hosting | 2026-08-07 Grelle Forelle – Techno.Kult x Grelle Forelle Clubnight – Kitchen Hosting
+The Academy	text,links,logo	2026-11-04		2024-06-01 PRST – The Academy | 2024-05-25 PRST – The Academy
+Unframed	logo	2026-11-04	ig: https://www.instagram.com/unframed.wav/; Art: Reihe	2026-04-25 Club Lucia – unframed – fluffy house minimalism | 2025-11-06 Tagada – unframed – fluffy house minimalism
+Unkwn	text,links,logo	2026-11-04		2026-04-25 SASS Music Club – UNKWN | 2024-05-10 PRST – UNKWN_001 feat. Cezar
+VOID	logo	2026-11-04	ig: https://www.instagram.com/void.vienna/; Herkunft: Wien; alias: VOID.VIENNA	2026-04-11 Club Exil – VOID SPRING SPECIAL 2026 | 2025-11-07 Club Exil – VOID WINTER SPECIAL 2025
+Wu Wolves	text,links,logo	2026-11-04		2026-03-05 PRST – WU WOLVES | 2026-01-29 PRST – WU WOLVES
+Wyldhearts	links,logo	2026-11-04	Art: Reihe; Herkunft: Deutschland	2026-07-11 Grelle Forelle – Trance & Bounce in der Grellen Forelle /w Wyldhearts Germany | 2025-11-29 Grelle Forelle – NEXUS X WYLDHEARTS
+303	links,logo	2026-11-03		2026-11-07 Flex – 303 presents Hanzom Label Night
+50 Herz	text,logo	2026-11-03	ig: https://www.instagram.com/50.herz/	2026-11-13 Kollektiv Kaorle – 50 Herz / Sodomland
+909techno	logo	2026-11-02	ig: https://instagram.com/909techno	2026-11-07 Das Werk – Techno Obscene #35 – 3 Year Anniversary
+AIMmanagemnt	links,logo	2026-11-05		2026-11-05 Weberknecht – OUT OF SPACE
+Alles Allen	links,logo	2026-11-04	Art: Kollektiv	2026-10-31 Rhiz – ALLES ALLEN No Halloween Birthday Bash
+Baseline	text,links,logo	2026-11-04		2026-02-19 PRST – BASELINE
+Bassclub	text,links,logo	2026-11-03		2026-11-13 The Loft – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Bassproduction	links,logo	2026-11-04		2026-10-30 Weberknecht – Mijk van Dijk (live) // Joro & Joabo // Atomik
+Bestand	text,links,logo	2026-11-03		2026-11-06 FLUCC – up/or with NEXUS (live), k means, SAMI, DJ Fred & zey
+Café Mondo	logo	2026-11-03	web: https://linktr.ee/cafe.mondo; ig: https://www.instagram.com/cafe_mondo_/; sc: https://soundcloud.com/cafe-mondo; Herkunft: Wien; alias: Cafe Mondo	2026-11-06 Funkhaus – Café Mondo invites Mama Demba
+ClassiX	links,logo	2026-11-04	Art: Reihe	2026-10-31 M1 Club – ClassiX – Halloween Madness
+Clubgewandte	links,logo	2026-11-05	Herkunft: Wien	2026-11-13 Angewandte PSK – Clubgewandte FREE ENTRY
+Collapse	ig,logo	2026-11-04	tix: https://collapse-events.ticket.io/	2026-10-31 Flex – The Hive x Collapse – Face Off Halloween Special
+Cosmic Egg	text,links,logo	2026-11-03		2026-11-07 Rhiz – Cosmic BirthRave
+Cosmic Space Disco	links,logo	2026-11-04	Art: Reihe; Herkunft: Wien	2024-02-23 Pratersauna – COSMIC Space Disco – Winter Tales w/ Klopfgeister
+created-on-earth	text,links,logo	2026-11-03		2026-11-07 Funkhaus – traveling without moving
+Crisp	text,links,logo	2026-11-04		2026-04-16 PRST – CRISP
+Cyclic Existence	logo	2026-11-02	ig: https://www.instagram.com/cyclic_existence; Art: Reihe; Herkunft: Wien	2026-11-07 SASS Music Club – Cyclic Existence
+Dark Pressure	links,logo	2026-11-03	Art: Label	2026-11-13 FLUCC – deep cut × Dark Pressure
+Duality	links,logo	2026-11-04	Art: Reihe; Herkunft: Wien	2024-05-03 Grelle Forelle – Duality X Demolate

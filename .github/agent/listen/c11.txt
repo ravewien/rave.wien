@@ -1,0 +1,27 @@
+# Sonderlauf Veranstalter – Liste c11 (26). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Events bei uns
+Publegenden	logo	2026-11-10	ig: https://www.instagram.com/publegenden/; Art: Reihe; Herkunft: Wien	2026-11-13 Club U – 10 Years of Publegenden feat. BØRT
+Radiance	logo	2026-11-02	ig: https://www.instagram.com/radiance.at/; Herkunft: Wien	2026-11-13 Club Lucia – Drum & Bassick x Radiance
+Ravenbogen	logo	2026-10-31	ig: https://www.instagram.com/ravenbogen; Herkunft: Graz	2026-10-31 Celeste – Halloqueer
+Rude Bwoy Embassy	text,links,logo	2026-11-03	alias: Rudebwoy Embassy	2026-11-13 The Loft – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+sch:cht	links,logo	2026-11-03	Art: Reihe	2026-11-05 FLUCC – Party Modern | SCH:CHT
+Schrödingers Groove	logo	2026-11-03	ig: https://www.instagram.com/schroedingersgroove/; Herkunft: Wien	2026-10-30 Das Werk – Schwerkraft w/ Alex TB, Prakas, Osmos
+served	logo	2026-11-02	ig: https://www.instagram.com/serve.ddd; Art: Reihe; Herkunft: Wien	2026-11-07 Secret Location – served invites Harmony Rec. × hereandthere
+Slutlabs	text,links,logo	2026-11-02	man:1	2026-11-07 Libelle – SXXPLICIT Pop-up Club
+Subwaves	logo	2026-11-04	ig: https://www.instagram.com/subwaves.vie/; Art: Reihe; Herkunft: Wien	2026-06-26 Club U – DER RADIO X Subwaves
+Super Disco	links,logo	2026-11-04		2026-10-31 O der Klub – Halloween Transmission
+Superego Records	logo	2026-11-03	ig: https://www.instagram.com/superego_records/; Art: Label; Herkunft: Wien	2026-11-13 Celeste – Superego Records Labelnight + Vantan Record Release
+Symbiotikka	logo	2026-11-04	ig: https://www.instagram.com/symbiotikka/; Herkunft: Berlin	2025-12-13 Pratersauna – SYMBIOTIKKA x Pratersauna
+Tayrona Records	text,links,logo	2026-11-03		2026-11-07 Fanialive Wien – Fanialive & Tayrona Records present DJ Raff
+Techno Komet	logo	2026-11-04	ig: https://www.instagram.com/technokomet.official/; Art: Promoter; Herkunft: Wien	2024-05-24 Grelle Forelle – TECHNO KOMET invites FELICIE [FR] | Grelle Forelle
+The Hive	links,logo	2026-11-03		2026-10-31 Flex – The Hive x Collapse – Face Off Halloween Special
+Toner	text,links,logo	2026-11-04		2024-12-16 Kramladen – Toner at Kramladen
+up/or	ig,logo	2026-11-02	web: https://bestand.org/; Art: Reihe	2026-11-06 FLUCC – up/or with NEXUS (live), k means, SAMI, DJ Fred & zey
+Vitamin.BPM	ig,logo	2026-11-04	web: https://vitaminbpm.com; Herkunft: Wien	2026-11-06 Loop – 5. Org
+WOS Soundsystem	text,links,logo	2026-11-03		2026-11-06 SASS Music Club – WOS Soundsystem invites Josefina Tapia
+YE	links,logo	2026-11-04		2026-10-31 Hofburg Vienna – Bloody Masquerade – Halloween × Hofburg Vienna
+Derisch	text,links,logo	2026-11-03		
+Kaisa Bodega	text,links,logo	2026-11-03		
+MEIOSISS	ig,logo	2026-11-03	sc: https://soundcloud.com/NWFbb; Herkunft: Wien	
+Pingpaya Fenty Savage	text,links,logo	2026-11-03		
+Raqsouna	logo	2026-11-03	ig: https://www.instagram.com/raqsouna/; Art: Reihe; Herkunft: Wien	
+STRICT!	logo	2026-11-02	ig: https://www.instagram.com/strict_event/; man:1	

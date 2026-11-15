@@ -11,13 +11,20 @@
 //  - Alle anderen Felder: setzen (Objekte wie links/bio/from werden feldweise zusammengeführt).
 //  - alias und src: Listen werden vereinigt (keine Dubletten).
 //  - Ein neuer Name, der bereits alias eines Eintrags ist, wird auf diesen Eintrag umgeleitet.
+//  - "S": {kürzel: "Quellenname"} – neue Quellen-Kürzel (nur neue, bestehende bleiben); "SO": ["kürzel"] – Kürzel, die eigene Seiten von Veranstaltern sind.
+//  - "VR": {Location: {age, aw, nophoto, sound:{…}}} – Hausregeln/Soundsystem, wie AR/CI/VI zusammengeführt (Location muss in V stehen).
+//  - "EV": {"<Event-Schlüssel>": {Feld: Wert, ...}} – kommende Events in RAW. Schlüssel = (d + "-" + slug(title)), auf 60 Zeichen
+//    gekürzt (steht in den Listen der Sonderläufe). Regeln: man:1 → nur leere Felder ergänzen; src (Paare ["kürzel", url]) und
+//    coll werden angehängt, nie ersetzt; na wird angehängt und um Felder bereinigt, die jetzt einen Wert haben; Wert null entfernt
+//    ein Feld; "_delete": true entfernt das Event (Absage; nie bei man:1). Unbekannte Schlüssel werden gemeldet und übersprungen.
 const fs = require("fs"), path = require("path"), vm = require("vm");
 const patchF = process.argv[2], evF = process.argv[3] || path.resolve(__dirname, "..", "..", "events.js");
 if (!patchF) { console.error("Aufruf: node apply-patch.js <patch.json> [events.js]"); process.exit(1); }
 const patch = JSON.parse(fs.readFileSync(patchF, "utf8"));
 let src = fs.readFileSync(evF, "utf8");
-const names = ["V", "VR", "CG", "KC", "CI", "VI", "AR"];
-const ctx = {}; vm.runInNewContext(src + "\n;this.__o={" + names.map(n => `${n}:typeof ${n}!=="undefined"?${n}:undefined`).join(",") + "};", ctx);
+const names = ["V", "S", "SO", "VR", "CG", "KC", "CI", "VI", "AR"];
+const hasEV = patch.EV && Object.keys(patch.EV).length > 0;
+const ctx = {}; vm.runInNewContext(src + "\n;this.__o={" + names.concat(hasEV ? ["RAW"] : []).map(n => `${n}:typeof ${n}!=="undefined"?${n}:undefined`).join(",") + "};", ctx);
 const D = ctx.__o;
 const isEmpty = v => v == null || v === "" || (Array.isArray(v) && !v.length) || (typeof v === "object" && !Array.isArray(v) && !Object.keys(v).length);
 const isObj = v => v && typeof v === "object" && !Array.isArray(v);
@@ -62,17 +69,66 @@ for (const [n, g] of Object.entries(patch.CG || {})) { const cur = D.CG[n] || []
 let kcNew = false;
 for (const n of patch.KC || []) if (!D.KC.some(x => key(x) === key(n))) { D.KC.push(n); changed++; kcNew = true; }
 if (kcNew) D.KC.sort((a, b) => a.localeCompare(b, "de", { sensitivity: "base" }));
+for (const [k, name] of Object.entries(patch.S || {})) { if (D.S && typeof name === "string" && name.trim() && /^[a-z0-9]{1,8}$/.test(k) && D.S[k] === undefined) { D.S[k] = name.trim(); changed++; } }
+for (const k of patch.SO || []) { if (Array.isArray(D.SO) && typeof k === "string" && D.S && D.S[k] !== undefined && !D.SO.includes(k)) { D.SO.push(k); changed++; } }
+for (const [n0, add] of Object.entries(patch.VR || {})) {
+  const n = D.V[n0] !== undefined ? n0 : resolve(D.VI, n0);
+  if (D.V[n] === undefined) { log.push(`VR übersprungen (Location unbekannt): ${n0}`); continue; }
+  if (!D.VR[n]) D.VR[n] = {};
+  mergeEntry(D.VR[n], add, true, false); // Hausregeln/Sound: nur Leeres ergänzen, nie überschreiben if (isEmpty(D.VR[n])) delete D.VR[n];
+}
+// Events (RAW)
+if (hasEV) {
+  const slug = t => String(t).toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/ß/g, "ss").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  const evKey = e => (e.d + "-" + slug(e.title)).slice(0, 60).replace(/-$/, "");
+  const NAF = ["price", "e", "flyer", "tickets", "s", "age"];
+  const mergeEv = (cur, add, man) => {
+    for (const [f, v] of Object.entries(add)) {
+      if (f === "_delete" || f === "man") continue;
+      if (f === "src" && Array.isArray(v)) {
+        const out = Array.isArray(cur.src) ? cur.src.slice() : []; const have = new Set(out.map(x => x && x[1]));
+        v.forEach(x => { if (Array.isArray(x) && x.length === 2 && typeof x[0] === "string" && typeof x[1] === "string" && /^https?:\/\//.test(x[1]) && !have.has(x[1])) { out.push([x[0], x[1]]); have.add(x[1]); } });
+        if (out.length !== (cur.src || []).length) { cur.src = out; changed++; } continue;
+      }
+      if ((f === "coll" || f === "na") && Array.isArray(v)) {
+        const out = Array.isArray(cur[f]) ? cur[f].slice() : [];
+        v.forEach(x => { if (typeof x === "string" && x.trim() && !out.includes(x.trim())) out.push(x.trim()); });
+        if (out.length !== (cur[f] || []).length) { cur[f] = out; changed++; } continue;
+      }
+      if (v === null) { if (!man && f in cur && !["d", "title", "venue", "src"].includes(f)) { delete cur[f]; changed++; } continue; }
+      if (isObj(v) && (isObj(cur[f]) || cur[f] == null)) {
+        if (cur[f] == null) cur[f] = {};
+        for (const [g, w] of Object.entries(v)) { if (w == null) continue; if (man && !isEmpty(cur[f][g])) continue; if (JSON.stringify(cur[f][g]) !== JSON.stringify(w)) { cur[f][g] = w; changed++; } }
+        if (isEmpty(cur[f])) delete cur[f]; continue;
+      }
+      if (isEmpty(v)) continue;
+      if (man && !isEmpty(cur[f])) continue;
+      if (JSON.stringify(cur[f]) !== JSON.stringify(v)) { cur[f] = v; changed++; }
+    }
+    if (Array.isArray(cur.na)) { const na = cur.na.filter(x => !(NAF.includes(x) && !isEmpty(cur[x]))); if (na.length !== cur.na.length) { changed++; if (na.length) cur.na = na; else delete cur.na; } }
+  };
+  for (const [k, add] of Object.entries(patch.EV)) {
+    const hit = D.RAW.filter(e => evKey(e) === k);
+    if (!hit.length) { log.push(`EV nicht gefunden: ${k}`); continue; }
+    if (add && add._delete === true) {
+      if (hit.some(e => e.man === 1)) { log.push(`EV nicht entfernt (man:1): ${k}`); continue; }
+      D.RAW = D.RAW.filter(e => !hit.includes(e)); changed++; log.push(`EV entfernt: ${k}`); continue;
+    }
+    hit.forEach(e => mergeEv(e, add, e.man === 1));
+  }
+}
 // zurückschreiben im vorhandenen Stil
-function replaceConst(name, val, oneLine) {
+function replaceConst(name, val, oneLine, text) {
   const re = new RegExp("^const " + name + "=", "m"); const m = re.exec(src); if (!m) throw new Error("Konstante fehlt: " + name);
   const start = m.index; let i = start + m[0].length, depth = 0, inStr = false, esc = false;
   for (; i < src.length; i++) { const c = src[i];
     if (inStr) { if (esc) esc = false; else if (c === "\\") esc = true; else if (c === '"') inStr = false; continue; }
     if (c === '"') inStr = true; else if (c === "{" || c === "[") depth++; else if (c === "}" || c === "]") { depth--; if (depth === 0) { i++; break; } } }
   if (src[i] === ";") i++;
-  src = src.slice(0, start) + "const " + name + "=" + (oneLine ? JSON.stringify(val) : JSON.stringify(val, null, 1)) + ";" + src.slice(i);
+  src = src.slice(0, start) + "const " + name + "=" + (text !== undefined ? text : oneLine ? JSON.stringify(val) : JSON.stringify(val, null, 1)) + ";" + src.slice(i);
 }
 const oneLine = n => { const m = new RegExp("^const " + n + "=(.*)$", "m").exec(src); return m && /;\s*$/.test(m[1]); };
 for (const n of names) if (D[n] !== undefined) replaceConst(n, D[n], oneLine(n));
+if (hasEV) replaceConst("RAW", D.RAW, false, "[\n" + D.RAW.map(e => JSON.stringify(e)).join(",\n") + "\n]"); // ein Event pro Zeile
 fs.writeFileSync(evF, src);
 console.log(`Änderungen: ${changed}` + (log.length ? `\n` + log.join("\n") : ""));

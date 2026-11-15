@@ -1,0 +1,31 @@
+# Sonderlauf Veranstalter – Liste c10 (30). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Events bei uns
+Dunkelton Kollektiv	links,logo	2026-11-04	Art: Kollektiv	2026-10-31 Loop – Black Signal
+ELEMNT	links,logo	2026-11-04		2026-10-24 Arena Wien – ELEMNT pres. KANINE – Reflections + ARCANDO + BASSTRIPPER + GRAFIX + SKIYE
+Entrance	links,logo	2026-11-04	Art: Kollektiv; Herkunft: Wien; alias: entrance	2026-10-31 Tagada – Housetiere w/ Chata
+Entropy	links,logo	2026-11-04	Herkunft: Wien; alias: Collective Entropy	2026-11-07 Loop – ENTROPY
+euphonic records	ig,logo	2026-11-03	web: https://www.euphonic.de/; Art: Label; Herkunft: Deutschland	2026-11-07 U4 – Kyau & Albert (Extended Set)
+Fader Friends	text,links,logo	2026-11-03		2026-11-07 Rhiz – Cosmic BirthRave
+Fadercult	links,logo	2026-11-03	Art: Kollektiv; Herkunft: Berlin	2026-11-06 Grelle Forelle – Mahlwerk × Fadercult w/ Afem Syko & Lisa Korver
+FORA	links,logo	2026-11-04	Art: Reihe	2026-10-30 PRST – FORA
+Green Light Collective	text,links,logo	2026-11-03		2026-11-12 SASS Music Club – Donnerstag Nacht × Green Light Collective
+Gürtelgroove	text,logo	2026-11-03	ig: https://www.instagram.com/guertelgroove/	2026-11-11 Club Lucia – Köstlich x Gürtelgroove
+Habibi Party	text,links,logo	2026-11-03	Herkunft: Wien	2026-11-07 FLUCC – Klub Halal pres. Klub Palestine
+Hallraum	links,logo	2026-11-03	Herkunft: Wien	2026-11-07 Tagada – Hallraum
+Hanzom	logo	2026-10-31	web: https://www.hanzom.com/; ig: https://www.instagram.com/hanzom_music/; sc: https://soundcloud.com/hanzommusic; Art: Label	2026-11-07 Flex – 303 presents Hanzom Label Night
+Harmony Rec.	logo	2026-11-02	web: https://harmonyrec.com; ig: https://www.instagram.com/harmony_rec/; sc: https://soundcloud.com/harmony-rec; bc: https://harmonyrec.bandcamp.com; Art: Label/Kollektiv/Reihe; Herkunft: Prag	2026-11-07 Secret Location – served invites Harmony Rec. × hereandthere
+Herrensauna	links,logo	2026-11-04	Art: Kollektiv; Herkunft: Berlin	2025-11-29 Pratersauna – HERRENSAUNA x EUPHORIA
+House of Plüsch	logo	2026-11-02	ig: https://www.instagram.com/houseofpluesch	2026-11-06 Tagada – Plüsch
+Housebesuch	text,links,logo	2026-11-04		2024-01-18 PRST – STEVE HOPE & FRIENDS feat. HOUSEBESUCH AFTERWORK
+Jah Power Sound	links,logo	2026-11-03		2026-11-13 The Loft – Rudebwoy Embassy meets Bassclub – 30 Years Jah Power Sound
+Journey to Tarab	ig		sc: https://soundcloud.com/journeytotarab; Herkunft: Wien; man:1	2025-07-05 Pratersauna – Journey to Tarab x Gassen aus Zucker x Pratersauna – Candy Crush durch Zuckershock
+Kann&Will	text,logo	2026-11-10	ig: https://www.instagram.com/kann_und_will/	2026-11-12 Loop – Ingenieur:innen ohne Grenzen Austria × Kann&Will!
+Klub Halal	logo	2026-10-31	ig: https://www.instagram.com/klubhalal; tix: https://www.tickettailor.com/events/klubhalal; Art: Reihe; Herkunft: Wien	2026-11-07 FLUCC – Klub Halal pres. Klub Palestine
+Kollektiv Ost:West	links,logo	2026-11-03	Art: Kollektiv; Herkunft: Wien; alias: KO:W	2026-11-06 PRST – BLUR with E.LINA
+KØRE	links,logo	2026-11-04		2026-10-31 Lugner City – KØRE Halloween Rave 2026
+Köstlich	logo	2026-11-02	ig: https://www.instagram.com/kollektiv.koestlich/; sc: https://soundcloud.com/koestlich-kollektiv; Art: Kollektiv; Herkunft: Wien; alias: Kollektiv Köstlich	2026-11-11 Club Lucia – Köstlich x Gürtelgroove
+Lighthouse	links,logo	2026-11-04	Herkunft: Kroatien; alias: Lighthouse Festival	2026-05-09 Grelle Forelle – Lighthouse X Grelle Forelle Warmup VIE
+Little Beat More	ig,logo	2026-10-31	web: https://linktr.ee/littlebeatmore; bc: https://littlebeatmore.bandcamp.com; Art: Label/Kollektiv/Promoter; Herkunft: Wien	2026-11-07 FLUCC – Pomelo Plaza #3 presented by Little Beat More
+LustMusik	links,logo	2026-11-03	Herkunft: Wien	2026-11-06 Loop – 5. Org
+nomind.	logo	2026-11-04	ig: https://www.instagram.com/nomind.vie/	2026-06-11 Porto Pollo – nomind. invites Verleger
+Pirotecnia	ig	2026-11-03	web: https://linktr.ee/pirotecnia; Art: Label; Herkunft: Chile	2026-11-07 Fanialive Wien – Fanialive & Tayrona Records present DJ Raff
+Pole Circle	links,logo	2026-11-02	man:1	2026-11-07 Libelle – SXXPLICIT Pop-up Club

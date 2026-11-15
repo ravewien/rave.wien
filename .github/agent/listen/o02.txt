@@ -1,0 +1,26 @@
+# Sonderlauf Locations – Liste o02 (25). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Events bei uns
+SASS Music Club	opened,floors	2026-11-02	Adresse: Karlsplatz 1, 1010; web: https://sassvienna.com/; man:1	2026-11-15 Morgengymnastik with Redivider | 2026-11-19 Bonkers × Belly Dance Services | 2026-11-20 Freeride Millenium | vergangene Events: 294
+Kramladen	web,floors,sound	2026-11-02	Adresse: U-Bahnbogen 39–40, Lerchenfelder Gürtel, 1080; man:1	2026-11-19 Teknoteka | 2026-11-28 Xperiment Nights | 2026-12-03 FIFI RAVE | vergangene Events: 170
+Club Lucia	floors,sound	2026-11-02	Adresse: U-Bahnbogen 24–25, 1080; web: https://www.clublucia.at/	2026-11-20 Schall & Schabernack | 2026-11-21 Kleingeld Kollektiv Klubnacht | 2026-11-27 Qualia | vergangene Events: 75
+Weberknecht	opened,sound	2026-11-02	Adresse: Lerchenfelder Gürtel 47, 1160; web: https://weberknecht.at/	2026-11-21 Mottosause // Boots, Beer & Beats | 2026-12-07 RAVECON × MIND X-MAS feat. Mario Ranieri | 2026-12-24 OUT OF SPACE Xmas Eve | vergangene Events: 29
+O der Klub	sound	2026-10-31	Adresse: Opernring/Operngasse, 1010; web: https://o-klub.at/; man:1	2026-11-27 November-Transmission | 2026-12-04 December-Transmission | 2026-12-07 Monday-Transmission | vergangene Events: 4
+Rhiz	opened,floors,sound	2026-11-02	Adresse: Lerchenfelder Gürtel, U-Bahnbogen 37-38, 1080; web: https://rhiz.wien/	2026-11-15 nomenklatur w/ great area & PILLBERT (live) | 2026-11-20 GLITCH Vienna 001 | 2026-11-21 POLYCHAOS DUBIUM | vergangene Events: 3
+Loop	opened,floors,sound	2026-11-02	Adresse: Lerchenfelder Gürtel, Stadtbahnbogen 27, 1080; web: https://loop.co.at	2026-11-21 VIE'n'B | 2026-11-27 Fuelized & Friends | vergangene Events: 4
+Prater Dome	sound	2026-11-02	Adresse: Riesenradplatz 7, 1020; web: https://www.praterdome.at	2026-11-27 Access Another Atmosphere w/ Cosmic Gate & Ruben de Ronde | 2026-11-28 KSHMR pres. by Prater DOME | vergangene Events: 0
+Westbahn Studios	text,web,logo,opened,floors,sound	2026-11-02	Adresse: Adresse noch TBA	2026-12-16 sama recordings pres. schweben | 2026-12-21 Ventil Records pres. Eardrum Residency w/ Mariam Rezaei | vergangene Events: 0
+BC Vienna Arena	logo,floors,sound	2026-11-11	Adresse: Gutheil-Schoder-Gasse 9, 1100; web: https://www.hallmann-dome.at/; alias: Hallmann Dome	2027-01-29 Paradise Winter Festival 2027 – Nacht 1 | 2027-01-30 Paradise Winter Festival 2027 – Nacht 2 | vergangene Events: 0
+Event Arena Vösendorf	text,web,logo,opened,sound	2026-11-02	Adresse: Marktstraße 13a, 2331 Vösendorf	2026-12-07 HARDLINE: COLD WAR – A Winter Special | vergangene Events: 1
+Kollektiv Kaorle	logo,opened,io,floors,sound	2026-11-02	Adresse: Baumgartner Höhe 1 (Otto Wagner Areal, Pavillon 21), 1140; web: https://kollektiv-kaorle.at	2026-11-20 AMBIEVENT – trace encounters | vergangene Events: 1
+Multiversum Schwechat	logo,sound	2026-11-02	Adresse: Möhringgasse 2/4, 2320 Schwechat; web: https://www.multiversum-schwechat.at	2026-12-12 KlangKuenstler | vergangene Events: 0
+Einbaumöbel	text,web,logo,opened,floors,sound	2026-11-10	Adresse: Währinger Gürtel, Stadtbahnbogen 97, 1090	2026-11-21 Bass Cave – Drum and Bass w/ UNONESSUNO & M:PATHY | vergangene Events: 0
+WUK	logo,sound	2026-11-11	Adresse: Währinger Straße 59, 1090; web: https://www.wuk.at	2026-12-05 Elektro Guzzi & Special Guests – Palazzo Festival | vergangene Events: 0
+Usus am Wasser	opened,sound	2026-11-02	Adresse: An der Neuen Donau 1, 1210; web: https://amwasser.wien; man:1	 | vergangene Events: 6
+Otto Wagner Areal	web,logo,opened,floors,sound	2026-11-02	Adresse: Baumgartner Höhe 1, 1140	 | vergangene Events: 2
+Prater (Calafatiplatz)	logo,opened,floors,sound	2026-11-02	Adresse: Calafatiplatz, 1020; web: https://www.praterwien.com/en/prater/event-management/for-organizers	 | vergangene Events: 2
+Semmelweisklinik	logo,opened,io,floors,sound	2026-11-03	Adresse: Hockegasse 37, 1180; web: https://www.semmelweisklinik.at	 | vergangene Events: 1
+Himmel und Wasser	opened,floors,sound	2026-11-03	Adresse: Steinspornbrücke 1, 1220; web: https://www.himmelundwasser.at	 | vergangene Events: 1
+M1 Club	text,web,logo,opened,floors,sound	2026-11-02	Adresse: Schwarzenbergplatz 10, 1040	 | vergangene Events: 1
+The Popp im Prater	web,logo,opened,io,floors,sound	2026-11-02	Adresse: Wurstelprater, 1020	 | vergangene Events: 1
+U4	sound	2026-11-02	Adresse: Schönbrunner Straße 222-228, 1120; web: https://www.u4.at/; man:1	 | vergangene Events: 1
+Hofburg Vienna	opened,floors,sound	2026-11-02	Adresse: Heldenplatz, 1010; web: https://www.hofburg.com/en	 | vergangene Events: 1
+Angewandte PSK	logo,opened,floors,sound	2026-11-05	Adresse: Georg-Coch-Platz 2, 1010; web: https://angewandte.at	 | vergangene Events: 1
