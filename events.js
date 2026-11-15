@@ -1067,6 +1067,19 @@ const CG={
  ],
  "Kann&Will": [
   "Pop"
+ ],
+ "Soundbüglerei": [
+  "House"
+ ],
+ "Techno Entgleist": [
+  "Techno"
+ ],
+ "Tohuwabohu": [
+  "Techno"
+ ],
+ "Der Radio": [
+  "House",
+  "UK Garage"
  ]
 };
 const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","909techno","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","Art Attech","AUDIO303","Auf der Lauer","Ausländer Haus","AWSM","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","BLUR","Bonkers","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Cybertribe","Cyclic Existence","Dance 2 House","Danza Obscura","Dark Pressure","Das Syndikat","DEAD END","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","It's George","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Klanggerecht","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","Meier","MEIOSISS","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Opération","Out of Space","Oxygene","Palazzo Recordings","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","SIGNAL","SIN","Slutlabs","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","The Academy","The Hive","The House of Funk","the zound partisans","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Ungeniert","Uniquely Journeys","Unkwn","Untz Baby Untz","up/or","Vangardist","Ventil Records","Verknallt","Vertigo","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wyldhearts","Xperiment","Xperiment Records","YE","YN","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
@@ -1375,8 +1388,9 @@ const CI={
   "type": [
    "Reihe"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "ig": "https://www.instagram.com/technoentgleist/"
  },
  "Rhythm Science": {
   "founded": "2018",
@@ -4566,8 +4580,8 @@ const CI={
   "src": [
    "https://ra.co/events/2320756"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Schwerkraft": {
   "de": "Techno-Nacht im Das Werk mit Techno und Acid auf Main- und Luster-Floor, präsentiert von Schroedinger's Groove.",
@@ -4720,10 +4734,11 @@ const CI={
    "Reihe"
   ],
   "src": [
-   "https://soundcloud.com/radiorudina/anna-soto-soundbuglerei-radio-rudina"
+   "https://soundcloud.com/radiorudina/anna-soto-soundbuglerei-radio-rudina",
+   "https://ra.co/events/2433255"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Tohuwabohu": {
   "de": "Reihe im FLUCC und Club Lucia mit wechselnden Ausgaben, etwa „Technoid Edition“ und „Psychedelic Edition“.",
@@ -4732,19 +4747,35 @@ const CI={
    "Reihe"
   ],
   "src": [
-   "https://de.ra.co/promoters/138321"
+   "https://de.ra.co/promoters/138321",
+   "https://de.ra.co/events/2417583",
+   "https://linktr.ee/tohuwabohu.vienna"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-03",
+  "web": "https://tohuwabohu.wien/",
+  "ig": "https://www.instagram.com/tohuwabohu.vienna/",
+  "sc": "https://soundcloud.com/tohuwabohu-vienna",
+  "logo": "https://ugc.production.linktr.ee/5f755d78-da81-47a4-ad4a-725f4471ff88_logo-open-graph.png?io=true&size=avatar-v3_0"
  },
  "Der Radio": {
   "de": "Veranstalter von Clubnächten und Open Airs mit House und Garage, u. a. in der Grelle Forelle, im SASS Music Club, auf der Terrasse des Club U (mit Subwaves) und im Celeste.",
   "en": "Host of club nights and open airs with house and garage, at Grelle Forelle, SASS Music Club, the Club U terrace (with Subwaves) and Celeste, among others.",
   "src": [
-   "https://ra.co/events/2469302"
+   "https://ra.co/events/2469302",
+   "https://de.ra.co/events/2405823",
+   "https://ra.co/events/2479341"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "ig": "https://www.instagram.com/derrradio/",
+  "sc": "https://soundcloud.com/der-radio",
+  "type": [
+   "Kollektiv"
+  ],
+  "alias": [
+   "DerRadio"
+  ]
  },
  "Garten von Eben": {
   "de": "Reihe im FLUCC mit den „Traumtempo“-Nächten, teils tagsüber und mit Workshops wie Connected Breathwork.",
@@ -4758,8 +4789,8 @@ const CI={
  "Store Beats": {
   "de": "Reihe im Kramladen, u. a. mit einer „Mind Entertainment Edition“.",
   "en": "Series at Kramladen, including a “Mind Entertainment Edition”.",
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Mind Entertainment": {
   "de": "Veranstalter bzw. Label (Mind Entertainment Records) mit Events im Kramladen und Weberknecht, darunter „RaveCon“ zum 50. Release.",
