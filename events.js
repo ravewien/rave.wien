@@ -20579,10 +20579,25 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Mark Dale": {
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "img": "https://static.ra.co/images/profiles/square/markdaleat.jpg?dateUpdated=1774868100000",
+  "links": {
+   "ra": "https://ra.co/dj/markdaleat"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Mark Dale (AT) ist ein österreichischer Techno-DJ, der seit 2022 auf Resident Advisor gelistet ist. Am häufigsten legt er im Chapeau Rouge in Prag auf, unter anderem bei der Reihe FIX gemeinsam mit Kjaer und Thomas Tesla; außerdem spielte er bei der R.C.S.-Launch-Party in Berlin.",
+   "en": "Mark Dale (AT) is an Austrian techno DJ listed on Resident Advisor since 2022. He plays most often at Chapeau Rouge in Prague, including the FIX series alongside Kjaer and Thomas Tesla, and has also played the R.C.S. launch party in Berlin."
+  },
+  "src": [
+   "https://ra.co/dj/markdaleat"
+  ]
  },
  "MANiLO": {
   "infoChk": "2026-11-15",
@@ -43371,10 +43386,47 @@ const AR={
   "noLinks": "2026-11-04"
  },
  "The Trip": {
-  "infoChk": "2026-11-04",
+  "infoChk": "2026-11-15",
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "img": "https://static.ra.co/images/profiles/square/thetrip.jpg?dateUpdated=1782750166847",
+  "links": {
+   "ra": "https://ra.co/dj/thetrip",
+   "sc": "https://soundcloud.com/tessellatelondon",
+   "bc": "https://tessellatelondon.bandcamp.com",
+   "ig": "https://www.instagram.com/thetriplondon/"
+  },
+  "from": {
+   "de": "Großbritannien",
+   "en": "United Kingdom"
+  },
+  "bio": {
+   "de": "The Trip ist das DJ- und Produzenten-Duo von Max van Dijk und Oli Hiam aus Großbritannien. Die beiden gründeten das Londoner Label und die Partyreihe Tessellate, die seit 2013 Partys veranstaltet, und stehen für eine glänzende Spielart von Tech House. Das Duo war für den DJ-Mag-Award „Best of British Breakthrough Producer“ nominiert und lieferte den RA-Podcast RA.1038.",
+   "en": "The Trip is the DJ and production duo of Max van Dijk and Oli Hiam from the UK. They founded the London label and party series Tessellate, which has been throwing parties since 2013, and are known for a slick, shiny take on tech house. The duo was nominated for DJ Mag's Best of British Breakthrough Producer award and recorded RA podcast RA.1038."
+  },
+  "labels": [
+   "Tessellate"
+  ],
+  "sets": [
+   {
+    "t": "The Trip - Clubdance2025 (Mix)",
+    "u": "https://soundcloud.com/tessellatelondon/the-trip-clubdance2025-mix"
+   },
+   {
+    "t": "TESSACAST 005 - The Trip",
+    "u": "https://soundcloud.com/tessellatelondon/tessacast005-the-trip"
+   },
+   {
+    "t": "Slice of The Month #8 - The Trip (Tessellate)",
+    "u": "https://soundcloud.com/fraiserecords/slice-of-the-month-8-tessellate"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "src": [
+   "https://ra.co/events/2362413",
+   "https://ra.co/dj/thetrip"
+  ]
  },
  "Alther": {
   "infoChk": "2026-11-04",
@@ -47469,15 +47521,15 @@ const AR={
   "setsChecked": "2026-11-15"
  },
  "BON": {
-  "noImg": "2026-11-04",
-  "noLinks": "2026-11-04",
-  "infoChk": "2026-11-04",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "ILLA": {
-  "noImg": "2026-11-04",
-  "noLinks": "2026-11-04",
-  "infoChk": "2026-11-04",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "L!XXL": {
@@ -48338,9 +48390,9 @@ const AR={
   ]
  },
  "Sauerstøff": {
-  "noImg": "2026-11-08",
-  "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "subinstans": {
@@ -48616,9 +48668,9 @@ const AR={
   "noLinks": "2026-11-10"
  },
  "UNONESSUNO": {
-  "infoChk": "2026-11-10",
-  "noImg": "2026-11-10",
-  "noLinks": "2026-11-10",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "M:Pathy": {
@@ -50624,9 +50676,9 @@ const AR={
   ]
  },
  "dRob": {
-  "noImg": "2026-11-13",
-  "noLinks": "2026-11-13",
-  "infoChk": "2026-11-13",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "src": [
    "https://ra.co/events/2584070"
   ],
