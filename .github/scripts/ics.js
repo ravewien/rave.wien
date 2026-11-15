@@ -28,9 +28,8 @@ const addH = (d, t, h) => { const [H, M] = t.split(":").map(Number); let m = H *
 const VTZ = ["BEGIN:VTIMEZONE", "TZID:Europe/Vienna", "BEGIN:DAYLIGHT", "TZOFFSETFROM:+0100", "TZOFFSETTO:+0200", "TZNAME:CEST", "DTSTART:19700329T020000", "RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU", "END:DAYLIGHT", "BEGIN:STANDARD", "TZOFFSETFROM:+0200", "TZOFFSETTO:+0100", "TZNAME:CET", "DTSTART:19701025T030000", "RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU", "END:STANDARD", "END:VTIMEZONE"];
 
 // ---- Events aufbereiten (gleiche ID-Bildung wie index.html / Vorschauseiten) ----
-// Vergangene Termine bleiben im Kalender. Start ist der Stand beim Einführen der Abos (alles ab 29.10.2026):
-// was einmal im Kalender stand, verschwindet nicht mehr.
-const from = "2026-10-29";
+// Vergangene Termine stehen ebenfalls im Kalender – das ganze Archiv (past.js), nicht nur die Zeit seit Einführung der Abos.
+const from = "";
 const seen = new Set();
 const EVS = [];
 RAW.slice().sort((a, b) => (a.d + (a.s || "99")).localeCompare(b.d + (b.s || "99"))).forEach(e => {
