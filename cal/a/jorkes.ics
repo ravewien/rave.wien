@@ -26,6 +26,33 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-01-20-gaze-w-chris-cruse-malounadou-jorkes-rumi-von-bai@rave.wien
+DTSTAMP:20240120T000000Z
+DTSTART;VALUE=DATE:20240120
+DTEND;VALUE=DATE:20240121
+SUMMARY:GAZE w/ Chris Cruse\, Malounadou\, Jorkes & Rumi von Baires
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Chris Cruse\, Malounadou\, Jorkes\, Rumi Von Baires\nVeransta
+ lter: Gaze\n\nhttps://rave.wien/e/2024-01-20-gaze-w-chris-cruse-malounad
+ ou-jorkes-rumi-von-bai
+URL:https://rave.wien/e/2024-01-20-gaze-w-chris-cruse-malounadou-jorkes-r
+ umi-von-bai
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-freeride-millenium-with-rosa-red-permanent-vacati@rave.wien
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Freeride Millenium with Rosa Red (Permanent Vacation)\, Jorkes\, 
+ Seba
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Rosa Red\, Jorkes\, Seba\nVeranstalter: Freeride Millenium\n\
+ nhttps://rave.wien/e/2026-10-02-freeride-millenium-with-rosa-red-permane
+ nt-vacati
+URL:https://rave.wien/e/2026-10-02-freeride-millenium-with-rosa-red-perma
+ nent-vacati
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-massimiliano-pagliara-im-wohnzimmer@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T230000

@@ -44,4 +44,31 @@ DESCRIPTION:WONKA CTK\, MANY MAMMUT\, Illtek\, CPE Crew & Friends\nVerans
  .wien/e/2026-11-27-20-jahre-cpe
 URL:https://rave.wien/e/2026-11-27-20-jahre-cpe
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-07-sin-x-uberdruck-soundsystem-w-gehlektek-blazin-bo@rave.wien
+DTSTAMP:20240907T000000Z
+DTSTART;VALUE=DATE:20240907
+DTEND;VALUE=DATE:20240908
+SUMMARY:SIN x Überdruck Soundsystem w/ GehLekTek\, Blazin' Bomzai\, Ting
+ elTangelTek + S.B.S.\, Illtek
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Gehlektek\, Blazin' Bomzai\, TingelTangelTek\, S.b.s\, Illtek
+ \nVeranstalter: SIN\, Überdruck\n\nhttps://rave.wien/e/2024-09-07-sin-x
+ -uberdruck-soundsystem-w-gehlektek-blazin-bo
+URL:https://rave.wien/e/2024-09-07-sin-x-uberdruck-soundsystem-w-gehlekte
+ k-blazin-bo
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-28-step-to-tek-xl-with-bushman-mazatek-illtek-optima@rave.wien
+DTSTAMP:20241228T000000Z
+DTSTART;VALUE=DATE:20241228
+DTEND;VALUE=DATE:20241229
+SUMMARY:Step to Tek XL with Bushman\, Mazatek\, Illtek & Optimatek
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Bushman\, Mazatek\, Illtek\, Optimatek\nVeranstalter: Step to
+  Tek\n\nhttps://rave.wien/e/2024-12-28-step-to-tek-xl-with-bushman-mazat
+ ek-illtek-optima
+URL:https://rave.wien/e/2024-12-28-step-to-tek-xl-with-bushman-mazatek-il
+ ltek-optima
+END:VEVENT
 END:VCALENDAR

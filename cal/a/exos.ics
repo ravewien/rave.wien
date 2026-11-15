@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-03-14-below-the-surface-raw-x-yn@rave.wien
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:BELOW THE SURFACE | RAW x YN
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:EXOS\, Karolina\, Ketarina\nVeranstalter: Below the Surface\,
+  YN Collective\n\nhttps://rave.wien/e/2026-03-14-below-the-surface-raw-x
+ -yn
+URL:https://rave.wien/e/2026-03-14-below-the-surface-raw-x-yn
+END:VEVENT
 END:VCALENDAR

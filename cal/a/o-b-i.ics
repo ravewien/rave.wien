@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-27-stay-acid-presents-54hz-with-o-b-i@rave.wien
+DTSTAMP:20250627T000000Z
+DTSTART;VALUE=DATE:20250627
+DTEND;VALUE=DATE:20250628
+SUMMARY:STAY ACID presents 54Hz: with O.B.I
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:O.b.i\nVeranstalter: Stay Acid\n\nhttps://rave.wien/e/2025-06
+ -27-stay-acid-presents-54hz-with-o-b-i
+URL:https://rave.wien/e/2025-06-27-stay-acid-presents-54hz-with-o-b-i
+END:VEVENT
 END:VCALENDAR

@@ -45,4 +45,27 @@ DESCRIPTION:Oben: Who is Ela¿\, maro\, Aschenbrenner\, Suitside\, DizzyD
  nierung.\n\nhttps://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
 URL:https://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-23-2yrs-of-nexus@rave.wien
+DTSTAMP:20240823T000000Z
+DTSTART;TZID=Europe/Vienna:20240823T230000
+DTEND;TZID=Europe/Vienna:20240824T040000
+SUMMARY:2YRS of NEXUS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Trancemaster Krause\, DJ Traytex\, Violetta\, Aschenbrenner\,
+  Sømnus\, countershine\, Randalia\, Max Wagner\, Goldi\nVeranstalter: N
+ EXUS\n\nhttps://rave.wien/e/2024-08-23-2yrs-of-nexus
+URL:https://rave.wien/e/2024-08-23-2yrs-of-nexus
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-19-808factory-with-neuf-goldi-kat-ze-philo@rave.wien
+DTSTAMP:20251219T000000Z
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:808Factory with NEUF\, GOLDI\, Kat Ze & Philo
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:NEUF\, Goldi\, Kat Ze\, Philo\n\nhttps://rave.wien/e/2025-12-
+ 19-808factory-with-neuf-goldi-kat-ze-philo
+URL:https://rave.wien/e/2025-12-19-808factory-with-neuf-goldi-kat-ze-philo
+END:VEVENT
 END:VCALENDAR

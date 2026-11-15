@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-03-21-red-groove-social-club-with-jules-jay-leeb-red-gr@rave.wien
+DTSTAMP:20260321T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:RED GROOVE (Social Club) with Jules Jay\, Leeb & Red Groove System
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Jules Jay\, Leeb\, Red Groove System\nVeranstalter: Red Groov
+ e Social Club\n\nhttps://rave.wien/e/2026-03-21-red-groove-social-club-w
+ ith-jules-jay-leeb-red-gr
+URL:https://rave.wien/e/2026-03-21-red-groove-social-club-with-jules-jay-
+ leeb-red-gr
+END:VEVENT
 END:VCALENDAR

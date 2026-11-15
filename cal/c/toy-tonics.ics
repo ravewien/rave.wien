@@ -25,4 +25,70 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-30-toy-tonics-jam-vienna@rave.wien
+DTSTAMP:20241130T000000Z
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241201
+SUMMARY:Toy Tonics Jam Vienna
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Toy Tonics\n\nhttps://rave.wien/e/2024-11-30-to
+ y-tonics-jam-vienna
+URL:https://rave.wien/e/2024-11-30-toy-tonics-jam-vienna
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-28-toy-tonics-jam-vienna@rave.wien
+DTSTAMP:20250628T000000Z
+DTSTART;VALUE=DATE:20250628
+DTEND;VALUE=DATE:20250629
+SUMMARY:Toy Tonics Jam Vienna
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Toy Tonics\n\nhttps://rave.wien/e/2025-06-28-to
+ y-tonics-jam-vienna
+URL:https://rave.wien/e/2025-06-28-toy-tonics-jam-vienna
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-19-toy-tonics-at-prst-club@rave.wien
+DTSTAMP:20251219T000000Z
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:Toy Tonics at PRST Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Toy Tonics\n\nhttps://rave.wien/e/2025-12-19-to
+ y-tonics-at-prst-club
+URL:https://rave.wien/e/2025-12-19-toy-tonics-at-prst-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-13-toy-tonics-jam-vienna@rave.wien
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:TOY TONICS JAM VIENNA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Toy Tonics\n\nhttps://rave.wien/e/2026-03-13-to
+ y-tonics-jam-vienna
+URL:https://rave.wien/e/2026-03-13-toy-tonics-jam-vienna
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-03-toy-tonics-jam@rave.wien
+DTSTAMP:20260703T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Toy Tonics JAM
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Toy Tonics\n\nhttps://rave.wien/e/2026-07-03-to
+ y-tonics-jam
+URL:https://rave.wien/e/2026-07-03-toy-tonics-jam
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-toy-tonics-jam-vienna@rave.wien
+DTSTAMP:20260926T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:TOY TONICS JAM VIENNA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Toy Tonics\n\nhttps://rave.wien/e/2026-09-26-to
+ y-tonics-jam-vienna
+URL:https://rave.wien/e/2026-09-26-toy-tonics-jam-vienna
+END:VEVENT
 END:VCALENDAR

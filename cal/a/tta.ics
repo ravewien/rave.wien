@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-04-13-purradox-w-tta@rave.wien
+DTSTAMP:20240413T000000Z
+DTSTART;VALUE=DATE:20240413
+DTEND;VALUE=DATE:20240414
+SUMMARY:PURRADOX w/ Øtta
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:ØTTA\nVeranstalter: Purradox\n\nhttps://rave.wien/e/2024-04-
+ 13-purradox-w-tta
+URL:https://rave.wien/e/2024-04-13-purradox-w-tta
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-purradox-w-tta-steya-pert@rave.wien
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:PURRADOX w/ ØTTA\, STEYA\, PERT
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:ØTTA\, Steya\, PERT\nVeranstalter: Purradox\n\nhttps://rave.
+ wien/e/2026-10-02-purradox-w-tta-steya-pert
+URL:https://rave.wien/e/2026-10-02-purradox-w-tta-steya-pert
+END:VEVENT
 END:VCALENDAR

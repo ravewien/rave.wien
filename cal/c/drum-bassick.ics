@@ -26,6 +26,39 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2025-09-19-drum-bassick@rave.wien
+DTSTAMP:20250919T000000Z
+DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250920
+SUMMARY:DRUM & BASSICK
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Veranstalter: Drum & Bassick\n\nhttps://rave.wien/e/2025-09-1
+ 9-drum-bassick
+URL:https://rave.wien/e/2025-09-19-drum-bassick
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-13-drum-bassick@rave.wien
+DTSTAMP:20260213T000000Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:DRUM & BASSICK
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Veranstalter: Drum & Bassick\n\nhttps://rave.wien/e/2026-02-1
+ 3-drum-bassick
+URL:https://rave.wien/e/2026-02-13-drum-bassick
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-18-drum-bassick-1-year-anniversary@rave.wien
+DTSTAMP:20260718T000000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:DRUM & BASSICK – 1 Year Anniversary
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Veranstalter: Drum & Bassick\n\nhttps://rave.wien/e/2026-07-1
+ 8-drum-bassick-1-year-anniversary
+URL:https://rave.wien/e/2026-07-18-drum-bassick-1-year-anniversary
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-drum-bassick-x-radiance@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T235500

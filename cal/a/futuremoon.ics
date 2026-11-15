@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-04-11-psytrance-universe-with-psynonima-futuremoon@rave.wien
+DTSTAMP:20260411T000000Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:PSYTRANCE UNIVERSE with Psynonima & Futuremoon
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Psynonima\, Futuremoon\nVeranstalter: Psytrance Universe\n\nh
+ ttps://rave.wien/e/2026-04-11-psytrance-universe-with-psynonima-futuremo
+ on
+URL:https://rave.wien/e/2026-04-11-psytrance-universe-with-psynonima-futu
+ remoon
+END:VEVENT
 END:VCALENDAR

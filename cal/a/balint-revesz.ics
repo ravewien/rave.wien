@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-07-31-deep-cut-raw-session-dj-so-balint-revesz@rave.wien
+DTSTAMP:20260731T000000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:deep cut & RAW Session: DJ So\, Balint Revesz
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:DJ So\, Balint Revesz\nVeranstalter: deep cut\n\nhttps://rave
+ .wien/e/2026-07-31-deep-cut-raw-session-dj-so-balint-revesz
+URL:https://rave.wien/e/2026-07-31-deep-cut-raw-session-dj-so-balint-reve
+ sz
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,29 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-12-07-contrast-pres-emperor-qzb-smg-18@rave.wien
+DTSTAMP:20251207T000000Z
+DTSTART;VALUE=DATE:20251207
+DTEND;VALUE=DATE:20251208
+SUMMARY:CONTRAST pres. EMPEROR + QZB + SMG | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Emperor\, QZB\, SMG\nVeranstalter: Contrast\n\nhttps://rave.w
+ ien/e/2025-12-07-contrast-pres-emperor-qzb-smg-18
+URL:https://rave.wien/e/2025-12-07-contrast-pres-emperor-qzb-smg-18
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-contrast-pres-critical-w-calyx-kasra-qzb-sequent@rave.wien
+DTSTAMP:20260919T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:CONTRAST pres. CRITICAL w/ CALYX + KASRA + QZB + SEQUENT + SMG | 
+ 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Calyx\, Kasra\, QZB\, Sequent\, SMG\nVeranstalter: Contrast\n
+ \nhttps://rave.wien/e/2026-09-19-contrast-pres-critical-w-calyx-kasra-qz
+ b-sequent
+URL:https://rave.wien/e/2026-09-19-contrast-pres-critical-w-calyx-kasra-q
+ zb-sequent
+END:VEVENT
 END:VCALENDAR

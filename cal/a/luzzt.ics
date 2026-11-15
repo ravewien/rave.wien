@@ -46,6 +46,17 @@ URL:https://rave.wien/e/2026-11-28-dead-end-showcase-with-paralich-pres-b
  y-gdn
 END:VEVENT
 BEGIN:VEVENT
+UID:2024-09-13-nachtschub-luzzt-birthday-bash@rave.wien
+DTSTAMP:20240913T000000Z
+DTSTART;VALUE=DATE:20240913
+DTEND;VALUE=DATE:20240914
+SUMMARY:NACHTSCHUB – LUZZT birthday bash
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:LUZZT\nVeranstalter: Nachtschub\n\nhttps://rave.wien/e/2024-0
+ 9-13-nachtschub-luzzt-birthday-bash
+URL:https://rave.wien/e/2024-09-13-nachtschub-luzzt-birthday-bash
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-halloween-special@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T230000

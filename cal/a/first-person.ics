@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-07-27-reverse-club-night-with-prolix-first-person-overt@rave.wien
+DTSTAMP:20250727T000000Z
+DTSTART;VALUE=DATE:20250727
+DTEND;VALUE=DATE:20250728
+SUMMARY:Reverse Club Night with Prolix\, First Person & Overtune
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Prolix\, First Person\, Overtune\nVeranstalter: Reverse\n\nht
+ tps://rave.wien/e/2025-07-27-reverse-club-night-with-prolix-first-person
+ -overt
+URL:https://rave.wien/e/2025-07-27-reverse-club-night-with-prolix-first-p
+ erson-overt
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-01-25-morgengymnastik-w-afterours@rave.wien
+DTSTAMP:20260125T000000Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:Morgengymnastik w/Afterours
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Afterours\nVeranstalter: Morgengymnastik\n\nhttps://rave.wien
+ /e/2026-01-25-morgengymnastik-w-afterours
+URL:https://rave.wien/e/2026-01-25-morgengymnastik-w-afterours
+END:VEVENT
 END:VCALENDAR

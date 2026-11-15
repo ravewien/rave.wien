@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-04-12-marlon-hoffstadt-grelle-forelle-daytime-rave@rave.wien
+DTSTAMP:20250412T000000Z
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250413
+SUMMARY:Marlon Hoffstadt | Grelle Forelle Daytime Rave
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Marlon Hoffstadt\n\nhttps://rave.wien/e/2025-04-12-marlon-hof
+ fstadt-grelle-forelle-daytime-rave
+URL:https://rave.wien/e/2025-04-12-marlon-hoffstadt-grelle-forelle-daytim
+ e-rave
+END:VEVENT
 END:VCALENDAR

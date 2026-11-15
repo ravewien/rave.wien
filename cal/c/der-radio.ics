@@ -25,4 +25,86 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-08-23-derradio-celeste@rave.wien
+DTSTAMP:20250823T000000Z
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250824
+SUMMARY:DERRADIO @ CELESTE
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Der Radio\n\nhttps://rave.wien/e/2025-08-23-der
+ radio-celeste
+URL:https://rave.wien/e/2025-08-23-derradio-celeste
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-15-der-radio@rave.wien
+DTSTAMP:20260115T000000Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Der Radio
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Der Radio\n\nhttps://rave.wien/e/2026-01-15-der
+ -radio
+URL:https://rave.wien/e/2026-01-15-der-radio
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-26-der-radio@rave.wien
+DTSTAMP:20260226T000000Z
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+SUMMARY:der radio
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Der Radio\n\nhttps://rave.wien/e/2026-02-26-der
+ -radio
+URL:https://rave.wien/e/2026-02-26-der-radio
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-02-donnerstag-nacht-w-der-radio@rave.wien
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Donnerstag Nacht w/Der Radio
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Der Radio\n\nhttps://rave.wien/e/2026-04-02-don
+ nerstag-nacht-w-der-radio
+URL:https://rave.wien/e/2026-04-02-donnerstag-nacht-w-der-radio
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-26-der-radio-x-subwaves@rave.wien
+DTSTAMP:20260626T000000Z
+DTSTART;TZID=Europe/Vienna:20260626T180000
+DTEND;TZID=Europe/Vienna:20260627T040000
+SUMMARY:DER RADIO X Subwaves
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:Syntha\, Lost Tourist\, Der Werther\, phisch\, clark\, Disco 
+ Duck\, Lucky Shiner\, Tence\, WO.IZZY\nVeranstalter: Der Radio\, Subwave
+ s\nEintritt: Gratis bis 22 Uhr\, danach 10 €\n\nGratis Open Air auf de
+ r Terrasse des Club U ab 18 Uhr\, danach unten mit dem Pack&Punch Sounds
+ ystem. House und Garage.\n\nhttps://rave.wien/e/2026-06-26-der-radio-x-s
+ ubwaves
+URL:https://rave.wien/e/2026-06-26-der-radio-x-subwaves
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-02-fm-einfamilienhaus-der-radio@rave.wien
+DTSTAMP:20260702T000000Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:FM.EINFAMILIENHAUS – der radio
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: fm.einfamilienhaus\, Der Radio\n\nhttps://rave.
+ wien/e/2026-07-02-fm-einfamilienhaus-der-radio
+URL:https://rave.wien/e/2026-07-02-fm-einfamilienhaus-der-radio
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-31-club-night-hosted-by-der-radio@rave.wien
+DTSTAMP:20260731T000000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Club Night | Hosted By Der Radio
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Der Werther\, WO.IZZY\, Der Parkverbot\, 9euro\, DJ Nana\, DJ
+  Schelle\, DJ Trace\, Ozzy Era\, Tankstelle 247\nVeranstalter: Der Radio
+ \n\nhttps://rave.wien/e/2026-07-31-club-night-hosted-by-der-radio
+URL:https://rave.wien/e/2026-07-31-club-night-hosted-by-der-radio
+END:VEVENT
 END:VCALENDAR

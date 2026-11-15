@@ -25,4 +25,97 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-19-heimlich@rave.wien
+DTSTAMP:20240519T000000Z
+DTSTART;VALUE=DATE:20240519
+DTEND;VALUE=DATE:20240520
+SUMMARY:Heimlich
+LOCATION:Wien\, Wien
+DESCRIPTION:Oberst & Buchner\nVeranstalter: Heimlich\n\nOrt laut Gigliste
+  nur „Vienna“.\n\nhttps://rave.wien/e/2024-05-19-heimlich
+URL:https://rave.wien/e/2024-05-19-heimlich
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-04-heimliche-drei-koenig-innen@rave.wien
+DTSTAMP:20250104T000000Z
+DTSTART;VALUE=DATE:20250104
+DTEND;VALUE=DATE:20250105
+SUMMARY:Heimliche Drei Koenig:innen
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Heimlich\n\nhttps://rave.wien/e/2025-01-04-heim
+ liche-drei-koenig-innen
+URL:https://rave.wien/e/2025-01-04-heimliche-drei-koenig-innen
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-07-heimlich-im-freudentaumel-w-just-emma-thea-schtu@rave.wien
+DTSTAMP:20250307T000000Z
+DTSTART;VALUE=DATE:20250307
+DTEND;VALUE=DATE:20250308
+SUMMARY:Heimlich im Freudentaumel w/ Just Emma & Thea & Schtu LIVE
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Just Emma\, Thea\, Schtu\nVeranstalter: Im Freudentaumel\, He
+ imlich\n\nhttps://rave.wien/e/2025-03-07-heimlich-im-freudentaumel-w-jus
+ t-emma-thea-schtu
+URL:https://rave.wien/e/2025-03-07-heimlich-im-freudentaumel-w-just-emma-
+ thea-schtu
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-04-heimlich-b72@rave.wien
+DTSTAMP:20250404T000000Z
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250405
+SUMMARY:Heimlich @ B72
+LOCATION:B72\, Hernalser Gürtel 72–73\, 1080 Wien
+DESCRIPTION:Oberst & Buchner\nVeranstalter: Heimlich\n\nhttps://rave.wien
+ /e/2025-04-04-heimlich-b72
+URL:https://rave.wien/e/2025-04-04-heimlich-b72
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-24-heimlich-im-freudentaumel@rave.wien
+DTSTAMP:20251024T000000Z
+DTSTART;VALUE=DATE:20251024
+DTEND;VALUE=DATE:20251025
+SUMMARY:Heimlich im Freudentaumel
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Im Freudentaumel\, Heimlich\n\nhttps://rave.wie
+ n/e/2025-10-24-heimlich-im-freudentaumel
+URL:https://rave.wien/e/2025-10-24-heimlich-im-freudentaumel
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-09-heimliche-drei-zuckerl@rave.wien
+DTSTAMP:20260109T000000Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:Heimliche Drei Zuckerl
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Heimlich\n\nhttps://rave.wien/e/2026-01-09-heim
+ liche-drei-zuckerl
+URL:https://rave.wien/e/2026-01-09-heimliche-drei-zuckerl
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-06-heimliche-fruhlingsgefuhle@rave.wien
+DTSTAMP:20260306T000000Z
+DTSTART;TZID=Europe/Vienna:20260306T220000
+DTEND;TZID=Europe/Vienna:20260307T060000
+SUMMARY:Heimliche Frühlingsgefühle
+LOCATION:B72\, Hernalser Gürtel 72–73\, 1080 Wien
+DESCRIPTION:Leo Schick\, Terrible\, Oliver Rottmann\, MËX\, Andreas Buch
+ ner\nVeranstalter: Heimlich\nEintritt: AK 15 €\n\nhttps://rave.wien/e/
+ 2026-03-06-heimliche-fruhlingsgefuhle
+URL:https://rave.wien/e/2026-03-06-heimliche-fruhlingsgefuhle
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-06-heimlicher-abschied-mit-rampue-martha-van-straate@rave.wien
+DTSTAMP:20260606T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Heimlicher Abschied mit Rampue & martha van straaten
+LOCATION:Otto Wagner Areal\, Baumgartner Höhe 1\, 1140 Wien
+DESCRIPTION:Rampue\, martha van straaten\, Oberst & Buchner\nVeranstalter
+ : Heimlich\n\nhttps://rave.wien/e/2026-06-06-heimlicher-abschied-mit-ram
+ pue-martha-van-straate
+URL:https://rave.wien/e/2026-06-06-heimlicher-abschied-mit-rampue-martha-
+ van-straate
+END:VEVENT
 END:VCALENDAR

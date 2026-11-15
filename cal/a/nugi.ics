@@ -25,4 +25,44 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-21-im-freudentaumel-mit-krawalle-liebe-nugi-kollekti@rave.wien
+DTSTAMP:20240621T000000Z
+DTSTART;VALUE=DATE:20240621
+DTEND;VALUE=DATE:20240622
+SUMMARY:Im Freudentaumel mit Krawalle & Liebe\, Nugi & Kollektiv Sheesh
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Krawalle\, Liebe\, Nugi\, Kollektiv Sheesh\nVeranstalter: Im 
+ Freudentaumel\n\nhttps://rave.wien/e/2024-06-21-im-freudentaumel-mit-kra
+ walle-liebe-nugi-kollekti
+URL:https://rave.wien/e/2024-06-21-im-freudentaumel-mit-krawalle-liebe-nu
+ gi-kollekti
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-06-besser-drauf-mit-silsan-david-phoenix-kollektiv-s@rave.wien
+DTSTAMP:20240706T000000Z
+DTSTART;VALUE=DATE:20240706
+DTEND;VALUE=DATE:20240707
+SUMMARY:BESSER DRAUF mit SILSAN\, David Phoenix\, Kollektiv Sheesh b2b Nu
+ gi und Patrik Pagan
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Silsan\, David Phoenix\, Kollektiv Sheesh\, Nugi\, Patrik Pag
+ an\n\nhttps://rave.wien/e/2024-07-06-besser-drauf-mit-silsan-david-phoen
+ ix-kollektiv-s
+URL:https://rave.wien/e/2024-07-06-besser-drauf-mit-silsan-david-phoenix-
+ kollektiv-s
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-11-garten-von-eben-im-traumtempo-vii@rave.wien
+DTSTAMP:20261011T000000Z
+DTSTART;TZID=Europe/Vienna:20261011T133000
+DTEND;TZID=Europe/Vienna:20261011T233000
+SUMMARY:Garten von Eben im Traumtempo VII
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Nugi\, Flocker Lockig\, Sansea\, Mood Shifter\, David Bowiedl
+ \, marou\nVeranstalter: Garten von Eben\n\nWorkshop „Connected Breathw
+ ork“ mit Olivia (14–16 Uhr\, Anmeldung nötig)\n\nhttps://rave.wien/
+ e/2026-10-11-garten-von-eben-im-traumtempo-vii
+URL:https://rave.wien/e/2026-10-11-garten-von-eben-im-traumtempo-vii
+END:VEVENT
 END:VCALENDAR

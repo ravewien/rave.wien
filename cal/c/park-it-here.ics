@@ -26,6 +26,117 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-06-14-multicolor-house-arrest-x-park-it-here@rave.wien
+DTSTAMP:20240614T000000Z
+DTSTART;VALUE=DATE:20240614
+DTEND;VALUE=DATE:20240615
+SUMMARY:MULTICOLOR – House Arrest x Park It Here
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Park It Here\, Multicolor\n\nhttps://rave.wien/
+ e/2024-06-14-multicolor-house-arrest-x-park-it-here
+URL:https://rave.wien/e/2024-06-14-multicolor-house-arrest-x-park-it-here
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-20-park-it-here-uk-garage-bassline-grime@rave.wien
+DTSTAMP:20250220T000000Z
+DTSTART;VALUE=DATE:20250220
+DTEND;VALUE=DATE:20250221
+SUMMARY:PARK IT HERE – UK GARAGE / BASSLINE / GRIME
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Park It Here\n\nhttps://rave.wien/e/2025-02-20-
+ park-it-here-uk-garage-bassline-grime
+URL:https://rave.wien/e/2025-02-20-park-it-here-uk-garage-bassline-grime
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-01-park-it-here-ukg-bassline-grime@rave.wien
+DTSTAMP:20250501T000000Z
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+SUMMARY:PARK IT HERE – UKG/BASSLINE/GRIME
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Park It Here\n\nhttps://rave.wien/e/2025-05-01-
+ park-it-here-ukg-bassline-grime
+URL:https://rave.wien/e/2025-05-01-park-it-here-ukg-bassline-grime
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-18-park-it-here-uk-garage-bassline-grime@rave.wien
+DTSTAMP:20250618T000000Z
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250619
+SUMMARY:PARK IT HERE – UK GARAGE / BASSLINE / GRIME
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Park It Here\n\nhttps://rave.wien/e/2025-06-18-
+ park-it-here-uk-garage-bassline-grime
+URL:https://rave.wien/e/2025-06-18-park-it-here-uk-garage-bassline-grime
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-17-park-it-here-uk-garage-bassline-grime@rave.wien
+DTSTAMP:20250717T000000Z
+DTSTART;VALUE=DATE:20250717
+DTEND;VALUE=DATE:20250718
+SUMMARY:PARK IT HERE – UK GARAGE / BASSLINE / GRIME
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Park It Here\n\nhttps://rave.wien/e/2025-07-17-
+ park-it-here-uk-garage-bassline-grime
+URL:https://rave.wien/e/2025-07-17-park-it-here-uk-garage-bassline-grime
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-18-park-it-here-uk-garage-bassline-grime@rave.wien
+DTSTAMP:20250918T000000Z
+DTSTART;VALUE=DATE:20250918
+DTEND;VALUE=DATE:20250919
+SUMMARY:PARK IT HERE – UK GARAGE / BASSLINE / GRIME
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Park It Here\n\nhttps://rave.wien/e/2025-09-18-
+ park-it-here-uk-garage-bassline-grime
+URL:https://rave.wien/e/2025-09-18-park-it-here-uk-garage-bassline-grime
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-09-saint-ludo-at-park-it-here@rave.wien
+DTSTAMP:20260109T000000Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:Saint Ludo at PARK IT HERE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Saint Ludo\nVeranstalter: Park It Here\n\nhttps://rave.wien/e
+ /2026-01-09-saint-ludo-at-park-it-here
+URL:https://rave.wien/e/2026-01-09-saint-ludo-at-park-it-here
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-01-skalah-jolie-p-en-vy-at-park-it-here@rave.wien
+DTSTAMP:20260501T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:SKALAH & JOLIE P & EN:VY at PARK IT HERE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Skalah\, Jolie P\, En:vy\nVeranstalter: Park It Here\n\nhttps
+ ://rave.wien/e/2026-05-01-skalah-jolie-p-en-vy-at-park-it-here
+URL:https://rave.wien/e/2026-05-01-skalah-jolie-p-en-vy-at-park-it-here
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-18-park-it-here@rave.wien
+DTSTAMP:20260718T000000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:PARK IT HERE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Park It Here\n\nhttps://rave.wien/e/2026-07-18-
+ park-it-here
+URL:https://rave.wien/e/2026-07-18-park-it-here
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-12-champion-at-park-it-here-uk-garage-bassline-grime@rave.wien
+DTSTAMP:20260912T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Champion at PARK IT HERE – UK GARAGE / BASSLINE / GRIME / DNB
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Champion\nVeranstalter: Park It Here\n\nhttps://rave.wien/e/2
+ 026-09-12-champion-at-park-it-here-uk-garage-bassline-grime
+URL:https://rave.wien/e/2026-09-12-champion-at-park-it-here-uk-garage-bas
+ sline-grime
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-07-park-it-here-pres-lamsi-uk@rave.wien
 DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Vienna:20261107T230000

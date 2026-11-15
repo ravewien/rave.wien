@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-06-13-hypertrash-x-schere3000-pride-night-special-with@rave.wien
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:HYPERTRASH x Schere3000 Pride Night Special with Himera & Blood o
+ f Aza
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Himera\, Blood of Aza\nVeranstalter: Schere3000\, Hypertrash\
+ n\nhttps://rave.wien/e/2026-06-13-hypertrash-x-schere3000-pride-night-sp
+ ecial-with
+URL:https://rave.wien/e/2026-06-13-hypertrash-x-schere3000-pride-night-sp
+ ecial-with
+END:VEVENT
 END:VCALENDAR

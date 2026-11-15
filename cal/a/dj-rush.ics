@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-10-zuckerwatt-w-dj-rush-x-yn-collective@rave.wien
+DTSTAMP:20240510T000000Z
+DTSTART;VALUE=DATE:20240510
+DTEND;VALUE=DATE:20240511
+SUMMARY:ZUCKERWATT w/ DJ RUSH x YN COLLECTIVE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:DJ Rush\nVeranstalter: Zuckerwatt\, YN Collective\n\nhttps://
+ rave.wien/e/2024-05-10-zuckerwatt-w-dj-rush-x-yn-collective
+URL:https://rave.wien/e/2024-05-10-zuckerwatt-w-dj-rush-x-yn-collective
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-01-20-gaze-w-chris-cruse-malounadou-jorkes-rumi-von-bai@rave.wien
+DTSTAMP:20240120T000000Z
+DTSTART;VALUE=DATE:20240120
+DTEND;VALUE=DATE:20240121
+SUMMARY:GAZE w/ Chris Cruse\, Malounadou\, Jorkes & Rumi von Baires
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Chris Cruse\, Malounadou\, Jorkes\, Rumi Von Baires\nVeransta
+ lter: Gaze\n\nhttps://rave.wien/e/2024-01-20-gaze-w-chris-cruse-malounad
+ ou-jorkes-rumi-von-bai
+URL:https://rave.wien/e/2024-01-20-gaze-w-chris-cruse-malounadou-jorkes-r
+ umi-von-bai
+END:VEVENT
 END:VCALENDAR

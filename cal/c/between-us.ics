@@ -25,4 +25,59 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-03-02-between-us-w-maurice-fulton@rave.wien
+DTSTAMP:20240302T000000Z
+DTSTART;VALUE=DATE:20240302
+DTEND;VALUE=DATE:20240303
+SUMMARY:Between Us w/ Maurice Fulton
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Maurice Fulton\nVeranstalter: Between Us\n\nhttps://rave.wien
+ /e/2024-03-02-between-us-w-maurice-fulton
+URL:https://rave.wien/e/2024-03-02-between-us-w-maurice-fulton
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-11-between-us@rave.wien
+DTSTAMP:20251011T000000Z
+DTSTART;VALUE=DATE:20251011
+DTEND;VALUE=DATE:20251012
+SUMMARY:Between Us
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Between Us\n\nhttps://rave.wien/e/2025-10-11-be
+ tween-us
+URL:https://rave.wien/e/2025-10-11-between-us
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-24-between-us-emdb@rave.wien
+DTSTAMP:20260124T000000Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:Between Us + EMDB
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Between Us\n\nhttps://rave.wien/e/2026-01-24-be
+ tween-us-emdb
+URL:https://rave.wien/e/2026-01-24-between-us-emdb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-21-between-us-x-sergej-krstic@rave.wien
+DTSTAMP:20260221T000000Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:Between Us x Sergej Krstic
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Sergej Krstic\nVeranstalter: Between Us\n\nhttps://rave.wien/
+ e/2026-02-21-between-us-x-sergej-krstic
+URL:https://rave.wien/e/2026-02-21-between-us-x-sergej-krstic
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-09-between-us-x-kju-t@rave.wien
+DTSTAMP:20260509T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Between Us x [kju:t]
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Between Us\, [kju:t]\n\nhttps://rave.wien/e/202
+ 6-05-09-between-us-x-kju-t
+URL:https://rave.wien/e/2026-05-09-between-us-x-kju-t
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-07-05-connecting-people-with-andrea-salvaggio@rave.wien
+DTSTAMP:20250705T000000Z
+DTSTART;VALUE=DATE:20250705
+DTEND;VALUE=DATE:20250706
+SUMMARY:Connecting People with ANDREA SALVAGGIO
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Andrea Salvaggio\nVeranstalter: Connecting People\n\nhttps://
+ rave.wien/e/2025-07-05-connecting-people-with-andrea-salvaggio
+URL:https://rave.wien/e/2025-07-05-connecting-people-with-andrea-salvaggio
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-23-wreck-invites-andrea-salvaggio@rave.wien
+DTSTAMP:20260523T000000Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:WRECK invites: ANDREA SALVAGGIO
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Andrea Salvaggio\nVeranstalter: WRECK\n\nhttps://rave.wien/e/
+ 2026-05-23-wreck-invites-andrea-salvaggio
+URL:https://rave.wien/e/2026-05-23-wreck-invites-andrea-salvaggio
+END:VEVENT
 END:VCALENDAR

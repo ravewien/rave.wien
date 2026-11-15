@@ -25,4 +25,31 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-10-18-red-groove-social-club-with-aaron-it-s-george-mee@rave.wien
+DTSTAMP:20251018T000000Z
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251019
+SUMMARY:RED GROOVE (Social Club) with Aaron\, It’s George\, Meet Franka
+ \, Techno Ganoven
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Aaron\, It’s George\, meet.franka\, Techno Ganoven\nVeranst
+ alter: Red Groove Social Club\n\nhttps://rave.wien/e/2025-10-18-red-groo
+ ve-social-club-with-aaron-it-s-george-mee
+URL:https://rave.wien/e/2025-10-18-red-groove-social-club-with-aaron-it-s
+ -george-mee
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-24-red-groove-social-club-with-dk-it-s-george-techno@rave.wien
+DTSTAMP:20260124T000000Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:RED GROOVE (Social Club) with DK\, IT’S GEORGE\, Techno Ganoven
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DK\, It’s George\, Techno Ganoven\nVeranstalter: Red Groove
+  Social Club\n\nhttps://rave.wien/e/2026-01-24-red-groove-social-club-wi
+ th-dk-it-s-george-techno
+URL:https://rave.wien/e/2026-01-24-red-groove-social-club-with-dk-it-s-ge
+ orge-techno
+END:VEVENT
 END:VCALENDAR

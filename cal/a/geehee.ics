@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-28-sin-x-uberdruck-soundsystem-w-shirin-keton-geehee@rave.wien
+DTSTAMP:20241228T000000Z
+DTSTART;VALUE=DATE:20241228
+DTEND;VALUE=DATE:20241229
+SUMMARY:SIN x Überdruck Soundsystem w/ Shirin & Keton & Geehee
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Shirin\, Keton\, Geehee\nVeranstalter: SIN\, Überdruck\n\nht
+ tps://rave.wien/e/2024-12-28-sin-x-uberdruck-soundsystem-w-shirin-keton-
+ geehee
+URL:https://rave.wien/e/2024-12-28-sin-x-uberdruck-soundsystem-w-shirin-k
+ eton-geehee
+END:VEVENT
 END:VCALENDAR

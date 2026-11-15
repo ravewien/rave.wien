@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-10-04-temple-tears-x-ouhana-im-garten-von-eben@rave.wien
+DTSTAMP:20241004T000000Z
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241005
+SUMMARY:Temple Tears x Ouhana im Garten von Eben
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Temple Tears\, Ouhana\nVeranstalter: Garten von Eben\n\nhttps
+ ://rave.wien/e/2024-10-04-temple-tears-x-ouhana-im-garten-von-eben
+URL:https://rave.wien/e/2024-10-04-temple-tears-x-ouhana-im-garten-von-eb
+ en
+END:VEVENT
 END:VCALENDAR

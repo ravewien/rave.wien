@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-14-tattu-tatta-glub-goat-ball@rave.wien
+DTSTAMP:20260214T000000Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:TATTU TATTA GLUB & GOAT BALL
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Vivienna\, Trancemaster Krause\, Stinny Stone\, Cobb Douglas\
+ , Sohoe\, Terra Twiins\, Armin Hermann\, Serafin\nVeranstalter: Tattu Ta
+ tta Glub\n\nhttps://rave.wien/e/2026-02-14-tattu-tatta-glub-goat-ball
+URL:https://rave.wien/e/2026-02-14-tattu-tatta-glub-goat-ball
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,30 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-18-contrast-pres-halogenix-lenzman-monrroe-wingz-18@rave.wien
+DTSTAMP:20240518T000000Z
+DTSTART;VALUE=DATE:20240518
+DTEND;VALUE=DATE:20240519
+SUMMARY:CONTRAST pres. HALOGENIX + LENZMAN + MONRROE + WINGZ | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Halogenix\, Lenzman\, Monrroe\, Wingz\nVeranstalter: Contrast
+ \n\nhttps://rave.wien/e/2024-05-18-contrast-pres-halogenix-lenzman-monrr
+ oe-wingz-18
+URL:https://rave.wien/e/2024-05-18-contrast-pres-halogenix-lenzman-monrro
+ e-wingz-18
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-18-contrast-presents-technimatic-monrroe-emily-makis@rave.wien
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Contrast presents: Technimatic\, Monrroe & Emily Makis
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Technimatic\, Monrroe\, Emily Makis\nVeranstalter: Contrast\n
+ \nhttps://rave.wien/e/2026-04-18-contrast-presents-technimatic-monrroe-e
+ mily-makis
+URL:https://rave.wien/e/2026-04-18-contrast-presents-technimatic-monrroe-
+ emily-makis
+END:VEVENT
 END:VCALENDAR

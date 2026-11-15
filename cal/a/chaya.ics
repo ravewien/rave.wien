@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-18-polyamor-vienna@rave.wien
+DTSTAMP:20250618T000000Z
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250619
+SUMMARY:Polyamor Vienna
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Cleopard2000\, Elotrance\, Justin Tinderdate\, Vivienna\, Cha
+ ya\, Armin Herrmann\, Serafin\nVeranstalter: Polyamor\n\nhttps://rave.wi
+ en/e/2025-06-18-polyamor-vienna
+URL:https://rave.wien/e/2025-06-18-polyamor-vienna
+END:VEVENT
 END:VCALENDAR

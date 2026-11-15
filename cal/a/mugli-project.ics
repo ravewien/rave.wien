@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-10-10-herzfrequenz-presents-mugli-project@rave.wien
+DTSTAMP:20251010T000000Z
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251011
+SUMMARY:HERZFREQUENZ presents: MUGLI PROJECT
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mugli Project\nVeranstalter: Herzfrequenz\n\nhttps://rave.wie
+ n/e/2025-10-10-herzfrequenz-presents-mugli-project
+URL:https://rave.wien/e/2025-10-10-herzfrequenz-presents-mugli-project
+END:VEVENT
 END:VCALENDAR

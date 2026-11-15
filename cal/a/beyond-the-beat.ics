@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-09-19-liccht-w-beyond-the-beat-a-p-y-g-a@rave.wien
+DTSTAMP:20260919T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:LICCHT w/ BEYOND THE BEAT (A)\, P:Y:G (A)
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Beyond The Beat\, P:y:g\n\nhttps://rave.wien/e/2026-09-19-lic
+ cht-w-beyond-the-beat-a-p-y-g-a
+URL:https://rave.wien/e/2026-09-19-liccht-w-beyond-the-beat-a-p-y-g-a
+END:VEVENT
 END:VCALENDAR

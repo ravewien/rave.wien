@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-02-08-festclub-w-palms-trax@rave.wien
+DTSTAMP:20250208T000000Z
+DTSTART;VALUE=DATE:20250208
+DTEND;VALUE=DATE:20250209
+SUMMARY:Festclub w/ Palms Trax
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Palms Trax\nVeranstalter: Festklub\n\nhttps://rave.wien/e/202
+ 5-02-08-festclub-w-palms-trax
+URL:https://rave.wien/e/2025-02-08-festclub-w-palms-trax
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-09-12-zuckerwatt-w-estella-boersma@rave.wien
+DTSTAMP:20250912T000000Z
+DTSTART;VALUE=DATE:20250912
+DTEND;VALUE=DATE:20250913
+SUMMARY:ZUCKERWATT w/ ESTELLA BOERSMA
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Estella Boersma\nVeranstalter: Zuckerwatt\n\nhttps://rave.wie
+ n/e/2025-09-12-zuckerwatt-w-estella-boersma
+URL:https://rave.wien/e/2025-09-12-zuckerwatt-w-estella-boersma
+END:VEVENT
 END:VCALENDAR

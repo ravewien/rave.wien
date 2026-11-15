@@ -42,6 +42,41 @@ DESCRIPTION:DizzyDray\, Anna Ullrich\, Rosa Rosen\, TAUSEND2Ø\nVeranstal
 URL:https://rave.wien/e/2026-11-20-fluffig-punschabend
 END:VEVENT
 BEGIN:VEVENT
+UID:2024-02-02-fluffig-monster-anna-ullrich-sungdi@rave.wien
+DTSTAMP:20240202T000000Z
+DTSTART;VALUE=DATE:20240202
+DTEND;VALUE=DATE:20240203
+SUMMARY:Fluffig | Monster | Anna Ullrich | Sungdi
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Monster\, Anna Ullrich\, Sungdi\nVeranstalter: Fluffig\n\nhtt
+ ps://rave.wien/e/2024-02-02-fluffig-monster-anna-ullrich-sungdi
+URL:https://rave.wien/e/2024-02-02-fluffig-monster-anna-ullrich-sungdi
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-13-fluffig-open-air@rave.wien
+DTSTAMP:20260613T000000Z
+DTSTART;TZID=Europe/Vienna:20260613T170000
+DTEND;TZID=Europe/Vienna:20260613T230000
+SUMMARY:Fluffig OPEN AIR
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:Anna Ullrich\, COLD ASS ICE\, Liroy\, Who is Ela¿\, Partypau
+ li\, wedding dj\, TAUSEND2Ø\, Dimitrios\nVeranstalter: Fluffig\nEintrit
+ t: 5 €\n\nTrance- und Techno-Open-Air beim Club U am Karlsplatz\, 18+.
+ \n\nhttps://rave.wien/e/2026-06-13-fluffig-open-air
+URL:https://rave.wien/e/2026-06-13-fluffig-open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-28-fluffig-x-achterbahn@rave.wien
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:FLUFFIG X ACHTERBAHN
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Achterbahn\, Fluffig\n\nhttps://rave.wien/e/202
+ 6-08-28-fluffig-x-achterbahn
+URL:https://rave.wien/e/2026-08-28-fluffig-x-achterbahn
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-biosphere-the-techno-spirit-of-1997@rave.wien
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Vienna:20261106T220000

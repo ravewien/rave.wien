@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-05-08-schwerkraft-w-wndrlst@rave.wien
+DTSTAMP:20260508T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Schwerkraft W/ WNDRLST
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Wndrlst\nVeranstalter: Schwerkraft\n\nhttps://rave.wien/e/202
+ 6-05-08-schwerkraft-w-wndrlst
+URL:https://rave.wien/e/2026-05-08-schwerkraft-w-wndrlst
+END:VEVENT
 END:VCALENDAR

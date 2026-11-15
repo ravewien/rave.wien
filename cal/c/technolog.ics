@@ -26,6 +26,234 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-03-22-technolog@rave.wien
+DTSTAMP:20240322T000000Z
+DTSTART;VALUE=DATE:20240322
+DTEND;VALUE=DATE:20240323
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2024-03-22-tec
+ hnolog
+URL:https://rave.wien/e/2024-03-22-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-04-technolog@rave.wien
+DTSTAMP:20240504T000000Z
+DTSTART;VALUE=DATE:20240504
+DTEND;VALUE=DATE:20240505
+SUMMARY:TECHNOLOG
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2024-05-04-tec
+ hnolog
+URL:https://rave.wien/e/2024-05-04-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-29-technolog@rave.wien
+DTSTAMP:20240629T000000Z
+DTSTART;VALUE=DATE:20240629
+DTEND;VALUE=DATE:20240630
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2024-06-29-tec
+ hnolog
+URL:https://rave.wien/e/2024-06-29-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-02-technolog@rave.wien
+DTSTAMP:20240802T000000Z
+DTSTART;VALUE=DATE:20240802
+DTEND;VALUE=DATE:20240803
+SUMMARY:TECHNOLOG
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2024-08-02-tec
+ hnolog
+URL:https://rave.wien/e/2024-08-02-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-21-technolog@rave.wien
+DTSTAMP:20240921T000000Z
+DTSTART;VALUE=DATE:20240921
+DTEND;VALUE=DATE:20240922
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2024-09-21-tec
+ hnolog
+URL:https://rave.wien/e/2024-09-21-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-19-technolog@rave.wien
+DTSTAMP:20241019T000000Z
+DTSTART;VALUE=DATE:20241019
+DTEND;VALUE=DATE:20241020
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2024-10-19-tec
+ hnolog
+URL:https://rave.wien/e/2024-10-19-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-23-technolog@rave.wien
+DTSTAMP:20241123T000000Z
+DTSTART;VALUE=DATE:20241123
+DTEND;VALUE=DATE:20241124
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2024-11-23-tec
+ hnolog
+URL:https://rave.wien/e/2024-11-23-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-01-technolog@rave.wien
+DTSTAMP:20250301T000000Z
+DTSTART;VALUE=DATE:20250301
+DTEND;VALUE=DATE:20250302
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2025-03-01-tec
+ hnolog
+URL:https://rave.wien/e/2025-03-01-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-04-technolog@rave.wien
+DTSTAMP:20250404T000000Z
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250405
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2025-04-04-tec
+ hnolog
+URL:https://rave.wien/e/2025-04-04-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-23-technolog@rave.wien
+DTSTAMP:20250523T000000Z
+DTSTART;VALUE=DATE:20250523
+DTEND;VALUE=DATE:20250524
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2025-05-23-tec
+ hnolog
+URL:https://rave.wien/e/2025-05-23-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-27-technolog@rave.wien
+DTSTAMP:20250627T000000Z
+DTSTART;VALUE=DATE:20250627
+DTEND;VALUE=DATE:20250628
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2025-06-27-tec
+ hnolog
+URL:https://rave.wien/e/2025-06-27-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-13-technolog@rave.wien
+DTSTAMP:20250913T000000Z
+DTSTART;VALUE=DATE:20250913
+DTEND;VALUE=DATE:20250914
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2025-09-13-tec
+ hnolog
+URL:https://rave.wien/e/2025-09-13-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-08-technolog@rave.wien
+DTSTAMP:20251108T000000Z
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2025-11-08-tec
+ hnolog
+URL:https://rave.wien/e/2025-11-08-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-19-technolog@rave.wien
+DTSTAMP:20251219T000000Z
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2025-12-19-tec
+ hnolog
+URL:https://rave.wien/e/2025-12-19-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-21-technolog@rave.wien
+DTSTAMP:20260221T000000Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2026-02-21-tec
+ hnolog
+URL:https://rave.wien/e/2026-02-21-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-17-technolog@rave.wien
+DTSTAMP:20260417T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2026-04-17-tec
+ hnolog
+URL:https://rave.wien/e/2026-04-17-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-12-technolog@rave.wien
+DTSTAMP:20260612T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2026-06-12-tec
+ hnolog
+URL:https://rave.wien/e/2026-06-12-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-08-technolog@rave.wien
+DTSTAMP:20260808T000000Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2026-08-08-tec
+ hnolog
+URL:https://rave.wien/e/2026-08-08-technolog
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-technolog@rave.wien
+DTSTAMP:20260919T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nhttps://rave.wien/e/2026-09-19-tec
+ hnolog
+URL:https://rave.wien/e/2026-09-19-technolog
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-07-technolog-special-with-michel-lauriola-arg@rave.wien
 DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Vienna:20261107T230000

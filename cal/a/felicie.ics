@@ -25,4 +25,29 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-24-techno-komet-invites-felicie-fr-grelle-forelle@rave.wien
+DTSTAMP:20240524T000000Z
+DTSTART;VALUE=DATE:20240524
+DTEND;VALUE=DATE:20240525
+SUMMARY:TECHNO KOMET invites FELICIE [FR] | Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Felicie\nVeranstalter: Techno Komet\n\nhttps://rave.wien/e/20
+ 24-05-24-techno-komet-invites-felicie-fr-grelle-forelle
+URL:https://rave.wien/e/2024-05-24-techno-komet-invites-felicie-fr-grelle
+ -forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-ritual-ii-with-felicie-phara-truncate-uncertain@rave.wien
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:RITUAL II with Felicie\, Phara\, Truncate\, Uncertain
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Felicie\, Phara\, Truncate\, Uncertain\nVeranstalter: Ritual\
+ n\nhttps://rave.wien/e/2026-10-02-ritual-ii-with-felicie-phara-truncate-
+ uncertain
+URL:https://rave.wien/e/2026-10-02-ritual-ii-with-felicie-phara-truncate-
+ uncertain
+END:VEVENT
 END:VCALENDAR

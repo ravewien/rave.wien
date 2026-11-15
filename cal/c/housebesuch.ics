@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-01-18-steve-hope-friends-feat-housebesuch-afterwork@rave.wien
+DTSTAMP:20240118T000000Z
+DTSTART;VALUE=DATE:20240118
+DTEND;VALUE=DATE:20240119
+SUMMARY:STEVE HOPE & FRIENDS feat. HOUSEBESUCH AFTERWORK
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Housebesuch Afterwork\nVeranstalter: Housebesuch\n\nhttps://r
+ ave.wien/e/2024-01-18-steve-hope-friends-feat-housebesuch-afterwork
+URL:https://rave.wien/e/2024-01-18-steve-hope-friends-feat-housebesuch-af
+ terwork
+END:VEVENT
 END:VCALENDAR

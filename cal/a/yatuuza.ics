@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-05-22-drumworks-pres-yatuuza-x-liminal-kin@rave.wien
+DTSTAMP:20260522T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Drumworks pres. Yatuuza x Liminal Kin
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Yatuuza\, Liminal Kin\nVeranstalter: Drumworks\n\nhttps://rav
+ e.wien/e/2026-05-22-drumworks-pres-yatuuza-x-liminal-kin
+URL:https://rave.wien/e/2026-05-22-drumworks-pres-yatuuza-x-liminal-kin
+END:VEVENT
 END:VCALENDAR

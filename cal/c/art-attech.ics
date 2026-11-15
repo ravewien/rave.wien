@@ -42,4 +42,100 @@ DESCRIPTION:Aleta\, ARAS JE'TÄM\, Krawallbarbie\, OK CUTEE\, Wal_Halla\,
  -kunst-kusst-techno
 URL:https://rave.wien/e/2026-11-21-art-attech-kunst-kusst-techno
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-02-art-attech-edition-9@rave.wien
+DTSTAMP:20241102T000000Z
+DTSTART;VALUE=DATE:20241102
+DTEND;VALUE=DATE:20241103
+SUMMARY:ART ATTECH – EDITION #9
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Art Attech\n\nhttps://rave.wien/e/2024-11-02-ar
+ t-attech-edition-9
+URL:https://rave.wien/e/2024-11-02-art-attech-edition-9
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-31-art-attech-edition-10-kunst-kusst-techno@rave.wien
+DTSTAMP:20250131T000000Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:ART ATTECH – Edition #10 – Kunst küsst Techno
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Art Attech\n\nhttps://rave.wien/e/2025-01-31-ar
+ t-attech-edition-10-kunst-kusst-techno
+URL:https://rave.wien/e/2025-01-31-art-attech-edition-10-kunst-kusst-tech
+ no
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-18-art-attech-kunst-kusst-techno-edition-11@rave.wien
+DTSTAMP:20250418T000000Z
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250419
+SUMMARY:ART ATTECH – Kunst küsst Techno – Edition #11
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Art Attech\n\nhttps://rave.wien/e/2025-04-18-ar
+ t-attech-kunst-kusst-techno-edition-11
+URL:https://rave.wien/e/2025-04-18-art-attech-kunst-kusst-techno-edition-
+ 11
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-27-art-attech-edition-12-kunst-kusst-techno@rave.wien
+DTSTAMP:20250927T000000Z
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+SUMMARY:ART ATTECH Edition #12 – Kunst küsst Techno
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Art Attech\n\nhttps://rave.wien/e/2025-09-27-ar
+ t-attech-edition-12-kunst-kusst-techno
+URL:https://rave.wien/e/2025-09-27-art-attech-edition-12-kunst-kusst-tech
+ no
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-14-art-attech-edition-13-kunst-kusst-techno@rave.wien
+DTSTAMP:20251114T000000Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:ART ATTECH – Edition #13 – Kunst küsst Techno
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Art Attech\n\nhttps://rave.wien/e/2025-11-14-ar
+ t-attech-edition-13-kunst-kusst-techno
+URL:https://rave.wien/e/2025-11-14-art-attech-edition-13-kunst-kusst-tech
+ no
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-13-art-attech-14-kunst-kusst-techno@rave.wien
+DTSTAMP:20260213T000000Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:Art Attech #14 – Kunst küsst Techno
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Art Attech\n\nhttps://rave.wien/e/2026-02-13-ar
+ t-attech-14-kunst-kusst-techno
+URL:https://rave.wien/e/2026-02-13-art-attech-14-kunst-kusst-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-04-art-attech-summer-edition@rave.wien
+DTSTAMP:20260704T000000Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Art Attech – SUMMER EDITION
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Art Attech\n\nhttps://rave.wien/e/2026-07-04-ar
+ t-attech-summer-edition
+URL:https://rave.wien/e/2026-07-04-art-attech-summer-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-art-attech-special-edition-15@rave.wien
+DTSTAMP:20261002T000000Z
+DTSTART;TZID=Europe/Vienna:20261002T200000
+DTEND;TZID=Europe/Vienna:20261003T010000
+SUMMARY:ART ATTECH Special Edition #15
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Ele Luz\, Je'täm\, Papa Karl\, SAMDMA\, Wal_Halla\, Karolina
+ \, Melimeko\, Wearethezombies\, Violetta\, Shira\, Karl Michael\nVeranst
+ alter: Art Attech\nEintritt: 25 € Abendkasse\n\nVernissage ab 20 Uhr\,
+  Art Rave ab 23 Uhr\; Aktzeichnen\, Livepaintings\, Lichtinstallation un
+ d Ausstellung\n\nhttps://rave.wien/e/2026-10-02-art-attech-special-editi
+ on-15
+URL:https://rave.wien/e/2026-10-02-art-attech-special-edition-15
+END:VEVENT
 END:VCALENDAR

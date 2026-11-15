@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-08-14-deep-cut-w-kai-galactic-aseka-pezel@rave.wien
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:deep cut w/ Kai Galactic\, Aseka\, pezel
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Kai Galactic\, Aseka\, pezel\nVeranstalter: deep cut\n\nhttps
+ ://rave.wien/e/2026-08-14-deep-cut-w-kai-galactic-aseka-pezel
+URL:https://rave.wien/e/2026-08-14-deep-cut-w-kai-galactic-aseka-pezel
+END:VEVENT
 END:VCALENDAR

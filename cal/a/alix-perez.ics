@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-07-27-contrast-pres-1985-music-w-alix-perez-visages-ces@rave.wien
+DTSTAMP:20240727T000000Z
+DTSTART;VALUE=DATE:20240727
+DTEND;VALUE=DATE:20240728
+SUMMARY:CONTRAST pres. 1985 MUSIC w/ ALIX PEREZ + VISAGES + CESCO | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alix Perez\, Visages\, Cesco\nVeranstalter: Contrast\n\nhttps
+ ://rave.wien/e/2024-07-27-contrast-pres-1985-music-w-alix-perez-visages-
+ ces
+URL:https://rave.wien/e/2024-07-27-contrast-pres-1985-music-w-alix-perez-
+ visages-ces
+END:VEVENT
 END:VCALENDAR

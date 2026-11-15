@@ -68,6 +68,17 @@ DESCRIPTION:Oben: Who is Ela¿\, maro\, Aschenbrenner\, Suitside\, DizzyD
 URL:https://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-04-03-cybertribe@rave.wien
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:CYBERTRIBE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Cybertribe\n\nhttps://rave.wien/e/2026-04-03-cy
+ bertribe
+URL:https://rave.wien/e/2026-04-03-cybertribe
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-zuckerwatt-w-mija@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T230000

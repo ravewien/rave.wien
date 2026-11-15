@@ -25,4 +25,123 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-07-26-reverse-club-night-with-sinister-souls-kaira@rave.wien
+DTSTAMP:20240726T000000Z
+DTSTART;VALUE=DATE:20240726
+DTEND;VALUE=DATE:20240727
+SUMMARY:Reverse Club Night with Sinister Souls & Kaira
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Sinister Souls\, Kaira\nVeranstalter: Reverse\n\nhttps://rave
+ .wien/e/2024-07-26-reverse-club-night-with-sinister-souls-kaira
+URL:https://rave.wien/e/2024-07-26-reverse-club-night-with-sinister-souls
+ -kaira
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-25-reverse-special-echos-of-fall-with-myselor-divisi@rave.wien
+DTSTAMP:20241025T000000Z
+DTSTART;VALUE=DATE:20241025
+DTEND;VALUE=DATE:20241026
+SUMMARY:Reverse Special – Echos of Fall with Myselor & Division
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Myselor\, Division\nVeranstalter: Reverse\n\nhttps://rave.wie
+ n/e/2024-10-25-reverse-special-echos-of-fall-with-myselor-divisi
+URL:https://rave.wien/e/2024-10-25-reverse-special-echos-of-fall-with-mys
+ elor-divisi
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-28-reverse-club-night-with-merikan-tobax@rave.wien
+DTSTAMP:20250228T000000Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:Reverse Club Night with Merikan & Tobax
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Merikan\, Tobax\nVeranstalter: Reverse\n\nhttps://rave.wien/e
+ /2025-02-28-reverse-club-night-with-merikan-tobax
+URL:https://rave.wien/e/2025-02-28-reverse-club-night-with-merikan-tobax
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-25-reverse-club-night-w-the-clamps-skrimor@rave.wien
+DTSTAMP:20250425T000000Z
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250426
+SUMMARY:Reverse Club Night w/ The Clamps & Skrimor
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:The Clamps\, Skrimor\nVeranstalter: Reverse\n\nhttps://rave.w
+ ien/e/2025-04-25-reverse-club-night-w-the-clamps-skrimor
+URL:https://rave.wien/e/2025-04-25-reverse-club-night-w-the-clamps-skrimor
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-27-reverse-club-night-with-prolix-first-person-overt@rave.wien
+DTSTAMP:20250727T000000Z
+DTSTART;VALUE=DATE:20250727
+DTEND;VALUE=DATE:20250728
+SUMMARY:Reverse Club Night with Prolix\, First Person & Overtune
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Prolix\, First Person\, Overtune\nVeranstalter: Reverse\n\nht
+ tps://rave.wien/e/2025-07-27-reverse-club-night-with-prolix-first-person
+ -overt
+URL:https://rave.wien/e/2025-07-27-reverse-club-night-with-prolix-first-p
+ erson-overt
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-20-3-years-of-reverse-pres-prdk-shmidoo-resselrave-a@rave.wien
+DTSTAMP:20250920T000000Z
+DTSTART;VALUE=DATE:20250920
+DTEND;VALUE=DATE:20250921
+SUMMARY:3 Years of Reverse pres. PRDK & Shmidoo + Resselrave Afterparty w
+ ith Soundlabs
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:PRDK\, Shmidoo\nVeranstalter: Reverse\, Soundlabs\n\nhttps://
+ rave.wien/e/2025-09-20-3-years-of-reverse-pres-prdk-shmidoo-resselrave-a
+URL:https://rave.wien/e/2025-09-20-3-years-of-reverse-pres-prdk-shmidoo-r
+ esselrave-a
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-15-reverse-pres-flinta-special-resonance-of-light@rave.wien
+DTSTAMP:20251115T000000Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:Reverse pres. Flinta* Special: Resonance of Light
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Reverse\n\nhttps://rave.wien/e/2025-11-15-rever
+ se-pres-flinta-special-resonance-of-light
+URL:https://rave.wien/e/2025-11-15-reverse-pres-flinta-special-resonance-
+ of-light
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-20-reverse-club-night-with-shaymi-phenom-discharge@rave.wien
+DTSTAMP:20260320T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Reverse Club Night with Shaymi\, Phenom & Discharge
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Shaymi\, Phenom\, Discharge\nVeranstalter: Reverse\n\nhttps:/
+ /rave.wien/e/2026-03-20-reverse-club-night-with-shaymi-phenom-discharge
+URL:https://rave.wien/e/2026-03-20-reverse-club-night-with-shaymi-phenom-
+ discharge
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-22-reverse-pres-evolution-chamber-label-night-crosso@rave.wien
+DTSTAMP:20260522T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Reverse pres. Evolution Chamber Label Night & Crossover
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Crossover\nVeranstalter: Reverse\n\nhttps://rave.wien/e/2026-
+ 05-22-reverse-pres-evolution-chamber-label-night-crosso
+URL:https://rave.wien/e/2026-05-22-reverse-pres-evolution-chamber-label-n
+ ight-crosso
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-26-reverse-trust-the-unknown@rave.wien
+DTSTAMP:20260626T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Reverse – Trust the Unknown
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Veranstalter: Reverse\n\nhttps://rave.wien/e/2026-06-26-rever
+ se-trust-the-unknown
+URL:https://rave.wien/e/2026-06-26-reverse-trust-the-unknown
+END:VEVENT
 END:VCALENDAR

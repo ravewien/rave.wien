@@ -25,4 +25,117 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-23-2yrs-of-nexus@rave.wien
+DTSTAMP:20240823T000000Z
+DTSTART;TZID=Europe/Vienna:20240823T230000
+DTEND;TZID=Europe/Vienna:20240824T040000
+SUMMARY:2YRS of NEXUS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Trancemaster Krause\, DJ Traytex\, Violetta\, Aschenbrenner\,
+  Sømnus\, countershine\, Randalia\, Max Wagner\, Goldi\nVeranstalter: N
+ EXUS\n\nhttps://rave.wien/e/2024-08-23-2yrs-of-nexus
+URL:https://rave.wien/e/2024-08-23-2yrs-of-nexus
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-30-f-cken-plus-megerparty-model-6-ai-ultra-plus@rave.wien
+DTSTAMP:20241130T000000Z
+DTSTART;TZID=Europe/Vienna:20241130T230000
+DTEND;TZID=Europe/Vienna:20241201T040000
+SUMMARY:F*CKEN PLUS – Megerparty Model 6 AI Ultra Plus
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Violetta\, Manu:ra\, Annika Stein\, Gerald VDH\, DJ Wolle\, P
+ hilipp Eicher\, Wurstsalon\nVeranstalter: F*cken Plus\n\nhttps://rave.wi
+ en/e/2024-11-30-f-cken-plus-megerparty-model-6-ai-ultra-plus
+URL:https://rave.wien/e/2024-11-30-f-cken-plus-megerparty-model-6-ai-ultr
+ a-plus
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-19-fish-market-w-olivia-mendez-violetta-dj-deadlift@rave.wien
+DTSTAMP:20250719T000000Z
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+SUMMARY:FISH MARKET w/ Olivia Mendez\, Violetta\, DJ Deadlift\, PUSH-Floor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Olivia Mendez\, Violetta\, DJ Deadlift\nVeranstalter: Fish Ma
+ rket\, PUSH\n\nhttps://rave.wien/e/2025-07-19-fish-market-w-olivia-mende
+ z-violetta-dj-deadlift
+URL:https://rave.wien/e/2025-07-19-fish-market-w-olivia-mendez-violetta-d
+ j-deadlift
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-28-f-plus-w-d-dan-gerald-vdh-violetta-ua@rave.wien
+DTSTAMP:20251128T000000Z
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251129
+SUMMARY:F*PLUS w/ D DAN\, GERALD VDH\, VIOLETTA\, ua
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:D Dan\, Gerald VDH\, Violetta\nVeranstalter: F*cken Plus\n\nh
+ ttps://rave.wien/e/2025-11-28-f-plus-w-d-dan-gerald-vdh-violetta-ua
+URL:https://rave.wien/e/2025-11-28-f-plus-w-d-dan-gerald-vdh-violetta-ua
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-28-f-plus-feat-7circle-violetta-deadlift@rave.wien
+DTSTAMP:20260228T000000Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:F*PLUS feat. 7CIRCLE\, Violetta\, Deadlift
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:7circle\, Violetta\, Deadlift\nVeranstalter: F*cken Plus\n\nh
+ ttps://rave.wien/e/2026-02-28-f-plus-feat-7circle-violetta-deadlift
+URL:https://rave.wien/e/2026-02-28-f-plus-feat-7circle-violetta-deadlift
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-17-fish-market-feat-nastia-reigel-violetta-deadlift@rave.wien
+DTSTAMP:20260417T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:FISH MARKET feat. Nastia Reigel\, Violetta\, Deadlift & Amore AG 
+ Floor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Nastia Reigel\, Violetta\, Deadlift\nVeranstalter: Fish Marke
+ t\, Amore AG\n\nhttps://rave.wien/e/2026-04-17-fish-market-feat-nastia-r
+ eigel-violetta-deadlift
+URL:https://rave.wien/e/2026-04-17-fish-market-feat-nastia-reigel-violett
+ a-deadlift
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-12-pre-pride-party-by-grelle-x-meat-market-x-rhinopl@rave.wien
+DTSTAMP:20260612T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Pre-Pride-Party by Grelle x MEAT Market x Rhinoplasty
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Gerald VDH\, saschka\, Violetta\, Manu:ra\, Firas\, Fabio\, B
+ en\n\nhttps://rave.wien/e/2026-06-12-pre-pride-party-by-grelle-x-meat-ma
+ rket-x-rhinopl
+URL:https://rave.wien/e/2026-06-12-pre-pride-party-by-grelle-x-meat-marke
+ t-x-rhinopl
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-24-grelle-forelle-sommerfest@rave.wien
+DTSTAMP:20260724T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:Grelle Forelle Sommerfest
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alarico\, SHDW\, Alex Maurer\, Violetta\n\nhttps://rave.wien/
+ e/2026-07-24-grelle-forelle-sommerfest
+URL:https://rave.wien/e/2026-07-24-grelle-forelle-sommerfest
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-art-attech-special-edition-15@rave.wien
+DTSTAMP:20261002T000000Z
+DTSTART;TZID=Europe/Vienna:20261002T200000
+DTEND;TZID=Europe/Vienna:20261003T010000
+SUMMARY:ART ATTECH Special Edition #15
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Ele Luz\, Je'täm\, Papa Karl\, SAMDMA\, Wal_Halla\, Karolina
+ \, Melimeko\, Wearethezombies\, Violetta\, Shira\, Karl Michael\nVeranst
+ alter: Art Attech\nEintritt: 25 € Abendkasse\n\nVernissage ab 20 Uhr\,
+  Art Rave ab 23 Uhr\; Aktzeichnen\, Livepaintings\, Lichtinstallation un
+ d Ausstellung\n\nhttps://rave.wien/e/2026-10-02-art-attech-special-editi
+ on-15
+URL:https://rave.wien/e/2026-10-02-art-attech-special-edition-15
+END:VEVENT
 END:VCALENDAR

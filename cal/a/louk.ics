@@ -38,4 +38,28 @@ DESCRIPTION:MESROD\, PJPJPJ\, Julani\, Lilosh\, Fliize\, Duplikate\, Hann
  After.\n\nhttps://rave.wien/e/2026-12-05-housetiere-vg-weekender
 URL:https://rave.wien/e/2026-12-05-housetiere-vg-weekender
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-07-free-friday@rave.wien
+DTSTAMP:20240607T000000Z
+DTSTART;TZID=Europe/Vienna:20240607T230000
+DTEND;TZID=Europe/Vienna:20240608T040000
+SUMMARY:Free Friday
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Louk\, Aschenbrenner\, PSMT\, Vich Mind\, Sømnus\, KEYL\, Em
+ baixador\n\nhttps://rave.wien/e/2024-06-07-free-friday
+URL:https://rave.wien/e/2024-06-07-free-friday
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-27-votiv-session-w-talia-dorr-pablo-louk-fuxx@rave.wien
+DTSTAMP:20260327T000000Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:votiv session w/ Talia Dorr\, Pablo\, Louk\, Fuxx
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Talia Dorr\, Pablo\, Louk\, Fuxx\nVeranstalter: Votiv Session
+ \n\nhttps://rave.wien/e/2026-03-27-votiv-session-w-talia-dorr-pablo-louk
+ -fuxx
+URL:https://rave.wien/e/2026-03-27-votiv-session-w-talia-dorr-pablo-louk-
+ fuxx
+END:VEVENT
 END:VCALENDAR

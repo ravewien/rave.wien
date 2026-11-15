@@ -63,4 +63,31 @@ DESCRIPTION:Audrey Danza\, Apua\, DJ Deadlift\, Dreya\nVeranstalter: Redi
  r-pres-audrey-danza
 URL:https://rave.wien/e/2026-12-12-redivider-pres-audrey-danza
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-19-fish-market-w-olivia-mendez-violetta-dj-deadlift@rave.wien
+DTSTAMP:20250719T000000Z
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+SUMMARY:FISH MARKET w/ Olivia Mendez\, Violetta\, DJ Deadlift\, PUSH-Floor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Olivia Mendez\, Violetta\, DJ Deadlift\nVeranstalter: Fish Ma
+ rket\, PUSH\n\nhttps://rave.wien/e/2025-07-19-fish-market-w-olivia-mende
+ z-violetta-dj-deadlift
+URL:https://rave.wien/e/2025-07-19-fish-market-w-olivia-mendez-violetta-d
+ j-deadlift
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-19-fish-market-a-diabolic-homo-thirst-feat-ben-manso@rave.wien
+DTSTAMP:20250919T000000Z
+DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250920
+SUMMARY:FISH MARKET / A Diabolic Homo Thirst / feat. Ben Manson\, Gerald 
+ VDH\, DJ Deadlift
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Ben Manson\, Gerald VDH\, DJ Deadlift\nVeranstalter: Fish Mar
+ ket\n\nhttps://rave.wien/e/2025-09-19-fish-market-a-diabolic-homo-thirst
+ -feat-ben-manso
+URL:https://rave.wien/e/2025-09-19-fish-market-a-diabolic-homo-thirst-fea
+ t-ben-manso
+END:VEVENT
 END:VCALENDAR

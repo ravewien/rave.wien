@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-03-09-k-eine-hexerei-ein-festakt-von-und-fur-gottinnen@rave.wien
+DTSTAMP:20240309T000000Z
+DTSTART;TZID=Europe/Vienna:20240309T230000
+DTEND;TZID=Europe/Vienna:20240310T040000
+SUMMARY:(K)eine Hexerei – ein Festakt von und für Göttinnen*
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alecid\, Aylean\, Frau Hofmann\, Nira\, Nora Finke\, MA!A\, P
+ urrdition\nEintritt: AK 18 € (vom Gender Pay Gap Betroffene) / 20 €\
+ n\nGlitzerstation von 23 bis 2 Uhr\n\nhttps://rave.wien/e/2024-03-09-k-e
+ ine-hexerei-ein-festakt-von-und-fur-gottinnen
+URL:https://rave.wien/e/2024-03-09-k-eine-hexerei-ein-festakt-von-und-fur
+ -gottinnen
+END:VEVENT
 END:VCALENDAR

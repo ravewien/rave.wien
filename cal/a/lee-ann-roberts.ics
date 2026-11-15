@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-07-purradox-w-lee-ann-roberts@rave.wien
+DTSTAMP:20250607T000000Z
+DTSTART;VALUE=DATE:20250607
+DTEND;VALUE=DATE:20250608
+SUMMARY:PURRADOX w/ LEE ANN ROBERTS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Lee Ann Roberts\nVeranstalter: Purradox\n\nhttps://rave.wien/
+ e/2025-06-07-purradox-w-lee-ann-roberts
+URL:https://rave.wien/e/2025-06-07-purradox-w-lee-ann-roberts
+END:VEVENT
 END:VCALENDAR

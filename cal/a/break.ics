@@ -25,4 +25,40 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-14-contrast-pres-symmetry-w-break-calyx-dlr-18@rave.wien
+DTSTAMP:20240614T000000Z
+DTSTART;VALUE=DATE:20240614
+DTEND;VALUE=DATE:20240615
+SUMMARY:CONTRAST pres. SYMMETRY w/ BREAK + CALYX + DLR | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Break\, Calyx\, DLR\nVeranstalter: Contrast\n\nhttps://rave.w
+ ien/e/2024-06-14-contrast-pres-symmetry-w-break-calyx-dlr-18
+URL:https://rave.wien/e/2024-06-14-contrast-pres-symmetry-w-break-calyx-d
+ lr-18
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-17-contrast-pres-break-halogenix-emperor-18@rave.wien
+DTSTAMP:20250517T000000Z
+DTSTART;VALUE=DATE:20250517
+DTEND;VALUE=DATE:20250518
+SUMMARY:CONTRAST pres. BREAK + HALOGENIX + EMPEROR | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Break\, Halogenix\, Emperor\nVeranstalter: Contrast\n\nhttps:
+ //rave.wien/e/2025-05-17-contrast-pres-break-halogenix-emperor-18
+URL:https://rave.wien/e/2025-05-17-contrast-pres-break-halogenix-emperor-
+ 18
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-15-contrast-pres-break-workforce-b2b-lsb-special-3h@rave.wien
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:CONTRAST pres. BREAK + WORKFORCE b2b LSB (Special 3h Set) | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Break\, Workforce\, Lsb\nVeranstalter: Contrast\n\nhttps://ra
+ ve.wien/e/2026-05-15-contrast-pres-break-workforce-b2b-lsb-special-3h
+URL:https://rave.wien/e/2026-05-15-contrast-pres-break-workforce-b2b-lsb-
+ special-3h
+END:VEVENT
 END:VCALENDAR

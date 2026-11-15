@@ -40,4 +40,15 @@ DESCRIPTION:Malounadou\, Anna Soto\, Jule Feser\, Aside\nVeranstalter: Da
  t
 URL:https://rave.wien/e/2026-11-20-syndikat
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-11-cardio-cult-w-andi-britz-anna-soto@rave.wien
+DTSTAMP:20251011T000000Z
+DTSTART;VALUE=DATE:20251011
+DTEND;VALUE=DATE:20251012
+SUMMARY:Cardio Cult w/ Andi Britz & Anna Soto
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Andi Britz\, Anna Soto\nVeranstalter: Cardio Cult\n\nhttps://
+ rave.wien/e/2025-10-11-cardio-cult-w-andi-britz-anna-soto
+URL:https://rave.wien/e/2025-10-11-cardio-cult-w-andi-britz-anna-soto
+END:VEVENT
 END:VCALENDAR

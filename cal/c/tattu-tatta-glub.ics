@@ -25,4 +25,88 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-11-tattu-tatta-glub-glub-hotline@rave.wien
+DTSTAMP:20240511T000000Z
+DTSTART;TZID=Europe/Vienna:20240511T230000
+DTEND;TZID=Europe/Vienna:20240512T040000
+SUMMARY:Tattu Tatta Glub | Glub Hotline
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Babybens\, Dj Wenzel\, Dj Https\, Rebekah Abdeen\, Serafin\, 
+ DJ Shady MF\, Dream DJ Team\nVeranstalter: Tattu Tatta Glub\n\nhttps://r
+ ave.wien/e/2024-05-11-tattu-tatta-glub-glub-hotline
+URL:https://rave.wien/e/2024-05-11-tattu-tatta-glub-glub-hotline
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-28-tattu-tatta-glub-polyamor@rave.wien
+DTSTAMP:20240928T000000Z
+DTSTART;TZID=Europe/Vienna:20240928T230000
+DTEND;TZID=Europe/Vienna:20240929T040000
+SUMMARY:Tattu Tatta Glub & Polyamor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:UHD\, ALIS.\, Vivienna\, Bitschu Batschu\, Cleopard2000\, Heg
+ gemann\, DJ Shady MF\, Anna Ullrich\nVeranstalter: Tattu Tatta Glub\, Po
+ lyamor\n\nhttps://rave.wien/e/2024-09-28-tattu-tatta-glub-polyamor
+URL:https://rave.wien/e/2024-09-28-tattu-tatta-glub-polyamor
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-15-tattu-tatta-glub@rave.wien
+DTSTAMP:20250215T000000Z
+DTSTART;TZID=Europe/Vienna:20250215T230000
+DTEND;TZID=Europe/Vienna:20250216T040000
+SUMMARY:TATTU TATTA GLUB
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Baran Kok\, DjBounty3000\, Stinny Stone\, Icydeoz\, Vivienna\
+ , Serafin\, Armin Hermann\nVeranstalter: Tattu Tatta Glub\n\nhttps://rav
+ e.wien/e/2025-02-15-tattu-tatta-glub
+URL:https://rave.wien/e/2025-02-15-tattu-tatta-glub
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-12-tattu-tatta-glub-macht-pau-se-at-prst@rave.wien
+DTSTAMP:20250412T000000Z
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250413
+SUMMARY:Tattu Tatta Glub MACHT PAU’SE at PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Tattu Tatta Glub\n\nhttps://rave.wien/e/2025-04
+ -12-tattu-tatta-glub-macht-pau-se-at-prst
+URL:https://rave.wien/e/2025-04-12-tattu-tatta-glub-macht-pau-se-at-prst
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-10-tattu-tatta-glub-macht-pau-se-grelle-forelle@rave.wien
+DTSTAMP:20250510T000000Z
+DTSTART;VALUE=DATE:20250510
+DTEND;VALUE=DATE:20250511
+SUMMARY:TATTU TATTA GLUB macht PAU’se @ GRELLE FORELLE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mariad\, Greg\, Pau\, Nasty\, DJ Spit & Caramelo\, Vivienna\,
+  Serafin\nVeranstalter: Tattu Tatta Glub\n\nhttps://rave.wien/e/2025-05-
+ 10-tattu-tatta-glub-macht-pau-se-grelle-forelle
+URL:https://rave.wien/e/2025-05-10-tattu-tatta-glub-macht-pau-se-grelle-f
+ orelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-11-tattu-tatta-glub-sachsentrance-grelle-forelle@rave.wien
+DTSTAMP:20251011T000000Z
+DTSTART;VALUE=DATE:20251011
+DTEND;VALUE=DATE:20251012
+SUMMARY:TATTU TATTA GLUB & SACHSENTRANCE @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Sachsentrance\nVeranstalter: Tattu Tatta Glub\n\nhttps://rave
+ .wien/e/2025-10-11-tattu-tatta-glub-sachsentrance-grelle-forelle
+URL:https://rave.wien/e/2025-10-11-tattu-tatta-glub-sachsentrance-grelle-
+ forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-14-tattu-tatta-glub-goat-ball@rave.wien
+DTSTAMP:20260214T000000Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:TATTU TATTA GLUB & GOAT BALL
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Vivienna\, Trancemaster Krause\, Stinny Stone\, Cobb Douglas\
+ , Sohoe\, Terra Twiins\, Armin Hermann\, Serafin\nVeranstalter: Tattu Ta
+ tta Glub\n\nhttps://rave.wien/e/2026-02-14-tattu-tatta-glub-goat-ball
+URL:https://rave.wien/e/2026-02-14-tattu-tatta-glub-goat-ball
+END:VEVENT
 END:VCALENDAR

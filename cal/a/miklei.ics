@@ -25,4 +25,29 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-07-18-feuchte-traume-sex-positive-party@rave.wien
+DTSTAMP:20250718T000000Z
+DTSTART;TZID=Europe/Vienna:20250718T160000
+DTEND;TZID=Europe/Vienna:20250719T060000
+SUMMARY:Feuchte Träume (Sex Positive Party)
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:MoBama\, Anni Herzer\, Chiara Allnutt\, Miklei\, Krawallbarbi
+ e\nVeranstalter: Feuchte Träume\nEintritt: 17–55 €\n\nhttps://rave.
+ wien/e/2025-07-18-feuchte-traume-sex-positive-party
+URL:https://rave.wien/e/2025-07-18-feuchte-traume-sex-positive-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-13-feuchte-traume-renaissance-of-pleasure@rave.wien
+DTSTAMP:20260313T000000Z
+DTSTART;TZID=Europe/Vienna:20260313T210000
+DTEND;TZID=Europe/Vienna:20260314T020000
+SUMMARY:Feuchte Träume – Renaissance of Pleasure
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Für Lau\, MoBama\, Dragon & DJ Orgy\, Monosol\, NHDT aka Tin
+ o\, Miklei\nVeranstalter: Feuchte Träume\nEintritt: 32–46 € (nur VV
+ K)\n\nhttps://rave.wien/e/2026-03-13-feuchte-traume-renaissance-of-pleas
+ ure
+URL:https://rave.wien/e/2026-03-13-feuchte-traume-renaissance-of-pleasure
+END:VEVENT
 END:VCALENDAR

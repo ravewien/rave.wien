@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-14-sommernachtstraum-2024-grelle-forelle@rave.wien
+DTSTAMP:20240814T000000Z
+DTSTART;TZID=Europe/Vienna:20240814T230000
+DTEND;TZID=Europe/Vienna:20240815T040000
+SUMMARY:Sommernachtstraum 2024 | Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alexis Hera\, amilia\, dotpoint\, Fehr Brothers\, ksot sounds
+ ystem\, Linus Milchbrand\, NIKISS\n\nhttps://rave.wien/e/2024-08-14-somm
+ ernachtstraum-2024-grelle-forelle
+URL:https://rave.wien/e/2024-08-14-sommernachtstraum-2024-grelle-forelle
+END:VEVENT
 END:VCALENDAR

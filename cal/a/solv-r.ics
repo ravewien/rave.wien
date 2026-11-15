@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-07-11-rave-am-mittwoch-scheibenwischer-solv-r-all-night@rave.wien
+DTSTAMP:20260711T000000Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Rave am Mittwoch: Scheibenwischer & SOLVÆR (All Night Long)
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Scheibenwischer\, Solvær\nVeranstalter: Rave am Mittwoch\n\n
+ https://rave.wien/e/2026-07-11-rave-am-mittwoch-scheibenwischer-solv-r-a
+ ll-night
+URL:https://rave.wien/e/2026-07-11-rave-am-mittwoch-scheibenwischer-solv-
+ r-all-night
+END:VEVENT
 END:VCALENDAR

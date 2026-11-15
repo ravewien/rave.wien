@@ -41,4 +41,128 @@ DESCRIPTION:Fafi Abdel Nour\nVeranstalter: Amore AG\, VNV\n\nClubnacht de
  abdel-nour
 URL:https://rave.wien/e/2026-12-11-amore-ag-x-vnv-with-fafi-abdel-nour
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-11-amore-waschtrasse-w-jenny-cara@rave.wien
+DTSTAMP:20240511T000000Z
+DTSTART;VALUE=DATE:20240511
+DTEND;VALUE=DATE:20240512
+SUMMARY:Amore Waschtrasse w/ Jenny Cara
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Jenny Cara\nVeranstalter: Amore AG\n\nhttps://rave.wien/e/202
+ 4-05-11-amore-waschtrasse-w-jenny-cara
+URL:https://rave.wien/e/2024-05-11-amore-waschtrasse-w-jenny-cara
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-05-euphoria-x-amore@rave.wien
+DTSTAMP:20240705T000000Z
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240706
+SUMMARY:EUPHORIA X AMORE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Amore AG\, Euphoria\n\nhttps://rave.wien/e/2024
+ -07-05-euphoria-x-amore
+URL:https://rave.wien/e/2024-07-05-euphoria-x-amore
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-19-amore-waschtrasse-w-eoin-dj@rave.wien
+DTSTAMP:20240719T000000Z
+DTSTART;VALUE=DATE:20240719
+DTEND;VALUE=DATE:20240720
+SUMMARY:Amore Waschtrasse w/ EOIN DJ
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Eoin DJ\nVeranstalter: Amore AG\n\nhttps://rave.wien/e/2024-0
+ 7-19-amore-waschtrasse-w-eoin-dj
+URL:https://rave.wien/e/2024-07-19-amore-waschtrasse-w-eoin-dj
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-29-2-years-of-amore-ag@rave.wien
+DTSTAMP:20241129T000000Z
+DTSTART;VALUE=DATE:20241129
+DTEND;VALUE=DATE:20241130
+SUMMARY:2 years of Amore AG
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Amore AG\n\nhttps://rave.wien/e/2024-11-29-2-ye
+ ars-of-amore-ag
+URL:https://rave.wien/e/2024-11-29-2-years-of-amore-ag
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-21-amore-ag-x-in-a-mood@rave.wien
+DTSTAMP:20250221T000000Z
+DTSTART;VALUE=DATE:20250221
+DTEND;VALUE=DATE:20250222
+SUMMARY:Amore AG x IN A MOOD
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Amore AG\n\nhttps://rave.wien/e/2025-02-21-amor
+ e-ag-x-in-a-mood
+URL:https://rave.wien/e/2025-02-21-amore-ag-x-in-a-mood
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-16-amore-et-sass@rave.wien
+DTSTAMP:20250516T000000Z
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250517
+SUMMARY:Amore et Sass
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Amore AG\n\nhttps://rave.wien/e/2025-05-16-amor
+ e-et-sass
+URL:https://rave.wien/e/2025-05-16-amore-et-sass
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-15-freeride-millenium-x-amore-ag@rave.wien
+DTSTAMP:20250815T000000Z
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+SUMMARY:Freeride Millenium x Amore AG
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Amore AG\, Freeride Millenium\n\nhttps://rave.w
+ ien/e/2025-08-15-freeride-millenium-x-amore-ag
+URL:https://rave.wien/e/2025-08-15-freeride-millenium-x-amore-ag
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-10-amore-ag-invites-bennet@rave.wien
+DTSTAMP:20251010T000000Z
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251011
+SUMMARY:Amore AG invites Bennet
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Bennet\nVeranstalter: Amore AG\n\nhttps://rave.wien/e/2025-10
+ -10-amore-ag-invites-bennet
+URL:https://rave.wien/e/2025-10-10-amore-ag-invites-bennet
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-17-amore-ag-presents-camp-prog@rave.wien
+DTSTAMP:20251017T000000Z
+DTSTART;VALUE=DATE:20251017
+DTEND;VALUE=DATE:20251018
+SUMMARY:Amore AG presents: CAMP PROG
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Camp Prog\nVeranstalter: Amore AG\n\nhttps://rave.wien/e/2025
+ -10-17-amore-ag-presents-camp-prog
+URL:https://rave.wien/e/2025-10-17-amore-ag-presents-camp-prog
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-17-fish-market-feat-nastia-reigel-violetta-deadlift@rave.wien
+DTSTAMP:20260417T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:FISH MARKET feat. Nastia Reigel\, Violetta\, Deadlift & Amore AG 
+ Floor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Nastia Reigel\, Violetta\, Deadlift\nVeranstalter: Fish Marke
+ t\, Amore AG\n\nhttps://rave.wien/e/2026-04-17-fish-market-feat-nastia-r
+ eigel-violetta-deadlift
+URL:https://rave.wien/e/2026-04-17-fish-market-feat-nastia-reigel-violett
+ a-deadlift
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-24-amore-x-redivider@rave.wien
+DTSTAMP:20260724T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:AMORE X REDIVIDER
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Redivider\, Amore AG\n\nhttps://rave.wien/e/202
+ 6-07-24-amore-x-redivider
+URL:https://rave.wien/e/2026-07-24-amore-x-redivider
+END:VEVENT
 END:VCALENDAR

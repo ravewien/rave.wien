@@ -25,4 +25,39 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-15-spatschicht-invites@rave.wien
+DTSTAMP:20251115T000000Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:SPÄTSCHICHT INVITES
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Spätschicht Invites\nVeranstalter: Spätschicht\n\nhttps://r
+ ave.wien/e/2025-11-15-spatschicht-invites
+URL:https://rave.wien/e/2025-11-15-spatschicht-invites
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-20-aftii-pres-groovemas-with-groove-operators-x-spat@rave.wien
+DTSTAMP:20251220T000000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:Aftii pres. GROOVEMAS with Groove Operators x Spätschicht
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Aftii\nVeranstalter: Groove Operators\, Spätschicht\n\nhttps
+ ://rave.wien/e/2025-12-20-aftii-pres-groovemas-with-groove-operators-x-s
+ pat
+URL:https://rave.wien/e/2025-12-20-aftii-pres-groovemas-with-groove-opera
+ tors-x-spat
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-11-tanz-in-den-fruhling-tds-x-spatschicht@rave.wien
+DTSTAMP:20260411T000000Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:TANZ IN DEN FRÜHLING – TDS X SPÄTSCHICHT
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Veranstalter: Spätschicht\n\nhttps://rave.wien/e/2026-04-11-
+ tanz-in-den-fruhling-tds-x-spatschicht
+URL:https://rave.wien/e/2026-04-11-tanz-in-den-fruhling-tds-x-spatschicht
+END:VEVENT
 END:VCALENDAR

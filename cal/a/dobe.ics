@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-03-01-techno-entgleist-bussis-aus-berlin@rave.wien
+DTSTAMP:20240301T000000Z
+DTSTART;TZID=Europe/Vienna:20240301T230000
+DTEND;TZID=Europe/Vienna:20240302T040000
+SUMMARY:TECHNO ENTGLEIST | BUSSIS AUS BERLIN
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:BOHO\, DOBé\, Louisa India\, Vibechen\, Manu Script\, Adrian
+  Tronic\, Epicuro\, Tomagan\nVeranstalter: Techno Entgleist\nEintritt: A
+ K only\, freiwilliger Beitrag ab 15 €\n\nhttps://rave.wien/e/2024-03-0
+ 1-techno-entgleist-bussis-aus-berlin
+URL:https://rave.wien/e/2024-03-01-techno-entgleist-bussis-aus-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-18-dobe-berlin-x-raveonsociety@rave.wien
+DTSTAMP:20250618T000000Z
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250619
+SUMMARY:DOBE (Berlin) x RaveOnSociety
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:DOBE\nVeranstalter: Rave On Society\n\nhttps://rave.wien/e/20
+ 25-06-18-dobe-berlin-x-raveonsociety
+URL:https://rave.wien/e/2025-06-18-dobe-berlin-x-raveonsociety
+END:VEVENT
 END:VCALENDAR

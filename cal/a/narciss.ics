@@ -25,4 +25,27 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-29-straat-264-with-narciss-dj-feuerdrache-cufme-dj-s@rave.wien
+DTSTAMP:20251129T000000Z
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:Straat 264 with Narciss\, DJ Feuerdrache\, Cufme & DJ Schnelltest
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Narciss\, DJ Feuerdrache\, Cufme\, DJ Schnelltest\nVeranstalt
+ er: Straat 264\n\nhttps://rave.wien/e/2025-11-29-straat-264-with-narciss
+ -dj-feuerdrache-cufme-dj-s
+URL:https://rave.wien/e/2025-11-29-straat-264-with-narciss-dj-feuerdrache
+ -cufme-dj-s
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-31-prst-invites-narciss@rave.wien
+DTSTAMP:20260731T000000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:PRST invites Narciss
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Narciss\n\nhttps://rave.wien/e/2026-07-31-prst-invites-narciss
+URL:https://rave.wien/e/2026-07-31-prst-invites-narciss
+END:VEVENT
 END:VCALENDAR

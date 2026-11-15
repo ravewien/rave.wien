@@ -26,6 +26,241 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-01-13-wiener-mischung-x-kramladen@rave.wien
+DTSTAMP:20240113T000000Z
+DTSTART;VALUE=DATE:20240113
+DTEND;VALUE=DATE:20240114
+SUMMARY:Wiener Mischung x Kramladen
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Wiener Mischung\n\nhttps://rave.wien/e/2024-01-
+ 13-wiener-mischung-x-kramladen
+URL:https://rave.wien/e/2024-01-13-wiener-mischung-x-kramladen
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-03-08-wiener-mischung-x-kramladen@rave.wien
+DTSTAMP:20240308T000000Z
+DTSTART;VALUE=DATE:20240308
+DTEND;VALUE=DATE:20240309
+SUMMARY:Wiener Mischung x Kramladen
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Wiener Mischung\n\nhttps://rave.wien/e/2024-03-
+ 08-wiener-mischung-x-kramladen
+URL:https://rave.wien/e/2024-03-08-wiener-mischung-x-kramladen
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-13-wiener-mischung-x-kramladen@rave.wien
+DTSTAMP:20240413T000000Z
+DTSTART;VALUE=DATE:20240413
+DTEND;VALUE=DATE:20240414
+SUMMARY:Wiener Mischung x Kramladen
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Wiener Mischung\n\nhttps://rave.wien/e/2024-04-
+ 13-wiener-mischung-x-kramladen
+URL:https://rave.wien/e/2024-04-13-wiener-mischung-x-kramladen
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-31-wiener-mischung-x-kramladen@rave.wien
+DTSTAMP:20240531T000000Z
+DTSTART;VALUE=DATE:20240531
+DTEND;VALUE=DATE:20240601
+SUMMARY:Wiener Mischung x Kramladen
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Wiener Mischung\n\nhttps://rave.wien/e/2024-05-
+ 31-wiener-mischung-x-kramladen
+URL:https://rave.wien/e/2024-05-31-wiener-mischung-x-kramladen
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-05-mitmischen-wiener-mischung-w-yn-friends@rave.wien
+DTSTAMP:20240705T000000Z
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240706
+SUMMARY:Mitmischen (Wiener Mischung) w/ YN & Friends
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:YN\nVeranstalter: Wiener Mischung\, YN Collective\n\nhttps://
+ rave.wien/e/2024-07-05-mitmischen-wiener-mischung-w-yn-friends
+URL:https://rave.wien/e/2024-07-05-mitmischen-wiener-mischung-w-yn-friends
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-03-mitmischen-w-rusrus-red-channel-records@rave.wien
+DTSTAMP:20240803T000000Z
+DTSTART;VALUE=DATE:20240803
+DTEND;VALUE=DATE:20240804
+SUMMARY:Mitmischen w/RUSRUS (Red Channel Records)
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Rusrus\nVeranstalter: Wiener Mischung\n\nhttps://rave.wien/e/
+ 2024-08-03-mitmischen-w-rusrus-red-channel-records
+URL:https://rave.wien/e/2024-08-03-mitmischen-w-rusrus-red-channel-records
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-06-mitmischen-w-martin-mind-lelantus-records@rave.wien
+DTSTAMP:20240906T000000Z
+DTSTART;VALUE=DATE:20240906
+DTEND;VALUE=DATE:20240907
+SUMMARY:Mitmischen w/ MARTIN MIND (Lelantus Records)
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Martin Mind\nVeranstalter: Wiener Mischung\n\nhttps://rave.wi
+ en/e/2024-09-06-mitmischen-w-martin-mind-lelantus-records
+URL:https://rave.wien/e/2024-09-06-mitmischen-w-martin-mind-lelantus-reco
+ rds
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-28-mitmischen-by-wiener-mischung-w-psycholyse@rave.wien
+DTSTAMP:20240928T000000Z
+DTSTART;VALUE=DATE:20240928
+DTEND;VALUE=DATE:20240929
+SUMMARY:Mitmischen by Wiener Mischung w/Psycholyse
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Psycholyse\nVeranstalter: Wiener Mischung\n\nhttps://rave.wie
+ n/e/2024-09-28-mitmischen-by-wiener-mischung-w-psycholyse
+URL:https://rave.wien/e/2024-09-28-mitmischen-by-wiener-mischung-w-psycho
+ lyse
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-26-mitmischen-by-wiener-mischung-w-schnell-stabil@rave.wien
+DTSTAMP:20241026T000000Z
+DTSTART;VALUE=DATE:20241026
+DTEND;VALUE=DATE:20241027
+SUMMARY:Mitmischen by Wiener Mischung w/ Schnell & Stabil
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Schnell\, Stabil\nVeranstalter: Wiener Mischung\n\nhttps://ra
+ ve.wien/e/2024-10-26-mitmischen-by-wiener-mischung-w-schnell-stabil
+URL:https://rave.wien/e/2024-10-26-mitmischen-by-wiener-mischung-w-schnel
+ l-stabil
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-22-wiener-mischung-x-kramladen@rave.wien
+DTSTAMP:20241122T000000Z
+DTSTART;VALUE=DATE:20241122
+DTEND;VALUE=DATE:20241123
+SUMMARY:Wiener Mischung x Kramladen
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Wiener Mischung\n\nhttps://rave.wien/e/2024-11-
+ 22-wiener-mischung-x-kramladen
+URL:https://rave.wien/e/2024-11-22-wiener-mischung-x-kramladen
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-13-wiener-mischung-x-kramladen@rave.wien
+DTSTAMP:20241213T000000Z
+DTSTART;VALUE=DATE:20241213
+DTEND;VALUE=DATE:20241214
+SUMMARY:Wiener Mischung x Kramladen
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Wiener Mischung\n\nhttps://rave.wien/e/2024-12-
+ 13-wiener-mischung-x-kramladen
+URL:https://rave.wien/e/2024-12-13-wiener-mischung-x-kramladen
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-18-wiener-mischung-x-kramladen@rave.wien
+DTSTAMP:20250118T000000Z
+DTSTART;VALUE=DATE:20250118
+DTEND;VALUE=DATE:20250119
+SUMMARY:Wiener Mischung x Kramladen
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Wiener Mischung\n\nhttps://rave.wien/e/2025-01-
+ 18-wiener-mischung-x-kramladen
+URL:https://rave.wien/e/2025-01-18-wiener-mischung-x-kramladen
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-21-wiener-mischung-x-kramladen@rave.wien
+DTSTAMP:20250221T000000Z
+DTSTART;VALUE=DATE:20250221
+DTEND;VALUE=DATE:20250222
+SUMMARY:Wiener Mischung x Kramladen
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Wiener Mischung\n\nhttps://rave.wien/e/2025-02-
+ 21-wiener-mischung-x-kramladen
+URL:https://rave.wien/e/2025-02-21-wiener-mischung-x-kramladen
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-14-mitmischen-by-wiener-mischung-with-katerfruhstuck@rave.wien
+DTSTAMP:20250314T000000Z
+DTSTART;VALUE=DATE:20250314
+DTEND;VALUE=DATE:20250315
+SUMMARY:Mitmischen by Wiener Mischung with Katerfrühstück
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Katerfrühstück\nVeranstalter: Wiener Mischung\n\nhttps://ra
+ ve.wien/e/2025-03-14-mitmischen-by-wiener-mischung-with-katerfruhstuck
+URL:https://rave.wien/e/2025-03-14-mitmischen-by-wiener-mischung-with-kat
+ erfruhstuck
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-19-mitmischen-by-wiener-mischung-w-lisana@rave.wien
+DTSTAMP:20250419T000000Z
+DTSTART;VALUE=DATE:20250419
+DTEND;VALUE=DATE:20250420
+SUMMARY:Mitmischen by Wiener Mischung w/ Lisana
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Lisana\nVeranstalter: Wiener Mischung\n\nhttps://rave.wien/e/
+ 2025-04-19-mitmischen-by-wiener-mischung-w-lisana
+URL:https://rave.wien/e/2025-04-19-mitmischen-by-wiener-mischung-w-lisana
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-28-wiener-mischung-x-kramladen-x-gurtel-connection@rave.wien
+DTSTAMP:20250528T000000Z
+DTSTART;VALUE=DATE:20250528
+DTEND;VALUE=DATE:20250529
+SUMMARY:Wiener Mischung x Kramladen x Gürtel Connection
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Wiener Mischung\n\nhttps://rave.wien/e/2025-05-
+ 28-wiener-mischung-x-kramladen-x-gurtel-connection
+URL:https://rave.wien/e/2025-05-28-wiener-mischung-x-kramladen-x-gurtel-c
+ onnection
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-12-mitmischen@rave.wien
+DTSTAMP:20250912T000000Z
+DTSTART;VALUE=DATE:20250912
+DTEND;VALUE=DATE:20250913
+SUMMARY:Mitmischen
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Wiener Mischung\n\nhttps://rave.wien/e/2025-09-
+ 12-mitmischen
+URL:https://rave.wien/e/2025-09-12-mitmischen
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-13-mitmischen-by-wiener-mischung-w-rusrus-alther-und@rave.wien
+DTSTAMP:20260213T000000Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:Mitmischen by Wiener Mischung w/RUSRUS\, ALTHER und nosewise
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Rusrus\, Alther\, nosewise\nVeranstalter: Wiener Mischung\n\n
+ https://rave.wien/e/2026-02-13-mitmischen-by-wiener-mischung-w-rusrus-al
+ ther-und
+URL:https://rave.wien/e/2026-02-13-mitmischen-by-wiener-mischung-w-rusrus
+ -alther-und
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-27-mitmischen-by-wiener-mischung@rave.wien
+DTSTAMP:20260627T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Mitmischen by Wiener Mischung
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Wiener Mischung\n\nhttps://rave.wien/e/2026-06-
+ 27-mitmischen-by-wiener-mischung
+URL:https://rave.wien/e/2026-06-27-mitmischen-by-wiener-mischung
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-mitmischen@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T233000

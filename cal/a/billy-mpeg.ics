@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-02-third-place-w-rudi-rolliru-billy-mpeg@rave.wien
+DTSTAMP:20240802T000000Z
+DTSTART;VALUE=DATE:20240802
+DTEND;VALUE=DATE:20240803
+SUMMARY:Third Place w/ Rudi Rolliru\, Billy MPEG
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Rudi Rolliru\, Billy MPEG\n\nhttps://rave.wien/e/2024-08-02-t
+ hird-place-w-rudi-rolliru-billy-mpeg
+URL:https://rave.wien/e/2024-08-02-third-place-w-rudi-rolliru-billy-mpeg
+END:VEVENT
 END:VCALENDAR

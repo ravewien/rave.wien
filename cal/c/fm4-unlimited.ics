@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-10-04-fm4-unlimited-im-prater@rave.wien
+DTSTAMP:20241004T000000Z
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241005
+SUMMARY:FM4 Unlimited im Prater
+LOCATION:Prater (Calafatiplatz)\, Calafatiplatz\, 1020 Wien
+DESCRIPTION:Oberst & Buchner\nVeranstalter: FM4 Unlimited\n\nhttps://rave
+ .wien/e/2024-10-04-fm4-unlimited-im-prater
+URL:https://rave.wien/e/2024-10-04-fm4-unlimited-im-prater
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-03-fm4-unlimited-im-prater@rave.wien
+DTSTAMP:20251003T000000Z
+DTSTART;TZID=Europe/Vienna:20251003T180000
+DTEND;TZID=Europe/Vienna:20251003T230000
+SUMMARY:FM4 Unlimited im Prater
+LOCATION:Prater (Calafatiplatz)\, Calafatiplatz\, 1020 Wien
+DESCRIPTION:Anna Ullrich\, Oberst & Buchner\, PartyPauli\nVeranstalter: F
+ M4 Unlimited\nEintritt: Gratis\n\nVier DJ-Stages am Calafatiplatz\, Afte
+ rshow in der Pratersauna. Lineup unvollständig.\n\nhttps://rave.wien/e/
+ 2025-10-03-fm4-unlimited-im-prater
+URL:https://rave.wien/e/2025-10-03-fm4-unlimited-im-prater
+END:VEVENT
 END:VCALENDAR

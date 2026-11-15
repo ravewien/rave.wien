@@ -49,4 +49,29 @@ DESCRIPTION:Mainfloor: Simula\, Enei\, Skantia\, En:vy\, Wingz\, Contrast
 URL:https://rave.wien/e/2026-12-12-contrast-pres-dance-macabre-w-simula-e
  nei-skantia
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-21-contrast-pres-critical-music-w-simula-enei-kasra@rave.wien
+DTSTAMP:20241221T000000Z
+DTSTART;VALUE=DATE:20241221
+DTEND;VALUE=DATE:20241222
+SUMMARY:CONTRAST pres. CRITICAL MUSIC w/ SIMULA + ENEI + KASRA + QZB + EN
+ :VY | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Simula\, ENEI\, Kasra\, QZB\, En:vy\nVeranstalter: Contrast\n
+ \nhttps://rave.wien/e/2024-12-21-contrast-pres-critical-music-w-simula-e
+ nei-kasra
+URL:https://rave.wien/e/2024-12-21-contrast-pres-critical-music-w-simula-
+ enei-kasra
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-19-contrast-pres-simula-skantia-annix-18@rave.wien
+DTSTAMP:20250419T000000Z
+DTSTART;VALUE=DATE:20250419
+DTEND;VALUE=DATE:20250420
+SUMMARY:CONTRAST pres. SIMULA + SKANTIA + ANNIX | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Simula\, Skantia\, Annix\nVeranstalter: Contrast\n\nhttps://r
+ ave.wien/e/2025-04-19-contrast-pres-simula-skantia-annix-18
+URL:https://rave.wien/e/2025-04-19-contrast-pres-simula-skantia-annix-18
+END:VEVENT
 END:VCALENDAR

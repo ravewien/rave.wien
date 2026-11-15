@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-06-superstate-w-almedina@rave.wien
+DTSTAMP:20250606T000000Z
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250607
+SUMMARY:Superstate W/ Almedina
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Almedina\nVeranstalter: Superstate\n\nhttps://rave.wien/e/202
+ 5-06-06-superstate-w-almedina
+URL:https://rave.wien/e/2025-06-06-superstate-w-almedina
+END:VEVENT
 END:VCALENDAR

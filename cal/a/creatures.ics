@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-08-fuelized-2-year-anniversary-w-creatures-uk-wingz@rave.wien
+DTSTAMP:20251108T000000Z
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
+SUMMARY:FUELIZED 2 YEAR ANNIVERSARY W/ CREATURES [UK] + WINGZ [AT]
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Creatures\, Wingz\nVeranstalter: Fuelized\n\nhttps://rave.wie
+ n/e/2025-11-08-fuelized-2-year-anniversary-w-creatures-uk-wingz
+URL:https://rave.wien/e/2025-11-08-fuelized-2-year-anniversary-w-creature
+ s-uk-wingz
+END:VEVENT
 END:VCALENDAR

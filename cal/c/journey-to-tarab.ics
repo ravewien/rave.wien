@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-07-05-journey-to-tarab-x-gassen-aus-zucker-x-pratersaun@rave.wien
+DTSTAMP:20250705T000000Z
+DTSTART;VALUE=DATE:20250705
+DTEND;VALUE=DATE:20250706
+SUMMARY:Journey to Tarab x Gassen aus Zucker x Pratersauna – Candy Crus
+ h durch Zuckershock
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Gassen aus Zucker\, Journey to Tarab\n\nhttps:/
+ /rave.wien/e/2025-07-05-journey-to-tarab-x-gassen-aus-zucker-x-pratersau
+ n
+URL:https://rave.wien/e/2025-07-05-journey-to-tarab-x-gassen-aus-zucker-x
+ -pratersaun
+END:VEVENT
 END:VCALENDAR

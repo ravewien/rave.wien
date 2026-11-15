@@ -41,4 +41,15 @@ DESCRIPTION:KlangKuenstler\, SHDW\, Svetec\, Karolina\nEintritt: 55 €\n
  26-12-12-klangkuenstler
 URL:https://rave.wien/e/2026-12-12-klangkuenstler
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-30-stay-acid-presents-54hz-with-svetec@rave.wien
+DTSTAMP:20250530T000000Z
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250531
+SUMMARY:STAY ACID presents 54Hz with: Svetec
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Svetec\nVeranstalter: Stay Acid\n\nhttps://rave.wien/e/2025-0
+ 5-30-stay-acid-presents-54hz-with-svetec
+URL:https://rave.wien/e/2025-05-30-stay-acid-presents-54hz-with-svetec
+END:VEVENT
 END:VCALENDAR

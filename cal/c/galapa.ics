@@ -25,4 +25,82 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-09-05-galapa-tagada@rave.wien
+DTSTAMP:20250905T000000Z
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250906
+SUMMARY:GALAPA / Tagada
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Galapa\n\nhttps://rave.wien/e/2025-09-05-galapa
+ -tagada
+URL:https://rave.wien/e/2025-09-05-galapa-tagada
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-31-galapa-grooves-club-lucia@rave.wien
+DTSTAMP:20260131T000000Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Galapa Grooves / Club Lucia
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Veranstalter: Galapa\n\nhttps://rave.wien/e/2026-01-31-galapa
+ -grooves-club-lucia
+URL:https://rave.wien/e/2026-01-31-galapa-grooves-club-lucia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-06-galapa-grooves-with-dj-sprudel-randalia@rave.wien
+DTSTAMP:20260306T000000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:Galapa Grooves with DJ Sprudel & Randalia
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:DJ Sprudel\, Randalia\nVeranstalter: Galapa\n\nhttps://rave.w
+ ien/e/2026-03-06-galapa-grooves-with-dj-sprudel-randalia
+URL:https://rave.wien/e/2026-03-06-galapa-grooves-with-dj-sprudel-randalia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-17-galapa@rave.wien
+DTSTAMP:20260417T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:GALAPA
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Galapa\n\nhttps://rave.wien/e/2026-04-17-galapa
+URL:https://rave.wien/e/2026-04-17-galapa
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-08-galapa-grooves@rave.wien
+DTSTAMP:20260508T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Galapa Grooves
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Galapa\n\nhttps://rave.wien/e/2026-05-08-galapa
+ -grooves
+URL:https://rave.wien/e/2026-05-08-galapa-grooves
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-03-galapa-grooves-at-kramladen@rave.wien
+DTSTAMP:20260703T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Galapa Grooves at Kramladen
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Galapa\n\nhttps://rave.wien/e/2026-07-03-galapa
+ -grooves-at-kramladen
+URL:https://rave.wien/e/2026-07-03-galapa-grooves-at-kramladen
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-galapa-grooves@rave.wien
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Galapa Grooves
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Galapa\n\nhttps://rave.wien/e/2026-10-09-galapa
+ -grooves
+URL:https://rave.wien/e/2026-10-09-galapa-grooves
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,119 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2023-10-13-jetlag-disco-3-w-daniel-nitsch-oberst-buchner@rave.wien
+DTSTAMP:20231013T000000Z
+DTSTART;VALUE=DATE:20231013
+DTEND;VALUE=DATE:20231014
+SUMMARY:Jetlag Disco #3 /w Daniel Nitsch\, Oberst & Buchner
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Daniel Nitsch\, Oberst & Buchner\n\nhttps://rave.wien/e/2023-
+ 10-13-jetlag-disco-3-w-daniel-nitsch-oberst-buchner
+URL:https://rave.wien/e/2023-10-13-jetlag-disco-3-w-daniel-nitsch-oberst-
+ buchner
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-19-heimlich@rave.wien
+DTSTAMP:20240519T000000Z
+DTSTART;VALUE=DATE:20240519
+DTEND;VALUE=DATE:20240520
+SUMMARY:Heimlich
+LOCATION:Wien\, Wien
+DESCRIPTION:Oberst & Buchner\nVeranstalter: Heimlich\n\nOrt laut Gigliste
+  nur „Vienna“.\n\nhttps://rave.wien/e/2024-05-19-heimlich
+URL:https://rave.wien/e/2024-05-19-heimlich
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-24-oberst-buchner-metastadt@rave.wien
+DTSTAMP:20240724T000000Z
+DTSTART;VALUE=DATE:20240724
+DTEND;VALUE=DATE:20240725
+SUMMARY:Oberst & Buchner @ Metastadt
+LOCATION:Metastadt\, Dr.-Otto-Neurath-Gasse 3\, 1220 Wien
+DESCRIPTION:Oberst & Buchner\n\nhttps://rave.wien/e/2024-07-24-oberst-buc
+ hner-metastadt
+URL:https://rave.wien/e/2024-07-24-oberst-buchner-metastadt
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-04-fm4-unlimited-im-prater@rave.wien
+DTSTAMP:20241004T000000Z
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241005
+SUMMARY:FM4 Unlimited im Prater
+LOCATION:Prater (Calafatiplatz)\, Calafatiplatz\, 1020 Wien
+DESCRIPTION:Oberst & Buchner\nVeranstalter: FM4 Unlimited\n\nhttps://rave
+ .wien/e/2024-10-04-fm4-unlimited-im-prater
+URL:https://rave.wien/e/2024-10-04-fm4-unlimited-im-prater
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-04-heimlich-b72@rave.wien
+DTSTAMP:20250404T000000Z
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250405
+SUMMARY:Heimlich @ B72
+LOCATION:B72\, Hernalser Gürtel 72–73\, 1080 Wien
+DESCRIPTION:Oberst & Buchner\nVeranstalter: Heimlich\n\nhttps://rave.wien
+ /e/2025-04-04-heimlich-b72
+URL:https://rave.wien/e/2025-04-04-heimlich-b72
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-26-oberst-buchner-pratersauna@rave.wien
+DTSTAMP:20250426T000000Z
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250427
+SUMMARY:Oberst & Buchner @ Pratersauna
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Oberst & Buchner\n\nhttps://rave.wien/e/2025-04-26-oberst-buc
+ hner-pratersauna
+URL:https://rave.wien/e/2025-04-26-oberst-buchner-pratersauna
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-03-fm4-unlimited-im-prater@rave.wien
+DTSTAMP:20251003T000000Z
+DTSTART;TZID=Europe/Vienna:20251003T180000
+DTEND;TZID=Europe/Vienna:20251003T230000
+SUMMARY:FM4 Unlimited im Prater
+LOCATION:Prater (Calafatiplatz)\, Calafatiplatz\, 1020 Wien
+DESCRIPTION:Anna Ullrich\, Oberst & Buchner\, PartyPauli\nVeranstalter: F
+ M4 Unlimited\nEintritt: Gratis\n\nVier DJ-Stages am Calafatiplatz\, Afte
+ rshow in der Pratersauna. Lineup unvollständig.\n\nhttps://rave.wien/e/
+ 2025-10-03-fm4-unlimited-im-prater
+URL:https://rave.wien/e/2025-10-03-fm4-unlimited-im-prater
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-08-ikea-kitchen-beats@rave.wien
+DTSTAMP:20251008T000000Z
+DTSTART;VALUE=DATE:20251008
+DTEND;VALUE=DATE:20251009
+SUMMARY:IKEA Kitchen Beats
+LOCATION:Wien\, Wien
+DESCRIPTION:Oberst & Buchner\n\nOrt laut Gigliste nur „Vienna“.\n\nht
+ tps://rave.wien/e/2025-10-08-ikea-kitchen-beats
+URL:https://rave.wien/e/2025-10-08-ikea-kitchen-beats
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-31-haunted-sauna-halloween-rave@rave.wien
+DTSTAMP:20251031T000000Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Haunted Sauna – Halloween Rave
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Oberst & Buchner\n\nOberst & Buchner laut deren SoundCloud-Gi
+ gliste.\n\nhttps://rave.wien/e/2025-10-31-haunted-sauna-halloween-rave
+URL:https://rave.wien/e/2025-10-31-haunted-sauna-halloween-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-06-heimlicher-abschied-mit-rampue-martha-van-straate@rave.wien
+DTSTAMP:20260606T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Heimlicher Abschied mit Rampue & martha van straaten
+LOCATION:Otto Wagner Areal\, Baumgartner Höhe 1\, 1140 Wien
+DESCRIPTION:Rampue\, martha van straaten\, Oberst & Buchner\nVeranstalter
+ : Heimlich\n\nhttps://rave.wien/e/2026-06-06-heimlicher-abschied-mit-ram
+ pue-martha-van-straate
+URL:https://rave.wien/e/2026-06-06-heimlicher-abschied-mit-rampue-martha-
+ van-straate
+END:VEVENT
 END:VCALENDAR

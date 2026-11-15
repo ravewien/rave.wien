@@ -26,6 +26,28 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2025-08-24-morgengymnastik-w-vibrant@rave.wien
+DTSTAMP:20250824T000000Z
+DTSTART;VALUE=DATE:20250824
+DTEND;VALUE=DATE:20250825
+SUMMARY:Morgengymnastik w/ VIBRANT
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Vibrant\nVeranstalter: Morgengymnastik\n\nhttps://rave.wien/e
+ /2025-08-24-morgengymnastik-w-vibrant
+URL:https://rave.wien/e/2025-08-24-morgengymnastik-w-vibrant
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-01-morgengymnastik-w-vibrant@rave.wien
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Morgengymnastik w/vibrant
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Vibrant\nVeranstalter: Morgengymnastik\n\nhttps://rave.wien/e
+ /2026-01-01-morgengymnastik-w-vibrant
+URL:https://rave.wien/e/2026-01-01-morgengymnastik-w-vibrant
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-drum-bassick-x-radiance@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T235500

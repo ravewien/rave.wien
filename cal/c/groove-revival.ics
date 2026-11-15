@@ -25,4 +25,136 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-07-sweatonthewalls-x-groove-revival-prst@rave.wien
+DTSTAMP:20241107T000000Z
+DTSTART;VALUE=DATE:20241107
+DTEND;VALUE=DATE:20241108
+SUMMARY:SWEATONTHEWALLS X GROOVE REVIVAL @PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Groove Revival\n\nhttps://rave.wien/e/2024-11-0
+ 7-sweatonthewalls-x-groove-revival-prst
+URL:https://rave.wien/e/2024-11-07-sweatonthewalls-x-groove-revival-prst
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-27-groove-revival@rave.wien
+DTSTAMP:20250327T000000Z
+DTSTART;VALUE=DATE:20250327
+DTEND;VALUE=DATE:20250328
+SUMMARY:Groove Revival
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Groove Revival\n\nhttps://rave.wien/e/2025-03-2
+ 7-groove-revival
+URL:https://rave.wien/e/2025-03-27-groove-revival
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-26-groove-revival-invites-andy-luff@rave.wien
+DTSTAMP:20250426T000000Z
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250427
+SUMMARY:Groove Revival invites Andy Luff
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Andy Luff\nVeranstalter: Groove Revival\n\nhttps://rave.wien/
+ e/2025-04-26-groove-revival-invites-andy-luff
+URL:https://rave.wien/e/2025-04-26-groove-revival-invites-andy-luff
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-15-groove-revival-invites-monile@rave.wien
+DTSTAMP:20250515T000000Z
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250516
+SUMMARY:Groove Revival invites MONILE
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Monile\nVeranstalter: Groove Revival\n\nhttps://rave.wien/e/2
+ 025-05-15-groove-revival-invites-monile
+URL:https://rave.wien/e/2025-05-15-groove-revival-invites-monile
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-19-groove-revival-x-ensemble@rave.wien
+DTSTAMP:20250619T000000Z
+DTSTART;VALUE=DATE:20250619
+DTEND;VALUE=DATE:20250620
+SUMMARY:Groove Revival X Ensemble
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Groove Revival\n\nhttps://rave.wien/e/2025-06-1
+ 9-groove-revival-x-ensemble
+URL:https://rave.wien/e/2025-06-19-groove-revival-x-ensemble
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-24-groove-revival-x-electric-funk@rave.wien
+DTSTAMP:20250724T000000Z
+DTSTART;VALUE=DATE:20250724
+DTEND;VALUE=DATE:20250725
+SUMMARY:Groove Revival X Electric Funk
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Groove Revival\n\nhttps://rave.wien/e/2025-07-2
+ 4-groove-revival-x-electric-funk
+URL:https://rave.wien/e/2025-07-24-groove-revival-x-electric-funk
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-25-groove-revival-w-rayya@rave.wien
+DTSTAMP:20250925T000000Z
+DTSTART;VALUE=DATE:20250925
+DTEND;VALUE=DATE:20250926
+SUMMARY:Groove Revival w/ Rayya
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Rayya\nVeranstalter: Groove Revival\n\nhttps://rave.wien/e/20
+ 25-09-25-groove-revival-w-rayya
+URL:https://rave.wien/e/2025-09-25-groove-revival-w-rayya
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-16-groove-revival-x-dig-this@rave.wien
+DTSTAMP:20260116T000000Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:Groove Revival x Dig This
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Groove Revival\n\nhttps://rave.wien/e/2026-01-1
+ 6-groove-revival-x-dig-this
+URL:https://rave.wien/e/2026-01-16-groove-revival-x-dig-this
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-05-groove-revival-invites-daniel-dutts@rave.wien
+DTSTAMP:20260205T000000Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:Groove Revival invites Daniel Dutts
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Daniel Dutts\nVeranstalter: Groove Revival\n\nhttps://rave.wi
+ en/e/2026-02-05-groove-revival-invites-daniel-dutts
+URL:https://rave.wien/e/2026-02-05-groove-revival-invites-daniel-dutts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-12-groove-revival-invites-highbrow76@rave.wien
+DTSTAMP:20260312T000000Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:Groove Revival invites Highbrow76
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Highbrow76\nVeranstalter: Groove Revival\n\nhttps://rave.wien
+ /e/2026-03-12-groove-revival-invites-highbrow76
+URL:https://rave.wien/e/2026-03-12-groove-revival-invites-highbrow76
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-11-groove-revival-x-bubble-ldn@rave.wien
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Groove Revival x Bubble.ldn
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Groove Revival\n\nhttps://rave.wien/e/2026-06-1
+ 1-groove-revival-x-bubble-ldn
+URL:https://rave.wien/e/2026-06-11-groove-revival-x-bubble-ldn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-09-groove-revival@rave.wien
+DTSTAMP:20260709T000000Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:Groove Revival
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Groove Revival\n\nhttps://rave.wien/e/2026-07-0
+ 9-groove-revival
+URL:https://rave.wien/e/2026-07-09-groove-revival
+END:VEVENT
 END:VCALENDAR

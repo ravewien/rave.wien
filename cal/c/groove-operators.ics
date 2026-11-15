@@ -25,4 +25,50 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-20-groove-operators@rave.wien
+DTSTAMP:20241220T000000Z
+DTSTART;VALUE=DATE:20241220
+DTEND;VALUE=DATE:20241221
+SUMMARY:Groove Operators
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Groove Operators\n\nhttps://rave.wien/e/2024-12
+ -20-groove-operators
+URL:https://rave.wien/e/2024-12-20-groove-operators
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-20-aftii-pres-groovemas-with-groove-operators-x-spat@rave.wien
+DTSTAMP:20251220T000000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:Aftii pres. GROOVEMAS with Groove Operators x Spätschicht
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Aftii\nVeranstalter: Groove Operators\, Spätschicht\n\nhttps
+ ://rave.wien/e/2025-12-20-aftii-pres-groovemas-with-groove-operators-x-s
+ pat
+URL:https://rave.wien/e/2025-12-20-aftii-pres-groovemas-with-groove-opera
+ tors-x-spat
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-22-groove-operators@rave.wien
+DTSTAMP:20260122T000000Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:Groove Operators
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Groove Operators\n\nhttps://rave.wien/e/2026-01
+ -22-groove-operators
+URL:https://rave.wien/e/2026-01-22-groove-operators
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-13-baile-de-groove-operators@rave.wien
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:Baile de Groove Operators
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Veranstalter: Groove Operators\n\nhttps://rave.wien/e/2026-05
+ -13-baile-de-groove-operators
+URL:https://rave.wien/e/2026-05-13-baile-de-groove-operators
+END:VEVENT
 END:VCALENDAR

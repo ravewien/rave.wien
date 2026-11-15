@@ -25,4 +25,94 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-01-06-lowenzahn-epiphany-unleashed-w-cueless@rave.wien
+DTSTAMP:20240106T000000Z
+DTSTART;VALUE=DATE:20240106
+DTEND;VALUE=DATE:20240107
+SUMMARY:LÖWENZAHN | EPIPHANY unleashed w/ cueless
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:cueless\nVeranstalter: Löwenzahn\n\nhttps://rave.wien/e/2024
+ -01-06-lowenzahn-epiphany-unleashed-w-cueless
+URL:https://rave.wien/e/2024-01-06-lowenzahn-epiphany-unleashed-w-cueless
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-03-07-deep-cut-hypnotic-deep-techno-w-urna-sonic-pezel@rave.wien
+DTSTAMP:20240307T000000Z
+DTSTART;VALUE=DATE:20240307
+DTEND;VALUE=DATE:20240308
+SUMMARY:deep cut | Hypnotic & Deep Techno w/ urna()sonic & pezel
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:urna()sonic\, pezel\nVeranstalter: deep cut\n\nhttps://rave.w
+ ien/e/2024-03-07-deep-cut-hypnotic-deep-techno-w-urna-sonic-pezel
+URL:https://rave.wien/e/2024-03-07-deep-cut-hypnotic-deep-techno-w-urna-s
+ onic-pezel
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-19-deep-cut-hypnotic-deep-techno-w-merge-urna-sonic@rave.wien
+DTSTAMP:20250619T000000Z
+DTSTART;VALUE=DATE:20250619
+DTEND;VALUE=DATE:20250620
+SUMMARY:deep cut – hypnotic & deep techno w/ MERGE\, urna()sonic\, pezel
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Merge\, urna()sonic\, pezel\nVeranstalter: deep cut\n\nhttps:
+ //rave.wien/e/2025-06-19-deep-cut-hypnotic-deep-techno-w-merge-urna-soni
+ c
+URL:https://rave.wien/e/2025-06-19-deep-cut-hypnotic-deep-techno-w-merge-
+ urna-sonic
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-29-deep-cut-14-w-lto-pezel-urna-sonic-hypnotic-deep@rave.wien
+DTSTAMP:20250829T000000Z
+DTSTART;VALUE=DATE:20250829
+DTEND;VALUE=DATE:20250830
+SUMMARY:deep cut 14 w Lto\, pezel\, urna()sonic – hypnotic & deep Techno
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Lto\, pezel\, urna()sonic – hypnotic\, deep Techno\nVeranst
+ alter: deep cut\n\nhttps://rave.wien/e/2025-08-29-deep-cut-14-w-lto-peze
+ l-urna-sonic-hypnotic-deep
+URL:https://rave.wien/e/2025-08-29-deep-cut-14-w-lto-pezel-urna-sonic-hyp
+ notic-deep
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-19-deep-cut-w-neoom-pauna-pezel@rave.wien
+DTSTAMP:20260219T000000Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:deep cut w/ Neoom\, Pauna\, Pezel
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Neoom\, PAUNA\, pezel\nVeranstalter: deep cut\n\nhttps://rave
+ .wien/e/2026-02-19-deep-cut-w-neoom-pauna-pezel
+URL:https://rave.wien/e/2026-02-19-deep-cut-w-neoom-pauna-pezel
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-23-deep-cut-hypnotic-deep-techno-w-no-oys-nuno-pezel@rave.wien
+DTSTAMP:20260423T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:deep cut – hypnotic & deep techno w no_oys\, nuno\, pezel
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:no_oys\, nuno\, pezel\nVeranstalter: deep cut\n\nhttps://rave
+ .wien/e/2026-04-23-deep-cut-hypnotic-deep-techno-w-no-oys-nuno-pezel
+URL:https://rave.wien/e/2026-04-23-deep-cut-hypnotic-deep-techno-w-no-oys
+ -nuno-pezel
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-14-deep-cut-w-kai-galactic-aseka-pezel@rave.wien
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:deep cut w/ Kai Galactic\, Aseka\, pezel
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Kai Galactic\, Aseka\, pezel\nVeranstalter: deep cut\n\nhttps
+ ://rave.wien/e/2026-08-14-deep-cut-w-kai-galactic-aseka-pezel
+URL:https://rave.wien/e/2026-08-14-deep-cut-w-kai-galactic-aseka-pezel
+END:VEVENT
 END:VCALENDAR

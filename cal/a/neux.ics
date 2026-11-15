@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-03-08-below-the-surface-with-neux-anna-ullrich@rave.wien
+DTSTAMP:20250308T000000Z
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250309
+SUMMARY:BELOW THE SURFACE with NEUX & Anna Ullrich
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:NEUX\, Anna Ullrich\nVeranstalter: Below the Surface\n\nhttps
+ ://rave.wien/e/2025-03-08-below-the-surface-with-neux-anna-ullrich
+URL:https://rave.wien/e/2025-03-08-below-the-surface-with-neux-anna-ullri
+ ch
+END:VEVENT
 END:VCALENDAR

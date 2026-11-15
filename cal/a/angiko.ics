@@ -25,4 +25,30 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-21-deep-cut-7-w-angiko-hypnotic-deep-techno@rave.wien
+DTSTAMP:20241121T000000Z
+DTSTART;VALUE=DATE:20241121
+DTEND;VALUE=DATE:20241122
+SUMMARY:deep cut 7 w/ Angiko – Hypnotic & Deep Techno
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Angiko\nVeranstalter: deep cut\n\nhttps://rave.wien/e/2024-11
+ -21-deep-cut-7-w-angiko-hypnotic-deep-techno
+URL:https://rave.wien/e/2024-11-21-deep-cut-7-w-angiko-hypnotic-deep-tech
+ no
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-tohuwabohu-psychedelic-edition@rave.wien
+DTSTAMP:20260905T000000Z
+DTSTART;TZID=Europe/Vienna:20260905T233000
+DTEND;TZID=Europe/Vienna:20260906T060000
+SUMMARY:Tohuwabohu – Psychedelic Edition
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Brandmann\, Lagos\, Numa\, Angiko\, Exonot\, Krawallkasper\nV
+ eranstalter: Tohuwabohu\nEintritt: 15 € vor Mitternacht / 20 € danac
+ h (nur Abendkasse)\n\nhttps://rave.wien/e/2026-09-05-tohuwabohu-psychede
+ lic-edition
+URL:https://rave.wien/e/2026-09-05-tohuwabohu-psychedelic-edition
+END:VEVENT
 END:VCALENDAR

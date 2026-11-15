@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-10-25-selected-fadi-mohem-grace-dahl@rave.wien
+DTSTAMP:20241025T000000Z
+DTSTART;VALUE=DATE:20241025
+DTEND;VALUE=DATE:20241026
+SUMMARY:Selected | Fadi Mohem & Grace Dahl
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Fadi Mohem\, Grace Dahl\nVeranstalter: Selected\n\nhttps://ra
+ ve.wien/e/2024-10-25-selected-fadi-mohem-grace-dahl
+URL:https://rave.wien/e/2024-10-25-selected-fadi-mohem-grace-dahl
+END:VEVENT
 END:VCALENDAR

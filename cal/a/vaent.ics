@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-09-12-herzfrequenz-presents-saltysis-vaent@rave.wien
+DTSTAMP:20250912T000000Z
+DTSTART;VALUE=DATE:20250912
+DTEND;VALUE=DATE:20250913
+SUMMARY:HERZFREQUENZ presents: SaltySis & VAENT
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:SaltySis\, Vaent\nVeranstalter: Herzfrequenz\n\nhttps://rave.
+ wien/e/2025-09-12-herzfrequenz-presents-saltysis-vaent
+URL:https://rave.wien/e/2025-09-12-herzfrequenz-presents-saltysis-vaent
+END:VEVENT
 END:VCALENDAR

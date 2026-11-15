@@ -25,4 +25,39 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-23-2yrs-of-nexus@rave.wien
+DTSTAMP:20240823T000000Z
+DTSTART;TZID=Europe/Vienna:20240823T230000
+DTEND;TZID=Europe/Vienna:20240824T040000
+SUMMARY:2YRS of NEXUS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Trancemaster Krause\, DJ Traytex\, Violetta\, Aschenbrenner\,
+  Sømnus\, countershine\, Randalia\, Max Wagner\, Goldi\nVeranstalter: N
+ EXUS\n\nhttps://rave.wien/e/2024-08-23-2yrs-of-nexus
+URL:https://rave.wien/e/2024-08-23-2yrs-of-nexus
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-14-tattu-tatta-glub-goat-ball@rave.wien
+DTSTAMP:20260214T000000Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:TATTU TATTA GLUB & GOAT BALL
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Vivienna\, Trancemaster Krause\, Stinny Stone\, Cobb Douglas\
+ , Sohoe\, Terra Twiins\, Armin Hermann\, Serafin\nVeranstalter: Tattu Ta
+ tta Glub\n\nhttps://rave.wien/e/2026-02-14-tattu-tatta-glub-goat-ball
+URL:https://rave.wien/e/2026-02-14-tattu-tatta-glub-goat-ball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-trancemaster-krause-all-night-long@rave.wien
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Trancemaster Krause all night long
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Trancemaster Krause\n\nhttps://rave.wien/e/2026-09-25-trancem
+ aster-krause-all-night-long
+URL:https://rave.wien/e/2026-09-25-trancemaster-krause-all-night-long
+END:VEVENT
 END:VCALENDAR

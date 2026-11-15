@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-09-zuckerwatt-w-jennifer-cardini@rave.wien
+DTSTAMP:20240809T000000Z
+DTSTART;VALUE=DATE:20240809
+DTEND;VALUE=DATE:20240810
+SUMMARY:ZUCKERWATT w/ JENNIFER CARDINI
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Jennifer Cardini\nVeranstalter: Zuckerwatt\n\nhttps://rave.wi
+ en/e/2024-08-09-zuckerwatt-w-jennifer-cardini
+URL:https://rave.wien/e/2024-08-09-zuckerwatt-w-jennifer-cardini
+END:VEVENT
 END:VCALENDAR

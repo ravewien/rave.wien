@@ -25,4 +25,283 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-03-02-impulse-w-azyr-teletech@rave.wien
+DTSTAMP:20240302T000000Z
+DTSTART;VALUE=DATE:20240302
+DTEND;VALUE=DATE:20240303
+SUMMARY:Impulse w/ Azyr (Teletech)
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:AZYR\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2024-03-02
+ -impulse-w-azyr-teletech
+URL:https://rave.wien/e/2024-03-02-impulse-w-azyr-teletech
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-06-impulse-w-callush@rave.wien
+DTSTAMP:20240406T000000Z
+DTSTART;VALUE=DATE:20240406
+DTEND;VALUE=DATE:20240407
+SUMMARY:Impulse w/ Callush
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Callush\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2024-04
+ -06-impulse-w-callush
+URL:https://rave.wien/e/2024-04-06-impulse-w-callush
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-04-impulse-w-kobosil@rave.wien
+DTSTAMP:20240504T000000Z
+DTSTART;VALUE=DATE:20240504
+DTEND;VALUE=DATE:20240505
+SUMMARY:Impulse w/ Kobosil
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Kobosil\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2024-05
+ -04-impulse-w-kobosil
+URL:https://rave.wien/e/2024-05-04-impulse-w-kobosil
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-29-impulse-w-vendex@rave.wien
+DTSTAMP:20240529T000000Z
+DTSTART;VALUE=DATE:20240529
+DTEND;VALUE=DATE:20240530
+SUMMARY:Impulse w/ Vendex
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Vendex\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2024-05-
+ 29-impulse-w-vendex
+URL:https://rave.wien/e/2024-05-29-impulse-w-vendex
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-06-clara-cuve-impulse@rave.wien
+DTSTAMP:20240706T000000Z
+DTSTART;VALUE=DATE:20240706
+DTEND;VALUE=DATE:20240707
+SUMMARY:Clara Cuvé | IMPULSE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Clara Cuvé\nVeranstalter: Impulse\n\nhttps://rave.wien/e/202
+ 4-07-06-clara-cuve-impulse
+URL:https://rave.wien/e/2024-07-06-clara-cuve-impulse
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-17-rikhter-live-johannes-schuster-impulse@rave.wien
+DTSTAMP:20240817T000000Z
+DTSTART;VALUE=DATE:20240817
+DTEND;VALUE=DATE:20240818
+SUMMARY:Rikhter LIVE & Johannes Schuster | IMPULSE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Rikhter\, Johannes Schuster\nVeranstalter: Impulse\n\nhttps:/
+ /rave.wien/e/2024-08-17-rikhter-live-johannes-schuster-impulse
+URL:https://rave.wien/e/2024-08-17-rikhter-live-johannes-schuster-impulse
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-07-and-impulse@rave.wien
+DTSTAMP:20240907T000000Z
+DTSTART;VALUE=DATE:20240907
+DTEND;VALUE=DATE:20240908
+SUMMARY:AnD | IMPULSE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:AnD\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2024-09-07-
+ and-impulse
+URL:https://rave.wien/e/2024-09-07-and-impulse
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-05-kalte-liebe-impulse@rave.wien
+DTSTAMP:20241005T000000Z
+DTSTART;VALUE=DATE:20241005
+DTEND;VALUE=DATE:20241006
+SUMMARY:Kalte Liebe | IMPULSE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Kalte Liebe\nVeranstalter: Impulse\n\nhttps://rave.wien/e/202
+ 4-10-05-kalte-liebe-impulse
+URL:https://rave.wien/e/2024-10-05-kalte-liebe-impulse
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-02-johannes-schuster-all-night-long-impulse@rave.wien
+DTSTAMP:20241102T000000Z
+DTSTART;VALUE=DATE:20241102
+DTEND;VALUE=DATE:20241103
+SUMMARY:Johannes Schuster All Night Long | IMPULSE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Johannes Schuster\nVeranstalter: Impulse\n\nhttps://rave.wien
+ /e/2024-11-02-johannes-schuster-all-night-long-impulse
+URL:https://rave.wien/e/2024-11-02-johannes-schuster-all-night-long-impul
+ se
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-28-impulse-friends-w-the-devil-dwarf@rave.wien
+DTSTAMP:20241228T000000Z
+DTSTART;VALUE=DATE:20241228
+DTEND;VALUE=DATE:20241229
+SUMMARY:Impulse & Friends w/ The Devil Dwarf
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:The Devil Dwarf\nVeranstalter: Impulse\n\nhttps://rave.wien/e
+ /2024-12-28-impulse-friends-w-the-devil-dwarf
+URL:https://rave.wien/e/2024-12-28-impulse-friends-w-the-devil-dwarf
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-11-fatima-hajji-impulse@rave.wien
+DTSTAMP:20250111T000000Z
+DTSTART;VALUE=DATE:20250111
+DTEND;VALUE=DATE:20250112
+SUMMARY:Fatima Hajji | IMPULSE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Fatima Hajji\nVeranstalter: Impulse\n\nhttps://rave.wien/e/20
+ 25-01-11-fatima-hajji-impulse
+URL:https://rave.wien/e/2025-01-11-fatima-hajji-impulse
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-12-impulse-afterhours-001@rave.wien
+DTSTAMP:20250112T000000Z
+DTSTART;VALUE=DATE:20250112
+DTEND;VALUE=DATE:20250113
+SUMMARY:IMPULSE AFTERHOURS #001
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Impulse\n\nhttps://rave.wien/e/2025-01-12-impul
+ se-afterhours-001
+URL:https://rave.wien/e/2025-01-12-impulse-afterhours-001
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-01-in-verruf-lene-ma-rue-impulse@rave.wien
+DTSTAMP:20250201T000000Z
+DTSTART;VALUE=DATE:20250201
+DTEND;VALUE=DATE:20250202
+SUMMARY:IN VERRUF & LENE MA RUE | IMPULSE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:In Verruf\, Lene Ma Rue\nVeranstalter: Impulse\n\nhttps://rav
+ e.wien/e/2025-02-01-in-verruf-lene-ma-rue-impulse
+URL:https://rave.wien/e/2025-02-01-in-verruf-lene-ma-rue-impulse
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-01-somewhen-sikoti-impulse@rave.wien
+DTSTAMP:20250301T000000Z
+DTSTART;VALUE=DATE:20250301
+DTEND;VALUE=DATE:20250302
+SUMMARY:Somewhen & Sikoti | IMPULSE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Somewhen\, Sikoti\nVeranstalter: Impulse\n\nhttps://rave.wien
+ /e/2025-03-01-somewhen-sikoti-impulse
+URL:https://rave.wien/e/2025-03-01-somewhen-sikoti-impulse
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-18-azyr-teletech-impulse-grelle-forelle@rave.wien
+DTSTAMP:20250418T000000Z
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250419
+SUMMARY:AZYR (TELETECH)//IMPULSE//GRELLE FORELLE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:AZYR\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2025-04-18
+ -azyr-teletech-impulse-grelle-forelle
+URL:https://rave.wien/e/2025-04-18-azyr-teletech-impulse-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-03-carv-impulse-grelle-forelle@rave.wien
+DTSTAMP:20250503T000000Z
+DTSTART;VALUE=DATE:20250503
+DTEND;VALUE=DATE:20250504
+SUMMARY:CARV // IMPULSE // Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:CARV\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2025-05-03
+ -carv-impulse-grelle-forelle
+URL:https://rave.wien/e/2025-05-03-carv-impulse-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-21-kobosil-impulse-grelle-forelle@rave.wien
+DTSTAMP:20250621T000000Z
+DTSTART;VALUE=DATE:20250621
+DTEND;VALUE=DATE:20250622
+SUMMARY:KOBOSIL // IMPULSE // GRELLE FORELLE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Kobosil\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2025-06
+ -21-kobosil-impulse-grelle-forelle
+URL:https://rave.wien/e/2025-06-21-kobosil-impulse-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-05-cltx-impulse@rave.wien
+DTSTAMP:20250705T000000Z
+DTSTART;VALUE=DATE:20250705
+DTEND;VALUE=DATE:20250706
+SUMMARY:CLTX // IMPULSE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:CLTX\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2025-07-05
+ -cltx-impulse
+URL:https://rave.wien/e/2025-07-05-cltx-impulse
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-01-dyen-impulse-grelle-forelle@rave.wien
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:DYEN // IMPULSE // Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:DYEN\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2025-08-01
+ -dyen-impulse-grelle-forelle
+URL:https://rave.wien/e/2025-08-01-dyen-impulse-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-06-impulse-and-friends-vol-2@rave.wien
+DTSTAMP:20250906T000000Z
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250907
+SUMMARY:IMPULSE and FRIENDS\, VOL. 2
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:CI_RED\, Patrick M4SS\, Withecker\, JO Trauner\, Matthew\, MI
+ LA\, Majsko\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2025-09-06-imp
+ ulse-and-friends-vol-2
+URL:https://rave.wien/e/2025-09-06-impulse-and-friends-vol-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-04-katy-rough-x-igda-impulse-grelle-forelle@rave.wien
+DTSTAMP:20251004T000000Z
+DTSTART;VALUE=DATE:20251004
+DTEND;VALUE=DATE:20251005
+SUMMARY:KATY ROUGH x IGDA // IMPULSE // Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Katy Rough\, IGDA\nVeranstalter: Impulse\n\nhttps://rave.wien
+ /e/2025-10-04-katy-rough-x-igda-impulse-grelle-forelle
+URL:https://rave.wien/e/2025-10-04-katy-rough-x-igda-impulse-grelle-forel
+ le
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-01-paracek-impulse-grelle-forelle@rave.wien
+DTSTAMP:20251101T000000Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251102
+SUMMARY:PARAÇEK // IMPULSE // Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Paraçek\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2025-1
+ 1-01-paracek-impulse-grelle-forelle
+URL:https://rave.wien/e/2025-11-01-paracek-impulse-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-20-kalte-liebe-live-impulse-grelle-forelle@rave.wien
+DTSTAMP:20251220T000000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:KALTE LIEBE (LIVE) // IMPULSE // GRELLE FORELLE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Kalte Liebe\nVeranstalter: Impulse\n\nhttps://rave.wien/e/202
+ 5-12-20-kalte-liebe-live-impulse-grelle-forelle
+URL:https://rave.wien/e/2025-12-20-kalte-liebe-live-impulse-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-10-johannes-schuster-all-night-long-impulse-grelle-f@rave.wien
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:Johannes Schuster: ALL NIGHT LONG // IMPULSE // Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Johannes Schuster\nVeranstalter: Impulse\n\nhttps://rave.wien
+ /e/2026-01-10-johannes-schuster-all-night-long-impulse-grelle-f
+URL:https://rave.wien/e/2026-01-10-johannes-schuster-all-night-long-impul
+ se-grelle-f
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-07-vatoz-locoz-impulse-grelle-forelle@rave.wien
+DTSTAMP:20260207T000000Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:VATOZ LOCOZ // IMPULSE // GRELLE FORELLE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Vatoz Locoz\nVeranstalter: Impulse\n\nhttps://rave.wien/e/202
+ 6-02-07-vatoz-locoz-impulse-grelle-forelle
+URL:https://rave.wien/e/2026-02-07-vatoz-locoz-impulse-grelle-forelle
+END:VEVENT
 END:VCALENDAR

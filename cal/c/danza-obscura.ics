@@ -25,4 +25,37 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-04-26-danza-obscura@rave.wien
+DTSTAMP:20250426T000000Z
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250427
+SUMMARY:DANZA OBSCURA
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Danza Obscura\n\nhttps://rave.wien/e/2025-04-26
+ -danza-obscura
+URL:https://rave.wien/e/2025-04-26-danza-obscura
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-24-danza-obscura@rave.wien
+DTSTAMP:20260724T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:Danza Obscura
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Danza Obscura\n\nhttps://rave.wien/e/2026-07-24
+ -danza-obscura
+URL:https://rave.wien/e/2026-07-24-danza-obscura
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-14-danza-obscura@rave.wien
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Danza Obscura
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Danza Obscura\n\nhttps://rave.wien/e/2026-08-14
+ -danza-obscura
+URL:https://rave.wien/e/2026-08-14-danza-obscura
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-07-10-comeunitydub-vienna-presenting-mexican-stepper@rave.wien
+DTSTAMP:20260710T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:ComeUnityDub.Vienna presenting Mexican Stepper
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Mexican Stepper\n\nhttps://rave.wien/e/2026-07-10-comeunitydu
+ b-vienna-presenting-mexican-stepper
+URL:https://rave.wien/e/2026-07-10-comeunitydub-vienna-presenting-mexican
+ -stepper
+END:VEVENT
 END:VCALENDAR

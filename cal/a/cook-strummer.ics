@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-05-30-sud-art-and-sound-journey-with-cook-strummer-scoo@rave.wien
+DTSTAMP:20250530T000000Z
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250531
+SUMMARY:SUD Art and Sound Journey with Cook Strummer & Scoopsi
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Cook Strummer\, Scoopsi\n\nhttps://rave.wien/e/2025-05-30-sud
+ -art-and-sound-journey-with-cook-strummer-scoo
+URL:https://rave.wien/e/2025-05-30-sud-art-and-sound-journey-with-cook-st
+ rummer-scoo
+END:VEVENT
 END:VCALENDAR

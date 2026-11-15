@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-05-22-paradies-garten-w-mischluft@rave.wien
+DTSTAMP:20260522T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Paradies Garten w/ Mischluft
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mischluft\nVeranstalter: Paradies Garten\n\nhttps://rave.wien
+ /e/2026-05-22-paradies-garten-w-mischluft
+URL:https://rave.wien/e/2026-05-22-paradies-garten-w-mischluft
+END:VEVENT
 END:VCALENDAR

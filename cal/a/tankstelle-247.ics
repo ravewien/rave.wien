@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-07-31-club-night-hosted-by-der-radio@rave.wien
+DTSTAMP:20260731T000000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Club Night | Hosted By Der Radio
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Der Werther\, WO.IZZY\, Der Parkverbot\, 9euro\, DJ Nana\, DJ
+  Schelle\, DJ Trace\, Ozzy Era\, Tankstelle 247\nVeranstalter: Der Radio
+ \n\nhttps://rave.wien/e/2026-07-31-club-night-hosted-by-der-radio
+URL:https://rave.wien/e/2026-07-31-club-night-hosted-by-der-radio
+END:VEVENT
 END:VCALENDAR

@@ -26,6 +26,80 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-08-31-contrast-pres-darkmttr-w-s-p-y-alibi-molecular-ia@rave.wien
+DTSTAMP:20240831T000000Z
+DTSTART;VALUE=DATE:20240831
+DTEND;VALUE=DATE:20240901
+SUMMARY:CONTRAST pres. DARKMTTR w/ S.P.Y. + ALIBI + MOLECULAR + IAMDOOMED
+  | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:S.p.y\, Alibi\, Molecular\, Iamdoomed\nVeranstalter: Contrast
+ \n\nhttps://rave.wien/e/2024-08-31-contrast-pres-darkmttr-w-s-p-y-alibi-
+ molecular-ia
+URL:https://rave.wien/e/2024-08-31-contrast-pres-darkmttr-w-s-p-y-alibi-m
+ olecular-ia
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-08-drumworks-presents-resslek-iamdoomed@rave.wien
+DTSTAMP:20241108T000000Z
+DTSTART;VALUE=DATE:20241108
+DTEND;VALUE=DATE:20241109
+SUMMARY:Drumworks presents RESSLEK & IAMDOOMED
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Resslek\, Iamdoomed\nVeranstalter: Drumworks\n\nhttps://rave.
+ wien/e/2024-11-08-drumworks-presents-resslek-iamdoomed
+URL:https://rave.wien/e/2024-11-08-drumworks-presents-resslek-iamdoomed
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-27-contrast-pres-darkmttr-w-s-p-y-alibi-iamdoomed-18@rave.wien
+DTSTAMP:20250927T000000Z
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+SUMMARY:CONTRAST pres. DARKMTTR w/ S.P.Y + ALIBI + IAMDOOMED | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:S.p.y\, Alibi\, Iamdoomed\nVeranstalter: Contrast\n\nhttps://
+ rave.wien/e/2025-09-27-contrast-pres-darkmttr-w-s-p-y-alibi-iamdoomed-18
+URL:https://rave.wien/e/2025-09-27-contrast-pres-darkmttr-w-s-p-y-alibi-i
+ amdoomed-18
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-20-drumworks-presents-iamdoomed-x-mc-slippy-skills-u@rave.wien
+DTSTAMP:20251220T000000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:Drumworks presents IAMDOOMED x MC SLIPPY SKILLS (UK)
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Iamdoomed\, MC Slippy Skills\nVeranstalter: Drumworks\n\nhttp
+ s://rave.wien/e/2025-12-20-drumworks-presents-iamdoomed-x-mc-slippy-skil
+ ls-u
+URL:https://rave.wien/e/2025-12-20-drumworks-presents-iamdoomed-x-mc-slip
+ py-skills-u
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-01-fuelized-events-pres-iamdoomed@rave.wien
+DTSTAMP:20260501T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Fuelized Events pres. IAMDOOMED
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Iamdoomed\nVeranstalter: Fuelized\n\nhttps://rave.wien/e/2026
+ -05-01-fuelized-events-pres-iamdoomed
+URL:https://rave.wien/e/2026-05-01-fuelized-events-pres-iamdoomed
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-18-contrast-x-darkmttr-w-s-p-y-alibi-iamdoomed-speci@rave.wien
+DTSTAMP:20260718T000000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:CONTRAST x DARKMTTR w/ S.P.Y + ALIBI + IAMDOOMED + Special Guest:
+  THE UPBEATS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:S.p.y\, Alibi\, Iamdoomed\nVeranstalter: Contrast\n\nhttps://
+ rave.wien/e/2026-07-18-contrast-x-darkmttr-w-s-p-y-alibi-iamdoomed-speci
+URL:https://rave.wien/e/2026-07-18-contrast-x-darkmttr-w-s-p-y-alibi-iamd
+ oomed-speci
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-07-entropy@rave.wien
 DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Vienna:20261107T233000

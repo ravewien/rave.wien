@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-08-23-below-the-surface-with-yant-geistfrei@rave.wien
+DTSTAMP:20250823T000000Z
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250824
+SUMMARY:BELOW THE SURFACE with Yant & GEISTFREI
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Yant\, Geistfrei\nVeranstalter: Below the Surface\n\nhttps://
+ rave.wien/e/2025-08-23-below-the-surface-with-yant-geistfrei
+URL:https://rave.wien/e/2025-08-23-below-the-surface-with-yant-geistfrei
+END:VEVENT
 END:VCALENDAR

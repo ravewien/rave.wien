@@ -25,4 +25,19 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-02-art-attech-special-edition-15@rave.wien
+DTSTAMP:20261002T000000Z
+DTSTART;TZID=Europe/Vienna:20261002T200000
+DTEND;TZID=Europe/Vienna:20261003T010000
+SUMMARY:ART ATTECH Special Edition #15
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Ele Luz\, Je'täm\, Papa Karl\, SAMDMA\, Wal_Halla\, Karolina
+ \, Melimeko\, Wearethezombies\, Violetta\, Shira\, Karl Michael\nVeranst
+ alter: Art Attech\nEintritt: 25 € Abendkasse\n\nVernissage ab 20 Uhr\,
+  Art Rave ab 23 Uhr\; Aktzeichnen\, Livepaintings\, Lichtinstallation un
+ d Ausstellung\n\nhttps://rave.wien/e/2026-10-02-art-attech-special-editi
+ on-15
+URL:https://rave.wien/e/2026-10-02-art-attech-special-edition-15
+END:VEVENT
 END:VCALENDAR

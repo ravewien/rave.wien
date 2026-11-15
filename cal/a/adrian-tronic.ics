@@ -46,4 +46,45 @@ DESCRIPTION:Duplikate\, Adrian Tronic\, Manu Script\, dRob\nVeranstalter:
 URL:https://rave.wien/e/2026-11-21-du-tanzt-mich-mal-winter-open-air-puns
  ch-rave-ope
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-03-01-techno-entgleist-bussis-aus-berlin@rave.wien
+DTSTAMP:20240301T000000Z
+DTSTART;TZID=Europe/Vienna:20240301T230000
+DTEND;TZID=Europe/Vienna:20240302T040000
+SUMMARY:TECHNO ENTGLEIST | BUSSIS AUS BERLIN
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:BOHO\, DOBé\, Louisa India\, Vibechen\, Manu Script\, Adrian
+  Tronic\, Epicuro\, Tomagan\nVeranstalter: Techno Entgleist\nEintritt: A
+ K only\, freiwilliger Beitrag ab 15 €\n\nhttps://rave.wien/e/2024-03-0
+ 1-techno-entgleist-bussis-aus-berlin
+URL:https://rave.wien/e/2024-03-01-techno-entgleist-bussis-aus-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-22-techno-entgleist-x-du-tanzt-mich-mal@rave.wien
+DTSTAMP:20250322T000000Z
+DTSTART;VALUE=DATE:20250322
+DTEND;VALUE=DATE:20250323
+SUMMARY:TECHNO ENTGLEIST x DU TANZT MICH MAL
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Tomagan\, Vibechen\, Paul Boese\, LizN\, Adrian Tronic\, Manu
+  Script\, Reinhard Zach\nVeranstalter: Techno Entgleist\n\nhttps://rave.
+ wien/e/2025-03-22-techno-entgleist-x-du-tanzt-mich-mal
+URL:https://rave.wien/e/2025-03-22-techno-entgleist-x-du-tanzt-mich-mal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-18-du-tanzt-mich-mal-open-air-karlsplatz-afterparty@rave.wien
+DTSTAMP:20260718T000000Z
+DTSTART;TZID=Europe/Vienna:20260718T160000
+DTEND;TZID=Europe/Vienna:20260718T220000
+SUMMARY:Du Tanzt Mich Mal Open Air Karlsplatz + Afterparty
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:Feuerdrache\, Adrian Tronic\, Frankov\, FIVESIXSEVENKATE\nVer
+ anstalter: Du Tanzt Mich Mal\nEintritt: 10 €\n\nHouse-Open-Air am Karl
+ splatz (Club U)\, danach Afterparty im Vestibül des Burgtheaters (22–
+ 6 Uhr\, 10 €) mit Frankov\, Artemuse\, Adrian Tronic und Gandolph Rome
+ o\, im Rahmen von ImPulsTanz.\n\nhttps://rave.wien/e/2026-07-18-du-tanzt
+ -mich-mal-open-air-karlsplatz-afterparty
+URL:https://rave.wien/e/2026-07-18-du-tanzt-mich-mal-open-air-karlsplatz-
+ afterparty
+END:VEVENT
 END:VCALENDAR

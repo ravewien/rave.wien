@@ -45,6 +45,99 @@ DESCRIPTION:Mainfloor: Eargasm God\, Who is Ela¿\, Distorgina\nVeranstal
 URL:https://rave.wien/e/2026-12-04-step-forward-pres-eargasm-god
 END:VEVENT
 BEGIN:VEVENT
+UID:2024-01-05-mahlwerk-x-pratersauna@rave.wien
+DTSTAMP:20240105T000000Z
+DTSTART;VALUE=DATE:20240105
+DTEND;VALUE=DATE:20240106
+SUMMARY:MAHLWERK x PRATERSAUNA
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Mahlwerk\n\nhttps://rave.wien/e/2024-01-05-mahl
+ werk-x-pratersauna
+URL:https://rave.wien/e/2024-01-05-mahlwerk-x-pratersauna
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-26-monochrom-spezial-mahlwerk-x-area-showcase@rave.wien
+DTSTAMP:20241026T000000Z
+DTSTART;VALUE=DATE:20241026
+DTEND;VALUE=DATE:20241027
+SUMMARY:MONOCHROM Spezial: MAHLWERK x AREA Showcase
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Mahlwerk\, Monochrom\n\nhttps://rave.wien/e/202
+ 4-10-26-monochrom-spezial-mahlwerk-x-area-showcase
+URL:https://rave.wien/e/2024-10-26-monochrom-spezial-mahlwerk-x-area-show
+ case
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-03-mahlwerk-presents-beau-didier@rave.wien
+DTSTAMP:20250103T000000Z
+DTSTART;VALUE=DATE:20250103
+DTEND;VALUE=DATE:20250104
+SUMMARY:MAHLWERK presents Beau Didier
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Beau Didier\nVeranstalter: Mahlwerk\n\nhttps://rave.wien/e/20
+ 25-01-03-mahlwerk-presents-beau-didier
+URL:https://rave.wien/e/2025-01-03-mahlwerk-presents-beau-didier
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-20-mahlwerk-with-dj-swisherman@rave.wien
+DTSTAMP:20250420T000000Z
+DTSTART;VALUE=DATE:20250420
+DTEND;VALUE=DATE:20250421
+SUMMARY:Mahlwerk with DJ SWISHERMAN
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DJ Swisherman\nVeranstalter: Mahlwerk\n\nhttps://rave.wien/e/
+ 2025-04-20-mahlwerk-with-dj-swisherman
+URL:https://rave.wien/e/2025-04-20-mahlwerk-with-dj-swisherman
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-08-mahlwerk-w-peter-blue@rave.wien
+DTSTAMP:20250608T000000Z
+DTSTART;VALUE=DATE:20250608
+DTEND;VALUE=DATE:20250609
+SUMMARY:Mahlwerk w/ Peter Blue
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Peter Blue\nVeranstalter: Mahlwerk\n\nhttps://rave.wien/e/202
+ 5-06-08-mahlwerk-w-peter-blue
+URL:https://rave.wien/e/2025-06-08-mahlwerk-w-peter-blue
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-30-mahlwerk-interplanetary-criminal-justin-jay@rave.wien
+DTSTAMP:20260130T000000Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:MAHLWERK: Interplanetary Criminal & Justin Jay
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Interplanetary Criminal\, Justin Jay\nVeranstalter: Mahlwerk\
+ n\nhttps://rave.wien/e/2026-01-30-mahlwerk-interplanetary-criminal-justi
+ n-jay
+URL:https://rave.wien/e/2026-01-30-mahlwerk-interplanetary-criminal-justi
+ n-jay
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-11-mahlwerk-presents-kim-swim@rave.wien
+DTSTAMP:20260411T000000Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:MAHLWERK presents KIM SWIM
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Kim Swim\nVeranstalter: Mahlwerk\n\nhttps://rave.wien/e/2026-
+ 04-11-mahlwerk-presents-kim-swim
+URL:https://rave.wien/e/2026-04-11-mahlwerk-presents-kim-swim
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-12-mahlwerk-w-justin-jay-brent-honey-canelle-doublek@rave.wien
+DTSTAMP:20260912T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:MAHLWERK w/ Justin Jay\, Brent Honey & Canelle Doublekick
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Justin Jay\, Brent Honey\, Canelle Doublekick\nVeranstalter: 
+ Mahlwerk\n\nhttps://rave.wien/e/2026-09-12-mahlwerk-w-justin-jay-brent-h
+ oney-canelle-doublek
+URL:https://rave.wien/e/2026-09-12-mahlwerk-w-justin-jay-brent-honey-cane
+ lle-doublek
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-mahlwerk-fadercult-w-afem-syko-lisa-korver@rave.wien
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Vienna:20261106T230000

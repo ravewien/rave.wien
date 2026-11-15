@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-25-paradies-garten-festival-2024-launch-party-w-u-r@rave.wien
+DTSTAMP:20240525T000000Z
+DTSTART;VALUE=DATE:20240525
+DTEND;VALUE=DATE:20240526
+SUMMARY:Paradies Garten Festival 2024 Launch Party w/ u.r.trax
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:u.r.trax\nVeranstalter: Paradies Garten\n\nhttps://rave.wien/
+ e/2024-05-25-paradies-garten-festival-2024-launch-party-w-u-r
+URL:https://rave.wien/e/2024-05-25-paradies-garten-festival-2024-launch-p
+ arty-w-u-r
+END:VEVENT
 END:VCALENDAR

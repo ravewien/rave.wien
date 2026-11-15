@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-12-27-rushhour-the-last-blast-mr-bassmeister-turbokevin@rave.wien
+DTSTAMP:20251227T000000Z
+DTSTART;VALUE=DATE:20251227
+DTEND;VALUE=DATE:20251228
+SUMMARY:RushHour (the last blast) – Mr. Bassmeister – TurboKevin
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Mr. Bassmeister\, TurboKevin\n\nhttps://rave.wien/e/2025-12-2
+ 7-rushhour-the-last-blast-mr-bassmeister-turbokevin
+URL:https://rave.wien/e/2025-12-27-rushhour-the-last-blast-mr-bassmeister
+ -turbokevin
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-01-acid-techno-techno-club-w-frazi-er-jerm-dlv@rave.wien
+DTSTAMP:20240601T000000Z
+DTSTART;VALUE=DATE:20240601
+DTEND;VALUE=DATE:20240602
+SUMMARY:ACID TECHNO TECHNO CLUB w/ FRAZI.ER\, JERM & DLV
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Frazi.er\, Jerm\, DLV\nVeranstalter: Acid Techno Techno Club\
+ n\nhttps://rave.wien/e/2024-06-01-acid-techno-techno-club-w-frazi-er-jer
+ m-dlv
+URL:https://rave.wien/e/2024-06-01-acid-techno-techno-club-w-frazi-er-jer
+ m-dlv
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-22-frazi-er-selects-vienna@rave.wien
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:Frazi.er selects: Vienna
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Frazi.er\n\nhttps://rave.wien/e/2026-08-22-frazi-er-selects-v
+ ienna
+URL:https://rave.wien/e/2026-08-22-frazi-er-selects-vienna
+END:VEVENT
 END:VCALENDAR

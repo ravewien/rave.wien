@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-08-01-dyen-impulse-grelle-forelle@rave.wien
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:DYEN // IMPULSE // Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:DYEN\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2025-08-01
+ -dyen-impulse-grelle-forelle
+URL:https://rave.wien/e/2025-08-01-dyen-impulse-grelle-forelle
+END:VEVENT
 END:VCALENDAR

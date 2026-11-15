@@ -39,6 +39,43 @@ DESCRIPTION:Veranstalter: Basstrace\n\nBasstrace im FLUCC Wanne. Die Loca
 URL:https://rave.wien/e/2026-12-04-basstrace
 END:VEVENT
 BEGIN:VEVENT
+UID:2025-03-28-basstrace-10-years-x-croydub-x-vollkontakt-20-yea@rave.wien
+DTSTAMP:20250328T000000Z
+DTSTART;VALUE=DATE:20250328
+DTEND;VALUE=DATE:20250329
+SUMMARY:BASSTRACE 10 YEARS x CROYDUB x VOLLKONTAKT 20 YEARS
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Basstrace\n\nhttps://rave.wien/e/2025-03-28-bas
+ strace-10-years-x-croydub-x-vollkontakt-20-yea
+URL:https://rave.wien/e/2025-03-28-basstrace-10-years-x-croydub-x-vollkon
+ takt-20-yea
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-19-basstrace-with-youngsta-wz-sugar-slip-hosted-by-s@rave.wien
+DTSTAMP:20250919T000000Z
+DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250920
+SUMMARY:Basstrace with Youngsta\, WZ & SUGAR SLIP – hosted by SGT POKES
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Youngsta\, WZ\nVeranstalter: Basstrace\n\nhttps://rave.wien/e
+ /2025-09-19-basstrace-with-youngsta-wz-sugar-slip-hosted-by-s
+URL:https://rave.wien/e/2025-09-19-basstrace-with-youngsta-wz-sugar-slip-
+ hosted-by-s
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-22-basstrace-065-with-carre-dubrunner-truant-off-the@rave.wien
+DTSTAMP:20251122T000000Z
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+SUMMARY:Basstrace 065 with Carré\, Dubrunner\, Truant & OFF THE GRID
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Carré\, Dubrunner\, Truant\, Off The Grid\nVeranstalter: Bas
+ strace\n\nhttps://rave.wien/e/2025-11-22-basstrace-065-with-carre-dubrun
+ ner-truant-off-the
+URL:https://rave.wien/e/2025-11-22-basstrace-065-with-carre-dubrunner-tru
+ ant-off-the
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-basstrace-soliparty@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T230000

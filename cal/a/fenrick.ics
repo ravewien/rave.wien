@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-04-11-nexus-w-fenrick-kim-swim@rave.wien
+DTSTAMP:20250411T000000Z
+DTSTART;VALUE=DATE:20250411
+DTEND;VALUE=DATE:20250412
+SUMMARY:NEXUS w/ FENRICK + KIM SWIM
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Fenrick\, Kim Swim\nVeranstalter: NEXUS\n\nhttps://rave.wien/
+ e/2025-04-11-nexus-w-fenrick-kim-swim
+URL:https://rave.wien/e/2025-04-11-nexus-w-fenrick-kim-swim
+END:VEVENT
 END:VCALENDAR

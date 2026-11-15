@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-02-13-zuckerwatt-w-laurent-garnier@rave.wien
+DTSTAMP:20250213T000000Z
+DTSTART;VALUE=DATE:20250213
+DTEND;VALUE=DATE:20250214
+SUMMARY:ZUCKERWATT w/ LAURENT GARNIER
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Laurent Garnier\nVeranstalter: Zuckerwatt\n\nhttps://rave.wie
+ n/e/2025-02-13-zuckerwatt-w-laurent-garnier
+URL:https://rave.wien/e/2025-02-13-zuckerwatt-w-laurent-garnier
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-05-zuckerwatt-w-laurent-garnier@rave.wien
+DTSTAMP:20250405T000000Z
+DTSTART;VALUE=DATE:20250405
+DTEND;VALUE=DATE:20250406
+SUMMARY:ZUCKERWATT w/ Laurent Garnier
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Laurent Garnier\nVeranstalter: Zuckerwatt\n\nhttps://rave.wie
+ n/e/2025-04-05-zuckerwatt-w-laurent-garnier
+URL:https://rave.wien/e/2025-04-05-zuckerwatt-w-laurent-garnier
+END:VEVENT
 END:VCALENDAR

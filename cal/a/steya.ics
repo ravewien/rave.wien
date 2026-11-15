@@ -25,4 +25,73 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-31-2025-grelle-forelle-nye@rave.wien
+DTSTAMP:20241231T000000Z
+DTSTART;TZID=Europe/Vienna:20241231T000000
+DTEND;TZID=Europe/Vienna:20241231T050000
+SUMMARY:2025 | Grelle Forelle NYE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Aida Arko\, Steya\, Gerald VDH\, Kl:Ra\, Tezibel\n\nhttps://r
+ ave.wien/e/2024-12-31-2025-grelle-forelle-nye
+URL:https://rave.wien/e/2024-12-31-2025-grelle-forelle-nye
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-25-1yr-misguided-with-steya-marcel-fengler-ktk-dlv@rave.wien
+DTSTAMP:20250425T000000Z
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250426
+SUMMARY:1YR MISGUIDED with STEYA\, Marcel Fengler\, KTK & DLV
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Steya\, Marcel Fengler\, KTK\, DLV\nVeranstalter: Misguided\n
+ \nhttps://rave.wien/e/2025-04-25-1yr-misguided-with-steya-marcel-fengler
+ -ktk-dlv
+URL:https://rave.wien/e/2025-04-25-1yr-misguided-with-steya-marcel-fengle
+ r-ktk-dlv
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-27-oguz-steya-all-night-long@rave.wien
+DTSTAMP:20251227T000000Z
+DTSTART;VALUE=DATE:20251227
+DTEND;VALUE=DATE:20251228
+SUMMARY:OGUZ & STEYA All Night Long
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:OGUZ\, Steya\n\nhttps://rave.wien/e/2025-12-27-oguz-steya-all
+ -night-long
+URL:https://rave.wien/e/2025-12-27-oguz-steya-all-night-long
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-31-2025-grelle-forelle-nye@rave.wien
+DTSTAMP:20251231T000000Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:2025 | Grelle Forelle NYE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Aida Arko\, Steya\, Gerald VDH\, Kl:Ra\, Tezibel\n\nhttps://r
+ ave.wien/e/2025-12-31-2025-grelle-forelle-nye
+URL:https://rave.wien/e/2025-12-31-2025-grelle-forelle-nye
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-16-fish-market-x-esc-party@rave.wien
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:FISH MARKET x ESC Party
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Steya\, Gerald VDH\, Destroyer\, Manu:ra\, Philipp Eicher\, W
+ urstaufschnitt\nVeranstalter: Fish Market\n\nhttps://rave.wien/e/2026-05
+ -16-fish-market-x-esc-party
+URL:https://rave.wien/e/2026-05-16-fish-market-x-esc-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-purradox-w-tta-steya-pert@rave.wien
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:PURRADOX w/ ØTTA\, STEYA\, PERT
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:ØTTA\, Steya\, PERT\nVeranstalter: Purradox\n\nhttps://rave.
+ wien/e/2026-10-02-purradox-w-tta-steya-pert
+URL:https://rave.wien/e/2026-10-02-purradox-w-tta-steya-pert
+END:VEVENT
 END:VCALENDAR

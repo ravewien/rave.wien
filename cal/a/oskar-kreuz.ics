@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-07-17-deep-cut-w-oskar-kreuz-hypnotic-deep-techno@rave.wien
+DTSTAMP:20250717T000000Z
+DTSTART;VALUE=DATE:20250717
+DTEND;VALUE=DATE:20250718
+SUMMARY:deep cut w/ Oskar_Kreuz – Hypnotic & Deep Techno
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Oskar_Kreuz\nVeranstalter: deep cut\n\nhttps://rave.wien/e/20
+ 25-07-17-deep-cut-w-oskar-kreuz-hypnotic-deep-techno
+URL:https://rave.wien/e/2025-07-17-deep-cut-w-oskar-kreuz-hypnotic-deep-t
+ echno
+END:VEVENT
 END:VCALENDAR

@@ -26,6 +26,62 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-08-16-rosarot-by-gesindel-der-nacht-x-pink-mayhem@rave.wien
+DTSTAMP:20240816T000000Z
+DTSTART;VALUE=DATE:20240816
+DTEND;VALUE=DATE:20240817
+SUMMARY:ROSAROT by Gesindel der Nacht x Pink Mayhem
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Gesindel der Nacht\, Pink Mayhem\n\nhttps://rav
+ e.wien/e/2024-08-16-rosarot-by-gesindel-der-nacht-x-pink-mayhem
+URL:https://rave.wien/e/2024-08-16-rosarot-by-gesindel-der-nacht-x-pink-m
+ ayhem
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-24-pink-mayhem@rave.wien
+DTSTAMP:20250124T000000Z
+DTSTART;VALUE=DATE:20250124
+DTEND;VALUE=DATE:20250125
+SUMMARY:Pink Mayhem
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Pink Mayhem\n\nhttps://rave.wien/e/2025-01-24-p
+ ink-mayhem
+URL:https://rave.wien/e/2025-01-24-pink-mayhem
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-11-pink-mayhem@rave.wien
+DTSTAMP:20250711T000000Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+SUMMARY:PINK MAYHEM
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Pink Mayhem\n\nhttps://rave.wien/e/2025-07-11-p
+ ink-mayhem
+URL:https://rave.wien/e/2025-07-11-pink-mayhem
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-08-rosarot-pres-by-gdn-x-pink-mayhem@rave.wien
+DTSTAMP:20250808T000000Z
+DTSTART;VALUE=DATE:20250808
+DTEND;VALUE=DATE:20250809
+SUMMARY:ROSAROT pres. by GDN x Pink Mayhem
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: GDN\, Pink Mayhem\n\nhttps://rave.wien/e/2025-0
+ 8-08-rosarot-pres-by-gdn-x-pink-mayhem
+URL:https://rave.wien/e/2025-08-08-rosarot-pres-by-gdn-x-pink-mayhem
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-16-pink-mayhem-bea-s-birthday-bash@rave.wien
+DTSTAMP:20260116T000000Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:PINK MAYHEM – Bea’s Birthday Bash
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Pink Mayhem\n\nhttps://rave.wien/e/2026-01-16-p
+ ink-mayhem-bea-s-birthday-bash
+URL:https://rave.wien/e/2026-01-16-pink-mayhem-bea-s-birthday-bash
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-pink-mayhem-hardtechno-halloween@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T230000

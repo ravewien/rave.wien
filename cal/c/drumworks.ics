@@ -25,4 +25,50 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-10-11-drumworks-presents-sublimit-incus@rave.wien
+DTSTAMP:20241011T000000Z
+DTSTART;VALUE=DATE:20241011
+DTEND;VALUE=DATE:20241012
+SUMMARY:Drumworks presents Sublimit & Incus
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Sublimit\, Incus\nVeranstalter: Drumworks\n\nhttps://rave.wie
+ n/e/2024-10-11-drumworks-presents-sublimit-incus
+URL:https://rave.wien/e/2024-10-11-drumworks-presents-sublimit-incus
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-08-drumworks-presents-resslek-iamdoomed@rave.wien
+DTSTAMP:20241108T000000Z
+DTSTART;VALUE=DATE:20241108
+DTEND;VALUE=DATE:20241109
+SUMMARY:Drumworks presents RESSLEK & IAMDOOMED
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Resslek\, Iamdoomed\nVeranstalter: Drumworks\n\nhttps://rave.
+ wien/e/2024-11-08-drumworks-presents-resslek-iamdoomed
+URL:https://rave.wien/e/2024-11-08-drumworks-presents-resslek-iamdoomed
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-20-drumworks-presents-iamdoomed-x-mc-slippy-skills-u@rave.wien
+DTSTAMP:20251220T000000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:Drumworks presents IAMDOOMED x MC SLIPPY SKILLS (UK)
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Iamdoomed\, MC Slippy Skills\nVeranstalter: Drumworks\n\nhttp
+ s://rave.wien/e/2025-12-20-drumworks-presents-iamdoomed-x-mc-slippy-skil
+ ls-u
+URL:https://rave.wien/e/2025-12-20-drumworks-presents-iamdoomed-x-mc-slip
+ py-skills-u
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-22-drumworks-pres-yatuuza-x-liminal-kin@rave.wien
+DTSTAMP:20260522T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Drumworks pres. Yatuuza x Liminal Kin
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Yatuuza\, Liminal Kin\nVeranstalter: Drumworks\n\nhttps://rav
+ e.wien/e/2026-05-22-drumworks-pres-yatuuza-x-liminal-kin
+URL:https://rave.wien/e/2026-05-22-drumworks-pres-yatuuza-x-liminal-kin
+END:VEVENT
 END:VCALENDAR

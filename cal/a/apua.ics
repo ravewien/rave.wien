@@ -64,6 +64,30 @@ DESCRIPTION:Audrey Danza\, Apua\, DJ Deadlift\, Dreya\nVeranstalter: Redi
 URL:https://rave.wien/e/2026-12-12-redivider-pres-audrey-danza
 END:VEVENT
 BEGIN:VEVENT
+UID:2025-07-25-grelle-forelle-sommerfest@rave.wien
+DTSTAMP:20250725T000000Z
+DTSTART;VALUE=DATE:20250725
+DTEND;VALUE=DATE:20250726
+SUMMARY:Grelle Forelle Sommerfest
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Pablo Bozzi\, Mac DeClos\, Tezibel\, Menal Batti\, Apua\, Sti
+ po\, Reinhard Zach\, Saba\, Mathheku\n\nhttps://rave.wien/e/2025-07-25-g
+ relle-forelle-sommerfest
+URL:https://rave.wien/e/2025-07-25-grelle-forelle-sommerfest
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-30-vie-w-presents-mayell-apua-birthday-clash@rave.wien
+DTSTAMP:20260130T000000Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:vie.w presents Mayell (Apua‘ Birthday Clash)
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Mayell\, Apua\nVeranstalter: VIE.W\n\nhttps://rave.wien/e/202
+ 6-01-30-vie-w-presents-mayell-apua-birthday-clash
+URL:https://rave.wien/e/2026-01-30-vie-w-presents-mayell-apua-birthday-cl
+ ash
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-halloween-at-prst-w-camion-bazar-franziska-berns@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T230000

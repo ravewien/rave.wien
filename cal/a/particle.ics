@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-13-contrast-pres-particle-molecular-18@rave.wien
+DTSTAMP:20250613T000000Z
+DTSTART;VALUE=DATE:20250613
+DTEND;VALUE=DATE:20250614
+SUMMARY:CONTRAST pres. PARTICLE + MOLECULAR | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Particle\, Molecular\nVeranstalter: Contrast\n\nhttps://rave.
+ wien/e/2025-06-13-contrast-pres-particle-molecular-18
+URL:https://rave.wien/e/2025-06-13-contrast-pres-particle-molecular-18
+END:VEVENT
 END:VCALENDAR

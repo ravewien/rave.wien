@@ -25,4 +25,29 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-04-20-contrast-pres-neosignal-w-phace-misanthrop-annix@rave.wien
+DTSTAMP:20240420T000000Z
+DTSTART;VALUE=DATE:20240420
+DTEND;VALUE=DATE:20240421
+SUMMARY:CONTRAST pres. NEOSIGNAL w/ PHACE + MISANTHROP + ANNIX + ROCKWELL
+  | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Phace\, Misanthrop\, Annix\, Rockwell\nVeranstalter: Contrast
+ \n\nhttps://rave.wien/e/2024-04-20-contrast-pres-neosignal-w-phace-misan
+ throp-annix
+URL:https://rave.wien/e/2024-04-20-contrast-pres-neosignal-w-phace-misant
+ hrop-annix
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-19-contrast-pres-simula-skantia-annix-18@rave.wien
+DTSTAMP:20250419T000000Z
+DTSTART;VALUE=DATE:20250419
+DTEND;VALUE=DATE:20250420
+SUMMARY:CONTRAST pres. SIMULA + SKANTIA + ANNIX | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Simula\, Skantia\, Annix\nVeranstalter: Contrast\n\nhttps://r
+ ave.wien/e/2025-04-19-contrast-pres-simula-skantia-annix-18
+URL:https://rave.wien/e/2025-04-19-contrast-pres-simula-skantia-annix-18
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-18-nachtschub-with-drakk-us@rave.wien
+DTSTAMP:20250618T000000Z
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250619
+SUMMARY:NACHTSCHUB with DRAKK (US)
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Drakk\nVeranstalter: Nachtschub\n\nhttps://rave.wien/e/2025-0
+ 6-18-nachtschub-with-drakk-us
+URL:https://rave.wien/e/2025-06-18-nachtschub-with-drakk-us
+END:VEVENT
 END:VCALENDAR

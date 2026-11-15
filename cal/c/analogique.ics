@@ -25,4 +25,38 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-15-analogique-x-soundbuglerei-x-hwtk@rave.wien
+DTSTAMP:20241115T000000Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241116
+SUMMARY:Analogique x Soundbüglerei x hwtk
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Soundbüglerei\, Analogique\n\nhttps://rave.wie
+ n/e/2024-11-15-analogique-x-soundbuglerei-x-hwtk
+URL:https://rave.wien/e/2024-11-15-analogique-x-soundbuglerei-x-hwtk
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-05-disskorienta-x-analogique-x-soundbuglerei@rave.wien
+DTSTAMP:20250105T000000Z
+DTSTART;VALUE=DATE:20250105
+DTEND;VALUE=DATE:20250106
+SUMMARY:Disskorienta x Analogique x Soundbüglerei
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Soundbüglerei\, Analogique\n\nhttps://rave.wie
+ n/e/2025-01-05-disskorienta-x-analogique-x-soundbuglerei
+URL:https://rave.wien/e/2025-01-05-disskorienta-x-analogique-x-soundbugle
+ rei
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-16-analogique@rave.wien
+DTSTAMP:20251016T000000Z
+DTSTART;VALUE=DATE:20251016
+DTEND;VALUE=DATE:20251017
+SUMMARY:Analogique
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Analogique\n\nhttps://rave.wien/e/2025-10-16-an
+ alogique
+URL:https://rave.wien/e/2025-10-16-analogique
+END:VEVENT
 END:VCALENDAR

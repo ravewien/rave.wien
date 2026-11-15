@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-28-fellowsoph-edi-flaneur-funk-und-fernsehen-release@rave.wien
+DTSTAMP:20260228T000000Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:Fellowsoph & Edi Flaneur: Funk und Fernsehen – Releaseparty
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Fellowsoph\, Edi Flaneur\n\nhttps://rave.wien/e/2026-02-28-fe
+ llowsoph-edi-flaneur-funk-und-fernsehen-release
+URL:https://rave.wien/e/2026-02-28-fellowsoph-edi-flaneur-funk-und-fernse
+ hen-release
+END:VEVENT
 END:VCALENDAR

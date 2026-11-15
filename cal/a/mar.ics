@@ -47,6 +47,19 @@ DESCRIPTION:Mainfloor: Paraçek\, MARØ\, Vivienna\nKitchen: Felix Ruppre
 URL:https://rave.wien/e/2026-11-14-paradies-garten-w-paracek
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-08-07-techno-kult-x-grelle-forelle-clubnight-kitchen-ho@rave.wien
+DTSTAMP:20260807T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Techno.Kult x Grelle Forelle Clubnight – Kitchen Hosting
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:MHAK\, Amadeuz\, Swiver\, Testpress\, MARØ\, Krawallbarbie\n
+ Veranstalter: Techno.Kult\n\nhttps://rave.wien/e/2026-08-07-techno-kult-
+ x-grelle-forelle-clubnight-kitchen-ho
+URL:https://rave.wien/e/2026-08-07-techno-kult-x-grelle-forelle-clubnight
+ -kitchen-ho
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-biosphere-the-techno-spirit-of-1997@rave.wien
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Vienna:20261106T220000

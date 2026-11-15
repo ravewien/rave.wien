@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-08-viva-vienna-invites-mike-momburg@rave.wien
+DTSTAMP:20251108T000000Z
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
+SUMMARY:Viva Vienna invites: Mike Momburg
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Mike Momburg\n\nhttps://rave.wien/e/2025-11-08-viva-vienna-in
+ vites-mike-momburg
+URL:https://rave.wien/e/2025-11-08-viva-vienna-invites-mike-momburg
+END:VEVENT
 END:VCALENDAR

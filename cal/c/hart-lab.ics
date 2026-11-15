@@ -43,4 +43,92 @@ DESCRIPTION:Evren de concecao\, Autonomuse\, Anemona\nVeranstalter: Hart
  -28-hart-lab-resonance
 URL:https://rave.wien/e/2026-11-28-hart-lab-resonance
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-19-hart-lab@rave.wien
+DTSTAMP:20241019T000000Z
+DTSTART;VALUE=DATE:20241019
+DTEND;VALUE=DATE:20241020
+SUMMARY:Hart Lab
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Hart Lab\n\nhttps://rave.wien/e/2024-10-19-hart
+ -lab
+URL:https://rave.wien/e/2024-10-19-hart-lab
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-23-hart-lab-pres-vinyl-market@rave.wien
+DTSTAMP:20250223T000000Z
+DTSTART;VALUE=DATE:20250223
+DTEND;VALUE=DATE:20250224
+SUMMARY:Hart Lab pres. Vinyl Market
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Hart Lab\n\nhttps://rave.wien/e/2025-02-23-hart
+ -lab-pres-vinyl-market
+URL:https://rave.wien/e/2025-02-23-hart-lab-pres-vinyl-market
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-15-hart-lab-at-tagada@rave.wien
+DTSTAMP:20250315T000000Z
+DTSTART;VALUE=DATE:20250315
+DTEND;VALUE=DATE:20250316
+SUMMARY:Hart Lab at Tagada
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Hart Lab\n\nhttps://rave.wien/e/2025-03-15-hart
+ -lab-at-tagada
+URL:https://rave.wien/e/2025-03-15-hart-lab-at-tagada
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-16-hart-lab-at-tagada@rave.wien
+DTSTAMP:20250516T000000Z
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250517
+SUMMARY:Hart Lab at Tagada
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Hart Lab\n\nhttps://rave.wien/e/2025-05-16-hart
+ -lab-at-tagada
+URL:https://rave.wien/e/2025-05-16-hart-lab-at-tagada
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-11-hart-lab@rave.wien
+DTSTAMP:20250711T000000Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+SUMMARY:Hart Lab
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Hart Lab\n\nhttps://rave.wien/e/2025-07-11-hart
+ -lab
+URL:https://rave.wien/e/2025-07-11-hart-lab
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-17-hart-lab-w-lady-maru@rave.wien
+DTSTAMP:20251017T000000Z
+DTSTART;VALUE=DATE:20251017
+DTEND;VALUE=DATE:20251018
+SUMMARY:Hart Lab w/ Lady Maru
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Lady Maru\nVeranstalter: Hart Lab\n\nhttps://rave.wien/e/2025
+ -10-17-hart-lab-w-lady-maru
+URL:https://rave.wien/e/2025-10-17-hart-lab-w-lady-maru
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-21-hart-lab-with-dj-terror-zotsch@rave.wien
+DTSTAMP:20260321T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:Hart Lab with DJ TERROR\, ZÖTSCH
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:DJ Terror\, Zötsch\nVeranstalter: Hart Lab\n\nhttps://rave.w
+ ien/e/2026-03-21-hart-lab-with-dj-terror-zotsch
+URL:https://rave.wien/e/2026-03-21-hart-lab-with-dj-terror-zotsch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-25-innig-x-hart-lab-with-fluid-zm-ra@rave.wien
+DTSTAMP:20260425T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:innig X Hart Lab with Fluid & ZMØRA
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Fluid\, Zmøra\nVeranstalter: Hart Lab\n\nhttps://rave.wien/e
+ /2026-04-25-innig-x-hart-lab-with-fluid-zm-ra
+URL:https://rave.wien/e/2026-04-25-innig-x-hart-lab-with-fluid-zm-ra
+END:VEVENT
 END:VCALENDAR

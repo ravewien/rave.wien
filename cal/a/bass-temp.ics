@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-08-09-spectrum-w-bass-temp@rave.wien
+DTSTAMP:20250809T000000Z
+DTSTART;VALUE=DATE:20250809
+DTEND;VALUE=DATE:20250810
+SUMMARY:Spectrum w/ Bass Temp
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Bass Temp\nVeranstalter: Spectrum\n\nhttps://rave.wien/e/2025
+ -08-09-spectrum-w-bass-temp
+URL:https://rave.wien/e/2025-08-09-spectrum-w-bass-temp
+END:VEVENT
 END:VCALENDAR

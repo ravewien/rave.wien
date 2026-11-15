@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-08-29-prst-invites-marko-nastic@rave.wien
+DTSTAMP:20250829T000000Z
+DTSTART;VALUE=DATE:20250829
+DTEND;VALUE=DATE:20250830
+SUMMARY:PRST invites Marko Nastic
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Marko Nastic\n\nhttps://rave.wien/e/2025-08-29-prst-invites-m
+ arko-nastic
+URL:https://rave.wien/e/2025-08-29-prst-invites-marko-nastic
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-07-prst-invites-marko-nastic@rave.wien
+DTSTAMP:20251107T000000Z
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
+SUMMARY:PRST invites Marko Nastic
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Marko Nastic\n\nhttps://rave.wien/e/2025-11-07-prst-invites-m
+ arko-nastic
+URL:https://rave.wien/e/2025-11-07-prst-invites-marko-nastic
+END:VEVENT
 END:VCALENDAR

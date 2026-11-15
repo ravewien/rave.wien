@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-04-30-unum-festival-preparty-w-sonja-moonear@rave.wien
+DTSTAMP:20250430T000000Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:UNUM Festival Preparty w/ Sonja Moonear
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Sonja Moonear\n\nhttps://rave.wien/e/2025-04-30-unum-festival
+ -preparty-w-sonja-moonear
+URL:https://rave.wien/e/2025-04-30-unum-festival-preparty-w-sonja-moonear
+END:VEVENT
 END:VCALENDAR

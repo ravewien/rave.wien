@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-09-28-tattu-tatta-glub-polyamor@rave.wien
+DTSTAMP:20240928T000000Z
+DTSTART;TZID=Europe/Vienna:20240928T230000
+DTEND;TZID=Europe/Vienna:20240929T040000
+SUMMARY:Tattu Tatta Glub & Polyamor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:UHD\, ALIS.\, Vivienna\, Bitschu Batschu\, Cleopard2000\, Heg
+ gemann\, DJ Shady MF\, Anna Ullrich\nVeranstalter: Tattu Tatta Glub\, Po
+ lyamor\n\nhttps://rave.wien/e/2024-09-28-tattu-tatta-glub-polyamor
+URL:https://rave.wien/e/2024-09-28-tattu-tatta-glub-polyamor
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-18-polyamor-vienna@rave.wien
+DTSTAMP:20250618T000000Z
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250619
+SUMMARY:Polyamor Vienna
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Cleopard2000\, Elotrance\, Justin Tinderdate\, Vivienna\, Cha
+ ya\, Armin Herrmann\, Serafin\nVeranstalter: Polyamor\n\nhttps://rave.wi
+ en/e/2025-06-18-polyamor-vienna
+URL:https://rave.wien/e/2025-06-18-polyamor-vienna
+END:VEVENT
 END:VCALENDAR

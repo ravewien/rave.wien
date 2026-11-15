@@ -40,4 +40,87 @@ DESCRIPTION:Ced\, Fabian Hofer\, Mize Hetner\nVeranstalter: Soundhouse\n\
   noch nicht bekannt.\n\nhttps://rave.wien/e/2026-11-21-soundhouse
 URL:https://rave.wien/e/2026-11-21-soundhouse
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-29-soundhouse@rave.wien
+DTSTAMP:20240629T000000Z
+DTSTART;VALUE=DATE:20240629
+DTEND;VALUE=DATE:20240630
+SUMMARY:SOUNDHOUSE
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Soundhouse\n\nhttps://rave.wien/e/2024-06-29-so
+ undhouse
+URL:https://rave.wien/e/2024-06-29-soundhouse
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-03-soundhouse-w-masha-dabelka-fabian-hofer-michael-z@rave.wien
+DTSTAMP:20240803T000000Z
+DTSTART;VALUE=DATE:20240803
+DTEND;VALUE=DATE:20240804
+SUMMARY:SOUNDHOUSE w/ Masha Dabelka\, Fabian Hofer\, Michael Zehetner
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Masha Dabelka\, Fabian Hofer\, Michael Zehetner\nVeranstalter
+ : Soundhouse\n\nhttps://rave.wien/e/2024-08-03-soundhouse-w-masha-dabelk
+ a-fabian-hofer-michael-z
+URL:https://rave.wien/e/2024-08-03-soundhouse-w-masha-dabelka-fabian-hofe
+ r-michael-z
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-27-soundhouse@rave.wien
+DTSTAMP:20240927T000000Z
+DTSTART;VALUE=DATE:20240927
+DTEND;VALUE=DATE:20240928
+SUMMARY:SOUNDHOUSE
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Soundhouse\n\nhttps://rave.wien/e/2024-09-27-so
+ undhouse
+URL:https://rave.wien/e/2024-09-27-soundhouse
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-28-soundhouse-with-mir-i-am-fabian-hofer-mize-hetner@rave.wien
+DTSTAMP:20250628T000000Z
+DTSTART;VALUE=DATE:20250628
+DTEND;VALUE=DATE:20250629
+SUMMARY:SOUNDHOUSE with Mir-I-am\, Fabian Hofer\, Mize Hetner
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Mir-I-am\, Fabian Hofer\, Mize Hetner\nVeranstalter: Soundhou
+ se\n\nhttps://rave.wien/e/2025-06-28-soundhouse-with-mir-i-am-fabian-hof
+ er-mize-hetner
+URL:https://rave.wien/e/2025-06-28-soundhouse-with-mir-i-am-fabian-hofer-
+ mize-hetner
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-25-soundhouse-with-voltmarie-fabian-hofer-michael-ze@rave.wien
+DTSTAMP:20251025T000000Z
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+SUMMARY:SOUNDHOUSE with VOLTMARIE\, Fabian Hofer\, Michael Zehetner
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Voltmarie\, Fabian Hofer\, Michael Zehetner\nVeranstalter: So
+ undhouse\n\nhttps://rave.wien/e/2025-10-25-soundhouse-with-voltmarie-fab
+ ian-hofer-michael-ze
+URL:https://rave.wien/e/2025-10-25-soundhouse-with-voltmarie-fabian-hofer
+ -michael-ze
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-27-soundhouse-christmas-special@rave.wien
+DTSTAMP:20251227T000000Z
+DTSTART;VALUE=DATE:20251227
+DTEND;VALUE=DATE:20251228
+SUMMARY:SOUNDHOUSE Christmas Special
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Soundhouse\n\nhttps://rave.wien/e/2025-12-27-so
+ undhouse-christmas-special
+URL:https://rave.wien/e/2025-12-27-soundhouse-christmas-special
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-06-pompadour-i-soundhouse-i-technoage@rave.wien
+DTSTAMP:20260606T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Pompadour I SOUNDHOUSE I techNOage
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\, Soundhouse\, techNOage\n\nhttp
+ s://rave.wien/e/2026-06-06-pompadour-i-soundhouse-i-technoage
+URL:https://rave.wien/e/2026-06-06-pompadour-i-soundhouse-i-technoage
+END:VEVENT
 END:VCALENDAR

@@ -49,4 +49,98 @@ DESCRIPTION:Mainfloor: Altinbas\, Annika Stein\, Gerald VDH\nKitchen (hos
 URL:https://rave.wien/e/2026-11-20-fish-market-w-altinbas-annika-stein-ge
  rald-vdh
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-19-fish-market-the-cursed-ones-w-lea-occhi-annika-st@rave.wien
+DTSTAMP:20240719T000000Z
+DTSTART;VALUE=DATE:20240719
+DTEND;VALUE=DATE:20240720
+SUMMARY:FISH MARKET – The Cursed Ones w/ Lea Occhi\, Annika Stein\, man
+ u:ra und PUSH-Floor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Lea Occhi\, Annika Stein\, Manu:ra\nVeranstalter: Fish Market
+ \, PUSH\n\nhttps://rave.wien/e/2024-07-19-fish-market-the-cursed-ones-w-
+ lea-occhi-annika-st
+URL:https://rave.wien/e/2024-07-19-fish-market-the-cursed-ones-w-lea-occh
+ i-annika-st
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-20-fish-market-w-rene-wise-annika-stein-gerald-vdh-p@rave.wien
+DTSTAMP:20240920T000000Z
+DTSTART;VALUE=DATE:20240920
+DTEND;VALUE=DATE:20240921
+SUMMARY:FISH MARKET w/ Rene Wise\, Annika Stein\, Gerald VDH\, PUSH\, uvm
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Rene Wise\, Annika Stein\, Gerald VDH\nVeranstalter: Fish Mar
+ ket\, PUSH\n\nhttps://rave.wien/e/2024-09-20-fish-market-w-rene-wise-ann
+ ika-stein-gerald-vdh-p
+URL:https://rave.wien/e/2024-09-20-fish-market-w-rene-wise-annika-stein-g
+ erald-vdh-p
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-30-f-cken-plus-megerparty-model-6-ai-ultra-plus@rave.wien
+DTSTAMP:20241130T000000Z
+DTSTART;TZID=Europe/Vienna:20241130T230000
+DTEND;TZID=Europe/Vienna:20241201T040000
+SUMMARY:F*CKEN PLUS – Megerparty Model 6 AI Ultra Plus
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Violetta\, Manu:ra\, Annika Stein\, Gerald VDH\, DJ Wolle\, P
+ hilipp Eicher\, Wurstsalon\nVeranstalter: F*cken Plus\n\nhttps://rave.wi
+ en/e/2024-11-30-f-cken-plus-megerparty-model-6-ai-ultra-plus
+URL:https://rave.wien/e/2024-11-30-f-cken-plus-megerparty-model-6-ai-ultr
+ a-plus
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-28-f-plus-w-herton-annika-stein-gerald-vdh-and-the-i@rave.wien
+DTSTAMP:20250228T000000Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:F*PLUS w/ HERTON\, Annika Stein\, Gerald VDH and the infamous pop
+ -trash-floor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Herton\, Annika Stein\, Gerald VDH\nVeranstalter: F*cken Plus
+ \n\nhttps://rave.wien/e/2025-02-28-f-plus-w-herton-annika-stein-gerald-v
+ dh-and-the-i
+URL:https://rave.wien/e/2025-02-28-f-plus-w-herton-annika-stein-gerald-vd
+ h-and-the-i
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-14-fish-market-w-freddy-k-annika-stein-deadlift-etc@rave.wien
+DTSTAMP:20251114T000000Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:FISH MARKET w/ FREDDY K\, Annika Stein\, Deadlift\, etc.
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Freddy K\, Annika Stein\, Deadlift\nVeranstalter: Fish Market
+ \n\nhttps://rave.wien/e/2025-11-14-fish-market-w-freddy-k-annika-stein-d
+ eadlift-etc
+URL:https://rave.wien/e/2025-11-14-fish-market-w-freddy-k-annika-stein-de
+ adlift-etc
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-30-f-cken-plus-x-mayday-feat-raven-annika-stein-gera@rave.wien
+DTSTAMP:20260430T000000Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:F*CKEN PLUS x MAYDAY feat. RAVEN\, Annika Stein\, Gerald VDH\, F*
+ PLUS Trash Department
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Raven\, Annika Stein\, Gerald VDH\nVeranstalter: F*cken Plus\
+ n\nhttps://rave.wien/e/2026-04-30-f-cken-plus-x-mayday-feat-raven-annika
+ -stein-gera
+URL:https://rave.wien/e/2026-04-30-f-cken-plus-x-mayday-feat-raven-annika
+ -stein-gera
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-28-f-cken-plus-w-lobster-annika-stein-gerald-vdh@rave.wien
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:F*cken Plus w/ Lobster\, Annika Stein\, Gerald VDH
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Lobster\, Annika Stein\, Gerald VDH\nVeranstalter: F*cken Plu
+ s\n\nhttps://rave.wien/e/2026-08-28-f-cken-plus-w-lobster-annika-stein-g
+ erald-vdh
+URL:https://rave.wien/e/2026-08-28-f-cken-plus-w-lobster-annika-stein-ger
+ ald-vdh
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,75 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-02-13-fractal-fusion@rave.wien
+DTSTAMP:20250213T000000Z
+DTSTART;VALUE=DATE:20250213
+DTEND;VALUE=DATE:20250214
+SUMMARY:FRACTAL FUSION
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Fractal Fusion\n\nhttps://rave.wien/e/2025-02-1
+ 3-fractal-fusion
+URL:https://rave.wien/e/2025-02-13-fractal-fusion
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-20-fractal-fusion@rave.wien
+DTSTAMP:20250320T000000Z
+DTSTART;VALUE=DATE:20250320
+DTEND;VALUE=DATE:20250321
+SUMMARY:FRACTAL FUSION
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Fractal Fusion\n\nhttps://rave.wien/e/2025-03-2
+ 0-fractal-fusion
+URL:https://rave.wien/e/2025-03-20-fractal-fusion
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-08-fractal-fusion-birthday-edition@rave.wien
+DTSTAMP:20250508T000000Z
+DTSTART;VALUE=DATE:20250508
+DTEND;VALUE=DATE:20250509
+SUMMARY:FRACTAL FUSION: Birthday Edition
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Fractal Fusion\n\nhttps://rave.wien/e/2025-05-0
+ 8-fractal-fusion-birthday-edition
+URL:https://rave.wien/e/2025-05-08-fractal-fusion-birthday-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-24-fractal-fusion@rave.wien
+DTSTAMP:20250724T000000Z
+DTSTART;VALUE=DATE:20250724
+DTEND;VALUE=DATE:20250725
+SUMMARY:FRACTAL FUSION
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Fractal Fusion\n\nhttps://rave.wien/e/2025-07-2
+ 4-fractal-fusion
+URL:https://rave.wien/e/2025-07-24-fractal-fusion
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-25-fractal-fusion@rave.wien
+DTSTAMP:20251225T000000Z
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+SUMMARY:FRACTAL FUSION
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Fractal Fusion\n\nhttps://rave.wien/e/2025-12-2
+ 5-fractal-fusion
+URL:https://rave.wien/e/2025-12-25-fractal-fusion
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-08-fractal-fusion-women-s-day-edition@rave.wien
+DTSTAMP:20260308T000000Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:FRACTAL FUSION: Women's Day Edition
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Veranstalter: Fractal Fusion\n\nhttps://rave.wien/e/2026-03-0
+ 8-fractal-fusion-women-s-day-edition
+URL:https://rave.wien/e/2026-03-08-fractal-fusion-women-s-day-edition
+END:VEVENT
 END:VCALENDAR

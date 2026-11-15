@@ -25,4 +25,44 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-16-fish-market-making-love-to-machines-w-janein-dead@rave.wien
+DTSTAMP:20240816T000000Z
+DTSTART;VALUE=DATE:20240816
+DTEND;VALUE=DATE:20240817
+SUMMARY:FISH MARKET – Making Love To Machines w/ JANEIN\, Deadlift\, GV
+ DH and more
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Janein\, Deadlift\, GVDH\nVeranstalter: Fish Market\n\nhttps:
+ //rave.wien/e/2024-08-16-fish-market-making-love-to-machines-w-janein-de
+ ad
+URL:https://rave.wien/e/2024-08-16-fish-market-making-love-to-machines-w-
+ janein-dead
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-16-fish-market-x-holey-feat-seelen-rec-label-night@rave.wien
+DTSTAMP:20250516T000000Z
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250517
+SUMMARY:FISH MARKET x HOLEY feat. Seelen Rec. Label Night
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Janein\, Stigmatique\, Gerald VDH\, DJ Yugo\, Erhyc\, VSSL\nV
+ eranstalter: Fish Market\n\nhttps://rave.wien/e/2025-05-16-fish-market-x
+ -holey-feat-seelen-rec-label-night
+URL:https://rave.wien/e/2025-05-16-fish-market-x-holey-feat-seelen-rec-la
+ bel-night
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-27-f-cken-plus-utterly-butterly-unofficial-pride-clo@rave.wien
+DTSTAMP:20260627T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:F*CKEN PLUS – Utterly Butterly Unofficial Pride Closing w/ JANE
+ IN\, Manu:letta u.v.m
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Janein\, Manu:letta\nVeranstalter: F*cken Plus\n\nhttps://rav
+ e.wien/e/2026-06-27-f-cken-plus-utterly-butterly-unofficial-pride-clo
+URL:https://rave.wien/e/2026-06-27-f-cken-plus-utterly-butterly-unofficia
+ l-pride-clo
+END:VEVENT
 END:VCALENDAR

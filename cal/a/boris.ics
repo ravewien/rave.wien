@@ -25,4 +25,44 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-08-fish-market-official-pride-afterparty-w-boris-ben@rave.wien
+DTSTAMP:20240608T000000Z
+DTSTART;VALUE=DATE:20240608
+DTEND;VALUE=DATE:20240609
+SUMMARY:FISH MARKET – Official Pride Afterparty w/ BORIS\, BEN MANSON\,
+  GERALD VDH
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Boris\, Ben Manson\, Gerald VDH\nVeranstalter: Fish Market\n\
+ nhttps://rave.wien/e/2024-06-08-fish-market-official-pride-afterparty-w-
+ boris-ben
+URL:https://rave.wien/e/2024-06-08-fish-market-official-pride-afterparty-
+ w-boris-ben
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-14-fish-market-official-pride-afterparty-w-boris-ger@rave.wien
+DTSTAMP:20250614T000000Z
+DTSTART;VALUE=DATE:20250614
+DTEND;VALUE=DATE:20250615
+SUMMARY:FISH MARKET – Official Pride Afterparty w/ Boris\, Gerald VDH\,
+  uvm
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Boris\, Gerald VDH\nVeranstalter: Fish Market\n\nhttps://rave
+ .wien/e/2025-06-14-fish-market-official-pride-afterparty-w-boris-ger
+URL:https://rave.wien/e/2025-06-14-fish-market-official-pride-afterparty-
+ w-boris-ger
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-13-fish-market-official-pride-afterparty-w-boris-ger@rave.wien
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:FISH MARKET – Official Pride Afterparty w/ Boris\, Gerald VDH\,
+  u.v.m.
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Boris\, Gerald VDH\nVeranstalter: Fish Market\n\nhttps://rave
+ .wien/e/2026-06-13-fish-market-official-pride-afterparty-w-boris-ger
+URL:https://rave.wien/e/2026-06-13-fish-market-official-pride-afterparty-
+ w-boris-ger
+END:VEVENT
 END:VCALENDAR

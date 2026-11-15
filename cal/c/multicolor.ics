@@ -25,4 +25,49 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-14-multicolor-house-arrest-x-park-it-here@rave.wien
+DTSTAMP:20240614T000000Z
+DTSTART;VALUE=DATE:20240614
+DTEND;VALUE=DATE:20240615
+SUMMARY:MULTICOLOR – House Arrest x Park It Here
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Park It Here\, Multicolor\n\nhttps://rave.wien/
+ e/2024-06-14-multicolor-house-arrest-x-park-it-here
+URL:https://rave.wien/e/2024-06-14-multicolor-house-arrest-x-park-it-here
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-26-multicolor-spezial-dan-shake-x-unknwn@rave.wien
+DTSTAMP:20240726T000000Z
+DTSTART;VALUE=DATE:20240726
+DTEND;VALUE=DATE:20240727
+SUMMARY:MULTICOLOR Spezial | Dan Shake x Unknwn
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Dan Shake\nVeranstalter: Multicolor\n\nhttps://rave.wien/e/20
+ 24-07-26-multicolor-spezial-dan-shake-x-unknwn
+URL:https://rave.wien/e/2024-07-26-multicolor-spezial-dan-shake-x-unknwn
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-25-multicolor-spezial-with-themba-sa@rave.wien
+DTSTAMP:20241025T000000Z
+DTSTART;VALUE=DATE:20241025
+DTEND;VALUE=DATE:20241026
+SUMMARY:MULTICOLOR SPEZIAL with Themba [SA]
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Themba\nVeranstalter: Multicolor\n\nhttps://rave.wien/e/2024-
+ 10-25-multicolor-spezial-with-themba-sa
+URL:https://rave.wien/e/2024-10-25-multicolor-spezial-with-themba-sa
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-15-multicolor-x-refreshed-with-mr-belt-wezol@rave.wien
+DTSTAMP:20241115T000000Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241116
+SUMMARY:MULTICOLOR x REFRESHED with Mr. Belt & Wezol
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Mr. Belt\, Wezol\nVeranstalter: Multicolor\n\nhttps://rave.wi
+ en/e/2024-11-15-multicolor-x-refreshed-with-mr-belt-wezol
+URL:https://rave.wien/e/2024-11-15-multicolor-x-refreshed-with-mr-belt-we
+ zol
+END:VEVENT
 END:VCALENDAR

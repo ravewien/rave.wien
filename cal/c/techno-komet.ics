@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-24-techno-komet-invites-felicie-fr-grelle-forelle@rave.wien
+DTSTAMP:20240524T000000Z
+DTSTART;VALUE=DATE:20240524
+DTEND;VALUE=DATE:20240525
+SUMMARY:TECHNO KOMET invites FELICIE [FR] | Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Felicie\nVeranstalter: Techno Komet\n\nhttps://rave.wien/e/20
+ 24-05-24-techno-komet-invites-felicie-fr-grelle-forelle
+URL:https://rave.wien/e/2024-05-24-techno-komet-invites-felicie-fr-grelle
+ -forelle
+END:VEVENT
 END:VCALENDAR

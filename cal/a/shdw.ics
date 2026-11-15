@@ -41,4 +41,26 @@ DESCRIPTION:KlangKuenstler\, SHDW\, Svetec\, Karolina\nEintritt: 55 €\n
  26-12-12-klangkuenstler
 URL:https://rave.wien/e/2026-12-12-klangkuenstler
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-21-dax-j-shdw-turbo@rave.wien
+DTSTAMP:20240621T000000Z
+DTSTART;VALUE=DATE:20240621
+DTEND;VALUE=DATE:20240622
+SUMMARY:Dax J & SHDW | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Dax J\, SHDW\nVeranstalter: TURBO\n\nhttps://rave.wien/e/2024
+ -06-21-dax-j-shdw-turbo
+URL:https://rave.wien/e/2024-06-21-dax-j-shdw-turbo
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-24-grelle-forelle-sommerfest@rave.wien
+DTSTAMP:20260724T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:Grelle Forelle Sommerfest
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alarico\, SHDW\, Alex Maurer\, Violetta\n\nhttps://rave.wien/
+ e/2026-07-24-grelle-forelle-sommerfest
+URL:https://rave.wien/e/2026-07-24-grelle-forelle-sommerfest
+END:VEVENT
 END:VCALENDAR

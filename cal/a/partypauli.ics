@@ -46,6 +46,19 @@ DESCRIPTION:Oben: Andrew Ahmed\, Sluzy\, PartyPauli\, maro\, Arman Shadow
 URL:https://rave.wien/e/2026-11-27-bassbussi-allstars-3-years-anniversary
 END:VEVENT
 BEGIN:VEVENT
+UID:2025-10-03-fm4-unlimited-im-prater@rave.wien
+DTSTAMP:20251003T000000Z
+DTSTART;TZID=Europe/Vienna:20251003T180000
+DTEND;TZID=Europe/Vienna:20251003T230000
+SUMMARY:FM4 Unlimited im Prater
+LOCATION:Prater (Calafatiplatz)\, Calafatiplatz\, 1020 Wien
+DESCRIPTION:Anna Ullrich\, Oberst & Buchner\, PartyPauli\nVeranstalter: F
+ M4 Unlimited\nEintritt: Gratis\n\nVier DJ-Stages am Calafatiplatz\, Afte
+ rshow in der Pratersauna. Lineup unvollständig.\n\nhttps://rave.wien/e/
+ 2025-10-03-fm4-unlimited-im-prater
+URL:https://rave.wien/e/2025-10-03-fm4-unlimited-im-prater
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-zuckerwatt-w-mija@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T230000

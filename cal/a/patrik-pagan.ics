@@ -26,6 +26,32 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-07-06-besser-drauf-mit-silsan-david-phoenix-kollektiv-s@rave.wien
+DTSTAMP:20240706T000000Z
+DTSTART;VALUE=DATE:20240706
+DTEND;VALUE=DATE:20240707
+SUMMARY:BESSER DRAUF mit SILSAN\, David Phoenix\, Kollektiv Sheesh b2b Nu
+ gi und Patrik Pagan
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Silsan\, David Phoenix\, Kollektiv Sheesh\, Nugi\, Patrik Pag
+ an\n\nhttps://rave.wien/e/2024-07-06-besser-drauf-mit-silsan-david-phoen
+ ix-kollektiv-s
+URL:https://rave.wien/e/2024-07-06-besser-drauf-mit-silsan-david-phoenix-
+ kollektiv-s
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-13-praterrakete-w-aio-alecid-patrik-pagan-otto-wagin@rave.wien
+DTSTAMP:20241213T000000Z
+DTSTART;VALUE=DATE:20241213
+DTEND;VALUE=DATE:20241214
+SUMMARY:PRATERRAKETE w/ Aio\, Alecid\, Patrik Pagan & Otto Wagina
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Aio\, Alecid\, Patrik Pagan\, Otto Wagina\n\nhttps://rave.wie
+ n/e/2024-12-13-praterrakete-w-aio-alecid-patrik-pagan-otto-wagin
+URL:https://rave.wien/e/2024-12-13-praterrakete-w-aio-alecid-patrik-pagan
+ -otto-wagin
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-spectral-with-dual-drive-se@rave.wien
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Vienna:20261106T233000

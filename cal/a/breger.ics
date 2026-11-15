@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-10-19-vision-serpent-showcase-w-breger@rave.wien
+DTSTAMP:20241019T000000Z
+DTSTART;VALUE=DATE:20241019
+DTEND;VALUE=DATE:20241020
+SUMMARY:Vision Serpent Showcase w/ BREGER
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Breger\n\nhttps://rave.wien/e/2024-10-19-vision-serpent-showc
+ ase-w-breger
+URL:https://rave.wien/e/2024-10-19-vision-serpent-showcase-w-breger
+END:VEVENT
 END:VCALENDAR

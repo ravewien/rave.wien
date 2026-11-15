@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-07-vatoz-locoz-impulse-grelle-forelle@rave.wien
+DTSTAMP:20260207T000000Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:VATOZ LOCOZ // IMPULSE // GRELLE FORELLE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Vatoz Locoz\nVeranstalter: Impulse\n\nhttps://rave.wien/e/202
+ 6-02-07-vatoz-locoz-impulse-grelle-forelle
+URL:https://rave.wien/e/2026-02-07-vatoz-locoz-impulse-grelle-forelle
+END:VEVENT
 END:VCALENDAR

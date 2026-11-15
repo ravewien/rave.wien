@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-10-31-halloween-at-prst-club-with-steve-bug@rave.wien
+DTSTAMP:20251031T000000Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Halloween at PRST Club with Steve Bug
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Steve Bug\n\nhttps://rave.wien/e/2025-10-31-halloween-at-prst
+ -club-with-steve-bug
+URL:https://rave.wien/e/2025-10-31-halloween-at-prst-club-with-steve-bug
+END:VEVENT
 END:VCALENDAR

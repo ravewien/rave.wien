@@ -46,6 +46,193 @@ URL:https://rave.wien/e/2026-11-28-dead-end-showcase-with-paralich-pres-b
  y-gdn
 END:VEVENT
 BEGIN:VEVENT
+UID:2024-02-24-labelnacht-by-gesindel-x-gdn-records-w-gockel-alg@rave.wien
+DTSTAMP:20240224T000000Z
+DTSTART;VALUE=DATE:20240224
+DTEND;VALUE=DATE:20240225
+SUMMARY:LABELNACHT by Gesindel x GDN Records w/ Gockel\, Algayev & I Danc
+ e Alone
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Gockel\, Algayev\, I Dance Alone\nVeranstalter: Gesindel der 
+ Nacht\, GDN\n\nhttps://rave.wien/e/2024-02-24-labelnacht-by-gesindel-x-g
+ dn-records-w-gockel-alg
+URL:https://rave.wien/e/2024-02-24-labelnacht-by-gesindel-x-gdn-records-w
+ -gockel-alg
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-29-hart-a-queer-body-positive-hard-techno-night-by-g@rave.wien
+DTSTAMP:20240629T000000Z
+DTSTART;VALUE=DATE:20240629
+DTEND;VALUE=DATE:20240630
+SUMMARY:HART: A Queer & Body-Positive Hard Techno Night by GESINDEL DER N
+ ACHT & HERZFREQUENZ
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Herzfrequenz\, Gesindel der Nacht\n\nhttps://ra
+ ve.wien/e/2024-06-29-hart-a-queer-body-positive-hard-techno-night-by-g
+URL:https://rave.wien/e/2024-06-29-hart-a-queer-body-positive-hard-techno
+ -night-by-g
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-16-rosarot-by-gesindel-der-nacht-x-pink-mayhem@rave.wien
+DTSTAMP:20240816T000000Z
+DTSTART;VALUE=DATE:20240816
+DTEND;VALUE=DATE:20240817
+SUMMARY:ROSAROT by Gesindel der Nacht x Pink Mayhem
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Gesindel der Nacht\, Pink Mayhem\n\nhttps://rav
+ e.wien/e/2024-08-16-rosarot-by-gesindel-der-nacht-x-pink-mayhem
+URL:https://rave.wien/e/2024-08-16-rosarot-by-gesindel-der-nacht-x-pink-m
+ ayhem
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-10-gesindel-der-nacht-2-floors-4-one-price@rave.wien
+DTSTAMP:20250110T000000Z
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+SUMMARY:Gesindel der Nacht – 2 floors 4 one price
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Gesindel der Nacht\n\nhttps://rave.wien/e/2025-
+ 01-10-gesindel-der-nacht-2-floors-4-one-price
+URL:https://rave.wien/e/2025-01-10-gesindel-der-nacht-2-floors-4-one-price
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-24-nachtschub-by-gesindel-der-nacht@rave.wien
+DTSTAMP:20250124T000000Z
+DTSTART;VALUE=DATE:20250124
+DTEND;VALUE=DATE:20250125
+SUMMARY:NACHTSCHUB by Gesindel der Nacht
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Nachtschub\, Gesindel der Nacht\n\nhttps://rave
+ .wien/e/2025-01-24-nachtschub-by-gesindel-der-nacht
+URL:https://rave.wien/e/2025-01-24-nachtschub-by-gesindel-der-nacht
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-08-gesindel-der-nacht@rave.wien
+DTSTAMP:20250208T000000Z
+DTSTART;VALUE=DATE:20250208
+DTEND;VALUE=DATE:20250209
+SUMMARY:Gesindel der Nacht
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Gesindel der Nacht\n\nhttps://rave.wien/e/2025-
+ 02-08-gesindel-der-nacht
+URL:https://rave.wien/e/2025-02-08-gesindel-der-nacht
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-14-bouncylicious-w-durdenhauer-pres-by-gdn@rave.wien
+DTSTAMP:20250314T000000Z
+DTSTART;VALUE=DATE:20250314
+DTEND;VALUE=DATE:20250315
+SUMMARY:BOUNCYLICIOUS w/ DURDENHAUER pres. by GDN
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Durdenhauer\nVeranstalter: GDN\, Bouncylicious\n\nhttps://rav
+ e.wien/e/2025-03-14-bouncylicious-w-durdenhauer-pres-by-gdn
+URL:https://rave.wien/e/2025-03-14-bouncylicious-w-durdenhauer-pres-by-gdn
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-28-labelnacht-with-prydie-pres-by-gdn@rave.wien
+DTSTAMP:20250328T000000Z
+DTSTART;VALUE=DATE:20250328
+DTEND;VALUE=DATE:20250329
+SUMMARY:LABELNACHT with Prydie pres. by GDN
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Prydie\nVeranstalter: GDN\n\nhttps://rave.wien/e/2025-03-28-l
+ abelnacht-with-prydie-pres-by-gdn
+URL:https://rave.wien/e/2025-03-28-labelnacht-with-prydie-pres-by-gdn
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-19-dead-end-showcase-pres-by-gesindel-der-nacht@rave.wien
+DTSTAMP:20250719T000000Z
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+SUMMARY:DEAD END showcase pres. by Gesindel der Nacht
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Gesindel der Nacht\n\nhttps://rave.wien/e/2025-
+ 07-19-dead-end-showcase-pres-by-gesindel-der-nacht
+URL:https://rave.wien/e/2025-07-19-dead-end-showcase-pres-by-gesindel-der
+ -nacht
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-08-rosarot-pres-by-gdn-x-pink-mayhem@rave.wien
+DTSTAMP:20250808T000000Z
+DTSTART;VALUE=DATE:20250808
+DTEND;VALUE=DATE:20250809
+SUMMARY:ROSAROT pres. by GDN x Pink Mayhem
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: GDN\, Pink Mayhem\n\nhttps://rave.wien/e/2025-0
+ 8-08-rosarot-pres-by-gdn-x-pink-mayhem
+URL:https://rave.wien/e/2025-08-08-rosarot-pres-by-gdn-x-pink-mayhem
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-26-nachtschub-with-hnas-de-presented-by-gdn@rave.wien
+DTSTAMP:20250926T000000Z
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250927
+SUMMARY:NACHTSCHUB with HNAS (DE) presented by GDN
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:HNAS\nVeranstalter: Nachtschub\, GDN\n\nhttps://rave.wien/e/2
+ 025-09-26-nachtschub-with-hnas-de-presented-by-gdn
+URL:https://rave.wien/e/2025-09-26-nachtschub-with-hnas-de-presented-by-g
+ dn
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-24-gdn-pres-labelnacht-with-prydie-leonard-palm@rave.wien
+DTSTAMP:20251024T000000Z
+DTSTART;VALUE=DATE:20251024
+DTEND;VALUE=DATE:20251025
+SUMMARY:GDN pres. LABELNACHT with PRYDIE & Leonard Palm
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Prydie\, Leonard Palm\nVeranstalter: GDN\n\nhttps://rave.wien
+ /e/2025-10-24-gdn-pres-labelnacht-with-prydie-leonard-palm
+URL:https://rave.wien/e/2025-10-24-gdn-pres-labelnacht-with-prydie-leonar
+ d-palm
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-23-night-of-acid-techno-gdn-invites-dur-x-weird-plan@rave.wien
+DTSTAMP:20260523T000000Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:Night of Acid Techno – GDN invites DUR x WEIRD PLANET
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:DUR\, Weird Planet\nVeranstalter: GDN\n\nhttps://rave.wien/e/
+ 2026-05-23-night-of-acid-techno-gdn-invites-dur-x-weird-plan
+URL:https://rave.wien/e/2026-05-23-night-of-acid-techno-gdn-invites-dur-x
+ -weird-plan
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-03-dead-end-showcase-with-paralich-pres-by-gdn@rave.wien
+DTSTAMP:20260703T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:DEAD END showcase with Paralich pres. by GDN
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Paralich\nVeranstalter: GDN\n\nhttps://rave.wien/e/2026-07-03
+ -dead-end-showcase-with-paralich-pres-by-gdn
+URL:https://rave.wien/e/2026-07-03-dead-end-showcase-with-paralich-pres-b
+ y-gdn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-18-bouncylicious-by-gdn@rave.wien
+DTSTAMP:20260718T000000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:BOUNCYLICIOUS by GDN
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: GDN\, Bouncylicious\n\nhttps://rave.wien/e/2026
+ -07-18-bouncylicious-by-gdn
+URL:https://rave.wien/e/2026-07-18-bouncylicious-by-gdn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-gdn-klubnacht-with-golpe@rave.wien
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:GDN KLUBNACHT with Golpe
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Golpe\nVeranstalter: GDN\n\nhttps://rave.wien/e/2026-10-02-gd
+ n-klubnacht-with-golpe
+URL:https://rave.wien/e/2026-10-02-gdn-klubnacht-with-golpe
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-gdn-klubnacht-w-tham@rave.wien
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Vienna:20261106T230000

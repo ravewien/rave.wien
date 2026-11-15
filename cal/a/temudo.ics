@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-20-fish-market-x-holey-feat-temudo-u-a@rave.wien
+DTSTAMP:20260220T000000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:FISH MARKET x HOLEY feat. TEMUDO u.a.
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Temudo\nVeranstalter: Fish Market\n\nhttps://rave.wien/e/2026
+ -02-20-fish-market-x-holey-feat-temudo-u-a
+URL:https://rave.wien/e/2026-02-20-fish-market-x-holey-feat-temudo-u-a
+END:VEVENT
 END:VCALENDAR

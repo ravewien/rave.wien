@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-07-10-purrr-x-justin-the-lover@rave.wien
+DTSTAMP:20260710T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Purrr x Justin the Lover
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Justin the Lover\n\nhttps://rave.wien/e/2026-07-10-purrr-x-ju
+ stin-the-lover
+URL:https://rave.wien/e/2026-07-10-purrr-x-justin-the-lover
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,70 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-01-06-homebase-x-fabrika@rave.wien
+DTSTAMP:20240106T000000Z
+DTSTART;VALUE=DATE:20240106
+DTEND;VALUE=DATE:20240107
+SUMMARY:Homebase x Fabrika
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Homebase\n\nhttps://rave.wien/e/2024-01-06-home
+ base-x-fabrika
+URL:https://rave.wien/e/2024-01-06-homebase-x-fabrika
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-03-homebase-with-andy-catana-mddb-sharp@rave.wien
+DTSTAMP:20240803T000000Z
+DTSTART;VALUE=DATE:20240803
+DTEND;VALUE=DATE:20240804
+SUMMARY:Homebase with Andy Catana\, MDDB\, Sharp
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Andy Catana\, MDDB\, Sharp\nVeranstalter: Homebase\n\nhttps:/
+ /rave.wien/e/2024-08-03-homebase-with-andy-catana-mddb-sharp
+URL:https://rave.wien/e/2024-08-03-homebase-with-andy-catana-mddb-sharp
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-24-homebase@rave.wien
+DTSTAMP:20251024T000000Z
+DTSTART;VALUE=DATE:20251024
+DTEND;VALUE=DATE:20251025
+SUMMARY:homebase
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Homebase\n\nhttps://rave.wien/e/2025-10-24-home
+ base
+URL:https://rave.wien/e/2025-10-24-homebase
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-04-homebase-w-veronika-amie@rave.wien
+DTSTAMP:20251104T000000Z
+DTSTART;VALUE=DATE:20251104
+DTEND;VALUE=DATE:20251105
+SUMMARY:Homebase w/ Veronika Amie
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veronika Amie\nVeranstalter: Homebase\n\nhttps://rave.wien/e/
+ 2025-11-04-homebase-w-veronika-amie
+URL:https://rave.wien/e/2025-11-04-homebase-w-veronika-amie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-17-homebase@rave.wien
+DTSTAMP:20260117T000000Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:homebase
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Homebase\n\nhttps://rave.wien/e/2026-01-17-home
+ base
+URL:https://rave.wien/e/2026-01-17-homebase
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-26-homebase-w-breezl-sublee@rave.wien
+DTSTAMP:20260626T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Homebase w/ Breezl\, Sublee
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Breezl\, Sublee\nVeranstalter: Homebase\n\nhttps://rave.wien/
+ e/2026-06-26-homebase-w-breezl-sublee
+URL:https://rave.wien/e/2026-06-26-homebase-w-breezl-sublee
+END:VEVENT
 END:VCALENDAR

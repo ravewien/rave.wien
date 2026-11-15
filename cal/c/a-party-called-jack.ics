@@ -25,4 +25,163 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-29-a-party-called-jack@rave.wien
+DTSTAMP:20240629T000000Z
+DTSTART;VALUE=DATE:20240629
+DTEND;VALUE=DATE:20240630
+SUMMARY:A party called JACK
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: A Party Called Jack\n\nhttps://rave.wien/e/2024
+ -06-29-a-party-called-jack
+URL:https://rave.wien/e/2024-06-29-a-party-called-jack
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-14-a-party-called-jack@rave.wien
+DTSTAMP:20240814T000000Z
+DTSTART;VALUE=DATE:20240814
+DTEND;VALUE=DATE:20240815
+SUMMARY:A Party Called Jack
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: A Party Called Jack\n\nhttps://rave.wien/e/2024
+ -08-14-a-party-called-jack
+URL:https://rave.wien/e/2024-08-14-a-party-called-jack
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-14-a-party-called-jack@rave.wien
+DTSTAMP:20240914T000000Z
+DTSTART;VALUE=DATE:20240914
+DTEND;VALUE=DATE:20240915
+SUMMARY:A Party Called JACK
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: A Party Called Jack\n\nhttps://rave.wien/e/2024
+ -09-14-a-party-called-jack
+URL:https://rave.wien/e/2024-09-14-a-party-called-jack
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-18-elektro-guzzi-a-party-called-jack@rave.wien
+DTSTAMP:20241018T000000Z
+DTSTART;VALUE=DATE:20241018
+DTEND;VALUE=DATE:20241019
+SUMMARY:Elektro Guzzi & A Party Called JACK
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: A Party Called Jack\n\nhttps://rave.wien/e/2024
+ -10-18-elektro-guzzi-a-party-called-jack
+URL:https://rave.wien/e/2024-10-18-elektro-guzzi-a-party-called-jack
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-09-a-party-called-jack@rave.wien
+DTSTAMP:20241109T000000Z
+DTSTART;VALUE=DATE:20241109
+DTEND;VALUE=DATE:20241110
+SUMMARY:A Party Called Jack
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: A Party Called Jack\n\nhttps://rave.wien/e/2024
+ -11-09-a-party-called-jack
+URL:https://rave.wien/e/2024-11-09-a-party-called-jack
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-14-a-party-called-jack@rave.wien
+DTSTAMP:20241214T000000Z
+DTSTART;VALUE=DATE:20241214
+DTEND;VALUE=DATE:20241215
+SUMMARY:A Party called Jack
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: A Party Called Jack\n\nhttps://rave.wien/e/2024
+ -12-14-a-party-called-jack
+URL:https://rave.wien/e/2024-12-14-a-party-called-jack
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-22-a-party-called-jack-6th-anniversary@rave.wien
+DTSTAMP:20250322T000000Z
+DTSTART;VALUE=DATE:20250322
+DTEND;VALUE=DATE:20250323
+SUMMARY:A party called JACK „6th Anniversary“
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: A Party Called Jack\n\nhttps://rave.wien/e/2025
+ -03-22-a-party-called-jack-6th-anniversary
+URL:https://rave.wien/e/2025-03-22-a-party-called-jack-6th-anniversary
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-27-a-party-called-jack-decks-dialogues@rave.wien
+DTSTAMP:20250427T000000Z
+DTSTART;VALUE=DATE:20250427
+DTEND;VALUE=DATE:20250428
+SUMMARY:A party called JACK: Decks & Dialogues
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: A Party Called Jack\n\nhttps://rave.wien/e/2025
+ -04-27-a-party-called-jack-decks-dialogues
+URL:https://rave.wien/e/2025-04-27-a-party-called-jack-decks-dialogues
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-03-a-party-called-jack@rave.wien
+DTSTAMP:20250503T000000Z
+DTSTART;VALUE=DATE:20250503
+DTEND;VALUE=DATE:20250504
+SUMMARY:A Party Called Jack
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: A Party Called Jack\n\nhttps://rave.wien/e/2025
+ -05-03-a-party-called-jack
+URL:https://rave.wien/e/2025-05-03-a-party-called-jack
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-28-a-party-called-jack-part-two-summer-madness@rave.wien
+DTSTAMP:20250628T000000Z
+DTSTART;VALUE=DATE:20250628
+DTEND;VALUE=DATE:20250629
+SUMMARY:A party called JACK – part two Summer Madness
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: A Party Called Jack\n\nhttps://rave.wien/e/2025
+ -06-28-a-party-called-jack-part-two-summer-madness
+URL:https://rave.wien/e/2025-06-28-a-party-called-jack-part-two-summer-ma
+ dness
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-08-a-party-called-jack@rave.wien
+DTSTAMP:20251108T000000Z
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
+SUMMARY:A party called JACK
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: A Party Called Jack\n\nhttps://rave.wien/e/2025
+ -11-08-a-party-called-jack
+URL:https://rave.wien/e/2025-11-08-a-party-called-jack
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-13-a-party-called-jack-7-year-anniversary@rave.wien
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:A party called JACK: 7 YEAR ANNIVERSARY
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: A Party Called Jack\n\nhttps://rave.wien/e/2026
+ -03-13-a-party-called-jack-7-year-anniversary
+URL:https://rave.wien/e/2026-03-13-a-party-called-jack-7-year-anniversary
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-22-an-r-n-b-party-called-jack@rave.wien
+DTSTAMP:20260822T000000Z
+DTSTART;TZID=Europe/Vienna:20260822T220000
+DTEND;TZID=Europe/Vienna:20260823T030000
+SUMMARY:An R’n’B party called JACK
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Flo Real\, JP Bechamel\, Kor1n\, Sora\nVeranstalter: A Party 
+ Called Jack\n\n„Midnight Wine“ Dance-Workshop mit Andrea Vezga Aceve
+ do\n\nhttps://rave.wien/e/2026-08-22-an-r-n-b-party-called-jack
+URL:https://rave.wien/e/2026-08-22-an-r-n-b-party-called-jack
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-a-party-called-jack@rave.wien
+DTSTAMP:20261017T000000Z
+DTSTART;TZID=Europe/Vienna:20261017T220000
+DTEND;TZID=Europe/Vienna:20261018T030000
+SUMMARY:A party called JACK
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Altroy Jerome\, JP Bechamel\, The Zees\, Sora\, Cynthia Cee\n
+ Veranstalter: A Party Called Jack\nEintritt: 12 € vor Mitternacht / 15
+  € danach\n\nDance-Workshop mit Farah Deen\; Live-Vocals von Cynthia C
+ ee\; JACK Resident-DJs\n\nhttps://rave.wien/e/2026-10-17-a-party-called-
+ jack
+URL:https://rave.wien/e/2026-10-17-a-party-called-jack
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-08-29-civic-body-control-reloaded@rave.wien
+DTSTAMP:20260829T000000Z
+DTSTART;TZID=Europe/Vienna:20260829T230000
+DTEND;TZID=Europe/Vienna:20260830T040000
+SUMMARY:CIVIC: Body Control Reloaded
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Menessy\, Gridlock\, Dj Wifi\nVeranstalter: CIVIC\n\nhttps://
+ rave.wien/e/2026-08-29-civic-body-control-reloaded
+URL:https://rave.wien/e/2026-08-29-civic-body-control-reloaded
+END:VEVENT
 END:VCALENDAR

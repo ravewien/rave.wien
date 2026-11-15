@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-06-05-night-vg-w-lottie-lara-lerro-virgilio-monti-pjpjp@rave.wien
+DTSTAMP:20260605T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:*NIGHT* VG+ / w. Lottie\, Lara\, Lerro\, Virgilio\, Monti\, PJPJPJ
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Lottie\, Lara\, Lerro\, Virgilio\, Monti\, PJPJPJ\n\nhttps://
+ rave.wien/e/2026-06-05-night-vg-w-lottie-lara-lerro-virgilio-monti-pjpjp
+URL:https://rave.wien/e/2026-06-05-night-vg-w-lottie-lara-lerro-virgilio-
+ monti-pjpjp
+END:VEVENT
 END:VCALENDAR

@@ -41,4 +41,48 @@ DESCRIPTION:Djane Stone\, DJ Zidi\, Lucy Bakanal\, DJ Off Duty\nVeranstal
  l-22
 URL:https://rave.wien/e/2026-11-14-auslander-haus-vol-22
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-18-auslander-haus-vol-10@rave.wien
+DTSTAMP:20251018T000000Z
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251019
+SUMMARY:Ausländer Haus! Vol 10
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Ausländer Haus\n\nhttps://rave.wien/e/2025-10-
+ 18-auslander-haus-vol-10
+URL:https://rave.wien/e/2025-10-18-auslander-haus-vol-10
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-01-auslander-haus-vol-11@rave.wien
+DTSTAMP:20251101T000000Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251102
+SUMMARY:Ausländer Haus Vol 11
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Ausländer Haus\n\nhttps://rave.wien/e/2025-11-
+ 01-auslander-haus-vol-11
+URL:https://rave.wien/e/2025-11-01-auslander-haus-vol-11
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-31-auslander-haus-vol-14@rave.wien
+DTSTAMP:20260131T000000Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Ausländer Haus Vol 14
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Ausländer Haus\n\nhttps://rave.wien/e/2026-01-
+ 31-auslander-haus-vol-14
+URL:https://rave.wien/e/2026-01-31-auslander-haus-vol-14
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-14-auslander-haus-vol-16@rave.wien
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:Ausländer Haus vol 16
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Ausländer Haus\n\nhttps://rave.wien/e/2026-03-
+ 14-auslander-haus-vol-16
+URL:https://rave.wien/e/2026-03-14-auslander-haus-vol-16
+END:VEVENT
 END:VCALENDAR

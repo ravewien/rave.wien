@@ -25,4 +25,116 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-04-27-straat-264@rave.wien
+DTSTAMP:20240427T000000Z
+DTSTART;VALUE=DATE:20240427
+DTEND;VALUE=DATE:20240428
+SUMMARY:STRAAT 264
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Straat 264\n\nhttps://rave.wien/e/2024-04-27-st
+ raat-264
+URL:https://rave.wien/e/2024-04-27-straat-264
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-29-straat-264-w-dj-hyperdrive@rave.wien
+DTSTAMP:20240529T000000Z
+DTSTART;VALUE=DATE:20240529
+DTEND;VALUE=DATE:20240530
+SUMMARY:STRAAT 264 w/ DJ Hyperdrive
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DJ Hyperdrive\nVeranstalter: Straat 264\n\nhttps://rave.wien/
+ e/2024-05-29-straat-264-w-dj-hyperdrive
+URL:https://rave.wien/e/2024-05-29-straat-264-w-dj-hyperdrive
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-31-straat-264@rave.wien
+DTSTAMP:20240831T000000Z
+DTSTART;VALUE=DATE:20240831
+DTEND;VALUE=DATE:20240901
+SUMMARY:STRAAT 264
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Straat 264\n\nhttps://rave.wien/e/2024-08-31-st
+ raat-264
+URL:https://rave.wien/e/2024-08-31-straat-264
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-22-straat-264@rave.wien
+DTSTAMP:20241122T000000Z
+DTSTART;VALUE=DATE:20241122
+DTEND;VALUE=DATE:20241123
+SUMMARY:STRAAT 264
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Straat 264\n\nhttps://rave.wien/e/2024-11-22-st
+ raat-264
+URL:https://rave.wien/e/2024-11-22-straat-264
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-08-straat-264@rave.wien
+DTSTAMP:20250208T000000Z
+DTSTART;VALUE=DATE:20250208
+DTEND;VALUE=DATE:20250209
+SUMMARY:STRAAT 264
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Straat 264\n\nhttps://rave.wien/e/2025-02-08-st
+ raat-264
+URL:https://rave.wien/e/2025-02-08-straat-264
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-11-straat-264@rave.wien
+DTSTAMP:20250411T000000Z
+DTSTART;VALUE=DATE:20250411
+DTEND;VALUE=DATE:20250412
+SUMMARY:STRAAT 264
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Straat 264\n\nhttps://rave.wien/e/2025-04-11-st
+ raat-264
+URL:https://rave.wien/e/2025-04-11-straat-264
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-20-straat-264@rave.wien
+DTSTAMP:20250620T000000Z
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+SUMMARY:STRAAT 264
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Straat 264\n\nhttps://rave.wien/e/2025-06-20-st
+ raat-264
+URL:https://rave.wien/e/2025-06-20-straat-264
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-29-straat-264-with-narciss-dj-feuerdrache-cufme-dj-s@rave.wien
+DTSTAMP:20251129T000000Z
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:Straat 264 with Narciss\, DJ Feuerdrache\, Cufme & DJ Schnelltest
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Narciss\, DJ Feuerdrache\, Cufme\, DJ Schnelltest\nVeranstalt
+ er: Straat 264\n\nhttps://rave.wien/e/2025-11-29-straat-264-with-narciss
+ -dj-feuerdrache-cufme-dj-s
+URL:https://rave.wien/e/2025-11-29-straat-264-with-narciss-dj-feuerdrache
+ -cufme-dj-s
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-07-straat-264@rave.wien
+DTSTAMP:20260207T000000Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:STRAAT 264
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Straat 264\n\nhttps://rave.wien/e/2026-02-07-st
+ raat-264
+URL:https://rave.wien/e/2026-02-07-straat-264
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-30-straat-264-x-vnv-w-dax-j-hyperaktivist@rave.wien
+DTSTAMP:20260530T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:STRAAT 264 x VNV w/ DAX J & Hyperaktivist
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Dax J\, Hyperaktivist\nVeranstalter: Straat 264\, VNV\n\nhttp
+ s://rave.wien/e/2026-05-30-straat-264-x-vnv-w-dax-j-hyperaktivist
+URL:https://rave.wien/e/2026-05-30-straat-264-x-vnv-w-dax-j-hyperaktivist
+END:VEVENT
 END:VCALENDAR

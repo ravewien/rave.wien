@@ -26,6 +26,28 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-04-11-soularium-x-donnerstanz@rave.wien
+DTSTAMP:20240411T000000Z
+DTSTART;VALUE=DATE:20240411
+DTEND;VALUE=DATE:20240412
+SUMMARY:Soularium x Donnerstanz
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Soularium\n\nhttps://rave.wien/e/2024-04-11-sou
+ larium-x-donnerstanz
+URL:https://rave.wien/e/2024-04-11-soularium-x-donnerstanz
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-02-soularium-x-808-factory@rave.wien
+DTSTAMP:20240502T000000Z
+DTSTART;VALUE=DATE:20240502
+DTEND;VALUE=DATE:20240503
+SUMMARY:Soularium x 808 Factory
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Soularium\n\nhttps://rave.wien/e/2024-05-02-sou
+ larium-x-808-factory
+URL:https://rave.wien/e/2024-05-02-soularium-x-808-factory
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-soularium-w-santo@rave.wien
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Vienna:20261106T230000

@@ -25,4 +25,37 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-09-26-playdate-launch-party@rave.wien
+DTSTAMP:20240926T000000Z
+DTSTART;VALUE=DATE:20240926
+DTEND;VALUE=DATE:20240927
+SUMMARY:Playdate: Launch Party
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Playdate\n\nhttps://rave.wien/e/2024-09-26-play
+ date-launch-party
+URL:https://rave.wien/e/2024-09-26-playdate-launch-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-01-playdate-111-special@rave.wien
+DTSTAMP:20241101T000000Z
+DTSTART;VALUE=DATE:20241101
+DTEND;VALUE=DATE:20241102
+SUMMARY:PLAYDATE: 111 Special
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Playdate\n\nhttps://rave.wien/e/2024-11-01-play
+ date-111-special
+URL:https://rave.wien/e/2024-11-01-playdate-111-special
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-02-playdate-maydate-with-bailey-ibbs@rave.wien
+DTSTAMP:20250502T000000Z
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250503
+SUMMARY:Playdate: MAYDATE with Bailey Ibbs
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Bailey Ibbs\nVeranstalter: Playdate\n\nhttps://rave.wien/e/20
+ 25-05-02-playdate-maydate-with-bailey-ibbs
+URL:https://rave.wien/e/2025-05-02-playdate-maydate-with-bailey-ibbs
+END:VEVENT
 END:VCALENDAR

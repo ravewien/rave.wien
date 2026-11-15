@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-10-31-halloween-w-chlar-vera-grace@rave.wien
+DTSTAMP:20251031T000000Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Halloween w/ Chlär & Vera Grace
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Chlär\, Vera Grace\n\nhttps://rave.wien/e/2025-10-31-hallowe
+ en-w-chlar-vera-grace
+URL:https://rave.wien/e/2025-10-31-halloween-w-chlar-vera-grace
+END:VEVENT
 END:VCALENDAR

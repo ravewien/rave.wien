@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-03-12-united-battle-culture-session-02@rave.wien
+DTSTAMP:20260312T000000Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:United Battle Culture – Session #02
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Davie Jones\, Tyler Bourbon\, Mamo\, Musio\, Joshy\, Brombeer
+ en Ben\n\nhttps://rave.wien/e/2026-03-12-united-battle-culture-session-0
+ 2
+URL:https://rave.wien/e/2026-03-12-united-battle-culture-session-02
+END:VEVENT
 END:VCALENDAR

@@ -42,6 +42,107 @@ DESCRIPTION:Vivid\nVeranstalter: Frieden & Liebe\nEintritt: 10–15 €\n
 URL:https://rave.wien/e/2026-11-27-vivid-frieden-liebe
 END:VEVENT
 BEGIN:VEVENT
+UID:2024-10-19-frieden-liebe-x-du-tanzt-mich-mal-with-kepler-uk@rave.wien
+DTSTAMP:20241019T000000Z
+DTSTART;VALUE=DATE:20241019
+DTEND;VALUE=DATE:20241020
+SUMMARY:Frieden & Liebe X Du Tanzt Mich Mal with Kepler (UK)
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Kepler\nVeranstalter: Frieden & Liebe\n\nhttps://rave.wien/e/
+ 2024-10-19-frieden-liebe-x-du-tanzt-mich-mal-with-kepler-uk
+URL:https://rave.wien/e/2024-10-19-frieden-liebe-x-du-tanzt-mich-mal-with
+ -kepler-uk
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-25-vivid@rave.wien
+DTSTAMP:20250425T000000Z
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250426
+SUMMARY:vivid
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Frieden & Liebe\n\nhttps://rave.wien/e/2025-04-
+ 25-vivid
+URL:https://rave.wien/e/2025-04-25-vivid
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-20-vivid@rave.wien
+DTSTAMP:20250620T000000Z
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+SUMMARY:vivid
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Frieden & Liebe\n\nhttps://rave.wien/e/2025-06-
+ 20-vivid
+URL:https://rave.wien/e/2025-06-20-vivid
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-05-morgengymnastik-w-frieden-und-liebe@rave.wien
+DTSTAMP:20251005T000000Z
+DTSTART;VALUE=DATE:20251005
+DTEND;VALUE=DATE:20251006
+SUMMARY:Morgengymnastik w/Frieden und Liebe
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Frieden\, Liebe\nVeranstalter: Morgengymnastik\, Frieden & Li
+ ebe\n\nhttps://rave.wien/e/2025-10-05-morgengymnastik-w-frieden-und-lieb
+ e
+URL:https://rave.wien/e/2025-10-05-morgengymnastik-w-frieden-und-liebe
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-12-vivid-by-frieden-und-liebe@rave.wien
+DTSTAMP:20251212T000000Z
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251213
+SUMMARY:vivid by frieden und liebe
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Frieden & Liebe\n\nhttps://rave.wien/e/2025-12-
+ 12-vivid-by-frieden-und-liebe
+URL:https://rave.wien/e/2025-12-12-vivid-by-frieden-und-liebe
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-24-vivid@rave.wien
+DTSTAMP:20260124T000000Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:vivid
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Frieden & Liebe\n\nhttps://rave.wien/e/2026-01-
+ 24-vivid
+URL:https://rave.wien/e/2026-01-24-vivid
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-20-vivid-w-isi@rave.wien
+DTSTAMP:20260320T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:VIVID w/ISI
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:ISI\nVeranstalter: Frieden & Liebe\n\nhttps://rave.wien/e/202
+ 6-03-20-vivid-w-isi
+URL:https://rave.wien/e/2026-03-20-vivid-w-isi
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-27-vivid-by-frieden-und-liebe@rave.wien
+DTSTAMP:20260627T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:vivid by frieden und liebe
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Frieden & Liebe\n\nhttps://rave.wien/e/2026-06-
+ 27-vivid-by-frieden-und-liebe
+URL:https://rave.wien/e/2026-06-27-vivid-by-frieden-und-liebe
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-vivid-by-frieden-liebe@rave.wien
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Vivid by Frieden & Liebe
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Frieden & Liebe\n\nhttps://rave.wien/e/2026-10-
+ 03-vivid-by-frieden-liebe
+URL:https://rave.wien/e/2026-10-03-vivid-by-frieden-liebe
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-voyage-with-carl-h@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T230000

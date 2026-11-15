@@ -26,6 +26,30 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-05-11-tattu-tatta-glub-glub-hotline@rave.wien
+DTSTAMP:20240511T000000Z
+DTSTART;TZID=Europe/Vienna:20240511T230000
+DTEND;TZID=Europe/Vienna:20240512T040000
+SUMMARY:Tattu Tatta Glub | Glub Hotline
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Babybens\, Dj Wenzel\, Dj Https\, Rebekah Abdeen\, Serafin\, 
+ DJ Shady MF\, Dream DJ Team\nVeranstalter: Tattu Tatta Glub\n\nhttps://r
+ ave.wien/e/2024-05-11-tattu-tatta-glub-glub-hotline
+URL:https://rave.wien/e/2024-05-11-tattu-tatta-glub-glub-hotline
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-28-tattu-tatta-glub-polyamor@rave.wien
+DTSTAMP:20240928T000000Z
+DTSTART;TZID=Europe/Vienna:20240928T230000
+DTEND;TZID=Europe/Vienna:20240929T040000
+SUMMARY:Tattu Tatta Glub & Polyamor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:UHD\, ALIS.\, Vivienna\, Bitschu Batschu\, Cleopard2000\, Heg
+ gemann\, DJ Shady MF\, Anna Ullrich\nVeranstalter: Tattu Tatta Glub\, Po
+ lyamor\n\nhttps://rave.wien/e/2024-09-28-tattu-tatta-glub-polyamor
+URL:https://rave.wien/e/2024-09-28-tattu-tatta-glub-polyamor
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-hardline-purge-night-a-halloween-special@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T200000

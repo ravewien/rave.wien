@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-12-20-red-groove-social-club-w-slashy-disco@rave.wien
+DTSTAMP:20251220T000000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:Red Groove Social Club w/ Slashy Disco
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Slashy Disco\nVeranstalter: Red Groove Social Club\n\nhttps:/
+ /rave.wien/e/2025-12-20-red-groove-social-club-w-slashy-disco
+URL:https://rave.wien/e/2025-12-20-red-groove-social-club-w-slashy-disco
+END:VEVENT
 END:VCALENDAR

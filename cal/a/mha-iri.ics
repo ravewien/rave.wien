@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-01-24-purradox-w-mha-iri@rave.wien
+DTSTAMP:20260124T000000Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:Purradox w/ Mha Iri
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mha Iri\nVeranstalter: Purradox\n\nhttps://rave.wien/e/2026-0
+ 1-24-purradox-w-mha-iri
+URL:https://rave.wien/e/2026-01-24-purradox-w-mha-iri
+END:VEVENT
 END:VCALENDAR

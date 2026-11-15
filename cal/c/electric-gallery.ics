@@ -25,4 +25,60 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-26-electric-gallery@rave.wien
+DTSTAMP:20250626T000000Z
+DTSTART;VALUE=DATE:20250626
+DTEND;VALUE=DATE:20250627
+SUMMARY:Electric Gallery
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Electric Gallery\n\nhttps://rave.wien/e/2025-06
+ -26-electric-gallery
+URL:https://rave.wien/e/2025-06-26-electric-gallery
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-02-electric-gallery@rave.wien
+DTSTAMP:20251002T000000Z
+DTSTART;VALUE=DATE:20251002
+DTEND;VALUE=DATE:20251003
+SUMMARY:Electric Gallery
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Electric Gallery\n\nhttps://rave.wien/e/2025-10
+ -02-electric-gallery
+URL:https://rave.wien/e/2025-10-02-electric-gallery
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-18-electric-gallery@rave.wien
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Electric Gallery
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Electric Gallery\n\nhttps://rave.wien/e/2026-04
+ -18-electric-gallery
+URL:https://rave.wien/e/2026-04-18-electric-gallery
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-30-electric-gallery-solidarity-disco-by-lsh@rave.wien
+DTSTAMP:20260430T000000Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Electric Gallery – Solidarity Disco by LSH
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Veranstalter: LSH\, Electric Gallery\n\nhttps://rave.wien/e/2
+ 026-04-30-electric-gallery-solidarity-disco-by-lsh
+URL:https://rave.wien/e/2026-04-30-electric-gallery-solidarity-disco-by-l
+ sh
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-07-electric-gallery-by-lsh@rave.wien
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:Electric Gallery by LSH
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: LSH\, Electric Gallery\n\nhttps://rave.wien/e/2
+ 026-05-07-electric-gallery-by-lsh
+URL:https://rave.wien/e/2026-05-07-electric-gallery-by-lsh
+END:VEVENT
 END:VCALENDAR

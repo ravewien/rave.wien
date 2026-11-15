@@ -25,4 +25,40 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-07-19-in-love-xoxo-rec-yn-raves-cosa-constance-rave-on@rave.wien
+DTSTAMP:20250719T000000Z
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+SUMMARY:IN LOVE / XOXO REC. YN RAVES\, COSA CONSTANCE\, Rave on Society\,
+  You&Me
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rave On Society\, YN Collective\, In Love\n\nht
+ tps://rave.wien/e/2025-07-19-in-love-xoxo-rec-yn-raves-cosa-constance-ra
+ ve-on
+URL:https://rave.wien/e/2025-07-19-in-love-xoxo-rec-yn-raves-cosa-constan
+ ce-rave-on
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-16-in-love-xoxo-rec-soundlabs-withthelove@rave.wien
+DTSTAMP:20250816T000000Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+SUMMARY:IN LOVE | XOXO REC. & SOUNDLABS & WITHTHELOVE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Soundlabs\, In Love\n\nhttps://rave.wien/e/2025
+ -08-16-in-love-xoxo-rec-soundlabs-withthelove
+URL:https://rave.wien/e/2025-08-16-in-love-xoxo-rec-soundlabs-withthelove
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-31-in-love-x-sound-sound@rave.wien
+DTSTAMP:20260131T000000Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:IN LOVE x SOUND SOUND
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: In Love\n\nhttps://rave.wien/e/2026-01-31-in-lo
+ ve-x-sound-sound
+URL:https://rave.wien/e/2026-01-31-in-love-x-sound-sound
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-10-loop-2026-maximum-rave-since-1993@rave.wien
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Europe/Vienna:20261010T230000
+DTEND;TZID=Europe/Vienna:20261011T040000
+SUMMARY:LOOP 2026 – Maximum Rave since 1993
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Dan Lodig\, Glow\, Patrick Pulsinger\, Pure\nVeranstalter: LO
+ OP\n\nhttps://rave.wien/e/2026-10-10-loop-2026-maximum-rave-since-1993
+URL:https://rave.wien/e/2026-10-10-loop-2026-maximum-rave-since-1993
+END:VEVENT
 END:VCALENDAR

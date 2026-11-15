@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-03-02-between-us-w-maurice-fulton@rave.wien
+DTSTAMP:20240302T000000Z
+DTSTART;VALUE=DATE:20240302
+DTEND;VALUE=DATE:20240303
+SUMMARY:Between Us w/ Maurice Fulton
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Maurice Fulton\nVeranstalter: Between Us\n\nhttps://rave.wien
+ /e/2024-03-02-between-us-w-maurice-fulton
+URL:https://rave.wien/e/2024-03-02-between-us-w-maurice-fulton
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-01-31-housetiere-mit-manon@rave.wien
+DTSTAMP:20260131T000000Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Housetiere mit Manon
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Manon\nVeranstalter: Housetiere\n\nhttps://rave.wien/e/2026-0
+ 1-31-housetiere-mit-manon
+URL:https://rave.wien/e/2026-01-31-housetiere-mit-manon
+END:VEVENT
 END:VCALENDAR

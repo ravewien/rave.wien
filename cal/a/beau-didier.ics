@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-01-03-mahlwerk-presents-beau-didier@rave.wien
+DTSTAMP:20250103T000000Z
+DTSTART;VALUE=DATE:20250103
+DTEND;VALUE=DATE:20250104
+SUMMARY:MAHLWERK presents Beau Didier
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Beau Didier\nVeranstalter: Mahlwerk\n\nhttps://rave.wien/e/20
+ 25-01-03-mahlwerk-presents-beau-didier
+URL:https://rave.wien/e/2025-01-03-mahlwerk-presents-beau-didier
+END:VEVENT
 END:VCALENDAR

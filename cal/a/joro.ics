@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-01-31-flasback-techno-classics-back2back-session@rave.wien
+DTSTAMP:20260131T000000Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:FLASBACK „Techno Classics“ BACK2BACK Session
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Joro\, Mela Leone\, Rokis\, Tom Snow\, Peter Pan\, Martin Oel
+ z\, MC Mars\, MC Spot\, Romen Est Omen\, Hanneken\, PA_olo\nVeranstalter
+ : Flashback\n\nhttps://rave.wien/e/2026-01-31-flasback-techno-classics-b
+ ack2back-session
+URL:https://rave.wien/e/2026-01-31-flasback-techno-classics-back2back-ses
+ sion
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-06-05-psytrance-universe-with-electric-universe@rave.wien
+DTSTAMP:20260605T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:PSYTRANCE UNIVERSE with Electric Universe
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Electric Universe\nVeranstalter: Psytrance Universe\n\nhttps:
+ //rave.wien/e/2026-06-05-psytrance-universe-with-electric-universe
+URL:https://rave.wien/e/2026-06-05-psytrance-universe-with-electric-unive
+ rse
+END:VEVENT
 END:VCALENDAR

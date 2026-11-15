@@ -43,4 +43,17 @@ DESCRIPTION:Main Floor: CREEDS\, Arman Shadow\, DJ Wolle\, Rantom\, SoDa\
  11-21-54hz-pres-creeds
 URL:https://rave.wien/e/2026-11-21-54hz-pres-creeds
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-05-sin-x-herzfrequenz-w-fts-tingeltangeltek-soda-lou@rave.wien
+DTSTAMP:20240705T000000Z
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240706
+SUMMARY:SIN x Herzfrequenz w/ FTS\, TingelTangelTek\, SoDa\, Louisa India
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:FTS\, TingelTangelTek\, SoDa\, Louisa India\nVeranstalter: He
+ rzfrequenz\, SIN\n\nhttps://rave.wien/e/2024-07-05-sin-x-herzfrequenz-w-
+ fts-tingeltangeltek-soda-lou
+URL:https://rave.wien/e/2024-07-05-sin-x-herzfrequenz-w-fts-tingeltangelt
+ ek-soda-lou
+END:VEVENT
 END:VCALENDAR

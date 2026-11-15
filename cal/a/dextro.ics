@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-07-17-fish-market-w-dextro-gerald-vdh-lina-k-and-many-m@rave.wien
+DTSTAMP:20260717T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:FISH MARKET w/ DEXTRO\, Gerald VDH\, Lina K and many more
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Dextro\, Gerald VDH\, Lina K\nVeranstalter: Fish Market\n\nht
+ tps://rave.wien/e/2026-07-17-fish-market-w-dextro-gerald-vdh-lina-k-and-
+ many-m
+URL:https://rave.wien/e/2026-07-17-fish-market-w-dextro-gerald-vdh-lina-k
+ -and-many-m
+END:VEVENT
 END:VCALENDAR

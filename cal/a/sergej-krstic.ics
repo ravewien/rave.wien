@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-21-between-us-x-sergej-krstic@rave.wien
+DTSTAMP:20260221T000000Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:Between Us x Sergej Krstic
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Sergej Krstic\nVeranstalter: Between Us\n\nhttps://rave.wien/
+ e/2026-02-21-between-us-x-sergej-krstic
+URL:https://rave.wien/e/2026-02-21-between-us-x-sergej-krstic
+END:VEVENT
 END:VCALENDAR

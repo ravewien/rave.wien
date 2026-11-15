@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-04-03-nachtschub-with-dasstudach-prydie@rave.wien
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:NACHTSCHUB with dasstudach & Prydie
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:dasstudach\, Prydie\nVeranstalter: Nachtschub\n\nhttps://rave
+ .wien/e/2026-04-03-nachtschub-with-dasstudach-prydie
+URL:https://rave.wien/e/2026-04-03-nachtschub-with-dasstudach-prydie
+END:VEVENT
 END:VCALENDAR

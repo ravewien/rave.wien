@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-19-in-vino-veritas-label-launch-x-sexapil-fr-wajang@rave.wien
+DTSTAMP:20240519T000000Z
+DTSTART;VALUE=DATE:20240519
+DTEND;VALUE=DATE:20240520
+SUMMARY:IN VINO VERITAS – Label Launch \\X/ SEXAPIL (FR) Wajang
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Sexapil\, Wajang\n\nhttps://rave.wien/e/2024-05-19-in-vino-ve
+ ritas-label-launch-x-sexapil-fr-wajang
+URL:https://rave.wien/e/2024-05-19-in-vino-veritas-label-launch-x-sexapil
+ -fr-wajang
+END:VEVENT
 END:VCALENDAR

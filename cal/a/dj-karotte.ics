@@ -36,4 +36,15 @@ DESCRIPTION:DJ Karotte\, Crazy Sonic\, Joro & Joabo\nEintritt: 18 €\n\n
  https://rave.wien/e/2026-12-05-karotte-im-wohnzimmer
 URL:https://rave.wien/e/2026-12-05-karotte-im-wohnzimmer
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-22-klassentreffen-w-karotte@rave.wien
+DTSTAMP:20240622T000000Z
+DTSTART;VALUE=DATE:20240622
+DTEND;VALUE=DATE:20240623
+SUMMARY:Klassentreffen w/ Karotte
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Karotte\nVeranstalter: Klassentreffen\n\nhttps://rave.wien/e/
+ 2024-06-22-klassentreffen-w-karotte
+URL:https://rave.wien/e/2024-06-22-klassentreffen-w-karotte
+END:VEVENT
 END:VCALENDAR

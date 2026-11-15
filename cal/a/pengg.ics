@@ -26,6 +26,17 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2025-07-18-radio-rudina@rave.wien
+DTSTAMP:20250718T000000Z
+DTSTART;VALUE=DATE:20250718
+DTEND;VALUE=DATE:20250719
+SUMMARY:Radio Rudina
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:La La\, LoveFoxy\, Ivan\, pengg\nVeranstalter: Radio Rudina\n
+ \nhttps://rave.wien/e/2025-07-18-radio-rudina
+URL:https://rave.wien/e/2025-07-18-radio-rudina
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-step-forward-pres-shoki@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T230000

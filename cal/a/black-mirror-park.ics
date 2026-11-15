@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-10-18-fish-market-w-black-mirror-park-gerald-vdh-vich-m@rave.wien
+DTSTAMP:20241018T000000Z
+DTSTART;VALUE=DATE:20241018
+DTEND;VALUE=DATE:20241019
+SUMMARY:FISH MARKET w/ Black Mirror Park\, Gerald VDH\, Vich Mind\, etc.
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Black Mirror Park\, Gerald VDH\, Vich Mind\nVeranstalter: Fis
+ h Market\n\nhttps://rave.wien/e/2024-10-18-fish-market-w-black-mirror-pa
+ rk-gerald-vdh-vich-m
+URL:https://rave.wien/e/2024-10-18-fish-market-w-black-mirror-park-gerald
+ -vdh-vich-m
+END:VEVENT
 END:VCALENDAR

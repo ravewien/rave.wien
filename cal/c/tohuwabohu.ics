@@ -25,4 +25,95 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-02-22-tohuwabohu-psychedelic-edition@rave.wien
+DTSTAMP:20250222T000000Z
+DTSTART;VALUE=DATE:20250222
+DTEND;VALUE=DATE:20250223
+SUMMARY:Tohuwabohu – Psychedelic Edition
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Tohuwabohu\n\nhttps://rave.wien/e/2025-02-22-to
+ huwabohu-psychedelic-edition
+URL:https://rave.wien/e/2025-02-22-tohuwabohu-psychedelic-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-19-tohuwabohu-technoid-edition@rave.wien
+DTSTAMP:20250419T000000Z
+DTSTART;VALUE=DATE:20250419
+DTEND;VALUE=DATE:20250420
+SUMMARY:Tohuwabohu – Technoid Edition
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Tohuwabohu\n\nhttps://rave.wien/e/2025-04-19-to
+ huwabohu-technoid-edition
+URL:https://rave.wien/e/2025-04-19-tohuwabohu-technoid-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-06-tohuwabohu-technoid-edition@rave.wien
+DTSTAMP:20250906T000000Z
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250907
+SUMMARY:Tohuwabohu – Technoid Edition
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Tohuwabohu\n\nhttps://rave.wien/e/2025-09-06-to
+ huwabohu-technoid-edition
+URL:https://rave.wien/e/2025-09-06-tohuwabohu-technoid-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-12-tohuwabohu-technoid-edition@rave.wien
+DTSTAMP:20251212T000000Z
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251213
+SUMMARY:Tohuwabohu – Technoid Edition
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Veranstalter: Tohuwabohu\n\nhttps://rave.wien/e/2025-12-12-to
+ huwabohu-technoid-edition
+URL:https://rave.wien/e/2025-12-12-tohuwabohu-technoid-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-06-tohuwabohu-psychedelic-edition@rave.wien
+DTSTAMP:20260206T000000Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:Tohuwabohu – Psychedelic Edition
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Tohuwabohu\n\nhttps://rave.wien/e/2026-02-06-to
+ huwabohu-psychedelic-edition
+URL:https://rave.wien/e/2026-02-06-tohuwabohu-psychedelic-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-24-tohuwabohu-technoid-edition@rave.wien
+DTSTAMP:20260524T000000Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:Tohuwabohu – Technoid Edition
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Tohuwabohu\n\nhttps://rave.wien/e/2026-05-24-to
+ huwabohu-technoid-edition
+URL:https://rave.wien/e/2026-05-24-tohuwabohu-technoid-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-tohuwabohu-psychedelic-edition@rave.wien
+DTSTAMP:20260905T000000Z
+DTSTART;TZID=Europe/Vienna:20260905T233000
+DTEND;TZID=Europe/Vienna:20260906T060000
+SUMMARY:Tohuwabohu – Psychedelic Edition
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Brandmann\, Lagos\, Numa\, Angiko\, Exonot\, Krawallkasper\nV
+ eranstalter: Tohuwabohu\nEintritt: 15 € vor Mitternacht / 20 € danac
+ h (nur Abendkasse)\n\nhttps://rave.wien/e/2026-09-05-tohuwabohu-psychede
+ lic-edition
+URL:https://rave.wien/e/2026-09-05-tohuwabohu-psychedelic-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-24-tohuwabohu-technoid-edition@rave.wien
+DTSTAMP:20261024T000000Z
+DTSTART;TZID=Europe/Vienna:20261024T230000
+DTEND;TZID=Europe/Vienna:20261025T060000
+SUMMARY:Tohuwabohu Technoid Edition
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Stoik\, Purrdition\, Foe\, Miss Undertaker\nVeranstalter: Toh
+ uwabohu\nEintritt: 12 € vor Mitternacht / 17 € danach (nur Abendkass
+ e)\n\nhttps://rave.wien/e/2026-10-24-tohuwabohu-technoid-edition
+URL:https://rave.wien/e/2026-10-24-tohuwabohu-technoid-edition
+END:VEVENT
 END:VCALENDAR

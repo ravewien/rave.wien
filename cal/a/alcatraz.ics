@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-01-24-step-forward-pres-alcatraz@rave.wien
+DTSTAMP:20250124T000000Z
+DTSTART;VALUE=DATE:20250124
+DTEND;VALUE=DATE:20250125
+SUMMARY:Step Forward pres. ALCATRAZ
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alcatraz\nVeranstalter: Step Forward\n\nhttps://rave.wien/e/2
+ 025-01-24-step-forward-pres-alcatraz
+URL:https://rave.wien/e/2025-01-24-step-forward-pres-alcatraz
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,37 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-22-step-forward-pres-partiboi69@rave.wien
+DTSTAMP:20240622T000000Z
+DTSTART;VALUE=DATE:20240622
+DTEND;VALUE=DATE:20240623
+SUMMARY:Step Forward pres. Partiboi69
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Partiboi69\nVeranstalter: Step Forward\n\nhttps://rave.wien/e
+ /2024-06-22-step-forward-pres-partiboi69
+URL:https://rave.wien/e/2024-06-22-step-forward-pres-partiboi69
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-05-step-forward-x-lhf-presents-partiboi69@rave.wien
+DTSTAMP:20251205T000000Z
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:STEP FORWARD x LHF presents PARTIBOI69
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Partiboi69\nVeranstalter: Step Forward\n\nhttps://rave.wien/e
+ /2025-12-05-step-forward-x-lhf-presents-partiboi69
+URL:https://rave.wien/e/2025-12-05-step-forward-x-lhf-presents-partiboi69
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-03-step-forward-pres-partiboi69@rave.wien
+DTSTAMP:20260703T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Step Forward pres. Partiboi69
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Partiboi69\nVeranstalter: Step Forward\n\nhttps://rave.wien/e
+ /2026-07-03-step-forward-pres-partiboi69
+URL:https://rave.wien/e/2026-07-03-step-forward-pres-partiboi69
+END:VEVENT
 END:VCALENDAR

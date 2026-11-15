@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-08-v-enna-on-ac-d-with-chris-liberator-stayupforever@rave.wien
+DTSTAMP:20241108T000000Z
+DTSTART;VALUE=DATE:20241108
+DTEND;VALUE=DATE:20241109
+SUMMARY:V!ENNA ON AC!D with Chris Liberator [StayUpForever/ UK]
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Chris Liberator\n\nhttps://rave.wien/e/2024-11-08-v-enna-on-a
+ c-d-with-chris-liberator-stayupforever
+URL:https://rave.wien/e/2024-11-08-v-enna-on-ac-d-with-chris-liberator-st
+ ayupforever
+END:VEVENT
 END:VCALENDAR

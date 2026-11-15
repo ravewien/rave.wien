@@ -25,4 +25,70 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-05-10-hit-it-hard@rave.wien
+DTSTAMP:20250510T000000Z
+DTSTART;VALUE=DATE:20250510
+DTEND;VALUE=DATE:20250511
+SUMMARY:HIT IT HARD
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Hit It Hard\n\nhttps://rave.wien/e/2025-05-10-h
+ it-it-hard
+URL:https://rave.wien/e/2025-05-10-hit-it-hard
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-08-hit-it-hard@rave.wien
+DTSTAMP:20250608T000000Z
+DTSTART;VALUE=DATE:20250608
+DTEND;VALUE=DATE:20250609
+SUMMARY:HIT IT HARD
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Hit It Hard\n\nhttps://rave.wien/e/2025-06-08-h
+ it-it-hard
+URL:https://rave.wien/e/2025-06-08-hit-it-hard
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-16-hit-it-hard@rave.wien
+DTSTAMP:20250816T000000Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+SUMMARY:HIT IT HARD
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Hit It Hard\n\nhttps://rave.wien/e/2025-08-16-h
+ it-it-hard
+URL:https://rave.wien/e/2025-08-16-hit-it-hard
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-27-hit-it-hard@rave.wien
+DTSTAMP:20250927T000000Z
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+SUMMARY:HIT IT HARD
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Hit It Hard\n\nhttps://rave.wien/e/2025-09-27-h
+ it-it-hard
+URL:https://rave.wien/e/2025-09-27-hit-it-hard
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-30-hit-it-hard@rave.wien
+DTSTAMP:20260430T000000Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:HIT IT HARD
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Hit It Hard\n\nhttps://rave.wien/e/2026-04-30-h
+ it-it-hard
+URL:https://rave.wien/e/2026-04-30-hit-it-hard
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-24-hit-it-hard-bday-special@rave.wien
+DTSTAMP:20260524T000000Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:HIT IT HARD BDAY SPECIAL
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Hit It Hard\n\nhttps://rave.wien/e/2026-05-24-h
+ it-it-hard-bday-special
+URL:https://rave.wien/e/2026-05-24-hit-it-hard-bday-special
+END:VEVENT
 END:VCALENDAR

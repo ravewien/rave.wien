@@ -46,4 +46,26 @@ DESCRIPTION:Mainfloor: Paraçek\, MARØ\, Vivienna\nKitchen: Felix Ruppre
  n/e/2026-11-14-paradies-garten-w-paracek
 URL:https://rave.wien/e/2026-11-14-paradies-garten-w-paracek
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-01-paracek-impulse-grelle-forelle@rave.wien
+DTSTAMP:20251101T000000Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251102
+SUMMARY:PARAÇEK // IMPULSE // Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Paraçek\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2025-1
+ 1-01-paracek-impulse-grelle-forelle
+URL:https://rave.wien/e/2025-11-01-paracek-impulse-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-23-dualism-w-paracek@rave.wien
+DTSTAMP:20260523T000000Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:Dualism w/ Paraçek
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Paraçek\nVeranstalter: Dualism\n\nhttps://rave.wien/e/2026-0
+ 5-23-dualism-w-paracek
+URL:https://rave.wien/e/2026-05-23-dualism-w-paracek
+END:VEVENT
 END:VCALENDAR

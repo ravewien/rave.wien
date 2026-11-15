@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-08-08-club-pompadour-with-thomas-stieler-x-tosta-vica@rave.wien
+DTSTAMP:20260808T000000Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:Club Pompadour with Thomas Stieler x Tosta Vica
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Thomas Stieler\, Tosta Vica\nVeranstalter: Club Pompadour\n\n
+ https://rave.wien/e/2026-08-08-club-pompadour-with-thomas-stieler-x-tost
+ a-vica
+URL:https://rave.wien/e/2026-08-08-club-pompadour-with-thomas-stieler-x-t
+ osta-vica
+END:VEVENT
 END:VCALENDAR

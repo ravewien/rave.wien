@@ -26,6 +26,39 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2025-05-23-cafe-club-fatale@rave.wien
+DTSTAMP:20250523T000000Z
+DTSTART;VALUE=DATE:20250523
+DTEND;VALUE=DATE:20250524
+SUMMARY:cafe & club fatale
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Club Fatale\n\nhttps://rave.wien/e/2025-05-23-c
+ afe-club-fatale
+URL:https://rave.wien/e/2025-05-23-cafe-club-fatale
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-10-club-fatale-w-rasho@rave.wien
+DTSTAMP:20251010T000000Z
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251011
+SUMMARY:club fatale w. rasho
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:rasho\nVeranstalter: Club Fatale\n\nhttps://rave.wien/e/2025-
+ 10-10-club-fatale-w-rasho
+URL:https://rave.wien/e/2025-10-10-club-fatale-w-rasho
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-06-club-fatale-invites-cosmic-motion@rave.wien
+DTSTAMP:20251206T000000Z
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:club fatale invites cosmic motion
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:cosmic motion\nVeranstalter: Club Fatale\n\nhttps://rave.wien
+ /e/2025-12-06-club-fatale-invites-cosmic-motion
+URL:https://rave.wien/e/2025-12-06-club-fatale-invites-cosmic-motion
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-club-fatale-w-krn@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T220000

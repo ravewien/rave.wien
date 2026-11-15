@@ -25,4 +25,39 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-17-rikhter-live-johannes-schuster-impulse@rave.wien
+DTSTAMP:20240817T000000Z
+DTSTART;VALUE=DATE:20240817
+DTEND;VALUE=DATE:20240818
+SUMMARY:Rikhter LIVE & Johannes Schuster | IMPULSE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Rikhter\, Johannes Schuster\nVeranstalter: Impulse\n\nhttps:/
+ /rave.wien/e/2024-08-17-rikhter-live-johannes-schuster-impulse
+URL:https://rave.wien/e/2024-08-17-rikhter-live-johannes-schuster-impulse
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-02-johannes-schuster-all-night-long-impulse@rave.wien
+DTSTAMP:20241102T000000Z
+DTSTART;VALUE=DATE:20241102
+DTEND;VALUE=DATE:20241103
+SUMMARY:Johannes Schuster All Night Long | IMPULSE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Johannes Schuster\nVeranstalter: Impulse\n\nhttps://rave.wien
+ /e/2024-11-02-johannes-schuster-all-night-long-impulse
+URL:https://rave.wien/e/2024-11-02-johannes-schuster-all-night-long-impul
+ se
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-10-johannes-schuster-all-night-long-impulse-grelle-f@rave.wien
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:Johannes Schuster: ALL NIGHT LONG // IMPULSE // Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Johannes Schuster\nVeranstalter: Impulse\n\nhttps://rave.wien
+ /e/2026-01-10-johannes-schuster-all-night-long-impulse-grelle-f
+URL:https://rave.wien/e/2026-01-10-johannes-schuster-all-night-long-impul
+ se-grelle-f
+END:VEVENT
 END:VCALENDAR

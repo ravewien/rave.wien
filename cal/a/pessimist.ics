@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-08-intrikat-presents-pessimist-uk@rave.wien
+DTSTAMP:20241108T000000Z
+DTSTART;VALUE=DATE:20241108
+DTEND;VALUE=DATE:20241109
+SUMMARY:INTRIKAT presents: Pessimist (UK)
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Pessimist\n\nhttps://rave.wien/e/2024-11-08-intrikat-presents
+ -pessimist-uk
+URL:https://rave.wien/e/2024-11-08-intrikat-presents-pessimist-uk
+END:VEVENT
 END:VCALENDAR

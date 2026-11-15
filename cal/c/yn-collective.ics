@@ -39,4 +39,77 @@ DESCRIPTION:Chris Liebing\nVeranstalter: YN\, Ritual\nEintritt: VVK 16
  t.\n\nhttps://rave.wien/e/2026-12-18-ritual-x-yn-w-chris-liebing
 URL:https://rave.wien/e/2026-12-18-ritual-x-yn-w-chris-liebing
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-10-zuckerwatt-w-dj-rush-x-yn-collective@rave.wien
+DTSTAMP:20240510T000000Z
+DTSTART;VALUE=DATE:20240510
+DTEND;VALUE=DATE:20240511
+SUMMARY:ZUCKERWATT w/ DJ RUSH x YN COLLECTIVE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:DJ Rush\nVeranstalter: Zuckerwatt\, YN Collective\n\nhttps://
+ rave.wien/e/2024-05-10-zuckerwatt-w-dj-rush-x-yn-collective
+URL:https://rave.wien/e/2024-05-10-zuckerwatt-w-dj-rush-x-yn-collective
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-05-mitmischen-wiener-mischung-w-yn-friends@rave.wien
+DTSTAMP:20240705T000000Z
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240706
+SUMMARY:Mitmischen (Wiener Mischung) w/ YN & Friends
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:YN\nVeranstalter: Wiener Mischung\, YN Collective\n\nhttps://
+ rave.wien/e/2024-07-05-mitmischen-wiener-mischung-w-yn-friends
+URL:https://rave.wien/e/2024-07-05-mitmischen-wiener-mischung-w-yn-friends
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-19-in-love-xoxo-rec-yn-raves-cosa-constance-rave-on@rave.wien
+DTSTAMP:20250719T000000Z
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+SUMMARY:IN LOVE / XOXO REC. YN RAVES\, COSA CONSTANCE\, Rave on Society\,
+  You&Me
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rave On Society\, YN Collective\, In Love\n\nht
+ tps://rave.wien/e/2025-07-19-in-love-xoxo-rec-yn-raves-cosa-constance-ra
+ ve-on
+URL:https://rave.wien/e/2025-07-19-in-love-xoxo-rec-yn-raves-cosa-constan
+ ce-rave-on
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-14-below-the-surface-raw-x-yn@rave.wien
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:BELOW THE SURFACE | RAW x YN
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:EXOS\, Karolina\, Ketarina\nVeranstalter: Below the Surface\,
+  YN Collective\n\nhttps://rave.wien/e/2026-03-14-below-the-surface-raw-x
+ -yn
+URL:https://rave.wien/e/2026-03-14-below-the-surface-raw-x-yn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-23-yn-collective-x-vision-ekstase-pres-setaoc-mass@rave.wien
+DTSTAMP:20260523T000000Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:YN COLLECTIVE x VISION EKSTASE pres. SETAOC MASS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Setaoc Mass\nVeranstalter: YN Collective\n\nhttps://rave.wien
+ /e/2026-05-23-yn-collective-x-vision-ekstase-pres-setaoc-mass
+URL:https://rave.wien/e/2026-05-23-yn-collective-x-vision-ekstase-pres-se
+ taoc-mass
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-yn-x-bcco-club-night@rave.wien
+DTSTAMP:20260926T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:YN x BCCO Club Night
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Fenimore\, Future.666\, FX-31\, Juan Caballo\, Karolina\, Mia
+  Mia\, Sarica\, Static Bloom\nVeranstalter: YN Collective\n\nhttps://rav
+ e.wien/e/2026-09-26-yn-x-bcco-club-night
+URL:https://rave.wien/e/2026-09-26-yn-x-bcco-club-night
+END:VEVENT
 END:VCALENDAR

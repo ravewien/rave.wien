@@ -41,4 +41,15 @@ DESCRIPTION:The Trip\nEintritt: Early Bird 12 €\n\nDie PRST holt im Rah
  ites-the-trip
 URL:https://rave.wien/e/2026-12-18-prst-invites-the-trip
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-20-prst-invites-the-trip@rave.wien
+DTSTAMP:20260220T000000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:PRST INVITES THE TRIP
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:The Trip\n\nhttps://rave.wien/e/2026-02-20-prst-invites-the-t
+ rip
+URL:https://rave.wien/e/2026-02-20-prst-invites-the-trip
+END:VEVENT
 END:VCALENDAR

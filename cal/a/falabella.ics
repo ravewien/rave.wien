@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-05-31-flashback-techno-classics-grelle-forelle@rave.wien
+DTSTAMP:20250531T000000Z
+DTSTART;VALUE=DATE:20250531
+DTEND;VALUE=DATE:20250601
+SUMMARY:FLASHBACK Techno Classics @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Martin Freudentanz\, Falabella\, Joro & Joabo\, Rokis\, Peter
+  Pan\, Tom Snow\, Martin Oelz\, MC Mars\, MC Spot\, Gugu\, PA_olo\, Tola
+ ris\, Lowskim\, Romen Est Omen\, Hanneken\nVeranstalter: Flashback\n\nht
+ tps://rave.wien/e/2025-05-31-flashback-techno-classics-grelle-forelle
+URL:https://rave.wien/e/2025-05-31-flashback-techno-classics-grelle-forel
+ le
+END:VEVENT
 END:VCALENDAR

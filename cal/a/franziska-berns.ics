@@ -26,6 +26,17 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2025-10-31-do-easy-rec-with-franziska-berns-gromma@rave.wien
+DTSTAMP:20251031T000000Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Do Easy Rec. with FRANZISKA BERNS & GROMMA
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Franziska Berns\, Gromma\n\nhttps://rave.wien/e/2025-10-31-do
+ -easy-rec-with-franziska-berns-gromma
+URL:https://rave.wien/e/2025-10-31-do-easy-rec-with-franziska-berns-gromma
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-halloween-at-prst-w-camion-bazar-franziska-berns@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T230000

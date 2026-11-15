@@ -47,4 +47,16 @@ DESCRIPTION:DBBD\, Who is Ela¿\, AVO2X\, ENJA\, Spud Bencer\, DJ Backsta
  nhttps://rave.wien/e/2026-12-07-cybertribe-11-years-w-dbbd
 URL:https://rave.wien/e/2026-12-07-cybertribe-11-years-w-dbbd
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-05-14-yrs-grelle-forelle@rave.wien
+DTSTAMP:20251205T000000Z
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:14 YRS Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Chris Liebing\, Speedy J\, Memet Acuma\, Franjazzco\, Dzc.\, 
+ DJ Gigola\, DBBD\, Tezibel\, Vivienna\n\nhttps://rave.wien/e/2025-12-05-
+ 14-yrs-grelle-forelle
+URL:https://rave.wien/e/2025-12-05-14-yrs-grelle-forelle
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,101 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-02-17-luft-liebe-w-dominik-eulberg-x-rave-on-society@rave.wien
+DTSTAMP:20240217T000000Z
+DTSTART;VALUE=DATE:20240217
+DTEND;VALUE=DATE:20240218
+SUMMARY:LUFT & LIEBE w/ DOMINIK EULBERG x Rave On Society
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Dominik Eulberg\nVeranstalter: Rave On Society\, Luft & Liebe
+ \n\nhttps://rave.wien/e/2024-02-17-luft-liebe-w-dominik-eulberg-x-rave-o
+ n-society
+URL:https://rave.wien/e/2024-02-17-luft-liebe-w-dominik-eulberg-x-rave-on
+ -society
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-12-zuckerwatt-w-boys-noize-x-rave-on-society@rave.wien
+DTSTAMP:20240412T000000Z
+DTSTART;VALUE=DATE:20240412
+DTEND;VALUE=DATE:20240413
+SUMMARY:ZUCKERWATT w/ BOYS NOIZE x Rave On Society
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Boys Noize\nVeranstalter: Zuckerwatt\, Rave On Society\n\nhtt
+ ps://rave.wien/e/2024-04-12-zuckerwatt-w-boys-noize-x-rave-on-society
+URL:https://rave.wien/e/2024-04-12-zuckerwatt-w-boys-noize-x-rave-on-soci
+ ety
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-22-monochrom-rave-on-society-x-donnerkanzel@rave.wien
+DTSTAMP:20240622T000000Z
+DTSTART;VALUE=DATE:20240622
+DTEND;VALUE=DATE:20240623
+SUMMARY:MONOCHROM – Rave On Society x Donnerkanzel
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Monochrom\, Rave On Society\n\nhttps://rave.wie
+ n/e/2024-06-22-monochrom-rave-on-society-x-donnerkanzel
+URL:https://rave.wien/e/2024-06-22-monochrom-rave-on-society-x-donnerkanz
+ el
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-03-monochrom-rave-on-society-x-lowenzahn@rave.wien
+DTSTAMP:20240803T000000Z
+DTSTART;VALUE=DATE:20240803
+DTEND;VALUE=DATE:20240804
+SUMMARY:MONOCHROM – Rave On Society x Löwenzahn
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Löwenzahn\, Monochrom\, Rave On Society\n\nhtt
+ ps://rave.wien/e/2024-08-03-monochrom-rave-on-society-x-lowenzahn
+URL:https://rave.wien/e/2024-08-03-monochrom-rave-on-society-x-lowenzahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-02-carnival-rave-by-raveonsociety@rave.wien
+DTSTAMP:20250302T000000Z
+DTSTART;VALUE=DATE:20250302
+DTEND;VALUE=DATE:20250303
+SUMMARY:Carnival Rave by RaveOnSociety
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Veranstalter: Rave On Society\n\nhttps://rave.wien/e/2025-03-
+ 02-carnival-rave-by-raveonsociety
+URL:https://rave.wien/e/2025-03-02-carnival-rave-by-raveonsociety
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-18-dobe-berlin-x-raveonsociety@rave.wien
+DTSTAMP:20250618T000000Z
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250619
+SUMMARY:DOBE (Berlin) x RaveOnSociety
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:DOBE\nVeranstalter: Rave On Society\n\nhttps://rave.wien/e/20
+ 25-06-18-dobe-berlin-x-raveonsociety
+URL:https://rave.wien/e/2025-06-18-dobe-berlin-x-raveonsociety
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-19-in-love-xoxo-rec-yn-raves-cosa-constance-rave-on@rave.wien
+DTSTAMP:20250719T000000Z
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+SUMMARY:IN LOVE / XOXO REC. YN RAVES\, COSA CONSTANCE\, Rave on Society\,
+  You&Me
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rave On Society\, YN Collective\, In Love\n\nht
+ tps://rave.wien/e/2025-07-19-in-love-xoxo-rec-yn-raves-cosa-constance-ra
+ ve-on
+URL:https://rave.wien/e/2025-07-19-in-love-xoxo-rec-yn-raves-cosa-constan
+ ce-rave-on
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-08-zuckerwatt-w-teenage-mutants-x-raveon-society@rave.wien
+DTSTAMP:20250808T000000Z
+DTSTART;VALUE=DATE:20250808
+DTEND;VALUE=DATE:20250809
+SUMMARY:ZUCKERWATT w/ TEENAGE MUTANTS x RAVEON.SOCIETY
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Teenage Mutants\, Raveon.society\nVeranstalter: Zuckerwatt\, 
+ Rave On Society\n\nhttps://rave.wien/e/2025-08-08-zuckerwatt-w-teenage-m
+ utants-x-raveon-society
+URL:https://rave.wien/e/2025-08-08-zuckerwatt-w-teenage-mutants-x-raveon-
+ society
+END:VEVENT
 END:VCALENDAR

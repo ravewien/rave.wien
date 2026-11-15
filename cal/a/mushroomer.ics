@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-01-05-steptotek-xl-the-comeback-w-rocketcat-live-mushro@rave.wien
+DTSTAMP:20240105T000000Z
+DTSTART;VALUE=DATE:20240105
+DTEND;VALUE=DATE:20240106
+SUMMARY:StepToTek XL – THE COMEBACK w/ RocketCat Live & Mushroomer Live
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:RocketCat\, Mushroomer\nVeranstalter: Step to Tek\n\nhttps://
+ rave.wien/e/2024-01-05-steptotek-xl-the-comeback-w-rocketcat-live-mushro
+URL:https://rave.wien/e/2024-01-05-steptotek-xl-the-comeback-w-rocketcat-
+ live-mushro
+END:VEVENT
 END:VCALENDAR

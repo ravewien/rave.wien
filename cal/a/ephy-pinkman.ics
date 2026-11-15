@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-07-joker-invites-ephy-pinkman@rave.wien
+DTSTAMP:20251107T000000Z
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
+SUMMARY:JOKER invites: Ephy Pinkman
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Ephy Pinkman\n\nhttps://rave.wien/e/2025-11-07-joker-invites-
+ ephy-pinkman
+URL:https://rave.wien/e/2025-11-07-joker-invites-ephy-pinkman
+END:VEVENT
 END:VCALENDAR

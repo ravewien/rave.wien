@@ -25,4 +25,83 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-07-vvax-vinyl-only-techno-night-01@rave.wien
+DTSTAMP:20251107T000000Z
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
+SUMMARY:VVAX – Vinyl Only Techno Night 01
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: VVAX\n\nhttps://rave.wien/e/2025-11-07-vvax-vin
+ yl-only-techno-night-01
+URL:https://rave.wien/e/2025-11-07-vvax-vinyl-only-techno-night-01
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-27-vvax-vinyl-only-techno-night-02@rave.wien
+DTSTAMP:20260227T000000Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:VVAX – Vinyl Only Techno Night 02
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Veranstalter: VVAX\n\nhttps://rave.wien/e/2026-02-27-vvax-vin
+ yl-only-techno-night-02
+URL:https://rave.wien/e/2026-02-27-vvax-vinyl-only-techno-night-02
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-10-vvax-vinyl-only-techno@rave.wien
+DTSTAMP:20260410T000000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:VVAX – Vinyl Only Techno
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: VVAX\n\nhttps://rave.wien/e/2026-04-10-vvax-vin
+ yl-only-techno
+URL:https://rave.wien/e/2026-04-10-vvax-vinyl-only-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-02-vvax-w-masha-dabelka@rave.wien
+DTSTAMP:20260502T000000Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:VVAX w/ Masha Dabelka
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Masha Dabelka\nVeranstalter: VVAX\n\nhttps://rave.wien/e/2026
+ -05-02-vvax-w-masha-dabelka
+URL:https://rave.wien/e/2026-05-02-vvax-w-masha-dabelka
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-03-neoteric-x-vvax-vinyl-only-techno@rave.wien
+DTSTAMP:20260703T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Neoteric x VVAX – Vinyl Only Techno
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: VVAX\n\nhttps://rave.wien/e/2026-07-03-neoteric
+ -x-vvax-vinyl-only-techno
+URL:https://rave.wien/e/2026-07-03-neoteric-x-vvax-vinyl-only-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-17-vvax-vinyl-only-techno-the-last-one-before-summer@rave.wien
+DTSTAMP:20260717T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:VVAX – Vinyl Only Techno – The last one before summer break
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: VVAX\n\nhttps://rave.wien/e/2026-07-17-vvax-vin
+ yl-only-techno-the-last-one-before-summer
+URL:https://rave.wien/e/2026-07-17-vvax-vinyl-only-techno-the-last-one-be
+ fore-summer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-25-vvax-vinyl-only-techno-x-fabian-hofer@rave.wien
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:VVAX Vinyl Only Techno x Fabian Hofer
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Fabian Hofer\nVeranstalter: VVAX\n\nhttps://rave.wien/e/2026-
+ 10-25-vvax-vinyl-only-techno-x-fabian-hofer
+URL:https://rave.wien/e/2026-10-25-vvax-vinyl-only-techno-x-fabian-hofer
+END:VEVENT
 END:VCALENDAR

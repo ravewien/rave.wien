@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-05-28-fortunea-records-release-party-restless-ep-by-pel@rave.wien
+DTSTAMP:20250528T000000Z
+DTSTART;VALUE=DATE:20250528
+DTEND;VALUE=DATE:20250529
+SUMMARY:Fortunea Records Release-Party: Restless EP by Peletronicc
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Peletronicc\n\nhttps://rave.wien/e/2025-05-28-fortunea-record
+ s-release-party-restless-ep-by-pel
+URL:https://rave.wien/e/2025-05-28-fortunea-records-release-party-restles
+ s-ep-by-pel
+END:VEVENT
 END:VCALENDAR

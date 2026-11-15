@@ -26,6 +26,95 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-05-14-donnerstrada@rave.wien
+DTSTAMP:20260514T000000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Donnerstrada
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Donnerstrada\n\nhttps://rave.wien/e/2026-05-14-
+ donnerstrada
+URL:https://rave.wien/e/2026-05-14-donnerstrada
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-16-donnerstrada@rave.wien
+DTSTAMP:20260716T000000Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:DONNERSTRADA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Donnerstrada\n\nhttps://rave.wien/e/2026-07-16-
+ donnerstrada
+URL:https://rave.wien/e/2026-07-16-donnerstrada
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-23-donnerstrada@rave.wien
+DTSTAMP:20260723T000000Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:DONNERSTRADA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Donnerstrada\n\nhttps://rave.wien/e/2026-07-23-
+ donnerstrada
+URL:https://rave.wien/e/2026-07-23-donnerstrada
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-13-donnerstrada@rave.wien
+DTSTAMP:20260813T000000Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:DONNERSTRADA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Donnerstrada\n\nhttps://rave.wien/e/2026-08-13-
+ donnerstrada
+URL:https://rave.wien/e/2026-08-13-donnerstrada
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-20-donnerstrada-with-dj-soulglo-sophie-hosner@rave.wien
+DTSTAMP:20260820T000000Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Donnerstrada with DJ Soulglo & Sophie Hosner
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DJ Soulglo\, Sophie Hosner\nVeranstalter: Donnerstrada\n\nhtt
+ ps://rave.wien/e/2026-08-20-donnerstrada-with-dj-soulglo-sophie-hosner
+URL:https://rave.wien/e/2026-08-20-donnerstrada-with-dj-soulglo-sophie-ho
+ sner
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-27-donnerstrada-with-lisstn-memet-acuma@rave.wien
+DTSTAMP:20260827T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:DONNERSTRADA with LiSSTN & Memet Acuma
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:LiSSTN\, Memet Acuma\nVeranstalter: Donnerstrada\n\nhttps://r
+ ave.wien/e/2026-08-27-donnerstrada-with-lisstn-memet-acuma
+URL:https://rave.wien/e/2026-08-27-donnerstrada-with-lisstn-memet-acuma
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-donnerstrada@rave.wien
+DTSTAMP:20260910T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:DONNERSTRADA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Donnerstrada\n\nhttps://rave.wien/e/2026-09-10-
+ donnerstrada
+URL:https://rave.wien/e/2026-09-10-donnerstrada
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-donnerstrada-x-turbo-thursday@rave.wien
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:DONNERSTRADA X TURBO THURSDAY
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Donnerstrada\n\nhttps://rave.wien/e/2026-09-24-
+ donnerstrada-x-turbo-thursday
+URL:https://rave.wien/e/2026-09-24-donnerstrada-x-turbo-thursday
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-05-donnerstrada@rave.wien
 DTSTAMP:20261105T000000Z
 DTSTART;TZID=Europe/Vienna:20261105T230000

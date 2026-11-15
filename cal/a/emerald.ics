@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-10-11-praternostra-invites-emerald@rave.wien
+DTSTAMP:20251011T000000Z
+DTSTART;VALUE=DATE:20251011
+DTEND;VALUE=DATE:20251012
+SUMMARY:PRATERNOSTRA Invites Emerald
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Emerald\nVeranstalter: Praternostra\n\nhttps://rave.wien/e/20
+ 25-10-11-praternostra-invites-emerald
+URL:https://rave.wien/e/2025-10-11-praternostra-invites-emerald
+END:VEVENT
 END:VCALENDAR

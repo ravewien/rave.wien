@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-07-20-below-the-surface-w-x-coast@rave.wien
+DTSTAMP:20240720T000000Z
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240721
+SUMMARY:BELOW THE SURFACE w/ X-COAST
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:X-coast\nVeranstalter: Below the Surface\n\nhttps://rave.wien
+ /e/2024-07-20-below-the-surface-w-x-coast
+URL:https://rave.wien/e/2024-07-20-below-the-surface-w-x-coast
+END:VEVENT
 END:VCALENDAR

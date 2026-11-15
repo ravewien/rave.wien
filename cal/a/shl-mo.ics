@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-03-01-shl-mo-pres-by-solaris-exil-2-floors-techno@rave.wien
+DTSTAMP:20250301T000000Z
+DTSTART;VALUE=DATE:20250301
+DTEND;VALUE=DATE:20250302
+SUMMARY:Shlømo pres. by SOLARIS @EXIL | 2 FLOORS TECHNO
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Shlømo\n\nhttps://rave.wien/e/2025-03-01-shl-mo-pres-by-sola
+ ris-exil-2-floors-techno
+URL:https://rave.wien/e/2025-03-01-shl-mo-pres-by-solaris-exil-2-floors-t
+ echno
+END:VEVENT
 END:VCALENDAR

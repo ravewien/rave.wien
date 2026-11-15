@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-09-27-soundbuglerei-with-chet-rubbs-heronymus@rave.wien
+DTSTAMP:20250927T000000Z
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+SUMMARY:Soundbüglerei with Chet Rubbs\, heronymus
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Chet Rubbs\, heronymus\nVeranstalter: Soundbüglerei\n\nhttps
+ ://rave.wien/e/2025-09-27-soundbuglerei-with-chet-rubbs-heronymus
+URL:https://rave.wien/e/2025-09-27-soundbuglerei-with-chet-rubbs-heronymus
+END:VEVENT
 END:VCALENDAR

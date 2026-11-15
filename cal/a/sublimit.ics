@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-10-11-drumworks-presents-sublimit-incus@rave.wien
+DTSTAMP:20241011T000000Z
+DTSTART;VALUE=DATE:20241011
+DTEND;VALUE=DATE:20241012
+SUMMARY:Drumworks presents Sublimit & Incus
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Sublimit\, Incus\nVeranstalter: Drumworks\n\nhttps://rave.wie
+ n/e/2024-10-11-drumworks-presents-sublimit-incus
+URL:https://rave.wien/e/2024-10-11-drumworks-presents-sublimit-incus
+END:VEVENT
 END:VCALENDAR

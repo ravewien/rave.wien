@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-15-verknallt-daytime-special-with-nicolas-julian@rave.wien
+DTSTAMP:20260215T000000Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:VERKNALLT – DAYTIME SPECIAL with Nicolas Julian
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Nicolas Julian\nVeranstalter: Verknallt\n\nhttps://rave.wien/
+ e/2026-02-15-verknallt-daytime-special-with-nicolas-julian
+URL:https://rave.wien/e/2026-02-15-verknallt-daytime-special-with-nicolas
+ -julian
+END:VEVENT
 END:VCALENDAR

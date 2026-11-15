@@ -46,6 +46,33 @@ DESCRIPTION:Gawdesque\, anxxxious_t\, Kmanxak\, Ironica Los Culos\, Nova.
 URL:https://rave.wien/e/2026-11-21-polychaos-dubium
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-08-29-doll@rave.wien
+DTSTAMP:20260829T000000Z
+DTSTART;TZID=Europe/Vienna:20260829T220000
+DTEND;TZID=Europe/Vienna:20260830T054500
+SUMMARY:DOLL$
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:anxxxious_t\, DJ Lucy Bakanal\, Sa4a\, Mika\, BaZx\, Thea\, M
+ adame Lea\, Virago\, venusasaboy\, Gabi\nEintritt: Freie Spende (10–15
+  € empfohlen)\n\nDrag-\, Tanz- und Pole-Dance-Performances\n\nhttps://
+ rave.wien/e/2026-08-29-doll
+URL:https://rave.wien/e/2026-08-29-doll
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-kissen@rave.wien
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=Europe/Vienna:20261016T220000
+DTEND;TZID=Europe/Vienna:20261017T060000
+SUMMARY:KISSEN
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Dia\, Shepperd\, anxxxious_t\, Authentically Plastic\, saint 
+ noir.\, Mira\, Ethane\, zey\, Parham Rostam Abadi\, karl klit\, Kaisa Bo
+ dega\nVeranstalter: KISSEN\nEintritt: 14 € vor 0 Uhr / 16 € ab 0 Uhr
+ \n\nWanne + Deck\; Performances von Parham Rostam Abadi\, karl klit und 
+ Kaisa Bodega\n\nhttps://rave.wien/e/2026-10-16-kissen
+URL:https://rave.wien/e/2026-10-16-kissen
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-07-served-invites-harmony-rec-hereandthere@rave.wien
 DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Vienna:20261107T230000

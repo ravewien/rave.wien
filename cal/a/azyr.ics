@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-03-02-impulse-w-azyr-teletech@rave.wien
+DTSTAMP:20240302T000000Z
+DTSTART;VALUE=DATE:20240302
+DTEND;VALUE=DATE:20240303
+SUMMARY:Impulse w/ Azyr (Teletech)
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:AZYR\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2024-03-02
+ -impulse-w-azyr-teletech
+URL:https://rave.wien/e/2024-03-02-impulse-w-azyr-teletech
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-18-azyr-teletech-impulse-grelle-forelle@rave.wien
+DTSTAMP:20250418T000000Z
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250419
+SUMMARY:AZYR (TELETECH)//IMPULSE//GRELLE FORELLE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:AZYR\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2025-04-18
+ -azyr-teletech-impulse-grelle-forelle
+URL:https://rave.wien/e/2025-04-18-azyr-teletech-impulse-grelle-forelle
+END:VEVENT
 END:VCALENDAR

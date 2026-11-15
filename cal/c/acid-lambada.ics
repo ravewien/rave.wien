@@ -25,4 +25,50 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-01-17-acid-lambada-w-masha-dabelka@rave.wien
+DTSTAMP:20250117T000000Z
+DTSTART;VALUE=DATE:20250117
+DTEND;VALUE=DATE:20250118
+SUMMARY:Acid Lambada w/ Masha Dabelka
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Masha Dabelka\nVeranstalter: Acid Lambada\n\nhttps://rave.wie
+ n/e/2025-01-17-acid-lambada-w-masha-dabelka
+URL:https://rave.wien/e/2025-01-17-acid-lambada-w-masha-dabelka
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-14-acid-lambada-invites-yanther@rave.wien
+DTSTAMP:20250214T000000Z
+DTSTART;VALUE=DATE:20250214
+DTEND;VALUE=DATE:20250215
+SUMMARY:Acid Lambada invites Yanther
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Yanther\nVeranstalter: Acid Lambada\n\nhttps://rave.wien/e/20
+ 25-02-14-acid-lambada-invites-yanther
+URL:https://rave.wien/e/2025-02-14-acid-lambada-invites-yanther
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-04-acid-lambada-invites-sam-irl-patrick-pulsinger-li@rave.wien
+DTSTAMP:20250404T000000Z
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250405
+SUMMARY:Acid Lambada invites Sam Irl & Patrick Pulsinger (live)
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Sam Irl\, Patrick Pulsinger\nVeranstalter: Acid Lambada\n\nht
+ tps://rave.wien/e/2025-04-04-acid-lambada-invites-sam-irl-patrick-pulsin
+ ger-li
+URL:https://rave.wien/e/2025-04-04-acid-lambada-invites-sam-irl-patrick-p
+ ulsinger-li
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-18-acid-lambada@rave.wien
+DTSTAMP:20250918T000000Z
+DTSTART;VALUE=DATE:20250918
+DTEND;VALUE=DATE:20250919
+SUMMARY:Acid Lambada
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Acid Lambada\n\nhttps://rave.wien/e/2025-09-18-
+ acid-lambada
+URL:https://rave.wien/e/2025-09-18-acid-lambada
+END:VEVENT
 END:VCALENDAR

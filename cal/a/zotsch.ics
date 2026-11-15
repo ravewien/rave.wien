@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-03-21-hart-lab-with-dj-terror-zotsch@rave.wien
+DTSTAMP:20260321T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:Hart Lab with DJ TERROR\, ZÖTSCH
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:DJ Terror\, Zötsch\nVeranstalter: Hart Lab\n\nhttps://rave.w
+ ien/e/2026-03-21-hart-lab-with-dj-terror-zotsch
+URL:https://rave.wien/e/2026-03-21-hart-lab-with-dj-terror-zotsch
+END:VEVENT
 END:VCALENDAR

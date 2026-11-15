@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-29-nexus-x-wyldhearts@rave.wien
+DTSTAMP:20251129T000000Z
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:NEXUS X WYLDHEARTS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Aschenbrenner\, Bababass3000\, Baumeister98\, Cold Ass Ice\, 
+ Ferrand\, Suitside\, maro\, Calu\, ZEQ\nVeranstalter: NEXUS\, Wyldhearts
+ \n\nhttps://rave.wien/e/2025-11-29-nexus-x-wyldhearts
+URL:https://rave.wien/e/2025-11-29-nexus-x-wyldhearts
+END:VEVENT
 END:VCALENDAR

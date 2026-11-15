@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-08-demuja-invites-ryan-elliott@rave.wien
+DTSTAMP:20240508T000000Z
+DTSTART;VALUE=DATE:20240508
+DTEND;VALUE=DATE:20240509
+SUMMARY:Demuja invites Ryan Elliott
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Ryan Elliott\n\nhttps://rave.wien/e/2024-05-08-demuja-invites
+ -ryan-elliott
+URL:https://rave.wien/e/2024-05-08-demuja-invites-ryan-elliott
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-09-festklub-pres-tagsuber-w-ryan-elliott@rave.wien
+DTSTAMP:20250209T000000Z
+DTSTART;VALUE=DATE:20250209
+DTEND;VALUE=DATE:20250210
+SUMMARY:Festklub pres. TAGSÜBER w/ Ryan Elliott
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Ryan Elliott\nVeranstalter: Festklub\n\nhttps://rave.wien/e/2
+ 025-02-09-festklub-pres-tagsuber-w-ryan-elliott
+URL:https://rave.wien/e/2025-02-09-festklub-pres-tagsuber-w-ryan-elliott
+END:VEVENT
 END:VCALENDAR

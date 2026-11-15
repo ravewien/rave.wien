@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-04-09-dj-habibeats-habibi-s-house@rave.wien
+DTSTAMP:20260409T000000Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:DJ Habibeats: Habibi’s House
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:DJ Habibeats\n\nhttps://rave.wien/e/2026-04-09-dj-habibeats-h
+ abibi-s-house
+URL:https://rave.wien/e/2026-04-09-dj-habibeats-habibi-s-house
+END:VEVENT
 END:VCALENDAR

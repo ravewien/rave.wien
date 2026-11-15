@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-07-herzfrequenz-presents-niotech@rave.wien
+DTSTAMP:20251107T000000Z
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
+SUMMARY:HERZFREQUENZ presents: NIOTECH
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Niotech\nVeranstalter: Herzfrequenz\n\nhttps://rave.wien/e/20
+ 25-11-07-herzfrequenz-presents-niotech
+URL:https://rave.wien/e/2025-11-07-herzfrequenz-presents-niotech
+END:VEVENT
 END:VCALENDAR

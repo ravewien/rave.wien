@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-10-12-conn-kt-x-dj-t-1000-aka-alan-oldham-bb-deng@rave.wien
+DTSTAMP:20241012T000000Z
+DTSTART;VALUE=DATE:20241012
+DTEND;VALUE=DATE:20241013
+SUMMARY:CONNÆKT x DJ T-1000 aka Alan Oldham & BB Deng
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:DJ T-1000\, BB Deng\n\nhttps://rave.wien/e/2024-10-12-conn-kt
+ -x-dj-t-1000-aka-alan-oldham-bb-deng
+URL:https://rave.wien/e/2024-10-12-conn-kt-x-dj-t-1000-aka-alan-oldham-bb
+ -deng
+END:VEVENT
 END:VCALENDAR

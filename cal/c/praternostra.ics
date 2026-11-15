@@ -25,4 +25,72 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-05-24-praternostra-w-mija@rave.wien
+DTSTAMP:20250524T000000Z
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250525
+SUMMARY:PraterNostra /w MIJA
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:MIJA\nVeranstalter: Praternostra\n\nhttps://rave.wien/e/2025-
+ 05-24-praternostra-w-mija
+URL:https://rave.wien/e/2025-05-24-praternostra-w-mija
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-07-praternostra-w-mimi-love-berlin-kater-blau@rave.wien
+DTSTAMP:20250607T000000Z
+DTSTART;VALUE=DATE:20250607
+DTEND;VALUE=DATE:20250608
+SUMMARY:PRATERNOSTRA /W MIMI LOVE (Berlin/Kater Blau)
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Mimi Love\nVeranstalter: Praternostra\n\nhttps://rave.wien/e/
+ 2025-06-07-praternostra-w-mimi-love-berlin-kater-blau
+URL:https://rave.wien/e/2025-06-07-praternostra-w-mimi-love-berlin-kater-
+ blau
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-20-neonnostra-w-oliver-huntemann@rave.wien
+DTSTAMP:20250620T000000Z
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+SUMMARY:NeonNostra /w Oliver Huntemann
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Oliver Huntemann\nVeranstalter: Praternostra\n\nhttps://rave.
+ wien/e/2025-06-20-neonnostra-w-oliver-huntemann
+URL:https://rave.wien/e/2025-06-20-neonnostra-w-oliver-huntemann
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-20-praternostra@rave.wien
+DTSTAMP:20250920T000000Z
+DTSTART;VALUE=DATE:20250920
+DTEND;VALUE=DATE:20250921
+SUMMARY:PRATERNOSTRA
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Praternostra\n\nhttps://rave.wien/e/2025-09-20-
+ praternostra
+URL:https://rave.wien/e/2025-09-20-praternostra
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-11-praternostra-invites-emerald@rave.wien
+DTSTAMP:20251011T000000Z
+DTSTART;VALUE=DATE:20251011
+DTEND;VALUE=DATE:20251012
+SUMMARY:PRATERNOSTRA Invites Emerald
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Emerald\nVeranstalter: Praternostra\n\nhttps://rave.wien/e/20
+ 25-10-11-praternostra-invites-emerald
+URL:https://rave.wien/e/2025-10-11-praternostra-invites-emerald
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-15-praternostra-invites-tommahawk-rosa-rosen@rave.wien
+DTSTAMP:20251115T000000Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:PRATERNOSTRA invites Tommahawk & Rosa Rosen
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Tommahawk\, Rosa Rosen\nVeranstalter: Praternostra\n\nhttps:/
+ /rave.wien/e/2025-11-15-praternostra-invites-tommahawk-rosa-rosen
+URL:https://rave.wien/e/2025-11-15-praternostra-invites-tommahawk-rosa-ro
+ sen
+END:VEVENT
 END:VCALENDAR

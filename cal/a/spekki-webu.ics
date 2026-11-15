@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-20-redivider-pres-spekki-webu@rave.wien
+DTSTAMP:20241220T000000Z
+DTSTART;VALUE=DATE:20241220
+DTEND;VALUE=DATE:20241221
+SUMMARY:REDIVIDER pres. Spekki Webu
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Spekki Webu\nVeranstalter: Redivider\n\nhttps://rave.wien/e/2
+ 024-12-20-redivider-pres-spekki-webu
+URL:https://rave.wien/e/2024-12-20-redivider-pres-spekki-webu
+END:VEVENT
 END:VCALENDAR

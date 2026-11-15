@@ -56,6 +56,19 @@ DESCRIPTION:Kork\, Gurkal²³\, Nasty\, Tekno Nixe\nVeranstalter: Nasty C
 URL:https://rave.wien/e/2026-12-11-teknoteka-vol-4
 END:VEVENT
 BEGIN:VEVENT
+UID:2025-05-10-tattu-tatta-glub-macht-pau-se-grelle-forelle@rave.wien
+DTSTAMP:20250510T000000Z
+DTSTART;VALUE=DATE:20250510
+DTEND;VALUE=DATE:20250511
+SUMMARY:TATTU TATTA GLUB macht PAU’se @ GRELLE FORELLE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mariad\, Greg\, Pau\, Nasty\, DJ Spit & Caramelo\, Vivienna\,
+  Serafin\nVeranstalter: Tattu Tatta Glub\n\nhttps://rave.wien/e/2025-05-
+ 10-tattu-tatta-glub-macht-pau-se-grelle-forelle
+URL:https://rave.wien/e/2025-05-10-tattu-tatta-glub-macht-pau-se-grelle-f
+ orelle
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-05-out-of-space@rave.wien
 DTSTAMP:20261105T000000Z
 DTSTART;TZID=Europe/Vienna:20261105T230000

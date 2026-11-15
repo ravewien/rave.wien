@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-13-mitmischen-by-wiener-mischung-w-rusrus-alther-und@rave.wien
+DTSTAMP:20260213T000000Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:Mitmischen by Wiener Mischung w/RUSRUS\, ALTHER und nosewise
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Rusrus\, Alther\, nosewise\nVeranstalter: Wiener Mischung\n\n
+ https://rave.wien/e/2026-02-13-mitmischen-by-wiener-mischung-w-rusrus-al
+ ther-und
+URL:https://rave.wien/e/2026-02-13-mitmischen-by-wiener-mischung-w-rusrus
+ -alther-und
+END:VEVENT
 END:VCALENDAR

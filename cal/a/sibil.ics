@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-06-26-prst-invites-mayell-sibil@rave.wien
+DTSTAMP:20260626T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:PRST invites Mayell & Sibil
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Mayell\, Sibil\n\nhttps://rave.wien/e/2026-06-26-prst-invites
+ -mayell-sibil
+URL:https://rave.wien/e/2026-06-26-prst-invites-mayell-sibil
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-04-10-vnv-x-soundbuglerei-invite-gabriel-belabbas@rave.wien
+DTSTAMP:20260410T000000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:VNV x Soundbüglerei invite Gabriel Belabbas
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Gabriel Belabbas\nVeranstalter: Soundbüglerei\, VNV\n\nhttps
+ ://rave.wien/e/2026-04-10-vnv-x-soundbuglerei-invite-gabriel-belabbas
+URL:https://rave.wien/e/2026-04-10-vnv-x-soundbuglerei-invite-gabriel-bel
+ abbas
+END:VEVENT
 END:VCALENDAR

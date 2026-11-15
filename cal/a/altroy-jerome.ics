@@ -26,6 +26,44 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-12-07-13-yrs-grelle-forelle-day-two@rave.wien
+DTSTAMP:20241207T000000Z
+DTSTART;TZID=Europe/Vienna:20241207T230000
+DTEND;TZID=Europe/Vienna:20241208T040000
+SUMMARY:13 YRS Grelle Forelle – Day Two
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:DJ Heartstring\, Derrick Raw\, Vivienna\, Flo Real\, Koa\, Al
+ troy Jerome\n\nhttps://rave.wien/e/2024-12-07-13-yrs-grelle-forelle-day-
+ two
+URL:https://rave.wien/e/2024-12-07-13-yrs-grelle-forelle-day-two
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-28-deep-cut-w-altroy-jerome-elah-hypnotic-deep-techn@rave.wien
+DTSTAMP:20250528T000000Z
+DTSTART;VALUE=DATE:20250528
+DTEND;VALUE=DATE:20250529
+SUMMARY:deep cut w/ Altroy Jerome & Elah – Hypnotic & Deep Techno
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Altroy Jerome\, Elah\nVeranstalter: deep cut\n\nhttps://rave.
+ wien/e/2025-05-28-deep-cut-w-altroy-jerome-elah-hypnotic-deep-techn
+URL:https://rave.wien/e/2025-05-28-deep-cut-w-altroy-jerome-elah-hypnotic
+ -deep-techn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-a-party-called-jack@rave.wien
+DTSTAMP:20261017T000000Z
+DTSTART;TZID=Europe/Vienna:20261017T220000
+DTEND;TZID=Europe/Vienna:20261018T030000
+SUMMARY:A party called JACK
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Altroy Jerome\, JP Bechamel\, The Zees\, Sora\, Cynthia Cee\n
+ Veranstalter: A Party Called Jack\nEintritt: 12 € vor Mitternacht / 15
+  € danach\n\nDance-Workshop mit Farah Deen\; Live-Vocals von Cynthia C
+ ee\; JACK Resident-DJs\n\nhttps://rave.wien/e/2026-10-17-a-party-called-
+ jack
+URL:https://rave.wien/e/2026-10-17-a-party-called-jack
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-halloween-the-tunegirl-live@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T230000

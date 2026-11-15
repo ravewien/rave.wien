@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-05-24-below-the-surface-w-zisko@rave.wien
+DTSTAMP:20250524T000000Z
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250525
+SUMMARY:BELOW THE SURFACE w/ ZISKO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Zisko\nVeranstalter: Below the Surface\n\nhttps://rave.wien/e
+ /2025-05-24-below-the-surface-w-zisko
+URL:https://rave.wien/e/2025-05-24-below-the-surface-w-zisko
+END:VEVENT
 END:VCALENDAR

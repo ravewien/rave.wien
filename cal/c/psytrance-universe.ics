@@ -38,4 +38,162 @@ DESCRIPTION:Veranstalter: FromDuskTillDawn\, Psytrance Universe\n\nPsytra
  /e/2026-12-12-psytrance-universe-werk
 URL:https://rave.wien/e/2026-12-12-psytrance-universe-werk
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-30-psytrance-universe-12h-daytime-rave-at-exil@rave.wien
+DTSTAMP:20241130T000000Z
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241201
+SUMMARY:PSYTRANCE UNIVERSE – 12H Daytime Rave at EXIL
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Veranstalter: Psytrance Universe\n\nhttps://rave.wien/e/2024-
+ 11-30-psytrance-universe-12h-daytime-rave-at-exil
+URL:https://rave.wien/e/2024-11-30-psytrance-universe-12h-daytime-rave-at
+ -exil
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-08-psytrance-universe-12h-day-night-rave-at-exil@rave.wien
+DTSTAMP:20250308T000000Z
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250309
+SUMMARY:PSYTRANCE UNIVERSE – 12H Day & Night Rave at EXIL
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Veranstalter: Psytrance Universe\n\nhttps://rave.wien/e/2025-
+ 03-08-psytrance-universe-12h-day-night-rave-at-exil
+URL:https://rave.wien/e/2025-03-08-psytrance-universe-12h-day-night-rave-
+ at-exil
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-09-psytrance-universe@rave.wien
+DTSTAMP:20250509T000000Z
+DTSTART;VALUE=DATE:20250509
+DTEND;VALUE=DATE:20250510
+SUMMARY:Psytrance Universe
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Psytrance Universe\n\nhttps://rave.wien/e/2025-
+ 05-09-psytrance-universe
+URL:https://rave.wien/e/2025-05-09-psytrance-universe
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-30-psytrance-universe-neon-dimensions-grelle-forelle@rave.wien
+DTSTAMP:20250530T000000Z
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250531
+SUMMARY:Psytrance Universe – Neon Dimensions @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alezzaro\, Cougar\, Urklang\, Bornvoyage\, Misaya\, Progtamin
+ \, Hannah mit Hut\, Oblix\, Serex\, Marakame\, Tomagan\, Agnya\, Karam J
+ \, Arnab\, Insano\, Camsis\, Cheddar Boyz\nVeranstalter: Psytrance Unive
+ rse\n\nhttps://rave.wien/e/2025-05-30-psytrance-universe-neon-dimensions
+ -grelle-forelle
+URL:https://rave.wien/e/2025-05-30-psytrance-universe-neon-dimensions-gre
+ lle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-12-psytrance-universe-poolparty-at-pratersauna@rave.wien
+DTSTAMP:20250912T000000Z
+DTSTART;VALUE=DATE:20250912
+DTEND;VALUE=DATE:20250913
+SUMMARY:PSYTRANCE UNIVERSE – Poolparty at Pratersauna
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Psytrance Universe\n\nhttps://rave.wien/e/2025-
+ 09-12-psytrance-universe-poolparty-at-pratersauna
+URL:https://rave.wien/e/2025-09-12-psytrance-universe-poolparty-at-prater
+ sauna
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-10-psytrance-universe-with-klopfgeister-at-flucc@rave.wien
+DTSTAMP:20251010T000000Z
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251011
+SUMMARY:PSYTRANCE UNIVERSE with Klopfgeister at FLUCC
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Klopfgeister\nVeranstalter: Psytrance Universe\n\nhttps://rav
+ e.wien/e/2025-10-10-psytrance-universe-with-klopfgeister-at-flucc
+URL:https://rave.wien/e/2025-10-10-psytrance-universe-with-klopfgeister-a
+ t-flucc
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-15-psytrance-universe-12h-day-night-rave-at-exil@rave.wien
+DTSTAMP:20251115T000000Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:PSYTRANCE UNIVERSE – 12H Day & Night Rave at EXIL
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Veranstalter: Psytrance Universe\n\nhttps://rave.wien/e/2025-
+ 11-15-psytrance-universe-12h-day-night-rave-at-exil
+URL:https://rave.wien/e/2025-11-15-psytrance-universe-12h-day-night-rave-
+ at-exil
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-28-psytrance-universe-12h-day-night-rave-with-rinkad@rave.wien
+DTSTAMP:20260228T000000Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:PSYTRANCE UNIVERSE – 12H Day & Night Rave with Rinkadink at EXIL
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Rinkadink\nVeranstalter: Psytrance Universe\n\nhttps://rave.w
+ ien/e/2026-02-28-psytrance-universe-12h-day-night-rave-with-rinkad
+URL:https://rave.wien/e/2026-02-28-psytrance-universe-12h-day-night-rave-
+ with-rinkad
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-11-psytrance-universe-with-psynonima-futuremoon@rave.wien
+DTSTAMP:20260411T000000Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:PSYTRANCE UNIVERSE with Psynonima & Futuremoon
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Psynonima\, Futuremoon\nVeranstalter: Psytrance Universe\n\nh
+ ttps://rave.wien/e/2026-04-11-psytrance-universe-with-psynonima-futuremo
+ on
+URL:https://rave.wien/e/2026-04-11-psytrance-universe-with-psynonima-futu
+ remoon
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-09-psytrance-universe-with-beyond-hu@rave.wien
+DTSTAMP:20260509T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:PSYTRANCE UNIVERSE with BEYOND (Hu)
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Beyond\nVeranstalter: Psytrance Universe\n\nhttps://rave.wien
+ /e/2026-05-09-psytrance-universe-with-beyond-hu
+URL:https://rave.wien/e/2026-05-09-psytrance-universe-with-beyond-hu
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-05-psytrance-universe-with-electric-universe@rave.wien
+DTSTAMP:20260605T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:PSYTRANCE UNIVERSE with Electric Universe
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Electric Universe\nVeranstalter: Psytrance Universe\n\nhttps:
+ //rave.wien/e/2026-06-05-psytrance-universe-with-electric-universe
+URL:https://rave.wien/e/2026-06-05-psytrance-universe-with-electric-unive
+ rse
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-25-psytrance-universe-extended-open-air-indoor@rave.wien
+DTSTAMP:20260725T000000Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:PSYTRANCE UNIVERSE Extended – Open Air & Indoor
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Psytrance Universe\n\nhttps://rave.wien/e/2026-
+ 07-25-psytrance-universe-extended-open-air-indoor
+URL:https://rave.wien/e/2026-07-25-psytrance-universe-extended-open-air-i
+ ndoor
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-psytrance-universe-at-werk-with-artyficial@rave.wien
+DTSTAMP:20260926T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:PSYTRANCE UNIVERSE at WERK with Artyficial
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Artyficial\nVeranstalter: Psytrance Universe\n\nhttps://rave.
+ wien/e/2026-09-26-psytrance-universe-at-werk-with-artyficial
+URL:https://rave.wien/e/2026-09-26-psytrance-universe-at-werk-with-artyfi
+ cial
+END:VEVENT
 END:VCALENDAR

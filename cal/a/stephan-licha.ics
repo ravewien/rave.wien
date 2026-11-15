@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-30-lowenzahn-w-emma-keks-stephan-licha@rave.wien
+DTSTAMP:20241130T000000Z
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241201
+SUMMARY:LÖWENZAHN w/ Emma Keks & Stephan Licha
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Emma Keks\, Stephan Licha\nVeranstalter: Löwenzahn\n\nhttps:
+ //rave.wien/e/2024-11-30-lowenzahn-w-emma-keks-stephan-licha
+URL:https://rave.wien/e/2024-11-30-lowenzahn-w-emma-keks-stephan-licha
+END:VEVENT
 END:VCALENDAR

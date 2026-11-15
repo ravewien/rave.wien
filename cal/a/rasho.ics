@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-10-10-club-fatale-w-rasho@rave.wien
+DTSTAMP:20251010T000000Z
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251011
+SUMMARY:club fatale w. rasho
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:rasho\nVeranstalter: Club Fatale\n\nhttps://rave.wien/e/2025-
+ 10-10-club-fatale-w-rasho
+URL:https://rave.wien/e/2025-10-10-club-fatale-w-rasho
+END:VEVENT
 END:VCALENDAR

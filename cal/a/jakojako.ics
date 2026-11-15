@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-03-14-fish-market-w-jakojako-gerald-vdh-mischa-beton-u@rave.wien
+DTSTAMP:20250314T000000Z
+DTSTART;VALUE=DATE:20250314
+DTEND;VALUE=DATE:20250315
+SUMMARY:FISH MARKET w/ JakoJako\, Gerald VDH\, Mischa Beton\, u.v.m.
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:JakoJako\, Gerald VDH\, Mischa Beton\nVeranstalter: Fish Mark
+ et\n\nhttps://rave.wien/e/2025-03-14-fish-market-w-jakojako-gerald-vdh-m
+ ischa-beton-u
+URL:https://rave.wien/e/2025-03-14-fish-market-w-jakojako-gerald-vdh-misc
+ ha-beton-u
+END:VEVENT
 END:VCALENDAR

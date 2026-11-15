@@ -25,4 +25,41 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-08-14-sommernachtstraum-2025@rave.wien
+DTSTAMP:20250814T000000Z
+DTSTART;VALUE=DATE:20250814
+DTEND;VALUE=DATE:20250815
+SUMMARY:Sommernachtstraum 2025
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Anni Herzer\, Cherry & Beats\, DJ Katse\, meet.franka\, There
+ se Terror\n\nhttps://rave.wien/e/2025-08-14-sommernachtstraum-2025
+URL:https://rave.wien/e/2025-08-14-sommernachtstraum-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-18-red-groove-social-club-with-aaron-it-s-george-mee@rave.wien
+DTSTAMP:20251018T000000Z
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251019
+SUMMARY:RED GROOVE (Social Club) with Aaron\, It’s George\, Meet Franka
+ \, Techno Ganoven
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Aaron\, It’s George\, meet.franka\, Techno Ganoven\nVeranst
+ alter: Red Groove Social Club\n\nhttps://rave.wien/e/2025-10-18-red-groo
+ ve-social-club-with-aaron-it-s-george-mee
+URL:https://rave.wien/e/2025-10-18-red-groove-social-club-with-aaron-it-s
+ -george-mee
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-05-kein-sonntag-ohne-techno-season-opening@rave.wien
+DTSTAMP:20260405T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:KEIN SONNTAG OHNE TECHNO | Season Opening
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:alina\, aramboa\, doktor dopf\, honeyvalxx\, ksot soundsystem
+ \, meet.franka\, Rosa Rosen\n\nhttps://rave.wien/e/2026-04-05-kein-sonnt
+ ag-ohne-techno-season-opening
+URL:https://rave.wien/e/2026-04-05-kein-sonntag-ohne-techno-season-opening
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,93 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-07-12-deep-dive-w-givio-es@rave.wien
+DTSTAMP:20250712T000000Z
+DTSTART;VALUE=DATE:20250712
+DTEND;VALUE=DATE:20250713
+SUMMARY:DEEP DIVE W/ GIVIO (ES)
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Givio\nVeranstalter: Deep Dive\n\nhttps://rave.wien/e/2025-07
+ -12-deep-dive-w-givio-es
+URL:https://rave.wien/e/2025-07-12-deep-dive-w-givio-es
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-22-deep-dive-w-max-kernmayer@rave.wien
+DTSTAMP:20250822T000000Z
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250823
+SUMMARY:DEEP DIVE W/ MAX KERNMAYER
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Max Kernmayer\nVeranstalter: Deep Dive\n\nhttps://rave.wien/e
+ /2025-08-22-deep-dive-w-max-kernmayer
+URL:https://rave.wien/e/2025-08-22-deep-dive-w-max-kernmayer
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-01-deep-dive-w-dino-saints@rave.wien
+DTSTAMP:20251101T000000Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251102
+SUMMARY:DEEP DIVE W/ DINO SAINTS
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Dino Saints\nVeranstalter: Deep Dive\n\nhttps://rave.wien/e/2
+ 025-11-01-deep-dive-w-dino-saints
+URL:https://rave.wien/e/2025-11-01-deep-dive-w-dino-saints
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-29-deep-dive-w-kafka@rave.wien
+DTSTAMP:20251129T000000Z
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:DEEP DIVE W/ KAFKA
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Kafka\nVeranstalter: Deep Dive\n\nhttps://rave.wien/e/2025-11
+ -29-deep-dive-w-kafka
+URL:https://rave.wien/e/2025-11-29-deep-dive-w-kafka
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-27-deep-dive-lefteris-birthday-bash@rave.wien
+DTSTAMP:20260227T000000Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:DEEP DIVE | LEFTERIS BIRTHDAY BASH
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Lefteris\nVeranstalter: Deep Dive\n\nhttps://rave.wien/e/2026
+ -02-27-deep-dive-lefteris-birthday-bash
+URL:https://rave.wien/e/2026-02-27-deep-dive-lefteris-birthday-bash
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-18-deep-dive-by-bassbehorde-w-scheibenwischer@rave.wien
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:DEEP DIVE by Bassbehörde w/ Scheibenwischer
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Scheibenwischer\nVeranstalter: Deep Dive\n\nhttps://rave.wien
+ /e/2026-04-18-deep-dive-by-bassbehorde-w-scheibenwischer
+URL:https://rave.wien/e/2026-04-18-deep-dive-by-bassbehorde-w-scheibenwis
+ cher
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-24-deep-dive-w-anni-herzer@rave.wien
+DTSTAMP:20260424T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:DEEP DIVE W/ ANNI HERZER
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Anni Herzer\nVeranstalter: Deep Dive\n\nhttps://rave.wien/e/2
+ 026-04-24-deep-dive-w-anni-herzer
+URL:https://rave.wien/e/2026-04-24-deep-dive-w-anni-herzer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-17-deep-dive@rave.wien
+DTSTAMP:20260717T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:DEEP DIVE
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Deep Dive\n\nhttps://rave.wien/e/2026-07-17-dee
+ p-dive
+URL:https://rave.wien/e/2026-07-17-deep-dive
+END:VEVENT
 END:VCALENDAR

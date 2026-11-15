@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-09-05-ponyhof-presents-river-rave@rave.wien
+DTSTAMP:20260905T000000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Ponyhof presents River Rave
+LOCATION:Usus am Wasser\, An der Neuen Donau 1\, 1210 Wien
+DESCRIPTION:Veranstalter: Ponyhof\n\nOpen-Air-Rave am Wasser.\n\nhttps://
+ rave.wien/e/2026-09-05-ponyhof-presents-river-rave
+URL:https://rave.wien/e/2026-09-05-ponyhof-presents-river-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-open-air-im-prater-gallop-im-popp@rave.wien
+DTSTAMP:20260926T000000Z
+DTSTART;TZID=Europe/Vienna:20260926T150000
+DTEND;TZID=Europe/Vienna:20260927T010000
+SUMMARY:Open Air im Prater – Gallop im Popp
+LOCATION:The Popp im Prater\, Wurstelprater\, 1020 Wien
+DESCRIPTION:AliasElias\, Feni\, Kovinator\, Megamietzi\, Rave Dave\nVeran
+ stalter: Ponyhof\nEintritt: 15–20 Uhr 10 €\, 20–01 Uhr 12 €\n\nS
+ pecial Guest 15–17 Uhr: Date My Mate.\n\nhttps://rave.wien/e/2026-09-2
+ 6-open-air-im-prater-gallop-im-popp
+URL:https://rave.wien/e/2026-09-26-open-air-im-prater-gallop-im-popp
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-22-redivider-pres-elli-acula@rave.wien
+DTSTAMP:20241122T000000Z
+DTSTART;VALUE=DATE:20241122
+DTEND;VALUE=DATE:20241123
+SUMMARY:REDIVIDER pres. Elli Acula
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Elli Acula\nVeranstalter: Redivider\n\nhttps://rave.wien/e/20
+ 24-11-22-redivider-pres-elli-acula
+URL:https://rave.wien/e/2024-11-22-redivider-pres-elli-acula
+END:VEVENT
 END:VCALENDAR

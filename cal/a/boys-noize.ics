@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-04-12-zuckerwatt-w-boys-noize-x-rave-on-society@rave.wien
+DTSTAMP:20240412T000000Z
+DTSTART;VALUE=DATE:20240412
+DTEND;VALUE=DATE:20240413
+SUMMARY:ZUCKERWATT w/ BOYS NOIZE x Rave On Society
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Boys Noize\nVeranstalter: Zuckerwatt\, Rave On Society\n\nhtt
+ ps://rave.wien/e/2024-04-12-zuckerwatt-w-boys-noize-x-rave-on-society
+URL:https://rave.wien/e/2024-04-12-zuckerwatt-w-boys-noize-x-rave-on-soci
+ ety
+END:VEVENT
 END:VCALENDAR

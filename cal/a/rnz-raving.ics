@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-01-10-vienn-a-tek-w-rnz-raving@rave.wien
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:Vienn_a_Tek w/ RNZ Raving
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:RNZ Raving\nVeranstalter: Vienn_a_Tek\n\nhttps://rave.wien/e/
+ 2026-01-10-vienn-a-tek-w-rnz-raving
+URL:https://rave.wien/e/2026-01-10-vienn-a-tek-w-rnz-raving
+END:VEVENT
 END:VCALENDAR

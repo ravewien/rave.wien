@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-08-27-donnerstrada-with-lisstn-memet-acuma@rave.wien
+DTSTAMP:20260827T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:DONNERSTRADA with LiSSTN & Memet Acuma
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:LiSSTN\, Memet Acuma\nVeranstalter: Donnerstrada\n\nhttps://r
+ ave.wien/e/2026-08-27-donnerstrada-with-lisstn-memet-acuma
+URL:https://rave.wien/e/2026-08-27-donnerstrada-with-lisstn-memet-acuma
+END:VEVENT
 END:VCALENDAR

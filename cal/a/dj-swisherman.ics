@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-04-20-mahlwerk-with-dj-swisherman@rave.wien
+DTSTAMP:20250420T000000Z
+DTSTART;VALUE=DATE:20250420
+DTEND;VALUE=DATE:20250421
+SUMMARY:Mahlwerk with DJ SWISHERMAN
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DJ Swisherman\nVeranstalter: Mahlwerk\n\nhttps://rave.wien/e/
+ 2025-04-20-mahlwerk-with-dj-swisherman
+URL:https://rave.wien/e/2025-04-20-mahlwerk-with-dj-swisherman
+END:VEVENT
 END:VCALENDAR

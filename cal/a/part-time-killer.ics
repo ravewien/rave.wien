@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-03-07-part-time-killer-dj-achim-feuervogel-grelle-forel@rave.wien
+DTSTAMP:20260307T000000Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:Part Time Killer & DJ Achim Feuervogel | Grelle Forelle Club Night
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Part Time Killer\, DJ Achim Feuervogel\n\nhttps://rave.wien/e
+ /2026-03-07-part-time-killer-dj-achim-feuervogel-grelle-forel
+URL:https://rave.wien/e/2026-03-07-part-time-killer-dj-achim-feuervogel-g
+ relle-forel
+END:VEVENT
 END:VCALENDAR

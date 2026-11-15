@@ -25,4 +25,101 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-03-01-techno-entgleist-bussis-aus-berlin@rave.wien
+DTSTAMP:20240301T000000Z
+DTSTART;TZID=Europe/Vienna:20240301T230000
+DTEND;TZID=Europe/Vienna:20240302T040000
+SUMMARY:TECHNO ENTGLEIST | BUSSIS AUS BERLIN
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:BOHO\, DOBé\, Louisa India\, Vibechen\, Manu Script\, Adrian
+  Tronic\, Epicuro\, Tomagan\nVeranstalter: Techno Entgleist\nEintritt: A
+ K only\, freiwilliger Beitrag ab 15 €\n\nhttps://rave.wien/e/2024-03-0
+ 1-techno-entgleist-bussis-aus-berlin
+URL:https://rave.wien/e/2024-03-01-techno-entgleist-bussis-aus-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-27-techno-entgleist-grelle-forelle@rave.wien
+DTSTAMP:20240427T000000Z
+DTSTART;TZID=Europe/Vienna:20240427T230000
+DTEND;TZID=Europe/Vienna:20240428T040000
+SUMMARY:TECHNO ENTGLEIST | GRELLE FORELLE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Techno Entgleist\n\nhttps://rave.wien/e/2024-04
+ -27-techno-entgleist-grelle-forelle
+URL:https://rave.wien/e/2024-04-27-techno-entgleist-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-05-7-yrs-techno-entgleist-w-vizionn-occibel@rave.wien
+DTSTAMP:20240705T000000Z
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240706
+SUMMARY:7 YRS TECHNO ENTGLEIST w/ VIZIONN & OCCIBEL
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Vizionn\, Occibel\nVeranstalter: Techno Entgleist\n\nhttps://
+ rave.wien/e/2024-07-05-7-yrs-techno-entgleist-w-vizionn-occibel
+URL:https://rave.wien/e/2024-07-05-7-yrs-techno-entgleist-w-vizionn-occib
+ el
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-26-techno-entgleist-back-to-the-roots@rave.wien
+DTSTAMP:20241026T000000Z
+DTSTART;TZID=Europe/Vienna:20241026T230000
+DTEND;TZID=Europe/Vienna:20241027T040000
+SUMMARY:TECHNO ENTGLEIST | BACK TO THE ROOTS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Conntex\, Nat Suprise\, Artemis\, Tomagan\, Yansen\, Kon:Stil
+ \, Smuf\, Tony V\nVeranstalter: Techno Entgleist\n\nhttps://rave.wien/e/
+ 2024-10-26-techno-entgleist-back-to-the-roots
+URL:https://rave.wien/e/2024-10-26-techno-entgleist-back-to-the-roots
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-22-techno-entgleist-x-du-tanzt-mich-mal@rave.wien
+DTSTAMP:20250322T000000Z
+DTSTART;VALUE=DATE:20250322
+DTEND;VALUE=DATE:20250323
+SUMMARY:TECHNO ENTGLEIST x DU TANZT MICH MAL
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Tomagan\, Vibechen\, Paul Boese\, LizN\, Adrian Tronic\, Manu
+  Script\, Reinhard Zach\nVeranstalter: Techno Entgleist\n\nhttps://rave.
+ wien/e/2025-03-22-techno-entgleist-x-du-tanzt-mich-mal
+URL:https://rave.wien/e/2025-03-22-techno-entgleist-x-du-tanzt-mich-mal
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-23-8-yrs-techno-entgleist-open-air-indoor@rave.wien
+DTSTAMP:20250523T000000Z
+DTSTART;VALUE=DATE:20250523
+DTEND;VALUE=DATE:20250524
+SUMMARY:8 YRS TECHNO ENTGLEIST | Open Air & Indoor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mimosa\, Epicuro\, Tomagan\, Alexis Hera\, Danloe\, Anni Herz
+ er\, Smuf\, Vibechen\, Max Wagner\, Tony V\nVeranstalter: Techno Entglei
+ st\n\nhttps://rave.wien/e/2025-05-23-8-yrs-techno-entgleist-open-air-ind
+ oor
+URL:https://rave.wien/e/2025-05-23-8-yrs-techno-entgleist-open-air-indoor
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-26-techno-entgleist-x-du-tanzt-mich-mal-afterparty@rave.wien
+DTSTAMP:20250726T000000Z
+DTSTART;VALUE=DATE:20250726
+DTEND;VALUE=DATE:20250727
+SUMMARY:TECHNO ENTGLEIST x DU TANZT MICH MAL Afterparty
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Paul Boese\, Tomagan\, Très Julie\, Paul Panther\, Goldie Go
+ ldenshowers\, Seba\nVeranstalter: Techno Entgleist\n\nhttps://rave.wien/
+ e/2025-07-26-techno-entgleist-x-du-tanzt-mich-mal-afterparty
+URL:https://rave.wien/e/2025-07-26-techno-entgleist-x-du-tanzt-mich-mal-a
+ fterparty
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-25-iosio-9-yrs-techno-entgleist@rave.wien
+DTSTAMP:20260425T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:IOSIO | 9 YRS TECHNO ENTGLEIST
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:IOSIO\nVeranstalter: Techno Entgleist\n\nhttps://rave.wien/e/
+ 2026-04-25-iosio-9-yrs-techno-entgleist
+URL:https://rave.wien/e/2026-04-25-iosio-9-yrs-techno-entgleist
+END:VEVENT
 END:VCALENDAR

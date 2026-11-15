@@ -42,4 +42,18 @@ DESCRIPTION:NoNameLeft\, Mateo!\, David Phoenix\, Nya Nyx\nVeranstalter:
  t
 URL:https://rave.wien/e/2026-11-20-vision-serpent
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-06-besser-drauf-mit-silsan-david-phoenix-kollektiv-s@rave.wien
+DTSTAMP:20240706T000000Z
+DTSTART;VALUE=DATE:20240706
+DTEND;VALUE=DATE:20240707
+SUMMARY:BESSER DRAUF mit SILSAN\, David Phoenix\, Kollektiv Sheesh b2b Nu
+ gi und Patrik Pagan
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Silsan\, David Phoenix\, Kollektiv Sheesh\, Nugi\, Patrik Pag
+ an\n\nhttps://rave.wien/e/2024-07-06-besser-drauf-mit-silsan-david-phoen
+ ix-kollektiv-s
+URL:https://rave.wien/e/2024-07-06-besser-drauf-mit-silsan-david-phoenix-
+ kollektiv-s
+END:VEVENT
 END:VCALENDAR

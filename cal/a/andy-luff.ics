@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-04-26-groove-revival-invites-andy-luff@rave.wien
+DTSTAMP:20250426T000000Z
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250427
+SUMMARY:Groove Revival invites Andy Luff
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Andy Luff\nVeranstalter: Groove Revival\n\nhttps://rave.wien/
+ e/2025-04-26-groove-revival-invites-andy-luff
+URL:https://rave.wien/e/2025-04-26-groove-revival-invites-andy-luff
+END:VEVENT
 END:VCALENDAR

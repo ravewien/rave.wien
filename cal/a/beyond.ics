@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-05-09-psytrance-universe-with-beyond-hu@rave.wien
+DTSTAMP:20260509T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:PSYTRANCE UNIVERSE with BEYOND (Hu)
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Beyond\nVeranstalter: Psytrance Universe\n\nhttps://rave.wien
+ /e/2026-05-09-psytrance-universe-with-beyond-hu
+URL:https://rave.wien/e/2026-05-09-psytrance-universe-with-beyond-hu
+END:VEVENT
 END:VCALENDAR

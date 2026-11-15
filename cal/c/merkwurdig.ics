@@ -25,4 +25,103 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-01-12-merkwurdig-w-jacopo-latini-fabiano@rave.wien
+DTSTAMP:20240112T000000Z
+DTSTART;VALUE=DATE:20240112
+DTEND;VALUE=DATE:20240113
+SUMMARY:Merkwürdig /w Jacopo Latini & Fabiano
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Jacopo Latini\, Fabiano\nVeranstalter: Merkwürdig\n\nhttps:/
+ /rave.wien/e/2024-01-12-merkwurdig-w-jacopo-latini-fabiano
+URL:https://rave.wien/e/2024-01-12-merkwurdig-w-jacopo-latini-fabiano
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-10-merkwurdig-x-club-pompadour@rave.wien
+DTSTAMP:20250110T000000Z
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+SUMMARY:MERKWÜRDIG x CLUB POMPADOUR
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\, Merkwürdig\n\nhttps://rave.wi
+ en/e/2025-01-10-merkwurdig-x-club-pompadour
+URL:https://rave.wien/e/2025-01-10-merkwurdig-x-club-pompadour
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-21-merkwurdig@rave.wien
+DTSTAMP:20250621T000000Z
+DTSTART;VALUE=DATE:20250621
+DTEND;VALUE=DATE:20250622
+SUMMARY:Merkwürdig
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Merkwürdig\n\nhttps://rave.wien/e/2025-06-21-m
+ erkwurdig
+URL:https://rave.wien/e/2025-06-21-merkwurdig
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-19-merkwurdig@rave.wien
+DTSTAMP:20250719T000000Z
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+SUMMARY:Merkwürdig
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Merkwürdig\n\nhttps://rave.wien/e/2025-07-19-m
+ erkwurdig
+URL:https://rave.wien/e/2025-07-19-merkwurdig
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-16-merkwurdig@rave.wien
+DTSTAMP:20250816T000000Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+SUMMARY:Merkwürdig
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Merkwürdig\n\nhttps://rave.wien/e/2025-08-16-m
+ erkwurdig
+URL:https://rave.wien/e/2025-08-16-merkwurdig
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-18-merkwurdig@rave.wien
+DTSTAMP:20251018T000000Z
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251019
+SUMMARY:Merkwürdig
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Merkwürdig\n\nhttps://rave.wien/e/2025-10-18-m
+ erkwurdig
+URL:https://rave.wien/e/2025-10-18-merkwurdig
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-18-10-years-merkwurdig-anniversary@rave.wien
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:10 YEARS MERKWÜRDIG ANNIVERSARY
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Merkwürdig\n\nhttps://rave.wien/e/2026-04-18-1
+ 0-years-merkwurdig-anniversary
+URL:https://rave.wien/e/2026-04-18-10-years-merkwurdig-anniversary
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-11-merkwurdig@rave.wien
+DTSTAMP:20260711T000000Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Merkwürdig
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Merkwürdig\n\nhttps://rave.wien/e/2026-07-11-m
+ erkwurdig
+URL:https://rave.wien/e/2026-07-11-merkwurdig
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-merkwurdig@rave.wien
+DTSTAMP:20260905T000000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Merkwürdig
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Merkwürdig\n\nhttps://rave.wien/e/2026-09-05-m
+ erkwurdig
+URL:https://rave.wien/e/2026-09-05-merkwurdig
+END:VEVENT
 END:VCALENDAR

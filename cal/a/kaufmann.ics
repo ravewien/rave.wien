@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-21-bahnwarter-thiel-showcase-w-kaufmann@rave.wien
+DTSTAMP:20250621T000000Z
+DTSTART;VALUE=DATE:20250621
+DTEND;VALUE=DATE:20250622
+SUMMARY:Bahnwärter Thiel SHOWCASE /W KAUFMANN
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Kaufmann\n\nhttps://rave.wien/e/2025-06-21-bahnwarter-thiel-s
+ howcase-w-kaufmann
+URL:https://rave.wien/e/2025-06-21-bahnwarter-thiel-showcase-w-kaufmann
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-22-spectral-with-kaufmann@rave.wien
+DTSTAMP:20251122T000000Z
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+SUMMARY:Spectral with Kaufmann
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Kaufmann\nVeranstalter: Spectral\n\nhttps://rave.wien/e/2025-
+ 11-22-spectral-with-kaufmann
+URL:https://rave.wien/e/2025-11-22-spectral-with-kaufmann
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,37 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-09-27-pan-pot-gaiser-live-turbo@rave.wien
+DTSTAMP:20240927T000000Z
+DTSTART;VALUE=DATE:20240927
+DTEND;VALUE=DATE:20240928
+SUMMARY:Pan-Pot & Gaiser Live | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Pan-Pot\, Gaiser\nVeranstalter: TURBO\n\nhttps://rave.wien/e/
+ 2024-09-27-pan-pot-gaiser-live-turbo
+URL:https://rave.wien/e/2024-09-27-pan-pot-gaiser-live-turbo
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-09-zuckerwatt-w-a-n-i-x-void-x-donau-rave@rave.wien
+DTSTAMP:20250509T000000Z
+DTSTART;VALUE=DATE:20250509
+DTEND;VALUE=DATE:20250510
+SUMMARY:ZUCKERWATT w/ A.N.I. x VOID x DONAU RAVE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:A.n.i\, VOID\nVeranstalter: Zuckerwatt\n\nhttps://rave.wien/e
+ /2025-05-09-zuckerwatt-w-a-n-i-x-void-x-donau-rave
+URL:https://rave.wien/e/2025-05-09-zuckerwatt-w-a-n-i-x-void-x-donau-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-26-pan-pot-gaiser-live-turbo@rave.wien
+DTSTAMP:20250926T000000Z
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250927
+SUMMARY:Pan-Pot & Gaiser Live | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Pan-Pot\, Gaiser\nVeranstalter: TURBO\n\nhttps://rave.wien/e/
+ 2025-09-26-pan-pot-gaiser-live-turbo
+URL:https://rave.wien/e/2025-09-26-pan-pot-gaiser-live-turbo
+END:VEVENT
 END:VCALENDAR

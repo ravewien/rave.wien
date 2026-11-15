@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-28-f-cken-plus-utterly-butterly-inofficial-pride-clo@rave.wien
+DTSTAMP:20250628T000000Z
+DTSTART;VALUE=DATE:20250628
+DTEND;VALUE=DATE:20250629
+SUMMARY:F*cken Plus – Utterly Butterly Inofficial Pride Closing feat. J
+ amaica Suk\, Gerald VDH\, manu:ra\, u.v.m.
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Jamaica Suk\, Gerald VDH\, Manu:ra\nVeranstalter: F*cken Plus
+ \n\nhttps://rave.wien/e/2025-06-28-f-cken-plus-utterly-butterly-inoffici
+ al-pride-clo
+URL:https://rave.wien/e/2025-06-28-f-cken-plus-utterly-butterly-inofficia
+ l-pride-clo
+END:VEVENT
 END:VCALENDAR

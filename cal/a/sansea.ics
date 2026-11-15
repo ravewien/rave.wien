@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-11-garten-von-eben-im-traumtempo-vii@rave.wien
+DTSTAMP:20261011T000000Z
+DTSTART;TZID=Europe/Vienna:20261011T133000
+DTEND;TZID=Europe/Vienna:20261011T233000
+SUMMARY:Garten von Eben im Traumtempo VII
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Nugi\, Flocker Lockig\, Sansea\, Mood Shifter\, David Bowiedl
+ \, marou\nVeranstalter: Garten von Eben\n\nWorkshop „Connected Breathw
+ ork“ mit Olivia (14–16 Uhr\, Anmeldung nötig)\n\nhttps://rave.wien/
+ e/2026-10-11-garten-von-eben-im-traumtempo-vii
+URL:https://rave.wien/e/2026-10-11-garten-von-eben-im-traumtempo-vii
+END:VEVENT
 END:VCALENDAR

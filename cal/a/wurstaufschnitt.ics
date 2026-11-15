@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-05-16-fish-market-x-esc-party@rave.wien
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:FISH MARKET x ESC Party
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Steya\, Gerald VDH\, Destroyer\, Manu:ra\, Philipp Eicher\, W
+ urstaufschnitt\nVeranstalter: Fish Market\n\nhttps://rave.wien/e/2026-05
+ -16-fish-market-x-esc-party
+URL:https://rave.wien/e/2026-05-16-fish-market-x-esc-party
+END:VEVENT
 END:VCALENDAR

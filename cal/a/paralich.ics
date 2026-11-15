@@ -45,4 +45,16 @@ DESCRIPTION:Paralich\, THIRD 2HIFT\, Valenthin\, DJ Wifi\, LUZZT\nVeranst
 URL:https://rave.wien/e/2026-11-28-dead-end-showcase-with-paralich-pres-b
  y-gdn
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-03-dead-end-showcase-with-paralich-pres-by-gdn@rave.wien
+DTSTAMP:20260703T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:DEAD END showcase with Paralich pres. by GDN
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Paralich\nVeranstalter: GDN\n\nhttps://rave.wien/e/2026-07-03
+ -dead-end-showcase-with-paralich-pres-by-gdn
+URL:https://rave.wien/e/2026-07-03-dead-end-showcase-with-paralich-pres-b
+ y-gdn
+END:VEVENT
 END:VCALENDAR

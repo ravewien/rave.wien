@@ -46,4 +46,15 @@ DESCRIPTION:A.N.I.\, DJ Dreckisch\nVeranstalter: Verknallt\, TUFF\nEintri
 URL:https://rave.wien/e/2026-12-08-verknallt-x-tuff-w-a-n-i-dj-dreckisch-
  daytime-rav
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-02-dj-dreckisch-grelle-forelle-club-night@rave.wien
+DTSTAMP:20260502T000000Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:DJ Dreckisch | Grelle Forelle Club Night
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:DJ Dreckisch\n\nhttps://rave.wien/e/2026-05-02-dj-dreckisch-g
+ relle-forelle-club-night
+URL:https://rave.wien/e/2026-05-02-dj-dreckisch-grelle-forelle-club-night
+END:VEVENT
 END:VCALENDAR

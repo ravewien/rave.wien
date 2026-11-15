@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-28-im-freudentaumel-w-theo-meier-lenia-nya-nyx-shees@rave.wien
+DTSTAMP:20240628T000000Z
+DTSTART;VALUE=DATE:20240628
+DTEND;VALUE=DATE:20240629
+SUMMARY:Im Freudentaumel w/ Theo Meier\, Lenia\, Nya Nyx & Sheesh
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Theo Meier\, Lenia\, Nya Nyx\, Sheesh\nVeranstalter: Im Freud
+ entaumel\n\nhttps://rave.wien/e/2024-06-28-im-freudentaumel-w-theo-meier
+ -lenia-nya-nyx-shees
+URL:https://rave.wien/e/2024-06-28-im-freudentaumel-w-theo-meier-lenia-ny
+ a-nyx-shees
+END:VEVENT
 END:VCALENDAR

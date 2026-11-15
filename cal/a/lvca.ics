@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-03-22-7-years-rhythm-science-w-lvca-live-dj-tjizza-hell@rave.wien
+DTSTAMP:20250322T000000Z
+DTSTART;VALUE=DATE:20250322
+DTEND;VALUE=DATE:20250323
+SUMMARY:7 Years Rhythm Science w/ LVCA Live\, Dj Tjizza & Helly
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:LVCA\, Dj Tjizza\, Helly\nVeranstalter: Rhythm Science\n\nhtt
+ ps://rave.wien/e/2025-03-22-7-years-rhythm-science-w-lvca-live-dj-tjizza
+ -hell
+URL:https://rave.wien/e/2025-03-22-7-years-rhythm-science-w-lvca-live-dj-
+ tjizza-hell
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-06-unframed-fluffy-house-minimalism@rave.wien
+DTSTAMP:20251106T000000Z
+DTSTART;VALUE=DATE:20251106
+DTEND;VALUE=DATE:20251107
+SUMMARY:unframed – fluffy house minimalism
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Unframed\n\nhttps://rave.wien/e/2025-11-06-unfr
+ amed-fluffy-house-minimalism
+URL:https://rave.wien/e/2025-11-06-unframed-fluffy-house-minimalism
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-25-unframed-fluffy-house-minimalism@rave.wien
+DTSTAMP:20260425T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:unframed – fluffy house minimalism
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Veranstalter: Unframed\n\nhttps://rave.wien/e/2026-04-25-unfr
+ amed-fluffy-house-minimalism
+URL:https://rave.wien/e/2026-04-25-unframed-fluffy-house-minimalism
+END:VEVENT
 END:VCALENDAR

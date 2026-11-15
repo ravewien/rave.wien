@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-03-09-schlaflos-im-marz-mit-mall-grab@rave.wien
+DTSTAMP:20240309T000000Z
+DTSTART;VALUE=DATE:20240309
+DTEND;VALUE=DATE:20240310
+SUMMARY:Schlaflos im März mit Mall Grab
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Mall Grab\nVeranstalter: Schlaflos\n\nhttps://rave.wien/e/202
+ 4-03-09-schlaflos-im-marz-mit-mall-grab
+URL:https://rave.wien/e/2024-03-09-schlaflos-im-marz-mit-mall-grab
+END:VEVENT
 END:VCALENDAR

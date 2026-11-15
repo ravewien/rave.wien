@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-01-18-garten-von-eben-pres-traumtempo-x-oliver-rottmann@rave.wien
+DTSTAMP:20260118T000000Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:Garten von Eben pres. Traumtempo x Oliver Rottmann
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Traumtempo\, Oliver Rottmann\nVeranstalter: Garten von Eben\n
+ \nhttps://rave.wien/e/2026-01-18-garten-von-eben-pres-traumtempo-x-olive
+ r-rottmann
+URL:https://rave.wien/e/2026-01-18-garten-von-eben-pres-traumtempo-x-oliv
+ er-rottmann
+END:VEVENT
 END:VCALENDAR

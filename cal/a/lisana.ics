@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-04-19-mitmischen-by-wiener-mischung-w-lisana@rave.wien
+DTSTAMP:20250419T000000Z
+DTSTART;VALUE=DATE:20250419
+DTEND;VALUE=DATE:20250420
+SUMMARY:Mitmischen by Wiener Mischung w/ Lisana
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Lisana\nVeranstalter: Wiener Mischung\n\nhttps://rave.wien/e/
+ 2025-04-19-mitmischen-by-wiener-mischung-w-lisana
+URL:https://rave.wien/e/2025-04-19-mitmischen-by-wiener-mischung-w-lisana
+END:VEVENT
 END:VCALENDAR

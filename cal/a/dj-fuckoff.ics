@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-05-09-lighthouse-x-grelle-forelle-warmup-vie@rave.wien
+DTSTAMP:20260509T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Lighthouse X Grelle Forelle Warmup VIE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Dj Fuckoff\, Helena Lauwaert\, Pau\, Alice\, Felix Rupprecht\
+ , Muallem\, Sumi\nVeranstalter: Lighthouse\n\nhttps://rave.wien/e/2026-0
+ 5-09-lighthouse-x-grelle-forelle-warmup-vie
+URL:https://rave.wien/e/2026-05-09-lighthouse-x-grelle-forelle-warmup-vie
+END:VEVENT
 END:VCALENDAR

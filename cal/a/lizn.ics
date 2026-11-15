@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-03-22-techno-entgleist-x-du-tanzt-mich-mal@rave.wien
+DTSTAMP:20250322T000000Z
+DTSTART;VALUE=DATE:20250322
+DTEND;VALUE=DATE:20250323
+SUMMARY:TECHNO ENTGLEIST x DU TANZT MICH MAL
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Tomagan\, Vibechen\, Paul Boese\, LizN\, Adrian Tronic\, Manu
+  Script\, Reinhard Zach\nVeranstalter: Techno Entgleist\n\nhttps://rave.
+ wien/e/2025-03-22-techno-entgleist-x-du-tanzt-mich-mal
+URL:https://rave.wien/e/2025-03-22-techno-entgleist-x-du-tanzt-mich-mal
+END:VEVENT
 END:VCALENDAR

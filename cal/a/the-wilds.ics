@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-06-27-spectral-with-the-wilds@rave.wien
+DTSTAMP:20260627T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Spectral with The Wilds
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:The Wilds\nVeranstalter: Spectral\n\nhttps://rave.wien/e/2026
+ -06-27-spectral-with-the-wilds
+URL:https://rave.wien/e/2026-06-27-spectral-with-the-wilds
+END:VEVENT
 END:VCALENDAR

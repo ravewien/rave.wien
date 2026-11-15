@@ -25,4 +25,37 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-01-09-minimal-at-praterstrasse@rave.wien
+DTSTAMP:20250109T000000Z
+DTSTART;VALUE=DATE:20250109
+DTEND;VALUE=DATE:20250110
+SUMMARY:MinimaL at Praterstrasse
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: MinimaL\n\nhttps://rave.wien/e/2025-01-09-minim
+ al-at-praterstrasse
+URL:https://rave.wien/e/2025-01-09-minimal-at-praterstrasse
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-13-minimal@rave.wien
+DTSTAMP:20250213T000000Z
+DTSTART;VALUE=DATE:20250213
+DTEND;VALUE=DATE:20250214
+SUMMARY:MinimaL
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: MinimaL\n\nhttps://rave.wien/e/2025-02-13-minim
+ al
+URL:https://rave.wien/e/2025-02-13-minimal
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-01-minimal@rave.wien
+DTSTAMP:20250501T000000Z
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+SUMMARY:MinimaL
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: MinimaL\n\nhttps://rave.wien/e/2025-05-01-minim
+ al
+URL:https://rave.wien/e/2025-05-01-minimal
+END:VEVENT
 END:VCALENDAR

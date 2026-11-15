@@ -86,6 +86,922 @@ DESCRIPTION:POSI FLO\, PJPJPJ\, Julani\nVeranstalter: Housetiere\n\nAusga
 URL:https://rave.wien/e/2026-12-18-housetiere-with-posi-flo
 END:VEVENT
 BEGIN:VEVENT
+UID:2024-05-24-private-sessions-w-stefan-obermaier-b2b-theo-meie@rave.wien
+DTSTAMP:20240524T000000Z
+DTSTART;VALUE=DATE:20240524
+DTEND;VALUE=DATE:20240525
+SUMMARY:Private Sessions w/ Stefan Obermaier b2b Theo Meier
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Stefan Obermaier\, Theo Meier\n\nhttps://rave.wien/e/2024-05-
+ 24-private-sessions-w-stefan-obermaier-b2b-theo-meie
+URL:https://rave.wien/e/2024-05-24-private-sessions-w-stefan-obermaier-b2
+ b-theo-meie
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-29-soundhouse@rave.wien
+DTSTAMP:20240629T000000Z
+DTSTART;VALUE=DATE:20240629
+DTEND;VALUE=DATE:20240630
+SUMMARY:SOUNDHOUSE
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Soundhouse\n\nhttps://rave.wien/e/2024-06-29-so
+ undhouse
+URL:https://rave.wien/e/2024-06-29-soundhouse
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-05-qualia-series@rave.wien
+DTSTAMP:20240705T000000Z
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240706
+SUMMARY:Qualia Series
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-07-05-qualia-series
+URL:https://rave.wien/e/2024-07-05-qualia-series
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-02-third-place-w-rudi-rolliru-billy-mpeg@rave.wien
+DTSTAMP:20240802T000000Z
+DTSTART;VALUE=DATE:20240802
+DTEND;VALUE=DATE:20240803
+SUMMARY:Third Place w/ Rudi Rolliru\, Billy MPEG
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Rudi Rolliru\, Billy MPEG\n\nhttps://rave.wien/e/2024-08-02-t
+ hird-place-w-rudi-rolliru-billy-mpeg
+URL:https://rave.wien/e/2024-08-02-third-place-w-rudi-rolliru-billy-mpeg
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-03-soundhouse-w-masha-dabelka-fabian-hofer-michael-z@rave.wien
+DTSTAMP:20240803T000000Z
+DTSTART;VALUE=DATE:20240803
+DTEND;VALUE=DATE:20240804
+SUMMARY:SOUNDHOUSE w/ Masha Dabelka\, Fabian Hofer\, Michael Zehetner
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Masha Dabelka\, Fabian Hofer\, Michael Zehetner\nVeranstalter
+ : Soundhouse\n\nhttps://rave.wien/e/2024-08-03-soundhouse-w-masha-dabelk
+ a-fabian-hofer-michael-z
+URL:https://rave.wien/e/2024-08-03-soundhouse-w-masha-dabelka-fabian-hofe
+ r-michael-z
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-17-agapa-party-w-b-rt-tatjana-sunder-fabian-hofer@rave.wien
+DTSTAMP:20240817T000000Z
+DTSTART;VALUE=DATE:20240817
+DTEND;VALUE=DATE:20240818
+SUMMARY:Agapa Party w/ Børt\, Tatjana Sünder\, Fabian Hofer
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Børt\, Tatjana Sünder\, Fabian Hofer\n\nhttps://rave.wien/e
+ /2024-08-17-agapa-party-w-b-rt-tatjana-sunder-fabian-hofer
+URL:https://rave.wien/e/2024-08-17-agapa-party-w-b-rt-tatjana-sunder-fabi
+ an-hofer
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-30-pulsar-3@rave.wien
+DTSTAMP:20240830T000000Z
+DTSTART;VALUE=DATE:20240830
+DTEND;VALUE=DATE:20240831
+SUMMARY:PULSAR #3
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-08-30-pulsar-3
+URL:https://rave.wien/e/2024-08-30-pulsar-3
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-31-hosted-by-euphoria@rave.wien
+DTSTAMP:20240831T000000Z
+DTSTART;VALUE=DATE:20240831
+DTEND;VALUE=DATE:20240901
+SUMMARY:hosted by EUPHORIA
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2024-08-31-host
+ ed-by-euphoria
+URL:https://rave.wien/e/2024-08-31-hosted-by-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-27-soundhouse@rave.wien
+DTSTAMP:20240927T000000Z
+DTSTART;VALUE=DATE:20240927
+DTEND;VALUE=DATE:20240928
+SUMMARY:SOUNDHOUSE
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Soundhouse\n\nhttps://rave.wien/e/2024-09-27-so
+ undhouse
+URL:https://rave.wien/e/2024-09-27-soundhouse
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-28-hosted-by-euphoria@rave.wien
+DTSTAMP:20240928T000000Z
+DTSTART;VALUE=DATE:20240928
+DTEND;VALUE=DATE:20240929
+SUMMARY:hosted by EUPHORIA
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2024-09-28-host
+ ed-by-euphoria
+URL:https://rave.wien/e/2024-09-28-hosted-by-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-19-hart-lab@rave.wien
+DTSTAMP:20241019T000000Z
+DTSTART;VALUE=DATE:20241019
+DTEND;VALUE=DATE:20241020
+SUMMARY:Hart Lab
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Hart Lab\n\nhttps://rave.wien/e/2024-10-19-hart
+ -lab
+URL:https://rave.wien/e/2024-10-19-hart-lab
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-30-hosted-by-euphoria@rave.wien
+DTSTAMP:20241130T000000Z
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241201
+SUMMARY:hosted by EUPHORIA
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2024-11-30-host
+ ed-by-euphoria
+URL:https://rave.wien/e/2024-11-30-hosted-by-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-18-falle-club-1@rave.wien
+DTSTAMP:20250118T000000Z
+DTSTART;VALUE=DATE:20250118
+DTEND;VALUE=DATE:20250119
+SUMMARY:Falle Club #1
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-01-18-falle-club-1
+URL:https://rave.wien/e/2025-01-18-falle-club-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-21-vienna-vice@rave.wien
+DTSTAMP:20250221T000000Z
+DTSTART;VALUE=DATE:20250221
+DTEND;VALUE=DATE:20250222
+SUMMARY:VIENNA VICE
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-02-21-vienna-vice
+URL:https://rave.wien/e/2025-02-21-vienna-vice
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-28-hosted-by-euphoria@rave.wien
+DTSTAMP:20250228T000000Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:hosted by Euphoria
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2025-02-28-host
+ ed-by-euphoria
+URL:https://rave.wien/e/2025-02-28-hosted-by-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-15-hart-lab-at-tagada@rave.wien
+DTSTAMP:20250315T000000Z
+DTSTART;VALUE=DATE:20250315
+DTEND;VALUE=DATE:20250316
+SUMMARY:Hart Lab at Tagada
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Hart Lab\n\nhttps://rave.wien/e/2025-03-15-hart
+ -lab-at-tagada
+URL:https://rave.wien/e/2025-03-15-hart-lab-at-tagada
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-04-falle-club-2@rave.wien
+DTSTAMP:20250404T000000Z
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250405
+SUMMARY:Falle Club #2
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-04-04-falle-club-2
+URL:https://rave.wien/e/2025-04-04-falle-club-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-25-hosted-by-euphoria@rave.wien
+DTSTAMP:20250425T000000Z
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250426
+SUMMARY:hosted by EUPHORIA
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2025-04-25-host
+ ed-by-euphoria
+URL:https://rave.wien/e/2025-04-25-hosted-by-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-26-groove-revival-invites-andy-luff@rave.wien
+DTSTAMP:20250426T000000Z
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250427
+SUMMARY:Groove Revival invites Andy Luff
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Andy Luff\nVeranstalter: Groove Revival\n\nhttps://rave.wien/
+ e/2025-04-26-groove-revival-invites-andy-luff
+URL:https://rave.wien/e/2025-04-26-groove-revival-invites-andy-luff
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-10-soundbuglerei-w-malounadou@rave.wien
+DTSTAMP:20250510T000000Z
+DTSTART;VALUE=DATE:20250510
+DTEND;VALUE=DATE:20250511
+SUMMARY:Soundbüglerei w/Malounadou
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Malounadou\nVeranstalter: Soundbüglerei\n\nhttps://rave.wien
+ /e/2025-05-10-soundbuglerei-w-malounadou
+URL:https://rave.wien/e/2025-05-10-soundbuglerei-w-malounadou
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-15-votiv-launch-party@rave.wien
+DTSTAMP:20250515T000000Z
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250516
+SUMMARY:Votiv Launch Party
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Votiv Session\n\nhttps://rave.wien/e/2025-05-15
+ -votiv-launch-party
+URL:https://rave.wien/e/2025-05-15-votiv-launch-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-16-hart-lab-at-tagada@rave.wien
+DTSTAMP:20250516T000000Z
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250517
+SUMMARY:Hart Lab at Tagada
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Hart Lab\n\nhttps://rave.wien/e/2025-05-16-hart
+ -lab-at-tagada
+URL:https://rave.wien/e/2025-05-16-hart-lab-at-tagada
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-24-wreck-pres-runy-mande@rave.wien
+DTSTAMP:20250524T000000Z
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250525
+SUMMARY:WRECK pres. RUNY & MANDE
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:RUNY\, Mande\nVeranstalter: WRECK\n\nhttps://rave.wien/e/2025
+ -05-24-wreck-pres-runy-mande
+URL:https://rave.wien/e/2025-05-24-wreck-pres-runy-mande
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-14-unrasiert-ungeniert-vol-1-pride-afterparty@rave.wien
+DTSTAMP:20250614T000000Z
+DTSTART;VALUE=DATE:20250614
+DTEND;VALUE=DATE:20250615
+SUMMARY:UNRASIERT & UNGENIERT VOL. 1 – PRIDE AFTERPARTY
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-06-14-unrasiert-ungeniert-vol-1-pr
+ ide-afterparty
+URL:https://rave.wien/e/2025-06-14-unrasiert-ungeniert-vol-1-pride-afterp
+ arty
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-21-technodusche@rave.wien
+DTSTAMP:20250621T000000Z
+DTSTART;VALUE=DATE:20250621
+DTEND;VALUE=DATE:20250622
+SUMMARY:TECHNODUSCHE
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-06-21-technodusche
+URL:https://rave.wien/e/2025-06-21-technodusche
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-27-hosted-by-euphoria@rave.wien
+DTSTAMP:20250627T000000Z
+DTSTART;VALUE=DATE:20250627
+DTEND;VALUE=DATE:20250628
+SUMMARY:hosted by EUPHORIA
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2025-06-27-host
+ ed-by-euphoria
+URL:https://rave.wien/e/2025-06-27-hosted-by-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-28-soundhouse-with-mir-i-am-fabian-hofer-mize-hetner@rave.wien
+DTSTAMP:20250628T000000Z
+DTSTART;VALUE=DATE:20250628
+DTEND;VALUE=DATE:20250629
+SUMMARY:SOUNDHOUSE with Mir-I-am\, Fabian Hofer\, Mize Hetner
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Mir-I-am\, Fabian Hofer\, Mize Hetner\nVeranstalter: Soundhou
+ se\n\nhttps://rave.wien/e/2025-06-28-soundhouse-with-mir-i-am-fabian-hof
+ er-mize-hetner
+URL:https://rave.wien/e/2025-06-28-soundhouse-with-mir-i-am-fabian-hofer-
+ mize-hetner
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-03-votiv-session-01-with-dj-sprudel-fuxx-randalia-re@rave.wien
+DTSTAMP:20250703T000000Z
+DTSTART;VALUE=DATE:20250703
+DTEND;VALUE=DATE:20250704
+SUMMARY:votiv session 01 with DJ Sprudel\, fuxx\, Randalia\, rehorn
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:DJ Sprudel\, Fuxx\, Randalia\, Rehorn\nVeranstalter: Votiv Se
+ ssion\n\nhttps://rave.wien/e/2025-07-03-votiv-session-01-with-dj-sprudel
+ -fuxx-randalia-re
+URL:https://rave.wien/e/2025-07-03-votiv-session-01-with-dj-sprudel-fuxx-
+ randalia-re
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-14-moet-random@rave.wien
+DTSTAMP:20250814T000000Z
+DTSTART;VALUE=DATE:20250814
+DTEND;VALUE=DATE:20250815
+SUMMARY:Moët & Random
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-08-14-moet-random
+URL:https://rave.wien/e/2025-08-14-moet-random
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-05-galapa-tagada@rave.wien
+DTSTAMP:20250905T000000Z
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250906
+SUMMARY:GALAPA / Tagada
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Galapa\n\nhttps://rave.wien/e/2025-09-05-galapa
+ -tagada
+URL:https://rave.wien/e/2025-09-05-galapa-tagada
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-19-tagada-club-night@rave.wien
+DTSTAMP:20250919T000000Z
+DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250920
+SUMMARY:Tagada Club Night
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-09-19-tagada-club-night
+URL:https://rave.wien/e/2025-09-19-tagada-club-night
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-25-live-from-earth-pres-x-club-with-vivienna-perra-i@rave.wien
+DTSTAMP:20250925T000000Z
+DTSTART;VALUE=DATE:20250925
+DTEND;VALUE=DATE:20250926
+SUMMARY:LIVE FROM EARTH pres X CLUB with Vivienna\, Perra Inmunda & Helln
+ ah
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Vivienna\, Perra Inmunda\, Hellnah\n\nhttps://rave.wien/e/202
+ 5-09-25-live-from-earth-pres-x-club-with-vivienna-perra-i
+URL:https://rave.wien/e/2025-09-25-live-from-earth-pres-x-club-with-vivie
+ nna-perra-i
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-26-unrasiert-ungeniert-vol-2@rave.wien
+DTSTAMP:20250926T000000Z
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250927
+SUMMARY:UNRASIERT & UNGENIERT VOL. 2
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-09-26-unrasiert-ungeniert-vol-2
+URL:https://rave.wien/e/2025-09-26-unrasiert-ungeniert-vol-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-27-soundbuglerei-with-chet-rubbs-heronymus@rave.wien
+DTSTAMP:20250927T000000Z
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+SUMMARY:Soundbüglerei with Chet Rubbs\, heronymus
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Chet Rubbs\, heronymus\nVeranstalter: Soundbüglerei\n\nhttps
+ ://rave.wien/e/2025-09-27-soundbuglerei-with-chet-rubbs-heronymus
+URL:https://rave.wien/e/2025-09-27-soundbuglerei-with-chet-rubbs-heronymus
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-11-11-10er-rave-vol-2@rave.wien
+DTSTAMP:20251011T000000Z
+DTSTART;VALUE=DATE:20251011
+DTEND;VALUE=DATE:20251012
+SUMMARY:11\,10er Rave Vol. 2
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-10-11-11-10er-rave-vol-2
+URL:https://rave.wien/e/2025-10-11-11-10er-rave-vol-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-17-hart-lab-w-lady-maru@rave.wien
+DTSTAMP:20251017T000000Z
+DTSTART;VALUE=DATE:20251017
+DTEND;VALUE=DATE:20251018
+SUMMARY:Hart Lab w/ Lady Maru
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Lady Maru\nVeranstalter: Hart Lab\n\nhttps://rave.wien/e/2025
+ -10-17-hart-lab-w-lady-maru
+URL:https://rave.wien/e/2025-10-17-hart-lab-w-lady-maru
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-18-gibba@rave.wien
+DTSTAMP:20251018T000000Z
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251019
+SUMMARY:Gibba
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-10-18-gibba
+URL:https://rave.wien/e/2025-10-18-gibba
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-23-bass2besties@rave.wien
+DTSTAMP:20251023T000000Z
+DTSTART;VALUE=DATE:20251023
+DTEND;VALUE=DATE:20251024
+SUMMARY:BASS2BESTIES
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-10-23-bass2besties
+URL:https://rave.wien/e/2025-10-23-bass2besties
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-25-soundhouse-with-voltmarie-fabian-hofer-michael-ze@rave.wien
+DTSTAMP:20251025T000000Z
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+SUMMARY:SOUNDHOUSE with VOLTMARIE\, Fabian Hofer\, Michael Zehetner
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Voltmarie\, Fabian Hofer\, Michael Zehetner\nVeranstalter: So
+ undhouse\n\nhttps://rave.wien/e/2025-10-25-soundhouse-with-voltmarie-fab
+ ian-hofer-michael-ze
+URL:https://rave.wien/e/2025-10-25-soundhouse-with-voltmarie-fabian-hofer
+ -michael-ze
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-31-galopp-2-halloween-edition@rave.wien
+DTSTAMP:20251031T000000Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Galopp #2 Halloween Edition
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-10-31-galopp-2-halloween-edition
+URL:https://rave.wien/e/2025-10-31-galopp-2-halloween-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-06-unframed-fluffy-house-minimalism@rave.wien
+DTSTAMP:20251106T000000Z
+DTSTART;VALUE=DATE:20251106
+DTEND;VALUE=DATE:20251107
+SUMMARY:unframed – fluffy house minimalism
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Unframed\n\nhttps://rave.wien/e/2025-11-06-unfr
+ amed-fluffy-house-minimalism
+URL:https://rave.wien/e/2025-11-06-unframed-fluffy-house-minimalism
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-08-hosted-by-euphoria@rave.wien
+DTSTAMP:20251108T000000Z
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
+SUMMARY:hosted by Euphoria
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2025-11-08-host
+ ed-by-euphoria
+URL:https://rave.wien/e/2025-11-08-hosted-by-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-13-emotional-voyage@rave.wien
+DTSTAMP:20251113T000000Z
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251114
+SUMMARY:Emotional Voyage
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-11-13-emotional-voyage
+URL:https://rave.wien/e/2025-11-13-emotional-voyage
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-14-discordia@rave.wien
+DTSTAMP:20251114T000000Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:DISCORDIA
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Discordia\n\nhttps://rave.wien/e/2025-11-14-dis
+ cordia
+URL:https://rave.wien/e/2025-11-14-discordia
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-15-golden-tagada@rave.wien
+DTSTAMP:20251115T000000Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:Golden Tagada
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-11-15-golden-tagada
+URL:https://rave.wien/e/2025-11-15-golden-tagada
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-21-aggregat@rave.wien
+DTSTAMP:20251121T000000Z
+DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251122
+SUMMARY:aggregat
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-11-21-aggregat
+URL:https://rave.wien/e/2025-11-21-aggregat
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-05-hosted-by-euphoria@rave.wien
+DTSTAMP:20251205T000000Z
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:hosted by EUPHORIA
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2025-12-05-host
+ ed-by-euphoria
+URL:https://rave.wien/e/2025-12-05-hosted-by-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-09-derisch@rave.wien
+DTSTAMP:20260109T000000Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:DERISCH
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-01-09-derisch
+URL:https://rave.wien/e/2026-01-09-derisch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-17-movements-1-house-funk-groove-bouncy-techno@rave.wien
+DTSTAMP:20260117T000000Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:MOVEMENTS #1 House | Funk | Groove | Bouncy Techno
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-01-17-movements-1-house-funk-groov
+ e-bouncy-techno
+URL:https://rave.wien/e/2026-01-17-movements-1-house-funk-groove-bouncy-t
+ echno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-22-techno-banane@rave.wien
+DTSTAMP:20260122T000000Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:Techno Banane
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-01-22-techno-banane
+URL:https://rave.wien/e/2026-01-22-techno-banane
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-30-discordia@rave.wien
+DTSTAMP:20260130T000000Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:Discordia
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Discordia\n\nhttps://rave.wien/e/2026-01-30-dis
+ cordia
+URL:https://rave.wien/e/2026-01-30-discordia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-31-housetiere-mit-manon@rave.wien
+DTSTAMP:20260131T000000Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Housetiere mit Manon
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Manon\nVeranstalter: Housetiere\n\nhttps://rave.wien/e/2026-0
+ 1-31-housetiere-mit-manon
+URL:https://rave.wien/e/2026-01-31-housetiere-mit-manon
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-05-side2side@rave.wien
+DTSTAMP:20260205T000000Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:Side2Side
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-02-05-side2side
+URL:https://rave.wien/e/2026-02-05-side2side
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-12-xenon@rave.wien
+DTSTAMP:20260212T000000Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:xenon
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-02-12-xenon
+URL:https://rave.wien/e/2026-02-12-xenon
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-13-spumante-soundbuglerei-with-super-sound-global@rave.wien
+DTSTAMP:20260213T000000Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:Spumante & Soundbüglerei with Super Sound Global
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Super Sound Global\nVeranstalter: Soundbüglerei\n\nhttps://r
+ ave.wien/e/2026-02-13-spumante-soundbuglerei-with-super-sound-global
+URL:https://rave.wien/e/2026-02-13-spumante-soundbuglerei-with-super-soun
+ d-global
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-20-kju-t@rave.wien
+DTSTAMP:20260220T000000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:[kju:t]
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: [kju:t]\n\nhttps://rave.wien/e/2026-02-20-kju-t
+URL:https://rave.wien/e/2026-02-20-kju-t
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-21-between-us-x-sergej-krstic@rave.wien
+DTSTAMP:20260221T000000Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:Between Us x Sergej Krstic
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Sergej Krstic\nVeranstalter: Between Us\n\nhttps://rave.wien/
+ e/2026-02-21-between-us-x-sergej-krstic
+URL:https://rave.wien/e/2026-02-21-between-us-x-sergej-krstic
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-28-where-disco-flirts-with-house@rave.wien
+DTSTAMP:20260228T000000Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:Where Disco flirts with House
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:House\n\nhttps://rave.wien/e/2026-02-28-where-disco-flirts-wi
+ th-house
+URL:https://rave.wien/e/2026-02-28-where-disco-flirts-with-house
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-06-plusch@rave.wien
+DTSTAMP:20260306T000000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:PLÜSCH
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-03-06-plusch
+URL:https://rave.wien/e/2026-03-06-plusch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-07-house-of-bloom-with-jonas-gottlieb@rave.wien
+DTSTAMP:20260307T000000Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:House of Bloom with Jonas Gottlieb
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Jonas Gottlieb\n\nhttps://rave.wien/e/2026-03-07-house-of-blo
+ om-with-jonas-gottlieb
+URL:https://rave.wien/e/2026-03-07-house-of-bloom-with-jonas-gottlieb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-19-exposed@rave.wien
+DTSTAMP:20260319T000000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:EXPOSED
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Exposed\n\nhttps://rave.wien/e/2026-03-19-expos
+ ed
+URL:https://rave.wien/e/2026-03-19-exposed
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-21-hart-lab-with-dj-terror-zotsch@rave.wien
+DTSTAMP:20260321T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:Hart Lab with DJ TERROR\, ZÖTSCH
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:DJ Terror\, Zötsch\nVeranstalter: Hart Lab\n\nhttps://rave.w
+ ien/e/2026-03-21-hart-lab-with-dj-terror-zotsch
+URL:https://rave.wien/e/2026-03-21-hart-lab-with-dj-terror-zotsch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-03-soundbuglerei-soto-friends@rave.wien
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Soundbüglerei/ Soto & Friends
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Soundbüglerei/ Soto\nVeranstalter: Soundbüglerei\n\nhttps:/
+ /rave.wien/e/2026-04-03-soundbuglerei-soto-friends
+URL:https://rave.wien/e/2026-04-03-soundbuglerei-soto-friends
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-10-tagada-club-nacht-with-boris-coelman-mirabhai-ste@rave.wien
+DTSTAMP:20260410T000000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:Tagada Club Nacht with Boris Coelman\, Mirabhai\, Steal Tapes
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Boris Coelman\, Mirabhai\, Steal Tapes\n\nhttps://rave.wien/e
+ /2026-04-10-tagada-club-nacht-with-boris-coelman-mirabhai-ste
+URL:https://rave.wien/e/2026-04-10-tagada-club-nacht-with-boris-coelman-m
+ irabhai-ste
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-11-the-house-of-funk@rave.wien
+DTSTAMP:20260411T000000Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:The House of Funk
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-04-11-the-house-of-funk
+URL:https://rave.wien/e/2026-04-11-the-house-of-funk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-16-forbidden-frequency@rave.wien
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:Forbidden Frequency
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-04-16-forbidden-frequency
+URL:https://rave.wien/e/2026-04-16-forbidden-frequency
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-17-galapa@rave.wien
+DTSTAMP:20260417T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:GALAPA
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Galapa\n\nhttps://rave.wien/e/2026-04-17-galapa
+URL:https://rave.wien/e/2026-04-17-galapa
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-24-tagatopia@rave.wien
+DTSTAMP:20260424T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:Tagatopia
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-04-24-tagatopia
+URL:https://rave.wien/e/2026-04-24-tagatopia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-08-housetiere-with-numero-6-fr@rave.wien
+DTSTAMP:20260508T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:HOUSETIERE with Numero 6 [FR]
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Numero 6\nVeranstalter: Housetiere\n\nhttps://rave.wien/e/202
+ 6-05-08-housetiere-with-numero-6-fr
+URL:https://rave.wien/e/2026-05-08-housetiere-with-numero-6-fr
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-09-between-us-x-kju-t@rave.wien
+DTSTAMP:20260509T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Between Us x [kju:t]
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Between Us\, [kju:t]\n\nhttps://rave.wien/e/202
+ 6-05-09-between-us-x-kju-t
+URL:https://rave.wien/e/2026-05-09-between-us-x-kju-t
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-16-dirty-thirty@rave.wien
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Dirty Thirty
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-05-16-dirty-thirty
+URL:https://rave.wien/e/2026-05-16-dirty-thirty
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-23-wreck-invites-andrea-salvaggio@rave.wien
+DTSTAMP:20260523T000000Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:WRECK invites: ANDREA SALVAGGIO
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Andrea Salvaggio\nVeranstalter: WRECK\n\nhttps://rave.wien/e/
+ 2026-05-23-wreck-invites-andrea-salvaggio
+URL:https://rave.wien/e/2026-05-23-wreck-invites-andrea-salvaggio
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-04-wohnzimmer-kollektiv@rave.wien
+DTSTAMP:20260604T000000Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Wohnzimmer Kollektiv
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-06-04-wohnzimmer-kollektiv
+URL:https://rave.wien/e/2026-06-04-wohnzimmer-kollektiv
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-06-creme-club@rave.wien
+DTSTAMP:20260606T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Crème Club
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-06-06-creme-club
+URL:https://rave.wien/e/2026-06-06-creme-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-26-exposed@rave.wien
+DTSTAMP:20260626T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:EXPOSED
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Exposed\n\nhttps://rave.wien/e/2026-06-26-expos
+ ed
+URL:https://rave.wien/e/2026-06-26-exposed
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-27-nomind-at-tagada@rave.wien
+DTSTAMP:20260627T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:nomind. at Tagada
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-06-27-nomind-at-tagada
+URL:https://rave.wien/e/2026-06-27-nomind-at-tagada
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-10-purrr-x-justin-the-lover@rave.wien
+DTSTAMP:20260710T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Purrr x Justin the Lover
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Justin the Lover\n\nhttps://rave.wien/e/2026-07-10-purrr-x-ju
+ stin-the-lover
+URL:https://rave.wien/e/2026-07-10-purrr-x-justin-the-lover
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-17-a-groovy-summer-night-by-bk-west@rave.wien
+DTSTAMP:20260717T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:a groovy summer night by bk.west
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:bk.west\n\nhttps://rave.wien/e/2026-07-17-a-groovy-summer-nig
+ ht-by-bk-west
+URL:https://rave.wien/e/2026-07-17-a-groovy-summer-night-by-bk-west
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-15-evanora-unlimited-50herz@rave.wien
+DTSTAMP:20260815T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Evanora Unlimited/50HERZ
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-08-15-evanora-unlimited-50herz
+URL:https://rave.wien/e/2026-08-15-evanora-unlimited-50herz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-28-kleingeld-kollektiv@rave.wien
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Kleingeld Kollektiv
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-08-28-kleingeld-kollektiv
+URL:https://rave.wien/e/2026-08-28-kleingeld-kollektiv
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-techno-banane-2@rave.wien
+DTSTAMP:20260905T000000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Techno Banane #2
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-09-05-techno-banane-2
+URL:https://rave.wien/e/2026-09-05-techno-banane-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-housetiere-with-kiss-the-future-fr@rave.wien
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Housetiere with Kiss The Future (FR)
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Kiss The Future\nVeranstalter: Housetiere\n\nhttps://rave.wie
+ n/e/2026-09-25-housetiere-with-kiss-the-future-fr
+URL:https://rave.wien/e/2026-09-25-housetiere-with-kiss-the-future-fr
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-exposed@rave.wien
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:EXPOSED
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Exposed\n\nhttps://rave.wien/e/2026-10-02-expos
+ ed
+URL:https://rave.wien/e/2026-10-02-exposed
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-11-10er-rave-vol-3@rave.wien
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:11\,10er Rave Vol. 3
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-10-03-11-10er-rave-vol-3
+URL:https://rave.wien/e/2026-10-03-11-10er-rave-vol-3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-kju-t@rave.wien
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:[kju:t]
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: [kju:t]\n\nhttps://rave.wien/e/2026-10-09-kju-t
+URL:https://rave.wien/e/2026-10-09-kju-t
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-housetiere-w-chata@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T220000

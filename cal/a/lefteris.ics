@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-27-deep-dive-lefteris-birthday-bash@rave.wien
+DTSTAMP:20260227T000000Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:DEEP DIVE | LEFTERIS BIRTHDAY BASH
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Lefteris\nVeranstalter: Deep Dive\n\nhttps://rave.wien/e/2026
+ -02-27-deep-dive-lefteris-birthday-bash
+URL:https://rave.wien/e/2026-02-27-deep-dive-lefteris-birthday-bash
+END:VEVENT
 END:VCALENDAR

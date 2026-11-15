@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-05-groove-revival-invites-daniel-dutts@rave.wien
+DTSTAMP:20260205T000000Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:Groove Revival invites Daniel Dutts
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Daniel Dutts\nVeranstalter: Groove Revival\n\nhttps://rave.wi
+ en/e/2026-02-05-groove-revival-invites-daniel-dutts
+URL:https://rave.wien/e/2026-02-05-groove-revival-invites-daniel-dutts
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,29 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-18-contrast-pres-halogenix-lenzman-monrroe-wingz-18@rave.wien
+DTSTAMP:20240518T000000Z
+DTSTART;VALUE=DATE:20240518
+DTEND;VALUE=DATE:20240519
+SUMMARY:CONTRAST pres. HALOGENIX + LENZMAN + MONRROE + WINGZ | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Halogenix\, Lenzman\, Monrroe\, Wingz\nVeranstalter: Contrast
+ \n\nhttps://rave.wien/e/2024-05-18-contrast-pres-halogenix-lenzman-monrr
+ oe-wingz-18
+URL:https://rave.wien/e/2024-05-18-contrast-pres-halogenix-lenzman-monrro
+ e-wingz-18
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-17-contrast-pres-break-halogenix-emperor-18@rave.wien
+DTSTAMP:20250517T000000Z
+DTSTART;VALUE=DATE:20250517
+DTEND;VALUE=DATE:20250518
+SUMMARY:CONTRAST pres. BREAK + HALOGENIX + EMPEROR | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Break\, Halogenix\, Emperor\nVeranstalter: Contrast\n\nhttps:
+ //rave.wien/e/2025-05-17-contrast-pres-break-halogenix-emperor-18
+URL:https://rave.wien/e/2025-05-17-contrast-pres-break-halogenix-emperor-
+ 18
+END:VEVENT
 END:VCALENDAR

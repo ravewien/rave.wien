@@ -38,4 +38,16 @@ DESCRIPTION:Mainfloor: DJ Marky\, Pola & Bryson\, Contrast Residents\nKit
  21-contrast-pres-dj-marky-pola-bryson
 URL:https://rave.wien/e/2026-11-21-contrast-pres-dj-marky-pola-bryson
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-12-contrast-pres-dj-marky-extended-2-hours-set-18@rave.wien
+DTSTAMP:20250712T000000Z
+DTSTART;VALUE=DATE:20250712
+DTEND;VALUE=DATE:20250713
+SUMMARY:CONTRAST pres. DJ MARKY – Extended 2 Hours Set | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:DJ Marky\nVeranstalter: Contrast\n\nhttps://rave.wien/e/2025-
+ 07-12-contrast-pres-dj-marky-extended-2-hours-set-18
+URL:https://rave.wien/e/2025-07-12-contrast-pres-dj-marky-extended-2-hour
+ s-set-18
+END:VEVENT
 END:VCALENDAR

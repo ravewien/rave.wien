@@ -63,4 +63,126 @@ DESCRIPTION:Audrey Danza\, Apua\, DJ Deadlift\, Dreya\nVeranstalter: Redi
  r-pres-audrey-danza
 URL:https://rave.wien/e/2026-12-12-redivider-pres-audrey-danza
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-26-ki-ki-turbo-x-redivider@rave.wien
+DTSTAMP:20240426T000000Z
+DTSTART;VALUE=DATE:20240426
+DTEND;VALUE=DATE:20240427
+SUMMARY:KI/KI || TURBO X REDIVIDER
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Ki/ki\nVeranstalter: TURBO\, Redivider\n\nhttps://rave.wien/e
+ /2024-04-26-ki-ki-turbo-x-redivider
+URL:https://rave.wien/e/2024-04-26-ki-ki-turbo-x-redivider
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-12-redivider-pres-mohajer@rave.wien
+DTSTAMP:20240712T000000Z
+DTSTART;VALUE=DATE:20240712
+DTEND;VALUE=DATE:20240713
+SUMMARY:REDIVIDER pres. Mohajer
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Mohajer\nVeranstalter: Redivider\n\nhttps://rave.wien/e/2024-
+ 07-12-redivider-pres-mohajer
+URL:https://rave.wien/e/2024-07-12-redivider-pres-mohajer
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-04-patrick-mason-extended-set-turbo-x-redivider@rave.wien
+DTSTAMP:20241004T000000Z
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241005
+SUMMARY:Patrick Mason (Extended Set) | TURBO x Redivider
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Patrick Mason\nVeranstalter: TURBO\, Redivider\n\nhttps://rav
+ e.wien/e/2024-10-04-patrick-mason-extended-set-turbo-x-redivider
+URL:https://rave.wien/e/2024-10-04-patrick-mason-extended-set-turbo-x-red
+ ivider
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-22-redivider-pres-elli-acula@rave.wien
+DTSTAMP:20241122T000000Z
+DTSTART;VALUE=DATE:20241122
+DTEND;VALUE=DATE:20241123
+SUMMARY:REDIVIDER pres. Elli Acula
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Elli Acula\nVeranstalter: Redivider\n\nhttps://rave.wien/e/20
+ 24-11-22-redivider-pres-elli-acula
+URL:https://rave.wien/e/2024-11-22-redivider-pres-elli-acula
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-20-redivider-pres-spekki-webu@rave.wien
+DTSTAMP:20241220T000000Z
+DTSTART;VALUE=DATE:20241220
+DTEND;VALUE=DATE:20241221
+SUMMARY:REDIVIDER pres. Spekki Webu
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Spekki Webu\nVeranstalter: Redivider\n\nhttps://rave.wien/e/2
+ 024-12-20-redivider-pres-spekki-webu
+URL:https://rave.wien/e/2024-12-20-redivider-pres-spekki-webu
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-08-redivider-pres-konduku@rave.wien
+DTSTAMP:20250308T000000Z
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250309
+SUMMARY:REDIVIDER pres. KONDUKU
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Konduku\nVeranstalter: Redivider\n\nhttps://rave.wien/e/2025-
+ 03-08-redivider-pres-konduku
+URL:https://rave.wien/e/2025-03-08-redivider-pres-konduku
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-30-redivider@rave.wien
+DTSTAMP:20250430T000000Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Redivider
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Redivider\n\nhttps://rave.wien/e/2025-04-30-red
+ ivider
+URL:https://rave.wien/e/2025-04-30-redivider
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-14-redivider@rave.wien
+DTSTAMP:20250814T000000Z
+DTSTART;VALUE=DATE:20250814
+DTEND;VALUE=DATE:20250815
+SUMMARY:Redivider
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Redivider\n\nhttps://rave.wien/e/2025-08-14-red
+ ivider
+URL:https://rave.wien/e/2025-08-14-redivider
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-27-redivider-pres-vel@rave.wien
+DTSTAMP:20250927T000000Z
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+SUMMARY:REDIVIDER pres. Vel
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Vel\nVeranstalter: Redivider\n\nhttps://rave.wien/e/2025-09-2
+ 7-redivider-pres-vel
+URL:https://rave.wien/e/2025-09-27-redivider-pres-vel
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-28-redivider-pres-dina@rave.wien
+DTSTAMP:20260328T000000Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:REDIVIDER pres. DINA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DINA\nVeranstalter: Redivider\n\nhttps://rave.wien/e/2026-03-
+ 28-redivider-pres-dina
+URL:https://rave.wien/e/2026-03-28-redivider-pres-dina
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-24-amore-x-redivider@rave.wien
+DTSTAMP:20260724T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:AMORE X REDIVIDER
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Redivider\, Amore AG\n\nhttps://rave.wien/e/202
+ 6-07-24-amore-x-redivider
+URL:https://rave.wien/e/2026-07-24-amore-x-redivider
+END:VEVENT
 END:VCALENDAR

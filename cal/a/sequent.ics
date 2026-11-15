@@ -25,4 +25,47 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-02-21-contrast-x-10-yrs-at-grelle-forelle@rave.wien
+DTSTAMP:20250221T000000Z
+DTSTART;VALUE=DATE:20250221
+DTEND;VALUE=DATE:20250222
+SUMMARY:CONTRAST – X – 10 YRS at GRELLE FORELLE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mefjus & Daxta\, Dub Phizix & Strategy\, Forbidden Society\, 
+ Misanthrop\, Phace\, Rockwell\, Workforce\, AudioDevice\, Blind Judge\, 
+ Dora\, Lost Content\, Redex\, Wingz\, Sequent\, Aras\, Jalen Mess\, Sara
+ h Allen\, Feli Nightingale\, Jas Rial\, Sunshine Daddy\, FNKYN\nVeransta
+ lter: Contrast\n\nhttps://rave.wien/e/2025-02-21-contrast-x-10-yrs-at-gr
+ elle-forelle
+URL:https://rave.wien/e/2025-02-21-contrast-x-10-yrs-at-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-15-contrast-pres-critical-music-w-enei-kasra-en-vy-s@rave.wien
+DTSTAMP:20251115T000000Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:CONTRAST pres. CRITICAL MUSIC w/ ENEI + KASRA + EN:VY + SEQUENT |
+  18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:ENEI\, Kasra\, En:vy\, Sequent\nVeranstalter: Contrast\n\nhtt
+ ps://rave.wien/e/2025-11-15-contrast-pres-critical-music-w-enei-kasra-en
+ -vy-s
+URL:https://rave.wien/e/2025-11-15-contrast-pres-critical-music-w-enei-ka
+ sra-en-vy-s
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-contrast-pres-critical-w-calyx-kasra-qzb-sequent@rave.wien
+DTSTAMP:20260919T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:CONTRAST pres. CRITICAL w/ CALYX + KASRA + QZB + SEQUENT + SMG | 
+ 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Calyx\, Kasra\, QZB\, Sequent\, SMG\nVeranstalter: Contrast\n
+ \nhttps://rave.wien/e/2026-09-19-contrast-pres-critical-w-calyx-kasra-qz
+ b-sequent
+URL:https://rave.wien/e/2026-09-19-contrast-pres-critical-w-calyx-kasra-q
+ zb-sequent
+END:VEVENT
 END:VCALENDAR

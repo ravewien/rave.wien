@@ -87,6 +87,31 @@ DESCRIPTION:Oben: Who is Ela¿\, maro\, Aschenbrenner\, Suitside\, DizzyD
 URL:https://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
 END:VEVENT
 BEGIN:VEVENT
+UID:2025-05-02-push-x-grelle-forelle@rave.wien
+DTSTAMP:20250502T000000Z
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250503
+SUMMARY:PUSH x Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:ANNĒ\, Lucinee\, Caniche\, Mischa Beton\, GYDAH\, Bonnie Cal
+ lini\, Rosa Rosen\, Vich Mind\, Who is Ela¿\nVeranstalter: PUSH\n\nhttp
+ s://rave.wien/e/2025-05-02-push-x-grelle-forelle
+URL:https://rave.wien/e/2025-05-02-push-x-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-13-fluffig-open-air@rave.wien
+DTSTAMP:20260613T000000Z
+DTSTART;TZID=Europe/Vienna:20260613T170000
+DTEND;TZID=Europe/Vienna:20260613T230000
+SUMMARY:Fluffig OPEN AIR
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:Anna Ullrich\, COLD ASS ICE\, Liroy\, Who is Ela¿\, Partypau
+ li\, wedding dj\, TAUSEND2Ø\, Dimitrios\nVeranstalter: Fluffig\nEintrit
+ t: 5 €\n\nTrance- und Techno-Open-Air beim Club U am Karlsplatz\, 18+.
+ \n\nhttps://rave.wien/e/2026-06-13-fluffig-open-air
+URL:https://rave.wien/e/2026-06-13-fluffig-open-air
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-biosphere-the-techno-spirit-of-1997@rave.wien
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Vienna:20261106T220000

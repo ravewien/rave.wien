@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-31-addicted-to-pressure-nye-rave-at-exil@rave.wien
+DTSTAMP:20241231T000000Z
+DTSTART;VALUE=DATE:20241231
+DTEND;VALUE=DATE:20250101
+SUMMARY:Addicted to Pressure – NYE Rave at EXIL
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Veranstalter: Addicted to Pressure\n\nhttps://rave.wien/e/202
+ 4-12-31-addicted-to-pressure-nye-rave-at-exil
+URL:https://rave.wien/e/2024-12-31-addicted-to-pressure-nye-rave-at-exil
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-31-addicted-to-pressure-30h-nye-rave@rave.wien
+DTSTAMP:20251231T000000Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:ADDICTED TO PRESSURE 30H NYE RAVE
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Veranstalter: Addicted to Pressure\n\nhttps://rave.wien/e/202
+ 5-12-31-addicted-to-pressure-30h-nye-rave
+URL:https://rave.wien/e/2025-12-31-addicted-to-pressure-30h-nye-rave
+END:VEVENT
 END:VCALENDAR

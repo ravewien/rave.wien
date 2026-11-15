@@ -25,4 +25,37 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-07-03-rhythmic-playground@rave.wien
+DTSTAMP:20250703T000000Z
+DTSTART;VALUE=DATE:20250703
+DTEND;VALUE=DATE:20250704
+SUMMARY:Rhythmic Playground
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Rhythmic Playground\n\nhttps://rave.wien/e/2025
+ -07-03-rhythmic-playground
+URL:https://rave.wien/e/2025-07-03-rhythmic-playground
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-08-rhythmic-playground@rave.wien
+DTSTAMP:20260108T000000Z
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260109
+SUMMARY:Rhythmic Playground
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Rhythmic Playground\n\nhttps://rave.wien/e/2026
+ -01-08-rhythmic-playground
+URL:https://rave.wien/e/2026-01-08-rhythmic-playground
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-28-rhythmic-playground@rave.wien
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Rhythmic Playground
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Rhythmic Playground\n\nhttps://rave.wien/e/2026
+ -08-28-rhythmic-playground
+URL:https://rave.wien/e/2026-08-28-rhythmic-playground
+END:VEVENT
 END:VCALENDAR

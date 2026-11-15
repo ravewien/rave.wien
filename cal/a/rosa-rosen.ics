@@ -41,4 +41,40 @@ DESCRIPTION:DizzyDray\, Anna Ullrich\, Rosa Rosen\, TAUSEND2Ø\nVeranstal
  g angegeben.\n\nhttps://rave.wien/e/2026-11-20-fluffig-punschabend
 URL:https://rave.wien/e/2026-11-20-fluffig-punschabend
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-02-push-x-grelle-forelle@rave.wien
+DTSTAMP:20250502T000000Z
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250503
+SUMMARY:PUSH x Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:ANNĒ\, Lucinee\, Caniche\, Mischa Beton\, GYDAH\, Bonnie Cal
+ lini\, Rosa Rosen\, Vich Mind\, Who is Ela¿\nVeranstalter: PUSH\n\nhttp
+ s://rave.wien/e/2025-05-02-push-x-grelle-forelle
+URL:https://rave.wien/e/2025-05-02-push-x-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-15-praternostra-invites-tommahawk-rosa-rosen@rave.wien
+DTSTAMP:20251115T000000Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:PRATERNOSTRA invites Tommahawk & Rosa Rosen
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Tommahawk\, Rosa Rosen\nVeranstalter: Praternostra\n\nhttps:/
+ /rave.wien/e/2025-11-15-praternostra-invites-tommahawk-rosa-rosen
+URL:https://rave.wien/e/2025-11-15-praternostra-invites-tommahawk-rosa-ro
+ sen
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-05-kein-sonntag-ohne-techno-season-opening@rave.wien
+DTSTAMP:20260405T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:KEIN SONNTAG OHNE TECHNO | Season Opening
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:alina\, aramboa\, doktor dopf\, honeyvalxx\, ksot soundsystem
+ \, meet.franka\, Rosa Rosen\n\nhttps://rave.wien/e/2026-04-05-kein-sonnt
+ ag-ohne-techno-season-opening
+URL:https://rave.wien/e/2026-04-05-kein-sonntag-ohne-techno-season-opening
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-06-nebula-nexus-with-diksha-br-live-synkronic-br-liv@rave.wien
+DTSTAMP:20241206T000000Z
+DTSTART;VALUE=DATE:20241206
+DTEND;VALUE=DATE:20241207
+SUMMARY:NEBULA NEXUS with DIKSHA (BR) live & SYNKRONIC (BR) live
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Diksha\, Synkronic\nVeranstalter: NEXUS\n\nhttps://rave.wien/
+ e/2024-12-06-nebula-nexus-with-diksha-br-live-synkronic-br-liv
+URL:https://rave.wien/e/2024-12-06-nebula-nexus-with-diksha-br-live-synkr
+ onic-br-liv
+END:VEVENT
 END:VCALENDAR

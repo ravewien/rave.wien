@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-03-08-melting-minds-w-phat-otiz-fts-noizelein@rave.wien
+DTSTAMP:20240308T000000Z
+DTSTART;VALUE=DATE:20240308
+DTEND;VALUE=DATE:20240309
+SUMMARY:MELTING MINDS w/ Phat Otiz\, FTS & Noizelein
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Phat Otiz\, FTS\, Noizelein\nVeranstalter: Melting Minds\n\nh
+ ttps://rave.wien/e/2024-03-08-melting-minds-w-phat-otiz-fts-noizelein
+URL:https://rave.wien/e/2024-03-08-melting-minds-w-phat-otiz-fts-noizelein
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-05-sin-x-herzfrequenz-w-fts-tingeltangeltek-soda-lou@rave.wien
+DTSTAMP:20240705T000000Z
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240706
+SUMMARY:SIN x Herzfrequenz w/ FTS\, TingelTangelTek\, SoDa\, Louisa India
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:FTS\, TingelTangelTek\, SoDa\, Louisa India\nVeranstalter: He
+ rzfrequenz\, SIN\n\nhttps://rave.wien/e/2024-07-05-sin-x-herzfrequenz-w-
+ fts-tingeltangeltek-soda-lou
+URL:https://rave.wien/e/2024-07-05-sin-x-herzfrequenz-w-fts-tingeltangelt
+ ek-soda-lou
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-03-duality-x-demolate@rave.wien
+DTSTAMP:20240503T000000Z
+DTSTART;TZID=Europe/Vienna:20240503T230000
+DTEND;TZID=Europe/Vienna:20240504T040000
+SUMMARY:Duality X Demolate
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Frau Hofmann\, Anni Herzer\, Nico Eyrich\, Aylean\, ricksen\,
+  mefteh\, maximus\, l.aux\, DJ Sex\nVeranstalter: Duality\n\nKitchen geh
+ ostet von Demolition Berlin\n\nhttps://rave.wien/e/2024-05-03-duality-x-
+ demolate
+URL:https://rave.wien/e/2024-05-03-duality-x-demolate
+END:VEVENT
 END:VCALENDAR

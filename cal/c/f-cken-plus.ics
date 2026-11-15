@@ -25,4 +25,172 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-04-30-f-cken-plus-mayday-maygerparty-w-ferdinger-paris@rave.wien
+DTSTAMP:20240430T000000Z
+DTSTART;VALUE=DATE:20240430
+DTEND;VALUE=DATE:20240501
+SUMMARY:F*CKEN PLUS – Mayday Maygerparty w/ Ferdinger (Paris)
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Ferdinger\nVeranstalter: F*cken Plus\n\nhttps://rave.wien/e/2
+ 024-04-30-f-cken-plus-mayday-maygerparty-w-ferdinger-paris
+URL:https://rave.wien/e/2024-04-30-f-cken-plus-mayday-maygerparty-w-ferdi
+ nger-paris
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-29-f-cken-plus-utterly-butterly-inofficial-pride-mon@rave.wien
+DTSTAMP:20240629T000000Z
+DTSTART;VALUE=DATE:20240629
+DTEND;VALUE=DATE:20240630
+SUMMARY:F*CKEN PLUS – Utterly Butterly Inofficial Pride Month Closing f
+ eat. HAVIK (Ireland) & more
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Havik\nVeranstalter: F*cken Plus\n\nhttps://rave.wien/e/2024-
+ 06-29-f-cken-plus-utterly-butterly-inofficial-pride-mon
+URL:https://rave.wien/e/2024-06-29-f-cken-plus-utterly-butterly-inofficia
+ l-pride-mon
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-30-f-cken-plus-w-yonti-gerald-vdh-philipp-eicher-glo@rave.wien
+DTSTAMP:20240830T000000Z
+DTSTART;VALUE=DATE:20240830
+DTEND;VALUE=DATE:20240831
+SUMMARY:F*cken Plus w/ Yonti\, Gerald VDH\, Philipp Eicher\, Glossy QT\, 
+ EcleKtric
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Yonti\, Gerald VDH\, Philipp Eicher\, Glossy QT\, EcleKtric\n
+ Veranstalter: F*cken Plus\n\nhttps://rave.wien/e/2024-08-30-f-cken-plus-
+ w-yonti-gerald-vdh-philipp-eicher-glo
+URL:https://rave.wien/e/2024-08-30-f-cken-plus-w-yonti-gerald-vdh-philipp
+ -eicher-glo
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-30-f-cken-plus-megerparty-model-6-ai-ultra-plus@rave.wien
+DTSTAMP:20241130T000000Z
+DTSTART;TZID=Europe/Vienna:20241130T230000
+DTEND;TZID=Europe/Vienna:20241201T040000
+SUMMARY:F*CKEN PLUS – Megerparty Model 6 AI Ultra Plus
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Violetta\, Manu:ra\, Annika Stein\, Gerald VDH\, DJ Wolle\, P
+ hilipp Eicher\, Wurstsalon\nVeranstalter: F*cken Plus\n\nhttps://rave.wi
+ en/e/2024-11-30-f-cken-plus-megerparty-model-6-ai-ultra-plus
+URL:https://rave.wien/e/2024-11-30-f-cken-plus-megerparty-model-6-ai-ultr
+ a-plus
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-28-f-plus-w-herton-annika-stein-gerald-vdh-and-the-i@rave.wien
+DTSTAMP:20250228T000000Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:F*PLUS w/ HERTON\, Annika Stein\, Gerald VDH and the infamous pop
+ -trash-floor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Herton\, Annika Stein\, Gerald VDH\nVeranstalter: F*cken Plus
+ \n\nhttps://rave.wien/e/2025-02-28-f-plus-w-herton-annika-stein-gerald-v
+ dh-and-the-i
+URL:https://rave.wien/e/2025-02-28-f-plus-w-herton-annika-stein-gerald-vd
+ h-and-the-i
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-26-f-plus-feat-lacchesi-u-a-megerparty-exoskeletal-m@rave.wien
+DTSTAMP:20250426T000000Z
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250427
+SUMMARY:F*PLUS feat. LACCHESI u.a. – Megerparty Exoskeletal Multi Layer
+  Extreme II
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Lacchesi\nVeranstalter: F*cken Plus\n\nhttps://rave.wien/e/20
+ 25-04-26-f-plus-feat-lacchesi-u-a-megerparty-exoskeletal-m
+URL:https://rave.wien/e/2025-04-26-f-plus-feat-lacchesi-u-a-megerparty-ex
+ oskeletal-m
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-28-f-cken-plus-utterly-butterly-inofficial-pride-clo@rave.wien
+DTSTAMP:20250628T000000Z
+DTSTART;VALUE=DATE:20250628
+DTEND;VALUE=DATE:20250629
+SUMMARY:F*cken Plus – Utterly Butterly Inofficial Pride Closing feat. J
+ amaica Suk\, Gerald VDH\, manu:ra\, u.v.m.
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Jamaica Suk\, Gerald VDH\, Manu:ra\nVeranstalter: F*cken Plus
+ \n\nhttps://rave.wien/e/2025-06-28-f-cken-plus-utterly-butterly-inoffici
+ al-pride-clo
+URL:https://rave.wien/e/2025-06-28-f-cken-plus-utterly-butterly-inofficia
+ l-pride-clo
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-28-f-plus-w-d-dan-gerald-vdh-violetta-ua@rave.wien
+DTSTAMP:20251128T000000Z
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251129
+SUMMARY:F*PLUS w/ D DAN\, GERALD VDH\, VIOLETTA\, ua
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:D Dan\, Gerald VDH\, Violetta\nVeranstalter: F*cken Plus\n\nh
+ ttps://rave.wien/e/2025-11-28-f-plus-w-d-dan-gerald-vdh-violetta-ua
+URL:https://rave.wien/e/2025-11-28-f-plus-w-d-dan-gerald-vdh-violetta-ua
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-28-f-plus-feat-7circle-violetta-deadlift@rave.wien
+DTSTAMP:20260228T000000Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:F*PLUS feat. 7CIRCLE\, Violetta\, Deadlift
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:7circle\, Violetta\, Deadlift\nVeranstalter: F*cken Plus\n\nh
+ ttps://rave.wien/e/2026-02-28-f-plus-feat-7circle-violetta-deadlift
+URL:https://rave.wien/e/2026-02-28-f-plus-feat-7circle-violetta-deadlift
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-30-f-cken-plus-x-mayday-feat-raven-annika-stein-gera@rave.wien
+DTSTAMP:20260430T000000Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:F*CKEN PLUS x MAYDAY feat. RAVEN\, Annika Stein\, Gerald VDH\, F*
+ PLUS Trash Department
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Raven\, Annika Stein\, Gerald VDH\nVeranstalter: F*cken Plus\
+ n\nhttps://rave.wien/e/2026-04-30-f-cken-plus-x-mayday-feat-raven-annika
+ -stein-gera
+URL:https://rave.wien/e/2026-04-30-f-cken-plus-x-mayday-feat-raven-annika
+ -stein-gera
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-27-f-cken-plus-utterly-butterly-unofficial-pride-clo@rave.wien
+DTSTAMP:20260627T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:F*CKEN PLUS – Utterly Butterly Unofficial Pride Closing w/ JANE
+ IN\, Manu:letta u.v.m
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Janein\, Manu:letta\nVeranstalter: F*cken Plus\n\nhttps://rav
+ e.wien/e/2026-06-27-f-cken-plus-utterly-butterly-unofficial-pride-clo
+URL:https://rave.wien/e/2026-06-27-f-cken-plus-utterly-butterly-unofficia
+ l-pride-clo
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-28-f-cken-plus-w-lobster-annika-stein-gerald-vdh@rave.wien
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:F*cken Plus w/ Lobster\, Annika Stein\, Gerald VDH
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Lobster\, Annika Stein\, Gerald VDH\nVeranstalter: F*cken Plu
+ s\n\nhttps://rave.wien/e/2026-08-28-f-cken-plus-w-lobster-annika-stein-g
+ erald-vdh
+URL:https://rave.wien/e/2026-08-28-f-cken-plus-w-lobster-annika-stein-ger
+ ald-vdh
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-f-cken-plus-w-jerm-gerald-vdh-deadlift-trash-depa@rave.wien
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:F*cken Plus w/ Jerm\, Gerald VDH\, Deadlift\, Trash Department
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Jerm\, Gerald VDH\, Deadlift\nVeranstalter: F*cken Plus\n\nht
+ tps://rave.wien/e/2026-10-16-f-cken-plus-w-jerm-gerald-vdh-deadlift-tras
+ h-depa
+URL:https://rave.wien/e/2026-10-16-f-cken-plus-w-jerm-gerald-vdh-deadlift
+ -trash-depa
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-22-3000grad-im-freudentaumel-x-3000grad-w-mollono-ba@rave.wien
+DTSTAMP:20241122T000000Z
+DTSTART;VALUE=DATE:20241122
+DTEND;VALUE=DATE:20241123
+SUMMARY:3000Grad im Freudentaumel x 3000Grad w/ Mollono.Bass & Katzengold
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Mollono.Bass\, Katzengold\nVeranstalter: Im Freudentaumel\n\n
+ https://rave.wien/e/2024-11-22-3000grad-im-freudentaumel-x-3000grad-w-mo
+ llono-ba
+URL:https://rave.wien/e/2024-11-22-3000grad-im-freudentaumel-x-3000grad-w
+ -mollono-ba
+END:VEVENT
 END:VCALENDAR

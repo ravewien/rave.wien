@@ -25,4 +25,50 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-02-08-festclub-w-palms-trax@rave.wien
+DTSTAMP:20250208T000000Z
+DTSTART;VALUE=DATE:20250208
+DTEND;VALUE=DATE:20250209
+SUMMARY:Festclub w/ Palms Trax
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Palms Trax\nVeranstalter: Festklub\n\nhttps://rave.wien/e/202
+ 5-02-08-festclub-w-palms-trax
+URL:https://rave.wien/e/2025-02-08-festclub-w-palms-trax
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-09-festklub-pres-tagsuber-w-ryan-elliott@rave.wien
+DTSTAMP:20250209T000000Z
+DTSTART;VALUE=DATE:20250209
+DTEND;VALUE=DATE:20250210
+SUMMARY:Festklub pres. TAGSÜBER w/ Ryan Elliott
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Ryan Elliott\nVeranstalter: Festklub\n\nhttps://rave.wien/e/2
+ 025-02-09-festklub-pres-tagsuber-w-ryan-elliott
+URL:https://rave.wien/e/2025-02-09-festklub-pres-tagsuber-w-ryan-elliott
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-04-festklub-invites-carlos-willengton-deborah-aime-l@rave.wien
+DTSTAMP:20250704T000000Z
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250705
+SUMMARY:festklub invites Carlos Willengton & Deborah Aime La Bagarre
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Carlos Willengton\, Deborah Aime La Bagarre\nVeranstalter: Fe
+ stklub\n\nhttps://rave.wien/e/2025-07-04-festklub-invites-carlos-willeng
+ ton-deborah-aime-l
+URL:https://rave.wien/e/2025-07-04-festklub-invites-carlos-willengton-deb
+ orah-aime-l
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-05-festklub-invites-ben-ufo@rave.wien
+DTSTAMP:20250905T000000Z
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250906
+SUMMARY:festklub invites Ben UFO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Ben UFO\nVeranstalter: Festklub\n\nhttps://rave.wien/e/2025-0
+ 9-05-festklub-invites-ben-ufo
+URL:https://rave.wien/e/2025-09-05-festklub-invites-ben-ufo
+END:VEVENT
 END:VCALENDAR

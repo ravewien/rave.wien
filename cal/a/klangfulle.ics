@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-08-cacao-rave-w-kakaochi-magika-t-a-n-z-feat-klangfu@rave.wien
+DTSTAMP:20251108T000000Z
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
+SUMMARY:Cacao Rave w/ Kakaochi & Magika: T.A.N.Z. feat klangfülle
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:klangfülle\nVeranstalter: Magika\n\nhttps://rave.wien/e/2025
+ -11-08-cacao-rave-w-kakaochi-magika-t-a-n-z-feat-klangfu
+URL:https://rave.wien/e/2025-11-08-cacao-rave-w-kakaochi-magika-t-a-n-z-f
+ eat-klangfu
+END:VEVENT
 END:VCALENDAR

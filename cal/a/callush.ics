@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-04-06-impulse-w-callush@rave.wien
+DTSTAMP:20240406T000000Z
+DTSTART;VALUE=DATE:20240406
+DTEND;VALUE=DATE:20240407
+SUMMARY:Impulse w/ Callush
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Callush\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2024-04
+ -06-impulse-w-callush
+URL:https://rave.wien/e/2024-04-06-impulse-w-callush
+END:VEVENT
 END:VCALENDAR

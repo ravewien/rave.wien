@@ -38,4 +38,37 @@ DESCRIPTION:Veranstalter: Discordia\nEintritt: ab 7 €\n\nClubnacht DISC
  öffentlicht.\n\nhttps://rave.wien/e/2026-12-04-discordia
 URL:https://rave.wien/e/2026-12-04-discordia
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-14-discordia@rave.wien
+DTSTAMP:20251114T000000Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:DISCORDIA
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Discordia\n\nhttps://rave.wien/e/2025-11-14-dis
+ cordia
+URL:https://rave.wien/e/2025-11-14-discordia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-30-discordia@rave.wien
+DTSTAMP:20260130T000000Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:Discordia
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Discordia\n\nhttps://rave.wien/e/2026-01-30-dis
+ cordia
+URL:https://rave.wien/e/2026-01-30-discordia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-discordia@rave.wien
+DTSTAMP:20260905T000000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:DISCORDIA
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Veranstalter: Discordia\n\nhttps://rave.wien/e/2026-09-05-dis
+ cordia
+URL:https://rave.wien/e/2026-09-05-discordia
+END:VEVENT
 END:VCALENDAR

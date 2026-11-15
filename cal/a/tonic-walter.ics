@@ -41,4 +41,15 @@ DESCRIPTION:Tonic Walter\n\nDas Duo Tonic Walter kommt mit seiner „II T
  nt.\n\nhttps://rave.wien/e/2026-12-02-tonic-walter-ii-tour-2026
 URL:https://rave.wien/e/2026-12-02-tonic-walter-ii-tour-2026
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-16-tonic-walter-at-das-werk@rave.wien
+DTSTAMP:20241116T000000Z
+DTSTART;VALUE=DATE:20241116
+DTEND;VALUE=DATE:20241117
+SUMMARY:Tonic Walter at Das Werk
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Tonic Walter\n\nhttps://rave.wien/e/2024-11-16-tonic-walter-a
+ t-das-werk
+URL:https://rave.wien/e/2024-11-16-tonic-walter-at-das-werk
+END:VEVENT
 END:VCALENDAR

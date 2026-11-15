@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-20-bouncylicious-with-dj-guestlist@rave.wien
+DTSTAMP:20260220T000000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:BOUNCYLICIOUS with DJ GUESTLIST
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:DJ Guestlist\nVeranstalter: Bouncylicious\n\nhttps://rave.wie
+ n/e/2026-02-20-bouncylicious-with-dj-guestlist
+URL:https://rave.wien/e/2026-02-20-bouncylicious-with-dj-guestlist
+END:VEVENT
 END:VCALENDAR

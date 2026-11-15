@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-10-26-mitmischen-by-wiener-mischung-w-schnell-stabil@rave.wien
+DTSTAMP:20241026T000000Z
+DTSTART;VALUE=DATE:20241026
+DTEND;VALUE=DATE:20241027
+SUMMARY:Mitmischen by Wiener Mischung w/ Schnell & Stabil
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Schnell\, Stabil\nVeranstalter: Wiener Mischung\n\nhttps://ra
+ ve.wien/e/2024-10-26-mitmischen-by-wiener-mischung-w-schnell-stabil
+URL:https://rave.wien/e/2024-10-26-mitmischen-by-wiener-mischung-w-schnel
+ l-stabil
+END:VEVENT
 END:VCALENDAR

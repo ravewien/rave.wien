@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-01-26-raverknecht-vol-4@rave.wien
+DTSTAMP:20240126T000000Z
+DTSTART;VALUE=DATE:20240126
+DTEND;VALUE=DATE:20240127
+SUMMARY:Raverknecht Vol. 4
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Veranstalter: Raverknecht\n\nhttps://rave.wien/e/2024-01-26-r
+ averknecht-vol-4
+URL:https://rave.wien/e/2024-01-26-raverknecht-vol-4
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-19-raverknecht-an-art-techno-rave@rave.wien
+DTSTAMP:20241019T000000Z
+DTSTART;VALUE=DATE:20241019
+DTEND;VALUE=DATE:20241020
+SUMMARY:RAVERKNECHT – an art & techno rave
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Veranstalter: Raverknecht\n\nhttps://rave.wien/e/2024-10-19-r
+ averknecht-an-art-techno-rave
+URL:https://rave.wien/e/2024-10-19-raverknecht-an-art-techno-rave
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-03-21-bassic-instinct-pres-dkay-paul-sg@rave.wien
+DTSTAMP:20260321T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:BASSIC INSTINCT PRES. DKAY & Paul SG
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:DKAY\, Paul SG\nVeranstalter: Bassic Instinct\n\nhttps://rave
+ .wien/e/2026-03-21-bassic-instinct-pres-dkay-paul-sg
+URL:https://rave.wien/e/2026-03-21-bassic-instinct-pres-dkay-paul-sg
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-01-bassic-instinct-old-school-dnb-jungle@rave.wien
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:BASSIC INSTINCT – Old School DnB & Jungle
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Veranstalter: Bassic Instinct\n\nhttps://rave.wien/e/2026-08-
+ 01-bassic-instinct-old-school-dnb-jungle
+URL:https://rave.wien/e/2026-08-01-bassic-instinct-old-school-dnb-jungle
+END:VEVENT
 END:VCALENDAR

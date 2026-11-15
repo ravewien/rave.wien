@@ -25,4 +25,87 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-01-05-steptotek-xl-the-comeback-w-rocketcat-live-mushro@rave.wien
+DTSTAMP:20240105T000000Z
+DTSTART;VALUE=DATE:20240105
+DTEND;VALUE=DATE:20240106
+SUMMARY:StepToTek XL – THE COMEBACK w/ RocketCat Live & Mushroomer Live
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:RocketCat\, Mushroomer\nVeranstalter: Step to Tek\n\nhttps://
+ rave.wien/e/2024-01-05-steptotek-xl-the-comeback-w-rocketcat-live-mushro
+URL:https://rave.wien/e/2024-01-05-steptotek-xl-the-comeback-w-rocketcat-
+ live-mushro
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-02-16-steptotek-xl-carnival-special-w-bushman-live@rave.wien
+DTSTAMP:20240216T000000Z
+DTSTART;VALUE=DATE:20240216
+DTEND;VALUE=DATE:20240217
+SUMMARY:StepToTek XL – Carnival Special w/ BUSHMAN Live
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Bushman\nVeranstalter: Step to Tek\n\nhttps://rave.wien/e/202
+ 4-02-16-steptotek-xl-carnival-special-w-bushman-live
+URL:https://rave.wien/e/2024-02-16-steptotek-xl-carnival-special-w-bushma
+ n-live
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-06-steptotek-xl-w-m-rty-epit0m@rave.wien
+DTSTAMP:20240406T000000Z
+DTSTART;VALUE=DATE:20240406
+DTEND;VALUE=DATE:20240407
+SUMMARY:StepToTek XL – w/ M@RTY EPIT0M
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:M@rty Epit0m\nVeranstalter: Step to Tek\n\nhttps://rave.wien/
+ e/2024-04-06-steptotek-xl-w-m-rty-epit0m
+URL:https://rave.wien/e/2024-04-06-steptotek-xl-w-m-rty-epit0m
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-14-melting-minds-with-expulze-narfos-live-step-to-te@rave.wien
+DTSTAMP:20240814T000000Z
+DTSTART;VALUE=DATE:20240814
+DTEND;VALUE=DATE:20240815
+SUMMARY:Melting Minds with Expulze & Narfos live & Step To Tek Bunker
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Expulze\, Narfos\, Step To Tek Bunker\nVeranstalter: Step to 
+ Tek\, Melting Minds\n\nhttps://rave.wien/e/2024-08-14-melting-minds-with
+ -expulze-narfos-live-step-to-te
+URL:https://rave.wien/e/2024-08-14-melting-minds-with-expulze-narfos-live
+ -step-to-te
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-27-step-to-tek-xl@rave.wien
+DTSTAMP:20240927T000000Z
+DTSTART;VALUE=DATE:20240927
+DTEND;VALUE=DATE:20240928
+SUMMARY:STEP TO TEK XL
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Step to Tek\n\nhttps://rave.wien/e/2024-09-27-s
+ tep-to-tek-xl
+URL:https://rave.wien/e/2024-09-27-step-to-tek-xl
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-29-step-to-tek-xl-special-edition@rave.wien
+DTSTAMP:20241129T000000Z
+DTSTART;VALUE=DATE:20241129
+DTEND;VALUE=DATE:20241130
+SUMMARY:Step To Tek XL – SPECIAL EDITION
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Step to Tek\n\nhttps://rave.wien/e/2024-11-29-s
+ tep-to-tek-xl-special-edition
+URL:https://rave.wien/e/2024-11-29-step-to-tek-xl-special-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-28-step-to-tek-xl-with-bushman-mazatek-illtek-optima@rave.wien
+DTSTAMP:20241228T000000Z
+DTSTART;VALUE=DATE:20241228
+DTEND;VALUE=DATE:20241229
+SUMMARY:Step to Tek XL with Bushman\, Mazatek\, Illtek & Optimatek
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Bushman\, Mazatek\, Illtek\, Optimatek\nVeranstalter: Step to
+  Tek\n\nhttps://rave.wien/e/2024-12-28-step-to-tek-xl-with-bushman-mazat
+ ek-illtek-optima
+URL:https://rave.wien/e/2024-12-28-step-to-tek-xl-with-bushman-mazatek-il
+ ltek-optima
+END:VEVENT
 END:VCALENDAR

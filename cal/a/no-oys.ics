@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-04-23-deep-cut-hypnotic-deep-techno-w-no-oys-nuno-pezel@rave.wien
+DTSTAMP:20260423T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:deep cut – hypnotic & deep techno w no_oys\, nuno\, pezel
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:no_oys\, nuno\, pezel\nVeranstalter: deep cut\n\nhttps://rave
+ .wien/e/2026-04-23-deep-cut-hypnotic-deep-techno-w-no-oys-nuno-pezel
+URL:https://rave.wien/e/2026-04-23-deep-cut-hypnotic-deep-techno-w-no-oys
+ -nuno-pezel
+END:VEVENT
 END:VCALENDAR

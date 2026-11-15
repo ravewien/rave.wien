@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-05-28-deep-cut-w-altroy-jerome-elah-hypnotic-deep-techn@rave.wien
+DTSTAMP:20250528T000000Z
+DTSTART;VALUE=DATE:20250528
+DTEND;VALUE=DATE:20250529
+SUMMARY:deep cut w/ Altroy Jerome & Elah – Hypnotic & Deep Techno
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Altroy Jerome\, Elah\nVeranstalter: deep cut\n\nhttps://rave.
+ wien/e/2025-05-28-deep-cut-w-altroy-jerome-elah-hypnotic-deep-techn
+URL:https://rave.wien/e/2025-05-28-deep-cut-w-altroy-jerome-elah-hypnotic
+ -deep-techn
+END:VEVENT
 END:VCALENDAR

@@ -41,6 +41,17 @@ DESCRIPTION:Veranstalter: hausgemacht\n\nSave the Date. Details über den
 URL:https://rave.wien/e/2026-12-19-zusammenkommen-16
 END:VEVENT
 BEGIN:VEVENT
+UID:2024-10-26-fruherkommen-10-jahre-hausgemacht@rave.wien
+DTSTAMP:20241026T000000Z
+DTSTART;VALUE=DATE:20241026
+DTEND;VALUE=DATE:20241027
+SUMMARY:FrüherKommen – 10 Jahre hausgemacht
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Veranstalter: hausgemacht\n\nhttps://rave.wien/e/2024-10-26-f
+ ruherkommen-10-jahre-hausgemacht
+URL:https://rave.wien/e/2024-10-26-fruherkommen-10-jahre-hausgemacht
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-zusammenkommen-susses-oder-sauerei@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T210000

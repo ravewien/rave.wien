@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-06-12-pre-pride-party-by-grelle-x-meat-market-x-rhinopl@rave.wien
+DTSTAMP:20260612T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Pre-Pride-Party by Grelle x MEAT Market x Rhinoplasty
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Gerald VDH\, saschka\, Violetta\, Manu:ra\, Firas\, Fabio\, B
+ en\n\nhttps://rave.wien/e/2026-06-12-pre-pride-party-by-grelle-x-meat-ma
+ rket-x-rhinopl
+URL:https://rave.wien/e/2026-06-12-pre-pride-party-by-grelle-x-meat-marke
+ t-x-rhinopl
+END:VEVENT
 END:VCALENDAR

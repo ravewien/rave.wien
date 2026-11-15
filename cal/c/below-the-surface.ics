@@ -25,4 +25,61 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-07-20-below-the-surface-w-x-coast@rave.wien
+DTSTAMP:20240720T000000Z
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240721
+SUMMARY:BELOW THE SURFACE w/ X-COAST
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:X-coast\nVeranstalter: Below the Surface\n\nhttps://rave.wien
+ /e/2024-07-20-below-the-surface-w-x-coast
+URL:https://rave.wien/e/2024-07-20-below-the-surface-w-x-coast
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-08-below-the-surface-with-neux-anna-ullrich@rave.wien
+DTSTAMP:20250308T000000Z
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250309
+SUMMARY:BELOW THE SURFACE with NEUX & Anna Ullrich
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:NEUX\, Anna Ullrich\nVeranstalter: Below the Surface\n\nhttps
+ ://rave.wien/e/2025-03-08-below-the-surface-with-neux-anna-ullrich
+URL:https://rave.wien/e/2025-03-08-below-the-surface-with-neux-anna-ullri
+ ch
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-24-below-the-surface-w-zisko@rave.wien
+DTSTAMP:20250524T000000Z
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250525
+SUMMARY:BELOW THE SURFACE w/ ZISKO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Zisko\nVeranstalter: Below the Surface\n\nhttps://rave.wien/e
+ /2025-05-24-below-the-surface-w-zisko
+URL:https://rave.wien/e/2025-05-24-below-the-surface-w-zisko
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-23-below-the-surface-with-yant-geistfrei@rave.wien
+DTSTAMP:20250823T000000Z
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250824
+SUMMARY:BELOW THE SURFACE with Yant & GEISTFREI
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Yant\, Geistfrei\nVeranstalter: Below the Surface\n\nhttps://
+ rave.wien/e/2025-08-23-below-the-surface-with-yant-geistfrei
+URL:https://rave.wien/e/2025-08-23-below-the-surface-with-yant-geistfrei
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-14-below-the-surface-raw-x-yn@rave.wien
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:BELOW THE SURFACE | RAW x YN
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:EXOS\, Karolina\, Ketarina\nVeranstalter: Below the Surface\,
+  YN Collective\n\nhttps://rave.wien/e/2026-03-14-below-the-surface-raw-x
+ -yn
+URL:https://rave.wien/e/2026-03-14-below-the-surface-raw-x-yn
+END:VEVENT
 END:VCALENDAR

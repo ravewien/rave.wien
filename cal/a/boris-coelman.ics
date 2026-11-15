@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-04-10-tagada-club-nacht-with-boris-coelman-mirabhai-ste@rave.wien
+DTSTAMP:20260410T000000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:Tagada Club Nacht with Boris Coelman\, Mirabhai\, Steal Tapes
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Boris Coelman\, Mirabhai\, Steal Tapes\n\nhttps://rave.wien/e
+ /2026-04-10-tagada-club-nacht-with-boris-coelman-mirabhai-ste
+URL:https://rave.wien/e/2026-04-10-tagada-club-nacht-with-boris-coelman-m
+ irabhai-ste
+END:VEVENT
 END:VCALENDAR

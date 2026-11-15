@@ -25,4 +25,27 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-06-13-yrs-grelle-forelle@rave.wien
+DTSTAMP:20241206T000000Z
+DTSTART;TZID=Europe/Vienna:20241206T230000
+DTEND;TZID=Europe/Vienna:20241207T040000
+SUMMARY:13 YRS Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:DJ Gigola\, Pau\, Tezibel\, Dancekowsi\, Franjazzco\, Saba\n\
+ nhttps://rave.wien/e/2024-12-06-13-yrs-grelle-forelle
+URL:https://rave.wien/e/2024-12-06-13-yrs-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-25-grelle-forelle-sommerfest@rave.wien
+DTSTAMP:20250725T000000Z
+DTSTART;VALUE=DATE:20250725
+DTEND;VALUE=DATE:20250726
+SUMMARY:Grelle Forelle Sommerfest
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Pablo Bozzi\, Mac DeClos\, Tezibel\, Menal Batti\, Apua\, Sti
+ po\, Reinhard Zach\, Saba\, Mathheku\n\nhttps://rave.wien/e/2025-07-25-g
+ relle-forelle-sommerfest
+URL:https://rave.wien/e/2025-07-25-grelle-forelle-sommerfest
+END:VEVENT
 END:VCALENDAR

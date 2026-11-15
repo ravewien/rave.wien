@@ -26,6 +26,123 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2025-05-31-spectral-with-belocca@rave.wien
+DTSTAMP:20250531T000000Z
+DTSTART;VALUE=DATE:20250531
+DTEND;VALUE=DATE:20250601
+SUMMARY:Spectral with Belocca
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Belocca\nVeranstalter: Spectral\n\nhttps://rave.wien/e/2025-0
+ 5-31-spectral-with-belocca
+URL:https://rave.wien/e/2025-05-31-spectral-with-belocca
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-01-spectral-with-jaiden-wild@rave.wien
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:Spectral with Jaiden Wild
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Jaiden Wild\nVeranstalter: Spectral\n\nhttps://rave.wien/e/20
+ 25-08-01-spectral-with-jaiden-wild
+URL:https://rave.wien/e/2025-08-01-spectral-with-jaiden-wild
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-13-spectral-pres-thursday-immersion@rave.wien
+DTSTAMP:20251113T000000Z
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251114
+SUMMARY:Spectral pres. Thursday Immersion
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Thursday Immersion\nVeranstalter: Spectral\n\nhttps://rave.wi
+ en/e/2025-11-13-spectral-pres-thursday-immersion
+URL:https://rave.wien/e/2025-11-13-spectral-pres-thursday-immersion
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-22-spectral-with-kaufmann@rave.wien
+DTSTAMP:20251122T000000Z
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+SUMMARY:Spectral with Kaufmann
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Kaufmann\nVeranstalter: Spectral\n\nhttps://rave.wien/e/2025-
+ 11-22-spectral-with-kaufmann
+URL:https://rave.wien/e/2025-11-22-spectral-with-kaufmann
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-30-spectral-pres-nocturna-female-energy@rave.wien
+DTSTAMP:20260130T000000Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:Spectral pres. Nocturna – Female Energy
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Nocturna\nVeranstalter: Spectral\n\nhttps://rave.wien/e/2026-
+ 01-30-spectral-pres-nocturna-female-energy
+URL:https://rave.wien/e/2026-01-30-spectral-pres-nocturna-female-energy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-28-spectral-with-dual-destress-and-herbrido@rave.wien
+DTSTAMP:20260228T000000Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:Spectral with Dual DeStress and Herbrido
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Dual DeStress\, Herbrido\nVeranstalter: Spectral\n\nhttps://r
+ ave.wien/e/2026-02-28-spectral-with-dual-destress-and-herbrido
+URL:https://rave.wien/e/2026-02-28-spectral-with-dual-destress-and-herbri
+ do
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-03-spectral-with-adrianna@rave.wien
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Spectral with ADRIANNA
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Adrianna\nVeranstalter: Spectral\n\nhttps://rave.wien/e/2026-
+ 04-03-spectral-with-adrianna
+URL:https://rave.wien/e/2026-04-03-spectral-with-adrianna
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-05-spectral-relinquo-birthday-bash@rave.wien
+DTSTAMP:20260605T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Spectral /// Relinquo Birthday Bash
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Spectral\n\nhttps://rave.wien/e/2026-06-05-spec
+ tral-relinquo-birthday-bash
+URL:https://rave.wien/e/2026-06-05-spectral-relinquo-birthday-bash
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-27-spectral-with-the-wilds@rave.wien
+DTSTAMP:20260627T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Spectral with The Wilds
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:The Wilds\nVeranstalter: Spectral\n\nhttps://rave.wien/e/2026
+ -06-27-spectral-with-the-wilds
+URL:https://rave.wien/e/2026-06-27-spectral-with-the-wilds
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-01-spectral-pres-nocturna-female-energy@rave.wien
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Spectral pres. Nocturna – Female Energy
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Nocturna\nVeranstalter: Spectral\n\nhttps://rave.wien/e/2026-
+ 08-01-spectral-pres-nocturna-female-energy
+URL:https://rave.wien/e/2026-08-01-spectral-pres-nocturna-female-energy
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-spectral-with-dual-drive-se@rave.wien
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Vienna:20261106T233000

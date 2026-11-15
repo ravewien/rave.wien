@@ -25,4 +25,866 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-01-05-mahlwerk-x-pratersauna@rave.wien
+DTSTAMP:20240105T000000Z
+DTSTART;VALUE=DATE:20240105
+DTEND;VALUE=DATE:20240106
+SUMMARY:MAHLWERK x PRATERSAUNA
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Mahlwerk\n\nhttps://rave.wien/e/2024-01-05-mahl
+ werk-x-pratersauna
+URL:https://rave.wien/e/2024-01-05-mahlwerk-x-pratersauna
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-02-02-fluffig-monster-anna-ullrich-sungdi@rave.wien
+DTSTAMP:20240202T000000Z
+DTSTART;VALUE=DATE:20240202
+DTEND;VALUE=DATE:20240203
+SUMMARY:Fluffig | Monster | Anna Ullrich | Sungdi
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Monster\, Anna Ullrich\, Sungdi\nVeranstalter: Fluffig\n\nhtt
+ ps://rave.wien/e/2024-02-02-fluffig-monster-anna-ullrich-sungdi
+URL:https://rave.wien/e/2024-02-02-fluffig-monster-anna-ullrich-sungdi
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-02-16-perspective-w-friction-uk@rave.wien
+DTSTAMP:20240216T000000Z
+DTSTART;VALUE=DATE:20240216
+DTEND;VALUE=DATE:20240217
+SUMMARY:PERSPECTIVE w/ FRICTION [UK]
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Friction\nVeranstalter: Perspective\n\nhttps://rave.wien/e/20
+ 24-02-16-perspective-w-friction-uk
+URL:https://rave.wien/e/2024-02-16-perspective-w-friction-uk
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-02-17-luft-liebe-w-dominik-eulberg-x-rave-on-society@rave.wien
+DTSTAMP:20240217T000000Z
+DTSTART;VALUE=DATE:20240217
+DTEND;VALUE=DATE:20240218
+SUMMARY:LUFT & LIEBE w/ DOMINIK EULBERG x Rave On Society
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Dominik Eulberg\nVeranstalter: Rave On Society\, Luft & Liebe
+ \n\nhttps://rave.wien/e/2024-02-17-luft-liebe-w-dominik-eulberg-x-rave-o
+ n-society
+URL:https://rave.wien/e/2024-02-17-luft-liebe-w-dominik-eulberg-x-rave-on
+ -society
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-02-23-cosmic-space-disco-winter-tales-w-klopfgeister@rave.wien
+DTSTAMP:20240223T000000Z
+DTSTART;VALUE=DATE:20240223
+DTEND;VALUE=DATE:20240224
+SUMMARY:COSMIC Space Disco – Winter Tales w/ Klopfgeister
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Klopfgeister\nVeranstalter: Cosmic Space Disco\n\nhttps://rav
+ e.wien/e/2024-02-23-cosmic-space-disco-winter-tales-w-klopfgeister
+URL:https://rave.wien/e/2024-02-23-cosmic-space-disco-winter-tales-w-klop
+ fgeister
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-03-08-melting-minds-w-phat-otiz-fts-noizelein@rave.wien
+DTSTAMP:20240308T000000Z
+DTSTART;VALUE=DATE:20240308
+DTEND;VALUE=DATE:20240309
+SUMMARY:MELTING MINDS w/ Phat Otiz\, FTS & Noizelein
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Phat Otiz\, FTS\, Noizelein\nVeranstalter: Melting Minds\n\nh
+ ttps://rave.wien/e/2024-03-08-melting-minds-w-phat-otiz-fts-noizelein
+URL:https://rave.wien/e/2024-03-08-melting-minds-w-phat-otiz-fts-noizelein
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-03-09-schlaflos-im-marz-mit-mall-grab@rave.wien
+DTSTAMP:20240309T000000Z
+DTSTART;VALUE=DATE:20240309
+DTEND;VALUE=DATE:20240310
+SUMMARY:Schlaflos im März mit Mall Grab
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Mall Grab\nVeranstalter: Schlaflos\n\nhttps://rave.wien/e/202
+ 4-03-09-schlaflos-im-marz-mit-mall-grab
+URL:https://rave.wien/e/2024-03-09-schlaflos-im-marz-mit-mall-grab
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-13-schlaflos-im-april-mit-denis-sulta-das-ende-einer@rave.wien
+DTSTAMP:20240413T000000Z
+DTSTART;VALUE=DATE:20240413
+DTEND;VALUE=DATE:20240414
+SUMMARY:Schlaflos im April mit Denis Sulta | Das Ende einer Ära
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Denis Sulta\nVeranstalter: Schlaflos\n\nhttps://rave.wien/e/2
+ 024-04-13-schlaflos-im-april-mit-denis-sulta-das-ende-einer
+URL:https://rave.wien/e/2024-04-13-schlaflos-im-april-mit-denis-sulta-das
+ -ende-einer
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-14-multicolor-house-arrest-x-park-it-here@rave.wien
+DTSTAMP:20240614T000000Z
+DTSTART;VALUE=DATE:20240614
+DTEND;VALUE=DATE:20240615
+SUMMARY:MULTICOLOR – House Arrest x Park It Here
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Park It Here\, Multicolor\n\nhttps://rave.wien/
+ e/2024-06-14-multicolor-house-arrest-x-park-it-here
+URL:https://rave.wien/e/2024-06-14-multicolor-house-arrest-x-park-it-here
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-22-monochrom-rave-on-society-x-donnerkanzel@rave.wien
+DTSTAMP:20240622T000000Z
+DTSTART;VALUE=DATE:20240622
+DTEND;VALUE=DATE:20240623
+SUMMARY:MONOCHROM – Rave On Society x Donnerkanzel
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Monochrom\, Rave On Society\n\nhttps://rave.wie
+ n/e/2024-06-22-monochrom-rave-on-society-x-donnerkanzel
+URL:https://rave.wien/e/2024-06-22-monochrom-rave-on-society-x-donnerkanz
+ el
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-20-monochrom-luft-liebe-x-henson@rave.wien
+DTSTAMP:20240720T000000Z
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240721
+SUMMARY:MONOCHROM | Luft & Liebe x Henson
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Henson\nVeranstalter: Monochrom\, Luft & Liebe\n\nhttps://rav
+ e.wien/e/2024-07-20-monochrom-luft-liebe-x-henson
+URL:https://rave.wien/e/2024-07-20-monochrom-luft-liebe-x-henson
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-24-rave-am-mittwoch-tomagan-artemis-jodok@rave.wien
+DTSTAMP:20240724T000000Z
+DTSTART;VALUE=DATE:20240724
+DTEND;VALUE=DATE:20240725
+SUMMARY:RAVE AM MITTWOCH – Tomagan\, ARTEMIS & Jodok
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Tomagan\, Artemis\, Jodok\nVeranstalter: Rave am Mittwoch\n\n
+ https://rave.wien/e/2024-07-24-rave-am-mittwoch-tomagan-artemis-jodok
+URL:https://rave.wien/e/2024-07-24-rave-am-mittwoch-tomagan-artemis-jodok
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-26-multicolor-spezial-dan-shake-x-unknwn@rave.wien
+DTSTAMP:20240726T000000Z
+DTSTART;VALUE=DATE:20240726
+DTEND;VALUE=DATE:20240727
+SUMMARY:MULTICOLOR Spezial | Dan Shake x Unknwn
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Dan Shake\nVeranstalter: Multicolor\n\nhttps://rave.wien/e/20
+ 24-07-26-multicolor-spezial-dan-shake-x-unknwn
+URL:https://rave.wien/e/2024-07-26-multicolor-spezial-dan-shake-x-unknwn
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-03-monochrom-rave-on-society-x-lowenzahn@rave.wien
+DTSTAMP:20240803T000000Z
+DTSTART;VALUE=DATE:20240803
+DTEND;VALUE=DATE:20240804
+SUMMARY:MONOCHROM – Rave On Society x Löwenzahn
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Löwenzahn\, Monochrom\, Rave On Society\n\nhtt
+ ps://rave.wien/e/2024-08-03-monochrom-rave-on-society-x-lowenzahn
+URL:https://rave.wien/e/2024-08-03-monochrom-rave-on-society-x-lowenzahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-14-melting-minds-with-expulze-narfos-live-step-to-te@rave.wien
+DTSTAMP:20240814T000000Z
+DTSTART;VALUE=DATE:20240814
+DTEND;VALUE=DATE:20240815
+SUMMARY:Melting Minds with Expulze & Narfos live & Step To Tek Bunker
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Expulze\, Narfos\, Step To Tek Bunker\nVeranstalter: Step to 
+ Tek\, Melting Minds\n\nhttps://rave.wien/e/2024-08-14-melting-minds-with
+ -expulze-narfos-live-step-to-te
+URL:https://rave.wien/e/2024-08-14-melting-minds-with-expulze-narfos-live
+ -step-to-te
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-04-rave-am-mittwoch-olymp-moms-home@rave.wien
+DTSTAMP:20240904T000000Z
+DTSTART;VALUE=DATE:20240904
+DTEND;VALUE=DATE:20240905
+SUMMARY:RAVE AM MITTWOCH // OLYMP + MOMs HOME
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2024-09
+ -04-rave-am-mittwoch-olymp-moms-home
+URL:https://rave.wien/e/2024-09-04-rave-am-mittwoch-olymp-moms-home
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-07-heisss-w-anetha@rave.wien
+DTSTAMP:20240907T000000Z
+DTSTART;VALUE=DATE:20240907
+DTEND;VALUE=DATE:20240908
+SUMMARY:HEISSS w/ Anetha
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Anetha\n\nhttps://rave.wien/e/2024-09-07-heisss-w-anetha
+URL:https://rave.wien/e/2024-09-07-heisss-w-anetha
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-18-perspective-festival-day-1@rave.wien
+DTSTAMP:20241018T000000Z
+DTSTART;VALUE=DATE:20241018
+DTEND;VALUE=DATE:20241019
+SUMMARY:Perspective Festival Day 1
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Perspective\n\nhttps://rave.wien/e/2024-10-18-p
+ erspective-festival-day-1
+URL:https://rave.wien/e/2024-10-18-perspective-festival-day-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-25-multicolor-spezial-with-themba-sa@rave.wien
+DTSTAMP:20241025T000000Z
+DTSTART;VALUE=DATE:20241025
+DTEND;VALUE=DATE:20241026
+SUMMARY:MULTICOLOR SPEZIAL with Themba [SA]
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Themba\nVeranstalter: Multicolor\n\nhttps://rave.wien/e/2024-
+ 10-25-multicolor-spezial-with-themba-sa
+URL:https://rave.wien/e/2024-10-25-multicolor-spezial-with-themba-sa
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-26-monochrom-spezial-mahlwerk-x-area-showcase@rave.wien
+DTSTAMP:20241026T000000Z
+DTSTART;VALUE=DATE:20241026
+DTEND;VALUE=DATE:20241027
+SUMMARY:MONOCHROM Spezial: MAHLWERK x AREA Showcase
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Mahlwerk\, Monochrom\n\nhttps://rave.wien/e/202
+ 4-10-26-monochrom-spezial-mahlwerk-x-area-showcase
+URL:https://rave.wien/e/2024-10-26-monochrom-spezial-mahlwerk-x-area-show
+ case
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-31-welcome-to-hell-2024-halloween-party@rave.wien
+DTSTAMP:20241031T000000Z
+DTSTART;VALUE=DATE:20241031
+DTEND;VALUE=DATE:20241101
+SUMMARY:WELCOME TO HELL 2024 – HALLOWEEN PARTY
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-10-31-welcome-to-hell-2024-hallowe
+ en-party
+URL:https://rave.wien/e/2024-10-31-welcome-to-hell-2024-halloween-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-09-bcco-with-bad-boombox-future-666@rave.wien
+DTSTAMP:20241109T000000Z
+DTSTART;VALUE=DATE:20241109
+DTEND;VALUE=DATE:20241110
+SUMMARY:BCCO with Bad Boombox & future.666
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Bad Boombox\, Future.666\n\nhttps://rave.wien/e/2024-11-09-bc
+ co-with-bad-boombox-future-666
+URL:https://rave.wien/e/2024-11-09-bcco-with-bad-boombox-future-666
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-15-multicolor-x-refreshed-with-mr-belt-wezol@rave.wien
+DTSTAMP:20241115T000000Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241116
+SUMMARY:MULTICOLOR x REFRESHED with Mr. Belt & Wezol
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Mr. Belt\, Wezol\nVeranstalter: Multicolor\n\nhttps://rave.wi
+ en/e/2024-11-15-multicolor-x-refreshed-with-mr-belt-wezol
+URL:https://rave.wien/e/2024-11-15-multicolor-x-refreshed-with-mr-belt-we
+ zol
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-16-monochrom-x-tragedie-with-teenage-mutants@rave.wien
+DTSTAMP:20241116T000000Z
+DTSTART;VALUE=DATE:20241116
+DTEND;VALUE=DATE:20241117
+SUMMARY:MONOCHROM x TRAGEDIE with TEENAGE MUTANTS
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Teenage Mutants\nVeranstalter: Monochrom\n\nhttps://rave.wien
+ /e/2024-11-16-monochrom-x-tragedie-with-teenage-mutants
+URL:https://rave.wien/e/2024-11-16-monochrom-x-tragedie-with-teenage-muta
+ nts
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-22-schattenwelt@rave.wien
+DTSTAMP:20241122T000000Z
+DTSTART;VALUE=DATE:20241122
+DTEND;VALUE=DATE:20241123
+SUMMARY:SCHATTENWELT
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-11-22-schattenwelt
+URL:https://rave.wien/e/2024-11-22-schattenwelt
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-23-monochrom-spezial-with-zapravka@rave.wien
+DTSTAMP:20241123T000000Z
+DTSTART;VALUE=DATE:20241123
+DTEND;VALUE=DATE:20241124
+SUMMARY:MONOCHROM SPEZIAL with ZAPRAVKA
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Zapravka\nVeranstalter: Monochrom\n\nhttps://rave.wien/e/2024
+ -11-23-monochrom-spezial-with-zapravka
+URL:https://rave.wien/e/2024-11-23-monochrom-spezial-with-zapravka
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-29-perspective-with-mandidextrous-uk@rave.wien
+DTSTAMP:20241129T000000Z
+DTSTART;VALUE=DATE:20241129
+DTEND;VALUE=DATE:20241130
+SUMMARY:PERSPECTIVE with Mandidextrous [UK]
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Mandidextrous\nVeranstalter: Perspective\n\nhttps://rave.wien
+ /e/2024-11-29-perspective-with-mandidextrous-uk
+URL:https://rave.wien/e/2024-11-29-perspective-with-mandidextrous-uk
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-20-groove-operators@rave.wien
+DTSTAMP:20241220T000000Z
+DTSTART;VALUE=DATE:20241220
+DTEND;VALUE=DATE:20241221
+SUMMARY:Groove Operators
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Groove Operators\n\nhttps://rave.wien/e/2024-12
+ -20-groove-operators
+URL:https://rave.wien/e/2024-12-20-groove-operators
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-28-pratersauna-opening-rave-is-back@rave.wien
+DTSTAMP:20250228T000000Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:Pratersauna Opening RAVE IS BACK
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-02-28-pratersauna-opening-rave-is-
+ back
+URL:https://rave.wien/e/2025-02-28-pratersauna-opening-rave-is-back
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-07-boom-boom-bang-pratersauna-reopening@rave.wien
+DTSTAMP:20250307T000000Z
+DTSTART;VALUE=DATE:20250307
+DTEND;VALUE=DATE:20250308
+SUMMARY:Boom Boom Bang Pratersauna REOPENING
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-03-07-boom-boom-bang-pratersauna-r
+ eopening
+URL:https://rave.wien/e/2025-03-07-boom-boom-bang-pratersauna-reopening
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-28-basstrace-10-years-x-croydub-x-vollkontakt-20-yea@rave.wien
+DTSTAMP:20250328T000000Z
+DTSTART;VALUE=DATE:20250328
+DTEND;VALUE=DATE:20250329
+SUMMARY:BASSTRACE 10 YEARS x CROYDUB x VOLLKONTAKT 20 YEARS
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Basstrace\n\nhttps://rave.wien/e/2025-03-28-bas
+ strace-10-years-x-croydub-x-vollkontakt-20-yea
+URL:https://rave.wien/e/2025-03-28-basstrace-10-years-x-croydub-x-vollkon
+ takt-20-yea
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-26-oberst-buchner-pratersauna@rave.wien
+DTSTAMP:20250426T000000Z
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250427
+SUMMARY:Oberst & Buchner @ Pratersauna
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Oberst & Buchner\n\nhttps://rave.wien/e/2025-04-26-oberst-buc
+ hner-pratersauna
+URL:https://rave.wien/e/2025-04-26-oberst-buchner-pratersauna
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-30-hypnotica-vol-2@rave.wien
+DTSTAMP:20250430T000000Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Hypnotica Vol. 2
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-04-30-hypnotica-vol-2
+URL:https://rave.wien/e/2025-04-30-hypnotica-vol-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-03-volta@rave.wien
+DTSTAMP:20250503T000000Z
+DTSTART;VALUE=DATE:20250503
+DTEND;VALUE=DATE:20250504
+SUMMARY:Volta
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Volta\n\nhttps://rave.wien/e/2025-05-03-volta
+URL:https://rave.wien/e/2025-05-03-volta
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-16-masa-tanzt@rave.wien
+DTSTAMP:20250516T000000Z
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250517
+SUMMARY:Masa tanzt
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-05-16-masa-tanzt
+URL:https://rave.wien/e/2025-05-16-masa-tanzt
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-18-gassen-aus-zucker-poolservice@rave.wien
+DTSTAMP:20250518T000000Z
+DTSTART;VALUE=DATE:20250518
+DTEND;VALUE=DATE:20250519
+SUMMARY:Gassen aus Zucker Poolservice
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Gassen aus Zucker\n\nhttps://rave.wien/e/2025-0
+ 5-18-gassen-aus-zucker-poolservice
+URL:https://rave.wien/e/2025-05-18-gassen-aus-zucker-poolservice
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-24-praternostra-w-mija@rave.wien
+DTSTAMP:20250524T000000Z
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250525
+SUMMARY:PraterNostra /w MIJA
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:MIJA\nVeranstalter: Praternostra\n\nhttps://rave.wien/e/2025-
+ 05-24-praternostra-w-mija
+URL:https://rave.wien/e/2025-05-24-praternostra-w-mija
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-07-praternostra-w-mimi-love-berlin-kater-blau@rave.wien
+DTSTAMP:20250607T000000Z
+DTSTART;VALUE=DATE:20250607
+DTEND;VALUE=DATE:20250608
+SUMMARY:PRATERNOSTRA /W MIMI LOVE (Berlin/Kater Blau)
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Mimi Love\nVeranstalter: Praternostra\n\nhttps://rave.wien/e/
+ 2025-06-07-praternostra-w-mimi-love-berlin-kater-blau
+URL:https://rave.wien/e/2025-06-07-praternostra-w-mimi-love-berlin-kater-
+ blau
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-14-trans-dimensional-at-pratersauna@rave.wien
+DTSTAMP:20250614T000000Z
+DTSTART;VALUE=DATE:20250614
+DTEND;VALUE=DATE:20250615
+SUMMARY:TRANS-DIMENSIONAL at Pratersauna
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-06-14-trans-dimensional-at-praters
+ auna
+URL:https://rave.wien/e/2025-06-14-trans-dimensional-at-pratersauna
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-15-exxxtended-by-served-x-gaze@rave.wien
+DTSTAMP:20250615T000000Z
+DTSTART;VALUE=DATE:20250615
+DTEND;VALUE=DATE:20250616
+SUMMARY:EXXXTENDED by served x GAZE
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Gaze\n\nhttps://rave.wien/e/2025-06-15-exxxtend
+ ed-by-served-x-gaze
+URL:https://rave.wien/e/2025-06-15-exxxtended-by-served-x-gaze
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-18-dobe-berlin-x-raveonsociety@rave.wien
+DTSTAMP:20250618T000000Z
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250619
+SUMMARY:DOBE (Berlin) x RaveOnSociety
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:DOBE\nVeranstalter: Rave On Society\n\nhttps://rave.wien/e/20
+ 25-06-18-dobe-berlin-x-raveonsociety
+URL:https://rave.wien/e/2025-06-18-dobe-berlin-x-raveonsociety
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-20-neonnostra-w-oliver-huntemann@rave.wien
+DTSTAMP:20250620T000000Z
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+SUMMARY:NeonNostra /w Oliver Huntemann
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Oliver Huntemann\nVeranstalter: Praternostra\n\nhttps://rave.
+ wien/e/2025-06-20-neonnostra-w-oliver-huntemann
+URL:https://rave.wien/e/2025-06-20-neonnostra-w-oliver-huntemann
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-21-bahnwarter-thiel-showcase-w-kaufmann@rave.wien
+DTSTAMP:20250621T000000Z
+DTSTART;VALUE=DATE:20250621
+DTEND;VALUE=DATE:20250622
+SUMMARY:Bahnwärter Thiel SHOWCASE /W KAUFMANN
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Kaufmann\n\nhttps://rave.wien/e/2025-06-21-bahnwarter-thiel-s
+ howcase-w-kaufmann
+URL:https://rave.wien/e/2025-06-21-bahnwarter-thiel-showcase-w-kaufmann
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-27-cosmic-s-o-u-l-s-pool-party-trinity@rave.wien
+DTSTAMP:20250627T000000Z
+DTSTART;VALUE=DATE:20250627
+DTEND;VALUE=DATE:20250628
+SUMMARY:Cosmic S.o.u.l. – S+ Pool Party – Trinity
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-06-27-cosmic-s-o-u-l-s-pool-party-
+ trinity
+URL:https://rave.wien/e/2025-06-27-cosmic-s-o-u-l-s-pool-party-trinity
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-05-journey-to-tarab-x-gassen-aus-zucker-x-pratersaun@rave.wien
+DTSTAMP:20250705T000000Z
+DTSTART;VALUE=DATE:20250705
+DTEND;VALUE=DATE:20250706
+SUMMARY:Journey to Tarab x Gassen aus Zucker x Pratersauna – Candy Crus
+ h durch Zuckershock
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Gassen aus Zucker\, Journey to Tarab\n\nhttps:/
+ /rave.wien/e/2025-07-05-journey-to-tarab-x-gassen-aus-zucker-x-pratersau
+ n
+URL:https://rave.wien/e/2025-07-05-journey-to-tarab-x-gassen-aus-zucker-x
+ -pratersaun
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-18-feuchte-traume-sex-positive-party@rave.wien
+DTSTAMP:20250718T000000Z
+DTSTART;TZID=Europe/Vienna:20250718T160000
+DTEND;TZID=Europe/Vienna:20250719T060000
+SUMMARY:Feuchte Träume (Sex Positive Party)
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:MoBama\, Anni Herzer\, Chiara Allnutt\, Miklei\, Krawallbarbi
+ e\nVeranstalter: Feuchte Träume\nEintritt: 17–55 €\n\nhttps://rave.
+ wien/e/2025-07-18-feuchte-traume-sex-positive-party
+URL:https://rave.wien/e/2025-07-18-feuchte-traume-sex-positive-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-19-nass-vom-bass@rave.wien
+DTSTAMP:20250719T000000Z
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+SUMMARY:NASS VOM BASS
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Nass vom Bass\n\nhttps://rave.wien/e/2025-07-19
+ -nass-vom-bass
+URL:https://rave.wien/e/2025-07-19-nass-vom-bass
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-01-fomo-x-pompadour@rave.wien
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:FOMO x Pompadour
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\n\nhttps://rave.wien/e/2025-08-0
+ 1-fomo-x-pompadour
+URL:https://rave.wien/e/2025-08-01-fomo-x-pompadour
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-02-ibiza-f-cking-island@rave.wien
+DTSTAMP:20250802T000000Z
+DTSTART;VALUE=DATE:20250802
+DTEND;VALUE=DATE:20250803
+SUMMARY:Ibiza F*cking Island
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-08-02-ibiza-f-cking-island
+URL:https://rave.wien/e/2025-08-02-ibiza-f-cking-island
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-16-profiliga-presents-marco-bailey@rave.wien
+DTSTAMP:20250816T000000Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+SUMMARY:PROFILIGA presents MARCO BAILEY!
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Marco Bailey\nVeranstalter: Profiliga\n\nhttps://rave.wien/e/
+ 2025-08-16-profiliga-presents-marco-bailey
+URL:https://rave.wien/e/2025-08-16-profiliga-presents-marco-bailey
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-22-paradise-pool-festival-2025@rave.wien
+DTSTAMP:20250822T000000Z
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250823
+SUMMARY:PARADISE POOL FESTIVAL 2025
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-08-22-paradise-pool-festival-2025
+URL:https://rave.wien/e/2025-08-22-paradise-pool-festival-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-30-volta-with-people-science-invites-dea@rave.wien
+DTSTAMP:20250830T000000Z
+DTSTART;VALUE=DATE:20250830
+DTEND;VALUE=DATE:20250831
+SUMMARY:VOLTA with People Science invites DEA
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:DEA\nVeranstalter: Volta\n\nhttps://rave.wien/e/2025-08-30-vo
+ lta-with-people-science-invites-dea
+URL:https://rave.wien/e/2025-08-30-volta-with-people-science-invites-dea
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-05-nass-vom-bass@rave.wien
+DTSTAMP:20250905T000000Z
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250906
+SUMMARY:NASS VOM BASS
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Nass vom Bass\n\nhttps://rave.wien/e/2025-09-05
+ -nass-vom-bass
+URL:https://rave.wien/e/2025-09-05-nass-vom-bass
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-07-rhythm-science-pres-birthday-special-2-summer-clo@rave.wien
+DTSTAMP:20250907T000000Z
+DTSTART;VALUE=DATE:20250907
+DTEND;VALUE=DATE:20250908
+SUMMARY:Rhythm Science pres. Birthday Special #2 & Summer Closing
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\n\nhttps://rave.wien/e/2025-09-0
+ 7-rhythm-science-pres-birthday-special-2-summer-clo
+URL:https://rave.wien/e/2025-09-07-rhythm-science-pres-birthday-special-2
+ -summer-clo
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-12-psytrance-universe-poolparty-at-pratersauna@rave.wien
+DTSTAMP:20250912T000000Z
+DTSTART;VALUE=DATE:20250912
+DTEND;VALUE=DATE:20250913
+SUMMARY:PSYTRANCE UNIVERSE – Poolparty at Pratersauna
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Psytrance Universe\n\nhttps://rave.wien/e/2025-
+ 09-12-psytrance-universe-poolparty-at-pratersauna
+URL:https://rave.wien/e/2025-09-12-psytrance-universe-poolparty-at-prater
+ sauna
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-13-60-yrs-pratersauna@rave.wien
+DTSTAMP:20250913T000000Z
+DTSTART;VALUE=DATE:20250913
+DTEND;VALUE=DATE:20250914
+SUMMARY:60 YRS PRATERSAUNA
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-09-13-60-yrs-pratersauna
+URL:https://rave.wien/e/2025-09-13-60-yrs-pratersauna
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-20-praternostra@rave.wien
+DTSTAMP:20250920T000000Z
+DTSTART;VALUE=DATE:20250920
+DTEND;VALUE=DATE:20250921
+SUMMARY:PRATERNOSTRA
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Praternostra\n\nhttps://rave.wien/e/2025-09-20-
+ praternostra
+URL:https://rave.wien/e/2025-09-20-praternostra
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-26-ausverkauft-floor-fauna@rave.wien
+DTSTAMP:20250926T000000Z
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250927
+SUMMARY:AUSVERKAUFT – Floor & Fauna
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-09-26-ausverkauft-floor-fauna
+URL:https://rave.wien/e/2025-09-26-ausverkauft-floor-fauna
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-27-feines-tier-in-der-pratersauna@rave.wien
+DTSTAMP:20250927T000000Z
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+SUMMARY:Feines Tier in der Pratersauna
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-09-27-feines-tier-in-der-pratersau
+ na
+URL:https://rave.wien/e/2025-09-27-feines-tier-in-der-pratersauna
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-04-salon-magika-x-citruscue-x-subwaves-with-drahthau@rave.wien
+DTSTAMP:20251004T000000Z
+DTSTART;VALUE=DATE:20251004
+DTEND;VALUE=DATE:20251005
+SUMMARY:Salon Magika x CitrusCue x SubWaves with Drahthaus
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Drahthaus\nVeranstalter: Magika\n\nhttps://rave.wien/e/2025-1
+ 0-04-salon-magika-x-citruscue-x-subwaves-with-drahthau
+URL:https://rave.wien/e/2025-10-04-salon-magika-x-citruscue-x-subwaves-wi
+ th-drahthau
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-11-praternostra-invites-emerald@rave.wien
+DTSTAMP:20251011T000000Z
+DTSTART;VALUE=DATE:20251011
+DTEND;VALUE=DATE:20251012
+SUMMARY:PRATERNOSTRA Invites Emerald
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Emerald\nVeranstalter: Praternostra\n\nhttps://rave.wien/e/20
+ 25-10-11-praternostra-invites-emerald
+URL:https://rave.wien/e/2025-10-11-praternostra-invites-emerald
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-17-volta-invites-elif@rave.wien
+DTSTAMP:20251017T000000Z
+DTSTART;VALUE=DATE:20251017
+DTEND;VALUE=DATE:20251018
+SUMMARY:Volta invites ELIF
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:ELIF\nVeranstalter: Volta\n\nhttps://rave.wien/e/2025-10-17-v
+ olta-invites-elif
+URL:https://rave.wien/e/2025-10-17-volta-invites-elif
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-18-gaze-4-yrs-anniversary-harvest-of-hearts@rave.wien
+DTSTAMP:20251018T000000Z
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251019
+SUMMARY:GAZE 4 YRS ANNIVERSARY – HARVEST OF HEARTS
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Gaze\n\nhttps://rave.wien/e/2025-10-18-gaze-4-y
+ rs-anniversary-harvest-of-hearts
+URL:https://rave.wien/e/2025-10-18-gaze-4-yrs-anniversary-harvest-of-hear
+ ts
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-25-profiliga-pras-victor-ruiz@rave.wien
+DTSTAMP:20251025T000000Z
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+SUMMARY:PROFILIGA präs: Victor Ruiz
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Victor Ruiz\nVeranstalter: Profiliga\n\nhttps://rave.wien/e/2
+ 025-10-25-profiliga-pras-victor-ruiz
+URL:https://rave.wien/e/2025-10-25-profiliga-pras-victor-ruiz
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-26-aufdrehen-statt-aufrusten-die-free-tek-party-am-n@rave.wien
+DTSTAMP:20251026T000000Z
+DTSTART;VALUE=DATE:20251026
+DTEND;VALUE=DATE:20251027
+SUMMARY:AUFDREHEN STATT AUFRÜSTEN! DIE FREE TEK PARTY AM NATIONALFEIERTA
+ G!
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-10-26-aufdrehen-statt-aufrusten-di
+ e-free-tek-party-am-n
+URL:https://rave.wien/e/2025-10-26-aufdrehen-statt-aufrusten-die-free-tek
+ -party-am-n
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-31-haunted-sauna-halloween-rave@rave.wien
+DTSTAMP:20251031T000000Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Haunted Sauna – Halloween Rave
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Oberst & Buchner\n\nOberst & Buchner laut deren SoundCloud-Gi
+ gliste.\n\nhttps://rave.wien/e/2025-10-31-haunted-sauna-halloween-rave
+URL:https://rave.wien/e/2025-10-31-haunted-sauna-halloween-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-07-joker-invites-ephy-pinkman@rave.wien
+DTSTAMP:20251107T000000Z
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
+SUMMARY:JOKER invites: Ephy Pinkman
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Ephy Pinkman\n\nhttps://rave.wien/e/2025-11-07-joker-invites-
+ ephy-pinkman
+URL:https://rave.wien/e/2025-11-07-joker-invites-ephy-pinkman
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-08-cacao-rave-w-kakaochi-magika-t-a-n-z-feat-klangfu@rave.wien
+DTSTAMP:20251108T000000Z
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
+SUMMARY:Cacao Rave w/ Kakaochi & Magika: T.A.N.Z. feat klangfülle
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:klangfülle\nVeranstalter: Magika\n\nhttps://rave.wien/e/2025
+ -11-08-cacao-rave-w-kakaochi-magika-t-a-n-z-feat-klangfu
+URL:https://rave.wien/e/2025-11-08-cacao-rave-w-kakaochi-magika-t-a-n-z-f
+ eat-klangfu
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-14-poeme-de-l-extase@rave.wien
+DTSTAMP:20251114T000000Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:POÈME DE L'EXTASE
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-11-14-poeme-de-l-extase
+URL:https://rave.wien/e/2025-11-14-poeme-de-l-extase
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-15-praternostra-invites-tommahawk-rosa-rosen@rave.wien
+DTSTAMP:20251115T000000Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:PRATERNOSTRA invites Tommahawk & Rosa Rosen
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Tommahawk\, Rosa Rosen\nVeranstalter: Praternostra\n\nhttps:/
+ /rave.wien/e/2025-11-15-praternostra-invites-tommahawk-rosa-rosen
+URL:https://rave.wien/e/2025-11-15-praternostra-invites-tommahawk-rosa-ro
+ sen
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-22-basstrace-065-with-carre-dubrunner-truant-off-the@rave.wien
+DTSTAMP:20251122T000000Z
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+SUMMARY:Basstrace 065 with Carré\, Dubrunner\, Truant & OFF THE GRID
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Carré\, Dubrunner\, Truant\, Off The Grid\nVeranstalter: Bas
+ strace\n\nhttps://rave.wien/e/2025-11-22-basstrace-065-with-carre-dubrun
+ ner-truant-off-the
+URL:https://rave.wien/e/2025-11-22-basstrace-065-with-carre-dubrunner-tru
+ ant-off-the
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-28-common-ground-with-nvst@rave.wien
+DTSTAMP:20251128T000000Z
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251129
+SUMMARY:common ground with NVST
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:NVST\n\nhttps://rave.wien/e/2025-11-28-common-ground-with-nvst
+URL:https://rave.wien/e/2025-11-28-common-ground-with-nvst
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-29-herrensauna-x-euphoria@rave.wien
+DTSTAMP:20251129T000000Z
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:HERRENSAUNA x EUPHORIA
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Euphoria\, Herrensauna\n\nhttps://rave.wien/e/2
+ 025-11-29-herrensauna-x-euphoria
+URL:https://rave.wien/e/2025-11-29-herrensauna-x-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-05-step-forward-x-lhf-presents-partiboi69@rave.wien
+DTSTAMP:20251205T000000Z
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:STEP FORWARD x LHF presents PARTIBOI69
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Partiboi69\nVeranstalter: Step Forward\n\nhttps://rave.wien/e
+ /2025-12-05-step-forward-x-lhf-presents-partiboi69
+URL:https://rave.wien/e/2025-12-05-step-forward-x-lhf-presents-partiboi69
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-06-dualism-with-l-zwo-nike101-uvm@rave.wien
+DTSTAMP:20251206T000000Z
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:DUALISM with L.zwo\, NIKE101 uvm
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:L.zwo\, Nike101\nVeranstalter: Dualism\n\nhttps://rave.wien/e
+ /2025-12-06-dualism-with-l-zwo-nike101-uvm
+URL:https://rave.wien/e/2025-12-06-dualism-with-l-zwo-nike101-uvm
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-12-astralunio-pres-avalon-rugrats@rave.wien
+DTSTAMP:20251212T000000Z
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251213
+SUMMARY:Astralunio pres. AVALON & RUGRATS
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Avalon\, Rugrats\n\nhttps://rave.wien/e/2025-12-12-astralunio
+ -pres-avalon-rugrats
+URL:https://rave.wien/e/2025-12-12-astralunio-pres-avalon-rugrats
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-13-symbiotikka-x-pratersauna@rave.wien
+DTSTAMP:20251213T000000Z
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
+SUMMARY:SYMBIOTIKKA x Pratersauna
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Symbiotikka\n\nhttps://rave.wien/e/2025-12-13-s
+ ymbiotikka-x-pratersauna
+URL:https://rave.wien/e/2025-12-13-symbiotikka-x-pratersauna
+END:VEVENT
 END:VCALENDAR

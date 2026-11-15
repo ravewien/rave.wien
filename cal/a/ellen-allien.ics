@@ -43,4 +43,38 @@ DESCRIPTION:Mainfloor: Ellen Allien\nVeranstalter: Zuckerwatt\n\nDie Reih
  12-11-zuckerwatt-w-ellen-allien
 URL:https://rave.wien/e/2026-12-11-zuckerwatt-w-ellen-allien
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-03-08-16-yrs-zuckerwatt-w-ellen-allien-x-ponyhof@rave.wien
+DTSTAMP:20240308T000000Z
+DTSTART;VALUE=DATE:20240308
+DTEND;VALUE=DATE:20240309
+SUMMARY:16 YRS ZUCKERWATT w/ ELLEN ALLIEN x Ponyhof
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Ellen Allien\nVeranstalter: Zuckerwatt\n\nhttps://rave.wien/e
+ /2024-03-08-16-yrs-zuckerwatt-w-ellen-allien-x-ponyhof
+URL:https://rave.wien/e/2024-03-08-16-yrs-zuckerwatt-w-ellen-allien-x-pon
+ yhof
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-13-zuckerwatt-w-ellen-allien@rave.wien
+DTSTAMP:20241213T000000Z
+DTSTART;VALUE=DATE:20241213
+DTEND;VALUE=DATE:20241214
+SUMMARY:ZUCKERWATT w/ ELLEN ALLIEN
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Ellen Allien\nVeranstalter: Zuckerwatt\n\nhttps://rave.wien/e
+ /2024-12-13-zuckerwatt-w-ellen-allien
+URL:https://rave.wien/e/2024-12-13-zuckerwatt-w-ellen-allien
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-12-zuckerwatt-w-ellen-allien@rave.wien
+DTSTAMP:20251212T000000Z
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251213
+SUMMARY:ZUCKERWATT w/ ELLEN ALLIEN
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Ellen Allien\nVeranstalter: Zuckerwatt\n\nhttps://rave.wien/e
+ /2025-12-12-zuckerwatt-w-ellen-allien
+URL:https://rave.wien/e/2025-12-12-zuckerwatt-w-ellen-allien
+END:VEVENT
 END:VCALENDAR

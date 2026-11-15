@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-04-25-reverse-club-night-w-the-clamps-skrimor@rave.wien
+DTSTAMP:20250425T000000Z
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250426
+SUMMARY:Reverse Club Night w/ The Clamps & Skrimor
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:The Clamps\, Skrimor\nVeranstalter: Reverse\n\nhttps://rave.w
+ ien/e/2025-04-25-reverse-club-night-w-the-clamps-skrimor
+URL:https://rave.wien/e/2025-04-25-reverse-club-night-w-the-clamps-skrimor
+END:VEVENT
 END:VCALENDAR

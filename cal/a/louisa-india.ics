@@ -46,4 +46,43 @@ DESCRIPTION:Dune\, Neophyte\, Maissouille\, Radze\, Toge\, Miss Pixie aka
  26-11-14-rave-on-xxl-4-0
 URL:https://rave.wien/e/2026-11-14-rave-on-xxl-4-0
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-03-01-techno-entgleist-bussis-aus-berlin@rave.wien
+DTSTAMP:20240301T000000Z
+DTSTART;TZID=Europe/Vienna:20240301T230000
+DTEND;TZID=Europe/Vienna:20240302T040000
+SUMMARY:TECHNO ENTGLEIST | BUSSIS AUS BERLIN
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:BOHO\, DOBé\, Louisa India\, Vibechen\, Manu Script\, Adrian
+  Tronic\, Epicuro\, Tomagan\nVeranstalter: Techno Entgleist\nEintritt: A
+ K only\, freiwilliger Beitrag ab 15 €\n\nhttps://rave.wien/e/2024-03-0
+ 1-techno-entgleist-bussis-aus-berlin
+URL:https://rave.wien/e/2024-03-01-techno-entgleist-bussis-aus-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-05-sin-x-herzfrequenz-w-fts-tingeltangeltek-soda-lou@rave.wien
+DTSTAMP:20240705T000000Z
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240706
+SUMMARY:SIN x Herzfrequenz w/ FTS\, TingelTangelTek\, SoDa\, Louisa India
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:FTS\, TingelTangelTek\, SoDa\, Louisa India\nVeranstalter: He
+ rzfrequenz\, SIN\n\nhttps://rave.wien/e/2024-07-05-sin-x-herzfrequenz-w-
+ fts-tingeltangeltek-soda-lou
+URL:https://rave.wien/e/2024-07-05-sin-x-herzfrequenz-w-fts-tingeltangelt
+ ek-soda-lou
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-24-rave-am-mittwoch-special-edition-grelle-forelle@rave.wien
+DTSTAMP:20261024T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:RAVE AM MITTWOCH // SPECIAL EDITION // Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Anatol\, Tomagan\, Louisa India\, Pinklotion\, adrialin\nVera
+ nstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2026-10-24-rave-am-mit
+ twoch-special-edition-grelle-forelle
+URL:https://rave.wien/e/2026-10-24-rave-am-mittwoch-special-edition-grell
+ e-forelle
+END:VEVENT
 END:VCALENDAR

@@ -26,6 +26,17 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-06-07-free-friday@rave.wien
+DTSTAMP:20240607T000000Z
+DTSTART;TZID=Europe/Vienna:20240607T230000
+DTEND;TZID=Europe/Vienna:20240608T040000
+SUMMARY:Free Friday
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Louk\, Aschenbrenner\, PSMT\, Vich Mind\, Sømnus\, KEYL\, Em
+ baixador\n\nhttps://rave.wien/e/2024-06-07-free-friday
+URL:https://rave.wien/e/2024-06-07-free-friday
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-schlachthaus-w-toobris@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T230000

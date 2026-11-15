@@ -25,4 +25,69 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-16-fish-market-making-love-to-machines-w-janein-dead@rave.wien
+DTSTAMP:20240816T000000Z
+DTSTART;VALUE=DATE:20240816
+DTEND;VALUE=DATE:20240817
+SUMMARY:FISH MARKET – Making Love To Machines w/ JANEIN\, Deadlift\, GV
+ DH and more
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Janein\, Deadlift\, GVDH\nVeranstalter: Fish Market\n\nhttps:
+ //rave.wien/e/2024-08-16-fish-market-making-love-to-machines-w-janein-de
+ ad
+URL:https://rave.wien/e/2024-08-16-fish-market-making-love-to-machines-w-
+ janein-dead
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-14-fish-market-w-freddy-k-annika-stein-deadlift-etc@rave.wien
+DTSTAMP:20251114T000000Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:FISH MARKET w/ FREDDY K\, Annika Stein\, Deadlift\, etc.
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Freddy K\, Annika Stein\, Deadlift\nVeranstalter: Fish Market
+ \n\nhttps://rave.wien/e/2025-11-14-fish-market-w-freddy-k-annika-stein-d
+ eadlift-etc
+URL:https://rave.wien/e/2025-11-14-fish-market-w-freddy-k-annika-stein-de
+ adlift-etc
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-28-f-plus-feat-7circle-violetta-deadlift@rave.wien
+DTSTAMP:20260228T000000Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:F*PLUS feat. 7CIRCLE\, Violetta\, Deadlift
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:7circle\, Violetta\, Deadlift\nVeranstalter: F*cken Plus\n\nh
+ ttps://rave.wien/e/2026-02-28-f-plus-feat-7circle-violetta-deadlift
+URL:https://rave.wien/e/2026-02-28-f-plus-feat-7circle-violetta-deadlift
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-17-fish-market-feat-nastia-reigel-violetta-deadlift@rave.wien
+DTSTAMP:20260417T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:FISH MARKET feat. Nastia Reigel\, Violetta\, Deadlift & Amore AG 
+ Floor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Nastia Reigel\, Violetta\, Deadlift\nVeranstalter: Fish Marke
+ t\, Amore AG\n\nhttps://rave.wien/e/2026-04-17-fish-market-feat-nastia-r
+ eigel-violetta-deadlift
+URL:https://rave.wien/e/2026-04-17-fish-market-feat-nastia-reigel-violett
+ a-deadlift
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-f-cken-plus-w-jerm-gerald-vdh-deadlift-trash-depa@rave.wien
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:F*cken Plus w/ Jerm\, Gerald VDH\, Deadlift\, Trash Department
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Jerm\, Gerald VDH\, Deadlift\nVeranstalter: F*cken Plus\n\nht
+ tps://rave.wien/e/2026-10-16-f-cken-plus-w-jerm-gerald-vdh-deadlift-tras
+ h-depa
+URL:https://rave.wien/e/2026-10-16-f-cken-plus-w-jerm-gerald-vdh-deadlift
+ -trash-depa
+END:VEVENT
 END:VCALENDAR

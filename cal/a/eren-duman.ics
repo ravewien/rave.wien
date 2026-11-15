@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-08-21-im-freudentaumel-i-free-donation-i-flucc-deck@rave.wien
+DTSTAMP:20260821T000000Z
+DTSTART;TZID=Europe/Vienna:20260821T220000
+DTEND;TZID=Europe/Vienna:20260822T030000
+SUMMARY:Im Freudentaumel I Free Donation I FLUCC DECK
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Nya Nyx\, Eren Duman\, Kollektiv Sheesh\nVeranstalter: Im Fre
+ udentaumel\nEintritt: Freie Spende\n\nhttps://rave.wien/e/2026-08-21-im-
+ freudentaumel-i-free-donation-i-flucc-deck
+URL:https://rave.wien/e/2026-08-21-im-freudentaumel-i-free-donation-i-flu
+ cc-deck
+END:VEVENT
 END:VCALENDAR

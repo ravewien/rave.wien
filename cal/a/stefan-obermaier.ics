@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-24-private-sessions-w-stefan-obermaier-b2b-theo-meie@rave.wien
+DTSTAMP:20240524T000000Z
+DTSTART;VALUE=DATE:20240524
+DTEND;VALUE=DATE:20240525
+SUMMARY:Private Sessions w/ Stefan Obermaier b2b Theo Meier
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Stefan Obermaier\, Theo Meier\n\nhttps://rave.wien/e/2024-05-
+ 24-private-sessions-w-stefan-obermaier-b2b-theo-meie
+URL:https://rave.wien/e/2024-05-24-private-sessions-w-stefan-obermaier-b2
+ b-theo-meie
+END:VEVENT
 END:VCALENDAR

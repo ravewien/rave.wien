@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-05-01-votiv-session-with-henry-wagner-live-randalia-dj@rave.wien
+DTSTAMP:20260501T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:votiv session with Henry Wagner [LIVE]\, Randalia\, DJ Sprudel\, 
+ Rehorn
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Henry Wagner\, Randalia\, DJ Sprudel\, Rehorn\nVeranstalter: 
+ Votiv Session\n\nhttps://rave.wien/e/2026-05-01-votiv-session-with-henry
+ -wagner-live-randalia-dj
+URL:https://rave.wien/e/2026-05-01-votiv-session-with-henry-wagner-live-r
+ andalia-dj
+END:VEVENT
 END:VCALENDAR

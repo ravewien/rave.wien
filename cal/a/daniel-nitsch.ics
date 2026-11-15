@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2023-10-13-jetlag-disco-3-w-daniel-nitsch-oberst-buchner@rave.wien
+DTSTAMP:20231013T000000Z
+DTSTART;VALUE=DATE:20231013
+DTEND;VALUE=DATE:20231014
+SUMMARY:Jetlag Disco #3 /w Daniel Nitsch\, Oberst & Buchner
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Daniel Nitsch\, Oberst & Buchner\n\nhttps://rave.wien/e/2023-
+ 10-13-jetlag-disco-3-w-daniel-nitsch-oberst-buchner
+URL:https://rave.wien/e/2023-10-13-jetlag-disco-3-w-daniel-nitsch-oberst-
+ buchner
+END:VEVENT
 END:VCALENDAR

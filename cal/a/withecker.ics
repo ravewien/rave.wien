@@ -25,4 +25,27 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-09-06-impulse-and-friends-vol-2@rave.wien
+DTSTAMP:20250906T000000Z
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250907
+SUMMARY:IMPULSE and FRIENDS\, VOL. 2
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:CI_RED\, Patrick M4SS\, Withecker\, JO Trauner\, Matthew\, MI
+ LA\, Majsko\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2025-09-06-imp
+ ulse-and-friends-vol-2
+URL:https://rave.wien/e/2025-09-06-impulse-and-friends-vol-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-04-ruhe-storung-w-withecker@rave.wien
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:RUHE:STÖRUNG w/WITHECKER
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Withecker\n\nhttps://rave.wien/e/2026-09-04-ruhe-storung-w-wi
+ thecker
+URL:https://rave.wien/e/2026-09-04-ruhe-storung-w-withecker
+END:VEVENT
 END:VCALENDAR

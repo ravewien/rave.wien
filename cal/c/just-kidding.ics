@@ -25,4 +25,37 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-21-just-kidding@rave.wien
+DTSTAMP:20240621T000000Z
+DTSTART;VALUE=DATE:20240621
+DTEND;VALUE=DATE:20240622
+SUMMARY:Just Kidding
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Just Kidding\n\nhttps://rave.wien/e/2024-06-21-
+ just-kidding
+URL:https://rave.wien/e/2024-06-21-just-kidding
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-13-just-kidding@rave.wien
+DTSTAMP:20241213T000000Z
+DTSTART;VALUE=DATE:20241213
+DTEND;VALUE=DATE:20241214
+SUMMARY:Just Kidding
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Just Kidding\n\nhttps://rave.wien/e/2024-12-13-
+ just-kidding
+URL:https://rave.wien/e/2024-12-13-just-kidding
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-02-oxygene-x-just-kidding@rave.wien
+DTSTAMP:20250502T000000Z
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250503
+SUMMARY:Oxygene x Just Kidding
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Oxygene\, Just Kidding\n\nhttps://rave.wien/e/2
+ 025-05-02-oxygene-x-just-kidding
+URL:https://rave.wien/e/2025-05-02-oxygene-x-just-kidding
+END:VEVENT
 END:VCALENDAR

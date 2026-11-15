@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-07-17-a-groovy-summer-night-by-bk-west@rave.wien
+DTSTAMP:20260717T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:a groovy summer night by bk.west
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:bk.west\n\nhttps://rave.wien/e/2026-07-17-a-groovy-summer-nig
+ ht-by-bk-west
+URL:https://rave.wien/e/2026-07-17-a-groovy-summer-night-by-bk-west
+END:VEVENT
 END:VCALENDAR

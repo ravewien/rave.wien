@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-07-fast-nice-w-evanora-unlimited@rave.wien
+DTSTAMP:20241207T000000Z
+DTSTART;VALUE=DATE:20241207
+DTEND;VALUE=DATE:20241208
+SUMMARY:Fast+Nice w/Evanora:Unlimited
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Evanora:Unlimited\n\nhttps://rave.wien/e/2024-12-07-fast-nice
+ -w-evanora-unlimited
+URL:https://rave.wien/e/2024-12-07-fast-nice-w-evanora-unlimited
+END:VEVENT
 END:VCALENDAR

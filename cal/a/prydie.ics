@@ -25,4 +25,71 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-07-12-nachtschub-w-prydie@rave.wien
+DTSTAMP:20240712T000000Z
+DTSTART;VALUE=DATE:20240712
+DTEND;VALUE=DATE:20240713
+SUMMARY:NACHTSCHUB w/ PRYDIE
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Prydie\nVeranstalter: Nachtschub\n\nhttps://rave.wien/e/2024-
+ 07-12-nachtschub-w-prydie
+URL:https://rave.wien/e/2024-07-12-nachtschub-w-prydie
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-28-labelnacht-with-prydie-pres-by-gdn@rave.wien
+DTSTAMP:20250328T000000Z
+DTSTART;VALUE=DATE:20250328
+DTEND;VALUE=DATE:20250329
+SUMMARY:LABELNACHT with Prydie pres. by GDN
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Prydie\nVeranstalter: GDN\n\nhttps://rave.wien/e/2025-03-28-l
+ abelnacht-with-prydie-pres-by-gdn
+URL:https://rave.wien/e/2025-03-28-labelnacht-with-prydie-pres-by-gdn
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-24-gdn-pres-labelnacht-with-prydie-leonard-palm@rave.wien
+DTSTAMP:20251024T000000Z
+DTSTART;VALUE=DATE:20251024
+DTEND;VALUE=DATE:20251025
+SUMMARY:GDN pres. LABELNACHT with PRYDIE & Leonard Palm
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Prydie\, Leonard Palm\nVeranstalter: GDN\n\nhttps://rave.wien
+ /e/2025-10-24-gdn-pres-labelnacht-with-prydie-leonard-palm
+URL:https://rave.wien/e/2025-10-24-gdn-pres-labelnacht-with-prydie-leonar
+ d-palm
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-03-nachtschub-with-dasstudach-prydie@rave.wien
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:NACHTSCHUB with dasstudach & Prydie
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:dasstudach\, Prydie\nVeranstalter: Nachtschub\n\nhttps://rave
+ .wien/e/2026-04-03-nachtschub-with-dasstudach-prydie
+URL:https://rave.wien/e/2026-04-03-nachtschub-with-dasstudach-prydie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-05-nachtschub-with-leonard-palm-prydie@rave.wien
+DTSTAMP:20260605T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:NACHTSCHUB with Leonard Palm & PRYDIE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Leonard Palm\, Prydie\nVeranstalter: Nachtschub\n\nhttps://ra
+ ve.wien/e/2026-06-05-nachtschub-with-leonard-palm-prydie
+URL:https://rave.wien/e/2026-06-05-nachtschub-with-leonard-palm-prydie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-04-labelnacht-prydie-anl-special@rave.wien
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:LABELNACHT – PRYDIE ANL SPECIAL
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Prydie\n\nhttps://rave.wien/e/2026-09-04-labelnacht-prydie-an
+ l-special
+URL:https://rave.wien/e/2026-09-04-labelnacht-prydie-anl-special
+END:VEVENT
 END:VCALENDAR

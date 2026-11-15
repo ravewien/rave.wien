@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-10-11-fuelized-pres-empathy-audio-label-night-vienna-w@rave.wien
+DTSTAMP:20251011T000000Z
+DTSTART;VALUE=DATE:20251011
+DTEND;VALUE=DATE:20251012
+SUMMARY:FUELIZED pres. EMPATHY AUDIO LABEL NIGHT VIENNA w/ DUB TEN\, ACRIS
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Dub Ten\, Acris\nVeranstalter: Fuelized\n\nhttps://rave.wien/
+ e/2025-10-11-fuelized-pres-empathy-audio-label-night-vienna-w
+URL:https://rave.wien/e/2025-10-11-fuelized-pres-empathy-audio-label-nigh
+ t-vienna-w
+END:VEVENT
 END:VCALENDAR

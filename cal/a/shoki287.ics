@@ -26,6 +26,17 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-09-27-step-forward-x-taxi-40100-pres-shoki287@rave.wien
+DTSTAMP:20240927T000000Z
+DTSTART;VALUE=DATE:20240927
+DTEND;VALUE=DATE:20240928
+SUMMARY:Step Forward x Taxi 40100 pres. SHOKI287
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:SHOKI287\nVeranstalter: Step Forward\n\nhttps://rave.wien/e/2
+ 024-09-27-step-forward-x-taxi-40100-pres-shoki287
+URL:https://rave.wien/e/2024-09-27-step-forward-x-taxi-40100-pres-shoki287
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-step-forward-pres-shoki@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T230000

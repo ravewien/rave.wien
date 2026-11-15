@@ -39,4 +39,28 @@ DESCRIPTION:Chris Liebing\nVeranstalter: YN\, Ritual\nEintritt: VVK 16
  t.\n\nhttps://rave.wien/e/2026-12-18-ritual-x-yn-w-chris-liebing
 URL:https://rave.wien/e/2026-12-18-ritual-x-yn-w-chris-liebing
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-12-ritual-opening-ceremony-with-yanamaste@rave.wien
+DTSTAMP:20260612T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:RITUAL – opening ceremony with Yanamaste
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Yanamaste\nVeranstalter: Ritual\n\nhttps://rave.wien/e/2026-0
+ 6-12-ritual-opening-ceremony-with-yanamaste
+URL:https://rave.wien/e/2026-06-12-ritual-opening-ceremony-with-yanamaste
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-ritual-ii-with-felicie-phara-truncate-uncertain@rave.wien
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:RITUAL II with Felicie\, Phara\, Truncate\, Uncertain
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Felicie\, Phara\, Truncate\, Uncertain\nVeranstalter: Ritual\
+ n\nhttps://rave.wien/e/2026-10-02-ritual-ii-with-felicie-phara-truncate-
+ uncertain
+URL:https://rave.wien/e/2026-10-02-ritual-ii-with-felicie-phara-truncate-
+ uncertain
+END:VEVENT
 END:VCALENDAR

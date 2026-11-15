@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-07-12-cosmic-with-1200-micrograms-dj-set-by-chicago-at@rave.wien
+DTSTAMP:20240712T000000Z
+DTSTART;VALUE=DATE:20240712
+DTEND;VALUE=DATE:20240713
+SUMMARY:COSMIC with 1200 Micrograms DJ-Set by CHICAGO at WERK
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:1200 Micrograms\n\nhttps://rave.wien/e/2024-07-12-cosmic-with
+ -1200-micrograms-dj-set-by-chicago-at
+URL:https://rave.wien/e/2024-07-12-cosmic-with-1200-micrograms-dj-set-by-
+ chicago-at
+END:VEVENT
 END:VCALENDAR

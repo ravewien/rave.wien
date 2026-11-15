@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-05-24-tasteless-invites-paige-tomlinson@rave.wien
+DTSTAMP:20250524T000000Z
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250525
+SUMMARY:TASTELESS INVITES Paige Tomlinson
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Paige Tomlinson\nVeranstalter: Tasteless\n\nhttps://rave.wien
+ /e/2025-05-24-tasteless-invites-paige-tomlinson
+URL:https://rave.wien/e/2025-05-24-tasteless-invites-paige-tomlinson
+END:VEVENT
 END:VCALENDAR

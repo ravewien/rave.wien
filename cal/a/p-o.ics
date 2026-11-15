@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-15-connecting-people-w-p-o@rave.wien
+DTSTAMP:20241115T000000Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241116
+SUMMARY:Connecting People w/ P.O
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:P.O\nVeranstalter: Connecting People\n\nhttps://rave.wien/e/2
+ 024-11-15-connecting-people-w-p-o
+URL:https://rave.wien/e/2024-11-15-connecting-people-w-p-o
+END:VEVENT
 END:VCALENDAR

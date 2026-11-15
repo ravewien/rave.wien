@@ -25,4 +25,56 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-31-contrast-pres-darkmttr-w-s-p-y-alibi-molecular-ia@rave.wien
+DTSTAMP:20240831T000000Z
+DTSTART;VALUE=DATE:20240831
+DTEND;VALUE=DATE:20240901
+SUMMARY:CONTRAST pres. DARKMTTR w/ S.P.Y. + ALIBI + MOLECULAR + IAMDOOMED
+  | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:S.p.y\, Alibi\, Molecular\, Iamdoomed\nVeranstalter: Contrast
+ \n\nhttps://rave.wien/e/2024-08-31-contrast-pres-darkmttr-w-s-p-y-alibi-
+ molecular-ia
+URL:https://rave.wien/e/2024-08-31-contrast-pres-darkmttr-w-s-p-y-alibi-m
+ olecular-ia
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-29-contrast-pres-space-age-w-lsb-drs-workforce-alibi@rave.wien
+DTSTAMP:20241129T000000Z
+DTSTART;VALUE=DATE:20241129
+DTEND;VALUE=DATE:20241130
+SUMMARY:CONTRAST pres. SPACE AGE w/ LSB & DRS + WORKFORCE + ALIBI | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Lsb\, DRS\, Workforce\, Alibi\nVeranstalter: Contrast\n\nhttp
+ s://rave.wien/e/2024-11-29-contrast-pres-space-age-w-lsb-drs-workforce-a
+ libi
+URL:https://rave.wien/e/2024-11-29-contrast-pres-space-age-w-lsb-drs-work
+ force-alibi
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-27-contrast-pres-darkmttr-w-s-p-y-alibi-iamdoomed-18@rave.wien
+DTSTAMP:20250927T000000Z
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+SUMMARY:CONTRAST pres. DARKMTTR w/ S.P.Y + ALIBI + IAMDOOMED | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:S.p.y\, Alibi\, Iamdoomed\nVeranstalter: Contrast\n\nhttps://
+ rave.wien/e/2025-09-27-contrast-pres-darkmttr-w-s-p-y-alibi-iamdoomed-18
+URL:https://rave.wien/e/2025-09-27-contrast-pres-darkmttr-w-s-p-y-alibi-i
+ amdoomed-18
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-18-contrast-x-darkmttr-w-s-p-y-alibi-iamdoomed-speci@rave.wien
+DTSTAMP:20260718T000000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:CONTRAST x DARKMTTR w/ S.P.Y + ALIBI + IAMDOOMED + Special Guest:
+  THE UPBEATS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:S.p.y\, Alibi\, Iamdoomed\nVeranstalter: Contrast\n\nhttps://
+ rave.wien/e/2026-07-18-contrast-x-darkmttr-w-s-p-y-alibi-iamdoomed-speci
+URL:https://rave.wien/e/2026-07-18-contrast-x-darkmttr-w-s-p-y-alibi-iamd
+ oomed-speci
+END:VEVENT
 END:VCALENDAR

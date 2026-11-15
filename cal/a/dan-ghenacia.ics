@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-04-10-red-groove-social-club-presents-dan-ghenacia-red@rave.wien
+DTSTAMP:20260410T000000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:RED GROOVE (Social Club) presents: Dan Ghenacia & RED GROOVE SYST
+ EM
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Dan Ghenacia\, Red Groove System\nVeranstalter: Red Groove So
+ cial Club\n\nhttps://rave.wien/e/2026-04-10-red-groove-social-club-prese
+ nts-dan-ghenacia-red
+URL:https://rave.wien/e/2026-04-10-red-groove-social-club-presents-dan-gh
+ enacia-red
+END:VEVENT
 END:VCALENDAR

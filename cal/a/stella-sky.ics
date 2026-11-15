@@ -25,4 +25,19 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-06-20-techno-am-wasser-x-flashback-free-open-air-specia@rave.wien
+DTSTAMP:20260620T000000Z
+DTSTART;TZID=Europe/Vienna:20260620T160000
+DTEND;TZID=Europe/Vienna:20260620T210000
+SUMMARY:TECHNO AM WASSER x FLASHBACK – Free Open Air Special
+LOCATION:Himmel und Wasser\, Steinspornbrücke 1\, 1220 Wien
+DESCRIPTION:Carl Haze\, Crazy Sonic\, Joro & Joabo\, Kristof Grandits\, R
+ okis\, Stella Sky\nVeranstalter: Techno am Wasser\, Flashback\nEintritt:
+  Gratis\n\nFree Open Air von Techno am Wasser gemeinsam mit FLASHBACK Te
+ chno Classics\, mit MC Mars.\n\nhttps://rave.wien/e/2026-06-20-techno-am
+ -wasser-x-flashback-free-open-air-specia
+URL:https://rave.wien/e/2026-06-20-techno-am-wasser-x-flashback-free-open
+ -air-specia
+END:VEVENT
 END:VCALENDAR

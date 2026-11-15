@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-25-superfair-afterparty-with-kataya-pulli-chomba-cia@rave.wien
+DTSTAMP:20240525T000000Z
+DTSTART;VALUE=DATE:20240525
+DTEND;VALUE=DATE:20240526
+SUMMARY:SUPERFAIR Afterparty with Kataya // Pulli & Chomba // Ciao 3lla
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Kataya\n\nhttps://rave.wien/e/2024-05-25-superfair-afterparty
+ -with-kataya-pulli-chomba-cia
+URL:https://rave.wien/e/2024-05-25-superfair-afterparty-with-kataya-pulli
+ -chomba-cia
+END:VEVENT
 END:VCALENDAR

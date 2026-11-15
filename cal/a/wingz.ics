@@ -87,4 +87,44 @@ DESCRIPTION:Mainfloor: Simula\, Enei\, Skantia\, En:vy\, Wingz\, Contrast
 URL:https://rave.wien/e/2026-12-12-contrast-pres-dance-macabre-w-simula-e
  nei-skantia
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-18-contrast-pres-halogenix-lenzman-monrroe-wingz-18@rave.wien
+DTSTAMP:20240518T000000Z
+DTSTART;VALUE=DATE:20240518
+DTEND;VALUE=DATE:20240519
+SUMMARY:CONTRAST pres. HALOGENIX + LENZMAN + MONRROE + WINGZ | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Halogenix\, Lenzman\, Monrroe\, Wingz\nVeranstalter: Contrast
+ \n\nhttps://rave.wien/e/2024-05-18-contrast-pres-halogenix-lenzman-monrr
+ oe-wingz-18
+URL:https://rave.wien/e/2024-05-18-contrast-pres-halogenix-lenzman-monrro
+ e-wingz-18
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-21-contrast-x-10-yrs-at-grelle-forelle@rave.wien
+DTSTAMP:20250221T000000Z
+DTSTART;VALUE=DATE:20250221
+DTEND;VALUE=DATE:20250222
+SUMMARY:CONTRAST – X – 10 YRS at GRELLE FORELLE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mefjus & Daxta\, Dub Phizix & Strategy\, Forbidden Society\, 
+ Misanthrop\, Phace\, Rockwell\, Workforce\, AudioDevice\, Blind Judge\, 
+ Dora\, Lost Content\, Redex\, Wingz\, Sequent\, Aras\, Jalen Mess\, Sara
+ h Allen\, Feli Nightingale\, Jas Rial\, Sunshine Daddy\, FNKYN\nVeransta
+ lter: Contrast\n\nhttps://rave.wien/e/2025-02-21-contrast-x-10-yrs-at-gr
+ elle-forelle
+URL:https://rave.wien/e/2025-02-21-contrast-x-10-yrs-at-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-08-fuelized-2-year-anniversary-w-creatures-uk-wingz@rave.wien
+DTSTAMP:20251108T000000Z
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
+SUMMARY:FUELIZED 2 YEAR ANNIVERSARY W/ CREATURES [UK] + WINGZ [AT]
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Creatures\, Wingz\nVeranstalter: Fuelized\n\nhttps://rave.wie
+ n/e/2025-11-08-fuelized-2-year-anniversary-w-creatures-uk-wingz
+URL:https://rave.wien/e/2025-11-08-fuelized-2-year-anniversary-w-creature
+ s-uk-wingz
+END:VEVENT
 END:VCALENDAR

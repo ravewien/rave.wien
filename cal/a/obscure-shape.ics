@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-03-30-misguided-label-launch-w-obscure-shape-ruiz-osc1@rave.wien
+DTSTAMP:20240330T000000Z
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240331
+SUMMARY:Misguided Label Launch w/ Obscure Shape\, Ruiz OSC1\, KTK & DLV
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Obscure Shape\, Ruiz OSC1\, KTK\, DLV\nVeranstalter: Misguide
+ d\n\nhttps://rave.wien/e/2024-03-30-misguided-label-launch-w-obscure-sha
+ pe-ruiz-osc1
+URL:https://rave.wien/e/2024-03-30-misguided-label-launch-w-obscure-shape
+ -ruiz-osc1
+END:VEVENT
 END:VCALENDAR

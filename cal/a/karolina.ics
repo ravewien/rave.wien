@@ -41,4 +41,68 @@ DESCRIPTION:KlangKuenstler\, SHDW\, Svetec\, Karolina\nEintritt: 55 €\n
  26-12-12-klangkuenstler
 URL:https://rave.wien/e/2026-12-12-klangkuenstler
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-08-bass-bussi-1-year-anniversary-with-karolina@rave.wien
+DTSTAMP:20241108T000000Z
+DTSTART;VALUE=DATE:20241108
+DTEND;VALUE=DATE:20241109
+SUMMARY:Bass Bussi 1 Year Anniversary with KAROLINA
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Karolina\nVeranstalter: Bassbussi\n\nhttps://rave.wien/e/2024
+ -11-08-bass-bussi-1-year-anniversary-with-karolina
+URL:https://rave.wien/e/2024-11-08-bass-bussi-1-year-anniversary-with-kar
+ olina
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-14-below-the-surface-raw-x-yn@rave.wien
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:BELOW THE SURFACE | RAW x YN
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:EXOS\, Karolina\, Ketarina\nVeranstalter: Below the Surface\,
+  YN Collective\n\nhttps://rave.wien/e/2026-03-14-below-the-surface-raw-x
+ -yn
+URL:https://rave.wien/e/2026-03-14-below-the-surface-raw-x-yn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-04-karolina-b2b-scheibenwisch3r-all-night-long@rave.wien
+DTSTAMP:20260704T000000Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:KAROLINA b2b SCHEIBENWISCH3R All Night Long
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Karolina\, Scheibenwisch3r\n\nhttps://rave.wien/e/2026-07-04-
+ karolina-b2b-scheibenwisch3r-all-night-long
+URL:https://rave.wien/e/2026-07-04-karolina-b2b-scheibenwisch3r-all-night
+ -long
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-yn-x-bcco-club-night@rave.wien
+DTSTAMP:20260926T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:YN x BCCO Club Night
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Fenimore\, Future.666\, FX-31\, Juan Caballo\, Karolina\, Mia
+  Mia\, Sarica\, Static Bloom\nVeranstalter: YN Collective\n\nhttps://rav
+ e.wien/e/2026-09-26-yn-x-bcco-club-night
+URL:https://rave.wien/e/2026-09-26-yn-x-bcco-club-night
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-art-attech-special-edition-15@rave.wien
+DTSTAMP:20261002T000000Z
+DTSTART;TZID=Europe/Vienna:20261002T200000
+DTEND;TZID=Europe/Vienna:20261003T010000
+SUMMARY:ART ATTECH Special Edition #15
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Ele Luz\, Je'täm\, Papa Karl\, SAMDMA\, Wal_Halla\, Karolina
+ \, Melimeko\, Wearethezombies\, Violetta\, Shira\, Karl Michael\nVeranst
+ alter: Art Attech\nEintritt: 25 € Abendkasse\n\nVernissage ab 20 Uhr\,
+  Art Rave ab 23 Uhr\; Aktzeichnen\, Livepaintings\, Lichtinstallation un
+ d Ausstellung\n\nhttps://rave.wien/e/2026-10-02-art-attech-special-editi
+ on-15
+URL:https://rave.wien/e/2026-10-02-art-attech-special-edition-15
+END:VEVENT
 END:VCALENDAR

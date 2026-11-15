@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-03-15-contrast-pres-1985-music-w-skeptical-visages-mont@rave.wien
+DTSTAMP:20250315T000000Z
+DTSTART;VALUE=DATE:20250315
+DTEND;VALUE=DATE:20250316
+SUMMARY:CONTRAST pres. 1985 MUSIC w/ SKEPTICAL + VISAGES + MONTY + CHIMPO
+  + AZURA | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Skeptical\, Visages\, Monty\, Chimpo\, Azura\nVeranstalter: C
+ ontrast\n\nhttps://rave.wien/e/2025-03-15-contrast-pres-1985-music-w-ske
+ ptical-visages-mont
+URL:https://rave.wien/e/2025-03-15-contrast-pres-1985-music-w-skeptical-v
+ isages-mont
+END:VEVENT
 END:VCALENDAR

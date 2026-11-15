@@ -46,4 +46,114 @@ DESCRIPTION:Mainfloor: Paraçek\, MARØ\, Vivienna\nKitchen: Felix Ruppre
  n/e/2026-11-14-paradies-garten-w-paracek
 URL:https://rave.wien/e/2026-11-14-paradies-garten-w-paracek
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-28-tattu-tatta-glub-polyamor@rave.wien
+DTSTAMP:20240928T000000Z
+DTSTART;TZID=Europe/Vienna:20240928T230000
+DTEND;TZID=Europe/Vienna:20240929T040000
+SUMMARY:Tattu Tatta Glub & Polyamor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:UHD\, ALIS.\, Vivienna\, Bitschu Batschu\, Cleopard2000\, Heg
+ gemann\, DJ Shady MF\, Anna Ullrich\nVeranstalter: Tattu Tatta Glub\, Po
+ lyamor\n\nhttps://rave.wien/e/2024-09-28-tattu-tatta-glub-polyamor
+URL:https://rave.wien/e/2024-09-28-tattu-tatta-glub-polyamor
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-07-13-yrs-grelle-forelle-day-two@rave.wien
+DTSTAMP:20241207T000000Z
+DTSTART;TZID=Europe/Vienna:20241207T230000
+DTEND;TZID=Europe/Vienna:20241208T040000
+SUMMARY:13 YRS Grelle Forelle – Day Two
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:DJ Heartstring\, Derrick Raw\, Vivienna\, Flo Real\, Koa\, Al
+ troy Jerome\n\nhttps://rave.wien/e/2024-12-07-13-yrs-grelle-forelle-day-
+ two
+URL:https://rave.wien/e/2024-12-07-13-yrs-grelle-forelle-day-two
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-15-tattu-tatta-glub@rave.wien
+DTSTAMP:20250215T000000Z
+DTSTART;TZID=Europe/Vienna:20250215T230000
+DTEND;TZID=Europe/Vienna:20250216T040000
+SUMMARY:TATTU TATTA GLUB
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Baran Kok\, DjBounty3000\, Stinny Stone\, Icydeoz\, Vivienna\
+ , Serafin\, Armin Hermann\nVeranstalter: Tattu Tatta Glub\n\nhttps://rav
+ e.wien/e/2025-02-15-tattu-tatta-glub
+URL:https://rave.wien/e/2025-02-15-tattu-tatta-glub
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-10-tattu-tatta-glub-macht-pau-se-grelle-forelle@rave.wien
+DTSTAMP:20250510T000000Z
+DTSTART;VALUE=DATE:20250510
+DTEND;VALUE=DATE:20250511
+SUMMARY:TATTU TATTA GLUB macht PAU’se @ GRELLE FORELLE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mariad\, Greg\, Pau\, Nasty\, DJ Spit & Caramelo\, Vivienna\,
+  Serafin\nVeranstalter: Tattu Tatta Glub\n\nhttps://rave.wien/e/2025-05-
+ 10-tattu-tatta-glub-macht-pau-se-grelle-forelle
+URL:https://rave.wien/e/2025-05-10-tattu-tatta-glub-macht-pau-se-grelle-f
+ orelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-18-polyamor-vienna@rave.wien
+DTSTAMP:20250618T000000Z
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250619
+SUMMARY:Polyamor Vienna
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Cleopard2000\, Elotrance\, Justin Tinderdate\, Vivienna\, Cha
+ ya\, Armin Herrmann\, Serafin\nVeranstalter: Polyamor\n\nhttps://rave.wi
+ en/e/2025-06-18-polyamor-vienna
+URL:https://rave.wien/e/2025-06-18-polyamor-vienna
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-25-live-from-earth-pres-x-club-with-vivienna-perra-i@rave.wien
+DTSTAMP:20250925T000000Z
+DTSTART;VALUE=DATE:20250925
+DTEND;VALUE=DATE:20250926
+SUMMARY:LIVE FROM EARTH pres X CLUB with Vivienna\, Perra Inmunda & Helln
+ ah
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Vivienna\, Perra Inmunda\, Hellnah\n\nhttps://rave.wien/e/202
+ 5-09-25-live-from-earth-pres-x-club-with-vivienna-perra-i
+URL:https://rave.wien/e/2025-09-25-live-from-earth-pres-x-club-with-vivie
+ nna-perra-i
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-05-14-yrs-grelle-forelle@rave.wien
+DTSTAMP:20251205T000000Z
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:14 YRS Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Chris Liebing\, Speedy J\, Memet Acuma\, Franjazzco\, Dzc.\, 
+ DJ Gigola\, DBBD\, Tezibel\, Vivienna\n\nhttps://rave.wien/e/2025-12-05-
+ 14-yrs-grelle-forelle
+URL:https://rave.wien/e/2025-12-05-14-yrs-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-14-tattu-tatta-glub-goat-ball@rave.wien
+DTSTAMP:20260214T000000Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:TATTU TATTA GLUB & GOAT BALL
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Vivienna\, Trancemaster Krause\, Stinny Stone\, Cobb Douglas\
+ , Sohoe\, Terra Twiins\, Armin Hermann\, Serafin\nVeranstalter: Tattu Ta
+ tta Glub\n\nhttps://rave.wien/e/2026-02-14-tattu-tatta-glub-goat-ball
+URL:https://rave.wien/e/2026-02-14-tattu-tatta-glub-goat-ball
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-10-radio-rudina@rave.wien
+DTSTAMP:20261010T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Radio Rudina
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Bambi-S\, AEND\, DJ Lelo\, Ivan\, DJ.org\, Vivienna\, Cherche
+ s\, COBRA\nVeranstalter: Radio Rudina\n\nhttps://rave.wien/e/2026-10-10-
+ radio-rudina
+URL:https://rave.wien/e/2026-10-10-radio-rudina
+END:VEVENT
 END:VCALENDAR

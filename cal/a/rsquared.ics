@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-01-19-the-red-groove-social-club-with-rsquared@rave.wien
+DTSTAMP:20240119T000000Z
+DTSTART;VALUE=DATE:20240119
+DTEND;VALUE=DATE:20240120
+SUMMARY:THE RED GROOVE (Social Club) with: RSQUARED
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:RSquared\nVeranstalter: Red Groove Social Club\n\nhttps://rav
+ e.wien/e/2024-01-19-the-red-groove-social-club-with-rsquared
+URL:https://rave.wien/e/2024-01-19-the-red-groove-social-club-with-rsquar
+ ed
+END:VEVENT
 END:VCALENDAR

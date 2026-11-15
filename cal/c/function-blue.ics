@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-03-14-function-blue@rave.wien
+DTSTAMP:20250314T000000Z
+DTSTART;VALUE=DATE:20250314
+DTEND;VALUE=DATE:20250315
+SUMMARY:FUNCTION BLUE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Function Blue\n\nhttps://rave.wien/e/2025-03-14
+ -function-blue
+URL:https://rave.wien/e/2025-03-14-function-blue
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-27-function-blue-vol-iii@rave.wien
+DTSTAMP:20251127T000000Z
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+SUMMARY:Function Blue Vol. III
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Function Blue\n\nhttps://rave.wien/e/2025-11-27
+ -function-blue-vol-iii
+URL:https://rave.wien/e/2025-11-27-function-blue-vol-iii
+END:VEVENT
 END:VCALENDAR

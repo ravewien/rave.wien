@@ -46,4 +46,37 @@ DESCRIPTION:Jules Foe\, Lila Gold\, MEIOSISS\nVeranstalter: MEIOSISS\, Ho
  et
 URL:https://rave.wien/e/2026-11-14-hot-n-wet
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-16-hot-flirty-pt-2@rave.wien
+DTSTAMP:20250816T000000Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+SUMMARY:HOT&FLIRTY pt. 2
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Hot & Flirty\n\nhttps://rave.wien/e/2025-08-16-
+ hot-flirty-pt-2
+URL:https://rave.wien/e/2025-08-16-hot-flirty-pt-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-20-hot-flirty-pt-3@rave.wien
+DTSTAMP:20251220T000000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:HOT&FLIRTY pt. 3
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Hot & Flirty\n\nhttps://rave.wien/e/2025-12-20-
+ hot-flirty-pt-3
+URL:https://rave.wien/e/2025-12-20-hot-flirty-pt-3
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-03-hot-flirty-pt-4@rave.wien
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:HOT&FLIRTY pt. 4
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Hot & Flirty\n\nhttps://rave.wien/e/2026-04-03-
+ hot-flirty-pt-4
+URL:https://rave.wien/e/2026-04-03-hot-flirty-pt-4
+END:VEVENT
 END:VCALENDAR

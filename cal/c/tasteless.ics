@@ -26,6 +26,107 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2025-02-15-tasteless-with-luuk-van-dijk@rave.wien
+DTSTAMP:20250215T000000Z
+DTSTART;VALUE=DATE:20250215
+DTEND;VALUE=DATE:20250216
+SUMMARY:TASTELESS with Luuk van Dijk
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Luuk van Dijk\nVeranstalter: Tasteless\n\nhttps://rave.wien/e
+ /2025-02-15-tasteless-with-luuk-van-dijk
+URL:https://rave.wien/e/2025-02-15-tasteless-with-luuk-van-dijk
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-06-tasteless-invites-rooleh@rave.wien
+DTSTAMP:20250306T000000Z
+DTSTART;VALUE=DATE:20250306
+DTEND;VALUE=DATE:20250307
+SUMMARY:TASTELESS INVITES Rooléh
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Rooléh\nVeranstalter: Tasteless\n\nhttps://rave.wien/e/2025-
+ 03-06-tasteless-invites-rooleh
+URL:https://rave.wien/e/2025-03-06-tasteless-invites-rooleh
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-03-tasteless-invites-jamback@rave.wien
+DTSTAMP:20250403T000000Z
+DTSTART;VALUE=DATE:20250403
+DTEND;VALUE=DATE:20250404
+SUMMARY:TASTELESS INVITES Jamback
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Jamback\nVeranstalter: Tasteless\n\nhttps://rave.wien/e/2025-
+ 04-03-tasteless-invites-jamback
+URL:https://rave.wien/e/2025-04-03-tasteless-invites-jamback
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-24-tasteless-invites-paige-tomlinson@rave.wien
+DTSTAMP:20250524T000000Z
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250525
+SUMMARY:TASTELESS INVITES Paige Tomlinson
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Paige Tomlinson\nVeranstalter: Tasteless\n\nhttps://rave.wien
+ /e/2025-05-24-tasteless-invites-paige-tomlinson
+URL:https://rave.wien/e/2025-05-24-tasteless-invites-paige-tomlinson
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-14-tasteless-x-red-groove-social-club-open-air-feuer@rave.wien
+DTSTAMP:20250814T000000Z
+DTSTART;VALUE=DATE:20250814
+DTEND;VALUE=DATE:20250815
+SUMMARY:TASTELESS X RED GROOVE SOCIAL CLUB – OPEN AIR FEUERDORF + PRST 
+ AFTERPARTY
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Red Groove Social Club\, Tasteless\n\nhttps://r
+ ave.wien/e/2025-08-14-tasteless-x-red-groove-social-club-open-air-feuer
+URL:https://rave.wien/e/2025-08-14-tasteless-x-red-groove-social-club-ope
+ n-air-feuer
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-21-tasteless-at-prst-club@rave.wien
+DTSTAMP:20251121T000000Z
+DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251122
+SUMMARY:TASTELESS AT PRST CLUB
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Tasteless\n\nhttps://rave.wien/e/2025-11-21-tas
+ teless-at-prst-club
+URL:https://rave.wien/e/2025-11-21-tasteless-at-prst-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-13-tasteless-valentine-s-special@rave.wien
+DTSTAMP:20260213T000000Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:TASTELESS – VALENTINE‘S SPECIAL
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Tasteless\n\nhttps://rave.wien/e/2026-02-13-tas
+ teless-valentine-s-special
+URL:https://rave.wien/e/2026-02-13-tasteless-valentine-s-special
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-30-tasteless-x-vibrant-uk-with-melody@rave.wien
+DTSTAMP:20260430T000000Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:TASTELESS X VIBRANT (UK) with MELODY
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Melody\nVeranstalter: Tasteless\n\nhttps://rave.wien/e/2026-0
+ 4-30-tasteless-x-vibrant-uk-with-melody
+URL:https://rave.wien/e/2026-04-30-tasteless-x-vibrant-uk-with-melody
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-tasteless-x-mania@rave.wien
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:TASTELESS X MANIA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Tasteless\n\nhttps://rave.wien/e/2026-09-11-tas
+ teless-x-mania
+URL:https://rave.wien/e/2026-09-11-tasteless-x-mania
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-tasteless-3-yrs-anniversary-halloween-special@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T210000

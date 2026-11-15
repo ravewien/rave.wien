@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-10-17-hart-lab-w-lady-maru@rave.wien
+DTSTAMP:20251017T000000Z
+DTSTART;VALUE=DATE:20251017
+DTEND;VALUE=DATE:20251018
+SUMMARY:Hart Lab w/ Lady Maru
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Lady Maru\nVeranstalter: Hart Lab\n\nhttps://rave.wien/e/2025
+ -10-17-hart-lab-w-lady-maru
+URL:https://rave.wien/e/2025-10-17-hart-lab-w-lady-maru
+END:VEVENT
 END:VCALENDAR

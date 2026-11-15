@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-03-14-mitmischen-by-wiener-mischung-with-katerfruhstuck@rave.wien
+DTSTAMP:20250314T000000Z
+DTSTART;VALUE=DATE:20250314
+DTEND;VALUE=DATE:20250315
+SUMMARY:Mitmischen by Wiener Mischung with Katerfrühstück
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Katerfrühstück\nVeranstalter: Wiener Mischung\n\nhttps://ra
+ ve.wien/e/2025-03-14-mitmischen-by-wiener-mischung-with-katerfruhstuck
+URL:https://rave.wien/e/2025-03-14-mitmischen-by-wiener-mischung-with-kat
+ erfruhstuck
+END:VEVENT
 END:VCALENDAR

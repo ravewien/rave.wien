@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-08-07-techno-am-wasser-x-flucc-aftershow-open-air-rave@rave.wien
+DTSTAMP:20260807T000000Z
+DTSTART;TZID=Europe/Vienna:20260807T170000
+DTEND;TZID=Europe/Vienna:20260807T240000
+SUMMARY:TECHNO AM WASSER⁴ x FLUCC Aftershow – Open Air Rave 2026
+LOCATION:Usus am Wasser\, An der Neuen Donau 1\, 1210 Wien
+DESCRIPTION:Carl Haze\, Marika Rossa\, Markus Taubenschlag\, Martin Oelz\
+ , SAMDMA\nVeranstalter: Techno am Wasser\nEintritt: 12–25 €\n\nhttps
+ ://rave.wien/e/2026-08-07-techno-am-wasser-x-flucc-aftershow-open-air-ra
+ ve
+URL:https://rave.wien/e/2026-08-07-techno-am-wasser-x-flucc-aftershow-ope
+ n-air-rave
+END:VEVENT
 END:VCALENDAR

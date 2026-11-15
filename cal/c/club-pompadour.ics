@@ -44,4 +44,179 @@ DESCRIPTION:Veronika Amie\, Paul Panther\, Philipp Blecha\nVeranstalter:
  e.wien/e/2026-11-14-club-pompadour
 URL:https://rave.wien/e/2026-11-14-club-pompadour
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-02-24-club-pompadour-love-thunder@rave.wien
+DTSTAMP:20240224T000000Z
+DTSTART;VALUE=DATE:20240224
+DTEND;VALUE=DATE:20240225
+SUMMARY:Club Pompadour – Love & Thunder
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\n\nhttps://rave.wien/e/2024-02-2
+ 4-club-pompadour-love-thunder
+URL:https://rave.wien/e/2024-02-24-club-pompadour-love-thunder
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-30-rhythm-science-x-club-pompadour-zwidemu-afterpart@rave.wien
+DTSTAMP:20240430T000000Z
+DTSTART;VALUE=DATE:20240430
+DTEND;VALUE=DATE:20240501
+SUMMARY:Rhythm Science x Club Pompadour ZWIDEMU Afterparty
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\, Club Pompadour\n\nhttps://rave
+ .wien/e/2024-04-30-rhythm-science-x-club-pompadour-zwidemu-afterpart
+URL:https://rave.wien/e/2024-04-30-rhythm-science-x-club-pompadour-zwidem
+ u-afterpart
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-14-club-pompadour@rave.wien
+DTSTAMP:20240614T000000Z
+DTSTART;VALUE=DATE:20240614
+DTEND;VALUE=DATE:20240615
+SUMMARY:Club Pompadour
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\n\nhttps://rave.wien/e/2024-06-1
+ 4-club-pompadour
+URL:https://rave.wien/e/2024-06-14-club-pompadour
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-13-flashback-techno-classics-pompadour-grelle-forell@rave.wien
+DTSTAMP:20240713T000000Z
+DTSTART;TZID=Europe/Vienna:20240713T230000
+DTEND;TZID=Europe/Vienna:20240714T040000
+SUMMARY:FLASHBACK Techno Classics & Pompadour @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Frau Hofmann\, Joro & Joabo\, Rokis\, Peter Pan\, Tom Snow\, 
+ Martin Oelz\, MC Mars\, MC Spot\, Veronika Amie\, Thomas Grün\, Philipp
+  Blecha\nVeranstalter: Flashback\, Club Pompadour\n\nKitchen gehostet vo
+ n „Pompadour“\n\nhttps://rave.wien/e/2024-07-13-flashback-techno-cla
+ ssics-pompadour-grelle-forell
+URL:https://rave.wien/e/2024-07-13-flashback-techno-classics-pompadour-gr
+ elle-forell
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-09-club-pompadour-x-brothers-sisters@rave.wien
+DTSTAMP:20240809T000000Z
+DTSTART;VALUE=DATE:20240809
+DTEND;VALUE=DATE:20240810
+SUMMARY:Club Pompadour x Brothers & Sisters
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\n\nhttps://rave.wien/e/2024-08-0
+ 9-club-pompadour-x-brothers-sisters
+URL:https://rave.wien/e/2024-08-09-club-pompadour-x-brothers-sisters
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-31-club-pompadour-rhythm-science-w-archie-hamilton@rave.wien
+DTSTAMP:20241031T000000Z
+DTSTART;VALUE=DATE:20241031
+DTEND;VALUE=DATE:20241101
+SUMMARY:Club Pompadour & Rhythm Science w/ Archie Hamilton
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Archie Hamilton\nVeranstalter: Rhythm Science\, Club Pompadou
+ r\n\nhttps://rave.wien/e/2024-10-31-club-pompadour-rhythm-science-w-arch
+ ie-hamilton
+URL:https://rave.wien/e/2024-10-31-club-pompadour-rhythm-science-w-archie
+ -hamilton
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-10-merkwurdig-x-club-pompadour@rave.wien
+DTSTAMP:20250110T000000Z
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+SUMMARY:MERKWÜRDIG x CLUB POMPADOUR
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\, Merkwürdig\n\nhttps://rave.wi
+ en/e/2025-01-10-merkwurdig-x-club-pompadour
+URL:https://rave.wien/e/2025-01-10-merkwurdig-x-club-pompadour
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-01-morgengymnastik-x-club-pompadour-stretching-fur-d@rave.wien
+DTSTAMP:20250501T000000Z
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+SUMMARY:Morgengymnastik X Club Pompadour – Stretching für die Seele!
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\, Morgengymnastik\n\nhttps://rav
+ e.wien/e/2025-05-01-morgengymnastik-x-club-pompadour-stretching-fur-d
+URL:https://rave.wien/e/2025-05-01-morgengymnastik-x-club-pompadour-stret
+ ching-fur-d
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-04-club-pompadour@rave.wien
+DTSTAMP:20250704T000000Z
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250705
+SUMMARY:Club Pompadour
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\n\nhttps://rave.wien/e/2025-07-0
+ 4-club-pompadour
+URL:https://rave.wien/e/2025-07-04-club-pompadour
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-01-fomo-x-pompadour@rave.wien
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:FOMO x Pompadour
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\n\nhttps://rave.wien/e/2025-08-0
+ 1-fomo-x-pompadour
+URL:https://rave.wien/e/2025-08-01-fomo-x-pompadour
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-29-club-pompadour@rave.wien
+DTSTAMP:20250829T000000Z
+DTSTART;VALUE=DATE:20250829
+DTEND;VALUE=DATE:20250830
+SUMMARY:Club Pompadour
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\n\nhttps://rave.wien/e/2025-08-2
+ 9-club-pompadour
+URL:https://rave.wien/e/2025-08-29-club-pompadour
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-14-club-pompadour-with-claudio-ricci@rave.wien
+DTSTAMP:20251114T000000Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:Club Pompadour with Claudio Ricci
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Claudio Ricci\nVeranstalter: Club Pompadour\n\nhttps://rave.w
+ ien/e/2025-11-14-club-pompadour-with-claudio-ricci
+URL:https://rave.wien/e/2025-11-14-club-pompadour-with-claudio-ricci
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-09-club-pompadour-sass-music-club@rave.wien
+DTSTAMP:20260109T000000Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:Club Pompadour @ Sass Music Club
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\n\nhttps://rave.wien/e/2026-01-0
+ 9-club-pompadour-sass-music-club
+URL:https://rave.wien/e/2026-01-09-club-pompadour-sass-music-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-06-pompadour-i-soundhouse-i-technoage@rave.wien
+DTSTAMP:20260606T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Pompadour I SOUNDHOUSE I techNOage
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\, Soundhouse\, techNOage\n\nhttp
+ s://rave.wien/e/2026-06-06-pompadour-i-soundhouse-i-technoage
+URL:https://rave.wien/e/2026-06-06-pompadour-i-soundhouse-i-technoage
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-08-club-pompadour-with-thomas-stieler-x-tosta-vica@rave.wien
+DTSTAMP:20260808T000000Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:Club Pompadour with Thomas Stieler x Tosta Vica
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Thomas Stieler\, Tosta Vica\nVeranstalter: Club Pompadour\n\n
+ https://rave.wien/e/2026-08-08-club-pompadour-with-thomas-stieler-x-tost
+ a-vica
+URL:https://rave.wien/e/2026-08-08-club-pompadour-with-thomas-stieler-x-t
+ osta-vica
+END:VEVENT
 END:VCALENDAR

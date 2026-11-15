@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-22-rave-con-with-mark-reeve@rave.wien
+DTSTAMP:20241122T000000Z
+DTSTART;VALUE=DATE:20241122
+DTEND;VALUE=DATE:20241123
+SUMMARY:Rave Con with Mark Reeve
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mark Reeve\n\nhttps://rave.wien/e/2024-11-22-rave-con-with-ma
+ rk-reeve
+URL:https://rave.wien/e/2024-11-22-rave-con-with-mark-reeve
+END:VEVENT
 END:VCALENDAR

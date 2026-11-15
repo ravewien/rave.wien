@@ -25,4 +25,37 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-08-07-fm-einfamilienhaus@rave.wien
+DTSTAMP:20250807T000000Z
+DTSTART;VALUE=DATE:20250807
+DTEND;VALUE=DATE:20250808
+SUMMARY:fm.einfamilienhaus
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: fm.einfamilienhaus\n\nhttps://rave.wien/e/2025-
+ 08-07-fm-einfamilienhaus
+URL:https://rave.wien/e/2025-08-07-fm-einfamilienhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-27-fm-einfamilienhaus@rave.wien
+DTSTAMP:20251127T000000Z
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+SUMMARY:fm.einfamilienhaus
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: fm.einfamilienhaus\n\nhttps://rave.wien/e/2025-
+ 11-27-fm-einfamilienhaus
+URL:https://rave.wien/e/2025-11-27-fm-einfamilienhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-02-fm-einfamilienhaus-der-radio@rave.wien
+DTSTAMP:20260702T000000Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:FM.EINFAMILIENHAUS – der radio
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: fm.einfamilienhaus\, Der Radio\n\nhttps://rave.
+ wien/e/2026-07-02-fm-einfamilienhaus-der-radio
+URL:https://rave.wien/e/2026-07-02-fm-einfamilienhaus-der-radio
+END:VEVENT
 END:VCALENDAR

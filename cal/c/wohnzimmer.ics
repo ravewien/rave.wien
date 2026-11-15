@@ -25,4 +25,92 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-08-02-the-director-im-wohnzimmer@rave.wien
+DTSTAMP:20250802T000000Z
+DTSTART;VALUE=DATE:20250802
+DTEND;VALUE=DATE:20250803
+SUMMARY:The Director im Wohnzimmer
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:The Director\nVeranstalter: Wohnzimmer\n\nhttps://rave.wien/e
+ /2025-08-02-the-director-im-wohnzimmer
+URL:https://rave.wien/e/2025-08-02-the-director-im-wohnzimmer
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-05-baccus-im-wohnzimmer@rave.wien
+DTSTAMP:20251205T000000Z
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:Baccus im Wohnzimmer
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Baccus\nVeranstalter: Wohnzimmer\n\nhttps://rave.wien/e/2025-
+ 12-05-baccus-im-wohnzimmer
+URL:https://rave.wien/e/2025-12-05-baccus-im-wohnzimmer
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-20-joyce-muniz-im-wohnzimmer@rave.wien
+DTSTAMP:20251220T000000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:Joyce Muniz im Wohnzimmer
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Joyce Muniz\nVeranstalter: Wohnzimmer\n\nhttps://rave.wien/e/
+ 2025-12-20-joyce-muniz-im-wohnzimmer
+URL:https://rave.wien/e/2025-12-20-joyce-muniz-im-wohnzimmer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-03-neues-jahr-im-wohnzimmer@rave.wien
+DTSTAMP:20260103T000000Z
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+SUMMARY:Neues Jahr im Wohnzimmer
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Neues Jahr\nVeranstalter: Wohnzimmer\n\nhttps://rave.wien/e/2
+ 026-01-03-neues-jahr-im-wohnzimmer
+URL:https://rave.wien/e/2026-01-03-neues-jahr-im-wohnzimmer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-23-im-wohnzimmer@rave.wien
+DTSTAMP:20260123T000000Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Im Wohnzimmer
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Wohnzimmer\n\nhttps://rave.wien/e/2026-01-23-im
+ -wohnzimmer
+URL:https://rave.wien/e/2026-01-23-im-wohnzimmer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-07-joyce-muniz-im-wohnzimmer@rave.wien
+DTSTAMP:20260307T000000Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:Joyce Muniz im Wohnzimmer
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Joyce Muniz\nVeranstalter: Wohnzimmer\n\nhttps://rave.wien/e/
+ 2026-03-07-joyce-muniz-im-wohnzimmer
+URL:https://rave.wien/e/2026-03-07-joyce-muniz-im-wohnzimmer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-28-sarah-wild-im-wohnzimmer@rave.wien
+DTSTAMP:20260328T000000Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:Sarah Wild im Wohnzimmer
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Sarah Wild\nVeranstalter: Wohnzimmer\n\nhttps://rave.wien/e/2
+ 026-03-28-sarah-wild-im-wohnzimmer
+URL:https://rave.wien/e/2026-03-28-sarah-wild-im-wohnzimmer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-joyce-muniz-im-wohnzimmer@rave.wien
+DTSTAMP:20260918T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Joyce Muniz im Wohnzimmer
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Joyce Muniz\nVeranstalter: Wohnzimmer\n\nhttps://rave.wien/e/
+ 2026-09-18-joyce-muniz-im-wohnzimmer
+URL:https://rave.wien/e/2026-09-18-joyce-muniz-im-wohnzimmer
+END:VEVENT
 END:VCALENDAR

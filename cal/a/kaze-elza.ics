@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-05-22-donnerstag-nacht-mit-kaze-elza@rave.wien
+DTSTAMP:20250522T000000Z
+DTSTART;VALUE=DATE:20250522
+DTEND;VALUE=DATE:20250523
+SUMMARY:Donnerstag Nacht mit Kaze Elza
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Kaze Elza\n\nhttps://rave.wien/e/2025-05-22-donnerstag-nacht-
+ mit-kaze-elza
+URL:https://rave.wien/e/2025-05-22-donnerstag-nacht-mit-kaze-elza
+END:VEVENT
 END:VCALENDAR

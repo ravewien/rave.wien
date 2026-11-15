@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-06-19-wums-x-raw-w-juri-heidemann@rave.wien
+DTSTAMP:20260619T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:WUMS x RAW w/ Juri Heidemann
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Juri Heidemann\n\nhttps://rave.wien/e/2026-06-19-wums-x-raw-w
+ -juri-heidemann
+URL:https://rave.wien/e/2026-06-19-wums-x-raw-w-juri-heidemann
+END:VEVENT
 END:VCALENDAR

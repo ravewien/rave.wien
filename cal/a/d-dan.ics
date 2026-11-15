@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-28-f-plus-w-d-dan-gerald-vdh-violetta-ua@rave.wien
+DTSTAMP:20251128T000000Z
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251129
+SUMMARY:F*PLUS w/ D DAN\, GERALD VDH\, VIOLETTA\, ua
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:D Dan\, Gerald VDH\, Violetta\nVeranstalter: F*cken Plus\n\nh
+ ttps://rave.wien/e/2025-11-28-f-plus-w-d-dan-gerald-vdh-violetta-ua
+URL:https://rave.wien/e/2025-11-28-f-plus-w-d-dan-gerald-vdh-violetta-ua
+END:VEVENT
 END:VCALENDAR

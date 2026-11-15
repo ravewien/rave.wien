@@ -25,4 +25,35 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-20-kju-t@rave.wien
+DTSTAMP:20260220T000000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:[kju:t]
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: [kju:t]\n\nhttps://rave.wien/e/2026-02-20-kju-t
+URL:https://rave.wien/e/2026-02-20-kju-t
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-09-between-us-x-kju-t@rave.wien
+DTSTAMP:20260509T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Between Us x [kju:t]
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Between Us\, [kju:t]\n\nhttps://rave.wien/e/202
+ 6-05-09-between-us-x-kju-t
+URL:https://rave.wien/e/2026-05-09-between-us-x-kju-t
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-kju-t@rave.wien
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:[kju:t]
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: [kju:t]\n\nhttps://rave.wien/e/2026-10-09-kju-t
+URL:https://rave.wien/e/2026-10-09-kju-t
+END:VEVENT
 END:VCALENDAR

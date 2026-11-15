@@ -26,6 +26,19 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2025-10-25-soundhouse-with-voltmarie-fabian-hofer-michael-ze@rave.wien
+DTSTAMP:20251025T000000Z
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+SUMMARY:SOUNDHOUSE with VOLTMARIE\, Fabian Hofer\, Michael Zehetner
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Voltmarie\, Fabian Hofer\, Michael Zehetner\nVeranstalter: So
+ undhouse\n\nhttps://rave.wien/e/2025-10-25-soundhouse-with-voltmarie-fab
+ ian-hofer-michael-ze
+URL:https://rave.wien/e/2025-10-25-soundhouse-with-voltmarie-fabian-hofer
+ -michael-ze
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-zuckerwatt-w-mija@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T230000

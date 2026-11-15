@@ -25,4 +25,136 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-04-13-euphoria-x-gibba@rave.wien
+DTSTAMP:20240413T000000Z
+DTSTART;VALUE=DATE:20240413
+DTEND;VALUE=DATE:20240414
+SUMMARY:EUPHORIA X GIBBA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2024-04-13-euph
+ oria-x-gibba
+URL:https://rave.wien/e/2024-04-13-euphoria-x-gibba
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-05-euphoria-x-amore@rave.wien
+DTSTAMP:20240705T000000Z
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240706
+SUMMARY:EUPHORIA X AMORE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Amore AG\, Euphoria\n\nhttps://rave.wien/e/2024
+ -07-05-euphoria-x-amore
+URL:https://rave.wien/e/2024-07-05-euphoria-x-amore
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-31-hosted-by-euphoria@rave.wien
+DTSTAMP:20240831T000000Z
+DTSTART;VALUE=DATE:20240831
+DTEND;VALUE=DATE:20240901
+SUMMARY:hosted by EUPHORIA
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2024-08-31-host
+ ed-by-euphoria
+URL:https://rave.wien/e/2024-08-31-hosted-by-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-28-hosted-by-euphoria@rave.wien
+DTSTAMP:20240928T000000Z
+DTSTART;VALUE=DATE:20240928
+DTEND;VALUE=DATE:20240929
+SUMMARY:hosted by EUPHORIA
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2024-09-28-host
+ ed-by-euphoria
+URL:https://rave.wien/e/2024-09-28-hosted-by-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-30-hosted-by-euphoria@rave.wien
+DTSTAMP:20241130T000000Z
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241201
+SUMMARY:hosted by EUPHORIA
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2024-11-30-host
+ ed-by-euphoria
+URL:https://rave.wien/e/2024-11-30-hosted-by-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-28-hosted-by-euphoria@rave.wien
+DTSTAMP:20250228T000000Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:hosted by Euphoria
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2025-02-28-host
+ ed-by-euphoria
+URL:https://rave.wien/e/2025-02-28-hosted-by-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-25-hosted-by-euphoria@rave.wien
+DTSTAMP:20250425T000000Z
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250426
+SUMMARY:hosted by EUPHORIA
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2025-04-25-host
+ ed-by-euphoria
+URL:https://rave.wien/e/2025-04-25-hosted-by-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-27-hosted-by-euphoria@rave.wien
+DTSTAMP:20250627T000000Z
+DTSTART;VALUE=DATE:20250627
+DTEND;VALUE=DATE:20250628
+SUMMARY:hosted by EUPHORIA
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2025-06-27-host
+ ed-by-euphoria
+URL:https://rave.wien/e/2025-06-27-hosted-by-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-08-hosted-by-euphoria@rave.wien
+DTSTAMP:20251108T000000Z
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
+SUMMARY:hosted by Euphoria
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2025-11-08-host
+ ed-by-euphoria
+URL:https://rave.wien/e/2025-11-08-hosted-by-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-29-herrensauna-x-euphoria@rave.wien
+DTSTAMP:20251129T000000Z
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:HERRENSAUNA x EUPHORIA
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Euphoria\, Herrensauna\n\nhttps://rave.wien/e/2
+ 025-11-29-herrensauna-x-euphoria
+URL:https://rave.wien/e/2025-11-29-herrensauna-x-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-05-hosted-by-euphoria@rave.wien
+DTSTAMP:20251205T000000Z
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:hosted by EUPHORIA
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2025-12-05-host
+ ed-by-euphoria
+URL:https://rave.wien/e/2025-12-05-hosted-by-euphoria
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-24-euphoria-4-years-and-rushing@rave.wien
+DTSTAMP:20260424T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:EUPHORIA – 4 years and rushing
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2026-04-24-euph
+ oria-4-years-and-rushing
+URL:https://rave.wien/e/2026-04-24-euphoria-4-years-and-rushing
+END:VEVENT
 END:VCALENDAR

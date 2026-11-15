@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-07-19-amore-waschtrasse-w-eoin-dj@rave.wien
+DTSTAMP:20240719T000000Z
+DTSTART;VALUE=DATE:20240719
+DTEND;VALUE=DATE:20240720
+SUMMARY:Amore Waschtrasse w/ EOIN DJ
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Eoin DJ\nVeranstalter: Amore AG\n\nhttps://rave.wien/e/2024-0
+ 7-19-amore-waschtrasse-w-eoin-dj
+URL:https://rave.wien/e/2024-07-19-amore-waschtrasse-w-eoin-dj
+END:VEVENT
 END:VCALENDAR

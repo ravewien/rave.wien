@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-08-14-sommernachtstraum-2025@rave.wien
+DTSTAMP:20250814T000000Z
+DTSTART;VALUE=DATE:20250814
+DTEND;VALUE=DATE:20250815
+SUMMARY:Sommernachtstraum 2025
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Anni Herzer\, Cherry & Beats\, DJ Katse\, meet.franka\, There
+ se Terror\n\nhttps://rave.wien/e/2025-08-14-sommernachtstraum-2025
+URL:https://rave.wien/e/2025-08-14-sommernachtstraum-2025
+END:VEVENT
 END:VCALENDAR

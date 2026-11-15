@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-07-19-nass-vom-bass@rave.wien
+DTSTAMP:20250719T000000Z
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+SUMMARY:NASS VOM BASS
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Nass vom Bass\n\nhttps://rave.wien/e/2025-07-19
+ -nass-vom-bass
+URL:https://rave.wien/e/2025-07-19-nass-vom-bass
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-05-nass-vom-bass@rave.wien
+DTSTAMP:20250905T000000Z
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250906
+SUMMARY:NASS VOM BASS
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Nass vom Bass\n\nhttps://rave.wien/e/2025-09-05
+ -nass-vom-bass
+URL:https://rave.wien/e/2025-09-05-nass-vom-bass
+END:VEVENT
 END:VCALENDAR

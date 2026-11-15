@@ -25,4 +25,95 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-15-analogique-x-soundbuglerei-x-hwtk@rave.wien
+DTSTAMP:20241115T000000Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241116
+SUMMARY:Analogique x Soundbüglerei x hwtk
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Soundbüglerei\, Analogique\n\nhttps://rave.wie
+ n/e/2024-11-15-analogique-x-soundbuglerei-x-hwtk
+URL:https://rave.wien/e/2024-11-15-analogique-x-soundbuglerei-x-hwtk
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-05-disskorienta-x-analogique-x-soundbuglerei@rave.wien
+DTSTAMP:20250105T000000Z
+DTSTART;VALUE=DATE:20250105
+DTEND;VALUE=DATE:20250106
+SUMMARY:Disskorienta x Analogique x Soundbüglerei
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Soundbüglerei\, Analogique\n\nhttps://rave.wie
+ n/e/2025-01-05-disskorienta-x-analogique-x-soundbuglerei
+URL:https://rave.wien/e/2025-01-05-disskorienta-x-analogique-x-soundbugle
+ rei
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-10-soundbuglerei-w-malounadou@rave.wien
+DTSTAMP:20250510T000000Z
+DTSTART;VALUE=DATE:20250510
+DTEND;VALUE=DATE:20250511
+SUMMARY:Soundbüglerei w/Malounadou
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Malounadou\nVeranstalter: Soundbüglerei\n\nhttps://rave.wien
+ /e/2025-05-10-soundbuglerei-w-malounadou
+URL:https://rave.wien/e/2025-05-10-soundbuglerei-w-malounadou
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-27-soundbuglerei-with-chet-rubbs-heronymus@rave.wien
+DTSTAMP:20250927T000000Z
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+SUMMARY:Soundbüglerei with Chet Rubbs\, heronymus
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Chet Rubbs\, heronymus\nVeranstalter: Soundbüglerei\n\nhttps
+ ://rave.wien/e/2025-09-27-soundbuglerei-with-chet-rubbs-heronymus
+URL:https://rave.wien/e/2025-09-27-soundbuglerei-with-chet-rubbs-heronymus
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-13-spumante-soundbuglerei-with-super-sound-global@rave.wien
+DTSTAMP:20260213T000000Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:Spumante & Soundbüglerei with Super Sound Global
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Super Sound Global\nVeranstalter: Soundbüglerei\n\nhttps://r
+ ave.wien/e/2026-02-13-spumante-soundbuglerei-with-super-sound-global
+URL:https://rave.wien/e/2026-02-13-spumante-soundbuglerei-with-super-soun
+ d-global
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-03-soundbuglerei-soto-friends@rave.wien
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Soundbüglerei/ Soto & Friends
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Soundbüglerei/ Soto\nVeranstalter: Soundbüglerei\n\nhttps:/
+ /rave.wien/e/2026-04-03-soundbuglerei-soto-friends
+URL:https://rave.wien/e/2026-04-03-soundbuglerei-soto-friends
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-10-vnv-x-soundbuglerei-invite-gabriel-belabbas@rave.wien
+DTSTAMP:20260410T000000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:VNV x Soundbüglerei invite Gabriel Belabbas
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Gabriel Belabbas\nVeranstalter: Soundbüglerei\, VNV\n\nhttps
+ ://rave.wien/e/2026-04-10-vnv-x-soundbuglerei-invite-gabriel-belabbas
+URL:https://rave.wien/e/2026-04-10-vnv-x-soundbuglerei-invite-gabriel-bel
+ abbas
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-09-cyclic-existence-x-soundbuglerei@rave.wien
+DTSTAMP:20260509T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:cyclic existence x soundbüglerei
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Soundbüglerei\n\nhttps://rave.wien/e/2026-05-0
+ 9-cyclic-existence-x-soundbuglerei
+URL:https://rave.wien/e/2026-05-09-cyclic-existence-x-soundbuglerei
+END:VEVENT
 END:VCALENDAR

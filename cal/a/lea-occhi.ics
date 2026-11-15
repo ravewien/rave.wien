@@ -25,4 +25,30 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-07-19-fish-market-the-cursed-ones-w-lea-occhi-annika-st@rave.wien
+DTSTAMP:20240719T000000Z
+DTSTART;VALUE=DATE:20240719
+DTEND;VALUE=DATE:20240720
+SUMMARY:FISH MARKET – The Cursed Ones w/ Lea Occhi\, Annika Stein\, man
+ u:ra und PUSH-Floor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Lea Occhi\, Annika Stein\, Manu:ra\nVeranstalter: Fish Market
+ \, PUSH\n\nhttps://rave.wien/e/2024-07-19-fish-market-the-cursed-ones-w-
+ lea-occhi-annika-st
+URL:https://rave.wien/e/2024-07-19-fish-market-the-cursed-ones-w-lea-occh
+ i-annika-st
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-14-fish-market-16-years-of-meat-w-lea-occhi-and-many@rave.wien
+DTSTAMP:20250214T000000Z
+DTSTART;VALUE=DATE:20250214
+DTEND;VALUE=DATE:20250215
+SUMMARY:FISH MARKET – 16 YEARS of MEAT w/ LEA OCCHI (and many more)
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Lea Occhi\nVeranstalter: Fish Market\n\nhttps://rave.wien/e/2
+ 025-02-14-fish-market-16-years-of-meat-w-lea-occhi-and-many
+URL:https://rave.wien/e/2025-02-14-fish-market-16-years-of-meat-w-lea-occ
+ hi-and-many
+END:VEVENT
 END:VCALENDAR

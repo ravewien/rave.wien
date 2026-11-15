@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-01-20-gaze-w-chris-cruse-malounadou-jorkes-rumi-von-bai@rave.wien
+DTSTAMP:20240120T000000Z
+DTSTART;VALUE=DATE:20240120
+DTEND;VALUE=DATE:20240121
+SUMMARY:GAZE w/ Chris Cruse\, Malounadou\, Jorkes & Rumi von Baires
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Chris Cruse\, Malounadou\, Jorkes\, Rumi Von Baires\nVeransta
+ lter: Gaze\n\nhttps://rave.wien/e/2024-01-20-gaze-w-chris-cruse-malounad
+ ou-jorkes-rumi-von-bai
+URL:https://rave.wien/e/2024-01-20-gaze-w-chris-cruse-malounadou-jorkes-r
+ umi-von-bai
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-26-grelle-forelle-sommerfest@rave.wien
+DTSTAMP:20240726T000000Z
+DTSTART;TZID=Europe/Vienna:20240726T230000
+DTEND;TZID=Europe/Vienna:20240727T040000
+SUMMARY:Grelle Forelle Sommerfest
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mac DeClos\, Tezibel\, Rumi Von Baires\n\nhttps://rave.wien/e
+ /2024-07-26-grelle-forelle-sommerfest
+URL:https://rave.wien/e/2024-07-26-grelle-forelle-sommerfest
+END:VEVENT
 END:VCALENDAR

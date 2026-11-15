@@ -71,6 +71,282 @@ DESCRIPTION:Veranstalter: Nasty Connexion\, Out of Space\n\nWeihnachtsaus
 URL:https://rave.wien/e/2026-12-24-out-of-space-xmas-eve
 END:VEVENT
 BEGIN:VEVENT
+UID:2024-01-06-bassproduction-dnb-presents-rosi-tech@rave.wien
+DTSTAMP:20240106T000000Z
+DTSTART;VALUE=DATE:20240106
+DTEND;VALUE=DATE:20240107
+SUMMARY:Bassproduction DnB presents: ROSI-TECH
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Rosi-tech\n\nhttps://rave.wien/e/2024-01-06-bassproduction-dn
+ b-presents-rosi-tech
+URL:https://rave.wien/e/2024-01-06-bassproduction-dnb-presents-rosi-tech
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-01-20-sugar-house-techno-freeparty@rave.wien
+DTSTAMP:20240120T000000Z
+DTSTART;VALUE=DATE:20240120
+DTEND;VALUE=DATE:20240121
+SUMMARY:Sugar House & Techno Freeparty
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-01-20-sugar-house-techno-freeparty
+URL:https://rave.wien/e/2024-01-20-sugar-house-techno-freeparty
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-01-26-raverknecht-vol-4@rave.wien
+DTSTAMP:20240126T000000Z
+DTSTART;VALUE=DATE:20240126
+DTEND;VALUE=DATE:20240127
+SUMMARY:Raverknecht Vol. 4
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Veranstalter: Raverknecht\n\nhttps://rave.wien/e/2024-01-26-r
+ averknecht-vol-4
+URL:https://rave.wien/e/2024-01-26-raverknecht-vol-4
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-02-03-progressive-house-psytrance-2floors@rave.wien
+DTSTAMP:20240203T000000Z
+DTSTART;VALUE=DATE:20240203
+DTEND;VALUE=DATE:20240204
+SUMMARY:Progressive House&Psytrance/2Floors
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-02-03-progressive-house-psytrance-
+ 2floors
+URL:https://rave.wien/e/2024-02-03-progressive-house-psytrance-2floors
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-20-wir-machen-techno@rave.wien
+DTSTAMP:20240720T000000Z
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240721
+SUMMARY:WIR MACHEN TECHNO
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-07-20-wir-machen-techno
+URL:https://rave.wien/e/2024-07-20-wir-machen-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-03-wir-machen-techno@rave.wien
+DTSTAMP:20240803T000000Z
+DTSTART;VALUE=DATE:20240803
+DTEND;VALUE=DATE:20240804
+SUMMARY:Wir machen Techno
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-08-03-wir-machen-techno
+URL:https://rave.wien/e/2024-08-03-wir-machen-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-04-pixan-label-night@rave.wien
+DTSTAMP:20241004T000000Z
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241005
+SUMMARY:Pixan Label Night
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-10-04-pixan-label-night
+URL:https://rave.wien/e/2024-10-04-pixan-label-night
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-11-drumworks-presents-sublimit-incus@rave.wien
+DTSTAMP:20241011T000000Z
+DTSTART;VALUE=DATE:20241011
+DTEND;VALUE=DATE:20241012
+SUMMARY:Drumworks presents Sublimit & Incus
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Sublimit\, Incus\nVeranstalter: Drumworks\n\nhttps://rave.wie
+ n/e/2024-10-11-drumworks-presents-sublimit-incus
+URL:https://rave.wien/e/2024-10-11-drumworks-presents-sublimit-incus
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-19-raverknecht-an-art-techno-rave@rave.wien
+DTSTAMP:20241019T000000Z
+DTSTART;VALUE=DATE:20241019
+DTEND;VALUE=DATE:20241020
+SUMMARY:RAVERKNECHT – an art & techno rave
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Veranstalter: Raverknecht\n\nhttps://rave.wien/e/2024-10-19-r
+ averknecht-an-art-techno-rave
+URL:https://rave.wien/e/2024-10-19-raverknecht-an-art-techno-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-08-drumworks-presents-resslek-iamdoomed@rave.wien
+DTSTAMP:20241108T000000Z
+DTSTART;VALUE=DATE:20241108
+DTEND;VALUE=DATE:20241109
+SUMMARY:Drumworks presents RESSLEK & IAMDOOMED
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Resslek\, Iamdoomed\nVeranstalter: Drumworks\n\nhttps://rave.
+ wien/e/2024-11-08-drumworks-presents-resslek-iamdoomed
+URL:https://rave.wien/e/2024-11-08-drumworks-presents-resslek-iamdoomed
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-06-nebula-nexus-with-diksha-br-live-synkronic-br-liv@rave.wien
+DTSTAMP:20241206T000000Z
+DTSTART;VALUE=DATE:20241206
+DTEND;VALUE=DATE:20241207
+SUMMARY:NEBULA NEXUS with DIKSHA (BR) live & SYNKRONIC (BR) live
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Diksha\, Synkronic\nVeranstalter: NEXUS\n\nhttps://rave.wien/
+ e/2024-12-06-nebula-nexus-with-diksha-br-live-synkronic-br-liv
+URL:https://rave.wien/e/2024-12-06-nebula-nexus-with-diksha-br-live-synkr
+ onic-br-liv
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-21-the-oubliette@rave.wien
+DTSTAMP:20250321T000000Z
+DTSTART;VALUE=DATE:20250321
+DTEND;VALUE=DATE:20250322
+SUMMARY:THE OUBLIETTE
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-03-21-the-oubliette
+URL:https://rave.wien/e/2025-03-21-the-oubliette
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-10-tam-tam-techno@rave.wien
+DTSTAMP:20250410T000000Z
+DTSTART;VALUE=DATE:20250410
+DTEND;VALUE=DATE:20250411
+SUMMARY:Tam Tam Techno
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-04-10-tam-tam-techno
+URL:https://rave.wien/e/2025-04-10-tam-tam-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-11-back-on-the-dancefloor@rave.wien
+DTSTAMP:20250411T000000Z
+DTSTART;VALUE=DATE:20250411
+DTEND;VALUE=DATE:20250412
+SUMMARY:Back on the Dancefloor
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-04-11-back-on-the-dancefloor
+URL:https://rave.wien/e/2025-04-11-back-on-the-dancefloor
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-27-the-oubliette-netter-popup-afterparty@rave.wien
+DTSTAMP:20250927T000000Z
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+SUMMARY:The Oubliette + Netter Popup Afterparty
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-09-27-the-oubliette-netter-popup-a
+ fterparty
+URL:https://rave.wien/e/2025-09-27-the-oubliette-netter-popup-afterparty
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-23-out-of-space@rave.wien
+DTSTAMP:20251023T000000Z
+DTSTART;VALUE=DATE:20251023
+DTEND;VALUE=DATE:20251024
+SUMMARY:Out of Space
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Veranstalter: Out of Space\n\nhttps://rave.wien/e/2025-10-23-
+ out-of-space
+URL:https://rave.wien/e/2025-10-23-out-of-space
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-31-psychedelic-welcome-2026@rave.wien
+DTSTAMP:20251231T000000Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:Psychedelic Welcome 2026
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-12-31-psychedelic-welcome-2026
+URL:https://rave.wien/e/2025-12-31-psychedelic-welcome-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-23-rainbowflash@rave.wien
+DTSTAMP:20260123T000000Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:RAINBOWFLASH
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-01-23-rainbowflash
+URL:https://rave.wien/e/2026-01-23-rainbowflash
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-29-techno@rave.wien
+DTSTAMP:20260129T000000Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:TECHNO
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-01-29-techno
+URL:https://rave.wien/e/2026-01-29-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-21-rainbow-residance@rave.wien
+DTSTAMP:20260221T000000Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:Rainbow Residance
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-02-21-rainbow-residance
+URL:https://rave.wien/e/2026-02-21-rainbow-residance
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-26-bounce-and-techno@rave.wien
+DTSTAMP:20260226T000000Z
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+SUMMARY:BOUNCE AND TECHNO
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-02-26-bounce-and-techno
+URL:https://rave.wien/e/2026-02-26-bounce-and-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-08-fractal-fusion-women-s-day-edition@rave.wien
+DTSTAMP:20260308T000000Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:FRACTAL FUSION: Women's Day Edition
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Veranstalter: Fractal Fusion\n\nhttps://rave.wien/e/2026-03-0
+ 8-fractal-fusion-women-s-day-edition
+URL:https://rave.wien/e/2026-03-08-fractal-fusion-women-s-day-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-11-tristan-in-vienna-uk-trance@rave.wien
+DTSTAMP:20260411T000000Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:TRISTAN IN VIENNA / UK / TRANCE
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Tristan\n\nhttps://rave.wien/e/2026-04-11-tristan-in-vienna-u
+ k-trance
+URL:https://rave.wien/e/2026-04-11-tristan-in-vienna-uk-trance
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-11-out-of-space-goa@rave.wien
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Out of Space GOA
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Veranstalter: Out of Space\n\nhttps://rave.wien/e/2026-06-11-
+ out-of-space-goa
+URL:https://rave.wien/e/2026-06-11-out-of-space-goa
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-28-ravecon-50th-release-mind-entertainment-records@rave.wien
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:RaveCon – 50th Release Mind Entertainment Records
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Veranstalter: Mind Entertainment\n\nhttps://rave.wien/e/2026-
+ 08-28-ravecon-50th-release-mind-entertainment-records
+URL:https://rave.wien/e/2026-08-28-ravecon-50th-release-mind-entertainmen
+ t-records
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-out-of-space@rave.wien
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:OUT OF SPACE
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Veranstalter: Out of Space\n\nhttps://rave.wien/e/2026-10-22-
+ out-of-space
+URL:https://rave.wien/e/2026-10-22-out-of-space
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-mijk-van-dijk-live-joro-joabo-atomik@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T230000

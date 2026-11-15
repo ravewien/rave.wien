@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-28-spectral-with-dual-destress-and-herbrido@rave.wien
+DTSTAMP:20260228T000000Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:Spectral with Dual DeStress and Herbrido
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Dual DeStress\, Herbrido\nVeranstalter: Spectral\n\nhttps://r
+ ave.wien/e/2026-02-28-spectral-with-dual-destress-and-herbrido
+URL:https://rave.wien/e/2026-02-28-spectral-with-dual-destress-and-herbri
+ do
+END:VEVENT
 END:VCALENDAR

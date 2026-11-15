@@ -45,4 +45,71 @@ DESCRIPTION:Veranstalter: techNOage\nEintritt: Freie Spende\n\ntechNOage
  echnoage-ab-funfzehn-uhr-clubbing
 URL:https://rave.wien/e/2026-11-21-technoage-ab-funfzehn-uhr-clubbing
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-12-technoag-ab-sechs-uhr-clubbing-im-flucc@rave.wien
+DTSTAMP:20240912T000000Z
+DTSTART;VALUE=DATE:20240912
+DTEND;VALUE=DATE:20240913
+SUMMARY:techNOag\, ab sechs Uhr Clubbing\, im FLUCC
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: techNOage\n\nhttps://rave.wien/e/2024-09-12-tec
+ hnoag-ab-sechs-uhr-clubbing-im-flucc
+URL:https://rave.wien/e/2024-09-12-technoag-ab-sechs-uhr-clubbing-im-flucc
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-16-technoage@rave.wien
+DTSTAMP:20250116T000000Z
+DTSTART;VALUE=DATE:20250116
+DTEND;VALUE=DATE:20250117
+SUMMARY:TechNOage
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: techNOage\n\nhttps://rave.wien/e/2025-01-16-tec
+ hnoage
+URL:https://rave.wien/e/2025-01-16-technoage
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-20-technoage-ab-sechs-uhr-clubbing-im-flucc@rave.wien
+DTSTAMP:20250220T000000Z
+DTSTART;VALUE=DATE:20250220
+DTEND;VALUE=DATE:20250221
+SUMMARY:TechNoage – ab sechs Uhr Clubbing im Flucc
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: techNOage\n\nhttps://rave.wien/e/2025-02-20-tec
+ hnoage-ab-sechs-uhr-clubbing-im-flucc
+URL:https://rave.wien/e/2025-02-20-technoage-ab-sechs-uhr-clubbing-im-flu
+ cc
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-22-technoage@rave.wien
+DTSTAMP:20250522T000000Z
+DTSTART;VALUE=DATE:20250522
+DTEND;VALUE=DATE:20250523
+SUMMARY:techNOage
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: techNOage\n\nhttps://rave.wien/e/2025-05-22-tec
+ hnoage
+URL:https://rave.wien/e/2025-05-22-technoage
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-20-technoage-from-three-o-clock-clubbing@rave.wien
+DTSTAMP:20251220T000000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:techNOage\, from three o`clock clubbing
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: techNOage\n\nhttps://rave.wien/e/2025-12-20-tec
+ hnoage-from-three-o-clock-clubbing
+URL:https://rave.wien/e/2025-12-20-technoage-from-three-o-clock-clubbing
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-06-pompadour-i-soundhouse-i-technoage@rave.wien
+DTSTAMP:20260606T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Pompadour I SOUNDHOUSE I techNOage
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\, Soundhouse\, techNOage\n\nhttp
+ s://rave.wien/e/2026-06-06-pompadour-i-soundhouse-i-technoage
+URL:https://rave.wien/e/2026-06-06-pompadour-i-soundhouse-i-technoage
+END:VEVENT
 END:VCALENDAR

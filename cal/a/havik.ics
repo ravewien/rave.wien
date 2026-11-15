@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-29-f-cken-plus-utterly-butterly-inofficial-pride-mon@rave.wien
+DTSTAMP:20240629T000000Z
+DTSTART;VALUE=DATE:20240629
+DTEND;VALUE=DATE:20240630
+SUMMARY:F*CKEN PLUS – Utterly Butterly Inofficial Pride Month Closing f
+ eat. HAVIK (Ireland) & more
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Havik\nVeranstalter: F*cken Plus\n\nhttps://rave.wien/e/2024-
+ 06-29-f-cken-plus-utterly-butterly-inofficial-pride-mon
+URL:https://rave.wien/e/2024-06-29-f-cken-plus-utterly-butterly-inofficia
+ l-pride-mon
+END:VEVENT
 END:VCALENDAR

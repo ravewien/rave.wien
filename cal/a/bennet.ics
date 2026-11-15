@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-10-10-amore-ag-invites-bennet@rave.wien
+DTSTAMP:20251010T000000Z
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251011
+SUMMARY:Amore AG invites Bennet
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Bennet\nVeranstalter: Amore AG\n\nhttps://rave.wien/e/2025-10
+ -10-amore-ag-invites-bennet
+URL:https://rave.wien/e/2025-10-10-amore-ag-invites-bennet
+END:VEVENT
 END:VCALENDAR

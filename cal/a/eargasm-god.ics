@@ -44,4 +44,26 @@ DESCRIPTION:Mainfloor: Eargasm God\, Who is Ela¿\, Distorgina\nVeranstal
  ben.\n\nhttps://rave.wien/e/2026-12-04-step-forward-pres-eargasm-god
 URL:https://rave.wien/e/2026-12-04-step-forward-pres-eargasm-god
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-16-step-forward-pres-eargasm-god@rave.wien
+DTSTAMP:20241116T000000Z
+DTSTART;VALUE=DATE:20241116
+DTEND;VALUE=DATE:20241117
+SUMMARY:Step Forward pres. EARGASM GOD
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Eargasm God\nVeranstalter: Step Forward\n\nhttps://rave.wien/
+ e/2024-11-16-step-forward-pres-eargasm-god
+URL:https://rave.wien/e/2024-11-16-step-forward-pres-eargasm-god
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-08-step-forward-pres-eargasm-god@rave.wien
+DTSTAMP:20251108T000000Z
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
+SUMMARY:Step Forward pres. Eargasm God
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Eargasm God\nVeranstalter: Step Forward\n\nhttps://rave.wien/
+ e/2025-11-08-step-forward-pres-eargasm-god
+URL:https://rave.wien/e/2025-11-08-step-forward-pres-eargasm-god
+END:VEVENT
 END:VCALENDAR

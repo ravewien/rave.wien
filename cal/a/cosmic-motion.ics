@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-12-06-club-fatale-invites-cosmic-motion@rave.wien
+DTSTAMP:20251206T000000Z
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:club fatale invites cosmic motion
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:cosmic motion\nVeranstalter: Club Fatale\n\nhttps://rave.wien
+ /e/2025-12-06-club-fatale-invites-cosmic-motion
+URL:https://rave.wien/e/2025-12-06-club-fatale-invites-cosmic-motion
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-04-30-verknallt-with-nikolina-x-ben-techy@rave.wien
+DTSTAMP:20260430T000000Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:VERKNALLT with Nikolina x Ben Techy
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Nikolina\, Ben Techy\nVeranstalter: Verknallt\n\nhttps://rave
+ .wien/e/2026-04-30-verknallt-with-nikolina-x-ben-techy
+URL:https://rave.wien/e/2026-04-30-verknallt-with-nikolina-x-ben-techy
+END:VEVENT
 END:VCALENDAR

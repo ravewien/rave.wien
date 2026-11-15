@@ -25,4 +25,37 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-06-superstate-w-almedina@rave.wien
+DTSTAMP:20250606T000000Z
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250607
+SUMMARY:Superstate W/ Almedina
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Almedina\nVeranstalter: Superstate\n\nhttps://rave.wien/e/202
+ 5-06-06-superstate-w-almedina
+URL:https://rave.wien/e/2025-06-06-superstate-w-almedina
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-19-superamore-w-eliza@rave.wien
+DTSTAMP:20250919T000000Z
+DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250920
+SUMMARY:SuperAmore w/Eliza
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Eliza\nVeranstalter: Superstate\n\nhttps://rave.wien/e/2025-0
+ 9-19-superamore-w-eliza
+URL:https://rave.wien/e/2025-09-19-superamore-w-eliza
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-28-superstate@rave.wien
+DTSTAMP:20251128T000000Z
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251129
+SUMMARY:Superstate
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Superstate\n\nhttps://rave.wien/e/2025-11-28-su
+ perstate
+URL:https://rave.wien/e/2025-11-28-superstate
+END:VEVENT
 END:VCALENDAR

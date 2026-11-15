@@ -42,4 +42,16 @@ DESCRIPTION:Nick Curly\, KILL.DB\, RED GROOVE SYSTEM\nVeranstalter: Red G
  -28-red-groove-social-club-with-nick-curly
 URL:https://rave.wien/e/2026-11-28-red-groove-social-club-with-nick-curly
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-28-red-groove-social-club-presents-nick-curly@rave.wien
+DTSTAMP:20251128T000000Z
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251129
+SUMMARY:RED GROOVE (Social Club) presents: Nick Curly
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Nick Curly\nVeranstalter: Red Groove Social Club\n\nhttps://r
+ ave.wien/e/2025-11-28-red-groove-social-club-presents-nick-curly
+URL:https://rave.wien/e/2025-11-28-red-groove-social-club-presents-nick-c
+ urly
+END:VEVENT
 END:VCALENDAR

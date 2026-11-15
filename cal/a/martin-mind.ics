@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-09-06-mitmischen-w-martin-mind-lelantus-records@rave.wien
+DTSTAMP:20240906T000000Z
+DTSTART;VALUE=DATE:20240906
+DTEND;VALUE=DATE:20240907
+SUMMARY:Mitmischen w/ MARTIN MIND (Lelantus Records)
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Martin Mind\nVeranstalter: Wiener Mischung\n\nhttps://rave.wi
+ en/e/2024-09-06-mitmischen-w-martin-mind-lelantus-records
+URL:https://rave.wien/e/2024-09-06-mitmischen-w-martin-mind-lelantus-reco
+ rds
+END:VEVENT
 END:VCALENDAR

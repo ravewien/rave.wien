@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-09-26-verknallt-w-kloud-luciid-lola-cerise@rave.wien
+DTSTAMP:20260926T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:VERKNALLT w/ KLOUD\, Luciid\, Lola Cerise
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Kloud\, Luciid\, Lola Cerise\nVeranstalter: Verknallt\n\nhttp
+ s://rave.wien/e/2026-09-26-verknallt-w-kloud-luciid-lola-cerise
+URL:https://rave.wien/e/2026-09-26-verknallt-w-kloud-luciid-lola-cerise
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-05-23-night-of-acid-techno-gdn-invites-dur-x-weird-plan@rave.wien
+DTSTAMP:20260523T000000Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:Night of Acid Techno – GDN invites DUR x WEIRD PLANET
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:DUR\, Weird Planet\nVeranstalter: GDN\n\nhttps://rave.wien/e/
+ 2026-05-23-night-of-acid-techno-gdn-invites-dur-x-weird-plan
+URL:https://rave.wien/e/2026-05-23-night-of-acid-techno-gdn-invites-dur-x
+ -weird-plan
+END:VEVENT
 END:VCALENDAR

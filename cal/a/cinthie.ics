@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-17-lo-ve-fi-w-cinthie-803-crystal-groove@rave.wien
+DTSTAMP:20240517T000000Z
+DTSTART;VALUE=DATE:20240517
+DTEND;VALUE=DATE:20240518
+SUMMARY:Lo-ve-Fi w/ Cinthie (803 Crystal Groove)
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Cinthie\n\nhttps://rave.wien/e/2024-05-17-lo-ve-fi-w-cinthie-
+ 803-crystal-groove
+URL:https://rave.wien/e/2024-05-17-lo-ve-fi-w-cinthie-803-crystal-groove
+END:VEVENT
 END:VCALENDAR

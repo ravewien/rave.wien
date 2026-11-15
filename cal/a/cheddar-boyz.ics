@@ -26,6 +26,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2025-05-30-psytrance-universe-neon-dimensions-grelle-forelle@rave.wien
+DTSTAMP:20250530T000000Z
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250531
+SUMMARY:Psytrance Universe – Neon Dimensions @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alezzaro\, Cougar\, Urklang\, Bornvoyage\, Misaya\, Progtamin
+ \, Hannah mit Hut\, Oblix\, Serex\, Marakame\, Tomagan\, Agnya\, Karam J
+ \, Arnab\, Insano\, Camsis\, Cheddar Boyz\nVeranstalter: Psytrance Unive
+ rse\n\nhttps://rave.wien/e/2025-05-30-psytrance-universe-neon-dimensions
+ -grelle-forelle
+URL:https://rave.wien/e/2025-05-30-psytrance-universe-neon-dimensions-gre
+ lle-forelle
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-halloween-rave@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T220000

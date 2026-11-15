@@ -39,4 +39,74 @@ DESCRIPTION:Mainfloor: Cara Elizabeth\, Frederic.\, Andrew Ahmed\nVeranst
 URL:https://rave.wien/e/2026-11-28-selected-bassbussi-w-cara-elizabeth-fr
  ederic
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-28-selected-chlar-frederic-alex-maurer@rave.wien
+DTSTAMP:20240628T000000Z
+DTSTART;VALUE=DATE:20240628
+DTEND;VALUE=DATE:20240629
+SUMMARY:Selected | Chlär\, Frederic.\, Alex Maurer
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Chlär\, Frederic.\, Alex Maurer\nVeranstalter: Selected\n\nh
+ ttps://rave.wien/e/2024-06-28-selected-chlar-frederic-alex-maurer
+URL:https://rave.wien/e/2024-06-28-selected-chlar-frederic-alex-maurer
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-27-mcr-t-frederic-all-night-long-selected-x-grelle-f@rave.wien
+DTSTAMP:20241227T000000Z
+DTSTART;VALUE=DATE:20241227
+DTEND;VALUE=DATE:20241228
+SUMMARY:MCR-T & Frederic. All Night Long | Selected x Grelle Forelle XXXM
+ AS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mcr-t\, Frederic.\nVeranstalter: Selected\n\nhttps://rave.wie
+ n/e/2024-12-27-mcr-t-frederic-all-night-long-selected-x-grelle-f
+URL:https://rave.wien/e/2024-12-27-mcr-t-frederic-all-night-long-selected
+ -x-grelle-f
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-28-mika-heggemann-frederic-selected@rave.wien
+DTSTAMP:20250328T000000Z
+DTSTART;VALUE=DATE:20250328
+DTEND;VALUE=DATE:20250329
+SUMMARY:Mika Heggemann & Frederic. | Selected
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mika Heggemann\, Frederic.\nVeranstalter: Selected\n\nhttps:/
+ /rave.wien/e/2025-03-28-mika-heggemann-frederic-selected
+URL:https://rave.wien/e/2025-03-28-mika-heggemann-frederic-selected
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-27-daria-kolosova-b2b-frederic-caiva-aschenbrenner-s@rave.wien
+DTSTAMP:20250627T000000Z
+DTSTART;VALUE=DATE:20250627
+DTEND;VALUE=DATE:20250628
+SUMMARY:Daria Kolosova b2b Frederic.\, Caiva\, Aschenbrenner | Selected
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Daria Kolosova\, Frederic.\, Caiva\, Aschenbrenner\nVeranstal
+ ter: Selected\n\nhttps://rave.wien/e/2025-06-27-daria-kolosova-b2b-frede
+ ric-caiva-aschenbrenner-s
+URL:https://rave.wien/e/2025-06-27-daria-kolosova-b2b-frederic-caiva-asch
+ enbrenner-s
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-23-selected-scheibenwisch3r-frederic@rave.wien
+DTSTAMP:20260123T000000Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Selected – Scheibenwisch3r & Frederic
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Scheibenwisch3r\, Frederic.\nVeranstalter: Selected\n\nhttps:
+ //rave.wien/e/2026-01-23-selected-scheibenwisch3r-frederic
+URL:https://rave.wien/e/2026-01-23-selected-scheibenwisch3r-frederic
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-13-fumi-b2b-frederic-selected@rave.wien
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:Fumi b2b Frederic. | Selected
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Fumi\, Frederic.\nVeranstalter: Selected\n\nhttps://rave.wien
+ /e/2026-05-13-fumi-b2b-frederic-selected
+URL:https://rave.wien/e/2026-05-13-fumi-b2b-frederic-selected
+END:VEVENT
 END:VCALENDAR

@@ -53,6 +53,106 @@ DESCRIPTION:POSI FLO\, PJPJPJ\, Julani\nVeranstalter: Housetiere\n\nAusga
 URL:https://rave.wien/e/2026-12-18-housetiere-with-posi-flo
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-01-31-housetiere-mit-manon@rave.wien
+DTSTAMP:20260131T000000Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Housetiere mit Manon
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Manon\nVeranstalter: Housetiere\n\nhttps://rave.wien/e/2026-0
+ 1-31-housetiere-mit-manon
+URL:https://rave.wien/e/2026-01-31-housetiere-mit-manon
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-05-morgengymnastik-with-ulfersson-b2b-housetiere@rave.wien
+DTSTAMP:20260405T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Morgengymnastik with Ulfersson b2b Housetiere
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Ulfersson\nVeranstalter: Morgengymnastik\, Housetiere\n\nhttp
+ s://rave.wien/e/2026-04-05-morgengymnastik-with-ulfersson-b2b-housetiere
+URL:https://rave.wien/e/2026-04-05-morgengymnastik-with-ulfersson-b2b-hou
+ setiere
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-23-housetiere@rave.wien
+DTSTAMP:20260423T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Housetiere
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Housetiere\n\nhttps://rave.wien/e/2026-04-23-ho
+ usetiere
+URL:https://rave.wien/e/2026-04-23-housetiere
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-08-housetiere-with-numero-6-fr@rave.wien
+DTSTAMP:20260508T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:HOUSETIERE with Numero 6 [FR]
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Numero 6\nVeranstalter: Housetiere\n\nhttps://rave.wien/e/202
+ 6-05-08-housetiere-with-numero-6-fr
+URL:https://rave.wien/e/2026-05-08-housetiere-with-numero-6-fr
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-21-housetiere@rave.wien
+DTSTAMP:20260521T000000Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:Housetiere
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Housetiere\n\nhttps://rave.wien/e/2026-05-21-ho
+ usetiere
+URL:https://rave.wien/e/2026-05-21-housetiere
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-20-housetiere@rave.wien
+DTSTAMP:20260620T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:housetiere
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Housetiere\n\nhttps://rave.wien/e/2026-06-20-ho
+ usetiere
+URL:https://rave.wien/e/2026-06-20-housetiere
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-18-housetiere@rave.wien
+DTSTAMP:20260718T000000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Housetiere
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Housetiere\n\nhttps://rave.wien/e/2026-07-18-ho
+ usetiere
+URL:https://rave.wien/e/2026-07-18-housetiere
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-15-housetiere@rave.wien
+DTSTAMP:20260815T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:housetiere
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Housetiere\n\nhttps://rave.wien/e/2026-08-15-ho
+ usetiere
+URL:https://rave.wien/e/2026-08-15-housetiere
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-housetiere-with-kiss-the-future-fr@rave.wien
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Housetiere with Kiss The Future (FR)
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Kiss The Future\nVeranstalter: Housetiere\n\nhttps://rave.wie
+ n/e/2026-09-25-housetiere-with-kiss-the-future-fr
+URL:https://rave.wien/e/2026-09-25-housetiere-with-kiss-the-future-fr
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-housetiere-w-chata@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T220000

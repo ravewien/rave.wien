@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-04-13-schlaflos-im-april-mit-denis-sulta-das-ende-einer@rave.wien
+DTSTAMP:20240413T000000Z
+DTSTART;VALUE=DATE:20240413
+DTEND;VALUE=DATE:20240414
+SUMMARY:Schlaflos im April mit Denis Sulta | Das Ende einer Ära
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Denis Sulta\nVeranstalter: Schlaflos\n\nhttps://rave.wien/e/2
+ 024-04-13-schlaflos-im-april-mit-denis-sulta-das-ende-einer
+URL:https://rave.wien/e/2024-04-13-schlaflos-im-april-mit-denis-sulta-das
+ -ende-einer
+END:VEVENT
 END:VCALENDAR

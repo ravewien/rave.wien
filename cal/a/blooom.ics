@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-06-20-contrast-pres-monty-blooom-en-vy-18@rave.wien
+DTSTAMP:20260620T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:CONTRAST pres. MONTY + BLOOOM + EN:VY | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Monty\, Blooom\, En:vy\nVeranstalter: Contrast\n\nhttps://rav
+ e.wien/e/2026-06-20-contrast-pres-monty-blooom-en-vy-18
+URL:https://rave.wien/e/2026-06-20-contrast-pres-monty-blooom-en-vy-18
+END:VEVENT
 END:VCALENDAR

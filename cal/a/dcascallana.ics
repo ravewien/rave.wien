@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-04-11-deep-cut-w-dcascallana-cpr0-hypnotic-deep-techno@rave.wien
+DTSTAMP:20250411T000000Z
+DTSTART;VALUE=DATE:20250411
+DTEND;VALUE=DATE:20250412
+SUMMARY:deep cut w/ Dcascallana & CPR0 – Hypnotic & Deep Techno
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Dcascallana\, CPR0\nVeranstalter: deep cut\n\nhttps://rave.wi
+ en/e/2025-04-11-deep-cut-w-dcascallana-cpr0-hypnotic-deep-techno
+URL:https://rave.wien/e/2025-04-11-deep-cut-w-dcascallana-cpr0-hypnotic-d
+ eep-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-konzept-techno-experience@rave.wien
+DTSTAMP:20261023T000000Z
+DTSTART;TZID=Europe/Vienna:20261023T233000
+DTEND;TZID=Europe/Vienna:20261024T043000
+SUMMARY:Konzept-Techno Experience
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Dcascallana\, Reika\, Techflex\nEintritt: Freie Spende\n\nhtt
+ ps://rave.wien/e/2026-10-23-konzept-techno-experience
+URL:https://rave.wien/e/2026-10-23-konzept-techno-experience
+END:VEVENT
 END:VCALENDAR

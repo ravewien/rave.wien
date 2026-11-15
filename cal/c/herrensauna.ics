@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-29-herrensauna-x-euphoria@rave.wien
+DTSTAMP:20251129T000000Z
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:HERRENSAUNA x EUPHORIA
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Euphoria\, Herrensauna\n\nhttps://rave.wien/e/2
+ 025-11-29-herrensauna-x-euphoria
+URL:https://rave.wien/e/2025-11-29-herrensauna-x-euphoria
+END:VEVENT
 END:VCALENDAR

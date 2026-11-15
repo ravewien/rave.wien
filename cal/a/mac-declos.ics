@@ -25,4 +25,27 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-07-26-grelle-forelle-sommerfest@rave.wien
+DTSTAMP:20240726T000000Z
+DTSTART;TZID=Europe/Vienna:20240726T230000
+DTEND;TZID=Europe/Vienna:20240727T040000
+SUMMARY:Grelle Forelle Sommerfest
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mac DeClos\, Tezibel\, Rumi Von Baires\n\nhttps://rave.wien/e
+ /2024-07-26-grelle-forelle-sommerfest
+URL:https://rave.wien/e/2024-07-26-grelle-forelle-sommerfest
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-25-grelle-forelle-sommerfest@rave.wien
+DTSTAMP:20250725T000000Z
+DTSTART;VALUE=DATE:20250725
+DTEND;VALUE=DATE:20250726
+SUMMARY:Grelle Forelle Sommerfest
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Pablo Bozzi\, Mac DeClos\, Tezibel\, Menal Batti\, Apua\, Sti
+ po\, Reinhard Zach\, Saba\, Mathheku\n\nhttps://rave.wien/e/2025-07-25-g
+ relle-forelle-sommerfest
+URL:https://rave.wien/e/2025-07-25-grelle-forelle-sommerfest
+END:VEVENT
 END:VCALENDAR

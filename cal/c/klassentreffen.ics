@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-01-27-klassentreffen-prst@rave.wien
+DTSTAMP:20240127T000000Z
+DTSTART;VALUE=DATE:20240127
+DTEND;VALUE=DATE:20240128
+SUMMARY:KLASSENTREFFEN/PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Klassentreffen\n\nhttps://rave.wien/e/2024-01-2
+ 7-klassentreffen-prst
+URL:https://rave.wien/e/2024-01-27-klassentreffen-prst
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-22-klassentreffen-w-karotte@rave.wien
+DTSTAMP:20240622T000000Z
+DTSTART;VALUE=DATE:20240622
+DTEND;VALUE=DATE:20240623
+SUMMARY:Klassentreffen w/ Karotte
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Karotte\nVeranstalter: Klassentreffen\n\nhttps://rave.wien/e/
+ 2024-06-22-klassentreffen-w-karotte
+URL:https://rave.wien/e/2024-06-22-klassentreffen-w-karotte
+END:VEVENT
 END:VCALENDAR

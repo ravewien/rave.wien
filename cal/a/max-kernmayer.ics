@@ -26,6 +26,17 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2025-08-22-deep-dive-w-max-kernmayer@rave.wien
+DTSTAMP:20250822T000000Z
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250823
+SUMMARY:DEEP DIVE W/ MAX KERNMAYER
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Max Kernmayer\nVeranstalter: Deep Dive\n\nhttps://rave.wien/e
+ /2025-08-22-deep-dive-w-max-kernmayer
+URL:https://rave.wien/e/2025-08-22-deep-dive-w-max-kernmayer
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-zusammenkommen-susses-oder-sauerei@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T210000

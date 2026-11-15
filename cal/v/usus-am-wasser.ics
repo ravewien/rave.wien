@@ -25,4 +25,77 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-06-techno-am-wasser-x-open-air-rave-2025@rave.wien
+DTSTAMP:20250606T000000Z
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250607
+SUMMARY:TECHNO AM WASSER x Open Air Rave 2025
+LOCATION:Usus am Wasser\, An der Neuen Donau 1\, 1210 Wien
+DESCRIPTION:Veranstalter: Techno Vienna\, Techno am Wasser\n\nhttps://rav
+ e.wien/e/2025-06-06-techno-am-wasser-x-open-air-rave-2025
+URL:https://rave.wien/e/2025-06-06-techno-am-wasser-x-open-air-rave-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-01-techno-am-wasser-x-open-air-rave-2025@rave.wien
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Europe/Vienna:20250801T160000
+DTEND;TZID=Europe/Vienna:20250801T240000
+SUMMARY:TECHNO AM WASSER⁴ x Open Air Rave 2025
+LOCATION:Usus am Wasser\, An der Neuen Donau 1\, 1210 Wien
+DESCRIPTION:Mello1\, Nhoah\, SAMDMA\, Stephan Deutsch\, Sunny\, Wal_Halla
+ \nVeranstalter: Techno Vienna\, Techno am Wasser\nEintritt: 5–12 €\n
+ \nhttps://rave.wien/e/2025-08-01-techno-am-wasser-x-open-air-rave-2025
+URL:https://rave.wien/e/2025-08-01-techno-am-wasser-x-open-air-rave-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-17-techno-am-wasser-x-flucc-aftershow-open-air-rave@rave.wien
+DTSTAMP:20260717T000000Z
+DTSTART;TZID=Europe/Vienna:20260717T170000
+DTEND;TZID=Europe/Vienna:20260717T240000
+SUMMARY:TECHNO AM WASSER³ x FLUCC Aftershow – Open Air Rave 2026
+LOCATION:Usus am Wasser\, An der Neuen Donau 1\, 1210 Wien
+DESCRIPTION:Veranstalter: Techno am Wasser\nEintritt: 12–25 €\n\nhttp
+ s://rave.wien/e/2026-07-17-techno-am-wasser-x-flucc-aftershow-open-air-r
+ ave
+URL:https://rave.wien/e/2026-07-17-techno-am-wasser-x-flucc-aftershow-ope
+ n-air-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-07-techno-am-wasser-x-flucc-aftershow-open-air-rave@rave.wien
+DTSTAMP:20260807T000000Z
+DTSTART;TZID=Europe/Vienna:20260807T170000
+DTEND;TZID=Europe/Vienna:20260807T240000
+SUMMARY:TECHNO AM WASSER⁴ x FLUCC Aftershow – Open Air Rave 2026
+LOCATION:Usus am Wasser\, An der Neuen Donau 1\, 1210 Wien
+DESCRIPTION:Carl Haze\, Marika Rossa\, Markus Taubenschlag\, Martin Oelz\
+ , SAMDMA\nVeranstalter: Techno am Wasser\nEintritt: 12–25 €\n\nhttps
+ ://rave.wien/e/2026-08-07-techno-am-wasser-x-flucc-aftershow-open-air-ra
+ ve
+URL:https://rave.wien/e/2026-08-07-techno-am-wasser-x-flucc-aftershow-ope
+ n-air-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-29-sorry-mom-x-usus-am-wasser-open-air@rave.wien
+DTSTAMP:20260829T000000Z
+DTSTART;TZID=Europe/Vienna:20260829T150000
+DTEND;TZID=Europe/Vienna:20260829T240000
+SUMMARY:SORRY MOM x Usus am Wasser – Open Air
+LOCATION:Usus am Wasser\, An der Neuen Donau 1\, 1210 Wien
+DESCRIPTION:Kate la Boom\, Gugu\, Hanneken\, PA_olo\, Romen Est Omen\, To
+ laris\nVeranstalter: Sorry Mom\nEintritt: 5–12 €\n\nhttps://rave.wie
+ n/e/2026-08-29-sorry-mom-x-usus-am-wasser-open-air
+URL:https://rave.wien/e/2026-08-29-sorry-mom-x-usus-am-wasser-open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-ponyhof-presents-river-rave@rave.wien
+DTSTAMP:20260905T000000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Ponyhof presents River Rave
+LOCATION:Usus am Wasser\, An der Neuen Donau 1\, 1210 Wien
+DESCRIPTION:Veranstalter: Ponyhof\n\nOpen-Air-Rave am Wasser.\n\nhttps://
+ rave.wien/e/2026-09-05-ponyhof-presents-river-rave
+URL:https://rave.wien/e/2026-09-05-ponyhof-presents-river-rave
+END:VEVENT
 END:VCALENDAR

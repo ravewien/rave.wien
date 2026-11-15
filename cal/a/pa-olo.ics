@@ -41,6 +41,158 @@ URL:https://rave.wien/e/2026-11-27-flashback-w-thomas-schumacher-techno-c
  lassics
 END:VEVENT
 BEGIN:VEVENT
+UID:2024-05-31-flashback-techno-classics-grelle-forelle@rave.wien
+DTSTAMP:20240531T000000Z
+DTSTART;TZID=Europe/Vienna:20240531T230000
+DTEND;TZID=Europe/Vienna:20240601T040000
+SUMMARY:FLASHBACK Techno Classics @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Joro & Joabo\, Rokis\, Peter Pan\, Tom Snow\, Martin Oelz\, M
+ C Mars\, MC Spot\, Gugu\, Hanneken\, Lowskim\, Romen Est Omen\, PA_olo\,
+  Tolaris\nVeranstalter: Flashback\n\nKitchen gehostet von „Sorry Mom
+ “\n\nhttps://rave.wien/e/2024-05-31-flashback-techno-classics-grelle-f
+ orelle
+URL:https://rave.wien/e/2024-05-31-flashback-techno-classics-grelle-forel
+ le
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-24-flashback-techno-classics-grelle-forelle@rave.wien
+DTSTAMP:20240824T000000Z
+DTSTART;TZID=Europe/Vienna:20240824T230000
+DTEND;TZID=Europe/Vienna:20240825T040000
+SUMMARY:FLASHBACK Techno Classics @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Nhoah\, Joro & Joabo\, Rokis\, Peter Pan\, Tom Snow\, Martin 
+ Oelz\, MC Mars\, MC Spot\, Gugu\, Hanneken\, Lowskim\, Romen Est Omen\, 
+ PA_olo\nVeranstalter: Flashback\n\nKitchen gehostet von „Sorry Mom“\
+ n\nhttps://rave.wien/e/2024-08-24-flashback-techno-classics-grelle-forel
+ le
+URL:https://rave.wien/e/2024-08-24-flashback-techno-classics-grelle-forel
+ le
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-19-flashback-techno-classics-grelle-forelle@rave.wien
+DTSTAMP:20241019T000000Z
+DTSTART;TZID=Europe/Vienna:20241019T230000
+DTEND;TZID=Europe/Vienna:20241020T040000
+SUMMARY:FLASHBACK Techno Classics @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Joro & Joabo\, Rokis\, Peter Pan\, Tom Snow\, Martin Oelz\, M
+ C Mars\, MC Spot\, Gugu\, Hanneken\, Lowskim\, Romen Est Omen\, PA_olo\n
+ Veranstalter: Flashback\n\nKitchen gehostet von „Sorry Mom“\n\nhttps
+ ://rave.wien/e/2024-10-19-flashback-techno-classics-grelle-forelle
+URL:https://rave.wien/e/2024-10-19-flashback-techno-classics-grelle-forel
+ le
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-29-flashback-techno-classics-grelle-forelle@rave.wien
+DTSTAMP:20250329T000000Z
+DTSTART;VALUE=DATE:20250329
+DTEND;VALUE=DATE:20250330
+SUMMARY:FLASHBACK Techno Classics @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Joro & Joabo\, Rokis\, Peter Pan\, Tom Snow\, Martin Oelz\, M
+ C Mars\, MC Spot\, Gugu\, PA_olo\, Tolaris\, Lowskim\, Romen Est Omen\nV
+ eranstalter: Flashback\n\nhttps://rave.wien/e/2025-03-29-flashback-techn
+ o-classics-grelle-forelle
+URL:https://rave.wien/e/2025-03-29-flashback-techno-classics-grelle-forel
+ le
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-31-flashback-techno-classics-grelle-forelle@rave.wien
+DTSTAMP:20250531T000000Z
+DTSTART;VALUE=DATE:20250531
+DTEND;VALUE=DATE:20250601
+SUMMARY:FLASHBACK Techno Classics @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Martin Freudentanz\, Falabella\, Joro & Joabo\, Rokis\, Peter
+  Pan\, Tom Snow\, Martin Oelz\, MC Mars\, MC Spot\, Gugu\, PA_olo\, Tola
+ ris\, Lowskim\, Romen Est Omen\, Hanneken\nVeranstalter: Flashback\n\nht
+ tps://rave.wien/e/2025-05-31-flashback-techno-classics-grelle-forelle
+URL:https://rave.wien/e/2025-05-31-flashback-techno-classics-grelle-forel
+ le
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-22-flashback-techno-classics@rave.wien
+DTSTAMP:20251122T000000Z
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+SUMMARY:FLASHBACK Techno Classics
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mike Vinyl\, Joro & Joabo\, Rokis\, MC Mars\, MC Spot\, Gugu\
+ , PA_olo\, Tolaris\, Romen Est Omen\, Hanneken\nVeranstalter: Flashback\
+ n\nhttps://rave.wien/e/2025-11-22-flashback-techno-classics
+URL:https://rave.wien/e/2025-11-22-flashback-techno-classics
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-31-flasback-techno-classics-back2back-session@rave.wien
+DTSTAMP:20260131T000000Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:FLASBACK „Techno Classics“ BACK2BACK Session
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Joro\, Mela Leone\, Rokis\, Tom Snow\, Peter Pan\, Martin Oel
+ z\, MC Mars\, MC Spot\, Romen Est Omen\, Hanneken\, PA_olo\nVeranstalter
+ : Flashback\n\nhttps://rave.wien/e/2026-01-31-flasback-techno-classics-b
+ ack2back-session
+URL:https://rave.wien/e/2026-01-31-flasback-techno-classics-back2back-ses
+ sion
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-28-flashback-techno-classics-grelle-forelle@rave.wien
+DTSTAMP:20260328T000000Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:FLASHBACK – Techno Classics @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Zeno\, Joro & Joabo\, Rokis\, Martin Oelz\, Peter Pan\, MC Ma
+ rs\, MC Spot\, Gugu\, PA_olo\, Tolaris\, Romen Est Omen\, Hanneken\nVera
+ nstalter: Flashback\n\nhttps://rave.wien/e/2026-03-28-flashback-techno-c
+ lassics-grelle-forelle
+URL:https://rave.wien/e/2026-03-28-flashback-techno-classics-grelle-forel
+ le
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-06-flashback-techno-classics-grelle-forelle@rave.wien
+DTSTAMP:20260606T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:FLASHBACK – Techno Classics @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Joro & Joabo\, Tom Snow\, Rokis\, Martin Oelz\, Peter Pan\, M
+ C Mars\, MC Spot\, PA_olo\, Tolaris\, Romen Est Omen\nVeranstalter: Flas
+ hback\n\nhttps://rave.wien/e/2026-06-06-flashback-techno-classics-grelle
+ -forelle
+URL:https://rave.wien/e/2026-06-06-flashback-techno-classics-grelle-forel
+ le
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-29-sorry-mom-x-usus-am-wasser-open-air@rave.wien
+DTSTAMP:20260829T000000Z
+DTSTART;TZID=Europe/Vienna:20260829T150000
+DTEND;TZID=Europe/Vienna:20260829T240000
+SUMMARY:SORRY MOM x Usus am Wasser – Open Air
+LOCATION:Usus am Wasser\, An der Neuen Donau 1\, 1210 Wien
+DESCRIPTION:Kate la Boom\, Gugu\, Hanneken\, PA_olo\, Romen Est Omen\, To
+ laris\nVeranstalter: Sorry Mom\nEintritt: 5–12 €\n\nhttps://rave.wie
+ n/e/2026-08-29-sorry-mom-x-usus-am-wasser-open-air
+URL:https://rave.wien/e/2026-08-29-sorry-mom-x-usus-am-wasser-open-air
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-29-flashback-techno-classics-summer-edition@rave.wien
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Flashback Techno Classics – Summer Edition
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Joro & Joabo\, Tom Snow\, Rokis\, Martin Oelz\, Peter Pan\, M
+ C Mars\, MC Spot\, PA_olo\, Tolaris\, Hanneken\, Gugu\, Romen Est Omen\n
+ Veranstalter: Flashback\n\nhttps://rave.wien/e/2026-08-29-flashback-tech
+ no-classics-summer-edition
+URL:https://rave.wien/e/2026-08-29-flashback-techno-classics-summer-editi
+ on
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-sorry-mom-herbstrascheln@rave.wien
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Vienna:20261106T234500

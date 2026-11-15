@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-08-29-deep-cut-14-w-lto-pezel-urna-sonic-hypnotic-deep@rave.wien
+DTSTAMP:20250829T000000Z
+DTSTART;VALUE=DATE:20250829
+DTEND;VALUE=DATE:20250830
+SUMMARY:deep cut 14 w Lto\, pezel\, urna()sonic – hypnotic & deep Techno
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Lto\, pezel\, urna()sonic – hypnotic\, deep Techno\nVeranst
+ alter: deep cut\n\nhttps://rave.wien/e/2025-08-29-deep-cut-14-w-lto-peze
+ l-urna-sonic-hypnotic-deep
+URL:https://rave.wien/e/2025-08-29-deep-cut-14-w-lto-pezel-urna-sonic-hyp
+ notic-deep
+END:VEVENT
 END:VCALENDAR

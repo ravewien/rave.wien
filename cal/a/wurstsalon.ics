@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-30-f-cken-plus-megerparty-model-6-ai-ultra-plus@rave.wien
+DTSTAMP:20241130T000000Z
+DTSTART;TZID=Europe/Vienna:20241130T230000
+DTEND;TZID=Europe/Vienna:20241201T040000
+SUMMARY:F*CKEN PLUS – Megerparty Model 6 AI Ultra Plus
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Violetta\, Manu:ra\, Annika Stein\, Gerald VDH\, DJ Wolle\, P
+ hilipp Eicher\, Wurstsalon\nVeranstalter: F*cken Plus\n\nhttps://rave.wi
+ en/e/2024-11-30-f-cken-plus-megerparty-model-6-ai-ultra-plus
+URL:https://rave.wien/e/2024-11-30-f-cken-plus-megerparty-model-6-ai-ultr
+ a-plus
+END:VEVENT
 END:VCALENDAR

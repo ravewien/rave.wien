@@ -42,4 +42,40 @@ DESCRIPTION:Aleta\, ARAS JE'TÄM\, Krawallbarbie\, OK CUTEE\, Wal_Halla\,
  -kunst-kusst-techno
 URL:https://rave.wien/e/2026-11-21-art-attech-kunst-kusst-techno
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-18-feuchte-traume-sex-positive-party@rave.wien
+DTSTAMP:20250718T000000Z
+DTSTART;TZID=Europe/Vienna:20250718T160000
+DTEND;TZID=Europe/Vienna:20250719T060000
+SUMMARY:Feuchte Träume (Sex Positive Party)
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:MoBama\, Anni Herzer\, Chiara Allnutt\, Miklei\, Krawallbarbi
+ e\nVeranstalter: Feuchte Träume\nEintritt: 17–55 €\n\nhttps://rave.
+ wien/e/2025-07-18-feuchte-traume-sex-positive-party
+URL:https://rave.wien/e/2025-07-18-feuchte-traume-sex-positive-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-23-elektra@rave.wien
+DTSTAMP:20250823T000000Z
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250824
+SUMMARY:ELEKTRA
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Philipp Gauf\, schlennert\, Krawallbarbie\, Iudex\n\nhttps://
+ rave.wien/e/2025-08-23-elektra
+URL:https://rave.wien/e/2025-08-23-elektra
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-07-techno-kult-x-grelle-forelle-clubnight-kitchen-ho@rave.wien
+DTSTAMP:20260807T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Techno.Kult x Grelle Forelle Clubnight – Kitchen Hosting
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:MHAK\, Amadeuz\, Swiver\, Testpress\, MARØ\, Krawallbarbie\n
+ Veranstalter: Techno.Kult\n\nhttps://rave.wien/e/2026-08-07-techno-kult-
+ x-grelle-forelle-clubnight-kitchen-ho
+URL:https://rave.wien/e/2026-08-07-techno-kult-x-grelle-forelle-clubnight
+ -kitchen-ho
+END:VEVENT
 END:VCALENDAR

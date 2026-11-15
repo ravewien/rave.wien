@@ -26,6 +26,17 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2025-09-25-groove-revival-w-rayya@rave.wien
+DTSTAMP:20250925T000000Z
+DTSTART;VALUE=DATE:20250925
+DTEND;VALUE=DATE:20250926
+SUMMARY:Groove Revival w/ Rayya
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Rayya\nVeranstalter: Groove Revival\n\nhttps://rave.wien/e/20
+ 25-09-25-groove-revival-w-rayya
+URL:https://rave.wien/e/2025-09-25-groove-revival-w-rayya
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-07-traveling-without-moving@rave.wien
 DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Vienna:20261107T220000

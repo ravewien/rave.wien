@@ -26,6 +26,28 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-06-28-selected-chlar-frederic-alex-maurer@rave.wien
+DTSTAMP:20240628T000000Z
+DTSTART;VALUE=DATE:20240628
+DTEND;VALUE=DATE:20240629
+SUMMARY:Selected | Chlär\, Frederic.\, Alex Maurer
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Chlär\, Frederic.\, Alex Maurer\nVeranstalter: Selected\n\nh
+ ttps://rave.wien/e/2024-06-28-selected-chlar-frederic-alex-maurer
+URL:https://rave.wien/e/2024-06-28-selected-chlar-frederic-alex-maurer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-24-grelle-forelle-sommerfest@rave.wien
+DTSTAMP:20260724T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:Grelle Forelle Sommerfest
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alarico\, SHDW\, Alex Maurer\, Violetta\n\nhttps://rave.wien/
+ e/2026-07-24-grelle-forelle-sommerfest
+URL:https://rave.wien/e/2026-07-24-grelle-forelle-sommerfest
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-halloween-the-tunegirl-live@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T230000

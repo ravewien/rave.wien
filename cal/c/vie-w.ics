@@ -25,4 +25,72 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-28-vie-w-x-vbx-w-laurine-reiss@rave.wien
+DTSTAMP:20240628T000000Z
+DTSTART;VALUE=DATE:20240628
+DTEND;VALUE=DATE:20240629
+SUMMARY:VIE.W X VBX w/ Laurine & Reiss
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Laurine\, Reiss\nVeranstalter: VIE.W\n\nhttps://rave.wien/e/2
+ 024-06-28-vie-w-x-vbx-w-laurine-reiss
+URL:https://rave.wien/e/2024-06-28-vie-w-x-vbx-w-laurine-reiss
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-23-paradies-garten-vie-w-x-prst-with-pascal-moscheni@rave.wien
+DTSTAMP:20250523T000000Z
+DTSTART;VALUE=DATE:20250523
+DTEND;VALUE=DATE:20250524
+SUMMARY:Paradies Garten & Vie.w x PRST with Pascal Moscheni
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Pascal Moscheni\nVeranstalter: Paradies Garten\, VIE.W\n\nhtt
+ ps://rave.wien/e/2025-05-23-paradies-garten-vie-w-x-prst-with-pascal-mos
+ cheni
+URL:https://rave.wien/e/2025-05-23-paradies-garten-vie-w-x-prst-with-pasc
+ al-moscheni
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-23-vie-w-w-bedandclouds@rave.wien
+DTSTAMP:20251023T000000Z
+DTSTART;VALUE=DATE:20251023
+DTEND;VALUE=DATE:20251024
+SUMMARY:VIE.W w/ Bedandclouds
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Bedandclouds\nVeranstalter: VIE.W\n\nhttps://rave.wien/e/2025
+ -10-23-vie-w-w-bedandclouds
+URL:https://rave.wien/e/2025-10-23-vie-w-w-bedandclouds
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-18-vie-w@rave.wien
+DTSTAMP:20251218T000000Z
+DTSTART;VALUE=DATE:20251218
+DTEND;VALUE=DATE:20251219
+SUMMARY:VIE.W
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: VIE.W\n\nhttps://rave.wien/e/2025-12-18-vie-w
+URL:https://rave.wien/e/2025-12-18-vie-w
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-30-vie-w-presents-mayell-apua-birthday-clash@rave.wien
+DTSTAMP:20260130T000000Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:vie.w presents Mayell (Apua‘ Birthday Clash)
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Mayell\, Apua\nVeranstalter: VIE.W\n\nhttps://rave.wien/e/202
+ 6-01-30-vie-w-presents-mayell-apua-birthday-clash
+URL:https://rave.wien/e/2026-01-30-vie-w-presents-mayell-apua-birthday-cl
+ ash
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-19-vie-w-x-sentaku@rave.wien
+DTSTAMP:20260319T000000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:VIE.W x Sentaku
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: VIE.W\n\nhttps://rave.wien/e/2026-03-19-vie-w-x
+ -sentaku
+URL:https://rave.wien/e/2026-03-19-vie-w-x-sentaku
+END:VEVENT
 END:VCALENDAR

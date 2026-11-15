@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-13-misguided-pres-yanamaste@rave.wien
+DTSTAMP:20250613T000000Z
+DTSTART;VALUE=DATE:20250613
+DTEND;VALUE=DATE:20250614
+SUMMARY:MISGUIDED Pres. Yanamaste
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Yanamaste\nVeranstalter: Misguided\n\nhttps://rave.wien/e/202
+ 5-06-13-misguided-pres-yanamaste
+URL:https://rave.wien/e/2025-06-13-misguided-pres-yanamaste
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-12-ritual-opening-ceremony-with-yanamaste@rave.wien
+DTSTAMP:20260612T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:RITUAL – opening ceremony with Yanamaste
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Yanamaste\nVeranstalter: Ritual\n\nhttps://rave.wien/e/2026-0
+ 6-12-ritual-opening-ceremony-with-yanamaste
+URL:https://rave.wien/e/2026-06-12-ritual-opening-ceremony-with-yanamaste
+END:VEVENT
 END:VCALENDAR

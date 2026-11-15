@@ -26,6 +26,18 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-10-10-radio-rudina@rave.wien
+DTSTAMP:20261010T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Radio Rudina
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Bambi-S\, AEND\, DJ Lelo\, Ivan\, DJ.org\, Vivienna\, Cherche
+ s\, COBRA\nVeranstalter: Radio Rudina\n\nhttps://rave.wien/e/2026-10-10-
+ radio-rudina
+URL:https://rave.wien/e/2026-10-10-radio-rudina
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-wos-soundsystem-invites-josefina-tapia@rave.wien
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Vienna:20261106T230000

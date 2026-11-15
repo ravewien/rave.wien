@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-07-12-zuckerwatt-w-pleasurekraft@rave.wien
+DTSTAMP:20240712T000000Z
+DTSTART;VALUE=DATE:20240712
+DTEND;VALUE=DATE:20240713
+SUMMARY:ZUCKERWATT w/ PLEASUREKRAFT
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Pleasurekraft\nVeranstalter: Zuckerwatt\n\nhttps://rave.wien/
+ e/2024-07-12-zuckerwatt-w-pleasurekraft
+URL:https://rave.wien/e/2024-07-12-zuckerwatt-w-pleasurekraft
+END:VEVENT
 END:VCALENDAR

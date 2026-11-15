@@ -25,4 +25,29 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-16-monochrom-x-tragedie-with-teenage-mutants@rave.wien
+DTSTAMP:20241116T000000Z
+DTSTART;VALUE=DATE:20241116
+DTEND;VALUE=DATE:20241117
+SUMMARY:MONOCHROM x TRAGEDIE with TEENAGE MUTANTS
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Teenage Mutants\nVeranstalter: Monochrom\n\nhttps://rave.wien
+ /e/2024-11-16-monochrom-x-tragedie-with-teenage-mutants
+URL:https://rave.wien/e/2024-11-16-monochrom-x-tragedie-with-teenage-muta
+ nts
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-08-zuckerwatt-w-teenage-mutants-x-raveon-society@rave.wien
+DTSTAMP:20250808T000000Z
+DTSTART;VALUE=DATE:20250808
+DTEND;VALUE=DATE:20250809
+SUMMARY:ZUCKERWATT w/ TEENAGE MUTANTS x RAVEON.SOCIETY
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Teenage Mutants\, Raveon.society\nVeranstalter: Zuckerwatt\, 
+ Rave On Society\n\nhttps://rave.wien/e/2025-08-08-zuckerwatt-w-teenage-m
+ utants-x-raveon-society
+URL:https://rave.wien/e/2025-08-08-zuckerwatt-w-teenage-mutants-x-raveon-
+ society
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-22-flashback-techno-classics@rave.wien
+DTSTAMP:20251122T000000Z
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+SUMMARY:FLASHBACK Techno Classics
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mike Vinyl\, Joro & Joabo\, Rokis\, MC Mars\, MC Spot\, Gugu\
+ , PA_olo\, Tolaris\, Romen Est Omen\, Hanneken\nVeranstalter: Flashback\
+ n\nhttps://rave.wien/e/2025-11-22-flashback-techno-classics
+URL:https://rave.wien/e/2025-11-22-flashback-techno-classics
+END:VEVENT
 END:VCALENDAR

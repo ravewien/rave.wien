@@ -163,6 +163,3119 @@ DESCRIPTION:The Trip\nEintritt: Early Bird 12 €\n\nDie PRST holt im Rah
 URL:https://rave.wien/e/2026-12-18-prst-invites-the-trip
 END:VEVENT
 BEGIN:VEVENT
+UID:2023-10-13-jetlag-disco-3-w-daniel-nitsch-oberst-buchner@rave.wien
+DTSTAMP:20231013T000000Z
+DTSTART;VALUE=DATE:20231013
+DTEND;VALUE=DATE:20231014
+SUMMARY:Jetlag Disco #3 /w Daniel Nitsch\, Oberst & Buchner
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Daniel Nitsch\, Oberst & Buchner\n\nhttps://rave.wien/e/2023-
+ 10-13-jetlag-disco-3-w-daniel-nitsch-oberst-buchner
+URL:https://rave.wien/e/2023-10-13-jetlag-disco-3-w-daniel-nitsch-oberst-
+ buchner
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-01-01-new-year-s-day-rave@rave.wien
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240102
+SUMMARY:NEW YEAR’S DAY RAVE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-01-01-new-year-s-day-rave
+URL:https://rave.wien/e/2024-01-01-new-year-s-day-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-01-06-homebase-x-fabrika@rave.wien
+DTSTAMP:20240106T000000Z
+DTSTART;VALUE=DATE:20240106
+DTEND;VALUE=DATE:20240107
+SUMMARY:Homebase x Fabrika
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Homebase\n\nhttps://rave.wien/e/2024-01-06-home
+ base-x-fabrika
+URL:https://rave.wien/e/2024-01-06-homebase-x-fabrika
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-01-12-merkwurdig-w-jacopo-latini-fabiano@rave.wien
+DTSTAMP:20240112T000000Z
+DTSTART;VALUE=DATE:20240112
+DTEND;VALUE=DATE:20240113
+SUMMARY:Merkwürdig /w Jacopo Latini & Fabiano
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Jacopo Latini\, Fabiano\nVeranstalter: Merkwürdig\n\nhttps:/
+ /rave.wien/e/2024-01-12-merkwurdig-w-jacopo-latini-fabiano
+URL:https://rave.wien/e/2024-01-12-merkwurdig-w-jacopo-latini-fabiano
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-01-18-steve-hope-friends-feat-housebesuch-afterwork@rave.wien
+DTSTAMP:20240118T000000Z
+DTSTART;VALUE=DATE:20240118
+DTEND;VALUE=DATE:20240119
+SUMMARY:STEVE HOPE & FRIENDS feat. HOUSEBESUCH AFTERWORK
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Housebesuch Afterwork\nVeranstalter: Housebesuch\n\nhttps://r
+ ave.wien/e/2024-01-18-steve-hope-friends-feat-housebesuch-afterwork
+URL:https://rave.wien/e/2024-01-18-steve-hope-friends-feat-housebesuch-af
+ terwork
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-01-19-the-red-groove-social-club-with-rsquared@rave.wien
+DTSTAMP:20240119T000000Z
+DTSTART;VALUE=DATE:20240119
+DTEND;VALUE=DATE:20240120
+SUMMARY:THE RED GROOVE (Social Club) with: RSQUARED
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:RSquared\nVeranstalter: Red Groove Social Club\n\nhttps://rav
+ e.wien/e/2024-01-19-the-red-groove-social-club-with-rsquared
+URL:https://rave.wien/e/2024-01-19-the-red-groove-social-club-with-rsquar
+ ed
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-01-20-gaze-w-chris-cruse-malounadou-jorkes-rumi-von-bai@rave.wien
+DTSTAMP:20240120T000000Z
+DTSTART;VALUE=DATE:20240120
+DTEND;VALUE=DATE:20240121
+SUMMARY:GAZE w/ Chris Cruse\, Malounadou\, Jorkes & Rumi von Baires
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Chris Cruse\, Malounadou\, Jorkes\, Rumi Von Baires\nVeransta
+ lter: Gaze\n\nhttps://rave.wien/e/2024-01-20-gaze-w-chris-cruse-malounad
+ ou-jorkes-rumi-von-bai
+URL:https://rave.wien/e/2024-01-20-gaze-w-chris-cruse-malounadou-jorkes-r
+ umi-von-bai
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-01-27-klassentreffen-prst@rave.wien
+DTSTAMP:20240127T000000Z
+DTSTART;VALUE=DATE:20240127
+DTEND;VALUE=DATE:20240128
+SUMMARY:KLASSENTREFFEN/PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Klassentreffen\n\nhttps://rave.wien/e/2024-01-2
+ 7-klassentreffen-prst
+URL:https://rave.wien/e/2024-01-27-klassentreffen-prst
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-02-02-vienna-worldwide@rave.wien
+DTSTAMP:20240202T000000Z
+DTSTART;VALUE=DATE:20240202
+DTEND;VALUE=DATE:20240203
+SUMMARY:Vienna Worldwide
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Vienna Worldwide\n\nhttps://rave.wien/e/2024-02
+ -02-vienna-worldwide
+URL:https://rave.wien/e/2024-02-02-vienna-worldwide
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-02-23-prst-invites-sweely@rave.wien
+DTSTAMP:20240223T000000Z
+DTSTART;VALUE=DATE:20240223
+DTEND;VALUE=DATE:20240224
+SUMMARY:PRST invites Sweely
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Sweely\n\nhttps://rave.wien/e/2024-02-23-prst-invites-sweely
+URL:https://rave.wien/e/2024-02-23-prst-invites-sweely
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-02-24-club-pompadour-love-thunder@rave.wien
+DTSTAMP:20240224T000000Z
+DTSTART;VALUE=DATE:20240224
+DTEND;VALUE=DATE:20240225
+SUMMARY:Club Pompadour – Love & Thunder
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\n\nhttps://rave.wien/e/2024-02-2
+ 4-club-pompadour-love-thunder
+URL:https://rave.wien/e/2024-02-24-club-pompadour-love-thunder
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-03-02-between-us-w-maurice-fulton@rave.wien
+DTSTAMP:20240302T000000Z
+DTSTART;VALUE=DATE:20240302
+DTEND;VALUE=DATE:20240303
+SUMMARY:Between Us w/ Maurice Fulton
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Maurice Fulton\nVeranstalter: Between Us\n\nhttps://rave.wien
+ /e/2024-03-02-between-us-w-maurice-fulton
+URL:https://rave.wien/e/2024-03-02-between-us-w-maurice-fulton
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-03-08-prst-4-years-anniversary@rave.wien
+DTSTAMP:20240308T000000Z
+DTSTART;VALUE=DATE:20240308
+DTEND;VALUE=DATE:20240309
+SUMMARY:PRST 4 YEARS ANNIVERSARY
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-03-08-prst-4-years-anniversary
+URL:https://rave.wien/e/2024-03-08-prst-4-years-anniversary
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-11-soularium-x-donnerstanz@rave.wien
+DTSTAMP:20240411T000000Z
+DTSTART;VALUE=DATE:20240411
+DTEND;VALUE=DATE:20240412
+SUMMARY:Soularium x Donnerstanz
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Soularium\n\nhttps://rave.wien/e/2024-04-11-sou
+ larium-x-donnerstanz
+URL:https://rave.wien/e/2024-04-11-soularium-x-donnerstanz
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-12-prst-invites-trommel-w-francesco-farfa-gabbs@rave.wien
+DTSTAMP:20240412T000000Z
+DTSTART;VALUE=DATE:20240412
+DTEND;VALUE=DATE:20240413
+SUMMARY:PRST invites Trommel w/ Francesco Farfa & Gabbs
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Francesco Farfa\, Gabbs\n\nhttps://rave.wien/e/2024-04-12-prs
+ t-invites-trommel-w-francesco-farfa-gabbs
+URL:https://rave.wien/e/2024-04-12-prst-invites-trommel-w-francesco-farfa
+ -gabbs
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-13-euphoria-x-gibba@rave.wien
+DTSTAMP:20240413T000000Z
+DTSTART;VALUE=DATE:20240413
+DTEND;VALUE=DATE:20240414
+SUMMARY:EUPHORIA X GIBBA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Euphoria\n\nhttps://rave.wien/e/2024-04-13-euph
+ oria-x-gibba
+URL:https://rave.wien/e/2024-04-13-euphoria-x-gibba
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-19-vienna-worldwide-w-pin@rave.wien
+DTSTAMP:20240419T000000Z
+DTSTART;VALUE=DATE:20240419
+DTEND;VALUE=DATE:20240420
+SUMMARY:Vienna Worldwide w/ Pin
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Pin\nVeranstalter: Vienna Worldwide\n\nhttps://rave.wien/e/20
+ 24-04-19-vienna-worldwide-w-pin
+URL:https://rave.wien/e/2024-04-19-vienna-worldwide-w-pin
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-26-red-groove-social-club@rave.wien
+DTSTAMP:20240426T000000Z
+DTSTART;VALUE=DATE:20240426
+DTEND;VALUE=DATE:20240427
+SUMMARY:Red Groove Social Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Red Groove Social Club\n\nhttps://rave.wien/e/2
+ 024-04-26-red-groove-social-club
+URL:https://rave.wien/e/2024-04-26-red-groove-social-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-27-straat-264@rave.wien
+DTSTAMP:20240427T000000Z
+DTSTART;VALUE=DATE:20240427
+DTEND;VALUE=DATE:20240428
+SUMMARY:STRAAT 264
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Straat 264\n\nhttps://rave.wien/e/2024-04-27-st
+ raat-264
+URL:https://rave.wien/e/2024-04-27-straat-264
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-30-rhythm-science-x-club-pompadour-zwidemu-afterpart@rave.wien
+DTSTAMP:20240430T000000Z
+DTSTART;VALUE=DATE:20240430
+DTEND;VALUE=DATE:20240501
+SUMMARY:Rhythm Science x Club Pompadour ZWIDEMU Afterparty
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\, Club Pompadour\n\nhttps://rave
+ .wien/e/2024-04-30-rhythm-science-x-club-pompadour-zwidemu-afterpart
+URL:https://rave.wien/e/2024-04-30-rhythm-science-x-club-pompadour-zwidem
+ u-afterpart
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-02-soularium-x-808-factory@rave.wien
+DTSTAMP:20240502T000000Z
+DTSTART;VALUE=DATE:20240502
+DTEND;VALUE=DATE:20240503
+SUMMARY:Soularium x 808 Factory
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Soularium\n\nhttps://rave.wien/e/2024-05-02-sou
+ larium-x-808-factory
+URL:https://rave.wien/e/2024-05-02-soularium-x-808-factory
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-08-demuja-invites-ryan-elliott@rave.wien
+DTSTAMP:20240508T000000Z
+DTSTART;VALUE=DATE:20240508
+DTEND;VALUE=DATE:20240509
+SUMMARY:Demuja invites Ryan Elliott
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Ryan Elliott\n\nhttps://rave.wien/e/2024-05-08-demuja-invites
+ -ryan-elliott
+URL:https://rave.wien/e/2024-05-08-demuja-invites-ryan-elliott
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-10-unkwn-001-feat-cezar@rave.wien
+DTSTAMP:20240510T000000Z
+DTSTART;VALUE=DATE:20240510
+DTEND;VALUE=DATE:20240511
+SUMMARY:UNKWN_001 feat. Cezar
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Cezar\nVeranstalter: Unkwn\n\nhttps://rave.wien/e/2024-05-10-
+ unkwn-001-feat-cezar
+URL:https://rave.wien/e/2024-05-10-unkwn-001-feat-cezar
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-11-amore-waschtrasse-w-jenny-cara@rave.wien
+DTSTAMP:20240511T000000Z
+DTSTART;VALUE=DATE:20240511
+DTEND;VALUE=DATE:20240512
+SUMMARY:Amore Waschtrasse w/ Jenny Cara
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Jenny Cara\nVeranstalter: Amore AG\n\nhttps://rave.wien/e/202
+ 4-05-11-amore-waschtrasse-w-jenny-cara
+URL:https://rave.wien/e/2024-05-11-amore-waschtrasse-w-jenny-cara
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-17-lo-ve-fi-w-cinthie-803-crystal-groove@rave.wien
+DTSTAMP:20240517T000000Z
+DTSTART;VALUE=DATE:20240517
+DTEND;VALUE=DATE:20240518
+SUMMARY:Lo-ve-Fi w/ Cinthie (803 Crystal Groove)
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Cinthie\n\nhttps://rave.wien/e/2024-05-17-lo-ve-fi-w-cinthie-
+ 803-crystal-groove
+URL:https://rave.wien/e/2024-05-17-lo-ve-fi-w-cinthie-803-crystal-groove
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-19-anna-ullrich-pres-achterbahn@rave.wien
+DTSTAMP:20240519T000000Z
+DTSTART;VALUE=DATE:20240519
+DTEND;VALUE=DATE:20240520
+SUMMARY:Anna Ullrich pres. Achterbahn
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Anna Ullrich\nVeranstalter: Achterbahn\n\nhttps://rave.wien/e
+ /2024-05-19-anna-ullrich-pres-achterbahn
+URL:https://rave.wien/e/2024-05-19-anna-ullrich-pres-achterbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-23-elav@rave.wien
+DTSTAMP:20240523T000000Z
+DTSTART;VALUE=DATE:20240523
+DTEND;VALUE=DATE:20240524
+SUMMARY:ELAV +
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-05-23-elav
+URL:https://rave.wien/e/2024-05-23-elav
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-24-red-groove-social-club@rave.wien
+DTSTAMP:20240524T000000Z
+DTSTART;VALUE=DATE:20240524
+DTEND;VALUE=DATE:20240525
+SUMMARY:Red Groove Social Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Red Groove Social Club\n\nhttps://rave.wien/e/2
+ 024-05-24-red-groove-social-club
+URL:https://rave.wien/e/2024-05-24-red-groove-social-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-25-the-academy@rave.wien
+DTSTAMP:20240525T000000Z
+DTSTART;VALUE=DATE:20240525
+DTEND;VALUE=DATE:20240526
+SUMMARY:The Academy
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: The Academy\n\nhttps://rave.wien/e/2024-05-25-t
+ he-academy
+URL:https://rave.wien/e/2024-05-25-the-academy
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-29-straat-264-w-dj-hyperdrive@rave.wien
+DTSTAMP:20240529T000000Z
+DTSTART;VALUE=DATE:20240529
+DTEND;VALUE=DATE:20240530
+SUMMARY:STRAAT 264 w/ DJ Hyperdrive
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DJ Hyperdrive\nVeranstalter: Straat 264\n\nhttps://rave.wien/
+ e/2024-05-29-straat-264-w-dj-hyperdrive
+URL:https://rave.wien/e/2024-05-29-straat-264-w-dj-hyperdrive
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-01-the-academy@rave.wien
+DTSTAMP:20240601T000000Z
+DTSTART;VALUE=DATE:20240601
+DTEND;VALUE=DATE:20240602
+SUMMARY:The Academy
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: The Academy\n\nhttps://rave.wien/e/2024-06-01-t
+ he-academy
+URL:https://rave.wien/e/2024-06-01-the-academy
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-07-dj-hell-prst-club@rave.wien
+DTSTAMP:20240607T000000Z
+DTSTART;VALUE=DATE:20240607
+DTEND;VALUE=DATE:20240608
+SUMMARY:DJ Hell @ PRST Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DJ Hell\n\nhttps://rave.wien/e/2024-06-07-dj-hell-prst-club
+URL:https://rave.wien/e/2024-06-07-dj-hell-prst-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-14-club-pompadour@rave.wien
+DTSTAMP:20240614T000000Z
+DTSTART;VALUE=DATE:20240614
+DTEND;VALUE=DATE:20240615
+SUMMARY:Club Pompadour
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\n\nhttps://rave.wien/e/2024-06-1
+ 4-club-pompadour
+URL:https://rave.wien/e/2024-06-14-club-pompadour
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-20-ig-vienna-x-kiga@rave.wien
+DTSTAMP:20240620T000000Z
+DTSTART;VALUE=DATE:20240620
+DTEND;VALUE=DATE:20240621
+SUMMARY:IG VIENNA X KIGA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-06-20-ig-vienna-x-kiga
+URL:https://rave.wien/e/2024-06-20-ig-vienna-x-kiga
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-21-just-kidding@rave.wien
+DTSTAMP:20240621T000000Z
+DTSTART;VALUE=DATE:20240621
+DTEND;VALUE=DATE:20240622
+SUMMARY:Just Kidding
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Just Kidding\n\nhttps://rave.wien/e/2024-06-21-
+ just-kidding
+URL:https://rave.wien/e/2024-06-21-just-kidding
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-22-klassentreffen-w-karotte@rave.wien
+DTSTAMP:20240622T000000Z
+DTSTART;VALUE=DATE:20240622
+DTEND;VALUE=DATE:20240623
+SUMMARY:Klassentreffen w/ Karotte
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Karotte\nVeranstalter: Klassentreffen\n\nhttps://rave.wien/e/
+ 2024-06-22-klassentreffen-w-karotte
+URL:https://rave.wien/e/2024-06-22-klassentreffen-w-karotte
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-28-vie-w-x-vbx-w-laurine-reiss@rave.wien
+DTSTAMP:20240628T000000Z
+DTSTART;VALUE=DATE:20240628
+DTEND;VALUE=DATE:20240629
+SUMMARY:VIE.W X VBX w/ Laurine & Reiss
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Laurine\, Reiss\nVeranstalter: VIE.W\n\nhttps://rave.wien/e/2
+ 024-06-28-vie-w-x-vbx-w-laurine-reiss
+URL:https://rave.wien/e/2024-06-28-vie-w-x-vbx-w-laurine-reiss
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-29-red-groove-social-club@rave.wien
+DTSTAMP:20240629T000000Z
+DTSTART;VALUE=DATE:20240629
+DTEND;VALUE=DATE:20240630
+SUMMARY:Red Groove Social Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Red Groove Social Club\n\nhttps://rave.wien/e/2
+ 024-06-29-red-groove-social-club
+URL:https://rave.wien/e/2024-06-29-red-groove-social-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-05-euphoria-x-amore@rave.wien
+DTSTAMP:20240705T000000Z
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240706
+SUMMARY:EUPHORIA X AMORE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Amore AG\, Euphoria\n\nhttps://rave.wien/e/2024
+ -07-05-euphoria-x-amore
+URL:https://rave.wien/e/2024-07-05-euphoria-x-amore
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-12-redivider-pres-mohajer@rave.wien
+DTSTAMP:20240712T000000Z
+DTSTART;VALUE=DATE:20240712
+DTEND;VALUE=DATE:20240713
+SUMMARY:REDIVIDER pres. Mohajer
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Mohajer\nVeranstalter: Redivider\n\nhttps://rave.wien/e/2024-
+ 07-12-redivider-pres-mohajer
+URL:https://rave.wien/e/2024-07-12-redivider-pres-mohajer
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-19-amore-waschtrasse-w-eoin-dj@rave.wien
+DTSTAMP:20240719T000000Z
+DTSTART;VALUE=DATE:20240719
+DTEND;VALUE=DATE:20240720
+SUMMARY:Amore Waschtrasse w/ EOIN DJ
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Eoin DJ\nVeranstalter: Amore AG\n\nhttps://rave.wien/e/2024-0
+ 7-19-amore-waschtrasse-w-eoin-dj
+URL:https://rave.wien/e/2024-07-19-amore-waschtrasse-w-eoin-dj
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-20-sommerfest-by-prst-club@rave.wien
+DTSTAMP:20240720T000000Z
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240721
+SUMMARY:Sommerfest by PRST Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-07-20-sommerfest-by-prst-club
+URL:https://rave.wien/e/2024-07-20-sommerfest-by-prst-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-26-red-groove-social-club@rave.wien
+DTSTAMP:20240726T000000Z
+DTSTART;VALUE=DATE:20240726
+DTEND;VALUE=DATE:20240727
+SUMMARY:Red Groove Social Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Red Groove Social Club\n\nhttps://rave.wien/e/2
+ 024-07-26-red-groove-social-club
+URL:https://rave.wien/e/2024-07-26-red-groove-social-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-27-prst-invites-why-not@rave.wien
+DTSTAMP:20240727T000000Z
+DTSTART;VALUE=DATE:20240727
+DTEND;VALUE=DATE:20240728
+SUMMARY:PRST invites Why?Not
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Why?Not\n\nhttps://rave.wien/e/2024-07-27-prst-invites-why-not
+URL:https://rave.wien/e/2024-07-27-prst-invites-why-not
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-02-anna-ullrich-pres-achterbahn@rave.wien
+DTSTAMP:20240802T000000Z
+DTSTART;VALUE=DATE:20240802
+DTEND;VALUE=DATE:20240803
+SUMMARY:Anna Ullrich pres. Achterbahn
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Anna Ullrich\nVeranstalter: Achterbahn\n\nhttps://rave.wien/e
+ /2024-08-02-anna-ullrich-pres-achterbahn
+URL:https://rave.wien/e/2024-08-02-anna-ullrich-pres-achterbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-09-club-pompadour-x-brothers-sisters@rave.wien
+DTSTAMP:20240809T000000Z
+DTSTART;VALUE=DATE:20240809
+DTEND;VALUE=DATE:20240810
+SUMMARY:Club Pompadour x Brothers & Sisters
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\n\nhttps://rave.wien/e/2024-08-0
+ 9-club-pompadour-x-brothers-sisters
+URL:https://rave.wien/e/2024-08-09-club-pompadour-x-brothers-sisters
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-10-vienna-worldwide-3-years-anniversary@rave.wien
+DTSTAMP:20240810T000000Z
+DTSTART;VALUE=DATE:20240810
+DTEND;VALUE=DATE:20240811
+SUMMARY:Vienna Worldwide 3 Years Anniversary
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Vienna Worldwide\n\nhttps://rave.wien/e/2024-08
+ -10-vienna-worldwide-3-years-anniversary
+URL:https://rave.wien/e/2024-08-10-vienna-worldwide-3-years-anniversary
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-14-a-party-called-jack@rave.wien
+DTSTAMP:20240814T000000Z
+DTSTART;VALUE=DATE:20240814
+DTEND;VALUE=DATE:20240815
+SUMMARY:A Party Called Jack
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: A Party Called Jack\n\nhttps://rave.wien/e/2024
+ -08-14-a-party-called-jack
+URL:https://rave.wien/e/2024-08-14-a-party-called-jack
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-17-22-years-of-mainframe@rave.wien
+DTSTAMP:20240817T000000Z
+DTSTART;VALUE=DATE:20240817
+DTEND;VALUE=DATE:20240818
+SUMMARY:22 YEARS OF MAINFRAME
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-08-17-22-years-of-mainframe
+URL:https://rave.wien/e/2024-08-17-22-years-of-mainframe
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-23-shonky-at-prst-club@rave.wien
+DTSTAMP:20240823T000000Z
+DTSTART;VALUE=DATE:20240823
+DTEND;VALUE=DATE:20240824
+SUMMARY:Shonky at PRST Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Shonky\n\nhttps://rave.wien/e/2024-08-23-shonky-at-prst-club
+URL:https://rave.wien/e/2024-08-23-shonky-at-prst-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-30-prst-invites-art-of-dark-w-onur-ozer@rave.wien
+DTSTAMP:20240830T000000Z
+DTSTART;VALUE=DATE:20240830
+DTEND;VALUE=DATE:20240831
+SUMMARY:PRST invites Art Of Dark w/ Onur Özer
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Onur Özer\n\nhttps://rave.wien/e/2024-08-30-prst-invites-art
+ -of-dark-w-onur-ozer
+URL:https://rave.wien/e/2024-08-30-prst-invites-art-of-dark-w-onur-ozer
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-31-straat-264@rave.wien
+DTSTAMP:20240831T000000Z
+DTSTART;VALUE=DATE:20240831
+DTEND;VALUE=DATE:20240901
+SUMMARY:STRAAT 264
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Straat 264\n\nhttps://rave.wien/e/2024-08-31-st
+ raat-264
+URL:https://rave.wien/e/2024-08-31-straat-264
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-06-resolute-x-rhythm-science-at-prst-club@rave.wien
+DTSTAMP:20240906T000000Z
+DTSTART;VALUE=DATE:20240906
+DTEND;VALUE=DATE:20240907
+SUMMARY:Resolute x Rhythm Science at PRST Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\n\nhttps://rave.wien/e/2024-09-0
+ 6-resolute-x-rhythm-science-at-prst-club
+URL:https://rave.wien/e/2024-09-06-resolute-x-rhythm-science-at-prst-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-13-red-groove-social-club@rave.wien
+DTSTAMP:20240913T000000Z
+DTSTART;VALUE=DATE:20240913
+DTEND;VALUE=DATE:20240914
+SUMMARY:Red Groove Social Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Red Groove Social Club\n\nhttps://rave.wien/e/2
+ 024-09-13-red-groove-social-club
+URL:https://rave.wien/e/2024-09-13-red-groove-social-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-26-playdate-launch-party@rave.wien
+DTSTAMP:20240926T000000Z
+DTSTART;VALUE=DATE:20240926
+DTEND;VALUE=DATE:20240927
+SUMMARY:Playdate: Launch Party
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Playdate\n\nhttps://rave.wien/e/2024-09-26-play
+ date-launch-party
+URL:https://rave.wien/e/2024-09-26-playdate-launch-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-27-step-forward-x-taxi-40100-pres-shoki287@rave.wien
+DTSTAMP:20240927T000000Z
+DTSTART;VALUE=DATE:20240927
+DTEND;VALUE=DATE:20240928
+SUMMARY:Step Forward x Taxi 40100 pres. SHOKI287
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:SHOKI287\nVeranstalter: Step Forward\n\nhttps://rave.wien/e/2
+ 024-09-27-step-forward-x-taxi-40100-pres-shoki287
+URL:https://rave.wien/e/2024-09-27-step-forward-x-taxi-40100-pres-shoki287
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-03-klopf-klopf-album-release-party-dream-dj-team@rave.wien
+DTSTAMP:20241003T000000Z
+DTSTART;VALUE=DATE:20241003
+DTEND;VALUE=DATE:20241004
+SUMMARY:"Klopf Klopf" Album Release Party – Dream DJ Team
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Dream DJ Team\n\nhttps://rave.wien/e/2024-10-03-klopf-klopf-a
+ lbum-release-party-dream-dj-team
+URL:https://rave.wien/e/2024-10-03-klopf-klopf-album-release-party-dream-
+ dj-team
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-04-bondi-live-at-prst-club@rave.wien
+DTSTAMP:20241004T000000Z
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241005
+SUMMARY:Bondi Live at PRST Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Bondi\n\nhttps://rave.wien/e/2024-10-04-bondi-live-at-prst-cl
+ ub
+URL:https://rave.wien/e/2024-10-04-bondi-live-at-prst-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-05-prst-invites-christian-ab@rave.wien
+DTSTAMP:20241005T000000Z
+DTSTART;VALUE=DATE:20241005
+DTEND;VALUE=DATE:20241006
+SUMMARY:PRST invites Christian AB
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Christian AB\n\nhttps://rave.wien/e/2024-10-05-prst-invites-c
+ hristian-ab
+URL:https://rave.wien/e/2024-10-05-prst-invites-christian-ab
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-12-amore5ive-w-spray@rave.wien
+DTSTAMP:20241012T000000Z
+DTSTART;VALUE=DATE:20241012
+DTEND;VALUE=DATE:20241013
+SUMMARY:Amore5ive w/ Spray
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Spray\n\nhttps://rave.wien/e/2024-10-12-amore5ive-w-spray
+URL:https://rave.wien/e/2024-10-12-amore5ive-w-spray
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-17-obskur-x-zorro-azul@rave.wien
+DTSTAMP:20241017T000000Z
+DTSTART;VALUE=DATE:20241017
+DTEND;VALUE=DATE:20241018
+SUMMARY:Obskür X Zorro Azul
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Zorro Azul\n\nhttps://rave.wien/e/2024-10-17-ob
+ skur-x-zorro-azul
+URL:https://rave.wien/e/2024-10-17-obskur-x-zorro-azul
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-18-prst-invites-emi-omar-live@rave.wien
+DTSTAMP:20241018T000000Z
+DTSTART;VALUE=DATE:20241018
+DTEND;VALUE=DATE:20241019
+SUMMARY:PRST invites Emi Ömar Live
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Emi Ömar\n\nhttps://rave.wien/e/2024-10-18-prst-invites-emi-
+ omar-live
+URL:https://rave.wien/e/2024-10-18-prst-invites-emi-omar-live
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-19-frieden-liebe-x-du-tanzt-mich-mal-with-kepler-uk@rave.wien
+DTSTAMP:20241019T000000Z
+DTSTART;VALUE=DATE:20241019
+DTEND;VALUE=DATE:20241020
+SUMMARY:Frieden & Liebe X Du Tanzt Mich Mal with Kepler (UK)
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Kepler\nVeranstalter: Frieden & Liebe\n\nhttps://rave.wien/e/
+ 2024-10-19-frieden-liebe-x-du-tanzt-mich-mal-with-kepler-uk
+URL:https://rave.wien/e/2024-10-19-frieden-liebe-x-du-tanzt-mich-mal-with
+ -kepler-uk
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-25-red-groove-social-club@rave.wien
+DTSTAMP:20241025T000000Z
+DTSTART;VALUE=DATE:20241025
+DTEND;VALUE=DATE:20241026
+SUMMARY:Red Groove Social Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Red Groove Social Club\n\nhttps://rave.wien/e/2
+ 024-10-25-red-groove-social-club
+URL:https://rave.wien/e/2024-10-25-red-groove-social-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-31-club-pompadour-rhythm-science-w-archie-hamilton@rave.wien
+DTSTAMP:20241031T000000Z
+DTSTART;VALUE=DATE:20241031
+DTEND;VALUE=DATE:20241101
+SUMMARY:Club Pompadour & Rhythm Science w/ Archie Hamilton
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Archie Hamilton\nVeranstalter: Rhythm Science\, Club Pompadou
+ r\n\nhttps://rave.wien/e/2024-10-31-club-pompadour-rhythm-science-w-arch
+ ie-hamilton
+URL:https://rave.wien/e/2024-10-31-club-pompadour-rhythm-science-w-archie
+ -hamilton
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-01-playdate-111-special@rave.wien
+DTSTAMP:20241101T000000Z
+DTSTART;VALUE=DATE:20241101
+DTEND;VALUE=DATE:20241102
+SUMMARY:PLAYDATE: 111 Special
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Playdate\n\nhttps://rave.wien/e/2024-11-01-play
+ date-111-special
+URL:https://rave.wien/e/2024-11-01-playdate-111-special
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-02-prst-invites-eris@rave.wien
+DTSTAMP:20241102T000000Z
+DTSTART;VALUE=DATE:20241102
+DTEND;VALUE=DATE:20241103
+SUMMARY:PRST invites ERIS
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:ERIS\n\nhttps://rave.wien/e/2024-11-02-prst-invites-eris
+URL:https://rave.wien/e/2024-11-02-prst-invites-eris
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-07-sweatonthewalls-x-groove-revival-prst@rave.wien
+DTSTAMP:20241107T000000Z
+DTSTART;VALUE=DATE:20241107
+DTEND;VALUE=DATE:20241108
+SUMMARY:SWEATONTHEWALLS X GROOVE REVIVAL @PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Groove Revival\n\nhttps://rave.wien/e/2024-11-0
+ 7-sweatonthewalls-x-groove-revival-prst
+URL:https://rave.wien/e/2024-11-07-sweatonthewalls-x-groove-revival-prst
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-08-misguided-label-night-w-dlv-isaiah-pelin-vedis@rave.wien
+DTSTAMP:20241108T000000Z
+DTSTART;VALUE=DATE:20241108
+DTEND;VALUE=DATE:20241109
+SUMMARY:Misguided Label Night w/ DLV\, ISAIAH & Pelin Vedis
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DLV\, Isaiah\, Pelin Vedis\nVeranstalter: Misguided\n\nhttps:
+ //rave.wien/e/2024-11-08-misguided-label-night-w-dlv-isaiah-pelin-vedis
+URL:https://rave.wien/e/2024-11-08-misguided-label-night-w-dlv-isaiah-pel
+ in-vedis
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-09-a-party-called-jack@rave.wien
+DTSTAMP:20241109T000000Z
+DTSTART;VALUE=DATE:20241109
+DTEND;VALUE=DATE:20241110
+SUMMARY:A Party Called Jack
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: A Party Called Jack\n\nhttps://rave.wien/e/2024
+ -11-09-a-party-called-jack
+URL:https://rave.wien/e/2024-11-09-a-party-called-jack
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-15-connecting-people-w-p-o@rave.wien
+DTSTAMP:20241115T000000Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241116
+SUMMARY:Connecting People w/ P.O
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:P.O\nVeranstalter: Connecting People\n\nhttps://rave.wien/e/2
+ 024-11-15-connecting-people-w-p-o
+URL:https://rave.wien/e/2024-11-15-connecting-people-w-p-o
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-21-klassik2go-rave@rave.wien
+DTSTAMP:20241121T000000Z
+DTSTART;VALUE=DATE:20241121
+DTEND;VALUE=DATE:20241122
+SUMMARY:Klassik2Go.Rave
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-11-21-klassik2go-rave
+URL:https://rave.wien/e/2024-11-21-klassik2go-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-22-straat-264@rave.wien
+DTSTAMP:20241122T000000Z
+DTSTART;VALUE=DATE:20241122
+DTEND;VALUE=DATE:20241123
+SUMMARY:STRAAT 264
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Straat 264\n\nhttps://rave.wien/e/2024-11-22-st
+ raat-264
+URL:https://rave.wien/e/2024-11-22-straat-264
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-23-red-groove-social-club-w-demuja@rave.wien
+DTSTAMP:20241123T000000Z
+DTSTART;VALUE=DATE:20241123
+DTEND;VALUE=DATE:20241124
+SUMMARY:Red Groove Social Club w/ Demuja
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Demuja\nVeranstalter: Red Groove Social Club\n\nhttps://rave.
+ wien/e/2024-11-23-red-groove-social-club-w-demuja
+URL:https://rave.wien/e/2024-11-23-red-groove-social-club-w-demuja
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-29-2-years-of-amore-ag@rave.wien
+DTSTAMP:20241129T000000Z
+DTSTART;VALUE=DATE:20241129
+DTEND;VALUE=DATE:20241130
+SUMMARY:2 years of Amore AG
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Amore AG\n\nhttps://rave.wien/e/2024-11-29-2-ye
+ ars-of-amore-ag
+URL:https://rave.wien/e/2024-11-29-2-years-of-amore-ag
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-30-toy-tonics-jam-vienna@rave.wien
+DTSTAMP:20241130T000000Z
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241201
+SUMMARY:Toy Tonics Jam Vienna
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Toy Tonics\n\nhttps://rave.wien/e/2024-11-30-to
+ y-tonics-jam-vienna
+URL:https://rave.wien/e/2024-11-30-toy-tonics-jam-vienna
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-05-zorro-azul-x-prst-krampus-special@rave.wien
+DTSTAMP:20241205T000000Z
+DTSTART;VALUE=DATE:20241205
+DTEND;VALUE=DATE:20241206
+SUMMARY:Zorro Azul x PRST Krampus Special
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Zorro Azul\n\nhttps://rave.wien/e/2024-12-05-zo
+ rro-azul-x-prst-krampus-special
+URL:https://rave.wien/e/2024-12-05-zorro-azul-x-prst-krampus-special
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-06-prst-invites-layers-w-sedef-adasi@rave.wien
+DTSTAMP:20241206T000000Z
+DTSTART;VALUE=DATE:20241206
+DTEND;VALUE=DATE:20241207
+SUMMARY:PRST invites Layers w/ Sedef Adasi
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Sedef Adasi\n\nhttps://rave.wien/e/2024-12-06-prst-invites-la
+ yers-w-sedef-adasi
+URL:https://rave.wien/e/2024-12-06-prst-invites-layers-w-sedef-adasi
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-13-just-kidding@rave.wien
+DTSTAMP:20241213T000000Z
+DTSTART;VALUE=DATE:20241213
+DTEND;VALUE=DATE:20241214
+SUMMARY:Just Kidding
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Just Kidding\n\nhttps://rave.wien/e/2024-12-13-
+ just-kidding
+URL:https://rave.wien/e/2024-12-13-just-kidding
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-14-not-so-underground@rave.wien
+DTSTAMP:20241214T000000Z
+DTSTART;VALUE=DATE:20241214
+DTEND;VALUE=DATE:20241215
+SUMMARY:[not so] UNDERGROUND
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-12-14-not-so-underground
+URL:https://rave.wien/e/2024-12-14-not-so-underground
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-20-redivider-pres-spekki-webu@rave.wien
+DTSTAMP:20241220T000000Z
+DTSTART;VALUE=DATE:20241220
+DTEND;VALUE=DATE:20241221
+SUMMARY:REDIVIDER pres. Spekki Webu
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Spekki Webu\nVeranstalter: Redivider\n\nhttps://rave.wien/e/2
+ 024-12-20-redivider-pres-spekki-webu
+URL:https://rave.wien/e/2024-12-20-redivider-pres-spekki-webu
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-21-red-groove-social-club@rave.wien
+DTSTAMP:20241221T000000Z
+DTSTART;VALUE=DATE:20241221
+DTEND;VALUE=DATE:20241222
+SUMMARY:Red Groove Social Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Red Groove Social Club\n\nhttps://rave.wien/e/2
+ 024-12-21-red-groove-social-club
+URL:https://rave.wien/e/2024-12-21-red-groove-social-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-26-the-grinch-club@rave.wien
+DTSTAMP:20241226T000000Z
+DTSTART;VALUE=DATE:20241226
+DTEND;VALUE=DATE:20241227
+SUMMARY:The Grinch Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-12-26-the-grinch-club
+URL:https://rave.wien/e/2024-12-26-the-grinch-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-28-gaze-with-bashkka-holy-lolly-vince@rave.wien
+DTSTAMP:20241228T000000Z
+DTSTART;VALUE=DATE:20241228
+DTEND;VALUE=DATE:20241229
+SUMMARY:GAZE with BASHKKA\, HOLY LOLLY & vince
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Bashkka\, Holy Lolly\, vince\nVeranstalter: Gaze\n\nhttps://r
+ ave.wien/e/2024-12-28-gaze-with-bashkka-holy-lolly-vince
+URL:https://rave.wien/e/2024-12-28-gaze-with-bashkka-holy-lolly-vince
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-31-new-years-eve-party-prst-club@rave.wien
+DTSTAMP:20241231T000000Z
+DTSTART;VALUE=DATE:20241231
+DTEND;VALUE=DATE:20250101
+SUMMARY:New Years Eve Party @ PRST Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-12-31-new-years-eve-party-prst-club
+URL:https://rave.wien/e/2024-12-31-new-years-eve-party-prst-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-03-mahlwerk-presents-beau-didier@rave.wien
+DTSTAMP:20250103T000000Z
+DTSTART;VALUE=DATE:20250103
+DTEND;VALUE=DATE:20250104
+SUMMARY:MAHLWERK presents Beau Didier
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Beau Didier\nVeranstalter: Mahlwerk\n\nhttps://rave.wien/e/20
+ 25-01-03-mahlwerk-presents-beau-didier
+URL:https://rave.wien/e/2025-01-03-mahlwerk-presents-beau-didier
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-04-new-year-play-with-dj-hyperdrive@rave.wien
+DTSTAMP:20250104T000000Z
+DTSTART;VALUE=DATE:20250104
+DTEND;VALUE=DATE:20250105
+SUMMARY:NEW YEAR PLAY WITH DJ Hyperdrive
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DJ Hyperdrive\n\nhttps://rave.wien/e/2025-01-04-new-year-play
+ -with-dj-hyperdrive
+URL:https://rave.wien/e/2025-01-04-new-year-play-with-dj-hyperdrive
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-09-minimal-at-praterstrasse@rave.wien
+DTSTAMP:20250109T000000Z
+DTSTART;VALUE=DATE:20250109
+DTEND;VALUE=DATE:20250110
+SUMMARY:MinimaL at Praterstrasse
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: MinimaL\n\nhttps://rave.wien/e/2025-01-09-minim
+ al-at-praterstrasse
+URL:https://rave.wien/e/2025-01-09-minimal-at-praterstrasse
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-10-merkwurdig-x-club-pompadour@rave.wien
+DTSTAMP:20250110T000000Z
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+SUMMARY:MERKWÜRDIG x CLUB POMPADOUR
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Club Pompadour\, Merkwürdig\n\nhttps://rave.wi
+ en/e/2025-01-10-merkwurdig-x-club-pompadour
+URL:https://rave.wien/e/2025-01-10-merkwurdig-x-club-pompadour
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-11-radio-rudina@rave.wien
+DTSTAMP:20250111T000000Z
+DTSTART;VALUE=DATE:20250111
+DTEND;VALUE=DATE:20250112
+SUMMARY:Radio Rudina
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Radio Rudina\n\nhttps://rave.wien/e/2025-01-11-
+ radio-rudina
+URL:https://rave.wien/e/2025-01-11-radio-rudina
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-16-anna-ullrich-pres-achterbahn@rave.wien
+DTSTAMP:20250116T000000Z
+DTSTART;VALUE=DATE:20250116
+DTEND;VALUE=DATE:20250117
+SUMMARY:Anna Ullrich pres. Achterbahn
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Anna Ullrich\nVeranstalter: Achterbahn\n\nhttps://rave.wien/e
+ /2025-01-16-anna-ullrich-pres-achterbahn
+URL:https://rave.wien/e/2025-01-16-anna-ullrich-pres-achterbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-17-entrance@rave.wien
+DTSTAMP:20250117T000000Z
+DTSTART;VALUE=DATE:20250117
+DTEND;VALUE=DATE:20250118
+SUMMARY:Entrance
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-01-17-entrance
+URL:https://rave.wien/e/2025-01-17-entrance
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-18-paradies-garten-x-prst@rave.wien
+DTSTAMP:20250118T000000Z
+DTSTART;VALUE=DATE:20250118
+DTEND;VALUE=DATE:20250119
+SUMMARY:PARADIES GARTEN x PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Paradies Garten\n\nhttps://rave.wien/e/2025-01-
+ 18-paradies-garten-x-prst
+URL:https://rave.wien/e/2025-01-18-paradies-garten-x-prst
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-23-zorro-azul-x-prst@rave.wien
+DTSTAMP:20250123T000000Z
+DTSTART;VALUE=DATE:20250123
+DTEND;VALUE=DATE:20250124
+SUMMARY:Zorro Azul X PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Zorro Azul\n\nhttps://rave.wien/e/2025-01-23-zo
+ rro-azul-x-prst
+URL:https://rave.wien/e/2025-01-23-zorro-azul-x-prst
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-24-red-groove-social-club@rave.wien
+DTSTAMP:20250124T000000Z
+DTSTART;VALUE=DATE:20250124
+DTEND;VALUE=DATE:20250125
+SUMMARY:Red Groove Social Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Red Groove Social Club\n\nhttps://rave.wien/e/2
+ 025-01-24-red-groove-social-club
+URL:https://rave.wien/e/2025-01-24-red-groove-social-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-25-apartment-acht-x-rhythm-science-klubnacht@rave.wien
+DTSTAMP:20250125T000000Z
+DTSTART;VALUE=DATE:20250125
+DTEND;VALUE=DATE:20250126
+SUMMARY:Apartment Acht x Rhythm Science Klubnacht
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\n\nhttps://rave.wien/e/2025-01-2
+ 5-apartment-acht-x-rhythm-science-klubnacht
+URL:https://rave.wien/e/2025-01-25-apartment-acht-x-rhythm-science-klubna
+ cht
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-31-vienna-worldwide-w-mayell@rave.wien
+DTSTAMP:20250131T000000Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Vienna Worldwide w/ Mayell
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Mayell\nVeranstalter: Vienna Worldwide\n\nhttps://rave.wien/e
+ /2025-01-31-vienna-worldwide-w-mayell
+URL:https://rave.wien/e/2025-01-31-vienna-worldwide-w-mayell
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-01-gaze@rave.wien
+DTSTAMP:20250201T000000Z
+DTSTART;VALUE=DATE:20250201
+DTEND;VALUE=DATE:20250202
+SUMMARY:GAZE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Gaze\n\nhttps://rave.wien/e/2025-02-01-gaze
+URL:https://rave.wien/e/2025-02-01-gaze
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-07-connecting-people-w-bodin@rave.wien
+DTSTAMP:20250207T000000Z
+DTSTART;VALUE=DATE:20250207
+DTEND;VALUE=DATE:20250208
+SUMMARY:Connecting People w/ Bodin
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Bodin\nVeranstalter: Connecting People\n\nhttps://rave.wien/e
+ /2025-02-07-connecting-people-w-bodin
+URL:https://rave.wien/e/2025-02-07-connecting-people-w-bodin
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-08-straat-264@rave.wien
+DTSTAMP:20250208T000000Z
+DTSTART;VALUE=DATE:20250208
+DTEND;VALUE=DATE:20250209
+SUMMARY:STRAAT 264
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Straat 264\n\nhttps://rave.wien/e/2025-02-08-st
+ raat-264
+URL:https://rave.wien/e/2025-02-08-straat-264
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-13-minimal@rave.wien
+DTSTAMP:20250213T000000Z
+DTSTART;VALUE=DATE:20250213
+DTEND;VALUE=DATE:20250214
+SUMMARY:MinimaL
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: MinimaL\n\nhttps://rave.wien/e/2025-02-13-minim
+ al
+URL:https://rave.wien/e/2025-02-13-minimal
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-14-red-groove-social-club@rave.wien
+DTSTAMP:20250214T000000Z
+DTSTART;VALUE=DATE:20250214
+DTEND;VALUE=DATE:20250215
+SUMMARY:Red Groove Social Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Red Groove Social Club\n\nhttps://rave.wien/e/2
+ 025-02-14-red-groove-social-club
+URL:https://rave.wien/e/2025-02-14-red-groove-social-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-15-tasteless-with-luuk-van-dijk@rave.wien
+DTSTAMP:20250215T000000Z
+DTSTART;VALUE=DATE:20250215
+DTEND;VALUE=DATE:20250216
+SUMMARY:TASTELESS with Luuk van Dijk
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Luuk van Dijk\nVeranstalter: Tasteless\n\nhttps://rave.wien/e
+ /2025-02-15-tasteless-with-luuk-van-dijk
+URL:https://rave.wien/e/2025-02-15-tasteless-with-luuk-van-dijk
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-20-park-it-here-uk-garage-bassline-grime@rave.wien
+DTSTAMP:20250220T000000Z
+DTSTART;VALUE=DATE:20250220
+DTEND;VALUE=DATE:20250221
+SUMMARY:PARK IT HERE – UK GARAGE / BASSLINE / GRIME
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Park It Here\n\nhttps://rave.wien/e/2025-02-20-
+ park-it-here-uk-garage-bassline-grime
+URL:https://rave.wien/e/2025-02-20-park-it-here-uk-garage-bassline-grime
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-21-amore-ag-x-in-a-mood@rave.wien
+DTSTAMP:20250221T000000Z
+DTSTART;VALUE=DATE:20250221
+DTEND;VALUE=DATE:20250222
+SUMMARY:Amore AG x IN A MOOD
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Amore AG\n\nhttps://rave.wien/e/2025-02-21-amor
+ e-ag-x-in-a-mood
+URL:https://rave.wien/e/2025-02-21-amore-ag-x-in-a-mood
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-26-freytag-am-mittwoch@rave.wien
+DTSTAMP:20250226T000000Z
+DTSTART;VALUE=DATE:20250226
+DTEND;VALUE=DATE:20250227
+SUMMARY:Freytag am Mittwoch
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-02-26-freytag-am-mittwoch
+URL:https://rave.wien/e/2025-02-26-freytag-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-27-house-of-ludic@rave.wien
+DTSTAMP:20250227T000000Z
+DTSTART;VALUE=DATE:20250227
+DTEND;VALUE=DATE:20250228
+SUMMARY:House of Ludic
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: House of Ludic\n\nhttps://rave.wien/e/2025-02-2
+ 7-house-of-ludic
+URL:https://rave.wien/e/2025-02-27-house-of-ludic
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-28-prst-invites-traumer@rave.wien
+DTSTAMP:20250228T000000Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:PRST invites Traumer
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Traumer\n\nhttps://rave.wien/e/2025-02-28-prst-invites-traumer
+URL:https://rave.wien/e/2025-02-28-prst-invites-traumer
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-01-radio-rudina@rave.wien
+DTSTAMP:20250301T000000Z
+DTSTART;VALUE=DATE:20250301
+DTEND;VALUE=DATE:20250302
+SUMMARY:Radio Rudina
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Radio Rudina\n\nhttps://rave.wien/e/2025-03-01-
+ radio-rudina
+URL:https://rave.wien/e/2025-03-01-radio-rudina
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-06-tasteless-invites-rooleh@rave.wien
+DTSTAMP:20250306T000000Z
+DTSTART;VALUE=DATE:20250306
+DTEND;VALUE=DATE:20250307
+SUMMARY:TASTELESS INVITES Rooléh
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Rooléh\nVeranstalter: Tasteless\n\nhttps://rave.wien/e/2025-
+ 03-06-tasteless-invites-rooleh
+URL:https://rave.wien/e/2025-03-06-tasteless-invites-rooleh
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-07-5-years-prst-club-w-francesco-del-garda@rave.wien
+DTSTAMP:20250307T000000Z
+DTSTART;VALUE=DATE:20250307
+DTEND;VALUE=DATE:20250308
+SUMMARY:5 Years PRST Club w/ Francesco Del Garda
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Francesco Del Garda\n\nhttps://rave.wien/e/2025-03-07-5-years
+ -prst-club-w-francesco-del-garda
+URL:https://rave.wien/e/2025-03-07-5-years-prst-club-w-francesco-del-garda
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-08-redivider-pres-konduku@rave.wien
+DTSTAMP:20250308T000000Z
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250309
+SUMMARY:REDIVIDER pres. KONDUKU
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Konduku\nVeranstalter: Redivider\n\nhttps://rave.wien/e/2025-
+ 03-08-redivider-pres-konduku
+URL:https://rave.wien/e/2025-03-08-redivider-pres-konduku
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-14-function-blue@rave.wien
+DTSTAMP:20250314T000000Z
+DTSTART;VALUE=DATE:20250314
+DTEND;VALUE=DATE:20250315
+SUMMARY:FUNCTION BLUE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Function Blue\n\nhttps://rave.wien/e/2025-03-14
+ -function-blue
+URL:https://rave.wien/e/2025-03-14-function-blue
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-15-high-steppin-invites-art-of-tones@rave.wien
+DTSTAMP:20250315T000000Z
+DTSTART;VALUE=DATE:20250315
+DTEND;VALUE=DATE:20250316
+SUMMARY:HIGH STEPPIN‘ invites Art of Tones
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Art of Tones\nVeranstalter: High Steppin\n\nhttps://rave.wien
+ /e/2025-03-15-high-steppin-invites-art-of-tones
+URL:https://rave.wien/e/2025-03-15-high-steppin-invites-art-of-tones
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-21-anna-ullrich-pres-achterbahn@rave.wien
+DTSTAMP:20250321T000000Z
+DTSTART;VALUE=DATE:20250321
+DTEND;VALUE=DATE:20250322
+SUMMARY:Anna Ullrich pres. Achterbahn
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Anna Ullrich\nVeranstalter: Achterbahn\n\nhttps://rave.wien/e
+ /2025-03-21-anna-ullrich-pres-achterbahn
+URL:https://rave.wien/e/2025-03-21-anna-ullrich-pres-achterbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-22-7-years-rhythm-science-w-lvca-live-dj-tjizza-hell@rave.wien
+DTSTAMP:20250322T000000Z
+DTSTART;VALUE=DATE:20250322
+DTEND;VALUE=DATE:20250323
+SUMMARY:7 Years Rhythm Science w/ LVCA Live\, Dj Tjizza & Helly
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:LVCA\, Dj Tjizza\, Helly\nVeranstalter: Rhythm Science\n\nhtt
+ ps://rave.wien/e/2025-03-22-7-years-rhythm-science-w-lvca-live-dj-tjizza
+ -hell
+URL:https://rave.wien/e/2025-03-22-7-years-rhythm-science-w-lvca-live-dj-
+ tjizza-hell
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-27-groove-revival@rave.wien
+DTSTAMP:20250327T000000Z
+DTSTART;VALUE=DATE:20250327
+DTEND;VALUE=DATE:20250328
+SUMMARY:Groove Revival
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Groove Revival\n\nhttps://rave.wien/e/2025-03-2
+ 7-groove-revival
+URL:https://rave.wien/e/2025-03-27-groove-revival
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-28-unfamiliar-x-prst@rave.wien
+DTSTAMP:20250328T000000Z
+DTSTART;VALUE=DATE:20250328
+DTEND;VALUE=DATE:20250329
+SUMMARY:Unfamiliar x PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-03-28-unfamiliar-x-prst
+URL:https://rave.wien/e/2025-03-28-unfamiliar-x-prst
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-29-red-groove-social-club-presents-cecille-records@rave.wien
+DTSTAMP:20250329T000000Z
+DTSTART;VALUE=DATE:20250329
+DTEND;VALUE=DATE:20250330
+SUMMARY:Red Groove Social Club presents Cecille Records
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Red Groove Social Club\n\nhttps://rave.wien/e/2
+ 025-03-29-red-groove-social-club-presents-cecille-records
+URL:https://rave.wien/e/2025-03-29-red-groove-social-club-presents-cecill
+ e-records
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-03-tasteless-invites-jamback@rave.wien
+DTSTAMP:20250403T000000Z
+DTSTART;VALUE=DATE:20250403
+DTEND;VALUE=DATE:20250404
+SUMMARY:TASTELESS INVITES Jamback
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Jamback\nVeranstalter: Tasteless\n\nhttps://rave.wien/e/2025-
+ 04-03-tasteless-invites-jamback
+URL:https://rave.wien/e/2025-04-03-tasteless-invites-jamback
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-05-high-steppin@rave.wien
+DTSTAMP:20250405T000000Z
+DTSTART;VALUE=DATE:20250405
+DTEND;VALUE=DATE:20250406
+SUMMARY:High Steppin
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: High Steppin\n\nhttps://rave.wien/e/2025-04-05-
+ high-steppin
+URL:https://rave.wien/e/2025-04-05-high-steppin
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-10-desire@rave.wien
+DTSTAMP:20250410T000000Z
+DTSTART;VALUE=DATE:20250410
+DTEND;VALUE=DATE:20250411
+SUMMARY:Desire
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-04-10-desire
+URL:https://rave.wien/e/2025-04-10-desire
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-11-straat-264@rave.wien
+DTSTAMP:20250411T000000Z
+DTSTART;VALUE=DATE:20250411
+DTEND;VALUE=DATE:20250412
+SUMMARY:STRAAT 264
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Straat 264\n\nhttps://rave.wien/e/2025-04-11-st
+ raat-264
+URL:https://rave.wien/e/2025-04-11-straat-264
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-12-tattu-tatta-glub-macht-pau-se-at-prst@rave.wien
+DTSTAMP:20250412T000000Z
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250413
+SUMMARY:Tattu Tatta Glub MACHT PAU’SE at PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Tattu Tatta Glub\n\nhttps://rave.wien/e/2025-04
+ -12-tattu-tatta-glub-macht-pau-se-at-prst
+URL:https://rave.wien/e/2025-04-12-tattu-tatta-glub-macht-pau-se-at-prst
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-18-prst-x-trommel@rave.wien
+DTSTAMP:20250418T000000Z
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250419
+SUMMARY:PRST x Trommel
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-04-18-prst-x-trommel
+URL:https://rave.wien/e/2025-04-18-prst-x-trommel
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-20-mahlwerk-with-dj-swisherman@rave.wien
+DTSTAMP:20250420T000000Z
+DTSTART;VALUE=DATE:20250420
+DTEND;VALUE=DATE:20250421
+SUMMARY:Mahlwerk with DJ SWISHERMAN
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DJ Swisherman\nVeranstalter: Mahlwerk\n\nhttps://rave.wien/e/
+ 2025-04-20-mahlwerk-with-dj-swisherman
+URL:https://rave.wien/e/2025-04-20-mahlwerk-with-dj-swisherman
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-24-anna-ullrich-all-night-long@rave.wien
+DTSTAMP:20250424T000000Z
+DTSTART;VALUE=DATE:20250424
+DTEND;VALUE=DATE:20250425
+SUMMARY:Anna Ullrich All Night Long
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Anna Ullrich\n\nhttps://rave.wien/e/2025-04-24-anna-ullrich-a
+ ll-night-long
+URL:https://rave.wien/e/2025-04-24-anna-ullrich-all-night-long
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-25-1yr-misguided-with-steya-marcel-fengler-ktk-dlv@rave.wien
+DTSTAMP:20250425T000000Z
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250426
+SUMMARY:1YR MISGUIDED with STEYA\, Marcel Fengler\, KTK & DLV
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Steya\, Marcel Fengler\, KTK\, DLV\nVeranstalter: Misguided\n
+ \nhttps://rave.wien/e/2025-04-25-1yr-misguided-with-steya-marcel-fengler
+ -ktk-dlv
+URL:https://rave.wien/e/2025-04-25-1yr-misguided-with-steya-marcel-fengle
+ r-ktk-dlv
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-26-zorro-azul-x-prst@rave.wien
+DTSTAMP:20250426T000000Z
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250427
+SUMMARY:Zorro Azul X PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Zorro Azul\n\nhttps://rave.wien/e/2025-04-26-zo
+ rro-azul-x-prst
+URL:https://rave.wien/e/2025-04-26-zorro-azul-x-prst
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-30-unum-festival-preparty-w-sonja-moonear@rave.wien
+DTSTAMP:20250430T000000Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:UNUM Festival Preparty w/ Sonja Moonear
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Sonja Moonear\n\nhttps://rave.wien/e/2025-04-30-unum-festival
+ -preparty-w-sonja-moonear
+URL:https://rave.wien/e/2025-04-30-unum-festival-preparty-w-sonja-moonear
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-01-minimal@rave.wien
+DTSTAMP:20250501T000000Z
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+SUMMARY:MinimaL
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: MinimaL\n\nhttps://rave.wien/e/2025-05-01-minim
+ al
+URL:https://rave.wien/e/2025-05-01-minimal
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-02-playdate-maydate-with-bailey-ibbs@rave.wien
+DTSTAMP:20250502T000000Z
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250503
+SUMMARY:Playdate: MAYDATE with Bailey Ibbs
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Bailey Ibbs\nVeranstalter: Playdate\n\nhttps://rave.wien/e/20
+ 25-05-02-playdate-maydate-with-bailey-ibbs
+URL:https://rave.wien/e/2025-05-02-playdate-maydate-with-bailey-ibbs
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-03-a-party-called-jack@rave.wien
+DTSTAMP:20250503T000000Z
+DTSTART;VALUE=DATE:20250503
+DTEND;VALUE=DATE:20250504
+SUMMARY:A Party Called Jack
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: A Party Called Jack\n\nhttps://rave.wien/e/2025
+ -05-03-a-party-called-jack
+URL:https://rave.wien/e/2025-05-03-a-party-called-jack
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-08-liebcozy-ep-release-party@rave.wien
+DTSTAMP:20250508T000000Z
+DTSTART;VALUE=DATE:20250508
+DTEND;VALUE=DATE:20250509
+SUMMARY:LIEBCOZY EP RELEASE PARTY
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-05-08-liebcozy-ep-release-party
+URL:https://rave.wien/e/2025-05-08-liebcozy-ep-release-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-09-demuja-x-prst-w-prosumer@rave.wien
+DTSTAMP:20250509T000000Z
+DTSTART;VALUE=DATE:20250509
+DTEND;VALUE=DATE:20250510
+SUMMARY:Demuja X PRST w/ Prosumer
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Prosumer\n\nhttps://rave.wien/e/2025-05-09-demuja-x-prst-w-pr
+ osumer
+URL:https://rave.wien/e/2025-05-09-demuja-x-prst-w-prosumer
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-16-red-groove-social-club@rave.wien
+DTSTAMP:20250516T000000Z
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250517
+SUMMARY:Red Groove Social Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Red Groove Social Club\n\nhttps://rave.wien/e/2
+ 025-05-16-red-groove-social-club
+URL:https://rave.wien/e/2025-05-16-red-groove-social-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-17-anna-ullrich-pres-achterbahn@rave.wien
+DTSTAMP:20250517T000000Z
+DTSTART;VALUE=DATE:20250517
+DTEND;VALUE=DATE:20250518
+SUMMARY:Anna Ullrich pres. Achterbahn
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Anna Ullrich\nVeranstalter: Achterbahn\n\nhttps://rave.wien/e
+ /2025-05-17-anna-ullrich-pres-achterbahn
+URL:https://rave.wien/e/2025-05-17-anna-ullrich-pres-achterbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-23-paradies-garten-vie-w-x-prst-with-pascal-moscheni@rave.wien
+DTSTAMP:20250523T000000Z
+DTSTART;VALUE=DATE:20250523
+DTEND;VALUE=DATE:20250524
+SUMMARY:Paradies Garten & Vie.w x PRST with Pascal Moscheni
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Pascal Moscheni\nVeranstalter: Paradies Garten\, VIE.W\n\nhtt
+ ps://rave.wien/e/2025-05-23-paradies-garten-vie-w-x-prst-with-pascal-mos
+ cheni
+URL:https://rave.wien/e/2025-05-23-paradies-garten-vie-w-x-prst-with-pasc
+ al-moscheni
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-24-tasteless-invites-paige-tomlinson@rave.wien
+DTSTAMP:20250524T000000Z
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250525
+SUMMARY:TASTELESS INVITES Paige Tomlinson
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Paige Tomlinson\nVeranstalter: Tasteless\n\nhttps://rave.wien
+ /e/2025-05-24-tasteless-invites-paige-tomlinson
+URL:https://rave.wien/e/2025-05-24-tasteless-invites-paige-tomlinson
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-30-shapes-fugazi-present-jael@rave.wien
+DTSTAMP:20250530T000000Z
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250531
+SUMMARY:SHAPES & FUGAZI present JAEL
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:JAEL\nVeranstalter: Shapes & Fugazi\n\nhttps://rave.wien/e/20
+ 25-05-30-shapes-fugazi-present-jael
+URL:https://rave.wien/e/2025-05-30-shapes-fugazi-present-jael
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-06-red-groove-social-club@rave.wien
+DTSTAMP:20250606T000000Z
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250607
+SUMMARY:Red Groove Social Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Red Groove Social Club\n\nhttps://rave.wien/e/2
+ 025-06-06-red-groove-social-club
+URL:https://rave.wien/e/2025-06-06-red-groove-social-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-08-mahlwerk-w-peter-blue@rave.wien
+DTSTAMP:20250608T000000Z
+DTSTART;VALUE=DATE:20250608
+DTEND;VALUE=DATE:20250609
+SUMMARY:Mahlwerk w/ Peter Blue
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Peter Blue\nVeranstalter: Mahlwerk\n\nhttps://rave.wien/e/202
+ 5-06-08-mahlwerk-w-peter-blue
+URL:https://rave.wien/e/2025-06-08-mahlwerk-w-peter-blue
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-13-misguided-pres-yanamaste@rave.wien
+DTSTAMP:20250613T000000Z
+DTSTART;VALUE=DATE:20250613
+DTEND;VALUE=DATE:20250614
+SUMMARY:MISGUIDED Pres. Yanamaste
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Yanamaste\nVeranstalter: Misguided\n\nhttps://rave.wien/e/202
+ 5-06-13-misguided-pres-yanamaste
+URL:https://rave.wien/e/2025-06-13-misguided-pres-yanamaste
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-14-blur-with-alci@rave.wien
+DTSTAMP:20250614T000000Z
+DTSTART;VALUE=DATE:20250614
+DTEND;VALUE=DATE:20250615
+SUMMARY:BLUR with Alci
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Alci\nVeranstalter: BLUR\n\nhttps://rave.wien/e/2025-06-14-bl
+ ur-with-alci
+URL:https://rave.wien/e/2025-06-14-blur-with-alci
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-19-soundlabs-love-lane-to-prst@rave.wien
+DTSTAMP:20250619T000000Z
+DTSTART;VALUE=DATE:20250619
+DTEND;VALUE=DATE:20250620
+SUMMARY:Soundlabs Love Lane to PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Soundlabs\n\nhttps://rave.wien/e/2025-06-19-sou
+ ndlabs-love-lane-to-prst
+URL:https://rave.wien/e/2025-06-19-soundlabs-love-lane-to-prst
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-20-straat-264@rave.wien
+DTSTAMP:20250620T000000Z
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+SUMMARY:STRAAT 264
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Straat 264\n\nhttps://rave.wien/e/2025-06-20-st
+ raat-264
+URL:https://rave.wien/e/2025-06-20-straat-264
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-21-14-hours-not-so-underground-open-air-feuerdorf-af@rave.wien
+DTSTAMP:20250621T000000Z
+DTSTART;VALUE=DATE:20250621
+DTEND;VALUE=DATE:20250622
+SUMMARY:14 HOURS [NOT SO] UNDERGROUND OPEN AIR FEUERDORF + AFTERPARTY PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-06-21-14-hours-not-so-underground-
+ open-air-feuerdorf-af
+URL:https://rave.wien/e/2025-06-21-14-hours-not-so-underground-open-air-f
+ euerdorf-af
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-26-high-steppin@rave.wien
+DTSTAMP:20250626T000000Z
+DTSTART;VALUE=DATE:20250626
+DTEND;VALUE=DATE:20250627
+SUMMARY:High Steppin
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: High Steppin\n\nhttps://rave.wien/e/2025-06-26-
+ high-steppin
+URL:https://rave.wien/e/2025-06-26-high-steppin
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-27-anna-ullrich-pres-achterbahn@rave.wien
+DTSTAMP:20250627T000000Z
+DTSTART;VALUE=DATE:20250627
+DTEND;VALUE=DATE:20250628
+SUMMARY:Anna Ullrich pres. Achterbahn
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Anna Ullrich\nVeranstalter: Achterbahn\n\nhttps://rave.wien/e
+ /2025-06-27-anna-ullrich-pres-achterbahn
+URL:https://rave.wien/e/2025-06-27-anna-ullrich-pres-achterbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-28-toy-tonics-jam-vienna@rave.wien
+DTSTAMP:20250628T000000Z
+DTSTART;VALUE=DATE:20250628
+DTEND;VALUE=DATE:20250629
+SUMMARY:Toy Tonics Jam Vienna
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Toy Tonics\n\nhttps://rave.wien/e/2025-06-28-to
+ y-tonics-jam-vienna
+URL:https://rave.wien/e/2025-06-28-toy-tonics-jam-vienna
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-04-prst-invites-carl-craig@rave.wien
+DTSTAMP:20250704T000000Z
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250705
+SUMMARY:PRST invites Carl Craig
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Carl Craig\n\nhttps://rave.wien/e/2025-07-04-prst-invites-car
+ l-craig
+URL:https://rave.wien/e/2025-07-04-prst-invites-carl-craig
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-17-park-it-here-uk-garage-bassline-grime@rave.wien
+DTSTAMP:20250717T000000Z
+DTSTART;VALUE=DATE:20250717
+DTEND;VALUE=DATE:20250718
+SUMMARY:PARK IT HERE – UK GARAGE / BASSLINE / GRIME
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Park It Here\n\nhttps://rave.wien/e/2025-07-17-
+ park-it-here-uk-garage-bassline-grime
+URL:https://rave.wien/e/2025-07-17-park-it-here-uk-garage-bassline-grime
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-19-in-love-xoxo-rec-yn-raves-cosa-constance-rave-on@rave.wien
+DTSTAMP:20250719T000000Z
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+SUMMARY:IN LOVE / XOXO REC. YN RAVES\, COSA CONSTANCE\, Rave on Society\,
+  You&Me
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rave On Society\, YN Collective\, In Love\n\nht
+ tps://rave.wien/e/2025-07-19-in-love-xoxo-rec-yn-raves-cosa-constance-ra
+ ve-on
+URL:https://rave.wien/e/2025-07-19-in-love-xoxo-rec-yn-raves-cosa-constan
+ ce-rave-on
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-24-groove-revival-x-electric-funk@rave.wien
+DTSTAMP:20250724T000000Z
+DTSTART;VALUE=DATE:20250724
+DTEND;VALUE=DATE:20250725
+SUMMARY:Groove Revival X Electric Funk
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Groove Revival\n\nhttps://rave.wien/e/2025-07-2
+ 4-groove-revival-x-electric-funk
+URL:https://rave.wien/e/2025-07-24-groove-revival-x-electric-funk
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-01-vienna-worldwide-4-years-anniversary@rave.wien
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:Vienna Worldwide 4 Years Anniversary
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Vienna Worldwide\n\nhttps://rave.wien/e/2025-08
+ -01-vienna-worldwide-4-years-anniversary
+URL:https://rave.wien/e/2025-08-01-vienna-worldwide-4-years-anniversary
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-14-tasteless-x-red-groove-social-club-open-air-feuer@rave.wien
+DTSTAMP:20250814T000000Z
+DTSTART;VALUE=DATE:20250814
+DTEND;VALUE=DATE:20250815
+SUMMARY:TASTELESS X RED GROOVE SOCIAL CLUB – OPEN AIR FEUERDORF + PRST 
+ AFTERPARTY
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Red Groove Social Club\, Tasteless\n\nhttps://r
+ ave.wien/e/2025-08-14-tasteless-x-red-groove-social-club-open-air-feuer
+URL:https://rave.wien/e/2025-08-14-tasteless-x-red-groove-social-club-ope
+ n-air-feuer
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-15-freeride-millenium-x-amore-ag@rave.wien
+DTSTAMP:20250815T000000Z
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+SUMMARY:Freeride Millenium x Amore AG
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Amore AG\, Freeride Millenium\n\nhttps://rave.w
+ ien/e/2025-08-15-freeride-millenium-x-amore-ag
+URL:https://rave.wien/e/2025-08-15-freeride-millenium-x-amore-ag
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-16-in-love-xoxo-rec-soundlabs-withthelove@rave.wien
+DTSTAMP:20250816T000000Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+SUMMARY:IN LOVE | XOXO REC. & SOUNDLABS & WITHTHELOVE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Soundlabs\, In Love\n\nhttps://rave.wien/e/2025
+ -08-16-in-love-xoxo-rec-soundlabs-withthelove
+URL:https://rave.wien/e/2025-08-16-in-love-xoxo-rec-soundlabs-withthelove
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-22-rumi-invites-w-nat-wendell-uk-cj-bambi-service-vi@rave.wien
+DTSTAMP:20250822T000000Z
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250823
+SUMMARY:RUMI INVITES…w/ NAT WENDELL (UK) & CJ Bambi (Service\, Vienna)
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Nat Wendell\, CJ Bambi (Service\, Vienna)\n\nhttps://rave.wie
+ n/e/2025-08-22-rumi-invites-w-nat-wendell-uk-cj-bambi-service-vi
+URL:https://rave.wien/e/2025-08-22-rumi-invites-w-nat-wendell-uk-cj-bambi
+ -service-vi
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-29-prst-invites-marko-nastic@rave.wien
+DTSTAMP:20250829T000000Z
+DTSTART;VALUE=DATE:20250829
+DTEND;VALUE=DATE:20250830
+SUMMARY:PRST invites Marko Nastic
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Marko Nastic\n\nhttps://rave.wien/e/2025-08-29-prst-invites-m
+ arko-nastic
+URL:https://rave.wien/e/2025-08-29-prst-invites-marko-nastic
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-30-blur-with-rich-nxt@rave.wien
+DTSTAMP:20250830T000000Z
+DTSTART;VALUE=DATE:20250830
+DTEND;VALUE=DATE:20250831
+SUMMARY:BLUR with Rich NxT
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Rich NxT\nVeranstalter: BLUR\n\nhttps://rave.wien/e/2025-08-3
+ 0-blur-with-rich-nxt
+URL:https://rave.wien/e/2025-08-30-blur-with-rich-nxt
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-06-rhythm-science-pres-birthday-special-1@rave.wien
+DTSTAMP:20250906T000000Z
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250907
+SUMMARY:Rhythm Science pres. Birthday Special #1
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\n\nhttps://rave.wien/e/2025-09-0
+ 6-rhythm-science-pres-birthday-special-1
+URL:https://rave.wien/e/2025-09-06-rhythm-science-pres-birthday-special-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-18-park-it-here-uk-garage-bassline-grime@rave.wien
+DTSTAMP:20250918T000000Z
+DTSTART;VALUE=DATE:20250918
+DTEND;VALUE=DATE:20250919
+SUMMARY:PARK IT HERE – UK GARAGE / BASSLINE / GRIME
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Park It Here\n\nhttps://rave.wien/e/2025-09-18-
+ park-it-here-uk-garage-bassline-grime
+URL:https://rave.wien/e/2025-09-18-park-it-here-uk-garage-bassline-grime
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-19-red-groove-social-club-presents-krystal-klear@rave.wien
+DTSTAMP:20250919T000000Z
+DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250920
+SUMMARY:RED GROOVE (Social Club) presents: Krystal Klear
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Krystal Klear\nVeranstalter: Red Groove Social Club\n\nhttps:
+ //rave.wien/e/2025-09-19-red-groove-social-club-presents-krystal-klear
+URL:https://rave.wien/e/2025-09-19-red-groove-social-club-presents-krysta
+ l-klear
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-27-redivider-pres-vel@rave.wien
+DTSTAMP:20250927T000000Z
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20250928
+SUMMARY:REDIVIDER pres. Vel
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Vel\nVeranstalter: Redivider\n\nhttps://rave.wien/e/2025-09-2
+ 7-redivider-pres-vel
+URL:https://rave.wien/e/2025-09-27-redivider-pres-vel
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-04-blur-with-subb-an@rave.wien
+DTSTAMP:20251004T000000Z
+DTSTART;VALUE=DATE:20251004
+DTEND;VALUE=DATE:20251005
+SUMMARY:BLUR with Subb-an
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Subb-an\nVeranstalter: BLUR\n\nhttps://rave.wien/e/2025-10-04
+ -blur-with-subb-an
+URL:https://rave.wien/e/2025-10-04-blur-with-subb-an
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-10-amore-ag-invites-bennet@rave.wien
+DTSTAMP:20251010T000000Z
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251011
+SUMMARY:Amore AG invites Bennet
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Bennet\nVeranstalter: Amore AG\n\nhttps://rave.wien/e/2025-10
+ -10-amore-ag-invites-bennet
+URL:https://rave.wien/e/2025-10-10-amore-ag-invites-bennet
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-11-anna-ullrich-pres-achterbahn@rave.wien
+DTSTAMP:20251011T000000Z
+DTSTART;VALUE=DATE:20251011
+DTEND;VALUE=DATE:20251012
+SUMMARY:Anna Ullrich pres. Achterbahn
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Anna Ullrich\nVeranstalter: Achterbahn\n\nhttps://rave.wien/e
+ /2025-10-11-anna-ullrich-pres-achterbahn
+URL:https://rave.wien/e/2025-10-11-anna-ullrich-pres-achterbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-18-red-groove-social-club-with-aaron-it-s-george-mee@rave.wien
+DTSTAMP:20251018T000000Z
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251019
+SUMMARY:RED GROOVE (Social Club) with Aaron\, It’s George\, Meet Franka
+ \, Techno Ganoven
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Aaron\, It’s George\, meet.franka\, Techno Ganoven\nVeranst
+ alter: Red Groove Social Club\n\nhttps://rave.wien/e/2025-10-18-red-groo
+ ve-social-club-with-aaron-it-s-george-mee
+URL:https://rave.wien/e/2025-10-18-red-groove-social-club-with-aaron-it-s
+ -george-mee
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-25-misguided-x-shockwerk@rave.wien
+DTSTAMP:20251025T000000Z
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+SUMMARY:MISGUIDED X SHOCKWERK
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Misguided\n\nhttps://rave.wien/e/2025-10-25-mis
+ guided-x-shockwerk
+URL:https://rave.wien/e/2025-10-25-misguided-x-shockwerk
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-31-halloween-at-prst-club-with-steve-bug@rave.wien
+DTSTAMP:20251031T000000Z
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Halloween at PRST Club with Steve Bug
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Steve Bug\n\nhttps://rave.wien/e/2025-10-31-halloween-at-prst
+ -club-with-steve-bug
+URL:https://rave.wien/e/2025-10-31-halloween-at-prst-club-with-steve-bug
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-01-hangover-special-with-anna-ullrich-anni-herzer@rave.wien
+DTSTAMP:20251101T000000Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251102
+SUMMARY:HANGOVER SPECIAL with Anna Ullrich & Anni Herzer
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Anna Ullrich\, Anni Herzer\n\nhttps://rave.wien/e/2025-11-01-
+ hangover-special-with-anna-ullrich-anni-herzer
+URL:https://rave.wien/e/2025-11-01-hangover-special-with-anna-ullrich-ann
+ i-herzer
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-07-prst-invites-marko-nastic@rave.wien
+DTSTAMP:20251107T000000Z
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
+SUMMARY:PRST invites Marko Nastic
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Marko Nastic\n\nhttps://rave.wien/e/2025-11-07-prst-invites-m
+ arko-nastic
+URL:https://rave.wien/e/2025-11-07-prst-invites-marko-nastic
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-08-voyage-w-flo-masse@rave.wien
+DTSTAMP:20251108T000000Z
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
+SUMMARY:VOYAGE w/ Flo Massé
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Flo Massé\n\nhttps://rave.wien/e/2025-11-08-voyage-w-flo-mas
+ se
+URL:https://rave.wien/e/2025-11-08-voyage-w-flo-masse
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-13-blckshift-anniversary-session-with-don-darkoe-atm@rave.wien
+DTSTAMP:20251113T000000Z
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251114
+SUMMARY:BLCKSHIFT ANNIVERSARY SESSION with Don Darkoe\, Atmos & Feistling
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Don Darkoe\, Atmos\, Feistling\n\nhttps://rave.wien/e/2025-11
+ -13-blckshift-anniversary-session-with-don-darkoe-atm
+URL:https://rave.wien/e/2025-11-13-blckshift-anniversary-session-with-don
+ -darkoe-atm
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-14-shapes-fugazi-pres-shy-one@rave.wien
+DTSTAMP:20251114T000000Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:SHAPES & FUGAZI pres. Shy One
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Shy One\nVeranstalter: Shapes & Fugazi\n\nhttps://rave.wien/e
+ /2025-11-14-shapes-fugazi-pres-shy-one
+URL:https://rave.wien/e/2025-11-14-shapes-fugazi-pres-shy-one
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-21-tasteless-at-prst-club@rave.wien
+DTSTAMP:20251121T000000Z
+DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251122
+SUMMARY:TASTELESS AT PRST CLUB
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Tasteless\n\nhttps://rave.wien/e/2025-11-21-tas
+ teless-at-prst-club
+URL:https://rave.wien/e/2025-11-21-tasteless-at-prst-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-22-radio-rudina@rave.wien
+DTSTAMP:20251122T000000Z
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+SUMMARY:Radio Rudina
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Radio Rudina\n\nhttps://rave.wien/e/2025-11-22-
+ radio-rudina
+URL:https://rave.wien/e/2025-11-22-radio-rudina
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-27-function-blue-vol-iii@rave.wien
+DTSTAMP:20251127T000000Z
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+SUMMARY:Function Blue Vol. III
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Function Blue\n\nhttps://rave.wien/e/2025-11-27
+ -function-blue-vol-iii
+URL:https://rave.wien/e/2025-11-27-function-blue-vol-iii
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-28-red-groove-social-club-presents-nick-curly@rave.wien
+DTSTAMP:20251128T000000Z
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251129
+SUMMARY:RED GROOVE (Social Club) presents: Nick Curly
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Nick Curly\nVeranstalter: Red Groove Social Club\n\nhttps://r
+ ave.wien/e/2025-11-28-red-groove-social-club-presents-nick-curly
+URL:https://rave.wien/e/2025-11-28-red-groove-social-club-presents-nick-c
+ urly
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-29-straat-264-with-narciss-dj-feuerdrache-cufme-dj-s@rave.wien
+DTSTAMP:20251129T000000Z
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:Straat 264 with Narciss\, DJ Feuerdrache\, Cufme & DJ Schnelltest
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Narciss\, DJ Feuerdrache\, Cufme\, DJ Schnelltest\nVeranstalt
+ er: Straat 264\n\nhttps://rave.wien/e/2025-11-29-straat-264-with-narciss
+ -dj-feuerdrache-cufme-dj-s
+URL:https://rave.wien/e/2025-11-29-straat-264-with-narciss-dj-feuerdrache
+ -cufme-dj-s
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-05-grun@rave.wien
+DTSTAMP:20251205T000000Z
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:Grün
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-12-05-grun
+URL:https://rave.wien/e/2025-12-05-grun
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-06-blur-with-sepp@rave.wien
+DTSTAMP:20251206T000000Z
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:BLUR with Sepp
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Sepp\nVeranstalter: BLUR\n\nhttps://rave.wien/e/2025-12-06-bl
+ ur-with-sepp
+URL:https://rave.wien/e/2025-12-06-blur-with-sepp
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-19-toy-tonics-at-prst-club@rave.wien
+DTSTAMP:20251219T000000Z
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:Toy Tonics at PRST Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Toy Tonics\n\nhttps://rave.wien/e/2025-12-19-to
+ y-tonics-at-prst-club
+URL:https://rave.wien/e/2025-12-19-toy-tonics-at-prst-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-20-red-groove-social-club-w-slashy-disco@rave.wien
+DTSTAMP:20251220T000000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:Red Groove Social Club w/ Slashy Disco
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Slashy Disco\nVeranstalter: Red Groove Social Club\n\nhttps:/
+ /rave.wien/e/2025-12-20-red-groove-social-club-w-slashy-disco
+URL:https://rave.wien/e/2025-12-20-red-groove-social-club-w-slashy-disco
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-26-anna-ullrich-pres-achterbahn@rave.wien
+DTSTAMP:20251226T000000Z
+DTSTART;VALUE=DATE:20251226
+DTEND;VALUE=DATE:20251227
+SUMMARY:Anna Ullrich pres. Achterbahn
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Anna Ullrich\nVeranstalter: Achterbahn\n\nhttps://rave.wien/e
+ /2025-12-26-anna-ullrich-pres-achterbahn
+URL:https://rave.wien/e/2025-12-26-anna-ullrich-pres-achterbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-31-nye-at-prst-club@rave.wien
+DTSTAMP:20251231T000000Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:NYE at PRST Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-12-31-nye-at-prst-club
+URL:https://rave.wien/e/2025-12-31-nye-at-prst-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-09-saint-ludo-at-park-it-here@rave.wien
+DTSTAMP:20260109T000000Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:Saint Ludo at PARK IT HERE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Saint Ludo\nVeranstalter: Park It Here\n\nhttps://rave.wien/e
+ /2026-01-09-saint-ludo-at-park-it-here
+URL:https://rave.wien/e/2026-01-09-saint-ludo-at-park-it-here
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-10-radio-rudina-invites-marie-montexier@rave.wien
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:Radio Rudina invites MARIE MONTEXIER
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Marie Montexier\nVeranstalter: Radio Rudina\n\nhttps://rave.w
+ ien/e/2026-01-10-radio-rudina-invites-marie-montexier
+URL:https://rave.wien/e/2026-01-10-radio-rudina-invites-marie-montexier
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-16-groove-revival-x-dig-this@rave.wien
+DTSTAMP:20260116T000000Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:Groove Revival x Dig This
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Groove Revival\n\nhttps://rave.wien/e/2026-01-1
+ 6-groove-revival-x-dig-this
+URL:https://rave.wien/e/2026-01-16-groove-revival-x-dig-this
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-17-rhythm-science@rave.wien
+DTSTAMP:20260117T000000Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:Rhythm Science
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\n\nhttps://rave.wien/e/2026-01-1
+ 7-rhythm-science
+URL:https://rave.wien/e/2026-01-17-rhythm-science
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-23-anna-ullrich-pres-achterbahn@rave.wien
+DTSTAMP:20260123T000000Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Anna Ullrich pres. Achterbahn
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Anna Ullrich\nVeranstalter: Achterbahn\n\nhttps://rave.wien/e
+ /2026-01-23-anna-ullrich-pres-achterbahn
+URL:https://rave.wien/e/2026-01-23-anna-ullrich-pres-achterbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-24-red-groove-social-club-with-dk-it-s-george-techno@rave.wien
+DTSTAMP:20260124T000000Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:RED GROOVE (Social Club) with DK\, IT’S GEORGE\, Techno Ganoven
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DK\, It’s George\, Techno Ganoven\nVeranstalter: Red Groove
+  Social Club\n\nhttps://rave.wien/e/2026-01-24-red-groove-social-club-wi
+ th-dk-it-s-george-techno
+URL:https://rave.wien/e/2026-01-24-red-groove-social-club-with-dk-it-s-ge
+ orge-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-29-wu-wolves@rave.wien
+DTSTAMP:20260129T000000Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:WU WOLVES
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Wu Wolves\n\nhttps://rave.wien/e/2026-01-29-wu-
+ wolves
+URL:https://rave.wien/e/2026-01-29-wu-wolves
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-30-vie-w-presents-mayell-apua-birthday-clash@rave.wien
+DTSTAMP:20260130T000000Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:vie.w presents Mayell (Apua‘ Birthday Clash)
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Mayell\, Apua\nVeranstalter: VIE.W\n\nhttps://rave.wien/e/202
+ 6-01-30-vie-w-presents-mayell-apua-birthday-clash
+URL:https://rave.wien/e/2026-01-30-vie-w-presents-mayell-apua-birthday-cl
+ ash
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-31-in-love-x-sound-sound@rave.wien
+DTSTAMP:20260131T000000Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:IN LOVE x SOUND SOUND
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: In Love\n\nhttps://rave.wien/e/2026-01-31-in-lo
+ ve-x-sound-sound
+URL:https://rave.wien/e/2026-01-31-in-love-x-sound-sound
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-05-afro-wave@rave.wien
+DTSTAMP:20260205T000000Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:AFRO WAVE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-02-05-afro-wave
+URL:https://rave.wien/e/2026-02-05-afro-wave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-06-disco-ball-w-wolfram@rave.wien
+DTSTAMP:20260206T000000Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:DISCO BALL W/ WOLFRAM
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Wolfram\n\nhttps://rave.wien/e/2026-02-06-disco-ball-w-wolfram
+URL:https://rave.wien/e/2026-02-06-disco-ball-w-wolfram
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-07-straat-264@rave.wien
+DTSTAMP:20260207T000000Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:STRAAT 264
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Straat 264\n\nhttps://rave.wien/e/2026-02-07-st
+ raat-264
+URL:https://rave.wien/e/2026-02-07-straat-264
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-13-tasteless-valentine-s-special@rave.wien
+DTSTAMP:20260213T000000Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:TASTELESS – VALENTINE‘S SPECIAL
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Tasteless\n\nhttps://rave.wien/e/2026-02-13-tas
+ teless-valentine-s-special
+URL:https://rave.wien/e/2026-02-13-tasteless-valentine-s-special
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-14-achterbahn@rave.wien
+DTSTAMP:20260214T000000Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:ACHTERBAHN
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Achterbahn\n\nhttps://rave.wien/e/2026-02-14-ac
+ hterbahn
+URL:https://rave.wien/e/2026-02-14-achterbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-19-baseline@rave.wien
+DTSTAMP:20260219T000000Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:BASELINE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Baseline\n\nhttps://rave.wien/e/2026-02-19-base
+ line
+URL:https://rave.wien/e/2026-02-19-baseline
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-20-prst-invites-the-trip@rave.wien
+DTSTAMP:20260220T000000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:PRST INVITES THE TRIP
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:The Trip\n\nhttps://rave.wien/e/2026-02-20-prst-invites-the-t
+ rip
+URL:https://rave.wien/e/2026-02-20-prst-invites-the-trip
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-21-misguided-x-drei-vinyl@rave.wien
+DTSTAMP:20260221T000000Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:MISGUIDED X DREI VINYL
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Misguided\n\nhttps://rave.wien/e/2026-02-21-mis
+ guided-x-drei-vinyl
+URL:https://rave.wien/e/2026-02-21-misguided-x-drei-vinyl
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-27-auf-der-lauer@rave.wien
+DTSTAMP:20260227T000000Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:AUF DER LAUER
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Auf der Lauer\n\nhttps://rave.wien/e/2026-02-27
+ -auf-der-lauer
+URL:https://rave.wien/e/2026-02-27-auf-der-lauer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-28-red-groove-social-club-with-ii-faces-fr-red-groov@rave.wien
+DTSTAMP:20260228T000000Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:RED GROOVE (Social Club) with II-FACES (FR) & Red Groove System
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Ii-faces\, Red Groove System\nVeranstalter: Red Groove Social
+  Club\n\nhttps://rave.wien/e/2026-02-28-red-groove-social-club-with-ii-f
+ aces-fr-red-groov
+URL:https://rave.wien/e/2026-02-28-red-groove-social-club-with-ii-faces-f
+ r-red-groov
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-05-wu-wolves@rave.wien
+DTSTAMP:20260305T000000Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:WU WOLVES
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Wu Wolves\n\nhttps://rave.wien/e/2026-03-05-wu-
+ wolves
+URL:https://rave.wien/e/2026-03-05-wu-wolves
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-06-6-years-prst@rave.wien
+DTSTAMP:20260306T000000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:6 YEARS PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-03-06-6-years-prst
+URL:https://rave.wien/e/2026-03-06-6-years-prst
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-07-6-years-prst@rave.wien
+DTSTAMP:20260307T000000Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:6 YEARS PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-03-07-6-years-prst
+URL:https://rave.wien/e/2026-03-07-6-years-prst
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-13-toy-tonics-jam-vienna@rave.wien
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:TOY TONICS JAM VIENNA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Toy Tonics\n\nhttps://rave.wien/e/2026-03-13-to
+ y-tonics-jam-vienna
+URL:https://rave.wien/e/2026-03-13-toy-tonics-jam-vienna
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-14-achterbahn@rave.wien
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:ACHTERBAHN
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Achterbahn\n\nhttps://rave.wien/e/2026-03-14-ac
+ hterbahn
+URL:https://rave.wien/e/2026-03-14-achterbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-19-kevin-cool@rave.wien
+DTSTAMP:20260319T000000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:KEVIN COOL
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-03-19-kevin-cool
+URL:https://rave.wien/e/2026-03-19-kevin-cool
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-20-8-years-rhythm-science@rave.wien
+DTSTAMP:20260320T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:8 YEARS RHYTHM SCIENCE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\n\nhttps://rave.wien/e/2026-03-2
+ 0-8-years-rhythm-science
+URL:https://rave.wien/e/2026-03-20-8-years-rhythm-science
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-21-red-groove-social-club-with-jules-jay-leeb-red-gr@rave.wien
+DTSTAMP:20260321T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:RED GROOVE (Social Club) with Jules Jay\, Leeb & Red Groove System
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Jules Jay\, Leeb\, Red Groove System\nVeranstalter: Red Groov
+ e Social Club\n\nhttps://rave.wien/e/2026-03-21-red-groove-social-club-w
+ ith-jules-jay-leeb-red-gr
+URL:https://rave.wien/e/2026-03-21-red-groove-social-club-with-jules-jay-
+ leeb-red-gr
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-27-meier-w-dj-deep@rave.wien
+DTSTAMP:20260327T000000Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:MEIER W/ DJ DEEP
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DJ Deep\nVeranstalter: Meier\n\nhttps://rave.wien/e/2026-03-2
+ 7-meier-w-dj-deep
+URL:https://rave.wien/e/2026-03-27-meier-w-dj-deep
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-28-redivider-pres-dina@rave.wien
+DTSTAMP:20260328T000000Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:REDIVIDER pres. DINA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DINA\nVeranstalter: Redivider\n\nhttps://rave.wien/e/2026-03-
+ 28-redivider-pres-dina
+URL:https://rave.wien/e/2026-03-28-redivider-pres-dina
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-02-grundonnerstag@rave.wien
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:GRÜNDONNERSTAG
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-04-02-grundonnerstag
+URL:https://rave.wien/e/2026-04-02-grundonnerstag
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-03-cybertribe@rave.wien
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:CYBERTRIBE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Cybertribe\n\nhttps://rave.wien/e/2026-04-03-cy
+ bertribe
+URL:https://rave.wien/e/2026-04-03-cybertribe
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-04-house-of-ludic@rave.wien
+DTSTAMP:20260404T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:HOUSE OF LUDIC
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: House of Ludic\n\nhttps://rave.wien/e/2026-04-0
+ 4-house-of-ludic
+URL:https://rave.wien/e/2026-04-04-house-of-ludic
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-05-planet-b@rave.wien
+DTSTAMP:20260405T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:PLANET B
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-04-05-planet-b
+URL:https://rave.wien/e/2026-04-05-planet-b
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-10-red-groove-social-club-presents-dan-ghenacia-red@rave.wien
+DTSTAMP:20260410T000000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:RED GROOVE (Social Club) presents: Dan Ghenacia & RED GROOVE SYST
+ EM
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Dan Ghenacia\, Red Groove System\nVeranstalter: Red Groove So
+ cial Club\n\nhttps://rave.wien/e/2026-04-10-red-groove-social-club-prese
+ nts-dan-ghenacia-red
+URL:https://rave.wien/e/2026-04-10-red-groove-social-club-presents-dan-gh
+ enacia-red
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-11-mahlwerk-presents-kim-swim@rave.wien
+DTSTAMP:20260411T000000Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:MAHLWERK presents KIM SWIM
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Kim Swim\nVeranstalter: Mahlwerk\n\nhttps://rave.wien/e/2026-
+ 04-11-mahlwerk-presents-kim-swim
+URL:https://rave.wien/e/2026-04-11-mahlwerk-presents-kim-swim
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-15-dance-2-house@rave.wien
+DTSTAMP:20260415T000000Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:DANCE 2 HOUSE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Dance 2 House\n\nhttps://rave.wien/e/2026-04-15
+ -dance-2-house
+URL:https://rave.wien/e/2026-04-15-dance-2-house
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-16-crisp@rave.wien
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:CRISP
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Crisp\n\nhttps://rave.wien/e/2026-04-16-crisp
+URL:https://rave.wien/e/2026-04-16-crisp
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-17-blur@rave.wien
+DTSTAMP:20260417T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:BLUR
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: BLUR\n\nhttps://rave.wien/e/2026-04-17-blur
+URL:https://rave.wien/e/2026-04-17-blur
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-18-10-years-merkwurdig-anniversary@rave.wien
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:10 YEARS MERKWÜRDIG ANNIVERSARY
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Merkwürdig\n\nhttps://rave.wien/e/2026-04-18-1
+ 0-years-merkwurdig-anniversary
+URL:https://rave.wien/e/2026-04-18-10-years-merkwurdig-anniversary
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-22-dance-2-house@rave.wien
+DTSTAMP:20260422T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:DANCE 2 HOUSE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Dance 2 House\n\nhttps://rave.wien/e/2026-04-22
+ -dance-2-house
+URL:https://rave.wien/e/2026-04-22-dance-2-house
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-24-prst-invites-traumer@rave.wien
+DTSTAMP:20260424T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:PRST INVITES TRAUMER
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Traumer\n\nhttps://rave.wien/e/2026-04-24-prst-invites-traumer
+URL:https://rave.wien/e/2026-04-24-prst-invites-traumer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-25-achterbahn@rave.wien
+DTSTAMP:20260425T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:ACHTERBAHN
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Achterbahn\n\nhttps://rave.wien/e/2026-04-25-ac
+ hterbahn
+URL:https://rave.wien/e/2026-04-25-achterbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-29-dance-2-house@rave.wien
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:DANCE 2 HOUSE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Dance 2 House\n\nhttps://rave.wien/e/2026-04-29
+ -dance-2-house
+URL:https://rave.wien/e/2026-04-29-dance-2-house
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-30-tasteless-x-vibrant-uk-with-melody@rave.wien
+DTSTAMP:20260430T000000Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:TASTELESS X VIBRANT (UK) with MELODY
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Melody\nVeranstalter: Tasteless\n\nhttps://rave.wien/e/2026-0
+ 4-30-tasteless-x-vibrant-uk-with-melody
+URL:https://rave.wien/e/2026-04-30-tasteless-x-vibrant-uk-with-melody
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-01-skalah-jolie-p-en-vy-at-park-it-here@rave.wien
+DTSTAMP:20260501T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:SKALAH & JOLIE P & EN:VY at PARK IT HERE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Skalah\, Jolie P\, En:vy\nVeranstalter: Park It Here\n\nhttps
+ ://rave.wien/e/2026-05-01-skalah-jolie-p-en-vy-at-park-it-here
+URL:https://rave.wien/e/2026-05-01-skalah-jolie-p-en-vy-at-park-it-here
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-02-rumi-s-birthday-bash@rave.wien
+DTSTAMP:20260502T000000Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:RUMI'S BIRTHDAY BASH
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-05-02-rumi-s-birthday-bash
+URL:https://rave.wien/e/2026-05-02-rumi-s-birthday-bash
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-06-dance-2-house@rave.wien
+DTSTAMP:20260506T000000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:DANCE 2 HOUSE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Dance 2 House\n\nhttps://rave.wien/e/2026-05-06
+ -dance-2-house
+URL:https://rave.wien/e/2026-05-06-dance-2-house
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-08-prst-invites-hearthug-iambp@rave.wien
+DTSTAMP:20260508T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:PRST INVITES HEARTHUG & IAMBP
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Hearthug\, Iambp\n\nhttps://rave.wien/e/2026-05-08-prst-invit
+ es-hearthug-iambp
+URL:https://rave.wien/e/2026-05-08-prst-invites-hearthug-iambp
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-09-radio-rudina@rave.wien
+DTSTAMP:20260509T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:RADIO RUDINA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Radio Rudina\n\nhttps://rave.wien/e/2026-05-09-
+ radio-rudina
+URL:https://rave.wien/e/2026-05-09-radio-rudina
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-13-step-forward@rave.wien
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:STEP FORWARD
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Step Forward\n\nhttps://rave.wien/e/2026-05-13-
+ step-forward
+URL:https://rave.wien/e/2026-05-13-step-forward
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-14-donnerstrada@rave.wien
+DTSTAMP:20260514T000000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Donnerstrada
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Donnerstrada\n\nhttps://rave.wien/e/2026-05-14-
+ donnerstrada
+URL:https://rave.wien/e/2026-05-14-donnerstrada
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-15-blur-with-mihai-popoviciu@rave.wien
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:BLUR with Mihai Popoviciu
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Mihai Popoviciu\nVeranstalter: BLUR\n\nhttps://rave.wien/e/20
+ 26-05-15-blur-with-mihai-popoviciu
+URL:https://rave.wien/e/2026-05-15-blur-with-mihai-popoviciu
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-16-anna-ullrich-pres-achterbahn-w-dj-yarak@rave.wien
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Anna Ullrich pres. ACHTERBAHN w DJ YARAK
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DJ Yarak\nVeranstalter: Achterbahn\n\nhttps://rave.wien/e/202
+ 6-05-16-anna-ullrich-pres-achterbahn-w-dj-yarak
+URL:https://rave.wien/e/2026-05-16-anna-ullrich-pres-achterbahn-w-dj-yarak
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-22-prst-invites-raresh@rave.wien
+DTSTAMP:20260522T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:PRST INVITES RARESH
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Raresh\n\nhttps://rave.wien/e/2026-05-22-prst-invites-raresh
+URL:https://rave.wien/e/2026-05-22-prst-invites-raresh
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-28-freiflug-goodnight-at-x-prst@rave.wien
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:FREIFLUG – GOODNIGHT.AT X PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-05-28-freiflug-goodnight-at-x-prst
+URL:https://rave.wien/e/2026-05-28-freiflug-goodnight-at-x-prst
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-29-paris-meets-vienna@rave.wien
+DTSTAMP:20260529T000000Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:PARIS MEETS VIENNA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-05-29-paris-meets-vienna
+URL:https://rave.wien/e/2026-05-29-paris-meets-vienna
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-30-red-groove-social-club-x-hush-with-aat-simon-kidz@rave.wien
+DTSTAMP:20260530T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:RED GROOVE (Social Club) x HUSH with: AAT\, Simon Kidzoo & RED GR
+ OOVE SYSTEM
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:AAT\, Simon Kidzoo\, Red Groove System\nVeranstalter: Red Gro
+ ove Social Club\n\nhttps://rave.wien/e/2026-05-30-red-groove-social-club
+ -x-hush-with-aat-simon-kidz
+URL:https://rave.wien/e/2026-05-30-red-groove-social-club-x-hush-with-aat
+ -simon-kidz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-03-step-forward-pres-juicy-romance@rave.wien
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:STEP FORWARD PRES. Juicy Romance
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Juicy Romance\nVeranstalter: Step Forward\n\nhttps://rave.wie
+ n/e/2026-06-03-step-forward-pres-juicy-romance
+URL:https://rave.wien/e/2026-06-03-step-forward-pres-juicy-romance
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-05-klang909-with-lammer@rave.wien
+DTSTAMP:20260605T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:KLANG909 with LAMMER
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Lammer\n\nhttps://rave.wien/e/2026-06-05-klang909-with-lammer
+URL:https://rave.wien/e/2026-06-05-klang909-with-lammer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-06-anna-ullrich-pres-achterbahn-w-andata@rave.wien
+DTSTAMP:20260606T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Anna Ullrich pres. ACHTERBAHN w ANDATA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Andata\nVeranstalter: Achterbahn\n\nhttps://rave.wien/e/2026-
+ 06-06-anna-ullrich-pres-achterbahn-w-andata
+URL:https://rave.wien/e/2026-06-06-anna-ullrich-pres-achterbahn-w-andata
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-11-bleib-doch-noch@rave.wien
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:BLEIB DOCH NOCH
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-06-11-bleib-doch-noch
+URL:https://rave.wien/e/2026-06-11-bleib-doch-noch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-12-after-the-flood@rave.wien
+DTSTAMP:20260612T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:AFTER THE FLOOD
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-06-12-after-the-flood
+URL:https://rave.wien/e/2026-06-12-after-the-flood
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-13-prst-invites-robert-owens@rave.wien
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:PRST invites Robert Owens
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Robert Owens\n\nhttps://rave.wien/e/2026-06-13-prst-invites-r
+ obert-owens
+URL:https://rave.wien/e/2026-06-13-prst-invites-robert-owens
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-19-blur-with-nu-zau@rave.wien
+DTSTAMP:20260619T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:BLUR with Nu Zau
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Nu Zau\nVeranstalter: BLUR\n\nhttps://rave.wien/e/2026-06-19-
+ blur-with-nu-zau
+URL:https://rave.wien/e/2026-06-19-blur-with-nu-zau
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-20-solsticio-migranto-tropical-southgemacht-traxspro@rave.wien
+DTSTAMP:20260620T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:SOLSTICIO MIGRANTO – Tropical × Southgemacht × Traxspro
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-06-20-solsticio-migranto-tropical-
+ southgemacht-traxspro
+URL:https://rave.wien/e/2026-06-20-solsticio-migranto-tropical-southgemac
+ ht-traxspro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-26-prst-invites-mayell-sibil@rave.wien
+DTSTAMP:20260626T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:PRST invites Mayell & Sibil
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Mayell\, Sibil\n\nhttps://rave.wien/e/2026-06-26-prst-invites
+ -mayell-sibil
+URL:https://rave.wien/e/2026-06-26-prst-invites-mayell-sibil
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-27-fat-international@rave.wien
+DTSTAMP:20260627T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:FAT INTERNATIONAL
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-06-27-fat-international
+URL:https://rave.wien/e/2026-06-27-fat-international
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-03-toy-tonics-jam@rave.wien
+DTSTAMP:20260703T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Toy Tonics JAM
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Toy Tonics\n\nhttps://rave.wien/e/2026-07-03-to
+ y-tonics-jam
+URL:https://rave.wien/e/2026-07-03-toy-tonics-jam
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-04-karolina-b2b-scheibenwisch3r-all-night-long@rave.wien
+DTSTAMP:20260704T000000Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:KAROLINA b2b SCHEIBENWISCH3R All Night Long
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Karolina\, Scheibenwisch3r\n\nhttps://rave.wien/e/2026-07-04-
+ karolina-b2b-scheibenwisch3r-all-night-long
+URL:https://rave.wien/e/2026-07-04-karolina-b2b-scheibenwisch3r-all-night
+ -long
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-10-bassbussi-allstars-edition-vol-2@rave.wien
+DTSTAMP:20260710T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:BASSBUSSI Allstars Edition Vol.2
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Bassbussi\n\nhttps://rave.wien/e/2026-07-10-bas
+ sbussi-allstars-edition-vol-2
+URL:https://rave.wien/e/2026-07-10-bassbussi-allstars-edition-vol-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-16-donnerstrada@rave.wien
+DTSTAMP:20260716T000000Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:DONNERSTRADA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Donnerstrada\n\nhttps://rave.wien/e/2026-07-16-
+ donnerstrada
+URL:https://rave.wien/e/2026-07-16-donnerstrada
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-17-blur@rave.wien
+DTSTAMP:20260717T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:BLUR
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: BLUR\n\nhttps://rave.wien/e/2026-07-17-blur
+URL:https://rave.wien/e/2026-07-17-blur
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-18-park-it-here@rave.wien
+DTSTAMP:20260718T000000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:PARK IT HERE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Park It Here\n\nhttps://rave.wien/e/2026-07-18-
+ park-it-here
+URL:https://rave.wien/e/2026-07-18-park-it-here
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-23-donnerstrada@rave.wien
+DTSTAMP:20260723T000000Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:DONNERSTRADA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Donnerstrada\n\nhttps://rave.wien/e/2026-07-23-
+ donnerstrada
+URL:https://rave.wien/e/2026-07-23-donnerstrada
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-24-amore-x-redivider@rave.wien
+DTSTAMP:20260724T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:AMORE X REDIVIDER
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Redivider\, Amore AG\n\nhttps://rave.wien/e/202
+ 6-07-24-amore-x-redivider
+URL:https://rave.wien/e/2026-07-24-amore-x-redivider
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-25-prst-sommerfest@rave.wien
+DTSTAMP:20260725T000000Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:PRST SOMMERFEST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-07-25-prst-sommerfest
+URL:https://rave.wien/e/2026-07-25-prst-sommerfest
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-31-prst-invites-narciss@rave.wien
+DTSTAMP:20260731T000000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:PRST invites Narciss
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Narciss\n\nhttps://rave.wien/e/2026-07-31-prst-invites-narciss
+URL:https://rave.wien/e/2026-07-31-prst-invites-narciss
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-13-donnerstrada@rave.wien
+DTSTAMP:20260813T000000Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:DONNERSTRADA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Donnerstrada\n\nhttps://rave.wien/e/2026-08-13-
+ donnerstrada
+URL:https://rave.wien/e/2026-08-13-donnerstrada
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-14-travmkind-friends@rave.wien
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:TRAVMKIND & FRIENDS
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Travmkind\n\nhttps://rave.wien/e/2026-08-14-travmkind-friends
+URL:https://rave.wien/e/2026-08-14-travmkind-friends
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-15-prst-klubnacht@rave.wien
+DTSTAMP:20260815T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:PRST KLUBNACHT
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-08-15-prst-klubnacht
+URL:https://rave.wien/e/2026-08-15-prst-klubnacht
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-20-donnerstrada-with-dj-soulglo-sophie-hosner@rave.wien
+DTSTAMP:20260820T000000Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Donnerstrada with DJ Soulglo & Sophie Hosner
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DJ Soulglo\, Sophie Hosner\nVeranstalter: Donnerstrada\n\nhtt
+ ps://rave.wien/e/2026-08-20-donnerstrada-with-dj-soulglo-sophie-hosner
+URL:https://rave.wien/e/2026-08-20-donnerstrada-with-dj-soulglo-sophie-ho
+ sner
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-21-eyes-001@rave.wien
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:EYES 001
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-08-21-eyes-001
+URL:https://rave.wien/e/2026-08-21-eyes-001
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-22-frazi-er-selects-vienna@rave.wien
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:Frazi.er selects: Vienna
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Frazi.er\n\nhttps://rave.wien/e/2026-08-22-frazi-er-selects-v
+ ienna
+URL:https://rave.wien/e/2026-08-22-frazi-er-selects-vienna
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-27-donnerstrada-with-lisstn-memet-acuma@rave.wien
+DTSTAMP:20260827T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:DONNERSTRADA with LiSSTN & Memet Acuma
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:LiSSTN\, Memet Acuma\nVeranstalter: Donnerstrada\n\nhttps://r
+ ave.wien/e/2026-08-27-donnerstrada-with-lisstn-memet-acuma
+URL:https://rave.wien/e/2026-08-27-donnerstrada-with-lisstn-memet-acuma
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-28-fluffig-x-achterbahn@rave.wien
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:FLUFFIG X ACHTERBAHN
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Achterbahn\, Fluffig\n\nhttps://rave.wien/e/202
+ 6-08-28-fluffig-x-achterbahn
+URL:https://rave.wien/e/2026-08-28-fluffig-x-achterbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-29-prst-klubnacht@rave.wien
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:PRST Klubnacht
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-08-29-prst-klubnacht
+URL:https://rave.wien/e/2026-08-29-prst-klubnacht
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-04-rhythm-science@rave.wien
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:RHYTHM SCIENCE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\n\nhttps://rave.wien/e/2026-09-0
+ 4-rhythm-science
+URL:https://rave.wien/e/2026-09-04-rhythm-science
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-blur@rave.wien
+DTSTAMP:20260905T000000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:BLUR
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: BLUR\n\nhttps://rave.wien/e/2026-09-05-blur
+URL:https://rave.wien/e/2026-09-05-blur
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-donnerstrada@rave.wien
+DTSTAMP:20260910T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:DONNERSTRADA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Donnerstrada\n\nhttps://rave.wien/e/2026-09-10-
+ donnerstrada
+URL:https://rave.wien/e/2026-09-10-donnerstrada
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-tasteless-x-mania@rave.wien
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:TASTELESS X MANIA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Tasteless\n\nhttps://rave.wien/e/2026-09-11-tas
+ teless-x-mania
+URL:https://rave.wien/e/2026-09-11-tasteless-x-mania
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-12-champion-at-park-it-here-uk-garage-bassline-grime@rave.wien
+DTSTAMP:20260912T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Champion at PARK IT HERE – UK GARAGE / BASSLINE / GRIME / DNB
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Champion\nVeranstalter: Park It Here\n\nhttps://rave.wien/e/2
+ 026-09-12-champion-at-park-it-here-uk-garage-bassline-grime
+URL:https://rave.wien/e/2026-09-12-champion-at-park-it-here-uk-garage-bas
+ sline-grime
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-meier@rave.wien
+DTSTAMP:20260918T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:MEIER
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Meier\n\nhttps://rave.wien/e/2026-09-18-meier
+URL:https://rave.wien/e/2026-09-18-meier
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-red-groove-social-club-with-twoslice@rave.wien
+DTSTAMP:20260919T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:RED GROOVE (Social Club) with TwoSlice
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:TwoSlice\nVeranstalter: Red Groove Social Club\n\nhttps://rav
+ e.wien/e/2026-09-19-red-groove-social-club-with-twoslice
+URL:https://rave.wien/e/2026-09-19-red-groove-social-club-with-twoslice
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-donnerstrada-x-turbo-thursday@rave.wien
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:DONNERSTRADA X TURBO THURSDAY
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Donnerstrada\n\nhttps://rave.wien/e/2026-09-24-
+ donnerstrada-x-turbo-thursday
+URL:https://rave.wien/e/2026-09-24-donnerstrada-x-turbo-thursday
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-auf-der-lauer@rave.wien
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:AUF DER LAUER
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Auf der Lauer\n\nhttps://rave.wien/e/2026-09-25
+ -auf-der-lauer
+URL:https://rave.wien/e/2026-09-25-auf-der-lauer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-toy-tonics-jam-vienna@rave.wien
+DTSTAMP:20260926T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:TOY TONICS JAM VIENNA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Toy Tonics\n\nhttps://rave.wien/e/2026-09-26-to
+ y-tonics-jam-vienna
+URL:https://rave.wien/e/2026-09-26-toy-tonics-jam-vienna
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-fora@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T220000

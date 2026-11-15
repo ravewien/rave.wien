@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-15-praternostra-invites-tommahawk-rosa-rosen@rave.wien
+DTSTAMP:20251115T000000Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:PRATERNOSTRA invites Tommahawk & Rosa Rosen
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Tommahawk\, Rosa Rosen\nVeranstalter: Praternostra\n\nhttps:/
+ /rave.wien/e/2025-11-15-praternostra-invites-tommahawk-rosa-rosen
+URL:https://rave.wien/e/2025-11-15-praternostra-invites-tommahawk-rosa-ro
+ sen
+END:VEVENT
 END:VCALENDAR

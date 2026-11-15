@@ -26,6 +26,18 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2025-10-04-salon-magika-x-citruscue-x-subwaves-with-drahthau@rave.wien
+DTSTAMP:20251004T000000Z
+DTSTART;VALUE=DATE:20251004
+DTEND;VALUE=DATE:20251005
+SUMMARY:Salon Magika x CitrusCue x SubWaves with Drahthaus
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Drahthaus\nVeranstalter: Magika\n\nhttps://rave.wien/e/2025-1
+ 0-04-salon-magika-x-citruscue-x-subwaves-with-drahthau
+URL:https://rave.wien/e/2025-10-04-salon-magika-x-citruscue-x-subwaves-wi
+ th-drahthau
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-drahthaus-album-release-show-x-toga@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T210000

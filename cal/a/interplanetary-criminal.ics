@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-01-30-mahlwerk-interplanetary-criminal-justin-jay@rave.wien
+DTSTAMP:20260130T000000Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:MAHLWERK: Interplanetary Criminal & Justin Jay
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Interplanetary Criminal\, Justin Jay\nVeranstalter: Mahlwerk\
+ n\nhttps://rave.wien/e/2026-01-30-mahlwerk-interplanetary-criminal-justi
+ n-jay
+URL:https://rave.wien/e/2026-01-30-mahlwerk-interplanetary-criminal-justi
+ n-jay
+END:VEVENT
 END:VCALENDAR

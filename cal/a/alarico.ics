@@ -25,4 +25,29 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-17-fish-market-w-alarico-mutual-rytm-gerald-vdh-schl@rave.wien
+DTSTAMP:20240517T000000Z
+DTSTART;VALUE=DATE:20240517
+DTEND;VALUE=DATE:20240518
+SUMMARY:FISH MARKET w/ ALARICO (Mutual Rytm)\, Gerald VDH & Schlachthaus-
+ Floor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alarico\, Gerald VDH\nVeranstalter: Fish Market\, Schlachthau
+ s\n\nhttps://rave.wien/e/2024-05-17-fish-market-w-alarico-mutual-rytm-ge
+ rald-vdh-schl
+URL:https://rave.wien/e/2024-05-17-fish-market-w-alarico-mutual-rytm-gera
+ ld-vdh-schl
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-24-grelle-forelle-sommerfest@rave.wien
+DTSTAMP:20260724T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:Grelle Forelle Sommerfest
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alarico\, SHDW\, Alex Maurer\, Violetta\n\nhttps://rave.wien/
+ e/2026-07-24-grelle-forelle-sommerfest
+URL:https://rave.wien/e/2026-07-24-grelle-forelle-sommerfest
+END:VEVENT
 END:VCALENDAR

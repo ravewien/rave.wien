@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-13-blckshift-anniversary-session-with-don-darkoe-atm@rave.wien
+DTSTAMP:20251113T000000Z
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251114
+SUMMARY:BLCKSHIFT ANNIVERSARY SESSION with Don Darkoe\, Atmos & Feistling
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Don Darkoe\, Atmos\, Feistling\n\nhttps://rave.wien/e/2025-11
+ -13-blckshift-anniversary-session-with-don-darkoe-atm
+URL:https://rave.wien/e/2025-11-13-blckshift-anniversary-session-with-don
+ -darkoe-atm
+END:VEVENT
 END:VCALENDAR

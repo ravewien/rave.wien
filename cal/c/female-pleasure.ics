@@ -25,4 +25,62 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-30-love-at-first-sight-im-garten-von-eben@rave.wien
+DTSTAMP:20241130T000000Z
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241201
+SUMMARY:Love at first sight im Garten von Eben
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Garten von Eben\, Female Pleasure\n\nhttps://ra
+ ve.wien/e/2024-11-30-love-at-first-sight-im-garten-von-eben
+URL:https://rave.wien/e/2024-11-30-love-at-first-sight-im-garten-von-eben
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-03-love-at-first-sight-female-pleasure@rave.wien
+DTSTAMP:20250503T000000Z
+DTSTART;VALUE=DATE:20250503
+DTEND;VALUE=DATE:20250504
+SUMMARY:LOVE AT FIRST SIGHT – FEMALE PLEASURE
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Female Pleasure\n\nhttps://rave.wien/e/2025-05-
+ 03-love-at-first-sight-female-pleasure
+URL:https://rave.wien/e/2025-05-03-love-at-first-sight-female-pleasure
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-19-female-pleasure-2@rave.wien
+DTSTAMP:20250919T000000Z
+DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250920
+SUMMARY:Female Pleasure #2
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Female Pleasure\n\nhttps://rave.wien/e/2025-09-
+ 19-female-pleasure-2
+URL:https://rave.wien/e/2025-09-19-female-pleasure-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-14-female-pleasure-3@rave.wien
+DTSTAMP:20251114T000000Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:Female Pleasure #3
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Female Pleasure\n\nhttps://rave.wien/e/2025-11-
+ 14-female-pleasure-3
+URL:https://rave.wien/e/2025-11-14-female-pleasure-3
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-06-love-at-first-sight-zartcore@rave.wien
+DTSTAMP:20251206T000000Z
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:LOVE AT FIRST SIGHT – ZARTCORE
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Veranstalter: Female Pleasure\n\nhttps://rave.wien/e/2025-12-
+ 06-love-at-first-sight-zartcore
+URL:https://rave.wien/e/2025-12-06-love-at-first-sight-zartcore
+END:VEVENT
 END:VCALENDAR

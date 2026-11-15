@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-05-31-spectral-with-belocca@rave.wien
+DTSTAMP:20250531T000000Z
+DTSTART;VALUE=DATE:20250531
+DTEND;VALUE=DATE:20250601
+SUMMARY:Spectral with Belocca
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Belocca\nVeranstalter: Spectral\n\nhttps://rave.wien/e/2025-0
+ 5-31-spectral-with-belocca
+URL:https://rave.wien/e/2025-05-31-spectral-with-belocca
+END:VEVENT
 END:VCALENDAR

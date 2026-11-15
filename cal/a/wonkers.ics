@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-09-13-morgengymnastik-w-wonkers@rave.wien
+DTSTAMP:20260913T000000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Morgengymnastik w/Wonkers
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Wonkers\nVeranstalter: Morgengymnastik\n\nhttps://rave.wien/e
+ /2026-09-13-morgengymnastik-w-wonkers
+URL:https://rave.wien/e/2026-09-13-morgengymnastik-w-wonkers
+END:VEVENT
 END:VCALENDAR

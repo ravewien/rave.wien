@@ -47,6 +47,32 @@ DESCRIPTION:Mainfloor: Paraçek\, MARØ\, Vivienna\nKitchen: Felix Ruppre
 URL:https://rave.wien/e/2026-11-14-paradies-garten-w-paracek
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-03-20-fish-market-feat-lars-huismann-gerald-vdh-manu-ra@rave.wien
+DTSTAMP:20260320T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:FISH MARKET feat. Lars Huismann\, Gerald VDH\, Manu:ra\, Felix Ru
+ pprecht\, Flausche
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Lars Huismann\, Gerald VDH\, Manu:ra\, Felix Rupprecht\, Flau
+ sche\nVeranstalter: Fish Market\n\nhttps://rave.wien/e/2026-03-20-fish-m
+ arket-feat-lars-huismann-gerald-vdh-manu-ra
+URL:https://rave.wien/e/2026-03-20-fish-market-feat-lars-huismann-gerald-
+ vdh-manu-ra
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-09-lighthouse-x-grelle-forelle-warmup-vie@rave.wien
+DTSTAMP:20260509T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Lighthouse X Grelle Forelle Warmup VIE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Dj Fuckoff\, Helena Lauwaert\, Pau\, Alice\, Felix Rupprecht\
+ , Muallem\, Sumi\nVeranstalter: Lighthouse\n\nhttps://rave.wien/e/2026-0
+ 5-09-lighthouse-x-grelle-forelle-warmup-vie
+URL:https://rave.wien/e/2026-05-09-lighthouse-x-grelle-forelle-warmup-vie
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-07-traveling-without-moving@rave.wien
 DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Vienna:20261107T220000

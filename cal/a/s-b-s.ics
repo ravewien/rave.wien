@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-09-07-sin-x-uberdruck-soundsystem-w-gehlektek-blazin-bo@rave.wien
+DTSTAMP:20240907T000000Z
+DTSTART;VALUE=DATE:20240907
+DTEND;VALUE=DATE:20240908
+SUMMARY:SIN x Überdruck Soundsystem w/ GehLekTek\, Blazin' Bomzai\, Ting
+ elTangelTek + S.B.S.\, Illtek
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Gehlektek\, Blazin' Bomzai\, TingelTangelTek\, S.b.s\, Illtek
+ \nVeranstalter: SIN\, Überdruck\n\nhttps://rave.wien/e/2024-09-07-sin-x
+ -uberdruck-soundsystem-w-gehlektek-blazin-bo
+URL:https://rave.wien/e/2024-09-07-sin-x-uberdruck-soundsystem-w-gehlekte
+ k-blazin-bo
+END:VEVENT
 END:VCALENDAR

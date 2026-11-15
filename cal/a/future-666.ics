@@ -25,4 +25,27 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-09-bcco-with-bad-boombox-future-666@rave.wien
+DTSTAMP:20241109T000000Z
+DTSTART;VALUE=DATE:20241109
+DTEND;VALUE=DATE:20241110
+SUMMARY:BCCO with Bad Boombox & future.666
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Bad Boombox\, Future.666\n\nhttps://rave.wien/e/2024-11-09-bc
+ co-with-bad-boombox-future-666
+URL:https://rave.wien/e/2024-11-09-bcco-with-bad-boombox-future-666
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-yn-x-bcco-club-night@rave.wien
+DTSTAMP:20260926T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:YN x BCCO Club Night
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Fenimore\, Future.666\, FX-31\, Juan Caballo\, Karolina\, Mia
+  Mia\, Sarica\, Static Bloom\nVeranstalter: YN Collective\n\nhttps://rav
+ e.wien/e/2026-09-26-yn-x-bcco-club-night
+URL:https://rave.wien/e/2026-09-26-yn-x-bcco-club-night
+END:VEVENT
 END:VCALENDAR

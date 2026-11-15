@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-07-11-cardio-cult-invites-80k-and-rudina@rave.wien
+DTSTAMP:20250711T000000Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+SUMMARY:Cardio Cult invites: 80k and Rudina
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:80k\, Rudina\nVeranstalter: Cardio Cult\n\nhttps://rave.wien/
+ e/2025-07-11-cardio-cult-invites-80k-and-rudina
+URL:https://rave.wien/e/2025-07-11-cardio-cult-invites-80k-and-rudina
+END:VEVENT
 END:VCALENDAR

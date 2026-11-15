@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-12-06-dualism-with-l-zwo-nike101-uvm@rave.wien
+DTSTAMP:20251206T000000Z
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:DUALISM with L.zwo\, NIKE101 uvm
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:L.zwo\, Nike101\nVeranstalter: Dualism\n\nhttps://rave.wien/e
+ /2025-12-06-dualism-with-l-zwo-nike101-uvm
+URL:https://rave.wien/e/2025-12-06-dualism-with-l-zwo-nike101-uvm
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-04-step-forward-pres-l-zwo@rave.wien
+DTSTAMP:20260404T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:STEP FORWARD pres. L.ZWO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:L.zwo\nVeranstalter: Step Forward\n\nhttps://rave.wien/e/2026
+ -04-04-step-forward-pres-l-zwo
+URL:https://rave.wien/e/2026-04-04-step-forward-pres-l-zwo
+END:VEVENT
 END:VCALENDAR

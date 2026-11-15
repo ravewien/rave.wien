@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-21-contrast-11-yrs-anniversary-w-skeptical-visages-s@rave.wien
+DTSTAMP:20260221T000000Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:CONTRAST – 11 YRS ANNIVERSARY w/ SKEPTICAL + VISAGES + SUBMARIN
+ E | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Skeptical\, Visages\, Submarine\nVeranstalter: Contrast\n\nht
+ tps://rave.wien/e/2026-02-21-contrast-11-yrs-anniversary-w-skeptical-vis
+ ages-s
+URL:https://rave.wien/e/2026-02-21-contrast-11-yrs-anniversary-w-skeptica
+ l-visages-s
+END:VEVENT
 END:VCALENDAR

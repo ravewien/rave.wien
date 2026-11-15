@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-11-tattu-tatta-glub-glub-hotline@rave.wien
+DTSTAMP:20240511T000000Z
+DTSTART;TZID=Europe/Vienna:20240511T230000
+DTEND;TZID=Europe/Vienna:20240512T040000
+SUMMARY:Tattu Tatta Glub | Glub Hotline
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Babybens\, Dj Wenzel\, Dj Https\, Rebekah Abdeen\, Serafin\, 
+ DJ Shady MF\, Dream DJ Team\nVeranstalter: Tattu Tatta Glub\n\nhttps://r
+ ave.wien/e/2024-05-11-tattu-tatta-glub-glub-hotline
+URL:https://rave.wien/e/2024-05-11-tattu-tatta-glub-glub-hotline
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-03-klopf-klopf-album-release-party-dream-dj-team@rave.wien
+DTSTAMP:20241003T000000Z
+DTSTART;VALUE=DATE:20241003
+DTEND;VALUE=DATE:20241004
+SUMMARY:"Klopf Klopf" Album Release Party – Dream DJ Team
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Dream DJ Team\n\nhttps://rave.wien/e/2024-10-03-klopf-klopf-a
+ lbum-release-party-dream-dj-team
+URL:https://rave.wien/e/2024-10-03-klopf-klopf-album-release-party-dream-
+ dj-team
+END:VEVENT
 END:VCALENDAR

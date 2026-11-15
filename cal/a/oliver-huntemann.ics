@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-20-neonnostra-w-oliver-huntemann@rave.wien
+DTSTAMP:20250620T000000Z
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+SUMMARY:NeonNostra /w Oliver Huntemann
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Oliver Huntemann\nVeranstalter: Praternostra\n\nhttps://rave.
+ wien/e/2025-06-20-neonnostra-w-oliver-huntemann
+URL:https://rave.wien/e/2025-06-20-neonnostra-w-oliver-huntemann
+END:VEVENT
 END:VCALENDAR

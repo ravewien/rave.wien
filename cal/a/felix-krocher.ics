@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-09-11-schranz-is-back-w-felix-krocher@rave.wien
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:SCHRANZ is BACK w/ Felix Kröcher
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Felix Kröcher\n\nhttps://rave.wien/e/2026-09-11-schranz-is-b
+ ack-w-felix-krocher
+URL:https://rave.wien/e/2026-09-11-schranz-is-back-w-felix-krocher
+END:VEVENT
 END:VCALENDAR

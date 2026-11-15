@@ -25,4 +25,27 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-12-12-astralunio-pres-avalon-rugrats@rave.wien
+DTSTAMP:20251212T000000Z
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251213
+SUMMARY:Astralunio pres. AVALON & RUGRATS
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Avalon\, Rugrats\n\nhttps://rave.wien/e/2025-12-12-astralunio
+ -pres-avalon-rugrats
+URL:https://rave.wien/e/2025-12-12-astralunio-pres-avalon-rugrats
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-one-day-night-in-paradise-with-avalon-tristan@rave.wien
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:One Day & Night in Paradise with Avalon & Tristan
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Avalon\, Tristan\n\nhttps://rave.wien/e/2026-10-16-one-day-ni
+ ght-in-paradise-with-avalon-tristan
+URL:https://rave.wien/e/2026-10-16-one-day-night-in-paradise-with-avalon-
+ tristan
+END:VEVENT
 END:VCALENDAR

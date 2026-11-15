@@ -25,4 +25,160 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-02-15-raveladen-35@rave.wien
+DTSTAMP:20240215T000000Z
+DTSTART;VALUE=DATE:20240215
+DTEND;VALUE=DATE:20240216
+SUMMARY:RAVELADEN #35
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Raveladen\n\nhttps://rave.wien/e/2024-02-15-rav
+ eladen-35
+URL:https://rave.wien/e/2024-02-15-raveladen-35
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-03-21-raveladen-36@rave.wien
+DTSTAMP:20240321T000000Z
+DTSTART;VALUE=DATE:20240321
+DTEND;VALUE=DATE:20240322
+SUMMARY:RAVELADEN #36
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Raveladen\n\nhttps://rave.wien/e/2024-03-21-rav
+ eladen-36
+URL:https://rave.wien/e/2024-03-21-raveladen-36
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-11-raveladen@rave.wien
+DTSTAMP:20240411T000000Z
+DTSTART;VALUE=DATE:20240411
+DTEND;VALUE=DATE:20240412
+SUMMARY:RAVELADEN
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Raveladen\n\nhttps://rave.wien/e/2024-04-11-rav
+ eladen
+URL:https://rave.wien/e/2024-04-11-raveladen
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-06-raveladen@rave.wien
+DTSTAMP:20240606T000000Z
+DTSTART;VALUE=DATE:20240606
+DTEND;VALUE=DATE:20240607
+SUMMARY:RAVELADEN
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Raveladen\n\nhttps://rave.wien/e/2024-06-06-rav
+ eladen
+URL:https://rave.wien/e/2024-06-06-raveladen
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-08-raveladen-x-shameless@rave.wien
+DTSTAMP:20240808T000000Z
+DTSTART;VALUE=DATE:20240808
+DTEND;VALUE=DATE:20240809
+SUMMARY:RAVELADEN x SHAMELESS
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Raveladen\, Shameless Kollektiv\n\nhttps://rave
+ .wien/e/2024-08-08-raveladen-x-shameless
+URL:https://rave.wien/e/2024-08-08-raveladen-x-shameless
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-05-raveladen-41@rave.wien
+DTSTAMP:20240905T000000Z
+DTSTART;VALUE=DATE:20240905
+DTEND;VALUE=DATE:20240906
+SUMMARY:RAVELADEN #41
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Raveladen\n\nhttps://rave.wien/e/2024-09-05-rav
+ eladen-41
+URL:https://rave.wien/e/2024-09-05-raveladen-41
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-27-raveladen@rave.wien
+DTSTAMP:20250327T000000Z
+DTSTART;VALUE=DATE:20250327
+DTEND;VALUE=DATE:20250328
+SUMMARY:RAVELADEN
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Raveladen\n\nhttps://rave.wien/e/2025-03-27-rav
+ eladen
+URL:https://rave.wien/e/2025-03-27-raveladen
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-16-raveladen-x-schroedinger-s-groove@rave.wien
+DTSTAMP:20251016T000000Z
+DTSTART;VALUE=DATE:20251016
+DTEND;VALUE=DATE:20251017
+SUMMARY:RAVELADEN x Schroedinger's Groove
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Raveladen\, Schroedinger's Groove\n\nhttps://ra
+ ve.wien/e/2025-10-16-raveladen-x-schroedinger-s-groove
+URL:https://rave.wien/e/2025-10-16-raveladen-x-schroedinger-s-groove
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-06-raveladen-54@rave.wien
+DTSTAMP:20251106T000000Z
+DTSTART;VALUE=DATE:20251106
+DTEND;VALUE=DATE:20251107
+SUMMARY:RAVELADEN #54
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Raveladen\n\nhttps://rave.wien/e/2025-11-06-rav
+ eladen-54
+URL:https://rave.wien/e/2025-11-06-raveladen-54
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-08-raveladen@rave.wien
+DTSTAMP:20260108T000000Z
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260109
+SUMMARY:RAVELADEN
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Raveladen\n\nhttps://rave.wien/e/2026-01-08-rav
+ eladen
+URL:https://rave.wien/e/2026-01-08-raveladen
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-12-raveladen@rave.wien
+DTSTAMP:20260212T000000Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:RAVELADEN
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Raveladen\n\nhttps://rave.wien/e/2026-02-12-rav
+ eladen
+URL:https://rave.wien/e/2026-02-12-raveladen
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-09-raveladen@rave.wien
+DTSTAMP:20260409T000000Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:RAVELADEN
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Raveladen\n\nhttps://rave.wien/e/2026-04-09-rav
+ eladen
+URL:https://rave.wien/e/2026-04-09-raveladen
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-02-raveladen-59@rave.wien
+DTSTAMP:20260702T000000Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:RAVELADEN #59
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Raveladen\n\nhttps://rave.wien/e/2026-07-02-rav
+ eladen-59
+URL:https://rave.wien/e/2026-07-02-raveladen-59
+END:VEVENT
 END:VCALENDAR

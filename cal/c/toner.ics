@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-16-toner-at-kramladen@rave.wien
+DTSTAMP:20241216T000000Z
+DTSTART;VALUE=DATE:20241216
+DTEND;VALUE=DATE:20241217
+SUMMARY:Toner at Kramladen
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Toner\n\nhttps://rave.wien/e/2024-12-16-toner-a
+ t-kramladen
+URL:https://rave.wien/e/2024-12-16-toner-at-kramladen
+END:VEVENT
 END:VCALENDAR

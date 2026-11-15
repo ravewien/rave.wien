@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-04-04-acid-lambada-invites-sam-irl-patrick-pulsinger-li@rave.wien
+DTSTAMP:20250404T000000Z
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250405
+SUMMARY:Acid Lambada invites Sam Irl & Patrick Pulsinger (live)
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Sam Irl\, Patrick Pulsinger\nVeranstalter: Acid Lambada\n\nht
+ tps://rave.wien/e/2025-04-04-acid-lambada-invites-sam-irl-patrick-pulsin
+ ger-li
+URL:https://rave.wien/e/2025-04-04-acid-lambada-invites-sam-irl-patrick-p
+ ulsinger-li
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-10-loop-2026-maximum-rave-since-1993@rave.wien
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Europe/Vienna:20261010T230000
+DTEND;TZID=Europe/Vienna:20261011T040000
+SUMMARY:LOOP 2026 – Maximum Rave since 1993
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Dan Lodig\, Glow\, Patrick Pulsinger\, Pure\nVeranstalter: LO
+ OP\n\nhttps://rave.wien/e/2026-10-10-loop-2026-maximum-rave-since-1993
+URL:https://rave.wien/e/2026-10-10-loop-2026-maximum-rave-since-1993
+END:VEVENT
 END:VCALENDAR

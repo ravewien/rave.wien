@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-08-07-techno-kult-x-grelle-forelle-clubnight-kitchen-ho@rave.wien
+DTSTAMP:20260807T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Techno.Kult x Grelle Forelle Clubnight – Kitchen Hosting
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:MHAK\, Amadeuz\, Swiver\, Testpress\, MARØ\, Krawallbarbie\n
+ Veranstalter: Techno.Kult\n\nhttps://rave.wien/e/2026-08-07-techno-kult-
+ x-grelle-forelle-clubnight-kitchen-ho
+URL:https://rave.wien/e/2026-08-07-techno-kult-x-grelle-forelle-clubnight
+ -kitchen-ho
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-08-20-donnerstrada-with-dj-soulglo-sophie-hosner@rave.wien
+DTSTAMP:20260820T000000Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Donnerstrada with DJ Soulglo & Sophie Hosner
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DJ Soulglo\, Sophie Hosner\nVeranstalter: Donnerstrada\n\nhtt
+ ps://rave.wien/e/2026-08-20-donnerstrada-with-dj-soulglo-sophie-hosner
+URL:https://rave.wien/e/2026-08-20-donnerstrada-with-dj-soulglo-sophie-ho
+ sner
+END:VEVENT
 END:VCALENDAR

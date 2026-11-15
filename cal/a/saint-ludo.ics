@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-01-09-saint-ludo-at-park-it-here@rave.wien
+DTSTAMP:20260109T000000Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:Saint Ludo at PARK IT HERE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Saint Ludo\nVeranstalter: Park It Here\n\nhttps://rave.wien/e
+ /2026-01-09-saint-ludo-at-park-it-here
+URL:https://rave.wien/e/2026-01-09-saint-ludo-at-park-it-here
+END:VEVENT
 END:VCALENDAR

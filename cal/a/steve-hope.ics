@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-10-25-steve-hope-and-friends-e-royal-birthday@rave.wien
+DTSTAMP:20251025T000000Z
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+SUMMARY:Steve Hope and Friends E.Royal Birthday
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Steve Hope\n\nhttps://rave.wien/e/2025-10-25-steve-hope-and-f
+ riends-e-royal-birthday
+URL:https://rave.wien/e/2025-10-25-steve-hope-and-friends-e-royal-birthday
+END:VEVENT
 END:VCALENDAR

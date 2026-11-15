@@ -39,4 +39,28 @@ DESCRIPTION:Chris Liebing\nVeranstalter: YN\, Ritual\nEintritt: VVK 16
  t.\n\nhttps://rave.wien/e/2026-12-18-ritual-x-yn-w-chris-liebing
 URL:https://rave.wien/e/2026-12-18-ritual-x-yn-w-chris-liebing
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-07-zuckerwatt-w-chris-liebing-all-night-long@rave.wien
+DTSTAMP:20250207T000000Z
+DTSTART;VALUE=DATE:20250207
+DTEND;VALUE=DATE:20250208
+SUMMARY:ZUCKERWATT w/ CHRIS LIEBING (all night long!)
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Chris Liebing\nVeranstalter: Zuckerwatt\n\nhttps://rave.wien/
+ e/2025-02-07-zuckerwatt-w-chris-liebing-all-night-long
+URL:https://rave.wien/e/2025-02-07-zuckerwatt-w-chris-liebing-all-night-l
+ ong
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-05-14-yrs-grelle-forelle@rave.wien
+DTSTAMP:20251205T000000Z
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:14 YRS Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Chris Liebing\, Speedy J\, Memet Acuma\, Franjazzco\, Dzc.\, 
+ DJ Gigola\, DBBD\, Tezibel\, Vivienna\n\nhttps://rave.wien/e/2025-12-05-
+ 14-yrs-grelle-forelle
+URL:https://rave.wien/e/2025-12-05-14-yrs-grelle-forelle
+END:VEVENT
 END:VCALENDAR

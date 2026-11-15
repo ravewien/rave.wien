@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-02-23-cosmic-space-disco-winter-tales-w-klopfgeister@rave.wien
+DTSTAMP:20240223T000000Z
+DTSTART;VALUE=DATE:20240223
+DTEND;VALUE=DATE:20240224
+SUMMARY:COSMIC Space Disco – Winter Tales w/ Klopfgeister
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Klopfgeister\nVeranstalter: Cosmic Space Disco\n\nhttps://rav
+ e.wien/e/2024-02-23-cosmic-space-disco-winter-tales-w-klopfgeister
+URL:https://rave.wien/e/2024-02-23-cosmic-space-disco-winter-tales-w-klop
+ fgeister
+END:VEVENT
 END:VCALENDAR

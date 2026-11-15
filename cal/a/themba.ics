@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-10-25-multicolor-spezial-with-themba-sa@rave.wien
+DTSTAMP:20241025T000000Z
+DTSTART;VALUE=DATE:20241025
+DTEND;VALUE=DATE:20241026
+SUMMARY:MULTICOLOR SPEZIAL with Themba [SA]
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Themba\nVeranstalter: Multicolor\n\nhttps://rave.wien/e/2024-
+ 10-25-multicolor-spezial-with-themba-sa
+URL:https://rave.wien/e/2024-10-25-multicolor-spezial-with-themba-sa
+END:VEVENT
 END:VCALENDAR

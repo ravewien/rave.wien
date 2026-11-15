@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-02-freeride-millenium-with-rosa-red-permanent-vacati@rave.wien
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Freeride Millenium with Rosa Red (Permanent Vacation)\, Jorkes\, 
+ Seba
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Rosa Red\, Jorkes\, Seba\nVeranstalter: Freeride Millenium\n\
+ nhttps://rave.wien/e/2026-10-02-freeride-millenium-with-rosa-red-permane
+ nt-vacati
+URL:https://rave.wien/e/2026-10-02-freeride-millenium-with-rosa-red-perma
+ nent-vacati
+END:VEVENT
 END:VCALENDAR

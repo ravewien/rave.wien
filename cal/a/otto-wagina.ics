@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-13-praterrakete-w-aio-alecid-patrik-pagan-otto-wagin@rave.wien
+DTSTAMP:20241213T000000Z
+DTSTART;VALUE=DATE:20241213
+DTEND;VALUE=DATE:20241214
+SUMMARY:PRATERRAKETE w/ Aio\, Alecid\, Patrik Pagan & Otto Wagina
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Aio\, Alecid\, Patrik Pagan\, Otto Wagina\n\nhttps://rave.wie
+ n/e/2024-12-13-praterrakete-w-aio-alecid-patrik-pagan-otto-wagin
+URL:https://rave.wien/e/2024-12-13-praterrakete-w-aio-alecid-patrik-pagan
+ -otto-wagin
+END:VEVENT
 END:VCALENDAR

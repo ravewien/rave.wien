@@ -25,4 +25,181 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-03-22-r-dhad-turbo@rave.wien
+DTSTAMP:20240322T000000Z
+DTSTART;VALUE=DATE:20240322
+DTEND;VALUE=DATE:20240323
+SUMMARY:Rødhåd | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Rødhåd\nVeranstalter: TURBO\n\nhttps://rave.wien/e/2024-03-
+ 22-r-dhad-turbo
+URL:https://rave.wien/e/2024-03-22-r-dhad-turbo
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-26-ki-ki-turbo-x-redivider@rave.wien
+DTSTAMP:20240426T000000Z
+DTSTART;VALUE=DATE:20240426
+DTEND;VALUE=DATE:20240427
+SUMMARY:KI/KI || TURBO X REDIVIDER
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Ki/ki\nVeranstalter: TURBO\, Redivider\n\nhttps://rave.wien/e
+ /2024-04-26-ki-ki-turbo-x-redivider
+URL:https://rave.wien/e/2024-04-26-ki-ki-turbo-x-redivider
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-08-999999999-turbo@rave.wien
+DTSTAMP:20240508T000000Z
+DTSTART;VALUE=DATE:20240508
+DTEND;VALUE=DATE:20240509
+SUMMARY:999999999 | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:999999999\nVeranstalter: TURBO\n\nhttps://rave.wien/e/2024-05
+ -08-999999999-turbo
+URL:https://rave.wien/e/2024-05-08-999999999-turbo
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-21-dax-j-shdw-turbo@rave.wien
+DTSTAMP:20240621T000000Z
+DTSTART;VALUE=DATE:20240621
+DTEND;VALUE=DATE:20240622
+SUMMARY:Dax J & SHDW | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Dax J\, SHDW\nVeranstalter: TURBO\n\nhttps://rave.wien/e/2024
+ -06-21-dax-j-shdw-turbo
+URL:https://rave.wien/e/2024-06-21-dax-j-shdw-turbo
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-27-pan-pot-gaiser-live-turbo@rave.wien
+DTSTAMP:20240927T000000Z
+DTSTART;VALUE=DATE:20240927
+DTEND;VALUE=DATE:20240928
+SUMMARY:Pan-Pot & Gaiser Live | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Pan-Pot\, Gaiser\nVeranstalter: TURBO\n\nhttps://rave.wien/e/
+ 2024-09-27-pan-pot-gaiser-live-turbo
+URL:https://rave.wien/e/2024-09-27-pan-pot-gaiser-live-turbo
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-04-patrick-mason-extended-set-turbo-x-redivider@rave.wien
+DTSTAMP:20241004T000000Z
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241005
+SUMMARY:Patrick Mason (Extended Set) | TURBO x Redivider
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Patrick Mason\nVeranstalter: TURBO\, Redivider\n\nhttps://rav
+ e.wien/e/2024-10-04-patrick-mason-extended-set-turbo-x-redivider
+URL:https://rave.wien/e/2024-10-04-patrick-mason-extended-set-turbo-x-red
+ ivider
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-31-funk-tribu-caiva-pau-turbo@rave.wien
+DTSTAMP:20250131T000000Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Funk Tribu\, Caiva & Pau | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Funk Tribu\, Caiva\, Pau\nVeranstalter: TURBO\n\nhttps://rave
+ .wien/e/2025-01-31-funk-tribu-caiva-pau-turbo
+URL:https://rave.wien/e/2025-01-31-funk-tribu-caiva-pau-turbo
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-22-chlar-all-night-long-turbo@rave.wien
+DTSTAMP:20250222T000000Z
+DTSTART;VALUE=DATE:20250222
+DTEND;VALUE=DATE:20250223
+SUMMARY:Chlär All Night Long | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Chlär\nVeranstalter: TURBO\n\nhttps://rave.wien/e/2025-02-22
+ -chlar-all-night-long-turbo
+URL:https://rave.wien/e/2025-02-22-chlar-all-night-long-turbo
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-25-cera-khin-aida-arko-turbo@rave.wien
+DTSTAMP:20250425T000000Z
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250426
+SUMMARY:Cera Khin & Aida Arko | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Cera Khin\, Aida Arko\nVeranstalter: TURBO\n\nhttps://rave.wi
+ en/e/2025-04-25-cera-khin-aida-arko-turbo
+URL:https://rave.wien/e/2025-04-25-cera-khin-aida-arko-turbo
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-22-turbo-x-nexus-feat-benwal@rave.wien
+DTSTAMP:20250822T000000Z
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250823
+SUMMARY:TURBO X NEXUS Feat. Benwal
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Benwal\nVeranstalter: TURBO\, NEXUS\n\nhttps://rave.wien/e/20
+ 25-08-22-turbo-x-nexus-feat-benwal
+URL:https://rave.wien/e/2025-08-22-turbo-x-nexus-feat-benwal
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-26-pan-pot-gaiser-live-turbo@rave.wien
+DTSTAMP:20250926T000000Z
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250927
+SUMMARY:Pan-Pot & Gaiser Live | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Pan-Pot\, Gaiser\nVeranstalter: TURBO\n\nhttps://rave.wien/e/
+ 2025-09-26-pan-pot-gaiser-live-turbo
+URL:https://rave.wien/e/2025-09-26-pan-pot-gaiser-live-turbo
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-24-ben-klock-turbo@rave.wien
+DTSTAMP:20251024T000000Z
+DTSTART;VALUE=DATE:20251024
+DTEND;VALUE=DATE:20251025
+SUMMARY:Ben Klock | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Ben Klock\nVeranstalter: TURBO\n\nhttps://rave.wien/e/2025-10
+ -24-ben-klock-turbo
+URL:https://rave.wien/e/2025-10-24-ben-klock-turbo
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-21-spandau-20-fjaak-elli-acula-claus-turbo@rave.wien
+DTSTAMP:20251121T000000Z
+DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251122
+SUMMARY:Spandau 20 | Fjaak\, Elli Acula\, Claus | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Spandau 20\nVeranstalter: TURBO\n\nhttps://rave.wien/e/2025-1
+ 1-21-spandau-20-fjaak-elli-acula-claus-turbo
+URL:https://rave.wien/e/2025-11-21-spandau-20-fjaak-elli-acula-claus-turbo
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-27-patrick-mason-turbo@rave.wien
+DTSTAMP:20260227T000000Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:Patrick Mason | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Patrick Mason\nVeranstalter: TURBO\n\nhttps://rave.wien/e/202
+ 6-02-27-patrick-mason-turbo
+URL:https://rave.wien/e/2026-02-27-patrick-mason-turbo
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-26-chlar-all-night-long-turbo@rave.wien
+DTSTAMP:20260626T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:CHLÄR All Night Long | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Chlär\nVeranstalter: TURBO\n\nhttps://rave.wien/e/2026-06-26
+ -chlar-all-night-long-turbo
+URL:https://rave.wien/e/2026-06-26-chlar-all-night-long-turbo
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-sven-vath-turbo@rave.wien
+DTSTAMP:20261023T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Sven Väth | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Sven Väth\nVeranstalter: TURBO\n\nhttps://rave.wien/e/2026-1
+ 0-23-sven-vath-turbo
+URL:https://rave.wien/e/2026-10-23-sven-vath-turbo
+END:VEVENT
 END:VCALENDAR

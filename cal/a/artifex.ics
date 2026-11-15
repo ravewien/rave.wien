@@ -48,6 +48,19 @@ DESCRIPTION:Telicho\, Artifex\, Frankee\, Acula\, Dijay Qualle\nVeranstal
 URL:https://rave.wien/e/2026-11-21-kleingeld-kollektiv-klubnacht
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-01-16-votiv-session-with-artifex-luko-steven-savage@rave.wien
+DTSTAMP:20260116T000000Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:votiv session with Artifex\, Luko\, Steven Savage
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Artifex\, Luko\, Steven Savage\nVeranstalter: Votiv Session\n
+ \nhttps://rave.wien/e/2026-01-16-votiv-session-with-artifex-luko-steven-
+ savage
+URL:https://rave.wien/e/2026-01-16-votiv-session-with-artifex-luko-steven
+ -savage
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-schlachthaus-w-toobris@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T230000

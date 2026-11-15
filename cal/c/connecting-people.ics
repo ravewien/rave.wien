@@ -26,6 +26,72 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-11-15-connecting-people-w-p-o@rave.wien
+DTSTAMP:20241115T000000Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241116
+SUMMARY:Connecting People w/ P.O
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:P.O\nVeranstalter: Connecting People\n\nhttps://rave.wien/e/2
+ 024-11-15-connecting-people-w-p-o
+URL:https://rave.wien/e/2024-11-15-connecting-people-w-p-o
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-07-connecting-people-w-bodin@rave.wien
+DTSTAMP:20250207T000000Z
+DTSTART;VALUE=DATE:20250207
+DTEND;VALUE=DATE:20250208
+SUMMARY:Connecting People w/ Bodin
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Bodin\nVeranstalter: Connecting People\n\nhttps://rave.wien/e
+ /2025-02-07-connecting-people-w-bodin
+URL:https://rave.wien/e/2025-02-07-connecting-people-w-bodin
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-05-connecting-people-with-andrea-salvaggio@rave.wien
+DTSTAMP:20250705T000000Z
+DTSTART;VALUE=DATE:20250705
+DTEND;VALUE=DATE:20250706
+SUMMARY:Connecting People with ANDREA SALVAGGIO
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Andrea Salvaggio\nVeranstalter: Connecting People\n\nhttps://
+ rave.wien/e/2025-07-05-connecting-people-with-andrea-salvaggio
+URL:https://rave.wien/e/2025-07-05-connecting-people-with-andrea-salvaggio
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-19-connecting-people-with-anne-karmane@rave.wien
+DTSTAMP:20251219T000000Z
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:Connecting People with Anne Karmané
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Anne Karmané\nVeranstalter: Connecting People\n\nhttps://rav
+ e.wien/e/2025-12-19-connecting-people-with-anne-karmane
+URL:https://rave.wien/e/2025-12-19-connecting-people-with-anne-karmane
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-15-connecting-people@rave.wien
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Connecting People
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Connecting People\n\nhttps://rave.wien/e/2026-0
+ 5-15-connecting-people
+URL:https://rave.wien/e/2026-05-15-connecting-people
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-connecting-people-x-spieltag@rave.wien
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Connecting People x Spieltag
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Connecting People\n\nhttps://rave.wien/e/2026-0
+ 9-25-connecting-people-x-spieltag
+URL:https://rave.wien/e/2026-09-25-connecting-people-x-spieltag
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-connecting-people@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T230000

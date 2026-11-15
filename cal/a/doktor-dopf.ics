@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-04-05-kein-sonntag-ohne-techno-season-opening@rave.wien
+DTSTAMP:20260405T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:KEIN SONNTAG OHNE TECHNO | Season Opening
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:alina\, aramboa\, doktor dopf\, honeyvalxx\, ksot soundsystem
+ \, meet.franka\, Rosa Rosen\n\nhttps://rave.wien/e/2026-04-05-kein-sonnt
+ ag-ohne-techno-season-opening
+URL:https://rave.wien/e/2026-04-05-kein-sonntag-ohne-techno-season-opening
+END:VEVENT
 END:VCALENDAR

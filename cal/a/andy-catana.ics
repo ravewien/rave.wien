@@ -26,6 +26,17 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-08-03-homebase-with-andy-catana-mddb-sharp@rave.wien
+DTSTAMP:20240803T000000Z
+DTSTART;VALUE=DATE:20240803
+DTEND;VALUE=DATE:20240804
+SUMMARY:Homebase with Andy Catana\, MDDB\, Sharp
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Andy Catana\, MDDB\, Sharp\nVeranstalter: Homebase\n\nhttps:/
+ /rave.wien/e/2024-08-03-homebase-with-andy-catana-mddb-sharp
+URL:https://rave.wien/e/2024-08-03-homebase-with-andy-catana-mddb-sharp
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-halloween-at-prst-w-camion-bazar-franziska-berns@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T230000

@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-04-05-collide-dnb-x-techno-with-gray-uk-slwdwn-cz@rave.wien
+DTSTAMP:20240405T000000Z
+DTSTART;VALUE=DATE:20240405
+DTEND;VALUE=DATE:20240406
+SUMMARY:COLLIDE | DNB X TECHNO | with GRAY [uk] & SLWDWN[cz]
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:GRAY\, Slwdwn\n\nhttps://rave.wien/e/2024-04-05-collide-dnb-x
+ -techno-with-gray-uk-slwdwn-cz
+URL:https://rave.wien/e/2024-04-05-collide-dnb-x-techno-with-gray-uk-slwd
+ wn-cz
+END:VEVENT
 END:VCALENDAR

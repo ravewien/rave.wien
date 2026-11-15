@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-05-15-groove-revival-invites-monile@rave.wien
+DTSTAMP:20250515T000000Z
+DTSTART;VALUE=DATE:20250515
+DTEND;VALUE=DATE:20250516
+SUMMARY:Groove Revival invites MONILE
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Monile\nVeranstalter: Groove Revival\n\nhttps://rave.wien/e/2
+ 025-05-15-groove-revival-invites-monile
+URL:https://rave.wien/e/2025-05-15-groove-revival-invites-monile
+END:VEVENT
 END:VCALENDAR

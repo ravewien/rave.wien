@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-04-19-vienna-worldwide-w-pin@rave.wien
+DTSTAMP:20240419T000000Z
+DTSTART;VALUE=DATE:20240419
+DTEND;VALUE=DATE:20240420
+SUMMARY:Vienna Worldwide w/ Pin
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Pin\nVeranstalter: Vienna Worldwide\n\nhttps://rave.wien/e/20
+ 24-04-19-vienna-worldwide-w-pin
+URL:https://rave.wien/e/2024-04-19-vienna-worldwide-w-pin
+END:VEVENT
 END:VCALENDAR

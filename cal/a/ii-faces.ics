@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-28-red-groove-social-club-with-ii-faces-fr-red-groov@rave.wien
+DTSTAMP:20260228T000000Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:RED GROOVE (Social Club) with II-FACES (FR) & Red Groove System
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Ii-faces\, Red Groove System\nVeranstalter: Red Groove Social
+  Club\n\nhttps://rave.wien/e/2026-02-28-red-groove-social-club-with-ii-f
+ aces-fr-red-groov
+URL:https://rave.wien/e/2026-02-28-red-groove-social-club-with-ii-faces-f
+ r-red-groov
+END:VEVENT
 END:VCALENDAR

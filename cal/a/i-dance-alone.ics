@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-02-24-labelnacht-by-gesindel-x-gdn-records-w-gockel-alg@rave.wien
+DTSTAMP:20240224T000000Z
+DTSTART;VALUE=DATE:20240224
+DTEND;VALUE=DATE:20240225
+SUMMARY:LABELNACHT by Gesindel x GDN Records w/ Gockel\, Algayev & I Danc
+ e Alone
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Gockel\, Algayev\, I Dance Alone\nVeranstalter: Gesindel der 
+ Nacht\, GDN\n\nhttps://rave.wien/e/2024-02-24-labelnacht-by-gesindel-x-g
+ dn-records-w-gockel-alg
+URL:https://rave.wien/e/2024-02-24-labelnacht-by-gesindel-x-gdn-records-w
+ -gockel-alg
+END:VEVENT
 END:VCALENDAR

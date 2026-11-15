@@ -25,4 +25,66 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-07-05-sin-x-herzfrequenz-w-fts-tingeltangeltek-soda-lou@rave.wien
+DTSTAMP:20240705T000000Z
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240706
+SUMMARY:SIN x Herzfrequenz w/ FTS\, TingelTangelTek\, SoDa\, Louisa India
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:FTS\, TingelTangelTek\, SoDa\, Louisa India\nVeranstalter: He
+ rzfrequenz\, SIN\n\nhttps://rave.wien/e/2024-07-05-sin-x-herzfrequenz-w-
+ fts-tingeltangeltek-soda-lou
+URL:https://rave.wien/e/2024-07-05-sin-x-herzfrequenz-w-fts-tingeltangelt
+ ek-soda-lou
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-07-sin-x-uberdruck-soundsystem-w-gehlektek-blazin-bo@rave.wien
+DTSTAMP:20240907T000000Z
+DTSTART;VALUE=DATE:20240907
+DTEND;VALUE=DATE:20240908
+SUMMARY:SIN x Überdruck Soundsystem w/ GehLekTek\, Blazin' Bomzai\, Ting
+ elTangelTek + S.B.S.\, Illtek
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Gehlektek\, Blazin' Bomzai\, TingelTangelTek\, S.b.s\, Illtek
+ \nVeranstalter: SIN\, Überdruck\n\nhttps://rave.wien/e/2024-09-07-sin-x
+ -uberdruck-soundsystem-w-gehlektek-blazin-bo
+URL:https://rave.wien/e/2024-09-07-sin-x-uberdruck-soundsystem-w-gehlekte
+ k-blazin-bo
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-28-sin-x-uberdruck-soundsystem-w-shirin-keton-geehee@rave.wien
+DTSTAMP:20241228T000000Z
+DTSTART;VALUE=DATE:20241228
+DTEND;VALUE=DATE:20241229
+SUMMARY:SIN x Überdruck Soundsystem w/ Shirin & Keton & Geehee
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Shirin\, Keton\, Geehee\nVeranstalter: SIN\, Überdruck\n\nht
+ tps://rave.wien/e/2024-12-28-sin-x-uberdruck-soundsystem-w-shirin-keton-
+ geehee
+URL:https://rave.wien/e/2024-12-28-sin-x-uberdruck-soundsystem-w-shirin-k
+ eton-geehee
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-25-sin-w-van-der-wiese@rave.wien
+DTSTAMP:20250125T000000Z
+DTSTART;VALUE=DATE:20250125
+DTEND;VALUE=DATE:20250126
+SUMMARY:SIN w/ Van der Wiese
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Van der Wiese\nVeranstalter: SIN\n\nhttps://rave.wien/e/2025-
+ 01-25-sin-w-van-der-wiese
+URL:https://rave.wien/e/2025-01-25-sin-w-van-der-wiese
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-25-sin-w-van-der-wiese@rave.wien
+DTSTAMP:20250225T000000Z
+DTSTART;VALUE=DATE:20250225
+DTEND;VALUE=DATE:20250226
+SUMMARY:SIN w/ Van der Wiese
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Van der Wiese\nVeranstalter: SIN\n\nhttps://rave.wien/e/2025-
+ 02-25-sin-w-van-der-wiese
+URL:https://rave.wien/e/2025-02-25-sin-w-van-der-wiese
+END:VEVENT
 END:VCALENDAR

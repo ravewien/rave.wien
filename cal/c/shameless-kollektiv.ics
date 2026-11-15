@@ -25,4 +25,76 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-08-raveladen-x-shameless@rave.wien
+DTSTAMP:20240808T000000Z
+DTSTART;VALUE=DATE:20240808
+DTEND;VALUE=DATE:20240809
+SUMMARY:RAVELADEN x SHAMELESS
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Raveladen\, Shameless Kollektiv\n\nhttps://rave
+ .wien/e/2024-08-08-raveladen-x-shameless
+URL:https://rave.wien/e/2024-08-08-raveladen-x-shameless
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-24-shameless-kollektiv@rave.wien
+DTSTAMP:20250524T000000Z
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250525
+SUMMARY:Shameless Kollektiv
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Shameless Kollektiv\n\nhttps://rave.wien/e/2025
+ -05-24-shameless-kollektiv
+URL:https://rave.wien/e/2025-05-24-shameless-kollektiv
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-02-shameless-kollektiv-kramladen@rave.wien
+DTSTAMP:20251002T000000Z
+DTSTART;VALUE=DATE:20251002
+DTEND;VALUE=DATE:20251003
+SUMMARY:Shameless Kollektiv@Kramladen
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Shameless Kollektiv\n\nhttps://rave.wien/e/2025
+ -10-02-shameless-kollektiv-kramladen
+URL:https://rave.wien/e/2025-10-02-shameless-kollektiv-kramladen
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-21-overdrive-by-shameless-kollektiv@rave.wien
+DTSTAMP:20251121T000000Z
+DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251122
+SUMMARY:Overdrive by Shameless Kollektiv
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Veranstalter: Shameless Kollektiv\n\nhttps://rave.wien/e/2025
+ -11-21-overdrive-by-shameless-kollektiv
+URL:https://rave.wien/e/2025-11-21-overdrive-by-shameless-kollektiv
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-04-shameless-x-jubin-bday-bash@rave.wien
+DTSTAMP:20260404T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Shameless x Jubin Bday Bash
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Shameless Kollektiv\n\nhttps://rave.wien/e/2026
+ -04-04-shameless-x-jubin-bday-bash
+URL:https://rave.wien/e/2026-04-04-shameless-x-jubin-bday-bash
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-20-klanggerecht-x-shameless-feat-fab-massimo@rave.wien
+DTSTAMP:20260620T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:KLANGGERECHT X SHAMELESS feat. Fab Massimo
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Fab Massimo\nVeranstalter: Klanggerecht\, Shameless Kollektiv
+ \n\nhttps://rave.wien/e/2026-06-20-klanggerecht-x-shameless-feat-fab-mas
+ simo
+URL:https://rave.wien/e/2026-06-20-klanggerecht-x-shameless-feat-fab-mass
+ imo
+END:VEVENT
 END:VCALENDAR

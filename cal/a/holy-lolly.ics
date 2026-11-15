@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-28-gaze-with-bashkka-holy-lolly-vince@rave.wien
+DTSTAMP:20241228T000000Z
+DTSTART;VALUE=DATE:20241228
+DTEND;VALUE=DATE:20241229
+SUMMARY:GAZE with BASHKKA\, HOLY LOLLY & vince
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Bashkka\, Holy Lolly\, vince\nVeranstalter: Gaze\n\nhttps://r
+ ave.wien/e/2024-12-28-gaze-with-bashkka-holy-lolly-vince
+URL:https://rave.wien/e/2024-12-28-gaze-with-bashkka-holy-lolly-vince
+END:VEVENT
 END:VCALENDAR

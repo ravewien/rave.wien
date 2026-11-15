@@ -25,4 +25,73 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-22-monochrom-rave-on-society-x-donnerkanzel@rave.wien
+DTSTAMP:20240622T000000Z
+DTSTART;VALUE=DATE:20240622
+DTEND;VALUE=DATE:20240623
+SUMMARY:MONOCHROM – Rave On Society x Donnerkanzel
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Monochrom\, Rave On Society\n\nhttps://rave.wie
+ n/e/2024-06-22-monochrom-rave-on-society-x-donnerkanzel
+URL:https://rave.wien/e/2024-06-22-monochrom-rave-on-society-x-donnerkanz
+ el
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-20-monochrom-luft-liebe-x-henson@rave.wien
+DTSTAMP:20240720T000000Z
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240721
+SUMMARY:MONOCHROM | Luft & Liebe x Henson
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Henson\nVeranstalter: Monochrom\, Luft & Liebe\n\nhttps://rav
+ e.wien/e/2024-07-20-monochrom-luft-liebe-x-henson
+URL:https://rave.wien/e/2024-07-20-monochrom-luft-liebe-x-henson
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-03-monochrom-rave-on-society-x-lowenzahn@rave.wien
+DTSTAMP:20240803T000000Z
+DTSTART;VALUE=DATE:20240803
+DTEND;VALUE=DATE:20240804
+SUMMARY:MONOCHROM – Rave On Society x Löwenzahn
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Löwenzahn\, Monochrom\, Rave On Society\n\nhtt
+ ps://rave.wien/e/2024-08-03-monochrom-rave-on-society-x-lowenzahn
+URL:https://rave.wien/e/2024-08-03-monochrom-rave-on-society-x-lowenzahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-26-monochrom-spezial-mahlwerk-x-area-showcase@rave.wien
+DTSTAMP:20241026T000000Z
+DTSTART;VALUE=DATE:20241026
+DTEND;VALUE=DATE:20241027
+SUMMARY:MONOCHROM Spezial: MAHLWERK x AREA Showcase
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Mahlwerk\, Monochrom\n\nhttps://rave.wien/e/202
+ 4-10-26-monochrom-spezial-mahlwerk-x-area-showcase
+URL:https://rave.wien/e/2024-10-26-monochrom-spezial-mahlwerk-x-area-show
+ case
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-16-monochrom-x-tragedie-with-teenage-mutants@rave.wien
+DTSTAMP:20241116T000000Z
+DTSTART;VALUE=DATE:20241116
+DTEND;VALUE=DATE:20241117
+SUMMARY:MONOCHROM x TRAGEDIE with TEENAGE MUTANTS
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Teenage Mutants\nVeranstalter: Monochrom\n\nhttps://rave.wien
+ /e/2024-11-16-monochrom-x-tragedie-with-teenage-mutants
+URL:https://rave.wien/e/2024-11-16-monochrom-x-tragedie-with-teenage-muta
+ nts
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-23-monochrom-spezial-with-zapravka@rave.wien
+DTSTAMP:20241123T000000Z
+DTSTART;VALUE=DATE:20241123
+DTEND;VALUE=DATE:20241124
+SUMMARY:MONOCHROM SPEZIAL with ZAPRAVKA
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Zapravka\nVeranstalter: Monochrom\n\nhttps://rave.wien/e/2024
+ -11-23-monochrom-spezial-with-zapravka
+URL:https://rave.wien/e/2024-11-23-monochrom-spezial-with-zapravka
+END:VEVENT
 END:VCALENDAR

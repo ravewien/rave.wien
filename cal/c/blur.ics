@@ -40,4 +40,100 @@ DESCRIPTION:Doudou MD\, Chris Freud\, David Radi\, Matthias Kaiser\nVeran
  e/2026-12-04-blur-with-doudou-md
 URL:https://rave.wien/e/2026-12-04-blur-with-doudou-md
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-14-blur-with-alci@rave.wien
+DTSTAMP:20250614T000000Z
+DTSTART;VALUE=DATE:20250614
+DTEND;VALUE=DATE:20250615
+SUMMARY:BLUR with Alci
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Alci\nVeranstalter: BLUR\n\nhttps://rave.wien/e/2025-06-14-bl
+ ur-with-alci
+URL:https://rave.wien/e/2025-06-14-blur-with-alci
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-30-blur-with-rich-nxt@rave.wien
+DTSTAMP:20250830T000000Z
+DTSTART;VALUE=DATE:20250830
+DTEND;VALUE=DATE:20250831
+SUMMARY:BLUR with Rich NxT
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Rich NxT\nVeranstalter: BLUR\n\nhttps://rave.wien/e/2025-08-3
+ 0-blur-with-rich-nxt
+URL:https://rave.wien/e/2025-08-30-blur-with-rich-nxt
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-04-blur-with-subb-an@rave.wien
+DTSTAMP:20251004T000000Z
+DTSTART;VALUE=DATE:20251004
+DTEND;VALUE=DATE:20251005
+SUMMARY:BLUR with Subb-an
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Subb-an\nVeranstalter: BLUR\n\nhttps://rave.wien/e/2025-10-04
+ -blur-with-subb-an
+URL:https://rave.wien/e/2025-10-04-blur-with-subb-an
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-06-blur-with-sepp@rave.wien
+DTSTAMP:20251206T000000Z
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:BLUR with Sepp
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Sepp\nVeranstalter: BLUR\n\nhttps://rave.wien/e/2025-12-06-bl
+ ur-with-sepp
+URL:https://rave.wien/e/2025-12-06-blur-with-sepp
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-17-blur@rave.wien
+DTSTAMP:20260417T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:BLUR
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: BLUR\n\nhttps://rave.wien/e/2026-04-17-blur
+URL:https://rave.wien/e/2026-04-17-blur
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-15-blur-with-mihai-popoviciu@rave.wien
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:BLUR with Mihai Popoviciu
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Mihai Popoviciu\nVeranstalter: BLUR\n\nhttps://rave.wien/e/20
+ 26-05-15-blur-with-mihai-popoviciu
+URL:https://rave.wien/e/2026-05-15-blur-with-mihai-popoviciu
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-19-blur-with-nu-zau@rave.wien
+DTSTAMP:20260619T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:BLUR with Nu Zau
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Nu Zau\nVeranstalter: BLUR\n\nhttps://rave.wien/e/2026-06-19-
+ blur-with-nu-zau
+URL:https://rave.wien/e/2026-06-19-blur-with-nu-zau
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-17-blur@rave.wien
+DTSTAMP:20260717T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:BLUR
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: BLUR\n\nhttps://rave.wien/e/2026-07-17-blur
+URL:https://rave.wien/e/2026-07-17-blur
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-05-blur@rave.wien
+DTSTAMP:20260905T000000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:BLUR
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: BLUR\n\nhttps://rave.wien/e/2026-09-05-blur
+URL:https://rave.wien/e/2026-09-05-blur
+END:VEVENT
 END:VCALENDAR

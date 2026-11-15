@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-06-27-f-cken-plus-utterly-butterly-unofficial-pride-clo@rave.wien
+DTSTAMP:20260627T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:F*CKEN PLUS – Utterly Butterly Unofficial Pride Closing w/ JANE
+ IN\, Manu:letta u.v.m
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Janein\, Manu:letta\nVeranstalter: F*cken Plus\n\nhttps://rav
+ e.wien/e/2026-06-27-f-cken-plus-utterly-butterly-unofficial-pride-clo
+URL:https://rave.wien/e/2026-06-27-f-cken-plus-utterly-butterly-unofficia
+ l-pride-clo
+END:VEVENT
 END:VCALENDAR

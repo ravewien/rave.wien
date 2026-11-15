@@ -49,4 +49,32 @@ DESCRIPTION:Mainfloor: Simula\, Enei\, Skantia\, En:vy\, Wingz\, Contrast
 URL:https://rave.wien/e/2026-12-12-contrast-pres-dance-macabre-w-simula-e
  nei-skantia
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-21-contrast-pres-critical-music-w-simula-enei-kasra@rave.wien
+DTSTAMP:20241221T000000Z
+DTSTART;VALUE=DATE:20241221
+DTEND;VALUE=DATE:20241222
+SUMMARY:CONTRAST pres. CRITICAL MUSIC w/ SIMULA + ENEI + KASRA + QZB + EN
+ :VY | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Simula\, ENEI\, Kasra\, QZB\, En:vy\nVeranstalter: Contrast\n
+ \nhttps://rave.wien/e/2024-12-21-contrast-pres-critical-music-w-simula-e
+ nei-kasra
+URL:https://rave.wien/e/2024-12-21-contrast-pres-critical-music-w-simula-
+ enei-kasra
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-15-contrast-pres-critical-music-w-enei-kasra-en-vy-s@rave.wien
+DTSTAMP:20251115T000000Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:CONTRAST pres. CRITICAL MUSIC w/ ENEI + KASRA + EN:VY + SEQUENT |
+  18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:ENEI\, Kasra\, En:vy\, Sequent\nVeranstalter: Contrast\n\nhtt
+ ps://rave.wien/e/2025-11-15-contrast-pres-critical-music-w-enei-kasra-en
+ -vy-s
+URL:https://rave.wien/e/2025-11-15-contrast-pres-critical-music-w-enei-ka
+ sra-en-vy-s
+END:VEVENT
 END:VCALENDAR

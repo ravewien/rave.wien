@@ -25,4 +25,40 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-07-free-friday@rave.wien
+DTSTAMP:20240607T000000Z
+DTSTART;TZID=Europe/Vienna:20240607T230000
+DTEND;TZID=Europe/Vienna:20240608T040000
+SUMMARY:Free Friday
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Louk\, Aschenbrenner\, PSMT\, Vich Mind\, Sømnus\, KEYL\, Em
+ baixador\n\nhttps://rave.wien/e/2024-06-07-free-friday
+URL:https://rave.wien/e/2024-06-07-free-friday
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-18-fish-market-w-black-mirror-park-gerald-vdh-vich-m@rave.wien
+DTSTAMP:20241018T000000Z
+DTSTART;VALUE=DATE:20241018
+DTEND;VALUE=DATE:20241019
+SUMMARY:FISH MARKET w/ Black Mirror Park\, Gerald VDH\, Vich Mind\, etc.
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Black Mirror Park\, Gerald VDH\, Vich Mind\nVeranstalter: Fis
+ h Market\n\nhttps://rave.wien/e/2024-10-18-fish-market-w-black-mirror-pa
+ rk-gerald-vdh-vich-m
+URL:https://rave.wien/e/2024-10-18-fish-market-w-black-mirror-park-gerald
+ -vdh-vich-m
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-02-push-x-grelle-forelle@rave.wien
+DTSTAMP:20250502T000000Z
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250503
+SUMMARY:PUSH x Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:ANNĒ\, Lucinee\, Caniche\, Mischa Beton\, GYDAH\, Bonnie Cal
+ lini\, Rosa Rosen\, Vich Mind\, Who is Ela¿\nVeranstalter: PUSH\n\nhttp
+ s://rave.wien/e/2025-05-02-push-x-grelle-forelle
+URL:https://rave.wien/e/2025-05-02-push-x-grelle-forelle
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-14-fish-market-w-freddy-k-annika-stein-deadlift-etc@rave.wien
+DTSTAMP:20251114T000000Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:FISH MARKET w/ FREDDY K\, Annika Stein\, Deadlift\, etc.
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Freddy K\, Annika Stein\, Deadlift\nVeranstalter: Fish Market
+ \n\nhttps://rave.wien/e/2025-11-14-fish-market-w-freddy-k-annika-stein-d
+ eadlift-etc
+URL:https://rave.wien/e/2025-11-14-fish-market-w-freddy-k-annika-stein-de
+ adlift-etc
+END:VEVENT
 END:VCALENDAR

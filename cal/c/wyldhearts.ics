@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-29-nexus-x-wyldhearts@rave.wien
+DTSTAMP:20251129T000000Z
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:NEXUS X WYLDHEARTS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Aschenbrenner\, Bababass3000\, Baumeister98\, Cold Ass Ice\, 
+ Ferrand\, Suitside\, maro\, Calu\, ZEQ\nVeranstalter: NEXUS\, Wyldhearts
+ \n\nhttps://rave.wien/e/2025-11-29-nexus-x-wyldhearts
+URL:https://rave.wien/e/2025-11-29-nexus-x-wyldhearts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-11-trance-bounce-in-der-grellen-forelle-w-wyldhearts@rave.wien
+DTSTAMP:20260711T000000Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Trance & Bounce in der Grellen Forelle /w Wyldhearts Germany
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Wyldhearts Germany\nVeranstalter: Wyldhearts\n\nhttps://rave.
+ wien/e/2026-07-11-trance-bounce-in-der-grellen-forelle-w-wyldhearts
+URL:https://rave.wien/e/2026-07-11-trance-bounce-in-der-grellen-forelle-w
+ -wyldhearts
+END:VEVENT
 END:VCALENDAR

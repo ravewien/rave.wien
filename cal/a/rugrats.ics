@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-03-echosphere-pres-rugrats-looney-moon-rec@rave.wien
+DTSTAMP:20240503T000000Z
+DTSTART;VALUE=DATE:20240503
+DTEND;VALUE=DATE:20240504
+SUMMARY:Echosphere pres. Rugrats – Looney Moon Rec.
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Rugrats\n\nhttps://rave.wien/e/2024-05-03-echosphere-pres-rug
+ rats-looney-moon-rec
+URL:https://rave.wien/e/2024-05-03-echosphere-pres-rugrats-looney-moon-rec
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-12-astralunio-pres-avalon-rugrats@rave.wien
+DTSTAMP:20251212T000000Z
+DTSTART;VALUE=DATE:20251212
+DTEND;VALUE=DATE:20251213
+SUMMARY:Astralunio pres. AVALON & RUGRATS
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Avalon\, Rugrats\n\nhttps://rave.wien/e/2025-12-12-astralunio
+ -pres-avalon-rugrats
+URL:https://rave.wien/e/2025-12-12-astralunio-pres-avalon-rugrats
+END:VEVENT
 END:VCALENDAR

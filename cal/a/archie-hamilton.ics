@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-10-31-club-pompadour-rhythm-science-w-archie-hamilton@rave.wien
+DTSTAMP:20241031T000000Z
+DTSTART;VALUE=DATE:20241031
+DTEND;VALUE=DATE:20241101
+SUMMARY:Club Pompadour & Rhythm Science w/ Archie Hamilton
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Archie Hamilton\nVeranstalter: Rhythm Science\, Club Pompadou
+ r\n\nhttps://rave.wien/e/2024-10-31-club-pompadour-rhythm-science-w-arch
+ ie-hamilton
+URL:https://rave.wien/e/2024-10-31-club-pompadour-rhythm-science-w-archie
+ -hamilton
+END:VEVENT
 END:VCALENDAR

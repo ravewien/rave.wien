@@ -26,6 +26,28 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-11-09-paradies-garten-w-mija-grelle-forelle@rave.wien
+DTSTAMP:20241109T000000Z
+DTSTART;VALUE=DATE:20241109
+DTEND;VALUE=DATE:20241110
+SUMMARY:Paradies Garten w/ MIJA | Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:MIJA\nVeranstalter: Paradies Garten\n\nhttps://rave.wien/e/20
+ 24-11-09-paradies-garten-w-mija-grelle-forelle
+URL:https://rave.wien/e/2024-11-09-paradies-garten-w-mija-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-24-praternostra-w-mija@rave.wien
+DTSTAMP:20250524T000000Z
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250525
+SUMMARY:PraterNostra /w MIJA
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:MIJA\nVeranstalter: Praternostra\n\nhttps://rave.wien/e/2025-
+ 05-24-praternostra-w-mija
+URL:https://rave.wien/e/2025-05-24-praternostra-w-mija
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-zuckerwatt-w-mija@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T230000

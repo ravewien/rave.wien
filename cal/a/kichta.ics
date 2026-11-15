@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-06-20-stay-acid-presents-54hz-with-kichta@rave.wien
+DTSTAMP:20260620T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Stay Acid presents 54Hz with Kichta
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Kichta\nVeranstalter: Stay Acid\n\nhttps://rave.wien/e/2026-0
+ 6-20-stay-acid-presents-54hz-with-kichta
+URL:https://rave.wien/e/2026-06-20-stay-acid-presents-54hz-with-kichta
+END:VEVENT
 END:VCALENDAR

@@ -58,6 +58,320 @@ DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentliche Rave am M
 URL:https://rave.wien/e/2026-11-25-rave-am-mittwoch
 END:VEVENT
 BEGIN:VEVENT
+UID:2024-07-24-rave-am-mittwoch-tomagan-artemis-jodok@rave.wien
+DTSTAMP:20240724T000000Z
+DTSTART;VALUE=DATE:20240724
+DTEND;VALUE=DATE:20240725
+SUMMARY:RAVE AM MITTWOCH – Tomagan\, ARTEMIS & Jodok
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Tomagan\, Artemis\, Jodok\nVeranstalter: Rave am Mittwoch\n\n
+ https://rave.wien/e/2024-07-24-rave-am-mittwoch-tomagan-artemis-jodok
+URL:https://rave.wien/e/2024-07-24-rave-am-mittwoch-tomagan-artemis-jodok
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-04-rave-am-mittwoch-olymp-moms-home@rave.wien
+DTSTAMP:20240904T000000Z
+DTSTART;VALUE=DATE:20240904
+DTEND;VALUE=DATE:20240905
+SUMMARY:RAVE AM MITTWOCH // OLYMP + MOMs HOME
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2024-09
+ -04-rave-am-mittwoch-olymp-moms-home
+URL:https://rave.wien/e/2024-09-04-rave-am-mittwoch-olymp-moms-home
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-23-rave-am-mittwoch-i-free-party-new-location@rave.wien
+DTSTAMP:20250423T000000Z
+DTSTART;VALUE=DATE:20250423
+DTEND;VALUE=DATE:20250424
+SUMMARY:RAVE AM MITTWOCH I Free Party + New Location
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2025-04
+ -23-rave-am-mittwoch-i-free-party-new-location
+URL:https://rave.wien/e/2025-04-23-rave-am-mittwoch-i-free-party-new-loca
+ tion
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-30-schwerkraft-x-rave-am-mittwoch@rave.wien
+DTSTAMP:20250430T000000Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:SCHWERKRAFT x Rave Am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\, Schwerkraft\n\nhttps://rave.
+ wien/e/2025-04-30-schwerkraft-x-rave-am-mittwoch
+URL:https://rave.wien/e/2025-04-30-schwerkraft-x-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-21-rave-am-mittwoch-i-free-party@rave.wien
+DTSTAMP:20250521T000000Z
+DTSTART;VALUE=DATE:20250521
+DTEND;VALUE=DATE:20250522
+SUMMARY:RAVE AM MITTWOCH I Free Party
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2025-05
+ -21-rave-am-mittwoch-i-free-party
+URL:https://rave.wien/e/2025-05-21-rave-am-mittwoch-i-free-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-25-rave-am-mittwoch@rave.wien
+DTSTAMP:20250625T000000Z
+DTSTART;VALUE=DATE:20250625
+DTEND;VALUE=DATE:20250626
+SUMMARY:RAVE AM MITTWOCH
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2025-06
+ -25-rave-am-mittwoch
+URL:https://rave.wien/e/2025-06-25-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-30-rave-am-mittwoch-i-free-party@rave.wien
+DTSTAMP:20250730T000000Z
+DTSTART;VALUE=DATE:20250730
+DTEND;VALUE=DATE:20250731
+SUMMARY:RAVE AM MITTWOCH I Free Party
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2025-07
+ -30-rave-am-mittwoch-i-free-party
+URL:https://rave.wien/e/2025-07-30-rave-am-mittwoch-i-free-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-20-rave-am-mittwoch-i-free-party@rave.wien
+DTSTAMP:20250820T000000Z
+DTSTART;VALUE=DATE:20250820
+DTEND;VALUE=DATE:20250821
+SUMMARY:RAVE AM MITTWOCH I Free Party
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2025-08
+ -20-rave-am-mittwoch-i-free-party
+URL:https://rave.wien/e/2025-08-20-rave-am-mittwoch-i-free-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-27-rave-am-mittwoch-i-free-party@rave.wien
+DTSTAMP:20250827T000000Z
+DTSTART;VALUE=DATE:20250827
+DTEND;VALUE=DATE:20250828
+SUMMARY:RAVE AM MITTWOCH I Free Party
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2025-08
+ -27-rave-am-mittwoch-i-free-party
+URL:https://rave.wien/e/2025-08-27-rave-am-mittwoch-i-free-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-24-rave-am-mittwoch-i-free-party@rave.wien
+DTSTAMP:20250924T000000Z
+DTSTART;VALUE=DATE:20250924
+DTEND;VALUE=DATE:20250925
+SUMMARY:RAVE AM MITTWOCH I Free Party
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2025-09
+ -24-rave-am-mittwoch-i-free-party
+URL:https://rave.wien/e/2025-09-24-rave-am-mittwoch-i-free-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-22-rave-am-mittwoch-i-free-party@rave.wien
+DTSTAMP:20251022T000000Z
+DTSTART;VALUE=DATE:20251022
+DTEND;VALUE=DATE:20251023
+SUMMARY:RAVE AM MITTWOCH I Free Party
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2025-10
+ -22-rave-am-mittwoch-i-free-party
+URL:https://rave.wien/e/2025-10-22-rave-am-mittwoch-i-free-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-29-rave-am-mittwoch-i-free-party@rave.wien
+DTSTAMP:20251029T000000Z
+DTSTART;VALUE=DATE:20251029
+DTEND;VALUE=DATE:20251030
+SUMMARY:RAVE AM MITTWOCH I Free Party
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2025-10
+ -29-rave-am-mittwoch-i-free-party
+URL:https://rave.wien/e/2025-10-29-rave-am-mittwoch-i-free-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-19-rave-am-mittwoch-i-free-party@rave.wien
+DTSTAMP:20251119T000000Z
+DTSTART;VALUE=DATE:20251119
+DTEND;VALUE=DATE:20251120
+SUMMARY:RAVE AM MITTWOCH I Free Party
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2025-11
+ -19-rave-am-mittwoch-i-free-party
+URL:https://rave.wien/e/2025-11-19-rave-am-mittwoch-i-free-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-26-rave-am-mittwoch-i-free-party@rave.wien
+DTSTAMP:20251126T000000Z
+DTSTART;VALUE=DATE:20251126
+DTEND;VALUE=DATE:20251127
+SUMMARY:RAVE AM MITTWOCH I Free Party
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2025-11
+ -26-rave-am-mittwoch-i-free-party
+URL:https://rave.wien/e/2025-11-26-rave-am-mittwoch-i-free-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-10-rave-am-mittwoch-i-free-party@rave.wien
+DTSTAMP:20251210T000000Z
+DTSTART;VALUE=DATE:20251210
+DTEND;VALUE=DATE:20251211
+SUMMARY:RAVE AM MITTWOCH I Free Party
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2025-12
+ -10-rave-am-mittwoch-i-free-party
+URL:https://rave.wien/e/2025-12-10-rave-am-mittwoch-i-free-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-21-rave-am-mittwoch-i-free-party@rave.wien
+DTSTAMP:20260121T000000Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:RAVE AM MITTWOCH I Free Party
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2026-01
+ -21-rave-am-mittwoch-i-free-party
+URL:https://rave.wien/e/2026-01-21-rave-am-mittwoch-i-free-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-28-rave-am-mittwoch-i-free-party@rave.wien
+DTSTAMP:20260128T000000Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:RAVE AM MITTWOCH I Free Party
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2026-01
+ -28-rave-am-mittwoch-i-free-party
+URL:https://rave.wien/e/2026-01-28-rave-am-mittwoch-i-free-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-18-rave-am-mittwoch@rave.wien
+DTSTAMP:20260218T000000Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:RAVE AM MITTWOCH
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2026-02
+ -18-rave-am-mittwoch
+URL:https://rave.wien/e/2026-02-18-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-25-rave-am-mittwoch-i-free-party@rave.wien
+DTSTAMP:20260225T000000Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+SUMMARY:RAVE AM MITTWOCH I Free Party
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2026-02
+ -25-rave-am-mittwoch-i-free-party
+URL:https://rave.wien/e/2026-02-25-rave-am-mittwoch-i-free-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-11-rave-am-mittwoch@rave.wien
+DTSTAMP:20260311T000000Z
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+SUMMARY:RAVE AM MITTWOCH
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2026-03
+ -11-rave-am-mittwoch
+URL:https://rave.wien/e/2026-03-11-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-18-rave-am-mittwoch@rave.wien
+DTSTAMP:20260318T000000Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:RAVE AM MITTWOCH
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2026-03
+ -18-rave-am-mittwoch
+URL:https://rave.wien/e/2026-03-18-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-25-rave-am-mittwoch@rave.wien
+DTSTAMP:20260325T000000Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:RAVE AM MITTWOCH
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2026-03
+ -25-rave-am-mittwoch
+URL:https://rave.wien/e/2026-03-25-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-29-4-yrs-rave-am-mittwoch-i-free-party@rave.wien
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:4 YRS RAVE AM MITTWOCH I Free Party
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2026-04
+ -29-4-yrs-rave-am-mittwoch-i-free-party
+URL:https://rave.wien/e/2026-04-29-4-yrs-rave-am-mittwoch-i-free-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-11-rave-am-mittwoch-scheibenwischer-solv-r-all-night@rave.wien
+DTSTAMP:20260711T000000Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Rave am Mittwoch: Scheibenwischer & SOLVÆR (All Night Long)
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Scheibenwischer\, Solvær\nVeranstalter: Rave am Mittwoch\n\n
+ https://rave.wien/e/2026-07-11-rave-am-mittwoch-scheibenwischer-solv-r-a
+ ll-night
+URL:https://rave.wien/e/2026-07-11-rave-am-mittwoch-scheibenwischer-solv-
+ r-all-night
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-19-ram-rave-am-mittwoch@rave.wien
+DTSTAMP:20260819T000000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:RAM – Rave am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2026-08
+ -19-ram-rave-am-mittwoch
+URL:https://rave.wien/e/2026-08-19-ram-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-26-ram-rave-am-mittwoch@rave.wien
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:RAM – Rave am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2026-08
+ -26-ram-rave-am-mittwoch
+URL:https://rave.wien/e/2026-08-26-ram-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-24-rave-am-mittwoch-special-edition-grelle-forelle@rave.wien
+DTSTAMP:20261024T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:RAVE AM MITTWOCH // SPECIAL EDITION // Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Anatol\, Tomagan\, Louisa India\, Pinklotion\, adrialin\nVera
+ nstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2026-10-24-rave-am-mit
+ twoch-special-edition-grelle-forelle
+URL:https://rave.wien/e/2026-10-24-rave-am-mittwoch-special-edition-grell
+ e-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-28-rave-am-mittwoch@rave.wien
+DTSTAMP:20261028T000000Z
+DTSTART;TZID=Europe/Vienna:20261028T230000
+DTEND;TZID=Europe/Vienna:20261029T040000
+SUMMARY:Rave am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\nEintritt frei\n\nWöchentlich
+ er Mittwochs-Rave im Werk.\n\nhttps://rave.wien/e/2026-10-28-rave-am-mit
+ twoch
+URL:https://rave.wien/e/2026-10-28-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-04-rave-am-mittwoch@rave.wien
 DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Vienna:20261104T230000

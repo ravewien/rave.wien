@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-13-spumante-soundbuglerei-with-super-sound-global@rave.wien
+DTSTAMP:20260213T000000Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:Spumante & Soundbüglerei with Super Sound Global
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Super Sound Global\nVeranstalter: Soundbüglerei\n\nhttps://r
+ ave.wien/e/2026-02-13-spumante-soundbuglerei-with-super-sound-global
+URL:https://rave.wien/e/2026-02-13-spumante-soundbuglerei-with-super-soun
+ d-global
+END:VEVENT
 END:VCALENDAR

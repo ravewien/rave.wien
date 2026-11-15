@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-08-16-profiliga-presents-marco-bailey@rave.wien
+DTSTAMP:20250816T000000Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+SUMMARY:PROFILIGA presents MARCO BAILEY!
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Marco Bailey\nVeranstalter: Profiliga\n\nhttps://rave.wien/e/
+ 2025-08-16-profiliga-presents-marco-bailey
+URL:https://rave.wien/e/2025-08-16-profiliga-presents-marco-bailey
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-25-profiliga-pras-victor-ruiz@rave.wien
+DTSTAMP:20251025T000000Z
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+SUMMARY:PROFILIGA präs: Victor Ruiz
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Victor Ruiz\nVeranstalter: Profiliga\n\nhttps://rave.wien/e/2
+ 025-10-25-profiliga-pras-victor-ruiz
+URL:https://rave.wien/e/2025-10-25-profiliga-pras-victor-ruiz
+END:VEVENT
 END:VCALENDAR

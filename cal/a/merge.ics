@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-19-deep-cut-hypnotic-deep-techno-w-merge-urna-sonic@rave.wien
+DTSTAMP:20250619T000000Z
+DTSTART;VALUE=DATE:20250619
+DTEND;VALUE=DATE:20250620
+SUMMARY:deep cut – hypnotic & deep techno w/ MERGE\, urna()sonic\, pezel
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Merge\, urna()sonic\, pezel\nVeranstalter: deep cut\n\nhttps:
+ //rave.wien/e/2025-06-19-deep-cut-hypnotic-deep-techno-w-merge-urna-soni
+ c
+URL:https://rave.wien/e/2025-06-19-deep-cut-hypnotic-deep-techno-w-merge-
+ urna-sonic
+END:VEVENT
 END:VCALENDAR

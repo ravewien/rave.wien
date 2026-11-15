@@ -41,4 +41,112 @@ DESCRIPTION:Mario Ranieri\, KJAER\, JP eXbert\, Richard Steinschlag\nVera
  rave.wien/e/2026-12-07-ravecon-mind-x-mas-feat-mario-ranieri
 URL:https://rave.wien/e/2026-12-07-ravecon-mind-x-mas-feat-mario-ranieri
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-22-store-beats@rave.wien
+DTSTAMP:20240822T000000Z
+DTSTART;VALUE=DATE:20240822
+DTEND;VALUE=DATE:20240823
+SUMMARY:Store Beats
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Store Beats\, Mind Entertainment\n\nhttps://rav
+ e.wien/e/2024-08-22-store-beats
+URL:https://rave.wien/e/2024-08-22-store-beats
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-10-store-beats-ii@rave.wien
+DTSTAMP:20250110T000000Z
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+SUMMARY:Store Beats II
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Store Beats\, Mind Entertainment\n\nhttps://rav
+ e.wien/e/2025-01-10-store-beats-ii
+URL:https://rave.wien/e/2025-01-10-store-beats-ii
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-06-store-beats-mind-entertainment-edition@rave.wien
+DTSTAMP:20250606T000000Z
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250607
+SUMMARY:Store Beats – Mind Entertainment Edition
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Store Beats\, Mind Entertainment\n\nhttps://rav
+ e.wien/e/2025-06-06-store-beats-mind-entertainment-edition
+URL:https://rave.wien/e/2025-06-06-store-beats-mind-entertainment-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-18-store-beats@rave.wien
+DTSTAMP:20250718T000000Z
+DTSTART;VALUE=DATE:20250718
+DTEND;VALUE=DATE:20250719
+SUMMARY:Store Beats
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Store Beats\, Mind Entertainment\n\nhttps://rav
+ e.wien/e/2025-07-18-store-beats
+URL:https://rave.wien/e/2025-07-18-store-beats
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-26-store-beats@rave.wien
+DTSTAMP:20250926T000000Z
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250927
+SUMMARY:Store Beats
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Store Beats\, Mind Entertainment\n\nhttps://rav
+ e.wien/e/2025-09-26-store-beats
+URL:https://rave.wien/e/2025-09-26-store-beats
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-09-store-beats@rave.wien
+DTSTAMP:20260109T000000Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:STORE BEATS
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Store Beats\, Mind Entertainment\n\nhttps://rav
+ e.wien/e/2026-01-09-store-beats
+URL:https://rave.wien/e/2026-01-09-store-beats
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-07-store-beats@rave.wien
+DTSTAMP:20260507T000000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:STORE BEATS
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Store Beats\, Mind Entertainment\n\nhttps://rav
+ e.wien/e/2026-05-07-store-beats
+URL:https://rave.wien/e/2026-05-07-store-beats
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-25-store-beats-mind-entertainment-edition@rave.wien
+DTSTAMP:20260725T000000Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:STORE BEATS – Mind Entertainment Edition
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Store Beats\, Mind Entertainment\n\nhttps://rav
+ e.wien/e/2026-07-25-store-beats-mind-entertainment-edition
+URL:https://rave.wien/e/2026-07-25-store-beats-mind-entertainment-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-28-ravecon-50th-release-mind-entertainment-records@rave.wien
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:RaveCon – 50th Release Mind Entertainment Records
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Veranstalter: Mind Entertainment\n\nhttps://rave.wien/e/2026-
+ 08-28-ravecon-50th-release-mind-entertainment-records
+URL:https://rave.wien/e/2026-08-28-ravecon-50th-release-mind-entertainmen
+ t-records
+END:VEVENT
 END:VCALENDAR

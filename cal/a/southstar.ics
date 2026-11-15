@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-03-06-step-forward-pres-southstar@rave.wien
+DTSTAMP:20260306T000000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:Step Forward pres. southstar
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:southstar\nVeranstalter: Step Forward\n\nhttps://rave.wien/e/
+ 2026-03-06-step-forward-pres-southstar
+URL:https://rave.wien/e/2026-03-06-step-forward-pres-southstar
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-04-25-1yr-misguided-with-steya-marcel-fengler-ktk-dlv@rave.wien
+DTSTAMP:20250425T000000Z
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250426
+SUMMARY:1YR MISGUIDED with STEYA\, Marcel Fengler\, KTK & DLV
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Steya\, Marcel Fengler\, KTK\, DLV\nVeranstalter: Misguided\n
+ \nhttps://rave.wien/e/2025-04-25-1yr-misguided-with-steya-marcel-fengler
+ -ktk-dlv
+URL:https://rave.wien/e/2025-04-25-1yr-misguided-with-steya-marcel-fengle
+ r-ktk-dlv
+END:VEVENT
 END:VCALENDAR

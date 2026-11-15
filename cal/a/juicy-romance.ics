@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-06-03-step-forward-pres-juicy-romance@rave.wien
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:STEP FORWARD PRES. Juicy Romance
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Juicy Romance\nVeranstalter: Step Forward\n\nhttps://rave.wie
+ n/e/2026-06-03-step-forward-pres-juicy-romance
+URL:https://rave.wien/e/2026-06-03-step-forward-pres-juicy-romance
+END:VEVENT
 END:VCALENDAR

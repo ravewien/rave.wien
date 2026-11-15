@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-15-fish-market-gulch-w-raumtester-gerald-vdh-push-an@rave.wien
+DTSTAMP:20241115T000000Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241116
+SUMMARY:FISH MARKET – Gulch w/ Raumtester\, Gerald VDH\, PUSH and many 
+ more
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Raumtester\, Gerald VDH\nVeranstalter: Fish Market\, PUSH\n\n
+ https://rave.wien/e/2024-11-15-fish-market-gulch-w-raumtester-gerald-vdh
+ -push-an
+URL:https://rave.wien/e/2024-11-15-fish-market-gulch-w-raumtester-gerald-
+ vdh-push-an
+END:VEVENT
 END:VCALENDAR

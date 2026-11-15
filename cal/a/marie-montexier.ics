@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-01-10-radio-rudina-invites-marie-montexier@rave.wien
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:Radio Rudina invites MARIE MONTEXIER
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Marie Montexier\nVeranstalter: Radio Rudina\n\nhttps://rave.w
+ ien/e/2026-01-10-radio-rudina-invites-marie-montexier
+URL:https://rave.wien/e/2026-01-10-radio-rudina-invites-marie-montexier
+END:VEVENT
 END:VCALENDAR

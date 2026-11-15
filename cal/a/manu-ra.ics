@@ -25,4 +25,98 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-07-19-fish-market-the-cursed-ones-w-lea-occhi-annika-st@rave.wien
+DTSTAMP:20240719T000000Z
+DTSTART;VALUE=DATE:20240719
+DTEND;VALUE=DATE:20240720
+SUMMARY:FISH MARKET – The Cursed Ones w/ Lea Occhi\, Annika Stein\, man
+ u:ra und PUSH-Floor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Lea Occhi\, Annika Stein\, Manu:ra\nVeranstalter: Fish Market
+ \, PUSH\n\nhttps://rave.wien/e/2024-07-19-fish-market-the-cursed-ones-w-
+ lea-occhi-annika-st
+URL:https://rave.wien/e/2024-07-19-fish-market-the-cursed-ones-w-lea-occh
+ i-annika-st
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-30-f-cken-plus-megerparty-model-6-ai-ultra-plus@rave.wien
+DTSTAMP:20241130T000000Z
+DTSTART;TZID=Europe/Vienna:20241130T230000
+DTEND;TZID=Europe/Vienna:20241201T040000
+SUMMARY:F*CKEN PLUS – Megerparty Model 6 AI Ultra Plus
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Violetta\, Manu:ra\, Annika Stein\, Gerald VDH\, DJ Wolle\, P
+ hilipp Eicher\, Wurstsalon\nVeranstalter: F*cken Plus\n\nhttps://rave.wi
+ en/e/2024-11-30-f-cken-plus-megerparty-model-6-ai-ultra-plus
+URL:https://rave.wien/e/2024-11-30-f-cken-plus-megerparty-model-6-ai-ultr
+ a-plus
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-17-fish-market-gropes-w-henning-baer-gerald-vdh-manu@rave.wien
+DTSTAMP:20250117T000000Z
+DTSTART;VALUE=DATE:20250117
+DTEND;VALUE=DATE:20250118
+SUMMARY:FISH MARKET – GROPES w/ HENNING BAER\, Gerald VDH\, Manu:ra und
+  Schlachthaus-Floor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Henning Baer\, Gerald VDH\, Manu:ra\nVeranstalter: Fish Marke
+ t\, Schlachthaus\n\nhttps://rave.wien/e/2025-01-17-fish-market-gropes-w-
+ henning-baer-gerald-vdh-manu
+URL:https://rave.wien/e/2025-01-17-fish-market-gropes-w-henning-baer-gera
+ ld-vdh-manu
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-28-f-cken-plus-utterly-butterly-inofficial-pride-clo@rave.wien
+DTSTAMP:20250628T000000Z
+DTSTART;VALUE=DATE:20250628
+DTEND;VALUE=DATE:20250629
+SUMMARY:F*cken Plus – Utterly Butterly Inofficial Pride Closing feat. J
+ amaica Suk\, Gerald VDH\, manu:ra\, u.v.m.
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Jamaica Suk\, Gerald VDH\, Manu:ra\nVeranstalter: F*cken Plus
+ \n\nhttps://rave.wien/e/2025-06-28-f-cken-plus-utterly-butterly-inoffici
+ al-pride-clo
+URL:https://rave.wien/e/2025-06-28-f-cken-plus-utterly-butterly-inofficia
+ l-pride-clo
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-20-fish-market-feat-lars-huismann-gerald-vdh-manu-ra@rave.wien
+DTSTAMP:20260320T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:FISH MARKET feat. Lars Huismann\, Gerald VDH\, Manu:ra\, Felix Ru
+ pprecht\, Flausche
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Lars Huismann\, Gerald VDH\, Manu:ra\, Felix Rupprecht\, Flau
+ sche\nVeranstalter: Fish Market\n\nhttps://rave.wien/e/2026-03-20-fish-m
+ arket-feat-lars-huismann-gerald-vdh-manu-ra
+URL:https://rave.wien/e/2026-03-20-fish-market-feat-lars-huismann-gerald-
+ vdh-manu-ra
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-16-fish-market-x-esc-party@rave.wien
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:FISH MARKET x ESC Party
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Steya\, Gerald VDH\, Destroyer\, Manu:ra\, Philipp Eicher\, W
+ urstaufschnitt\nVeranstalter: Fish Market\n\nhttps://rave.wien/e/2026-05
+ -16-fish-market-x-esc-party
+URL:https://rave.wien/e/2026-05-16-fish-market-x-esc-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-12-pre-pride-party-by-grelle-x-meat-market-x-rhinopl@rave.wien
+DTSTAMP:20260612T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Pre-Pride-Party by Grelle x MEAT Market x Rhinoplasty
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Gerald VDH\, saschka\, Violetta\, Manu:ra\, Firas\, Fabio\, B
+ en\n\nhttps://rave.wien/e/2026-06-12-pre-pride-party-by-grelle-x-meat-ma
+ rket-x-rhinopl
+URL:https://rave.wien/e/2026-06-12-pre-pride-party-by-grelle-x-meat-marke
+ t-x-rhinopl
+END:VEVENT
 END:VCALENDAR

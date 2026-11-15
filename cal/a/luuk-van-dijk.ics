@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-02-15-tasteless-with-luuk-van-dijk@rave.wien
+DTSTAMP:20250215T000000Z
+DTSTART;VALUE=DATE:20250215
+DTEND;VALUE=DATE:20250216
+SUMMARY:TASTELESS with Luuk van Dijk
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Luuk van Dijk\nVeranstalter: Tasteless\n\nhttps://rave.wien/e
+ /2025-02-15-tasteless-with-luuk-van-dijk
+URL:https://rave.wien/e/2025-02-15-tasteless-with-luuk-van-dijk
+END:VEVENT
 END:VCALENDAR

@@ -26,6 +26,19 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-09-28-mitmischen-by-wiener-mischung-w-psycholyse@rave.wien
+DTSTAMP:20240928T000000Z
+DTSTART;VALUE=DATE:20240928
+DTEND;VALUE=DATE:20240929
+SUMMARY:Mitmischen by Wiener Mischung w/Psycholyse
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Psycholyse\nVeranstalter: Wiener Mischung\n\nhttps://rave.wie
+ n/e/2024-09-28-mitmischen-by-wiener-mischung-w-psycholyse
+URL:https://rave.wien/e/2024-09-28-mitmischen-by-wiener-mischung-w-psycho
+ lyse
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-mitmischen@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T233000

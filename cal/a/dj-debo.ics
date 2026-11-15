@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-04-12-magnetic-funk-pres-dj-debo-funk-freaks-usa@rave.wien
+DTSTAMP:20250412T000000Z
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250413
+SUMMARY:Magnetic Funk pres. DJ Debo (Funk Freaks\, USA)
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:DJ Debo (Funk Freaks\, USA)\n\nhttps://rave.wien/e/2025-04-12
+ -magnetic-funk-pres-dj-debo-funk-freaks-usa
+URL:https://rave.wien/e/2025-04-12-magnetic-funk-pres-dj-debo-funk-freaks
+ -usa
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-07-05-7-yrs-techno-entgleist-w-vizionn-occibel@rave.wien
+DTSTAMP:20240705T000000Z
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240706
+SUMMARY:7 YRS TECHNO ENTGLEIST w/ VIZIONN & OCCIBEL
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Vizionn\, Occibel\nVeranstalter: Techno Entgleist\n\nhttps://
+ rave.wien/e/2024-07-05-7-yrs-techno-entgleist-w-vizionn-occibel
+URL:https://rave.wien/e/2024-07-05-7-yrs-techno-entgleist-w-vizionn-occib
+ el
+END:VEVENT
 END:VCALENDAR

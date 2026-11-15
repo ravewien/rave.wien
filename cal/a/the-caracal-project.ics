@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-09-21-contrast-pres-de-verte-w-imanu-buunshin-the-carac@rave.wien
+DTSTAMP:20240921T000000Z
+DTSTART;VALUE=DATE:20240921
+DTEND;VALUE=DATE:20240922
+SUMMARY:CONTRAST pres. DE_VERTE w/ IMANU + BUUNSHIN + THE CARACAL PROJECT
+  | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Imanu\, Buunshin\, The Caracal Project\nVeranstalter: Contras
+ t\n\nhttps://rave.wien/e/2024-09-21-contrast-pres-de-verte-w-imanu-buuns
+ hin-the-carac
+URL:https://rave.wien/e/2024-09-21-contrast-pres-de-verte-w-imanu-buunshi
+ n-the-carac
+END:VEVENT
 END:VCALENDAR

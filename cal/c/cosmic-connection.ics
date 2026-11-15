@@ -25,4 +25,100 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-01-11-cosmic-connection-vol-7@rave.wien
+DTSTAMP:20240111T000000Z
+DTSTART;VALUE=DATE:20240111
+DTEND;VALUE=DATE:20240112
+SUMMARY:Cosmic Connection vol.7
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Cosmic Connection\n\nhttps://rave.wien/e/2024-0
+ 1-11-cosmic-connection-vol-7
+URL:https://rave.wien/e/2024-01-11-cosmic-connection-vol-7
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-02-01-cosmic-connection-vol-8@rave.wien
+DTSTAMP:20240201T000000Z
+DTSTART;VALUE=DATE:20240201
+DTEND;VALUE=DATE:20240202
+SUMMARY:Cosmic Connection vol.8
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Cosmic Connection\n\nhttps://rave.wien/e/2024-0
+ 2-01-cosmic-connection-vol-8
+URL:https://rave.wien/e/2024-02-01-cosmic-connection-vol-8
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-25-cosmic-connection-vol-9@rave.wien
+DTSTAMP:20240425T000000Z
+DTSTART;VALUE=DATE:20240425
+DTEND;VALUE=DATE:20240426
+SUMMARY:Cosmic Connection vol.9
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Cosmic Connection\n\nhttps://rave.wien/e/2024-0
+ 4-25-cosmic-connection-vol-9
+URL:https://rave.wien/e/2024-04-25-cosmic-connection-vol-9
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-30-cosmic-connection-vol-10@rave.wien
+DTSTAMP:20240530T000000Z
+DTSTART;VALUE=DATE:20240530
+DTEND;VALUE=DATE:20240531
+SUMMARY:Cosmic Connection vol.10
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Cosmic Connection\n\nhttps://rave.wien/e/2024-0
+ 5-30-cosmic-connection-vol-10
+URL:https://rave.wien/e/2024-05-30-cosmic-connection-vol-10
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-16-cosmic-connection-vol-11@rave.wien
+DTSTAMP:20240816T000000Z
+DTSTART;VALUE=DATE:20240816
+DTEND;VALUE=DATE:20240817
+SUMMARY:Cosmic Connection vol.11
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Cosmic Connection\n\nhttps://rave.wien/e/2024-0
+ 8-16-cosmic-connection-vol-11
+URL:https://rave.wien/e/2024-08-16-cosmic-connection-vol-11
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-12-cosmic-connection-vol-12@rave.wien
+DTSTAMP:20240912T000000Z
+DTSTART;VALUE=DATE:20240912
+DTEND;VALUE=DATE:20240913
+SUMMARY:Cosmic Connection vol.12
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Cosmic Connection\n\nhttps://rave.wien/e/2024-0
+ 9-12-cosmic-connection-vol-12
+URL:https://rave.wien/e/2024-09-12-cosmic-connection-vol-12
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-19-cosmic-connection-vol-13@rave.wien
+DTSTAMP:20241219T000000Z
+DTSTART;VALUE=DATE:20241219
+DTEND;VALUE=DATE:20241220
+SUMMARY:Cosmic Connection vol.13
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Cosmic Connection\n\nhttps://rave.wien/e/2024-1
+ 2-19-cosmic-connection-vol-13
+URL:https://rave.wien/e/2024-12-19-cosmic-connection-vol-13
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-02-cosmic-connection-vol-14@rave.wien
+DTSTAMP:20250102T000000Z
+DTSTART;VALUE=DATE:20250102
+DTEND;VALUE=DATE:20250103
+SUMMARY:Cosmic Connection vol.14
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Cosmic Connection\n\nhttps://rave.wien/e/2025-0
+ 1-02-cosmic-connection-vol-14
+URL:https://rave.wien/e/2025-01-02-cosmic-connection-vol-14
+END:VEVENT
 END:VCALENDAR

@@ -40,4 +40,28 @@ DESCRIPTION:Malounadou\, Anna Soto\, Jule Feser\, Aside\nVeranstalter: Da
  t
 URL:https://rave.wien/e/2026-11-20-syndikat
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-01-20-gaze-w-chris-cruse-malounadou-jorkes-rumi-von-bai@rave.wien
+DTSTAMP:20240120T000000Z
+DTSTART;VALUE=DATE:20240120
+DTEND;VALUE=DATE:20240121
+SUMMARY:GAZE w/ Chris Cruse\, Malounadou\, Jorkes & Rumi von Baires
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Chris Cruse\, Malounadou\, Jorkes\, Rumi Von Baires\nVeransta
+ lter: Gaze\n\nhttps://rave.wien/e/2024-01-20-gaze-w-chris-cruse-malounad
+ ou-jorkes-rumi-von-bai
+URL:https://rave.wien/e/2024-01-20-gaze-w-chris-cruse-malounadou-jorkes-r
+ umi-von-bai
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-10-soundbuglerei-w-malounadou@rave.wien
+DTSTAMP:20250510T000000Z
+DTSTART;VALUE=DATE:20250510
+DTEND;VALUE=DATE:20250511
+SUMMARY:Soundbüglerei w/Malounadou
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Malounadou\nVeranstalter: Soundbüglerei\n\nhttps://rave.wien
+ /e/2025-05-10-soundbuglerei-w-malounadou
+URL:https://rave.wien/e/2025-05-10-soundbuglerei-w-malounadou
+END:VEVENT
 END:VCALENDAR

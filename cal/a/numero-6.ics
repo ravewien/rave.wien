@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-05-08-housetiere-with-numero-6-fr@rave.wien
+DTSTAMP:20260508T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:HOUSETIERE with Numero 6 [FR]
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Numero 6\nVeranstalter: Housetiere\n\nhttps://rave.wien/e/202
+ 6-05-08-housetiere-with-numero-6-fr
+URL:https://rave.wien/e/2026-05-08-housetiere-with-numero-6-fr
+END:VEVENT
 END:VCALENDAR

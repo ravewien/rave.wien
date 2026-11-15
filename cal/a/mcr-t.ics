@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-27-mcr-t-frederic-all-night-long-selected-x-grelle-f@rave.wien
+DTSTAMP:20241227T000000Z
+DTSTART;VALUE=DATE:20241227
+DTEND;VALUE=DATE:20241228
+SUMMARY:MCR-T & Frederic. All Night Long | Selected x Grelle Forelle XXXM
+ AS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mcr-t\, Frederic.\nVeranstalter: Selected\n\nhttps://rave.wie
+ n/e/2024-12-27-mcr-t-frederic-all-night-long-selected-x-grelle-f
+URL:https://rave.wien/e/2024-12-27-mcr-t-frederic-all-night-long-selected
+ -x-grelle-f
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-04-step-forward-pres-mcr-t@rave.wien
+DTSTAMP:20250404T000000Z
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250405
+SUMMARY:Step Forward pres. MCR-T
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mcr-t\nVeranstalter: Step Forward\n\nhttps://rave.wien/e/2025
+ -04-04-step-forward-pres-mcr-t
+URL:https://rave.wien/e/2025-04-04-step-forward-pres-mcr-t
+END:VEVENT
 END:VCALENDAR

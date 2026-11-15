@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-08-23-sunsetechno-vol-3@rave.wien
+DTSTAMP:20260823T000000Z
+DTSTART;TZID=Europe/Vienna:20260823T140000
+DTEND;TZID=Europe/Vienna:20260823T220000
+SUMMARY:SunSETechno Vol. 3
+LOCATION:Porto Pollo\, Donauinsel 19\, 1220 Wien
+DESCRIPTION:Mat Schubert\, DELIVARY\, Juan Schreiber\, Fede Fröstl\nEint
+ ritt: freie Spende\n\nhttps://rave.wien/e/2026-08-23-sunsetechno-vol-3
+URL:https://rave.wien/e/2026-08-23-sunsetechno-vol-3
+END:VEVENT
 END:VCALENDAR

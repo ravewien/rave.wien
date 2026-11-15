@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-28-vie-w-x-vbx-w-laurine-reiss@rave.wien
+DTSTAMP:20240628T000000Z
+DTSTART;VALUE=DATE:20240628
+DTEND;VALUE=DATE:20240629
+SUMMARY:VIE.W X VBX w/ Laurine & Reiss
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Laurine\, Reiss\nVeranstalter: VIE.W\n\nhttps://rave.wien/e/2
+ 024-06-28-vie-w-x-vbx-w-laurine-reiss
+URL:https://rave.wien/e/2024-06-28-vie-w-x-vbx-w-laurine-reiss
+END:VEVENT
 END:VCALENDAR

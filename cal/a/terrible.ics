@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-03-06-heimliche-fruhlingsgefuhle@rave.wien
+DTSTAMP:20260306T000000Z
+DTSTART;TZID=Europe/Vienna:20260306T220000
+DTEND;TZID=Europe/Vienna:20260307T060000
+SUMMARY:Heimliche Frühlingsgefühle
+LOCATION:B72\, Hernalser Gürtel 72–73\, 1080 Wien
+DESCRIPTION:Leo Schick\, Terrible\, Oliver Rottmann\, MËX\, Andreas Buch
+ ner\nVeranstalter: Heimlich\nEintritt: AK 15 €\n\nhttps://rave.wien/e/
+ 2026-03-06-heimliche-fruhlingsgefuhle
+URL:https://rave.wien/e/2026-03-06-heimliche-fruhlingsgefuhle
+END:VEVENT
 END:VCALENDAR

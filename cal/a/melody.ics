@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-04-30-tasteless-x-vibrant-uk-with-melody@rave.wien
+DTSTAMP:20260430T000000Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:TASTELESS X VIBRANT (UK) with MELODY
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Melody\nVeranstalter: Tasteless\n\nhttps://rave.wien/e/2026-0
+ 4-30-tasteless-x-vibrant-uk-with-melody
+URL:https://rave.wien/e/2026-04-30-tasteless-x-vibrant-uk-with-melody
+END:VEVENT
 END:VCALENDAR

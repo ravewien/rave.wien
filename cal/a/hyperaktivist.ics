@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-05-30-straat-264-x-vnv-w-dax-j-hyperaktivist@rave.wien
+DTSTAMP:20260530T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:STRAAT 264 x VNV w/ DAX J & Hyperaktivist
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Dax J\, Hyperaktivist\nVeranstalter: Straat 264\, VNV\n\nhttp
+ s://rave.wien/e/2026-05-30-straat-264-x-vnv-w-dax-j-hyperaktivist
+URL:https://rave.wien/e/2026-05-30-straat-264-x-vnv-w-dax-j-hyperaktivist
+END:VEVENT
 END:VCALENDAR

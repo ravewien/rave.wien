@@ -25,4 +25,47 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-04-20-contrast-pres-neosignal-w-phace-misanthrop-annix@rave.wien
+DTSTAMP:20240420T000000Z
+DTSTART;VALUE=DATE:20240420
+DTEND;VALUE=DATE:20240421
+SUMMARY:CONTRAST pres. NEOSIGNAL w/ PHACE + MISANTHROP + ANNIX + ROCKWELL
+  | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Phace\, Misanthrop\, Annix\, Rockwell\nVeranstalter: Contrast
+ \n\nhttps://rave.wien/e/2024-04-20-contrast-pres-neosignal-w-phace-misan
+ throp-annix
+URL:https://rave.wien/e/2024-04-20-contrast-pres-neosignal-w-phace-misant
+ hrop-annix
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-21-contrast-x-10-yrs-at-grelle-forelle@rave.wien
+DTSTAMP:20250221T000000Z
+DTSTART;VALUE=DATE:20250221
+DTEND;VALUE=DATE:20250222
+SUMMARY:CONTRAST – X – 10 YRS at GRELLE FORELLE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mefjus & Daxta\, Dub Phizix & Strategy\, Forbidden Society\, 
+ Misanthrop\, Phace\, Rockwell\, Workforce\, AudioDevice\, Blind Judge\, 
+ Dora\, Lost Content\, Redex\, Wingz\, Sequent\, Aras\, Jalen Mess\, Sara
+ h Allen\, Feli Nightingale\, Jas Rial\, Sunshine Daddy\, FNKYN\nVeransta
+ lter: Contrast\n\nhttps://rave.wien/e/2025-02-21-contrast-x-10-yrs-at-gr
+ elle-forelle
+URL:https://rave.wien/e/2025-02-21-contrast-x-10-yrs-at-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-21-contrast-pres-neosignal-w-phace-misanthrop-rockwe@rave.wien
+DTSTAMP:20260321T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:CONTRAST pres. NEOSIGNAL w/ PHACE + MISANTHROP + ROCKWELL + BUUNS
+ HIN | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Phace\, Misanthrop\, Rockwell\, Buunshin\nVeranstalter: Contr
+ ast\n\nhttps://rave.wien/e/2026-03-21-contrast-pres-neosignal-w-phace-mi
+ santhrop-rockwe
+URL:https://rave.wien/e/2026-03-21-contrast-pres-neosignal-w-phace-misant
+ hrop-rockwe
+END:VEVENT
 END:VCALENDAR

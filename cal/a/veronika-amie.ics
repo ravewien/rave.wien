@@ -44,4 +44,30 @@ DESCRIPTION:Veronika Amie\, Paul Panther\, Philipp Blecha\nVeranstalter:
  e.wien/e/2026-11-14-club-pompadour
 URL:https://rave.wien/e/2026-11-14-club-pompadour
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-13-flashback-techno-classics-pompadour-grelle-forell@rave.wien
+DTSTAMP:20240713T000000Z
+DTSTART;TZID=Europe/Vienna:20240713T230000
+DTEND;TZID=Europe/Vienna:20240714T040000
+SUMMARY:FLASHBACK Techno Classics & Pompadour @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Frau Hofmann\, Joro & Joabo\, Rokis\, Peter Pan\, Tom Snow\, 
+ Martin Oelz\, MC Mars\, MC Spot\, Veronika Amie\, Thomas Grün\, Philipp
+  Blecha\nVeranstalter: Flashback\, Club Pompadour\n\nKitchen gehostet vo
+ n „Pompadour“\n\nhttps://rave.wien/e/2024-07-13-flashback-techno-cla
+ ssics-pompadour-grelle-forell
+URL:https://rave.wien/e/2024-07-13-flashback-techno-classics-pompadour-gr
+ elle-forell
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-04-homebase-w-veronika-amie@rave.wien
+DTSTAMP:20251104T000000Z
+DTSTART;VALUE=DATE:20251104
+DTEND;VALUE=DATE:20251105
+SUMMARY:Homebase w/ Veronika Amie
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veronika Amie\nVeranstalter: Homebase\n\nhttps://rave.wien/e/
+ 2025-11-04-homebase-w-veronika-amie
+URL:https://rave.wien/e/2025-11-04-homebase-w-veronika-amie
+END:VEVENT
 END:VCALENDAR

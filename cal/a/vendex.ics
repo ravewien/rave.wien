@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-29-impulse-w-vendex@rave.wien
+DTSTAMP:20240529T000000Z
+DTSTART;VALUE=DATE:20240529
+DTEND;VALUE=DATE:20240530
+SUMMARY:Impulse w/ Vendex
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Vendex\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2024-05-
+ 29-impulse-w-vendex
+URL:https://rave.wien/e/2024-05-29-impulse-w-vendex
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,171 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-14-nachtschub-w-leo-bufera-andrew-cairns@rave.wien
+DTSTAMP:20240614T000000Z
+DTSTART;VALUE=DATE:20240614
+DTEND;VALUE=DATE:20240615
+SUMMARY:NACHTSCHUB w/ Leo Bufera & Andrew Cairns
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Leo Bufera\, Andrew Cairns\nVeranstalter: Nachtschub\n\nhttps
+ ://rave.wien/e/2024-06-14-nachtschub-w-leo-bufera-andrew-cairns
+URL:https://rave.wien/e/2024-06-14-nachtschub-w-leo-bufera-andrew-cairns
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-12-nachtschub-w-prydie@rave.wien
+DTSTAMP:20240712T000000Z
+DTSTART;VALUE=DATE:20240712
+DTEND;VALUE=DATE:20240713
+SUMMARY:NACHTSCHUB w/ PRYDIE
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Prydie\nVeranstalter: Nachtschub\n\nhttps://rave.wien/e/2024-
+ 07-12-nachtschub-w-prydie
+URL:https://rave.wien/e/2024-07-12-nachtschub-w-prydie
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-13-nachtschub-luzzt-birthday-bash@rave.wien
+DTSTAMP:20240913T000000Z
+DTSTART;VALUE=DATE:20240913
+DTEND;VALUE=DATE:20240914
+SUMMARY:NACHTSCHUB – LUZZT birthday bash
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:LUZZT\nVeranstalter: Nachtschub\n\nhttps://rave.wien/e/2024-0
+ 9-13-nachtschub-luzzt-birthday-bash
+URL:https://rave.wien/e/2024-09-13-nachtschub-luzzt-birthday-bash
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-24-nachtschub-by-gesindel-der-nacht@rave.wien
+DTSTAMP:20250124T000000Z
+DTSTART;VALUE=DATE:20250124
+DTEND;VALUE=DATE:20250125
+SUMMARY:NACHTSCHUB by Gesindel der Nacht
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Nachtschub\, Gesindel der Nacht\n\nhttps://rave
+ .wien/e/2025-01-24-nachtschub-by-gesindel-der-nacht
+URL:https://rave.wien/e/2025-01-24-nachtschub-by-gesindel-der-nacht
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-22-nachtschub-schranz-edition@rave.wien
+DTSTAMP:20250222T000000Z
+DTSTART;VALUE=DATE:20250222
+DTEND;VALUE=DATE:20250223
+SUMMARY:NACHTSCHUB – Schranz Edition
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Nachtschub\n\nhttps://rave.wien/e/2025-02-22-na
+ chtschub-schranz-edition
+URL:https://rave.wien/e/2025-02-22-nachtschub-schranz-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-19-nachtschub-easter-edition@rave.wien
+DTSTAMP:20250419T000000Z
+DTSTART;VALUE=DATE:20250419
+DTEND;VALUE=DATE:20250420
+SUMMARY:NACHTSCHUB – Easter Edition
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Nachtschub\n\nhttps://rave.wien/e/2025-04-19-na
+ chtschub-easter-edition
+URL:https://rave.wien/e/2025-04-19-nachtschub-easter-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-23-nachtschub-with-skoden-uk@rave.wien
+DTSTAMP:20250523T000000Z
+DTSTART;VALUE=DATE:20250523
+DTEND;VALUE=DATE:20250524
+SUMMARY:NACHTSCHUB with Skoden (UK)
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Skoden\nVeranstalter: Nachtschub\n\nhttps://rave.wien/e/2025-
+ 05-23-nachtschub-with-skoden-uk
+URL:https://rave.wien/e/2025-05-23-nachtschub-with-skoden-uk
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-18-nachtschub-with-drakk-us@rave.wien
+DTSTAMP:20250618T000000Z
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250619
+SUMMARY:NACHTSCHUB with DRAKK (US)
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Drakk\nVeranstalter: Nachtschub\n\nhttps://rave.wien/e/2025-0
+ 6-18-nachtschub-with-drakk-us
+URL:https://rave.wien/e/2025-06-18-nachtschub-with-drakk-us
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-22-nachtschub-flinta-on-decks@rave.wien
+DTSTAMP:20250822T000000Z
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250823
+SUMMARY:NACHTSCHUB – FLINTA* ON DECKS
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Nachtschub\n\nhttps://rave.wien/e/2025-08-22-na
+ chtschub-flinta-on-decks
+URL:https://rave.wien/e/2025-08-22-nachtschub-flinta-on-decks
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-26-nachtschub-with-hnas-de-presented-by-gdn@rave.wien
+DTSTAMP:20250926T000000Z
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250927
+SUMMARY:NACHTSCHUB with HNAS (DE) presented by GDN
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:HNAS\nVeranstalter: Nachtschub\, GDN\n\nhttps://rave.wien/e/2
+ 025-09-26-nachtschub-with-hnas-de-presented-by-gdn
+URL:https://rave.wien/e/2025-09-26-nachtschub-with-hnas-de-presented-by-g
+ dn
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-22-nachtschub-schranz-bounce-edition@rave.wien
+DTSTAMP:20251122T000000Z
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+SUMMARY:NACHTSCHUB – Schranz & Bounce Edition
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Nachtschub\n\nhttps://rave.wien/e/2025-11-22-na
+ chtschub-schranz-bounce-edition
+URL:https://rave.wien/e/2025-11-22-nachtschub-schranz-bounce-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-06-nachtschub-flinta-edition-w-veyla@rave.wien
+DTSTAMP:20260306T000000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:NACHTSCHUB – FLINTA* Edition w/ VEYLA
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veyla\nVeranstalter: Nachtschub\n\nhttps://rave.wien/e/2026-0
+ 3-06-nachtschub-flinta-edition-w-veyla
+URL:https://rave.wien/e/2026-03-06-nachtschub-flinta-edition-w-veyla
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-03-nachtschub-with-dasstudach-prydie@rave.wien
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:NACHTSCHUB with dasstudach & Prydie
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:dasstudach\, Prydie\nVeranstalter: Nachtschub\n\nhttps://rave
+ .wien/e/2026-04-03-nachtschub-with-dasstudach-prydie
+URL:https://rave.wien/e/2026-04-03-nachtschub-with-dasstudach-prydie
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-01-nachtschub-flinta-edition-with-micyvid-x-ivv-lmtd@rave.wien
+DTSTAMP:20260501T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:NACHTSCHUB – FLINTA* Edition with MICYVID X IVV.LMTD
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Micyvid\, Ivv.lmtd\nVeranstalter: Nachtschub\n\nhttps://rave.
+ wien/e/2026-05-01-nachtschub-flinta-edition-with-micyvid-x-ivv-lmtd
+URL:https://rave.wien/e/2026-05-01-nachtschub-flinta-edition-with-micyvid
+ -x-ivv-lmtd
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-05-nachtschub-with-leonard-palm-prydie@rave.wien
+DTSTAMP:20260605T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:NACHTSCHUB with Leonard Palm & PRYDIE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Leonard Palm\, Prydie\nVeranstalter: Nachtschub\n\nhttps://ra
+ ve.wien/e/2026-06-05-nachtschub-with-leonard-palm-prydie
+URL:https://rave.wien/e/2026-06-05-nachtschub-with-leonard-palm-prydie
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,100 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-01-25-hart-zart@rave.wien
+DTSTAMP:20240125T000000Z
+DTSTART;VALUE=DATE:20240125
+DTEND;VALUE=DATE:20240126
+SUMMARY:HART & ZART
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Hart & Zart\n\nhttps://rave.wien/e/2024-01-25-h
+ art-zart
+URL:https://rave.wien/e/2024-01-25-hart-zart
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-02-29-hart-zart@rave.wien
+DTSTAMP:20240229T000000Z
+DTSTART;VALUE=DATE:20240229
+DTEND;VALUE=DATE:20240301
+SUMMARY:HART & ZART
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Hart & Zart\n\nhttps://rave.wien/e/2024-02-29-h
+ art-zart
+URL:https://rave.wien/e/2024-02-29-hart-zart
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-01-hart-zart@rave.wien
+DTSTAMP:20240801T000000Z
+DTSTART;VALUE=DATE:20240801
+DTEND;VALUE=DATE:20240802
+SUMMARY:HART & ZART
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Hart & Zart\n\nhttps://rave.wien/e/2024-08-01-h
+ art-zart
+URL:https://rave.wien/e/2024-08-01-hart-zart
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-07-hart-zart@rave.wien
+DTSTAMP:20241107T000000Z
+DTSTART;VALUE=DATE:20241107
+DTEND;VALUE=DATE:20241108
+SUMMARY:HART & ZART
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Hart & Zart\n\nhttps://rave.wien/e/2024-11-07-h
+ art-zart
+URL:https://rave.wien/e/2024-11-07-hart-zart
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-12-hart-zart@rave.wien
+DTSTAMP:20250612T000000Z
+DTSTART;VALUE=DATE:20250612
+DTEND;VALUE=DATE:20250613
+SUMMARY:HART & ZART
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Hart & Zart\n\nhttps://rave.wien/e/2025-06-12-h
+ art-zart
+URL:https://rave.wien/e/2025-06-12-hart-zart
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-07-hart-zart@rave.wien
+DTSTAMP:20250807T000000Z
+DTSTART;VALUE=DATE:20250807
+DTEND;VALUE=DATE:20250808
+SUMMARY:HART & ZART
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Hart & Zart\n\nhttps://rave.wien/e/2025-08-07-h
+ art-zart
+URL:https://rave.wien/e/2025-08-07-hart-zart
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-15-hart-zart@rave.wien
+DTSTAMP:20260115T000000Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:HART & ZART
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Hart & Zart\n\nhttps://rave.wien/e/2026-01-15-h
+ art-zart
+URL:https://rave.wien/e/2026-01-15-hart-zart
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-23-hart-zart@rave.wien
+DTSTAMP:20260723T000000Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:HART & ZART
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Hart & Zart\n\nhttps://rave.wien/e/2026-07-23-h
+ art-zart
+URL:https://rave.wien/e/2026-07-23-hart-zart
+END:VEVENT
 END:VCALENDAR

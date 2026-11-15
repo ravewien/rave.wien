@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-28-impulse-friends-w-the-devil-dwarf@rave.wien
+DTSTAMP:20241228T000000Z
+DTSTART;VALUE=DATE:20241228
+DTEND;VALUE=DATE:20241229
+SUMMARY:Impulse & Friends w/ The Devil Dwarf
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:The Devil Dwarf\nVeranstalter: Impulse\n\nhttps://rave.wien/e
+ /2024-12-28-impulse-friends-w-the-devil-dwarf
+URL:https://rave.wien/e/2024-12-28-impulse-friends-w-the-devil-dwarf
+END:VEVENT
 END:VCALENDAR

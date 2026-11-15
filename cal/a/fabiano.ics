@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-01-12-merkwurdig-w-jacopo-latini-fabiano@rave.wien
+DTSTAMP:20240112T000000Z
+DTSTART;VALUE=DATE:20240112
+DTEND;VALUE=DATE:20240113
+SUMMARY:Merkwürdig /w Jacopo Latini & Fabiano
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Jacopo Latini\, Fabiano\nVeranstalter: Merkwürdig\n\nhttps:/
+ /rave.wien/e/2024-01-12-merkwurdig-w-jacopo-latini-fabiano
+URL:https://rave.wien/e/2024-01-12-merkwurdig-w-jacopo-latini-fabiano
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,52 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-01-18-gassen-aus-zucker-sugarcube-gang-pres-ravers-deli@rave.wien
+DTSTAMP:20250118T000000Z
+DTSTART;VALUE=DATE:20250118
+DTEND;VALUE=DATE:20250119
+SUMMARY:Gassen aus Zucker: Sugarcube Gang pres. Ravers Delight
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Ravers Delight\nVeranstalter: Gassen aus Zucker\n\nhttps://ra
+ ve.wien/e/2025-01-18-gassen-aus-zucker-sugarcube-gang-pres-ravers-deli
+URL:https://rave.wien/e/2025-01-18-gassen-aus-zucker-sugarcube-gang-pres-
+ ravers-deli
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-18-gassen-aus-zucker-poolservice@rave.wien
+DTSTAMP:20250518T000000Z
+DTSTART;VALUE=DATE:20250518
+DTEND;VALUE=DATE:20250519
+SUMMARY:Gassen aus Zucker Poolservice
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Gassen aus Zucker\n\nhttps://rave.wien/e/2025-0
+ 5-18-gassen-aus-zucker-poolservice
+URL:https://rave.wien/e/2025-05-18-gassen-aus-zucker-poolservice
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-05-journey-to-tarab-x-gassen-aus-zucker-x-pratersaun@rave.wien
+DTSTAMP:20250705T000000Z
+DTSTART;VALUE=DATE:20250705
+DTEND;VALUE=DATE:20250706
+SUMMARY:Journey to Tarab x Gassen aus Zucker x Pratersauna – Candy Crus
+ h durch Zuckershock
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Gassen aus Zucker\, Journey to Tarab\n\nhttps:/
+ /rave.wien/e/2025-07-05-journey-to-tarab-x-gassen-aus-zucker-x-pratersau
+ n
+URL:https://rave.wien/e/2025-07-05-journey-to-tarab-x-gassen-aus-zucker-x
+ -pratersaun
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-gassen-aus-zucker-go-with-the-slow@rave.wien
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Gassen aus Zucker – go with the slow
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:the slow\nVeranstalter: Gassen aus Zucker\n\nhttps://rave.wie
+ n/e/2026-10-03-gassen-aus-zucker-go-with-the-slow
+URL:https://rave.wien/e/2026-10-03-gassen-aus-zucker-go-with-the-slow
+END:VEVENT
 END:VCALENDAR

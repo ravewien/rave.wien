@@ -25,4 +25,109 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-04-garten-von-eben-kapitel-iv-wurzeln-der-zeit@rave.wien
+DTSTAMP:20240504T000000Z
+DTSTART;VALUE=DATE:20240504
+DTEND;VALUE=DATE:20240505
+SUMMARY:Garten von Eben – Kapitel IV: Wurzeln der Zeit
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Garten von Eben\n\nhttps://rave.wien/e/2024-05-
+ 04-garten-von-eben-kapitel-iv-wurzeln-der-zeit
+URL:https://rave.wien/e/2024-05-04-garten-von-eben-kapitel-iv-wurzeln-der
+ -zeit
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-04-temple-tears-x-ouhana-im-garten-von-eben@rave.wien
+DTSTAMP:20241004T000000Z
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241005
+SUMMARY:Temple Tears x Ouhana im Garten von Eben
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Temple Tears\, Ouhana\nVeranstalter: Garten von Eben\n\nhttps
+ ://rave.wien/e/2024-10-04-temple-tears-x-ouhana-im-garten-von-eben
+URL:https://rave.wien/e/2024-10-04-temple-tears-x-ouhana-im-garten-von-eb
+ en
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-30-love-at-first-sight-im-garten-von-eben@rave.wien
+DTSTAMP:20241130T000000Z
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241201
+SUMMARY:Love at first sight im Garten von Eben
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Garten von Eben\, Female Pleasure\n\nhttps://ra
+ ve.wien/e/2024-11-30-love-at-first-sight-im-garten-von-eben
+URL:https://rave.wien/e/2024-11-30-love-at-first-sight-im-garten-von-eben
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-30-traumtempo@rave.wien
+DTSTAMP:20250330T000000Z
+DTSTART;VALUE=DATE:20250330
+DTEND;VALUE=DATE:20250331
+SUMMARY:TRAUMTEMPO
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Garten von Eben\n\nhttps://rave.wien/e/2025-03-
+ 30-traumtempo
+URL:https://rave.wien/e/2025-03-30-traumtempo
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-01-traumtempo-ii@rave.wien
+DTSTAMP:20250601T000000Z
+DTSTART;VALUE=DATE:20250601
+DTEND;VALUE=DATE:20250602
+SUMMARY:TRAUMTEMPO II
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Garten von Eben\n\nhttps://rave.wien/e/2025-06-
+ 01-traumtempo-ii
+URL:https://rave.wien/e/2025-06-01-traumtempo-ii
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-05-traumtempo@rave.wien
+DTSTAMP:20251005T000000Z
+DTSTART;VALUE=DATE:20251005
+DTEND;VALUE=DATE:20251006
+SUMMARY:TRAUMTEMPO
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Garten von Eben\n\nhttps://rave.wien/e/2025-10-
+ 05-traumtempo
+URL:https://rave.wien/e/2025-10-05-traumtempo
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-18-garten-von-eben-pres-traumtempo-x-oliver-rottmann@rave.wien
+DTSTAMP:20260118T000000Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:Garten von Eben pres. Traumtempo x Oliver Rottmann
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Traumtempo\, Oliver Rottmann\nVeranstalter: Garten von Eben\n
+ \nhttps://rave.wien/e/2026-01-18-garten-von-eben-pres-traumtempo-x-olive
+ r-rottmann
+URL:https://rave.wien/e/2026-01-18-garten-von-eben-pres-traumtempo-x-oliv
+ er-rottmann
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-12-traumtempo-vi@rave.wien
+DTSTAMP:20260412T000000Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:Traumtempo VI
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Garten von Eben\n\nhttps://rave.wien/e/2026-04-
+ 12-traumtempo-vi
+URL:https://rave.wien/e/2026-04-12-traumtempo-vi
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-11-garten-von-eben-im-traumtempo-vii@rave.wien
+DTSTAMP:20261011T000000Z
+DTSTART;TZID=Europe/Vienna:20261011T133000
+DTEND;TZID=Europe/Vienna:20261011T233000
+SUMMARY:Garten von Eben im Traumtempo VII
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Nugi\, Flocker Lockig\, Sansea\, Mood Shifter\, David Bowiedl
+ \, marou\nVeranstalter: Garten von Eben\n\nWorkshop „Connected Breathw
+ ork“ mit Olivia (14–16 Uhr\, Anmeldung nötig)\n\nhttps://rave.wien/
+ e/2026-10-11-garten-von-eben-im-traumtempo-vii
+URL:https://rave.wien/e/2026-10-11-garten-von-eben-im-traumtempo-vii
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,59 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-02-27-house-of-ludic@rave.wien
+DTSTAMP:20250227T000000Z
+DTSTART;VALUE=DATE:20250227
+DTEND;VALUE=DATE:20250228
+SUMMARY:House of Ludic
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: House of Ludic\n\nhttps://rave.wien/e/2025-02-2
+ 7-house-of-ludic
+URL:https://rave.wien/e/2025-02-27-house-of-ludic
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-02-house-of-ludic@rave.wien
+DTSTAMP:20250502T000000Z
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250503
+SUMMARY:House of Ludic
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: House of Ludic\n\nhttps://rave.wien/e/2025-05-0
+ 2-house-of-ludic
+URL:https://rave.wien/e/2025-05-02-house-of-ludic
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-01-house-of-ludic@rave.wien
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:House of Ludic
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: House of Ludic\n\nhttps://rave.wien/e/2025-08-0
+ 1-house-of-ludic
+URL:https://rave.wien/e/2025-08-01-house-of-ludic
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-13-house-of-ludic@rave.wien
+DTSTAMP:20250913T000000Z
+DTSTART;VALUE=DATE:20250913
+DTEND;VALUE=DATE:20250914
+SUMMARY:House of Ludic
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: House of Ludic\n\nhttps://rave.wien/e/2025-09-1
+ 3-house-of-ludic
+URL:https://rave.wien/e/2025-09-13-house-of-ludic
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-04-house-of-ludic@rave.wien
+DTSTAMP:20260404T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:HOUSE OF LUDIC
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: House of Ludic\n\nhttps://rave.wien/e/2026-04-0
+ 4-house-of-ludic
+URL:https://rave.wien/e/2026-04-04-house-of-ludic
+END:VEVENT
 END:VCALENDAR

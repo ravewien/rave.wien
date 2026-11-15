@@ -42,6 +42,33 @@ DESCRIPTION:eira haul\, Paris Böhm\, Seba\nVeranstalter: Freeride Millen
 URL:https://rave.wien/e/2026-11-20-freeride-millenium
 END:VEVENT
 BEGIN:VEVENT
+UID:2025-07-26-techno-entgleist-x-du-tanzt-mich-mal-afterparty@rave.wien
+DTSTAMP:20250726T000000Z
+DTSTART;VALUE=DATE:20250726
+DTEND;VALUE=DATE:20250727
+SUMMARY:TECHNO ENTGLEIST x DU TANZT MICH MAL Afterparty
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Paul Boese\, Tomagan\, Très Julie\, Paul Panther\, Goldie Go
+ ldenshowers\, Seba\nVeranstalter: Techno Entgleist\n\nhttps://rave.wien/
+ e/2025-07-26-techno-entgleist-x-du-tanzt-mich-mal-afterparty
+URL:https://rave.wien/e/2025-07-26-techno-entgleist-x-du-tanzt-mich-mal-a
+ fterparty
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-freeride-millenium-with-rosa-red-permanent-vacati@rave.wien
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Freeride Millenium with Rosa Red (Permanent Vacation)\, Jorkes\, 
+ Seba
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Rosa Red\, Jorkes\, Seba\nVeranstalter: Freeride Millenium\n\
+ nhttps://rave.wien/e/2026-10-02-freeride-millenium-with-rosa-red-permane
+ nt-vacati
+URL:https://rave.wien/e/2026-10-02-freeride-millenium-with-rosa-red-perma
+ nent-vacati
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-massimiliano-pagliara-im-wohnzimmer@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T230000

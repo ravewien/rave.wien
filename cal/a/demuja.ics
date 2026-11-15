@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-23-red-groove-social-club-w-demuja@rave.wien
+DTSTAMP:20241123T000000Z
+DTSTART;VALUE=DATE:20241123
+DTEND;VALUE=DATE:20241124
+SUMMARY:Red Groove Social Club w/ Demuja
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Demuja\nVeranstalter: Red Groove Social Club\n\nhttps://rave.
+ wien/e/2024-11-23-red-groove-social-club-w-demuja
+URL:https://rave.wien/e/2024-11-23-red-groove-social-club-w-demuja
+END:VEVENT
 END:VCALENDAR

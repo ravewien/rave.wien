@@ -25,4 +25,29 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-31-contrast-pres-darkmttr-w-s-p-y-alibi-molecular-ia@rave.wien
+DTSTAMP:20240831T000000Z
+DTSTART;VALUE=DATE:20240831
+DTEND;VALUE=DATE:20240901
+SUMMARY:CONTRAST pres. DARKMTTR w/ S.P.Y. + ALIBI + MOLECULAR + IAMDOOMED
+  | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:S.p.y\, Alibi\, Molecular\, Iamdoomed\nVeranstalter: Contrast
+ \n\nhttps://rave.wien/e/2024-08-31-contrast-pres-darkmttr-w-s-p-y-alibi-
+ molecular-ia
+URL:https://rave.wien/e/2024-08-31-contrast-pres-darkmttr-w-s-p-y-alibi-m
+ olecular-ia
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-13-contrast-pres-particle-molecular-18@rave.wien
+DTSTAMP:20250613T000000Z
+DTSTART;VALUE=DATE:20250613
+DTEND;VALUE=DATE:20250614
+SUMMARY:CONTRAST pres. PARTICLE + MOLECULAR | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Particle\, Molecular\nVeranstalter: Contrast\n\nhttps://rave.
+ wien/e/2025-06-13-contrast-pres-particle-molecular-18
+URL:https://rave.wien/e/2025-06-13-contrast-pres-particle-molecular-18
+END:VEVENT
 END:VCALENDAR

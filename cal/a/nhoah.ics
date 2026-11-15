@@ -25,4 +25,31 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-24-flashback-techno-classics-grelle-forelle@rave.wien
+DTSTAMP:20240824T000000Z
+DTSTART;TZID=Europe/Vienna:20240824T230000
+DTEND;TZID=Europe/Vienna:20240825T040000
+SUMMARY:FLASHBACK Techno Classics @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Nhoah\, Joro & Joabo\, Rokis\, Peter Pan\, Tom Snow\, Martin 
+ Oelz\, MC Mars\, MC Spot\, Gugu\, Hanneken\, Lowskim\, Romen Est Omen\, 
+ PA_olo\nVeranstalter: Flashback\n\nKitchen gehostet von „Sorry Mom“\
+ n\nhttps://rave.wien/e/2024-08-24-flashback-techno-classics-grelle-forel
+ le
+URL:https://rave.wien/e/2024-08-24-flashback-techno-classics-grelle-forel
+ le
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-01-techno-am-wasser-x-open-air-rave-2025@rave.wien
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Europe/Vienna:20250801T160000
+DTEND;TZID=Europe/Vienna:20250801T240000
+SUMMARY:TECHNO AM WASSER⁴ x Open Air Rave 2025
+LOCATION:Usus am Wasser\, An der Neuen Donau 1\, 1210 Wien
+DESCRIPTION:Mello1\, Nhoah\, SAMDMA\, Stephan Deutsch\, Sunny\, Wal_Halla
+ \nVeranstalter: Techno Vienna\, Techno am Wasser\nEintritt: 5–12 €\n
+ \nhttps://rave.wien/e/2025-08-01-techno-am-wasser-x-open-air-rave-2025
+URL:https://rave.wien/e/2025-08-01-techno-am-wasser-x-open-air-rave-2025
+END:VEVENT
 END:VCALENDAR

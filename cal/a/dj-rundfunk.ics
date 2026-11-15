@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-09-05-atzenpardy3000-with-atzendent-dj-rundfunk@rave.wien
+DTSTAMP:20250905T000000Z
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250906
+SUMMARY:AtzenPardy3000 with ATZENDENT & DJ RUNDFUNK
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Atzendent\, DJ Rundfunk\n\nhttps://rave.wien/e/2025-09-05-atz
+ enpardy3000-with-atzendent-dj-rundfunk
+URL:https://rave.wien/e/2025-09-05-atzenpardy3000-with-atzendent-dj-rundf
+ unk
+END:VEVENT
 END:VCALENDAR

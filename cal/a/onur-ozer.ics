@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-30-prst-invites-art-of-dark-w-onur-ozer@rave.wien
+DTSTAMP:20240830T000000Z
+DTSTART;VALUE=DATE:20240830
+DTEND;VALUE=DATE:20240831
+SUMMARY:PRST invites Art Of Dark w/ Onur Özer
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Onur Özer\n\nhttps://rave.wien/e/2024-08-30-prst-invites-art
+ -of-dark-w-onur-ozer
+URL:https://rave.wien/e/2024-08-30-prst-invites-art-of-dark-w-onur-ozer
+END:VEVENT
 END:VCALENDAR

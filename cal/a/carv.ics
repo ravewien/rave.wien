@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-05-03-carv-impulse-grelle-forelle@rave.wien
+DTSTAMP:20250503T000000Z
+DTSTART;VALUE=DATE:20250503
+DTEND;VALUE=DATE:20250504
+SUMMARY:CARV // IMPULSE // Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:CARV\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2025-05-03
+ -carv-impulse-grelle-forelle
+URL:https://rave.wien/e/2025-05-03-carv-impulse-grelle-forelle
+END:VEVENT
 END:VCALENDAR

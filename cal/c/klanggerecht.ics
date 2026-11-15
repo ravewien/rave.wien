@@ -45,4 +45,28 @@ DESCRIPTION:Tonks\, wldfee\, Sauerstøff\, subinstans\, NooK\, mein__dm\,
 URL:https://rave.wien/e/2026-11-20-kollektiv-klanggerecht-presents-tanzin
  stanz-raw-e
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-20-klanggerecht-x-shameless-feat-fab-massimo@rave.wien
+DTSTAMP:20260620T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:KLANGGERECHT X SHAMELESS feat. Fab Massimo
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Fab Massimo\nVeranstalter: Klanggerecht\, Shameless Kollektiv
+ \n\nhttps://rave.wien/e/2026-06-20-klanggerecht-x-shameless-feat-fab-mas
+ simo
+URL:https://rave.wien/e/2026-06-20-klanggerecht-x-shameless-feat-fab-mass
+ imo
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-21-klanggerecht-presents-tanzinstanz@rave.wien
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Klanggerecht presents: TANZINSTANZ
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Tanzinstanz\nVeranstalter: Klanggerecht\n\nhttps://rave.wien/
+ e/2026-08-21-klanggerecht-presents-tanzinstanz
+URL:https://rave.wien/e/2026-08-21-klanggerecht-presents-tanzinstanz
+END:VEVENT
 END:VCALENDAR

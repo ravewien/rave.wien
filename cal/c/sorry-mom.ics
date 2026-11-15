@@ -26,6 +26,18 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-08-29-sorry-mom-x-usus-am-wasser-open-air@rave.wien
+DTSTAMP:20260829T000000Z
+DTSTART;TZID=Europe/Vienna:20260829T150000
+DTEND;TZID=Europe/Vienna:20260829T240000
+SUMMARY:SORRY MOM x Usus am Wasser – Open Air
+LOCATION:Usus am Wasser\, An der Neuen Donau 1\, 1210 Wien
+DESCRIPTION:Kate la Boom\, Gugu\, Hanneken\, PA_olo\, Romen Est Omen\, To
+ laris\nVeranstalter: Sorry Mom\nEintritt: 5–12 €\n\nhttps://rave.wie
+ n/e/2026-08-29-sorry-mom-x-usus-am-wasser-open-air
+URL:https://rave.wien/e/2026-08-29-sorry-mom-x-usus-am-wasser-open-air
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-sorry-mom-herbstrascheln@rave.wien
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Vienna:20261106T234500

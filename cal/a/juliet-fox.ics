@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-15-zuckerwatt-w-juliet-fox-x-kutschker-club@rave.wien
+DTSTAMP:20240615T000000Z
+DTSTART;VALUE=DATE:20240615
+DTEND;VALUE=DATE:20240616
+SUMMARY:ZUCKERWATT w/ JULIET FOX x Kutschker Club
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Juliet Fox\nVeranstalter: Zuckerwatt\n\nhttps://rave.wien/e/2
+ 024-06-15-zuckerwatt-w-juliet-fox-x-kutschker-club
+URL:https://rave.wien/e/2024-06-15-zuckerwatt-w-juliet-fox-x-kutschker-cl
+ ub
+END:VEVENT
 END:VCALENDAR

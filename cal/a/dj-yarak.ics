@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-05-16-anna-ullrich-pres-achterbahn-w-dj-yarak@rave.wien
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Anna Ullrich pres. ACHTERBAHN w DJ YARAK
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:DJ Yarak\nVeranstalter: Achterbahn\n\nhttps://rave.wien/e/202
+ 6-05-16-anna-ullrich-pres-achterbahn-w-dj-yarak
+URL:https://rave.wien/e/2026-05-16-anna-ullrich-pres-achterbahn-w-dj-yarak
+END:VEVENT
 END:VCALENDAR

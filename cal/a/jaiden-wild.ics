@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-08-01-spectral-with-jaiden-wild@rave.wien
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:Spectral with Jaiden Wild
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Jaiden Wild\nVeranstalter: Spectral\n\nhttps://rave.wien/e/20
+ 25-08-01-spectral-with-jaiden-wild
+URL:https://rave.wien/e/2025-08-01-spectral-with-jaiden-wild
+END:VEVENT
 END:VCALENDAR

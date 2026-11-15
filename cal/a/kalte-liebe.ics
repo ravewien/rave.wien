@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-10-05-kalte-liebe-impulse@rave.wien
+DTSTAMP:20241005T000000Z
+DTSTART;VALUE=DATE:20241005
+DTEND;VALUE=DATE:20241006
+SUMMARY:Kalte Liebe | IMPULSE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Kalte Liebe\nVeranstalter: Impulse\n\nhttps://rave.wien/e/202
+ 4-10-05-kalte-liebe-impulse
+URL:https://rave.wien/e/2024-10-05-kalte-liebe-impulse
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-20-kalte-liebe-live-impulse-grelle-forelle@rave.wien
+DTSTAMP:20251220T000000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:KALTE LIEBE (LIVE) // IMPULSE // GRELLE FORELLE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Kalte Liebe\nVeranstalter: Impulse\n\nhttps://rave.wien/e/202
+ 5-12-20-kalte-liebe-live-impulse-grelle-forelle
+URL:https://rave.wien/e/2025-12-20-kalte-liebe-live-impulse-grelle-forelle
+END:VEVENT
 END:VCALENDAR

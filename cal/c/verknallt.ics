@@ -46,4 +46,49 @@ DESCRIPTION:A.N.I.\, DJ Dreckisch\nVeranstalter: Verknallt\, TUFF\nEintri
 URL:https://rave.wien/e/2026-12-08-verknallt-x-tuff-w-a-n-i-dj-dreckisch-
  daytime-rav
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-14-verknallt-with-xenia-herzfrequenz@rave.wien
+DTSTAMP:20240614T000000Z
+DTSTART;VALUE=DATE:20240614
+DTEND;VALUE=DATE:20240615
+SUMMARY:Verknallt with XENIA & Herzfrequenz
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Xenia\nVeranstalter: Herzfrequenz\, Verknallt\n\nhttps://rave
+ .wien/e/2024-06-14-verknallt-with-xenia-herzfrequenz
+URL:https://rave.wien/e/2024-06-14-verknallt-with-xenia-herzfrequenz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-15-verknallt-daytime-special-with-nicolas-julian@rave.wien
+DTSTAMP:20260215T000000Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:VERKNALLT – DAYTIME SPECIAL with Nicolas Julian
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Nicolas Julian\nVeranstalter: Verknallt\n\nhttps://rave.wien/
+ e/2026-02-15-verknallt-daytime-special-with-nicolas-julian
+URL:https://rave.wien/e/2026-02-15-verknallt-daytime-special-with-nicolas
+ -julian
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-30-verknallt-with-nikolina-x-ben-techy@rave.wien
+DTSTAMP:20260430T000000Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:VERKNALLT with Nikolina x Ben Techy
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Nikolina\, Ben Techy\nVeranstalter: Verknallt\n\nhttps://rave
+ .wien/e/2026-04-30-verknallt-with-nikolina-x-ben-techy
+URL:https://rave.wien/e/2026-04-30-verknallt-with-nikolina-x-ben-techy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-verknallt-w-kloud-luciid-lola-cerise@rave.wien
+DTSTAMP:20260926T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:VERKNALLT w/ KLOUD\, Luciid\, Lola Cerise
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Kloud\, Luciid\, Lola Cerise\nVeranstalter: Verknallt\n\nhttp
+ s://rave.wien/e/2026-09-26-verknallt-w-kloud-luciid-lola-cerise
+URL:https://rave.wien/e/2026-09-26-verknallt-w-kloud-luciid-lola-cerise
+END:VEVENT
 END:VCALENDAR

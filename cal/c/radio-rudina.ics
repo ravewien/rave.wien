@@ -42,4 +42,116 @@ DESCRIPTION:Andre Zimmer\, Anni Herzer\, Valentin Zelz\nVeranstalter: Rad
  er 20+ an.\n\nhttps://rave.wien/e/2026-11-14-radio-rudina
 URL:https://rave.wien/e/2026-11-14-radio-rudina
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-11-radio-rudina@rave.wien
+DTSTAMP:20250111T000000Z
+DTSTART;VALUE=DATE:20250111
+DTEND;VALUE=DATE:20250112
+SUMMARY:Radio Rudina
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Radio Rudina\n\nhttps://rave.wien/e/2025-01-11-
+ radio-rudina
+URL:https://rave.wien/e/2025-01-11-radio-rudina
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-01-radio-rudina@rave.wien
+DTSTAMP:20250301T000000Z
+DTSTART;VALUE=DATE:20250301
+DTEND;VALUE=DATE:20250302
+SUMMARY:Radio Rudina
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Radio Rudina\n\nhttps://rave.wien/e/2025-03-01-
+ radio-rudina
+URL:https://rave.wien/e/2025-03-01-radio-rudina
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-30-aftermath-by-radio-rudina@rave.wien
+DTSTAMP:20250430T000000Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Aftermath by Radio Rudina
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Emilija\, Toximami\, DJ Cringey\, AEND\, Travis Allen\, Raven
+  Karijo\, Rob Black\nVeranstalter: Radio Rudina\n\nhttps://rave.wien/e/2
+ 025-04-30-aftermath-by-radio-rudina
+URL:https://rave.wien/e/2025-04-30-aftermath-by-radio-rudina
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-18-radio-rudina@rave.wien
+DTSTAMP:20250718T000000Z
+DTSTART;VALUE=DATE:20250718
+DTEND;VALUE=DATE:20250719
+SUMMARY:Radio Rudina
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:La La\, LoveFoxy\, Ivan\, pengg\nVeranstalter: Radio Rudina\n
+ \nhttps://rave.wien/e/2025-07-18-radio-rudina
+URL:https://rave.wien/e/2025-07-18-radio-rudina
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-22-radio-rudina@rave.wien
+DTSTAMP:20251122T000000Z
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+SUMMARY:Radio Rudina
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Radio Rudina\n\nhttps://rave.wien/e/2025-11-22-
+ radio-rudina
+URL:https://rave.wien/e/2025-11-22-radio-rudina
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-29-radio-rudina@rave.wien
+DTSTAMP:20251129T000000Z
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:Radio Rudina
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Radio Rudina\n\nhttps://rave.wien/e/2025-11-29-
+ radio-rudina
+URL:https://rave.wien/e/2025-11-29-radio-rudina
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-10-radio-rudina-invites-marie-montexier@rave.wien
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:Radio Rudina invites MARIE MONTEXIER
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Marie Montexier\nVeranstalter: Radio Rudina\n\nhttps://rave.w
+ ien/e/2026-01-10-radio-rudina-invites-marie-montexier
+URL:https://rave.wien/e/2026-01-10-radio-rudina-invites-marie-montexier
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-11-radio-rudina-pres-sedef-adasi@rave.wien
+DTSTAMP:20260411T000000Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:Radio Rudina pres. SEDEF ADASÏ
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Sedef Adasï\nVeranstalter: Radio Rudina\n\nhttps://rave.wien
+ /e/2026-04-11-radio-rudina-pres-sedef-adasi
+URL:https://rave.wien/e/2026-04-11-radio-rudina-pres-sedef-adasi
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-09-radio-rudina@rave.wien
+DTSTAMP:20260509T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:RADIO RUDINA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Radio Rudina\n\nhttps://rave.wien/e/2026-05-09-
+ radio-rudina
+URL:https://rave.wien/e/2026-05-09-radio-rudina
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-10-radio-rudina@rave.wien
+DTSTAMP:20261010T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Radio Rudina
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Bambi-S\, AEND\, DJ Lelo\, Ivan\, DJ.org\, Vivienna\, Cherche
+ s\, COBRA\nVeranstalter: Radio Rudina\n\nhttps://rave.wien/e/2026-10-10-
+ radio-rudina
+URL:https://rave.wien/e/2026-10-10-radio-rudina
+END:VEVENT
 END:VCALENDAR

@@ -85,6 +85,18 @@ DESCRIPTION:Oben: Who is Ela¿\, maro\, Aschenbrenner\, Suitside\, DizzyD
 URL:https://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
 END:VEVENT
 BEGIN:VEVENT
+UID:2025-11-29-nexus-x-wyldhearts@rave.wien
+DTSTAMP:20251129T000000Z
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:NEXUS X WYLDHEARTS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Aschenbrenner\, Bababass3000\, Baumeister98\, Cold Ass Ice\, 
+ Ferrand\, Suitside\, maro\, Calu\, ZEQ\nVeranstalter: NEXUS\, Wyldhearts
+ \n\nhttps://rave.wien/e/2025-11-29-nexus-x-wyldhearts
+URL:https://rave.wien/e/2025-11-29-nexus-x-wyldhearts
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-mahlwerk-fadercult-w-afem-syko-lisa-korver@rave.wien
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Vienna:20261106T230000

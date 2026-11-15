@@ -25,4 +25,37 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-09-27-township-rebellion-im-freudentaumel@rave.wien
+DTSTAMP:20240927T000000Z
+DTSTART;VALUE=DATE:20240927
+DTEND;VALUE=DATE:20240928
+SUMMARY:TOWNSHIP REBELLION IM FREUDENTAUMEL
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Township Rebellion\nVeranstalter: Im Freudentaumel\n\nhttps:/
+ /rave.wien/e/2024-09-27-township-rebellion-im-freudentaumel
+URL:https://rave.wien/e/2024-09-27-township-rebellion-im-freudentaumel
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-03-township-rebellion-im-freudentaumel@rave.wien
+DTSTAMP:20251003T000000Z
+DTSTART;VALUE=DATE:20251003
+DTEND;VALUE=DATE:20251004
+SUMMARY:TOWNSHIP REBELLION IM FREUDENTAUMEL
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Township Rebellion\nVeranstalter: Im Freudentaumel\n\nhttps:/
+ /rave.wien/e/2025-10-03-township-rebellion-im-freudentaumel
+URL:https://rave.wien/e/2025-10-03-township-rebellion-im-freudentaumel
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-township-rebellion-im-freudentaumel@rave.wien
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:TOWNSHIP REBELLION im Freudentaumel
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Township Rebellion\nVeranstalter: Im Freudentaumel\n\nhttps:/
+ /rave.wien/e/2026-10-03-township-rebellion-im-freudentaumel
+URL:https://rave.wien/e/2026-10-03-township-rebellion-im-freudentaumel
+END:VEVENT
 END:VCALENDAR

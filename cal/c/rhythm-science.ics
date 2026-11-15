@@ -25,4 +25,143 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-04-30-rhythm-science-x-club-pompadour-zwidemu-afterpart@rave.wien
+DTSTAMP:20240430T000000Z
+DTSTART;VALUE=DATE:20240430
+DTEND;VALUE=DATE:20240501
+SUMMARY:Rhythm Science x Club Pompadour ZWIDEMU Afterparty
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\, Club Pompadour\n\nhttps://rave
+ .wien/e/2024-04-30-rhythm-science-x-club-pompadour-zwidemu-afterpart
+URL:https://rave.wien/e/2024-04-30-rhythm-science-x-club-pompadour-zwidem
+ u-afterpart
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-06-resolute-x-rhythm-science-at-prst-club@rave.wien
+DTSTAMP:20240906T000000Z
+DTSTART;VALUE=DATE:20240906
+DTEND;VALUE=DATE:20240907
+SUMMARY:Resolute x Rhythm Science at PRST Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\n\nhttps://rave.wien/e/2024-09-0
+ 6-resolute-x-rhythm-science-at-prst-club
+URL:https://rave.wien/e/2024-09-06-resolute-x-rhythm-science-at-prst-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-31-club-pompadour-rhythm-science-w-archie-hamilton@rave.wien
+DTSTAMP:20241031T000000Z
+DTSTART;VALUE=DATE:20241031
+DTEND;VALUE=DATE:20241101
+SUMMARY:Club Pompadour & Rhythm Science w/ Archie Hamilton
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Archie Hamilton\nVeranstalter: Rhythm Science\, Club Pompadou
+ r\n\nhttps://rave.wien/e/2024-10-31-club-pompadour-rhythm-science-w-arch
+ ie-hamilton
+URL:https://rave.wien/e/2024-10-31-club-pompadour-rhythm-science-w-archie
+ -hamilton
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-25-apartment-acht-x-rhythm-science-klubnacht@rave.wien
+DTSTAMP:20250125T000000Z
+DTSTART;VALUE=DATE:20250125
+DTEND;VALUE=DATE:20250126
+SUMMARY:Apartment Acht x Rhythm Science Klubnacht
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\n\nhttps://rave.wien/e/2025-01-2
+ 5-apartment-acht-x-rhythm-science-klubnacht
+URL:https://rave.wien/e/2025-01-25-apartment-acht-x-rhythm-science-klubna
+ cht
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-22-7-years-rhythm-science-w-lvca-live-dj-tjizza-hell@rave.wien
+DTSTAMP:20250322T000000Z
+DTSTART;VALUE=DATE:20250322
+DTEND;VALUE=DATE:20250323
+SUMMARY:7 Years Rhythm Science w/ LVCA Live\, Dj Tjizza & Helly
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:LVCA\, Dj Tjizza\, Helly\nVeranstalter: Rhythm Science\n\nhtt
+ ps://rave.wien/e/2025-03-22-7-years-rhythm-science-w-lvca-live-dj-tjizza
+ -hell
+URL:https://rave.wien/e/2025-03-22-7-years-rhythm-science-w-lvca-live-dj-
+ tjizza-hell
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-10-rhythm-science@rave.wien
+DTSTAMP:20250510T000000Z
+DTSTART;VALUE=DATE:20250510
+DTEND;VALUE=DATE:20250511
+SUMMARY:Rhythm Science
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\n\nhttps://rave.wien/e/2025-05-1
+ 0-rhythm-science
+URL:https://rave.wien/e/2025-05-10-rhythm-science
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-06-rhythm-science-pres-birthday-special-1@rave.wien
+DTSTAMP:20250906T000000Z
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250907
+SUMMARY:Rhythm Science pres. Birthday Special #1
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\n\nhttps://rave.wien/e/2025-09-0
+ 6-rhythm-science-pres-birthday-special-1
+URL:https://rave.wien/e/2025-09-06-rhythm-science-pres-birthday-special-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-07-rhythm-science-pres-birthday-special-2-summer-clo@rave.wien
+DTSTAMP:20250907T000000Z
+DTSTART;VALUE=DATE:20250907
+DTEND;VALUE=DATE:20250908
+SUMMARY:Rhythm Science pres. Birthday Special #2 & Summer Closing
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\n\nhttps://rave.wien/e/2025-09-0
+ 7-rhythm-science-pres-birthday-special-2-summer-clo
+URL:https://rave.wien/e/2025-09-07-rhythm-science-pres-birthday-special-2
+ -summer-clo
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-13-rhythm-science@rave.wien
+DTSTAMP:20251113T000000Z
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251114
+SUMMARY:Rhythm Science
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\n\nhttps://rave.wien/e/2025-11-1
+ 3-rhythm-science
+URL:https://rave.wien/e/2025-11-13-rhythm-science
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-17-rhythm-science@rave.wien
+DTSTAMP:20260117T000000Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:Rhythm Science
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\n\nhttps://rave.wien/e/2026-01-1
+ 7-rhythm-science
+URL:https://rave.wien/e/2026-01-17-rhythm-science
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-20-8-years-rhythm-science@rave.wien
+DTSTAMP:20260320T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:8 YEARS RHYTHM SCIENCE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\n\nhttps://rave.wien/e/2026-03-2
+ 0-8-years-rhythm-science
+URL:https://rave.wien/e/2026-03-20-8-years-rhythm-science
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-04-rhythm-science@rave.wien
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:RHYTHM SCIENCE
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Rhythm Science\n\nhttps://rave.wien/e/2026-09-0
+ 4-rhythm-science
+URL:https://rave.wien/e/2026-09-04-rhythm-science
+END:VEVENT
 END:VCALENDAR

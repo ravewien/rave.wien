@@ -26,6 +26,18 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-04-05-morgengymnastik-with-ulfersson-b2b-housetiere@rave.wien
+DTSTAMP:20260405T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Morgengymnastik with Ulfersson b2b Housetiere
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Ulfersson\nVeranstalter: Morgengymnastik\, Housetiere\n\nhttp
+ s://rave.wien/e/2026-04-05-morgengymnastik-with-ulfersson-b2b-housetiere
+URL:https://rave.wien/e/2026-04-05-morgengymnastik-with-ulfersson-b2b-hou
+ setiere
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-08-morgengymnastik@rave.wien
 DTSTAMP:20261108T000000Z
 DTSTART;TZID=Europe/Vienna:20261108T060000

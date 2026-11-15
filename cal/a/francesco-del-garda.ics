@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-03-07-5-years-prst-club-w-francesco-del-garda@rave.wien
+DTSTAMP:20250307T000000Z
+DTSTART;VALUE=DATE:20250307
+DTEND;VALUE=DATE:20250308
+SUMMARY:5 Years PRST Club w/ Francesco Del Garda
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Francesco Del Garda\n\nhttps://rave.wien/e/2025-03-07-5-years
+ -prst-club-w-francesco-del-garda
+URL:https://rave.wien/e/2025-03-07-5-years-prst-club-w-francesco-del-garda
+END:VEVENT
 END:VCALENDAR

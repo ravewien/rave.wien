@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-03-14-bouncylicious-w-durdenhauer-pres-by-gdn@rave.wien
+DTSTAMP:20250314T000000Z
+DTSTART;VALUE=DATE:20250314
+DTEND;VALUE=DATE:20250315
+SUMMARY:BOUNCYLICIOUS w/ DURDENHAUER pres. by GDN
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Durdenhauer\nVeranstalter: GDN\, Bouncylicious\n\nhttps://rav
+ e.wien/e/2025-03-14-bouncylicious-w-durdenhauer-pres-by-gdn
+URL:https://rave.wien/e/2025-03-14-bouncylicious-w-durdenhauer-pres-by-gdn
+END:VEVENT
 END:VCALENDAR

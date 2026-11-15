@@ -25,4 +25,51 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-06-13-yrs-grelle-forelle@rave.wien
+DTSTAMP:20241206T000000Z
+DTSTART;TZID=Europe/Vienna:20241206T230000
+DTEND;TZID=Europe/Vienna:20241207T040000
+SUMMARY:13 YRS Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:DJ Gigola\, Pau\, Tezibel\, Dancekowsi\, Franjazzco\, Saba\n\
+ nhttps://rave.wien/e/2024-12-06-13-yrs-grelle-forelle
+URL:https://rave.wien/e/2024-12-06-13-yrs-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-31-funk-tribu-caiva-pau-turbo@rave.wien
+DTSTAMP:20250131T000000Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Funk Tribu\, Caiva & Pau | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Funk Tribu\, Caiva\, Pau\nVeranstalter: TURBO\n\nhttps://rave
+ .wien/e/2025-01-31-funk-tribu-caiva-pau-turbo
+URL:https://rave.wien/e/2025-01-31-funk-tribu-caiva-pau-turbo
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-10-tattu-tatta-glub-macht-pau-se-grelle-forelle@rave.wien
+DTSTAMP:20250510T000000Z
+DTSTART;VALUE=DATE:20250510
+DTEND;VALUE=DATE:20250511
+SUMMARY:TATTU TATTA GLUB macht PAU’se @ GRELLE FORELLE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mariad\, Greg\, Pau\, Nasty\, DJ Spit & Caramelo\, Vivienna\,
+  Serafin\nVeranstalter: Tattu Tatta Glub\n\nhttps://rave.wien/e/2025-05-
+ 10-tattu-tatta-glub-macht-pau-se-grelle-forelle
+URL:https://rave.wien/e/2025-05-10-tattu-tatta-glub-macht-pau-se-grelle-f
+ orelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-09-lighthouse-x-grelle-forelle-warmup-vie@rave.wien
+DTSTAMP:20260509T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Lighthouse X Grelle Forelle Warmup VIE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Dj Fuckoff\, Helena Lauwaert\, Pau\, Alice\, Felix Rupprecht\
+ , Muallem\, Sumi\nVeranstalter: Lighthouse\n\nhttps://rave.wien/e/2026-0
+ 5-09-lighthouse-x-grelle-forelle-warmup-vie
+URL:https://rave.wien/e/2026-05-09-lighthouse-x-grelle-forelle-warmup-vie
+END:VEVENT
 END:VCALENDAR

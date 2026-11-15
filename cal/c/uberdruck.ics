@@ -25,4 +25,57 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-09-07-sin-x-uberdruck-soundsystem-w-gehlektek-blazin-bo@rave.wien
+DTSTAMP:20240907T000000Z
+DTSTART;VALUE=DATE:20240907
+DTEND;VALUE=DATE:20240908
+SUMMARY:SIN x Überdruck Soundsystem w/ GehLekTek\, Blazin' Bomzai\, Ting
+ elTangelTek + S.B.S.\, Illtek
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Gehlektek\, Blazin' Bomzai\, TingelTangelTek\, S.b.s\, Illtek
+ \nVeranstalter: SIN\, Überdruck\n\nhttps://rave.wien/e/2024-09-07-sin-x
+ -uberdruck-soundsystem-w-gehlektek-blazin-bo
+URL:https://rave.wien/e/2024-09-07-sin-x-uberdruck-soundsystem-w-gehlekte
+ k-blazin-bo
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-28-sin-x-uberdruck-soundsystem-w-shirin-keton-geehee@rave.wien
+DTSTAMP:20241228T000000Z
+DTSTART;VALUE=DATE:20241228
+DTEND;VALUE=DATE:20241229
+SUMMARY:SIN x Überdruck Soundsystem w/ Shirin & Keton & Geehee
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Shirin\, Keton\, Geehee\nVeranstalter: SIN\, Überdruck\n\nht
+ tps://rave.wien/e/2024-12-28-sin-x-uberdruck-soundsystem-w-shirin-keton-
+ geehee
+URL:https://rave.wien/e/2024-12-28-sin-x-uberdruck-soundsystem-w-shirin-k
+ eton-geehee
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-27-decibelles-x-uberdruck-welcome-to-spring-w-alvike@rave.wien
+DTSTAMP:20260327T000000Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:DECIBELLES x ÜBERDRUCK – Welcome to Spring w/ALVIKER
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alviker\nVeranstalter: Überdruck\n\nhttps://rave.wien/e/2026
+ -03-27-decibelles-x-uberdruck-welcome-to-spring-w-alvike
+URL:https://rave.wien/e/2026-03-27-decibelles-x-uberdruck-welcome-to-spri
+ ng-w-alvike
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-10-uberdruck-im-fluc-mysterybox-01-uberdruck-paxnich@rave.wien
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=Europe/Vienna:20261010T230000
+DTEND;TZID=Europe/Vienna:20261011T040000
+SUMMARY:Überdruck im Fluc – MYSTERYBOX 01 [Überdruck + PaxNicht + Spe
+ cial Guest (Belgium)]
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Überdruck Crew\, PaxNicht Crew\nVeranstalter: Überdruck\nEi
+ ntritt: 15 €\n\nSpecial Guest aus Belgien\; kein Timetable\n\nhttps://
+ rave.wien/e/2026-10-10-uberdruck-im-fluc-mysterybox-01-uberdruck-paxnich
+URL:https://rave.wien/e/2026-10-10-uberdruck-im-fluc-mysterybox-01-uberdr
+ uck-paxnich
+END:VEVENT
 END:VCALENDAR

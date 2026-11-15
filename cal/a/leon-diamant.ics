@@ -26,6 +26,17 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2025-10-30-connections-w-leon-diamant-toni-stark@rave.wien
+DTSTAMP:20251030T000000Z
+DTSTART;VALUE=DATE:20251030
+DTEND;VALUE=DATE:20251031
+SUMMARY:Connections w/ Leon Diamant\, Toni Stark
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Leon Diamant\, Toni Stark\n\nhttps://rave.wien/e/2025-10-30-c
+ onnections-w-leon-diamant-toni-stark
+URL:https://rave.wien/e/2025-10-30-connections-w-leon-diamant-toni-stark
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-01-morgengymnastik-connecting-people@rave.wien
 DTSTAMP:20261101T000000Z
 DTSTART;TZID=Europe/Vienna:20261101T060000

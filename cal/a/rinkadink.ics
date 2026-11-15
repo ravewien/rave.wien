@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-28-psytrance-universe-12h-day-night-rave-with-rinkad@rave.wien
+DTSTAMP:20260228T000000Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:PSYTRANCE UNIVERSE – 12H Day & Night Rave with Rinkadink at EXIL
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Rinkadink\nVeranstalter: Psytrance Universe\n\nhttps://rave.w
+ ien/e/2026-02-28-psytrance-universe-12h-day-night-rave-with-rinkad
+URL:https://rave.wien/e/2026-02-28-psytrance-universe-12h-day-night-rave-
+ with-rinkad
+END:VEVENT
 END:VCALENDAR

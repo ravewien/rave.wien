@@ -25,4 +25,27 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-10-04-katy-rough-x-igda-impulse-grelle-forelle@rave.wien
+DTSTAMP:20251004T000000Z
+DTSTART;VALUE=DATE:20251004
+DTEND;VALUE=DATE:20251005
+SUMMARY:KATY ROUGH x IGDA // IMPULSE // Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Katy Rough\, IGDA\nVeranstalter: Impulse\n\nhttps://rave.wien
+ /e/2025-10-04-katy-rough-x-igda-impulse-grelle-forelle
+URL:https://rave.wien/e/2025-10-04-katy-rough-x-igda-impulse-grelle-forel
+ le
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-10-herzfrequenz-presents-igda@rave.wien
+DTSTAMP:20260710T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:HERZFREQUENZ presents IGDA
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:IGDA\nVeranstalter: Herzfrequenz\n\nhttps://rave.wien/e/2026-
+ 07-10-herzfrequenz-presents-igda
+URL:https://rave.wien/e/2026-07-10-herzfrequenz-presents-igda
+END:VEVENT
 END:VCALENDAR

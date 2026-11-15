@@ -48,4 +48,15 @@ DESCRIPTION:Main: chris deeper\, Dj Ritual Spirit\, 403Vorbidden\, Mike M
  /2026-11-21-lost-or-unreachable
 URL:https://rave.wien/e/2026-11-21-lost-or-unreachable
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-15-playa-magika@rave.wien
+DTSTAMP:20260815T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Playa Magika
+LOCATION:Porto Pollo\, Donauinsel 19\, 1220 Wien
+DESCRIPTION:chris deeper\nVeranstalter: Magika\n\nhttps://rave.wien/e/202
+ 6-08-15-playa-magika
+URL:https://rave.wien/e/2026-08-15-playa-magika
+END:VEVENT
 END:VCALENDAR

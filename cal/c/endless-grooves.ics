@@ -25,4 +25,81 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-08-28-endless-grooves@rave.wien
+DTSTAMP:20250828T000000Z
+DTSTART;VALUE=DATE:20250828
+DTEND;VALUE=DATE:20250829
+SUMMARY:Endless Grooves
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Endless Grooves\n\nhttps://rave.wien/e/2025-08-
+ 28-endless-grooves
+URL:https://rave.wien/e/2025-08-28-endless-grooves
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-09-endless-grooves-vi@rave.wien
+DTSTAMP:20251009T000000Z
+DTSTART;VALUE=DATE:20251009
+DTEND;VALUE=DATE:20251010
+SUMMARY:Endless Grooves VI
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Endless Grooves\n\nhttps://rave.wien/e/2025-10-
+ 09-endless-grooves-vi
+URL:https://rave.wien/e/2025-10-09-endless-grooves-vi
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-22-endless-grooves-vii@rave.wien
+DTSTAMP:20260122T000000Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:Endless Grooves VII
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Endless Grooves\n\nhttps://rave.wien/e/2026-01-
+ 22-endless-grooves-vii
+URL:https://rave.wien/e/2026-01-22-endless-grooves-vii
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-05-endless-grooves-viii@rave.wien
+DTSTAMP:20260305T000000Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:ENDLESS GROOVES VIII
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Endless Grooves\n\nhttps://rave.wien/e/2026-03-
+ 05-endless-grooves-viii
+URL:https://rave.wien/e/2026-03-05-endless-grooves-viii
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-09-endless-grooves-ix@rave.wien
+DTSTAMP:20260409T000000Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:Endless Grooves IX
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Endless Grooves\n\nhttps://rave.wien/e/2026-04-
+ 09-endless-grooves-ix
+URL:https://rave.wien/e/2026-04-09-endless-grooves-ix
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-18-endless-grooves-x@rave.wien
+DTSTAMP:20260618T000000Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:Endless Grooves X
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Endless Grooves\n\nhttps://rave.wien/e/2026-06-
+ 18-endless-grooves-x
+URL:https://rave.wien/e/2026-06-18-endless-grooves-x
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-16-last-endless-grooves@rave.wien
+DTSTAMP:20260716T000000Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:Last Endless Grooves
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Endless Grooves\n\nhttps://rave.wien/e/2026-07-
+ 16-last-endless-grooves
+URL:https://rave.wien/e/2026-07-16-last-endless-grooves
+END:VEVENT
 END:VCALENDAR

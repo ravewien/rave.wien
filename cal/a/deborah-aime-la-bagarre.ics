@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-07-04-festklub-invites-carlos-willengton-deborah-aime-l@rave.wien
+DTSTAMP:20250704T000000Z
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250705
+SUMMARY:festklub invites Carlos Willengton & Deborah Aime La Bagarre
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Carlos Willengton\, Deborah Aime La Bagarre\nVeranstalter: Fe
+ stklub\n\nhttps://rave.wien/e/2025-07-04-festklub-invites-carlos-willeng
+ ton-deborah-aime-l
+URL:https://rave.wien/e/2025-07-04-festklub-invites-carlos-willengton-deb
+ orah-aime-l
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-29-deborah-aime-la-bagarre@rave.wien
+DTSTAMP:20260529T000000Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:Deborah Aime La Bagarre
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Deborah Aime La Bagarre\n\nhttps://rave.wien/e/2026-05-29-deb
+ orah-aime-la-bagarre
+URL:https://rave.wien/e/2026-05-29-deborah-aime-la-bagarre
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-07-25-hard-club-night-w-caravel-zero-raves@rave.wien
+DTSTAMP:20260725T000000Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Hard Club Night w/ Caravel & Zero Raves
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Caravel\, Zero Raves\n\nhttps://rave.wien/e/2026-07-25-hard-c
+ lub-night-w-caravel-zero-raves
+URL:https://rave.wien/e/2026-07-25-hard-club-night-w-caravel-zero-raves
+END:VEVENT
 END:VCALENDAR

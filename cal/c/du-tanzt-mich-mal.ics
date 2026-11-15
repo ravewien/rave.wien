@@ -80,4 +80,20 @@ DESCRIPTION:Veranstalter: Du Tanzt Mich Mal\nEintritt: 10 €\n\nLetzte A
 URL:https://rave.wien/e/2026-12-19-du-tanzt-mich-mal-winter-open-air-puns
  ch-rave
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-18-du-tanzt-mich-mal-open-air-karlsplatz-afterparty@rave.wien
+DTSTAMP:20260718T000000Z
+DTSTART;TZID=Europe/Vienna:20260718T160000
+DTEND;TZID=Europe/Vienna:20260718T220000
+SUMMARY:Du Tanzt Mich Mal Open Air Karlsplatz + Afterparty
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:Feuerdrache\, Adrian Tronic\, Frankov\, FIVESIXSEVENKATE\nVer
+ anstalter: Du Tanzt Mich Mal\nEintritt: 10 €\n\nHouse-Open-Air am Karl
+ splatz (Club U)\, danach Afterparty im Vestibül des Burgtheaters (22–
+ 6 Uhr\, 10 €) mit Frankov\, Artemuse\, Adrian Tronic und Gandolph Rome
+ o\, im Rahmen von ImPulsTanz.\n\nhttps://rave.wien/e/2026-07-18-du-tanzt
+ -mich-mal-open-air-karlsplatz-afterparty
+URL:https://rave.wien/e/2026-07-18-du-tanzt-mich-mal-open-air-karlsplatz-
+ afterparty
+END:VEVENT
 END:VCALENDAR

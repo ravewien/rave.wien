@@ -26,6 +26,19 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-06-06-heimlicher-abschied-mit-rampue-martha-van-straate@rave.wien
+DTSTAMP:20260606T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Heimlicher Abschied mit Rampue & martha van straaten
+LOCATION:Otto Wagner Areal\, Baumgartner Höhe 1\, 1140 Wien
+DESCRIPTION:Rampue\, martha van straaten\, Oberst & Buchner\nVeranstalter
+ : Heimlich\n\nhttps://rave.wien/e/2026-06-06-heimlicher-abschied-mit-ram
+ pue-martha-van-straate
+URL:https://rave.wien/e/2026-06-06-heimlicher-abschied-mit-rampue-martha-
+ van-straate
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-tasteless-3-yrs-anniversary-halloween-special@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T210000

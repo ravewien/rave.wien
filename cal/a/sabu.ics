@@ -25,4 +25,27 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-04-12-soundlabs-pres-the-jakob-sister-face2face-sabu@rave.wien
+DTSTAMP:20250412T000000Z
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250413
+SUMMARY:Soundlabs pres. The Jakob Sister Face2Face Sabu!
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:The Jakob Sister\, Sabu\nVeranstalter: Soundlabs\n\nhttps://r
+ ave.wien/e/2025-04-12-soundlabs-pres-the-jakob-sister-face2face-sabu
+URL:https://rave.wien/e/2025-04-12-soundlabs-pres-the-jakob-sister-face2f
+ ace-sabu
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-31-soundlabs-pres-sabu-f2f-hotboi2300@rave.wien
+DTSTAMP:20260131T000000Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Soundlabs pres. Sabu! F2F HOTBOI2300
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Sabu\, Hotboi2300\nVeranstalter: Soundlabs\n\nhttps://rave.wi
+ en/e/2026-01-31-soundlabs-pres-sabu-f2f-hotboi2300
+URL:https://rave.wien/e/2026-01-31-soundlabs-pres-sabu-f2f-hotboi2300
+END:VEVENT
 END:VCALENDAR

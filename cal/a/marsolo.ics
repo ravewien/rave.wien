@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-05-28-zuckerwatt-x-du-tanzt-mich-mal-2-floors-open-air@rave.wien
+DTSTAMP:20250528T000000Z
+DTSTART;VALUE=DATE:20250528
+DTEND;VALUE=DATE:20250529
+SUMMARY:ZUCKERWATT x DU TANZT MICH MAL – 2 FLOORS + OPEN AIR w/ MARSOLO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Marsolo\nVeranstalter: Zuckerwatt\n\nhttps://rave.wien/e/2025
+ -05-28-zuckerwatt-x-du-tanzt-mich-mal-2-floors-open-air
+URL:https://rave.wien/e/2025-05-28-zuckerwatt-x-du-tanzt-mich-mal-2-floor
+ s-open-air
+END:VEVENT
 END:VCALENDAR

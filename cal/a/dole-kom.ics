@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-14-disco-mirage-2-with-dole-kom@rave.wien
+DTSTAMP:20240814T000000Z
+DTSTART;VALUE=DATE:20240814
+DTEND;VALUE=DATE:20240815
+SUMMARY:Disco Mirage 2 with Dole&Kom
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Dole&Kom\n\nhttps://rave.wien/e/2024-08-14-disco-mirage-2-wit
+ h-dole-kom
+URL:https://rave.wien/e/2024-08-14-disco-mirage-2-with-dole-kom
+END:VEVENT
 END:VCALENDAR

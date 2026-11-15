@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-09-05-festklub-invites-ben-ufo@rave.wien
+DTSTAMP:20250905T000000Z
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250906
+SUMMARY:festklub invites Ben UFO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Ben UFO\nVeranstalter: Festklub\n\nhttps://rave.wien/e/2025-0
+ 9-05-festklub-invites-ben-ufo
+URL:https://rave.wien/e/2025-09-05-festklub-invites-ben-ufo
+END:VEVENT
 END:VCALENDAR

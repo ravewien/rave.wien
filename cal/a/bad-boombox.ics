@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-09-bcco-with-bad-boombox-future-666@rave.wien
+DTSTAMP:20241109T000000Z
+DTSTART;VALUE=DATE:20241109
+DTEND;VALUE=DATE:20241110
+SUMMARY:BCCO with Bad Boombox & future.666
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Bad Boombox\, Future.666\n\nhttps://rave.wien/e/2024-11-09-bc
+ co-with-bad-boombox-future-666
+URL:https://rave.wien/e/2024-11-09-bcco-with-bad-boombox-future-666
+END:VEVENT
 END:VCALENDAR

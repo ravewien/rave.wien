@@ -25,4 +25,37 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-03-15-high-steppin-invites-art-of-tones@rave.wien
+DTSTAMP:20250315T000000Z
+DTSTART;VALUE=DATE:20250315
+DTEND;VALUE=DATE:20250316
+SUMMARY:HIGH STEPPIN‘ invites Art of Tones
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Art of Tones\nVeranstalter: High Steppin\n\nhttps://rave.wien
+ /e/2025-03-15-high-steppin-invites-art-of-tones
+URL:https://rave.wien/e/2025-03-15-high-steppin-invites-art-of-tones
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-05-high-steppin@rave.wien
+DTSTAMP:20250405T000000Z
+DTSTART;VALUE=DATE:20250405
+DTEND;VALUE=DATE:20250406
+SUMMARY:High Steppin
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: High Steppin\n\nhttps://rave.wien/e/2025-04-05-
+ high-steppin
+URL:https://rave.wien/e/2025-04-05-high-steppin
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-26-high-steppin@rave.wien
+DTSTAMP:20250626T000000Z
+DTSTART;VALUE=DATE:20250626
+DTEND;VALUE=DATE:20250627
+SUMMARY:High Steppin
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: High Steppin\n\nhttps://rave.wien/e/2025-06-26-
+ high-steppin
+URL:https://rave.wien/e/2025-06-26-high-steppin
+END:VEVENT
 END:VCALENDAR

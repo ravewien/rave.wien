@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-29-perspective-with-mandidextrous-uk@rave.wien
+DTSTAMP:20241129T000000Z
+DTSTART;VALUE=DATE:20241129
+DTEND;VALUE=DATE:20241130
+SUMMARY:PERSPECTIVE with Mandidextrous [UK]
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Mandidextrous\nVeranstalter: Perspective\n\nhttps://rave.wien
+ /e/2024-11-29-perspective-with-mandidextrous-uk
+URL:https://rave.wien/e/2024-11-29-perspective-with-mandidextrous-uk
+END:VEVENT
 END:VCALENDAR

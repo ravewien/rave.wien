@@ -25,4 +25,30 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-08-22-an-r-n-b-party-called-jack@rave.wien
+DTSTAMP:20260822T000000Z
+DTSTART;TZID=Europe/Vienna:20260822T220000
+DTEND;TZID=Europe/Vienna:20260823T030000
+SUMMARY:An R’n’B party called JACK
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Flo Real\, JP Bechamel\, Kor1n\, Sora\nVeranstalter: A Party 
+ Called Jack\n\n„Midnight Wine“ Dance-Workshop mit Andrea Vezga Aceve
+ do\n\nhttps://rave.wien/e/2026-08-22-an-r-n-b-party-called-jack
+URL:https://rave.wien/e/2026-08-22-an-r-n-b-party-called-jack
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-a-party-called-jack@rave.wien
+DTSTAMP:20261017T000000Z
+DTSTART;TZID=Europe/Vienna:20261017T220000
+DTEND;TZID=Europe/Vienna:20261018T030000
+SUMMARY:A party called JACK
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Altroy Jerome\, JP Bechamel\, The Zees\, Sora\, Cynthia Cee\n
+ Veranstalter: A Party Called Jack\nEintritt: 12 € vor Mitternacht / 15
+  € danach\n\nDance-Workshop mit Farah Deen\; Live-Vocals von Cynthia C
+ ee\; JACK Resident-DJs\n\nhttps://rave.wien/e/2026-10-17-a-party-called-
+ jack
+URL:https://rave.wien/e/2026-10-17-a-party-called-jack
+END:VEVENT
 END:VCALENDAR

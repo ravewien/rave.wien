@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-01-16-ruhe-storung-w-nachtigaller-mela-leone@rave.wien
+DTSTAMP:20260116T000000Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:RUHE:STÖRUNG w/ Nachtigaller & Mela Leone
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Nachtigaller\, Mela Leone\n\nhttps://rave.wien/e/2026-01-16-r
+ uhe-storung-w-nachtigaller-mela-leone
+URL:https://rave.wien/e/2026-01-16-ruhe-storung-w-nachtigaller-mela-leone
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-09-12-mahlwerk-w-justin-jay-brent-honey-canelle-doublek@rave.wien
+DTSTAMP:20260912T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:MAHLWERK w/ Justin Jay\, Brent Honey & Canelle Doublekick
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Justin Jay\, Brent Honey\, Canelle Doublekick\nVeranstalter: 
+ Mahlwerk\n\nhttps://rave.wien/e/2026-09-12-mahlwerk-w-justin-jay-brent-h
+ oney-canelle-doublek
+URL:https://rave.wien/e/2026-09-12-mahlwerk-w-justin-jay-brent-honey-cane
+ lle-doublek
+END:VEVENT
 END:VCALENDAR

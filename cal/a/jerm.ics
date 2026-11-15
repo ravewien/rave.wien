@@ -25,4 +25,30 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-01-acid-techno-techno-club-w-frazi-er-jerm-dlv@rave.wien
+DTSTAMP:20240601T000000Z
+DTSTART;VALUE=DATE:20240601
+DTEND;VALUE=DATE:20240602
+SUMMARY:ACID TECHNO TECHNO CLUB w/ FRAZI.ER\, JERM & DLV
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Frazi.er\, Jerm\, DLV\nVeranstalter: Acid Techno Techno Club\
+ n\nhttps://rave.wien/e/2024-06-01-acid-techno-techno-club-w-frazi-er-jer
+ m-dlv
+URL:https://rave.wien/e/2024-06-01-acid-techno-techno-club-w-frazi-er-jer
+ m-dlv
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-f-cken-plus-w-jerm-gerald-vdh-deadlift-trash-depa@rave.wien
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:F*cken Plus w/ Jerm\, Gerald VDH\, Deadlift\, Trash Department
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Jerm\, Gerald VDH\, Deadlift\nVeranstalter: F*cken Plus\n\nht
+ tps://rave.wien/e/2026-10-16-f-cken-plus-w-jerm-gerald-vdh-deadlift-tras
+ h-depa
+URL:https://rave.wien/e/2026-10-16-f-cken-plus-w-jerm-gerald-vdh-deadlift
+ -trash-depa
+END:VEVENT
 END:VCALENDAR

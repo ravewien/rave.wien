@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-08-02-paradies-garten-festival-afterparty-w-secret-head@rave.wien
+DTSTAMP:20250802T000000Z
+DTSTART;VALUE=DATE:20250802
+DTEND;VALUE=DATE:20250803
+SUMMARY:Paradies Garten Festival Afterparty w/ Secret Headliners
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alex Ranerro\, countershine\, Dreya\, Katia Curie\, Violette\
+ nVeranstalter: Paradies Garten\n\nhttps://rave.wien/e/2025-08-02-paradie
+ s-garten-festival-afterparty-w-secret-head
+URL:https://rave.wien/e/2025-08-02-paradies-garten-festival-afterparty-w-
+ secret-head
+END:VEVENT
 END:VCALENDAR

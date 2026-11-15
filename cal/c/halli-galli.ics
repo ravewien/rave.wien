@@ -25,4 +25,48 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-01-10-halli-galli@rave.wien
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:Halli Galli
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Halli Galli\n\nhttps://rave.wien/e/2026-01-10-h
+ alli-galli
+URL:https://rave.wien/e/2026-01-10-halli-galli
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-16-halli-galli-10-jahre-vanille@rave.wien
+DTSTAMP:20260116T000000Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:Halli Galli – 10 Jahre Vanille
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Halli Galli\n\nhttps://rave.wien/e/2026-01-16-h
+ alli-galli-10-jahre-vanille
+URL:https://rave.wien/e/2026-01-16-halli-galli-10-jahre-vanille
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-19-halli-galli-2@rave.wien
+DTSTAMP:20260219T000000Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:Halli Galli #2
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Halli Galli\n\nhttps://rave.wien/e/2026-02-19-h
+ alli-galli-2
+URL:https://rave.wien/e/2026-02-19-halli-galli-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-25-halli-galli-4@rave.wien
+DTSTAMP:20260725T000000Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Halli Galli #4
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Halli Galli\n\nhttps://rave.wien/e/2026-07-25-h
+ alli-galli-4
+URL:https://rave.wien/e/2026-07-25-halli-galli-4
+END:VEVENT
 END:VCALENDAR

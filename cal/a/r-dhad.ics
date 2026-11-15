@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-03-22-r-dhad-turbo@rave.wien
+DTSTAMP:20240322T000000Z
+DTSTART;VALUE=DATE:20240322
+DTEND;VALUE=DATE:20240323
+SUMMARY:Rødhåd | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Rødhåd\nVeranstalter: TURBO\n\nhttps://rave.wien/e/2024-03-
+ 22-r-dhad-turbo
+URL:https://rave.wien/e/2024-03-22-r-dhad-turbo
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-5-years-exil-free-rave-with-r-dhad@rave.wien
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:5 YEARS EXIL – FREE RAVE with Rødhåd
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Rødhåd\n\nhttps://rave.wien/e/2026-10-09-5-years-exil-free-
+ rave-with-r-dhad
+URL:https://rave.wien/e/2026-10-09-5-years-exil-free-rave-with-r-dhad
+END:VEVENT
 END:VCALENDAR

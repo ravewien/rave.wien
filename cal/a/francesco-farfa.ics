@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-04-12-prst-invites-trommel-w-francesco-farfa-gabbs@rave.wien
+DTSTAMP:20240412T000000Z
+DTSTART;VALUE=DATE:20240412
+DTEND;VALUE=DATE:20240413
+SUMMARY:PRST invites Trommel w/ Francesco Farfa & Gabbs
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Francesco Farfa\, Gabbs\n\nhttps://rave.wien/e/2024-04-12-prs
+ t-invites-trommel-w-francesco-farfa-gabbs
+URL:https://rave.wien/e/2024-04-12-prst-invites-trommel-w-francesco-farfa
+ -gabbs
+END:VEVENT
 END:VCALENDAR

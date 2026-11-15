@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-01-10-zuckerwatt-w-tigerhead-x-techno-am-berg@rave.wien
+DTSTAMP:20250110T000000Z
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+SUMMARY:ZUCKERWATT w/ TIGERHEAD x Techno am Berg
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Tigerhead\, Techno am Berg\nVeranstalter: Zuckerwatt\n\nhttps
+ ://rave.wien/e/2025-01-10-zuckerwatt-w-tigerhead-x-techno-am-berg
+URL:https://rave.wien/e/2025-01-10-zuckerwatt-w-tigerhead-x-techno-am-berg
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-09-19-sniffin-glue-i-martial-canterel-live-eye-live@rave.wien
+DTSTAMP:20250919T000000Z
+DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250920
+SUMMARY:Sniffin Glue I Martial Canterel (live)\, EYE (live)
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Martial Canterel\, EYE\n\nhttps://rave.wien/e/2025-09-19-snif
+ fin-glue-i-martial-canterel-live-eye-live
+URL:https://rave.wien/e/2025-09-19-sniffin-glue-i-martial-canterel-live-e
+ ye-live
+END:VEVENT
 END:VCALENDAR

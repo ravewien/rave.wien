@@ -25,4 +25,29 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-02-16-steptotek-xl-carnival-special-w-bushman-live@rave.wien
+DTSTAMP:20240216T000000Z
+DTSTART;VALUE=DATE:20240216
+DTEND;VALUE=DATE:20240217
+SUMMARY:StepToTek XL – Carnival Special w/ BUSHMAN Live
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Bushman\nVeranstalter: Step to Tek\n\nhttps://rave.wien/e/202
+ 4-02-16-steptotek-xl-carnival-special-w-bushman-live
+URL:https://rave.wien/e/2024-02-16-steptotek-xl-carnival-special-w-bushma
+ n-live
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-28-step-to-tek-xl-with-bushman-mazatek-illtek-optima@rave.wien
+DTSTAMP:20241228T000000Z
+DTSTART;VALUE=DATE:20241228
+DTEND;VALUE=DATE:20241229
+SUMMARY:Step to Tek XL with Bushman\, Mazatek\, Illtek & Optimatek
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Bushman\, Mazatek\, Illtek\, Optimatek\nVeranstalter: Step to
+  Tek\n\nhttps://rave.wien/e/2024-12-28-step-to-tek-xl-with-bushman-mazat
+ ek-illtek-optima
+URL:https://rave.wien/e/2024-12-28-step-to-tek-xl-with-bushman-mazatek-il
+ ltek-optima
+END:VEVENT
 END:VCALENDAR

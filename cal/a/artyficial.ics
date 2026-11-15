@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-09-26-psytrance-universe-at-werk-with-artyficial@rave.wien
+DTSTAMP:20260926T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:PSYTRANCE UNIVERSE at WERK with Artyficial
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Artyficial\nVeranstalter: Psytrance Universe\n\nhttps://rave.
+ wien/e/2026-09-26-psytrance-universe-at-werk-with-artyficial
+URL:https://rave.wien/e/2026-09-26-psytrance-universe-at-werk-with-artyfi
+ cial
+END:VEVENT
 END:VCALENDAR

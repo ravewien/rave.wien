@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-09-26-wreck-invites-ladrillovitz-cameron@rave.wien
+DTSTAMP:20260926T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:WRECK invites Ladrillovitz & Cameron
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Ladrillovitz\, Cameron\nVeranstalter: WRECK\n\nhttps://rave.w
+ ien/e/2026-09-26-wreck-invites-ladrillovitz-cameron
+URL:https://rave.wien/e/2026-09-26-wreck-invites-ladrillovitz-cameron
+END:VEVENT
 END:VCALENDAR

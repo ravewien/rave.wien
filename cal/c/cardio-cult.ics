@@ -41,4 +41,81 @@ DESCRIPTION:Veranstalter: Cardio Cult\nEintritt: 10–15 € (inkl. Welco
  /rave.wien/e/2026-11-28-cardio-cult
 URL:https://rave.wien/e/2026-11-28-cardio-cult
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-11-cardio-cult-invites-80k-and-rudina@rave.wien
+DTSTAMP:20250711T000000Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+SUMMARY:Cardio Cult invites: 80k and Rudina
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:80k\, Rudina\nVeranstalter: Cardio Cult\n\nhttps://rave.wien/
+ e/2025-07-11-cardio-cult-invites-80k-and-rudina
+URL:https://rave.wien/e/2025-07-11-cardio-cult-invites-80k-and-rudina
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-11-cardio-cult-w-andi-britz-anna-soto@rave.wien
+DTSTAMP:20251011T000000Z
+DTSTART;VALUE=DATE:20251011
+DTEND;VALUE=DATE:20251012
+SUMMARY:Cardio Cult w/ Andi Britz & Anna Soto
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Andi Britz\, Anna Soto\nVeranstalter: Cardio Cult\n\nhttps://
+ rave.wien/e/2025-10-11-cardio-cult-w-andi-britz-anna-soto
+URL:https://rave.wien/e/2025-10-11-cardio-cult-w-andi-britz-anna-soto
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-11-cardio-cult@rave.wien
+DTSTAMP:20251211T000000Z
+DTSTART;VALUE=DATE:20251211
+DTEND;VALUE=DATE:20251212
+SUMMARY:Cardio Cult
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Cardio Cult\n\nhttps://rave.wien/e/2025-12-11-c
+ ardio-cult
+URL:https://rave.wien/e/2025-12-11-cardio-cult
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-29-cardio-cult@rave.wien
+DTSTAMP:20260129T000000Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:Cardio Cult
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Cardio Cult\n\nhttps://rave.wien/e/2026-01-29-c
+ ardio-cult
+URL:https://rave.wien/e/2026-01-29-cardio-cult
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-16-cardio-cult@rave.wien
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Cardio Cult
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Cardio Cult\n\nhttps://rave.wien/e/2026-05-16-c
+ ardio-cult
+URL:https://rave.wien/e/2026-05-16-cardio-cult
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-21-cardio-cult@rave.wien
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Cardio Cult
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Cardio Cult\n\nhttps://rave.wien/e/2026-08-21-c
+ ardio-cult
+URL:https://rave.wien/e/2026-08-21-cardio-cult
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-cardio-cult-with-toni-stark@rave.wien
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Cardio Cult with Toni Stark
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Toni Stark\nVeranstalter: Cardio Cult\n\nhttps://rave.wien/e/
+ 2026-10-08-cardio-cult-with-toni-stark
+URL:https://rave.wien/e/2026-10-08-cardio-cult-with-toni-stark
+END:VEVENT
 END:VCALENDAR

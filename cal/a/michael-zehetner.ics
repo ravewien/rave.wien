@@ -25,4 +25,30 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-03-soundhouse-w-masha-dabelka-fabian-hofer-michael-z@rave.wien
+DTSTAMP:20240803T000000Z
+DTSTART;VALUE=DATE:20240803
+DTEND;VALUE=DATE:20240804
+SUMMARY:SOUNDHOUSE w/ Masha Dabelka\, Fabian Hofer\, Michael Zehetner
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Masha Dabelka\, Fabian Hofer\, Michael Zehetner\nVeranstalter
+ : Soundhouse\n\nhttps://rave.wien/e/2024-08-03-soundhouse-w-masha-dabelk
+ a-fabian-hofer-michael-z
+URL:https://rave.wien/e/2024-08-03-soundhouse-w-masha-dabelka-fabian-hofe
+ r-michael-z
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-25-soundhouse-with-voltmarie-fabian-hofer-michael-ze@rave.wien
+DTSTAMP:20251025T000000Z
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+SUMMARY:SOUNDHOUSE with VOLTMARIE\, Fabian Hofer\, Michael Zehetner
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Voltmarie\, Fabian Hofer\, Michael Zehetner\nVeranstalter: So
+ undhouse\n\nhttps://rave.wien/e/2025-10-25-soundhouse-with-voltmarie-fab
+ ian-hofer-michael-ze
+URL:https://rave.wien/e/2025-10-25-soundhouse-with-voltmarie-fabian-hofer
+ -michael-ze
+END:VEVENT
 END:VCALENDAR

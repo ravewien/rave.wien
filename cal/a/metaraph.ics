@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-01-24-stay-acid-presents-54hz-with-metaraph@rave.wien
+DTSTAMP:20260124T000000Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:Stay Acid presents 54hz with Metaraph
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Metaraph\nVeranstalter: Stay Acid\n\nhttps://rave.wien/e/2026
+ -01-24-stay-acid-presents-54hz-with-metaraph
+URL:https://rave.wien/e/2026-01-24-stay-acid-presents-54hz-with-metaraph
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-08-mahlwerk-w-peter-blue@rave.wien
+DTSTAMP:20250608T000000Z
+DTSTART;VALUE=DATE:20250608
+DTEND;VALUE=DATE:20250609
+SUMMARY:Mahlwerk w/ Peter Blue
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Peter Blue\nVeranstalter: Mahlwerk\n\nhttps://rave.wien/e/202
+ 5-06-08-mahlwerk-w-peter-blue
+URL:https://rave.wien/e/2025-06-08-mahlwerk-w-peter-blue
+END:VEVENT
 END:VCALENDAR

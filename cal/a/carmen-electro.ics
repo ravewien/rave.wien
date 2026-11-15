@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-12-05-soma-with-carmen-electro@rave.wien
+DTSTAMP:20251205T000000Z
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:SOMA with Carmen Electro
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Carmen Electro\n\nhttps://rave.wien/e/2025-12-05-soma-with-ca
+ rmen-electro
+URL:https://rave.wien/e/2025-12-05-soma-with-carmen-electro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-04-push-w-carmen-electro-lucia-lu@rave.wien
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:PUSH w/ CARMEN ELECTRO & LUCIA LU
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Carmen Electro\, Lucia Lu\nVeranstalter: PUSH\n\nhttps://rave
+ .wien/e/2026-09-04-push-w-carmen-electro-lucia-lu
+URL:https://rave.wien/e/2026-09-04-push-w-carmen-electro-lucia-lu
+END:VEVENT
 END:VCALENDAR

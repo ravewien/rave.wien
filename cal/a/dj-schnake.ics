@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-21-spectrum-with-dj-schnake@rave.wien
+DTSTAMP:20260221T000000Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:Spectrum with Dj Schnake
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Dj Schnake\nVeranstalter: Spectrum\n\nhttps://rave.wien/e/202
+ 6-02-21-spectrum-with-dj-schnake
+URL:https://rave.wien/e/2026-02-21-spectrum-with-dj-schnake
+END:VEVENT
 END:VCALENDAR

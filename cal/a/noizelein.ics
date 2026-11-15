@@ -47,4 +47,15 @@ DESCRIPTION:Corps A Core\, Gotek\, David Green\, Nexxor\, Maddike\, CaHOL
  t.\n\nhttps://rave.wien/e/2026-11-14-out-of-ctrl-eardrums
 URL:https://rave.wien/e/2026-11-14-out-of-ctrl-eardrums
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-03-08-melting-minds-w-phat-otiz-fts-noizelein@rave.wien
+DTSTAMP:20240308T000000Z
+DTSTART;VALUE=DATE:20240308
+DTEND;VALUE=DATE:20240309
+SUMMARY:MELTING MINDS w/ Phat Otiz\, FTS & Noizelein
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Phat Otiz\, FTS\, Noizelein\nVeranstalter: Melting Minds\n\nh
+ ttps://rave.wien/e/2024-03-08-melting-minds-w-phat-otiz-fts-noizelein
+URL:https://rave.wien/e/2024-03-08-melting-minds-w-phat-otiz-fts-noizelein
+END:VEVENT
 END:VCALENDAR

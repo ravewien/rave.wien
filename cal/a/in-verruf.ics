@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-02-01-in-verruf-lene-ma-rue-impulse@rave.wien
+DTSTAMP:20250201T000000Z
+DTSTART;VALUE=DATE:20250201
+DTEND;VALUE=DATE:20250202
+SUMMARY:IN VERRUF & LENE MA RUE | IMPULSE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:In Verruf\, Lene Ma Rue\nVeranstalter: Impulse\n\nhttps://rav
+ e.wien/e/2025-02-01-in-verruf-lene-ma-rue-impulse
+URL:https://rave.wien/e/2025-02-01-in-verruf-lene-ma-rue-impulse
+END:VEVENT
 END:VCALENDAR

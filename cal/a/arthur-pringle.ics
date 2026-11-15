@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-09-26-french-conn-ktion@rave.wien
+DTSTAMP:20260926T000000Z
+DTSTART;TZID=Europe/Vienna:20260926T230000
+DTEND;TZID=Europe/Vienna:20260927T040000
+SUMMARY:FRENCH CONNÆKTION
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Voltaire\, Arthur Pringle\, urna()sonic\nEintritt: 16 € + G
+ ebühr\n\nhttps://rave.wien/e/2026-09-26-french-conn-ktion
+URL:https://rave.wien/e/2026-09-26-french-conn-ktion
+END:VEVENT
 END:VCALENDAR

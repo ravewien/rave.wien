@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-08-drumworks-presents-resslek-iamdoomed@rave.wien
+DTSTAMP:20241108T000000Z
+DTSTART;VALUE=DATE:20241108
+DTEND;VALUE=DATE:20241109
+SUMMARY:Drumworks presents RESSLEK & IAMDOOMED
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Resslek\, Iamdoomed\nVeranstalter: Drumworks\n\nhttps://rave.
+ wien/e/2024-11-08-drumworks-presents-resslek-iamdoomed
+URL:https://rave.wien/e/2024-11-08-drumworks-presents-resslek-iamdoomed
+END:VEVENT
 END:VCALENDAR

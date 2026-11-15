@@ -66,6 +66,33 @@ DESCRIPTION:Oben: Who is Ela¿\, maro\, Aschenbrenner\, Suitside\, DizzyD
 URL:https://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-06-26-der-radio-x-subwaves@rave.wien
+DTSTAMP:20260626T000000Z
+DTSTART;TZID=Europe/Vienna:20260626T180000
+DTEND;TZID=Europe/Vienna:20260627T040000
+SUMMARY:DER RADIO X Subwaves
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:Syntha\, Lost Tourist\, Der Werther\, phisch\, clark\, Disco 
+ Duck\, Lucky Shiner\, Tence\, WO.IZZY\nVeranstalter: Der Radio\, Subwave
+ s\nEintritt: Gratis bis 22 Uhr\, danach 10 €\n\nGratis Open Air auf de
+ r Terrasse des Club U ab 18 Uhr\, danach unten mit dem Pack&Punch Sounds
+ ystem. House und Garage.\n\nhttps://rave.wien/e/2026-06-26-der-radio-x-s
+ ubwaves
+URL:https://rave.wien/e/2026-06-26-der-radio-x-subwaves
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-31-club-night-hosted-by-der-radio@rave.wien
+DTSTAMP:20260731T000000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Club Night | Hosted By Der Radio
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Der Werther\, WO.IZZY\, Der Parkverbot\, 9euro\, DJ Nana\, DJ
+  Schelle\, DJ Trace\, Ozzy Era\, Tankstelle 247\nVeranstalter: Der Radio
+ \n\nhttps://rave.wien/e/2026-07-31-club-night-hosted-by-der-radio
+URL:https://rave.wien/e/2026-07-31-club-night-hosted-by-der-radio
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-forbidden-frequency-pre-halloween-rave@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T235000

@@ -66,4 +66,52 @@ DESCRIPTION:Oben: Who is Ela¿\, maro\, Aschenbrenner\, Suitside\, DizzyD
  nierung.\n\nhttps://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
 URL:https://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-23-selected-scheibenwisch3r-frederic@rave.wien
+DTSTAMP:20260123T000000Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Selected – Scheibenwisch3r & Frederic
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Scheibenwisch3r\, Frederic.\nVeranstalter: Selected\n\nhttps:
+ //rave.wien/e/2026-01-23-selected-scheibenwisch3r-frederic
+URL:https://rave.wien/e/2026-01-23-selected-scheibenwisch3r-frederic
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-18-deep-dive-by-bassbehorde-w-scheibenwischer@rave.wien
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:DEEP DIVE by Bassbehörde w/ Scheibenwischer
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Scheibenwischer\nVeranstalter: Deep Dive\n\nhttps://rave.wien
+ /e/2026-04-18-deep-dive-by-bassbehorde-w-scheibenwischer
+URL:https://rave.wien/e/2026-04-18-deep-dive-by-bassbehorde-w-scheibenwis
+ cher
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-04-karolina-b2b-scheibenwisch3r-all-night-long@rave.wien
+DTSTAMP:20260704T000000Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:KAROLINA b2b SCHEIBENWISCH3R All Night Long
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Karolina\, Scheibenwisch3r\n\nhttps://rave.wien/e/2026-07-04-
+ karolina-b2b-scheibenwisch3r-all-night-long
+URL:https://rave.wien/e/2026-07-04-karolina-b2b-scheibenwisch3r-all-night
+ -long
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-11-rave-am-mittwoch-scheibenwischer-solv-r-all-night@rave.wien
+DTSTAMP:20260711T000000Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Rave am Mittwoch: Scheibenwischer & SOLVÆR (All Night Long)
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Scheibenwischer\, Solvær\nVeranstalter: Rave am Mittwoch\n\n
+ https://rave.wien/e/2026-07-11-rave-am-mittwoch-scheibenwischer-solv-r-a
+ ll-night
+URL:https://rave.wien/e/2026-07-11-rave-am-mittwoch-scheibenwischer-solv-
+ r-all-night
+END:VEVENT
 END:VCALENDAR

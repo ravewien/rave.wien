@@ -25,4 +25,37 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-08-09-spectrum-w-bass-temp@rave.wien
+DTSTAMP:20250809T000000Z
+DTSTART;VALUE=DATE:20250809
+DTEND;VALUE=DATE:20250810
+SUMMARY:Spectrum w/ Bass Temp
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Bass Temp\nVeranstalter: Spectrum\n\nhttps://rave.wien/e/2025
+ -08-09-spectrum-w-bass-temp
+URL:https://rave.wien/e/2025-08-09-spectrum-w-bass-temp
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-26-decibell-e-s-x-spectrum@rave.wien
+DTSTAMP:20251226T000000Z
+DTSTART;VALUE=DATE:20251226
+DTEND;VALUE=DATE:20251227
+SUMMARY:Decibell(e)s X Spectrum
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Spectrum\n\nhttps://rave.wien/e/2025-12-26-deci
+ bell-e-s-x-spectrum
+URL:https://rave.wien/e/2025-12-26-decibell-e-s-x-spectrum
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-21-spectrum-with-dj-schnake@rave.wien
+DTSTAMP:20260221T000000Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:Spectrum with Dj Schnake
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Dj Schnake\nVeranstalter: Spectrum\n\nhttps://rave.wien/e/202
+ 6-02-21-spectrum-with-dj-schnake
+URL:https://rave.wien/e/2026-02-21-spectrum-with-dj-schnake
+END:VEVENT
 END:VCALENDAR

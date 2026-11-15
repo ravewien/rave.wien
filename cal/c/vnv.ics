@@ -42,6 +42,51 @@ DESCRIPTION:Fafi Abdel Nour\nVeranstalter: Amore AG\, VNV\n\nClubnacht de
 URL:https://rave.wien/e/2026-12-11-amore-ag-x-vnv-with-fafi-abdel-nour
 END:VEVENT
 BEGIN:VEVENT
+UID:2025-05-03-vnv-invites@rave.wien
+DTSTAMP:20250503T000000Z
+DTSTART;VALUE=DATE:20250503
+DTEND;VALUE=DATE:20250504
+SUMMARY:VNV Invites
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:VNV Invites\nVeranstalter: VNV\n\nhttps://rave.wien/e/2025-05
+ -03-vnv-invites
+URL:https://rave.wien/e/2025-05-03-vnv-invites
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-07-vnv-invites@rave.wien
+DTSTAMP:20260207T000000Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:VNV Invites
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:VNV Invites\nVeranstalter: VNV\n\nhttps://rave.wien/e/2026-02
+ -07-vnv-invites
+URL:https://rave.wien/e/2026-02-07-vnv-invites
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-10-vnv-x-soundbuglerei-invite-gabriel-belabbas@rave.wien
+DTSTAMP:20260410T000000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:VNV x Soundbüglerei invite Gabriel Belabbas
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Gabriel Belabbas\nVeranstalter: Soundbüglerei\, VNV\n\nhttps
+ ://rave.wien/e/2026-04-10-vnv-x-soundbuglerei-invite-gabriel-belabbas
+URL:https://rave.wien/e/2026-04-10-vnv-x-soundbuglerei-invite-gabriel-bel
+ abbas
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-30-straat-264-x-vnv-w-dax-j-hyperaktivist@rave.wien
+DTSTAMP:20260530T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:STRAAT 264 x VNV w/ DAX J & Hyperaktivist
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Dax J\, Hyperaktivist\nVeranstalter: Straat 264\, VNV\n\nhttp
+ s://rave.wien/e/2026-05-30-straat-264-x-vnv-w-dax-j-hyperaktivist
+URL:https://rave.wien/e/2026-05-30-straat-264-x-vnv-w-dax-j-hyperaktivist
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-voyage-with-carl-h@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T230000

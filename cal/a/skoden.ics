@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-05-23-nachtschub-with-skoden-uk@rave.wien
+DTSTAMP:20250523T000000Z
+DTSTART;VALUE=DATE:20250523
+DTEND;VALUE=DATE:20250524
+SUMMARY:NACHTSCHUB with Skoden (UK)
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Skoden\nVeranstalter: Nachtschub\n\nhttps://rave.wien/e/2025-
+ 05-23-nachtschub-with-skoden-uk
+URL:https://rave.wien/e/2025-05-23-nachtschub-with-skoden-uk
+END:VEVENT
 END:VCALENDAR

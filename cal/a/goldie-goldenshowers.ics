@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-07-26-techno-entgleist-x-du-tanzt-mich-mal-afterparty@rave.wien
+DTSTAMP:20250726T000000Z
+DTSTART;VALUE=DATE:20250726
+DTEND;VALUE=DATE:20250727
+SUMMARY:TECHNO ENTGLEIST x DU TANZT MICH MAL Afterparty
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Paul Boese\, Tomagan\, Très Julie\, Paul Panther\, Goldie Go
+ ldenshowers\, Seba\nVeranstalter: Techno Entgleist\n\nhttps://rave.wien/
+ e/2025-07-26-techno-entgleist-x-du-tanzt-mich-mal-afterparty
+URL:https://rave.wien/e/2025-07-26-techno-entgleist-x-du-tanzt-mich-mal-a
+ fterparty
+END:VEVENT
 END:VCALENDAR

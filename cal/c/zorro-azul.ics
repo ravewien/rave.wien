@@ -25,4 +25,48 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-10-17-obskur-x-zorro-azul@rave.wien
+DTSTAMP:20241017T000000Z
+DTSTART;VALUE=DATE:20241017
+DTEND;VALUE=DATE:20241018
+SUMMARY:Obskür X Zorro Azul
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Zorro Azul\n\nhttps://rave.wien/e/2024-10-17-ob
+ skur-x-zorro-azul
+URL:https://rave.wien/e/2024-10-17-obskur-x-zorro-azul
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-05-zorro-azul-x-prst-krampus-special@rave.wien
+DTSTAMP:20241205T000000Z
+DTSTART;VALUE=DATE:20241205
+DTEND;VALUE=DATE:20241206
+SUMMARY:Zorro Azul x PRST Krampus Special
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Zorro Azul\n\nhttps://rave.wien/e/2024-12-05-zo
+ rro-azul-x-prst-krampus-special
+URL:https://rave.wien/e/2024-12-05-zorro-azul-x-prst-krampus-special
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-23-zorro-azul-x-prst@rave.wien
+DTSTAMP:20250123T000000Z
+DTSTART;VALUE=DATE:20250123
+DTEND;VALUE=DATE:20250124
+SUMMARY:Zorro Azul X PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Zorro Azul\n\nhttps://rave.wien/e/2025-01-23-zo
+ rro-azul-x-prst
+URL:https://rave.wien/e/2025-01-23-zorro-azul-x-prst
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-26-zorro-azul-x-prst@rave.wien
+DTSTAMP:20250426T000000Z
+DTSTART;VALUE=DATE:20250426
+DTEND;VALUE=DATE:20250427
+SUMMARY:Zorro Azul X PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Zorro Azul\n\nhttps://rave.wien/e/2025-04-26-zo
+ rro-azul-x-prst
+URL:https://rave.wien/e/2025-04-26-zorro-azul-x-prst
+END:VEVENT
 END:VCALENDAR

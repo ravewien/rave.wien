@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-05-23-8-yrs-techno-entgleist-open-air-indoor@rave.wien
+DTSTAMP:20250523T000000Z
+DTSTART;VALUE=DATE:20250523
+DTEND;VALUE=DATE:20250524
+SUMMARY:8 YRS TECHNO ENTGLEIST | Open Air & Indoor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mimosa\, Epicuro\, Tomagan\, Alexis Hera\, Danloe\, Anni Herz
+ er\, Smuf\, Vibechen\, Max Wagner\, Tony V\nVeranstalter: Techno Entglei
+ st\n\nhttps://rave.wien/e/2025-05-23-8-yrs-techno-entgleist-open-air-ind
+ oor
+URL:https://rave.wien/e/2025-05-23-8-yrs-techno-entgleist-open-air-indoor
+END:VEVENT
 END:VCALENDAR

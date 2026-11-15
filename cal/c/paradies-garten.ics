@@ -46,4 +46,109 @@ DESCRIPTION:Mainfloor: Paraçek\, MARØ\, Vivienna\nKitchen: Felix Ruppre
  n/e/2026-11-14-paradies-garten-w-paracek
 URL:https://rave.wien/e/2026-11-14-paradies-garten-w-paracek
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-25-paradies-garten-festival-2024-launch-party-w-u-r@rave.wien
+DTSTAMP:20240525T000000Z
+DTSTART;VALUE=DATE:20240525
+DTEND;VALUE=DATE:20240526
+SUMMARY:Paradies Garten Festival 2024 Launch Party w/ u.r.trax
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:u.r.trax\nVeranstalter: Paradies Garten\n\nhttps://rave.wien/
+ e/2024-05-25-paradies-garten-festival-2024-launch-party-w-u-r
+URL:https://rave.wien/e/2024-05-25-paradies-garten-festival-2024-launch-p
+ arty-w-u-r
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-09-paradies-garten-w-mija-grelle-forelle@rave.wien
+DTSTAMP:20241109T000000Z
+DTSTART;VALUE=DATE:20241109
+DTEND;VALUE=DATE:20241110
+SUMMARY:Paradies Garten w/ MIJA | Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:MIJA\nVeranstalter: Paradies Garten\n\nhttps://rave.wien/e/20
+ 24-11-09-paradies-garten-w-mija-grelle-forelle
+URL:https://rave.wien/e/2024-11-09-paradies-garten-w-mija-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-18-paradies-garten-x-prst@rave.wien
+DTSTAMP:20250118T000000Z
+DTSTART;VALUE=DATE:20250118
+DTEND;VALUE=DATE:20250119
+SUMMARY:PARADIES GARTEN x PRST
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Paradies Garten\n\nhttps://rave.wien/e/2025-01-
+ 18-paradies-garten-x-prst
+URL:https://rave.wien/e/2025-01-18-paradies-garten-x-prst
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-21-paradies-garten-w-lb-aka-labat-grelle-forelle@rave.wien
+DTSTAMP:20250321T000000Z
+DTSTART;VALUE=DATE:20250321
+DTEND;VALUE=DATE:20250322
+SUMMARY:Paradies Garten w/ LB aka LABAT | Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:LB\nVeranstalter: Paradies Garten\n\nhttps://rave.wien/e/2025
+ -03-21-paradies-garten-w-lb-aka-labat-grelle-forelle
+URL:https://rave.wien/e/2025-03-21-paradies-garten-w-lb-aka-labat-grelle-
+ forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-23-paradies-garten-vie-w-x-prst-with-pascal-moscheni@rave.wien
+DTSTAMP:20250523T000000Z
+DTSTART;VALUE=DATE:20250523
+DTEND;VALUE=DATE:20250524
+SUMMARY:Paradies Garten & Vie.w x PRST with Pascal Moscheni
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Pascal Moscheni\nVeranstalter: Paradies Garten\, VIE.W\n\nhtt
+ ps://rave.wien/e/2025-05-23-paradies-garten-vie-w-x-prst-with-pascal-mos
+ cheni
+URL:https://rave.wien/e/2025-05-23-paradies-garten-vie-w-x-prst-with-pasc
+ al-moscheni
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-02-paradies-garten-festival-afterparty-w-secret-head@rave.wien
+DTSTAMP:20250802T000000Z
+DTSTART;VALUE=DATE:20250802
+DTEND;VALUE=DATE:20250803
+SUMMARY:Paradies Garten Festival Afterparty w/ Secret Headliners
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alex Ranerro\, countershine\, Dreya\, Katia Curie\, Violette\
+ nVeranstalter: Paradies Garten\n\nhttps://rave.wien/e/2025-08-02-paradie
+ s-garten-festival-afterparty-w-secret-head
+URL:https://rave.wien/e/2025-08-02-paradies-garten-festival-afterparty-w-
+ secret-head
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-03-paradies-garten-w-dj-heartstring@rave.wien
+DTSTAMP:20251003T000000Z
+DTSTART;VALUE=DATE:20251003
+DTEND;VALUE=DATE:20251004
+SUMMARY:Paradies Garten w/ DJ HEARTSTRING
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:DJ Heartstring\nVeranstalter: Paradies Garten\n\nhttps://rave
+ .wien/e/2025-10-03-paradies-garten-w-dj-heartstring
+URL:https://rave.wien/e/2025-10-03-paradies-garten-w-dj-heartstring
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-22-paradies-garten-w-mischluft@rave.wien
+DTSTAMP:20260522T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Paradies Garten w/ Mischluft
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mischluft\nVeranstalter: Paradies Garten\n\nhttps://rave.wien
+ /e/2026-05-22-paradies-garten-w-mischluft
+URL:https://rave.wien/e/2026-05-22-paradies-garten-w-mischluft
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-01-paradies-garten-festival-afterparty@rave.wien
+DTSTAMP:20260801T000000Z
+DTSTART;TZID=Europe/Vienna:20260801T230000
+DTEND;TZID=Europe/Vienna:20260802T040000
+SUMMARY:Paradies Garten Festival Afterparty
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Paradies Garten\n\nhttps://rave.wien/e/2026-08-
+ 01-paradies-garten-festival-afterparty
+URL:https://rave.wien/e/2026-08-01-paradies-garten-festival-afterparty
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-20-fish-market-w-cleric-clergy-uk-specific-objects-g@rave.wien
+DTSTAMP:20241220T000000Z
+DTSTART;VALUE=DATE:20241220
+DTEND;VALUE=DATE:20241221
+SUMMARY:FISH MARKET w/ Cleric (Clergy\, UK)\, Specific Objects\, Gerald V
+ DH\, Mischa Beton\, GYDAH
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Cleric (Clergy\, UK)\, Specific Objects\, Gerald VDH\, Mischa
+  Beton\, GYDAH\nVeranstalter: Fish Market\n\nhttps://rave.wien/e/2024-12
+ -20-fish-market-w-cleric-clergy-uk-specific-objects-g
+URL:https://rave.wien/e/2024-12-20-fish-market-w-cleric-clergy-uk-specifi
+ c-objects-g
+END:VEVENT
 END:VCALENDAR

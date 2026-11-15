@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-05-17-a-luvaffair-with-calabazza@rave.wien
+DTSTAMP:20250517T000000Z
+DTSTART;VALUE=DATE:20250517
+DTEND;VALUE=DATE:20250518
+SUMMARY:A LuvAffair with Calabazza
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Calabazza\n\nhttps://rave.wien/e/2025-05-17-a-luvaffair-with-
+ calabazza
+URL:https://rave.wien/e/2025-05-17-a-luvaffair-with-calabazza
+END:VEVENT
 END:VCALENDAR

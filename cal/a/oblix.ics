@@ -38,4 +38,19 @@ DESCRIPTION:Lee U Mash\, Oblix\, Opthix\, Petronik\nVeranstalter: NachtAk
  kannt.\n\nhttps://rave.wien/e/2026-12-18-nachtaktiv-presents-psyjungle
 URL:https://rave.wien/e/2026-12-18-nachtaktiv-presents-psyjungle
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-30-psytrance-universe-neon-dimensions-grelle-forelle@rave.wien
+DTSTAMP:20250530T000000Z
+DTSTART;VALUE=DATE:20250530
+DTEND;VALUE=DATE:20250531
+SUMMARY:Psytrance Universe – Neon Dimensions @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alezzaro\, Cougar\, Urklang\, Bornvoyage\, Misaya\, Progtamin
+ \, Hannah mit Hut\, Oblix\, Serex\, Marakame\, Tomagan\, Agnya\, Karam J
+ \, Arnab\, Insano\, Camsis\, Cheddar Boyz\nVeranstalter: Psytrance Unive
+ rse\n\nhttps://rave.wien/e/2025-05-30-psytrance-universe-neon-dimensions
+ -grelle-forelle
+URL:https://rave.wien/e/2025-05-30-psytrance-universe-neon-dimensions-gre
+ lle-forelle
+END:VEVENT
 END:VCALENDAR

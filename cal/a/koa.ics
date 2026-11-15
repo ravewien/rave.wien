@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-07-13-yrs-grelle-forelle-day-two@rave.wien
+DTSTAMP:20241207T000000Z
+DTSTART;TZID=Europe/Vienna:20241207T230000
+DTEND;TZID=Europe/Vienna:20241208T040000
+SUMMARY:13 YRS Grelle Forelle – Day Two
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:DJ Heartstring\, Derrick Raw\, Vivienna\, Flo Real\, Koa\, Al
+ troy Jerome\n\nhttps://rave.wien/e/2024-12-07-13-yrs-grelle-forelle-day-
+ two
+URL:https://rave.wien/e/2024-12-07-13-yrs-grelle-forelle-day-two
+END:VEVENT
 END:VCALENDAR

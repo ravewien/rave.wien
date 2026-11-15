@@ -25,4 +25,70 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-04-13-purradox-w-tta@rave.wien
+DTSTAMP:20240413T000000Z
+DTSTART;VALUE=DATE:20240413
+DTEND;VALUE=DATE:20240414
+SUMMARY:PURRADOX w/ Øtta
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:ØTTA\nVeranstalter: Purradox\n\nhttps://rave.wien/e/2024-04-
+ 13-purradox-w-tta
+URL:https://rave.wien/e/2024-04-13-purradox-w-tta
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-10-purradox-w-tham-rouge@rave.wien
+DTSTAMP:20240810T000000Z
+DTSTART;VALUE=DATE:20240810
+DTEND;VALUE=DATE:20240811
+SUMMARY:PURRADOX w/ THAM & ROÜGE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:THAM\, Roüge\nVeranstalter: Purradox\n\nhttps://rave.wien/e/
+ 2024-08-10-purradox-w-tham-rouge
+URL:https://rave.wien/e/2024-08-10-purradox-w-tham-rouge
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-07-purradox-w-lee-ann-roberts@rave.wien
+DTSTAMP:20250607T000000Z
+DTSTART;VALUE=DATE:20250607
+DTEND;VALUE=DATE:20250608
+SUMMARY:PURRADOX w/ LEE ANN ROBERTS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Lee Ann Roberts\nVeranstalter: Purradox\n\nhttps://rave.wien/
+ e/2025-06-07-purradox-w-lee-ann-roberts
+URL:https://rave.wien/e/2025-06-07-purradox-w-lee-ann-roberts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-24-purradox-w-mha-iri@rave.wien
+DTSTAMP:20260124T000000Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:Purradox w/ Mha Iri
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mha Iri\nVeranstalter: Purradox\n\nhttps://rave.wien/e/2026-0
+ 1-24-purradox-w-mha-iri
+URL:https://rave.wien/e/2026-01-24-purradox-w-mha-iri
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-29-purradox-w-blasha-allatt@rave.wien
+DTSTAMP:20260529T000000Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:PURRADOX w/ Blasha & Allatt
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Blasha\, Allatt\nVeranstalter: Purradox\n\nhttps://rave.wien/
+ e/2026-05-29-purradox-w-blasha-allatt
+URL:https://rave.wien/e/2026-05-29-purradox-w-blasha-allatt
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-purradox-w-tta-steya-pert@rave.wien
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:PURRADOX w/ ØTTA\, STEYA\, PERT
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:ØTTA\, Steya\, PERT\nVeranstalter: Purradox\n\nhttps://rave.
+ wien/e/2026-10-02-purradox-w-tta-steya-pert
+URL:https://rave.wien/e/2026-10-02-purradox-w-tta-steya-pert
+END:VEVENT
 END:VCALENDAR

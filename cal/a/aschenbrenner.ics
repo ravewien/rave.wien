@@ -66,6 +66,66 @@ DESCRIPTION:Oben: Who is Ela¿\, maro\, Aschenbrenner\, Suitside\, DizzyD
 URL:https://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
 END:VEVENT
 BEGIN:VEVENT
+UID:2024-06-07-free-friday@rave.wien
+DTSTAMP:20240607T000000Z
+DTSTART;TZID=Europe/Vienna:20240607T230000
+DTEND;TZID=Europe/Vienna:20240608T040000
+SUMMARY:Free Friday
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Louk\, Aschenbrenner\, PSMT\, Vich Mind\, Sømnus\, KEYL\, Em
+ baixador\n\nhttps://rave.wien/e/2024-06-07-free-friday
+URL:https://rave.wien/e/2024-06-07-free-friday
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-23-2yrs-of-nexus@rave.wien
+DTSTAMP:20240823T000000Z
+DTSTART;TZID=Europe/Vienna:20240823T230000
+DTEND;TZID=Europe/Vienna:20240824T040000
+SUMMARY:2YRS of NEXUS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Trancemaster Krause\, DJ Traytex\, Violetta\, Aschenbrenner\,
+  Sømnus\, countershine\, Randalia\, Max Wagner\, Goldi\nVeranstalter: N
+ EXUS\n\nhttps://rave.wien/e/2024-08-23-2yrs-of-nexus
+URL:https://rave.wien/e/2024-08-23-2yrs-of-nexus
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-27-daria-kolosova-b2b-frederic-caiva-aschenbrenner-s@rave.wien
+DTSTAMP:20250627T000000Z
+DTSTART;VALUE=DATE:20250627
+DTEND;VALUE=DATE:20250628
+SUMMARY:Daria Kolosova b2b Frederic.\, Caiva\, Aschenbrenner | Selected
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Daria Kolosova\, Frederic.\, Caiva\, Aschenbrenner\nVeranstal
+ ter: Selected\n\nhttps://rave.wien/e/2025-06-27-daria-kolosova-b2b-frede
+ ric-caiva-aschenbrenner-s
+URL:https://rave.wien/e/2025-06-27-daria-kolosova-b2b-frederic-caiva-asch
+ enbrenner-s
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-29-nexus-x-wyldhearts@rave.wien
+DTSTAMP:20251129T000000Z
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:NEXUS X WYLDHEARTS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Aschenbrenner\, Bababass3000\, Baumeister98\, Cold Ass Ice\, 
+ Ferrand\, Suitside\, maro\, Calu\, ZEQ\nVeranstalter: NEXUS\, Wyldhearts
+ \n\nhttps://rave.wien/e/2025-11-29-nexus-x-wyldhearts
+URL:https://rave.wien/e/2025-11-29-nexus-x-wyldhearts
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-03-hor-on-tour-x-mixed@rave.wien
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:HÖR ON TOUR x MIXED
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:ZEQ\, Aschenbrenner\, Riana Holley\, Suitside\, Der Werther\,
+  Valera\, Lila Gold\, Pinklotion\nVeranstalter: Mixed\n\nhttps://rave.wi
+ en/e/2026-06-03-hor-on-tour-x-mixed
+URL:https://rave.wien/e/2026-06-03-hor-on-tour-x-mixed
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-kranke-welt-halloween-kick-off@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T223000

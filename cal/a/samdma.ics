@@ -25,4 +25,45 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-08-01-techno-am-wasser-x-open-air-rave-2025@rave.wien
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=Europe/Vienna:20250801T160000
+DTEND;TZID=Europe/Vienna:20250801T240000
+SUMMARY:TECHNO AM WASSER⁴ x Open Air Rave 2025
+LOCATION:Usus am Wasser\, An der Neuen Donau 1\, 1210 Wien
+DESCRIPTION:Mello1\, Nhoah\, SAMDMA\, Stephan Deutsch\, Sunny\, Wal_Halla
+ \nVeranstalter: Techno Vienna\, Techno am Wasser\nEintritt: 5–12 €\n
+ \nhttps://rave.wien/e/2025-08-01-techno-am-wasser-x-open-air-rave-2025
+URL:https://rave.wien/e/2025-08-01-techno-am-wasser-x-open-air-rave-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-07-techno-am-wasser-x-flucc-aftershow-open-air-rave@rave.wien
+DTSTAMP:20260807T000000Z
+DTSTART;TZID=Europe/Vienna:20260807T170000
+DTEND;TZID=Europe/Vienna:20260807T240000
+SUMMARY:TECHNO AM WASSER⁴ x FLUCC Aftershow – Open Air Rave 2026
+LOCATION:Usus am Wasser\, An der Neuen Donau 1\, 1210 Wien
+DESCRIPTION:Carl Haze\, Marika Rossa\, Markus Taubenschlag\, Martin Oelz\
+ , SAMDMA\nVeranstalter: Techno am Wasser\nEintritt: 12–25 €\n\nhttps
+ ://rave.wien/e/2026-08-07-techno-am-wasser-x-flucc-aftershow-open-air-ra
+ ve
+URL:https://rave.wien/e/2026-08-07-techno-am-wasser-x-flucc-aftershow-ope
+ n-air-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-art-attech-special-edition-15@rave.wien
+DTSTAMP:20261002T000000Z
+DTSTART;TZID=Europe/Vienna:20261002T200000
+DTEND;TZID=Europe/Vienna:20261003T010000
+SUMMARY:ART ATTECH Special Edition #15
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Ele Luz\, Je'täm\, Papa Karl\, SAMDMA\, Wal_Halla\, Karolina
+ \, Melimeko\, Wearethezombies\, Violetta\, Shira\, Karl Michael\nVeranst
+ alter: Art Attech\nEintritt: 25 € Abendkasse\n\nVernissage ab 20 Uhr\,
+  Art Rave ab 23 Uhr\; Aktzeichnen\, Livepaintings\, Lichtinstallation un
+ d Ausstellung\n\nhttps://rave.wien/e/2026-10-02-art-attech-special-editi
+ on-15
+URL:https://rave.wien/e/2026-10-02-art-attech-special-edition-15
+END:VEVENT
 END:VCALENDAR

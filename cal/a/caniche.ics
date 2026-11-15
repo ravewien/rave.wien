@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-05-02-push-x-grelle-forelle@rave.wien
+DTSTAMP:20250502T000000Z
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250503
+SUMMARY:PUSH x Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:ANNĒ\, Lucinee\, Caniche\, Mischa Beton\, GYDAH\, Bonnie Cal
+ lini\, Rosa Rosen\, Vich Mind\, Who is Ela¿\nVeranstalter: PUSH\n\nhttp
+ s://rave.wien/e/2025-05-02-push-x-grelle-forelle
+URL:https://rave.wien/e/2025-05-02-push-x-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-18-schlachthaus-with-caniche-x-specific-objects@rave.wien
+DTSTAMP:20251018T000000Z
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251019
+SUMMARY:SCHLACHTHAUS with Caniche x Specific Objects
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Caniche\, Specific Objects\nVeranstalter: Schlachthaus\n\nhtt
+ ps://rave.wien/e/2025-10-18-schlachthaus-with-caniche-x-specific-objects
+URL:https://rave.wien/e/2025-10-18-schlachthaus-with-caniche-x-specific-o
+ bjects
+END:VEVENT
 END:VCALENDAR

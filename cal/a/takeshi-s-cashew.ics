@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-04-30-takeshi-s-cashew-live-im-freudentaumel-von-eben@rave.wien
+DTSTAMP:20250430T000000Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Takeshi's Cashew LIVE im Freudentaumel von Eben
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Takeshi's Cashew\nVeranstalter: Im Freudentaumel\n\nhttps://r
+ ave.wien/e/2025-04-30-takeshi-s-cashew-live-im-freudentaumel-von-eben
+URL:https://rave.wien/e/2025-04-30-takeshi-s-cashew-live-im-freudentaumel
+ -von-eben
+END:VEVENT
 END:VCALENDAR

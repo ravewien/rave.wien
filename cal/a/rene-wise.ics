@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-04-19-fish-market-w-rene-wise@rave.wien
+DTSTAMP:20240419T000000Z
+DTSTART;VALUE=DATE:20240419
+DTEND;VALUE=DATE:20240420
+SUMMARY:FISH MARKET w/ Rene Wise
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Rene Wise\nVeranstalter: Fish Market\n\nhttps://rave.wien/e/2
+ 024-04-19-fish-market-w-rene-wise
+URL:https://rave.wien/e/2024-04-19-fish-market-w-rene-wise
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-20-fish-market-w-rene-wise-annika-stein-gerald-vdh-p@rave.wien
+DTSTAMP:20240920T000000Z
+DTSTART;VALUE=DATE:20240920
+DTEND;VALUE=DATE:20240921
+SUMMARY:FISH MARKET w/ Rene Wise\, Annika Stein\, Gerald VDH\, PUSH\, uvm
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Rene Wise\, Annika Stein\, Gerald VDH\nVeranstalter: Fish Mar
+ ket\, PUSH\n\nhttps://rave.wien/e/2024-09-20-fish-market-w-rene-wise-ann
+ ika-stein-gerald-vdh-p
+URL:https://rave.wien/e/2024-09-20-fish-market-w-rene-wise-annika-stein-g
+ erald-vdh-p
+END:VEVENT
 END:VCALENDAR

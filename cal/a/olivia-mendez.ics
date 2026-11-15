@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-07-19-fish-market-w-olivia-mendez-violetta-dj-deadlift@rave.wien
+DTSTAMP:20250719T000000Z
+DTSTART;VALUE=DATE:20250719
+DTEND;VALUE=DATE:20250720
+SUMMARY:FISH MARKET w/ Olivia Mendez\, Violetta\, DJ Deadlift\, PUSH-Floor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Olivia Mendez\, Violetta\, DJ Deadlift\nVeranstalter: Fish Ma
+ rket\, PUSH\n\nhttps://rave.wien/e/2025-07-19-fish-market-w-olivia-mende
+ z-violetta-dj-deadlift
+URL:https://rave.wien/e/2025-07-19-fish-market-w-olivia-mendez-violetta-d
+ j-deadlift
+END:VEVENT
 END:VCALENDAR

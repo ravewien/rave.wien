@@ -26,6 +26,17 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2025-01-11-fatima-hajji-impulse@rave.wien
+DTSTAMP:20250111T000000Z
+DTSTART;VALUE=DATE:20250111
+DTEND;VALUE=DATE:20250112
+SUMMARY:Fatima Hajji | IMPULSE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Fatima Hajji\nVeranstalter: Impulse\n\nhttps://rave.wien/e/20
+ 25-01-11-fatima-hajji-impulse
+URL:https://rave.wien/e/2025-01-11-fatima-hajji-impulse
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-fatima-hajji@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T230000

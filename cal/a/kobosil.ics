@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-05-04-impulse-w-kobosil@rave.wien
+DTSTAMP:20240504T000000Z
+DTSTART;VALUE=DATE:20240504
+DTEND;VALUE=DATE:20240505
+SUMMARY:Impulse w/ Kobosil
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Kobosil\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2024-05
+ -04-impulse-w-kobosil
+URL:https://rave.wien/e/2024-05-04-impulse-w-kobosil
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-21-kobosil-impulse-grelle-forelle@rave.wien
+DTSTAMP:20250621T000000Z
+DTSTART;VALUE=DATE:20250621
+DTEND;VALUE=DATE:20250622
+SUMMARY:KOBOSIL // IMPULSE // GRELLE FORELLE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Kobosil\nVeranstalter: Impulse\n\nhttps://rave.wien/e/2025-06
+ -21-kobosil-impulse-grelle-forelle
+URL:https://rave.wien/e/2025-06-21-kobosil-impulse-grelle-forelle
+END:VEVENT
 END:VCALENDAR

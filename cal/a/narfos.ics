@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-14-melting-minds-with-expulze-narfos-live-step-to-te@rave.wien
+DTSTAMP:20240814T000000Z
+DTSTART;VALUE=DATE:20240814
+DTEND;VALUE=DATE:20240815
+SUMMARY:Melting Minds with Expulze & Narfos live & Step To Tek Bunker
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Expulze\, Narfos\, Step To Tek Bunker\nVeranstalter: Step to 
+ Tek\, Melting Minds\n\nhttps://rave.wien/e/2024-08-14-melting-minds-with
+ -expulze-narfos-live-step-to-te
+URL:https://rave.wien/e/2024-08-14-melting-minds-with-expulze-narfos-live
+ -step-to-te
+END:VEVENT
 END:VCALENDAR

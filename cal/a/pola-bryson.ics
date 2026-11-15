@@ -38,4 +38,17 @@ DESCRIPTION:Mainfloor: DJ Marky\, Pola & Bryson\, Contrast Residents\nKit
  21-contrast-pres-dj-marky-pola-bryson
 URL:https://rave.wien/e/2026-11-21-contrast-pres-dj-marky-pola-bryson
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-18-contrast-pres-pola-bryson-etherwood-unglued-18@rave.wien
+DTSTAMP:20250118T000000Z
+DTSTART;VALUE=DATE:20250118
+DTEND;VALUE=DATE:20250119
+SUMMARY:CONTRAST pres. POLA & BRYSON + ETHERWOOD + UNGLUED | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Pola & Bryson\, Etherwood\, Unglued\nVeranstalter: Contrast\n
+ \nhttps://rave.wien/e/2025-01-18-contrast-pres-pola-bryson-etherwood-ung
+ lued-18
+URL:https://rave.wien/e/2025-01-18-contrast-pres-pola-bryson-etherwood-un
+ glued-18
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,39 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-03-soundhouse-w-masha-dabelka-fabian-hofer-michael-z@rave.wien
+DTSTAMP:20240803T000000Z
+DTSTART;VALUE=DATE:20240803
+DTEND;VALUE=DATE:20240804
+SUMMARY:SOUNDHOUSE w/ Masha Dabelka\, Fabian Hofer\, Michael Zehetner
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Masha Dabelka\, Fabian Hofer\, Michael Zehetner\nVeranstalter
+ : Soundhouse\n\nhttps://rave.wien/e/2024-08-03-soundhouse-w-masha-dabelk
+ a-fabian-hofer-michael-z
+URL:https://rave.wien/e/2024-08-03-soundhouse-w-masha-dabelka-fabian-hofe
+ r-michael-z
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-17-acid-lambada-w-masha-dabelka@rave.wien
+DTSTAMP:20250117T000000Z
+DTSTART;VALUE=DATE:20250117
+DTEND;VALUE=DATE:20250118
+SUMMARY:Acid Lambada w/ Masha Dabelka
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Masha Dabelka\nVeranstalter: Acid Lambada\n\nhttps://rave.wie
+ n/e/2025-01-17-acid-lambada-w-masha-dabelka
+URL:https://rave.wien/e/2025-01-17-acid-lambada-w-masha-dabelka
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-02-vvax-w-masha-dabelka@rave.wien
+DTSTAMP:20260502T000000Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:VVAX w/ Masha Dabelka
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Masha Dabelka\nVeranstalter: VVAX\n\nhttps://rave.wien/e/2026
+ -05-02-vvax-w-masha-dabelka
+URL:https://rave.wien/e/2026-05-02-vvax-w-masha-dabelka
+END:VEVENT
 END:VCALENDAR

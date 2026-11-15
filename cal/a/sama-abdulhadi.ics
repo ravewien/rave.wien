@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-09-13-zuckerwatt-w-sama-abdulhadi@rave.wien
+DTSTAMP:20240913T000000Z
+DTSTART;VALUE=DATE:20240913
+DTEND;VALUE=DATE:20240914
+SUMMARY:ZUCKERWATT w/ SAMA’ ABDULHADI
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Sama’ Abdulhadi\nVeranstalter: Zuckerwatt\n\nhttps://rave.w
+ ien/e/2024-09-13-zuckerwatt-w-sama-abdulhadi
+URL:https://rave.wien/e/2024-09-13-zuckerwatt-w-sama-abdulhadi
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-07-zuckerwatt-w-sama-abdulhadi@rave.wien
+DTSTAMP:20251107T000000Z
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
+SUMMARY:ZUCKERWATT w/ SAMA’ ABDULHADI
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Sama’ Abdulhadi\nVeranstalter: Zuckerwatt\n\nhttps://rave.w
+ ien/e/2025-11-07-zuckerwatt-w-sama-abdulhadi
+URL:https://rave.wien/e/2025-11-07-zuckerwatt-w-sama-abdulhadi
+END:VEVENT
 END:VCALENDAR

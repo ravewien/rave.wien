@@ -25,4 +25,45 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-07-27-contrast-pres-1985-music-w-alix-perez-visages-ces@rave.wien
+DTSTAMP:20240727T000000Z
+DTSTART;VALUE=DATE:20240727
+DTEND;VALUE=DATE:20240728
+SUMMARY:CONTRAST pres. 1985 MUSIC w/ ALIX PEREZ + VISAGES + CESCO | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alix Perez\, Visages\, Cesco\nVeranstalter: Contrast\n\nhttps
+ ://rave.wien/e/2024-07-27-contrast-pres-1985-music-w-alix-perez-visages-
+ ces
+URL:https://rave.wien/e/2024-07-27-contrast-pres-1985-music-w-alix-perez-
+ visages-ces
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-15-contrast-pres-1985-music-w-skeptical-visages-mont@rave.wien
+DTSTAMP:20250315T000000Z
+DTSTART;VALUE=DATE:20250315
+DTEND;VALUE=DATE:20250316
+SUMMARY:CONTRAST pres. 1985 MUSIC w/ SKEPTICAL + VISAGES + MONTY + CHIMPO
+  + AZURA | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Skeptical\, Visages\, Monty\, Chimpo\, Azura\nVeranstalter: C
+ ontrast\n\nhttps://rave.wien/e/2025-03-15-contrast-pres-1985-music-w-ske
+ ptical-visages-mont
+URL:https://rave.wien/e/2025-03-15-contrast-pres-1985-music-w-skeptical-v
+ isages-mont
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-21-contrast-11-yrs-anniversary-w-skeptical-visages-s@rave.wien
+DTSTAMP:20260221T000000Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:CONTRAST – 11 YRS ANNIVERSARY w/ SKEPTICAL + VISAGES + SUBMARIN
+ E | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Skeptical\, Visages\, Submarine\nVeranstalter: Contrast\n\nht
+ tps://rave.wien/e/2026-02-21-contrast-11-yrs-anniversary-w-skeptical-vis
+ ages-s
+URL:https://rave.wien/e/2026-02-21-contrast-11-yrs-anniversary-w-skeptica
+ l-visages-s
+END:VEVENT
 END:VCALENDAR

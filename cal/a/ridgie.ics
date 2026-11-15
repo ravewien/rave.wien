@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-02-20-deep-cut-hypnotic-deep-techno-w-ridgie@rave.wien
+DTSTAMP:20250220T000000Z
+DTSTART;VALUE=DATE:20250220
+DTEND;VALUE=DATE:20250221
+SUMMARY:deep cut – hypnotic & deep techno w/ Ridgie
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Ridgie\nVeranstalter: deep cut\n\nhttps://rave.wien/e/2025-02
+ -20-deep-cut-hypnotic-deep-techno-w-ridgie
+URL:https://rave.wien/e/2025-02-20-deep-cut-hypnotic-deep-techno-w-ridgie
+END:VEVENT
 END:VCALENDAR

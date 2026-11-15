@@ -59,4 +59,40 @@ DESCRIPTION:Mainfloor: Cara Elizabeth\, Frederic.\, Andrew Ahmed\nVeranst
 URL:https://rave.wien/e/2026-11-28-selected-bassbussi-w-cara-elizabeth-fr
  ederic
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-08-bass-bussi-1-year-anniversary-with-karolina@rave.wien
+DTSTAMP:20241108T000000Z
+DTSTART;VALUE=DATE:20241108
+DTEND;VALUE=DATE:20241109
+SUMMARY:Bass Bussi 1 Year Anniversary with KAROLINA
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Karolina\nVeranstalter: Bassbussi\n\nhttps://rave.wien/e/2024
+ -11-08-bass-bussi-1-year-anniversary-with-karolina
+URL:https://rave.wien/e/2024-11-08-bass-bussi-1-year-anniversary-with-kar
+ olina
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-06-bass-bussi-with-draco@rave.wien
+DTSTAMP:20241206T000000Z
+DTSTART;VALUE=DATE:20241206
+DTEND;VALUE=DATE:20241207
+SUMMARY:Bass Bussi with Draco
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Draco\nVeranstalter: Bassbussi\n\nhttps://rave.wien/e/2024-12
+ -06-bass-bussi-with-draco
+URL:https://rave.wien/e/2024-12-06-bass-bussi-with-draco
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-10-bassbussi-allstars-edition-vol-2@rave.wien
+DTSTAMP:20260710T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:BASSBUSSI Allstars Edition Vol.2
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Bassbussi\n\nhttps://rave.wien/e/2026-07-10-bas
+ sbussi-allstars-edition-vol-2
+URL:https://rave.wien/e/2026-07-10-bassbussi-allstars-edition-vol-2
+END:VEVENT
 END:VCALENDAR

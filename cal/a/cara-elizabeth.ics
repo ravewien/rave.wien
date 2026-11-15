@@ -39,4 +39,15 @@ DESCRIPTION:Mainfloor: Cara Elizabeth\, Frederic.\, Andrew Ahmed\nVeranst
 URL:https://rave.wien/e/2026-11-28-selected-bassbussi-w-cara-elizabeth-fr
  ederic
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-03-mixed-w-zwilling-cara-elizabeth@rave.wien
+DTSTAMP:20260403T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:MIXED w/ ZWILLING. & CARA ELIZABETH
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Zwilling\, Cara Elizabeth\nVeranstalter: Mixed\n\nhttps://rav
+ e.wien/e/2026-04-03-mixed-w-zwilling-cara-elizabeth
+URL:https://rave.wien/e/2026-04-03-mixed-w-zwilling-cara-elizabeth
+END:VEVENT
 END:VCALENDAR

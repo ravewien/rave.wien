@@ -25,4 +25,40 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-04-17-bouncylicious-with-szg@rave.wien
+DTSTAMP:20260417T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:BOUNCYLICIOUS with SZG
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:SZG\nVeranstalter: Bouncylicious\n\nhttps://rave.wien/e/2026-
+ 04-17-bouncylicious-with-szg
+URL:https://rave.wien/e/2026-04-17-bouncylicious-with-szg
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-04-szg-grelle-forelle-club-night@rave.wien
+DTSTAMP:20260704T000000Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:SZG | Grelle Forelle Club Night
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:SZG\n\nhttps://rave.wien/e/2026-07-04-szg-grelle-forelle-club
+ -night
+URL:https://rave.wien/e/2026-07-04-szg-grelle-forelle-club-night
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-tuff-opening-with-fake-friends-two-girls-one-mom@rave.wien
+DTSTAMP:20260918T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:TUFF opening with Fake_Friends\, two girls one mom\, SZG\, Airod\
+ , Jacidorex\, Serafin
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Fake_Friends\, two girls one mom\, SZG\, Airod\, Jacidorex\, 
+ Serafin\n\nhttps://rave.wien/e/2026-09-18-tuff-opening-with-fake-friends
+ -two-girls-one-mom
+URL:https://rave.wien/e/2026-09-18-tuff-opening-with-fake-friends-two-gir
+ ls-one-mom
+END:VEVENT
 END:VCALENDAR

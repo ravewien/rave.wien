@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-03-07-18yrs-zuckerwatt-x-20yrs-extrawelt-live@rave.wien
+DTSTAMP:20250307T000000Z
+DTSTART;VALUE=DATE:20250307
+DTEND;VALUE=DATE:20250308
+SUMMARY:18YRS ZUCKERWATT x 20YRS EXTRAWELT LIVE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Extrawelt\nVeranstalter: Zuckerwatt\n\nhttps://rave.wien/e/20
+ 25-03-07-18yrs-zuckerwatt-x-20yrs-extrawelt-live
+URL:https://rave.wien/e/2025-03-07-18yrs-zuckerwatt-x-20yrs-extrawelt-live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-13-zuckerwatt-x-extrawelt-live@rave.wien
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:ZUCKERWATT x EXTRAWELT LIVE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Extrawelt\nVeranstalter: Zuckerwatt\n\nhttps://rave.wien/e/20
+ 26-03-13-zuckerwatt-x-extrawelt-live
+URL:https://rave.wien/e/2026-03-13-zuckerwatt-x-extrawelt-live
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-09-25-housetiere-with-kiss-the-future-fr@rave.wien
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Housetiere with Kiss The Future (FR)
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Kiss The Future\nVeranstalter: Housetiere\n\nhttps://rave.wie
+ n/e/2026-09-25-housetiere-with-kiss-the-future-fr
+URL:https://rave.wien/e/2026-09-25-housetiere-with-kiss-the-future-fr
+END:VEVENT
 END:VCALENDAR

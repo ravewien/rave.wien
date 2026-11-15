@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-06-prst-invites-layers-w-sedef-adasi@rave.wien
+DTSTAMP:20241206T000000Z
+DTSTART;VALUE=DATE:20241206
+DTEND;VALUE=DATE:20241207
+SUMMARY:PRST invites Layers w/ Sedef Adasi
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Sedef Adasi\n\nhttps://rave.wien/e/2024-12-06-prst-invites-la
+ yers-w-sedef-adasi
+URL:https://rave.wien/e/2024-12-06-prst-invites-layers-w-sedef-adasi
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-11-radio-rudina-pres-sedef-adasi@rave.wien
+DTSTAMP:20260411T000000Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:Radio Rudina pres. SEDEF ADASÏ
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Sedef Adasï\nVeranstalter: Radio Rudina\n\nhttps://rave.wien
+ /e/2026-04-11-radio-rudina-pres-sedef-adasi
+URL:https://rave.wien/e/2026-04-11-radio-rudina-pres-sedef-adasi
+END:VEVENT
 END:VCALENDAR

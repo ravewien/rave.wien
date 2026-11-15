@@ -76,6 +76,30 @@ DESCRIPTION:Joey\, Amøn\nVeranstalter: Herzfrequenz\n\nDas Herzfrequenz
 URL:https://rave.wien/e/2026-12-19-herzfrequenz-weekender-day-2
 END:VEVENT
 BEGIN:VEVENT
+UID:2024-12-21-herzfrequenz-presents-joey-s-birthday-bender@rave.wien
+DTSTAMP:20241221T000000Z
+DTSTART;VALUE=DATE:20241221
+DTEND;VALUE=DATE:20241222
+SUMMARY:HERZFREQUENZ presents JOEY’S BIRTHDAY BENDER
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Joey\nVeranstalter: Herzfrequenz\n\nhttps://rave.wien/e/2024-
+ 12-21-herzfrequenz-presents-joey-s-birthday-bender
+URL:https://rave.wien/e/2024-12-21-herzfrequenz-presents-joey-s-birthday-
+ bender
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-19-herzfrequenz-presents-joey-all-night-long@rave.wien
+DTSTAMP:20251219T000000Z
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:HERZFREQUENZ presents: JOEY ALL NIGHT LONG
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Joey\nVeranstalter: Herzfrequenz\n\nhttps://rave.wien/e/2025-
+ 12-19-herzfrequenz-presents-joey-all-night-long
+URL:https://rave.wien/e/2025-12-19-herzfrequenz-presents-joey-all-night-l
+ ong
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-halloween-special@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T230000

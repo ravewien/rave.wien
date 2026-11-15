@@ -25,4 +25,19 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-06-26-der-radio-x-subwaves@rave.wien
+DTSTAMP:20260626T000000Z
+DTSTART;TZID=Europe/Vienna:20260626T180000
+DTEND;TZID=Europe/Vienna:20260627T040000
+SUMMARY:DER RADIO X Subwaves
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:Syntha\, Lost Tourist\, Der Werther\, phisch\, clark\, Disco 
+ Duck\, Lucky Shiner\, Tence\, WO.IZZY\nVeranstalter: Der Radio\, Subwave
+ s\nEintritt: Gratis bis 22 Uhr\, danach 10 €\n\nGratis Open Air auf de
+ r Terrasse des Club U ab 18 Uhr\, danach unten mit dem Pack&Punch Sounds
+ ystem. House und Garage.\n\nhttps://rave.wien/e/2026-06-26-der-radio-x-s
+ ubwaves
+URL:https://rave.wien/e/2026-06-26-der-radio-x-subwaves
+END:VEVENT
 END:VCALENDAR

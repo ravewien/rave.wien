@@ -25,4 +25,51 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-10-24-re-connect-boku-ubrm-semesteropening-x-magika@rave.wien
+DTSTAMP:20241024T000000Z
+DTSTART;VALUE=DATE:20241024
+DTEND;VALUE=DATE:20241025
+SUMMARY:re:connect BOKU-UBRM Semesteropening x Magika
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Magika\n\nhttps://rave.wien/e/2024-10-24-re-con
+ nect-boku-ubrm-semesteropening-x-magika
+URL:https://rave.wien/e/2024-10-24-re-connect-boku-ubrm-semesteropening-x
+ -magika
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-04-salon-magika-x-citruscue-x-subwaves-with-drahthau@rave.wien
+DTSTAMP:20251004T000000Z
+DTSTART;VALUE=DATE:20251004
+DTEND;VALUE=DATE:20251005
+SUMMARY:Salon Magika x CitrusCue x SubWaves with Drahthaus
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Drahthaus\nVeranstalter: Magika\n\nhttps://rave.wien/e/2025-1
+ 0-04-salon-magika-x-citruscue-x-subwaves-with-drahthau
+URL:https://rave.wien/e/2025-10-04-salon-magika-x-citruscue-x-subwaves-wi
+ th-drahthau
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-08-cacao-rave-w-kakaochi-magika-t-a-n-z-feat-klangfu@rave.wien
+DTSTAMP:20251108T000000Z
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
+SUMMARY:Cacao Rave w/ Kakaochi & Magika: T.A.N.Z. feat klangfülle
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:klangfülle\nVeranstalter: Magika\n\nhttps://rave.wien/e/2025
+ -11-08-cacao-rave-w-kakaochi-magika-t-a-n-z-feat-klangfu
+URL:https://rave.wien/e/2025-11-08-cacao-rave-w-kakaochi-magika-t-a-n-z-f
+ eat-klangfu
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-15-playa-magika@rave.wien
+DTSTAMP:20260815T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Playa Magika
+LOCATION:Porto Pollo\, Donauinsel 19\, 1220 Wien
+DESCRIPTION:chris deeper\nVeranstalter: Magika\n\nhttps://rave.wien/e/202
+ 6-08-15-playa-magika
+URL:https://rave.wien/e/2026-08-15-playa-magika
+END:VEVENT
 END:VCALENDAR

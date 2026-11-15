@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-01-kinky-galore-wien@rave.wien
+DTSTAMP:20251101T000000Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251102
+SUMMARY:KINKY GALORE Wien
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Veranstalter: Kinky Galore\n\nhttps://rave.wien/e/2025-11-01-
+ kinky-galore-wien
+URL:https://rave.wien/e/2025-11-01-kinky-galore-wien
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-17-kinky-galore-by-jan-ehret-wien@rave.wien
+DTSTAMP:20261017T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:KINKY GALORE by jan.ehret WIEN
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Veranstalter: Kinky Galore\n\nhttps://rave.wien/e/2026-10-17-
+ kinky-galore-by-jan-ehret-wien
+URL:https://rave.wien/e/2026-10-17-kinky-galore-by-jan-ehret-wien
+END:VEVENT
 END:VCALENDAR

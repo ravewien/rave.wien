@@ -25,4 +25,43 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-07-03-votiv-session-01-with-dj-sprudel-fuxx-randalia-re@rave.wien
+DTSTAMP:20250703T000000Z
+DTSTART;VALUE=DATE:20250703
+DTEND;VALUE=DATE:20250704
+SUMMARY:votiv session 01 with DJ Sprudel\, fuxx\, Randalia\, rehorn
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:DJ Sprudel\, Fuxx\, Randalia\, Rehorn\nVeranstalter: Votiv Se
+ ssion\n\nhttps://rave.wien/e/2025-07-03-votiv-session-01-with-dj-sprudel
+ -fuxx-randalia-re
+URL:https://rave.wien/e/2025-07-03-votiv-session-01-with-dj-sprudel-fuxx-
+ randalia-re
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-06-galapa-grooves-with-dj-sprudel-randalia@rave.wien
+DTSTAMP:20260306T000000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:Galapa Grooves with DJ Sprudel & Randalia
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:DJ Sprudel\, Randalia\nVeranstalter: Galapa\n\nhttps://rave.w
+ ien/e/2026-03-06-galapa-grooves-with-dj-sprudel-randalia
+URL:https://rave.wien/e/2026-03-06-galapa-grooves-with-dj-sprudel-randalia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-01-votiv-session-with-henry-wagner-live-randalia-dj@rave.wien
+DTSTAMP:20260501T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:votiv session with Henry Wagner [LIVE]\, Randalia\, DJ Sprudel\, 
+ Rehorn
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Henry Wagner\, Randalia\, DJ Sprudel\, Rehorn\nVeranstalter: 
+ Votiv Session\n\nhttps://rave.wien/e/2026-05-01-votiv-session-with-henry
+ -wagner-live-randalia-dj
+URL:https://rave.wien/e/2026-05-01-votiv-session-with-henry-wagner-live-r
+ andalia-dj
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-06-11-nomind-invites-verleger@rave.wien
+DTSTAMP:20260611T000000Z
+DTSTART;TZID=Europe/Vienna:20260611T140000
+DTEND;TZID=Europe/Vienna:20260611T220000
+SUMMARY:nomind. invites Verleger
+LOCATION:Porto Pollo\, Donauinsel 19\, 1220 Wien
+DESCRIPTION:Verleger\, wanek\, Välth\nVeranstalter: nomind.\nEintritt: f
+ rei\n\nhttps://rave.wien/e/2026-06-11-nomind-invites-verleger
+URL:https://rave.wien/e/2026-06-11-nomind-invites-verleger
+END:VEVENT
 END:VCALENDAR

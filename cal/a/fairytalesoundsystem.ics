@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-08-22-vienn-a-tek@rave.wien
+DTSTAMP:20260822T000000Z
+DTSTART;TZID=Europe/Vienna:20260822T230000
+DTEND;TZID=Europe/Vienna:20260823T040000
+SUMMARY:VIENN_A_TEK
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Fairytalesoundsystem\, Hannah mit Hut\, V1not1c\, Spelz\nVera
+ nstalter: Vienn_a_Tek\n\nhttps://rave.wien/e/2026-08-22-vienn-a-tek
+URL:https://rave.wien/e/2026-08-22-vienn-a-tek
+END:VEVENT
 END:VCALENDAR

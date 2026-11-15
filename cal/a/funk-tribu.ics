@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-01-31-funk-tribu-caiva-pau-turbo@rave.wien
+DTSTAMP:20250131T000000Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Funk Tribu\, Caiva & Pau | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Funk Tribu\, Caiva\, Pau\nVeranstalter: TURBO\n\nhttps://rave
+ .wien/e/2025-01-31-funk-tribu-caiva-pau-turbo
+URL:https://rave.wien/e/2025-01-31-funk-tribu-caiva-pau-turbo
+END:VEVENT
 END:VCALENDAR

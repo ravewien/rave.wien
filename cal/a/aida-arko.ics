@@ -25,4 +25,37 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-31-2025-grelle-forelle-nye@rave.wien
+DTSTAMP:20241231T000000Z
+DTSTART;TZID=Europe/Vienna:20241231T000000
+DTEND;TZID=Europe/Vienna:20241231T050000
+SUMMARY:2025 | Grelle Forelle NYE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Aida Arko\, Steya\, Gerald VDH\, Kl:Ra\, Tezibel\n\nhttps://r
+ ave.wien/e/2024-12-31-2025-grelle-forelle-nye
+URL:https://rave.wien/e/2024-12-31-2025-grelle-forelle-nye
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-25-cera-khin-aida-arko-turbo@rave.wien
+DTSTAMP:20250425T000000Z
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250426
+SUMMARY:Cera Khin & Aida Arko | TURBO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Cera Khin\, Aida Arko\nVeranstalter: TURBO\n\nhttps://rave.wi
+ en/e/2025-04-25-cera-khin-aida-arko-turbo
+URL:https://rave.wien/e/2025-04-25-cera-khin-aida-arko-turbo
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-31-2025-grelle-forelle-nye@rave.wien
+DTSTAMP:20251231T000000Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:2025 | Grelle Forelle NYE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Aida Arko\, Steya\, Gerald VDH\, Kl:Ra\, Tezibel\n\nhttps://r
+ ave.wien/e/2025-12-31-2025-grelle-forelle-nye
+URL:https://rave.wien/e/2025-12-31-2025-grelle-forelle-nye
+END:VEVENT
 END:VCALENDAR

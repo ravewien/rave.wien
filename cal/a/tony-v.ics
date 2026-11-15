@@ -25,4 +25,29 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-10-26-techno-entgleist-back-to-the-roots@rave.wien
+DTSTAMP:20241026T000000Z
+DTSTART;TZID=Europe/Vienna:20241026T230000
+DTEND;TZID=Europe/Vienna:20241027T040000
+SUMMARY:TECHNO ENTGLEIST | BACK TO THE ROOTS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Conntex\, Nat Suprise\, Artemis\, Tomagan\, Yansen\, Kon:Stil
+ \, Smuf\, Tony V\nVeranstalter: Techno Entgleist\n\nhttps://rave.wien/e/
+ 2024-10-26-techno-entgleist-back-to-the-roots
+URL:https://rave.wien/e/2024-10-26-techno-entgleist-back-to-the-roots
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-23-8-yrs-techno-entgleist-open-air-indoor@rave.wien
+DTSTAMP:20250523T000000Z
+DTSTART;VALUE=DATE:20250523
+DTEND;VALUE=DATE:20250524
+SUMMARY:8 YRS TECHNO ENTGLEIST | Open Air & Indoor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mimosa\, Epicuro\, Tomagan\, Alexis Hera\, Danloe\, Anni Herz
+ er\, Smuf\, Vibechen\, Max Wagner\, Tony V\nVeranstalter: Techno Entglei
+ st\n\nhttps://rave.wien/e/2025-05-23-8-yrs-techno-entgleist-open-air-ind
+ oor
+URL:https://rave.wien/e/2025-05-23-8-yrs-techno-entgleist-open-air-indoor
+END:VEVENT
 END:VCALENDAR

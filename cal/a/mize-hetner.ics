@@ -40,4 +40,17 @@ DESCRIPTION:Ced\, Fabian Hofer\, Mize Hetner\nVeranstalter: Soundhouse\n\
   noch nicht bekannt.\n\nhttps://rave.wien/e/2026-11-21-soundhouse
 URL:https://rave.wien/e/2026-11-21-soundhouse
 END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-28-soundhouse-with-mir-i-am-fabian-hofer-mize-hetner@rave.wien
+DTSTAMP:20250628T000000Z
+DTSTART;VALUE=DATE:20250628
+DTEND;VALUE=DATE:20250629
+SUMMARY:SOUNDHOUSE with Mir-I-am\, Fabian Hofer\, Mize Hetner
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Mir-I-am\, Fabian Hofer\, Mize Hetner\nVeranstalter: Soundhou
+ se\n\nhttps://rave.wien/e/2025-06-28-soundhouse-with-mir-i-am-fabian-hof
+ er-mize-hetner
+URL:https://rave.wien/e/2025-06-28-soundhouse-with-mir-i-am-fabian-hofer-
+ mize-hetner
+END:VEVENT
 END:VCALENDAR

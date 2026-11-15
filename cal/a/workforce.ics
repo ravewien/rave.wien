@@ -25,4 +25,44 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-11-29-contrast-pres-space-age-w-lsb-drs-workforce-alibi@rave.wien
+DTSTAMP:20241129T000000Z
+DTSTART;VALUE=DATE:20241129
+DTEND;VALUE=DATE:20241130
+SUMMARY:CONTRAST pres. SPACE AGE w/ LSB & DRS + WORKFORCE + ALIBI | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Lsb\, DRS\, Workforce\, Alibi\nVeranstalter: Contrast\n\nhttp
+ s://rave.wien/e/2024-11-29-contrast-pres-space-age-w-lsb-drs-workforce-a
+ libi
+URL:https://rave.wien/e/2024-11-29-contrast-pres-space-age-w-lsb-drs-work
+ force-alibi
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-21-contrast-x-10-yrs-at-grelle-forelle@rave.wien
+DTSTAMP:20250221T000000Z
+DTSTART;VALUE=DATE:20250221
+DTEND;VALUE=DATE:20250222
+SUMMARY:CONTRAST – X – 10 YRS at GRELLE FORELLE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mefjus & Daxta\, Dub Phizix & Strategy\, Forbidden Society\, 
+ Misanthrop\, Phace\, Rockwell\, Workforce\, AudioDevice\, Blind Judge\, 
+ Dora\, Lost Content\, Redex\, Wingz\, Sequent\, Aras\, Jalen Mess\, Sara
+ h Allen\, Feli Nightingale\, Jas Rial\, Sunshine Daddy\, FNKYN\nVeransta
+ lter: Contrast\n\nhttps://rave.wien/e/2025-02-21-contrast-x-10-yrs-at-gr
+ elle-forelle
+URL:https://rave.wien/e/2025-02-21-contrast-x-10-yrs-at-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-15-contrast-pres-break-workforce-b2b-lsb-special-3h@rave.wien
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:CONTRAST pres. BREAK + WORKFORCE b2b LSB (Special 3h Set) | 18+
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Break\, Workforce\, Lsb\nVeranstalter: Contrast\n\nhttps://ra
+ ve.wien/e/2026-05-15-contrast-pres-break-workforce-b2b-lsb-special-3h
+URL:https://rave.wien/e/2026-05-15-contrast-pres-break-workforce-b2b-lsb-
+ special-3h
+END:VEVENT
 END:VCALENDAR

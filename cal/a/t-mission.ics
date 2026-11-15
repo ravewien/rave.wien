@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-13-3345-room-pres-t-mission-release-party@rave.wien
+DTSTAMP:20250613T000000Z
+DTSTART;VALUE=DATE:20250613
+DTEND;VALUE=DATE:20250614
+SUMMARY:3345 ROOM pres T MISSION release party
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:T-Mission\n\nhttps://rave.wien/e/2025-06-13-3345-room-pres-t-
+ mission-release-party
+URL:https://rave.wien/e/2025-06-13-3345-room-pres-t-mission-release-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-10-3345-pres-t-mission-tech-in-da-house@rave.wien
+DTSTAMP:20261010T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:3345 pres.: T–MISSION „Tech in da house“
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:T-Mission\n\nhttps://rave.wien/e/2026-10-10-3345-pres-t-missi
+ on-tech-in-da-house
+URL:https://rave.wien/e/2026-10-10-3345-pres-t-mission-tech-in-da-house
+END:VEVENT
 END:VCALENDAR

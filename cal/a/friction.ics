@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-02-16-perspective-w-friction-uk@rave.wien
+DTSTAMP:20240216T000000Z
+DTSTART;VALUE=DATE:20240216
+DTEND;VALUE=DATE:20240217
+SUMMARY:PERSPECTIVE w/ FRICTION [UK]
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Friction\nVeranstalter: Perspective\n\nhttps://rave.wien/e/20
+ 24-02-16-perspective-w-friction-uk
+URL:https://rave.wien/e/2024-02-16-perspective-w-friction-uk
+END:VEVENT
 END:VCALENDAR

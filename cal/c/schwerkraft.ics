@@ -25,4 +25,93 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-06-schwerkraft-x-cix-x-herzfrequenz@rave.wien
+DTSTAMP:20241206T000000Z
+DTSTART;VALUE=DATE:20241206
+DTEND;VALUE=DATE:20241207
+SUMMARY:SCHWERKRAFT x CIX x HERZFREQUENZ
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Herzfrequenz\, Schwerkraft\n\nhttps://rave.wien
+ /e/2024-12-06-schwerkraft-x-cix-x-herzfrequenz
+URL:https://rave.wien/e/2024-12-06-schwerkraft-x-cix-x-herzfrequenz
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-25-schwerkraft-x-schroedingers-groove@rave.wien
+DTSTAMP:20241225T000000Z
+DTSTART;VALUE=DATE:20241225
+DTEND;VALUE=DATE:20241226
+SUMMARY:SCHWERKRAFT X SCHROEDINGERS GROOVE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Schwerkraft\, Schroedinger's Groove\n\nhttps://
+ rave.wien/e/2024-12-25-schwerkraft-x-schroedingers-groove
+URL:https://rave.wien/e/2024-12-25-schwerkraft-x-schroedingers-groove
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-31-schwerkraft-x-schroedingers-groove-x-cix@rave.wien
+DTSTAMP:20250131T000000Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:SCHWERKRAFT X Schroedingers Groove X CIX
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Schwerkraft\, Schroedinger's Groove\n\nhttps://
+ rave.wien/e/2025-01-31-schwerkraft-x-schroedingers-groove-x-cix
+URL:https://rave.wien/e/2025-01-31-schwerkraft-x-schroedingers-groove-x-c
+ ix
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-30-schwerkraft-x-rave-am-mittwoch@rave.wien
+DTSTAMP:20250430T000000Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:SCHWERKRAFT x Rave Am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\, Schwerkraft\n\nhttps://rave.
+ wien/e/2025-04-30-schwerkraft-x-rave-am-mittwoch
+URL:https://rave.wien/e/2025-04-30-schwerkraft-x-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-29-schwerkraft@rave.wien
+DTSTAMP:20250829T000000Z
+DTSTART;VALUE=DATE:20250829
+DTEND;VALUE=DATE:20250830
+SUMMARY:Schwerkraft
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Schwerkraft\n\nhttps://rave.wien/e/2025-08-29-s
+ chwerkraft
+URL:https://rave.wien/e/2025-08-29-schwerkraft
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-25-schwerkraft@rave.wien
+DTSTAMP:20251225T000000Z
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+SUMMARY:SCHWERKRAFT
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Schwerkraft\n\nhttps://rave.wien/e/2025-12-25-s
+ chwerkraft
+URL:https://rave.wien/e/2025-12-25-schwerkraft
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-08-schwerkraft-w-wndrlst@rave.wien
+DTSTAMP:20260508T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Schwerkraft W/ WNDRLST
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Wndrlst\nVeranstalter: Schwerkraft\n\nhttps://rave.wien/e/202
+ 6-05-08-schwerkraft-w-wndrlst
+URL:https://rave.wien/e/2026-05-08-schwerkraft-w-wndrlst
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-22-schwerkraft-w-prakas@rave.wien
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:SCHWERKRAFT W/ PRAKAS
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Prakas\nVeranstalter: Schwerkraft\n\nhttps://rave.wien/e/2026
+ -08-22-schwerkraft-w-prakas
+URL:https://rave.wien/e/2026-08-22-schwerkraft-w-prakas
+END:VEVENT
 END:VCALENDAR

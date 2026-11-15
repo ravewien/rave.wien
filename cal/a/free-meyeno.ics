@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-01-25-top-sounds-vienna-pres-free-meyeno-live-afterpart@rave.wien
+DTSTAMP:20250125T000000Z
+DTSTART;VALUE=DATE:20250125
+DTEND;VALUE=DATE:20250126
+SUMMARY:Top Sounds Vienna pres.Free Meyeno LIVE + Afterparty
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Free Meyeno\, Afterparty\n\nhttps://rave.wien/e/2025-01-25-to
+ p-sounds-vienna-pres-free-meyeno-live-afterpart
+URL:https://rave.wien/e/2025-01-25-top-sounds-vienna-pres-free-meyeno-liv
+ e-afterpart
+END:VEVENT
 END:VCALENDAR

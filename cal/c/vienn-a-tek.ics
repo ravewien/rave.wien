@@ -25,4 +25,48 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-01-11-vienn-a-tek-w-little-guy-fr@rave.wien
+DTSTAMP:20250111T000000Z
+DTSTART;VALUE=DATE:20250111
+DTEND;VALUE=DATE:20250112
+SUMMARY:Vienn_a_Tek w/ Little Guy (FR)
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Little Guy\nVeranstalter: Vienn_a_Tek\n\nhttps://rave.wien/e/
+ 2025-01-11-vienn-a-tek-w-little-guy-fr
+URL:https://rave.wien/e/2025-01-11-vienn-a-tek-w-little-guy-fr
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-06-vienn-a-tek@rave.wien
+DTSTAMP:20251206T000000Z
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251207
+SUMMARY:vienn_a_Tek
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Vienn_a_Tek\n\nhttps://rave.wien/e/2025-12-06-v
+ ienn-a-tek
+URL:https://rave.wien/e/2025-12-06-vienn-a-tek
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-10-vienn-a-tek-w-rnz-raving@rave.wien
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:Vienn_a_Tek w/ RNZ Raving
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:RNZ Raving\nVeranstalter: Vienn_a_Tek\n\nhttps://rave.wien/e/
+ 2026-01-10-vienn-a-tek-w-rnz-raving
+URL:https://rave.wien/e/2026-01-10-vienn-a-tek-w-rnz-raving
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-22-vienn-a-tek@rave.wien
+DTSTAMP:20260822T000000Z
+DTSTART;TZID=Europe/Vienna:20260822T230000
+DTEND;TZID=Europe/Vienna:20260823T040000
+SUMMARY:VIENN_A_TEK
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Fairytalesoundsystem\, Hannah mit Hut\, V1not1c\, Spelz\nVera
+ nstalter: Vienn_a_Tek\n\nhttps://rave.wien/e/2026-08-22-vienn-a-tek
+URL:https://rave.wien/e/2026-08-22-vienn-a-tek
+END:VEVENT
 END:VCALENDAR

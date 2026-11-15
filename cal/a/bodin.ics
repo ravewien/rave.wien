@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-02-07-connecting-people-w-bodin@rave.wien
+DTSTAMP:20250207T000000Z
+DTSTART;VALUE=DATE:20250207
+DTEND;VALUE=DATE:20250208
+SUMMARY:Connecting People w/ Bodin
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Bodin\nVeranstalter: Connecting People\n\nhttps://rave.wien/e
+ /2025-02-07-connecting-people-w-bodin
+URL:https://rave.wien/e/2025-02-07-connecting-people-w-bodin
+END:VEVENT
 END:VCALENDAR

@@ -43,6 +43,90 @@ DESCRIPTION:Andre Zimmer\, Anni Herzer\, Valentin Zelz\nVeranstalter: Rad
 URL:https://rave.wien/e/2026-11-14-radio-rudina
 END:VEVENT
 BEGIN:VEVENT
+UID:2024-05-03-duality-x-demolate@rave.wien
+DTSTAMP:20240503T000000Z
+DTSTART;TZID=Europe/Vienna:20240503T230000
+DTEND;TZID=Europe/Vienna:20240504T040000
+SUMMARY:Duality X Demolate
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Frau Hofmann\, Anni Herzer\, Nico Eyrich\, Aylean\, ricksen\,
+  mefteh\, maximus\, l.aux\, DJ Sex\nVeranstalter: Duality\n\nKitchen geh
+ ostet von Demolition Berlin\n\nhttps://rave.wien/e/2024-05-03-duality-x-
+ demolate
+URL:https://rave.wien/e/2024-05-03-duality-x-demolate
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-23-8-yrs-techno-entgleist-open-air-indoor@rave.wien
+DTSTAMP:20250523T000000Z
+DTSTART;VALUE=DATE:20250523
+DTEND;VALUE=DATE:20250524
+SUMMARY:8 YRS TECHNO ENTGLEIST | Open Air & Indoor
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mimosa\, Epicuro\, Tomagan\, Alexis Hera\, Danloe\, Anni Herz
+ er\, Smuf\, Vibechen\, Max Wagner\, Tony V\nVeranstalter: Techno Entglei
+ st\n\nhttps://rave.wien/e/2025-05-23-8-yrs-techno-entgleist-open-air-ind
+ oor
+URL:https://rave.wien/e/2025-05-23-8-yrs-techno-entgleist-open-air-indoor
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-07-18-feuchte-traume-sex-positive-party@rave.wien
+DTSTAMP:20250718T000000Z
+DTSTART;TZID=Europe/Vienna:20250718T160000
+DTEND;TZID=Europe/Vienna:20250719T060000
+SUMMARY:Feuchte Träume (Sex Positive Party)
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:MoBama\, Anni Herzer\, Chiara Allnutt\, Miklei\, Krawallbarbi
+ e\nVeranstalter: Feuchte Träume\nEintritt: 17–55 €\n\nhttps://rave.
+ wien/e/2025-07-18-feuchte-traume-sex-positive-party
+URL:https://rave.wien/e/2025-07-18-feuchte-traume-sex-positive-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-14-sommernachtstraum-2025@rave.wien
+DTSTAMP:20250814T000000Z
+DTSTART;VALUE=DATE:20250814
+DTEND;VALUE=DATE:20250815
+SUMMARY:Sommernachtstraum 2025
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Anni Herzer\, Cherry & Beats\, DJ Katse\, meet.franka\, There
+ se Terror\n\nhttps://rave.wien/e/2025-08-14-sommernachtstraum-2025
+URL:https://rave.wien/e/2025-08-14-sommernachtstraum-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-01-hangover-special-with-anna-ullrich-anni-herzer@rave.wien
+DTSTAMP:20251101T000000Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251102
+SUMMARY:HANGOVER SPECIAL with Anna Ullrich & Anni Herzer
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Anna Ullrich\, Anni Herzer\n\nhttps://rave.wien/e/2025-11-01-
+ hangover-special-with-anna-ullrich-anni-herzer
+URL:https://rave.wien/e/2025-11-01-hangover-special-with-anna-ullrich-ann
+ i-herzer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-24-deep-dive-w-anni-herzer@rave.wien
+DTSTAMP:20260424T000000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:DEEP DIVE W/ ANNI HERZER
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Anni Herzer\nVeranstalter: Deep Dive\n\nhttps://rave.wien/e/2
+ 026-04-24-deep-dive-w-anni-herzer
+URL:https://rave.wien/e/2026-04-24-deep-dive-w-anni-herzer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-21-feuchte-traume-lunar-seance@rave.wien
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Feuchte Träume – Lunar Séance
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:MoBama\, Anni Herzer\, Chiara Allnutt\, Sungdi\nVeranstalter:
+  Feuchte Träume\n\nhttps://rave.wien/e/2026-08-21-feuchte-traume-lunar-
+ seance
+URL:https://rave.wien/e/2026-08-21-feuchte-traume-lunar-seance
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-halloween-auf-der-lauer@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T200000

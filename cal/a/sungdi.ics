@@ -25,4 +25,27 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-02-02-fluffig-monster-anna-ullrich-sungdi@rave.wien
+DTSTAMP:20240202T000000Z
+DTSTART;VALUE=DATE:20240202
+DTEND;VALUE=DATE:20240203
+SUMMARY:Fluffig | Monster | Anna Ullrich | Sungdi
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Monster\, Anna Ullrich\, Sungdi\nVeranstalter: Fluffig\n\nhtt
+ ps://rave.wien/e/2024-02-02-fluffig-monster-anna-ullrich-sungdi
+URL:https://rave.wien/e/2024-02-02-fluffig-monster-anna-ullrich-sungdi
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-21-feuchte-traume-lunar-seance@rave.wien
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Feuchte Träume – Lunar Séance
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:MoBama\, Anni Herzer\, Chiara Allnutt\, Sungdi\nVeranstalter:
+  Feuchte Träume\n\nhttps://rave.wien/e/2026-08-21-feuchte-traume-lunar-
+ seance
+URL:https://rave.wien/e/2026-08-21-feuchte-traume-lunar-seance
+END:VEVENT
 END:VCALENDAR

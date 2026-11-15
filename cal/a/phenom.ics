@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-03-20-reverse-club-night-with-shaymi-phenom-discharge@rave.wien
+DTSTAMP:20260320T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Reverse Club Night with Shaymi\, Phenom & Discharge
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Shaymi\, Phenom\, Discharge\nVeranstalter: Reverse\n\nhttps:/
+ /rave.wien/e/2026-03-20-reverse-club-night-with-shaymi-phenom-discharge
+URL:https://rave.wien/e/2026-03-20-reverse-club-night-with-shaymi-phenom-
+ discharge
+END:VEVENT
 END:VCALENDAR

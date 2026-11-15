@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-09-herzfrequenz-presents-esca-leah@rave.wien
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:HERZFREQUENZ presents ESCA & LEAH
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:ESCA\, LEAH\nVeranstalter: Herzfrequenz\n\nhttps://rave.wien/
+ e/2026-10-09-herzfrequenz-presents-esca-leah
+URL:https://rave.wien/e/2026-10-09-herzfrequenz-presents-esca-leah
+END:VEVENT
 END:VCALENDAR

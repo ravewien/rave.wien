@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-08-22-rumi-invites-w-nat-wendell-uk-cj-bambi-service-vi@rave.wien
+DTSTAMP:20250822T000000Z
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250823
+SUMMARY:RUMI INVITES…w/ NAT WENDELL (UK) & CJ Bambi (Service\, Vienna)
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Nat Wendell\, CJ Bambi (Service\, Vienna)\n\nhttps://rave.wie
+ n/e/2025-08-22-rumi-invites-w-nat-wendell-uk-cj-bambi-service-vi
+URL:https://rave.wien/e/2025-08-22-rumi-invites-w-nat-wendell-uk-cj-bambi
+ -service-vi
+END:VEVENT
 END:VCALENDAR

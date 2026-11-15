@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-12-19-connecting-people-with-anne-karmane@rave.wien
+DTSTAMP:20251219T000000Z
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:Connecting People with Anne Karmané
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Anne Karmané\nVeranstalter: Connecting People\n\nhttps://rav
+ e.wien/e/2025-12-19-connecting-people-with-anne-karmane
+URL:https://rave.wien/e/2025-12-19-connecting-people-with-anne-karmane
+END:VEVENT
 END:VCALENDAR

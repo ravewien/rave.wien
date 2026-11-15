@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-08-29-zero-raves-pres-braindaamage@rave.wien
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Zero Raves pres.: BRAINDAAMAGE
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Braindaamage\n\nhttps://rave.wien/e/2026-08-29-zero-raves-pre
+ s-braindaamage
+URL:https://rave.wien/e/2026-08-29-zero-raves-pres-braindaamage
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-05-08-im-freudentaumel-mit-maurice-mino-rebellion-der-t@rave.wien
+DTSTAMP:20260508T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Im Freudentaumel mit Maurice Mino (Rebellion der Träumer / Berli
+ n)
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Maurice Mino\nVeranstalter: Im Freudentaumel\n\nhttps://rave.
+ wien/e/2026-05-08-im-freudentaumel-mit-maurice-mino-rebellion-der-t
+URL:https://rave.wien/e/2026-05-08-im-freudentaumel-mit-maurice-mino-rebe
+ llion-der-t
+END:VEVENT
 END:VCALENDAR

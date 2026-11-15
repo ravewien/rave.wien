@@ -26,6 +26,343 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-06-21-im-freudentaumel-mit-krawalle-liebe-nugi-kollekti@rave.wien
+DTSTAMP:20240621T000000Z
+DTSTART;VALUE=DATE:20240621
+DTEND;VALUE=DATE:20240622
+SUMMARY:Im Freudentaumel mit Krawalle & Liebe\, Nugi & Kollektiv Sheesh
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Krawalle\, Liebe\, Nugi\, Kollektiv Sheesh\nVeranstalter: Im 
+ Freudentaumel\n\nhttps://rave.wien/e/2024-06-21-im-freudentaumel-mit-kra
+ walle-liebe-nugi-kollekti
+URL:https://rave.wien/e/2024-06-21-im-freudentaumel-mit-krawalle-liebe-nu
+ gi-kollekti
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-28-im-freudentaumel-w-theo-meier-lenia-nya-nyx-shees@rave.wien
+DTSTAMP:20240628T000000Z
+DTSTART;VALUE=DATE:20240628
+DTEND;VALUE=DATE:20240629
+SUMMARY:Im Freudentaumel w/ Theo Meier\, Lenia\, Nya Nyx & Sheesh
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Theo Meier\, Lenia\, Nya Nyx\, Sheesh\nVeranstalter: Im Freud
+ entaumel\n\nhttps://rave.wien/e/2024-06-28-im-freudentaumel-w-theo-meier
+ -lenia-nya-nyx-shees
+URL:https://rave.wien/e/2024-06-28-im-freudentaumel-w-theo-meier-lenia-ny
+ a-nyx-shees
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-20-vision-serpent-x-im-freudentaumel-local-edition@rave.wien
+DTSTAMP:20240720T000000Z
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240721
+SUMMARY:Vision Serpent X Im Freudentaumel – Local Edition
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Im Freudentaumel\n\nhttps://rave.wien/e/2024-07
+ -20-vision-serpent-x-im-freudentaumel-local-edition
+URL:https://rave.wien/e/2024-07-20-vision-serpent-x-im-freudentaumel-loca
+ l-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-27-township-rebellion-im-freudentaumel@rave.wien
+DTSTAMP:20240927T000000Z
+DTSTART;VALUE=DATE:20240927
+DTEND;VALUE=DATE:20240928
+SUMMARY:TOWNSHIP REBELLION IM FREUDENTAUMEL
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Township Rebellion\nVeranstalter: Im Freudentaumel\n\nhttps:/
+ /rave.wien/e/2024-09-27-township-rebellion-im-freudentaumel
+URL:https://rave.wien/e/2024-09-27-township-rebellion-im-freudentaumel
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-26-mystic-creatures-im-kosmisch-kuriosen-freudentaum@rave.wien
+DTSTAMP:20241026T000000Z
+DTSTART;VALUE=DATE:20241026
+DTEND;VALUE=DATE:20241027
+SUMMARY:Mystic Creatures im kosmisch kuriosen Freudentaumel
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Im Freudentaumel\n\nhttps://rave.wien/e/2024-10
+ -26-mystic-creatures-im-kosmisch-kuriosen-freudentaum
+URL:https://rave.wien/e/2024-10-26-mystic-creatures-im-kosmisch-kuriosen-
+ freudentaum
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-09-just-emma-im-freudentaumel-w-oliver-rottmann-koll@rave.wien
+DTSTAMP:20241109T000000Z
+DTSTART;VALUE=DATE:20241109
+DTEND;VALUE=DATE:20241110
+SUMMARY:Just Emma im Freudentaumel w/ Oliver Rottmann & Kollektiv Sheesh
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Oliver Rottmann\, Kollektiv Sheesh\nVeranstalter: Im Freudent
+ aumel\n\nhttps://rave.wien/e/2024-11-09-just-emma-im-freudentaumel-w-oli
+ ver-rottmann-koll
+URL:https://rave.wien/e/2024-11-09-just-emma-im-freudentaumel-w-oliver-ro
+ ttmann-koll
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-22-3000grad-im-freudentaumel-x-3000grad-w-mollono-ba@rave.wien
+DTSTAMP:20241122T000000Z
+DTSTART;VALUE=DATE:20241122
+DTEND;VALUE=DATE:20241123
+SUMMARY:3000Grad im Freudentaumel x 3000Grad w/ Mollono.Bass & Katzengold
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Mollono.Bass\, Katzengold\nVeranstalter: Im Freudentaumel\n\n
+ https://rave.wien/e/2024-11-22-3000grad-im-freudentaumel-x-3000grad-w-mo
+ llono-ba
+URL:https://rave.wien/e/2024-11-22-3000grad-im-freudentaumel-x-3000grad-w
+ -mollono-ba
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-31-mit-fortuna-im-freudentaumel-new-years-eve-day@rave.wien
+DTSTAMP:20241231T000000Z
+DTSTART;VALUE=DATE:20241231
+DTEND;VALUE=DATE:20250101
+SUMMARY:Mit Fortuna Im Freudentaumel: New Years Eve & Day
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Im Freudentaumel\n\nhttps://rave.wien/e/2024-12
+ -31-mit-fortuna-im-freudentaumel-new-years-eve-day
+URL:https://rave.wien/e/2024-12-31-mit-fortuna-im-freudentaumel-new-years
+ -eve-day
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-01-flucc-new-years-afterhour-mit-fortuna-im-freudent@rave.wien
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+SUMMARY:FLUCC New Years Afterhour: Mit Fortuna Im Freudentaumel
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Im Freudentaumel\n\nhttps://rave.wien/e/2025-01
+ -01-flucc-new-years-afterhour-mit-fortuna-im-freudent
+URL:https://rave.wien/e/2025-01-01-flucc-new-years-afterhour-mit-fortuna-
+ im-freudent
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-07-heimlich-im-freudentaumel-w-just-emma-thea-schtu@rave.wien
+DTSTAMP:20250307T000000Z
+DTSTART;VALUE=DATE:20250307
+DTEND;VALUE=DATE:20250308
+SUMMARY:Heimlich im Freudentaumel w/ Just Emma & Thea & Schtu LIVE
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Just Emma\, Thea\, Schtu\nVeranstalter: Im Freudentaumel\, He
+ imlich\n\nhttps://rave.wien/e/2025-03-07-heimlich-im-freudentaumel-w-jus
+ t-emma-thea-schtu
+URL:https://rave.wien/e/2025-03-07-heimlich-im-freudentaumel-w-just-emma-
+ thea-schtu
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-11-im-freudentaumel-von-eben@rave.wien
+DTSTAMP:20250411T000000Z
+DTSTART;VALUE=DATE:20250411
+DTEND;VALUE=DATE:20250412
+SUMMARY:Im Freudentaumel von Eben
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Im Freudentaumel\n\nhttps://rave.wien/e/2025-04
+ -11-im-freudentaumel-von-eben
+URL:https://rave.wien/e/2025-04-11-im-freudentaumel-von-eben
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-30-takeshi-s-cashew-live-im-freudentaumel-von-eben@rave.wien
+DTSTAMP:20250430T000000Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:Takeshi's Cashew LIVE im Freudentaumel von Eben
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Takeshi's Cashew\nVeranstalter: Im Freudentaumel\n\nhttps://r
+ ave.wien/e/2025-04-30-takeshi-s-cashew-live-im-freudentaumel-von-eben
+URL:https://rave.wien/e/2025-04-30-takeshi-s-cashew-live-im-freudentaumel
+ -von-eben
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-23-im-freudentaumel-mit-maurice-mino-praerie-festiva@rave.wien
+DTSTAMP:20250523T000000Z
+DTSTART;VALUE=DATE:20250523
+DTEND;VALUE=DATE:20250524
+SUMMARY:Im Freudentaumel mit Maurice Mino (Praerie Festival\, Ritter Butz
+ ke\, Re:vo)
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Ritter Butzke\, Re:vo)\nVeranstalter: Im Freudentaumel\n\nhtt
+ ps://rave.wien/e/2025-05-23-im-freudentaumel-mit-maurice-mino-praerie-fe
+ stiva
+URL:https://rave.wien/e/2025-05-23-im-freudentaumel-mit-maurice-mino-prae
+ rie-festiva
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-03-township-rebellion-im-freudentaumel@rave.wien
+DTSTAMP:20251003T000000Z
+DTSTART;VALUE=DATE:20251003
+DTEND;VALUE=DATE:20251004
+SUMMARY:TOWNSHIP REBELLION IM FREUDENTAUMEL
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Township Rebellion\nVeranstalter: Im Freudentaumel\n\nhttps:/
+ /rave.wien/e/2025-10-03-township-rebellion-im-freudentaumel
+URL:https://rave.wien/e/2025-10-03-township-rebellion-im-freudentaumel
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-24-heimlich-im-freudentaumel@rave.wien
+DTSTAMP:20251024T000000Z
+DTSTART;VALUE=DATE:20251024
+DTEND;VALUE=DATE:20251025
+SUMMARY:Heimlich im Freudentaumel
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Im Freudentaumel\, Heimlich\n\nhttps://rave.wie
+ n/e/2025-10-24-heimlich-im-freudentaumel
+URL:https://rave.wien/e/2025-10-24-heimlich-im-freudentaumel
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-07-expedition-ins-knusperhauschen-unlock-me-im-gebur@rave.wien
+DTSTAMP:20251207T000000Z
+DTSTART;VALUE=DATE:20251207
+DTEND;VALUE=DATE:20251208
+SUMMARY:Expedition ins Knusperhäuschen – unlock|me im Geburtstagstaumel
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Im Freudentaumel\n\nhttps://rave.wien/e/2025-12
+ -07-expedition-ins-knusperhauschen-unlock-me-im-gebur
+URL:https://rave.wien/e/2025-12-07-expedition-ins-knusperhauschen-unlock-
+ me-im-gebur
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-31-mit-fortuna-im-freudentaumel-14-h-new-years-eve-d@rave.wien
+DTSTAMP:20251231T000000Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:Mit Fortuna im Freudentaumel – 14 h New Years Eve & Day
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Im Freudentaumel\n\nhttps://rave.wien/e/2025-12
+ -31-mit-fortuna-im-freudentaumel-14-h-new-years-eve-d
+URL:https://rave.wien/e/2025-12-31-mit-fortuna-im-freudentaumel-14-h-new-
+ years-eve-d
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-01-nye-after-hour-mit-fortuna-im-freudentaumel@rave.wien
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:NYE After Hour mit Fortuna im Freudentaumel
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Im Freudentaumel\n\nhttps://rave.wien/e/2026-01
+ -01-nye-after-hour-mit-fortuna-im-freudentaumel
+URL:https://rave.wien/e/2026-01-01-nye-after-hour-mit-fortuna-im-freudent
+ aumel
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-23-im-freudentaumel@rave.wien
+DTSTAMP:20260123T000000Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Im Freudentaumel
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Im Freudentaumel\n\nhttps://rave.wien/e/2026-01
+ -23-im-freudentaumel
+URL:https://rave.wien/e/2026-01-23-im-freudentaumel
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-14-die-freude-im-valentinstaumel@rave.wien
+DTSTAMP:20260214T000000Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:Die Freude im Valentinstaumel
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Im Freudentaumel\n\nhttps://rave.wien/e/2026-02
+ -14-die-freude-im-valentinstaumel
+URL:https://rave.wien/e/2026-02-14-die-freude-im-valentinstaumel
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-21-4-yrs-im-freudentaumel@rave.wien
+DTSTAMP:20260321T000000Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:4 YRS IM FREUDENTAUMEL
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Im Freudentaumel\n\nhttps://rave.wien/e/2026-03
+ -21-4-yrs-im-freudentaumel
+URL:https://rave.wien/e/2026-03-21-4-yrs-im-freudentaumel
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-17-im-freudentaumel-w-urem-cosy-festival-exhibition@rave.wien
+DTSTAMP:20260417T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Im Freudentaumel w/ UREM & Cosy Festival + Exhibition
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:UREM\, Exhibition\nVeranstalter: Im Freudentaumel\n\nhttps://
+ rave.wien/e/2026-04-17-im-freudentaumel-w-urem-cosy-festival-exhibition
+URL:https://rave.wien/e/2026-04-17-im-freudentaumel-w-urem-cosy-festival-
+ exhibition
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-08-im-freudentaumel-mit-maurice-mino-rebellion-der-t@rave.wien
+DTSTAMP:20260508T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Im Freudentaumel mit Maurice Mino (Rebellion der Träumer / Berli
+ n)
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Maurice Mino\nVeranstalter: Im Freudentaumel\n\nhttps://rave.
+ wien/e/2026-05-08-im-freudentaumel-mit-maurice-mino-rebellion-der-t
+URL:https://rave.wien/e/2026-05-08-im-freudentaumel-mit-maurice-mino-rebe
+ llion-der-t
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-19-im-freudentaumel@rave.wien
+DTSTAMP:20260619T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:IM FREUDENTAUMEL
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Im Freudentaumel\n\nhttps://rave.wien/e/2026-06
+ -19-im-freudentaumel
+URL:https://rave.wien/e/2026-06-19-im-freudentaumel
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-24-im-freudentaumel-sommerfest-i-free-donation@rave.wien
+DTSTAMP:20260724T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:Im Freudentaumel Sommerfest I Free Donation
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Im Freudentaumel\n\nhttps://rave.wien/e/2026-07
+ -24-im-freudentaumel-sommerfest-i-free-donation
+URL:https://rave.wien/e/2026-07-24-im-freudentaumel-sommerfest-i-free-don
+ ation
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-21-im-freudentaumel-i-free-donation-i-flucc-deck@rave.wien
+DTSTAMP:20260821T000000Z
+DTSTART;TZID=Europe/Vienna:20260821T220000
+DTEND;TZID=Europe/Vienna:20260822T030000
+SUMMARY:Im Freudentaumel I Free Donation I FLUCC DECK
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Nya Nyx\, Eren Duman\, Kollektiv Sheesh\nVeranstalter: Im Fre
+ udentaumel\nEintritt: Freie Spende\n\nhttps://rave.wien/e/2026-08-21-im-
+ freudentaumel-i-free-donation-i-flucc-deck
+URL:https://rave.wien/e/2026-08-21-im-freudentaumel-i-free-donation-i-flu
+ cc-deck
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-12-trippin-im-releasetaumel-w-just-emma-i-free-donat@rave.wien
+DTSTAMP:20260912T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Trippin im Releasetaumel w/ JUST EMMA I Free Donation I Releasepa
+ rty
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Just Emma\nVeranstalter: Im Freudentaumel\n\nhttps://rave.wie
+ n/e/2026-09-12-trippin-im-releasetaumel-w-just-emma-i-free-donat
+URL:https://rave.wien/e/2026-09-12-trippin-im-releasetaumel-w-just-emma-i
+ -free-donat
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-03-township-rebellion-im-freudentaumel@rave.wien
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:TOWNSHIP REBELLION im Freudentaumel
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Township Rebellion\nVeranstalter: Im Freudentaumel\n\nhttps:/
+ /rave.wien/e/2026-10-03-township-rebellion-im-freudentaumel
+URL:https://rave.wien/e/2026-10-03-township-rebellion-im-freudentaumel
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-im-freudentaumel@rave.wien
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Vienna:20261106T230000

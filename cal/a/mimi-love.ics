@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-07-praternostra-w-mimi-love-berlin-kater-blau@rave.wien
+DTSTAMP:20250607T000000Z
+DTSTART;VALUE=DATE:20250607
+DTEND;VALUE=DATE:20250608
+SUMMARY:PRATERNOSTRA /W MIMI LOVE (Berlin/Kater Blau)
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Mimi Love\nVeranstalter: Praternostra\n\nhttps://rave.wien/e/
+ 2025-06-07-praternostra-w-mimi-love-berlin-kater-blau
+URL:https://rave.wien/e/2025-06-07-praternostra-w-mimi-love-berlin-kater-
+ blau
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-06-21-im-freudentaumel-mit-krawalle-liebe-nugi-kollekti@rave.wien
+DTSTAMP:20240621T000000Z
+DTSTART;VALUE=DATE:20240621
+DTEND;VALUE=DATE:20240622
+SUMMARY:Im Freudentaumel mit Krawalle & Liebe\, Nugi & Kollektiv Sheesh
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Krawalle\, Liebe\, Nugi\, Kollektiv Sheesh\nVeranstalter: Im 
+ Freudentaumel\n\nhttps://rave.wien/e/2024-06-21-im-freudentaumel-mit-kra
+ walle-liebe-nugi-kollekti
+URL:https://rave.wien/e/2024-06-21-im-freudentaumel-mit-krawalle-liebe-nu
+ gi-kollekti
+END:VEVENT
 END:VCALENDAR

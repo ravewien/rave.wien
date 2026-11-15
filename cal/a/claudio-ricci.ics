@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-11-14-club-pompadour-with-claudio-ricci@rave.wien
+DTSTAMP:20251114T000000Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:Club Pompadour with Claudio Ricci
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Claudio Ricci\nVeranstalter: Club Pompadour\n\nhttps://rave.w
+ ien/e/2025-11-14-club-pompadour-with-claudio-ricci
+URL:https://rave.wien/e/2025-11-14-club-pompadour-with-claudio-ricci
+END:VEVENT
 END:VCALENDAR

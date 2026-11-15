@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-03-27-deep-cut-w-alexskyspirit@rave.wien
+DTSTAMP:20260327T000000Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:deep cut w/ Alexskyspirit
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Alexskyspirit\nVeranstalter: deep cut\n\nhttps://rave.wien/e/
+ 2026-03-27-deep-cut-w-alexskyspirit
+URL:https://rave.wien/e/2026-03-27-deep-cut-w-alexskyspirit
+END:VEVENT
 END:VCALENDAR

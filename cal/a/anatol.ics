@@ -46,6 +46,19 @@ DESCRIPTION:Oben: Andrew Ahmed\, Sluzy\, PartyPauli\, maro\, Arman Shadow
 URL:https://rave.wien/e/2026-11-27-bassbussi-allstars-3-years-anniversary
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-24-rave-am-mittwoch-special-edition-grelle-forelle@rave.wien
+DTSTAMP:20261024T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:RAVE AM MITTWOCH // SPECIAL EDITION // Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Anatol\, Tomagan\, Louisa India\, Pinklotion\, adrialin\nVera
+ nstalter: Rave am Mittwoch\n\nhttps://rave.wien/e/2026-10-24-rave-am-mit
+ twoch-special-edition-grelle-forelle
+URL:https://rave.wien/e/2026-10-24-rave-am-mittwoch-special-edition-grell
+ e-forelle
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-gdn-klubnacht-w-tham@rave.wien
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Vienna:20261106T230000

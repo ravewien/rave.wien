@@ -25,4 +25,28 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-08-14-sommernachtstraum-2024-grelle-forelle@rave.wien
+DTSTAMP:20240814T000000Z
+DTSTART;TZID=Europe/Vienna:20240814T230000
+DTEND;TZID=Europe/Vienna:20240815T040000
+SUMMARY:Sommernachtstraum 2024 | Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alexis Hera\, amilia\, dotpoint\, Fehr Brothers\, ksot sounds
+ ystem\, Linus Milchbrand\, NIKISS\n\nhttps://rave.wien/e/2024-08-14-somm
+ ernachtstraum-2024-grelle-forelle
+URL:https://rave.wien/e/2024-08-14-sommernachtstraum-2024-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-05-kein-sonntag-ohne-techno-season-opening@rave.wien
+DTSTAMP:20260405T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:KEIN SONNTAG OHNE TECHNO | Season Opening
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:alina\, aramboa\, doktor dopf\, honeyvalxx\, ksot soundsystem
+ \, meet.franka\, Rosa Rosen\n\nhttps://rave.wien/e/2026-04-05-kein-sonnt
+ ag-ohne-techno-season-opening
+URL:https://rave.wien/e/2026-04-05-kein-sonntag-ohne-techno-season-opening
+END:VEVENT
 END:VCALENDAR

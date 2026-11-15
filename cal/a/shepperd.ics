@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-10-16-kissen@rave.wien
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=Europe/Vienna:20261016T220000
+DTEND;TZID=Europe/Vienna:20261017T060000
+SUMMARY:KISSEN
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Dia\, Shepperd\, anxxxious_t\, Authentically Plastic\, saint 
+ noir.\, Mira\, Ethane\, zey\, Parham Rostam Abadi\, karl klit\, Kaisa Bo
+ dega\nVeranstalter: KISSEN\nEintritt: 14 € vor 0 Uhr / 16 € ab 0 Uhr
+ \n\nWanne + Deck\; Performances von Parham Rostam Abadi\, karl klit und 
+ Kaisa Bodega\n\nhttps://rave.wien/e/2026-10-16-kissen
+URL:https://rave.wien/e/2026-10-16-kissen
+END:VEVENT
 END:VCALENDAR

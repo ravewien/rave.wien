@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-01-06-bassproduction-dnb-presents-rosi-tech@rave.wien
+DTSTAMP:20240106T000000Z
+DTSTART;VALUE=DATE:20240106
+DTEND;VALUE=DATE:20240107
+SUMMARY:Bassproduction DnB presents: ROSI-TECH
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Rosi-tech\n\nhttps://rave.wien/e/2024-01-06-bassproduction-dn
+ b-presents-rosi-tech
+URL:https://rave.wien/e/2024-01-06-bassproduction-dnb-presents-rosi-tech
+END:VEVENT
 END:VCALENDAR

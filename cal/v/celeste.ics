@@ -116,6 +116,504 @@ DESCRIPTION:Ambient Animal\, Tanja Turner\nVeranstalter: sama recordings\
 URL:https://rave.wien/e/2026-12-19-sama-recordings-pres-schweben
 END:VEVENT
 BEGIN:VEVENT
+UID:2024-02-10-fixstern-50x-paul-raal@rave.wien
+DTSTAMP:20240210T000000Z
+DTSTART;VALUE=DATE:20240210
+DTEND;VALUE=DATE:20240211
+SUMMARY:Fixstern ◦ 50x Paul Raal
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Paul Raal\n\nhttps://rave.wien/e/2024-02-10-fixstern-50x-paul
+ -raal
+URL:https://rave.wien/e/2024-02-10-fixstern-50x-paul-raal
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-06-14-unfollow-w-vina-konda-ngl-lca-dila@rave.wien
+DTSTAMP:20240614T000000Z
+DTSTART;VALUE=DATE:20240614
+DTEND;VALUE=DATE:20240615
+SUMMARY:Unfollow w/ Vina Konda\, Ængl\, LCA\, Dilâ
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Vina Konda\, Ængl\, LCA\, Dilâ\n\nhttps://rave.wien/e/2024-
+ 06-14-unfollow-w-vina-konda-ngl-lca-dila
+URL:https://rave.wien/e/2024-06-14-unfollow-w-vina-konda-ngl-lca-dila
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-17-agape-pizza-w-cj-bambi-franjazzco-moska@rave.wien
+DTSTAMP:20240817T000000Z
+DTSTART;VALUE=DATE:20240817
+DTEND;VALUE=DATE:20240818
+SUMMARY:Agape Pizza w/ CJ Bambi\, Franjazzco\, Moska
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:CJ Bambi\, Franjazzco\, Moska\n\nhttps://rave.wien/e/2024-08-
+ 17-agape-pizza-w-cj-bambi-franjazzco-moska
+URL:https://rave.wien/e/2024-08-17-agape-pizza-w-cj-bambi-franjazzco-moska
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-15-analogique-x-soundbuglerei-x-hwtk@rave.wien
+DTSTAMP:20241115T000000Z
+DTSTART;VALUE=DATE:20241115
+DTEND;VALUE=DATE:20241116
+SUMMARY:Analogique x Soundbüglerei x hwtk
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Soundbüglerei\, Analogique\n\nhttps://rave.wie
+ n/e/2024-11-15-analogique-x-soundbuglerei-x-hwtk
+URL:https://rave.wien/e/2024-11-15-analogique-x-soundbuglerei-x-hwtk
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-07-kalte-10-years-of-celeste@rave.wien
+DTSTAMP:20241207T000000Z
+DTSTART;VALUE=DATE:20241207
+DTEND;VALUE=DATE:20241208
+SUMMARY:Kälte! 10 Years of Celeste
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2024-12-07-kalte-10-years-of-celeste
+URL:https://rave.wien/e/2024-12-07-kalte-10-years-of-celeste
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-11-hot-wax-strictly-vinyl@rave.wien
+DTSTAMP:20250111T000000Z
+DTSTART;VALUE=DATE:20250111
+DTEND;VALUE=DATE:20250112
+SUMMARY:Hot Wax Strictly Vinyl
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-01-11-hot-wax-strictly-vinyl
+URL:https://rave.wien/e/2025-01-11-hot-wax-strictly-vinyl
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-17-dnb-dave-n-bani@rave.wien
+DTSTAMP:20250117T000000Z
+DTSTART;VALUE=DATE:20250117
+DTEND;VALUE=DATE:20250118
+SUMMARY:DnB: Dave n Bani
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-01-17-dnb-dave-n-bani
+URL:https://rave.wien/e/2025-01-17-dnb-dave-n-bani
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-01-celestial-celectors-sel-1@rave.wien
+DTSTAMP:20250201T000000Z
+DTSTART;VALUE=DATE:20250201
+DTEND;VALUE=DATE:20250202
+SUMMARY:Celestial Celectors – Sel. 1
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-02-01-celestial-celectors-sel-1
+URL:https://rave.wien/e/2025-02-01-celestial-celectors-sel-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-08-fuelized-pres-sessions-vol-1@rave.wien
+DTSTAMP:20250308T000000Z
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250309
+SUMMARY:FUELIZED pres. Sessions Vol.1
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Fuelized\n\nhttps://rave.wien/e/2025-03-08-fuel
+ ized-pres-sessions-vol-1
+URL:https://rave.wien/e/2025-03-08-fuelized-pres-sessions-vol-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-12-magnetic-funk-pres-dj-debo-funk-freaks-usa@rave.wien
+DTSTAMP:20250412T000000Z
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250413
+SUMMARY:Magnetic Funk pres. DJ Debo (Funk Freaks\, USA)
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:DJ Debo (Funk Freaks\, USA)\n\nhttps://rave.wien/e/2025-04-12
+ -magnetic-funk-pres-dj-debo-funk-freaks-usa
+URL:https://rave.wien/e/2025-04-12-magnetic-funk-pres-dj-debo-funk-freaks
+ -usa
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-18-celestial-celectors-sel-2@rave.wien
+DTSTAMP:20250418T000000Z
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250419
+SUMMARY:Celestial Celectors Sel. 2
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-04-18-celestial-celectors-sel-2
+URL:https://rave.wien/e/2025-04-18-celestial-celectors-sel-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-25-non-sai-with-ddwy@rave.wien
+DTSTAMP:20250425T000000Z
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250426
+SUMMARY:non sai with ddwy
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:ddwy\n\nhttps://rave.wien/e/2025-04-25-non-sai-with-ddwy
+URL:https://rave.wien/e/2025-04-25-non-sai-with-ddwy
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-30-fuelized-pres-sessions-vol-2@rave.wien
+DTSTAMP:20250430T000000Z
+DTSTART;VALUE=DATE:20250430
+DTEND;VALUE=DATE:20250501
+SUMMARY:FUELIZED pres. Sessions Vol.2
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Fuelized\n\nhttps://rave.wien/e/2025-04-30-fuel
+ ized-pres-sessions-vol-2
+URL:https://rave.wien/e/2025-04-30-fuelized-pres-sessions-vol-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-23-super-motel-168@rave.wien
+DTSTAMP:20250523T000000Z
+DTSTART;VALUE=DATE:20250523
+DTEND;VALUE=DATE:20250524
+SUMMARY:Super Motel 168
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-05-23-super-motel-168
+URL:https://rave.wien/e/2025-05-23-super-motel-168
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-14-malpractice@rave.wien
+DTSTAMP:20250614T000000Z
+DTSTART;VALUE=DATE:20250614
+DTEND;VALUE=DATE:20250615
+SUMMARY:MALPRACTICE
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-06-14-malpractice
+URL:https://rave.wien/e/2025-06-14-malpractice
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-20-res-hift@rave.wien
+DTSTAMP:20250620T000000Z
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+SUMMARY:RES:HIFT
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-06-20-res-hift
+URL:https://rave.wien/e/2025-06-20-res-hift
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-21-fuelized-pres-sessions-vol-3@rave.wien
+DTSTAMP:20250621T000000Z
+DTSTART;VALUE=DATE:20250621
+DTEND;VALUE=DATE:20250622
+SUMMARY:FUELIZED pres. Sessions Vol.3
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Fuelized\n\nhttps://rave.wien/e/2025-06-21-fuel
+ ized-pres-sessions-vol-3
+URL:https://rave.wien/e/2025-06-21-fuelized-pres-sessions-vol-3
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-23-derradio-celeste@rave.wien
+DTSTAMP:20250823T000000Z
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250824
+SUMMARY:DERRADIO @ CELESTE
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Der Radio\n\nhttps://rave.wien/e/2025-08-23-der
+ radio-celeste
+URL:https://rave.wien/e/2025-08-23-derradio-celeste
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-10-momentum-wird-6@rave.wien
+DTSTAMP:20251010T000000Z
+DTSTART;VALUE=DATE:20251010
+DTEND;VALUE=DATE:20251011
+SUMMARY:MOMENTUM WIRD 6
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-10-10-momentum-wird-6
+URL:https://rave.wien/e/2025-10-10-momentum-wird-6
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-11-between-us@rave.wien
+DTSTAMP:20251011T000000Z
+DTSTART;VALUE=DATE:20251011
+DTEND;VALUE=DATE:20251012
+SUMMARY:Between Us
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Between Us\n\nhttps://rave.wien/e/2025-10-11-be
+ tween-us
+URL:https://rave.wien/e/2025-10-11-between-us
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-18-auslander-haus-vol-10@rave.wien
+DTSTAMP:20251018T000000Z
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251019
+SUMMARY:Ausländer Haus! Vol 10
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Ausländer Haus\n\nhttps://rave.wien/e/2025-10-
+ 18-auslander-haus-vol-10
+URL:https://rave.wien/e/2025-10-18-auslander-haus-vol-10
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-01-pomelo-label-night@rave.wien
+DTSTAMP:20251101T000000Z
+DTSTART;VALUE=DATE:20251101
+DTEND;VALUE=DATE:20251102
+SUMMARY:POMELO label night
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-11-01-pomelo-label-night
+URL:https://rave.wien/e/2025-11-01-pomelo-label-night
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-14-drahrer-6-0-a-birthday-party@rave.wien
+DTSTAMP:20251114T000000Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:DRAHRER 6.0 – a birthday party
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-11-14-drahrer-6-0-a-birthday-party
+URL:https://rave.wien/e/2025-11-14-drahrer-6-0-a-birthday-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-15-disco-traurig-2025@rave.wien
+DTSTAMP:20251115T000000Z
+DTSTART;VALUE=DATE:20251115
+DTEND;VALUE=DATE:20251116
+SUMMARY:Disco Traurig 2025
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-11-15-disco-traurig-2025
+URL:https://rave.wien/e/2025-11-15-disco-traurig-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-21-clubbduzz@rave.wien
+DTSTAMP:20251121T000000Z
+DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251122
+SUMMARY:Clubbduzz
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-11-21-clubbduzz
+URL:https://rave.wien/e/2025-11-21-clubbduzz
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-22-rotations@rave.wien
+DTSTAMP:20251122T000000Z
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+SUMMARY:ROTATIONS
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-11-22-rotations
+URL:https://rave.wien/e/2025-11-22-rotations
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-29-kalte-das-celeste-wird-11@rave.wien
+DTSTAMP:20251129T000000Z
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:KÄLTE ! das celeste wird 11
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-11-29-kalte-das-celeste-wird-11
+URL:https://rave.wien/e/2025-11-29-kalte-das-celeste-wird-11
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-05-sama-recordings-pres-s-c-h-w-e-b-e-n@rave.wien
+DTSTAMP:20251205T000000Z
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:sama recordings pres. s c h w e b e n
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:e b e n\n\nhttps://rave.wien/e/2025-12-05-sama-recordings-pre
+ s-s-c-h-w-e-b-e-n
+URL:https://rave.wien/e/2025-12-05-sama-recordings-pres-s-c-h-w-e-b-e-n
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-31-resolution@rave.wien
+DTSTAMP:20251231T000000Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:Resolution
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2025-12-31-resolution
+URL:https://rave.wien/e/2025-12-31-resolution
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-17-club-desiree@rave.wien
+DTSTAMP:20260117T000000Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:Club Desiree
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-01-17-club-desiree
+URL:https://rave.wien/e/2026-01-17-club-desiree
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-24-between-us-emdb@rave.wien
+DTSTAMP:20260124T000000Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:Between Us + EMDB
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Between Us\n\nhttps://rave.wien/e/2026-01-24-be
+ tween-us-emdb
+URL:https://rave.wien/e/2026-01-24-between-us-emdb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-30-zyklopening@rave.wien
+DTSTAMP:20260130T000000Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:ZYKLOPENING
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-01-30-zyklopening
+URL:https://rave.wien/e/2026-01-30-zyklopening
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-31-auslander-haus-vol-14@rave.wien
+DTSTAMP:20260131T000000Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Ausländer Haus Vol 14
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Ausländer Haus\n\nhttps://rave.wien/e/2026-01-
+ 31-auslander-haus-vol-14
+URL:https://rave.wien/e/2026-01-31-auslander-haus-vol-14
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-20-celeste-selectors-3-0@rave.wien
+DTSTAMP:20260220T000000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:Celeste Selectors 3.0
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-02-20-celeste-selectors-3-0
+URL:https://rave.wien/e/2026-02-20-celeste-selectors-3-0
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-07-fusion-festa-7@rave.wien
+DTSTAMP:20260307T000000Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:Fusion Festa #7
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-03-07-fusion-festa-7
+URL:https://rave.wien/e/2026-03-07-fusion-festa-7
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-14-auslander-haus-vol-16@rave.wien
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:Ausländer Haus vol 16
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Ausländer Haus\n\nhttps://rave.wien/e/2026-03-
+ 14-auslander-haus-vol-16
+URL:https://rave.wien/e/2026-03-14-auslander-haus-vol-16
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-18-omvf-x-elektorni@rave.wien
+DTSTAMP:20260418T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:OMVF x ELEKTORNI
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-04-18-omvf-x-elektorni
+URL:https://rave.wien/e/2026-04-18-omvf-x-elektorni
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-01-freundschaft@rave.wien
+DTSTAMP:20260501T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:FREUNDSCHAFT!
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-05-01-freundschaft
+URL:https://rave.wien/e/2026-05-01-freundschaft
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-08-res-collective-party@rave.wien
+DTSTAMP:20260508T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:res:collective party
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-05-08-res-collective-party
+URL:https://rave.wien/e/2026-05-08-res-collective-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-15-3-years-of-hypertrash@rave.wien
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:3 YEARS OF HYPERTRASH
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Veranstalter: Hypertrash\n\nhttps://rave.wien/e/2026-05-15-3-
+ years-of-hypertrash
+URL:https://rave.wien/e/2026-05-15-3-years-of-hypertrash
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-22-50-herz@rave.wien
+DTSTAMP:20260522T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:50 Herz
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-05-22-50-herz
+URL:https://rave.wien/e/2026-05-22-50-herz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-13-the-house-of-funk@rave.wien
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:The House of Funk
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-06-13-the-house-of-funk
+URL:https://rave.wien/e/2026-06-13-the-house-of-funk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-11-nebelblau-volume-5@rave.wien
+DTSTAMP:20260711T000000Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Nebelblau Volume 5
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-07-11-nebelblau-volume-5
+URL:https://rave.wien/e/2026-07-11-nebelblau-volume-5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-22-am-topia@rave.wien
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:am:topia
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-08-22-am-topia
+URL:https://rave.wien/e/2026-08-22-am-topia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-28-homo-force@rave.wien
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Homo Force
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-08-28-homo-force
+URL:https://rave.wien/e/2026-08-28-homo-force
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-12-oase@rave.wien
+DTSTAMP:20260912T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:OASE
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-09-12-oase
+URL:https://rave.wien/e/2026-09-12-oase
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-krachklub@rave.wien
+DTSTAMP:20260918T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:KRACHKLUB
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:\nhttps://rave.wien/e/2026-09-18-krachklub
+URL:https://rave.wien/e/2026-09-18-krachklub
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-19-liccht-w-beyond-the-beat-a-p-y-g-a@rave.wien
+DTSTAMP:20260919T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:LICCHT w/ BEYOND THE BEAT (A)\, P:Y:G (A)
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Beyond The Beat\, P:y:g\n\nhttps://rave.wien/e/2026-09-19-lic
+ cht-w-beyond-the-beat-a-p-y-g-a
+URL:https://rave.wien/e/2026-09-19-liccht-w-beyond-the-beat-a-p-y-g-a
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-halloqueer@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T220000

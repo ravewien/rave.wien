@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-05-30-red-groove-social-club-x-hush-with-aat-simon-kidz@rave.wien
+DTSTAMP:20260530T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:RED GROOVE (Social Club) x HUSH with: AAT\, Simon Kidzoo & RED GR
+ OOVE SYSTEM
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:AAT\, Simon Kidzoo\, Red Groove System\nVeranstalter: Red Gro
+ ove Social Club\n\nhttps://rave.wien/e/2026-05-30-red-groove-social-club
+ -x-hush-with-aat-simon-kidz
+URL:https://rave.wien/e/2026-05-30-red-groove-social-club-x-hush-with-aat
+ -simon-kidz
+END:VEVENT
 END:VCALENDAR

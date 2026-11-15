@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-06-07-psyperience-birthday-bash-with-lsdirty@rave.wien
+DTSTAMP:20250607T000000Z
+DTSTART;VALUE=DATE:20250607
+DTEND;VALUE=DATE:20250608
+SUMMARY:PSYPERIENCE Birthday Bash with LsDirty
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:LsDirty\n\nhttps://rave.wien/e/2025-06-07-psyperience-birthda
+ y-bash-with-lsdirty
+URL:https://rave.wien/e/2025-06-07-psyperience-birthday-bash-with-lsdirty
+END:VEVENT
 END:VCALENDAR

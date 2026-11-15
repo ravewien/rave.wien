@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-07-13-sunsetechno-second-edition@rave.wien
+DTSTAMP:20250713T000000Z
+DTSTART;TZID=Europe/Vienna:20250713T140000
+DTEND;TZID=Europe/Vienna:20250713T220000
+SUMMARY:SunSETechno – Second Edition
+LOCATION:Porto Pollo\, Donauinsel 19\, 1220 Wien
+DESCRIPTION:Emeveka\, Monofade\, Noe Bortolussi\, Fede Fröstl\nEintritt:
+  freie Spende\n\nhttps://rave.wien/e/2025-07-13-sunsetechno-second-editi
+ on
+URL:https://rave.wien/e/2025-07-13-sunsetechno-second-edition
+END:VEVENT
 END:VCALENDAR

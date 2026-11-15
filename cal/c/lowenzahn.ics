@@ -25,4 +25,196 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-01-06-lowenzahn-epiphany-unleashed-w-cueless@rave.wien
+DTSTAMP:20240106T000000Z
+DTSTART;VALUE=DATE:20240106
+DTEND;VALUE=DATE:20240107
+SUMMARY:LÖWENZAHN | EPIPHANY unleashed w/ cueless
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:cueless\nVeranstalter: Löwenzahn\n\nhttps://rave.wien/e/2024
+ -01-06-lowenzahn-epiphany-unleashed-w-cueless
+URL:https://rave.wien/e/2024-01-06-lowenzahn-epiphany-unleashed-w-cueless
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-02-03-lowenzahn-w-jessi-herz@rave.wien
+DTSTAMP:20240203T000000Z
+DTSTART;VALUE=DATE:20240203
+DTEND;VALUE=DATE:20240204
+SUMMARY:LÖWENZAHN w/ Jessi Herz
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Jessi Herz\nVeranstalter: Löwenzahn\n\nhttps://rave.wien/e/2
+ 024-02-03-lowenzahn-w-jessi-herz
+URL:https://rave.wien/e/2024-02-03-lowenzahn-w-jessi-herz
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-03-02-lowenzahn-general-techno-de-restoration@rave.wien
+DTSTAMP:20240302T000000Z
+DTSTART;VALUE=DATE:20240302
+DTEND;VALUE=DATE:20240303
+SUMMARY:LÖWENZAHN | GENERAL TECHNO DE-RESTORATION
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Löwenzahn\n\nhttps://rave.wien/e/2024-03-02-lo
+ wenzahn-general-techno-de-restoration
+URL:https://rave.wien/e/2024-03-02-lowenzahn-general-techno-de-restoration
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-05-18-lowenzahn-general-techno-de-restoration-w-urna-so@rave.wien
+DTSTAMP:20240518T000000Z
+DTSTART;VALUE=DATE:20240518
+DTEND;VALUE=DATE:20240519
+SUMMARY:LÖWENZAHN | GENERAL TECHNO DE-RESTORATION w/ urna()sonic
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:urna()sonic\nVeranstalter: Löwenzahn\n\nhttps://rave.wien/e/
+ 2024-05-18-lowenzahn-general-techno-de-restoration-w-urna-so
+URL:https://rave.wien/e/2024-05-18-lowenzahn-general-techno-de-restoratio
+ n-w-urna-so
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-20-lowenzahn-general-techno-de-restoration@rave.wien
+DTSTAMP:20240720T000000Z
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240721
+SUMMARY:LÖWENZAHN | GENERAL TECHNO DE-RESTORATION
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Löwenzahn\n\nhttps://rave.wien/e/2024-07-20-lo
+ wenzahn-general-techno-de-restoration
+URL:https://rave.wien/e/2024-07-20-lowenzahn-general-techno-de-restoration
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-03-monochrom-rave-on-society-x-lowenzahn@rave.wien
+DTSTAMP:20240803T000000Z
+DTSTART;VALUE=DATE:20240803
+DTEND;VALUE=DATE:20240804
+SUMMARY:MONOCHROM – Rave On Society x Löwenzahn
+LOCATION:Pratersauna\, Waldsteingartenstraße 135\, 1020 Wien
+DESCRIPTION:Veranstalter: Löwenzahn\, Monochrom\, Rave On Society\n\nhtt
+ ps://rave.wien/e/2024-08-03-monochrom-rave-on-society-x-lowenzahn
+URL:https://rave.wien/e/2024-08-03-monochrom-rave-on-society-x-lowenzahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-31-lowenzahn-gurtel-nightwalk@rave.wien
+DTSTAMP:20240831T000000Z
+DTSTART;VALUE=DATE:20240831
+DTEND;VALUE=DATE:20240901
+SUMMARY:Löwenzahn @ GÜRTEL NIGHTWALK
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Löwenzahn\n\nhttps://rave.wien/e/2024-08-31-lo
+ wenzahn-gurtel-nightwalk
+URL:https://rave.wien/e/2024-08-31-lowenzahn-gurtel-nightwalk
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-10-25-lowenzahn-general-techno-de-restoration@rave.wien
+DTSTAMP:20241025T000000Z
+DTSTART;VALUE=DATE:20241025
+DTEND;VALUE=DATE:20241026
+SUMMARY:LÖWENZAHN | GENERAL TECHNO DE-RESTORATION
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Löwenzahn\n\nhttps://rave.wien/e/2024-10-25-lo
+ wenzahn-general-techno-de-restoration
+URL:https://rave.wien/e/2024-10-25-lowenzahn-general-techno-de-restoration
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-09-lowenzahn-general-techno-de-restoration@rave.wien
+DTSTAMP:20241109T000000Z
+DTSTART;VALUE=DATE:20241109
+DTEND;VALUE=DATE:20241110
+SUMMARY:LÖWENZAHN | GENERAL TECHNO DE-RESTORATION
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Löwenzahn\n\nhttps://rave.wien/e/2024-11-09-lo
+ wenzahn-general-techno-de-restoration
+URL:https://rave.wien/e/2024-11-09-lowenzahn-general-techno-de-restoration
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-30-lowenzahn-w-emma-keks-stephan-licha@rave.wien
+DTSTAMP:20241130T000000Z
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241201
+SUMMARY:LÖWENZAHN w/ Emma Keks & Stephan Licha
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Emma Keks\, Stephan Licha\nVeranstalter: Löwenzahn\n\nhttps:
+ //rave.wien/e/2024-11-30-lowenzahn-w-emma-keks-stephan-licha
+URL:https://rave.wien/e/2024-11-30-lowenzahn-w-emma-keks-stephan-licha
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-04-lowenzahn-reboot-rave@rave.wien
+DTSTAMP:20250104T000000Z
+DTSTART;VALUE=DATE:20250104
+DTEND;VALUE=DATE:20250105
+SUMMARY:LÖWENZAHN | REBOOT RAVE
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Löwenzahn\n\nhttps://rave.wien/e/2025-01-04-lo
+ wenzahn-reboot-rave
+URL:https://rave.wien/e/2025-01-04-lowenzahn-reboot-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-12-lowenzahn-general-techno-de-restoration@rave.wien
+DTSTAMP:20250412T000000Z
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250413
+SUMMARY:LÖWENZAHN | GENERAL TECHNO DE-RESTORATION
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Löwenzahn\n\nhttps://rave.wien/e/2025-04-12-lo
+ wenzahn-general-techno-de-restoration
+URL:https://rave.wien/e/2025-04-12-lowenzahn-general-techno-de-restoration
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-10-10-years-kramladen-w-lowenzahn@rave.wien
+DTSTAMP:20250510T000000Z
+DTSTART;VALUE=DATE:20250510
+DTEND;VALUE=DATE:20250511
+SUMMARY:10 YEARS KRAMLADEN w/ Löwenzahn
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Löwenzahn\n\nhttps://rave.wien/e/2025-05-10-10
+ -years-kramladen-w-lowenzahn
+URL:https://rave.wien/e/2025-05-10-10-years-kramladen-w-lowenzahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-28-lowenzahn-general-techno-de-restoration@rave.wien
+DTSTAMP:20250628T000000Z
+DTSTART;VALUE=DATE:20250628
+DTEND;VALUE=DATE:20250629
+SUMMARY:LÖWENZAHN | General Techno De-Restoration
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Löwenzahn\n\nhttps://rave.wien/e/2025-06-28-lo
+ wenzahn-general-techno-de-restoration
+URL:https://rave.wien/e/2025-06-28-lowenzahn-general-techno-de-restoration
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-18-lowenzahn-general-techno-de-restoration@rave.wien
+DTSTAMP:20251018T000000Z
+DTSTART;VALUE=DATE:20251018
+DTEND;VALUE=DATE:20251019
+SUMMARY:LÖWENZAHN | General Techno De-Restoration
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Löwenzahn\n\nhttps://rave.wien/e/2025-10-18-lo
+ wenzahn-general-techno-de-restoration
+URL:https://rave.wien/e/2025-10-18-lowenzahn-general-techno-de-restoration
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-25-lowenzahn-general-techno-de-restoration@rave.wien
+DTSTAMP:20260425T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:LÖWENZAHN | General Techno De-Restoration
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Löwenzahn\n\nhttps://rave.wien/e/2026-04-25-lo
+ wenzahn-general-techno-de-restoration
+URL:https://rave.wien/e/2026-04-25-lowenzahn-general-techno-de-restoration
+END:VEVENT
 END:VCALENDAR

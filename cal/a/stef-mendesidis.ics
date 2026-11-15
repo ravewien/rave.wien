@@ -25,4 +25,15 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-05-08-zuckerwatt-w-stef-mendesidis-live@rave.wien
+DTSTAMP:20260508T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:ZUCKERWATT w/ STEF MENDESIDIS live
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Stef Mendesidis\nVeranstalter: Zuckerwatt\n\nhttps://rave.wie
+ n/e/2026-05-08-zuckerwatt-w-stef-mendesidis-live
+URL:https://rave.wien/e/2026-05-08-zuckerwatt-w-stef-mendesidis-live
+END:VEVENT
 END:VCALENDAR

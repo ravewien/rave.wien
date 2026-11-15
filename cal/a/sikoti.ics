@@ -25,4 +25,26 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2025-03-01-somewhen-sikoti-impulse@rave.wien
+DTSTAMP:20250301T000000Z
+DTSTART;VALUE=DATE:20250301
+DTEND;VALUE=DATE:20250302
+SUMMARY:Somewhen & Sikoti | IMPULSE
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Somewhen\, Sikoti\nVeranstalter: Impulse\n\nhttps://rave.wien
+ /e/2025-03-01-somewhen-sikoti-impulse
+URL:https://rave.wien/e/2025-03-01-somewhen-sikoti-impulse
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-21-stay-acid-presents-54hz-with-sikoti@rave.wien
+DTSTAMP:20260221T000000Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:Stay Acid presents 54Hz with SIKOTI
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Sikoti\nVeranstalter: Stay Acid\n\nhttps://rave.wien/e/2026-0
+ 2-21-stay-acid-presents-54hz-with-sikoti
+URL:https://rave.wien/e/2026-02-21-stay-acid-presents-54hz-with-sikoti
+END:VEVENT
 END:VCALENDAR

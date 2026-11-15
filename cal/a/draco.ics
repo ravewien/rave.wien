@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-12-06-bass-bussi-with-draco@rave.wien
+DTSTAMP:20241206T000000Z
+DTSTART;VALUE=DATE:20241206
+DTEND;VALUE=DATE:20241207
+SUMMARY:Bass Bussi with Draco
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Draco\nVeranstalter: Bassbussi\n\nhttps://rave.wien/e/2024-12
+ -06-bass-bussi-with-draco
+URL:https://rave.wien/e/2024-12-06-bass-bussi-with-draco
+END:VEVENT
 END:VCALENDAR

@@ -25,4 +25,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2024-02-03-lowenzahn-w-jessi-herz@rave.wien
+DTSTAMP:20240203T000000Z
+DTSTART;VALUE=DATE:20240203
+DTEND;VALUE=DATE:20240204
+SUMMARY:LÖWENZAHN w/ Jessi Herz
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Jessi Herz\nVeranstalter: Löwenzahn\n\nhttps://rave.wien/e/2
+ 024-02-03-lowenzahn-w-jessi-herz
+URL:https://rave.wien/e/2024-02-03-lowenzahn-w-jessi-herz
+END:VEVENT
 END:VCALENDAR
