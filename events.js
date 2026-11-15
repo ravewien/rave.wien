@@ -1080,6 +1080,16 @@ const CG={
  "Der Radio": [
   "House",
   "UK Garage"
+ ],
+ "Galapa": [
+  "Deep House",
+  "Minimal",
+  "Acid",
+  "Tech House",
+  "Progressive House"
+ ],
+ "PUSH": [
+  "Hard Techno"
  ]
 };
 const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","909techno","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","Art Attech","AUDIO303","Auf der Lauer","Ausländer Haus","AWSM","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","BLUR","Bonkers","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Cybertribe","Cyclic Existence","Dance 2 House","Danza Obscura","Dark Pressure","Das Syndikat","DEAD END","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","It's George","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Klanggerecht","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","Meier","MEIOSISS","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Opération","Out of Space","Oxygene","Palazzo Recordings","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","SIGNAL","SIN","Slutlabs","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","The Academy","The Hive","The House of Funk","the zound partisans","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Ungeniert","Uniquely Journeys","Unkwn","Untz Baby Untz","up/or","Vangardist","Ventil Records","Verknallt","Vertigo","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wyldhearts","Xperiment","Xperiment Records","YE","YN","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
@@ -3904,13 +3914,14 @@ const CI={
    "TTG"
   ],
   "tix": "https://tattutattaglub.ticket.io/",
-  "noLogo": "2026-11-03",
+  "noLogo": "2026-11-15",
   "src": [
    "https://ra.co/events/2153024",
    "https://ra.co/promoters/151097",
    "https://de.ra.co/events/1999601"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "ig": "https://www.instagram.com/tattutattaglub/"
  },
  "Step to Tek": {
   "de": "Step to Tek ist eine Partyreihe für treibenden Tekno, Acid und Underground-Sound, die in Wien u. a. im Das Werk (als „Step to Tek XL“), im Ponyhof und im Black Market veranstaltet hat. Die Events setzen auf ein Awareness-Team und eine klare Haltung gegen Diskriminierung.",
@@ -3921,12 +3932,12 @@ const CI={
   "alias": [
    "Step To Tek XL"
   ],
-  "noLogo": "2026-11-03",
+  "noLogo": "2026-11-15",
   "src": [
    "https://de.ra.co/events/2163897",
    "https://ra.co/events/1571062"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-15"
  },
  "Soundlabs": {
   "de": "Soundlabs ist ein Wiener Veranstalter mit eigenen Residents, bekannt für den kostenlosen Open-Air „ressel:rave“ im Resselpark am Karlsplatz (seit 2024). Clubnächte mit Techno und basslastigen Sounds gibt es u. a. im FLUCC, in The Loft und in der Grelle Forelle.",
@@ -4620,11 +4631,14 @@ const CI={
   ],
   "src": [
    "https://ra.co/events/2412268",
-   "https://ra.co/events/2475933"
+   "https://ra.co/events/2475933",
+   "https://ra.co/labels/26167"
   ],
   "from": "Wien",
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-03",
+  "founded": "2024",
+  "logo": "https://static.ra.co/images/labels/galapagrooves.jpg?dateUpdated=1760437498280"
  },
  "Hart Lab": {
   "de": "Wiener Projekt mit Fokus auf die experimentellere und alternative Seite von Techno, mit eigenem Bandcamp-Label. Partys u. a. im Tagada, FLUCC und Das Werk, mit Techno und Acid.",
@@ -4673,8 +4687,9 @@ const CI={
   "src": [
    "https://flucc.at/events/ZRzuEE-schlachthaus/"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "ig": "https://www.instagram.com/schlachthaus.vienna/"
  },
  "VVAX": {
   "de": "Reine Vinyl-Techno-Nacht („100% Vinyl Techno Experience“, „Vienna's only vinyl techno night“) mit tiefem, rohem und hypnotischem Techno; u. a. im FLUCC, Kramladen und Club Lucia.",
@@ -4694,10 +4709,19 @@ const CI={
   "de": "Initiative in der Grelle Forelle, die neben Partys (u. a. mit Carmen Electro, Lucia Lu und Überkikz) auch von der Stadt Wien geförderte DJ-Workshops für FLINTA* aller Levels veranstaltet.",
   "en": "Initiative at Grelle Forelle that, besides parties (with Carmen Electro, Lucia Lu and Überkikz, among others), runs DJ workshops for FLINTA* of all levels supported by the City of Vienna.",
   "src": [
-   "https://es.ra.co/events/2269758"
+   "https://es.ra.co/events/2269758",
+   "https://ra.co/labels/20984",
+   "https://ra.co/events/2120699"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-03",
+  "ig": "https://www.instagram.com/push_network/",
+  "founded": "2021",
+  "logo": "https://static.ra.co/images/labels/push-femaledjnetwork.jpg?dateUpdated=1701858494917",
+  "alias": [
+   "PUSH - Female DJ Network",
+   "Push Network"
+  ]
  },
  "Endless Grooves": {
   "de": "Nummerierte Reihe im SASS Music Club mit Tech House und Deep House und wechselnden Special Guests, veranstaltet vom Kollektiv Groove Operators.",
@@ -4709,8 +4733,8 @@ const CI={
    "https://ra.co/events/2469192",
    "https://ra.co/events/2385899"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Deep Dive": {
   "de": "Wiener House-Reihe („the deep dive into house music and all its facets“) mit Minimal, Deep Tech, Tech House und Deep House; Events u. a. im SASS Music Club, im Camera Club und im FLUCC.",
