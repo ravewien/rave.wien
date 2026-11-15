@@ -9933,9 +9933,22 @@ const AR={
  },
  "DizzyDray": {
   "noLinks": "2026-11-03",
-  "noImg": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "spChk": "2026-11-15"
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15",
+  "links": {
+   "ig": "https://www.instagram.com/d1zzydray/"
+  },
+  "sets": [
+   {
+    "t": "DIZZYDRAY @ Skigaudi DJ Contest 2024",
+    "u": "https://soundcloud.com/skigaudi/dizzydray-skigaudi-dj-contest"
+   }
+  ],
+  "src": [
+   "https://www.instagram.com/d1zzydray/",
+   "https://soundcloud.com/skigaudi/dizzydray-skigaudi-dj-contest"
+  ]
  },
  "Vanessa Sa": {
   "links": {
@@ -10149,7 +10162,7 @@ const AR={
    }
   ],
   "setsChecked": "2026-11-02",
-  "noImg": "2026-11-03",
+  "noImg": "2026-11-15",
   "genres": [
    "Techno"
   ],
@@ -10164,7 +10177,7 @@ const AR={
    "https://soundcloud.com/joro_und_joabo/peaktimetechno0722",
    "https://www.instagram.com/joro.und.joabo/"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Atomik": {
@@ -11310,8 +11323,23 @@ const AR={
  "Hanno": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15",
+  "img": "https://static.ra.co/images/profiles/square/hanno.jpg?dateUpdated=1738922596000",
+  "links": {
+   "ra": "https://ra.co/dj/hanno"
+  },
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "Hanno ist ein*e DJ aus Deutschland, der Schwerpunkt der Auftritte liegt in München, u. a. im Legal, im Goldenen Reiter, im Charlie und bei Toy Tonics Jam im LIVE EVIL. In Wien spielte Hanno bereits bei Housetiere in der Tagada.",
+   "en": "Hanno is a DJ from Germany whose gigs centre on Munich, including Legal, Goldener Reiter, Charlie and Toy Tonics Jam at LIVE EVIL. In Vienna, Hanno has already played Housetiere at Tagada."
+  },
+  "src": [
+   "https://ra.co/dj/hanno"
+  ]
  },
  "Meltdown": {
   "noImg": "2026-11-03",
@@ -12669,8 +12697,8 @@ const AR={
    "https://soundcloud.com/alexrot",
    "https://soundcloud.com/alexrot/alex-rot-elektro-goenner-mix"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "alias": [
    "Alex Rot"
   ],
@@ -13144,12 +13172,12 @@ const AR={
   "spChk": "2026-11-15"
  },
  "PA_olo": {
-  "noImg": "2026-11-03",
+  "noImg": "2026-11-15",
   "src": [
    "https://ra.co/events/1986880",
    "https://soundcloud.com/pa_olo"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "links": {
    "sc": "https://soundcloud.com/pa_olo"
   },
@@ -16574,9 +16602,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Sebastian Wagner": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Sabina": {
@@ -17652,8 +17680,8 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Bornvoyage": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/bornvoyage"
@@ -17785,8 +17813,8 @@ const AR={
    "https://www.theloft.at/sub-zero/"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Ludviq": {
@@ -18548,9 +18576,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Christella": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "DJ Keshi": {
@@ -19089,9 +19117,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Nasty": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "bio": {
    "de": "Nasty ist ein Techno-DJ-Act, der in Wien u. a. bei TATTU TATTA GLUB in der Grelle Forelle spielte und bei der Reihe Teknoteka im Kramladen auflegt.",
    "en": "Nasty is a techno DJ act who has played TATTU TATTA GLUB at Grelle Forelle in Vienna and plays the Teknoteka series at Kramladen, among others."
@@ -19233,9 +19261,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Romanova": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "_ra_di_aa_ti_on_": {
@@ -19487,12 +19515,20 @@ const AR={
   "src": [
    "https://soundcloud.com/psynonima",
    "https://www.instagram.com/djane_psynonima/",
-   "https://soundcloud.com/psynonima/sets/mystic-spiral-compiled-by-djane-psynonima"
+   "https://soundcloud.com/psynonima/sets/mystic-spiral-compiled-by-djane-psynonima",
+   "https://obeta.ttef.in/culture/meet-psynonima-the-queen-of-hitech-from-spain/cid/1831736"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "spChk": "2026-11-15",
+  "from": {
+   "de": "Barcelona, Spanien",
+   "en": "Barcelona, Spain"
+  },
+  "alias": [
+   "Miriam Serrano"
+  ]
  },
  "THAO": {
   "img": "https://static.ra.co/images/profiles/square/thao.jpg?dateUpdated=1781720521777",
@@ -20048,9 +20084,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Vivid": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Van:Hill": {
@@ -20457,9 +20493,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "missantroop": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "MAWU": {
@@ -20720,7 +20756,7 @@ const AR={
   "spChk": "2026-11-15"
  },
  "403Vorbidden": {
-  "noImg": "2026-11-03",
+  "noImg": "2026-11-15",
   "links": {
    "sc": "https://soundcloud.com/403vorbidden",
    "ig": "https://www.instagram.com/403vorbidden/"
@@ -20736,7 +20772,7 @@ const AR={
    "https://soundcloud.com/403vorbidden",
    "https://www.instagram.com/403vorbidden/"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "WONKA CTK": {
@@ -48021,9 +48057,9 @@ const AR={
   "festivals": [
    "Electric Love"
   ],
-  "noImg": "2026-11-08",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08",
+  "infoChk": "2026-11-15",
   "src": [
    "https://www.electriclove.at/en/artist/medun-2/"
   ],
@@ -48204,9 +48240,9 @@ const AR={
   "setsChecked": "2026-11-15"
  },
  "Neoteric x Alerta": {
-  "noImg": "2026-11-09",
-  "noLinks": "2026-11-09",
-  "infoChk": "2026-11-09",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Booster Club": {
@@ -48320,10 +48356,21 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/umafricana"
   },
-  "noImg": "2026-11-09",
-  "infoChk": "2026-11-09",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
   "setsChecked": "2026-11-09",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "bio": {
+   "de": "UMAFRICANA ist das DJ-Projekt von Sandra Baldé, DJ, Autorin und Unternehmerin, geboren in Portugal mit Wurzeln in Guinea-Bissau. Ihre Sets verbinden afrikanische Rhythmen wie Afrobeat und Amapiano mit amerikanischem Pop/R&B und lateinamerikanischen Einflüssen. Sie gründete shayo.club und ist Mitgründerin von goddess.fest.",
+   "en": "UMAFRICANA is the DJ project of Sandra Baldé, a DJ, writer and entrepreneur born in Portugal with roots in Guinea-Bissau. Her sets blend African rhythms such as Afrobeat and Amapiano with American pop/R&B and Latin influences. She founded shayo.club and co-founded goddess.fest."
+  },
+  "from": {
+   "de": "Portugal",
+   "en": "Portugal"
+  },
+  "src": [
+   "https://oroko.live/radio/long-distance-invites-umafricana"
+  ]
  },
  "Miss Roshni": {
   "links": {
@@ -48832,8 +48879,8 @@ const AR={
    "https://soundcloud.com/klangmassaker",
    "https://soundcloud.com/soundlabpirates/klangmassaker-the-sense-of"
   ],
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "setsChecked": "2026-11-15",
   "spChk": "2026-11-15"
  },
@@ -49352,9 +49399,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Nightcrawler": {
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Raw Kickzz": {
@@ -49464,9 +49511,9 @@ const AR={
   "setsChecked": "2026-11-15"
  },
  "Kork": {
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
-  "infoChk": "2026-11-11",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Gurkal²³": {
@@ -49488,9 +49535,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Lee U Mash": {
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
-  "infoChk": "2026-11-11",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Opthix": {
@@ -49817,9 +49864,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Dunik": {
-  "infoChk": "2026-11-12",
-  "noImg": "2026-11-12",
-  "noLinks": "2026-11-12",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Michkx": {
@@ -50374,9 +50421,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "DJ Hill's Sunday": {
-  "infoChk": "2026-11-14",
-  "noImg": "2026-11-14",
-  "noLinks": "2026-11-14",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Dan.P": {
@@ -50421,6 +50468,29 @@ const AR={
   ],
   "setsChecked": "2026-11-15",
   "spChk": "2026-11-15",
+  "infoChk": "2026-11-15"
+ },
+ "Virgin Helena": {
+  "img": "https://static.ra.co/images/profiles/virginhelena.jpg?dateUpdated=1348793836333",
+  "links": {
+   "ra": "https://ra.co/dj/virginhelena",
+   "sc": "https://soundcloud.com/virgin-helena"
+  },
+  "from": {
+   "de": "Kroatien",
+   "en": "Croatia"
+  },
+  "labels": [
+   "Flavorite"
+  ],
+  "bio": {
+   "de": "Virgin Helena gilt als erste weibliche DJ Kroatiens und war Resident im Quorum Colours in Opatija. 1997 zog sie nach Wien und wurde in der internationalen Underground-Szene bekannt. 1999 erschien „The Porn HeadQuarters“ mit Valentino Kanzyani auf Primary Records, 2010 „Happy Trails“ mit Lori J Ward und Teo Orlando auf Flavorite Music.",
+   "en": "Virgin Helena is regarded as Croatia's first female DJ and held a residency at Quorum Colours in Opatija. She moved to Vienna in 1997 and became known in the international underground scene. In 1999 she released 'The Porn HeadQuarters' with Valentino Kanzyani on Primary Records, followed in 2010 by 'Happy Trails' with Lori J Ward and Teo Orlando on Flavorite Music."
+  },
+  "src": [
+   "https://ra.co/dj/virginhelena",
+   "https://ra.co/dj/virginhelena/biography"
+  ],
   "infoChk": "2026-11-15"
  }
 };
