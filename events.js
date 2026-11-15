@@ -7817,7 +7817,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/annaullrich",
    "ig": "https://www.instagram.com/annaullrich",
-   "ra": "https://ra.co/dj/annaullrich"
+   "ra": "https://ra.co/dj/annaullrich",
+   "sp": "https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN"
   },
   "src": [
    "https://de.ra.co/dj/annaullrich",
@@ -7863,7 +7864,8 @@ const AR={
    "If I Could (2025)"
   ],
   "img": "https://static.ra.co/images/profiles/square/annaullrich.jpg?dateUpdated=1730818382000",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "spChk": "2026-11-15"
  },
  "pengg": {
   "links": {
@@ -8837,7 +8839,8 @@ const AR={
    "de": "PAUNA ist eine Wiener Techno-DJ mit rumänischen Wurzeln, deren Sets von hypnotischen Grooves, atmosphärischer Tiefe und roher Intensität geprägt sind. Sie ist Kernmitglied von RAW SESSION, Mitgründerin von ALERT[A] und moderiert die Sendung „Wiener Wohnzimmer“ auf Evosonic Radio; Auftritte führten sie u. a. nach Berlin und Lissabon.",
    "en": "PAUNA is a Vienna-based techno DJ with Romanian roots whose sets are defined by hypnotic grooves, atmospheric depth and raw intensity. She is a core member of RAW SESSION, co-founder of ALERT[A] and hosts the show \"Wiener Wohnzimmer\" on Evosonic Radio; she has also played in Berlin and Lisbon."
   },
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "spChk": "2026-11-15"
  },
  "Huebl": {
   "links": {
@@ -8931,7 +8934,8 @@ const AR={
    "de": "Spud Bencer ist ein Wiener DJ, der seit rund zehn Jahren auflegt, u. a. in The Loft, Grelle Forelle, B72 und PRST.",
    "en": "Spud Bencer is a Vienna-based DJ who has been playing for around ten years, including at The Loft, Grelle Forelle, B72 and PRST."
   },
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Paraçek": {
   "links": {
@@ -11281,7 +11285,8 @@ const AR={
  "Hanno": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Meltdown": {
   "noImg": "2026-11-03",
@@ -11466,12 +11471,14 @@ const AR={
   },
   "links": {
    "ra": "https://de.ra.co/dj/djobserver",
-   "web": "https://www.djobserver.com"
+   "web": "https://www.djobserver.com",
+   "sp": "https://open.spotify.com/artist/2j3TG1qevvAvyzolL4APz5"
   },
   "src": [
    "https://de.ra.co/dj/djobserver"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-15"
  },
  "THAM": {
   "img": "https://static.ra.co/images/profiles/tham.jpg?dateUpdated=1471451515047",
@@ -12277,7 +12284,8 @@ const AR={
  "Nikilist": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "KRISTUS": {
   "infoChk": "2026-10-31",
@@ -12383,7 +12391,8 @@ const AR={
     "u": "https://soundcloud.com/dj-mike-mystic/techneck-techno-tuesday-3924"
    }
   ],
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Zuckerfrei": {
   "infoChk": "2026-11-03",
@@ -12841,7 +12850,8 @@ const AR={
     "u": "https://soundcloud.com/analogiquemusic/radio-analogique-djset-by-edictum"
    }
   ],
-  "setsChecked": "2026-11-09"
+  "setsChecked": "2026-11-09",
+  "spChk": "2026-11-15"
  },
  "Matt Ludlam": {
   "infoChk": "2026-11-03",
@@ -13892,7 +13902,8 @@ const AR={
   "src": [
    "https://ra.co/dj/adrialin"
   ],
-  "infoChk": "2026-11-01"
+  "infoChk": "2026-11-01",
+  "spChk": "2026-11-15"
  },
  "Enoltra": {
   "img": "https://f4.bcbits.com/img/0030125330_21.jpg",
@@ -15967,7 +15978,8 @@ const AR={
    "https://soundcloud.com/vlanradio/ironicalosculos-250522"
   ],
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-03"
+  "noImg": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Fairy Mary": {
   "infoChk": "2026-11-03",
@@ -16191,7 +16203,8 @@ const AR={
    "https://soundcloud.com/fede-froestl/set-125",
    "https://soundcloud.com/fede-froestl/set-kramladen"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "finster": {
   "infoChk": "2026-11-03",
@@ -16998,7 +17011,8 @@ const AR={
    "https://festapp.io/es/artists/boom-shankar"
   ],
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-03"
+  "noImg": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "AVO2X": {
   "img": "https://static.ra.co/images/profiles/square/avo2x.jpg?dateUpdated=1678964293000",
@@ -17189,7 +17203,8 @@ const AR={
    "https://fr.ra.co/dj/anxhela/biography",
    "https://trifec.one/anxhela/"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Andrew Ahmed": {
   "infoChk": "2026-11-03",
@@ -17363,7 +17378,8 @@ const AR={
   },
   "genres": [
    "Drum & Bass"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Alezzaro": {
   "links": {
@@ -17401,7 +17417,8 @@ const AR={
   },
   "labels": [
    "IONO MUSIC"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Armin Schmelz": {
   "links": {
@@ -18039,7 +18056,8 @@ const AR={
   "src": [
    "https://soundcloud.com/liloshh",
    "https://soundcloud.com/live-at-robert-johnson/live-at-robert-johnson-x-radio-80k-lilosh"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Louk": {
   "infoChk": "2026-11-03",
@@ -18320,7 +18338,8 @@ const AR={
    "ra": "https://ra.co/dj/davidphoenix",
    "sc": "https://soundcloud.com/davidphoenixdj",
    "ig": "https://www.instagram.com/davidphoenixdj",
-   "bc": "https://davidphoenix.bandcamp.com"
+   "bc": "https://davidphoenix.bandcamp.com",
+   "sp": "https://open.spotify.com/artist/74v6lfMqZ9iyjhuxbfiI0W"
   },
   "from": {
    "de": "Österreich",
@@ -18364,7 +18383,8 @@ const AR={
    "https://davidphoenix.bandcamp.com/music",
    "https://soundcloud.com/davidphoenixdj"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "CREEDS": {
   "links": {
@@ -18571,6 +18591,22 @@ const AR={
    "https://www.time-warp.de/artists/karotte/",
    "https://www.vol.at/die-deutsche-techno-legende-karotte-legt-zum-ersten-mal-in-brand-auf/9277010",
    "https://warda.at/?p=71350"
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15",
+  "sets": [
+   {
+    "t": "Karotte @ Karottes Kitchen 11-09-2024",
+    "u": "https://soundcloud.com/karotteskitchen/karotte-karottes-kitchen-11-09-2024"
+   },
+   {
+    "t": "Karotte for mayday Dortmund 2022 (exclusive set for sunshine live mayday special 22.04.22)",
+    "u": "https://soundcloud.com/karotteskitchen/karotte-for-mayday-dortmund-2022-exclusive-set-for-sunshine-live-mayday-special-220422"
+   },
+   {
+    "t": "Gregor Tresher b2b Karotte @ World Club Dome Pool Sessions, Frankfurt, 07.06.2020",
+    "u": "https://soundcloud.com/gregortresher/gregor-tresher-b2b-karotte-world-club-dome-pool-sessions-frankfurt-07062020"
+   }
   ]
  },
  "Crazy Sonic": {
@@ -19116,7 +19152,8 @@ const AR={
  "Paul Galbur": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Romanova": {
   "infoChk": "2026-11-03",
@@ -19745,7 +19782,9 @@ const AR={
   "from": {
    "de": "Wien",
    "en": "Vienna"
-  }
+  },
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Tim Kern": {
   "img": "https://static.ra.co/images/profiles/square/timkern.jpg?dateUpdated=1618904917000",
@@ -19931,7 +19970,8 @@ const AR={
     "u": "https://soundcloud.com/vanhilldnb/vanhill-b2b-jalen-mess"
    }
   ],
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "WNR": {
   "infoChk": "2026-11-03",
@@ -20120,7 +20160,8 @@ const AR={
   ],
   "setsChecked": "2026-11-02",
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-03"
+  "noImg": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Mitra": {
   "img": "https://dev2.elevate.at/fileadmin/EIS_images/artist/2687/9157-Mitra_1280x853.png",
@@ -20140,7 +20181,8 @@ const AR={
    "https://dev2.elevate.at/en/music/artists/mitra"
   ],
   "infoChk": "2026-11-04",
-  "noLinks": "2026-11-04"
+  "noLinks": "2026-11-04",
+  "spChk": "2026-11-15"
  },
  "MANY MAMMUT": {
   "links": {
@@ -20310,7 +20352,8 @@ const AR={
  "MAWU": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Mr. Highfi": {
   "infoChk": "2026-11-03",
@@ -20517,7 +20560,23 @@ const AR={
    "https://de.ra.co/dj/diskohengst",
    "https://de.ra.co/events/2129931"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15",
+  "sets": [
+   {
+    "t": "Diskohengst & Tom Kutsche Live in Cologne 2/12/22",
+    "u": "https://soundcloud.com/daszuendet/diskohengst-tom-kutsche-live-in-cologne-21222"
+   },
+   {
+    "t": "Diskohengst - Krauts Can Boogie Too",
+    "u": "https://soundcloud.com/diskohengst/diskohengst-krauts-can-boogie-too"
+   },
+   {
+    "t": "Diskohengst & Toni Clarke (Vinly Only Set) @ Hot Pony, May 2017",
+    "u": "https://soundcloud.com/hotpony/diskohengst-toni-clarke-vinly-only-set-hot-pony-may-2017"
+   }
+  ]
  },
  "chris deeper": {
   "img": "https://static.ra.co/images/profiles/square/chrisdeeper.jpg?dateUpdated=1736989922000",
@@ -23700,7 +23759,8 @@ const AR={
    "https://soundcloud.com/berlinhousemusic/premiere-manu-script-nasty-gregory-at-remix-endless-music"
   ],
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-03"
+  "noImg": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Van der Wiese": {
   "links": {
@@ -24788,7 +24848,8 @@ const AR={
    "https://ra.co/dj/djdeadlift",
    "https://soundcloud.com/deadlift_rdvdr"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Marco Bailey": {
   "img": "https://static.ra.co/images/profiles/square/marcobailey.jpg?dateUpdated=1492453403377",
@@ -29354,7 +29415,9 @@ const AR={
   "src": [
    "https://de.ra.co/dj/tausend2o"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Dimitrios": {
   "img": "https://static.ra.co/images/profiles/square/dimitrios-2.jpg?dateUpdated=1738749271000",
@@ -43025,7 +43088,8 @@ const AR={
  "DJ Wolle": {
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
-  "noLinks": "2026-11-04"
+  "noLinks": "2026-11-04",
+  "spChk": "2026-11-15"
  },
  "Wurstsalon": {
   "infoChk": "2026-11-04",
@@ -46075,7 +46139,8 @@ const AR={
  "SoDa": {
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
-  "noLinks": "2026-11-04"
+  "noLinks": "2026-11-04",
+  "spChk": "2026-11-15"
  },
  "Dora": {
   "noImg": "2026-11-04",
@@ -47080,7 +47145,8 @@ const AR={
  "BON": {
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "spChk": "2026-11-15"
  },
  "ILLA": {
   "noImg": "2026-11-04",
@@ -47206,7 +47272,9 @@ const AR={
    "https://de.ra.co/dj/a_phan"
   ],
   "noImg": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Lamsi": {
   "img": "https://static.ra.co/images/profiles/square/lamsi.jpg?dateUpdated=1682067840000",
@@ -47530,7 +47598,8 @@ const AR={
  "Laerm": {
   "infoChk": "2026-11-07",
   "noImg": "2026-11-07",
-  "noLinks": "2026-11-07"
+  "noLinks": "2026-11-07",
+  "spChk": "2026-11-15"
  },
  "bobbyyxjohnson": {
   "infoChk": "2026-11-07",
@@ -47735,6 +47804,21 @@ const AR={
   "src": [
    "https://ra.co/dj/kshmr",
    "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+  ],
+  "setsChecked": "2026-11-15",
+  "sets": [
+   {
+    "t": "Welcome To KSHMR Volume 7",
+    "u": "https://soundcloud.com/kshmr/welcome-to-kshmr-volume-7"
+   },
+   {
+    "t": "Welcome To KSHMR Vol. 5",
+    "u": "https://soundcloud.com/kshmr/welcome-to-kshmr-vol-5"
+   },
+   {
+    "t": "Welcome To KSHMR Vol. 4: Genesis",
+    "u": "https://soundcloud.com/kshmr/welcome-to-kshmr-vol-4-genesis"
+   }
   ]
  },
  "SHIZZLE": {
@@ -47815,6 +47899,18 @@ const AR={
   "infoChk": "2026-11-08",
   "src": [
    "https://littlebeatmore.bandcamp.com"
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15",
+  "sets": [
+   {
+    "t": "Little Beat More #2 on Radio Alhara",
+    "u": "https://soundcloud.com/littlebeatmore/little-beat-more-2-on-radio-alhara"
+   },
+   {
+    "t": "Obolo Music Session #3 - Woxow (Little Beat More)",
+    "u": "https://www.mixcloud.com/littlebeatmore/obolo-music-session-3-woxow-little-beat-more/"
+   }
   ]
  },
  "WESH": {
@@ -47864,12 +47960,14 @@ const AR={
  "Harry Knaypp": {
   "noImg": "2026-11-08",
   "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08"
+  "infoChk": "2026-11-08",
+  "spChk": "2026-11-15"
  },
  "Polo": {
   "noImg": "2026-11-08",
   "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08"
+  "infoChk": "2026-11-08",
+  "spChk": "2026-11-15"
  },
  "Housefrau": {
   "noImg": "2026-11-09",
@@ -48028,7 +48126,8 @@ const AR={
   },
   "noImg": "2026-11-09",
   "infoChk": "2026-11-09",
-  "setsChecked": "2026-11-09"
+  "setsChecked": "2026-11-09",
+  "spChk": "2026-11-15"
  },
  "Kann&Will": {
   "infoChk": "2026-11-10",
@@ -48266,6 +48365,22 @@ const AR={
   "src": [
    "https://ra.co/dj/fafiabdelnour",
    "https://ra.co/news/80817"
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15",
+  "sets": [
+   {
+    "t": "Fafi Abdel Nour at Lentekabinet 2024",
+    "u": "https://soundcloud.com/dkmntl/fafi-abdel-nour-at-lentekabinet-2024"
+   },
+   {
+    "t": "Fafi Abdel Nour at Dekmantel Selectors 2024",
+    "u": "https://soundcloud.com/dkmntl/fafi-abdel-nour-at-dekmantel-selectors-2024"
+   },
+   {
+    "t": "Fafi Abdel Nour at Dekmantel Selectors 2022",
+    "u": "https://soundcloud.com/dkmntl/fafi-abdel-nour-at-dekmantel-selectors-2022"
+   }
   ]
  },
  "Gerd Janson": {
@@ -48403,7 +48518,8 @@ const AR={
   "infoChk": "2026-11-10",
   "src": [
    "https://soundcloud.com/sama-recordings/sets/sama004-ambient-animal"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "POSI FLO": {
   "links": {
@@ -48417,7 +48533,8 @@ const AR={
     "u": "https://soundcloud.com/coppiberlin/posi-flo-coppi-07082025-1"
    }
   ],
-  "setsChecked": "2026-11-10"
+  "setsChecked": "2026-11-10",
+  "spChk": "2026-11-15"
  },
  "Dijay Qualle": {
   "links": {
@@ -48696,7 +48813,8 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/waqwaqkingdom",
    "ig": "https://www.instagram.com/waqwaqkingdom/",
-   "web": "https://waqwaqkingdom.com/"
+   "web": "https://waqwaqkingdom.com/",
+   "sp": "https://open.spotify.com/artist/4in9NY36a5EllSTje5liC5"
   },
   "src": [
    "https://ra.co/dj/waqwaqkingdom",
@@ -48704,7 +48822,8 @@ const AR={
    "https://ra.co/news/73268",
    "https://ra.co/events/2580457"
   ],
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Catu Diosis": {
   "from": {
@@ -48890,7 +49009,9 @@ const AR={
    "https://soundcloud.com/activeelementz"
   ],
   "noImg": "2026-11-11",
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Delighted": {
   "from": {
@@ -48941,7 +49062,8 @@ const AR={
    "https://open.spotify.com/artist/2Esmvh0vyS639iZGlAJZYh",
    "https://open.spotify.com/track/46OoLEm52m4xDEpixneLiE"
   ],
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "setsChecked": "2026-11-15"
  },
  "Likeflow": {
   "infoChk": "2026-11-11",
@@ -48952,7 +49074,8 @@ const AR={
  "Nightcrawler": {
   "infoChk": "2026-11-11",
   "noImg": "2026-11-11",
-  "noLinks": "2026-11-11"
+  "noLinks": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Raw Kickzz": {
   "infoChk": "2026-11-11",
@@ -49069,7 +49192,8 @@ const AR={
  "Lee U Mash": {
   "noImg": "2026-11-11",
   "noLinks": "2026-11-11",
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Opthix": {
   "img": "https://i.scdn.co/image/ab6761610000e5eb45d8a2a1acdc61d7556688bb",
@@ -49318,7 +49442,8 @@ const AR={
  "Franco": {
   "infoChk": "2026-11-12",
   "noImg": "2026-11-12",
-  "noLinks": "2026-11-12"
+  "noLinks": "2026-11-12",
+  "spChk": "2026-11-15"
  },
  "Doudou MD": {
   "img": "https://static.ra.co/images/profiles/square/doudoumd.jpg?dateUpdated=1636541539000",
@@ -49383,7 +49508,9 @@ const AR={
   "src": [
    "https://ra.co/dj/kill.db"
   ],
-  "infoChk": "2026-11-12"
+  "infoChk": "2026-11-12",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "ARX": {
   "infoChk": "2026-11-12",
@@ -49407,7 +49534,8 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/audreydanza",
    "sc": "https://soundcloud.com/audreydanza",
-   "ig": "https://www.instagram.com/audreydanza/"
+   "ig": "https://www.instagram.com/audreydanza/",
+   "sp": "https://open.spotify.com/artist/1b1aoq4MxiQ9EsmH69A48O"
   },
   "from": {
    "de": "Schweiz",
@@ -49426,7 +49554,23 @@ const AR={
   "src": [
    "https://ra.co/dj/audreydanza"
   ],
-  "infoChk": "2026-11-12"
+  "infoChk": "2026-11-12",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15",
+  "sets": [
+   {
+    "t": "Audrey Danza @ Proxima x Motel Campo (2024)",
+    "u": "https://soundcloud.com/audreydanza/audrey-danza-proxima-x-motel-campo"
+   },
+   {
+    "t": "Electron Festival : Audrey Danza",
+    "u": "https://soundcloud.com/audreydanza/audrey-danza-electron-festival-mix"
+   },
+   {
+    "t": "PURE Guest.078 Audrey Danza",
+    "u": "https://soundcloud.com/pureg/audreydanza"
+   }
+  ]
  },
  "Acidic Juice": {
   "img": "https://static.ra.co/images/profiles/square/acidicjuice.jpg?dateUpdated=1792571423590",
@@ -49725,7 +49869,8 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/third2hift",
    "sc": "https://soundcloud.com/third_2hift",
-   "ig": "https://www.instagram.com/third_2hift/"
+   "ig": "https://www.instagram.com/third_2hift/",
+   "sp": "https://open.spotify.com/artist/3xVV97BIDMRTB8exNhARD2"
   },
   "infoChk": "2026-11-13",
   "src": [
@@ -49740,7 +49885,8 @@ const AR={
     "u": "https://soundcloud.com/dead-end1/deadcast-x-third-2hift-resident-edition"
    }
   ],
-  "setsChecked": "2026-11-13"
+  "setsChecked": "2026-11-13",
+  "spChk": "2026-11-15"
  },
  "Autonomuse": {
   "from": {
