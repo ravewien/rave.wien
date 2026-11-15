@@ -161,16 +161,17 @@ BEGIN:VEVENT
 UID:2027-01-22-ueberrest@rave.wien
 DTSTAMP:20270122T000000Z
 DTSTART;TZID=Europe/Vienna:20270122T230000
-DTEND;TZID=Europe/Vienna:20270123T040000
+DTEND;TZID=Europe/Vienna:20270123T060000
 SUMMARY:Ueberrest
 LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
-DESCRIPTION:Ueberrest\nVeranstalter: SIGNAL\nEintritt: ab 12 €\n\nSIGNA
- L präsentiert den Schweizer Hard-Techno-Künstler Ueberrest\, dessen So
- und euphorische Momente mit düsterer Industrial-Härte verbindet – be
- kannt für „Disturbing Paradise“ und Releases auf Kobosils 44 LABEL 
- GROUP\, Auftritte u. a. bei HIVE\, Unreal\, Verknipt und Teletech. Begin
- n 23:00\, Tickets ab 12 €\, Dresscode casual.\n\nhttps://rave.wien/e/2
- 027-01-22-ueberrest
+DESCRIPTION:Ueberrest\nVeranstalter: SIGNAL\nEintritt: 12–25 €\n\nSIG
+ NAL präsentiert eine reine Hard-Techno-Nacht mit dem Schweizer Künstle
+ r Ueberrest\, dessen Sound euphorische Momente mit düsterer\, verzerrte
+ r Industrial-Härte verbindet – bekannt für „Disturbing Paradise“
+  und Releases auf Kobosils 44 LABEL GROUP\, Auftritte u. a. bei HIVE\, U
+ nreal\, Verknipt\, Teletech und Rotterdam Rave. 23:00 bis 06:00\, ab 18 
+ Jahren\, Tickets 12–25 € (Vorverkauf über den Shop des O)\, Dressco
+ de casual.\n\nhttps://rave.wien/e/2027-01-22-ueberrest
 URL:https://rave.wien/e/2027-01-22-ueberrest
 END:VEVENT
 BEGIN:VEVENT
