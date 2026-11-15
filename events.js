@@ -16515,9 +16515,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Insano": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Ellen Allien": {
@@ -18336,9 +18336,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "KWEEN BEE": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "bio": {
    "de": "KWEEN BEE ist ein DJ-Act, der laut Ankündigung der Reihe TAKTGEFÜHL schnellen Techno mit funkigen Elementen spielt. In Wien steht KWEEN BEE bei TAKTGEFÜHL Vol. 2 im Club Lucia auf dem Lineup.",
    "en": "KWEEN BEE is a DJ act who, according to the TAKTGEFÜHL series, plays fast techno with funky elements. In Vienna, KWEEN BEE is on the line-up of TAKTGEFÜHL Vol. 2 at Club Lucia."
@@ -49423,9 +49423,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Schana": {
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Kippenhaus": {
@@ -49748,7 +49748,7 @@ const AR={
   "src": [
    "https://www.musicmetricsvault.com/artists/delighted/1vXpEYQw96lfSORnyiL9A5"
   ],
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-15"
  },
  "Monch": {
   "noImg": "2026-11-15",
@@ -49757,9 +49757,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Pablo Morello": {
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Eternal Injustice": {
@@ -50388,8 +50388,8 @@ const AR={
   "src": [
    "https://ra.co/events/2575633"
   ],
-  "infoChk": "2026-11-12",
-  "noImg": "2026-11-12",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-12",
   "spChk": "2026-11-15"
  },
