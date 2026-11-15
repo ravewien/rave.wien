@@ -20959,7 +20959,7 @@ const AR={
   "spChk": "2026-11-15"
  },
  "DONAURAVE": {
-  "noImg": "2026-11-03",
+  "noImg": "2026-11-15",
   "links": {
    "sc": "https://soundcloud.com/donaurave",
    "ig": "https://www.instagram.com/donaurave.wien/"
@@ -20970,7 +20970,7 @@ const AR={
    "https://de.ra.co/events/2157973",
    "https://soundcloud.com/callshopradio/gustav-g-b2b-tomey-ti-donaurave-080224"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "from": {
    "de": "Wien",
    "en": "Vienna"
@@ -24688,7 +24688,7 @@ const AR={
    "https://ra.co/dj/eargasmgod/biography",
    "https://soundcloud.com/eargasmgod"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Marko Nastic": {
@@ -48093,10 +48093,11 @@ const AR={
    "de": "USA",
    "en": "USA"
   },
-  "infoChk": "2026-11-08",
+  "infoChk": "2026-11-15",
   "src": [
    "https://ra.co/dj/kshmr",
-   "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+   "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe",
+   "https://en.wikipedia.org/wiki/Kshmr"
   ],
   "setsChecked": "2026-11-15",
   "sets": [
@@ -48112,7 +48113,11 @@ const AR={
     "t": "Welcome To KSHMR Vol. 4: Genesis",
     "u": "https://soundcloud.com/kshmr/welcome-to-kshmr-vol-4-genesis"
    }
-  ]
+  ],
+  "bio": {
+   "de": "KSHMR ist das Projekt des US-amerikanischen Produzenten und DJs Niles Hollowell-Dhar, geboren 1988 in Berkeley, Kalifornien. Zuvor war er als Teil des Produzententeams The Cataracs an Hits wie „Like a G6“ beteiligt. Der Künstlername verweist auf die kaschmirischen Wurzeln seiner Familie; er veröffentlicht u. a. auf Spinnin' Records und seinem Sublabel Dharma und erreichte 2015 Platz 23 im DJ-Mag-Top-100-Ranking.",
+   "en": "KSHMR is the project of American producer and DJ Niles Hollowell-Dhar, born in 1988 in Berkeley, California. He was previously part of the production team The Cataracs, behind hits such as 'Like a G6'. The name refers to his family's Kashmiri roots; he releases on labels including Spinnin' Records and its sublabel Dharma, and reached number 23 in the DJ Mag Top 100 in 2015."
+  }
  },
  "SHIZZLE": {
   "img": "https://static.ra.co/images/profiles/square/shizzle.jpg?dateUpdated=1793962070000",
@@ -49189,9 +49194,9 @@ const AR={
   "src": [
    "https://ra.co/events/2575308"
   ],
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Distorgina": {
@@ -49712,15 +49717,44 @@ const AR={
  },
  "Tekno Nixe": {
   "links": {
-   "sc": "https://soundcloud.com/tekno-nixe"
+   "sc": "https://soundcloud.com/tekno-nixe",
+   "mc": "https://www.mixcloud.com/TeKnoNixe/",
+   "bc": "https://teknonixe.bandcamp.com"
   },
   "src": [
-   "https://soundcloud.com/tekno-nixe"
+   "https://soundcloud.com/tekno-nixe",
+   "https://www.mixcloud.com/TeKnoNixe/"
   ],
-  "noImg": "2026-11-11",
-  "infoChk": "2026-11-11",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
   "setsChecked": "2026-11-15",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "alias": [
+   "KymaTek.Nixe",
+   "Kymatik Nixe"
+  ],
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Tekno Nixe (auch KymaTek:Nixe bzw. Kymatik Nixe) kommt aus Österreich, begann mit Vinyl-Auflegen und produziert inzwischen eigene Tracks. Früher spielte er im Team „23 Soundground“. Sein Stil reicht von Swing-Tek, Ska-Tek und Gypsy-Tek bis zu Ragga- und Jungle-Tek; Mixe von ihm liefen u. a. in FM4 La Boum de Luxe.",
+   "en": "Tekno Nixe (also KymaTek:Nixe or Kymatik Nixe) is from Austria, started out playing vinyl and now produces his own tracks. He previously played in the team '23 Soundground'. His style ranges from swing-tek, ska-tek and gypsy-tek to ragga- and jungle-tek; his mixes have aired on FM4's La Boum de Luxe, among others."
+  },
+  "sets": [
+   {
+    "t": "Einbaumöbel 13.02.2026 - die ersten ~20 min vom Set",
+    "u": "https://www.mixcloud.com/TeKnoNixe/einbaum%C3%B6bel-13022026-die-ersten-20-min-vom-set/"
+   },
+   {
+    "t": "Kymatik Nixe - Mix 128 Bpm - FM4 La Boum de Luxe 23.06.2023",
+    "u": "https://www.mixcloud.com/TeKnoNixe/kymatik-nixe-mix-128-bpm-fm4-la-boum-de-luxe/"
+   },
+   {
+    "t": "FM 4 Mix (La boum de luxe 6.7.2018)",
+    "u": "https://www.mixcloud.com/TeKnoNixe/fm-4-mix-la-boum-de-luxe-672018/"
+   }
+  ]
  },
  "Lee U Mash": {
   "noImg": "2026-11-15",
@@ -49738,7 +49772,7 @@ const AR={
    "https://soundcloud.com/opthix",
    "https://open.spotify.com/artist/2SicmUBLLAVXHZE92I7vSy"
   ],
-  "infoChk": "2026-11-11",
+  "infoChk": "2026-11-15",
   "sets": [
    {
     "t": "SIMEX b2b OPTHIX Psybox Contest 9.2.2018 DJ-Set",
@@ -50813,6 +50847,25 @@ const AR={
   "noImg": "2026-11-15",
   "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
+ },
+ "Popsimonova": {
+  "links": {
+   "sc": "https://soundcloud.com/popsimonova",
+   "sp": "https://open.spotify.com/artist/6eEVakIGtswCvgsJXnXbSM"
+  },
+  "sets": [
+   {
+    "t": "Popsimonova Mix For KCTV",
+    "u": "https://soundcloud.com/popsimonova/popsimonova-mix-for-kctv"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15",
+  "src": [
+   "https://open.spotify.com/track/0amjjqnlxQsFgk7Zo4TaFl"
+  ],
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15"
  }
 };
 
