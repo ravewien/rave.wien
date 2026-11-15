@@ -6143,6 +6143,67 @@ const CI={
    "https://ra.co/events/2584082"
   ],
   "infoChk": "2026-11-14"
+ },
+ "The House of Funk": {
+  "de": "Wiener Party-Reihe, die u. a. im Funkhaus und bei Kult und Kante veranstaltet, teils gemeinsam mit Cafe Mondo.",
+  "en": "Vienna party series hosting events at venues such as Funkhaus and Kult und Kante, partly together with Cafe Mondo.",
+  "from": "Wien",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "src": [
+   "https://ra.co/promoters/152906",
+   "https://ra.co/events/2359400",
+   "https://de.ra.co/events/2524100"
+  ]
+ },
+ "AUDIO303": {
+  "de": "AUDIO303 ist ein Wiener DJ für Hard Techno, Acid und Trance aus dem Kollektiv Gesindel der Nacht, meist zu hören im Das Werk und im FLUCC.",
+  "en": "AUDIO303 is a Vienna DJ playing hard techno, acid and trance, part of the Gesindel der Nacht collective, mostly heard at Das Werk and FLUCC.",
+  "from": "Wien",
+  "ig": "https://www.instagram.com/AUDIO303_/",
+  "sc": "https://soundcloud.com/AUDIO303",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "src": [
+   "https://ra.co/dj/audio303"
+  ]
+ },
+ "It's George": {
+  "alias": [
+   "It's George!"
+  ],
+  "de": "It's George! ist ein Wiener House-DJ mit Tech-, Funk- und Disco-Einflüssen, regelmäßig bei RED GROOVE (Social Club) im PRST und in der Säulenhalle.",
+  "en": "It's George! is a Vienna house DJ with tech, funk and disco influences, regularly playing RED GROOVE (Social Club) at PRST and Säulenhalle.",
+  "from": "Wien",
+  "sc": "https://soundcloud.com/derschorsch",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "src": [
+   "https://ra.co/dj/itsgeorge!"
+  ]
+ },
+ "Vangardist": {
+  "de": "Veranstalter der Party „Männer im Loft“ im The Loft in Wien (Tickets über Eventjet).",
+  "en": "Organiser of the party \"Männer im Loft\" at The Loft in Vienna (tickets via Eventjet).",
+  "tix": "https://shop.eventjet.at/en/vangardist/event/1afaee65-8e05-45f1-b209-8b74852a22b1",
+  "infoChk": "2026-11-15",
+  "src": [
+   "https://www.theloft.at/maenner-im-loft/"
+  ]
+ },
+ "Ungeniert": {
+  "de": "Wiener Party-Reihe „Ungeniert“, deren Ausgaben auf sexpositives.com angekündigt werden (Vol. 5 in der Libelle).",
+  "en": "Vienna party series \"Ungeniert\", whose editions are announced on sexpositives.com (Vol. 5 at Libelle).",
+  "web": "https://ungeniert.org/",
+  "infoChk": "2026-11-15",
+  "src": [
+   "https://ungeniert.org/",
+   "https://sexpositives.com/en/events/ungeniert-vol-5-wien-2026-12-05/"
+  ]
+ },
+ "the zound partisans": {
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  }
 };
 const VI={
@@ -10277,10 +10338,12 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/maxkernmayer",
    "ig": "https://www.instagram.com/maxkernmayer",
-   "ra": "https://ra.co/dj/maxkernmayer"
+   "ra": "https://ra.co/dj/maxkernmayer",
+   "sp": "https://open.spotify.com/artist/06adIrqDzu9qfo3hQhcLlo"
   },
   "src": [
-   "https://de.ra.co/dj/maxkernmayer"
+   "https://de.ra.co/dj/maxkernmayer",
+   "https://open.spotify.com/album/0O7QsrFIvRyOi4LHCYBQiK"
   ],
   "setsChecked": "2026-10-27",
   "img": "https://static.ra.co/images/profiles/square/maxkernmayer.jpg?dateUpdated=1546821638000",
@@ -10303,7 +10366,8 @@ const AR={
    "de": "Wiener DJ und Produzent für „pumpin’ Tech House & Techno“ mit Releases auf White Widow, Defined Music, Baikonur Recordings und Never Be Normal. Spielt vor allem in Pratersauna, The Loft, SASS Music Club (u. a. Deep Dive) und Club Exil.",
    "en": "Viennese DJ and producer of “pumpin’ tech house & techno” with releases on White Widow, Defined Music, Baikonur Recordings and Never Be Normal. He plays mostly at Pratersauna, The Loft, SASS Music Club (including Deep Dive) and Club Exil."
   },
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Rui de Janeiro": {
   "links": {
@@ -11187,7 +11251,8 @@ const AR={
   "src": [
    "https://www.beatport.com/artist/fruhwerk/520236",
    "https://soundcloud.com/fruhwerk"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Delaine": {
   "noImg": "2026-11-03",
@@ -11781,7 +11846,8 @@ const AR={
  "MA!A": {
   "noImg": "2026-11-03",
   "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Ferdinand Schwarz": {
   "noImg": "2026-11-03",
@@ -11807,7 +11873,8 @@ const AR={
   "src": [
    "https://soundcloud.com/ferdinand-schwarz/recorded-3-jahre-hausgemacht-werk-141017",
    "https://soundcloud.com/hausgemachtinwien/ferdinand-schwarz-live-record-praterstrase-180522"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Baby Blue": {
   "noImg": "2026-11-03",
@@ -12636,7 +12703,8 @@ const AR={
  "j.around": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Lenz Rausch": {
   "noImg": "2026-11-03",
@@ -13487,7 +13555,8 @@ const AR={
    "sc": "https://soundcloud.com/edictum303",
    "bc": "https://edictum.bandcamp.com",
    "ig": "https://www.instagram.com/Edictum303",
-   "web": "https://edictum.music"
+   "web": "https://edictum.music",
+   "sp": "https://open.spotify.com/artist/11e1I6BUAcdUOAf7AJUXWd"
   },
   "from": {
    "de": "Österreich",
@@ -13499,7 +13568,8 @@ const AR={
    "en": "Edictum has been active as a producer and DJ since 2002, focusing on melodic, danceable electronic music. More than ten albums and many singles on over 15 labels; known for long, genre-bending vinyl sets from warm-up to peak time."
   },
   "src": [
-   "https://fr.ra.co/dj/edictum"
+   "https://fr.ra.co/dj/edictum",
+   "https://open.spotify.com/intl-de/artist/11e1I6BUAcdUOAf7AJUXWd"
   ],
   "infoChk": "2026-11-09",
   "alias": [
@@ -14066,7 +14136,8 @@ const AR={
    "https://soundcloud.com/catlexxx",
    "https://soundcloud.com/catlexmusic"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Suitside": {
   "noImg": "2026-11-15",
@@ -15990,7 +16061,8 @@ const AR={
  "Serafin": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Dave & Bass": {
   "noImg": "2026-11-15",
@@ -23805,7 +23877,8 @@ const AR={
    "https://soundcloud.com/frauhofmann"
   ],
   "infoChk": "2026-11-03",
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Drahthaus": {
   "img": "https://i.scdn.co/image/ab6761610000e5eb9b17454b20226b6a4bf904f8",
@@ -40355,7 +40428,8 @@ const AR={
   "spChk": "2026-11-15",
   "links": {
    "sc": "https://soundcloud.com/mizehetner"
-  }
+  },
+  "setsChecked": "2026-11-15"
  },
  "lumiuex": {
   "img": "https://static.ra.co/images/profiles/lumieux.jpg?dateUpdated=1540400062000",
@@ -51828,7 +51902,225 @@ const AR={
  "Drei Küsse": {
   "infoChk": "2026-11-15",
   "noImg": "2026-11-15",
-  "noLinks": "2026-11-15"
+  "noLinks": "2026-11-15",
+  "spChk": "2026-11-15"
+ },
+ "Oryma": {
+  "img": "https://static.ra.co/images/profiles/square/oryma.jpg?dateUpdated=1762340220497",
+  "alias": [
+   "Tears Of Fury"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/oryma",
+   "sc": "https://soundcloud.com/oryma",
+   "ig": "https://www.instagram.com/oryma_ofc",
+   "bc": "https://oryma.bandcamp.com",
+   "web": "https://www.oryma.eu",
+   "sp": "https://open.spotify.com/artist/1yofigg8Jio5xwoWfDPEK5"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "genres": [
+   "Techno",
+   "Hard Techno"
+  ],
+  "labels": [
+   "High Contrast Recordings",
+   "Darkart",
+   "Alienator Records",
+   "Dolma Records",
+   "ARYACUNA",
+   "DSR Digital"
+  ],
+  "bio": {
+   "de": "ORYMA ist ein österreichischer Techno- und Hard-Techno-DJ und -Produzent, der vor allem in Wien (meist im Club Exil) auflegt. Zuvor war er unter dem Alias Tears Of Fury international als Hardcore-DJ unterwegs, u. a. bei Dominator und Masters of Hardcore. Releases u. a. auf Darkart, DSR Digital, High Contrast und Alienator Records; 2024 wurde er im DJ Mag Germany vorgestellt.",
+   "en": "ORYMA is an Austrian techno and hard techno DJ and producer who mostly plays in Vienna (above all at Club Exil). He previously toured internationally as a hardcore DJ under the alias Tears Of Fury, playing events such as Dominator and Masters of Hardcore. Releases on labels including Darkart, DSR Digital, High Contrast and Alienator Records; featured in DJ Mag Germany in 2024."
+  },
+  "infoChk": "2026-11-15",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15",
+  "src": [
+   "https://de.ra.co/dj/oryma",
+   "https://de.ra.co/dj/oryma/biography",
+   "https://open.spotify.com/intl-de/artist/1yofigg8Jio5xwoWfDPEK5"
+  ]
+ },
+ "Sutter Cane": {
+  "img": "https://static.ra.co/images/profiles/suttercane.jpg?dateUpdated=1488901017567",
+  "links": {
+   "ra": "https://ra.co/dj/suttercane",
+   "sc": "https://soundcloud.com/sutter-cane",
+   "web": "https://www.driving-forces.net"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Driving Forces Recordings",
+   "Phobiq Recordings",
+   "Naked Lunch Records",
+   "Illegal Alien Records",
+   "Reloading Records"
+  ],
+  "bio": {
+   "de": "Sutter Cane ist ein Wiener Techno-DJ und -Produzent mit hypnotischem Big-Room-Techno. Er gründete Driving Forces, ist A&R von Driving Forces Recordings und veranstaltete Reihen wie Techno.Deluxe und BOINK!. Er spielte u. a. bei Mayday, im Tresor Berlin und im Batofar Paris und veröffentlichte auf Labels wie Phobiq, Naked Lunch und Illegal Alien.",
+   "en": "Sutter Cane is a Vienna-based techno DJ and producer known for hypnotic big-room techno. He founded Driving Forces, is A&R of Driving Forces Recordings and ran series such as Techno.Deluxe and BOINK!. He has played Mayday, Tresor Berlin and Batofar Paris, releasing on labels including Phobiq, Naked Lunch and Illegal Alien."
+  },
+  "sets": [
+   {
+    "t": "Sutter Cane – Verknallt Mix 2024",
+    "u": "https://soundcloud.com/sutter-cane/in-the-mix-2024"
+   },
+   {
+    "t": "Carl Haze b2b Sutter Cane @ Verknallt Opening, Club Exil (DRKNSS 018)",
+    "u": "https://soundcloud.com/carlhazemusic/drknss-018-carl-haze-b2b-sutter-cane-live-at-verknallt-opening-w-anxhela-club-exil-vienna-austria"
+   }
+  ],
+  "infoChk": "2026-11-15",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15",
+  "src": [
+   "https://ra.co/dj/suttercane",
+   "https://ra.co/dj/suttercane/biography"
+  ]
+ },
+ "Traumata": {
+  "img": "https://static.ra.co/images/profiles/traumata.jpg?dateUpdated=1487941056627",
+  "real": "Martin Zyka",
+  "links": {
+   "ra": "https://ra.co/dj/traumata",
+   "sc": "https://soundcloud.com/traumatavienna",
+   "ig": "https://www.instagram.com/traumatavienna",
+   "web": "https://staygold-music.de/artist/traumata/"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Techno",
+   "Tech House"
+  ],
+  "labels": [
+   "Aerochrone",
+   "Universal Love Tribe",
+   "Mosiak Records"
+  ],
+  "bio": {
+   "de": "Traumata ist ein Wiener DJ und Produzent für treibenden, atmosphärischen und hypnotischen Techno und Tech House. Erster Gig 2016 in der Kantine; er war einer der ersten Residents der Wiener Tanz Freunde und hostet den Podcast „TANZ DICH FREI“. Releases u. a. „Groovin Cosmos“ (Universal Love Tribe, 2017) und mit Rabo die EP „Solation“ (Aerochrone, 2018).",
+   "en": "Traumata is a Vienna DJ and producer of driving, atmospheric and hypnotic techno and tech house. First gig in 2016 at Die Kantine; he was one of the first residents of Wiener Tanz Freunde and hosts the podcast \"TANZ DICH FREI\". Releases include \"Groovin Cosmos\" (Universal Love Tribe, 2017) and, with Rabo, the \"Solation\" EP (Aerochrone, 2018)."
+  },
+  "sets": [
+   {
+    "t": "Traumata @ Séparée (20.02.2026) – hausgemacht",
+    "u": "https://soundcloud.com/hausgemachtinwien/traumata-se-pare-e-20-02-2026"
+   },
+   {
+    "t": "TDF 63 / Closing Set live from Club Spielplatz",
+    "u": "https://soundcloud.com/traumatavienna/tdf63"
+   }
+  ],
+  "infoChk": "2026-11-15",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15",
+  "src": [
+   "https://ra.co/dj/traumata",
+   "https://ra.co/dj/traumata/biography"
+  ]
+ },
+ "Max Wanderer": {
+  "alias": [
+   "Der Wanderer"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/derwandererofficial"
+  },
+  "bio": {
+   "de": "Max Wanderer ist DJ und Produzent aus dem Wiener Umfeld; Remixe veröffentlicht er auch als „Der Wanderer“. Er spielte u. a. bei Kein Sonntag ohne Techno, auf Superfly.fm und für Res.Radio live aus dem FLUCC.",
+   "en": "Max Wanderer is a DJ and producer from the Vienna scene who also releases remixes as \"Der Wanderer\". He has played for Kein Sonntag ohne Techno, on Superfly.fm and for Res.Radio live from FLUCC."
+  },
+  "sets": [
+   {
+    "t": "MFG #4 w/ Max Wanderer (Live from FLUCC) – Res.Radio",
+    "u": "https://soundcloud.com/resradio/mfg-4-w-max-wanderer-live-from-flucc"
+   },
+   {
+    "t": "Max Wanderer @ Superfly.fm (22.03.2018)",
+    "u": "https://soundcloud.com/derwandererofficial/max-wanderer-superfly-22-03-18"
+   },
+   {
+    "t": "Tanz in den Mai – KSOT Soundsystem b2b Max Wanderer",
+    "u": "https://soundcloud.com/keinsonntagohnetechno/tanz-in-den-mai-ksot-soundsystem-b2b-max-wanderer"
+   }
+  ],
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15",
+  "src": [
+   "https://soundcloud.com/derwandererofficial/tracks",
+   "https://ra.co/events/832508"
+  ]
+ },
+ "Tinutus": {
+  "links": {
+   "sc": "https://soundcloud.com/djtinu"
+  },
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15",
+  "src": [
+   "https://soundcloud.com/djtinu"
+  ]
+ },
+ "NIKLIST": {
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15"
+ },
+ "MYKAL": {
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15"
+ },
+ "RICKY": {
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15"
+ },
+ "Naij": {
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15"
+ },
+ "The Red Fox": {
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15"
+ },
+ "GauTrance": {
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15"
+ },
+ "lexyz0": {
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15"
  }
 };
 
