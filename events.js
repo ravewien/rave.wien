@@ -56,7 +56,8 @@ const V={
  "The Chamber": "Hernalser Gürtel 18, 1080",
  "BC Vienna Arena": "Gutheil-Schoder-Gasse 9, 1100",
  "WUK": "Währinger Straße 59, 1090",
- "Creative Cluster Vienna": "Viktor-Christ-Gasse 10, 1050"
+ "Creative Cluster Vienna": "Viktor-Christ-Gasse 10, 1050",
+ "Gleis 19": "Gunoldstraße 12, 1190"
 };
 const S={
  "man": "Manuell eingetragen",
@@ -7257,6 +7258,24 @@ const VI={
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
   "opened": "2019"
+ },
+ "Gleis 19": {
+  "alias": [
+   "Gleis19"
+  ],
+  "de": "Subkultureller Freiraum in Döbling für Workshops, Events und vor allem Partys. Die Open-Air-Fläche in der Gunoldstraße wird in der warmen Jahreszeit von wechselnden Kollektiven für Day Raves und Open Airs bespielt, etwa von KARTELL.FM, Drogerie geht tanzen, MIXED und Mahlwerk.",
+  "en": "Subcultural open space in Döbling for workshops, events and, above all, parties. In the warmer months, changing collectives use the open-air site on Gunoldstraße for day raves and open airs, among them KARTELL.FM, Drogerie geht tanzen, MIXED and Mahlwerk.",
+  "io": [
+   "Outdoor"
+  ],
+  "src": [
+   "https://rausgegangen.de/en/locations/gleis-19/",
+   "https://ra.co/events/2501721",
+   "https://de.ra.co/events/2469178",
+   "https://luma.com/intouch-summer-club"
+  ],
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  }
 };
 /* LS = Logo-Suche ohne Treffer für Locations (v) / Kollektive (c) ohne VI-/CI-Eintrag: Datum der letzten Suche; frühestens 60 Tage danach erneut suchen. */
