@@ -10148,9 +10148,9 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Adam19": {
-  "noLinks": "2026-11-03",
-  "noImg": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noLinks": "2026-11-15",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
   "bio": {
    "de": "Adam19 ist ein DJ-Act aus dem Wiener Umfeld von FIFI Rave, der u. a. bei FIFI RAVE im Werk spielte. Im Club Lucia steht Adam19 bei „Köstlich x Gürtelgroove“ auf dem Lineup, einer Nacht mit UK Garage, Hardgroove und Techno.",
    "en": "Adam19 is a DJ act from the Vienna FIFI Rave circle who has played FIFI RAVE at Das Werk, among others. At Club Lucia, Adam19 is on the line-up of 'Köstlich x Gürtelgroove', a night of UK garage, hardgroove and techno."
@@ -16374,7 +16374,7 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Entheon": {
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-02",
   "links": {
@@ -16407,9 +16407,15 @@ const AR={
   "setsChecked": "2026-11-03",
   "src": [
    "https://soundcloud.com/entheon",
-   "https://soundcloud.com/hunabkurecordings/jumpstreet-art-materials-street-art-eudaimaniacs-va-compiled-by-entheon"
+   "https://soundcloud.com/hunabkurecordings/jumpstreet-art-materials-street-art-eudaimaniacs-va-compiled-by-entheon",
+   "https://bandcamp.com/entheonhunabku"
   ],
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "img": "https://f4.bcbits.com/img/0020851756_41.jpg",
+  "from": {
+   "de": "Chiapas, Mexiko",
+   "en": "Chiapas, Mexico"
+  }
  },
  "HÄNSCH": {
   "infoChk": "2026-11-03",
@@ -18297,9 +18303,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Krueger": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "bio": {
    "de": "Krueger ist ein House-DJ-Act auf dem Lineup des HOUSETIERE × VG+ Weekenders im Tagada.",
    "en": "Krueger is a house DJ act on the line-up of the HOUSETIERE × VG+ Weekender at Tagada."
@@ -47986,9 +47992,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Robert Maslach": {
-  "noImg": "2026-11-06",
-  "noLinks": "2026-11-06",
-  "infoChk": "2026-11-06",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "The Wash": {
@@ -49731,8 +49737,8 @@ const AR={
   "src": [
    "https://soundcloud.com/activeelementz"
   ],
-  "noImg": "2026-11-11",
-  "infoChk": "2026-11-11",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
   "setsChecked": "2026-11-15",
   "spChk": "2026-11-15"
  },
@@ -49790,9 +49796,9 @@ const AR={
   "setsChecked": "2026-11-15"
  },
  "Likeflow": {
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Nightcrawler": {
