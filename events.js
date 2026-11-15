@@ -8648,7 +8648,8 @@ const AR={
    "de": "maro ist in Deutschland geboren und in Österreich ansässig. Bekannt für energiegeladene Sets, die Techno, Trance, Hardgroove und Breakbeats verbinden. Spielt am häufigsten in Wien, u. a. in Grelle Forelle, PRST, Gleis19 und Flex.",
    "en": "maro was born in Germany and is based in Austria. Known for high-energy sets blending techno, trance, hardgroove and breakbeats. Plays most often in Vienna, including Grelle Forelle, PRST, Gleis19 and Flex."
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-15"
  },
  "k means": {
   "links": {
@@ -8741,7 +8742,8 @@ const AR={
    "de": "WO.IZZY ist eine Newcomerin der Wiener Elektronikszene. Ihr RA-Profil beschreibt sie als abenteuerlustig, neugierig, verspielt und furchtlos. Sie spielt u. a. im SASS Music Club, Celeste und Das Werk.",
    "en": "WO.IZZY is a rising newcomer in Vienna's electronic scene. Her RA profile describes her as adventurous, curious, playful and fearless. She plays at venues including SASS Music Club, Celeste and Das Werk."
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-15"
  },
  "Vivienna": {
   "links": {
@@ -9918,7 +9920,8 @@ const AR={
  "DizzyDray": {
   "noLinks": "2026-11-03",
   "noImg": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Vanessa Sa": {
   "links": {
@@ -10129,7 +10132,8 @@ const AR={
    "https://soundcloud.com/joro_und_joabo/peaktimetechno0722",
    "https://www.instagram.com/joro.und.joabo/"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Atomik": {
   "noLinks": "2026-10-28"
@@ -12240,7 +12244,8 @@ const AR={
     "u": "https://soundcloud.com/herzfrequenz_techno/rantom-impulse-021124"
    }
   ],
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Nikilist": {
   "infoChk": "2026-11-03",
@@ -12640,7 +12645,8 @@ const AR={
   ],
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "MARØ": {
   "img": "https://static.ra.co/images/profiles/square/maro.jpg?dateUpdated=1766386631437",
@@ -13073,7 +13079,8 @@ const AR={
    "https://soundcloud.com/romen_est_omen"
   ],
   "infoChk": "2026-11-03",
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Peter Illias": {
   "noImg": "2026-11-03",
@@ -14148,7 +14155,8 @@ const AR={
   ],
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Vantan": {
   "links": {
@@ -15827,7 +15835,8 @@ const AR={
    "https://soundcloud.com/tongues_1150/tongues-inoukiendo-plus3db",
    "https://soundcloud.com/resradio/curated-13-ventil-records-w-inou-ki-endo"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Gerald VDH": {
   "img": "https://static.ra.co/images/profiles/square/geraldvdh.jpg?dateUpdated=1479208210000",
@@ -16426,7 +16435,8 @@ const AR={
  "Sabina": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "STAATSEINDE": {
   "img": "https://f4.bcbits.com/img/0047558788_21.jpg",
@@ -16481,7 +16491,8 @@ const AR={
  "SWEGALICIOUS": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Slack Hippy": {
   "links": {
@@ -16775,7 +16786,8 @@ const AR={
    "ra": "https://ra.co/dj/borisbrejcha",
    "sc": "https://soundcloud.com/boris-brejcha",
    "ig": "https://www.instagram.com/borisbrejcha",
-   "web": "https://www.borisbrejcha.de"
+   "web": "https://www.borisbrejcha.de",
+   "sp": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
   },
   "bio": {
    "de": "Boris Brejcha ist ein deutscher DJ und Produzent, der für seinen Stil den eigenen Begriff „High-Tech Minimal“ prägte. Er tritt mit Joker-Maske auf und spielt Live-Sets aus eigenen Produktionen. Releases erschienen u. a. auf Harthouse Mannheim, Ultra Records und Cloning Sound.",
@@ -16807,7 +16819,8 @@ const AR={
   "src": [
    "https://ra.co/dj/borisbrejcha"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Aside": {
   "from": {
@@ -16819,7 +16832,8 @@ const AR={
   ],
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "AE-X": {
   "infoChk": "2026-11-03",
@@ -17090,7 +17104,8 @@ const AR={
  "Andrew Ahmed": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Benjay": {
   "infoChk": "2026-11-03",
@@ -17435,7 +17450,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/brainalien",
    "bc": "https://braincell-nano.bandcamp.com",
-   "web": "https://www.brainalien.info/"
+   "web": "https://www.brainalien.info/",
+   "sp": "https://open.spotify.com/artist/4VwL9Fho2oPDA63Etx6ZmM"
   },
   "bio": {
    "de": "Braincell ist das Psytrance-Projekt von Ralph Knobloch Freund aus Muri in der Schweiz, gestartet 2003. Er hat sechs Alben und rund 50 Compilation-Beiträge veröffentlicht und ist auch als Solar Spectrum und Unknown Reality aktiv. 2016 schloss er die Main Stage des Ozora Festivals; er spielte u. a. in den USA, Brasilien, Australien, Indien und Thailand.",
@@ -17458,7 +17474,8 @@ const AR={
   "src": [
    "https://www.discogs.com/artist/381313-Braincell-3",
    "https://psylofashion.com/blogs/blog/ralph-k-freund-aka-braincell-exclusive-interview"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Bornvoyage": {
   "infoChk": "2026-11-03",
@@ -17490,7 +17507,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/klangkuenstler",
    "ig": "https://www.instagram.com/klangkuenstler",
-   "ra": "https://ra.co/dj/klangkuenstler"
+   "ra": "https://ra.co/dj/klangkuenstler",
+   "sp": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
   },
   "from": {
    "de": "Berlin, Deutschland",
@@ -17510,7 +17528,23 @@ const AR={
    "https://ra.co/dj/klangkuenstler",
    "https://ra.co/dj/klangkuenstler/biography"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "sets": [
+   {
+    "t": "Klangkuenstler Boiler Room Berlin DJ Set",
+    "u": "https://soundcloud.com/platform/klangkuenstler"
+   },
+   {
+    "t": "klangkuenstler from HÖR Berlin",
+    "u": "https://soundcloud.com/klangkuenstler/hoer-berlin-set"
+   },
+   {
+    "t": "Klangkuenstler b2b future.666 @ Secret Rave, Berlin (Hardgroove Set)",
+    "u": "https://soundcloud.com/klangkuenstler/klangkuenstler-b2b-future666-secret-rave-berlin-hardgroove-set"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Kasia": {
   "img": "https://static.ra.co/images/profiles/square/kasia-ofc.jpg?dateUpdated=1771344732733",
@@ -17799,7 +17833,8 @@ const AR={
    "https://soundcloud.com/lim_banda",
    "https://soundcloud.com/luvaffair_vienna/a-luvaffair-with-lim-banda-2",
    "https://soundcloud.com/luvaffair_vienna/benbornlimbanda"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Krawallbarbie": {
   "infoChk": "2026-11-03",
@@ -17828,7 +17863,8 @@ const AR={
  "Kmanxak": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "LaLa": {
   "infoChk": "2026-11-03",
@@ -18476,7 +18512,8 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/dbbd",
    "sc": "https://soundcloud.com/playdbbd",
-   "bc": "https://dbbd.bandcamp.com"
+   "bc": "https://dbbd.bandcamp.com",
+   "sp": "https://open.spotify.com/artist/69UVGTxhvI9zrl4tVafMgC"
   },
   "bio": {
    "de": "DBBD ist ein Produzent und DJ aus Berlin und gilt als Pionier des „Slut Bass“: dreckige Basslines, eingängige Synth-Melodien und oft freche weibliche Vocals. Er arbeitet häufig mit Miss Bashful zusammen, unter anderem an „Hard Being Hot“ und „DJ on Your Face“ (mit MCR-T).",
@@ -18501,7 +18538,8 @@ const AR={
    "https://soundcloud.com/playdbbd/dbbd-x-miss-bashful-hard-being-hot",
    "https://soundcloud.com/livefromearth/mcr-t-miss-bashful-dbbd-dj-on"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Chiara Allnutt": {
   "img": "https://static.ra.co/images/profiles/square/chiaraallnutt.jpg?dateUpdated=1765647857577",
@@ -19142,7 +19180,8 @@ const AR={
    "https://soundcloud.com/pjnm"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Psynonima": {
   "bio": {
@@ -19440,7 +19479,8 @@ const AR={
  "UV Project": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Userkiller": {
   "img": "https://static.ra.co/images/profiles/square/userkiller.jpg?dateUpdated=1741953946000",
@@ -19489,7 +19529,8 @@ const AR={
   ],
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Wal_Halla": {
   "img": "https://static.ra.co/images/profiles/square/wal_halla.jpg?dateUpdated=1788612597173",
@@ -20096,7 +20137,8 @@ const AR={
  "missantroop": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "MAWU": {
   "infoChk": "2026-11-03",
@@ -20113,7 +20155,8 @@ const AR={
   },
   "genres": [
    "Drum & Bass"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "MESROD": {
   "infoChk": "2026-11-03",
@@ -20333,7 +20376,8 @@ const AR={
    "https://ra.co/dj/chrisdeeper",
    "https://ra.co/events/2306531"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "403Vorbidden": {
   "noImg": "2026-11-03",
@@ -20410,7 +20454,9 @@ const AR={
   "src": [
    "https://soundcloud.com/elasoul"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Felix Wolfs": {
   "img": "https://static.ra.co/images/profiles/square/felixwolfs.jpg?dateUpdated=1793099552000",
@@ -28731,7 +28777,8 @@ const AR={
    "https://ra.co/dj/paralich"
   ],
   "infoChk": "2026-11-03",
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Robert Owens": {
   "img": "https://static.ra.co/images/profiles/robertowens.jpg?dateUpdated=1199312716583",
@@ -36910,7 +36957,8 @@ const AR={
   "src": [
    "https://de.ra.co/dj/carlokalu",
    "https://de.ra.co/dj/carlokalu/biography"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Themba": {
   "img": "https://static.ra.co/images/profiles/square/themba.jpg?dateUpdated=1757583689000",
@@ -43064,7 +43112,8 @@ const AR={
    "ra": "https://ra.co/dj/tonicwalter",
    "sc": "https://soundcloud.com/therealtonicwalter",
    "ig": "https://www.instagram.com/therealtonicwalter",
-   "web": "https://www.tonicwalter.de/"
+   "web": "https://www.tonicwalter.de/",
+   "sp": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
   },
   "from": {
    "de": "Süddeutschland",
@@ -43077,7 +43126,9 @@ const AR={
   "src": [
    "https://ra.co/dj/tonicwalter"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "P.O": {
   "infoChk": "2026-11-04",
@@ -44971,7 +45022,8 @@ const AR={
   ],
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
-  "noLinks": "2026-11-04"
+  "noLinks": "2026-11-04",
+  "spChk": "2026-11-15"
  },
  "Serex": {
   "genres": [
@@ -47080,7 +47132,8 @@ const AR={
  "dj ayran": {
   "noImg": "2026-11-05",
   "noLinks": "2026-11-05",
-  "infoChk": "2026-11-05"
+  "infoChk": "2026-11-05",
+  "spChk": "2026-11-15"
  },
  "Tursa": {
   "noImg": "2026-11-05",
@@ -47180,12 +47233,14 @@ const AR={
  "NO ONE": {
   "noImg": "2026-11-06",
   "noLinks": "2026-11-06",
-  "infoChk": "2026-11-06"
+  "infoChk": "2026-11-06",
+  "spChk": "2026-11-15"
  },
  "Robert Maslach": {
   "noImg": "2026-11-06",
   "noLinks": "2026-11-06",
-  "infoChk": "2026-11-06"
+  "infoChk": "2026-11-06",
+  "spChk": "2026-11-15"
  },
  "The Wash": {
   "img": "https://static.ra.co/images/profiles/thewash.jpg?dateUpdated=1412159945410",
@@ -47436,7 +47491,8 @@ const AR={
    "https://testa1.bandcamp.com/merch",
    "https://chrisfaderundtesta.bandcamp.com"
   ],
-  "noLinks": "2026-11-08"
+  "noLinks": "2026-11-08",
+  "spChk": "2026-11-15"
  },
  "KSHMR": {
   "img": "https://i.scdn.co/image/ab6761610000f178d6375815b4e8a04d9863c22c",
@@ -47722,7 +47778,8 @@ const AR={
   },
   "noImg": "2026-11-09",
   "infoChk": "2026-11-09",
-  "setsChecked": "2026-11-09"
+  "setsChecked": "2026-11-09",
+  "spChk": "2026-11-15"
  },
  "Miss Roshni": {
   "links": {
@@ -47792,7 +47849,8 @@ const AR={
  "Frankee": {
   "infoChk": "2026-11-10",
   "noImg": "2026-11-10",
-  "noLinks": "2026-11-10"
+  "noLinks": "2026-11-10",
+  "spChk": "2026-11-15"
  },
  "Acula": {
   "infoChk": "2026-11-10",
@@ -47802,7 +47860,8 @@ const AR={
  "Softi": {
   "infoChk": "2026-11-10",
   "noImg": "2026-11-10",
-  "noLinks": "2026-11-10"
+  "noLinks": "2026-11-10",
+  "spChk": "2026-11-15"
  },
  "Ricky Chong": {
   "img": "https://static.ra.co/images/profiles/square/rickychong.jpg?dateUpdated=1790613182470",
@@ -48179,7 +48238,8 @@ const AR={
    "https://soundcloud.com/black-out-records/agressive-mood-portal-generator-album-preview"
   ],
   "infoChk": "2026-11-11",
-  "noImg": "2026-11-11"
+  "noImg": "2026-11-11",
+  "setsChecked": "2026-11-15"
  },
  "Maze of Madness": {
   "infoChk": "2026-11-11",
@@ -48279,7 +48339,15 @@ const AR={
    "https://ra.co/events/2581841"
   ],
   "infoChk": "2026-11-11",
-  "noImg": "2026-11-11"
+  "noImg": "2026-11-11",
+  "sets": [
+   {
+    "t": "Elyante @ Connected Radio [006]",
+    "u": "https://soundcloud.com/connected-radio-610173472/elyante-connected-radio-006"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Schana": {
   "infoChk": "2026-11-11",
@@ -48307,7 +48375,8 @@ const AR={
  "Jokkel": {
   "infoChk": "2026-11-11",
   "noImg": "2026-11-11",
-  "noLinks": "2026-11-11"
+  "noLinks": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Evi B": {
   "infoChk": "2026-11-11",
@@ -48481,7 +48550,8 @@ const AR={
    "https://open.spotify.com/album/4EEDrzDGBvXgiI7glhYMj8"
   ],
   "noImg": "2026-11-11",
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "setsChecked": "2026-11-15"
  },
  "Unicorn on K": {
   "from": {
@@ -48493,14 +48563,16 @@ const AR={
   ],
   "img": "https://static.ra.co/images/profiles/square/unicornonketamine.jpg?dateUpdated=1711724480000",
   "links": {
-   "ra": "https://ra.co/dj/unicornonketamine"
+   "ra": "https://ra.co/dj/unicornonketamine",
+   "sp": "https://open.spotify.com/artist/3NoAERCAeMG0EOGpbpdYLm"
   },
   "src": [
    "https://ra.co/dj/unicornonketamine",
    "https://ra.co/events/2347185",
    "https://ra.co/events/1762523"
   ],
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "2 Facez": {
   "infoChk": "2026-11-11",
@@ -48638,12 +48710,14 @@ const AR={
  "Askeladd": {
   "noImg": "2026-11-11",
   "noLinks": "2026-11-11",
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Katana": {
   "noImg": "2026-11-11",
   "noLinks": "2026-11-11",
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Twisted Aura": {
   "links": {
@@ -48665,7 +48739,8 @@ const AR={
  "Gurkal²³": {
   "noImg": "2026-11-11",
   "noLinks": "2026-11-11",
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Tekno Nixe": {
   "links": {
@@ -49096,7 +49171,8 @@ const AR={
    "sc": "https://soundcloud.com/klangkarussell",
    "ig": "https://www.instagram.com/klangkarussellofficial/",
    "bc": "https://klangkarussell.bandcamp.com",
-   "web": "https://klangkarussell.com"
+   "web": "https://klangkarussell.com",
+   "sp": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
   },
   "from": {
    "de": "Österreich",
@@ -49117,7 +49193,23 @@ const AR={
   "src": [
    "https://ra.co/dj/klangkarussell"
   ],
-  "infoChk": "2026-11-12"
+  "infoChk": "2026-11-12",
+  "sets": [
+   {
+    "t": "quarantine mix",
+    "u": "https://soundcloud.com/klangkarussell/quarantine-mix"
+   },
+   {
+    "t": "Klangkarussell - DHA Mix #314",
+    "u": "https://soundcloud.com/deep-house-amsterdam/klangkarussell-dha-mix-314"
+   },
+   {
+    "t": "Roads Of Gold DJ-Mix",
+    "u": "https://soundcloud.com/klangkarussell/roads-of-gold-mixtape"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Ueberrest": {
   "img": "https://static.ra.co/images/profiles/square/ueberrest.jpg?dateUpdated=1756985771000",
@@ -49268,7 +49360,8 @@ const AR={
    "https://ra.co/dj/valenthin",
    "https://ra.co/events/2397375"
   ],
-  "setsChecked": "2026-11-13"
+  "setsChecked": "2026-11-13",
+  "spChk": "2026-11-15"
  },
  "THIRD 2HIFT": {
   "from": {
@@ -49353,7 +49446,8 @@ const AR={
   "infoChk": "2026-11-13",
   "src": [
    "https://ra.co/events/2584070"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Anemona": {
   "noImg": "2026-11-13",
@@ -49438,7 +49532,8 @@ const AR={
    "https://ra.co/events/2584082",
    "https://soundcloud.com/leentilt"
   ],
-  "infoChk": "2026-11-14"
+  "infoChk": "2026-11-14",
+  "spChk": "2026-11-15"
  },
  "GØVI": {
   "infoChk": "2026-11-14",
@@ -49463,7 +49558,8 @@ const AR={
  "High Noon Rockers": {
   "infoChk": "2026-11-14",
   "noImg": "2026-11-14",
-  "noLinks": "2026-11-14"
+  "noLinks": "2026-11-14",
+  "spChk": "2026-11-15"
  },
  "Patches": {
   "infoChk": "2026-11-14",
