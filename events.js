@@ -12157,9 +12157,9 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Recovered": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Dennes Deen": {
@@ -16063,7 +16063,9 @@ const AR={
  "Egorythmia": {
   "links": {
    "sc": "https://soundcloud.com/egorythmia",
-   "sp": "https://open.spotify.com/artist/4kxgUvOXcumvg81njRP7Ud"
+   "sp": "https://open.spotify.com/artist/4kxgUvOXcumvg81njRP7Ud",
+   "bc": "https://egorythmiaofficial.bandcamp.com/",
+   "ig": "https://www.instagram.com/egorythmia/"
   },
   "from": {
    "de": "Nordmazedonien",
@@ -16096,11 +16098,13 @@ const AR={
    "https://www.discogs.com/artist/1056854-Boban-Lazovski",
    "https://soundcloud.com/egorythmia",
    "https://soundcloud.com/egorythmia/egorythmia-ozora-festival-2026",
-   "https://soundcloud.com/egorythmia/egorythmia-live-boom-2012"
+   "https://soundcloud.com/egorythmia/egorythmia-live-boom-2012",
+   "https://egorythmiaofficial.bandcamp.com/"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "noImg": "2026-11-03",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "img": "https://f4.bcbits.com/img/0040227321_10.jpg"
  },
  "Eric Prydz": {
   "img": "https://static.ra.co/images/profiles/ericprydz.jpg?dateUpdated=1605876513000",
@@ -16405,9 +16409,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Ernst": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "IVUR": {
@@ -18025,9 +18029,9 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "LCA": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Lim Banda": {
@@ -18111,9 +18115,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Leanne": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "L3nny": {
@@ -18189,9 +18193,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Kayara": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "bio": {
    "de": "Kayara ist ein Psytrance-DJ-Act auf dem Lineup von „Tribal Vibes meets Exil“, der Old-School-Psytrance-Nacht der Reihe Tribal Vibes im Club Exil.",
    "en": "Kayara is a psytrance DJ act on the line-up of 'Tribal Vibes meets Exil', the old-school psytrance night of the Tribal Vibes series at Club Exil."
@@ -18234,10 +18238,27 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Karolina": {
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "img": "https://static.ra.co/images/profiles/square/karolina.jpg?dateUpdated=1758112456867",
+  "links": {
+   "ra": "https://ra.co/dj/karolina"
+  },
+  "from": {
+   "de": "Österreich (geboren in Polen)",
+   "en": "Austria (born in Poland)"
+  },
+  "bio": {
+   "de": "KAROLINA ist eine in Polen geborene DJ, die in Österreich lebt und im Wiener Underground verwurzelt ist. Laut RA spielt sie am häufigsten in Wien, Berlin und Lissabon, in Wien vor allem im PRST, Gleis19, in der Grelle Forelle, im The Loft und im FLUCC. 2026 stand sie u. a. beim Paradies Garten Festival und bei Events des YN Collective auf dem Lineup.",
+   "en": "KAROLINA is a DJ born in Poland and based in Austria, rooted in the Viennese underground. According to RA she plays most often in Vienna, Berlin and Lisbon, in Vienna mainly at PRST, Gleis19, Grelle Forelle, The Loft and FLUCC. In 2026 her bookings included Paradies Garten Festival and events by YN Collective."
+  },
+  "src": [
+   "https://ra.co/dj/karolina",
+   "https://ra.co/dj/karolina/biography",
+   "https://ntry.at/reverieklanggerechtkaro?l=de"
+  ]
  },
  "DJ Kompact": {
   "infoChk": "2026-11-03",
@@ -19321,8 +19342,8 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Rokis": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-02",
   "links": {
    "mc": "https://www.mixcloud.com/Rokis/"
@@ -19402,18 +19423,20 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/absoluteprimate",
    "sp": "https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU",
-   "ig": "https://www.instagram.com/itsprimate/"
+   "ig": "https://www.instagram.com/itsprimate/",
+   "bc": "https://absoluteprimate.bandcamp.com"
   },
   "genres": [
    "Drum & Bass"
   ],
   "src": [
    "https://www.mbartists.co.uk/artists/primate",
-   "https://www.c-heads.com/2025/09/26/behind-the-beats-primate-on-live-energy-growth-and-the-story-of-about-us/"
+   "https://www.c-heads.com/2025/09/26/behind-the-beats-primate-on-live-energy-growth-and-the-story-of-about-us/",
+   "https://absoluteprimate.bandcamp.com/track/squared-up"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15"
  },
  "Replic": {
   "img": "https://static.ra.co/images/profiles/replic.jpg?dateUpdated=1321611783000",
@@ -19841,9 +19864,9 @@ const AR={
   "src": [
    "https://www.enter-glitch.com/events/glitch-vienna-001"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Wal_Halla": {
@@ -48161,8 +48184,24 @@ const AR={
  "NooK": {
   "noImg": "2026-11-08",
   "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15",
+  "img": "https://static.ra.co/images/profiles/square/nook-2.jpg?dateUpdated=1778629364000",
+  "links": {
+   "ra": "https://ra.co/dj/nook-2"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "NooK ist ein österreichischer DJ, der laut dem Wiener Kollektiv Klanggerecht seit über 15 Jahren elektronische Musik lebt. Seine Sets sind geprägt von Erlebnissen aus der weltweiten Club- und Festivalkultur, mit Auftritten beim Sónar in Barcelona, bei Red Rocks in Denver und in Clubs auf Ibiza. Bei Klanggerecht ist er als Gast-DJ der Crew zu hören.",
+   "en": "NooK is an Austrian DJ who, according to the Viennese collective Klanggerecht, has been living electronic music for more than 15 years. His sets are shaped by experiences from global club and festival culture, including appearances at Sónar in Barcelona, Red Rocks in Denver and clubs on Ibiza. He plays for Klanggerecht as a guest DJ of the crew."
+  },
+  "src": [
+   "https://de.ra.co/events/2563337",
+   "https://de.ra.co/dj/nook-2"
+  ]
  },
  "mein__dm": {
   "noImg": "2026-11-15",
@@ -48957,16 +48996,24 @@ const AR={
   ],
   "links": {
    "sc": "https://soundcloud.com/agressive-mood",
-   "sp": "https://open.spotify.com/artist/3eEiHN6C5Qr3UPAFS31RUi"
+   "sp": "https://open.spotify.com/artist/3eEiHN6C5Qr3UPAFS31RUi",
+   "bc": "https://agressivemood.bandcamp.com",
+   "ig": "https://www.instagram.com/am_agressive_mood/"
   },
   "src": [
    "https://soundcloud.com/agressive-mood",
    "https://open.spotify.com/album/4xJR4zjV96RxvKCPIIm7PL",
-   "https://soundcloud.com/black-out-records/agressive-mood-portal-generator-album-preview"
+   "https://soundcloud.com/black-out-records/agressive-mood-portal-generator-album-preview",
+   "https://agressivemood.bandcamp.com/track/riding-a-bike"
   ],
-  "infoChk": "2026-11-11",
+  "infoChk": "2026-11-15",
   "noImg": "2026-11-11",
-  "setsChecked": "2026-11-15"
+  "setsChecked": "2026-11-15",
+  "img": "https://f4.bcbits.com/img/0034549137_10.jpg",
+  "from": {
+   "de": "Portugal, ansässig in Innsbruck",
+   "en": "Portugal, based in Innsbruck"
+  }
  },
  "Maze of Madness": {
   "infoChk": "2026-11-11",
@@ -48984,13 +49031,15 @@ const AR={
    "en": "Austrian electronica/jazz duo formed by multi-instrumentalists Konrad Milan and Andreas Moser. Their shared love for film shapes thoughtful, cinematic, genre-bending arrangements, influenced by The Cinematic Orchestra, Ólafur Arnalds and Portico Quartet."
   },
   "links": {
-   "web": "https://www.harmontmusic.com"
+   "web": "https://www.harmontmusic.com",
+   "ig": "https://www.instagram.com/harmontmusic/"
   },
   "src": [
-   "https://ra.co/events/2570410"
+   "https://ra.co/events/2570410",
+   "https://secreteclectic.com/2021/04/02/evolving-dynamic-enigmatic-interview-with-harmont/"
   ],
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-11",
   "spChk": "2026-11-15"
  },
@@ -49068,9 +49117,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Distorgina": {
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Elyante": {
@@ -49357,10 +49406,30 @@ const AR={
   "spChk": "2026-11-15"
  },
  "2 Facez": {
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-11",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "links": {
+   "sc": "https://soundcloud.com/2facezofficial"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "alias": [
+   "2Facez"
+  ],
+  "bio": {
+   "de": "2Facez ist ein Hardstyle-Act aus Österreich. Auf SoundCloud veröffentlicht er Edits als Free Downloads, etwa „Zillertaler Gabbermarsch“, „Dem Land Tirol die Treue (2Facez XQ Hour Of Power Edit)“ und „Muppet Show – Mahna Mahna (High Level & 2Facez Destruction)“.",
+   "en": "2Facez is a hardstyle act from Austria. On SoundCloud he releases edits as free downloads, such as \"Zillertaler Gabbermarsch\", \"Dem Land Tirol die Treue (2Facez XQ Hour Of Power Edit)\" and \"Muppet Show – Mahna Mahna (High Level & 2Facez Destruction)\"."
+  },
+  "src": [
+   "https://www.viberate.com/artist/2facez/",
+   "https://soundcloud.com/2facezofficial/zillertaler-gabber-marsch",
+   "https://soundcloud.com/2facezofficial/dem-land-tirol-die-treue-2facez-xq-hour-of-power-edit"
+  ],
+  "setsChecked": "2026-11-15"
  },
  "Active Elementz": {
   "links": {
@@ -49424,7 +49493,7 @@ const AR={
    "https://open.spotify.com/artist/2Esmvh0vyS639iZGlAJZYh",
    "https://open.spotify.com/track/46OoLEm52m4xDEpixneLiE"
   ],
-  "infoChk": "2026-11-11",
+  "infoChk": "2026-11-15",
   "setsChecked": "2026-11-15"
  },
  "Likeflow": {
@@ -49601,8 +49670,8 @@ const AR={
   "src": [
    "https://soundcloud.com/p-e-t-r-o-n-i-k/petronik-love-the-flow-dj-set"
   ],
-  "noImg": "2026-11-11",
-  "infoChk": "2026-11-11",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
   "sets": [
    {
     "t": "P-E-T-R-O-N-I-K - LOVE THE FLOW (PSYTRANCE DJ SET)",
@@ -50324,13 +50393,23 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Anemona": {
-  "noImg": "2026-11-13",
-  "noLinks": "2026-11-13",
-  "infoChk": "2026-11-13",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "src": [
    "https://soundcloud.com/hartlabvienna/anemona-for-hart-lab-rrr-300422"
   ],
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "sets": [
+   {
+    "t": "Anemona for Hart Lab @ rrr, 30.04.22",
+    "u": "https://soundcloud.com/hartlabvienna/anemona-for-hart-lab-rrr-300422"
+   },
+   {
+    "t": "Hart Lab #5 w/ La Prinzessa Galaktika, Katana and Anemona",
+    "u": "https://soundcloud.com/resradio/hart-lab-3-w-la-prinzessa-galaktika-katana-and-anemona"
+   }
+  ]
  },
  "Evren de concecao": {
   "noImg": "2026-11-13",
@@ -50450,9 +50529,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Luv Affair on Air": {
-  "infoChk": "2026-11-14",
-  "noImg": "2026-11-14",
-  "noLinks": "2026-11-14",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "DJ Hill's Sunday": {
@@ -50573,6 +50652,34 @@ const AR={
   "noImg": "2026-11-15",
   "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
+ },
+ "Annzie": {
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "spChk": "2026-11-15"
+ },
+ "Hor 29. Novembar": {
+  "links": {
+   "sc": "https://soundcloud.com/hor29n",
+   "web": "https://hor29n.wordpress.com"
+  },
+  "bio": {
+   "de": "Hor 29. Novembar ist ein 2009 in Wien gegründeter Chor; „Hor“ ist das serbokroatische Wort für Chor, der Name verweist auf den 29. November 1943, das Gründungsdatum Jugoslawiens. Gesungen werden Lieder über Freiheit, Protest und Widerstand, etwa aus dem Spanischen Bürgerkrieg und dem Kampf jugoslawischer Partisanen gegen die Nazis, unter anderem auf Italienisch, Griechisch und Türkisch. Der Chor tritt auch bei größeren Demonstrationen auf.",
+   "en": "Hor 29. Novembar is a choir founded in Vienna in 2009; 'hor' is the Serbo-Croatian word for choir, and the name refers to 29 November 1943, the founding date of Yugoslavia. It sings songs of freedom, protest and resistance, such as songs from the Spanish Civil War and the Yugoslav partisans' fight against the Nazis, in languages including Italian, Greek and Turkish. The choir also performs at larger demonstrations."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "src": [
+   "https://www.meinbezirk.at/brigittenau/lokales/der-chor-29-novembar-singt-von-sloboda-freiheit-und-libert-d2395136.html",
+   "https://soundcloud.com/hor29n"
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15"
  }
 };
 
