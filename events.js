@@ -1401,14 +1401,17 @@ const CI={
   "src": [
    "https://ohschonhell.at/orte/praterstrasse+-+prst/912",
    "https://ra.co/events/2334467",
-   "https://ra.co/promoters/79040"
+   "https://ra.co/promoters/79040",
+   "https://merkwrdigrecords.bandcamp.com/community"
   ],
   "de": "Wiener Veranstalter (merk.wuerdig) mit House und Minimal, gespielt von der eigenen Crew; was als „kleine, etwas merkwürdige Idee“ begann, feierte 2026 zehn Jahre. Events u. a. im PRST, im SASS Music Club und im Porto Pollo auf der Donauinsel.",
   "en": "Viennese promoter (merk.wuerdig) for house and minimal, played by its own crew; what began as “a small, slightly merkwürdig idea” celebrated ten years in 2026. Events at PRST, SASS Music Club and Porto Pollo on the Danube Island, among others.",
   "ig": "https://www.instagram.com/merk__wuerdig/",
   "from": "Wien",
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-03",
+  "bc": "https://merkwrdigrecords.bandcamp.com/",
+  "logo": "https://f4.bcbits.com/img/0024118710_2.jpg"
  },
  "A Party Called Jack": {
   "founded": "2019",
@@ -2119,10 +2122,12 @@ const CI={
   "from": "Wien",
   "src": [
    "https://de.ra.co/events/1835390",
-   "https://de.ra.co/events/2003539"
+   "https://de.ra.co/events/2003539",
+   "https://de.ra.co/events/2550640"
   ],
-  "noLogo": "2026-10-31",
-  "infoChk": "2026-11-03"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "ig": "https://www.instagram.com/tasteless.vie/"
  },
  "Ravenbogen": {
   "de": "Queere Partyreihe aus Graz, u. a. mit „Gayliens on Stardust“ im Theatercafé Hin & Wider.",
@@ -4462,8 +4467,9 @@ const CI={
   "src": [
    "https://de.ra.co/events/2410711"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "sc": "https://soundcloud.com/straat264"
  },
  "F*cken Plus": {
   "de": "Partyreihe in der Grelle Forelle mit Techno- und Pop-Sounds; Ausgaben u. a. als „Megerparty“, zum Pride Closing und gemeinsam mit Mayday.",
@@ -4515,10 +4521,15 @@ const CI={
   ],
   "ig": "https://www.instagram.com/xperimentrecords/",
   "src": [
-   "https://ra.co/events/2534338"
+   "https://ra.co/events/2534338",
+   "https://ra.co/labels/25498",
+   "https://ra.co/events/2584082"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-03",
+  "founded": "2018",
+  "sc": "https://soundcloud.com/xperimentrecords",
+  "logo": "https://static.ra.co/images/labels/xperimentrecords.jpg?dateUpdated=1743628603820"
  },
  "BLUR": {
   "de": "Reihe im PRST mit House und Tech House und internationalen Headlinern (u. a. Rich NxT, Nu Zau); laut RA veranstaltet vom Kollektiv Ost:West.",
@@ -4738,8 +4749,8 @@ const CI={
   "src": [
    "https://ohschonhell.at/orte/flucc/50"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Store Beats": {
   "de": "Reihe im Kramladen, u. a. mit einer „Mind Entertainment Edition“.",
@@ -4750,8 +4761,12 @@ const CI={
  "Mind Entertainment": {
   "de": "Veranstalter bzw. Label (Mind Entertainment Records) mit Events im Kramladen und Weberknecht, darunter „RaveCon“ zum 50. Release.",
   "en": "Promoter and label (Mind Entertainment Records) with events at Kramladen and Weberknecht, including “RaveCon” for its 50th release.",
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "web": "https://mindentertainment.org/",
+  "src": [
+   "https://ra.co/events/2518338"
+  ]
  },
  "Cosmic Connection": {
   "de": "Nummerierte Reihe im Kramladen (bis mindestens vol. 14).",
