@@ -8,6 +8,7 @@ const LOGOBOX={
 "https://deepcut.at/wp-content/uploads/2026/02/deep-cut-Logo-white-300w.png":[300,94,0,0,300,94,"#000000"],
 "https://f4.bcbits.com/img/0002466762_10.jpg":[1200,1200,0,0,1200,1200,"#ffffff"],
 "https://f4.bcbits.com/img/0020688082_10.jpg":[890,1200,0,2,890,1197,"#ffffff"],
+"https://f4.bcbits.com/img/0024915830_10.jpg":[480,480,98,0,382,480,"#f6f6f6"],
 "https://f4.bcbits.com/img/0033112042_10.jpg":[1200,1200,120,122,1080,1080,"#ffffff"],
 "https://f4.bcbits.com/img/0034374240_10.jpg":[1200,1200,0,0,1200,1200,"#ffffff"],
 "https://f4.bcbits.com/img/0037885999_10.jpg":[1200,1200,299,277,912,897,"#000000"],
