@@ -2097,14 +2097,15 @@ const CI={
   ]
  },
  "Connecting People": {
-  "noLogo": "2026-10-31",
-  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "de": "Reihe im SASS Music Club mit House-Grooves, die auch die Sonntags-Afterhour „Morgengymnastik“ übernimmt; dazu Abende im PRST.",
   "en": "Series at SASS Music Club with house grooves that also takes over the Sunday afterhour “Morgengymnastik”; plus nights at PRST.",
   "src": [
    "https://sassvienna.com/en/events/event/connecting-people-31-10",
    "https://sassvienna.com/en/events/event/morgengymnastik-171"
-  ]
+  ],
+  "ig": "https://www.instagram.com/connectingpeople.vienna/"
  },
  "The Hive": {
   "noLogo": "2026-11-15",
@@ -4577,8 +4578,8 @@ const CI={
   "src": [
    "https://ra.co/events/2416071"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Hart & Zart": {
   "de": "Clubnacht im Kramladen nach dem Motto „nomen est omen“: House, Tech House und Minimal Deep Tech, „solange ihr stehen könnt“ – meist bei freiem Eintritt.",
@@ -4589,8 +4590,8 @@ const CI={
   "src": [
    "https://ra.co/events/2036581"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Galapa": {
   "de": "Wiener Reihe „Galapa Grooves“ mit House und Acid, u. a. im SASS Music Club, im Kramladen, im Tagada und im Club Lucia.",
@@ -4645,8 +4646,9 @@ const CI={
    "https://ja.ra.co/promoters/118182",
    "https://warda.at/?p=100721"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "ig": "https://www.instagram.com/raveonsociety/"
  },
  "Schlachthaus": {
   "de": "Techno-Reihe, die regelmäßig die FLUCC Wanne übernimmt – mit vorwärtsgewandtem Techno, eigenen Residents und Gästen; dazu Abende in der Grelle Forelle.",
@@ -4707,8 +4709,9 @@ const CI={
    "https://ra.co/events/1551900"
   ],
   "from": "Wien",
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "ig": "https://www.instagram.com/deepdive.vie/"
  },
  "Soundbüglerei": {
   "de": "Reihe rund um die DJ Anna Soto („Soundbüglerei / Soto & Friends“), u. a. im SASS Music Club, Tagada, FLUCC und Celeste; Soundbüglerei-Sets von Anna Soto liefen auch bei Radio Rudina.",
@@ -4771,8 +4774,8 @@ const CI={
  "Cosmic Connection": {
   "de": "Nummerierte Reihe im Kramladen (bis mindestens vol. 14).",
   "en": "Numbered series at Kramladen (up to at least vol. 14).",
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Herrensauna": {
   "de": "Queere Techno-Party aus Berlin, 2015 von den DJs CEM und MCMLXXXV gegründet und seit 2017 im Tresor zu Hause; steht für harten, schnellen Techno und betreibt ein eigenes Label. In Wien gemeinsame Nächte mit der Reihe Euphoria, etwa in der Pratersauna (2025).",
