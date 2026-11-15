@@ -6451,11 +6451,11 @@ const VI={
    "https://kollektiv-kaorle.at",
    "https://www.vienna.at/wiener-otto-wagner-areal-bekommt-neue-zwischennutzer/9638579"
   ],
-  "noLogo": "2026-10-28",
+  "noLogo": "2026-11-15",
   "de": "Kulturverein bzw. Kollektiv, das leerstehende Räume bespielt; seit Oktober 2025 im Pavillon 21 am Otto-Wagner-Areal (Steinhof, Penzing), davor in Ottakring. Programm aus Konzerten, Festivals, Ausstellungen, Film und Workshops.",
   "en": "Cultural association/collective activating vacant spaces; since October 2025 in Pavilion 21 of the Otto Wagner Areal (Steinhof, Penzing), previously in Ottakring. Programme of concerts, festivals, exhibitions, film and workshops.",
   "web": "https://kollektiv-kaorle.at",
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-15",
   "ig": "https://www.instagram.com/kollektiv_kaorle/"
  },
  "Westbahn Studios": {
@@ -6600,8 +6600,8 @@ const VI={
    "https://www.1000thingsmagazine.com/de/a/2159363/otto-wagner-areal-wien-zwischennutzung/",
    "https://www.vienna.at/wiener-otto-wagner-areal-bekommt-neue-zwischennutzer/9638579"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Loop": {
   "src": [
@@ -6672,8 +6672,8 @@ const VI={
    "VIP-Raum",
    "Lounge"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "The Inner Circle": {
   "de": "Club in der Altmannsdorfer Straße in Liesing (23. Bezirk), der sich selbst als „einziger Underground-Techno-Club Wiens“ bezeichnet; Eintritt nur für registrierte Mitglieder. Mit Techno- und House-Nächten, Crêpes-Stand, Retro-Games und einem Garten mit Lagerfeuer.",
@@ -6739,9 +6739,17 @@ const VI={
    "Indoor"
   ],
   "src": [
-   "https://ohschonhell.at/date/einbaumoebel-1bm-vienna-21-11-2026-bass-cave-drum-and-bass-w-unonessuno-mpathy"
+   "https://ohschonhell.at/date/einbaumoebel-1bm-vienna-21-11-2026-bass-cave-drum-and-bass-w-unonessuno-mpathy",
+   "https://edmdancedirectory.com/venues/kulturverein-einbaumoebel-1bm-vienna"
   ],
-  "infoChk": "2026-11-10"
+  "infoChk": "2026-11-15",
+  "de": "Kleiner Club des Kulturvereins Einbaumöbel (1BM) in einem Stadtbahnbogen am Währinger Gürtel im 9. Bezirk. Veranstaltungen mit elektronischer Tanzmusik und DJs, z. B. Drum and Bass.",
+  "en": "Small club run by the cultural association Einbaumöbel (1BM) in a Stadtbahn arch on the Währinger Gürtel in Vienna's 9th district. Events with electronic dance music and DJs, e.g. drum and bass.",
+  "alias": [
+   "Kulturverein Einbaumöbel",
+   "1BM"
+  ],
+  "noLogo": "2026-11-15"
  },
  "The Chamber": {
   "io": [
