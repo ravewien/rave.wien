@@ -1,0 +1,29 @@
+# Sonderlauf 2 Profile – Liste b05 (28). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Links<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+I.Lim	img,links,bio,from	2026-11-14			2026-11-15 FLUCC (Callshop Radio, Spumante Records) – FLUT x Callshop Radio – Week 46
+Anna Soto	img,links,from	2026-11-03			2026-11-20 Celeste (Das Syndikat) – syndikat
+DJ FERRARI	neu				2026-11-20 Das Werk (Synergy, KARTELL.FM, HEKTISCH) – Synergy Rave x Trance + Hard Techno
+Laerm	img,links,bio,from	2026-11-07			2026-11-20 Club Lucia (Schall & Schabernack) – Schall & Schabernack
+NoNameLeft	img	2026-11-03	Herkunft: Budapest, Ungarn; Genres: Techno, Melodic Techno; Labels: Vision Serpent, FORM Music, SubVision, Rubik's Recordings, Jannowitz Records	https://soundcloud.com/nonameleftmusic	2026-11-20 FLUCC (Vision Serpent) – Vision Serpent
+Techmoo	img,links,bio,from	2026-11-08			2026-11-20 FLUCC (Kollektiv Klanggerecht, Klanggerecht) – Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION
+Adrian Tronic	img,bio,from	2026-11-03		https://soundcloud.com/adriantronic https://www.instagram.com/adrian.tronic	2026-11-21 Club U (Du Tanzt Mich Mal) – Du Tanzt Mich Mal – Winter Open Air: Punsch Rave (Opening)
+Dijay Qualle	img,bio,from	2026-11-10		https://soundcloud.com/user-659478251	2026-11-21 Club Lucia (Kleingeld Kollektiv) – Kleingeld Kollektiv Klubnacht
+finster	img,links,bio,from	2026-11-03			2026-11-21 Celeste – hosted by the zound partisans
+L!XXL	img,links,bio,from	2026-11-04			2026-11-21 Loop (VIE'n'B) – VIE'n'B
+Nova.psd	img,links,bio,from	2026-11-03			2026-11-21 Rhiz – POLYCHAOS DUBIUM
+Saratonin	img,links,bio,from	2026-11-03			2026-11-21 FLUCC (Tanz dich glücklich) – Tanz dich glücklich
+Drehli Robnik	img,links	2026-11-03	Herkunft: Wien		2026-11-22 FLUCC – Sonntag'sdisco Vol. 29
+Dj Wifi	img,bio,from	2026-11-03		https://soundcloud.com/djwifiworld https://ra.co/dj/djwifi https://djwifi.bandcamp.com https://www.instagram.com/djwifi.mp3/	2026-11-27 Das Werk – Resident Night: GOLPE // DETOXX | 2026-11-28 Das Werk (GDN) – DEAD END Showcase with Paralich pres. by GDN
+Konman	img,links,from	2026-11-03			2026-11-27 PRST (Wien Modern) – Party Modern × PRST: Station Rose
+Polo	img,links,bio,from	2026-11-08			2026-11-27 Club Lucia (Qualia) – Qualia
+KSHMR	bio	2026-11-08	Herkunft: USA	https://soundcloud.com/kshmr https://ra.co/dj/kshmr https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe	2026-11-28 Prater Dome – KSHMR pres. by Prater DOME
+fejv	img,links,from	2026-11-11			2026-11-28 Club Lucia (CitrusCue) – CitrusCue presents COIDO & Wingz
+Popsimonova	neu				2026-11-28 FLUCC – Eröffnung 60 Jahre Gastarbajt – Die Verhältnisse zum Tanzen bringen – happiness as resistance
+DONAURAVE	img	2026-11-03	Herkunft: Wien; alias: Donau Rave	https://soundcloud.com/donaurave https://www.instagram.com/donaurave.wien/	2026-11-29 SASS Music Club (Morgengymnastik) – Morgengymnastik × Donaurave
+Eargasm God	from	2026-11-03		https://soundcloud.com/eargasmgod https://ra.co/dj/eargasmgod https://open.spotify.com/artist/4Fry0sEjFRKflf45xpPUMp	2026-12-04 Grelle Forelle (Step Forward, Mahlwerk) – Step Forward pres. Eargasm God
+DJ Hueftschwung	img,links,bio,from	2026-11-11			2026-12-05 Club Lucia (KRAWALL) – KRAMPUS RAVE by KRAWALL
+Karam	img,links,from	2026-11-03	Genres: Psytrance		2026-12-05 Club Exil (Tribal Vibes) – Tribal Vibes meets Exil
+Tündérke	img	2026-11-03	Herkunft: Budapest, Ungarn; Genres: Psytrance, Hitech, Forest; alias: Djane Tündérke	https://www.mixcloud.com/tunderke_/ https://www.instagram.com/tunderke__	2026-12-05 Club Exil (Tribal Vibes) – Tribal Vibes meets Exil
+Fractured Souls	img,links,bio,from	2026-11-03			2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Raw Kickzz	img,links,bio,from	2026-11-11			2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Tekno Nixe	img,bio,from	2026-11-11		https://soundcloud.com/tekno-nixe	2026-12-11 TBA (Nasty Connexion) – TEKNOTEKA Vol. 4
+Opthix	bio,from	2026-11-11		https://soundcloud.com/opthix https://open.spotify.com/artist/2SicmUBLLAVXHZE92I7vSy	2026-12-18 TBA (NachtAktiv) – NachtAktiv presents PsyJungle

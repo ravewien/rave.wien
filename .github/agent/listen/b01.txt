@@ -1,0 +1,29 @@
+# Sonderlauf 2 Profile – Liste b01 (28). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Links<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+DJ Can't Commit	img,links,bio,from	2026-11-14			2026-11-15 FLUCC (Callshop Radio, Spumante Records) – FLUT x Callshop Radio – Week 46
+Mert Seger	img	2026-11-03	Herkunft: Lyon, Frankreich; Labels: Plaque, KUMP; alias: Gil.Barte	https://soundcloud.com/mertsegermusic	2026-11-19 Coco Bar (VLAN) – HEAVY LISTENING with Tanja Turner, Mert Seger & Heap
+Dan.P	neu				2026-11-20 Das Werk (Synergy, KARTELL.FM, HEKTISCH) – Synergy Rave x Trance + Hard Techno
+Jule Feser	img,links,bio,from	2026-11-03			2026-11-20 Celeste (Das Syndikat) – syndikat
+mein__dm	img,links,bio,from	2026-11-08			2026-11-20 FLUCC (Kollektiv Klanggerecht, Klanggerecht) – Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION
+Seba	links,bio,from	2026-11-03			2026-11-20 SASS Music Club (Freeride Millenium) – Freeride Millenium
+_ra_di_aa_ti_on_	img,links,bio,from	2026-11-03			2026-11-21 Celeste – hosted by the zound partisans
+CED	img,links,bio,from	2026-11-03			2026-11-21 Tagada (Soundhouse) – Soundhouse
+Duplikate	img,links,bio,from	2026-11-03			2026-11-21 Club U (Du Tanzt Mich Mal) – Du Tanzt Mich Mal – Winter Open Air: Punsch Rave (Opening) | 2026-12-05 Tagada (Housetiere, VG+) – HOUSETIERE × VG+ Weekender
+Ironica Los Culos	img,bio,from	2026-11-03		https://soundcloud.com/ironica-los-culos	2026-11-21 Rhiz – POLYCHAOS DUBIUM
+Miss Roshni	img,bio,from	2026-11-09		https://soundcloud.com/missroshni	2026-11-21 Funkhaus (Yolo Taxi) – Yolo Taxi with UMAFRICANA, Lua Preta & Miss Roshni
+RAUM: 23:45|Edictum	neu				2026-11-21 The Inner Circle – lost or unreachable
+Teppich Funk	img,links,bio,from	2026-11-03	alias: Lee&Marvin		2026-11-21 Weberknecht – Mottosause // Boots, Beer & Beats
+Ave Maria	img,links,bio,from	2026-11-03			2026-11-27 The Loft (Bassbussi) – Bassbussi Allstars – 3 Years Anniversary
+Illtek	img,from	2026-11-03	Genres: Tekno, Acid Tekno	https://soundcloud.com/illtek23	2026-11-27 Club Exil (CPE) – 20 Jahre CPE
+MC Spot	img,links,from	2026-11-03			2026-11-27 Grelle Forelle (Flashback, FactX) – Flashback w/ Thomas Schumacher – Techno Classics
+Van:Hill	img,from	2026-11-03	Genres: Drum & Bass	https://soundcloud.com/vanhilldnb https://www.instagram.com/vanhillmusic	2026-11-27 Flex (High Voltage Fairies) – High Voltage Fairies in the Pit – Metal x DnB
+DJ Ecoton	img,links,bio,from	2026-11-14			2026-11-28 Kramladen (Xperiment Records) – Xperiment Nights
+Meander	img,links,bio,from	2026-11-05			2026-11-28 Tagada (Patches) – Patches
+vazov	img,links,from	2026-11-11	alias: Subcurrent		2026-11-28 Club Lucia (CitrusCue) – CitrusCue presents COIDO & Wingz
+D.b.h	img,links,bio,from	2026-11-03			2026-12-03 FLUCC (Restless) – 15 Years Restless – Album Release Party
+Boom Shankar	img	2026-11-03	Herkunft: Deutschland; Genres: Psytrance, Goa Trance; Labels: BMSS Records	https://soundcloud.com/boomshankar-bmssrecords	2026-12-05 Club Exil (Tribal Vibes) – Tribal Vibes meets Exil
+Hamelin	img,links,from	2026-11-03	Genres: Psytrance		2026-12-05 Club Exil (Tribal Vibes) – Tribal Vibes meets Exil
+PJPJPJ	from	2026-11-03	Genres: Acid, Italo, Progressive House; Labels: Metro Drive; alias: Aerodynamic Boy, PJ.nm	https://soundcloud.com/pjnm https://ra.co/dj/pjpjpj	2026-12-05 Tagada (Housetiere, VG+) – HOUSETIERE × VG+ Weekender | 2026-12-18 Tagada (Housetiere) – Housetiere with POSI FLO
+Askeladd	img,links,bio,from	2026-11-11			2026-12-07 The Chamber (Uniquely Journeys) – Maiden Voyage w/ Tapanov
+Monch	img,links,bio,from	2026-11-11			2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Gurkal²³	img,links,bio,from	2026-11-11			2026-12-11 TBA (Nasty Connexion) – TEKNOTEKA Vol. 4
+Chakabalara	img	2026-11-12	Herkunft: Berlin; Genres: Drum & Bass, Electronic, Experimental, Noise	https://chakabalara.bandcamp.com	2026-12-18 Kramladen (Acidic Juice, NOTYOURORDINARY) – Acidic Juice x NOTYOURORDINARY – Live

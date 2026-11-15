@@ -9,7 +9,7 @@
 //  - Bestehende Einträge mit man:1: nur LEERE Felder ergänzen, nie Werte ändern.
 //  - Vorhandenes img / logo nie ändern.
 //  - Alle anderen Felder: setzen (Objekte wie links/bio/from werden feldweise zusammengeführt).
-//  - alias: Listen werden vereinigt (keine Dubletten).
+//  - alias und src: Listen werden vereinigt (keine Dubletten).
 //  - Ein neuer Name, der bereits alias eines Eintrags ist, wird auf diesen Eintrag umgeleitet.
 const fs = require("fs"), path = require("path"), vm = require("vm");
 const patchF = process.argv[2], evF = process.argv[3] || path.resolve(__dirname, "..", "..", "events.js");
@@ -37,6 +37,10 @@ function mergeEntry(cur, add, man, top) {
       const have = new Set((cur.alias || []).map(key)); const out = (cur.alias || []).slice();
       v.forEach(a => { if (typeof a === "string" && a.trim() && !have.has(key(a))) { out.push(a.trim()); have.add(key(a)); } });
       if (out.length !== (cur.alias || []).length) { cur.alias = out; changed++; } continue;
+    }
+    if (top && f === "src" && Array.isArray(v) && Array.isArray(cur.src)) { // Quellen sammeln, nie ersetzen
+      const out = cur.src.slice(); v.forEach(u => { if (typeof u === "string" && u.trim() && !out.includes(u.trim())) out.push(u.trim()); });
+      if (out.length !== cur.src.length) { cur.src = out; changed++; } continue;
     }
     if (isObj(v) && (isObj(cur[f]) || cur[f] == null)) {
       if (cur[f] == null) cur[f] = {};

@@ -1,0 +1,28 @@
+# Sonderlauf 2 Profile – Liste b10 (27). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Links<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+UV Project	img,links,bio,from	2026-11-03			2026-11-19 Kramladen – Teknoteka
+Comrade Martin	neu				2026-11-20 Das Werk (Synergy, KARTELL.FM, HEKTISCH) – Synergy Rave x Trance + Hard Techno
+Initiative 21	img,links,bio,from	2026-11-09			2026-11-20 Club Exil (4lthangrund) – Grund für Exil – Soliparty
+Mark Dale	img,links,bio,from	2026-11-03			2026-11-20 The Loft (Sub Zero) – Sub Zero
+Sauerstøff	img,links,bio,from	2026-11-08			2026-11-20 FLUCC (Kollektiv Klanggerecht, Klanggerecht) – Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION
+UNONESSUNO	img,links,bio,from	2026-11-10			2026-11-21 Einbaumöbel (Bass Cave) – Bass Cave – Drum and Bass w/ UNONESSUNO & M:PATHY
+BON	img,links,bio,from	2026-11-04			2026-11-21 Loop (VIE'n'B) – VIE'n'B
+dRob	img,links,bio,from	2026-11-13			2026-11-21 Club U (Du Tanzt Mich Mal) – Du Tanzt Mich Mal – Winter Open Air: Punsch Rave (Opening)
+ILLA	img,links,bio,from	2026-11-04			2026-11-21 Loop (VIE'n'B) – VIE'n'B
+Maze of Madness	img,links,bio,from	2026-11-11			2026-11-21 Club Exil (Endless Insanity) – Endless Insanity III
+Rantom	img,from	2026-11-03		https://soundcloud.com/rantom_official	2026-11-21 Das Werk (54Hz, Stay Acid) – 54Hz pres. CREEDS | 2026-12-12 Grelle Forelle (Contrast) – Contrast pres. Dance Macabre w/ Simula + Enei + Skantia
+Synthesis	img,links,bio,from	2026-11-03			2026-11-21 Loop (VIE'n'B) – VIE'n'B
+Andrew Ahmed	img,links,bio,from	2026-11-03			2026-11-27 The Loft (Bassbussi) – Bassbussi Allstars – 3 Years Anniversary | 2026-11-28 Grelle Forelle (Selected, Bassbussi) – Selected × Bassbussi w/ Cara Elizabeth & Frederic.
+Harry Knaypp	img,links,bio,from	2026-11-08			2026-11-27 Club Lucia (Qualia) – Qualia
+MC Mars	img,links,from	2026-11-03			2026-11-27 Grelle Forelle (Flashback, FactX) – Flashback w/ Thomas Schumacher – Techno Classics
+Tom Snow	img,from	2026-11-03	Genres: Techno	https://soundcloud.com/tom-snow	2026-11-27 Grelle Forelle (Flashback, FactX) – Flashback w/ Thomas Schumacher – Techno Classics
+dj ayran	img,links,bio,from	2026-11-05			2026-11-28 Tagada (Patches) – Patches
+MC Jimmy Danger	img,links	2026-11-03	Herkunft: Großbritannien		2026-11-28 Flex (Switch!) – Switch! presents Primate – Sticks & Stones Europe Tour
+Tursa	img,links,bio,from	2026-11-05			2026-11-28 Tagada (Patches) – Patches
+Chrisfader	img	2026-11-07	Herkunft: Tirol / Wien; Genres: Hip-Hop; Labels: Duzz Down San, Little Beat More	https://soundcloud.com/chrisfader-1 https://chrisfaderundtesta.bandcamp.com	2026-12-03 FLUCC (Restless) – 15 Years Restless – Album Release Party
+Arnab	img,links,bio,from	2026-11-03			2026-12-05 Club Exil (Tribal Vibes) – Tribal Vibes meets Exil
+Fliize	img,links,from	2026-11-03	Genres: House		2026-12-05 Tagada (Housetiere, VG+) – HOUSETIERE × VG+ Weekender
+Louk	img,links,bio,from	2026-11-03			2026-12-05 Tagada (Housetiere, VG+) – HOUSETIERE × VG+ Weekender
+Another Dimension vs Reflexx	neu				2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Meltdown	img,links,bio,from	2026-11-03			2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Unicorn on K	bio	2026-11-11	Herkunft: Spanien; alias: Unicorn on Ketamine	https://ra.co/dj/unicornonketamine https://open.spotify.com/artist/3NoAERCAeMG0EOGpbpdYLm	2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+The Trip	img,links,bio,from	2026-11-04			2026-12-18 PRST – PRST invites The Trip

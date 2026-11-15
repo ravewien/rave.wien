@@ -1,0 +1,29 @@
+# Sonderlauf 2 Profile – Liste b07 (28). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Links<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+Patches	img,links,bio,from	2026-11-14			2026-11-15 FLUCC (Callshop Radio, Spumante Records) – FLUT x Callshop Radio – Week 46
+Aside	img,links,bio	2026-11-03	Herkunft: Wien		2026-11-20 Celeste (Das Syndikat) – syndikat
+færo demonic	img,links,bio,from	2026-11-03			2026-11-20 Kollektiv Kaorle (AMBIEVENT) – AMBIEVENT – trace encounters
+Lim Banda	img,from	2026-11-03		https://soundcloud.com/lim_banda	2026-11-20 Grelle Forelle (Fish Market, Luv Affair) – Fish Market w/ Altinbas, Annika Stein, Gerald VDH
+Paris Böhm	img,links,from	2026-11-03			2026-11-20 SASS Music Club (Freeride Millenium) – Freeride Millenium
+The House of Funk Residents	neu				2026-11-20 Funkhaus – The House of Funk presents Ricky Chong
+ARAS JE'TÄM	img,links,bio,from	2026-11-03			2026-11-21 FLUCC (Art Attech) – Art Attech – Kunst küsst Techno
+Dj Ritual Spirit	img,links,bio,from	2026-11-03			2026-11-21 The Inner Circle – lost or unreachable
+Franky	img,links,bio,from	2026-11-03			2026-11-21 Weberknecht – Mottosause // Boots, Beer & Beats
+MANDALA	img,links,bio,from	2026-11-04			2026-11-21 Loop (VIE'n'B) – VIE'n'B
+OK CUTEE	img,links,bio,from	2026-11-03			2026-11-21 FLUCC (Art Attech) – Art Attech – Kunst küsst Techno
+SoDa	img,links,bio,from	2026-11-04			2026-11-21 Das Werk (54Hz, Stay Acid) – 54Hz pres. CREEDS
+Crnobrnja	img,links,bio,from	2026-11-03			2026-11-26 SASS Music Club – Donnerstag Nacht
+Fairy Mary	img,links,bio,from	2026-11-03			2026-11-27 Flex (High Voltage Fairies) – High Voltage Fairies in the Pit – Metal x DnB
+MANY MAMMUT	img,from	2026-11-03	Genres: Acid, Tekno, Techno; alias: Many23	https://soundcloud.com/many23 https://www.mixcloud.com/many23/ https://www.instagram.com/manymammut/	2026-11-27 Club Exil (CPE) – 20 Jahre CPE
+Romen Est Omen	img,bio,from	2026-11-03		https://soundcloud.com/romen_est_omen	2026-11-27 Grelle Forelle (Flashback, FactX) – Flashback w/ Thomas Schumacher – Techno Classics
+Benjay	img,links,from	2026-11-03			2026-11-28 Altia Skybar – DC Tower (AWSM) – AWSM. Skyscraper Edition
+L3nny	img,links,from	2026-11-03	Genres: Drum & Bass		2026-11-28 Flex (Switch!) – Switch! presents Primate – Sticks & Stones Europe Tour
+Red Groove System	img,links,bio,from	2026-11-03			2026-11-28 PRST (Red Groove Social Club) – RED GROOVE (Social Club) with Nick Curly
+FRNRKE	img,from	2026-11-04		https://soundcloud.com/aphanfrnrke	2026-11-30 Club Lucia – Harmont Live with A_Phan & FRNRKE
+Matthias Kaiser	bio	2026-11-03	Herkunft: Österreich	https://ra.co/dj/matthiaskaiser	2026-12-04 PRST (BLUR) – BLUR with Doudou MD
+Elyante	img,from	2026-11-11		https://soundcloud.com/elyante	2026-12-05 Club Lucia (KRAWALL) – KRAMPUS RAVE by KRAWALL
+Kippenhaus	img,from	2026-11-11		https://soundcloud.com/kippenhaus https://open.spotify.com/artist/7y6OYZ4aBOlwO2n1VjnNa1	2026-12-05 Club Lucia (KRAWALL) – KRAMPUS RAVE by KRAWALL
+99PRBLMZ	bio,from	2026-11-11		https://soundcloud.com/99prblmz https://open.spotify.com/artist/6SU7dAcEA0XXqGTLMM9zSF	2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Katana	img,links,bio,from	2026-11-11			2026-12-07 The Chamber (Uniquely Journeys) – Maiden Voyage w/ Tapanov
+Sonic Warfare	img,links,bio,from	2026-11-03			2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Nikilist	img,links,bio,from	2026-11-03			2026-12-12 Grelle Forelle (Contrast) – Contrast pres. Dance Macabre w/ Simula + Enei + Skantia
+Suitside	img,links,bio,from	2026-11-03			2026-12-18 The Loft (Cybertribe) – CYBERTRIBE pres. CLUB GSPUSI

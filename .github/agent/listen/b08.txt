@@ -1,0 +1,29 @@
+# Sonderlauf 2 Profile – Liste b08 (28). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Links<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+PILLBERT	img,links,bio,from	2026-11-09			2026-11-15 Rhiz (nomenklatur) – nomenklatur w/ great area & PILLBERT (live)
+bobbyyxjohnson	img,links,bio,from	2026-11-07			2026-11-20 Club Lucia (Schall & Schabernack) – Schall & Schabernack
+Franco	img,links,bio,from	2026-11-12			2026-11-20 Funkhaus – The House of Funk presents Ricky Chong
+Malounadou	img,from	2026-11-03		https://www.instagram.com/malounadou/	2026-11-20 Celeste (Das Syndikat) – syndikat
+presso	neu				2026-11-20 Das Werk (Synergy, KARTELL.FM, HEKTISCH) – Synergy Rave x Trance + Hard Techno
+wldfee	img,links,bio,from	2026-11-08			2026-11-20 FLUCC (Kollektiv Klanggerecht, Klanggerecht) – Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION
+Armin Karmin	img,links,bio,from	2026-11-03			2026-11-21 Grelle Forelle (Contrast) – Contrast pres. DJ Marky + Pola & Bryson
+DJ Wolle	img,links,bio,from	2026-11-04			2026-11-21 Das Werk (54Hz, Stay Acid) – 54Hz pres. CREEDS
+Gomez & Nickfried	img,links,bio,from	2026-11-03			2026-11-21 Weberknecht – Mottosause // Boots, Beer & Beats
+Mantis	img,links,bio,from	2026-11-03			2026-11-21 Grelle Forelle (Contrast) – Contrast pres. DJ Marky + Pola & Bryson
+Paul Galbur	img,links,bio,from	2026-11-03			2026-11-21 Weberknecht – Mottosause // Boots, Beer & Beats
+Stan Matan	img,links,bio,from	2026-11-03			2026-11-21 Grelle Forelle (Contrast) – Contrast pres. DJ Marky + Pola & Bryson
+neomodern	img,links,bio,from	2026-11-03			2026-11-26 SASS Music Club – Donnerstag Nacht
+Floreal	img,links,bio,from	2026-11-03			2026-11-27 Funkhaus (Firlefunk) – Cafe Disko x Firlefunk
+Martin Oelz	img,from	2026-11-03		https://soundcloud.com/martinoelz	2026-11-27 Grelle Forelle (Flashback, FactX) – Flashback w/ Thomas Schumacher – Techno Classics
+Rosi	img,links,bio,from	2026-11-03			2026-11-27 Flex (High Voltage Fairies) – High Voltage Fairies in the Pit – Metal x DnB
+Breeze	img,links,from	2026-11-03	Genres: Drum & Bass		2026-11-28 Flex (Switch!) – Switch! presents Primate – Sticks & Stones Europe Tour
+Leen Tilt	img,from	2026-11-14	Labels: Xperiment Records	https://soundcloud.com/leentilt https://ra.co/dj/leentilt	2026-11-28 Kramladen (Xperiment Records) – Xperiment Nights
+Replic	from	2026-11-03	Genres: Drum & Bass	https://soundcloud.com/replic https://ra.co/dj/replic	2026-11-28 Flex (Switch!) – Switch! presents Primate – Sticks & Stones Europe Tour
+Adam19	img,links,from	2026-11-03			2026-12-03 Kramladen (Fifi) – FIFI RAVE
+Robert Maslach	img,links,bio,from	2026-11-06			2026-12-04 The Loft (Empyreon, Kollektiv Birdhouse) – Empyreon – Vol. IV
+Entheon	img,from	2026-11-03	Genres: Psytrance; Labels: Hunab Ku Records	https://soundcloud.com/entheon	2026-12-05 Club Exil (Tribal Vibes) – Tribal Vibes meets Exil
+Krueger	img,links,from	2026-11-03	Genres: House		2026-12-05 Tagada (Housetiere, VG+) – HOUSETIERE × VG+ Weekender
+Active Elementz	img,bio,from	2026-11-11		https://soundcloud.com/activeelementz	2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Likeflow	img,links,bio,from	2026-11-11			2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Tapanov	img,bio,from	2026-11-11		https://soundcloud.com/djtapanov	2026-12-07 The Chamber (Uniquely Journeys) – Maiden Voyage w/ Tapanov
+Softi	img,links,bio,from	2026-11-10			2026-12-12 Grelle Forelle (Contrast) – Contrast pres. Dance Macabre w/ Simula + Enei + Skantia
+Ambient Animal	img,from	2026-11-10	Labels: sama recordings	https://soundcloud.com/ambientanimal	2026-12-19 Celeste (sama recordings) – sama recordings pres. schweben

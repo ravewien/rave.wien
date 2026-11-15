@@ -1,0 +1,29 @@
+# Sonderlauf 2 Profile – Liste b09 (28). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Links<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+Soundbüglerei	img,links,bio,from	2026-11-09			2026-11-15 FLUCC (Callshop Radio, Spumante Records) – FLUT x Callshop Radio – Week 46 | 2026-11-20 Club Exil (4lthangrund) – Grund für Exil – Soliparty
+Booster Club	img,links,bio,from	2026-11-09			2026-11-20 Club Exil (4lthangrund) – Grund für Exil – Soliparty
+High Chew	neu				2026-11-20 Rhiz (GLITCH) – GLITCH Vienna 001
+MANiLO	img	2026-11-03	Herkunft: Deutschland; Genres: Hard Techno, Hardgroove, Techno	https://soundcloud.com/manilo-music-official https://www.mixcloud.com/ma-ni-lo/	2026-11-20 The Loft (Sub Zero) – Sub Zero
+Sabina	img,links,bio,from	2026-11-03			2026-11-20 Grelle Forelle (Fish Market, Luv Affair) – Fish Market w/ Altinbas, Annika Stein, Gerald VDH
+M:Pathy	img,links,bio,from	2026-11-10			2026-11-21 Einbaumöbel (Bass Cave) – Bass Cave – Drum and Bass w/ UNONESSUNO & M:PATHY
+Artifex	img,links,bio,from	2026-11-03			2026-11-21 Club Lucia (Kleingeld Kollektiv) – Kleingeld Kollektiv Klubnacht
+DJEENI	img,links,bio,from	2026-11-03			2026-11-21 FLUCC (Tanz dich glücklich) – Tanz dich glücklich
+Highko	img,from	2026-11-11	Labels: Blast Records	https://soundcloud.com/highkonoisepoison https://open.spotify.com/artist/2oi3YpnftlWFOpEfFIiEUr	2026-11-21 Club Exil (Endless Insanity) – Endless Insanity III
+Manu Script	img,from	2026-11-03	Genres: Techno	https://soundcloud.com/manu_script	2026-11-21 Club U (Du Tanzt Mich Mal) – Du Tanzt Mich Mal – Winter Open Air: Punsch Rave (Opening)
+PHUEL	img,links,bio,from	2026-11-10			2026-11-21 Einbaumöbel (Bass Cave) – Bass Cave – Drum and Bass w/ UNONESSUNO & M:PATHY
+SWEGALICIOUS	img,links,bio,from	2026-11-03			2026-11-21 FLUCC (Tanz dich glücklich) – Tanz dich glücklich
+Alezzaro	img	2026-11-03	Herkunft: Wien; Genres: Psytrance, Progressive Psytrance; Labels: IONO MUSIC	https://soundcloud.com/alezzaro https://www.instagram.com/alezzaro_music/	2026-11-27 Prater Dome (Triple A Events) – Access Another Atmosphere w/ Cosmic Gate & Ruben de Ronde | 2026-12-05 Club Exil (Tribal Vibes) – Tribal Vibes meets Exil
+Hanneken	img,links,bio,from	2026-11-03			2026-11-27 Grelle Forelle (Flashback, FactX) – Flashback w/ Thomas Schumacher – Techno Classics
+MAWU	img,links,bio,from	2026-11-03			2026-11-27 Altia Skybar – DC Tower (AWSM) – AWSM. Skyscraper Edition (Extra Date) | 2026-11-28 Altia Skybar – DC Tower (AWSM) – AWSM. Skyscraper Edition
+Sluzy	img,links,bio,from	2026-11-03			2026-11-27 The Loft (Bassbussi) – Bassbussi Allstars – 3 Years Anniversary
+Disorder	img	2026-11-03	Herkunft: Wien; Genres: Drum & Bass	https://soundcloud.com/disordervienna	2026-11-28 Flex (Switch!) – Switch! presents Primate – Sticks & Stones Europe Tour
+Marie Cherie	neu				2026-11-28 FLUCC – Eröffnung 60 Jahre Gastarbajt – Die Verhältnisse zum Tanzen bringen – happiness as resistance
+Rolltreppe	neu				2026-11-28 FLUCC – Eröffnung 60 Jahre Gastarbajt – Die Verhältnisse zum Tanzen bringen – happiness as resistance
+ARX	img,links,bio,from	2026-11-12			2026-12-03 Kramladen (Fifi) – FIFI RAVE
+MESROD	img,from	2026-11-03	Genres: House; alias: Mesrød	https://soundcloud.com/mesrodetavner	2026-12-05 Tagada (Housetiere, VG+) – HOUSETIERE × VG+ Weekender
+Evi B	img,links,bio,from	2026-11-11			2026-12-05 Club Lucia (KRAWALL) – KRAMPUS RAVE by KRAWALL
+Lilosh	img,from	2026-11-03	Genres: House	https://soundcloud.com/liloshh	2026-12-05 Tagada (Housetiere, VG+) – HOUSETIERE × VG+ Weekender
+Active8	img,links,bio,from	2026-11-11			2026-12-07 The Chamber (Uniquely Journeys) – Maiden Voyage w/ Tapanov
+LLo	img,links	2026-11-03	Herkunft: Italien (Mailand)		2026-12-07 The Loft (GLITCH, Resonance Social Artists) – GLITCH Vienna pres. Stef Davidse
+Twisted Aura	img,bio,from	2026-11-11		https://soundcloud.com/twistedaura https://open.spotify.com/artist/7wygrgvNvLOjGlz6Y7eDqU	2026-12-07 The Chamber (Uniquely Journeys) – Maiden Voyage w/ Tapanov
+POSI FLO	img,bio,from	2026-11-10		https://soundcloud.com/user-557855461	2026-12-18 Tagada (Housetiere) – Housetiere with POSI FLO
+Mariam Rezaei	img	2026-11-10	Herkunft: Großbritannien	https://open.spotify.com/artist/1oUdbspKPQFPgMRZ6snFa5	2026-12-21 Westbahn Studios (Ventil Records) – Ventil Records pres. Eardrum Residency w/ Mariam Rezaei

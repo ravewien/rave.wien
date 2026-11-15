@@ -1,0 +1,29 @@
+# Sonderlauf 2 Profile – Liste b06 (28). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Links<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+Luv Affair on Air	img,links,bio,from	2026-11-14			2026-11-15 FLUCC (Callshop Radio, Spumante Records) – FLUT x Callshop Radio – Week 46
+Annzie	neu				2026-11-20 Rhiz (GLITCH) – GLITCH Vienna 001
+Ernst	img,links,bio,from	2026-11-03			2026-11-20 Grelle Forelle (Fish Market, Luv Affair) – Fish Market w/ Altinbas, Annika Stein, Gerald VDH
+LCA	img,links,bio,from	2026-11-03			2026-11-20 Kollektiv Kaorle (AMBIEVENT) – AMBIEVENT – trace encounters
+NooK	img,links,bio,from	2026-11-08			2026-11-20 FLUCC (Kollektiv Klanggerecht, Klanggerecht) – Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION
+TenFifty	img,links,from	2026-11-03	Genres: Tech House, House		2026-11-20 Rhiz (GLITCH) – GLITCH Vienna 001 | 2026-12-07 The Loft (GLITCH, Resonance Social Artists) – GLITCH Vienna pres. Stef Davidse
+Agressive Mood	img,from	2026-11-11	Labels: Black Out Records, Blast Records	https://soundcloud.com/agressive-mood https://open.spotify.com/artist/3eEiHN6C5Qr3UPAFS31RUi	2026-11-21 Club Exil (Endless Insanity) – Endless Insanity III
+DJ Parkverbot	bio	2026-11-03	Herkunft: Wien	https://ra.co/dj/djparkverbot	2026-11-21 FLUCC (Art Attech) – Art Attech – Kunst küsst Techno | 2026-11-27 The Loft (Bassbussi) – Bassbussi Allstars – 3 Years Anniversary
+Frankee	img,links,bio,from	2026-11-10			2026-11-21 Club Lucia (Kleingeld Kollektiv) – Kleingeld Kollektiv Klubnacht
+LaLa	img,links,bio,from	2026-11-03			2026-11-21 SASS Music Club (Wreck) – Wreck
+Nysos	img,links,bio,from	2026-11-03			2026-11-21 Grelle Forelle (Contrast) – Contrast pres. DJ Marky + Pola & Bryson
+Shaxoron	img,links,bio,from	2026-11-03			2026-11-21 Loop (VIE'n'B) – VIE'n'B
+Young Sun	img,links,bio,from	2026-11-03			2026-11-22 SASS Music Club (Wreck, Morgengymnastik) – Morgengymnastik × Wreck
+Elasoul	img,bio,from	2026-11-03		https://soundcloud.com/elasoul	2026-11-27 Funkhaus (Firlefunk) – Cafe Disko x Firlefunk
+Leanne	img,links,bio,from	2026-11-03			2026-11-27 The Loft (Bassbussi) – Bassbussi Allstars – 3 Years Anniversary
+Rokis	img	2026-11-03	Herkunft: Wien; Genres: Techno	https://www.mixcloud.com/Rokis/	2026-11-27 Grelle Forelle (Flashback, FactX) – Flashback w/ Thomas Schumacher – Techno Classics
+Anemona	img,links,bio,from	2026-11-13			2026-11-28 Creative Cluster Vienna (Hart Lab) – Hart Lab: Resonance
+Hor 29. Novembar	neu				2026-11-28 FLUCC – Eröffnung 60 Jahre Gastarbajt – Die Verhältnisse zum Tanzen bringen – happiness as resistance
+Primate	img	2026-11-03	Herkunft: Gent, Belgien; Genres: Drum & Bass	https://soundcloud.com/absoluteprimate https://www.instagram.com/itsprimate/ https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU	2026-11-28 Flex (Switch!) – Switch! presents Primate – Sticks & Stones Europe Tour
+Harmont	img	2026-11-11	Herkunft: Österreich	https://www.harmontmusic.com	2026-11-30 Club Lucia – Harmont Live with A_Phan & FRNRKE
+Distorgina	img,links,bio,from	2026-11-11			2026-12-04 Grelle Forelle (Step Forward, Mahlwerk) – Step Forward pres. Eargasm God
+Egorythmia	img	2026-11-03	Herkunft: Nordmazedonien; Genres: Psytrance, Progressive Psytrance; Labels: Iono Music	https://soundcloud.com/egorythmia https://open.spotify.com/artist/4kxgUvOXcumvg81njRP7Ud	2026-12-05 Club Exil (Tribal Vibes) – Tribal Vibes meets Exil
+Kayara	img,links,from	2026-11-03	Genres: Psytrance		2026-12-05 Club Exil (Tribal Vibes) – Tribal Vibes meets Exil
+2 Facez	img,links,bio,from	2026-11-11			2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Humanforce	from	2026-11-11	Genres: Rawtempo	https://soundcloud.com/humanforce https://open.spotify.com/artist/2Esmvh0vyS639iZGlAJZYh	2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Recovered	img,links,bio,from	2026-11-03			2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Karolina	img,links,bio,from	2026-11-03			2026-12-12 Multiversum Schwechat – KlangKuenstler
+Petronik	img,bio,from	2026-11-11		https://soundcloud.com/p-e-t-r-o-n-i-k	2026-12-18 TBA (NachtAktiv) – NachtAktiv presents PsyJungle

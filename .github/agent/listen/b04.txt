@@ -1,0 +1,29 @@
+# Sonderlauf 2 Profile – Liste b04 (28). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Links<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+High Noon Rockers	img,links,bio,from	2026-11-14			2026-11-15 FLUCC (Callshop Radio, Spumante Records) – FLUT x Callshop Radio – Week 46
+Aleta	img,links,bio,from	2026-11-03			2026-11-20 PRST (Achterbahn) – Anna Ullrich pres. Achterbahn | 2026-11-21 FLUCC (Art Attech) – Art Attech – Kunst küsst Techno
+DJ Countessa	img,links,bio,from	2026-11-03			2026-11-20 The Loft – Männer im Loft
+L4NC3	neu				2026-11-20 Das Werk (Synergy, KARTELL.FM, HEKTISCH) – Synergy Rave x Trance + Hard Techno
+Noemi Universe	img,links,bio,from	2026-11-03			2026-11-20 The Loft – Männer im Loft
+Tactical Delay	neu				2026-11-20 Das Werk (Synergy, KARTELL.FM, HEKTISCH) – Synergy Rave x Trance + Hard Techno
+ADANA	img,links,bio,from	2026-11-07			2026-11-21 Das Werk (54Hz, Stay Acid) – 54Hz pres. CREEDS
+DI GELLNER	img,links,bio,from	2026-11-10			2026-11-21 Einbaumöbel (Bass Cave) – Bass Cave – Drum and Bass w/ UNONESSUNO & M:PATHY
+Fabian Hofer	img,links,bio,from	2026-11-03			2026-11-21 Tagada (Soundhouse) – Soundhouse
+Krawallbarbie	img,from	2026-11-03		https://soundcloud.com/krawall_barbie	2026-11-21 FLUCC (Art Attech) – Art Attech – Kunst küsst Techno
+MUSA	img,links,bio,from	2026-11-07			2026-11-21 Das Werk (54Hz, Stay Acid) – 54Hz pres. CREEDS
+Saender	img,links,bio,from	2026-11-03			2026-11-21 FLUCC (Tanz dich glücklich) – Tanz dich glücklich
+AE-X	img,links,bio,from	2026-11-03			2026-11-22 SASS Music Club (Wreck, Morgengymnastik) – Morgengymnastik × Wreck
+Dave & Bass	img	2026-11-03	Herkunft: Wien; Genres: Drum & Bass	https://soundcloud.com/dave-and-bass	2026-11-27 Flex (High Voltage Fairies) – High Voltage Fairies in the Pit – Metal x DnB
+Kingsmo	neu				2026-11-27 Das Werk – Resident Night: GOLPE // DETOXX
+Pinklotion	img,from	2026-11-03	Genres: Hard Techno, Schranz	https://soundcloud.com/mrpinklotion https://open.spotify.com/artist/4Q0un5ERRURM3xJyzAwdHF	2026-11-27 The Loft (Bassbussi) – Bassbussi Allstars – 3 Years Anniversary
+Dr. Schick	img,links,bio,from	2026-11-05			2026-11-28 Tagada (Patches) – Patches
+Evren de concecao	img,links,bio,from	2026-11-13			2026-11-28 Creative Cluster Vienna (Hart Lab) – Hart Lab: Resonance
+Peter Spielmann	img,links,bio,from	2026-11-05			2026-11-28 Tagada (Patches) – Patches
+ŽEN	neu				2026-11-28 FLUCC – Eröffnung 60 Jahre Gastarbajt – Die Verhältnisse zum Tanzen bringen – happiness as resistance
+Michkx	img,links,bio,from	2026-11-12			2026-12-03 Kramladen (Fifi) – FIFI RAVE
+Camsis	img,from	2026-11-04	Genres: Psytrance; Labels: Vantara Vichitra Records; alias: Cam Sis	https://soundcloud.com/camsis	2026-12-05 Club Exil (Tribal Vibes) – Tribal Vibes meets Exil
+Jokkel	img,links,bio,from	2026-11-11			2026-12-05 Club Lucia (KRAWALL) – KRAMPUS RAVE by KRAWALL
+Tribal Vibes	neu				2026-12-05 Club Exil (Tribal Vibes) – Tribal Vibes meets Exil
+Eternal Injustice	img,links,bio,from	2026-11-11			2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Peygan	img,bio,from	2026-11-11		https://soundcloud.com/peyganofficial https://open.spotify.com/artist/7Gatqa2VVX586jcYiIVJg9	2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+L.O.S.S.	img,links,from	2026-11-03	Genres: Trance		2026-12-11 Club Lucia (Taktgefühl) – TAKTGEFÜHL Vol. 2
+Oblix	img,links,bio,from	2026-11-04	Genres: Psytrance		2026-12-18 TBA (NachtAktiv) – NachtAktiv presents PsyJungle

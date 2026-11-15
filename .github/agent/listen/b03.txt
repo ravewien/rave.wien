@@ -1,0 +1,29 @@
+# Sonderlauf 2 Profile – Liste b03 (28). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Links<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+great area	img,links,bio,from	2026-11-09			2026-11-15 Rhiz (nomenklatur) – nomenklatur w/ great area & PILLBERT (live)
+Tonks	img,links,bio,from	2026-11-08			2026-11-20 FLUCC (Kollektiv Klanggerecht, Klanggerecht) – Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION | 2026-12-05 Club Lucia (KRAWALL) – KRAMPUS RAVE by KRAWALL
+DJ Böhm	neu				2026-11-20 Das Werk (Synergy, KARTELL.FM, HEKTISCH) – Synergy Rave x Trance + Hard Techno
+L!KA	img,links,bio,from	2026-11-04			2026-11-20 Club Lucia (Schall & Schabernack) – Schall & Schabernack
+NO ONE	img,links,bio,from	2026-11-06			2026-11-20 PRST (Achterbahn) – Anna Ullrich pres. Achterbahn
+subinstans	img,links,bio,from	2026-11-08			2026-11-20 FLUCC (Kollektiv Klanggerecht, Klanggerecht) – Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION
+Acula	img,links,bio,from	2026-11-10			2026-11-21 Club Lucia (Kleingeld Kollektiv) – Kleingeld Kollektiv Klubnacht
+DAKINDL	img,links,bio,from	2026-11-10			2026-11-21 Einbaumöbel (Bass Cave) – Bass Cave – Drum and Bass w/ UNONESSUNO & M:PATHY
+Escapism	img	2026-11-03	Herkunft: Wien; Genres: Drum & Bass	https://soundcloud.com/escapismdnb	2026-11-21 Loop (VIE'n'B) – VIE'n'B
+Kmanxak	img,links,bio,from	2026-11-03			2026-11-21 Rhiz – POLYCHAOS DUBIUM
+Mize Hetner	img,links,bio,from	2026-11-04			2026-11-21 Tagada (Soundhouse) – Soundhouse
+ROONY	img,links,bio,from	2026-11-10			2026-11-21 Einbaumöbel (Bass Cave) – Bass Cave – Drum and Bass w/ UNONESSUNO & M:PATHY
+VAL	img,links,bio,from	2026-11-10			2026-11-21 Einbaumöbel (Bass Cave) – Bass Cave – Drum and Bass w/ UNONESSUNO & M:PATHY
+CPE Crew & Friends	neu				2026-11-27 Club Exil (CPE) – 20 Jahre CPE
+Julia Goldfarb	img	2026-11-03	Herkunft: Österreich; Genres: House, Electro, Breaks	https://soundcloud.com/julia-goldfarb	2026-11-27 PRST (Wien Modern) – Party Modern × PRST: Station Rose
+PartyPauli	img,from	2026-11-03		https://soundcloud.com/user-199275066 https://www.instagram.com/partypaulii/	2026-11-27 The Loft (Bassbussi) – Bassbussi Allstars – 3 Years Anniversary
+WNR	img,links,bio,from	2026-11-03			2026-11-27 Flex (High Voltage Fairies) – High Voltage Fairies in the Pit – Metal x DnB
+Drei Küsse	neu				2026-11-28 FLUCC – Eröffnung 60 Jahre Gastarbajt – Die Verhältnisse zum Tanzen bringen – happiness as resistance
+Mr. Highfi	img,links,from	2026-11-03	Genres: Drum & Bass		2026-11-28 Flex (Switch!) – Switch! presents Primate – Sticks & Stones Europe Tour
+WESH	img,links,bio,from	2026-11-08			2026-11-28 Prater Dome – KSHMR pres. by Prater DOME
+Little Beat More	img	2026-11-08	Herkunft: Wien	https://soundcloud.com/littlebeatmore https://www.mixcloud.com/littlebeatmore/ https://littlebeatmore.bandcamp.com https://www.instagram.com/littlebeatmore/ https://linktr.ee/littlebeatmore	2026-12-03 FLUCC (Restless) – 15 Years Restless – Album Release Party
+Caban	img	2026-11-03	Herkunft: Österreich; Genres: Psytrance, Progressive Psytrance, Forest; alias: DJ Caban	https://soundcloud.com/caban-1 https://www.mixcloud.com/DJ_CABAN/	2026-12-05 Club Exil (Tribal Vibes) – Tribal Vibes meets Exil
+Insano	img,links,bio,from	2026-11-03			2026-12-05 Club Exil (Tribal Vibes) – Tribal Vibes meets Exil
+Schana	img,links,bio,from	2026-11-11			2026-12-05 Club Lucia (KRAWALL) – KRAMPUS RAVE by KRAWALL
+Delighted	bio	2026-11-11	Herkunft: Österreich	https://open.spotify.com/artist/1vXpEYQw96lfSORnyiL9A5	2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Pablo Morello	img,links,bio,from	2026-11-11			2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+KWEEN BEE	img,links,from	2026-11-03	Genres: Techno		2026-12-11 Club Lucia (Taktgefühl) – TAKTGEFÜHL Vol. 2
+NOTYOURORDINARY	img	2026-11-12	Herkunft: Wien	https://www.instagram.com/notyourordinary.official/	2026-12-18 Kramladen (Acidic Juice, NOTYOURORDINARY) – Acidic Juice x NOTYOURORDINARY – Live

@@ -1,0 +1,29 @@
+# Sonderlauf 2 Profile – Liste b02 (28). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Links<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+DJ Hill's Sunday	img,links,bio,from	2026-11-14			2026-11-15 FLUCC (Callshop Radio, Spumante Records) – FLUT x Callshop Radio – Week 46
+Nasty	img,links,from	2026-11-03	Genres: Techno		2026-11-19 Kramladen – Teknoteka | 2026-12-11 TBA (Nasty Connexion) – TEKNOTEKA Vol. 4
+DizzyDray	img,links,bio,from	2026-11-03			2026-11-20 Club U (Fluffig) – Fluffig – Punschabend | 2026-12-18 The Loft (Cybertribe) – CYBERTRIBE pres. CLUB GSPUSI
+Kjaer	img	2026-11-03	Herkunft: Österreich; Genres: Techno; Labels: IAMT Red, Fine Artistry	https://soundcloud.com/kjaer_music https://www.instagram.com/kjaer_music/	2026-11-20 The Loft (Sub Zero) – Sub Zero | 2026-12-07 Weberknecht – RAVECON × MIND X-MAS feat. Mario Ranieri
+Neoteric x Alerta	img,links,bio,from	2026-11-09			2026-11-20 Club Exil (4lthangrund) – Grund für Exil – Soliparty
+Sebastian Wagner	img,links,bio,from	2026-11-03			2026-11-20 The Loft – Männer im Loft
+403Vorbidden	img,bio,from	2026-11-03		https://soundcloud.com/403vorbidden https://www.instagram.com/403vorbidden/	2026-11-21 The Inner Circle – lost or unreachable
+Contrast Residents	neu				2026-11-21 Grelle Forelle (Contrast) – Contrast pres. DJ Marky + Pola & Bryson | 2026-12-12 Grelle Forelle (Contrast) – Contrast pres. Dance Macabre w/ Simula + Enei + Skantia
+Elex Red	img,bio,from	2026-11-03	alias: Alex Rot	https://soundcloud.com/alexrot	2026-11-21 The Inner Circle – lost or unreachable
+Klangmassaker	img,from	2026-11-11		https://soundcloud.com/klangmassaker https://open.spotify.com/artist/7y9v2qtiVJfN4GtPQldVOb	2026-11-21 Club Exil (Endless Insanity) – Endless Insanity III
+missantroop	img,links,bio,from	2026-11-03			2026-11-21 Celeste – hosted by the zound partisans
+Romanova	img,links,bio,from	2026-11-03			2026-11-21 Weberknecht – Mottosause // Boots, Beer & Beats
+UMAFRICANA	img,bio,from	2026-11-09		https://soundcloud.com/umafricana	2026-11-21 Funkhaus (Yolo Taxi) – Yolo Taxi with UMAFRICANA, Lua Preta & Miss Roshni
+Christella	img,links,bio,from	2026-11-03			2026-11-27 The Loft (Bassbussi) – Bassbussi Allstars – 3 Years Anniversary
+Joro & Joabo	img,from	2026-11-03	Genres: Techno	https://soundcloud.com/joro_und_joabo https://www.instagram.com/joro.und.joabo/	2026-11-27 Grelle Forelle (Flashback, FactX) – Flashback w/ Thomas Schumacher – Techno Classics | 2026-12-05 SASS Music Club – Karotte im Wohnzimmer
+PA_olo	img,bio,from	2026-11-03		https://soundcloud.com/pa_olo	2026-11-27 Grelle Forelle (Flashback, FactX) – Flashback w/ Thomas Schumacher – Techno Classics
+Vivid	img,links,bio,from	2026-11-02			2026-11-27 SASS Music Club (Frieden & Liebe) – Vivid – Frieden & Liebe
+doplgenger	neu				2026-11-28 FLUCC – Eröffnung 60 Jahre Gastarbajt – Die Verhältnisse zum Tanzen bringen – happiness as resistance
+MEDUN	img	2026-11-08	Herkunft: Tirol	https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM	2026-11-28 Prater Dome – KSHMR pres. by Prater DOME
+Virgin Helena	neu				2026-11-28 FLUCC – Eröffnung 60 Jahre Gastarbajt – Die Verhältnisse zum Tanzen bringen – happiness as resistance
+Dunik	img,links,bio,from	2026-11-12			2026-12-03 Kramladen (Fifi) – FIFI RAVE
+Bornvoyage	img,bio,from	2026-11-03	Genres: Psytrance; alias: Born Voyage	https://soundcloud.com/bornvoyage	2026-12-05 Club Exil (Tribal Vibes) – Tribal Vibes meets Exil
+Hanno	img,links,bio,from	2026-11-03			2026-12-05 Tagada (Housetiere, VG+) – HOUSETIERE × VG+ Weekender
+Psynonima	img,from	2026-11-03	Genres: Hi-Tech Psytrance	https://soundcloud.com/psynonima https://www.instagram.com/djane_psynonima/	2026-12-05 Club Exil (Tribal Vibes) – Tribal Vibes meets Exil
+Cryoonix vs STXRLI	neu				2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Nightcrawler	img,links,bio,from	2026-11-11			2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Kork	img,links,bio,from	2026-11-11			2026-12-11 TBA (Nasty Connexion) – TEKNOTEKA Vol. 4
+Lee U Mash	img,links,bio,from	2026-11-11			2026-12-18 TBA (NachtAktiv) – NachtAktiv presents PsyJungle
