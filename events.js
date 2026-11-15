@@ -9990,11 +9990,27 @@ const AR={
  },
  "Seba": {
   "img": "https://static.ra.co/images/profiles/seba.jpg?dateUpdated=1494519179647",
-  "links": {},
+  "links": {
+   "ra": "https://ra.co/dj/seba-4",
+   "sc": "https://soundcloud.com/seba_seba_seba",
+   "ig": "https://www.instagram.com/bastiritzberger/"
+  },
   "linksOk": "2026-10-29",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15",
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Seba (Sebastian Ritzberger) ist Resident und Mitgründer von Amore AG. Er spielt vor allem im Wiener SASS Music Club und im PRST, unter anderem bei der Reihe Freeride Millenium.",
+   "en": "Seba (Sebastian Ritzberger) is a resident and co-founder of Amore AG. He plays mostly at Vienna's SASS Music Club and PRST, including the Freeride Millenium series."
+  },
+  "src": [
+   "https://de.ra.co/dj/seba-4"
+  ],
+  "setsChecked": "2026-11-15"
  },
  "Melchiorr": {
   "noLinks": "2026-11-03",
@@ -11419,9 +11435,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "CED": {
-  "noImg": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Lazaro": {
@@ -12693,9 +12709,9 @@ const AR={
   "src": [
    "https://de.ra.co/events/2391499"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "MARØ": {
@@ -13206,9 +13222,9 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "D.b.h": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Urlaub in Jazzolo": {
@@ -14029,9 +14045,9 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Duplikate": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "PLAYBACK": {
@@ -15876,9 +15892,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Hamelin": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "bio": {
    "de": "Hamelin ist ein Psytrance-DJ-Act auf dem Lineup von „Tribal Vibes meets Exil“, der Old-School-Psytrance-Nacht der Reihe Tribal Vibes im Club Exil.",
    "en": "Hamelin is a psytrance DJ act on the line-up of 'Tribal Vibes meets Exil', the old-school psytrance night of the Tribal Vibes series at Club Exil."
@@ -16006,8 +16022,8 @@ const AR={
    "https://soundcloud.com/ironica-los-culos",
    "https://soundcloud.com/vlanradio/ironicalosculos-250522"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Fairy Mary": {
@@ -16179,9 +16195,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Jule Feser": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Fede Frostl": {
@@ -16393,8 +16409,8 @@ const AR={
   "infoChk": "2026-11-04"
  },
  "Illtek": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/illtek23"
@@ -17050,8 +17066,8 @@ const AR={
    "https://www.beatport.com/artist/boom-shankar/381159",
    "https://festapp.io/es/artists/boom-shankar"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "AVO2X": {
@@ -17407,9 +17423,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Ave Maria": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Breeze": {
@@ -19223,9 +19239,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "_ra_di_aa_ti_on_": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Nysos": {
@@ -19431,11 +19447,16 @@ const AR={
   "src": [
    "https://de.ra.co/dj/pjpjpj",
    "https://de.ra.co/dj/pjpjpj/biography",
-   "https://soundcloud.com/pjnm"
+   "https://soundcloud.com/pjnm",
+   "https://ra.co/dj/pjpjpj/biography"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-03",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15",
+  "from": {
+   "de": "Leipzig",
+   "en": "Leipzig"
+  }
  },
  "Psynonima": {
   "bio": {
@@ -19818,9 +19839,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Teppich Funk": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "alias": [
    "Lee&Marvin"
   ],
@@ -20048,8 +20069,8 @@ const AR={
    "https://ra.co/events/1934244",
    "https://flex.at/event/high-voltage-fairies-in-the-pit/"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "sets": [
    {
     "t": "Van:Hill B2B Jalen Mess @ Marley Club Ostrava (CZ)",
@@ -20250,8 +20271,8 @@ const AR={
    "https://kump.bandcamp.com/album/kump8-mert-seger-y-t-kp-nra"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Mitra": {
@@ -47539,9 +47560,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Meander": {
-  "noImg": "2026-11-05",
-  "noLinks": "2026-11-05",
-  "infoChk": "2026-11-05",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "dj ayran": {
@@ -48082,9 +48103,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "mein__dm": {
-  "noImg": "2026-11-08",
-  "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Techmoo": {
@@ -48263,8 +48284,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/missroshni"
   },
-  "noImg": "2026-11-09",
-  "infoChk": "2026-11-09",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
   "setsChecked": "2026-11-09",
   "spChk": "2026-11-15"
  },
@@ -48901,9 +48922,9 @@ const AR={
   "src": [
    "https://ra.co/events/2575308"
   ],
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "fejv": {
@@ -49241,9 +49262,9 @@ const AR={
   "infoChk": "2026-11-11"
  },
  "Monch": {
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
-  "infoChk": "2026-11-11",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Pablo Morello": {
@@ -49367,9 +49388,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Askeladd": {
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
-  "infoChk": "2026-11-11",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Katana": {
@@ -49404,9 +49425,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Gurkal²³": {
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
-  "infoChk": "2026-11-11",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Tekno Nixe": {
@@ -49876,10 +49897,11 @@ const AR={
    "https://chakabalara.bandcamp.com/album/anti-tsunami",
    "https://ra.co/events/2575633"
   ],
-  "infoChk": "2026-11-12",
+  "infoChk": "2026-11-15",
   "noImg": "2026-11-12",
   "noLinks": "2026-11-12",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "img": "https://f4.bcbits.com/img/0038278506_10.jpg"
  },
  "Klangkarussell": {
   "img": "https://static.ra.co/images/profiles/square/klangkarussell.jpg?dateUpdated=1587549774000",
@@ -50271,15 +50293,15 @@ const AR={
   "noLinks": "2026-11-14"
  },
  "DJ Ecoton": {
-  "infoChk": "2026-11-14",
-  "noImg": "2026-11-14",
-  "noLinks": "2026-11-14",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "DJ Can't Commit": {
-  "infoChk": "2026-11-14",
-  "noImg": "2026-11-14",
-  "noLinks": "2026-11-14",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "I.Lim": {
@@ -50311,6 +50333,28 @@ const AR={
   "noImg": "2026-11-14",
   "noLinks": "2026-11-14",
   "spChk": "2026-11-15"
+ },
+ "Dan.P": {
+  "img": "https://static.ra.co/images/profiles/square/dan.p.jpg?dateUpdated=1708943213000",
+  "links": {
+   "ra": "https://ra.co/dj/dan.p",
+   "sc": "https://soundcloud.com/imdmp",
+   "ig": "https://www.instagram.com/d.prgr/"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Dan.P (Daniel) ist ein in Wien lebender DJ. Laut seinem RA-Profil spielt er vor allem im Das Werk, im FLUCC und in der Pratersauna.",
+   "en": "Dan.P (Daniel) is a Vienna-based DJ. According to his RA profile he plays most often at Das Werk, FLUCC and Pratersauna."
+  },
+  "src": [
+   "https://de.ra.co/dj/dan.p"
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15",
+  "infoChk": "2026-11-15"
  }
 };
 
