@@ -20379,8 +20379,8 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "Malounadou": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-02",
   "links": {
    "ig": "https://www.instagram.com/malounadou/"
@@ -43212,9 +43212,9 @@ const AR={
   "noLinks": "2026-11-04"
  },
  "DJ Wolle": {
-  "infoChk": "2026-11-04",
-  "noImg": "2026-11-04",
-  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Wurstsalon": {
@@ -47747,9 +47747,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "bobbyyxjohnson": {
-  "infoChk": "2026-11-07",
-  "noImg": "2026-11-07",
-  "noLinks": "2026-11-07",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "MUSA": {
@@ -48079,10 +48079,29 @@ const AR={
   "spChk": "2026-11-15"
  },
  "wldfee": {
-  "noImg": "2026-11-08",
-  "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08",
-  "spChk": "2026-11-15"
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15",
+  "bio": {
+   "de": "wldfee spielte Klarinette in Orchestern und Ensembles, bevor sie die elektronische Musik für sich entdeckte, und mag besonders B2B-Sets. Sie legte u. a. mit dem Wiener Kollektiv Klanggerecht im SASS Music Club auf und war bei Res.Radio und Callshop Radio zu hören.",
+   "en": "wldfee played clarinet in orchestras and ensembles before discovering electronic music, and particularly enjoys B2B sets. She has played with the Vienna collective Klanggerecht at SASS Music Club and featured on Res.Radio and Callshop Radio."
+  },
+  "sets": [
+   {
+    "t": "Feminist Action Day 2026 w/ wldfee 08.03.26",
+    "u": "https://soundcloud.com/callshopradio/feminist-action-day-2026-w-1"
+   },
+   {
+    "t": "Turntablista Showcase #53 w/ WLDFEE",
+    "u": "https://soundcloud.com/resradio/turntablista-showcase-53-w"
+   }
+  ],
+  "src": [
+   "https://de.ra.co/events/2563337",
+   "https://soundcloud.com/resradio/turntablista-showcase-53-w",
+   "https://soundcloud.com/callshopradio/feminist-action-day-2026-w-1"
+  ]
  },
  "Sauerstøff": {
   "noImg": "2026-11-08",
@@ -48155,8 +48174,34 @@ const AR={
  "PILLBERT": {
   "noImg": "2026-11-09",
   "noLinks": "2026-11-09",
-  "infoChk": "2026-11-09",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15",
+  "img": "https://f4.bcbits.com/img/0040199720_10.jpg",
+  "links": {
+   "bc": "https://pillbert.bandcamp.com/",
+   "sp": "https://open.spotify.com/artist/5dZOP8vaESkt7iQqwhDGox",
+   "sc": "https://soundcloud.com/user-759548153",
+   "ig": "https://www.instagram.com/moischelejunior/"
+  },
+  "bio": {
+   "de": "PILLBERT (Lilian Mikorey) ist ein:e in München geborene:r Sänger:in, Songwriter:in, Multiinstrumentalist:in und Produzent:in mit einem Abschluss in Popular Music am Goldsmiths, University of London. Die Musik bewegt sich zwischen Experimental und Experimental Pop; das Album „Memoria“ erschien im Jänner 2026 bei Squama Recordings, davor u. a. „Fish On Land“ (2025) und „Symphony of Melancholy“ (2021).",
+   "en": "PILLBERT (Lilian Mikorey) is a Munich-born singer, songwriter, multi-instrumentalist and producer with a degree in Popular Music from Goldsmiths, University of London. The music moves between experimental and experimental pop; the album 'Memoria' came out on Squama Recordings in January 2026, preceded by 'Fish On Land' (2025) and 'Symphony of Melancholy' (2021), among others."
+  },
+  "from": {
+   "de": "München",
+   "en": "Munich"
+  },
+  "genres": [
+   "Experimental",
+   "Experimental Pop"
+  ],
+  "labels": [
+   "Squama Recordings"
+  ],
+  "src": [
+   "https://pillbert.bandcamp.com/"
+  ],
+  "setsChecked": "2026-11-15"
  },
  "Neoteric x Alerta": {
   "noImg": "2026-11-09",
@@ -49693,9 +49738,9 @@ const AR={
   "noImg": "2026-11-12"
  },
  "Franco": {
-  "infoChk": "2026-11-12",
-  "noImg": "2026-11-12",
-  "noLinks": "2026-11-12",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Doudou MD": {
@@ -50351,6 +50396,28 @@ const AR={
   },
   "src": [
    "https://de.ra.co/dj/dan.p"
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15",
+  "infoChk": "2026-11-15"
+ },
+ "presso": {
+  "img": "https://static.ra.co/images/profiles/square/presso.jpg?dateUpdated=1769500012823",
+  "links": {
+   "ra": "https://ra.co/dj/presso",
+   "sc": "https://soundcloud.com/bittepresso",
+   "ig": "https://www.instagram.com/bittepresso/"
+  },
+  "bio": {
+   "de": "presso ist ein in Wien ansässiger DJ und Produzent, der Techno, Bounce und Trance spielt. Er ist Resident im Das WERK und leitet das Kollektiv KARTELL.FM; musikalisch kommt er ursprünglich aus dem Metalcore.",
+   "en": "presso is a Vienna-based DJ and producer playing techno, bounce and trance. He is a resident at Das WERK and heads the KARTELL.FM collective; his musical roots lie in metalcore."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "src": [
+   "https://ra.co/dj/presso"
   ],
   "setsChecked": "2026-11-15",
   "spChk": "2026-11-15",
