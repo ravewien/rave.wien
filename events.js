@@ -11348,9 +11348,9 @@ const AR={
   ]
  },
  "Meltdown": {
-  "noImg": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Janex": {
@@ -12320,8 +12320,8 @@ const AR={
    "https://ra.co/events/2382527",
    "https://ra.co/events/2143849"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-10-31",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-10-31",
   "links": {
    "sc": "https://soundcloud.com/rantom_official"
@@ -12730,9 +12730,9 @@ const AR={
   "src": [
    "https://de.ra.co/events/2391499"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "MC Spot": {
@@ -15470,9 +15470,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Synthesis": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "src": [
    "https://soundcloud.com/nightsirens/synthesis-at-liquid-drum-and"
   ],
@@ -16326,9 +16326,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Fliize": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "bio": {
    "de": "Fliize ist ein House-DJ-Act auf dem Lineup des HOUSETIERE × VG+ Weekenders im Tagada.",
    "en": "Fliize is a house DJ act on the line-up of the HOUSETIERE × VG+ Weekender at Tagada."
@@ -17302,9 +17302,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Andrew Ahmed": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Benjay": {
@@ -17318,9 +17318,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Arnab": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Alena Noctis": {
@@ -18205,9 +18205,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Louk": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Krueger": {
@@ -19857,9 +19857,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "UV Project": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Userkiller": {
@@ -20146,8 +20146,8 @@ const AR={
    "https://soundcloud.com/tom-snow",
    "https://soundcloud.com/tom-snow/garden-club-volksgarten-vienna"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Vivid": {
@@ -20299,9 +20299,9 @@ const AR={
   "src": [
    "https://goout.net/banabass-l-plus-and-jimmy-danger%2Bdalsi/szetnqx/"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Martin Oelz": {
@@ -47688,13 +47688,37 @@ const AR={
  "dj ayran": {
   "noImg": "2026-11-05",
   "noLinks": "2026-11-05",
-  "infoChk": "2026-11-05",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15",
+  "img": "https://static.ra.co/images/profiles/square/djayran.jpg?dateUpdated=1773148706000",
+  "links": {
+   "ra": "https://ra.co/dj/djayran",
+   "sc": "https://soundcloud.com/blackgoldbody"
+  },
+  "bio": {
+   "de": "dj ayran (früher naice, blackbody und goldbody) ist in der Wiener Bassmusik-Szene groß geworden und seit 2012 als DJ und Veranstalter aktiv. Seine Sets reichen von UK-Stilen wie Hardcore, Rave, Jungle, Breakbeat, Garage und frühem Trance bis zu Dembow, Reggaeton, Footwork, Jersey Club, Post-Club und Edits. Er war auf FM4 und datafruits.fm zu hören; mit seiner Crew veranstaltet er die Wiener Clubreihe Patches und eine regelmäßige Radiosendung auf Callshop Radio.",
+   "en": "dj ayran (formerly naice, blackbody and goldbody) grew up in Vienna's bass music scene and has been active as a DJ and promoter since 2012. His sets range from UK styles such as hardcore, rave, jungle, breakbeat, garage and early trance to dembow, reggaeton, footwork, jersey club, post-club and edits. He has been featured on FM4 and datafruits.fm; with his crew he runs the Vienna club night Patches and a regular radio show on Callshop Radio."
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "alias": [
+   "naice",
+   "blackbody",
+   "goldbody"
+  ],
+  "src": [
+   "https://ra.co/dj/djayran",
+   "https://ra.co/dj/djayran/biography",
+   "https://ra.co/events/2575843"
+  ],
+  "setsChecked": "2026-11-15"
  },
  "Tursa": {
-  "noImg": "2026-11-05",
-  "noLinks": "2026-11-05",
-  "infoChk": "2026-11-05",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Peter Spielmann": {
@@ -48025,8 +48049,8 @@ const AR={
    }
   ],
   "setsChecked": "2026-11-07",
-  "noImg": "2026-11-07",
-  "infoChk": "2026-11-07",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
   "src": [
    "https://chrisfaderundtesta.bandcamp.com",
    "https://www.45live.net/magazine/article/restless-leg-syndrome-represent-the-fucking-planet-little-beat-more"
@@ -48270,9 +48294,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Harry Knaypp": {
-  "noImg": "2026-11-08",
-  "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Polo": {
@@ -48358,9 +48382,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Initiative 21": {
-  "noImg": "2026-11-09",
-  "noLinks": "2026-11-09",
-  "infoChk": "2026-11-09",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Kamafaka": {
@@ -49070,9 +49094,9 @@ const AR={
   }
  },
  "Maze of Madness": {
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Harmont": {
@@ -49449,15 +49473,21 @@ const AR={
   "img": "https://static.ra.co/images/profiles/square/unicornonketamine.jpg?dateUpdated=1711724480000",
   "links": {
    "ra": "https://ra.co/dj/unicornonketamine",
-   "sp": "https://open.spotify.com/artist/3NoAERCAeMG0EOGpbpdYLm"
+   "sp": "https://open.spotify.com/artist/3NoAERCAeMG0EOGpbpdYLm",
+   "ig": "https://www.instagram.com/unicorn.on.k/"
   },
   "src": [
    "https://ra.co/dj/unicornonketamine",
    "https://ra.co/events/2347185",
-   "https://ra.co/events/1762523"
+   "https://ra.co/events/1762523",
+   "https://electriclove.at/en/artist/unicorn-on-ketamin"
   ],
-  "infoChk": "2026-11-11",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15",
+  "bio": {
+   "de": "Unicorn On K (UOK, auch Unicorn On Ketamine) ist ein Hardcore-DJ und -Produzent, der Anfang 2019 startete und laut Electric Love Festival schnell Millionen Plays erreichte. Er trat in Europa, Australien und Südamerika sowie auf großen europäischen Hardcore-Festivals auf, 2026 etwa auf der Shutdown Stage des Electric Love Festival. Auf Spotify erschienen u. a. das „UOK Compilation Album“ und „MBKETAMINE“ mit MBK.",
+   "en": "Unicorn On K (UOK, also Unicorn On Ketamine) is a hardcore DJ and producer who started in early 2019 and, according to Electric Love Festival, quickly reached millions of plays. He has performed across Europe, Australia and South America and at major European hardcore festivals, including the Shutdown Stage at Electric Love Festival 2026. Spotify releases include the 'UOK Compilation Album' and 'MBKETAMINE' with MBK."
+  }
  },
  "2 Facez": {
   "infoChk": "2026-11-15",
@@ -50754,6 +50784,35 @@ const AR={
   ],
   "spChk": "2026-11-15",
   "infoChk": "2026-11-15"
+ },
+ "Comrade Martin": {
+  "img": "https://static.ra.co/images/profiles/comrademartin.jpg?dateUpdated=1730454534000",
+  "links": {
+   "ra": "https://ra.co/dj/comrademartin"
+  },
+  "bio": {
+   "de": "Comrade Martin ist ein in Slowenien geborener DJ und Produzent, der laut RA in Österreich lebt und vor allem in Wien auflegt. 2023 erschien seine EP „Disco Biscuits“ (mit einem Remix von RotorMotor) als dritte Veröffentlichung auf dem slowenischen Label NIKOLA.",
+   "en": "Comrade Martin is a Slovenian-born DJ and producer who, according to RA, is based in Austria and plays mostly in Vienna. In 2023 his EP 'Disco Biscuits' (including a RotorMotor remix) came out as the third release on the Slovenian label NIKOLA."
+  },
+  "from": {
+   "de": "Slowenien (lebt in Österreich)",
+   "en": "Slovenia (based in Austria)"
+  },
+  "labels": [
+   "NIKOLA"
+  ],
+  "src": [
+   "https://de.ra.co/dj/comrademartin",
+   "https://nikolalabel.bandcamp.com/album/comrade-martin-disco-biscuits"
+  ],
+  "spChk": "2026-11-15",
+  "infoChk": "2026-11-15"
+ },
+ "Another Dimension vs Reflexx": {
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "spChk": "2026-11-15"
  }
 };
 
