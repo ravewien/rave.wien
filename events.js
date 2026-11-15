@@ -1038,6 +1038,29 @@ const CG={
   "Breaks",
   "Hard House",
   "House"
+ ],
+ "Dance 2 House": [
+  "House"
+ ],
+ "Groove Operators": [
+  "House"
+ ],
+ "Halli Galli": [
+  "House",
+  "Italo Disco"
+ ],
+ "Danza Obscura": [
+  "Melodic Techno",
+  "Dark Disco"
+ ],
+ "Exposed": [
+  "House",
+  "Techno"
+ ],
+ "fm.einfamilienhaus": [
+  "House",
+  "Hard House",
+  "UK Garage"
  ]
 };
 const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","909techno","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","Art Attech","AUDIO303","Auf der Lauer","Ausländer Haus","AWSM","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","BLUR","Bonkers","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Cybertribe","Cyclic Existence","Dance 2 House","Danza Obscura","Dark Pressure","Das Syndikat","DEAD END","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","It's George","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Klanggerecht","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","Meier","MEIOSISS","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Opération","Out of Space","Oxygene","Palazzo Recordings","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","SIGNAL","SIN","Slutlabs","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","The Academy","The Hive","The House of Funk","the zound partisans","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Ungeniert","Uniquely Journeys","Unkwn","Untz Baby Untz","up/or","Vangardist","Ventil Records","Verknallt","Vertigo","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wyldhearts","Xperiment","Xperiment Records","YE","YN","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
@@ -1636,8 +1659,8 @@ const CI={
    "https://sunmoon.ticket.io/ObeGEC9z/",
    "https://www.instagram.com/raveonvienna/"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "de": "Wiener Partyreihe für 90er-Rave und Tekno, die laut ihrem „12th Bday Bash“ im Februar 2025 seit etwa 2013 besteht. Regelmäßig im FLUCC, außerdem mit der Großausgabe „Rave On XXL“ im Club Exil.",
   "en": "Viennese party series for 90s rave and tekno, which according to its '12th Bday Bash' in February 2025 has been running since around 2013. Regularly at FLUCC, plus the large-scale edition 'Rave On XXL' at Club Exil.",
   "type": [
@@ -1664,8 +1687,8 @@ const CI={
   ],
   "from": "Wien",
   "ig": "https://www.instagram.com/hyp3rtr4sh/",
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Fuelized": {
   "founded": "2023",
@@ -1702,8 +1725,8 @@ const CI={
   "type": [
    "Reihe"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Acid Techno Techno Club": {
   "founded": "2018",
@@ -2008,15 +2031,17 @@ const CI={
  "Auf der Lauer": {
   "from": "Wien",
   "src": [
-   "https://ra.co/events/2361147"
+   "https://ra.co/events/2361147",
+   "https://de.ra.co/events/2307933"
   ],
-  "noLogo": "2026-10-31",
-  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "de": "Wiener Partyreihe für treibenden House, Tech House und dunkle Grooves; nach einer Silvestersause im Funkhaus regelmäßig im PRST, zu Halloween 2026 an einem geheimen Ort.",
   "en": "Viennese party series for driving house, tech house and dark grooves; after a New Year’s Eve party at Funkhaus, regularly at PRST, and at a secret location for Halloween 2026.",
   "type": [
    "Reihe"
-  ]
+  ],
+  "ig": "https://www.instagram.com/aufderlauer_/"
  },
  "SIGNAL": {
   "noLogo": "2026-11-15",
@@ -2631,7 +2656,8 @@ const CI={
   "logo": "https://i1.sndcdn.com/avatars-000048192524-zbrypt-t500x500.jpg",
   "sc": "https://soundcloud.com/gassen-aus-zucker",
   "web": "https://gassenauszucker.at/",
-  "man": 1
+  "man": 1,
+  "infoChk": "2026-11-15"
  },
  "Paradies Garten": {
   "logo": "https://www.paradiesgartenfestival.at/assets/website/images/logo/paradies-garten.d1836a4e.svg",
@@ -3555,8 +3581,8 @@ const CI={
    "https://es.ra.co/events/2384429",
    "https://de.ra.co/events/2290782"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "ig": "https://www.instagram.com/auslander_haus/"
  },
  "Pirotecnia": {
@@ -4109,11 +4135,11 @@ const CI={
   ],
   "founded": "2025",
   "from": "Wien",
-  "noLogo": "2026-11-03",
+  "noLogo": "2026-11-15",
   "src": [
    "https://ra.co/events/2199660"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-15"
  },
  "House of Ludic": {
   "noLogo": "2026-11-15",
@@ -4164,8 +4190,8 @@ const CI={
   "alias": [
    "Überdruck Soundsystem"
   ],
-  "noLogo": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Freeride Millenium": {
   "de": "Freeride Millenium ist eine Partyreihe im Wiener SASS Music Club.",
@@ -4197,12 +4223,12 @@ const CI={
   "alias": [
    "Vienn-a-tek"
   ],
-  "noLogo": "2026-11-03",
+  "noLogo": "2026-11-15",
   "src": [
    "https://www.fluc.at/programm/2022/12/w03_2300-Vienn_a_Tek-pres-Van-der-Wiese-LIVE-AT+Wonka-LIVE-PL.html",
    "https://viennawurstelstand.com/event/filmriss-vs-vienn-a-tek-acid-special-3/"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-15"
  },
  "Magika": {
   "de": "Magika ist ein Wiener Veranstalter (Magika e.U.) mit Partyreihen wie Salon Magika, Playa Magika und Cacao-Raves. Salon Magika läuft mindestens seit 2018 im Werk, weitere Abende fanden in der Pratersauna, im Flex und im Porto Pollo statt.",
@@ -4221,11 +4247,23 @@ const CI={
    "https://de.ra.co/events/2169288",
    "https://ra.co/events/1161042"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "logo": "https://fra1.digitaloceanspaces.com/ntry2prod/org_images/173485/small/Magika_Logo.jpg?1699448477",
+  "tix": "https://ntry.at/events/173485"
  },
  "Halli Galli": {
-  "noLogo": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "de": "HALLIGALLI ist eine neue Wiener Clubreihe, die verschiedene Genres zu einem eigenen Sound verbindet: Oldschool-House aus dem New York der frühen 90er trifft auf europäischen Italo-Disco- und Dance-Sound, im Mittelpunkt steht die Tanzfläche. Die Abende finden vor allem im SASS Music Club statt.",
+  "en": "HALLIGALLI is a new Viennese club series that blends different genres into a sound of its own: early-90s New York oldschool house meets European Italo disco and dance sounds, with the dancefloor at the centre. The nights mostly take place at SASS Music Club.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "ig": "https://www.instagram.com/halligalli.vienna/",
+  "src": [
+   "https://de.ra.co/events/2490092"
+  ]
  },
  "VNV": {
   "de": "VNV ist ein Wiener Kollektiv aus dem Techno-Umfeld mit Abenden im SASS Music Club und Kooperationen mit Cybertribe, Soundbüglerei und STRAAT in der Grellen Forelle.",
@@ -4254,13 +4292,13 @@ const CI={
   "alias": [
    "DRUMWORKS"
   ],
-  "noLogo": "2026-11-03",
+  "noLogo": "2026-11-15",
   "src": [
    "https://ra.co/events/1368237",
    "https://ra.co/events/1478317",
    "https://ra.co/events/1821603"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-15"
  },
  "Stay Acid": {
   "de": "Wiener Veranstalter der Techno-Reihe „Stay Acid presents 54Hz“ im Das Werk mit Bounce, Hard Bounce und Hard Techno, mit internationalen Headlinern und lokalem Support.",
@@ -4849,8 +4887,8 @@ const CI={
    "https://elevate.at/en/music/artists/dzc",
    "https://viennawurstelstand.com/event/acid-lambada-sass"
   ],
-  "noLogo": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Festklub": {
   "alias": [
@@ -4866,8 +4904,8 @@ const CI={
    "https://it.ra.co/events/1877839",
    "https://ra.co/events/1983837"
   ],
-  "noLogo": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Zorro Azul": {
   "de": "Veranstalter von Tech-House- und Afro-House-Abenden, in Wien als Reihe „Zorro Azul x PRST“ in der Praterstraße (u. a. Krampus-Special 2024).",
@@ -4876,10 +4914,12 @@ const CI={
   "src": [
    "https://de.ra.co/events/1982123",
    "https://de.ra.co/promoters/135360",
-   "https://ra.co/events/2045667"
+   "https://ra.co/events/2045667",
+   "https://ra.co/events/2139160"
   ],
-  "noLogo": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "ig": "https://www.instagram.com/_zorro_azul/"
  },
  "Multicolor": {
   "de": "Freitagsreihe der Pratersauna („der neue Freitag mit elektronischer Musik in ihren schönsten Facetten“), 2024 mit Techno und House auf Mainfloor und Bunker; Gäste u. a. ESH, Ross From Friends, Dan Shake, Themba sowie Mr. Belt & Wezol.",
@@ -4894,8 +4934,8 @@ const CI={
    "https://de.ra.co/events/2018118",
    "https://fr.ra.co/events/2038708"
   ],
-  "noLogo": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Spectrum": {
   "de": "Queer geführte Wiener Rave-Reihe für schnelle, schwere Bassmusik, gestartet 2025 im FLUCC (erster Rave mit Bass Temp); seither u. a. mit Dj Schnake und gemeinsam mit Decibell(e)s im Werk. Erklärtes Ziel ist ein Safe Space für alle Fans von Bassmusik.",
@@ -4926,8 +4966,8 @@ const CI={
   "src": [
    "https://ra.co/events/2124177"
   ],
-  "noLogo": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Klanggerecht": {
   "de": "Wiener Kollektiv (Kollektiv Klanggerecht), das Abende mit Tech House, Minimal, Progressive House und Hard Groove veranstaltet, etwa „Klanggerecht x Shameless“ im FLUCC und „Tanzinstanz“ im Club Lucia (2026).",
@@ -4957,20 +4997,47 @@ const CI={
   "src": [
    "https://ra.co/events/2027525"
   ],
-  "noLogo": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Groove Operators": {
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "de": "Junges Wiener Kollektiv aus vier DJs, das House-Nächte veranstaltet – bisher u. a. in der Pratersauna, im SASS Music Club und im Club Lucia.",
+  "en": "Young Vienna collective of four DJs throwing house music nights – so far at venues including Pratersauna, SASS Music Club and Club Lucia.",
+  "type": [
+   "Kollektiv"
+  ],
+  "ig": "https://www.instagram.com/grooveoperators.collective/",
+  "src": [
+   "https://ra.co/events/2064882"
+  ]
  },
  "Dance 2 House": {
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "de": "Wöchentliche House-Nacht am Mittwoch im PRST (Praterstraße), seit April 2026 von Altroy Jerome veranstaltet. Residents spielen soulful, elektronische House-Musik.",
+  "en": "Weekly Wednesday house night at PRST (Praterstraße), run by Altroy Jerome since April 2026. Residents play soulful electronic house music.",
+  "type": [
+   "Reihe"
+  ],
+  "src": [
+   "https://ra.co/events/2408279"
+  ]
  },
  "Oxygene": {
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "de": "Oxygene ist eine Partyreihe in Wien mit festen Residents und wechselnden Gästen, vor allem auf dem Deck des FLUCC; 2025 gab es zudem einen gemeinsamen Abend mit Just Kidding im SASS Music Club. Musikalisch bewegt sie sich zwischen Tech House, Minimal und Progressive House.",
+  "en": "Oxygene is a party series in Vienna with regular residents and changing guests, mainly on the deck of FLUCC; in 2025 it also teamed up with Just Kidding for a night at SASS Music Club. Musically it moves between tech house, minimal and progressive house.",
+  "type": [
+   "Reihe"
+  ],
+  "ig": "https://www.instagram.com/_____oxygene________/",
+  "src": [
+   "https://ra.co/events/2031575",
+   "https://ra.co/events/2148692"
+  ]
  },
  "Out of Space": {
   "de": "Psytrance-Clubnacht im Wiener Weberknecht am Lerchenfelder Gürtel, die dort schon 2019/2020 als „Out of Space Psytrance Club“ lief; 2025 und 2026 wieder im Programm, teils als Goa-Ausgabe.",
@@ -4996,16 +5063,35 @@ const CI={
   "src": [
    "https://ra.co/events/978301"
   ],
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "[kju:t]": {
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "de": "[kju:t] ist eine Wiener Eventreihe, die im Tagada in der Brunnengasse stattfindet. Im Mai 2026 tat sie sich dort mit der Reihe Between Us für einen gemeinsamen Abend mit House, Disco und allem dazwischen zusammen.",
+  "en": "[kju:t] is a Viennese event series held at Tagada on Brunnengasse. In May 2026 it teamed up there with the series Between Us for a joint night of house, disco and everything in between.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "src": [
+   "https://ra.co/events/2434963"
+  ]
  },
  "Exposed": {
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "de": "Partyreihe der Wiener Crew em.brace im Tagada mit House und Techno, gespielt von den em.brace-Residents, teils mit Special Guest. 2026 u. a. Sommerauftakt im Juni und Kickoff der Clubsaison im Oktober.",
+  "en": "Party series by Viennese crew em.brace at Tagada with house and techno played by the em.brace residents, sometimes with a special guest. In 2026 including a start-of-summer party in June and a club-season kickoff in October.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "src": [
+   "https://ra.co/events/2517577",
+   "https://ra.co/events/2471164"
+  ]
  },
  "Discordia": {
   "infoChk": "2026-11-15",
@@ -5028,8 +5114,16 @@ const CI={
   ]
  },
  "Danza Obscura": {
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "de": "Kollektiv bzw. Partyreihe von JOULES (Wien) und vølta (München), die seit 2024 gemeinsam b2b auflegen. Hypnotischer Dark Disco und Melodic Techno bis in den Morgen; Auftakt der Reihe im August 2024 im Wiener SASS Music Club, weitere Abende dort und in München geplant.",
+  "en": "Collective and party series by JOULES (Vienna) and vølta (Munich), who have played b2b together since 2024. Hypnotic dark disco and melodic techno until the morning; the series launched in August 2024 at Vienna's SASS Music Club, with further nights there and in Munich.",
+  "type": [
+   "Kollektiv"
+  ],
+  "src": [
+   "https://ra.co/events/1975305"
+  ]
  },
  "Vertigo": {
   "de": "Wiener Reihe für Deep-Minimal-House im SASS Music Club, seit 2025 mehrmals im Jahr: langsam aufbauende, hypnotische, reduzierte Nächte ohne Peaks; mit Awareness-Team.",
@@ -5047,8 +5141,17 @@ const CI={
   "noLogo": "2026-11-15"
  },
  "fm.einfamilienhaus": {
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "de": "Clubnacht von DER Radio im Wiener SASS Music Club mit House, Hard House und UK Garage, gemeinsam mit befreundeten DJs; im Juli 2026 fand die sechste Ausgabe statt.",
+  "en": "Club night by DER Radio at Vienna's SASS Music Club with house, hard house and UK garage, together with DJ friends; the sixth edition took place in July 2026.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "src": [
+   "https://ra.co/events/2479341"
+  ]
  },
  "Polyamor": {
   "de": "Berliner Partyreihe und Kollektiv um die Produzenten Mika Heggemann und Jonas Purrucker: schneller, hüpfender Hardgroove mit Trance, Eurodance und Rave-Nostalgie im Y2K-Look. Gastiert u. a. in Hamburg, Nürnberg, Amsterdam und in Wien in der Grelle Forelle.",
@@ -5096,8 +5199,8 @@ const CI={
    "https://ra.co/events/2388587",
    "https://ra.co/events/2310895"
   ],
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Superstate": {
   "infoChk": "2026-11-15",
@@ -5114,14 +5217,25 @@ const CI={
    "Reihe"
   ],
   "src": [
-   "https://de.ra.co/events/1900139"
+   "https://de.ra.co/events/1900139",
+   "https://ra.co/events/1874239",
+   "https://ra.co/labels/20056",
+   "https://analogique.bandcamp.com/",
+   "https://analogique.bandcamp.com"
   ],
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-04",
+  "logo": "https://f4.bcbits.com/img/0039578214_10.jpg",
+  "web": "https://analogique.at",
+  "ig": "https://www.instagram.com/analogique.label/",
+  "sc": "https://soundcloud.com/analogiquemusic",
+  "bc": "https://analogique.bandcamp.com/",
+  "from": "Wien"
  },
  "High Steppin": {
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "ig": "https://www.instagram.com/high.steppin.prst/"
  },
  "Just Kidding": {
   "de": "Partyreihe, die im Juni 2024 im Wiener PRST startete, mit Techno und House im Main Room und einem Ambient Room samt Performance; danach weitere Abende im PRST und 2025 gemeinsam mit Oxygene im SASS Music Club.",
@@ -5134,8 +5248,8 @@ const CI={
   "src": [
    "https://ra.co/events/1935402"
   ],
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Playdate": {
   "de": "Partyreihe im Wiener PRST, gestartet im September 2024 mit einer Launch Party; Techno und „finest grooves until the very morning“, 2025 etwa „Maydate“ mit Bailey Ibbs. Auf RA von OFF CONCEPTS eingetragen.",
