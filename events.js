@@ -8151,7 +8151,8 @@ const AR={
    "ra": "https://ra.co/dj/djwifi"
   },
   "src": [
-   "https://ra.co/dj/djwifi"
+   "https://ra.co/dj/djwifi",
+   "https://ra.co/dj/djwifi-3"
   ],
   "sets": [
    {
@@ -8166,8 +8167,13 @@ const AR={
   "setsChecked": "2026-10-27",
   "noImg": "2026-11-03",
   "linksOk": "2026-10-29",
-  "infoChk": "2026-11-03",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15",
+  "img": "https://static.ra.co/images/profiles/square/djwifi-3.jpg?dateUpdated=1757011859977",
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  }
  },
  "Neon Graveyard": {
   "links": {
@@ -12146,9 +12152,9 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Fractured Souls": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Eternal Injustice vs Raw Kickzz": {
@@ -14275,9 +14281,10 @@ const AR={
    "https://geschichte.lbg.ac.at/team/drehli-robnik/?lang=en"
   ],
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "spChk": "2026-11-15"
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15",
+  "img": "https://geschichte.lbg.ac.at/wp-content/uploads/sites/10/2022/05/ROBNIK-Drehli_cr-e1760968145497.jpg"
  },
  "Vantan": {
   "links": {
@@ -16287,9 +16294,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "finster": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Flo Førg": {
@@ -16665,9 +16672,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Saratonin": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "SWEGALICIOUS": {
@@ -17594,20 +17601,34 @@ const AR={
    {
     "t": "Anna Soto – Soundbüglerei (Radio Rudina)",
     "u": "https://soundcloud.com/radiorudina/anna-soto-soundbuglerei-radio-rudina"
+   },
+   {
+    "t": "ANNA SOTO - 07/03/25",
+    "u": "https://soundcloud.com/vlanradio/annasoto-100325"
    }
   ],
-  "setsChecked": "2026-11-02",
+  "setsChecked": "2026-11-15",
   "src": [
-   "https://de.ra.co/events/2144473"
+   "https://de.ra.co/events/2144473",
+   "https://ra.co/dj/annasoto"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
   "bio": {
    "de": "Anna Soto ist eine DJ, die in Wien u. a. bei Cardio Cult im SASS (gemeinsam mit Andi Britz) und bei Das Syndikat im Celeste spielt. Bei Radio Rudina ist ihr Mix „Soundbüglerei“ erschienen.",
    "en": "Anna Soto is a DJ who plays in Vienna at Cardio Cult at SASS (alongside Andi Britz) and Das Syndikat at Celeste, among others. Her mix 'Soundbüglerei' has been released on Radio Rudina."
   },
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "img": "https://static.ra.co/images/profiles/square/annasoto.jpg?dateUpdated=1793882965000",
+  "links": {
+   "ra": "https://ra.co/dj/annasoto",
+   "sc": "https://soundcloud.com/anna-soto01"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  }
  },
  "Armin Karmin": {
   "infoChk": "2026-11-03",
@@ -17876,12 +17897,35 @@ const AR={
    "en": "Konman is a DJ with a versatile style that adapts to the mood and setting. He mostly leans towards deep, groovy sounds but switches easily into trippier territory."
   },
   "src": [
-   "https://www.wienmodern.at/2026-bio-konman-de-9346"
+   "https://www.wienmodern.at/2026-bio-konman-de-9346",
+   "https://de.ra.co/dj/konman",
+   "https://dev2.elevate.at/en/music/artists/konman"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "img": "https://static.ra.co/images/profiles/square/konman.jpg?dateUpdated=1787927138967",
+  "links": {
+   "ra": "https://ra.co/dj/konman",
+   "sc": "https://soundcloud.com/konmann",
+   "ig": "https://www.instagram.com/_konman_/"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "sets": [
+   {
+    "t": "NTBT - Mixtape Vol. #5 by Konman",
+    "u": "https://soundcloud.com/nexttimebigtime/ntbt-mixtape-vol-5-by-konman"
+   },
+   {
+    "t": "Lindas & JJs Set",
+    "u": "https://soundcloud.com/konmann/lindas-jjs-set"
+   }
+  ],
+  "setsChecked": "2026-11-15"
  },
  "Lucia Kagramanyan": {
   "img": "https://dev2.elevate.at/fileadmin/EIS_images/artist/2733/9129-Lucia-Kagramanyan_1280x853.png",
@@ -18180,9 +18224,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Karam": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "bio": {
    "de": "Karam ist ein Psytrance-DJ-Act auf dem Lineup von „Tribal Vibes meets Exil“, der Old-School-Psytrance-Nacht der Reihe Tribal Vibes im Club Exil.",
    "en": "Karam is a psytrance DJ act on the line-up of 'Tribal Vibes meets Exil', the old-school psytrance night of the Tribal Vibes series at Club Exil."
@@ -19151,8 +19195,8 @@ const AR={
   "spChk": "2026-11-15"
  },
  "NoNameLeft": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/nonameleftmusic"
@@ -19300,9 +19344,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Nova.psd": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "neomodern": {
@@ -20186,8 +20230,8 @@ const AR={
    "https://ra.co/events/2163396",
    "https://www.facebook.com/tunderke3"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Urklang": {
@@ -22598,12 +22642,22 @@ const AR={
   ],
   "src": [
    "https://soundcloud.com/adriantronic",
-   "https://ra.co/events/2228018"
+   "https://ra.co/events/2228018",
+   "https://de.ra.co/events/2437922",
+   "https://bandcamp.com/adriantronic"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "setsChecked": "2026-11-03",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "from": {
+   "de": "Wien, Österreich",
+   "en": "Vienna, Austria"
+  },
+  "bio": {
+   "de": "Adrian Tronic ist ein DJ aus Wien, der häufig im B2B mit Manu Script auflegt – u. a. in der Grellen Forelle, im SASS Music Club und in der Pratersauna. Er ist mit der Wiener Reihe Du Tanzt Mich Mal verbunden und stand etwa beim Frühlings Tanz Open Air Rave auf der Summerstation an der Donauinsel im Line-up.",
+   "en": "Adrian Tronic is a Vienna-based DJ who often plays back-to-back with Manu Script, including at Grelle Forelle, SASS Music Club and Pratersauna. He is connected to the Viennese series Du Tanzt Mich Mal and played its Frühlings Tanz Open Air Rave at Summerstation on the Danube Island."
+  }
  },
  "Partiboi69": {
   "img": "https://static.ra.co/images/profiles/square/partiboi69.jpg?dateUpdated=1693912605000",
@@ -47348,9 +47402,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "L!XXL": {
-  "noImg": "2026-11-04",
-  "noLinks": "2026-11-04",
-  "infoChk": "2026-11-04",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "MANDALA": {
@@ -47807,9 +47861,9 @@ const AR={
   "noLinks": "2026-11-07"
  },
  "Laerm": {
-  "infoChk": "2026-11-07",
-  "noImg": "2026-11-07",
-  "noLinks": "2026-11-07",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "bobbyyxjohnson": {
@@ -48210,9 +48264,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Techmoo": {
-  "noImg": "2026-11-08",
-  "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Harry Knaypp": {
@@ -48222,9 +48276,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Polo": {
-  "noImg": "2026-11-08",
-  "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Housefrau": {
@@ -48894,8 +48948,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/user-659478251"
   },
-  "noImg": "2026-11-10",
-  "infoChk": "2026-11-10",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
   "setsChecked": "2026-11-15",
   "spChk": "2026-11-15"
  },
@@ -48910,9 +48964,9 @@ const AR={
   "noLinks": "2026-11-11"
  },
  "DJ Hueftschwung": {
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "DJ Off Duty": {
@@ -49509,9 +49563,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Raw Kickzz": {
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Reflexx": {
@@ -50511,9 +50565,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "I.Lim": {
-  "infoChk": "2026-11-14",
-  "noImg": "2026-11-14",
-  "noLinks": "2026-11-14",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "High Noon Rockers": {
@@ -50680,6 +50734,26 @@ const AR={
   "spChk": "2026-11-15",
   "infoChk": "2026-11-15",
   "noImg": "2026-11-15"
+ },
+ "DJ FERRARI": {
+  "img": "https://static.ra.co/images/profiles/square/djferrari.jpg?dateUpdated=1710761144000",
+  "links": {
+   "ra": "https://ra.co/dj/djferrari",
+   "ig": "https://www.instagram.com/dj_ferrari1/"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "DJ FERRARI ist ein DJ aus Österreich, der laut RA seit 2010 auflegt und vor allem in Wien spielt – am häufigsten im Das Werk und in der Pratersauna. Regelmäßige Auftritte gibt es bei Synergy Rave (Trance + Hard Techno) im Das Werk sowie bei KARTELL.FM (Hard House, Trance & Bounce), auch in Innsbruck.",
+   "en": "DJ FERRARI is a DJ from Austria who, according to RA, has been playing since 2010, mostly in Vienna – most often at Das Werk and Pratersauna. Regular appearances include Synergy Rave (Trance + Hard Techno) at Das Werk and KARTELL.FM (Hard House, Trance & Bounce), including in Innsbruck."
+  },
+  "src": [
+   "https://ra.co/dj/djferrari"
+  ],
+  "spChk": "2026-11-15",
+  "infoChk": "2026-11-15"
  }
 };
 
