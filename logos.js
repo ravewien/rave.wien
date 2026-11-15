@@ -1,5 +1,6 @@
 // Automatisch erzeugt (.github/scripts/logos.js) – nicht bearbeiten.
 const LOGOBOX={
+"https://arena.wien/Portals/_default/Skins/ArenaWien/media/logo.png":[145,107,10,10,132,95,"#000000"],
 "https://assets-flucc-at.fra1.digitaloceanspaces.com/flucc-at-uploads/images/im-freudentaumel_KxbXHnR.max-2560x1440.png":[1440,1440,331,590,1076,823,"#000000"],
 "https://assets-s3.welocally.at/shrine/store/fdb7dbe8a7bf036d6f0ac22885b8b3d2.png":[400,400,23,26,376,369,"#ffffff"],
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxSNTz3y4vRe1uW6jAeEvkGJ8big2rRBHtXt7PFPx_1NgOIsaeuPzAUOIDBMAMDyhlvyg4dpSfKKDm66ShGgXrn-rYA-IQ7v_uHAdON2-SyAoiFnhr2mG6DOb4fSA0aCD2n6d_2e9RxVYc/s1600/zuckerwatt_hq.jpg":[600,788,18,18,582,770,"#000000"],
@@ -12,6 +13,7 @@ const LOGOBOX={
 "https://f4.bcbits.com/img/0047803878_100.png":[975,180,369,38,615,139,"#252523"],
 "https://falco.net/wp-content/uploads/2017/01/u4logo-1-678x381.jpg":[678,381,146,51,531,330,"#000000"],
 "https://flex.at/wp-content/uploads/2022/05/Flex-Logo-weiss.svg":[2067,325,1,0,2066,325,"#000000"],
+"https://fra1.digitaloceanspaces.com/ntry2prod/org_images/290816/small/tagada_logo.png?1701099871":[100,33,0,0,100,33,"#ffffff"],
 "https://hofburg.com/jart/prj3/hofburg/resources/images/hofburg-white.png":[152,74,9,5,145,69,"#ffffff"],
 "https://i1.sndcdn.com/avatars-000048192524-zbrypt-t500x500.jpg":[500,500,0,0,500,500,"#000000"],
 "https://i1.sndcdn.com/avatars-000545622270-yfcydf-t500x500.jpg":[500,500,0,0,500,500,"#000000"],
