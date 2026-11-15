@@ -15125,9 +15125,9 @@ const AR={
   "setsChecked": "2026-11-02"
  },
  "Mantis": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Stoney Curtis": {
@@ -16072,9 +16072,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Gomez & Nickfried": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Ironica Los Culos": {
@@ -16695,9 +16695,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "Stan Matan": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Saender": {
@@ -17688,9 +17688,9 @@ const AR={
   }
  },
  "Armin Karmin": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "AKOV": {
@@ -19409,9 +19409,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Paul Galbur": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Romanova": {
@@ -19439,9 +19439,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "neomodern": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Ruben de Ronde": {
