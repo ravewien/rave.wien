@@ -1392,8 +1392,8 @@ const CI={
    "Reihe"
   ],
   "from": "Wien",
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Merkwürdig": {
   "founded": "2016",
@@ -1509,7 +1509,8 @@ const CI={
   "src": [
    "https://ohschonhell.at/orte/flucc/50",
    "https://dropthebass.co/events/3-years-of-reverse-pres-prdk-shmidoo-resselrave-afterparty-with-soundlabs-200925",
-   "https://ra.co/events/2425613"
+   "https://ra.co/events/2425613",
+   "https://linktr.ee/reverse.dnb"
   ],
   "de": "Wiener Drum-&-Bass-Reihe mit Schwerpunkt Neurofunk; die erste Clubnacht fand am 23. September 2022 statt. Über 17 Nächte im Camera Club und FLUCC sowie rund 30 Kooperationen und Stage-Hostings, später auch im Club Lucia.",
   "en": "Viennese drum & bass series focused on neurofunk; its first club night took place on 23 September 2022. More than 17 nights at Camera Club and FLUCC plus around 30 collaborations and stage hostings, later also at Club Lucia.",
@@ -1518,8 +1519,10 @@ const CI={
   ],
   "from": "Wien",
   "tix": "https://reverse.ticket.io",
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-03",
+  "logo": "https://ugc.production.linktr.ee/faf47ee7-a8ab-45d8-9ae6-5c4930fe9f7b_Kopie-von-Logo-REVERSE.jpeg?io=true&size=avatar-v3_0",
+  "sc": "https://soundcloud.com/reverse-dnb"
  },
  "deep cut": {
   "founded": "2024",
@@ -3494,8 +3497,8 @@ const CI={
    "https://ra.co/events/2493280",
    "https://ra.co/events/2404362"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "ig": "https://www.instagram.com/enterspectral/"
  },
  "S.O.U.L.": {
@@ -4416,8 +4419,8 @@ const CI={
   "src": [
    "https://warda.at/?p=103018"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Redivider": {
   "de": "Wiener Reihe mit Events vor allem im PRST, dazu im SASS Music Club und in der Grelle Forelle; Veranstalter laut Ticketshop ist der Kulturverein Atlantis.",
@@ -4444,8 +4447,9 @@ const CI={
    "https://ra.co/events/2175349",
    "https://ra.co/events/2421009"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "sc": "https://soundcloud.com/ukgvienna"
  },
  "Straat 264": {
   "de": "Wiener Reihe mit Events in der Grelle Forelle und im PRST, u. a. in Kooperation mit VNV.",
@@ -4538,8 +4542,8 @@ const CI={
    "https://ra.co/events/2500898",
    "https://ra.co/events/2522045"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Wohnzimmer": {
   "de": "Reihe im SASS Music Club, in der Gäste wie Joyce Muniz und Sarah Wild „im Wohnzimmer“ auflegen.",
