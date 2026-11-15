@@ -48,5 +48,6 @@ const LOGOBOX={
 "https://www.technovienna.com/wp-content/uploads/2021/06/Logo_nl_2.png":[1173,373,13,11,1158,362,"#000000"],
 "https://www.theloft.at/wp-content/uploads/2022/02/loft-logo.svg":[319,69,0,0,319,69,"#ffffff"],
 "https://www.ttbb.at/wp-content/uploads/2026/03/Schriftzug-weiss.svg":[760,2813,163,200,627,2608,"#000000"],
-"https://www.wienmodern.at/images/Logo.png":[226,57,0,0,226,57,"#000000"]
+"https://www.wienmodern.at/images/Logo.png":[226,57,0,0,226,57,"#000000"],
+"https://www.wuk.at/_assets/328332009003ebcdcb057b608a3f893a/Images/logo.svg":[275,171,0,0,275,171,"#ffffff"]
 };
