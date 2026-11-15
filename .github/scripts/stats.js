@@ -84,7 +84,7 @@ for (const [sha, iso] of commits) {
       ev: Object.assign({ n: es.length, note: es.filter(e => e.note).length, price: es.filter(e => e.price).length, lineup: es.filter(e => e.lineup).length,
         genres: es.filter(e => e.genres).length, flyer: es.filter(e => e.flyer).length, srch: es.filter(e => e.srch).length }, nw(first.ev, ek)),
       art: Object.assign({ n: ak.length, links: A.filter(a => has(a.links)).length, img: A.filter(a => has(a.img)).length,
-        bio: A.filter(a => a.bio && (a.bio.de || a.bio.en)).length, sets: A.filter(a => has(a.sets)).length, empty: A.filter(emptyA).length,
+        bio: A.filter(a => a.bio && (a.bio.de || a.bio.en)).length, sets: A.filter(a => has(a.sets)).length, sp: A.filter(a => a.links && has(a.links.sp)).length, empty: A.filter(emptyA).length,
         ...(r === "all" ? { hid: ak.filter(k => oldHide(HA.get(k), has((ARf[k] || {}).img))).length } : {}),
         srch: A.filter(a => has(a.img) || has(a.noImg) || has(a.infoChk) || has(a.noLinks)).length }, nw(first.art, ak)),
       col: Object.assign({ n: ck.length, txt: Cc.filter(x => has(x.de) || has(x.en)).length, web: Cc.filter(x => has(x.web) || has(x.ig)).length,
