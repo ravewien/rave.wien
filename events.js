@@ -7264,7 +7264,8 @@ const AR={
    "Mystic Sunset"
   ],
   "links": {
-   "ra": "https://ra.co/dj/djmarky"
+   "ra": "https://ra.co/dj/djmarky",
+   "sp": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
   },
   "src": [
    "https://en.wikipedia.org/wiki/DJ_Marky",
@@ -7287,7 +7288,8 @@ const AR={
    }
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Mijk van Dijk": {
   "from": {
@@ -8021,7 +8023,8 @@ const AR={
    "PRST"
   ],
   "img": "https://static.ra.co/images/profiles/square/enja.jpg?dateUpdated=1711360724000",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Jorkes": {
   "links": {
@@ -9254,7 +9257,8 @@ const AR={
    "de": "DJ aus Österreich, der vor allem in Wien auflegt – am häufigsten im PRST, im SASS Music Club, in der Pratersauna und in der Grelle Forelle.",
    "en": "DJ from Austria who mostly plays in Vienna – most often at PRST, SASS Music Club, Pratersauna and Grelle Forelle."
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-15"
  },
  "Arman Shadow": {
   "links": {
@@ -9287,7 +9291,8 @@ const AR={
    "de": "Techno-Produzent und DJ aus dem Iran, der aus dem Wiener und Pariser Underground kommt und heute in Paris lebt. Bekannt für groovige, hypnotische Sets; laut RA Resident im Das Werk.",
    "en": "Techno producer and DJ from Iran who emerged from the Vienna and Paris underground and is now based in Paris. Known for groove-driven, hypnotic sets; according to RA a resident at Das Werk."
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-15"
  },
  "Ben Derris": {
   "links": {
@@ -12104,7 +12109,8 @@ const AR={
  "Recovered": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Dennes Deen": {
   "noImg": "2026-11-03",
@@ -13043,7 +13049,8 @@ const AR={
    "https://ra.co/dj/chrisfreud",
    "https://ra.co/events/2218855"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-15"
  },
  "David Radi": {
   "img": "https://static.ra.co/images/profiles/square/davidradi.jpg?dateUpdated=1747401517000",
@@ -14935,7 +14942,8 @@ const AR={
    "https://soundcloud.com/user-199275066/shake-it-to-the-max-donk-remix",
    "https://www.instagram.com/partypaulii/"
   ],
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Voltmarie": {
   "infoChk": "2026-11-02",
@@ -15813,7 +15821,8 @@ const AR={
    "https://ukf.com/read/who-the-hell-is-envy/",
    "https://soundcloud.com/envydnb"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Julia Goldfarb": {
   "infoChk": "2026-11-03",
@@ -15960,7 +15969,8 @@ const AR={
  "Gomez & Nickfried": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Ironica Los Culos": {
   "links": {
@@ -16215,7 +16225,8 @@ const AR={
  "Flo Førg": {
   "img": "https://static.ra.co/images/profiles/square/floforg.jpg?dateUpdated=1573430400000",
   "links": {
-   "ra": "https://ra.co/dj/floforg"
+   "ra": "https://ra.co/dj/floforg",
+   "sp": "https://open.spotify.com/artist/4sT1ZdUGQYaJU3zlaBHYBj"
   },
   "from": {
    "de": "München",
@@ -16234,7 +16245,8 @@ const AR={
   "src": [
    "https://es-mx.ra.co/dj/floforg/biography"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Fliize": {
   "infoChk": "2026-11-03",
@@ -16329,7 +16341,8 @@ const AR={
  "Ernst": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "IVUR": {
   "img": "https://f4.bcbits.com/img/0028539340_21.jpg",
@@ -16525,7 +16538,8 @@ const AR={
  "Sebastian Wagner": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Sabina": {
   "noImg": "2026-11-03",
@@ -16577,7 +16591,8 @@ const AR={
  "Saender": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Saratonin": {
   "noImg": "2026-11-03",
@@ -16948,7 +16963,8 @@ const AR={
    "bc": "https://bvisible.bandcamp.com",
    "sc": "https://soundcloud.com/b-vsbl",
    "ig": "https://www.instagram.com/b.visible/",
-   "web": "https://b-visible.net/"
+   "web": "https://b-visible.net/",
+   "sp": "https://open.spotify.com/artist/4Byg7Vq1guuWKB1PveIqYi"
   },
   "bio": {
    "de": "B.Visible ist ein Wiener Produzent und DJ, der seit 2004 auflegt und produziert. Seine Musik verbindet scharfe elektronische Elemente mit staubigen akustischen Schichten; seine Debüt-EP „Order and Chaos“ erschien auf dem französischen Label Cosmonostro. Weitere Releases sind u. a. „Life is my Hobby“, „Planes“ und „In Between Places“.",
@@ -16970,7 +16986,8 @@ const AR={
    "https://bvisible.bandcamp.com/music",
    "https://www.thewildcity.com/features/2498-in-profile-b-visible"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Boom Shankar": {
   "links": {
@@ -17833,7 +17850,8 @@ const AR={
    "sc": "https://soundcloud.com/kenjiaraki",
    "bc": "https://kenjiaraki.bandcamp.com",
    "ig": "https://www.instagram.com/_kenjiaraki_",
-   "ra": "https://ra.co/dj/kenjiaraki"
+   "ra": "https://ra.co/dj/kenjiaraki",
+   "sp": "https://open.spotify.com/artist/19Gr6pqjMgeXgPlin5QoEi"
   },
   "from": {
    "de": "Wien, mit japanischen Wurzeln",
@@ -17853,7 +17871,9 @@ const AR={
    "https://www.donaufestival.at/en/artists/kenji-araki/276",
    "https://dev2.elevate.at/en/music/artists/kenji_araki"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Lila Gold": {
   "img": "https://static.ra.co/images/profiles/square/lilagold-2.jpg?dateUpdated=1764326805980",
@@ -17922,7 +17942,8 @@ const AR={
   ],
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Lucy Bakanal": {
   "infoChk": "2026-11-03",
@@ -18012,12 +18033,14 @@ const AR={
   "setsChecked": "2026-11-03",
   "src": [
    "https://soundcloud.com/radiorudina/lala-radio-rudina"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Leanne": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "L3nny": {
   "infoChk": "2026-11-03",
@@ -18100,7 +18123,8 @@ const AR={
   },
   "genres": [
    "Psytrance"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "KWEEN BEE": {
   "infoChk": "2026-11-03",
@@ -18115,7 +18139,8 @@ const AR={
   ],
   "src": [
    "https://www.technoairlines.com/event/taktgefuhl-vol-2-club-lucia-2026-12-11"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "L.O.S.S.": {
   "infoChk": "2026-11-03",
@@ -18984,7 +19009,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/nickhanzo",
    "bc": "https://nickhanzo.bandcamp.com/",
-   "web": "https://www.nickhanzo.com"
+   "web": "https://www.nickhanzo.com",
+   "sp": "https://open.spotify.com/artist/2w1qvzkgm3BP5gjMzFT1MU"
   },
   "labels": [
    "Belly Dance Services",
@@ -19011,7 +19037,8 @@ const AR={
    "https://soundcloud.com/nickhanzo"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Nasty": {
   "infoChk": "2026-11-03",
@@ -19176,12 +19203,14 @@ const AR={
  "Nova.psd": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "neomodern": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Ruben de Ronde": {
   "img": "https://static.ra.co/images/profiles/square/rubenderonde.jpg?dateUpdated=1778148207227",
@@ -19326,7 +19355,8 @@ const AR={
    "https://ra.co/dj/replic"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "PJPJPJ": {
   "img": "https://static.ra.co/images/profiles/square/pjpjpj.jpg?dateUpdated=1727797306000",
@@ -19808,7 +19838,8 @@ const AR={
    "https://ra.co/dj/timkern/biography",
    "https://ra.co/dj/-lala-"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Young Sun": {
   "infoChk": "2026-11-03",
@@ -19875,7 +19906,8 @@ const AR={
    "ra": "https://ra.co/dj/thomasschumacher",
    "sc": "https://soundcloud.com/thomas-schumacher",
    "ig": "https://www.instagram.com/djthomasschumacher",
-   "web": "https://www.thomasschumacher.com"
+   "web": "https://www.thomasschumacher.com",
+   "sp": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
   },
   "from": {
    "de": "Deutschland",
@@ -19903,7 +19935,23 @@ const AR={
    "https://www.facebook.com/ThomasSchumacherOfficial",
    "https://www.discogs.com/artist/Thomas+Schumacher"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "sets": [
+   {
+    "t": "MAYDAY 2022 DJ Set",
+    "u": "https://soundcloud.com/thomas-schumacher/mayday-momentum-dj-set-part-1"
+   },
+   {
+    "t": "B2B set with A.D.H.S. @ Sisyphos Tunnel 23.07.21",
+    "u": "https://soundcloud.com/thomas-schumacher/b2b-set-with-adhs-sisyphos-tunnel-230721"
+   },
+   {
+    "t": "Thomas Schumacher @ Fusion Festival 2016",
+    "u": "https://soundcloud.com/thomas-schumacher/my-electric-ballroom-fusion-2016-special"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Tom Snow": {
   "links": {
@@ -20089,7 +20137,8 @@ const AR={
   ],
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Martin Oelz": {
   "bio": {
@@ -20302,7 +20351,8 @@ const AR={
  "Mark Dale": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "MANiLO": {
   "infoChk": "2026-11-03",
@@ -20623,7 +20673,8 @@ const AR={
    "https://soundcloud.com/403vorbidden",
    "https://www.instagram.com/403vorbidden/"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "WONKA CTK": {
   "img": "https://f4.bcbits.com/img/0017755285_10.jpg",
@@ -22841,7 +22892,8 @@ const AR={
    "https://www.mixcloud.com/tsubitsu/",
    "https://viberate.com/artist/dj-tsubi"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Frau Hofmann": {
   "img": "https://static.ra.co/images/profiles/square/frauhofmann.jpg?dateUpdated=1780586796000",
@@ -24284,7 +24336,8 @@ const AR={
   "img": "https://static.ra.co/images/profiles/square/chrisliebing.jpg?dateUpdated=1783602571990",
   "links": {
    "ra": "https://ra.co/dj/chrisliebing",
-   "sc": "https://soundcloud.com/chris-liebing"
+   "sc": "https://soundcloud.com/chris-liebing",
+   "sp": "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
   },
   "bio": {
    "de": "Deutscher Techno-DJ und Produzent aus der Nähe von Frankfurt, dessen Karriere Ende 1995 im Frankfurter Omen begann; später Resident im Omen und im Berliner Tresor. Er arbeitete für Sven Väths Label Eye-Q, betreibt das Label CLR samt CLR-Podcast und veröffentlichte auch auf Mute Records.",
@@ -24320,7 +24373,8 @@ const AR={
    "https://ra.co/dj/chrisliebing/biography",
    "https://soundcloud.com/chris-liebing/sets"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "DJ Gigola": {
   "img": "https://static.ra.co/images/profiles/square/djgigola.jpg?dateUpdated=1788127137920",
@@ -27685,8 +27739,10 @@ const AR={
   "infoChk": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/dj_dreckisch",
-   "ra": "https://ra.co/dj/djdreckisch"
-  }
+   "ra": "https://ra.co/dj/djdreckisch",
+   "sp": "https://open.spotify.com/artist/29pghx4OZDZ45mcQLjdxUl"
+  },
+  "spChk": "2026-11-15"
  },
  "Henry Wagner": {
   "infoChk": "2026-11-03",
@@ -28664,7 +28720,8 @@ const AR={
   "src": [
    "https://ra.co/dj/scheibenwischer"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Daria Kolosova": {
   "img": "https://static.ra.co/images/profiles/square/dariakolosova.jpg?dateUpdated=1765651539363",
@@ -34708,7 +34765,8 @@ const AR={
    "ra": "https://ra.co/dj/hnas",
    "ig": "https://www.instagram.com/hnasofficial",
    "sc": "https://soundcloud.com/hnasofficial",
-   "bc": "https://hnasofficial.bandcamp.com"
+   "bc": "https://hnasofficial.bandcamp.com",
+   "sp": "https://open.spotify.com/artist/5kJq9jrVrBJ0Ep5llQF0AZ"
   },
   "from": {
    "de": "Herzogenaurach, Deutschland",
@@ -34729,7 +34787,9 @@ const AR={
    "https://de.ra.co/dj/hnas",
    "https://ra.co/dj/hnas/biography"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Perra Inmunda": {
   "img": "https://static.ra.co/images/profiles/square/perrainmunda.jpg?dateUpdated=1665050167000",
@@ -38693,7 +38753,8 @@ const AR={
    "https://ra.co/events/2118550",
    "https://soundcloud.com/dreya_vie/popular-tracks"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "spChk": "2026-11-15"
  },
  "Violette": {
   "infoChk": "2026-11-04",
@@ -47214,7 +47275,8 @@ const AR={
    "https://ra.co/dj/coido",
    "https://ra.co/events/2575308"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "spChk": "2026-11-15"
  },
  "yarx": {
   "links": {
@@ -47234,7 +47296,15 @@ const AR={
   "src": [
    "https://ra.co/dj/yarx"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "sets": [
+   {
+    "t": "YARX - 09/05/25",
+    "u": "https://soundcloud.com/vlanradio/yarx-090525"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "A_Phan": {
   "links": {
@@ -47762,7 +47832,8 @@ const AR={
   "src": [
    "https://chrisfaderundtesta.bandcamp.com",
    "https://www.45live.net/magazine/article/restless-leg-syndrome-represent-the-fucking-planet-little-beat-more"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Testa": {
   "img": "https://f4.bcbits.com/img/0036224829_21.jpg",
@@ -47922,7 +47993,8 @@ const AR={
  "Tonks": {
   "noImg": "2026-11-08",
   "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08"
+  "infoChk": "2026-11-08",
+  "spChk": "2026-11-15"
  },
  "wldfee": {
   "noImg": "2026-11-08",
@@ -47944,7 +48016,8 @@ const AR={
  "NooK": {
   "noImg": "2026-11-08",
   "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08"
+  "infoChk": "2026-11-08",
+  "spChk": "2026-11-15"
  },
  "mein__dm": {
   "noImg": "2026-11-08",
@@ -47992,7 +48065,8 @@ const AR={
  "great area": {
   "noImg": "2026-11-09",
   "noLinks": "2026-11-09",
-  "infoChk": "2026-11-09"
+  "infoChk": "2026-11-09",
+  "spChk": "2026-11-15"
  },
  "PILLBERT": {
   "noImg": "2026-11-09",
@@ -48009,7 +48083,8 @@ const AR={
  "Booster Club": {
   "noImg": "2026-11-09",
   "noLinks": "2026-11-09",
-  "infoChk": "2026-11-09"
+  "infoChk": "2026-11-09",
+  "spChk": "2026-11-15"
  },
  "Soundbüglerei": {
   "noImg": "2026-11-09",
@@ -48541,7 +48616,9 @@ const AR={
    "sc": "https://soundcloud.com/user-659478251"
   },
   "noImg": "2026-11-10",
-  "infoChk": "2026-11-10"
+  "infoChk": "2026-11-10",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "DJ Mimo": {
   "infoChk": "2026-11-11",
@@ -48703,7 +48780,22 @@ const AR={
    "https://ra.co/dj/elektroguzzi",
    "https://open.spotify.com/album/1NnfO8eRsaEadEzd3hMkVb"
   ],
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "sets": [
+   {
+    "t": "MUTEKLIVE078 - Elektro Guzzi @ MUTEK 2014",
+    "u": "https://soundcloud.com/mutek_montreal/elektro-guzzi-live-mutek-2014-experience-2"
+   },
+   {
+    "t": "ARMA PODCAST 006: Elektro Guzzi @ Save",
+    "u": "https://soundcloud.com/arma17/elektro-guzzi-live-save-festival-arma17"
+   },
+   {
+    "t": "RA.212 Elektro Guzzi",
+    "u": "https://soundcloud.com/resident-advisor/ra212-elektro-guzzi"
+   }
+  ],
+  "setsChecked": "2026-11-15"
  },
  "vazov": {
   "alias": [
@@ -48837,12 +48929,29 @@ const AR={
   "img": "https://static.ra.co/images/profiles/square/catudiosis.jpg?dateUpdated=1564656489000",
   "links": {
    "ra": "https://ra.co/dj/catudiosis",
-   "sc": "https://soundcloud.com/catu_dj"
+   "sc": "https://soundcloud.com/catu_dj",
+   "sp": "https://open.spotify.com/artist/44dKdU8nFZseFOU6S3R2aa"
   },
   "src": [
    "https://ra.co/dj/catudiosis"
   ],
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "sets": [
+   {
+    "t": "Beach Vybz Cologne - DJ Set",
+    "u": "https://soundcloud.com/catu_dj/beach-vybz-cologne-dj-set"
+   },
+   {
+    "t": "CATU DIOSIS LIVE SET @KEROXEN FESTIVAL TENERIFE",
+    "u": "https://soundcloud.com/catu_dj/catu-diosis-live-set-keroxen-festival-tenerife"
+   },
+   {
+    "t": "HER 他 Transmission 031: Catu Diosis",
+    "u": "https://soundcloud.com/hermusicequality/her-transmission-031-catu-diosis"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Fingers of God": {
   "from": {
@@ -48871,7 +48980,9 @@ const AR={
    "https://ra.co/dj/fingersofgod",
    "https://ra.co/events/2580457"
   ],
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Richard Steinschlag": {
   "from": {
@@ -49128,7 +49239,23 @@ const AR={
    "https://soundcloud.com/djtapanov"
   ],
   "noImg": "2026-11-11",
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "sets": [
+   {
+    "t": "Tapanov - Spirit Base Festival 2026",
+    "u": "https://soundcloud.com/djtapanov/tapanov-spirit-base-festival"
+   },
+   {
+    "t": "DJ TAPANOV Closing set SPIRIT BASE FESTIVAL 2025",
+    "u": "https://soundcloud.com/djtapanov/dj-tapanov-closing-set-spirit"
+   },
+   {
+    "t": "Tapanov PSYCHEDELIC TECHNO MIX 12.12. 2023.WAV",
+    "u": "https://soundcloud.com/djtapanov/tapanov-psychedelic-techno-mix-1212-2023wav"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Active8": {
   "noImg": "2026-11-11",
@@ -49767,7 +49894,8 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/schrotthagen",
    "sc": "https://soundcloud.com/schrotthagen-music",
-   "ig": "https://www.instagram.com/schrotthagen/"
+   "ig": "https://www.instagram.com/schrotthagen/",
+   "sp": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
   },
   "from": {
    "de": "Deutschland",
@@ -49783,7 +49911,9 @@ const AR={
   "src": [
    "https://ra.co/dj/schrotthagen"
   ],
-  "infoChk": "2026-11-12"
+  "infoChk": "2026-11-12",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Dino Spiluttini": {
   "from": {
@@ -49943,7 +50073,8 @@ const AR={
   "infoChk": "2026-11-13",
   "src": [
    "https://soundcloud.com/hartlabvienna/anemona-for-hart-lab-rrr-300422"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Evren de concecao": {
   "noImg": "2026-11-13",
@@ -49996,7 +50127,8 @@ const AR={
   "src": [
    "https://ra.co/dj/dyminix"
   ],
-  "infoChk": "2026-11-14"
+  "infoChk": "2026-11-14",
+  "spChk": "2026-11-15"
  },
  "Leen Tilt": {
   "labels": [
@@ -50057,7 +50189,8 @@ const AR={
  "Patches": {
   "infoChk": "2026-11-14",
   "noImg": "2026-11-14",
-  "noLinks": "2026-11-14"
+  "noLinks": "2026-11-14",
+  "spChk": "2026-11-15"
  },
  "Luv Affair on Air": {
   "infoChk": "2026-11-14",
