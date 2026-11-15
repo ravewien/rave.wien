@@ -710,16 +710,17 @@ BEGIN:VEVENT
 UID:2026-11-20-manner-im-loft@rave.wien
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Vienna:20261120T230000
-DTEND;TZID=Europe/Vienna:20261121T040000
+DTEND;TZID=Europe/Vienna:20261121T050000
 SUMMARY:Männer im Loft
 LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
-DESCRIPTION:DJ Countessa\, Sebastian Wagner\, Noemi Universe\nEintritt: 1
- 3–18 € / Trans\, Drags & Refugees frei\n\nZweite Ausgabe der Partyre
- ihe „Männer im Loft“ (Tickets über Vangardist) mit „Home-Party-V
- ibes“ im Unten-Floor und dem Wohnzimmer als Chill-Bereich mit Couches.
-  Es legen DJ Countessa\, Sebastian Wagner und Noemi Universe auf. Freier
-  Eintritt für Trans-Personen\, Drags und Geflüchtete. Genre nicht ange
- geben.\n\nhttps://rave.wien/e/2026-11-20-manner-im-loft
+DESCRIPTION:DJ Countessa\, Sebastian Wagner\, Noemi Universe\nVeranstalte
+ r: Vangardist\nEintritt: 13–18 € / Trans\, Drags & Refugees frei\n\n
+ Zweite Ausgabe der Partyreihe „Männer im Loft“ (Tickets über Vanga
+ rdist) mit „Home-Party-Vibes“ im Unten-Floor und dem Wohnzimmer als 
+ Chill-Bereich mit Couches. Es legen DJ Countessa\, Sebastian Wagner und 
+ Noemi Universe auf. Freier Eintritt für Trans-Personen\, Drags und Gefl
+ üchtete. Genre nicht angegeben.\n\nhttps://rave.wien/e/2026-11-20-manne
+ r-im-loft
 URL:https://rave.wien/e/2026-11-20-manner-im-loft
 END:VEVENT
 BEGIN:VEVENT
@@ -1698,17 +1699,19 @@ BEGIN:VEVENT
 UID:2026-11-28-red-groove-social-club-with-nick-curly@rave.wien
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Vienna:20261128T230000
-DTEND;TZID=Europe/Vienna:20261129T040000
+DTEND;TZID=Europe/Vienna:20261129T060000
 SUMMARY:RED GROOVE (Social Club) with Nick Curly
 LOCATION:PRST\, Praterstraße 18\, 1020 Wien
 DESCRIPTION:Nick Curly\, KILL.DB\, RED GROOVE SYSTEM\nVeranstalter: Red G
- roove Social Club\n\nDie PRST-Reihe Red Groove (Social Club) für House 
- und Disco holt Nick Curly zurück in die Praterstraße. Der deutsche DJ 
- und Produzent zählt seit seinem Durchbruch 2008 zu den bekannten Namen 
- im modernen House und veröffentlichte u. a. auf Cocoon\, Akbal Music un
- d Cécille. Techno Airlines führt den Abend ab 23:00\; weitere Acts\, P
- reis und Tickets sind noch nicht bekannt.\n\nhttps://rave.wien/e/2026-11
- -28-red-groove-social-club-with-nick-curly
+ roove Social Club\, It's George\nEintritt: 15–20 €\n\nDie PRST-Reihe
+  Red Groove (Social Club) für House und Disco holt Nick Curly zurück i
+ n die Praterstraße – laut RA ist es sein dritter Besuch im PRST. Der 
+ in Mannheim ansässige DJ und Produzent betreibt die Labels Cécille und
+  8Bit Records und zählt seit Jahren zu den bekannten Namen im House. Ne
+ ben ihm spielen KILL.DB und das Red Groove System. Laut RA läuft der Ab
+ end von 23:00 bis 06:00\, der Eintritt kostet 15–20 €\, Einlass ab 2
+ 0 Jahren\; veranstaltet von It's George.\n\nhttps://rave.wien/e/2026-11-
+ 28-red-groove-social-club-with-nick-curly
 URL:https://rave.wien/e/2026-11-28-red-groove-social-club-with-nick-curly
 END:VEVENT
 BEGIN:VEVENT
@@ -1838,13 +1841,14 @@ DTSTART;TZID=Europe/Vienna:20261202T190000
 DTEND;TZID=Europe/Vienna:20261203T000000
 SUMMARY:Tonic Walter – II Tour 2026
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Tonic Walter\n\nDas Duo Tonic Walter kommt mit seiner „II T
- our 2026“ ins FLUCC und stellt dort sein zweites Album „II“ live v
- or. Die Show verbindet Melodic House und Techno mit Live-Band-Elementen\
- ; 2025 tourte das Duo u. a. mit Tycho und Fritz Kalkbrenner. Weitere Tou
- rstopps sind Hamburg\, Berlin\, München und Köln. Beginn 20:00\; es ha
- ndelt sich um ein Live-Konzert\, Support und Preis sind noch nicht bekan
- nt.\n\nhttps://rave.wien/e/2026-12-02-tonic-walter-ii-tour-2026
+DESCRIPTION:Tonic Walter\nEintritt: VVK ab 31\,40 €\n\nDas Duo Tonic Wa
+ lter kommt mit seiner „II Tour 2026“ ins FLUCC und stellt dort sein 
+ zweites Album „II“ live vor. Die Show verbindet Melodic House und Te
+ chno mit Live-Band-Elementen\; 2025 tourte das Duo u. a. mit Tycho und F
+ ritz Kalkbrenner. Weitere Tourstopps sind Hamburg\, Berlin\, München un
+ d Köln. Beginn 20:00\; es handelt sich um ein Live-Konzert\, Support un
+ d Preis sind noch nicht bekannt.\n\nhttps://rave.wien/e/2026-12-02-tonic
+ -walter-ii-tour-2026
 URL:https://rave.wien/e/2026-12-02-tonic-walter-ii-tour-2026
 END:VEVENT
 BEGIN:VEVENT
@@ -2070,12 +2074,20 @@ DTSTART;TZID=Europe/Vienna:20261205T210000
 DTEND;TZID=Europe/Vienna:20261206T020000
 SUMMARY:Ungeniert Vol. 5
 LOCATION:Libelle\, Tellgasse 25/1\, 1150 Wien
-DESCRIPTION:Eintritt: €29\n\nAuf ungeniert.org ist Vol. 5 noch nicht an
- gekündigt (letzter Stand: Vol. 4 am 16.10.). Ablauf laut Veranstalter: 
- Fragebogen\, Warteliste\, Gästeliste. Dresscode sinnlich\, Hausschuhe m
- itbringen. Einlass bis 00:00. Keine Abendkasse\; Erstbesucher:innen fül
- len vorab einen Fragebogen aus. Keine DJs/Genres angegeben.\n\nhttps://r
- ave.wien/e/2026-12-05-ungeniert-vol-5
+DESCRIPTION:Veranstalter: Ungeniert\nEintritt: €29\n\nFünfte Ausgabe d
+ er sexpositiven Nacht Ungeniert in der Libelle (Tellgasse\, 15. Bezirk)\
+ , Wiens erster sexpositiver Location. Geboten werden Séparées\, Ruhebe
+ reiche\, ein versteckter K*nky Playroom für BDSM-Spiel (Impact\, Rope\,
+  D/s)\, Bar und Dancefloor mit Live-DJ (Namen noch tba)\; als Specials s
+ ind eine Krampus-Performance sowie Kinky- und Impact-Workshops mit Miss 
+ Felidae und Empress Theresia angekündigt. Einlass 21:00–00:00\, Ticke
+ ts 29 € nur im Vorverkauf\, keine Abendkassa\; Erstbesucher:innen regi
+ strieren sich vorab mit einem Fragebogen und warten auf Freigabe. Dressc
+ ode Leder\, Spitze\, Latex\, Eleganz oder Fantasie – Alltagskleidung w
+ ird abgewiesen\, Straßenschuhe sind nicht erlaubt. Strenges Handy- und 
+ Fotoverbot (Kameras werden abgeklebt)\, Awareness-Team und Consent-Regel
+  „nur ein begeistertes Ja ist ein Ja“\; an der Bar nur Kartenzahlung
+ .\n\nhttps://rave.wien/e/2026-12-05-ungeniert-vol-5
 URL:https://rave.wien/e/2026-12-05-ungeniert-vol-5
 END:VEVENT
 BEGIN:VEVENT
@@ -2206,12 +2218,20 @@ DTSTART;TZID=Europe/Vienna:20261207T210000
 DTEND;TZID=Europe/Vienna:20261208T060000
 SUMMARY:Feuchte Träume – Roses & Thorns
 LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Feuchte Träume\nEintritt: Early Bird 36\,16 
- € (Member 28\,93 €)\, danach 41\,81 / 44\,64 / 47\,46 €\n\nNur mit
-  angenommener Online-Bewerbung\, keine Abendkasse\; personalisierte Tick
- ets\, Outfit erwartet\, Kameras abgeklebt\, Awareness-Team. Line-up folg
- t. Nacht vor dem Feiertag.\n\nhttps://rave.wien/e/2026-12-07-feuchte-tra
- ume-roses-thorns
+DESCRIPTION:Veranstalter: Feuchte Träume\nEintritt: 44\,64–47\,46 € 
+ / Member 35\,71 €\n\nZwölfte Ausgabe (FT 12) der sexpositiven Partyre
+ ihe Feuchte Träume\, die elektronische Musik mit feministischer\, antir
+ assistischer Clubkultur verbindet – diesmal unter dem Motto „Roses &
+  Thorns“ rund um Lust und Schmerz\, Schönheit und Wildheit\, Kontroll
+ e geben und nehmen. Gespielt wird auf Mainfloor und Kitchen der Grelle F
+ orelle\, das Lineup ist noch nicht bekannt. 21:00–06:00\, in der Nacht
+  vor dem Feiertag. Einlass nur mit angenommener Online-Bewerbung und per
+ sonalisiertem Vorverkaufsticket\, keine Abendkassa\; Early Bird und Phas
+ e 1 sind ausverkauft\, aktuell Phase 2 um 44\,64 €\, Final Release 47\
+ ,46 €\, Mitglieder 35\,71 €. Dresscode: kreativer Ausdruck der eigen
+ en Identität oder Sexualität\, keine Alltagskleidung\; Handykameras we
+ rden abgeklebt\, ein Awareness-Team ist vor Ort und es gilt Consent firs
+ t.\n\nhttps://rave.wien/e/2026-12-07-feuchte-traume-roses-thorns
 URL:https://rave.wien/e/2026-12-07-feuchte-traume-roses-thorns
 END:VEVENT
 BEGIN:VEVENT
@@ -2234,7 +2254,7 @@ BEGIN:VEVENT
 UID:2026-12-07-hardline-cold-war-a-winter-special@rave.wien
 DTSTAMP:20261207T000000Z
 DTSTART;TZID=Europe/Vienna:20261207T210000
-DTEND;TZID=Europe/Vienna:20261208T020000
+DTEND;TZID=Europe/Vienna:20261208T050000
 SUMMARY:HARDLINE: COLD WAR – A Winter Special
 LOCATION:Event Arena Vösendorf\, Marktstraße 13a\, 2331 Vösendorf Wien
 DESCRIPTION:Main Floor: Yoshiko\, Lekkerfaces\, 99PRBLMZ\, Another Dimens
@@ -2352,17 +2372,18 @@ DTSTART;TZID=Europe/Vienna:20261208T140000
 DTEND;TZID=Europe/Vienna:20261208T190000
 SUMMARY:Verknallt x TUFF w/ A.N.I. & DJ Dreckisch – Daytime Rave
 LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
-DESCRIPTION:A.N.I.\, DJ Dreckisch\nVeranstalter: Verknallt\, TUFF\nEintri
- tt: ab 29\,50 €\n\nDaytime Rave am Feiertag (Dienstag\, 8. Dezember) i
- m Club Exil in Vösendorf: Die Reihen Verknallt und TUFF – letztere na
- ch eigener Beschreibung „Viennas bounce hub“ – tun sich zusammen. 
- Als Acts sind A.N.I. und DJ Dreckisch angekündigt\; DJ Dreckisch (auch 
- Maxlion) ist ein DJ und Produzent aus Deutschland\, der u. a. bei Partyr
- eihen wie Dirty Dancing und Color and Bass spielt. Beginn 14:00\, Ticket
- s im Exil-Ticketshop inzwischen ab 29\,50 € (zuvor 24\,40 €). Ein vo
- llständiges Lineup\, Endzeit und Genres sind auf der Exil-Übersicht no
- ch nicht angegeben.\n\nhttps://rave.wien/e/2026-12-08-verknallt-x-tuff-w
- -a-n-i-dj-dreckisch-daytime-rav
+DESCRIPTION:DJ Dreckisch\, A.n.i\, Naij\, Oryma\, Serafin\, Sutter Cane\n
+ Veranstalter: Verknallt\, TUFF\nEintritt: VVK 29\,50 € (Phase 1)\n\nDa
+ ytime Rave am Feiertag (Dienstag\, 8. Dezember) im Club Exil in Vösendo
+ rf: Die Reihen Verknallt und TUFF – letztere nach eigener Beschreibung
+  „Viennas bounce hub“ – übernehmen gemeinsam das Exil („2 famil
+ ies collide“)\, musikalisch geht es um Hard Techno und Bounce. Auf dem
+  Mainfloor (Big Hall) spielt DJ Dreckisch (auch Maxlion)\, DJ und Produz
+ ent aus Deutschland\, von 17:00 bis 19:00\, danach A.N.I. von 19:00 bis 
+ 20:30\; dazu kommen Naij\, Oryma\, Serafin und Sutter Cane. Beginn 14:00
+ \, eine Endzeit ist nicht angegeben. Tickets im Exil-Ticketshop: Phase 1
+  um 29\,50 €.\n\nhttps://rave.wien/e/2026-12-08-verknallt-x-tuff-w-a-n
+ -i-dj-dreckisch-daytime-rav
 URL:https://rave.wien/e/2026-12-08-verknallt-x-tuff-w-a-n-i-dj-dreckisch-
  daytime-rav
 END:VEVENT
@@ -2493,13 +2514,13 @@ DTSTART;TZID=Europe/Vienna:20261212T220000
 DTEND;TZID=Europe/Vienna:20261213T050000
 SUMMARY:KlangKuenstler
 LOCATION:Multiversum Schwechat\, Möhringgasse 2/4\, 2320 Schwechat Wien
-DESCRIPTION:KlangKuenstler\, SHDW\, Svetec\, Karolina\nEintritt: 55 €\n
- \nDer deutsche Techno-Produzent KlangKuenstler kehrt nach Wien zurück 
- – angekündigt als „eine der prägenden Kräfte des modernen Techno
- “ – und spielt im Multiversum Schwechat. Dazu kommen SHDW\, Svetec u
- nd Karolina. Veranstalter ist laut RA void.vienna. 22:00–05:00\, RA ne
- nnt 55 € (Tickets über Tickethead)\, ab 18.\n\nhttps://rave.wien/e/20
- 26-12-12-klangkuenstler
+DESCRIPTION:KlangKuenstler\, SHDW\, Svetec\, Karolina\nVeranstalter: VOID
+ \nEintritt: 55 €\n\nDer deutsche Techno-Produzent KlangKuenstler kehrt
+  nach Wien zurück – angekündigt als „eine der prägenden Kräfte d
+ es modernen Techno“ – und spielt im Multiversum Schwechat. Dazu komm
+ en SHDW\, Svetec und Karolina. Veranstalter ist laut RA void.vienna. 22:
+ 00–05:00\, RA nennt 55 € (Tickets über Tickethead)\, ab 18.\n\nhttp
+ s://rave.wien/e/2026-12-12-klangkuenstler
 URL:https://rave.wien/e/2026-12-12-klangkuenstler
 END:VEVENT
 BEGIN:VEVENT
@@ -2631,14 +2652,19 @@ BEGIN:VEVENT
 UID:2026-12-18-housetiere-with-posi-flo@rave.wien
 DTSTAMP:20261218T000000Z
 DTSTART;TZID=Europe/Vienna:20261218T220000
-DTEND;TZID=Europe/Vienna:20261219T030000
+DTEND;TZID=Europe/Vienna:20261219T040000
 SUMMARY:Housetiere with POSI FLO
 LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
-DESCRIPTION:POSI FLO\, PJPJPJ\, Julani\nVeranstalter: Housetiere\n\nAusga
- be der Reihe Housetiere im Tagada mit POSI FLO als Gast. Außerdem spiel
- en PJPJPJ und Julani. Endzeit\, Preise und Mindestalter waren in den gel
- esenen Quellen noch nicht angegeben.\n\nhttps://rave.wien/e/2026-12-18-h
- ousetiere-with-posi-flo
+DESCRIPTION:POSI FLO\, PJPJPJ\, Julani\, j.around\nVeranstalter: Housetie
+ re\n\nAusgabe der Wiener Reihe Housetiere (HOUSETIERE vienna) im Tagada 
+ mit POSI FLO als Gast. POSI FLO ist eine auf Mallorca lebende Vinyl-DJ u
+ nd visuelle Künstlerin mit portugiesisch-südafrikanischen Wurzeln\; ih
+ re rein analogen Sets verbinden House\, Dub Techno\, Detroit Techno\, De
+ ep House und Electro\, aufgetreten ist sie u. a. in Spanien\, Tschechien
+  und Südafrika. Als lokaler Support spielen PJPJPJ\, Julani und j.aroun
+ d. Laut RA läuft die Nacht von 22:00 bis 04:00\; Preise\, Ticketverkauf
+  und Mindestalter waren noch nicht angegeben.\n\nhttps://rave.wien/e/202
+ 6-12-18-housetiere-with-posi-flo
 URL:https://rave.wien/e/2026-12-18-housetiere-with-posi-flo
 END:VEVENT
 BEGIN:VEVENT
@@ -2758,12 +2784,22 @@ DTSTART;TZID=Europe/Vienna:20261219T180000
 DTEND;TZID=Europe/Vienna:20261220T030000
 SUMMARY:ZusammenKommen 16
 LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
-DESCRIPTION:Veranstalter: hausgemacht\n\nSave the Date. Details über den
-  hausgemacht-Newsletter. Nur Vorverkauf nach Bewerbung\; beim Ticketkauf
-  wird ein fester Zeitslot gewählt\, der nicht geändert werden kann. Ei
- nlass nur einmalig (kein Wiedereinlass)\, letzter Einlass laut club-exil
- .at 21:00\; Zeitslots 18:00–03:00. Line-up TBA.\n\nhttps://rave.wien/e
- /2026-12-19-zusammenkommen-16
+DESCRIPTION:Main Floor: Sabina\, Max Kernmayer\, Tinutus\, Frau Hofmann\n
+ Maschinenraum: Ferdinand Schwarz\, Frühwerk\, MA!A\, Traumata\nTunnel: 
+ The Red Fox\, GauTrance\, lexyz0\nVeranstalter: hausgemacht\n\nSexpositi
+ ve Techno-Party von hausgemacht im Club Exil zum Jahresausklang\, gedach
+ t als SafeR Space\, in dem Konsens und gegenseitiger Respekt an erster S
+ telle stehen. Auf drei Floors (Main Floor\, Maschinenraum\, Tunnel) spie
+ len u. a. Sabina\, Max Kernmayer\, Tinutus\, Frau Hofmann\, Ferdinand Sc
+ hwarz\, Frühwerk\, MA!A\, Traumata\, The Red Fox\, GauTrance und lexyz0
+ . Dazu gibt es Workshops und Specials wie Embodied Desires\, Sensual Bod
+ y und eine Foto-Ecke sowie ganztägig vegetarisches und veganes Essen. T
+ ickets nur im Vorverkauf nach Bewerbung\, mit verbindlichem Zeitslot\; l
+ etzter Einlass 21:00\, kein Wiedereinlass\, strenge Türpolitik\, Dressc
+ ode verpflichtend\, Fotoverbot (Handykameras werden abgeklebt)\, Awarene
+ ss-Team vor Ort. Ab 18 mit Lichtbildausweis\; ein begrenztes Kontingent 
+ an Sozialtickets ist per Mail anfragbar.\n\nhttps://rave.wien/e/2026-12-
+ 19-zusammenkommen-16
 URL:https://rave.wien/e/2026-12-19-zusammenkommen-16
 END:VEVENT
 BEGIN:VEVENT

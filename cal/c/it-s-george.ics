@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:It's George · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-28-red-groove-social-club-with-nick-curly@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T230000
+DTEND;TZID=Europe/Vienna:20261129T060000
+SUMMARY:RED GROOVE (Social Club) with Nick Curly
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Nick Curly\, KILL.DB\, RED GROOVE SYSTEM\nVeranstalter: Red G
+ roove Social Club\, It's George\nEintritt: 15–20 €\n\nDie PRST-Reihe
+  Red Groove (Social Club) für House und Disco holt Nick Curly zurück i
+ n die Praterstraße – laut RA ist es sein dritter Besuch im PRST. Der 
+ in Mannheim ansässige DJ und Produzent betreibt die Labels Cécille und
+  8Bit Records und zählt seit Jahren zu den bekannten Namen im House. Ne
+ ben ihm spielen KILL.DB und das Red Groove System. Laut RA läuft der Ab
+ end von 23:00 bis 06:00\, der Eintritt kostet 15–20 €\, Einlass ab 2
+ 0 Jahren\; veranstaltet von It's George.\n\nhttps://rave.wien/e/2026-11-
+ 28-red-groove-social-club-with-nick-curly
+URL:https://rave.wien/e/2026-11-28-red-groove-social-club-with-nick-curly
+END:VEVENT
+END:VCALENDAR

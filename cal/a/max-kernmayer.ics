@@ -26,6 +26,31 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-19-zusammenkommen-16@rave.wien
+DTSTAMP:20261219T000000Z
+DTSTART;TZID=Europe/Vienna:20261219T180000
+DTEND;TZID=Europe/Vienna:20261220T030000
+SUMMARY:ZusammenKommen 16
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Main Floor: Sabina\, Max Kernmayer\, Tinutus\, Frau Hofmann\n
+ Maschinenraum: Ferdinand Schwarz\, Frühwerk\, MA!A\, Traumata\nTunnel: 
+ The Red Fox\, GauTrance\, lexyz0\nVeranstalter: hausgemacht\n\nSexpositi
+ ve Techno-Party von hausgemacht im Club Exil zum Jahresausklang\, gedach
+ t als SafeR Space\, in dem Konsens und gegenseitiger Respekt an erster S
+ telle stehen. Auf drei Floors (Main Floor\, Maschinenraum\, Tunnel) spie
+ len u. a. Sabina\, Max Kernmayer\, Tinutus\, Frau Hofmann\, Ferdinand Sc
+ hwarz\, Frühwerk\, MA!A\, Traumata\, The Red Fox\, GauTrance und lexyz0
+ . Dazu gibt es Workshops und Specials wie Embodied Desires\, Sensual Bod
+ y und eine Foto-Ecke sowie ganztägig vegetarisches und veganes Essen. T
+ ickets nur im Vorverkauf nach Bewerbung\, mit verbindlichem Zeitslot\; l
+ etzter Einlass 21:00\, kein Wiedereinlass\, strenge Türpolitik\, Dressc
+ ode verpflichtend\, Fotoverbot (Handykameras werden abgeklebt)\, Awarene
+ ss-Team vor Ort. Ab 18 mit Lichtbildausweis\; ein begrenztes Kontingent 
+ an Sozialtickets ist per Mail anfragbar.\n\nhttps://rave.wien/e/2026-12-
+ 19-zusammenkommen-16
+URL:https://rave.wien/e/2026-12-19-zusammenkommen-16
+END:VEVENT
+BEGIN:VEVENT
 UID:2025-08-22-deep-dive-w-max-kernmayer@rave.wien
 DTSTAMP:20250822T000000Z
 DTSTART;VALUE=DATE:20250822

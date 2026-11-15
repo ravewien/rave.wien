@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Naij · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-08-verknallt-x-tuff-w-a-n-i-dj-dreckisch-daytime-rav@rave.wien
+DTSTAMP:20261208T000000Z
+DTSTART;TZID=Europe/Vienna:20261208T140000
+DTEND;TZID=Europe/Vienna:20261208T190000
+SUMMARY:Verknallt x TUFF w/ A.N.I. & DJ Dreckisch – Daytime Rave
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:DJ Dreckisch\, A.n.i\, Naij\, Oryma\, Serafin\, Sutter Cane\n
+ Veranstalter: Verknallt\, TUFF\nEintritt: VVK 29\,50 € (Phase 1)\n\nDa
+ ytime Rave am Feiertag (Dienstag\, 8. Dezember) im Club Exil in Vösendo
+ rf: Die Reihen Verknallt und TUFF – letztere nach eigener Beschreibung
+  „Viennas bounce hub“ – übernehmen gemeinsam das Exil („2 famil
+ ies collide“)\, musikalisch geht es um Hard Techno und Bounce. Auf dem
+  Mainfloor (Big Hall) spielt DJ Dreckisch (auch Maxlion)\, DJ und Produz
+ ent aus Deutschland\, von 17:00 bis 19:00\, danach A.N.I. von 19:00 bis 
+ 20:30\; dazu kommen Naij\, Oryma\, Serafin und Sutter Cane. Beginn 14:00
+ \, eine Endzeit ist nicht angegeben. Tickets im Exil-Ticketshop: Phase 1
+  um 29\,50 €.\n\nhttps://rave.wien/e/2026-12-08-verknallt-x-tuff-w-a-n
+ -i-dj-dreckisch-daytime-rav
+URL:https://rave.wien/e/2026-12-08-verknallt-x-tuff-w-a-n-i-dj-dreckisch-
+ daytime-rav
+END:VEVENT
+END:VCALENDAR

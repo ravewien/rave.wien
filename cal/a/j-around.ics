@@ -26,6 +26,25 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-18-housetiere-with-posi-flo@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T220000
+DTEND;TZID=Europe/Vienna:20261219T040000
+SUMMARY:Housetiere with POSI FLO
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:POSI FLO\, PJPJPJ\, Julani\, j.around\nVeranstalter: Housetie
+ re\n\nAusgabe der Wiener Reihe Housetiere (HOUSETIERE vienna) im Tagada 
+ mit POSI FLO als Gast. POSI FLO ist eine auf Mallorca lebende Vinyl-DJ u
+ nd visuelle Künstlerin mit portugiesisch-südafrikanischen Wurzeln\; ih
+ re rein analogen Sets verbinden House\, Dub Techno\, Detroit Techno\, De
+ ep House und Electro\, aufgetreten ist sie u. a. in Spanien\, Tschechien
+  und Südafrika. Als lokaler Support spielen PJPJPJ\, Julani und j.aroun
+ d. Laut RA läuft die Nacht von 22:00 bis 04:00\; Preise\, Ticketverkauf
+  und Mindestalter waren noch nicht angegeben.\n\nhttps://rave.wien/e/202
+ 6-12-18-housetiere-with-posi-flo
+URL:https://rave.wien/e/2026-12-18-housetiere-with-posi-flo
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-halloween-auf-der-lauer@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T200000
