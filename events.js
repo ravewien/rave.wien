@@ -50526,7 +50526,9 @@ const AR={
    "https://ra.co/dj/virginhelena",
    "https://ra.co/dj/virginhelena/biography"
   ],
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "DJ Böhm": {
   "img": "https://static.ra.co/images/profiles/square/djbohm.jpg?dateUpdated=1708599230000",
@@ -50559,6 +50561,18 @@ const AR={
    "https://ra.co/dj/djbohm"
   ],
   "infoChk": "2026-11-15"
+ },
+ "doplgenger": {
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "spChk": "2026-11-15"
+ },
+ "Cryoonix vs STXRLI": {
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "spChk": "2026-11-15"
  }
 };
 
