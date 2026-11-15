@@ -1972,7 +1972,18 @@ const CI={
   },
   "man": 1,
   "infoChk": "2026-11-02",
-  "noLogo": "2026-11-02"
+  "noLogo": "2026-11-02",
+  "logo": "https://ugc.production.linktr.ee/ffc08de2-038a-4e56-91ca-0d0b17452d2b_IMG-7091.png?io=true&size=avatar-v3_0",
+  "web": "https://linktr.ee/slutlabsvienna",
+  "ig": "https://www.instagram.com/slutlabsvienna/",
+  "alias": [
+   "s!utlabs"
+  ],
+  "de": "Wiener Veranstalter sex-positiver Partys (Schreibweise auch s!utlabs) mit dem Motto „come for the party – stay for the love“. Zu den Formaten gehört die „sapphic soirée“, für die man sich vorab per Formular bewerben muss.",
+  "en": "Vienna organiser of sex-positive parties (also styled s!utlabs) with the motto \"come for the party – stay for the love\". Its formats include the \"sapphic soirée\", which requires applying in advance via a pre-selection form.",
+  "src": [
+   "https://linktr.ee/slutlabsvienna"
+  ]
  },
  "STRICT!": {
   "rules": {
@@ -2071,8 +2082,8 @@ const CI={
   "ig": "https://www.instagram.com/signal.vienna/"
  },
  "Super Disco": {
-  "noLogo": "2026-10-31",
-  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "de": "Partyformat im O – der Klub, das auf dem Mainfloor (CORE) aktuelle Club-Charts und Klassiker spielt – zu Halloween 2026 in einer Grusel-Sonderedition.",
   "en": "Party format at O – der Klub playing current club charts and classics on the main floor (CORE) – for Halloween 2026 in a special spooky edition.",
   "src": [
@@ -2090,8 +2101,8 @@ const CI={
   ]
  },
  "The Hive": {
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "de": "Drum-&-Bass-Veranstaltung im Wiener Flex, die internationale Acts wie Ed Rush, Millbrook oder Tantron mit lokalen DJs präsentiert; Ausgaben sind mindestens seit 2024 belegt, 2026 gemeinsam mit Collapse.",
   "en": "Drum & bass event at Vienna's Flex presenting international acts such as Ed Rush, Millbrook or Tantron alongside local DJs; editions are documented since at least 2024, in 2026 together with Collapse.",
   "src": [
@@ -2116,10 +2127,14 @@ const CI={
   "from": "Graz",
   "ig": "https://www.instagram.com/ravenbogen",
   "src": [
-   "https://rainbowtime.super.site/events-database/ravenbogen-gayliens-on-stardust"
+   "https://rainbowtime.super.site/events-database/ravenbogen-gayliens-on-stardust",
+   "https://ra.co/events/2570412"
   ],
-  "noLogo": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "type": [
+   "Kollektiv"
+  ]
  },
  "Hardline": {
   "noLogo": "2026-11-15",
@@ -2132,8 +2147,8 @@ const CI={
   "ig": "https://www.instagram.com/hardline_events/"
  },
  "YE": {
-  "noLogo": "2026-10-31",
-  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "de": "Event-Marke, die zu Halloween 2026 mit dem Maskenball „Bloody Masquerade“ in der Hofburg ihre erste gemeinsame Veranstaltung mit KSOT („Kein Sonntag ohne Techno“) ausrichtete – als Auftakt einer Partnerschaft, mit elektronischer Musik, großer Produktion und eigenem Lichtkonzept.",
   "en": "Event brand that held its first joint event with KSOT ('Kein Sonntag ohne Techno') at Halloween 2026 – the 'Bloody Masquerade' masked ball at the Hofburg – launching a partnership with electronic music, a large-scale production and a bespoke lighting concept.",
   "src": [
@@ -2325,12 +2340,12 @@ const CI={
    "Reihe"
   ],
   "founded": "2022",
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "src": [
    "https://flucc.at/events/RVw6Sh-party-modern-schcht/",
    "https://flucc.at/events/AbZjQp-party-modern-schcht-ct/"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-15"
  },
  "Bestand": {
   "noLogo": "2026-11-15",
@@ -2352,8 +2367,8 @@ const CI={
   ]
  },
  "up/or": {
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "de": "Eventreihe des Vereins Bestand zwischen politischer Artikulation, klanglichem Experiment und Clubmusik. Der Name steht für Richtungswechsel („up“) und Transformation („or“); „upor“ ist zudem slowenisch für „Widerstand“. Veranstaltungsort u. a. das FLUCC Deck.",
   "en": "Event series by the association Bestand, situated between political articulation, sonic experimentation and club music. The name stands for a change of direction ('up') and transformation ('or'); 'upor' is also Slovenian for 'resistance'. Venues include FLUCC Deck.",
   "type": [
@@ -2430,8 +2445,8 @@ const CI={
   "sc": "https://soundcloud.com/fadercult"
  },
  "WOS Soundsystem": {
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "GDN": {
   "de": "GDN (Gesindel der Nacht) ist ein Wiener Musikkollektiv, Label (GDN Records) und Agentur. Es veranstaltet Partys wie NACHTSCHUB und Klubnächte im Das Werk, BOUNCYLICIOUS im FLUCC, 12H in der Ballonhalle sowie gemeinsam mit Herzfrequenz die queere Hard-Techno-Nacht HART.",
@@ -2598,8 +2613,8 @@ const CI={
    "https://ra.co/events/2542405",
    "https://ra.co/promoters/157180"
   ],
-  "infoChk": "2026-11-02",
-  "noLogo": "2026-11-02"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Harmony Rec.": {
   "de": "Label und Kollektiv aus Prag (heute Berlin & Prag), das seit 2014 ortsspezifische audiovisuelle Events veranstaltet und seit 2017 Platten veröffentlicht.",
@@ -2899,11 +2914,11 @@ const CI={
   "alias": [
    "Rudebwoy Embassy"
   ],
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "src": [
    "https://www.theloft.at/rudebwoy-embassy-meets-bassclub-30-years-jah-power-sound/"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-15"
  },
  "Jah Power Sound": {
   "de": "Soundsystem für Reggae, Dancehall und Dub, das 2026 mit einer Nacht im Loft 30 Jahre jamaikanische Soundsystem-Kultur feiert.",
@@ -2980,12 +2995,12 @@ const CI={
   "type": [
    "Label"
   ],
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "src": [
    "https://ra.co/events/2570993",
    "https://ra.co/promoters/196842"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "ig": "https://www.instagram.com/superego_records/"
  },
  "TUFF": {
@@ -3006,25 +3021,29 @@ const CI={
   "en": "Viennese drum & bass event teaming up with Drum & Bassick at Club Lucia, with local DJs from neurofunk to liquid.",
   "from": "Wien",
   "ig": "https://www.instagram.com/radiance.at/",
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "src": [
    "https://www.clublucia.at/event/drum-bassick-x-radiance/"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-15"
  },
  "Kaisa Bodega": {
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "src": [
    "https://ra.co/events/2546333"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "de": "Präsentierte im November 2026 gemeinsam mit Pingpaya Fenty Savage den Ballroom-Abend „Once in a Blue Moon Kiki Ball“ samt Afterparty im Funkhaus Wien, mit Walks, Looks und Performances.",
+  "en": "Presented the ballroom night 'Once in a Blue Moon Kiki Ball' with afterparty at Funkhaus Vienna in November 2026, together with Pingpaya Fenty Savage, featuring walks, looks and performances."
  },
  "Pingpaya Fenty Savage": {
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "src": [
    "https://ra.co/events/2546333"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "de": "Präsentierte im November 2026 gemeinsam mit Kaisa Bodega den Ballroom-Abend „Once in a Blue Moon Kiki Ball“ samt Afterparty im Funkhaus Wien, mit Walks, Looks und Performances.",
+  "en": "Presented the ballroom night 'Once in a Blue Moon Kiki Ball' with afterparty at Funkhaus Vienna in November 2026, together with Kaisa Bodega, featuring walks, looks and performances."
  },
  "VLAN": {
   "de": "VLAN („Vienna Local Area Network“) ist ein Wiener Internetradio für zeitgenössische (Nicht-)Club-Musik mit Fokus auf die Stärkung marginalisierter Gruppen; veranstaltet u. a. die Reihe HEAVY LISTENING mit Ambient, Dub und experimenteller Elektronik.",
@@ -3065,12 +3084,12 @@ const CI={
   "ig": "https://www.instagram.com/fifi__rave"
  },
  "Schrödingers Groove": {
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "src": [
    "https://flucc.at/events/X3Fef2-fifi-x-schrodinger-s-groove/",
    "https://flucc.at/events/Yi7UCM-schroedingers-groove/"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "ig": "https://www.instagram.com/schroedingersgroove/",
   "de": "Wiener Hardtechno-Veranstalter; gemeinsam mit Hektisch etwa „Noise Not War“ in der Wanne des FLUCC mit treibenden Kicks und verzerrten Grooves, außerdem Kooperationen wie „Fifi x Schrödinger’s Groove“ im FLUCC.",
   "en": "Vienna hard techno organiser; together with Hektisch it ran e.g. “Noise Not War” in FLUCC’s Wanne with pounding kicks and distorted grooves, plus collaborations such as “Fifi x Schrödinger’s Groove” at FLUCC.",
@@ -3121,33 +3140,38 @@ const CI={
   "type": [
    "Reihe"
   ],
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "src": [
    "https://de.ra.co/dj/qamareen/biography",
    "https://ra.co/events/2561086",
    "https://tzkrti.com/en/events/3787",
    "https://tzkrti.com/profile/raqsouna"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "ig": "https://www.instagram.com/raqsouna/"
  },
  "MEIOSISS": {
   "de": "MEIOSISS veranstaltet im FLUCC die Techno-Flirtparty „Hot & Flirty“ mit Flirt-Armbändern und Konsens-Fokus („only YES means YES“) und legt dort auch selbst auf.",
   "en": "MEIOSISS hosts the techno flirt party 'Hot & Flirty' at FLUCC, with flirt wristbands and a focus on consent ('only YES means YES'), and also DJs there.",
   "from": "Wien",
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "src": [
    "https://ra.co/events/2561330",
    "https://ra.co/events/2388587",
    "https://ra.co/events/2310895",
    "https://ra.co/dj/meiosiss"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "sc": "https://soundcloud.com/NWFbb"
  },
  "Derisch": {
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "de": "Wiener Partyreihe, die im Oktober 2026 im Tagada und im November 2026 im Kramladen (U-Bahn-Bogen, 1080 Wien) stattfand.",
+  "en": "Vienna party series that took place at Tagada in October 2026 and at Kramladen (U-Bahn arch, 1080 Vienna) in November 2026.",
+  "src": [
+   "https://de.ra.co/events/2563496"
+  ]
  },
  "Bonkers": {
   "noLogo": "2026-11-15",
@@ -3667,8 +3691,8 @@ const CI={
   "infoChk": "2026-11-15"
  },
  "Tayrona Records": {
-  "noLogo": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Morgengymnastik": {
   "de": "Sonntagmorgen-Afterhour im SASS Music Club am Karlsplatz (6 bis 11 Uhr), bei der jeweils wechselnde DJs – meist zu zweit – die Nacht in den Vormittag verlängern; auf RA schon 2015 als „Morgengymnastik / Afterhour“ gelistet.",
@@ -4757,10 +4781,12 @@ const CI={
   "src": [
    "https://thefestivals.uk/symbiotikka-amnesia/",
    "https://ra.co/promoters/102845",
-   "https://www.instagram.com/symbiotikka/channel/"
+   "https://www.instagram.com/symbiotikka/channel/",
+   "https://www.ibiza-spotlight.com/night/promoters/symbiotikka-rave-berlin"
   ],
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-04",
+  "logo": "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/logo_200_200/public/promoter-images/139686/logo-1691685252.png"
  },
  "Techno Komet": {
   "de": "Wiener Techno-Veranstalter mit Events seit mindestens 2021 an wechselnden Orten – Usus am Wasser, Ottakringer Brauerei, Pratersauna und Grelle Forelle – und Gästen wie Umek, Annika Stein und Kim She; dazu das Format „Female Authority“ mit rein weiblichen Line-ups.",
@@ -4777,8 +4803,8 @@ const CI={
    "https://ohschonhell.at/date/grelle-forelle-vienna-28-07-2023-techno-komet-against-patriarchy-grelle-forelle",
    "https://www.facebook.com/TechnoKomet.official/"
   ],
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Duality": {
   "de": "Wiener Techno-Reihe auf zwei Floors zwischen Minimal Techno und Hard Techno („Zwischen zwei Welten gefangen sein“); 2023 von Hausgemacht veranstaltet, u. a. in The Loft und in der Grelle Forelle, 2024 als Duality x Demolate in der Grelle Forelle.",
@@ -4819,8 +4845,8 @@ const CI={
   "noLogo": "2026-11-15"
  },
  "Toner": {
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Housebesuch": {
   "infoChk": "2026-11-15",
@@ -5616,8 +5642,8 @@ const CI={
    "https://de.ra.co/events/2012231",
    "https://ra.co/events/2469302"
   ],
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "nomind.": {
   "de": "Veranstalter von House- und Minimal-Nachmittagen im Porto Pollo auf der Donauinsel, wo nomind. Musik mit gleichgesinnten Artists teilt, etwa 2026 mit Verleger.",
@@ -5664,8 +5690,8 @@ const CI={
    "https://ra.co/events/2523805",
    "https://www.technoairlines.com/event/5-org-loop-2026-11-06"
   ],
-  "noLogo": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Entropy": {
   "de": "Neu gegründeter Wiener Kulturverein (auf Instagram „Collective Entropy“), der Artists unterstützen, Vernetzung ermöglichen und Raum für neue Ideen schaffen will; musikalisch Hardgroove, Hard Dance, Hardbounce und Hard Techno. Erste offizielle Party im November 2026 im Loop.",
@@ -5879,8 +5905,8 @@ const CI={
   "from": "Wien",
   "founded": "2016",
   "foundedNote": 1,
-  "noLogo": "2026-11-10",
-  "infoChk": "2026-11-10",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "src": [
    "https://www.technoairlines.com/event/10-years-of-publegenden-feat-bort-club-u-2026-11-13"
   ],
