@@ -15017,8 +15017,8 @@ const AR={
   }
  },
  "PartyPauli": {
-  "noImg": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
   "bio": {
    "de": "PartyPauli legt in der Wiener Clubszene auf, u. a. bei Achterbahn (f2f mit DJ SUSI) im PRST und beim MUSCHI ISST WURST Festival. Auf SoundCloud veröffentlicht PartyPauli eigene Edits, etwa Baile-, Summer-Trance- und Donk-Versionen bekannter Tracks.",
    "en": "PartyPauli plays in Vienna's club scene, including Achterbahn (f2f with DJ SUSI) at PRST and the MUSCHI ISST WURST festival. On SoundCloud, PartyPauli releases their own edits, such as baile, summer-trance and donk versions of well-known tracks."
@@ -15466,8 +15466,8 @@ const AR={
   ]
  },
  "Escapism": {
-  "noImg": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
   "links": {
    "sc": "https://soundcloud.com/escapismdnb"
   },
@@ -15929,8 +15929,8 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Julia Goldfarb": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/julia-goldfarb"
@@ -18894,8 +18894,8 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Caban": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-02",
   "links": {
    "mc": "https://www.mixcloud.com/DJ_CABAN/",
@@ -20273,9 +20273,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "WNR": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Tündérke": {
@@ -20676,9 +20676,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Mr. Highfi": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "bio": {
    "de": "Mr. Highfi ist ein Drum-&-Bass-DJ-Act, der bei der Wiener Reihe Switch! im Flex auf dem Lineup steht, u. a. bei der Tour-Station von Primate.",
    "en": "Mr. Highfi is a drum & bass DJ act on the line-up of the Vienna series Switch! at Flex, including Primate's tour stop."
@@ -48364,8 +48364,8 @@ const AR={
    "de": "Unabhängiges Wiener Plattenlabel, betrieben vom italienischen DJ und Produzenten Woxow – ein Schmelztiegel von Sounds und Einflüssen aus aller Welt (Motto „We Dance We Think“).",
    "en": "Independent Vienna record label run by Italian DJ/producer Woxow – a melting pot of sounds and influences from around the world (motto 'We Dance We Think')."
   },
-  "noImg": "2026-11-08",
-  "infoChk": "2026-11-08",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
   "src": [
    "https://littlebeatmore.bandcamp.com"
   ],
@@ -48383,9 +48383,9 @@ const AR={
   ]
  },
  "WESH": {
-  "noImg": "2026-11-08",
-  "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Tonks": {
@@ -48710,9 +48710,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "DAKINDL": {
-  "infoChk": "2026-11-10",
-  "noImg": "2026-11-10",
-  "noLinks": "2026-11-10",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "ROONY": {
@@ -48762,9 +48762,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "VAL": {
-  "infoChk": "2026-11-10",
-  "noImg": "2026-11-10",
-  "noLinks": "2026-11-10",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Frankee": {
@@ -51212,6 +51212,11 @@ const AR={
   "noImg": "2026-11-15",
   "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
+ },
+ "Drei Küsse": {
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15"
  }
 };
 
