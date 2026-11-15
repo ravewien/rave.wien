@@ -48786,9 +48786,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Softi": {
-  "infoChk": "2026-11-10",
-  "noImg": "2026-11-10",
-  "noLinks": "2026-11-10",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Ricky Chong": {
@@ -49107,7 +49107,9 @@ const AR={
  },
  "Ambient Animal": {
   "links": {
-   "sc": "https://soundcloud.com/ambientanimal"
+   "sc": "https://soundcloud.com/ambientanimal",
+   "ra": "https://ra.co/dj/ambientanimal",
+   "mc": "https://www.mixcloud.com/ambientanimal/"
   },
   "noImg": "2026-11-10",
   "labels": [
@@ -49125,14 +49127,25 @@ const AR={
    {
     "t": "OFF THE GRID Radio Show @ RES.radio w/ Ambient Animal (24.01.2024)",
     "u": "https://soundcloud.com/off_the_grid_vienna/off-the-grid-radio-show-resradio-24012024"
+   },
+   {
+    "t": "Radio Ragweed w/ Ambient Animal - May 16th, 2018",
+    "u": "https://www.mixcloud.com/ambientanimal/radio-ragweed-w-ambient-animal-may-16th-2018/"
    }
   ],
-  "setsChecked": "2026-11-10",
-  "infoChk": "2026-11-10",
+  "setsChecked": "2026-11-15",
+  "infoChk": "2026-11-15",
   "src": [
-   "https://soundcloud.com/sama-recordings/sets/sama004-ambient-animal"
+   "https://soundcloud.com/sama-recordings/sets/sama004-ambient-animal",
+   "https://ra.co/dj/ambientanimal",
+   "https://www.mixcloud.com/ambientanimal/"
   ],
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "img": "https://static.ra.co/images/profiles/square/ambientanimal.jpg?dateUpdated=1758710085000",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  }
  },
  "POSI FLO": {
   "links": {
@@ -49852,13 +49865,15 @@ const AR={
  },
  "Tapanov": {
   "links": {
-   "sc": "https://soundcloud.com/djtapanov"
+   "sc": "https://soundcloud.com/djtapanov",
+   "mc": "https://www.mixcloud.com/DjTapanov/"
   },
   "src": [
-   "https://soundcloud.com/djtapanov"
+   "https://soundcloud.com/djtapanov",
+   "https://www.mixcloud.com/DjTapanov/"
   ],
-  "noImg": "2026-11-11",
-  "infoChk": "2026-11-11",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
   "sets": [
    {
     "t": "Tapanov - Spirit Base Festival 2026",
@@ -49874,7 +49889,15 @@ const AR={
    }
   ],
   "setsChecked": "2026-11-15",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "from": {
+   "de": "Himberg, Österreich",
+   "en": "Himberg, Austria"
+  },
+  "bio": {
+   "de": "Tapanov ist ein DJ aus Himberg (Österreich), der eng mit dem Spirit Base Festival verbunden ist: 2025 spielte er dort das Closing-Set, 2026 erneut ein Set. Auf SoundCloud und Mixcloud veröffentlicht er Mixes zwischen Psychedelic Techno und Progressive.",
+   "en": "Tapanov is a DJ from Himberg, Austria, closely linked to Spirit Base Festival: he played the closing set there in 2025 and another set in 2026. On SoundCloud and Mixcloud he shares mixes ranging from psychedelic techno to progressive."
+  }
  },
  "Active8": {
   "noImg": "2026-11-15",
