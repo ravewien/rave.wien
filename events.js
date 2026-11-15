@@ -340,7 +340,8 @@ const CG={
   "Hardgroove",
   "Hypnotic Techno",
   "Dub Techno",
-  "Techno"
+  "Techno",
+  "House"
  ],
  "909techno": [
   "Hardtechno",
@@ -1369,7 +1370,8 @@ const CI={
    "https://ohschonhell.at/orte/flucc/50",
    "https://warda.at/events/a-party-called-jack-sass-16-09-22/",
    "https://ra.co/events/2364400",
-   "https://ra.co/promoters/94008"
+   "https://ra.co/promoters/94008",
+   "https://ra.co/events/2250638"
   ],
   "de": "Wiener Clubnacht-Reihe seit 2019 mit Fokus auf Underground-Clubmusik, ihre Wurzeln und das Tanzen selbst, musikalisch vor allem House und Disco. Zu den Nächten gehören eigene Resident-DJs, Live-Vocals, Tanz-Workshops und ein Hauschor; Stationen waren u. a. SASS, PRST und FLUCC.",
   "en": "Viennese club night series since 2019 focused on underground club music, its roots and dancing itself, musically mostly house and disco. Nights feature resident DJs, live vocals, dance workshops and a house choir; venues have included SASS, PRST and FLUCC.",
@@ -1377,8 +1379,9 @@ const CI={
    "Reihe"
   ],
   "from": "Wien",
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "ig": "https://www.instagram.com/a_party_called_jack/"
  },
  "Amore AG": {
   "founded": "2022",
@@ -1413,8 +1416,8 @@ const CI={
   "type": [
    "Reihe"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-02"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Rave am Mittwoch": {
   "founded": "2022",
@@ -1439,7 +1442,8 @@ const CI={
   "src": [
    "https://ohschonhell.at/orte/flucc/50",
    "https://de.ra.co/events/2202475",
-   "https://ra.co/events/1821323"
+   "https://ra.co/events/1821323",
+   "https://events.at/event/euphoria-w-dj-spit-bort-dj-hybris-farr"
   ],
   "de": "Wiener Partyreihe seit 2022 (4-Jahres-Jubiläum 2026 im FLUCC), u. a. mit Ausgaben im Tagada sowie gemeinsamen Nächten mit der Berliner Reihe Herrensauna in PRST und Pratersauna.",
   "en": "Viennese party series since 2022 (4th anniversary at FLUCC in 2026), with editions at Tagada and joint nights with the Berlin series Herrensauna at PRST and Pratersauna.",
@@ -1447,8 +1451,10 @@ const CI={
    "Reihe"
   ],
   "from": "Wien",
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
+  "ig": "https://www.instagram.com/euphoria.wien/",
+  "sc": "https://soundcloud.com/user-878016587"
  },
  "Reverse": {
   "founded": "2022",
@@ -2459,8 +2465,8 @@ const CI={
    "https://ra.co/events/2466171",
    "https://ra.co/events/2556685"
   ],
-  "infoChk": "2026-11-02",
-  "noLogo": "2026-11-02"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "LSH": {
   "de": "LSH (Les Suspects Habituels) ist ein Wiener Kollektiv, bekannt für die Partyreihe Techno Entgleist in der Grellen Forelle. Gemeinsam mit Nine O Nine veranstaltet es die Techno-Reihe TECHNO OBSCENE im Das Werk.",
@@ -2470,9 +2476,10 @@ const CI={
    "https://ra.co/events/1832377",
    "https://visitbratislava.com/events/subwave-x-les-suspects-habituels",
    "https://ra.co/events/1851260",
-   "https://ra.co/events/2466171"
+   "https://ra.co/events/2466171",
+   "https://linktr.ee/lessuspectshabituels"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-15",
   "type": [
    "Kollektiv"
   ],
@@ -2480,7 +2487,8 @@ const CI={
   "alias": [
    "Les Suspects Habituels"
   ],
-  "noLogo": "2026-11-02"
+  "noLogo": "2026-11-15",
+  "sc": "https://soundcloud.com/lessuspectshabituels"
  },
  "909techno": {
   "de": "Techno-Crew Nine O Nine (909techno), die gemeinsam mit LSH die Reihe TECHNO OBSCENE im Das Werk veranstaltet.",
@@ -2551,7 +2559,7 @@ const CI={
   "logo": "https://f4.bcbits.com/img/0041298298_21.jpg"
  },
  "technolog": {
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-15",
   "de": "Wiener DJ-Kollektiv, 2012 gegründet, mit Techno von tief-harmonisch bis dunkel-industriell. Die Veranstaltungen finden vor allem im Kramladen statt, vereinzelt auch im Lucia.",
   "en": "Viennese DJ collective founded in 2012, playing techno ranging from deep and harmonic to dark and industrial. Events mostly take place at Kramladen, occasionally also at Lucia.",
   "type": [
@@ -2573,7 +2581,7 @@ const CI={
    "https://ra.co/dj/roton/biography",
    "https://ra.co/events/2557226"
   ],
-  "noLogo": "2026-11-02"
+  "noLogo": "2026-11-15"
  },
  "Hanzom": {
   "de": "Hanzom Music ist ein deutsches Drum-&-Bass-Label mit eigenen Events, 2018 gegründet, mit Fokus auf deep, dark Drum & Bass.",
@@ -2780,14 +2788,14 @@ const CI={
   "type": [
    "Reihe"
   ],
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "src": [
    "https://ra.co/events/2503283",
    "https://ra.co/events/2409498",
    "https://ra.co/events/2293673",
    "https://ra.co/events/2385550"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "web": "https://hiddensociety.at/",
   "ig": "https://www.instagram.com/hiddensocietyvie/"
  },
@@ -2939,12 +2947,15 @@ const CI={
    "VLAN Radio",
    "Vienna Local Area Network"
   ],
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "src": [
    "https://ra.co/events/2568237",
-   "https://www.mqw.at/en/program/vlan-radio"
+   "https://www.mqw.at/en/program/vlan-radio",
+   "https://www.mqw.at/en/institutions/q21/program/vlan-radio",
+   "https://www.mixcloud.com/vlanradio/"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-15",
+  "founded": "2020"
  },
  "Fifi": {
   "noLogo": "2026-11-15",
@@ -2997,7 +3008,7 @@ const CI={
   "infoChk": "2026-11-02"
  },
  "Club Pompadour": {
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "src": [
    "https://sassvienna.com/en/events/event/club-pompadour-november",
    "https://sassvienna.com/en/events/event/pompadour",
@@ -3005,7 +3016,7 @@ const CI={
    "https://ra.co/events/124374",
    "https://de.ra.co/events/1550690"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-15",
   "de": "Wiener Clubreihe rund um die Residents Thomas Grün und Philipp Blecha, belegt seit mindestens 2009 (damals in der Pratersauna), heute regelmäßig im SASS Music Club. Musikalisch House und Grooves.",
   "en": "Vienna club series built around residents Thomas Grün and Philipp Blecha, documented since at least 2009 (then at Pratersauna), now held regularly at SASS Music Club. Musically house and grooves.",
   "type": [
@@ -3100,8 +3111,8 @@ const CI={
   ]
  },
  "Tanz dich glücklich": {
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "de": "Feel-Good-Partyreihe, die es seit 2018 gibt. Gespielt wird alles zwischen groovy House und schnellem Bounce, teils mit Live-Saxophon; Motto „Come as you are!“. Veranstaltungsort u. a. das FLUCC Deck.",
   "en": "Feel-good party series running since 2018. The music spans everything from groovy house to fast bounce, sometimes with live saxophone; motto: 'Come as you are!'. Venues include FLUCC Deck.",
   "type": [
@@ -3266,8 +3277,8 @@ const CI={
    "https://www.aaa-events.at/",
    "https://ra.co/events/2546243"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Flashback": {
   "de": "Partyreihe mit Techno-Klassikern („Techno Classics“) in der Grellen Forelle, mit Sommer-Ausgaben und mehreren Floors. 2026 gab es zudem ein Free-Open-Air-Special gemeinsam mit „Techno am Wasser“.",
@@ -3337,8 +3348,8 @@ const CI={
    "https://ra.co/events/2340564",
    "https://soundcloud.com/switchrecordings/sub-zero-switch-23032024"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "ig": "https://www.instagram.com/switchrecordings/",
   "sc": "https://soundcloud.com/switchrecordings"
  },
@@ -3417,8 +3428,8 @@ const CI={
   "src": [
    "https://ra.co/events/2567885"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Tribal Vibes": {
   "de": "Psytrance-Veranstalter, der nach eigener Ankündigung „den authentischen Old-School-Psychedelic-Spirit zurück nach Wien“ bringen will. Veranstaltungsort u. a. der Club Exil („Tribal Vibes meets Exil“).",
@@ -3430,8 +3441,8 @@ const CI={
   "src": [
    "https://ra.co/events/2560058"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Tropical Thunder": {
   "de": "Wiener Partyreihe mit tropischen und balearischen Sounds – von Vintage-Südafrika, Karibik, Compas, Soca, Afrobeat und Tropicália bis Retro-Zouk, French Boogie und Indie Dance. Seit mindestens 2020 aktiv, u. a. in der Gönnerbar, im FLUCC, in der Pratersauna, am Porto Pollo (Open Air) und im Funkhaus; das Format „Noche d'Amore“ entstand 2025 für die Wiener Festwochen.",
@@ -3443,12 +3454,16 @@ const CI={
    "https://de.ra.co/events/2234391",
    "https://de.ra.co/events/1805502",
    "https://ra.co/events/2225282",
-   "https://ra.co/events/2305457"
+   "https://ra.co/events/2305457",
+   "https://freiesradio.at/?p=31758"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "ig": "https://www.instagram.com/tropicalthundervienna/",
-  "sc": "https://soundcloud.com/tropicalthundervienna"
+  "sc": "https://soundcloud.com/tropicalthundervienna",
+  "type": [
+   "Kollektiv"
+  ]
  },
  "Untz Baby Untz": {
   "ig": "https://www.instagram.com/untz.baby.untz/",
@@ -3458,8 +3473,8 @@ const CI={
    "https://ra.co/events/2568943",
    "https://ra.co/promoters/192705"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Resonance Social Artists": {
   "de": "Crew aus Mailand, befreundet mit der Reihe GLITCH; LLo (IT) von Resonance Social Artists spielt im Dezember 2026 bei GLITCH Vienna im The Loft.",
@@ -3495,8 +3510,8 @@ const CI={
   "infoChk": "2026-11-02"
  },
  "Taktgefühl": {
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Liminal": {
   "noLogo": "2026-11-15",
@@ -3611,8 +3626,8 @@ const CI={
    "https://ra.co/events/2304550",
    "https://de.ra.co/events/2077984"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Impulse": {
   "de": "Techno-Reihe in der Wiener Grelle Forelle mit nummerierten „Rounds“ (2025 Round VII) und Gästen wie Dax J, DJ Rush, Somewhen, CLTX oder Johannes Schuster (All Night Long); veranstaltet von Kevin Primus.",
@@ -3630,8 +3645,8 @@ const CI={
    "https://ra.co/events/1513952",
    "https://warda.at/events/johannes-schuster-all-night-long-impulse-grelle-forelle/"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "TURBO": {
   "de": "Techno-Reihe von Turbo Projects in der Wiener Grelle Forelle mit internationalen Headlinern wie Sven Väth, Chris Liebing, Ben Klock, Robert Hood, Peggy Gou oder Funk Tribu; 2015 feierte sie „5 Jahre TURBO“.",
@@ -3653,8 +3668,8 @@ const CI={
    "https://viennawurstelstand.com/event/dubfire-gaiser-nils-frahm-afterparty-turbo",
    "https://ra.co/events/2075257"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Wiener Mischung": {
   "de": "Wiener DJ-Kollektiv, 2018 von Leo Stussy gegründet, das sich als Familie versteht und genreoffen von sanften bis harten Sets spielt. Es veranstaltet regelmäßig Abende im Kramladen („Mitmischen“, meist bei freiem Eintritt), hostet Floors in der Pratersauna und betreibt die Reihe „Secret Floor“.",
@@ -3670,10 +3685,11 @@ const CI={
    "https://de.ra.co/events/2055565",
    "https://de.ra.co/events/2255469"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
   "founded": "2018",
-  "ig": "https://www.instagram.com/wienermischung.ofc/"
+  "ig": "https://www.instagram.com/wienermischung.ofc/",
+  "sc": "https://soundcloud.com/wienermischung"
  },
  "Löwenzahn": {
   "de": "Wiener Techno-Crew („Löwenzahn Wien“, #LWZwien) mit Clubbings, Open Airs und Livestreams unter dem Motto „General Techno De-Restoration“, u. a. im Kramladen und bei Gratis-Open-Airs am Himmel und Wasser (Deep, Melodic, Rave, Techno); queer-friendly und konsensorientiert.",
@@ -3702,8 +3718,8 @@ const CI={
    "https://warda.at/?p=110136",
    "https://ra.co/events/1452269"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Step Forward": {
   "de": "Wiener Veranstalter (Step Forward Music), der internationale Acts wie Partiboi69, Southstar, P.Vanilla Boy, Juicy Romance oder Shoki in die Grelle Forelle und ins PRST holt – zwischen Techno, Ghetto Tech, Electro und House.",
@@ -4234,8 +4250,8 @@ const CI={
   "src": [
    "https://dancefloor.fm/de/event/71373-groove-revival-invites-andy-luff-at-tagada-club"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Wire Rave": {
   "de": "Rave-Reihe im Das Werk mit Techno und Drum & Bass auf zwei Floors.",
@@ -4301,8 +4317,8 @@ const CI={
    "https://ra.co/events/2428788",
    "https://de.ra.co/events/1581788"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Raveladen": {
   "de": "Techno-Reihe im Kramladen mit lokalen DJs, teils bei freiem Eintritt; die Abende stehen unter dem Motto „Everyone is welcome“ und gegen Rassismus, Sexismus und Homophobie. Inzwischen über 50 Ausgaben.",
@@ -4314,8 +4330,8 @@ const CI={
    "https://warda.at/events/raveladen-18/"
   ],
   "from": "Wien",
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Schroedinger's Groove": {
   "de": "Wiener Techno-Veranstalter mit Nächten im Kramladen und im Das Werk, wo er die Reihe „Schwerkraft“ mit Techno und Acid auf Main- und Luster-Floor präsentiert; Kooperationen u. a. mit Raveladen und Nebelblau.",
@@ -4329,8 +4345,8 @@ const CI={
    "https://ra.co/events/2416071"
   ],
   "from": "Wien",
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Xperiment": {
   "de": "Eventreihe „Xperiment Nights“ des Labels Xperiment Records im Kramladen – Techno unter dem Motto „Techno without Judgment!“ mit Label-Artists und Gästen.",
@@ -5402,8 +5418,8 @@ const CI={
   "src": [
    "https://loop.co.at/event/vienb_21_11_26/"
   ],
-  "noLogo": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "CitrusCue": {
   "de": "Wiener Veranstalter von Bassmusik-Nächten im Club Lucia – von tiefen, atmosphärischen Sounds bis zu schwerer, groove-getriebener Clubenergie, mit internationalen Gästen und lokalem Support.",
@@ -5537,11 +5553,13 @@ const CI={
   "de": "Act bzw. Reihe aus Wien, auf RA seit 2026 gelistet, mit Abenden vor allem im Funkhaus Wien.",
   "en": "Vienna act/series listed on RA since 2026, playing mainly at Funkhaus Vienna.",
   "from": "Wien",
-  "noLogo": "2026-11-09",
-  "infoChk": "2026-11-09",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "src": [
-   "https://ra.co/dj/yolotaxi"
-  ]
+   "https://ra.co/dj/yolotaxi",
+   "https://ra.co/events/2579685"
+  ],
+  "ig": "https://www.instagram.com/yolo.taxi/"
  },
  "Ventil Records": {
   "de": "Wiener Label (Vinyl) an der Schnittstelle von Field Recordings, Elektroakustik und Post-Techno, gegründet von Ursula Winterauer, Peter Kutin, Michael Lahner und Florian Kindlinger. Betreibt mit den Westbahnstudios die Artist-Residency „Eardrum“.",
@@ -5555,12 +5573,15 @@ const CI={
   "bc": "https://ventil-records.bandcamp.com",
   "sc": "https://soundcloud.com/ventil-records",
   "noLogo": "2026-11-10",
-  "infoChk": "2026-11-10",
+  "infoChk": "2026-11-15",
   "src": [
    "https://www.musicexport.at/label-feature-ventil/",
    "https://ventil-records.bandcamp.com/music",
-   "https://www.esel.at/de/event/eardrum--02xgY75yWgbIT0j7somKQc"
-  ]
+   "https://www.esel.at/de/event/eardrum--02xgY75yWgbIT0j7somKQc",
+   "https://termine.orf.at/fm4/veranstaltung/10-years-ventil-records-105772"
+  ],
+  "logo": "https://f4.bcbits.com/img/0024915830_10.jpg",
+  "founded": "2015"
  },
  "Captive Soul": {
   "de": "Eventreihe der ukrainischen DJ und Produzentin Korolova mit Melodic Techno und Progressive House, u. a. in Amsterdam (ADE), London und Buenos Aires.",
@@ -5697,8 +5718,8 @@ const CI={
   "src": [
    "https://www.goabase.net/es/party/maiden-voyage/118000"
   ],
-  "noLogo": "2026-11-11",
-  "infoChk": "2026-11-11"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "FromDuskTillDawn": {
   "noLogo": "2026-11-15",
