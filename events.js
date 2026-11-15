@@ -5827,7 +5827,7 @@ const VI={
    "https://www.1000thingsmagazine.com/info/himmel-und-wasser/",
    "https://warda.at/events/techno-am-wasser-3/"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-15"
  },
  "Club U": {
   "de": "Kleiner DJ-Club im Otto-Wagner-Pavillon am Karlsplatz (gemeinsam mit dem Café Karl & Otto), abends Mittwoch bis Samstag mit DJ-Nächten; im Sommer Open Airs am Karlsplatz.",
@@ -6534,8 +6534,8 @@ const VI={
   "io": [
    "Indoor"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "B72": {
   "io": [
@@ -6587,7 +6587,8 @@ const VI={
    "https://www.praterwien.com/en/prater/event-management/for-organizers",
    "https://www.selux.com/NOR/en/cases/calafatiplatz-in-the-prater-vienna-austria"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Otto Wagner Areal": {
   "io": [
@@ -6731,8 +6732,8 @@ const VI={
    "https://ra.co/clubs/298984"
   ],
   "web": "https://angewandte.at",
-  "noLogo": "2026-11-05",
-  "infoChk": "2026-11-05"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Einbaumöbel": {
   "io": [
