@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The House of Funk · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-20-the-house-of-funk-presents-ricky-chong@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:The House of Funk presents Ricky Chong
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Ricky Chong\, Franco\nVeranstalter: The House of Funk\nEintri
+ tt: 10 €\n\nThe House of Funk feiert im Funkhaus Wien seinen zweiten G
+ eburtstag – nach den letzten gut besuchten Nächten lautet das Motto d
+ iesmal „This time… its disco“. Gast ist Ricky Chong\, ein in Irlan
+ d geborener Disco-DJ\, dessen Sets Musik aus aller Welt und vieler Genre
+ s verbinden\; er veröffentlicht u. a. auf Fresh Take Records und Noctur
+ nal Hazard und spielt sonst vor allem in Dublin\, London\, Cork und Live
+ rpool. Dazu legen Franco und die Residents von The House of Funk auf. RA
+  führt den Abend unter Disco und Funk/Soul. 23:00–06:00\, Tickets 10 
+ € über RA\, ab 18.\n\nhttps://rave.wien/e/2026-11-20-the-house-of-fun
+ k-presents-ricky-chong
+URL:https://rave.wien/e/2026-11-20-the-house-of-funk-presents-ricky-chong
+END:VEVENT
+END:VCALENDAR

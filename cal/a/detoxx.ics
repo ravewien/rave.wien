@@ -29,14 +29,20 @@ BEGIN:VEVENT
 UID:2026-11-27-resident-night-golpe-detoxx@rave.wien
 DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Vienna:20261127T230000
-DTEND;TZID=Europe/Vienna:20261128T040000
+DTEND;TZID=Europe/Vienna:20261128T060000
 SUMMARY:Resident Night: GOLPE // DETOXX
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:DETOXX\, GOLPE\, DJ Wifi\, Kingsmo\n\nResident Night im Werk 
- mit GOLPE und DETOXX\, Beginn 23:00. Laut Programm des Werks spielen die
-  beiden Residents\; weitere Acts\, Preise und Tickets sind noch nicht an
- gekündigt.\n\nhttps://rave.wien/e/2026-11-27-resident-night-golpe-detox
- x
+DESCRIPTION:Main Floor: DETOXX\, Golpe\, Dj Wifi\nLuster Floor: Kingsmo\,
+  NIKLIST\, Arman Shadow\, Rantom\nVeranstalter: AUDIO303\nEintritt: 12
+ –20 €\n\nResident Night im Werk mit den Residents DETOXX und Golpe\,
+  die gemeinsam mit DJ Wifi den Main Floor bespielen. Auf dem Luster Floo
+ r legen Kingsmo\, NIKLIST\, Arman Shadow und Rantom auf. Musikalisch ste
+ hen laut Ankündigung Schranz\, Hardtechno und Bounce im Mittelpunkt\; d
+ ie Visuals kommen von itscatherines. Die Nacht läuft von 23 bis 6 Uhr\,
+  Einlass ab 18\, Tickets kosten 12–20 €. Das Werk weist unter dem Mo
+ tto „Respect the Club“ darauf hin\, dass Sexismus\, Rassismus\, Homo
+ phobie und Transphobie keinen Platz haben.\n\nhttps://rave.wien/e/2026-1
+ 1-27-resident-night-golpe-detoxx
 URL:https://rave.wien/e/2026-11-27-resident-night-golpe-detoxx
 END:VEVENT
 END:VCALENDAR

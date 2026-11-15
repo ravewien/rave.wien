@@ -29,7 +29,7 @@ BEGIN:VEVENT
 UID:2026-11-28-switch-presents-primate-sticks-stones-europe-tour@rave.wien
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Vienna:20261128T230000
-DTEND;TZID=Europe/Vienna:20261129T040000
+DTEND;TZID=Europe/Vienna:20261129T060000
 SUMMARY:Switch! presents Primate – Sticks & Stones Europe Tour
 LOCATION:Flex\, Augartenbrücke 1\, 1010 Wien
 DESCRIPTION:Primate\, Disorder\, Replic\, Splinta\, Mr. Highfi\, L3nny\, 

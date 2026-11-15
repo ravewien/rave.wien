@@ -26,6 +26,25 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-06-untz-baby-untz-nikolo-im-funkhaus@rave.wien
+DTSTAMP:20261206T000000Z
+DTSTART;TZID=Europe/Vienna:20261206T130000
+DTEND;TZID=Europe/Vienna:20261206T180000
+SUMMARY:Untz Baby Untz – Nikolo im Funkhaus
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Max Wanderer\, Catlex\, SHIZZLE\nVeranstalter: Untz Baby Untz
+ \nEintritt: 13 €\n\nUntz Baby Untz ist eine familien- und kinderfreund
+ liche Day-Rave-Reihe\; die Nikolo-Ausgabe im Funkhaus ist laut Veranstal
+ ter das erste Indoor-Event der Reihe. Von 13:00 bis 18:00 legen Max Wand
+ erer\, Catlex und SHIZZLE Techno und House auf. Geplant sind außerdem e
+ in Kinder-Yoga-Warm-up\, eine kreative Weihnachts-Bastelecke\, Essen und
+  Getränke sowie möglicherweise ein Special Guest. Tickets um 13 € gi
+ bt es im Vorverkauf über Resident Advisor\; Kinder unter 16 haben ohne 
+ Ticket freien Eintritt.\n\nhttps://rave.wien/e/2026-12-06-untz-baby-untz
+ -nikolo-im-funkhaus
+URL:https://rave.wien/e/2026-12-06-untz-baby-untz-nikolo-im-funkhaus
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-07-mixed-vienna-w-prada2000@rave.wien
 DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Vienna:20261107T230000

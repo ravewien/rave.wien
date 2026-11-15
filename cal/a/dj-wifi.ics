@@ -44,20 +44,6 @@ DESCRIPTION:Joey\, Crystal O\, DJ Wifi\, DJ Wolle\, Kat Ze\, Mischkonsum\
 URL:https://rave.wien/e/2026-11-14-herzfrequenz-herzi-f2f-edition
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-27-resident-night-golpe-detoxx@rave.wien
-DTSTAMP:20261127T000000Z
-DTSTART;TZID=Europe/Vienna:20261127T230000
-DTEND;TZID=Europe/Vienna:20261128T040000
-SUMMARY:Resident Night: GOLPE // DETOXX
-LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:DETOXX\, GOLPE\, DJ Wifi\, Kingsmo\n\nResident Night im Werk 
- mit GOLPE und DETOXX\, Beginn 23:00. Laut Programm des Werks spielen die
-  beiden Residents\; weitere Acts\, Preise und Tickets sind noch nicht an
- gekündigt.\n\nhttps://rave.wien/e/2026-11-27-resident-night-golpe-detox
- x
-URL:https://rave.wien/e/2026-11-27-resident-night-golpe-detoxx
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-28-dead-end-showcase-with-paralich-pres-by-gdn@rave.wien
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Vienna:20261128T230000
