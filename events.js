@@ -18089,9 +18089,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Kmanxak": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "LaLa": {
@@ -47300,10 +47300,14 @@ const AR={
   "infoChk": "2026-11-04"
  },
  "L!KA": {
-  "noImg": "2026-11-04",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-04",
-  "infoChk": "2026-11-04",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15",
+  "links": {
+   "sc": "https://soundcloud.com/lika_vie"
+  },
+  "setsChecked": "2026-11-15"
  },
  "BON": {
   "noImg": "2026-11-04",
@@ -47705,9 +47709,9 @@ const AR={
   ]
  },
  "NO ONE": {
-  "noImg": "2026-11-06",
-  "noLinks": "2026-11-06",
-  "infoChk": "2026-11-06",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Robert Maslach": {
@@ -48109,9 +48113,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Tonks": {
-  "noImg": "2026-11-08",
-  "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "wldfee": {
@@ -48146,9 +48150,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "subinstans": {
-  "noImg": "2026-11-08",
-  "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "NooK": {
@@ -48202,9 +48206,9 @@ const AR={
   "infoChk": "2026-11-09"
  },
  "great area": {
-  "noImg": "2026-11-09",
-  "noLinks": "2026-11-09",
-  "infoChk": "2026-11-09",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "PILLBERT": {
@@ -48420,10 +48424,38 @@ const AR={
   "spChk": "2026-11-15"
  },
  "ROONY": {
-  "infoChk": "2026-11-10",
-  "noImg": "2026-11-10",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-10",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "links": {
+   "mc": "https://www.mixcloud.com/roonysize/"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "bio": {
+   "de": "ROONY ist ein Drum-&-Bass-DJ, der auf Mixcloud Mixtapes zwischen Liquid, Deep, Techstep, Jump Up und Jungle veröffentlicht, darunter mehrere Mixtapes für die Wiener Reihe Bass Cave.",
+   "en": "ROONY is a drum & bass DJ who publishes mixtapes on Mixcloud spanning liquid, deep, techstep, jump up and jungle, including several mixtapes for the Vienna series Bass Cave."
+  },
+  "sets": [
+   {
+    "t": "Roony H&W SIABI 0723 Mixtape - Oldskool DnB",
+    "u": "https://www.mixcloud.com/roonysize/ronny-hw-siabi-0723-mixtape-oldskool-dnb/"
+   },
+   {
+    "t": "Bass Cave H&W 06/22 Mixtape - Liquid/Deep/Dubwise",
+    "u": "https://www.mixcloud.com/roonysize/bass-cave-hw-0622-mixtape-liquiddeepdubwise/"
+   },
+   {
+    "t": "Bass Cave 1BM Mixtape - Deep Techstep",
+    "u": "https://www.mixcloud.com/roonysize/1bm-mixtape-08102022-deep-techstep/"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "src": [
+   "https://www.mixcloud.com/roonysize/"
+  ]
  },
  "DI GELLNER": {
   "infoChk": "2026-11-10",
@@ -48450,9 +48482,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Acula": {
-  "infoChk": "2026-11-10",
-  "noImg": "2026-11-10",
-  "noLinks": "2026-11-10",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Softi": {
@@ -50490,6 +50522,38 @@ const AR={
   "src": [
    "https://ra.co/dj/virginhelena",
    "https://ra.co/dj/virginhelena/biography"
+  ],
+  "infoChk": "2026-11-15"
+ },
+ "DJ Böhm": {
+  "img": "https://static.ra.co/images/profiles/square/djbohm.jpg?dateUpdated=1708599230000",
+  "links": {
+   "ra": "https://ra.co/dj/djbohm",
+   "ig": "https://www.instagram.com/dj.boehm/",
+   "sc": "https://soundcloud.com/limpfoo"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "DJ Böhm ist ein österreichischer DJ, der laut eigenem RA-Profil mit Drum & Bass begann und heute Hard Techno spielt. Er spielt vor allem in Wien, u. a. im Das Werk, in der Pratersauna und im Flex. Für die Wiener Reihe Hektisch nahm er den Hektisch Podcast #002 auf.",
+   "en": "DJ Böhm is an Austrian DJ who, according to his RA profile, started out in drum & bass and now plays hard techno. He mostly plays in Vienna, including Das Werk, Pratersauna and Flex. He recorded Hektisch Podcast #002 for the Vienna series Hektisch."
+  },
+  "sets": [
+   {
+    "t": "Hektisch Podcast #002 - DJ Böhm [HARDTECHNO]",
+    "u": "https://soundcloud.com/hektisch_vie/hektisch-podcast-002-dj-bohm"
+   },
+   {
+    "t": "HARD Techno #001",
+    "u": "https://soundcloud.com/limpfoo/hard"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15",
+  "src": [
+   "https://ra.co/dj/djbohm"
   ],
   "infoChk": "2026-11-15"
  }
