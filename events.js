@@ -9974,7 +9974,8 @@ const AR={
  "Aleta": {
   "noLinks": "2026-11-03",
   "noImg": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Seba": {
   "img": "https://static.ra.co/images/profiles/seba.jpg?dateUpdated=1494519179647",
@@ -10168,7 +10169,8 @@ const AR={
   ],
   "src": [
    "https://norg3n.pages.dev/"
-  ]
+  ],
+  "setsChecked": "2026-11-15"
  },
  "Peter Pan": {
   "links": {
@@ -10176,7 +10178,8 @@ const AR={
    "bc": "https://peterpan303.bandcamp.com",
    "ig": "https://www.instagram.com/mrgreenwood303",
    "web": "http://neverland.no",
-   "ra": "https://ra.co/dj/peterpan-no"
+   "ra": "https://ra.co/dj/peterpan-no",
+   "sp": "https://open.spotify.com/artist/2MmAoP1pj8yVl95mEI40jy"
   },
   "src": [
    "https://ra.co/dj/peterpan-no",
@@ -10203,7 +10206,8 @@ const AR={
    "Peter Greenwood",
    "PeterPan303"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "JP eXbert": {
   "links": {
@@ -11279,7 +11283,8 @@ const AR={
  "Meltdown": {
   "noImg": "2026-11-03",
   "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Janex": {
   "noImg": "2026-11-03",
@@ -11382,7 +11387,19 @@ const AR={
    "https://ra.co/events/2382527",
    "https://ra.co/dj/joey-2"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "sets": [
+   {
+    "t": "JOEY (SET #1) - HERZFREQUENZ: SPECIAL ALL NIGHT LONG EDITION @ DAS WERK (15.11.2024) SET RECORDING",
+    "u": "https://soundcloud.com/herzfrequenz_techno/joey-set-1"
+   },
+   {
+    "t": "PU$$¥ LIVE SET 21.10.2022 (TECHNO 150 BPM)",
+    "u": "https://soundcloud.com/joey_vienna/pu-techno-150-bpm"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "CED": {
   "noImg": "2026-11-03",
@@ -12281,7 +12298,8 @@ const AR={
    "https://ra.co/events/2323484",
    "https://ra.co/dj/felinightingale"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-15"
  },
  "Techflex": {
   "img": "https://static.ra.co/images/profiles/square/techflex.jpg?dateUpdated=1744880555000",
@@ -13030,7 +13048,23 @@ const AR={
   "src": [
    "https://ra.co/dj/davidradi"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "sets": [
+   {
+    "t": "Techno am Berg",
+    "u": "https://soundcloud.com/david-radi/techno-am-berg-15062024"
+   },
+   {
+    "t": "David Radi @ Techno Am Berg",
+    "u": "https://soundcloud.com/david-radi/david-radi-techno-am-berg-x-johann-waller-hutte-july-29th-2023"
+   },
+   {
+    "t": "January 2023 - Melodic House Mix",
+    "u": "https://soundcloud.com/david-radi/january-2023-melodic-house-mix"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Matthias Kaiser": {
   "img": "https://static.ra.co/images/profiles/square/matthiaskaiser.jpg?dateUpdated=1747732341000",
@@ -13145,7 +13179,8 @@ const AR={
  "D.b.h": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Urlaub in Jazzolo": {
   "noImg": "2026-11-03",
@@ -13366,7 +13401,8 @@ const AR={
     "u": "https://soundcloud.com/herzfrequenz_techno/suitside-f2f-yonder-vs-a-face2face-rave-das-werk-15082025-set-recording-3"
    }
   ],
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "DJ Parkverbot": {
   "img": "https://static.ra.co/images/profiles/square/djparkverbot.jpg?dateUpdated=1788429401000",
@@ -13381,7 +13417,8 @@ const AR={
   "src": [
    "https://ra.co/dj/djparkverbot"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Lieblos": {
   "noImg": "2026-11-03",
@@ -15335,7 +15372,8 @@ const AR={
   "from": {
    "de": "Wien",
    "en": "Vienna"
-  }
+  },
+  "spChk": "2026-11-15"
  },
  "Synthesis": {
   "noImg": "2026-11-03",
@@ -16181,7 +16219,8 @@ const AR={
   },
   "genres": [
    "House"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Entheon": {
   "infoChk": "2026-11-03",
@@ -16256,7 +16295,8 @@ const AR={
    "https://soundcloud.com/3st1",
    "https://soundcloud.com/resradio/arger-hits-volume-3-w-estid"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Ernst": {
   "infoChk": "2026-11-03",
@@ -16333,7 +16373,8 @@ const AR={
    "ra": "https://ra.co/dj/ellenallien",
    "sc": "https://soundcloud.com/ellen-allien",
    "ig": "https://www.instagram.com/ellen.allien",
-   "bc": "https://ellenallien.bandcamp.com"
+   "bc": "https://ellenallien.bandcamp.com",
+   "sp": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
   },
   "from": {
    "de": "Berlin",
@@ -16372,7 +16413,8 @@ const AR={
    "https://soundcloud.com/platform/ellen-allien-3",
    "https://soundcloud.com/ellen-allien/ellen-allien-djset-melt-festival-sleepless-floor-120915"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Sentic Cycle": {
   "img": "https://static.ra.co/images/profiles/square/senticcycle.jpg?dateUpdated=1792956162853",
@@ -16415,7 +16457,8 @@ const AR={
    "ra": "https://ra.co/dj/ssaliva",
    "bc": "https://ssaliva.bandcamp.com",
    "sc": "https://soundcloud.com/ssaliva",
-   "fb": "https://www.facebook.com/sssaliva/"
+   "fb": "https://www.facebook.com/sssaliva/",
+   "sp": "https://open.spotify.com/artist/3pPIWa19bNbZaA4xNt81HB"
   },
   "real": "François Boulanger",
   "alias": [
@@ -16448,7 +16491,8 @@ const AR={
    "https://www.meakusma-festival.be/?p=5722"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Sebastian Wagner": {
   "noImg": "2026-11-03",
@@ -16510,7 +16554,8 @@ const AR={
  "Saratonin": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "SWEGALICIOUS": {
   "noImg": "2026-11-03",
@@ -16554,7 +16599,8 @@ const AR={
   "setsChecked": "2026-11-02",
   "noImg": "2026-11-02",
   "infoChk": "2026-11-03",
-  "img": "https://thumbnailer.mixcloud.com/unsafe/290x290/profile/d/f/9/9/1a47-6b9a-47fa-affc-952c32d042d0.jpg"
+  "img": "https://thumbnailer.mixcloud.com/unsafe/290x290/profile/d/f/9/9/1a47-6b9a-47fa-affc-952c32d042d0.jpg",
+  "spChk": "2026-11-15"
  },
  "Station Rose": {
   "links": {
@@ -17436,7 +17482,8 @@ const AR={
  "Armin Karmin": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "AKOV": {
   "img": "https://f4.bcbits.com/img/0037136745_10.jpg",
@@ -17639,7 +17686,8 @@ const AR={
   ],
   "setsChecked": "2026-11-02",
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-03"
+  "noImg": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Ludviq": {
   "img": "https://static.ra.co/images/profiles/square/ludviq.jpg?dateUpdated=1695899307000",
@@ -18025,7 +18073,8 @@ const AR={
   ],
   "src": [
    "https://www.technoairlines.com/event/taktgefuhl-vol-2-club-lucia-2026-12-11"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Karolina": {
   "infoChk": "2026-11-03",
@@ -18207,7 +18256,23 @@ const AR={
    "https://ra.co/dj/chicano/biography",
    "https://ra.co/events/2550352"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "sets": [
+   {
+    "t": "Chicano - La vida es Sueño (Set)",
+    "u": "https://soundcloud.com/chicano-6/la-vida-es-sueno"
+   },
+   {
+    "t": "Chicano - Robert Ford (Set)",
+    "u": "https://soundcloud.com/chicano-6/chicano-robert-ford"
+   },
+   {
+    "t": "Chicano - Un Despedida (Set)",
+    "u": "https://soundcloud.com/chicano-6/chicano-una-despedida-set"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "David Phoenix": {
   "img": "https://static.ra.co/images/profiles/square/davidphoenix.jpg?dateUpdated=1791571998880",
@@ -18352,7 +18417,8 @@ const AR={
  "Christella": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "DJ Keshi": {
   "img": "https://static.ra.co/images/profiles/square/djkeshi.jpg?dateUpdated=1793569898640",
@@ -18495,7 +18561,9 @@ const AR={
    "https://ra.co/dj/crazysonic",
    "https://ra.co/dj/crazysonic/biography"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Caban": {
   "infoChk": "2026-11-03",
@@ -18961,7 +19029,8 @@ const AR={
    "https://soundcloud.com/nya_nyx"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Paris Böhm": {
   "infoChk": "2026-11-03",
@@ -19021,7 +19090,8 @@ const AR={
  "Nysos": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Nova.psd": {
   "infoChk": "2026-11-03",
@@ -19117,7 +19187,8 @@ const AR={
   "links": {
    "bc": "https://rosanebel.bandcamp.com/",
    "sc": "https://soundcloud.com/rosanebel",
-   "ig": "https://www.instagram.com/rosanebelvie/"
+   "ig": "https://www.instagram.com/rosanebelvie/",
+   "sp": "https://open.spotify.com/artist/4ixCsXQYjkpSdvKmqQXqHp"
   },
   "src": [
    "https://rosanebel.bandcamp.com/",
@@ -19125,7 +19196,8 @@ const AR={
    "https://luxrec.bandcamp.com/album/split-ep"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Primate": {
   "bio": {
@@ -19777,12 +19849,14 @@ const AR={
    "https://soundcloud.com/tom-snow/garden-club-volksgarten-vienna"
   ],
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-03"
+  "noImg": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Vivid": {
   "infoChk": "2026-11-02",
   "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
+  "noLinks": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Van:Hill": {
   "links": {
@@ -19858,7 +19932,8 @@ const AR={
    "https://www.facebook.com/tunderke3"
   ],
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-03"
+  "noImg": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Urklang": {
   "img": "https://f4.bcbits.com/img/0030506317_10.jpg",
@@ -19964,7 +20039,11 @@ const AR={
   "from": {
    "de": "Ungarn",
    "en": "Hungary"
-  }
+  },
+  "links": {
+   "sp": "https://open.spotify.com/artist/3XTXJ0qA1B0EZxqdPcISv2"
+  },
+  "spChk": "2026-11-15"
  },
  "Mert Seger": {
   "links": {
@@ -20052,7 +20131,8 @@ const AR={
    "https://soundcloud.com/many23"
   ],
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-03"
+  "noImg": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Marc Græbnør": {
   "img": "https://static.ra.co/images/profiles/square/marcgr%C3%A6bnor.jpg?dateUpdated=1758710400000",
@@ -20226,7 +20306,8 @@ const AR={
   "src": [
    "https://soundcloud.com/mesrodetavner",
    "https://ra.co/events/1218351"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "DJ Raff": {
   "img": "https://static.ra.co/images/profiles/square/djraff.jpg?dateUpdated=1788865830440",
@@ -20576,7 +20657,8 @@ const AR={
     "u": "https://soundcloud.com/callshopradio/stefan-loffler-donaurave-080224"
    }
   ],
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "rambazambra": {
   "noImg": "2026-11-03",
@@ -20652,7 +20734,8 @@ const AR={
  "Floreal": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "meet.franka": {
   "img": "https://static.ra.co/images/profiles/square/meetfranka.jpg?dateUpdated=1736168997000",
@@ -46943,7 +47026,8 @@ const AR={
  "MANDALA": {
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "spChk": "2026-11-15"
  },
  "LustMusik": {
   "links": {
@@ -47189,12 +47273,14 @@ const AR={
  "Dr. Schick": {
   "noImg": "2026-11-05",
   "noLinks": "2026-11-05",
-  "infoChk": "2026-11-05"
+  "infoChk": "2026-11-05",
+  "spChk": "2026-11-15"
  },
  "Meander": {
   "noImg": "2026-11-05",
   "noLinks": "2026-11-05",
-  "infoChk": "2026-11-05"
+  "infoChk": "2026-11-05",
+  "spChk": "2026-11-15"
  },
  "dj ayran": {
   "noImg": "2026-11-05",
@@ -47740,7 +47826,8 @@ const AR={
  "PILLBERT": {
   "noImg": "2026-11-09",
   "noLinks": "2026-11-09",
-  "infoChk": "2026-11-09"
+  "infoChk": "2026-11-09",
+  "spChk": "2026-11-15"
  },
  "Neoteric x Alerta": {
   "noImg": "2026-11-09",
@@ -47756,7 +47843,8 @@ const AR={
  "Soundbüglerei": {
   "noImg": "2026-11-09",
   "noLinks": "2026-11-09",
-  "infoChk": "2026-11-09"
+  "infoChk": "2026-11-09",
+  "spChk": "2026-11-15"
  },
  "Initiative 21": {
   "noImg": "2026-11-09",
@@ -47849,7 +47937,8 @@ const AR={
   "src": [
    "https://luapreta.bandcamp.com/community",
    "https://www.unsound.pl/en/flower-power/artists/lua-preta"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "UMAFRICANA": {
   "links": {
@@ -47924,7 +48013,8 @@ const AR={
  "VAL": {
   "infoChk": "2026-11-10",
   "noImg": "2026-11-10",
-  "noLinks": "2026-11-10"
+  "noLinks": "2026-11-10",
+  "spChk": "2026-11-15"
  },
  "Frankee": {
   "infoChk": "2026-11-10",
@@ -47935,7 +48025,8 @@ const AR={
  "Acula": {
   "infoChk": "2026-11-10",
   "noImg": "2026-11-10",
-  "noLinks": "2026-11-10"
+  "noLinks": "2026-11-10",
+  "spChk": "2026-11-15"
  },
  "Softi": {
   "infoChk": "2026-11-10",
@@ -48091,7 +48182,8 @@ const AR={
    "ra": "https://ra.co/dj/gerdjanson",
    "sc": "https://soundcloud.com/runningback",
    "bc": "https://runningbackrecords.bandcamp.com",
-   "ig": "https://www.instagram.com/gerdjansonofficial"
+   "ig": "https://www.instagram.com/gerdjansonofficial",
+   "sp": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
   },
   "from": {
    "de": "Deutschland",
@@ -48107,7 +48199,23 @@ const AR={
   "infoChk": "2026-11-10",
   "src": [
    "https://pt-br.ra.co/dj/gerdjanson"
-  ]
+  ],
+  "sets": [
+   {
+    "t": "Gerd Janson Boiler Room Sugar Mountain Melbourne DJ Set",
+    "u": "https://soundcloud.com/platform/gerd-janson-boiler-room-sugar-mountain-melbourne-dj-set"
+   },
+   {
+    "t": "Ata b2B Gerd Janson Give Love Back x Boiler Room Frankfurt DJ Set",
+    "u": "https://soundcloud.com/platform/ata-b2b-gerd-janson"
+   },
+   {
+    "t": "Gerd Janson Ray-Ban x Boiler Room 021 Madrid",
+    "u": "https://soundcloud.com/platform/gerd-janson"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Tom Kutsche": {
   "img": "https://static.ra.co/images/profiles/square/tomkutsche.jpg?dateUpdated=1626102581000",
@@ -48293,14 +48401,23 @@ const AR={
    "Blast Records"
   ],
   "links": {
-   "sc": "https://soundcloud.com/highkonoisepoison"
+   "sc": "https://soundcloud.com/highkonoisepoison",
+   "sp": "https://open.spotify.com/artist/2oi3YpnftlWFOpEfFIiEUr"
   },
   "src": [
    "https://soundcloud.com/highkonoisepoison",
    "https://soundcloud.com/blastrecords25/sets/highko-and-agressive-mood-maze-of-madness"
   ],
   "infoChk": "2026-11-11",
-  "noImg": "2026-11-11"
+  "noImg": "2026-11-11",
+  "sets": [
+   {
+    "t": "HIGHKO - ModeM SET 2022",
+    "u": "https://soundcloud.com/highkonoisepoison/highko-modem-set-2022"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Agressive Mood": {
   "bio": {
@@ -48455,7 +48572,8 @@ const AR={
    "https://ra.co/events/2581841"
   ],
   "infoChk": "2026-11-11",
-  "noImg": "2026-11-11"
+  "noImg": "2026-11-11",
+  "setsChecked": "2026-11-15"
  },
  "Jokkel": {
   "infoChk": "2026-11-11",
@@ -48562,13 +48680,16 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/richardsteinschlag",
    "sc": "https://soundcloud.com/richardsteinschlag",
-   "web": "https://www.mindentertainment.org"
+   "web": "https://www.mindentertainment.org",
+   "sp": "https://open.spotify.com/artist/2X8v3VZrcB1mVc0r0u7SMV"
   },
   "src": [
    "https://ra.co/dj/richardsteinschlag",
    "https://ra.co/events/2580612"
   ],
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Yoshiko": {
   "from": {
@@ -48662,7 +48783,8 @@ const AR={
  "2 Facez": {
   "infoChk": "2026-11-11",
   "noImg": "2026-11-11",
-  "noLinks": "2026-11-11"
+  "noLinks": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Active Elementz": {
   "links": {
@@ -48702,7 +48824,8 @@ const AR={
  "Eternal Injustice": {
   "infoChk": "2026-11-11",
   "noImg": "2026-11-11",
-  "noLinks": "2026-11-11"
+  "noLinks": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Humanforce": {
   "bio": {
@@ -49517,7 +49640,8 @@ const AR={
   "src": [
    "https://ra.co/dj/autonomuse"
   ],
-  "setsChecked": "2026-11-13"
+  "setsChecked": "2026-11-13",
+  "spChk": "2026-11-15"
  },
  "Nomid Ion": {
   "from": {
@@ -49555,7 +49679,8 @@ const AR={
  "Evren de concecao": {
   "noImg": "2026-11-13",
   "noLinks": "2026-11-13",
-  "infoChk": "2026-11-13"
+  "infoChk": "2026-11-13",
+  "spChk": "2026-11-15"
  },
  "MORASS": {
   "from": {
