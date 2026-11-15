@@ -39579,10 +39579,13 @@ const AR={
   "noLinks": "2026-11-04"
  },
  "Mize Hetner": {
-  "infoChk": "2026-11-04",
-  "noImg": "2026-11-04",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-04",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "links": {
+   "sc": "https://soundcloud.com/mizehetner"
+  }
  },
  "lumiuex": {
   "img": "https://static.ra.co/images/profiles/lumieux.jpg?dateUpdated=1540400062000",
