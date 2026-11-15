@@ -12136,9 +12136,9 @@ const AR={
   "setsChecked": "2026-11-03"
  },
  "Sonic Warfare": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Another Dimension": {
@@ -12344,9 +12344,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Nikilist": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "KRISTUS": {
@@ -13191,14 +13191,14 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Romen Est Omen": {
-  "noImg": "2026-11-03",
+  "noImg": "2026-11-15",
   "links": {
    "sc": "https://soundcloud.com/romen_est_omen"
   },
   "src": [
    "https://soundcloud.com/romen_est_omen"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "setsChecked": "2026-11-02",
   "spChk": "2026-11-15"
  },
@@ -13468,21 +13468,38 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Suitside": {
-  "noImg": "2026-11-03",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-03",
   "src": [
    "https://soundcloud.com/suitsidemusic",
-   "https://soundcloud.com/herzfrequenz_techno/suitside-f2f-yonder-vs-a-face2face-rave-das-werk-15082025-set-recording-3"
+   "https://soundcloud.com/herzfrequenz_techno/suitside-f2f-yonder-vs-a-face2face-rave-das-werk-15082025-set-recording-3",
+   "https://set79.com/dj/SUITSIDE",
+   "https://soundcloud.com/suitsidemusic/half-hour-trancy-techno-set-suitside"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "sets": [
    {
     "t": "SUITSIDE F2F YØNDER – VS: A Face2Face Rave @ Das Werk (15.08.2025)",
     "u": "https://soundcloud.com/herzfrequenz_techno/suitside-f2f-yonder-vs-a-face2face-rave-das-werk-15082025-set-recording-3"
+   },
+   {
+    "t": "half hour mixing trancy techno songs (hardtrance/bounce)",
+    "u": "https://soundcloud.com/suitsidemusic/half-hour-trancy-techno-set-suitside"
+   },
+   {
+    "t": "1 hour of me mixing hard techno songs",
+    "u": "https://soundcloud.com/suitsidemusic/01-rec-2024-02-10"
    }
   ],
-  "setsChecked": "2026-11-02",
-  "spChk": "2026-11-15"
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15",
+  "links": {
+   "sc": "https://soundcloud.com/suitsidemusic"
+  },
+  "bio": {
+   "de": "Suitside ist DJ und Produzent im Bereich Hard Techno, Hardtrance und Bounce und veröffentlicht eigene Tracks wie „Ritmo“, „Girly Bounce“ und „Guestlist“. Im August 2025 spielte Suitside face2face mit YØNDER bei „VS: A Face2Face Rave“ im Wiener Das Werk.",
+   "en": "Suitside is a DJ and producer of hard techno, hard trance and bounce, releasing own tracks such as \"Ritmo\", \"Girly Bounce\" and \"Guestlist\". In August 2025 Suitside played face2face with YØNDER at \"VS: A Face2Face Rave\" at Das Werk in Vienna."
+  }
  },
  "DJ Parkverbot": {
   "img": "https://static.ra.co/images/profiles/square/djparkverbot.jpg?dateUpdated=1788429401000",
@@ -15800,9 +15817,9 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "færo demonic": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "eira haul": {
@@ -15851,9 +15868,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Franky": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "En:vy": {
@@ -16062,9 +16079,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Fairy Mary": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Egorythmia": {
@@ -17022,12 +17039,34 @@ const AR={
    "en": "Vienna, Austria"
   },
   "src": [
-   "https://de.ra.co/events/1787089"
+   "https://de.ra.co/events/1787089",
+   "https://de.ra.co/dj/asideat",
+   "https://de.ra.co/dj/asideat/biography"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "img": "https://static.ra.co/images/profiles/square/asideat.jpg?dateUpdated=1760373261000",
+  "links": {
+   "ra": "https://ra.co/dj/asideat",
+   "sc": "https://soundcloud.com/selinaside",
+   "ig": "https://www.instagram.com/selin00/"
+  },
+  "alias": [
+   "Uschi Flagranti"
+  ],
+  "bio": {
+   "de": "Aside ist eine DJ und Vinyl-Sammlerin mit verspieltem, unkonventionellem Stil. Als Teenagerin entdeckte sie auf Underground-Partys in Istanbul House und Techno; ihre DJ-Laufbahn begann während der Pandemie in Wien auf geheimen Partys. Sie spielt am liebsten House, Breaks sowie sinnliche, jazzige und experimentelle Musik und ist außerdem mit Klanginstallationen und Live-Projekten wie Uschi Flagranti und Odo Kolant aktiv.",
+   "en": "Aside is a DJ and vinyl collector with a playful, unconventional style. As a teenager she discovered house and techno at underground parties in Istanbul; her DJ career began in Vienna during the pandemic, playing secret parties. Her favourite styles are house, breaks and sensual, jazzy and experimental music, and she also creates sound installations and live projects such as Uschi Flagranti and Odo Kolant."
+  },
+  "sets": [
+   {
+    "t": "Aside b2b Heimlich Maneuver @ Kater Blau Extra",
+    "u": "https://soundcloud.com/selinaside/988baff7-9b7a-4ab4-b262-aba3e3e79c58"
+   }
+  ],
+  "setsChecked": "2026-11-15"
  },
  "AE-X": {
   "infoChk": "2026-11-03",
@@ -17308,9 +17347,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Benjay": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "bio": {
    "de": "Benjay ist ein DJ-Act auf dem Lineup von AWSM. Skyscraper Edition in der Altia Skybar im DC Tower, einer Nacht mit House, Afro House und Melodic House.",
    "en": "Benjay is a DJ act on the line-up of AWSM. Skyscraper Edition at Altia Skybar in DC Tower, a night of house, Afro house and melodic house."
@@ -17456,9 +17495,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "ARAS JE'TÄM": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Ave Maria": {
@@ -18079,8 +18118,8 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Lim Banda": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/lim_banda"
@@ -18187,9 +18226,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "L3nny": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "bio": {
    "de": "L3nny ist ein Drum-&-Bass-DJ-Act, der bei der Wiener Reihe Switch! im Flex auf dem Lineup steht, u. a. bei der Tour-Station von Primate.",
    "en": "L3nny is a drum & bass DJ act on the line-up of the Vienna series Switch! at Flex, including Primate's tour stop."
@@ -18616,9 +18655,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Crnobrnja": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Cosmic Gate": {
@@ -19300,8 +19339,8 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Paris Böhm": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-03",
   "bio": {
    "de": "Paris Böhm spielt gemeinsam mit Jorkes als Duo hinter der Reihe Freeride Millenium, die eine regelmäßige Sendung auf Radio 80000 hat. Für den BLITZ Club nahmen die beiden den BLITZcast 020 auf.",
@@ -19321,13 +19360,16 @@ const AR={
     "u": "https://soundcloud.com/blitzclub/blitzcast-020-jorkes-paris-bohm"
    }
   ],
-  "setsChecked": "2026-11-03",
+  "setsChecked": "2026-11-15",
   "src": [
    "https://soundcloud.com/radio80000/freeride-millenium-60-w-paris-bohm-jorkes-15042025",
    "https://soundcloud.com/blitzclub/blitzcast-020-jorkes-paris-bohm",
    "https://soundcloud.com/freeridemillenium/41-radio-80000-w-paris-bohm-jorkes"
   ],
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "links": {
+   "sc": "https://soundcloud.com/parisboehm"
+  }
  },
  "Noemi Universe": {
   "infoChk": "2026-11-03",
@@ -19336,9 +19378,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "OK CUTEE": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Paul Galbur": {
@@ -20458,8 +20500,8 @@ const AR={
    "https://www.mixcloud.com/many23/some-spec-many/",
    "https://soundcloud.com/many23"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Marc Græbnør": {
@@ -21084,9 +21126,9 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Dj Ritual Spirit": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Floreal": {
@@ -22036,9 +22078,9 @@ const AR={
   "setsChecked": "2026-11-03"
  },
  "Red Groove System": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "setsChecked": "2026-11-03",
   "spChk": "2026-11-15"
  },
@@ -46401,10 +46443,25 @@ const AR={
   "noLinks": "2026-11-04"
  },
  "SoDa": {
-  "infoChk": "2026-11-04",
+  "infoChk": "2026-11-15",
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "img": "https://static.ra.co/images/profiles/square/soda.jpg?dateUpdated=1694772443000",
+  "links": {
+   "ra": "https://ra.co/dj/soda"
+  },
+  "from": {
+   "de": "Tschechien",
+   "en": "Czech Republic"
+  },
+  "bio": {
+   "de": "Soda ist in Tschechien ansässig und legt vor allem in Prag und Wien auf. In Wien spielte Soda mehrfach im Das Werk bei „Stay Acid presents 54Hz“, in Prag u. a. beim „Mars △ Pure Rhythm Showcase“ und bei „Pure Rhythm 25 Years“ im Chapeau Rouge.",
+   "en": "Soda is a DJ based in the Czech Republic who plays mostly in Prague and Vienna. In Vienna Soda has played Das Werk several times at \"Stay Acid presents 54Hz\"; in Prague appearances include the \"Mars △ Pure Rhythm Showcase\" and \"Pure Rhythm 25 Years\" at Chapeau Rouge."
+  },
+  "src": [
+   "https://de.ra.co/dj/soda"
+  ]
  },
  "Dora": {
   "noImg": "2026-11-04",
@@ -47430,9 +47487,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "MANDALA": {
-  "noImg": "2026-11-04",
-  "noLinks": "2026-11-04",
-  "infoChk": "2026-11-04",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "LustMusik": {
@@ -49266,8 +49323,8 @@ const AR={
    "https://soundcloud.com/elyante/kraftwerk-das-model-kippenhaus-x-elyante-remix-free-dl",
    "https://ra.co/events/2581841"
   ],
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "sets": [
    {
     "t": "Elyante @ Connected Radio [006]",
@@ -49297,8 +49354,8 @@ const AR={
    "https://open.spotify.com/intl-pt/track/6r3pX07lMk6gVAzqh8lNZH",
    "https://ra.co/events/2581841"
   ],
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "setsChecked": "2026-11-15"
  },
  "Jokkel": {
@@ -49492,16 +49549,26 @@ const AR={
   },
   "src": [
    "https://open.spotify.com/artist/6SU7dAcEA0XXqGTLMM9zSF",
-   "https://soundcloud.com/99prblmz/tracks"
+   "https://soundcloud.com/99prblmz/tracks",
+   "https://www.viberate.com/artist/99prblmz",
+   "https://festivalfans.nl/artiest/99prblmz/"
   ],
-  "infoChk": "2026-11-11",
+  "infoChk": "2026-11-15",
   "sets": [
    {
     "t": "MONTHLY HARDCORE MIX AUGUST 2023",
     "u": "https://soundcloud.com/99prblmz/monthlyhardcoremix"
    }
   ],
-  "setsChecked": "2026-11-15"
+  "setsChecked": "2026-11-15",
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "bio": {
+   "de": "99PRBLMZ ist ein Hardcore- und Hardstyle-Act aus den Niederlanden. 2025 und 2026 stand 99PRBLMZ unter anderem bei Defqon.1, Dominator, Masters of Hardcore, Decibel Outdoor und SYNDICATE in Dortmund auf dem Programm.",
+   "en": "99PRBLMZ is a hardcore and hardstyle act from the Netherlands. In 2025 and 2026 99PRBLMZ was billed at events including Defqon.1, Dominator, Masters of Hardcore, Decibel Outdoor and SYNDICATE in Dortmund."
+  }
  },
  "Peygan": {
   "links": {
@@ -49728,9 +49795,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Katana": {
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
-  "infoChk": "2026-11-11",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Twisted Aura": {
@@ -50690,9 +50757,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Patches": {
-  "infoChk": "2026-11-14",
-  "noImg": "2026-11-14",
-  "noLinks": "2026-11-14",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Luv Affair on Air": {
