@@ -13370,12 +13370,12 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Shaxoron": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "src": [
    "https://ra.co/events/2250635"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Snowtek": {
@@ -13497,7 +13497,7 @@ const AR={
   "src": [
    "https://ra.co/dj/djparkverbot"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Lieblos": {
@@ -18143,7 +18143,7 @@ const AR={
   "spChk": "2026-11-15"
  },
  "LaLa": {
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
   "sets": [
@@ -18152,11 +18152,33 @@ const AR={
     "u": "https://soundcloud.com/radiorudina/lala-radio-rudina"
    }
   ],
-  "setsChecked": "2026-11-03",
+  "setsChecked": "2026-11-15",
   "src": [
-   "https://soundcloud.com/radiorudina/lala-radio-rudina"
+   "https://soundcloud.com/radiorudina/lala-radio-rudina",
+   "https://ra.co/events/2498508",
+   "https://ra.co/dj/-lala-",
+   "https://soundcloud.com/lala-aka-djustbenzes"
   ],
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "img": "https://static.ra.co/images/profiles/square/-lala-.jpg?dateUpdated=1769429575157",
+  "links": {
+   "ra": "https://ra.co/dj/-lala-",
+   "sc": "https://soundcloud.com/lala-aka-djustbenzes",
+   "ig": "https://www.instagram.com/blackpowerslide/",
+   "bc": "https://moonshinebunny.bandcamp.com"
+  },
+  "bio": {
+   "de": "LaLa wurde in Kanada geboren, hat brasilianische Wurzeln und lebt heute in Wien. Seine Leidenschaft gilt dem Bassspielen und dem Auflegen; er steht für energiegeladene, tanzorientierte Sets. Gemeinsam mit Æ-X spielt er bei der Reihe Wreck im SASS Music Club, etwa ein All-Night-Long-Set.",
+   "en": "LaLa was born in Canada with Brazilian roots and is now based in Vienna. His passion is playing bass and DJing, known for energetic, dance-oriented sets. Together with Æ-X he plays the Wreck nights at SASS Music Club, including an all-night-long set."
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "alias": [
+   "-LaLa-",
+   "Djustbenzes"
+  ]
  },
  "Leanne": {
   "infoChk": "2026-11-15",
@@ -19338,9 +19360,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Nysos": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Nova.psd": {
@@ -20002,9 +20024,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Young Sun": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Tomasz Guiddo": {
@@ -20900,14 +20922,14 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Elasoul": {
-  "noImg": "2026-11-03",
+  "noImg": "2026-11-15",
   "links": {
    "sc": "https://soundcloud.com/elasoul"
   },
   "src": [
    "https://soundcloud.com/elasoul"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "setsChecked": "2026-11-15",
   "spChk": "2026-11-15"
  },
@@ -48601,9 +48623,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Frankee": {
-  "infoChk": "2026-11-10",
-  "noImg": "2026-11-10",
-  "noLinks": "2026-11-10",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Acula": {
