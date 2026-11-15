@@ -11214,9 +11214,9 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Artifex": {
-  "noImg": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "LUZZT": {
@@ -13169,12 +13169,12 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Hanneken": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "src": [
    "https://ra.co/events/1986880"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "PA_olo": {
@@ -16619,9 +16619,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Sabina": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "STAATSEINDE": {
@@ -16678,9 +16678,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "SWEGALICIOUS": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Slack Hippy": {
@@ -16764,9 +16764,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Sluzy": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Splinta": {
@@ -17504,8 +17504,8 @@ const AR={
    "https://soundcloud.com/alezzaro",
    "https://www.sway.events/artist/5988"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "from": {
    "de": "Wien",
    "en": "Vienna"
@@ -18062,9 +18062,9 @@ const AR={
   "src": [
    "https://www.theloft.at/glitch-vienna-pres-stef-davidse/"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Lucy Bakanal": {
@@ -18178,8 +18178,8 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Lilosh": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/liloshh"
@@ -18588,9 +18588,9 @@ const AR={
   "img": "https://i.scdn.co/image/ab6761610000e5eb6edd94c9c9efd85879f24bd5"
  },
  "DJEENI": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Crnobrnja": {
@@ -18689,8 +18689,8 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Disorder": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/disordervienna"
@@ -20521,8 +20521,8 @@ const AR={
   "spChk": "2026-11-15"
  },
  "MANiLO": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/manilo-music-official",
@@ -20566,9 +20566,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "MAWU": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Mr. Highfi": {
@@ -20585,8 +20585,8 @@ const AR={
   "spChk": "2026-11-15"
  },
  "MESROD": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/mesrodetavner"
@@ -23988,8 +23988,8 @@ const AR={
    "https://soundcloud.com/adriantronic/adrian-tronic-b2b-manu-script-grelle-forelle-vienna",
    "https://soundcloud.com/berlinhousemusic/premiere-manu-script-nasty-gregory-at-remix-endless-music"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Van der Wiese": {
@@ -48375,15 +48375,15 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Booster Club": {
-  "noImg": "2026-11-09",
-  "noLinks": "2026-11-09",
-  "infoChk": "2026-11-09",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Soundbüglerei": {
-  "noImg": "2026-11-09",
-  "noLinks": "2026-11-09",
-  "infoChk": "2026-11-09",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Initiative 21": {
@@ -48537,9 +48537,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "M:Pathy": {
-  "infoChk": "2026-11-10",
-  "noImg": "2026-11-10",
-  "noLinks": "2026-11-10",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "DAKINDL": {
@@ -48589,9 +48589,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "PHUEL": {
-  "infoChk": "2026-11-10",
-  "noImg": "2026-11-10",
-  "noLinks": "2026-11-10",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "VAL": {
@@ -48912,7 +48912,8 @@ const AR={
  },
  "Mariam Rezaei": {
   "links": {
-   "sp": "https://open.spotify.com/artist/1oUdbspKPQFPgMRZ6snFa5"
+   "sp": "https://open.spotify.com/artist/1oUdbspKPQFPgMRZ6snFa5",
+   "bc": "https://mariamrezaei.bandcamp.com/"
   },
   "from": {
    "de": "Großbritannien",
@@ -48923,11 +48924,13 @@ const AR={
    "de": "Britisch-iranische experimentelle Turntablistin und Komponistin zwischen Turntablism und Noise. Album „BOWN“ (2023).",
    "en": "British-Iranian experimental turntablist and composer working between turntablism and noise. Album “BOWN” (2023)."
   },
-  "infoChk": "2026-11-10",
+  "infoChk": "2026-11-15",
   "src": [
    "https://open.spotify.com/album/0N9XSZBQKCmSkIJVuD9Lsu",
-   "https://www.esel.at/de/event/eardrum--02xgY75yWgbIT0j7somKQc"
-  ]
+   "https://www.esel.at/de/event/eardrum--02xgY75yWgbIT0j7somKQc",
+   "https://mariamrezaei.bandcamp.com/"
+  ],
+  "img": "https://f4.bcbits.com/img/0011325149_23.jpg"
  },
  "Ambient Animal": {
   "links": {
@@ -48960,10 +48963,12 @@ const AR={
  },
  "POSI FLO": {
   "links": {
-   "sc": "https://soundcloud.com/user-557855461"
+   "sc": "https://soundcloud.com/user-557855461",
+   "ra": "https://ra.co/dj/posiflo",
+   "web": "https://linktr.ee/posi_flo"
   },
   "noImg": "2026-11-10",
-  "infoChk": "2026-11-10",
+  "infoChk": "2026-11-15",
   "sets": [
    {
     "t": "Posi Flo @ coppi (07.08.2025)",
@@ -48971,7 +48976,20 @@ const AR={
    }
   ],
   "setsChecked": "2026-11-10",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "img": "https://static.ra.co/images/profiles/square/posiflo.jpg?dateUpdated=1779311052980",
+  "bio": {
+   "de": "POSI FLO ist das DJ-Projekt von Pascale De Gois, einer südafrikanisch-portugiesischen DJ und bildenden Künstlerin, die auf Mallorca lebt und zum Umfeld von Cura Berlin gehört. Ihre Sets reichen von langsameren Formen bis ins tiefere elektronische Spektrum, mit Detroit-geprägtem House und Dub Techno. Sie spielte u. a. bei Kater und Golden Gate in Berlin, im And Club in Johannesburg und beim Kunda Valley Festival in Südafrika.",
+   "en": "POSI FLO is the DJ project of Pascale De Gois, a South African / Portuguese DJ and visual artist based in Mallorca and part of Cura Berlin. Her sets move from slower forms into the deeper end of the electronic spectrum, including Detroit-leaning house and dub techno. She has played Kater and Golden Gate in Berlin, And Club in Johannesburg and Kunda Valley festival in South Africa, among others."
+  },
+  "from": {
+   "de": "Südafrika, lebt auf Mallorca (Spanien)",
+   "en": "South Africa, based in Mallorca (Spain)"
+  },
+  "src": [
+   "https://de.ra.co/dj/posiflo",
+   "https://de.ra.co/dj/posiflo/biography"
+  ]
  },
  "Dijay Qualle": {
   "links": {
@@ -49055,9 +49073,10 @@ const AR={
   },
   "src": [
    "https://soundcloud.com/highkonoisepoison",
-   "https://soundcloud.com/blastrecords25/sets/highko-and-agressive-mood-maze-of-madness"
+   "https://soundcloud.com/blastrecords25/sets/highko-and-agressive-mood-maze-of-madness",
+   "https://www.discogs.com/artist/339238-Highko"
   ],
-  "infoChk": "2026-11-11",
+  "infoChk": "2026-11-15",
   "noImg": "2026-11-11",
   "sets": [
    {
@@ -49066,7 +49085,15 @@ const AR={
    }
   ],
   "setsChecked": "2026-11-15",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "img": "https://i.discogs.com/yVJjCSXXiJX8zwVImGKhK7rdi9rrTbfWjP3O9p9D20Y/rs:fit/g:sm/q:90/h:600/w:411/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzOTIz/OC0xNDQ5MDAxNTk1/LTMxNzMuanBlZw.jpeg",
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "alias": [
+   "LowKo"
+  ]
  },
  "Agressive Mood": {
   "bio": {
@@ -49259,9 +49286,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Evi B": {
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "WaqWaq Kingdom": {
@@ -49667,9 +49694,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Active8": {
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
-  "infoChk": "2026-11-11",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Askeladd": {
@@ -49693,8 +49720,8 @@ const AR={
    "https://soundcloud.com/twistedaura",
    "https://open.spotify.com/artist/7wygrgvNvLOjGlz6Y7eDqU"
   ],
-  "noImg": "2026-11-11",
-  "infoChk": "2026-11-11",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
   "sets": [
    {
     "t": "Twisted Aura ❖ 3DNA Festival Promo set",
@@ -50080,9 +50107,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "ARX": {
-  "infoChk": "2026-11-12",
-  "noImg": "2026-11-12",
-  "noLinks": "2026-11-12",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Dunik": {
@@ -50866,6 +50893,24 @@ const AR={
   ],
   "infoChk": "2026-11-15",
   "noImg": "2026-11-15"
+ },
+ "High Chew": {
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "spChk": "2026-11-15"
+ },
+ "Marie Cherie": {
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "spChk": "2026-11-15"
+ },
+ "Rolltreppe": {
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "spChk": "2026-11-15"
  }
 };
 
