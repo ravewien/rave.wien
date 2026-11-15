@@ -6435,7 +6435,7 @@ const VI={
   "de": "Bar und Live-Location in den Stadtbahnbögen 37–38 am Lerchenfelder Gürtel (1080) – Wiens Anlaufstelle für avancierte Elektronik und experimentellen Rock, mit Konzerten unter der Woche und DJ-Abenden am Wochenende.",
   "en": "Bar and live venue in railway arches 37–38 on the Lerchenfelder Gürtel (1080) – Vienna's hub for advanced electronic music and experimental rock, with concerts during the week and DJ nights at weekends.",
   "web": "https://rhiz.wien/",
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-15",
   "ig": "https://www.instagram.com/rhizvienna/"
  },
  "kv.r.": {
@@ -6460,13 +6460,18 @@ const VI={
  },
  "Westbahn Studios": {
   "src": [
-   "https://ra.co/events/2568237"
+   "https://ra.co/events/2568237",
+   "https://www.esel.at/de/event/eardrum--02xgY75yWgbIT0j7somKQc",
+   "https://ntry.at/schweben17",
+   "https://www.esel.at/de/location/loc_02w3FIR8YozISSzzcBoSbR"
   ],
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "io": [
    "Indoor"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-15",
+  "de": "Studio in der Preysinggasse in Rudolfsheim-Fünfhaus (1150). Spielort u. a. der Konzertreihe schweben von sama recordings und der Abschlussperformances der Eardrum-Residency von Ventil Records.",
+  "en": "Studio on Preysinggasse in Rudolfsheim-Fünfhaus (1150). Venue for, among others, the concert series schweben by sama recordings and the closing performances of Ventil Records' Eardrum residency."
  },
  "Prater Dome": {
   "src": [
@@ -6522,8 +6527,8 @@ const VI={
    "The Tunnel",
    "Machine Room"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "M1 Club": {
   "io": [
@@ -6612,7 +6617,7 @@ const VI={
    "Indoor"
   ],
   "logo": "https://loop.co.at/wp-content/uploads/2022/02/copy-loop-logo_white.jpg",
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-15",
   "ig": "https://www.instagram.com/loopwien/"
  },
  "Jaz in the City": {
@@ -6764,8 +6769,8 @@ const VI={
   ],
   "web": "https://www.hallmann-dome.at/",
   "opened": "1984",
-  "noLogo": "2026-11-11",
-  "infoChk": "2026-11-11"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "WUK": {
   "web": "https://www.wuk.at",
