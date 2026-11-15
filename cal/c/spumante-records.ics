@@ -83,7 +83,7 @@ BEGIN:VEVENT
 UID:2026-12-27-flut-x-callshop-radio-week-52@rave.wien
 DTSTAMP:20261227T000000Z
 DTSTART;TZID=Europe/Vienna:20261227T140000
-DTEND;TZID=Europe/Vienna:20261227T190000
+DTEND;TZID=Europe/Vienna:20261227T200000
 SUMMARY:FLUT x Callshop Radio – Week 52
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
 DESCRIPTION:Veranstalter: Callshop Radio\, Spumante Records\nEintritt fre
