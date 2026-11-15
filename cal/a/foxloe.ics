@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//rave.wien//Kalender//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:foxloe · rave.wien
+X-WR-CALNAME:Foxloe · rave.wien
 X-WR-TIMEZONE:Europe/Vienna
 X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
@@ -26,20 +26,22 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-13-club-fatale-w-krn@rave.wien
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Vienna:20261113T220000
-DTEND;TZID=Europe/Vienna:20261114T060000
-SUMMARY:club fatale w. KRN
-LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
-DESCRIPTION:KRN\, Alice (AT)\, foxloe\, Bambalan\nVeranstalter: Club Fata
- le\nEintritt: 20 €\n\nclub fatale kehrt ins Funkhaus zurück – laut 
- Ankündigung „reworked“ mit Void Acoustics und neuem Raumgefühl. He
- adliner ist KRN\, bekannt für tiefe\, weit gefächerte Selections. Dazu
-  spielen die lokalen Digger foxloe und Alice (AT) sowie Resident Bambala
- n. Genres laut RA: Techno\, House\; 18+. Preise: RA nannte 20 €\, das 
- Wochenend-Magazin von goodnight.at nennt 13 € Early Bird bzw. 18 € r
- egulär.\n\nhttps://rave.wien/e/2026-11-13-club-fatale-w-krn
-URL:https://rave.wien/e/2026-11-13-club-fatale-w-krn
+UID:2026-10-31-housetiere-w-chata@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T220000
+DTEND;TZID=Europe/Vienna:20261101T050000
+SUMMARY:Housetiere w/ Chata
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Chata\, Foxloe\, Julani\, Hanno\nVeranstalter: Housetiere\, E
+ ntrance\nEintritt: €10\n\nHousetiere lädt zum Halloween-Dance ins Tag
+ ada mit zwei Gästen und Warm-up. Chata stammt aus Georgien\, lebt in Pr
+ ag und gilt als aufstrebender Künstler mit dubbigen\, groovigen Basslin
+ es\; seine Sets bestehen aus sorgfältig ausgewählten Platten passend z
+ u seinen eigenen Produktionen. Support kommt von Foxloe vom Wiener Kolle
+ ktiv Entrance\, gebürtig aus Frankreich und fester Bestandteil der Wien
+ er House-Szene\, mit tiefem\, atmosphärischem Sound. Das Warm-up übern
+ ehmen Julani und Hanno. House und Dub Techno\, Eintritt 10 €\, 18+.\n\
+ nhttps://rave.wien/e/2026-10-31-housetiere-w-chata
+URL:https://rave.wien/e/2026-10-31-housetiere-w-chata
 END:VEVENT
 END:VCALENDAR

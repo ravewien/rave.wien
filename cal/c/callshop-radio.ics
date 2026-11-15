@@ -80,6 +80,20 @@ DESCRIPTION:Veranstalter: Callshop Radio\, Spumante Records\nEintritt fre
 URL:https://rave.wien/e/2026-12-13-flut-x-callshop-radio-week-50
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-27-flut-x-callshop-radio-week-52@rave.wien
+DTSTAMP:20261227T000000Z
+DTSTART;TZID=Europe/Vienna:20261227T140000
+DTEND;TZID=Europe/Vienna:20261227T190000
+SUMMARY:FLUT x Callshop Radio – Week 52
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Callshop Radio\, Spumante Records\nEintritt fre
+ i\n\nSonntägliche Ausgabe der Reihe FLUT x Callshop Radio am FLUCC Deck
+ \, präsentiert von Callshop Radio und Spumante\, in Kalenderwoche 52. B
+ eginn 14:00\, der Eintritt ist frei. Ein Lineup ist noch nicht veröffen
+ tlicht.\n\nhttps://rave.wien/e/2026-12-27-flut-x-callshop-radio-week-52
+URL:https://rave.wien/e/2026-12-27-flut-x-callshop-radio-week-52
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-01-flut-x-callshop-radio-week-44@rave.wien
 DTSTAMP:20261101T000000Z
 DTSTART;TZID=Europe/Vienna:20261101T140000

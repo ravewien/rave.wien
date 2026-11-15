@@ -26,6 +26,27 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-20-ambievent-trace-encounters@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T193000
+DTEND;TZID=Europe/Vienna:20261121T020000
+SUMMARY:AMBIEVENT – trace encounters
+LOCATION:Kollektiv Kaorle\, Baumgartner Höhe 1 (Otto Wagner Areal\, Pavi
+ llon 21)\, 1140 Wien
+DESCRIPTION:Ssaliva\, færo demonic\, Inou Ki Endo\, esti.d\, LCA\, Kenji
+  Araki\nVeranstalter: AMBIEVENT\nEintritt: 15 €\n\nAMBIEVENT „trace 
+ encounters“ ist als immersiver Ambient-Abend im Kollektiv Kaorle (Otto
+ -Wagner-Areal\, Pavillon 21) angelegt\, bei dem Klang\, Licht\, Duft und
+  Kunst zusammenwirken. Bühnendesign\, visuelle Kunst und sensorische El
+ emente sollen den Raum zur Erweiterung der Musik machen. Musikalisch sin
+ d Ssaliva\, færo demonic\, Inou Ki Endo\, esti.d und LCA angekündigt\,
+  Kenji Araki steuert eine Klanginstallation bei. Ein Ausstellungsraum ze
+ igt Arbeiten von Maximilian Prag\, einen eigens kreierten Duft liefert N
+ ēomirage. 19:00–02:00\, 15 €\, ab 18.\n\nhttps://rave.wien/e/2026-1
+ 1-20-ambievent-trace-encounters
+URL:https://rave.wien/e/2026-11-20-ambievent-trace-encounters
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-50-herz-sodomland@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T210000
@@ -49,26 +70,5 @@ DESCRIPTION:Kilroy\, Gush Valley\, Darina\, Darina & Djinn Sylva\, Sodoml
  f. Das Kaorle führt den Abend als Konzert.\n\nhttps://rave.wien/e/2026-
  11-13-50-herz-sodomland
 URL:https://rave.wien/e/2026-11-13-50-herz-sodomland
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-ambievent-trace-encounters@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T193000
-DTEND;TZID=Europe/Vienna:20261121T020000
-SUMMARY:AMBIEVENT – trace encounters
-LOCATION:Kollektiv Kaorle\, Baumgartner Höhe 1 (Otto Wagner Areal\, Pavi
- llon 21)\, 1140 Wien
-DESCRIPTION:Ssaliva\, færo demonic\, Inou Ki Endo\, esti.d\, LCA\, Kenji
-  Araki\nVeranstalter: AMBIEVENT\nEintritt: 15 €\n\nAMBIEVENT „trace 
- encounters“ ist als immersiver Ambient-Abend im Kollektiv Kaorle (Otto
- -Wagner-Areal\, Pavillon 21) angelegt\, bei dem Klang\, Licht\, Duft und
-  Kunst zusammenwirken. Bühnendesign\, visuelle Kunst und sensorische El
- emente sollen den Raum zur Erweiterung der Musik machen. Musikalisch sin
- d Ssaliva\, færo demonic\, Inou Ki Endo\, esti.d und LCA angekündigt\,
-  Kenji Araki steuert eine Klanginstallation bei. Ein Ausstellungsraum ze
- igt Arbeiten von Maximilian Prag\, einen eigens kreierten Duft liefert N
- ēomirage. 19:00–02:00\, 15 €\, ab 18.\n\nhttps://rave.wien/e/2026-1
- 1-20-ambievent-trace-encounters
-URL:https://rave.wien/e/2026-11-20-ambievent-trace-encounters
 END:VEVENT
 END:VCALENDAR

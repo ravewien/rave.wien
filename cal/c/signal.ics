@@ -26,25 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-13-fatima-hajji@rave.wien
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Vienna:20261113T230000
-DTEND;TZID=Europe/Vienna:20261114T060000
-SUMMARY:Fatima Hajji
-LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
-DESCRIPTION:Fatima Hajji\nVeranstalter: SIGNAL\nEintritt: 12–25 €\n\n
- SIGNAL präsentiert die in Spanien geborene DJ Fatima Hajji mit arabisch
- en Wurzeln\, deren Sound kraftvolle Tribal-Grooves mit energiegeladenem 
- modernem Techno verbindet. Sie legte mit 16 erstmals auf und spielte zu 
- Spitzenzeiten über 120 Shows pro Jahr. Auftritte führten sie u. a. zu 
- Awakenings\, Verknipt\, Monegros\, Medusa und Time Warp Spain sowie in C
- lubs wie Tresor Berlin\, Fabric London und Amnesia Ibiza. 2023 startete 
- sie ihre Reihe „Fatima Hajji Invites“ mit einem ausverkauften All-Ni
- ght-Long im Fabrik Madrid. Beginn 23:00\, Tickets 12–25 € (laut RA)\
- , Dresscode casual.\n\nhttps://rave.wien/e/2026-11-13-fatima-hajji
-URL:https://rave.wien/e/2026-11-13-fatima-hajji
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-20-pyramide-takeover-signal-festival@rave.wien
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Vienna:20261120T210000
@@ -185,5 +166,24 @@ DESCRIPTION:Max Styler\nVeranstalter: SIGNAL\nEintritt: 12–25 €\n\nSI
  größten Headline-Tour durch Nord- und Südamerika\, Großbritannien un
  d Europa.\n\nhttps://rave.wien/e/2026-11-06-max-styler
 URL:https://rave.wien/e/2026-11-06-max-styler
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-fatima-hajji@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T060000
+SUMMARY:Fatima Hajji
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Fatima Hajji\nVeranstalter: SIGNAL\nEintritt: 12–25 €\n\n
+ SIGNAL präsentiert die in Spanien geborene DJ Fatima Hajji mit arabisch
+ en Wurzeln\, deren Sound kraftvolle Tribal-Grooves mit energiegeladenem 
+ modernem Techno verbindet. Sie legte mit 16 erstmals auf und spielte zu 
+ Spitzenzeiten über 120 Shows pro Jahr. Auftritte führten sie u. a. zu 
+ Awakenings\, Verknipt\, Monegros\, Medusa und Time Warp Spain sowie in C
+ lubs wie Tresor Berlin\, Fabric London und Amnesia Ibiza. 2023 startete 
+ sie ihre Reihe „Fatima Hajji Invites“ mit einem ausverkauften All-Ni
+ ght-Long im Fabrik Madrid. Beginn 23:00\, Tickets 12–25 € (laut RA)\
+ , Dresscode casual.\n\nhttps://rave.wien/e/2026-11-13-fatima-hajji
+URL:https://rave.wien/e/2026-11-13-fatima-hajji
 END:VEVENT
 END:VCALENDAR

@@ -26,25 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-13-drum-bassick-x-radiance@rave.wien
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Vienna:20261113T235500
-DTEND;TZID=Europe/Vienna:20261114T050000
-SUMMARY:Drum & Bassick x Radiance
-LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
-DESCRIPTION:Dave & Bass\, Cybercutz\, Escapism\, I-Jin\, Synthesis\, Vibr
- ant\nVeranstalter: Drum & Bassick\, Radiance\nEintritt: 10 € (AK)\n\nD
- ie Reihen Drum & Bassick und Radiance tun sich im Club Lucia zusammen\, 
- um das ganze Spektrum von Drum & Bass auf einen Floor zu bringen. Sechs 
- lokale DJs decken alles von Neurofunk bis Liquid ab: Dave & Bass b2b Cyb
- ercutz\, Escapism\, I-Jin\, Synthesis und Vibrant. Angekündigt ist auß
- erdem ein B2B\, das „no one’s ever done before“\, Details verraten
-  die Veranstalter nicht. Beginn 23:55\, Ende 05:00\, Eintritt 10 € an 
- der Abendkasse.\n\nhttps://rave.wien/e/2026-11-13-drum-bassick-x-radianc
- e
-URL:https://rave.wien/e/2026-11-13-drum-bassick-x-radiance
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-27-high-voltage-fairies-in-the-pit-metal-x-dnb@rave.wien
 DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Vienna:20261127T230000
@@ -64,5 +45,24 @@ DESCRIPTION:AKOV\, Van:Hill\, Dave & Bass\, Rosi\, WNR\, Fairy Mary\nVera
  es-in-the-pit-metal-x-dnb
 URL:https://rave.wien/e/2026-11-27-high-voltage-fairies-in-the-pit-metal-
  x-dnb
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-drum-bassick-x-radiance@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T235500
+DTEND;TZID=Europe/Vienna:20261114T050000
+SUMMARY:Drum & Bassick x Radiance
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Dave & Bass\, Cybercutz\, Escapism\, I-Jin\, Synthesis\, Vibr
+ ant\nVeranstalter: Drum & Bassick\, Radiance\nEintritt: 10 € (AK)\n\nD
+ ie Reihen Drum & Bassick und Radiance tun sich im Club Lucia zusammen\, 
+ um das ganze Spektrum von Drum & Bass auf einen Floor zu bringen. Sechs 
+ lokale DJs decken alles von Neurofunk bis Liquid ab: Dave & Bass b2b Cyb
+ ercutz\, Escapism\, I-Jin\, Synthesis und Vibrant. Angekündigt ist auß
+ erdem ein B2B\, das „no one’s ever done before“\, Details verraten
+  die Veranstalter nicht. Beginn 23:55\, Ende 05:00\, Eintritt 10 € an 
+ der Abendkasse.\n\nhttps://rave.wien/e/2026-11-13-drum-bassick-x-radianc
+ e
+URL:https://rave.wien/e/2026-11-13-drum-bassick-x-radiance
 END:VEVENT
 END:VCALENDAR

@@ -26,6 +26,22 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-11-amore-ag-x-vnv-with-fafi-abdel-nour@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T230000
+DTEND;TZID=Europe/Vienna:20261212T040000
+SUMMARY:Amore AG x VNV with Fafi Abdel Nour
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Fafi Abdel Nour\nVeranstalter: Amore AG\, VNV\n\nClubnacht de
+ r Wiener Reihen Amore AG und VNV im FLUCC mit Fafi Abdel Nour als einzig
+ em bisher genanntem Act\, Beginn 23:00. Techno Airlines führt die Nacht
+  als Techno-Event und verlinkt das RA-Event 2578113 für Tickets. Auf fl
+ ucc.at ist der Termin noch nicht gelistet\, daher sind Floor\, Ende und 
+ Preis offen.\n\nhttps://rave.wien/e/2026-12-11-amore-ag-x-vnv-with-fafi-
+ abdel-nour
+URL:https://rave.wien/e/2026-12-11-amore-ag-x-vnv-with-fafi-abdel-nour
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-voyage-with-carl-h@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T230000
@@ -45,21 +61,5 @@ DESCRIPTION:Carl H\, Clem Vital\, Randalia\nVeranstalter: Frieden & Liebe
  ieden & Liebe und VNV.\n\nhttps://rave.wien/e/2026-11-13-voyage-with-car
  l-h
 URL:https://rave.wien/e/2026-11-13-voyage-with-carl-h
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-11-amore-ag-x-vnv-with-fafi-abdel-nour@rave.wien
-DTSTAMP:20261211T000000Z
-DTSTART;TZID=Europe/Vienna:20261211T230000
-DTEND;TZID=Europe/Vienna:20261212T040000
-SUMMARY:Amore AG x VNV with Fafi Abdel Nour
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Fafi Abdel Nour\nVeranstalter: Amore AG\, VNV\n\nClubnacht de
- r Wiener Reihen Amore AG und VNV im FLUCC mit Fafi Abdel Nour als einzig
- em bisher genanntem Act\, Beginn 23:00. Techno Airlines führt die Nacht
-  als Techno-Event und verlinkt das RA-Event 2578113 für Tickets. Auf fl
- ucc.at ist der Termin noch nicht gelistet\, daher sind Floor\, Ende und 
- Preis offen.\n\nhttps://rave.wien/e/2026-12-11-amore-ag-x-vnv-with-fafi-
- abdel-nour
-URL:https://rave.wien/e/2026-12-11-amore-ag-x-vnv-with-fafi-abdel-nour
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ŽEN · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-28-eroffnung-60-jahre-gastarbajt-die-verhaltnisse-zu@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T180000
+DTEND;TZID=Europe/Vienna:20261129T060000
+SUMMARY:Eröffnung 60 Jahre Gastarbajt – Die Verhältnisse zum Tanzen b
+ ringen – happiness as resistance
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:doplgenger\, Drei Küsse\, Hor 29. Novembar\, Marie Cherie\, 
+ Popsimonova\, Rolltreppe\, Virgin Helena\, ŽEN\n\nEröffnung der Ausste
+ llung zu 60 Jahren Anwerbeabkommen zwischen Österreich und Jugoslawien\
+ , kuratiert von Mikal Maldoror\, über alle Bereiche des FLUCC (Wanne\, 
+ Deck\, Cantina\, Terrassen\, Billboards\, Praterstern). Mit historischen
+  Fotos\, privaten Archiven und zeitgenössischer Kunst geht es um Arbeit
+ \, Ausgrenzung\, Selbstorganisation\, Solidarität und kollektive Freude
+ . Unter dem Motto Happiness as Resistance verbindet der Abend Vortrag\, 
+ Diskurs\, Film\, Performance\, Konzert und Clubkultur bis 06:00. Das Pro
+ gramm nennt u. a. doplgenger\, Drei Küsse\, Hor 29. Novembar\, Marie Ch
+ erie\, Popsimonova\, Rolltreppe\, Virgin Helena\, ŽEN sowie zahlreiche 
+ Vortragende und Kunstschaffende (z. B. Queer Museum Vienna\, Ljubomir Br
+ atić\, Vida Bakondy)\; eine Zuordnung zu Floors gibt es nicht.\n\nhttps
+ ://rave.wien/e/2026-11-28-eroffnung-60-jahre-gastarbajt-die-verhaltnisse
+ -zu
+URL:https://rave.wien/e/2026-11-28-eroffnung-60-jahre-gastarbajt-die-verh
+ altnisse-zu
+END:VEVENT
+END:VCALENDAR

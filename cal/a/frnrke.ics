@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-13-clubgewandte-free-entry@rave.wien
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Vienna:20261113T190000
-DTEND;TZID=Europe/Vienna:20261113T220000
-SUMMARY:Clubgewandte FREE ENTRY
-LOCATION:Angewandte PSK\, Georg-Coch-Platz 2\, 1010 Wien
-DESCRIPTION:luci jacuzzi\, FRNRKE\, A_Phan\, mel e logan\nVeranstalter: C
- lubgewandte\nEintritt frei\n\nClubgewandte lädt gemeinsam mit Pixel Vie
- nna in die Angewandte PSK am Georg-Coch-Platz zu Live-Musik\, DJ-Sets\, 
- Kunst und Pixel-Art. Es spielen luci jacuzzi\, FRNRKE x A_Phan und mel e
-  logan. Genres laut RA: Experimental\, Electronica. Eintritt frei.\n\nht
- tps://rave.wien/e/2026-11-13-clubgewandte-free-entry
-URL:https://rave.wien/e/2026-11-13-clubgewandte-free-entry
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-30-harmont-live-with-a-phan-frnrke@rave.wien
 DTSTAMP:20261130T000000Z
 DTSTART;TZID=Europe/Vienna:20261130T190000
@@ -57,5 +42,20 @@ DESCRIPTION:Harmont\, A_Phan\, FRNRKE\nEintritt: 15 €\n\nLive-Abend im
   Beginn 19:00\, Ende 23:00.\n\nhttps://rave.wien/e/2026-11-30-harmont-li
  ve-with-a-phan-frnrke
 URL:https://rave.wien/e/2026-11-30-harmont-live-with-a-phan-frnrke
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-clubgewandte-free-entry@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T190000
+DTEND;TZID=Europe/Vienna:20261113T220000
+SUMMARY:Clubgewandte FREE ENTRY
+LOCATION:Angewandte PSK\, Georg-Coch-Platz 2\, 1010 Wien
+DESCRIPTION:luci jacuzzi\, FRNRKE\, A_Phan\, mel e logan\nVeranstalter: C
+ lubgewandte\nEintritt frei\n\nClubgewandte lädt gemeinsam mit Pixel Vie
+ nna in die Angewandte PSK am Georg-Coch-Platz zu Live-Musik\, DJ-Sets\, 
+ Kunst und Pixel-Art. Es spielen luci jacuzzi\, FRNRKE x A_Phan und mel e
+  logan. Genres laut RA: Experimental\, Electronica. Eintritt frei.\n\nht
+ tps://rave.wien/e/2026-11-13-clubgewandte-free-entry
+URL:https://rave.wien/e/2026-11-13-clubgewandte-free-entry
 END:VEVENT
 END:VCALENDAR

@@ -26,27 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-13-zuckerwatt-w-mija@rave.wien
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Vienna:20261113T230000
-DTEND;TZID=Europe/Vienna:20261114T060000
-SUMMARY:Zuckerwatt w/ MIJA
-LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Mainfloor: MIJA\, PartyPauli\, Who is Ela¿\nKitchen (Cybertr
- ibe): DJ Backstage\, ENJA\, Spud Bencer\, Voltmarie\nVeranstalter: Zucke
- rwatt\, Cybertribe\nEintritt: VVK 16 - 20€ + Abendkasse\n\nZuckerwatt 
- holt MIJA in die Grelle Forelle\; die US-Künstlerin („Born to chill\,
-  forced to DJ“) ist eine vielseitige Multidisziplin-Artist und betreib
- t das DIY-Label Never B Alone\, dessen Releases die Artists gemeinsam au
- swählen. Ihre EPs „Summer Groove“ und „Soft Groove“ verbinden H
- ardgroove mit House\, Techno und Funk. Am Mainfloor spielen außerdem Pa
- rtyPauli und Who is Ela¿. Die Kitchen wird von Cybertribe gehostet mit 
- DJ Backstage\, ENJA\, Spud Bencer und Voltmarie. Einlass und Abendkassa 
- ab 23:00\, Vorverkauf über ticket.io.\n\nhttps://rave.wien/e/2026-11-13
- -zuckerwatt-w-mija
-URL:https://rave.wien/e/2026-11-13-zuckerwatt-w-mija
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-14-paradies-garten-w-paracek@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T230000
@@ -153,18 +132,19 @@ DESCRIPTION:Mainfloor: Eargasm God\, Who is Ela¿\, Distorgina\nVeranstal
 URL:https://rave.wien/e/2026-12-04-step-forward-pres-eargasm-god
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-07-ft-12@rave.wien
+UID:2026-12-07-feuchte-traume-roses-thorns@rave.wien
 DTSTAMP:20261207T000000Z
 DTSTART;TZID=Europe/Vienna:20261207T210000
 DTEND;TZID=Europe/Vienna:20261208T060000
-SUMMARY:FT — 12
+SUMMARY:Feuchte Träume – Roses & Thorns
 LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Veranstalter: Feuchte Träume\nEintritt: Early Bird 36\,16 
  € (Member 28\,93 €)\, danach 41\,81 / 44\,64 / 47\,46 €\n\nNur mit
   angenommener Online-Bewerbung\, keine Abendkasse\; personalisierte Tick
  ets\, Outfit erwartet\, Kameras abgeklebt\, Awareness-Team. Line-up folg
- t. Nacht vor dem Feiertag.\n\nhttps://rave.wien/e/2026-12-07-ft-12
-URL:https://rave.wien/e/2026-12-07-ft-12
+ t. Nacht vor dem Feiertag.\n\nhttps://rave.wien/e/2026-12-07-feuchte-tra
+ ume-roses-thorns
+URL:https://rave.wien/e/2026-12-07-feuchte-traume-roses-thorns
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-zuckerwatt-w-ellen-allien@rave.wien
@@ -286,5 +266,25 @@ DESCRIPTION:Prada2000\, Catlex\, Suitside\, Aschenbrenner\, DJ Parkverbot
  dreistündiges Extended Set\; es ist die letzte Mixed-Vienna-Ausgabe des
   Jahres.\n\nhttps://rave.wien/e/2026-11-07-mixed-vienna-w-prada2000
 URL:https://rave.wien/e/2026-11-07-mixed-vienna-w-prada2000
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-zuckerwatt-w-mija@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T060000
+SUMMARY:Zuckerwatt w/ MIJA
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:MIJA\, PartyPauli\, Who is Ela¿\, DJ Backstage\, ENJA\, Spud
+  Bencer\, Voltmarie\nVeranstalter: Zuckerwatt\, Cybertribe\nEintritt: VV
+ K 16 - 20€ + Abendkasse\n\nZuckerwatt holt MIJA in die Grelle Forelle\
+ ; die US-Künstlerin („Born to chill\, forced to DJ“) ist eine viels
+ eitige Multidisziplin-Artist und betreibt das DIY-Label Never B Alone\, 
+ dessen Releases die Artists gemeinsam auswählen. Ihre EPs „Summer Gro
+ ove“ und „Soft Groove“ verbinden Hardgroove mit House\, Techno und
+  Funk. Am Mainfloor spielen außerdem PartyPauli und Who is Ela¿. Die K
+ itchen wird von Cybertribe gehostet mit DJ Backstage\, ENJA\, Spud Bence
+ r und Voltmarie. Einlass und Abendkassa ab 23:00\, Vorverkauf über tick
+ et.io.\n\nhttps://rave.wien/e/2026-11-13-zuckerwatt-w-mija
+URL:https://rave.wien/e/2026-11-13-zuckerwatt-w-mija
 END:VEVENT
 END:VCALENDAR

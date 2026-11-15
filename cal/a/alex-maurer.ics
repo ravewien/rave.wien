@@ -26,6 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-10-31-halloween-the-tunegirl-live@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T230000
+DTEND;TZID=Europe/Vienna:20261101T060000
+SUMMARY:Halloween | The Tunegirl Live
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:The Tunegirl\, Alex Maurer\, Tezibel\, DJ Bottleghost\, DJ Ve
+ loziped\, Altroy Jerome\nEintritt: ab 15 €\n\nHalloween-Nacht in der G
+ relle Forelle mit The Tunegirl als Live-Act auf dem Mainfloor\, unterst
+ ützt von Alex Maurer und Tezibel. Den Kitchen-Floor bespielen DJ Bottle
+ ghost\, DJ Veloziped und Altroy Jerome. Einlass und Abendkasse ab 23:00\
+ , Vorverkauf über Eventim. Die Location selbst veröffentlicht keinen w
+ eiteren Beschreibungstext.\n\nhttps://rave.wien/e/2026-10-31-halloween-t
+ he-tunegirl-live
+URL:https://rave.wien/e/2026-10-31-halloween-the-tunegirl-live
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-deep-cut-dark-pressure@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T230000
@@ -46,22 +63,5 @@ DESCRIPTION:Alex Maurer\, Aura\, Oxygeno\, Melimeko\nVeranstalter: deep c
  führt das Event abweichend im Kramladen\; flucc.at nennt die FLUCC Wann
  e.\n\nhttps://rave.wien/e/2026-11-13-deep-cut-dark-pressure
 URL:https://rave.wien/e/2026-11-13-deep-cut-dark-pressure
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-31-halloween-the-tunegirl-live@rave.wien
-DTSTAMP:20261031T000000Z
-DTSTART;TZID=Europe/Vienna:20261031T230000
-DTEND;TZID=Europe/Vienna:20261101T060000
-SUMMARY:Halloween | The Tunegirl Live
-LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:The Tunegirl\, Alex Maurer\, Tezibel\, DJ Bottleghost\, DJ Ve
- loziped\, Altroy Jerome\nEintritt: ab 15 €\n\nHalloween-Nacht in der G
- relle Forelle mit The Tunegirl als Live-Act auf dem Mainfloor\, unterst
- ützt von Alex Maurer und Tezibel. Den Kitchen-Floor bespielen DJ Bottle
- ghost\, DJ Veloziped und Altroy Jerome. Einlass und Abendkasse ab 23:00\
- , Vorverkauf über Eventim. Die Location selbst veröffentlicht keinen w
- eiteren Beschreibungstext.\n\nhttps://rave.wien/e/2026-10-31-halloween-t
- he-tunegirl-live
-URL:https://rave.wien/e/2026-10-31-halloween-the-tunegirl-live
 END:VEVENT
 END:VCALENDAR

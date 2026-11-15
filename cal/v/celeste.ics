@@ -26,28 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-13-superego-records-labelnight-vantan-record-release@rave.wien
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Vienna:20261113T190000
-DTEND;TZID=Europe/Vienna:20261114T060000
-SUMMARY:Superego Records Labelnight + Vantan Record Release
-LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
-DESCRIPTION:Vantan\, RUG\, Marie Byrd Land\, Soulspin\, Dansmussen\, Siil
- i\, Punzmann\, Nava Hemyari\nVeranstalter: Superego Records\nEintritt: 1
- 8 €\n\nDas Wiener Label Superego Records übernimmt das Celeste für e
- ine bunte Nacht aus Live-Musik und DJ-Sets und feiert dabei die Album-Re
- lease-Show von Vantan. Live spielen laut aktuellem Celeste-Programm Vant
- an\, RUG und Nava Hemyari\; Marie Byrd Land stand nur im RA-Beschreibung
- stext und fehlt im Celeste-Programm. Danach legen die drei Crews auf: So
- ulspin (Club Désirée) mit Disco\, Italo\, Hi-NRG und Proto-House\, Dan
- smussen (Club Désirée)\, Siili (nomind\; im RA-Lineup „Silii“) mit
-  Minimal und House sowie Punzmann (Superego Records). Einlass 19:00\, DJ
- s ab 22:00\, Ende 06:00\, 18 €\, ab 18.\n\nhttps://rave.wien/e/2026-11
- -13-superego-records-labelnight-vantan-record-release
-URL:https://rave.wien/e/2026-11-13-superego-records-labelnight-vantan-rec
- ord-release
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-14-auslander-haus-vol-22@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T220000
@@ -184,5 +162,27 @@ DESCRIPTION:Armin Schmelz\, Annie High\, ADHS Lene\, Marc Græbnør\n\nCl
  arc Græbnør dabei. Preis\, Genres und Flyer sind auf der Seite des Cel
  este nicht angegeben.\n\nhttps://rave.wien/e/2026-11-07-invitation
 URL:https://rave.wien/e/2026-11-07-invitation
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-superego-records-labelnight-vantan-record-release@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T190000
+DTEND;TZID=Europe/Vienna:20261114T060000
+SUMMARY:Superego Records Labelnight + Vantan Record Release
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Vantan\, RUG\, Marie Byrd Land\, Soulspin\, Dansmussen\, Siil
+ i\, Punzmann\, Nava Hemyari\nVeranstalter: Superego Records\nEintritt: 1
+ 8 €\n\nDas Wiener Label Superego Records übernimmt das Celeste für e
+ ine bunte Nacht aus Live-Musik und DJ-Sets und feiert dabei die Album-Re
+ lease-Show von Vantan. Live spielen laut aktuellem Celeste-Programm Vant
+ an\, RUG und Nava Hemyari\; Marie Byrd Land stand nur im RA-Beschreibung
+ stext und fehlt im Celeste-Programm. Danach legen die drei Crews auf: So
+ ulspin (Club Désirée) mit Disco\, Italo\, Hi-NRG und Proto-House\, Dan
+ smussen (Club Désirée)\, Siili (nomind\; im RA-Lineup „Silii“) mit
+  Minimal und House sowie Punzmann (Superego Records). Einlass 19:00\, DJ
+ s ab 22:00\, Ende 06:00\, 18 €\, ab 18.\n\nhttps://rave.wien/e/2026-11
+ -13-superego-records-labelnight-vantan-record-release
+URL:https://rave.wien/e/2026-11-13-superego-records-labelnight-vantan-rec
+ ord-release
 END:VEVENT
 END:VCALENDAR

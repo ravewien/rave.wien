@@ -26,25 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-13-basstrace-soliparty@rave.wien
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Vienna:20261113T230000
-DTEND;TZID=Europe/Vienna:20261114T060000
-SUMMARY:Basstrace Soliparty
-LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
-DESCRIPTION:Nomid Ion\, Sarah Allen\, Basstrace Allstars\nVeranstalter: B
- asstrace\n\nSoliparty der Wiener Bass-Reihe Basstrace im Rhiz am Gürtel
-  (23:00–06:00). Laut Veranstalter ist Basstrace knapp bei Kasse und bi
- ttet um Unterstützung\, um finanziell wieder stabil zu werden und den n
- ächsten „Community Dance“ vorbereiten zu können. Es spielen Nomid 
- Ion (DE\, im Text mit „Preset“ genannt)\, Sarah Allen (AT\, „AMIKA
- L“) und die Basstrace Allstars\, verstärkt durch das Danubian Dub Sou
- ndsystem. Genres laut RA: Bass\, Dubstep. Ein Eintrittspreis ist weder b
- ei RA noch bei Techno Airlines angegeben.\n\nhttps://rave.wien/e/2026-11
- -13-basstrace-soliparty
-URL:https://rave.wien/e/2026-11-13-basstrace-soliparty
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-15-nomenklatur-w-great-area-pillbert-live@rave.wien
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Vienna:20261115T190000
@@ -77,14 +58,14 @@ DTSTART;TZID=Europe/Vienna:20261120T235900
 DTEND;TZID=Europe/Vienna:20261121T060000
 SUMMARY:GLITCH Vienna 001
 LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
-DESCRIPTION:KΛSKIN\, TenFifty\nVeranstalter: GLITCH\n\nAuftakt der House
- -Residency von GLITCH im Rhiz. GLITCH ist eine 2025 gegründete House-Ev
- entreihe (Verein GLITCH)\, ursprünglich mit kleinen Off-Location-Partys
-  in Kärnten. Es spielen KΛSKIN\, laut Veranstalter eines der ersten In
- die-Dance-Projekte Österreichs (aus Villach\, auch in Wien aktiv)\, und
-  das GLITCH-Resident-Tech-House-Projekt TenFifty (Grafenauer & KΛSKIN\,
-  Wien-Margareten). Weitere Acts sind angekündigt.\n\nhttps://rave.wien/
- e/2026-11-20-glitch-vienna-001
+DESCRIPTION:TenFifty\, Annzie\, High Chew\nVeranstalter: GLITCH\nEintritt
+  frei\n\nAuftakt der House-Residency von GLITCH im Rhiz. GLITCH ist eine
+  2025 gegründete House-Eventreihe (Verein GLITCH)\, ursprünglich mit k
+ leinen Off-Location-Partys in Kärnten. Es spielen KΛSKIN\, laut Verans
+ talter eines der ersten Indie-Dance-Projekte Österreichs (aus Villach\,
+  auch in Wien aktiv)\, und das GLITCH-Resident-Tech-House-Projekt TenFif
+ ty (Grafenauer & KΛSKIN\, Wien-Margareten). Weitere Acts sind angekünd
+ igt.\n\nhttps://rave.wien/e/2026-11-20-glitch-vienna-001
 URL:https://rave.wien/e/2026-11-20-glitch-vienna-001
 END:VEVENT
 BEGIN:VEVENT
@@ -145,5 +126,24 @@ DESCRIPTION:adrialin\, Enoltra\, The Bear\, gåpe\, wert\, Luminoise\, Ni
  Nikø Nøx und Zer0Ton1n b2b RIETVELD. 23:00–06:00\, 5 €\, ab 18.\n\
  nhttps://rave.wien/e/2026-11-07-cosmic-birthrave
 URL:https://rave.wien/e/2026-11-07-cosmic-birthrave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-basstrace-soliparty@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T060000
+SUMMARY:Basstrace Soliparty
+LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
+DESCRIPTION:Nomid Ion\, Sarah Allen\, Basstrace Allstars\nVeranstalter: B
+ asstrace\n\nSoliparty der Wiener Bass-Reihe Basstrace im Rhiz am Gürtel
+  (23:00–06:00). Laut Veranstalter ist Basstrace knapp bei Kasse und bi
+ ttet um Unterstützung\, um finanziell wieder stabil zu werden und den n
+ ächsten „Community Dance“ vorbereiten zu können. Es spielen Nomid 
+ Ion (DE\, im Text mit „Preset“ genannt)\, Sarah Allen (AT\, „AMIKA
+ L“) und die Basstrace Allstars\, verstärkt durch das Danubian Dub Sou
+ ndsystem. Genres laut RA: Bass\, Dubstep. Ein Eintrittspreis ist weder b
+ ei RA noch bei Techno Airlines angegeben.\n\nhttps://rave.wien/e/2026-11
+ -13-basstrace-soliparty
+URL:https://rave.wien/e/2026-11-13-basstrace-soliparty
 END:VEVENT
 END:VCALENDAR

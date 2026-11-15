@@ -26,49 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-13-queertactics-festival-party@rave.wien
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Vienna:20261113T200000
-DTEND;TZID=Europe/Vienna:20261114T040000
-SUMMARY:Queertactics Festival Party
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:MZTAY\, DAFFODRILLS\, PHAEDRA\, Algoriddim Girls\nVeranstalte
- r: Queertactics\nEintritt frei\n\nDie Queertactics Festival Party kehrt 
- aufs FLUCC Deck zurück und mischt Club-Sounds mit Live-Musik\, Eintritt
-  frei. MZTAY eröffnet (20:00) mit Grooves zwischen Alternative R&B\, Ho
- use\, Hip-Hop und Bounce\, danach spielt DAFFODRILLS (21:30) Ghetto Hous
- e\, Jersey Club\, Baile Funk und Bubbling. Um 23:00 folgt PHAEDRA mit Li
- ve-Performance und Set\, die Gesang\, elektronische Sounds und lateiname
- rikanische Rhythmen mit Themen wie Widerstand\, Sehnsucht und Freiheit v
- erbindet. Zum Abschluss spielen die ALGORIDDIM GIRLS von 01:00 bis 04:00
-  ein b2b-Doppelset aus Bass\, Percussion und globalen Club-Einflüssen. 
- Ein Awareness-Team ist vor Ort.\n\nhttps://rave.wien/e/2026-11-13-queert
- actics-festival-party
-URL:https://rave.wien/e/2026-11-13-queertactics-festival-party
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-13-deep-cut-dark-pressure@rave.wien
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Vienna:20261113T230000
-DTEND;TZID=Europe/Vienna:20261114T060000
-SUMMARY:deep cut × Dark Pressure
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Alex Maurer\, Aura\, Oxygeno\, Melimeko\nVeranstalter: deep c
- ut\, Dark Pressure\nEintritt: 15 € VVK / 18 € AK\n\ndeep cut und Dar
- k Pressure präsentieren eine Nacht mit hypnotischem und deepem Techno i
- n der FLUCC Wanne. Hauptgast ist Oxygeno aus Spanien\, der rohe\, emotio
- nale Produktionen u. a. auf Mord\, Axis\, Semantica\, Non Series und Som
- a veröffentlicht hat\, das Label Lost Verses betreibt und international
-  neben Jeff Mills\, Oscar Mulero und Ø [Phase] spielte. Alex Maurer (Tu
- rbo) eröffnet um 23:00\, um 00:45 feiert Aura Premiere\, das dawless Li
- ve-Projekt von Dcascallana und pezel. Oxygeno spielt ab 02:15\, Melimeko
-  (RAW Session) schließt von 04:15 bis 06:00. Tickets 15 € im VVK\, 18
-  € an der Abendkasse\; Flyer-Artwork von Martin Daxinger. frey-tag.at 
- führt das Event abweichend im Kramladen\; flucc.at nennt die FLUCC Wann
- e.\n\nhttps://rave.wien/e/2026-11-13-deep-cut-dark-pressure
-URL:https://rave.wien/e/2026-11-13-deep-cut-dark-pressure
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-14-fifi-x-schrodinger-s-groove@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T230000
@@ -249,6 +206,32 @@ DESCRIPTION:Veranstalter: Luv Affair\n\nLuv Affair auf beiden Floors (Wan
 URL:https://rave.wien/e/2026-11-27-luv-affair
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-eroffnung-60-jahre-gastarbajt-die-verhaltnisse-zu@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T180000
+DTEND;TZID=Europe/Vienna:20261129T060000
+SUMMARY:Eröffnung 60 Jahre Gastarbajt – Die Verhältnisse zum Tanzen b
+ ringen – happiness as resistance
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:doplgenger\, Drei Küsse\, Hor 29. Novembar\, Marie Cherie\, 
+ Popsimonova\, Rolltreppe\, Virgin Helena\, ŽEN\n\nEröffnung der Ausste
+ llung zu 60 Jahren Anwerbeabkommen zwischen Österreich und Jugoslawien\
+ , kuratiert von Mikal Maldoror\, über alle Bereiche des FLUCC (Wanne\, 
+ Deck\, Cantina\, Terrassen\, Billboards\, Praterstern). Mit historischen
+  Fotos\, privaten Archiven und zeitgenössischer Kunst geht es um Arbeit
+ \, Ausgrenzung\, Selbstorganisation\, Solidarität und kollektive Freude
+ . Unter dem Motto Happiness as Resistance verbindet der Abend Vortrag\, 
+ Diskurs\, Film\, Performance\, Konzert und Clubkultur bis 06:00. Das Pro
+ gramm nennt u. a. doplgenger\, Drei Küsse\, Hor 29. Novembar\, Marie Ch
+ erie\, Popsimonova\, Rolltreppe\, Virgin Helena\, ŽEN sowie zahlreiche 
+ Vortragende und Kunstschaffende (z. B. Queer Museum Vienna\, Ljubomir Br
+ atić\, Vida Bakondy)\; eine Zuordnung zu Floors gibt es nicht.\n\nhttps
+ ://rave.wien/e/2026-11-28-eroffnung-60-jahre-gastarbajt-die-verhaltnisse
+ -zu
+URL:https://rave.wien/e/2026-11-28-eroffnung-60-jahre-gastarbajt-die-verh
+ altnisse-zu
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-flut-x-callshop-radio-week-48@rave.wien
 DTSTAMP:20261129T000000Z
 DTSTART;TZID=Europe/Vienna:20261129T140000
@@ -383,6 +366,20 @@ DESCRIPTION:Veranstalter: Callshop Radio\, Spumante Records\nEintritt fre
  eams ist die Deck-Bar geöffnet\, das DJ-Lineup ist noch nicht angekünd
  igt.\n\nhttps://rave.wien/e/2026-12-13-flut-x-callshop-radio-week-50
 URL:https://rave.wien/e/2026-12-13-flut-x-callshop-radio-week-50
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-flut-x-callshop-radio-week-52@rave.wien
+DTSTAMP:20261227T000000Z
+DTSTART;TZID=Europe/Vienna:20261227T140000
+DTEND;TZID=Europe/Vienna:20261227T190000
+SUMMARY:FLUT x Callshop Radio – Week 52
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: Callshop Radio\, Spumante Records\nEintritt fre
+ i\n\nSonntägliche Ausgabe der Reihe FLUT x Callshop Radio am FLUCC Deck
+ \, präsentiert von Callshop Radio und Spumante\, in Kalenderwoche 52. B
+ eginn 14:00\, der Eintritt ist frei. Ein Lineup ist noch nicht veröffen
+ tlicht.\n\nhttps://rave.wien/e/2026-12-27-flut-x-callshop-radio-week-52
+URL:https://rave.wien/e/2026-12-27-flut-x-callshop-radio-week-52
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-drahthaus-album-release-show-x-toga@rave.wien
@@ -608,5 +605,48 @@ DESCRIPTION:The Res\, Drehli Robnik\nEintritt: 10 € (nur Abendkasse)\n\
  krichtung nennt das FLUCC nicht.\n\nhttps://rave.wien/e/2026-11-08-sonnt
  ag-sdisco-vol-28-w-the-res
 URL:https://rave.wien/e/2026-11-08-sonntag-sdisco-vol-28-w-the-res
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-queertactics-festival-party@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T200000
+DTEND;TZID=Europe/Vienna:20261114T040000
+SUMMARY:Queertactics Festival Party
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:MZTAY\, DAFFODRILLS\, PHAEDRA\, Algoriddim Girls\nVeranstalte
+ r: Queertactics\nEintritt frei\n\nDie Queertactics Festival Party kehrt 
+ aufs FLUCC Deck zurück und mischt Club-Sounds mit Live-Musik\, Eintritt
+  frei. MZTAY eröffnet (20:00) mit Grooves zwischen Alternative R&B\, Ho
+ use\, Hip-Hop und Bounce\, danach spielt DAFFODRILLS (21:30) Ghetto Hous
+ e\, Jersey Club\, Baile Funk und Bubbling. Um 23:00 folgt PHAEDRA mit Li
+ ve-Performance und Set\, die Gesang\, elektronische Sounds und lateiname
+ rikanische Rhythmen mit Themen wie Widerstand\, Sehnsucht und Freiheit v
+ erbindet. Zum Abschluss spielen die ALGORIDDIM GIRLS von 01:00 bis 04:00
+  ein b2b-Doppelset aus Bass\, Percussion und globalen Club-Einflüssen. 
+ Ein Awareness-Team ist vor Ort.\n\nhttps://rave.wien/e/2026-11-13-queert
+ actics-festival-party
+URL:https://rave.wien/e/2026-11-13-queertactics-festival-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-deep-cut-dark-pressure@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T060000
+SUMMARY:deep cut × Dark Pressure
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Alex Maurer\, Aura\, Oxygeno\, Melimeko\nVeranstalter: deep c
+ ut\, Dark Pressure\nEintritt: 15 € VVK / 18 € AK\n\ndeep cut und Dar
+ k Pressure präsentieren eine Nacht mit hypnotischem und deepem Techno i
+ n der FLUCC Wanne. Hauptgast ist Oxygeno aus Spanien\, der rohe\, emotio
+ nale Produktionen u. a. auf Mord\, Axis\, Semantica\, Non Series und Som
+ a veröffentlicht hat\, das Label Lost Verses betreibt und international
+  neben Jeff Mills\, Oscar Mulero und Ø [Phase] spielte. Alex Maurer (Tu
+ rbo) eröffnet um 23:00\, um 00:45 feiert Aura Premiere\, das dawless Li
+ ve-Projekt von Dcascallana und pezel. Oxygeno spielt ab 02:15\, Melimeko
+  (RAW Session) schließt von 04:15 bis 06:00. Tickets 15 € im VVK\, 18
+  € an der Abendkasse\; Flyer-Artwork von Martin Daxinger. frey-tag.at 
+ führt das Event abweichend im Kramladen\; flucc.at nennt die FLUCC Wann
+ e.\n\nhttps://rave.wien/e/2026-11-13-deep-cut-dark-pressure
+URL:https://rave.wien/e/2026-11-13-deep-cut-dark-pressure
 END:VEVENT
 END:VCALENDAR

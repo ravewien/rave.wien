@@ -26,6 +26,22 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-27-vivid-frieden-liebe@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T230000
+DTEND;TZID=Europe/Vienna:20261128T060000
+SUMMARY:Vivid – Frieden & Liebe
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Vivid\nVeranstalter: Frieden & Liebe\nEintritt: 10–15 €\n
+ \nVivid\, präsentiert von Frieden & Liebe (@friedenundliebe.vienna)\, i
+ m SASS Music Club von 23 bis 6 Uhr\; ein detailliertes Line-up ist noch 
+ nicht veröffentlicht. Der Eintritt beträgt 10–15 €\, ein Willkomme
+ nsgetränk ist inklusive. Alle SASS-Veranstaltungen werden von einem Awa
+ reness-Team begleitet\; Einlass ab 18 mit Ausweis- und Taschenkontrolle.
+ \n\nhttps://rave.wien/e/2026-11-27-vivid-frieden-liebe
+URL:https://rave.wien/e/2026-11-27-vivid-frieden-liebe
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-voyage-with-carl-h@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T230000
@@ -45,21 +61,5 @@ DESCRIPTION:Carl H\, Clem Vital\, Randalia\nVeranstalter: Frieden & Liebe
  ieden & Liebe und VNV.\n\nhttps://rave.wien/e/2026-11-13-voyage-with-car
  l-h
 URL:https://rave.wien/e/2026-11-13-voyage-with-carl-h
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-27-vivid-frieden-liebe@rave.wien
-DTSTAMP:20261127T000000Z
-DTSTART;TZID=Europe/Vienna:20261127T230000
-DTEND;TZID=Europe/Vienna:20261128T060000
-SUMMARY:Vivid – Frieden & Liebe
-LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Vivid\nVeranstalter: Frieden & Liebe\nEintritt: 10–15 €\n
- \nVivid\, präsentiert von Frieden & Liebe (@friedenundliebe.vienna)\, i
- m SASS Music Club von 23 bis 6 Uhr\; ein detailliertes Line-up ist noch 
- nicht veröffentlicht. Der Eintritt beträgt 10–15 €\, ein Willkomme
- nsgetränk ist inklusive. Alle SASS-Veranstaltungen werden von einem Awa
- reness-Team begleitet\; Einlass ab 18 mit Ausweis- und Taschenkontrolle.
- \n\nhttps://rave.wien/e/2026-11-27-vivid-frieden-liebe
-URL:https://rave.wien/e/2026-11-27-vivid-frieden-liebe
 END:VEVENT
 END:VCALENDAR

@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-13-dyst-pia-rave-with-schellt@rave.wien
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Vienna:20261113T230000
-DTEND;TZID=Europe/Vienna:20261114T040000
-SUMMARY:DYSTØPIA RAVE with SCHELLT
-LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:SCHELLT\, Kamafaka\nVeranstalter: Dystopia Rave\n\nDYSTØPIA 
- RAVE ist eine Techno-Reihe im Werk\; diese Ausgabe steht im Zeichen von 
- SCHELLT als Hauptact\, dazu spielt Kamafaka. Tickets gibt es über Resid
- ent Advisor. Beginn 23 Uhr\; Ende und Preis wurden bisher nicht veröffe
- ntlicht. Im Werk gilt laut Hausregel ein Mindestalter von 21 Jahren.\n\n
- https://rave.wien/e/2026-11-13-dyst-pia-rave-with-schellt
-URL:https://rave.wien/e/2026-11-13-dyst-pia-rave-with-schellt
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-14-herzfrequenz-herzi-f2f-edition@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T230000
@@ -81,15 +66,16 @@ DTSTART;TZID=Europe/Vienna:20261120T230000
 DTEND;TZID=Europe/Vienna:20261121T060000
 SUMMARY:Synergy Rave x Trance + Hard Techno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy\, KARTELL.FM\, HEKTISCH\nEintritt: VVK 
- 15 € / Early Bird 10 €\; AK 15 €\, ab 00:00 18 €\n\nSynergy Rave
-  bringt Trance und Hard Techno auf zwei Floors ins Werk: Auf dem Lusterf
- loor kuratiert KARTELL.FM von 23 bis 6 Uhr Trance & Bounce\, auf dem Las
- terfloor übernimmt HEKTISCH von 0 bis 6 Uhr mit Hard Techno. Weitere Ac
- ts sind noch nicht bekannt. Early Bird 10 €\, Vorverkauf 15 €\, Aben
- dkasse 15 € bzw. 18 € ab Mitternacht\; Einlass ab 18. Zero Tolerance
-  gegenüber Homophobie\, Sexismus und Rassismus.\n\nhttps://rave.wien/e/
- 2026-11-20-synergy-rave-x-trance-hard-techno
+DESCRIPTION:DJ Böhm\, Comrade Martin\, Dan.P\, L4NC3\, Dimitrios\, DJ FE
+ RRARI\, Tactical Delay\, presso\nVeranstalter: Synergy\, KARTELL.FM\, HE
+ KTISCH\nEintritt: VVK 15 € / Early Bird 10 €\; AK 15 €\, ab 00:00 
+ 18 €\n\nSynergy Rave bringt Trance und Hard Techno auf zwei Floors ins
+  Werk: Auf dem Lusterfloor kuratiert KARTELL.FM von 23 bis 6 Uhr Trance 
+ & Bounce\, auf dem Lasterfloor übernimmt HEKTISCH von 0 bis 6 Uhr mit H
+ ard Techno. Weitere Acts sind noch nicht bekannt. Early Bird 10 €\, Vo
+ rverkauf 15 €\, Abendkasse 15 € bzw. 18 € ab Mitternacht\; Einlass
+  ab 18. Zero Tolerance gegenüber Homophobie\, Sexismus und Rassismus.\n
+ \nhttps://rave.wien/e/2026-11-20-synergy-rave-x-trance-hard-techno
 URL:https://rave.wien/e/2026-11-20-synergy-rave-x-trance-hard-techno
 END:VEVENT
 BEGIN:VEVENT
@@ -133,10 +119,11 @@ DTSTART;TZID=Europe/Vienna:20261127T230000
 DTEND;TZID=Europe/Vienna:20261128T040000
 SUMMARY:Resident Night: GOLPE // DETOXX
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:GOLPE\, DETOXX\n\nResident Night im Werk mit GOLPE und DETOXX
- \, Beginn 23:00. Laut Programm des Werks spielen die beiden Residents\; 
- weitere Acts\, Preise und Tickets sind noch nicht angekündigt.\n\nhttps
- ://rave.wien/e/2026-11-27-resident-night-golpe-detoxx
+DESCRIPTION:DETOXX\, GOLPE\, DJ Wifi\, Kingsmo\n\nResident Night im Werk 
+ mit GOLPE und DETOXX\, Beginn 23:00. Laut Programm des Werks spielen die
+  beiden Residents\; weitere Acts\, Preise und Tickets sind noch nicht an
+ gekündigt.\n\nhttps://rave.wien/e/2026-11-27-resident-night-golpe-detox
+ x
 URL:https://rave.wien/e/2026-11-27-resident-night-golpe-detoxx
 END:VEVENT
 BEGIN:VEVENT
@@ -185,19 +172,19 @@ DESCRIPTION:Veranstalter: FromDuskTillDawn\, Psytrance Universe\n\nPsytra
 URL:https://rave.wien/e/2026-12-12-psytrance-universe-werk
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-18-herzfrequenz@rave.wien
+UID:2026-12-18-herzfrequenz-weekender-day-1@rave.wien
 DTSTAMP:20261218T000000Z
 DTSTART;TZID=Europe/Vienna:20261218T230000
 DTEND;TZID=Europe/Vienna:20261219T040000
-SUMMARY:HERZFREQUENZ
+SUMMARY:HERZFREQUENZ WEEKENDER: DAY 1
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Joey\, Kø:lab\, carlo kalu\, HNAS\nVeranstalter: Herzfrequen
  z\n\nAuftakt des zweitägigen HERZFREQUENZ Weekenders im Werk (Tag 1\, a
  b 23:00). Angekündigt sind Joey\, Kø:lab\, carlo kalu und HNAS\; am Fo
  lgetag (19.12.) geht der Weekender mit Joey und Amøn weiter. Preise sin
  d noch nicht veröffentlicht\, Tickets über Resident Advisor.\n\nhttps:
- //rave.wien/e/2026-12-18-herzfrequenz
-URL:https://rave.wien/e/2026-12-18-herzfrequenz
+ //rave.wien/e/2026-12-18-herzfrequenz-weekender-day-1
+URL:https://rave.wien/e/2026-12-18-herzfrequenz-weekender-day-1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-herzfrequenz-weekender-day-2@rave.wien
@@ -206,11 +193,14 @@ DTSTART;TZID=Europe/Vienna:20261219T230000
 DTEND;TZID=Europe/Vienna:20261220T040000
 SUMMARY:HERZFREQUENZ WEEKENDER: DAY 2
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Joey\, Amøn\nVeranstalter: Herzfrequenz\n\nZweiter Tag des H
- ERZFREQUENZ Weekenders im Werk ab 23:00\, nach dem Auftakt am 18.12. Ang
- ekündigt sind Joey und Amøn. Preis\, Ende und Flyer sind noch nicht ve
- röffentlicht.\n\nhttps://rave.wien/e/2026-12-19-herzfrequenz-weekender-
- day-2
+DESCRIPTION:Joey\, Amøn\nVeranstalter: Herzfrequenz\n\nDas Herzfrequenz 
+ Weekender geht im Werk über zwei Nächte\, Day 2 startet am Samstag um 
+ 23:00 Uhr. Im Mittelpunkt steht Joey\, der österreichische DJ Johannes 
+ Turpel\, der auf den Labels The Finest Techno und HERZFREQUENZ vertreten
+  ist und unter dem Motto „Loud & Louder. Hard & Harder.“ für harten
+ \, lauten Techno steht. Dazu spielt Amøn. Bereits am Vorabend (18.12.) 
+ läuft Day 1 mit Joey\, Kø:lab\, carlo kalu\, HNAS und weiteren Acts.\n
+ \nhttps://rave.wien/e/2026-12-19-herzfrequenz-weekender-day-2
 URL:https://rave.wien/e/2026-12-19-herzfrequenz-weekender-day-2
 END:VEVENT
 BEGIN:VEVENT
@@ -365,5 +355,20 @@ DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentliche Rave am M
  ne-up dieser Ausgabe ist noch nicht veröffentlicht.\n\nhttps://rave.wie
  n/e/2026-11-11-rave-am-mittwoch
 URL:https://rave.wien/e/2026-11-11-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-dyst-pia-rave-with-schellt@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T040000
+SUMMARY:DYSTØPIA RAVE with SCHELLT
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:SCHELLT\, Kamafaka\nVeranstalter: Dystopia Rave\n\nDYSTØPIA 
+ RAVE ist eine Techno-Reihe im Werk\; diese Ausgabe steht im Zeichen von 
+ SCHELLT als Hauptact\, dazu spielt Kamafaka. Tickets gibt es über Resid
+ ent Advisor. Beginn 23 Uhr\; Ende und Preis wurden bisher nicht veröffe
+ ntlicht. Im Werk gilt laut Hausregel ein Mindestalter von 21 Jahren.\n\n
+ https://rave.wien/e/2026-11-13-dyst-pia-rave-with-schellt
+URL:https://rave.wien/e/2026-11-13-dyst-pia-rave-with-schellt
 END:VEVENT
 END:VCALENDAR

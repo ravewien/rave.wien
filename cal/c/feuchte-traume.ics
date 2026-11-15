@@ -26,17 +26,18 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-12-07-ft-12@rave.wien
+UID:2026-12-07-feuchte-traume-roses-thorns@rave.wien
 DTSTAMP:20261207T000000Z
 DTSTART;TZID=Europe/Vienna:20261207T210000
 DTEND;TZID=Europe/Vienna:20261208T060000
-SUMMARY:FT — 12
+SUMMARY:Feuchte Träume – Roses & Thorns
 LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Veranstalter: Feuchte Träume\nEintritt: Early Bird 36\,16 
  € (Member 28\,93 €)\, danach 41\,81 / 44\,64 / 47\,46 €\n\nNur mit
   angenommener Online-Bewerbung\, keine Abendkasse\; personalisierte Tick
  ets\, Outfit erwartet\, Kameras abgeklebt\, Awareness-Team. Line-up folg
- t. Nacht vor dem Feiertag.\n\nhttps://rave.wien/e/2026-12-07-ft-12
-URL:https://rave.wien/e/2026-12-07-ft-12
+ t. Nacht vor dem Feiertag.\n\nhttps://rave.wien/e/2026-12-07-feuchte-tra
+ ume-roses-thorns
+URL:https://rave.wien/e/2026-12-07-feuchte-traume-roses-thorns
 END:VEVENT
 END:VCALENDAR

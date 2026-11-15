@@ -26,25 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-13-drum-bassick-x-radiance@rave.wien
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Vienna:20261113T235500
-DTEND;TZID=Europe/Vienna:20261114T050000
-SUMMARY:Drum & Bassick x Radiance
-LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
-DESCRIPTION:Dave & Bass\, Cybercutz\, Escapism\, I-Jin\, Synthesis\, Vibr
- ant\nVeranstalter: Drum & Bassick\, Radiance\nEintritt: 10 € (AK)\n\nD
- ie Reihen Drum & Bassick und Radiance tun sich im Club Lucia zusammen\, 
- um das ganze Spektrum von Drum & Bass auf einen Floor zu bringen. Sechs 
- lokale DJs decken alles von Neurofunk bis Liquid ab: Dave & Bass b2b Cyb
- ercutz\, Escapism\, I-Jin\, Synthesis und Vibrant. Angekündigt ist auß
- erdem ein B2B\, das „no one’s ever done before“\, Details verraten
-  die Veranstalter nicht. Beginn 23:55\, Ende 05:00\, Eintritt 10 € an 
- der Abendkasse.\n\nhttps://rave.wien/e/2026-11-13-drum-bassick-x-radianc
- e
-URL:https://rave.wien/e/2026-11-13-drum-bassick-x-radiance
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-14-raqsouna-invites-gaouta@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T233000
@@ -195,11 +176,12 @@ DTEND;TZID=Europe/Vienna:20261212T050000
 SUMMARY:TAKTGEFÜHL Vol. 2
 LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
 DESCRIPTION:KWEEN BEE\, Chiara Allnutt\, L.O.S.S.\nVeranstalter: Taktgef
- ühl\nEintritt: 12–15 €\n\nZweite Ausgabe der Reihe TAKTGEFÜHL im C
- lub Lucia\, zwischen Groove\, Techno und Trance. KWEEN BEE spielt schnel
- len Techno mit funkigen Elementen\, Chiara Allnutt groovigen\, uptempo T
- echno. L.O.S.S. bringt eine Sammlung alter Trance-CDs mit.\n\nhttps://ra
- ve.wien/e/2026-12-11-taktgefuhl-vol-2
+ ühl\nEintritt: 12–15 €\n\nDie Reihe Taktgefühl geht im Club Lucia 
+ in die zweite Runde und verbindet Trance und Techno. Hinter den Decks st
+ ehen KWEEN BEE\, Chiara Allnutt und L.O.S.S. Die Nacht läuft von 23:30 
+ bis 05:00 Uhr im Club Lucia in den Stadtbahnbögen. Tickets gibt es übe
+ r Eventjet\, Einlass ab 18 Jahren.\n\nhttps://rave.wien/e/2026-12-11-tak
+ tgefuhl-vol-2
 URL:https://rave.wien/e/2026-12-11-taktgefuhl-vol-2
 END:VEVENT
 BEGIN:VEVENT
@@ -294,5 +276,24 @@ DESCRIPTION:POSTSCRIPTUM\, FESH\, Adam19\, Antone\, Dudas\, Chris Eru\, M
   Rassismus\, Sexismus\, Faschismus oder andere Formen von Hass und Gewal
  t.\n\nhttps://rave.wien/e/2026-11-11-kostlich-x-gurtelgroove
 URL:https://rave.wien/e/2026-11-11-kostlich-x-gurtelgroove
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-drum-bassick-x-radiance@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T235500
+DTEND;TZID=Europe/Vienna:20261114T050000
+SUMMARY:Drum & Bassick x Radiance
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Dave & Bass\, Cybercutz\, Escapism\, I-Jin\, Synthesis\, Vibr
+ ant\nVeranstalter: Drum & Bassick\, Radiance\nEintritt: 10 € (AK)\n\nD
+ ie Reihen Drum & Bassick und Radiance tun sich im Club Lucia zusammen\, 
+ um das ganze Spektrum von Drum & Bass auf einen Floor zu bringen. Sechs 
+ lokale DJs decken alles von Neurofunk bis Liquid ab: Dave & Bass b2b Cyb
+ ercutz\, Escapism\, I-Jin\, Synthesis und Vibrant. Angekündigt ist auß
+ erdem ein B2B\, das „no one’s ever done before“\, Details verraten
+  die Veranstalter nicht. Beginn 23:55\, Ende 05:00\, Eintritt 10 € an 
+ der Abendkasse.\n\nhttps://rave.wien/e/2026-11-13-drum-bassick-x-radianc
+ e
+URL:https://rave.wien/e/2026-11-13-drum-bassick-x-radiance
 END:VEVENT
 END:VCALENDAR

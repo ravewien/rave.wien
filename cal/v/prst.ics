@@ -26,27 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-13-voyage-with-carl-h@rave.wien
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Vienna:20261113T230000
-DTEND;TZID=Europe/Vienna:20261114T060000
-SUMMARY:VOYAGE with Carl H
-LOCATION:PRST\, Praterstraße 18\, 1020 Wien
-DESCRIPTION:Carl H\, Clem Vital\, Randalia\nVeranstalter: Frieden & Liebe
- \, VNV\nEintritt: 17\,61 €\n\nZweite Ausgabe von VOYAGE im PRST: eine 
- Nacht mit ungewöhnlichen\, psychedelischen Raritäten und progressiven 
- Rhythmen. Headliner ist Carl H (Acid Operators)\, Labelchef von Animals 
- on Psychedelics\, der in Europa\, Asien und Amerika aufgelegt hat\; dazu
-  spielt Randalia (Clem Vital). Erwartet werden progressive Kuriositäten
- \, trance-inspirierte Fundstücke und genreübergreifende Dancefloor-Mus
- ik. RA taggt House. Beginn 23:00\, Ende 06:00\, 17\,61 € (Tickets übe
- r Eventfrog)\, ab 21. Hinweis: Freytag und Techno Airlines führen den A
- bend inzwischen am Freitag\, 13.11. (statt 14.11.)\; veranstaltet von Fr
- ieden & Liebe und VNV.\n\nhttps://rave.wien/e/2026-11-13-voyage-with-car
- l-h
-URL:https://rave.wien/e/2026-11-13-voyage-with-carl-h
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-14-radio-rudina@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T230000
@@ -294,5 +273,26 @@ DESCRIPTION:Housefrau\, Zunidani\nVeranstalter: Donnerstrada\nEintritt fr
  ein ausführlicher Beschreibungstext wurde nicht veröffentlicht.\n\nhtt
  ps://rave.wien/e/2026-11-12-donnerstrada
 URL:https://rave.wien/e/2026-11-12-donnerstrada
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-voyage-with-carl-h@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T060000
+SUMMARY:VOYAGE with Carl H
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Carl H\, Clem Vital\, Randalia\nVeranstalter: Frieden & Liebe
+ \, VNV\nEintritt: 17\,61 €\n\nZweite Ausgabe von VOYAGE im PRST: eine 
+ Nacht mit ungewöhnlichen\, psychedelischen Raritäten und progressiven 
+ Rhythmen. Headliner ist Carl H (Acid Operators)\, Labelchef von Animals 
+ on Psychedelics\, der in Europa\, Asien und Amerika aufgelegt hat\; dazu
+  spielt Randalia (Clem Vital). Erwartet werden progressive Kuriositäten
+ \, trance-inspirierte Fundstücke und genreübergreifende Dancefloor-Mus
+ ik. RA taggt House. Beginn 23:00\, Ende 06:00\, 17\,61 € (Tickets übe
+ r Eventfrog)\, ab 21. Hinweis: Freytag und Techno Airlines führen den A
+ bend inzwischen am Freitag\, 13.11. (statt 14.11.)\; veranstaltet von Fr
+ ieden & Liebe und VNV.\n\nhttps://rave.wien/e/2026-11-13-voyage-with-car
+ l-h
+URL:https://rave.wien/e/2026-11-13-voyage-with-carl-h
 END:VEVENT
 END:VCALENDAR

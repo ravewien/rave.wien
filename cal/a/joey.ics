@@ -44,19 +44,19 @@ DESCRIPTION:Joey\, Crystal O\, DJ Wifi\, DJ Wolle\, Kat Ze\, Mischkonsum\
 URL:https://rave.wien/e/2026-11-14-herzfrequenz-herzi-f2f-edition
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-18-herzfrequenz@rave.wien
+UID:2026-12-18-herzfrequenz-weekender-day-1@rave.wien
 DTSTAMP:20261218T000000Z
 DTSTART;TZID=Europe/Vienna:20261218T230000
 DTEND;TZID=Europe/Vienna:20261219T040000
-SUMMARY:HERZFREQUENZ
+SUMMARY:HERZFREQUENZ WEEKENDER: DAY 1
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Joey\, Kø:lab\, carlo kalu\, HNAS\nVeranstalter: Herzfrequen
  z\n\nAuftakt des zweitägigen HERZFREQUENZ Weekenders im Werk (Tag 1\, a
  b 23:00). Angekündigt sind Joey\, Kø:lab\, carlo kalu und HNAS\; am Fo
  lgetag (19.12.) geht der Weekender mit Joey und Amøn weiter. Preise sin
  d noch nicht veröffentlicht\, Tickets über Resident Advisor.\n\nhttps:
- //rave.wien/e/2026-12-18-herzfrequenz
-URL:https://rave.wien/e/2026-12-18-herzfrequenz
+ //rave.wien/e/2026-12-18-herzfrequenz-weekender-day-1
+URL:https://rave.wien/e/2026-12-18-herzfrequenz-weekender-day-1
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-herzfrequenz-weekender-day-2@rave.wien
@@ -65,11 +65,14 @@ DTSTART;TZID=Europe/Vienna:20261219T230000
 DTEND;TZID=Europe/Vienna:20261220T040000
 SUMMARY:HERZFREQUENZ WEEKENDER: DAY 2
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Joey\, Amøn\nVeranstalter: Herzfrequenz\n\nZweiter Tag des H
- ERZFREQUENZ Weekenders im Werk ab 23:00\, nach dem Auftakt am 18.12. Ang
- ekündigt sind Joey und Amøn. Preis\, Ende und Flyer sind noch nicht ve
- röffentlicht.\n\nhttps://rave.wien/e/2026-12-19-herzfrequenz-weekender-
- day-2
+DESCRIPTION:Joey\, Amøn\nVeranstalter: Herzfrequenz\n\nDas Herzfrequenz 
+ Weekender geht im Werk über zwei Nächte\, Day 2 startet am Samstag um 
+ 23:00 Uhr. Im Mittelpunkt steht Joey\, der österreichische DJ Johannes 
+ Turpel\, der auf den Labels The Finest Techno und HERZFREQUENZ vertreten
+  ist und unter dem Motto „Loud & Louder. Hard & Harder.“ für harten
+ \, lauten Techno steht. Dazu spielt Amøn. Bereits am Vorabend (18.12.) 
+ läuft Day 1 mit Joey\, Kø:lab\, carlo kalu\, HNAS und weiteren Acts.\n
+ \nhttps://rave.wien/e/2026-12-19-herzfrequenz-weekender-day-2
 URL:https://rave.wien/e/2026-12-19-herzfrequenz-weekender-day-2
 END:VEVENT
 BEGIN:VEVENT

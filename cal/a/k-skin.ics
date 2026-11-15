@@ -25,21 +25,4 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:2026-11-20-glitch-vienna-001@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T235900
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:GLITCH Vienna 001
-LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
-DESCRIPTION:KΛSKIN\, TenFifty\nVeranstalter: GLITCH\n\nAuftakt der House
- -Residency von GLITCH im Rhiz. GLITCH ist eine 2025 gegründete House-Ev
- entreihe (Verein GLITCH)\, ursprünglich mit kleinen Off-Location-Partys
-  in Kärnten. Es spielen KΛSKIN\, laut Veranstalter eines der ersten In
- die-Dance-Projekte Österreichs (aus Villach\, auch in Wien aktiv)\, und
-  das GLITCH-Resident-Tech-House-Projekt TenFifty (Grafenauer & KΛSKIN\,
-  Wien-Margareten). Weitere Acts sind angekündigt.\n\nhttps://rave.wien/
- e/2026-11-20-glitch-vienna-001
-URL:https://rave.wien/e/2026-11-20-glitch-vienna-001
-END:VEVENT
 END:VCALENDAR

@@ -26,22 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-13-tuff-vol-2@rave.wien
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=Europe/Vienna:20261113T230000
-DTEND;TZID=Europe/Vienna:20261114T040000
-SUMMARY:TUFF vol. 2
-LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
-DESCRIPTION:Barbara Lago\, KRL MX\, NYRA\, Pinklotion\, Serafin\nVeransta
- lter: TUFF\nEintritt: ab 16 €\n\nTUFF\, nach eigener Beschreibung „V
- iennas bounce hub“\, geht im Club Exil in die zweite Runde – Motto: 
- „Hard. Fast. TUFF.“ Es spielen Barbara Lago\, KRL MX\, NYRA\, Pinklo
- tion und Serafin. Es gilt eine No-Photo-Policy. Der Exil-Ticketshop füh
- rt Tickets inzwischen ab 16 € (die Club-Website nennt noch Early Bird 
- 11 €).\n\nhttps://rave.wien/e/2026-11-13-tuff-vol-2
-URL:https://rave.wien/e/2026-11-13-tuff-vol-2
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-14-rave-on-xxl-4-0@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T220000
@@ -124,11 +108,11 @@ DTSTART;TZID=Europe/Vienna:20261205T200000
 DTEND;TZID=Europe/Vienna:20261206T070000
 SUMMARY:Tribal Vibes meets Exil
 LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
-DESCRIPTION:Braincell\, Boom Shankar\, Egorythmia\, Psynonima\, Tsubi\, T
- ündérke\, Arnab\, Karam\, Alezzaro\, Bornvoyage\, Caban\, Cam Sis\, In
- sano\, Entheon\, Hamelin\, Kayara\, Urklang\nVeranstalter: Tribal Vibes\
- nEintritt: 19\,65–24\,75 € (Super Early Bird / Early Bird)\n\nhttps:
- //rave.wien/e/2026-12-05-tribal-vibes-meets-exil
+DESCRIPTION:Braincell\, Boom Shankar\, Egorythmia\, Arnab\, Karam\, Psyno
+ nima\, Tsubi\, Tündérke\, Alezzaro\, Bornvoyage\, Caban\, Cam Sis\, In
+ sano\, Entheon\, Hamelin\, Kayara\, Tribal Vibes\, Urklang\nVeranstalter
+ : Tribal Vibes\nEintritt: 19\,65–24\,75 € (Super Early Bird / Early 
+ Bird)\n\nhttps://rave.wien/e/2026-12-05-tribal-vibes-meets-exil
 URL:https://rave.wien/e/2026-12-05-tribal-vibes-meets-exil
 END:VEVENT
 BEGIN:VEVENT
@@ -226,5 +210,21 @@ DESCRIPTION:Sam Paganini\, The Advent\, Joro & Joabo\, Elex Red\, Tolaris
  ft\, Tickets über StageDates.\n\nhttps://rave.wien/e/2026-11-06-biosphe
  re-the-techno-spirit-of-1997
 URL:https://rave.wien/e/2026-11-06-biosphere-the-techno-spirit-of-1997
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-tuff-vol-2@rave.wien
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Europe/Vienna:20261113T230000
+DTEND;TZID=Europe/Vienna:20261114T040000
+SUMMARY:TUFF vol. 2
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Barbara Lago\, KRL MX\, NYRA\, Pinklotion\, Serafin\nVeransta
+ lter: TUFF\nEintritt: ab 16 €\n\nTUFF\, nach eigener Beschreibung „V
+ iennas bounce hub“\, geht im Club Exil in die zweite Runde – Motto: 
+ „Hard. Fast. TUFF.“ Es spielen Barbara Lago\, KRL MX\, NYRA\, Pinklo
+ tion und Serafin. Es gilt eine No-Photo-Policy. Der Exil-Ticketshop füh
+ rt Tickets inzwischen ab 16 € (die Club-Website nennt noch Early Bird 
+ 11 €).\n\nhttps://rave.wien/e/2026-11-13-tuff-vol-2
+URL:https://rave.wien/e/2026-11-13-tuff-vol-2
 END:VEVENT
 END:VCALENDAR
