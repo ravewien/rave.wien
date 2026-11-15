@@ -10004,8 +10004,26 @@ const AR={
  "Aleta": {
   "noLinks": "2026-11-03",
   "noImg": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15",
+  "img": "https://static.ra.co/images/profiles/square/aleta.jpg?dateUpdated=1777330436077",
+  "links": {
+   "ra": "https://ra.co/dj/aleta",
+   "sc": "https://soundcloud.com/aletawav",
+   "ig": "https://www.instagram.com/aleta.wav/"
+  },
+  "from": {
+   "de": "Wien und München",
+   "en": "Vienna and Munich"
+  },
+  "bio": {
+   "de": "Aleta ist eine DJ mit Basis in Wien und München. Sie spielt genre-fluid, ihre Sets sind verspielt und voller Dancefloor-Energie; mit ihrer Musik will sie Verbundenheit, Freude und Euphorie teilen. In Wien legte sie u. a. im FLUCC, Celeste, Flex und The Loft auf.",
+   "en": "Aleta is a DJ based in Vienna and Munich. Her genre-fluid sets are playful and full of dancefloor energy, aiming to share connection, joy and euphoria. In Vienna she has played at venues including FLUCC, Celeste, Flex and The Loft."
+  },
+  "setsChecked": "2026-11-15",
+  "src": [
+   "https://de.ra.co/dj/aleta"
+  ]
  },
  "Seba": {
   "img": "https://static.ra.co/images/profiles/seba.jpg?dateUpdated=1494519179647",
@@ -10734,7 +10752,7 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "Pinklotion": {
-  "noImg": "2026-11-03",
+  "noImg": "2026-11-15",
   "links": {
    "sc": "https://soundcloud.com/mrpinklotion",
    "sp": "https://open.spotify.com/artist/4Q0un5ERRURM3xJyzAwdHF"
@@ -10755,7 +10773,7 @@ const AR={
    "https://soundcloud.com/radiorudina/almost-pinkcast-mel-b2b-pinklotion-b2b-bludhound",
    "https://soundcloud.com/radiorudina/pinklotion"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "sets": [
    {
     "t": "Pinklotion – Radio Rudina",
@@ -15392,9 +15410,9 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Dave & Bass": {
-  "noImg": "2026-11-03",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-02",
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "from": {
    "de": "Wien",
    "en": "Vienna"
@@ -16683,9 +16701,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Saender": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Saratonin": {
@@ -17069,9 +17087,9 @@ const AR={
   "setsChecked": "2026-11-15"
  },
  "AE-X": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "B.visible": {
@@ -18151,11 +18169,12 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Krawallbarbie": {
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-02",
   "links": {
-   "sc": "https://soundcloud.com/krawall_barbie"
+   "sc": "https://soundcloud.com/krawall_barbie",
+   "ra": "https://ra.co/dj/krawallbarbie"
   },
   "bio": {
    "de": "Krawallbarbie ist in der Wiener Techno-Szene aktiv und spielte u. a. bei ELEKTRA und Techno.Kult in der Grelle Forelle sowie bei Art Attech im FLUCC. Auf SoundCloud veröffentlicht Krawallbarbie eigene Tracks wie „Fiebertraum“ und „ganz wien“; ein Studio-Set erschien bei Radio Rudina.",
@@ -18171,9 +18190,15 @@ const AR={
   "src": [
    "https://soundcloud.com/krawall_barbie/tracks",
    "https://soundcloud.com/krawall_barbie/01-ganz-wien",
-   "https://soundcloud.com/radiorudina/krawallbarbie-live-from-the-studio"
+   "https://soundcloud.com/radiorudina/krawallbarbie-live-from-the-studio",
+   "https://ra.co/dj/krawallbarbie"
   ],
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "img": "https://static.ra.co/images/profiles/square/krawallbarbie.jpg?dateUpdated=1756735220197",
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  }
  },
  "Kmanxak": {
   "infoChk": "2026-11-15",
@@ -18327,9 +18352,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "L.O.S.S.": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "bio": {
    "de": "L.O.S.S. ist ein DJ-Act, der laut Ankündigung der Reihe TAKTGEFÜHL mit einer Sammlung alter Trance-CDs auflegt. In Wien steht L.O.S.S. bei TAKTGEFÜHL Vol. 2 im Club Lucia auf dem Lineup.",
    "en": "L.O.S.S. is a DJ act who, according to the TAKTGEFÜHL series, plays from a collection of old trance CDs. In Vienna, L.O.S.S. is on the line-up of TAKTGEFÜHL Vol. 2 at Club Lucia."
@@ -18504,9 +18529,9 @@ const AR={
   "infoChk": "2026-11-02"
  },
  "DJ Countessa": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Chicano": {
@@ -19372,9 +19397,9 @@ const AR={
   }
  },
  "Noemi Universe": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "OK CUTEE": {
@@ -21951,9 +21976,9 @@ const AR={
   "setsChecked": "2026-11-03"
  },
  "Fabian Hofer": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "setsChecked": "2026-11-03",
   "spChk": "2026-11-15"
  },
@@ -45662,9 +45687,9 @@ const AR={
   "genres": [
    "Psytrance"
   ],
-  "infoChk": "2026-11-04",
-  "noImg": "2026-11-04",
-  "noLinks": "2026-11-04",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Serex": {
@@ -45722,14 +45747,19 @@ const AR={
   "setsChecked": "2026-11-04",
   "src": [
    "https://soundcloud.com/camsis",
-   "https://soundcloud.com/insanocamsis"
+   "https://soundcloud.com/insanocamsis",
+   "https://bandcamp.com/camsis_vantaravichitrarecords"
   ],
-  "infoChk": "2026-11-04",
-  "noImg": "2026-11-04",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "alias": [
    "Cam Sis"
   ],
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "from": {
+   "de": "Wien, Österreich",
+   "en": "Vienna, Austria"
+  }
  },
  "Cook Strummer": {
   "img": "https://static.ra.co/images/profiles/square/cookstrummer.jpg?dateUpdated=1539166973000",
@@ -47811,9 +47841,9 @@ const AR={
   "infoChk": "2026-11-05"
  },
  "Dr. Schick": {
-  "noImg": "2026-11-05",
-  "noLinks": "2026-11-05",
-  "infoChk": "2026-11-05",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Meander": {
@@ -47859,9 +47889,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Peter Spielmann": {
-  "noImg": "2026-11-05",
-  "noLinks": "2026-11-05",
-  "infoChk": "2026-11-05",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "KRN": {
@@ -48034,15 +48064,15 @@ const AR={
   "spChk": "2026-11-15"
  },
  "MUSA": {
-  "infoChk": "2026-11-07",
-  "noImg": "2026-11-07",
-  "noLinks": "2026-11-07",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "ADANA": {
-  "infoChk": "2026-11-07",
-  "noImg": "2026-11-07",
-  "noLinks": "2026-11-07",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Scapula & Weazl": {
@@ -48720,9 +48750,9 @@ const AR={
   ]
  },
  "DI GELLNER": {
-  "infoChk": "2026-11-10",
-  "noImg": "2026-11-10",
-  "noLinks": "2026-11-10",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "PHUEL": {
@@ -49417,9 +49447,9 @@ const AR={
   "setsChecked": "2026-11-15"
  },
  "Jokkel": {
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Evi B": {
@@ -49637,8 +49667,8 @@ const AR={
    "https://soundcloud.com/peyganofficial",
    "https://open.spotify.com/album/4EEDrzDGBvXgiI7glhYMj8"
   ],
-  "noImg": "2026-11-11",
-  "infoChk": "2026-11-11",
+  "noImg": "2026-11-15",
+  "infoChk": "2026-11-15",
   "setsChecked": "2026-11-15"
  },
  "Unicorn on K": {
@@ -49733,9 +49763,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Eternal Injustice": {
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Humanforce": {
@@ -50266,9 +50296,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Michkx": {
-  "infoChk": "2026-11-12",
-  "noImg": "2026-11-12",
-  "noLinks": "2026-11-12",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Audrey Danza": {
@@ -50706,8 +50736,33 @@ const AR={
  "Evren de concecao": {
   "noImg": "2026-11-13",
   "noLinks": "2026-11-13",
-  "infoChk": "2026-11-13",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "spChk": "2026-11-15",
+  "img": "https://static.ra.co/images/profiles/square/evrendeconcecao.jpg?dateUpdated=1788426991000",
+  "links": {
+   "ra": "https://ra.co/dj/evrendeconcecao",
+   "sc": "https://soundcloud.com/evrendaconceicao",
+   "ig": "https://www.instagram.com/evrendaconceicao/"
+  },
+  "alias": [
+   "Evren da Conceição"
+  ],
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "labels": [
+   "Analogique"
+  ],
+  "bio": {
+   "de": "Evren da Conceição ist DJ, Produzentin sowie Sound- und Performancekünstlerin und arbeitet in Club-, Theater-, Film-, Galerie- und Public-Space-Kontexten. Sie legt regelmäßig in Wien, Berlin und Istanbul auf und spielte u. a. bei den Wiener Festwochen, Hyperreality und Arte Concert / United We Stream. Ihr Debütalbum „ELECTRIFY“ erschien im März 2023 beim Wiener Label Analogique; Mixes nahm sie u. a. für FM4 auf.",
+   "en": "Evren da Conceição is a DJ, music producer, sound and performance artist working in club, theatre, film, gallery and public-space contexts. She plays regularly in Vienna, Berlin and Istanbul and has performed at Wiener Festwochen, Hyperreality and Arte Concert / United We Stream. Her debut album \"ELECTRIFY\" was released in March 2023 on the Viennese label Analogique; she has also recorded mixes for FM4."
+  },
+  "src": [
+   "https://ra.co/dj/evrendeconcecao",
+   "https://strumandiodine.com/artist/evren-da-conceicao"
+  ],
+  "setsChecked": "2026-11-15"
  },
  "MORASS": {
   "from": {
@@ -50809,10 +50864,39 @@ const AR={
   "spChk": "2026-11-15"
  },
  "High Noon Rockers": {
-  "infoChk": "2026-11-14",
-  "noImg": "2026-11-14",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-14",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "links": {
+   "sc": "https://soundcloud.com/highnoonrockers"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "High Noon Rockers sind ein österreichischer Dub-Act. 2026 standen sie mit einem Set im Line-up des Dub Champions Festival, bei Callshop Radio sind sie regelmäßig mit eigenen Sendungen zu hören.",
+   "en": "High Noon Rockers are an Austrian dub act. In 2026 they played a set at Dub Champions Festival, and they regularly host their own shows on Callshop Radio."
+  },
+  "sets": [
+   {
+    "t": "High Noon Rockers 26.10.25",
+    "u": "https://soundcloud.com/callshopradio/high-noon-rockers-261025"
+   },
+   {
+    "t": "High Noon Rockers 16.03.25",
+    "u": "https://soundcloud.com/callshopradio/high-noon-rockers-160325"
+   },
+   {
+    "t": "Minigolf Hangout w/ High Noon Rockers 18.05.24",
+    "u": "https://soundcloud.com/callshopradio/high-noon-rockers"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "src": [
+   "https://ra.co/events/2389882"
+  ]
  },
  "Patches": {
   "infoChk": "2026-11-15",
@@ -51054,6 +51138,76 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Rolltreppe": {
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "spChk": "2026-11-15"
+ },
+ "L4NC3": {
+  "img": "https://static.ra.co/images/profiles/square/l4nc3.jpg?dateUpdated=1754875125670",
+  "links": {
+   "ra": "https://ra.co/dj/l4nc3"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "alias": [
+   "MAD"
+  ],
+  "src": [
+   "https://ra.co/dj/l4nc3"
+  ],
+  "spChk": "2026-11-15",
+  "infoChk": "2026-11-15"
+ },
+ "Tactical Delay": {
+  "img": "https://static.ra.co/images/profiles/square/tacticaldelay.jpg?dateUpdated=1753352641000",
+  "links": {
+   "ra": "https://ra.co/dj/tacticaldelay",
+   "sc": "https://soundcloud.com/tactical-delay",
+   "bc": "https://tacticaldelay.bandcamp.com"
+  },
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "sets": [
+   {
+    "t": "Late Night Drive - Melodic Techno Mix",
+    "u": "https://soundcloud.com/tactical-delay/late-night-drive-melodic-techno-set"
+   },
+   {
+    "t": "Hardgroove Techno Mix - B2B with Jaiden Wild",
+    "u": "https://soundcloud.com/tactical-delay/hardgroove-techno-mix"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "src": [
+   "https://ra.co/dj/tacticaldelay"
+  ],
+  "spChk": "2026-11-15",
+  "infoChk": "2026-11-15"
+ },
+ "Kingsmo": {
+  "img": "https://static.ra.co/images/profiles/square/kingsmo.jpg?dateUpdated=1787010734290",
+  "links": {
+   "ra": "https://ra.co/dj/kingsmo",
+   "sc": "https://soundcloud.com/kingsmomp3",
+   "ig": "https://www.instagram.com/kingsmo.mp3/"
+  },
+  "from": {
+   "de": "Frankreich / Malta",
+   "en": "France / Malta"
+  },
+  "src": [
+   "https://ra.co/dj/kingsmo"
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15",
+  "infoChk": "2026-11-15"
+ },
+ "ŽEN": {
   "infoChk": "2026-11-15",
   "noImg": "2026-11-15",
   "noLinks": "2026-11-15",
