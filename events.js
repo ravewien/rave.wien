@@ -997,6 +997,9 @@ const CG={
  ],
  "Xperiment Records": [
   "Techno"
+ ],
+ "Klanggerecht": [
+  "House"
  ]
 };
 const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","909techno","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","Art Attech","Auf der Lauer","Ausländer Haus","AWSM","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","BLUR","Bonkers","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Cybertribe","Cyclic Existence","Dance 2 House","Danza Obscura","Dark Pressure","Das Syndikat","DEAD END","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Klanggerecht","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","Meier","MEIOSISS","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Opération","Out of Space","Oxygene","Palazzo Recordings","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","SIGNAL","SIN","Slutlabs","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","The Academy","The Hive","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Uniquely Journeys","Unkwn","Untz Baby Untz","up/or","Ventil Records","Verknallt","Vertigo","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wyldhearts","Xperiment","Xperiment Records","YE","YN","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
@@ -1257,14 +1260,14 @@ const CI={
    "https://de.ra.co/events/2498633",
    "https://de.ra.co/events/1904628"
   ],
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "de": "Wiener Drag-Rave („Shirts Off Rave“), der Hard Techno, Hard Bounce und Nightcore mit Drag-Kunst verbindet – u. a. im Das Werk, inklusive offizieller Vienna-Pride-Afterparty.",
   "en": "Vienna drag rave (a 'shirts off rave') combining hard techno, hard bounce and nightcore with drag performance, held at venues such as Das Werk, including the official Vienna Pride afterparty.",
   "from": "Wien",
   "web": "https://herzfrequenz-techno.com",
   "ig": "https://instagram.com/herzfrequenz.techno",
   "sc": "https://soundcloud.com/herzfrequenz_techno",
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-15",
   "alias": [
    "Herzfrequenz Techno"
   ]
@@ -1277,8 +1280,8 @@ const CI={
    "https://ra.co/events/1789556",
    "https://ra.co/events/993998"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "de": "Drum-&-Bass-Reihe, die seit 2015 ausschließlich in der Grellen Forelle stattfindet und von Markus Szabo veranstaltet wird. Laut Veranstalter war sie eine der ersten Wiener D&B-Veranstaltungen ab 18 Jahren; gebucht werden regelmäßig internationale Gäste, u. a. aus Großbritannien, sowie Labelnächte.",
   "en": "Drum & bass series held exclusively at Grelle Forelle since 2015, hosted by Markus Szabo. According to the organiser it was one of the first 18+ d&b events in Vienna; it regularly books international guests, including from the UK, as well as label nights.",
   "type": [
@@ -1394,11 +1397,11 @@ const CI={
    "https://ohschonhell.at/orte/das+werk/14",
    "https://de.ra.co/events/2556025"
   ],
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "de": "Wöchentliche Rave-Reihe am Mittwoch („RAM – Recharge Wednesdays“) im Werk, 23–6 Uhr, Eintritt gegen freie Spende, ohne Dresscode und mit Awareness-Team.",
   "en": "Weekly Wednesday rave series ('RAM – Recharge Wednesdays') at Das Werk, 11pm–6am, entry by free donation, no dress code and with an awareness team.",
   "from": "Wien",
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "alias": [
    "RAM"
   ],
@@ -1469,13 +1472,17 @@ const CI={
    "https://ohschonhell.at/orte/kramladen/549",
    "https://www.theloft.at/bass-bussi/",
    "https://de.ra.co/events/2532710",
-   "https://ra.co/events/2154859"
+   "https://ra.co/events/2154859",
+   "https://ra.co/events/2258804"
   ],
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "de": "Wiener Partyreihe im The Loft, die bei ihren Ausgaben beide Floors bespielt; Headliner u. a. ELOISA (Berlin) mit Sounds von Hard House über Groove bis Acid.",
   "en": "Vienna party series at The Loft that takes over both floors; headliners have included ELOISA (Berlin) with sounds ranging from hard house to groove and acid.",
   "ig": "https://www.instagram.com/bassxbussi/",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-15",
+  "alias": [
+   "Bass Bussi"
+  ]
  },
  "KEN Club": {
   "founded": "2013",
@@ -1690,8 +1697,8 @@ const CI={
    "https://ra.co/events/716790",
    "https://ra.co/events/1198279"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "type": [
    "Reihe"
   ],
@@ -1716,8 +1723,8 @@ const CI={
    "https://ra.co/events/2359494"
   ],
   "ig": "https://www.instagram.com/achterbahn.vie/",
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Feuchte Träume": {
   "de": "Gemeinnütziger, nicht gewinnorientierter Verein für sexpositive Partys: fördert lokale Artists, FLINTA*/LGBTQIA+, Workshops zu Konsens, Awareness-Team; Tickets nach Fragebogen.",
@@ -1951,8 +1958,8 @@ const CI={
   ]
  },
  "SIGNAL": {
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "de": "Event- und Festivalreihe von O – der Klub (Horst Group) in Wien mit Techno, Melodic und Hard Techno; neben Clubnächten im O der Klub gibt es größere Festival-Ausgaben in der Pyramide Vösendorf (Herbst 2026: vierte Ausgabe).",
   "en": "Event and festival series by O – der Klub (Horst Group) in Vienna featuring techno, melodic and hard techno; besides club nights at O der Klub there are larger festival editions at Pyramide Vösendorf (autumn 2026: fourth edition).",
   "type": [
@@ -1963,7 +1970,8 @@ const CI={
   "src": [
    "https://o-klub.at/events/pyramide-takeover/",
    "https://o-klub.at/event-type/signal/"
-  ]
+  ],
+  "ig": "https://www.instagram.com/signal.vienna/"
  },
  "Super Disco": {
   "noLogo": "2026-10-31",
@@ -2048,8 +2056,8 @@ const CI={
   ]
  },
  "Housetiere": {
-  "noLogo": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "de": "Wiener House-Reihe mit Clubnächten im Tagada und im SASS Music Club. Neben internationalen Gästen wie Chata oder Kiss The Future spielen regelmäßig lokale DJs wie Julani, teils auch in All-Night-Long-Sets.",
   "en": "Vienna house series with club nights at Tagada and SASS Music Club. Alongside international guests such as Chata or Kiss The Future, local DJs like Julani play regularly, sometimes in all-night-long sets.",
   "type": [
@@ -2100,23 +2108,25 @@ const CI={
    "https://ra.co/events/2130003",
    "https://de.ra.co/events/1908134",
    "https://steady.page/de/callshop-radio",
-   "https://soundcloud.com/callshopradio"
+   "https://soundcloud.com/callshopradio",
+   "https://callshopradio.bandcamp.com/"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-15",
   "sc": "https://soundcloud.com/callshopradio",
-  "noLogo": "2026-11-02"
+  "noLogo": "2026-11-02",
+  "logo": "https://f4.bcbits.com/img/0020688082_10.jpg"
  },
  "Wreck": {
   "de": "Veranstaltungsreihe im Wiener SASS Music Club, bei der LaLa und Æ-X Extended Sets spielen – Motto: „In einer Welt, in der alle immer schneller werden, nehmen wir uns Zeit.“",
   "en": "Event series at Vienna's SASS Music Club featuring extended sets by LaLa and Æ-X – motto: 'In a world where everyone keeps getting faster, we take our time.'",
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "src": [
    "https://sassvienna.com/en/events/event/wreck-7"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-15"
  },
  "AWSM": {
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-15",
   "de": "AWSM ist eine Wiener Eventreihe für Daypartys, Rooftop-Partys und Nachtevents mit House, Afro House und Melodic House, seit Mai 2025. Veranstaltet wird u. a. am Nussberg (Buschenschank Feuerwehr Wagner), im Oktogon am Himmel, in der Altia Skybar im DC Tower und im Stiftskeller Klosterneuburg.",
   "en": "AWSM is a Vienna event series for day parties, rooftop parties and night events with house, afro house and melodic house, running since May 2025. Venues include the Nussberg vineyard (Buschenschank Feuerwehr Wagner), Oktogon am Himmel, Altia Skybar in the DC Tower and Stiftskeller Klosterneuburg.",
   "type": [
@@ -2134,7 +2144,7 @@ const CI={
   "rules": {
    "age": "19+"
   },
-  "noLogo": "2026-11-02"
+  "noLogo": "2026-11-15"
  },
  "ClassiX": {
   "noLogo": "2026-10-31",
@@ -2195,10 +2205,16 @@ const CI={
   "src": [
    "https://flucc.at/events/fwStcm-flut-x-callshop-radio-week-46-26/",
    "https://ra.co/events/2130003",
-   "https://ra.co/promoters/150702"
+   "https://ra.co/promoters/150702",
+   "https://linktr.ee/spumi"
   ],
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-04",
+  "logo": "https://ugc.production.linktr.ee/4790d964-74ae-437f-8d36-5fb65c70698a_Sticker-Anibal-final-media-logo-png.png?io=true&size=avatar-v3_0",
+  "sc": "https://soundcloud.com/spumanterecords",
+  "type": [
+   "Kollektiv"
+  ]
  },
  "sch:cht": {
   "de": "Konzert-/Clubreihe des Kulturvereins kunstl:cht, die sich seit Frühjahr 2022 als Plattform für musikalische Entdeckungen abseits des Mainstreams versteht – zwischen akustischer und elektronischer Klangästhetik; Gast bei Wien Moderns Party Modern im FLUCC.",
@@ -2315,16 +2331,19 @@ const CI={
    "https://de.ra.co/events/1909952",
    "https://de.ra.co/events/1904628",
    "https://www.instagram.com/gesindel_der_nacht/",
-   "https://soundcloud.com/gesindel-der-nacht/silentsevir-cerberus-gdn002"
+   "https://soundcloud.com/gesindel-der-nacht/silentsevir-cerberus-gdn002",
+   "https://gesindeldernacht.bandcamp.com/album/nacht"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-15",
   "from": "Wien",
   "ig": "https://www.instagram.com/gesindel_der_nacht/",
   "sc": "https://soundcloud.com/gesindel-der-nacht",
   "alias": [
    "Gesindel der Nacht",
    "GDN Records"
-  ]
+  ],
+  "logo": "https://f4.bcbits.com/img/0037885999_10.jpg",
+  "bc": "https://gesindeldernacht.bandcamp.com"
  },
  "Kollektiv Ost:West": {
   "de": "Wiener Kollektiv (KO:W), zu dessen Gründungsmitgliedern Matthias Kaiser und David Radi zählen. Es veranstaltet im PRST die House-Reihe „BLUR“ („the quality house music experience“, u. a. mit Rich NxT, Alci und E.LINA) und richtete 2023 unter dem Titel „Kollektiv Ost:West & Friends“ Raves am Badeschiff aus.",
@@ -2656,7 +2675,8 @@ const CI={
    "https://samarecordings.bandcamp.com/track/distant-object",
    "https://ra.co/events/2261057"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-15",
+  "logo": "https://f4.bcbits.com/img/0002466762_10.jpg"
  },
  "Green Light Collective": {
   "noLogo": "2026-11-02",
@@ -2688,7 +2708,7 @@ const CI={
    "Kollektiv"
   ],
   "from": "Wien",
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "src": [
    "https://de.ra.co/events/2400422",
    "https://de.ra.co/events/2479561",
@@ -2697,11 +2717,13 @@ const CI={
    "https://ra.co/events/1636984",
    "https://ra.co/events/1834637",
    "https://de.ra.co/events/2100688",
-   "https://ra.co/events/2561642"
+   "https://ra.co/events/2561642",
+   "https://www.b72.at/program/9797/CYBERTRIBE_presents_OLLIE"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "founded": "2015",
-  "foundedNote": 1
+  "foundedNote": 1,
+  "sc": "https://soundcloud.com/comejointhetribe"
  },
  "Dark Pressure": {
   "de": "Techno-Label mit eigener Eventreihe in Wien (Deep, Raw, Hypnotic und Industrial Techno); erstes Label-Event „Chapter 1“ im November 2025 im Kramladen.",
@@ -2776,7 +2798,7 @@ const CI={
   "alias": [
    "LuvAffair"
   ],
-  "noLogo": "2026-11-02",
+  "noLogo": "2026-11-15",
   "src": [
    "https://de.ra.co/events/2291520",
    "https://de.ra.co/promoters/139324",
@@ -2785,7 +2807,7 @@ const CI={
    "https://soundcloud.com/luvaffair_vienna",
    "https://de.ra.co/events/2234422"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-15",
   "sc": "https://soundcloud.com/luvaffair_vienna"
  },
  "Café Mondo": {
@@ -3080,8 +3102,8 @@ const CI={
    "https://de.ra.co/events/2445175",
    "https://ra.co/events/2423221"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "KARTELL.FM": {
   "de": "Wiener Veranstalter hinter der Reihe SYNERGY RAVE (Trance und Hard Techno) im Werk.",
@@ -3112,8 +3134,8 @@ const CI={
  },
  "GLITCH": {
   "web": "https://www.enter-glitch.com/",
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "de": "House-Partyreihe, die mit kleinen Off-Location-Partys in Kärnten begann und 2026 nach Wien kam, u. a. ins Rhiz und ins The Loft. Konzept: ein Raum, ein Dancefloor, House Music – mit internationalen Gästen wie Stef Davidse und befreundeten Crews wie Resonance Social Artists aus Mailand.",
   "en": "House party series that started with small off-location parties in Carinthia and came to Vienna in 2026, e.g. at Rhiz and The Loft. Concept: one room, one dancefloor, house music – with international guests such as Stef Davidse and befriended crews like Resonance Social Artists from Milan.",
   "type": [
@@ -3215,8 +3237,8 @@ const CI={
    "https://ra.co/events/2456825",
    "https://www.instagram.com/flashback_technoclassics/"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-03",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "tix": "https://flashback.ticket.io/",
   "ig": "https://www.instagram.com/flashback_technoclassics/"
  },
@@ -3505,8 +3527,8 @@ const CI={
    "https://ra.co/events/2523418",
    "https://ra.co/events/671409"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Red Groove Social Club": {
   "de": "Clubreihe im PRST (Praterstraße) für „Quality House Music & Disco“, mit Residents wie It's George und Techno Ganoven sowie internationalen House-Gästen wie Nick Curly, Marco Lys oder Dan Ghenacia.",
@@ -3525,8 +3547,8 @@ const CI={
    "https://warda.at/?p=104163",
    "https://ra.co/events/1761838"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Nachtschub": {
   "de": "Trance- und Techno-Reihe im Wiener Das Werk, veranstaltet von Gesindel der Nacht; regelmäßige FLINTA*-Editionen mit bewusst FLINTA*-only Line-ups, strikter No-Photo-Policy und geschultem Awareness-Team, dazu Specials wie eine Schranz-&-Bounce-Edition.",
@@ -3652,8 +3674,8 @@ const CI={
    "https://warda.at/events/step-forward-pres-p-vanilla-boy/",
    "https://warda.at/?p=87238"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Soundhouse": {
   "de": "Soundhouse ist eine Wiener Partyreihe für Techno, Acid und House samt Subgenres, die sich selbst als „sophisticated listening“ beschreibt. Die Nächte finden u. a. im SASS Music Club und im Tagada statt.",
@@ -4133,8 +4155,8 @@ const CI={
    "https://ra.co/events/2464385",
    "https://de.ra.co/events/2360669"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
   "ig": "https://www.instagram.com/stay_acid/"
  },
  "Psytrance Universe": {
@@ -4150,8 +4172,8 @@ const CI={
    "https://ra.co/events/2163396",
    "https://ra.co/events/2446899"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Groove Revival": {
   "de": "Wiener Partyreihe, gegründet von zwei Newcomern der Szene, um dem Wiener Underground neuen Schwung zu geben – mit Fokus auf sorgfältige Kuratierung und zeitlose Platten. Events vor allem im SASS Music Club, dazu im PRST und Tagada.",
@@ -4188,8 +4210,8 @@ const CI={
   "src": [
    "https://www.ntry.at/redividerpreskonduku?l=en"
   ],
-  "infoChk": "2026-11-03",
-  "noLogo": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
   "ig": "https://www.instagram.com/redivideredivider/"
  },
  "Park It Here": {
@@ -4789,10 +4811,11 @@ const CI={
   "from": "Wien",
   "src": [
    "https://ntry.at/kkshameless?l=en",
-   "https://ntry.at/events/383891?l=en"
+   "https://ntry.at/events/383891?l=en",
+   "https://de.ra.co/events/2563337"
   ],
-  "noLogo": "2026-11-04",
-  "infoChk": "2026-11-04",
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
   "alias": [
    "Kollektiv Klanggerecht"
   ]
@@ -5231,8 +5254,8 @@ const CI={
    "https://ra.co/events/2488756",
    "https://www.ntry.at/keplerprst2024?l=de"
   ],
-  "infoChk": "2026-11-04",
-  "noLogo": "2026-11-04",
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15",
   "ig": "https://www.instagram.com/dutanztmichmal.at/"
  },
  "Subwaves": {
@@ -5323,8 +5346,8 @@ const CI={
    "https://ra.co/events/2575308",
    "https://soundcloud.com/citruscue-official/dj-xy-bass-set-lucia"
   ],
-  "noLogo": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Clubgewandte": {
   "de": "Clubnacht im Gebäude der Universität für angewandte Kunst in der ehemaligen Postsparkasse (Angewandte PSK) mit Live-Musik, DJ-Sets und Kunst, meist bei freiem Eintritt.",
@@ -5598,8 +5621,8 @@ const CI={
   "infoChk": "2026-11-11"
  },
  "FromDuskTillDawn": {
-  "noLogo": "2026-11-11",
-  "infoChk": "2026-11-11"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Nasty Connexion": {
   "de": "Veranstalter der Techno-/Psy-Tekno-Reihe TEKNOTEKA im Weberknecht (Lerchenfelder Gürtel) in Wien: Vol. 3 am 19.11.2026, Vol. 4 am 11.12.2026 (u. a. mit Kork, Gurkal²³, Nasty, Tekno Nixe), Vol. 5 am 02.04.2027.",
@@ -5609,8 +5632,8 @@ const CI={
    "https://www.goabase.net/party/teknoteka-vol3/118540",
    "https://www.goabase.net/party/teknoteka-vol5/118542"
   ],
-  "noLogo": "2026-11-11",
-  "infoChk": "2026-11-11"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "NachtAktiv": {
   "de": "Wiener Veranstalter elektronischer Clubnächte in The Chamber am Hernalser Gürtel, u. a. „NachtAktiv presents PsyJungle“ am 18.12.2026 und das abgesagte „Bass Therapy“ mit DJ Emsion im August 2026.",
