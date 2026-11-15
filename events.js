@@ -9681,7 +9681,8 @@ const AR={
    "de": "Frederic. ist ein in Berlin lebender DJ, Produzent und Veranstalter und Manager der Selected-Crew. Er spielt mentalen, rave-orientierten Techno und stand u. a. im Tresor, RSO, Fold, Mondo Disko und Radion hinter den Decks. Regelmäßig ist er zudem mit Shows auf HÖR zu hören.",
    "en": "Frederic. is a Berlin-based DJ, producer and promoter and manager of the Selected crew. He plays mental, rave-oriented techno and has performed at venues such as Tresor, RSO, Fold, Mondo Disko and Radion. He also plays regular shows on HÖR."
   },
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Max Kernmayer": {
   "links": {
@@ -10700,7 +10701,8 @@ const AR={
  "Pinklotion": {
   "noImg": "2026-11-03",
   "links": {
-   "sc": "https://soundcloud.com/mrpinklotion"
+   "sc": "https://soundcloud.com/mrpinklotion",
+   "sp": "https://open.spotify.com/artist/4Q0un5ERRURM3xJyzAwdHF"
   },
   "genres": [
    "Hard Techno",
@@ -10729,7 +10731,8 @@ const AR={
     "u": "https://soundcloud.com/mrpinklotion/pinked-out-001-hard-technoschranz-set-155-160bpm"
    }
   ],
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Gopnikbarbie": {
   "noImg": "2026-11-03",
@@ -11178,7 +11181,8 @@ const AR={
  "Artifex": {
   "noImg": "2026-11-03",
   "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "LUZZT": {
   "img": "https://static.ra.co/images/profiles/square/luzzt.jpg?dateUpdated=1692132918000",
@@ -12084,7 +12088,8 @@ const AR={
  "Sonic Warfare": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Another Dimension": {
   "noImg": "2026-11-03",
@@ -12099,7 +12104,8 @@ const AR={
  "Fractured Souls": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Eternal Injustice vs Raw Kickzz": {
   "noImg": "2026-11-03",
@@ -13118,7 +13124,8 @@ const AR={
   "src": [
    "https://ra.co/events/1986880"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "PA_olo": {
   "noImg": "2026-11-03",
@@ -13318,7 +13325,8 @@ const AR={
   "src": [
    "https://ra.co/events/2250635"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Snowtek": {
   "noImg": "2026-11-03",
@@ -15033,7 +15041,8 @@ const AR={
  "Mantis": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Stoney Curtis": {
   "noImg": "2026-11-03",
@@ -15338,7 +15347,15 @@ const AR={
   ],
   "links": {
    "sc": "https://soundcloud.com/dave-and-bass"
-  }
+  },
+  "sets": [
+   {
+    "t": "Dave & Bass - Liquicity Festival 2025 - DJ Contest",
+    "u": "https://soundcloud.com/dave-and-bass/dave-bass-liquicity-festival-2025-dj-contest"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Cybercutz": {
   "noImg": "2026-11-03",
@@ -15734,7 +15751,8 @@ const AR={
  "færo demonic": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "eira haul": {
   "img": "https://static.ra.co/images/profiles/square/eirahaul.jpg?dateUpdated=1772077947010",
@@ -15867,7 +15885,8 @@ const AR={
   },
   "genres": [
    "Psytrance"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Inou Ki Endo": {
   "img": "https://static.ra.co/images/profiles/inoukiendo.jpg?dateUpdated=1522944790000",
@@ -16043,7 +16062,8 @@ const AR={
   "img": "https://static.ra.co/images/profiles/ericprydz.jpg?dateUpdated=1605876513000",
   "links": {
    "ra": "https://ra.co/dj/ericprydz",
-   "web": "https://www.ericprydz.com"
+   "web": "https://www.ericprydz.com",
+   "sp": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
   },
   "from": {
    "de": "Schweden",
@@ -16070,7 +16090,8 @@ const AR={
    "https://ra.co/dj/ericprydz",
    "https://ra.co/dj/ericprydz/biography"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Inaya": {
   "links": {
@@ -16154,7 +16175,8 @@ const AR={
    "https://soundcloud.com/phormix/phormix-podcast-158-heap-camp-cosmic-2019",
    "https://soundcloud.com/oddityradio/neubau-oddity-influence-mix"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Jule Feser": {
   "infoChk": "2026-11-03",
@@ -16717,7 +16739,8 @@ const AR={
   "src": [
    "https://www.frequency.at/artist/splinta/",
    "https://www.songkick.com/de/concerts/21629663-splinta-aut-at-einbaumobel"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "SIS": {
   "noImg": "2026-11-03",
@@ -17236,12 +17259,14 @@ const AR={
   "bio": {
    "de": "Benjay ist ein DJ-Act auf dem Lineup von AWSM. Skyscraper Edition in der Altia Skybar im DC Tower, einer Nacht mit House, Afro House und Melodic House.",
    "en": "Benjay is a DJ act on the line-up of AWSM. Skyscraper Edition at Altia Skybar in DC Tower, a night of house, Afro house and melodic house."
-  }
+  },
+  "spChk": "2026-11-15"
  },
  "Arnab": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Alena Noctis": {
   "img": "https://static.ra.co/images/profiles/square/alenanoctis.jpg?dateUpdated=1774262264833",
@@ -17301,7 +17326,8 @@ const AR={
    "ra": "https://ra.co/dj/altinbas",
    "sc": "https://soundcloud.com/altinbas",
    "bc": "https://observerstation.bandcamp.com",
-   "ig": "https://www.instagram.com/altinbas.t"
+   "ig": "https://www.instagram.com/altinbas.t",
+   "sp": "https://open.spotify.com/artist/7bExzNVYdOn4SkrIXkqEyz"
   },
   "bio": {
    "de": "Ahmet Altinbas ist ein türkisch-belgischer Techno-Artist aus Brüssel. Er ist Resident und Label-Kurator des Brüsseler Clubs Fuse und gilt als eines der prägenden Talente der Brüsseler Elektronikszene. Releases erschienen u. a. auf Token, Float Records, SK_eleven und seinem Label Observer Station.",
@@ -17341,7 +17367,8 @@ const AR={
    "https://ra.co/dj/altinbas",
    "https://soundcloud.com/altinbas"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Biia": {
   "img": "https://static.ra.co/images/profiles/square/biia.jpg?dateUpdated=1574422275000",
@@ -17531,7 +17558,8 @@ const AR={
   "bio": {
    "de": "Anna Soto ist eine DJ, die in Wien u. a. bei Cardio Cult im SASS (gemeinsam mit Andi Britz) und bei Das Syndikat im Celeste spielt. Bei Radio Rudina ist ihr Mix „Soundbüglerei“ erschienen.",
    "en": "Anna Soto is a DJ who plays in Vienna at Cardio Cult at SASS (alongside Andi Britz) and Das Syndikat at Celeste, among others. Her mix 'Soundbüglerei' has been released on Radio Rudina."
-  }
+  },
+  "spChk": "2026-11-15"
  },
  "Armin Karmin": {
   "infoChk": "2026-11-03",
@@ -17544,7 +17572,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/akovmusic",
    "bc": "https://akov.bandcamp.com",
-   "web": "https://www.akovmusic.com/"
+   "web": "https://www.akovmusic.com/",
+   "sp": "https://open.spotify.com/artist/25HLeHJABQlPaCpS2AgCf0"
   },
   "bio": {
    "de": "AKOV ist ein österreichischer Drum-&-Bass-Produzent mit Fokus auf Neurofunk, der eigene Releases sowie Sample-Packs veröffentlicht. Er ist zudem Frontmann der Metal-Band Aenygma und verbindet bei High Voltage Fairies im Flex Metal und Drum & Bass mit Live-Gesang.",
@@ -17564,7 +17593,8 @@ const AR={
    "https://akov.bandcamp.com",
    "https://akovmusic.com/shop/"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Braincell": {
   "infoChk": "2026-11-03",
@@ -18098,7 +18128,8 @@ const AR={
   },
   "genres": [
    "House"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Karam": {
   "infoChk": "2026-11-03",
@@ -18161,7 +18192,8 @@ const AR={
  "Karolina": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "DJ Kompact": {
   "infoChk": "2026-11-03",
@@ -19163,7 +19195,8 @@ const AR={
    "https://soundcloud.com/radio80000/freeride-millenium-60-w-paris-bohm-jorkes-15042025",
    "https://soundcloud.com/blitzclub/blitzcast-020-jorkes-paris-bohm",
    "https://soundcloud.com/freeridemillenium/41-radio-80000-w-paris-bohm-jorkes"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Noemi Universe": {
   "infoChk": "2026-11-03",
@@ -19174,7 +19207,8 @@ const AR={
  "OK CUTEE": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Paul Galbur": {
   "infoChk": "2026-11-03",
@@ -19779,7 +19813,9 @@ const AR={
    "https://ra.co/dj/wal_halla",
    "https://ra.co/dj/wal_halla/biography"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Teppich Funk": {
   "infoChk": "2026-11-03",
@@ -19852,7 +19888,8 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/guiddo",
    "sc": "https://soundcloud.com/tomaszguiddo",
-   "ig": "https://www.instagram.com/tomaszguiddo"
+   "ig": "https://www.instagram.com/tomaszguiddo",
+   "sp": "https://open.spotify.com/artist/3bTtHQ6ITjlOrlulhHair7"
   },
   "bio": {
    "de": "Tomasz Guiddo ist DJ, Produzent, Sounddesigner und Radiojournalist, geboren in Warschau, mit Stationen in Berlin und Shenzhen/Hongkong, wo er die VINYLHOUSE-Plattenläden mitgründete. Seit 2005 moderiert er auf RadioJazzFM die Sendung „Input Output Putput“. Releases erschienen u. a. auf Compost, Get Physical, Ostgut Ton/Unterton, Sonar Kollektiv und Mule Musiq; außerdem steht er hinter dem Projekt Manhooker.",
@@ -19898,7 +19935,8 @@ const AR={
    "https://www.facebook.com/GuiddoOfficial",
    "https://www.discogs.com/artist/1676896-Guiddo"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Thomas Schumacher": {
   "img": "https://static.ra.co/images/profiles/square/thomasschumacher.jpg?dateUpdated=1522937670000",
@@ -20077,7 +20115,8 @@ const AR={
   "links": {
    "bc": "https://urklang.bandcamp.com/",
    "sc": "https://soundcloud.com/urklang-music",
-   "ig": "https://www.instagram.com/urklang.music"
+   "ig": "https://www.instagram.com/urklang.music",
+   "sp": "https://open.spotify.com/artist/55gTdBEQDvucr4AX2BEF5W"
   },
   "from": {
    "de": "Wien",
@@ -20121,7 +20160,8 @@ const AR={
    "https://www.facebook.com/urklang",
    "https://www.beatport.com/artist/urklang/1117834"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "MC Jimmy Danger": {
   "from": {
@@ -20154,7 +20194,9 @@ const AR={
   "noLinks": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/martinoelz"
-  }
+  },
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Mateo!": {
   "img": "https://electronicgroove.com/wp-content/uploads/2024/10/Mateo.jpg",
@@ -20898,7 +20940,8 @@ const AR={
  "Dj Ritual Spirit": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Floreal": {
   "noImg": "2026-11-03",
@@ -21708,7 +21751,8 @@ const AR={
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Deadlift": {
   "img": "https://static.ra.co/images/profiles/deadlift.jpg?dateUpdated=1483547186000",
@@ -47201,7 +47245,8 @@ const AR={
  "L!KA": {
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "spChk": "2026-11-15"
  },
  "BON": {
   "noImg": "2026-11-04",
@@ -47212,7 +47257,8 @@ const AR={
  "ILLA": {
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "spChk": "2026-11-15"
  },
  "L!XXL": {
   "noImg": "2026-11-04",
@@ -47327,7 +47373,15 @@ const AR={
    "https://de.ra.co/dj/a_phan",
    "https://soundcloud.com/aphanfrnrke/light-fog"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "sets": [
+   {
+    "t": "Aljhon Phan (Live) - 03/11/23",
+    "u": "https://soundcloud.com/vlanradio/aljhonphan-031123"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "FRNRKE": {
   "links": {
@@ -47686,7 +47740,8 @@ const AR={
  "ADANA": {
   "infoChk": "2026-11-07",
   "noImg": "2026-11-07",
-  "noLinks": "2026-11-07"
+  "noLinks": "2026-11-07",
+  "spChk": "2026-11-15"
  },
  "Scapula & Weazl": {
   "infoChk": "2026-11-07",
@@ -47771,7 +47826,8 @@ const AR={
   "img": "https://static.ra.co/images/profiles/square/detoxx.jpg?dateUpdated=1776181185633",
   "links": {
    "ra": "https://ra.co/dj/detoxx",
-   "sc": "https://soundcloud.com/detoxxyourmind"
+   "sc": "https://soundcloud.com/detoxxyourmind",
+   "sp": "https://open.spotify.com/artist/5ba0macVvWDYzuI2LaX9io"
   },
   "from": {
    "de": "Berlin",
@@ -47798,7 +47854,8 @@ const AR={
   "infoChk": "2026-11-07",
   "src": [
    "https://ra.co/dj/detoxx"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Chrisfader": {
   "links": {
@@ -47948,7 +48005,11 @@ const AR={
   "infoChk": "2026-11-08",
   "src": [
    "https://www.electriclove.at/en/artist/medun-2/"
-  ]
+  ],
+  "links": {
+   "sp": "https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM"
+  },
+  "spChk": "2026-11-15"
  },
  "Little Beat More": {
   "links": {
@@ -48011,7 +48072,8 @@ const AR={
  "subinstans": {
   "noImg": "2026-11-08",
   "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08"
+  "infoChk": "2026-11-08",
+  "spChk": "2026-11-15"
  },
  "NooK": {
   "noImg": "2026-11-08",
@@ -48022,7 +48084,8 @@ const AR={
  "mein__dm": {
   "noImg": "2026-11-08",
   "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08"
+  "infoChk": "2026-11-08",
+  "spChk": "2026-11-15"
  },
  "Techmoo": {
   "noImg": "2026-11-08",
@@ -48148,7 +48211,8 @@ const AR={
   "src": [
    "https://www.uprising.sk/en/artist/danubian-dub-soundsystem-5/",
    "https://www.mixcloud.com/Danubian_Dub_Soundsystem/"
-  ]
+  ],
+  "setsChecked": "2026-11-15"
  },
  "Lua Preta": {
   "from": {
@@ -48233,7 +48297,8 @@ const AR={
  "M:Pathy": {
   "infoChk": "2026-11-10",
   "noImg": "2026-11-10",
-  "noLinks": "2026-11-10"
+  "noLinks": "2026-11-10",
+  "spChk": "2026-11-15"
  },
  "DAKINDL": {
   "infoChk": "2026-11-10",
@@ -48520,7 +48585,23 @@ const AR={
   "infoChk": "2026-11-10",
   "src": [
    "https://ra.co/dj/tomkutsche"
-  ]
+  ],
+  "sets": [
+   {
+    "t": "SONIC VACATION w/ Tom Kutsche (13/11/24)",
+    "u": "https://soundcloud.com/radio80000/sonic-vacation-w-tom-kutsche-131124"
+   },
+   {
+    "t": "Cheap Fast Worldwide Radio w/ Tom Kutsche & Discount DJs // 07.09.2024",
+    "u": "https://soundcloud.com/thfradio/cheap-fast-worldwide-radio-w-tom-kutsche-discount-djs-07092024"
+   },
+   {
+    "t": "Diskohengst & Tom Kutsche Live in Cologne 2/12/22",
+    "u": "https://soundcloud.com/daszuendet/diskohengst-tom-kutsche-live-in-cologne-21222"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Kø:lab": {
   "img": "https://f4.bcbits.com/img/0032812245_23.jpg",
@@ -48546,7 +48627,18 @@ const AR={
   "src": [
    "https://ra.co/dj/kolab",
    "https://open.spotify.com/track/3VPfq4ql61VcKLHZK3zMel"
-  ]
+  ],
+  "sets": [
+   {
+    "t": "KØ:LAB @ HIVE 2026 - 1H HARD TECHNO SET",
+    "u": "https://soundcloud.com/kolabberlin/hive2026"
+   },
+   {
+    "t": "Kø:lab Mix 02 || Reversed Reality Mix",
+    "u": "https://soundcloud.com/kolabberlin/kolab-mix-02-reversed-reality-mix"
+   }
+  ],
+  "setsChecked": "2026-11-15"
  },
  "Mariam Rezaei": {
   "links": {
@@ -48633,7 +48725,8 @@ const AR={
  "DJ Hueftschwung": {
   "infoChk": "2026-11-11",
   "noImg": "2026-11-11",
-  "noLinks": "2026-11-11"
+  "noLinks": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "DJ Off Duty": {
   "infoChk": "2026-11-11",
@@ -48823,12 +48916,14 @@ const AR={
   ],
   "infoChk": "2026-11-11",
   "noImg": "2026-11-11",
-  "noLinks": "2026-11-11"
+  "noLinks": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Distorgina": {
   "infoChk": "2026-11-11",
   "noImg": "2026-11-11",
-  "noLinks": "2026-11-11"
+  "noLinks": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Elyante": {
   "bio": {
@@ -49070,7 +49165,14 @@ const AR={
    "https://open.spotify.com/artist/6SU7dAcEA0XXqGTLMM9zSF",
    "https://soundcloud.com/99prblmz/tracks"
   ],
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "sets": [
+   {
+    "t": "MONTHLY HARDCORE MIX AUGUST 2023",
+    "u": "https://soundcloud.com/99prblmz/monthlyhardcoremix"
+   }
+  ],
+  "setsChecked": "2026-11-15"
  },
  "Peygan": {
   "links": {
@@ -49141,7 +49243,8 @@ const AR={
  "Monch": {
   "noImg": "2026-11-11",
   "noLinks": "2026-11-11",
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Pablo Morello": {
   "infoChk": "2026-11-11",
@@ -49314,7 +49417,9 @@ const AR={
    "https://soundcloud.com/tekno-nixe"
   ],
   "noImg": "2026-11-11",
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Lee U Mash": {
   "noImg": "2026-11-11",
@@ -49648,7 +49753,8 @@ const AR={
  "Dunik": {
   "infoChk": "2026-11-12",
   "noImg": "2026-11-12",
-  "noLinks": "2026-11-12"
+  "noLinks": "2026-11-12",
+  "spChk": "2026-11-15"
  },
  "Michkx": {
   "infoChk": "2026-11-12",
@@ -49745,7 +49851,8 @@ const AR={
   ],
   "infoChk": "2026-11-12",
   "noImg": "2026-11-12",
-  "noLinks": "2026-11-12"
+  "noLinks": "2026-11-12",
+  "spChk": "2026-11-15"
  },
  "Chakabalara": {
   "links": {
@@ -50172,7 +50279,8 @@ const AR={
  "DJ Can't Commit": {
   "infoChk": "2026-11-14",
   "noImg": "2026-11-14",
-  "noLinks": "2026-11-14"
+  "noLinks": "2026-11-14",
+  "spChk": "2026-11-15"
  },
  "I.Lim": {
   "infoChk": "2026-11-14",
