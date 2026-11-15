@@ -9851,7 +9851,8 @@ const AR={
    "de": "DJ aus Österreich. Spielt regelmäßig im PRST und SASS Music Club in Wien sowie in Graz (Postgarage, Forum Stadtpark).",
    "en": "DJ from Austria. Plays regularly at PRST and SASS Music Club in Vienna as well as in Graz (Postgarage, Forum Stadtpark)."
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-15"
  },
  "Peter Pixzel": {
   "links": {
@@ -9974,7 +9975,8 @@ const AR={
   "links": {},
   "linksOk": "2026-10-29",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Melchiorr": {
   "noLinks": "2026-11-03",
@@ -11172,7 +11174,8 @@ const AR={
    "https://ra.co/events/2143849",
    "https://ra.co/dj/luzzt"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-15"
  },
  "Qaoz": {
   "img": "https://static.ra.co/images/profiles/square/qaoz.jpg?dateUpdated=1722523267000",
@@ -12607,7 +12610,8 @@ const AR={
     "u": "https://soundcloud.com/alexrot/alex-rot-elektro-goenner-mix"
    }
   ],
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Tolaris": {
   "infoChk": "2026-11-03",
@@ -12695,7 +12699,23 @@ const AR={
    "https://ra.co/dj/whoisela%C2%BF",
    "https://ra.co/events/2523457"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "sets": [
+   {
+    "t": "who is ela - ID Mix",
+    "u": "https://soundcloud.com/whos_elaaa/who-is-ela-id-mix"
+   },
+   {
+    "t": "derradio - Who is Ela¿",
+    "u": "https://soundcloud.com/whos_elaaa/derradio-who-is-ela"
+   },
+   {
+    "t": "Wilde Möhre Festival - Who Is Ela¿",
+    "u": "https://soundcloud.com/whos_elaaa/wilde-mohre-who-is-ela"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "DJ SDRICCI": {
   "links": {
@@ -13041,7 +13061,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/pa_olo"
   },
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Romen Est Omen": {
   "noImg": "2026-11-03",
@@ -14891,7 +14912,8 @@ const AR={
   "bio": {
    "de": "DJ Backstage ist ein österreichischer DJ aus dem Umfeld der Wiener Reihe Cybertribe und spielt regelmäßig bei deren Events im PRST, in The Loft und im Gleis 19. 2025 legte er außerdem in Amsterdam auf, u. a. in der Hi-Fi-Bar Radio Radio und bei SISSI'S.",
    "en": "DJ Backstage is an Austrian DJ from the orbit of the Vienna series Cybertribe, playing its events at PRST, The Loft and Gleis 19. In 2025 he also played in Amsterdam, including the hi-fi bar Radio Radio and SISSI'S."
-  }
+  },
+  "spChk": "2026-11-15"
  },
  "Aura": {
   "noImg": "2026-11-03",
@@ -15349,7 +15371,8 @@ const AR={
     "u": "https://soundcloud.com/resradio/boosterclub-3"
    }
   ],
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Amina Malounadou": {
   "noImg": "2026-11-03",
@@ -15638,7 +15661,8 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/eirahaul",
    "sc": "https://soundcloud.com/eira_haul",
-   "ig": "https://www.instagram.com/eira_haul"
+   "ig": "https://www.instagram.com/eira_haul",
+   "sp": "https://open.spotify.com/artist/3xw50y0inU0ChQ6KvuSI9i"
   },
   "from": {
    "de": "Deutschland",
@@ -15674,7 +15698,8 @@ const AR={
    "https://ra.co/dj/eirahaul",
    "https://volumo.com/artist/1047052-eira-haul/about"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Franky": {
   "infoChk": "2026-11-03",
@@ -16500,7 +16525,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/station-rose",
    "bc": "https://stationrose.bandcamp.com",
-   "web": "https://stationrose.com"
+   "web": "https://stationrose.com",
+   "sp": "https://open.spotify.com/artist/2IpdL53UFhkBN3cmaQvKIg"
   },
   "from": {
    "de": "Wien",
@@ -16533,12 +16559,14 @@ const AR={
   "setsChecked": "2026-11-02",
   "noImg": "2026-11-02",
   "infoChk": "2026-11-03",
-  "img": "https://f4.bcbits.com/img/0029226117_10.jpg"
+  "img": "https://f4.bcbits.com/img/0029226117_10.jpg",
+  "spChk": "2026-11-15"
  },
  "Sluzy": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Splinta": {
   "noImg": "2026-11-02",
@@ -16605,7 +16633,8 @@ const AR={
    "ra": "https://ra.co/dj/stefdavidse",
    "sc": "https://soundcloud.com/stefdavidse",
    "ig": "https://www.instagram.com/stefdavidse",
-   "web": "https://linktr.ee/stefdavidse"
+   "web": "https://linktr.ee/stefdavidse",
+   "sp": "https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX"
   },
   "bio": {
    "de": "Stef Davidse ist ein DJ und Producer aus Rotterdam. Nach Anfängen im Hip-Hop kam er 2018 zum House; seine Sets und Produktionen setzen auf rollende, oldschool-angehauchte Tracks mit Fokus auf Vocals, Percussion und Bass. Releases erschienen u. a. auf Nervous Records, Innocent Music und Wyld Records, Support kam etwa von Jamie Jones, Archie Hamilton und East End Dubs.",
@@ -16638,7 +16667,8 @@ const AR={
    "https://soundcloud.com/hottraxmusic/hottrax-live-003-stef-davidse"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "SHDW": {
   "img": "https://static.ra.co/images/profiles/square/shdw.jpg?dateUpdated=1772164135830",
@@ -17207,12 +17237,14 @@ const AR={
  "ARAS JE'TÄM": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Ave Maria": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Breeze": {
   "infoChk": "2026-11-03",
@@ -17485,7 +17517,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/kasia_music",
    "ig": "https://www.instagram.com/kasia.music_",
-   "ra": "https://ra.co/dj/kasia-ofc"
+   "ra": "https://ra.co/dj/kasia-ofc",
+   "sp": "https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV"
   },
   "real": "Kasia Sobczyk",
   "from": {
@@ -17504,7 +17537,9 @@ const AR={
    "https://nl.ra.co/dj/kasia-ofc",
    "https://o-klub.at/events/pyramide-takeover/"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Kjaer": {
   "links": {
@@ -17601,7 +17636,8 @@ const AR={
   ],
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Lucia Kagramanyan": {
   "img": "https://dev2.elevate.at/fileadmin/EIS_images/artist/2733/9129-Lucia-Kagramanyan_1280x853.png",
@@ -17879,7 +17915,8 @@ const AR={
   },
   "genres": [
    "Psytrance"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Kayara": {
   "infoChk": "2026-11-03",
@@ -18200,7 +18237,8 @@ const AR={
  "Crnobrnja": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Cosmic Gate": {
   "img": "https://i.scdn.co/image/ab6761610000e5eb715f2b0a098b31ba36e14876",
@@ -18287,7 +18325,8 @@ const AR={
    "https://fr.ra.co/dj/djkeshi/biography",
    "https://soundcloud.com/dj-keshii"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Disorder": {
   "infoChk": "2026-11-03",
@@ -18767,7 +18806,8 @@ const AR={
   },
   "genres": [
    "Techno"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "NoNameLeft": {
   "infoChk": "2026-11-03",
@@ -18807,7 +18847,8 @@ const AR={
    "https://www.housemusicwithlove.com/2023/nonameleft-debuts-on-form-music-with-supercluster-ep/",
    "https://summer3p.subotica.com/team/nonameleft/",
    "https://www.beatport.com/track/oscillate/19673907"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Nya Nyx": {
   "img": "https://static.ra.co/images/profiles/square/nyanyx.jpg?dateUpdated=1686044690000",
@@ -18902,7 +18943,8 @@ const AR={
  "_ra_di_aa_ti_on_": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Nysos": {
   "infoChk": "2026-11-03",
@@ -19243,7 +19285,22 @@ const AR={
   ],
   "infoChk": "2026-11-03",
   "noImg": "2026-11-02",
-  "img": "https://i.scdn.co/image/ab6761610000e5ebfa98d17f08fb5734eec875ab"
+  "img": "https://i.scdn.co/image/ab6761610000e5ebfa98d17f08fb5734eec875ab",
+  "sets": [
+   {
+    "t": "Overview Guest Mix 002 : Wingz",
+    "u": "https://soundcloud.com/overviewuk/overview-guest-mix-002-wingz"
+   },
+   {
+    "t": "Addictive Behaviour Podcast 017 with WINGZ",
+    "u": "https://soundcloud.com/addictive-behaviour/addictive-behaviour-podcast-017-with-wingz"
+   },
+   {
+    "t": "Overview Part. 3 - Wingz Promo Mix",
+    "u": "https://soundcloud.com/overviewuk/overview-part-3-wingz-promo-mix"
+   }
+  ],
+  "setsChecked": "2026-11-15"
  },
  "5HA5H": {
   "links": {
@@ -19466,7 +19523,8 @@ const AR={
   "noLinks": "2026-11-03",
   "alias": [
    "Lee&Marvin"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Wiener Grantscheibn": {
   "img": "https://static.ra.co/images/profiles/square/wienergrantscheibn.jpg?dateUpdated=1672052653000",
@@ -20032,7 +20090,8 @@ const AR={
    "https://soundcloud.com/manilo-music-official",
    "https://soundcloud.com/zugderliebe/manilo-hardgroove-salsa",
    "https://www.mixcloud.com/ma-ni-lo/"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "missantroop": {
   "infoChk": "2026-11-03",
@@ -20373,7 +20432,9 @@ const AR={
   "src": [
    "https://ra.co/dj/felixwolfs"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Zeq": {
   "img": "https://static.ra.co/images/profiles/square/zeq-1.jpg?dateUpdated=1770716614000",
@@ -20394,7 +20455,9 @@ const AR={
   "src": [
    "https://ra.co/dj/zeq-1"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "DONAURAVE": {
   "noImg": "2026-11-03",
@@ -21450,7 +21513,8 @@ const AR={
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Pau": {
   "img": "https://static.ra.co/images/profiles/square/pau-6.jpg?dateUpdated=1730893882000",
@@ -23886,7 +23950,9 @@ const AR={
   "src": [
    "https://ra.co/dj/goldi-at"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Rugrats": {
   "links": {
@@ -24052,7 +24118,8 @@ const AR={
   "img": "https://static.ra.co/images/profiles/square/eargasmgod.jpg?dateUpdated=1685614922000",
   "links": {
    "ra": "https://ra.co/dj/eargasmgod",
-   "sc": "https://soundcloud.com/eargasmgod"
+   "sc": "https://soundcloud.com/eargasmgod",
+   "sp": "https://open.spotify.com/artist/4Fry0sEjFRKflf45xpPUMp"
   },
   "bio": {
    "de": "Produzent und DJ aus der DIY-SoundCloud-Generation, der seine Tracks veröffentlicht, wann er will, und damit viele Millionen Streams erreicht hat. Seine eigenwillige, von ihm selbst als „Strip-Club-Musik“ beschriebene Musik und seine ekstatischen, unberechenbaren Sets führten ihn u. a. zu Boiler Room und in Clubs in Paris, Berlin und Warschau.",
@@ -24073,7 +24140,8 @@ const AR={
    "https://ra.co/dj/eargasmgod/biography",
    "https://soundcloud.com/eargasmgod"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Marko Nastic": {
   "img": "https://static.ra.co/images/profiles/markonastic.jpg?dateUpdated=1495441316000",
@@ -44330,7 +44398,8 @@ const AR={
  "Skantia": {
   "img": "https://static.ra.co/images/profiles/square/skantia.jpg?dateUpdated=1725529357000",
   "links": {
-   "ra": "https://ra.co/dj/skantia"
+   "ra": "https://ra.co/dj/skantia",
+   "sp": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
   },
   "from": {
    "de": "Newcastle, Vereinigtes Königreich",
@@ -44360,7 +44429,8 @@ const AR={
     "u": "https://soundcloud.com/mixmag-1/skantia-mixmag-lab"
    }
   ],
-  "setsChecked": "2026-11-04"
+  "setsChecked": "2026-11-04",
+  "spChk": "2026-11-15"
  },
  "The Jakob Sister": {
   "img": "https://static.ra.co/images/profiles/square/thejakobsister.jpg?dateUpdated=1699354135000",
@@ -44964,7 +45034,8 @@ const AR={
   "noImg": "2026-11-04",
   "alias": [
    "Cam Sis"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Cook Strummer": {
   "img": "https://static.ra.co/images/profiles/square/cookstrummer.jpg?dateUpdated=1539166973000",
@@ -45494,7 +45565,19 @@ const AR={
   ],
   "infoChk": "2026-11-12",
   "noImg": "2026-11-11",
-  "noLinks": "2026-11-11"
+  "noLinks": "2026-11-11",
+  "sets": [
+   {
+    "t": "A.N.I. @HÖR BERLIN / SPECIAL SET / XONE 92 MK2 MIXER RELEASE / 09.10.2024",
+    "u": "https://soundcloud.com/a_n_i_dj/ani-hor-berlin-special-set-xone-92-mk2-mixer-release-09102024"
+   },
+   {
+    "t": "A.N.I. @ANOMALIE ART CLUB / ANDACCHT / 22.03.2024",
+    "u": "https://soundcloud.com/a_n_i_dj/ani-anomalie-art-club-andaccht-22032024"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Laurine": {
   "img": "https://static.ra.co/images/profiles/laurine.jpg?dateUpdated=1787144435867",
@@ -46735,7 +46818,8 @@ const AR={
  "L!XXL": {
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "spChk": "2026-11-15"
  },
  "MANDALA": {
   "noImg": "2026-11-04",
@@ -47170,12 +47254,14 @@ const AR={
  "bobbyyxjohnson": {
   "infoChk": "2026-11-07",
   "noImg": "2026-11-07",
-  "noLinks": "2026-11-07"
+  "noLinks": "2026-11-07",
+  "spChk": "2026-11-15"
  },
  "MUSA": {
   "infoChk": "2026-11-07",
   "noImg": "2026-11-07",
-  "noLinks": "2026-11-07"
+  "noLinks": "2026-11-07",
+  "spChk": "2026-11-15"
  },
  "ADANA": {
   "infoChk": "2026-11-07",
@@ -47444,7 +47530,8 @@ const AR={
  "WESH": {
   "noImg": "2026-11-08",
   "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08"
+  "infoChk": "2026-11-08",
+  "spChk": "2026-11-15"
  },
  "Tonks": {
   "noImg": "2026-11-08",
@@ -47454,7 +47541,8 @@ const AR={
  "wldfee": {
   "noImg": "2026-11-08",
   "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08"
+  "infoChk": "2026-11-08",
+  "spChk": "2026-11-15"
  },
  "Sauerstøff": {
   "noImg": "2026-11-08",
@@ -47682,12 +47770,14 @@ const AR={
  "ROONY": {
   "infoChk": "2026-11-10",
   "noImg": "2026-11-10",
-  "noLinks": "2026-11-10"
+  "noLinks": "2026-11-10",
+  "spChk": "2026-11-15"
  },
  "DI GELLNER": {
   "infoChk": "2026-11-10",
   "noImg": "2026-11-10",
-  "noLinks": "2026-11-10"
+  "noLinks": "2026-11-10",
+  "spChk": "2026-11-15"
  },
  "PHUEL": {
   "infoChk": "2026-11-10",
@@ -47737,7 +47827,23 @@ const AR={
   "infoChk": "2026-11-10",
   "src": [
    "https://ra.co/dj/rickychong"
-  ]
+  ],
+  "sets": [
+   {
+    "t": "FUNKSMACK 003 - Ricky Chong Guest Mix (12/04/25)",
+    "u": "https://soundcloud.com/eistcork/funksmack-003-ricky-chong"
+   },
+   {
+    "t": "Ricky Chong Live at FUNKSMACK - Dali Cork 08.03.25",
+    "u": "https://soundcloud.com/ricky_chong/ricky-chong-live-funk-smack-at-dali-cork-080325"
+   },
+   {
+    "t": "Opening Set For Jeremy Underground Live @ The Vault Pygmalion Dublin - NYE 2024",
+    "u": "https://soundcloud.com/ricky_chong/opening-set-for-jeremy-underground-live-at-the-vault-pygmalion-dublin-nye-2024"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Mario Ranieri": {
   "img": "https://static.ra.co/images/profiles/marioranieri.jpg?dateUpdated=1638365952000",
@@ -47778,7 +47884,8 @@ const AR={
    "ra": "https://ra.co/dj/korolova",
    "sc": "https://soundcloud.com/korolovadj",
    "ig": "https://www.instagram.com/korolova.dj",
-   "web": "https://solo.to/korolova.dj"
+   "web": "https://solo.to/korolova.dj",
+   "sp": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
   },
   "real": "Olga Korolova",
   "from": {
@@ -47800,7 +47907,23 @@ const AR={
   "src": [
    "https://ra.co/dj/korolova",
    "https://warda.at/events/signal-festival-w-eric-prydz/"
-  ]
+  ],
+  "sets": [
+   {
+    "t": "Korolova @ Legia Stadium for Upperground, Poland [Melodic Techno & Progressive House Mix]",
+    "u": "https://soundcloud.com/korolovadj/korolova-legia-stadium-for"
+   },
+   {
+    "t": "KOROLOVA - Live DJ Set",
+    "u": "https://soundcloud.com/1001tracklists/korolova-live-the-future-of-dance-miami-2023"
+   },
+   {
+    "t": "Korolova - Exclusive Set for OCHO by Gray Area [6/22]",
+    "u": "https://soundcloud.com/entergrayarea/korlova-exclusive-set-for-ocho-by-gray-area"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Fafi Abdel Nour": {
   "img": "https://static.ra.co/images/profiles/square/fafiabdelnour.jpg?dateUpdated=1547730631900",
@@ -48161,7 +48284,8 @@ const AR={
  "Schana": {
   "infoChk": "2026-11-11",
   "noImg": "2026-11-11",
-  "noLinks": "2026-11-11"
+  "noLinks": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Kippenhaus": {
   "bio": {
@@ -48188,7 +48312,8 @@ const AR={
  "Evi B": {
   "infoChk": "2026-11-11",
   "noImg": "2026-11-11",
-  "noLinks": "2026-11-11"
+  "noLinks": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "WaqWaq Kingdom": {
   "from": {
@@ -48444,7 +48569,8 @@ const AR={
  "Likeflow": {
   "infoChk": "2026-11-11",
   "noImg": "2026-11-11",
-  "noLinks": "2026-11-11"
+  "noLinks": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Nightcrawler": {
   "infoChk": "2026-11-11",
@@ -48454,7 +48580,8 @@ const AR={
  "Raw Kickzz": {
   "infoChk": "2026-11-11",
   "noImg": "2026-11-11",
-  "noLinks": "2026-11-11"
+  "noLinks": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Reflexx": {
   "from": {
@@ -48575,7 +48702,15 @@ const AR={
    "https://soundcloud.com/p-e-t-r-o-n-i-k/petronik-love-the-flow-dj-set"
   ],
   "noImg": "2026-11-11",
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "sets": [
+   {
+    "t": "P-E-T-R-O-N-I-K - LOVE THE FLOW (PSYTRANCE DJ SET)",
+    "u": "https://soundcloud.com/p-e-t-r-o-n-i-k/petronik-love-the-flow-dj-set"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Corps A Core": {
   "links": {
@@ -48841,7 +48976,8 @@ const AR={
  "ARX": {
   "infoChk": "2026-11-12",
   "noImg": "2026-11-12",
-  "noLinks": "2026-11-12"
+  "noLinks": "2026-11-12",
+  "spChk": "2026-11-15"
  },
  "Dunik": {
   "infoChk": "2026-11-12",
@@ -48904,7 +49040,9 @@ const AR={
    "https://ra.co/dj/acidicjuice",
    "https://ra.co/events/2575633"
   ],
-  "infoChk": "2026-11-12"
+  "infoChk": "2026-11-12",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "NOTYOURORDINARY": {
   "links": {
@@ -49029,7 +49167,23 @@ const AR={
   "src": [
    "https://ra.co/dj/charliesparks"
   ],
-  "infoChk": "2026-11-12"
+  "infoChk": "2026-11-12",
+  "sets": [
+   {
+    "t": "Charlie Sparks @ Verknipt 10 Years",
+    "u": "https://soundcloud.com/verknipt-events/charlie-sparks-verknipt-10-years"
+   },
+   {
+    "t": "Live at the WORK Warehouse: Charlie Sparks (3 Hour Set)",
+    "u": "https://soundcloud.com/6amgroup/charlie-sparks-live-at-the-work-warehouse"
+   },
+   {
+    "t": "Charlie Sparks at Complex Festival 2023 Day 2",
+    "u": "https://soundcloud.com/complexmaastricht/charlie-sparks-at-complex-festival-2023-day-2"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Schrotthagen": {
   "img": "https://static.ra.co/images/profiles/square/schrotthagen.jpg?dateUpdated=1758538264620",
@@ -49319,7 +49473,8 @@ const AR={
  "Luv Affair on Air": {
   "infoChk": "2026-11-14",
   "noImg": "2026-11-14",
-  "noLinks": "2026-11-14"
+  "noLinks": "2026-11-14",
+  "spChk": "2026-11-15"
  },
  "DJ Hill's Sunday": {
   "infoChk": "2026-11-14",
