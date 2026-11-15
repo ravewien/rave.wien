@@ -7983,7 +7983,8 @@ const AR={
    "One Take On Wax"
   ],
   "img": "https://static.ra.co/images/profiles/square/telicho.jpg?dateUpdated=1776777106873",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "spChk": "2026-11-15"
  },
  "ENJA": {
   "links": {
@@ -8160,7 +8161,8 @@ const AR={
   "setsChecked": "2026-10-27",
   "noImg": "2026-11-03",
   "linksOk": "2026-10-29",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Neon Graveyard": {
   "links": {
@@ -8579,7 +8581,8 @@ const AR={
    "forTunea",
    "Outline Records"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-15"
  },
  "DORAH": {
   "links": {
@@ -10228,7 +10231,8 @@ const AR={
    "de": "J.P. eXbert entdeckte Ende der 1990er auf den Gasometer-Raves und in Clubs wie P1 und Volksgarten seine Liebe zum Techno und prägt die österreichische Szene seither als DJ mit. 2002 gründete er mit Danny Freeman das Duo „The eXMAN Project“, seit 2012 ist er bei Mind Entertainment aktiv, seit 2024 mit Deck Shark Production. Seine Einflüsse reichen von Techno, Electro und Hardtechno bis Hardcore, Hardstyle, Psy und Minimal.",
    "en": "J.P. eXbert fell in love with techno at the Gasometer raves and in clubs such as P1 and Volksgarten in the late 1990s and has since been part of Austria's scene as a DJ. In 2002 he founded the duo \"The eXMAN Project\" with Danny Freeman, has been active with Mind Entertainment since 2012 and with Deck Shark Production since 2024. His influences range from techno, electro and hard techno to hardcore, hardstyle, psy and minimal."
   },
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Aschenbrenner": {
   "links": {
@@ -11383,7 +11387,8 @@ const AR={
  "CED": {
   "noImg": "2026-11-03",
   "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Lazaro": {
   "noImg": "2026-11-03",
@@ -12633,7 +12638,8 @@ const AR={
   ],
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "MC Spot": {
   "bio": {
@@ -13039,7 +13045,8 @@ const AR={
    "https://ra.co/events/2218855",
    "https://ra.co/dj/matthiaskaiser"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Gugu": {
   "noImg": "2026-11-03",
@@ -15919,7 +15926,8 @@ const AR={
  },
  "Egorythmia": {
   "links": {
-   "sc": "https://soundcloud.com/egorythmia"
+   "sc": "https://soundcloud.com/egorythmia",
+   "sp": "https://open.spotify.com/artist/4kxgUvOXcumvg81njRP7Ud"
   },
   "from": {
    "de": "Nordmazedonien",
@@ -15955,7 +15963,8 @@ const AR={
    "https://soundcloud.com/egorythmia/egorythmia-live-boom-2012"
   ],
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-03"
+  "noImg": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Eric Prydz": {
   "img": "https://static.ra.co/images/profiles/ericprydz.jpg?dateUpdated=1605876513000",
@@ -16135,7 +16144,8 @@ const AR={
  "finster": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Flo Førg": {
   "img": "https://static.ra.co/images/profiles/square/floforg.jpg?dateUpdated=1573430400000",
@@ -16297,12 +16307,25 @@ const AR={
   "src": [
    "https://soundcloud.com/illtek23/acidiot",
    "https://soundcloud.com/illtek23/illtek-vs-velox-4-the-future-forthcoming-on-vies-02"
-  ]
+  ],
+  "sets": [
+   {
+    "t": "Tekset",
+    "u": "https://soundcloud.com/illtek23/tekset-191-8"
+   },
+   {
+    "t": "illektrolab illtek dj mix_Darker Sounds Showcase Edition",
+    "u": "https://soundcloud.com/illektrolab/illektrolab-illtek-dj-mix_darker-sounds-showcase-edition"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Insano": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Ellen Allien": {
   "img": "https://static.ra.co/images/profiles/square/ellenallien.jpg?dateUpdated=1778835341000",
@@ -16476,7 +16499,8 @@ const AR={
  "Stan Matan": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Saender": {
   "noImg": "2026-11-03",
@@ -16724,7 +16748,8 @@ const AR={
    "https://ra.co/events/2540048"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Svetec": {
   "img": "https://static.ra.co/images/profiles/square/svetec.jpg?dateUpdated=1451997150543",
@@ -16838,7 +16863,8 @@ const AR={
  "AE-X": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "B.visible": {
   "img": "https://f4.bcbits.com/img/0044756308_21.jpg",
@@ -17385,7 +17411,8 @@ const AR={
   "src": [
    "https://es.ra.co/dj/annikastein"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Anna Soto": {
   "sets": [
@@ -17500,7 +17527,8 @@ const AR={
   "src": [
    "https://soundcloud.com/bornvoyage",
    "https://soundcloud.com/bornvoyage/borny-voyage-spirit-base-2022"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "KlangKuenstler": {
   "img": "https://static.ra.co/images/profiles/square/klangkuenstler.jpg?dateUpdated=1578873600000",
@@ -17801,7 +17829,8 @@ const AR={
  "LCA": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Lim Banda": {
   "infoChk": "2026-11-03",
@@ -17896,7 +17925,8 @@ const AR={
   },
   "genres": [
    "Drum & Bass"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Lilosh": {
   "infoChk": "2026-11-03",
@@ -17927,7 +17957,8 @@ const AR={
  "Louk": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Krueger": {
   "infoChk": "2026-11-03",
@@ -18268,7 +18299,8 @@ const AR={
  "DJEENI": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Crnobrnja": {
   "infoChk": "2026-11-03",
@@ -18392,7 +18424,8 @@ const AR={
   "src": [
    "https://soundcloud.com/disordervienna",
    "https://soundcloud.com/poto001/disorder-das-werk-vienna-11218"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "DJ Karotte": {
   "infoChk": "2026-11-03",
@@ -18578,7 +18611,8 @@ const AR={
    "https://ra.co/dj/chiaraallnut",
    "https://soundcloud.com/chiara_allnutt"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "Patrik Pagan": {
   "img": "https://static.ra.co/images/profiles/square/patrikpagan.jpg?dateUpdated=1718637639000",
@@ -19062,7 +19096,8 @@ const AR={
   "setsChecked": "2026-11-03",
   "src": [
    "https://www.mixcloud.com/Rokis/"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Rosi": {
   "infoChk": "2026-11-03",
@@ -19474,7 +19509,8 @@ const AR={
    "https://ra.co/dj/tanjaturner",
    "https://ra.co/events/2090652"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-15"
  },
  "UV Project": {
   "infoChk": "2026-11-03",
@@ -19777,7 +19813,8 @@ const AR={
  "WNR": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Tündérke": {
   "links": {
@@ -20685,7 +20722,8 @@ const AR={
    "https://soundcloud.com/rosarosen"
   ],
   "infoChk": "2026-11-03",
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Phace": {
   "img": "https://static.ra.co/images/profiles/square/phace.jpg?dateUpdated=1488820419353",
@@ -22188,7 +22226,8 @@ const AR={
   ],
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Partiboi69": {
   "img": "https://static.ra.co/images/profiles/square/partiboi69.jpg?dateUpdated=1693912605000",
@@ -23257,7 +23296,8 @@ const AR={
    "https://ra.co/dj/mareia/biography",
    "https://soundcloud.com/maier_mareia",
    "https://soundcloud.com/keller/kellersinfonie-33-leschueft-mareia-aka-marieu"
-  ]
+  ],
+  "spChk": "2026-11-15"
  },
  "Simula": {
   "img": "https://static.ra.co/images/profiles/square/simula.jpg?dateUpdated=1726562813000",
@@ -23766,7 +23806,8 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/arminhermann",
    "sc": "https://soundcloud.com/arminhermann",
-   "ig": "https://www.instagram.com/arminhermann_"
+   "ig": "https://www.instagram.com/arminhermann_",
+   "sp": "https://open.spotify.com/artist/0mqciQzhnLzsTuxZ0JYfQZ"
   },
   "from": {
    "de": "Österreich",
@@ -23794,7 +23835,8 @@ const AR={
    "https://ra.co/dj/arminhermann",
    "https://soundcloud.com/polyamor-berlin/armin-hermann-get-naughty"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Rusrus": {
   "infoChk": "2026-11-03",
@@ -24133,7 +24175,8 @@ const AR={
   "img": "https://static.ra.co/images/profiles/enei.jpg?dateUpdated=1300722893000",
   "links": {
    "ra": "https://ra.co/dj/enei",
-   "sc": "https://soundcloud.com/enei"
+   "sc": "https://soundcloud.com/enei",
+   "sp": "https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J"
   },
   "bio": {
    "de": "Drum-&-Bass-Produzent und DJ aus Russland (bürgerlich Alexey Egorchenkov), aktiv seit 2003. Seine erste Platte erschien 2007 auf Fokuz; heute ist er vor allem mit Critical Music verbunden, wo u. a. seine Alben und die EP „Divided Mode“ erschienen.",
@@ -24158,7 +24201,23 @@ const AR={
    "https://ra.co/news/44050",
    "https://ra.co/news/31790"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "sets": [
+   {
+    "t": "Enei - BBC Radio 1 Guest Mix (13.08.2019)",
+    "u": "https://soundcloud.com/enei/enei-bbc-radio-1-guest-mix-13082019"
+   },
+   {
+    "t": "Feature Mix 012 - Enei [Drum & Bass]",
+    "u": "https://soundcloud.com/onesevenfourco/feature-mix-012-enei"
+   },
+   {
+    "t": "UKF Podcast #133 - Enei's \"All Enei\" Mix",
+    "u": "https://soundcloud.com/ukf/ukf-podcast-133-eneis-all-enei-mix"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Eargasm God": {
   "img": "https://static.ra.co/images/profiles/square/eargasmgod.jpg?dateUpdated=1685614922000",
@@ -25239,7 +25298,8 @@ const AR={
   "src": [
    "https://de.ra.co/dj/golpe"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-15"
  },
  "Ladrillovitz": {
   "img": "https://static.ra.co/images/profiles/square/ladrillovitz.jpg?dateUpdated=1759443297797",
@@ -26296,7 +26356,9 @@ const AR={
   "src": [
    "https://ra.co/dj/amon"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "GBRL": {
   "img": "https://static.ra.co/images/profiles/square/gbrl.jpg?dateUpdated=1723474642000",
@@ -29161,7 +29223,9 @@ const AR={
   "src": [
    "https://de.ra.co/dj/dimitrios-2"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "RASA": {
   "img": "https://static.ra.co/images/profiles/square/rasain.jpg?dateUpdated=1757006360623",
@@ -32372,7 +32436,8 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/nickcurly",
    "sc": "https://soundcloud.com/nickcurly",
-   "ig": "https://www.instagram.com/nick.curly"
+   "ig": "https://www.instagram.com/nick.curly",
+   "sp": "https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2"
   },
   "bio": {
    "de": "Nick Curly ist ein DJ und Produzent aus Deutschland, der seit seinem Durchbruch 2008 zu den führenden internationalen Acts im modernen House zählt. Er veröffentlichte u. a. auf Cocoon Recordings, Akbal Music und Cécille Records.",
@@ -32413,7 +32478,8 @@ const AR={
    "https://ra.co/dj/nickcurly",
    "https://soundcloud.com/nickcurly"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "spChk": "2026-11-15"
  },
  "D Dan": {
   "img": "https://static.ra.co/images/profiles/square/ddan.jpg?dateUpdated=1744117697420",
@@ -42785,7 +42851,8 @@ const AR={
  "The Trip": {
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
-  "noLinks": "2026-11-04"
+  "noLinks": "2026-11-04",
+  "spChk": "2026-11-15"
  },
  "Alther": {
   "infoChk": "2026-11-04",
@@ -47138,7 +47205,8 @@ const AR={
  "Tursa": {
   "noImg": "2026-11-05",
   "noLinks": "2026-11-05",
-  "infoChk": "2026-11-05"
+  "infoChk": "2026-11-05",
+  "spChk": "2026-11-15"
  },
  "Peter Spielmann": {
   "noImg": "2026-11-05",
@@ -47537,7 +47605,15 @@ const AR={
   "src": [
    "https://ra.co/dj/shizzle",
    "https://ra.co/dj/shizzle/biography"
-  ]
+  ],
+  "sets": [
+   {
+    "t": "SHIZZLE Bday Set - 35-SHIZZLE.mp3 - 07.12.2022",
+    "u": "https://soundcloud.com/shizzle_vie/35-shizzlemp3-07122022"
+   }
+  ],
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "MEDUN": {
   "from": {
@@ -47623,7 +47699,8 @@ const AR={
  "Techmoo": {
   "noImg": "2026-11-08",
   "noLinks": "2026-11-08",
-  "infoChk": "2026-11-08"
+  "infoChk": "2026-11-08",
+  "spChk": "2026-11-15"
  },
  "Harry Knaypp": {
   "noImg": "2026-11-08",
@@ -47668,7 +47745,8 @@ const AR={
  "Neoteric x Alerta": {
   "noImg": "2026-11-09",
   "noLinks": "2026-11-09",
-  "infoChk": "2026-11-09"
+  "infoChk": "2026-11-09",
+  "spChk": "2026-11-15"
  },
  "Booster Club": {
   "noImg": "2026-11-09",
@@ -47683,7 +47761,8 @@ const AR={
  "Initiative 21": {
   "noImg": "2026-11-09",
   "noLinks": "2026-11-09",
-  "infoChk": "2026-11-09"
+  "infoChk": "2026-11-09",
+  "spChk": "2026-11-15"
  },
  "Kamafaka": {
   "real": "Kamilla Dénes",
@@ -47839,7 +47918,8 @@ const AR={
  "PHUEL": {
   "infoChk": "2026-11-10",
   "noImg": "2026-11-10",
-  "noLinks": "2026-11-10"
+  "noLinks": "2026-11-10",
+  "spChk": "2026-11-15"
  },
  "VAL": {
   "infoChk": "2026-11-10",
@@ -48192,14 +48272,17 @@ const AR={
    "en": "Psytrance producer. Tracks include releases via Soundlab Pirates and collaborations with Mindpirates and Malex."
   },
   "links": {
-   "sc": "https://soundcloud.com/klangmassaker"
+   "sc": "https://soundcloud.com/klangmassaker",
+   "sp": "https://open.spotify.com/artist/7y9v2qtiVJfN4GtPQldVOb"
   },
   "src": [
    "https://soundcloud.com/klangmassaker",
    "https://soundcloud.com/soundlabpirates/klangmassaker-the-sense-of"
   ],
   "infoChk": "2026-11-11",
-  "noImg": "2026-11-11"
+  "noImg": "2026-11-11",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "Highko": {
   "bio": {
@@ -48244,7 +48327,8 @@ const AR={
  "Maze of Madness": {
   "infoChk": "2026-11-11",
   "noImg": "2026-11-11",
-  "noLinks": "2026-11-11"
+  "noLinks": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Harmont": {
   "from": {
@@ -48263,7 +48347,8 @@ const AR={
   ],
   "infoChk": "2026-11-11",
   "noImg": "2026-11-11",
-  "noLinks": "2026-11-11"
+  "noLinks": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Elektro Guzzi": {
   "from": {
@@ -48611,7 +48696,8 @@ const AR={
  "Pablo Morello": {
   "infoChk": "2026-11-11",
   "noImg": "2026-11-11",
-  "noLinks": "2026-11-11"
+  "noLinks": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Eternal Injustice": {
   "infoChk": "2026-11-11",
@@ -48705,7 +48791,8 @@ const AR={
  "Active8": {
   "noImg": "2026-11-11",
   "noLinks": "2026-11-11",
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "spChk": "2026-11-15"
  },
  "Askeladd": {
   "noImg": "2026-11-11",
@@ -48729,7 +48816,14 @@ const AR={
    "https://open.spotify.com/artist/7wygrgvNvLOjGlz6Y7eDqU"
   ],
   "noImg": "2026-11-11",
-  "infoChk": "2026-11-11"
+  "infoChk": "2026-11-11",
+  "sets": [
+   {
+    "t": "Twisted Aura ❖ 3DNA Festival Promo set",
+    "u": "https://soundcloud.com/twistedaura/psychedelic-forest-set"
+   }
+  ],
+  "setsChecked": "2026-11-15"
  },
  "Kork": {
   "noImg": "2026-11-11",
@@ -49062,7 +49156,8 @@ const AR={
  "Michkx": {
   "infoChk": "2026-11-12",
   "noImg": "2026-11-12",
-  "noLinks": "2026-11-12"
+  "noLinks": "2026-11-12",
+  "spChk": "2026-11-15"
  },
  "Audrey Danza": {
   "img": "https://static.ra.co/images/profiles/square/audreydanza.jpg?dateUpdated=1792569085910",
@@ -49481,7 +49576,9 @@ const AR={
   "src": [
    "https://ra.co/dj/morass"
   ],
-  "infoChk": "2026-11-14"
+  "infoChk": "2026-11-14",
+  "setsChecked": "2026-11-15",
+  "spChk": "2026-11-15"
  },
  "DYMINIX": {
   "from": {
@@ -49575,7 +49672,8 @@ const AR={
  "DJ Hill's Sunday": {
   "infoChk": "2026-11-14",
   "noImg": "2026-11-14",
-  "noLinks": "2026-11-14"
+  "noLinks": "2026-11-14",
+  "spChk": "2026-11-15"
  }
 };
 
