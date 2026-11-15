@@ -17525,9 +17525,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Breeze": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "bio": {
    "de": "Breeze ist ein Drum-&-Bass-DJ-Act, der bei der Wiener Reihe Switch! im Flex auf dem Lineup steht, u. a. bei der Tour-Station von Primate.",
    "en": "Breeze is a drum & bass DJ act on the line-up of the Vienna series Switch! at Flex, including Primate's tour stop."
@@ -19513,9 +19513,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Rosi": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "Rosa Nebel": {
@@ -19589,7 +19589,7 @@ const AR={
    "https://ra.co/dj/replic"
   ],
   "setsChecked": "2026-11-02",
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "PJPJPJ": {
@@ -20402,8 +20402,8 @@ const AR={
    "https://de.ra.co/events/2108941",
    "https://soundcloud.com/martinoelz"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-15",
+  "noImg": "2026-11-15",
   "noLinks": "2026-11-02",
   "links": {
    "sc": "https://soundcloud.com/martinoelz"
@@ -21172,9 +21172,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Floreal": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-15",
+  "noLinks": "2026-11-15",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "meet.franka": {
@@ -50831,13 +50831,13 @@ const AR={
    }
   ],
   "setsChecked": "2026-11-14",
-  "noImg": "2026-11-14",
+  "noImg": "2026-11-15",
   "src": [
    "https://de.ra.co/labels/25498",
    "https://ra.co/events/2584082",
    "https://soundcloud.com/leentilt"
   ],
-  "infoChk": "2026-11-14",
+  "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
  },
  "GØVI": {
