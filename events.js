@@ -134,7 +134,7 @@ const S={
  "sch": "schwelle.events"
 };
 const SO=["4lg","dtm","hg","un","pt","wm","ftr","ksot","stepf","awsm","bio","kore","tl","rr","srd","sw","gl","smt"];
-const VR={"Grelle Forelle":{"age":"21+","sound":{"de":"Alcons Audio + Lambda Labs","en":"Alcons Audio + Lambda Labs","src":"https://www.properformance.audio/articles/grelle-forelle-mainfloor","floors":{"main":{"de":"Alcons Audio QR36 Line Arrays, 8× Lambda Labs DW-15 Subs","en":"Alcons Audio QR36 line arrays, 8× Lambda Labs DW-15 subs"},"kitchen":{"de":"Lambda Labs (MF-15A Subs, TX-2A, CX-1A Monitore)","en":"Lambda Labs (MF-15A subs, TX-2A, CX-1A monitors)","src":"https://lambda-labs.com/en/references/grelle-forelle"}}}},"Das Werk":{"age":"18+","ageSrc":"https://www.daswerk.org/faq","sound":{"de":"Alcons Audio RR12 + Eigenbau-Subwoofer (12× 15\")","en":"Alcons Audio RR12 + custom subwoofer (12× 15\")","src":"https://www.prosoundweb.com/art-culture-venue-in-austria-outfitted-with-alcons-audio/"}},"SASS Music Club":{"age":"18+","aw":1,"sound":{"de":"Beschallung mit Alcons-Audio-Lautsprechern (Pro-Ribbon-Technologie), installiert von Pro Performance.","en":"Alcons Audio loudspeakers (pro-ribbon technology), installed by Pro Performance.","src":"https://properformance.at/en/projects/club/club-sass-wien/"}},"O der Klub":{"age":"18+"},"Club Exil":{"sound":{"de":"Lambda-Labs-Soundsystem: Auf dem Mainfloor ein 90°-QX-Setup mit 20 DH-18-Subwoofern.","en":"Lambda Labs sound system: a 90° QX setup with 20 DH-18 subwoofers on the main floor.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series","floors":{"mainfloor":{"de":"Lambda Labs QX in 90°-Anordnung mit 20 DH-18-Subwoofern.","en":"Lambda Labs QX in a 90° configuration with 20 DH-18 subwoofers.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series"}}}},"The Loft":{"sound":{"de":"KV2-Anlage im Keller (Dancefloor Unten).","en":"KV2 sound system in the basement (Unten dancefloor).","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056","floors":{"Unten":{"de":"KV2-Anlage","en":"KV2 sound system","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056"}}}},"Flex":{"sound":{"de":"Alcons-Soundsystem (Planung/Installation Pro Performance seit 2007): Main Floor seit 2022 mit 8 Alcons QR24 und 2 QM24 als L/R-Arrays, 4 BC543-Cardioid-Bässen und dem berühmten Beton-Horn-Subwoofer; Flex Café mit Alcons LR18; im Außenbereich die früheren QR36.","en":"Alcons sound system (designed/installed by Pro Performance since 2007): since 2022 the main floor runs 8 Alcons QR24 plus 2 QM24 as L/R arrays, 4 BC543 cardioid subs and the famous concrete horn subwoofers; the Flex Café uses Alcons LR18; the former QR36 now cover the outdoor area.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex","floors":{"Main Floor":{"de":"8× Alcons QR24 (4× QR24/80, 4× QR24/110) + 2× QM24 als L/R-Arrays, 4× BC543 Cardioid-Bass, Beton-Horn-Subwoofer mit je vier 15\"-Treibern pro Seite.","en":"8× Alcons QR24 (4× QR24/80, 4× QR24/110) + 2× QM24 as L/R arrays, 4× BC543 cardioid bass, concrete horn subwoofers with four 15\" drivers per side.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex"},"Flex Café":{"de":"Alcons LR18 Pro-Ribbon-Line-Array links/rechts der Bühne, Bässe in End-Fire-Anordnung.","en":"Alcons LR18 pro-ribbon line array left/right of the stage, subs in end-fire configuration.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex"}}}},"PRST":{"sound":{"de":"Lambda-Labs-Soundsystem von Pro Performance Sound + Acoustics (Wolfgang Sauter): Lambda Labs QX als Haupt-PA, horizontales Double-Endfire-Array aus 8 DH-18-Subwoofern vor und hinter dem DJ-Pult, DJ-Monitoring mit CB-Design-15\"-Subs und Lambda Labs TX-3A; Active Noise Control zwischen Clubraum und Bar.","en":"Lambda Labs sound system by Pro Performance Sound + Acoustics (Wolfgang Sauter): Lambda Labs QX main PA, a horizontal double end-fire array of 8 DH-18 subwoofers in front of and behind the DJ booth, DJ monitoring with CB-Design 15\" subs and Lambda Labs TX-3A; active noise control between club room and bar.","src":"https://www.lewitt-audio.com/blog/PRST-audio-experience"}},"U4":{"age":"18+"}};
+const VR={"Grelle Forelle":{"age":"21+","sound":{"de":"Alcons Audio + Lambda Labs","en":"Alcons Audio + Lambda Labs","src":"https://www.properformance.audio/articles/grelle-forelle-mainfloor","floors":{"main":{"de":"Alcons Audio QR36 Line Arrays, 8× Lambda Labs DW-15 Subs","en":"Alcons Audio QR36 line arrays, 8× Lambda Labs DW-15 subs"},"kitchen":{"de":"Lambda Labs (MF-15A Subs, TX-2A, CX-1A Monitore)","en":"Lambda Labs (MF-15A subs, TX-2A, CX-1A monitors)","src":"https://lambda-labs.com/en/references/grelle-forelle"}}}},"Das Werk":{"age":"18+","ageSrc":"https://www.daswerk.org/faq","sound":{"de":"Alcons Audio RR12 + Eigenbau-Subwoofer (12× 15\")","en":"Alcons Audio RR12 + custom subwoofer (12× 15\")","src":"https://www.prosoundweb.com/art-culture-venue-in-austria-outfitted-with-alcons-audio/"}},"SASS Music Club":{"age":"18+","aw":1,"sound":{"de":"Beschallung mit Alcons-Audio-Lautsprechern (Pro-Ribbon-Technologie), installiert von Pro Performance.","en":"Alcons Audio loudspeakers (pro-ribbon technology), installed by Pro Performance.","src":"https://properformance.at/en/projects/club/club-sass-wien/"}},"O der Klub":{"age":"18+"},"Club Exil":{"sound":{"de":"Lambda-Labs-Soundsystem: Auf dem Mainfloor ein 90°-QX-Setup mit 20 DH-18-Subwoofern.","en":"Lambda Labs sound system: a 90° QX setup with 20 DH-18 subwoofers on the main floor.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series","floors":{"mainfloor":{"de":"Lambda Labs QX in 90°-Anordnung mit 20 DH-18-Subwoofern.","en":"Lambda Labs QX in a 90° configuration with 20 DH-18 subwoofers.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series"}}}},"The Loft":{"sound":{"de":"KV2-Anlage im Keller (Dancefloor Unten).","en":"KV2 sound system in the basement (Unten dancefloor).","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056","floors":{"Unten":{"de":"KV2-Anlage","en":"KV2 sound system","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056"}}}},"Flex":{"sound":{"de":"Alcons-Soundsystem (Planung/Installation Pro Performance seit 2007): Main Floor seit 2022 mit 8 Alcons QR24 und 2 QM24 als L/R-Arrays, 4 BC543-Cardioid-Bässen und dem berühmten Beton-Horn-Subwoofer; Flex Café mit Alcons LR18; im Außenbereich die früheren QR36.","en":"Alcons sound system (designed/installed by Pro Performance since 2007): since 2022 the main floor runs 8 Alcons QR24 plus 2 QM24 as L/R arrays, 4 BC543 cardioid subs and the famous concrete horn subwoofers; the Flex Café uses Alcons LR18; the former QR36 now cover the outdoor area.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex","floors":{"Main Floor":{"de":"8× Alcons QR24 (4× QR24/80, 4× QR24/110) + 2× QM24 als L/R-Arrays, 4× BC543 Cardioid-Bass, Beton-Horn-Subwoofer mit je vier 15\"-Treibern pro Seite.","en":"8× Alcons QR24 (4× QR24/80, 4× QR24/110) + 2× QM24 as L/R arrays, 4× BC543 cardioid bass, concrete horn subwoofers with four 15\" drivers per side.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex"},"Flex Café":{"de":"Alcons LR18 Pro-Ribbon-Line-Array links/rechts der Bühne, Bässe in End-Fire-Anordnung.","en":"Alcons LR18 pro-ribbon line array left/right of the stage, subs in end-fire configuration.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex"}}}},"PRST":{"sound":{"de":"Lambda-Labs-Soundsystem von Pro Performance Sound + Acoustics (Wolfgang Sauter): Lambda Labs QX als Haupt-PA, horizontales Double-Endfire-Array aus 8 DH-18-Subwoofern vor und hinter dem DJ-Pult, DJ-Monitoring mit CB-Design-15\"-Subs und Lambda Labs TX-3A; Active Noise Control zwischen Clubraum und Bar.","en":"Lambda Labs sound system by Pro Performance Sound + Acoustics (Wolfgang Sauter): Lambda Labs QX main PA, a horizontal double end-fire array of 8 DH-18 subwoofers in front of and behind the DJ booth, DJ monitoring with CB-Design 15\" subs and Lambda Labs TX-3A; active noise control between club room and bar.","src":"https://www.lewitt-audio.com/blog/PRST-audio-experience"}},"U4":{"age":"18+"},"B72":{"sound":{"de":"EV-Anlage (Electro-Voice): 4× EV T221 Topteile (zwei für den Mainfloor, zwei für die Galerie), 2× EV T180 18\"-Subwoofer, EV DC One Controller, EV-Q66-Endstufen; Midas-M32-Pult; DJ-Setup mit 2× Technics SL1210 MK2, Pioneer DJM 600 und Denon DJ X1800.","en":"Electro-Voice PA: 4× EV T221 tops (two for the main floor, two for the balcony), 2× EV T180 18\" subwoofers, EV DC One controller, EV Q66 amps; Midas M32 desk; DJ setup with 2× Technics SL1210 MK2, Pioneer DJM 600 and Denon DJ X1800.","src":"https://www.b72.at/downloads/B72_Sound_Specs.pdf"}},"Arena Wien":{"sound":{"de":"Meyer Sound: Open Air seit April 2024 mit PANTHER-Line-Arrays (je 9 pro Seite), 900-LFC- und 2100-LFC-Subwoofern, installiert von ATEC Pro; in der Großen Halle ein MILO-Line-Array mit 700-HP-Subwoofern.","en":"Meyer Sound: since April 2024 the Open Air stage runs PANTHER line arrays (9 per side) with 900-LFC and 2100-LFC subwoofers, installed by ATEC Pro; the Große Halle has a MILO line array with 700-HP subwoofers.","src":"https://meyersound.com/news/arena-vienna/"}}};
 const CG={
  "303": [
   "Drum & Bass",
@@ -5689,13 +5689,24 @@ const VI={
   "src": [
    "https://www.eventbrite.com/e/elemnt-pres-kanine-reflections-arcando-basstripper-grafix-skiye-tickets-1998799288478",
    "https://www.volume.at/events/elemnt-2025-12-13/",
-   "https://en.wikipedia.org/wiki/Arena,_Vienna"
+   "https://en.wikipedia.org/wiki/Arena,_Vienna",
+   "https://arena.wien/Home/About",
+   "https://meyersound.com/news/arena-vienna/",
+   "https://www.livedesignonline.com/theatre/vienna-s-arena-wien-upgrades-meyer-sound"
   ],
   "alias": [
    "Arena"
   ],
   "noLogo": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "logo": "https://arena.wien/Portals/_default/Skins/ArenaWien/media/logo.png",
+  "opened": "1977",
+  "floors": [
+   "Große Halle",
+   "Kleine Halle",
+   "DreiRaum",
+   "Open Air"
+  ]
  },
  "Himmel und Wasser": {
   "de": "Restaurant, Bar und Biergarten auf der Donauinsel bei der Steinspornbrücke, geöffnet Mai bis September; im Sommer Techno-Open-Airs (z. B. Techno am Wasser).",
@@ -5743,7 +5754,8 @@ const VI={
   "src": [
    "https://ra.co/events/2573316"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "Wiener Würstelstand Spittelau": {
   "de": "Würstelstand von Mike Lanner und Sengl bei der U-Bahn-Station Spittelau mit modernen Hot Dogs, Fassbier und Garten; gelegentlich legen hier DJs auf.",
@@ -5751,13 +5763,15 @@ const VI={
   "man": 1,
   "src": [
    "https://www.theviennareview.at/food-drink/12453/wiener-wurstelstand",
-   "https://ra.co/clubs/218090"
+   "https://ra.co/clubs/218090",
+   "https://www.wien.info/de/lifestyle-szene/szenelokale/wuerstelstand-366402"
   ],
   "io": [
    "Outdoor"
   ],
   "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "web": "https://www.wienerwue.at/"
  },
  "Hofburg Vienna": {
   "de": "Ehemalige Kaiserresidenz am Heldenplatz, deren Prunksäle auch für Großveranstaltungen genutzt werden.",
@@ -5958,7 +5972,7 @@ const VI={
   "io": [
    "Indoor"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-15",
   "web": "https://www.celeste.co.at/",
   "logo": "https://www.celeste.co.at/img/logosmall.png",
   "ig": "https://www.instagram.com/celeste_wien/"
@@ -5987,7 +6001,9 @@ const VI={
    "https://ohschonhell.at/orte/tagada+club/951",
    "https://goodnight.at/locations/tagada-club",
    "https://frey-tag.at/locations/tagada",
-   "https://de.ra.co/events/2501222"
+   "https://de.ra.co/events/2501222",
+   "https://ntry.at/goldentagada?l=en",
+   "https://ntry.at/pulsarxaustrianapparel?l=en"
   ],
   "de": "Bar und Club in der Brunnengasse 76 am Yppenplatz (Ottakring) mit Café/Bar „Rausch“ vorne und Dancefloor, auf dem am Wochenende lokale DJs spielen – „Vom Vortrinken bis zum Rave“.",
   "en": "Bar and club at Brunnengasse 76 on Yppenplatz (Ottakring) with the café/bar 'Rausch' up front and a dancefloor where local DJs play at weekends – 'from pre-drinks to rave'.",
@@ -6001,7 +6017,8 @@ const VI={
   "io": [
    "Indoor"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-15",
+  "logo": "https://fra1.digitaloceanspaces.com/ntry2prod/org_images/290816/small/tagada_logo.png?1701099871"
  },
  "Club Lucia": {
   "web": "https://www.clublucia.at/",
@@ -6060,7 +6077,7 @@ const VI={
    "https://www.libelle.at/die-location/",
    "https://www.libelle.at/spielregeln/"
   ],
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-15",
   "de": "Nach eigener Angabe Wiens erste sexpositive Location, früher „Schwelle Wien“: über 350 m² in der Tellgasse im Nibelungenviertel (Rudolfsheim-Fünfhaus) mit Workshops rund um Sexualität und Partys, die sexuellen Begegnungen offenstehen, dazu ein Playroom. Grundregel: „Alles außer ein enthusiastisches Ja ist ein Nein.“",
   "en": "By its own account Vienna's first sex-positive venue, formerly \"Schwelle Wien\": over 350 m² on Tellgasse in the Nibelungenviertel (Rudolfsheim-Fünfhaus) hosting workshops on sexuality and parties open to sexual encounters, plus a playroom. Core rule: \"Anything but an enthusiastic yes is a no.\"",
   "io": [
@@ -6115,7 +6132,8 @@ const VI={
   "io": [
    "Outdoor"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "The Popp im Prater": {
   "de": "Location im Wurstelprater, Open Airs u. a. vom Kollektiv Ponyhof.",
@@ -6151,7 +6169,8 @@ const VI={
   "src": [
    "https://o-klub.at/events/pyramide-takeover/",
    "https://www.conferencehotelgroup.com/hotels/299/Eventhotel-Pyramide---Congress-Center",
-   "https://warda.at/events/signal-festival-pyramide-takeover-we2/"
+   "https://warda.at/events/signal-festival-pyramide-takeover-we2/",
+   "https://conferencehotelgroup.com/hotels/299/Eventhotel-Pyramide---Congress-Center"
   ],
   "io": [
    "Indoor"
@@ -6165,9 +6184,10 @@ const VI={
    "Main",
    "Hard Techno Stage"
   ],
-  "noLogo": "2026-11-01",
-  "infoChk": "2026-11-02",
-  "opened": "1982"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "opened": "1982",
+  "web": "https://conferencehotelgroup.com/hotels/299/Eventhotel-Pyramide---Congress-Center"
  },
  "Flex": {
   "src": [
@@ -6229,7 +6249,8 @@ const VI={
   "de": "Einkaufszentrum von Richard Lugner im 15. Bezirk (Rudolfsheim-Fünfhaus), eröffnet im September 1990, heute rund 25.000 m² mit über 100 Geschäften; Ende Oktober 2026 erstmals Schauplatz einer Halloween-Drum-&-Bass-Nacht.",
   "en": "Shopping centre founded by Richard Lugner in Vienna's 15th district (Rudolfsheim-Fünfhaus), opened in September 1990, now around 25,000 m² with more than 100 shops; in late October 2026 it hosted its first Halloween drum & bass night.",
   "opened": "1990",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-15",
+  "noLogo": "2026-11-15"
  },
  "U4": {
   "src": [
@@ -6260,7 +6281,9 @@ const VI={
    "https://www.vienna.at/funkhaus-in-wien-wieden-verwandelt-sich-in-gratzlhub/9297596",
    "https://www.weekend.at/de/projekt/funkhaus-vienna-s-got-a-new-rhythm/OBGC202509241453541414ebd8086ac",
    "https://www.leadersnet.at/news/87908,das-traditionsreiche-funkhaus-in-wien-wird-neugestaltet.html",
-   "https://www.funkhaus.wien/en/about"
+   "https://www.funkhaus.wien/en/about",
+   "https://www.funkhaus.wien/en/spaces",
+   "https://www.funkhaus.wien/en/spaces/club-area"
   ],
   "noLogo": "2026-10-28",
   "io": [
@@ -6275,7 +6298,10 @@ const VI={
   "infoChk": "2026-11-02",
   "web": "https://www.funkhaus.wien",
   "logo": "https://www.funkhaus.wien/images/site/logo_white.svg",
-  "man": 1
+  "man": 1,
+  "floors": [
+   "Club Area"
+  ]
  },
  "Rhiz": {
   "src": [
@@ -6298,8 +6324,8 @@ const VI={
   "src": [
    "https://ra.co/events/2564492"
   ],
-  "noLogo": "2026-10-28",
-  "infoChk": "2026-11-02"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Kollektiv Kaorle": {
   "src": [
@@ -6365,7 +6391,8 @@ const VI={
   "web": "https://www.melia.com/de/hotels/osterreich/wien/melia-vienna/restaurants/altia-skybar",
   "alias": [
    "Altia Skybar"
-  ]
+  ],
+  "noLogo": "2026-11-15"
  },
  "Event Arena Vösendorf": {
   "io": [
@@ -6395,11 +6422,13 @@ const VI={
   "web": "https://www.b72.at",
   "src": [
    "https://www.wien.info/en/dine-drink/bars-clubs/live-locations/b72-340090",
-   "https://b72.at/about-and-where"
+   "https://b72.at/about-and-where",
+   "https://www.b72.at/downloads/B72_Sound_Specs.pdf"
   ],
   "infoChk": "2026-11-02",
   "opened": "1998",
-  "man": 1
+  "man": 1,
+  "noLogo": "2026-11-15"
  },
  "Metastadt": {
   "io": [
@@ -6420,8 +6449,8 @@ const VI={
   "src": [
    "https://meeting.vienna.info/en/event-planning/venue-finder/metastadt-congress-326114"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Prater (Calafatiplatz)": {
   "io": [
@@ -6485,8 +6514,8 @@ const VI={
    "Indoor",
    "Outdoor"
   ],
-  "noLogo": "2026-11-01",
-  "infoChk": "2026-11-02"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "Stiftskeller Klosterneuburg": {
   "de": "Gewölbekeller mit hohen Decken und Ziegelwänden unter dem Stiftsrestaurant Leopold in Klosterneuburg.",
@@ -6495,10 +6524,12 @@ const VI={
    "Indoor"
   ],
   "src": [
-   "https://ra.co/events/2547042"
+   "https://ra.co/events/2547042",
+   "https://www.wienerwald.info/en/gastronomy-5/a-klosterneuburg-monastry"
   ],
-  "noLogo": "2026-11-02",
-  "infoChk": "2026-11-02"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "web": "https://www.stiftsrestaurant-leopold.at/"
  },
  "Multiversum Schwechat": {
   "de": "Veranstaltungszentrum in Schwechat südöstlich von Wien.",
@@ -6532,7 +6563,9 @@ const VI={
   ],
   "src": [
    "https://ra.co/events/2574326",
-   "https://ra.co/events/2574334"
+   "https://ra.co/events/2574334",
+   "https://de.ra.co/events/2288360",
+   "https://de.ra.co/events/2397469"
   ],
   "infoChk": "2026-11-03",
   "residents": [
@@ -6540,7 +6573,12 @@ const VI={
   ],
   "resSrc": "https://ra.co/events/2306531",
   "logo": "https://theinnercircle.at/circlelogo.svg",
-  "man": 1
+  "man": 1,
+  "web": "https://theinnercircle.at/",
+  "floors": [
+   "Circle Floor",
+   "Zwischen:Raum Floor"
+  ]
  },
  "Fanialive Wien": {
   "de": "Location in den U-Bahn-Bögen am Gürtel (1080 Wien), in der u. a. Clubnächte mit lateinamerikanischer elektronischer Musik stattfinden.",
@@ -6552,9 +6590,12 @@ const VI={
    "Indoor"
   ],
   "src": [
-   "https://ra.co/events/2552787"
+   "https://ra.co/events/2552787",
+   "https://global-dance-finder-astro.pages.dev/venues/vienna/fanialive/"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-15",
+  "web": "https://www.fanialive.at/",
+  "noLogo": "2026-11-15"
  },
  "Angewandte PSK": {
   "de": "Ehemaliges Postsparkassen-Gebäude (Otto Wagner) am Georg-Coch-Platz, heute Standort der Universität für angewandte Kunst; dort findet u. a. die Clubnacht Clubgewandte statt.",
@@ -6587,8 +6628,8 @@ const VI={
   "src": [
    "https://www.goabase.net/party/maiden-voyage/118000"
   ],
-  "noLogo": "2026-11-11",
-  "infoChk": "2026-11-11"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15"
  },
  "BC Vienna Arena": {
   "io": [
@@ -6632,10 +6673,12 @@ const VI={
   "en": "Curated, cross-disciplinary incubator for creative practitioners in a former City of Vienna school in Margareten; about 140 creatives on over 3,600 m² (painting, film, dance, design, music).",
   "web": "https://viennaartweek.at/en/program/creative-cluster-open-doors",
   "src": [
-   "https://viennaartweek.at/en/program/creative-cluster-open-doors"
+   "https://viennaartweek.at/en/program/creative-cluster-open-doors",
+   "https://www.viennaartweek.at/en/program/open-doors-3"
   ],
-  "noLogo": "2026-11-13",
-  "infoChk": "2026-11-13"
+  "noLogo": "2026-11-15",
+  "infoChk": "2026-11-15",
+  "opened": "2019"
  }
 };
 /* LS = Logo-Suche ohne Treffer für Locations (v) / Kollektive (c) ohne VI-/CI-Eintrag: Datum der letzten Suche; frühestens 60 Tage danach erneut suchen. */
