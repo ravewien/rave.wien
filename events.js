@@ -7283,8 +7283,12 @@ const VI={
   "de": "Veranstaltungsraum, Produktionsstudio und Forschungslabor in der Absberggasse in Favoriten mit abendlichen Events, Konzerten, Tanz, Gasttheater und Ausstellungen.",
   "en": "Event space, production studio and research lab on Absberggasse in Favoriten hosting evening events, concerts, dance, guest theatre and exhibitions.",
   "src": [
-   "https://rausgegangen.de/en/locations/das-lot/"
-  ]
+   "https://rausgegangen.de/en/locations/das-lot/",
+   "https://www.artrabbit.com/organisations/das-lot-vienna"
+  ],
+  "web": "https://www.lot.wien/",
+  "noLogo": "2026-11-16",
+  "infoChk": "2026-11-16"
  }
 };
 /* LS = Logo-Suche ohne Treffer für Locations (v) / Kollektive (c) ohne VI-/CI-Eintrag: Datum der letzten Suche; frühestens 60 Tage danach erneut suchen. */
@@ -52149,6 +52153,34 @@ const AR={
   "noLinks": "2026-11-15",
   "infoChk": "2026-11-15",
   "spChk": "2026-11-15"
+ },
+ "Cancer House": {
+  "genres": [
+   "Ambient",
+   "Experimental"
+  ],
+  "bio": {
+   "de": "Live-Projekt aus dem Ambient- und Experimental-Umfeld. Veröffentlicht auf Bandcamp u. a. die EP „demos“ (2024) sowie Singles wie „Waterscene“ (2026); Auftritte u. a. bei der Reihe Collerette in Paris.",
+   "en": "Live project from the ambient and experimental field. Releases on Bandcamp include the EP \"demos\" (2024) and singles such as \"Waterscene\" (2026); appearances include the Collerette series in Paris."
+  },
+  "links": {
+   "bc": "https://cancerhouse.bandcamp.com/",
+   "sp": "https://open.spotify.com/artist/5h90IG7NOZURivxPGkr6Lb"
+  },
+  "noImg": "2026-11-16",
+  "infoChk": "2026-11-16",
+  "spChk": "2026-11-16",
+  "src": [
+   "https://cancerhouse.bandcamp.com/album/demos",
+   "https://open.spotify.com/album/2PPqgdV1xk4vW02TydQHRt",
+   "https://ra.co/events/2572969"
+  ]
+ },
+ "When It's Over": {
+  "noImg": "2026-11-16",
+  "noLinks": "2026-11-16",
+  "infoChk": "2026-11-16",
+  "spChk": "2026-11-16"
  }
 };
 
