@@ -26,27 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-14-rave-on-xxl-4-0@rave.wien
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Vienna:20261114T220000
-DTEND;TZID=Europe/Vienna:20261115T030000
-SUMMARY:RAVE ON XXL 4.0
-LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
-DESCRIPTION:Dune\, Neophyte\, Maissouille\, Radze\, Toge\, Miss Pixie aka
-  Tekniker\, Genetek\, Apocalypz\, The Rave Bear\, Klaut-G\, Veneno\, SYC
- \, Gingertek\, Auditore\, Brandix\, Se.Vero\, Gosh\, Fullip\, Poison\, P
- ara2P3ctrum\, Louisa India\, Kandy\, MATIVIO\nVeranstalter: Rave On Vien
- na\nEintritt: 34\,90 € (Final Phase\; günstigere Stufen ausverkauft)\
- n\nDie vierte XXL-Ausgabe der Reihe Rave On\, veranstaltet von Sun & Moo
- n Event\, belegt den Club Exil mit einem großen Line-up aus rund zwei D
- utzend Acts\, darunter Dune und Neophyte sowie u. a. Miss Pixie aka Tekn
- iker\, Apocalypz\, Veneno und Mativio. Einlass ab 22:00. Alle günstiger
- en Ticketstufen sind bereits ausverkauft. Ab 18\; ein Gratis-Partybus pe
- ndelt zwischen Siebenhirten (U6) und dem Exil.\n\nhttps://rave.wien/e/20
- 26-11-14-rave-on-xxl-4-0
-URL:https://rave.wien/e/2026-11-14-rave-on-xxl-4-0
-END:VEVENT
-BEGIN:VEVENT
 UID:2024-03-01-techno-entgleist-bussis-aus-berlin@rave.wien
 DTSTAMP:20240301T000000Z
 DTSTART;TZID=Europe/Vienna:20240301T230000
@@ -84,5 +63,26 @@ DESCRIPTION:Anatol\, Tomagan\, Louisa India\, Pinklotion\, adrialin\nVera
  twoch-special-edition-grelle-forelle
 URL:https://rave.wien/e/2026-10-24-rave-am-mittwoch-special-edition-grell
  e-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-rave-on-xxl-4-0@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T220000
+DTEND;TZID=Europe/Vienna:20261115T030000
+SUMMARY:RAVE ON XXL 4.0
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Dune\, Neophyte\, Maissouille\, Radze\, Toge\, Miss Pixie aka
+  Tekniker\, Genetek\, Apocalypz\, The Rave Bear\, Klaut-G\, Veneno\, SYC
+ \, Gingertek\, Auditore\, Brandix\, Se.Vero\, Gosh\, Fullip\, Poison\, P
+ ara2P3ctrum\, Louisa India\, Kandy\, MATIVIO\nVeranstalter: Rave On Vien
+ na\nEintritt: 34\,90 € (Final Phase\; günstigere Stufen ausverkauft)\
+ n\nDie vierte XXL-Ausgabe der Reihe Rave On\, veranstaltet von Sun & Moo
+ n Event\, belegt den Club Exil mit einem großen Line-up aus rund zwei D
+ utzend Acts\, darunter Dune und Neophyte sowie u. a. Miss Pixie aka Tekn
+ iker\, Apocalypz\, Veneno und Mativio. Einlass ab 22:00. Alle günstiger
+ en Ticketstufen sind bereits ausverkauft. Ab 18\; ein Gratis-Partybus pe
+ ndelt zwischen Siebenhirten (U6) und dem Exil.\n\nhttps://rave.wien/e/20
+ 26-11-14-rave-on-xxl-4-0
+URL:https://rave.wien/e/2026-11-14-rave-on-xxl-4-0
 END:VEVENT
 END:VCALENDAR

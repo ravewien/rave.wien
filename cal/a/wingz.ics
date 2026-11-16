@@ -26,25 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-14-the-hive@rave.wien
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Vienna:20261114T230000
-DTEND;TZID=Europe/Vienna:20261115T040000
-SUMMARY:The Hive
-LOCATION:Flex\, Augartenbrücke 1\, 1010 Wien
-DESCRIPTION:Ed Rush\, Waeys\, Wingz\, Inaya\, Scapula & Weazl\, Sinis\, M
- ayez\, 5HA5H\nVeranstalter: The Hive\, Collapse\nEintritt: Early Bird 14
-  € / Phase 1 18 € / Phase 2 21 € (VVK)\, AK TBA\n\nNeue Ausgabe de
- r Drum-&-Bass-Reihe The Hive\, gemeinsam veranstaltet von The Hive und C
- ollapse im Flex. Ganz oben auf dem Lineup steht Ed Rush aus Großbritann
- ien\, dazu Waeys aus den Niederlanden und Wingz aus Österreich. Lokal e
- rgänzen Inaya\, Scapula & Weazl\, Sinis b2b Mayez und 5HA5H. Einlass 23
- :00\, ab 16\; VVK über Tickethead (Early Bird 14 €\, Phase 1 18 €\,
-  Phase 2 21 €)\, Abendkasse noch offen. Set-Zeiten und Ende nennt der 
- Club nicht.\n\nhttps://rave.wien/e/2026-11-14-the-hive
-URL:https://rave.wien/e/2026-11-14-the-hive
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-28-citruscue-presents-coido-wingz@rave.wien
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Vienna:20261128T235900
@@ -126,5 +107,24 @@ DESCRIPTION:Creatures\, Wingz\nVeranstalter: Fuelized\n\nhttps://rave.wie
  n/e/2025-11-08-fuelized-2-year-anniversary-w-creatures-uk-wingz
 URL:https://rave.wien/e/2025-11-08-fuelized-2-year-anniversary-w-creature
  s-uk-wingz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-the-hive@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T230000
+DTEND;TZID=Europe/Vienna:20261115T040000
+SUMMARY:The Hive
+LOCATION:Flex\, Augartenbrücke 1\, 1010 Wien
+DESCRIPTION:Ed Rush\, Waeys\, Wingz\, Inaya\, Scapula & Weazl\, Sinis\, M
+ ayez\, 5HA5H\nVeranstalter: The Hive\, Collapse\nEintritt: Early Bird 14
+  € / Phase 1 18 € / Phase 2 21 € (VVK)\, AK TBA\n\nNeue Ausgabe de
+ r Drum-&-Bass-Reihe The Hive\, gemeinsam veranstaltet von The Hive und C
+ ollapse im Flex. Ganz oben auf dem Lineup steht Ed Rush aus Großbritann
+ ien\, dazu Waeys aus den Niederlanden und Wingz aus Österreich. Lokal e
+ rgänzen Inaya\, Scapula & Weazl\, Sinis b2b Mayez und 5HA5H. Einlass 23
+ :00\, ab 16\; VVK über Tickethead (Early Bird 14 €\, Phase 1 18 €\,
+  Phase 2 21 €)\, Abendkasse noch offen. Set-Zeiten und Ende nennt der 
+ Club nicht.\n\nhttps://rave.wien/e/2026-11-14-the-hive
+URL:https://rave.wien/e/2026-11-14-the-hive
 END:VEVENT
 END:VCALENDAR

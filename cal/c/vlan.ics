@@ -26,6 +26,28 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-19-heavy-listening-with-tanja-turner-mert-seger-heap@rave.wien
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=Europe/Vienna:20261119T200000
+DTEND;TZID=Europe/Vienna:20261119T230000
+SUMMARY:HEAVY LISTENING with Tanja Turner\, Mert Seger & Heap
+LOCATION:Coco Bar\, Lerchenfelder Gürtel Stadtbahnbogen 34–35\, 1080 W
+ ien
+DESCRIPTION:Tanja Turner\, Mert Seger\, Heap\nVeranstalter: VLAN\nEintrit
+ t: 15 €\n\nWeitere Ausgabe der Listening-Reihe HEAVY LISTENING (VLAN)\
+ , diesmal in der Coco Bar in den Gürtelbögen. Tanja Turner\, Wiener DJ
+  und Kuratorin\, spielt Sets zwischen introspektiv-düster und verspielt
+ -energetisch. Mert Seger stellt das neue Album eines Produzenten aus Lyo
+ n vor: trüber\, verschobener Industrial-Dub mit schwerem Bass und dunst
+ igen Texturen. Heap aus Neubau steht für rohe\, kantige\, abstrakte Ele
+ ktronik für den Dancefloor. RA taggt Experimental und Dub Techno\; 20:0
+ 0–23:00\, 15 €\, ab 18\, gefördert von der Stadt Wien (MA 7).\n\nht
+ tps://rave.wien/e/2026-11-19-heavy-listening-with-tanja-turner-mert-sege
+ r-heap
+URL:https://rave.wien/e/2026-11-19-heavy-listening-with-tanja-turner-mert
+ -seger-heap
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-14-heavy-listening-with-kobermann-mpu101-dino-spilut@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T193000
@@ -48,27 +70,5 @@ DESCRIPTION:Kobermann\, MPU101\, Dino Spiluttini\nVeranstalter: VLAN\nEin
  pilut
 URL:https://rave.wien/e/2026-11-14-heavy-listening-with-kobermann-mpu101-
  dino-spilut
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-heavy-listening-with-tanja-turner-mert-seger-heap@rave.wien
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Vienna:20261119T200000
-DTEND;TZID=Europe/Vienna:20261119T230000
-SUMMARY:HEAVY LISTENING with Tanja Turner\, Mert Seger & Heap
-LOCATION:Coco Bar\, Lerchenfelder Gürtel Stadtbahnbogen 34–35\, 1080 W
- ien
-DESCRIPTION:Tanja Turner\, Mert Seger\, Heap\nVeranstalter: VLAN\nEintrit
- t: 15 €\n\nWeitere Ausgabe der Listening-Reihe HEAVY LISTENING (VLAN)\
- , diesmal in der Coco Bar in den Gürtelbögen. Tanja Turner\, Wiener DJ
-  und Kuratorin\, spielt Sets zwischen introspektiv-düster und verspielt
- -energetisch. Mert Seger stellt das neue Album eines Produzenten aus Lyo
- n vor: trüber\, verschobener Industrial-Dub mit schwerem Bass und dunst
- igen Texturen. Heap aus Neubau steht für rohe\, kantige\, abstrakte Ele
- ktronik für den Dancefloor. RA taggt Experimental und Dub Techno\; 20:0
- 0–23:00\, 15 €\, ab 18\, gefördert von der Stadt Wien (MA 7).\n\nht
- tps://rave.wien/e/2026-11-19-heavy-listening-with-tanja-turner-mert-sege
- r-heap
-URL:https://rave.wien/e/2026-11-19-heavy-listening-with-tanja-turner-mert
- -seger-heap
 END:VEVENT
 END:VCALENDAR

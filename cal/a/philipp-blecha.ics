@@ -26,6 +26,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-07-13-flashback-techno-classics-pompadour-grelle-forell@rave.wien
+DTSTAMP:20240713T000000Z
+DTSTART;TZID=Europe/Vienna:20240713T230000
+DTEND;TZID=Europe/Vienna:20240714T040000
+SUMMARY:FLASHBACK Techno Classics & Pompadour @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Frau Hofmann\, Joro & Joabo\, Rokis\, Peter Pan\, Tom Snow\, 
+ Martin Oelz\, MC Mars\, MC Spot\, Veronika Amie\, Thomas Grün\, Philipp
+  Blecha\nVeranstalter: Flashback\, Club Pompadour\n\nKitchen gehostet vo
+ n „Pompadour“\n\nhttps://rave.wien/e/2024-07-13-flashback-techno-cla
+ ssics-pompadour-grelle-forell
+URL:https://rave.wien/e/2024-07-13-flashback-techno-classics-pompadour-gr
+ elle-forell
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-14-club-pompadour@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T230000
@@ -43,20 +58,5 @@ DESCRIPTION:Veronika Amie\, Paul Panther\, Philipp Blecha\nVeranstalter:
  s-Team vor Ort\; Set-Zeiten wurden nicht veröffentlicht.\n\nhttps://rav
  e.wien/e/2026-11-14-club-pompadour
 URL:https://rave.wien/e/2026-11-14-club-pompadour
-END:VEVENT
-BEGIN:VEVENT
-UID:2024-07-13-flashback-techno-classics-pompadour-grelle-forell@rave.wien
-DTSTAMP:20240713T000000Z
-DTSTART;TZID=Europe/Vienna:20240713T230000
-DTEND;TZID=Europe/Vienna:20240714T040000
-SUMMARY:FLASHBACK Techno Classics & Pompadour @ Grelle Forelle
-LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Frau Hofmann\, Joro & Joabo\, Rokis\, Peter Pan\, Tom Snow\, 
- Martin Oelz\, MC Mars\, MC Spot\, Veronika Amie\, Thomas Grün\, Philipp
-  Blecha\nVeranstalter: Flashback\, Club Pompadour\n\nKitchen gehostet vo
- n „Pompadour“\n\nhttps://rave.wien/e/2024-07-13-flashback-techno-cla
- ssics-pompadour-grelle-forell
-URL:https://rave.wien/e/2024-07-13-flashback-techno-classics-pompadour-gr
- elle-forell
 END:VEVENT
 END:VCALENDAR

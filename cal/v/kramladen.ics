@@ -26,25 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-14-derisch@rave.wien
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Vienna:20261114T235500
-DTEND;TZID=Europe/Vienna:20261115T045500
-SUMMARY:Derisch
-LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
- ien
-DESCRIPTION:HÄNSCH\, KORKI\, AUGEN ZU\, MØCK\nVeranstalter: Derisch\nEi
- ntritt frei\n\nDERISCH geht im Kramladen in die nächste Runde. Laut fre
- y-tag gibt es zwei Debüts: HÄNSCH spielt zum ersten Mal\, AUGEN ZU spi
- elt ein Back-to-back-Set mit MØCK. Als Genre ist Techno angegeben\, der
-  Eintritt ist frei. KORKI steht auf RA im Line-up\, wird auf frey-tag ab
- er nicht genannt\; Techno Airlines führt das Event fälschlich im Tagad
- a. Die RA-Seite nennt im Text Kramladen (00:00 bis open end\, „Eintrit
- t an der Tür“)\, führt als Ort aber Tagada und 23:59–06:00.\n\nhtt
- ps://rave.wien/e/2026-11-14-derisch
-URL:https://rave.wien/e/2026-11-14-derisch
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-19-teknoteka@rave.wien
 DTSTAMP:20261119T000000Z
 DTSTART;TZID=Europe/Vienna:20261119T230000
@@ -2193,5 +2174,24 @@ DESCRIPTION:Alex Skorin\, Constant.Change\, dj wernerschnitzel\, Psycholy
   spricht von „Samstag“\, das Datum 13.11.2026 ist jedoch ein Freitag
  .\n\nhttps://rave.wien/e/2026-11-13-mitmischen
 URL:https://rave.wien/e/2026-11-13-mitmischen
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-derisch@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T235500
+DTEND;TZID=Europe/Vienna:20261115T045500
+SUMMARY:Derisch
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:HÄNSCH\, KORKI\, AUGEN ZU\, MØCK\nVeranstalter: Derisch\nEi
+ ntritt frei\n\nDERISCH geht im Kramladen in die nächste Runde. Laut fre
+ y-tag gibt es zwei Debüts: HÄNSCH spielt zum ersten Mal\, AUGEN ZU spi
+ elt ein Back-to-back-Set mit MØCK. Als Genre ist Techno angegeben\, der
+  Eintritt ist frei. KORKI steht auf RA im Line-up\, wird auf frey-tag ab
+ er nicht genannt\; Techno Airlines führt das Event fälschlich im Tagad
+ a. Die RA-Seite nennt im Text Kramladen (00:00 bis open end\, „Eintrit
+ t an der Tür“)\, führt als Ort aber Tagada und 23:59–06:00.\n\nhtt
+ ps://rave.wien/e/2026-11-14-derisch
+URL:https://rave.wien/e/2026-11-14-derisch
 END:VEVENT
 END:VCALENDAR

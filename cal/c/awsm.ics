@@ -26,26 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-14-awsm-leopoldi-afterparty@rave.wien
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Vienna:20261114T220000
-DTEND;TZID=Europe/Vienna:20261115T040000
-SUMMARY:AWSM. Leopoldi Afterparty
-LOCATION:Stiftskeller Klosterneuburg\, Albrechtsbergergasse 1\, 3400 Klos
- terneuburg Wien
-DESCRIPTION:MAWU\nVeranstalter: AWSM\nEintritt: 15 € (zzgl. Tickethead-
- Gebühr)\n\nAfterparty zum Leopoldi-Kirtag in Klosterneuburg: AWSM über
- nimmt den Stiftskeller (Albrechtsbergergasse 1) unter dem Stiftsrestaura
- nt Leopold – ein Gewölbekeller mit hohen Decken und Ziegelwänden –
-  für eine Afro-House-Nacht mit MAWU. 22:00–04:00\, Dresscode classy/s
- mart\, ab 19 mit Ausweis. Tickets ausschließlich über Tickethead: Earl
- y Bird (10 €) ist ausverkauft\, Standard 15 € zzgl. Gebühr. Anreise
-  mit S40 bis Klosterneuburg-Kierling oder U4 Heiligenstadt und Bus 400/4
- 02\; die erste S40 zurück fährt um 04:33.\n\nhttps://rave.wien/e/2026-
- 11-14-awsm-leopoldi-afterparty
-URL:https://rave.wien/e/2026-11-14-awsm-leopoldi-afterparty
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-27-awsm-skyscraper-edition-extra-date@rave.wien
 DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Vienna:20261127T230000
@@ -78,5 +58,25 @@ DESCRIPTION:MAWU\, Benjay\nVeranstalter: AWSM\nEintritt: €30–40 (gün
  \, Dresscode classy/smart\; Anreise mit der U1 bis Kaisermühlen-VIC.\n\
  nhttps://rave.wien/e/2026-11-28-awsm-skyscraper-edition
 URL:https://rave.wien/e/2026-11-28-awsm-skyscraper-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-awsm-leopoldi-afterparty@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T220000
+DTEND;TZID=Europe/Vienna:20261115T040000
+SUMMARY:AWSM. Leopoldi Afterparty
+LOCATION:Stiftskeller Klosterneuburg\, Albrechtsbergergasse 1\, 3400 Klos
+ terneuburg Wien
+DESCRIPTION:MAWU\nVeranstalter: AWSM\nEintritt: 15 € (zzgl. Tickethead-
+ Gebühr)\n\nAfterparty zum Leopoldi-Kirtag in Klosterneuburg: AWSM über
+ nimmt den Stiftskeller (Albrechtsbergergasse 1) unter dem Stiftsrestaura
+ nt Leopold – ein Gewölbekeller mit hohen Decken und Ziegelwänden –
+  für eine Afro-House-Nacht mit MAWU. 22:00–04:00\, Dresscode classy/s
+ mart\, ab 19 mit Ausweis. Tickets ausschließlich über Tickethead: Earl
+ y Bird (10 €) ist ausverkauft\, Standard 15 € zzgl. Gebühr. Anreise
+  mit S40 bis Klosterneuburg-Kierling oder U4 Heiligenstadt und Bus 400/4
+ 02\; die erste S40 zurück fährt um 04:33.\n\nhttps://rave.wien/e/2026-
+ 11-14-awsm-leopoldi-afterparty
+URL:https://rave.wien/e/2026-11-14-awsm-leopoldi-afterparty
 END:VEVENT
 END:VCALENDAR

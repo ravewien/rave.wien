@@ -26,22 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-14-stubble-rust@rave.wien
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Vienna:20261114T235500
-DTEND;TZID=Europe/Vienna:20261115T040000
-SUMMARY:Stubble & Rust
-LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
-DESCRIPTION:Stubble & Rust\nEintritt: Freie Spende\n\nStubble & Rust ist 
- ein Wiener Vinyl-DJ-Duo\, das im Loop in den Stadtbahnbögen am Gürtel 
- auflegt. Ihre Sets bewegen sich in klassischem\, groovigem Stil zwischen
-  Funk\, Disco\, Nu Disco und House. Die Clubnacht läuft von 23:55 bis 0
- 4:00\, im Anschluss an das Konzert der Jazz-Band The Peckers am selben A
- bend. Eintritt gegen freie Spende.\n\nhttps://rave.wien/e/2026-11-14-stu
- bble-rust
-URL:https://rave.wien/e/2026-11-14-stubble-rust
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-21-vie-n-b@rave.wien
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Vienna:20261121T235900
@@ -143,5 +127,21 @@ DESCRIPTION:Kann&Will\nVeranstalter: Kann&Will\nEintritt: 5–7 €\n\nAf
  ria-kann-will
 URL:https://rave.wien/e/2026-11-12-ingenieur-innen-ohne-grenzen-austria-k
  ann-will
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-stubble-rust@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T235500
+DTEND;TZID=Europe/Vienna:20261115T040000
+SUMMARY:Stubble & Rust
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:Stubble & Rust\nEintritt: Freie Spende\n\nStubble & Rust ist 
+ ein Wiener Vinyl-DJ-Duo\, das im Loop in den Stadtbahnbögen am Gürtel 
+ auflegt. Ihre Sets bewegen sich in klassischem\, groovigem Stil zwischen
+  Funk\, Disco\, Nu Disco und House. Die Clubnacht läuft von 23:55 bis 0
+ 4:00\, im Anschluss an das Konzert der Jazz-Band The Peckers am selben A
+ bend. Eintritt gegen freie Spende.\n\nhttps://rave.wien/e/2026-11-14-stu
+ bble-rust
+URL:https://rave.wien/e/2026-11-14-stubble-rust
 END:VEVENT
 END:VCALENDAR

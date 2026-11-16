@@ -26,23 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-14-nto-live@rave.wien
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Vienna:20261114T190000
-DTEND;TZID=Europe/Vienna:20261114T230000
-SUMMARY:NTO live
-LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
-DESCRIPTION:NTO\, Prismode\, Solvane\nEintritt: ab 25 €\n\nDer französ
- ische Produzent NTO macht mit seiner neuen Live-Tour Station im O der Kl
- ub. Er spielt melodischen Techno mit emotionaler Tiefe\, darunter neue\,
-  unveröffentlichte Tracks seines kommenden Albums. Die Show ist als Mis
- chung aus Konzert und Club mit treibenden Beats und filmischen Klangflä
- chen angelegt. Beginn 19:00\, Tickets ab 25 € über ticketlodge\; Supp
- ort und Set-Zeiten sind nicht genannt.\n\nhttps://rave.wien/e/2026-11-14
- -nto-live
-URL:https://rave.wien/e/2026-11-14-nto-live
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-27-november-transmission@rave.wien
 DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Vienna:20261127T230000
@@ -275,5 +258,22 @@ DESCRIPTION:Fatima Hajji\nVeranstalter: SIGNAL\nEintritt: 12–25 €\n\n
  ght-Long im Fabrik Madrid. Beginn 23:00\, Tickets 12–25 € (laut RA)\
  , Dresscode casual.\n\nhttps://rave.wien/e/2026-11-13-fatima-hajji
 URL:https://rave.wien/e/2026-11-13-fatima-hajji
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-nto-live@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T190000
+DTEND;TZID=Europe/Vienna:20261114T230000
+SUMMARY:NTO live
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:NTO\, Prismode\, Solvane\nEintritt: ab 25 €\n\nDer französ
+ ische Produzent NTO macht mit seiner neuen Live-Tour Station im O der Kl
+ ub. Er spielt melodischen Techno mit emotionaler Tiefe\, darunter neue\,
+  unveröffentlichte Tracks seines kommenden Albums. Die Show ist als Mis
+ chung aus Konzert und Club mit treibenden Beats und filmischen Klangflä
+ chen angelegt. Beginn 19:00\, Tickets ab 25 € über ticketlodge\; Supp
+ ort und Set-Zeiten sind nicht genannt.\n\nhttps://rave.wien/e/2026-11-14
+ -nto-live
+URL:https://rave.wien/e/2026-11-14-nto-live
 END:VEVENT
 END:VCALENDAR

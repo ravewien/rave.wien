@@ -26,6 +26,20 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-10-24-elemnt-pres-kanine-reflections-arcando-basstrippe@rave.wien
+DTSTAMP:20261024T000000Z
+DTSTART;TZID=Europe/Vienna:20261024T220000
+DTEND;TZID=Europe/Vienna:20261025T060000
+SUMMARY:ELEMNT pres. KANINE – Reflections + ARCANDO + BASSTRIPPER + GRA
+ FIX + SKIYE
+LOCATION:Arena Wien\, Baumgasse 80\, 1030 Wien
+DESCRIPTION:Kanine\, Arcando\, Basstripper\, Grafix\, Skiye\nVeranstalter
+ : ELEMNT\n\nDrum & Bass in der Arena Wien.\n\nhttps://rave.wien/e/2026-1
+ 0-24-elemnt-pres-kanine-reflections-arcando-basstrippe
+URL:https://rave.wien/e/2026-10-24-elemnt-pres-kanine-reflections-arcando
+ -basstrippe
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-14-out-of-ctrl-eardrums@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T220000
@@ -46,19 +60,5 @@ DESCRIPTION:Corps A Core\, Gotek\, David Green\, Nexxor\, Maddike\, CaHOL
   €)\, Beginn 22 Uhr\; Genres und Floor-Aufteilung nennt die Arena nich
  t.\n\nhttps://rave.wien/e/2026-11-14-out-of-ctrl-eardrums
 URL:https://rave.wien/e/2026-11-14-out-of-ctrl-eardrums
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-24-elemnt-pres-kanine-reflections-arcando-basstrippe@rave.wien
-DTSTAMP:20261024T000000Z
-DTSTART;TZID=Europe/Vienna:20261024T220000
-DTEND;TZID=Europe/Vienna:20261025T060000
-SUMMARY:ELEMNT pres. KANINE – Reflections + ARCANDO + BASSTRIPPER + GRA
- FIX + SKIYE
-LOCATION:Arena Wien\, Baumgasse 80\, 1030 Wien
-DESCRIPTION:Kanine\, Arcando\, Basstripper\, Grafix\, Skiye\nVeranstalter
- : ELEMNT\n\nDrum & Bass in der Arena Wien.\n\nhttps://rave.wien/e/2026-1
- 0-24-elemnt-pres-kanine-reflections-arcando-basstrippe
-URL:https://rave.wien/e/2026-10-24-elemnt-pres-kanine-reflections-arcando
- -basstrippe
 END:VEVENT
 END:VCALENDAR

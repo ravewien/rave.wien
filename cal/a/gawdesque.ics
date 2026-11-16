@@ -26,25 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-14-once-in-a-blue-moon-kiki-ball-afterparty@rave.wien
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Vienna:20261114T170000
-DTEND;TZID=Europe/Vienna:20261115T060000
-SUMMARY:Once in a Blue Moon – Kiki Ball + Afterparty
-LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
-DESCRIPTION:Gawdesque\, Amina Malounadou\, Bellavie\nVeranstalter: Kaisa 
- Bodega\, Pingpaya Fenty Savage\n\nKaisa Bodega und Pingpaya Fenty Savage
-  präsentieren einen Kiki Ball mit anschließender Afterparty im Funkhau
- s. Angekündigt ist eine Ballroom-Nacht voller Glamour\, Fantasie und Ve
- rwandlung\, in der Gäste ihre seltensten Seiten zeigen sollen – etwas
- \, das nur „once in a blue moon“ passiert. Genannt sind Gawdesque\, 
- Amina Malounadou und Bellavie\; Kategorien\, Hosts\, Judges und Ablauf s
- tehen noch nicht fest. Beginn 17:00\, Ende 06:00\, ab 18.\n\nhttps://rav
- e.wien/e/2026-11-14-once-in-a-blue-moon-kiki-ball-afterparty
-URL:https://rave.wien/e/2026-11-14-once-in-a-blue-moon-kiki-ball-afterpar
- ty
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-21-polychaos-dubium@rave.wien
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Vienna:20261121T230000
@@ -63,5 +44,24 @@ DESCRIPTION:Gawdesque\, anxxxious_t\, Kmanxak\, Ironica Los Culos\, Nova.
  06:00\, der Beschreibungstext 22:00–04:00. Ein Eintrittspreis ist nich
  t angegeben.\n\nhttps://rave.wien/e/2026-11-21-polychaos-dubium
 URL:https://rave.wien/e/2026-11-21-polychaos-dubium
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-once-in-a-blue-moon-kiki-ball-afterparty@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T170000
+DTEND;TZID=Europe/Vienna:20261115T060000
+SUMMARY:Once in a Blue Moon – Kiki Ball + Afterparty
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Gawdesque\, Amina Malounadou\, Bellavie\nVeranstalter: Kaisa 
+ Bodega\, Pingpaya Fenty Savage\n\nKaisa Bodega und Pingpaya Fenty Savage
+  präsentieren einen Kiki Ball mit anschließender Afterparty im Funkhau
+ s. Angekündigt ist eine Ballroom-Nacht voller Glamour\, Fantasie und Ve
+ rwandlung\, in der Gäste ihre seltensten Seiten zeigen sollen – etwas
+ \, das nur „once in a blue moon“ passiert. Genannt sind Gawdesque\, 
+ Amina Malounadou und Bellavie\; Kategorien\, Hosts\, Judges und Ablauf s
+ tehen noch nicht fest. Beginn 17:00\, Ende 06:00\, ab 18.\n\nhttps://rav
+ e.wien/e/2026-11-14-once-in-a-blue-moon-kiki-ball-afterparty
+URL:https://rave.wien/e/2026-11-14-once-in-a-blue-moon-kiki-ball-afterpar
+ ty
 END:VEVENT
 END:VCALENDAR

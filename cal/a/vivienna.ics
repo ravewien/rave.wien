@@ -26,27 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-14-paradies-garten-w-paracek@rave.wien
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Vienna:20261114T230000
-DTEND;TZID=Europe/Vienna:20261115T060000
-SUMMARY:Paradies Garten w/ Paraçek
-LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Mainfloor: Paraçek\, MARØ\, Vivienna\nKitchen: Felix Ruppre
- cht\, Mariephi\, Manuel Correa\, Sora\nVeranstalter: Paradies Garten\nEi
- ntritt: Ausverkauft. Limitierte Abendkasse\n\nParadies Garten kehrt nach
-  dem Sommer in die Grelle Forelle zurück\, mit einem durchgehend energi
- egeladenen Lineup. Headliner Paraçek aus Deutschland kommt aus der Free
- -Rave-Szene von Leipzig und Dresden und verbindet schnellen Hard Dance m
- it 90er-Trance und Acid-Rave\, eingängigen Vocals\, euphorischen Synths
-  und kräftigen Basslines. Am Mainfloor spielen außerdem MARØ und Vivi
- enna. In der Kitchen legen Felix Rupprecht\, Mariephi sowie Manuel Corre
- a b2b Sora auf. Einlass und Abendkassa ab 23:00\, Vorverkauf über Paylo
- gic\; RA nennt 18+\, Hausregel der Location ist 21+.\n\nhttps://rave.wie
- n/e/2026-11-14-paradies-garten-w-paracek
-URL:https://rave.wien/e/2026-11-14-paradies-garten-w-paracek
-END:VEVENT
-BEGIN:VEVENT
 UID:2024-09-28-tattu-tatta-glub-polyamor@rave.wien
 DTSTAMP:20240928T000000Z
 DTSTART;TZID=Europe/Vienna:20240928T230000
@@ -155,5 +134,26 @@ DESCRIPTION:Bambi-S\, AEND\, DJ Lelo\, Ivan\, DJ.org\, Vivienna\, Cherche
  s\, COBRA\nVeranstalter: Radio Rudina\n\nhttps://rave.wien/e/2026-10-10-
  radio-rudina
 URL:https://rave.wien/e/2026-10-10-radio-rudina
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-paradies-garten-w-paracek@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T230000
+DTEND;TZID=Europe/Vienna:20261115T060000
+SUMMARY:Paradies Garten w/ Paraçek
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Paraçek\, MARØ\, Vivienna\, Felix Rupprecht\, Mariephi\, Ma
+ nuel Correa\, Sora\nVeranstalter: Paradies Garten\nEintritt: Ausverkauft
+ . Limitierte Abendkasse\n\nParadies Garten kehrt nach dem Sommer in die 
+ Grelle Forelle zurück\, mit einem durchgehend energiegeladenen Lineup. 
+ Headliner Paraçek aus Deutschland kommt aus der Free-Rave-Szene von Lei
+ pzig und Dresden und verbindet schnellen Hard Dance mit 90er-Trance und 
+ Acid-Rave\, eingängigen Vocals\, euphorischen Synths und kräftigen Bas
+ slines. Am Mainfloor spielen außerdem MARØ und Vivienna. In der Kitche
+ n legen Felix Rupprecht\, Mariephi sowie Manuel Correa b2b Sora auf. Ein
+ lass und Abendkassa ab 23:00\, Vorverkauf über Paylogic\; RA nennt 18+\
+ , Hausregel der Location ist 21+.\n\nhttps://rave.wien/e/2026-11-14-para
+ dies-garten-w-paracek
+URL:https://rave.wien/e/2026-11-14-paradies-garten-w-paracek
 END:VEVENT
 END:VCALENDAR

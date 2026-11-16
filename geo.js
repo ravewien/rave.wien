@@ -6,6 +6,7 @@ const GEO2={
 "BC Vienna Arena":[48.16219,16.33971],
 "Coco Bar":[48.21031,16.339],
 "Creative Cluster Vienna":[48.18878,16.35896],
+"Das Lot":[48.1715,16.3892],
 "Einbaumöbel":[48.21808,16.34246],
 "Fanialive Wien":[48.20948,16.33922],
 "Flex":[48.21778,16.37091],

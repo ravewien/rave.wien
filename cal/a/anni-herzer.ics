@@ -26,23 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-14-radio-rudina@rave.wien
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Vienna:20261114T230000
-DTEND;TZID=Europe/Vienna:20261115T060000
-SUMMARY:Radio Rudina
-LOCATION:PRST\, Praterstraße 18\, 1020 Wien
-DESCRIPTION:Andre Zimmer\, Anni Herzer\, Valentin Zelz\nVeranstalter: Rad
- io Rudina\nEintritt: 13–14 € (Early Bird 13 €)\n\nRadio Rudina lä
- dt in den PRST in der Praterstraße\; laut radiorudina.com unter dem Mot
- to „Radio Rudina invites Fiesta Frizzante“. Es spielen Andre Zimmer\
- , Anni Herzer und Valentin Zelz (auf radiorudina.com „Valentin Zell“
- )\, RA taggt das Event als House. Beginn 23:00\, Ende 06:00. Early-Bird-
- Tickets 13 € über ticket.io\, RA nennt 14 €. RA gibt als Mindestalt
- er 20+ an.\n\nhttps://rave.wien/e/2026-11-14-radio-rudina
-URL:https://rave.wien/e/2026-11-14-radio-rudina
-END:VEVENT
-BEGIN:VEVENT
 UID:2024-05-03-duality-x-demolate@rave.wien
 DTSTAMP:20240503T000000Z
 DTSTART;TZID=Europe/Vienna:20240503T230000
@@ -164,5 +147,22 @@ DESCRIPTION:Anni Herzer\, Felix Rupprecht\, Julani\nVeranstalter: HERZZZ\
  und Taschenkontrolle\; Awareness-Team vor Ort.\n\nhttps://rave.wien/e/20
  26-11-13-herzzz
 URL:https://rave.wien/e/2026-11-13-herzzz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-radio-rudina@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T230000
+DTEND;TZID=Europe/Vienna:20261115T060000
+SUMMARY:Radio Rudina
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Andre Zimmer\, Anni Herzer\, Valentin Zelz\nVeranstalter: Rad
+ io Rudina\nEintritt: 13–14 € (Early Bird 13 €)\n\nRadio Rudina lä
+ dt in den PRST in der Praterstraße\; laut radiorudina.com unter dem Mot
+ to „Radio Rudina invites Fiesta Frizzante“. Es spielen Andre Zimmer\
+ , Anni Herzer und Valentin Zelz (auf radiorudina.com „Valentin Zell“
+ )\, RA taggt das Event als House. Beginn 23:00\, Ende 06:00. Early-Bird-
+ Tickets 13 € über ticket.io\, RA nennt 14 €. RA gibt als Mindestalt
+ er 20+ an.\n\nhttps://rave.wien/e/2026-11-14-radio-rudina
+URL:https://rave.wien/e/2026-11-14-radio-rudina
 END:VEVENT
 END:VCALENDAR

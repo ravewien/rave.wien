@@ -26,25 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-14-once-in-a-blue-moon-kiki-ball-afterparty@rave.wien
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=Europe/Vienna:20261114T170000
-DTEND;TZID=Europe/Vienna:20261115T060000
-SUMMARY:Once in a Blue Moon – Kiki Ball + Afterparty
-LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
-DESCRIPTION:Gawdesque\, Amina Malounadou\, Bellavie\nVeranstalter: Kaisa 
- Bodega\, Pingpaya Fenty Savage\n\nKaisa Bodega und Pingpaya Fenty Savage
-  präsentieren einen Kiki Ball mit anschließender Afterparty im Funkhau
- s. Angekündigt ist eine Ballroom-Nacht voller Glamour\, Fantasie und Ve
- rwandlung\, in der Gäste ihre seltensten Seiten zeigen sollen – etwas
- \, das nur „once in a blue moon“ passiert. Genannt sind Gawdesque\, 
- Amina Malounadou und Bellavie\; Kategorien\, Hosts\, Judges und Ablauf s
- tehen noch nicht fest. Beginn 17:00\, Ende 06:00\, ab 18.\n\nhttps://rav
- e.wien/e/2026-11-14-once-in-a-blue-moon-kiki-ball-afterparty
-URL:https://rave.wien/e/2026-11-14-once-in-a-blue-moon-kiki-ball-afterpar
- ty
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-20-the-house-of-funk-presents-ricky-chong@rave.wien
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Vienna:20261120T230000
@@ -122,6 +103,23 @@ DESCRIPTION:Veranstalter: Apartment Acht\nEintritt: 15–25 € (Shop-Tic
  ndys\, keine Fotos\, die Tanzfläche ist zum Tanzen da.\n\nhttps://rave.
  wien/e/2026-11-28-apartment-acht-birthday-rave
 URL:https://rave.wien/e/2026-11-28-apartment-acht-birthday-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-sonic-grounds-ed-5@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T190000
+DTEND;TZID=Europe/Vienna:20261206T000000
+SUMMARY:Sonic Grounds Ed. 5
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:\nFünfte Ausgabe von Sonic Grounds im Funkhaus Wien. Laut mu
+ sic austria ist Sonic Grounds ein experimentelles Format aus ortsspezifi
+ schen Konzerten\, Performances und offenen Studios im Funkhaus\, kuratie
+ rt von Dror Binder mit Artists aus dem NeverAtHome-Umfeld\; jede Ausgabe
+  reagiert auf die Architektur des Gebäudes. Techno Airlines führt den 
+ Abend als Club Night ab 19:00 Uhr. Ein Lineup ist noch nicht veröffentl
+ icht – eher Experimental- und Live-Format als klassische Clubnacht.\n\
+ nhttps://rave.wien/e/2026-12-05-sonic-grounds-ed-5
+URL:https://rave.wien/e/2026-12-05-sonic-grounds-ed-5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-noche-d-amore-a-dance-romance@rave.wien
@@ -252,5 +250,24 @@ DESCRIPTION:KRN\, Alice (AT)\, foxloe\, Bambalan\nVeranstalter: Club Fata
  Wochenend-Magazin von goodnight.at nennt 13 € Early Bird bzw. 18 € r
  egulär.\n\nhttps://rave.wien/e/2026-11-13-club-fatale-w-krn
 URL:https://rave.wien/e/2026-11-13-club-fatale-w-krn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-14-once-in-a-blue-moon-kiki-ball-afterparty@rave.wien
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=Europe/Vienna:20261114T170000
+DTEND;TZID=Europe/Vienna:20261115T060000
+SUMMARY:Once in a Blue Moon – Kiki Ball + Afterparty
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Gawdesque\, Amina Malounadou\, Bellavie\nVeranstalter: Kaisa 
+ Bodega\, Pingpaya Fenty Savage\n\nKaisa Bodega und Pingpaya Fenty Savage
+  präsentieren einen Kiki Ball mit anschließender Afterparty im Funkhau
+ s. Angekündigt ist eine Ballroom-Nacht voller Glamour\, Fantasie und Ve
+ rwandlung\, in der Gäste ihre seltensten Seiten zeigen sollen – etwas
+ \, das nur „once in a blue moon“ passiert. Genannt sind Gawdesque\, 
+ Amina Malounadou und Bellavie\; Kategorien\, Hosts\, Judges und Ablauf s
+ tehen noch nicht fest. Beginn 17:00\, Ende 06:00\, ab 18.\n\nhttps://rav
+ e.wien/e/2026-11-14-once-in-a-blue-moon-kiki-ball-afterparty
+URL:https://rave.wien/e/2026-11-14-once-in-a-blue-moon-kiki-ball-afterpar
+ ty
 END:VEVENT
 END:VCALENDAR

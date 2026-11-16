@@ -26,6 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-10-31-halloween-rave@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T220000
+DTEND;TZID=Europe/Vienna:20261101T030000
+SUMMARY:Halloween Rave
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Pitch Madattak\, Gehlektek\, Apocalypz\, Cheddar Boyz\, Janex
+ \, Miss Undertaker\, Sportacore\, Veneno\nEintritt: 15 € (nur AK)\n\nH
+ alloween-Rave in der FLUCC Wanne im Zeichen von Tekno\, Acid\, Hardtek u
+ nd Raggatek. Mit drei Live-Acts – Pitch Madattak\, Gehlektek und Apoca
+ lypz – sowie den DJs Cheddar Boyz\, Janex\, Miss Undertaker\, Sportaco
+ re und Veneno. Eintritt 15 €\, nur an der Abendkasse. Die Location nen
+ nt keinen weiteren Beschreibungstext\, keine Set-Zeiten und kein Ende.\n
+ \nhttps://rave.wien/e/2026-10-31-halloween-rave
+URL:https://rave.wien/e/2026-10-31-halloween-rave
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-14-rave-on-xxl-4-0@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T220000
@@ -45,22 +62,5 @@ DESCRIPTION:Dune\, Neophyte\, Maissouille\, Radze\, Toge\, Miss Pixie aka
  ndelt zwischen Siebenhirten (U6) und dem Exil.\n\nhttps://rave.wien/e/20
  26-11-14-rave-on-xxl-4-0
 URL:https://rave.wien/e/2026-11-14-rave-on-xxl-4-0
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-31-halloween-rave@rave.wien
-DTSTAMP:20261031T000000Z
-DTSTART;TZID=Europe/Vienna:20261031T220000
-DTEND;TZID=Europe/Vienna:20261101T030000
-SUMMARY:Halloween Rave
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Pitch Madattak\, Gehlektek\, Apocalypz\, Cheddar Boyz\, Janex
- \, Miss Undertaker\, Sportacore\, Veneno\nEintritt: 15 € (nur AK)\n\nH
- alloween-Rave in der FLUCC Wanne im Zeichen von Tekno\, Acid\, Hardtek u
- nd Raggatek. Mit drei Live-Acts – Pitch Madattak\, Gehlektek und Apoca
- lypz – sowie den DJs Cheddar Boyz\, Janex\, Miss Undertaker\, Sportaco
- re und Veneno. Eintritt 15 €\, nur an der Abendkasse. Die Location nen
- nt keinen weiteren Beschreibungstext\, keine Set-Zeiten und kein Ende.\n
- \nhttps://rave.wien/e/2026-10-31-halloween-rave
-URL:https://rave.wien/e/2026-10-31-halloween-rave
 END:VEVENT
 END:VCALENDAR
