@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-AkseJKHfXMdcqLx8YvMge+xWVzS0FasmGDQ7wmZQ7Sk='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-WVjO1U3Oi87LKlx+s1k4T7onpcPrwMfW2HpHOhNCdO0='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -1160,7 +1160,7 @@ wItems:[["cal","Kalender","Ein Klick auf einen Tag zeigt nur diesen Tag. Ziehen 
 ["filter","Filter","1× klicken: nur das zeigen. 2× klicken: ausblenden. 3× klicken: zurücksetzen."],
 ["search","Suche","Findet Artists, Veranstalter, Locations und Events."],
 ["fav","Favoriten","Der Stern merkt Events, Artists, Veranstalter und Locations. Oben unter ★ findest du alles wieder – samt den kommenden Events deiner Favoriten."],
-["sc","Reinhören","Bei vielen Artists kannst du Sets direkt hier anhören. Der SoundCloud-Player bleibt unten offen, während du weiterstöberst."],
+["sc","Reinhören","Bei vielen Artists kannst du Sets und Tracks direkt hier anhören – von SoundCloud, Mixcloud und Spotify. Der Player bleibt unten offen, während du weiterstöberst."],
 ["check","Häkchen","Blau: auf der Website der Location oder des Veranstalters bestätigt. Grau: von mehreren Quellen bestätigt."],
 ["abo","Kalender-Abo","Jede Location, jeder Veranstalter und jeder Artist hat einen Kalender zum Abonnieren. Neue Termine landen dann von selbst in deinem Kalender."]],
 noLocs:"Keine Locations mit diesen Filtern.",noCols:"Keine Veranstalter mit diesen Filtern.",wDid:"Wusstest du schon?",mcHint:"Tag anklicken – ziehen oder Shift+Klick für einen Zeitraum",mcN:"{n} Events",ty:{d:"datum",col:"veranstalter",src:"quellen",c:"veranstalter",a:"artist",v:"location",g:"genre",f:"vibe",e:"event",age:"alter",price:"preis",time:"zeit",io:"setting"},
@@ -1180,7 +1180,7 @@ wItems:[["cal","Calendar","Click a day to see only that day. Drag or shift-click
 ["filter","Filters","Click once: show only this. Twice: hide it. Three times: reset."],
 ["search","Search","Finds artists, promoters, venues and events."],
 ["fav","Favourites","The star saves events, artists, promoters and venues. You'll find them all under ★ at the top – plus the upcoming events of your favourites."],
-["sc","Listen","For many artists you can play sets right here. The SoundCloud player stays open at the bottom while you keep browsing."],
+["sc","Listen","For many artists you can play sets and tracks right here – from SoundCloud, Mixcloud and Spotify. The player stays open at the bottom while you keep browsing."],
 ["check","Check marks","Blue: confirmed on the venue's or promoter's website. Grey: confirmed by several sources."],
 ["abo","Calendar feeds","Every venue, promoter and artist has a calendar you can subscribe to. New dates then appear in your calendar automatically."]],
 noLocs:"No venues match these filters.",noCols:"No promoters match these filters.",wDid:"Did you know?",mcHint:"Click a day – drag or shift-click for a range",mcN:"{n} events",ty:{d:"date",col:"promoter",src:"sources",c:"promoter",a:"artist",v:"venue",g:"genre",f:"vibe",e:"event",age:"age",price:"price",time:"time",io:"setting"},
@@ -2018,7 +2018,7 @@ const RENDER={ev:(el,id)=>PBYID[id]&&!PBYID[id].ev?renderPastEv(el,PBYID[id]):re
 const WICON={cal:'<svg viewBox="0 0 16 16"><path fill="none" stroke="currentColor" stroke-width="1.4" d="M2 2.5h12v11H2z"/><path fill="currentColor" d="M4.3 5.6h1.6v1.6H4.3zM7.2 5.6h1.6v1.6H7.2zM10.1 5.6h1.6v1.6h-1.6zM4.3 8.8h1.6v1.6H4.3zM7.2 8.8h1.6v1.6H7.2zM10.1 8.8h1.6v1.6h-1.6z"/></svg>',
   filter:'<svg viewBox="0 0 18 18"><path fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" d="M2 3h14l-5.5 6.5V15l-3 1.5V9.5z"/></svg>',
   search:'<svg viewBox="0 0 16 16"><circle cx="6.8" cy="6.8" r="4.3" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M10 10l4 4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>',
-  check:"✓",fav:"★",abo:ICAL,sc:ISC};
+  check:"✓",fav:"★",abo:ICAL,sc:ICPLAY};
 function renderDeck(){
   const rc=$("rcol");const keep=new Set();const l=L();
   st.cards.forEach(c=>{const key=ck(c);keep.add(key);let el=CEL[key];if(!el){el=document.createElement("section");el.setAttribute("aria-live","polite");rc.appendChild(el);CEL[key]=el;el.dataset.fresh=1}
