@@ -69,7 +69,7 @@ Filter „Quellenlage“: „Website der Location“, „Website des Veranstalte
 - "TBA" heißt: Location noch nicht angekündigt (keine echte Location). "Secret Location": nur, wenn ausdrücklich geheim. Beide nie als Location in V/VI anlegen.
 
 ## Schritt 4: Genres
-Genres am Event NUR übernehmen, wenn sie für genau dieses Event in einer Quelle stehen (Eventtext, RA-Genre-Tags, Location-Programm). Keine Genres aus dem Veranstalter-Profil (CG) ans Event kopieren; unbelegte Event-Genres bei der nächsten fälligen Prüfung entfernen (nicht bei man:1). Keine Nicht-Musik-Begriffe und keine Veranstalternamen als Genre.
+Genres am Event NUR übernehmen, wenn sie für genau dieses Event in einer Quelle stehen (Eventtext, RA-Genre-Tags, Location-Programm). Keine Genres aus dem Veranstalter-Profil (CG) ans Event kopieren; unbelegte Event-Genres bei der nächsten fälligen Prüfung entfernen (nicht bei man:1). Keine Nicht-Musik-Begriffe und keine Veranstalternamen als Genre. Sammelbegriffe immer in einzelne Genres aufteilen: „Melodic House & Techno“ → "Melodic House" und "Techno" (nie als ein Genre eintragen); „Drum & Bass“ bleibt ein Genre.
 
 ## Schritt 5: Hausregeln und Soundsystem VR (nur mit Restbudget)
 Generelle Regeln einer Location in VR[Venue]. Bekannt: Grelle Forelle und Das Werk 21+, SASS 18+ und Awareness, O der Klub 18+, im FLUCC Awareness-Person bei Events in der Wanne (dort aw:1 am Event setzen, nicht als Hausregel). Event-Felder überschreiben die Hausregel.
