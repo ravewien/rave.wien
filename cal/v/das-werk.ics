@@ -146,6 +146,25 @@ URL:https://rave.wien/e/2026-11-28-dead-end-showcase-with-paralich-pres-b
  y-gdn
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-05-techno-obscene-36-nine-o-nine-x-lsh@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T230000
+DTEND;TZID=Europe/Vienna:20261206T060000
+SUMMARY:TECHNO OBSCENE #36 – NINE O NINE x LSH
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Albin Brezlan\, Dimitri Cooman\, Huebl\, Invda\, Schwarzmarct
+ \, Serena\nVeranstalter: Nine O Nine\, LSH\, 909techno\, Techno Obscene\
+ nEintritt: 10–15 € (1. Welle 9\,09 €)\n\nDie 36. Ausgabe der Reihe
+  TECHNO OBSCENE von NINE O NINE und LSH bringt rohen\, dreckigen Techno 
+ auf zwei Floors ins Werk. Es spielen Albin Brezlan\, Dimitri Cooman\, Hu
+ ebl\, Invda\, Schwarzmarct und Serena. Die Veranstalter versprechen eine
+ n Raum ohne Labels und Urteile. Es gilt Null-Toleranz gegenüber Homopho
+ bie\, Sexismus\, Rassismus und Hass\, dazu eine No-Photo-Policy und 'No 
+ Shirt\, No Party'.\n\nhttps://rave.wien/e/2026-12-05-techno-obscene-36-n
+ ine-o-nine-x-lsh
+URL:https://rave.wien/e/2026-12-05-techno-obscene-36-nine-o-nine-x-lsh
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-12-psytrance-universe-werk@rave.wien
 DTSTAMP:20261212T000000Z
 DTSTART;TZID=Europe/Vienna:20261212T220000

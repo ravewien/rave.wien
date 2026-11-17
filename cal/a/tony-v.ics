@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//rave.wien//Kalender//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Tony V · rave.wien
+X-WR-CALNAME:TONY V · rave.wien
 X-WR-TIMEZONE:Europe/Vienna
 X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
@@ -26,28 +26,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2024-10-26-techno-entgleist-back-to-the-roots@rave.wien
-DTSTAMP:20241026T000000Z
-DTSTART;TZID=Europe/Vienna:20241026T230000
-DTEND;TZID=Europe/Vienna:20241027T040000
-SUMMARY:TECHNO ENTGLEIST | BACK TO THE ROOTS
+UID:2026-12-05-techno-entgleist-w-nakadia-boho@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T230000
+DTEND;TZID=Europe/Vienna:20261206T060000
+SUMMARY:Techno Entgleist w/ Nakadia & BOHO
 LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Conntex\, Nat Suprise\, Artemis\, Tomagan\, Yansen\, Kon:Stil
- \, Smuf\, Tony V\nVeranstalter: Techno Entgleist\n\nhttps://rave.wien/e/
- 2024-10-26-techno-entgleist-back-to-the-roots
-URL:https://rave.wien/e/2024-10-26-techno-entgleist-back-to-the-roots
-END:VEVENT
-BEGIN:VEVENT
-UID:2025-05-23-8-yrs-techno-entgleist-open-air-indoor@rave.wien
-DTSTAMP:20250523T000000Z
-DTSTART;VALUE=DATE:20250523
-DTEND;VALUE=DATE:20250524
-SUMMARY:8 YRS TECHNO ENTGLEIST | Open Air & Indoor
-LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Mimosa\, Epicuro\, Tomagan\, Alexis Hera\, Danloe\, Anni Herz
- er\, Smuf\, Vibechen\, Max Wagner\, Tony V\nVeranstalter: Techno Entglei
- st\n\nhttps://rave.wien/e/2025-05-23-8-yrs-techno-entgleist-open-air-ind
- oor
-URL:https://rave.wien/e/2025-05-23-8-yrs-techno-entgleist-open-air-indoor
+DESCRIPTION:Hauptbahnhof: Nakadia\, BOHO\nVIBECHEN Speisewagen: DANLOE\, 
+ TONY V\, TRÈS JULIE\nVeranstalter: Techno Entgleist\, LSH\n\nTechno Ent
+ gleist holt Nakadia nach zehn Jahren zurück nach Wien. Die Künstlerin 
+ ist seit über 20 Jahren international aktiv und spielte u. a. auf der L
+ ove Parade\, beim Tomorrowland und am Sziget. Dazu kommt BOHO aus Berlin
+  auf dem Floor 'Hauptbahnhof'. Im 'VIBECHEN Speisewagen' legen DANLOE\, 
+ TONY V und TRÈS JULIE auf. Veranstaltet von Les Suspects Habituels\, Ei
+ nlass ab 21.\n\nhttps://rave.wien/e/2026-12-05-techno-entgleist-w-nakadi
+ a-boho
+URL:https://rave.wien/e/2026-12-05-techno-entgleist-w-nakadia-boho
 END:VEVENT
 END:VCALENDAR

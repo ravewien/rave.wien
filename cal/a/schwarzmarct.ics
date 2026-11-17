@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Schwarzmarct · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-05-techno-obscene-36-nine-o-nine-x-lsh@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T230000
+DTEND;TZID=Europe/Vienna:20261206T060000
+SUMMARY:TECHNO OBSCENE #36 – NINE O NINE x LSH
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Albin Brezlan\, Dimitri Cooman\, Huebl\, Invda\, Schwarzmarct
+ \, Serena\nVeranstalter: Nine O Nine\, LSH\, 909techno\, Techno Obscene\
+ nEintritt: 10–15 € (1. Welle 9\,09 €)\n\nDie 36. Ausgabe der Reihe
+  TECHNO OBSCENE von NINE O NINE und LSH bringt rohen\, dreckigen Techno 
+ auf zwei Floors ins Werk. Es spielen Albin Brezlan\, Dimitri Cooman\, Hu
+ ebl\, Invda\, Schwarzmarct und Serena. Die Veranstalter versprechen eine
+ n Raum ohne Labels und Urteile. Es gilt Null-Toleranz gegenüber Homopho
+ bie\, Sexismus\, Rassismus und Hass\, dazu eine No-Photo-Policy und 'No 
+ Shirt\, No Party'.\n\nhttps://rave.wien/e/2026-12-05-techno-obscene-36-n
+ ine-o-nine-x-lsh
+URL:https://rave.wien/e/2026-12-05-techno-obscene-36-nine-o-nine-x-lsh
+END:VEVENT
+END:VCALENDAR

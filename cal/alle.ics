@@ -26,74 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-15-morgengymnastik-with-redivider@rave.wien
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Vienna:20261115T060000
-DTEND;TZID=Europe/Vienna:20261115T110000
-SUMMARY:Morgengymnastik with Redivider
-LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Apua\, DJ Deadlift\nVeranstalter: Redivider\, Morgengymnastik
- \nEintritt: 15 €\n\nMorgengymnastik-Session der Reihe Redivider im SAS
- S Music Club\, Sonntagmorgen 6–11 Uhr. Redivider ist seit Jahren Teil 
- der Wiener Clubszene und wechselt genreübergreifend zwischen verschiede
- nen Sounds\, Räumen und Stimmungen. Eingeladen ist Apua: DJ\, Produzent
-  und Plattensammler\, seit über zehn Jahren in Österreichs Clubszene a
- ktiv\, mit Releases auf Pager Records und seinem eigenen Label Kopf Bei 
- Fuss\, Resident im Tante Emma Club und Mitgründer des Wiener Labels und
-  Partyformats VIE.W\; gemeinsam mit DJ Deadlift wird er als „Dream Duo
- “ angekündigt. Eintritt 15 €\, ab 18 mit Ausweiskontrolle\; ein Awa
- reness-Team ist vor Ort.\n\nhttps://rave.wien/e/2026-11-15-morgengymnast
- ik-with-redivider
-URL:https://rave.wien/e/2026-11-15-morgengymnastik-with-redivider
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-15-flut-x-callshop-radio-week-46@rave.wien
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Vienna:20261115T140000
-DTEND;TZID=Europe/Vienna:20261115T200000
-SUMMARY:FLUT x Callshop Radio – Week 46
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:High Noon Rockers\, Patches\, Luv Affair on Air\, Soundbügle
- rei\, DJ Can't Commit\, I.Lim\, DJ Hill's Sunday\nVeranstalter: Callshop
-  Radio\, Spumante Records\nEintritt frei\n\nFLUT ist die Radioschiene de
- s FLUCC in Kooperation mit Callshop Radio\, das auch in Düsseldorf\, Le
- ipzig und Paris sendet\; die Session wird live über Stream 2 auf callsh
- opradio.com übertragen. Week 46 gestaltet Spumante Records aus Wien auf
-  der Terrasse des FLUCC Deck (Seite Praterstern). Zu hören sind die Sho
- ws High Noon Rockers\, Patches\, Luv Affair on Air\, Soundbüglerei\, Lo
- w Frequency Logistics mit DJ Can't Commit und I.Lim sowie DJ Hill's Sund
- ay\; einzelne Sendezeiten sind nicht angegeben. Die Bar hat während des
-  Streams geöffnet\, 14:00–20:00\, Eintritt frei.\n\nhttps://rave.wien
- /e/2026-11-15-flut-x-callshop-radio-week-46
-URL:https://rave.wien/e/2026-11-15-flut-x-callshop-radio-week-46
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-15-nomenklatur-w-great-area-pillbert-live@rave.wien
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Vienna:20261115T190000
-DTEND;TZID=Europe/Vienna:20261115T230000
-SUMMARY:nomenklatur w/ great area & PILLBERT (live)
-LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
-DESCRIPTION:great area\, PILLBERT\nVeranstalter: nomenklatur\nEintritt: 2
- 4 € / ermäßigt 12 € (begrenzt\, per Nachricht an den Veranstalter)
- \n\nDie Reihe nomenklatur (Label nomenklatur.notes) präsentiert im Rhiz
-  great area und PILLBERT (live)\, 19–23 Uhr\, unterstützt von der Kul
- turkommission Josefstadt. great area ist das Soloprojekt der Londoner bi
- ldenden Künstlerin Georgie Nettell\, die ironisch mit Nostalgie\, Gegen
- kultur und Markenlogos arbeitet\; ihr aktuelles Album „Light Decline
- “ setzt luftige\, aufhellende Synths gegen bedrückend wirkenden Gesan
- g\, das Vorgängerwerk „Good Coding and Love“ erschien auf Relaxin R
- ecords. PILLBERT ist das Projekt der in München geborenen Songwriterin\
- , Multiinstrumentalistin und Produzentin Lilian Mikorey zwischen Outside
- r-Musik\, Ambient-Schichten und Alternative Pop\, mit DIY-Methoden und F
- ield Recordings. Ursprünglich war Dagmar Zuniga (live) angekündigt. Ti
- ckets 24 €\, eine begrenzte Zahl ermäßigter Tickets zu 12 € gibt e
- s per Direktnachricht an den Veranstalter für alle\, die sich den volle
- n Preis nicht leisten können. Genres laut RA: Ambient\, Experimental.\n
- \nhttps://rave.wien/e/2026-11-15-nomenklatur-w-great-area-pillbert-live
-URL:https://rave.wien/e/2026-11-15-nomenklatur-w-great-area-pillbert-live
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-18-rave-am-mittwoch@rave.wien
 DTSTAMP:20261118T000000Z
 DTSTART;TZID=Europe/Vienna:20261118T230000
@@ -289,13 +221,13 @@ DTEND;TZID=Europe/Vienna:20261121T060000
 SUMMARY:Vision Serpent
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
 DESCRIPTION:NoNameLeft\, Mateo!\, David Phoenix\, Nya Nyx\nVeranstalter: 
- Vision Serpent\nEintritt: VVK 10 €\, AK 18 €\n\nVision Serpent lädt
-  zum Showcase in die FLUCC Wanne mit NoNameLeft\, Mateo!\, David Phoenix
-  und Nya Nyx. Bisherige Quellen ordnen den Abend Techno\, Minimal Techno
-  und Psytech zu. Beginn 23:00\, Ende 06:00\; Vorverkauf 10 € über kup
- fticket\, Abendkasse 18 €. Die FLUCC-Seite selbst enthält noch keine 
- Beschreibung oder Flyer.\n\nhttps://rave.wien/e/2026-11-20-vision-serpen
- t
+ Vision Serpent\nEintritt: 12 € VVK / 18 € Abendkassa\n\nVision Serpe
+ nt lädt zum Showcase in die FLUCC Wanne mit NoNameLeft\, Mateo!\, David
+  Phoenix und Nya Nyx. Bisherige Quellen ordnen den Abend Techno\, Minima
+ l Techno und Psytech zu. Beginn 23:00\, Ende 06:00\; Vorverkauf 10 € 
+ über kupfticket\, Abendkasse 18 €. Die FLUCC-Seite selbst enthält no
+ ch keine Beschreibung oder Flyer.\n\nhttps://rave.wien/e/2026-11-20-visi
+ on-serpent
 URL:https://rave.wien/e/2026-11-20-vision-serpent
 END:VEVENT
 BEGIN:VEVENT
@@ -1916,6 +1848,43 @@ DESCRIPTION:\nBassbehörde im FLUCC Wanne. Die Location-Seite nennt bishe
 URL:https://rave.wien/e/2026-12-05-bassbehorde
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-05-techno-entgleist-w-nakadia-boho@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T230000
+DTEND;TZID=Europe/Vienna:20261206T060000
+SUMMARY:Techno Entgleist w/ Nakadia & BOHO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Hauptbahnhof: Nakadia\, BOHO\nVIBECHEN Speisewagen: DANLOE\, 
+ TONY V\, TRÈS JULIE\nVeranstalter: Techno Entgleist\, LSH\n\nTechno Ent
+ gleist holt Nakadia nach zehn Jahren zurück nach Wien. Die Künstlerin 
+ ist seit über 20 Jahren international aktiv und spielte u. a. auf der L
+ ove Parade\, beim Tomorrowland und am Sziget. Dazu kommt BOHO aus Berlin
+  auf dem Floor 'Hauptbahnhof'. Im 'VIBECHEN Speisewagen' legen DANLOE\, 
+ TONY V und TRÈS JULIE auf. Veranstaltet von Les Suspects Habituels\, Ei
+ nlass ab 21.\n\nhttps://rave.wien/e/2026-12-05-techno-entgleist-w-nakadi
+ a-boho
+URL:https://rave.wien/e/2026-12-05-techno-entgleist-w-nakadia-boho
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-techno-obscene-36-nine-o-nine-x-lsh@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T230000
+DTEND;TZID=Europe/Vienna:20261206T060000
+SUMMARY:TECHNO OBSCENE #36 – NINE O NINE x LSH
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Albin Brezlan\, Dimitri Cooman\, Huebl\, Invda\, Schwarzmarct
+ \, Serena\nVeranstalter: Nine O Nine\, LSH\, 909techno\, Techno Obscene\
+ nEintritt: 10–15 € (1. Welle 9\,09 €)\n\nDie 36. Ausgabe der Reihe
+  TECHNO OBSCENE von NINE O NINE und LSH bringt rohen\, dreckigen Techno 
+ auf zwei Floors ins Werk. Es spielen Albin Brezlan\, Dimitri Cooman\, Hu
+ ebl\, Invda\, Schwarzmarct und Serena. Die Veranstalter versprechen eine
+ n Raum ohne Labels und Urteile. Es gilt Null-Toleranz gegenüber Homopho
+ bie\, Sexismus\, Rassismus und Hass\, dazu eine No-Photo-Policy und 'No 
+ Shirt\, No Party'.\n\nhttps://rave.wien/e/2026-12-05-techno-obscene-36-n
+ ine-o-nine-x-lsh
+URL:https://rave.wien/e/2026-12-05-techno-obscene-36-nine-o-nine-x-lsh
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-06-untz-baby-untz-nikolo-im-funkhaus@rave.wien
 DTSTAMP:20261206T000000Z
 DTSTART;TZID=Europe/Vienna:20261206T130000
@@ -2087,6 +2056,36 @@ DESCRIPTION:Eintritt: 8–12 €\n\nSonderausgabe der „Transmission“-
  e Ausgabe („2. Jänner“).\n\nhttps://rave.wien/e/2026-12-07-monday-t
  ransmission
 URL:https://rave.wien/e/2026-12-07-monday-transmission
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-basst-scho-presents-dru@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T230000
+DTEND;TZID=Europe/Vienna:20261208T040000
+SUMMARY:BASST SCHO presents Dru
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:Dru\, IDENMIND\, Rudolfode\, Sequent\nVeranstalter: BASST SCH
+ O\nEintritt: Pay as you wish bis 01:00\, danach 5 €\n\nDie Reihe BASST
+  SCHO kehrt in den Loop zurück: eine dunkle\, rohe und basslastige Nach
+ t mit UKG\, 140 und Drum & Bass. Special Guest ist Dru\, dazu spielen ID
+ ENMIND\, Rudolfode und Sequent. Visuals kommen von Blatter. Bis 01:00 za
+ hlt man\, was man möchte\, danach kostet der Eintritt 5 €.\n\nhttps:/
+ /rave.wien/e/2026-12-07-basst-scho-presents-dru
+URL:https://rave.wien/e/2026-12-07-basst-scho-presents-dru
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-alert-a-x-exceso@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T235900
+DTEND;TZID=Europe/Vienna:20261208T050000
+SUMMARY:ALERT[A] x EXCESO
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Eminelli\, MX Wioler\, ninon\nVeranstalter: ALERT[A] Vienna\,
+  Exceso\n\nDie Salzburger Crew Exceso ist bei ALERT[A] im Club Lucia zu 
+ Gast\, für eine Techno-Nacht am Feiertagsvorabend. Es legen Eminelli\, 
+ MX Wioler und ninon auf. Die Veranstalter versprechen gute Stimmung und 
+ starke Musik.\n\nhttps://rave.wien/e/2026-12-07-alert-a-x-exceso
+URL:https://rave.wien/e/2026-12-07-alert-a-x-exceso
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-verknallt-x-tuff-w-a-n-i-dj-dreckisch-daytime-rav@rave.wien
@@ -2486,6 +2485,23 @@ DESCRIPTION:Eintritt: 8–12 €\n\nMonatliche „Transmission“-Nacht i
  –12 €\, Dresscode casual chic.\n\nhttps://rave.wien/e/2026-12-18-dec
  ember-transmission
 URL:https://rave.wien/e/2026-12-18-december-transmission
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-vvax-vinyl-only-techno-1-year-anniversary@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T233000
+DTEND;TZID=Europe/Vienna:20261219T050000
+SUMMARY:VVAX – Vinyl Only Techno – 1 Year Anniversary
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:pezel\, AMOVV\, CPR0\, Dcascallana\nVeranstalter: VVAX\nEintr
+ itt gegen freie Spende\n\nDas Kollektiv VVAX feiert seinen ersten Geburt
+ stag mit einer Nacht voll rohem\, tiefem und hypnotischem Techno\, aussc
+ hließlich auf Vinyl gespielt. Die Nacht ist als Dankeschön an alle ged
+ acht\, die das Kollektiv im ersten Jahr unterstützt haben. Es spielen p
+ ezel\, AMOVV\, CPR0 und Dcascallana. Eintritt gegen freie Spende.\n\nhtt
+ ps://rave.wien/e/2026-12-18-vvax-vinyl-only-techno-1-year-anniversary
+URL:https://rave.wien/e/2026-12-18-vvax-vinyl-only-techno-1-year-annivers
+ ary
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-19-du-tanzt-mich-mal-winter-open-air-punsch-rave@rave.wien
@@ -26807,5 +26823,73 @@ DESCRIPTION:Jules Foe\, Lila Gold\, MEIOSISS\nVeranstalter: MEIOSISS\, Ho
  m Titel „HOT & FLIRTY #6“.\n\nhttps://rave.wien/e/2026-11-14-hot-n-w
  et
 URL:https://rave.wien/e/2026-11-14-hot-n-wet
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-morgengymnastik-with-redivider@rave.wien
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Vienna:20261115T060000
+DTEND;TZID=Europe/Vienna:20261115T110000
+SUMMARY:Morgengymnastik with Redivider
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Apua\, DJ Deadlift\nVeranstalter: Redivider\, Morgengymnastik
+ \nEintritt: 15 €\n\nMorgengymnastik-Session der Reihe Redivider im SAS
+ S Music Club\, Sonntagmorgen 6–11 Uhr. Redivider ist seit Jahren Teil 
+ der Wiener Clubszene und wechselt genreübergreifend zwischen verschiede
+ nen Sounds\, Räumen und Stimmungen. Eingeladen ist Apua: DJ\, Produzent
+  und Plattensammler\, seit über zehn Jahren in Österreichs Clubszene a
+ ktiv\, mit Releases auf Pager Records und seinem eigenen Label Kopf Bei 
+ Fuss\, Resident im Tante Emma Club und Mitgründer des Wiener Labels und
+  Partyformats VIE.W\; gemeinsam mit DJ Deadlift wird er als „Dream Duo
+ “ angekündigt. Eintritt 15 €\, ab 18 mit Ausweiskontrolle\; ein Awa
+ reness-Team ist vor Ort.\n\nhttps://rave.wien/e/2026-11-15-morgengymnast
+ ik-with-redivider
+URL:https://rave.wien/e/2026-11-15-morgengymnastik-with-redivider
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-flut-x-callshop-radio-week-46@rave.wien
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Vienna:20261115T140000
+DTEND;TZID=Europe/Vienna:20261115T200000
+SUMMARY:FLUT x Callshop Radio – Week 46
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:High Noon Rockers\, Patches\, Luv Affair on Air\, Soundbügle
+ rei\, DJ Can't Commit\, I.Lim\, DJ Hill's Sunday\nVeranstalter: Callshop
+  Radio\, Spumante Records\nEintritt frei\n\nFLUT ist die Radioschiene de
+ s FLUCC in Kooperation mit Callshop Radio\, das auch in Düsseldorf\, Le
+ ipzig und Paris sendet\; die Session wird live über Stream 2 auf callsh
+ opradio.com übertragen. Week 46 gestaltet Spumante Records aus Wien auf
+  der Terrasse des FLUCC Deck (Seite Praterstern). Zu hören sind die Sho
+ ws High Noon Rockers\, Patches\, Luv Affair on Air\, Soundbüglerei\, Lo
+ w Frequency Logistics mit DJ Can't Commit und I.Lim sowie DJ Hill's Sund
+ ay\; einzelne Sendezeiten sind nicht angegeben. Die Bar hat während des
+  Streams geöffnet\, 14:00–20:00\, Eintritt frei.\n\nhttps://rave.wien
+ /e/2026-11-15-flut-x-callshop-radio-week-46
+URL:https://rave.wien/e/2026-11-15-flut-x-callshop-radio-week-46
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-nomenklatur-w-great-area-pillbert-live@rave.wien
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Vienna:20261115T190000
+DTEND;TZID=Europe/Vienna:20261115T230000
+SUMMARY:nomenklatur w/ great area & PILLBERT (live)
+LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
+DESCRIPTION:great area\, PILLBERT\nVeranstalter: nomenklatur\nEintritt: 2
+ 4 € / ermäßigt 12 € (begrenzt\, per Nachricht an den Veranstalter)
+ \n\nDie Reihe nomenklatur (Label nomenklatur.notes) präsentiert im Rhiz
+  great area und PILLBERT (live)\, 19–23 Uhr\, unterstützt von der Kul
+ turkommission Josefstadt. great area ist das Soloprojekt der Londoner bi
+ ldenden Künstlerin Georgie Nettell\, die ironisch mit Nostalgie\, Gegen
+ kultur und Markenlogos arbeitet\; ihr aktuelles Album „Light Decline
+ “ setzt luftige\, aufhellende Synths gegen bedrückend wirkenden Gesan
+ g\, das Vorgängerwerk „Good Coding and Love“ erschien auf Relaxin R
+ ecords. PILLBERT ist das Projekt der in München geborenen Songwriterin\
+ , Multiinstrumentalistin und Produzentin Lilian Mikorey zwischen Outside
+ r-Musik\, Ambient-Schichten und Alternative Pop\, mit DIY-Methoden und F
+ ield Recordings. Ursprünglich war Dagmar Zuniga (live) angekündigt. Ti
+ ckets 24 €\, eine begrenzte Zahl ermäßigter Tickets zu 12 € gibt e
+ s per Direktnachricht an den Veranstalter für alle\, die sich den volle
+ n Preis nicht leisten können. Genres laut RA: Ambient\, Experimental.\n
+ \nhttps://rave.wien/e/2026-11-15-nomenklatur-w-great-area-pillbert-live
+URL:https://rave.wien/e/2026-11-15-nomenklatur-w-great-area-pillbert-live
 END:VEVENT
 END:VCALENDAR

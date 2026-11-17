@@ -26,27 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-15-flut-x-callshop-radio-week-46@rave.wien
-DTSTAMP:20261115T000000Z
-DTSTART;TZID=Europe/Vienna:20261115T140000
-DTEND;TZID=Europe/Vienna:20261115T200000
-SUMMARY:FLUT x Callshop Radio – Week 46
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:High Noon Rockers\, Patches\, Luv Affair on Air\, Soundbügle
- rei\, DJ Can't Commit\, I.Lim\, DJ Hill's Sunday\nVeranstalter: Callshop
-  Radio\, Spumante Records\nEintritt frei\n\nFLUT ist die Radioschiene de
- s FLUCC in Kooperation mit Callshop Radio\, das auch in Düsseldorf\, Le
- ipzig und Paris sendet\; die Session wird live über Stream 2 auf callsh
- opradio.com übertragen. Week 46 gestaltet Spumante Records aus Wien auf
-  der Terrasse des FLUCC Deck (Seite Praterstern). Zu hören sind die Sho
- ws High Noon Rockers\, Patches\, Luv Affair on Air\, Soundbüglerei\, Lo
- w Frequency Logistics mit DJ Can't Commit und I.Lim sowie DJ Hill's Sund
- ay\; einzelne Sendezeiten sind nicht angegeben. Die Bar hat während des
-  Streams geöffnet\, 14:00–20:00\, Eintritt frei.\n\nhttps://rave.wien
- /e/2026-11-15-flut-x-callshop-radio-week-46
-URL:https://rave.wien/e/2026-11-15-flut-x-callshop-radio-week-46
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-20-kollektiv-klanggerecht-presents-tanzinstanz-raw-e@rave.wien
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Vienna:20261120T220000
@@ -74,13 +53,13 @@ DTEND;TZID=Europe/Vienna:20261121T060000
 SUMMARY:Vision Serpent
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
 DESCRIPTION:NoNameLeft\, Mateo!\, David Phoenix\, Nya Nyx\nVeranstalter: 
- Vision Serpent\nEintritt: VVK 10 €\, AK 18 €\n\nVision Serpent lädt
-  zum Showcase in die FLUCC Wanne mit NoNameLeft\, Mateo!\, David Phoenix
-  und Nya Nyx. Bisherige Quellen ordnen den Abend Techno\, Minimal Techno
-  und Psytech zu. Beginn 23:00\, Ende 06:00\; Vorverkauf 10 € über kup
- fticket\, Abendkasse 18 €. Die FLUCC-Seite selbst enthält noch keine 
- Beschreibung oder Flyer.\n\nhttps://rave.wien/e/2026-11-20-vision-serpen
- t
+ Vision Serpent\nEintritt: 12 € VVK / 18 € Abendkassa\n\nVision Serpe
+ nt lädt zum Showcase in die FLUCC Wanne mit NoNameLeft\, Mateo!\, David
+  Phoenix und Nya Nyx. Bisherige Quellen ordnen den Abend Techno\, Minima
+ l Techno und Psytech zu. Beginn 23:00\, Ende 06:00\; Vorverkauf 10 € 
+ über kupfticket\, Abendkasse 18 €. Die FLUCC-Seite selbst enthält no
+ ch keine Beschreibung oder Flyer.\n\nhttps://rave.wien/e/2026-11-20-visi
+ on-serpent
 URL:https://rave.wien/e/2026-11-20-vision-serpent
 END:VEVENT
 BEGIN:VEVENT
@@ -3852,5 +3831,26 @@ DESCRIPTION:Jules Foe\, Lila Gold\, MEIOSISS\nVeranstalter: MEIOSISS\, Ho
  m Titel „HOT & FLIRTY #6“.\n\nhttps://rave.wien/e/2026-11-14-hot-n-w
  et
 URL:https://rave.wien/e/2026-11-14-hot-n-wet
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-15-flut-x-callshop-radio-week-46@rave.wien
+DTSTAMP:20261115T000000Z
+DTSTART;TZID=Europe/Vienna:20261115T140000
+DTEND;TZID=Europe/Vienna:20261115T200000
+SUMMARY:FLUT x Callshop Radio – Week 46
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:High Noon Rockers\, Patches\, Luv Affair on Air\, Soundbügle
+ rei\, DJ Can't Commit\, I.Lim\, DJ Hill's Sunday\nVeranstalter: Callshop
+  Radio\, Spumante Records\nEintritt frei\n\nFLUT ist die Radioschiene de
+ s FLUCC in Kooperation mit Callshop Radio\, das auch in Düsseldorf\, Le
+ ipzig und Paris sendet\; die Session wird live über Stream 2 auf callsh
+ opradio.com übertragen. Week 46 gestaltet Spumante Records aus Wien auf
+  der Terrasse des FLUCC Deck (Seite Praterstern). Zu hören sind die Sho
+ ws High Noon Rockers\, Patches\, Luv Affair on Air\, Soundbüglerei\, Lo
+ w Frequency Logistics mit DJ Can't Commit und I.Lim sowie DJ Hill's Sund
+ ay\; einzelne Sendezeiten sind nicht angegeben. Die Bar hat während des
+  Streams geöffnet\, 14:00–20:00\, Eintritt frei.\n\nhttps://rave.wien
+ /e/2026-11-15-flut-x-callshop-radio-week-46
+URL:https://rave.wien/e/2026-11-15-flut-x-callshop-radio-week-46
 END:VEVENT
 END:VCALENDAR

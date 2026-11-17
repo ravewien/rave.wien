@@ -26,6 +26,22 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-07-basst-scho-presents-dru@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T230000
+DTEND;TZID=Europe/Vienna:20261208T040000
+SUMMARY:BASST SCHO presents Dru
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:Dru\, IDENMIND\, Rudolfode\, Sequent\nVeranstalter: BASST SCH
+ O\nEintritt: Pay as you wish bis 01:00\, danach 5 €\n\nDie Reihe BASST
+  SCHO kehrt in den Loop zurück: eine dunkle\, rohe und basslastige Nach
+ t mit UKG\, 140 und Drum & Bass. Special Guest ist Dru\, dazu spielen ID
+ ENMIND\, Rudolfode und Sequent. Visuals kommen von Blatter. Bis 01:00 za
+ hlt man\, was man möchte\, danach kostet der Eintritt 5 €.\n\nhttps:/
+ /rave.wien/e/2026-12-07-basst-scho-presents-dru
+URL:https://rave.wien/e/2026-12-07-basst-scho-presents-dru
+END:VEVENT
+BEGIN:VEVENT
 UID:2025-02-21-contrast-x-10-yrs-at-grelle-forelle@rave.wien
 DTSTAMP:20250221T000000Z
 DTSTART;VALUE=DATE:20250221

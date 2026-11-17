@@ -26,6 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-18-vvax-vinyl-only-techno-1-year-anniversary@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T233000
+DTEND;TZID=Europe/Vienna:20261219T050000
+SUMMARY:VVAX – Vinyl Only Techno – 1 Year Anniversary
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:pezel\, AMOVV\, CPR0\, Dcascallana\nVeranstalter: VVAX\nEintr
+ itt gegen freie Spende\n\nDas Kollektiv VVAX feiert seinen ersten Geburt
+ stag mit einer Nacht voll rohem\, tiefem und hypnotischem Techno\, aussc
+ hließlich auf Vinyl gespielt. Die Nacht ist als Dankeschön an alle ged
+ acht\, die das Kollektiv im ersten Jahr unterstützt haben. Es spielen p
+ ezel\, AMOVV\, CPR0 und Dcascallana. Eintritt gegen freie Spende.\n\nhtt
+ ps://rave.wien/e/2026-12-18-vvax-vinyl-only-techno-1-year-anniversary
+URL:https://rave.wien/e/2026-12-18-vvax-vinyl-only-techno-1-year-annivers
+ ary
+END:VEVENT
+BEGIN:VEVENT
 UID:2025-04-11-deep-cut-w-dcascallana-cpr0-hypnotic-deep-techno@rave.wien
 DTSTAMP:20250411T000000Z
 DTSTART;VALUE=DATE:20250411

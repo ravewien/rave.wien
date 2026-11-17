@@ -129,6 +129,24 @@ DESCRIPTION:Mainfloor: Eargasm God\, Who is Ela¿\, Distorgina\, Anna Ull
 URL:https://rave.wien/e/2026-12-04-step-forward-pres-eargasm-god
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-05-techno-entgleist-w-nakadia-boho@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T230000
+DTEND;TZID=Europe/Vienna:20261206T060000
+SUMMARY:Techno Entgleist w/ Nakadia & BOHO
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Hauptbahnhof: Nakadia\, BOHO\nVIBECHEN Speisewagen: DANLOE\, 
+ TONY V\, TRÈS JULIE\nVeranstalter: Techno Entgleist\, LSH\n\nTechno Ent
+ gleist holt Nakadia nach zehn Jahren zurück nach Wien. Die Künstlerin 
+ ist seit über 20 Jahren international aktiv und spielte u. a. auf der L
+ ove Parade\, beim Tomorrowland und am Sziget. Dazu kommt BOHO aus Berlin
+  auf dem Floor 'Hauptbahnhof'. Im 'VIBECHEN Speisewagen' legen DANLOE\, 
+ TONY V und TRÈS JULIE auf. Veranstaltet von Les Suspects Habituels\, Ei
+ nlass ab 21.\n\nhttps://rave.wien/e/2026-12-05-techno-entgleist-w-nakadi
+ a-boho
+URL:https://rave.wien/e/2026-12-05-techno-entgleist-w-nakadia-boho
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-07-feuchte-traume-roses-thorns@rave.wien
 DTSTAMP:20261207T000000Z
 DTSTART;TZID=Europe/Vienna:20261207T210000
