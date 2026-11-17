@@ -1093,6 +1093,10 @@ const CG={
  ],
  "PUSH": [
   "Hard Techno"
+ ],
+ "BASST SCHO": [
+  "UK Garage",
+  "Drum & Bass"
  ]
 };
 const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","909techno","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","ALERT[A] Vienna","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","Art Attech","AUDIO303","Auf der Lauer","Ausländer Haus","AWSM","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","BASST SCHO","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","BLUR","Bonkers","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Cybertribe","Cyclic Existence","Dance 2 House","Danza Obscura","Dark Pressure","Das Syndikat","DEAD END","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exceso","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","It's George","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Klanggerecht","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","Meier","MEIOSISS","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Opération","Out of Space","Oxygene","Palazzo Recordings","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","SIGNAL","SIN","Slutlabs","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","The Academy","The Hive","The House of Funk","the zound partisans","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Ungeniert","Uniquely Journeys","Unkwn","Untz Baby Untz","up/or","Vangardist","Ventil Records","Verknallt","Vertigo","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wyldhearts","Xperiment","Xperiment Records","YE","YN","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
@@ -6207,6 +6211,41 @@ const CI={
  "the zound partisans": {
   "infoChk": "2026-11-15",
   "noLogo": "2026-11-15"
+ },
+ "ALERT[A] Vienna": {
+  "de": "Wiener Techno-Crew, die Clubnächte im Club Lucia veranstaltet. Im Dezember 2026 holt sie die Salzburger Crew Exceso für „ALERT[A] x EXCESO“ nach Wien.",
+  "en": "Vienna techno crew running club nights at Club Lucia. In December 2026 it brings the Salzburg crew Exceso to Vienna for \"ALERT[A] x EXCESO\".",
+  "alias": [
+   "ALERT[A]"
+  ],
+  "from": "Wien",
+  "noLogo": "2026-11-17",
+  "src": [
+   "https://ra.co/promoters/198028",
+   "https://ra.co/events/2586433"
+  ],
+  "infoChk": "2026-11-17"
+ },
+ "Exceso": {
+  "de": "Techno-Crew aus Salzburg. Im Dezember 2026 ist sie bei ALERT[A] im Wiener Club Lucia zu Gast.",
+  "en": "Techno crew from Salzburg. In December 2026 it guests at ALERT[A] at Vienna's Club Lucia.",
+  "from": "Salzburg",
+  "noLogo": "2026-11-17",
+  "src": [
+   "https://ra.co/events/2586433"
+  ],
+  "infoChk": "2026-11-17"
+ },
+ "BASST SCHO": {
+  "de": "Wiener Partyreihe im Loop für dunkle, rohe und basslastige Nächte mit UKG, 140 und Drum & Bass.",
+  "en": "Vienna party series at Loop for dark, raw, bass-heavy nights of UKG, 140 and drum & bass.",
+  "from": "Wien",
+  "ig": "https://www.instagram.com/basstscho.event/",
+  "noLogo": "2026-11-17",
+  "src": [
+   "https://ra.co/events/2586324"
+  ],
+  "infoChk": "2026-11-17"
  }
 };
 const VI={
@@ -9463,7 +9502,8 @@ const AR={
    "sc": "https://soundcloud.com/albinbrezlanmusic",
    "ig": "https://www.instagram.com/albinbrezlanmusic",
    "web": "https://linktr.ee/albinbrezlan",
-   "ra": "https://ra.co/dj/albinbrezlan"
+   "ra": "https://ra.co/dj/albinbrezlan",
+   "sp": "https://open.spotify.com/artist/6KE0iyHDo4VHuQ1iYk217m"
   },
   "src": [
    "https://ra.co/dj/albinbrezlan",
@@ -9489,7 +9529,8 @@ const AR={
    "de": "Kärnten, Österreich",
    "en": "Carinthia, Austria"
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-17"
  },
  "PAUNA": {
   "links": {
@@ -9531,7 +9572,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/ferdinand-h-bl",
    "ig": "https://www.instagram.com/huebl_techno",
-   "ra": "https://ra.co/dj/huebl"
+   "ra": "https://ra.co/dj/huebl",
+   "sp": "https://open.spotify.com/artist/6O0dKLRyZjpaYLe1YBiSlU"
   },
   "src": [
    "https://ra.co/dj/huebl"
@@ -9556,7 +9598,8 @@ const AR={
    "de": "Wien",
    "en": "Vienna"
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-17"
  },
  "Dana Melissa": {
   "links": {
@@ -13586,24 +13629,26 @@ const AR={
    "ra": "https://ra.co/dj/edictum",
    "sc": "https://soundcloud.com/edictum303",
    "bc": "https://edictum.bandcamp.com",
-   "ig": "https://www.instagram.com/Edictum303",
+   "ig": "https://www.instagram.com/Edictum303/",
    "web": "https://edictum.music",
    "sp": "https://open.spotify.com/artist/11e1I6BUAcdUOAf7AJUXWd"
   },
   "from": {
-   "de": "Österreich",
-   "en": "Austria"
+   "de": "Wien",
+   "en": "Vienna"
   },
   "real": "Simon",
   "bio": {
-   "de": "Edictum ist seit 2002 als Produzent und DJ aktiv, mit Fokus auf melodische, tanzbare elektronische Musik. Über zehn Alben und viele Singles auf mehr als 15 Labels; bekannt für lange, genreübergreifende Vinyl-Sets vom Warm-up bis zur Peak Time.",
-   "en": "Edictum has been active as a producer and DJ since 2002, focusing on melodic, danceable electronic music. More than ten albums and many singles on over 15 labels; known for long, genre-bending vinyl sets from warm-up to peak time."
+   "de": "Edictum ist ein Wiener Produzent und DJ, seit 2002 aktiv, mit Fokus auf melodische, tanzbare elektronische Musik. Laut RA hat er über 10 Alben und viele Singles auf mehr als 15 Labels veröffentlicht, auch auf physischen Formaten. Als DJ spielt er vor allem lange, genreübergreifende Vinyl-Sets. Mit Turbo Knight und Pfeffermouse veröffentlichte er das Album Ending Infinity.",
+   "en": "Edictum is a Vienna-based producer and DJ, active since 2002 and focused on melodic, danceable electronic music. According to RA, he has released more than 10 albums and many singles on over 15 labels, including physical formats. As a DJ he mainly plays long, genre-bending vinyl sets. With Turbo Knight and Pfeffermouse he released the album Ending Infinity."
   },
   "src": [
    "https://fr.ra.co/dj/edictum",
-   "https://open.spotify.com/intl-de/artist/11e1I6BUAcdUOAf7AJUXWd"
+   "https://open.spotify.com/intl-de/artist/11e1I6BUAcdUOAf7AJUXWd",
+   "https://ra.co/dj/edictum",
+   "https://ra.co/events/2347602"
   ],
-  "infoChk": "2026-11-09",
+  "infoChk": "2026-11-17",
   "alias": [
    "Mycorave",
    "Shades of Thunder",
@@ -13615,8 +13660,8 @@ const AR={
     "u": "https://soundcloud.com/analogiquemusic/radio-analogique-djset-by-edictum"
    }
   ],
-  "setsChecked": "2026-11-09",
-  "spChk": "2026-11-15"
+  "setsChecked": "2026-11-17",
+  "spChk": "2026-11-17"
  },
  "Matt Ludlam": {
   "infoChk": "2026-11-03",
@@ -22615,7 +22660,8 @@ const AR={
    "https://soundcloud.com/pezel"
   ],
   "infoChk": "2026-11-03",
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-17"
  },
  "Iamdoomed": {
   "links": {
@@ -23226,7 +23272,8 @@ const AR={
   ],
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-17"
  },
  "Joyce Muniz": {
   "img": "https://static.ra.co/images/profiles/square/joycemuniz.jpg?dateUpdated=1764090037060",
@@ -24011,7 +24058,8 @@ const AR={
    "https://soundcloud.com/dcascallana"
   ],
   "infoChk": "2026-11-03",
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-17"
  },
  "JP Bechamel": {
   "img": "https://static.ra.co/images/profiles/square/jpbechamel.jpg?dateUpdated=1685995549730",
@@ -26373,7 +26421,8 @@ const AR={
   "src": [
    "https://ra.co/dj/tonyv"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-17"
  },
  "Halogenix": {
   "img": "https://static.ra.co/images/profiles/halogenix.jpg?dateUpdated=1529941561000",
@@ -39982,7 +40031,8 @@ const AR={
    "https://soundcloud.com/donnerkanzel/nachhall-011-tres-julie"
   ],
   "infoChk": "2026-11-04",
-  "noImg": "2026-11-04"
+  "noImg": "2026-11-04",
+  "spChk": "2026-11-17"
  },
  "Goldie Goldenshowers": {
   "links": {
@@ -42025,7 +42075,8 @@ const AR={
    "ra": "https://ra.co/dj/boho",
    "sc": "https://soundcloud.com/bohojaw",
    "ig": "https://www.instagram.com/boho_jaw",
-   "web": "https://www.jannowitz.com/boho"
+   "web": "https://www.jannowitz.com/boho",
+   "sp": "https://open.spotify.com/artist/28gffBSWxM6lGomrb2TEW2"
   },
   "from": {
    "de": "Deutschland",
@@ -42048,7 +42099,9 @@ const AR={
   "infoChk": "2026-11-04",
   "src": [
    "https://ra.co/dj/boho"
-  ]
+  ],
+  "setsChecked": "2026-11-17",
+  "spChk": "2026-11-17"
  },
  "Gockel": {
   "infoChk": "2026-11-04",
@@ -46695,7 +46748,8 @@ const AR={
   ],
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
-  "noLinks": "2026-11-04"
+  "noLinks": "2026-11-04",
+  "spChk": "2026-11-17"
  },
  "Skoden": {
   "img": "https://static.ra.co/images/profiles/square/skoden.jpg?dateUpdated=1746202861557",
@@ -48149,7 +48203,8 @@ const AR={
   ],
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
-  "setsChecked": "2026-11-04"
+  "setsChecked": "2026-11-04",
+  "spChk": "2026-11-17"
  },
  "LizN": {
   "links": {
@@ -52181,6 +52236,294 @@ const AR={
   "noLinks": "2026-11-16",
   "infoChk": "2026-11-16",
   "spChk": "2026-11-16"
+ },
+ "Nakadia": {
+  "from": {
+   "de": "Thailand / Deutschland",
+   "en": "Thailand / Germany"
+  },
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "Nakadia wuchs im ländlichen Thailand auf, lebt laut RA in Deutschland und legt seit 2002 Techno auf. Laut ihrem Profil gilt sie als erste asiatische DJ, die sich in der internationalen Techno-Szene etabliert hat: 23 Jahre auf Tour, über 2.000 Gigs in 90 Ländern. Releases erschienen u. a. auf Intec (Rising High, 2020), Codex Recordings (The Quest, 2021) und Filth on Acid (Acid Storm, 2022). 2021 veröffentlichte sie ihre Autobiografie Positive Energy.",
+   "en": "Nakadia grew up in rural Thailand, is based in Germany according to RA and has been DJing techno since 2002. Her profile calls her the first Asian DJ to establish herself in the global techno scene, with 23 years of touring and more than 2,000 gigs in 90 countries. Her releases include Rising High on Intec (2020), The Quest on Codex Recordings (2021) and Acid Storm on Filth on Acid (2022). In 2021 she published her autobiography, Positive Energy."
+  },
+  "labels": [
+   "Intec",
+   "Codex Recordings",
+   "Set About",
+   "Filth on Acid",
+   "This is not records",
+   "Rave The Planet"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/nakadia.jpg?dateUpdated=1589760000000",
+  "links": {
+   "ra": "https://ra.co/dj/nakadia",
+   "sc": "https://soundcloud.com/nakadia",
+   "sp": "https://open.spotify.com/artist/1nOdOuoOkOkQ2PaWFxVkLH",
+   "ig": "https://www.instagram.com/nakadia_music/",
+   "web": "https://www.nakadia.com"
+  },
+  "sets": [
+   {
+    "t": "Nakadia @ Rave The Planet Parade Berlin 2022",
+    "u": "https://soundcloud.com/parkdeck-records/dj-set-nakadia-rave-the-planet-parade-berlin-2022-edm-rave-techno-music-von-der-berliner-djane"
+   },
+   {
+    "t": "Balance Selections 077: Fred Hush B2B Nakadia (Tomorrowland set)",
+    "u": "https://soundcloud.com/balance-series/balance-selections-077-fred-hush-b2b-nakadia-tomorrowland-set"
+   },
+   {
+    "t": "Nakadia For Cacao Beach (Bulgaria) Season 2017 DJ Set",
+    "u": "https://soundcloud.com/nakadia/nakadia-for-cacao-beach-bulgaria-season-2017-dj-set"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/nakadia",
+   "https://ra.co/dj/nakadia/biography",
+   "https://open.spotify.com/track/72gsfF06a1OeFZLHdHYAf1"
+  ],
+  "infoChk": "2026-11-17",
+  "setsChecked": "2026-11-17",
+  "spChk": "2026-11-17"
+ },
+ "Dimitri Cooman": {
+  "from": {
+   "de": "Aalst, Belgien",
+   "en": "Aalst, Belgium"
+  },
+  "bio": {
+   "de": "Dimitri Cooman ist ein belgischer DJ und Produzent. Er wurde in der Nähe von Brüssel geboren und ist in Aalst aufgewachsen. Seine Releases erschienen u. a. auf Cherry Moon Records, Sonaxx Records, dB130 Records und No Response.",
+   "en": "Dimitri Cooman is a Belgian DJ and producer. He was born near Brussels and grew up in Aalst. His releases have come out on labels including Cherry Moon Records, Sonaxx Records, dB130 Records and No Response."
+  },
+  "labels": [
+   "Cherry Moon Records",
+   "Sonaxx Records",
+   "dB130 Records",
+   "No Response"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/dimitricooman.jpg?dateUpdated=1724162336000",
+  "links": {
+   "ra": "https://ra.co/dj/dimitricooman",
+   "sc": "https://soundcloud.com/dimitri-cooman",
+   "sp": "https://open.spotify.com/artist/6MWAmZyL49LSgEFVJy9NQP"
+  },
+  "sets": [
+   {
+    "t": "Dimitri Cooman @ Charged Radio (17.02.2024)",
+    "u": "https://soundcloud.com/charged-radio/dimitri-cooman-17-02-2024"
+   },
+   {
+    "t": "Dimitri Cooman @ Nobody Listens To Techno, Radar Belgium (30.11.2019)",
+    "u": "https://soundcloud.com/dimitri-cooman/nobody-listens-to-techno-dimitri-cooman-301119-radar-belgiumwav"
+   },
+   {
+    "t": "Dimitri Cooman @ Cherry Moon Retro Halloween 2018",
+    "u": "https://soundcloud.com/dimitri-cooman/dimitri-cooman-cherry-moon-retro-halloween-2018"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/dimitricooman",
+   "https://ra.co/events/2586314",
+   "https://open.spotify.com/album/0Vd5lydR321FqrNQvxVoZX"
+  ],
+  "infoChk": "2026-11-17",
+  "setsChecked": "2026-11-17",
+  "spChk": "2026-11-17"
+ },
+ "Invda": {
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "alias": [
+   "Discoed"
+  ],
+  "bio": {
+   "de": "Invda ist ein österreichischer DJ und Produzent, der auch als Discoed auftritt. Seine Programm-EP erschien auf KHOLEKTIV.",
+   "en": "Invda is an Austrian DJ and producer who also performs as Discoed. His Programm EP was released on KHOLEKTIV."
+  },
+  "labels": [
+   "KHOLEKTIV"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/invda.jpg?dateUpdated=1725286386000",
+  "links": {
+   "ra": "https://ra.co/dj/invda",
+   "sc": "https://soundcloud.com/con-tact-2",
+   "bc": "https://invda.bandcamp.com",
+   "ig": "https://www.instagram.com/invda_music/"
+  },
+  "src": [
+   "https://ra.co/dj/invda",
+   "https://ra.co/events/2586314"
+  ],
+  "infoChk": "2026-11-17",
+  "setsChecked": "2026-11-17",
+  "spChk": "2026-11-17"
+ },
+ "Schwarzmarct": {
+  "from": {
+   "de": "Innsbruck",
+   "en": "Innsbruck"
+  },
+  "bio": {
+   "de": "Schwarzmarct ist ein DJ und Produzent aus Innsbruck. Laut RA veröffentlicht er auf COMO Records.",
+   "en": "Schwarzmarct is a DJ and producer based in Innsbruck. According to RA, he releases on COMO Records."
+  },
+  "labels": [
+   "COMO Records"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/schwarzmarct.jpg?dateUpdated=1773916508000",
+  "links": {
+   "ra": "https://ra.co/dj/schwarzmarct",
+   "sc": "https://soundcloud.com/schwarzmarctofficial"
+  },
+  "src": [
+   "https://ra.co/dj/schwarzmarct",
+   "https://ra.co/events/2586314"
+  ],
+  "infoChk": "2026-11-17",
+  "setsChecked": "2026-11-17",
+  "spChk": "2026-11-17"
+ },
+ "Serena": {
+  "infoChk": "2026-11-17",
+  "noImg": "2026-11-17",
+  "noLinks": "2026-11-17",
+  "spChk": "2026-11-17"
+ },
+ "Eminelli": {
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "Eminelli ist ein DJ aus Österreich mit Profil auf Resident Advisor. Auf SoundCloud gibt es von Eminelli unter anderem einen Mix für die OUTCAST-Podcast-Reihe (S037).",
+   "en": "Eminelli is a DJ from Austria with a profile on Resident Advisor. Eminelli's SoundCloud output includes a mix for the OUTCAST podcast series (S037)."
+  },
+  "img": "https://static.ra.co/images/profiles/square/eminelli.jpg?dateUpdated=1770977484000",
+  "links": {
+   "ra": "https://ra.co/dj/eminelli",
+   "sc": "https://soundcloud.com/eminelli_mp3",
+   "ig": "https://www.instagram.com/eminelli_/"
+  },
+  "sets": [
+   {
+    "t": "OUTCAST PODCAST S037 - EMINELLI",
+    "u": "https://soundcloud.com/outcast-544711391/outcast-podcast-s037-eminelli"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/eminelli"
+  ],
+  "infoChk": "2026-11-17",
+  "setsChecked": "2026-11-17",
+  "spChk": "2026-11-17"
+ },
+ "MX Wioler": {
+  "noImg": "2026-11-17",
+  "noLinks": "2026-11-17",
+  "infoChk": "2026-11-17",
+  "spChk": "2026-11-17"
+ },
+ "ninon": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "alias": [
+   "ninon."
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "bio": {
+   "de": "ninon ist eine in Wien lebende Techno-DJ, die hypnotische Rhythmen, vielschichtige Grooves und eine leise Nostalgie in ihren Sound einwebt. Sie ist in der gemeinschaftsorientierten Wiener Szene aktiv und will Räume für Verbindung und gegenseitige Unterstützung schaffen, besonders unter FLINTA*-Artists.",
+   "en": "ninon is a Vienna-based techno DJ weaving hypnotic rhythms, layered grooves and subtle nostalgia into her sound. She is active in Vienna's community-rooted scene and aims to create spaces of connection and support, especially among FLINTA* artists."
+  },
+  "img": "https://static.ra.co/images/profiles/square/ninon..jpg?dateUpdated=1770977164000",
+  "links": {
+   "ra": "https://ra.co/dj/ninon.",
+   "sc": "https://soundcloud.com/ninonnn",
+   "bc": "https://ninonnnn.bandcamp.com",
+   "ig": "https://www.instagram.com/studio.ninon/"
+  },
+  "sets": [
+   {
+    "t": "structured chaos (1h groovy techno set)",
+    "u": "https://soundcloud.com/ninonnn/structured-chaos-1h-groovy-techno-set"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/ninon."
+  ],
+  "infoChk": "2026-11-17",
+  "setsChecked": "2026-11-17",
+  "spChk": "2026-11-17"
+ },
+ "Dru": {
+  "noImg": "2026-11-17",
+  "noLinks": "2026-11-17",
+  "infoChk": "2026-11-17",
+  "spChk": "2026-11-17"
+ },
+ "IDENMIND": {
+  "noImg": "2026-11-17",
+  "noLinks": "2026-11-17",
+  "infoChk": "2026-11-17",
+  "spChk": "2026-11-17"
+ },
+ "Rudolfode": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "real": "Rudolfo De Oliveira Zeisner",
+  "alias": [
+   "Rudolfo De"
+  ],
+  "bio": {
+   "de": "Rudolfode ist ein DJ aus Wien, der seit 2024 auf Resident Advisor gelistet ist. Am häufigsten legte er bisher im SASS Music Club und im Club Lucia auf.",
+   "en": "Rudolfode is a Vienna DJ listed on Resident Advisor since 2024. He has played most often at SASS Music Club and Club Lucia."
+  },
+  "img": "https://static.ra.co/images/profiles/square/rudolfode.jpg?dateUpdated=1772185131000",
+  "links": {
+   "ra": "https://ra.co/dj/rudolfode",
+   "sc": "https://soundcloud.com/rudolfo-de",
+   "ig": "https://www.instagram.com/rudolfode/"
+  },
+  "src": [
+   "https://ra.co/dj/rudolfode"
+  ],
+  "infoChk": "2026-11-17",
+  "setsChecked": "2026-11-17",
+  "spChk": "2026-11-17"
+ },
+ "AMOVV": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "real": "Alex Semonov",
+  "alias": [
+   "Sammy"
+  ],
+  "bio": {
+   "de": "AMOVV ist ein DJ aus Österreich, der vor allem in Wien auflegt. Er spielt bei den Vinyl-only-Techno-Nächten des Kollektivs VVAX, unter anderem im FLUCC und im Club Lucia.",
+   "en": "AMOVV is a DJ from Austria who mainly plays in Vienna. He appears at the VVAX collective's vinyl-only techno nights, including at FLUCC and Club Lucia."
+  },
+  "img": "https://static.ra.co/images/profiles/square/amovv.jpg?dateUpdated=1776353660230",
+  "links": {
+   "ra": "https://ra.co/dj/amovv"
+  },
+  "src": [
+   "https://ra.co/dj/amovv",
+   "https://ra.co/events/2471396",
+   "https://ra.co/events/2586705"
+  ],
+  "infoChk": "2026-11-17",
+  "spChk": "2026-11-17"
  }
 };
 
