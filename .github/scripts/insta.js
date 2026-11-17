@@ -61,7 +61,7 @@ body{width:1080px;height:1350px;background:#08090b;color:#e9ecf1;font-family:BC,
 .t small{display:block;margin-top:10px;font-size:26px;color:#5d8fd0;text-shadow:none}
 .t.tAft{color:rgb(170,110,255);text-shadow:none}.t.tAft small{color:#8a8f99}
 .t.tDay{color:rgb(255,196,60);text-shadow:none}.t.tDay small{color:#8a8f99}
-.ti{font-family:Doto;font-weight:900;font-size:36px;line-height:1.08;color:#fff;-webkit-text-stroke:1px #fff;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;word-break:break-word}
+.ti{font-family:Doto;font-weight:900;font-size:36px;line-height:1.08;color:#fff;-webkit-text-stroke:1px #fff;overflow:hidden;display:-webkit-box;-webkit-line-clamp:var(--lc,2);-webkit-box-orient:vertical;word-break:break-word}
 .meta{margin-top:10px;display:flex;justify-content:space-between;align-items:flex-end;gap:18px}
 .where{flex:1 1 auto;display:flex;flex-wrap:wrap;align-items:center;gap:4px 22px;min-width:0}
 .ven{display:inline-flex;align-items:center;gap:6px;color:#2fd145;font-weight:700;font-size:27px;letter-spacing:.06em;text-transform:uppercase;white-space:nowrap}
@@ -77,7 +77,7 @@ body{width:1080px;height:1350px;background:#08090b;color:#e9ecf1;font-family:BC,
 const tk=t=>{if(!t)return '';const h=+String(t).slice(0,2);return h>=4&&h<12?'tAft':h>=12&&h<18?'tDay':''};
 const GRP='<svg viewBox="0 0 24 24"><path fill="#ff8c1a" d="M9 11a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm7.5 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM9 13c-3.3 0-7 1.6-7 4.3V20h14v-2.7C16 14.6 12.3 13 9 13zm7.5 0c-.5 0-1 0-1.6.1 1.3.9 2.1 2.2 2.1 4.2V20h6v-2.4c0-2.6-3.6-4.6-6.5-4.6z"/></svg>';
 const PIN='<svg viewBox="0 0 24 24"><path fill="#2fd145" d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg>';
-const slide=(EVS,pg,i,n,label,dd,mm)=>`<!doctype html><meta charset="utf-8"><style>${CSS}</style><body class="${EVS.length<=3?'few':''}"><div class="bg"></div><div class="grid"></div><div class="wrap">
+const slide=(EVS,pg,i,n,label,dd,mm,lc)=>`<!doctype html><meta charset="utf-8"><style>${CSS}</style><body class="${EVS.length<=3?'few':''}" style="--lc:${lc||2}"><div class="bg"></div><div class="grid"></div><div class="wrap">
  <div class="head"><div class="hrow"><div class="day">${esc(label)}</div><div class="date"><span>${dd}</span><i class="dd"></i><span>${mm}</span><i class="dd"></i></div></div><div class="sub">${EVS.length} Event${EVS.length===1?'':'s'} in Wien</div></div>
  <div class="list">${pg.map(e=>{const pr=price(e.p);return `<div class="ev"><div class="t ${tk(e.s)}">${esc(e.s||'--:--')}${e.e?`<small>-${esc(e.e)}</small>`:''}</div>
   <div><div class="ti">${esc(e.t)}</div><div class="meta"><div class="where"><span class="ven">${PIN}${esc(e.v)}</span>${e.c.length?`<span class="col">${GRP}${esc(e.c.join(' · '))}</span>`:''}</div>${pr==='Eintritt frei'?`<span class="pr free">${esc(pr)}</span>`:''}</div></div></div>`}).join('')}</div>
@@ -118,8 +118,11 @@ function caption(EVS,label,dd,mm,wd){
   const split=NP=>{const ps=[];let i=0;for(let k=0;k<NP;k++){const n=Math.ceil((EVS.length-i)/(NP-k));ps.push(EVS.slice(i,i+n));i+=n}return ps};
   let files=[];
   for(let NP=Math.max(1,Math.ceil(EVS.length/8));NP<=10;NP++){const pages=split(NP);const shots=[];let ok=true;
-   for(let i=0;i<pages.length;i++){await page.setContent(slide(EVS,pages[i],i,pages.length,label,dd,mm));await page.evaluate(()=>document.fonts.ready);await page.waitForTimeout(150);
-    if(await page.evaluate(()=>{const l=document.querySelector('.list');return l.scrollHeight>l.clientHeight+2})){ok=false;break}
+   for(let i=0;i<pages.length;i++){
+    // Titel so vollständig wie möglich: erst bis zu 4 Zeilen, nur wenn der Platz nicht reicht auf 3 bzw. 2 Zeilen kürzen
+    let fit=false;for(const lc of [4,3,2]){await page.setContent(slide(EVS,pages[i],i,pages.length,label,dd,mm,lc));await page.evaluate(()=>document.fonts.ready);await page.waitForTimeout(150);
+     if(!(await page.evaluate(()=>{const l=document.querySelector('.list');return l.scrollHeight>l.clientHeight+2}))){fit=true;break}}
+    if(!fit){ok=false;break}
     shots.push(await page.screenshot({type:'jpeg',quality:92}))}
    if(ok||NP===10){files=shots.map((buf,i)=>{const n=`${i+1}.jpg`;fs.writeFileSync(dir+'/'+n,buf);return n});break}}
   const cap=caption(EVS,label,dd,mm,wd);
