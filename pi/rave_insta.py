@@ -28,7 +28,7 @@ import json, os, sys, time, random, logging, urllib.request, hashlib, subprocess
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-18.4"
+VERSION = "2026-11-18.5"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -94,6 +94,8 @@ def tag(d):
 def problem_mail(state, key, betreff, text):
     """Problem-Mails nur einmal pro Post bzw. Problem – nicht bei jedem 10-Minuten-Lauf."""
     sent = state.setdefault("mails", {})
+    for k in [k for k, t in sent.items() if datetime.now(timezone.utc) - datetime.fromisoformat(t) > timedelta(days=30)]:
+        del sent[k]   # alte Einträge aufräumen
     if key in sent:
         return
     if mail(betreff, text):
@@ -337,7 +339,19 @@ def main():
         PAUSE.touch(); say("Automatisches Posten pausiert."); return
     if cmd == "weiter":
         PAUSE.unlink(missing_ok=True); say("Automatisches Posten läuft wieder."); return
-    queue = fetch(BASE + "ig/queue.json")
+    try:
+        queue = fetch(BASE + "ig/queue.json")
+        state["abruf_fehler"] = 0
+    except Exception as e:
+        if cmd != "lauf":
+            raise
+        n = state.get("abruf_fehler", 0) + 1; state["abruf_fehler"] = n
+        log.error(f"Warteschlange nicht abrufbar ({n}. Mal in Folge): {e}")
+        if n >= 3:  # erst melden, wenn es 30 Minuten lang nicht geht – kurze Aussetzer sind normal
+            problem_mail(state, "abruf " + now.strftime("%Y-%m-%d"), "⚠️ rave.wien Pi: rave.wien nicht erreichbar",
+                         f"Der Pi kann seit mindestens 30 Minuten die Warteschlange von rave.wien nicht laden – solange wird nichts gepostet.\n\n"
+                         f"Fehler: {e}\n\nMögliche Ursachen: Internet am Pi weg, Pi-hole blockiert rave.wien, oder rave.wien ist gerade nicht erreichbar.")
+        save_state(state); return
     if cmd == "status":
         print("PAUSIERT" if PAUSE.exists() else "aktiv", "| Version:", VERSION, "| Start:", state["start"])
         for p in queue.get("posts", []):
@@ -405,4 +419,20 @@ def main():
             save_state(state); break
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except SystemExit:
+        raise
+    except Exception as e:
+        log.exception("Unerwarteter Fehler")
+        if len(sys.argv) <= 1:   # nur beim automatischen Lauf mailen – bei Befehlen von Hand siehst du den Fehler direkt
+            try:
+                st = load_state()
+                problem_mail(st, f"absturz {datetime.now(timezone.utc):%Y-%m-%d} {type(e).__name__}",
+                             "⚠️ rave.wien Pi: Programm abgestürzt",
+                             f"Beim automatischen Lauf ist ein unerwarteter Fehler aufgetreten:\n\n{type(e).__name__}: {e}\n\n"
+                             f"Details im Protokoll: {HOME / 'log.txt'}\n(Diese Mail kommt höchstens einmal pro Tag und Fehlerart.)")
+                save_state(st)
+            except Exception:
+                log.exception("Konnte Absturz nicht melden")
+        sys.exit(1)
