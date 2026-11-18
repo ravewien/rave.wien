@@ -28,7 +28,7 @@ import json, os, sys, time, random, logging, urllib.request, hashlib, subprocess
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-18.5"
+VERSION = "2026-11-18.6"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -230,7 +230,7 @@ def publish(post, cl=None, state=None):
     else:
         media = cl.album_upload(paths[:10], text)
     url = f"https://www.instagram.com/p/{media.code}/"
-    if state is not None and load_config().get("STORY", "ja").lower() not in ("nein", "no", "0", "aus"):
+    if state is not None and story_an():
         due = datetime.now(timezone.utc) + timedelta(minutes=random.randint(*STORY_NACH_MIN))
         state.setdefault("stories", {})[post["datum"]] = {"pk": str(media.pk), "bild": str(paths[0]), "url": url,
                                                          "faellig": due.isoformat(), "status": "offen"}
@@ -257,6 +257,21 @@ def story_bild(src, ziel):
     bg.save(ziel, quality=92)
     return (x + fw / 2) / W, (y + fh / 2) / H, fw / W, fh / H
 
+def story_an():
+    return load_config().get("STORY", "ja").lower() not in ("nein", "no", "0", "aus")
+
+def stories_nachholen(state, now):
+    """Posts für kommende Tage, die noch keine Story haben (z. B. vor Einführung der Story gepostet), bekommen eine."""
+    if not story_an():
+        return
+    heute = now.astimezone().strftime("%Y-%m-%d")
+    for d, url in state.get("gepostet", {}).items():
+        if d >= heute and d not in state.setdefault("stories", {}) and "/p/" in str(url):
+            due = now + timedelta(minutes=random.randint(*STORY_NACH_MIN))
+            state["stories"][d] = {"code": url.split("/p/")[1].strip("/"), "bild": str(DL / d / "1.jpg"), "url": url,
+                                   "faellig": due.isoformat(), "status": "offen"}
+            say(f"{d}: Story wird nachgeholt (ca. {due.astimezone().strftime('%H:%M')})")
+
 def stories_faellig(state, now):
     return [(d, s) for d, s in state.get("stories", {}).items()
             if s.get("status") == "offen" and datetime.fromisoformat(s["faellig"]) <= now]
@@ -267,9 +282,13 @@ def story_posten(cl, d, s, state):
         s["status"] = "aufgegeben"; say(f"{d}: Story aufgegeben"); return
     s["versuche"] = s.get("versuche", 0) + 1
     try:
-        src = Path(s["bild"]); ziel = src.with_name("story.jpg")
+        src = Path(s["bild"])
+        if not src.exists():  # Bild nicht mehr lokal → von rave.wien holen
+            src.parent.mkdir(parents=True, exist_ok=True); src.write_bytes(fetch(BASE + f"ig/{d}/1.jpg", binary=True))
+        ziel = src.with_name("story.jpg")
+        pk = int(s.get("pk") or cl.media_pk_from_code(s["code"]))
         cx, cy, w, h = story_bild(src, ziel)
-        cl.photo_upload_to_story(ziel, medias=[StoryMedia(media_pk=int(s["pk"]), user_id=cl.user_id, x=cx, y=cy, width=w, height=h)])
+        cl.photo_upload_to_story(ziel, medias=[StoryMedia(media_pk=pk, user_id=cl.user_id, x=cx, y=cy, width=w, height=h)])
         s["status"] = "gepostet"; s["gepostet"] = datetime.now(timezone.utc).isoformat()
         say(f"{d}: Story gepostet")
     except Exception as e:
@@ -382,7 +401,7 @@ def main():
     # normaler Lauf
     if PAUSE.exists():
         return
-    todo = due_posts(queue, state, now); save_state(state)
+    todo = due_posts(queue, state, now); stories_nachholen(state, now); save_state(state)
     stories = stories_faellig(state, now)
     if not todo and not stories:
         return
