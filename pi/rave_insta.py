@@ -14,6 +14,9 @@ Läuft auf dem Raspberry Pi alle 10 Minuten (cron). Zugangsdaten stehen nur loka
   python3 rave_insta.py passwort  # neues Instagram-Passwort eintragen und neu anmelden
   python3 rave_insta.py update    # sofort nach einer neuen Programmversion suchen
 
+Story: Nach jedem Post wird er 10–45 Minuten später (zufällig) zusätzlich als Story geteilt – mit dem ersten Bild
+des Posts und einem antippbaren Verweis auf den Post. Abschalten: STORY=nein in ~/.rave-insta/config.
+
 Aktualisierung: Der normale Lauf prüft höchstens einmal pro Stunde, ob es auf rave.wien eine neue Version dieses
 Programms gibt. Eine neue Version wird erst getestet (Selbsttest in eigenem Prozess) und nur dann übernommen;
 die vorige Version bleibt als rave_insta.bak.py daneben liegen.
@@ -25,7 +28,7 @@ import json, os, sys, time, random, logging, urllib.request, hashlib, subprocess
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-18.3"
+VERSION = "2026-11-18.4"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -37,6 +40,8 @@ PAUSE = HOME / "PAUSE"
 DL = HOME / "bilder"
 MAX_VERSPAETUNG = timedelta(hours=6)   # was länger überfällig ist, wird nicht mehr nachgeholt
 MAX_POSTS_24H = 4                      # Sicherheitsnetz: mehr wird an einem Tag nie automatisch gepostet
+STORY_NACH_MIN = (10, 45)              # Story erscheint zufällig 10–45 Minuten nach dem Post
+STORY_AUFGEBEN = timedelta(hours=3)    # nach 3 Fehlversuchen oder so langer Überfälligkeit wird die Story aufgegeben
 STREUUNG_MIN = 30                      # jeder Post erscheint zufällig bis zu 30 Minuten vor oder nach der geplanten Zeit
 
 def wann(p):
@@ -214,7 +219,7 @@ def download(post):
         paths.append(p)
     return paths
 
-def publish(post, cl=None):
+def publish(post, cl=None, state=None):
     paths = download(post)
     cl = cl or client()
     text = post["text"]
@@ -222,7 +227,54 @@ def publish(post, cl=None):
         media = cl.photo_upload(paths[0], text)
     else:
         media = cl.album_upload(paths[:10], text)
-    return f"https://www.instagram.com/p/{media.code}/"
+    url = f"https://www.instagram.com/p/{media.code}/"
+    if state is not None and load_config().get("STORY", "ja").lower() not in ("nein", "no", "0", "aus"):
+        due = datetime.now(timezone.utc) + timedelta(minutes=random.randint(*STORY_NACH_MIN))
+        state.setdefault("stories", {})[post["datum"]] = {"pk": str(media.pk), "bild": str(paths[0]), "url": url,
+                                                         "faellig": due.isoformat(), "status": "offen"}
+    return url
+
+def story_bild(src, ziel):
+    """Story-Bild 1080×1920: Postbild groß in der Mitte, dahinter unscharf und abgedunkelt. Gibt die Lage des Postbilds zurück."""
+    from PIL import Image, ImageFilter, ImageDraw
+    W, H = 1080, 1920
+    img = Image.open(src).convert("RGB")
+    k = max(W / img.width, H / img.height)
+    bg = img.resize((round(img.width * k), round(img.height * k)))
+    bg = bg.crop(((bg.width - W) // 2, (bg.height - H) // 2, (bg.width - W) // 2 + W, (bg.height - H) // 2 + H))
+    bg = bg.filter(ImageFilter.GaussianBlur(40))
+    bg = Image.blend(bg, Image.new("RGB", (W, H), (8, 9, 11)), 0.6)
+    fw = 920; fh = round(img.height * fw / img.width)
+    if fh > 1500: fh = 1500; fw = round(img.width * fh / img.height)
+    fg = img.resize((fw, fh))
+    x, y = (W - fw) // 2, (H - fh) // 2
+    schatten = Image.new("L", (W, H), 0); ImageDraw.Draw(schatten).rounded_rectangle((x, y + 14, x + fw, y + fh + 14), 30, fill=170)
+    bg.paste(Image.new("RGB", (W, H), (0, 0, 0)), (0, 0), schatten.filter(ImageFilter.GaussianBlur(26)))
+    maske = Image.new("L", (fw, fh), 0); ImageDraw.Draw(maske).rounded_rectangle((0, 0, fw - 1, fh - 1), 28, fill=255)
+    bg.paste(fg, (x, y), maske)
+    bg.save(ziel, quality=92)
+    return (x + fw / 2) / W, (y + fh / 2) / H, fw / W, fh / H
+
+def stories_faellig(state, now):
+    return [(d, s) for d, s in state.get("stories", {}).items()
+            if s.get("status") == "offen" and datetime.fromisoformat(s["faellig"]) <= now]
+
+def story_posten(cl, d, s, state):
+    from instagrapi.types import StoryMedia
+    if datetime.now(timezone.utc) - datetime.fromisoformat(s["faellig"]) > STORY_AUFGEBEN or s.get("versuche", 0) >= 3:
+        s["status"] = "aufgegeben"; say(f"{d}: Story aufgegeben"); return
+    s["versuche"] = s.get("versuche", 0) + 1
+    try:
+        src = Path(s["bild"]); ziel = src.with_name("story.jpg")
+        cx, cy, w, h = story_bild(src, ziel)
+        cl.photo_upload_to_story(ziel, medias=[StoryMedia(media_pk=int(s["pk"]), user_id=cl.user_id, x=cx, y=cy, width=w, height=h)])
+        s["status"] = "gepostet"; s["gepostet"] = datetime.now(timezone.utc).isoformat()
+        say(f"{d}: Story gepostet")
+    except Exception as e:
+        log.exception("Fehler bei der Story"); say(f"{d}: Story-FEHLER {e}")
+        problem_mail(state, f"story {d}", f"⚠️ rave.wien: Story für {tag(d)} fehlgeschlagen",
+                     f"Der Post ist online ({s.get('url')}), aber das Teilen als Story hat nicht geklappt:\n\n{e}\n\n"
+                     f"Der Pi versucht es noch höchstens zweimal (alle 10 Minuten) und gibt die Story dann auf – der Post selbst bleibt online.")
 
 def gepostet_mail(p, url):
     n = len(p["bilder"])
@@ -290,6 +342,8 @@ def main():
         print("PAUSIERT" if PAUSE.exists() else "aktiv", "| Version:", VERSION, "| Start:", state["start"])
         for p in queue.get("posts", []):
             st = state["gepostet"].get(p["datum"]) or state["uebersprungen"].get(p["datum"]) or "offen"
+            sto = state.get("stories", {}).get(p["datum"])
+            if sto: st += f" | Story {sto['status']}" + (f" ab ca. {datetime.fromisoformat(sto['faellig']).astimezone().strftime('%H:%M')}" if sto["status"] == "offen" else "")
             t = wann(p).astimezone().strftime("%a %d.%m. %H:%M")
             print(f"  {p['datum']}  geplant {p['posten_ab'][:16].replace('T', ' ')}  → wirklich ca. {t}  {len(p['bilder'])} Bild(er)  → {st}")
         save_state(state); return
@@ -303,7 +357,7 @@ def main():
         d = sys.argv[2]
         p = next((x for x in queue.get("posts", []) if x["datum"] == d), None)
         if not p: sys.exit(f"Kein Post für {d} in der Warteschlange.")
-        url = publish(p); state["gepostet"][d] = url; merke(state, now); save_state(state); say(f"{d}: gepostet → {url}")
+        url = publish(p, state=state); state["gepostet"][d] = url; merke(state, now); save_state(state); say(f"{d}: gepostet → {url}")
         gepostet_mail(p, url); return
     if cmd == "mailtest":
         cfg = load_config()
@@ -315,7 +369,8 @@ def main():
     if PAUSE.exists():
         return
     todo = due_posts(queue, state, now); save_state(state)
-    if not todo:
+    stories = stories_faellig(state, now)
+    if not todo and not stories:
         return
     time.sleep(random.randint(5, 120))  # nicht immer auf die Sekunde genau
     try:
@@ -326,6 +381,8 @@ def main():
                      f"Der Pi konnte sich nicht bei Instagram anmelden, deshalb wird gerade nichts gepostet.\n\nFehler: {e}\n\n"
                      "Bitte am Pi ausführen:  ~/rave-insta/rave login\n(Instagram verlangt dann evtl. einen Sicherheitscode.)")
         save_state(state); return
+    for d, sto in stories:
+        story_posten(cl, d, sto, state); save_state(state)
     for p in todo:
         if zu_viele(state, datetime.now(timezone.utc)):
             say(f"{p['datum']}: nicht gepostet – schon {MAX_POSTS_24H} Posts in 24 Stunden (Sicherheitsnetz). Von Hand: rave jetzt {p['datum']}")
@@ -334,7 +391,7 @@ def main():
                          f"Von Hand posten: ~/rave-insta/rave jetzt {p['datum']}")
             save_state(state); break
         try:
-            url = publish(p, cl)
+            url = publish(p, cl, state)
             state["gepostet"][p["datum"]] = url; merke(state, datetime.now(timezone.utc)); save_state(state)
             say(f"{p['datum']}: gepostet → {url}")
             gepostet_mail(p, url)
