@@ -28,7 +28,7 @@ import json, os, sys, time, random, logging, urllib.request, hashlib, subprocess
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-18.8"
+VERSION = "2026-11-18.9"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -67,7 +67,7 @@ def load_config():
                 k, v = line.split("=", 1); cfg[k.strip()] = v.strip().strip('"')
     return cfg
 
-def mail(betreff, text):
+def mail(betreff, text, bilder=()):
     """Schickt eine Infomail, falls eingerichtet. Fehler beim Mailen stoppen nie das Posten."""
     cfg = load_config()
     to = cfg.get("MAIL_TO"); user = cfg.get("SMTP_USER") or to; token = cfg.get("SMTP_TOKEN")
@@ -80,6 +80,18 @@ def mail(betreff, text):
     m["From"] = f"rave.wien Pi <{user}>"; m["To"] = to; m["Subject"] = betreff
     m["Date"] = formatdate(localtime=True); m["Message-ID"] = make_msgid(domain="rave.wien")
     m.set_content(text)
+    try:   # Bilder direkt in der Mail anzeigen (und als Anhang dabei)
+        vorhanden = [Path(b) for b in bilder if Path(b).exists()][:10]
+        if vorhanden:
+            import html as _html
+            cids = [make_msgid(domain="rave.wien") for _ in vorhanden]
+            body = "<div style=\"font-family:sans-serif;font-size:15px;white-space:pre-wrap\">" + _html.escape(text) + "</div>" + "".join(
+                f"<p><img src=\"cid:{c[1:-1]}\" style=\"max-width:420px;width:100%;height:auto;border-radius:8px\"></p>" for c in cids)
+            m.add_alternative(body, subtype="html")
+            for c, b in zip(cids, vorhanden):
+                m.get_payload()[1].add_related(b.read_bytes(), "image", "jpeg", cid=c, filename=b.name)
+    except Exception as e:
+        log.error(f"Bilder konnten nicht an die Mail gehängt werden: {e}")
     try:
         with smtplib.SMTP(cfg.get("SMTP_HOST", "smtp.protonmail.ch"), int(cfg.get("SMTP_PORT", "587")), timeout=60) as sm:
             sm.starttls(context=ssl.create_default_context()); sm.login(user, token); sm.send_message(m)
@@ -295,7 +307,7 @@ def story_posten(cl, d, s, state):
         s["status"] = "gepostet"; s["gepostet"] = datetime.now(timezone.utc).isoformat()
         say(f"{d}: Story gepostet")
         mail(f"📱 rave.wien hat die Story gepostet: {tag(d)}",
-             f"Der Post für {tag(d)} wurde gerade zusätzlich als Story geteilt.\n\nPost: {s.get('url')}\nStory: https://www.instagram.com/stories/{load_config().get('IG_USER', '')}/")
+             f"Der Post für {tag(d)} wurde gerade zusätzlich als Story geteilt.\n\nPost: {s.get('url')}\nStory: https://www.instagram.com/stories/{load_config().get('IG_USER', '')}/", [ziel])
     except Exception as e:
         log.exception("Fehler bei der Story"); say(f"{d}: Story-FEHLER {e}")
         problem_mail(state, f"story {d}", f"⚠️ rave.wien: Story für {tag(d)} fehlgeschlagen",
@@ -307,7 +319,8 @@ def gepostet_mail(p, url):
     mail(f"📸 rave.wien hat gepostet: {tag(p['datum'])}",
          (f"Auf Instagram ist gerade der {tag(p['datum'])} erschienen.\n\n" if p["datum"].startswith("extra-") else
           f"Auf Instagram ist gerade der Post für {tag(p['datum'])} erschienen ({p.get('events', '?')} Events, {n} Bild{'er' if n != 1 else ''}).\n\n")
-         + f"{url}\n\n——— Text des Posts ———\n\n{p['text']}")
+         + f"{url}\n\n——— Text des Posts ———\n\n{p['text']}",
+         [DL / p["datum"] / Path(b).name for b in p["bilder"]])
 
 def due_posts(queue, state, now):
     out = []
