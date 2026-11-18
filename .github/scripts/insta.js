@@ -126,13 +126,17 @@ function caption(EVS,label,dd,mm,wd){
     shots.push(await page.screenshot({type:'jpeg',quality:92}))}
    if(ok||NP===10){files=shots.map((buf,i)=>{const n=`${i+1}.jpg`;fs.writeFileSync(dir+'/'+n,buf);return n});break}}
   const cap=caption(EVS,label,dd,mm,wd);
-  const post={datum:d,posten_ab:iso(at),bilder:files.map(f=>`ig/${d}/${f}`),text:cap.text,erwaehnt:cap.inText,events:EVS.length};
+  const post={datum:d,posten_ab:iso(at),...(only?{manuell:true}:{}),bilder:files.map(f=>`ig/${d}/${f}`),text:cap.text,erwaehnt:cap.inText,events:EVS.length};
   fs.writeFileSync(dir+'/post.json',JSON.stringify(post,null,1));fs.writeFileSync(dir+'/text.txt',cap.text);
   queue.push(post);console.log(d,'→',files.length,'Bild(er), posten ab',post.posten_ab)}
  await b.close();
  // Warteschlange: neue Posts + noch gültige frühere (bis 24 h nach Termin), alte Ordner aufräumen
  let old=[];try{old=JSON.parse(fs.readFileSync(OUT+'/queue.json','utf8')).posts||[]}catch(_){}
- const keep=old.filter(p=>!queue.find(q=>q.datum===p.datum)&&fs.existsSync(OUT+'/'+p.datum)&&new Date(p.posten_ab).getTime()>now.getTime()-24*3600e3);
+ // Plan-Posts nur behalten, wenn sie noch zur aktuellen Planung passen (sonst würden alte Zeiten nach einer Planänderung weiterlaufen);
+ // von Hand erzeugte Posts (node insta.js DATUM) bleiben, bis sie 24 h alt sind.
+ const planAt=d=>{const r=plan[WD[wdOf(d)]];return r&&r.aktiv!==false?iso(vienna(addDays(d,-(+r.tage_vorher||0)),r.uhrzeit||'19:00')):null};
+ const keep=old.filter(p=>!queue.find(q=>q.datum===p.datum)&&fs.existsSync(OUT+'/'+p.datum)&&new Date(p.posten_ab).getTime()>now.getTime()-24*3600e3&&(p.manuell||planAt(p.datum)===p.posten_ab));
+ for(const p of old)if(!keep.includes(p)&&!queue.find(q=>q.datum===p.datum))fs.rmSync(OUT+'/'+p.datum,{recursive:true,force:true});
  const all=[...keep,...queue].sort((a,b)=>a.posten_ab.localeCompare(b.posten_ab));
  fs.writeFileSync(OUT+'/queue.json',JSON.stringify({posts:all},null,1));
  for(const n of fs.readdirSync(OUT))if(/^\d{4}-\d\d-\d\d$/.test(n)&&n<addDays(today,-3))fs.rmSync(OUT+'/'+n,{recursive:true,force:true});

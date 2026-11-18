@@ -1,38 +1,38 @@
 {
- "_info": "Wann der Instagram-Post für die Events eines Wochentags erscheint: 'tage_vorher' Tage vor dem Eventtag um 'uhrzeit' (Wiener Zeit). Der Pi postet zufällig bis zu 30 Minuten früher oder später. Wochentag fehlt oder aktiv=false → kein Post. Zeiten nach Buffer/Metricool 2026: abends 18–21 Uhr am stärksten.",
+ "_info": "Wann der Instagram-Post für die Events eines Wochentags erscheint: 'tage_vorher' Tage vor dem Eventtag um 'uhrzeit' (Wiener Zeit). Standard: jeder Tag am Vorabend um 19:00 – so kommt pro Abend ein Post, in der Reihenfolge der Tage. Der Pi postet zufällig bis zu 30 Minuten früher oder später. Wochentag fehlt oder aktiv=false → kein Post.",
  "montag": {
   "aktiv": true,
-  "tage_vorher": 0,
-  "uhrzeit": "12:00"
+  "tage_vorher": 1,
+  "uhrzeit": "19:00"
  },
  "dienstag": {
   "aktiv": true,
-  "tage_vorher": 0,
-  "uhrzeit": "12:00"
+  "tage_vorher": 1,
+  "uhrzeit": "19:00"
  },
  "mittwoch": {
   "aktiv": true,
-  "tage_vorher": 0,
-  "uhrzeit": "12:00"
+  "tage_vorher": 1,
+  "uhrzeit": "19:00"
  },
  "donnerstag": {
   "aktiv": true,
-  "tage_vorher": 3,
+  "tage_vorher": 1,
   "uhrzeit": "19:00"
  },
  "freitag": {
   "aktiv": true,
-  "tage_vorher": 3,
+  "tage_vorher": 1,
   "uhrzeit": "19:00"
  },
  "samstag": {
   "aktiv": true,
-  "tage_vorher": 3,
+  "tage_vorher": 1,
   "uhrzeit": "19:00"
  },
  "sonntag": {
   "aktiv": true,
-  "tage_vorher": 3,
+  "tage_vorher": 1,
   "uhrzeit": "19:00"
  }
 }
