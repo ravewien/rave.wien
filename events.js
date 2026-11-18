@@ -1098,6 +1098,17 @@ const CG={
  "BASST SCHO": [
   "UK Garage",
   "Drum & Bass"
+ ],
+ "Melodic Monday": [
+  "Afro House",
+  "Melodic House",
+  "Techno"
+ ],
+ "Fourcast": [
+  "House",
+  "Techno",
+  "UK Garage",
+  "Drum & Bass"
  ]
 };
 const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","909techno","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","ALERT[A] Vienna","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","Art Attech","AUDIO303","Auf der Lauer","Ausländer Haus","AWSM","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","BASST SCHO","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","BLUR","Bonkers","Booster Club","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Cybertribe","Cyclic Existence","Dance 2 House","Danza Obscura","Dark Pressure","Das Syndikat","DEAD END","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exceso","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Fourcast","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Homesounds","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","It's George","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Klanggerecht","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","Meier","MEIOSISS","Melodic Monday","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Opération","Out of Space","Oxygene","Palazzo Recordings","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PURRR","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","SIGNAL","SIN","Slutlabs","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","TECHNOLOT","The Academy","The Hive","The House of Funk","the zound partisans","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Ungeniert","Uniquely Journeys","Unkwn","Untz Baby Untz","up/or","Vangardist","Ventil Records","Verknallt","Vertigo","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wums","Wyldhearts","Xperiment","Xperiment Records","YE","YN","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
@@ -6247,12 +6258,108 @@ const CI={
    "https://ra.co/events/2586324"
   ],
   "infoChk": "2026-11-17"
+ },
+ "Wums": {
+  "alias": [
+   "WUMS Kollektiv"
+  ],
+  "type": [
+   "Kollektiv"
+  ],
+  "from": "Wien",
+  "de": "Wiener DJ-Kollektiv (WUMS Kollektiv) aus dem Bassmusik-Umfeld; veranstaltet u. a. im November 2026 die Nacht „OVER:TONE x CitrusCue“ im Club U mit internationalem Headliner und lokalen Residents.",
+  "en": "Vienna DJ collective (WUMS Kollektiv) from the bass music scene; hosts nights such as 'OVER:TONE x CitrusCue' at Club U in November 2026, pairing an international headliner with local residents.",
+  "ig": "https://www.instagram.com/wumsystem/",
+  "noLogo": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "src": [
+   "https://ra.co/events/2587691"
+  ]
+ },
+ "Fourcast": {
+  "from": "Wien",
+  "de": "Wiener Veranstalter von Clubnächten im Loop mit House, Techno, UK Garage und Drum & Bass, teils mit Spendenaktionen (z. B. für das neunerhaus).",
+  "en": "Vienna promoter of club nights at Loop featuring house, techno, UK garage and drum & bass, sometimes with fundraising (e.g. for neunerhaus).",
+  "ig": "https://www.instagram.com/fourcast.vienna/",
+  "noLogo": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "src": [
+   "https://ra.co/events/2100181"
+  ]
+ },
+ "Melodic Monday": {
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "de": "Wiener Afterwork- und Daypartyreihe am Montag mit Afro House, Melodic House & Techno, seit mindestens 2023 an wechselnden Orten wie Aux Gazelles, Glückskind, MUSE am Donaukanal und Volksgarten Pavillon.",
+  "en": "Vienna Monday afterwork and day-party series with afro house, melodic house & techno, running since at least 2023 at changing venues such as Aux Gazelles, Glückskind, MUSE am Donaukanal and Volksgarten Pavillon.",
+  "noLogo": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "src": [
+   "https://ra.co/events/1920303",
+   "https://ra.co/events/1815128",
+   "https://ra.co/events/2253760",
+   "https://ra.co/events/2301833"
+  ]
+ },
+ "TECHNOLOT": {
+  "from": "Wien",
+  "de": "Techno-Partyreihe im Das Lot in Wien, seit mindestens 2024, oft als Kooperation mit anderen Kollektiven (z. B. Ärger, Favorite Fall, PURRR).",
+  "en": "Techno party series at Das Lot in Vienna, running since at least 2024, often in collaboration with other collectives (e.g. Ärger, Favorite Fall, PURRR).",
+  "noLogo": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "src": [
+   "https://ra.co/events/2033747",
+   "https://ra.co/events/2251866"
+  ]
+ },
+ "Homesounds": {
+  "from": "Wien",
+  "de": "Wiener Benefiz-Partyreihe unter dem Motto „Local DJs for local homeless“ mit lokalen DJs; Veranstaltungen u. a. 2025 im Der Ponyhof und 2026 im Loop.",
+  "en": "Vienna benefit party series under the motto 'Local DJs for local homeless', featuring local DJs; events have taken place at Der Ponyhof (2025) and Loop (2026).",
+  "noLogo": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "src": [
+   "https://ra.co/events/2136044"
+  ]
+ },
+ "Grelle Forelle": {
+  "from": "Wien",
+  "founded": "2011",
+  "de": "Techno-Club an der Spittelauer Lände in Wien (seit 2011), der auch eigene Clubnächte veranstaltet, etwa im Dezember 2026 das Jubiläum „15YRS Grelle Forelle“.",
+  "en": "Techno club on Spittelauer Lände in Vienna (since 2011) that also hosts its own club nights, such as the '15YRS Grelle Forelle' anniversary in December 2026.",
+  "web": "https://www.grelleforelle.com/",
+  "ig": "https://www.instagram.com/grelle_forelle/",
+  "logo": "https://www.grelleforelle.com/wp-content/uploads/2016/08/cropped-favicon-270x270.png",
+  "infoChk": "2026-11-18",
+  "src": [
+   "https://www.grelleforelle.com/"
+  ]
+ },
+ "PURRR": {
+  "noLogo": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "src": [
+   "https://ra.co/promoters/188041"
+  ]
+ },
+ "Booster Club": {
+  "noLogo": "2026-11-18",
+  "infoChk": "2026-11-18"
  }
 };
 const VI={
  "LIA Coffee WU Campus": {
   "io": [
    "Indoor"
+  ],
+  "de": "Café am Campus der Wirtschaftsuniversität Wien im 2. Bezirk, gelegentlich Schauplatz von Dayparties.",
+  "en": "Café on the campus of the Vienna University of Economics and Business in the 2nd district, occasionally hosting day parties.",
+  "noLogo": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "src": [
+   "https://www.falter.at/lokal/8367/lia-coffee-wu-wien"
   ]
  },
  "Semmelweisklinik": {
@@ -9501,7 +9608,8 @@ const AR={
    "de": "Vivienna ist eine genrefluide DJ, geboren in Deutschland und in Wien zu Hause. Sie spielt hypnotischen, groovigen Techno und mischt über mehrere Decks Einflüsse aus Hip-Hop, Latin, MENA und Jazz hinein.",
    "en": "Vivienna is a genre-fluid DJ, born in Germany and based in Vienna. She plays hypnotic, groovy techno, layering multiple decks to bring in hip-hop, Latin, MENA and jazz influences."
   },
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "spChk": "2026-11-18"
  },
  "Albin Brezlan": {
   "links": {
@@ -11621,7 +11729,8 @@ const AR={
  "Miss Undertaker": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-18"
  },
  "Sportacore": {
   "noImg": "2026-11-03",
@@ -11907,7 +12016,8 @@ const AR={
  "Wisteria": {
   "noImg": "2026-11-03",
   "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-18"
  },
  "Sanex": {
   "noImg": "2026-11-03",
@@ -12747,7 +12857,8 @@ const AR={
    "https://brut-wien.at/en/artists/zey",
    "https://oroko.live/radio/zey",
    "https://soundcloud.com/djzey"
-  ]
+  ],
+  "spChk": "2026-11-18"
  },
  "Santo": {
   "infoChk": "2026-11-02",
@@ -13531,7 +13642,8 @@ const AR={
     "u": "https://soundcloud.com/mahlwerk-mwk/max-mustermann"
    }
   ],
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "spChk": "2026-11-18"
  },
  "Who is Ela¿": {
   "img": "https://static.ra.co/images/profiles/square/whoisela%C2%BF.jpg?dateUpdated=1774034559527",
@@ -13635,26 +13747,27 @@ const AR={
    "ra": "https://ra.co/dj/edictum",
    "sc": "https://soundcloud.com/edictum303",
    "bc": "https://edictum.bandcamp.com",
-   "ig": "https://www.instagram.com/Edictum303/",
+   "ig": "https://www.instagram.com/edictum303/",
    "web": "https://edictum.music",
    "sp": "https://open.spotify.com/artist/11e1I6BUAcdUOAf7AJUXWd"
   },
   "from": {
-   "de": "Wien",
-   "en": "Vienna"
+   "de": "Österreich",
+   "en": "Austria"
   },
   "real": "Simon",
   "bio": {
-   "de": "Edictum ist ein Wiener Produzent und DJ, seit 2002 aktiv, mit Fokus auf melodische, tanzbare elektronische Musik. Laut RA hat er über 10 Alben und viele Singles auf mehr als 15 Labels veröffentlicht, auch auf physischen Formaten. Als DJ spielt er vor allem lange, genreübergreifende Vinyl-Sets. Mit Turbo Knight und Pfeffermouse veröffentlichte er das Album Ending Infinity.",
-   "en": "Edictum is a Vienna-based producer and DJ, active since 2002 and focused on melodic, danceable electronic music. According to RA, he has released more than 10 albums and many singles on over 15 labels, including physical formats. As a DJ he mainly plays long, genre-bending vinyl sets. With Turbo Knight and Pfeffermouse he released the album Ending Infinity."
+   "de": "Edictum ist ein österreichischer Produzent und DJ, seit 2002 aktiv, mit Fokus auf melodische, tanzbare elektronische Musik. Laut eigenem Profil hat er mehr als zehn Alben und viele Singles auf über 15 Labels veröffentlicht und spielt lange, genreübergreifende Vinyl-Sets. Er arbeitet u. a. mit Turbo Knight zusammen.",
+   "en": "Edictum is an Austrian producer and DJ, active since 2002, focusing on melodic, danceable electronic music. According to his profile he has released more than ten albums and many singles on over 15 labels and plays long, genre-bending vinyl sets. He collaborates with Turbo Knight, among others."
   },
   "src": [
    "https://fr.ra.co/dj/edictum",
    "https://open.spotify.com/intl-de/artist/11e1I6BUAcdUOAf7AJUXWd",
    "https://ra.co/dj/edictum",
-   "https://ra.co/events/2347602"
+   "https://ra.co/events/2347602",
+   "https://open.spotify.com/artist/11e1I6BUAcdUOAf7AJUXWd"
   ],
-  "infoChk": "2026-11-17",
+  "infoChk": "2026-11-18",
   "alias": [
    "Mycorave",
    "Shades of Thunder",
@@ -13662,12 +13775,16 @@ const AR={
   ],
   "sets": [
    {
+    "t": "Cinematique Visions 153 - Edictum",
+    "u": "https://soundcloud.com/cinematique/cinematique-visions-153-edictum"
+   },
+   {
     "t": "Radio Analogique DJ-Set by Edictum",
     "u": "https://soundcloud.com/analogiquemusic/radio-analogique-djset-by-edictum"
    }
   ],
-  "setsChecked": "2026-11-17",
-  "spChk": "2026-11-17"
+  "setsChecked": "2026-11-18",
+  "spChk": "2026-11-18"
  },
  "Matt Ludlam": {
   "infoChk": "2026-11-03",
@@ -28439,7 +28556,8 @@ const AR={
    "sc": "https://soundcloud.com/victoria_alice",
    "ra": "https://ra.co/dj/alice-at",
    "ig": "https://www.instagram.com/v___alice"
-  }
+  },
+  "spChk": "2026-11-18"
  },
  "Muallem": {
   "img": "https://static.ra.co/images/profiles/square/muallem.jpg?dateUpdated=1779700772747",
@@ -30714,7 +30832,8 @@ const AR={
    "https://ra.co/dj/matschubert",
    "https://soundcloud.com/matschubertmusic"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-18"
  },
  "DELIVARY": {
   "infoChk": "2026-11-03",
@@ -39348,7 +39467,8 @@ const AR={
   "src": [
    "https://ra.co/dj/malugi",
    "https://ra.co/dj/malugi/biography"
-  ]
+  ],
+  "spChk": "2026-11-18"
  },
  "Onur Özer": {
   "img": "https://static.ra.co/images/profiles/square/onurozer.jpg?dateUpdated=1673965645000",
@@ -49246,7 +49366,8 @@ const AR={
  "Clem Vital": {
   "noImg": "2026-11-09",
   "noLinks": "2026-11-09",
-  "infoChk": "2026-11-09"
+  "infoChk": "2026-11-09",
+  "spChk": "2026-11-18"
  },
  "KORKI": {
   "noImg": "2026-11-09",
@@ -52530,6 +52651,262 @@ const AR={
   ],
   "infoChk": "2026-11-17",
   "spChk": "2026-11-17"
+ },
+ "A.Fruit": {
+  "real": "Anna Fruit",
+  "from": {
+   "de": "Spanien",
+   "en": "Spain"
+  },
+  "bio": {
+   "de": "A.Fruit ist eine Bass-Produzentin und DJ, laut RA in Spanien ansässig und seit 2015 auf RA gelistet, mit vielen Auftritten in Moskau, Barcelona, Sankt Petersburg und Berlin. Releases erschienen u. a. auf Med School, Hyperboloid Records, Rua Sound, Cosmic Bridge und Black Marble Collective.",
+   "en": "A.Fruit is a bass music producer and DJ, based in Spain according to RA and listed there since 2015, with frequent gigs in Moscow, Barcelona, Saint Petersburg and Berlin. Her releases have come out on labels including Med School, Hyperboloid Records, Rua Sound, Cosmic Bridge and Black Marble Collective."
+  },
+  "labels": [
+   "Med School",
+   "Cosmic Bridge",
+   "Hyperboloid Records",
+   "Rua Sound",
+   "YUKU",
+   "Black Marble Collective",
+   "Polymorphism"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/afruit.jpg?dateUpdated=1752627384793",
+  "links": {
+   "ra": "https://ra.co/dj/afruit",
+   "sc": "https://soundcloud.com/annafruit",
+   "bc": "https://annafruit.bandcamp.com",
+   "ig": "https://www.instagram.com/fruitbass/"
+  },
+  "sets": [
+   {
+    "t": "A.Fruit 160bpm Productions Mix",
+    "u": "https://soundcloud.com/annafruit/afruit-160bpm-productions-mix"
+   },
+   {
+    "t": "Bassota Hot Chilli Sound Mix",
+    "u": "https://soundcloud.com/annafruit/bassota-hot-chilli-sound-mix"
+   }
+  ],
+  "setsChecked": "2026-11-18",
+  "spChk": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "src": [
+   "https://ra.co/dj/afruit",
+   "https://ra.co/events/2587691"
+  ]
+ },
+ "RUV3N": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "RUV3N ist DJ und Produzent aus Wien und mischt UK Garage, Bass und Club-Rhythmen. Angefangen hat er mit 17 mit Drum & Bass; gespielt hat er u. a. im WUK, im Flex und im The Loft. Er studiert elektronische Musik am Vienna Music Institute.",
+   "en": "RUV3N is a Vienna-based DJ and producer blending UK garage, bass and club rhythms. He started out with drum & bass at 17 and has played venues such as WUK, Flex and The Loft. He studies electronic music at the Vienna Music Institute."
+  },
+  "img": "https://static.ra.co/images/profiles/square/ruv3n.jpg?dateUpdated=1758711353000",
+  "links": {
+   "ra": "https://ra.co/dj/ruv3n",
+   "sc": "https://soundcloud.com/ruv3n-100840797"
+  },
+  "setsChecked": "2026-11-18",
+  "spChk": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "src": [
+   "https://ra.co/dj/ruv3n/biography",
+   "https://ra.co/events/2587691"
+  ]
+ },
+ "DICEFACE": {
+  "links": {
+   "sc": "https://soundcloud.com/diceface"
+  },
+  "sets": [
+   {
+    "t": "Mall Grab is coming to Vienna Mix",
+    "u": "https://soundcloud.com/diceface/mall-grab-is-coming-to-vienna-mix"
+   },
+   {
+    "t": "Radio Roll #006 2024 Special w/ Cam Smith",
+    "u": "https://soundcloud.com/diceface/radio-roll-006-2024-special-wcam-smith"
+   }
+  ],
+  "setsChecked": "2026-11-18",
+  "spChk": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "noImg": "2026-11-18",
+  "src": [
+   "https://soundcloud.com/diceface"
+  ]
+ },
+ "Tesa": {
+  "noImg": "2026-11-18",
+  "noLinks": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "spChk": "2026-11-18"
+ },
+ "ha:kuzaa": {
+  "noImg": "2026-11-18",
+  "noLinks": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "spChk": "2026-11-18"
+ },
+ "Stefan Hofer": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "links": {
+   "sc": "https://soundcloud.com/stefanhofer_dj"
+  },
+  "sets": [
+   {
+    "t": "ELECTRIC RODEO - Jubilee b2b Stefan Hofer @ Der Ponyhof Club (Vienna)",
+    "u": "https://soundcloud.com/stefanhofer_dj/electric-rodeo-jubilee-b2b-stefan-hofer-der-ponyhof-club-vienna"
+   },
+   {
+    "t": "Fisimatenten #9 - Stefan Hofer",
+    "u": "https://soundcloud.com/jut-vienna/fisimatenten-9-stefan-hofer"
+   }
+  ],
+  "setsChecked": "2026-11-18",
+  "spChk": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "noImg": "2026-11-18",
+  "src": [
+   "https://soundcloud.com/stefanhofer_dj"
+  ]
+ },
+ "Chinyere": {
+  "from": {
+   "de": "Hamburg",
+   "en": "Hamburg"
+  },
+  "bio": {
+   "de": "Chinyere ist DJ und Soundproduzentin aus Hamburg. In ihren Sets verbindet sie Igbo-Highlife mit Alternative und Punkrock, hat eine Vorliebe für Gqom und Uthayela und mischt Hard Drum, UK Garage, Global Bass, Footwork, Singeli und Drill.",
+   "en": "Chinyere is a Hamburg-based DJ and sound producer. Her sets connect Igbo highlife with alternative and punk rock; she has a strong affinity for gqom and uthayela and blends hard drum, UK garage, global bass, footwork, singeli and drill."
+  },
+  "genres": [
+   "Gqom",
+   "Hard Drum",
+   "UK Garage",
+   "Global Bass",
+   "Footwork",
+   "Singeli"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/chinyere.jpg?dateUpdated=1775592877867",
+  "links": {
+   "ra": "https://ra.co/dj/chinyere"
+  },
+  "spChk": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "src": [
+   "https://de.ra.co/dj/chinyere/biography"
+  ]
+ },
+ "Atlana": {
+  "from": {
+   "de": "Österreich, lebt zwischen London und Wien",
+   "en": "Austria, based between London and Vienna"
+  },
+  "bio": {
+   "de": "Atlana ist eine DJ aus Österreich, die zwischen London und Wien lebt. Ihre energiegeladenen Sets verbinden Juke, Chicago Footwork, Bass, Breaks und andere elektronische Sounds; Mixe liefen u. a. auf Res.Radio und Aaja.",
+   "en": "Atlana is an Austrian-born DJ based between London and Vienna. Her high-energy sets blend juke, Chicago footwork, bass, breaks and other electronic sounds; her mixes have aired on Res.Radio and Aaja, among others."
+  },
+  "genres": [
+   "Juke",
+   "Footwork",
+   "Bass",
+   "Breaks"
+  ],
+  "img": "https://static.ra.co/images/profiles/square/atlana.jpg?dateUpdated=1791388813030",
+  "links": {
+   "ra": "https://ra.co/dj/atlana",
+   "sc": "https://soundcloud.com/atlana-aurora-fortunata"
+  },
+  "sets": [
+   {
+    "t": "Atlana - Aaja Channel 1 (12.06.2026)",
+    "u": "https://soundcloud.com/aajaradio/atlana-aaja-channel-1-12-06-26"
+   },
+   {
+    "t": "Atlana #1 In spades (Res.Radio)",
+    "u": "https://soundcloud.com/resradio/atlana-1-in-spades"
+   }
+  ],
+  "setsChecked": "2026-11-18",
+  "spChk": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "src": [
+   "https://es.ra.co/dj/atlana"
+  ]
+ },
+ "Linko": {
+  "noImg": "2026-11-18",
+  "noLinks": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "spChk": "2026-11-18"
+ },
+ "Elective": {
+  "noImg": "2026-11-18",
+  "noLinks": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "spChk": "2026-11-18",
+  "src": [
+   "https://ra.co/events/2100181"
+  ]
+ },
+ "Mazimo": {
+  "noImg": "2026-11-18",
+  "noLinks": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "spChk": "2026-11-18",
+  "src": [
+   "https://ra.co/events/2100181"
+  ]
+ },
+ "Twenty-Two": {
+  "noImg": "2026-11-18",
+  "noLinks": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "spChk": "2026-11-18",
+  "src": [
+   "https://ra.co/events/2100181"
+  ]
+ },
+ "Volun": {
+  "noImg": "2026-11-18",
+  "noLinks": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "spChk": "2026-11-18",
+  "src": [
+   "https://ra.co/events/2100181"
+  ]
+ },
+ "Hawara": {
+  "noImg": "2026-11-18",
+  "noLinks": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "spChk": "2026-11-18"
+ },
+ "Brida": {
+  "noImg": "2026-11-18",
+  "noLinks": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "spChk": "2026-11-18"
+ },
+ "Ones": {
+  "noImg": "2026-11-18",
+  "noLinks": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "spChk": "2026-11-18"
+ },
+ "R2D3": {
+  "noImg": "2026-11-18",
+  "noLinks": "2026-11-18",
+  "infoChk": "2026-11-18",
+  "spChk": "2026-11-18"
  }
 };
 
