@@ -28,7 +28,7 @@ import json, os, sys, time, random, logging, urllib.request, hashlib, subprocess
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-18.6"
+VERSION = "2026-11-18.7"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -291,6 +291,8 @@ def story_posten(cl, d, s, state):
         cl.photo_upload_to_story(ziel, medias=[StoryMedia(media_pk=pk, user_id=cl.user_id, x=cx, y=cy, width=w, height=h)])
         s["status"] = "gepostet"; s["gepostet"] = datetime.now(timezone.utc).isoformat()
         say(f"{d}: Story gepostet")
+        mail(f"📱 rave.wien hat die Story gepostet: {tag(d)}",
+             f"Der Post für {tag(d)} wurde gerade zusätzlich als Story geteilt.\n\nPost: {s.get('url')}\nStory: https://www.instagram.com/stories/{load_config().get('IG_USER', '')}/")
     except Exception as e:
         log.exception("Fehler bei der Story"); say(f"{d}: Story-FEHLER {e}")
         problem_mail(state, f"story {d}", f"⚠️ rave.wien: Story für {tag(d)} fehlgeschlagen",
