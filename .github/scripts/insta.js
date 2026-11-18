@@ -26,6 +26,8 @@ const price=p=>{p=String(p||'').trim();if(!p)return 'Preis folgt';if(/^(ausverka
 const html0=fs.readFileSync(R+'/index.html','utf8');
 const DSEG=(html0.match(/@font-face\{font-family:"DSEG7";src:url\((data:font\/woff2;base64,[^)]*)\)/)||[])[1];
 const ASTRO=(html0.match(/\.astro\{[^}]*-webkit-mask:url\((data:image\/png;base64,[^)]*)\)/)||[])[1];
+// Astronaut rechts unten: alle PNGs in ig/astro/ (weiß auf transparent) wechseln sich ab – neue Moves einfach dort ablegen
+const POSES=fs.readdirSync(OUT+'/astro').filter(f=>/\.png$/i.test(f)).sort().map(f=>{const b=fs.readFileSync(OUT+'/astro/'+f);return {u:'data:image/png;base64,'+b.toString('base64'),w:b.readUInt32BE(16),h:b.readUInt32BE(20)}});
 const f64=n=>'data:font/woff2;base64,'+fs.readFileSync(F+n).toString('base64');
 const CSS=`
 @font-face{font-family:Doto;src:url(${f64('doto-latin-900-normal.woff2')});font-weight:900}
@@ -72,12 +74,15 @@ body{width:1080px;height:1350px;background:#08090b;color:#e9ecf1;font-family:BC,
 .pr.free{color:#ffffff}.pr.ak{color:#ffd24a}.pr.tbd{color:#8f96a3}
 .foot{display:flex;justify-content:space-between;align-items:center;padding-top:26px;border-top:2px solid #2a2e36;font-family:JB;font-weight:700;font-size:24px;letter-spacing:.06em;color:#8f96a3}
 .foot b{margin-left:.35em;color:#fff;font-family:Doto;font-weight:900;font-size:34px;letter-spacing:.02em;-webkit-text-stroke:.6px #fff}
+.dancer{position:absolute;right:66px;bottom:44px;background:#e9ecf1;-webkit-mask-size:100% 100%;-webkit-mask-repeat:no-repeat;filter:drop-shadow(0 0 14px rgba(31,139,255,.55))}
+.foot .pg{margin-right:150px}.ev:last-child .pr{margin-right:130px}
 .foot b i{display:inline-block;width:.16em;height:.16em;background:#1f8bff;margin:0 .1em}`;
 // Tageszeit wie auf der Website: 4–12 Uhr Afterhour (lila), 12–18 Uhr Day-Event (gelb), sonst blau
 const tk=t=>{if(!t)return '';const h=+String(t).slice(0,2);return h>=4&&h<12?'tAft':h>=12&&h<18?'tDay':''};
 const GRP='<svg viewBox="0 0 24 24"><path fill="#ff8c1a" d="M9 11a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm7.5 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM9 13c-3.3 0-7 1.6-7 4.3V20h14v-2.7C16 14.6 12.3 13 9 13zm7.5 0c-.5 0-1 0-1.6.1 1.3.9 2.1 2.2 2.1 4.2V20h6v-2.4c0-2.6-3.6-4.6-6.5-4.6z"/></svg>';
 const PIN='<svg viewBox="0 0 24 24"><path fill="#2fd145" d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg>';
-const slide=(EVS,pg,i,n,label,dd,mm,lc)=>`<!doctype html><meta charset="utf-8"><style>${CSS}</style><body class="${EVS.length<=3?'few':''}" style="--lc:${lc||2}"><div class="bg"></div><div class="grid"></div><div class="wrap">
+const slide=(EVS,pg,i,n,label,dd,mm,lc)=>{const h=slide0(EVS,pg,i,n,label,dd,mm,lc);if(!POSES.length)return h;const P=POSES[(+dd+ +mm+i)%POSES.length];const k=135/P.h;return h.replace('</div></body>',`<div class="dancer" style="width:${Math.round(P.w*k)}px;height:135px;-webkit-mask-image:url(${P.u})"></div></div></body>`)};
+const slide0=(EVS,pg,i,n,label,dd,mm,lc)=>`<!doctype html><meta charset="utf-8"><style>${CSS}</style><body class="${EVS.length<=3?'few':''}" style="--lc:${lc||2}"><div class="bg"></div><div class="grid"></div><div class="wrap">
  <div class="head"><div class="hrow"><div class="day">${esc(label)}</div><div class="date"><span>${dd}</span><i class="dd"></i><span>${mm}</span><i class="dd"></i></div></div><div class="sub">${EVS.length} Event${EVS.length===1?'':'s'} in Wien</div></div>
  <div class="list">${pg.map(e=>{const pr=price(e.p);return `<div class="ev"><div class="t ${tk(e.s)}">${esc(e.s||'--:--')}${e.e?`<small>-${esc(e.e)}</small>`:''}</div>
   <div><div class="ti">${esc(e.t)}</div><div class="meta"><div class="where"><span class="ven">${PIN}${esc(e.v)}</span>${e.c.length?`<span class="col">${GRP}${esc(e.c.join(' · '))}</span>`:''}</div>${pr==='Eintritt frei'?`<span class="pr free">${esc(pr)}</span>`:''}</div></div></div>`}).join('')}</div>
