@@ -93,11 +93,13 @@ LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
  ien
 DESCRIPTION:UV Project\, Norg3n\, Nasty\nEintritt frei / free entry\n\nTE
  KNOTEKA geht im Kramladen in die dritte Ausgabe (Vol. 3) und bringt am D
- onnerstag ab 23:00 Uhr Techno in den kleinen Club in der Nähe des Gürt
- els. Als Headliner ist UV Project angekündigt\, unterstützt von Norg3n
-  und Nasty an den Decks. Die Reihe setzt auf lokale Techno-Acts und eine
- n niederschwelligen Rahmen unter der Woche. Der Eintritt ist frei.\n\nht
- tps://rave.wien/e/2026-11-19-teknoteka
+ onnerstag ab 23:00 Uhr Techno bis in die frühen Morgenstunden in den kl
+ einen Club in den U-Bahn-Bögen am Gürtel. Special Guest und Headliner 
+ ist UV Project aus Budapest um Yuvi Lachyani\, verbunden mit dem S.U.N F
+ estival und laut Freytag erstmals in Wien\; angekündigt sind hypnotisch
+ e Synths und kompromisslose Underground-Elektronik. Dazu spielen Norg3n 
+ mit energiegeladenen Techno-Sets und Nasty mit Acid-Sounds. Der Eintritt
+  ist frei.\n\nhttps://rave.wien/e/2026-11-19-teknoteka
 URL:https://rave.wien/e/2026-11-19-teknoteka
 END:VEVENT
 BEGIN:VEVENT
@@ -212,6 +214,23 @@ DESCRIPTION:Tonks\, wldfee\, Sauerstøff\, subinstans\, NooK\, mein__dm\,
  e
 URL:https://rave.wien/e/2026-11-20-kollektiv-klanggerecht-presents-tanzin
  stanz-raw-e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-over-tone-x-citruscue-pres-by-wums@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T220000
+DTEND;TZID=Europe/Vienna:20261121T030000
+SUMMARY:Over:Tone x CitrusCue pres. by Wums
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:A.Fruit\, fejv\, RUV3N\, DICEFACE\, Tesa\nVeranstalter: Citru
+ sCue\, Wums\n\nGemeinsame Nacht der Reihen Over:Tone und CitrusCue\, pr
+ äsentiert vom Wiener Wums Kollektiv im Club U am Karlsplatz. CitrusCue 
+ veranstaltet sonst Bassmusik-Nächte im Club Lucia\; fejv ist dort Local
+  Support mit Sets zwischen UK Bass und Leftfield. Dazu spielen A.Fruit\,
+  Tesa sowie RUV3N b2b DICEFACE. Laut frey-tag stehen Drum and Bass und T
+ echno auf dem Programm. Endzeit und Preis sind nicht angegeben.\n\nhttps
+ ://rave.wien/e/2026-11-20-over-tone-x-citruscue-pres-by-wums
+URL:https://rave.wien/e/2026-11-20-over-tone-x-citruscue-pres-by-wums
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-vision-serpent@rave.wien
@@ -409,11 +428,14 @@ DTSTART;TZID=Europe/Vienna:20261121T130000
 DTEND;TZID=Europe/Vienna:20261121T180000
 SUMMARY:Tram & Bass Vol. 4 – Our longest ride yet
 DESCRIPTION:\nVierte Ausgabe der Drum-&-Bass-Reihe Tram & Bass\, laut Unt
- ertitel die bisher längste Fahrt. Treffpunkt ist laut Eventfrog die Str
- aßenbahnstation Karlsplatz/Resselpark\, Beginn Samstag um 13 Uhr. Lineu
- p\, Route und Preis sind noch nicht bekannt\; die Detailseite war nicht 
- abrufbar.\n\nhttps://rave.wien/e/2026-11-21-tram-bass-vol-4-our-longest-
- ride-yet
+ ertitel „Our longest ride yet“ – die bisher längste Fahrt. Gefeie
+ rt wird in einer Wiener Straßenbahn\; Treffpunkt ist laut Eventfrog die
+  Tramstation Karlsplatz/Resselpark\, Beginn Samstag um 13 Uhr. Die dritt
+ e Ausgabe wurde auf RA als „Crossover pres. Tram & Bass Vol.3“ am Ka
+ rlsplatz geführt\; ob Crossover auch diese Ausgabe veranstaltet\, ist n
+ icht bestätigt. Lineup\, Route\, Endzeit und Ticketpreis sind in den le
+ sbaren Quellen nicht angegeben\; Tickets gibt es über Eventfrog.\n\nhtt
+ ps://rave.wien/e/2026-11-21-tram-bass-vol-4-our-longest-ride-yet
 URL:https://rave.wien/e/2026-11-21-tram-bass-vol-4-our-longest-ride-yet
 END:VEVENT
 BEGIN:VEVENT
@@ -531,13 +553,14 @@ DTSTART;TZID=Europe/Vienna:20261121T210000
 DTEND;TZID=Europe/Vienna:20261122T060000
 SUMMARY:hosted by the zound partisans
 LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
-DESCRIPTION:STAATSEINDE\, IVUR\, missantroop\, _ra_di_aa_ti_on_\, finster
- \nVeranstalter: the zound partisans\n\nDie zound partisans übernehmen d
- as Celeste\, Gastgeber*in ist ha:kuzaa. Live spielen STAATSEINDE und IVU
- R\, an den Decks stehen missantroop\, _ra_di_aa_ti_on_ und finster. Von 
- 21:00 bis 06:00. Preis\, Genres und Flyer sind auf der Seite des Celeste
-  nicht angegeben.\n\nhttps://rave.wien/e/2026-11-21-hosted-by-the-zound-
- partisans
+DESCRIPTION:STAATSEINDE\, IVUR\, ha:kuzaa\, missantroop\, _ra_di_aa_ti_on
+ _\, finster\nVeranstalter: the zound partisans\n\nDie zound partisans ü
+ bernehmen das Celeste\, Gastgeber*in ist ha:kuzaa\, der/die auch selbst 
+ auflegt. Live spielen STAATSEINDE und IVUR\, an den Decks stehen außerd
+ em missantroop\, _ra_di_aa_ti_on_ und finster. Clubnacht von 21:00 bis 0
+ 6:00. Preis\, Genres und Flyer sind auf der Seite des Celeste nicht ange
+ geben\; das Celeste verlinkt dazu nur einen Instagram-Beitrag.\n\nhttps:
+ //rave.wien/e/2026-11-21-hosted-by-the-zound-partisans
 URL:https://rave.wien/e/2026-11-21-hosted-by-the-zound-partisans
 END:VEVENT
 BEGIN:VEVENT
@@ -585,12 +608,16 @@ DTSTART;TZID=Europe/Vienna:20261121T220000
 DTEND;TZID=Europe/Vienna:20261122T040000
 SUMMARY:Soundhouse
 LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
-DESCRIPTION:Ced\, Fabian Hofer\, Mize Hetner\nVeranstalter: Soundhouse\n\
- nNächste Session der Wiener Reihe Soundhouse im Tagada\, die sich Techn
- o\, Acid und House widmet. Es spielen Ced\, Fabian Hofer und Mize Hetner
- \; ein Timetable wurde nicht veröffentlicht. Freytag listet den Abend v
- on 22:00 bis 04:00 unter Party und Techno. Eintrittspreis und Flyer sind
-  noch nicht bekannt.\n\nhttps://rave.wien/e/2026-11-21-soundhouse
+DESCRIPTION:Ced\, Fabian Hofer\, Mize Hetner\nVeranstalter: Soundhouse\nE
+ intritt: 8–10 €\n\nNächste Session der Wiener Reihe Soundhouse im T
+ agada\, die sich als Abend für Musikbegeisterte versteht und House und 
+ Techno samt Subgenres in den Mittelpunkt stellt\; empfohlen wird\, früh
+  zu kommen und lange zu bleiben. Es spielen Ced\, Fabian Hofer und Mize 
+ Hetner\, der die Reihe mitorganisiert\; ein Timetable wurde nicht veröf
+ fentlicht. Die Veranstalter stellen sich ausdrücklich gegen Rassismus\,
+  Sexismus\, Homophobie und jede andere Form von Gewalt und Diskriminieru
+ ng. Von 22:00 bis 04:00\, Eintritt laut RA 8–10 €.\n\nhttps://rave.w
+ ien/e/2026-11-21-soundhouse
 URL:https://rave.wien/e/2026-11-21-soundhouse
 END:VEVENT
 BEGIN:VEVENT
@@ -691,12 +718,18 @@ DTSTART;TZID=Europe/Vienna:20261121T230000
 DTEND;TZID=Europe/Vienna:20261122T050000
 SUMMARY:Wreck
 LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Tim Kern\, LaLa\nVeranstalter: Wreck\nEintritt: 10–15 €\n
- \nWreck im SASS Music Club (23:00–05:00 Uhr) mit Tim Kern und LaLa. Ei
- nen Beschreibungstext oder Set-Zeiten veröffentlicht der Club bisher ni
- cht. Eintritt 10–15 € inkl. Welcome Drink\, ab 18 mit Ausweiskontrol
- le\; wie bei allen SASS-Events ist ein Awareness-Team vor Ort.\n\nhttps:
- //rave.wien/e/2026-11-21-wreck
+DESCRIPTION:Young Sun\, Tim Kern\, LaLa\, AE-X\nVeranstalter: Wreck\nEint
+ ritt: 10–15 €\n\nLetzter Wreck-Showcase des Jahres im SASS Music Clu
+ b unter dem Motto „Mind control all night long“. Als Gäste kommen Y
+ oung Sun\, Resident im Teller in Seoul\, der in Asien\, Nord- und Latein
+ amerika und Europa aufgelegt hat und von Trommel zu den zwölf Artists g
+ ezählt wird\, die man 2026 sehen sollte\, sowie Tim Kern\, seit über e
+ inem Jahrzehnt eine feste Größe im slowenischen Underground. Dazu spie
+ len die Wreck-Residents AE-X und LaLa. Clubnacht 23:00–05:00\, ab 06:0
+ 0 folgt die Afterhour (eigener Eintrag Morgengymnastik × Wreck). Eintri
+ tt 10–15 € inkl. Welcome Drink\, ab 18 mit Ausweiskontrolle\; wie be
+ i allen SASS-Events ist ein Awareness-Team vor Ort.\n\nhttps://rave.wien
+ /e/2026-11-21-wreck
 URL:https://rave.wien/e/2026-11-21-wreck
 END:VEVENT
 BEGIN:VEVENT
@@ -1030,13 +1063,17 @@ DTSTART;TZID=Europe/Vienna:20261127T230000
 DTEND;TZID=Europe/Vienna:20261128T060000
 SUMMARY:Vivid – Frieden & Liebe
 LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Vivid\nVeranstalter: Frieden & Liebe\nEintritt: 10–15 €\n
- \nVivid\, präsentiert von Frieden & Liebe (@friedenundliebe.vienna)\, i
- m SASS Music Club von 23 bis 6 Uhr\; ein detailliertes Line-up ist noch 
- nicht veröffentlicht. Der Eintritt beträgt 10–15 €\, ein Willkomme
- nsgetränk ist inklusive. Alle SASS-Veranstaltungen werden von einem Awa
- reness-Team begleitet\; Einlass ab 18 mit Ausweis- und Taschenkontrolle.
- \n\nhttps://rave.wien/e/2026-11-27-vivid-frieden-liebe
+DESCRIPTION:Alice\, Stefan Hofer\, Clem Vital\nVeranstalter: Frieden & Li
+ ebe\nEintritt: 10–15 €\n\nVivid\, präsentiert von Frieden & Liebe\,
+  im SASS Music Club von 23 bis 6 Uhr. Als Gast hat Frieden & Liebe die 
+ österreichische DJ Alice eingeladen\, die nach elektronischen Spuren de
+ r 90er- und 2000er-Jahre sucht\; dazu spielen Stefan Hofer\, laut Locati
+ on ein langjähriger Vinyl-Digger mit energiegeladenem Mixing\, und Clem
+  Vital\, der zwischen reduzierten und rohen Sounds pendelt. Angekündigt
+  sind organische Sounds und hypnotische Grooves. Eintritt 10–15 €\, 
+ ein Willkommensgetränk ist inklusive. Alle SASS-Veranstaltungen werden 
+ von einem Awareness-Team begleitet\; Einlass ab 18 mit Ausweis- und Tasc
+ henkontrolle.\n\nhttps://rave.wien/e/2026-11-27-vivid-frieden-liebe
 URL:https://rave.wien/e/2026-11-27-vivid-frieden-liebe
 END:VEVENT
 BEGIN:VEVENT
@@ -1227,8 +1264,10 @@ DTEND;TZID=Europe/Vienna:20261129T040000
 SUMMARY:Nine Circles
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Veranstalter: Ninecircles\n\nNinecircles-Nacht im Werk\; Line
- -up noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-11-28-nine-c
- ircles
+ -up noch nicht veröffentlicht. Achtung: Im aktuellen Programm des Werk 
+ (Stand 18.11.) steht am 28.11. nur noch der Dead End Showcase x GDN\, Ni
+ necircles wird dort nicht mehr geführt – der Termin ist daher unsiche
+ r.\n\nhttps://rave.wien/e/2026-11-28-nine-circles
 URL:https://rave.wien/e/2026-11-28-nine-circles
 END:VEVENT
 BEGIN:VEVENT
@@ -1535,17 +1574,19 @@ DESCRIPTION:Mainfloor: Eargasm God\, Who is Ela¿\, Distorgina\, Anna Ull
 URL:https://rave.wien/e/2026-12-04-step-forward-pres-eargasm-god
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-04-tanz-oder-gar-nicht@rave.wien
+UID:2026-12-04-booster-club@rave.wien
 DTSTAMP:20261204T000000Z
 DTSTART;TZID=Europe/Vienna:20261204T230000
-DTEND;TZID=Europe/Vienna:20261205T040000
-SUMMARY:Tanz oder gar nicht
+DTEND;TZID=Europe/Vienna:20261205T050000
+SUMMARY:Booster Club
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Veranstalter: Tanz oder gar nicht\n\nTanz oder gar nicht im F
- LUCC Deck. Die Location-Seite nennt bisher nur Titel\, Datum und Beginn 
- (23:00 Uhr)\; Lineup\, Preis\, Ende und Flyer sind noch nicht veröffent
- licht.\n\nhttps://rave.wien/e/2026-12-04-tanz-oder-gar-nicht
-URL:https://rave.wien/e/2026-12-04-tanz-oder-gar-nicht
+DESCRIPTION:Veranstalter: Tanz oder gar nicht\, Booster Club\n\nClubnacht
+  des Kollektivs Booster Club im FLUCC Deck von 23 bis 5 Uhr. Der Termin 
+ stand zuvor als „Tanz oder gar nicht“ im Programm\; die Location fü
+ hrt ihn unter derselben Eventseite jetzt als Booster Club. Lineup und Ei
+ ntritt sind laut Location noch tba.\n\nhttps://rave.wien/e/2026-12-04-bo
+ oster-club
+URL:https://rave.wien/e/2026-12-04-booster-club
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-december-transmission@rave.wien
@@ -1795,23 +1836,19 @@ DESCRIPTION:Sonya Hibiscus\nVeranstalter: Tropical Thunder\nEintritt: 15
 URL:https://rave.wien/e/2026-12-05-noche-d-amore-a-dance-romance
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-05-krampus-rave-by-krawall@rave.wien
+UID:2026-12-05-purrr-x-technolot@rave.wien
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=Europe/Vienna:20261205T220000
-DTEND;TZID=Europe/Vienna:20261206T050000
-SUMMARY:KRAMPUS RAVE by KRAWALL
-LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
-DESCRIPTION:TONKS\, maro\, Elyante\, Schana\, Kippenhaus\, Jokkel\, Evi B
- \, DJ Hueftschwung\nVeranstalter: KRAWALL\nEintritt: 10 €\n\nDas Köln
- er Kollektiv KRAWALL gibt mit dem Krampus Rave sein internationales Deb
- üt im Club Lucia und bringt seine komplette Kölner Resident-Crew (Elya
- nte\, Schana\, Kippenhaus\, Jokkel\, Evi B\, DJ Hueftschwung) nach Wien.
-  Anlass sind vier Jahre KRAWALL-Partys mit elektronischer Musik. Als Hea
- dliner bzw. lokale Unterstützung sind TONKS und maro angekündigt. Mott
- o: „Cologne meets Vienna. Same energy. New city.“ Laut RA Trance und
-  Techno\, ab 18 Jahren.\n\nhttps://rave.wien/e/2026-12-05-krampus-rave-b
- y-krawall
-URL:https://rave.wien/e/2026-12-05-krampus-rave-by-krawall
+DTEND;TZID=Europe/Vienna:20261206T030000
+SUMMARY:PURRR x TECHNOLOT
+LOCATION:Das Lot\, Absberggasse 31\, 1100 Wien
+DESCRIPTION:Chinyere\, zey\, Linko\, Atlana\nVeranstalter: PURRR\, TECHNO
+ LOT\n\nClubnacht im Das Lot als Kooperation von PURRR und TECHNOLOT\, ei
+ ner Techno-Reihe\, die schon in früheren Jahren im Das Lot stattfand. I
+ m Line-up stehen Chinyere\, zey\, Linko und Atlana. Endzeit\, Preis und 
+ Flyer waren beim Abruf nicht verfügbar\; Details stehen auf der RA-Even
+ tseite.\n\nhttps://rave.wien/e/2026-12-05-purrr-x-technolot
+URL:https://rave.wien/e/2026-12-05-purrr-x-technolot
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-karotte-im-wohnzimmer@rave.wien
@@ -1885,6 +1922,42 @@ DESCRIPTION:Albin Brezlan\, Dimitri Cooman\, Huebl\, Invda\, Schwarzmarct
 URL:https://rave.wien/e/2026-12-05-techno-obscene-36-nine-o-nine-x-lsh
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-05-krampus-beats@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T233000
+DTEND;TZID=Europe/Vienna:20261206T040000
+SUMMARY:Krampus Beats
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:Elective\, Mazimo\, Twenty-Two\, Volun\nVeranstalter: Fourcas
+ t\nEintritt: Freie Spende\n\nKrampus-Ausgabe der Wiener Drum-and-Bass-Cr
+ ew Fourcast in der Loop Bar am Gürtel\, passend zum Krampustag. Es spie
+ len die Fourcast-Residents Elective\, Mazimo\, Twenty-Two und Volun. Der
+  Abend steht ganz im Zeichen von Drum and Bass. Eintritt gegen freie Spe
+ nde\, von 23:30 bis 04:00.\n\nhttps://rave.wien/e/2026-12-05-krampus-bea
+ ts
+URL:https://rave.wien/e/2026-12-05-krampus-beats
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-krampus-rave-by-krawall@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T235900
+DTEND;TZID=Europe/Vienna:20261206T053000
+SUMMARY:KRAMPUS RAVE by KRAWALL
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:TONKS\, maro\, Elyante\, Schana\, Kippenhaus\, Jokkel\, Evi B
+ \, DJ Hueftschwung\nVeranstalter: KRAWALL\nEintritt: 10 € (AK)\n\nDas 
+ Kölner Kollektiv KRAWALL gibt mit dem Krampus Rave sein internationales
+  Debüt im Club Lucia und bringt seine komplette Kölner Resident-Crew (
+ Elyante\, Schana\, Kippenhaus\, Jokkel\, Evi B\, DJ Hueftschwung) nach W
+ ien. Anlass sind vier Jahre KRAWALL-Partys mit elektronischer Musik. Als
+  lokale Unterstützung aus Wien sind TONKS und maro angekündigt. Motto:
+  „Cologne meets Vienna. Same energy. New city.“ Laut RA Trance und T
+ echno\, ab 18 Jahren\; Eintritt 10 € an der Abendkassa. Beginn laut Cl
+ ub Lucia 23:59 (RA nannte zuvor 22:00)\, Ende 05:30.\n\nhttps://rave.wie
+ n/e/2026-12-05-krampus-rave-by-krawall
+URL:https://rave.wien/e/2026-12-05-krampus-rave-by-krawall
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-06-untz-baby-untz-nikolo-im-funkhaus@rave.wien
 DTSTAMP:20261206T000000Z
 DTSTART;TZID=Europe/Vienna:20261206T130000
@@ -1902,6 +1975,22 @@ DESCRIPTION:Max Wanderer\, Catlex\, SHIZZLE\nVeranstalter: Untz Baby Untz
  Ticket freien Eintritt.\n\nhttps://rave.wien/e/2026-12-06-untz-baby-untz
  -nikolo-im-funkhaus
 URL:https://rave.wien/e/2026-12-06-untz-baby-untz-nikolo-im-funkhaus
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-melodic-monday-x-mas-dayparty-afro-tech-melodic-h@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T170000
+DTEND;TZID=Europe/Vienna:20261207T220000
+SUMMARY:MELODIC MONDAY X-Mas Dayparty – Afro Tech & Melodic House
+LOCATION:LIA Coffee WU Campus\, Welthandelsplatz 1\, 1020 Wien
+DESCRIPTION:Mat Schubert\nVeranstalter: Melodic Monday\n\nWeihnachtliche 
+ Daytime-Ausgabe der Wiener Afterwork-Reihe Melodic Monday\, diesmal im L
+ IA Coffee am WU Campus. Laut Ankündigung gibt es Afro Tech und Melodic 
+ House\, genannt ist bisher Mat Schubert. Weitere Acts\, Preis und Endzei
+ t sind noch nicht bekannt.\n\nhttps://rave.wien/e/2026-12-07-melodic-mon
+ day-x-mas-dayparty-afro-tech-melodic-h
+URL:https://rave.wien/e/2026-12-07-melodic-monday-x-mas-dayparty-afro-tec
+ h-melodic-h
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-feuchte-traume-roses-thorns@rave.wien
@@ -2218,6 +2307,25 @@ DESCRIPTION:KWEEN BEE\, Chiara Allnutt\, L.O.S.S.\nVeranstalter: Taktgef
  r Eventjet\, Einlass ab 18 Jahren.\n\nhttps://rave.wien/e/2026-12-11-tak
  tgefuhl-vol-2
 URL:https://rave.wien/e/2026-12-11-taktgefuhl-vol-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-homesounds-local-djs-for-local-homeless@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T235900
+DTEND;TZID=Europe/Vienna:20261212T050000
+SUMMARY:Homesounds – Local DJs for local homeless
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:Wisteria\, Hawara\, Miss Undertaker\, Brida\, Ones\, R2D3\nVe
+ ranstalter: Homesounds\nEintritt: Freie Spende\n\nHomesounds ist eine Be
+ nefiz-Reihe aus dem Underground\, die Spenden für das neunerhaus und wo
+ hnungslose Menschen in Wien sammelt. Die Reihe stellt FLINTA-Acts in den
+  Vordergrund und richtet sich gegen jede Form von Diskriminierung. In de
+ r Loop Bar treffen Drum and Bass und Tekno aufeinander\; die DJs wählen
+  ihren Stil selbst. Es spielen Wisteria\, Hawara\, Miss Undertaker\, Bri
+ da\, Ones und R2D3. Eintritt gegen freie Spende\, der Erlös geht an das
+  neunerhaus und lokale Wohnungslose.\n\nhttps://rave.wien/e/2026-12-11-h
+ omesounds-local-djs-for-local-homeless
+URL:https://rave.wien/e/2026-12-11-homesounds-local-djs-for-local-homeless
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-liminal-afterhour-3@rave.wien
@@ -2590,6 +2698,27 @@ DESCRIPTION:Joey\, Amøn\nVeranstalter: Herzfrequenz\n\nDas Herzfrequenz
  läuft Day 1 mit Joey\, Kø:lab\, carlo kalu\, HNAS und weiteren Acts.\n
  \nhttps://rave.wien/e/2026-12-19-herzfrequenz-weekender-day-2
 URL:https://rave.wien/e/2026-12-19-herzfrequenz-weekender-day-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-15yrs-grelle-forelle-malugi@rave.wien
+DTSTAMP:20261219T000000Z
+DTSTART;TZID=Europe/Vienna:20261219T230000
+DTEND;TZID=Europe/Vienna:20261220T040000
+SUMMARY:15YRS Grelle Forelle | MALUGI
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: Malugi\, Vivienna\, Aschenbrenner\nKitchen: Chiara
+  Allnutt\, MARØ\, Tonks\nVeranstalter: Grelle Forelle\n\nDie Grelle For
+ elle feiert ihr 15-jähriges Bestehen mit einer Clubnacht auf beiden Flo
+ ors\, Headliner am Mainfloor ist MALUGI. Der in Deutschland ansässige D
+ J spielt schnellen\, UK-beeinflussten House\, wurde von BBC Radio 1 zum 
+ Future Star 2025 gekürt und veröffentlichte u. a. auf Club Heart Broke
+ n und SNC Recs. Dazu spielen die Wiener DJ Vivienna (hypnotischer\, groo
+ vy Techno) und Forelle-Resident Aschenbrenner. In der Kitchen legen Chia
+ ra Allnutt (groovy Uptempo-Techno)\, MARØ (Techno\, Trance\, Hardgroove
+  und Breakbeats) und Tonks auf. Einlass und Abendkassa ab 23:00\, Vorver
+ kauf über Eventim Light\; die Location-Seite nennt keinen Preis.\n\nhtt
+ ps://rave.wien/e/2026-12-19-15yrs-grelle-forelle-malugi
+URL:https://rave.wien/e/2026-12-19-15yrs-grelle-forelle-malugi
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-ventil-records-pres-eardrum-residency-w-mariam-re@rave.wien

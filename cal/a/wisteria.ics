@@ -26,6 +26,25 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-11-homesounds-local-djs-for-local-homeless@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T235900
+DTEND;TZID=Europe/Vienna:20261212T050000
+SUMMARY:Homesounds – Local DJs for local homeless
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:Wisteria\, Hawara\, Miss Undertaker\, Brida\, Ones\, R2D3\nVe
+ ranstalter: Homesounds\nEintritt: Freie Spende\n\nHomesounds ist eine Be
+ nefiz-Reihe aus dem Underground\, die Spenden für das neunerhaus und wo
+ hnungslose Menschen in Wien sammelt. Die Reihe stellt FLINTA-Acts in den
+  Vordergrund und richtet sich gegen jede Form von Diskriminierung. In de
+ r Loop Bar treffen Drum and Bass und Tekno aufeinander\; die DJs wählen
+  ihren Stil selbst. Es spielen Wisteria\, Hawara\, Miss Undertaker\, Bri
+ da\, Ones und R2D3. Eintritt gegen freie Spende\, der Erlös geht an das
+  neunerhaus und lokale Wohnungslose.\n\nhttps://rave.wien/e/2026-12-11-h
+ omesounds-local-djs-for-local-homeless
+URL:https://rave.wien/e/2026-12-11-homesounds-local-djs-for-local-homeless
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-homesounds-local-flinta-for-local-homeless@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T235900

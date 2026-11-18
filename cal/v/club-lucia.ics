@@ -133,20 +133,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-krampus-rave-by-krawall@rave.wien
 DTSTAMP:20261205T000000Z
-DTSTART;TZID=Europe/Vienna:20261205T220000
-DTEND;TZID=Europe/Vienna:20261206T050000
+DTSTART;TZID=Europe/Vienna:20261205T235900
+DTEND;TZID=Europe/Vienna:20261206T053000
 SUMMARY:KRAMPUS RAVE by KRAWALL
 LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
 DESCRIPTION:TONKS\, maro\, Elyante\, Schana\, Kippenhaus\, Jokkel\, Evi B
- \, DJ Hueftschwung\nVeranstalter: KRAWALL\nEintritt: 10 €\n\nDas Köln
- er Kollektiv KRAWALL gibt mit dem Krampus Rave sein internationales Deb
- üt im Club Lucia und bringt seine komplette Kölner Resident-Crew (Elya
- nte\, Schana\, Kippenhaus\, Jokkel\, Evi B\, DJ Hueftschwung) nach Wien.
-  Anlass sind vier Jahre KRAWALL-Partys mit elektronischer Musik. Als Hea
- dliner bzw. lokale Unterstützung sind TONKS und maro angekündigt. Mott
- o: „Cologne meets Vienna. Same energy. New city.“ Laut RA Trance und
-  Techno\, ab 18 Jahren.\n\nhttps://rave.wien/e/2026-12-05-krampus-rave-b
- y-krawall
+ \, DJ Hueftschwung\nVeranstalter: KRAWALL\nEintritt: 10 € (AK)\n\nDas 
+ Kölner Kollektiv KRAWALL gibt mit dem Krampus Rave sein internationales
+  Debüt im Club Lucia und bringt seine komplette Kölner Resident-Crew (
+ Elyante\, Schana\, Kippenhaus\, Jokkel\, Evi B\, DJ Hueftschwung) nach W
+ ien. Anlass sind vier Jahre KRAWALL-Partys mit elektronischer Musik. Als
+  lokale Unterstützung aus Wien sind TONKS und maro angekündigt. Motto:
+  „Cologne meets Vienna. Same energy. New city.“ Laut RA Trance und T
+ echno\, ab 18 Jahren\; Eintritt 10 € an der Abendkassa. Beginn laut Cl
+ ub Lucia 23:59 (RA nannte zuvor 22:00)\, Ende 05:30.\n\nhttps://rave.wie
+ n/e/2026-12-05-krampus-rave-by-krawall
 URL:https://rave.wien/e/2026-12-05-krampus-rave-by-krawall
 END:VEVENT
 BEGIN:VEVENT

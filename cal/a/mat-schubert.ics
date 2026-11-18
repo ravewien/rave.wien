@@ -26,6 +26,22 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-07-melodic-monday-x-mas-dayparty-afro-tech-melodic-h@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T170000
+DTEND;TZID=Europe/Vienna:20261207T220000
+SUMMARY:MELODIC MONDAY X-Mas Dayparty – Afro Tech & Melodic House
+LOCATION:LIA Coffee WU Campus\, Welthandelsplatz 1\, 1020 Wien
+DESCRIPTION:Mat Schubert\nVeranstalter: Melodic Monday\n\nWeihnachtliche 
+ Daytime-Ausgabe der Wiener Afterwork-Reihe Melodic Monday\, diesmal im L
+ IA Coffee am WU Campus. Laut Ankündigung gibt es Afro Tech und Melodic 
+ House\, genannt ist bisher Mat Schubert. Weitere Acts\, Preis und Endzei
+ t sind noch nicht bekannt.\n\nhttps://rave.wien/e/2026-12-07-melodic-mon
+ day-x-mas-dayparty-afro-tech-melodic-h
+URL:https://rave.wien/e/2026-12-07-melodic-monday-x-mas-dayparty-afro-tec
+ h-melodic-h
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-08-23-sunsetechno-vol-3@rave.wien
 DTSTAMP:20260823T000000Z
 DTSTART;TZID=Europe/Vienna:20260823T140000

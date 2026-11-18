@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stefan Hofer · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-27-vivid-frieden-liebe@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T230000
+DTEND;TZID=Europe/Vienna:20261128T060000
+SUMMARY:Vivid – Frieden & Liebe
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Alice\, Stefan Hofer\, Clem Vital\nVeranstalter: Frieden & Li
+ ebe\nEintritt: 10–15 €\n\nVivid\, präsentiert von Frieden & Liebe\,
+  im SASS Music Club von 23 bis 6 Uhr. Als Gast hat Frieden & Liebe die 
+ österreichische DJ Alice eingeladen\, die nach elektronischen Spuren de
+ r 90er- und 2000er-Jahre sucht\; dazu spielen Stefan Hofer\, laut Locati
+ on ein langjähriger Vinyl-Digger mit energiegeladenem Mixing\, und Clem
+  Vital\, der zwischen reduzierten und rohen Sounds pendelt. Angekündigt
+  sind organische Sounds und hypnotische Grooves. Eintritt 10–15 €\, 
+ ein Willkommensgetränk ist inklusive. Alle SASS-Veranstaltungen werden 
+ von einem Awareness-Team begleitet\; Einlass ab 18 mit Ausweis- und Tasc
+ henkontrolle.\n\nhttps://rave.wien/e/2026-11-27-vivid-frieden-liebe
+URL:https://rave.wien/e/2026-11-27-vivid-frieden-liebe
+END:VEVENT
+END:VCALENDAR

@@ -222,17 +222,19 @@ DESCRIPTION:Little Beat More\, Chrisfader\, Testa\, D.b.h\nVeranstalter:
 URL:https://rave.wien/e/2026-12-03-15-years-restless-album-release-party
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-04-tanz-oder-gar-nicht@rave.wien
+UID:2026-12-04-booster-club@rave.wien
 DTSTAMP:20261204T000000Z
 DTSTART;TZID=Europe/Vienna:20261204T230000
-DTEND;TZID=Europe/Vienna:20261205T040000
-SUMMARY:Tanz oder gar nicht
+DTEND;TZID=Europe/Vienna:20261205T050000
+SUMMARY:Booster Club
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Veranstalter: Tanz oder gar nicht\n\nTanz oder gar nicht im F
- LUCC Deck. Die Location-Seite nennt bisher nur Titel\, Datum und Beginn 
- (23:00 Uhr)\; Lineup\, Preis\, Ende und Flyer sind noch nicht veröffent
- licht.\n\nhttps://rave.wien/e/2026-12-04-tanz-oder-gar-nicht
-URL:https://rave.wien/e/2026-12-04-tanz-oder-gar-nicht
+DESCRIPTION:Veranstalter: Tanz oder gar nicht\, Booster Club\n\nClubnacht
+  des Kollektivs Booster Club im FLUCC Deck von 23 bis 5 Uhr. Der Termin 
+ stand zuvor als „Tanz oder gar nicht“ im Programm\; die Location fü
+ hrt ihn unter derselben Eventseite jetzt als Booster Club. Lineup und Ei
+ ntritt sind laut Location noch tba.\n\nhttps://rave.wien/e/2026-12-04-bo
+ oster-club
+URL:https://rave.wien/e/2026-12-04-booster-club
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-basstrace@rave.wien

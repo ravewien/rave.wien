@@ -16,6 +16,7 @@ const GEO2={
 "Hofburg Vienna":[48.20547,16.36239],
 "Jaz in the City":[48.19841,16.35527],
 "Kollektiv Kaorle":[48.21356,16.31047],
+"LIA Coffee WU Campus":[48.21386,16.40888],
 "Loop":[48.20945,16.33889],
 "Lugner City":[48.2035,16.33433],
 "Metastadt":[48.23196,16.45501],

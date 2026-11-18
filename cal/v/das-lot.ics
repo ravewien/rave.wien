@@ -43,4 +43,19 @@ DESCRIPTION:Cancer House\, When It's Over\nVeranstalter: nomenklatur\n\nN
 URL:https://rave.wien/e/2026-11-26-nomenklatur-w-cancer-house-live-when-i
  t-s-over-li
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-purrr-x-technolot@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T220000
+DTEND;TZID=Europe/Vienna:20261206T030000
+SUMMARY:PURRR x TECHNOLOT
+LOCATION:Das Lot\, Absberggasse 31\, 1100 Wien
+DESCRIPTION:Chinyere\, zey\, Linko\, Atlana\nVeranstalter: PURRR\, TECHNO
+ LOT\n\nClubnacht im Das Lot als Kooperation von PURRR und TECHNOLOT\, ei
+ ner Techno-Reihe\, die schon in früheren Jahren im Das Lot stattfand. I
+ m Line-up stehen Chinyere\, zey\, Linko und Atlana. Endzeit\, Preis und 
+ Flyer waren beim Abruf nicht verfügbar\; Details stehen auf der RA-Even
+ tseite.\n\nhttps://rave.wien/e/2026-12-05-purrr-x-technolot
+URL:https://rave.wien/e/2026-12-05-purrr-x-technolot
+END:VEVENT
 END:VCALENDAR
