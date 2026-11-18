@@ -113,6 +113,8 @@ function caption(EVS,label,dd,mm,wd){
    return EV.filter(e=>e.d===d&&!e.cancel).map(e=>({t:e.title,s:e.s,e:e.e||'',v:e.venue,p:e.price||'',c:e.coll||[],vig:ig(VINFO[e.venue]),cig:(e.coll||[]).map(x=>[x,ig(CINFO[x])])}))},d);
   const dir=OUT+'/'+d;fs.rmSync(dir,{recursive:true,force:true});
   if(!EVS.length){console.log(d,'keine Events – kein Post');continue}
+  const MIN=+plan.min_events||1; // von Hand angeforderte Tage (node insta.js DATUM) werden immer erzeugt
+  if(!only&&EVS.length<MIN){fs.rmSync(dir,{recursive:true,force:true});console.log(d,`nur ${EVS.length} Event(s) – kein Post (mindestens ${MIN})`);continue}
   fs.mkdirSync(dir,{recursive:true});
   const wd=wdOf(d);const label=WD[wd][0].toUpperCase()+WD[wd].slice(1);const [,mm,dd]=d.split('-');
   const split=NP=>{const ps=[];let i=0;for(let k=0;k<NP;k++){const n=Math.ceil((EVS.length-i)/(NP-k));ps.push(EVS.slice(i,i+n));i+=n}return ps};
