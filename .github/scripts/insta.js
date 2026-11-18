@@ -144,7 +144,10 @@ function caption(EVS,label,dd,mm,wd){
  const planAt=d=>{const r=plan[WD[wdOf(d)]];return r&&r.aktiv!==false?iso(vienna(addDays(d,-(+r.tage_vorher||0)),r.uhrzeit||'19:00')):null};
  const keep=old.filter(p=>!queue.find(q=>q.datum===p.datum)&&fs.existsSync(OUT+'/'+p.datum)&&new Date(p.posten_ab).getTime()>now.getTime()-24*3600e3&&(p.manuell||planAt(p.datum)===p.posten_ab));
  for(const p of old)if(!keep.includes(p)&&!queue.find(q=>q.datum===p.datum))fs.rmSync(OUT+'/'+p.datum,{recursive:true,force:true});
- const all=[...keep,...queue].sort((a,b)=>a.posten_ab.localeCompare(b.posten_ab));
+ // Zwischenposts aus ig/extras.json: ab 3 Tage vorher bis 24 h nachher in der Warteschlange
+ let extras=[];try{extras=(JSON.parse(fs.readFileSync(OUT+'/extras.json','utf8')).posts||[]).filter(p=>/^extra-[a-z0-9-]{1,40}$/.test(p.datum)&&(p.bilder||[]).every(b=>fs.existsSync(R+'/'+b)))}catch(_){}
+ extras=extras.filter(p=>{const t=new Date(p.posten_ab).getTime();return t>now.getTime()-24*3600e3&&t<now.getTime()+72*3600e3});
+ const all=[...keep.filter(p=>!/^extra-/.test(p.datum)),...queue,...extras].sort((a,b)=>a.posten_ab.localeCompare(b.posten_ab));
  fs.writeFileSync(OUT+'/queue.json',JSON.stringify({posts:all},null,1));
  for(const n of fs.readdirSync(OUT))if(/^\d{4}-\d\d-\d\d$/.test(n)&&n<addDays(today,-3))fs.rmSync(OUT+'/'+n,{recursive:true,force:true});
 })().catch(e=>{console.error(e);process.exit(1)});

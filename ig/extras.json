@@ -1,0 +1,33 @@
+{
+ "_info": "Zwischenposts außerhalb der Tagesposts. datum = eindeutige Kennung (extra-…), posten_ab = Zeitpunkt (Wiener Zeit, der Pi streut ±30 Min), story:false = nicht als Story teilen.",
+ "posts": [
+  {
+   "datum": "extra-gta",
+   "titel": "Zwischenpost „GTA 6“",
+   "posten_ab": "2026-11-19T12:00:00+01:00",
+   "bilder": [
+    "ig/extra/gta/1.jpg"
+   ],
+   "story": false,
+   "text": "No PS5 to play GTA 6? More time for raves! 🕹️🖤\n\nAlle Raves in Wien findest du auf rave.wien 🔗 Link in Bio\n\n#ravewien #techno #wien #vienna #rave #viennanightlife #clubbing #gta6"
+  },
+  {
+   "datum": "extra-weekend",
+   "titel": "Zwischenpost „Ready for the weekend?“",
+   "posten_ab": "2026-11-27T12:00:00+01:00",
+   "bilder": [
+    "ig/extra/weekend/1.jpg"
+   ],
+   "text": "Ready for the weekend? 🖤\n\nAlle Lineups, Preise & Tickets fürs Wochenende auf rave.wien 🔗 Link in Bio\n\n#ravewien #techno #wien #vienna #rave #viennanightlife #clubbing #wienwochenende"
+  },
+  {
+   "datum": "extra-plans",
+   "titel": "Zwischenpost „Weekend plans not found?“",
+   "posten_ab": "2026-12-04T12:00:00+01:00",
+   "bilder": [
+    "ig/extra/plans/1.jpg"
+   ],
+   "text": "Weekend plans not found? Fix it on rave.wien 🖤\n\nAlle Raves in Wien auf einen Blick 🔗 Link in Bio\n\n#ravewien #techno #wien #vienna #rave #viennanightlife #clubbing #wienwochenende"
+  }
+ ]
+}

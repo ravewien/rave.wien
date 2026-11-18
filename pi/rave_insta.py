@@ -28,7 +28,7 @@ import json, os, sys, time, random, logging, urllib.request, hashlib, subprocess
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-18.7"
+VERSION = "2026-11-18.8"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -88,7 +88,10 @@ def mail(betreff, text):
         log.error(f"Infomail fehlgeschlagen ({betreff}): {e}"); return False
 
 TAGE = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"]
+TITEL = {}   # Kennung → Titel der Zwischenposts (aus der Warteschlange)
 def tag(d):
+    if not re.match(r"^\d{4}-\d{2}-\d{2}$", d):
+        return TITEL.get(d, d)
     x = datetime.strptime(d, "%Y-%m-%d"); return f"{TAGE[x.weekday()]} {x.day}.{x.month}."
 
 def problem_mail(state, key, betreff, text):
@@ -189,8 +192,8 @@ def client(interactive=False):
     return cl
 
 import re
-BILD_OK = re.compile(r"^ig/\d{4}-\d{2}-\d{2}/\d{1,2}\.jpg$")
-DATUM_OK = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+BILD_OK = re.compile(r"^ig/(\d{4}-\d{2}-\d{2}|extra/[a-z0-9-]{1,40})/\d{1,2}\.jpg$")
+DATUM_OK = re.compile(r"^(\d{4}-\d{2}-\d{2}|extra-[a-z0-9-]{1,40})$")   # Tagespost oder Zwischenpost (extra-…)
 
 def pruefe(post):
     """Nimmt nur Posts an, die so aussehen, wie rave.wien sie erzeugt."""
@@ -230,7 +233,7 @@ def publish(post, cl=None, state=None):
     else:
         media = cl.album_upload(paths[:10], text)
     url = f"https://www.instagram.com/p/{media.code}/"
-    if state is not None and story_an():
+    if state is not None and story_an() and post.get("story") is not False:
         due = datetime.now(timezone.utc) + timedelta(minutes=random.randint(*STORY_NACH_MIN))
         state.setdefault("stories", {})[post["datum"]] = {"pk": str(media.pk), "bild": str(paths[0]), "url": url,
                                                          "faellig": due.isoformat(), "status": "offen"}
@@ -266,7 +269,7 @@ def stories_nachholen(state, now):
         return
     heute = now.astimezone().strftime("%Y-%m-%d")
     for d, url in state.get("gepostet", {}).items():
-        if d >= heute and d not in state.setdefault("stories", {}) and "/p/" in str(url):
+        if DATUM_OK.match(d) and not d.startswith("extra-") and d >= heute and d not in state.setdefault("stories", {}) and "/p/" in str(url):
             due = now + timedelta(minutes=random.randint(*STORY_NACH_MIN))
             state["stories"][d] = {"code": url.split("/p/")[1].strip("/"), "bild": str(DL / d / "1.jpg"), "url": url,
                                    "faellig": due.isoformat(), "status": "offen"}
@@ -302,8 +305,9 @@ def story_posten(cl, d, s, state):
 def gepostet_mail(p, url):
     n = len(p["bilder"])
     mail(f"📸 rave.wien hat gepostet: {tag(p['datum'])}",
-         f"Auf Instagram ist gerade der Post für {tag(p['datum'])} erschienen ({p.get('events', '?')} Events, {n} Bild{'er' if n != 1 else ''}).\n\n"
-         f"{url}\n\n——— Text des Posts ———\n\n{p['text']}")
+         (f"Auf Instagram ist gerade der {tag(p['datum'])} erschienen.\n\n" if p["datum"].startswith("extra-") else
+          f"Auf Instagram ist gerade der Post für {tag(p['datum'])} erschienen ({p.get('events', '?')} Events, {n} Bild{'er' if n != 1 else ''}).\n\n")
+         + f"{url}\n\n——— Text des Posts ———\n\n{p['text']}")
 
 def due_posts(queue, state, now):
     out = []
@@ -363,6 +367,8 @@ def main():
     try:
         queue = fetch(BASE + "ig/queue.json")
         state["abruf_fehler"] = 0
+        for p in queue.get("posts", []):
+            if isinstance(p.get("titel"), str): TITEL[str(p.get("datum"))] = p["titel"][:80]
     except Exception as e:
         if cmd != "lauf":
             raise
