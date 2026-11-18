@@ -133,8 +133,13 @@ def due_posts(queue, state, now):
     for p in queue.get("posts", []):
         at = datetime.fromisoformat(p["posten_ab"])
         d = p["datum"]
-        if d in state["gepostet"] or d in state["uebersprungen"]:
+        if d in state["gepostet"]:
             continue
+        if d in state["uebersprungen"]:
+            if p["posten_ab"] in state["uebersprungen"][d]:
+                continue
+            del state["uebersprungen"][d]   # Post wurde auf einen neuen Zeitpunkt gelegt → neue Chance
+            say(f"{d}: neu angesetzt auf {p['posten_ab']}")
         if at > now:
             continue
         if at < start or now - at > MAX_VERSPAETUNG:
