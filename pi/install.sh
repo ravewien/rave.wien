@@ -37,8 +37,10 @@ chmod +x "$DIR/rave"
 echo "→ Anmelden bei Instagram …"
 "$DIR/rave" login </dev/tty
 # Lauf alle 10 Minuten (für Updates einfach dieses Skript nochmal ausführen)
-( crontab -l 2>/dev/null | grep -v 'rave-insta' ; \
-  echo "*/10 * * * * $DIR/rave >/dev/null 2>&1 # rave-insta" ) | crontab -
+# (grep -v liefert bei leerem Zeitplan Exit 1 – mit "|| true", sonst bricht set -e den Block ab und der Zeitplan bleibt leer)
+{ crontab -l 2>/dev/null | grep -v 'rave-insta' || true; \
+  echo "*/10 * * * * $DIR/rave >/dev/null 2>&1 # rave-insta"; } | crontab -
+crontab -l 2>/dev/null | grep -q 'rave-insta' || { echo "FEHLER: Der Zeitplan (cron) konnte nicht eingetragen werden."; exit 1; }
 echo
 if grep -q '^SMTP_TOKEN=.' "$CONF/config"; then echo "→ Schicke Testmail …"; "$DIR/rave" mailtest || true; fi
 echo "Fertig! Der Pi prüft jetzt alle 10 Minuten, ob ein Post fällig ist."
