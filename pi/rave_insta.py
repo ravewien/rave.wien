@@ -10,6 +10,10 @@ Läuft auf dem Raspberry Pi alle 10 Minuten (cron). Zugangsdaten stehen nur loka
   python3 rave_insta.py test       # lädt den nächsten Post herunter, postet aber NICHT
   python3 rave_insta.py jetzt DATUM  # postet den Post für DATUM (JJJJ-MM-TT) sofort
   python3 rave_insta.py pause | weiter   # automatisches Posten an/aus
+  python3 rave_insta.py mailtest  # schickt eine Testmail (wenn Infomails eingerichtet sind)
+
+Infomails (optional, in ~/.rave-insta/config): MAIL_TO, SMTP_USER, SMTP_TOKEN, ggf. SMTP_HOST/SMTP_PORT
+(Standard: Proton, smtp.protonmail.ch:587 mit STARTTLS; der Token wird in Proton unter SMTP-Einstellungen erzeugt).
 """
 import json, os, sys, time, random, logging, urllib.request
 from datetime import datetime, timezone, timedelta
@@ -41,6 +45,38 @@ def load_config():
             if "=" in line and not line.strip().startswith("#"):
                 k, v = line.split("=", 1); cfg[k.strip()] = v.strip().strip('"')
     return cfg
+
+def mail(betreff, text):
+    """Schickt eine Infomail, falls eingerichtet. Fehler beim Mailen stoppen nie das Posten."""
+    cfg = load_config()
+    to = cfg.get("MAIL_TO"); user = cfg.get("SMTP_USER") or to; token = cfg.get("SMTP_TOKEN")
+    if not to or not token:
+        return False
+    import smtplib, ssl
+    from email.message import EmailMessage
+    from email.utils import formatdate, make_msgid
+    m = EmailMessage()
+    m["From"] = f"rave.wien Pi <{user}>"; m["To"] = to; m["Subject"] = betreff
+    m["Date"] = formatdate(localtime=True); m["Message-ID"] = make_msgid(domain="rave.wien")
+    m.set_content(text)
+    try:
+        with smtplib.SMTP(cfg.get("SMTP_HOST", "smtp.protonmail.ch"), int(cfg.get("SMTP_PORT", "587")), timeout=60) as sm:
+            sm.starttls(context=ssl.create_default_context()); sm.login(user, token); sm.send_message(m)
+        log.info(f"Infomail geschickt: {betreff}"); return True
+    except Exception as e:
+        log.error(f"Infomail fehlgeschlagen ({betreff}): {e}"); return False
+
+TAGE = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"]
+def tag(d):
+    x = datetime.strptime(d, "%Y-%m-%d"); return f"{TAGE[x.weekday()]} {x.day}.{x.month}."
+
+def problem_mail(state, key, betreff, text):
+    """Problem-Mails nur einmal pro Post bzw. Problem – nicht bei jedem 10-Minuten-Lauf."""
+    sent = state.setdefault("mails", {})
+    if key in sent:
+        return
+    if mail(betreff, text):
+        sent[key] = datetime.now(timezone.utc).isoformat()
 
 def load_state():
     if STATE.exists():
@@ -127,6 +163,12 @@ def publish(post, cl=None):
         media = cl.album_upload(paths[:10], text)
     return f"https://www.instagram.com/p/{media.code}/"
 
+def gepostet_mail(p, url):
+    n = len(p["bilder"])
+    mail(f"📸 rave.wien hat gepostet: {tag(p['datum'])}",
+         f"Auf Instagram ist gerade der Post für {tag(p['datum'])} erschienen ({p.get('events', '?')} Events, {n} Bild{'er' if n != 1 else ''}).\n\n"
+         f"{url}\n\n——— Text des Posts ———\n\n{p['text']}")
+
 def due_posts(queue, state, now):
     out = []
     start = datetime.fromisoformat(state.get("start"))
@@ -145,6 +187,10 @@ def due_posts(queue, state, now):
         if at < start or now - at > MAX_VERSPAETUNG:
             state["uebersprungen"][d] = f"verpasst (fällig {p['posten_ab']})"
             say(f"{d}: übersprungen – war fällig {p['posten_ab']}")
+            if at >= start:  # nur melden, wenn der Pi den Termin wirklich verpasst hat (nicht bei alten Posts nach der Einrichtung)
+                problem_mail(state, f"verpasst {d} {p['posten_ab']}", f"⚠️ rave.wien: Post für {tag(d)} verpasst",
+                             f"Der Instagram-Post für {tag(d)} war fällig um {p['posten_ab']} und ist mehr als 6 Stunden überfällig – er wird nicht mehr automatisch gepostet.\n"
+                             f"War der Pi aus oder offline?\n\nVon Hand nachholen: ~/rave-insta/rave jetzt {d}")
             continue
         out.append(p)
     return out
@@ -176,7 +222,14 @@ def main():
         d = sys.argv[2]
         p = next((x for x in queue.get("posts", []) if x["datum"] == d), None)
         if not p: sys.exit(f"Kein Post für {d} in der Warteschlange.")
-        url = publish(p); state["gepostet"][d] = url; merke(state, now); save_state(state); say(f"{d}: gepostet → {url}"); return
+        url = publish(p); state["gepostet"][d] = url; merke(state, now); save_state(state); say(f"{d}: gepostet → {url}")
+        gepostet_mail(p, url); return
+    if cmd == "mailtest":
+        cfg = load_config()
+        if not cfg.get("MAIL_TO") or not cfg.get("SMTP_TOKEN"):
+            sys.exit(f"Keine Infomails eingerichtet (MAIL_TO und SMTP_TOKEN in {CONFIG}).")
+        ok = mail("✅ rave.wien Pi: Testmail", "Die Infomails vom Raspberry Pi funktionieren.\n\nDu bekommst ab jetzt eine Mail, wenn ein Post auf Instagram veröffentlicht wurde – und wenn etwas schiefgeht.")
+        print("Testmail verschickt an " + cfg["MAIL_TO"] if ok else f"Testmail fehlgeschlagen – Details in {HOME / 'log.txt'}"); return
     # normaler Lauf
     if PAUSE.exists():
         return
@@ -184,19 +237,34 @@ def main():
     if not todo:
         return
     time.sleep(random.randint(5, 120))  # nicht immer auf die Sekunde genau
-    cl = client()
+    try:
+        cl = client()
+    except Exception as e:
+        log.exception("Anmeldung fehlgeschlagen"); say(f"Anmeldung bei Instagram fehlgeschlagen: {e}")
+        problem_mail(state, "login " + now.strftime("%Y-%m-%d"), "⚠️ rave.wien: Anmeldung bei Instagram fehlgeschlagen",
+                     f"Der Pi konnte sich nicht bei Instagram anmelden, deshalb wird gerade nichts gepostet.\n\nFehler: {e}\n\n"
+                     "Bitte am Pi ausführen:  ~/rave-insta/rave login\n(Instagram verlangt dann evtl. einen Sicherheitscode.)")
+        save_state(state); return
     for p in todo:
         if zu_viele(state, datetime.now(timezone.utc)):
             say(f"{p['datum']}: nicht gepostet – schon {MAX_POSTS_24H} Posts in 24 Stunden (Sicherheitsnetz). Von Hand: rave jetzt {p['datum']}")
-            break
+            problem_mail(state, f"limit {p['datum']}", f"⚠️ rave.wien: Post für {tag(p['datum'])} zurückgehalten",
+                         f"Es sind schon {MAX_POSTS_24H} Posts in 24 Stunden hinausgegangen (Sicherheitsnetz), deshalb wurde der Post für {tag(p['datum'])} nicht automatisch veröffentlicht.\n\n"
+                         f"Von Hand posten: ~/rave-insta/rave jetzt {p['datum']}")
+            save_state(state); break
         try:
             url = publish(p, cl)
             state["gepostet"][p["datum"]] = url; merke(state, datetime.now(timezone.utc)); save_state(state)
             say(f"{p['datum']}: gepostet → {url}")
+            gepostet_mail(p, url)
             time.sleep(random.randint(60, 180))
         except Exception as e:
             log.exception("Fehler beim Posten"); say(f"{p['datum']}: FEHLER {e}")
-            break
+            problem_mail(state, f"fehler {p['datum']}", f"⚠️ rave.wien: Post für {tag(p['datum'])} fehlgeschlagen",
+                         f"Beim Posten für {tag(p['datum'])} ist ein Fehler aufgetreten:\n\n{e}\n\n"
+                         "Der Pi versucht es bei den nächsten Läufen (alle 10 Minuten) weiter, solange der Post nicht mehr als 6 Stunden überfällig ist.\n"
+                         f"Protokoll: {HOME / 'log.txt'}")
+            save_state(state); break
 
 if __name__ == "__main__":
     main()
