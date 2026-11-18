@@ -25,7 +25,7 @@ import json, os, sys, time, random, logging, urllib.request, hashlib, subprocess
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-18.2"
+VERSION = "2026-11-18.3"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -37,6 +37,13 @@ PAUSE = HOME / "PAUSE"
 DL = HOME / "bilder"
 MAX_VERSPAETUNG = timedelta(hours=6)   # was länger überfällig ist, wird nicht mehr nachgeholt
 MAX_POSTS_24H = 4                      # Sicherheitsnetz: mehr wird an einem Tag nie automatisch gepostet
+STREUUNG_MIN = 30                      # jeder Post erscheint zufällig bis zu 30 Minuten vor oder nach der geplanten Zeit
+
+def wann(p):
+    """Tatsächlicher Zeitpunkt: geplante Zeit ± bis zu STREUUNG_MIN Minuten, je Post fest ausgewürfelt (bleibt bei jedem Lauf gleich)."""
+    at = datetime.fromisoformat(p["posten_ab"])
+    h = int(hashlib.sha256((p["datum"] + p["posten_ab"]).encode()).hexdigest(), 16)
+    return at + timedelta(minutes=h % (2 * STREUUNG_MIN + 1) - STREUUNG_MIN)
 
 HOME.mkdir(parents=True, exist_ok=True)
 try: HOME.chmod(0o700)
@@ -227,7 +234,7 @@ def due_posts(queue, state, now):
     out = []
     start = datetime.fromisoformat(state.get("start"))
     for p in queue.get("posts", []):
-        at = datetime.fromisoformat(p["posten_ab"])
+        at = datetime.fromisoformat(p["posten_ab"]); eff = wann(p)
         d = p["datum"]
         if d in state["gepostet"]:
             continue
@@ -236,9 +243,9 @@ def due_posts(queue, state, now):
                 continue
             del state["uebersprungen"][d]   # Post wurde auf einen neuen Zeitpunkt gelegt → neue Chance
             say(f"{d}: neu angesetzt auf {p['posten_ab']}")
-        if at > now:
+        if eff > now:
             continue
-        if at < start or now - at > MAX_VERSPAETUNG:
+        if at < start or now - eff > MAX_VERSPAETUNG:
             state["uebersprungen"][d] = f"verpasst (fällig {p['posten_ab']})"
             say(f"{d}: übersprungen – war fällig {p['posten_ab']}")
             if at >= start:  # nur melden, wenn der Pi den Termin wirklich verpasst hat (nicht bei alten Posts nach der Einrichtung)
@@ -283,7 +290,8 @@ def main():
         print("PAUSIERT" if PAUSE.exists() else "aktiv", "| Version:", VERSION, "| Start:", state["start"])
         for p in queue.get("posts", []):
             st = state["gepostet"].get(p["datum"]) or state["uebersprungen"].get(p["datum"]) or "offen"
-            print(f"  {p['datum']}  ab {p['posten_ab']}  {len(p['bilder'])} Bild(er)  → {st}")
+            t = wann(p).astimezone().strftime("%a %d.%m. %H:%M")
+            print(f"  {p['datum']}  geplant {p['posten_ab'][:16].replace('T', ' ')}  → wirklich ca. {t}  {len(p['bilder'])} Bild(er)  → {st}")
         save_state(state); return
     if cmd == "test":
         nxt = [p for p in queue.get("posts", []) if p["datum"] not in state["gepostet"]]
