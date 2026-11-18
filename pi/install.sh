@@ -44,5 +44,6 @@ crontab -l 2>/dev/null | grep -q 'rave-insta' || { echo "FEHLER: Der Zeitplan (c
 echo
 if grep -q '^SMTP_TOKEN=.' "$CONF/config"; then echo "→ Schicke Testmail …"; "$DIR/rave" mailtest || true; fi
 echo "Fertig! Der Pi prüft jetzt alle 10 Minuten, ob ein Post fällig ist."
-echo "Befehle:  $DIR/rave status | test | pause | weiter | jetzt JJJJ-MM-TT | mailtest"
+echo "Befehle:  $DIR/rave status | test | pause | weiter | jetzt JJJJ-MM-TT | mailtest | passwort | update"
+echo "Neue Programmversionen holt sich der Pi ab jetzt selbst (höchstens stündlich)."
 echo "Protokoll: $CONF/log.txt"

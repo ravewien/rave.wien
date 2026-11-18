@@ -11,15 +11,24 @@ Läuft auf dem Raspberry Pi alle 10 Minuten (cron). Zugangsdaten stehen nur loka
   python3 rave_insta.py jetzt DATUM  # postet den Post für DATUM (JJJJ-MM-TT) sofort
   python3 rave_insta.py pause | weiter   # automatisches Posten an/aus
   python3 rave_insta.py mailtest  # schickt eine Testmail (wenn Infomails eingerichtet sind)
+  python3 rave_insta.py passwort  # neues Instagram-Passwort eintragen und neu anmelden
+  python3 rave_insta.py update    # sofort nach einer neuen Programmversion suchen
+
+Aktualisierung: Der normale Lauf prüft höchstens einmal pro Stunde, ob es auf rave.wien eine neue Version dieses
+Programms gibt. Eine neue Version wird erst getestet (Selbsttest in eigenem Prozess) und nur dann übernommen;
+die vorige Version bleibt als rave_insta.bak.py daneben liegen.
 
 Infomails (optional, in ~/.rave-insta/config): MAIL_TO, SMTP_USER, SMTP_TOKEN, ggf. SMTP_HOST/SMTP_PORT
 (Standard: Proton, smtp.protonmail.ch:587 mit STARTTLS; der Token wird in Proton unter SMTP-Einstellungen erzeugt).
 """
-import json, os, sys, time, random, logging, urllib.request
+import json, os, sys, time, random, logging, urllib.request, hashlib, subprocess
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
+VERSION = "2026-11-18.2"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
+SELF = Path(__file__).resolve()
+UPDATE_ALLE = timedelta(hours=1)
 HOME = Path.home() / ".rave-insta"
 STATE = HOME / "state.json"
 SESSION = HOME / "session.json"
@@ -77,6 +86,51 @@ def problem_mail(state, key, betreff, text):
         return
     if mail(betreff, text):
         sent[key] = datetime.now(timezone.utc).isoformat()
+
+def self_update(state, force=False):
+    """Holt die aktuelle Programmversion von rave.wien. True = neue Version installiert (Prozess danach neu starten)."""
+    now = datetime.now(timezone.utc); last = state.get("update_check")
+    if not force and last and now - datetime.fromisoformat(last) < UPDATE_ALLE:
+        return False
+    state["update_check"] = now.isoformat(); save_state(state)
+    neu = fetch(BASE + "pi/rave_insta.py", binary=True)
+    if neu == SELF.read_bytes():
+        return False
+    h = hashlib.sha256(neu).hexdigest()[:12]
+    def fehler(grund):
+        say(f"Update {h} nicht übernommen: {grund}")
+        problem_mail(state, f"update {h}", "⚠️ rave.wien Pi: Programm-Update nicht übernommen",
+                     f"Auf rave.wien liegt eine neue Version des Pi-Programms, sie hat aber den Selbsttest nicht bestanden und wurde NICHT installiert. "
+                     f"Die bisherige Version läuft weiter.\n\nGrund: {grund}")
+        save_state(state); return False
+    if len(neu) > 300_000 or "rave.wien → Instagram".encode() not in neu:
+        return fehler("Datei sieht nicht wie das rave.wien-Programm aus")
+    tmp = SELF.with_name("rave_insta.neu.py"); tmp.write_bytes(neu)
+    try:
+        r = subprocess.run([sys.executable, str(tmp), "selbsttest"], capture_output=True, text=True, timeout=180)
+        ok = r.returncode == 0 and "SELBSTTEST OK" in r.stdout
+        out = (r.stderr or r.stdout).strip()[-400:]
+    except Exception as e:
+        ok, out = False, str(e)
+    if not ok:
+        tmp.unlink(missing_ok=True); return fehler(out or "Selbsttest ohne Ergebnis")
+    SELF.with_name("rave_insta.bak.py").write_bytes(SELF.read_bytes())
+    os.replace(tmp, SELF)
+    say(f"Programm aktualisiert (Version {h})"); return True
+
+def neu_starten():
+    os.execv(sys.executable, [sys.executable, str(SELF)] + sys.argv[1:])
+
+def passwort_aendern():
+    import getpass
+    pw = getpass.getpass("Neues Instagram-Passwort: ")
+    if not pw or pw != getpass.getpass("Nochmal zur Kontrolle: "):
+        sys.exit("Passwörter leer oder nicht gleich – nichts geändert.")
+    lines = CONFIG.read_text().splitlines() if CONFIG.exists() else []
+    lines = [l for l in lines if not l.startswith("IG_PASS=")] + [f"IG_PASS={pw}"]
+    CONFIG.write_text("\n".join(lines) + "\n"); CONFIG.chmod(0o600)
+    say("Passwort gespeichert – melde neu an …")
+    client(interactive=True); say("Anmeldung gespeichert.")
 
 def load_state():
     if STATE.exists():
@@ -197,8 +251,27 @@ def due_posts(queue, state, now):
 
 def main():
     cmd = sys.argv[1] if len(sys.argv) > 1 else "lauf"
+    if cmd == "selbsttest":   # wird vor einem Update mit der NEUEN Version aufgerufen
+        import instagrapi, smtplib  # noqa: F401 – Abhängigkeiten vorhanden?
+        load_config(); print("SELBSTTEST OK", VERSION); return
     state = load_state()
     now = datetime.now(timezone.utc)
+    if state.get("version") != VERSION:
+        if state.get("version"):
+            mail(f"ℹ️ rave.wien Pi: Programm aktualisiert ({VERSION})",
+                 f"Das Programm auf dem Raspberry Pi wurde automatisch auf Version {VERSION} aktualisiert (vorher {state['version']}).\n"
+                 f"Die vorige Version liegt als Sicherung in {SELF.with_name('rave_insta.bak.py')}.")
+        state["version"] = VERSION; save_state(state)
+    if cmd in ("lauf", "update"):
+        try:
+            if self_update(state, force=(cmd == "update")):
+                neu_starten()
+        except Exception as e:
+            log.error(f"Update-Prüfung fehlgeschlagen: {e}")
+        if cmd == "update":
+            print("Version", VERSION, "ist aktuell."); return
+    if cmd == "passwort":
+        passwort_aendern(); save_state(state); return
     if cmd == "login":
         client(interactive=True); say("Anmeldung gespeichert."); save_state(state); return
     if cmd == "pause":
@@ -207,7 +280,7 @@ def main():
         PAUSE.unlink(missing_ok=True); say("Automatisches Posten läuft wieder."); return
     queue = fetch(BASE + "ig/queue.json")
     if cmd == "status":
-        print("PAUSIERT" if PAUSE.exists() else "aktiv", "| Start:", state["start"])
+        print("PAUSIERT" if PAUSE.exists() else "aktiv", "| Version:", VERSION, "| Start:", state["start"])
         for p in queue.get("posts", []):
             st = state["gepostet"].get(p["datum"]) or state["uebersprungen"].get(p["datum"]) or "offen"
             print(f"  {p['datum']}  ab {p['posten_ab']}  {len(p['bilder'])} Bild(er)  → {st}")
