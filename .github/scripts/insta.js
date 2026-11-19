@@ -137,7 +137,9 @@ function caption(EVS,label,dd,mm,wd){
     shots.push(await page.screenshot({type:'jpeg',quality:92}))}
    if(ok||NP===10){files=shots.map((buf,i)=>{const n=`${i+1}.jpg`;fs.writeFileSync(dir+'/'+n,buf);return n});break}}
   const cap=caption(EVS,label,dd,mm,wd);
-  const post={datum:d,posten_ab:iso(at),...(only?{manuell:true}:{}),bilder:files.map(f=>`ig/${d}/${f}`),text:cap.text,erwaehnt:cap.inText,events:EVS.length};
+  // Zusatzbilder ans Ende eines Tagesposts hängen: ig/anhang.json {"JJJJ-MM-TT":["ig/extra/<name>/1.jpg",…]}
+  let anh=[];try{anh=(JSON.parse(fs.readFileSync(OUT+'/anhang.json','utf8'))[d]||[]).filter(b=>/^ig\/extra\/[a-z0-9-]{1,40}\/\d{1,2}\.jpg$/.test(b)&&fs.existsSync(R+'/'+b))}catch(e){}
+  const post={datum:d,posten_ab:iso(at),...(only?{manuell:true}:{}),bilder:[...files.map(f=>`ig/${d}/${f}`),...anh].slice(0,10),text:cap.text,erwaehnt:cap.inText,events:EVS.length};
   fs.writeFileSync(dir+'/post.json',JSON.stringify(post,null,1));fs.writeFileSync(dir+'/text.txt',cap.text);
   queue.push(post);console.log(d,'→',files.length,'Bild(er), posten ab',post.posten_ab)}
  // Geburtstag (28. Oktober): ab 25. Oktober Bild mit der Zahl der Events des Jahres erzeugen
