@@ -139,6 +139,11 @@ function caption(EVS,label,dd,mm,wd){
   const post={datum:d,posten_ab:iso(at),...(only?{manuell:true}:{}),bilder:files.map(f=>`ig/${d}/${f}`),text:cap.text,erwaehnt:cap.inText,events:EVS.length};
   fs.writeFileSync(dir+'/post.json',JSON.stringify(post,null,1));fs.writeFileSync(dir+'/text.txt',cap.text);
   queue.push(post);console.log(d,'→',files.length,'Bild(er), posten ab',post.posten_ab)}
+ // Geburtstag (28. Oktober): ab 25. Oktober Bild mit der Zahl der Events des Jahres erzeugen
+ const gebExtra=[];try{const Y=+today.slice(0,4),md=today.slice(5);if(Y>2026&&md>='10-25'&&md<='10-28'){const G=require('./geburtstag.js');const g=G.bild(Y);
+  const dir=OUT+'/extra/geburtstag-'+Y;fs.mkdirSync(dir,{recursive:true});await page.setContent(g.html);await page.evaluate(()=>document.fonts.ready);await page.waitForTimeout(200);
+  fs.writeFileSync(dir+'/1.jpg',await page.screenshot({type:'jpeg',quality:92}));
+  gebExtra.push({datum:'extra-geburtstag-'+Y,titel:`Geburtstag „${g.J} ${g.J>1?'Jahre':'Jahr'} rave.wien“`,posten_ab:iso(vienna(Y+'-10-28','12:00')),bilder:[`ig/extra/geburtstag-${Y}/1.jpg`],text:g.text,events:g.n});console.log('Geburtstag',Y,'→',g.n,'Events')}}catch(e){console.error('Geburtstag:',e)}
  await b.close();
  // Warteschlange: neue Posts + noch gültige frühere (bis 24 h nach Termin), alte Ordner aufräumen
  let old=[];try{old=JSON.parse(fs.readFileSync(OUT+'/queue.json','utf8')).posts||[]}catch(_){}
@@ -150,7 +155,7 @@ function caption(EVS,label,dd,mm,wd){
  // Zwischenposts aus ig/extras.json: ab 3 Tage vorher bis 24 h nachher in der Warteschlange
  let extras=[];try{extras=(JSON.parse(fs.readFileSync(OUT+'/extras.json','utf8')).posts||[]).filter(p=>/^extra-[a-z0-9-]{1,40}$/.test(p.datum)&&(p.bilder||[]).every(b=>fs.existsSync(R+'/'+b)))}catch(_){}
  extras=extras.filter(p=>{const t=new Date(p.posten_ab).getTime();return t>now.getTime()-24*3600e3&&t<now.getTime()+72*3600e3});
- const all=[...keep.filter(p=>!/^extra-/.test(p.datum)),...queue,...extras].sort((a,b)=>a.posten_ab.localeCompare(b.posten_ab));
+ const all=[...keep.filter(p=>!/^extra-/.test(p.datum)),...queue,...extras,...gebExtra].sort((a,b)=>a.posten_ab.localeCompare(b.posten_ab));
  fs.writeFileSync(OUT+'/queue.json',JSON.stringify({posts:all},null,1));
  for(const n of fs.readdirSync(OUT))if(/^\d{4}-\d\d-\d\d$/.test(n)&&n<addDays(today,-3))fs.rmSync(OUT+'/'+n,{recursive:true,force:true});
 })().catch(e=>{console.error(e);process.exit(1)});

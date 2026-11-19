@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-9xZqaQ3Bsq6odGkHLBezmxMpK8Qt8mY64fDHk8W+++0=' 'sha256-bU1282hiIWgvxi2gDNp2rfLqHByQ7ywOXeUFI/rVPlA=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-HuEJg1N49kfF6SCiNNdxQcJIBZi4SpH85UaEr3705Lw=' 'sha256-WVjO1U3Oi87LKlx+s1k4T7onpcPrwMfW2HpHOhNCdO0='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-aOZ7hNzIMoKXrkEYBiPUFUfZ2XF7UyEMChCZt/i39PA=' 'sha256-9xZqaQ3Bsq6odGkHLBezmxMpK8Qt8mY64fDHk8W+++0=' 'sha256-bU1282hiIWgvxi2gDNp2rfLqHByQ7ywOXeUFI/rVPlA=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-HuEJg1N49kfF6SCiNNdxQcJIBZi4SpH85UaEr3705Lw=' 'sha256-WVjO1U3Oi87LKlx+s1k4T7onpcPrwMfW2HpHOhNCdO0='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -1071,6 +1071,54 @@ html.a-cursor :is(a,button,[role=button],label,summary,input,select,[data-vopen]
 
 <script>/* Versionskennung der Daten (winzige Datei, immer frisch) */(()=>{if(/(^|\.)rave\.wien$/.test(location.hostname))document.write('<script src="ver.js?t='+Math.floor(Date.now()/60000)+'"><\/script>')})()</script>
 <script>/* Daten laden: Adresse ändert sich nur, wenn sich die Datei geändert hat – sonst kommt sie aus dem Browser-Cache */(()=>{const live=/(^|\.)rave\.wien$/.test(location.hostname),V=window.RWV||{},q=f=>live?"?v="+(/^[a-f0-9]{6,20}$/.test(V[f]||"")?V[f]:Math.floor(Date.now()/60000)):"";document.write(["events.js","past.js","logos.js","geo.js"].map(f=>'<script src="'+f+q(f)+'"><\/script>').join(""))})()</script>
+<script>
+/* ===== Feiertage: Valentinstag (14.2.), Pride Month (Juni), Geburtstag (28.10.) – Wiener Zeit; Test mit ?valentin=1, ?pride=1, ?geburtstag=1 ===== */
+(()=>{try{let d='';try{d=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Vienna',month:'2-digit',day:'2-digit'}).format(new Date())}catch(e){}
+const q=n=>new RegExp('[?&]'+n+'=1\\b').test(location.search);
+const T=q('valentin')||d==='02-14'?'valentin':q('pride')||d.slice(0,2)==='06'?'pride':q('geburtstag')||d==='10-28'?'geburtstag':'';if(!T)return;
+const still=matchMedia('(prefers-reduced-motion: reduce)').matches;
+const pix=(rows,C)=>{let r='';rows.forEach((l,y)=>{for(let x=0;x<l.length;x++)if(l[x]!=='.')r+=`<rect x='${x}' y='${y}' width='1.02' height='1.02' fill='${C[l[x]]}'/>`});return r};
+const HEART=[".HH.HH.","HHHHHHH","HHHHHHH",".HHHHH.","..HHH..","...H..."];
+const svgS=(w,h,inner,st)=>`<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 ${w} ${h}' shape-rendering='crispEdges' aria-hidden='true' style='${st||''}'>${inner}</svg>`;
+const init=()=>{const brand=document.querySelector('.brand'),a=brand&&brand.querySelector('.astro'),word=brand&&brand.querySelector('.astro+span');if(!a||!word||brand.dataset.fest)return;brand.dataset.fest=T;
+ const st=document.createElement('style');let css='.fest{position:relative;display:block;flex:none;isolation:isolate;transform-origin:50% 100%}.fest>svg{position:absolute;inset:0;width:100%;height:100%;overflow:visible;pointer-events:none}.fest>svg.hinten{z-index:-1}.brand .fest .astro{animation:none}@media (prefers-reduced-motion:no-preference){.brand .fest{animation:astro-dance 1s steps(1) infinite}.brand:hover .fest{animation-duration:.5s}}html.april .fest>svg{visibility:hidden}';
+ const w=document.createElement('span');w.className='fest';a.replaceWith(w);w.append(a);
+ const dot=word.querySelector('.dot');
+ if(T==='valentin'){
+  css+=`.brand .dot.herz{width:.36em;height:.31em;background:none;margin:0 .04em 0 -.04em;vertical-align:-.02em}.brand .dot.herz svg{display:block;width:100%;height:100%;filter:drop-shadow(0 0 6px rgba(255,79,163,.6))}
+  .vh{position:absolute;width:12px;pointer-events:none;animation:vh 2.6s linear forwards}.vh svg{display:block;width:100%}@keyframes vh{0%{transform:translate(0,0) scale(.6);opacity:0}12%{opacity:1}100%{transform:translate(var(--dx),-46px) scale(1);opacity:0}}`;
+  if(dot){dot.classList.add('herz');dot.innerHTML=svgS(7,6,pix(HEART,{H:'#ff4fa3'}))}
+  // Astronaut hält ein Herz in der Hand
+  w.insertAdjacentHTML('afterbegin',svgS(131,150,`<g transform='translate(96,-6) scale(5.6)'>${pix(HEART,{H:'#ff4fa3'})}</g>`));
+  if(!still){const top=document.querySelector('header.top');setInterval(()=>{if(document.hidden)return;const r=w.getBoundingClientRect(),t=top.getBoundingClientRect();const h=document.createElement('i');h.className='vh';h.style.left=(r.left-t.left+r.width*(.2+Math.random()*.6))+'px';h.style.top=(r.top-t.top)+'px';h.style.setProperty('--dx',(Math.random()*30-15)+'px');h.innerHTML=svgS(7,6,pix(HEART,{H:['#ff4fa3','#ff7ab8','#e5202e'][Math.floor(Math.random()*3)]}));top.append(h);setTimeout(()=>h.remove(),2700)},900)}
+ }
+ if(T==='pride'){
+  css+=`.brand>span:not(.fest){background:linear-gradient(90deg,#e40303 0 16.6%,#ff8c00 16.6% 33.3%,#ffed00 33.3% 50%,#008026 50% 66.6%,#3a63ff 66.6% 83.3%,#a24ad6 83.3%);-webkit-background-clip:text;background-clip:text;color:transparent;-webkit-text-fill-color:transparent;-webkit-text-stroke:0}
+  .brand>span:not(.fest) .dot{background:#fff}
+  @media (prefers-reduced-motion:no-preference){.fest .fahne{animation:wehen .8s steps(2) infinite;transform-origin:121px -40px;transform-box:view-box}}@keyframes wehen{50%{transform:skewY(-6deg)}}`;
+  const F=['#e40303','#ff8c00','#ffed00','#008026','#24408e','#732982'];let fl='';F.forEach((c,i)=>fl+=`<rect x='121' y='${-60+i*7}' width='56' height='7.05' fill='${c}'/>`);
+  w.insertAdjacentHTML('afterbegin',svgS(131,150,`<rect x='116' y='-62' width='5' height='165' fill='#c9ced6'/><rect x='114' y='-68' width='9' height='7' fill='#ffd23c'/><g class='fahne'>${fl}</g>`,'').replace('<svg','<svg class="hinten"'));
+ }
+ if(T==='geburtstag'){
+  css+=`.konf{position:absolute;inset:0;width:100%;height:100%;z-index:-1;pointer-events:none;image-rendering:pixelated}`;
+  const HAT=["......Y......",".....PPP.....","....BPPPB....","....BBPBB....","...PPBBBPP...","...PPPBPPP...","..BPPPPPPPB..","..BBBPPPBBB..",".PPBBBBBBBPP.",".YYYYYYYYYYY."];
+  w.insertAdjacentHTML('beforeend',svgS(131,150,`<g transform='translate(31,-52) scale(5.4)'>${pix(HAT,{P:'#ff4fa3',B:'#1f8bff',Y:'#ffd23c'})}</g>`));
+  let yr=1;try{yr=Math.max(1,+new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Vienna',year:'numeric'}).format(new Date())-2026)}catch(e){}
+  css+=`.gj-v,.gj-n{color:#ff4fa3;-webkit-text-fill-color:#ff4fa3;text-shadow:0 0 8px rgba(255,79,163,.3)}.gj-b{display:none;font-family:var(--f-mono);font-weight:700;font-size:.4em;letter-spacing:.06em;color:#1a0612;background:#ff4fa3;padding:.25em .45em;margin-left:.4em;text-transform:uppercase;line-height:1;align-self:center;white-space:nowrap}
+  @media (max-width:700px){.gj-v,.gj-n{display:none}.gj-b{display:inline-block}}`;
+  word.insertAdjacentHTML('afterbegin',`<span class="gj-v">${yr} ${yr>1?'jahre':'jahr'} </span>`);word.insertAdjacentHTML('beforeend','<span class="gj-n">!</span>');
+  word.insertAdjacentHTML('afterend',`<span class="gj-b">${yr} ${yr>1?'Jahre':'Jahr'}!</span>`);
+  brand.setAttribute('aria-label',`${yr} ${yr>1?'Jahre':'Jahr'} rave.wien!`);
+  const top=document.querySelector('header.top');const c=document.createElement('canvas');c.className='konf';top.prepend(c);const g=c.getContext('2d'),PX=3,COL=['#1f8bff','#ffd23c','#ff4fa3','#2fd145','#ffffff','#b07aff'];let W,H,P=[],last=0;
+  const size=()=>{W=Math.max(1,Math.round(top.clientWidth/PX));H=Math.max(1,Math.round(top.clientHeight/PX));c.width=W;c.height=H};size();addEventListener('resize',size);
+  const add=n=>{for(let i=0;i<n;i++)P.push({x:Math.random()*W,y:-Math.random()*H,v:.25+Math.random()*.35,s:Math.random()*6,c:COL[Math.floor(Math.random()*COL.length)],w:Math.random()<.5?2:1})};
+  const draw=()=>{g.clearRect(0,0,W,H);for(const p of P){g.fillStyle=p.c;g.globalAlpha=.75;g.fillRect(Math.round(p.x+Math.sin(p.s)*1.5),Math.round(p.y),p.w,p.w)}g.globalAlpha=1};
+  if(still){add(Math.round(W/4));P.forEach(p=>p.y=Math.random()*H);draw()}else{add(Math.round(W/3));const step=t=>{requestAnimationFrame(step);if(document.hidden||t-last<40)return;last=t;for(const p of P){p.y+=p.v;p.s+=.12;if(p.y>H){p.y=-2;p.x=Math.random()*W}}draw()};requestAnimationFrame(step)}
+ }
+ st.textContent=css;document.head.append(st)};
+if(document.readyState==='loading')addEventListener('DOMContentLoaded',init);else init();
+}catch(e){console.error(e)}})();
+</script>
 <script>
 /* ===== Halloween: Teufels-Astronaut (Hörner, Schwanz, Dreizack) am 31. Oktober (Wiener Zeit); Test mit ?halloween=1 ===== */
 (()=>{try{let d='';try{d=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Vienna',month:'2-digit',day:'2-digit'}).format(new Date())}catch(e){}
