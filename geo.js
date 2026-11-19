@@ -21,6 +21,7 @@ const GEO2={
 "Lugner City":[48.2035,16.33433],
 "Metastadt":[48.23196,16.45501],
 "Multiversum Schwechat":[48.14165,16.48175],
+"Oktogon am Himmel":[48.26284,16.31251],
 "Prater Dome":[48.21737,16.39743],
 "Pratersauna":[48.21326,16.40491],
 "Pyramide Vösendorf":[48.1123,16.31312],

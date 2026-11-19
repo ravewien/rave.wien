@@ -60,6 +60,23 @@ DESCRIPTION:MAWU\, Benjay\nVeranstalter: AWSM\nEintritt: €30–40 (gün
 URL:https://rave.wien/e/2026-11-28-awsm-skyscraper-edition
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-31-awsm-nye-skyline-edition@rave.wien
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Vienna:20261231T200000
+DTEND;TZID=Europe/Vienna:20270101T040000
+SUMMARY:AWSM. NYE Skyline Edition
+LOCATION:Oktogon am Himmel\, Himmelstraße 125\, 1190 Wien
+DESCRIPTION:Veranstalter: AWSM\nEintritt: ab ca. 20 € (je nach Ticketka
+ tegorie)\n\nSilvesterausgabe der Wiener Reihe AWSM.\, die zuvor mit der 
+ Skyscraper Edition im Altia Skybar im DC Tower zu Gast war. Gefeiert wir
+ d im Oktogon am Himmel in Wien-Döbling. Angekündigt sind Afro House un
+ d Melodic House von 20 bis 4 Uhr. Ein Lineup ist noch nicht veröffentli
+ cht. Die Ticketpreise hängen von der Kategorie ab und wurden zuletzt mi
+ t ab etwa 20 € angegeben.\n\nhttps://rave.wien/e/2026-12-31-awsm-nye-s
+ kyline-edition
+URL:https://rave.wien/e/2026-12-31-awsm-nye-skyline-edition
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-14-awsm-leopoldi-afterparty@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T220000
