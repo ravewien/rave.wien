@@ -7448,8 +7448,15 @@ const VI={
   "de": "Eventlocation am Himmel in Wien-Döbling (Himmelstraße 125, 1190).",
   "en": "Event venue at Am Himmel in Vienna's Döbling district (Himmelstraße 125, 1190).",
   "src": [
-   "https://www.localout.at/post/silvester-wien-2026"
-  ]
+   "https://www.localout.at/post/silvester-wien-2026",
+   "https://www.wien.info/de/caf%C3%A9-restaurant-oktogon-am-himmel-124352"
+  ],
+  "web": "https://www.himmel.at/restaurant-oktogon/",
+  "alias": [
+   "Café-Restaurant Oktogon Am Himmel"
+  ],
+  "noLogo": "2026-11-19",
+  "infoChk": "2026-11-19"
  }
 };
 /* LS = Logo-Suche ohne Treffer für Locations (v) / Kollektive (c) ohne VI-/CI-Eintrag: Datum der letzten Suche; frühestens 60 Tage danach erneut suchen. */
