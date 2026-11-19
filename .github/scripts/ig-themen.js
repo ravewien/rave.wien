@@ -40,4 +40,21 @@ function deko(d,plan,P,k,i){let T=themen(d,plan);if(T.includes('advent'))T=['sch
  if(T.includes('parade')){let s='';const B=18;for(let x=0;x<1080;x+=B){const off=Math.round(Math.sin(x/140)*2)*B;RB.forEach((c,n)=>{s+=`<i style="left:${x}px;top:${300+off+n*B*7}px;height:${B*7}px;background:${c}"></i>`})}
   bg+=`<div class="th-flagge">${s}</div>`;css+='.th-flagge{position:absolute;inset:0;opacity:.34}.th-flagge i{position:absolute;width:18px}.foot b{background:linear-gradient(90deg,#e40303 0 16.6%,#ff8c00 16.6% 33.3%,#ffed00 33.3% 50%,#008026 50% 66.6%,#3a63ff 66.6% 83.3%,#a24ad6 83.3%);-webkit-background-clip:text;background-clip:text;color:transparent;-webkit-text-fill-color:transparent;-webkit-text-stroke:0}.foot b i{background:#fff}'}
  return {bg,fg,css}}
-module.exports={deko,themen,paradeTag};
+
+// Zusatzbild am Ende des Tagesposts: am 20. April „oh.. und happy 420 ;)“ mit kiffendem Astronauten (ca. ein Viertel des Bilds)
+const LEAF=["......G......","......G......",".G...GGG...G.",".GG..GGG..GG.","..GG.GGG.GG..","..GGGGGGGGG..","G..GGGGGGG..G","GGG.GGGGG.GGG",".GGGGGGGGGGG.","...GGGGGGG...","..GG..D..GG..","......D......","......D......"];
+function zusatz(d,CSS,astro){const f=process.env.IG_THEMA;if(!(f==='420'||(!f&&d.slice(5)==='04-20')))return null;
+ const r=rng('420'+d);let bl='';[[.08,.07,70],[.80,.05,96],[.55,.16,54],[.90,.30,60],[.06,.52,84],[.30,.86,58],[.13,.76,46],[.62,.47,44]].forEach(([fx,fy,sz],n)=>{
+  bl+=`<div style="position:absolute;left:${Math.round(fx*1080)}px;top:${Math.round(fy*1350)}px;width:${sz}px;opacity:${(.3+r()*.4).toFixed(2)};transform:rotate(${Math.round(r()*50-25)}deg)">${svg(13,13,pix(LEAF,{G:['#2fd145','#25a838','#5fe06f'][n%3],D:'#1c7d2a'}),'display:block;width:100%')}</div>`});
+ const AW=470,AH=Math.round(AW*150/131);
+ const html=`<!doctype html><meta charset="utf-8"><style>${CSS}
+ .z420{position:absolute;left:72px;top:150px;font-family:Doto;font-weight:900;color:#fff;-webkit-text-stroke:2.4px #fff;text-transform:uppercase;line-height:1.02}
+ .z420 .k{font-size:104px;color:#cfd4dc;-webkit-text-stroke:2px #cfd4dc}.z420 .g{font-size:150px}.z420 em{font-style:normal;color:#2fd145;-webkit-text-stroke-color:#2fd145;text-shadow:0 0 34px rgba(47,209,69,.5)}
+ .z420 .n{font-size:200px;line-height:1;margin-top:14px}</style><body><div class="bg"></div><div class="grid"></div>${bl}
+ <div class="z420"><div class="k">oh..</div><div class="g">und happy</div><div class="n"><em>420</em> ;)</div></div>
+ <div style="position:absolute;right:70px;bottom:150px;width:${AW}px;height:${AH}px"><div style="position:absolute;inset:0;background:#e9ecf1;-webkit-mask:url(${astro}) center/100% 100% no-repeat;filter:drop-shadow(0 0 26px rgba(47,209,69,.45))"></div>
+ ${svg(131,150,`<rect x="116" y="6" width="5" height="18" fill="#f4f1e6"/><rect x="116" y="2" width="5" height="4" fill="#ff7a1a"/><rect x="116" y="24" width="5" height="3" fill="#d8c9a0"/><g fill="#c9ced6"><rect x="114" y="-7" width="4" height="4" opacity=".9"/><rect x="119" y="-15" width="4" height="4" opacity=".7"/><rect x="113" y="-23" width="4" height="4" opacity=".5"/><rect x="118" y="-32" width="5" height="5" opacity=".35"/><rect x="111" y="-42" width="5" height="5" opacity=".2"/></g>`,'position:absolute;inset:0;width:100%;height:100%;overflow:visible')}</div>
+ <div class="wrap" style="justify-content:flex-end"><div class="foot"><span>Lineups, Tickets &amp; mehr auf <b>rave<i></i>wien</b></span></div></div></body>`;
+ return {name:'happy420',html}}
+module.exports={deko,themen,paradeTag,zusatz};
+
