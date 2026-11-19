@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-yy9yfdvaSlJONJrPx3xZxP6/YQx5TOQIrf43bL50gTg=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-cyHsqpmuATKXFsrZGZOX2z6Ne7wSPdJsE8GhnNN9zQc=' 'sha256-WVjO1U3Oi87LKlx+s1k4T7onpcPrwMfW2HpHOhNCdO0='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-cyHsqpmuATKXFsrZGZOX2z6Ne7wSPdJsE8GhnNN9zQc=' 'sha256-WVjO1U3Oi87LKlx+s1k4T7onpcPrwMfW2HpHOhNCdO0='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -1136,40 +1136,34 @@ const init=()=>{const brand=document.querySelector('.brand'),a=brand&&brand.quer
   if(still){[8,24,58,73,90].forEach(leaf);wort(40)}else{for(let i=0;i<4;i++)setTimeout(leaf,i*900);setInterval(leaf,2200);setTimeout(wort,1500);setInterval(wort,7000)}
  }
  if(T==='rad'){
-  // Bicycle Day: wabernde 70er-Wellen im Seitenkopf, darüber rollende Fahrradreifen und kleine Blotter-Quadrate mit Smileys;
-  // die Akzentfarbe der ganzen Seite wandert durch die Farben des Musters
-  const top0=document.querySelector('header.top');const c=document.createElement('canvas');c.setAttribute('aria-hidden','true');c.className='radx';c.style.cssText='position:absolute;inset:0;width:100%;height:100%;z-index:-1;pointer-events:none;image-rendering:pixelated';top0.prepend(c);
-  const g=c.getContext('2d'),PX=2;let W,H,last=0,ph=0,img=null;
-  const PAL=[[107,54,148],[251,230,194],[35,169,153],[251,176,33],[240,39,111],[107,54,148],[251,176,33],[35,169,153]].map(k=>k.map(v=>Math.round(v*.86)));
-  const size=()=>{W=Math.max(1,Math.round(top0.clientWidth/PX));H=Math.max(1,Math.round(top0.clientHeight/PX));c.width=W;c.height=H};size();addEventListener('resize',()=>{size();if(still)wellen()});
-  const wellen=()=>{if(!img||img.width!==W||img.height!==H)img=g.createImageData(W,H);const D=img.data,t=ph,N=PAL.length;
-   const c1x=W*.3+Math.sin(t*.21)*W*.05,c1y=H*.45+Math.sin(t*.4)*H*.3,c2x=W*.72+Math.cos(t*.17)*W*.05,c2y=H*.55+Math.cos(t*.33)*H*.3,R=H*2.2;
-   for(let y=0;y<H;y++)for(let x=0;x<W;x++){let X=x*.03,Y=y*.075;const X0=X;X+=.95*Math.sin(Y*1.25+t*.6)+.5*Math.sin(X*.55-t*.35);Y+=.85*Math.sin(X0*.85+t*.45);
-    let v=X*.8+Y*.55+.85*Math.sin(X*.65+Y*1.05+t*.3);
-    let dx=x-c1x,dy=(y-c1y)*1.2,r=Math.sqrt(dx*dx+dy*dy);v+=(Math.atan2(dy,dx)/6.2832*2+Math.log(r+3)*.9-t*.25)*Math.exp(-r*r/(R*R));
-    dx=x-c2x;dy=(y-c2y)*1.2;r=Math.sqrt(dx*dx+dy*dy);v-=(Math.atan2(dy,dx)/6.2832*2+Math.log(r+3)*.9-t*.2)*Math.exp(-r*r/(R*R));
-    const k=PAL[((Math.floor(v*1.5)%N)+N)%N],o=(y*W+x)*4;D[o]=k[0];D[o+1]=k[1];D[o+2]=k[2];D[o+3]=255}g.putImageData(img,0,0)};
+  // Bicycle Day: ganze Fahrräder, Blotter-Quadrate mit Smileys und „Happy Bicycle Day“-Schriftzüge fliegen durch den Seitenkopf;
+  // alle Farben der Seite wandern durch die Palette
+  const top0=document.querySelector('header.top');const HH=Math.max(44,Math.min(top0.clientHeight||56,64));
   css+=`@font-face{font-family:"Shrikhand";src:url(fonts/shrikhand-latin-400-normal.woff2) format("woff2");font-display:swap}
   html:not(.a11y-on) .brand>span:not(.fest){font-family:"Shrikhand","Cooper Black",serif;font-weight:400;text-transform:none;letter-spacing:.01em;color:#fff3dc;-webkit-text-fill-color:#fff3dc;-webkit-text-stroke:0;text-shadow:-2px 0 0 #3b1560,2px 0 0 #3b1560,0 -2px 0 #3b1560,0 2px 0 #3b1560,-2px -2px 0 #3b1560,2px -2px 0 #3b1560,-2px 2px 0 #3b1560,2px 2px 0 #3b1560,0 4px 0 #3b1560;padding-right:.12em}
   html:not(.a11y-on) .brand>span:not(.fest) .dot{background:#f0276f;border-radius:50%;width:.22em;height:.22em;margin:0 .06em;box-shadow:0 0 0 2px #3b1560}
   html:not(.a11y-on) .brand .astro{filter:drop-shadow(0 0 0 #3b1560) drop-shadow(1px 1px 0 #3b1560) drop-shadow(-1px -1px 0 #3b1560)}
-  html:not(.a11y-on) header.top .seg,html:not(.a11y-on) header.top .zseg,html:not(.a11y-on) header.top .burger{background:var(--bg);border-radius:3px}
   html:not(.a11y-on){--accent-fg:#12061c}
+  html:not(.a11y-on) header.top .seg,html:not(.a11y-on) header.top .zseg,html:not(.a11y-on) header.top .burger{background:var(--bg);border-radius:3px}
   html.a11y-on header.top .radx{display:none}
   html:not(.a11y-on) .flag.io-out,html:not(.a11y-on) .opt span .xd.xo{color:var(--rx1);border-color:var(--rx1)}html:not(.a11y-on) .flag.io-in,html:not(.a11y-on) .opt span .xd.xi{color:var(--rx2);border-color:var(--rx2)}html:not(.a11y-on) .rstar.on,html:not(.a11y-on) .row .why{color:var(--rx3)}html:not(.a11y-on) .brand>span:not(.fest) .dot{background:var(--rx3,#f0276f)}
   .radl{position:absolute;inset:0;overflow:hidden;pointer-events:none;z-index:-1}
-  .reifen{position:absolute;bottom:2px;left:-40px;width:30px;animation:roll var(--t) linear infinite}.reifen svg{display:block;width:100%;animation:dreh 1.6s linear infinite}
-  @keyframes roll{to{transform:translateX(var(--w))}}@keyframes dreh{to{transform:rotate(360deg)}}
+  .velo{position:absolute;left:-60px;width:44px;animation:hf var(--t) linear infinite}.velo svg{display:block;width:100%;overflow:visible;animation:hfw 2.6s ease-in-out infinite alternate}.velo .sp{transform-box:fill-box;transform-origin:center;animation:dreh .9s linear infinite}
+  @keyframes dreh{to{transform:rotate(360deg)}}
+  .hbd{position:absolute;left:-150px;font-family:"Shrikhand","Cooper Black",serif;font-size:15px;line-height:.95;text-align:center;white-space:nowrap;color:var(--c);text-shadow:0 2px 0 rgba(0,0,0,.55);animation:hf var(--t) linear infinite}.hbd span{display:block;animation:wack .8s ease-in-out infinite alternate}.hbd b{display:block;font-weight:400;font-size:1.25em}
+  @keyframes wack{0%{transform:rotate(-6deg) translateY(-1px)}100%{transform:rotate(6deg) translateY(1px)}}
   .blot{position:absolute;left:-30px;width:17px;animation:hf var(--t) linear infinite}.blot svg{display:block;width:100%;box-shadow:0 2px 0 rgba(0,0,0,.35);animation:hfw 3s ease-in-out infinite alternate}
   @keyframes hf{0%{transform:translate(0,0)}25%{transform:translate(calc(var(--w)*.25),var(--s))}50%{transform:translate(calc(var(--w)*.5),0)}75%{transform:translate(calc(var(--w)*.75),calc(var(--s)*-1))}100%{transform:translate(var(--w),0)}}@keyframes hfw{0%{transform:rotate(-14deg)}100%{transform:rotate(14deg)}}
-  @media (prefers-reduced-motion:reduce){.reifen,.reifen svg,.blot,.blot svg{animation:none}}`;
-  const lay=document.createElement('div');lay.className='radl radx';lay.setAttribute('aria-hidden','true');c.after(lay);
-  const RAD=`<svg viewBox='0 0 30 30'><circle cx='15' cy='15' r='12.5' fill='none' stroke='#12061c' stroke-width='4'/><circle cx='15' cy='15' r='12.5' fill='none' stroke='#fff3dc' stroke-width='1' stroke-dasharray='2 3'/><g stroke='#12061c' stroke-width='1.2'><path d='M15 3v24M3 15h24M6.5 6.5l17 17M23.5 6.5l-17 17'/></g><circle cx='15' cy='15' r='2.5' fill='#fbb021' stroke='#12061c'/></svg>`;
+  @media (prefers-reduced-motion:reduce){.velo,.velo svg,.velo .sp,.blot,.blot svg,.hbd,.hbd span{animation:none}}`;
+  const lay=document.createElement('div');lay.className='radl radx';lay.setAttribute('aria-hidden','true');top0.prepend(lay);
+  const VELO=k=>`<svg viewBox='0 0 44 28'><g class='sp'><circle cx='9' cy='19' r='7.5' fill='none' stroke='#e9ecf1' stroke-width='2'/><path d='M9 12v14M2 19h14' stroke='#8f96a3' stroke-width='1'/></g><g class='sp'><circle cx='35' cy='19' r='7.5' fill='none' stroke='#e9ecf1' stroke-width='2'/><path d='M35 12v14M28 19h14' stroke='#8f96a3' stroke-width='1'/></g><path d='M9 19L17 8H30L35 19M17 8L21 19H9M30 8L29 4H34M14 6H20' fill='none' stroke='var(${k})' stroke-width='2.2' stroke-linejoin='round' stroke-linecap='round'/><circle cx='21' cy='19' r='2' fill='var(${k})'/></svg>`;
   const SMI=["YYYYYYYYY","YYYYYYYYY","YYKYYYKYY","YYKYYYKYY","YYYYYYYYY","YKYYYYYKY","YYKKKKKYY","YYYYYYYYY","YYYYYYYYY"];
   const W0=top0.clientWidth,wide=(W0+90)+'px';
-  [[0,26,30],[9,17,22],[17,31,36]].forEach(([dl,t,sz],i)=>{const e=document.createElement('span');e.className='reifen';e.style.width=sz+'px';e.style.setProperty('--t',t+'s');e.style.setProperty('--w',wide);e.style.animationDelay=(-dl)+'s';e.innerHTML=RAD;e.firstChild.style.animationDuration=(sz/20)+'s';if(still)e.style.left=(12+i*33)+'%';lay.append(e)});
+  const ho=()=>(4+Math.random()*Math.max(4,HH-34))+'px';
+  [['--rx1',24,46],['--accent',18,34],['--rx2',30,54],['--c-col',21,40]].forEach(([k,t,sz],i)=>{const e=document.createElement('span');e.className='velo';e.style.width=sz+'px';e.style.setProperty('--t',t+'s');e.style.setProperty('--w',wide);e.style.setProperty('--s',(Math.random()*14-7)+'px');e.style.top=ho();e.style.animationDelay=(-Math.random()*t)+'s';e.innerHTML=VELO(k);if(still)e.style.left=(10+i*24)+'%';lay.append(e)});
+  [['--rx3',27],['--c-ven',35]].forEach(([k,t],i)=>{const e=document.createElement('span');e.className='hbd';e.style.setProperty('--c',`var(${k},#fbb021)`);e.style.setProperty('--t',t+'s');e.style.setProperty('--w',(W0+320)+'px');e.style.setProperty('--s',(Math.random()*8-4)+'px');e.style.top=(2+Math.random()*Math.max(2,HH-40))+'px';e.style.animationDelay=(-(i?t*.55:t*.15))+'s';e.innerHTML='<span>Happy<b>Bicycle Day</b></span>';if(still)e.style.left=(38+i*30)+'%';lay.append(e)});
   const BC=['#fff3dc','#ffd23c','#ff9ec4','#9be3d8'];const n=Math.max(4,Math.round(W0/190));
-  for(let i=0;i<n;i++){const e=document.createElement('span');e.className='blot';const t=22+Math.random()*16;e.style.setProperty('--t',t+'s');e.style.setProperty('--w',wide);e.style.setProperty('--s',(Math.random()*12-6)+'px');e.style.top=(4+Math.random()*Math.max(4,top0.clientHeight-28))+'px';e.style.animationDelay=(-Math.random()*t)+'s';
+  for(let i=0;i<n;i++){const e=document.createElement('span');e.className='blot';const t=22+Math.random()*16;e.style.setProperty('--t',t+'s');e.style.setProperty('--w',wide);e.style.setProperty('--s',(Math.random()*12-6)+'px');e.style.top=(4+Math.random()*Math.max(4,HH-28))+'px';e.style.animationDelay=(-Math.random()*t)+'s';
    e.innerHTML=svgS(9,9,pix(SMI,{Y:BC[i%BC.length],K:'#12061c'}));if(still)e.style.left=(6+i*(88/n))+'%';lay.append(e)}
   // Alles Farbige wandert durch die Palette – jede Farbe mit eigenem Tempo und Versatz. Wer im Barrierefreiheits-Menü etwas
   // eingeschaltet hat (außer der Schriftgröße), sieht von alldem nichts: dann bleibt die Seite ganz normal.
@@ -1180,7 +1174,6 @@ const init=()=>{const brand=document.querySelector('.brand'),a=brand&&brand.quer
   let bunt=false;const faerben=sek=>{if(aus()){if(bunt){TOK.forEach(k=>H0.style.removeProperty(k));bunt=false}return}bunt=true;TOK.forEach((k,i)=>H0.style.setProperty(k,farbe(sek/(9+(i*5)%8)+i*.37)))};
   faerben(0);if(!still)setInterval(()=>{if(!document.hidden)faerben(performance.now()/1000)},125);
   new MutationObserver(()=>faerben(still?0:performance.now()/1000)).observe(H0,{attributes:true,attributeFilter:['class']});
-  if(still){wellen()}else{const step=t=>{requestAnimationFrame(step);if(document.hidden||aus()||t-last<50)return;last=t;ph+=.045;wellen()};requestAnimationFrame(step)}
  }
  st.textContent=css;document.head.append(st)};
 if(document.readyState==='loading')addEventListener('DOMContentLoaded',init);else init();
