@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-yy9yfdvaSlJONJrPx3xZxP6/YQx5TOQIrf43bL50gTg=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-HuEJg1N49kfF6SCiNNdxQcJIBZi4SpH85UaEr3705Lw=' 'sha256-WVjO1U3Oi87LKlx+s1k4T7onpcPrwMfW2HpHOhNCdO0='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-yy9yfdvaSlJONJrPx3xZxP6/YQx5TOQIrf43bL50gTg=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-cyHsqpmuATKXFsrZGZOX2z6Ne7wSPdJsE8GhnNN9zQc=' 'sha256-WVjO1U3Oi87LKlx+s1k4T7onpcPrwMfW2HpHOhNCdO0='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -1239,16 +1239,14 @@ if(document.readyState==='loading')addEventListener('DOMContentLoaded',init);els
 }catch(e){console.error(e)}})();
 </script>
 <script>
-/* ===== Aprilscherz „schlager.wien“: läuft am 1. April (Wiener Zeit) von selbst; Test jederzeit mit ?april=1, im Backend mit dem Knopf links unten ===== */
+/* ===== Aprilscherz „schlager.wien“: läuft am 1. April (Wiener Zeit) von selbst; Test jederzeit mit ?april=1 ===== */
 (()=>{try{const LIVE=/(^|\.)rave\.wien$/.test(location.hostname);
 const heute=()=>{try{return new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Vienna',month:'2-digit',day:'2-digit'}).format(new Date())}catch(e){return ''}};
 const TEST=/[?&]april=1\b/.test(location.search),AUTO=TEST||heute()==='04-01';
-if(LIVE&&!AUTO)return;
+if(!AUTO)return;
 const aus=v=>{try{if(v)sessionStorage.setItem('aprilAus','1');return sessionStorage.getItem('aprilAus')==='1'}catch(e){return false}};
 const CSS=`
 @font-face{font-family:"Pacifico";src:url(fonts/pacifico-latin-400-normal.woff2) format("woff2");font-weight:400;font-style:normal;font-display:swap}
-.apr-btn{position:fixed;left:14px;bottom:14px;z-index:9000;font:700 13px/1 system-ui,sans-serif;padding:10px 14px;border-radius:999px;border:1px solid #ff4fa3;background:#1a0f16;color:#ff9ccc;cursor:pointer;box-shadow:0 4px 18px rgba(0,0,0,.5)}
-.apr-btn[aria-pressed="true"]{background:#ff4fa3;color:#1a0f16}
 html.april{--accent:#ff4fa3;--accent-fg:#1a0612;--sel:#5b1f3d}
 html.april .brand .astro{visibility:hidden}
 .schl{display:inline-flex;align-items:baseline;gap:.02em;font-family:"Pacifico","Brush Script MT",cursive;font-size:1.25em;font-weight:400;line-height:1.15;letter-spacing:0;text-transform:none;transform:rotate(-4deg);transform-origin:left center;padding:0 .3em .12em 0;white-space:nowrap;
@@ -1319,8 +1317,6 @@ function stop(){on=false;if(obs)obs.disconnect();obs=null;document.documentEleme
  swaps.forEach(([e,h])=>{if(e.isConnected){e.innerHTML=h;delete e.dataset.apr}});swaps=[];texts.forEach(([n,v])=>{if(n.isConnected)n.nodeValue=v});texts=[];document.title=title0||document.title;
  cancelAnimationFrame(hopRaf);if(hopEl)hopEl.remove();hopEl=null;reset()}
 const init=()=>{const st=document.createElement('style');st.textContent=CSS;document.head.append(st);
- if(!LIVE){btn=document.createElement('button');btn.type='button';btn.className='apr-btn';btn.setAttribute('aria-pressed','false');btn.textContent='1. April testen';document.body.append(btn);
-  btn.addEventListener('click',()=>{if(on){stop();btn.textContent='1. April testen';btn.setAttribute('aria-pressed','false')}else{start();btn.textContent='Spaß aus';btn.setAttribute('aria-pressed','true')}})}
  if(AUTO&&!(aus()&&!TEST))setTimeout(()=>{if(btn)btn.click();else start()},400)};
 if(document.readyState==='loading')addEventListener('DOMContentLoaded',init);else init();
 }catch(e){console.error(e)}})();
