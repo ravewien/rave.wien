@@ -27,7 +27,6 @@ const html0=fs.readFileSync(R+'/index.html','utf8');
 const DSEG=(html0.match(/@font-face\{font-family:"DSEG7";src:url\((data:font\/woff2;base64,[^)]*)\)/)||[])[1];
 const ASTRO=(html0.match(/\.astro\{[^}]*-webkit-mask:url\((data:image\/png;base64,[^)]*)\)/)||[])[1];
 // Astronaut rechts unten: alle PNGs in ig/astro/ (weiß auf transparent) wechseln sich ab – neue Moves einfach dort ablegen
-const TEUFEL=require('./teufel.js');
 const POSES=fs.readdirSync(OUT+'/astro').filter(f=>/\.png$/i.test(f)).sort().map(f=>{const b=fs.readFileSync(OUT+'/astro/'+f);return {f,u:'data:image/png;base64,'+b.toString('base64'),w:b.readUInt32BE(16),h:b.readUInt32BE(20)}});
 const f64=n=>'data:font/woff2;base64,'+fs.readFileSync(F+n).toString('base64');
 const CSS=`
@@ -75,8 +74,6 @@ body{width:1080px;height:1350px;background:#08090b;color:#e9ecf1;font-family:BC,
 .pr.free{color:#ffffff}.pr.ak{color:#ffd24a}.pr.tbd{color:#8f96a3}
 .foot{display:flex;justify-content:space-between;align-items:center;padding-top:26px;border-top:2px solid #2a2e36;font-family:JB;font-weight:700;font-size:24px;letter-spacing:.06em;color:#8f96a3}
 .foot b{margin-left:.35em;color:#fff;font-family:Doto;font-weight:900;font-size:34px;letter-spacing:.02em;-webkit-text-stroke:.6px #fff}
-/* Advent (1.–24. Dezember): Zipfelmütze auf dem Astronauten */
-.muetze{position:absolute;bottom:198px;transform:translateY(100%);aspect-ratio:22/11;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 22 11' shape-rendering='crispEdges'%3E%3Crect x='6' y='0' width='4' height='1' fill='%23e5202e'/%3E%3Crect x='5' y='1' width='7' height='1' fill='%23e5202e'/%3E%3Crect x='4' y='2' width='10' height='1' fill='%23e5202e'/%3E%3Crect x='4' y='3' width='12' height='1' fill='%23e5202e'/%3E%3Crect x='3' y='4' width='9' height='1' fill='%23e5202e'/%3E%3Crect x='12' y='4' width='1' height='1' fill='%23a80f1f'/%3E%3Crect x='13' y='4' width='5' height='1' fill='%23e5202e'/%3E%3Crect x='3' y='5' width='10' height='1' fill='%23e5202e'/%3E%3Crect x='13' y='5' width='2' height='1' fill='%23a80f1f'/%3E%3Crect x='15' y='5' width='4' height='1' fill='%23e5202e'/%3E%3Crect x='2' y='6' width='12' height='1' fill='%23e5202e'/%3E%3Crect x='15' y='6' width='1' height='1' fill='%23a80f1f'/%3E%3Crect x='16' y='6' width='4' height='1' fill='%23e5202e'/%3E%3Crect x='2' y='7' width='13' height='1' fill='%23e5202e'/%3E%3Crect x='17' y='7' width='3' height='1' fill='%23fff'/%3E%3Crect x='1' y='8' width='15' height='1' fill='%23fff'/%3E%3Crect x='17' y='8' width='4' height='1' fill='%23fff'/%3E%3Crect x='1' y='9' width='15' height='1' fill='%23fff'/%3E%3Crect x='18' y='9' width='2' height='1' fill='%23fff'/%3E%3Crect x='1' y='10' width='15' height='1' fill='%23c9ced6'/%3E%3C/svg%3E") 0 0/100% 100% no-repeat}
 .dancer{position:absolute;z-index:1;right:66px;bottom:44px;background:#e9ecf1;-webkit-mask-size:100% 100%;-webkit-mask-repeat:no-repeat;filter:drop-shadow(0 0 14px rgba(31,139,255,.55))}
 .foot .pg{margin-right:150px}.ev:last-child .pr{margin-right:130px}
 .foot b i{display:inline-block;width:.16em;height:.16em;background:#1f8bff;margin:0 .1em}`;
@@ -84,7 +81,11 @@ body{width:1080px;height:1350px;background:#08090b;color:#e9ecf1;font-family:BC,
 const tk=t=>{if(!t)return '';const h=+String(t).slice(0,2);return h>=4&&h<12?'tAft':h>=12&&h<18?'tDay':''};
 const GRP='<svg viewBox="0 0 24 24"><path fill="#ff8c1a" d="M9 11a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm7.5 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM9 13c-3.3 0-7 1.6-7 4.3V20h14v-2.7C16 14.6 12.3 13 9 13zm7.5 0c-.5 0-1 0-1.6.1 1.3.9 2.1 2.2 2.1 4.2V20h6v-2.4c0-2.6-3.6-4.6-6.5-4.6z"/></svg>';
 const PIN='<svg viewBox="0 0 24 24"><path fill="#2fd145" d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg>';
-const slide=(EVS,pg,i,n,label,dd,mm,lc)=>{const h=slide0(EVS,pg,i,n,label,dd,mm,lc);if(!POSES.length)return h;const P=POSES[(+dd+ +mm+i)%POSES.length];const k=135/P.h;return h.replace('</div></body>',`<div class="dancer" style="width:${Math.round(P.w*k)}px;height:135px;-webkit-mask-image:url(${P.u})"></div>${+mm===10&&+dd===31?`<div style="position:absolute;right:66px;bottom:44px;width:${Math.round(P.w*k)}px;height:135px">${TEUFEL.svg(/^2\./.test(P.f))}</div>`:''}${+mm===12&&+dd<=24?`<div class="muetze" style="right:${66+Math.round(P.w*k*.15)}px;width:${Math.round(P.w*k*.55)}px"></div>`:''}</div></body>`)};
+let curD='';const THEMEN=require('./ig-themen.js');
+const slide=(EVS,pg,i,n,label,dd,mm,lc)=>{let h=slide0(EVS,pg,i,n,label,dd,mm,lc);if(!POSES.length)return h;const P=POSES[(+dd+ +mm+i)%POSES.length];const k=135/P.h;
+ const D=THEMEN.deko(curD,plan,P,k,i);
+ if(D){h=h.replace('<div class="grid"></div>','<div class="grid"></div>'+D.bg).replace('</style>',D.css+'</style>')}
+ return h.replace('</div></body>',`<div class="dancer" style="width:${Math.round(P.w*k)}px;height:135px;-webkit-mask-image:url(${P.u})"></div>${D?D.fg:''}</div></body>`)};
 const slide0=(EVS,pg,i,n,label,dd,mm,lc)=>`<!doctype html><meta charset="utf-8"><style>${CSS}</style><body class="${EVS.length<=3?'few':''}" style="--lc:${lc||2}"><div class="bg"></div><div class="grid"></div><div class="wrap">
  <div class="head"><div class="hrow"><div class="day">${esc(label)}</div><div class="date"><span>${dd}</span><i class="dd"></i><span>${mm}</span><i class="dd"></i></div></div><div class="sub">${EVS.length} Event${EVS.length===1?'':'s'} in Wien</div></div>
  <div class="list">${pg.map(e=>{const pr=price(e.p);return `<div class="ev"><div class="t ${tk(e.s)}">${esc(e.s||'--:--')}${e.e?`<small>-${esc(e.e)}</small>`:''}</div>
@@ -124,7 +125,7 @@ function caption(EVS,label,dd,mm,wd){
   const MIN=+plan.min_events||1; // von Hand angeforderte Tage (node insta.js DATUM) werden immer erzeugt
   if(!only&&EVS.length<MIN){fs.rmSync(dir,{recursive:true,force:true});console.log(d,`nur ${EVS.length} Event(s) – kein Post (mindestens ${MIN})`);continue}
   fs.mkdirSync(dir,{recursive:true});
-  const wd=wdOf(d);const label=WD[wd][0].toUpperCase()+WD[wd].slice(1);const [,mm,dd]=d.split('-');
+  curD=d;const wd=wdOf(d);const label=WD[wd][0].toUpperCase()+WD[wd].slice(1);const [,mm,dd]=d.split('-');
   const split=NP=>{const ps=[];let i=0;for(let k=0;k<NP;k++){const n=Math.ceil((EVS.length-i)/(NP-k));ps.push(EVS.slice(i,i+n));i+=n}return ps};
   let files=[];
   for(let NP=Math.max(1,Math.ceil(EVS.length/8));NP<=10;NP++){const pages=split(NP);const shots=[];let ok=true;
