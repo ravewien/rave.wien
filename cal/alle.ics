@@ -1666,6 +1666,22 @@ DESCRIPTION:\nNeuer Termin der Psytrance-Reihe Soundlab Pirates\, auf goa
 URL:https://rave.wien/e/2026-12-04-soundlab-pirates
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-04-let-it-roll-on-tour-vienna@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Let It Roll On Tour Vienna
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Mozey\nVeranstalter: Memorandum\, Let It Roll\n\nDas tschechi
+ sche Drum-&-Bass-Festival Let It Roll feiert 25 Jahre und macht mit sein
+ er „On Tour“-Reihe Station im Club Exil. Veranstalter Memorandum hol
+ t dafür Mozey nach knapp zwei Jahren wieder nach Wien – bekannt für 
+ energiegeladene Sets\, in denen er alle Spielarten von Drum & Bass mit s
+ einem hüpfenden Jump-up-Stil mischt\, und für seinen Cowboyhut.\n\nhtt
+ ps://rave.wien/e/2026-12-04-let-it-roll-on-tour-vienna
+URL:https://rave.wien/e/2026-12-04-let-it-roll-on-tour-vienna
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-05-du-tanzt-mich-mal-winter-open-air-punsch-rave-day@rave.wien
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=Europe/Vienna:20261205T160000

@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Memorandum · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-04-let-it-roll-on-tour-vienna@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Let It Roll On Tour Vienna
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Mozey\nVeranstalter: Memorandum\, Let It Roll\n\nDas tschechi
+ sche Drum-&-Bass-Festival Let It Roll feiert 25 Jahre und macht mit sein
+ er „On Tour“-Reihe Station im Club Exil. Veranstalter Memorandum hol
+ t dafür Mozey nach knapp zwei Jahren wieder nach Wien – bekannt für 
+ energiegeladene Sets\, in denen er alle Spielarten von Drum & Bass mit s
+ einem hüpfenden Jump-up-Stil mischt\, und für seinen Cowboyhut.\n\nhtt
+ ps://rave.wien/e/2026-12-04-let-it-roll-on-tour-vienna
+URL:https://rave.wien/e/2026-12-04-let-it-roll-on-tour-vienna
+END:VEVENT
+END:VCALENDAR
