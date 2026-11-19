@@ -14,8 +14,9 @@ Läuft auf dem Raspberry Pi alle 10 Minuten (cron). Zugangsdaten stehen nur loka
   python3 rave_insta.py passwort  # neues Instagram-Passwort eintragen und neu anmelden
   python3 rave_insta.py update    # sofort nach einer neuen Programmversion suchen
 
-Story: Nach jedem Post wird er 10–45 Minuten später (zufällig) zusätzlich als Story geteilt – mit dem ersten Bild
-des Posts und einem antippbaren Verweis auf den Post. Abschalten: STORY=nein in ~/.rave-insta/config.
+Story: Nach jedem Post wird er 10–45 Minuten später (zufällig) zusätzlich als Story geteilt – bei Tagesposts mit allen
+Event-Bildern (höchstens 4, im Abstand von einigen Minuten), bei Zwischenposts mit dem ersten Bild; angehängte Extra-Bilder
+kommen nicht in die Story. Jede Story hat einen antippbaren Verweis auf den Post. Abschalten: STORY=nein in ~/.rave-insta/config.
 
 Aktualisierung: Der normale Lauf prüft höchstens einmal pro Stunde, ob es auf rave.wien eine neue Version dieses
 Programms gibt. Eine neue Version wird erst getestet (Selbsttest in eigenem Prozess) und nur dann übernommen;
@@ -28,7 +29,7 @@ import json, os, sys, time, random, logging, urllib.request, hashlib, subprocess
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-18.9"
+VERSION = "2026-11-19.2"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -42,6 +43,10 @@ MAX_VERSPAETUNG = timedelta(hours=6)   # was länger überfällig ist, wird nich
 MAX_POSTS_24H = 4                      # Sicherheitsnetz: mehr wird an einem Tag nie automatisch gepostet
 STORY_NACH_MIN = (10, 45)              # Story erscheint zufällig 10–45 Minuten nach dem Post
 STORY_AUFGEBEN = timedelta(hours=3)    # nach 3 Fehlversuchen oder so langer Überfälligkeit wird die Story aufgegeben
+STORY_MAX_BILDER = 4                   # Tagesposts: höchstens so viele Event-Bilder als Story-Serie
+STORY_ABSTAND_MIN = (2, 6)             # weitere Story-Bilder frühestens 2–6 Minuten nach dem vorigen (nächster Lauf)
+# Fehler, bei denen Instagram bremst oder eine Bestätigung will: Story-Serie für den Tag sofort beenden, nicht weiter probieren
+STORY_STOPP = ("ChallengeRequired", "FeedbackRequired", "PleaseWaitFewMinutes", "LoginRequired", "RateLimitError", "ClientThrottledError", "SentryBlock")
 STREUUNG_MIN = 30                      # jeder Post erscheint zufällig bis zu 30 Minuten vor oder nach der geplanten Zeit
 
 def wann(p):
@@ -230,8 +235,9 @@ def download(post):
     pruefe(post)
     folder = DL / post["datum"]; folder.mkdir(parents=True, exist_ok=True)
     paths = []
-    for rel in post["bilder"]:
-        p = folder / Path(rel).name
+    for i, rel in enumerate(post["bilder"]):
+        # angehängte Extra-Bilder heißen auch 1.jpg – eigener Name, damit sie kein Tagesbild überschreiben
+        p = folder / (Path(rel).name if Path(rel).parent.name == post["datum"] or post["datum"].startswith("extra-") else f"anhang-{i + 1}.jpg")
         p.write_bytes(fetch(BASE + rel, binary=True))
         paths.append(p)
     return paths
@@ -247,7 +253,12 @@ def publish(post, cl=None, state=None):
     url = f"https://www.instagram.com/p/{media.code}/"
     if state is not None and story_an() and post.get("story") is not False:
         due = datetime.now(timezone.utc) + timedelta(minutes=random.randint(*STORY_NACH_MIN))
-        state.setdefault("stories", {})[post["datum"]] = {"pk": str(media.pk), "bild": str(paths[0]), "url": url,
+        # Tagesposts: alle Event-Bilder (ohne angehängte Extra-Bilder), Zwischenposts: nur das erste Bild
+        paare = [(str(pa), rel) for pa, rel in zip(paths, post["bilder"]) if "/extra/" not in rel] or [(str(paths[0]), post["bilder"][0])]
+        if post["datum"].startswith("extra-"): paare = paare[:1]
+        paare = paare[:STORY_MAX_BILDER]
+        state.setdefault("stories", {})[post["datum"]] = {"pk": str(media.pk), "bild": paare[0][0], "bilder": [a for a, _ in paare],
+                                                         "rel": [b for _, b in paare], "fertig": 0, "url": url,
                                                          "faellig": due.isoformat(), "status": "offen"}
     return url
 
@@ -292,24 +303,42 @@ def stories_faellig(state, now):
             if s.get("status") == "offen" and datetime.fromisoformat(s["faellig"]) <= now]
 
 def story_posten(cl, d, s, state):
+    """Postet das nächste Bild der Story-Serie (eines pro Lauf; das nächste ist frühestens 2–6 Minuten später fällig)."""
     from instagrapi.types import StoryMedia
+    bilder = s.get("bilder") or [s["bild"]]
+    rel = s.get("rel") or [f"ig/{d}/1.jpg"]
+    i = s.get("fertig", 0)
     if datetime.now(timezone.utc) - datetime.fromisoformat(s["faellig"]) > STORY_AUFGEBEN or s.get("versuche", 0) >= 3:
-        s["status"] = "aufgegeben"; say(f"{d}: Story aufgegeben"); return
+        s["status"] = "aufgegeben" if i == 0 else "gepostet"; say(f"{d}: Story aufgegeben" + (f" nach {i} von {len(bilder)} Bildern" if i else "")); return
     s["versuche"] = s.get("versuche", 0) + 1
     try:
-        src = Path(s["bild"])
+        src = Path(bilder[i])
         if not src.exists():  # Bild nicht mehr lokal → von rave.wien holen
-            src.parent.mkdir(parents=True, exist_ok=True); src.write_bytes(fetch(BASE + f"ig/{d}/1.jpg", binary=True))
-        ziel = src.with_name("story.jpg")
+            src.parent.mkdir(parents=True, exist_ok=True); src.write_bytes(fetch(BASE + rel[min(i, len(rel) - 1)], binary=True))
+        ziel = src.with_name(f"story-{i + 1}.jpg")
         pk = int(s.get("pk") or cl.media_pk_from_code(s["code"]))
         cx, cy, w, h = story_bild(src, ziel)
         cl.photo_upload_to_story(ziel, medias=[StoryMedia(media_pk=pk, user_id=cl.user_id, x=cx, y=cy, width=w, height=h)])
-        s["status"] = "gepostet"; s["gepostet"] = datetime.now(timezone.utc).isoformat()
-        say(f"{d}: Story gepostet")
+        i += 1; s["fertig"] = i; s["versuche"] = 0
+        jetzt = datetime.now(timezone.utc)
+        if i < len(bilder):
+            s["faellig"] = (jetzt + timedelta(minutes=random.randint(*STORY_ABSTAND_MIN))).isoformat()
+            say(f"{d}: Story {i}/{len(bilder)} gepostet"); return
+        s["status"] = "gepostet"; s["gepostet"] = jetzt.isoformat()
+        say(f"{d}: Story gepostet" + (f" ({i} Bilder)" if i > 1 else ""))
         mail(f"📱 rave.wien hat die Story gepostet: {tag(d)}",
-             f"Der Post für {tag(d)} wurde gerade zusätzlich als Story geteilt.\n\nPost: {s.get('url')}\nStory: https://www.instagram.com/stories/{load_config().get('IG_USER', '')}/", [ziel])
+             f"Der Post für {tag(d)} wurde gerade zusätzlich als Story geteilt" + (f" – {i} Bilder" if i > 1 else "") +
+             f".\n\nPost: {s.get('url')}\nStory: https://www.instagram.com/stories/{load_config().get('IG_USER', '')}/",
+             [Path(b).with_name(f"story-{k + 1}.jpg") for k, b in enumerate(bilder)])
     except Exception as e:
         log.exception("Fehler bei der Story"); say(f"{d}: Story-FEHLER {e}")
+        if type(e).__name__ in STORY_STOPP or any(x in str(e).lower() for x in ("challenge", "feedback_required", "please wait", "spam")):
+            s["status"] = "gepostet" if i else "aufgegeben"; s["abbruch"] = type(e).__name__
+            problem_mail(state, f"story {d}", f"⚠️ rave.wien: Story für {tag(d)} abgebrochen",
+                         f"Instagram hat beim Teilen als Story gebremst oder will eine Bestätigung ({type(e).__name__}):\n\n{e}\n\n"
+                         f"Deshalb hört der Pi für diesen Tag mit der Story auf ({i} von {len(bilder)} Bildern sind online). Der Post selbst bleibt online.\n"
+                         "Falls Instagram eine Bestätigung will: in der Instagram-App anmelden und bestätigen, danach am Pi:  ~/rave-insta/rave login")
+            return
         problem_mail(state, f"story {d}", f"⚠️ rave.wien: Story für {tag(d)} fehlgeschlagen",
                      f"Der Post ist online ({s.get('url')}), aber das Teilen als Story hat nicht geklappt:\n\n{e}\n\n"
                      f"Der Pi versucht es noch höchstens zweimal (alle 10 Minuten) und gibt die Story dann auf – der Post selbst bleibt online.")
@@ -397,7 +426,9 @@ def main():
         for p in queue.get("posts", []):
             st = state["gepostet"].get(p["datum"]) or state["uebersprungen"].get(p["datum"]) or "offen"
             sto = state.get("stories", {}).get(p["datum"])
-            if sto: st += f" | Story {sto['status']}" + (f" ab ca. {datetime.fromisoformat(sto['faellig']).astimezone().strftime('%H:%M')}" if sto["status"] == "offen" else "")
+            if sto:
+                nb = len(sto.get("bilder") or [1])
+                st += f" | Story {sto['status']}" + (f" {sto.get('fertig', 0)}/{nb}" if nb > 1 else "") + (f" ab ca. {datetime.fromisoformat(sto['faellig']).astimezone().strftime('%H:%M')}" if sto["status"] == "offen" else "")
             t = wann(p).astimezone().strftime("%a %d.%m. %H:%M")
             print(f"  {p['datum']}  geplant {p['posten_ab'][:16].replace('T', ' ')}  → wirklich ca. {t}  {len(p['bilder'])} Bild(er)  → {st}")
         save_state(state); return
