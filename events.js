@@ -6349,6 +6349,23 @@ const CI={
  "Booster Club": {
   "noLogo": "2026-11-18",
   "infoChk": "2026-11-18"
+ },
+ "Memorandum": {
+  "de": "Wiener Veranstalter, der u. a. die „Let It Roll On Tour“-Station im Club Exil mit Mozey (Dezember 2026) nach Wien holt.",
+  "en": "Vienna promoter behind, among others, the “Let It Roll On Tour” stop at Club Exil with Mozey (December 2026).",
+  "ig": "https://www.instagram.com/memorandum_at/",
+  "type": [
+   "Promoter"
+  ]
+ },
+ "Let It Roll": {
+  "de": "Großes Drum-&-Bass-Festival aus Tschechien, das 2026 sein 25-jähriges Bestehen feiert und mit der Reihe „Let It Roll On Tour“ auch Clubnächte in anderen Städten veranstaltet.",
+  "en": "Major drum & bass festival from the Czech Republic celebrating its 25th anniversary in 2026; its “Let It Roll On Tour” series also runs club nights in other cities.",
+  "web": "https://letitroll.eu/",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Tschechien"
  }
 };
 const VI={
@@ -52923,6 +52940,15 @@ const AR={
   "noLinks": "2026-11-18",
   "infoChk": "2026-11-18",
   "spChk": "2026-11-18"
+ },
+ "Mozey": {
+  "links": {
+   "ig": "https://www.instagram.com/mozeydnb/"
+  },
+  "bio": {
+   "de": "Drum-&-Bass-DJ, der laut Veranstalter mit energiegeladenen Sets viral geht: Er mischt alle Spielarten von Drum & Bass mit seinem hüpfenden Jump-up-Stil. Markenzeichen ist sein Cowboyhut.",
+   "en": "Drum & bass DJ who, according to the promoter, has gone viral with high-energy sets that mix every drum & bass sub-genre with his bouncy jump-up style. His trademark is a cowboy hat."
+  }
  }
 };
 
@@ -53100,6 +53126,7 @@ const RAW=[
 {"d":"2026-12-04","s":"23:00","title":"BLUR with Doudou MD","venue":"PRST","coll":["BLUR"],"floors":[{"f":"","a":["Doudou MD","Chris Freud","David Radi","Matthias Kaiser"]}],"head":["Doudou MD"],"note":{"de":"Ausgabe der Reihe BLUR im PRST mit Doudou MD als Gast, Beginn 23:00. Außerdem stehen Chris Freud, David Radi und Matthias Kaiser im Lineup. Bisher nur über die Monatsliste von Techno Airlines belegt; Preis, Ende und Ticketlink sind noch offen.","en":"Edition of the BLUR series at PRST with Doudou MD as guest, starting 23:00. Chris Freud, David Radi and Matthias Kaiser are also on the lineup. So far only confirmed via the Techno Airlines monthly list; price, end time and ticket link are still open."},"src":[["ta","https://www.technoairlines.com/events/vienna/2026-12"],["ta","https://www.technoairlines.com/event/blur-with-doudou-md-prst-2026-12-04"],["ra","https://ra.co/events/2553461"]],"chk":"2026-11-15","srcChk":"2026-11-15","tickets":"https://ra.co/events/2553461","na":["e","price","flyer"]},
 {"d":"2026-12-04","s":"23:30","title":"Basstrace","venue":"FLUCC","floors":[{"f":"Wanne","a":["TBA"]}],"note":{"de":"Basstrace im FLUCC Wanne. Die Location-Seite nennt bisher nur Titel, Datum und Beginn (23:30 Uhr); Lineup, Preis, Ende und Flyer sind noch nicht veröffentlicht. Verlinkt ist die Website basstrace.com.","en":"Basstrace at FLUCC Wanne. The venue page so far only lists title, date and start time (23:30); lineup, price, end time and flyer have not been published yet."},"vok":1,"src":[["fl","https://flucc.at/"],["fl","https://flucc.at/events/kPMaPj-basstrace/"],["fl","https://www.flucc.at/events/kPMaPj-basstrace/"]],"na":["lineup","price","e","flyer","tickets","age","genres"],"coll":["Basstrace"],"chk":"2026-11-15","srcChk":"2026-11-15","aw":1},
 {"d":"2026-12-04","s":"23:45","title":"DISCORDIA","venue":"Club Lucia","floors":[{"f":"","a":["TBA"]}],"note":{"de":"Clubnacht DISCORDIA im Club Lucia ab 23:30, gelistet auf der Club-Lucia-Seite von Techno Airlines. Lineup, Eintritt und weitere Details sind noch nicht veröffentlicht.","en":"Club night DISCORDIA at Club Lucia from 23:30, listed on Techno Airlines' Club Lucia page. Lineup, entry and further details have not been published yet."},"src":[["ta","https://www.technoairlines.com/club/club-lucia-vienna"],["ft","https://frey-tag.at/kalender/discordia"],["cl","https://www.clublucia.at/event/discordia/"],["ta","https://www.technoairlines.com/event/discordia-club-lucia-2026-12-04"]],"chk":"2026-11-15","srcChk":"2026-11-15","coll":["Discordia"],"genres":["House"],"price":"ab 7 €","tickets":"https://de.ra.co/events/2576335","flyer":"https://frey-tag.at/api/images/Discordia.webp-05-11-2026-23-11:66.jpeg","vok":1},
+{"d":"2026-12-04","title":"Let It Roll On Tour Vienna","venue":"Club Exil","coll":["Memorandum","Let It Roll"],"genres":["Drum & Bass"],"floors":[{"f":"","a":["Mozey"]}],"note":{"de":"Das tschechische Drum-&-Bass-Festival Let It Roll feiert 25 Jahre und macht mit seiner „On Tour“-Reihe Station im Club Exil. Veranstalter Memorandum holt dafür Mozey nach knapp zwei Jahren wieder nach Wien – bekannt für energiegeladene Sets, in denen er alle Spielarten von Drum & Bass mit seinem hüpfenden Jump-up-Stil mischt, und für seinen Cowboyhut.","en":"Czech drum & bass festival Let It Roll celebrates its 25th anniversary and brings its “On Tour” series to Club Exil. Promoter Memorandum brings Mozey back to Vienna after almost two years – known for high-energy sets that mix every drum & bass sub-genre with his bouncy jump-up style, and for his cowboy hat."},"man":1},
 {"d":"2026-12-05","s":"16:00","e":"04:00","title":"Du Tanzt Mich Mal – Winter Open Air: Punsch Rave (Day & Night)","venue":"Club U","coll":["Du Tanzt Mich Mal"],"genres":["Minimal","House","Techno"],"sound":{"de":"Lambda Labs Soundsystem","en":"Lambda Labs sound system","src":"https://www.dutanztmichmal.at/events"},"src":[["dtm","https://www.dutanztmichmal.at/events"]],"chk":"2026-11-15","price":"15 €","io":["Indoor","Outdoor"],"flyer":"https://static.wixstatic.com/media/851965_779666af4d6d46449a245e9212a3d96e~mv2.jpeg","na":["floors"],"note":{"de":"Day & Night-Ausgabe der Winter-Open-Air-Reihe „Punsch Rave“ von Du Tanzt Mich Mal: ab 16 Uhr Open Air am Karlsplatz, danach drinnen im Club U bis 4 Uhr – zwei Floors mit Minimal, House und Techno auf dem Lambda-Labs-Soundsystem, dazu Punsch, Glühwein und Tacos von Tacos Hermanos. Lineup noch nicht veröffentlicht.","en":"Day & night edition of Du Tanzt Mich Mal's 'Punsch Rave' winter open-air series: open air at Karlsplatz from 4 pm, then indoors at Club U until 4 am – two floors of minimal, house and techno on a Lambda Labs sound system, plus punch, mulled wine and tacos from Tacos Hermanos. Lineup not yet announced."}},
 {"d":"2026-12-05","s":"18:00","e":"15:00","title":"HOUSETIERE × VG+ Weekender","venue":"Tagada","coll":["Housetiere","VG+"],"genres":["House"],"floors":[{"f":"Tagada Courtyard (18–22)","a":[]},{"f":"Tagada Club (22–04)","a":[]},{"f":"Soulkitchen (05–15)","a":[]},{"f":"","a":["MESROD","PJPJPJ","Julani","Lilosh","Fliize","Duplikate","Hanno","Louk","Krueger"]}],"note":{"de":"Weekender der Wiener Reihen Housetiere und VG+, die gemeinsam den französischen DJ MESROD (Shotgun Imprint) einladen – laut Ankündigung sein Wien-Debüt, er spielt in der Nacht und bei der After. Das Programm läuft über drei Räume: Tagada-Hof 18–22 Uhr, Tagada Club 22–04 Uhr und anschließend die Soulkitchen von 05 bis 15 Uhr am Sonntag. Dazu spielen Duplikate, Hanno, Julani, PJPJPJ, Fliize und Linlokers (Lilosh & Wonkers) sowie Louk und Krueger; Set-Zeiten sind nicht veröffentlicht. Preise wurden bisher nicht angegeben.","en":"Weekender by the Vienna series Housetiere and VG+, who jointly invite French DJ MESROD (Shotgun Imprint) – announced as his Vienna debut, playing both the night and the afterhours. The programme runs across three rooms: Tagada courtyard 18:00–22:00, Tagada Club 22:00–04:00, followed by Soulkitchen from 05:00 to 15:00 on Sunday. Also playing are Duplikate, Hanno, Julani, PJPJPJ, Fliize and Linlokers (Lilosh & Wonkers) plus Louk and Krueger; set times have not been published. Prices have not been announced yet."},"src":[["ra","https://ra.co/events/2567885"],["ft","https://frey-tag.at/kalender/housetiere-x-vg?s=65Q45wDeI"],["ta","https://www.technoairlines.com/event/housetiere-x-vg-weekender-tagada-2026-12-05"]],"chk":"2026-11-15","head":["MESROD"],"srcChk":"2026-11-15","na":["price","flyer","tickets"]},
 {"d":"2026-12-05","s":"19:00","title":"Sonic Grounds Ed. 5","venue":"Funkhaus","floors":[{"f":"","a":["TBA"]}],"tickets":"https://ra.co/events/2580055","note":{"de":"Fünfte Ausgabe von Sonic Grounds im Funkhaus Wien. Laut music austria ist Sonic Grounds ein experimentelles Format aus ortsspezifischen Konzerten, Performances und offenen Studios im Funkhaus, kuratiert von Dror Binder mit Artists aus dem NeverAtHome-Umfeld; jede Ausgabe reagiert auf die Architektur des Gebäudes. Techno Airlines führt den Abend als Club Night ab 19:00 Uhr. Ein Lineup ist noch nicht veröffentlicht – eher Experimental- und Live-Format als klassische Clubnacht.","en":"Fifth edition of Sonic Grounds at Funkhaus Wien. According to music austria, Sonic Grounds is an experimental format of site-specific concerts, performances and open studios at the Funkhaus, curated by Dror Binder with artists from the NeverAtHome circle; each edition responds to the building's architecture. Techno Airlines lists the night as a club night from 19:00. No line-up has been published yet – closer to an experimental live format than a classic club night."},"src":[["ta","https://www.technoairlines.com/event/sonic-grounds-ed-5-funkhaus-wien-2026-12-05"],["ra","https://ra.co/events/2580055"],["mua","https://www.musicaustria.at/veranstaltungen/sonic-grounds-3/"]],"na":["e","price","flyer"],"chk":"2026-11-16","srcChk":"2026-11-16"},
