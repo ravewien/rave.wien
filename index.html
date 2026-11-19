@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-bU1282hiIWgvxi2gDNp2rfLqHByQ7ywOXeUFI/rVPlA=' 'sha256-HuEJg1N49kfF6SCiNNdxQcJIBZi4SpH85UaEr3705Lw=' 'sha256-WVjO1U3Oi87LKlx+s1k4T7onpcPrwMfW2HpHOhNCdO0='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-bU1282hiIWgvxi2gDNp2rfLqHByQ7ywOXeUFI/rVPlA=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-HuEJg1N49kfF6SCiNNdxQcJIBZi4SpH85UaEr3705Lw=' 'sha256-WVjO1U3Oi87LKlx+s1k4T7onpcPrwMfW2HpHOhNCdO0='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -1078,6 +1078,26 @@ if(!(/[?&]advent=1\b/.test(location.search)||(d>='12-01'&&d<='12-24')))return;
 const init=()=>{const a=document.querySelector('.brand .astro');if(!a||a.parentNode.classList.contains('advent'))return;
  const st=document.createElement('style');st.textContent=`.advent{position:relative;display:block;flex:none;transform-origin:50% 100%}.advent i{position:absolute;left:30%;top:-14%;width:55%;aspect-ratio:22/11;pointer-events:none;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 22 11' shape-rendering='crispEdges'%3E%3Crect x='6' y='0' width='4' height='1' fill='%23e5202e'/%3E%3Crect x='5' y='1' width='7' height='1' fill='%23e5202e'/%3E%3Crect x='4' y='2' width='10' height='1' fill='%23e5202e'/%3E%3Crect x='4' y='3' width='12' height='1' fill='%23e5202e'/%3E%3Crect x='3' y='4' width='9' height='1' fill='%23e5202e'/%3E%3Crect x='12' y='4' width='1' height='1' fill='%23a80f1f'/%3E%3Crect x='13' y='4' width='5' height='1' fill='%23e5202e'/%3E%3Crect x='3' y='5' width='10' height='1' fill='%23e5202e'/%3E%3Crect x='13' y='5' width='2' height='1' fill='%23a80f1f'/%3E%3Crect x='15' y='5' width='4' height='1' fill='%23e5202e'/%3E%3Crect x='2' y='6' width='12' height='1' fill='%23e5202e'/%3E%3Crect x='15' y='6' width='1' height='1' fill='%23a80f1f'/%3E%3Crect x='16' y='6' width='4' height='1' fill='%23e5202e'/%3E%3Crect x='2' y='7' width='13' height='1' fill='%23e5202e'/%3E%3Crect x='17' y='7' width='3' height='1' fill='%23fff'/%3E%3Crect x='1' y='8' width='15' height='1' fill='%23fff'/%3E%3Crect x='17' y='8' width='4' height='1' fill='%23fff'/%3E%3Crect x='1' y='9' width='15' height='1' fill='%23fff'/%3E%3Crect x='18' y='9' width='2' height='1' fill='%23fff'/%3E%3Crect x='1' y='10' width='15' height='1' fill='%23c9ced6'/%3E%3C/svg%3E") 0 0/100% 100% no-repeat}.brand .advent .astro{animation:none}@media (prefers-reduced-motion:no-preference){.brand .advent{animation:astro-dance 1s steps(1) infinite}.brand:hover .advent{animation-duration:.5s}}html.april .advent i{visibility:hidden}`;document.head.append(st);
  const w=document.createElement('span');w.className='advent';a.replaceWith(w);w.append(a,document.createElement('i'))};
+if(document.readyState==='loading')addEventListener('DOMContentLoaded',init);else init();
+}catch(e){console.error(e)}})();
+</script>
+<script>
+/* ===== Silvester: Pixel-Feuerwerk im Seitenkopf am 31. Dezember und 1. Jänner (Wiener Zeit); Test mit ?silvester=1 ===== */
+(()=>{try{let d='';try{d=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Vienna',month:'2-digit',day:'2-digit'}).format(new Date())}catch(e){}
+if(!(/[?&]silvester=1\b/.test(location.search)||d==='12-31'||d==='01-01'))return;
+const init=()=>{const top=document.querySelector('header.top');if(!top||top.querySelector('.fw'))return;
+ const c=document.createElement('canvas');c.className='fw';c.setAttribute('aria-hidden','true');c.style.cssText='position:absolute;inset:0;width:100%;height:100%;z-index:-1;pointer-events:none;image-rendering:pixelated';top.prepend(c);
+ const g=c.getContext('2d'),PX=3,COL=['#1f8bff','#ffd23c','#ff4fa3','#2fd145','#ffffff','#ff7a2f','#b07aff'];let W=0,H=0,P=[],R=[],last=0,next=0;
+ const size=()=>{W=Math.max(1,Math.round(top.clientWidth/PX));H=Math.max(1,Math.round(top.clientHeight/PX));c.width=W;c.height=H};size();addEventListener('resize',size);
+ const burst=(x,y,col)=>{const n=14+Math.floor(Math.random()*12),sp=.6+Math.random()*.55,two=Math.random()<.35?COL[Math.floor(Math.random()*COL.length)]:col;
+  for(let i=0;i<n;i++){const a=i/n*Math.PI*2+Math.random()*.2,v=sp*(.55+Math.random()*.6);P.push({x,y,vx:Math.cos(a)*v,vy:Math.sin(a)*v*.8,l:1,d:.011+Math.random()*.011,c:i%2?col:two})}};
+ const draw=()=>{g.clearRect(0,0,W,H);for(const r of R){g.globalAlpha=.7;g.fillStyle='#fff';g.fillRect(Math.round(r.x),Math.round(r.y),1,1);g.globalAlpha=.3;g.fillRect(Math.round(r.x),Math.round(r.y)+1,1,1)}
+  for(const p of P){g.globalAlpha=Math.max(0,Math.min(.85,p.l*1.1));g.fillStyle=p.c;g.fillRect(Math.round(p.x),Math.round(p.y),1,1)}g.globalAlpha=1};
+ if(matchMedia('(prefers-reduced-motion: reduce)').matches){for(let i=0;i<7;i++){burst((i+.5)/7*W,H*(.3+.4*((i*7)%3)/2),COL[i%COL.length])}for(let k=0;k<14;k++)P.forEach(p=>{p.x+=p.vx;p.y+=p.vy});draw();return}
+ const step=t=>{requestAnimationFrame(step);if(document.hidden||t-last<33)return;const k=Math.min(3,(t-last)/33);last=t;
+  if(t>next){next=t+(220+Math.random()*520)*Math.max(.22,Math.min(1,150/W));R.push({x:2+Math.random()*(W-4),y:H,ty:3+Math.random()*(H*.55),c:COL[Math.floor(Math.random()*COL.length)]})}
+  R=R.filter(r=>{r.y-=1.1*k;if(r.y<=r.ty){burst(r.x,r.y,r.c);return false}return true});
+  P=P.filter(p=>{p.x+=p.vx*k;p.y+=p.vy*k;p.vy+=.012*k;p.vx*=.985;p.l-=p.d*k;return p.l>0});draw()};requestAnimationFrame(step)};
 if(document.readyState==='loading')addEventListener('DOMContentLoaded',init);else init();
 }catch(e){console.error(e)}})();
 </script>
