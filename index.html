@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-WVjO1U3Oi87LKlx+s1k4T7onpcPrwMfW2HpHOhNCdO0='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-HuEJg1N49kfF6SCiNNdxQcJIBZi4SpH85UaEr3705Lw=' 'sha256-WVjO1U3Oi87LKlx+s1k4T7onpcPrwMfW2HpHOhNCdO0='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -1071,6 +1071,93 @@ html.a-cursor :is(a,button,[role=button],label,summary,input,select,[data-vopen]
 
 <script>/* Versionskennung der Daten (winzige Datei, immer frisch) */(()=>{if(/(^|\.)rave\.wien$/.test(location.hostname))document.write('<script src="ver.js?t='+Math.floor(Date.now()/60000)+'"><\/script>')})()</script>
 <script>/* Daten laden: Adresse ändert sich nur, wenn sich die Datei geändert hat – sonst kommt sie aus dem Browser-Cache */(()=>{const live=/(^|\.)rave\.wien$/.test(location.hostname),V=window.RWV||{},q=f=>live?"?v="+(/^[a-f0-9]{6,20}$/.test(V[f]||"")?V[f]:Math.floor(Date.now()/60000)):"";document.write(["events.js","past.js","logos.js","geo.js"].map(f=>'<script src="'+f+q(f)+'"><\/script>').join(""))})()</script>
+<script>
+/* ===== Aprilscherz „schlager.wien“: läuft am 1. April (Wiener Zeit) von selbst; Test jederzeit mit ?april=1, im Backend mit dem Knopf links unten ===== */
+(()=>{try{const LIVE=/(^|\.)rave\.wien$/.test(location.hostname);
+const heute=()=>{try{return new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Vienna',month:'2-digit',day:'2-digit'}).format(new Date())}catch(e){return ''}};
+const TEST=/[?&]april=1\b/.test(location.search),AUTO=TEST||heute()==='04-01';
+if(LIVE&&!AUTO)return;
+const aus=v=>{try{if(v)sessionStorage.setItem('aprilAus','1');return sessionStorage.getItem('aprilAus')==='1'}catch(e){return false}};
+const CSS=`
+@font-face{font-family:"Pacifico";src:url(fonts/pacifico-latin-400-normal.woff2) format("woff2");font-weight:400;font-style:normal;font-display:swap}
+.apr-btn{position:fixed;left:14px;bottom:14px;z-index:9000;font:700 13px/1 system-ui,sans-serif;padding:10px 14px;border-radius:999px;border:1px solid #ff4fa3;background:#1a0f16;color:#ff9ccc;cursor:pointer;box-shadow:0 4px 18px rgba(0,0,0,.5)}
+.apr-btn[aria-pressed="true"]{background:#ff4fa3;color:#1a0f16}
+html.april{--accent:#ff4fa3;--accent-fg:#1a0612;--sel:#5b1f3d}
+html.april .brand .astro{visibility:hidden}
+.schl{display:inline-flex;align-items:baseline;gap:.02em;font-family:"Pacifico","Brush Script MT",cursive;font-size:1.25em;font-weight:400;line-height:1.15;letter-spacing:0;text-transform:none;transform:rotate(-4deg);transform-origin:left center;padding:0 .3em .12em 0;white-space:nowrap;
+ background:linear-gradient(180deg,#fff3a6 0%,#ffc94d 38%,#ff5fae 62%,#ff2e88 100%);-webkit-background-clip:text;background-clip:text;color:transparent;-webkit-text-fill-color:transparent;filter:drop-shadow(0 1px 0 #7a0f45) drop-shadow(0 0 10px rgba(255,79,163,.55))}
+.schl b{font-weight:400}.schl i{font-style:normal;font-family:system-ui,sans-serif;font-size:.5em;margin:0 .12em;-webkit-text-fill-color:#ff2e88;transform:translateY(-.25em) rotate(12deg);display:inline-block}
+.apr-hop{position:fixed;left:0;top:0;z-index:8900;cursor:pointer;will-change:transform;touch-action:none}
+.apr-hop .bub{position:absolute;left:70%;bottom:92%;white-space:nowrap;font:400 17px/1 "Pacifico","Brush Script MT",cursive;background:#ff4fa3;color:#1a0612;padding:8px 13px 10px;border-radius:16px 16px 16px 3px;box-shadow:0 3px 12px rgba(0,0,0,.45)}
+.apr-hop.l .bub{left:auto;right:70%;border-radius:16px 16px 3px 16px}
+.apr-hop .a{display:block;width:100%;aspect-ratio:131/150;background:var(--fg,#fff);filter:drop-shadow(0 0 10px rgba(255,79,163,.7))}
+.apr-layer{position:fixed;inset:0;z-index:8000;pointer-events:none;overflow:hidden}
+.apr-layer>*{position:absolute!important;left:0;top:0;margin:0!important;pointer-events:auto;cursor:grab;box-shadow:0 12px 34px rgba(0,0,0,.55);will-change:transform;user-select:none;animation:none!important;transition:none!important}
+`;
+let btn=null,on=false,raf=0,hopRaf=0,engine=null,layer=null,items=[],mouse=null,obs=null,swaps=[],texts=[],busy=false,title0='';
+const $=s=>document.querySelector(s);
+const LOGO='<span class="schl"><b>schlager</b><i>♥</i><b>wien</b></span>';
+/* --- rave.wien → schlager.wien, überall --- */
+function swap(){if(!on)return;
+ document.querySelectorAll('.brand>span:not(.astro):not([data-apr]), .wbrand:not([data-apr])').forEach(e=>{if(!/rave/.test(e.textContent))return;swaps.push([e,e.innerHTML]);e.dataset.apr=1;e.innerHTML=LOGO});
+ const tw=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);let n;while(n=tw.nextNode()){if(/rave\.wien/i.test(n.nodeValue)&&!n.parentElement.closest('script,style,.schl,a[href]')){texts.push([n,n.nodeValue]);n.nodeValue=n.nodeValue.replace(/rave\.wien/gi,'schlager.wien')}}
+ if(!/schlager/.test(document.title)){document.title=document.title.replace(/rave\.wien/gi,'schlager.wien')}}
+/* --- Astronaut springt aus dem Logo und hüpft über die Seite --- */
+function hop(){const src=$('.brand .astro');if(!src)return null;const r=src.getBoundingClientRect(),m=getComputedStyle(src);const el=document.createElement('div');el.className='apr-hop';
+ el.innerHTML='<span class="bub">Fang mich!</span><span class="a"></span>';el.setAttribute('role','button');el.setAttribute('aria-label','Fang mich – Spaß ausschalten');el.tabIndex=0;
+ const a=el.lastChild;a.style.webkitMask=m.webkitMask||m.mask;a.style.mask=m.mask||m.webkitMask;a.style.webkitMaskSize='100% 100%';a.style.maskSize='100% 100%';document.body.append(el);
+ const off=e=>{e.preventDefault();e.stopPropagation();if(btn)btn.click();else stop();aus(1)};el.addEventListener('pointerdown',off);el.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' ')off(e)});
+ const big=Math.max(1.9,Math.min(2.6,innerWidth/560)),ratio=r.height/r.width;let x=r.left,y=r.top,vy=-9,vx=2.6,sc=1,last=performance.now(),plats=[],pt=0,through=false;
+ const scan=()=>{plats=[];document.querySelectorAll('header,.brand,aside,section,#out .row,.apr-layer>*').forEach(e=>{if(e.closest('.apr-hop'))return;const q=e.getBoundingClientRect();if(q.width>60&&q.top>40&&q.top<innerHeight-30)plats.push(q)})};
+ const step=now=>{const dt=Math.min(40,now-last)/16.7;last=now;const H=innerHeight,W=innerWidth,w=r.width*sc,h=w*ratio;
+  if(now-pt>400){pt=now;scan()}
+  sc+=(big-sc)*.03*dt;vy+=.5*dt;const y0=y+h;x+=vx*dt;y+=vy*dt;let land=false;
+  if(vy>0&&!through){const cx=x+w/2;for(const q of plats){if(y0<=q.top+2&&y+h>=q.top&&cx>q.left&&cx<q.right){y=q.top-h;land=true;break}}}
+  if(y+h>H-4){y=H-4-h;land=true}
+  if(land){const k=Math.random();vy=-(k<.3?7:k<.75?12:17);through=Math.random()<.28;if(Math.random()<.12)vx=-vx}
+  if(x<0){x=0;vx=Math.abs(vx)}if(x+w>W){x=W-w;vx=-Math.abs(vx)}if(y<0&&vy<0)vy=1;
+  el.style.width=w+'px';el.style.transform=`translate(${x}px,${y}px)`;a.style.transform=`scaleX(${vx>0?1:-1}) rotate(${Math.max(-14,Math.min(14,vy*1.2))}deg)`;
+  el.classList.toggle('l',x+w/2>W-170);
+  hopRaf=requestAnimationFrame(step)};hopRaf=requestAnimationFrame(step);return el}
+/* --- Detailkarte öffnet sich und fällt dann herunter (nur Desktop) --- */
+function loadMatter(){return new Promise((ok,no)=>{if(window.Matter)return ok();const s=document.createElement('script');s.src='vendor/matter.min.js?v=0.19.0';s.onload=ok;s.onerror=no;document.head.append(s)})}
+function world(){const M=Matter,W=innerWidth,H=innerHeight;engine=M.Engine.create();engine.gravity.y=1;
+ const wall=(x,y,w,h)=>M.Bodies.rectangle(x,y,w,h,{isStatic:true,friction:.6});
+ M.Composite.add(engine.world,[wall(W/2,H+40,W*3,80),wall(-40,H/2,80,H*6),wall(W+40,H/2,80,H*6)]);
+ layer=document.createElement('div');layer.className='apr-layer';document.body.append(layer);
+ mouse=M.Mouse.create(document.body);['wheel','mousewheel','DOMMouseScroll'].forEach(t=>document.body.removeEventListener(t,mouse.mousewheel));
+ M.Composite.add(engine.world,M.MouseConstraint.create(engine,{mouse,constraint:{stiffness:.18,damping:.1}}));
+ let last=performance.now();const tick=now=>{if(!engine)return;const dt=Math.min(33,now-last);last=now;M.Engine.update(engine,dt);
+  for(const it of items)it.c.style.transform=`translate(${it.b.position.x-it.w/2}px,${it.b.position.y-it.h/2}px) rotate(${it.b.angle}rad)`;raf=requestAnimationFrame(tick)};raf=requestAnimationFrame(tick)}
+async function fall(card){if(!on||busy||innerWidth<880||matchMedia('(prefers-reduced-motion: reduce)').matches)return;busy=true;
+ try{await loadMatter();await new Promise(r=>setTimeout(r,650));
+  if(!on||!card.isConnected||!card.classList.contains('front')){busy=false;return}
+  if(!engine)world();const M=Matter,r=card.getBoundingClientRect(),c=card.cloneNode(true);c.removeAttribute('id');c.classList.remove('front');c.querySelectorAll('[id]').forEach(e=>e.removeAttribute('id'));
+  c.style.width=r.width+'px';c.style.height=r.height+'px';c.style.overflow='hidden';c.style.transform=`translate(${r.left}px,${r.top}px)`;layer.append(c);
+  const cl=card.querySelector('.close');if(cl)cl.click();
+  const b=M.Bodies.rectangle(r.left+r.width/2,r.top+r.height/2,r.width,r.height,{restitution:.28,friction:.4,frictionAir:.004,density:.002,chamfer:{radius:8}});
+  M.Body.setAngularVelocity(b,(Math.random()<.5?-1:1)*(.05+Math.random()*.05));M.Body.setVelocity(b,{x:(Math.random()-.5)*8,y:-9});M.Composite.add(engine.world,b);items.push({c,b,w:r.width,h:r.height});
+  while(items.length>5){const o=items.shift();M.Composite.remove(engine.world,o.b);o.c.remove()}
+ }catch(e){console.error(e)}busy=false}
+function watch(){obs=new MutationObserver(ms=>{if(!on)return;clearTimeout(watch.t);watch.t=setTimeout(swap,120);
+ for(const m of ms){if(m.type==='attributes'){const t=m.target;if(t.classList&&t.classList.contains('deck')&&t.classList.contains('front')&&!t.classList.contains('empty')&&!t.closest('.apr-layer')&&m.oldValue!==null&&!/\bfront\b/.test(m.oldValue||''))fall(t)}
+  for(const n of m.addedNodes||[])if(n.nodeType===1&&n.classList.contains('deck')&&n.classList.contains('front')&&!n.classList.contains('empty')&&!n.closest('.apr-layer'))fall(n)}});
+ obs.observe(document.body,{childList:true,subtree:true,attributes:true,attributeFilter:['class'],attributeOldValue:true})}
+function reset(){cancelAnimationFrame(raf);if(mouse){['mousemove','mousedown','mouseup','touchmove','touchstart','touchend'].forEach(t=>document.body.removeEventListener(t,mouse[t]))}
+ engine=null;mouse=null;items=[];if(layer)layer.remove();layer=null;busy=false}
+let hopEl=null;
+function start(){on=true;title0=document.title;document.documentElement.classList.add('april');swap();watch();
+ if(!matchMedia('(prefers-reduced-motion: reduce)').matches)hopEl=hop()}
+function stop(){on=false;if(obs)obs.disconnect();obs=null;document.documentElement.classList.remove('april');
+ swaps.forEach(([e,h])=>{if(e.isConnected){e.innerHTML=h;delete e.dataset.apr}});swaps=[];texts.forEach(([n,v])=>{if(n.isConnected)n.nodeValue=v});texts=[];document.title=title0||document.title;
+ cancelAnimationFrame(hopRaf);if(hopEl)hopEl.remove();hopEl=null;reset()}
+const init=()=>{const st=document.createElement('style');st.textContent=CSS;document.head.append(st);
+ if(!LIVE){btn=document.createElement('button');btn.type='button';btn.className='apr-btn';btn.setAttribute('aria-pressed','false');btn.textContent='1. April testen';document.body.append(btn);
+  btn.addEventListener('click',()=>{if(on){stop();btn.textContent='1. April testen';btn.setAttribute('aria-pressed','false')}else{start();btn.textContent='Spaß aus';btn.setAttribute('aria-pressed','true')}})}
+ if(AUTO&&!(aus()&&!TEST))setTimeout(()=>{if(btn)btn.click();else start()},400)};
+if(document.readyState==='loading')addEventListener('DOMContentLoaded',init);else init();
+}catch(e){console.error(e)}})();
+</script>
 
 <script>
 const VRULES=typeof VR!=="undefined"?VR:{};const SORG=typeof SO!=="undefined"?SO:[];const CGEN=typeof CG!=="undefined"?CG:{};
