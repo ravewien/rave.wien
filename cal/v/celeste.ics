@@ -102,6 +102,21 @@ DESCRIPTION:Ambient Animal\, Tanja Turner\nVeranstalter: sama recordings\
 URL:https://rave.wien/e/2026-12-19-sama-recordings-pres-schweben
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-24-between-us-x-emdb@rave.wien
+DTSTAMP:20270124T000000Z
+DTSTART;TZID=Europe/Vienna:20270124T220000
+DTEND;TZID=Europe/Vienna:20270125T030000
+SUMMARY:Between us x EMDB
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Alexandra Marr\, Boogaloo Steve\, Flying Horstman\nVeranstalt
+ er: Between Us\, EMDB\n\nClubnacht von Between us gemeinsam mit EMDB im 
+ Celeste an einem Sonntag ab 22:00. Angekündigt sind Alexandra Marr\, Bo
+ ogaloo Steve und Flying Horstman. Weitere Angaben zu Ende\, Preis und Ti
+ ckets liegen noch nicht vor.\n\nhttps://rave.wien/e/2027-01-24-between-u
+ s-x-emdb
+URL:https://rave.wien/e/2027-01-24-between-us-x-emdb
+END:VEVENT
+BEGIN:VEVENT
 UID:2024-02-10-fixstern-50x-paul-raal@rave.wien
 DTSTAMP:20240210T000000Z
 DTSTART;VALUE=DATE:20240210

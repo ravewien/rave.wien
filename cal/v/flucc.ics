@@ -387,6 +387,25 @@ DESCRIPTION:Veranstalter: Callshop Radio\, Spumante Records\nEintritt fre
 URL:https://rave.wien/e/2026-12-27-flut-x-callshop-radio-week-52
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-03-13-twocolors-under-my-skin-live-2027@rave.wien
+DTSTAMP:20270313T000000Z
+DTSTART;TZID=Europe/Vienna:20270313T200000
+DTEND;TZID=Europe/Vienna:20270314T010000
+SUMMARY:twocolors – Under My Skin – Live 2027
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:twocolors\nVeranstalter: Barracuda Music\nEintritt: VVK 33\,4
+ 9 €\n\nDas Berliner Dance-Duo twocolors kommt mit seiner ersten eigene
+ n Europa-Tour „Under My Skin – Live 2027“ ins FLUCC. Zwischen 5. u
+ nd 21. März 2027 spielt das Duo zehn Clubshows in Deutschland\, den Nie
+ derlanden\, Polen\, Tschechien\, Österreich und der Schweiz. Laut Ankü
+ ndigung gibt es eine Mischung aus Dance\, Pop und elektronischer Clubmus
+ ik in einem intimen Live-Setting. Bekannt wurde das Duo 2020 mit der Neu
+ interpretation von „Lovefool“\; 2026 erschien die EP „Cycle 1“. 
+ Einlass 19:00\, Beginn 20:00.\n\nhttps://rave.wien/e/2027-03-13-twocolor
+ s-under-my-skin-live-2027
+URL:https://rave.wien/e/2027-03-13-twocolors-under-my-skin-live-2027
+END:VEVENT
+BEGIN:VEVENT
 UID:2024-05-03-echosphere-pres-rugrats-looney-moon-rec@rave.wien
 DTSTAMP:20240503T000000Z
 DTSTART;VALUE=DATE:20240503

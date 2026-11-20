@@ -106,6 +106,21 @@ DESCRIPTION:Wisteria\, Hawara\, Miss Undertaker\, Brida\, Ones\, R2D3\nVe
 URL:https://rave.wien/e/2026-12-11-homesounds-local-djs-for-local-homeless
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-31-psyjungle-new-year-s-eve@rave.wien
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Vienna:20261231T220000
+DTEND;TZID=Europe/Vienna:20270101T060000
+SUMMARY:PsyJungle New Year's Eve
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:Ananda\, Lee U Mash\, Petronik\, Progtamin\nVeranstalter: Nac
+ htAktiv\n\nSilvesternacht der Reihe PsyJungle von NachtAktiv im Loop in 
+ den Stadtbahnbögen. Laut goabase spielen Ananda\, Lee U Mash\, Petronik
+  und Progtamin\, dazu der Gewinner bzw. die Gewinnerin eines DJ-Contests
+ . Die Party läuft von 22:00 bis 06:00. Preis und Tickets sind noch nich
+ t angegeben.\n\nhttps://rave.wien/e/2026-12-31-psyjungle-new-year-s-eve
+URL:https://rave.wien/e/2026-12-31-psyjungle-new-year-s-eve
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-black-signal@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T233000

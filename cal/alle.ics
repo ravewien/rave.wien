@@ -376,6 +376,24 @@ DESCRIPTION:Ricky Chong\, Franco\nVeranstalter: The House of Funk\nEintri
 URL:https://rave.wien/e/2026-11-20-the-house-of-funk-presents-ricky-chong
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-20-forbidden-frequency@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T234500
+DTEND;TZID=Europe/Vienna:20261121T050000
+SUMMARY:Forbidden Frequency
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:CRASTY\, Plastiksackerl\, DJ Bügelbrett\, Schmeckes\, HALO\n
+ Veranstalter: Forbidden Frequency\n\nDas Wiener Kollektiv Forbidden Freq
+ uency bringt seine Reihe in den Kramladen am Gürtel. Laut Veranstalter 
+ führt die Nacht durch House\, Techno und Trance – von groovigen House
+ -Sets über druckvollen Techno bis zu euphorischen Trance-Momenten. Es s
+ pielen lokale Artists und Residents des Kollektivs nach festem Timetable
+  von 23:45 bis 5:00 Uhr.\n\nhttps://rave.wien/e/2026-11-20-forbidden-fre
+ quency
+URL:https://rave.wien/e/2026-11-20-forbidden-frequency
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-20-glitch-vienna-001@rave.wien
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Vienna:20261120T235900
@@ -3035,6 +3053,21 @@ DESCRIPTION:Veranstalter: AWSM\nEintritt: ab ca. 20 € (je nach Ticketka
 URL:https://rave.wien/e/2026-12-31-awsm-nye-skyline-edition
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-31-psyjungle-new-year-s-eve@rave.wien
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Vienna:20261231T220000
+DTEND;TZID=Europe/Vienna:20270101T060000
+SUMMARY:PsyJungle New Year's Eve
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:Ananda\, Lee U Mash\, Petronik\, Progtamin\nVeranstalter: Nac
+ htAktiv\n\nSilvesternacht der Reihe PsyJungle von NachtAktiv im Loop in 
+ den Stadtbahnbögen. Laut goabase spielen Ananda\, Lee U Mash\, Petronik
+  und Progtamin\, dazu der Gewinner bzw. die Gewinnerin eines DJ-Contests
+ . Die Party läuft von 22:00 bis 06:00. Preis und Tickets sind noch nich
+ t angegeben.\n\nhttps://rave.wien/e/2026-12-31-psyjungle-new-year-s-eve
+URL:https://rave.wien/e/2026-12-31-psyjungle-new-year-s-eve
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-31-new-year-s-eve@rave.wien
 DTSTAMP:20261231T000000Z
 DTSTART;TZID=Europe/Vienna:20261231T230000
@@ -3146,6 +3179,21 @@ DESCRIPTION:\nWeitere Ausgabe von BASS BUSSI im The Loft auf den Floors O
  Lineup und Eintritt sind noch „tba“. Reservierungen laufen über den
   Stager-Shop des Loft.\n\nhttps://rave.wien/e/2027-01-22-bass-bussi
 URL:https://rave.wien/e/2027-01-22-bass-bussi
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-24-between-us-x-emdb@rave.wien
+DTSTAMP:20270124T000000Z
+DTSTART;TZID=Europe/Vienna:20270124T220000
+DTEND;TZID=Europe/Vienna:20270125T030000
+SUMMARY:Between us x EMDB
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Alexandra Marr\, Boogaloo Steve\, Flying Horstman\nVeranstalt
+ er: Between Us\, EMDB\n\nClubnacht von Between us gemeinsam mit EMDB im 
+ Celeste an einem Sonntag ab 22:00. Angekündigt sind Alexandra Marr\, Bo
+ ogaloo Steve und Flying Horstman. Weitere Angaben zu Ende\, Preis und Ti
+ ckets liegen noch nicht vor.\n\nhttps://rave.wien/e/2027-01-24-between-u
+ s-x-emdb
+URL:https://rave.wien/e/2027-01-24-between-us-x-emdb
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-paradise-winter-festival-2027-nacht-1@rave.wien
@@ -3404,6 +3452,25 @@ DESCRIPTION:\nBASS BUSSI im The Loft auf den Floors Oben und Unten\, Begi
  nn 23:00. Die Location taggt den Abend mit Trance\; Lineup und Eintritt 
  sind noch „tba“.\n\nhttps://rave.wien/e/2027-03-12-bass-bussi
 URL:https://rave.wien/e/2027-03-12-bass-bussi
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-twocolors-under-my-skin-live-2027@rave.wien
+DTSTAMP:20270313T000000Z
+DTSTART;TZID=Europe/Vienna:20270313T200000
+DTEND;TZID=Europe/Vienna:20270314T010000
+SUMMARY:twocolors – Under My Skin – Live 2027
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:twocolors\nVeranstalter: Barracuda Music\nEintritt: VVK 33\,4
+ 9 €\n\nDas Berliner Dance-Duo twocolors kommt mit seiner ersten eigene
+ n Europa-Tour „Under My Skin – Live 2027“ ins FLUCC. Zwischen 5. u
+ nd 21. März 2027 spielt das Duo zehn Clubshows in Deutschland\, den Nie
+ derlanden\, Polen\, Tschechien\, Österreich und der Schweiz. Laut Ankü
+ ndigung gibt es eine Mischung aus Dance\, Pop und elektronischer Clubmus
+ ik in einem intimen Live-Setting. Bekannt wurde das Duo 2020 mit der Neu
+ interpretation von „Lovefool“\; 2026 erschien die EP „Cycle 1“. 
+ Einlass 19:00\, Beginn 20:00.\n\nhttps://rave.wien/e/2027-03-13-twocolor
+ s-under-my-skin-live-2027
+URL:https://rave.wien/e/2027-03-13-twocolors-under-my-skin-live-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-13-psytrance-werk@rave.wien
