@@ -139,6 +139,23 @@ DESCRIPTION:Acidic Juice\, Chakabalara\, NOTYOURORDINARY\nVeranstalter: A
 URL:https://rave.wien/e/2026-12-18-acidic-juice-x-notyourordinary-live
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-18-technolog@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Techflex\nVeranstalter: technolog\n\nDas Wiener DJ-Kollektiv 
+ technolog lädt wieder zu seiner Clubnacht in den Kramladen. Als Special
+  Guest kündigt technolog Techflex an\, der u. a. mit den Labels Shadow 
+ State und Naked Lunch verbunden ist. Das Kollektiv spielt Techno von tie
+ f-harmonisch bis dunkel-industriell. Weitere Acts\, Zeiten und Preise si
+ nd noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-18-technol
+ og
+URL:https://rave.wien/e/2026-12-18-technolog
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-02-06-progressive-madness@rave.wien
 DTSTAMP:20270206T000000Z
 DTSTART;TZID=Europe/Vienna:20270206T235900
@@ -153,6 +170,21 @@ DESCRIPTION:Monofade\, Niko Garcia\, Fede Frostl\nEintritt frei\n\nDer Kr
  Rhythmen und hypnotischen Grooves. Beginn 23:59\, Ende 6 Uhr\, Eintritt 
  frei.\n\nhttps://rave.wien/e/2027-02-06-progressive-madness
 URL:https://rave.wien/e/2027-02-06-progressive-madness
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-06-technolog@rave.wien
+DTSTAMP:20270306T000000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nClubnacht des Wiener DJ-Kollektivs
+  technolog im Kramladen\, angekündigt im Terminplan auf der Website des
+  Kollektivs. technolog spielt Techno von tief-harmonisch bis dunkel-indu
+ striell. Lineup\, Zeiten und Preise sind noch nicht veröffentlicht.\n\n
+ https://rave.wien/e/2027-03-06-technolog
+URL:https://rave.wien/e/2027-03-06-technolog
 END:VEVENT
 BEGIN:VEVENT
 UID:2024-01-05-schroedinger-s-groove-resolution@rave.wien

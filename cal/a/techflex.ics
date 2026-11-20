@@ -26,6 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-18-technolog@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Techflex\nVeranstalter: technolog\n\nDas Wiener DJ-Kollektiv 
+ technolog lädt wieder zu seiner Clubnacht in den Kramladen. Als Special
+  Guest kündigt technolog Techflex an\, der u. a. mit den Labels Shadow 
+ State und Naked Lunch verbunden ist. Das Kollektiv spielt Techno von tie
+ f-harmonisch bis dunkel-industriell. Weitere Acts\, Zeiten und Preise si
+ nd noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-18-technol
+ og
+URL:https://rave.wien/e/2026-12-18-technolog
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-23-konzept-techno-experience@rave.wien
 DTSTAMP:20261023T000000Z
 DTSTART;TZID=Europe/Vienna:20261023T233000

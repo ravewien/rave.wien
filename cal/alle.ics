@@ -2951,6 +2951,23 @@ URL:https://rave.wien/e/2026-12-18-vvax-vinyl-only-techno-1-year-annivers
  ary
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-18-technolog@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Techflex\nVeranstalter: technolog\n\nDas Wiener DJ-Kollektiv 
+ technolog lädt wieder zu seiner Clubnacht in den Kramladen. Als Special
+  Guest kündigt technolog Techflex an\, der u. a. mit den Labels Shadow 
+ State und Naked Lunch verbunden ist. Das Kollektiv spielt Techno von tie
+ f-harmonisch bis dunkel-industriell. Weitere Acts\, Zeiten und Preise si
+ nd noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-18-technol
+ og
+URL:https://rave.wien/e/2026-12-18-technolog
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-19-du-tanzt-mich-mal-winter-open-air-punsch-rave@rave.wien
 DTSTAMP:20261219T000000Z
 DTSTART;TZID=Europe/Vienna:20261219T160000
@@ -3140,6 +3157,21 @@ DESCRIPTION:MAWU\nVeranstalter: AWSM\nEintritt: 25–35 € zzgl. Gebühr
  \, Dresscode classy/schick\; der Bus 38A fährt in der Nacht nicht.\n\nh
  ttps://rave.wien/e/2026-12-31-awsm-nye-skyline-edition
 URL:https://rave.wien/e/2026-12-31-awsm-nye-skyline-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-the-grand-nye@rave.wien
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Vienna:20261231T200000
+DTEND;TZID=Europe/Vienna:20270101T050000
+SUMMARY:The Grand NYE
+LOCATION:Schloss Cobenzl\, Am Cobenzl 94\, 1190 Wien
+DESCRIPTION:Veranstalter: KSOT\nEintritt: VVK ab 20 €\n\nSilvester-Rave
+  von KSOT (Kein Sonntag ohne Techno) im Schloss Cobenzl. Laut Veranstalt
+ er kehrt damit die jährliche Silvester-Tradition von KSOT zurück – h
+ och über Wien\, umgeben von den Weinbergen und mit Blick über die ganz
+ e Stadt. Gefeiert wird von 20 Uhr bis 5 Uhr früh. Ein Lineup ist noch n
+ icht bekannt.\n\nhttps://rave.wien/e/2026-12-31-the-grand-nye
+URL:https://rave.wien/e/2026-12-31-the-grand-nye
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-psyjungle-new-year-s-eve@rave.wien
@@ -3616,6 +3648,36 @@ DESCRIPTION:Veranstalter: FromDuskTillDawn\n\nJubiläumsparty zu 20 Jahre
  s Sonntagmittag. Location und Line-up sind noch nicht bekannt.\n\nhttps:
  //rave.wien/e/2027-03-06-20-yrs-cosmic-space-disco
 URL:https://rave.wien/e/2027-03-06-20-yrs-cosmic-space-disco
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-06-fractal-fusion@rave.wien
+DTSTAMP:20270306T000000Z
+DTSTART;TZID=Europe/Vienna:20270306T230000
+DTEND;TZID=Europe/Vienna:20270307T060000
+SUMMARY:Fractal Fusion
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:EJCZKA\nVeranstalter: Fractal Fusion\, Nasty Connexion\n\nNeu
+ er Termin der Partyreihe FRACTAL FUSION im Weberknecht am Lerchenfelder 
+ Gürtel\, veranstaltet von Nasty Connexion. Am Pult steht EJCZKA (Ufo Bu
+ fo)\, die Deko gestaltet CYREAL (Ufo Bufo). Laut Goabase handelt es sich
+  um einen Clubabend von 23 bis 6 Uhr.\n\nhttps://rave.wien/e/2027-03-06-
+ fractal-fusion
+URL:https://rave.wien/e/2027-03-06-fractal-fusion
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-06-technolog@rave.wien
+DTSTAMP:20270306T000000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:technolog
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: technolog\n\nClubnacht des Wiener DJ-Kollektivs
+  technolog im Kramladen\, angekündigt im Terminplan auf der Website des
+  Kollektivs. technolog spielt Techno von tief-harmonisch bis dunkel-indu
+ striell. Lineup\, Zeiten und Preise sind noch nicht veröffentlicht.\n\n
+ https://rave.wien/e/2027-03-06-technolog
+URL:https://rave.wien/e/2027-03-06-technolog
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-12-bass-bussi@rave.wien

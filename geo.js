@@ -28,6 +28,7 @@ const GEO2={
 "Pratersauna":[48.21326,16.40491],
 "Pyramide Vösendorf":[48.1123,16.31312],
 "Rhiz":[48.21076,16.33907],
+"Schloss Cobenzl":[48.26338,16.32057],
 "Semmelweisklinik":[48.2365,16.32139],
 "Stiftskeller Klosterneuburg":[48.30654,16.32437],
 "The Chamber":[48.21469,16.34129],
