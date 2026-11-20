@@ -1147,10 +1147,12 @@ const CG={
  ],
  "SHPILKI": [
   "Electro",
-  "House"
+  "House",
+  "Tech House"
  ],
  "BARVY": [
-  "Tech House"
+  "Tech House",
+  "Electro"
  ],
  "Let It Roll": [
   "Drum & Bass"
@@ -1169,6 +1171,12 @@ const CG={
  "March of the Machines": [
   "Drum & Bass",
   "Dubstep"
+ ],
+ "Sniffin´ Glue": [
+  "Minimal Wave",
+  "Synth Wave",
+  "Cold Wave",
+  "Post-Punk"
  ]
 };
 const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","909techno","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","ALERT[A] Vienna","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","Art Attech","AUDIO303","Auf der Lauer","Ausländer Haus","AWSM","Barracuda Music","BARVY","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","BASST SCHO","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","Bionic Ritual","BLUR","Bonkers","Booster Club","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Crossover","Cybertribe","Cyclic Existence","Dance 2 House","Dance Spirit Events","Danza Obscura","Dark Pressure","Das Syndikat","DEAD END","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","EMDB","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exceso","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Forbidden Frequency","Fourcast","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Homesounds","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","It's George","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Klanggerecht","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","March of the Machines","Meier","MEIOSISS","Melodic Monday","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Modulate","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Opération","Out of Space","Oxygene","Palazzo Recordings","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PURRR","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","shared frequencies","SHPILKI","SIGNAL","SIN","Slutlabs","Sniffin´ Glue","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","SWEAT","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","TECHNOLOT","The Academy","The Hive","The House of Funk","the zound partisans","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Ungeniert","Uniquely Journeys","Unkwn","unlock|me","Unstoppable Organizerteam","Untz Baby Untz","up/or","Vangardist","Ventil Records","Verknallt","Vertigo","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wums","Wyldhearts","Xperiment","Xperiment Records","YE","YN","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
@@ -53152,12 +53160,20 @@ const AR={
   ],
   "src": [
    "https://www.b4l.cz/en/lineup/mozey-gb/",
-   "https://ra.co/dj/mozey"
+   "https://ra.co/dj/mozey",
+   "https://koolfm.bandcamp.com/album/cowboys-on-mars"
   ],
   "setsChecked": "2026-11-20",
   "spChk": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Kool",
+   "Souped Up Records"
+  ]
  },
  "Sliqx": {
   "links": {
@@ -53208,12 +53224,27 @@ const AR={
    "en": "Austria"
   },
   "src": [
-   "https://www.regioactive.de/konzert/beaks-at-hamburg-ms-stubnitz-2026-12-16-krl4bcbpKf"
+   "https://www.regioactive.de/konzert/beaks-at-hamburg-ms-stubnitz-2026-12-16-krl4bcbpKf",
+   "https://powerline-agency.com/artists/beaks",
+   "https://www.thelineofbestfit.com/news/beaks-reveals-plans-for-debut-album-aldie",
+   "https://kollektiv-kaorle.at/events/beaks-21-11-2026"
   ],
   "spChk": "2026-11-20",
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "img": "https://powerline-agency.com/wp-content/uploads/2024/08/Alicia-Nieto_Beaks2.jpeg",
+  "bio": {
+   "de": "Beaks ist das Projekt der Wiener experimentellen Post-Punk-Künstlerin und Autorin Anna Francesca. Ihre Debütsingle „I Dropped the Bottle“ (2023) erreichte über vier Millionen Streams, es folgten Tourneen nach London, Tokio und Berlin. Ihr erstes Album „ALDIE“, produziert mit Markus Windisch, erscheint im November 2026 bei dottidot und verbindet Indie, Pop, Punk und elektronische Musik.",
+   "en": "Beaks is the project of Vienna-based experimental post-punk artist and writer Anna Francesca. Her 2023 debut single 'I Dropped the Bottle' passed four million streams, followed by tours in London, Tokyo and Berlin. Her first album ALDIE, produced with Markus Windisch, is out in November 2026 on dottidot and blends indie, pop, punk and electronic music."
+  },
+  "genres": [
+   "Post-Punk",
+   "Indie"
+  ],
+  "labels": [
+   "dottidot"
+  ]
  },
  "Reeno Reluv": {
   "links": {
@@ -53247,12 +53278,20 @@ const AR={
   "setsChecked": "2026-11-20",
   "spChk": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "House",
+   "Footwork"
+  ]
  },
  "DJ Soup": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "genres": [
+   "House",
+   "Footwork"
+  ]
  },
  "VYKT": {
   "links": {
@@ -53260,12 +53299,20 @@ const AR={
   },
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "House",
+   "Tech House"
+  ]
  },
  "LAVO": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "genres": [
+   "House",
+   "Tech House"
+  ]
  },
  "ALYF": {
   "links": {
@@ -53275,13 +53322,35 @@ const AR={
    "https://ra.co/dj/alyf"
   ],
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "House",
+   "Tech House"
+  ]
  },
  "Trinix": {
   "spChk": "2026-11-20",
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "img": "https://www.wuk.at/fileadmin/_processed_/b/1/csm_Pressefoto_TRINIX_2026__c__ARBEZ_Guillaume_artbezg_01_0af0fb82a1.jpg",
+  "links": {
+   "sp": "https://open.spotify.com/artist/1j8MiYpcWXRVrPQxxdoSAg"
+  },
+  "bio": {
+   "de": "Französisches Electro-DJ-Duo mit über einer Milliarde Streams. 2025 spielten TRINIX ein ausverkauftes Zénith in Paris und veröffentlichten das Album „Origin“; die Single „Vaitimbora“ kam in die Top 10 von Shazam Global, „Emorio“ erhielt Platin. Das Duo trat u. a. bei Tomorrowland, Solidays und Paléo auf.",
+   "en": "French electro DJ duo with more than a billion streams. In 2025 TRINIX sold out the Zénith in Paris and released the album Origin; the single 'Vaitimbora' reached the Shazam Global top 10 and 'Emorio' went platinum. The duo has played Tomorrowland, Solidays and Paléo, among others."
+  },
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "genres": [
+   "Electro"
+  ],
+  "src": [
+   "https://www.wuk.at/programm/trinix/"
+  ]
  },
  "HYSTERIE": {
   "links": {
@@ -53290,7 +53359,11 @@ const AR={
   },
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "Breakbeat",
+   "Techno"
+  ]
  },
  "Nakrasia": {
   "links": {
@@ -53312,22 +53385,41 @@ const AR={
    }
   ],
   "src": [
-   "https://ra.co/dj/nakrasia"
+   "https://ra.co/dj/nakrasia",
+   "https://telekomspots.hu/en/performers/974/nakrasia"
   ],
   "setsChecked": "2026-11-20",
   "spChk": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "bio": {
+   "de": "Queerer DJ, der in den letzten Jahren regelmäßig auflegt und bereits Showcases mit Bassiani, Kidi und Herrensauna sowie beim Sziget Festival neben Jeff Mills, Ben Klock und Fjaak gespielt hat. Sein energiegeladener Stil baut auf Hardgroove auf, gemischt mit Breakbeat, Acid und tranceartigen Melodien.",
+   "en": "Queer DJ who has played regularly in recent years, with showcases alongside Bassiani, Kidi and Herrensauna and a Sziget Festival slot next to Jeff Mills, Ben Klock and Fjaak. His energetic, uplifting style is built around hardgroove mixed with breakbeat, acid and trancey melodies."
+  },
+  "genres": [
+   "Hardgroove",
+   "Breakbeat",
+   "Techno",
+   "Acid"
+  ]
  },
  "Marco Manaco": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "genres": [
+   "Tech House",
+   "Electro"
+  ]
  },
  "DJ Glebaty": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "genres": [
+   "Tech House",
+   "Electro"
+  ]
  },
  "Xeno & Oaklander": {
   "links": {
@@ -53339,7 +53431,20 @@ const AR={
   ],
   "spChk": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "img": "https://f4.bcbits.com/img/0048648595_23.jpg",
+  "bio": {
+   "de": "Minimal-Electronics-Duo aus Brooklyn, New York, bestehend aus Liz Wendelbo und Sean McBride (Martial Canterel). Seit dem Debüt „Vigils“ (2004, Xanten) prägen sie die analoge Synthesizer-Szene und haben mit ausgedehnten Tourneen und zahlreichen Veröffentlichungen das Synth-Wave-Revival in den USA und weltweit mitangestoßen.",
+   "en": "Minimal electronics duo from Brooklyn, New York, formed by Liz Wendelbo and Sean McBride (Martial Canterel). Active in the analog synth community since their 2004 debut Vigils on Xanten, they helped drive the synth wave revival in the US and worldwide through extensive touring and a prolific output."
+  },
+  "from": {
+   "de": "Brooklyn, New York",
+   "en": "Brooklyn, New York"
+  },
+  "genres": [
+   "Minimal Wave",
+   "Synth Wave"
+  ]
  },
  "RAIDO": {
   "infoChk": "2026-11-20",
