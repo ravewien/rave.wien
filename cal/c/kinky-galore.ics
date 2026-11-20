@@ -26,6 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2027-03-13-kinky-galore-wien@rave.wien
+DTSTAMP:20270313T000000Z
+DTSTART;TZID=Europe/Vienna:20270313T210000
+DTEND;TZID=Europe/Vienna:20270314T060000
+SUMMARY:KINKY GALORE Wien
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Jan Ehret\nVeranstalter: Kinky Galore\n\nDie sexpositive Part
+ yreihe Kinky Galore von DJ Jan Ehret kehrt nach der Ausgabe im Oktober 2
+ 026 im März 2027 ins Club Exil zurück. Nach langen Schlangen beim letz
+ ten Mal arbeitet das Team diesmal mit zwei unterschiedlichen Einlass-Zei
+ tslots\, die beim Ticketkauf gewählt werden. Es gilt ein strenger Dress
+ code\; bei Sold Out gibt es keinen Einlass ohne Ticket\, Weiterverkauf n
+ ur über TicketSwap. Wichtige Party-Infos werden eine Woche vorher per M
+ ail verschickt.\n\nhttps://rave.wien/e/2027-03-13-kinky-galore-wien
+URL:https://rave.wien/e/2027-03-13-kinky-galore-wien
+END:VEVENT
+BEGIN:VEVENT
 UID:2025-11-01-kinky-galore-wien@rave.wien
 DTSTAMP:20251101T000000Z
 DTSTART;VALUE=DATE:20251101
