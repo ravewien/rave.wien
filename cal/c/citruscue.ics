@@ -65,14 +65,19 @@ BEGIN:VEVENT
 UID:2026-11-29-hot-wet-x-citrus-cue-christmas-party@rave.wien
 DTSTAMP:20261129T000000Z
 DTSTART;TZID=Europe/Vienna:20261129T143000
-DTEND;TZID=Europe/Vienna:20261129T193000
+DTEND;TZID=Europe/Vienna:20261129T220000
 SUMMARY:HOT&WET x Citrus Cue Christmas Party
-DESCRIPTION:Veranstalter: CitrusCue\n\nWeihnachtliche Day-Party am Sonnta
- gnachmittag als Kooperation der Partyreihe Hot&Wet und des Wiener Kollek
- tivs CitrusCue. Eventfrog führt sie unter House & Techno\; der Veransta
- ltungsort wird noch angekündigt. Lineup und Preis sind noch nicht bekan
- nt\; die Detailseite war nicht abrufbar.\n\nhttps://rave.wien/e/2026-11-
- 29-hot-wet-x-citrus-cue-christmas-party
+DESCRIPTION:Veranstalter: CitrusCue\nEintritt frei (Gratis-Ticket nötig)
+ \n\nWeihnachtsfeier der Partyreihe Hot&Wet gemeinsam mit dem Wiener Koll
+ ektiv CitrusCue am Sonntagnachmittag\, verbunden mit einem Video-Recordi
+ ng im Studio von CitrusCue im 12. Bezirk. Einlass ab 14 Uhr\, Programm 1
+ 4:30 bis maximal 22 Uhr. Da höchstens 50 Personen zugelassen sind\, gib
+ t es kostenlose Tickets über Eventfrog (first come\, first served\; Ver
+ kauf bis Samstag 28.11.\, 12 Uhr) – Einlass nur mit Ticket\, die genau
+ e Adresse erhalten Ticketinhaber. Getränke gibt es gegen freie Spende\,
+  Mitbringen ist erwünscht. Eventfrog führt das Event unter House & Tec
+ hno\; ein Lineup ist noch nicht veröffentlicht.\n\nhttps://rave.wien/e/
+ 2026-11-29-hot-wet-x-citrus-cue-christmas-party
 URL:https://rave.wien/e/2026-11-29-hot-wet-x-citrus-cue-christmas-party
 END:VEVENT
 END:VCALENDAR

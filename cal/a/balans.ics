@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:balans · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-16-sama-recordings-pres-schweben@rave.wien
+DTSTAMP:20261216T000000Z
+DTSTART;TZID=Europe/Vienna:20261216T190000
+DTEND;TZID=Europe/Vienna:20261216T230000
+SUMMARY:sama recordings pres. schweben
+LOCATION:Westbahn Studios\, Adresse noch TBA Wien
+DESCRIPTION:balans\, Grubi\nVeranstalter: sama recordings\nEintritt: 15
+ –20 € / Sozialticket 10 €\n\nAusgabe der Reihe s c h w e b e n des
+  Wiener Labels sama recordings an einem Mittwochabend in den Westbahn St
+ udios\, 19:00–23:00. Seit 2020 widmet sich die Reihe den eng verwobene
+ n Feldern zwischen Avantgarde-Pop\, elektronischer Clubmusik und experim
+ entellen Strömungen. Diesmal spielen zwei Live-Acts: das Ljubljaner Bun
+ kerpop-/Art-Punk-Duo balans (Andrej Pervanje und Kristin Čona\, seit 20
+ 13)\, das auf seinem achten Album zu seinen rohen Anfängen zurückkehrt
+ \, sowie Grubi aus Wien\, ein vom Solo-Projekt zum Bandkollektiv gewachs
+ ener Act mit basslastigem Post-Punk. Tickets über KUPFticket in drei St
+ ufen (Supporter 20 €\, Regular 15 €\, Social 10 €)\; die Veranstal
+ ter dulden kein diskriminierendes Verhalten.\n\nhttps://rave.wien/e/2026
+ -12-16-sama-recordings-pres-schweben
+URL:https://rave.wien/e/2026-12-16-sama-recordings-pres-schweben
+END:VEVENT
+END:VCALENDAR

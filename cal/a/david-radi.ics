@@ -29,7 +29,7 @@ BEGIN:VEVENT
 UID:2026-12-04-blur-with-doudou-md@rave.wien
 DTSTAMP:20261204T000000Z
 DTSTART;TZID=Europe/Vienna:20261204T230000
-DTEND;TZID=Europe/Vienna:20261205T040000
+DTEND;TZID=Europe/Vienna:20261205T050000
 SUMMARY:BLUR with Doudou MD
 LOCATION:PRST\, Praterstraße 18\, 1020 Wien
 DESCRIPTION:Doudou MD\, Chris Freud\, David Radi\, Matthias Kaiser\nVeran

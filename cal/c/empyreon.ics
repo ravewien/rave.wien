@@ -64,7 +64,7 @@ BEGIN:VEVENT
 UID:2027-03-05-empyreon-vol-vi@rave.wien
 DTSTAMP:20270305T000000Z
 DTSTART;TZID=Europe/Vienna:20270305T220000
-DTEND;TZID=Europe/Vienna:20270306T030000
+DTEND;TZID=Europe/Vienna:20270306T050000
 SUMMARY:Empyreon – Vol. VI
 LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
 DESCRIPTION:Veranstalter: Empyreon\nEintritt: Freie Spende\n\nSechste Aus

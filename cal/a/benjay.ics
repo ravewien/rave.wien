@@ -26,6 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-27-awsm-skyscraper-edition-extra-date@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T230000
+DTEND;TZID=Europe/Vienna:20261128T050000
+SUMMARY:AWSM. Skyscraper Edition (Extra Date)
+LOCATION:Altia Skybar – DC Tower\, Donau-City-Straße 7\, 1220 Wien
+DESCRIPTION:MAWU\, Benjay\nVeranstalter: AWSM\nEintritt: 35 € (letzte P
+ reisstufe\, zzgl. Tickethead-Gebühr)\n\nZusatztermin der ausverkauften 
+ AWSM. Skyscraper Edition vom 28.11.: Rooftop-Party in der Altia Skybar i
+ m 58. Stock des DC Tower mit Afro House und Melodic House\, 23:00–05:0
+ 0. Laut RA spielt MAWU\; die AWSM-Website nennt für den Zusatztermin no
+ ch kein Lineup. Tickets ab 30 € zzgl. Gebühr ausschließlich über Ti
+ ckethead\, ab 19 mit Ausweis\, Dresscode classy/smart.\n\nhttps://rave.w
+ ien/e/2026-11-27-awsm-skyscraper-edition-extra-date
+URL:https://rave.wien/e/2026-11-27-awsm-skyscraper-edition-extra-date
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-awsm-skyscraper-edition@rave.wien
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Vienna:20261128T230000

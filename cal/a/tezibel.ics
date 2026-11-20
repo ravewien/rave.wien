@@ -26,6 +26,22 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-12-redivider-pres-audrey-danza@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T230000
+DTEND;TZID=Europe/Vienna:20261213T060000
+SUMMARY:REDIVIDER pres. Audrey Danza
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Audrey Danza\, Apua\, DJ Deadlift\, Dreya\, Tezibel\nVeransta
+ lter: Redivider\n\nDie Wiener Techno-Reihe Redivider holt Audrey Danza i
+ ns PRST. Die Schweizer DJ ist mit Proxima und Motel Campo verbunden und 
+ spielt regelmäßig international\, u. a. in Turin und Köln. Dazu legen
+  Apua\, DJ Deadlift\, Dreya und Tezibel aus dem Redivider-Umfeld auf. Be
+ ginn 23:00\, Tickets über RA\; Preis und Ende sind noch offen.\n\nhttps
+ ://rave.wien/e/2026-12-12-redivider-pres-audrey-danza
+URL:https://rave.wien/e/2026-12-12-redivider-pres-audrey-danza
+END:VEVENT
+BEGIN:VEVENT
 UID:2024-07-26-grelle-forelle-sommerfest@rave.wien
 DTSTAMP:20240726T000000Z
 DTSTART;TZID=Europe/Vienna:20240726T230000

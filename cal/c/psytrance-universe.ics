@@ -28,14 +28,17 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-12-12-psytrance-universe-werk@rave.wien
 DTSTAMP:20261212T000000Z
-DTSTART;TZID=Europe/Vienna:20261212T220000
-DTEND;TZID=Europe/Vienna:20261213T120000
+DTSTART;TZID=Europe/Vienna:20261212T230000
+DTEND;TZID=Europe/Vienna:20261213T060000
 SUMMARY:Psytrance Universe @ Werk
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Veranstalter: FromDuskTillDawn\, Psytrance Universe\n\nPsytra
- nce-Nacht von FromDuskTillDawn im Werk\, die bis Sonntagmittag (12 Uhr) 
- läuft. Das Line-up ist noch nicht veröffentlicht.\n\nhttps://rave.wien
- /e/2026-12-12-psytrance-universe-werk
+ nce-Nacht der Reihe Psytrance Universe von FromDuskTillDawn im Werk. Lau
+ t aktualisiertem goabase-Eintrag läuft sie von Samstag 23:00 bis Sonnta
+ g 06:00\; electronicdancemusic.at führt sie ebenfalls mit 23:00–06:00
+  und verlinkt den Vorverkauf bei sunmoon.ticket.io. Das Lineup ist noch 
+ nicht veröffentlicht\, einen Preis nennen die lesbaren Quellen nicht.\n
+ \nhttps://rave.wien/e/2026-12-12-psytrance-universe-werk
 URL:https://rave.wien/e/2026-12-12-psytrance-universe-werk
 END:VEVENT
 BEGIN:VEVENT

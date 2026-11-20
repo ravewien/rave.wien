@@ -35,6 +35,7 @@ const LOGOBOX={
 "https://ponyhof-official.at/wp-content/uploads/2021/06/cropped-ponyhof_sticker_Black_rainbow-II-270x270.png":[270,270,49,52,220,223,"#ffffff"],
 "https://praterdome.at/media/default/_targets/override/images/praterdome-logo.png?v=1793200157":[2433,272,0,0,2433,272,"#000000"],
 "https://queertactics.at/wp-content/uploads/2025/10/queertactics_schriftzug_rot-scaled.png":[2560,320,0,7,2560,320,"#000000"],
+"https://rave.wien/logos/zuckerwatt.png":[600,788,18,18,582,770,"#000000"],
 "https://rhiz.wien/wp-content/uploads/2026/01/cropped-favicon-270x270.png":[270,270,0,0,270,270,"#ffffff"],
 "https://schoenborngasse.vbs.ac.at/wp-content/uploads/sites/14/2022/11/ottakringer-brauerei-logo-768x768.jpg":[768,768,0,0,768,768,"#b09000"],
 "https://static.ra.co/images/clubs/kramladen.jpeg?dateUpdated=1716563846587":[500,500,31,48,466,459,"#000000"],

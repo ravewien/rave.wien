@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Phaxe · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2027-01-29-paradise-winter-festival-2027-nacht-1@rave.wien
+DTSTAMP:20270129T000000Z
+DTSTART;TZID=Europe/Vienna:20270129T210000
+DTEND;TZID=Europe/Vienna:20270130T060000
+SUMMARY:Paradise Winter Festival 2027 – Nacht 1
+LOCATION:BC Vienna Arena\, Gutheil-Schoder-Gasse 9\, 1100 Wien
+DESCRIPTION:Astrix\, Blastoyz\, Phaxe\, Faders\, Klopfgeister\, Sonic Spe
+ cies\, Misaya\, Exelog\, Serex\, Oblix\, Progtamin\, Fullip\, Marakame\,
+  Bornvoyage\, Vibechen\, Hanneken\, Tolaris\, PA_olo\, Romen Est Omen\, 
+ Cougar\, Anatol\, Auroria\, Kayara\, Cheddar Boyz\, Synaptikon\nVeransta
+ lter: FromDuskTillDawn\n\nErste Nacht des Paradise Winter Festival 2027 
+ in der BC Vienna Arena (ehemals Hallmann Dome\, Gutheil-Schoder-Gasse 9\
+ , 1100 Wien)\, veranstaltet von FromDuskTillDawn. International angekün
+ digt sind Astrix\, Blastoyz\, Phaxe\, Faders\, Klopfgeister und Sonic Sp
+ ecies\, dazu rund 20 Acts aus Österreich\; auf welche der beiden Nächt
+ e sie verteilt sind\, ist noch nicht veröffentlicht. Zwei Stages auf 20
+ 00 m² mit großem Mainfloor\, Chill-out-Bereichen und einer zweiten Sta
+ ge für Psytrance und Progressive\, außerdem Food Corner und Shopping-B
+ ereich. Beginn jeweils 21:00\, keine durchgehende Veranstaltung\; Loyalt
+ y- und Early-Bird-Pässe sind ausverkauft\, der reguläre Wochenend-Fest
+ ivalpass ist im Verkauf. Eintritt ab 18 (Ausweis mitnehmen).\n\nhttps://
+ rave.wien/e/2027-01-29-paradise-winter-festival-2027-nacht-1
+URL:https://rave.wien/e/2027-01-29-paradise-winter-festival-2027-nacht-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-paradise-winter-festival-2027-nacht-2@rave.wien
+DTSTAMP:20270130T000000Z
+DTSTART;TZID=Europe/Vienna:20270130T210000
+DTEND;TZID=Europe/Vienna:20270131T060000
+SUMMARY:Paradise Winter Festival 2027 – Nacht 2
+LOCATION:BC Vienna Arena\, Gutheil-Schoder-Gasse 9\, 1100 Wien
+DESCRIPTION:Astrix\, Blastoyz\, Phaxe\, Faders\, Klopfgeister\, Sonic Spe
+ cies\, Misaya\, Exelog\, Serex\, Oblix\, Progtamin\, Fullip\, Marakame\,
+  Bornvoyage\, Vibechen\, Hanneken\, Tolaris\, PA_olo\, Romen Est Omen\, 
+ Cougar\, Anatol\, Auroria\, Kayara\, Cheddar Boyz\, Synaptikon\nVeransta
+ lter: FromDuskTillDawn\n\nZweite Nacht des Paradise Winter Festival 2027
+  in der BC Vienna Arena (ehemals Hallmann Dome\, Gutheil-Schoder-Gasse 9
+ \, 1100 Wien)\, veranstaltet von FromDuskTillDawn. International angekü
+ ndigt sind Astrix\, Blastoyz\, Phaxe\, Faders\, Klopfgeister und Sonic S
+ pecies\, dazu rund 20 Acts aus Österreich\; auf welche der beiden Näch
+ te sie verteilt sind\, ist noch nicht veröffentlicht. Zwei Stages auf 2
+ 000 m² mit großem Mainfloor\, Chill-out-Bereichen und einer zweiten St
+ age für Psytrance und Progressive\, außerdem Food Corner und Shopping-
+ Bereich. Beginn jeweils 21:00\, keine durchgehende Veranstaltung\; Loyal
+ ty- und Early-Bird-Pässe sind ausverkauft\, der reguläre Wochenend-Fes
+ tivalpass ist im Verkauf. Eintritt ab 18 (Ausweis mitnehmen).\n\nhttps:/
+ /rave.wien/e/2027-01-30-paradise-winter-festival-2027-nacht-2
+URL:https://rave.wien/e/2027-01-30-paradise-winter-festival-2027-nacht-2
+END:VEVENT
+END:VCALENDAR

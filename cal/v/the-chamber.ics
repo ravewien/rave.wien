@@ -44,6 +44,22 @@ DESCRIPTION:Tapanov\, Active8\, Askeladd\, Katana\, Twisted Aura\nVeranst
 URL:https://rave.wien/e/2026-12-07-maiden-voyage-w-tapanov
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-18-nachtaktiv-presents-psyjungle@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T220000
+DTEND;TZID=Europe/Vienna:20261219T060000
+SUMMARY:NachtAktiv presents PsyJungle
+LOCATION:The Chamber\, Hernalser Gürtel 18\, 1080 Wien
+DESCRIPTION:Lee U Mash\, Oblix\, Opthix\, Petronik\nVeranstalter: NachtAk
+ tiv\nEintritt: freie Spende\n\nPsytrance-Nacht von NachtAktiv in The Cha
+ mber am Hernalser Gürtel (laut aktualisiertem goabase-Eintrag)\, Freita
+ g 22:00 bis Samstag 06:00. Es spielen Lee U Mash\, Oblix (Psytrance Univ
+ erse)\, Opthix (Beat Progression\, Tirol) und Petronik\; Eintritt gegen 
+ freie Spende.\n\nhttps://rave.wien/e/2026-12-18-nachtaktiv-presents-psyj
+ ungle
+URL:https://rave.wien/e/2026-12-18-nachtaktiv-presents-psyjungle
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-24-yulemorph-awakening-the-long-night@rave.wien
 DTSTAMP:20261224T000000Z
 DTSTART;TZID=Europe/Vienna:20261224T230000

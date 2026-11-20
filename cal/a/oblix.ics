@@ -31,12 +31,65 @@ DTSTAMP:20261218T000000Z
 DTSTART;TZID=Europe/Vienna:20261218T220000
 DTEND;TZID=Europe/Vienna:20261219T060000
 SUMMARY:NachtAktiv presents PsyJungle
+LOCATION:The Chamber\, Hernalser Gürtel 18\, 1080 Wien
 DESCRIPTION:Lee U Mash\, Oblix\, Opthix\, Petronik\nVeranstalter: NachtAk
- tiv\nEintritt: freie Spende\n\nPsytrance-Nacht von NachtAktiv mit Lee U 
- Mash\, Oblix (Psytrance Universe)\, Opthix (Beat Progression\, Tirol) un
- d Petronik\; Eintritt gegen freie Spende. Die Location ist noch nicht be
- kannt.\n\nhttps://rave.wien/e/2026-12-18-nachtaktiv-presents-psyjungle
+ tiv\nEintritt: freie Spende\n\nPsytrance-Nacht von NachtAktiv in The Cha
+ mber am Hernalser Gürtel (laut aktualisiertem goabase-Eintrag)\, Freita
+ g 22:00 bis Samstag 06:00. Es spielen Lee U Mash\, Oblix (Psytrance Univ
+ erse)\, Opthix (Beat Progression\, Tirol) und Petronik\; Eintritt gegen 
+ freie Spende.\n\nhttps://rave.wien/e/2026-12-18-nachtaktiv-presents-psyj
+ ungle
 URL:https://rave.wien/e/2026-12-18-nachtaktiv-presents-psyjungle
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-paradise-winter-festival-2027-nacht-1@rave.wien
+DTSTAMP:20270129T000000Z
+DTSTART;TZID=Europe/Vienna:20270129T210000
+DTEND;TZID=Europe/Vienna:20270130T060000
+SUMMARY:Paradise Winter Festival 2027 – Nacht 1
+LOCATION:BC Vienna Arena\, Gutheil-Schoder-Gasse 9\, 1100 Wien
+DESCRIPTION:Astrix\, Blastoyz\, Phaxe\, Faders\, Klopfgeister\, Sonic Spe
+ cies\, Misaya\, Exelog\, Serex\, Oblix\, Progtamin\, Fullip\, Marakame\,
+  Bornvoyage\, Vibechen\, Hanneken\, Tolaris\, PA_olo\, Romen Est Omen\, 
+ Cougar\, Anatol\, Auroria\, Kayara\, Cheddar Boyz\, Synaptikon\nVeransta
+ lter: FromDuskTillDawn\n\nErste Nacht des Paradise Winter Festival 2027 
+ in der BC Vienna Arena (ehemals Hallmann Dome\, Gutheil-Schoder-Gasse 9\
+ , 1100 Wien)\, veranstaltet von FromDuskTillDawn. International angekün
+ digt sind Astrix\, Blastoyz\, Phaxe\, Faders\, Klopfgeister und Sonic Sp
+ ecies\, dazu rund 20 Acts aus Österreich\; auf welche der beiden Nächt
+ e sie verteilt sind\, ist noch nicht veröffentlicht. Zwei Stages auf 20
+ 00 m² mit großem Mainfloor\, Chill-out-Bereichen und einer zweiten Sta
+ ge für Psytrance und Progressive\, außerdem Food Corner und Shopping-B
+ ereich. Beginn jeweils 21:00\, keine durchgehende Veranstaltung\; Loyalt
+ y- und Early-Bird-Pässe sind ausverkauft\, der reguläre Wochenend-Fest
+ ivalpass ist im Verkauf. Eintritt ab 18 (Ausweis mitnehmen).\n\nhttps://
+ rave.wien/e/2027-01-29-paradise-winter-festival-2027-nacht-1
+URL:https://rave.wien/e/2027-01-29-paradise-winter-festival-2027-nacht-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-30-paradise-winter-festival-2027-nacht-2@rave.wien
+DTSTAMP:20270130T000000Z
+DTSTART;TZID=Europe/Vienna:20270130T210000
+DTEND;TZID=Europe/Vienna:20270131T060000
+SUMMARY:Paradise Winter Festival 2027 – Nacht 2
+LOCATION:BC Vienna Arena\, Gutheil-Schoder-Gasse 9\, 1100 Wien
+DESCRIPTION:Astrix\, Blastoyz\, Phaxe\, Faders\, Klopfgeister\, Sonic Spe
+ cies\, Misaya\, Exelog\, Serex\, Oblix\, Progtamin\, Fullip\, Marakame\,
+  Bornvoyage\, Vibechen\, Hanneken\, Tolaris\, PA_olo\, Romen Est Omen\, 
+ Cougar\, Anatol\, Auroria\, Kayara\, Cheddar Boyz\, Synaptikon\nVeransta
+ lter: FromDuskTillDawn\n\nZweite Nacht des Paradise Winter Festival 2027
+  in der BC Vienna Arena (ehemals Hallmann Dome\, Gutheil-Schoder-Gasse 9
+ \, 1100 Wien)\, veranstaltet von FromDuskTillDawn. International angekü
+ ndigt sind Astrix\, Blastoyz\, Phaxe\, Faders\, Klopfgeister und Sonic S
+ pecies\, dazu rund 20 Acts aus Österreich\; auf welche der beiden Näch
+ te sie verteilt sind\, ist noch nicht veröffentlicht. Zwei Stages auf 2
+ 000 m² mit großem Mainfloor\, Chill-out-Bereichen und einer zweiten St
+ age für Psytrance und Progressive\, außerdem Food Corner und Shopping-
+ Bereich. Beginn jeweils 21:00\, keine durchgehende Veranstaltung\; Loyal
+ ty- und Early-Bird-Pässe sind ausverkauft\, der reguläre Wochenend-Fes
+ tivalpass ist im Verkauf. Eintritt ab 18 (Ausweis mitnehmen).\n\nhttps:/
+ /rave.wien/e/2027-01-30-paradise-winter-festival-2027-nacht-2
+URL:https://rave.wien/e/2027-01-30-paradise-winter-festival-2027-nacht-2
 END:VEVENT
 BEGIN:VEVENT
 UID:2025-05-30-psytrance-universe-neon-dimensions-grelle-forelle@rave.wien
