@@ -1381,6 +1381,7 @@ const CI={
   "man": 1
  },
  "Zuckerwatt": {
+  "logo": "https://rave.wien/logos/zuckerwatt.png",
   "founded": "2008",
   "foundedNote": 1,
   "de": "Techno-Reihe von Andreas, Fabian und Thomas (Idee zu Silvester 2007/08), u. a. in Grelle Forelle, Sass, Flex und Pratersauna.",
@@ -1389,8 +1390,6 @@ const CI={
    "https://goodnight.at/magazin/party/1992-die-coolsten-veranstaltungskollektive-wiens",
    "https://www.facebook.com/zuckerwatt/"
   ],
-  "noLogo": "2026-10-28",
-  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxSNTz3y4vRe1uW6jAeEvkGJ8big2rRBHtXt7PFPx_1NgOIsaeuPzAUOIDBMAMDyhlvyg4dpSfKKDm66ShGgXrn-rYA-IQ7v_uHAdON2-SyAoiFnhr2mG6DOb4fSA0aCD2n6d_2e9RxVYc/s1600/zuckerwatt_hq.jpg",
   "man": 1,
   "tix": "https://zuckerwatt.ticket.io/",
   "infoChk": "2026-11-02",
