@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-WVjO1U3Oi87LKlx+s1k4T7onpcPrwMfW2HpHOhNCdO0='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-XUAaEoxrwSfBl3x82E7RFEVLd0xN8DYJwM2Km16pSfc='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -2583,7 +2583,9 @@ const FKEY="rw-filters",FK=["g","v","c","a","f","src","age","price","time","io"]
 function hasSaved(){try{return !!localStorage.getItem(FKEY)}catch(_){return false}}
 function loadSaved(){try{const o=JSON.parse(localStorage.getItem(FKEY)||"null");if(!o)return;FK.forEach(k=>{if(Array.isArray(o[k]))st[k]=new Set(o[k]);if(o.x&&Array.isArray(o.x[k]))st.x[k]=new Set(o.x[k])});}catch(_){}}
 applyZ();placeSearch();loadSaved();fromHash();render();setTop();sidePeek();
-addEventListener("hashchange",()=>{if(Date.now()-HPOP<400)return;const id=location.hash.slice(1);if(id&&id!==st.sel){fromHash();render()}});
+function zuLink(){const id=st.sel;if(!id)return;let n=0;const go=()=>{const r=document.querySelector('#out [data-id="'+CSS.escape(id)+'"]');if(!r){if(++n<20)setTimeout(go,100);return}markCur();const m=matchMedia("(prefers-reduced-motion: reduce)").matches;r.scrollIntoView({block:"center",behavior:m?"auto":"smooth"})};setTimeout(go,350)}
+if(location.hash.length>1)zuLink();
+addEventListener("hashchange",()=>{if(Date.now()-HPOP<400)return;const id=location.hash.slice(1);if(id&&id!==st.sel){fromHash();render();zuLink()}});
 
 if(EMBED&&!CONS)showBanner();
 </script>
