@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="/fonts.css">
 <style>
 :root{--bg:#08090b;--panel:#131519;--line:#2a2e36;--fg:#e9ecf1;--mute:#8f96a3;--accent:#1f8bff;--srch:#7d8491;
---s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;--s6:#8f6fe0;
+--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;--s6:#8f6fe0;--s7:#2bb3c0;--s8:#9ac43a;--s9:#8793a8;
 --f-pixel:"Doto","Courier New",monospace;--f-display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;--f-body:"Barlow","Helvetica Neue",Arial,sans-serif;--f-mono:"JetBrains Mono",ui-monospace,Menlo,monospace;color-scheme:dark}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.45 var(--f-body)}
@@ -83,7 +83,7 @@ table.nt{font-family:var(--f-body);font-size:13px}
 <script>
 (async()=>{
 const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
-const COLS=[css("--s1"),css("--s2"),css("--s3"),css("--s4"),css("--s5"),css("--s6")],SR=css("--srch"),LINE=css("--line"),FG=css("--fg"),MUTE=css("--mute"),ACC=css("--accent");
+const COLS=[css("--s1"),css("--s2"),css("--s3"),css("--s4"),css("--s5"),css("--s6")],KC={note:COLS[0],bio:COLS[0],txt:COLS[0],price:COLS[1],lineup:COLS[2],genres:COLS[3],flyer:COLS[4],img:COLS[4],logo:COLS[4],links:COLS[5],web:COLS[5],sets:css("--s7"),sp:css("--s8"),io:css("--s9")},SR=css("--srch"),LINE=css("--line"),FG=css("--fg"),MUTE=css("--mute"),ACC=css("--accent");
 let data;try{data=await (await fetch("/stats.json?"+Date.now(),{cache:"no-store"})).json()}catch(e){document.getElementById("sub").innerHTML='<span class="err">Statistik konnte nicht geladen werden.</span>';return}
 const S=(data.snaps||[]).filter(s=>s.r);if(!S.length){document.getElementById("sub").textContent="Noch keine Daten.";return}
 const vday=t=>new Date(t).toLocaleDateString("sv-SE",{timeZone:"Europe/Vienna"});
@@ -112,7 +112,7 @@ function render(){CH.splice(0).forEach(c=>c.destroy());
  document.getElementById("cards").innerHTML=CAT.map((c,ci)=>{const L=g(last,c.k),n=L.n;
   return `<div class="card"><div class="ch"><h3>${c.t}</h3><span class="n">${fmt(n)}</span></div>
    <div class="nw"><em>+${fmt(L.newDay)}</em> neu heute · <em>+${fmt(L.newSince)}</em> neu seit ${FD}</div>
-   <table class="mt">${c.m.map((m,i)=>`<tr><td><i style="background:${COLS[i]}"></i>${m[0]}</td><td class="ct">${fmt(L[m[1]])} von ${fmt(n)}</td><td class="pc">${pcs(L[m[1]],n)} %</td></tr>`).join("")}
+   <table class="mt">${c.m.map((m,i)=>`<tr><td><i style="background:${KC[m[1]]}"></i>${m[0]}</td><td class="ct">${fmt(L[m[1]])} von ${fmt(n)}</td><td class="pc">${pcs(L[m[1]],n)} %</td></tr>`).join("")}
    <tr class="sr"><td><i class="dash"></i>${c.sl}</td><td class="ct">${fmt(L.srch)} von ${fmt(n)}</td><td class="pc">${pcs(L.srch,n)} %</td></tr>
    ${L.empty!=null?`<tr class="xx"><td><i class="no"></i>nur Name, keine Infos</td><td class="ct">${fmt(L.empty)} von ${fmt(n)}</td><td class="pc">${pcs(L.empty,n)} %</td></tr>`:""}
    ${(last.r.all[c.k]||{}).hid!=null?`<tr class="xx"><td><i class="no"></i>in der Übersicht ausgeblendet</td><td class="ct">${fmt(last.r.all[c.k].hid)} von ${fmt(last.r.all[c.k].n)}</td><td class="pc">${pcs(last.r.all[c.k].hid,last.r.all[c.k].n)} %</td></tr>`:""}</table>
@@ -120,7 +120,7 @@ function render(){CH.splice(0).forEach(c=>c.destroy());
    `<div class="pies"><div class="pie"><div class="pw"><canvas id="c${ci}ps"></canvas><b>${pcs(L.srch,n)} %</b></div><span>${c.sl}</span>${fmt(L.srch)} / ${fmt(n)}</div>${c.m.map((m,i)=>`<div class="pie"><div class="pw"><canvas id="c${ci}p${i}"></canvas><b>${pcs(L[m[1]],n)} %</b></div><span>${m[0]}</span>${fmt(L[m[1]])} / ${fmt(n)}</div>`).join("")}</div>`}</div>`}).join("");
  CAT.forEach((c,ci)=>{
   if(M==="line"){
-   const ds=c.m.map((m,i)=>({label:m[0],key:m[1],data:S.map(s=>{const o=g(s,c.k);return {x:Date.parse(s.t),y:o.n?100*o[m[1]]/o.n:0}}),borderColor:COLS[i],backgroundColor:COLS[i],borderWidth:2,pointRadius:0,pointHoverRadius:4,pointHoverBorderColor:"#131519",pointHoverBorderWidth:2,tension:.25}));
+   const ds=c.m.map((m,i)=>({label:m[0],key:m[1],data:S.map(s=>{const o=g(s,c.k);return {x:Date.parse(s.t),y:o.n?100*o[m[1]]/o.n:0}}),borderColor:KC[m[1]],backgroundColor:KC[m[1]],borderWidth:2,pointRadius:0,pointHoverRadius:4,pointHoverBorderColor:"#131519",pointHoverBorderWidth:2,tension:.25}));
    ds.push({label:c.sl,key:"srch",data:S.map(s=>{const o=g(s,c.k);return {x:Date.parse(s.t),y:o.n?100*o.srch/o.n:0}}),borderColor:SR,backgroundColor:SR,borderDash:[5,4],borderWidth:2,pointRadius:0,pointHoverRadius:4,tension:.25});
    CH.push(new Chart(document.getElementById("c"+ci),{type:"line",data:{datasets:ds},options:{responsive:true,maintainAspectRatio:false,animation:false,interaction:{mode:"index",intersect:false},
     plugins:{legend:{display:false},tooltip:Object.assign({},tip,{callbacks:{title:it=>lbl(it[0].parsed.x),label:x=>{const o=g(S[x.dataIndex],c.k),k=x.dataset.key;return ` ${x.dataset.label}: ${fmt(o[k])} von ${fmt(o.n)} (${Math.round(x.parsed.y)} %)`}}})},
@@ -132,7 +132,7 @@ function render(){CH.splice(0).forEach(c=>c.destroy());
   }else{const L=g(last,c.k),n=L.n;
    const donut=(id,v,col,lab)=>CH.push(new Chart(document.getElementById(id),{type:"doughnut",data:{labels:[lab,"ohne"],datasets:[{data:[v,Math.max(0,n-v)],backgroundColor:[col,"#262a31"],borderColor:"#131519",borderWidth:2}]},
     options:{responsive:true,maintainAspectRatio:false,animation:false,cutout:"68%",plugins:{legend:{display:false},tooltip:Object.assign({},tip,{callbacks:{label:x=>` ${x.label}: ${fmt(x.parsed)} (${pcs(x.parsed,n)} %)`}})}}}));
-   donut(`c${ci}ps`,L.srch,SR,c.sl);c.m.forEach((m,i)=>donut(`c${ci}p${i}`,L[m[1]],COLS[i],m[0]))}
+   donut(`c${ci}ps`,L.srch,SR,c.sl);c.m.forEach((m,i)=>donut(`c${ci}p${i}`,L[m[1]],KC[m[1]],m[0]))}
  });
  const byDay={};S.forEach(s=>byDay[vday(s.t)]=s);const days=Object.keys(byDay).sort().reverse();
  document.getElementById("tab").innerHTML=`<table class="tb"><thead><tr><th>Tag</th>${CAT.map(c=>`<th>${c.t}</th><th>neu</th><th>${c.sl}</th>`).join("")}</tr></thead><tbody>${days.map(d=>{const s=byDay[d];return `<tr><td>${dlbl(d)}</td>${CAT.map(c=>{const o=g(s,c.k);return `<td>${fmt(o.n)}</td><td>+${fmt(o.newDay)}</td><td>${fmt(o.srch)}</td>`}).join("")}</tr>`}).join("")}</tbody></table>`;
