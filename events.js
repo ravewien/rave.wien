@@ -20483,7 +20483,8 @@ const AR={
   ],
   "spChk": "2026-11-15",
   "links": {
-   "sc": "https://soundcloud.com/parisboehm"
+   "sc": "https://soundcloud.com/parisboehm",
+   "ig": "https://www.instagram.com/parisbohm/"
   }
  },
  "Noemi Universe": {
