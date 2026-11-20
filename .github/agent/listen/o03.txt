@@ -1,0 +1,3 @@
+# Sonderlauf Locations – Liste o03 (2). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Events bei uns
+Kruger Club	text,web,logo		Adresse: Krugerstraße 8, 1010	2026-11-27 Kruger Club & Beats
+Cupra City Garage	text,web,logo		Adresse: Maysedergasse 4, 1010	2026-12-04 BARVY × SHPILKI: Good Girl Gone Bad
