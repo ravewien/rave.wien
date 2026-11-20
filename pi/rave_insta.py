@@ -14,7 +14,8 @@ Läuft auf dem Raspberry Pi alle 10 Minuten (cron). Zugangsdaten stehen nur loka
   python3 rave_insta.py passwort  # neues Instagram-Passwort eintragen und neu anmelden
   python3 rave_insta.py update    # sofort nach einer neuen Programmversion suchen
 
-Story: Nach jedem Post wird er 10–45 Minuten später (zufällig) zusätzlich als Story geteilt – bei Tagesposts mit allen
+Story: Tagesposts gehen am Vorabend raus, ihre Story erst am Morgen des Veranstaltungstags (zufällig zwischen 8:30 und 10:00),
+damit die Story am Tag des Programms läuft; Zwischenposts 10–45 Minuten nach dem Post. Geteilt wird bei Tagesposts mit allen
 Event-Bildern (höchstens 4, im Abstand von einigen Minuten), bei Zwischenposts mit dem ersten Bild; angehängte Extra-Bilder
 kommen nicht in die Story. Jede Story hat einen antippbaren Verweis auf den Post. Abschalten: STORY=nein in ~/.rave-insta/config.
 
@@ -29,7 +30,7 @@ import json, os, sys, time, random, logging, urllib.request, hashlib, subprocess
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-19.2"
+VERSION = "2026-11-20.1"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -41,7 +42,8 @@ PAUSE = HOME / "PAUSE"
 DL = HOME / "bilder"
 MAX_VERSPAETUNG = timedelta(hours=6)   # was länger überfällig ist, wird nicht mehr nachgeholt
 MAX_POSTS_24H = 4                      # Sicherheitsnetz: mehr wird an einem Tag nie automatisch gepostet
-STORY_NACH_MIN = (10, 45)              # Story erscheint zufällig 10–45 Minuten nach dem Post
+STORY_NACH_MIN = (10, 45)              # Zwischenposts (und Tagesposts, deren Morgen schon vorbei ist): Story 10–45 Minuten nach dem Post
+STORY_MORGEN = (8, 30, 90)             # Tagesposts: Story am Veranstaltungstag ab 8:30 Wiener Zeit, zufällig bis zu 90 Minuten später
 STORY_AUFGEBEN = timedelta(hours=3)    # nach 3 Fehlversuchen oder so langer Überfälligkeit wird die Story aufgegeben
 STORY_MAX_BILDER = 4                   # Tagesposts: höchstens so viele Event-Bilder als Story-Serie
 STORY_ABSTAND_MIN = (2, 6)             # weitere Story-Bilder frühestens 2–6 Minuten nach dem vorigen (nächster Lauf)
@@ -252,7 +254,7 @@ def publish(post, cl=None, state=None):
         media = cl.album_upload(paths[:10], text)
     url = f"https://www.instagram.com/p/{media.code}/"
     if state is not None and story_an() and post.get("story") is not False:
-        due = datetime.now(timezone.utc) + timedelta(minutes=random.randint(*STORY_NACH_MIN))
+        due = story_zeit(post["datum"], datetime.now(timezone.utc))
         # Tagesposts: alle Event-Bilder (ohne angehängte Extra-Bilder), Zwischenposts: nur das erste Bild
         paare = [(str(pa), rel) for pa, rel in zip(paths, post["bilder"]) if "/extra/" not in rel] or [(str(paths[0]), post["bilder"][0])]
         if post["datum"].startswith("extra-"): paare = paare[:1]
@@ -286,6 +288,23 @@ def story_bild(src, ziel):
 def story_an():
     return load_config().get("STORY", "ja").lower() not in ("nein", "no", "0", "aus")
 
+def story_zeit(datum, now):
+    """Wann die Story fällig ist: Tagespost → Morgen des Veranstaltungstags (Wiener Zeit), sonst kurz nach dem Post."""
+    if DATUM_OK.match(datum) and not datum.startswith("extra-"):
+        try:
+            from zoneinfo import ZoneInfo
+            tz = ZoneInfo("Europe/Vienna")
+        except Exception:
+            tz = now.astimezone().tzinfo
+        try:
+            y, m, d = (int(x) for x in datum.split("-"))
+            ziel = datetime(y, m, d, STORY_MORGEN[0], STORY_MORGEN[1], tzinfo=tz) + timedelta(minutes=random.randint(0, STORY_MORGEN[2]))
+            if ziel > now:
+                return ziel.astimezone(timezone.utc)
+        except Exception:
+            pass
+    return now + timedelta(minutes=random.randint(*STORY_NACH_MIN))
+
 def stories_nachholen(state, now):
     """Posts für kommende Tage, die noch keine Story haben (z. B. vor Einführung der Story gepostet), bekommen eine."""
     if not story_an():
@@ -293,7 +312,7 @@ def stories_nachholen(state, now):
     heute = now.astimezone().strftime("%Y-%m-%d")
     for d, url in state.get("gepostet", {}).items():
         if DATUM_OK.match(d) and not d.startswith("extra-") and d >= heute and d not in state.setdefault("stories", {}) and "/p/" in str(url):
-            due = now + timedelta(minutes=random.randint(*STORY_NACH_MIN))
+            due = story_zeit(d, now)
             state["stories"][d] = {"code": url.split("/p/")[1].strip("/"), "bild": str(DL / d / "1.jpg"), "url": url,
                                    "faellig": due.isoformat(), "status": "offen"}
             say(f"{d}: Story wird nachgeholt (ca. {due.astimezone().strftime('%H:%M')})")
@@ -428,7 +447,7 @@ def main():
             sto = state.get("stories", {}).get(p["datum"])
             if sto:
                 nb = len(sto.get("bilder") or [1])
-                st += f" | Story {sto['status']}" + (f" {sto.get('fertig', 0)}/{nb}" if nb > 1 else "") + (f" ab ca. {datetime.fromisoformat(sto['faellig']).astimezone().strftime('%H:%M')}" if sto["status"] == "offen" else "")
+                st += f" | Story {sto['status']}" + (f" {sto.get('fertig', 0)}/{nb}" if nb > 1 else "") + (f" ab ca. {datetime.fromisoformat(sto['faellig']).astimezone().strftime('%a %H:%M')}" if sto["status"] == "offen" else "")
             t = wann(p).astimezone().strftime("%a %d.%m. %H:%M")
             print(f"  {p['datum']}  geplant {p['posten_ab'][:16].replace('T', ' ')}  → wirklich ca. {t}  {len(p['bilder'])} Bild(er)  → {st}")
         save_state(state); return
