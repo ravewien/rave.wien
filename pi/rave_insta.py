@@ -30,7 +30,7 @@ import json, os, sys, time, random, logging, urllib.request, hashlib, subprocess
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-20.3"
+VERSION = "2026-11-20.4"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -327,7 +327,23 @@ def stories_nachholen(state, now):
                                    "faellig": due.isoformat(), "status": "offen"}
             say(f"{d}: Story wird nachgeholt (ca. {due.astimezone().strftime('%H:%M')})")
 
+def story_abgelaufen(d, s, now):
+    """Eine Story wird nur nachgeholt, solange ihr Tag noch läuft: Tagespost bis Ende des Veranstaltungstags (Wiener Zeit),
+    Zwischenpost bis Ende des Tags, an dem sie fällig war. Danach wäre sie veraltet (z. B. Internet über Nacht aus)."""
+    try:
+        from zoneinfo import ZoneInfo
+        tz = ZoneInfo("Europe/Vienna")
+    except Exception:
+        tz = timezone(timedelta(hours=1))
+    heute = now.astimezone(tz).strftime("%Y-%m-%d")
+    tag_der_story = d if DATUM_OK.match(d) and not d.startswith("extra-") else datetime.fromisoformat(s["faellig"]).astimezone(tz).strftime("%Y-%m-%d")
+    return heute > tag_der_story
+
 def stories_faellig(state, now):
+    for d, s in state.get("stories", {}).items():
+        if s.get("status") == "offen" and story_abgelaufen(d, s, now):
+            s["status"] = "abgelaufen" if not s.get("rel") else "gepostet"
+            say(f"{d}: Story nicht mehr nachgeholt – ihr Tag ist schon vorbei")
     return [(d, s) for d, s in state.get("stories", {}).items()
             if s.get("status") == "offen" and datetime.fromisoformat(s["faellig"]) <= now]
 
