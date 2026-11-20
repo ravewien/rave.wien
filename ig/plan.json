@@ -1,39 +1,39 @@
 {
- "_info": "Wann der Instagram-Post für die Events eines Wochentags erscheint: 'tage_vorher' Tage vor dem Eventtag um 'uhrzeit' (Wiener Zeit). Standard: jeder Tag am Vorabend um 19:00 – so kommt pro Abend ein Post, in der Reihenfolge der Tage. Der Pi postet zufällig bis zu 30 Minuten früher oder später. Tage mit weniger als 'min_events' Events werden nicht gepostet. Wochentag fehlt oder aktiv=false → kein Post.",
+ "_info": "Wann der Instagram-Post für die Events eines Wochentags erscheint: 'tage_vorher' Tage vor dem Eventtag um 'uhrzeit' (Wiener Zeit). Standard: jeder Tag am Vortag um 16:00 – so kommt pro Abend ein Post, in der Reihenfolge der Tage. Der Pi postet zufällig bis zu 30 Minuten früher oder später. Tage mit weniger als 'min_events' Events werden nicht gepostet. Wochentag fehlt oder aktiv=false → kein Post.",
  "min_events": 2,
  "montag": {
   "aktiv": true,
   "tage_vorher": 1,
-  "uhrzeit": "19:00"
+  "uhrzeit": "16:00"
  },
  "dienstag": {
   "aktiv": true,
   "tage_vorher": 1,
-  "uhrzeit": "19:00"
+  "uhrzeit": "16:00"
  },
  "mittwoch": {
   "aktiv": true,
   "tage_vorher": 1,
-  "uhrzeit": "19:00"
+  "uhrzeit": "16:00"
  },
  "donnerstag": {
   "aktiv": true,
   "tage_vorher": 1,
-  "uhrzeit": "19:00"
+  "uhrzeit": "16:00"
  },
  "freitag": {
   "aktiv": true,
   "tage_vorher": 1,
-  "uhrzeit": "19:00"
+  "uhrzeit": "16:00"
  },
  "samstag": {
   "aktiv": true,
   "tage_vorher": 1,
-  "uhrzeit": "19:00"
+  "uhrzeit": "16:00"
  },
  "sonntag": {
   "aktiv": true,
   "tage_vorher": 1,
-  "uhrzeit": "19:00"
+  "uhrzeit": "16:00"
  }
 }

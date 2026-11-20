@@ -14,7 +14,7 @@ Läuft auf dem Raspberry Pi alle 10 Minuten (cron). Zugangsdaten stehen nur loka
   python3 rave_insta.py passwort  # neues Instagram-Passwort eintragen und neu anmelden
   python3 rave_insta.py update    # sofort nach einer neuen Programmversion suchen
 
-Story: Tagesposts gehen am Vorabend raus, ihre Story erst am Morgen des Veranstaltungstags (zufällig zwischen 8:30 und 10:00),
+Story: Tagesposts gehen am Vortag um ca. 16 Uhr raus, ihre Story kurz nach Mitternacht am Veranstaltungstag (zufällig 00:02–00:20),
 damit die Story am Tag des Programms läuft; Zwischenposts 10–45 Minuten nach dem Post. Geteilt wird bei Tagesposts mit allen
 Event-Bildern (höchstens 4, im Abstand von einigen Minuten), bei Zwischenposts mit dem ersten Bild; angehängte Extra-Bilder
 kommen nicht in die Story. Jede Story hat einen antippbaren Verweis auf den Post. Abschalten: STORY=nein in ~/.rave-insta/config.
@@ -30,7 +30,7 @@ import json, os, sys, time, random, logging, urllib.request, hashlib, subprocess
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-20.2"
+VERSION = "2026-11-20.3"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -43,7 +43,7 @@ DL = HOME / "bilder"
 MAX_VERSPAETUNG = timedelta(hours=6)   # was länger überfällig ist, wird nicht mehr nachgeholt
 MAX_POSTS_24H = 4                      # Sicherheitsnetz: mehr wird an einem Tag nie automatisch gepostet
 STORY_NACH_MIN = (10, 45)              # Zwischenposts (und Tagesposts, deren Morgen schon vorbei ist): Story 10–45 Minuten nach dem Post
-STORY_MORGEN = (8, 30, 90)             # Tagesposts: Story am Veranstaltungstag ab 8:30 Wiener Zeit, zufällig bis zu 90 Minuten später
+STORY_MORGEN = (0, 2, 18)              # Tagesposts: Story kurz nach Mitternacht am Veranstaltungstag (00:02–00:20 Wiener Zeit) – 24 h sichtbar = genau der Eventtag
 STORY_AUFGEBEN = timedelta(hours=3)    # nach 3 Fehlversuchen oder so langer Überfälligkeit wird die Story aufgegeben
 STORY_MAX_BILDER = 4                   # Tagesposts: höchstens so viele Event-Bilder als Story-Serie
 STORY_ABSTAND_MIN = (2, 6)             # weitere Story-Bilder frühestens 2–6 Minuten nach dem vorigen (nächster Lauf)
@@ -291,7 +291,7 @@ def story_an():
     return load_config().get("STORY", "ja").lower() not in ("nein", "no", "0", "aus")
 
 def story_zeit(datum, now, nach_min=None):
-    """Wann die Story fällig ist: Tagespost → Morgen des Veranstaltungstags (Wiener Zeit), sonst kurz nach dem Post.
+    """Wann die Story fällig ist: Tagespost → kurz nach Mitternacht am Veranstaltungstag (Wiener Zeit), sonst kurz nach dem Post.
     nach_min = [von, bis] Minuten nach dem Post (nur Zwischenposts, z. B. [170, 200] = rund 3 Stunden später)."""
     if nach_min and datum.startswith("extra-"):
         try:
