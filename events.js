@@ -53116,13 +53116,24 @@ const AR={
   "setsChecked": "2026-11-20",
   "spChk": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "Dubstep",
+   "Drum & Bass",
+   "Bass"
+  ],
+  "noLinks": "2026-11-20"
  },
  "y?k": {
   "spChk": "2026-11-20",
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "genres": [
+   "Dubstep",
+   "Drum & Bass",
+   "Bass"
+  ]
  },
  "Beaks": {
   "from": {
