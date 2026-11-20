@@ -6138,7 +6138,8 @@ const CI={
    "https://www.goabase.net/party/endless-insanity-part-i-tzu-jan-ila-nova-kapje-dopje/117304"
   ],
   "noLogo": "2026-11-15",
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "ig": "https://www.instagram.com/endlessinsanity__/"
  },
  "KRAWALL": {
   "de": "Partyreihe aus Köln (Trance, Techno) mit Kölner Residents wie Elyante, Schana, Kippenhaus, Jokkel, DJ Hüftschwung und Evi B. Am 05.12.2026 holt KRAWALL zum vierjährigen Bestehen seine Residency für das erste internationale Event als „KRAMPUS RAVE“ in den Club Lucia nach Wien.",
