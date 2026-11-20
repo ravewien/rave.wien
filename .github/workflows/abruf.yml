@@ -1,0 +1,57 @@
+name: Abrufdienst
+# Holt alle Quellseiten (Clubprogramme, Portale, Eventseiten, Veranstalter-Websites)
+# und legt sie verschlüsselt in den Branch „abruf“ (täglich) bzw. „abruf-<tag>“ (auf Anfrage).
+# Die automatischen Läufe lesen diese Kopien statt selbst Seiten abzurufen.
+on:
+  schedule:
+    - cron: "15 4 * * *"
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "Nur diese Adressen holen (durch Leerzeichen getrennt). Leer = Voll-Abruf"
+        required: false
+        default: ""
+      tag:
+        description: "Kennung für den Ziel-Branch abruf-<tag> (nur a-z0-9-)"
+        required: false
+        default: ""
+permissions:
+  contents: write
+concurrency:
+  group: abruf-${{ github.event.inputs.tag || 'voll' }}
+  cancel-in-progress: false
+jobs:
+  abruf:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Abrufen
+        env:
+          URLS: ${{ github.event.inputs.urls }}
+        run: node .github/scripts/abruf.js "$RUNNER_TEMP/abruf"
+      - name: Verschlüsseln und ablegen
+        env:
+          TAG: ${{ github.event.inputs.tag }}
+        run: |
+          set -e
+          b=abruf
+          if [ -n "$TAG" ]; then
+            t=$(printf '%s' "$TAG" | tr -cd 'a-z0-9-' | cut -c1-40)
+            [ -n "$t" ] && b="abruf-$t"
+          fi
+          tar czf "$RUNNER_TEMP/abruf.tgz" -C "$RUNNER_TEMP/abruf" .
+          mkdir -p "$RUNNER_TEMP/br"
+          node .github/scripts/abruf-krypt.js zu "$RUNNER_TEMP/abruf.tgz" .github/abruf/abruf-public.pem "$RUNNER_TEMP/br/abruf.enc"
+          cp "$RUNNER_TEMP/abruf/status.json" "$RUNNER_TEMP/br/status.json"
+          cd "$RUNNER_TEMP/br"
+          git init -q -b "$b"
+          git config user.name "rave.wien Abrufdienst"
+          git config user.email "abruf@rave.wien"
+          git add -A
+          git commit -q -m "Abruf $(date -u +%FT%TZ)"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" "HEAD:refs/heads/$b"
+          echo "abgelegt in $b"; cat status.json | head -c 3000
