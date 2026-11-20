@@ -53505,7 +53505,10 @@ const AR={
   ],
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "Drum & Bass"
+  ]
  },
  "STONERICE": {
   "links": {
@@ -53526,12 +53529,35 @@ const AR={
   ],
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "Drum & Bass"
+  ]
  },
  "QUADRILLE": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "links": {
+   "sc": "https://soundcloud.com/quadrillednb"
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "sets": [
+   {
+    "t": "QUADRILLE (Live) @ Rollers' Society pres. Agressor bunx & Abis 2024",
+    "u": "https://soundcloud.com/rollerssociety-dnb/quadrille-live-rollers-society-pres-agressor-bunx-abis-2024"
+   },
+   {
+    "t": "Quadrille - Bladerunnaz pres. The Upbeats - 12.08.2022",
+    "u": "https://soundcloud.com/quadrillednb/quadrille-bladerunnaz-pres-the-upbeats"
+   }
+  ],
+  "setsChecked": "2026-11-20",
+  "src": [
+   "https://soundcloud.com/quadrillednb"
+  ]
  },
  "ENDSEARCH": {
   "infoChk": "2026-11-20",
@@ -53551,17 +53577,40 @@ const AR={
  "Joules": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "genres": [
+   "House"
+  ]
  },
  "Baltazar": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "genres": [
+   "Darkpsy",
+   "Forest"
+  ],
+  "from": {
+   "de": "Brünn, Tschechien",
+   "en": "Brno, Czech Republic"
+  },
+  "bio": {
+   "de": "Baltazar ist ein Psytrance-DJ aus Brünn, der seit 2019 in der tschechischen Szene auflegt. Seine Sets bewegen sich zwischen Darkpsy und Forest. Er steht hinter der Brünner Eventreihe „Night of Dark Tales“.",
+   "en": "Baltazar is a psytrance DJ from Brno who has been active in the Czech scene since 2019. His sets move between darkpsy and forest. He is the mind behind the Brno event series “Night of Dark Tales”."
+  },
+  "src": [
+   "https://www.goabase.net/party/yulemorph/118724",
+   "https://www.tickettailor.com/events/nightofdarktales/2064396"
+  ]
  },
  "Attrick": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "genres": [
+   "Darkpsy",
+   "Forest"
+  ]
  },
  "Bahosh": {
   "links": {
@@ -53572,7 +53621,11 @@ const AR={
   ],
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "Darkpsy",
+   "Forest"
+  ]
  },
  "Gatodelic": {
   "links": {
@@ -53589,12 +53642,20 @@ const AR={
   ],
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "Darkpsy",
+   "Forest"
+  ]
  },
  "Noisia": {
   "links": {
    "ra": "https://ra.co/dj/noisia",
-   "sc": "https://soundcloud.com/noisia"
+   "sc": "https://soundcloud.com/noisia",
+   "web": "https://www.noisia.nl",
+   "bc": "https://noisia.bandcamp.com",
+   "sp": "https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY",
+   "ig": "https://www.instagram.com/noisia_official/"
   },
   "sets": [
    {
@@ -53613,11 +53674,30 @@ const AR={
   "spChk": "2026-11-20",
   "src": [
    "https://ra.co/dj/noisia",
-   "https://soundcloud.com/noisia"
+   "https://soundcloud.com/noisia",
+   "https://noisia.nl/",
+   "https://noisia.bandcamp.com/"
   ],
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "img": "https://www.noisia.nl/images/Noisia.jpg",
+  "from": {
+   "de": "Groningen, Niederlande",
+   "en": "Groningen, Netherlands"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Neurofunk"
+  ],
+  "labels": [
+   "VISION",
+   "Division"
+  ],
+  "bio": {
+   "de": "Noisia sind Nik Roos, Martijn van Sonderen und Thijs de Vlieger aus Groningen in den Niederlanden. Seit 2003 stehen sie für Drum & Bass, Neurofunk und Sounddesign, mit den Alben „Split The Atom“ und „Outer Edges“ sowie der Reihe „The Resonance“. Dazu kommen das Projekt I Am Legion mit Foreign Beggars, Soundtracks für „Devil May Cry“ und die Labels VISION und Division.",
+   "en": "Noisia are Nik Roos, Martijn van Sonderen and Thijs de Vlieger from Groningen, the Netherlands. Since 2003 they have stood for drum & bass, neurofunk and sound design, with the albums “Split The Atom” and “Outer Edges” and the series “The Resonance”. They also run the I Am Legion project with Foreign Beggars, scored “Devil May Cry” and run the labels VISION and Division."
+  }
  },
  "Supergloss": {
   "links": {
@@ -53640,11 +53720,29 @@ const AR={
   ],
   "src": [
    "https://ra.co/dj/supergloss",
-   "https://soundcloud.com/superglozz"
+   "https://soundcloud.com/superglozz",
+   "https://bandcamp.com/linadrsm"
   ],
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "img": "https://f4.bcbits.com/img/0032068355_41.jpg",
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "Trance",
+   "Acid"
+  ],
+  "labels": [
+   "Noom Records",
+   "X-IZE"
+  ],
+  "bio": {
+   "de": "Supergloss ist eine DJ und Produzentin aus Berlin. Ihre Sets drehen sich um Acid und Trance der 90er und 00er Jahre. Eigene Tracks und Remixe erschienen u. a. auf Noom Records, dazu eine Split-EP mit CIS auf X-IZE.",
+   "en": "Supergloss is a DJ and producer from Berlin. Her sets revolve around acid and trance from the 90s and 00s. Her tracks and remixes have been released on Noom Records, among others, plus a split EP with CIS on X-IZE."
+  }
  },
  "YØNDER": {
   "links": {
@@ -53669,7 +53767,10 @@ const AR={
   ],
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "Techno"
+  ]
  },
  "Chewlie": {
   "links": {
@@ -53680,12 +53781,18 @@ const AR={
   ],
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "Bass",
+   "Footwork"
+  ]
  },
  "Jan Loup": {
   "links": {
    "ra": "https://ra.co/dj/janloup",
-   "sc": "https://soundcloud.com/janloup"
+   "sc": "https://soundcloud.com/janloup",
+   "bc": "https://janloup.bandcamp.com",
+   "web": "https://janloup.neocities.org"
   },
   "sets": [
    {
@@ -53703,11 +53810,21 @@ const AR={
   ],
   "src": [
    "https://ra.co/dj/janloup",
-   "https://soundcloud.com/janloup"
+   "https://soundcloud.com/janloup",
+   "https://janloup.bandcamp.com/"
   ],
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "img": "https://f4.bcbits.com/img/0035894476_10.jpg",
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "Bass",
+   "Footwork"
+  ]
  },
  "nastynancy": {
   "links": {
@@ -53718,12 +53835,20 @@ const AR={
   ],
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "Bass",
+   "Footwork"
+  ]
  },
  "Moosiqunt": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "genres": [
+   "Bass",
+   "Footwork"
+  ]
  },
  "Niko Garcia": {
   "links": {
@@ -53740,12 +53865,17 @@ const AR={
   ],
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "Progressive House"
+  ]
  },
  "Hybrid Minds": {
   "links": {
    "ra": "https://ra.co/dj/hybridminds",
-   "sc": "https://soundcloud.com/hybridminds"
+   "sc": "https://soundcloud.com/hybridminds",
+   "bc": "https://hybridminds.bandcamp.com",
+   "web": "https://hybridmindsmusic.com"
   },
   "sets": [
    {
@@ -53764,11 +53894,30 @@ const AR={
   "spChk": "2026-11-20",
   "src": [
    "https://ra.co/dj/hybridminds",
-   "https://soundcloud.com/hybridminds"
+   "https://soundcloud.com/hybridminds",
+   "https://hybridminds.bandcamp.com/album/atmosphere",
+   "https://hybridmindsmusic.com/"
   ],
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "img": "https://f4.bcbits.com/img/0040270987_10.jpg",
+  "from": {
+   "de": "London, UK",
+   "en": "London, UK"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Liquid Drum & Bass"
+  ],
+  "labels": [
+   "Spearhead Records",
+   "Hybrid Music"
+  ],
+  "bio": {
+   "de": "Hybrid Minds ist ein Liquid-Drum-&-Bass-Projekt aus London. Im Oktober 2025 erschien das Album „Atmosphere“ mit Gastbeiträgen u. a. von homesick, Emba und Tempza. Frühe Veröffentlichungen kamen auf Spearhead Records und Hybrid Music.",
+   "en": "Hybrid Minds is a liquid drum & bass project from London. In October 2025 they released the album “Atmosphere”, featuring homesick, Emba and Tempza among others. Early releases came out on Spearhead Records and Hybrid Music."
+  }
  },
  "Tempza": {
   "links": {
@@ -53778,11 +53927,22 @@ const AR={
   "spChk": "2026-11-20",
   "src": [
    "https://ra.co/dj/tempza",
-   "https://soundcloud.com/tempza"
+   "https://soundcloud.com/tempza",
+   "https://ukf.com/read/the-diary-of-an-urban-creative-how-mc-tempza-turned-his-life-around"
   ],
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "Drum & Bass"
+  ],
+  "alias": [
+   "MC Tempza"
+  ],
+  "bio": {
+   "de": "Tempza ist ein MC aus der Drum-&-Bass-Szene, bekannt von Auftritten für Spearhead und Hospitality. Gemeinsam mit der Sängerin Charlotte Haining ist er Frontmann von Hybrid Minds. Daneben betreibt er die Marke Urban Creative.",
+   "en": "Tempza is an MC from the drum & bass scene, known for performing for Spearhead and Hospitality. Together with vocalist Charlotte Haining he fronts Hybrid Minds. He also runs the brand Urban Creative."
+  }
  },
  "dr ushuu": {
   "links": {
@@ -53799,11 +53959,29 @@ const AR={
    }
   ],
   "src": [
-   "https://soundcloud.com/danyushuu"
+   "https://soundcloud.com/danyushuu",
+   "https://atwoodmagazine.com/dupr-dr-ushuu-interview-music-feature/"
   ],
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "Dubstep"
+  ],
+  "alias": [
+   "Dr. Ushūu"
+  ],
+  "from": {
+   "de": "Lissabon, Portugal",
+   "en": "Lisbon, Portugal"
+  },
+  "bio": {
+   "de": "Dr. Ushūu ist ein in Lissabon geborener DJ und Produzent, bürgerlich Daniel Cabral Roças. Sein Name verbindet das japanische Wort für Universum mit dem Arztwunsch seiner Eltern. Er unterschrieb beim kanadischen Label Monstercat, veröffentlichte u. a. die EP „PewPewRiddim“ und spielte auf dem Tomorrowland.",
+   "en": "Dr. Ushūu is a Lisbon-born DJ and producer, real name Daniel Cabral Roças. His name combines the Japanese word for universe with his parents' wish for him to become a doctor. He signed to the Canadian label Monstercat, released the EP “PewPewRiddim” among others and was booked for Tomorrowland."
+  },
+  "labels": [
+   "Monstercat"
+  ]
  },
  "madcore": {
   "links": {
@@ -53816,16 +53994,25 @@ const AR={
    }
   ],
   "src": [
-   "https://soundcloud.com/madcoredubstep"
+   "https://soundcloud.com/madcoredubstep",
+   "https://www.mixgraph.io/artists/madcore"
   ],
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "Dubstep"
+  ]
  },
  "A.way": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "genres": [
+   "Bass",
+   "Drum & Bass",
+   "Dubstep"
+  ]
  },
  "hechter": {
   "links": {
@@ -53836,7 +54023,12 @@ const AR={
   ],
   "setsChecked": "2026-11-20",
   "infoChk": "2026-11-20",
-  "noImg": "2026-11-20"
+  "noImg": "2026-11-20",
+  "genres": [
+   "Bass",
+   "Drum & Bass",
+   "Dubstep"
+  ]
  }
 };
 
