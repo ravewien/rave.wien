@@ -276,6 +276,22 @@ DESCRIPTION:\nBassbehörde im FLUCC Wanne. Die Location-Seite nennt bishe
 URL:https://rave.wien/e/2026-12-05-bassbehorde
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-11-sniffin-glue@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T220000
+DTEND;TZID=Europe/Vienna:20261212T030000
+SUMMARY:Sniffin´ Glue
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Xeno & Oaklander\n\nNeue Ausgabe der Reihe Sniffin´ Glue im 
+ FLUCC. Laut Techno Airlines spielt das New Yorker Duo Xeno & Oaklander (
+ Liz Wendelbo und Sean McBride)\, bekannt für analogen Minimal Synth und
+  Coldwave mit Releases u. a. auf Ghostly International und Dais Records.
+  Weitere Details (Floor\, Support\, Preis\, Endzeit) waren bei diesem La
+ uf nicht abrufbar und folgen bei der nächsten Prüfung.\n\nhttps://rave
+ .wien/e/2026-12-11-sniffin-glue
+URL:https://rave.wien/e/2026-12-11-sniffin-glue
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-11-amore-ag-x-vnv-with-fafi-abdel-nour@rave.wien
 DTSTAMP:20261211T000000Z
 DTSTART;TZID=Europe/Vienna:20261211T230000
@@ -290,6 +306,20 @@ DESCRIPTION:Fafi Abdel Nour\nVeranstalter: Amore AG\, VNV\n\nClubnacht de
  Preis offen.\n\nhttps://rave.wien/e/2026-12-11-amore-ag-x-vnv-with-fafi-
  abdel-nour
 URL:https://rave.wien/e/2026-12-11-amore-ag-x-vnv-with-fafi-abdel-nour
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-civic-pressure@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T230000
+DTEND;TZID=Europe/Vienna:20261213T040000
+SUMMARY:CIVIC: Pressure
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: CIVIC\n\nNeue Nacht der Wiener Reihe CIVIC im F
+ LUCC unter dem Motto „Pressure“. Lineup\, Floor\, Preis und Endzeit 
+ sind laut Techno-Airlines-Übersicht noch nicht angegeben bzw. konnten i
+ n diesem Lauf nicht abgerufen werden.\n\nhttps://rave.wien/e/2026-12-12-
+ civic-pressure
+URL:https://rave.wien/e/2026-12-12-civic-pressure
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-flut-x-callshop-radio-week-50@rave.wien

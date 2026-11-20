@@ -26,6 +26,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-12-liminal-afterhour-3@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T063000
+DTEND;TZID=Europe/Vienna:20261212T130000
+SUMMARY:Liminal Afterhour #3
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Altroy Jerome\, Artemuse\, JP Bechamel\, Malounadou\nVeransta
+ lter: Liminal\nEintritt: 10 €\n\nDritte Ausgabe der Liminal Afterhour 
+ im Loft am Samstagmorgen: auf zwei Floors soll es Techno\, Tech House\, 
+ House\, Breakbeat und Disco geben\, das Lineup ist noch nicht bekannt. 0
+ 6:00–13:00\, 10 €\, ab 21.\n\nhttps://rave.wien/e/2026-12-12-liminal
+ -afterhour-3
+URL:https://rave.wien/e/2026-12-12-liminal-afterhour-3
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-05-donnerstag-nacht@rave.wien
 DTSTAMP:20261105T000000Z
 DTSTART;TZID=Europe/Vienna:20261105T230000

@@ -26,22 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-18-rave-am-mittwoch@rave.wien
-DTSTAMP:20261118T000000Z
-DTSTART;TZID=Europe/Vienna:20261118T230000
-DTEND;TZID=Europe/Vienna:20261119T040000
-SUMMARY:Rave am Mittwoch
-LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentliche Rave am M
- ittwoch (RAM) im Werk unter dem Motto „Recharge Wednesdays“ – laut
-  Veranstalter jede Woche harte Beats und lange Nächte. Beginn 23 Uhr\; 
- der Eintritt erfolgt in den bisherigen Ausgaben gegen freiwillige Spende
- \, ein Dresscode existiert nicht. Ein Awareness-Team ist vor Ort. Das Li
- ne-up dieser Ausgabe ist noch nicht veröffentlicht.\n\nhttps://rave.wie
- n/e/2026-11-18-rave-am-mittwoch
-URL:https://rave.wien/e/2026-11-18-rave-am-mittwoch
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-19-heavy-listening-with-tanja-turner-mert-seger-heap@rave.wien
 DTSTAMP:20261119T000000Z
 DTSTART;TZID=Europe/Vienna:20261119T200000
@@ -2263,6 +2247,22 @@ DESCRIPTION:Veranstalter: Titti Queer Club\nEintritt: 10–15 €\n\nTitt
 URL:https://rave.wien/e/2026-12-11-titti-titti-bang-bang
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-11-sniffin-glue@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T220000
+DTEND;TZID=Europe/Vienna:20261212T030000
+SUMMARY:Sniffin´ Glue
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Xeno & Oaklander\n\nNeue Ausgabe der Reihe Sniffin´ Glue im 
+ FLUCC. Laut Techno Airlines spielt das New Yorker Duo Xeno & Oaklander (
+ Liz Wendelbo und Sean McBride)\, bekannt für analogen Minimal Synth und
+  Coldwave mit Releases u. a. auf Ghostly International und Dais Records.
+  Weitere Details (Floor\, Support\, Preis\, Endzeit) waren bei diesem La
+ uf nicht abrufbar und folgen bei der nächsten Prüfung.\n\nhttps://rave
+ .wien/e/2026-12-11-sniffin-glue
+URL:https://rave.wien/e/2026-12-11-sniffin-glue
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-11-zuckerwatt-w-ellen-allien@rave.wien
 DTSTAMP:20261211T000000Z
 DTSTART;TZID=Europe/Vienna:20261211T230000
@@ -2355,11 +2355,12 @@ DTSTART;TZID=Europe/Vienna:20261212T063000
 DTEND;TZID=Europe/Vienna:20261212T130000
 SUMMARY:Liminal Afterhour #3
 LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
-DESCRIPTION:Veranstalter: Liminal\nEintritt: 10 €\n\nDritte Ausgabe der
-  Liminal Afterhour im Loft am Samstagmorgen: auf zwei Floors soll es Tec
- hno\, Tech House\, House\, Breakbeat und Disco geben\, das Lineup ist no
- ch nicht bekannt. 06:00–13:00\, 10 €\, ab 21.\n\nhttps://rave.wien/e
- /2026-12-12-liminal-afterhour-3
+DESCRIPTION:Altroy Jerome\, Artemuse\, JP Bechamel\, Malounadou\nVeransta
+ lter: Liminal\nEintritt: 10 €\n\nDritte Ausgabe der Liminal Afterhour 
+ im Loft am Samstagmorgen: auf zwei Floors soll es Techno\, Tech House\, 
+ House\, Breakbeat und Disco geben\, das Lineup ist noch nicht bekannt. 0
+ 6:00–13:00\, 10 €\, ab 21.\n\nhttps://rave.wien/e/2026-12-12-liminal
+ -afterhour-3
 URL:https://rave.wien/e/2026-12-12-liminal-afterhour-3
 END:VEVENT
 BEGIN:VEVENT
@@ -2431,6 +2432,20 @@ DESCRIPTION:Audrey Danza\, Apua\, DJ Deadlift\, Dreya\nVeranstalter: Redi
  de und Flyer sind noch offen.\n\nhttps://rave.wien/e/2026-12-12-redivide
  r-pres-audrey-danza
 URL:https://rave.wien/e/2026-12-12-redivider-pres-audrey-danza
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-civic-pressure@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T230000
+DTEND;TZID=Europe/Vienna:20261213T040000
+SUMMARY:CIVIC: Pressure
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: CIVIC\n\nNeue Nacht der Wiener Reihe CIVIC im F
+ LUCC unter dem Motto „Pressure“. Lineup\, Floor\, Preis und Endzeit 
+ sind laut Techno-Airlines-Übersicht noch nicht angegeben bzw. konnten i
+ n diesem Lauf nicht abgerufen werden.\n\nhttps://rave.wien/e/2026-12-12-
+ civic-pressure
+URL:https://rave.wien/e/2026-12-12-civic-pressure
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-flut-x-callshop-radio-week-50@rave.wien
@@ -2614,6 +2629,22 @@ DESCRIPTION:Eintritt: 8–12 €\n\nMonatliche „Transmission“-Nacht i
  –12 €\, Dresscode casual chic.\n\nhttps://rave.wien/e/2026-12-18-dec
  ember-transmission
 URL:https://rave.wien/e/2026-12-18-december-transmission
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-joyce-muniz-im-wohnzimmer@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T230000
+DTEND;TZID=Europe/Vienna:20261219T040000
+SUMMARY:Joyce Muniz im Wohnzimmer
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Joyce Muniz\, Joules\nVeranstalter: Wohnzimmer\n\nJoyce Muniz
+  kehrt mit ihrer Reihe „im Wohnzimmer“ in den SASS Music Club zurüc
+ k. Die in Wien lebende\, aus São Paulo stammende DJ und Produzentin ver
+ bindet House\, Electro und Breaks und veröffentlicht u. a. auf Exploite
+ d und ihrem eigenen Label. Als weiterer Act ist laut Techno Airlines Jou
+ les (AT) angekündigt. Preis und Endzeit waren in diesem Lauf nicht abru
+ fbar.\n\nhttps://rave.wien/e/2026-12-18-joyce-muniz-im-wohnzimmer
+URL:https://rave.wien/e/2026-12-18-joyce-muniz-im-wohnzimmer
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-vvax-vinyl-only-techno-1-year-anniversary@rave.wien
@@ -27058,5 +27089,21 @@ DESCRIPTION:great area\, PILLBERT\nVeranstalter: nomenklatur\nEintritt: 2
  n Preis nicht leisten können. Genres laut RA: Ambient\, Experimental.\n
  \nhttps://rave.wien/e/2026-11-15-nomenklatur-w-great-area-pillbert-live
 URL:https://rave.wien/e/2026-11-15-nomenklatur-w-great-area-pillbert-live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-rave-am-mittwoch@rave.wien
+DTSTAMP:20261118T000000Z
+DTSTART;TZID=Europe/Vienna:20261118T230000
+DTEND;TZID=Europe/Vienna:20261119T040000
+SUMMARY:Rave am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentliche Rave am M
+ ittwoch (RAM) im Werk unter dem Motto „Recharge Wednesdays“ – laut
+  Veranstalter jede Woche harte Beats und lange Nächte. Beginn 23 Uhr\; 
+ der Eintritt erfolgt in den bisherigen Ausgaben gegen freiwillige Spende
+ \, ein Dresscode existiert nicht. Ein Awareness-Team ist vor Ort. Das Li
+ ne-up dieser Ausgabe ist noch nicht veröffentlicht.\n\nhttps://rave.wie
+ n/e/2026-11-18-rave-am-mittwoch
+URL:https://rave.wien/e/2026-11-18-rave-am-mittwoch
 END:VEVENT
 END:VCALENDAR

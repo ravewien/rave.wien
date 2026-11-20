@@ -26,6 +26,20 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-12-civic-pressure@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T230000
+DTEND;TZID=Europe/Vienna:20261213T040000
+SUMMARY:CIVIC: Pressure
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Veranstalter: CIVIC\n\nNeue Nacht der Wiener Reihe CIVIC im F
+ LUCC unter dem Motto „Pressure“. Lineup\, Floor\, Preis und Endzeit 
+ sind laut Techno-Airlines-Übersicht noch nicht angegeben bzw. konnten i
+ n diesem Lauf nicht abgerufen werden.\n\nhttps://rave.wien/e/2026-12-12-
+ civic-pressure
+URL:https://rave.wien/e/2026-12-12-civic-pressure
+END:VEVENT
+BEGIN:VEVENT
 UID:2025-09-24-civic-dnb-edition-vol-1@rave.wien
 DTSTAMP:20250924T000000Z
 DTSTART;VALUE=DATE:20250924
