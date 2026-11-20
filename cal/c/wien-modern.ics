@@ -46,6 +46,24 @@ DESCRIPTION:Stipo\, Station Rose\, Konman\, Julia Goldfarb\nVeranstalter:
 URL:https://rave.wien/e/2026-11-27-party-modern-prst-station-rose
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-party-modern-muk-owa@rave.wien
+DTSTAMP:20261129T000000Z
+DTSTART;TZID=Europe/Vienna:20261129T180000
+DTEND;TZID=Europe/Vienna:20261129T213000
+SUMMARY:Party Modern | MUK@OWA
+LOCATION:Otto Wagner Areal\, Baumgartner Höhe 1\, 1140 Wien
+DESCRIPTION:Veranstalter: Wien Modern\nEintritt frei\n\nParty im Rahmen d
+ es Festivals Wien Modern im MUK-Pavillon 10 am Otto Wagner Areal\, gesta
+ ltet von der Musik und Kunst Privatuniversität der Stadt Wien (MUK). De
+ r Abend ist als tanzbarer Raum für elektronische Sounds\, Improvisation
+  und DJ-Line/Turntablism angelegt. Es spielen Lehrende und Studierende d
+ er MUK aus den Klassen von Masha Dabelka\, Christian Fennesz und Martin 
+ Siewert. Vorher läuft am selben Ort von 15 bis 18 Uhr das Konzert „Si
+ lent Ecologies“. Eintritt frei.\n\nhttps://rave.wien/e/2026-11-29-part
+ y-modern-muk-owa
+URL:https://rave.wien/e/2026-11-29-party-modern-muk-owa
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-05-party-modern-sch-cht@rave.wien
 DTSTAMP:20261105T000000Z
 DTSTART;TZID=Europe/Vienna:20261105T203000

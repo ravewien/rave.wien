@@ -911,6 +911,20 @@ URL:https://rave.wien/e/2026-11-26-nomenklatur-w-cancer-house-live-when-i
  t-s-over-li
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-26-donnerstrada@rave.wien
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Vienna:20261126T210000
+DTEND;TZID=Europe/Vienna:20261127T020000
+SUMMARY:Donnerstrada
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Veranstalter: Donnerstrada\n\nNeue Ausgabe der Donnerstags-Re
+ ihe Donnerstrada im PRST in der Praterstraße. Der FALTER führt den Abe
+ nd als Party mit Beginn um 21:00. Lineup\, Preise und Ticketinfos sind b
+ isher nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-11-26-donnerstr
+ ada
+URL:https://rave.wien/e/2026-11-26-donnerstrada
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-26-donnerstag-nacht@rave.wien
 DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Vienna:20261126T230000
@@ -1594,6 +1608,24 @@ DESCRIPTION:Veranstalter: CitrusCue\nEintritt frei (Gratis-Ticket nötig)
  hno\; ein Lineup ist noch nicht veröffentlicht.\n\nhttps://rave.wien/e/
  2026-11-29-hot-wet-x-citrus-cue-christmas-party
 URL:https://rave.wien/e/2026-11-29-hot-wet-x-citrus-cue-christmas-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-29-party-modern-muk-owa@rave.wien
+DTSTAMP:20261129T000000Z
+DTSTART;TZID=Europe/Vienna:20261129T180000
+DTEND;TZID=Europe/Vienna:20261129T213000
+SUMMARY:Party Modern | MUK@OWA
+LOCATION:Otto Wagner Areal\, Baumgartner Höhe 1\, 1140 Wien
+DESCRIPTION:Veranstalter: Wien Modern\nEintritt frei\n\nParty im Rahmen d
+ es Festivals Wien Modern im MUK-Pavillon 10 am Otto Wagner Areal\, gesta
+ ltet von der Musik und Kunst Privatuniversität der Stadt Wien (MUK). De
+ r Abend ist als tanzbarer Raum für elektronische Sounds\, Improvisation
+  und DJ-Line/Turntablism angelegt. Es spielen Lehrende und Studierende d
+ er MUK aus den Klassen von Masha Dabelka\, Christian Fennesz und Martin 
+ Siewert. Vorher läuft am selben Ort von 15 bis 18 Uhr das Konzert „Si
+ lent Ecologies“. Eintritt frei.\n\nhttps://rave.wien/e/2026-11-29-part
+ y-modern-muk-owa
+URL:https://rave.wien/e/2026-11-29-party-modern-muk-owa
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-harmont-live-with-a-phan-frnrke@rave.wien
