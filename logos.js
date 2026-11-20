@@ -3,7 +3,6 @@ const LOGOBOX={
 "https://arena.wien/Portals/_default/Skins/ArenaWien/media/logo.png":[145,107,10,10,132,95,"#000000"],
 "https://assets-flucc-at.fra1.digitaloceanspaces.com/flucc-at-uploads/images/im-freudentaumel_KxbXHnR.max-2560x1440.png":[1440,1440,331,590,1076,823,"#000000"],
 "https://assets-s3.welocally.at/shrine/store/fdb7dbe8a7bf036d6f0ac22885b8b3d2.png":[400,400,23,26,376,369,"#ffffff"],
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxSNTz3y4vRe1uW6jAeEvkGJ8big2rRBHtXt7PFPx_1NgOIsaeuPzAUOIDBMAMDyhlvyg4dpSfKKDm66ShGgXrn-rYA-IQ7v_uHAdON2-SyAoiFnhr2mG6DOb4fSA0aCD2n6d_2e9RxVYc/s1600/zuckerwatt_hq.jpg":[600,788,18,18,582,770,"#000000"],
 "https://club-u.at/wp-content/uploads/2022/07/LOGO_big_n22-1024x579.jpg":[1024,579,33,47,991,533,"#1f1a17"],
 "https://deepcut.at/wp-content/uploads/2026/02/deep-cut-Logo-white-300w.png":[300,94,0,0,300,94,"#000000"],
 "https://dv7zfk0hwmxgu.cloudfront.net/sites/default/files/styles/logo_200_200/public/promoter-images/139686/logo-1691685252.png":[200,200,8,12,189,196,"#edc300"],
