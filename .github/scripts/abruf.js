@@ -20,7 +20,10 @@ else {
   const { RAW, VI, CI } = c.o; const up = RAW.filter(e => e.d >= heute);
   up.forEach(e => { (e.src || []).forEach(s => s && s[1] && urls.push(s[1])); if (e.tickets) urls.push(e.tickets); });
   [...new Set(up.map(e => e.venue))].forEach(v => { const w = VI[v] && VI[v].web; if (w && !/instagram|facebook/.test(w)) urls.push(w); });
-  [...new Set(up.flatMap(e => e.coll || []))].forEach(n => { const w = CI[n] && CI[n].web; if (w && !/instagram|facebook/.test(w)) urls.push(w); });
+  // alle Veranstalter mit eigener Website bzw. eigenem Ticketshop (auch ohne kommendes Event – dort tauchen neue Termine zuerst auf)
+  Object.values(CI).forEach(x => { if (!x) return; [x.web, x.tix].forEach(w => { if (w && !/instagram|facebook|linktr\.ee/.test(w)) urls.push(w); }); });
+  // Spuren der Profil-Läufe (Termine/Programmseiten, die das Event-Update prüfen soll)
+  try { fs.readFileSync(path.join(root, ".github/agent/spuren.tsv"), "utf8").split("\n").slice(1).forEach(l => { const u = l.split("\t")[5]; if (/^https:\/\//.test(u || "")) urls.push(u.trim()); }); } catch (_) {}
 }
 const norm = u => { try { const x = new URL(u); x.hash = ""; return x.toString(); } catch (_) { return ""; } };
 urls = [...new Set(urls.map(norm).filter(Boolean))].filter(u => !/(instagram\.com|facebook\.com|fb\.me|soundcloud\.com|spotify\.com|youtube\.com|tiktok\.com)/.test(u));
