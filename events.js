@@ -5894,7 +5894,8 @@ const CI={
    "https://soundcloud.com/citruscue-official/dj-xy-bass-set-lucia"
   ],
   "noLogo": "2026-11-15",
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "ig": "https://www.instagram.com/citruscue/"
  },
  "Clubgewandte": {
   "de": "Clubnacht im Gebäude der Universität für angewandte Kunst in der ehemaligen Postsparkasse (Angewandte PSK) mit Live-Musik, DJ-Sets und Kunst, meist bei freiem Eintritt.",
