@@ -1,12 +1,13 @@
 // Für die automatischen Läufe: Abruf-Kopien holen und entpacken.
-//   ABRUF_KEY="-----BEGIN PRIVATE KEY-----…" node .github/scripts/abruf-holen.js            → letzter Voll-Abruf (Branch „abruf“) nach /tmp/abruf
-//   ABRUF_KEY=… node .github/scripts/abruf-holen.js https://a https://b …                       → diese Adressen jetzt frisch holen lassen (dauert 1–3 Min.)
+//   (Schlüssel in /tmp/abruf-key.pem oder ABRUF_KEY) node .github/scripts/abruf-holen.js            → letzter Voll-Abruf (Branch „abruf“) nach /tmp/abruf
+//   node .github/scripts/abruf-holen.js https://a https://b …                       → diese Adressen jetzt frisch holen lassen (dauert 1–3 Min.)
 // Ergebnis: /tmp/abruf/index.tsv (adresse, status, zeichen, datei, fehler), /tmp/abruf/seiten/*.txt, status.json
 const { execSync: x } = require("child_process"), fs = require("fs"), path = require("path"), os = require("os");
 const repo = "ravewien/rave.wien", ziel = process.env.ABRUF_ZIEL || "/tmp/abruf";
 const sh = (c, o = {}) => x(c, { stdio: ["ignore", "pipe", "pipe"], encoding: "utf8", maxBuffer: 1 << 28, ...o });
-const key = (process.env.ABRUF_KEY || "").replace(/\\n/g, "\n").trim();
-if (!/BEGIN PRIVATE KEY/.test(key)) { console.error("ABRUF_KEY fehlt (steht im Auftrag des Laufs)"); process.exit(2); }
+let key = (process.env.ABRUF_KEY || "").replace(/\\n/g, "\n").trim();
+if (!key) try { key = fs.readFileSync(process.env.ABRUF_KEY_DATEI || "/tmp/abruf-key.pem", "utf8").trim(); } catch (_) {}
+if (!/BEGIN PRIVATE KEY/.test(key)) { console.error("Schlüssel fehlt: /tmp/abruf-key.pem anlegen (Inhalt steht im Auftrag des Laufs)"); process.exit(2); }
 const tmp = fs.mkdtempSync(path.join(os.tmpdir(), "abr-")); fs.writeFileSync(path.join(tmp, "k.pem"), key + "\n", { mode: 0o600 });
 const urls = process.argv.slice(2).filter(u => /^https?:\/\//.test(u));
 let branch = "abruf";
