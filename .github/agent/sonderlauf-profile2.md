@@ -1,5 +1,7 @@
 # Sonderlauf 2: Artist-Profile – Bild, Links, Bio, Herkunft (zweiter Durchgang)
 
+**ALLES SELBST MACHEN (zwingend):** KEINE Unteragenten starten (kein Agent-/Task-Tool). Jede Websuche und jeden Seitenabruf im Hauptlauf selbst ausführen – Unteragenten haben keine Freigabe für Adressen, dort bleibt jeder Abruf an einer unbeantworteten Freigabe-Anfrage hängen. Mehrere WebSearch-/WebFetch-Aufrufe gleichzeitig in einer Antwort sind erwünscht.
+
 Ziel: Bei den Artists mit kommenden Events fehlen noch Bild, Links, Bio und/oder Herkunft. Fast alle wurden in den letzten zwei Wochen schon einmal gesucht (RA, SoundCloud, eine allgemeine Suche) – ohne Erfolg. Dieser Lauf probiert es gezielt mit ANDEREN Wegen. Nur Artists, keine Veranstalter, keine Locations. Alles auf Deutsch. Diese Datei enthält alle Regeln; keine andere Anweisungsdatei lesen.
 
 ## Deine Liste

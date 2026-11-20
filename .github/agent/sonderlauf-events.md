@@ -1,5 +1,7 @@
 # Sonderlauf: Kommende Events vervollständigen (Preis, Ende, Flyer, Lineup, Tickets, Beschreibung …)
 
+**ALLES SELBST MACHEN (zwingend):** KEINE Unteragenten starten (kein Agent-/Task-Tool). Jede Websuche und jeden Seitenabruf im Hauptlauf selbst ausführen – Unteragenten haben keine Freigabe für Adressen, dort bleibt jeder Abruf an einer unbeantworteten Freigabe-Anfrage hängen. Mehrere WebSearch-/WebFetch-Aufrufe gleichzeitig in einer Antwort sind erwünscht.
+
 Ziel: Jedes kommende Event deiner Liste einmal gründlich prüfen und alle fehlenden Angaben nachtragen. Kein Seitenbudget-Sparen. KEINE Suche nach neuen Events, keine Artist-/Veranstalter-/Location-Profile, kein Archiv. Alles auf Deutsch. Diese Datei enthält alle Regeln; keine andere Anweisungsdatei lesen.
 
 ## Deine Liste

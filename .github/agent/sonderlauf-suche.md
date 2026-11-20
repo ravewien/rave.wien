@@ -1,5 +1,7 @@
 # Sonderlauf: Gründliche Eventsuche (fehlende kommende Events finden)
 
+**ALLES SELBST MACHEN (zwingend):** KEINE Unteragenten starten (kein Agent-/Task-Tool). Jede Websuche und jeden Seitenabruf im Hauptlauf selbst ausführen – Unteragenten haben keine Freigabe für Adressen, dort bleibt jeder Abruf an einer unbeantworteten Freigabe-Anfrage hängen. Mehrere WebSearch-/WebFetch-Aufrufe gleichzeitig in einer Antwort sind erwünscht.
+
 Ziel: Für jede Quelle deiner Liste das GANZE kommende Programm durchgehen und jedes passende Event, das in rave.wien noch fehlt, vollständig eintragen. Kein Seitenbudget-Sparen – Gründlichkeit vor Tempo. Keine Artist-/Veranstalter-/Location-Profile, kein Archiv, keine vergangenen Events. Alles auf Deutsch. Diese Datei enthält alle Regeln; keine andere Anweisungsdatei lesen.
 
 ## Deine Liste

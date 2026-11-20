@@ -1,5 +1,7 @@
 # Sondersuchlauf: Sets und Spotify-Links für Artists mit kommenden Events
 
+**ALLES SELBST MACHEN (zwingend):** KEINE Unteragenten starten (kein Agent-/Task-Tool). Jede Websuche und jeden Seitenabruf im Hauptlauf selbst ausführen – Unteragenten haben keine Freigabe für Adressen, dort bleibt jeder Abruf an einer unbeantworteten Freigabe-Anfrage hängen. Mehrere WebSearch-/WebFetch-Aufrufe gleichzeitig in einer Antwort sind erwünscht.
+
 Ziel: Sets (SoundCloud/Mixcloud) und der Spotify-Link sind der wichtigste Teil eines Artist-Profils. Dieser Lauf füllt die Lücke – und macht NUR das: keine Bilder, keine Bios, keine anderen Links, keine Veranstalter, keine Locations. Alles auf Deutsch.
 
 ## Deine Liste
