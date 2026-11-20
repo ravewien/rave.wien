@@ -77,6 +77,22 @@ DESCRIPTION:Fede Frostl\nEintritt frei\n\nWeitere Ausgabe der Rooftop Ser
 URL:https://rave.wien/e/2026-12-05-rooftop-series-at-mariatrink
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-02-06-progressive-madness@rave.wien
+DTSTAMP:20270206T000000Z
+DTSTART;TZID=Europe/Vienna:20270206T235900
+DTEND;TZID=Europe/Vienna:20270207T060000
+SUMMARY:Progressive Madness
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Monofade\, Niko Garcia\, Fede Frostl\nEintritt frei\n\nDer Kr
+ amladen präsentiert Progressive Madness: eine Nacht rund um die tiefere
+  Seite von Progressive. Monofade\, Niko Garcia und Fede Frostl spielen j
+ eweils ihre eigene Auswahl – laut Ankündigung mit sich entwickelnden 
+ Rhythmen und hypnotischen Grooves. Beginn 23:59\, Ende 6 Uhr\, Eintritt 
+ frei.\n\nhttps://rave.wien/e/2027-02-06-progressive-madness
+URL:https://rave.wien/e/2027-02-06-progressive-madness
+END:VEVENT
+BEGIN:VEVENT
 UID:2025-02-15-fede-frostl-b2b-noe-bortolussi@rave.wien
 DTSTAMP:20250215T000000Z
 DTSTART;VALUE=DATE:20250215

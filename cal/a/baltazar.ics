@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Baltazar · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-24-yulemorph-awakening-the-long-night@rave.wien
+DTSTAMP:20261224T000000Z
+DTSTART;TZID=Europe/Vienna:20261224T230000
+DTEND;TZID=Europe/Vienna:20261225T060000
+SUMMARY:YULEMORPH – Awakening the Long Night
+LOCATION:The Chamber\, Hernalser Gürtel 18\, 1080 Wien
+DESCRIPTION:Baltazar\, Askeladd\, Attrick\, Bahosh\, Gatodelic\nVeranstal
+ ter: Unstoppable Organizerteam\n\nEine Nacht zur Wintersonnenwende mit d
+ unklem Psytrance und Forest-Sounds im Chamber. Hauptact ist Baltazar aus
+  Brno\, der dort die Reihe „Night of Dark Tales“ betreibt\; dazu spi
+ elen Askeladd\, Attrick\, Bahosh und Gatodelic. Es gibt Welcome-Shots un
+ d\, solange der Vorrat reicht\, hausgemachten Eierlikör. Das Team setzt
+  auf null Toleranz gegenüber Diskriminierung und hat eine zertifizierte
+ \, vor Ort erkennbare Awareness-Person. Einlass ab 18.\n\nhttps://rave.w
+ ien/e/2026-12-24-yulemorph-awakening-the-long-night
+URL:https://rave.wien/e/2026-12-24-yulemorph-awakening-the-long-night
+END:VEVENT
+END:VCALENDAR

@@ -26,6 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-28-trinix@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T200000
+DTEND;TZID=Europe/Vienna:20261129T010000
+SUMMARY:Trinix
+LOCATION:WUK\, Währinger Straße 59\, 1090 Wien
+DESCRIPTION:Trinix\nEintritt: 38\,64 €\n\nDas französische Electro-DJ-
+ Duo Trinix spielt eine Live-Show im Saal des WUK. 2025 füllten die beid
+ en das Zénith in Paris und veröffentlichten ihr Album „Origin“\; i
+ hre Single „Vaitimbora“ landete laut WUK in über 70 Ländern in den
+  Charts. Auf ihrem Konto stehen Auftritte im L'Olympia\, beim Tomorrowla
+ nd\, bei Solidays\, Vieilles Charrues und Paléo. Einlass 19 Uhr\, Begin
+ n 20 Uhr\; der Saal (Eingang C) ist barrierefrei\, um Anmeldung wird geb
+ eten.\n\nhttps://rave.wien/e/2026-11-28-trinix
+URL:https://rave.wien/e/2026-11-28-trinix
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-05-elektro-guzzi-special-guests-palazzo-festival@rave.wien
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=Europe/Vienna:20261205T210000

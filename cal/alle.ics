@@ -1177,6 +1177,23 @@ URL:https://rave.wien/e/2026-11-28-eroffnung-60-jahre-gastarbajt-die-verh
  altnisse-zu
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-trinix@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T200000
+DTEND;TZID=Europe/Vienna:20261129T010000
+SUMMARY:Trinix
+LOCATION:WUK\, Währinger Straße 59\, 1090 Wien
+DESCRIPTION:Trinix\nEintritt: 38\,64 €\n\nDas französische Electro-DJ-
+ Duo Trinix spielt eine Live-Show im Saal des WUK. 2025 füllten die beid
+ en das Zénith in Paris und veröffentlichten ihr Album „Origin“\; i
+ hre Single „Vaitimbora“ landete laut WUK in über 70 Ländern in den
+  Charts. Auf ihrem Konto stehen Auftritte im L'Olympia\, beim Tomorrowla
+ nd\, bei Solidays\, Vieilles Charrues und Paléo. Einlass 19 Uhr\, Begin
+ n 20 Uhr\; der Saal (Eingang C) ist barrierefrei\, um Anmeldung wird geb
+ eten.\n\nhttps://rave.wien/e/2026-11-28-trinix
+URL:https://rave.wien/e/2026-11-28-trinix
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-kalte-das-celeste-wird-12-1-25@rave.wien
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Vienna:20261128T220000
@@ -2448,6 +2465,23 @@ DESCRIPTION:Veranstalter: CIVIC\n\nNeue Nacht der Wiener Reihe CIVIC im F
 URL:https://rave.wien/e/2026-12-12-civic-pressure
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-12-the-hive@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T230000
+DTEND;TZID=Europe/Vienna:20261213T040000
+SUMMARY:THE HIVE
+LOCATION:Flex\, Augartenbrücke 1\, 1010 Wien
+DESCRIPTION:RAIDO\, 5HA5H\, 4LIX\, BOBJÖST\, BUG\, TYO\, C-MON\, CRAY-C\
+ , 5ALREADY\, GORYO\, STONERICE\, QUADRILLE\, ENDSEARCH\, SO:NA\, CONCISE
+ \nVeranstalter: The Hive\nEintritt: VVK 12 € / AK 15 €\n\nNeue Ausga
+ be der Reihe THE HIVE im Flex\, diesmal als „International B2 Session
+ “\, gehostet von 5HA5H. Das Lineup besteht durchgehend aus B2B-Sets\, 
+ u. a. RAIDO b2b 5HA5H\, 4LIX b2b BOBJÖST und BUG b2b TYO. 5ALREADY\, GO
+ RYO und STONERICE präsentieren gemeinsam einen COL:LAB-Showcase. Einlas
+ s ab 23:00.\n\nhttps://rave.wien/e/2026-12-12-the-hive
+URL:https://rave.wien/e/2026-12-12-the-hive
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-13-flut-x-callshop-radio-week-50@rave.wien
 DTSTAMP:20261213T000000Z
 DTSTART;TZID=Europe/Vienna:20261213T140000
@@ -2805,6 +2839,24 @@ DESCRIPTION:Veranstalter: Nasty Connexion\, Out of Space\n\nWeihnachtsaus
 URL:https://rave.wien/e/2026-12-24-out-of-space-xmas-eve
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-24-yulemorph-awakening-the-long-night@rave.wien
+DTSTAMP:20261224T000000Z
+DTSTART;TZID=Europe/Vienna:20261224T230000
+DTEND;TZID=Europe/Vienna:20261225T060000
+SUMMARY:YULEMORPH – Awakening the Long Night
+LOCATION:The Chamber\, Hernalser Gürtel 18\, 1080 Wien
+DESCRIPTION:Baltazar\, Askeladd\, Attrick\, Bahosh\, Gatodelic\nVeranstal
+ ter: Unstoppable Organizerteam\n\nEine Nacht zur Wintersonnenwende mit d
+ unklem Psytrance und Forest-Sounds im Chamber. Hauptact ist Baltazar aus
+  Brno\, der dort die Reihe „Night of Dark Tales“ betreibt\; dazu spi
+ elen Askeladd\, Attrick\, Bahosh und Gatodelic. Es gibt Welcome-Shots un
+ d\, solange der Vorrat reicht\, hausgemachten Eierlikör. Das Team setzt
+  auf null Toleranz gegenüber Diskriminierung und hat eine zertifizierte
+ \, vor Ort erkennbare Awareness-Person. Einlass ab 18.\n\nhttps://rave.w
+ ien/e/2026-12-24-yulemorph-awakening-the-long-night
+URL:https://rave.wien/e/2026-12-24-yulemorph-awakening-the-long-night
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-27-flut-x-callshop-radio-week-52@rave.wien
 DTSTAMP:20261227T000000Z
 DTSTART;TZID=Europe/Vienna:20261227T140000
@@ -2892,6 +2944,19 @@ DESCRIPTION:Klangkarussell\nVeranstalter: SIGNAL\n\nSIGNAL präsentiert d
 URL:https://rave.wien/e/2027-01-15-klangkarussell
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-16-traveling-without-moving@rave.wien
+DTSTAMP:20270116T000000Z
+DTSTART;TZID=Europe/Vienna:20270116T220000
+DTEND;TZID=Europe/Vienna:20270117T060000
+SUMMARY:traveling without moving
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Veranstalter: created-on-earth\n\nWeitere Ausgabe der Clubnac
+ ht „traveling without moving“ von created-on-earth im Funkhaus. 22:0
+ 0–06:00\, ab 18. Lineup und Preis sind noch nicht angekündigt.\n\nhtt
+ ps://rave.wien/e/2027-01-16-traveling-without-moving
+URL:https://rave.wien/e/2027-01-16-traveling-without-moving
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-22-ueberrest@rave.wien
 DTSTAMP:20270122T000000Z
 DTSTART;TZID=Europe/Vienna:20270122T230000
@@ -2958,6 +3023,38 @@ DESCRIPTION:Veranstalter: FromDuskTillDawn\nEintritt: Festivalpass 69 €
 URL:https://rave.wien/e/2027-01-30-paradise-winter-festival-2027-nacht-2
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-02-06-collapse-eatbrain-night-vienna-edition@rave.wien
+DTSTAMP:20270206T000000Z
+DTSTART;TZID=Europe/Vienna:20270206T220000
+DTEND;TZID=Europe/Vienna:20270207T030000
+SUMMARY:COLLAPSE – Eatbrain Night: Vienna Edition
+LOCATION:Arena Wien\, Baumgasse 80\, 1030 Wien
+DESCRIPTION:Veranstalter: Collapse\nEintritt: VVK Phase 2 32 €\n\nDas N
+ eurofunk-Label Eatbrain übernimmt mit Collapse die Arena Wien – laut 
+ Veranstalter nach neun Jahren wieder zurück dort. Geplant ist ein Label
+ -Showcase mit großteils exklusiven B2B-Sets\, darunter Kombinationen\, 
+ die es so noch nicht gab. Der Ticketshop spricht von drei Stages und zeh
+ n internationalen Headlinern\; Namen sind noch nicht bekannt.\n\nhttps:/
+ /rave.wien/e/2027-02-06-collapse-eatbrain-night-vienna-edition
+URL:https://rave.wien/e/2027-02-06-collapse-eatbrain-night-vienna-edition
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-progressive-madness@rave.wien
+DTSTAMP:20270206T000000Z
+DTSTART;TZID=Europe/Vienna:20270206T235900
+DTEND;TZID=Europe/Vienna:20270207T060000
+SUMMARY:Progressive Madness
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Monofade\, Niko Garcia\, Fede Frostl\nEintritt frei\n\nDer Kr
+ amladen präsentiert Progressive Madness: eine Nacht rund um die tiefere
+  Seite von Progressive. Monofade\, Niko Garcia und Fede Frostl spielen j
+ eweils ihre eigene Auswahl – laut Ankündigung mit sich entwickelnden 
+ Rhythmen und hypnotischen Grooves. Beginn 23:59\, Ende 6 Uhr\, Eintritt 
+ frei.\n\nhttps://rave.wien/e/2027-02-06-progressive-madness
+URL:https://rave.wien/e/2027-02-06-progressive-madness
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-02-12-schrotthagen@rave.wien
 DTSTAMP:20270212T000000Z
 DTSTART;TZID=Europe/Vienna:20270212T230000
@@ -2972,6 +3069,19 @@ DESCRIPTION:Schrotthagen\nVeranstalter: SIGNAL\nEintritt: ab 15 €\n\nSI
  €\, Dresscode casual // rave.\n\nhttps://rave.wien/e/2027-02-12-schrot
  thagen
 URL:https://rave.wien/e/2027-02-12-schrotthagen
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-13-traveling-without-moving@rave.wien
+DTSTAMP:20270213T000000Z
+DTSTART;TZID=Europe/Vienna:20270213T220000
+DTEND;TZID=Europe/Vienna:20270214T060000
+SUMMARY:traveling without moving
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Veranstalter: created-on-earth\n\nWeitere Ausgabe der Clubnac
+ ht „traveling without moving“ von created-on-earth im Funkhaus. 22:0
+ 0–06:00\, ab 18. Lineup und Preis sind noch nicht angekündigt.\n\nhtt
+ ps://rave.wien/e/2027-02-13-traveling-without-moving
+URL:https://rave.wien/e/2027-02-13-traveling-without-moving
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13-psytrance-werk@rave.wien
@@ -3008,6 +3118,37 @@ DESCRIPTION:Veranstalter: FromDuskTillDawn\n\nMonatliche Psytrance-Nacht
  von FromDuskTillDawn im Werk. Das Line-up ist noch nicht veröffentlicht
  .\n\nhttps://rave.wien/e/2027-03-13-psytrance-werk
 URL:https://rave.wien/e/2027-03-13-psytrance-werk
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-19-traveling-without-moving@rave.wien
+DTSTAMP:20270319T000000Z
+DTSTART;TZID=Europe/Vienna:20270319T220000
+DTEND;TZID=Europe/Vienna:20270320T060000
+SUMMARY:traveling without moving
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Veranstalter: created-on-earth\n\nWeitere Ausgabe der Clubnac
+ ht „traveling without moving“ von created-on-earth im Funkhaus. 22:0
+ 0–06:00\, ab 18. Lineup und Preis sind noch nicht angekündigt.\n\nhtt
+ ps://rave.wien/e/2027-03-19-traveling-without-moving
+URL:https://rave.wien/e/2027-03-19-traveling-without-moving
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-19-modulate-x-march-of-the-machines-pres-dubstation@rave.wien
+DTSTAMP:20270319T000000Z
+DTSTART;TZID=Europe/Vienna:20270319T220000
+DTEND;TZID=Europe/Vienna:20270320T030000
+SUMMARY:Modulate x March of the Machines pres. Dubstation Interchange
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:dr ushuu\, madcore\, A.way\, Feistling\, hechter\, Sliqx\, Ja
+ len Mess\, y?k\nVeranstalter: Modulate\, March of the Machines\nEintritt
+ : VVK 20 € / AK 25 €\n\nDubstation meldet sich zurück und wird inte
+ rnational: Modulate und March of the Machines laden zu einer Bass-Nacht 
+ mit Drum & Bass und Dubstep in The Loft. Als große Namen sind dr ushuu 
+ und madcore angekündigt\, dazu A.way\, Feistling\, hechter\, Sliqx\, Ja
+ len Mess und y?k. Einlass und Beginn um 22 Uhr.\n\nhttps://rave.wien/e/2
+ 027-03-19-modulate-x-march-of-the-machines-pres-dubstation
+URL:https://rave.wien/e/2027-03-19-modulate-x-march-of-the-machines-pres-
+ dubstation
 END:VEVENT
 BEGIN:VEVENT
 UID:2023-10-13-jetlag-disco-3-w-daniel-nitsch-oberst-buchner@rave.wien

@@ -26,6 +26,24 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2027-03-19-modulate-x-march-of-the-machines-pres-dubstation@rave.wien
+DTSTAMP:20270319T000000Z
+DTSTART;TZID=Europe/Vienna:20270319T220000
+DTEND;TZID=Europe/Vienna:20270320T030000
+SUMMARY:Modulate x March of the Machines pres. Dubstation Interchange
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:dr ushuu\, madcore\, A.way\, Feistling\, hechter\, Sliqx\, Ja
+ len Mess\, y?k\nVeranstalter: Modulate\, March of the Machines\nEintritt
+ : VVK 20 € / AK 25 €\n\nDubstation meldet sich zurück und wird inte
+ rnational: Modulate und March of the Machines laden zu einer Bass-Nacht 
+ mit Drum & Bass und Dubstep in The Loft. Als große Namen sind dr ushuu 
+ und madcore angekündigt\, dazu A.way\, Feistling\, hechter\, Sliqx\, Ja
+ len Mess und y?k. Einlass und Beginn um 22 Uhr.\n\nhttps://rave.wien/e/2
+ 027-03-19-modulate-x-march-of-the-machines-pres-dubstation
+URL:https://rave.wien/e/2027-03-19-modulate-x-march-of-the-machines-pres-
+ dubstation
+END:VEVENT
+BEGIN:VEVENT
 UID:2025-02-21-contrast-x-10-yrs-at-grelle-forelle@rave.wien
 DTSTAMP:20250221T000000Z
 DTSTART;VALUE=DATE:20250221

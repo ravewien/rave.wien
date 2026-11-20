@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:A.way · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2027-03-19-modulate-x-march-of-the-machines-pres-dubstation@rave.wien
+DTSTAMP:20270319T000000Z
+DTSTART;TZID=Europe/Vienna:20270319T220000
+DTEND;TZID=Europe/Vienna:20270320T030000
+SUMMARY:Modulate x March of the Machines pres. Dubstation Interchange
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:dr ushuu\, madcore\, A.way\, Feistling\, hechter\, Sliqx\, Ja
+ len Mess\, y?k\nVeranstalter: Modulate\, March of the Machines\nEintritt
+ : VVK 20 € / AK 25 €\n\nDubstation meldet sich zurück und wird inte
+ rnational: Modulate und March of the Machines laden zu einer Bass-Nacht 
+ mit Drum & Bass und Dubstep in The Loft. Als große Namen sind dr ushuu 
+ und madcore angekündigt\, dazu A.way\, Feistling\, hechter\, Sliqx\, Ja
+ len Mess und y?k. Einlass und Beginn um 22 Uhr.\n\nhttps://rave.wien/e/2
+ 027-03-19-modulate-x-march-of-the-machines-pres-dubstation
+URL:https://rave.wien/e/2027-03-19-modulate-x-march-of-the-machines-pres-
+ dubstation
+END:VEVENT
+END:VCALENDAR

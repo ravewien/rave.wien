@@ -26,6 +26,22 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2027-02-06-collapse-eatbrain-night-vienna-edition@rave.wien
+DTSTAMP:20270206T000000Z
+DTSTART;TZID=Europe/Vienna:20270206T220000
+DTEND;TZID=Europe/Vienna:20270207T030000
+SUMMARY:COLLAPSE – Eatbrain Night: Vienna Edition
+LOCATION:Arena Wien\, Baumgasse 80\, 1030 Wien
+DESCRIPTION:Veranstalter: Collapse\nEintritt: VVK Phase 2 32 €\n\nDas N
+ eurofunk-Label Eatbrain übernimmt mit Collapse die Arena Wien – laut 
+ Veranstalter nach neun Jahren wieder zurück dort. Geplant ist ein Label
+ -Showcase mit großteils exklusiven B2B-Sets\, darunter Kombinationen\, 
+ die es so noch nicht gab. Der Ticketshop spricht von drei Stages und zeh
+ n internationalen Headlinern\; Namen sind noch nicht bekannt.\n\nhttps:/
+ /rave.wien/e/2027-02-06-collapse-eatbrain-night-vienna-edition
+URL:https://rave.wien/e/2027-02-06-collapse-eatbrain-night-vienna-edition
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-24-elemnt-pres-kanine-reflections-arcando-basstrippe@rave.wien
 DTSTAMP:20261024T000000Z
 DTSTART;TZID=Europe/Vienna:20261024T220000

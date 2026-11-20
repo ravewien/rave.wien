@@ -26,6 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-12-the-hive@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T230000
+DTEND;TZID=Europe/Vienna:20261213T040000
+SUMMARY:THE HIVE
+LOCATION:Flex\, Augartenbrücke 1\, 1010 Wien
+DESCRIPTION:RAIDO\, 5HA5H\, 4LIX\, BOBJÖST\, BUG\, TYO\, C-MON\, CRAY-C\
+ , 5ALREADY\, GORYO\, STONERICE\, QUADRILLE\, ENDSEARCH\, SO:NA\, CONCISE
+ \nVeranstalter: The Hive\nEintritt: VVK 12 € / AK 15 €\n\nNeue Ausga
+ be der Reihe THE HIVE im Flex\, diesmal als „International B2 Session
+ “\, gehostet von 5HA5H. Das Lineup besteht durchgehend aus B2B-Sets\, 
+ u. a. RAIDO b2b 5HA5H\, 4LIX b2b BOBJÖST und BUG b2b TYO. 5ALREADY\, GO
+ RYO und STONERICE präsentieren gemeinsam einen COL:LAB-Showcase. Einlas
+ s ab 23:00.\n\nhttps://rave.wien/e/2026-12-12-the-hive
+URL:https://rave.wien/e/2026-12-12-the-hive
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-the-hive-x-collapse-face-off-halloween-special@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T230000

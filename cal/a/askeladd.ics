@@ -43,4 +43,22 @@ DESCRIPTION:Tapanov\, Active8\, Askeladd\, Katana\, Twisted Aura\nVeranst
  eben.\n\nhttps://rave.wien/e/2026-12-07-maiden-voyage-w-tapanov
 URL:https://rave.wien/e/2026-12-07-maiden-voyage-w-tapanov
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-yulemorph-awakening-the-long-night@rave.wien
+DTSTAMP:20261224T000000Z
+DTSTART;TZID=Europe/Vienna:20261224T230000
+DTEND;TZID=Europe/Vienna:20261225T060000
+SUMMARY:YULEMORPH – Awakening the Long Night
+LOCATION:The Chamber\, Hernalser Gürtel 18\, 1080 Wien
+DESCRIPTION:Baltazar\, Askeladd\, Attrick\, Bahosh\, Gatodelic\nVeranstal
+ ter: Unstoppable Organizerteam\n\nEine Nacht zur Wintersonnenwende mit d
+ unklem Psytrance und Forest-Sounds im Chamber. Hauptact ist Baltazar aus
+  Brno\, der dort die Reihe „Night of Dark Tales“ betreibt\; dazu spi
+ elen Askeladd\, Attrick\, Bahosh und Gatodelic. Es gibt Welcome-Shots un
+ d\, solange der Vorrat reicht\, hausgemachten Eierlikör. Das Team setzt
+  auf null Toleranz gegenüber Diskriminierung und hat eine zertifizierte
+ \, vor Ort erkennbare Awareness-Person. Einlass ab 18.\n\nhttps://rave.w
+ ien/e/2026-12-24-yulemorph-awakening-the-long-night
+URL:https://rave.wien/e/2026-12-24-yulemorph-awakening-the-long-night
+END:VEVENT
 END:VCALENDAR

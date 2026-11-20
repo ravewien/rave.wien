@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Trinix · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-28-trinix@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T200000
+DTEND;TZID=Europe/Vienna:20261129T010000
+SUMMARY:Trinix
+LOCATION:WUK\, Währinger Straße 59\, 1090 Wien
+DESCRIPTION:Trinix\nEintritt: 38\,64 €\n\nDas französische Electro-DJ-
+ Duo Trinix spielt eine Live-Show im Saal des WUK. 2025 füllten die beid
+ en das Zénith in Paris und veröffentlichten ihr Album „Origin“\; i
+ hre Single „Vaitimbora“ landete laut WUK in über 70 Ländern in den
+  Charts. Auf ihrem Konto stehen Auftritte im L'Olympia\, beim Tomorrowla
+ nd\, bei Solidays\, Vieilles Charrues und Paléo. Einlass 19 Uhr\, Begin
+ n 20 Uhr\; der Saal (Eingang C) ist barrierefrei\, um Anmeldung wird geb
+ eten.\n\nhttps://rave.wien/e/2026-11-28-trinix
+URL:https://rave.wien/e/2026-11-28-trinix
+END:VEVENT
+END:VCALENDAR
