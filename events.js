@@ -1144,6 +1144,31 @@ const CG={
   "Downtempo",
   "House",
   "Techno"
+ ],
+ "SHPILKI": [
+  "Electro",
+  "House"
+ ],
+ "BARVY": [
+  "Tech House"
+ ],
+ "Let It Roll": [
+  "Drum & Bass"
+ ],
+ "Memorandum": [
+  "Drum & Bass"
+ ],
+ "Unstoppable Organizerteam": [
+  "Darkpsy",
+  "Forest"
+ ],
+ "Modulate": [
+  "Drum & Bass",
+  "Dubstep"
+ ],
+ "March of the Machines": [
+  "Drum & Bass",
+  "Dubstep"
  ]
 };
 const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","909techno","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","ALERT[A] Vienna","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","Art Attech","AUDIO303","Auf der Lauer","Ausländer Haus","AWSM","Barracuda Music","BARVY","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","BASST SCHO","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","Bionic Ritual","BLUR","Bonkers","Booster Club","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Crossover","Cybertribe","Cyclic Existence","Dance 2 House","Dance Spirit Events","Danza Obscura","Dark Pressure","Das Syndikat","DEAD END","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","EMDB","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exceso","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Forbidden Frequency","Fourcast","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Homesounds","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","It's George","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Klanggerecht","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","March of the Machines","Meier","MEIOSISS","Melodic Monday","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Modulate","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Opération","Out of Space","Oxygene","Palazzo Recordings","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PURRR","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","shared frequencies","SHPILKI","SIGNAL","SIN","Slutlabs","Sniffin´ Glue","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","SWEAT","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","TECHNOLOT","The Academy","The Hive","The House of Funk","the zound partisans","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Ungeniert","Uniquely Journeys","Unkwn","unlock|me","Unstoppable Organizerteam","Untz Baby Untz","up/or","Vangardist","Ventil Records","Verknallt","Vertigo","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wums","Wyldhearts","Xperiment","Xperiment Records","YE","YN","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
@@ -6404,7 +6429,11 @@ const CI={
   "from": "Tschechien",
   "ig": "https://www.instagram.com/letitrollfestival/",
   "infoChk": "2026-11-20",
-  "noLogo": "2026-11-20"
+  "noLogo": "2026-11-20",
+  "logo": "https://letitroll.eu/wp-content/uploads/2026/09/lir27_logo-hybrid-768x213.png",
+  "src": [
+   "https://letitroll.eu/"
+  ]
  },
  "shared frequencies": {
   "de": "Reihe von ooku. und dr. schick: Radioshow auf Res.Radio und Listening Sessions, zuletzt im Funkhaus. Thematisch u. a. UK-Bass und Soundsystem-Kultur sowie Schwarze Underground-Tanzmusik aus den USA von Disco und Techno bis Footwork.",
@@ -6446,11 +6475,33 @@ const CI={
  },
  "SHPILKI": {
   "infoChk": "2026-11-20",
-  "noLogo": "2026-11-20"
+  "noLogo": "2026-11-20",
+  "de": "Wiener Marke und Partyreihe mit eigenen Clubabenden zwischen Euro Club und Electro House; die erste Ausgabe fand im Oktober 2026 im Enzo statt, im Dezember 2026 folgt „Good Girl Gone Bad“ gemeinsam mit BARVY in der Cupra City Garage.",
+  "en": "Vienna brand and party series with its own club nights between euro club and electro house; the first edition took place at Enzo in October 2026, followed in December 2026 by 'Good Girl Gone Bad' together with BARVY at Cupra City Garage.",
+  "web": "https://shpilki.com/",
+  "ig": "https://www.instagram.com/shpilki.official/",
+  "logo": "https://images.lumacdn.com/uploads/w8/2b77b2d6-2dc3-45e4-a1ad-aa90a8195546.png",
+  "src": [
+   "https://shpilki.com/",
+   "https://luma.com/user/shpilki",
+   "https://luma.com/3pgt9zy5"
+  ]
  },
  "BARVY": {
   "infoChk": "2026-11-20",
-  "noLogo": "2026-11-20"
+  "noLogo": "2026-11-20",
+  "de": "Event-Agentur in Wien, die seit 2025 über Luma Abende wie „Close Friends“ in der Parfümerie veranstaltet; bei „Good Girl Gone Bad“ mit SHPILKI in der Cupra City Garage steuert BARVY den Tech-House-Teil bei.",
+  "en": "Event agency in Vienna that has hosted evenings such as 'Close Friends' at Die Parfümerie via Luma since 2025; at 'Good Girl Gone Bad' with SHPILKI at Cupra City Garage, BARVY handles the tech house side.",
+  "type": [
+   "Promoter"
+  ],
+  "ig": "https://www.instagram.com/barvyy/",
+  "logo": "https://images.lumacdn.com/avatars/rz/0f615621-3849-4472-9944-2524d67c661b.jpg",
+  "src": [
+   "https://luma.com/user/usr-nfQkCPBrYUfbv97",
+   "https://luma.com/o9t4l05s",
+   "https://shpilki.com/"
+  ]
  },
  "Unstoppable Organizerteam": {
   "infoChk": "2026-11-20",
@@ -6462,7 +6513,13 @@ const CI={
  },
  "March of the Machines": {
   "infoChk": "2026-11-20",
-  "noLogo": "2026-11-20"
+  "noLogo": "2026-11-20",
+  "de": "Veranstalter der Bass-Reihe Dubstation; für „Dubstation Interchange“ im März 2027 holt die Crew gemeinsam mit Modulate dr ushuu und madcore in The Loft, mit Drum & Bass und Dubstep.",
+  "en": "Promoter of the bass series Dubstation; for 'Dubstation Interchange' in March 2027 the crew teams up with Modulate to bring dr ushuu and madcore to The Loft, with drum & bass and dubstep.",
+  "src": [
+   "https://www.theloft.at/dubstation-interchange/",
+   "https://www.volume.at/events/dubstation-interchange-2027-03-19/"
+  ]
  },
  "unlock|me": {
   "ig": "https://www.instagram.com/unlockme_sounds/",
@@ -7581,7 +7638,15 @@ const VI={
    "Indoor"
   ],
   "infoChk": "2026-11-20",
-  "noLogo": "2026-11-20"
+  "noLogo": "2026-11-20",
+  "de": "Nachtclub in der Krugerstraße im 1. Bezirk, wenige Gehminuten von Stephansplatz und Karlsplatz. Geöffnet freitags und samstags von 23 bis 4 Uhr; im Programm vor allem Themenabende mit Hip-Hop und Reggaeton, Afrobeats, Dancehall, R&B und Old School.",
+  "en": "Nightclub on Krugerstraße in Vienna's 1st district, a short walk from Stephansplatz and Karlsplatz. Open Fridays and Saturdays from 11 pm to 4 am; the programme mostly features themed nights with hip-hop and reggaeton, afrobeats, dancehall, R&B and old school.",
+  "web": "https://www.krugerclub.at/",
+  "ig": "https://www.instagram.com/kruger.club/",
+  "logo": "https://www.krugerclub.at/wp-content/uploads/2026/06/KrugerClub_Site_Logo.png",
+  "src": [
+   "https://www.krugerclub.at/"
+  ]
  },
  "Cupra City Garage": {
   "io": [
@@ -7591,10 +7656,12 @@ const VI={
   "en": "Brand space ('City Garage') of car maker Cupra on Maysedergasse in Vienna's city centre – according to Cupra its eleventh City Garage worldwide. Also used for evening events and parties.",
   "web": "https://www.cupraofficial.com/brand/experiences/new-cupra-city-garage-vienna",
   "src": [
-   "https://www.automotiveworld.com/news-releases/cupra-advances-globalisation-with-11th-city-garage-opening-in-vienna-reinforcing-position-in-key-austrian-market/"
+   "https://www.automotiveworld.com/news-releases/cupra-advances-globalisation-with-11th-city-garage-opening-in-vienna-reinforcing-position-in-key-austrian-market/",
+   "https://www.cupraofficial.com/brand/experiences/new-cupra-city-garage-vienna"
   ],
   "infoChk": "2026-11-20",
-  "noLogo": "2026-11-20"
+  "noLogo": "2026-11-20",
+  "logo": "https://www.cupraofficial.com/etc.clientlibs/cupra-website/components/clientlibs/resources/icons/logos/logo-cupra.svg"
  }
 };
 /* LS = Logo-Suche ohne Treffer für Locations (v) / Kollektive (c) ohne VI-/CI-Eintrag: Datum der letzten Suche; frühestens 60 Tage danach erneut suchen. */
