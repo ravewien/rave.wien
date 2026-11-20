@@ -67,7 +67,7 @@ BEGIN:VEVENT
 UID:2026-11-27-bassbussi-allstars-3-years-anniversary@rave.wien
 DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Vienna:20261127T230000
-DTEND;TZID=Europe/Vienna:20261128T040000
+DTEND;TZID=Europe/Vienna:20261128T060000
 SUMMARY:Bassbussi Allstars – 3 Years Anniversary
 LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
 DESCRIPTION:Oben: Andrew Ahmed\, Sluzy\, PartyPauli\, maro\, Arman Shadow
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 UID:2026-12-04-empyreon-vol-iv@rave.wien
 DTSTAMP:20261204T000000Z
 DTSTART;TZID=Europe/Vienna:20261204T220000
-DTEND;TZID=Europe/Vienna:20261205T030000
+DTEND;TZID=Europe/Vienna:20261205T060000
 SUMMARY:Empyreon – Vol. IV
 LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
 DESCRIPTION:Robert Maslach\, Fede Frostl\, The Wash\, Edictum\nVeranstalt
@@ -107,7 +107,7 @@ BEGIN:VEVENT
 UID:2026-12-07-glitch-vienna-pres-stef-davidse@rave.wien
 DTSTAMP:20261207T000000Z
 DTSTART;TZID=Europe/Vienna:20261207T230000
-DTEND;TZID=Europe/Vienna:20261208T040000
+DTEND;TZID=Europe/Vienna:20261208T050000
 SUMMARY:GLITCH Vienna pres. Stef Davidse
 LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
 DESCRIPTION:Stef Davidse\, TenFifty\, LLo\nVeranstalter: GLITCH\, Resonan

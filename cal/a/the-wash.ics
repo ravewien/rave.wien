@@ -29,7 +29,7 @@ BEGIN:VEVENT
 UID:2026-12-04-empyreon-vol-iv@rave.wien
 DTSTAMP:20261204T000000Z
 DTSTART;TZID=Europe/Vienna:20261204T220000
-DTEND;TZID=Europe/Vienna:20261205T030000
+DTEND;TZID=Europe/Vienna:20261205T060000
 SUMMARY:Empyreon – Vol. IV
 LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
 DESCRIPTION:Robert Maslach\, Fede Frostl\, The Wash\, Edictum\nVeranstalt

@@ -121,13 +121,17 @@ BEGIN:VEVENT
 UID:2026-12-04-discordia@rave.wien
 DTSTAMP:20261204T000000Z
 DTSTART;TZID=Europe/Vienna:20261204T234500
-DTEND;TZID=Europe/Vienna:20261205T044500
+DTEND;TZID=Europe/Vienna:20261205T050000
 SUMMARY:DISCORDIA
 LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
-DESCRIPTION:Veranstalter: Discordia\nEintritt: ab 7 €\n\nClubnacht DISC
- ORDIA im Club Lucia ab 23:30\, gelistet auf der Club-Lucia-Seite von Tec
- hno Airlines. Lineup\, Eintritt und weitere Details sind noch nicht ver
- öffentlicht.\n\nhttps://rave.wien/e/2026-12-04-discordia
+DESCRIPTION:Veranstalter: Discordia\nEintritt: ab 7 € (AK 8 €)\n\nClu
+ bnacht DISCORDIA im Club Lucia ab 23:45 (RA: 23:30–05:00). Laut Club L
+ ucia entstand Discordia aus der Frage\, was passiert\, wenn eine Party v
+ on Leuten gemacht wird\, die selbst auf dem Dancefloor stehen wollen: Re
+ sidents\, ein geheimer Gast aus der lokalen Szene\, ein fairer Eintritt 
+ und eine Tür\, die allen offen steht – House Music von Leuten\, denen
+  sie am Herzen liegt. Abendkasse 8 €\; das Lineup ist noch nicht verö
+ ffentlicht.\n\nhttps://rave.wien/e/2026-12-04-discordia
 URL:https://rave.wien/e/2026-12-04-discordia
 END:VEVENT
 BEGIN:VEVENT

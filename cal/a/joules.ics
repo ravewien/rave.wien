@@ -29,16 +29,17 @@ BEGIN:VEVENT
 UID:2026-12-18-joyce-muniz-im-wohnzimmer@rave.wien
 DTSTAMP:20261218T000000Z
 DTSTART;TZID=Europe/Vienna:20261218T230000
-DTEND;TZID=Europe/Vienna:20261219T040000
+DTEND;TZID=Europe/Vienna:20261219T060000
 SUMMARY:Joyce Muniz im Wohnzimmer
 LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Joyce Muniz\, Joules\nVeranstalter: Wohnzimmer\n\nJoyce Muniz
-  kehrt mit ihrer Reihe „im Wohnzimmer“ in den SASS Music Club zurüc
- k. Die in Wien lebende\, aus São Paulo stammende DJ und Produzentin ver
- bindet House\, Electro und Breaks und veröffentlicht u. a. auf Exploite
- d und ihrem eigenen Label. Als weiterer Act ist laut Techno Airlines Jou
- les (AT) angekündigt. Preis und Endzeit waren in diesem Lauf nicht abru
- fbar.\n\nhttps://rave.wien/e/2026-12-18-joyce-muniz-im-wohnzimmer
+DESCRIPTION:Joyce Muniz\, Joules\nVeranstalter: Wohnzimmer\nEintritt: 10
+ –15 €\n\nJoyce Muniz kehrt mit ihrer Reihe „im Wohnzimmer“ in de
+ n SASS Music Club zurück. Die in Wien lebende\, aus São Paulo stammend
+ e DJ und Produzentin verbindet House\, Electro und Breaks und veröffent
+ licht u. a. auf Exploited und ihrem eigenen Label. Als weiterer Act ist 
+ laut Techno Airlines Joules (AT) angekündigt. Preis und Endzeit waren i
+ n diesem Lauf nicht abrufbar.\n\nhttps://rave.wien/e/2026-12-18-joyce-mu
+ niz-im-wohnzimmer
 URL:https://rave.wien/e/2026-12-18-joyce-muniz-im-wohnzimmer
 END:VEVENT
 END:VCALENDAR

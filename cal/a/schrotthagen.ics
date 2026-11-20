@@ -29,7 +29,7 @@ BEGIN:VEVENT
 UID:2027-02-12-schrotthagen@rave.wien
 DTSTAMP:20270212T000000Z
 DTSTART;TZID=Europe/Vienna:20270212T230000
-DTEND;TZID=Europe/Vienna:20270213T040000
+DTEND;TZID=Europe/Vienna:20270213T060000
 SUMMARY:Schrotthagen
 LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
 DESCRIPTION:Schrotthagen\nVeranstalter: SIGNAL\nEintritt: ab 15 €\n\nSI

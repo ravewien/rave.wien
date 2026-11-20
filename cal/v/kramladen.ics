@@ -45,6 +45,25 @@ DESCRIPTION:UV Project\, Norg3n\, Nasty\nEintritt frei / free entry\n\nTE
 URL:https://rave.wien/e/2026-11-19-teknoteka
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-26-konzept-x-dark-pressure@rave.wien
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Vienna:20261126T233000
+DTEND;TZID=Europe/Vienna:20261127T040000
+SUMMARY:Konzept x Dark Pressure
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Reika\, Dcascallana\nVeranstalter: Dark Pressure\n\nDonnersta
+ gnacht im Kramladen als Kooperation der Reihe Konzept mit dem Wiener Tec
+ hno-Label Dark Pressure\, das eine eigene Eventreihe für Deep\, Raw\, H
+ ypnotic und Industrial Techno betreibt. Laut RA spielen Reika und Dcasca
+ llana – Dcascallana ist u. a. mit der Reihe „deep cut“ für hypnot
+ ischen\, deepen Techno im Kramladen aktiv\, beide spielten zuletzt im Ok
+ tober bei „Konzept-Techno Experience“ im FLUCC. Techno von 23:30 bis
+  04:00\; einen Eintrittspreis nennt RA nicht.\n\nhttps://rave.wien/e/202
+ 6-11-26-konzept-x-dark-pressure
+URL:https://rave.wien/e/2026-11-26-konzept-x-dark-pressure
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-xperiment-nights@rave.wien
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Vienna:20261128T235900

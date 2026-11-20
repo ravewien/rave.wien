@@ -173,7 +173,7 @@ BEGIN:VEVENT
 UID:2026-12-11-zuckerwatt-w-ellen-allien@rave.wien
 DTSTAMP:20261211T000000Z
 DTSTART;TZID=Europe/Vienna:20261211T230000
-DTEND;TZID=Europe/Vienna:20261212T040000
+DTEND;TZID=Europe/Vienna:20261212T060000
 SUMMARY:Zuckerwatt w/ Ellen Allien
 LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Mainfloor: Ellen Allien\nVeranstalter: Zuckerwatt\n\nDie Reih
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 UID:2026-12-12-contrast-pres-dance-macabre-w-simula-enei-skantia@rave.wien
 DTSTAMP:20261212T000000Z
 DTSTART;TZID=Europe/Vienna:20261212T230000
-DTEND;TZID=Europe/Vienna:20261213T040000
+DTEND;TZID=Europe/Vienna:20261213T060000
 SUMMARY:Contrast pres. Dance Macabre w/ Simula + Enei + Skantia
 LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Mainfloor: Simula\, Enei\, Skantia\, En:vy\, Wingz\, Contrast

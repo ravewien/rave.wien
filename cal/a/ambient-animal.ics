@@ -29,7 +29,7 @@ BEGIN:VEVENT
 UID:2026-12-19-sama-recordings-pres-schweben@rave.wien
 DTSTAMP:20261219T000000Z
 DTSTART;TZID=Europe/Vienna:20261219T210000
-DTEND;TZID=Europe/Vienna:20261220T020000
+DTEND;TZID=Europe/Vienna:20261220T060000
 SUMMARY:sama recordings pres. schweben
 LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
 DESCRIPTION:Ambient Animal\, Tanja Turner\nVeranstalter: sama recordings\

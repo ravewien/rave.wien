@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Art Fact · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-11-sniffin-glue@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T220000
+DTEND;TZID=Europe/Vienna:20261212T060000
+SUMMARY:Sniffin´ Glue
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Xeno & Oaklander\, Art Fact\, Annie High\, ADHS Lene\, Toxo\n
+ Veranstalter: Sniffin´ Glue\nEintritt: 6\,66 € (nur Abendkasse)\n\nNe
+ ue Ausgabe von Sniffin´ Glue\, der Partyreihe für Dark\, Cold\, New\, 
+ Synth und Minimal Wave sowie Post-Punk\, diesmal auf dem FLUCC Deck mit 
+ zwei Live-Acts. Xeno & Oaklander – das Brooklyner Minimal-Electronics-
+ Duo Liz Wendelbo und Sean McBride (Martial Canterel) – ist seit 2004 (
+ Debüt-LP „Vigils“ auf Xanten) in der Analog-Synth-Szene aktiv und h
+ at das Synth-Wave-Revival in den USA und weltweit mitgeprägt. Art Fact 
+ begannen Ende der 1980er als vier Teenager in Stockholm\, nahmen 1989–
+ 1992 drei Kult-Kassetten auf („In Fact“\, „Nowadays“\, „The Nu
+ clear Princess“) und sind bekannt von den Memento-Materia-Compilations
+  „Illuminative“ und „Autumn Leaves“\; 2026 kehrten sie nach übe
+ r zehn Jahren für eine Europatour mit neuen Remixes ihrer Klassiker auf
+  die Bühne zurück. Dazu legen Annie High\, ADHS Lene und Toxo auf. Ein
+ tritt 6\,66 €\, nur Abendkasse\; das Plakat stammt von Jakob Breit.\n\
+ nhttps://rave.wien/e/2026-12-11-sniffin-glue
+URL:https://rave.wien/e/2026-12-11-sniffin-glue
+END:VEVENT
+END:VCALENDAR

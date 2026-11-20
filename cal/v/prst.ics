@@ -124,7 +124,7 @@ BEGIN:VEVENT
 UID:2026-12-12-redivider-pres-audrey-danza@rave.wien
 DTSTAMP:20261212T000000Z
 DTSTART;TZID=Europe/Vienna:20261212T230000
-DTEND;TZID=Europe/Vienna:20261213T040000
+DTEND;TZID=Europe/Vienna:20261213T060000
 SUMMARY:REDIVIDER pres. Audrey Danza
 LOCATION:PRST\, Praterstraße 18\, 1020 Wien
 DESCRIPTION:Audrey Danza\, Apua\, DJ Deadlift\, Dreya\nVeranstalter: Redi

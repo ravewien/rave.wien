@@ -83,17 +83,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-let-it-roll-on-tour-vienna@rave.wien
 DTSTAMP:20261204T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
+DTSTART;TZID=Europe/Vienna:20261204T220000
+DTEND;TZID=Europe/Vienna:20261205T070000
 SUMMARY:Let It Roll On Tour Vienna
 LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
-DESCRIPTION:Mozey\nVeranstalter: Memorandum\, Let It Roll\n\nDas tschechi
- sche Drum-&-Bass-Festival Let It Roll feiert 25 Jahre und macht mit sein
- er „On Tour“-Reihe Station im Club Exil. Veranstalter Memorandum hol
- t dafür Mozey nach knapp zwei Jahren wieder nach Wien – bekannt für 
- energiegeladene Sets\, in denen er alle Spielarten von Drum & Bass mit s
- einem hüpfenden Jump-up-Stil mischt\, und für seinen Cowboyhut.\n\nhtt
- ps://rave.wien/e/2026-12-04-let-it-roll-on-tour-vienna
+DESCRIPTION:Mozey\nVeranstalter: Memorandum\, Let It Roll\nEintritt: 55 
+ €\n\nDas tschechische Drum-&-Bass-Festival Let It Roll feiert 25 Jahre
+  und macht mit seiner „On Tour“-Reihe Station im Club Exil. Veransta
+ lter Memorandum holt dafür Mozey nach knapp zwei Jahren wieder nach Wie
+ n – bekannt für energiegeladene Sets\, in denen er alle Spielarten vo
+ n Drum & Bass mit seinem hüpfenden Jump-up-Stil mischt\, und für seine
+ n Cowboyhut.\n\nhttps://rave.wien/e/2026-12-04-let-it-roll-on-tour-vienn
+ a
 URL:https://rave.wien/e/2026-12-04-let-it-roll-on-tour-vienna
 END:VEVENT
 BEGIN:VEVENT
@@ -122,7 +123,7 @@ BEGIN:VEVENT
 UID:2026-12-08-verknallt-x-tuff-w-a-n-i-dj-dreckisch-daytime-rav@rave.wien
 DTSTAMP:20261208T000000Z
 DTSTART;TZID=Europe/Vienna:20261208T140000
-DTEND;TZID=Europe/Vienna:20261208T190000
+DTEND;TZID=Europe/Vienna:20261208T230000
 SUMMARY:Verknallt x TUFF w/ A.N.I. & DJ Dreckisch – Daytime Rave
 LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
 DESCRIPTION:DJ Dreckisch\, A.n.i\, Naij\, Oryma\, Serafin\, Sutter Cane\n
@@ -144,7 +145,7 @@ BEGIN:VEVENT
 UID:2026-12-18-ritual-x-yn-w-chris-liebing@rave.wien
 DTSTAMP:20261218T000000Z
 DTSTART;TZID=Europe/Vienna:20261218T230000
-DTEND;TZID=Europe/Vienna:20261219T040000
+DTEND;TZID=Europe/Vienna:20261219T060000
 SUMMARY:RITUAL x YN w/ Chris Liebing
 LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
 DESCRIPTION:Chris Liebing\nVeranstalter: YN\, Ritual\nEintritt: VVK 16 

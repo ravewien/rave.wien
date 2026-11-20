@@ -29,7 +29,7 @@ BEGIN:VEVENT
 UID:2026-11-28-hart-lab-resonance@rave.wien
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Vienna:20261128T160000
-DTEND;TZID=Europe/Vienna:20261128T210000
+DTEND;TZID=Europe/Vienna:20261128T220000
 SUMMARY:Hart Lab: Resonance
 LOCATION:Creative Cluster Vienna\, Viktor-Christ-Gasse 10\, 1050 Wien
 DESCRIPTION:Evren de concecao\, Autonomuse\, Anemona\nVeranstalter: Hart 

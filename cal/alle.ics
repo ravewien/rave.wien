@@ -203,7 +203,7 @@ BEGIN:VEVENT
 UID:2026-11-20-over-tone-x-citruscue-pres-by-wums@rave.wien
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Vienna:20261120T220000
-DTEND;TZID=Europe/Vienna:20261121T030000
+DTEND;TZID=Europe/Vienna:20261121T060000
 SUMMARY:Over:Tone x CitrusCue pres. by Wums
 LOCATION:Club U\, Karlsplatz\, 1010 Wien
 DESCRIPTION:A.Fruit\, fejv\, RUV3N\, DICEFACE\, Tesa\nVeranstalter: Citru
@@ -224,13 +224,14 @@ DTEND;TZID=Europe/Vienna:20261121T060000
 SUMMARY:Vision Serpent
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
 DESCRIPTION:NoNameLeft\, Mateo!\, David Phoenix\, Nya Nyx\nVeranstalter: 
- Vision Serpent\nEintritt: 12 € VVK / 18 € Abendkassa\n\nVision Serpe
- nt lädt zum Showcase in die FLUCC Wanne mit NoNameLeft\, Mateo!\, David
-  Phoenix und Nya Nyx. Bisherige Quellen ordnen den Abend Techno\, Minima
- l Techno und Psytech zu. Beginn 23:00\, Ende 06:00\; Vorverkauf 10 € 
- über kupfticket\, Abendkasse 18 €. Die FLUCC-Seite selbst enthält no
- ch keine Beschreibung oder Flyer.\n\nhttps://rave.wien/e/2026-11-20-visi
- on-serpent
+ Vision Serpent\nEintritt: 16 € VVK (Phase 3) / 18 € Abendkassa\n\nVi
+ sion Serpent lädt zum Label-Showcase in die FLUCC Wanne mit NoNameLeft\
+ , Mateo!\, David Phoenix und Nya Nyx. Bisherige Quellen ordnen den Abend
+  Techno\, Minimal Techno und Psytech zu. Beginn 23:00\, Ende 06:00. Im V
+ orverkauf bei kupfticket sind Phase 1 (12 €) und Phase 2 (14 €) ausv
+ erkauft\, erhältlich ist noch Phase 3 um 16 €\; Abendkasse laut RA 18
+  €. Die FLUCC-Seite selbst enthält keine Beschreibung oder Flyer.\n\n
+ https://rave.wien/e/2026-11-20-vision-serpent
 URL:https://rave.wien/e/2026-11-20-vision-serpent
 END:VEVENT
 BEGIN:VEVENT
@@ -382,13 +383,18 @@ DTEND;TZID=Europe/Vienna:20261121T060000
 SUMMARY:GLITCH Vienna 001
 LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
 DESCRIPTION:TenFifty\, Annzie\, High Chew\nVeranstalter: GLITCH\nEintritt
-  frei\n\nAuftakt der House-Residency von GLITCH im Rhiz. GLITCH ist eine
-  2025 gegründete House-Eventreihe (Verein GLITCH)\, ursprünglich mit k
- leinen Off-Location-Partys in Kärnten. Es spielen KΛSKIN\, laut Verans
- talter eines der ersten Indie-Dance-Projekte Österreichs (aus Villach\,
-  auch in Wien aktiv)\, und das GLITCH-Resident-Tech-House-Projekt TenFif
- ty (Grafenauer & KΛSKIN\, Wien-Margareten). Weitere Acts sind angekünd
- igt.\n\nhttps://rave.wien/e/2026-11-20-glitch-vienna-001
+  frei\n\nAuftakt der House-Residency von GLITCH im Rhiz – laut Veranst
+ alter „unsere erste Nacht in Wien“\, bei der eingeladene Artists gem
+ einsam mit der GLITCH-Crew auflegen. GLITCH ist eine 2025 gegründete Ho
+ use-Eventreihe (Verein GLITCH)\, ursprünglich mit Partys an besonderen 
+ Orten in Kärnten. Es spielen die GLITCH-Residents TenFifty\, ein junges
+  Tech-House-Projekt aus Margareten (Grafenauer & KΛSKIN)\, ANNZIE\, ein
+ e Wiener DJ\, deren Sound stark von der britischen Clubszene geprägt is
+ t\, und High Chew (Tommy)\, ein aus dem Mittleren Westen der USA stammen
+ der Wiener DJ\, der frühen Chicago House mit Minimal House\, Deep Tech 
+ und Tech House verbindet. Eintritt frei\, laut Veranstalter 00:00–06:0
+ 0 (Seite und RA nennen 23:59 bzw. 23:30 als Beginn).\n\nhttps://rave.wie
+ n/e/2026-11-20-glitch-vienna-001
 URL:https://rave.wien/e/2026-11-20-glitch-vienna-001
 END:VEVENT
 BEGIN:VEVENT
@@ -414,17 +420,19 @@ BEGIN:VEVENT
 UID:2026-11-21-tram-bass-vol-4-our-longest-ride-yet@rave.wien
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Vienna:20261121T130000
-DTEND;TZID=Europe/Vienna:20261121T180000
+DTEND;TZID=Europe/Vienna:20261121T210000
 SUMMARY:Tram & Bass Vol. 4 – Our longest ride yet
-DESCRIPTION:\nVierte Ausgabe der Drum-&-Bass-Reihe Tram & Bass\, laut Unt
- ertitel „Our longest ride yet“ – die bisher längste Fahrt. Gefeie
- rt wird in einer Wiener Straßenbahn\; Treffpunkt ist laut Eventfrog die
-  Tramstation Karlsplatz/Resselpark\, Beginn Samstag um 13 Uhr. Die dritt
- e Ausgabe wurde auf RA als „Crossover pres. Tram & Bass Vol.3“ am Ka
- rlsplatz geführt\; ob Crossover auch diese Ausgabe veranstaltet\, ist n
- icht bestätigt. Lineup\, Route\, Endzeit und Ticketpreis sind in den le
- sbaren Quellen nicht angegeben\; Tickets gibt es über Eventfrog.\n\nhtt
- ps://rave.wien/e/2026-11-21-tram-bass-vol-4-our-longest-ride-yet
+DESCRIPTION:Veranstalter: Crossover\n\nVierte Ausgabe der Reihe Tram & Ba
+ ss des Vereins Crossover\, laut Untertitel „Our longest ride yet“: a
+ cht Stunden Musik in einer Wiener Straßenbahn auf zwei getrennten Fahrt
+ en. Route 1 (13–17 Uhr) mit Techno\, Dubstep und UK Garage startet und
+  endet an der Station Karlsplatz/Resselpark\; Route 2 (17–21 Uhr) ist 
+ ganz Drum & Bass und seinen Einflüssen gewidmet\, Abfahrt Karlsplatz/Re
+ sselpark\, Endstation Josefstädter Straße. Die Routen sind einzeln ode
+ r als Kombiticket über Eventfrog buchbar\; an Bord gibt es Getränke un
+ d Snacks\, eigene Getränke sind nicht erlaubt. Lineup und Ticketpreise 
+ sind in den lesbaren Quellen nicht angegeben.\n\nhttps://rave.wien/e/202
+ 6-11-21-tram-bass-vol-4-our-longest-ride-yet
 URL:https://rave.wien/e/2026-11-21-tram-bass-vol-4-our-longest-ride-yet
 END:VEVENT
 BEGIN:VEVENT
@@ -546,7 +554,8 @@ DESCRIPTION:Veranstalter: SubRosaDictum\nEintritt: ab 78 €\n\nFetisch-
  tografieren ist streng verboten und führt zum sofortigen Ausschluss\; e
  s gilt Konsens („kein Anfassen\, kein Aufdrängen\, ein Nein ist ein N
  ein“) mit Null-Toleranz bei Grenzüberschreitungen. Beginn 21:00\, Tic
- kets ab 78 €.\n\nhttps://rave.wien/e/2026-11-21-wiener-blut
+ kets ab 78 €. Laut Ticketshop ist das Event ausverkauft (Warteliste).\
+ n\nhttps://rave.wien/e/2026-11-21-wiener-blut
 URL:https://rave.wien/e/2026-11-21-wiener-blut
 END:VEVENT
 BEGIN:VEVENT
@@ -663,7 +672,7 @@ BEGIN:VEVENT
 UID:2026-11-21-54hz-pres-creeds@rave.wien
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Vienna:20261121T230000
-DTEND;TZID=Europe/Vienna:20261122T040000
+DTEND;TZID=Europe/Vienna:20261122T060000
 SUMMARY:54Hz pres. CREEDS
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Main Floor: CREEDS\, Arman Shadow\, DJ Wolle\, Rantom\, SoDa\
@@ -862,7 +871,7 @@ BEGIN:VEVENT
 UID:2026-11-26-nomenklatur-w-cancer-house-live-when-it-s-over-li@rave.wien
 DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Vienna:20261126T190000
-DTEND;TZID=Europe/Vienna:20261127T000000
+DTEND;TZID=Europe/Vienna:20261126T230000
 SUMMARY:nomenklatur w/ Cancer House (live) & When It's Over (live)
 LOCATION:Das Lot\, Absberggasse 31\, 1100 Wien
 DESCRIPTION:Cancer House\, When It's Over\nVeranstalter: nomenklatur\n\nN
@@ -891,6 +900,25 @@ DESCRIPTION:Slack Hippy\, neomodern\, Crnobrnja\nEintritt: 10–15 € /
  eitet\; Einlass ab 18 mit Ausweis- und Taschenkontrolle.\n\nhttps://rave
  .wien/e/2026-11-26-donnerstag-nacht
 URL:https://rave.wien/e/2026-11-26-donnerstag-nacht
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-konzept-x-dark-pressure@rave.wien
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Vienna:20261126T233000
+DTEND;TZID=Europe/Vienna:20261127T040000
+SUMMARY:Konzept x Dark Pressure
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Reika\, Dcascallana\nVeranstalter: Dark Pressure\n\nDonnersta
+ gnacht im Kramladen als Kooperation der Reihe Konzept mit dem Wiener Tec
+ hno-Label Dark Pressure\, das eine eigene Eventreihe für Deep\, Raw\, H
+ ypnotic und Industrial Techno betreibt. Laut RA spielen Reika und Dcasca
+ llana – Dcascallana ist u. a. mit der Reihe „deep cut“ für hypnot
+ ischen\, deepen Techno im Kramladen aktiv\, beide spielten zuletzt im Ok
+ tober bei „Konzept-Techno Experience“ im FLUCC. Techno von 23:30 bis
+  04:00\; einen Eintrittspreis nennt RA nicht.\n\nhttps://rave.wien/e/202
+ 6-11-26-konzept-x-dark-pressure
+URL:https://rave.wien/e/2026-11-26-konzept-x-dark-pressure
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-20-jahre-cpe@rave.wien
@@ -1043,7 +1071,7 @@ BEGIN:VEVENT
 UID:2026-11-27-bassbussi-allstars-3-years-anniversary@rave.wien
 DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Vienna:20261127T230000
-DTEND;TZID=Europe/Vienna:20261128T040000
+DTEND;TZID=Europe/Vienna:20261128T060000
 SUMMARY:Bassbussi Allstars – 3 Years Anniversary
 LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
 DESCRIPTION:Oben: Andrew Ahmed\, Sluzy\, PartyPauli\, maro\, Arman Shadow
@@ -1182,7 +1210,7 @@ BEGIN:VEVENT
 UID:2026-11-28-hart-lab-resonance@rave.wien
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Vienna:20261128T160000
-DTEND;TZID=Europe/Vienna:20261128T210000
+DTEND;TZID=Europe/Vienna:20261128T220000
 SUMMARY:Hart Lab: Resonance
 LOCATION:Creative Cluster Vienna\, Viktor-Christ-Gasse 10\, 1050 Wien
 DESCRIPTION:Evren de concecao\, Autonomuse\, Anemona\nVeranstalter: Hart 
@@ -1621,7 +1649,7 @@ BEGIN:VEVENT
 UID:2026-12-04-empyreon-vol-iv@rave.wien
 DTSTAMP:20261204T000000Z
 DTSTART;TZID=Europe/Vienna:20261204T220000
-DTEND;TZID=Europe/Vienna:20261205T030000
+DTEND;TZID=Europe/Vienna:20261205T060000
 SUMMARY:Empyreon – Vol. IV
 LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
 DESCRIPTION:Robert Maslach\, Fede Frostl\, The Wash\, Edictum\nVeranstalt
@@ -1636,6 +1664,36 @@ DESCRIPTION:Robert Maslach\, Fede Frostl\, The Wash\, Edictum\nVeranstalt
  tritt gegen freie Spende.\n\nhttps://rave.wien/e/2026-12-04-empyreon-vol
  -iv
 URL:https://rave.wien/e/2026-12-04-empyreon-vol-iv
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-soundlab-pirates@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T220000
+DTEND;TZID=Europe/Vienna:20261205T060000
+SUMMARY:Soundlab Pirates
+DESCRIPTION:Veranstalter: Bionic Ritual\n\nNeuer Termin der Psytrance-Rei
+ he Soundlab Pirates von Bionic Ritual\, auf goabase als Club-Party in Wi
+ en von Freitag 22:00 bis Samstag 06:00 gelistet. Location\, Lineup und P
+ reis sind noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-04-
+ soundlab-pirates
+URL:https://rave.wien/e/2026-12-04-soundlab-pirates
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-let-it-roll-on-tour-vienna@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T220000
+DTEND;TZID=Europe/Vienna:20261205T070000
+SUMMARY:Let It Roll On Tour Vienna
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Mozey\nVeranstalter: Memorandum\, Let It Roll\nEintritt: 55 
+ €\n\nDas tschechische Drum-&-Bass-Festival Let It Roll feiert 25 Jahre
+  und macht mit seiner „On Tour“-Reihe Station im Club Exil. Veransta
+ lter Memorandum holt dafür Mozey nach knapp zwei Jahren wieder nach Wie
+ n – bekannt für energiegeladene Sets\, in denen er alle Spielarten vo
+ n Drum & Bass mit seinem hüpfenden Jump-up-Stil mischt\, und für seine
+ n Cowboyhut.\n\nhttps://rave.wien/e/2026-12-04-let-it-roll-on-tour-vienn
+ a
+URL:https://rave.wien/e/2026-12-04-let-it-roll-on-tour-vienna
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-step-forward-pres-eargasm-god@rave.wien
@@ -1709,56 +1767,33 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-basstrace@rave.wien
 DTSTAMP:20261204T000000Z
-DTSTART;TZID=Europe/Vienna:20261204T233000
-DTEND;TZID=Europe/Vienna:20261205T043000
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T040000
 SUMMARY:Basstrace
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
 DESCRIPTION:Veranstalter: Basstrace\n\nBasstrace im FLUCC Wanne. Die Loca
- tion-Seite nennt bisher nur Titel\, Datum und Beginn (23:30 Uhr)\; Lineu
- p\, Preis\, Ende und Flyer sind noch nicht veröffentlicht. Verlinkt ist
-  die Website basstrace.com.\n\nhttps://rave.wien/e/2026-12-04-basstrace
+ tion-Seite nennt bisher nur Titel\, Datum und Beginn (23:00 Uhr\, zuvor 
+ 23:30)\; Lineup\, Preis\, Ende und Flyer sind noch nicht veröffentlicht
+ . Verlinkt ist die Website basstrace.com.\n\nhttps://rave.wien/e/2026-12
+ -04-basstrace
 URL:https://rave.wien/e/2026-12-04-basstrace
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-discordia@rave.wien
 DTSTAMP:20261204T000000Z
 DTSTART;TZID=Europe/Vienna:20261204T234500
-DTEND;TZID=Europe/Vienna:20261205T044500
+DTEND;TZID=Europe/Vienna:20261205T050000
 SUMMARY:DISCORDIA
 LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
-DESCRIPTION:Veranstalter: Discordia\nEintritt: ab 7 €\n\nClubnacht DISC
- ORDIA im Club Lucia ab 23:30\, gelistet auf der Club-Lucia-Seite von Tec
- hno Airlines. Lineup\, Eintritt und weitere Details sind noch nicht ver
- öffentlicht.\n\nhttps://rave.wien/e/2026-12-04-discordia
+DESCRIPTION:Veranstalter: Discordia\nEintritt: ab 7 € (AK 8 €)\n\nClu
+ bnacht DISCORDIA im Club Lucia ab 23:45 (RA: 23:30–05:00). Laut Club L
+ ucia entstand Discordia aus der Frage\, was passiert\, wenn eine Party v
+ on Leuten gemacht wird\, die selbst auf dem Dancefloor stehen wollen: Re
+ sidents\, ein geheimer Gast aus der lokalen Szene\, ein fairer Eintritt 
+ und eine Tür\, die allen offen steht – House Music von Leuten\, denen
+  sie am Herzen liegt. Abendkasse 8 €\; das Lineup ist noch nicht verö
+ ffentlicht.\n\nhttps://rave.wien/e/2026-12-04-discordia
 URL:https://rave.wien/e/2026-12-04-discordia
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-04-soundlab-pirates@rave.wien
-DTSTAMP:20261204T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Soundlab Pirates
-DESCRIPTION:\nNeuer Termin der Psytrance-Reihe Soundlab Pirates\, auf goa
- base als Club-Party in Wien gelistet. Location\, Lineup\, Zeiten und Pre
- is sind noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-04-so
- undlab-pirates
-URL:https://rave.wien/e/2026-12-04-soundlab-pirates
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-04-let-it-roll-on-tour-vienna@rave.wien
-DTSTAMP:20261204T000000Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Let It Roll On Tour Vienna
-LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
-DESCRIPTION:Mozey\nVeranstalter: Memorandum\, Let It Roll\n\nDas tschechi
- sche Drum-&-Bass-Festival Let It Roll feiert 25 Jahre und macht mit sein
- er „On Tour“-Reihe Station im Club Exil. Veranstalter Memorandum hol
- t dafür Mozey nach knapp zwei Jahren wieder nach Wien – bekannt für 
- energiegeladene Sets\, in denen er alle Spielarten von Drum & Bass mit s
- einem hüpfenden Jump-up-Stil mischt\, und für seinen Cowboyhut.\n\nhtt
- ps://rave.wien/e/2026-12-04-let-it-roll-on-tour-vienna
-URL:https://rave.wien/e/2026-12-04-let-it-roll-on-tour-vienna
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-du-tanzt-mich-mal-winter-open-air-punsch-rave-day@rave.wien
@@ -1880,7 +1915,7 @@ BEGIN:VEVENT
 UID:2026-12-05-elektro-guzzi-special-guests-palazzo-festival@rave.wien
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=Europe/Vienna:20261205T210000
-DTEND;TZID=Europe/Vienna:20261206T020000
+DTEND;TZID=Europe/Vienna:20261206T030000
 SUMMARY:Elektro Guzzi & Special Guests – Palazzo Festival
 LOCATION:WUK\, Währinger Straße 59\, 1090 Wien
 DESCRIPTION:Elektro Guzzi\, WaqWaq Kingdom\, Catu Diosis\, Fingers of God
@@ -1939,7 +1974,7 @@ BEGIN:VEVENT
 UID:2026-12-05-purrr-x-technolot@rave.wien
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=Europe/Vienna:20261205T220000
-DTEND;TZID=Europe/Vienna:20261206T030000
+DTEND;TZID=Europe/Vienna:20261206T040000
 SUMMARY:PURRR x TECHNOLOT
 LOCATION:Das Lot\, Absberggasse 31\, 1100 Wien
 DESCRIPTION:Chinyere\, zey\, Linko\, Atlana\nVeranstalter: PURRR\, TECHNO
@@ -2080,7 +2115,7 @@ BEGIN:VEVENT
 UID:2026-12-07-melodic-monday-x-mas-dayparty-afro-tech-melodic-h@rave.wien
 DTSTAMP:20261207T000000Z
 DTSTART;TZID=Europe/Vienna:20261207T170000
-DTEND;TZID=Europe/Vienna:20261207T220000
+DTEND;TZID=Europe/Vienna:20261208T000000
 SUMMARY:MELODIC MONDAY X-Mas Dayparty – Afro Tech & Melodic House
 LOCATION:LIA Coffee WU Campus\, Welthandelsplatz 1\, 1020 Wien
 DESCRIPTION:Mat Schubert\nVeranstalter: Melodic Monday\n\nWeihnachtliche 
@@ -2143,7 +2178,7 @@ BEGIN:VEVENT
 UID:2026-12-07-ravecon-mind-x-mas-feat-mario-ranieri@rave.wien
 DTSTAMP:20261207T000000Z
 DTSTART;TZID=Europe/Vienna:20261207T210000
-DTEND;TZID=Europe/Vienna:20261208T020000
+DTEND;TZID=Europe/Vienna:20261208T060000
 SUMMARY:RAVECON × MIND X-MAS feat. Mario Ranieri
 LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
 DESCRIPTION:Mario Ranieri\, KJAER\, JP eXbert\, Richard Steinschlag\nVera
@@ -2199,7 +2234,7 @@ BEGIN:VEVENT
 UID:2026-12-07-glitch-vienna-pres-stef-davidse@rave.wien
 DTSTAMP:20261207T000000Z
 DTSTART;TZID=Europe/Vienna:20261207T230000
-DTEND;TZID=Europe/Vienna:20261208T040000
+DTEND;TZID=Europe/Vienna:20261208T050000
 SUMMARY:GLITCH Vienna pres. Stef Davidse
 LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
 DESCRIPTION:Stef Davidse\, TenFifty\, LLo\nVeranstalter: GLITCH\, Resonan
@@ -2304,7 +2339,7 @@ BEGIN:VEVENT
 UID:2026-12-08-verknallt-x-tuff-w-a-n-i-dj-dreckisch-daytime-rav@rave.wien
 DTSTAMP:20261208T000000Z
 DTSTART;TZID=Europe/Vienna:20261208T140000
-DTEND;TZID=Europe/Vienna:20261208T190000
+DTEND;TZID=Europe/Vienna:20261208T230000
 SUMMARY:Verknallt x TUFF w/ A.N.I. & DJ Dreckisch – Daytime Rave
 LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
 DESCRIPTION:DJ Dreckisch\, A.n.i\, Naij\, Oryma\, Serafin\, Sutter Cane\n
@@ -2369,23 +2404,32 @@ BEGIN:VEVENT
 UID:2026-12-11-sniffin-glue@rave.wien
 DTSTAMP:20261211T000000Z
 DTSTART;TZID=Europe/Vienna:20261211T220000
-DTEND;TZID=Europe/Vienna:20261212T030000
+DTEND;TZID=Europe/Vienna:20261212T060000
 SUMMARY:Sniffin´ Glue
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Xeno & Oaklander\n\nNeue Ausgabe der Reihe Sniffin´ Glue im 
- FLUCC. Laut Techno Airlines spielt das New Yorker Duo Xeno & Oaklander (
- Liz Wendelbo und Sean McBride)\, bekannt für analogen Minimal Synth und
-  Coldwave mit Releases u. a. auf Ghostly International und Dais Records.
-  Weitere Details (Floor\, Support\, Preis\, Endzeit) waren bei diesem La
- uf nicht abrufbar und folgen bei der nächsten Prüfung.\n\nhttps://rave
- .wien/e/2026-12-11-sniffin-glue
+DESCRIPTION:Xeno & Oaklander\, Art Fact\, Annie High\, ADHS Lene\, Toxo\n
+ Veranstalter: Sniffin´ Glue\nEintritt: 6\,66 € (nur Abendkasse)\n\nNe
+ ue Ausgabe von Sniffin´ Glue\, der Partyreihe für Dark\, Cold\, New\, 
+ Synth und Minimal Wave sowie Post-Punk\, diesmal auf dem FLUCC Deck mit 
+ zwei Live-Acts. Xeno & Oaklander – das Brooklyner Minimal-Electronics-
+ Duo Liz Wendelbo und Sean McBride (Martial Canterel) – ist seit 2004 (
+ Debüt-LP „Vigils“ auf Xanten) in der Analog-Synth-Szene aktiv und h
+ at das Synth-Wave-Revival in den USA und weltweit mitgeprägt. Art Fact 
+ begannen Ende der 1980er als vier Teenager in Stockholm\, nahmen 1989–
+ 1992 drei Kult-Kassetten auf („In Fact“\, „Nowadays“\, „The Nu
+ clear Princess“) und sind bekannt von den Memento-Materia-Compilations
+  „Illuminative“ und „Autumn Leaves“\; 2026 kehrten sie nach übe
+ r zehn Jahren für eine Europatour mit neuen Remixes ihrer Klassiker auf
+  die Bühne zurück. Dazu legen Annie High\, ADHS Lene und Toxo auf. Ein
+ tritt 6\,66 €\, nur Abendkasse\; das Plakat stammt von Jakob Breit.\n\
+ nhttps://rave.wien/e/2026-12-11-sniffin-glue
 URL:https://rave.wien/e/2026-12-11-sniffin-glue
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-zuckerwatt-w-ellen-allien@rave.wien
 DTSTAMP:20261211T000000Z
 DTSTART;TZID=Europe/Vienna:20261211T230000
-DTEND;TZID=Europe/Vienna:20261212T040000
+DTEND;TZID=Europe/Vienna:20261212T060000
 SUMMARY:Zuckerwatt w/ Ellen Allien
 LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Mainfloor: Ellen Allien\nVeranstalter: Zuckerwatt\n\nDie Reih
@@ -2515,7 +2559,7 @@ BEGIN:VEVENT
 UID:2026-12-12-contrast-pres-dance-macabre-w-simula-enei-skantia@rave.wien
 DTSTAMP:20261212T000000Z
 DTSTART;TZID=Europe/Vienna:20261212T230000
-DTEND;TZID=Europe/Vienna:20261213T040000
+DTEND;TZID=Europe/Vienna:20261213T060000
 SUMMARY:Contrast pres. Dance Macabre w/ Simula + Enei + Skantia
 LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Mainfloor: Simula\, Enei\, Skantia\, En:vy\, Wingz\, Contrast
@@ -2539,7 +2583,7 @@ BEGIN:VEVENT
 UID:2026-12-12-redivider-pres-audrey-danza@rave.wien
 DTSTAMP:20261212T000000Z
 DTSTART;TZID=Europe/Vienna:20261212T230000
-DTEND;TZID=Europe/Vienna:20261213T040000
+DTEND;TZID=Europe/Vienna:20261213T060000
 SUMMARY:REDIVIDER pres. Audrey Danza
 LOCATION:PRST\, Praterstraße 18\, 1020 Wien
 DESCRIPTION:Audrey Danza\, Apua\, DJ Deadlift\, Dreya\nVeranstalter: Redi
@@ -2556,14 +2600,14 @@ BEGIN:VEVENT
 UID:2026-12-12-civic-pressure@rave.wien
 DTSTAMP:20261212T000000Z
 DTSTART;TZID=Europe/Vienna:20261212T230000
-DTEND;TZID=Europe/Vienna:20261213T040000
+DTEND;TZID=Europe/Vienna:20261213T060000
 SUMMARY:CIVIC: Pressure
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Veranstalter: CIVIC\n\nNeue Nacht der Wiener Reihe CIVIC im F
- LUCC unter dem Motto „Pressure“. Lineup\, Floor\, Preis und Endzeit 
- sind laut Techno-Airlines-Übersicht noch nicht angegeben bzw. konnten i
- n diesem Lauf nicht abgerufen werden.\n\nhttps://rave.wien/e/2026-12-12-
- civic-pressure
+DESCRIPTION:Veranstalter: CIVIC\n\nNeue Nacht der Wiener Reihe CIVIC (Civ
+ ic Collective) im FLUCC unter dem Motto „Pressure“\, laut RA mit Tec
+ hno und Bass von 23:00 bis 06:00\, ab 18 Jahren\; Tickets über RA. Line
+ up und Floor sind noch nicht angekündigt\, einen Preis nennen die lesba
+ ren Quellen nicht.\n\nhttps://rave.wien/e/2026-12-12-civic-pressure
 URL:https://rave.wien/e/2026-12-12-civic-pressure
 END:VEVENT
 BEGIN:VEVENT
@@ -2603,7 +2647,7 @@ BEGIN:VEVENT
 UID:2026-12-16-sama-recordings-pres-schweben@rave.wien
 DTSTAMP:20261216T000000Z
 DTSTART;TZID=Europe/Vienna:20261216T190000
-DTEND;TZID=Europe/Vienna:20261217T000000
+DTEND;TZID=Europe/Vienna:20261216T230000
 SUMMARY:sama recordings pres. schweben
 LOCATION:Westbahn Studios\, Adresse noch TBA Wien
 DESCRIPTION:Veranstalter: sama recordings\n\nWeitere Ausgabe der Reihe s 
@@ -2725,7 +2769,7 @@ BEGIN:VEVENT
 UID:2026-12-18-ritual-x-yn-w-chris-liebing@rave.wien
 DTSTAMP:20261218T000000Z
 DTSTART;TZID=Europe/Vienna:20261218T230000
-DTEND;TZID=Europe/Vienna:20261219T040000
+DTEND;TZID=Europe/Vienna:20261219T060000
 SUMMARY:RITUAL x YN w/ Chris Liebing
 LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
 DESCRIPTION:Chris Liebing\nVeranstalter: YN\, Ritual\nEintritt: VVK 16 
@@ -2770,16 +2814,17 @@ BEGIN:VEVENT
 UID:2026-12-18-joyce-muniz-im-wohnzimmer@rave.wien
 DTSTAMP:20261218T000000Z
 DTSTART;TZID=Europe/Vienna:20261218T230000
-DTEND;TZID=Europe/Vienna:20261219T040000
+DTEND;TZID=Europe/Vienna:20261219T060000
 SUMMARY:Joyce Muniz im Wohnzimmer
 LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Joyce Muniz\, Joules\nVeranstalter: Wohnzimmer\n\nJoyce Muniz
-  kehrt mit ihrer Reihe „im Wohnzimmer“ in den SASS Music Club zurüc
- k. Die in Wien lebende\, aus São Paulo stammende DJ und Produzentin ver
- bindet House\, Electro und Breaks und veröffentlicht u. a. auf Exploite
- d und ihrem eigenen Label. Als weiterer Act ist laut Techno Airlines Jou
- les (AT) angekündigt. Preis und Endzeit waren in diesem Lauf nicht abru
- fbar.\n\nhttps://rave.wien/e/2026-12-18-joyce-muniz-im-wohnzimmer
+DESCRIPTION:Joyce Muniz\, Joules\nVeranstalter: Wohnzimmer\nEintritt: 10
+ –15 €\n\nJoyce Muniz kehrt mit ihrer Reihe „im Wohnzimmer“ in de
+ n SASS Music Club zurück. Die in Wien lebende\, aus São Paulo stammend
+ e DJ und Produzentin verbindet House\, Electro und Breaks und veröffent
+ licht u. a. auf Exploited und ihrem eigenen Label. Als weiterer Act ist 
+ laut Techno Airlines Joules (AT) angekündigt. Preis und Endzeit waren i
+ n diesem Lauf nicht abrufbar.\n\nhttps://rave.wien/e/2026-12-18-joyce-mu
+ niz-im-wohnzimmer
 URL:https://rave.wien/e/2026-12-18-joyce-muniz-im-wohnzimmer
 END:VEVENT
 BEGIN:VEVENT
@@ -2845,7 +2890,7 @@ BEGIN:VEVENT
 UID:2026-12-19-sama-recordings-pres-schweben@rave.wien
 DTSTAMP:20261219T000000Z
 DTSTART;TZID=Europe/Vienna:20261219T210000
-DTEND;TZID=Europe/Vienna:20261220T020000
+DTEND;TZID=Europe/Vienna:20261220T060000
 SUMMARY:sama recordings pres. schweben
 LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
 DESCRIPTION:Ambient Animal\, Tanja Turner\nVeranstalter: sama recordings\
@@ -2874,7 +2919,7 @@ BEGIN:VEVENT
 UID:2026-12-19-herzfrequenz-weekender-day-2@rave.wien
 DTSTAMP:20261219T000000Z
 DTSTART;TZID=Europe/Vienna:20261219T230000
-DTEND;TZID=Europe/Vienna:20261220T040000
+DTEND;TZID=Europe/Vienna:20261220T060000
 SUMMARY:HERZFREQUENZ WEEKENDER: DAY 2
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Joey\, Amøn\nVeranstalter: Herzfrequenz\n\nDas Herzfrequenz 
@@ -2912,7 +2957,7 @@ BEGIN:VEVENT
 UID:2026-12-21-ventil-records-pres-eardrum-residency-w-mariam-re@rave.wien
 DTSTAMP:20261221T000000Z
 DTSTART;TZID=Europe/Vienna:20261221T200000
-DTEND;TZID=Europe/Vienna:20261222T010000
+DTEND;TZID=Europe/Vienna:20261221T230000
 SUMMARY:Ventil Records pres. Eardrum Residency w/ Mariam Rezaei
 LOCATION:Westbahn Studios\, Adresse noch TBA Wien
 DESCRIPTION:Mariam Rezaei\nVeranstalter: Ventil Records\n\nAbschlussabend
@@ -3034,7 +3079,7 @@ BEGIN:VEVENT
 UID:2027-01-15-klangkarussell@rave.wien
 DTSTAMP:20270115T000000Z
 DTSTART;TZID=Europe/Vienna:20270115T230000
-DTEND;TZID=Europe/Vienna:20270116T040000
+DTEND;TZID=Europe/Vienna:20270116T060000
 SUMMARY:Klangkarussell
 LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
 DESCRIPTION:Klangkarussell\nVeranstalter: SIGNAL\n\nSIGNAL präsentiert d
@@ -3254,7 +3299,7 @@ BEGIN:VEVENT
 UID:2027-02-12-schrotthagen@rave.wien
 DTSTAMP:20270212T000000Z
 DTSTART;TZID=Europe/Vienna:20270212T230000
-DTEND;TZID=Europe/Vienna:20270213T040000
+DTEND;TZID=Europe/Vienna:20270213T060000
 SUMMARY:Schrotthagen
 LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
 DESCRIPTION:Schrotthagen\nVeranstalter: SIGNAL\nEintritt: ab 15 €\n\nSI

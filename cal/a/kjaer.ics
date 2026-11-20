@@ -29,7 +29,7 @@ BEGIN:VEVENT
 UID:2026-12-07-ravecon-mind-x-mas-feat-mario-ranieri@rave.wien
 DTSTAMP:20261207T000000Z
 DTSTART;TZID=Europe/Vienna:20261207T210000
-DTEND;TZID=Europe/Vienna:20261208T020000
+DTEND;TZID=Europe/Vienna:20261208T060000
 SUMMARY:RAVECON × MIND X-MAS feat. Mario Ranieri
 LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
 DESCRIPTION:Mario Ranieri\, KJAER\, JP eXbert\, Richard Steinschlag\nVera

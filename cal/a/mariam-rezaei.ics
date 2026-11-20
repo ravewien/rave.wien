@@ -29,7 +29,7 @@ BEGIN:VEVENT
 UID:2026-12-21-ventil-records-pres-eardrum-residency-w-mariam-re@rave.wien
 DTSTAMP:20261221T000000Z
 DTSTART;TZID=Europe/Vienna:20261221T200000
-DTEND;TZID=Europe/Vienna:20261222T010000
+DTEND;TZID=Europe/Vienna:20261221T230000
 SUMMARY:Ventil Records pres. Eardrum Residency w/ Mariam Rezaei
 LOCATION:Westbahn Studios\, Adresse noch TBA Wien
 DESCRIPTION:Mariam Rezaei\nVeranstalter: Ventil Records\n\nAbschlussabend

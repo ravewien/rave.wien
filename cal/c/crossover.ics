@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Crossover · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-21-tram-bass-vol-4-our-longest-ride-yet@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T130000
+DTEND;TZID=Europe/Vienna:20261121T210000
+SUMMARY:Tram & Bass Vol. 4 – Our longest ride yet
+DESCRIPTION:Veranstalter: Crossover\n\nVierte Ausgabe der Reihe Tram & Ba
+ ss des Vereins Crossover\, laut Untertitel „Our longest ride yet“: a
+ cht Stunden Musik in einer Wiener Straßenbahn auf zwei getrennten Fahrt
+ en. Route 1 (13–17 Uhr) mit Techno\, Dubstep und UK Garage startet und
+  endet an der Station Karlsplatz/Resselpark\; Route 2 (17–21 Uhr) ist 
+ ganz Drum & Bass und seinen Einflüssen gewidmet\, Abfahrt Karlsplatz/Re
+ sselpark\, Endstation Josefstädter Straße. Die Routen sind einzeln ode
+ r als Kombiticket über Eventfrog buchbar\; an Bord gibt es Getränke un
+ d Snacks\, eigene Getränke sind nicht erlaubt. Lineup und Ticketpreise 
+ sind in den lesbaren Quellen nicht angegeben.\n\nhttps://rave.wien/e/202
+ 6-11-21-tram-bass-vol-4-our-longest-ride-yet
+URL:https://rave.wien/e/2026-11-21-tram-bass-vol-4-our-longest-ride-yet
+END:VEVENT
+END:VCALENDAR

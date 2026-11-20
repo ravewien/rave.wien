@@ -53,13 +53,14 @@ DTEND;TZID=Europe/Vienna:20261121T060000
 SUMMARY:Vision Serpent
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
 DESCRIPTION:NoNameLeft\, Mateo!\, David Phoenix\, Nya Nyx\nVeranstalter: 
- Vision Serpent\nEintritt: 12 € VVK / 18 € Abendkassa\n\nVision Serpe
- nt lädt zum Showcase in die FLUCC Wanne mit NoNameLeft\, Mateo!\, David
-  Phoenix und Nya Nyx. Bisherige Quellen ordnen den Abend Techno\, Minima
- l Techno und Psytech zu. Beginn 23:00\, Ende 06:00\; Vorverkauf 10 € 
- über kupfticket\, Abendkasse 18 €. Die FLUCC-Seite selbst enthält no
- ch keine Beschreibung oder Flyer.\n\nhttps://rave.wien/e/2026-11-20-visi
- on-serpent
+ Vision Serpent\nEintritt: 16 € VVK (Phase 3) / 18 € Abendkassa\n\nVi
+ sion Serpent lädt zum Label-Showcase in die FLUCC Wanne mit NoNameLeft\
+ , Mateo!\, David Phoenix und Nya Nyx. Bisherige Quellen ordnen den Abend
+  Techno\, Minimal Techno und Psytech zu. Beginn 23:00\, Ende 06:00. Im V
+ orverkauf bei kupfticket sind Phase 1 (12 €) und Phase 2 (14 €) ausv
+ erkauft\, erhältlich ist noch Phase 3 um 16 €\; Abendkasse laut RA 18
+  €. Die FLUCC-Seite selbst enthält keine Beschreibung oder Flyer.\n\n
+ https://rave.wien/e/2026-11-20-vision-serpent
 URL:https://rave.wien/e/2026-11-20-vision-serpent
 END:VEVENT
 BEGIN:VEVENT
@@ -239,14 +240,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-basstrace@rave.wien
 DTSTAMP:20261204T000000Z
-DTSTART;TZID=Europe/Vienna:20261204T233000
-DTEND;TZID=Europe/Vienna:20261205T043000
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T040000
 SUMMARY:Basstrace
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
 DESCRIPTION:Veranstalter: Basstrace\n\nBasstrace im FLUCC Wanne. Die Loca
- tion-Seite nennt bisher nur Titel\, Datum und Beginn (23:30 Uhr)\; Lineu
- p\, Preis\, Ende und Flyer sind noch nicht veröffentlicht. Verlinkt ist
-  die Website basstrace.com.\n\nhttps://rave.wien/e/2026-12-04-basstrace
+ tion-Seite nennt bisher nur Titel\, Datum und Beginn (23:00 Uhr\, zuvor 
+ 23:30)\; Lineup\, Preis\, Ende und Flyer sind noch nicht veröffentlicht
+ . Verlinkt ist die Website basstrace.com.\n\nhttps://rave.wien/e/2026-12
+ -04-basstrace
 URL:https://rave.wien/e/2026-12-04-basstrace
 END:VEVENT
 BEGIN:VEVENT
@@ -303,16 +305,25 @@ BEGIN:VEVENT
 UID:2026-12-11-sniffin-glue@rave.wien
 DTSTAMP:20261211T000000Z
 DTSTART;TZID=Europe/Vienna:20261211T220000
-DTEND;TZID=Europe/Vienna:20261212T030000
+DTEND;TZID=Europe/Vienna:20261212T060000
 SUMMARY:Sniffin´ Glue
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Xeno & Oaklander\n\nNeue Ausgabe der Reihe Sniffin´ Glue im 
- FLUCC. Laut Techno Airlines spielt das New Yorker Duo Xeno & Oaklander (
- Liz Wendelbo und Sean McBride)\, bekannt für analogen Minimal Synth und
-  Coldwave mit Releases u. a. auf Ghostly International und Dais Records.
-  Weitere Details (Floor\, Support\, Preis\, Endzeit) waren bei diesem La
- uf nicht abrufbar und folgen bei der nächsten Prüfung.\n\nhttps://rave
- .wien/e/2026-12-11-sniffin-glue
+DESCRIPTION:Xeno & Oaklander\, Art Fact\, Annie High\, ADHS Lene\, Toxo\n
+ Veranstalter: Sniffin´ Glue\nEintritt: 6\,66 € (nur Abendkasse)\n\nNe
+ ue Ausgabe von Sniffin´ Glue\, der Partyreihe für Dark\, Cold\, New\, 
+ Synth und Minimal Wave sowie Post-Punk\, diesmal auf dem FLUCC Deck mit 
+ zwei Live-Acts. Xeno & Oaklander – das Brooklyner Minimal-Electronics-
+ Duo Liz Wendelbo und Sean McBride (Martial Canterel) – ist seit 2004 (
+ Debüt-LP „Vigils“ auf Xanten) in der Analog-Synth-Szene aktiv und h
+ at das Synth-Wave-Revival in den USA und weltweit mitgeprägt. Art Fact 
+ begannen Ende der 1980er als vier Teenager in Stockholm\, nahmen 1989–
+ 1992 drei Kult-Kassetten auf („In Fact“\, „Nowadays“\, „The Nu
+ clear Princess“) und sind bekannt von den Memento-Materia-Compilations
+  „Illuminative“ und „Autumn Leaves“\; 2026 kehrten sie nach übe
+ r zehn Jahren für eine Europatour mit neuen Remixes ihrer Klassiker auf
+  die Bühne zurück. Dazu legen Annie High\, ADHS Lene und Toxo auf. Ein
+ tritt 6\,66 €\, nur Abendkasse\; das Plakat stammt von Jakob Breit.\n\
+ nhttps://rave.wien/e/2026-12-11-sniffin-glue
 URL:https://rave.wien/e/2026-12-11-sniffin-glue
 END:VEVENT
 BEGIN:VEVENT
@@ -335,14 +346,14 @@ BEGIN:VEVENT
 UID:2026-12-12-civic-pressure@rave.wien
 DTSTAMP:20261212T000000Z
 DTSTART;TZID=Europe/Vienna:20261212T230000
-DTEND;TZID=Europe/Vienna:20261213T040000
+DTEND;TZID=Europe/Vienna:20261213T060000
 SUMMARY:CIVIC: Pressure
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Veranstalter: CIVIC\n\nNeue Nacht der Wiener Reihe CIVIC im F
- LUCC unter dem Motto „Pressure“. Lineup\, Floor\, Preis und Endzeit 
- sind laut Techno-Airlines-Übersicht noch nicht angegeben bzw. konnten i
- n diesem Lauf nicht abgerufen werden.\n\nhttps://rave.wien/e/2026-12-12-
- civic-pressure
+DESCRIPTION:Veranstalter: CIVIC\n\nNeue Nacht der Wiener Reihe CIVIC (Civ
+ ic Collective) im FLUCC unter dem Motto „Pressure“\, laut RA mit Tec
+ hno und Bass von 23:00 bis 06:00\, ab 18 Jahren\; Tickets über RA. Line
+ up und Floor sind noch nicht angekündigt\, einen Preis nennen die lesba
+ ren Quellen nicht.\n\nhttps://rave.wien/e/2026-12-12-civic-pressure
 URL:https://rave.wien/e/2026-12-12-civic-pressure
 END:VEVENT
 BEGIN:VEVENT

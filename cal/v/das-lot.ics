@@ -29,7 +29,7 @@ BEGIN:VEVENT
 UID:2026-11-26-nomenklatur-w-cancer-house-live-when-it-s-over-li@rave.wien
 DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Vienna:20261126T190000
-DTEND;TZID=Europe/Vienna:20261127T000000
+DTEND;TZID=Europe/Vienna:20261126T230000
 SUMMARY:nomenklatur w/ Cancer House (live) & When It's Over (live)
 LOCATION:Das Lot\, Absberggasse 31\, 1100 Wien
 DESCRIPTION:Cancer House\, When It's Over\nVeranstalter: nomenklatur\n\nN
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 UID:2026-12-05-purrr-x-technolot@rave.wien
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=Europe/Vienna:20261205T220000
-DTEND;TZID=Europe/Vienna:20261206T030000
+DTEND;TZID=Europe/Vienna:20261206T040000
 SUMMARY:PURRR x TECHNOLOT
 LOCATION:Das Lot\, Absberggasse 31\, 1100 Wien
 DESCRIPTION:Chinyere\, zey\, Linko\, Atlana\nVeranstalter: PURRR\, TECHNO

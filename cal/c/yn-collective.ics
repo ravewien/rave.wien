@@ -29,7 +29,7 @@ BEGIN:VEVENT
 UID:2026-12-18-ritual-x-yn-w-chris-liebing@rave.wien
 DTSTAMP:20261218T000000Z
 DTSTART;TZID=Europe/Vienna:20261218T230000
-DTEND;TZID=Europe/Vienna:20261219T040000
+DTEND;TZID=Europe/Vienna:20261219T060000
 SUMMARY:RITUAL x YN w/ Chris Liebing
 LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
 DESCRIPTION:Chris Liebing\nVeranstalter: YN\, Ritual\nEintritt: VVK 16 

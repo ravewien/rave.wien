@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:2026-11-20-over-tone-x-citruscue-pres-by-wums@rave.wien
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Vienna:20261120T220000
-DTEND;TZID=Europe/Vienna:20261121T030000
+DTEND;TZID=Europe/Vienna:20261121T060000
 SUMMARY:Over:Tone x CitrusCue pres. by Wums
 LOCATION:Club U\, Karlsplatz\, 1010 Wien
 DESCRIPTION:A.Fruit\, fejv\, RUV3N\, DICEFACE\, Tesa\nVeranstalter: Citru

@@ -46,7 +46,7 @@ BEGIN:VEVENT
 UID:2026-12-05-elektro-guzzi-special-guests-palazzo-festival@rave.wien
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=Europe/Vienna:20261205T210000
-DTEND;TZID=Europe/Vienna:20261206T020000
+DTEND;TZID=Europe/Vienna:20261206T030000
 SUMMARY:Elektro Guzzi & Special Guests – Palazzo Festival
 LOCATION:WUK\, Währinger Straße 59\, 1090 Wien
 DESCRIPTION:Elektro Guzzi\, WaqWaq Kingdom\, Catu Diosis\, Fingers of God
