@@ -1115,6 +1115,19 @@ const CG={
   "Techno",
   "UK Garage",
   "Drum & Bass"
+ ],
+ "shared frequencies": [
+  "Footwork",
+  "UK Bass"
+ ],
+ "SWEAT": [
+  "Hardgroove",
+  "Techno",
+  "Breakbeat"
+ ],
+ "Dance Spirit Events": [
+  "House",
+  "Tech House"
  ]
 };
 const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","909techno","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","ALERT[A] Vienna","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","Art Attech","AUDIO303","Auf der Lauer","Ausländer Haus","AWSM","BARVY","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","BASST SCHO","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","BLUR","Bonkers","Booster Club","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Cybertribe","Cyclic Existence","Dance 2 House","Dance Spirit Events","Danza Obscura","Dark Pressure","Das Syndikat","DEAD END","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exceso","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Fourcast","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Homesounds","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","It's George","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Klanggerecht","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","March of the Machines","Meier","MEIOSISS","Melodic Monday","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Modulate","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Opération","Out of Space","Oxygene","Palazzo Recordings","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PURRR","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","shared frequencies","SHPILKI","SIGNAL","SIN","Slutlabs","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","SWEAT","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","TECHNOLOT","The Academy","The Hive","The House of Funk","the zound partisans","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Ungeniert","Uniquely Journeys","Unkwn","Unstoppable Organizerteam","Untz Baby Untz","up/or","Vangardist","Ventil Records","Verknallt","Vertigo","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wums","Wyldhearts","Xperiment","Xperiment Records","YE","YN","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
@@ -6360,7 +6373,9 @@ const CI={
   "ig": "https://www.instagram.com/memorandum_at/",
   "type": [
    "Promoter"
-  ]
+  ],
+  "infoChk": "2026-11-20",
+  "noLogo": "2026-11-20"
  },
  "Let It Roll": {
   "de": "Großes Drum-&-Bass-Festival aus Tschechien, das 2026 sein 25-jähriges Bestehen feiert und mit der Reihe „Let It Roll On Tour“ auch Clubnächte in anderen Städten veranstaltet.",
@@ -6369,7 +6384,68 @@ const CI={
   "type": [
    "Reihe"
   ],
-  "from": "Tschechien"
+  "from": "Tschechien",
+  "ig": "https://www.instagram.com/letitrollfestival/",
+  "infoChk": "2026-11-20",
+  "noLogo": "2026-11-20"
+ },
+ "shared frequencies": {
+  "de": "Reihe von ooku. und dr. schick: Radioshow auf Res.Radio und Listening Sessions, zuletzt im Funkhaus. Thematisch u. a. UK-Bass und Soundsystem-Kultur sowie Schwarze Underground-Tanzmusik aus den USA von Disco und Techno bis Footwork.",
+  "en": "Series by ooku. and dr. schick: a radio show on Res.Radio plus listening sessions, most recently at Funkhaus. Topics include UK bass and sound-system culture as well as Black US underground dance music from disco and techno to footwork.",
+  "type": [
+   "Reihe"
+  ],
+  "src": [
+   "https://soundcloud.com/resradio/ooku-dr-schick-present-2",
+   "https://ra.co/events/2588164"
+  ],
+  "infoChk": "2026-11-20",
+  "noLogo": "2026-11-20"
+ },
+ "Dance Spirit Events": {
+  "de": "Wiener Veranstalter der Clubnacht „Kruger Club & Beats“ im Kruger Club in der Innenstadt, angekündigt mit „kuratierten Grooves und nicht-kommerziellen Beats“ zwischen House und Tech House.",
+  "en": "Vienna promoter behind the club night 'Kruger Club & Beats' at Kruger Club in the city centre, billed with 'curated grooves and non-commercial beats' between house and tech house.",
+  "type": [
+   "Promoter"
+  ],
+  "src": [
+   "https://ra.co/events/2588724"
+  ],
+  "infoChk": "2026-11-20",
+  "noLogo": "2026-11-20"
+ },
+ "SWEAT": {
+  "de": "Neue Clubreihe im Rhiz, gestartet von DJ HYSTERIE; die erste Ausgabe im November 2026 reicht von Hardgroove und Trance über UK Garage bis zu rohem Techno und Breakbeat.",
+  "en": "New club series at Rhiz started by DJ HYSTERIE; the first edition in November 2026 ranges from hardgroove and trance to UK garage, raw techno and breakbeat.",
+  "type": [
+   "Reihe"
+  ],
+  "src": [
+   "https://www.technoairlines.com/event/sweat-rhiz-2026-11-28",
+   "https://ra.co/events/2588619"
+  ],
+  "infoChk": "2026-11-20",
+  "noLogo": "2026-11-20"
+ },
+ "SHPILKI": {
+  "infoChk": "2026-11-20",
+  "noLogo": "2026-11-20"
+ },
+ "BARVY": {
+  "infoChk": "2026-11-20",
+  "noLogo": "2026-11-20"
+ },
+ "Unstoppable Organizerteam": {
+  "infoChk": "2026-11-20",
+  "noLogo": "2026-11-20"
+ },
+ "Modulate": {
+  "infoChk": "2026-11-20",
+  "noLogo": "2026-11-20"
+ },
+ "March of the Machines": {
+  "infoChk": "2026-11-20",
+  "noLogo": "2026-11-20"
  }
 };
 const VI={
@@ -7482,12 +7558,22 @@ const VI={
  "Kruger Club": {
   "io": [
    "Indoor"
-  ]
+  ],
+  "infoChk": "2026-11-20",
+  "noLogo": "2026-11-20"
  },
  "Cupra City Garage": {
   "io": [
    "Indoor"
-  ]
+  ],
+  "de": "Markenstandort („City Garage“) des Autoherstellers Cupra in der Maysedergasse in der Wiener Innenstadt – laut Cupra die elfte City Garage weltweit. Wird auch für Abendveranstaltungen und Partys genutzt.",
+  "en": "Brand space ('City Garage') of car maker Cupra on Maysedergasse in Vienna's city centre – according to Cupra its eleventh City Garage worldwide. Also used for evening events and parties.",
+  "web": "https://www.cupraofficial.com/brand/experiences/new-cupra-city-garage-vienna",
+  "src": [
+   "https://www.automotiveworld.com/news-releases/cupra-advances-globalisation-with-11th-city-garage-opening-in-vienna-reinforcing-position-in-key-austrian-market/"
+  ],
+  "infoChk": "2026-11-20",
+  "noLogo": "2026-11-20"
  }
 };
 /* LS = Logo-Suche ohne Treffer für Locations (v) / Kollektive (c) ohne VI-/CI-Eintrag: Datum der letzten Suche; frühestens 60 Tage danach erneut suchen. */
