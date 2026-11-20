@@ -21,7 +21,7 @@ const RANGES = ["all", "d7", "d14", "d28", "up"];
 const commits = sh("git log --reverse --format=%H%x09%cI -- events.js past.js").trim().split("\n").filter(Boolean).map(l => l.split("\t"));
 const first = { ev: new Map(), art: new Map(), col: new Map(), ven: new Map() };
 const mark = (m, k, d) => { if (!m.has(k)) m.set(k, d); };
-const snaps = []; let firstDay = null;
+const snaps = []; let firstDay = null; let lastE = [];
 
 for (const [sha, iso] of commits) {
   const ev = show(sha, "events.js"); if (!ev) continue;
@@ -46,11 +46,11 @@ for (const [sha, iso] of commits) {
 
   // einheitliche Event-Liste
   const E = [];
-  RAW.forEach(e => E.push({ k: e.d + "|" + slug(e.title), d: e.d, venue: e.venue,
+  RAW.forEach(e => E.push({ k: e.d + "|" + slug(e.title), d: e.d, venue: e.venue, title: e.title, s: e.s || "",
     arts: (e.floors || []).flatMap(f => (f.a || []).map(nm).flatMap(splitA)), cols: e.coll || [],
     note: !!(e.note && (e.note.de || e.note.en)), price: has(e.price), genres: has(e.genres), flyer: has(e.flyer),
     srch: has(e.chk) }));
-  PAST.forEach(r => { const x = r[5] || {}; E.push({ k: r[0] + "|" + slug(r[2]), d: r[0], venue: r[1],
+  PAST.forEach(r => { const x = r[5] || {}; E.push({ k: r[0] + "|" + slug(r[2]), d: r[0], venue: r[1], title: r[2], past: true,
     arts: (r[4] || []).flatMap(splitA), cols: r[3] || [],
     note: !!(x.note && (x.note.de || x.note.en)), price: has(x.price), genres: false, flyer: false,
     srch: has(x.src) || !!x.lu }); });
@@ -97,8 +97,13 @@ for (const [sha, iso] of commits) {
         srch: Vv.filter(x => has(x.infoChk) || has(x.noLogo) || has(x.logo)).length }, nw(first.ven, vk))
     };
   }
-  snaps.push({ t: iso, d: day, r: R });
+  snaps.push({ t: iso, d: day, r: R }); lastE = E;
 }
 snaps.sort((x, y) => new Date(x.t) - new Date(y.t));
-fs.writeFileSync(path.join(root, "stats.json"), JSON.stringify({ gen: new Date().toISOString(), first: firstDay, snaps }));
+// Neu gefundene Events der letzten 30 Tage (erstmals in den Daten aufgetaucht; der Anfangsbestand zählt nicht)
+const today = vday(new Date().toISOString()), from30 = addDays(today, -30), seenK = new Set();
+const neu = lastE.filter(e => { const f = first.ev.get(e.k); if (!f || f <= firstDay || f < from30 || seenK.has(e.k)) return false; seenK.add(e.k); return true; })
+  .map(e => ({ f: first.ev.get(e.k), d: e.d, s: e.s || "", t: e.title, v: e.venue, a: [...new Set(e.arts)], c: [...new Set(e.cols)], id: e.past ? "" : (e.d + "-" + slug(e.title)).slice(0, 60).replace(/-$/, "") }))
+  .sort((x, y) => y.f.localeCompare(x.f) || x.d.localeCompare(y.d) || (x.s || "99").localeCompare(y.s || "99"));
+fs.writeFileSync(path.join(root, "stats.json"), JSON.stringify({ gen: new Date().toISOString(), first: firstDay, snaps, neu }));
 console.log(`${snaps.length} Momentaufnahmen geschrieben.`);
