@@ -64,6 +64,23 @@ URL:https://rave.wien/e/2026-11-21-yolo-taxi-with-umafricana-lua-preta-mi
  ss-roshni
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-25-shared-frequencies-listening-session@rave.wien
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Vienna:20261125T183000
+DTEND;TZID=Europe/Vienna:20261126T000000
+SUMMARY:shared frequencies: listening session
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Reeno Reluv\, dr.schick\, ooku.\, DJ Soup\nVeranstalter: shar
+ ed frequencies\n\nListening-Session der Reihe shared frequencies im Funk
+ haus an einem Mittwochabend. Die Reise führt laut Ankündigung durch sc
+ hwarze Underground-Dance-Musik aus den USA – von Disco und Techno übe
+ r Chicago Footwork bis Miami Booty Bass. Zuvor widmete sich die Reihe UK
+ -Bass und Soundsystem-Kultur. Gegen Ende übernehmen die Gäste Reeno Re
+ luv und DJ Soup.\n\nhttps://rave.wien/e/2026-11-25-shared-frequencies-li
+ stening-session
+URL:https://rave.wien/e/2026-11-25-shared-frequencies-listening-session
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-cafe-disko-x-firlefunk@rave.wien
 DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Vienna:20261127T220000

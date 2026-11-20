@@ -812,6 +812,23 @@ DESCRIPTION:Drehli Robnik\nEintritt: 10 € (nur AK)\n\nDie 29. Ausgabe d
 URL:https://rave.wien/e/2026-11-22-sonntag-sdisco-vol-29
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-25-shared-frequencies-listening-session@rave.wien
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Vienna:20261125T183000
+DTEND;TZID=Europe/Vienna:20261126T000000
+SUMMARY:shared frequencies: listening session
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Reeno Reluv\, dr.schick\, ooku.\, DJ Soup\nVeranstalter: shar
+ ed frequencies\n\nListening-Session der Reihe shared frequencies im Funk
+ haus an einem Mittwochabend. Die Reise führt laut Ankündigung durch sc
+ hwarze Underground-Dance-Musik aus den USA – von Disco und Techno übe
+ r Chicago Footwork bis Miami Booty Bass. Zuvor widmete sich die Reihe UK
+ -Bass und Soundsystem-Kultur. Gegen Ende übernehmen die Gäste Reeno Re
+ luv und DJ Soup.\n\nhttps://rave.wien/e/2026-11-25-shared-frequencies-li
+ stening-session
+URL:https://rave.wien/e/2026-11-25-shared-frequencies-listening-session
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-25-rave-am-mittwoch@rave.wien
 DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Vienna:20261125T230000
@@ -1103,6 +1120,21 @@ DESCRIPTION:Eintritt: 8–12 €\n\nMonatliche „Transmission“-Nacht i
  ee entry“)\, der Eventtext nennt aber den 27.11. und Ticketpreise.\n\n
  https://rave.wien/e/2026-11-27-november-transmission
 URL:https://rave.wien/e/2026-11-27-november-transmission
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-kruger-club-beats@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T230000
+DTEND;TZID=Europe/Vienna:20261128T053000
+SUMMARY:Kruger Club & Beats
+LOCATION:Kruger Club\, Krugerstraße 8\, 1010 Wien
+DESCRIPTION:VYKT\, LAVO\, ALYF\nVeranstalter: Dance Spirit Events\nEintri
+ tt: 10 €\n\nClubnacht im Kruger Club in der Innenstadt mit „kuratier
+ ten Grooves und nicht-kommerziellen Beats“\, beworben von Dance Spirit
+  Events. Es spielen VYKT\, LAVO und ALYF zwischen House und Tech House. 
+ Einlass laut RA ab 20 Jahren\, Eintritt 10 €.\n\nhttps://rave.wien/e/2
+ 026-11-27-kruger-club-beats
+URL:https://rave.wien/e/2026-11-27-kruger-club-beats
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-fuelized-friends@rave.wien
@@ -1424,6 +1456,23 @@ DESCRIPTION:Leen Tilt\, MORASS\, DYMINIX\, DJ Ecoton\nVeranstalter: Xperi
 URL:https://rave.wien/e/2026-11-28-xperiment-nights
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-28-sweat@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T235900
+DTEND;TZID=Europe/Vienna:20261129T060000
+SUMMARY:SWEAT
+LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
+DESCRIPTION:HYSTERIE\, Frau F\, Nakrasia\n\nPremiere der neuen Reihe SWEA
+ T im Rhiz am Gürtel\, initiiert von DJ HYSTERIE. Drei Zwei-Stunden-Sets
+ : HYSTERIE mit Hardgroove\, Trance und Peak Time\, Frau F mit UK Garage 
+ und UK Bass\, Nakrasia mit Raw Techno\, Hardgroove und Breakbeat. Laut B
+ eschreibung ist der Eintritt eine freie Spende\; RA nennt dagegen 10 €
+ . Die Beschreibung spricht von „Fr\, 28.11.“ ab 00:00 – der 28. 11
+ . 2026 ist ein Samstag\, RA führt Samstag 23:59.\n\nhttps://rave.wien/e
+ /2026-11-28-sweat
+URL:https://rave.wien/e/2026-11-28-sweat
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-29-morgengymnastik-donaurave@rave.wien
 DTSTAMP:20261129T000000Z
 DTSTART;TZID=Europe/Vienna:20261129T060000
@@ -1538,6 +1587,21 @@ DESCRIPTION:ARX\, Adam19\, Dunik\, Michkx\nVeranstalter: Fifi\nEintritt f
  to back. Einlass ab 23:30\, Ende 05:00\, Eintritt frei\, ab 18\; RA tagg
  t Techno und Minimal Techno.\n\nhttps://rave.wien/e/2026-12-03-fifi-rave
 URL:https://rave.wien/e/2026-12-03-fifi-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-barvy-shpilki-good-girl-gone-bad@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T210000
+DTEND;TZID=Europe/Vienna:20261205T020000
+SUMMARY:BARVY × SHPILKI: Good Girl Gone Bad
+LOCATION:Cupra City Garage\, Maysedergasse 4\, 1010 Wien
+DESCRIPTION:Marco Manaco\, DJ Glebaty\nVeranstalter: SHPILKI\, BARVY\nEin
+ tritt: 10–20 €\n\nBARVY und SHPILKI laden unter dem Motto „Good Gi
+ rl Gone Bad“ in die Cupra City Garage in der Innenstadt. An den Decks 
+ stehen Marco Manaco und DJ Glebaty\, angekündigt sind Tech House und El
+ ectro. Motto laut Ankündigung: „Come as you are.“ Ab 18.\n\nhttps:/
+ /rave.wien/e/2026-12-04-barvy-shpilki-good-girl-gone-bad
+URL:https://rave.wien/e/2026-12-04-barvy-shpilki-good-girl-gone-bad
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-empyreon-vol-iv@rave.wien
@@ -2957,6 +3021,20 @@ DESCRIPTION:Veranstalter: created-on-earth\n\nWeitere Ausgabe der Clubnac
 URL:https://rave.wien/e/2027-01-16-traveling-without-moving
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-16-contrast-pres-the-return-of-noisia@rave.wien
+DTSTAMP:20270116T000000Z
+DTSTART;TZID=Europe/Vienna:20270116T230000
+DTEND;TZID=Europe/Vienna:20270117T060000
+SUMMARY:Contrast pres. The Return Of Noisia
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Noisia\nVeranstalter: Contrast\n\nDie Wiener Drum-&-Bass-Reih
+ e Contrast kündigt in der Grelle Forelle „The Return Of Noisia“ an.
+  Als Act ist bisher nur Noisia genannt. 23:00–06:00\, ab 18. Weitere D
+ etails und Preise sind noch nicht veröffentlicht.\n\nhttps://rave.wien/
+ e/2027-01-16-contrast-pres-the-return-of-noisia
+URL:https://rave.wien/e/2027-01-16-contrast-pres-the-return-of-noisia
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-22-ueberrest@rave.wien
 DTSTAMP:20270122T000000Z
 DTSTART;TZID=Europe/Vienna:20270122T230000
@@ -3004,6 +3082,24 @@ DESCRIPTION:Charlie Sparks\nVeranstalter: SIGNAL\nEintritt: 15–25 €\n
 URL:https://rave.wien/e/2027-01-29-charlie-sparks
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-29-mahlwerk-supergloss-dj-hyperdrive@rave.wien
+DTSTAMP:20270129T000000Z
+DTSTART;TZID=Europe/Vienna:20270129T230000
+DTEND;TZID=Europe/Vienna:20270130T060000
+SUMMARY:MAHLWERK: Supergloss & DJ Hyperdrive
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: Supergloss\, DJ Hyperdrive\, maro\, Max Wagner\, G
+ oldi\, Kat Ze\nKitchen (hosted by Herzfrequenz): Crystal O\, Joey\, DJ W
+ olle\, YØNDER\nVeranstalter: Mahlwerk\, Herzfrequenz\nEintritt: 13–25
+  €\n\nMahlwerk startet ins Jahr 2027 in der Grelle Forelle. Headliner 
+ sind Supergloss aus Berlin mit Acid und Trance der 90er und 00er sowie D
+ J Hyperdrive (BCCO) mit Groove-Trance. Dazu spielen maro b2b Max Wagner 
+ und Goldi b2b Kat Ze. Die Kitchen wird von Herzfrequenz gehostet (Crysta
+ l O\, Joey\, DJ Wolle\, YØNDER). Ab 21.\n\nhttps://rave.wien/e/2027-01-
+ 29-mahlwerk-supergloss-dj-hyperdrive
+URL:https://rave.wien/e/2027-01-29-mahlwerk-supergloss-dj-hyperdrive
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-30-paradise-winter-festival-2027-nacht-2@rave.wien
 DTSTAMP:20270130T000000Z
 DTSTART;TZID=Europe/Vienna:20270130T210000
@@ -3021,6 +3117,23 @@ DESCRIPTION:Veranstalter: FromDuskTillDawn\nEintritt: Festivalpass 69 €
  de. Auf goabase ist FromDuskTillDawn als Veranstalter eingetragen.\n\nht
  tps://rave.wien/e/2027-01-30-paradise-winter-festival-2027-nacht-2
 URL:https://rave.wien/e/2027-01-30-paradise-winter-festival-2027-nacht-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-06-sama-recordings-pres-schweben@rave.wien
+DTSTAMP:20270206T000000Z
+DTSTART;TZID=Europe/Vienna:20270206T210000
+DTEND;TZID=Europe/Vienna:20270207T050000
+SUMMARY:sama recordings pres. schweben
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Chewlie\, Jan Loup\, nastynancy\, Moosiqunt\, DJ Odd\, yarx\n
+ Veranstalter: sama recordings\nEintritt: 16\,95–22\,60 €\n\nDas Wien
+ er Label sama recordings bringt seine Reihe s c h w e b e n in den Club 
+ Lucia – eine Nacht mit Live- und DJ-Sets zwischen Footwork und Drum & 
+ Bass. Live spielt Chewlie\, dazu DJ-Sets von Jan Loup\, nastynancy\, Moo
+ siqunt\, DJ Odd und yarx. Tickets gibt es als Supporter- und Regular-Stu
+ fe\; es gilt ein Code of Conduct. Gefördert von Stadt Wien Kultur.\n\nh
+ ttps://rave.wien/e/2027-02-06-sama-recordings-pres-schweben
+URL:https://rave.wien/e/2027-02-06-sama-recordings-pres-schweben
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-06-collapse-eatbrain-night-vienna-edition@rave.wien
@@ -3094,6 +3207,21 @@ DESCRIPTION:Veranstalter: FromDuskTillDawn\n\nMonatliche Psytrance-Nacht
  von FromDuskTillDawn im Werk. Das Line-up ist noch nicht veröffentlicht
  .\n\nhttps://rave.wien/e/2027-02-13-psytrance-werk
 URL:https://rave.wien/e/2027-02-13-psytrance-werk
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-contrast-12th-anniversary-hybrid-minds-tempza@rave.wien
+DTSTAMP:20270220T000000Z
+DTSTART;TZID=Europe/Vienna:20270220T230000
+DTEND;TZID=Europe/Vienna:20270221T060000
+SUMMARY:Contrast 12th Anniversary: Hybrid Minds + Tempza
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Hybrid Minds\, Tempza\nVeranstalter: Contrast\nEintritt: 22
+ –30 €\n\nDie Wiener Drum-&-Bass-Reihe Contrast feiert ihren 12. Gebu
+ rtstag in der Grelle Forelle. Gebucht sind Hybrid Minds und Tempza. 23:0
+ 0–06:00\, ab 18\, Tickets laut RA 22–30 €.\n\nhttps://rave.wien/e/
+ 2027-02-20-contrast-12th-anniversary-hybrid-minds-tempza
+URL:https://rave.wien/e/2027-02-20-contrast-12th-anniversary-hybrid-minds
+ -tempza
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-06-20-yrs-cosmic-space-disco@rave.wien

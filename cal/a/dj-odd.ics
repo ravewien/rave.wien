@@ -26,6 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2027-02-06-sama-recordings-pres-schweben@rave.wien
+DTSTAMP:20270206T000000Z
+DTSTART;TZID=Europe/Vienna:20270206T210000
+DTEND;TZID=Europe/Vienna:20270207T050000
+SUMMARY:sama recordings pres. schweben
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Chewlie\, Jan Loup\, nastynancy\, Moosiqunt\, DJ Odd\, yarx\n
+ Veranstalter: sama recordings\nEintritt: 16\,95–22\,60 €\n\nDas Wien
+ er Label sama recordings bringt seine Reihe s c h w e b e n in den Club 
+ Lucia – eine Nacht mit Live- und DJ-Sets zwischen Footwork und Drum & 
+ Bass. Live spielt Chewlie\, dazu DJ-Sets von Jan Loup\, nastynancy\, Moo
+ siqunt\, DJ Odd und yarx. Tickets gibt es als Supporter- und Regular-Stu
+ fe\; es gilt ein Code of Conduct. Gefördert von Stadt Wien Kultur.\n\nh
+ ttps://rave.wien/e/2027-02-06-sama-recordings-pres-schweben
+URL:https://rave.wien/e/2027-02-06-sama-recordings-pres-schweben
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-07-hallraum@rave.wien
 DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Vienna:20261107T220000

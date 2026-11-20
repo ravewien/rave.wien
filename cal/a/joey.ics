@@ -58,6 +58,24 @@ DESCRIPTION:Joey\, Amøn\nVeranstalter: Herzfrequenz\n\nDas Herzfrequenz
 URL:https://rave.wien/e/2026-12-19-herzfrequenz-weekender-day-2
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-29-mahlwerk-supergloss-dj-hyperdrive@rave.wien
+DTSTAMP:20270129T000000Z
+DTSTART;TZID=Europe/Vienna:20270129T230000
+DTEND;TZID=Europe/Vienna:20270130T060000
+SUMMARY:MAHLWERK: Supergloss & DJ Hyperdrive
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: Supergloss\, DJ Hyperdrive\, maro\, Max Wagner\, G
+ oldi\, Kat Ze\nKitchen (hosted by Herzfrequenz): Crystal O\, Joey\, DJ W
+ olle\, YØNDER\nVeranstalter: Mahlwerk\, Herzfrequenz\nEintritt: 13–25
+  €\n\nMahlwerk startet ins Jahr 2027 in der Grelle Forelle. Headliner 
+ sind Supergloss aus Berlin mit Acid und Trance der 90er und 00er sowie D
+ J Hyperdrive (BCCO) mit Groove-Trance. Dazu spielen maro b2b Max Wagner 
+ und Goldi b2b Kat Ze. Die Kitchen wird von Herzfrequenz gehostet (Crysta
+ l O\, Joey\, DJ Wolle\, YØNDER). Ab 21.\n\nhttps://rave.wien/e/2027-01-
+ 29-mahlwerk-supergloss-dj-hyperdrive
+URL:https://rave.wien/e/2027-01-29-mahlwerk-supergloss-dj-hyperdrive
+END:VEVENT
+BEGIN:VEVENT
 UID:2024-12-21-herzfrequenz-presents-joey-s-birthday-bender@rave.wien
 DTSTAMP:20241221T000000Z
 DTSTART;VALUE=DATE:20241221

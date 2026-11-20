@@ -26,6 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-28-sweat@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T235900
+DTEND;TZID=Europe/Vienna:20261129T060000
+SUMMARY:SWEAT
+LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
+DESCRIPTION:HYSTERIE\, Frau F\, Nakrasia\n\nPremiere der neuen Reihe SWEA
+ T im Rhiz am Gürtel\, initiiert von DJ HYSTERIE. Drei Zwei-Stunden-Sets
+ : HYSTERIE mit Hardgroove\, Trance und Peak Time\, Frau F mit UK Garage 
+ und UK Bass\, Nakrasia mit Raw Techno\, Hardgroove und Breakbeat. Laut B
+ eschreibung ist der Eintritt eine freie Spende\; RA nennt dagegen 10 €
+ . Die Beschreibung spricht von „Fr\, 28.11.“ ab 00:00 – der 28. 11
+ . 2026 ist ein Samstag\, RA führt Samstag 23:59.\n\nhttps://rave.wien/e
+ /2026-11-28-sweat
+URL:https://rave.wien/e/2026-11-28-sweat
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-alles-allen-no-halloween-birthday-bash@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T200000

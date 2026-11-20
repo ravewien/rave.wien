@@ -233,6 +233,53 @@ DESCRIPTION:Mainfloor: Malugi\, Vivienna\, Aschenbrenner\nKitchen: Chiara
 URL:https://rave.wien/e/2026-12-19-15yrs-grelle-forelle-malugi
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-16-contrast-pres-the-return-of-noisia@rave.wien
+DTSTAMP:20270116T000000Z
+DTSTART;TZID=Europe/Vienna:20270116T230000
+DTEND;TZID=Europe/Vienna:20270117T060000
+SUMMARY:Contrast pres. The Return Of Noisia
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Noisia\nVeranstalter: Contrast\n\nDie Wiener Drum-&-Bass-Reih
+ e Contrast kündigt in der Grelle Forelle „The Return Of Noisia“ an.
+  Als Act ist bisher nur Noisia genannt. 23:00–06:00\, ab 18. Weitere D
+ etails und Preise sind noch nicht veröffentlicht.\n\nhttps://rave.wien/
+ e/2027-01-16-contrast-pres-the-return-of-noisia
+URL:https://rave.wien/e/2027-01-16-contrast-pres-the-return-of-noisia
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-29-mahlwerk-supergloss-dj-hyperdrive@rave.wien
+DTSTAMP:20270129T000000Z
+DTSTART;TZID=Europe/Vienna:20270129T230000
+DTEND;TZID=Europe/Vienna:20270130T060000
+SUMMARY:MAHLWERK: Supergloss & DJ Hyperdrive
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: Supergloss\, DJ Hyperdrive\, maro\, Max Wagner\, G
+ oldi\, Kat Ze\nKitchen (hosted by Herzfrequenz): Crystal O\, Joey\, DJ W
+ olle\, YØNDER\nVeranstalter: Mahlwerk\, Herzfrequenz\nEintritt: 13–25
+  €\n\nMahlwerk startet ins Jahr 2027 in der Grelle Forelle. Headliner 
+ sind Supergloss aus Berlin mit Acid und Trance der 90er und 00er sowie D
+ J Hyperdrive (BCCO) mit Groove-Trance. Dazu spielen maro b2b Max Wagner 
+ und Goldi b2b Kat Ze. Die Kitchen wird von Herzfrequenz gehostet (Crysta
+ l O\, Joey\, DJ Wolle\, YØNDER). Ab 21.\n\nhttps://rave.wien/e/2027-01-
+ 29-mahlwerk-supergloss-dj-hyperdrive
+URL:https://rave.wien/e/2027-01-29-mahlwerk-supergloss-dj-hyperdrive
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-contrast-12th-anniversary-hybrid-minds-tempza@rave.wien
+DTSTAMP:20270220T000000Z
+DTSTART;TZID=Europe/Vienna:20270220T230000
+DTEND;TZID=Europe/Vienna:20270221T060000
+SUMMARY:Contrast 12th Anniversary: Hybrid Minds + Tempza
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Hybrid Minds\, Tempza\nVeranstalter: Contrast\nEintritt: 22
+ –30 €\n\nDie Wiener Drum-&-Bass-Reihe Contrast feiert ihren 12. Gebu
+ rtstag in der Grelle Forelle. Gebucht sind Hybrid Minds und Tempza. 23:0
+ 0–06:00\, ab 18\, Tickets laut RA 22–30 €.\n\nhttps://rave.wien/e/
+ 2027-02-20-contrast-12th-anniversary-hybrid-minds-tempza
+URL:https://rave.wien/e/2027-02-20-contrast-12th-anniversary-hybrid-minds
+ -tempza
+END:VEVENT
+BEGIN:VEVENT
 UID:2024-03-01-techno-entgleist-bussis-aus-berlin@rave.wien
 DTSTAMP:20240301T000000Z
 DTSTART;TZID=Europe/Vienna:20240301T230000

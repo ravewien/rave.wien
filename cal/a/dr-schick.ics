@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//rave.wien//Kalender//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Dr. Schick · rave.wien
+X-WR-CALNAME:dr.schick · rave.wien
 X-WR-TIMEZONE:Europe/Vienna
 X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
@@ -26,21 +26,20 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-28-patches@rave.wien
-DTSTAMP:20261128T000000Z
-DTSTART;TZID=Europe/Vienna:20261128T220000
-DTEND;TZID=Europe/Vienna:20261129T043000
-SUMMARY:Patches
-LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
-DESCRIPTION:Philo_\, Dr. Schick\, Meander\, dj ayran\, Tursa\, Peter Spie
- lmann\nVeranstalter: Patches\nEintritt: 5 €\n\nNeue Ausgabe der Wiener
-  Breakbeat-/Club-Reihe Patches\, erstmals im Tagada. Als Gäste spielen 
- Philo_ und Dr. Schick\, dazu die Patches-Crew mit Meander\, dj ayran\, T
- ursa und Peter Spielmann. Die Veranstalter betonen\, dass eine Party nur
-  Spaß macht\, wenn sie für alle Spaß macht: Wer sich unsicher oder un
- wohl fühlt\, kann sich an die Crew am Eingang wenden. Artwork von Maxim
- ilian Weber\; Eintritt laut RA 5 €\, 22:00 bis 04:30.\n\nhttps://rave.
- wien/e/2026-11-28-patches
-URL:https://rave.wien/e/2026-11-28-patches
+UID:2026-11-25-shared-frequencies-listening-session@rave.wien
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Vienna:20261125T183000
+DTEND;TZID=Europe/Vienna:20261126T000000
+SUMMARY:shared frequencies: listening session
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Reeno Reluv\, dr.schick\, ooku.\, DJ Soup\nVeranstalter: shar
+ ed frequencies\n\nListening-Session der Reihe shared frequencies im Funk
+ haus an einem Mittwochabend. Die Reise führt laut Ankündigung durch sc
+ hwarze Underground-Dance-Musik aus den USA – von Disco und Techno übe
+ r Chicago Footwork bis Miami Booty Bass. Zuvor widmete sich die Reihe UK
+ -Bass und Soundsystem-Kultur. Gegen Ende übernehmen die Gäste Reeno Re
+ luv und DJ Soup.\n\nhttps://rave.wien/e/2026-11-25-shared-frequencies-li
+ stening-session
+URL:https://rave.wien/e/2026-11-25-shared-frequencies-listening-session
 END:VEVENT
 END:VCALENDAR

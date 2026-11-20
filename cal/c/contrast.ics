@@ -70,6 +70,35 @@ URL:https://rave.wien/e/2026-12-12-contrast-pres-dance-macabre-w-simula-e
  nei-skantia
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-16-contrast-pres-the-return-of-noisia@rave.wien
+DTSTAMP:20270116T000000Z
+DTSTART;TZID=Europe/Vienna:20270116T230000
+DTEND;TZID=Europe/Vienna:20270117T060000
+SUMMARY:Contrast pres. The Return Of Noisia
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Noisia\nVeranstalter: Contrast\n\nDie Wiener Drum-&-Bass-Reih
+ e Contrast kündigt in der Grelle Forelle „The Return Of Noisia“ an.
+  Als Act ist bisher nur Noisia genannt. 23:00–06:00\, ab 18. Weitere D
+ etails und Preise sind noch nicht veröffentlicht.\n\nhttps://rave.wien/
+ e/2027-01-16-contrast-pres-the-return-of-noisia
+URL:https://rave.wien/e/2027-01-16-contrast-pres-the-return-of-noisia
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-contrast-12th-anniversary-hybrid-minds-tempza@rave.wien
+DTSTAMP:20270220T000000Z
+DTSTART;TZID=Europe/Vienna:20270220T230000
+DTEND;TZID=Europe/Vienna:20270221T060000
+SUMMARY:Contrast 12th Anniversary: Hybrid Minds + Tempza
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Hybrid Minds\, Tempza\nVeranstalter: Contrast\nEintritt: 22
+ –30 €\n\nDie Wiener Drum-&-Bass-Reihe Contrast feiert ihren 12. Gebu
+ rtstag in der Grelle Forelle. Gebucht sind Hybrid Minds und Tempza. 23:0
+ 0–06:00\, ab 18\, Tickets laut RA 22–30 €.\n\nhttps://rave.wien/e/
+ 2027-02-20-contrast-12th-anniversary-hybrid-minds-tempza
+URL:https://rave.wien/e/2027-02-20-contrast-12th-anniversary-hybrid-minds
+ -tempza
+END:VEVENT
+BEGIN:VEVENT
 UID:2024-04-20-contrast-pres-neosignal-w-phace-misanthrop-annix@rave.wien
 DTSTAMP:20240420T000000Z
 DTSTART;VALUE=DATE:20240420
