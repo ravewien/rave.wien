@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LUC · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-05-ian-asher-pres-by-prater-dome@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T230000
+DTEND;TZID=Europe/Vienna:20261206T060000
+SUMMARY:IAN ASHER pres. by Prater DOME
+LOCATION:Prater Dome\, Riesenradplatz 7\, 1020 Wien
+DESCRIPTION:Main Floor: Ian Asher\, LEVEX\, LUC\nSecond Floor: BREEZY\nCl
+ assics Floor: BURNHARD\nEintritt: VVK 16\,35–17\,93 € / Fast Lane 26
+ \,92 €\n\nIan Asher gibt am 5. Dezember sein Debüt im Prater DOME. De
+ r Produzent ist für Hits wie „Desire“\, „Makeba“\, „Black Out
+  Days (Stay Away)“ und „Runaway (U & I)“ bekannt und bringt laut P
+ rater DOME seinen typischen House-Sound erstmals nach Wien. Am Main Floo
+ r (EDM\, Clubtunes) spielen außerdem LEVEX und LUC als Support. Dazu ko
+ mmen der Second Floor mit HipHop und Black Music (BREEZY)\, der Classics
+  Floor (BURNHARD) und die Rooftop-Area mit Chill-out-Beats. Einlass ab 2
+ 3:00\, ab 18 Jahren\; Abendkassa laut Prater DOME noch TBA.\n\nhttps://r
+ ave.wien/e/2026-12-05-ian-asher-pres-by-prater-dome
+URL:https://rave.wien/e/2026-12-05-ian-asher-pres-by-prater-dome
+END:VEVENT
+END:VCALENDAR

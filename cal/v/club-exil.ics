@@ -181,6 +181,22 @@ DESCRIPTION:Main Floor: Sabina\, Max Kernmayer\, Tinutus\, Frau Hofmann\n
 URL:https://rave.wien/e/2026-12-19-zusammenkommen-16
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-31-addicted-to-pressure-30h-nye-rave@rave.wien
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Vienna:20261231T220000
+DTEND;TZID=Europe/Vienna:20270101T040000
+SUMMARY:Addicted to Pressure 30h NYE Rave
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Veranstalter: Addicted to Pressure\nEintritt: VVK ab 23 €\n
+ \nSilvester-Rave von Addicted to Pressure im Club Exil in Vösendorf\, a
+ ngekündigt als 30-Stunden-New-Year-Rave. Los geht es am 31. Dezember um
+  22:00\, Schluss ist laut Ticketshop am 2. Jänner um 04:00. Das Lineup 
+ ist noch nicht veröffentlicht. Tickets gibt es im Exil-Ticketshop ab 23
+  €.\n\nhttps://rave.wien/e/2026-12-31-addicted-to-pressure-30h-nye-rav
+ e
+URL:https://rave.wien/e/2026-12-31-addicted-to-pressure-30h-nye-rave
+END:VEVENT
+BEGIN:VEVENT
 UID:2024-06-14-verknallt-with-xenia-herzfrequenz@rave.wien
 DTSTAMP:20240614T000000Z
 DTSTART;VALUE=DATE:20240614

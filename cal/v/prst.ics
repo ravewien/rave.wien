@@ -154,6 +154,20 @@ DESCRIPTION:The Trip\nEintritt: Early Bird 12 €\n\nDie PRST holt im Rah
 URL:https://rave.wien/e/2026-12-18-prst-invites-the-trip
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-31-new-years-eve-at-prst-club@rave.wien
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Vienna:20261231T235900
+DTEND;TZID=Europe/Vienna:20270101T120000
+SUMMARY:New Years Eve at PRST Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Eintritt: ab 20 €\n\nSilvesternacht im PRST Club an der Pra
+ terstraße. Laut Ticketshop des Clubs beginnt die Party um 23:59 und lä
+ uft bis Neujahr 12:00 Mittag. Tickets gibt es ab 20 €. Ein Lineup ist 
+ noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-31-new-years-
+ eve-at-prst-club
+URL:https://rave.wien/e/2026-12-31-new-years-eve-at-prst-club
+END:VEVENT
+BEGIN:VEVENT
 UID:2023-10-13-jetlag-disco-3-w-daniel-nitsch-oberst-buchner@rave.wien
 DTSTAMP:20231013T000000Z
 DTSTART;VALUE=DATE:20231013

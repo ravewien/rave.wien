@@ -2085,6 +2085,26 @@ DESCRIPTION:Albin Brezlan\, Dimitri Cooman\, Huebl\, Invda\, Schwarzmarct
 URL:https://rave.wien/e/2026-12-05-techno-obscene-36-nine-o-nine-x-lsh
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-05-ian-asher-pres-by-prater-dome@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T230000
+DTEND;TZID=Europe/Vienna:20261206T060000
+SUMMARY:IAN ASHER pres. by Prater DOME
+LOCATION:Prater Dome\, Riesenradplatz 7\, 1020 Wien
+DESCRIPTION:Main Floor: Ian Asher\, LEVEX\, LUC\nSecond Floor: BREEZY\nCl
+ assics Floor: BURNHARD\nEintritt: VVK 16\,35–17\,93 € / Fast Lane 26
+ \,92 €\n\nIan Asher gibt am 5. Dezember sein Debüt im Prater DOME. De
+ r Produzent ist für Hits wie „Desire“\, „Makeba“\, „Black Out
+  Days (Stay Away)“ und „Runaway (U & I)“ bekannt und bringt laut P
+ rater DOME seinen typischen House-Sound erstmals nach Wien. Am Main Floo
+ r (EDM\, Clubtunes) spielen außerdem LEVEX und LUC als Support. Dazu ko
+ mmen der Second Floor mit HipHop und Black Music (BREEZY)\, der Classics
+  Floor (BURNHARD) und die Rooftop-Area mit Chill-out-Beats. Einlass ab 2
+ 3:00\, ab 18 Jahren\; Abendkassa laut Prater DOME noch TBA.\n\nhttps://r
+ ave.wien/e/2026-12-05-ian-asher-pres-by-prater-dome
+URL:https://rave.wien/e/2026-12-05-ian-asher-pres-by-prater-dome
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-05-krampus-beats@rave.wien
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=Europe/Vienna:20261205T233000
@@ -3082,6 +3102,22 @@ DESCRIPTION:Ananda\, Lee U Mash\, Petronik\, Progtamin\nVeranstalter: Nac
 URL:https://rave.wien/e/2026-12-31-psyjungle-new-year-s-eve
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-31-addicted-to-pressure-30h-nye-rave@rave.wien
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Vienna:20261231T220000
+DTEND;TZID=Europe/Vienna:20270101T040000
+SUMMARY:Addicted to Pressure 30h NYE Rave
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Veranstalter: Addicted to Pressure\nEintritt: VVK ab 23 €\n
+ \nSilvester-Rave von Addicted to Pressure im Club Exil in Vösendorf\, a
+ ngekündigt als 30-Stunden-New-Year-Rave. Los geht es am 31. Dezember um
+  22:00\, Schluss ist laut Ticketshop am 2. Jänner um 04:00. Das Lineup 
+ ist noch nicht veröffentlicht. Tickets gibt es im Exil-Ticketshop ab 23
+  €.\n\nhttps://rave.wien/e/2026-12-31-addicted-to-pressure-30h-nye-rav
+ e
+URL:https://rave.wien/e/2026-12-31-addicted-to-pressure-30h-nye-rave
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-31-new-year-s-eve@rave.wien
 DTSTAMP:20261231T000000Z
 DTSTART;TZID=Europe/Vienna:20261231T230000
@@ -3095,6 +3131,20 @@ DESCRIPTION:Eintritt: 20–40 €\n\nSilvester im O – der Klub unter de
  lich)\, Dresscode casual chic.\n\nhttps://rave.wien/e/2026-12-31-new-yea
  r-s-eve
 URL:https://rave.wien/e/2026-12-31-new-year-s-eve
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-new-years-eve-at-prst-club@rave.wien
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Vienna:20261231T235900
+DTEND;TZID=Europe/Vienna:20270101T120000
+SUMMARY:New Years Eve at PRST Club
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Eintritt: ab 20 €\n\nSilvesternacht im PRST Club an der Pra
+ terstraße. Laut Ticketshop des Clubs beginnt die Party um 23:59 und lä
+ uft bis Neujahr 12:00 Mittag. Tickets gibt es ab 20 €. Ein Lineup ist 
+ noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-31-new-years-
+ eve-at-prst-club
+URL:https://rave.wien/e/2026-12-31-new-years-eve-at-prst-club
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-01-2027-transmission@rave.wien
@@ -3136,6 +3186,23 @@ DESCRIPTION:Klangkarussell\nVeranstalter: SIGNAL\n\nSIGNAL präsentiert d
  asual. Preis noch nicht genannt.\n\nhttps://rave.wien/e/2027-01-15-klang
  karussell
 URL:https://rave.wien/e/2027-01-15-klangkarussell
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-forbidden-frequency@rave.wien
+DTSTAMP:20270115T000000Z
+DTSTART;TZID=Europe/Vienna:20270115T233000
+DTEND;TZID=Europe/Vienna:20270116T050000
+SUMMARY:Forbidden Frequency
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:CRASTY\, Acidic Juice\, Incognito\, M4YB3\, M4X0\, FrechDachs
+ \nVeranstalter: Forbidden Frequency\nEintritt: Freie Spende\n\nForbidden
+  Frequency bringt laut Loop erstmals UK Garage\, Breakbeat und Drum & Ba
+ ss in den Club Loop am Gürtel. Das Lineup reicht von groovigem UKG und 
+ Breakbeat über Deep Drum & Bass bis zu hartem Neurofunk. Dabei sind CRA
+ STY (FF)\, Acidic Juice aus Berlin\, Incognito b2b M4YB3 vom Fuelized-Ko
+ llektiv sowie M4X0 (FF) und FrechDachs (FF). Eintritt gegen freie Spende
+ .\n\nhttps://rave.wien/e/2027-01-15-forbidden-frequency
+URL:https://rave.wien/e/2027-01-15-forbidden-frequency
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16-traveling-without-moving@rave.wien
@@ -3193,6 +3260,30 @@ DESCRIPTION:\nWeitere Ausgabe von BASS BUSSI im The Loft auf den Floors O
  Lineup und Eintritt sind noch „tba“. Reservierungen laufen über den
   Stager-Shop des Loft.\n\nhttps://rave.wien/e/2027-01-22-bass-bussi
 URL:https://rave.wien/e/2027-01-22-bass-bussi
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-access-another-atmosphere-w-andrew-rayel-ben-gold@rave.wien
+DTSTAMP:20270122T000000Z
+DTSTART;TZID=Europe/Vienna:20270122T230000
+DTEND;TZID=Europe/Vienna:20270123T060000
+SUMMARY:Access Another Atmosphere w/ Andrew Rayel\, Ben Gold\, Modeā & O
+ lly James
+LOCATION:Prater Dome\, Riesenradplatz 7\, 1020 Wien
+DESCRIPTION:Main Floor: Andrew Rayel\, Ben Gold\, Modeā\, Olly James\nVe
+ ranstalter: Triple A Events\nEintritt: VVK 15\,29–19\,52 €\n\nTriple
+  A Events bringt die Trance-Reihe Access Another Atmosphere erneut in de
+ n Prater DOME\, diesmal mit Andrew Rayel\, Ben Gold\, Modeā und Olly Ja
+ mes am Main Floor. Andrew Rayel (u. a. „Dark Warrior“\, „EIFORYA
+ “\, Marke Find Your Harmony) spielte bei Tomorrowland\, Ultra und EDC 
+ Las Vegas\; Ben Gold steht für Uplifting- und Vocal-Trance. Der Ire Mod
+ eā erreichte 2026 mit „Ready to Fly“ (mit Bryan Kearney) Platz eins
+  der Beatport-Trance-Charts\, Olly James arbeitete mit Hardwell und remi
+ xte Armin van Buuren. Zusätzlich gibt es einen HipHop-Floor\, einen Cla
+ ssics Floor und die Rooftop-Area. Einlass ab 23:00\, ab 18 Jahren.\n\nht
+ tps://rave.wien/e/2027-01-22-access-another-atmosphere-w-andrew-rayel-be
+ n-gold
+URL:https://rave.wien/e/2027-01-22-access-another-atmosphere-w-andrew-ray
+ el-ben-gold
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24-between-us-x-emdb@rave.wien

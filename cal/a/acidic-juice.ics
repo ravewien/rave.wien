@@ -48,4 +48,21 @@ DESCRIPTION:Acidic Juice\, Chakabalara\, NOTYOURORDINARY\nVeranstalter: A
  ave.wien/e/2026-12-18-acidic-juice-x-notyourordinary-live
 URL:https://rave.wien/e/2026-12-18-acidic-juice-x-notyourordinary-live
 END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-15-forbidden-frequency@rave.wien
+DTSTAMP:20270115T000000Z
+DTSTART;TZID=Europe/Vienna:20270115T233000
+DTEND;TZID=Europe/Vienna:20270116T050000
+SUMMARY:Forbidden Frequency
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:CRASTY\, Acidic Juice\, Incognito\, M4YB3\, M4X0\, FrechDachs
+ \nVeranstalter: Forbidden Frequency\nEintritt: Freie Spende\n\nForbidden
+  Frequency bringt laut Loop erstmals UK Garage\, Breakbeat und Drum & Ba
+ ss in den Club Loop am Gürtel. Das Lineup reicht von groovigem UKG und 
+ Breakbeat über Deep Drum & Bass bis zu hartem Neurofunk. Dabei sind CRA
+ STY (FF)\, Acidic Juice aus Berlin\, Incognito b2b M4YB3 vom Fuelized-Ko
+ llektiv sowie M4X0 (FF) und FrechDachs (FF). Eintritt gegen freie Spende
+ .\n\nhttps://rave.wien/e/2027-01-15-forbidden-frequency
+URL:https://rave.wien/e/2027-01-15-forbidden-frequency
+END:VEVENT
 END:VCALENDAR
