@@ -1,7 +1,7 @@
-// Abrufdienst: holt Webseiten (Clubprogramme, Portale, Eventseiten der kommenden Events) auf GitHub Actions,
+// Abrufdienst (nur frei zugängliche Seiten; durch Schutzseiten gesperrte Seiten werden NICHT umgangen, nur als gesperrt vermerkt): holt Webseiten (Clubprogramme, Portale, Eventseiten der kommenden Events) auf GitHub Actions,
 // macht daraus lesbaren Text und legt das Ergebnis VERSCHLÜSSELT in den Branch „abruf“ bzw. „abruf-<tag>“.
 // Die automatischen Läufe entpacken es mit abruf-entpacken.js und brauchen dann kein WebFetch.
-//   node abruf.js <ausgabeordner>                → Voll-Abruf (feste Quellen + Quellen aller kommenden Events + RA-Wien-Liste)
+//   node abruf.js <ausgabeordner>                → Voll-Abruf (feste Quellen + Quellen aller kommenden Events)
 //   URLS="https://… https://…" node abruf.js <ordner>   → nur diese Adressen (Nachladen während eines Laufs)
 const fs = require("fs"), path = require("path"), vm = require("vm");
 const root = path.resolve(__dirname, "..", "..");
@@ -71,27 +71,9 @@ async function hole(u, i) {
     idx.push([u, st, txt.length, f, ""]);
   } else idx.push([u, st, 0, "", err || "leer"]);
 }
-async function raWien() { // RA: Liste aller Wien-Events der nächsten 4 Monate über die GraphQL-Schnittstelle (wie die RA-Website selbst)
-  const q = `query L($f:FilterInputDtoInput,$p:Int,$s:Int){eventListings(filters:$f,pageSize:$s,page:$p){data{event{id title date startTime endTime contentUrl isTicketed images{filename} venue{name address} artists{name} promoters{name} genres{name} minimumAge cost}}totalResults}}`;
-  const res = []; let area = 0;
-  try { const r = await fetch("https://ra.co/graphql", { method: "POST", headers: { "Content-Type": "application/json", "User-Agent": UA, "Referer": "https://ra.co/events/at/vienna", "Origin": "https://ra.co" },
-      body: JSON.stringify({ query: `{areas(searchTerm:"Vienna",limit:5){id name country{name}}}` }) }); const j = await r.json(); const a = ((j.data || {}).areas || []).find(x => /vienna|wien/i.test(x.name) && /austria/i.test((x.country || {}).name || "")); area = a ? +a.id : 0;
-  } catch (e) { return { err: "RA areas: " + e.message }; }
-  if (!area) return { err: "RA: Bereich Wien nicht gefunden" };
-  for (let p = 1; p <= 12; p++) {
-    try {
-      const r = await fetch("https://ra.co/graphql", { method: "POST", headers: { "Content-Type": "application/json", "User-Agent": UA, "Referer": "https://ra.co/events/at/vienna", "Origin": "https://ra.co" },
-        body: JSON.stringify({ query: q, variables: { f: { areas: { eq: area }, listingDate: { gte: heute, lte: addDays(heute, 120) } }, p, s: 100 } }) });
-      const j = await r.json(); const d = (((j.data || {}).eventListings) || {}).data || []; if (j.errors && !d.length) return { err: "RA: " + JSON.stringify(j.errors).slice(0, 300), area, res };
-      d.forEach(x => x.event && res.push(x.event)); if (d.length < 100) break; await sleep(1500);
-    } catch (e) { return { err: "RA Seite " + p + ": " + e.message, area, res }; }
-  }
-  return { area, res };
-}
 (async () => {
   let i = 0; const q = urls.slice(); const N = 8;
   await Promise.all(Array.from({ length: N }, async () => { while (q.length) { const u = q.shift(); await hole(u, ++i); } }));
-  if (!process.env.URLS) { const ra = await raWien(); fs.writeFileSync(path.join(out, "ra-wien.json"), JSON.stringify(ra, null, 1)); console.log(`RA Wien: ${(ra.res || []).length} Events${ra.err ? " – " + ra.err : ""}`); }
   idx.sort((a, b) => a[3].localeCompare(b[3]) || a[0].localeCompare(b[0]));
   fs.writeFileSync(path.join(out, "index.tsv"), "adresse\tstatus\tzeichen\tdatei\tfehler\n" + idx.map(r => r.join("\t")).join("\n") + "\n");
   const ok = idx.filter(r => !r[4]).length, bad = idx.filter(r => r[4]);

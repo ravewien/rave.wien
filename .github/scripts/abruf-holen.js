@@ -1,7 +1,7 @@
 // Für die automatischen Läufe: Abruf-Kopien holen und entpacken.
 //   ABRUF_KEY="-----BEGIN PRIVATE KEY-----…" node .github/scripts/abruf-holen.js            → letzter Voll-Abruf (Branch „abruf“) nach /tmp/abruf
 //   ABRUF_KEY=… node .github/scripts/abruf-holen.js https://a https://b …                       → diese Adressen jetzt frisch holen lassen (dauert 1–3 Min.)
-// Ergebnis: /tmp/abruf/index.tsv (adresse, status, zeichen, datei, fehler), /tmp/abruf/seiten/*.txt, /tmp/abruf/ra-wien.json, status.json
+// Ergebnis: /tmp/abruf/index.tsv (adresse, status, zeichen, datei, fehler), /tmp/abruf/seiten/*.txt, status.json
 const { execSync: x } = require("child_process"), fs = require("fs"), path = require("path"), os = require("os");
 const repo = "ravewien/rave.wien", ziel = process.env.ABRUF_ZIEL || "/tmp/abruf";
 const sh = (c, o = {}) => x(c, { stdio: ["ignore", "pipe", "pipe"], encoding: "utf8", maxBuffer: 1 << 28, ...o });
