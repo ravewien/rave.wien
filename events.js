@@ -53043,12 +53043,33 @@ const AR={
  },
  "Mozey": {
   "links": {
-   "ig": "https://www.instagram.com/mozeydnb/"
+   "ig": "https://www.instagram.com/mozeydnb/",
+   "ra": "https://ra.co/dj/mozey",
+   "sc": "https://soundcloud.com/mozeydnb",
+   "sp": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
   },
   "bio": {
    "de": "Drum-&-Bass-DJ, der laut Veranstalter mit energiegeladenen Sets viral geht: Er mischt alle Spielarten von Drum & Bass mit seinem hüpfenden Jump-up-Stil. Markenzeichen ist sein Cowboyhut.",
    "en": "Drum & bass DJ who, according to the promoter, has gone viral with high-energy sets that mix every drum & bass sub-genre with his bouncy jump-up style. His trademark is a cowboy hat."
-  }
+  },
+  "from": {
+   "de": "Großbritannien",
+   "en": "United Kingdom"
+  },
+  "sets": [
+   {
+    "t": "Mozey - Live From DnB Allstars 360°",
+    "u": "https://soundcloud.com/dnballstars/mozey-live-from-dnb-allstars-360"
+   }
+  ],
+  "src": [
+   "https://www.b4l.cz/en/lineup/mozey-gb/",
+   "https://ra.co/dj/mozey"
+  ],
+  "setsChecked": "2026-11-20",
+  "spChk": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
  },
  "Sliqx": {
   "links": {
@@ -53078,6 +53099,185 @@ const AR={
  },
  "y?k": {
   "spChk": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "Beaks": {
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "src": [
+   "https://www.regioactive.de/konzert/beaks-at-hamburg-ms-stubnitz-2026-12-16-krl4bcbpKf"
+  ],
+  "spChk": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "Reeno Reluv": {
+  "links": {
+   "sc": "https://soundcloud.com/reenoreluv",
+   "mc": "https://www.mixcloud.com/reenoreluv/",
+   "ra": "https://ra.co/dj/reenoreluv",
+   "ig": "https://www.instagram.com/reenoreluv/"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "sets": [
+   {
+    "t": "DJ Reeno Reluv @ Giro di Greifenstein 2025",
+    "u": "https://soundcloud.com/reenoreluv/dj-reeno-reluv-giro-di"
+   },
+   {
+    "t": "REENO RELUV - 14/03/25",
+    "u": "https://soundcloud.com/vlanradio/reeno-reluv-140325"
+   },
+   {
+    "t": "Radiomix May '22 - FM4 Digital Konfusion Radio Show",
+    "u": "https://soundcloud.com/reenoreluv/radiomix-may-22-fm4-digital-konfusion-radio-show"
+   }
+  ],
+  "src": [
+   "https://www.mixcloud.com/reenoreluv/",
+   "https://ra.co/dj/reenoreluv"
+  ],
+  "setsChecked": "2026-11-20",
+  "spChk": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "DJ Soup": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "VYKT": {
+  "links": {
+   "sc": "https://soundcloud.com/vykt"
+  },
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "LAVO": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "ALYF": {
+  "links": {
+   "ra": "https://ra.co/dj/alyf"
+  },
+  "src": [
+   "https://ra.co/dj/alyf"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "Trinix": {
+  "spChk": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "HYSTERIE": {
+  "links": {
+   "sc": "https://soundcloud.com/djhysterie",
+   "ig": "https://www.instagram.com/djhysterie/"
+  },
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "Nakrasia": {
+  "links": {
+   "sc": "https://soundcloud.com/nakrasia",
+   "ra": "https://ra.co/dj/nakrasia"
+  },
+  "sets": [
+   {
+    "t": "Nakrasia | Boiler Room: Budapest",
+    "u": "https://soundcloud.com/platform/nakrasia-budapest-saturday"
+   },
+   {
+    "t": "Nakrasia // Groovin' Around @Dürer",
+    "u": "https://soundcloud.com/syndanz/nakrasia-groovin-around-durer"
+   },
+   {
+    "t": "ESC SERIES #017 X NAKRASIA",
+    "u": "https://soundcloud.com/escaparate-1438/01-rec-2023-07-26-1"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/nakrasia"
+  ],
+  "setsChecked": "2026-11-20",
+  "spChk": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "Marco Manaco": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "DJ Glebaty": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "Xeno & Oaklander": {
+  "links": {
+   "bc": "https://xenoandoaklander.bandcamp.com/",
+   "ra": "https://ra.co/dj/xenoandoaklander"
+  },
+  "src": [
+   "https://xenoandoaklander.bandcamp.com/music"
+  ],
+  "spChk": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "RAIDO": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "4LIX": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "BOBJÖST": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "BUG": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "TYO": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "C-MON": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "CRAY-C": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "5ALREADY": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
   "noLinks": "2026-11-20"
