@@ -1179,6 +1179,28 @@ const CG={
   "Synth Wave",
   "Cold Wave",
   "Post-Punk"
+ ],
+ "Forbidden Frequency": [
+  "Techno",
+  "Trance",
+  "House",
+  "Drum & Bass"
+ ],
+ "Crossover": [
+  "Techno",
+  "Dubstep",
+  "UK Garage",
+  "Drum & Bass"
+ ],
+ "Bionic Ritual": [
+  "Psytrance"
+ ],
+ "EMDB": [
+  "House"
+ ],
+ "Barracuda Music": [
+  "Pop",
+  "Electronic"
  ]
 };
 const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","909techno","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","ALERT[A] Vienna","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","Art Attech","AUDIO303","Auf der Lauer","Ausländer Haus","AWSM","Barracuda Music","BARVY","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","BASST SCHO","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","Bionic Ritual","BLUR","Bonkers","Booster Club","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Crossover","Cybertribe","Cyclic Existence","Dance 2 House","Dance Spirit Events","Danza Obscura","Dark Pressure","Das Syndikat","DEAD END","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","EMDB","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exceso","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Forbidden Frequency","Fourcast","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Homesounds","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","It's George","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Klanggerecht","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","March of the Machines","Meier","MEIOSISS","Melodic Monday","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Modulate","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Opération","Out of Space","Oxygene","Palazzo Recordings","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PURRR","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","shared frequencies","SHPILKI","SIGNAL","SIN","Slutlabs","Sniffin´ Glue","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","SWEAT","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","TECHNOLOT","The Academy","The Hive","The House of Funk","the zound partisans","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Ungeniert","Uniquely Journeys","Unkwn","unlock|me","Unstoppable Organizerteam","Untz Baby Untz","up/or","Vangardist","Ventil Records","Verknallt","Vertigo","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wums","Wyldhearts","Xperiment","Xperiment Records","YE","YN","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
@@ -6535,7 +6557,100 @@ const CI={
  },
  "unlock|me": {
   "ig": "https://www.instagram.com/unlockme_sounds/",
-  "man": 1
+  "man": 1,
+  "sc": "https://soundcloud.com/unlock_me",
+  "infoChk": "2026-11-20",
+  "src": [
+   "https://flucc.at/events/iGHALN-unlockme-garten-von-eben/"
+  ]
+ },
+ "Forbidden Frequency": {
+  "de": "Junges, progressives DJ-Kollektiv aus Wien mit Fokus auf Nachwuchskünstler:innen; Partys mit Techno, Trance, House, Drum & Bass und Garage an wechselnden Orten wie Club Lucia, Loop und Kramladen.",
+  "en": "Young, progressive DJ collective from Vienna focused on promoting emerging artists; parties with techno, trance, house, drum & bass and garage at changing venues such as Club Lucia, Loop and Kramladen.",
+  "type": [
+   "Kollektiv"
+  ],
+  "from": "Wien",
+  "web": "https://forbiddenfrequency.at",
+  "ig": "https://www.instagram.com/forbidden.frequency.vie/",
+  "members": [
+   "CRASTY",
+   "DJ Bügelbrett",
+   "HALO",
+   "Plastiksackerl",
+   "PRØNØIA",
+   "M4X0"
+  ],
+  "membersSrc": "https://forbiddenfrequency.at/djs",
+  "noLogo": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "src": [
+   "https://forbiddenfrequency.at/",
+   "https://forbiddenfrequency.at/djs"
+  ]
+ },
+ "Crossover": {
+  "de": "Wiener Kulturverein („Crossover – Verein zur Förderung von Kunst und Kultur“), der u. a. die Reihe „Tram & Bass“ veranstaltet: Raves in einer fahrenden Straßenbahn mit Techno, Dubstep, UK Garage und Drum & Bass.",
+  "en": "Vienna cultural association (“Crossover – Verein zur Förderung von Kunst und Kultur”) behind the “Tram & Bass” series: raves on a moving tram with techno, dubstep, UK garage and drum & bass.",
+  "alias": [
+   "Crossover - Verein zur Förderung von Kunst und Kultur"
+  ],
+  "from": "Wien",
+  "series": [
+   "Tram & Bass"
+  ],
+  "noLogo": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "src": [
+   "https://eventfrog.at/en/p/parties/rave/tram-bass-vol-4-our-longest-ride-yet-wien-7523030925770287970.html"
+  ]
+ },
+ "Bionic Ritual": {
+  "de": "Wiener Psytrance-Veranstalter (auf goabase als „ॐ BIONIC RITUAL ॐ“), u. a. hinter der Clubnacht „Soundlab Pirates“.",
+  "en": "Vienna psytrance organiser (listed on goabase as “ॐ BIONIC RITUAL ॐ”), behind the club night “Soundlab Pirates”.",
+  "from": "Wien",
+  "series": [
+   "Soundlab Pirates"
+  ],
+  "noLogo": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "src": [
+   "https://www.goabase.net/de/party/soundlab-pirates/118332"
+  ]
+ },
+ "Sniffin´ Glue": {
+  "de": "Wiener Partyreihe für Dark, Cold, New, Synth und Minimal Wave sowie Post-Punk, regelmäßig im FLUCC mit Live-Acts und DJs.",
+  "en": "Vienna party series for dark, cold, new, synth and minimal wave plus post-punk, held regularly at FLUCC with live acts and DJs.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "noLogo": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "src": [
+   "https://flucc.at/events/2bBMcS-sniffin-glue-i-art-fact-xeno-and-oaklander-live/"
+  ]
+ },
+ "EMDB": {
+  "infoChk": "2026-11-20",
+  "noLogo": "2026-11-20",
+  "src": [
+   "https://www.technoairlines.com/event/between-us-x-emdb-celeste-2027-01-24"
+  ]
+ },
+ "Barracuda Music": {
+  "de": "Großer österreichischer Konzert- und Festivalveranstalter aus Wien („We love music“), u. a. mit Shows in der Wiener Stadthalle.",
+  "en": "Major Austrian concert and festival promoter based in Vienna (“We love music”), with shows at venues such as the Wiener Stadthalle.",
+  "type": [
+   "Promoter"
+  ],
+  "from": "Wien",
+  "web": "https://www.barracudamusic.at",
+  "logo": "https://www.barracudamusic.at/wp-content/themes/barracudamusic-theme/assets/logo_footer.png",
+  "infoChk": "2026-11-20",
+  "src": [
+   "https://www.barracudamusic.at/barracuda-music/"
+  ]
  }
 };
 const VI={
@@ -7678,6 +7793,17 @@ const VI={
  "Schloss Cobenzl": {
   "io": [
    "Indoor"
+  ],
+  "de": "Historisches Schloss am Cobenzl im 19. Bezirk, Teil der Eventlocation „Weitsicht Cobenzl“ mit Panoramablick über Wien; gefeiert wird u. a. im Kuppelsaal.",
+  "en": "Historic palace on the Cobenzl hill in Vienna’s 19th district, part of the “Weitsicht Cobenzl” event venue with panoramic views over the city; events take place in the domed hall (Kuppelsaal).",
+  "web": "https://weitsichtcobenzl.at",
+  "floors": [
+   "Kuppelsaal"
+  ],
+  "logo": "https://weitsichtcobenzl.at/wp-content/uploads/2022/02/weitsichtcobenzl_logo_01.svg",
+  "infoChk": "2026-11-20",
+  "src": [
+   "https://www.weitsicht-cobenzl.at/"
   ]
  }
 };
@@ -9330,7 +9456,8 @@ const AR={
    "de": "TEZIBEL ist eine in Wien lebende DJ und Produzentin. Sie spielt regelmäßig in Wiener Clubs wie Grelle Forelle, PRST, Das Werk und Pratersauna.",
    "en": "TEZIBEL is a Vienna-based DJ and producer. She plays regularly at Viennese clubs such as Grelle Forelle, PRST, Das Werk and Pratersauna."
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-20"
  },
  "Katia Curie": {
   "links": {
@@ -10914,7 +11041,8 @@ const AR={
   "from": {
    "de": "Wien",
    "en": "Vienna"
-  }
+  },
+  "spChk": "2026-11-20"
  },
  "Apua": {
   "links": {
@@ -11497,7 +11625,8 @@ const AR={
    "de": "US-amerikanischer DJ und Produzent mit Wohnsitz in Österreich. Bekannt für die Verbindung von deepen, souligen Sounds mit elektronischen Rhythmen. Spielt regelmäßig in Wiener Clubs wie FLUCC, PRST, Das Werk und Black Market.",
    "en": "US-born DJ and producer based in Austria. Known for fusing deep, soulful music with electronic rhythms and melodies. Plays regularly at Viennese clubs such as FLUCC, PRST, Das Werk and Black Market."
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-20"
  },
  "saschka": {
   "img": "https://static.ra.co/images/profiles/square/saschka.jpg?dateUpdated=1790180348463",
@@ -11819,7 +11948,8 @@ const AR={
  "Flual": {
   "noImg": "2026-11-03",
   "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-20"
  },
  "Bloodsugar": {
   "noImg": "2026-11-03",
@@ -13358,7 +13488,8 @@ const AR={
  "Frau F": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-20"
  },
  "DJ Handgepäck": {
   "noImg": "2026-11-03",
@@ -14711,7 +14842,8 @@ const AR={
     "u": "https://soundcloud.com/gans-anders-146472570/vibechen-230923-gans-anders-unterholz-6a"
    }
   ],
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "spChk": "2026-11-20"
  },
  "URBANIST": {
   "noImg": "2026-11-03",
@@ -18106,7 +18238,8 @@ const AR={
  "Annie High": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-20"
  },
  "Boris Brejcha": {
   "img": "https://static.ra.co/images/profiles/square/borisbrejcha.jpg?dateUpdated=1464181990000",
@@ -18359,7 +18492,8 @@ const AR={
   "bio": {
    "de": "ADHS Lene ist eine DJ, die in Wien u. a. bei Sniffin´ Glue im FLUCC und bei Invitation im Celeste auflegt. 2020 war sie Gast der Sendung Welia auf Retreat Radio.",
    "en": "ADHS Lene is a DJ who plays in Vienna at Sniffin´ Glue at FLUCC and Invitation at Celeste, among others. In 2020 she was a guest on the show Welia on Retreat Radio."
-  }
+  },
+  "spChk": "2026-11-20"
  },
  "Andre Zimmer": {
   "img": "https://static.ra.co/images/profiles/square/andrezimmer.jpg?dateUpdated=1786040801473",
@@ -20945,7 +21079,8 @@ const AR={
    "https://soundcloud.com/eatbrain/eatbrain-radio-s03e08-hosted-by-5ha5h"
   ],
   "infoChk": "2026-11-02",
-  "noImg": "2026-11-02"
+  "noImg": "2026-11-02",
+  "spChk": "2026-11-20"
  },
  "Valentin Zelz": {
   "img": "https://static.ra.co/images/profiles/square/valentinzelz.jpg?dateUpdated=1747155024143",
@@ -23644,7 +23779,8 @@ const AR={
    "sc": "https://soundcloud.com/joytoy",
    "bc": "https://joycemuniz.bandcamp.com",
    "ig": "https://www.instagram.com/joycemunizmusic",
-   "web": "https://joycemuniz.com"
+   "web": "https://joycemuniz.com",
+   "sp": "https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L"
   },
   "from": {
    "de": "Brasilien / Wien",
@@ -23686,7 +23822,8 @@ const AR={
    "https://ra.co/dj/joycemuniz/biography"
   ],
   "infoChk": "2026-11-03",
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-20"
  },
  "SZG": {
   "img": "https://static.ra.co/images/profiles/square/szg.jpg?dateUpdated=1673358144000",
@@ -24457,7 +24594,8 @@ const AR={
    "https://soundcloud.com/jeremy-somers-1"
   ],
   "infoChk": "2026-11-03",
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-20"
  },
  "DJ Achim Feuervogel": {
   "img": "https://static.ra.co/images/profiles/square/djachimfeuervogel.jpg?dateUpdated=1714468166000",
@@ -29391,7 +29529,8 @@ const AR={
  "DJ Lucy Bakanal": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-20"
  },
  "Sa4a": {
   "infoChk": "2026-11-03",
@@ -31133,7 +31272,8 @@ const AR={
    "https://ra.co/events/2037397"
   ],
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-03"
+  "noImg": "2026-11-03",
+  "spChk": "2026-11-20"
  },
  "Tanzinstanz": {
   "infoChk": "2026-11-03",
@@ -32916,7 +33056,9 @@ const AR={
   "infoChk": "2026-11-03",
   "src": [
    "https://ra.co/dj/reika_dj"
-  ]
+  ],
+  "spChk": "2026-11-20",
+  "setsChecked": "2026-11-20"
  },
  "Stoik": {
   "links": {
@@ -33818,7 +33960,8 @@ const AR={
   ],
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
-  "setsChecked": "2026-11-04"
+  "setsChecked": "2026-11-04",
+  "spChk": "2026-11-20"
  },
  "Derrick Raw": {
   "alias": [
@@ -39932,7 +40075,8 @@ const AR={
   "src": [
    "https://ra.co/dj/tatjanasuender",
    "https://ra.co/dj/tatjanasuender/biography"
-  ]
+  ],
+  "spChk": "2026-11-20"
  },
  "Rikhter": {
   "img": "https://static.ra.co/images/profiles/square/rikhter.jpg?dateUpdated=1674680557733",
@@ -53301,7 +53445,8 @@ const AR={
   "genres": [
    "House",
    "Footwork"
-  ]
+  ],
+  "spChk": "2026-11-20"
  },
  "VYKT": {
   "links": {
@@ -53313,7 +53458,8 @@ const AR={
   "genres": [
    "House",
    "Tech House"
-  ]
+  ],
+  "spChk": "2026-11-20"
  },
  "LAVO": {
   "infoChk": "2026-11-20",
@@ -53322,7 +53468,8 @@ const AR={
   "genres": [
    "House",
    "Tech House"
-  ]
+  ],
+  "spChk": "2026-11-20"
  },
  "ALYF": {
   "links": {
@@ -53336,7 +53483,8 @@ const AR={
   "genres": [
    "House",
    "Tech House"
-  ]
+  ],
+  "spChk": "2026-11-20"
  },
  "Trinix": {
   "spChk": "2026-11-20",
@@ -53373,7 +53521,8 @@ const AR={
   "genres": [
    "Breakbeat",
    "Techno"
-  ]
+  ],
+  "spChk": "2026-11-20"
  },
  "Nakrasia": {
   "links": {
@@ -53420,7 +53569,8 @@ const AR={
   "genres": [
    "Tech House",
    "Electro"
-  ]
+  ],
+  "spChk": "2026-11-20"
  },
  "DJ Glebaty": {
   "infoChk": "2026-11-20",
@@ -53429,7 +53579,8 @@ const AR={
   "genres": [
    "Tech House",
    "Electro"
-  ]
+  ],
+  "spChk": "2026-11-20"
  },
  "Xeno & Oaklander": {
   "links": {
@@ -53459,32 +53610,38 @@ const AR={
  "RAIDO": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
  },
  "4LIX": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
  },
  "BOBJÖST": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
  },
  "BUG": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
  },
  "TYO": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
  },
  "C-MON": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
  },
  "CRAY-C": {
   "infoChk": "2026-11-20",
@@ -53494,7 +53651,8 @@ const AR={
  "5ALREADY": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
  },
  "GORYO": {
   "links": {
@@ -53518,7 +53676,8 @@ const AR={
   "noImg": "2026-11-20",
   "genres": [
    "Drum & Bass"
-  ]
+  ],
+  "spChk": "2026-11-20"
  },
  "STONERICE": {
   "links": {
@@ -53567,22 +53726,26 @@ const AR={
   "setsChecked": "2026-11-20",
   "src": [
    "https://soundcloud.com/quadrillednb"
-  ]
+  ],
+  "spChk": "2026-11-20"
  },
  "ENDSEARCH": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
  },
  "SO:NA": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
  },
  "CONCISE": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
  },
  "Joules": {
   "infoChk": "2026-11-20",
@@ -53590,7 +53753,8 @@ const AR={
   "noLinks": "2026-11-20",
   "genres": [
    "House"
-  ]
+  ],
+  "spChk": "2026-11-20"
  },
  "Baltazar": {
   "infoChk": "2026-11-20",
@@ -54039,6 +54203,541 @@ const AR={
    "Drum & Bass",
    "Dubstep"
   ]
+ },
+ "CRASTY": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Deep Tech",
+   "Minimal"
+  ],
+  "img": "https://forbiddenfrequency.at/_astro/crasty_artistbild.pTvrzPTq_ZhbKDx.webp",
+  "coll": [
+   "Forbidden Frequency"
+  ],
+  "bio": {
+   "de": "Crasty ist Gründer des Wiener DJ-Kollektivs Forbidden Frequency. Er spielt Deep Tech und Minimal Tech mit reduzierten Sounds und treibenden Rhythmen, die den Floor langsam tiefer in den Groove ziehen.",
+   "en": "Crasty is the founder of the Vienna DJ collective Forbidden Frequency. He plays deep tech and minimal tech built on stripped-back sounds and driving rhythms that slowly pull the floor deeper into the groove."
+  },
+  "infoChk": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20",
+  "src": [
+   "https://forbiddenfrequency.at/djs"
+  ]
+ },
+ "Plastiksackerl": {
+  "alias": [
+   "Plastik"
+  ],
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Trance",
+   "Hard House",
+   "UK Garage"
+  ],
+  "img": "https://forbiddenfrequency.at/_astro/Plastiksackerl_artistbild.BJfwGe1q_Ztffya.webp",
+  "coll": [
+   "Forbidden Frequency"
+  ],
+  "bio": {
+   "de": "Plastik (Plastiksackerl) aus dem Wiener Kollektiv Forbidden Frequency verbindet Trance, Hard House und UK Garage zu einem schnellen, cluborientierten Sound. Seine Tracks wurden u. a. von Faster Horses, DJ Heartstring, Job Jobse und Lammer unterstützt.",
+   "en": "Plastik (Plastiksackerl) of the Vienna collective Forbidden Frequency blends trance, hard house and UK garage into a fast, club-focused sound. His tracks have been supported by Faster Horses, DJ Heartstring, Job Jobse and Lammer, among others."
+  },
+  "infoChk": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20",
+  "src": [
+   "https://forbiddenfrequency.at/djs"
+  ]
+ },
+ "DJ Bügelbrett": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Trance"
+  ],
+  "img": "https://forbiddenfrequency.at/_astro/DJ%20B%C3%BCgelbrett.CJpGxSt6_Z3YBSB.webp",
+  "coll": [
+   "Forbidden Frequency"
+  ],
+  "bio": {
+   "de": "DJ Bügelbrett vom Wiener Kollektiv Forbidden Frequency verbindet groovige Rhythmen mit hypnotischen Trance-Sounds. Seine Sets bauen sich dynamisch auf und halten die Tanzfläche durchgehend in Bewegung.",
+   "en": "DJ Bügelbrett of the Vienna collective Forbidden Frequency combines groovy rhythms with hypnotic trance sounds. His sets build dynamically and keep the dancefloor moving from start to finish."
+  },
+  "infoChk": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20",
+  "src": [
+   "https://forbiddenfrequency.at/djs"
+  ]
+ },
+ "HALO": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Hard Trance",
+   "Hardgroove",
+   "Techno"
+  ],
+  "img": "https://forbiddenfrequency.at/_astro/HALO.yIY9OUrF_1jkH8.webp",
+  "coll": [
+   "Forbidden Frequency"
+  ],
+  "bio": {
+   "de": "HALO vom Wiener Kollektiv Forbidden Frequency verbindet Hardgroove und Techno mit melodischen, von Trance geprägten Elementen und setzt in seinen Sets auf Energie und Storytelling.",
+   "en": "HALO of the Vienna collective Forbidden Frequency fuses hardgroove and techno with melodic, trance-inspired elements, building his sets on energy and storytelling."
+  },
+  "infoChk": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20",
+  "src": [
+   "https://forbiddenfrequency.at/djs"
+  ]
+ },
+ "M4X0": {
+  "alias": [
+   "M4XO"
+  ],
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Neurofunk"
+  ],
+  "img": "https://forbiddenfrequency.at/_astro/M4XO.Rq9FA9f-_Z1fwm6L.webp",
+  "coll": [
+   "Forbidden Frequency"
+  ],
+  "bio": {
+   "de": "M4X0 vom Wiener Kollektiv Forbidden Frequency steht für druckvollen Drum & Bass und düsteren Neurofunk. Seine Sets verbinden komplexe Basslines, schnelle Breaks und atmosphärische Soundscapes.",
+   "en": "M4X0 of the Vienna collective Forbidden Frequency stands for punchy drum & bass and dark neurofunk. His sets combine complex basslines, fast breaks and atmospheric soundscapes."
+  },
+  "infoChk": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "src": [
+   "https://forbiddenfrequency.at/djs"
+  ]
+ },
+ "Schmeckes": {
+  "genres": [
+   "Trance",
+   "Techno",
+   "House"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
+ },
+ "DJ Rakita": {
+  "genres": [
+   "Trance",
+   "Hard Trance"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/djrakita",
+   "sc": "https://soundcloud.com/dj_rakita"
+  },
+  "sets": [
+   {
+    "t": "RAKITA @ Feel Festival 2025",
+    "u": "https://soundcloud.com/dj_rakita/rakita-feel-festival-2025"
+   },
+   {
+    "t": "RAKITA – Late Night Lemonade (FM4 Mix)",
+    "u": "https://soundcloud.com/dj_rakita/rakita-late-night-lemonade-mix"
+   }
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "spChk": "2026-11-20",
+  "src": [
+   "https://ra.co/dj/djrakita",
+   "https://soundcloud.com/dj_rakita"
+  ]
+ },
+ "Bipolar Penguins": {
+  "genres": [
+   "Indie",
+   "Punk"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
+ },
+ "Minki": {
+  "genres": [
+   "Indie",
+   "Punk"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
+ },
+ "Marko Dinić": {
+  "from": {
+   "de": "Wien / Belgrad",
+   "en": "Vienna / Belgrade"
+  },
+  "genres": [
+   "Indie",
+   "Punk",
+   "New Wave"
+  ],
+  "bio": {
+   "de": "Marko Dinić, Jahrgang 1988, ist ein in Wien geborener und in Belgrad aufgewachsener Schriftsteller. Sein Roman „Die guten Tage“ erzählt von einer Fahrt im Gastarbeiter-Bus von Wien nach Belgrad; das Burgtheater brachte eine Bühnenfassung heraus.",
+   "en": "Marko Dinić, born in 1988, is a writer born in Vienna and raised in Belgrade. His novel “Die guten Tage” follows a ride on the guest-worker bus from Vienna to Belgrade; the Burgtheater staged an adaptation."
+  },
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20",
+  "src": [
+   "https://derstandard.at/2000101180675/Marko-Dinic-laesst-es-in-seinem-Belgrad-Roman-krachen",
+   "https://www.falter.at/zeitung/20190626/im-gastarbeiter-express-von-wien-nach-belgrad",
+   "https://2019-2024.burgtheater.at/en/production/migrant-worker-express-madness-and-revolution"
+  ]
+ },
+ "Schr0mmi": {
+  "genres": [
+   "House",
+   "Techno"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
+ },
+ "Mo The Prophet": {
+  "genres": [
+   "House",
+   "Techno"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
+ },
+ "Magsi": {
+  "genres": [
+   "House",
+   "Techno"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/magsi"
+  },
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "spChk": "2026-11-20",
+  "src": [
+   "https://ra.co/dj/magsi"
+  ]
+ },
+ "Yero": {
+  "genres": [
+   "Techno"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
+ },
+ "gute ausländerin": {
+  "genres": [
+   "Techno"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
+ },
+ "Kontaminierungsalarm": {
+  "genres": [
+   "Techno"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
+ },
+ "Flo": {
+  "genres": [
+   "Techno"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
+ },
+ "DJ Moses": {
+  "genres": [
+   "Electronic"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "DJ Serotania": {
+  "genres": [
+   "Electronic"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "Ian Asher": {
+  "from": {
+   "de": "Südkalifornien, USA",
+   "en": "Southern California, USA"
+  },
+  "genres": [
+   "House",
+   "EDM"
+  ],
+  "links": {
+   "sp": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+  },
+  "bio": {
+   "de": "Ian Asher ist ein Produzent und DJ aus Südkalifornien. Er arbeitete mit Songwritern wie Andreas Carlsson und Stuart Crichton und an Projekten wie ITZYs „Crazy In Love“; bekannt ist er u. a. für „Desire“ mit Olly Alexander (Years & Years).",
+   "en": "Ian Asher is a producer and DJ from Southern California. He has worked with songwriters such as Andreas Carlsson and Stuart Crichton and on projects like ITZY’s “Crazy In Love”; he is known for “Desire” with Olly Alexander (Years & Years)."
+  },
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "spChk": "2026-11-20",
+  "src": [
+   "https://lpr.com/lpr_artists/ian-asher/"
+  ]
+ },
+ "LEVEX": {
+  "genres": [
+   "EDM",
+   "House"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/levexdj",
+   "sp": "https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef"
+  },
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "spChk": "2026-11-20",
+  "src": [
+   "https://soundcloud.com/levexdj",
+   "https://www.monstercat.com/artist/levex"
+  ]
+ },
+ "LUC": {
+  "genres": [
+   "EDM",
+   "House"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
+ },
+ "BREEZY": {
+  "genres": [
+   "EDM",
+   "House"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
+ },
+ "BURNHARD": {
+  "genres": [
+   "EDM"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/burnhard"
+  },
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "spChk": "2026-11-20",
+  "src": [
+   "https://ra.co/dj/burnhard"
+  ]
+ },
+ "MA7A": {
+  "genres": [
+   "Downtempo",
+   "Psy Techno"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/maja-faller"
+  },
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "spChk": "2026-11-20",
+  "src": [
+   "https://soundcloud.com/maja-faller"
+  ]
+ },
+ "Sia Moan": {
+  "genres": [
+   "Downtempo",
+   "Psy Techno"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/simone-stocker"
+  },
+  "sets": [
+   {
+    "t": "Sia Moan @ Tanzkollektiv (Arriving Home, November 2025)",
+    "u": "https://soundcloud.com/simone-stocker/sia-moan-tanzkollektiv-arriving-home-november-2025"
+   },
+   {
+    "t": "Sia Moan – Zu Gast bei unlock|me #12",
+    "u": "https://soundcloud.com/unlock_me/sia-moan-zu-gast"
+   },
+   {
+    "t": "SIA MOAN live @ Freigefühl Festival 2025",
+    "u": "https://soundcloud.com/simone-stocker/sia-moan-live-freihgefuhl-festival-2025-klingemuhle-germany"
+   }
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "spChk": "2026-11-20",
+  "src": [
+   "https://soundcloud.com/simone-stocker",
+   "https://soundcloud.com/unlock_me/sia-moan-zu-gast"
+  ]
+ },
+ "Paul Parsel": {
+  "genres": [
+   "Downtempo",
+   "Psy Techno"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
+ },
+ "Lipo": {
+  "genres": [
+   "Downtempo",
+   "Psy Techno"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "Bowiedl & Gorman": {
+  "genres": [
+   "Downtempo",
+   "Psy Techno"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "Tribea": {
+  "genres": [
+   "Downtempo",
+   "Psy Techno"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
+ },
+ "Achronon": {
+  "genres": [
+   "Downtempo",
+   "Psy Techno"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-20"
+ },
+ "zwb": {
+  "genres": [
+   "Downtempo",
+   "Psy Techno"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "Art Fact": {
+  "from": {
+   "de": "Stockholm, Schweden",
+   "en": "Stockholm, Sweden"
+  },
+  "genres": [
+   "Minimal Wave",
+   "Synth Wave"
+  ],
+  "links": {
+   "sp": "https://open.spotify.com/artist/2kB4AopEzS534ItA5HZ5nl"
+  },
+  "bio": {
+   "de": "Art Fact begann Ende der 1980er-Jahre in Stockholm als vier Teenager mit ein paar Synthesizern und einem Vierspur-Tonbandgerät; zwischen 1989 und 1992 entstanden die Kult-Kassetten „In Fact“, „Nowadays“ und „The Nuclear Princess“. 2026 kehrte die Band nach über zehn Jahren Bühnenpause für eine Europatour mit neuen Remixes zurück.",
+   "en": "Art Fact started in Stockholm in the late 1980s as four teenagers with a few synthesizers and a four-track tape recorder, producing the cult cassettes “In Fact”, “Nowadays” and “The Nuclear Princess” between 1989 and 1992. In 2026 the band returned after more than a decade away from the stage for a European tour with new remixes."
+  },
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "spChk": "2026-11-20",
+  "src": [
+   "https://flucc.at/events/2bBMcS-sniffin-glue-i-art-fact-xeno-and-oaklander-live/"
+  ]
+ },
+ "Toxo": {
+  "genres": [
+   "Minimal Wave",
+   "Post-Punk"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "balans": {
+  "genres": [
+   "Experimental",
+   "Electronica"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "Grubi": {
+  "genres": [
+   "Experimental",
+   "Electronica"
+  ],
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "Astrix": {
+  "links": {
+   "sp": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+  },
+  "spChk": "2026-11-20"
+ },
+ "Jan Ehret": {
+  "links": {
+   "sp": "https://open.spotify.com/artist/4TINfYTZ90vmOojwEa4wN2"
+  },
+  "spChk": "2026-11-20"
  }
 };
 
