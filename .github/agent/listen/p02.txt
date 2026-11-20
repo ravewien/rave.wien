@@ -1,0 +1,8 @@
+# Eventsuche – Liste p02 (7 Portale). Format: Name<TAB>Art<TAB>bekannte Adressen<TAB>Hinweise<TAB>schon bei uns (mit RAW per Skript vergleichen)
+volume.at	Portal	https://www.volume.at/events/	auch Harder Styles (Vösendorf zählt)	→ per Skript mit RAW vergleichen
+goabase	Portal	https://www.goabase.net/api/party/json/?country=Austria	Psytrance/Goa: nur Wien und Vösendorf; Details https://www.goabase.net/api/party/json/<id>	→ per Skript mit RAW vergleichen
+wienwasgeht	Portal	https://wienwasgeht.at/		→ per Skript mit RAW vergleichen
+warda	Portal	https://www.warda.at/events/		→ per Skript mit RAW vergleichen
+goodnight.at	Portal	https://goodnight.at/		→ per Skript mit RAW vergleichen
+rausgegangen Wien	Portal	https://rausgegangen.com/wien/	Kategorie Party/Club	→ per Skript mit RAW vergleichen
+circl	Portal	https://circl.at/		→ per Skript mit RAW vergleichen

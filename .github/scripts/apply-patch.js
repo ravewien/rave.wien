@@ -13,6 +13,7 @@
 //  - Ein neuer Name, der bereits alias eines Eintrags ist, wird auf diesen Eintrag umgeleitet.
 //  - "S": {kürzel: "Quellenname"} – neue Quellen-Kürzel (nur neue, bestehende bleiben); "SO": ["kürzel"] – Kürzel, die eigene Seiten von Veranstaltern sind.
 //  - "VR": {Location: {age, aw, nophoto, sound:{…}}} – Hausregeln/Soundsystem, wie AR/CI/VI zusammengeführt (Location muss in V stehen).
+//  - "NEU": [ {d, title, venue, …} ] – neue kommende Events (Duplikate am selben Tag/derselben Location werden erkannt und nur ergänzt).
 //  - "EV": {"<Event-Schlüssel>": {Feld: Wert, ...}} – kommende Events in RAW. Schlüssel = (d + "-" + slug(title)), auf 60 Zeichen
 //    gekürzt (steht in den Listen der Sonderläufe). Regeln: man:1 → nur leere Felder ergänzen; src (Paare ["kürzel", url]) und
 //    coll werden angehängt, nie ersetzt; na wird angehängt und um Felder bereinigt, die jetzt einen Wert haben; Wert null entfernt
@@ -23,7 +24,8 @@ if (!patchF) { console.error("Aufruf: node apply-patch.js <patch.json> [events.j
 const patch = JSON.parse(fs.readFileSync(patchF, "utf8"));
 let src = fs.readFileSync(evF, "utf8");
 const names = ["V", "S", "SO", "VR", "CG", "KC", "CI", "VI", "AR"];
-const hasEV = patch.EV && Object.keys(patch.EV).length > 0;
+const hasNEU = Array.isArray(patch.NEU) && patch.NEU.length > 0;
+const hasEV = (patch.EV && Object.keys(patch.EV).length > 0) || hasNEU;
 const ctx = {}; vm.runInNewContext(src + "\n;this.__o={" + names.concat(hasEV ? ["RAW"] : []).map(n => `${n}:typeof ${n}!=="undefined"?${n}:undefined`).join(",") + "};", ctx);
 const D = ctx.__o;
 const isEmpty = v => v == null || v === "" || (Array.isArray(v) && !v.length) || (typeof v === "object" && !Array.isArray(v) && !Object.keys(v).length);
@@ -107,7 +109,7 @@ if (hasEV) {
     }
     if (Array.isArray(cur.na)) { const na = cur.na.filter(x => !(NAF.includes(x) && !isEmpty(cur[x]))); if (na.length !== cur.na.length) { changed++; if (na.length) cur.na = na; else delete cur.na; } }
   };
-  for (const [k, add] of Object.entries(patch.EV)) {
+  for (const [k, add] of Object.entries(patch.EV || {})) {
     const hit = D.RAW.filter(e => evKey(e) === k);
     if (!hit.length) { log.push(`EV nicht gefunden: ${k}`); continue; }
     if (add && add._delete === true) {
@@ -115,6 +117,27 @@ if (hasEV) {
       D.RAW = D.RAW.filter(e => !hit.includes(e)); changed++; log.push(`EV entfernt: ${k}`); continue;
     }
     hit.forEach(e => mergeEv(e, add, e.man === 1));
+  }
+  // "NEU": [ {d, title, venue, ...} ] – neue kommende Events. Gibt es am selben Tag an derselben Location (Aliase zählen) schon ein Event
+  // mit ähnlichem Titel oder gemeinsamem Artist, wird nichts doppelt angelegt: dann werden nur leere Felder ergänzt und Quellen angehängt.
+  if (hasNEU) {
+    const norm = t => slug(t).replace(/-/g, "");
+    const vCanon = (() => { const m = {}; Object.keys(D.V || {}).forEach(k => m[norm(k)] = k); Object.entries(D.VI || {}).forEach(([k, v]) => { m[norm(k)] = m[norm(k)] || k; [].concat((v && v.alias) || []).forEach(a => { if (!m[norm(a)]) m[norm(a)] = k; }); }); return n => m[norm(n)] || n; })();
+    const toks = t => new Set(slug(t).split("-").filter(w => w.length > 2 && !["the", "und", "and", "mit", "with", "pres", "presents", "wien", "vienna", "night", "party"].includes(w)));
+    const arts = e => new Set((e.floors || []).flatMap(f => (f.a || []).map(a => norm(String(a).replace(/^\d{1,2}:\d{2}\|/, "")))).filter(a => a && a !== "tba"));
+    const similar = (a, b) => { const x = norm(a.title), y = norm(b.title); if (x === y || (x.length > 5 && y.includes(x)) || (y.length > 5 && x.includes(y))) return true;
+      const A = toks(a.title), B = toks(b.title); let n = 0; A.forEach(w => { if (B.has(w)) n++; }); if (A.size && B.size && n / Math.min(A.size, B.size) >= 0.6) return true;
+      const P = arts(a), Q = arts(b); let k = 0; P.forEach(w => { if (Q.has(w)) k++; }); return k >= 1 && (k >= 2 || P.size <= 2 || Q.size <= 2); };
+    for (const ev of patch.NEU) {
+      if (!isObj(ev) || !/^\d{4}-\d{2}-\d{2}$/.test(ev.d || "") || typeof ev.title !== "string" || !ev.title.trim() || typeof ev.venue !== "string" || !ev.venue.trim()) { log.push(`NEU übersprungen (d/title/venue fehlt): ${JSON.stringify(ev).slice(0, 80)}`); continue; }
+      const e = JSON.parse(JSON.stringify(ev)); delete e.man; delete e._delete; e.title = e.title.trim(); e.venue = vCanon(e.venue.trim());
+      if (!/^(TBA|Secret Location)$/.test(e.venue) && !(D.V && D.V[e.venue]) && !(patch.V && patch.V[e.venue])) { log.push(`NEU übersprungen (Location nicht in V): ${e.d} ${e.venue} – ${e.title}`); continue; }
+      if (!Array.isArray(e.floors) || !e.floors.length) e.floors = [{ f: "", a: ["TBA"] }];
+      const dup = D.RAW.find(o => o.d === e.d && vCanon(o.venue) === e.venue && similar(o, e)) || D.RAW.find(o => o.d === e.d && norm(o.title) === norm(e.title));
+      if (dup) { const add = Object.assign({}, e); delete add.d; delete add.title; delete add.venue; mergeEv(dup, add, true); log.push(`NEU gibt es schon (nur ergänzt): ${e.d} ${e.venue} – ${e.title}  ≙  ${dup.title}`); continue; }
+      D.RAW.push(e); changed++; log.push(`NEU: ${e.d} ${e.venue} – ${e.title}`);
+    }
+    D.RAW.sort((a, b) => (a.d + (a.s || "99")).localeCompare(b.d + (b.s || "99")));
   }
 }
 // zurückschreiben im vorhandenen Stil

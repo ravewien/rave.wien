@@ -1,0 +1,8 @@
+# Eventsuche – Liste k08 (7 Locations). Format: Name<TAB>Art<TAB>bekannte Adressen<TAB>Hinweise<TAB>schon bei uns
+O der Klub	Location	https://o-klub.at/ https://o-klub.at/events/ https://o-klub.at/event-type/signal/	Adresse: Opernring/Operngasse, 1010; Indoor	2026-11-27 – November-Transmission | 2026-12-04 – December-Transmission | 2026-12-07 – Monday-Transmission | 2026-12-18 – December-Transmission | 2026-12-31 – New Year's Eve | 2027-01-01 – 2027-Transmission | 2027-01-15 – Klangkarussell | 2027-01-22 – Ueberrest | 2027-01-29 – Charlie Sparks | 2027-02-12 – Schrotthagen
+Weberknecht	Location	https://weberknecht.at/	Adresse: Lerchenfelder Gürtel 47, 1160; Indoor	2026-11-21 – Mottosause // Boots, Beer & Beats | 2026-12-07 – RAVECON × MIND X-MAS feat. Mario Ranieri | 2026-12-11 – TEKNOTEKA Vol. 4 | 2026-12-24 – OUT OF SPACE Xmas Eve
+BC Vienna Arena	Location	https://www.hallmann-dome.at/	Adresse: Gutheil-Schoder-Gasse 9, 1100; alias: Hallmann Dome; Indoor	2027-01-29 – Paradise Winter Festival 2027 – Nacht 1 | 2027-01-30 – Paradise Winter Festival 2027 – Nacht 2
+Multiversum Schwechat	Location	https://www.multiversum-schwechat.at	Adresse: Möhringgasse 2/4, 2320 Schwechat; Indoor	2026-12-12 – KlangKuenstler
+Arena Wien	Location	https://arena.wien https://arena.wien/Home/Programm	Adresse: Baumgasse 80, 1030; alias: Arena; Indoor/Outdoor	(keine)
+U4	Location	https://www.u4.at/	Adresse: Schönbrunner Straße 222-228, 1120; Indoor	(keine)
+Prater (Calafatiplatz)	Location	https://www.praterwien.com/en/prater/event-management/for-organizers	Adresse: Calafatiplatz, 1020; Outdoor	(keine)

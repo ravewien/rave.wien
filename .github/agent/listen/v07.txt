@@ -1,10 +1,20 @@
-# Veranstalter – Liste v07 (9). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>Events bei uns (Kontext)
-Crisp	neu	-	2026-04-16 PRST – CRISP
-Baseline	neu	-	2026-02-19 PRST – BASELINE
-Symbiotikka	neu	-	2025-12-13 Pratersauna – SYMBIOTIKKA x Pratersauna
-Herrensauna	neu	-	2025-11-29 Pratersauna – HERRENSAUNA x EUPHORIA
-Toner	neu	-	2024-12-16 Kramladen – Toner at Kramladen
-Techno Komet	neu	-	2024-05-24 Grelle Forelle – TECHNO KOMET invites FELICIE [FR] | Grelle Forelle
-Duality	neu	-	2024-05-03 Grelle Forelle – Duality X Demolate
-Cosmic Space Disco	neu	-	2024-02-23 Pratersauna – COSMIC Space Disco – Winter Tales w/ Klopfgeister
-Housebesuch	neu	-	2024-01-18 PRST – STEVE HOPE & FRIENDS feat. HOUSEBESUCH AFTERWORK
+# Eventsuche – Liste v07 (19 Veranstalter). Format: Name<TAB>Art<TAB>bekannte Adressen<TAB>Hinweise<TAB>schon bei uns
+Herzfrequenz	Veranstalter	https://herzfrequenz-techno.com https://instagram.com/herzfrequenz.techno	alias: Herzfrequenz Techno; letztes Event bei uns: 2026-11-14 (9 seit März); Herkunft: Wien	2026-12-18 Das Werk – HERZFREQUENZ WEEKENDER: DAY 1 | 2026-12-19 Das Werk – HERZFREQUENZ WEEKENDER: DAY 2
+Dystopia Rave	Veranstalter	https://hiddensociety.at/ https://www.instagram.com/hiddensocietyvie/	alias: DYSTØPIA RAVE; letztes Event bei uns: 2026-11-13 (9 seit März)	(keine)
+Luv Affair	Veranstalter	https://www.instagram.com/luvaffair_vienna/	alias: LuvAffair; ; Herkunft: Wien	2026-11-20 Grelle Forelle – Fish Market w/ Altinbas, Annika Stein, Gerald VDH | 2026-11-27 FLUCC – Luv Affair
+Hart Lab	Veranstalter		letztes Event bei uns: 2026-04-25 (2 seit März); Herkunft: Wien	2026-11-28 Creative Cluster Vienna – Hart Lab: Resonance
+Basstrace	Veranstalter	https://basstrace.com https://www.instagram.com/basstrace/	letztes Event bei uns: 2026-11-13 (1 seit März); Herkunft: Wien	2026-12-04 FLUCC – Basstrace
+Dance 2 House	Veranstalter		letztes Event bei uns: 2026-05-06 (4 seit März)	(keine)
+Endless Insanity	Veranstalter			2026-11-21 Club Exil – Endless Insanity III
+It's George	Veranstalter		alias: It's George!; ; Herkunft: Wien	2026-11-28 PRST – RED GROOVE (Social Club) with Nick Curly
+Melodic Monday	Veranstalter		; Herkunft: Wien	2026-12-07 LIA Coffee WU Campus – MELODIC MONDAY X-Mas Dayparty – Afro Tech & Melodic House
+Club Pompadour	Veranstalter	https://www.instagram.com/pompadourist	letztes Event bei uns: 2026-11-14 (3 seit März); Herkunft: Wien	(keine)
+Schroedinger's Groove	Veranstalter	https://www.instagram.com/schroedingersgroove/	alias: Schrödingers Groove, Schroedingers Groove; letztes Event bei uns: 2026-11-14 (2 seit März); Herkunft: Wien	(keine)
+Ponyhof	Veranstalter	https://ponyhof-official.at/ https://www.instagram.com/_ponyhof_official/	letztes Event bei uns: 2026-09-26 (2 seit März); Herkunft: Wien	(keine)
+Hit It Hard	Veranstalter		letztes Event bei uns: 2026-05-24 (2 seit März)	(keine)
+Publegenden	Veranstalter	https://www.instagram.com/publegenden/	letztes Event bei uns: 2026-11-13 (1 seit März); Herkunft: Wien	(keine)
+Tayrona Records	Veranstalter		letztes Event bei uns: 2026-11-07 (1 seit März)	(keine)
+House of Plüsch	Veranstalter	https://www.instagram.com/houseofpluesch	letztes Event bei uns: 2026-11-06 (1 seit März)	(keine)
+ClassiX	Veranstalter		letztes Event bei uns: 2026-10-31 (1 seit März)	(keine)
+Hart & Zart	Veranstalter		letztes Event bei uns: 2026-07-23 (1 seit März)	(keine)
+Euphoria	Veranstalter	https://www.instagram.com/euphoria.wien/	letztes Event bei uns: 2026-04-24 (1 seit März); Herkunft: Wien	(keine)

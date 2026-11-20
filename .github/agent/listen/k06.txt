@@ -1,0 +1,8 @@
+# Eventsuche – Liste k06 (7 Locations). Format: Name<TAB>Art<TAB>bekannte Adressen<TAB>Hinweise<TAB>schon bei uns
+Club Lucia	Location	https://www.clublucia.at/	Adresse: U-Bahnbogen 24–25, 1080; Indoor	2026-11-20 – Schall & Schabernack | 2026-11-21 – Kleingeld Kollektiv Klubnacht | 2026-11-27 – Qualia | 2026-11-28 – CitrusCue presents COIDO & Wingz | 2026-11-30 – Harmont Live with A_Phan & FRNRKE | 2026-12-04 – DISCORDIA | 2026-12-05 – KRAMPUS RAVE by KRAWALL | 2026-12-07 – ALERT[A] x EXCESO | 2026-12-11 – TAKTGEFÜHL Vol. 2 | 2026-12-18 – VVAX – Vinyl Only Techno – 1 Year Anniversary
+Loop	Location	https://loop.co.at https://loop.co.at/	Adresse: Lerchenfelder Gürtel, Stadtbahnbogen 27, 1080; Indoor	2026-11-21 – VIE'n'B | 2026-11-27 – Fuelized & Friends | 2026-12-05 – Krampus Beats | 2026-12-07 – BASST SCHO presents Dru | 2026-12-11 – Homesounds – Local DJs for local homeless
+Altia Skybar – DC Tower	Location	https://www.melia.com/de/hotels/osterreich/wien/melia-vienna/restaurants/altia-skybar	Adresse: Donau-City-Straße 7, 1220; alias: Altia Skybar; Indoor	2026-11-27 – AWSM. Skyscraper Edition (Extra Date) | 2026-11-28 – AWSM. Skyscraper Edition
+The Inner Circle	Location	https://theinnercircle.at/	Adresse: Altmannsdorfer Straße 144, 1230; alias: the inner circle vienna / wien; Indoor/Outdoor	2026-11-21 – lost or unreachable
+Usus am Wasser	Location	https://amwasser.wien	Adresse: An der Neuen Donau 1, 1210; Indoor/Outdoor	(keine)
+The Popp im Prater	Location		Adresse: Wurstelprater, 1020; Outdoor	(keine)
+B72	Location	https://www.b72.at https://www.b72.at/	Adresse: Hernalser Gürtel 72–73, 1080; Indoor	(keine)

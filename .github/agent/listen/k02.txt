@@ -1,0 +1,9 @@
+# Eventsuche – Liste k02 (8 Locations). Format: Name<TAB>Art<TAB>bekannte Adressen<TAB>Hinweise<TAB>schon bei uns
+SASS Music Club	Location	https://sassvienna.com/ https://sassvienna.com/en/events	Adresse: Karlsplatz 1, 1010; Indoor	2026-11-20 – Freeride Millenium | 2026-11-21 – Wreck | 2026-11-22 – Morgengymnastik × Wreck | 2026-11-26 – Donnerstag Nacht | 2026-11-27 – Vivid – Frieden & Liebe | 2026-11-28 – Cardio Cult | 2026-11-29 – Morgengymnastik × Donaurave | 2026-12-05 – Karotte im Wohnzimmer | 2026-12-18 – Joyce Muniz im Wohnzimmer
+Funkhaus	Location	https://www.funkhaus.wien https://www.funkhaus.wien/	Adresse: Argentinierstraße 30a, 1040; alias: ORF-Funkhaus, Funkhaus Wien; Indoor	2026-11-20 – The House of Funk presents Ricky Chong | 2026-11-21 – Yolo Taxi with UMAFRICANA, Lua Preta & Miss Roshni | 2026-11-27 – Cafe Disko x Firlefunk | 2026-11-28 – Apartment Acht Birthday Rave | 2026-12-05 – Sonic Grounds Ed. 5 | 2026-12-05 – Noche d'Amore – A Dance Romance | 2026-12-06 – Untz Baby Untz – Nikolo im Funkhaus | 2026-12-18 – LOVEDANCIN' Vienna | 2026-12-19 – traveling without moving
+Flex	Location	https://flex.at/	Adresse: Augartenbrücke 1, 1010; Indoor/Outdoor	2026-11-27 – High Voltage Fairies in the Pit – Metal x DnB | 2026-11-28 – Switch! presents Primate – Sticks & Stones Europe Tour
+Ottakringer Brauerei	Location	https://www.ottakringerbrauerei.at	Adresse: Ottakringer Platz 1, 1160; Indoor/Outdoor	2026-11-21 – Wiener Blut
+The Chamber	Location		Adresse: Hernalser Gürtel 18, 1080; Indoor	2026-12-07 – Maiden Voyage w/ Tapanov
+Semmelweisklinik	Location	https://www.semmelweisklinik.at https://www.semmelweisklinik.at/	Adresse: Hockegasse 37, 1180; Indoor/Outdoor	(keine)
+Hofburg Vienna	Location	https://www.hofburg.com/en	Adresse: Heldenplatz, 1010; Indoor	(keine)
+Gleis 19	Location		Adresse: Gunoldstraße 12, 1190; alias: Gleis19; Outdoor	(keine)

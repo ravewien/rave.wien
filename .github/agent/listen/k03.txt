@@ -1,0 +1,8 @@
+# Eventsuche – Liste k03 (7 Locations). Format: Name<TAB>Art<TAB>bekannte Adressen<TAB>Hinweise<TAB>schon bei uns
+Das Werk	Location	https://www.daswerk.org/	Adresse: Spittelauer Lände 12, 1090; Indoor	2026-11-20 – Synergy Rave x Trance + Hard Techno | 2026-11-21 – 54Hz pres. CREEDS | 2026-11-25 – Rave am Mittwoch | 2026-11-27 – Resident Night: GOLPE // DETOXX | 2026-11-28 – Nine Circles | 2026-11-28 – DEAD END Showcase with Paralich pres. by GDN | 2026-12-05 – TECHNO OBSCENE #36 – NINE O NINE x LSH | 2026-12-12 – Psytrance Universe @ Werk | 2026-12-18 – HERZFREQUENZ WEEKENDER: DAY 1 | 2026-12-19 – HERZFREQUENZ WEEKENDER: DAY 2 | 2027-01-09 – Psytrance @ Werk | 2027-02-13 – Psytrance @ Werk | 2027-03-13 – Psytrance @ Werk
+Kramladen	Location		Adresse: U-Bahnbogen 39–40, Lerchenfelder Gürtel, 1080; Indoor	2026-11-28 – Xperiment Nights | 2026-12-03 – FIFI RAVE | 2026-12-18 – Acidic Juice x NOTYOURORDINARY – Live
+Westbahn Studios	Location		Adresse: Adresse noch TBA; Indoor	2026-12-16 – sama recordings pres. schweben | 2026-12-21 – Ventil Records pres. Eardrum Residency w/ Mariam Rezaei
+Libelle	Location	https://www.libelle.at/ https://www.libelle.at/future-events	Adresse: Tellgasse 25/1, 1150; alias: Schwelle Wien; Indoor	2026-12-05 – Ungeniert Vol. 5
+WUK	Location	https://www.wuk.at	Adresse: Währinger Straße 59, 1090; Indoor/Outdoor	2026-12-05 – Elektro Guzzi & Special Guests – Palazzo Festival
+Himmel und Wasser	Location	https://www.himmelundwasser.at	Adresse: Steinspornbrücke 1, 1220; Outdoor	(keine)
+Stiftskeller Klosterneuburg	Location	https://www.stiftsrestaurant-leopold.at/	Adresse: Albrechtsbergergasse 1, 3400 Klosterneuburg; Indoor	(keine)

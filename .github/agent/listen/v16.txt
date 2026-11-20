@@ -1,0 +1,19 @@
+# Eventsuche – Liste v16 (18 Veranstalter). Format: Name<TAB>Art<TAB>bekannte Adressen<TAB>Hinweise<TAB>schon bei uns
+AWSM	Veranstalter	https://awsmevent.com/ https://www.instagram.com/awsmevent/	letztes Event bei uns: 2026-11-14 (1 seit März); Herkunft: Wien	2026-11-27 Altia Skybar – DC Tower – AWSM. Skyscraper Edition (Extra Date) | 2026-11-28 Altia Skybar – DC Tower – AWSM. Skyscraper Edition | 2026-12-31 Oktogon am Himmel – AWSM. NYE Skyline Edition
+Flashback	Veranstalter	https://www.instagram.com/flashback_technoclassics/	letztes Event bei uns: 2026-08-29 (4 seit März); Herkunft: Wien	2026-11-27 Grelle Forelle – Flashback w/ Thomas Schumacher – Techno Classics
+Nasty Connexion	Veranstalter			2026-12-11 Weberknecht – TEKNOTEKA Vol. 4 | 2026-12-24 Weberknecht – OUT OF SPACE Xmas Eve
+Soundhouse	Veranstalter	https://www.instagram.com/___soundhouse___/	letztes Event bei uns: 2026-06-06 (1 seit März)	2026-11-21 Tagada – Soundhouse
+Radio Rudina	Veranstalter	https://www.radiorudina.com https://www.instagram.com/radiorudina/	letztes Event bei uns: 2026-11-14 (4 seit März); Herkunft: Wien	(keine)
+Vangardist	Veranstalter			2026-11-20 The Loft – Männer im Loft
+AUDIO303	Veranstalter	https://www.instagram.com/AUDIO303_/	; Herkunft: Wien	2026-11-27 Das Werk – Resident Night: GOLPE // DETOXX
+Palazzo Recordings	Veranstalter		; Herkunft: Wien	2026-12-05 WUK – Elektro Guzzi & Special Guests – Palazzo Festival
+Liminal	Veranstalter	https://www.instagram.com/liminal.vienna/		2026-12-12 The Loft – Liminal Afterhour #3
+Techno am Wasser	Veranstalter		letztes Event bei uns: 2026-08-07 (3 seit März); Herkunft: Wien	(keine)
+Schlachthaus	Veranstalter	https://www.instagram.com/schlachthaus.vienna/	letztes Event bei uns: 2026-10-30 (2 seit März)	(keine)
+Store Beats	Veranstalter		letztes Event bei uns: 2026-07-25 (2 seit März)	(keine)
+Derisch	Veranstalter		letztes Event bei uns: 2026-11-14 (1 seit März)	(keine)
+Green Light Collective	Veranstalter		letztes Event bei uns: 2026-11-12 (1 seit März)	(keine)
+Cosmic Egg	Veranstalter		letztes Event bei uns: 2026-11-07 (1 seit März)	(keine)
+sch:cht	Veranstalter		letztes Event bei uns: 2026-11-05 (1 seit März)	(keine)
+Kinky Galore	Veranstalter	https://www.kinkygalore.net/	letztes Event bei uns: 2026-10-17 (1 seit März)	(keine)
+Groove Operators	Veranstalter	https://www.instagram.com/grooveoperators.collective/	letztes Event bei uns: 2026-05-13 (1 seit März)	(keine)

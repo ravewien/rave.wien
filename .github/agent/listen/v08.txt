@@ -1,0 +1,20 @@
+# Eventsuche – Liste v08 (19 Veranstalter). Format: Name<TAB>Art<TAB>bekannte Adressen<TAB>Hinweise<TAB>schon bei uns
+Contrast	Veranstalter		letztes Event bei uns: 2026-09-19 (6 seit März); Herkunft: Wien	2026-11-21 Grelle Forelle – Contrast pres. DJ Marky + Pola & Bryson | 2026-12-12 Grelle Forelle – Contrast pres. Dance Macabre w/ Simula + Enei + Skantia
+Im Freudentaumel	Veranstalter	https://www.instagram.com/im.freudentaumel	letztes Event bei uns: 2026-11-06 (9 seit März); Herkunft: Wien	(keine)
+GLITCH	Veranstalter	https://www.enter-glitch.com/ https://www.instagram.com/enter_glitch/	; Herkunft: Kärnten	2026-11-20 Rhiz – GLITCH Vienna 001 | 2026-12-07 The Loft – GLITCH Vienna pres. Stef Davidse
+Verknallt	Veranstalter	https://www.instagram.com/verknallt.perplex/	letztes Event bei uns: 2026-09-26 (2 seit März)	2026-12-08 Club Exil – Verknallt x TUFF w/ A.N.I. & DJ Dreckisch – Daytime Rave
+Discordia	Veranstalter	https://www.instagram.com/meetdiscordia/	letztes Event bei uns: 2026-09-05 (1 seit März)	2026-12-04 Club Lucia – DISCORDIA
+4lthangrund	Veranstalter	https://4lthangrund.jetzt https://www.instagram.com/4lthangrund/	; Herkunft: Wien	2026-11-20 Club Exil – Grund für Exil – Soliparty
+54Hz	Veranstalter		; Herkunft: Wien	2026-11-21 Das Werk – 54Hz pres. CREEDS
+Xperiment Records	Veranstalter	https://www.instagram.com/xperimentrecords/	; Herkunft: Österreich	2026-11-28 Kramladen – Xperiment Nights
+Uniquely Journeys	Veranstalter		; Herkunft: Wien	2026-12-07 The Chamber – Maiden Voyage w/ Tapanov
+Tasteless	Veranstalter	https://www.instagram.com/tasteless.vie/	letztes Event bei uns: 2026-10-31 (3 seit März); Herkunft: Wien	(keine)
+The Hive	Veranstalter		letztes Event bei uns: 2026-11-14 (2 seit März)	(keine)
+Meier	Veranstalter		letztes Event bei uns: 2026-09-18 (2 seit März)	(keine)
+Votiv Session	Veranstalter		letztes Event bei uns: 2026-05-01 (2 seit März); Herkunft: Wien	(keine)
+Dark Pressure	Veranstalter		letztes Event bei uns: 2026-11-13 (1 seit März)	(keine)
+Little Beat More	Veranstalter	https://linktr.ee/littlebeatmore https://www.instagram.com/littlebeatmore/	letztes Event bei uns: 2026-11-07 (1 seit März); Herkunft: Wien	(keine)
+Café Mondo	Veranstalter	https://linktr.ee/cafe.mondo https://www.instagram.com/cafe_mondo_/	alias: Cafe Mondo; letztes Event bei uns: 2026-11-06 (1 seit März); Herkunft: Wien	(keine)
+YE	Veranstalter		letztes Event bei uns: 2026-10-31 (1 seit März)	(keine)
+Wyldhearts	Veranstalter		letztes Event bei uns: 2026-07-11 (1 seit März); Herkunft: Deutschland	(keine)
+Opération	Veranstalter		alias: Opèration; letztes Event bei uns: 2026-04-17 (1 seit März); Herkunft: Österreich	(keine)

@@ -1,0 +1,8 @@
+# Eventsuche – Liste k07 (7 Locations). Format: Name<TAB>Art<TAB>bekannte Adressen<TAB>Hinweise<TAB>schon bei uns
+Club Exil	Location	https://www.club-exil.at/	Adresse: Marktstraße 13A, 2331 Vösendorf; Indoor	2026-11-20 – Grund für Exil – Soliparty | 2026-11-21 – Endless Insanity III | 2026-11-27 – 20 Jahre CPE | 2026-12-04 – Let It Roll On Tour Vienna | 2026-12-05 – Tribal Vibes meets Exil | 2026-12-08 – Verknallt x TUFF w/ A.N.I. & DJ Dreckisch – Daytime Rave | 2026-12-18 – RITUAL x YN w/ Chris Liebing | 2026-12-19 – ZusammenKommen 16
+Club U	Location	https://club-u.at https://club-u.at/	Adresse: Karlsplatz, 1010; alias: Club U im Otto-Wagner-Pavillon; Indoor/Outdoor	2026-11-20 – Fluffig – Punschabend | 2026-11-20 – Over:Tone x CitrusCue pres. by Wums | 2026-11-21 – Du Tanzt Mich Mal – Winter Open Air: Punsch Rave (Opening) | 2026-12-05 – Du Tanzt Mich Mal – Winter Open Air: Punsch Rave (Day & Night) | 2026-12-19 – Du Tanzt Mich Mal – Winter Open Air: Punsch Rave
+Jaz in the City	Location	https://hrewards.com/en/jaz-in-the-city-vienna	Adresse: Windmühlgasse 28, 1060; alias: Mariatrink; Indoor/Outdoor	2026-11-21 – Rooftop Series at Mariatrink | 2026-12-05 – Rooftop Series at Mariatrink
+LIA Coffee WU Campus	Location		Adresse: Welthandelsplatz 1, 1020; Indoor	2026-12-07 – MELODIC MONDAY X-Mas Dayparty – Afro Tech & Melodic House
+Porto Pollo	Location		Adresse: Donauinsel 19, 1220; Outdoor	(keine)
+Lugner City	Location		Adresse: Gablenzgasse 5, 1150; Indoor	(keine)
+Metastadt	Location	https://www.metastadt.at/	Adresse: Dr.-Otto-Neurath-Gasse 3, 1220; Indoor	(keine)

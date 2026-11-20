@@ -1,0 +1,7 @@
+# Eventsuche – Liste p03 (6 Portale). Format: Name<TAB>Art<TAB>bekannte Adressen<TAB>Hinweise<TAB>schon bei uns (mit RAW per Skript vergleichen)
+sexpositives.com Wien	Portal	https://sexpositives.com/en/wien/	sexpositive Partys mit elektronischer Musik	→ per Skript mit RAW vergleichen
+regioactive Wien	Portal	https://www.regioactive.de/		→ per Skript mit RAW vergleichen
+Eventbrite Wien Techno	Portal	https://www.eventbrite.at/d/austria--wien/techno/	auch Suche house, rave, drum-and-bass	→ per Skript mit RAW vergleichen
+ticket.io / tickethead / stagedates Wien	Portal		per Suche: „ticket.io Wien Techno“, „tickethead Wien Rave“, „stagedates Wien Techno“	→ per Skript mit RAW vergleichen
+Freie Suche Open Decks / Day Rave / Open Air	Suche		Suchen: „Open Decks Wien“, „Day Rave Wien“, „Afterhour Wien“, „Downtempo Wien“, „Drum and Bass Wien“, „Psytrance Wien“, „Hardtechno Wien“, jeweils mit den nächsten drei Monaten	→ per Skript mit RAW vergleichen
+Freie Suche Silvester/Neujahr	Suche		Suchen: „Silvester Techno Wien 2026“, „NYE Rave Wien“, „Neujahr Rave Wien 2027“, „Silvester Club Wien Techno House“	→ per Skript mit RAW vergleichen

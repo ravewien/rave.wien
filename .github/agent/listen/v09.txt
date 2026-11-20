@@ -1,0 +1,20 @@
+# Eventsuche – Liste v09 (19 Veranstalter). Format: Name<TAB>Art<TAB>bekannte Adressen<TAB>Hinweise<TAB>schon bei uns
+Nine O Nine	Veranstalter	https://instagram.com/909techno	letztes Event bei uns: 2026-11-07 (9 seit März)	2026-12-05 Das Werk – TECHNO OBSCENE #36 – NINE O NINE x LSH
+Klanggerecht	Veranstalter		alias: Kollektiv Klanggerecht; letztes Event bei uns: 2026-08-21 (2 seit März); Herkunft: Wien	2026-11-20 FLUCC – Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION | 2026-11-20 FLUCC – Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION
+Fuelized	Veranstalter	https://www.instagram.com/fuelized_events	letztes Event bei uns: 2026-11-07 (3 seit März); Herkunft: Wien	2026-11-27 Loop – Fuelized & Friends
+Amore AG	Veranstalter	https://www.instagram.com/amore___ag/	letztes Event bei uns: 2026-07-24 (2 seit März); Herkunft: Wien	2026-12-11 FLUCC – Amore AG x VNV with Fafi Abdel Nour
+Techno Entgleist	Veranstalter	https://www.instagram.com/technoentgleist/	letztes Event bei uns: 2026-04-25 (1 seit März)	2026-12-05 Grelle Forelle – Techno Entgleist w/ Nakadia & BOHO
+AMBIEVENT	Veranstalter	https://www.instagram.com/ambievent_/		2026-11-20 Kollektiv Kaorle – AMBIEVENT – trace encounters
+Tanz dich glücklich	Veranstalter	https://www.instagram.com/tanzdichgluecklich/		2026-11-21 FLUCC – Tanz dich glücklich
+Restless	Veranstalter	https://www.instagram.com/restless_26/		2026-12-03 FLUCC – 15 Years Restless – Album Release Party
+Resonance Social Artists	Veranstalter		; Herkunft: Mailand	2026-12-07 The Loft – GLITCH Vienna pres. Stef Davidse
+Tohuwabohu	Veranstalter	https://tohuwabohu.wien/ https://www.instagram.com/tohuwabohu.vienna/	letztes Event bei uns: 2026-10-24 (3 seit März)	(keine)
+Collapse	Veranstalter	https://www.collapse-recordings.com	letztes Event bei uns: 2026-11-14 (2 seit März)	(keine)
+Techno.Kult	Veranstalter	https://www.instagram.com/techno.kult.official/	letztes Event bei uns: 2026-09-18 (2 seit März); Herkunft: Wien	(keine)
+303	Veranstalter		letztes Event bei uns: 2026-11-07 (1 seit März)	(keine)
+Bassclub	Veranstalter		letztes Event bei uns: 2026-11-13 (1 seit März)	(keine)
+created-on-earth	Veranstalter		letztes Event bei uns: 2026-11-07 (1 seit März)	(keine)
+Fadercult	Veranstalter		letztes Event bei uns: 2026-11-06 (1 seit März); Herkunft: Berlin	(keine)
+Alles Allen	Veranstalter		letztes Event bei uns: 2026-10-31 (1 seit März)	(keine)
+fm.einfamilienhaus	Veranstalter		letztes Event bei uns: 2026-07-02 (1 seit März); Herkunft: Wien	(keine)
+Crisp	Veranstalter		letztes Event bei uns: 2026-04-16 (1 seit März)	(keine)

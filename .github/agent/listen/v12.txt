@@ -1,0 +1,20 @@
+# Eventsuche – Liste v12 (19 Veranstalter). Format: Name<TAB>Art<TAB>bekannte Adressen<TAB>Hinweise<TAB>schon bei uns
+Spumante Records	Veranstalter	https://www.instagram.com/spumanterecords/	letztes Event bei uns: 2026-11-15 (2 seit März); Herkunft: Wien	2026-11-29 FLUCC – FLUT x Callshop Radio – Week 48 | 2026-12-13 FLUCC – FLUT x Callshop Radio – Week 50 | 2026-12-27 FLUCC – FLUT x Callshop Radio – Week 52
+BLUR	Veranstalter		letztes Event bei uns: 2026-09-05 (5 seit März)	2026-12-04 PRST – BLUR with Doudou MD
+Mahlwerk	Veranstalter	https://linktr.ee/mahlwerk https://instagram.com/mahlwerk.mwk	letztes Event bei uns: 2026-11-06 (3 seit März); Herkunft: Wien	2026-12-04 Grelle Forelle – Step Forward pres. Eargasm God
+technolog	Veranstalter	https://www.technolog.wtf https://www.instagram.com/_technolog__/	letztes Event bei uns: 2026-11-07 (5 seit März); Herkunft: Wien	(keine)
+TUFF	Veranstalter		letztes Event bei uns: 2026-11-13 (1 seit März); Herkunft: Wien	2026-12-08 Club Exil – Verknallt x TUFF w/ A.N.I. & DJ Dreckisch – Daytime Rave
+Vision Serpent	Veranstalter	https://visionserpentrecords.com https://www.instagram.com/visionserpentrecords	; Herkunft: Österreich	2026-11-20 FLUCC – Vision Serpent
+CPE	Veranstalter		; Herkunft: Wien	2026-11-27 Club Exil – 20 Jahre CPE
+Let It Roll	Veranstalter	https://letitroll.eu/	; Herkunft: Tschechien	2026-12-04 Club Exil – Let It Roll On Tour Vienna
+Exceso	Veranstalter		; Herkunft: Salzburg	2026-12-07 Club Lucia – ALERT[A] x EXCESO
+Toy Tonics	Veranstalter	https://www.toytonics.de	alias: Toy Tonics JAM; letztes Event bei uns: 2026-09-26 (3 seit März); Herkunft: Berlin	(keine)
+Drum & Bassick	Veranstalter	https://www.instagram.com/drumandbassick/	letztes Event bei uns: 2026-11-13 (2 seit März); Herkunft: Wien	(keine)
+Schwerkraft	Veranstalter		letztes Event bei uns: 2026-08-22 (2 seit März)	(keine)
+VLAN	Veranstalter	https://www.instagram.com/vlan.radio/	alias: VLAN Radio, Vienna Local Area Network; letztes Event bei uns: 2026-11-14 (1 seit März); Herkunft: Wien	(keine)
+HERZZZ	Veranstalter		letztes Event bei uns: 2026-11-13 (1 seit März); Herkunft: Wien	(keine)
+Harmony Rec.	Veranstalter	https://harmonyrec.com https://www.instagram.com/harmony_rec/	letztes Event bei uns: 2026-11-07 (1 seit März); Herkunft: Prag	(keine)
+Soularium	Veranstalter	https://www.instagram.com/soularium.club/	letztes Event bei uns: 2026-11-06 (1 seit März)	(keine)
+Schrödingers Groove	Veranstalter	https://www.instagram.com/schroedingersgroove/	letztes Event bei uns: 2026-10-30 (1 seit März); Herkunft: Wien	(keine)
+nomind.	Veranstalter	https://www.instagram.com/nomind.vie/	letztes Event bei uns: 2026-06-11 (1 seit März)	(keine)
+VIE.W	Veranstalter		letztes Event bei uns: 2026-03-19 (1 seit März)	(keine)

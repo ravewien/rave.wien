@@ -1,0 +1,8 @@
+# Eventsuche – Liste k05 (7 Locations). Format: Name<TAB>Art<TAB>bekannte Adressen<TAB>Hinweise<TAB>schon bei uns
+PRST	Location	https://www.praterstrasse.wien/	Adresse: Praterstraße 18, 1020; alias: Praterstraße, Club Praterstraße; Indoor	2026-11-20 – Anna Ullrich pres. Achterbahn | 2026-11-27 – Party Modern × PRST: Station Rose | 2026-11-28 – RED GROOVE (Social Club) with Nick Curly | 2026-12-04 – BLUR with Doudou MD | 2026-12-07 – Cybertribe 11 Years w/ DBBD | 2026-12-12 – REDIVIDER pres. Audrey Danza | 2026-12-18 – PRST invites The Trip
+Tagada	Location		Adresse: Brunnengasse 76, 1160; Indoor	2026-11-21 – Soundhouse | 2026-11-28 – Patches | 2026-12-05 – HOUSETIERE × VG+ Weekender | 2026-12-18 – Housetiere with POSI FLO
+Prater Dome	Location	https://www.praterdome.at https://www.praterdome.at/	Adresse: Riesenradplatz 7, 1020; Indoor	2026-11-27 – Access Another Atmosphere w/ Cosmic Gate & Ruben de Ronde | 2026-11-28 – KSHMR pres. by Prater DOME
+Kollektiv Kaorle	Location	https://kollektiv-kaorle.at	Adresse: Baumgartner Höhe 1 (Otto Wagner Areal, Pavillon 21), 1140	2026-11-20 – AMBIEVENT – trace encounters
+Oktogon am Himmel	Location	https://www.himmel.at/restaurant-oktogon/	Adresse: Himmelstraße 125, 1190; alias: Café-Restaurant Oktogon Am Himmel	2026-12-31 – AWSM. NYE Skyline Edition
+M1 Club	Location		Adresse: Schwarzenbergplatz 10, 1040; Indoor	(keine)
+Angewandte PSK	Location	https://angewandte.at	Adresse: Georg-Coch-Platz 2, 1010; Indoor	(keine)

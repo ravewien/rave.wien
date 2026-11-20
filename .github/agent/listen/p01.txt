@@ -1,0 +1,7 @@
+# Eventsuche – Liste p01 (6 Portale). Format: Name<TAB>Art<TAB>bekannte Adressen<TAB>Hinweise<TAB>schon bei uns (mit RAW per Skript vergleichen)
+Resident Advisor Wien (alle)	Portal	https://ra.co/events/at/vienna	alle Wochen des Zeitraums durchgehen (Wochen-/Monatsansicht, ?week=JJJJ-MM-TT); geblockt → Suche „ra.co events vienna <Monat>“	→ per Skript mit RAW vergleichen
+Resident Advisor Wien Techno/House/Downtempo	Portal	https://ra.co/events/at/vienna/techno https://ra.co/events/at/vienna/house https://ra.co/events/at/vienna/downtempo		→ per Skript mit RAW vergleichen
+oh schon hell	Portal	https://ohschonhell.at/	Kalender/Events Wien	→ per Skript mit RAW vergleichen
+frey-tag	Portal	https://frey-tag.at/kalender	alle Tage des Zeitraums	→ per Skript mit RAW vergleichen
+Techno Airlines	Portal	https://technoairlines.com/	Monatslisten; Details immer von RA holen	→ per Skript mit RAW vergleichen
+events.at Fortgehen Wien	Portal	https://events.at/fortgehen-wien	nur elektronische Events	→ per Skript mit RAW vergleichen

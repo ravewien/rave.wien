@@ -1,0 +1,20 @@
+# Eventsuche – Liste v15 (19 Veranstalter). Format: Name<TAB>Art<TAB>bekannte Adressen<TAB>Hinweise<TAB>schon bei uns
+Wreck	Veranstalter		letztes Event bei uns: 2026-09-26 (4 seit März)	2026-11-21 SASS Music Club – Wreck | 2026-11-22 SASS Music Club – Morgengymnastik × Wreck
+VVAX	Veranstalter	https://www.instagram.com/vvax.collective/	letztes Event bei uns: 2026-10-25 (5 seit März)	2026-12-18 Club Lucia – VVAX – Vinyl Only Techno – 1 Year Anniversary
+VNV	Veranstalter		alias: VNV Kollektiv, VNV Collective; letztes Event bei uns: 2026-11-13 (3 seit März); Herkunft: Wien	2026-12-11 FLUCC – Amore AG x VNV with Fafi Abdel Nour
+techNOage	Veranstalter	https://www.instagram.com/vierviertelvienna/	letztes Event bei uns: 2026-06-06 (1 seit März); Herkunft: Wien	2026-11-21 FLUCC – techNOage – ab fünfzehn Uhr Clubbing
+hausgemacht	Veranstalter	https://www.hausgemacht.org/ https://www.instagram.com/hausgemachtinwien/	letztes Event bei uns: 2026-10-30 (1 seit März); Herkunft: Wien	2026-12-19 Club Exil – ZusammenKommen 16
+Sub Zero	Veranstalter		alias: SUBZERO; 	2026-11-20 The Loft – Sub Zero
+FactX	Veranstalter			2026-11-27 Grelle Forelle – Flashback w/ Thomas Schumacher – Techno Classics
+Ungeniert	Veranstalter	https://ungeniert.org/		2026-12-05 Libelle – Ungeniert Vol. 5
+Homesounds	Veranstalter		; Herkunft: Wien	2026-12-11 Loop – Homesounds – Local DJs for local homeless
+Mixed	Veranstalter	https://www.instagram.com/mixed.vienna/	alias: MIXED Vienna; letztes Event bei uns: 2026-09-05 (3 seit März); Herkunft: Wien	(keine)
+Auf der Lauer	Veranstalter	https://www.instagram.com/aufderlauer_/	letztes Event bei uns: 2026-10-31 (2 seit März); Herkunft: Wien	(keine)
+Bassic Instinct	Veranstalter		letztes Event bei uns: 2026-08-01 (2 seit März); Herkunft: Wien	(keine)
+Raqsouna	Veranstalter	https://www.instagram.com/raqsouna/	letztes Event bei uns: 2026-11-14 (1 seit März); Herkunft: Wien	(keine)
+Kann&Will	Veranstalter	https://www.instagram.com/kann_und_will/	letztes Event bei uns: 2026-11-12 (1 seit März)	(keine)
+Fader Friends	Veranstalter		letztes Event bei uns: 2026-11-07 (1 seit März)	(keine)
+AIMmanagemnt	Veranstalter		letztes Event bei uns: 2026-11-05 (1 seit März)	(keine)
+ELEMNT	Veranstalter	https://www.instagram.com/elemnt.at/	letztes Event bei uns: 2026-10-24 (1 seit März)	(keine)
+Drumworks	Veranstalter		alias: DRUMWORKS; letztes Event bei uns: 2026-05-22 (1 seit März); Herkunft: Wien	(keine)
+Wu Wolves	Veranstalter		letztes Event bei uns: 2026-03-05 (1 seit März)	(keine)

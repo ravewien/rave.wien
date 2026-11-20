@@ -1,0 +1,20 @@
+# Eventsuche – Liste v11 (19 Veranstalter). Format: Name<TAB>Art<TAB>bekannte Adressen<TAB>Hinweise<TAB>schon bei uns
+Callshop Radio	Veranstalter	https://callshopradio.com/ https://instagram.com/callshopradio	letztes Event bei uns: 2026-11-15 (2 seit März)	2026-11-29 FLUCC – FLUT x Callshop Radio – Week 48 | 2026-12-13 FLUCC – FLUT x Callshop Radio – Week 50 | 2026-12-27 FLUCC – FLUT x Callshop Radio – Week 52
+GDN	Veranstalter	https://gesindeldernacht.at https://www.instagram.com/gesindel_der_nacht/	alias: Gesindel der Nacht, GDN Records; letztes Event bei uns: 2026-11-06 (5 seit März); Herkunft: Wien	2026-11-28 Das Werk – DEAD END Showcase with Paralich pres. by GDN
+Fifi	Veranstalter	https://www.instagram.com/fifi__rave	alias: FIFI Rave; letztes Event bei uns: 2026-11-14 (3 seit März); Herkunft: Wien	2026-12-03 Kramladen – FIFI RAVE
+deep cut	Veranstalter	https://deepcut.at https://www.instagram.com/deepcut.event	letztes Event bei uns: 2026-11-13 (5 seit März); Herkunft: Wien	(keine)
+Hardline	Veranstalter	https://www.instagram.com/hardline_events/	letztes Event bei uns: 2026-10-31 (1 seit März)	2026-12-07 Event Arena Vösendorf – HARDLINE: COLD WAR – A Winter Special
+Wums	Veranstalter	https://www.instagram.com/wumsystem/	alias: WUMS Kollektiv; ; Herkunft: Wien	2026-11-20 Club U – Over:Tone x CitrusCue pres. by Wums
+Kleingeld Kollektiv	Veranstalter			2026-11-21 Club Lucia – Kleingeld Kollektiv Klubnacht
+Memorandum	Veranstalter	https://www.instagram.com/memorandum_at/		2026-12-04 Club Exil – Let It Roll On Tour Vienna
+ALERT[A] Vienna	Veranstalter		alias: ALERT[A]; ; Herkunft: Wien	2026-12-07 Club Lucia – ALERT[A] x EXCESO
+Exposed	Veranstalter		letztes Event bei uns: 2026-10-02 (3 seit März); Herkunft: Wien	(keine)
+Wiener Mischung	Veranstalter	https://www.instagram.com/wienermischung.ofc/	letztes Event bei uns: 2026-11-13 (2 seit März); Herkunft: Wien	(keine)
+Jeez Louise	Veranstalter	https://www.instagram.com/jeezlouise.vie/	letztes Event bei uns: 2026-08-27 (2 seit März)	(keine)
+Pingpaya Fenty Savage	Veranstalter		letztes Event bei uns: 2026-11-14 (1 seit März)	(keine)
+Jah Power Sound	Veranstalter		letztes Event bei uns: 2026-11-13 (1 seit März)	(keine)
+served	Veranstalter	https://www.instagram.com/serve.ddd	letztes Event bei uns: 2026-11-07 (1 seit März); Herkunft: Wien	(keine)
+Kollektiv Ost:West	Veranstalter	https://www.instagram.com/kollektiv_ost.west/	alias: KO:W; letztes Event bei uns: 2026-11-06 (1 seit März); Herkunft: Wien	(keine)
+Soundlabs	Veranstalter		letztes Event bei uns: 2026-10-30 (1 seit März); Herkunft: Wien	(keine)
+Subwaves	Veranstalter	https://www.instagram.com/subwaves.vie/	letztes Event bei uns: 2026-06-26 (1 seit März); Herkunft: Wien	(keine)
+House of Ludic	Veranstalter		letztes Event bei uns: 2026-04-04 (1 seit März)	(keine)

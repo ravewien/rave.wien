@@ -1,0 +1,20 @@
+# Eventsuche – Liste v13 (19 Veranstalter). Format: Name<TAB>Art<TAB>bekannte Adressen<TAB>Hinweise<TAB>schon bei uns
+Synergy	Veranstalter		alias: SYNERGY RAVE; letztes Event bei uns: 2026-10-16 (7 seit März); Herkunft: Wien	2026-11-20 Das Werk – Synergy Rave x Trance + Hard Techno
+Cybertribe	Veranstalter		letztes Event bei uns: 2026-11-13 (2 seit März); Herkunft: Wien	2026-12-07 PRST – Cybertribe 11 Years w/ DBBD | 2026-12-18 The Loft – CYBERTRIBE pres. CLUB GSPUSI
+Feuchte Träume	Veranstalter	https://feuchtetraeu.me https://instagram.com/feuchte_traeume	letztes Event bei uns: 2026-08-21 (3 seit März); Herkunft: Wien	2026-12-07 Grelle Forelle – Feuchte Träume – Roses & Thorns
+Spectral	Veranstalter	https://www.instagram.com/enterspectral/	letztes Event bei uns: 2026-11-06 (5 seit März)	(keine)
+Titti Queer Club	Veranstalter	https://www.ttbb.at/ https://www.instagram.com/tittitittibangbang/	alias: Titti Titti Bang Bang, Titty Titty Bang Bang, TTBB; letztes Event bei uns: 2026-10-30 (1 seit März); Herkunft: Wien	2026-12-11 The Loft – Titti Titti Bang Bang
+KARTELL.FM	Veranstalter	https://kartell.fm https://instagram.com/kartell.fm	; Herkunft: Wien	2026-11-20 Das Werk – Synergy Rave x Trance + Hard Techno
+Triple A Events	Veranstalter	https://www.aaa-events.at/	alias: AAA Events; ; Herkunft: Wien	2026-11-27 Prater Dome – Access Another Atmosphere w/ Cosmic Gate & Ruben de Ronde
+VG+	Veranstalter	https://www.instagram.com/very.good.plus/		2026-12-05 Tagada – HOUSETIERE × VG+ Weekender
+Captive Soul	Veranstalter			2026-12-11 Pyramide Vösendorf – SIGNAL Festival w/ Eric Prydz
+Xperiment	Veranstalter	https://www.instagram.com/xperimentrecords/	letztes Event bei uns: 2026-09-26 (3 seit März)	(keine)
+Sorry Mom	Veranstalter	https://linktr.ee/sorrymom.vienna https://www.instagram.com/____sorrymom__	letztes Event bei uns: 2026-11-06 (2 seit März); Herkunft: Wien	(keine)
+Danza Obscura	Veranstalter		letztes Event bei uns: 2026-08-14 (2 seit März)	(keine)
+STRICT!	Veranstalter	https://www.instagram.com/strict_event/	letztes Event bei uns: 2026-11-14 (1 seit März)	(keine)
+Radiance	Veranstalter	https://www.instagram.com/radiance.at/	letztes Event bei uns: 2026-11-13 (1 seit März); Herkunft: Wien	(keine)
+hereandthere	Veranstalter	https://www.instagram.com/hereandthe.re/	letztes Event bei uns: 2026-11-07 (1 seit März); Herkunft: Prag	(keine)
+LustMusik	Veranstalter		letztes Event bei uns: 2026-11-06 (1 seit März); Herkunft: Wien	(keine)
+Bassproduction	Veranstalter		letztes Event bei uns: 2026-10-30 (1 seit März)	(keine)
+Straat 264	Veranstalter	https://www.instagram.com/straat_264/	letztes Event bei uns: 2026-05-30 (1 seit März); Herkunft: Wien	(keine)
+Below the Surface	Veranstalter		letztes Event bei uns: 2026-03-14 (1 seit März); Herkunft: Wien	(keine)
