@@ -20,6 +20,7 @@ const vday = iso => new Date(iso).toLocaleDateString("sv-SE", { timeZone: "Europ
 const RANGES = ["all", "d7", "d14", "d28", "up"];
 const commits = sh("git log --reverse --format=%H%x09%cI -- events.js past.js").trim().split("\n").filter(Boolean).map(l => l.split("\t"));
 const first = { ev: new Map(), art: new Map(), col: new Map(), ven: new Map() };
+let lastN = { art: {}, col: {}, ven: {} }, lastH = { art: new Map(), col: new Map(), ven: new Map() };
 const mark = (m, k, d) => { if (!m.has(k)) m.set(k, d); };
 const snaps = []; let firstDay = null; let lastE = [];
 
@@ -49,11 +50,11 @@ for (const [sha, iso] of commits) {
   const E = [];
   RAW.forEach(e => E.push({ k: e.d + "|" + slug(e.title), d: e.d, venue: e.venue, title: e.title, s: e.s || "",
     arts: (e.floors || []).flatMap(f => (f.a || []).map(nm).flatMap(splitA)), cols: e.coll || [],
-    note: !!(e.note && (e.note.de || e.note.en)), price: has(e.price), genres: has(e.genres), flyer: has(e.flyer),
+    note: !!(e.note && (e.note.de || e.note.en)), price: has(e.price), genres: has(e.genres), flyer: has(e.flyer), tix: has(e.tickets),
     srch: has(e.chk) }));
   PAST.forEach(r => { const x = r[5] || {}; E.push({ k: r[0] + "|" + slug(r[2]), d: r[0], venue: r[1], title: r[2], past: true,
     arts: (r[4] || []).flatMap(splitA), cols: r[3] || [],
-    note: !!(x.note && (x.note.de || x.note.en)), price: has(x.price), genres: false, flyer: false,
+    note: !!(x.note && (x.note.de || x.note.en)), price: has(x.price), genres: false, flyer: false, tix: has(x.tickets),
     srch: has(x.src) || !!x.lu }); });
   E.forEach(e => { e.lineup = e.arts.length > 0; mark(first.ev, e.k, day);
     e.arts.forEach(a => mark(first.art, fa(a), day)); e.cols.forEach(x => mark(first.col, fc(x), day));
@@ -83,7 +84,7 @@ for (const [sha, iso] of commits) {
     const ek = [...new Set(es.map(e => e.k))];
     R[r] = {
       ev: Object.assign({ n: es.length, note: es.filter(e => e.note).length, price: es.filter(e => e.price).length, lineup: es.filter(e => e.lineup).length,
-        genres: es.filter(e => e.genres).length, flyer: es.filter(e => e.flyer).length, srch: es.filter(e => e.srch).length }, nw(first.ev, ek)),
+        genres: es.filter(e => e.genres).length, flyer: es.filter(e => e.flyer).length, tix: es.filter(e => e.tix).length, srch: es.filter(e => e.srch).length }, nw(first.ev, ek)),
       art: Object.assign({ n: ak.length, links: A.filter(a => has(a.links)).length, img: A.filter(a => has(a.img)).length,
         bio: A.filter(a => a.bio && (a.bio.de || a.bio.en)).length, sets: A.filter(a => has(a.sets)).length, sp: A.filter(a => a.links && has(a.links.sp)).length, genres: A.filter(a => has(a.genres)).length, empty: A.filter(emptyA).length,
         ...(r === "all" ? { hid: ak.filter(k => oldHide(HA.get(k), has((ARf[k] || {}).img))).length } : {}),
@@ -93,11 +94,17 @@ for (const [sha, iso] of commits) {
         ...(r === "all" ? { hid: ck.filter(k => oldHide(HC.get(k), has((CIf[k] || {}).logo))).length } : {}),
         srch: Cc.filter(x => has(x.infoChk) || has(x.noLogo) || has(x.logo)).length }, nw(first.col, ck)),
       ven: Object.assign({ n: vk.length, txt: Vv.filter(x => has(x.de) || has(x.en)).length, io: Vv.filter(x => has(x.io)).length,
-        logo: Vv.filter(x => has(x.logo)).length,
+        logo: Vv.filter(x => has(x.logo)).length, web: Vv.filter(x => has(x.web) || has(x.ig)).length,
         ...(r === "all" ? { hid: vk.filter(k => venHide(HV.get(k))).length } : {}),
         srch: Vv.filter(x => has(x.infoChk) || has(x.noLogo) || has(x.logo)).length }, nw(first.ven, vk))
     };
   }
+  const NM = { art: {}, col: {}, ven: {} };
+  E.forEach(e => { e.arts.forEach(x => { const k = fa(x); if (!NM.art[k]) NM.art[k] = x; }); e.cols.forEach(x => { const k = fc(x); if (!NM.col[k]) NM.col[k] = x; });
+    if (!skipV(e.venue)) { const k = vkey(e.venue); if (!NM.ven[k]) NM.ven[k] = String(e.venue).replace(/ (Wanne|Deck)$/, ""); } });
+  Object.keys(AR).forEach(x => NM.art[fold(x)] = x); Object.keys(CI).forEach(x => NM.col[fold(x)] = x);
+  Object.keys(V).concat(Object.keys(VI)).filter(v => !skipV(v)).forEach(v => { NM.ven[vkey(v)] = String(v).replace(/ (Wanne|Deck)$/, ""); });
+  lastN = NM; lastH = { art: HA, col: HC, ven: HV };
   snaps.push({ t: iso, d: day, r: R }); lastE = E;
 }
 snaps.sort((x, y) => new Date(x.t) - new Date(y.t));
@@ -106,5 +113,9 @@ const today = vday(new Date().toISOString()), from30 = addDays(today, -30), seen
 const neu = lastE.filter(e => { const f = first.ev.get(e.k); if (!f || f <= firstDay || f < from30 || seenK.has(e.k)) return false; seenK.add(e.k); return true; })
   .map(e => ({ f: first.ev.get(e.k), d: e.d, s: e.s || "", t: e.title, v: e.venue, a: [...new Set(e.arts)], c: [...new Set(e.cols)], id: e.past ? "" : (e.d + "-" + slug(e.title)).slice(0, 60).replace(/-$/, "") }))
   .sort((x, y) => y.f.localeCompare(x.f) || x.d.localeCompare(y.d) || (x.s || "99").localeCompare(y.s || "99"));
-fs.writeFileSync(path.join(root, "stats.json"), JSON.stringify({ gen: new Date().toISOString(), first: firstDay, snaps, neu }));
+// Neu gefundene Artists, Veranstalter und Locations der letzten 30 Tage (n = Name, u = kommende Termine, s = Adress-Kürzel)
+const neuX = kind => [...first[kind]].filter(([k, f]) => f > firstDay && f >= from30 && lastN[kind][k])
+  .map(([k, f]) => ({ f, n: lastN[kind][k], u: (lastH[kind].get(k) || {}).up || 0, s: slug(lastN[kind][k]) }))
+  .sort((x, y) => y.f.localeCompare(x.f) || y.u - x.u || x.n.localeCompare(y.n, "de"));
+fs.writeFileSync(path.join(root, "stats.json"), JSON.stringify({ gen: new Date().toISOString(), first: firstDay, snaps, neu, neuA: neuX("art"), neuC: neuX("col"), neuV: neuX("ven") }));
 console.log(`${snaps.length} Momentaufnahmen geschrieben.`);

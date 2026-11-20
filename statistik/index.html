@@ -58,6 +58,11 @@ table.tb{border-collapse:collapse;font-family:var(--f-mono);font-size:12px;width
 .err{color:#ff8a9a}
 .neu{margin-top:28px}.neu h2{margin:0;font-family:var(--f-display);font-weight:700;letter-spacing:.12em;text-transform:uppercase;font-size:15px;color:var(--fg)}
 .nsub{color:var(--mute);font-size:13px;margin:4px 0 2px}
+.nbar{display:flex;flex-wrap:wrap;gap:10px 16px;justify-content:space-between;margin:10px 0 6px}.seg .cn{opacity:.7;font-weight:400;margin-left:3px}
+.nt th,.nt td{padding:4px 8px!important;line-height:1.3}.nt td.dt{white-space:nowrap}
+.ngr{margin:12px 0 6px;font:700 11px var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+.nch{display:flex;flex-wrap:wrap;gap:5px}.nch a{border:1px solid var(--line);border-radius:3px;padding:3px 8px;font-size:13px;color:var(--fg);text-decoration:none;background:var(--panel,transparent)}
+.nch a:hover{border-color:var(--accent)}.nch a b{font:700 11px var(--f-mono);color:var(--accent);margin-left:2px}.nch a.nu{color:var(--mute)}
 table.nt{font-family:var(--f-body);font-size:13px}
 .nt th,.nt td{text-align:left;white-space:normal;vertical-align:top;padding:6px 8px}
 .nt td.dt,.nt th.dt{white-space:nowrap;font-family:var(--f-mono);font-size:12px}
@@ -77,13 +82,15 @@ table.nt{font-family:var(--f-body);font-size:13px}
 <div class="rnote" id="rnote"></div>
 <div class="grid" id="cards"></div>
 <details><summary>Tabelle pro Tag</summary><div class="tw" id="tab"></div></details>
-<section class="neu" id="neu" hidden><h2>Neu gefundene Events</h2><div class="nsub" id="nsub"></div><div class="tw"><table class="tb nt" id="ntab"></table></div></section>
+<section class="neu" id="neu" hidden><h2>Neu gefunden</h2>
+ <div class="nbar"><div class="seg" id="segN" role="group" aria-label="Was"></div><div class="seg" id="segD" role="group" aria-label="Zeitraum"><button type="button" data-d="1">Letzter Tag</button><button type="button" data-d="7">7 Tage</button><button type="button" data-d="30">30 Tage</button></div></div>
+ <div class="nsub" id="nsub"></div><div class="tw" id="nwrap"><table class="tb nt" id="ntab"></table></div><div id="nlist"></div></section>
 </main>
 <script src="/vendor/chart.umd.js"></script>
 <script>
 (async()=>{
 const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
-const COLS=[css("--s1"),css("--s2"),css("--s3"),css("--s4"),css("--s5"),css("--s6")],KC={note:COLS[0],bio:COLS[0],txt:COLS[0],price:COLS[1],lineup:COLS[2],genres:COLS[3],flyer:COLS[4],img:COLS[4],logo:COLS[4],links:COLS[5],web:COLS[5],sets:css("--s7"),sp:css("--s8"),io:css("--s9")},SR=css("--srch"),LINE=css("--line"),FG=css("--fg"),MUTE=css("--mute"),ACC=css("--accent");
+const COLS=[css("--s1"),css("--s2"),css("--s3"),css("--s4"),css("--s5"),css("--s6")],KC={note:COLS[0],bio:COLS[0],txt:COLS[0],price:COLS[1],lineup:COLS[2],genres:COLS[3],flyer:COLS[4],img:COLS[4],logo:COLS[4],links:COLS[5],web:COLS[5],tix:COLS[5],sets:css("--s7"),sp:css("--s8"),io:css("--s9")},SR=css("--srch"),LINE=css("--line"),FG=css("--fg"),MUTE=css("--mute"),ACC=css("--accent");
 let data;try{data=await (await fetch("/stats.json?"+Date.now(),{cache:"no-store"})).json()}catch(e){document.getElementById("sub").innerHTML='<span class="err">Statistik konnte nicht geladen werden.</span>';return}
 const S=(data.snaps||[]).filter(s=>s.r);if(!S.length){document.getElementById("sub").textContent="Noch keine Daten.";return}
 const vday=t=>new Date(t).toLocaleDateString("sv-SE",{timeZone:"Europe/Vienna"});
@@ -94,10 +101,10 @@ const first=S[0],last=S[S.length-1],FD=dlbl(data.first||vday(first.t)).slice(3);
 document.getElementById("sub").textContent=`Stand: ${lbl(last.t)} · ${S.length} Datenstände seit ${FD} · „neu“ = erstmals in den Daten aufgetaucht (der Bestand vom ${FD} zählt nicht als neu)`;
 const RN={all:"Alle Events inklusive Archiv seit 2024. Bei vergangenen Events gibt es weniger Felder (kein Flyer, keine Genres).",d7:"Events in den nächsten 7 Tagen und alle Artists, Veranstalter und Locations, die darin vorkommen.",d14:"Events in den nächsten 14 Tagen und alle Artists, Veranstalter und Locations, die darin vorkommen.",d28:"Events in den nächsten 28 Tagen und alle Artists, Veranstalter und Locations, die darin vorkommen.",up:"Alle kommenden Events im Kalender und alle Artists, Veranstalter und Locations, die darin vorkommen."};
 const CAT=[
- {k:"ev",t:"Events",sl:"schon geprüft",m:[["Beschreibung","note"],["Preis","price"],["Line-up","lineup"],["Genres","genres"],["Flyer","flyer"]]},
+ {k:"ev",t:"Events",sl:"schon geprüft",m:[["Beschreibung","note"],["Preis","price"],["Line-up","lineup"],["Genres","genres"],["Flyer","flyer"],["Ticketlink","tix"]]},
  {k:"art",t:"Artists",sl:"schon gesucht",m:[["Links","links"],["Bild","img"],["Bio","bio"],["Sets","sets"],["Spotify","sp"],["Genres","genres"]]},
  {k:"col",t:"Veranstalter",sl:"schon gesucht",m:[["Text","txt"],["Website/Instagram","web"],["Logo","logo"],["Genres","genres"]]},
- {k:"ven",t:"Locations",sl:"schon gesucht",m:[["Indoor/Outdoor","io"],["Text","txt"],["Logo","logo"]]}];
+ {k:"ven",t:"Locations",sl:"schon gesucht",m:[["Indoor/Outdoor","io"],["Text","txt"],["Website/Instagram","web"],["Logo","logo"]]}];
 Chart.defaults.color=MUTE;Chart.defaults.locale="de-AT";Chart.defaults.font.family=css("--f-mono")||"monospace";Chart.defaults.font.size=11;Chart.defaults.borderColor=LINE;
 const tip={backgroundColor:"#0b0d10",borderColor:LINE,borderWidth:1,titleColor:FG,bodyColor:FG,padding:8,boxPadding:4};
 const t0=new Date(vday(first.t)+"T00:00:00").getTime()-3600e3,t1=Math.max(Date.parse(last.t),t0+86400e3);
@@ -141,12 +148,26 @@ document.querySelectorAll("#segR button").forEach(b=>b.onclick=()=>{R=b.dataset.
 document.querySelectorAll("#segM button").forEach(b=>b.onclick=()=>{M=b.dataset.m;try{localStorage.setItem("rw-statM",M)}catch(_){}render()});
 render();
 // Neu gefundene Events (letzte 30 Tage), gruppiert nach Fundtag
-const N=data.neu||[];if(N.length){const esc=x=>String(x==null?"":x).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"})[c]);
- const lst=(a,max)=>a.length?esc(a.slice(0,max).join(", "))+(a.length>max?` <span class="mu">+${a.length-max}</span>`:""):'<span class="mu">–</span>';
- const days=[...new Set(N.map(x=>x.f))];document.getElementById("nsub").textContent=`${fmt(N.length)} Events in den letzten 30 Tagen erstmals gefunden · nach Fundtag, darin nach Datum`;
- document.getElementById("ntab").innerHTML=`<thead><tr><th class="dt">Datum</th><th>Event</th><th>Artists</th><th>Veranstalter</th><th>Location</th></tr></thead><tbody>${days.map(f=>{const L=N.filter(x=>x.f===f);
-  return `<tr class="gr"><td colspan="5">gefunden ${dlbl(f)} · ${L.length}</td></tr>`+L.map(x=>`<tr><td class="dt">${dlbl(x.d)}${x.s?"<br>"+esc(x.s):""}</td><td class="ev">${x.id?`<a href="/e/${encodeURIComponent(x.id)}">${esc(x.t)}</a>`:esc(x.t)}</td><td class="ar">${lst(x.a,8)}</td><td>${lst(x.c,4)}</td><td>${esc(x.v)}</td></tr>`).join("")}).join("")}</tbody>`;
- document.getElementById("neu").hidden=false}
+{const esc=x=>String(x==null?"":x).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"})[c]);
+ const NN={ev:data.neu||[],art:data.neuA||[],col:data.neuC||[],ven:data.neuV||[]},NT={ev:"Events",art:"Artists",col:"Veranstalter",ven:"Locations"},NP={art:"a",col:"c",ven:"v"};
+ const allF=[...new Set(Object.values(NN).flatMap(l=>l.map(x=>x.f)))].sort().reverse();
+ if(allF.length){let nk="ev",nd=1;try{nk=localStorage.getItem("st-nk")||"ev";nd=+localStorage.getItem("st-nd")||1}catch(_){}if(!NN[nk])nk="ev";
+  const lst=(a,max)=>a.length?esc(a.slice(0,max).join(", "))+(a.length>max?` <span class="mu">+${a.length-max}</span>`:""):'<span class="mu">–</span>';
+  const minF=()=>{if(nd===1)return allF[0];const t=new Date(allF[0]+"T12:00:00Z");t.setUTCDate(t.getUTCDate()-(nd-1));return t.toISOString().slice(0,10)};
+  const drawN=()=>{const lo=minF(),inD=x=>nd===1?x.f===lo:x.f>=lo;
+   document.getElementById("segN").innerHTML=Object.keys(NT).map(k=>`<button type="button" data-n="${k}" aria-pressed="${k===nk}">${NT[k]} <span class="cn">${fmt(NN[k].filter(inD).length)}</span></button>`).join("");
+   document.querySelectorAll("#segD button").forEach(b=>b.setAttribute("aria-pressed",String(+b.dataset.d===nd)));
+   const L=NN[nk].filter(inD),days=[...new Set(L.map(x=>x.f))];
+   document.getElementById("nsub").textContent=L.length?`${fmt(L.length)} ${NT[nk]} ${nd===1?"am "+dlbl(lo):"seit "+dlbl(lo)} erstmals gefunden`+(nk==="ev"?"":" · Zahl = kommende Termine"):`Keine neuen ${NT[nk]} ${nd===1?"am "+dlbl(lo):"seit "+dlbl(lo)}.`;
+   const tab=document.getElementById("ntab"),wrap=document.getElementById("nwrap"),list=document.getElementById("nlist");
+   if(nk==="ev"){list.innerHTML="";wrap.hidden=!L.length;
+    tab.innerHTML=`<thead><tr><th class="dt">Datum</th><th>Event</th><th>Artists</th><th>Veranstalter</th><th>Location</th></tr></thead><tbody>${days.map(f=>{const D=L.filter(x=>x.f===f);
+     return (days.length>1?`<tr class="gr"><td colspan="5">gefunden ${dlbl(f)} · ${D.length}</td></tr>`:"")+D.map(x=>`<tr><td class="dt">${dlbl(x.d)}${x.s?" "+esc(x.s):""}</td><td class="ev">${x.id?`<a href="/e/${encodeURIComponent(x.id)}">${esc(x.t)}</a>`:esc(x.t)}</td><td class="ar">${lst(x.a,6)}</td><td>${lst(x.c,3)}</td><td>${esc(x.v)}</td></tr>`).join("")}).join("")}</tbody>`}
+   else{wrap.hidden=true;list.innerHTML=days.map(f=>{const D=L.filter(x=>x.f===f);
+     return (days.length>1?`<div class="ngr">gefunden ${dlbl(f)} · ${D.length}</div>`:"")+`<div class="nch">${D.map(x=>`<a href="/${NP[nk]}/${encodeURIComponent(x.s)}"${x.u?"":' class="nu"'}>${esc(x.n)}${x.u?` <b>${x.u}</b>`:""}</a>`).join("")}</div>`}).join("")}};
+  document.getElementById("segN").addEventListener("click",e=>{const b=e.target.closest("button[data-n]");if(!b)return;nk=b.dataset.n;try{localStorage.setItem("st-nk",nk)}catch(_){}drawN()});
+  document.getElementById("segD").addEventListener("click",e=>{const b=e.target.closest("button[data-d]");if(!b)return;nd=+b.dataset.d;try{localStorage.setItem("st-nd",String(nd))}catch(_){}drawN()});
+  drawN();document.getElementById("neu").hidden=false}}
 })();
 </script>
 </body></html>
