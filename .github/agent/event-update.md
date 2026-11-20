@@ -76,6 +76,12 @@ Filter „Quellenlage“: „Website der Location“, „Website des Veranstalte
 - Von der Location nicht mehr geführte Events nur entfernen, wenn sie auch auf RA bzw. beim Veranstalter fehlen (nie bei man:1). `unconf:1` bleibt, bis offiziell angekündigt.
 - "TBA" heißt: Location noch nicht angekündigt (keine echte Location). "Secret Location": nur, wenn ausdrücklich geheim. Beide nie als Location in V/VI anlegen.
 
+**NEUPRÜFUNG NACH DEM ABRUFDIENST (seit 20.11.2026):** Viele `na`-Einträge (price, flyer, lineup, tickets, e) stammen aus der Zeit, als Läufe Seiten nicht lesen konnten. Bei jeder fälligen Prüfung eines Events fehlende price/flyer/Lineup neu suchen, auch wenn sie in `na` stehen und `na` vor dem 20.11.2026 gesetzt wurde. Konkret:
+- `flyer`: In der Kopie der Eventseite (Location, Veranstalter, Ticketshop, goabase, Techno Airlines → dort verlinkte Eventseite) nach `OG:IMAGE:`, `"image"` im JSON-LD und `[Bild … https://…]` suchen. Nehmen, wenn es das Bild genau dieses Events ist (Flyer/Key-Visual): NICHT das Logo/Favicon der Website, kein Platzhalter, nicht dasselbe Bild wie das og:image der Startseite derselben Website, nicht das Bild eines anderen Events. Adresse unverändert übernehmen (Regeln für `flyer` unten beachten).
+- `price`: JSON-LD `offers`/`price`, Ticketkategorien im Ticketshop (ticket.io, eventbrite, frey-tag, oeticket, eventim-light, partyticket), Text „Eintritt/VVK/AK/Abendkasse/€“ auf Location- und Veranstalterseite. Regulären Preis zuerst, Ermäßigung danach mit „ / “; „AK x €“ wenn nur Abendkasse.
+- Lineup (`lineup`): Eventtext der Location/des Veranstalters, Timetable-Bilder nur wenn als Text vorhanden, JSON-LD `performer`; RA-Lineup aus WebSearch-Treffern (allowed_domains ["ra.co"], „<Titel> <Location>“). Gibt es wirklich noch kein Lineup: Event bleibt TBA, `lineup` in `na`.
+- Erst wenn mindestens die Eventseite der Location UND eine weitere Quelle (Veranstalter, Ticketshop oder RA-Treffer) gelesen sind und nichts liefern, das Feld wieder in `na` eintragen.
+
 ## Schritt 4: Genres
 Genres am Event NUR übernehmen, wenn sie für genau dieses Event in einer Quelle stehen (Eventtext, RA-Genre-Tags, Location-Programm). Keine Genres aus dem Veranstalter-Profil (CG) ans Event kopieren; unbelegte Event-Genres bei der nächsten fälligen Prüfung entfernen (nicht bei man:1). Keine Nicht-Musik-Begriffe und keine Veranstalternamen als Genre. Sammelbegriffe immer in einzelne Genres aufteilen: „Melodic House & Techno“ → "Melodic House" und "Techno" (nie als ein Genre eintragen); „Drum & Bass“ bleibt ein Genre.
 
