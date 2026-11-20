@@ -27,7 +27,7 @@ const g = path.join(tmp, "g"); sh(`git clone -q --depth 1 -b ${branch} https://g
 sh(`node ${path.join(__dirname, "abruf-krypt.js")} auf ${g}/abruf.enc ${tmp}/k.pem ${tmp}/a.tgz`);
 const z = urls.length ? path.join(ziel, "nach-" + branch.slice(6)) : ziel;
 fs.mkdirSync(z, { recursive: true }); sh(`tar xzf ${tmp}/a.tgz -C ${z}`);
-if (urls.length) { try { sh(`git push -q https://x-access-token:$(gh auth token)@github.com/${repo}.git --delete ${branch}`, { cwd: g }); } catch (_) { try { sh(`gh api -X DELETE repos/${repo}/git/refs/heads/${branch}`); } catch (_) {} } }
+// Nachlade-Branch wird vom Workflow nach 2 Stunden automatisch gelöscht.
 fs.rmSync(tmp, { recursive: true, force: true });
 const st = JSON.parse(fs.readFileSync(path.join(z, "status.json"), "utf8"));
 console.log(`entpackt nach ${z}: ${st.ok} Seiten ok, ${st.fehler} Fehler (Stand ${st.zeit})`);

@@ -29,6 +29,13 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Alte Nachlade-Branches aufräumen
+        run: |
+          now=$(date +%s)
+          for b in $(git ls-remote --heads origin 'abruf-n*' | sed 's#.*refs/heads/##'); do
+            t=$(node -e 'const s=process.argv[1].slice(7,15);const v=parseInt(s,36);console.log(isNaN(v)?0:Math.floor(v/1000))' "$b")
+            if [ $((now - t)) -gt 7200 ]; then git push -q origin --delete "$b" || true; echo "gelöscht: $b"; fi
+          done
       - name: Abrufen
         env:
           URLS: ${{ github.event.inputs.urls }}
