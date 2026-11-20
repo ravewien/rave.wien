@@ -46,6 +46,36 @@ DESCRIPTION:Robert Maslach\, Fede Frostl\, The Wash\, Edictum\nVeranstalt
 URL:https://rave.wien/e/2026-12-04-empyreon-vol-iv
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-02-05-empyreon-vol-v@rave.wien
+DTSTAMP:20270205T000000Z
+DTSTART;TZID=Europe/Vienna:20270205T220000
+DTEND;TZID=Europe/Vienna:20270206T030000
+SUMMARY:Empyreon – Vol. V
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Veranstalter: Empyreon\nEintritt: Freie Spende\n\nFünfte Aus
+ gabe der Reihe Empyreon im Wohnzimmer des The Loft\, Beginn 22:00. Empyr
+ eon will in Wien eine Underground-Szene für Progressive House aufbauen\
+ ; die Location taggt den Abend mit Techno. Das Lineup ist noch tba\, Ein
+ tritt gegen freie Spende.\n\nhttps://rave.wien/e/2027-02-05-empyreon-vol
+ -v
+URL:https://rave.wien/e/2027-02-05-empyreon-vol-v
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-05-empyreon-vol-vi@rave.wien
+DTSTAMP:20270305T000000Z
+DTSTART;TZID=Europe/Vienna:20270305T220000
+DTEND;TZID=Europe/Vienna:20270306T030000
+SUMMARY:Empyreon – Vol. VI
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Veranstalter: Empyreon\nEintritt: Freie Spende\n\nSechste Aus
+ gabe der Reihe Empyreon im Wohnzimmer des The Loft\, Beginn 22:00. Empyr
+ eon will in Wien eine Underground-Szene für Progressive House aufbauen\
+ ; die Location taggt den Abend mit Techno. Das Lineup ist noch tba\, Ein
+ tritt gegen freie Spende.\n\nhttps://rave.wien/e/2027-03-05-empyreon-vol
+ -vi
+URL:https://rave.wien/e/2027-03-05-empyreon-vol-vi
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-empyreon-vol-iii@rave.wien
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Vienna:20261106T220000

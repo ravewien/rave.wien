@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Beaks · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-21-beaks@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T200000
+DTEND;TZID=Europe/Vienna:20261121T230000
+SUMMARY:Beaks
+LOCATION:Kollektiv Kaorle\, Baumgartner Höhe 1 (Otto Wagner Areal\, Pavi
+ llon 21)\, 1140 Wien
+DESCRIPTION:Beaks\n\nAbend mit Beaks im Pavillon 21 des Kollektiv Kaorle 
+ am Otto Wagner Areal\, von 20:00 bis 23:00. Weitere Acts\, Genre und Pre
+ is sind auf RA und Techno Airlines nicht angegeben\; Tickets gibt es üb
+ er den verlinkten Stager-Shop.\n\nhttps://rave.wien/e/2026-11-21-beaks
+URL:https://rave.wien/e/2026-11-21-beaks
+END:VEVENT
+END:VCALENDAR
