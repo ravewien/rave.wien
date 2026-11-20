@@ -72,3 +72,26 @@ Parallel laufen mehrere Sonderläufe und die täglichen Läufe. events.js NIE di
 
 ## Abschluss-Nachricht (Deutsch, kurz)
 Liste <id>; ob alle Pushes geklappt haben (sonst genaue Meldung); je Quelle: welche Seiten gelesen, wie viele Termine im Zeitraum gefunden, wie viele davon schon vorhanden, wie viele neu eingetragen (Datum · Location · Titel), wie viele bewusst nicht eingetragen (kurzer Grund: keine elektronische Musik, außerhalb Wiens …); nachgetragene `vok`; gemeldete Absagen/Verschiebungen; unklare Fälle; GEBLOCKTE ODER NICHT ABRUFBARE ADRESSEN (vollständige Adresse + Fehlermeldung) – getrennt nach (a) aus der Startnachricht, (b) über Suche gefunden; Quellen, zu denen gar kein Programm auffindbar war.
+
+## Lauf-Bericht speichern (zwingend, allerletzter Schritt – auch wenn der Lauf abgebrochen wird oder nichts gefunden hat)
+Die Abschluss-Nachricht zusätzlich als Datei ins Repo legen, damit die tägliche Kontrolle sie lesen kann:
+1. Datei `/home/claude/rave.wien/.github/agent/berichte/<JJJJ-MM-TT>_<HHMM>_<lauf>.md` schreiben (Zeit = Ende des Laufs, Europe/Vienna; `<lauf>` = `eventsuche-<id>`, bei Sonderläufen mit Listen-ID, z. B. `eventsuche-k03`). Inhalt:
+   ```
+   lauf: <lauf>
+   ende: <JJJJ-MM-TT HH:MM>
+   push: ok | fehlgeschlagen (<Meldung>)
+   abrufe_ok: <Zahl der erfolgreichen WebFetch-Abrufe>
+   abrufe_abgelehnt: <Zahl der abgelehnten/blockierten Abrufe>
+   unteragenten: nein | ja (<Anzahl>)
+   neu: <Zahl>  geaendert: <Zahl>
+   probleme: keine | <Stichworte: Freigabe-Anfragen, 403/Captcha, Zeitlimit, Push abgelehnt, Prüfung fehlgeschlagen …>
+
+   ## Abschluss-Nachricht
+   <die Abschluss-Nachricht wörtlich>
+
+   ## Geblockte oder abgelehnte Adressen
+   <eine pro Zeile: Adresse – Fehlermeldung/Grund (Freigabe-Anfrage | 403 | Captcha | Timeout | Herkunft abgelehnt | leer)>, oder „keine“
+   ```
+2. Eigener Commit NUR mit dieser Datei (nach dem Daten-Commit, nie zusammen mit events.js/past.js):
+   `cd /home/claude/rave.wien && git fetch --depth 1 origin main && git reset --hard origin/main` → Datei (neu) schreiben → `git add .github/agent/berichte && git commit -m "Lauf-Bericht <JJJJ-MM-TT> <lauf>" && git push origin HEAD:main` (bei abgelehntem Push bis zu 3-mal wiederholen). Die Nachricht darf NICHT mit „Daten-Update“ beginnen.
+3. Keine Passwörter, Schlüssel oder persönlichen Daten in den Bericht (das Repo ist öffentlich).
