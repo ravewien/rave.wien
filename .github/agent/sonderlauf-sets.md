@@ -1,5 +1,7 @@
 # Sondersuchlauf: Sets und Spotify-Links für Artists mit kommenden Events
 
+**WEBFETCH LADEN (zwingend, ganz am Anfang):** Ist das Tool WebFetch nicht direkt aufrufbar, ist es nur „verzögert“ geladen: dann sofort ToolSearch mit query "select:WebFetch,WebSearch" aufrufen – danach ist es nutzbar. Ohne WebFetch nur mit Suchtreffern zu arbeiten ist NICHT erlaubt: Lässt es sich auch so nicht laden, abbrechen, nichts eintragen und in der Abschluss-Nachricht (und im Bericht unter `probleme`) „WebFetch nicht verfügbar“ melden.
+
 **ALLES SELBST MACHEN (zwingend):** KEINE Unteragenten starten (kein Agent-/Task-Tool). Jede Websuche und jeden Seitenabruf im Hauptlauf selbst ausführen – Unteragenten haben keine Freigabe für Adressen, dort bleibt jeder Abruf an einer unbeantworteten Freigabe-Anfrage hängen. Mehrere WebSearch-/WebFetch-Aufrufe gleichzeitig in einer Antwort sind erwünscht.
 
 Ziel: Sets (SoundCloud/Mixcloud) und der Spotify-Link sind der wichtigste Teil eines Artist-Profils. Dieser Lauf füllt die Lücke – und macht NUR das: keine Bilder, keine Bios, keine anderen Links, keine Veranstalter, keine Locations. Alles auf Deutsch.

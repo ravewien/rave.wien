@@ -1,5 +1,7 @@
 # Sonderlauf: Veranstalter- und Location-Profile (Logo, Links, Text, Floors …)
 
+**WEBFETCH LADEN (zwingend, ganz am Anfang):** Ist das Tool WebFetch nicht direkt aufrufbar, ist es nur „verzögert“ geladen: dann sofort ToolSearch mit query "select:WebFetch,WebSearch" aufrufen – danach ist es nutzbar. Ohne WebFetch nur mit Suchtreffern zu arbeiten ist NICHT erlaubt: Lässt es sich auch so nicht laden, abbrechen, nichts eintragen und in der Abschluss-Nachricht (und im Bericht unter `probleme`) „WebFetch nicht verfügbar“ melden.
+
 **ALLES SELBST MACHEN (zwingend):** KEINE Unteragenten starten (kein Agent-/Task-Tool). Jede Websuche und jeden Seitenabruf im Hauptlauf selbst ausführen – Unteragenten haben keine Freigabe für Adressen, dort bleibt jeder Abruf an einer unbeantworteten Freigabe-Anfrage hängen. Mehrere WebSearch-/WebFetch-Aufrufe gleichzeitig in einer Antwort sind erwünscht.
 
 Ziel: Die Profile der Veranstalter/Kollektive und der Locations auf rave.wien möglichst vollständig machen. Vielen fehlt vor allem das Logo, oft auch Links oder der Text. Die meisten wurden Anfang November schon einmal gesucht – dieser Lauf probiert es gründlicher und mit weiteren Wegen. Nur die Einträge deiner Liste; keine Artists, keine Events. Alles auf Deutsch. Diese Datei enthält alle Regeln; keine andere Anweisungsdatei lesen.

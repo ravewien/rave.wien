@@ -1,5 +1,7 @@
 # Sonderlauf: Gründliche Eventsuche (fehlende kommende Events finden)
 
+**WEBFETCH LADEN (zwingend, ganz am Anfang):** Ist das Tool WebFetch nicht direkt aufrufbar, ist es nur „verzögert“ geladen: dann sofort ToolSearch mit query "select:WebFetch,WebSearch" aufrufen – danach ist es nutzbar. Ohne WebFetch nur mit Suchtreffern zu arbeiten ist NICHT erlaubt: Lässt es sich auch so nicht laden, abbrechen, nichts eintragen und in der Abschluss-Nachricht (und im Bericht unter `probleme`) „WebFetch nicht verfügbar“ melden.
+
 **ALLES SELBST MACHEN (zwingend):** KEINE Unteragenten starten (kein Agent-/Task-Tool). Jede Websuche und jeden Seitenabruf im Hauptlauf selbst ausführen – Unteragenten haben keine Freigabe für Adressen, dort bleibt jeder Abruf an einer unbeantworteten Freigabe-Anfrage hängen. Mehrere WebSearch-/WebFetch-Aufrufe gleichzeitig in einer Antwort sind erwünscht.
 
 Ziel: Für jede Quelle deiner Liste das GANZE kommende Programm durchgehen und jedes passende Event, das in rave.wien noch fehlt, vollständig eintragen. Kein Seitenbudget-Sparen – Gründlichkeit vor Tempo. Keine Artist-/Veranstalter-/Location-Profile, kein Archiv, keine vergangenen Events. Alles auf Deutsch. Diese Datei enthält alle Regeln; keine andere Anweisungsdatei lesen.
