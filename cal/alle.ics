@@ -2093,6 +2093,30 @@ URL:https://rave.wien/e/2026-12-07-melodic-monday-x-mas-dayparty-afro-tec
  h-melodic-h
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-07-expedition-im-traumtempo-by-garten-von-eben-unloc@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T180000
+DTEND;TZID=Europe/Vienna:20261207T230000
+SUMMARY:Expedition im Traumtempo by Garten von Eben & unlock|me
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Deck: MA7A\, Paul Parsel\, Sia Moan\, Lipo\, Bowiedl & Gorman
+ \, Nugi\, Tribea\nWanne: L!KA\, Achronon\, Eren Duman\, Otto Wagina\, Mo
+ odshifter\, zwb\nVeranstalter: Garten von Eben\, unlock|me\nEintritt: VV
+ K 17 € / mit Workshop 27 € / AK 17 € bis 21 Uhr\, danach 22 €\n\
+ nAbschiedsfest in Traumtempo-Manier von Garten von Eben und unlock|me ü
+ ber beide FLUCC-Floors: Marius verabschiedet sich in eine wohlverdiente 
+ Ruhepause und lädt alle Freund:innen zu einer letzten gemeinsamen Traum
+ reise ein\, getanzt wird bis in den Morgen. Um 18 Uhr beginnt am Deck ei
+ n Connected-Breathwork-Workshop mit Olivia (nur mit Vorverkaufsticket in
+ kl. Workshop)\, ab 20 Uhr Club am Deck\, ab 21:30 in der Wanne. Am Deck 
+ spielen u. a. MA7A b2b Paul Parsel\, Sia Moan\, Lipo\, Bowiedl & Gorman\
+ , Nugi und Tribea (wundertüte.)\, in der Wanne L!KA\, Achronon live\, E
+ ren Duman\, Otto Wagina sowie Moodshifter b2b zwb.\n\nhttps://rave.wien/
+ e/2026-12-07-expedition-im-traumtempo-by-garten-von-eben-unloc
+URL:https://rave.wien/e/2026-12-07-expedition-im-traumtempo-by-garten-von
+ -eben-unloc
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-07-feuchte-traume-roses-thorns@rave.wien
 DTSTAMP:20261207T000000Z
 DTSTART;TZID=Europe/Vienna:20261207T210000
