@@ -52963,6 +52963,38 @@ const AR={
    "de": "Drum-&-Bass-DJ, der laut Veranstalter mit energiegeladenen Sets viral geht: Er mischt alle Spielarten von Drum & Bass mit seinem hüpfenden Jump-up-Stil. Markenzeichen ist sein Cowboyhut.",
    "en": "Drum & bass DJ who, according to the promoter, has gone viral with high-energy sets that mix every drum & bass sub-genre with his bouncy jump-up style. His trademark is a cowboy hat."
   }
+ },
+ "Sliqx": {
+  "links": {
+   "sc": "https://soundcloud.com/sliqx"
+  },
+  "sets": [
+   {
+    "t": "DJ CONTEST ROOM36",
+    "u": "https://soundcloud.com/sliqx/dj-contest-room36-sliqx"
+   },
+   {
+    "t": "SHOOTOUT MIX VOL.1 BY SLIQX",
+    "u": "https://soundcloud.com/shooterzz/shootout-vol1-by-sliqx"
+   },
+   {
+    "t": "TAPPSI B2B SLIQX",
+    "u": "https://soundcloud.com/tappzdubz/tappsi-b2b-sliqx-riddestic-2018-set"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/sliqx"
+  ],
+  "setsChecked": "2026-11-20",
+  "spChk": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "y?k": {
+  "spChk": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
  }
 };
 
