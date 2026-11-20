@@ -124,8 +124,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-sonic-grounds-ed-5@rave.wien
 DTSTAMP:20261205T000000Z
-DTSTART;TZID=Europe/Vienna:20261205T190000
-DTEND;TZID=Europe/Vienna:20261206T000000
+DTSTART;TZID=Europe/Vienna:20261205T180000
+DTEND;TZID=Europe/Vienna:20261205T230000
 SUMMARY:Sonic Grounds Ed. 5
 LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
 DESCRIPTION:\nFünfte Ausgabe von Sonic Grounds im Funkhaus Wien. Laut mu

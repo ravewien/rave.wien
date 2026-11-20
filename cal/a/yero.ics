@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Yero · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-04-booster-club@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T050000
+SUMMARY:Booster Club
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Yero\, DJ Lucy Bakanal\, gute ausländerin\, Kontaminierungsa
+ larm\, Flo\nVeranstalter: Tanz oder gar nicht\, Booster Club\nEintritt: 
+ 0–20 € (Spende\, nur AK)\n\n„F+ck die Welt“ – Fundraiser-Party
+  des Kollektivs Booster Club im FLUCC Deck von 23 bis 5 Uhr. Der Erlös 
+ unterstützt eine queere geflüchtete Person aus dem Freundeskreis\, die
+  wegen Arbeitslosigkeit\, gesundheitlicher Probleme und Sprachhürden Mi
+ ete und Rechnungen derzeit nicht zahlen kann. Es legen Yero\, DJ Lucy Ba
+ kanal\, gute ausländerin\, Kontaminierungsalarm und Flo auf. Eintritt g
+ egen Spende nach eigenem Ermessen (0–20 €)\, nur an der Abendkasse. 
+ Der Termin stand zuvor als „Tanz oder gar nicht“ im Programm.\n\nhtt
+ ps://rave.wien/e/2026-12-04-booster-club
+URL:https://rave.wien/e/2026-12-04-booster-club
+END:VEVENT
+END:VCALENDAR
