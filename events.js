@@ -53281,6 +53281,358 @@ const AR={
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
   "noLinks": "2026-11-20"
+ },
+ "GORYO": {
+  "links": {
+   "sc": "https://soundcloud.com/arnold-villanova"
+  },
+  "sets": [
+   {
+    "t": "2024.03.15. Therapy Sessions - GORYO",
+    "u": "https://soundcloud.com/arnold-villanova/20240315-therapy-sessions-goryo"
+   },
+   {
+    "t": "Core Carneval / Othercide DNB Podcast by GORYO",
+    "u": "https://soundcloud.com/arnold-villanova/core-carneval-othercide-dnb-podcast-by-goryo"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/arnold-villanova"
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "STONERICE": {
+  "links": {
+   "sc": "https://soundcloud.com/stonerice"
+  },
+  "sets": [
+   {
+    "t": "[PERK-DNB-PODCAST019] Stonerice",
+    "u": "https://soundcloud.com/perkussiv/perk-dnb-podcast019-stonerice"
+   },
+   {
+    "t": "Stonerice",
+    "u": "https://soundcloud.com/beatsafaridnb/stonerice"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/stonerice"
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "QUADRILLE": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "ENDSEARCH": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "SO:NA": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "CONCISE": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "Joules": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "Baltazar": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "Attrick": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "Bahosh": {
+  "links": {
+   "sc": "https://soundcloud.com/user-92999886"
+  },
+  "src": [
+   "https://soundcloud.com/user-92999886"
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "Gatodelic": {
+  "links": {
+   "sc": "https://soundcloud.com/gatodelic"
+  },
+  "sets": [
+   {
+    "t": "Dj Set 3DNA Festival 2022 live recording",
+    "u": "https://soundcloud.com/gatodelic/dj-set-3dna-festival-2022-live"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/gatodelic"
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "Noisia": {
+  "links": {
+   "ra": "https://ra.co/dj/noisia",
+   "sc": "https://soundcloud.com/noisia"
+  },
+  "sets": [
+   {
+    "t": "Noisia Radio S05E26 (Noisia DJ Set @ Noisia Invites 2019)",
+    "u": "https://soundcloud.com/noisiaradio/noisia-radio-s05e26-noisia-dj-set-noisia-invites-2019"
+   },
+   {
+    "t": "Noisia Radio S03E33 (Noisia DJ Set At Glastonbury 2017)",
+    "u": "https://soundcloud.com/noisiaradio/noisia-radio-s03e33-noisia-dj-set-at-glastonbury-2017"
+   },
+   {
+    "t": "Noisia Set @ Pirate Station Inferno, St. Petersburg 22-03-2014",
+    "u": "https://soundcloud.com/noisia/noisia-set-pirate-station"
+   }
+  ],
+  "spChk": "2026-11-20",
+  "src": [
+   "https://ra.co/dj/noisia",
+   "https://soundcloud.com/noisia"
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "Supergloss": {
+  "links": {
+   "ra": "https://ra.co/dj/supergloss",
+   "sc": "https://soundcloud.com/superglozz"
+  },
+  "sets": [
+   {
+    "t": "Supergloss at Intercell Indoor 2024",
+    "u": "https://soundcloud.com/intercell/supergloss-intercell-indoor"
+   },
+   {
+    "t": "Supergloss - Fusion Festival 2023 - Turmbühne",
+    "u": "https://soundcloud.com/superglozz/supergloss-fusion-festival2023"
+   },
+   {
+    "t": "Intercell.065 - Supergloss",
+    "u": "https://soundcloud.com/intercell/intercell064-supergloss"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/supergloss",
+   "https://soundcloud.com/superglozz"
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "YØNDER": {
+  "links": {
+   "sc": "https://soundcloud.com/yondertechno"
+  },
+  "sets": [
+   {
+    "t": "YØNDER - UNFACED x HERZFREQUENZ @ HAUS 33 (05.10.2024) SET RECORDING",
+    "u": "https://soundcloud.com/herzfrequenz_techno/yonder-haus33-051024"
+   },
+   {
+    "t": "YØNDER - VERKNALLT w/ HERZFREQUENZ + XENIA @ EXIL (14.06.2024) SET RECORDING",
+    "u": "https://soundcloud.com/herzfrequenz_techno/yonder-verknallt"
+   },
+   {
+    "t": "YØNDER - CLASH @ DAS WERK (30.03.2024) SET RECORDING",
+    "u": "https://soundcloud.com/herzfrequenz_techno/clash_yonder_240330"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/yondertechno"
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "Chewlie": {
+  "links": {
+   "sc": "https://soundcloud.com/juicy_chewlie"
+  },
+  "src": [
+   "https://soundcloud.com/juicy_chewlie"
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "Jan Loup": {
+  "links": {
+   "ra": "https://ra.co/dj/janloup",
+   "sc": "https://soundcloud.com/janloup"
+  },
+  "sets": [
+   {
+    "t": "Jan Loup — KuH 2024",
+    "u": "https://soundcloud.com/kleinundhaarig/2024-jan-loup"
+   },
+   {
+    "t": "Mana-Machine w/ Jan-Loup",
+    "u": "https://soundcloud.com/lyl_radio/mana-machine-w-jan-loup"
+   },
+   {
+    "t": "Matière Podcast 39 // Jan Loup",
+    "u": "https://soundcloud.com/matiere-production/matiere-podcast-39-jan-loup"
+   }
+  ],
+  "src": [
+   "https://ra.co/dj/janloup",
+   "https://soundcloud.com/janloup"
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "nastynancy": {
+  "links": {
+   "sc": "https://soundcloud.com/nasty_nancy"
+  },
+  "src": [
+   "https://soundcloud.com/nasty_nancy"
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "Moosiqunt": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "Niko Garcia": {
+  "links": {
+   "sc": "https://soundcloud.com/nikogarcia-oficial"
+  },
+  "sets": [
+   {
+    "t": "Epiphany Podcast #102 - Niko Garcia",
+    "u": "https://soundcloud.com/epiphanykollektiv/epiphany-podcast-102-niko-garcia"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/nikogarcia-oficial"
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "Hybrid Minds": {
+  "links": {
+   "ra": "https://ra.co/dj/hybridminds",
+   "sc": "https://soundcloud.com/hybridminds"
+  },
+  "sets": [
+   {
+    "t": "Hybrid Minds @ Lightning in a Bottle 2025",
+    "u": "https://soundcloud.com/thedolab/hybrid-minds-lightning-in-a-bottle-2025"
+   },
+   {
+    "t": "FREE DOWNLOAD: Hybrid Minds - Drum&BassArena 19 Years Exclusive Mix",
+    "u": "https://soundcloud.com/drumandbassarena/hybrid-minds-drumbassarena-19-years-exclusive-mix"
+   },
+   {
+    "t": "UKF Music Podcast #45 - Hybrid Minds",
+    "u": "https://soundcloud.com/ukf/045-hybrid-minds"
+   }
+  ],
+  "spChk": "2026-11-20",
+  "src": [
+   "https://ra.co/dj/hybridminds",
+   "https://soundcloud.com/hybridminds"
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "Tempza": {
+  "links": {
+   "ra": "https://ra.co/dj/tempza",
+   "sc": "https://soundcloud.com/tempza"
+  },
+  "spChk": "2026-11-20",
+  "src": [
+   "https://ra.co/dj/tempza",
+   "https://soundcloud.com/tempza"
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "dr ushuu": {
+  "links": {
+   "sc": "https://soundcloud.com/danyushuu"
+  },
+  "sets": [
+   {
+    "t": "Dr. Ushuu DJ Set 📍 STUDIO Invites",
+    "u": "https://soundcloud.com/wearestudio/dr-ushuu-dj-set-studio-invites-bass-deep-dubstep"
+   },
+   {
+    "t": "DubstepFrance (ep.33) - Guest Mix Dr. Ushūu",
+    "u": "https://soundcloud.com/dubstepfrance/dubstepfrance-guest-mix-by-dr-ushuu"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/danyushuu"
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "madcore": {
+  "links": {
+   "sc": "https://soundcloud.com/madcoredubstep"
+  },
+  "sets": [
+   {
+    "t": "Issue 6 Dubstep Mix by MADCORE",
+    "u": "https://soundcloud.com/odiorecs/issue-6-dubstep-mix-by-madcore"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/madcoredubstep"
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
+ },
+ "A.way": {
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20",
+  "noLinks": "2026-11-20"
+ },
+ "hechter": {
+  "links": {
+   "sc": "https://soundcloud.com/official_hechter"
+  },
+  "src": [
+   "https://soundcloud.com/official_hechter"
+  ],
+  "setsChecked": "2026-11-20",
+  "infoChk": "2026-11-20",
+  "noImg": "2026-11-20"
  }
 };
 
