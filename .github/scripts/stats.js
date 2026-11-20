@@ -27,15 +27,16 @@ for (const [sha, iso] of commits) {
   const ev = show(sha, "events.js"); if (!ev) continue;
   const c = {};
   try {
-    vm.runInNewContext(ev + "\n;this.RAW=RAW;this.V=typeof V!=='undefined'?V:{};this.AR=typeof AR!=='undefined'?AR:{};this.CI=typeof CI!=='undefined'?CI:{};this.VI=typeof VI!=='undefined'?VI:{};", c);
+    vm.runInNewContext(ev + "\n;this.RAW=RAW;this.V=typeof V!=='undefined'?V:{};this.AR=typeof AR!=='undefined'?AR:{};this.CI=typeof CI!=='undefined'?CI:{};this.VI=typeof VI!=='undefined'?VI:{};this.CG=typeof CG!=='undefined'?CG:{};", c);
   } catch (_) { continue; }
   const p = {}; const pj = show(sha, "past.js");
   try { if (pj) vm.runInNewContext(pj + "\n;this.PAST=PAST;", p); } catch (_) {}
-  const RAW = c.RAW || [], PAST = p.PAST || [], AR = c.AR || {}, CI = c.CI || {}, V = c.V || {}, VI = c.VI || {};
+  const RAW = c.RAW || [], PAST = p.PAST || [], AR = c.AR || {}, CI = c.CI || {}, V = c.V || {}, VI = c.VI || {}, CG = c.CG || {};
   const day = vday(iso); if (!firstDay) firstDay = day;
   const ARf = {}, CIf = {}, VIf = {};
   Object.keys(AR).forEach(k => ARf[fold(k)] = AR[k]);
   Object.keys(CI).forEach(k => CIf[fold(k)] = CI[k]);
+  const CGf = {}; Object.keys(CG).forEach(k => { if (has(CG[k])) CGf[fold(k)] = 1; });
   // Aliase auf den Haupteintrag abbilden (eigener Schlüssel hat Vorrang)
   const ALA = {}, ALC = {};
   Object.keys(AR).forEach(k => [].concat(AR[k].alias || []).forEach(x => { if (!ARf[fold(x)]) ALA[fold(x)] = fold(k); }));
@@ -84,11 +85,11 @@ for (const [sha, iso] of commits) {
       ev: Object.assign({ n: es.length, note: es.filter(e => e.note).length, price: es.filter(e => e.price).length, lineup: es.filter(e => e.lineup).length,
         genres: es.filter(e => e.genres).length, flyer: es.filter(e => e.flyer).length, srch: es.filter(e => e.srch).length }, nw(first.ev, ek)),
       art: Object.assign({ n: ak.length, links: A.filter(a => has(a.links)).length, img: A.filter(a => has(a.img)).length,
-        bio: A.filter(a => a.bio && (a.bio.de || a.bio.en)).length, sets: A.filter(a => has(a.sets)).length, sp: A.filter(a => a.links && has(a.links.sp)).length, empty: A.filter(emptyA).length,
+        bio: A.filter(a => a.bio && (a.bio.de || a.bio.en)).length, sets: A.filter(a => has(a.sets)).length, sp: A.filter(a => a.links && has(a.links.sp)).length, genres: A.filter(a => has(a.genres)).length, empty: A.filter(emptyA).length,
         ...(r === "all" ? { hid: ak.filter(k => oldHide(HA.get(k), has((ARf[k] || {}).img))).length } : {}),
         srch: A.filter(a => has(a.img) || has(a.noImg) || has(a.infoChk) || has(a.noLinks)).length }, nw(first.art, ak)),
       col: Object.assign({ n: ck.length, txt: Cc.filter(x => has(x.de) || has(x.en)).length, web: Cc.filter(x => has(x.web) || has(x.ig)).length,
-        logo: Cc.filter(x => has(x.logo)).length, empty: Cc.filter(emptyC).length,
+        logo: Cc.filter(x => has(x.logo)).length, genres: ck.filter(k => CGf[k]).length, empty: Cc.filter(emptyC).length,
         ...(r === "all" ? { hid: ck.filter(k => oldHide(HC.get(k), has((CIf[k] || {}).logo))).length } : {}),
         srch: Cc.filter(x => has(x.infoChk) || has(x.noLogo) || has(x.logo)).length }, nw(first.col, ck)),
       ven: Object.assign({ n: vk.length, txt: Vv.filter(x => has(x.de) || has(x.en)).length, io: Vv.filter(x => has(x.io)).length,

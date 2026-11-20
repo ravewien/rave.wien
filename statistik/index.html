@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="/fonts.css">
 <style>
 :root{--bg:#08090b;--panel:#131519;--line:#2a2e36;--fg:#e9ecf1;--mute:#8f96a3;--accent:#1f8bff;--srch:#7d8491;
---s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;
+--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;--s6:#8f6fe0;
 --f-pixel:"Doto","Courier New",monospace;--f-display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;--f-body:"Barlow","Helvetica Neue",Arial,sans-serif;--f-mono:"JetBrains Mono",ui-monospace,Menlo,monospace;color-scheme:dark}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.45 var(--f-body)}
@@ -83,7 +83,7 @@ table.nt{font-family:var(--f-body);font-size:13px}
 <script>
 (async()=>{
 const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
-const COLS=[css("--s1"),css("--s2"),css("--s3"),css("--s4"),css("--s5")],SR=css("--srch"),LINE=css("--line"),FG=css("--fg"),MUTE=css("--mute"),ACC=css("--accent");
+const COLS=[css("--s1"),css("--s2"),css("--s3"),css("--s4"),css("--s5"),css("--s6")],SR=css("--srch"),LINE=css("--line"),FG=css("--fg"),MUTE=css("--mute"),ACC=css("--accent");
 let data;try{data=await (await fetch("/stats.json?"+Date.now(),{cache:"no-store"})).json()}catch(e){document.getElementById("sub").innerHTML='<span class="err">Statistik konnte nicht geladen werden.</span>';return}
 const S=(data.snaps||[]).filter(s=>s.r);if(!S.length){document.getElementById("sub").textContent="Noch keine Daten.";return}
 const vday=t=>new Date(t).toLocaleDateString("sv-SE",{timeZone:"Europe/Vienna"});
@@ -95,8 +95,8 @@ document.getElementById("sub").textContent=`Stand: ${lbl(last.t)} · ${S.length}
 const RN={all:"Alle Events inklusive Archiv seit 2024. Bei vergangenen Events gibt es weniger Felder (kein Flyer, keine Genres).",d7:"Events in den nächsten 7 Tagen und alle Artists, Veranstalter und Locations, die darin vorkommen.",d14:"Events in den nächsten 14 Tagen und alle Artists, Veranstalter und Locations, die darin vorkommen.",d28:"Events in den nächsten 28 Tagen und alle Artists, Veranstalter und Locations, die darin vorkommen.",up:"Alle kommenden Events im Kalender und alle Artists, Veranstalter und Locations, die darin vorkommen."};
 const CAT=[
  {k:"ev",t:"Events",sl:"schon geprüft",m:[["Beschreibung","note"],["Preis","price"],["Line-up","lineup"],["Genres","genres"],["Flyer","flyer"]]},
- {k:"art",t:"Artists",sl:"schon gesucht",m:[["Links","links"],["Bild","img"],["Bio","bio"],["Sets","sets"],["Spotify","sp"]]},
- {k:"col",t:"Veranstalter",sl:"schon gesucht",m:[["Text","txt"],["Website/Instagram","web"],["Logo","logo"]]},
+ {k:"art",t:"Artists",sl:"schon gesucht",m:[["Links","links"],["Bild","img"],["Bio","bio"],["Sets","sets"],["Spotify","sp"],["Genres","genres"]]},
+ {k:"col",t:"Veranstalter",sl:"schon gesucht",m:[["Text","txt"],["Website/Instagram","web"],["Logo","logo"],["Genres","genres"]]},
  {k:"ven",t:"Locations",sl:"schon gesucht",m:[["Indoor/Outdoor","io"],["Text","txt"],["Logo","logo"]]}];
 Chart.defaults.color=MUTE;Chart.defaults.locale="de-AT";Chart.defaults.font.family=css("--f-mono")||"monospace";Chart.defaults.font.size=11;Chart.defaults.borderColor=LINE;
 const tip={backgroundColor:"#0b0d10",borderColor:LINE,borderWidth:1,titleColor:FG,bodyColor:FG,padding:8,boxPadding:4};
