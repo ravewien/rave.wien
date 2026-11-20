@@ -1,5 +1,5 @@
 {
- "_info": "Zwischenposts außerhalb der Tagesposts. datum = eindeutige Kennung (extra-…), posten_ab = Zeitpunkt (Wiener Zeit, der Pi streut ±30 Min), story:false = nicht als Story teilen.",
+ "_info": "Zwischenposts außerhalb der Tagesposts. datum = eindeutige Kennung (extra-…), posten_ab = Zeitpunkt (Wiener Zeit, der Pi streut ±30 Min), story:false = nicht als Story teilen. story_alle:true = Story mit allen Bildern statt nur dem ersten; story_nach_min:[von,bis] = Story so viele Minuten nach dem Post (sonst 10–45).",
  "posts": [
   {
    "datum": "extra-gta",
@@ -10,6 +10,22 @@
    ],
    "story": false,
    "text": "Keine PS5 für GTA 6? Mehr Zeit für Raves! 🕹️🖤\n\nAlle Raves in Wien findest du auf rave.wien 🔗 Link in Bio\n\n#ravewien #techno #wien #vienna #rave #viennanightlife #clubbing #gta6"
+  },
+  {
+   "datum": "extra-kalender",
+   "titel": "Zwischenpost „Wusstest du schon..? – Folgen im Kalender“",
+   "posten_ab": "2026-11-23T12:00:00+01:00",
+   "bilder": [
+    "ig/extra/kalender/1.jpg",
+    "ig/extra/kalender/2.jpg",
+    "ig/extra/kalender/3.jpg"
+   ],
+   "story_alle": true,
+   "story_nach_min": [
+    165,
+    195
+   ],
+   "text": "Wusstest du schon..? 👀 Du kannst deinen Lieblings-Artists und -Veranstaltern auf rave.wien folgen – direkt in deinem Kalender 📅\n\nKarte öffnen → Kalender-Symbol → Apple, Google oder Outlook. Neue Termine tauchen ab dann automatisch bei dir auf 🖤\n\n🔗 Link in Bio\n\n#ravewien #techno #wien #vienna #rave #viennanightlife #clubbing"
   },
   {
    "datum": "extra-weekend",

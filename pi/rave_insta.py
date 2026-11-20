@@ -30,7 +30,7 @@ import json, os, sys, time, random, logging, urllib.request, hashlib, subprocess
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-20.1"
+VERSION = "2026-11-20.2"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -254,10 +254,12 @@ def publish(post, cl=None, state=None):
         media = cl.album_upload(paths[:10], text)
     url = f"https://www.instagram.com/p/{media.code}/"
     if state is not None and story_an() and post.get("story") is not False:
-        due = story_zeit(post["datum"], datetime.now(timezone.utc))
+        due = story_zeit(post["datum"], datetime.now(timezone.utc), post.get("story_nach_min"))
         # Tagesposts: alle Event-Bilder (ohne angehängte Extra-Bilder), Zwischenposts: nur das erste Bild
         paare = [(str(pa), rel) for pa, rel in zip(paths, post["bilder"]) if "/extra/" not in rel] or [(str(paths[0]), post["bilder"][0])]
-        if post["datum"].startswith("extra-"): paare = paare[:1]
+        if post["datum"].startswith("extra-"):
+            # Zwischenpost: nur das erste Bild – außer "story_alle": true (dann alle Bilder des Posts)
+            paare = [(str(pa), rel) for pa, rel in zip(paths, post["bilder"])] if post.get("story_alle") is True else paare[:1]
         paare = paare[:STORY_MAX_BILDER]
         state.setdefault("stories", {})[post["datum"]] = {"pk": str(media.pk), "bild": paare[0][0], "bilder": [a for a, _ in paare],
                                                          "rel": [b for _, b in paare], "fertig": 0, "url": url,
@@ -288,8 +290,16 @@ def story_bild(src, ziel):
 def story_an():
     return load_config().get("STORY", "ja").lower() not in ("nein", "no", "0", "aus")
 
-def story_zeit(datum, now):
-    """Wann die Story fällig ist: Tagespost → Morgen des Veranstaltungstags (Wiener Zeit), sonst kurz nach dem Post."""
+def story_zeit(datum, now, nach_min=None):
+    """Wann die Story fällig ist: Tagespost → Morgen des Veranstaltungstags (Wiener Zeit), sonst kurz nach dem Post.
+    nach_min = [von, bis] Minuten nach dem Post (nur Zwischenposts, z. B. [170, 200] = rund 3 Stunden später)."""
+    if nach_min and datum.startswith("extra-"):
+        try:
+            lo, hi = int(nach_min[0]), int(nach_min[1])
+            if 1 <= lo <= hi <= 24 * 60:
+                return now + timedelta(minutes=random.randint(lo, hi))
+        except Exception:
+            pass
     if DATUM_OK.match(datum) and not datum.startswith("extra-"):
         try:
             from zoneinfo import ZoneInfo
