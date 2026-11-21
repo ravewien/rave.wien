@@ -34,6 +34,17 @@
    "events": 21
   },
   {
+   "datum": "extra-videotest",
+   "titel": "Test „Video im Karussell“",
+   "posten_ab": "2026-11-21T10:16:00+01:00",
+   "bilder": [
+    "ig/extra/space/1.jpg",
+    "ig/extra/space/1.mp4"
+   ],
+   "story": false,
+   "text": "Test – Video im Karussell 🪩 (wird gleich wieder gelöscht)"
+  },
+  {
    "datum": "2026-11-22",
    "posten_ab": "2026-11-21T16:00:00+01:00",
    "bilder": [
