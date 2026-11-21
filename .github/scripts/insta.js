@@ -138,7 +138,7 @@ function caption(EVS,label,dd,mm,wd){
    if(ok||NP===10){files=shots.map((buf,i)=>{const n=`${i+1}.jpg`;fs.writeFileSync(dir+'/'+n,buf);return n});break}}
   const cap=caption(EVS,label,dd,mm,wd);
   // Zusatzbilder ans Ende eines Tagesposts hängen: ig/anhang.json {"JJJJ-MM-TT":["ig/extra/<name>/1.jpg",…]}
-  let anh=[];try{anh=(JSON.parse(fs.readFileSync(OUT+'/anhang.json','utf8'))[d]||[]).filter(b=>/^ig\/extra\/[a-z0-9-]{1,40}\/\d{1,2}\.jpg$/.test(b)&&fs.existsSync(R+'/'+b))}catch(e){}
+  let anh=[];try{anh=(JSON.parse(fs.readFileSync(OUT+'/anhang.json','utf8'))[d]||[]).filter(b=>/^ig\/extra\/[a-z0-9-]{1,40}\/\d{1,2}\.(jpg|mp4)$/.test(b)&&fs.existsSync(R+'/'+b)&&(!b.endsWith('.mp4')||fs.existsSync(R+'/'+b.slice(0,-4)+'.jpg')))}catch(e){}
   // Feiertags-Zusatzbild (z. B. 20. April) als letztes Bild; liegt unter ig/extra/, damit es nicht in die Story-Serie kommt
   try{const Z=THEMEN.zusatz(d,CSS,POSES.length?POSES[0].u:ASTRO);if(Z){const zd=OUT+'/extra/'+Z.name;fs.mkdirSync(zd,{recursive:true});await page.setContent(Z.html);await page.evaluate(()=>document.fonts.ready);await page.waitForTimeout(150);
    fs.writeFileSync(zd+'/1.jpg',await page.screenshot({type:'jpeg',quality:92}));anh.push(`ig/extra/${Z.name}/1.jpg`)}}catch(e){console.error('Zusatzbild:',e)}
