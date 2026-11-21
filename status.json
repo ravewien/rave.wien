@@ -1,0 +1,26 @@
+{
+ "zeit": "2026-11-21T13:28:00.048Z",
+ "adressen": 23,
+ "ok": 13,
+ "fehler": 10,
+ "hosts": {
+  "www.frontstagefestivals.com": {
+   "n": 8,
+   "grund": [
+    "fetch failed"
+   ]
+  },
+  "www.mixcloud.com": {
+   "n": 1,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "www.nrj.fr": {
+   "n": 1,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  }
+ }
+}
