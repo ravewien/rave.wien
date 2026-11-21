@@ -1,0 +1,14 @@
+{
+ "zeit": "2026-11-21T13:29:42.934Z",
+ "adressen": 4,
+ "ok": 3,
+ "fehler": 1,
+ "hosts": {
+  "www.amsterdam-dance-event.nl": {
+   "n": 1,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  }
+ }
+}
