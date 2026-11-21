@@ -103,3 +103,6 @@ Die Abschluss-Nachricht zusätzlich als Datei ins Repo legen, damit die täglich
 2. Eigener Commit NUR mit dieser Datei (nach dem Daten-Commit, nie zusammen mit events.js/past.js):
    `cd /home/claude/rave.wien && git fetch --depth 1 origin main && git reset --hard origin/main` → Datei (neu) schreiben → `git add .github/agent/berichte && git commit -m "Lauf-Bericht <JJJJ-MM-TT> <lauf>" && git push origin HEAD:main` (bei abgelehntem Push bis zu 3-mal wiederholen). Die Nachricht darf NICHT mit „Daten-Update“ beginnen.
 3. Keine Passwörter, Schlüssel oder persönlichen Daten in den Bericht (das Repo ist öffentlich).
+
+
+**GENRE-SCHREIBWEISEN:** Genres immer in der Schreibweise, die es in events.js schon gibt – keine neuen Varianten. Verbindlich: Hard Techno (nicht Hardtechno), Hardgroove (nicht Hard Groove), Hard Bounce, Drum & Bass (nicht „and“), Liquid Drum & Bass (auch für Liquid/Liquid Funk), Breakbeat (auch für Breaks), Psy Techno (auch für Psytech/Psy-Techno), Hi-Tech (auch Hitech/Hi-Tech Psytrance), Goa (auch Goa Trance), Hip-Hop, Jump-Up, Neo-Rave, Synth-Pop, Cold Wave, Ghettotech, Hardtek, Italo Disco, Uptempo, Bounce, Acid House. „Live“ ist kein Genre. Die Seite fasst bekannte Varianten zusätzlich selbst zusammen (GALIAS in index.html).
