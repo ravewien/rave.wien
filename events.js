@@ -171,13 +171,12 @@ const CG={
   "Techno",
   "Midtempo",
   "House",
-  "Psy-Techno"
+  "Psy Techno"
  ],
  "Herzfrequenz": [
   "Trance",
-  "Hardtechno",
-  "Hard Bounce",
   "Hard Techno",
+  "Hard Bounce",
   "Nightcore"
  ],
  "Heimlich": [
@@ -213,7 +212,7 @@ const CG={
  "Step Forward": [
   "Techno",
   "Trance",
-  "Ghetto Tech",
+  "Ghettotech",
   "Electro",
   "House"
  ],
@@ -226,17 +225,15 @@ const CG={
  ],
  "Schrödingers Groove": [
   "Schranz",
-  "Hardtechno",
+  "Hard Techno",
   "Groove",
-  "Techno",
-  "Hard Techno"
+  "Techno"
  ],
  "FIFI Rave": [
   "Schranz",
-  "Hardtechno",
+  "Hard Techno",
   "Groove",
-  "Techno",
-  "Hard Techno"
+  "Techno"
  ],
  "Bassproduction": [
   "Techno"
@@ -249,7 +246,7 @@ const CG={
   "House",
   "Tech House",
   "Electro",
-  "Breaks",
+  "Breakbeat",
   "Techno"
  ],
  "Housetiere": [
@@ -263,9 +260,8 @@ const CG={
   "Techno"
  ],
  "Pink Mayhem": [
-  "Hardtechno",
-  "Trance",
   "Hard Techno",
+  "Trance",
   "Techno"
  ],
  "Connecting People": [
@@ -280,7 +276,7 @@ const CG={
   "Melodic House",
   "Techno",
   "Club Charts",
-  "Hip Hop",
+  "Hip-Hop",
   "Indie Dance",
   "House",
   "Tribal Techno",
@@ -291,7 +287,7 @@ const CG={
   "Melodic House",
   "Techno",
   "Club Charts",
-  "Hip Hop"
+  "Hip-Hop"
  ],
  "Wien Modern": [
   "Experimental",
@@ -315,7 +311,7 @@ const CG={
   "Techno",
   "Hardgroove",
   "Schranz",
-  "Hardbounce"
+  "Hard Bounce"
  ],
  "Fluffig": [
   "Techno",
@@ -326,19 +322,19 @@ const CG={
   "Bass",
   "Grime",
   "Dubstep",
-  "Breaks"
+  "Breakbeat"
  ],
  "up/or": [
   "Experimental",
   "Bass",
   "Grime",
   "Dubstep",
-  "Breaks"
+  "Breakbeat"
  ],
  "Sorry Mom": [
   "Techno",
   "Progressive",
-  "Psytech",
+  "Psy Techno",
   "Melodic Techno"
  ],
  "Kollektiv Ost:West": [
@@ -346,14 +342,14 @@ const CG={
   "Tech House"
  ],
  "Nine O Nine": [
-  "Hardtechno",
+  "Hard Techno",
   "Detroit Techno",
   "Hardgroove",
   "Hypnotic Techno",
   "Dub Techno"
  ],
  "LSH": [
-  "Hardtechno",
+  "Hard Techno",
   "Detroit Techno",
   "Hardgroove",
   "Hypnotic Techno",
@@ -362,7 +358,7 @@ const CG={
   "House"
  ],
  "909techno": [
-  "Hardtechno",
+  "Hard Techno",
   "Detroit Techno",
   "Hardgroove",
   "Hypnotic Techno",
@@ -453,7 +449,7 @@ const CG={
  "Vision Serpent": [
   "Techno",
   "Minimal Techno",
-  "Psytech",
+  "Psy Techno",
   "Minimal"
  ],
  "techNOage": [
@@ -490,12 +486,12 @@ const CG={
  "Drum & Bassick": [
   "Drum & Bass",
   "Neurofunk",
-  "Liquid"
+  "Liquid Drum & Bass"
  ],
  "Radiance": [
   "Drum & Bass",
   "Neurofunk",
-  "Liquid"
+  "Liquid Drum & Bass"
  ],
  "Titti Queer Club": [
   "Techno",
@@ -520,7 +516,7 @@ const CG={
   "Dubstep",
   "Grime",
   "UK Bass",
-  "Breaks",
+  "Breakbeat",
   "Jungle",
   "Reggae",
   "Dancehall",
@@ -531,7 +527,7 @@ const CG={
   "Dubstep",
   "Grime",
   "UK Bass",
-  "Breaks",
+  "Breakbeat",
   "Jungle",
   "Reggae",
   "Dancehall",
@@ -542,7 +538,7 @@ const CG={
   "Dubstep",
   "Grime",
   "UK Bass",
-  "Breaks",
+  "Breakbeat",
   "Jungle",
   "Reggae",
   "Dancehall",
@@ -651,7 +647,7 @@ const CG={
  ],
  "TUFF": [
   "Bounce",
-  "Hardbounce"
+  "Hard Bounce"
  ],
  "54Hz": [
   "Bounce",
@@ -696,9 +692,8 @@ const CG={
   "Hardgroove",
   "Techno",
   "Schranz",
-  "Hardtechno",
-  "Groove",
-  "Hard Techno"
+  "Hard Techno",
+  "Groove"
  ],
  "Club Pompadour": [
   "House"
@@ -777,12 +772,12 @@ const CG={
  "Fractal Fusion": [
   "Techno",
   "Acid",
-  "Psytech"
+  "Psy Techno"
  ],
  "Misguided": [
   "Techno",
   "Breakbeat",
-  "Drum and Bass",
+  "Drum & Bass",
   "House"
  ],
  "Techno am Wasser": [
@@ -901,7 +896,7 @@ const CG={
  ],
  "Addicted to Pressure": [
   "Acid",
-  "Hardtechno",
+  "Hard Techno",
   "Techno"
  ],
  "Dualism": [
@@ -915,7 +910,7 @@ const CG={
   "Trance",
   "House",
   "Disco",
-  "Breaks"
+  "Breakbeat"
  ],
  "LOOP": [
   "Techno"
@@ -1053,7 +1048,7 @@ const CG={
  ],
  "Rhythmic Playground": [
   "Minimal",
-  "Breaks",
+  "Breakbeat",
   "Hard House",
   "House"
  ],
@@ -7977,7 +7972,7 @@ const AR={
   },
   "real": "Alex Rodrigues",
   "genres": [
-   "Hardtechno"
+   "Hard Techno"
   ],
   "bio": {
    "de": "Seit 1996 im Underground aktiv, eine der beständigsten Figuren im Hardtechno.",
@@ -8218,7 +8213,6 @@ const AR={
   "genres": [
    "Hard Trance",
    "Hard House",
-   "Hardtechno",
    "Hard Techno"
   ],
   "labels": [
@@ -8433,7 +8427,7 @@ const AR={
   "real": "Marco Antonio da Silva",
   "genres": [
    "Drum & Bass",
-   "Liquid Funk"
+   "Liquid Drum & Bass"
   ],
   "bio": {
    "de": "Prägte den brasilianischen Drum-&-Bass-Sound, bekannt für „LK (Carolina Carol Bela)“.",
@@ -8583,8 +8577,7 @@ const AR={
   "real": "Anna Müller & Paul Wallner",
   "genres": [
    "Electronica",
-   "Deep House",
-   "Live"
+   "Deep House"
   ],
   "bio": {
    "de": "Wiener Duo (Her Voice Over Boys): Anna Müller komponiert, produziert und singt, Paul Wallner finalisiert die Tracks. Spielt immer live mit Drummer, in über 20 Ländern.",
@@ -11295,7 +11288,7 @@ const AR={
    "en": "PRAKAS is a techno producer and DJ known for a relentless, high-impact approach to hardtechno and schranz. His debut EP \"Kick Some Ass\" was released on Audiocode Records."
   },
   "genres": [
-   "Hardtechno",
+   "Hard Techno",
    "Schranz"
   ],
   "labels": [
@@ -12025,7 +12018,7 @@ const AR={
    "en": "Hello Kiffy is a DJ act from the circle of the Vienna hard techno series Pink Mayhem, whose SoundCloud features set recordings, e.g. from 'Rosarot' and b2b with Mel. Vienna appearances include Pink Mayhem at FLUCC and the GDN Klubnacht at Das Werk."
   },
   "genres": [
-   "Hardtechno"
+   "Hard Techno"
   ]
  },
  "Kristus": {
@@ -12725,7 +12718,7 @@ const AR={
    "House",
    "Hard House",
    "90s House",
-   "acid house"
+   "Acid House"
   ],
   "img": "https://i1.sndcdn.com/avatars-gzJnOoEawccUTjYG-wHH6xg-t500x500.jpg",
   "links": {
@@ -13168,7 +13161,7 @@ const AR={
    "Grime",
    "Dubstep",
    "Bass",
-   "Hip Hop"
+   "Hip-Hop"
   ],
   "src": [
    "https://ra.co/dj/sami-2",
@@ -13870,7 +13863,7 @@ const AR={
    "House",
    "Jungle",
    "Funk",
-   "Hip Hop"
+   "Hip-Hop"
   ],
   "src": [
    "https://www.mqw.at/en/program/monday-listening-club-hosted-by-martin-markeli-special-guest-mjane"
@@ -16320,8 +16313,7 @@ const AR={
    "en": "Aura is the dawless live project of Dcascallana and pezel. Dcascallana plays regularly at Vienna clubs such as Kramladen, FLUCC and Das Werk and is connected to the label Dark Pressure."
   },
   "genres": [
-   "Techno",
-   "Live"
+   "Techno"
   ],
   "src": [
    "https://de.ra.co/dj/dcascallana"
@@ -17167,7 +17159,7 @@ const AR={
   "genres": [
    "House",
    "Electro",
-   "Breaks"
+   "Breakbeat"
   ],
   "bio": {
    "de": "Julia Goldfarb ist eine DJ aus Österreich, die sich in den letzten Jahren in der Londoner Szene einen Namen gemacht hat. Sie legt sich ungern auf ein Genre fest; ihre Sets bewegen sich vor allem zwischen groovigem House, Electro und Breaks. Gespielt hat sie u. a. beim Lighthouse Festival in Kroatien, im FOLD in London und im Culture Box in Kopenhagen.",
@@ -17705,7 +17697,7 @@ const AR={
    "Italo Disco",
    "Minimal Synth",
    "New Wave",
-   "Synthpop"
+   "Synth-Pop"
   ],
   "src": [
    "https://ivur.bandcamp.com/track/fire",
@@ -18370,7 +18362,7 @@ const AR={
   },
   "genres": [
    "Psytrance",
-   "Goa Trance"
+   "Goa"
   ],
   "labels": [
    "BMSS Records"
@@ -18863,7 +18855,7 @@ const AR={
   "genres": [
    "Techno",
    "Industrial",
-   "Breaks"
+   "Breakbeat"
   ],
   "sets": [
    {
@@ -19833,7 +19825,7 @@ const AR={
   "genres": [
    "Techno",
    "Minimal Techno",
-   "Psytech"
+   "Psy Techno"
   ],
   "labels": [
    "Iboga Records",
@@ -20571,7 +20563,7 @@ const AR={
   },
   "genres": [
    "Techno",
-   "Psytech"
+   "Psy Techno"
   ],
   "sets": [
    {
@@ -20841,7 +20833,7 @@ const AR={
   ],
   "genres": [
    "Acid",
-   "Italo",
+   "Italo Disco",
    "Progressive House"
   ],
   "sets": [
@@ -20886,7 +20878,7 @@ const AR={
    "ig": "https://www.instagram.com/djane_psynonima/"
   },
   "genres": [
-   "Hi-Tech Psytrance"
+   "Hi-Tech"
   ],
   "sets": [
    {
@@ -21528,7 +21520,7 @@ const AR={
   },
   "genres": [
    "Psytrance",
-   "Hitech",
+   "Hi-Tech",
    "Forest"
   ],
   "alias": [
@@ -24114,7 +24106,7 @@ const AR={
    "House",
    "Techno",
    "Electro",
-   "Breaks"
+   "Breakbeat"
   ],
   "labels": [
    "Jesus Loved You",
@@ -24470,8 +24462,7 @@ const AR={
    "en": "Vienna"
   },
   "genres": [
-   "Electronic",
-   "Live"
+   "Electronic"
   ],
   "bio": {
    "de": "2015 gegründetes Wiener Kollektiv aus Musiker:innen, Künstler:innen, Designer:innen und Techniker:innen, live mit Ludwig Ascher, Valentin Martins, Simon Öggl und Hans Zoderer. Spielt elektronische Musik live mit über zwanzig akustischen und digitalen Instrumenten, Alltagsgegenständen und Effektgeräten; Releases auf monkey.",
@@ -25467,7 +25458,7 @@ const AR={
   "genres": [
    "House",
    "Disco",
-   "Breaks",
+   "Breakbeat",
    "Techno"
   ],
   "bio": {
@@ -29067,7 +29058,7 @@ const AR={
    "Electro",
    "Tech House",
    "New Beat",
-   "Breaks"
+   "Breakbeat"
   ],
   "sets": [
    {
@@ -30304,7 +30295,7 @@ const AR={
   },
   "genres": [
    "Hard Techno",
-   "Neo Rave"
+   "Neo-Rave"
   ],
   "bio": {
    "de": "IGDA ist ein junger Hardtechno-DJ und Produzent aus Deutschland, der dem Neo-Rave-Umfeld zugerechnet wird. Er spielt energiegeladene Sets um 155–160 BPM und veröffentlicht eigene Tracks, etwa gemeinsam mit NOTMYTYPE.",
@@ -30748,7 +30739,7 @@ const AR={
    "en": "Germany"
   },
   "genres": [
-   "Drum and Bass"
+   "Drum & Bass"
   ],
   "labels": [
    "Hospital Records",
@@ -31040,7 +31031,7 @@ const AR={
    "Dubstep",
    "Grime",
    "UK Garage",
-   "Breaks"
+   "Breakbeat"
   ],
   "bio": {
    "de": "Rasa ist DJ und Toningenieurin aus Punjab, Indien, geprägt von Soundsystem-Kultur. Ihre Sets bauen auf schwerem Bass, verschachtelter Percussion und fließenden Wechseln zwischen Dubstep, Grime, UK Garage, Breaks und Electro; Mixmag nannte sie „Breakthrough DJ of the Year“.",
@@ -32796,7 +32787,7 @@ const AR={
   },
   "genres": [
    "Drum & Bass",
-   "Jump Up"
+   "Jump-Up"
   ],
   "bio": {
    "de": "Basstripper ist ein belgischer Jump-Up-Drum-&-Bass-DJ und Produzent, der international von Europa bis Australien auftritt.",
@@ -32818,7 +32809,7 @@ const AR={
   },
   "genres": [
    "Drum & Bass",
-   "Jump Up"
+   "Jump-Up"
   ],
   "labels": [
    "DnB Allstars",
@@ -32895,7 +32886,7 @@ const AR={
  },
  "The Zees": {
   "genres": [
-   "Hip Hop",
+   "Hip-Hop",
    "Soul",
    "Funk",
    "Disco",
@@ -34780,7 +34771,7 @@ const AR={
    "en": "Frankfurt"
   },
   "genres": [
-   "Hardtechno",
+   "Hard Techno",
    "Rawstyle",
    "Psytrance"
   ],
@@ -35223,7 +35214,7 @@ const AR={
    "en": "Italy (based in Germany)"
   },
   "genres": [
-   "Hardtechno",
+   "Hard Techno",
    "Industrial Techno",
    "Acid"
   ],
@@ -35720,7 +35711,7 @@ const AR={
   },
   "genres": [
    "Techno",
-   "Breaks"
+   "Breakbeat"
   ],
   "labels": [
    "Night Service"
@@ -36457,7 +36448,7 @@ const AR={
   },
   "genres": [
    "Minimal Synth",
-   "Coldwave"
+   "Cold Wave"
   ],
   "labels": [
    "Dais Records",
@@ -36625,7 +36616,7 @@ const AR={
    "en": "Germany"
   },
   "genres": [
-   "Hardtechno"
+   "Hard Techno"
   ],
   "labels": [
    "fhainest"
@@ -37081,7 +37072,7 @@ const AR={
   },
   "genres": [
    "Techno",
-   "Hard Groove",
+   "Hardgroove",
    "Trance"
   ],
   "bio": {
@@ -37921,7 +37912,7 @@ const AR={
    "sc": "https://soundcloud.com/turbokevin"
   },
   "genres": [
-   "Hardtekk"
+   "Hardtek"
   ],
   "src": [
    "https://soundcloud.com/turbokevin/tracks"
@@ -39354,7 +39345,7 @@ const AR={
   "genres": [
    "House",
    "Techno",
-   "Breaks",
+   "Breakbeat",
    "Electro"
   ],
   "sets": [
@@ -39625,7 +39616,7 @@ const AR={
  },
  "NXXT": {
   "genres": [
-   "Hard Groove",
+   "Hardgroove",
    "Trance",
    "Hard Techno"
   ],
@@ -40425,7 +40416,7 @@ const AR={
    "en": "London, United Kingdom"
   },
   "genres": [
-   "Drum and Bass"
+   "Drum & Bass"
   ],
   "labels": [
    "Trendkill Records",
@@ -40462,7 +40453,7 @@ const AR={
    "en": "Amsterdam, Netherlands"
   },
   "genres": [
-   "Drum and Bass",
+   "Drum & Bass",
    "Neurofunk"
   ],
   "labels": [
@@ -40492,7 +40483,7 @@ const AR={
    "en": "Lower Austria"
   },
   "genres": [
-   "Drum and Bass",
+   "Drum & Bass",
    "Neurofunk"
   ],
   "labels": [
@@ -41436,8 +41427,7 @@ const AR={
    "Superfreq Records"
   ],
   "genres": [
-   "Techno",
-   "Live"
+   "Techno"
   ],
   "real": "Joseph Keevill",
   "sets": [
@@ -41969,7 +41959,7 @@ const AR={
   ],
   "genres": [
    "Hardgroove",
-   "Breaks",
+   "Breakbeat",
    "Bass"
   ],
   "infoChk": "2026-11-04",
@@ -44319,7 +44309,7 @@ const AR={
   },
   "genres": [
    "Trance",
-   "Hard Groove"
+   "Hardgroove"
   ],
   "bio": {
    "de": "DJ GUESTLIST ist DJ und Produzent mit über zehn Jahren Erfahrung in der elektronischen Musik, bekannt für energiegeladene Sets. Seine Releases „Bring It Back“ und „Tokyo Drift“ (2023) laufen in vielen DJ-Sets; sein Sound verbindet Trance-Elemente mit groovigen Rhythmen, Vocals und tiefem Sub-Bass. Er spielte u. a. bei REACTŌR, im Artheater Köln und bei 2Much in Berlin.",
@@ -44395,7 +44385,7 @@ const AR={
   "genres": [
    "Hard Techno",
    "Hard Trance",
-   "Hard Groove"
+   "Hardgroove"
   ],
   "bio": {
    "de": "Nicolas Julian ist ein Berliner DJ und Produzent für energiegeladenen Hard Techno, Hard Trance und Hard Groove. Tracks wie „Jump Dance Move Bounce“, „Bad Girls“ und „Sucker“ fanden große Resonanz; er spielte in Europa, Australien, den USA und Asien, u. a. beim HIVE Festival.",
@@ -44418,7 +44408,7 @@ const AR={
    "en": "Barcelona (based in Berlin)"
   },
   "genres": [
-   "Bouncy",
+   "Bounce",
    "Trance",
    "Hardstyle"
   ],
@@ -47298,7 +47288,7 @@ const AR={
   "genres": [
    "Minimal",
    "House",
-   "Breaks"
+   "Breakbeat"
   ],
   "bio": {
    "de": "Interdisziplinäres Kunst- und Kulturkollektiv befreundeter Liebhaber:innen elektronischer Musik, das in seiner ländlichen Heimatregion das ERNTE-Festival mit Film, Fotografie, bildender Kunst, Architektur, Lichttechnik und Musik veranstaltet. Als DJs (Crystal Stuermer, Flake, H.Gardner, Pipo Renault, Sharp) bewegen sie sich zwischen Minimal, House und Breaks.",
@@ -48289,7 +48279,7 @@ const AR={
   },
   "genres": [
    "Drum & Bass",
-   "Liquid"
+   "Liquid Drum & Bass"
   ],
   "labels": [
    "Med School"
@@ -51090,7 +51080,7 @@ const AR={
    "en": "RefleXx is a German uptempo hardcore DJ/producer project that started in early 2020. It became known for hardstyle and hardcore remixes of popular songs (e.g. \"Pepas\", \"Danza Kuduro\") and social media videos; Spotify releases include \"The Age Of Hardcore\"."
   },
   "genres": [
-   "Uptempo Hardcore",
+   "Uptempo",
    "Hardcore",
    "Hardstyle"
   ],
@@ -53201,7 +53191,7 @@ const AR={
    "Juke",
    "Footwork",
    "Bass",
-   "Breaks"
+   "Breakbeat"
   ],
   "img": "https://static.ra.co/images/profiles/square/atlana.jpg?dateUpdated=1791388813030",
   "links": {
@@ -54829,9 +54819,9 @@ const RAW=[
 {"d":"2026-11-20","s":"19:30","e":"02:00","title":"AMBIEVENT – trace encounters","venue":"Kollektiv Kaorle","coll":["AMBIEVENT"],"genres":["Ambient"],"floors":[{"f":"","a":["Ssaliva","færo demonic","Inou Ki Endo","esti.d","LCA","Kenji Araki"]}],"price":"15 €","age":"18+","tickets":"https://kupfticket.com/events/ambievent","note":{"de":"AMBIEVENT „trace encounters“ ist als immersiver Ambient-Abend im Kollektiv Kaorle (Otto-Wagner-Areal, Pavillon 21) angelegt, bei dem Klang, Licht, Duft und Kunst zusammenwirken. Bühnendesign, visuelle Kunst und sensorische Elemente sollen den Raum zur Erweiterung der Musik machen. Musikalisch sind Ssaliva, færo demonic, Inou Ki Endo, esti.d und LCA angekündigt, Kenji Araki steuert eine Klanginstallation bei. Ein Ausstellungsraum zeigt Arbeiten von Maximilian Prag, einen eigens kreierten Duft liefert Nēomirage. 19:00–02:00, 15 €, ab 18.","en":"AMBIEVENT \"trace encounters\" is an immersive ambient night at Kollektiv Kaorle (Otto Wagner grounds, Pavilion 21) where sound, light, scent and art come together. Stage design, visual art and sensory elements are meant to turn the space into an extension of the music. Ssaliva, færo demonic, Inou Ki Endo, esti.d and LCA are announced, and Kenji Araki contributes a sound installation. An exhibition room shows works by Maximilian Prag, and Nēomirage provides a scent created for the event. 19:00–02:00, €15, 18+."},"src":[["ra","https://ra.co/events/2563794"],["kt","https://kupfticket.com/events/ambievent"],["kk","https://kollektiv-kaorle.at/events/ambievent-20-11-2026"],["ta","https://www.technoairlines.com/event/ambievent-trace-encounters-kollektiv-kaorle-2026-11-20"],["kk","https://kollektiv-kaorle.at/events"]],"flyer":"https://images.ra.co/aff197484f7e2a221ae22ecd3c65df5e923fbd26.jpg","chk":"2026-11-20","vok":1,"srcChk":"2026-11-19"},
 {"d":"2026-11-20","s":"21:00","e":"06:00","title":"Pyramide Takeover – SIGNAL Festival","venue":"Pyramide Vösendorf","coll":["SIGNAL"],"genres":["Techno","Minimal","Hard Techno"],"floors":[{"f":"Main","a":["Boris Brejcha","Kasia"]},{"f":"Hard Techno Stage","a":["Anxhela","Biia"]}],"age":"18+","tickets":"https://shop.o-klub.at/shop/registrations?event_id=540ea588-6691-4c71-bd49-8e8989e7cd6e","flyer":"https://o-klub.at/wp-content/uploads/2026/06/Festival_feed-lineup-2-V2-web.jpg","note":{"de":"Die vierte Ausgabe des SIGNAL Festivals von O der Klub übernimmt die Glaspyramide in Vösendorf. Headliner ist Boris Brejcha, bekannt für Joker-Maske und High-Tech-Minimal, der Live-Sets aus eigenen Produktionen spielt. Auf der Main Stage spielt außerdem Kasia mit hypnotischem, perkussivem Sound, gebucht u. a. bei Ultra Miami, Resistance, Drumcode und Afterlife. Die Hard Techno Stage bespielen Anxhela (IT/AL) mit Techno mit Trance- und Acid-Einflüssen und Biia mit rohem, genreübergreifendem Techno mit 90er-Einflüssen; weitere Acts folgen. 21:00–06:00, ab 18, Dresscode casual/rave, Early-Bird-Tickets ab 45 €.","en":"The fourth edition of O der Klub's SIGNAL Festival takes over the glass pyramid in Vösendorf. The headliner is Boris Brejcha, known for his Joker mask and high-tech minimal, playing live sets of his own productions. Kasia also plays the main stage with a hypnotic, percussive sound, booked at Ultra Miami, Resistance, Drumcode and Afterlife among others. The Hard Techno Stage features Anxhela (IT/AL) with techno shaped by trance and acid, and Biia with raw, genre-crossing techno with 90s influences; more acts TBA. 21:00–06:00, 18+, dress code casual/rave, early-bird tickets from €45."},"src":[["ok","https://o-klub.at/events/pyramide-takeover/"],["ra","https://de.ra.co/events/2489893"],["vo","https://www.volume.at/events/signal-festival-w-boris-brejcha-2026-11-20/"],["ok","https://o-klub.at/events/"],["ok","https://o-klub.at/event-type/signal/"],["ta","https://www.technoairlines.com/festival/signal-festival-pyramide-takeover-vosendorf-austria-2026"],["ra","https://ra.co/events/2489893"]],"price":"ab €45","head":["Boris Brejcha"],"chk":"2026-11-20","io":["Indoor"],"ook":1,"srcChk":"2026-11-19"},
 {"d":"2026-11-20","s":"22:00","e":"06:00","title":"syndikat","venue":"Celeste","coll":["Das Syndikat"],"floors":[{"f":"","a":["Malounadou","Anna Soto","Jule Feser","Aside"]}],"src":[["ra","https://ra.co/events/2570049"],["ce","https://www.celeste.co.at/?direct=true"],["ce","https://www.celeste.co.at/"],["ta","https://www.technoairlines.com/event/syndikat-celeste-2026-11-20"],["ft","https://frey-tag.at/kalender/syndikat?s=ucgAltKQf"]],"genres":["House"],"flyer":"https://images.ra.co/def42c8e0589bb6771ae4224771410427fd6a7c6.png","note":{"de":"Das Syndikat kommt zum ersten Mal im Celeste zusammen. Es spielen Malounadou, Anna Soto, Jule Feser und Aside, angekündigt ist House. Weitere Infos zu den Artists, Preis und Mindestalter nennt die RA-Seite nicht. 22:00–06:00.","en":"Das Syndikat comes together for the first time at Celeste. Malounadou, Anna Soto, Jule Feser and Aside play, with house announced. The RA page gives no further artist info, price or age limit. 22:00–06:00."},"chk":"2026-11-20","vok":1,"srcChk":"2026-11-20","na":["price","tickets","age"]},
-{"d":"2026-11-20","s":"22:00","e":"05:45","title":"Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION","venue":"FLUCC","coll":["Kollektiv Klanggerecht","Klanggerecht"],"genres":["Raw Techno","Hypnotic Techno","Hard Groove"],"floors":[{"f":"Deck","a":["Tonks","wldfee","Sauerstøff","subinstans","NooK","mein__dm","Techmoo"]}],"price":"5 € (nur Abendkasse)","flyer":"https://assets-flucc-at.fra1.digitaloceanspaces.com/flucc-at-uploads/images/20112026_TANZINSTANZ_RAW_EDITION_FLUCC_DEC.max-2560x1440.png","note":{"de":"Das Kollektiv Klanggerecht kehrt mit seiner Reihe Tanzinstanz in einer „RAW EDITION“ auf das FLUCC Deck zurück. Im Fokus stehen Raw Techno, Hypnotic und Hard Groove – treibende Beats und dunkle, hypnotische Grooves bis in die frühen Morgenstunden. Es spielen sieben Acts: Tonks, wldfee, Sauerstøff, subinstans, NooK, mein__dm und Techmoo. Eintritt 5 €, nur an der Abendkasse.","en":"Kollektiv Klanggerecht returns to the FLUCC Deck with a \"RAW EDITION\" of its Tanzinstanz series. The focus is on raw techno, hypnotic and hard groove – driving beats and dark, hypnotic grooves into the early morning. Seven acts play: Tonks, wldfee, Sauerstøff, subinstans, NooK, mein__dm and Techmoo. Entry 5 €, door only."},"vok":1,"na":["tickets","age"],"src":[["fl","https://flucc.at/events/6pLCza-kollektiv-klanggerecht-presents-tanzinstanz-raw-edition/"],["fl","https://www.flucc.at/events/6pLCza-kollektiv-klanggerecht-presents-tanzinstanz-raw-edition/"],["ra","https://ra.co/events/2588252"]],"chk":"2026-11-20","srcChk":"2026-11-19"},
+{"d":"2026-11-20","s":"22:00","e":"05:45","title":"Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION","venue":"FLUCC","coll":["Kollektiv Klanggerecht","Klanggerecht"],"genres":["Raw Techno","Hypnotic Techno","Hardgroove"],"floors":[{"f":"Deck","a":["Tonks","wldfee","Sauerstøff","subinstans","NooK","mein__dm","Techmoo"]}],"price":"5 € (nur Abendkasse)","flyer":"https://assets-flucc-at.fra1.digitaloceanspaces.com/flucc-at-uploads/images/20112026_TANZINSTANZ_RAW_EDITION_FLUCC_DEC.max-2560x1440.png","note":{"de":"Das Kollektiv Klanggerecht kehrt mit seiner Reihe Tanzinstanz in einer „RAW EDITION“ auf das FLUCC Deck zurück. Im Fokus stehen Raw Techno, Hypnotic und Hard Groove – treibende Beats und dunkle, hypnotische Grooves bis in die frühen Morgenstunden. Es spielen sieben Acts: Tonks, wldfee, Sauerstøff, subinstans, NooK, mein__dm und Techmoo. Eintritt 5 €, nur an der Abendkasse.","en":"Kollektiv Klanggerecht returns to the FLUCC Deck with a \"RAW EDITION\" of its Tanzinstanz series. The focus is on raw techno, hypnotic and hard groove – driving beats and dark, hypnotic grooves into the early morning. Seven acts play: Tonks, wldfee, Sauerstøff, subinstans, NooK, mein__dm and Techmoo. Entry 5 €, door only."},"vok":1,"na":["tickets","age"],"src":[["fl","https://flucc.at/events/6pLCza-kollektiv-klanggerecht-presents-tanzinstanz-raw-edition/"],["fl","https://www.flucc.at/events/6pLCza-kollektiv-klanggerecht-presents-tanzinstanz-raw-edition/"],["ra","https://ra.co/events/2588252"]],"chk":"2026-11-20","srcChk":"2026-11-19"},
 {"d":"2026-11-20","s":"22:00","title":"Over:Tone x CitrusCue pres. by Wums","venue":"Club U","coll":["CitrusCue","Wums"],"genres":["Drum & Bass","Techno"],"floors":[{"f":"","a":["A.Fruit","fejv","RUV3N","DICEFACE","Tesa"]}],"note":{"de":"Gemeinsame Nacht der Reihen Over:Tone und CitrusCue, präsentiert vom Wiener Wums Kollektiv im Club U am Karlsplatz. CitrusCue veranstaltet sonst Bassmusik-Nächte im Club Lucia; fejv ist dort Local Support mit Sets zwischen UK Bass und Leftfield. Dazu spielen A.Fruit, Tesa sowie RUV3N b2b DICEFACE. Laut frey-tag stehen Drum and Bass und Techno auf dem Programm. Endzeit und Preis sind nicht angegeben.","en":"Joint night of the Over:Tone and CitrusCue series, presented by Vienna's Wums collective at Club U on Karlsplatz. CitrusCue usually runs bass music nights at Club Lucia; fejv is local support there with sets between UK bass and leftfield. Also playing are A.Fruit, Tesa and RUV3N b2b DICEFACE. According to frey-tag the music is drum and bass and techno. End time and price are not given."},"chk":"2026-11-20","srcChk":"2026-11-20","src":[["ft","https://frey-tag.at/locations/club-u"],["ft","https://frey-tag.at/kalender/over-tone-x-citruscue?s=SWd84BE-8"],["ta","https://www.technoairlines.com/event/overtone-x-citruscue-club-u-2026-11-20"],["ra","https://ra.co/events/2587691"]],"flyer":"https://images.ra.co/0772445822ff2d0acbe1b4f8b0ba0ae7e87e6605.png","e":"06:00","na":["price","tickets"]},
-{"d":"2026-11-20","s":"23:00","title":"Vision Serpent","venue":"FLUCC","coll":["Vision Serpent"],"note":{"de":"Vision Serpent lädt zum Label-Showcase in die FLUCC Wanne mit NoNameLeft, Mateo!, David Phoenix und Nya Nyx. Bisherige Quellen ordnen den Abend Techno, Minimal Techno und Psytech zu. Beginn 23:00, Ende 06:00. Im Vorverkauf bei kupfticket sind Phase 1 (12 €) und Phase 2 (14 €) ausverkauft, erhältlich ist noch Phase 3 um 16 €; Abendkasse laut RA 18 €. Die FLUCC-Seite selbst enthält keine Beschreibung oder Flyer.","en":"Vision Serpent brings its label showcase to the FLUCC Wanne with NoNameLeft, Mateo!, David Phoenix and Nya Nyx. Earlier sources file the night under techno, minimal techno and psytech. 23:00 to 06:00. In presale on kupfticket, phase 1 (€12) and phase 2 (€14) are sold out and phase 3 is available at €16; door price €18 according to RA. The FLUCC page itself has no description or flyer."},"vok":1,"src":[["fl","https://flucc.at/events/kZmxyN-vision-serpent/"],["ra","https://ra.co/events/2557296"],["vo","https://www.volume.at/events/nonameleft-mateo-2026-11-20/"],["fl","https://www.flucc.at/events/kZmxyN-vision-serpent/"],["osh","https://ohschonhell.at/date/flucc-vienna-20-11-2026-nonameleft-mateo-flucc-vision-serpent-showcase"],["fl","https://flucc.at/musik/"]],"floors":[{"f":"Wanne","a":["NoNameLeft","Mateo!","David Phoenix","Nya Nyx"]}],"e":"06:00","genres":["Techno","Minimal Techno","Psytech"],"price":"16 € VVK (Phase 3) / 18 € Abendkassa","age":"18+","tickets":"https://kupfticket.com/en/events/vision-serpent-showcase-w-nnl-mateo","chk":"2026-11-20","aw":1,"ook":1,"srcChk":"2026-11-19","flyer":"https://assets-flucc-at.fra1.digitaloceanspaces.com/flucc-at-uploads/images/211126_VisionSerpent_Wanne_VS_Flyer_IG_-_N.max-2560x1440.jpg","head":["NoNameLeft","Mateo!"]},
+{"d":"2026-11-20","s":"23:00","title":"Vision Serpent","venue":"FLUCC","coll":["Vision Serpent"],"note":{"de":"Vision Serpent lädt zum Label-Showcase in die FLUCC Wanne mit NoNameLeft, Mateo!, David Phoenix und Nya Nyx. Bisherige Quellen ordnen den Abend Techno, Minimal Techno und Psytech zu. Beginn 23:00, Ende 06:00. Im Vorverkauf bei kupfticket sind Phase 1 (12 €) und Phase 2 (14 €) ausverkauft, erhältlich ist noch Phase 3 um 16 €; Abendkasse laut RA 18 €. Die FLUCC-Seite selbst enthält keine Beschreibung oder Flyer.","en":"Vision Serpent brings its label showcase to the FLUCC Wanne with NoNameLeft, Mateo!, David Phoenix and Nya Nyx. Earlier sources file the night under techno, minimal techno and psytech. 23:00 to 06:00. In presale on kupfticket, phase 1 (€12) and phase 2 (€14) are sold out and phase 3 is available at €16; door price €18 according to RA. The FLUCC page itself has no description or flyer."},"vok":1,"src":[["fl","https://flucc.at/events/kZmxyN-vision-serpent/"],["ra","https://ra.co/events/2557296"],["vo","https://www.volume.at/events/nonameleft-mateo-2026-11-20/"],["fl","https://www.flucc.at/events/kZmxyN-vision-serpent/"],["osh","https://ohschonhell.at/date/flucc-vienna-20-11-2026-nonameleft-mateo-flucc-vision-serpent-showcase"],["fl","https://flucc.at/musik/"]],"floors":[{"f":"Wanne","a":["NoNameLeft","Mateo!","David Phoenix","Nya Nyx"]}],"e":"06:00","genres":["Techno","Minimal Techno","Psy Techno"],"price":"16 € VVK (Phase 3) / 18 € Abendkassa","age":"18+","tickets":"https://kupfticket.com/en/events/vision-serpent-showcase-w-nnl-mateo","chk":"2026-11-20","aw":1,"ook":1,"srcChk":"2026-11-19","flyer":"https://assets-flucc-at.fra1.digitaloceanspaces.com/flucc-at-uploads/images/211126_VisionSerpent_Wanne_VS_Flyer_IG_-_N.max-2560x1440.jpg","head":["NoNameLeft","Mateo!"]},
 {"d":"2026-11-20","s":"23:00","title":"Synergy Rave x Trance + Hard Techno","venue":"Das Werk","coll":["Synergy","KARTELL.FM","HEKTISCH"],"genres":["Trance","Hard Techno","Techno"],"tickets":"https://ra.co/events/2564334","flyer":"https://images.ra.co/04b7d7930ace10a3fd637644fb7c49fcf184213d.jpg","note":{"de":"Synergy Rave bringt Trance und Hard Techno auf zwei Floors ins Werk: Auf dem Lusterfloor kuratiert KARTELL.FM von 23 bis 6 Uhr Trance & Bounce, auf dem Lasterfloor übernimmt HEKTISCH von 0 bis 6 Uhr mit Hard Techno. Weitere Acts sind noch nicht bekannt. Early Bird 10 €, Vorverkauf 15 €, Abendkasse 15 € bzw. 18 € ab Mitternacht; Einlass ab 18. Zero Tolerance gegenüber Homophobie, Sexismus und Rassismus.","en":"Synergy Rave brings trance and hard techno to two floors at Das Werk: KARTELL.FM curates trance & bounce on the Lusterfloor from 11 pm to 6 am, while HEKTISCH takes over the Lasterfloor with hard techno from midnight to 6 am. Further acts have not been announced. Early bird 10 €, presale 15 €, door 15 € or 18 € after midnight; 18+. Zero tolerance for homophobia, sexism and racism."},"vok":1,"src":[["dw","https://www.daswerk.org/program?page=2"],["ev","https://events.at/event/synergy-rave-x-trance-hard-techno-16"],["ra","https://ra.co/events/2564334"],["dw","https://www.daswerk.org/program"],["ta","https://www.technoairlines.com/event/synergy-rave-x-trance-hard-techno-das-werk-2026-11-20"],["dw","https://www.daswerk.org/?p=4873"],["ta","https://www.technoairlines.com/events/vienna/2026-11"],["dw","https://www.daswerk.org/"]],"floors":[{"f":"","a":["DJ Böhm","Comrade Martin","Dan.P","L4NC3","Dimitrios","DJ FERRARI","Tactical Delay","presso"]}],"e":"06:00","price":"VVK 15 € / Early Bird 10 €; AK 15 €, ab 00:00 18 €","age":"18+","chk":"2026-11-20","srcChk":"2026-11-19"},
 {"d":"2026-11-20","s":"23:00","title":"Sub Zero","venue":"The Loft","coll":["Sub Zero"],"genres":["Techno"],"floors":[{"f":"Oben","a":["Userkiller","Kjaer","Mark Dale","Mike Mystik","MANiLO","Chicano"]}],"price":"10 € vor 00:00 / 12 € danach","flyer":"https://www.theloft.at/wp-content/uploads/2026/10/830563715_10235959980645177_3632405198332878954_n.jpg","note":{"de":"„Vienna meets Berlin“: Sub Zero bringt den Berliner Techno-Sound ins The Loft und lässt ihn auf die dunklere, rohere Seite der Wiener Szene treffen – kein polierter Clubsound, kein Mainstream, sondern treibende Kicks, düstere Atmosphären und kompromissloser Techno. Aus Deutschland kommen Userkiller (Tresor Berlin, R.C.S), MANiLO (Vorwärts Musik, R.C.S) und Chicano (R.C.S). Die österreichische Seite vertreten Kjaer (IAMT Red, Fine Artistry), Mark Dale (Republic Artists, Dynamic) und Mike Mystik (Dunkelton, Shadow State). Gespielt wird im oberen Floor; Eintritt 10 € vor Mitternacht, 12 € danach.","en":"'Vienna meets Berlin': Sub Zero brings Berlin's techno sound to The Loft and lets it collide with the darker, rawer side of the Viennese scene – no polished club music, no mainstream, but driving kicks, dark atmospheres and uncompromising techno. From Germany come Userkiller (Tresor Berlin, R.C.S), MANiLO (Vorwärts Musik, R.C.S) and Chicano (R.C.S). Representing Austria are Kjaer (IAMT Red, Fine Artistry), Mark Dale (Republic Artists, Dynamic) and Mike Mystik (Dunkelton, Shadow State). The night takes place on the upstairs floor; entry 10 € before midnight, 12 € after."},"vok":1,"src":[["lo","https://www.theloft.at/sub-zero/"],["ra","https://ra.co/events/2550352"],["ta","https://www.technoairlines.com/event/subzero-the-loft-2026-11-20"],["lo","https://www.theloft.at/programm/"]],"e":"06:00","age":"18+","na":["tickets"],"chk":"2026-11-20","srcChk":"2026-11-19"},
 {"d":"2026-11-20","s":"23:00","e":"06:00","title":"Freeride Millenium","venue":"SASS Music Club","floors":[{"f":"","a":["eira haul","Paris Böhm","Seba"]}],"vok":1,"note":{"de":"Freeride Millenium, Wiener Kult-Label und Partyreihe, holt Verstärkung aus Berlin ins SASS. eira haul hat sich von kleinen Berliner Clubpartys bis zur Residency beim Akasha Festival hochgespielt, mit Releases auf mehreren Labels und Auftritten im Berghain, im Fabric und auf BBC Radio 1; ihr Sound gilt als deep und treibend. Paris Böhm, Künstlerin, Performerin und DJ, hat Freeride Millenium mit Jorkes gegründet und ist eine zentrale Figur der Wiener Queer-Clubszene. Seba aus der Freeride-Familie bewegt sich zwischen hell und dunkel mit Grooves und tiefen Basslines. Eintritt 10–15 € inkl. Welcome Drink, Awareness-Team vor Ort.","en":"Freeride Millenium, a Vienna cult label and party series, brings support from Berlin to SASS. eira haul rose from small Berlin club parties to a residency at Akasha Festival, with releases on several labels and sets at Berghain, Fabric and BBC Radio 1; her sound is deep and driving. Paris Böhm, artist, performer and DJ, co-founded Freeride Millenium with Jorkes and is a central figure in Vienna's queer club scene. Seba from the Freeride family moves between light and dark with grooves and deep basslines. Entry 10–15 € incl. welcome drink, awareness team on site."},"src":[["sa","https://sassvienna.com/en/events"],["sa","https://sassvienna.com/en/events/event/freeride-millenium-november"],["ra","https://ra.co/events/2581977"],["ta","https://www.technoairlines.com/event/freeride-millenium-with-eira-haul-seba-paris-bohm-sass-music-club-2026-11-20"],["sa","https://sassvienna.com/en/"]],"na":["genres","tickets"],"_detailUrl":"https://sassvienna.com/en/events/event/freeride-millenium-november","srcChk":"2026-11-19","price":"10–15 €","age":"18+","chk":"2026-11-20","coll":["Freeride Millenium"],"flyer":"https://images.ra.co/9e4f55b2b0383a5d480369eedecc5282e95a2fdb.jpg","genres":["Techno","House"],"aw":1,"head":["eira haul"]},
@@ -54841,7 +54831,7 @@ const RAW=[
 {"d":"2026-11-20","s":"23:00","title":"The House of Funk presents Ricky Chong","venue":"Funkhaus","floors":[{"f":"","a":["Ricky Chong","Franco"]}],"head":["Ricky Chong"],"note":{"de":"The House of Funk feiert im Funkhaus Wien seinen zweiten Geburtstag – nach den letzten gut besuchten Nächten lautet das Motto diesmal „This time… its disco“. Gast ist Ricky Chong, ein in Irland geborener Disco-DJ, dessen Sets Musik aus aller Welt und vieler Genres verbinden; er veröffentlicht u. a. auf Fresh Take Records und Nocturnal Hazard und spielt sonst vor allem in Dublin, London, Cork und Liverpool. Dazu legen Franco und die Residents von The House of Funk auf. RA führt den Abend unter Disco und Funk/Soul. 23:00–06:00, Tickets 10 € über RA, ab 18.","en":"The House of Funk celebrates its second birthday at Funkhaus Wien – after its recent busy nights, this edition's motto is \"This time… its disco\". The guest is Ricky Chong, an Irish-born disco DJ whose sets blend music from around the world and across genres; he releases on labels such as Fresh Take Records and Nocturnal Hazard and mostly plays Dublin, London, Cork and Liverpool. Franco and The House of Funk residents complete the line-up. RA lists the night as disco and funk/soul. 23:00–06:00, tickets €10 via RA, 18+."},"src":[["ra","https://ra.co/events/2581126"],["ta","https://www.technoairlines.com/events/vienna"],["ra","https://de.ra.co/events/2581126"]],"chk":"2026-11-20","srcChk":"2026-11-19","flyer":"https://images.ra.co/104a4d6e6b37f4f06f02489a145e89b934594f14.jpg","e":"06:00","price":"10 €","age":"18+","tickets":"https://ra.co/events/2581126","genres":["Disco","Funk","Soul"],"coll":["The House of Funk"]},
 {"d":"2026-11-20","s":"23:45","e":"05:00","title":"Forbidden Frequency","venue":"Kramladen","coll":["Forbidden Frequency"],"genres":["Trance","Techno","House"],"floors":[{"f":"","a":["23:45|CRASTY","00:45|Plastiksackerl","01:45|DJ Bügelbrett","03:00|Schmeckes","03:45|HALO"]}],"note":{"de":"Das Wiener Kollektiv Forbidden Frequency bringt seine Reihe in den Kramladen am Gürtel. Laut Veranstalter führt die Nacht durch House, Techno und Trance – von groovigen House-Sets über druckvollen Techno bis zu euphorischen Trance-Momenten. Es spielen lokale Artists und Residents des Kollektivs nach festem Timetable von 23:45 bis 5:00 Uhr.","en":"Viennese collective Forbidden Frequency brings its series to Kramladen on the Gürtel. According to the organisers, the night moves through house, techno and trance – from groovy house sets via driving techno to euphoric trance moments. Local artists and the collective's residents play to a set timetable from 23:45 to 5:00."},"ook":1,"chk":"2026-11-20","srcChk":"2026-11-20","na":["tickets","flyer"],"src":[["ffq","https://forbiddenfrequency.at/events/2026-11-20-kramladen/"],["ffq","https://forbiddenfrequency.at/events/"],["fa","https://www.falter.at/event/1075219/forbidden-frequency"],["fa","https://www.falter.at/location/31345/kramladen"],["ft","https://frey-tag.at/kalender/forbidden-frequency?s=1cdyK3X8u"]],"price":"Eintritt frei"},
 {"d":"2026-11-20","s":"23:59","e":"06:00","title":"GLITCH Vienna 001","venue":"Rhiz","coll":["GLITCH"],"genres":["House","Tech House"],"floors":[{"f":"","a":["TenFifty","Annzie","High Chew"]}],"note":{"de":"Auftakt der House-Residency von GLITCH im Rhiz – laut Veranstalter „unsere erste Nacht in Wien“, bei der eingeladene Artists gemeinsam mit der GLITCH-Crew auflegen. GLITCH ist eine 2025 gegründete House-Eventreihe (Verein GLITCH), ursprünglich mit Partys an besonderen Orten in Kärnten. Es spielen die GLITCH-Residents TenFifty, ein junges Tech-House-Projekt aus Margareten (Grafenauer & KΛSKIN), ANNZIE, eine Wiener DJ, deren Sound stark von der britischen Clubszene geprägt ist, und High Chew (Tommy), ein aus dem Mittleren Westen der USA stammender Wiener DJ, der frühen Chicago House mit Minimal House, Deep Tech und Tech House verbindet. Eintritt frei, laut Veranstalter 00:00–06:00 (Seite und RA nennen 23:59 bzw. 23:30 als Beginn).","en":"Opening night of GLITCH's house residency at Rhiz – in the organisers' words \"our first night in Vienna\", with invited artists playing alongside the GLITCH crew. GLITCH is a house event series founded in 2025 (Verein GLITCH) that started with parties at special locations in Carinthia. Playing are GLITCH residents TenFifty, a young tech-house project from Margareten (Grafenauer & KΛSKIN), ANNZIE, a Vienna DJ whose sound is strongly influenced by the UK club scene, and High Chew (Tommy), a Vienna-based DJ from the American Midwest who blends early Chicago house with minimal house, deep tech and tech house. Free entry, 00:00–06:00 according to the organisers (the event page and RA give 23:59 and 23:30 as start)."},"ook":1,"src":[["gl","https://www.enter-glitch.com/"],["gl","https://www.enter-glitch.com/events/glitch-vienna-001"],["ta","https://www.technoairlines.com/event/glitch-001-rhiz-2026-11-20"],["ra","https://ra.co/events/2576363"]],"chk":"2026-11-20","srcChk":"2026-11-19","price":"Eintritt frei","age":"18+","flyer":"https://images.ra.co/8ab03c4db050fa4f3ed936d286ef229d4a141c10.jpg"},
-{"d":"2026-11-20","s":"23:59","title":"Schall & Schabernack","venue":"Club Lucia","floors":[{"f":"","a":["23:59|L!KA","01:30|Laerm","01:30|bobbyyxjohnson","03:30|PAUNA"]}],"note":{"de":"Clubnacht der Reihe Schall & Schabernack im Club Lucia unter dem Motto „Nur bis 5 aber keine Polizei“: Die Wälder sind still und die Nächte länger, doch die Lust auf treibende Basslines kennt keine Jahreszeit. Lokale DJs spielen ausgewählten Hard Groove und Techno. L!KA eröffnet (23:59–01:30), dann Laerm b2b bobbyyxjohnson (Instagram-Name, 01:30–03:30), zum Schluss die Wiener Techno-DJ PAUNA (03:30–05:00), Kernmitglied von RAW SESSION und Mitgründerin von ALERT[A]. Eintritt 8 € an der Abendkassa, Ende 5 Uhr.","en":"Club night by the Schall & Schabernack series at Club Lucia under the motto \"only until 5 but no police\": the forests are quiet and the nights longer, but the craving for driving basslines knows no season. Local DJs play selected hard groove and techno. L!KA opens (23:59–01:30), then Laerm b2b bobbyyxjohnson (Instagram handle, 01:30–03:30), and Viennese techno DJ PAUNA closes (03:30–05:00), a core member of RAW SESSION and co-founder of ALERT[A]. Entry €8 at the door, ends 5 am."},"src":[["ta","https://www.technoairlines.com/event/schall-schabernack-club-lucia-2026-11-20"],["cl","https://www.clublucia.at/event/schallschabernack-nur-bis-5-aber-keine-polizei/"],["cl","https://www.clublucia.at/events/"],["ta","https://www.technoairlines.com/events/vienna/2026-11"],["ra","https://ra.co/events/2572679"]],"chk":"2026-11-20","srcChk":"2026-11-19","e":"05:00","price":"8 € (AK)","coll":["Schall & Schabernack"],"genres":["Hard Groove","Techno"],"flyer":"https://www.clublucia.at/wp-content/uploads/2026/11/entwurf3-scaled.png","vok":1,"na":["tickets"],"age":"18+"},
+{"d":"2026-11-20","s":"23:59","title":"Schall & Schabernack","venue":"Club Lucia","floors":[{"f":"","a":["23:59|L!KA","01:30|Laerm","01:30|bobbyyxjohnson","03:30|PAUNA"]}],"note":{"de":"Clubnacht der Reihe Schall & Schabernack im Club Lucia unter dem Motto „Nur bis 5 aber keine Polizei“: Die Wälder sind still und die Nächte länger, doch die Lust auf treibende Basslines kennt keine Jahreszeit. Lokale DJs spielen ausgewählten Hard Groove und Techno. L!KA eröffnet (23:59–01:30), dann Laerm b2b bobbyyxjohnson (Instagram-Name, 01:30–03:30), zum Schluss die Wiener Techno-DJ PAUNA (03:30–05:00), Kernmitglied von RAW SESSION und Mitgründerin von ALERT[A]. Eintritt 8 € an der Abendkassa, Ende 5 Uhr.","en":"Club night by the Schall & Schabernack series at Club Lucia under the motto \"only until 5 but no police\": the forests are quiet and the nights longer, but the craving for driving basslines knows no season. Local DJs play selected hard groove and techno. L!KA opens (23:59–01:30), then Laerm b2b bobbyyxjohnson (Instagram handle, 01:30–03:30), and Viennese techno DJ PAUNA closes (03:30–05:00), a core member of RAW SESSION and co-founder of ALERT[A]. Entry €8 at the door, ends 5 am."},"src":[["ta","https://www.technoairlines.com/event/schall-schabernack-club-lucia-2026-11-20"],["cl","https://www.clublucia.at/event/schallschabernack-nur-bis-5-aber-keine-polizei/"],["cl","https://www.clublucia.at/events/"],["ta","https://www.technoairlines.com/events/vienna/2026-11"],["ra","https://ra.co/events/2572679"]],"chk":"2026-11-20","srcChk":"2026-11-19","e":"05:00","price":"8 € (AK)","coll":["Schall & Schabernack"],"genres":["Hardgroove","Techno"],"flyer":"https://www.clublucia.at/wp-content/uploads/2026/11/entwurf3-scaled.png","vok":1,"na":["tickets"],"age":"18+"},
 {"d":"2026-11-21","s":"13:00","title":"Tram & Bass Vol. 4 – Our longest ride yet","venue":"TBA","genres":["Techno","Dubstep","UK Garage","Drum & Bass"],"floors":[{"f":"","a":["TBA"]}],"tickets":"https://eventfrog.at/en/p/parties/rave/tram-bass-vol-4-our-longest-ride-yet-wien-7523030925770287970.html","note":{"de":"Vierte Ausgabe der Reihe Tram & Bass des Vereins Crossover, laut Untertitel „Our longest ride yet“: acht Stunden Musik in einer Wiener Straßenbahn auf zwei getrennten Fahrten. Route 1 (13–17 Uhr) mit Techno, Dubstep und UK Garage startet und endet an der Station Karlsplatz/Resselpark; Route 2 (17–21 Uhr) ist ganz Drum & Bass und seinen Einflüssen gewidmet, Abfahrt Karlsplatz/Resselpark, Endstation Josefstädter Straße. Die Routen sind einzeln oder als Kombiticket über Eventfrog buchbar; an Bord gibt es Getränke und Snacks, eigene Getränke sind nicht erlaubt. Tickets kosten laut Eventfrog 25–40 € (einzelne Route bzw. Kombiticket). Ein Lineup ist in den lesbaren Quellen nicht angegeben.","en":"Fourth edition of Tram & Bass by the Crossover association, billed as \"Our longest ride yet\": eight hours of music on a Vienna tram across two separate rides. Route 1 (1–5 pm) with techno, dubstep and UK garage departs from and returns to the Karlsplatz/Resselpark stop; Route 2 (5–9 pm) is all drum & bass and its influences, departing Karlsplatz/Resselpark and ending at Josefstädter Straße. Routes can be booked separately or as a combo ticket via Eventfrog; drinks and snacks are sold on board and own drinks are not allowed. According to Eventfrog, tickets cost €25–40 (single route or combo ticket). No line-up is given in the readable sources."},"na":["lineup"],"chk":"2026-11-21","src":[["efg","https://eventfrog.at/en/p/parties/rave/tram-bass-vol-4-our-longest-ride-yet-wien-7523030925770287970.html"],["efg","https://eventfrog.at/de/events/at/partys.html"],["ta","https://www.technoairlines.com/events/vienna/2026-11"],["ra","https://ra.co/events/2586292"],["ta","https://www.technoairlines.com/event/tram-bass-vol-4-our-longest-ride-yet-tba-viennese-tram-2026-11-21"]],"srcChk":"2026-11-21","e":"21:00","coll":["Crossover"],"flyer":"https://res.eventfrog.net/whatsapp-image-2026-10-30-at-17-41-1-J9P4PIS6.webp?_=1793630733000","price":"25–40 €"},
 {"d":"2026-11-21","s":"15:00","e":"21:00","title":"techNOage – ab fünfzehn Uhr Clubbing","venue":"FLUCC","coll":["techNOage"],"genres":["Techno"],"price":"Freie Spende","flyer":"https://assets-flucc-at.fra1.digitaloceanspaces.com/flucc-at-uploads/images/technoage_Sept_2026.min-2560x1440.jpg","note":{"de":"techNOage lädt zum Nachmittags-Clubbing aufs FLUCC Deck (15–21 Uhr), Eintritt gegen freie Spende („So viel Dein Taktor wippt“). Die Reihe versteht Techno nicht als enge Kategorie, verweist auf seine Wurzeln in der Schwarzen Arbeiter:innenbewegung Detroits zwischen Soul, Funk und Maschinenmusik und fragt, wo die Grenzen des Genres liegen. Das Lineup bewegt sich in Phasen innerhalb des Four-to-the-floor-Rahmens und baut wie in einer Ein-Raum-Disco einen Spannungsbogen vom Anfang bis zum Ende auf. Laut Techno Airlines und RA spielen DJ Rakita und SNDR_Xone. Es gibt Kaffee und Kuchen für einen guten Zweck, der Zugang ist barrierefrei.","en":"techNOage hosts afternoon clubbing on the FLUCC Deck (3–9 pm), entry by free donation. The series refuses to treat techno as a narrow category, pointing to its roots in Detroit's Black working-class movement between soul, funk and machine music and questioning where the genre's boundaries lie. The line-up moves through phases within a four-to-the-floor frame, building a tension arc from start to finish like a one-room disco. According to Techno Airlines and RA, DJ Rakita and SNDR_Xone play. Coffee and cake are served for a good cause, and access is step-free."},"vok":1,"src":[["fl","https://flucc.at/events/5KV584-technoage-ab-funfzehn-uhr-clubbing-26-09/"],["fl","https://www.flucc.at/events/5KV584-technoage-ab-funfzehn-uhr-clubbing-26-09/"],["fl","https://flucc.at/musik/"],["ra","https://ra.co/events/2589147"],["ta","https://www.technoairlines.com/event/technoage-from-six-oclock-clubbing-flucc-2026-11-21"],["ft","https://frey-tag.at/locations/fluc-and-fluc-wanne"]],"floors":[{"f":"Deck","a":["DJ Rakita","Tatjana Sünder"]}],"chk":"2026-11-21","srcChk":"2026-11-21","na":["tickets"]},
 {"d":"2026-11-21","s":"16:00","e":"22:00","title":"Du Tanzt Mich Mal – Winter Open Air: Punsch Rave (Opening)","venue":"Club U","coll":["Du Tanzt Mich Mal"],"genres":["Minimal","House","Techno"],"sound":{"de":"Lambda Labs Soundsystem","en":"Lambda Labs sound system","src":"https://www.dutanztmichmal.at/events"},"src":[["dtm","https://www.dutanztmichmal.at/events"],["ra","https://ra.co/events/2584070"],["ta","https://www.technoairlines.com/events/vienna/2026-11"]],"chk":"2026-11-21","floors":[{"f":"Open Air","a":["Duplikate","Adrian Tronic","Manu Script","dRob"]}],"price":"10 € (nur Barzahlung; laut RA 15–16 Uhr Eintritt frei)","io":["Outdoor"],"flyer":"https://static.wixstatic.com/media/851965_f68cfe7b3d004e38b8f71b088b477862~mv2.jpeg","note":{"de":"Auftakt der Winter-Open-Air-Reihe „Punsch Rave“ von Du Tanzt Mich Mal am Karlsplatz beim Club U: Open-Air-Rave bis 22 Uhr mit Minimal, House und Techno (RA: Tech House, Minimal) auf dem Lambda-Labs-Soundsystem mit Lichteffekten, dazu Punsch, ein spezieller Tequila-Punsch und Tacos von Tacos Hermanos. Es spielen Duplikate, Adrian Tronic, Manu Script und dRob. Die Veranstalter-Website nennt 16 Uhr als Beginn, RA dagegen 15 Uhr mit freiem Eintritt bis 16 Uhr; danach 10 €, nur Barzahlung, ab 21.","en":"Opening of Du Tanzt Mich Mal's 'Punsch Rave' winter open-air series at Karlsplatz by Club U: an open-air rave until 10 pm with minimal, house and techno (RA: tech house, minimal) on a Lambda Labs sound system with light effects, plus punch, a special tequila punch and tacos from Tacos Hermanos. Duplikate, Adrian Tronic, Manu Script and dRob play. The promoter's website gives 4 pm as the start, while RA says 3 pm with free entry until 4 pm; after that €10, cash only, 21+."},"srcChk":"2026-11-21","age":"21+"},
@@ -54878,7 +54868,7 @@ const RAW=[
 {"d":"2026-11-27","s":"22:00","e":"05:00","title":"Cafe Disko x Firlefunk","venue":"Funkhaus","coll":["Firlefunk"],"genres":["Disco","Funk","Soul"],"floors":[{"f":"","a":["Diskohengst","Mickey Gee","Elasoul","Floreal","Felix Wolfs"]}],"head":["Diskohengst"],"price":"15 €","age":"18+","note":{"de":"Disko und Firlefunk tun sich zusammen und holen Diskohengst alias Shacke One aus Berlin zurück nach Wien – die letzte gemeinsame Nacht soll so heiß gewesen sein, dass „die Decke geschwitzt“ hat, daher geht es diesmal in den größeren Raum des Funkhauses. Neben Diskohengst legen Mickey Gee, Elasoul, Floreal und Felix Wolfs Disco, Funk und Soul auf. Das Motto: in Bewegung bleiben, den Kopf in die Musik stecken und selbstbewusst tanzen. 22:00–05:00, Eintritt 15 €, ab 18; Poster von Coletta.","en":"Disko and Firlefunk team up to bring Diskohengst aka Shacke One from Berlin back to Vienna – the last joint night was reportedly so hot that 'the ceiling sweated', so this time it moves to Funkhaus' larger room. Alongside Diskohengst, Mickey Gee, Elasoul, Floreal and Felix Wolfs play disco, funk and soul. The motto: keep moving, get your head into the music and dance with confidence. 22:00–05:00, entry €15, 18+; poster by Coletta."},"chk":"2026-11-20","srcChk":"2026-11-20","na":["flyer","tickets"],"src":[["ra","https://ra.co/events/2574087"],["ta","https://www.technoairlines.com/event/cafe-disko-x-firlefunk-funkhaus-2026-11-27"],["ta","https://www.technoairlines.com/events/vienna/2026-11"],["ft","https://frey-tag.at/kalender/cafe-disko-x-firlefunk?s=33J1mdTq1"]]},
 {"d":"2026-11-27","s":"23:00","e":"06:00","title":"Flashback w/ Thomas Schumacher – Techno Classics","venue":"Grelle Forelle","coll":["Flashback","FactX"],"genres":["Techno","Acid","Trance"],"price":"ab 16 €","floors":[{"f":"Mainfloor","a":["Thomas Schumacher","Joro & Joabo","Rokis","Tom Snow","MC Mars","MC Spot"]},{"f":"Kitchen","a":["Martin Oelz","Peter Pan","Romen Est Omen","Hanneken","PA_olo"]}],"src":[["rg","https://www.regioactive.de/party/flashback-w-thomas-schumacher-grelle-forelle-techno-classics-elektrochemie-lk-wien-2026-11-27-B5h2WQx06l"],["gf","https://www.grelleforelle.com/programm/"],["ft","https://frey-tag.at/kalender/flashback?s=w_k-JY1v2"],["ft","https://frey-tag.at/kalender/flashback-techno-classics-1?s=eJPDz--_e"],["gf","https://www.grelleforelle.com/project/2711-flashback-w-thomas-schumacher-techno-classics-elektrochemie-lk/"],["ra","https://ra.co/events/2551280"],["ta","https://www.technoairlines.com/events/vienna/2026-11"],["ta","https://www.technoairlines.com/event/flashback-w-thomas-schumacher-grelle-forelle-2026-11-27"]],"tickets":"https://flashback.ticket.io/2nf9fbhu/","vok":1,"flyer":"https://www.grelleforelle.com/wp-content/uploads/2026/09/flashback_271126_web.jpg","note":{"de":"Ausgabe der Techno-Classics-Reihe Flashback (mit FactX) in der Grelle Forelle von 23:00 bis 06:00. Headliner ist der deutsche DJ und Produzent Thomas Schumacher, der unter dem Alias Elektrochemie LK mit „Schall“ einen Charterfolg hatte, 1998 sein erstes Label Spiel-Zeug Schallplatten gründete, in den 1990ern bei Bush unter Vertrag war und heute sein Label Electric Ballroom betreibt. Auf dem Mainfloor spielen außerdem Joro & Joabo, Rokis und Tom Snow, begleitet von MC Mars und MC Spot; in der Kitchen legen Martin Oelz, Peter Pan, Romen Est Omen, Hanneken und PA_olo auf. Musikalisch geht es um Techno, Acid und Trance. Tickets ab 16 € über ticket.io; RA nennt 18+, die Hausregel der Location ist 21+.","en":"An edition of the techno classics series Flashback (with FactX) at Grelle Forelle from 11 pm to 6 am. The headliner is German DJ and producer Thomas Schumacher, who had a chart hit with 'Schall' under his alias Elektrochemie LK, founded his first label Spiel-Zeug Schallplatten in 1998, was signed to Bush in the 1990s and now runs his own Electric Ballroom imprint. Also on the main floor are Joro & Joabo, Rokis and Tom Snow, accompanied by MC Mars and MC Spot; in the Kitchen Martin Oelz, Peter Pan, Romen Est Omen, Hanneken and PA_olo play. The music covers techno, acid and trance. Tickets from 16 € via ticket.io; RA states 18+, the venue's house rule is 21+."},"chk":"2026-11-15","srcChk":"2026-11-15","head":["Thomas Schumacher"]},
 {"d":"2026-11-27","s":"23:00","title":"Party Modern × PRST: Station Rose","venue":"PRST","coll":["Wien Modern"],"genres":["Electronic"],"floors":[{"f":"","a":["Stipo","Station Rose","Konman","Julia Goldfarb"]}],"src":[["wm","https://www.wienmodern.at/2026-club-praterstrasse-en-2026-237"],["fa","https://www.falter.at/location/42097/prst-praterstrasse"],["wm","https://www.wienmodern.at/event.php?lang=en&id=4567"],["pr","https://prst.ticket.io/gagXTbO2/?lang=en"],["pr","https://prst.ticket.io/gagXTbO2/"],["wm","https://www.wienmodern.at/2026-calendar-en"],["ra","https://ra.co/events/2588634"]],"price":"€12–15 (€5 mit Festivalpass)","tickets":"https://ticket.wienmodern.at/en/buyingflow/tickets/16540/29099/","e":"06:00","note":{"de":"Party Modern ist die Clubnacht des Festivals Wien Modern, die heuer gemeinsam mit dem PRST (Club Praterstraße) stattfindet. Laut Festivalkalender läuft sie von 23 Uhr bis ca. 6 Uhr, der Club ist barrierefrei. Im Mittelpunkt steht Station Rose: Das Wiener Duo aus Elisa Rose und Gary Danner wurde 1988 gegründet, verbindet Techno mit digitaler Medienkunst und audiovisuellen Arbeiten und gilt als Pionier der digitalen Kunst in Österreich. Ebenfalls angekündigt ist „Gunafa Clubbing // Nature Is Cool AI 1126 (UA)“. An den Decks stehen außerdem Stipo, Konman und Julia Goldfarb.","en":"Party Modern is the club night of the Wien Modern festival, held this year together with PRST (Club Praterstraße). According to the festival calendar it runs from 11 pm to around 6 am, and the venue is accessible. The focus is on Station Rose: the Viennese duo of Elisa Rose and Gary Danner, founded in 1988, combines techno with digital media art and audiovisual work and is regarded as a pioneer of digital art in Austria. Also announced is \"Gunafa Clubbing // Nature Is Cool AI 1126 (UA)\". Stipo, Konman and Julia Goldfarb also play."},"chk":"2026-11-15","vok":1,"srcChk":"2026-11-15","flyer":"https://images.ra.co/9c10fb259fe53692be809dec70c38197053ccab8.jpg"},
-{"d":"2026-11-27","s":"23:00","title":"Resident Night: GOLPE // DETOXX","venue":"Das Werk","note":{"de":"Resident Night im Werk mit den Residents DETOXX und Golpe, die gemeinsam mit DJ Wifi den Main Floor bespielen. Auf dem Luster Floor legen Kingsmo, NIKLIST, Arman Shadow und Rantom auf. Musikalisch stehen laut Ankündigung Schranz, Hardtechno und Bounce im Mittelpunkt; die Visuals kommen von itscatherines. Die Nacht läuft von 23 bis 6 Uhr, Einlass ab 18, Tickets kosten 12–20 €. Das Werk weist unter dem Motto „Respect the Club“ darauf hin, dass Sexismus, Rassismus, Homophobie und Transphobie keinen Platz haben.","en":"Resident night at Das Werk with residents DETOXX and Golpe, who play the Main Floor together with DJ Wifi. Kingsmo, NIKLIST, Arman Shadow and Rantom play the Luster Floor. According to the announcement the focus is on schranz, hard techno and bounce; visuals by itscatherines. The night runs from 23:00 to 06:00, entry 18+, tickets 12–20 €. Under the motto “Respect the Club”, Das Werk states that there is no place for sexism, racism, homophobia or transphobia."},"vok":1,"src":[["dw","https://www.daswerk.org/program?page=2"],["dw","https://www.daswerk.org/program"],["ta","https://www.technoairlines.com/events/vienna/2026-11"],["ra","https://ra.co/events/2584419"],["edm","https://electronicdancemusic.at/kalender/wien/"]],"floors":[{"f":"Main Floor","a":["DETOXX","Golpe","Dj Wifi"]},{"f":"Luster Floor","a":["Kingsmo","NIKLIST","Arman Shadow","Rantom"]}],"chk":"2026-11-15","e":"06:00","price":"12–20 €","tickets":"https://www.eventim-light.com/at/a/623a01d54f99ba1c8b632d22/e/6af5e681eda4243a70da13ad","flyer":"https://images.ra.co/2d99570ed6ca759f79a3a3e1dd668983a626c1cd.jpg","head":["DETOXX","Golpe"],"genres":["Techno","Schranz","Hardtechno","Bounce"],"coll":["AUDIO303"],"age":"18+","srcChk":"2026-11-15"},
+{"d":"2026-11-27","s":"23:00","title":"Resident Night: GOLPE // DETOXX","venue":"Das Werk","note":{"de":"Resident Night im Werk mit den Residents DETOXX und Golpe, die gemeinsam mit DJ Wifi den Main Floor bespielen. Auf dem Luster Floor legen Kingsmo, NIKLIST, Arman Shadow und Rantom auf. Musikalisch stehen laut Ankündigung Schranz, Hardtechno und Bounce im Mittelpunkt; die Visuals kommen von itscatherines. Die Nacht läuft von 23 bis 6 Uhr, Einlass ab 18, Tickets kosten 12–20 €. Das Werk weist unter dem Motto „Respect the Club“ darauf hin, dass Sexismus, Rassismus, Homophobie und Transphobie keinen Platz haben.","en":"Resident night at Das Werk with residents DETOXX and Golpe, who play the Main Floor together with DJ Wifi. Kingsmo, NIKLIST, Arman Shadow and Rantom play the Luster Floor. According to the announcement the focus is on schranz, hard techno and bounce; visuals by itscatherines. The night runs from 23:00 to 06:00, entry 18+, tickets 12–20 €. Under the motto “Respect the Club”, Das Werk states that there is no place for sexism, racism, homophobia or transphobia."},"vok":1,"src":[["dw","https://www.daswerk.org/program?page=2"],["dw","https://www.daswerk.org/program"],["ta","https://www.technoairlines.com/events/vienna/2026-11"],["ra","https://ra.co/events/2584419"],["edm","https://electronicdancemusic.at/kalender/wien/"]],"floors":[{"f":"Main Floor","a":["DETOXX","Golpe","Dj Wifi"]},{"f":"Luster Floor","a":["Kingsmo","NIKLIST","Arman Shadow","Rantom"]}],"chk":"2026-11-15","e":"06:00","price":"12–20 €","tickets":"https://www.eventim-light.com/at/a/623a01d54f99ba1c8b632d22/e/6af5e681eda4243a70da13ad","flyer":"https://images.ra.co/2d99570ed6ca759f79a3a3e1dd668983a626c1cd.jpg","head":["DETOXX","Golpe"],"genres":["Techno","Schranz","Hard Techno","Bounce"],"coll":["AUDIO303"],"age":"18+","srcChk":"2026-11-15"},
 {"d":"2026-11-27","s":"23:00","title":"Bassbussi Allstars – 3 Years Anniversary","venue":"The Loft","coll":["Bassbussi"],"note":{"de":"Bassbussi feiert den dritten Geburtstag im The Loft mit einem „BB-Allstars B2B Special“: drei Jahre Bass, Nächte am Dancefloor und gemeinsame Erinnerungen. Oben spielen Andrew Ahmed b2b Sluzy, PartyPauli b2b Maro und Arman Shadow b2b Leanne, unten Ave Maria b2b Christella, WO.IZZY b2b DJ Parkverbot, Aschenbrenner b2b Zeq und Anatol b2b Pinklotion – alle Sets als B2B. Start 23:00, Eintritt 15 €. Set-Zeiten, Ende und Mindestalter nennt die Location nicht.","en":"Bassbussi celebrates its third birthday at The Loft with a \"BB-Allstars B2B special\": three years of bass, dancefloor nights and shared memories. Upstairs: Andrew Ahmed b2b Sluzy, PartyPauli b2b Maro and Arman Shadow b2b Leanne; downstairs: Ave Maria b2b Christella, WO.IZZY b2b DJ Parkverbot, Aschenbrenner b2b Zeq and Anatol b2b Pinklotion – every set is a b2b. Starts 23:00, entry €15. The venue gives no set times, end time or age limit."},"vok":1,"src":[["lo","https://www.theloft.at/bassbussi-allstars-3-years-anniversary/"],["ta","https://www.technoairlines.com/event/3-yrs-bassbussi-allstars-b2b-special-the-loft-2026-11-27"],["ra","https://ra.co/events/2583633"]],"floors":[{"f":"Oben","a":["Andrew Ahmed b2b Sluzy","PartyPauli b2b maro","Arman Shadow b2b Leanne"]},{"f":"Unten","a":["Ave Maria b2b Christella","WO.IZZY b2b DJ Parkverbot","Aschenbrenner b2b Zeq","Anatol b2b Pinklotion"]}],"price":"15 €","genres":["Trance"],"na":["tickets","age"],"chk":"2026-11-15","srcChk":"2026-11-15","flyer":"https://images.ra.co/db633a00406085920d1e2ccf3fc4e7f911ffa2cf.png","e":"06:00"},
 {"d":"2026-11-27","s":"23:00","e":"05:00","title":"AWSM. Skyscraper Edition (Extra Date)","venue":"Altia Skybar – DC Tower","coll":["AWSM"],"genres":["Afro House","Melodic House"],"floors":[{"f":"","a":["MAWU","Benjay"]}],"price":"35 € (letzte Preisstufe, zzgl. Tickethead-Gebühr)","age":"19+","tickets":"https://awsmevent.com/awsm-skyspracer-edition-extra-date/","note":{"de":"Zusatztermin der ausverkauften AWSM. Skyscraper Edition vom 28.11.: Rooftop-Party in der Altia Skybar im 58. Stock des DC Tower mit Afro House und Melodic House, 23:00–05:00. Laut RA spielt MAWU; die AWSM-Website nennt für den Zusatztermin noch kein Lineup. Tickets ab 30 € zzgl. Gebühr ausschließlich über Tickethead, ab 19 mit Ausweis, Dresscode classy/smart.","en":"Extra date for the sold-out AWSM. Skyscraper Edition on 28 Nov: rooftop party at Altia Skybar on the 58th floor of DC Tower with Afro house and melodic house, 23:00–05:00. According to RA MAWU plays; the AWSM website does not list a line-up for the extra date yet. Tickets from €30 plus fee exclusively via Tickethead, 19+ with ID, dress code classy/smart."},"src":[["ra","https://ra.co/events/2560557"],["vo","https://www.volume.at/events/awsm-skyscraper-edition-extra-date-2026-11-27/"],["awsm","https://awsmevent.com/awsm-skyspracer-edition-extra-date/"],["ta","https://www.technoairlines.com/events/vienna/2026-11"],["awsm","https://awsmevent.com/en/upcoming-events/"]],"chk":"2026-11-20","srcChk":"2026-11-20","flyer":"https://awsmevent.com/wp-content/uploads/2026/10/4x4-extra-date.jpg"},
 {"d":"2026-11-27","s":"23:00","e":"06:00","title":"Vivid – Frieden & Liebe","venue":"SASS Music Club","floors":[{"f":"","a":["Alice","Stefan Hofer","Clem Vital"]}],"vok":1,"note":{"de":"Vivid, präsentiert von Frieden & Liebe, im SASS Music Club von 23 bis 6 Uhr. Als Gast hat Frieden & Liebe die österreichische DJ Alice eingeladen, die nach elektronischen Spuren der 90er- und 2000er-Jahre sucht; dazu spielen Stefan Hofer, laut Location ein langjähriger Vinyl-Digger mit energiegeladenem Mixing, und Clem Vital, der zwischen reduzierten und rohen Sounds pendelt. Angekündigt sind organische Sounds und hypnotische Grooves. Eintritt 10–15 €, ein Willkommensgetränk ist inklusive. Alle SASS-Veranstaltungen werden von einem Awareness-Team begleitet; Einlass ab 18 mit Ausweis- und Taschenkontrolle.","en":"Vivid, presented by Frieden & Liebe, at SASS Music Club from 11 pm to 6 am. Frieden & Liebe invited Austrian DJ Alice, who digs into electronic traces of the 90s and 2000s; she is joined by Stefan Hofer, described by the venue as a longtime vinyl digger with energetic mixing, and Clem Vital, who moves between reduced and raw sounds. Organic sounds and hypnotic grooves are announced. Entry 10–15 € including a welcome drink. All SASS events are accompanied by an awareness team; entry 18+ with ID and bag check."},"src":[["sa","https://sassvienna.com/en/events"],["sa","https://sassvienna.com/en/events/event/vivid-frienden-liebe-november"],["ra","https://ra.co/events/2587646"]],"na":["genres","tickets"],"_detailUrl":"https://sassvienna.com/en/events/event/vivid-frienden-liebe-november","srcChk":"2026-11-15","price":"10–15 €","age":"18+","coll":["Frieden & Liebe"],"chk":"2026-11-18","head":["Alice"],"flyer":"https://images.ra.co/8d148c5ba4a5696a683e029fa69d2b5083b4da3b.jpg","genres":["House"],"gAuto":1},
@@ -54900,7 +54890,7 @@ const RAW=[
 {"d":"2026-11-28","s":"23:00","e":"05:00","title":"Cardio Cult","venue":"SASS Music Club","floors":[{"f":"","a":["Schr0mmi","Mo The Prophet","Magsi"]}],"vok":1,"coll":["Cardio Cult"],"note":{"de":"Cardio Cult im SASS Music Club von 23 bis 5 Uhr, diesmal unter dem Motto „München trifft Wien“: Zu Gast sind Schr0mmi und Mo The Prophet, die gemeinsam als Sonic Vibrations auftreten und laut SASS zwei prägende Figuren der Münchner Clubszene und Plattensammler sind. Local Selecta Magsi spielt den Start und hält den Puls oben. Der Eintritt beträgt 10–15 €, ein Willkommensgetränk ist inklusive. Alle SASS-Veranstaltungen werden von einem Awareness-Team begleitet; Einlass ab 18.","en":"Cardio Cult at SASS Music Club from 11 pm to 5 am, this time under the banner 'Munich meets Vienna': guests are Schr0mmi and Mo The Prophet, who play together as Sonic Vibrations and, according to SASS, are two formative figures of Munich's club scene and dedicated record collectors. Local selecta Magsi opens the night and keeps the pulse up. Entry is 10–15 € including a welcome drink. All SASS events are accompanied by an awareness team; entry 18+."},"src":[["sa","https://sassvienna.com/en/events"],["sa","https://sassvienna.com/en/events/event/cardio-cult-november"],["ra","https://ra.co/events/2589409"]],"na":["genres","tickets"],"_detailUrl":"https://sassvienna.com/en/events/event/cardio-cult-november","srcChk":"2026-11-20","price":"10–15 € (inkl. Welcome-Drink)","age":"18+","chk":"2026-11-20","aw":1,"flyer":"https://images.ra.co/37e39a30dfb532e11ecadad54ddc6af3e7f980c3.jpg","genres":["House","Techno"],"gAuto":1},
 {"d":"2026-11-28","s":"23:00","title":"KSHMR pres. by Prater DOME","venue":"Prater Dome","floors":[{"f":"Main Floor","a":["KSHMR","MEDUN","WESH"]},{"f":"Second Floor","a":["MYKAL"]},{"f":"Classics Floor","a":["RICKY"]}],"head":["KSHMR"],"note":{"de":"KSHMR ist zurück im Prater DOME: Der US-amerikanische DJ und Produzent (Niles Hollowell-Dhar), der u. a. mit David Guetta, Tiësto und Hardwell produziert hat, spielte zuletzt 2023 im Haus. Auf dem Main Floor (EDM, Clubtunes) wird er von Resident MEDUN und WESH unterstützt. Dazu kommen der Second Floor mit HipHop und Black Music (MYKAL), der Classics Floor mit Party-Classics (RICKY) und die Rooftop-Area mit Chill-out-Beats. Einlass ab 23:00, ab 18 Jahren. Ticketpreise und Abendkassa sind laut Prater DOME noch TBA.","en":"KSHMR is back at Prater DOME: the US DJ and producer (Niles Hollowell-Dhar), who has produced with David Guetta, Tiësto and Hardwell among others, last played the venue in 2023. On the Main Floor (EDM, club tunes) he is supported by resident MEDUN and WESH. There is also the Second Floor with hip-hop and black music (MYKAL), the Classics Floor with party classics (RICKY) and the rooftop area with chill-out beats. Doors 23:00, 18+. Ticket prices and box office are still TBA according to Prater DOME."},"chk":"2026-11-20","src":[["tbc","https://technobeatscloud.com/en/events/clubs/november-2026/austria/vienna"],["pd","https://praterdome.at/en/events/kshmr-pres-by-prater-dome-28-11-2026"]],"genres":["EDM","Hip-Hop"],"age":"18+","flyer":"https://prater-dome.disco2app.com/media/cache/web/events/437/image/63090.webp?datetime=1790069696","vok":1,"srcChk":"2026-11-20","price":"VVK 18,46–20,58 €, Fast Lane 26,92 €, Kombiticket 27.+28.11. 32,21 €","e":"06:00","tickets":"https://praterdome.at/en/events/kshmr-pres-by-prater-dome-28-11-2026"},
 {"d":"2026-11-28","s":"23:00","title":"RED GROOVE (Social Club) with Nick Curly","venue":"PRST","coll":["Red Groove Social Club","It's George"],"floors":[{"f":"","a":["Nick Curly","KILL.DB","RED GROOVE SYSTEM"]}],"head":["Nick Curly"],"note":{"de":"Die PRST-Reihe Red Groove (Social Club) für House und Disco holt Nick Curly zurück in die Praterstraße – laut RA ist es sein dritter Besuch im PRST. Der in Mannheim ansässige DJ und Produzent betreibt die Labels Cécille und 8Bit Records und zählt seit Jahren zu den bekannten Namen im House. Neben ihm spielen KILL.DB und das Red Groove System. Laut RA läuft der Abend von 23:00 bis 06:00, der Eintritt kostet 15–20 €, Einlass ab 20 Jahren; veranstaltet von It's George.","en":"PRST series Red Groove (Social Club), dedicated to house and disco, brings Nick Curly back to Praterstraße – according to RA it is his third visit to PRST. The Mannheim-based DJ and producer runs the labels Cécille and 8Bit Records and has long been one of the well-known names in house. He is joined by KILL.DB and the Red Groove System. According to RA the night runs from 23:00 to 06:00, entry costs €15–20, minimum age 20; promoted by It's George."},"src":[["ta","https://www.technoairlines.com/events/vienna"],["ta","https://www.technoairlines.com/event/red-groove-social-club-with-nick-curly-prst-2026-11-28"],["ra","https://de.ra.co/events/2580567"],["pr","https://prst.ticket.io/?lang=en"]],"chk":"2026-11-15","srcChk":"2026-11-15","e":"06:00","price":"15–20 €","flyer":"https://images.ra.co/97e36a8f0807512eb63574c571fea0d7f0feddef.png","genres":["House"],"age":"20+","na":["tickets"],"vok":1},
-{"d":"2026-11-28","s":"23:00","title":"DEAD END Showcase with Paralich pres. by GDN","venue":"Das Werk","coll":["GDN"],"floors":[{"f":"","a":["Paralich","THIRD 2HIFT","Valenthin","DJ Wifi","LUZZT"]}],"head":["Paralich"],"tickets":"https://ra.co/events/2582638","flyer":"https://images.ra.co/b5f6dacaa281f6a60dd58da3955e32f1a499b3d0.png","note":{"de":"GDN (Gesindel der Nacht) präsentiert im Werk einen DEAD END Showcase mit Paralich als Hauptact. Außerdem stehen THIRD 2HIFT, Valenthin, DJ Wifi und LUZZT im Line-up. Das Programm des Werks führt den Abend als „Dead End Showcase X GDN“ ab 23:00 – als einziges Event an diesem Datum; die zuvor dort gelistete Nine-Circles-Nacht steht nicht mehr im Programm. Floors, Set-Zeiten, Endzeit und Preise sind nicht angegeben.","en":"GDN (Gesindel der Nacht) presents a DEAD END showcase at Das Werk with Paralich as the headliner. THIRD 2HIFT, Valenthin, DJ Wifi and LUZZT complete the lineup. Das Werk's programme lists the night as 'Dead End Showcase X GDN' from 23:00 – the only event on that date; the Nine Circles night previously listed there is no longer in the programme. Floors, set times, end time and prices are not given."},"ook":1,"na":["price","e"],"chk":"2026-11-20","srcChk":"2026-11-20","src":[["ta","https://www.technoairlines.com/event/dead-end-showcase-with-paralich-pres-by-gdn-das-werk-2026-11-28"],["ta","https://www.technoairlines.com/events/vienna/2026-11"],["dw","https://www.daswerk.org/program"],["ta","https://www.technoairlines.com/club/das-werk-vienna"]],"vok":1,"genres":["Techno","Hard Groove","Schranz"],"gAuto":1},
+{"d":"2026-11-28","s":"23:00","title":"DEAD END Showcase with Paralich pres. by GDN","venue":"Das Werk","coll":["GDN"],"floors":[{"f":"","a":["Paralich","THIRD 2HIFT","Valenthin","DJ Wifi","LUZZT"]}],"head":["Paralich"],"tickets":"https://ra.co/events/2582638","flyer":"https://images.ra.co/b5f6dacaa281f6a60dd58da3955e32f1a499b3d0.png","note":{"de":"GDN (Gesindel der Nacht) präsentiert im Werk einen DEAD END Showcase mit Paralich als Hauptact. Außerdem stehen THIRD 2HIFT, Valenthin, DJ Wifi und LUZZT im Line-up. Das Programm des Werks führt den Abend als „Dead End Showcase X GDN“ ab 23:00 – als einziges Event an diesem Datum; die zuvor dort gelistete Nine-Circles-Nacht steht nicht mehr im Programm. Floors, Set-Zeiten, Endzeit und Preise sind nicht angegeben.","en":"GDN (Gesindel der Nacht) presents a DEAD END showcase at Das Werk with Paralich as the headliner. THIRD 2HIFT, Valenthin, DJ Wifi and LUZZT complete the lineup. Das Werk's programme lists the night as 'Dead End Showcase X GDN' from 23:00 – the only event on that date; the Nine Circles night previously listed there is no longer in the programme. Floors, set times, end time and prices are not given."},"ook":1,"na":["price","e"],"chk":"2026-11-20","srcChk":"2026-11-20","src":[["ta","https://www.technoairlines.com/event/dead-end-showcase-with-paralich-pres-by-gdn-das-werk-2026-11-28"],["ta","https://www.technoairlines.com/events/vienna/2026-11"],["dw","https://www.daswerk.org/program"],["ta","https://www.technoairlines.com/club/das-werk-vienna"]],"vok":1,"genres":["Techno","Hardgroove","Schranz"],"gAuto":1},
 {"d":"2026-11-28","s":"23:59","title":"CitrusCue presents COIDO & Wingz","venue":"Club Lucia","coll":["CitrusCue"],"floors":[{"f":"","a":["COIDO","Wingz","yarx","vazov","fejv"]}],"head":["COIDO"],"flyer":"https://images.ra.co/343858249b9bd4646d10ecb188662ffba61d5339.jpg","note":{"de":"CitrusCue kehrt für eine Bass-Music-Nacht von tiefen, atmosphärischen Klängen bis zu schwerer, groovelastiger Clubmusik in den Club Lucia zurück. Headliner COIDO verbindet futuristisch Techno, Breakbeat, Jersey Club und globale Grooves. Wingz aus Wien spielt präzisen, atmosphärischen Drum & Bass. Lokale Unterstützung: yarx (Dubstep, Grime, Footwork, dekonstruierte Rhythmen), fejv (UK Bass von klassisch bis experimentell) und vazov (früher Subcurrent; schneller, hypnotischer Techno mit viel Tiefbass).","en":"CitrusCue returns to Club Lucia for a bass music night ranging from deep, atmospheric sounds to heavy, groove-driven club music. Headliner COIDO blends techno, breakbeat, Jersey club and global grooves in a futuristic style. Vienna's Wingz plays precise, atmospheric drum & bass. Local support: yarx (dubstep, grime, footwork, deconstructed rhythms), fejv (UK bass from classic to leftfield) and vazov (formerly Subcurrent; fast, hypnotic techno with heavy low end)."},"src":[["ta","https://www.technoairlines.com/event/citruscue-presents-coido-wingz-club-lucia-2026-11-28"],["ra","https://ra.co/events/2575308"],["cl","https://www.clublucia.at/event/citruscue-pres-coido-wingz/"],["ta","https://www.technoairlines.com/events/vienna/2026-11"],["ft","https://frey-tag.at/kalender/citruscue"]],"chk":"2026-11-15","srcChk":"2026-11-15","e":"05:00","price":"12–15 €","age":"18+","genres":["Bass","Dubstep"],"tickets":"https://ra.co/events/2575308","vok":1},
 {"d":"2026-11-28","s":"23:59","e":"06:00","title":"Xperiment Nights","venue":"Kramladen","coll":["Xperiment Records"],"genres":["Techno"],"floors":[{"f":"","a":["Leen Tilt","MORASS","DYMINIX","DJ Ecoton"]}],"flyer":"https://images.ra.co/c90f806da0c53d466641a8a12236c3dc17b551c4.png","note":{"de":"Weitere Ausgabe der Reihe Xperiment Nights des Labels Xperiment Records im Kramladen unter dem Motto „Techno without Judgment!“. Es spielen die Label-Artists Leen Tilt, MORASS und DYMINIX, dazu DJ Ecoton, der nur im Beschreibungstext, nicht aber im RA-Lineup genannt wird. Laut RA Techno, 23:59–06:00. Preis, Mindestalter und Ticketinfos sind nicht angegeben.","en":"Another edition of Xperiment Records' Xperiment Nights series at Kramladen under the motto 'Techno without Judgment!'. Label artists Leen Tilt, MORASS and DYMINIX play, joined by DJ Ecoton, who is named only in the description, not in the RA line-up. According to RA techno, 23:59–06:00. Price, minimum age and ticket details are not given."},"na":["price","tickets","age"],"chk":"2026-11-20","srcChk":"2026-11-20","src":[["ra","https://ra.co/events/2584082"],["ta","https://www.technoairlines.com/events/vienna/2026-11"],["ta","https://www.technoairlines.com/event/xperiment-nights-kramladen-2026-11-28"]]},
 {"d":"2026-11-28","s":"23:59","e":"06:00","title":"SWEAT","venue":"Rhiz","genres":["Breakbeat","Techno"],"floors":[{"f":"","a":["00:00|HYSTERIE","02:00|Frau F","04:00|Nakrasia"]}],"age":"18+","tickets":"https://ra.co/events/2588619","flyer":"https://images.ra.co/9e8ccb75f28c15ee7c9035966327df26abcae8f5.jpg","note":{"de":"Premiere der neuen Reihe SWEAT im Rhiz am Gürtel, initiiert von DJ HYSTERIE. Drei Zwei-Stunden-Sets: HYSTERIE mit Hardgroove, Trance und Peak Time, Frau F mit UK Garage und UK Bass, Nakrasia mit Raw Techno, Hardgroove und Breakbeat. Laut Beschreibung ist der Eintritt eine freie Spende; RA nennt dagegen 10 €. Die Beschreibung spricht von „Fr, 28.11.“ ab 00:00 – der 28. 11. 2026 ist ein Samstag, RA führt Samstag 23:59.","en":"Premiere of the new SWEAT series at Rhiz, started by DJ HYSTERIE. Three two-hour sets: HYSTERIE with hardgroove, trance and peak time, Frau F with UK garage and UK bass, Nakrasia with raw techno, hardgroove and breakbeat. The description says entry is by free donation, while RA lists 10 €. The description mentions 'Fri, 28 Nov' from midnight – 28 Nov 2026 is a Saturday; RA lists Saturday 23:59."},"src":[["ta","https://www.technoairlines.com/event/sweat-rhiz-2026-11-28"],["ra","https://ra.co/events/2588619"]],"chk":"2026-11-20","srcChk":"2026-11-20","ook":1,"coll":["SWEAT"],"price":"10 €"},
