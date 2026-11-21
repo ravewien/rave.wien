@@ -1,8 +1,6 @@
 {
- "2026-11-21": [
-  "ig/extra/cool/1.jpg"
- ],
- "2026-11-22": [
+ "_info": "Zusatzbilder/-videos am Ende der Tagesposts. Schlüssel = Datum (JJJJ-MM-TT) gilt nur für diesen Tag; \"*\" = für alle Tagesposts ohne eigenen Eintrag.",
+ "*": [
   "ig/extra/space/1.mp4"
  ]
 }
