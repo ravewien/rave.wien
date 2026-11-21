@@ -26,6 +26,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-28-kalte-das-celeste-wird-12-1-25@rave.wien
+DTSTAMP:20261128T000000Z
+DTSTART;TZID=Europe/Vienna:20261128T220000
+DTEND;TZID=Europe/Vienna:20261129T060000
+SUMMARY:KÄLTE! das celeste wird 12+1+25
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Rosa Nebel\, Mitra\, Lucia Kagramanyan\, Heap\, DJ Keshi\n\nD
+ as Celeste feiert Geburtstag („wird 12+1+25“) mit der Nacht „KÄLT
+ E!“. Live spielen Rosa Nebel und Mitra\, als DJs sind Lucia Kagramanya
+ n\, Heap und DJ Keshi dabei. Von 22:00 bis 06:00. Preis\, Genres und Fly
+ er sind auf der Seite des Celeste nicht angegeben.\n\nhttps://rave.wien/
+ e/2026-11-28-kalte-das-celeste-wird-12-1-25
+URL:https://rave.wien/e/2026-11-28-kalte-das-celeste-wird-12-1-25
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-19-heavy-listening-with-tanja-turner-mert-seger-heap@rave.wien
 DTSTAMP:20261119T000000Z
 DTSTART;TZID=Europe/Vienna:20261119T200000
@@ -46,20 +61,5 @@ DESCRIPTION:Tanja Turner\, Mert Seger\, Heap\nVeranstalter: VLAN\nEintrit
  r-heap
 URL:https://rave.wien/e/2026-11-19-heavy-listening-with-tanja-turner-mert
  -seger-heap
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-28-kalte-das-celeste-wird-12-1-25@rave.wien
-DTSTAMP:20261128T000000Z
-DTSTART;TZID=Europe/Vienna:20261128T220000
-DTEND;TZID=Europe/Vienna:20261129T060000
-SUMMARY:KÄLTE! das celeste wird 12+1+25
-LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
-DESCRIPTION:Rosa Nebel\, Mitra\, Lucia Kagramanyan\, Heap\, DJ Keshi\n\nD
- as Celeste feiert Geburtstag („wird 12+1+25“) mit der Nacht „KÄLT
- E!“. Live spielen Rosa Nebel und Mitra\, als DJs sind Lucia Kagramanya
- n\, Heap und DJ Keshi dabei. Von 22:00 bis 06:00. Preis\, Genres und Fly
- er sind auf der Seite des Celeste nicht angegeben.\n\nhttps://rave.wien/
- e/2026-11-28-kalte-das-celeste-wird-12-1-25
-URL:https://rave.wien/e/2026-11-28-kalte-das-celeste-wird-12-1-25
 END:VEVENT
 END:VCALENDAR

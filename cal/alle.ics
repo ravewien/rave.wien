@@ -26,67 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-19-heavy-listening-with-tanja-turner-mert-seger-heap@rave.wien
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Vienna:20261119T200000
-DTEND;TZID=Europe/Vienna:20261119T230000
-SUMMARY:HEAVY LISTENING with Tanja Turner\, Mert Seger & Heap
-LOCATION:Coco Bar\, Lerchenfelder Gürtel Stadtbahnbogen 34–35\, 1080 W
- ien
-DESCRIPTION:Tanja Turner\, Mert Seger\, Heap\nVeranstalter: VLAN\nEintrit
- t: 15 €\n\nWeitere Ausgabe der Listening-Reihe HEAVY LISTENING (VLAN)\
- , diesmal in der Coco Bar in den Gürtelbögen. Tanja Turner\, Wiener DJ
-  und Kuratorin\, spielt Sets zwischen introspektiv-düster und verspielt
- -energetisch. Mert Seger stellt das neue Album eines Produzenten aus Lyo
- n vor: trüber\, verschobener Industrial-Dub mit schwerem Bass und dunst
- igen Texturen. Heap aus Neubau steht für rohe\, kantige\, abstrakte Ele
- ktronik für den Dancefloor. RA taggt Experimental und Dub Techno\; 20:0
- 0–23:00\, 15 €\, ab 18\, gefördert von der Stadt Wien (MA 7).\n\nht
- tps://rave.wien/e/2026-11-19-heavy-listening-with-tanja-turner-mert-sege
- r-heap
-URL:https://rave.wien/e/2026-11-19-heavy-listening-with-tanja-turner-mert
- -seger-heap
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-bonkers-belly-dance-services@rave.wien
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Vienna:20261119T230000
-DTEND;TZID=Europe/Vienna:20261120T060000
-SUMMARY:Bonkers × Belly Dance Services
-LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Ludviq\, Nick Hanzo\nVeranstalter: Bonkers\, Belly Dance Serv
- ices\nEintritt: 10–15 € / Studierende 0–5 €\n\nBonkers und Belly
-  Dance Services stehen im SASS erstmals seit drei Jahren wieder gemeinsa
- m auf einem Lineup – ein Wiedersehen zweier DJs\, die seit Jahren zusa
- mmenarbeiten. Ludviq gründete Bonkers 2018 in Barcelona\; die Reihe ist
-  an kein Genre gebunden\, von Techno über Breaks und Psychedelic bis In
- die und EBM. Nick Hanzo hat 2019 das multikulturelle Label Belly Dance S
- ervices mitgegründet\, dessen Sound von trippy House über Slow Techno 
- bis zu perkussiven Elementen reicht. RA taggt House und Acid\; 23:00–0
- 6:00\, 10 €\, ab 18.\n\nhttps://rave.wien/e/2026-11-19-bonkers-belly-d
- ance-services
-URL:https://rave.wien/e/2026-11-19-bonkers-belly-dance-services
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-teknoteka@rave.wien
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Vienna:20261119T230000
-DTEND;TZID=Europe/Vienna:20261120T040000
-SUMMARY:Teknoteka
-LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
- ien
-DESCRIPTION:UV Project\, Norg3n\, Nasty\nEintritt frei / free entry\n\nTE
- KNOTEKA geht im Kramladen in die dritte Ausgabe (Vol. 3) und bringt am D
- onnerstag ab 23:00 Uhr Techno bis in die frühen Morgenstunden in den kl
- einen Club in den U-Bahn-Bögen am Gürtel. Special Guest und Headliner 
- ist UV Project aus Budapest um Yuvi Lachyani\, verbunden mit dem S.U.N F
- estival und laut Freytag erstmals in Wien\; angekündigt sind hypnotisch
- e Synths und kompromisslose Underground-Elektronik. Dazu spielen Norg3n 
- mit energiegeladenen Techno-Sets und Nasty mit Acid-Sounds. Der Eintritt
-  ist frei.\n\nhttps://rave.wien/e/2026-11-19-teknoteka
-URL:https://rave.wien/e/2026-11-19-teknoteka
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-20-fluffig-punschabend@rave.wien
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Vienna:20261120T180000
@@ -440,17 +379,18 @@ DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Vienna:20261121T130000
 DTEND;TZID=Europe/Vienna:20261121T210000
 SUMMARY:Tram & Bass Vol. 4 – Our longest ride yet
-DESCRIPTION:Veranstalter: Crossover\n\nVierte Ausgabe der Reihe Tram & Ba
- ss des Vereins Crossover\, laut Untertitel „Our longest ride yet“: a
- cht Stunden Musik in einer Wiener Straßenbahn auf zwei getrennten Fahrt
- en. Route 1 (13–17 Uhr) mit Techno\, Dubstep und UK Garage startet und
-  endet an der Station Karlsplatz/Resselpark\; Route 2 (17–21 Uhr) ist 
- ganz Drum & Bass und seinen Einflüssen gewidmet\, Abfahrt Karlsplatz/Re
- sselpark\, Endstation Josefstädter Straße. Die Routen sind einzeln ode
- r als Kombiticket über Eventfrog buchbar\; an Bord gibt es Getränke un
- d Snacks\, eigene Getränke sind nicht erlaubt. Lineup und Ticketpreise 
- sind in den lesbaren Quellen nicht angegeben.\n\nhttps://rave.wien/e/202
- 6-11-21-tram-bass-vol-4-our-longest-ride-yet
+DESCRIPTION:Veranstalter: Crossover\nEintritt: 25–40 €\n\nVierte Ausg
+ abe der Reihe Tram & Bass des Vereins Crossover\, laut Untertitel „Our
+  longest ride yet“: acht Stunden Musik in einer Wiener Straßenbahn au
+ f zwei getrennten Fahrten. Route 1 (13–17 Uhr) mit Techno\, Dubstep un
+ d UK Garage startet und endet an der Station Karlsplatz/Resselpark\; Rou
+ te 2 (17–21 Uhr) ist ganz Drum & Bass und seinen Einflüssen gewidmet\
+ , Abfahrt Karlsplatz/Resselpark\, Endstation Josefstädter Straße. Die 
+ Routen sind einzeln oder als Kombiticket über Eventfrog buchbar\; an Bo
+ rd gibt es Getränke und Snacks\, eigene Getränke sind nicht erlaubt. T
+ ickets kosten laut Eventfrog 25–40 € (einzelne Route bzw. Kombiticke
+ t). Ein Lineup ist in den lesbaren Quellen nicht angegeben.\n\nhttps://r
+ ave.wien/e/2026-11-21-tram-bass-vol-4-our-longest-ride-yet
 URL:https://rave.wien/e/2026-11-21-tram-bass-vol-4-our-longest-ride-yet
 END:VEVENT
 BEGIN:VEVENT
@@ -677,15 +617,15 @@ SUMMARY:Contrast pres. DJ Marky + Pola & Bryson
 LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Mainfloor: DJ Marky\, Pola & Bryson\nKitchen · EN:VY: En:vy\
  , Armin Karmin\, Stan Matan\, Mantis\, Nysos\nVeranstalter: Contrast\nEi
- ntritt: 26 € (AK)\n\nDas Kollektiv Contrast holt DJ Marky und Pola & B
- ryson in die Grelle Forelle. Auf dem Mainfloor spielt DJ Marky (Innergro
- und Records\, Brasilien)\, dazu das Duo Pola & Bryson (Shogun Audio / Ho
- spital\, UK) und die Contrast-Residents. Die Kitchen wird von EN:VY geho
- stet und bringt House\, Dubstep und UK Garage mit En:vy\, Armin Karmin\,
-  Stan Matan\, Mantis und Nysos. Einlass ist um 23:00. Vorverkauf über E
- ventbrite\, an der Abendkassa 26 € für die ganze Nacht. Ab 18\, Auswe
- is mitbringen.\n\nhttps://rave.wien/e/2026-11-21-contrast-pres-dj-marky-
- pola-bryson
+ ntritt: VVK ca. 20–24 € (Eventbrite inkl. Gebühren)\, AK 26 €\n\n
+ Das Kollektiv Contrast holt DJ Marky und Pola & Bryson in die Grelle For
+ elle. Auf dem Mainfloor spielt DJ Marky (Innerground Records\, Brasilien
+ )\, dazu das Duo Pola & Bryson (Shogun Audio / Hospital\, UK) und die Co
+ ntrast-Residents. Die Kitchen wird von EN:VY gehostet und bringt House\,
+  Dubstep und UK Garage mit En:vy\, Armin Karmin\, Stan Matan\, Mantis un
+ d Nysos. Einlass ist um 23:00. Vorverkauf über Eventbrite\, an der Aben
+ dkassa 26 € für die ganze Nacht. Ab 18\, Ausweis mitbringen.\n\nhttps
+ ://rave.wien/e/2026-11-21-contrast-pres-dj-marky-pola-bryson
 URL:https://rave.wien/e/2026-11-21-contrast-pres-dj-marky-pola-bryson
 END:VEVENT
 BEGIN:VEVENT
@@ -27881,5 +27821,66 @@ DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentliche Rave am M
  ne-up dieser Ausgabe ist noch nicht veröffentlicht.\n\nhttps://rave.wie
  n/e/2026-11-18-rave-am-mittwoch
 URL:https://rave.wien/e/2026-11-18-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-heavy-listening-with-tanja-turner-mert-seger-heap@rave.wien
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=Europe/Vienna:20261119T200000
+DTEND;TZID=Europe/Vienna:20261119T230000
+SUMMARY:HEAVY LISTENING with Tanja Turner\, Mert Seger & Heap
+LOCATION:Coco Bar\, Lerchenfelder Gürtel Stadtbahnbogen 34–35\, 1080 W
+ ien
+DESCRIPTION:Tanja Turner\, Mert Seger\, Heap\nVeranstalter: VLAN\nEintrit
+ t: 15 €\n\nWeitere Ausgabe der Listening-Reihe HEAVY LISTENING (VLAN)\
+ , diesmal in der Coco Bar in den Gürtelbögen. Tanja Turner\, Wiener DJ
+  und Kuratorin\, spielt Sets zwischen introspektiv-düster und verspielt
+ -energetisch. Mert Seger stellt das neue Album eines Produzenten aus Lyo
+ n vor: trüber\, verschobener Industrial-Dub mit schwerem Bass und dunst
+ igen Texturen. Heap aus Neubau steht für rohe\, kantige\, abstrakte Ele
+ ktronik für den Dancefloor. RA taggt Experimental und Dub Techno\; 20:0
+ 0–23:00\, 15 €\, ab 18\, gefördert von der Stadt Wien (MA 7).\n\nht
+ tps://rave.wien/e/2026-11-19-heavy-listening-with-tanja-turner-mert-sege
+ r-heap
+URL:https://rave.wien/e/2026-11-19-heavy-listening-with-tanja-turner-mert
+ -seger-heap
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-bonkers-belly-dance-services@rave.wien
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=Europe/Vienna:20261119T230000
+DTEND;TZID=Europe/Vienna:20261120T060000
+SUMMARY:Bonkers × Belly Dance Services
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Ludviq\, Nick Hanzo\nVeranstalter: Bonkers\, Belly Dance Serv
+ ices\nEintritt: 10–15 € / Studierende 0–5 €\n\nBonkers und Belly
+  Dance Services stehen im SASS erstmals seit drei Jahren wieder gemeinsa
+ m auf einem Lineup – ein Wiedersehen zweier DJs\, die seit Jahren zusa
+ mmenarbeiten. Ludviq gründete Bonkers 2018 in Barcelona\; die Reihe ist
+  an kein Genre gebunden\, von Techno über Breaks und Psychedelic bis In
+ die und EBM. Nick Hanzo hat 2019 das multikulturelle Label Belly Dance S
+ ervices mitgegründet\, dessen Sound von trippy House über Slow Techno 
+ bis zu perkussiven Elementen reicht. RA taggt House und Acid\; 23:00–0
+ 6:00\, 10 €\, ab 18.\n\nhttps://rave.wien/e/2026-11-19-bonkers-belly-d
+ ance-services
+URL:https://rave.wien/e/2026-11-19-bonkers-belly-dance-services
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-teknoteka@rave.wien
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=Europe/Vienna:20261119T230000
+DTEND;TZID=Europe/Vienna:20261120T040000
+SUMMARY:Teknoteka
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:UV Project\, Norg3n\, Nasty\nEintritt frei / free entry\n\nTE
+ KNOTEKA geht im Kramladen in die dritte Ausgabe (Vol. 3) und bringt am D
+ onnerstag ab 23:00 Uhr Techno bis in die frühen Morgenstunden in den kl
+ einen Club in den U-Bahn-Bögen am Gürtel. Special Guest und Headliner 
+ ist UV Project aus Budapest um Yuvi Lachyani\, verbunden mit dem S.U.N F
+ estival und laut Freytag erstmals in Wien\; angekündigt sind hypnotisch
+ e Synths und kompromisslose Underground-Elektronik. Dazu spielen Norg3n 
+ mit energiegeladenen Techno-Sets und Nasty mit Acid-Sounds. Der Eintritt
+  ist frei.\n\nhttps://rave.wien/e/2026-11-19-teknoteka
+URL:https://rave.wien/e/2026-11-19-teknoteka
 END:VEVENT
 END:VCALENDAR

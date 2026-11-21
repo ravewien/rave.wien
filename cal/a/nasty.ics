@@ -26,25 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-19-teknoteka@rave.wien
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=Europe/Vienna:20261119T230000
-DTEND;TZID=Europe/Vienna:20261120T040000
-SUMMARY:Teknoteka
-LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
- ien
-DESCRIPTION:UV Project\, Norg3n\, Nasty\nEintritt frei / free entry\n\nTE
- KNOTEKA geht im Kramladen in die dritte Ausgabe (Vol. 3) und bringt am D
- onnerstag ab 23:00 Uhr Techno bis in die frühen Morgenstunden in den kl
- einen Club in den U-Bahn-Bögen am Gürtel. Special Guest und Headliner 
- ist UV Project aus Budapest um Yuvi Lachyani\, verbunden mit dem S.U.N F
- estival und laut Freytag erstmals in Wien\; angekündigt sind hypnotisch
- e Synths und kompromisslose Underground-Elektronik. Dazu spielen Norg3n 
- mit energiegeladenen Techno-Sets und Nasty mit Acid-Sounds. Der Eintritt
-  ist frei.\n\nhttps://rave.wien/e/2026-11-19-teknoteka
-URL:https://rave.wien/e/2026-11-19-teknoteka
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-12-11-teknoteka-vol-4@rave.wien
 DTSTAMP:20261211T000000Z
 DTSTART;TZID=Europe/Vienna:20261211T230000
@@ -91,5 +72,24 @@ DESCRIPTION:Arnab\, Nasty\, Liquidsound\, Spoonwalker\nVeranstalter: AIMm
  AIMmanagemnt\, ab 18\, 23:00 bis 06:00.\n\nhttps://rave.wien/e/2026-11-0
  5-out-of-space
 URL:https://rave.wien/e/2026-11-05-out-of-space
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-teknoteka@rave.wien
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=Europe/Vienna:20261119T230000
+DTEND;TZID=Europe/Vienna:20261120T040000
+SUMMARY:Teknoteka
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:UV Project\, Norg3n\, Nasty\nEintritt frei / free entry\n\nTE
+ KNOTEKA geht im Kramladen in die dritte Ausgabe (Vol. 3) und bringt am D
+ onnerstag ab 23:00 Uhr Techno bis in die frühen Morgenstunden in den kl
+ einen Club in den U-Bahn-Bögen am Gürtel. Special Guest und Headliner 
+ ist UV Project aus Budapest um Yuvi Lachyani\, verbunden mit dem S.U.N F
+ estival und laut Freytag erstmals in Wien\; angekündigt sind hypnotisch
+ e Synths und kompromisslose Underground-Elektronik. Dazu spielen Norg3n 
+ mit energiegeladenen Techno-Sets und Nasty mit Acid-Sounds. Der Eintritt
+  ist frei.\n\nhttps://rave.wien/e/2026-11-19-teknoteka
+URL:https://rave.wien/e/2026-11-19-teknoteka
 END:VEVENT
 END:VCALENDAR

@@ -26,6 +26,22 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-19-sama-recordings-pres-schweben@rave.wien
+DTSTAMP:20261219T000000Z
+DTSTART;TZID=Europe/Vienna:20261219T210000
+DTEND;TZID=Europe/Vienna:20261220T060000
+SUMMARY:sama recordings pres. schweben
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Ambient Animal\, Tanja Turner\nVeranstalter: sama recordings\
+ n\nWeitere Ausgabe der Reihe s c h w e b e n des Wiener Labels sama reco
+ rdings\, diesmal im Celeste. Die Reihe verbindet Avantgarde-Pop\, elektr
+ onische und experimentelle Musik mit Club- und Ambient-Sounds\, meist mi
+ t Live-Sets und DJs. Lineup\, Beginn\, Preis und Flyer sind noch nicht v
+ eröffentlicht.\n\nhttps://rave.wien/e/2026-12-19-sama-recordings-pres-s
+ chweben
+URL:https://rave.wien/e/2026-12-19-sama-recordings-pres-schweben
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-19-heavy-listening-with-tanja-turner-mert-seger-heap@rave.wien
 DTSTAMP:20261119T000000Z
 DTSTART;TZID=Europe/Vienna:20261119T200000
@@ -46,21 +62,5 @@ DESCRIPTION:Tanja Turner\, Mert Seger\, Heap\nVeranstalter: VLAN\nEintrit
  r-heap
 URL:https://rave.wien/e/2026-11-19-heavy-listening-with-tanja-turner-mert
  -seger-heap
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-19-sama-recordings-pres-schweben@rave.wien
-DTSTAMP:20261219T000000Z
-DTSTART;TZID=Europe/Vienna:20261219T210000
-DTEND;TZID=Europe/Vienna:20261220T060000
-SUMMARY:sama recordings pres. schweben
-LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
-DESCRIPTION:Ambient Animal\, Tanja Turner\nVeranstalter: sama recordings\
- n\nWeitere Ausgabe der Reihe s c h w e b e n des Wiener Labels sama reco
- rdings\, diesmal im Celeste. Die Reihe verbindet Avantgarde-Pop\, elektr
- onische und experimentelle Musik mit Club- und Ambient-Sounds\, meist mi
- t Live-Sets und DJs. Lineup\, Beginn\, Preis und Flyer sind noch nicht v
- eröffentlicht.\n\nhttps://rave.wien/e/2026-12-19-sama-recordings-pres-s
- chweben
-URL:https://rave.wien/e/2026-12-19-sama-recordings-pres-schweben
 END:VEVENT
 END:VCALENDAR
