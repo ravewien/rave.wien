@@ -10615,7 +10615,8 @@ const AR={
    "de": "Kat Ze (Kathi) ist eine Techno-DJ aus Wien. Sie spielt u. a. in Grelle Forelle, Das Werk, Flex und Club Exil.",
    "en": "Kat Ze (Kathi) is a techno DJ living in Vienna. She plays at venues including Grelle Forelle, Das Werk, Flex and Club Exil."
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-21"
  },
  "Prismode": {
   "links": {
@@ -12111,7 +12112,15 @@ const AR={
   },
   "src": [
    "https://soundcloud.com/cheddar-boyz"
-  ]
+  ],
+  "sets": [
+   {
+    "t": "Cheddar Boyz Nr. 1 Les Frommages Terribles LIVE at Psyperience Pool Party",
+    "u": "https://soundcloud.com/cheddar-boyz/cheddar-boyz-nr-1-les-frommages-terribles"
+   }
+  ],
+  "setsChecked": "2026-11-21",
+  "spChk": "2026-11-21"
  },
  "Veneno": {
   "noImg": "2026-11-03",
@@ -13940,7 +13949,8 @@ const AR={
  "Tolaris": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-21"
  },
  "MC Mars": {
   "bio": {
@@ -14172,7 +14182,8 @@ const AR={
   "src": [
    "https://de.ra.co/dj/maxwagner"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-21"
  },
  "Sony2k": {
   "infoChk": "2026-11-02",
@@ -14589,7 +14600,8 @@ const AR={
    "https://ra.co/events/1873343",
    "https://ra.co/events/2250635"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-21"
  },
  "M4YB3": {
   "noImg": "2026-11-03",
@@ -14597,7 +14609,8 @@ const AR={
   "src": [
    "https://ra.co/events/2250635"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-21"
  },
  "Shaxoron": {
   "noImg": "2026-11-15",
@@ -16968,7 +16981,8 @@ const AR={
  "Fullip": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-21"
  },
  "Poison": {
   "noImg": "2026-11-03",
@@ -22028,7 +22042,8 @@ const AR={
  "ooku.": {
   "noImg": "2026-11-03",
   "links": {
-   "sc": "https://soundcloud.com/ooku_the"
+   "sc": "https://soundcloud.com/ooku_the",
+   "sp": "https://open.spotify.com/artist/0dG3dMMt3dfQ0zPtJZvCAE"
   },
   "sets": [
    {
@@ -22040,7 +22055,8 @@ const AR={
    "https://soundcloud.com/ooku_the",
    "https://soundcloud.com/resradio/ooku-dr-schick-present-2"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-21"
  },
  "paul heimlich": {
   "noImg": "2026-11-03",
@@ -22360,7 +22376,8 @@ const AR={
  "DJ Odd": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-21"
  },
  "dj-spike": {
   "noImg": "2026-11-03",
@@ -23374,7 +23391,8 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/nugi",
    "sc": "https://soundcloud.com/nugimusic",
-   "ig": "https://www.instagram.com/nugi_music"
+   "ig": "https://www.instagram.com/nugi_music",
+   "sp": "https://open.spotify.com/artist/3gMjSYSjA1sYDjEK8H2uil"
   },
   "real": "Ben Kobl",
   "bio": {
@@ -23401,10 +23419,16 @@ const AR={
   ],
   "src": [
    "https://ra.co/dj/nugi",
-   "https://soundcloud.com/nugimusic"
+   "https://soundcloud.com/nugimusic",
+   "https://hugrecords1.bandcamp.com/",
+   "https://elevate.at/en/music/artists/nugi"
   ],
   "setsChecked": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "labels": [
+   "Hug Records"
+  ],
+  "spChk": "2026-11-21"
  },
  "AEND": {
   "img": "https://static.ra.co/images/profiles/square/aend.jpg?dateUpdated=1784118339167",
@@ -25289,7 +25313,19 @@ const AR={
   "bio": {
    "de": "DJ Hyperdrive ist ein in Deutschland ansässiger DJ, der u. a. bei BCCO-Nächten in Berlin, Paris, Amsterdam und Helsinki sowie bei Hard-Trade-Events spielt.",
    "en": "DJ Hyperdrive is a Germany-based DJ who plays BCCO nights in Berlin, Paris, Amsterdam and Helsinki, as well as Hard Trade events."
-  }
+  },
+  "sets": [
+   {
+    "t": "DJ Hyperdrive – Full Set @ DGTL Amsterdam (20.04.2025)",
+    "u": "https://soundcloud.com/dgtl-festival/dj-hyperdrive-full-set-dgtl-amsterdam-2025-2042025"
+   },
+   {
+    "t": "BCCO Mix Series 201: DJ Hyperdrive",
+    "u": "https://soundcloud.com/bcco/dj-hyperdrive"
+   }
+  ],
+  "setsChecked": "2026-11-21",
+  "spChk": "2026-11-21"
  },
  "Manu Script": {
   "links": {
@@ -26236,7 +26272,8 @@ const AR={
  "Klopfgeister": {
   "img": "https://cdn.prod.website-files.com/63ea1918fd8efbcdef2c2702/65c61a25359cdd571f80be0f_Klopfgeister-transformed.jpeg",
   "links": {
-   "sc": "https://soundcloud.com/klopfgeister"
+   "sc": "https://soundcloud.com/klopfgeister",
+   "sp": "https://open.spotify.com/artist/41LAOu9bAFfHPoLygR0uwg"
   },
   "bio": {
    "de": "Psytrance- und Progressive-Projekt von Thorsten Paul aus Hamburg mit tiefen, emotional positiven Klanglandschaften und kräftigem Groove. Er spielt regelmäßig bei der Berliner Reihe Goanautika; unter Nightsoul bzw. Clubgeister erscheinen langsamere Stücke.",
@@ -26261,7 +26298,8 @@ const AR={
    "https://www.impuls-festival.com/musik/klopfgeister",
    "https://de.ra.co/events/2185053"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-21"
  },
  "DJ Heartstring": {
   "img": "https://static.ra.co/images/profiles/square/djheartstring.jpg?dateUpdated=1673143618000",
@@ -34645,7 +34683,8 @@ const AR={
  "Feistling": {
   "links": {
    "sc": "https://soundcloud.com/feistling-mp3",
-   "bc": "https://feistling.bandcamp.com"
+   "bc": "https://feistling.bandcamp.com",
+   "sp": "https://open.spotify.com/artist/2QQMwJP27JvZbJsXtZovb9"
   },
   "bio": {
    "de": "FEISTLING ist ein Drum-&-Bass-Produzent und DJ aus Österreich, beeinflusst von Dubstep, Trap und Bass House. Bekannt ist er vor allem für DnB-Flips und Remixe (u. a. von ISOxo, Marshmello & HOL! sowie Chase & Status), die er als Free Downloads veröffentlicht. 2025 spielte er bei der Blckshift Anniversary Session im PRST in Wien.",
@@ -34664,7 +34703,9 @@ const AR={
    "https://feistling.bandcamp.com/track/back-again"
   ],
   "infoChk": "2026-11-04",
-  "noImg": "2026-11-04"
+  "noImg": "2026-11-04",
+  "spChk": "2026-11-21",
+  "setsChecked": "2026-11-21"
  },
  "Mike Momburg": {
   "img": "https://static.ra.co/images/profiles/square/mikemomburg.jpg?dateUpdated=1770124332873",
@@ -46863,7 +46904,8 @@ const AR={
   ],
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
-  "noLinks": "2026-11-04"
+  "noLinks": "2026-11-04",
+  "spChk": "2026-11-21"
  },
  "Misaya": {
   "links": {
@@ -46925,7 +46967,8 @@ const AR={
    "https://soundcloud.com/progtamin"
   ],
   "infoChk": "2026-11-04",
-  "noImg": "2026-11-04"
+  "noImg": "2026-11-04",
+  "spChk": "2026-11-21"
  },
  "Oblix": {
   "genres": [
@@ -46942,7 +46985,8 @@ const AR={
   ],
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
-  "noLinks": "2026-11-04"
+  "noLinks": "2026-11-04",
+  "spChk": "2026-11-21"
  },
  "Marakame": {
   "genres": [
@@ -46950,7 +46994,8 @@ const AR={
   ],
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
-  "noLinks": "2026-11-04"
+  "noLinks": "2026-11-04",
+  "spChk": "2026-11-21"
  },
  "Agnya": {
   "genres": [
@@ -47853,7 +47898,8 @@ const AR={
    "https://soundcloud.com/jana-meissnitzer",
    "https://soundcloud.com/amikalkollektiv/fm4-unlimited-jalen-mess"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "spChk": "2026-11-21"
  },
  "Sarah Allen": {
   "noImg": "2026-11-04",
@@ -53762,7 +53808,8 @@ const AR={
   "src": [
    "https://www.goabase.net/party/yulemorph/118724",
    "https://www.tickettailor.com/events/nightofdarktales/2064396"
-  ]
+  ],
+  "spChk": "2026-11-21"
  },
  "Attrick": {
   "infoChk": "2026-11-20",
@@ -53771,7 +53818,8 @@ const AR={
   "genres": [
    "Darkpsy",
    "Forest"
-  ]
+  ],
+  "spChk": "2026-11-21"
  },
  "Bahosh": {
   "links": {
@@ -53786,7 +53834,8 @@ const AR={
   "genres": [
    "Darkpsy",
    "Forest"
-  ]
+  ],
+  "spChk": "2026-11-21"
  },
  "Gatodelic": {
   "links": {
@@ -53807,7 +53856,8 @@ const AR={
   "genres": [
    "Darkpsy",
    "Forest"
-  ]
+  ],
+  "spChk": "2026-11-21"
  },
  "Noisia": {
   "links": {
@@ -53931,7 +53981,8 @@ const AR={
   "noImg": "2026-11-20",
   "genres": [
    "Techno"
-  ]
+  ],
+  "spChk": "2026-11-21"
  },
  "Chewlie": {
   "links": {
@@ -54000,7 +54051,8 @@ const AR={
   "genres": [
    "Bass",
    "Footwork"
-  ]
+  ],
+  "spChk": "2026-11-21"
  },
  "Moosiqunt": {
   "infoChk": "2026-11-20",
@@ -54009,7 +54061,8 @@ const AR={
   "genres": [
    "Bass",
    "Footwork"
-  ]
+  ],
+  "spChk": "2026-11-21"
  },
  "Niko Garcia": {
   "links": {
@@ -54029,7 +54082,8 @@ const AR={
   "noImg": "2026-11-20",
   "genres": [
    "Progressive House"
-  ]
+  ],
+  "spChk": "2026-11-21"
  },
  "Hybrid Minds": {
   "links": {
@@ -54107,7 +54161,8 @@ const AR={
  },
  "dr ushuu": {
   "links": {
-   "sc": "https://soundcloud.com/danyushuu"
+   "sc": "https://soundcloud.com/danyushuu",
+   "sp": "https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR"
   },
   "sets": [
    {
@@ -54142,7 +54197,8 @@ const AR={
   },
   "labels": [
    "Monstercat"
-  ]
+  ],
+  "spChk": "2026-11-21"
  },
  "madcore": {
   "links": {
@@ -54173,7 +54229,8 @@ const AR={
    "Bass",
    "Drum & Bass",
    "Dubstep"
-  ]
+  ],
+  "spChk": "2026-11-21"
  },
  "hechter": {
   "links": {
@@ -54189,7 +54246,8 @@ const AR={
    "Bass",
    "Drum & Bass",
    "Dubstep"
-  ]
+  ],
+  "spChk": "2026-11-21"
  },
  "CRASTY": {
   "from": {
@@ -54315,7 +54373,8 @@ const AR={
   "noLinks": "2026-11-20",
   "src": [
    "https://forbiddenfrequency.at/djs"
-  ]
+  ],
+  "spChk": "2026-11-21"
  },
  "Schmeckes": {
   "genres": [
@@ -54477,7 +54536,8 @@ const AR={
   ],
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-21"
  },
  "DJ Serotania": {
   "genres": [
@@ -54485,7 +54545,8 @@ const AR={
   ],
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-21"
  },
  "Ian Asher": {
   "from": {
@@ -54525,7 +54586,18 @@ const AR={
   "src": [
    "https://soundcloud.com/levexdj",
    "https://www.monstercat.com/artist/levex"
-  ]
+  ],
+  "sets": [
+   {
+    "t": "LEVEX @ INFECT., Prater Dome Wien (18.07.2025)",
+    "u": "https://soundcloud.com/prater-dome/levex-infect-prater-dome-vienna-18-07-2025"
+   },
+   {
+    "t": "LEVEX @ BASEMNT., Prater Dome Wien (14.02.2025)",
+    "u": "https://soundcloud.com/prater-dome/levex-basemnt-prater-dome-vienna-14-02-2025"
+   }
+  ],
+  "setsChecked": "2026-11-21"
  },
  "LUC": {
   "genres": [
@@ -54574,7 +54646,8 @@ const AR={
   "spChk": "2026-11-20",
   "src": [
    "https://soundcloud.com/maja-faller"
-  ]
+  ],
+  "setsChecked": "2026-11-21"
  },
  "Sia Moan": {
   "genres": [
@@ -54624,7 +54697,8 @@ const AR={
   ],
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-21"
  },
  "Bowiedl & Gorman": {
   "genres": [
@@ -54633,7 +54707,8 @@ const AR={
   ],
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-21"
  },
  "Tribea": {
   "genres": [
@@ -54662,7 +54737,8 @@ const AR={
   ],
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-21"
  },
  "Art Fact": {
   "from": {
@@ -54694,7 +54770,8 @@ const AR={
   ],
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-21"
  },
  "balans": {
   "genres": [
@@ -54703,7 +54780,8 @@ const AR={
   ],
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-21"
  },
  "Grubi": {
   "genres": [
@@ -54712,19 +54790,497 @@ const AR={
   ],
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-21"
  },
  "Astrix": {
   "links": {
-   "sp": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+   "sp": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit",
+   "sc": "https://soundcloud.com/astrix-official",
+   "ig": "https://www.instagram.com/astrixofficial/"
   },
-  "spChk": "2026-11-20"
+  "spChk": "2026-11-20",
+  "real": "Avi Shmailov",
+  "from": {
+   "de": "Tel Aviv, Israel",
+   "en": "Tel Aviv, Israel"
+  },
+  "genres": [
+   "Psytrance",
+   "Progressive Psytrance"
+  ],
+  "labels": [
+   "HOMmega Productions",
+   "Shamanic Tales"
+  ],
+  "bio": {
+   "de": "Astrix (Avi Shmailov) ist ein in Georgien geborener, in Tel Aviv aufgewachsener Psytrance-DJ und Produzent, der seit 1997 unter diesem Namen veröffentlicht. Er ist mit HOMmega Productions verbunden und betreibt das Label Shamanic Tales.",
+   "en": "Astrix (Avi Shmailov) is a Georgian-born psytrance DJ and producer raised in Tel Aviv who has released under this name since 1997. He is associated with HOMmega Productions and runs the label Shamanic Tales."
+  },
+  "img": "https://www.technoairlines.com/wp-content/uploads/2026/10/astrix-dj-photo-768x768.jpg",
+  "setsChecked": "2026-11-21",
+  "infoChk": "2026-11-21",
+  "src": [
+   "https://en.wikipedia.org/wiki/Astrix",
+   "https://www.technoairlines.com/artist/astrix"
+  ]
  },
  "Jan Ehret": {
   "links": {
-   "sp": "https://open.spotify.com/artist/4TINfYTZ90vmOojwEa4wN2"
+   "sp": "https://open.spotify.com/artist/4TINfYTZ90vmOojwEa4wN2",
+   "ra": "https://ra.co/dj/janehret"
   },
-  "spChk": "2026-11-20"
+  "spChk": "2026-11-20",
+  "from": {
+   "de": "Deutschland",
+   "en": "Germany"
+  },
+  "bio": {
+   "de": "Jan Ehret ist ein DJ und Kopf der Partyreihe Kinky Galore, die er u. a. in Berlin, Hamburg, Düsseldorf, München und Rostock veranstaltet.",
+   "en": "Jan Ehret is a DJ and the head of the Kinky Galore party series, which he hosts in Berlin, Hamburg, Düsseldorf, Munich and Rostock among others."
+  },
+  "alias": [
+   "jan.Ehret"
+  ],
+  "noImg": "2026-11-21",
+  "infoChk": "2026-11-21",
+  "src": [
+   "https://ra.co/dj/janehret"
+  ]
+ },
+ "Andrew Rayel": {
+  "real": "Andrei Rață",
+  "from": {
+   "de": "Moldau",
+   "en": "Moldova"
+  },
+  "genres": [
+   "Trance"
+  ],
+  "labels": [
+   "Armada Music",
+   "inHarmony Music"
+  ],
+  "bio": {
+   "de": "Andrew Rayel (Andrei Rață, geb. 1992) ist ein moldauischer Trance-DJ und Produzent. Er veröffentlichte zunächst auf Armada Music und gründete 2017 sein eigenes Label inHarmony Music.",
+   "en": "Andrew Rayel (Andrei Rață, born 1992) is a Moldovan trance DJ and producer. He first released on Armada Music and founded his own label inHarmony Music in 2017."
+  },
+  "img": "https://www.technoairlines.com/wp-content/uploads/2026/10/andrew-rayel-dj-photo-768x768.jpg",
+  "links": {
+   "sp": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr",
+   "sc": "https://soundcloud.com/andrewrayel",
+   "ig": "https://www.instagram.com/andrew_rayel/",
+   "ra": "https://ra.co/dj/andrewrayel"
+  },
+  "sets": [
+   {
+    "t": "Andrew Rayel – Live at A State Of Trance 2025 (Ahoy, Rotterdam)",
+    "u": "https://soundcloud.com/andrewrayel/andrew-rayel-live-at-a-state-of-trance-2025-ahoy-rotterdam"
+   },
+   {
+    "t": "Andrew Rayel – Live @ A State of Trance 950 Mainstage, Utrecht",
+    "u": "https://soundcloud.com/andrewrayel/andrew-rayel-asot-950-the-netherlands-mastered"
+   }
+  ],
+  "setsChecked": "2026-11-21",
+  "spChk": "2026-11-21",
+  "infoChk": "2026-11-21",
+  "src": [
+   "https://en.wikipedia.org/wiki/Andrew_Rayel",
+   "https://www.technoairlines.com/artist/andrew-rayel",
+   "https://ra.co/dj/andrewrayel"
+  ]
+ },
+ "Ben Gold": {
+  "from": {
+   "de": "Niederlande",
+   "en": "Netherlands"
+  },
+  "genres": [
+   "Trance"
+  ],
+  "labels": [
+   "Armada Music"
+  ],
+  "bio": {
+   "de": "Ben Gold ist ein niederländischer Trance-DJ und Produzent bei Armada Music. Bekannt wurde er u. a. mit der ASOT-750-Hymne „I'm In A State Of Trance“.",
+   "en": "Ben Gold is a Dutch trance DJ and producer on Armada Music, known among other things for the ASOT 750 anthem \"I'm In A State Of Trance\"."
+  },
+  "links": {
+   "sp": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL",
+   "bc": "https://bengold.bandcamp.com",
+   "web": "https://www.armadamusic.com/artists/ben-gold"
+  },
+  "noImg": "2026-11-21",
+  "spChk": "2026-11-21",
+  "infoChk": "2026-11-21",
+  "src": [
+   "https://www.armadamusic.com/artists/ben-gold",
+   "https://bengold.bandcamp.com"
+  ]
+ },
+ "Modeā": {
+  "from": {
+   "de": "Donegal, Irland",
+   "en": "Donegal, Ireland"
+  },
+  "genres": [
+   "Techno",
+   "Melodic Techno"
+  ],
+  "bio": {
+   "de": "Modeā ist ein DJ und Produzent aus Donegal in Irland. Sein Sound verbindet Techno mit hypnotischen Melodien; Releases erschienen u. a. auf Drumcode, Armada Music und HILOMATIK, sein Track „Shine“ lief auf Awakenings, Tomorrowland und EDC.",
+   "en": "Modeā is a DJ and producer from Donegal, Ireland. His sound blends techno with hypnotic melodies; releases include Drumcode, Armada Music and HILOMATIK, and his track \"Shine\" was played at Awakenings, Tomorrowland and EDC."
+  },
+  "img": "https://cdn.prod.website-files.com/6447d732046773b01a9cbb88/6516ad7bf2bbad4148a7cc8f_Modea%20smaller.jpg",
+  "links": {
+   "sc": "https://soundcloud.com/modeamusic"
+  },
+  "infoChk": "2026-11-21",
+  "src": [
+   "https://drumcode.se/artists/modea"
+  ]
+ },
+ "Olly James": {
+  "real": "Oliver James Purvis",
+  "from": {
+   "de": "Newcastle, Großbritannien",
+   "en": "Newcastle, UK"
+  },
+  "genres": [
+   "EDM",
+   "Progressive House"
+  ],
+  "labels": [
+   "Revealed Recordings",
+   "Spinnin' Records",
+   "Maxximize Records"
+  ],
+  "bio": {
+   "de": "Olly James ist ein britischer DJ und Produzent aus Newcastle, der 2016 bekannt wurde. Er veröffentlicht u. a. auf Revealed Recordings und Spinnin' Records und spielte zuletzt auch Gastmixe für A State Of Trance.",
+   "en": "Olly James is a British DJ and producer from Newcastle who broke through in 2016. He releases on labels such as Revealed Recordings and Spinnin' Records and has recently also delivered guest mixes for A State Of Trance."
+  },
+  "img": "https://www.technoairlines.com/wp-content/uploads/2026/10/olly-james-dj-photo-768x768.jpg",
+  "links": {
+   "sp": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC",
+   "sc": "https://soundcloud.com/ollyjamesmusic",
+   "ig": "https://www.instagram.com/ollyjamesmusic/"
+  },
+  "sets": [
+   {
+    "t": "A State Of Trance 1278 (Olly James Guestmix)",
+    "u": "https://soundcloud.com/ollyjamesmusic/a-state-of-trance-1278-olly"
+   },
+   {
+    "t": "Olly James – 1001Tracklists Exclusive Mix",
+    "u": "https://soundcloud.com/1001tracklists/olly-james-1001tracklists-exclusive-mix"
+   }
+  ],
+  "setsChecked": "2026-11-21",
+  "spChk": "2026-11-21",
+  "infoChk": "2026-11-21",
+  "src": [
+   "https://www.technoairlines.com/artist/olly-james"
+  ]
+ },
+ "Blastoyz": {
+  "real": "Kobi Nigreker",
+  "from": {
+   "de": "Israel",
+   "en": "Israel"
+  },
+  "genres": [
+   "Psytrance"
+  ],
+  "labels": [
+   "Nutek Records",
+   "WELVRAVE"
+  ],
+  "bio": {
+   "de": "Blastoyz (Kobi Nigreker, geb. 1990) ist ein israelischer Psytrance-Produzent, bekannt u. a. für „After Dark“ mit Seven Lions und „Lift Me Up“ mit Berg und Moby.",
+   "en": "Blastoyz (Kobi Nigreker, born 1990) is an Israeli psytrance producer known for \"After Dark\" with Seven Lions and \"Lift Me Up\" with Berg and Moby."
+  },
+  "img": "https://www.technoairlines.com/wp-content/uploads/2026/10/blastoyz-dj-photo-768x768.jpg",
+  "links": {
+   "sp": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p",
+   "sc": "https://soundcloud.com/kobiblastoyz",
+   "ig": "https://www.instagram.com/blastoyz/"
+  },
+  "sets": [
+   {
+    "t": "Blastoyz – Live @ Groove, Buenos Aires 2024 [Full Set]",
+    "u": "https://soundcloud.com/kobiblastoyz/blastoyz-live-groove-buenos-aires-argerntina-2024-full-set"
+   },
+   {
+    "t": "Blastoyz – Live @ Groove, Buenos Aires 2019 [Full Set]",
+    "u": "https://soundcloud.com/kobiblastoyz/blastoyz-live-groove-buenos-aires-argerntina-2019-full-set"
+   }
+  ],
+  "setsChecked": "2026-11-21",
+  "spChk": "2026-11-21",
+  "infoChk": "2026-11-21",
+  "src": [
+   "https://www.technoairlines.com/artist/blastoyz"
+  ]
+ },
+ "Phaxe": {
+  "real": "Kevin Josefsen",
+  "from": {
+   "de": "Dänemark",
+   "en": "Denmark"
+  },
+  "genres": [
+   "Progressive Psytrance",
+   "Psytrance"
+  ],
+  "labels": [
+   "Iboga Records",
+   "Spintwist Records",
+   "Magic Moments Records"
+  ],
+  "bio": {
+   "de": "Phaxe (Kevin Josefsen) ist ein dänischer Progressive-Psytrance-Produzent. Er veröffentlichte u. a. auf Iboga Records, gründete 2022 Magic Moments Records und arbeitet oft mit Morten Granau zusammen.",
+   "en": "Phaxe (Kevin Josefsen) is a Danish progressive psytrance producer. He has released on Iboga Records among others, founded Magic Moments Records in 2022 and often works with Morten Granau."
+  },
+  "img": "https://www.technoairlines.com/wp-content/uploads/2026/10/phaxe-dj-photo-768x768.jpg",
+  "links": {
+   "sp": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN",
+   "sc": "https://soundcloud.com/phaxe"
+  },
+  "sets": [
+   {
+    "t": "Phaxe – Live at Universo Paralello 2019/2020",
+    "u": "https://soundcloud.com/phaxe/phaxe-live-at-universo-paralello-20192020"
+   },
+   {
+    "t": "Phaxe – X-Mas DJ-Set 2013",
+    "u": "https://soundcloud.com/phaxe/phaxe-x-mas-djset-2013"
+   }
+  ],
+  "setsChecked": "2026-11-21",
+  "spChk": "2026-11-21",
+  "infoChk": "2026-11-21",
+  "src": [
+   "https://www.technoairlines.com/artist/phaxe"
+  ]
+ },
+ "Faders": {
+  "from": {
+   "de": "Israel",
+   "en": "Israel"
+  },
+  "genres": [
+   "Psytrance"
+  ],
+  "labels": [
+   "180 Degrees Records"
+  ],
+  "bio": {
+   "de": "Faders ist ein israelisches Psytrance-Projekt mit Releases wie „The Prophecy“ und „Chimera“.",
+   "en": "Faders is an Israeli psytrance project with releases such as \"The Prophecy\" and \"Chimera\"."
+  },
+  "noImg": "2026-11-21",
+  "links": {
+   "sp": "https://open.spotify.com/artist/1to02GbmzsvkwAWDtKNtwn",
+   "sc": "https://soundcloud.com/faders"
+  },
+  "sets": [
+   {
+    "t": "Faders – Autumn Mix 2015",
+    "u": "https://soundcloud.com/faders/faders-autumn-mix-2015"
+   }
+  ],
+  "setsChecked": "2026-11-21",
+  "spChk": "2026-11-21",
+  "infoChk": "2026-11-21",
+  "src": [
+   "https://www.technoairlines.com/artist/faders"
+  ]
+ },
+ "Sonic Species": {
+  "from": {
+   "de": "Großbritannien",
+   "en": "UK"
+  },
+  "genres": [
+   "Psytrance"
+  ],
+  "bio": {
+   "de": "Sonic Species ist ein britisches Psytrance-Projekt. Nach dem Debütalbum „Unleash The Beat“ zählt es zu den international gefragten Psytrance-Acts und spielt regelmäßig auf großen Festivals wie Ozora.",
+   "en": "Sonic Species is a UK psytrance project. Following the debut album \"Unleash The Beat\", it is one of the internationally sought-after psytrance acts and regularly plays major festivals such as Ozora."
+  },
+  "img": "https://f4.bcbits.com/img/0011381725_23.jpg",
+  "links": {
+   "bc": "https://sonicspecies.bandcamp.com",
+   "sc": "https://soundcloud.com/sonicspecies"
+  },
+  "sets": [
+   {
+    "t": "Sonic Species – Ozora Radio Mix (Mai 2020)",
+    "u": "https://soundcloud.com/radiozora/sonic-species-ozora-radio-mix-may-2020"
+   },
+   {
+    "t": "Sonic Species – Ozora One Day In Tokyo 2017",
+    "u": "https://soundcloud.com/ozora-festival/sonic-species-ozora-one-day-in-tokyo-2017"
+   }
+  ],
+  "setsChecked": "2026-11-21",
+  "infoChk": "2026-11-21",
+  "src": [
+   "https://sonicspecies.bandcamp.com"
+  ]
+ },
+ "twocolors": {
+  "from": {
+   "de": "Berlin",
+   "en": "Berlin"
+  },
+  "genres": [
+   "House",
+   "Pop"
+  ],
+  "bio": {
+   "de": "twocolors ist ein Electro-House-Duo aus Berlin um Emil Reinke und Pierre-Angelo Papaccio, die sich 2015 kennenlernten. Bekannt wurden sie u. a. mit ihrer Version von „Lovefool“ (2020).",
+   "en": "twocolors is an electro house duo from Berlin, Emil Reinke and Pierre-Angelo Papaccio, who met in 2015. They became known for, among others, their 2020 version of \"Lovefool\"."
+  },
+  "noImg": "2026-11-21",
+  "infoChk": "2026-11-21",
+  "noLinks": "2026-11-21",
+  "src": [
+   "https://de.wikipedia.org/wiki/Twocolors"
+  ]
+ },
+ "Ananda": {
+  "real": "Nicolai Gabriel",
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "genres": [
+   "Progressive Psytrance",
+   "Psytrance"
+  ],
+  "bio": {
+   "de": "Ananda (AUT) ist das Psytrance-Projekt des Wieners Nicolai Gabriel (seit 2017). Seine Sets und Produktionen verbinden weiche Synth-Melodien mit groovigem Progressive Psy; Releases u. a. „Sonic Medicine“ und „Firewater EP“.",
+   "en": "Ananda (AUT) is the psytrance project of Vienna-based Nicolai Gabriel (since 2017). His sets and productions combine smooth synth melodies with groovy progressive psy; releases include \"Sonic Medicine\" and \"Firewater EP\"."
+  },
+  "alias": [
+   "Ananda (AUT)"
+  ],
+  "img": "https://f4.bcbits.com/img/0016202928_23.jpg",
+  "links": {
+   "bc": "https://anandapsy.bandcamp.com",
+   "sc": "https://soundcloud.com/anandapsy"
+  },
+  "setsChecked": "2026-11-21",
+  "spChk": "2026-11-21",
+  "infoChk": "2026-11-21",
+  "src": [
+   "https://anandapsy.bandcamp.com",
+   "https://sra.at/band/60539"
+  ]
+ },
+ "Exelog": {
+  "genres": [
+   "Psytrance"
+  ],
+  "alias": [
+   "DJ Exelog"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/vladimir-borozanovic"
+  },
+  "noImg": "2026-11-21",
+  "sets": [
+   {
+    "t": "DJ Vlada – Paradise Winter Festival 2017 [Promo Set]",
+    "u": "https://soundcloud.com/vladimir-borozanovic/dj-vlada-paradise-winter-festival-2017-promo-set"
+   }
+  ],
+  "setsChecked": "2026-11-21",
+  "spChk": "2026-11-21",
+  "infoChk": "2026-11-21"
+ },
+ "EJCZKA": {
+  "genres": [
+   "Psytrance"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/ejczka"
+  },
+  "noImg": "2026-11-21",
+  "sets": [
+   {
+    "t": "EJCZKA – DJ-Set Urban Antidote Showcase 003 (11.10.2020)",
+    "u": "https://soundcloud.com/urban-antidote/ejczka-djset-urban-antidote-showcase-003-111020"
+   },
+   {
+    "t": "Ejczka @ Uroczysko Festival 2019 (11.08.2019)",
+    "u": "https://soundcloud.com/ejczka/20190811-ejczka-uroczysko-festival-2019"
+   }
+  ],
+  "setsChecked": "2026-11-21",
+  "spChk": "2026-11-21",
+  "infoChk": "2026-11-21"
+ },
+ "FrechDachs": {
+  "genres": [
+   "Drum & Bass"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/djfrechdachs"
+  },
+  "noImg": "2026-11-21",
+  "spChk": "2026-11-21",
+  "infoChk": "2026-11-21",
+  "src": [
+   "https://ra.co/dj/djfrechdachs"
+  ]
+ },
+ "Auroria": {
+  "genres": [
+   "Psytrance"
+  ],
+  "noImg": "2026-11-21",
+  "noLinks": "2026-11-21",
+  "infoChk": "2026-11-21",
+  "spChk": "2026-11-21"
+ },
+ "Synaptikon": {
+  "genres": [
+   "Psytrance"
+  ],
+  "noImg": "2026-11-21",
+  "noLinks": "2026-11-21",
+  "infoChk": "2026-11-21",
+  "spChk": "2026-11-21"
+ },
+ "Alexandra Marr": {
+  "genres": [
+   "House"
+  ],
+  "noImg": "2026-11-21",
+  "noLinks": "2026-11-21",
+  "infoChk": "2026-11-21",
+  "spChk": "2026-11-21"
+ },
+ "Boogaloo Steve": {
+  "genres": [
+   "House"
+  ],
+  "noImg": "2026-11-21",
+  "noLinks": "2026-11-21",
+  "infoChk": "2026-11-21",
+  "spChk": "2026-11-21"
+ },
+ "Flying Horstman": {
+  "genres": [
+   "House"
+  ],
+  "noImg": "2026-11-21",
+  "noLinks": "2026-11-21",
+  "infoChk": "2026-11-21",
+  "spChk": "2026-11-21"
  }
 };
 
