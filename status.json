@@ -1,0 +1,146 @@
+{
+ "zeit": "2026-11-21T05:10:25.249Z",
+ "adressen": 647,
+ "ok": 478,
+ "fehler": 169,
+ "hosts": {
+  "de.ra.co": {
+   "n": 10,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "es.ra.co": {
+   "n": 1,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "magika.fm": {
+   "n": 1,
+   "grund": [
+    "HTTP 500"
+   ]
+  },
+  "mahlwerkmoves.com": {
+   "n": 1,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "pan-african-music.com": {
+   "n": 1,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "ra.co": {
+   "n": 106,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "shop.o-klub.at": {
+   "n": 10,
+   "grund": [
+    "fetch failed"
+   ]
+  },
+  "theinnercircle.at": {
+   "n": 1,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "www.b72.at": {
+   "n": 1,
+   "grund": [
+    "fetch failed"
+   ]
+  },
+  "www.euphonic.de": {
+   "n": 1,
+   "grund": [
+    "fetch failed"
+   ]
+  },
+  "www.eventim-light.com": {
+   "n": 4,
+   "grund": [
+    "HTTP 403"
+   ]
+  },
+  "www.eventim.de": {
+   "n": 1,
+   "grund": [
+    "Zeitüberschreitung"
+   ]
+  },
+  "www.grelleforelle.com": {
+   "n": 12,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "www.hallmann-dome.at": {
+   "n": 1,
+   "grund": [
+    "fetch failed"
+   ]
+  },
+  "www.hausgemacht.org": {
+   "n": 1,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "www.himmel.at": {
+   "n": 1,
+   "grund": [
+    "HTTP 404"
+   ]
+  },
+  "www.libelle.at": {
+   "n": 1,
+   "grund": [
+    "HTTP 404"
+   ]
+  },
+  "www.melia.com": {
+   "n": 1,
+   "grund": [
+    "HTTP 403"
+   ]
+  },
+  "www.musicaustria.at": {
+   "n": 1,
+   "grund": [
+    "HTTP 404"
+   ]
+  },
+  "www.oeticket.com": {
+   "n": 2,
+   "grund": [
+    "Zeitüberschreitung"
+   ]
+  },
+  "www.regioactive.de": {
+   "n": 6,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "www.songkick.com": {
+   "n": 4,
+   "grund": [
+    "HTTP 406"
+   ]
+  },
+  "www.zorro-azul.com": {
+   "n": 1,
+   "grund": [
+    "HTTP 404"
+   ]
+  }
+ }
+}
