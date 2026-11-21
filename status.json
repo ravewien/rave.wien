@@ -1,0 +1,14 @@
+{
+ "zeit": "2026-11-21T13:28:57.577Z",
+ "adressen": 15,
+ "ok": 4,
+ "fehler": 11,
+ "hosts": {
+  "www.technoairlines.com": {
+   "n": 11,
+   "grund": [
+    "HTTP 404"
+   ]
+  }
+ }
+}
