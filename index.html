@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-L0Ommms6wIUQL/GiCc2sKt3/GCFcJXZR6Uasyvt+iVo='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-8cMHdsnttEyNw+18x7IXGliq406vi568MwIP0VR993M='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -1367,13 +1367,13 @@ function dedupe(raw){
     const base=richness(r)>richness(hit)?r:hit, other=base===r?hit:r;
     const m={...other,...base};
     if(!(m.genres&&m.genres.length)&&other.genres&&other.genres.length)m.gAuto=other.gAuto;
-    ["floors","genres","coll","tickets","flyer","price","s","e","note","aw","nophoto","zero","sexpos","lgbtq","opendecks","age"].forEach(k=>{if(m[k]==null||(Array.isArray(m[k])&&!m[k].length))m[k]=other[k]});
+    ["floors","genres","coll","tickets","flyer","price","s","e","note","aw","nophoto","sexpos","lgbtq","opendecks","age"].forEach(k=>{if(m[k]==null||(Array.isArray(m[k])&&!m[k].length))m[k]=other[k]});
     if(hit.price&&r.price&&hit.price!==r.price)m.altPrice=base===r?hit.price:r.price;
     m.src=[...hit.src];r.src.forEach(s=>{if(!m.src.some(x=>x[1]===s[1]))m.src.push(s)});
     Object.assign(hit,m);
   });
   out.forEach((e,i)=>{e.id="e"+i;e.genres=e.genres||[];e.coll=e.coll||[];e.floors=e.floors||[];{const ci=typeof CI!=="undefined"?CI:{};const fa=new Set(e.floors.flatMap(f=>f.a||[]).map(a=>fold(String(a).split("|").pop()).trim()));const seg=fold(e.title).split(/\s+(?:[–—|]|presents|pres\.|w\/|with|feat\.?|@|at)\s+|\s*[:#(]/)[0];const parts=seg.split(/\s+(?:x|×|&|\+)\s+/).map(x=>x.trim());Object.keys(ci).forEach(k=>{const f=fold(k).trim();if(f.length>=3&&!e.coll.includes(k)&&!fa.has(f)&&parts.includes(f))e.coll.push(k)})}const vr=VRULES[e.venue]||{};e.clubAge=vr.age||null;e.age=e.age||e.clubAge;e.fromVenue=[];
-    ["aw","nophoto","zero","sexpos","lgbtq","opendecks"].forEach(k=>{if(vr[k]&&!e[k]){e[k]=1;e.fromVenue.push(k)}});
+    ["aw","nophoto","sexpos","lgbtq","opendecks"].forEach(k=>{if(vr[k]&&!e[k]){e[k]=1;e.fromVenue.push(k)}});
     e.fromColl={};const _ci=typeof CI!=="undefined"?CI:{};e.coll.forEach(c=>{const r=(_ci[c]||{}).rules||{};Object.keys(r).forEach(k=>{if(r[k]&&!e[k]){e[k]=1;e.fromColl[k]=c}})});
     {const ks=new Set(e.src.map(s=>s[0]));e.manual=ks.has("man")||(!!e.man&&!ks.size);e.org=!e.unconf&&(!!e.ook||[...ks].some(k=>SORG.includes(k)));e.loc=!e.unconf&&!!e.vok;e.multi=!e.unconf&&!e.manual&&!e.loc&&!e.org&&ks.size>=2;
      e.srcCats=e.manual?["mn"]:e.unconf?["one"]:[...(e.loc?["loc"]:[]),...(e.org?["org"]:[]),ks.size>=2?"multi":"one"].filter((x,i,A)=>!(x==="one"&&(e.loc||e.org))||A.length===1);
@@ -2295,7 +2295,7 @@ function renderEv(dk,id){
     return `<div class="pad"><span class="key" style="background:var(--cue${CUE[i%8]})">${CUE[i%8]}</span><div>${f.f?`<div class="fl">${esc(f.f)}</div>`:""}${inner}${fsound(f)?`<div class="snd"><span class="sndk">SOUND</span>${esc(fsound(f)[st.lang]||fsound(f).de)}</div>`:""}</div></div>`}).join("")
     :`<div class="pad"><span class="key" style="background:var(--cueA)">A</span><div style="color:var(--mute)">${l.tba}</div></div>`;
   const vibe=FLAGS.filter(f=>e[f[0]]).map(([k,c,lab,,ic])=>{const why=e.fromVenue.includes(k)?`${l.house} ${e.venue}`:e.fromColl&&e.fromColl[k]?`${l.collRule} ${e.fromColl[k]}`:"";return `<button class="flag ${c}" data-ff="${k}" title="${esc(l.filter+(why?" · "+why:""))}"><i class="ico ${c}">${ic}</i>${esc(l[lab])}${why?"*":""}</button>`});
-  if(e.zero)vibe.push(`<span class="flag np" title="${esc(l.rZt)}"><i class="ico np">!</i>${esc(l.zeroS)}</span>`);
+  
   const viaRules=FLAGS.filter(f=>e[f[0]]&&(e.fromVenue.includes(f[0])||(e.fromColl&&e.fromColl[f[0]]))).map(f=>`${l[f[2]]}: ${e.fromVenue.includes(f[0])?l.house+" "+e.venue:l.collRule+" "+e.fromColl[f[0]]}`);
   const vf=e.loc&&e.org?l.rBoth:e.loc?l.rLoc:e.org?l.rOrg:"";
   const addr=V[e.venue]&&V[e.venue]!=="TBA"?V[e.venue]:"";
