@@ -30,7 +30,7 @@ import json, os, sys, time, random, logging, urllib.request, hashlib, subprocess
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-20.4"
+VERSION = "2026-11-21.1"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -211,7 +211,7 @@ def client(interactive=False):
     return cl
 
 import re
-BILD_OK = re.compile(r"^ig/(\d{4}-\d{2}-\d{2}|extra/[a-z0-9-]{1,40})/\d{1,2}\.jpg$")
+BILD_OK = re.compile(r"^ig/(\d{4}-\d{2}-\d{2}/\d{1,2}\.jpg|extra/[a-z0-9-]{1,40}/\d{1,2}\.(jpg|mp4))$")   # Videos nur als Extra (mit gleichnamigem .jpg als Vorschaubild)
 DATUM_OK = re.compile(r"^(\d{4}-\d{2}-\d{2}|extra-[a-z0-9-]{1,40})$")   # Tagespost oder Zwischenpost (extra-…)
 
 def pruefe(post):
@@ -239,27 +239,61 @@ def download(post):
     paths = []
     for i, rel in enumerate(post["bilder"]):
         # angehängte Extra-Bilder heißen auch 1.jpg – eigener Name, damit sie kein Tagesbild überschreiben
-        p = folder / (Path(rel).name if Path(rel).parent.name == post["datum"] or post["datum"].startswith("extra-") else f"anhang-{i + 1}.jpg")
+        p = folder / (Path(rel).name if Path(rel).parent.name == post["datum"] or post["datum"].startswith("extra-") else f"anhang-{i + 1}{Path(rel).suffix}")
         p.write_bytes(fetch(BASE + rel, binary=True))
+        if p.suffix == ".mp4":   # Vorschaubild = gleichnamiges .jpg; dient auch als Ersatz, falls das Video nicht hochgeht
+            p.with_suffix(".jpg").write_bytes(fetch(BASE + rel[:-4] + ".jpg", binary=True))
         paths.append(p)
     return paths
+
+def mp4_dauer(path):
+    """Länge eines MP4 in Sekunden (aus dem mvhd-Block) – ohne moviepy/ffmpeg."""
+    import struct
+    b = Path(path).read_bytes(); i = b.find(b"mvhd")
+    if i < 0: raise ValueError("kein mvhd im Video")
+    if b[i + 4] == 1:
+        ts, du = struct.unpack(">IQ", b[i + 24:i + 36])
+    else:
+        ts, du = struct.unpack(">II", b[i + 16:i + 24])
+    return du / ts
+
+def video_vorbereiten():
+    """instagrapi braucht für Videos sonst moviepy; Maße und Länge kennen wir selbst (Vorschaubild = gleichnamiges .jpg)."""
+    import instagrapi.mixins.video as V
+    def analyze(path, thumbnail=None):
+        from PIL import Image
+        th = Path(thumbnail) if thumbnail else Path(path).with_suffix(".jpg")
+        w, h = Image.open(th).size
+        return w, h, mp4_dauer(path), th
+    V.analyze_video = analyze
+
+def hochladen(cl, paths, text):
+    if any(p.suffix == ".mp4" for p in paths):
+        try:
+            video_vorbereiten()
+            return cl.album_upload(paths[:10], text) if len(paths) > 1 else cl.video_upload(paths[0], text, thumbnail=paths[0].with_suffix(".jpg"))
+        except Exception as e:
+            if type(e).__name__ in STORY_STOPP:
+                raise
+            log.exception("Video-Upload fehlgeschlagen – poste stattdessen das Standbild")
+            say(f"Video ging nicht hoch ({type(e).__name__}) – nehme das Standbild")
+            paths = [p.with_suffix(".jpg") if p.suffix == ".mp4" else p for p in paths]
+    return cl.photo_upload(paths[0], text) if len(paths) == 1 else cl.album_upload(paths[:10], text)
 
 def publish(post, cl=None, state=None):
     paths = download(post)
     cl = cl or client()
     text = post["text"]
-    if len(paths) == 1:
-        media = cl.photo_upload(paths[0], text)
-    else:
-        media = cl.album_upload(paths[:10], text)
+    media = hochladen(cl, paths, text)
     url = f"https://www.instagram.com/p/{media.code}/"
     if state is not None and story_an() and post.get("story") is not False:
         due = story_zeit(post["datum"], datetime.now(timezone.utc), post.get("story_nach_min"))
         # Tagesposts: alle Event-Bilder (ohne angehängte Extra-Bilder), Zwischenposts: nur das erste Bild
-        paare = [(str(pa), rel) for pa, rel in zip(paths, post["bilder"]) if "/extra/" not in rel] or [(str(paths[0]), post["bilder"][0])]
+        paths = [pa.with_suffix(".jpg") for pa in paths]; bilder_rel = [r[:-4] + ".jpg" if r.endswith(".mp4") else r for r in post["bilder"]]   # Story nur mit Standbildern
+        paare = [(str(pa), rel) for pa, rel in zip(paths, bilder_rel) if "/extra/" not in rel] or [(str(paths[0]), bilder_rel[0])]
         if post["datum"].startswith("extra-"):
             # Zwischenpost: nur das erste Bild – außer "story_alle": true (dann alle Bilder des Posts)
-            paare = [(str(pa), rel) for pa, rel in zip(paths, post["bilder"])] if post.get("story_alle") is True else paare[:1]
+            paare = [(str(pa), rel) for pa, rel in zip(paths, bilder_rel)] if post.get("story_alle") is True else paare[:1]
         paare = paare[:STORY_MAX_BILDER]
         state.setdefault("stories", {})[post["datum"]] = {"pk": str(media.pk), "bild": paare[0][0], "bilder": [a for a, _ in paare],
                                                          "rel": [b for _, b in paare], "fertig": 0, "url": url,
@@ -394,7 +428,7 @@ def gepostet_mail(p, url):
          (f"Auf Instagram ist gerade der {tag(p['datum'])} erschienen.\n\n" if p["datum"].startswith("extra-") else
           f"Auf Instagram ist gerade der Post für {tag(p['datum'])} erschienen ({p.get('events', '?')} Events, {n} Bild{'er' if n != 1 else ''}).\n\n")
          + f"{url}\n\n——— Text des Posts ———\n\n{p['text']}",
-         [DL / p["datum"] / Path(b).name for b in p["bilder"]])
+         sorted(x for x in (DL / p["datum"]).glob("*.jpg") if not x.name.startswith("story-"))[:10])
 
 def due_posts(queue, state, now):
     out = []
