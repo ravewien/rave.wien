@@ -13608,7 +13608,8 @@ const AR={
  "Techflex": {
   "img": "https://static.ra.co/images/profiles/square/techflex.jpg?dateUpdated=1744880555000",
   "links": {
-   "ra": "https://ra.co/dj/techflex"
+   "ra": "https://ra.co/dj/techflex",
+   "sp": "https://open.spotify.com/artist/1u3dkpMSV8zjweTZfdZzqz"
   },
   "from": {
    "de": "Wien",
@@ -13639,7 +13640,8 @@ const AR={
    "https://ra.co/dj/techflex",
    "https://ra.co/dj/techflex/biography"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-22"
  },
  "Mike Mystik": {
   "img": "https://static.ra.co/images/profiles/square/mikemystik.jpg?dateUpdated=1789204766220",
@@ -13828,7 +13830,8 @@ const AR={
    "https://soundcloud.com/artemis-katefidis"
   ],
   "infoChk": "2026-11-02",
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "spChk": "2026-11-22"
  },
  "Michael Wagner": {
   "img": "https://static.ra.co/images/profiles/square/michaelwagner.jpg?dateUpdated=1694429396000",
@@ -26679,7 +26682,8 @@ const AR={
   "img": "https://static.ra.co/images/profiles/square/noebortolussi.jpg?dateUpdated=1784044552667",
   "links": {
    "ra": "https://ra.co/dj/noebortolussi",
-   "sc": "https://soundcloud.com/noebortolussi"
+   "sc": "https://soundcloud.com/noebortolussi",
+   "sp": "https://open.spotify.com/artist/1ML7ZDufjx3hv1MIz0WBBC"
   },
   "from": {
    "de": "Argentinien",
@@ -26712,7 +26716,8 @@ const AR={
    "https://ra.co/dj/noebortolussi/biography",
    "https://soundcloud.com/noebortolussi"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-22"
  },
  "Caiva": {
   "img": "https://static.ra.co/images/profiles/square/caiva.jpg?dateUpdated=1786290188317",
@@ -33192,9 +33197,14 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "Mood Shifter": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "infoChk": "2026-11-22",
+  "noImg": "2026-11-22",
+  "noLinks": "2026-11-22",
+  "genres": [
+   "Downtempo",
+   "Psy Techno"
+  ],
+  "spChk": "2026-11-22"
  },
  "David Bowiedl": {
   "infoChk": "2026-11-03",
@@ -40855,7 +40865,8 @@ const AR={
    "https://soundcloud.com/MONOFADE"
   ],
   "infoChk": "2026-11-04",
-  "noImg": "2026-11-04"
+  "noImg": "2026-11-04",
+  "spChk": "2026-11-22"
  },
  "Givio": {
   "img": "https://static.ra.co/images/profiles/square/givio.jpg?dateUpdated=1719504977000",
@@ -46931,7 +46942,8 @@ const AR={
    "https://ra.co/events/2170582"
   ],
   "infoChk": "2026-11-04",
-  "noImg": "2026-11-04"
+  "noImg": "2026-11-04",
+  "spChk": "2026-11-22"
  },
  "Progtamin": {
   "links": {
@@ -49133,10 +49145,14 @@ const AR={
   "infoChk": "2026-11-05"
  },
  "Dr. Schick": {
-  "noImg": "2026-11-15",
-  "noLinks": "2026-11-15",
-  "infoChk": "2026-11-15",
-  "spChk": "2026-11-15"
+  "noImg": "2026-11-22",
+  "noLinks": "2026-11-22",
+  "infoChk": "2026-11-22",
+  "spChk": "2026-11-22",
+  "genres": [
+   "House",
+   "Footwork"
+  ]
  },
  "Meander": {
   "noImg": "2026-11-15",
@@ -53679,7 +53695,8 @@ const AR={
  "CRAY-C": {
   "infoChk": "2026-11-20",
   "noImg": "2026-11-20",
-  "noLinks": "2026-11-20"
+  "noLinks": "2026-11-20",
+  "spChk": "2026-11-22"
  },
  "5ALREADY": {
   "infoChk": "2026-11-20",
@@ -53734,7 +53751,8 @@ const AR={
   "noImg": "2026-11-20",
   "genres": [
    "Drum & Bass"
-  ]
+  ],
+  "spChk": "2026-11-22"
  },
  "QUADRILLE": {
   "infoChk": "2026-11-20",
@@ -53913,7 +53931,8 @@ const AR={
  "Supergloss": {
   "links": {
    "ra": "https://ra.co/dj/supergloss",
-   "sc": "https://soundcloud.com/superglozz"
+   "sc": "https://soundcloud.com/superglozz",
+   "sp": "https://open.spotify.com/artist/7uvZrAOASv4qg1VawEFR7Z"
   },
   "sets": [
    {
@@ -53953,7 +53972,8 @@ const AR={
   "bio": {
    "de": "Supergloss ist eine DJ und Produzentin aus Berlin. Ihre Sets drehen sich um Acid und Trance der 90er und 00er Jahre. Eigene Tracks und Remixe erschienen u. a. auf Noom Records, dazu eine Split-EP mit CIS auf X-IZE.",
    "en": "Supergloss is a DJ and producer from Berlin. Her sets revolve around acid and trance from the 90s and 00s. Her tracks and remixes have been released on Noom Records, among others, plus a split EP with CIS on X-IZE."
-  }
+  },
+  "spChk": "2026-11-22"
  },
  "YØNDER": {
   "links": {
@@ -53997,14 +54017,16 @@ const AR={
   "genres": [
    "Bass",
    "Footwork"
-  ]
+  ],
+  "spChk": "2026-11-22"
  },
  "Jan Loup": {
   "links": {
    "ra": "https://ra.co/dj/janloup",
    "sc": "https://soundcloud.com/janloup",
    "bc": "https://janloup.bandcamp.com",
-   "web": "https://janloup.neocities.org"
+   "web": "https://janloup.neocities.org",
+   "sp": "https://open.spotify.com/artist/44MvjyW33ZyJ7SictqJK2G"
   },
   "sets": [
    {
@@ -54036,7 +54058,8 @@ const AR={
   "genres": [
    "Bass",
    "Footwork"
-  ]
+  ],
+  "spChk": "2026-11-22"
  },
  "nastynancy": {
   "links": {
@@ -54219,7 +54242,8 @@ const AR={
   "noImg": "2026-11-20",
   "genres": [
    "Dubstep"
-  ]
+  ],
+  "spChk": "2026-11-22"
  },
  "A.way": {
   "infoChk": "2026-11-20",
@@ -54939,7 +54963,19 @@ const AR={
   "infoChk": "2026-11-21",
   "src": [
    "https://drumcode.se/artists/modea"
-  ]
+  ],
+  "sets": [
+   {
+    "t": "Modeā LIVE from block. Dublin",
+    "u": "https://soundcloud.com/modeamusic/mode-live-from-block-dublin-07"
+   },
+   {
+    "t": "DCR694 – Drumcode Radio Live: Modeā Studio Mix from Donegal",
+    "u": "https://soundcloud.com/adambeyer/dcr694-drumcode-radio-live-modea-studio-mix-from-donegal"
+   }
+  ],
+  "setsChecked": "2026-11-22",
+  "spChk": "2026-11-22"
  },
  "Olly James": {
   "real": "Oliver James Purvis",
@@ -55128,7 +55164,8 @@ const AR={
   "infoChk": "2026-11-21",
   "src": [
    "https://sonicspecies.bandcamp.com"
-  ]
+  ],
+  "spChk": "2026-11-22"
  },
  "twocolors": {
   "from": {
@@ -55148,7 +55185,8 @@ const AR={
   "noLinks": "2026-11-21",
   "src": [
    "https://de.wikipedia.org/wiki/Twocolors"
-  ]
+  ],
+  "spChk": "2026-11-22"
  },
  "Ananda": {
   "real": "Nicolai Gabriel",
@@ -55281,6 +55319,45 @@ const AR={
   "noLinks": "2026-11-21",
   "infoChk": "2026-11-21",
   "spChk": "2026-11-21"
+ },
+ "CPE Crew & Friends": {
+  "genres": [
+   "Tekno",
+   "Acid",
+   "Techno"
+  ],
+  "coll": [
+   "CPE"
+  ],
+  "noImg": "2026-11-22",
+  "noLinks": "2026-11-22",
+  "infoChk": "2026-11-22",
+  "spChk": "2026-11-22"
+ },
+ "Tribal Vibes": {
+  "genres": [
+   "Psytrance",
+   "Trance"
+  ],
+  "coll": [
+   "Tribal Vibes"
+  ],
+  "noImg": "2026-11-22",
+  "noLinks": "2026-11-22",
+  "infoChk": "2026-11-22",
+  "spChk": "2026-11-22"
+ },
+ "Contrast Residents": {
+  "genres": [
+   "Drum & Bass"
+  ],
+  "coll": [
+   "Contrast"
+  ],
+  "noImg": "2026-11-22",
+  "noLinks": "2026-11-22",
+  "infoChk": "2026-11-22",
+  "spChk": "2026-11-22"
  }
 };
 
