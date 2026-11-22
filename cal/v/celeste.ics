@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-20-syndikat@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T220000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:syndikat
-LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
-DESCRIPTION:Malounadou\, Anna Soto\, Jule Feser\, Aside\nVeranstalter: Da
- s Syndikat\n\nDas Syndikat kommt zum ersten Mal im Celeste zusammen. Es 
- spielen Malounadou\, Anna Soto\, Jule Feser und Aside\, angekündigt ist
-  House. Weitere Infos zu den Artists\, Preis und Mindestalter nennt die 
- RA-Seite nicht. 22:00–06:00.\n\nhttps://rave.wien/e/2026-11-20-syndika
- t
-URL:https://rave.wien/e/2026-11-20-syndikat
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-21-hosted-by-the-zound-partisans@rave.wien
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Vienna:20261121T210000
@@ -699,5 +684,20 @@ DESCRIPTION:Djane Stone\, DJ Zidi\, Lucy Bakanal\, DJ Off Duty\nVeranstal
  t das Celeste nicht.\n\nhttps://rave.wien/e/2026-11-14-auslander-haus-vo
  l-22
 URL:https://rave.wien/e/2026-11-14-auslander-haus-vol-22
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-syndikat@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T220000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:syndikat
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Malounadou\, Anna Soto\, Jule Feser\, Aside\nVeranstalter: Da
+ s Syndikat\n\nDas Syndikat kommt zum ersten Mal im Celeste zusammen. Es 
+ spielen Malounadou\, Anna Soto\, Jule Feser und Aside\, angekündigt ist
+  House. Weitere Infos zu den Artists\, Preis und Mindestalter nennt die 
+ RA-Seite nicht. 22:00–06:00.\n\nhttps://rave.wien/e/2026-11-20-syndika
+ t
+URL:https://rave.wien/e/2026-11-20-syndikat
 END:VEVENT
 END:VCALENDAR

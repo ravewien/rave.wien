@@ -26,354 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-20-fluffig-punschabend@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T180000
-DTEND;TZID=Europe/Vienna:20261120T220000
-SUMMARY:Fluffig – Punschabend
-LOCATION:Club U\, Karlsplatz\, 1010 Wien
-DESCRIPTION:DizzyDray\, Anna Ullrich\, Rosa Rosen\, TAUSEND2Ø\nVeranstal
- ter: Fluffig\n\nPunschabend der Wiener Reihe Fluffig im Club U am Karlsp
- latz: ein Open-Air-Punschstand mit DJs von 18:00 bis 22:00. Es spielen D
- izzyDray\, Anna Ullrich (Techno\, Bounce\, Trance)\, Rosa Rosen und TAUS
- END2Ø\; RA nennt Trance und Techno. Laut Freytag geht es danach in der 
- PRST weiter. Eintritt und Mindestalter sind weder auf RA noch auf Freyta
- g angegeben.\n\nhttps://rave.wien/e/2026-11-20-fluffig-punschabend
-URL:https://rave.wien/e/2026-11-20-fluffig-punschabend
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-grund-fur-exil-soliparty@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T180000
-DTEND;TZID=Europe/Vienna:20261121T070000
-SUMMARY:Grund für Exil – Soliparty
-LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
-DESCRIPTION:Neoteric x Alerta\, Booster Club\, Danubian Dub\, Soundbügle
- rei\, Initiative 21\nVeranstalter: 4lthangrund\nEintritt: Freie Spende\n
- \nSoliparty des Kollektivs 4lthangrund im Club Exil: Live-Bands und DJs 
- (Neoteric x Alerta\, Booster Club\, Danubian Dub\, Soundbüglerei\, Init
- iative 21)\, dazu ein Dance Battle von FusionCollective\, eine Word-Art-
- Stage mit Poesie und Musik sowie ein Panel Talk zu Solidarity City und C
- are-Arbeit. Eintritt gegen Spende – die Einnahmen finanzieren die Räu
- me von 4lthangrund. Das Erdgeschoss mit Dancefloors\, Bars und barrierea
- rmen WCs ist rollstuhlgerecht\, der erste Stock nur über Stiegen erreic
- hbar. Das Programm wird laut Veranstalter noch laufend ergänzt.\n\nhttp
- s://rave.wien/e/2026-11-20-grund-fur-exil-soliparty
-URL:https://rave.wien/e/2026-11-20-grund-fur-exil-soliparty
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-ambievent-trace-encounters@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T193000
-DTEND;TZID=Europe/Vienna:20261121T020000
-SUMMARY:AMBIEVENT – trace encounters
-LOCATION:Kollektiv Kaorle\, Baumgartner Höhe 1 (Otto Wagner Areal\, Pavi
- llon 21)\, 1140 Wien
-DESCRIPTION:Ssaliva\, færo demonic\, Inou Ki Endo\, esti.d\, LCA\, Kenji
-  Araki\nVeranstalter: AMBIEVENT\nEintritt: 15 €\n\nAMBIEVENT „trace 
- encounters“ ist als immersiver Ambient-Abend im Kollektiv Kaorle (Otto
- -Wagner-Areal\, Pavillon 21) angelegt\, bei dem Klang\, Licht\, Duft und
-  Kunst zusammenwirken. Bühnendesign\, visuelle Kunst und sensorische El
- emente sollen den Raum zur Erweiterung der Musik machen. Musikalisch sin
- d Ssaliva\, færo demonic\, Inou Ki Endo\, esti.d und LCA angekündigt\,
-  Kenji Araki steuert eine Klanginstallation bei. Ein Ausstellungsraum ze
- igt Arbeiten von Maximilian Prag\, einen eigens kreierten Duft liefert N
- ēomirage. 19:00–02:00\, 15 €\, ab 18.\n\nhttps://rave.wien/e/2026-1
- 1-20-ambievent-trace-encounters
-URL:https://rave.wien/e/2026-11-20-ambievent-trace-encounters
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-pyramide-takeover-signal-festival@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T210000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:Pyramide Takeover – SIGNAL Festival
-LOCATION:Pyramide Vösendorf\, Parkallee 2\, 2334 Vösendorf Wien
-DESCRIPTION:Main: Boris Brejcha\, Kasia\nHard Techno Stage: Anxhela\, Bii
- a\nVeranstalter: SIGNAL\nEintritt: ab €45\n\nDie vierte Ausgabe des SI
- GNAL Festivals von O der Klub übernimmt die Glaspyramide in Vösendorf.
-  Headliner ist Boris Brejcha\, bekannt für Joker-Maske und High-Tech-Mi
- nimal\, der Live-Sets aus eigenen Produktionen spielt. Auf der Main Stag
- e spielt außerdem Kasia mit hypnotischem\, perkussivem Sound\, gebucht 
- u. a. bei Ultra Miami\, Resistance\, Drumcode und Afterlife. Die Hard Te
- chno Stage bespielen Anxhela (IT/AL) mit Techno mit Trance- und Acid-Ein
- flüssen und Biia mit rohem\, genreübergreifendem Techno mit 90er-Einfl
- üssen\; weitere Acts folgen. 21:00–06:00\, ab 18\, Dresscode casual/r
- ave\, Early-Bird-Tickets ab 45 €.\n\nhttps://rave.wien/e/2026-11-20-py
- ramide-takeover-signal-festival
-URL:https://rave.wien/e/2026-11-20-pyramide-takeover-signal-festival
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-syndikat@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T220000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:syndikat
-LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
-DESCRIPTION:Malounadou\, Anna Soto\, Jule Feser\, Aside\nVeranstalter: Da
- s Syndikat\n\nDas Syndikat kommt zum ersten Mal im Celeste zusammen. Es 
- spielen Malounadou\, Anna Soto\, Jule Feser und Aside\, angekündigt ist
-  House. Weitere Infos zu den Artists\, Preis und Mindestalter nennt die 
- RA-Seite nicht. 22:00–06:00.\n\nhttps://rave.wien/e/2026-11-20-syndika
- t
-URL:https://rave.wien/e/2026-11-20-syndikat
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-kollektiv-klanggerecht-presents-tanzinstanz-raw-e@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T220000
-DTEND;TZID=Europe/Vienna:20261121T054500
-SUMMARY:Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Tonks\, wldfee\, Sauerstøff\, subinstans\, NooK\, mein__dm\,
-  Techmoo\nVeranstalter: Kollektiv Klanggerecht\, Klanggerecht\nEintritt:
-  5 € (nur Abendkasse)\n\nDas Kollektiv Klanggerecht kehrt mit seiner R
- eihe Tanzinstanz in einer „RAW EDITION“ auf das FLUCC Deck zurück. 
- Im Fokus stehen Raw Techno\, Hypnotic und Hard Groove – treibende Beat
- s und dunkle\, hypnotische Grooves bis in die frühen Morgenstunden. Es 
- spielen sieben Acts: Tonks\, wldfee\, Sauerstøff\, subinstans\, NooK\, 
- mein__dm und Techmoo. Eintritt 5 €\, nur an der Abendkasse.\n\nhttps:/
- /rave.wien/e/2026-11-20-kollektiv-klanggerecht-presents-tanzinstanz-raw-
- e
-URL:https://rave.wien/e/2026-11-20-kollektiv-klanggerecht-presents-tanzin
- stanz-raw-e
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-over-tone-x-citruscue-pres-by-wums@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T220000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:Over:Tone x CitrusCue pres. by Wums
-LOCATION:Club U\, Karlsplatz\, 1010 Wien
-DESCRIPTION:A.Fruit\, fejv\, RUV3N\, DICEFACE\, Tesa\nVeranstalter: Citru
- sCue\, Wums\n\nGemeinsame Nacht der Reihen Over:Tone und CitrusCue\, pr
- äsentiert vom Wiener Wums Kollektiv im Club U am Karlsplatz. CitrusCue 
- veranstaltet sonst Bassmusik-Nächte im Club Lucia\; fejv ist dort Local
-  Support mit Sets zwischen UK Bass und Leftfield. Dazu spielen A.Fruit\,
-  Tesa sowie RUV3N b2b DICEFACE. Laut frey-tag stehen Drum and Bass und T
- echno auf dem Programm. Endzeit und Preis sind nicht angegeben.\n\nhttps
- ://rave.wien/e/2026-11-20-over-tone-x-citruscue-pres-by-wums
-URL:https://rave.wien/e/2026-11-20-over-tone-x-citruscue-pres-by-wums
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-vision-serpent@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T230000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:Vision Serpent
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:NoNameLeft\, Mateo!\, David Phoenix\, Nya Nyx\nVeranstalter: 
- Vision Serpent\nEintritt: 16 € VVK (Phase 3) / 18 € Abendkassa\n\nVi
- sion Serpent lädt zum Label-Showcase in die FLUCC Wanne mit NoNameLeft\
- , Mateo!\, David Phoenix und Nya Nyx. Bisherige Quellen ordnen den Abend
-  Techno\, Minimal Techno und Psytech zu. Beginn 23:00\, Ende 06:00. Im V
- orverkauf bei kupfticket sind Phase 1 (12 €) und Phase 2 (14 €) ausv
- erkauft\, erhältlich ist noch Phase 3 um 16 €\; Abendkasse laut RA 18
-  €. Die FLUCC-Seite selbst enthält keine Beschreibung oder Flyer.\n\n
- https://rave.wien/e/2026-11-20-vision-serpent
-URL:https://rave.wien/e/2026-11-20-vision-serpent
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-synergy-rave-x-trance-hard-techno@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T230000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:Synergy Rave x Trance + Hard Techno
-LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:DJ Böhm\, Comrade Martin\, Dan.P\, L4NC3\, Dimitrios\, DJ FE
- RRARI\, Tactical Delay\, presso\nVeranstalter: Synergy\, KARTELL.FM\, HE
- KTISCH\nEintritt: VVK 15 € / Early Bird 10 €\; AK 15 €\, ab 00:00 
- 18 €\n\nSynergy Rave bringt Trance und Hard Techno auf zwei Floors ins
-  Werk: Auf dem Lusterfloor kuratiert KARTELL.FM von 23 bis 6 Uhr Trance 
- & Bounce\, auf dem Lasterfloor übernimmt HEKTISCH von 0 bis 6 Uhr mit H
- ard Techno. Weitere Acts sind noch nicht bekannt. Early Bird 10 €\, Vo
- rverkauf 15 €\, Abendkasse 15 € bzw. 18 € ab Mitternacht\; Einlass
-  ab 18. Zero Tolerance gegenüber Homophobie\, Sexismus und Rassismus.\n
- \nhttps://rave.wien/e/2026-11-20-synergy-rave-x-trance-hard-techno
-URL:https://rave.wien/e/2026-11-20-synergy-rave-x-trance-hard-techno
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-sub-zero@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T230000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:Sub Zero
-LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
-DESCRIPTION:Userkiller\, Kjaer\, Mark Dale\, Mike Mystik\, MANiLO\, Chica
- no\nVeranstalter: Sub Zero\nEintritt: 10 € vor 00:00 / 12 € danach\n
- \n„Vienna meets Berlin“: Sub Zero bringt den Berliner Techno-Sound i
- ns The Loft und lässt ihn auf die dunklere\, rohere Seite der Wiener Sz
- ene treffen – kein polierter Clubsound\, kein Mainstream\, sondern tre
- ibende Kicks\, düstere Atmosphären und kompromissloser Techno. Aus Deu
- tschland kommen Userkiller (Tresor Berlin\, R.C.S)\, MANiLO (Vorwärts M
- usik\, R.C.S) und Chicano (R.C.S). Die österreichische Seite vertreten 
- Kjaer (IAMT Red\, Fine Artistry)\, Mark Dale (Republic Artists\, Dynamic
- ) und Mike Mystik (Dunkelton\, Shadow State). Gespielt wird im oberen Fl
- oor\; Eintritt 10 € vor Mitternacht\, 12 € danach.\n\nhttps://rave.w
- ien/e/2026-11-20-sub-zero
-URL:https://rave.wien/e/2026-11-20-sub-zero
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-freeride-millenium@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T230000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:Freeride Millenium
-LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:eira haul\, Paris Böhm\, Seba\nVeranstalter: Freeride Millen
- ium\nEintritt: 10–15 €\n\nFreeride Millenium\, Wiener Kult-Label und
-  Partyreihe\, holt Verstärkung aus Berlin ins SASS. eira haul hat sich 
- von kleinen Berliner Clubpartys bis zur Residency beim Akasha Festival h
- ochgespielt\, mit Releases auf mehreren Labels und Auftritten im Berghai
- n\, im Fabric und auf BBC Radio 1\; ihr Sound gilt als deep und treibend
- . Paris Böhm\, Künstlerin\, Performerin und DJ\, hat Freeride Milleniu
- m mit Jorkes gegründet und ist eine zentrale Figur der Wiener Queer-Clu
- bszene. Seba aus der Freeride-Familie bewegt sich zwischen hell und dunk
- el mit Grooves und tiefen Basslines. Eintritt 10–15 € inkl. Welcome 
- Drink\, Awareness-Team vor Ort.\n\nhttps://rave.wien/e/2026-11-20-freeri
- de-millenium
-URL:https://rave.wien/e/2026-11-20-freeride-millenium
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-manner-im-loft@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T230000
-DTEND;TZID=Europe/Vienna:20261121T050000
-SUMMARY:Männer im Loft
-LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
-DESCRIPTION:DJ Countessa\, Sebastian Wagner\, Noemi Universe\nVeranstalte
- r: Vangardist\nEintritt: 13–18 € / Trans\, Drags & Refugees frei\n\n
- Zweite Ausgabe der Partyreihe „Männer im Loft“ (Tickets über Vanga
- rdist) mit „Home-Party-Vibes“ im Unten-Floor und dem Wohnzimmer als 
- Chill-Bereich mit Couches. Es legen DJ Countessa\, Sebastian Wagner und 
- Noemi Universe auf. Freier Eintritt für Trans-Personen\, Drags und Gefl
- üchtete. Genre nicht angegeben.\n\nhttps://rave.wien/e/2026-11-20-manne
- r-im-loft
-URL:https://rave.wien/e/2026-11-20-manner-im-loft
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-fish-market-w-altinbas-annika-stein-gerald-vdh@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T230000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:Fish Market w/ Altinbas\, Annika Stein\, Gerald VDH
-LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Mainfloor: Altinbas\, Annika Stein\, Gerald VDH\nKitchen (hos
- ted by LuvAffair): Lim Banda\, Sabina\, Ernst\nVeranstalter: Fish Market
- \, Luv Affair\nEintritt: 20–25 €\n\nFish Market feiert in der Grelle
-  Forelle fünf Jahre Annika Stein als Resident der Reihe MEAT MARKET –
-  mit einem ihrer Closing-Sets. Headliner ist Ahmet Altinbas\, türkisch-
- belgischer Artist\, Resident und Label-Kurator im Brüsseler Club Fuse u
- nd eines der prägenden Talente im modernen Techno\; dazu spielt Gerald 
- VDH auf dem Mainfloor. Die Kitchen hostet LuvAffair mit Lim Banda\, Sabi
- na und Ernst. Einlass ab 23:00\; Vorverkauf über Eventjet: VVK regulär
-  20 € (mit Newsletter) bzw. 22 €\, Last Minute 25 € (ein Super Ear
- ly Bird um 14 € ist gelistet)\, Abendkassa ab 23:00. Strikte Hausregel
- n gegen Homophobie\, Rassismus und Sexismus\; Foto- und Videoverbot\, di
- e Handykameras werden am Eingang abgeklebt.\n\nhttps://rave.wien/e/2026-
- 11-20-fish-market-w-altinbas-annika-stein-gerald-vdh
-URL:https://rave.wien/e/2026-11-20-fish-market-w-altinbas-annika-stein-ge
- rald-vdh
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-anna-ullrich-pres-achterbahn@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T230000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:Anna Ullrich pres. Achterbahn
-LOCATION:PRST\, Praterstraße 18\, 1020 Wien
-DESCRIPTION:Anna Ullrich\, NO ONE\, Armin Hermann\, Aleta\nVeranstalter: 
- Achterbahn\nEintritt: 15–18 € (Early Bird 15 €\, Regular 18 €)\n
- \nDie Wiener DJ und Produzentin Anna Ullrich präsentiert eine Ausgabe d
- er Reihe Achterbahn im PRST. Anna Ullrich verbindet 90er-inspirierten Tr
- ance mit minimalistischem Techno und spielte u. a. im PRST\, Club Exil\,
-  in der Grelle Forelle\, im SASS und beim Reeperbahn Festival. Weitere A
- cts\, Endzeit und Mindestalter nennt der PRST-Ticketshop noch nicht. Beg
- inn 23:00\, Tickets 15 € (Early Bird) bzw. 18 € (Regular) über prst
- .ticket.io.\n\nhttps://rave.wien/e/2026-11-20-anna-ullrich-pres-achterba
- hn
-URL:https://rave.wien/e/2026-11-20-anna-ullrich-pres-achterbahn
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-the-house-of-funk-presents-ricky-chong@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T230000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:The House of Funk presents Ricky Chong
-LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
-DESCRIPTION:Ricky Chong\, Franco\nVeranstalter: The House of Funk\nEintri
- tt: 10 €\n\nThe House of Funk feiert im Funkhaus Wien seinen zweiten G
- eburtstag – nach den letzten gut besuchten Nächten lautet das Motto d
- iesmal „This time… its disco“. Gast ist Ricky Chong\, ein in Irlan
- d geborener Disco-DJ\, dessen Sets Musik aus aller Welt und vieler Genre
- s verbinden\; er veröffentlicht u. a. auf Fresh Take Records und Noctur
- nal Hazard und spielt sonst vor allem in Dublin\, London\, Cork und Live
- rpool. Dazu legen Franco und die Residents von The House of Funk auf. RA
-  führt den Abend unter Disco und Funk/Soul. 23:00–06:00\, Tickets 10 
- € über RA\, ab 18.\n\nhttps://rave.wien/e/2026-11-20-the-house-of-fun
- k-presents-ricky-chong
-URL:https://rave.wien/e/2026-11-20-the-house-of-funk-presents-ricky-chong
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-forbidden-frequency@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T234500
-DTEND;TZID=Europe/Vienna:20261121T050000
-SUMMARY:Forbidden Frequency
-LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
- ien
-DESCRIPTION:CRASTY\, Plastiksackerl\, DJ Bügelbrett\, Schmeckes\, HALO\n
- Veranstalter: Forbidden Frequency\nEintritt frei\n\nDas Wiener Kollektiv
-  Forbidden Frequency bringt seine Reihe in den Kramladen am Gürtel. Lau
- t Veranstalter führt die Nacht durch House\, Techno und Trance – von 
- groovigen House-Sets über druckvollen Techno bis zu euphorischen Trance
- -Momenten. Es spielen lokale Artists und Residents des Kollektivs nach f
- estem Timetable von 23:45 bis 5:00 Uhr.\n\nhttps://rave.wien/e/2026-11-2
- 0-forbidden-frequency
-URL:https://rave.wien/e/2026-11-20-forbidden-frequency
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-glitch-vienna-001@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T235900
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:GLITCH Vienna 001
-LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
-DESCRIPTION:TenFifty\, Annzie\, High Chew\nVeranstalter: GLITCH\nEintritt
-  frei\n\nAuftakt der House-Residency von GLITCH im Rhiz – laut Veranst
- alter „unsere erste Nacht in Wien“\, bei der eingeladene Artists gem
- einsam mit der GLITCH-Crew auflegen. GLITCH ist eine 2025 gegründete Ho
- use-Eventreihe (Verein GLITCH)\, ursprünglich mit Partys an besonderen 
- Orten in Kärnten. Es spielen die GLITCH-Residents TenFifty\, ein junges
-  Tech-House-Projekt aus Margareten (Grafenauer & KΛSKIN)\, ANNZIE\, ein
- e Wiener DJ\, deren Sound stark von der britischen Clubszene geprägt is
- t\, und High Chew (Tommy)\, ein aus dem Mittleren Westen der USA stammen
- der Wiener DJ\, der frühen Chicago House mit Minimal House\, Deep Tech 
- und Tech House verbindet. Eintritt frei\, laut Veranstalter 00:00–06:0
- 0 (Seite und RA nennen 23:59 bzw. 23:30 als Beginn).\n\nhttps://rave.wie
- n/e/2026-11-20-glitch-vienna-001
-URL:https://rave.wien/e/2026-11-20-glitch-vienna-001
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-schall-schabernack@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T235900
-DTEND;TZID=Europe/Vienna:20261121T050000
-SUMMARY:Schall & Schabernack
-LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
-DESCRIPTION:L!KA\, Laerm\, bobbyyxjohnson\, PAUNA\nVeranstalter: Schall &
-  Schabernack\nEintritt: 8 € (AK)\n\nClubnacht der Reihe Schall & Schab
- ernack im Club Lucia unter dem Motto „Nur bis 5 aber keine Polizei“:
-  Die Wälder sind still und die Nächte länger\, doch die Lust auf trei
- bende Basslines kennt keine Jahreszeit. Lokale DJs spielen ausgewählten
-  Hard Groove und Techno. L!KA eröffnet (23:59–01:30)\, dann Laerm b2b
-  bobbyyxjohnson (Instagram-Name\, 01:30–03:30)\, zum Schluss die Wiene
- r Techno-DJ PAUNA (03:30–05:00)\, Kernmitglied von RAW SESSION und Mit
- gründerin von ALERT[A]. Eintritt 8 € an der Abendkassa\, Ende 5 Uhr.\
- n\nhttps://rave.wien/e/2026-11-20-schall-schabernack
-URL:https://rave.wien/e/2026-11-20-schall-schabernack
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-21-tram-bass-vol-4-our-longest-ride-yet@rave.wien
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Vienna:20261121T130000
@@ -2023,10 +1675,12 @@ DTSTART;TZID=Europe/Vienna:20261205T230000
 DTEND;TZID=Europe/Vienna:20261206T040000
 SUMMARY:Bassbehörde
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:\nBassbehörde im FLUCC Wanne. Die Location-Seite nennt bishe
- r nur Titel\, Datum und Beginn (23:00 Uhr)\; Lineup\, Preis\, Ende und F
- lyer sind noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-05-
- bassbehorde
+DESCRIPTION:\nBassbehörde im FLUCC Wanne ab 23:00. Die Location-Seite ne
+ nnt bisher nur Titel\, Datum und Beginn\; Lineup\, Preis\, Ende und Flye
+ r sind noch nicht veröffentlicht. Im FLUCC-Programm steht für denselbe
+ n Abend in der Wanne zusätzlich „FSK Atzig“ (ebenfalls 23:00) mit e
+ inem gemeinsamen Header-Bild – vermutlich ein Teil derselben Nacht.\n\
+ nhttps://rave.wien/e/2026-12-05-bassbehorde
 URL:https://rave.wien/e/2026-12-05-bassbehorde
 END:VEVENT
 BEGIN:VEVENT
@@ -2702,6 +2356,25 @@ DESCRIPTION:balans\, Grubi\nVeranstalter: sama recordings\nEintritt: 15
  ter dulden kein diskriminierendes Verhalten.\n\nhttps://rave.wien/e/2026
  -12-16-sama-recordings-pres-schweben
 URL:https://rave.wien/e/2026-12-16-sama-recordings-pres-schweben
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-progressive@rave.wien
+DTSTAMP:20261217T000000Z
+DTSTART;TZID=Europe/Vienna:20261217T220000
+DTEND;TZID=Europe/Vienna:20261218T030000
+SUMMARY:Progressive
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Edictum\, LAVO\, Fede Frostl\, Noe Bortolussi\n\nDonnerstagab
+ end im Tagada in Ottakring unter dem schlichten Titel „Progressive“ 
+ – der Name lässt auf eine Nacht mit Progressive House schließen\, di
+ e Quellen nennen aber kein Genre. Es spielen Edictum\, ein österreichis
+ cher Produzent und DJ (seit 2002 aktiv\, melodische elektronische Musik\
+ , lange Vinyl-Sets)\, Fede Frostl\, ein in Österreich lebender Progress
+ ive-House-DJ aus Argentinien (u. a. Reihe Pure Progressive)\, sowie LAVO
+  und Noe Bortolussi. Beginn 22:00\; Preis\, Ende und Flyer sind noch nic
+ ht bekannt (RA-Seite für uns nicht lesbar).\n\nhttps://rave.wien/e/2026
+ -12-17-progressive
+URL:https://rave.wien/e/2026-12-17-progressive
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-acidic-juice-x-notyourordinary-live@rave.wien
@@ -27882,5 +27555,353 @@ DESCRIPTION:UV Project\, Norg3n\, Nasty\nEintritt frei / free entry\n\nTE
  mit energiegeladenen Techno-Sets und Nasty mit Acid-Sounds. Der Eintritt
   ist frei.\n\nhttps://rave.wien/e/2026-11-19-teknoteka
 URL:https://rave.wien/e/2026-11-19-teknoteka
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-fluffig-punschabend@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T180000
+DTEND;TZID=Europe/Vienna:20261120T220000
+SUMMARY:Fluffig – Punschabend
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:DizzyDray\, Anna Ullrich\, Rosa Rosen\, TAUSEND2Ø\nVeranstal
+ ter: Fluffig\n\nPunschabend der Wiener Reihe Fluffig im Club U am Karlsp
+ latz: ein Open-Air-Punschstand mit DJs von 18:00 bis 22:00. Es spielen D
+ izzyDray\, Anna Ullrich (Techno\, Bounce\, Trance)\, Rosa Rosen und TAUS
+ END2Ø\; RA nennt Trance und Techno. Laut Freytag geht es danach in der 
+ PRST weiter. Eintritt und Mindestalter sind weder auf RA noch auf Freyta
+ g angegeben.\n\nhttps://rave.wien/e/2026-11-20-fluffig-punschabend
+URL:https://rave.wien/e/2026-11-20-fluffig-punschabend
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-grund-fur-exil-soliparty@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T180000
+DTEND;TZID=Europe/Vienna:20261121T070000
+SUMMARY:Grund für Exil – Soliparty
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Neoteric x Alerta\, Booster Club\, Danubian Dub\, Soundbügle
+ rei\, Initiative 21\nVeranstalter: 4lthangrund\nEintritt: Freie Spende\n
+ \nSoliparty des Kollektivs 4lthangrund im Club Exil: Live-Bands und DJs 
+ (Neoteric x Alerta\, Booster Club\, Danubian Dub\, Soundbüglerei\, Init
+ iative 21)\, dazu ein Dance Battle von FusionCollective\, eine Word-Art-
+ Stage mit Poesie und Musik sowie ein Panel Talk zu Solidarity City und C
+ are-Arbeit. Eintritt gegen Spende – die Einnahmen finanzieren die Räu
+ me von 4lthangrund. Das Erdgeschoss mit Dancefloors\, Bars und barrierea
+ rmen WCs ist rollstuhlgerecht\, der erste Stock nur über Stiegen erreic
+ hbar. Das Programm wird laut Veranstalter noch laufend ergänzt.\n\nhttp
+ s://rave.wien/e/2026-11-20-grund-fur-exil-soliparty
+URL:https://rave.wien/e/2026-11-20-grund-fur-exil-soliparty
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-ambievent-trace-encounters@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T193000
+DTEND;TZID=Europe/Vienna:20261121T020000
+SUMMARY:AMBIEVENT – trace encounters
+LOCATION:Kollektiv Kaorle\, Baumgartner Höhe 1 (Otto Wagner Areal\, Pavi
+ llon 21)\, 1140 Wien
+DESCRIPTION:Ssaliva\, færo demonic\, Inou Ki Endo\, esti.d\, LCA\, Kenji
+  Araki\nVeranstalter: AMBIEVENT\nEintritt: 15 €\n\nAMBIEVENT „trace 
+ encounters“ ist als immersiver Ambient-Abend im Kollektiv Kaorle (Otto
+ -Wagner-Areal\, Pavillon 21) angelegt\, bei dem Klang\, Licht\, Duft und
+  Kunst zusammenwirken. Bühnendesign\, visuelle Kunst und sensorische El
+ emente sollen den Raum zur Erweiterung der Musik machen. Musikalisch sin
+ d Ssaliva\, færo demonic\, Inou Ki Endo\, esti.d und LCA angekündigt\,
+  Kenji Araki steuert eine Klanginstallation bei. Ein Ausstellungsraum ze
+ igt Arbeiten von Maximilian Prag\, einen eigens kreierten Duft liefert N
+ ēomirage. 19:00–02:00\, 15 €\, ab 18.\n\nhttps://rave.wien/e/2026-1
+ 1-20-ambievent-trace-encounters
+URL:https://rave.wien/e/2026-11-20-ambievent-trace-encounters
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-pyramide-takeover-signal-festival@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T210000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Pyramide Takeover – SIGNAL Festival
+LOCATION:Pyramide Vösendorf\, Parkallee 2\, 2334 Vösendorf Wien
+DESCRIPTION:Boris Brejcha\, Kasia\, Anxhela\, Biia\nVeranstalter: SIGNAL\
+ nEintritt: ab €45\n\nDie vierte Ausgabe des SIGNAL Festivals von O der
+  Klub übernimmt die Glaspyramide in Vösendorf. Headliner ist Boris Bre
+ jcha\, bekannt für Joker-Maske und High-Tech-Minimal\, der Live-Sets au
+ s eigenen Produktionen spielt. Auf der Main Stage spielt außerdem Kasia
+  mit hypnotischem\, perkussivem Sound\, gebucht u. a. bei Ultra Miami\, 
+ Resistance\, Drumcode und Afterlife. Die Hard Techno Stage bespielen Anx
+ hela (IT/AL) mit Techno mit Trance- und Acid-Einflüssen und Biia mit ro
+ hem\, genreübergreifendem Techno mit 90er-Einflüssen\; weitere Acts fo
+ lgen. 21:00–06:00\, ab 18\, Dresscode casual/rave\, Early-Bird-Tickets
+  ab 45 €.\n\nhttps://rave.wien/e/2026-11-20-pyramide-takeover-signal-f
+ estival
+URL:https://rave.wien/e/2026-11-20-pyramide-takeover-signal-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-syndikat@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T220000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:syndikat
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Malounadou\, Anna Soto\, Jule Feser\, Aside\nVeranstalter: Da
+ s Syndikat\n\nDas Syndikat kommt zum ersten Mal im Celeste zusammen. Es 
+ spielen Malounadou\, Anna Soto\, Jule Feser und Aside\, angekündigt ist
+  House. Weitere Infos zu den Artists\, Preis und Mindestalter nennt die 
+ RA-Seite nicht. 22:00–06:00.\n\nhttps://rave.wien/e/2026-11-20-syndika
+ t
+URL:https://rave.wien/e/2026-11-20-syndikat
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-kollektiv-klanggerecht-presents-tanzinstanz-raw-e@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T220000
+DTEND;TZID=Europe/Vienna:20261121T054500
+SUMMARY:Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Tonks\, wldfee\, Sauerstøff\, subinstans\, NooK\, mein__dm\,
+  Techmoo\nVeranstalter: Kollektiv Klanggerecht\, Klanggerecht\nEintritt:
+  5 € (nur Abendkasse)\n\nDas Kollektiv Klanggerecht kehrt mit seiner R
+ eihe Tanzinstanz in einer „RAW EDITION“ auf das FLUCC Deck zurück. 
+ Im Fokus stehen Raw Techno\, Hypnotic und Hard Groove – treibende Beat
+ s und dunkle\, hypnotische Grooves bis in die frühen Morgenstunden. Es 
+ spielen sieben Acts: Tonks\, wldfee\, Sauerstøff\, subinstans\, NooK\, 
+ mein__dm und Techmoo. Eintritt 5 €\, nur an der Abendkasse.\n\nhttps:/
+ /rave.wien/e/2026-11-20-kollektiv-klanggerecht-presents-tanzinstanz-raw-
+ e
+URL:https://rave.wien/e/2026-11-20-kollektiv-klanggerecht-presents-tanzin
+ stanz-raw-e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-over-tone-x-citruscue-pres-by-wums@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T220000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Over:Tone x CitrusCue pres. by Wums
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:A.Fruit\, fejv\, RUV3N\, DICEFACE\, Tesa\nVeranstalter: Citru
+ sCue\, Wums\n\nGemeinsame Nacht der Reihen Over:Tone und CitrusCue\, pr
+ äsentiert vom Wiener Wums Kollektiv im Club U am Karlsplatz. CitrusCue 
+ veranstaltet sonst Bassmusik-Nächte im Club Lucia\; fejv ist dort Local
+  Support mit Sets zwischen UK Bass und Leftfield. Dazu spielen A.Fruit\,
+  Tesa sowie RUV3N b2b DICEFACE. Laut frey-tag stehen Drum and Bass und T
+ echno auf dem Programm. Endzeit und Preis sind nicht angegeben.\n\nhttps
+ ://rave.wien/e/2026-11-20-over-tone-x-citruscue-pres-by-wums
+URL:https://rave.wien/e/2026-11-20-over-tone-x-citruscue-pres-by-wums
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-vision-serpent@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Vision Serpent
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:NoNameLeft\, Mateo!\, David Phoenix\, Nya Nyx\nVeranstalter: 
+ Vision Serpent\nEintritt: 16 € VVK (Phase 3) / 18 € Abendkassa\n\nVi
+ sion Serpent lädt zum Label-Showcase in die FLUCC Wanne mit NoNameLeft\
+ , Mateo!\, David Phoenix und Nya Nyx. Bisherige Quellen ordnen den Abend
+  Techno\, Minimal Techno und Psytech zu. Beginn 23:00\, Ende 06:00. Im V
+ orverkauf bei kupfticket sind Phase 1 (12 €) und Phase 2 (14 €) ausv
+ erkauft\, erhältlich ist noch Phase 3 um 16 €\; Abendkasse laut RA 18
+  €. Die FLUCC-Seite selbst enthält keine Beschreibung oder Flyer.\n\n
+ https://rave.wien/e/2026-11-20-vision-serpent
+URL:https://rave.wien/e/2026-11-20-vision-serpent
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Synergy Rave x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:DJ Böhm\, Comrade Martin\, Dan.P\, L4NC3\, Dimitrios\, DJ FE
+ RRARI\, Tactical Delay\, presso\nVeranstalter: Synergy\, KARTELL.FM\, HE
+ KTISCH\nEintritt: VVK 15 € / Early Bird 10 €\; AK 15 €\, ab 00:00 
+ 18 €\n\nSynergy Rave bringt Trance und Hard Techno auf zwei Floors ins
+  Werk: Auf dem Lusterfloor kuratiert KARTELL.FM von 23 bis 6 Uhr Trance 
+ & Bounce\, auf dem Lasterfloor übernimmt HEKTISCH von 0 bis 6 Uhr mit H
+ ard Techno. Weitere Acts sind noch nicht bekannt. Early Bird 10 €\, Vo
+ rverkauf 15 €\, Abendkasse 15 € bzw. 18 € ab Mitternacht\; Einlass
+  ab 18. Zero Tolerance gegenüber Homophobie\, Sexismus und Rassismus.\n
+ \nhttps://rave.wien/e/2026-11-20-synergy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2026-11-20-synergy-rave-x-trance-hard-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-sub-zero@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Sub Zero
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Userkiller\, Kjaer\, Mark Dale\, Mike Mystik\, MANiLO\, Chica
+ no\nVeranstalter: Sub Zero\nEintritt: 10 € vor 00:00 / 12 € danach\n
+ \n„Vienna meets Berlin“: Sub Zero bringt den Berliner Techno-Sound i
+ ns The Loft und lässt ihn auf die dunklere\, rohere Seite der Wiener Sz
+ ene treffen – kein polierter Clubsound\, kein Mainstream\, sondern tre
+ ibende Kicks\, düstere Atmosphären und kompromissloser Techno. Aus Deu
+ tschland kommen Userkiller (Tresor Berlin\, R.C.S)\, MANiLO (Vorwärts M
+ usik\, R.C.S) und Chicano (R.C.S). Die österreichische Seite vertreten 
+ Kjaer (IAMT Red\, Fine Artistry)\, Mark Dale (Republic Artists\, Dynamic
+ ) und Mike Mystik (Dunkelton\, Shadow State). Gespielt wird im oberen Fl
+ oor\; Eintritt 10 € vor Mitternacht\, 12 € danach.\n\nhttps://rave.w
+ ien/e/2026-11-20-sub-zero
+URL:https://rave.wien/e/2026-11-20-sub-zero
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-freeride-millenium@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Freeride Millenium
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:eira haul\, Paris Böhm\, Seba\nVeranstalter: Freeride Millen
+ ium\nEintritt: 10–15 €\n\nFreeride Millenium\, Wiener Kult-Label und
+  Partyreihe\, holt Verstärkung aus Berlin ins SASS. eira haul hat sich 
+ von kleinen Berliner Clubpartys bis zur Residency beim Akasha Festival h
+ ochgespielt\, mit Releases auf mehreren Labels und Auftritten im Berghai
+ n\, im Fabric und auf BBC Radio 1\; ihr Sound gilt als deep und treibend
+ . Paris Böhm\, Künstlerin\, Performerin und DJ\, hat Freeride Milleniu
+ m mit Jorkes gegründet und ist eine zentrale Figur der Wiener Queer-Clu
+ bszene. Seba aus der Freeride-Familie bewegt sich zwischen hell und dunk
+ el mit Grooves und tiefen Basslines. Eintritt 10–15 € inkl. Welcome 
+ Drink\, Awareness-Team vor Ort.\n\nhttps://rave.wien/e/2026-11-20-freeri
+ de-millenium
+URL:https://rave.wien/e/2026-11-20-freeride-millenium
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-manner-im-loft@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T050000
+SUMMARY:Männer im Loft
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:DJ Countessa\, Sebastian Wagner\, Noemi Universe\nVeranstalte
+ r: Vangardist\nEintritt: 13–18 € / Trans\, Drags & Refugees frei\n\n
+ Zweite Ausgabe der Partyreihe „Männer im Loft“ (Tickets über Vanga
+ rdist) mit „Home-Party-Vibes“ im Unten-Floor und dem Wohnzimmer als 
+ Chill-Bereich mit Couches. Es legen DJ Countessa\, Sebastian Wagner und 
+ Noemi Universe auf. Freier Eintritt für Trans-Personen\, Drags und Gefl
+ üchtete. Genre nicht angegeben.\n\nhttps://rave.wien/e/2026-11-20-manne
+ r-im-loft
+URL:https://rave.wien/e/2026-11-20-manner-im-loft
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-fish-market-w-altinbas-annika-stein-gerald-vdh@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Fish Market w/ Altinbas\, Annika Stein\, Gerald VDH
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Altinbas\, Annika Stein\, Gerald VDH\, Lim Banda\, Sabina\, E
+ rnst\nVeranstalter: Fish Market\, Luv Affair\nEintritt: 20–25 €\n\nF
+ ish Market feiert in der Grelle Forelle fünf Jahre Annika Stein als Res
+ ident der Reihe MEAT MARKET – mit einem ihrer Closing-Sets. Headliner 
+ ist Ahmet Altinbas\, türkisch-belgischer Artist\, Resident und Label-Ku
+ rator im Brüsseler Club Fuse und eines der prägenden Talente im modern
+ en Techno\; dazu spielt Gerald VDH auf dem Mainfloor. Die Kitchen hostet
+  LuvAffair mit Lim Banda\, Sabina und Ernst. Einlass ab 23:00\; Vorverka
+ uf über Eventjet: VVK regulär 20 € (mit Newsletter) bzw. 22 €\, La
+ st Minute 25 € (ein Super Early Bird um 14 € ist gelistet)\, Abendka
+ ssa ab 23:00. Strikte Hausregeln gegen Homophobie\, Rassismus und Sexism
+ us\; Foto- und Videoverbot\, die Handykameras werden am Eingang abgekleb
+ t.\n\nhttps://rave.wien/e/2026-11-20-fish-market-w-altinbas-annika-stein
+ -gerald-vdh
+URL:https://rave.wien/e/2026-11-20-fish-market-w-altinbas-annika-stein-ge
+ rald-vdh
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-anna-ullrich-pres-achterbahn@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Anna Ullrich pres. Achterbahn
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Anna Ullrich\, NO ONE\, Armin Hermann\, Aleta\nVeranstalter: 
+ Achterbahn\nEintritt: 15–18 € (Early Bird 15 €\, Regular 18 €)\n
+ \nDie Wiener DJ und Produzentin Anna Ullrich präsentiert eine Ausgabe d
+ er Reihe Achterbahn im PRST. Anna Ullrich verbindet 90er-inspirierten Tr
+ ance mit minimalistischem Techno und spielte u. a. im PRST\, Club Exil\,
+  in der Grelle Forelle\, im SASS und beim Reeperbahn Festival. Weitere A
+ cts\, Endzeit und Mindestalter nennt der PRST-Ticketshop noch nicht. Beg
+ inn 23:00\, Tickets 15 € (Early Bird) bzw. 18 € (Regular) über prst
+ .ticket.io.\n\nhttps://rave.wien/e/2026-11-20-anna-ullrich-pres-achterba
+ hn
+URL:https://rave.wien/e/2026-11-20-anna-ullrich-pres-achterbahn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-the-house-of-funk-presents-ricky-chong@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:The House of Funk presents Ricky Chong
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Ricky Chong\, Franco\nVeranstalter: The House of Funk\nEintri
+ tt: 10 €\n\nThe House of Funk feiert im Funkhaus Wien seinen zweiten G
+ eburtstag – nach den letzten gut besuchten Nächten lautet das Motto d
+ iesmal „This time… its disco“. Gast ist Ricky Chong\, ein in Irlan
+ d geborener Disco-DJ\, dessen Sets Musik aus aller Welt und vieler Genre
+ s verbinden\; er veröffentlicht u. a. auf Fresh Take Records und Noctur
+ nal Hazard und spielt sonst vor allem in Dublin\, London\, Cork und Live
+ rpool. Dazu legen Franco und die Residents von The House of Funk auf. RA
+  führt den Abend unter Disco und Funk/Soul. 23:00–06:00\, Tickets 10 
+ € über RA\, ab 18.\n\nhttps://rave.wien/e/2026-11-20-the-house-of-fun
+ k-presents-ricky-chong
+URL:https://rave.wien/e/2026-11-20-the-house-of-funk-presents-ricky-chong
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-forbidden-frequency@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T234500
+DTEND;TZID=Europe/Vienna:20261121T050000
+SUMMARY:Forbidden Frequency
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:CRASTY\, Plastiksackerl\, DJ Bügelbrett\, Schmeckes\, HALO\n
+ Veranstalter: Forbidden Frequency\nEintritt frei\n\nDas Wiener Kollektiv
+  Forbidden Frequency bringt seine Reihe in den Kramladen am Gürtel. Lau
+ t Veranstalter führt die Nacht durch House\, Techno und Trance – von 
+ groovigen House-Sets über druckvollen Techno bis zu euphorischen Trance
+ -Momenten. Es spielen lokale Artists und Residents des Kollektivs nach f
+ estem Timetable von 23:45 bis 5:00 Uhr.\n\nhttps://rave.wien/e/2026-11-2
+ 0-forbidden-frequency
+URL:https://rave.wien/e/2026-11-20-forbidden-frequency
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-glitch-vienna-001@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T235900
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:GLITCH Vienna 001
+LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
+DESCRIPTION:TenFifty\, Annzie\, High Chew\nVeranstalter: GLITCH\nEintritt
+  frei\n\nAuftakt der House-Residency von GLITCH im Rhiz – laut Veranst
+ alter „unsere erste Nacht in Wien“\, bei der eingeladene Artists gem
+ einsam mit der GLITCH-Crew auflegen. GLITCH ist eine 2025 gegründete Ho
+ use-Eventreihe (Verein GLITCH)\, ursprünglich mit Partys an besonderen 
+ Orten in Kärnten. Es spielen die GLITCH-Residents TenFifty\, ein junges
+  Tech-House-Projekt aus Margareten (Grafenauer & KΛSKIN)\, ANNZIE\, ein
+ e Wiener DJ\, deren Sound stark von der britischen Clubszene geprägt is
+ t\, und High Chew (Tommy)\, ein aus dem Mittleren Westen der USA stammen
+ der Wiener DJ\, der frühen Chicago House mit Minimal House\, Deep Tech 
+ und Tech House verbindet. Eintritt frei\, laut Veranstalter 00:00–06:0
+ 0 (Seite und RA nennen 23:59 bzw. 23:30 als Beginn).\n\nhttps://rave.wie
+ n/e/2026-11-20-glitch-vienna-001
+URL:https://rave.wien/e/2026-11-20-glitch-vienna-001
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-schall-schabernack@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T235900
+DTEND;TZID=Europe/Vienna:20261121T050000
+SUMMARY:Schall & Schabernack
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:L!KA\, Laerm\, bobbyyxjohnson\, PAUNA\nVeranstalter: Schall &
+  Schabernack\nEintritt: 8 € (AK)\n\nClubnacht der Reihe Schall & Schab
+ ernack im Club Lucia unter dem Motto „Nur bis 5 aber keine Polizei“:
+  Die Wälder sind still und die Nächte länger\, doch die Lust auf trei
+ bende Basslines kennt keine Jahreszeit. Lokale DJs spielen ausgewählten
+  Hard Groove und Techno. L!KA eröffnet (23:59–01:30)\, dann Laerm b2b
+  bobbyyxjohnson (Instagram-Name\, 01:30–03:30)\, zum Schluss die Wiene
+ r Techno-DJ PAUNA (03:30–05:00)\, Kernmitglied von RAW SESSION und Mit
+ gründerin von ALERT[A]. Eintritt 8 € an der Abendkassa\, Ende 5 Uhr.\
+ n\nhttps://rave.wien/e/2026-11-20-schall-schabernack
+URL:https://rave.wien/e/2026-11-20-schall-schabernack
 END:VEVENT
 END:VCALENDAR

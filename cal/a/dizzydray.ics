@@ -26,22 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-20-fluffig-punschabend@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T180000
-DTEND;TZID=Europe/Vienna:20261120T220000
-SUMMARY:Fluffig – Punschabend
-LOCATION:Club U\, Karlsplatz\, 1010 Wien
-DESCRIPTION:DizzyDray\, Anna Ullrich\, Rosa Rosen\, TAUSEND2Ø\nVeranstal
- ter: Fluffig\n\nPunschabend der Wiener Reihe Fluffig im Club U am Karlsp
- latz: ein Open-Air-Punschstand mit DJs von 18:00 bis 22:00. Es spielen D
- izzyDray\, Anna Ullrich (Techno\, Bounce\, Trance)\, Rosa Rosen und TAUS
- END2Ø\; RA nennt Trance und Techno. Laut Freytag geht es danach in der 
- PRST weiter. Eintritt und Mindestalter sind weder auf RA noch auf Freyta
- g angegeben.\n\nhttps://rave.wien/e/2026-11-20-fluffig-punschabend
-URL:https://rave.wien/e/2026-11-20-fluffig-punschabend
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-12-18-cybertribe-pres-club-gspusi@rave.wien
 DTSTAMP:20261218T000000Z
 DTSTART;TZID=Europe/Vienna:20261218T230000
@@ -81,5 +65,21 @@ DESCRIPTION:SHOKI287\, pengg\, Anna Ullrich\, DizzyDray\, Paul Mile\, Van
  gibt es an der Abendkasse.\n\nhttps://rave.wien/e/2026-10-30-step-forwar
  d-pres-shoki
 URL:https://rave.wien/e/2026-10-30-step-forward-pres-shoki
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-fluffig-punschabend@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T180000
+DTEND;TZID=Europe/Vienna:20261120T220000
+SUMMARY:Fluffig – Punschabend
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:DizzyDray\, Anna Ullrich\, Rosa Rosen\, TAUSEND2Ø\nVeranstal
+ ter: Fluffig\n\nPunschabend der Wiener Reihe Fluffig im Club U am Karlsp
+ latz: ein Open-Air-Punschstand mit DJs von 18:00 bis 22:00. Es spielen D
+ izzyDray\, Anna Ullrich (Techno\, Bounce\, Trance)\, Rosa Rosen und TAUS
+ END2Ø\; RA nennt Trance und Techno. Laut Freytag geht es danach in der 
+ PRST weiter. Eintritt und Mindestalter sind weder auf RA noch auf Freyta
+ g angegeben.\n\nhttps://rave.wien/e/2026-11-20-fluffig-punschabend
+URL:https://rave.wien/e/2026-11-20-fluffig-punschabend
 END:VEVENT
 END:VCALENDAR

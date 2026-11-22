@@ -26,27 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-20-pyramide-takeover-signal-festival@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T210000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:Pyramide Takeover – SIGNAL Festival
-LOCATION:Pyramide Vösendorf\, Parkallee 2\, 2334 Vösendorf Wien
-DESCRIPTION:Main: Boris Brejcha\, Kasia\nHard Techno Stage: Anxhela\, Bii
- a\nVeranstalter: SIGNAL\nEintritt: ab €45\n\nDie vierte Ausgabe des SI
- GNAL Festivals von O der Klub übernimmt die Glaspyramide in Vösendorf.
-  Headliner ist Boris Brejcha\, bekannt für Joker-Maske und High-Tech-Mi
- nimal\, der Live-Sets aus eigenen Produktionen spielt. Auf der Main Stag
- e spielt außerdem Kasia mit hypnotischem\, perkussivem Sound\, gebucht 
- u. a. bei Ultra Miami\, Resistance\, Drumcode und Afterlife. Die Hard Te
- chno Stage bespielen Anxhela (IT/AL) mit Techno mit Trance- und Acid-Ein
- flüssen und Biia mit rohem\, genreübergreifendem Techno mit 90er-Einfl
- üssen\; weitere Acts folgen. 21:00–06:00\, ab 18\, Dresscode casual/r
- ave\, Early-Bird-Tickets ab 45 €.\n\nhttps://rave.wien/e/2026-11-20-py
- ramide-takeover-signal-festival
-URL:https://rave.wien/e/2026-11-20-pyramide-takeover-signal-festival
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-12-11-signal-festival-w-eric-prydz@rave.wien
 DTSTAMP:20261211T000000Z
 DTSTART;TZID=Europe/Vienna:20261211T210000
@@ -186,5 +165,26 @@ DESCRIPTION:Fatima Hajji\nVeranstalter: SIGNAL\nEintritt: 12–25 €\n\n
  ght-Long im Fabrik Madrid. Beginn 23:00\, Tickets 12–25 € (laut RA)\
  , Dresscode casual.\n\nhttps://rave.wien/e/2026-11-13-fatima-hajji
 URL:https://rave.wien/e/2026-11-13-fatima-hajji
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-pyramide-takeover-signal-festival@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T210000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Pyramide Takeover – SIGNAL Festival
+LOCATION:Pyramide Vösendorf\, Parkallee 2\, 2334 Vösendorf Wien
+DESCRIPTION:Boris Brejcha\, Kasia\, Anxhela\, Biia\nVeranstalter: SIGNAL\
+ nEintritt: ab €45\n\nDie vierte Ausgabe des SIGNAL Festivals von O der
+  Klub übernimmt die Glaspyramide in Vösendorf. Headliner ist Boris Bre
+ jcha\, bekannt für Joker-Maske und High-Tech-Minimal\, der Live-Sets au
+ s eigenen Produktionen spielt. Auf der Main Stage spielt außerdem Kasia
+  mit hypnotischem\, perkussivem Sound\, gebucht u. a. bei Ultra Miami\, 
+ Resistance\, Drumcode und Afterlife. Die Hard Techno Stage bespielen Anx
+ hela (IT/AL) mit Techno mit Trance- und Acid-Einflüssen und Biia mit ro
+ hem\, genreübergreifendem Techno mit 90er-Einflüssen\; weitere Acts fo
+ lgen. 21:00–06:00\, ab 18\, Dresscode casual/rave\, Early-Bird-Tickets
+  ab 45 €.\n\nhttps://rave.wien/e/2026-11-20-pyramide-takeover-signal-f
+ estival
+URL:https://rave.wien/e/2026-11-20-pyramide-takeover-signal-festival
 END:VEVENT
 END:VCALENDAR

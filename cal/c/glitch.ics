@@ -26,6 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-07-glitch-vienna-pres-stef-davidse@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T230000
+DTEND;TZID=Europe/Vienna:20261208T050000
+SUMMARY:GLITCH Vienna pres. Stef Davidse
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Stef Davidse\, TenFifty\, LLo\nVeranstalter: GLITCH\, Resonan
+ ce Social Artists\nEintritt: 7–15 €\n\nNach kleinen Off-Location-Par
+ tys in Kärnten bringt GLITCH sein bisher größtes Event nach Wien: Hea
+ dliner ist der Niederländer Stef Davidse (Eastenderz). Dazu spielen GLI
+ TCH-Resident Tenfifty und LLo (IT) von Resonance Social Artists aus Mail
+ and. Ein Raum\, ein Dancefloor\, House-Musik. Die Nacht findet am Montag
+ \, 7.12.2026\, statt\, Beginn 23:00.\n\nhttps://rave.wien/e/2026-12-07-g
+ litch-vienna-pres-stef-davidse
+URL:https://rave.wien/e/2026-12-07-glitch-vienna-pres-stef-davidse
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-20-glitch-vienna-001@rave.wien
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Vienna:20261120T235900
@@ -46,22 +63,5 @@ DESCRIPTION:TenFifty\, Annzie\, High Chew\nVeranstalter: GLITCH\nEintritt
  0 (Seite und RA nennen 23:59 bzw. 23:30 als Beginn).\n\nhttps://rave.wie
  n/e/2026-11-20-glitch-vienna-001
 URL:https://rave.wien/e/2026-11-20-glitch-vienna-001
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-07-glitch-vienna-pres-stef-davidse@rave.wien
-DTSTAMP:20261207T000000Z
-DTSTART;TZID=Europe/Vienna:20261207T230000
-DTEND;TZID=Europe/Vienna:20261208T050000
-SUMMARY:GLITCH Vienna pres. Stef Davidse
-LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
-DESCRIPTION:Stef Davidse\, TenFifty\, LLo\nVeranstalter: GLITCH\, Resonan
- ce Social Artists\nEintritt: 7–15 €\n\nNach kleinen Off-Location-Par
- tys in Kärnten bringt GLITCH sein bisher größtes Event nach Wien: Hea
- dliner ist der Niederländer Stef Davidse (Eastenderz). Dazu spielen GLI
- TCH-Resident Tenfifty und LLo (IT) von Resonance Social Artists aus Mail
- and. Ein Raum\, ein Dancefloor\, House-Musik. Die Nacht findet am Montag
- \, 7.12.2026\, statt\, Beginn 23:00.\n\nhttps://rave.wien/e/2026-12-07-g
- litch-vienna-pres-stef-davidse
-URL:https://rave.wien/e/2026-12-07-glitch-vienna-pres-stef-davidse
 END:VEVENT
 END:VCALENDAR

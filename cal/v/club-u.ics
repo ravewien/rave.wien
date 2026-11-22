@@ -26,39 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-20-fluffig-punschabend@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T180000
-DTEND;TZID=Europe/Vienna:20261120T220000
-SUMMARY:Fluffig – Punschabend
-LOCATION:Club U\, Karlsplatz\, 1010 Wien
-DESCRIPTION:DizzyDray\, Anna Ullrich\, Rosa Rosen\, TAUSEND2Ø\nVeranstal
- ter: Fluffig\n\nPunschabend der Wiener Reihe Fluffig im Club U am Karlsp
- latz: ein Open-Air-Punschstand mit DJs von 18:00 bis 22:00. Es spielen D
- izzyDray\, Anna Ullrich (Techno\, Bounce\, Trance)\, Rosa Rosen und TAUS
- END2Ø\; RA nennt Trance und Techno. Laut Freytag geht es danach in der 
- PRST weiter. Eintritt und Mindestalter sind weder auf RA noch auf Freyta
- g angegeben.\n\nhttps://rave.wien/e/2026-11-20-fluffig-punschabend
-URL:https://rave.wien/e/2026-11-20-fluffig-punschabend
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-over-tone-x-citruscue-pres-by-wums@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T220000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:Over:Tone x CitrusCue pres. by Wums
-LOCATION:Club U\, Karlsplatz\, 1010 Wien
-DESCRIPTION:A.Fruit\, fejv\, RUV3N\, DICEFACE\, Tesa\nVeranstalter: Citru
- sCue\, Wums\n\nGemeinsame Nacht der Reihen Over:Tone und CitrusCue\, pr
- äsentiert vom Wiener Wums Kollektiv im Club U am Karlsplatz. CitrusCue 
- veranstaltet sonst Bassmusik-Nächte im Club Lucia\; fejv ist dort Local
-  Support mit Sets zwischen UK Bass und Leftfield. Dazu spielen A.Fruit\,
-  Tesa sowie RUV3N b2b DICEFACE. Laut frey-tag stehen Drum and Bass und T
- echno auf dem Programm. Endzeit und Preis sind nicht angegeben.\n\nhttps
- ://rave.wien/e/2026-11-20-over-tone-x-citruscue-pres-by-wums
-URL:https://rave.wien/e/2026-11-20-over-tone-x-citruscue-pres-by-wums
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-21-du-tanzt-mich-mal-winter-open-air-punsch-rave-ope@rave.wien
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Vienna:20261121T160000
@@ -173,5 +140,38 @@ DESCRIPTION:Børt\, Dubsburg Soundsystem\, Publegenden\nVeranstalter: Pub
  0 bis 04:00\, ab 18. Der Eintritt ist frei.\n\nhttps://rave.wien/e/2026-
  11-13-10-years-of-publegenden-feat-b-rt
 URL:https://rave.wien/e/2026-11-13-10-years-of-publegenden-feat-b-rt
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-fluffig-punschabend@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T180000
+DTEND;TZID=Europe/Vienna:20261120T220000
+SUMMARY:Fluffig – Punschabend
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:DizzyDray\, Anna Ullrich\, Rosa Rosen\, TAUSEND2Ø\nVeranstal
+ ter: Fluffig\n\nPunschabend der Wiener Reihe Fluffig im Club U am Karlsp
+ latz: ein Open-Air-Punschstand mit DJs von 18:00 bis 22:00. Es spielen D
+ izzyDray\, Anna Ullrich (Techno\, Bounce\, Trance)\, Rosa Rosen und TAUS
+ END2Ø\; RA nennt Trance und Techno. Laut Freytag geht es danach in der 
+ PRST weiter. Eintritt und Mindestalter sind weder auf RA noch auf Freyta
+ g angegeben.\n\nhttps://rave.wien/e/2026-11-20-fluffig-punschabend
+URL:https://rave.wien/e/2026-11-20-fluffig-punschabend
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-over-tone-x-citruscue-pres-by-wums@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T220000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Over:Tone x CitrusCue pres. by Wums
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:A.Fruit\, fejv\, RUV3N\, DICEFACE\, Tesa\nVeranstalter: Citru
+ sCue\, Wums\n\nGemeinsame Nacht der Reihen Over:Tone und CitrusCue\, pr
+ äsentiert vom Wiener Wums Kollektiv im Club U am Karlsplatz. CitrusCue 
+ veranstaltet sonst Bassmusik-Nächte im Club Lucia\; fejv ist dort Local
+  Support mit Sets zwischen UK Bass und Leftfield. Dazu spielen A.Fruit\,
+  Tesa sowie RUV3N b2b DICEFACE. Laut frey-tag stehen Drum and Bass und T
+ echno auf dem Programm. Endzeit und Preis sind nicht angegeben.\n\nhttps
+ ://rave.wien/e/2026-11-20-over-tone-x-citruscue-pres-by-wums
+URL:https://rave.wien/e/2026-11-20-over-tone-x-citruscue-pres-by-wums
 END:VEVENT
 END:VCALENDAR

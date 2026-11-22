@@ -26,24 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-20-forbidden-frequency@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T234500
-DTEND;TZID=Europe/Vienna:20261121T050000
-SUMMARY:Forbidden Frequency
-LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
- ien
-DESCRIPTION:CRASTY\, Plastiksackerl\, DJ Bügelbrett\, Schmeckes\, HALO\n
- Veranstalter: Forbidden Frequency\nEintritt frei\n\nDas Wiener Kollektiv
-  Forbidden Frequency bringt seine Reihe in den Kramladen am Gürtel. Lau
- t Veranstalter führt die Nacht durch House\, Techno und Trance – von 
- groovigen House-Sets über druckvollen Techno bis zu euphorischen Trance
- -Momenten. Es spielen lokale Artists und Residents des Kollektivs nach f
- estem Timetable von 23:45 bis 5:00 Uhr.\n\nhttps://rave.wien/e/2026-11-2
- 0-forbidden-frequency
-URL:https://rave.wien/e/2026-11-20-forbidden-frequency
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-26-konzept-x-dark-pressure@rave.wien
 DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Vienna:20261126T233000
@@ -2280,5 +2262,23 @@ DESCRIPTION:UV Project\, Norg3n\, Nasty\nEintritt frei / free entry\n\nTE
  mit energiegeladenen Techno-Sets und Nasty mit Acid-Sounds. Der Eintritt
   ist frei.\n\nhttps://rave.wien/e/2026-11-19-teknoteka
 URL:https://rave.wien/e/2026-11-19-teknoteka
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-forbidden-frequency@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T234500
+DTEND;TZID=Europe/Vienna:20261121T050000
+SUMMARY:Forbidden Frequency
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:CRASTY\, Plastiksackerl\, DJ Bügelbrett\, Schmeckes\, HALO\n
+ Veranstalter: Forbidden Frequency\nEintritt frei\n\nDas Wiener Kollektiv
+  Forbidden Frequency bringt seine Reihe in den Kramladen am Gürtel. Lau
+ t Veranstalter führt die Nacht durch House\, Techno und Trance – von 
+ groovigen House-Sets über druckvollen Techno bis zu euphorischen Trance
+ -Momenten. Es spielen lokale Artists und Residents des Kollektivs nach f
+ estem Timetable von 23:45 bis 5:00 Uhr.\n\nhttps://rave.wien/e/2026-11-2
+ 0-forbidden-frequency
+URL:https://rave.wien/e/2026-11-20-forbidden-frequency
 END:VEVENT
 END:VCALENDAR

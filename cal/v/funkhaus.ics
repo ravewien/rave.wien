@@ -26,26 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-20-the-house-of-funk-presents-ricky-chong@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T230000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:The House of Funk presents Ricky Chong
-LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
-DESCRIPTION:Ricky Chong\, Franco\nVeranstalter: The House of Funk\nEintri
- tt: 10 €\n\nThe House of Funk feiert im Funkhaus Wien seinen zweiten G
- eburtstag – nach den letzten gut besuchten Nächten lautet das Motto d
- iesmal „This time… its disco“. Gast ist Ricky Chong\, ein in Irlan
- d geborener Disco-DJ\, dessen Sets Musik aus aller Welt und vieler Genre
- s verbinden\; er veröffentlicht u. a. auf Fresh Take Records und Noctur
- nal Hazard und spielt sonst vor allem in Dublin\, London\, Cork und Live
- rpool. Dazu legen Franco und die Residents von The House of Funk auf. RA
-  führt den Abend unter Disco und Funk/Soul. 23:00–06:00\, Tickets 10 
- € über RA\, ab 18.\n\nhttps://rave.wien/e/2026-11-20-the-house-of-fun
- k-presents-ricky-chong
-URL:https://rave.wien/e/2026-11-20-the-house-of-funk-presents-ricky-chong
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-21-yolo-taxi-with-umafricana-lua-preta-miss-roshni@rave.wien
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Vienna:20261121T220000
@@ -325,5 +305,25 @@ DESCRIPTION:Gawdesque\, Amina Malounadou\, Bellavie\nVeranstalter: Kaisa
  e.wien/e/2026-11-14-once-in-a-blue-moon-kiki-ball-afterparty
 URL:https://rave.wien/e/2026-11-14-once-in-a-blue-moon-kiki-ball-afterpar
  ty
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-the-house-of-funk-presents-ricky-chong@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:The House of Funk presents Ricky Chong
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Ricky Chong\, Franco\nVeranstalter: The House of Funk\nEintri
+ tt: 10 €\n\nThe House of Funk feiert im Funkhaus Wien seinen zweiten G
+ eburtstag – nach den letzten gut besuchten Nächten lautet das Motto d
+ iesmal „This time… its disco“. Gast ist Ricky Chong\, ein in Irlan
+ d geborener Disco-DJ\, dessen Sets Musik aus aller Welt und vieler Genre
+ s verbinden\; er veröffentlicht u. a. auf Fresh Take Records und Noctur
+ nal Hazard und spielt sonst vor allem in Dublin\, London\, Cork und Live
+ rpool. Dazu legen Franco und die Residents von The House of Funk auf. RA
+  führt den Abend unter Disco und Funk/Soul. 23:00–06:00\, Tickets 10 
+ € über RA\, ab 18.\n\nhttps://rave.wien/e/2026-11-20-the-house-of-fun
+ k-presents-ricky-chong
+URL:https://rave.wien/e/2026-11-20-the-house-of-funk-presents-ricky-chong
 END:VEVENT
 END:VCALENDAR

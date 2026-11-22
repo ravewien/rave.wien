@@ -26,28 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-20-glitch-vienna-001@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T235900
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:GLITCH Vienna 001
-LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
-DESCRIPTION:TenFifty\, Annzie\, High Chew\nVeranstalter: GLITCH\nEintritt
-  frei\n\nAuftakt der House-Residency von GLITCH im Rhiz – laut Veranst
- alter „unsere erste Nacht in Wien“\, bei der eingeladene Artists gem
- einsam mit der GLITCH-Crew auflegen. GLITCH ist eine 2025 gegründete Ho
- use-Eventreihe (Verein GLITCH)\, ursprünglich mit Partys an besonderen 
- Orten in Kärnten. Es spielen die GLITCH-Residents TenFifty\, ein junges
-  Tech-House-Projekt aus Margareten (Grafenauer & KΛSKIN)\, ANNZIE\, ein
- e Wiener DJ\, deren Sound stark von der britischen Clubszene geprägt is
- t\, und High Chew (Tommy)\, ein aus dem Mittleren Westen der USA stammen
- der Wiener DJ\, der frühen Chicago House mit Minimal House\, Deep Tech 
- und Tech House verbindet. Eintritt frei\, laut Veranstalter 00:00–06:0
- 0 (Seite und RA nennen 23:59 bzw. 23:30 als Beginn).\n\nhttps://rave.wie
- n/e/2026-11-20-glitch-vienna-001
-URL:https://rave.wien/e/2026-11-20-glitch-vienna-001
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-21-polychaos-dubium@rave.wien
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Vienna:20261121T230000
@@ -167,5 +145,27 @@ DESCRIPTION:great area\, PILLBERT\nVeranstalter: nomenklatur\nEintritt: 2
  n Preis nicht leisten können. Genres laut RA: Ambient\, Experimental.\n
  \nhttps://rave.wien/e/2026-11-15-nomenklatur-w-great-area-pillbert-live
 URL:https://rave.wien/e/2026-11-15-nomenklatur-w-great-area-pillbert-live
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-glitch-vienna-001@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T235900
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:GLITCH Vienna 001
+LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
+DESCRIPTION:TenFifty\, Annzie\, High Chew\nVeranstalter: GLITCH\nEintritt
+  frei\n\nAuftakt der House-Residency von GLITCH im Rhiz – laut Veranst
+ alter „unsere erste Nacht in Wien“\, bei der eingeladene Artists gem
+ einsam mit der GLITCH-Crew auflegen. GLITCH ist eine 2025 gegründete Ho
+ use-Eventreihe (Verein GLITCH)\, ursprünglich mit Partys an besonderen 
+ Orten in Kärnten. Es spielen die GLITCH-Residents TenFifty\, ein junges
+  Tech-House-Projekt aus Margareten (Grafenauer & KΛSKIN)\, ANNZIE\, ein
+ e Wiener DJ\, deren Sound stark von der britischen Clubszene geprägt is
+ t\, und High Chew (Tommy)\, ein aus dem Mittleren Westen der USA stammen
+ der Wiener DJ\, der frühen Chicago House mit Minimal House\, Deep Tech 
+ und Tech House verbindet. Eintritt frei\, laut Veranstalter 00:00–06:0
+ 0 (Seite und RA nennen 23:59 bzw. 23:30 als Beginn).\n\nhttps://rave.wie
+ n/e/2026-11-20-glitch-vienna-001
+URL:https://rave.wien/e/2026-11-20-glitch-vienna-001
 END:VEVENT
 END:VCALENDAR

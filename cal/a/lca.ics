@@ -26,6 +26,17 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-06-14-unfollow-w-vina-konda-ngl-lca-dila@rave.wien
+DTSTAMP:20240614T000000Z
+DTSTART;VALUE=DATE:20240614
+DTEND;VALUE=DATE:20240615
+SUMMARY:Unfollow w/ Vina Konda\, Ængl\, LCA\, Dilâ
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Vina Konda\, Ængl\, LCA\, Dilâ\n\nhttps://rave.wien/e/2024-
+ 06-14-unfollow-w-vina-konda-ngl-lca-dila
+URL:https://rave.wien/e/2024-06-14-unfollow-w-vina-konda-ngl-lca-dila
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-20-ambievent-trace-encounters@rave.wien
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Vienna:20261120T193000
@@ -45,16 +56,5 @@ DESCRIPTION:Ssaliva\, færo demonic\, Inou Ki Endo\, esti.d\, LCA\, Kenji
  ēomirage. 19:00–02:00\, 15 €\, ab 18.\n\nhttps://rave.wien/e/2026-1
  1-20-ambievent-trace-encounters
 URL:https://rave.wien/e/2026-11-20-ambievent-trace-encounters
-END:VEVENT
-BEGIN:VEVENT
-UID:2024-06-14-unfollow-w-vina-konda-ngl-lca-dila@rave.wien
-DTSTAMP:20240614T000000Z
-DTSTART;VALUE=DATE:20240614
-DTEND;VALUE=DATE:20240615
-SUMMARY:Unfollow w/ Vina Konda\, Ængl\, LCA\, Dilâ
-LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
-DESCRIPTION:Vina Konda\, Ængl\, LCA\, Dilâ\n\nhttps://rave.wien/e/2024-
- 06-14-unfollow-w-vina-konda-ngl-lca-dila
-URL:https://rave.wien/e/2024-06-14-unfollow-w-vina-konda-ngl-lca-dila
 END:VEVENT
 END:VCALENDAR

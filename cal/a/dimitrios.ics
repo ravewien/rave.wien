@@ -26,6 +26,19 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-06-13-fluffig-open-air@rave.wien
+DTSTAMP:20260613T000000Z
+DTSTART;TZID=Europe/Vienna:20260613T170000
+DTEND;TZID=Europe/Vienna:20260613T230000
+SUMMARY:Fluffig OPEN AIR
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:Anna Ullrich\, COLD ASS ICE\, Liroy\, Who is Ela¿\, Partypau
+ li\, wedding dj\, TAUSEND2Ø\, Dimitrios\nVeranstalter: Fluffig\nEintrit
+ t: 5 €\n\nTrance- und Techno-Open-Air beim Club U am Karlsplatz\, 18+.
+ \n\nhttps://rave.wien/e/2026-06-13-fluffig-open-air
+URL:https://rave.wien/e/2026-06-13-fluffig-open-air
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-20-synergy-rave-x-trance-hard-techno@rave.wien
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Vienna:20261120T230000
@@ -43,18 +56,5 @@ DESCRIPTION:DJ Böhm\, Comrade Martin\, Dan.P\, L4NC3\, Dimitrios\, DJ FE
   ab 18. Zero Tolerance gegenüber Homophobie\, Sexismus und Rassismus.\n
  \nhttps://rave.wien/e/2026-11-20-synergy-rave-x-trance-hard-techno
 URL:https://rave.wien/e/2026-11-20-synergy-rave-x-trance-hard-techno
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-06-13-fluffig-open-air@rave.wien
-DTSTAMP:20260613T000000Z
-DTSTART;TZID=Europe/Vienna:20260613T170000
-DTEND;TZID=Europe/Vienna:20260613T230000
-SUMMARY:Fluffig OPEN AIR
-LOCATION:Club U\, Karlsplatz\, 1010 Wien
-DESCRIPTION:Anna Ullrich\, COLD ASS ICE\, Liroy\, Who is Ela¿\, Partypau
- li\, wedding dj\, TAUSEND2Ø\, Dimitrios\nVeranstalter: Fluffig\nEintrit
- t: 5 €\n\nTrance- und Techno-Open-Air beim Club U am Karlsplatz\, 18+.
- \n\nhttps://rave.wien/e/2026-06-13-fluffig-open-air
-URL:https://rave.wien/e/2026-06-13-fluffig-open-air
 END:VEVENT
 END:VCALENDAR

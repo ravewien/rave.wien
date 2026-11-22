@@ -26,6 +26,18 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-02-19-deep-cut-w-neoom-pauna-pezel@rave.wien
+DTSTAMP:20260219T000000Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:deep cut w/ Neoom\, Pauna\, Pezel
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Neoom\, PAUNA\, pezel\nVeranstalter: deep cut\n\nhttps://rave
+ .wien/e/2026-02-19-deep-cut-w-neoom-pauna-pezel
+URL:https://rave.wien/e/2026-02-19-deep-cut-w-neoom-pauna-pezel
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-20-schall-schabernack@rave.wien
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Vienna:20261120T235900
@@ -43,17 +55,5 @@ DESCRIPTION:L!KA\, Laerm\, bobbyyxjohnson\, PAUNA\nVeranstalter: Schall &
  gründerin von ALERT[A]. Eintritt 8 € an der Abendkassa\, Ende 5 Uhr.\
  n\nhttps://rave.wien/e/2026-11-20-schall-schabernack
 URL:https://rave.wien/e/2026-11-20-schall-schabernack
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-02-19-deep-cut-w-neoom-pauna-pezel@rave.wien
-DTSTAMP:20260219T000000Z
-DTSTART;VALUE=DATE:20260219
-DTEND;VALUE=DATE:20260220
-SUMMARY:deep cut w/ Neoom\, Pauna\, Pezel
-LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
- ien
-DESCRIPTION:Neoom\, PAUNA\, pezel\nVeranstalter: deep cut\n\nhttps://rave
- .wien/e/2026-02-19-deep-cut-w-neoom-pauna-pezel
-URL:https://rave.wien/e/2026-02-19-deep-cut-w-neoom-pauna-pezel
 END:VEVENT
 END:VCALENDAR

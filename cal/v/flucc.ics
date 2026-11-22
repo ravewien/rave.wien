@@ -26,44 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-20-kollektiv-klanggerecht-presents-tanzinstanz-raw-e@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T220000
-DTEND;TZID=Europe/Vienna:20261121T054500
-SUMMARY:Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Tonks\, wldfee\, Sauerstøff\, subinstans\, NooK\, mein__dm\,
-  Techmoo\nVeranstalter: Kollektiv Klanggerecht\, Klanggerecht\nEintritt:
-  5 € (nur Abendkasse)\n\nDas Kollektiv Klanggerecht kehrt mit seiner R
- eihe Tanzinstanz in einer „RAW EDITION“ auf das FLUCC Deck zurück. 
- Im Fokus stehen Raw Techno\, Hypnotic und Hard Groove – treibende Beat
- s und dunkle\, hypnotische Grooves bis in die frühen Morgenstunden. Es 
- spielen sieben Acts: Tonks\, wldfee\, Sauerstøff\, subinstans\, NooK\, 
- mein__dm und Techmoo. Eintritt 5 €\, nur an der Abendkasse.\n\nhttps:/
- /rave.wien/e/2026-11-20-kollektiv-klanggerecht-presents-tanzinstanz-raw-
- e
-URL:https://rave.wien/e/2026-11-20-kollektiv-klanggerecht-presents-tanzin
- stanz-raw-e
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-20-vision-serpent@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T230000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:Vision Serpent
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:NoNameLeft\, Mateo!\, David Phoenix\, Nya Nyx\nVeranstalter: 
- Vision Serpent\nEintritt: 16 € VVK (Phase 3) / 18 € Abendkassa\n\nVi
- sion Serpent lädt zum Label-Showcase in die FLUCC Wanne mit NoNameLeft\
- , Mateo!\, David Phoenix und Nya Nyx. Bisherige Quellen ordnen den Abend
-  Techno\, Minimal Techno und Psytech zu. Beginn 23:00\, Ende 06:00. Im V
- orverkauf bei kupfticket sind Phase 1 (12 €) und Phase 2 (14 €) ausv
- erkauft\, erhältlich ist noch Phase 3 um 16 €\; Abendkasse laut RA 18
-  €. Die FLUCC-Seite selbst enthält keine Beschreibung oder Flyer.\n\n
- https://rave.wien/e/2026-11-20-vision-serpent
-URL:https://rave.wien/e/2026-11-20-vision-serpent
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-21-technoage-ab-funfzehn-uhr-clubbing@rave.wien
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Vienna:20261121T150000
@@ -281,10 +243,12 @@ DTSTART;TZID=Europe/Vienna:20261205T230000
 DTEND;TZID=Europe/Vienna:20261206T040000
 SUMMARY:Bassbehörde
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:\nBassbehörde im FLUCC Wanne. Die Location-Seite nennt bishe
- r nur Titel\, Datum und Beginn (23:00 Uhr)\; Lineup\, Preis\, Ende und F
- lyer sind noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-05-
- bassbehorde
+DESCRIPTION:\nBassbehörde im FLUCC Wanne ab 23:00. Die Location-Seite ne
+ nnt bisher nur Titel\, Datum und Beginn\; Lineup\, Preis\, Ende und Flye
+ r sind noch nicht veröffentlicht. Im FLUCC-Programm steht für denselbe
+ n Abend in der Wanne zusätzlich „FSK Atzig“ (ebenfalls 23:00) mit e
+ inem gemeinsamen Header-Bild – vermutlich ein Teil derselben Nacht.\n\
+ nhttps://rave.wien/e/2026-12-05-bassbehorde
 URL:https://rave.wien/e/2026-12-05-bassbehorde
 END:VEVENT
 BEGIN:VEVENT
@@ -3948,5 +3912,43 @@ DESCRIPTION:High Noon Rockers\, Patches\, Luv Affair on Air\, Soundbügle
   Streams geöffnet\, 14:00–20:00\, Eintritt frei.\n\nhttps://rave.wien
  /e/2026-11-15-flut-x-callshop-radio-week-46
 URL:https://rave.wien/e/2026-11-15-flut-x-callshop-radio-week-46
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-kollektiv-klanggerecht-presents-tanzinstanz-raw-e@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T220000
+DTEND;TZID=Europe/Vienna:20261121T054500
+SUMMARY:Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Tonks\, wldfee\, Sauerstøff\, subinstans\, NooK\, mein__dm\,
+  Techmoo\nVeranstalter: Kollektiv Klanggerecht\, Klanggerecht\nEintritt:
+  5 € (nur Abendkasse)\n\nDas Kollektiv Klanggerecht kehrt mit seiner R
+ eihe Tanzinstanz in einer „RAW EDITION“ auf das FLUCC Deck zurück. 
+ Im Fokus stehen Raw Techno\, Hypnotic und Hard Groove – treibende Beat
+ s und dunkle\, hypnotische Grooves bis in die frühen Morgenstunden. Es 
+ spielen sieben Acts: Tonks\, wldfee\, Sauerstøff\, subinstans\, NooK\, 
+ mein__dm und Techmoo. Eintritt 5 €\, nur an der Abendkasse.\n\nhttps:/
+ /rave.wien/e/2026-11-20-kollektiv-klanggerecht-presents-tanzinstanz-raw-
+ e
+URL:https://rave.wien/e/2026-11-20-kollektiv-klanggerecht-presents-tanzin
+ stanz-raw-e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-vision-serpent@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Vision Serpent
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:NoNameLeft\, Mateo!\, David Phoenix\, Nya Nyx\nVeranstalter: 
+ Vision Serpent\nEintritt: 16 € VVK (Phase 3) / 18 € Abendkassa\n\nVi
+ sion Serpent lädt zum Label-Showcase in die FLUCC Wanne mit NoNameLeft\
+ , Mateo!\, David Phoenix und Nya Nyx. Bisherige Quellen ordnen den Abend
+  Techno\, Minimal Techno und Psytech zu. Beginn 23:00\, Ende 06:00. Im V
+ orverkauf bei kupfticket sind Phase 1 (12 €) und Phase 2 (14 €) ausv
+ erkauft\, erhältlich ist noch Phase 3 um 16 €\; Abendkasse laut RA 18
+  €. Die FLUCC-Seite selbst enthält keine Beschreibung oder Flyer.\n\n
+ https://rave.wien/e/2026-11-20-vision-serpent
+URL:https://rave.wien/e/2026-11-20-vision-serpent
 END:VEVENT
 END:VCALENDAR

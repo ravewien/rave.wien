@@ -26,23 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-20-over-tone-x-citruscue-pres-by-wums@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T220000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:Over:Tone x CitrusCue pres. by Wums
-LOCATION:Club U\, Karlsplatz\, 1010 Wien
-DESCRIPTION:A.Fruit\, fejv\, RUV3N\, DICEFACE\, Tesa\nVeranstalter: Citru
- sCue\, Wums\n\nGemeinsame Nacht der Reihen Over:Tone und CitrusCue\, pr
- äsentiert vom Wiener Wums Kollektiv im Club U am Karlsplatz. CitrusCue 
- veranstaltet sonst Bassmusik-Nächte im Club Lucia\; fejv ist dort Local
-  Support mit Sets zwischen UK Bass und Leftfield. Dazu spielen A.Fruit\,
-  Tesa sowie RUV3N b2b DICEFACE. Laut frey-tag stehen Drum and Bass und T
- echno auf dem Programm. Endzeit und Preis sind nicht angegeben.\n\nhttps
- ://rave.wien/e/2026-11-20-over-tone-x-citruscue-pres-by-wums
-URL:https://rave.wien/e/2026-11-20-over-tone-x-citruscue-pres-by-wums
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-28-citruscue-presents-coido-wingz@rave.wien
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Vienna:20261128T235900
@@ -79,5 +62,22 @@ DESCRIPTION:Veranstalter: CitrusCue\nEintritt frei (Gratis-Ticket nötig)
  hno\; ein Lineup ist noch nicht veröffentlicht.\n\nhttps://rave.wien/e/
  2026-11-29-hot-wet-x-citrus-cue-christmas-party
 URL:https://rave.wien/e/2026-11-29-hot-wet-x-citrus-cue-christmas-party
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-over-tone-x-citruscue-pres-by-wums@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T220000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Over:Tone x CitrusCue pres. by Wums
+LOCATION:Club U\, Karlsplatz\, 1010 Wien
+DESCRIPTION:A.Fruit\, fejv\, RUV3N\, DICEFACE\, Tesa\nVeranstalter: Citru
+ sCue\, Wums\n\nGemeinsame Nacht der Reihen Over:Tone und CitrusCue\, pr
+ äsentiert vom Wiener Wums Kollektiv im Club U am Karlsplatz. CitrusCue 
+ veranstaltet sonst Bassmusik-Nächte im Club Lucia\; fejv ist dort Local
+  Support mit Sets zwischen UK Bass und Leftfield. Dazu spielen A.Fruit\,
+  Tesa sowie RUV3N b2b DICEFACE. Laut frey-tag stehen Drum and Bass und T
+ echno auf dem Programm. Endzeit und Preis sind nicht angegeben.\n\nhttps
+ ://rave.wien/e/2026-11-20-over-tone-x-citruscue-pres-by-wums
+URL:https://rave.wien/e/2026-11-20-over-tone-x-citruscue-pres-by-wums
 END:VEVENT
 END:VCALENDAR

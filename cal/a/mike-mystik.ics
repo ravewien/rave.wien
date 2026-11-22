@@ -26,27 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-20-sub-zero@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T230000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:Sub Zero
-LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
-DESCRIPTION:Userkiller\, Kjaer\, Mark Dale\, Mike Mystik\, MANiLO\, Chica
- no\nVeranstalter: Sub Zero\nEintritt: 10 € vor 00:00 / 12 € danach\n
- \n„Vienna meets Berlin“: Sub Zero bringt den Berliner Techno-Sound i
- ns The Loft und lässt ihn auf die dunklere\, rohere Seite der Wiener Sz
- ene treffen – kein polierter Clubsound\, kein Mainstream\, sondern tre
- ibende Kicks\, düstere Atmosphären und kompromissloser Techno. Aus Deu
- tschland kommen Userkiller (Tresor Berlin\, R.C.S)\, MANiLO (Vorwärts M
- usik\, R.C.S) und Chicano (R.C.S). Die österreichische Seite vertreten 
- Kjaer (IAMT Red\, Fine Artistry)\, Mark Dale (Republic Artists\, Dynamic
- ) und Mike Mystik (Dunkelton\, Shadow State). Gespielt wird im oberen Fl
- oor\; Eintritt 10 € vor Mitternacht\, 12 € danach.\n\nhttps://rave.w
- ien/e/2026-11-20-sub-zero
-URL:https://rave.wien/e/2026-11-20-sub-zero
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-21-lost-or-unreachable@rave.wien
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Vienna:20261121T230000
@@ -86,5 +65,26 @@ DESCRIPTION:Techflex\, Mike Mystik\, Zuckerfrei\nVeranstalter: Dunkelton
  der Kopfzeile 23:00 und als Preis 5\, der Text spricht von 23:30 und fre
  iem Eintritt bzw. Spende.\n\nhttps://rave.wien/e/2026-10-31-black-signal
 URL:https://rave.wien/e/2026-10-31-black-signal
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-sub-zero@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Sub Zero
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Userkiller\, Kjaer\, Mark Dale\, Mike Mystik\, MANiLO\, Chica
+ no\nVeranstalter: Sub Zero\nEintritt: 10 € vor 00:00 / 12 € danach\n
+ \n„Vienna meets Berlin“: Sub Zero bringt den Berliner Techno-Sound i
+ ns The Loft und lässt ihn auf die dunklere\, rohere Seite der Wiener Sz
+ ene treffen – kein polierter Clubsound\, kein Mainstream\, sondern tre
+ ibende Kicks\, düstere Atmosphären und kompromissloser Techno. Aus Deu
+ tschland kommen Userkiller (Tresor Berlin\, R.C.S)\, MANiLO (Vorwärts M
+ usik\, R.C.S) und Chicano (R.C.S). Die österreichische Seite vertreten 
+ Kjaer (IAMT Red\, Fine Artistry)\, Mark Dale (Republic Artists\, Dynamic
+ ) und Mike Mystik (Dunkelton\, Shadow State). Gespielt wird im oberen Fl
+ oor\; Eintritt 10 € vor Mitternacht\, 12 € danach.\n\nhttps://rave.w
+ ien/e/2026-11-20-sub-zero
+URL:https://rave.wien/e/2026-11-20-sub-zero
 END:VEVENT
 END:VCALENDAR

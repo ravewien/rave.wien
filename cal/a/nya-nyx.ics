@@ -26,24 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-20-vision-serpent@rave.wien
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=Europe/Vienna:20261120T230000
-DTEND;TZID=Europe/Vienna:20261121T060000
-SUMMARY:Vision Serpent
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:NoNameLeft\, Mateo!\, David Phoenix\, Nya Nyx\nVeranstalter: 
- Vision Serpent\nEintritt: 16 € VVK (Phase 3) / 18 € Abendkassa\n\nVi
- sion Serpent lädt zum Label-Showcase in die FLUCC Wanne mit NoNameLeft\
- , Mateo!\, David Phoenix und Nya Nyx. Bisherige Quellen ordnen den Abend
-  Techno\, Minimal Techno und Psytech zu. Beginn 23:00\, Ende 06:00. Im V
- orverkauf bei kupfticket sind Phase 1 (12 €) und Phase 2 (14 €) ausv
- erkauft\, erhältlich ist noch Phase 3 um 16 €\; Abendkasse laut RA 18
-  €. Die FLUCC-Seite selbst enthält keine Beschreibung oder Flyer.\n\n
- https://rave.wien/e/2026-11-20-vision-serpent
-URL:https://rave.wien/e/2026-11-20-vision-serpent
-END:VEVENT
-BEGIN:VEVENT
 UID:2024-06-28-im-freudentaumel-w-theo-meier-lenia-nya-nyx-shees@rave.wien
 DTSTAMP:20240628T000000Z
 DTSTART;VALUE=DATE:20240628
@@ -68,5 +50,23 @@ DESCRIPTION:Nya Nyx\, Eren Duman\, Kollektiv Sheesh\nVeranstalter: Im Fre
  freudentaumel-i-free-donation-i-flucc-deck
 URL:https://rave.wien/e/2026-08-21-im-freudentaumel-i-free-donation-i-flu
  cc-deck
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-vision-serpent@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Vision Serpent
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:NoNameLeft\, Mateo!\, David Phoenix\, Nya Nyx\nVeranstalter: 
+ Vision Serpent\nEintritt: 16 € VVK (Phase 3) / 18 € Abendkassa\n\nVi
+ sion Serpent lädt zum Label-Showcase in die FLUCC Wanne mit NoNameLeft\
+ , Mateo!\, David Phoenix und Nya Nyx. Bisherige Quellen ordnen den Abend
+  Techno\, Minimal Techno und Psytech zu. Beginn 23:00\, Ende 06:00. Im V
+ orverkauf bei kupfticket sind Phase 1 (12 €) und Phase 2 (14 €) ausv
+ erkauft\, erhältlich ist noch Phase 3 um 16 €\; Abendkasse laut RA 18
+  €. Die FLUCC-Seite selbst enthält keine Beschreibung oder Flyer.\n\n
+ https://rave.wien/e/2026-11-20-vision-serpent
+URL:https://rave.wien/e/2026-11-20-vision-serpent
 END:VEVENT
 END:VCALENDAR
