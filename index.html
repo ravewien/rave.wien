@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-uGm3t8HbEB3BYgnEpo/Ko7cqX3S/h/+lZAQTjH0HkmQ='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-QkXGI94oiv3YwsJrLHdY49mOFHsAK63KlPSpySvp2oA='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -1539,7 +1539,7 @@ Object.values(VINFO).forEach(i=>(i.residents||[]).forEach(a=>{const c=canon(a);i
 if(V.Pratersauna&&!UNI.v.includes("Pratersauna"))UNI.v.push("Pratersauna");
 const collOf=n=>{const a=ARK[akey(n)]||{};return [...new Set([...(a.coll||[]),...Object.keys(CINFO).filter(k=>(CINFO[k].members||[]).map(canon).includes(n))])].filter(k=>!((CINFO[k]||{}).exMembers||[]).map(canon).includes(n))};
 // Welche Vibe-Tags in den Übersichten Artists/Veranstalter/Locations sinnvoll filtern (Liste, Kalender: immer alle)
-const FLAGVIEW={access:["loc"],aw:["col","loc"],nophoto:["col","loc"],opendecks:["col","loc"],lgbtq:["art","col","loc"],sexpos:["art","col","loc"]};
+const FLAGVIEW={access:["loc"],aw:["col","loc"],nophoto:["col","loc"],opendecks:["col","loc"],lgbtq:["col","loc"],sexpos:["col","loc"]};
 const fkOn=k=>k==="f"?[...st.f,...st.x.f].some(x=>flagOn(x)):!!(st[k].size||st.x[k].size);
 const fkPos=k=>k==="f"?[...st.f].some(x=>flagOn(x)):!!st[k].size;
 const flagOn=k=>!["art","col","loc"].includes(st.view)||(FLAGVIEW[k]||["art","col","loc"]).includes(st.view);
@@ -1576,8 +1576,8 @@ function renderSide(){
   const sideSc=mqMob.matches?$("sidein"):$("side"),sideTop=sideSc.scrollTop,winY=window.scrollY;
   const ae=document.activeElement,fk=ae&&ae.closest&&ae.closest("#trees")?(ae.dataset.flag?`[data-flag="${ae.dataset.flag}"]`:ae.dataset.k?`.opt[data-k="${ae.dataset.k}"][data-n="${CSS.escape(ae.dataset.n)}"]`:null):null;
   const base=EV.filter(e=>matches(e,"f"));
-  const prof=`<details class="tree" data-k="f" ${open.f!==false?"open":""}><summary><span>${l.profile}</span><em>${FLAGS.filter(([k])=>flagOn(k)).length}</em></summary><div class="opts">${
-    FLAGS.filter(([k])=>flagOn(k)).map(([k,c,lab,,ic])=>`<button class="opt ${fcls("f",k)}" data-flag="${k}" ${fattr("f",k)}><span class="ico ${c}" style="flex:none">${ic}</span><span>${l[lab]}</span><em>${base.filter(e=>e[k]&&[...st.f].every(x=>!flagOn(x)||e[x])&&![...st.x.f].some(x=>flagOn(x)&&e[x])).length}</em></button>`).join("")}</div></details>`;
+  const prof=`<details class="tree" data-k="f" ${open.f!==false?"open":""}><summary><span>${l.profile}</span><em>${FLAGS.length}</em></summary><div class="opts">${
+    FLAGS.map(([k,c,lab,,ic])=>`<button class="opt ${fcls("f",k)}" data-flag="${k}" ${fattr("f",k)}><span class="ico ${c}" style="flex:none">${ic}</span><span>${l[lab]}</span><em>${base.filter(e=>e[k]&&[...st.f].every(x=>e[x])&&![...st.x.f].some(x=>e[x])).length}</em></button>`).join("")}</div></details>`;
   const groups=[["g",l.genres,e=>e.genres],["v",l.venues,e=>[e.venue]],["c",l.colls,e=>e.coll],["a",l.artists,e=>e.artists]];
   const X={f:prof};
   EXTRA.forEach(([k,fn,vals])=>{const b=EV.filter(e=>matches(e,k));const lab={src:l.fsrc,age:l.fage,price:l.fprice,time:l.ftime,io:l.fio}[k];
