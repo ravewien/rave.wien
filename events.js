@@ -162,7 +162,7 @@ const S={
  "pzs": "Panzerschokolade"
 };
 const SO=["4lg","dtm","hg","un","pt","wm","ftr","ksot","stepf","awsm","bio","kore","tl","rr","srd","sw","gl","smt","col","ffq","barr","kgal","pzs"];
-const VR={"Grelle Forelle":{"age":"21+","sound":{"de":"Alcons Audio + Lambda Labs","en":"Alcons Audio + Lambda Labs","src":"https://www.properformance.audio/articles/grelle-forelle-mainfloor","floors":{"main":{"de":"Alcons Audio QR36 Line Arrays, 8× Lambda Labs DW-15 Subs","en":"Alcons Audio QR36 line arrays, 8× Lambda Labs DW-15 subs"},"kitchen":{"de":"Lambda Labs (MF-15A Subs, TX-2A, CX-1A Monitore)","en":"Lambda Labs (MF-15A subs, TX-2A, CX-1A monitors)","src":"https://lambda-labs.com/en/references/grelle-forelle"}}}},"Das Werk":{"age":"18+","ageSrc":"https://www.daswerk.org/faq","sound":{"de":"Alcons Audio RR12 + Eigenbau-Subwoofer (12× 15\")","en":"Alcons Audio RR12 + custom subwoofer (12× 15\")","src":"https://www.prosoundweb.com/art-culture-venue-in-austria-outfitted-with-alcons-audio/"}},"SASS Music Club":{"age":"18+","aw":1,"sound":{"de":"Beschallung mit Alcons-Audio-Lautsprechern (Pro-Ribbon-Technologie), installiert von Pro Performance.","en":"Alcons Audio loudspeakers (pro-ribbon technology), installed by Pro Performance.","src":"https://properformance.at/en/projects/club/club-sass-wien/"}},"O der Klub":{"age":"18+"},"Club Exil":{"sound":{"de":"Lambda-Labs-Soundsystem: Auf dem Mainfloor ein 90°-QX-Setup mit 20 DH-18-Subwoofern.","en":"Lambda Labs sound system: a 90° QX setup with 20 DH-18 subwoofers on the main floor.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series","floors":{"mainfloor":{"de":"Lambda Labs QX in 90°-Anordnung mit 20 DH-18-Subwoofern.","en":"Lambda Labs QX in a 90° configuration with 20 DH-18 subwoofers.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series"}}}},"The Loft":{"sound":{"de":"KV2-Anlage im Keller (Dancefloor Unten).","en":"KV2 sound system in the basement (Unten dancefloor).","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056","floors":{"Unten":{"de":"KV2-Anlage","en":"KV2 sound system","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056"}}}},"Flex":{"sound":{"de":"Alcons-Soundsystem (Planung/Installation Pro Performance seit 2007): Main Floor seit 2022 mit 8 Alcons QR24 und 2 QM24 als L/R-Arrays, 4 BC543-Cardioid-Bässen und dem berühmten Beton-Horn-Subwoofer; Flex Café mit Alcons LR18; im Außenbereich die früheren QR36.","en":"Alcons sound system (designed/installed by Pro Performance since 2007): since 2022 the main floor runs 8 Alcons QR24 plus 2 QM24 as L/R arrays, 4 BC543 cardioid subs and the famous concrete horn subwoofers; the Flex Café uses Alcons LR18; the former QR36 now cover the outdoor area.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex","floors":{"Main Floor":{"de":"8× Alcons QR24 (4× QR24/80, 4× QR24/110) + 2× QM24 als L/R-Arrays, 4× BC543 Cardioid-Bass, Beton-Horn-Subwoofer mit je vier 15\"-Treibern pro Seite.","en":"8× Alcons QR24 (4× QR24/80, 4× QR24/110) + 2× QM24 as L/R arrays, 4× BC543 cardioid bass, concrete horn subwoofers with four 15\" drivers per side.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex"},"Flex Café":{"de":"Alcons LR18 Pro-Ribbon-Line-Array links/rechts der Bühne, Bässe in End-Fire-Anordnung.","en":"Alcons LR18 pro-ribbon line array left/right of the stage, subs in end-fire configuration.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex"}}}},"PRST":{"sound":{"de":"Lambda-Labs-Soundsystem von Pro Performance Sound + Acoustics (Wolfgang Sauter): Lambda Labs QX als Haupt-PA, horizontales Double-Endfire-Array aus 8 DH-18-Subwoofern vor und hinter dem DJ-Pult, DJ-Monitoring mit CB-Design-15\"-Subs und Lambda Labs TX-3A; Active Noise Control zwischen Clubraum und Bar.","en":"Lambda Labs sound system by Pro Performance Sound + Acoustics (Wolfgang Sauter): Lambda Labs QX main PA, a horizontal double end-fire array of 8 DH-18 subwoofers in front of and behind the DJ booth, DJ monitoring with CB-Design 15\" subs and Lambda Labs TX-3A; active noise control between club room and bar.","src":"https://www.lewitt-audio.com/blog/PRST-audio-experience"}},"U4":{"age":"18+"},"B72":{"sound":{"de":"EV-Anlage (Electro-Voice): 4× EV T221 Topteile (zwei für den Mainfloor, zwei für die Galerie), 2× EV T180 18\"-Subwoofer, EV DC One Controller, EV-Q66-Endstufen; Midas-M32-Pult; DJ-Setup mit 2× Technics SL1210 MK2, Pioneer DJM 600 und Denon DJ X1800.","en":"Electro-Voice PA: 4× EV T221 tops (two for the main floor, two for the balcony), 2× EV T180 18\" subwoofers, EV DC One controller, EV Q66 amps; Midas M32 desk; DJ setup with 2× Technics SL1210 MK2, Pioneer DJM 600 and Denon DJ X1800.","src":"https://www.b72.at/downloads/B72_Sound_Specs.pdf"}},"Arena Wien":{"sound":{"de":"Meyer Sound: Open Air seit April 2024 mit PANTHER-Line-Arrays (je 9 pro Seite), 900-LFC- und 2100-LFC-Subwoofern, installiert von ATEC Pro; in der Großen Halle ein MILO-Line-Array mit 700-HP-Subwoofern.","en":"Meyer Sound: since April 2024 the Open Air stage runs PANTHER line arrays (9 per side) with 900-LFC and 2100-LFC subwoofers, installed by ATEC Pro; the Große Halle has a MILO line array with 700-HP subwoofers.","src":"https://meyersound.com/news/arena-vienna/"}},"Prater Dome":{"sound":{"de":"Zur Eröffnung 2008 von der Firma FACE installiert: JBL-Anlage mit rund 130 Lautsprechern und Subwoofern (u. a. SRX 728, SRX 715, Control 26C) und insgesamt ca. 100.000 Watt, Crown-Endstufen (XTi 1000, CT3000) und BSS Soundweb London BLU-160 zur Signalverarbeitung.","en":"Installed by FACE for the 2008 opening: a JBL system with around 130 loudspeakers and subwoofers (incl. SRX 728, SRX 715, Control 26C) totalling about 100,000 watts, Crown amplifiers (XTi 1000, CT3000) and BSS Soundweb London BLU-160 for signal processing.","src":"https://jblpro.com/en/news/bss-audio-at-the-center-of-sound-in-austria-s-new-praterdome"}},"FLUCC":{"access":1,"accNote":{"de":"Die Wanne ist rollstuhlgerecht zugänglich.","en":"The Wanne is wheelchair accessible."},"accSrc":"man"},"Jaz in the City":{"access":1,"accNote":{"de":"Laut wien.info ist das Hotel vollständig rollstuhlgerecht und hat einen Lift; die Dachbar Mariatrink ist dort nicht eigens erwähnt.","en":"According to wien.info the hotel is fully wheelchair accessible with an elevator; the Mariatrink rooftop bar is not mentioned separately."},"accSrc":"https://www.wien.info/en/jaz-in-the-city-vienna-411290"},"LIA Coffee WU Campus":{"access":1,"accNote":{"de":"Laut Falter ist Lia Coffee am WU Campus barrierefrei zugänglich (rollstuhlgerecht).","en":"According to Falter, Lia Coffee on the WU campus has barrier-free, wheelchair-accessible access."},"accSrc":"https://www.falter.at/lokal/8367/lia-coffee-wu-wien"}};
+const VR={"Grelle Forelle":{"age":"21+","sound":{"de":"Alcons Audio + Lambda Labs","en":"Alcons Audio + Lambda Labs","src":"https://www.properformance.audio/articles/grelle-forelle-mainfloor","floors":{"main":{"de":"Alcons Audio QR36 Line Arrays, 8× Lambda Labs DW-15 Subs","en":"Alcons Audio QR36 line arrays, 8× Lambda Labs DW-15 subs"},"kitchen":{"de":"Lambda Labs (MF-15A Subs, TX-2A, CX-1A Monitore)","en":"Lambda Labs (MF-15A subs, TX-2A, CX-1A monitors)","src":"https://lambda-labs.com/en/references/grelle-forelle"}}}},"Das Werk":{"age":"18+","ageSrc":"https://www.daswerk.org/faq","sound":{"de":"Alcons Audio RR12 + Eigenbau-Subwoofer (12× 15\")","en":"Alcons Audio RR12 + custom subwoofer (12× 15\")","src":"https://www.prosoundweb.com/art-culture-venue-in-austria-outfitted-with-alcons-audio/"}},"SASS Music Club":{"age":"18+","aw":1,"sound":{"de":"Beschallung mit Alcons-Audio-Lautsprechern (Pro-Ribbon-Technologie), installiert von Pro Performance.","en":"Alcons Audio loudspeakers (pro-ribbon technology), installed by Pro Performance.","src":"https://properformance.at/en/projects/club/club-sass-wien/"}},"O der Klub":{"age":"18+"},"Club Exil":{"sound":{"de":"Lambda-Labs-Soundsystem: Auf dem Mainfloor ein 90°-QX-Setup mit 20 DH-18-Subwoofern.","en":"Lambda Labs sound system: a 90° QX setup with 20 DH-18 subwoofers on the main floor.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series","floors":{"mainfloor":{"de":"Lambda Labs QX in 90°-Anordnung mit 20 DH-18-Subwoofern.","en":"Lambda Labs QX in a 90° configuration with 20 DH-18 subwoofers.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series"}}}},"The Loft":{"sound":{"de":"KV2-Anlage im Keller (Dancefloor Unten).","en":"KV2 sound system in the basement (Unten dancefloor).","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056","floors":{"Unten":{"de":"KV2-Anlage","en":"KV2 sound system","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056"}}}},"Flex":{"sound":{"de":"Alcons-Soundsystem (Planung/Installation Pro Performance seit 2007): Main Floor seit 2022 mit 8 Alcons QR24 und 2 QM24 als L/R-Arrays, 4 BC543-Cardioid-Bässen und dem berühmten Beton-Horn-Subwoofer; Flex Café mit Alcons LR18; im Außenbereich die früheren QR36.","en":"Alcons sound system (designed/installed by Pro Performance since 2007): since 2022 the main floor runs 8 Alcons QR24 plus 2 QM24 as L/R arrays, 4 BC543 cardioid subs and the famous concrete horn subwoofers; the Flex Café uses Alcons LR18; the former QR36 now cover the outdoor area.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex","floors":{"Main Floor":{"de":"8× Alcons QR24 (4× QR24/80, 4× QR24/110) + 2× QM24 als L/R-Arrays, 4× BC543 Cardioid-Bass, Beton-Horn-Subwoofer mit je vier 15\"-Treibern pro Seite.","en":"8× Alcons QR24 (4× QR24/80, 4× QR24/110) + 2× QM24 as L/R arrays, 4× BC543 cardioid bass, concrete horn subwoofers with four 15\" drivers per side.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex"},"Flex Café":{"de":"Alcons LR18 Pro-Ribbon-Line-Array links/rechts der Bühne, Bässe in End-Fire-Anordnung.","en":"Alcons LR18 pro-ribbon line array left/right of the stage, subs in end-fire configuration.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex"}}},"access":1,"accNote":{"de":"Laut Falter-Lokalführer rollstuhlgerecht und barrierefrei zugänglich.","en":"According to the Falter guide, wheelchair accessible and barrier-free."},"accSrc":"https://www.falter.at/lokal/4812/flex"},"PRST":{"sound":{"de":"Lambda-Labs-Soundsystem von Pro Performance Sound + Acoustics (Wolfgang Sauter): Lambda Labs QX als Haupt-PA, horizontales Double-Endfire-Array aus 8 DH-18-Subwoofern vor und hinter dem DJ-Pult, DJ-Monitoring mit CB-Design-15\"-Subs und Lambda Labs TX-3A; Active Noise Control zwischen Clubraum und Bar.","en":"Lambda Labs sound system by Pro Performance Sound + Acoustics (Wolfgang Sauter): Lambda Labs QX main PA, a horizontal double end-fire array of 8 DH-18 subwoofers in front of and behind the DJ booth, DJ monitoring with CB-Design 15\" subs and Lambda Labs TX-3A; active noise control between club room and bar.","src":"https://www.lewitt-audio.com/blog/PRST-audio-experience"}},"U4":{"age":"18+"},"B72":{"sound":{"de":"EV-Anlage (Electro-Voice): 4× EV T221 Topteile (zwei für den Mainfloor, zwei für die Galerie), 2× EV T180 18\"-Subwoofer, EV DC One Controller, EV-Q66-Endstufen; Midas-M32-Pult; DJ-Setup mit 2× Technics SL1210 MK2, Pioneer DJM 600 und Denon DJ X1800.","en":"Electro-Voice PA: 4× EV T221 tops (two for the main floor, two for the balcony), 2× EV T180 18\" subwoofers, EV DC One controller, EV Q66 amps; Midas M32 desk; DJ setup with 2× Technics SL1210 MK2, Pioneer DJM 600 and Denon DJ X1800.","src":"https://www.b72.at/downloads/B72_Sound_Specs.pdf"}},"Arena Wien":{"sound":{"de":"Meyer Sound: Open Air seit April 2024 mit PANTHER-Line-Arrays (je 9 pro Seite), 900-LFC- und 2100-LFC-Subwoofern, installiert von ATEC Pro; in der Großen Halle ein MILO-Line-Array mit 700-HP-Subwoofern.","en":"Meyer Sound: since April 2024 the Open Air stage runs PANTHER line arrays (9 per side) with 900-LFC and 2100-LFC subwoofers, installed by ATEC Pro; the Große Halle has a MILO line array with 700-HP subwoofers.","src":"https://meyersound.com/news/arena-vienna/"}},"Prater Dome":{"sound":{"de":"Zur Eröffnung 2008 von der Firma FACE installiert: JBL-Anlage mit rund 130 Lautsprechern und Subwoofern (u. a. SRX 728, SRX 715, Control 26C) und insgesamt ca. 100.000 Watt, Crown-Endstufen (XTi 1000, CT3000) und BSS Soundweb London BLU-160 zur Signalverarbeitung.","en":"Installed by FACE for the 2008 opening: a JBL system with around 130 loudspeakers and subwoofers (incl. SRX 728, SRX 715, Control 26C) totalling about 100,000 watts, Crown amplifiers (XTi 1000, CT3000) and BSS Soundweb London BLU-160 for signal processing.","src":"https://jblpro.com/en/news/bss-audio-at-the-center-of-sound-in-austria-s-new-praterdome"}},"FLUCC":{"access":1,"accNote":{"de":"Die Wanne ist rollstuhlgerecht zugänglich.","en":"The Wanne is wheelchair accessible."},"accSrc":"man"},"Jaz in the City":{"access":1,"accNote":{"de":"Laut wien.info ist das Hotel vollständig rollstuhlgerecht und hat einen Lift; die Dachbar Mariatrink ist dort nicht eigens erwähnt.","en":"According to wien.info the hotel is fully wheelchair accessible with an elevator; the Mariatrink rooftop bar is not mentioned separately."},"accSrc":"https://www.wien.info/en/jaz-in-the-city-vienna-411290"},"LIA Coffee WU Campus":{"access":1,"accNote":{"de":"Laut Falter ist Lia Coffee am WU Campus barrierefrei zugänglich (rollstuhlgerecht).","en":"According to Falter, Lia Coffee on the WU campus has barrier-free, wheelchair-accessible access."},"accSrc":"https://www.falter.at/lokal/8367/lia-coffee-wu-wien"},"WUK":{"access":1,"accNote":{"de":"Laut WUK ist der Saal barrierefrei für Rollstuhlfahrer*innen zugänglich; um Anmeldung wird gebeten.","en":"According to WUK, the Saal is accessible for wheelchair users; please register in advance."},"accSrc":"https://www.wuk.at/programm/trinix/"},"Altia Skybar – DC Tower":{"access":1,"accNote":{"de":"Laut Falter-Lokalführer ist Altia (Restaurant & Skybar im DC Tower) rollstuhlgerecht und barrierefrei zugänglich.","en":"According to the Falter guide, Altia (restaurant & sky bar in the DC Tower) is wheelchair accessible."},"accSrc":"https://www.falter.at/lokal/8769/altia-by-urrechu-restaurant-skybar"},"Wiener Stadthalle":{"access":1,"accNote":{"de":"Stufenloser Haupteingang, Hallen D und F barrierefrei erreichbar mit eigenen Rollstuhlplätzen, barrierefreies WC, Behindertenparkplätze.","en":"Step-free main entrance; halls D and F are barrier-free with dedicated wheelchair spaces, accessible toilet and disabled parking."},"accSrc":"https://www.wien.info/de/wiener-stadthalle-126368"},"Rhiz":{"access":1,"accNote":{"de":"Laut Falter-Lokalführer rollstuhlgerecht und barrierefrei zugänglich.","en":"According to the Falter guide, wheelchair accessible and barrier-free."},"accSrc":"https://www.falter.at/lokal/3627/rhiz"},"Otto Wagner Areal":{"accNote":{"de":"Laut Wien Modern ist Pavillon 10 über einen Lift an der Rückseite rollstuhlgerecht erreichbar, mit barrierefreiem WC; andere Gebäude des Areals sind nicht erfasst.","en":"According to Wien Modern, Pavilion 10 is wheelchair accessible via a lift at the rear and has an accessible toilet; other buildings on the site are not covered."},"accSrc":"https://www.wienmodern.at/accessibility"}};
 const CG={
  "303": [
   "Drum & Bass",
@@ -6780,7 +6780,8 @@ const VI={
   "noLogo": "2026-11-03",
   "infoChk": "2026-11-03",
   "logo": "https://club-u.at/wp-content/uploads/2022/07/LOGO_big_n22-1024x579.jpg",
-  "man": 1
+  "man": 1,
+  "accChk": "2026-11-23"
  },
  "Coco Bar": {
   "de": "Bar in den Stadtbahnbögen am Lerchenfelder Gürtel mit gelegentlichen DJ- und Listening-Abenden.",
@@ -7038,7 +7039,8 @@ const VI={
   "floors": [
    "Floor 1",
    "Down Under"
-  ]
+  ],
+  "accChk": "2026-11-23"
  },
  "Tagada": {
   "src": [
@@ -7264,7 +7266,8 @@ const VI={
   "infoChk": "2026-10-31",
   "logo": "https://flex.at/wp-content/uploads/2022/05/Flex-Logo-weiss.svg",
   "man": 1,
-  "ig": "https://www.instagram.com/flexvienna_official/"
+  "ig": "https://www.instagram.com/flexvienna_official/",
+  "accChk": "2026-11-23"
  },
  "Ottakringer Brauerei": {
   "src": [
@@ -7369,7 +7372,8 @@ const VI={
   "en": "Bar and live venue in railway arches 37–38 on the Lerchenfelder Gürtel (1080) – Vienna's hub for advanced electronic music and experimental rock, with concerts during the week and DJ nights at weekends.",
   "web": "https://rhiz.wien/",
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/rhizvienna/"
+  "ig": "https://www.instagram.com/rhizvienna/",
+  "accChk": "2026-11-23"
  },
  "kv.r.": {
   "src": [
@@ -7404,7 +7408,8 @@ const VI={
   ],
   "infoChk": "2026-11-15",
   "de": "Studio in der Preysinggasse in Rudolfsheim-Fünfhaus (1150). Spielort u. a. der Konzertreihe schweben von sama recordings und der Abschlussperformances der Eardrum-Residency von Ventil Records.",
-  "en": "Studio on Preysinggasse in Rudolfsheim-Fünfhaus (1150). Venue for, among others, the concert series schweben by sama recordings and the closing performances of Ventil Records' Eardrum residency."
+  "en": "Studio on Preysinggasse in Rudolfsheim-Fünfhaus (1150). Venue for, among others, the concert series schweben by sama recordings and the closing performances of Ventil Records' Eardrum residency.",
+  "accChk": "2026-11-23"
  },
  "Prater Dome": {
   "src": [
@@ -7449,7 +7454,8 @@ const VI={
   "alias": [
    "Altia Skybar"
   ],
-  "noLogo": "2026-11-15"
+  "noLogo": "2026-11-15",
+  "accChk": "2026-11-23"
  },
  "Event Arena Vösendorf": {
   "io": [
@@ -7536,7 +7542,8 @@ const VI={
    "https://www.vienna.at/wiener-otto-wagner-areal-bekommt-neue-zwischennutzer/9638579"
   ],
   "noLogo": "2026-11-15",
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "accChk": "2026-11-23"
  },
  "Loop": {
   "src": [
@@ -7699,7 +7706,8 @@ const VI={
    "https://www.goabase.net/party/maiden-voyage/118000"
   ],
   "noLogo": "2026-11-15",
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "accChk": "2026-11-23"
  },
  "BC Vienna Arena": {
   "io": [
@@ -7716,7 +7724,8 @@ const VI={
   "web": "https://www.hallmann-dome.at/",
   "opened": "1984",
   "noLogo": "2026-11-15",
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "accChk": "2026-11-23"
  },
  "WUK": {
   "web": "https://www.wuk.at",
@@ -7740,7 +7749,8 @@ const VI={
   "logo": "https://www.wuk.at/_assets/328332009003ebcdcb057b608a3f893a/Images/logo.svg",
   "src": [
    "https://www.wuk.at/en/offers/renting-spaces/"
-  ]
+  ],
+  "accChk": "2026-11-23"
  },
  "Creative Cluster Vienna": {
   "de": "Kuratierter, interdisziplinärer Inkubator für Kreativschaffende in einer ehemaligen Schule der Stadt Wien in Margareten; rund 140 Kreative auf über 3.600 m² (Malerei, Film, Tanz, Design, Musik).",
@@ -7752,7 +7762,8 @@ const VI={
   ],
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
-  "opened": "2019"
+  "opened": "2019",
+  "accChk": "2026-11-23"
  },
  "Gleis 19": {
   "alias": [
@@ -7781,7 +7792,8 @@ const VI={
   ],
   "web": "https://www.lot.wien/",
   "noLogo": "2026-11-16",
-  "infoChk": "2026-11-16"
+  "infoChk": "2026-11-16",
+  "accChk": "2026-11-23"
  },
  "Oktogon am Himmel": {
   "de": "Eventlocation am Himmel in Wien-Döbling (Himmelstraße 125, 1190).",
@@ -7811,7 +7823,8 @@ const VI={
   "logo": "https://www.krugerclub.at/wp-content/uploads/2026/06/KrugerClub_Site_Logo.png",
   "src": [
    "https://www.krugerclub.at/"
-  ]
+  ],
+  "accChk": "2026-11-23"
  },
  "Cupra City Garage": {
   "io": [
@@ -7850,7 +7863,8 @@ const VI={
   "io": [
    "Indoor"
   ],
-  "web": "https://www.stadthalle.com/"
+  "web": "https://www.stadthalle.com/",
+  "accChk": "2026-11-23"
  },
  "Babenberger Passage": {
   "io": [
