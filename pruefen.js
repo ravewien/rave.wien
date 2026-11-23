@@ -147,5 +147,25 @@ window.PRUEF=[
    "https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/o-der-klub-354372"
   ],
   "karten": []
+ },
+ {
+  "id": "loeschen-ev-2026-11-28-nine-circles-del",
+  "ts": "2026-11-23",
+  "lauf": "sonderlauf-events-e17",
+  "typ": "loeschen",
+  "titel": "Nine Circles · 28.11.2026 · Das Werk – nicht mehr im Programm",
+  "text": "Das Werk führt am Sa 28.11. auf daswerk.org/program und bei Techno Airlines nur noch „Dead End Showcase X GDN“; Nine Circles steht nur noch bei electronicdancemusic.at. Möglicherweise abgesagt oder ersetzt – keine Absage-Meldung gefunden.",
+  "links": [
+   "https://www.daswerk.org/program",
+   "https://www.technoairlines.com/club/das-werk-vienna",
+   "https://electronicdancemusic.at/kalender/wien/"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "ev",
+   "op": "delete",
+   "key": "2026-11-28-nine-circles",
+   "title": "Nine Circles"
+  }
  }
 ];
