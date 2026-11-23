@@ -6314,7 +6314,11 @@ const CI={
   "src": [
    "https://ungeniert.org/",
    "https://sexpositives.com/en/events/ungeniert-vol-5-wien-2026-12-05/"
-  ]
+  ],
+  "rules": {
+   "sexpos": 1
+  },
+  "man": 1
  },
  "the zound partisans": {
   "infoChk": "2026-11-15",
