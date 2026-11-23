@@ -106,9 +106,10 @@ window.PRUEF=[
   "lauf": "profil-lauf",
   "typ": "lineup",
   "titel": "Let It Roll On Tour Vienna (4.12.) – Lineup ergänzen?",
-  "text": "Das Event ist von dir gepflegt (manuell), deshalb ändern die Läufe das Lineup nicht selbst. RA nennt zusätzlich Delta Heavy, Black Sun Empire und Mandidextrous.",
+  "text": "Das Event ist von dir gepflegt (manuell), deshalb ändern die Läufe das Lineup nicht selbst. RA nennt zusätzlich Delta Heavy, Black Sun Empire und Mandidextrous. Achtung: Songkick führt Delta Heavy und Black Sun Empire am 4.12. im Exil Club in Wiener Neustadt – bitte prüfen, ob die drei wirklich in Wien spielen, bevor du übernimmst.",
   "links": [
-   "https://ra.co/events/2589983"
+   "https://ra.co/events/2589983",
+   "https://www.songkick.com/metro-areas/26771-austria-vienna/genre/electronic"
   ],
   "vorschlag": {
    "kind": "ev",
