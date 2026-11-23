@@ -123,5 +123,29 @@ window.PRUEF=[
     "rules.access": true
    }
   }
+ },
+ {
+  "id": "ort-funkhaus-barrierefreiheit-unklar",
+  "ts": "2026-11-23",
+  "lauf": "sonderlauf-vl-o04",
+  "typ": "ort",
+  "titel": "Funkhaus – Barrierefreiheit unklar",
+  "text": "Bei Open House Wien steht für die Führung durch das Funkhaus Argentinierstraße 30a „Barrierefreier Zugang: Nein“. Ob das auch für die Party-Räume von funkhaus.wien gilt, ist nicht belegt, daher nichts eingetragen.",
+  "links": [
+   "https://www.tagdesdenkmals.at/2026/denkmale/019fc28b-9222-7d51-9cdc-0f61b9041a66"
+  ],
+  "karten": []
+ },
+ {
+  "id": "ort-o-der-klub-stufenabgang",
+  "ts": "2026-11-23",
+  "lauf": "sonderlauf-vl-o04",
+  "typ": "ort",
+  "titel": "O der Klub – Stufenabgang",
+  "text": "wien.info beschreibt einen „Stufenabgang in den Club“. Ob es einen Lift oder einen anderen Zugang gibt, ist nicht belegt, daher nichts eingetragen.",
+  "links": [
+   "https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/o-der-klub-354372"
+  ],
+  "karten": []
  }
 ];
