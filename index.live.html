@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-qZJ0szFTBWtaWTedMSQ9SgscjZO1NcBKnITFhWCjYmI='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-q8Ty9DJgCJz7Os6R9BN/RTfMaE2//c2Tz9zru8Qf6J8='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -902,14 +902,7 @@ footer a:hover{color:var(--accent)}
 .opt.inc>.ico.sx{background:var(--sex);border-color:var(--sex);color:#1a0508}.opt.inc>.ico.aw{background:var(--aw);border-color:var(--aw);color:#1a1300}
 .opt.inc>.ico.od{background:var(--od);border-color:var(--od);color:#04140f}.opt.inc>.ico.np{background:#e9ecf1;border-color:#e9ecf1;color:#0b0d10}.opt.inc>.ico.lg{border-color:var(--lg)}
 .opt>.ico svg{width:12px;height:12px}
-.flagrow{display:flex;flex-wrap:wrap;gap:4px;justify-content:space-between;border-top:1px solid var(--line);padding-top:10px;margin-top:8px}
-.flagrow .opt.fic1{padding:4px;justify-content:center;border-radius:4px}
-.flagrow .opt.fic1::before{content:none}
-.flagrow .opt.fic1.exc{outline:1.5px solid var(--neg);outline-offset:1px}
-.flagrow .opt.fic1.inc{outline:1.5px solid var(--accent);outline-offset:1px}
-.flagrow .opt.fic1>.ico{width:26px;min-width:26px;height:26px}
-.flagrow .opt.fic1>.ico svg{width:16px;height:16px}
-.flagrow .opt.fic1.zero:not(.inc):not(.exc){opacity:.45}
+.flagrow{border-top:1px solid var(--line);padding-top:8px;margin-top:8px}
 .xhid{margin:0;padding:14px 16px;color:var(--mute);font-size:12.5px;text-align:center;border-top:1px solid var(--line)}
 /* UI/UX-Verbesserungen (Nov 2026) */
 /* 1+2 Favoriten-Stern: besser sichtbar, größere Tippfläche */
@@ -1590,8 +1583,8 @@ function renderSide(){
   const sideSc=mqMob.matches?$("sidein"):$("side"),sideTop=sideSc.scrollTop,winY=window.scrollY;
   const ae=document.activeElement,fk=ae&&ae.closest&&ae.closest("#trees")?(ae.dataset.flag?`[data-flag="${ae.dataset.flag}"]`:ae.dataset.k?`.opt[data-k="${ae.dataset.k}"][data-n="${CSS.escape(ae.dataset.n)}"]`:null):null;
   const base=EV.filter(e=>matches(e,"f"));
-  const prof=`<div class="flagrow" data-k="f">${
-    FLAGS.map(([k,c,lab,,ic])=>{const n=base.filter(e=>e[k]&&[...st.f].every(x=>e[x])&&![...st.x.f].some(x=>e[x])).length;return `<button class="opt fic1 ${fcls("f",k)}" data-flag="${k}" ${fattr("f",k)} title="${esc(l[lab])} · ${n}" aria-label="${esc(l[lab])} (${n})"><span class="ico ${c}" style="flex:none">${ic}</span></button>`}).join("")}</div>`;
+  const prof=`<div class="flagrow" data-k="f"><div class="opts">${
+    FLAGS.map(([k,c,lab,,ic])=>`<button class="opt ${fcls("f",k)}" data-flag="${k}" ${fattr("f",k)}><span class="ico ${c}" style="flex:none">${ic}</span><span>${l[lab]}</span><em>${base.filter(e=>e[k]&&[...st.f].every(x=>e[x])&&![...st.x.f].some(x=>e[x])).length}</em></button>`).join("")}</div></div>`;
   const groups=[["g",l.genres,e=>e.genres],["v",l.venues,e=>[e.venue]],["c",l.colls,e=>e.coll],["a",l.artists,e=>e.artists]];
   const X={f:prof};
   EXTRA.forEach(([k,fn,vals])=>{const b=EV.filter(e=>matches(e,k));const lab={src:l.fsrc,age:l.fage,price:l.fprice,time:l.ftime,io:l.fio}[k];
@@ -1736,7 +1729,7 @@ function bestSrc(e){const L0=(e.src||[]).filter(([k,u])=>k!=="man"&&/^https?:\/\
   const dom=u=>{try{return new URL(u).hostname.replace(/^www\./,"")}catch(_){return ""}};const vw=dom(((VINFO||{})[e.venue]||{}).web||"");
   return ((vw&&L0.find(([k,u])=>dom(u)===vw))||L0.find(([k])=>SORG.includes(k))||(e.vok&&L0[0])||L0.find(([k])=>k==="ra")||L0[0])[1]}
 function evPhase(e){const en=endTime(e);if(NOW>=en)return "done";const st0=new Date(e.d+"T"+(e.s||"22:00")+":00");return NOW>=st0?"live":""}
-function covLogo(e){if(!coversOn())return "";const cand=[VINFO[e.venue],...(e.coll||[]).map(c=>CINFO[c])].filter(Boolean);
+function covLogo(e){if(!coversOn())return "";const cand=[...(e.coll||[]).map(c=>CINFO[c]),VINFO[e.venue]].filter(Boolean);
   for(const vi of cand){if(vi.logo&&isLogo(vi.logo)){const f=logoFit(vi.logo);const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:(f&&f.bg)||"#000";
     return `<span class="covlg"${bg?` style="background:${bg}"`:""}><img src="${esc(vi.logo)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"${f?` style="${f.st}"`:""}></span>`}}return ""}
 function coverHTML(e){if(!(isImg(e.flyer)&&coversOn())){const lg=covLogo(e);if(lg)return `<span class="cov lgc ${evPhase(e)}" aria-hidden="true">${lg}</span>`}return `<span class="cov ${evPhase(e)}" aria-hidden="true"${isImg(e.flyer)&&coversOn()?` data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}"`:""}>${isImg(e.flyer)&&coversOn()?`<img src="${esc(e.flyer)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="covfb">${covLogo(e)}</span>`:""}</span>`}
