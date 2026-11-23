@@ -1,6 +1,11 @@
 name: Veranstalter-Bilder suchen
 on:
   workflow_dispatch:
+    inputs:
+      lt:
+        description: "Linktree-Liste Name=handle,..."
+        required: false
+        default: ""
 permissions:
   contents: write
 jobs:
@@ -12,6 +17,8 @@ jobs:
         with:
           node-version: 20
       - run: node .github/scripts/vbilder.js
+        env:
+          LT: ${{ inputs.lt }}
       - name: Ergebnis auf Nebenzweig ablegen (nicht main)
         run: |
           mkdir /tmp/o && cp vbilder.json /tmp/o/ && cd /tmp/o && git init -q -b vbilder && git config user.name "rave.wien Werkzeug" && git config user.email "ravewien@users.noreply.github.com"

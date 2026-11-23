@@ -13,7 +13,8 @@ async function lt(h){const r=await get("https://linktr.ee/"+h);if(r.st!==200)ret
 async function ig(h){const r=await get("https://www.instagram.com/"+h+"/");const o={src:"ig",page:"https://www.instagram.com/"+h+"/",st:r.st,final:r.url};if(r.st===200){o.img=meta(r.tx,"og:image");o.name=meta(r.tx,"og:title");o.desc=meta(r.tx,"og:description");
   o.links=[...new Set((r.tx.match(/https?:\\?\/\\?\/(?:linktr\.ee|soundcloud\.com|on\.soundcloud\.com|lnk\.bio|beacons\.ai)[^"'\s\\<]*/g)||[]).map(x=>x.replace(/\\\//g,"/")))].slice(0,5)}return o}
 async function web(u){const r=await get(u);if(r.st!==200)return null;const img=meta(r.tx,"og:image");return img?{src:"web",page:u,img,name:meta(r.tx,"og:title")||meta(r.tx,"og:site_name")}:null}
-(async()=>{const out={};const ents=Object.entries(c.CI).filter(([k,v])=>!v.logo&&(v.ig||v.sc||v.web));
+(async()=>{if(process.env.LT){const out={};for(const pr of process.env.LT.split(",")){const [k,h]=pr.split("=");const r=await get("https://linktr.ee/"+h);const m=(r.tx||"").match(/"profilePictureUrl":"([^"]+)"/);const t=(r.tx||"").match(/"pageTitle":"([^"]+)"/);out[k]={st:r.st,img:m?m[1].replace(/\\u002F/g,"/"):"",title:t?t[1]:""};await new Promise(r=>setTimeout(r,800))}fs.writeFileSync(path.join(root,"vbilder.json"),JSON.stringify(out,null,1));return}
+  const out={};const ents=Object.entries(c.CI).filter(([k,v])=>!v.logo&&(v.ig||v.sc||v.web));
   for(const [k,v] of ents){const cand=[];
     if(v.sc){const x=await sc(v.sc);if(x)cand.push(x)}
     const h=handle(v.ig);
