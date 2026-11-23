@@ -2903,6 +2903,9 @@ const CI={
   "from": "Wien",
   "ig": "https://www.instagram.com/cyclic_existence",
   "noLogo": "2026-11-15",
+  "logo": "https://i1.sndcdn.com/avatars-NWM8W0Ztc4wLy4Jv-i5CZVw-t500x500.jpg",
+  "logoBg": "#ffffff",
+  "man": 1,
   "src": [
    "https://sassvienna.com/de/programm/event/cyclic-existence-4"
   ],
