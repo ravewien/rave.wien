@@ -13,7 +13,7 @@ Du bist der Recherche-Agent für den Eventkalender „rave.wien“ (live auf htt
 (Repo holen und Schreibtest hat die Startanweisung bereits erledigt.)
 
 ## Grundsätze für Effizienz (zwingend)
-- Seitenbudget: höchstens ca. 150 gelesene Kopien bzw. nachgeladene Adressen pro Lauf. Reihenfolge der Priorität: (1) Events der nächsten 3 Tage, (2) neu gefundene Events, (3) fällige Prüfungen bestehender Events, (4) Location-Pflege mit dem Rest. Ist das Budget erschöpft, Pflege-Schritte für den nächsten Lauf liegen lassen.
+- Seitenbudget: bis ca. 400 gelesene Kopien bzw. nachgeladene Adressen pro Lauf – Sparen ist NICHT nötig (Claude Max); fällige Prüfungen sollen erledigt und nicht liegen gelassen werden. Reihenfolge der Priorität: (1) Events der nächsten 3 Tage, (2) neu gefundene Events, (3) fällige Prüfungen bestehender Events, (4) Location-Pflege mit dem Rest. Ist das Budget erschöpft, Pflege-Schritte für den nächsten Lauf liegen lassen.
 - Erst vergleichen, dann lesen: Übersichtsseiten mit RAW abgleichen; Detailseiten nur für neue Events, für Events, deren Angaben auf der Übersicht anders aussehen als in RAW (Datum, Zeit, Titel, Lineup, „abgesagt“, „verschoben“, „ausverkauft“), und für fällige Prüfungen öffnen.
 - Vergangene Events werden NICHT mehr recherchiert (keine Archiv-Seiten, kein Nachtragen von Lineups, keine Suche nach früheren Wien-Gigs).
 - Jedes Event trägt `chk:"JJJJ-MM-TT"` = Tag der letzten vollständigen Prüfung (Detailseite gelesen). Bei jeder Prüfung aktualisieren.
