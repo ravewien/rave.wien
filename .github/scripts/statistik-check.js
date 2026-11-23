@@ -2,7 +2,7 @@
 //   node .github/scripts/statistik-check.js [--liste eNN [--ab 25]]   (--ab: ab dem n-ten Event, für Folgelisten)
 // Ausgabe: Vergleich „kommende Events“ heute vs. vor ~3 Tagen (Anteile in %), Warnungen,
 // und mit --liste eine Sonderlauf-Liste .github/agent/listen/eNN.txt mit den Events der
-// nächsten 28 Tage, denen Genres, Preis, Lineup oder Flyer fehlen (höchstens 25).
+// nächsten 28 Tage, denen Genres, Preis, Lineup, Flyer oder Ticketlink fehlen (höchstens 25).
 const fs=require("fs"),path=require("path"),vm=require("vm");
 const R=path.resolve(__dirname,"..","..");
 const S=JSON.parse(fs.readFileSync(path.join(R,"stats.json"),"utf8"));
@@ -23,7 +23,7 @@ if(i>0){const id=process.argv[i+1];if(!/^e\d\d$/.test(id||"")){console.error("--
   const today=new Date().toLocaleDateString("sv-SE",{timeZone:"Europe/Vienna"});const end=new Date(Date.now()+28*864e5).toISOString().slice(0,10);
   const slug=t=>String(t).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/ß/g,"ss").replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
   const out=[];for(const e of c.RAW){if(e.d<today||e.d>end)continue;const f=[];
-    if(!(e.genres&&e.genres.length))f.push("genres");if(!e.price)f.push("price");if(!(e.floors||[]).some(x=>(x.a||[]).some(a=>a&&a!=="TBA")))f.push("lineup");if(!e.flyer)f.push("flyer");
+    if(!(e.genres&&e.genres.length))f.push("genres");if(!e.price)f.push("price");if(!(e.floors||[]).some(x=>(x.a||[]).some(a=>a&&a!=="TBA")))f.push("lineup");if(!e.flyer)f.push("flyer");if(!e.tickets&&!/frei|spende|free/i.test(e.price||""))f.push("tickets");
     if(!f.length)continue;out.push([(e.d+"-"+slug(e.title)).slice(0,60).replace(/-$/,""),e.d,e.venue||"",e.title,f.join(","),e.chk||"",(e.src||[]).map(s=>s[1]).slice(0,4).join(" ")].join("\t"))}
   const off=+(process.argv[process.argv.indexOf("--ab")+1]||0)*(process.argv.includes("--ab")?1:0);const L=out.slice(off,off+25);console.log("Lücken gesamt: "+out.length);fs.writeFileSync(path.join(R,".github/agent/listen",id+".txt"),`# Sonderlauf Events – Liste ${id} (${L.length}) – automatisch aus der Statistik-Kontrolle. Format: Schlüssel<TAB>Datum<TAB>Location<TAB>Titel<TAB>fehlt<TAB>zuletzt geprüft<TAB>Quellen\n`+L.join("\n")+"\n");
   console.log(`Liste ${id}: ${L.length} Events geschrieben`)}
