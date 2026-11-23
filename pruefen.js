@@ -192,5 +192,29 @@ window.PRUEF=[
     ]
    }
   }
+ },
+ {
+  "id": "genre-ev-2026-12-05-allowed-to-drift-genres",
+  "ts": "2026-11-23",
+  "lauf": "sonderlauf-events-e18",
+  "typ": "genre",
+  "titel": "allowed to drift · 05.12.2026 · The Inner Circle – Genres fehlen",
+  "text": "Weder Techno Airlines noch RA-Suchtreffer nennen Genres; Lineup (Gustuff, Experimental, Empat) ohne Profile. Die Inner Circle führt sonst vor allem Techno-Nächte (z. B. „100% techno“), daher Vermutung Techno.",
+  "links": [
+   "https://ra.co/events/2590644",
+   "https://www.technoairlines.com/events/vienna/2026-12"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "ev",
+   "op": "edit",
+   "key": "2026-12-05-allowed-to-drift",
+   "title": "allowed to drift",
+   "data": {
+    "genres": [
+     "Techno"
+    ]
+   }
+  }
  }
 ];
