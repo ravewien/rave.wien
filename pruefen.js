@@ -102,5 +102,26 @@ window.PRUEF=[
     "rules.access": true
    }
   }
+ },
+ {
+  "id": "ort-ven-otto-wagner-areal-rules-access",
+  "ts": "2026-11-23",
+  "lauf": "sonderlauf-vl-o05",
+  "typ": "ort",
+  "titel": "Otto Wagner Areal – rollstuhlgerecht?",
+  "text": "Wien Modern nennt für das Otto Wagner Areal nur Pavillon 10 (Lift an der Rückseite, barrierefreies WC). Unklar, ob das für alle Events am Areal (z. B. Party Modern MUK@OWA) gilt.",
+  "links": [
+   "https://www.wienmodern.at/accessibility"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "ven",
+   "op": "edit",
+   "key": "Otto Wagner Areal",
+   "title": "Otto Wagner Areal",
+   "data": {
+    "rules.access": true
+   }
+  }
  }
 ];
