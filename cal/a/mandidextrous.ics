@@ -26,6 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-04-let-it-roll-on-tour-vienna@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T220000
+DTEND;TZID=Europe/Vienna:20261205T070000
+SUMMARY:Let It Roll On Tour Vienna
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Mozey\, Delta Heavy\, Black Sun Empire\, Mandidextrous\nVeran
+ stalter: Memorandum\, Let It Roll\nEintritt: 55 €\n\nDas tschechische 
+ Drum-&-Bass-Festival Let It Roll feiert 25 Jahre und macht mit seiner 
+ „On Tour“-Reihe Station im Club Exil. Veranstalter Memorandum holt d
+ afür Mozey nach knapp zwei Jahren wieder nach Wien – bekannt für ene
+ rgiegeladene Sets\, in denen er alle Spielarten von Drum & Bass mit sein
+ em hüpfenden Jump-up-Stil mischt\, und für seinen Cowboyhut.\n\nhttps:
+ //rave.wien/e/2026-12-04-let-it-roll-on-tour-vienna
+URL:https://rave.wien/e/2026-12-04-let-it-roll-on-tour-vienna
+END:VEVENT
+BEGIN:VEVENT
 UID:2024-11-29-perspective-with-mandidextrous-uk@rave.wien
 DTSTAMP:20241129T000000Z
 DTSTART;VALUE=DATE:20241129
