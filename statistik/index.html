@@ -74,6 +74,7 @@ table.nt{font-family:var(--f-body);font-size:13px}
 </head><body><main>
 <h1>rave<i></i>wien<small>statistik</small></h1>
 <div class="sub" id="sub">Lade Daten …</div>
+<div class="sub" id="abr"></div>
 <div class="ctl">
   <div><span class="lab">Zeitraum</span><div class="seg" id="segR" role="group" aria-label="Zeitraum">
     <button type="button" data-r="all">Alle Events</button><button type="button" data-r="d7">Diese Woche</button><button type="button" data-r="d14">2 Wochen</button><button type="button" data-r="d28">4 Wochen</button><button type="button" data-r="up">Alle kommenden</button></div></div>
@@ -88,6 +89,14 @@ table.nt{font-family:var(--f-body);font-size:13px}
 </main>
 <script src="/vendor/chart.umd.js"></script>
 <script>
+// Lebenszeichen der Abrufe (GitHub-Abrufdienst und Raspberry Pi)
+(async()=>{const el=document.getElementById("abr");const st=async b=>{try{return await (await fetch(`https://raw.githubusercontent.com/ravewien/rave.wien/${b}/status.json?t=${Date.now()}`,{cache:"no-store"})).json()}catch(e){return null}};
+  const t=z=>new Date(z).toLocaleString("de-AT",{timeZone:"Europe/Vienna",weekday:"short",hour:"2-digit",minute:"2-digit"});const h=z=>(Date.now()-Date.parse(z))/36e5;
+  const [g,p]=await Promise.all([st("abruf"),st("abruf-pi")]);const out=[];
+  if(g)out.push(`<span${h(g.zeit)>30?' class="err"':''}>Abruf GitHub: ${t(g.zeit)} · ${g.ok}/${g.adressen} Seiten</span>`);
+  if(p&&p.zeit>"2001")out.push(`<span${h(p.zeit)>30?' class="err"':''}>Raspberry Pi: ${t(p.zeit)} · ${p.ok}/${p.adressen} Seiten${p.geaendert!=null?` (${p.geaendert} geändert)`:""}${p.ig_bilder?` · ${p.ig_bilder} Instagram-Bilder`:""}${h(p.zeit)>30?" – überfällig!":""}</span>`);
+  else out.push('<span>Raspberry Pi: noch kein Abruf</span>');
+  el.innerHTML=out.join(" &nbsp;·&nbsp; ")})();
 (async()=>{
 const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
 const COLS=[css("--s1"),css("--s2"),css("--s3"),css("--s4"),css("--s5"),css("--s6")],KC={note:COLS[0],bio:COLS[0],txt:COLS[0],price:COLS[1],lineup:COLS[2],genres:COLS[3],flyer:COLS[4],img:COLS[4],logo:COLS[4],links:COLS[5],web:COLS[5],tix:COLS[5],sets:css("--s7"),sp:css("--s8"),io:css("--s9")},SR=css("--srch"),LINE=css("--line"),FG=css("--fg"),MUTE=css("--mute"),ACC=css("--accent");

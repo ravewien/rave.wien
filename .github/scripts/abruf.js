@@ -38,6 +38,12 @@ if (!process.env.URLS) {
 
 const { text } = require("./abruf-text.js");
 
+// ---------- Änderungserkennung: Fingerabdruck des reinen Seitentexts (ohne Links/Bilder/__NEXT_DATA__), Vergleich mit dem vorigen Voll-Abruf
+const crypto = require("crypto");
+const finger = t => crypto.createHash("sha1").update(t.split("\n\n--- __NEXT_DATA__ ---")[0].replace(/<https?:[^>]*>/g, " ").replace(/\[Bild[^\]]*\]/g, " ").replace(/\s+/g, " ").toLowerCase()).digest("hex").slice(0, 16);
+let alt = {}; const neuH = {};
+const voll = !process.env.URLS;
+
 // ---------- Abruf
 const slug = u => u.replace(/^https?:\/\//, "").replace(/[^a-zA-Z0-9.-]+/g, "_").slice(0, 120);
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -57,16 +63,20 @@ async function hole(u, i) {
   if (!err && body) {
     const txt = /json/.test(typ) ? body.slice(0, 600000) : text(body, u);
     fs.writeFileSync(path.join(out, "seiten", f), `ADRESSE: ${u}\nABGERUFEN: ${new Date().toISOString()}\n\n` + txt);
-    idx.push([u, st, txt.length, f, ""]);
-  } else idx.push([u, st, 0, "", err || "leer"]);
+    let ge = "";
+    if (voll) { const h = finger(txt); const a = alt[u]; ge = a && a[0] === h ? a[1] : heute; neuH[u] = [h, ge]; }
+    idx.push([u, st, txt.length, f, "", ge]);
+  } else { if (voll && alt[u]) neuH[u] = alt[u]; idx.push([u, st, 0, "", err || "leer", ""]); }
 }
 (async () => {
+  if (voll) try { const r = await fetch("https://raw.githubusercontent.com/ravewien/rave.wien/abruf/hashes.json?t=" + Date.now()); if (r.ok) alt = await r.json(); } catch (_) {}
   let i = 0; const q = urls.slice(); const N = 8;
   await Promise.all(Array.from({ length: N }, async () => { while (q.length) { const u = q.shift(); await hole(u, ++i); } }));
   idx.sort((a, b) => a[3].localeCompare(b[3]) || a[0].localeCompare(b[0]));
-  fs.writeFileSync(path.join(out, "index.tsv"), "adresse\tstatus\tzeichen\tdatei\tfehler\n" + idx.map(r => r.join("\t")).join("\n") + "\n");
+  fs.writeFileSync(path.join(out, "index.tsv"), "adresse\tstatus\tzeichen\tdatei\tfehler\tgeaendert\n" + idx.map(r => r.join("\t")).join("\n") + "\n");
   const ok = idx.filter(r => !r[4]).length, bad = idx.filter(r => r[4]);
   const hosts = {}; bad.forEach(r => { const h = new URL(r[0]).host; (hosts[h] = hosts[h] || []).push(r[4]); });
   fs.writeFileSync(path.join(out, "status.json"), JSON.stringify({ zeit: new Date().toISOString(), adressen: idx.length, ok, fehler: bad.length, hosts: Object.fromEntries(Object.entries(hosts).map(([h, e]) => [h, { n: e.length, grund: [...new Set(e)].slice(0, 3) }])) }, null, 1));
+  if (voll) fs.writeFileSync(path.join(out, "hashes.json"), JSON.stringify(neuH));
   console.log(`fertig: ${ok} ok, ${bad.length} Fehler`);
 })();

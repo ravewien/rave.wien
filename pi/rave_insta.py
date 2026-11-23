@@ -14,6 +14,7 @@ Läuft auf dem Raspberry Pi alle 10 Minuten (cron). Zugangsdaten stehen nur loka
   python3 rave_insta.py passwort  # neues Instagram-Passwort eintragen und neu anmelden
   python3 rave_insta.py update    # sofort nach einer neuen Programmversion suchen
   python3 rave_insta.py abruf     # Event-Quellen jetzt abrufen (läuft sonst täglich ab ca. 05:25 von selbst)
+  python3 rave_insta.py auftrag   # offene Abruf-Aufträge aus der Warteschlange jetzt abarbeiten
   python3 rave_insta.py schluessel  # zeigt den Schlüssel, den du einmalig bei GitHub hinterlegst
 
 Abruf (Hauptsuche): Täglich ab ca. 05:25 holt der Pi alle Quellseiten (Clubprogramme, Portale, Eventseiten, Veranstalter-Websites)
@@ -21,6 +22,9 @@ von deinem Heimanschluss aus – Seiten, die GitHub/Claude oft gesperrt bekommen
 ra.co wird nicht abgerufen. Dazu lädt er ohne Anmeldung (ohne Cookies, NICHT mit dem rave.wien-Konto) ein paar Instagram-Profilbilder
 von Veranstaltern ohne Bild herunter (höchstens 30 am Tag, mit Pausen). Das Ergebnis geht verschlüsselt in den GitHub-Branch „abruf-pi“.
 Dafür braucht der Pi einmalig einen Schreib-Schlüssel bei GitHub (Deploy key) – siehe „schluessel“.
+Nur Änderungen: Der Pi merkt sich je Seite einen Fingerabdruck des Texts und meldet, welche Seiten sich seit dem letzten Abruf geändert haben.
+Warteschlange: Alle 10 Minuten schaut der Pi im GitHub-Branch „abruf-auftrag“ nach Aufträgen (Linklisten der automatischen Läufe) und liefert
+sie in „abruf-<id>-pi“ ab. Zwischendateien liegen im Arbeitsspeicher (/dev/shm) und werden nach jedem Lauf gelöscht.
 
 Story: Tagesposts gehen am Vortag um ca. 16 Uhr raus, ihre Story kurz nach Mitternacht am Veranstaltungstag (zufällig 00:02–00:20),
 damit die Story am Tag des Programms läuft; Zwischenposts 10–45 Minuten nach dem Post. Geteilt wird bei Tagesposts mit allen
@@ -38,7 +42,7 @@ import json, os, sys, time, random, logging, urllib.request, urllib.error, hashl
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-23.1"
+VERSION = "2026-11-23.2"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -498,15 +502,14 @@ def schluessel_text(pub):
             "4. Haken bei „Allow write access“ setzen → Add key.\n\n"
             "Der private Teil bleibt nur auf dem Pi (" + str(DEPLOY_KEY) + ").")
 
-def abruf_starten(state, now):
-    """Im normalen Lauf: Abruf einmal täglich im Hintergrund starten (blockiert das Posten nicht)."""
-    w = wien_jetzt(); heute = w.strftime("%Y-%m-%d")
-    if state.get("abruf_tag") == heute or (w.hour, w.minute) < ABRUF_AB or w.hour >= ABRUF_BIS:
-        return
-    state["abruf_tag"] = heute; save_state(state)
-    subprocess.Popen([sys.executable, str(SELF), "abruf"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
-                     stdin=subprocess.DEVNULL, start_new_session=True)
-    say("Abruf im Hintergrund gestartet")
+def abruf_starten():
+    """Im normalen Lauf: täglichen Abruf einmal im Hintergrund starten; sonst offene Aufträge abarbeiten (blockiert das Posten nicht)."""
+    w = wien_jetzt(); heute = w.strftime("%Y-%m-%d"); a = lade_a()
+    if a.get("abruf_tag") != heute and ABRUF_AB <= (w.hour, w.minute) and w.hour < ABRUF_BIS:
+        a["abruf_tag"] = heute; speichere_a(a)
+        hintergrund("abruf"); say("Abruf im Hintergrund gestartet"); return
+    if DEPLOY_KEY.exists() and auftraege_offen(a):
+        hintergrund("auftrag")
 
 def _hole(url, timeout=25, binary=False):
     """Ein Abruf ohne Cookies (jedes Mal frisch, keine Anmeldung)."""
@@ -527,12 +530,16 @@ def _hole(url, timeout=25, binary=False):
 def _slug(u):
     return re.sub(r"[^a-zA-Z0-9.-]+", "_", re.sub(r"^https?://", "", u))[:120]
 
-def seiten_abrufen(urls, ordner):
+def seiten_abrufen(urls, ordner, merken=False):
     import threading
     from concurrent.futures import ThreadPoolExecutor
     from urllib.parse import urlparse
     (ordner / "seiten").mkdir(parents=True, exist_ok=True)
     letzt = {}; sperre = threading.Lock(); idx = []
+    heute = wien_jetzt().strftime("%Y-%m-%d"); alt = {}; neu = {}
+    if merken:
+        try: alt = json.loads(HASHES.read_text())
+        except Exception: alt = {}
     def eins(i_u):
         i, u = i_u; h = urlparse(u).netloc
         with sperre:
@@ -546,17 +553,23 @@ def seiten_abrufen(urls, ordner):
             elif not body: err = "leer"
         except Exception as e:
             err = "Zeitüberschreitung" if "timed out" in str(e) else str(e)[:120]
-        f = ""
+        f = ""; ge = ""
+        if not err and merken:
+            h = finger(body); v = alt.get(u); ge = v[1] if v and v[0] == h else heute
+            with sperre: neu[u] = [h, ge]
+        elif merken and u in alt:
+            with sperre: neu[u] = alt[u]
         if not err:
             f = f"{i:04d}_{_slug(u)}.html"
             (ordner / "seiten" / f).write_text(f"ADRESSE: {u}\nABGERUFEN: {datetime.now(timezone.utc).isoformat()}\nTYP: {typ}\n\n{body}", encoding="utf-8")
         with sperre:
-            idx.append([u, str(st), str(len(body)), f, err])
+            idx.append([u, str(st), str(len(body)), f, err, ge])
     with ThreadPoolExecutor(6) as ex:
         list(ex.map(eins, enumerate(urls, 1)))
     idx.sort(key=lambda r: (r[3], r[0]))
-    (ordner / "index.tsv").write_text("adresse\tstatus\tzeichen\tdatei\tfehler\n" + "\n".join("\t".join(r) for r in idx) + "\n", encoding="utf-8")
-    ok = sum(1 for r in idx if not r[4]); return ok, len(idx) - ok
+    (ordner / "index.tsv").write_text("adresse\tstatus\tzeichen\tdatei\tfehler\tgeaendert\n" + "\n".join("\t".join(r) for r in idx) + "\n", encoding="utf-8")
+    if merken: HASHES.write_text(json.dumps(neu))
+    ok = sum(1 for r in idx if not r[4]); return ok, len(idx) - ok, sum(1 for r in idx if r[5] == heute)
 
 def ig_bilder(liste, ordner, state):
     """Instagram-Profilbilder ohne Anmeldung (keine Cookies, nicht das rave.wien-Konto). Hört beim ersten Zeichen von Bremsen auf."""
@@ -591,7 +604,7 @@ def ig_bilder(liste, ordner, state):
         except Exception as e:
             erl[h] = heute + " fehler"; log.warning(f"Instagram-Bild {h}: {e}")
     (ordner / "ig" / "index.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
-    save_state(state); return n
+    speichere_a(state); return n
 
 def verschluesseln(daten, pem):
     """Gleiches Format wie abruf-krypt.js (RWA1: RSA-OAEP-SHA256 + AES-256-GCM)."""
@@ -603,51 +616,139 @@ def verschluesseln(daten, pem):
     ek = PKCS1_OAEP.new(RSA.import_key(pem), hashAlgo=SHA256).encrypt(key)
     return b"RWA1" + len(ek).to_bytes(2, "big") + ek + iv + tag + enc
 
-def abruf(state):
-    import tarfile, tempfile, shutil, io
+ABRUF_STATE = HOME / "abruf_state.json"     # eigener Merkzettel des Abrufs – der Abruf fasst state.json (Posts) NIE an
+HASHES = HOME / "abruf_hash.json"           # Fingerabdruck je Seite: erkennt, was sich seit dem letzten Abruf geändert hat
+AUFTRAG_MAX_URLS = 40
+AUFTRAG_MAX_ALTER = timedelta(hours=3)
+NIE_ABRUFEN = re.compile(r"(^|\.)(ra\.co|instagram\.com|facebook\.com|fb\.me|tiktok\.com)$")
+
+def lade_a():
+    try: return json.loads(ABRUF_STATE.read_text())
+    except Exception: return {}
+
+def speichere_a(a):
+    ABRUF_STATE.write_text(json.dumps(a, indent=1, ensure_ascii=False))
+
+def finger(html):
+    """Fingerabdruck des sichtbaren Texts (ohne Skripte, Tags, Leerraum) – ändert sich nur, wenn sich der Inhalt ändert."""
+    t = re.sub(r"(?is)<(script|style|noscript|svg|template|iframe)\b.*?</\1>", " ", html)
+    t = re.sub(r"(?s)<!--.*?-->", " ", t); t = re.sub(r"<[^>]+>", " ", t)
+    return hashlib.sha1(re.sub(r"\s+", " ", t).lower().encode("utf-8", "replace")).hexdigest()[:16]
+
+def arbeitsordner():
+    """Zwischendateien im Arbeitsspeicher (/dev/shm), wenn dort genug Platz ist – schont die SD-Karte. Wird nach dem Lauf gelöscht."""
+    import tempfile, shutil
+    for alt in list(Path("/dev/shm").glob("rave-abruf-*")) + list(Path(tempfile.gettempdir()).glob("rave-abruf-*")):
+        try:
+            if time.time() - alt.stat().st_mtime > 6 * 3600: shutil.rmtree(alt, ignore_errors=True)   # Reste abgebrochener Läufe
+        except OSError: pass
+    try:
+        if shutil.disk_usage("/dev/shm").free > 400 * 1024 * 1024:
+            return tempfile.TemporaryDirectory(prefix="rave-abruf-", dir="/dev/shm")
+    except Exception: pass
+    return tempfile.TemporaryDirectory(prefix="rave-abruf-")
+
+def ablegen(roh, ziel, status, branch, a):
+    """Verschlüsselt den Ordner roh, legt ihn mit status.json im GitHub-Branch ab. True = geklappt."""
+    import tarfile, io
+    pub = schluessel_anlegen()
+    pem = fetch(RAW + "main/.github/abruf/abruf-public.pem", binary=True)
+    (roh / "status.json").write_text(json.dumps(status))
+    buf = io.BytesIO()
+    with tarfile.open(fileobj=buf, mode="w:gz") as tf:
+        tf.add(roh, arcname=".")
+    (ziel / "abruf.enc").write_bytes(verschluesseln(buf.getvalue(), pem))
+    (ziel / "status.json").write_text(json.dumps(status, indent=1))
+    g = lambda *x: subprocess.run(["git", *x], cwd=ziel, capture_output=True, text=True, timeout=300,
+                                  env={**os.environ, "GIT_SSH_COMMAND": f"ssh -i {DEPLOY_KEY} -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new"})
+    g("init", "-q", "-b", branch); g("config", "user.name", "rave.wien Pi"); g("config", "user.email", "pi@rave.wien")
+    g("add", "-A"); g("commit", "-q", "-m", f"Pi-Abruf {status['zeit'][:16]}")
+    r = g("push", "-q", "-f", GIT_ZIEL, f"HEAD:refs/heads/{branch}")
+    if r.returncode == 0:
+        return True
+    say(f"Ablegen bei GitHub fehlgeschlagen: {r.stderr.strip()[-200:]}")
+    if any(w in r.stderr.lower() for w in ("denied", "permission", "publickey")):
+        problem_mail(a, "abruf schluessel", "🔑 rave.wien Pi: einmalig Schlüssel bei GitHub eintragen", schluessel_text(pub))
+    else:
+        problem_mail(a, "abruf push " + wien_jetzt().strftime("%Y-%m-%d"), "⚠️ rave.wien Pi: Abruf nicht abgelegt", r.stderr.strip()[-600:])
+    return False
+
+def _sperre():
     if ABRUF_LOCK.exists():
         try:
-            os.kill(int(ABRUF_LOCK.read_text()), 0); say("Abruf läuft schon"); return
+            os.kill(int(ABRUF_LOCK.read_text()), 0); return False
         except Exception:
             pass
-    ABRUF_LOCK.write_text(str(os.getpid()))
+    ABRUF_LOCK.write_text(str(os.getpid())); return True
+
+def abruf():
+    """Täglicher Voll-Abruf. Läuft als eigener Prozess; merkt sich alles in abruf_state.json (nicht in state.json)."""
+    import shutil
+    if not _sperre():
+        say("Abruf läuft schon"); return
+    a = lade_a()
     try:
         if not shutil.which("git"):
-            problem_mail(state, "abruf git", "⚠️ rave.wien Pi: git fehlt", "Für den täglichen Abruf braucht der Pi das Programm git.\n\nBitte einmal am Pi ausführen:  sudo apt install -y git")
+            problem_mail(a, "abruf git", "⚠️ rave.wien Pi: git fehlt", "Für den täglichen Abruf braucht der Pi das Programm git.\n\nBitte einmal am Pi ausführen:  sudo apt install -y git")
             return
-        pub = schluessel_anlegen()
         auftrag = fetch(RAW + "abruf/adressen.json")
-        pem = fetch(RAW + "main/.github/abruf/abruf-public.pem", binary=True)
         t0 = time.time()
-        with tempfile.TemporaryDirectory() as td:
-            td = Path(td); roh = td / "roh"; roh.mkdir()
-            ok, fehler = seiten_abrufen(auftrag.get("urls", []), roh)
-            ziel = td / "br"; ziel.mkdir()
-            n_ig = ig_bilder(auftrag.get("ig", []), ziel, state)
-            status = {"zeit": datetime.now(timezone.utc).isoformat(), "quelle": "Raspberry Pi", "version": VERSION,
-                      "adressen": ok + fehler, "ok": ok, "fehler": fehler, "ig_bilder": n_ig, "dauer_s": int(time.time() - t0)}
-            (roh / "status.json").write_text(json.dumps(status))
-            buf = io.BytesIO()
-            with tarfile.open(fileobj=buf, mode="w:gz") as tf:
-                tf.add(roh, arcname=".")
-            (ziel / "abruf.enc").write_bytes(verschluesseln(buf.getvalue(), pem))
-            (ziel / "status.json").write_text(json.dumps(status, indent=1))
-            g = lambda *a: subprocess.run(["git", *a], cwd=ziel, capture_output=True, text=True, timeout=300,
-                                          env={**os.environ, "GIT_SSH_COMMAND": f"ssh -i {DEPLOY_KEY} -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new"})
-            g("init", "-q", "-b", "abruf-pi"); g("config", "user.name", "rave.wien Pi"); g("config", "user.email", "pi@rave.wien")
-            g("add", "-A"); g("commit", "-q", "-m", f"Pi-Abruf {status['zeit'][:16]}")
-            r = g("push", "-q", "-f", GIT_ZIEL, "HEAD:refs/heads/abruf-pi")
-            if r.returncode != 0:
-                say(f"Ablegen bei GitHub fehlgeschlagen: {r.stderr.strip()[-200:]}")
-                if "denied" in r.stderr.lower() or "permission" in r.stderr.lower() or "publickey" in r.stderr.lower():
-                    problem_mail(state, "abruf schluessel", "🔑 rave.wien Pi: einmalig Schlüssel bei GitHub eintragen", schluessel_text(pub))
-                else:
-                    problem_mail(state, "abruf push " + wien_jetzt().strftime("%Y-%m-%d"), "⚠️ rave.wien Pi: Abruf nicht abgelegt", r.stderr.strip()[-600:])
+        with arbeitsordner() as td:
+            td = Path(td); roh = td / "roh"; roh.mkdir(); ziel = td / "br"; ziel.mkdir()
+            ok, fehler, geaendert = seiten_abrufen(auftrag.get("urls", []), roh, merken=True)
+            n_ig = ig_bilder(auftrag.get("ig", []), ziel, a)
+            status = {"zeit": datetime.now(timezone.utc).isoformat(), "quelle": "Raspberry Pi", "version": VERSION, "adressen": ok + fehler,
+                      "ok": ok, "fehler": fehler, "geaendert": geaendert, "ig_bilder": n_ig, "dauer_s": int(time.time() - t0)}
+            if not ablegen(roh, ziel, status, "abruf-pi", a):
                 return
-        say(f"Abruf fertig: {ok} Seiten ok, {fehler} Fehler, {n_ig} Instagram-Bilder, {status['dauer_s']} s")
-        state["abruf_ok"] = status["zeit"]
+        say(f"Abruf fertig: {ok} Seiten ok ({geaendert} geändert), {fehler} Fehler, {n_ig} Instagram-Bilder, {status['dauer_s']} s")
+        a["abruf_ok"] = status["zeit"]
     finally:
-        ABRUF_LOCK.unlink(missing_ok=True); save_state(state)
+        ABRUF_LOCK.unlink(missing_ok=True); speichere_a(a)
+
+def auftraege_offen(a=None):
+    """Aufträge aus der Warteschlange (GitHub-Branch abruf-auftrag), die noch nicht erledigt und nicht zu alt sind."""
+    a = a if a is not None else lade_a()
+    try:
+        liste = fetch(RAW + "abruf-auftrag/auftraege.json")
+    except Exception:
+        return []
+    erl = a.get("auftraege", {}); now = datetime.now(timezone.utc); out = []
+    for x in liste if isinstance(liste, list) else []:
+        try:
+            if re.fullmatch(r"n[a-z0-9]{6,20}", x["id"]) and x["id"] not in erl and now - datetime.fromisoformat(x["zeit"].replace("Z", "+00:00")) < AUFTRAG_MAX_ALTER:
+                out.append(x)
+        except Exception:
+            continue
+    return out
+
+def auftraege():
+    """Arbeitet die Warteschlange ab: je Auftrag die Seiten holen und im Branch abruf-<id>-pi ablegen."""
+    from urllib.parse import urlparse
+    if not _sperre():
+        return   # der tägliche Abruf läuft gerade – der nächste Lauf (10 Minuten) nimmt die Aufträge
+    a = lade_a()
+    try:
+        for x in auftraege_offen(a):
+            urls = [u for u in x.get("urls", []) if isinstance(u, str) and re.match(r"https?://", u) and not NIE_ABRUFEN.search(urlparse(u).netloc.lower())][:AUFTRAG_MAX_URLS]
+            t0 = time.time()
+            with arbeitsordner() as td:
+                td = Path(td); roh = td / "roh"; roh.mkdir(); ziel = td / "br"; ziel.mkdir()
+                ok, fehler, _ = seiten_abrufen(urls, roh)
+                status = {"zeit": datetime.now(timezone.utc).isoformat(), "quelle": "Raspberry Pi", "version": VERSION, "auftrag": x["id"],
+                          "adressen": ok + fehler, "ok": ok, "fehler": fehler, "dauer_s": int(time.time() - t0)}
+                if not ablegen(roh, ziel, status, f"abruf-{x['id']}-pi", a):
+                    return
+            a.setdefault("auftraege", {})[x["id"]] = status["zeit"]; speichere_a(a)
+            say(f"Auftrag {x['id']}: {ok} Seiten ok, {fehler} Fehler")
+        alt = (datetime.now(timezone.utc) - timedelta(days=2)).isoformat()
+        a["auftraege"] = {k: v for k, v in a.get("auftraege", {}).items() if v > alt}
+    finally:
+        ABRUF_LOCK.unlink(missing_ok=True); speichere_a(a)
+
+def hintergrund(befehl):
+    subprocess.Popen([sys.executable, str(SELF), befehl], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+                     stdin=subprocess.DEVNULL, start_new_session=True)
 
 def main():
     cmd = sys.argv[1] if len(sys.argv) > 1 else "lauf"
@@ -677,7 +778,9 @@ def main():
     if cmd == "login":
         client(interactive=True); say("Anmeldung gespeichert."); save_state(state); return
     if cmd == "abruf":
-        abruf(state); return
+        abruf(); return
+    if cmd == "auftrag":
+        auftraege(); return
     if cmd == "schluessel":
         print(schluessel_text(schluessel_anlegen())); return
     if cmd == "pause":
@@ -686,7 +789,7 @@ def main():
         PAUSE.unlink(missing_ok=True); say("Automatisches Posten läuft wieder."); return
     if cmd == "lauf":
         try:
-            abruf_starten(state, now)
+            abruf_starten()
         except Exception as e:
             log.error(f"Abruf-Start fehlgeschlagen: {e}")
     try:

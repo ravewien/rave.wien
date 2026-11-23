@@ -71,7 +71,8 @@ for (const t of ["AR", "CI", "VI"]) {
 for (const [n, a] of Object.entries(patch.V || {})) { if (!D.V[n] || D.V[n] === "Wien") { D.V[n] = a; changed++; } }
 for (const [n, g] of Object.entries(patch.CG || {})) { const cur = D.CG[n] || []; const out = cur.slice(); (g || []).forEach(x => out.includes(x) || out.push(x)); if (out.length !== cur.length) { D.CG[n] = out; changed++; } }
 let kcNew = false;
-for (const n of patch.KC || []) if (!D.KC.some(x => key(x) === key(n))) { D.KC.push(n); changed++; kcNew = true; }
+const ciCanon = (() => { const m = {}; Object.entries(D.CI || {}).forEach(([n, v]) => { m[key(n)] = n; [].concat((v && v.alias) || []).forEach(a => { if (!m[key(a)]) m[key(a)] = n; }); }); return n => m[key(n)] || n; })();   // Alias → Hauptname (keine Veranstalter-Dubletten)
+for (const n0 of patch.KC || []) { const n = ciCanon(n0); if (!D.KC.some(x => key(x) === key(n) || ciCanon(x) === n)) { D.KC.push(n); changed++; kcNew = true; } }
 if (kcNew) D.KC.sort((a, b) => a.localeCompare(b, "de", { sensitivity: "base" }));
 for (const [k, name] of Object.entries(patch.S || {})) { if (D.S && typeof name === "string" && name.trim() && /^[a-z0-9]{1,8}$/.test(k) && D.S[k] === undefined) { D.S[k] = name.trim(); changed++; } }
 for (const k of patch.SO || []) { if (Array.isArray(D.SO) && typeof k === "string" && D.S && D.S[k] !== undefined && !D.SO.includes(k)) { D.SO.push(k); changed++; } }
@@ -139,6 +140,7 @@ if (hasEV) {
       if (dup) { const add = Object.assign({}, e); delete add.d; delete add.title; delete add.venue; mergeEv(dup, add, true); log.push(`NEU gibt es schon (nur ergänzt): ${e.d} ${e.venue} – ${e.title}  ≙  ${dup.title}`); continue; }
       D.RAW.push(e); changed++; log.push(`NEU: ${e.d} ${e.venue} – ${e.title}`);
     }
+    D.RAW.forEach(e => { if (Array.isArray(e.coll)) { const c2 = [...new Set(e.coll.map(ciCanon))]; if (JSON.stringify(c2) !== JSON.stringify(e.coll)) { e.coll = c2; changed++; } } });
     D.RAW.sort((a, b) => (a.d + (a.s || "99")).localeCompare(b.d + (b.s || "99")));
   }
 }
