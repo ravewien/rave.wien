@@ -63,6 +63,18 @@ DESCRIPTION:Baran Kok\, DjBounty3000\, Stinny Stone\, Icydeoz\, Vivienna\
 URL:https://rave.wien/e/2025-02-15-tattu-tatta-glub
 END:VEVENT
 BEGIN:VEVENT
+UID:2025-06-18-polyamor-vienna@rave.wien
+DTSTAMP:20250618T000000Z
+DTSTART;VALUE=DATE:20250618
+DTEND;VALUE=DATE:20250619
+SUMMARY:Polyamor Vienna
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Cleopard2000\, Elotrance\, Justin Tinderdate\, Vivienna\, Cha
+ ya\, Armin Hermann\, Serafin\nVeranstalter: Polyamor\n\nhttps://rave.wie
+ n/e/2025-06-18-polyamor-vienna
+URL:https://rave.wien/e/2025-06-18-polyamor-vienna
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-02-14-tattu-tatta-glub-goat-ball@rave.wien
 DTSTAMP:20260214T000000Z
 DTSTART;VALUE=DATE:20260214

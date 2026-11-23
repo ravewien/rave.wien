@@ -26,6 +26,32 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-06-biosphere-the-techno-spirit-of-1997@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T220000
+DTEND;TZID=Europe/Vienna:20261107T060000
+SUMMARY:Biosphere – The Techno Spirit of 1997
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Sam Paganini\, The Advent\, Joro & Joabo\, Elex Red\, Tolaris
+ \, MC Mars\, MC Spot\, Anna Ullrich\, MARØ\, Who is Ela¿\, DORAH\, DJ 
+ SDRICCI\, Marilou\, Raphael Warg\, LIVA\nVeranstalter: Fluffig\nEintritt
+ : ab 33 € (Zündung 1 ausverkauft)\n\nBIOSPHERE – The Techno Spirit 
+ of 1997 lässt den Geist der Wiener Rave-Szene der 90er wieder aufleben:
+  „90s Acid Techno meets Cosmic Rave“\, 8 Stunden auf 3 Floors im Clu
+ b Exil in Vösendorf (22:00–06:00\, ab 20). Auf dem Bridge Floor spiel
+ en der Italiener Sam Paganini (Treviso\; bekannt für „Zoe“ und „R
+ ave“\, Releases auf Drumcode) und The Advent (London\, Raw Techno/Elec
+ tro)\, dazu Joro & Joabo\, Elex Red und Tolaris sowie live die MCs MC Ma
+ rs und MC Spot. Den Maschinenraum gestaltet Fluffig mit Anna Ullrich (Te
+ chno\, Bounce\, Trance)\, MARØ\, WHO IS ELA¿ und DORAH (Hard Bounce\, 
+ Hard Techno). Im Cyberspace Artist Lab (in Kooperation mit Dancemalschut
+ z) stehen Mentor DJ SDRICCI und ausgewählte Newcomer wie Marilou (Thess
+ aloniki)\, LĪVA und Raphael Warg. Erste Ticketstufe (33 €) ausverkauf
+ t\, Tickets über StageDates.\n\nhttps://rave.wien/e/2026-11-06-biospher
+ e-the-techno-spirit-of-1997
+URL:https://rave.wien/e/2026-11-06-biosphere-the-techno-spirit-of-1997
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-07-disconnected-from-the-present@rave.wien
 DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Vienna:20261107T230000

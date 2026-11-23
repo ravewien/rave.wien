@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//rave.wien//Kalender//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:KRISTUS · rave.wien
+X-WR-CALNAME:Kristus · rave.wien
 X-WR-TIMEZONE:Europe/Vienna
 X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
@@ -32,7 +32,7 @@ DTSTART;TZID=Europe/Vienna:20261128T230000
 DTEND;TZID=Europe/Vienna:20261129T040000
 SUMMARY:DEAD END Showcase with Paralich pres. by GDN
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Paralich\, THIRD 2HIFT\, Valenthin\, DJ Wifi\, KRISTUS\, LUZZ
+DESCRIPTION:Paralich\, THIRD 2HIFT\, Valenthin\, DJ Wifi\, Kristus\, LUZZ
  T\nVeranstalter: GDN\n\nGDN (Gesindel der Nacht) präsentiert im Werk ei
  nen DEAD END Showcase mit Paralich als Hauptact. Außerdem stehen THIRD 
  2HIFT\, Valenthin\, DJ Wifi und LUZZT im Line-up. Das Programm des Werks
@@ -43,6 +43,25 @@ DESCRIPTION:Paralich\, THIRD 2HIFT\, Valenthin\, DJ Wifi\, KRISTUS\, LUZZ
  se-with-paralich-pres-by-gdn
 URL:https://rave.wien/e/2026-11-28-dead-end-showcase-with-paralich-pres-b
  y-gdn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-pink-mayhem-hardtechno-halloween@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T230000
+DTEND;TZID=Europe/Vienna:20261101T060000
+SUMMARY:Pink Mayhem – Hardtechno Halloween
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Pinklotion\, Kristus\, Bludhound\, Gopnikbarbie\, Meltdown\, 
+ Hello Kiffy\nVeranstalter: Pink Mayhem\nEintritt: 5 € vor 0 Uhr / 10 
+ € danach (nur AK)\n\nPink Mayhem lädt zum dritten Hardtechno-Hallowee
+ n-Special aufs FLUCC Deck – laut\, hart und sehr verschwitzt. Zum Auft
+ akt spielen Pinklotion b2b Kristus (23–01 Uhr)\, danach Bludhound b2b 
+ Gopnikbarbie (01–03 Uhr)\, Meltdown (03–04:30 Uhr) und zum Closing H
+ ello Kiffy (04:30–06 Uhr). Kostüme sind erwünscht. Tickets nur an de
+ r Abendkasse\, first come\, first served: 5 € vor Mitternacht\, danach
+  10 €. Das Awareness-Team erkennt man an Lichterketten.\n\nhttps://rav
+ e.wien/e/2026-10-31-pink-mayhem-hardtechno-halloween
+URL:https://rave.wien/e/2026-10-31-pink-mayhem-hardtechno-halloween
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31-halloween-special@rave.wien
@@ -62,5 +81,26 @@ DESCRIPTION:Joey\, Crystal O\, Rantom\, LUZZT\, Dj Wifi\, Arman Shadow\,
  d einen Beschreibungstext veröffentlicht die Location nicht.\n\nhttps:/
  /rave.wien/e/2026-10-31-halloween-special
 URL:https://rave.wien/e/2026-10-31-halloween-special
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-gdn-klubnacht-w-tham@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T230000
+DTEND;TZID=Europe/Vienna:20261107T040000
+SUMMARY:GDN Klubnacht w/ Tham
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:THAM\, Anatol\, Hello Kiffy\, High on Melancholia\, Kristus\,
+  LavendL\, MATIVIO\nVeranstalter: GDN\nEintritt: ab 12 €\n\nDie nächs
+ te GDN Klubnacht im Werk: Die Berliner Künstlerin THAM übernimmt den M
+ ainfloor mit groovigem Techno. Den Rest der Nacht bestreiten GDN-Residen
+ ts und Freund*innen des Kollektivs – ANATOL\, Hello Kiffy\, High on Me
+ lancholia\, KRISTUS\, LavendL und MATIVIO – mit Techno\, Hardgroove\, 
+ Schranz und Hardbounce. Ein geschultes Awareness-Team ist vor Ort (rote 
+ oder blaue Leuchtbänder am Arm\, rot mit zusätzlicher medizinischer Au
+ sbildung). Strikte No-Photo-Policy: Handykameras werden abgeklebt\, eine
+  Fotobox steht bereit\; kein Platz für Homo- und Transphobie\, Rassismu
+ s und Sexismus. Tickets ab 12 € über Eventim Light.\n\nhttps://rave.w
+ ien/e/2026-11-06-gdn-klubnacht-w-tham
+URL:https://rave.wien/e/2026-11-06-gdn-klubnacht-w-tham
 END:VEVENT
 END:VCALENDAR

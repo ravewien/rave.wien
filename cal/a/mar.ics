@@ -26,6 +26,66 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-27-bassbussi-allstars-3-years-anniversary@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T230000
+DTEND;TZID=Europe/Vienna:20261128T060000
+SUMMARY:Bassbussi Allstars – 3 Years Anniversary
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Oben: Andrew Ahmed\, Sluzy\, PartyPauli\, maro\, Arman Shadow
+ \, Leanne\nUnten: Ave Maria\, Christella\, WO.IZZY\, DJ Parkverbot\, Asc
+ henbrenner\, Zeq\, Anatol\, Pinklotion\nVeranstalter: Bassbussi\nEintrit
+ t: 15 €\n\nBassbussi feiert den dritten Geburtstag im The Loft mit ein
+ em „BB-Allstars B2B Special“: drei Jahre Bass\, Nächte am Dancefloo
+ r und gemeinsame Erinnerungen. Oben spielen Andrew Ahmed b2b Sluzy\, Par
+ tyPauli b2b Maro und Arman Shadow b2b Leanne\, unten Ave Maria b2b Chris
+ tella\, WO.IZZY b2b DJ Parkverbot\, Aschenbrenner b2b Zeq und Anatol b2b
+  Pinklotion – alle Sets als B2B. Start 23:00\, Eintritt 15 €. Set-Ze
+ iten\, Ende und Mindestalter nennt die Location nicht.\n\nhttps://rave.w
+ ien/e/2026-11-27-bassbussi-allstars-3-years-anniversary
+URL:https://rave.wien/e/2026-11-27-bassbussi-allstars-3-years-anniversary
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-krampus-rave-by-krawall@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T235900
+DTEND;TZID=Europe/Vienna:20261206T053000
+SUMMARY:KRAMPUS RAVE by KRAWALL
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:TONKS\, MARØ\, Elyante\, Schana\, Kippenhaus\, Jokkel\, Evi 
+ B\, DJ Hueftschwung\nVeranstalter: KRAWALL\nEintritt: 10 € (AK)\n\nDas
+  Kölner Kollektiv KRAWALL gibt mit dem Krampus Rave sein internationale
+ s Debüt im Club Lucia und bringt seine komplette Kölner Resident-Crew 
+ (Elyante\, Schana\, Kippenhaus\, Jokkel\, Evi B\, DJ Hueftschwung) nach 
+ Wien. Anlass sind vier Jahre KRAWALL-Partys mit elektronischer Musik. Al
+ s lokale Unterstützung aus Wien sind TONKS und maro angekündigt. Motto
+ : „Cologne meets Vienna. Same energy. New city.“ Laut RA Trance und 
+ Techno\, ab 18 Jahren\; Eintritt 10 € an der Abendkassa. Beginn laut C
+ lub Lucia 23:59 (RA nannte zuvor 22:00)\, Ende 05:30.\n\nhttps://rave.wi
+ en/e/2026-12-05-krampus-rave-by-krawall
+URL:https://rave.wien/e/2026-12-05-krampus-rave-by-krawall
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-cybertribe-pres-club-gspusi@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T230000
+DTEND;TZID=Europe/Vienna:20261219T040000
+SUMMARY:CYBERTRIBE pres. CLUB GSPUSI
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Oben: Who is Ela¿\, MARØ\, Aschenbrenner\, Suitside\, Dizzy
+ Dray\nUnten: AVO2X\, ENJA\, Goldi\, WO.IZZY\, Scheibenwischer\, DJ Backs
+ tage\nVeranstalter: Cybertribe\nEintritt: 10–15 €\n\nDas Wiener Koll
+ ektiv Cybertribe präsentiert „Club Gspusi“ im Loft – angekündigt
+  als „deine neue Lieblingsbekanntschaft mit einer Schwäche für schne
+ lle Musik“. Oben läuft Trance und Bounce mit Who is Ela¿ b2b maro\, 
+ Aschenbrenner b2b Suitside sowie DizzyDray b2b Who is Ela¿. Unten gibt 
+ es House und Speed Garage mit AVO2X b2b ENJA\, Goldi b2b WO.IZZY und Sch
+ eibenwischer b2b DJ Backstage. Beginn 23:00\, Eintritt 10–15 €\, ab 
+ 18\; der Loft betont einen sicheren\, inklusiven Dancefloor ohne Diskrim
+ inierung.\n\nhttps://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
+URL:https://rave.wien/e/2026-12-18-cybertribe-pres-club-gspusi
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-19-15yrs-grelle-forelle-malugi@rave.wien
 DTSTAMP:20261219T000000Z
 DTSTART;TZID=Europe/Vienna:20261219T230000
@@ -49,6 +109,36 @@ DESCRIPTION:Mainfloor: Malugi\, Vivienna\, Aschenbrenner\nKitchen: Chiara
 URL:https://rave.wien/e/2026-12-19-15yrs-grelle-forelle-malugi
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-01-29-mahlwerk-supergloss-dj-hyperdrive@rave.wien
+DTSTAMP:20270129T000000Z
+DTSTART;TZID=Europe/Vienna:20270129T230000
+DTEND;TZID=Europe/Vienna:20270130T060000
+SUMMARY:MAHLWERK: Supergloss & DJ Hyperdrive
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: Supergloss\, DJ Hyperdrive\, MARØ\, Max Wagner\, 
+ Goldi\, Kat Ze\nKitchen (hosted by Herzfrequenz): Crystal O\, Joey\, DJ 
+ Wolle\, YØNDER\nVeranstalter: Mahlwerk\, Herzfrequenz\nEintritt: 13–2
+ 5 €\n\nMahlwerk startet ins Jahr 2027 in der Grelle Forelle. Headliner
+  sind Supergloss aus Berlin mit Acid und Trance der 90er und 00er sowie 
+ DJ Hyperdrive (BCCO) mit Groove-Trance. Dazu spielen maro b2b Max Wagner
+  und Goldi b2b Kat Ze. Die Kitchen wird von Herzfrequenz gehostet (Cryst
+ al O\, Joey\, DJ Wolle\, YØNDER). Ab 21.\n\nhttps://rave.wien/e/2027-01
+ -29-mahlwerk-supergloss-dj-hyperdrive
+URL:https://rave.wien/e/2027-01-29-mahlwerk-supergloss-dj-hyperdrive
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-29-nexus-x-wyldhearts@rave.wien
+DTSTAMP:20251129T000000Z
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251130
+SUMMARY:NEXUS X WYLDHEARTS
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Aschenbrenner\, Bababass3000\, Baumeister98\, Cold Ass Ice\, 
+ Ferrand\, Suitside\, MARØ\, Calu\, ZEQ\nVeranstalter: NEXUS\, Wyldheart
+ s\n\nhttps://rave.wien/e/2025-11-29-nexus-x-wyldhearts
+URL:https://rave.wien/e/2025-11-29-nexus-x-wyldhearts
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-08-07-techno-kult-x-grelle-forelle-clubnight-kitchen-ho@rave.wien
 DTSTAMP:20260807T000000Z
 DTSTART;VALUE=DATE:20260807
@@ -70,22 +160,43 @@ SUMMARY:Biosphere – The Techno Spirit of 1997
 LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
 DESCRIPTION:Sam Paganini\, The Advent\, Joro & Joabo\, Elex Red\, Tolaris
  \, MC Mars\, MC Spot\, Anna Ullrich\, MARØ\, Who is Ela¿\, DORAH\, DJ 
- SDRICCI\, Marilou\, Raphael Warg\, LĪVA\nVeranstalter: Fluffig\nEintrit
- t: ab 33 € (Zündung 1 ausverkauft)\n\nBIOSPHERE – The Techno Spirit
-  of 1997 lässt den Geist der Wiener Rave-Szene der 90er wieder aufleben
- : „90s Acid Techno meets Cosmic Rave“\, 8 Stunden auf 3 Floors im Cl
- ub Exil in Vösendorf (22:00–06:00\, ab 20). Auf dem Bridge Floor spie
- len der Italiener Sam Paganini (Treviso\; bekannt für „Zoe“ und „
- Rave“\, Releases auf Drumcode) und The Advent (London\, Raw Techno/Ele
- ctro)\, dazu Joro & Joabo\, Elex Red und Tolaris sowie live die MCs MC M
- ars und MC Spot. Den Maschinenraum gestaltet Fluffig mit Anna Ullrich (T
- echno\, Bounce\, Trance)\, MARØ\, WHO IS ELA¿ und DORAH (Hard Bounce\,
-  Hard Techno). Im Cyberspace Artist Lab (in Kooperation mit Dancemalschu
- tz) stehen Mentor DJ SDRICCI und ausgewählte Newcomer wie Marilou (Thes
- saloniki)\, LĪVA und Raphael Warg. Erste Ticketstufe (33 €) ausverkau
- ft\, Tickets über StageDates.\n\nhttps://rave.wien/e/2026-11-06-biosphe
- re-the-techno-spirit-of-1997
+ SDRICCI\, Marilou\, Raphael Warg\, LIVA\nVeranstalter: Fluffig\nEintritt
+ : ab 33 € (Zündung 1 ausverkauft)\n\nBIOSPHERE – The Techno Spirit 
+ of 1997 lässt den Geist der Wiener Rave-Szene der 90er wieder aufleben:
+  „90s Acid Techno meets Cosmic Rave“\, 8 Stunden auf 3 Floors im Clu
+ b Exil in Vösendorf (22:00–06:00\, ab 20). Auf dem Bridge Floor spiel
+ en der Italiener Sam Paganini (Treviso\; bekannt für „Zoe“ und „R
+ ave“\, Releases auf Drumcode) und The Advent (London\, Raw Techno/Elec
+ tro)\, dazu Joro & Joabo\, Elex Red und Tolaris sowie live die MCs MC Ma
+ rs und MC Spot. Den Maschinenraum gestaltet Fluffig mit Anna Ullrich (Te
+ chno\, Bounce\, Trance)\, MARØ\, WHO IS ELA¿ und DORAH (Hard Bounce\, 
+ Hard Techno). Im Cyberspace Artist Lab (in Kooperation mit Dancemalschut
+ z) stehen Mentor DJ SDRICCI und ausgewählte Newcomer wie Marilou (Thess
+ aloniki)\, LĪVA und Raphael Warg. Erste Ticketstufe (33 €) ausverkauf
+ t\, Tickets über StageDates.\n\nhttps://rave.wien/e/2026-11-06-biospher
+ e-the-techno-spirit-of-1997
 URL:https://rave.wien/e/2026-11-06-biosphere-the-techno-spirit-of-1997
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-mahlwerk-fadercult-w-afem-syko-lisa-korver@rave.wien
+DTSTAMP:20261106T000000Z
+DTSTART;TZID=Europe/Vienna:20261106T230000
+DTEND;TZID=Europe/Vienna:20261107T060000
+SUMMARY:Mahlwerk × Fadercult w/ Afem Syko & Lisa Korver
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Afem Syko\, Lisa Korver\, MARØ\, Max Wagner\, WO.IZZY\, Kat 
+ Ze\, Sony2k\, Linus Villa\, Ben Derris\, Sophti\nVeranstalter: Mahlwerk\
+ , Fadercult\nEintritt: ab 13 €\n\nMahlwerk kehrt in die Grelle Forelle
+  zurück und bringt das Berliner Kollektiv Fadercult mit. Auf dem Mainfl
+ oor spielen Afem Syko aus Berlin\, deren Sound Techno\, Drum & Bass und 
+ Trance mischt\, und Lisa Korver aus Amsterdam\, die sich zwischen Techno
+ \, Trance\, Bounce und Hardgroove bewegt\; dazu maro b2b Max Wagner und 
+ WO.IZZY b2b Kat Ze. Den Kitchen-Floor hostet Fadercult mit Sony2k\, Linu
+ s Villa\, Ben Derris und Sophti. Einlass 23:00\, VVK über 808factory\, 
+ Abendkasse ab 23:00\, ab 21.\n\nhttps://rave.wien/e/2026-11-06-mahlwerk-
+ fadercult-w-afem-syko-lisa-korver
+URL:https://rave.wien/e/2026-11-06-mahlwerk-fadercult-w-afem-syko-lisa-ko
+ rver
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-paradies-garten-w-paracek@rave.wien
