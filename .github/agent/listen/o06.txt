@@ -1,0 +1,13 @@
+# Sonderlauf Locations – Liste o06 (12) – SCHWERPUNKT BARRIEREFREIHEIT. Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Events bei uns
+Cupra City Garage	access		Adresse: Maysedergasse 4, 1010 · web: https://www.cupraofficial.com/brand/experiences/new-cupra-city-garage-vienna	2026-12-04 BARVY × SHPILKI: Good Girl Gone Bad
+Jaz in the City	access		Adresse: Windmühlgasse 28, 1060 · web: https://hrewards.com/en/jaz-in-the-city-vienna	2026-12-05 Rooftop Series at Mariatrink
+Libelle	access		Adresse: Tellgasse 25/1, 1150 · web: https://www.libelle.at/	2026-12-05 Ungeniert Vol. 5
+The Inner Circle	access		Adresse: Altmannsdorfer Straße 144, 1230 · web: https://theinnercircle.at/	2026-12-05 allowed to drift
+LIA Coffee WU Campus	access		Adresse: Welthandelsplatz 1, 1020	2026-12-07 MELODIC MONDAY X-Mas Dayparty – Afro Tech & Melodic House
+Event Arena Vösendorf	access		Adresse: Marktstraße 13a, 2331 Vösendorf	2026-12-07 HARDLINE: COLD WAR – A Winter Special
+Babenberger Passage	access		Adresse: Burgring 3, 1010	2026-12-07 Alle Farben Club Tour 2026
+Pyramide Vösendorf	access		Adresse: Parkallee 2, 2334 Vösendorf · web: https://conferencehotelgroup.com/hotels/299/Eventhotel-Pyramide---Congress-Center	2026-12-11 SIGNAL Festival w/ Eric Prydz
+Multiversum Schwechat	access		Adresse: Möhringgasse 2/4, 2320 Schwechat · web: https://www.multiversum-schwechat.at	2026-12-12 KlangKuenstler
+Oktogon am Himmel	access		Adresse: Himmelstraße 125, 1190 · web: https://www.himmel.at/restaurant-oktogon/	2026-12-31 AWSM. NYE Skyline Edition
+Schloss Cobenzl	access		Adresse: Am Cobenzl 94, 1190 · web: https://weitsichtcobenzl.at	2026-12-31 The Grand NYE
+Arena Wien	access		Adresse: Baumgasse 80, 1030 · web: https://arena.wien	2027-02-06 COLLAPSE – Eatbrain Night: Vienna Edition
