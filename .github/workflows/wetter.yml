@@ -1,0 +1,34 @@
+name: Wetter
+# Einmal am Tag (früh morgens) die Wettervorhersage für Events der nächsten 7 Tage holen.
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: wetter
+  cancel-in-progress: false
+jobs:
+  wetter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Vorhersage holen und speichern
+        run: |
+          git config user.name "rave.wien Wetter"
+          git config user.email "ravewien@users.noreply.github.com"
+          for i in 1 2 3 4 5; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            node .github/scripts/wetter.js
+            node .github/scripts/version.js || true
+            git add wetter.js ver.js
+            if git diff --cached --quiet; then echo "Keine Änderungen."; exit 0; fi
+            git commit -q -m "Wetter aktualisiert"
+            git push -q origin HEAD:main && exit 0
+            sleep $((RANDOM % 20 + 5))
+          done
+          exit 1

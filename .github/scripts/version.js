@@ -3,7 +3,7 @@
 const fs = require("fs"), path = require("path"), crypto = require("crypto");
 const root = path.resolve(__dirname, "..", "..");
 const v = {};
-for (const f of ["events.js", "past.js", "logos.js", "geo.js"]) {
+for (const f of ["events.js", "past.js", "logos.js", "geo.js", "wetter.js"]) {
   const p = path.join(root, f);
   if (fs.existsSync(p)) v[f] = crypto.createHash("sha256").update(fs.readFileSync(p)).digest("hex").slice(0, 12);
 }

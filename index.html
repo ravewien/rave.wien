@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-RoNaSN7orAhTQDnSMQvQSGJ4uFxKczbpf27zmtRxdVA='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-88X1qI5vxveqr3dHXPdACMxYAvp54LhY0P9IYT3EAUM='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -839,6 +839,10 @@ footer a{color:var(--mute);text-underline-offset:2px;text-decoration-color:var(-
 footer a:hover{color:var(--accent)}
 .report{background:none;border:1px solid var(--line);border-radius:3px;color:var(--mute);font-size:12px;padding:5px 12px;text-decoration:none;display:inline-block}
 .report:hover{color:var(--fg);border-color:var(--mute)}
+.wx{display:inline-flex;align-items:center;gap:3px;color:var(--fg);font-family:var(--f-mono);font-size:12px;line-height:1;padding:3px 5px;border:1px solid var(--line);border-radius:3px;background:var(--panel2);white-space:nowrap}
+.wx svg{width:15px;height:15px;fill:none;stroke:currentColor;stroke-width:1.3;stroke-linecap:round;stroke-linejoin:round;flex:none}
+.cflags .wx{align-self:flex-start;margin-bottom:4px}.cflags .wxbr{flex-basis:100%;height:0}.cflags:has(.wx){flex-wrap:wrap;align-content:flex-end}
+.wx b{font-weight:600}.wx.big small{color:var(--mute);font-family:var(--f-body);font-size:11px;margin-left:3px}
 .zseg #ig-top{display:inline-grid;align-self:center;place-items:center;padding:4px 6px;color:var(--mute);opacity:.85}.zseg #ig-top svg{width:18px;height:18px;display:block}.zseg #ig-top:hover{color:var(--fg);opacity:1}
 .report.igfoot{display:inline-flex;align-items:center;gap:6px}
 
@@ -1077,7 +1081,7 @@ html.a-cursor :is(a,button,[role=button],label,summary,input,select,[data-vopen]
 <div class="pullhint" id="pullhint" hidden><span></span><i></i></div>
 
 <script>/* Versionskennung der Daten (winzige Datei, immer frisch) */(()=>{if(/(^|\.)rave\.wien$/.test(location.hostname))document.write('<script src="ver.js?t='+Math.floor(Date.now()/60000)+'"><\/script>')})()</script>
-<script>/* Daten laden: Adresse ändert sich nur, wenn sich die Datei geändert hat – sonst kommt sie aus dem Browser-Cache */(()=>{const live=/(^|\.)rave\.wien$/.test(location.hostname),V=window.RWV||{},q=f=>live?"?v="+(/^[a-f0-9]{6,20}$/.test(V[f]||"")?V[f]:Math.floor(Date.now()/60000)):"";document.write(["events.js","past.js","logos.js","geo.js"].map(f=>'<script src="'+f+q(f)+'"><\/script>').join(""))})()</script>
+<script>/* Daten laden: Adresse ändert sich nur, wenn sich die Datei geändert hat – sonst kommt sie aus dem Browser-Cache */(()=>{const live=/(^|\.)rave\.wien$/.test(location.hostname),V=window.RWV||{},q=f=>live?"?v="+(/^[a-f0-9]{6,20}$/.test(V[f]||"")?V[f]:Math.floor(Date.now()/60000)):"";document.write(["events.js","past.js","logos.js","geo.js","wetter.js"].map(f=>'<script src="'+f+q(f)+'"><\/script>').join(""))})()</script>
 <script>
 /* ===== Feiertage: Valentinstag (14.2.), Bicycle Day (19.4.), 420 (20.4.), Pride Month (Juni), Geburtstag (28.10.) – Wiener Zeit;
    Test mit ?valentin=1, ?bicycle=1, ?420=1, ?pride=1, ?geburtstag=1 ===== */
@@ -1665,15 +1669,36 @@ function pastRowHTML(p){if(p.ev){const e=ALL.find(x=>x.id===p.id);if(e)return ro
   return `<button class="row tk pastrow" data-id="${p.id}" aria-current="${st.sel===p.id}"><span class="cov" aria-hidden="true"></span><span class="main"><span class="head"><span class="ti">${esc(p.t)}</span></span>
     <span class="tags"><span class="tag ve">${IPIN}${esc(p.v)}</span>${p.c.map(c=>`<span class="tag co">${ICOL}${esc(c)}</span>`).join("")}</span>
     ${p.a.length?`<small class="arts">${esc(p.a.slice(0,5).join(", "))}${p.a.length>5?" …":""}</small>`:""}${why.length?`<small class="why">★ ${esc(why.join(" · "))}</small>`:""}</span>${stubHTML(p.x.s,p.x.e,"",p.x.price)}</button>`}
+
+/* ===== Wetter bei Outdoor-Events (wetter.js, täglich von Open-Meteo) ===== */
+const WXI={sun:'<circle cx="8" cy="8" r="3"/><path d="M8 1.5v1.6M8 12.9v1.6M1.5 8h1.6M12.9 8h1.6M3.4 3.4l1.1 1.1M11.5 11.5l1.1 1.1M3.4 12.6l1.1-1.1M11.5 4.5l1.1-1.1"/>',
+ moon:'<path d="M11.8 10.6A5 5 0 0 1 6.4 3.2a5 5 0 1 0 5.4 7.4z"/>',
+ part:'<path d="M5.2 4.6a2.4 2.4 0 0 1 4.4.6M5.7 1.6v1M2.4 5.2h1M3 2.6l.7.7"/><path d="M4.6 13.5h7a2.6 2.6 0 0 0 .3-5.2 3.4 3.4 0 0 0-6.5.9 2.2 2.2 0 0 0-.8 4.3z"/>',
+ cloud:'<path d="M4.4 12.5h7.4a2.8 2.8 0 0 0 .3-5.6 3.6 3.6 0 0 0-6.9 1 2.3 2.3 0 0 0-.8 4.6z"/>',
+ fog:'<path d="M2.5 6h11M3.5 9h9M2.5 12h11"/>',
+ rain:'<path d="M4.4 9.5h7.4a2.6 2.6 0 0 0 .3-5.2 3.4 3.4 0 0 0-6.5.9 2.2 2.2 0 0 0-1.2 4.3z"/><path d="M5.5 11.5l-.8 2M8.3 11.5l-.8 2M11.1 11.5l-.8 2"/>',
+ snow:'<path d="M4.4 9h7.4a2.6 2.6 0 0 0 .3-5.2 3.4 3.4 0 0 0-6.5.9 2.2 2.2 0 0 0-1.2 4.3z"/><path d="M5.5 11.6v.1M8 13v.1M10.5 11.6v.1M6.8 14.6v.1M9.3 14.6v.1"/>',
+ storm:'<path d="M4.4 9h7.4a2.6 2.6 0 0 0 .3-5.2 3.4 3.4 0 0 0-6.5.9 2.2 2.2 0 0 0-1.2 4.3z"/><path d="M8.6 9.6 6.9 12.3h2.2l-1.6 2.6"/>'};
+const WXN={de:{sun:"Sonnig",moon:"Klar",part:"Teils bewölkt",cloud:"Bewölkt",fog:"Nebel",rain:"Regen",snow:"Schnee",storm:"Gewitter",at:"Wetter um",rain2:"Regenwahrscheinlichkeit",src:"Vorhersage: Open-Meteo"},
+ en:{sun:"Sunny",moon:"Clear",part:"Partly cloudy",cloud:"Cloudy",fog:"Fog",rain:"Rain",snow:"Snow",storm:"Thunderstorm",at:"Weather at",rain2:"chance of rain",src:"Forecast: Open-Meteo"}};
+function wxOf(e){const W=window.WX;if(!W||!W.t0||!W.v||!e||!(e.ioK||[]).includes("ioOut"))return null;const v=W.v[e.venue];if(!v)return null;
+  const s=/^\d\d:\d\d$/.test(e.s||"")?e.s:"20:00";const t=new Date(e.d+"T"+s+":00Z")-new Date(W.t0+":00Z");const i=Math.round(t/36e5);
+  if(!(i>=0&&i<v.T.length)||v.T[i]==null)return null;if(t>7.5*864e5+new Date(TODAY+"T00:00:00Z")-new Date(W.t0+":00Z"))return null;
+  const c=v.C[i],h=+s.slice(0,2),night=h>=18||h<7;
+  const k=c===0||c===1?(night?"moon":"sun"):c===2?"part":c===3?"cloud":c===45||c===48?"fog":(c>=71&&c<=77)||c===85||c===86?"snow":c>=95?"storm":c>=51?"rain":"cloud";
+  return {k,T:v.T[i],P:v.P?v.P[i]:null,s}}
+function wxHTML(e,big){const w=wxOf(e);if(!w)return "";const n=WXN[st.lang]||WXN.de;
+  const tip=`${n.at} ${w.s}: ${n[w.k]}, ${w.T} °C${w.P!=null&&w.P>=20?` · ${w.P} % ${n.rain2}`:""} · ${n.src}`;
+  return `<span class="wx${big?" big":""}" title="${esc(tip)}"><svg viewBox="0 0 16 16" aria-hidden="true">${WXI[w.k]}</svg><b>${w.T}°</b>${big?`<small>${esc(n[w.k])}${w.P!=null&&w.P>=30?` · ${w.P}%`:""}</small>`:""}</span>`}
 function rowHTML(e){
   const why=st.fav?(FAV.e.includes(e.id)?[]:favReason(e)):[];
   const tk=timeK(e);
-  return `<button class="row tk tod-${tk}${isFav("e",e.id)?" isfav":""}" data-id="${e.id}" aria-current="${st.sel===e.id}">${rstar("e",e.id)}${coverHTML(e)}<span class="cflags">${flagHTML(e,1)}</span><span class="main"><span class="c1">
+  return `<button class="row tk tod-${tk}${isFav("e",e.id)?" isfav":""}" data-id="${e.id}" aria-current="${st.sel===e.id}">${rstar("e",e.id)}${coverHTML(e)}<span class="cflags">${(w=>w?w+'<i class="wxbr"></i>':"")(wxHTML(e))}${flagHTML(e,1)}</span><span class="main"><span class="c1">
     <span class="head"><span class="ti">${esc(e.title)}</span>${vchk(e)}</span>
     <span class="tags vtags">${venTag(e.venue,st.v.has(e.venue))}${e.coll.map(c=>`<span class="tag co${st.c.has(c)?" on":""}" data-toc="${esc(c)}">${ICOL}${esc(c)}</span>`).join("")}</span>
     ${why.length?`<small class="why">★ ${esc(why.join(" · "))}</small>`:""}</span>
     ${e.artists.length?`<small class="arts">${e.artists.slice(0,6).map(a=>e.headSet.has(a)?`<b class="hl">${esc(a)}</b>`:esc(a)).join(", ")}${e.artists.length>6?" …":""}</small>`:""}
-    <span class="gf">${gcl(e.genres)}${flagHTML(e,1)}</span></span>${stubHTML(e.s,e.e,e.age,e.price,tk)}</button>`;
+    <span class="gf">${gcl(e.genres)}${(w=>w?`<span class="flags wxf">${w}</span>`:"")(wxHTML(e))}${flagHTML(e,1)}</span></span>${stubHTML(e.s,e.e,e.age,e.price,tk)}</button>`;
 }
 /* flyer covers: hot-linked from the source (not downloaded); vinyl placeholder underneath */
 const isImg=u=>/^https:\/\/[^"'<>\s]+\.(jpe?g|png|webp|gif|avif)(\?[^"'<>\s]*)?$/i.test(u||"");
@@ -2320,7 +2345,7 @@ function renderEv(dk,id){
       <div class="tags">${noVen(e.venue)?`<span class="tag ve na">${IPIN}${esc(e.venue||"TBA")}</span>`:`<button class="tag ve" data-venue="${esc(e.venue)}">${IPIN}${esc(e.venue)}</button>`}${e.coll.map(c=>`<button class="tag co" data-coll="${esc(c)}">${ICOL}${esc(c)}</button>`).join("")}</div>
       ${addr?`<a class="addr" href="${maps(e)}" target="_blank" rel="noopener" title="${l.maps}">${esc(addr)} ↗</a>`:""}
       ${e.genres.length?`<span class="tags"><span class="gcl"><b>♫</b>${e.genres.map(g=>`<button data-f="g" data-n="${esc(g)}"${e.typGenres.includes(g)?` class="typ" title="${esc(l.typ)}"`:""}>${esc(g)}${e.typGenres.includes(g)?"*":""}</button>`).join("")}</span></span>`:""}
-      ${vibe.length||e.ioK.length?`<div class="flags">${ioTags(e.ioK)}${vibe.join("")}</div>`:""}
+      ${vibe.length||e.ioK.length?`<div class="flags">${ioTags(e.ioK)}${wxHTML(e,1)}${vibe.join("")}</div>`:""}
     </div><span class="stub"><span class="dt">${fmtDay(e.d)}</span><span class="t">${e.s||"--:--"}<small>-${e.e||"?"}</small></span>${e.age?`<span class="flag age"${e.clubAge&&e.age!==e.clubAge?` title="${esc(l.clubRule+" "+e.clubAge)}"`:""}>${esc(e.age)}</span>`:`<span class="flag age" style="color:var(--mute)">${l.na}</span>`}<span class="price">${pm.length?esc(pm[0]):l.na}${pm.length>1?`<small>${esc(pm.slice(1).join(" · "))}</small>`:""}${e.altPrice?`<small>${l.alt}: ${esc(e.altPrice)}</small>`:""}</span></span></div>
     ${e.note?`<div class="note">${esc(e.note[st.lang])}</div>`:""}
     <div><h3>${hasTimes?l.timetable:l.lineup}</h3>${e.sound&&!anyFloorSound?`<div class="sndline"><span class="sndk">SOUND</span>${esc(sfl?Object.values(sfl).map(x=>x[st.lang]||x.de).join(" · "):(e.sound[st.lang]||e.sound.de))}</div>`:""}${pads}</div>
