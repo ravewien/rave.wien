@@ -2341,7 +2341,9 @@ const CI={
    "https://ra.co/events/2499818",
    "https://ra.co/dj/julani"
   ],
-  "ig": "https://www.instagram.com/housetiere_vienna/"
+  "ig": "https://www.instagram.com/housetiere_vienna/",
+  "logo": "https://scontent-ams2-1.cdninstagram.com/v/t51.75761-19/504503686_17858786898431970_6325114151159552982_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=GIYdEh7iTzPZeHI-ANZbqf-OUcdXbvEnAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40ODYuQzMifQ%3D%3D&_nc_ohc=f1zC3LlOzRQQ7kNvwHldHRN&_nc_oc=AdqDXR5Q5vu0ETJGmUjvOQ7jtC7U2-N6FreQE7vaTPYn8UxU0Fbh-db2RAb-Gotkh6I&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=WABABF7hjeZA398benorhg&_nc_ss=7a6a8&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQCZqDhV42yGzAA-KSiCs7WAABsyQtUE---X5-VffyuZA&oe=6B0A31E4",
+  "man": 1
  },
  "Entrance": {
   "noLogo": "2026-11-15",
