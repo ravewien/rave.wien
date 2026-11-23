@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//rave.wien//Kalender//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Ced · rave.wien
+X-WR-CALNAME:CED · rave.wien
 X-WR-TIMEZONE:Europe/Vienna
 X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
@@ -26,22 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-21-soundhouse@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T220000
-DTEND;TZID=Europe/Vienna:20261122T040000
-SUMMARY:Soundhouse
-LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
-DESCRIPTION:Ced\, Fabian Hofer\, Mize Hetner\nVeranstalter: Soundhouse\nE
- intritt: 8–10 €\n\nNächste Session der Wiener Reihe Soundhouse im T
- agada\, die sich als Abend für Musikbegeisterte versteht und House und 
- Techno samt Subgenres in den Mittelpunkt stellt\; empfohlen wird\, früh
-  zu kommen und lange zu bleiben. Es spielen Ced\, Fabian Hofer und Mize 
- Hetner\, der die Reihe mitorganisiert\; ein Timetable wurde nicht veröf
- fentlicht. Die Veranstalter stellen sich ausdrücklich gegen Rassismus\,
-  Sexismus\, Homophobie und jede andere Form von Gewalt und Diskriminieru
- ng. Von 22:00 bis 04:00\, Eintritt laut RA 8–10 €.\n\nhttps://rave.w
- ien/e/2026-11-21-soundhouse
-URL:https://rave.wien/e/2026-11-21-soundhouse
+UID:2026-10-31-the-hive-x-collapse-face-off-halloween-special@rave.wien
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=Europe/Vienna:20261031T230000
+DTEND;TZID=Europe/Vienna:20261101T040000
+SUMMARY:The Hive x Collapse – Face Off Halloween Special
+LOCATION:Flex\, Augartenbrücke 1\, 1010 Wien
+DESCRIPTION:Magnetude\, PRDK\, CED\, DNBREAK\, Scapula\, Weazl\, Sinis\, 
+ Lazaro\, Mayez\, Skeedz\, Rellux\, Distorted\nVeranstalter: The Hive\, C
+ ollapse\nEintritt: 9–15 € (VVK)\n\nFace Off: The Hive und Collapse l
+ aden zum Drum-&-Bass-Halloween-Special ins Flex\, bei dem alle Acts Face
+ -to-Face (F2F) spielen. Headliner sind Magnetude aus Großbritannien F2F
+  PRDK aus Tschechien. Als Local Support treten CED F2F DNBREAK\, Scapula
+  F2F Weazl\, Sinis F2F Lazaro\, Mayez F2F Skeedz und Rellux F2F Distorte
+ d an. Einlass 23 Uhr\; VVK Phase 1 9 €\, Phase 2 15 €\, Abendkasse n
+ och offen. Ein Ende nennt der Club nicht.\n\nhttps://rave.wien/e/2026-10
+ -31-the-hive-x-collapse-face-off-halloween-special
+URL:https://rave.wien/e/2026-10-31-the-hive-x-collapse-face-off-halloween
+ -special
 END:VEVENT
 END:VCALENDAR

@@ -26,28 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-21-kleingeld-kollektiv-klubnacht@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T235900
-DTEND;TZID=Europe/Vienna:20261122T050000
-SUMMARY:Kleingeld Kollektiv Klubnacht
-LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
-DESCRIPTION:Telicho\, Artifex\, Frankee\, Acula\, Dijay Qualle\nVeranstal
- ter: Kleingeld Kollektiv\nEintritt: 7 € (AK)\n\nDas Kleingeld Kollekti
- v\, eine Wiener Techno-Crew aus vier Freunden\, die mit günstigen Party
- s und guter Musik begann und sich in rund einem Jahr einen Namen im leis
- tbaren Underground-Nachtleben gemacht hat\, ist zum ersten Mal im Club L
- ucia. Headliner ist Telicho\, bekannte Wiener Produzentin und DJ mit roh
- em\, hypnotischem Techno und zentrale Figur der lokalen Szene. Artifex v
- erbindet in seinen Sets House und Techno und ist in Deutschland und Öst
- erreich bekannt\, Frankee spielt treibenden Progressive House ausschlie
- ßlich auf Vinyl. Die Veranstalter Acula und Dijay Qualle ergänzen mit 
- hypnotischen Sounds. Beginn 23:59\, Ende 05:00\, Eintritt 7 € an der A
- bendkasse.\n\nhttps://rave.wien/e/2026-11-21-kleingeld-kollektiv-klubnac
- ht
-URL:https://rave.wien/e/2026-11-21-kleingeld-kollektiv-klubnacht
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-27-qualia@rave.wien
 DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Vienna:20261127T235900
@@ -1093,5 +1071,27 @@ DESCRIPTION:L!KA\, Laerm\, bobbyyxjohnson\, PAUNA\nVeranstalter: Schall &
  gründerin von ALERT[A]. Eintritt 8 € an der Abendkassa\, Ende 5 Uhr.\
  n\nhttps://rave.wien/e/2026-11-20-schall-schabernack
 URL:https://rave.wien/e/2026-11-20-schall-schabernack
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-kleingeld-kollektiv-klubnacht@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T235900
+DTEND;TZID=Europe/Vienna:20261122T050000
+SUMMARY:Kleingeld Kollektiv Klubnacht
+LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
+DESCRIPTION:Telicho\, Artifex\, Frankee\, Acula\, Dijay Qualle\nVeranstal
+ ter: Kleingeld Kollektiv\nEintritt: 7 € (AK)\n\nDas Kleingeld Kollekti
+ v\, eine Wiener Techno-Crew aus vier Freunden\, die mit günstigen Party
+ s und guter Musik begann und sich in rund einem Jahr einen Namen im leis
+ tbaren Underground-Nachtleben gemacht hat\, ist zum ersten Mal im Club L
+ ucia. Headliner ist Telicho\, bekannte Wiener Produzentin und DJ mit roh
+ em\, hypnotischem Techno und zentrale Figur der lokalen Szene. Artifex v
+ erbindet in seinen Sets House und Techno und ist in Deutschland und Öst
+ erreich bekannt\, Frankee spielt treibenden Progressive House ausschlie
+ ßlich auf Vinyl. Die Veranstalter Acula und Dijay Qualle ergänzen mit 
+ hypnotischen Sounds. Beginn 23:59\, Ende 05:00\, Eintritt 7 € an der A
+ bendkasse.\n\nhttps://rave.wien/e/2026-11-21-kleingeld-kollektiv-klubnac
+ ht
+URL:https://rave.wien/e/2026-11-21-kleingeld-kollektiv-klubnacht
 END:VEVENT
 END:VCALENDAR

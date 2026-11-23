@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-21-beaks@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T200000
-DTEND;TZID=Europe/Vienna:20261121T230000
-SUMMARY:Beaks
-LOCATION:Kollektiv Kaorle\, Baumgartner Höhe 1 (Otto Wagner Areal\, Pavi
- llon 21)\, 1140 Wien
-DESCRIPTION:Beaks\nEintritt: 28\,60 €\n\nAbend mit Beaks im Pavillon 21
-  des Kollektiv Kaorle am Otto Wagner Areal\, von 20:00 bis 23:00. Weiter
- e Acts\, Genre und Preis sind auf RA und Techno Airlines nicht angegeben
- \; Tickets gibt es über den verlinkten Stager-Shop.\n\nhttps://rave.wie
- n/e/2026-11-21-beaks
-URL:https://rave.wien/e/2026-11-21-beaks
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-13-50-herz-sodomland@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T210000
@@ -85,5 +70,20 @@ DESCRIPTION:Ssaliva\, færo demonic\, Inou Ki Endo\, esti.d\, LCA\, Kenji
  ēomirage. 19:00–02:00\, 15 €\, ab 18.\n\nhttps://rave.wien/e/2026-1
  1-20-ambievent-trace-encounters
 URL:https://rave.wien/e/2026-11-20-ambievent-trace-encounters
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-beaks@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T200000
+DTEND;TZID=Europe/Vienna:20261121T230000
+SUMMARY:Beaks
+LOCATION:Kollektiv Kaorle\, Baumgartner Höhe 1 (Otto Wagner Areal\, Pavi
+ llon 21)\, 1140 Wien
+DESCRIPTION:Beaks\nEintritt: 28\,60 €\n\nAbend mit Beaks im Pavillon 21
+  des Kollektiv Kaorle am Otto Wagner Areal\, von 20:00 bis 23:00. Weiter
+ e Acts\, Genre und Preis sind auf RA und Techno Airlines nicht angegeben
+ \; Tickets gibt es über den verlinkten Stager-Shop.\n\nhttps://rave.wie
+ n/e/2026-11-21-beaks
+URL:https://rave.wien/e/2026-11-21-beaks
 END:VEVENT
 END:VCALENDAR

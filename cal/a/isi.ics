@@ -26,6 +26,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-27-cyclic-existence@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T220000
+DTEND;TZID=Europe/Vienna:20261128T040000
+SUMMARY:Cyclic Existence
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:ISI\, Hastad\, PJPJPJ\nVeranstalter: Cyclic Existence\n\nDie 
+ Reihe Cyclic Existence\, zuletzt mit deeperen House-Nächten im SASS unt
+ erwegs\, kehrt ins Tagada in Ottakring zurück. Laut Freytag spielen ISI
+ \, Hastad und PJPJPJ (Housetiere-Kollektiv) von 22 bis 4 Uhr. Eintritt u
+ nd Ticketinfos sind nicht angegeben.\n\nhttps://rave.wien/e/2026-11-27-c
+ yclic-existence
+URL:https://rave.wien/e/2026-11-27-cyclic-existence
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-03-20-vivid-w-isi@rave.wien
 DTSTAMP:20260320T000000Z
 DTSTART;VALUE=DATE:20260320

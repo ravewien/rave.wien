@@ -26,23 +26,19 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-21-soundhouse@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T220000
-DTEND;TZID=Europe/Vienna:20261122T040000
-SUMMARY:Soundhouse
+UID:2026-11-27-cyclic-existence@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T220000
+DTEND;TZID=Europe/Vienna:20261128T040000
+SUMMARY:Cyclic Existence
 LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
-DESCRIPTION:Ced\, Fabian Hofer\, Mize Hetner\nVeranstalter: Soundhouse\nE
- intritt: 8–10 €\n\nNächste Session der Wiener Reihe Soundhouse im T
- agada\, die sich als Abend für Musikbegeisterte versteht und House und 
- Techno samt Subgenres in den Mittelpunkt stellt\; empfohlen wird\, früh
-  zu kommen und lange zu bleiben. Es spielen Ced\, Fabian Hofer und Mize 
- Hetner\, der die Reihe mitorganisiert\; ein Timetable wurde nicht veröf
- fentlicht. Die Veranstalter stellen sich ausdrücklich gegen Rassismus\,
-  Sexismus\, Homophobie und jede andere Form von Gewalt und Diskriminieru
- ng. Von 22:00 bis 04:00\, Eintritt laut RA 8–10 €.\n\nhttps://rave.w
- ien/e/2026-11-21-soundhouse
-URL:https://rave.wien/e/2026-11-21-soundhouse
+DESCRIPTION:ISI\, Hastad\, PJPJPJ\nVeranstalter: Cyclic Existence\n\nDie 
+ Reihe Cyclic Existence\, zuletzt mit deeperen House-Nächten im SASS unt
+ erwegs\, kehrt ins Tagada in Ottakring zurück. Laut Freytag spielen ISI
+ \, Hastad und PJPJPJ (Housetiere-Kollektiv) von 22 bis 4 Uhr. Eintritt u
+ nd Ticketinfos sind nicht angegeben.\n\nhttps://rave.wien/e/2026-11-27-c
+ yclic-existence
+URL:https://rave.wien/e/2026-11-27-cyclic-existence
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-patches@rave.wien
@@ -61,6 +57,23 @@ DESCRIPTION:Philo_\, Dr. Schick\, Meander\, dj ayran\, Tursa\, Peter Spie
  ilian Weber\; Eintritt laut RA 5 €\, 22:00 bis 04:30.\n\nhttps://rave.
  wien/e/2026-11-28-patches
 URL:https://rave.wien/e/2026-11-28-patches
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-off-the-grid-x-acid-lambada@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T220000
+DTEND;TZID=Europe/Vienna:20261205T040000
+SUMMARY:Off The Grid x Acid Lambada
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:B.Ranks\, Claromor\, DJ Odd\, LNKMN\, Peletronic\, Rapha Read
+ y\nVeranstalter: Off The Grid\, Acid Lambada\n\nDie Crews Off The Grid u
+ nd Acid Lambada führen ihre gemeinsame Party-Tradition im Tagada fort. 
+ Beide teilen laut Ankündigung die Liebe zu House\, UK Garage\, Breaks u
+ nd Electro und haben noch viele andere Sounds in den Plattenkisten. Es s
+ pielen B.Ranks\, Claromor\, DJ Odd\, LNKMN\, Peletronic und Rapha Ready\
+ , von 22 bis 4 Uhr. Eintritt nicht angegeben.\n\nhttps://rave.wien/e/202
+ 6-12-04-off-the-grid-x-acid-lambada
+URL:https://rave.wien/e/2026-12-04-off-the-grid-x-acid-lambada
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-housetiere-vg-weekender@rave.wien
@@ -1083,5 +1096,24 @@ DESCRIPTION:Observer\, Hiff\, Shyborg\, DJ Odd\nVeranstalter: Hallraum\n\
  gung nicht. Beginn 22:00\, Preis und Ende sind nicht angegeben.\n\nhttps
  ://rave.wien/e/2026-11-07-hallraum
 URL:https://rave.wien/e/2026-11-07-hallraum
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-soundhouse@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T220000
+DTEND;TZID=Europe/Vienna:20261122T040000
+SUMMARY:Soundhouse
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Ced\, Fabian Hofer\, Mize Hetner\nVeranstalter: Soundhouse\nE
+ intritt: 8–10 €\n\nNächste Session der Wiener Reihe Soundhouse im T
+ agada\, die sich als Abend für Musikbegeisterte versteht und House und 
+ Techno samt Subgenres in den Mittelpunkt stellt\; empfohlen wird\, früh
+  zu kommen und lange zu bleiben. Es spielen Ced\, Fabian Hofer und Mize 
+ Hetner\, der die Reihe mitorganisiert\; ein Timetable wurde nicht veröf
+ fentlicht. Die Veranstalter stellen sich ausdrücklich gegen Rassismus\,
+  Sexismus\, Homophobie und jede andere Form von Gewalt und Diskriminieru
+ ng. Von 22:00 bis 04:00\, Eintritt laut RA 8–10 €.\n\nhttps://rave.w
+ ien/e/2026-11-21-soundhouse
+URL:https://rave.wien/e/2026-11-21-soundhouse
 END:VEVENT
 END:VCALENDAR

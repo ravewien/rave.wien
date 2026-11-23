@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-21-vie-n-b@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T235900
-DTEND;TZID=Europe/Vienna:20261122T050000
-SUMMARY:VIE'n'B
-LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
-DESCRIPTION:BON\, Escapism\, ILLA\, L!XXL\, MANDALA\, Shaxoron\, Synthesi
- s\nVeranstalter: VIE'n'B\nEintritt: Freie Spende\n\nVIE'n'B ist eine Wie
- ner Drum-and-Bass-Nacht im Loop. Es spielen BON\, Escapism\, ILLA\, L!XX
- L\, MANDALA\, Shaxoron und Synthesis. Die Bandbreite reicht laut Loop vo
- n Liquid und Deep über Dancefloor und Jump-Up bis Neurofunk. Eintritt g
- egen freie Spende.\n\nhttps://rave.wien/e/2026-11-21-vie-n-b
-URL:https://rave.wien/e/2026-11-21-vie-n-b
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-07-fuelized-3-year-anniversary-w-minor-forms-chrome@rave.wien
 DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Vienna:20261107T220000
@@ -60,5 +45,20 @@ DESCRIPTION:Minor Forms\, Chrome\, AudioDevice\, ICY.DJ\, Incognito\, M4Y
  -chrome
 URL:https://rave.wien/e/2026-11-07-fuelized-3-year-anniversary-w-minor-fo
  rms-chrome
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-vie-n-b@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T235900
+DTEND;TZID=Europe/Vienna:20261122T050000
+SUMMARY:VIE'n'B
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:BON\, Escapism\, ILLA\, L!XXL\, MANDALA\, Shaxoron\, Synthesi
+ s\nVeranstalter: VIE'n'B\nEintritt: Freie Spende\n\nVIE'n'B ist eine Wie
+ ner Drum-and-Bass-Nacht im Loop. Es spielen BON\, Escapism\, ILLA\, L!XX
+ L\, MANDALA\, Shaxoron und Synthesis. Die Bandbreite reicht laut Loop vo
+ n Liquid und Deep über Dancefloor und Jump-Up bis Neurofunk. Eintritt g
+ egen freie Spende.\n\nhttps://rave.wien/e/2026-11-21-vie-n-b
+URL:https://rave.wien/e/2026-11-21-vie-n-b
 END:VEVENT
 END:VCALENDAR

@@ -26,22 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-21-mottosause-boots-beer-beats@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T201500
-DTEND;TZID=Europe/Vienna:20261122T060000
-SUMMARY:Mottosause // Boots\, Beer & Beats
-LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
-DESCRIPTION:Floor 1: Teppich Funk\, Paul Galbur\nDown Under: Romanova\, F
- ranky\, Gomez & Nickfried\nEintritt frei\n\nMottoparty im Gürtel Saloon
-  des Weberknecht unter dem Dresscode „Boots\, Beer & Beats“. Auf Flo
- or 1 spielen Teppich Funk (aka Lee&Marvin) und Paul Galbur\, im Down Und
- er Romanova\, Franky sowie Gomez & Nickfried. Beginn 20:15\, Ende 06:00\
- , Eintritt frei. Genres nennt das Weberknecht nicht.\n\nhttps://rave.wie
- n/e/2026-11-21-mottosause-boots-beer-beats
-URL:https://rave.wien/e/2026-11-21-mottosause-boots-beer-beats
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-12-07-ravecon-mind-x-mas-feat-mario-ranieri@rave.wien
 DTSTAMP:20261207T000000Z
 DTSTART;TZID=Europe/Vienna:20261207T210000
@@ -86,21 +70,6 @@ DESCRIPTION:Veranstalter: Nasty Connexion\, Out of Space\n\nWeihnachtsaus
  nnerstags im Weberknecht läuft (zuletzt 5 € inkl. Shot). Line-up folg
  t.\n\nhttps://rave.wien/e/2026-12-24-out-of-space-xmas-eve
 URL:https://rave.wien/e/2026-12-24-out-of-space-xmas-eve
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-03-06-fractal-fusion@rave.wien
-DTSTAMP:20270306T000000Z
-DTSTART;TZID=Europe/Vienna:20270306T230000
-DTEND;TZID=Europe/Vienna:20270307T060000
-SUMMARY:Fractal Fusion
-LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
-DESCRIPTION:EJCZKA\nVeranstalter: Fractal Fusion\, Nasty Connexion\n\nNeu
- er Termin der Partyreihe FRACTAL FUSION im Weberknecht am Lerchenfelder 
- Gürtel\, veranstaltet von Nasty Connexion. Am Pult steht EJCZKA (Ufo Bu
- fo)\, die Deko gestaltet CYREAL (Ufo Bufo). Laut Goabase handelt es sich
-  um einen Clubabend von 23 bis 6 Uhr.\n\nhttps://rave.wien/e/2027-03-06-
- fractal-fusion
-URL:https://rave.wien/e/2027-03-06-fractal-fusion
 END:VEVENT
 BEGIN:VEVENT
 UID:2024-01-06-bassproduction-dnb-presents-rosi-tech@rave.wien
@@ -433,5 +402,21 @@ DESCRIPTION:Veranstalter: Out of Space\n\nNeue Ausgabe der Donnerstagsrei
  – Techno Airlines verweist auf ein RA-Event.\n\nhttps://rave.wien/e/20
  26-11-12-out-of-space
 URL:https://rave.wien/e/2026-11-12-out-of-space
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-mottosause-boots-beer-beats@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T201500
+DTEND;TZID=Europe/Vienna:20261122T060000
+SUMMARY:Mottosause // Boots\, Beer & Beats
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Teppich Funk\, Paul Galbur\, Romanova\, Franky\, Gomez & Nick
+ fried\nEintritt frei\n\nMottoparty im Gürtel Saloon des Weberknecht unt
+ er dem Dresscode „Boots\, Beer & Beats“. Auf Floor 1 spielen Teppich
+  Funk (aka Lee&Marvin) und Paul Galbur\, im Down Under Romanova\, Franky
+  sowie Gomez & Nickfried. Beginn 20:15\, Ende 06:00\, Eintritt frei. Gen
+ res nennt das Weberknecht nicht.\n\nhttps://rave.wien/e/2026-11-21-motto
+ sause-boots-beer-beats
+URL:https://rave.wien/e/2026-11-21-mottosause-boots-beer-beats
 END:VEVENT
 END:VCALENDAR

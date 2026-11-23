@@ -26,6 +26,18 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-08-28-panzerschokolade-33@rave.wien
+DTSTAMP:20260828T000000Z
+DTSTART;TZID=Europe/Vienna:20260828T220000
+DTEND;TZID=Europe/Vienna:20260829T030000
+SUMMARY:PANZERSCHOKOLADE #33
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:_ \\ • / _eon\, cri\, Zombieflesheater\, assimilatah\, Iron
+ ica Los Culos\, ranzig\, emr miranda\, faz og\, samuel\nEintritt: Spende
+ \n\nhttps://rave.wien/e/2026-08-28-panzerschokolade-33
+URL:https://rave.wien/e/2026-08-28-panzerschokolade-33
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-21-polychaos-dubium@rave.wien
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Vienna:20261121T230000
@@ -44,17 +56,5 @@ DESCRIPTION:Gawdesque\, anxxxious_t\, Kmanxak\, Ironica Los Culos\, Nova.
  06:00\, der Beschreibungstext 22:00–04:00. Ein Eintrittspreis ist nich
  t angegeben.\n\nhttps://rave.wien/e/2026-11-21-polychaos-dubium
 URL:https://rave.wien/e/2026-11-21-polychaos-dubium
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-08-28-panzerschokolade-33@rave.wien
-DTSTAMP:20260828T000000Z
-DTSTART;TZID=Europe/Vienna:20260828T220000
-DTEND;TZID=Europe/Vienna:20260829T030000
-SUMMARY:PANZERSCHOKOLADE #33
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:_ \\ • / _eon\, cri\, Zombieflesheater\, assimilatah\, Iron
- ica Los Culos\, ranzig\, emr miranda\, faz og\, samuel\nEintritt: Spende
- \n\nhttps://rave.wien/e/2026-08-28-panzerschokolade-33
-URL:https://rave.wien/e/2026-08-28-panzerschokolade-33
 END:VEVENT
 END:VCALENDAR

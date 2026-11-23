@@ -67,6 +67,22 @@ URL:https://rave.wien/e/2026-11-28-switch-presents-primate-sticks-stones-
  europe-tour
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-07-step-to-tek-9-years-anniversary@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T230000
+DTEND;TZID=Europe/Vienna:20261208T050000
+SUMMARY:Step to Tek 9 Years Anniversary
+LOCATION:Flex\, Augartenbrücke 1\, 1010 Wien
+DESCRIPTION:Veranstalter: Step to Tek\n\nDie Wiener Tekno-Reihe Step to T
+ ek feiert ihr neunjähriges Bestehen am Vorabend des Feiertags im Flex 
+ – auf zwei Floors\, von 23 bis 5 Uhr. Step to Tek steht für treibende
+ n Tekno\, Hardtek\, Acid Tek und Underground-Sound\, mit Awareness-Team 
+ und klarer Haltung gegen Diskriminierung. Das Lineup ist noch nicht ver
+ öffentlicht.\n\nhttps://rave.wien/e/2026-12-07-step-to-tek-9-years-anni
+ versary
+URL:https://rave.wien/e/2026-12-07-step-to-tek-9-years-anniversary
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-12-the-hive@rave.wien
 DTSTAMP:20261212T000000Z
 DTSTART;TZID=Europe/Vienna:20261212T230000

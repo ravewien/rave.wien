@@ -4,6 +4,7 @@ const GEO2={
 "Angewandte PSK":[48.20998,16.38065],
 "B72":[48.21512,16.34099],
 "BC Vienna Arena":[48.16219,16.33971],
+"Babenberger Passage":[48.20355,16.36369],
 "Coco Bar":[48.21031,16.339],
 "Creative Cluster Vienna":[48.18878,16.35896],
 "Cupra City Garage":[48.20444,16.36964],
@@ -38,5 +39,6 @@ const GEO2={
 "U4":[48.1833,16.32816],
 "Usus am Wasser":[48.24099,16.39867],
 "WUK":[48.22298,16.35151],
+"Wiener Stadthalle":[48.20208,16.33397],
 "kv.r.":[48.21891,16.32953]
 };

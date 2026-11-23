@@ -26,27 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-21-wiener-blut@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T210000
-DTEND;TZID=Europe/Vienna:20261122T020000
-SUMMARY:Wiener Blut
-LOCATION:Ottakringer Brauerei\, Ottakringer Platz 1\, 1160 Wien
-DESCRIPTION:Veranstalter: SubRosaDictum\nEintritt: ab 78 €\n\nFetisch- 
- und Sinnlichkeitsparty von SubRosaDictum in der Ottakringer Brauerei\, l
- aut Veranstalter dort\, „wo Wiener Tradition auf Sinnlichkeit trifft
- “. Es gibt einen Playground\, Live-Performances und einen gemischten D
- ancefloor\; DJs und Genres sind nicht veröffentlicht. Strenger Dresscod
- e: Latex\, Leder\, Spitze\, Korsagen\, schwarze Abendgarderobe\, Uniform
- en\, Masken und Drag – keine Streetwear und keine bloße Nacktheit. Fo
- tografieren ist streng verboten und führt zum sofortigen Ausschluss\; e
- s gilt Konsens („kein Anfassen\, kein Aufdrängen\, ein Nein ist ein N
- ein“) mit Null-Toleranz bei Grenzüberschreitungen. Beginn 21:00\, Tic
- kets ab 78 €. Laut Ticketshop ist das Event ausverkauft (Warteliste).\
- n\nhttps://rave.wien/e/2026-11-21-wiener-blut
-URL:https://rave.wien/e/2026-11-21-wiener-blut
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-30-zusammenkommen-susses-oder-sauerei@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T210000
@@ -91,5 +70,26 @@ DESCRIPTION:Veranstalter: KSOT\nEintritt: 50 € (Last Release) / Final C
  02:00 20 €.\n\nhttps://rave.wien/e/2026-10-31-ksot-halloween-warehouse
  -rave
 URL:https://rave.wien/e/2026-10-31-ksot-halloween-warehouse-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-wiener-blut@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T210000
+DTEND;TZID=Europe/Vienna:20261122T020000
+SUMMARY:Wiener Blut
+LOCATION:Ottakringer Brauerei\, Ottakringer Platz 1\, 1160 Wien
+DESCRIPTION:Veranstalter: SubRosaDictum\nEintritt: ab 78 €\n\nFetisch- 
+ und Sinnlichkeitsparty von SubRosaDictum in der Ottakringer Brauerei\, l
+ aut Veranstalter dort\, „wo Wiener Tradition auf Sinnlichkeit trifft
+ “. Es gibt einen Playground\, Live-Performances und einen gemischten D
+ ancefloor\; DJs und Genres sind nicht veröffentlicht. Strenger Dresscod
+ e: Latex\, Leder\, Spitze\, Korsagen\, schwarze Abendgarderobe\, Uniform
+ en\, Masken und Drag – keine Streetwear und keine bloße Nacktheit. Fo
+ tografieren ist streng verboten und führt zum sofortigen Ausschluss\; e
+ s gilt Konsens („kein Anfassen\, kein Aufdrängen\, ein Nein ist ein N
+ ein“) mit Null-Toleranz bei Grenzüberschreitungen. Beginn 21:00\, Tic
+ kets ab 78 €. Laut Ticketshop ist das Event ausverkauft (Warteliste).\
+ n\nhttps://rave.wien/e/2026-11-21-wiener-blut
+URL:https://rave.wien/e/2026-11-21-wiener-blut
 END:VEVENT
 END:VCALENDAR

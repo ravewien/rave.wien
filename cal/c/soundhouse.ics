@@ -26,25 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-21-soundhouse@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T220000
-DTEND;TZID=Europe/Vienna:20261122T040000
-SUMMARY:Soundhouse
-LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
-DESCRIPTION:Ced\, Fabian Hofer\, Mize Hetner\nVeranstalter: Soundhouse\nE
- intritt: 8–10 €\n\nNächste Session der Wiener Reihe Soundhouse im T
- agada\, die sich als Abend für Musikbegeisterte versteht und House und 
- Techno samt Subgenres in den Mittelpunkt stellt\; empfohlen wird\, früh
-  zu kommen und lange zu bleiben. Es spielen Ced\, Fabian Hofer und Mize 
- Hetner\, der die Reihe mitorganisiert\; ein Timetable wurde nicht veröf
- fentlicht. Die Veranstalter stellen sich ausdrücklich gegen Rassismus\,
-  Sexismus\, Homophobie und jede andere Form von Gewalt und Diskriminieru
- ng. Von 22:00 bis 04:00\, Eintritt laut RA 8–10 €.\n\nhttps://rave.w
- ien/e/2026-11-21-soundhouse
-URL:https://rave.wien/e/2026-11-21-soundhouse
-END:VEVENT
-BEGIN:VEVENT
 UID:2024-06-29-soundhouse@rave.wien
 DTSTAMP:20240629T000000Z
 DTSTART;VALUE=DATE:20240629
@@ -126,5 +107,24 @@ LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
 DESCRIPTION:Veranstalter: Club Pompadour\, Soundhouse\, techNOage\n\nhttp
  s://rave.wien/e/2026-06-06-pompadour-i-soundhouse-i-technoage
 URL:https://rave.wien/e/2026-06-06-pompadour-i-soundhouse-i-technoage
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-soundhouse@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T220000
+DTEND;TZID=Europe/Vienna:20261122T040000
+SUMMARY:Soundhouse
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Ced\, Fabian Hofer\, Mize Hetner\nVeranstalter: Soundhouse\nE
+ intritt: 8–10 €\n\nNächste Session der Wiener Reihe Soundhouse im T
+ agada\, die sich als Abend für Musikbegeisterte versteht und House und 
+ Techno samt Subgenres in den Mittelpunkt stellt\; empfohlen wird\, früh
+  zu kommen und lange zu bleiben. Es spielen Ced\, Fabian Hofer und Mize 
+ Hetner\, der die Reihe mitorganisiert\; ein Timetable wurde nicht veröf
+ fentlicht. Die Veranstalter stellen sich ausdrücklich gegen Rassismus\,
+  Sexismus\, Homophobie und jede andere Form von Gewalt und Diskriminieru
+ ng. Von 22:00 bis 04:00\, Eintritt laut RA 8–10 €.\n\nhttps://rave.w
+ ien/e/2026-11-21-soundhouse
+URL:https://rave.wien/e/2026-11-21-soundhouse
 END:VEVENT
 END:VCALENDAR

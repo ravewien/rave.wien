@@ -26,23 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-21-art-attech-kunst-kusst-techno@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T200000
-DTEND;TZID=Europe/Vienna:20261122T060000
-SUMMARY:Art Attech – Kunst küsst Techno
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Aleta\, ARAS JE'TÄM\, Krawallbarbie\, OK CUTEE\, Wal_Halla\,
-  DJ Parkverbot\nVeranstalter: Art Attech\nEintritt: VVK 14–18 €\, AK
-  19 €\n\n16. Ausgabe von Art Attech („Kunst küsst Techno“) in der
-  FLUCC Wanne\, von 20:00 bis 06:00. Auf dem Lineup stehen Aleta\, ARAS J
- E'TÄM\, Krawallbarbie\, OK CUTEE\, Wal_Halla und DJ Parkverbot. Vorverk
- auf 14–18 €\, Abendkassa 19 €\, ab 18 Jahren. In der Wanne ist ein
- e Awareness-Person vor Ort.\n\nhttps://rave.wien/e/2026-11-21-art-attech
- -kunst-kusst-techno
-URL:https://rave.wien/e/2026-11-21-art-attech-kunst-kusst-techno
-END:VEVENT
-BEGIN:VEVENT
 UID:2025-07-18-feuchte-traume-sex-positive-party@rave.wien
 DTSTAMP:20250718T000000Z
 DTSTART;TZID=Europe/Vienna:20250718T160000
@@ -77,5 +60,22 @@ DESCRIPTION:MHAK\, Amadeuz\, Swiver\, Testpress\, MARØ\, Krawallbarbie\n
  x-grelle-forelle-clubnight-kitchen-ho
 URL:https://rave.wien/e/2026-08-07-techno-kult-x-grelle-forelle-clubnight
  -kitchen-ho
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-art-attech-kunst-kusst-techno@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T200000
+DTEND;TZID=Europe/Vienna:20261122T060000
+SUMMARY:Art Attech – Kunst küsst Techno
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Aleta\, ARAS JE'TÄM\, Krawallbarbie\, OK CUTEE\, Wal_Halla\,
+  DJ Parkverbot\nVeranstalter: Art Attech\nEintritt: VVK 14–18 €\, AK
+  19 €\n\n16. Ausgabe von Art Attech („Kunst küsst Techno“) in der
+  FLUCC Wanne\, von 20:00 bis 06:00. Auf dem Lineup stehen Aleta\, ARAS J
+ E'TÄM\, Krawallbarbie\, OK CUTEE\, Wal_Halla und DJ Parkverbot. Vorverk
+ auf 14–18 €\, Abendkassa 19 €\, ab 18 Jahren. In der Wanne ist ein
+ e Awareness-Person vor Ort.\n\nhttps://rave.wien/e/2026-11-21-art-attech
+ -kunst-kusst-techno
+URL:https://rave.wien/e/2026-11-21-art-attech-kunst-kusst-techno
 END:VEVENT
 END:VCALENDAR

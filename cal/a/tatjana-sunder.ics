@@ -26,6 +26,18 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-08-17-agapa-party-w-b-rt-tatjana-sunder-fabian-hofer@rave.wien
+DTSTAMP:20240817T000000Z
+DTSTART;VALUE=DATE:20240817
+DTEND;VALUE=DATE:20240818
+SUMMARY:Agapa Party w/ Børt\, Tatjana Sünder\, Fabian Hofer
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:Børt\, Tatjana Sünder\, Fabian Hofer\n\nhttps://rave.wien/e
+ /2024-08-17-agapa-party-w-b-rt-tatjana-sunder-fabian-hofer
+URL:https://rave.wien/e/2024-08-17-agapa-party-w-b-rt-tatjana-sunder-fabi
+ an-hofer
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-21-technoage-ab-funfzehn-uhr-clubbing@rave.wien
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Vienna:20261121T150000
@@ -45,17 +57,5 @@ DESCRIPTION:DJ Rakita\, Tatjana Sünder\nVeranstalter: techNOage\nEintrit
  gang ist barrierefrei.\n\nhttps://rave.wien/e/2026-11-21-technoage-ab-fu
  nfzehn-uhr-clubbing
 URL:https://rave.wien/e/2026-11-21-technoage-ab-funfzehn-uhr-clubbing
-END:VEVENT
-BEGIN:VEVENT
-UID:2024-08-17-agapa-party-w-b-rt-tatjana-sunder-fabian-hofer@rave.wien
-DTSTAMP:20240817T000000Z
-DTSTART;VALUE=DATE:20240817
-DTEND;VALUE=DATE:20240818
-SUMMARY:Agapa Party w/ Børt\, Tatjana Sünder\, Fabian Hofer
-LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
-DESCRIPTION:Børt\, Tatjana Sünder\, Fabian Hofer\n\nhttps://rave.wien/e
- /2024-08-17-agapa-party-w-b-rt-tatjana-sunder-fabian-hofer
-URL:https://rave.wien/e/2024-08-17-agapa-party-w-b-rt-tatjana-sunder-fabi
- an-hofer
 END:VEVENT
 END:VCALENDAR

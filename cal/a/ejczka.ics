@@ -25,19 +25,4 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:2027-03-06-fractal-fusion@rave.wien
-DTSTAMP:20270306T000000Z
-DTSTART;TZID=Europe/Vienna:20270306T230000
-DTEND;TZID=Europe/Vienna:20270307T060000
-SUMMARY:Fractal Fusion
-LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
-DESCRIPTION:EJCZKA\nVeranstalter: Fractal Fusion\, Nasty Connexion\n\nNeu
- er Termin der Partyreihe FRACTAL FUSION im Weberknecht am Lerchenfelder 
- Gürtel\, veranstaltet von Nasty Connexion. Am Pult steht EJCZKA (Ufo Bu
- fo)\, die Deko gestaltet CYREAL (Ufo Bufo). Laut Goabase handelt es sich
-  um einen Clubabend von 23 bis 6 Uhr.\n\nhttps://rave.wien/e/2027-03-06-
- fractal-fusion
-URL:https://rave.wien/e/2027-03-06-fractal-fusion
-END:VEVENT
 END:VCALENDAR

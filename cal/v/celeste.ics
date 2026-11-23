@@ -26,23 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-21-hosted-by-the-zound-partisans@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T210000
-DTEND;TZID=Europe/Vienna:20261122T060000
-SUMMARY:hosted by the zound partisans
-LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
-DESCRIPTION:STAATSEINDE\, IVUR\, ha:kuzaa\, missantroop\, _ra_di_aa_ti_on
- _\, finster\nVeranstalter: the zound partisans\n\nDie zound partisans ü
- bernehmen das Celeste\, Gastgeber*in ist ha:kuzaa\, der/die auch selbst 
- auflegt. Live spielen STAATSEINDE und IVUR\, an den Decks stehen außerd
- em missantroop\, _ra_di_aa_ti_on_ und finster. Clubnacht von 21:00 bis 0
- 6:00. Preis\, Genres und Flyer sind auf der Seite des Celeste nicht ange
- geben\; das Celeste verlinkt dazu nur einen Instagram-Beitrag.\n\nhttps:
- //rave.wien/e/2026-11-21-hosted-by-the-zound-partisans
-URL:https://rave.wien/e/2026-11-21-hosted-by-the-zound-partisans
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-27-like-minded@rave.wien
 DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Vienna:20261127T220000
@@ -699,5 +682,22 @@ DESCRIPTION:Malounadou\, Anna Soto\, Jule Feser\, Aside\nVeranstalter: Da
  RA-Seite nicht. 22:00–06:00.\n\nhttps://rave.wien/e/2026-11-20-syndika
  t
 URL:https://rave.wien/e/2026-11-20-syndikat
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-hosted-by-the-zound-partisans@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T210000
+DTEND;TZID=Europe/Vienna:20261122T060000
+SUMMARY:hosted by the zound partisans
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:STAATSEINDE\, IVUR\, ha:kuzaa\, missantroop\, _ra_di_aa_ti_on
+ _\, finster\nVeranstalter: the zound partisans\n\nDie zound partisans ü
+ bernehmen das Celeste\, Gastgeber*in ist ha:kuzaa\, der/die auch selbst 
+ auflegt. Live spielen STAATSEINDE und IVUR\, an den Decks stehen außerd
+ em missantroop\, _ra_di_aa_ti_on_ und finster. Clubnacht von 21:00 bis 0
+ 6:00. Preis\, Genres und Flyer sind auf der Seite des Celeste nicht ange
+ geben\; das Celeste verlinkt dazu nur einen Instagram-Beitrag.\n\nhttps:
+ //rave.wien/e/2026-11-21-hosted-by-the-zound-partisans
+URL:https://rave.wien/e/2026-11-21-hosted-by-the-zound-partisans
 END:VEVENT
 END:VCALENDAR

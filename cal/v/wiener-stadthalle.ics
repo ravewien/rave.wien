@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wiener Stadthalle · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-11-24-the-prodigy@rave.wien
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Europe/Vienna:20261124T193000
+DTEND;TZID=Europe/Vienna:20261125T003000
+SUMMARY:The Prodigy
+LOCATION:Wiener Stadthalle\, Roland-Rainer-Platz 1\, 1150 Wien
+DESCRIPTION:The Prodigy\, Mefjus\n\nDie britische Rave-Institution The Pr
+ odigy um Liam Howlett und Maxim spielt live in der Halle D der Wiener St
+ adthalle (Einlass 18:30\, Beginn 19:30)\, präsentiert von Barracuda Mus
+ ic. Die neue Liveshow mit den langjährigen Live-Mitgliedern Rob Hollida
+ y (Gitarre) und Leo Crabtree (Schlagzeug) setzt laut Veranstalter auf gr
+ elle Visuals und massiven Bass\; die Band arbeitet am Nachfolger von „
+ No Tourists“\, nach sieben UK-Nummer-1-Alben in Folge seit „Music fo
+ r the Jilted Generation“. Als Support legt der Wiener Drum-&-Bass-Prod
+ uzent Mefjus auf. Tickets über oeticket.\n\nhttps://rave.wien/e/2026-11
+ -24-the-prodigy
+URL:https://rave.wien/e/2026-11-24-the-prodigy
+END:VEVENT
+END:VCALENDAR

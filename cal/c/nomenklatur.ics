@@ -28,18 +28,18 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-26-nomenklatur-w-cancer-house-live-when-it-s-over-li@rave.wien
 DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Vienna:20261126T190000
-DTEND;TZID=Europe/Vienna:20261126T230000
+DTSTART;TZID=Europe/Vienna:20261126T200000
+DTEND;TZID=Europe/Vienna:20261127T000000
 SUMMARY:nomenklatur w/ Cancer House (live) & When It's Over (live)
 LOCATION:Das Lot\, Absberggasse 31\, 1100 Wien
 DESCRIPTION:Cancer House\, When It's Over\nVeranstalter: nomenklatur\n\nN
  eue Ausgabe der Reihe nomenklatur\, die sonst meist im Rhiz stattfindet 
  – diesmal im Das Lot in Favoriten\, einem Veranstaltungsraum\, Produkt
- ionsstudio und Forschungslabor in der Absberggasse. Angekündigt sind zw
- ei Live-Acts: Cancer House und When It's Over. Beginn laut Techno Airlin
- es um 19:00 Uhr\; Preis\, Ende und weitere Details sind noch nicht bekan
- nt.\n\nhttps://rave.wien/e/2026-11-26-nomenklatur-w-cancer-house-live-wh
- en-it-s-over-li
+ ionsstudio und Forschungslabor in der Absberggasse\, im Rahmen von „LO
+ TinConcert“. Angekündigt sind zwei Live-Acts: Cancer House und When I
+ t’s Over. Laut Das Lot läuft der Abend von 20 bis 24 Uhr (Techno Airl
+ ines nennt 19 Uhr)\; ein Preis ist nicht angegeben.\n\nhttps://rave.wien
+ /e/2026-11-26-nomenklatur-w-cancer-house-live-when-it-s-over-li
 URL:https://rave.wien/e/2026-11-26-nomenklatur-w-cancer-house-live-when-i
  t-s-over-li
 END:VEVENT

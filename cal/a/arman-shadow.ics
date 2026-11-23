@@ -26,24 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-21-54hz-pres-creeds@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T230000
-DTEND;TZID=Europe/Vienna:20261122T060000
-SUMMARY:54Hz pres. CREEDS
-LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Main Floor: CREEDS\, Arman Shadow\, DJ Wolle\, Rantom\, SoDa\
- nLuster Floor: MUSA\, ADANA\, adrialin\nVeranstalter: 54Hz\, Stay Acid\n
- Eintritt: VVK 12 € / AK 20 €\n\nStay Acid präsentiert eine weitere 
- 54Hz-Nacht im Werk\, Headliner ist CREEDS („Wien seid ihr Ready?“). 
- Auf dem Main Floor spielen außerdem Arman Shadow\, DJ Wolle sowie Ranto
- m b2b SoDa\, auf dem Luster Floor MUSA\, ADANA und adrialin. Angekündig
- t sind Bounce\, Hard Dance und Hard Techno. 23:00–06:00\; Eintritt lau
- t Freytag im Vorverkauf 12 €\, an der Abendkassa 20 €.\n\nhttps://ra
- ve.wien/e/2026-11-21-54hz-pres-creeds
-URL:https://rave.wien/e/2026-11-21-54hz-pres-creeds
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-27-resident-night-golpe-detoxx@rave.wien
 DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Vienna:20261127T230000
@@ -101,5 +83,23 @@ DESCRIPTION:Joey\, Crystal O\, Rantom\, LUZZT\, Dj Wifi\, Arman Shadow\,
  d einen Beschreibungstext veröffentlicht die Location nicht.\n\nhttps:/
  /rave.wien/e/2026-10-31-halloween-special
 URL:https://rave.wien/e/2026-10-31-halloween-special
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-54hz-pres-creeds@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T230000
+DTEND;TZID=Europe/Vienna:20261122T060000
+SUMMARY:54Hz pres. CREEDS
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:CREEDS\, Arman Shadow\, DJ Wolle\, Rantom\, SoDa\, MUSA\, ADA
+ NA\, adrialin\nVeranstalter: 54Hz\, Stay Acid\nEintritt: VVK 12 € / AK
+  20 €\n\nStay Acid präsentiert eine weitere 54Hz-Nacht im Werk\, Head
+ liner ist CREEDS („Wien seid ihr Ready?“). Auf dem Main Floor spiele
+ n außerdem Arman Shadow\, DJ Wolle sowie Rantom b2b SoDa\, auf dem Lust
+ er Floor MUSA\, ADANA und adrialin. Angekündigt sind Bounce\, Hard Danc
+ e und Hard Techno. 23:00–06:00\; Eintritt laut Freytag im Vorverkauf 1
+ 2 €\, an der Abendkassa 20 €.\n\nhttps://rave.wien/e/2026-11-21-54hz
+ -pres-creeds
+URL:https://rave.wien/e/2026-11-21-54hz-pres-creeds
 END:VEVENT
 END:VCALENDAR

@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//rave.wien//Kalender//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Lnkmn · rave.wien
+X-WR-CALNAME:LNKMN · rave.wien
 X-WR-TIMEZONE:Europe/Vienna
 X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
@@ -26,14 +26,20 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-05-15-kid-kodama-lnkmn@rave.wien
-DTSTAMP:20260515T000000Z
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-SUMMARY:Kid Kodama & Lnkmn
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Kid Kodama\, Lnkmn\n\nhttps://rave.wien/e/2026-05-15-kid-koda
- ma-lnkmn
-URL:https://rave.wien/e/2026-05-15-kid-kodama-lnkmn
+UID:2026-12-04-off-the-grid-x-acid-lambada@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T220000
+DTEND;TZID=Europe/Vienna:20261205T040000
+SUMMARY:Off The Grid x Acid Lambada
+LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
+DESCRIPTION:B.Ranks\, Claromor\, DJ Odd\, LNKMN\, Peletronic\, Rapha Read
+ y\nVeranstalter: Off The Grid\, Acid Lambada\n\nDie Crews Off The Grid u
+ nd Acid Lambada führen ihre gemeinsame Party-Tradition im Tagada fort. 
+ Beide teilen laut Ankündigung die Liebe zu House\, UK Garage\, Breaks u
+ nd Electro und haben noch viele andere Sounds in den Plattenkisten. Es s
+ pielen B.Ranks\, Claromor\, DJ Odd\, LNKMN\, Peletronic und Rapha Ready\
+ , von 22 bis 4 Uhr. Eintritt nicht angegeben.\n\nhttps://rave.wien/e/202
+ 6-12-04-off-the-grid-x-acid-lambada
+URL:https://rave.wien/e/2026-12-04-off-the-grid-x-acid-lambada
 END:VEVENT
 END:VCALENDAR

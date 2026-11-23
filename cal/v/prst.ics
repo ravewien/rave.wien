@@ -28,15 +28,15 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-26-donnerstrada@rave.wien
 DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Vienna:20261126T210000
-DTEND;TZID=Europe/Vienna:20261127T020000
+DTSTART;TZID=Europe/Vienna:20261126T230000
+DTEND;TZID=Europe/Vienna:20261127T040000
 SUMMARY:Donnerstrada
 LOCATION:PRST\, Praterstraße 18\, 1020 Wien
-DESCRIPTION:Veranstalter: Donnerstrada\n\nNeue Ausgabe der Donnerstags-Re
- ihe Donnerstrada im PRST in der Praterstraße. Der FALTER führt den Abe
- nd als Party mit Beginn um 21:00. Lineup\, Preise und Ticketinfos sind b
- isher nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-11-26-donnerstr
- ada
+DESCRIPTION:Fabian F\, Mia Mia\nVeranstalter: Donnerstrada\nEintritt frei
+ \n\nNeue Ausgabe der Donnerstags-Reihe Donnerstrada im PRST in der Prate
+ rstraße: Fabian F und Mia Mia legen auf\, der Eintritt ist laut Freytag
+  die ganze Nacht frei. Beginn 23 Uhr (der FALTER nannte zuvor 21 Uhr).\n
+ \nhttps://rave.wien/e/2026-11-26-donnerstrada
 URL:https://rave.wien/e/2026-11-26-donnerstrada
 END:VEVENT
 BEGIN:VEVENT

@@ -26,26 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-21-polychaos-dubium@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T230000
-DTEND;TZID=Europe/Vienna:20261122T060000
-SUMMARY:POLYCHAOS DUBIUM
-LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
-DESCRIPTION:Gawdesque\, anxxxious_t\, Kmanxak\, Ironica Los Culos\, Nova.
- psd\n\nPOLYCHAOS DUBIUM ist eine Reihe für hybride Clubmusik und Global
-  Bass\, hier in ihrer zweiten Ausgabe im Rhiz. Versprochen wird ein perk
- ussiver\, energiegeladener Abend quer durch Gqom\, Baile Funk\, Neo Perr
- eo\, Kuduro\, Batida\, Jersey Club\, Jungle\, Juke\, Ghettotech\, Guarac
- ha\, Footwork\, Breakcore\, Electro und Experimentelles. An den Decks st
- ehen Gawdesque\, anxxxious_t\, Kmanxak und Ironica Los Culos\; Nova.psd 
- zeigt als VJ eine Installation aus Röhrenfernsehern\, Qualia und Ironic
- a Los Culos gestalten Licht- und Objektinstallationen. RA nennt 23:00–
- 06:00\, der Beschreibungstext 22:00–04:00. Ein Eintrittspreis ist nich
- t angegeben.\n\nhttps://rave.wien/e/2026-11-21-polychaos-dubium
-URL:https://rave.wien/e/2026-11-21-polychaos-dubium
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-28-sweat@rave.wien
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Vienna:20261128T235900
@@ -167,5 +147,25 @@ DESCRIPTION:TenFifty\, Annzie\, High Chew\nVeranstalter: GLITCH\nEintritt
  0 (Seite und RA nennen 23:59 bzw. 23:30 als Beginn).\n\nhttps://rave.wie
  n/e/2026-11-20-glitch-vienna-001
 URL:https://rave.wien/e/2026-11-20-glitch-vienna-001
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-polychaos-dubium@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T230000
+DTEND;TZID=Europe/Vienna:20261122T060000
+SUMMARY:POLYCHAOS DUBIUM
+LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
+DESCRIPTION:Gawdesque\, anxxxious_t\, Kmanxak\, Ironica Los Culos\, Nova.
+ psd\n\nPOLYCHAOS DUBIUM ist eine Reihe für hybride Clubmusik und Global
+  Bass\, hier in ihrer zweiten Ausgabe im Rhiz. Versprochen wird ein perk
+ ussiver\, energiegeladener Abend quer durch Gqom\, Baile Funk\, Neo Perr
+ eo\, Kuduro\, Batida\, Jersey Club\, Jungle\, Juke\, Ghettotech\, Guarac
+ ha\, Footwork\, Breakcore\, Electro und Experimentelles. An den Decks st
+ ehen Gawdesque\, anxxxious_t\, Kmanxak und Ironica Los Culos\; Nova.psd 
+ zeigt als VJ eine Installation aus Röhrenfernsehern\, Qualia und Ironic
+ a Los Culos gestalten Licht- und Objektinstallationen. RA nennt 23:00–
+ 06:00\, der Beschreibungstext 22:00–04:00. Ein Eintrittspreis ist nich
+ t angegeben.\n\nhttps://rave.wien/e/2026-11-21-polychaos-dubium
+URL:https://rave.wien/e/2026-11-21-polychaos-dubium
 END:VEVENT
 END:VCALENDAR

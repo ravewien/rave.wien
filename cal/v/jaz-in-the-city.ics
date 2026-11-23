@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-21-rooftop-series-at-mariatrink@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T200000
-DTEND;TZID=Europe/Vienna:20261121T230000
-SUMMARY:Rooftop Series at Mariatrink
-LOCATION:Jaz in the City\, Windmühlgasse 28\, 1060 Wien
-DESCRIPTION:Fede Frostl\nEintritt frei\n\nRooftop-Session in der Mariatri
- nk\, der Dachbar des Hotels Jaz in the City in der Windmühlgasse: DJ Fe
- de Frostl spielt ab 20:00 ein Set mit Progressive House. Eintritt frei\,
-  Ende laut RA 23:00. Weitere Infos zu Mindestalter oder Dresscode gibt e
- s nicht.\n\nhttps://rave.wien/e/2026-11-21-rooftop-series-at-mariatrink
-URL:https://rave.wien/e/2026-11-21-rooftop-series-at-mariatrink
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-12-05-rooftop-series-at-mariatrink@rave.wien
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=Europe/Vienna:20261205T200000
@@ -55,5 +41,19 @@ DESCRIPTION:Fede Frostl\nEintritt frei\n\nWeitere Ausgabe der Rooftop Ser
  ressive House spielt. Beginn 20:00\, Ende 23:00\, Eintritt frei.\n\nhttp
  s://rave.wien/e/2026-12-05-rooftop-series-at-mariatrink
 URL:https://rave.wien/e/2026-12-05-rooftop-series-at-mariatrink
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-rooftop-series-at-mariatrink@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T200000
+DTEND;TZID=Europe/Vienna:20261121T230000
+SUMMARY:Rooftop Series at Mariatrink
+LOCATION:Jaz in the City\, Windmühlgasse 28\, 1060 Wien
+DESCRIPTION:Fede Frostl\nEintritt frei\n\nRooftop-Session in der Mariatri
+ nk\, der Dachbar des Hotels Jaz in the City in der Windmühlgasse: DJ Fe
+ de Frostl spielt ab 20:00 ein Set mit Progressive House. Eintritt frei\,
+  Ende laut RA 23:00. Weitere Infos zu Mindestalter oder Dresscode gibt e
+ s nicht.\n\nhttps://rave.wien/e/2026-11-21-rooftop-series-at-mariatrink
+URL:https://rave.wien/e/2026-11-21-rooftop-series-at-mariatrink
 END:VEVENT
 END:VCALENDAR

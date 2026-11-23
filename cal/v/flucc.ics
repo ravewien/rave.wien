@@ -26,61 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-21-technoage-ab-funfzehn-uhr-clubbing@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T150000
-DTEND;TZID=Europe/Vienna:20261121T210000
-SUMMARY:techNOage – ab fünfzehn Uhr Clubbing
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:DJ Rakita\, Tatjana Sünder\nVeranstalter: techNOage\nEintrit
- t: Freie Spende\n\ntechNOage lädt zum Nachmittags-Clubbing aufs FLUCC D
- eck (15–21 Uhr)\, Eintritt gegen freie Spende („So viel Dein Taktor 
- wippt“). Die Reihe versteht Techno nicht als enge Kategorie\, verweist
-  auf seine Wurzeln in der Schwarzen Arbeiter:innenbewegung Detroits zwis
- chen Soul\, Funk und Maschinenmusik und fragt\, wo die Grenzen des Genre
- s liegen. Das Lineup bewegt sich in Phasen innerhalb des Four-to-the-flo
- or-Rahmens und baut wie in einer Ein-Raum-Disco einen Spannungsbogen vom
-  Anfang bis zum Ende auf. Laut Techno Airlines und RA spielen DJ Rakita 
- und SNDR_Xone. Es gibt Kaffee und Kuchen für einen guten Zweck\, der Zu
- gang ist barrierefrei.\n\nhttps://rave.wien/e/2026-11-21-technoage-ab-fu
- nfzehn-uhr-clubbing
-URL:https://rave.wien/e/2026-11-21-technoage-ab-funfzehn-uhr-clubbing
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-21-art-attech-kunst-kusst-techno@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T200000
-DTEND;TZID=Europe/Vienna:20261122T060000
-SUMMARY:Art Attech – Kunst küsst Techno
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Aleta\, ARAS JE'TÄM\, Krawallbarbie\, OK CUTEE\, Wal_Halla\,
-  DJ Parkverbot\nVeranstalter: Art Attech\nEintritt: VVK 14–18 €\, AK
-  19 €\n\n16. Ausgabe von Art Attech („Kunst küsst Techno“) in der
-  FLUCC Wanne\, von 20:00 bis 06:00. Auf dem Lineup stehen Aleta\, ARAS J
- E'TÄM\, Krawallbarbie\, OK CUTEE\, Wal_Halla und DJ Parkverbot. Vorverk
- auf 14–18 €\, Abendkassa 19 €\, ab 18 Jahren. In der Wanne ist ein
- e Awareness-Person vor Ort.\n\nhttps://rave.wien/e/2026-11-21-art-attech
- -kunst-kusst-techno
-URL:https://rave.wien/e/2026-11-21-art-attech-kunst-kusst-techno
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-21-tanz-dich-glucklich@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T230000
-DTEND;TZID=Europe/Vienna:20261122T040000
-SUMMARY:Tanz dich glücklich
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:DJEENI\, Saender\, Saratonin\, SWEGALICIOUS\, Wiener Grantsch
- eibn\nVeranstalter: Tanz dich glücklich\nEintritt: AK 15 €\n\nDie Fee
- l-Good-Partyreihe Tanz dich glücklich\, die es seit 2018 gibt\, kommt a
- ufs FLUCC Deck. Gespielt wird alles zwischen groovy House und schnellem 
- Bounce\, dazu kommt Live-Saxophon. Hinter den Decks stehen DJEENI\, Saen
- der\, Saratonin\, SWEGALICIOUS und Wiener Grantscheibn\; Set-Zeiten nenn
- t die Location nicht. Eintritt 15 €\, nur an der Abendkasse.\n\nhttps:
- //rave.wien/e/2026-11-21-tanz-dich-glucklich
-URL:https://rave.wien/e/2026-11-21-tanz-dich-glucklich
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-22-sonntag-sdisco-vol-29@rave.wien
 DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Vienna:20261122T200000
@@ -3950,5 +3895,60 @@ DESCRIPTION:NoNameLeft\, Mateo!\, David Phoenix\, Nya Nyx\nVeranstalter:
   €. Die FLUCC-Seite selbst enthält keine Beschreibung oder Flyer.\n\n
  https://rave.wien/e/2026-11-20-vision-serpent
 URL:https://rave.wien/e/2026-11-20-vision-serpent
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-technoage-ab-funfzehn-uhr-clubbing@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T150000
+DTEND;TZID=Europe/Vienna:20261121T210000
+SUMMARY:techNOage – ab fünfzehn Uhr Clubbing
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:DJ Rakita\, Tatjana Sünder\nVeranstalter: techNOage\nEintrit
+ t: Freie Spende\n\ntechNOage lädt zum Nachmittags-Clubbing aufs FLUCC D
+ eck (15–21 Uhr)\, Eintritt gegen freie Spende („So viel Dein Taktor 
+ wippt“). Die Reihe versteht Techno nicht als enge Kategorie\, verweist
+  auf seine Wurzeln in der Schwarzen Arbeiter:innenbewegung Detroits zwis
+ chen Soul\, Funk und Maschinenmusik und fragt\, wo die Grenzen des Genre
+ s liegen. Das Lineup bewegt sich in Phasen innerhalb des Four-to-the-flo
+ or-Rahmens und baut wie in einer Ein-Raum-Disco einen Spannungsbogen vom
+  Anfang bis zum Ende auf. Laut Techno Airlines und RA spielen DJ Rakita 
+ und SNDR_Xone. Es gibt Kaffee und Kuchen für einen guten Zweck\, der Zu
+ gang ist barrierefrei.\n\nhttps://rave.wien/e/2026-11-21-technoage-ab-fu
+ nfzehn-uhr-clubbing
+URL:https://rave.wien/e/2026-11-21-technoage-ab-funfzehn-uhr-clubbing
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-art-attech-kunst-kusst-techno@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T200000
+DTEND;TZID=Europe/Vienna:20261122T060000
+SUMMARY:Art Attech – Kunst küsst Techno
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Aleta\, ARAS JE'TÄM\, Krawallbarbie\, OK CUTEE\, Wal_Halla\,
+  DJ Parkverbot\nVeranstalter: Art Attech\nEintritt: VVK 14–18 €\, AK
+  19 €\n\n16. Ausgabe von Art Attech („Kunst küsst Techno“) in der
+  FLUCC Wanne\, von 20:00 bis 06:00. Auf dem Lineup stehen Aleta\, ARAS J
+ E'TÄM\, Krawallbarbie\, OK CUTEE\, Wal_Halla und DJ Parkverbot. Vorverk
+ auf 14–18 €\, Abendkassa 19 €\, ab 18 Jahren. In der Wanne ist ein
+ e Awareness-Person vor Ort.\n\nhttps://rave.wien/e/2026-11-21-art-attech
+ -kunst-kusst-techno
+URL:https://rave.wien/e/2026-11-21-art-attech-kunst-kusst-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-tanz-dich-glucklich@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T230000
+DTEND;TZID=Europe/Vienna:20261122T040000
+SUMMARY:Tanz dich glücklich
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:DJEENI\, Saender\, Saratonin\, SWEGALICIOUS\, Wiener Grantsch
+ eibn\nVeranstalter: Tanz dich glücklich\nEintritt: AK 15 €\n\nDie Fee
+ l-Good-Partyreihe Tanz dich glücklich\, die es seit 2018 gibt\, kommt a
+ ufs FLUCC Deck. Gespielt wird alles zwischen groovy House und schnellem 
+ Bounce\, dazu kommt Live-Saxophon. Hinter den Decks stehen DJEENI\, Saen
+ der\, Saratonin\, SWEGALICIOUS und Wiener Grantscheibn\; Set-Zeiten nenn
+ t die Location nicht. Eintritt 15 €\, nur an der Abendkasse.\n\nhttps:
+ //rave.wien/e/2026-11-21-tanz-dich-glucklich
+URL:https://rave.wien/e/2026-11-21-tanz-dich-glucklich
 END:VEVENT
 END:VCALENDAR

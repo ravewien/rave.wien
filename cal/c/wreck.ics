@@ -26,6 +26,22 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-22-morgengymnastik-wreck@rave.wien
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Vienna:20261122T060000
+DTEND;TZID=Europe/Vienna:20261122T110000
+SUMMARY:Morgengymnastik × Wreck
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Young Sun\, AE-X\nVeranstalter: Wreck\, Morgengymnastik\nEint
+ ritt: 15 €\n\nMorgengymnastik\, die Sonntags-Afterhour im SASS Music C
+ lub\, wird diesmal von Wreck kuratiert: Von 6 bis 11 Uhr spielen Young S
+ un und AE-X. Der Eintritt beträgt 15 €. Alle SASS-Veranstaltungen wer
+ den von einem Awareness-Team begleitet\; Einlass ab 18 mit Ausweis- und 
+ Taschenkontrolle.\n\nhttps://rave.wien/e/2026-11-22-morgengymnastik-wrec
+ k
+URL:https://rave.wien/e/2026-11-22-morgengymnastik-wreck
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-21-wreck@rave.wien
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Vienna:20261121T230000
@@ -45,21 +61,5 @@ DESCRIPTION:Young Sun\, Tim Kern\, LaLa\, AE-X\nVeranstalter: Wreck\nEint
  i allen SASS-Events ist ein Awareness-Team vor Ort.\n\nhttps://rave.wien
  /e/2026-11-21-wreck
 URL:https://rave.wien/e/2026-11-21-wreck
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-22-morgengymnastik-wreck@rave.wien
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Vienna:20261122T060000
-DTEND;TZID=Europe/Vienna:20261122T110000
-SUMMARY:Morgengymnastik × Wreck
-LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Young Sun\, AE-X\nVeranstalter: Wreck\, Morgengymnastik\nEint
- ritt: 15 €\n\nMorgengymnastik\, die Sonntags-Afterhour im SASS Music C
- lub\, wird diesmal von Wreck kuratiert: Von 6 bis 11 Uhr spielen Young S
- un und AE-X. Der Eintritt beträgt 15 €. Alle SASS-Veranstaltungen wer
- den von einem Awareness-Team begleitet\; Einlass ab 18 mit Ausweis- und 
- Taschenkontrolle.\n\nhttps://rave.wien/e/2026-11-22-morgengymnastik-wrec
- k
-URL:https://rave.wien/e/2026-11-22-morgengymnastik-wreck
 END:VEVENT
 END:VCALENDAR

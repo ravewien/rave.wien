@@ -26,22 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-21-endless-insanity-iii@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T220000
-DTEND;TZID=Europe/Vienna:20261122T060000
-SUMMARY:Endless Insanity III
-LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
-DESCRIPTION:Klangmassaker\, Highko\, Agressive Mood\, Maze of Madness\nVe
- ranstalter: Endless Insanity\nEintritt: AK 15 €\n\nDritte Ausgabe der 
- Hi-Tech-Reihe Endless Insanity im Maschinenraum des Exil – nach dem Pr
- inzip stundenlanger Sets ohne Unterbrechung: Klangmassaker spielt ein zw
- eistündiges Projekt\, danach Highko\, Agressive Mood und Maze of Madnes
- s sechs Stunden als nahtloses Tri-Projekt. Tickets nur an der Abendkasse
- .\n\nhttps://rave.wien/e/2026-11-21-endless-insanity-iii
-URL:https://rave.wien/e/2026-11-21-endless-insanity-iii
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-27-20-jahre-cpe@rave.wien
 DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Vienna:20261127T220000
@@ -623,5 +607,21 @@ DESCRIPTION:Neoteric x Alerta\, Booster Club\, Danubian Dub\, Soundbügle
  hbar. Das Programm wird laut Veranstalter noch laufend ergänzt.\n\nhttp
  s://rave.wien/e/2026-11-20-grund-fur-exil-soliparty
 URL:https://rave.wien/e/2026-11-20-grund-fur-exil-soliparty
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-endless-insanity-iii@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T220000
+DTEND;TZID=Europe/Vienna:20261122T060000
+SUMMARY:Endless Insanity III
+LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
+DESCRIPTION:Klangmassaker\, Highko\, Agressive Mood\, Maze of Madness\nVe
+ ranstalter: Endless Insanity\nEintritt: AK 15 €\n\nDritte Ausgabe der 
+ Hi-Tech-Reihe Endless Insanity im Maschinenraum des Exil – nach dem Pr
+ inzip stundenlanger Sets ohne Unterbrechung: Klangmassaker spielt ein zw
+ eistündiges Projekt\, danach Highko\, Agressive Mood und Maze of Madnes
+ s sechs Stunden als nahtloses Tri-Projekt. Tickets nur an der Abendkasse
+ .\n\nhttps://rave.wien/e/2026-11-21-endless-insanity-iii
+URL:https://rave.wien/e/2026-11-21-endless-insanity-iii
 END:VEVENT
 END:VCALENDAR
