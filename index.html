@@ -889,10 +889,10 @@ footer a:hover{color:var(--accent)}
 .row.tk .vtags .tag.co.on,.row.tk .vtags .tag.co.on .ii,.row.xr .tag.co.on,.row.xr .tag.co.on .ii{color:var(--c-col)}
 .row.tk .vtags .tag:hover,.row.xr .tag.ve:hover,.row.xr .tag.co:hover{background:none;text-decoration:underline;text-underline-offset:3px}
 
-/* Feste Plätze: Location in eigener Zeile, Veranstalter immer darunter (links). Genres ganz unten (Handy-Liste: auf Höhe der Symbole). */
-.row.tk .vtags>.tag.ve,.row.tk .vtags>.tag:first-child{flex:0 0 100%}
+/* Feste Plätze (Handy): Location in eigener Zeile, Veranstalter immer darunter (links). Genres ganz unten (Handy-Liste: auf Höhe der Symbole). */
+@media (max-width:879px){.row.tk .vtags>.tag.ve,.row.tk .vtags>.tag:first-child{flex:0 0 100%}}
 @container out (max-width:759px){.row.tk .gf>.tags{margin-top:auto;padding-top:4px}}
-.emain>.tags.vco>:first-child{flex:0 0 100%}
+@media (max-width:879px){.emain>.tags.vco>:first-child{flex:0 0 100%}}
 .emain>.tags:has(.gcl){order:9}
 .row.tk .gcl,.row.xr .gcl{border:0;background:none;letter-spacing:.06em;font-size:12px;color:var(--mute)}
 .row.tk .gcl,.row.xr .gcl{display:block;line-height:1.55}.row.tk .gcl>*,.row.xr .gcl>*{display:inline}
