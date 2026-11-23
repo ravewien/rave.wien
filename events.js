@@ -46933,7 +46933,8 @@ const AR={
  },
  "Misaya": {
   "links": {
-   "sc": "https://soundcloud.com/misayaofficial"
+   "sc": "https://soundcloud.com/misayaofficial",
+   "sp": "https://open.spotify.com/artist/0uMYB7w6oXQDdyVKNoxtQD"
   },
   "genres": [
    "Progressive Psytrance",
@@ -46956,7 +46957,8 @@ const AR={
   ],
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
-  "spChk": "2026-11-22"
+  "spChk": "2026-11-22",
+  "man": 1
  },
  "Progtamin": {
   "links": {
@@ -54019,7 +54021,8 @@ const AR={
  },
  "Chewlie": {
   "links": {
-   "sc": "https://soundcloud.com/juicy_chewlie"
+   "sc": "https://soundcloud.com/juicy_chewlie",
+   "sp": "https://open.spotify.com/artist/7ApFADmZVN6OAe5DuYe7GS"
   },
   "src": [
    "https://soundcloud.com/juicy_chewlie"
@@ -54031,7 +54034,8 @@ const AR={
    "Bass",
    "Footwork"
   ],
-  "spChk": "2026-11-22"
+  "spChk": "2026-11-22",
+  "man": 1
  },
  "Jan Loup": {
   "links": {
@@ -54238,7 +54242,8 @@ const AR={
  },
  "madcore": {
   "links": {
-   "sc": "https://soundcloud.com/madcoredubstep"
+   "sc": "https://soundcloud.com/madcoredubstep",
+   "sp": "https://open.spotify.com/artist/1271NVXrouqOPPxx8K5TUP"
   },
   "sets": [
    {
@@ -54256,7 +54261,8 @@ const AR={
   "genres": [
    "Dubstep"
   ],
-  "spChk": "2026-11-22"
+  "spChk": "2026-11-22",
+  "man": 1
  },
  "A.way": {
   "infoChk": "2026-11-20",
@@ -55346,31 +55352,6 @@ const AR={
   "noLinks": "2026-11-22",
   "infoChk": "2026-11-22",
   "spChk": "2026-11-22"
- },
- "Tribal Vibes": {
-  "genres": [
-   "Psytrance",
-   "Trance"
-  ],
-  "coll": [
-   "Tribal Vibes"
-  ],
-  "noImg": "2026-11-22",
-  "noLinks": "2026-11-22",
-  "infoChk": "2026-11-22",
-  "spChk": "2026-11-22"
- },
- "Contrast Residents": {
-  "genres": [
-   "Drum & Bass"
-  ],
-  "coll": [
-   "Contrast"
-  ],
-  "noImg": "2026-11-22",
-  "noLinks": "2026-11-22",
-  "infoChk": "2026-11-22",
-  "spChk": "2026-11-22"
  }
 };
 
@@ -55512,7 +55493,7 @@ const RAW=[
 {"d":"2026-12-04","s":"21:00","e":"02:00","title":"BARVY × SHPILKI: Good Girl Gone Bad","venue":"Cupra City Garage","coll":["SHPILKI","BARVY"],"genres":["Tech House","Electro"],"floors":[{"f":"","a":["Marco Manaco","DJ Glebaty"]}],"price":"10–20 €","age":"18+","tickets":"https://luma.com/3pgt9zy5","note":{"de":"BARVY und SHPILKI laden unter dem Motto „Good Girl Gone Bad“ in die Cupra City Garage in der Innenstadt. An den Decks stehen Marco Manaco und DJ Glebaty, angekündigt sind Tech House und Electro. Motto laut Ankündigung: „Come as you are.“ Ab 18.","en":"BARVY and SHPILKI host a 'Good Girl Gone Bad' night at Cupra City Garage in the city centre. Marco Manaco and DJ Glebaty play tech house and electro. Motto: 'Come as you are.' 18+."},"src":[["ta","https://www.technoairlines.com/event/barvy-x-shpilki-good-girl-gone-bad-cupra-city-garage-2026-12-04"],["ra","https://ra.co/events/2588205"],["luma","https://luma.com/3pgt9zy5"]],"chk":"2026-11-20","srcChk":"2026-11-20","ook":1,"flyer":"https://images.lumacdn.com/uploads/7l/d4bf4c87-559d-495a-8e52-7e67ebd98b57.jpg"},
 {"d":"2026-12-04","s":"22:00","title":"Empyreon – Vol. IV","venue":"The Loft","coll":["Empyreon","Kollektiv Birdhouse"],"genres":["Progressive House","Techno"],"floors":[{"f":"Wohnzimmer","a":["Robert Maslach","Fede Frostl","The Wash","Edictum"]}],"price":"Freie Spende","flyer":"https://www.theloft.at/wp-content/uploads/2026/11/flyer-empyreon_dez.png","note":{"de":"Vierte Ausgabe von Empyreon im Wohnzimmer des Loft: Gastgeber Kollektiv Birdhouse will in Wien eine Progressive-House-Underground-Szene aufbauen und setzt auf ein internationales Lineup und DJ-Handwerk. Die Sets sind als Bogen geplant – von deepen Grooves über treibende, melodische und emotionale Sounds bis zu dunklen, technoiden, hypnotischen Rhythmen. Es spielen Robert Maslach, Fede Fröstl, The Wash und Edictum (Edictum war schon bei Vol. III dabei); Set-Zeiten sind noch nicht veröffentlicht. Eintritt gegen freie Spende.","en":"Fourth edition of Empyreon in The Loft's Wohnzimmer: host Kollektiv Birdhouse wants to build a progressive house underground scene in Vienna, focusing on an international lineup and DJ craft. The sets are planned as one arc – from deep grooves through driving, melodic and emotional sounds to dark, techy, hypnotic rhythms. Playing are Robert Maslach, Fede Fröstl, The Wash and Edictum (who also played Vol. III); set times are not yet published. Entry by free donation."},"vok":1,"src":[["lo","https://www.theloft.at/programm/"],["lo","https://www.theloft.at/empyreon-vol-iv/"],["ra","https://ra.co/events/2588834"]],"na":["tickets","age"],"chk":"2026-11-22","srcChk":"2026-11-15","e":"06:00"},
 {"d":"2026-12-04","title":"Soundlab Pirates","venue":"TBA","genres":["Psytrance"],"floors":[{"f":"","a":["TBA"]}],"note":{"de":"Neuer Termin der Psytrance-Reihe Soundlab Pirates von Bionic Ritual, auf goabase als Club-Party in Wien von Freitag 22:00 bis Samstag 06:00 gelistet. Location, Lineup und Preis sind noch nicht veröffentlicht.","en":"New date of Bionic Ritual's psytrance series Soundlab Pirates, listed on goabase as a club party in Vienna from Friday 22:00 to Saturday 06:00. Venue, line-up and price have not been announced yet."},"src":[["gb","https://www.goabase.net/de/party/soundlab-pirates/118332"]],"chk":"2026-11-20","srcChk":"2026-11-20","s":"22:00","e":"06:00","coll":["Bionic Ritual"],"na":["price","lineup","flyer","tickets"]},
-{"d":"2026-12-04","title":"Let It Roll On Tour Vienna","venue":"Club Exil","coll":["Memorandum","Let It Roll"],"genres":["Drum & Bass"],"floors":[{"f":"","a":["Mozey"]}],"note":{"de":"Das tschechische Drum-&-Bass-Festival Let It Roll feiert 25 Jahre und macht mit seiner „On Tour“-Reihe Station im Club Exil. Veranstalter Memorandum holt dafür Mozey nach knapp zwei Jahren wieder nach Wien – bekannt für energiegeladene Sets, in denen er alle Spielarten von Drum & Bass mit seinem hüpfenden Jump-up-Stil mischt, und für seinen Cowboyhut.","en":"Czech drum & bass festival Let It Roll celebrates its 25th anniversary and brings its “On Tour” series to Club Exil. Promoter Memorandum brings Mozey back to Vienna after almost two years – known for high-energy sets that mix every drum & bass sub-genre with his bouncy jump-up style, and for his cowboy hat."},"man":1,"src":[["ra","https://ra.co/events/2589983"]],"chk":"2026-11-20","s":"22:00","e":"07:00","age":"18+","price":"55 €","flyer":"https://images.ra.co/6e3a138d4e051a7b9f1e640db3d70318541e1ff4.jpg"},
+{"d":"2026-12-04","title":"Let It Roll On Tour Vienna","venue":"Club Exil","coll":["Memorandum","Let It Roll"],"genres":["Drum & Bass"],"floors":[{"f":"","a":["Mozey","Delta Heavy","Black Sun Empire","Mandidextrous"]}],"note":{"de":"Das tschechische Drum-&-Bass-Festival Let It Roll feiert 25 Jahre und macht mit seiner „On Tour“-Reihe Station im Club Exil. Veranstalter Memorandum holt dafür Mozey nach knapp zwei Jahren wieder nach Wien – bekannt für energiegeladene Sets, in denen er alle Spielarten von Drum & Bass mit seinem hüpfenden Jump-up-Stil mischt, und für seinen Cowboyhut.","en":"Czech drum & bass festival Let It Roll celebrates its 25th anniversary and brings its “On Tour” series to Club Exil. Promoter Memorandum brings Mozey back to Vienna after almost two years – known for high-energy sets that mix every drum & bass sub-genre with his bouncy jump-up style, and for his cowboy hat."},"man":1,"src":[["ra","https://ra.co/events/2589983"]],"chk":"2026-11-23","s":"22:00","e":"07:00","age":"18+","price":"55 €","flyer":"https://images.ra.co/6e3a138d4e051a7b9f1e640db3d70318541e1ff4.jpg"},
 {"d":"2026-12-04","s":"22:00","e":"04:00","title":"Off The Grid x Acid Lambada","venue":"Tagada","coll":["Off The Grid","Acid Lambada"],"genres":["House","UK Garage","Breakbeat","Electro"],"floors":[{"f":"","a":["B.Ranks","Claromor","DJ Odd","LNKMN","Peletronic","Rapha Ready"]}],"note":{"de":"Die Crews Off The Grid und Acid Lambada führen ihre gemeinsame Party-Tradition im Tagada fort. Beide teilen laut Ankündigung die Liebe zu House, UK Garage, Breaks und Electro und haben noch viele andere Sounds in den Plattenkisten. Es spielen B.Ranks, Claromor, DJ Odd, LNKMN, Peletronic und Rapha Ready, von 22 bis 4 Uhr. Eintritt nicht angegeben.","en":"The crews Off The Grid and Acid Lambada continue their joint party tradition at Tagada. According to the announcement both share a love of house, UK garage, breaks and electro, with plenty of other sounds in their record bags. B.Ranks, Claromor, DJ Odd, LNKMN, Peletronic and Rapha Ready play from 10 pm to 4 am. Entry not given."},"chk":"2026-11-23","srcChk":"2026-11-23","na":["price","tickets","flyer"],"src":[["ft","https://frey-tag.at/kalender/off-the-grid-x-acid-lambada"],["ft","https://frey-tag.at/locations/tagada"]]},
 {"d":"2026-12-04","title":"Step Forward pres. Eargasm God","venue":"Grelle Forelle","coll":["Step Forward","Mahlwerk"],"floors":[{"f":"Mainfloor","a":["Eargasm God","Who is Ela¿","Distorgina","Anna Ullrich"]},{"f":"Kitchen (Mahlwerk)","a":["TBA"]}],"head":["Eargasm God"],"note":{"de":"Step Forward holt Eargasm God erneut in die Grelle Forelle – nach den Step-Forward-Nächten im November 2024 und 2025 die nächste Ausgabe. Die Grelle Forelle kündigt eine Techno-Nacht an, bei der Eargasm God, der online eine große Reichweite hat, besonders mit seinem Live-Set beworben wird. Am Mainfloor spielen außerdem Who is Ela¿ und Distorgina, die Kitchen wird vom Kollektiv Mahlwerk gehostet (Lineup noch offen). Einlass und Abendkassa ab 23:00, Vorverkauf über Tickettailor; Preise sind auf der Location-Seite nicht angegeben.","en":"Step Forward brings Eargasm God back to Grelle Forelle – the next edition after the Step Forward nights in November 2024 and 2025. Grelle Forelle announces a techno night promoting Eargasm God, who has a large online following, especially for his live set. Who is Ela¿ and Distorgina also play the main floor, while the Kitchen is hosted by the Mahlwerk collective (lineup still open). Doors and box office from 23:00, presale via Tickettailor; prices are not listed on the venue page."},"chk":"2026-11-20","srcChk":"2026-11-20","src":[["ta","https://www.technoairlines.com/events/vienna/2026-12"],["ta","https://www.technoairlines.com/event/step-forward-pres-eargasmgod-grelle-forelle-2026-12-04"],["gf","https://www.grelleforelle.com/programm/"],["gf","https://www.grelleforelle.com/project/0412-step-forward-pres-eargasm-god/"],["ra","https://ra.co/events/2578230"],["stepf","https://www.tickettailor.com/events/stepforward/2515620"]],"s":"23:00","genres":["Techno"],"tickets":"https://www.tickettailor.com/events/stepforward/2515620","flyer":"https://images.ra.co/63a58f63340ed84a3bbadda69303bf67afafac42.png","vok":1,"price":"VVK 15,20–23,20 €","e":"06:00"},
 {"d":"2026-12-04","s":"23:00","title":"Booster Club","venue":"FLUCC","floors":[{"f":"Deck","a":["Yero","DJ Lucy Bakanal","gute ausländerin","Kontaminierungsalarm","Flo"]}],"note":{"de":"„F+ck die Welt“ – Fundraiser-Party des Kollektivs Booster Club im FLUCC Deck von 23 bis 5 Uhr. Der Erlös unterstützt eine queere geflüchtete Person aus dem Freundeskreis, die wegen Arbeitslosigkeit, gesundheitlicher Probleme und Sprachhürden Miete und Rechnungen derzeit nicht zahlen kann. Es legen Yero, DJ Lucy Bakanal, gute ausländerin, Kontaminierungsalarm und Flo auf. Eintritt gegen Spende nach eigenem Ermessen (0–20 €), nur an der Abendkasse. Der Termin stand zuvor als „Tanz oder gar nicht“ im Programm.","en":"'F+ck die Welt' – a fundraiser party by the Booster Club collective at FLUCC Deck from 11 pm to 5 am. Proceeds support a queer refugee friend who currently cannot cover rent and bills due to unemployment, health issues and language barriers. Yero, DJ Lucy Bakanal, gute ausländerin, Kontaminierungsalarm and Flo play. Entry by donation, pay what you can (0–20 €), door only. The date was previously listed as 'Tanz oder gar nicht'."},"vok":1,"src":[["fl","https://flucc.at/"],["fl","https://flucc.at/events/JeJdYy-tanzodergarnicht/"],["fl","https://www.flucc.at/events/JeJdYy-tanzodergarnicht/"],["fl","https://www.flucc.at/"],["ta","https://www.technoairlines.com/club/flucc-vienna"],["fl","https://flucc.at/events/JeJdYy-boosterclub041226/"]],"na":["lineup","tickets","age","genres"],"coll":["Tanz oder gar nicht","Booster Club"],"chk":"2026-11-20","srcChk":"2026-11-20","e":"05:00","genres":["Techno"],"gAuto":1,"price":"0–20 € (Spende, nur AK)","flyer":"https://assets-flucc-at.fra1.digitaloceanspaces.com/flucc-at-uploads/images/041226_Deck_fickdiewelt-flucc_-_F.2e16d0ba.fill-1200x630.jpg"},
