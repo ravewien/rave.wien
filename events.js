@@ -1491,7 +1491,8 @@ const CI={
   "alias": [
    "Herzfrequenz Techno"
   ],
-  "logo": "https://i1.sndcdn.com/avatars-em5BoupVXCSqpqft-huNbtg-t500x500.jpg"
+  "logo": "https://i1.sndcdn.com/avatars-em5BoupVXCSqpqft-huNbtg-t500x500.jpg",
+  "lt": "https://linktr.ee/herzfrequenz.techno"
  },
  "Contrast": {
   "founded": "2015",
@@ -1527,7 +1528,8 @@ const CI={
   "infoChk": "2026-11-15",
   "noLogo": "2026-11-15",
   "ig": "https://www.instagram.com/technoentgleist/",
-  "logo": "https://ugc.production.linktr.ee/9e8efb7e-abd1-400f-98a5-b447dee2c266_AIdro-mqKbxxe7J6EKhsnOUMKrNo2bSiM-TW1S43yB5f0svMlJ4-s800-c-k-c0x00ffffff-no-rj.jpeg"
+  "logo": "https://ugc.production.linktr.ee/9e8efb7e-abd1-400f-98a5-b447dee2c266_AIdro-mqKbxxe7J6EKhsnOUMKrNo2bSiM-TW1S43yB5f0svMlJ4-s800-c-k-c0x00ffffff-no-rj.jpeg",
+  "lt": "https://linktr.ee/technoentgleist"
  },
  "Rhythm Science": {
   "founded": "2018",
@@ -1657,7 +1659,8 @@ const CI={
   "noLogo": "2026-11-15",
   "ig": "https://www.instagram.com/euphoria.wien/",
   "sc": "https://soundcloud.com/user-878016587",
-  "logo": "https://i1.sndcdn.com/avatars-zNY47EczAqYJxA3J-O6RbVw-t500x500.jpg"
+  "logo": "https://i1.sndcdn.com/avatars-zNY47EczAqYJxA3J-O6RbVw-t500x500.jpg",
+  "lt": "https://linktr.ee/euphoria.wien"
  },
  "Reverse": {
   "founded": "2022",
@@ -1843,7 +1846,8 @@ const CI={
    "Rave On",
    "Rave On XXL"
   ],
-  "ig": "https://www.instagram.com/raveonvienna/"
+  "ig": "https://www.instagram.com/raveonvienna/",
+  "lt": "https://linktr.ee/raveonvienna"
  },
  "Hypertrash": {
   "founded": "2023",
@@ -2019,7 +2023,6 @@ const CI={
   "de": "Wiener Partyreihe für melodisch-progressiven, treibenden Techno, u. a. im Club Lucia und im USUS am Wasser.",
   "en": "Vienna party series for melodic, progressive, driving techno, held at venues such as Club Lucia and USUS am Wasser.",
   "from": "Wien",
-  "web": "https://linktr.ee/sorrymom.vienna",
   "ig": "https://www.instagram.com/____sorrymom__",
   "friends": [
    "USUS am Wasser"
@@ -2029,7 +2032,8 @@ const CI={
    "SORRY MOM herbstrascheln"
   ],
   "logo": "https://ugc.production.linktr.ee/56ada16d-b647-4532-93c3-350fbac3c672_sorry-mom-logo-1080x1080-sw-kreis.png",
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "lt": "https://linktr.ee/sorrymom.vienna"
  },
  "Kinky Galore": {
   "de": "Sexpositive Fetisch-Partyreihe von DJ Jan Ehret, die in vielen deutschen Städten (u. a. Berlin, München, Stuttgart, Köln) stattfindet und in Wien im Club Exil gastiert: Techno und Electro, Performances und Shows, Awareness-Team.",
@@ -2079,7 +2083,6 @@ const CI={
   "de": "Fünfköpfiges Wiener DJ-Kollektiv zwischen Hardgroove, Trance, Techno und Hardtechno, das mit eigenen Events, Hostings und Gastauftritten in Clubs wie Grelle Forelle, PRST, Pratersauna und Flex präsent ist.",
   "en": "Five-member Vienna DJ collective spanning hardgroove, trance, techno and hard techno, active with its own events, hostings and guest spots at clubs such as Grelle Forelle, PRST, Pratersauna and Flex.",
   "from": "Wien",
-  "web": "https://linktr.ee/mahlwerk",
   "ig": "https://instagram.com/mahlwerk.mwk",
   "sc": "https://soundcloud.com/mahlwerk-mwk",
   "friends": [
@@ -2099,7 +2102,8 @@ const CI={
   "type": [
    "Kollektiv"
   ],
-  "logo": "https://f4.bcbits.com/img/0048506676_10.jpg"
+  "logo": "https://f4.bcbits.com/img/0048506676_10.jpg",
+  "lt": "https://linktr.ee/mahlwerk"
  },
  "Wien Modern": {
   "logo": "https://www.wienmodern.at/images/Logo.png",
@@ -2148,7 +2152,8 @@ const CI={
   "en": "Vienna organiser of sex-positive parties (also styled s!utlabs) with the motto \"come for the party – stay for the love\". Its formats include the \"sapphic soirée\", which requires applying in advance via a pre-selection form.",
   "src": [
    "https://linktr.ee/slutlabsvienna"
-  ]
+  ],
+  "lt": "https://linktr.ee/slutlabsvienna"
  },
  "STRICT!": {
   "rules": {
@@ -2290,7 +2295,8 @@ const CI={
   "infoChk": "2026-11-15",
   "ig": "https://www.instagram.com/tasteless.vie/",
   "logo": "https://i1.sndcdn.com/avatars-k1yXg6b9alUyMHMU-nVFfJQ-t500x500.jpg",
-  "sc": "https://soundcloud.com/tasteless-583660871"
+  "sc": "https://soundcloud.com/tasteless-583660871",
+  "lt": "https://linktr.ee/tasteless.vie"
  },
  "Ravenbogen": {
   "de": "Queere Partyreihe aus Graz, u. a. mit „Gayliens on Stardust“ im Theatercafé Hin & Wider.",
@@ -2714,7 +2720,6 @@ const CI={
    "Promoter"
   ],
   "from": "Wien",
-  "web": "https://linktr.ee/littlebeatmore",
   "bc": "https://littlebeatmore.bandcamp.com",
   "noLogo": "2026-10-31",
   "src": [
@@ -2726,7 +2731,8 @@ const CI={
   "infoChk": "2026-11-15",
   "ig": "https://www.instagram.com/littlebeatmore/",
   "sc": "https://soundcloud.com/littlebeatmore",
-  "logo": "https://f4.bcbits.com/img/0022677354_10.jpg"
+  "logo": "https://f4.bcbits.com/img/0022677354_10.jpg",
+  "lt": "https://linktr.ee/littlebeatmore"
  },
  "created-on-earth": {
   "infoChk": "2026-11-15",
@@ -2743,7 +2749,8 @@ const CI={
   ],
   "infoChk": "2026-11-15",
   "noLogo": "2026-11-15",
-  "logo": "https://ugc.production.linktr.ee/6u12ZCSSu6VxBmEvmMKs_7kw75N9zD1cEgCDa?f=.jpg"
+  "logo": "https://ugc.production.linktr.ee/6u12ZCSSu6VxBmEvmMKs_7kw75N9zD1cEgCDa?f=.jpg",
+  "lt": "https://linktr.ee/nineoninetechno"
  },
  "LSH": {
   "de": "LSH (Les Suspects Habituels) ist ein Wiener Kollektiv, bekannt für die Partyreihe Techno Entgleist in der Grellen Forelle. Gemeinsam mit Nine O Nine veranstaltet es die Techno-Reihe TECHNO OBSCENE im Das Werk.",
@@ -2766,7 +2773,8 @@ const CI={
   ],
   "noLogo": "2026-11-15",
   "sc": "https://soundcloud.com/lessuspectshabituels",
-  "logo": "https://i1.sndcdn.com/avatars-8zh9H1UeNGPvfTo1-X8jpqA-t500x500.jpg"
+  "logo": "https://i1.sndcdn.com/avatars-8zh9H1UeNGPvfTo1-X8jpqA-t500x500.jpg",
+  "lt": "https://linktr.ee/lessuspectshabituels"
  },
  "909techno": {
   "de": "Techno-Crew Nine O Nine (909techno), die gemeinsam mit LSH die Reihe TECHNO OBSCENE im Das Werk veranstaltet.",
@@ -3162,10 +3170,10 @@ const CI={
   "infoChk": "2026-11-15",
   "founded": "2023",
   "foundedNote": 1,
-  "web": "https://linktr.ee/cafe.mondo",
   "ig": "https://www.instagram.com/cafe_mondo_/",
   "sc": "https://soundcloud.com/cafe-mondo",
-  "logo": "https://i1.sndcdn.com/avatars-ZFsZGodnB47XWOxy-nPU6Gw-t500x500.jpg"
+  "logo": "https://i1.sndcdn.com/avatars-ZFsZGodnB47XWOxy-nPU6Gw-t500x500.jpg",
+  "lt": "https://linktr.ee/cafe.mondo"
  },
  "LustMusik": {
   "de": "Wiener Techno-Act und Veranstalter von Clubnächten wie „Schrille Marille“ im Rhiz.",
@@ -3253,7 +3261,8 @@ const CI={
   ],
   "infoChk": "2026-11-15",
   "founded": "2020",
-  "logo": "https://i1.sndcdn.com/avatars-ACDxS4XVfdmuiK1R-v6EJpA-t500x500.jpg"
+  "logo": "https://i1.sndcdn.com/avatars-ACDxS4XVfdmuiK1R-v6EJpA-t500x500.jpg",
+  "lt": "https://linktr.ee/vlan.radio"
  },
  "Fifi": {
   "noLogo": "2026-11-15",
@@ -3626,7 +3635,8 @@ const CI={
   ],
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
-  "logo": "https://ugc.production.linktr.ee/ZkiI5fvNR6WDumF00HvG_SscBmE0QnpAY4Gyf?f=.jpg"
+  "logo": "https://ugc.production.linktr.ee/ZkiI5fvNR6WDumF00HvG_SscBmE0QnpAY4Gyf?f=.jpg",
+  "lt": "https://linktr.ee/friedenundliebe"
  },
  "High Voltage Fairies": {
   "noLogo": "2026-11-15",
@@ -3661,7 +3671,8 @@ const CI={
   "infoChk": "2026-11-15",
   "ig": "https://www.instagram.com/switchrecordings/",
   "sc": "https://soundcloud.com/switchrecordings",
-  "logo": "https://i1.sndcdn.com/avatars-000220212937-flyzig-t500x500.jpg"
+  "logo": "https://i1.sndcdn.com/avatars-000220212937-flyzig-t500x500.jpg",
+  "lt": "https://linktr.ee/switchrecordings"
  },
  "Cardio Cult": {
   "noLogo": "2026-11-15",
@@ -3754,7 +3765,8 @@ const CI={
    "https://ra.co/events/2560058"
   ],
   "noLogo": "2026-11-15",
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "lt": "https://linktr.ee/tribalvibes"
  },
  "Tropical Thunder": {
   "de": "Wiener Partyreihe mit tropischen und balearischen Sounds – von Vintage-Südafrika, Karibik, Compas, Soca, Afrobeat und Tropicália bis Retro-Zouk, French Boogie und Indie Dance. Seit mindestens 2020 aktiv, u. a. in der Gönnerbar, im FLUCC, in der Pratersauna, am Porto Pollo (Open Air) und im Funkhaus; das Format „Noche d'Amore“ entstand 2025 für die Wiener Festwochen.",
@@ -3858,14 +3870,14 @@ const CI={
   ],
   "founded": "2014",
   "from": "Chile",
-  "web": "https://linktr.ee/pirotecnia",
   "logo": "https://static.ra.co/images/labels/pirotecnia.jpg?dateUpdated=1645610083473",
   "src": [
    "https://es.ra.co/labels/19952",
    "https://pirotecnia.bandcamp.com/"
   ],
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/pirotecniarecords/"
+  "ig": "https://www.instagram.com/pirotecniarecords/",
+  "lt": "https://linktr.ee/pirotecnia"
  },
  "Hallraum": {
   "de": "Wiener Techno-Reihe, u. a. im Tagada am Yppenplatz; gemeinsam mit Neoteric veranstaltet sie auch Dub-Techno-Abende im The Loft.",
@@ -4023,7 +4035,6 @@ const CI={
    "Löwenzahn Wien",
    "Loewenzahn"
   ],
-  "web": "https://linktr.ee/loewenzahnwien",
   "ig": "https://instagram.com/loewenzahnwien",
   "members": [
    "Tim Es Punkt",
@@ -4040,7 +4051,8 @@ const CI={
    "https://ra.co/events/1452269"
   ],
   "infoChk": "2026-11-15",
-  "noLogo": "2026-11-15"
+  "noLogo": "2026-11-15",
+  "lt": "https://linktr.ee/loewenzahnwien"
  },
  "Step Forward": {
   "de": "Wiener Veranstalter (Step Forward Music), der internationale Acts wie Partiboi69, Southstar, P.Vanilla Boy, Juicy Romance oder Shoki in die Grelle Forelle und ins PRST holt – zwischen Techno, Ghetto Tech, Electro und House.",
@@ -9195,7 +9207,6 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/kormosvie",
    "ig": "https://www.instagram.com/kormosvie",
-   "web": "https://linktr.ee/kormos",
    "ra": "https://ra.co/dj/kormos"
   },
   "src": [
@@ -9236,7 +9247,8 @@ const AR={
    "FLUCC"
   ],
   "img": "https://static.ra.co/images/profiles/square/kormos.jpg?dateUpdated=1784030459210",
-  "linksOk": "2026-10-29"
+  "linksOk": "2026-10-29",
+  "lt": "https://linktr.ee/kormos"
  },
  "Anna Ullrich": {
   "links": {
@@ -9950,7 +9962,6 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/bambi_berlin",
    "ig": "https://www.instagram.com/bambi_berlin",
-   "web": "http://linktr.ee/bambi_berlin",
    "ra": "https://ra.co/dj/bambi-s"
   },
   "src": [
@@ -9984,7 +9995,8 @@ const AR={
    "de": "Bambi-S ist in Berlin ansässig, legt als DJ auf und produziert. Der Sound verbindet groovigen House, Detroit-Einflüsse, Oldschool-Techno und aktuelle Tracks. Releases auf Miura Records und La Zic.",
    "en": "Bambi-S is a Berlin-based DJ and producer. The sound blends groove-driven house, Detroit influences, old-school techno and contemporary cuts. Releases on Miura Records and La Zic."
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "lt": "http://linktr.ee/bambi_berlin"
  },
  "Anatol": {
   "links": {
@@ -10124,7 +10136,6 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/silentsevir-mpmrecords",
    "ig": "https://www.instagram.com/silentsevir",
-   "web": "https://linktr.ee/silentsevir",
    "ra": "https://ra.co/dj/silentsevir"
   },
   "src": [
@@ -10151,7 +10162,8 @@ const AR={
    "de": "Silentsevir ist ein Techno-DJ und Produzent aus Wien, der vor allem im Werk und im FLUCC spielt.",
    "en": "Silentsevir is a techno DJ and producer from Vienna who plays mostly at Das Werk and FLUCC."
   },
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "lt": "https://linktr.ee/silentsevir"
  },
  "WO.IZZY": {
   "links": {
@@ -10211,7 +10223,6 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/albinbrezlanmusic",
    "ig": "https://www.instagram.com/albinbrezlanmusic",
-   "web": "https://linktr.ee/albinbrezlan",
    "ra": "https://ra.co/dj/albinbrezlan",
    "sp": "https://open.spotify.com/artist/6KE0iyHDo4VHuQ1iYk217m"
   },
@@ -10240,7 +10251,8 @@ const AR={
    "en": "Carinthia, Austria"
   },
   "infoChk": "2026-10-31",
-  "spChk": "2026-11-17"
+  "spChk": "2026-11-17",
+  "lt": "https://linktr.ee/albinbrezlan"
  },
  "PAUNA": {
   "links": {
@@ -10379,7 +10391,6 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/paracek",
    "bc": "https://paracek.bandcamp.com",
-   "web": "http://linktr.ee/paracek",
    "ra": "https://ra.co/dj/para%C3%A7ek",
    "sp": "https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1",
    "ig": "https://www.instagram.com/paracek_official/"
@@ -10418,7 +10429,8 @@ const AR={
    "Hard Trance",
    "Hard Dance",
    "Trance"
-  ]
+  ],
+  "lt": "http://linktr.ee/paracek"
  },
  "Felix Rupprecht": {
   "links": {
@@ -11712,7 +11724,6 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/jpexbert",
    "ig": "https://www.instagram.com/jpexbert",
-   "web": "https://linktr.ee/jpexbert",
    "ra": "https://ra.co/dj/jpexbert"
   },
   "src": [
@@ -11735,7 +11746,8 @@ const AR={
    "en": "J.P. eXbert fell in love with techno at the Gasometer raves and in clubs such as P1 and Volksgarten in the late 1990s and has since been part of Austria's scene as a DJ. In 2002 he founded the duo \"The eXMAN Project\" with Danny Freeman, has been active with Mind Entertainment since 2012 and with Deck Shark Production since 2024. His influences range from techno, electro and hard techno to hardcore, hardstyle, psy and minimal."
   },
   "infoChk": "2026-11-03",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "lt": "https://linktr.ee/jpexbert"
  },
  "Aschenbrenner": {
   "links": {
@@ -13057,8 +13069,7 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/e-lina",
    "sc": "https://www.soundcloud.com/elinaelian",
-   "ig": "https://www.instagram.com/e.lina.elian",
-   "web": "https://linktr.ee/e.lina.dj"
+   "ig": "https://www.instagram.com/e.lina.elian"
   },
   "src": [
    "https://ra.co/dj/e-lina"
@@ -13074,7 +13085,8 @@ const AR={
    }
   ],
   "setsChecked": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "lt": "https://linktr.ee/e.lina.dj"
  },
  "Max Styler": {
   "img": "https://static.ra.co/images/profiles/square/maxstyler.jpg?dateUpdated=1759778202897",
@@ -14757,8 +14769,7 @@ const AR={
   "noImg": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/cafe-mondo",
-   "ig": "https://www.instagram.com/cafe_mondo_/",
-   "web": "https://linktr.ee/cafe.mondo"
+   "ig": "https://www.instagram.com/cafe_mondo_/"
   },
   "bio": {
    "de": "Café Mondo ist eine Wiener Partyreihe bzw. ein DJ-Kollektiv, das Abende u. a. im Funkhaus und im Tagada Club veranstaltet und dazu internationale Gäste einlädt. Im Jänner 2026 feierte Café Mondo sein dreijähriges Bestehen. Mixe von Café Mondo liefen u. a. bei Callshop Radio, Res.Radio und Tropical Thunder.",
@@ -14789,7 +14800,8 @@ const AR={
   "from": {
    "de": "Wien",
    "en": "Vienna"
-  }
+  },
+  "lt": "https://linktr.ee/cafe.mondo"
  },
  "AudioDevice": {
   "noImg": "2026-11-03",
@@ -14899,8 +14911,7 @@ const AR={
    "ra": "https://ra.co/dj/pancratio",
    "sc": "https://www.soundcloud.com/pancratio",
    "ig": "https://www.instagram.com/_pancratio",
-   "bc": "https://onetriptoavyon.bandcamp.com",
-   "web": "https://linktr.ee/onetriptoavyon"
+   "bc": "https://onetriptoavyon.bandcamp.com"
   },
   "bio": {
    "de": "Pancratio (bürgerlich Gian Luigi Mendozza) ist ein Produzent und Komponist aus Rom, der in Deutschland lebt. Er veröffentlicht u. a. auf Love On The Rocks und Faith Beat und war früher als Alli Borem, Ndsomeware und Archivia Tapes aktiv. Er spielt international, etwa im Berghain/Panorama Bar, Sub Club Glasgow und bei ADE.",
@@ -14923,7 +14934,8 @@ const AR={
   "src": [
    "https://ra.co/dj/pancratio"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "lt": "https://linktr.ee/onetriptoavyon"
  },
  "Rayya": {
   "img": "https://static.ra.co/images/profiles/square/rayya.jpg?dateUpdated=1782044467233",
@@ -15130,8 +15142,7 @@ const AR={
   "img": "https://static.ra.co/images/profiles/square/ayu-1.jpg?dateUpdated=1778053913547",
   "links": {
    "ra": "https://ra.co/dj/ayu-1",
-   "sc": "https://soundcloud.com/ayuuuuuuuuuuuu",
-   "web": "https://linktr.ee/milano_ayu"
+   "sc": "https://soundcloud.com/ayuuuuuuuuuuuu"
   },
   "bio": {
    "de": "Ayū ist ein in Berlin ansässiger Live-Act mit energiegeladener, im Trance verwurzelter Musik. Einflüsse kommen aus Tech House, Dub Techno, Deep Techno und Acid House.",
@@ -15165,7 +15176,8 @@ const AR={
     "u": "https://soundcloud.com/pipipigroup/pilive-alfred-czital-and-ayu-live-set-at-ankali-05-17-2024"
    }
   ],
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "lt": "https://linktr.ee/milano_ayu"
  },
  "Mama Demba": {
   "infoChk": "2026-11-04",
@@ -18350,7 +18362,6 @@ const AR={
    "ra": "https://ra.co/dj/stefdavidse",
    "sc": "https://soundcloud.com/stefdavidse",
    "ig": "https://www.instagram.com/stefdavidse",
-   "web": "https://linktr.ee/stefdavidse",
    "sp": "https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX"
   },
   "bio": {
@@ -18385,7 +18396,8 @@ const AR={
   ],
   "setsChecked": "2026-11-02",
   "infoChk": "2026-11-02",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "lt": "https://linktr.ee/stefdavidse"
  },
  "SHDW": {
   "img": "https://static.ra.co/images/profiles/square/shdw.jpg?dateUpdated=1772164135830",
@@ -19887,8 +19899,7 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/dualdrive",
    "sc": "https://soundcloud.com/dualdriveofficial",
-   "ig": "https://www.instagram.com/dualdriveofficial",
-   "web": "https://linktr.ee/dualdriveofficial"
+   "ig": "https://www.instagram.com/dualdriveofficial"
   },
   "bio": {
    "de": "Schwedisches DJ-Duo aus Bara W und Technokid, das treibenden, groovigen Techno spielt. Die beiden legen seit über vier Jahren gemeinsam auf und betrieben zuvor die Stockholmer Eventmarke Demand (Demandsthlm), mit der sie internationale Artists buchten. Sie standen bereits mit Lilly Palmer, Bart Skils und Thomas Schumacher auf der Bühne.",
@@ -19914,7 +19925,8 @@ const AR={
    "https://soundcloud.com/dualdriveofficial/dual-drive-live-demand-pres-lilly-palmer-slaktkyrkan",
    "https://www.instagram.com/dualdriveofficial/"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "lt": "https://linktr.ee/dualdriveofficial"
  },
  "DJ Scarf": {
   "infoChk": "2026-11-03",
@@ -22213,8 +22225,7 @@ const AR={
    "ra": "https://ra.co/dj/djraff",
    "sc": "https://soundcloud.com/djraff",
    "ig": "https://www.instagram.com/djraff",
-   "bc": "https://djraffmusic.bandcamp.com",
-   "web": "https://linktr.ee/djraff"
+   "bc": "https://djraffmusic.bandcamp.com"
   },
   "real": "Rafael Pérez",
   "from": {
@@ -22237,7 +22248,8 @@ const AR={
   "src": [
    "https://ra.co/dj/djraff"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "lt": "https://linktr.ee/djraff"
  },
  "Atarrayo": {
   "img": "https://static.ra.co/images/profiles/square/atarrayo.jpg?dateUpdated=1699897342000",
@@ -23246,8 +23258,7 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/violetta-1",
    "sc": "https://soundcloud.com/violettaxliz",
-   "ig": "https://www.instagram.com/violettaxliz",
-   "web": "https://linktr.ee/violetta.liz"
+   "ig": "https://www.instagram.com/violettaxliz"
   },
   "bio": {
    "de": "Violetta ist eine österreichische DJ mit Vorliebe für hypnotischen, rohen und groovigen Techno. Sie ist Resident bei Meat Market in Wien und spielt regelmäßig in Clubs wie Grelle Forelle, Das Werk und FLUCC.",
@@ -23280,7 +23291,8 @@ const AR={
    "https://soundcloud.com/violettaxliz"
   ],
   "infoChk": "2026-11-03",
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "lt": "https://linktr.ee/violetta.liz"
  },
  "Manu:ra": {
   "links": {
@@ -24129,8 +24141,7 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/mobama",
    "sc": "https://soundcloud.com/mobama_vienna",
-   "ig": "https://www.instagram.com/mobama_vienna",
-   "web": "https://linktr.ee/mobama"
+   "ig": "https://www.instagram.com/mobama_vienna"
   },
   "from": {
    "de": "Wien",
@@ -24163,7 +24174,8 @@ const AR={
    "https://ra.co/dj/mobama"
   ],
   "infoChk": "2026-11-03",
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "lt": "https://linktr.ee/mobama"
  },
  "Der Werther": {
   "sets": [
@@ -27372,8 +27384,7 @@ const AR={
   "img": "https://static.ra.co/images/profiles/square/ladrillovitz.jpg?dateUpdated=1759443297797",
   "links": {
    "ra": "https://ra.co/dj/ladrillovitz",
-   "sc": "https://soundcloud.com/go-2",
-   "web": "https://linktr.ee/ladrillovitz"
+   "sc": "https://soundcloud.com/go-2"
   },
   "from": {
    "de": "Valencia, Spanien",
@@ -27386,7 +27397,8 @@ const AR={
   "src": [
    "https://ra.co/dj/ladrillovitz"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "lt": "https://linktr.ee/ladrillovitz"
  },
  "Dan Lodig": {
   "img": "https://static.ra.co/images/profiles/square/danlodig.jpg?dateUpdated=1756322328843",
@@ -27714,8 +27726,7 @@ const AR={
    "ra": "https://ra.co/dj/voltaire-fr",
    "sc": "https://soundcloud.com/voltaire0music",
    "ig": "https://www.instagram.com/voltairedj_",
-   "bc": "https://aestria.bandcamp.com",
-   "web": "https://linktr.ee/voltaire_"
+   "bc": "https://aestria.bandcamp.com"
   },
   "from": {
    "de": "Frankreich",
@@ -27734,7 +27745,8 @@ const AR={
    "https://ra.co/dj/voltaire-fr",
    "https://de.ra.co/events/2505366"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "lt": "https://linktr.ee/voltaire_"
  },
  "Arthur Pringle": {
   "img": "https://static.ra.co/images/profiles/square/a.pringle.jpg?dateUpdated=1736420360000",
@@ -30433,8 +30445,7 @@ const AR={
  "Narciss": {
   "img": "https://static.ra.co/images/profiles/square/narciss-de.jpg?dateUpdated=1730233099000",
   "links": {
-   "ra": "https://ra.co/dj/narciss-de",
-   "web": "https://linktr.ee/narciss"
+   "ra": "https://ra.co/dj/narciss-de"
   },
   "from": {
    "de": "Deutschland",
@@ -30454,7 +30465,8 @@ const AR={
    "https://ra.co/dj/narciss-de",
    "https://ra.co/events/2290493"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "lt": "https://linktr.ee/narciss"
  },
  "Alarico": {
   "img": "https://static.ra.co/images/profiles/square/alarico.jpg?dateUpdated=1626882858000",
@@ -30776,8 +30788,7 @@ const AR={
    "ra": "https://ra.co/dj/daxj",
    "sc": "https://soundcloud.com/daxj",
    "ig": "https://www.instagram.com/daxj1",
-   "bc": "https://monnomblack.bandcamp.com",
-   "web": "https://linktr.ee/daxj"
+   "bc": "https://monnomblack.bandcamp.com"
   },
   "from": {
    "de": "Vereinigtes Königreich, lebt in Deutschland",
@@ -30813,7 +30824,8 @@ const AR={
   "src": [
    "https://ra.co/dj/daxj"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "lt": "https://linktr.ee/daxj"
  },
  "Deborah Aime La Bagarre": {
   "img": "https://static.ra.co/images/profiles/square/deborahaimelabagarre.jpg?dateUpdated=1773683191293",
@@ -30858,8 +30870,7 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/andreasalvaggio",
    "sc": "https://soundcloud.com/andreasalvaggio",
-   "ig": "https://www.instagram.com/andrea__slvg",
-   "web": "https://linktr.ee/andreasalvaggio"
+   "ig": "https://www.instagram.com/andrea__slvg"
   },
   "from": {
    "de": "Italien",
@@ -30879,7 +30890,8 @@ const AR={
   "src": [
    "https://ra.co/dj/andreasalvaggio"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "lt": "https://linktr.ee/andreasalvaggio"
  },
  "Paralich": {
   "img": "https://static.ra.co/images/profiles/square/paralich.jpg?dateUpdated=1645450343000",
@@ -35055,8 +35067,7 @@ const AR={
   "img": "https://static.ra.co/images/profiles/square/orbit141.jpg?dateUpdated=1757400141790",
   "links": {
    "ra": "https://ra.co/dj/orbit141",
-   "sc": "https://soundcloud.com/orbit141",
-   "web": "https://linktr.ee/orbit141"
+   "sc": "https://soundcloud.com/orbit141"
   },
   "bio": {
    "de": "ORBIT141 ist ein junger DJ und Produzent aus Frankfurt am Main. Sein Spektrum reicht von Hardtechno über Rawstyle bis Psytrance; auf SoundCloud veröffentlicht er eigene Tracks und Techno-Remixe.",
@@ -35083,7 +35094,8 @@ const AR={
    "https://de.ra.co/dj/orbit141",
    "https://soundcloud.com/orbit141"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "lt": "https://linktr.ee/orbit141"
  },
  "Creatures": {
   "bio": {
@@ -38391,8 +38403,7 @@ const AR={
    "ra": "https://ra.co/dj/philo_",
    "sc": "https://soundcloud.com/philocgn",
    "ig": "https://www.instagram.com/philorbn",
-   "bc": "https://philoxdreadmaul.bandcamp.com",
-   "web": "https://linktr.ee/philorbn"
+   "bc": "https://philoxdreadmaul.bandcamp.com"
   },
   "bio": {
    "de": "DJ mit eklektischen Sets voller UK-Einflüsse zwischen Breakbeat, 4-to-the-floor, House und Techno, mit einem Hauch 90er-Nostalgie. Spielt vor allem in Köln, Wien, Berlin und Hamburg (u. a. Golden Pudel Club).",
@@ -38436,7 +38447,8 @@ const AR={
   "alias": [
    "Philo_"
   ],
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "lt": "https://linktr.ee/philorbn"
  },
  "cosmic motion": {
   "infoChk": "2026-11-04",
@@ -43769,8 +43781,7 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/BDTfW",
    "ig": "https://www.instagram.com/julesjaymusic",
-   "ra": "https://ra.co/dj/jules",
-   "web": "https://linktr.ee/julesjaymusic"
+   "ra": "https://ra.co/dj/jules"
   },
   "bio": {
    "de": "Jules Jay ist ein DJ aus München, der unter dem Motto „The art of hypnotic groove“ auflegt. Er spielt regelmäßig in Münchner Clubs wie Legal, Praterinsel, Bahnwärter Thiel und Pacha; im März 2026 war er bei RED GROOVE (Social Club) im PRST in Wien zu Gast.",
@@ -43787,7 +43798,8 @@ const AR={
    "https://de.ra.co/dj/jules",
    "https://de.ra.co/events/2390644"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "lt": "https://linktr.ee/julesjaymusic"
  },
  "Leeb": {
   "bio": {
@@ -44064,8 +44076,7 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/highbrow76",
    "sc": "https://soundcloud.com/user7038681",
-   "ig": "https://www.instagram.com/highbrow76",
-   "web": "https://linktr.ee/highbrow76"
+   "ig": "https://www.instagram.com/highbrow76"
   },
   "from": {
    "de": "London, Vereinigtes Königreich",
@@ -44083,7 +44094,8 @@ const AR={
    "https://ra.co/dj/highbrow76",
    "https://de.ra.co/events/2436052"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "lt": "https://linktr.ee/highbrow76"
  },
  "Part Time Killer": {
   "img": "https://static.ra.co/images/profiles/square/parttimekiller.jpg?dateUpdated=1680080805000",
@@ -46444,8 +46456,7 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/cerakhin",
    "sc": "https://soundcloud.com/cera-khin",
-   "ig": "https://www.instagram.com/cerakhin",
-   "web": "https://linktr.ee/cerakhin"
+   "ig": "https://www.instagram.com/cerakhin"
   },
   "from": {
    "de": "Tunesien, lebt in Barcelona",
@@ -46468,7 +46479,8 @@ const AR={
    "https://ra.co/dj/cerakhin/biography",
    "https://ra.co/dj/cerakhin"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "lt": "https://linktr.ee/cerakhin"
  },
  "Marlon Hoffstadt": {
   "img": "https://static.ra.co/images/profiles/square/marlonhoffstadt.jpg?dateUpdated=1757583849263",
@@ -48894,8 +48906,7 @@ const AR={
   "links": {
    "sp": "https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA",
    "ig": "https://www.instagram.com/takeshiscashew/",
-   "bc": "https://takeshis-cashew.bandcamp.com",
-   "web": "https://linktr.ee/takeshis_cashew"
+   "bc": "https://takeshis-cashew.bandcamp.com"
   },
   "from": {
    "de": "Wien",
@@ -48918,7 +48929,8 @@ const AR={
    "https://www.abconcerts.be/en/agenda/takeshis-cashew/a10Qw000000GuMPIA0"
   ],
   "infoChk": "2026-11-04",
-  "noImg": "2026-11-04"
+  "noImg": "2026-11-04",
+  "lt": "https://linktr.ee/takeshis_cashew"
  },
  "The Clamps": {
   "links": {
@@ -49288,8 +49300,7 @@ const AR={
    "ra": "https://ra.co/dj/lamsi",
    "sc": "https://www.soundcloud.com/lvmsi",
    "bc": "https://lamsi.bandcamp.com",
-   "ig": "https://www.instagram.com/lamsi",
-   "web": "https://linktr.ee/lamsi"
+   "ig": "https://www.instagram.com/lamsi"
   },
   "bio": {
    "de": "LAMSI ist ein DJ aus den Niederlanden, der laut RA vor allem in Amsterdam, London und Berlin spielt, etwa im Skatecafe, Parallel und kanaal40 sowie bei FABRICLIVE in London.",
@@ -49298,7 +49309,8 @@ const AR={
   "infoChk": "2026-11-05",
   "src": [
    "https://ra.co/dj/lamsi"
-  ]
+  ],
+  "lt": "https://linktr.ee/lamsi"
  },
  "Keeo.fm": {
   "img": "https://static.ra.co/images/profiles/square/keeo.fm.jpg?dateUpdated=1767088805000",
@@ -49939,8 +49951,7 @@ const AR={
    "sc": "https://soundcloud.com/littlebeatmore",
    "mc": "https://www.mixcloud.com/littlebeatmore/",
    "ig": "https://www.instagram.com/littlebeatmore/",
-   "bc": "https://littlebeatmore.bandcamp.com",
-   "web": "https://linktr.ee/littlebeatmore"
+   "bc": "https://littlebeatmore.bandcamp.com"
   },
   "from": {
    "de": "Wien",
@@ -49966,7 +49977,8 @@ const AR={
     "t": "Obolo Music Session #3 - Woxow (Little Beat More)",
     "u": "https://www.mixcloud.com/littlebeatmore/obolo-music-session-3-woxow-little-beat-more/"
    }
-  ]
+  ],
+  "lt": "https://linktr.ee/littlebeatmore"
  },
  "WESH": {
   "noImg": "2026-11-15",
@@ -50162,14 +50174,14 @@ const AR={
   },
   "img": "https://static.ra.co/images/profiles/square/kamafaka.jpg?dateUpdated=1651678308000",
   "links": {
-   "ra": "https://ra.co/dj/kamafaka",
-   "web": "https://linktr.ee/kamafaka"
+   "ra": "https://ra.co/dj/kamafaka"
   },
   "infoChk": "2026-11-09",
   "src": [
    "https://ra.co/dj/kamafaka",
    "https://ra.co/dj/kamafaka/biography"
-  ]
+  ],
+  "lt": "https://linktr.ee/kamafaka"
  },
  "Danubian Dub": {
   "alias": [
@@ -50732,8 +50744,7 @@ const AR={
  "POSI FLO": {
   "links": {
    "sc": "https://soundcloud.com/user-557855461",
-   "ra": "https://ra.co/dj/posiflo",
-   "web": "https://linktr.ee/posi_flo"
+   "ra": "https://ra.co/dj/posiflo"
   },
   "noImg": "2026-11-10",
   "infoChk": "2026-11-15",
@@ -50757,7 +50768,8 @@ const AR={
   "src": [
    "https://de.ra.co/dj/posiflo",
    "https://de.ra.co/dj/posiflo/biography"
-  ]
+  ],
+  "lt": "https://linktr.ee/posi_flo"
  },
  "Dijay Qualle": {
   "links": {
@@ -51961,8 +51973,7 @@ const AR={
    "ra": "https://ra.co/dj/acidicjuice",
    "sc": "https://soundcloud.com/acidic-juice",
    "ig": "https://www.instagram.com/acidicjuice2000/",
-   "bc": "https://acidicjuice2000.bandcamp.com",
-   "web": "https://linktr.ee/acidicjuice"
+   "bc": "https://acidicjuice2000.bandcamp.com"
   },
   "from": {
    "de": "Berlin",
@@ -51982,7 +51993,8 @@ const AR={
   ],
   "infoChk": "2026-11-12",
   "setsChecked": "2026-11-15",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "lt": "https://linktr.ee/acidicjuice"
  },
  "NOTYOURORDINARY": {
   "links": {
