@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-9pagxv+TzrfBN5s7TCfn25q407d3wDoRNwN2O9bSzw4='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-5584vZ5v1CZ0tszTxtmQuTdM4wteeakLQa/5MAYNR80='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -889,13 +889,10 @@ footer a:hover{color:var(--accent)}
 .row.tk .vtags .tag.co.on,.row.tk .vtags .tag.co.on .ii,.row.xr .tag.co.on,.row.xr .tag.co.on .ii{color:var(--c-col)}
 .row.tk .vtags .tag:hover,.row.xr .tag.ve:hover,.row.xr .tag.co:hover{background:none;text-decoration:underline;text-underline-offset:3px}
 
-/* Location links, Veranstalter rechts in derselben Zeile (passt es nicht: darunter, rechtsbündig; kürzester Veranstalter zuerst). Genres ganz unten. */
-.row.tk .vtags{justify-content:flex-end}
-.row.tk .vtags>.tag.ve,.row.tk .vtags>.tag:first-child{margin-right:auto}
-.row.tk .vtags>.tag.co{text-align:right}
-@container out (max-width:759px){.row.tk .gf>.gcl{margin-top:auto;padding-top:4px}}
-.emain>.tags.vco{justify-content:flex-end}
-.emain>.tags.vco>:first-child{margin-right:auto}
+/* Feste Plätze: Location in eigener Zeile, Veranstalter immer darunter (links). Genres ganz unten (Handy-Liste: auf Höhe der Symbole). */
+.row.tk .vtags>.tag.ve,.row.tk .vtags>.tag:first-child{flex:0 0 100%}
+@container out (max-width:759px){.row.tk .gf>.tags{margin-top:auto;padding-top:4px}}
+.emain>.tags.vco>:first-child{flex:0 0 100%}
 .emain>.tags:has(.gcl){order:9}
 .row.tk .gcl,.row.xr .gcl{border:0;background:none;letter-spacing:.06em;font-size:12px;color:var(--mute)}
 .row.tk .gcl,.row.xr .gcl{display:block;line-height:1.55}.row.tk .gcl>*,.row.xr .gcl>*{display:inline}
@@ -1714,7 +1711,7 @@ function rowHTML(e){
   const tk=timeK(e);
   return `<button class="row tk tod-${tk}${isFav("e",e.id)?" isfav":""}" data-id="${e.id}" aria-current="${st.sel===e.id}">${rstar("e",e.id)}${coverHTML(e)}<span class="cflags">${(w=>w?w+'<i class="wxbr"></i>':"")(wxHTML(e))}${flagHTML(e,1)}</span><span class="main"><span class="c1">
     <span class="head"><span class="ti">${esc(e.title)}</span>${vchk(e)}</span>
-    <span class="tags vtags">${venTag(e.venue,st.v.has(e.venue))}${[...e.coll].sort((a,b)=>a.length-b.length).map(c=>`<span class="tag co${st.c.has(c)?" on":""}" data-toc="${esc(c)}">${ICOL}${esc(c)}</span>`).join("")}</span>
+    <span class="tags vtags">${venTag(e.venue,st.v.has(e.venue))}${e.coll.map(c=>`<span class="tag co${st.c.has(c)?" on":""}" data-toc="${esc(c)}">${ICOL}${esc(c)}</span>`).join("")}</span>
     ${why.length?`<small class="why">★ ${esc(why.join(" · "))}</small>`:""}</span>
     ${e.artists.length?`<small class="arts">${e.artists.slice(0,6).map(a=>e.headSet.has(a)?`<b class="hl">${esc(a)}</b>`:esc(a)).join(", ")}${e.artists.length>6?" …":""}</small>`:""}
     <span class="gf">${gcl(e.genres)}${(w=>w?`<span class="flags wxf">${w}</span>`:"")(wxHTML(e))}${flagHTML(e,1)}</span><span class="iocol">${e.ioK&&e.ioK.length?`<span class="flags">${ioTags(e.ioK,1)}</span>`:""}${wxHTML(e)}</span></span>${stubHTML(e.s,e.e,e.age,e.price,tk)}</button>`;
@@ -2362,7 +2359,7 @@ function renderEv(dk,id){
     ${!e.conf?`<div class="srcwarn" role="note"><b>${esc(l.single[0].toUpperCase()+l.single.slice(1))}:</b> ${esc(l.rSingle+" "+e.src.map(s=>S[s[0]]).filter((v,i,a)=>v&&a.indexOf(v)===i).join(", ")+". "+l.rCheck)}</div>`:""}
     <div class="ehead"><div class="emain">
       <div class="head${fimg?" wt":""}">${fimg?`<button type="button" class="lgt fly ${evPhase(e)}" data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}" aria-label="${esc(l.flyer)}"><img src="${esc(e.flyer)}" alt="" loading="lazy" referrerpolicy="no-referrer"></button>`:""}<h2>${esc(e.title)}</h2>${vchk(e)}</div>
-      <div class="tags vco">${noVen(e.venue)?`<span class="tag ve na">${IPIN}${esc(e.venue||"TBA")}</span>`:`<button class="tag ve" data-venue="${esc(e.venue)}">${IPIN}${esc(e.venue)}</button>`}${[...e.coll].sort((a,b)=>a.length-b.length).map(c=>`<button class="tag co" data-coll="${esc(c)}">${ICOL}${esc(c)}</button>`).join("")}</div>
+      <div class="tags vco">${noVen(e.venue)?`<span class="tag ve na">${IPIN}${esc(e.venue||"TBA")}</span>`:`<button class="tag ve" data-venue="${esc(e.venue)}">${IPIN}${esc(e.venue)}</button>`}${e.coll.map(c=>`<button class="tag co" data-coll="${esc(c)}">${ICOL}${esc(c)}</button>`).join("")}</div>
       ${e.genres.length?`<span class="tags"><span class="gcl"><b>♫</b>${e.genres.map(g=>`<button data-f="g" data-n="${esc(g)}"${e.typGenres.includes(g)?` class="typ" title="${esc(l.typ)}"`:""}>${esc(g)}${e.typGenres.includes(g)?"*":""}</button>`).join("")}</span></span>`:""}
       ${vibe.length||e.ioK.length?`<div class="flags">${ioTags(e.ioK)}${wxHTML(e,1)}${vibe.join("")}</div>`:""}
     </div><span class="stub"><span class="dt">${fmtDay(e.d)}</span><span class="t">${e.s||"--:--"}<small>-${e.e||"?"}</small></span>${e.age?`<span class="flag age"${e.clubAge&&e.age!==e.clubAge?` title="${esc(l.clubRule+" "+e.clubAge)}"`:""}>${esc(e.age)}</span>`:`<span class="flag age" style="color:var(--mute)">${l.na}</span>`}<span class="price">${pm.length?esc(pm[0]):l.na}${pm.length>1?`<small>${esc(pm.slice(1).join(" · "))}</small>`:""}${e.altPrice?`<small>${l.alt}: ${esc(e.altPrice)}</small>`:""}</span></span></div>
