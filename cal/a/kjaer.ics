@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//rave.wien//Kalender//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:KJAER · rave.wien
+X-WR-CALNAME:Kjaer · rave.wien
 X-WR-TIMEZONE:Europe/Vienna
 X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
@@ -32,13 +32,43 @@ DTSTART;TZID=Europe/Vienna:20261207T210000
 DTEND;TZID=Europe/Vienna:20261208T060000
 SUMMARY:RAVECON × MIND X-MAS feat. Mario Ranieri
 LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
-DESCRIPTION:Mario Ranieri\, KJAER\, JP eXbert\, Richard Steinschlag\nVera
- nstalter: Mind Entertainment\n\nWeihnachtsausgabe von RAVECON und MIND a
- m Vorabend des Feiertags im Weberknecht\, mit Mario Ranieri als Hauptact
- . Techno Airlines führt den Abend ab 21:00 in seinem Wiener Techno-Kale
- nder. Das eigene Programm des Weberknecht führt den Termin bisher nicht
- \; weitere Acts\, Preis und Tickets sind noch nicht bekannt.\n\nhttps://
- rave.wien/e/2026-12-07-ravecon-mind-x-mas-feat-mario-ranieri
+DESCRIPTION:Main Stage: Mario Ranieri\, Kjaer\, Wanuel\, INZIDIOUZ\, JP e
+ Xbert\, Norg3n\n2nd Floor: Hokes Pokes\, Klangschlacht\, Richard Steinsc
+ hlag\, Adam19\, Rinco Baxx\, Tektakel\nVeranstalter: Mind Entertainment\
+ , RaveCon\nEintritt: VVK 12–14 € / AK 15 €\n\nRAVECON × MIND X-MA
+ S verbindet die RaveCon-Community mit der Weihnachtsfeier von Mind Enter
+ tainment Records im Weberknecht (21:00–06:00\, am Tag darauf ist Feier
+ tag). Headliner ist Mario Ranieri (SCHUBfaktor Music)\, eine prägende F
+ igur der österreichischen Hardtechno- und Schranz-Szene. Auf der Main S
+ tage (Hardtechno & Driving Techno) spielen außerdem KJAER\, Wanuel (liv
+ e)\, INZIDIOUZ\, JP eXbert und norg3n\; der zweite Floor gehört Mind Re
+ cords & Friends mit Hokes Pokes\, Klangschlacht\, Richard Steinschlag\, 
+ Adam 19\, Rinco Baxx und Tektakel. Dazu gibt es eine RaveCon-Fotowand un
+ d unter allen Vorverkaufstickets eine Verlosung von fünf signierten Mar
+ io-Ranieri-Plakaten. Tickets: Phase 1 12 €\, Phase 2 14 €\, Abendkas
+ se 15 €.\n\nhttps://rave.wien/e/2026-12-07-ravecon-mind-x-mas-feat-mar
+ io-ranieri
 URL:https://rave.wien/e/2026-12-07-ravecon-mind-x-mas-feat-mario-ranieri
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-sub-zero@rave.wien
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=Europe/Vienna:20261120T230000
+DTEND;TZID=Europe/Vienna:20261121T060000
+SUMMARY:Sub Zero
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Userkiller\, Kjaer\, Mark Dale\, Mike Mystik\, MANiLO\, Chica
+ no\nVeranstalter: Sub Zero\nEintritt: 10 € vor 00:00 / 12 € danach\n
+ \n„Vienna meets Berlin“: Sub Zero bringt den Berliner Techno-Sound i
+ ns The Loft und lässt ihn auf die dunklere\, rohere Seite der Wiener Sz
+ ene treffen – kein polierter Clubsound\, kein Mainstream\, sondern tre
+ ibende Kicks\, düstere Atmosphären und kompromissloser Techno. Aus Deu
+ tschland kommen Userkiller (Tresor Berlin\, R.C.S)\, MANiLO (Vorwärts M
+ usik\, R.C.S) und Chicano (R.C.S). Die österreichische Seite vertreten 
+ Kjaer (IAMT Red\, Fine Artistry)\, Mark Dale (Republic Artists\, Dynamic
+ ) und Mike Mystik (Dunkelton\, Shadow State). Gespielt wird im oberen Fl
+ oor\; Eintritt 10 € vor Mitternacht\, 12 € danach.\n\nhttps://rave.w
+ ien/e/2026-11-20-sub-zero
+URL:https://rave.wien/e/2026-11-20-sub-zero
 END:VEVENT
 END:VCALENDAR

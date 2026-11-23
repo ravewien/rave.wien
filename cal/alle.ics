@@ -747,15 +747,15 @@ DTSTART;TZID=Europe/Vienna:20261128T230000
 DTEND;TZID=Europe/Vienna:20261129T040000
 SUMMARY:DEAD END Showcase with Paralich pres. by GDN
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Paralich\, THIRD 2HIFT\, Valenthin\, DJ Wifi\, LUZZT\nVeranst
- alter: GDN\n\nGDN (Gesindel der Nacht) präsentiert im Werk einen DEAD E
- ND Showcase mit Paralich als Hauptact. Außerdem stehen THIRD 2HIFT\, Va
- lenthin\, DJ Wifi und LUZZT im Line-up. Das Programm des Werks führt de
- n Abend als „Dead End Showcase X GDN“ ab 23:00 – als einziges Even
- t an diesem Datum\; die zuvor dort gelistete Nine-Circles-Nacht steht ni
- cht mehr im Programm. Floors\, Set-Zeiten\, Endzeit und Preise sind nich
- t angegeben.\n\nhttps://rave.wien/e/2026-11-28-dead-end-showcase-with-pa
- ralich-pres-by-gdn
+DESCRIPTION:Paralich\, THIRD 2HIFT\, Valenthin\, DJ Wifi\, KRISTUS\, LUZZ
+ T\nVeranstalter: GDN\n\nGDN (Gesindel der Nacht) präsentiert im Werk ei
+ nen DEAD END Showcase mit Paralich als Hauptact. Außerdem stehen THIRD 
+ 2HIFT\, Valenthin\, DJ Wifi und LUZZT im Line-up. Das Programm des Werks
+  führt den Abend als „Dead End Showcase X GDN“ ab 23:00 – als ein
+ ziges Event an diesem Datum\; die zuvor dort gelistete Nine-Circles-Nach
+ t steht nicht mehr im Programm. Floors\, Set-Zeiten\, Endzeit und Preise
+  sind nicht angegeben.\n\nhttps://rave.wien/e/2026-11-28-dead-end-showca
+ se-with-paralich-pres-by-gdn
 URL:https://rave.wien/e/2026-11-28-dead-end-showcase-with-paralich-pres-b
  y-gdn
 END:VEVENT
@@ -1559,13 +1559,22 @@ DTSTART;TZID=Europe/Vienna:20261207T210000
 DTEND;TZID=Europe/Vienna:20261208T060000
 SUMMARY:RAVECON × MIND X-MAS feat. Mario Ranieri
 LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
-DESCRIPTION:Mario Ranieri\, KJAER\, JP eXbert\, Richard Steinschlag\nVera
- nstalter: Mind Entertainment\n\nWeihnachtsausgabe von RAVECON und MIND a
- m Vorabend des Feiertags im Weberknecht\, mit Mario Ranieri als Hauptact
- . Techno Airlines führt den Abend ab 21:00 in seinem Wiener Techno-Kale
- nder. Das eigene Programm des Weberknecht führt den Termin bisher nicht
- \; weitere Acts\, Preis und Tickets sind noch nicht bekannt.\n\nhttps://
- rave.wien/e/2026-12-07-ravecon-mind-x-mas-feat-mario-ranieri
+DESCRIPTION:Main Stage: Mario Ranieri\, Kjaer\, Wanuel\, INZIDIOUZ\, JP e
+ Xbert\, Norg3n\n2nd Floor: Hokes Pokes\, Klangschlacht\, Richard Steinsc
+ hlag\, Adam19\, Rinco Baxx\, Tektakel\nVeranstalter: Mind Entertainment\
+ , RaveCon\nEintritt: VVK 12–14 € / AK 15 €\n\nRAVECON × MIND X-MA
+ S verbindet die RaveCon-Community mit der Weihnachtsfeier von Mind Enter
+ tainment Records im Weberknecht (21:00–06:00\, am Tag darauf ist Feier
+ tag). Headliner ist Mario Ranieri (SCHUBfaktor Music)\, eine prägende F
+ igur der österreichischen Hardtechno- und Schranz-Szene. Auf der Main S
+ tage (Hardtechno & Driving Techno) spielen außerdem KJAER\, Wanuel (liv
+ e)\, INZIDIOUZ\, JP eXbert und norg3n\; der zweite Floor gehört Mind Re
+ cords & Friends mit Hokes Pokes\, Klangschlacht\, Richard Steinschlag\, 
+ Adam 19\, Rinco Baxx und Tektakel. Dazu gibt es eine RaveCon-Fotowand un
+ d unter allen Vorverkaufstickets eine Verlosung von fünf signierten Mar
+ io-Ranieri-Plakaten. Tickets: Phase 1 12 €\, Phase 2 14 €\, Abendkas
+ se 15 €.\n\nhttps://rave.wien/e/2026-12-07-ravecon-mind-x-mas-feat-mar
+ io-ranieri
 URL:https://rave.wien/e/2026-12-07-ravecon-mind-x-mas-feat-mario-ranieri
 END:VEVENT
 BEGIN:VEVENT
@@ -2196,12 +2205,14 @@ DTSTART;TZID=Europe/Vienna:20261218T230000
 DTEND;TZID=Europe/Vienna:20261219T040000
 SUMMARY:HERZFREQUENZ WEEKENDER: DAY 1
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Joey\, Kø:lab\, carlo kalu\, HNAS\nVeranstalter: Herzfrequen
- z\n\nAuftakt des zweitägigen HERZFREQUENZ Weekenders im Werk (Tag 1\, a
- b 23:00). Angekündigt sind Joey\, Kø:lab\, carlo kalu und HNAS\; am Fo
- lgetag (19.12.) geht der Weekender mit Joey und Amøn weiter. Preise sin
- d noch nicht veröffentlicht\, Tickets über Resident Advisor.\n\nhttps:
- //rave.wien/e/2026-12-18-herzfrequenz-weekender-day-1
+DESCRIPTION:Joey\, Kø:lab\, carlo kalu\, HNAS\, Kat Ze\, Crystal O\, YØ
+ NDER\, Grafus\, JO Trauner\, keha\nVeranstalter: Herzfrequenz\n\nAuftakt
+  des zweitägigen HERZFREQUENZ Weekenders im Werk (Tag 1\, ab 23:00). An
+ gekündigt sind Joey\, Kø:lab\, carlo kalu\, HNAS\, Kat Ze\, Crystal O\
+ , YØNDER\, Grafus\, JO Trauner und keha\; am Folgetag (19.12.) geht der
+  Weekender mit Joey und Amøn weiter. Preise sind noch nicht veröffentl
+ icht\, Tickets über Resident Advisor.\n\nhttps://rave.wien/e/2026-12-18
+ -herzfrequenz-weekender-day-1
 URL:https://rave.wien/e/2026-12-18-herzfrequenz-weekender-day-1
 END:VEVENT
 BEGIN:VEVENT
@@ -2369,13 +2380,21 @@ DTSTART;TZID=Europe/Vienna:20261219T210000
 DTEND;TZID=Europe/Vienna:20261220T060000
 SUMMARY:sama recordings pres. schweben
 LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
-DESCRIPTION:Ambient Animal\, Tanja Turner\nVeranstalter: sama recordings\
- n\nWeitere Ausgabe der Reihe s c h w e b e n des Wiener Labels sama reco
- rdings\, diesmal im Celeste. Die Reihe verbindet Avantgarde-Pop\, elektr
- onische und experimentelle Musik mit Club- und Ambient-Sounds\, meist mi
- t Live-Sets und DJs. Lineup\, Beginn\, Preis und Flyer sind noch nicht v
- eröffentlicht.\n\nhttps://rave.wien/e/2026-12-19-sama-recordings-pres-s
- chweben
+DESCRIPTION:Grelka\, Georg Stögermayer\, Captain of None\, Ssnurssla\, A
+ mbient Animal\, Meka Drina\, Tanja Turner\nVeranstalter: sama recordings
+ \nEintritt: 10–15 € / Social 7 €\n\nWeitere Ausgabe der Reihe s c 
+ h w e b e n des Wiener Labels sama recordings\, diesmal im Celeste (21:0
+ 0–06:00). Live spielen Grelka mit der Live-Premiere und Release-Präse
+ ntation seines Tapes „2 Grelka“ (analoger Sound zwischen Vaporwave\,
+  New Wave und Downtempo) und der Wiener Gitarrist Georg Stögermayer mit
+  seinem Solodebüt „Valley of Mirrors“ (zwischen Jazz\, Blues\, Ambi
+ ent und Pop). DJ-Sets kommen von Captain of None (DE\, Wien-Premiere\, L
+ eftfield und Ambient)\, Ssnurssla (CZ\, Gründer des AVA kolektiv in Brn
+ o)\, Labelchef Ambient Animal\, Meka Drina (Bassmusik\, Show „Balkan R
+ evelry“) und Tanja Turner. Tickets bei KUPFticket: regulär 10 €\, S
+ upporter 15 €\, Social 7 €\; die Reihe hat einen Code of Conduct geg
+ en diskriminierendes Verhalten.\n\nhttps://rave.wien/e/2026-12-19-sama-r
+ ecordings-pres-schweben
 URL:https://rave.wien/e/2026-12-19-sama-recordings-pres-schweben
 END:VEVENT
 BEGIN:VEVENT

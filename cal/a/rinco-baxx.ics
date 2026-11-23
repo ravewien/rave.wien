@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rinco Baxx · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-07-ravecon-mind-x-mas-feat-mario-ranieri@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T210000
+DTEND;TZID=Europe/Vienna:20261208T060000
+SUMMARY:RAVECON × MIND X-MAS feat. Mario Ranieri
+LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
+DESCRIPTION:Main Stage: Mario Ranieri\, Kjaer\, Wanuel\, INZIDIOUZ\, JP e
+ Xbert\, Norg3n\n2nd Floor: Hokes Pokes\, Klangschlacht\, Richard Steinsc
+ hlag\, Adam19\, Rinco Baxx\, Tektakel\nVeranstalter: Mind Entertainment\
+ , RaveCon\nEintritt: VVK 12–14 € / AK 15 €\n\nRAVECON × MIND X-MA
+ S verbindet die RaveCon-Community mit der Weihnachtsfeier von Mind Enter
+ tainment Records im Weberknecht (21:00–06:00\, am Tag darauf ist Feier
+ tag). Headliner ist Mario Ranieri (SCHUBfaktor Music)\, eine prägende F
+ igur der österreichischen Hardtechno- und Schranz-Szene. Auf der Main S
+ tage (Hardtechno & Driving Techno) spielen außerdem KJAER\, Wanuel (liv
+ e)\, INZIDIOUZ\, JP eXbert und norg3n\; der zweite Floor gehört Mind Re
+ cords & Friends mit Hokes Pokes\, Klangschlacht\, Richard Steinschlag\, 
+ Adam 19\, Rinco Baxx und Tektakel. Dazu gibt es eine RaveCon-Fotowand un
+ d unter allen Vorverkaufstickets eine Verlosung von fünf signierten Mar
+ io-Ranieri-Plakaten. Tickets: Phase 1 12 €\, Phase 2 14 €\, Abendkas
+ se 15 €.\n\nhttps://rave.wien/e/2026-12-07-ravecon-mind-x-mas-feat-mar
+ io-ranieri
+URL:https://rave.wien/e/2026-12-07-ravecon-mind-x-mas-feat-mario-ranieri
+END:VEVENT
+END:VCALENDAR

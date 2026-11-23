@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ssnurssla · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-19-sama-recordings-pres-schweben@rave.wien
+DTSTAMP:20261219T000000Z
+DTSTART;TZID=Europe/Vienna:20261219T210000
+DTEND;TZID=Europe/Vienna:20261220T060000
+SUMMARY:sama recordings pres. schweben
+LOCATION:Celeste\, Hamburgerstraße 18\, 1050 Wien
+DESCRIPTION:Grelka\, Georg Stögermayer\, Captain of None\, Ssnurssla\, A
+ mbient Animal\, Meka Drina\, Tanja Turner\nVeranstalter: sama recordings
+ \nEintritt: 10–15 € / Social 7 €\n\nWeitere Ausgabe der Reihe s c 
+ h w e b e n des Wiener Labels sama recordings\, diesmal im Celeste (21:0
+ 0–06:00). Live spielen Grelka mit der Live-Premiere und Release-Präse
+ ntation seines Tapes „2 Grelka“ (analoger Sound zwischen Vaporwave\,
+  New Wave und Downtempo) und der Wiener Gitarrist Georg Stögermayer mit
+  seinem Solodebüt „Valley of Mirrors“ (zwischen Jazz\, Blues\, Ambi
+ ent und Pop). DJ-Sets kommen von Captain of None (DE\, Wien-Premiere\, L
+ eftfield und Ambient)\, Ssnurssla (CZ\, Gründer des AVA kolektiv in Brn
+ o)\, Labelchef Ambient Animal\, Meka Drina (Bassmusik\, Show „Balkan R
+ evelry“) und Tanja Turner. Tickets bei KUPFticket: regulär 10 €\, S
+ upporter 15 €\, Social 7 €\; die Reihe hat einen Code of Conduct geg
+ en diskriminierendes Verhalten.\n\nhttps://rave.wien/e/2026-12-19-sama-r
+ ecordings-pres-schweben
+URL:https://rave.wien/e/2026-12-19-sama-recordings-pres-schweben
+END:VEVENT
+END:VCALENDAR
