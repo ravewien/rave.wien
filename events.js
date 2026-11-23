@@ -55861,7 +55861,8 @@ const AR={
   ],
   "infoChk": "2026-11-23",
   "noImg": "2026-11-23",
-  "spChk": "2026-11-23"
+  "spChk": "2026-11-23",
+  "setsChecked": "2026-11-23"
  },
  "Empat": {
   "links": {
@@ -56060,7 +56061,8 @@ const AR={
   ],
   "infoChk": "2026-11-23",
   "noImg": "2026-11-23",
-  "spChk": "2026-11-23"
+  "spChk": "2026-11-23",
+  "setsChecked": "2026-11-23"
  },
  "Grafus": {
   "genres": [
