@@ -6300,7 +6300,11 @@ const CI={
   "infoChk": "2026-11-15",
   "src": [
    "https://www.theloft.at/maenner-im-loft/"
-  ]
+  ],
+  "rules": {
+   "lgbtq": 1
+  },
+  "man": 1
  },
  "Ungeniert": {
   "de": "Wiener Party-Reihe „Ungeniert“, deren Ausgaben auf sexpositives.com angekündigt werden (Vol. 5 in der Libelle).",
