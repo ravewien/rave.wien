@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-mI5Dfszo/ZRmccH3fMTpJWLrmf01pN4K3ZW25lrcLXo='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-eoUaz6h0nGaUi4TtfCqlo+5fX9b/Q1vbWmJuktAragg='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -37,6 +37,7 @@
   --neg:#ff5a6a; --neg-bg:rgba(255,90,106,.12);
   --aw:#ffd24a; --aw-bg:rgba(255,210,74,.12); --aw-line:rgba(255,210,74,.4);
   --od:#5fe0c0; --od-bg:rgba(95,224,192,.10); --od-line:rgba(95,224,192,.4);
+  --ac:#7cc4ff; --ac-bg:rgba(124,196,255,.12); --ac-line:rgba(124,196,255,.45);
   --f-pixel:"Doto","Courier New",monospace;
   --f-display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;
   --f-body:"Barlow","Helvetica Neue",Arial,sans-serif;
@@ -150,6 +151,10 @@ a{color:inherit}
 @media (max-width:639px){.row.tk .flags{flex-wrap:nowrap;gap:4px}.row.tk .flags .flag:not(.age){font-size:0;padding:2px;gap:0}.row.tk .flags .flag .ico{margin:0}.row.tk .flags .flag.io{padding:2px 4px}}
 .flag.io-out.on{background:#2e7d48;color:#04140a}.flag.io-in.on{background:#4a8ef0;color:#04101f}
 .flag.od{color:var(--od);background:var(--od-bg);border:1px solid var(--od-line)}
+.acnote .flag{margin-right:6px;vertical-align:1px}
+.flag.ac{color:var(--ac);background:var(--ac-bg);border:1px solid var(--ac-line)}.flag.ac.on{background:var(--ac);color:#04101f;border-color:var(--ac)}
+.ico.ac{background:var(--ac);color:#04101f}.opt>.ico.ac{background:var(--ac-bg);border:1px solid var(--ac-line);color:var(--ac)}.opt.inc>.ico.ac{background:var(--ac);border-color:var(--ac);color:#04101f}
+.rule.ac{background:var(--ac-bg);color:var(--ac);border:1px solid var(--ac-line)}.rule.ac .ic{background:var(--ac)}
 .flag.uc{color:var(--mute);background:transparent;border:1px dashed var(--mute)}
 .flag.np,.flag.age{color:var(--fg);background:var(--panel2);border:1px solid var(--line)}
 .flags{display:flex;flex-wrap:wrap;gap:4px;margin-top:5px}
@@ -206,7 +211,7 @@ body.vw-loc{--accent:var(--c-ven);--accent-fg:#06140a;--sel:#173f20}
 .flag .ico.uc{border:0}
 .rule{width:100%;text-align:left;font-family:inherit;cursor:pointer}
 .rule:hover{filter:brightness(1.2)}
-.rule.sx .ic,.rule.lg .ic,.rule.aw .ic,.rule.np .ic,.rule.od .ic{display:inline-grid;place-items:center;min-width:20px;height:20px;border-radius:2px;color:#0b0d10;font-weight:800}
+.rule.sx .ic,.rule.lg .ic,.rule.aw .ic,.rule.np .ic,.rule.od .ic,.rule.ac .ic{display:inline-grid;place-items:center;min-width:20px;height:20px;border-radius:2px;color:#0b0d10;font-weight:800}
 .rule.sx .ic{background:var(--sex)}.rule.lg .ic{background:linear-gradient(180deg,#e40303 0 16.6%,#ff8c00 16.6% 33.3%,#ffed00 33.3% 50%,#008026 50% 66.6%,#004dff 66.6% 83.3%,#750787 83.3%);color:#fff;text-shadow:0 0 2px #000,0 0 1px #000}.rule.aw .ic{background:var(--aw)}.rule.np .ic{background:#e9ecf1}.rule.od .ic{background:var(--od)}
 /* search clear */
 .qx{position:absolute;right:4px;top:50%;transform:translateY(-50%);width:26px;height:26px;border:0;border-radius:3px;background:var(--line);color:var(--fg);font-size:15px;line-height:1}
@@ -882,7 +887,7 @@ footer a:hover{color:var(--accent)}
 .row.xr .gcl button:hover{background:none;color:var(--fg);text-decoration:underline}
 
 /* Vibe-Symbole in der Filterleiste wie in der Liste: farbiges Symbol auf transparentem Grund, gefiltert umgekehrt */
-.opt>.ico.sx,.opt>.ico.aw,.opt>.ico.np,.opt>.ico.od,.opt>.ico.lg{box-sizing:border-box;width:20px;min-width:20px;height:20px;padding:0;border-radius:3px;text-shadow:none}
+.opt>.ico.sx,.opt>.ico.aw,.opt>.ico.np,.opt>.ico.od,.opt>.ico.ac,.opt>.ico.lg{box-sizing:border-box;width:20px;min-width:20px;height:20px;padding:0;border-radius:3px;text-shadow:none}
 .opt>.ico.sx{background:var(--sex-bg);border:1px solid var(--sex-line);color:var(--sex)}
 .opt>.ico.aw{background:var(--aw-bg);border:1px solid var(--aw-line);color:var(--aw)}
 .opt>.ico.od{background:var(--od-bg);border:1px solid var(--od-line);color:var(--od)}
@@ -1373,7 +1378,7 @@ function dedupe(raw){
     Object.assign(hit,m);
   });
   out.forEach((e,i)=>{e.id="e"+i;e.genres=e.genres||[];e.coll=e.coll||[];e.floors=e.floors||[];{const ci=typeof CI!=="undefined"?CI:{};const fa=new Set(e.floors.flatMap(f=>f.a||[]).map(a=>fold(String(a).split("|").pop()).trim()));const seg=fold(e.title).split(/\s+(?:[–—|]|presents|pres\.|w\/|with|feat\.?|@|at)\s+|\s*[:#(]/)[0];const parts=seg.split(/\s+(?:x|×|&|\+)\s+/).map(x=>x.trim());Object.keys(ci).forEach(k=>{const f=fold(k).trim();if(f.length>=3&&!e.coll.includes(k)&&!fa.has(f)&&parts.includes(f))e.coll.push(k)})}const vr=VRULES[e.venue]||{};e.clubAge=vr.age||null;e.age=e.age||e.clubAge;e.fromVenue=[];
-    ["aw","nophoto","sexpos","lgbtq","opendecks"].forEach(k=>{if(vr[k]&&!e[k]){e[k]=1;e.fromVenue.push(k)}});
+    ["aw","nophoto","sexpos","lgbtq","opendecks","access"].forEach(k=>{if(vr[k]&&!e[k]){e[k]=1;e.fromVenue.push(k)}});
     e.fromColl={};const _ci=typeof CI!=="undefined"?CI:{};e.coll.forEach(c=>{const r=(_ci[c]||{}).rules||{};Object.keys(r).forEach(k=>{if(r[k]&&!e[k]){e[k]=1;e.fromColl[k]=c}})});
     {const ks=new Set(e.src.map(s=>s[0]));e.manual=ks.has("man")||(!!e.man&&!ks.size);e.org=!e.unconf&&(!!e.ook||[...ks].some(k=>SORG.includes(k)));e.loc=!e.unconf&&!!e.vok;e.multi=!e.unconf&&!e.manual&&!e.loc&&!e.org&&ks.size>=2;
      e.srcCats=e.manual?["mn"]:e.unconf?["one"]:[...(e.loc?["loc"]:[]),...(e.org?["org"]:[]),ks.size>=2?"multi":"one"].filter((x,i,A)=>!(x==="one"&&(e.loc||e.org))||A.length===1);
@@ -1411,8 +1416,8 @@ wItems:[["cal","Kalender","Ein Klick auf einen Tag zeigt nur diesen Tag. Ziehen 
 ["check","Häkchen","Blau: auf der Website der Location oder des Veranstalters bestätigt. Grau: von mehreren Quellen bestätigt."],
 ["abo","Kalender-Abo","Jede Location, jeder Veranstalter und jeder Artist hat einen Kalender zum Abonnieren. Neue Termine landen dann von selbst in deinem Kalender."]],
 noLocs:"Keine Locations mit diesen Filtern.",noCols:"Keine Veranstalter mit diesen Filtern.",wDid:"Wusstest du schon?",mcHint:"Tag anklicken – ziehen oder Shift+Klick für einen Zeitraum",mcN:"{n} Events",ty:{d:"datum",col:"veranstalter",src:"quellen",c:"veranstalter",a:"artist",v:"location",g:"genre",f:"vibe",e:"event",age:"alter",price:"preis",time:"zeit",io:"setting"},
-  fSx:"Sexpositiv",fLg:"LGBTQIA+",fAw:"Awareness",fNp:"Keine Fotos / Videos",fOd:"Open Decks",
-  rSx:"Sexpositive Party",rLg:"Für LGBTQIA+ Publikum",rAw:"Awareness",rNp:"Keine Fotos und Videos",rZt:"Null Toleranz für Sexismus, Rassismus, Homo- und Transphobie",rOd:"Open Decks: selbst auflegen möglich",
+  fSx:"Sexpositiv",fLg:"LGBTQIA+",fAw:"Awareness",fNp:"Keine Fotos / Videos",fOd:"Open Decks",fAc:"Rollstuhlgerecht",
+  rSx:"Sexpositive Party",rLg:"Für LGBTQIA+ Publikum",rAw:"Awareness",rNp:"Keine Fotos und Videos",rZt:"Null Toleranz für Sexismus, Rassismus, Homo- und Transphobie",rOd:"Open Decks: selbst auflegen möglich",rAc:"Rollstuhlgerecht zugänglich",
   ai:"Diese Seite wurde mit KI (Claude von Anthropic) erstellt. Die Daten wurden automatisch aus öffentlichen Quellen gesammelt und zusammengeführt. Fehler sind möglich, bitte Angaben beim Veranstalter prüfen.",
   foot1:"Stand: 27. Oktober 2026. Quellen: Club-Websites (Grelle Forelle, FLUCC, SASS, PRST, Das Werk, Weberknecht, Exil), Veranstalter (hausgemacht u. a.) und Portale (Resident Advisor, oh schon hell, frey-tag, regioactive, events.at, volume.at, FALTER, Wien Modern, rausgegangen, sexpositives.com, goodnight.at).",
   foot2:"Events, die nur eine Quelle haben und nicht von der Location selbst bestätigt sind, tragen den Hinweis „nur 1 Quelle“. Vibe & Safety und Eintrittsalter sind nur markiert, wenn Club oder Veranstalter sie angeben. Grelle Forelle und Das Werk lassen laut Wien-Guides in der Regel ab 21 Jahren ein, SASS und O der Klub ab 18; einzelne Events können abweichen. Fehlt eine Markierung, heißt das nicht, dass es sie nicht gibt. Flyer werden nicht eingebettet, der Link führt zur Quelle."},
@@ -1431,13 +1436,13 @@ wItems:[["cal","Calendar","Click a day to see only that day. Drag or shift-click
 ["check","Check marks","Blue: confirmed on the venue's or promoter's website. Grey: confirmed by several sources."],
 ["abo","Calendar feeds","Every venue, promoter and artist has a calendar you can subscribe to. New dates then appear in your calendar automatically."]],
 noLocs:"No venues match these filters.",noCols:"No promoters match these filters.",wDid:"Did you know?",mcHint:"Click a day – drag or shift-click for a range",mcN:"{n} events",ty:{d:"date",col:"promoter",src:"sources",c:"promoter",a:"artist",v:"venue",g:"genre",f:"vibe",e:"event",age:"age",price:"price",time:"time",io:"setting"},
-  fSx:"Sex-positive",fLg:"LGBTQIA+",fAw:"Awareness",fNp:"No photos / videos",fOd:"Open decks",
-  rSx:"Sex-positive party",rLg:"For an LGBTQIA+ crowd",rAw:"Awareness",rNp:"No photos or videos",rZt:"Zero tolerance for sexism, racism, homophobia and transphobia",rOd:"Open decks: you can sign up to play",
+  fSx:"Sex-positive",fLg:"LGBTQIA+",fAw:"Awareness",fNp:"No photos / videos",fOd:"Open decks",fAc:"Wheelchair accessible",
+  rSx:"Sex-positive party",rLg:"For an LGBTQIA+ crowd",rAw:"Awareness",rNp:"No photos or videos",rZt:"Zero tolerance for sexism, racism, homophobia and transphobia",rOd:"Open decks: you can sign up to play",rAc:"Wheelchair accessible",
   ai:"This page was made with AI (Claude by Anthropic). The data was collected and merged automatically from public sources. Mistakes are possible, please check details with the promoter.",
   foot1:"As of 27 October 2026. Sources: club websites (Grelle Forelle, FLUCC, SASS, PRST, Das Werk, Weberknecht, Exil), promoters (hausgemacht and others) and portals (Resident Advisor, oh schon hell, frey-tag, regioactive, events.at, volume.at, FALTER, Wien Modern, rausgegangen, sexpositives.com, goodnight.at).",
   foot2:"Events found on only one source and not confirmed by the venue are marked \"single source\". Vibe & Safety and entry age are only marked when the club or promoter states them. Grelle Forelle and Das Werk are generally 21+ according to Vienna guides, SASS and O der Klub 18+; single events can differ. A missing mark does not mean there is none. Flyers are not embedded; the link leads to the source."}
 };
-const FLAGS=[["aw","aw","fAw","rAw","<svg viewBox=\"0 0 64 64\" width=\"13\" height=\"13\" aria-hidden=\"true\"><g fill=\"currentColor\"><path opacity=\".55\" d=\"M28 27C22 22 12 12 5 13c-4 1 0 11 6 15 5 3 12 2 17 0z\"/><path opacity=\".55\" d=\"M28 31c-6 1-14 4-16 9-2 4 3 6 7 4 4-2 7-7 9-11z\"/><path opacity=\".55\" d=\"M36 27c6-5 16-15 23-14 4 1 0 11-6 15-5 3-12 2-17 0z\"/><path opacity=\".55\" d=\"M36 31c6 1 14 4 16 9 2 4-3 6-7 4-4-2-7-7-9-11z\"/><circle cx=\"32\" cy=\"13\" r=\"6.5\"/><path d=\"M27.5 22h9l6.5 26H21z\"/><rect x=\"26.5\" y=\"48\" width=\"3.6\" height=\"11\" rx=\"1.8\"/><rect x=\"33.9\" y=\"48\" width=\"3.6\" height=\"11\" rx=\"1.8\"/></g></svg>"],["nophoto","np","fNp","rNp","<svg viewBox=\"0 0 64 64\" width=\"13\" height=\"13\" aria-hidden=\"true\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linejoin=\"round\"><path d=\"M23 15h18l4 6h8a4 4 0 0 1 4 4v23a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4V25a4 4 0 0 1 4-4h8z\"/><circle cx=\"32\" cy=\"36\" r=\"9\"/></g><path d=\"M9 11 L55 57\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\"/></svg>"],["opendecks","od","fOd","rOd","◎"],["lgbtq","lg","fLg","rLg",""],["sexpos","sx","fSx","rSx","♥"]];
+const FLAGS=[["aw","aw","fAw","rAw","<svg viewBox=\"0 0 64 64\" width=\"13\" height=\"13\" aria-hidden=\"true\"><g fill=\"currentColor\"><path opacity=\".55\" d=\"M28 27C22 22 12 12 5 13c-4 1 0 11 6 15 5 3 12 2 17 0z\"/><path opacity=\".55\" d=\"M28 31c-6 1-14 4-16 9-2 4 3 6 7 4 4-2 7-7 9-11z\"/><path opacity=\".55\" d=\"M36 27c6-5 16-15 23-14 4 1 0 11-6 15-5 3-12 2-17 0z\"/><path opacity=\".55\" d=\"M36 31c6 1 14 4 16 9 2 4-3 6-7 4-4-2-7-7-9-11z\"/><circle cx=\"32\" cy=\"13\" r=\"6.5\"/><path d=\"M27.5 22h9l6.5 26H21z\"/><rect x=\"26.5\" y=\"48\" width=\"3.6\" height=\"11\" rx=\"1.8\"/><rect x=\"33.9\" y=\"48\" width=\"3.6\" height=\"11\" rx=\"1.8\"/></g></svg>"],["nophoto","np","fNp","rNp","<svg viewBox=\"0 0 64 64\" width=\"13\" height=\"13\" aria-hidden=\"true\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linejoin=\"round\"><path d=\"M23 15h18l4 6h8a4 4 0 0 1 4 4v23a4 4 0 0 1-4 4H11a4 4 0 0 1-4-4V25a4 4 0 0 1 4-4h8z\"/><circle cx=\"32\" cy=\"36\" r=\"9\"/></g><path d=\"M9 11 L55 57\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\"/></svg>"],["opendecks","od","fOd","rOd","◎"],["lgbtq","lg","fLg","rLg",""],["sexpos","sx","fSx","rSx","♥"],["access","ac","fAc","rAc","<svg viewBox=\"0 0 64 64\" width=\"13\" height=\"13\" aria-hidden=\"true\"><circle cx=\"27\" cy=\"9\" r=\"5.5\" fill=\"currentColor\"/><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M27 19v17h15l5 15\"/><path d=\"M27 27h12\"/><path d=\"M38 47a14 14 0 1 1-17-18\"/></g></svg>"]];
 const ICOL='<svg class="ii col" viewBox="0 0 13 12" aria-hidden="true"><path fill="currentColor" d="M6.5 0a2.3 2.3 0 1 1 0 4.6 2.3 2.3 0 0 1 0-4.6zM2.4 1.6a1.8 1.8 0 1 1 0 3.6 1.8 1.8 0 0 1 0-3.6zm8.2 0a1.8 1.8 0 1 1 0 3.6 1.8 1.8 0 0 1 0-3.6zM6.5 5.6c2.2 0 3.6 1.4 3.6 3.4V12H2.9V9c0-2 1.4-3.4 3.6-3.4zM2.2 6.2c.4 0 .7 0 1 .1A4.4 4.4 0 0 0 2 9.1V11H0V8.7c0-1.5.9-2.5 2.2-2.5zm8.6 0c1.3 0 2.2 1 2.2 2.5V11h-2V9.1c0-1.1-.4-2.1-1.2-2.8.3-.1.6-.1 1-.1z"/></svg>';
 const IPIN='<svg class="ii pin" viewBox="0 0 11 14" aria-hidden="true"><path fill="currentColor" d="M5.5 0A5.5 5.5 0 0 0 0 5.5C0 9.6 5.5 14 5.5 14S11 9.6 11 5.5A5.5 5.5 0 0 0 5.5 0zm0 7.6a2.1 2.1 0 1 1 0-4.2 2.1 2.1 0 0 1 0 4.2z"/></svg>';
 const ICAL='<svg viewBox="0 0 16 16" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.4" d="M2.5 3.5h11v10h-11zM2.5 6.5h11M5.5 1.8v3M10.5 1.8v3"/></svg>';
@@ -1755,7 +1760,7 @@ addEventListener("wheel",ev=>{const y=nowY();if(y==null||!PULL.locked||ev.deltaY
 let LOADING=false;
 addEventListener("scroll",()=>{if(LOADING||st.view!=="list")return;const ns=$("nowsep");if(!ns)return;
   const outTop=$("out").getBoundingClientRect().top;if(outTop>-900&&st.pastN<PTOT){LOADING=true;requestAnimationFrame(()=>{st.pastN+=120;renderList();LOADING=false})}},{passive:true});
-const TAGC={sexpos:"var(--sex)",lgbtq:"var(--lg)",aw:"var(--aw)",nophoto:"var(--fg)",opendecks:"var(--od)"};
+const TAGC={sexpos:"var(--sex)",lgbtq:"var(--lg)",aw:"var(--aw)",nophoto:"var(--fg)",opendecks:"var(--od)",access:"var(--ac)"};
 const stripes=e=>{const c=FLAGS.filter(f=>e[f[0]]).map(f=>TAGC[f[0]]);return c.length?c:["var(--accent)"]};
 function calMonths(){return [...new Set(EV.map(e=>e.d.slice(0,7)).concat(TODAY.slice(0,7)).concat(typeof PASTR!=="undefined"?PASTR.map(p=>p.d.slice(0,7)):[]))].sort()}
 const GEO=typeof VG!=="undefined"?VG:{};
@@ -2143,7 +2148,7 @@ function renderVen(vd,n){
     ${FLAGS.some(f=>vr[f[0]])||(vi.io||[]).length?`<div class="flags">${ioTags(ioOf(vi.io))}${ruleTags(vr,l.house)}</div>`:""}
     ${gclHTML(tg)}
   </div>${statsHTML([[l.since,vi.opened||"–",1],[l.age,vr.age||"–"],[l.upShortU,String(up.length)],[l.archive,String(past.length)]])}</div>
-  ${vi[st.lang]?`<div class="note">${esc(vi[st.lang])}</div>`:""}
+  ${vi[st.lang]?`<div class="note">${esc(vi[st.lang])}</div>`:""}${vr.accNote?`<div class="note acnote">${vr.access?`<span class="flag ac"><i class="ico ac">${FLAGS.find(f=>f[0]==="access")[4]}</i>${esc(l.fAc)}</span> `:"♿︎ "}${esc(vr.accNote[st.lang]||vr.accNote.de)}</div>`:""}
   ${floorsH?`<div>${secH(l.floorsSound)}${floorsH}</div>`:""}
   ${res.length?`<div>${secH(l.residents,res.length)}${namesHTML(res)}</div>`:""}
   <div>${secH(l.nextEv,up.length)}${upList(up,"ven",5)}</div>
@@ -2294,7 +2299,7 @@ function renderEv(dk,id){
       :`<div class="artists">${f.a.map(a=>a==="TBA"?`<span style="color:var(--mute)">${l.tba}</span>`:`<span>${abtn(a,e.headSet,1)}</span>`).join("")}</div>`;
     return `<div class="pad"><span class="key" style="background:var(--cue${CUE[i%8]})">${CUE[i%8]}</span><div>${f.f?`<div class="fl">${esc(f.f)}</div>`:""}${inner}${fsound(f)?`<div class="snd"><span class="sndk">SOUND</span>${esc(fsound(f)[st.lang]||fsound(f).de)}</div>`:""}</div></div>`}).join("")
     :`<div class="pad"><span class="key" style="background:var(--cueA)">A</span><div style="color:var(--mute)">${l.tba}</div></div>`;
-  const vibe=FLAGS.filter(f=>e[f[0]]).map(([k,c,lab,,ic])=>{const why=e.fromVenue.includes(k)?`${l.house} ${e.venue}`:e.fromColl&&e.fromColl[k]?`${l.collRule} ${e.fromColl[k]}`:"";return `<button class="flag ${c}" data-ff="${k}" title="${esc(l.filter+(why?" · "+why:""))}"><i class="ico ${c}">${ic}</i>${esc(l[lab])}${why?"*":""}</button>`});
+  const vibe=FLAGS.filter(f=>e[f[0]]).map(([k,c,lab,,ic])=>{const an=k==="access"&&(VRULES[e.venue]||{}).accNote;const why0=e.fromVenue.includes(k)?`${l.house} ${e.venue}`:e.fromColl&&e.fromColl[k]?`${l.collRule} ${e.fromColl[k]}`:"";const why=(an?(an[st.lang]||an.de)+(why0?" · ":""):"")+why0;return `<button class="flag ${c}" data-ff="${k}" title="${esc(l.filter+(why?" · "+why:""))}"><i class="ico ${c}">${ic}</i>${esc(l[lab])}${why?"*":""}</button>`});
   
   const viaRules=FLAGS.filter(f=>e[f[0]]&&(e.fromVenue.includes(f[0])||(e.fromColl&&e.fromColl[f[0]]))).map(f=>`${l[f[2]]}: ${e.fromVenue.includes(f[0])?l.house+" "+e.venue:l.collRule+" "+e.fromColl[f[0]]}`);
   const vf=e.loc&&e.org?l.rBoth:e.loc?l.rLoc:e.org?l.rOrg:"";
