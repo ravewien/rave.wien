@@ -3751,13 +3751,16 @@ const CI={
   "web": "https://www.ttbb.at/",
   "ig": "https://www.instagram.com/tittitittibangbang/",
   "logo": "https://www.ttbb.at/wp-content/uploads/2026/03/Schriftzug-weiss.svg",
-  "logoBg": "#000000",
   "src": [
    "https://www.ttbb.at/",
    "https://www.theloft.at/titti-titti-bang-bang-14/",
    "https://www.1000thingsmagazine.com/de/a/2045907/sex-positive-partys-wien/"
   ],
-  "infoChk": "2026-11-02"
+  "infoChk": "2026-11-02",
+  "rules": {
+   "lgbtq": 1
+  },
+  "man": 1
  },
  "Taktgefühl": {
   "noLogo": "2026-11-15",
