@@ -2233,11 +2233,12 @@ DTSTART;TZID=Europe/Vienna:20261218T230000
 DTEND;TZID=Europe/Vienna:20261219T060000
 SUMMARY:RITUAL x YN w/ Chris Liebing
 LOCATION:Club Exil\, Marktstraße 13A\, 2331 Vösendorf Wien
-DESCRIPTION:Chris Liebing\nVeranstalter: YN\, Ritual\nEintritt: VVK 16 
- €\n\nDie Reihen RITUAL und YN holen Chris Liebing in den Club Exil in 
- Vösendorf. Beginn 23:00\, Vorverkauf 16 € über den Ticketshop des Ex
- il. Ein weiteres Lineup ist laut Programm der Location noch nicht genann
- t.\n\nhttps://rave.wien/e/2026-12-18-ritual-x-yn-w-chris-liebing
+DESCRIPTION:Chris Liebing\nVeranstalter: YN Collective\, Ritual\nEintritt
+ : VVK 16 €\n\nDie Reihen RITUAL und YN holen Chris Liebing in den Club
+  Exil in Vösendorf. Beginn 23:00\, Vorverkauf 16 € über den Ticketsh
+ op des Exil. Ein weiteres Lineup ist laut Programm der Location noch nic
+ ht genannt.\n\nhttps://rave.wien/e/2026-12-18-ritual-x-yn-w-chris-liebin
+ g
 URL:https://rave.wien/e/2026-12-18-ritual-x-yn-w-chris-liebing
 END:VEVENT
 BEGIN:VEVENT
@@ -3361,8 +3362,8 @@ DTSTART;VALUE=DATE:20240120
 DTEND;VALUE=DATE:20240121
 SUMMARY:DYSTOPIA RAVE on 2 FLOORS
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/2024-01-2
- 0-dystopia-rave-on-2-floors
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2024-01-20
+ -dystopia-rave-on-2-floors
 URL:https://rave.wien/e/2024-01-20-dystopia-rave-on-2-floors
 END:VEVENT
 BEGIN:VEVENT
@@ -3621,9 +3622,9 @@ DTEND;VALUE=DATE:20240225
 SUMMARY:LABELNACHT by Gesindel x GDN Records w/ Gockel\, Algayev & I Danc
  e Alone
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Gockel\, Algayev\, I Dance Alone\nVeranstalter: Gesindel der 
- Nacht\, GDN\n\nhttps://rave.wien/e/2024-02-24-labelnacht-by-gesindel-x-g
- dn-records-w-gockel-alg
+DESCRIPTION:Gockel\, Algayev\, I Dance Alone\nVeranstalter: GDN\n\nhttps:
+ //rave.wien/e/2024-02-24-labelnacht-by-gesindel-x-gdn-records-w-gockel-a
+ lg
 URL:https://rave.wien/e/2024-02-24-labelnacht-by-gesindel-x-gdn-records-w
  -gockel-alg
 END:VEVENT
@@ -4111,8 +4112,8 @@ DTSTART;VALUE=DATE:20240420
 DTEND;VALUE=DATE:20240421
 SUMMARY:DYSTOPIA RAVE
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/2024-04-2
- 0-dystopia-rave
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2024-04-20
+ -dystopia-rave
 URL:https://rave.wien/e/2024-04-20-dystopia-rave
 END:VEVENT
 BEGIN:VEVENT
@@ -4987,8 +4988,8 @@ DTEND;VALUE=DATE:20240630
 SUMMARY:HART: A Queer & Body-Positive Hard Techno Night by GESINDEL DER N
  ACHT & HERZFREQUENZ
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Herzfrequenz\, Gesindel der Nacht\n\nhttps://ra
- ve.wien/e/2024-06-29-hart-a-queer-body-positive-hard-techno-night-by-g
+DESCRIPTION:Veranstalter: Herzfrequenz\, GDN\n\nhttps://rave.wien/e/2024-
+ 06-29-hart-a-queer-body-positive-hard-techno-night-by-g
 URL:https://rave.wien/e/2024-06-29-hart-a-queer-body-positive-hard-techno
  -night-by-g
 END:VEVENT
@@ -5068,8 +5069,8 @@ DTSTART;VALUE=DATE:20240705
 DTEND;VALUE=DATE:20240706
 SUMMARY:SYNERGY RAVE (TRANCE + HARDTECHNO) on 2 Floors
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2024-07-05-
- synergy-rave-trance-hardtechno-on-2-floors
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2024-07-05-syner
+ gy-rave-trance-hardtechno-on-2-floors
 URL:https://rave.wien/e/2024-07-05-synergy-rave-trance-hardtechno-on-2-fl
  oors
 END:VEVENT
@@ -5379,8 +5380,8 @@ DTEND;VALUE=DATE:20240727
 SUMMARY:Xperiment Records Night
 LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
  ien
-DESCRIPTION:Veranstalter: Xperiment\n\nhttps://rave.wien/e/2024-07-26-xpe
- riment-records-night
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2024-0
+ 7-26-xperiment-records-night
 URL:https://rave.wien/e/2024-07-26-xperiment-records-night
 END:VEVENT
 BEGIN:VEVENT
@@ -5492,8 +5493,8 @@ DTSTART;VALUE=DATE:20240802
 DTEND;VALUE=DATE:20240803
 SUMMARY:SYNERGY RAVE x TRANCE + HARDTECHNO
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2024-08-02-
- synergy-rave-x-trance-hardtechno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2024-08-02-syner
+ gy-rave-x-trance-hardtechno
 URL:https://rave.wien/e/2024-08-02-synergy-rave-x-trance-hardtechno
 END:VEVENT
 BEGIN:VEVENT
@@ -5765,8 +5766,8 @@ DTSTART;VALUE=DATE:20240816
 DTEND;VALUE=DATE:20240817
 SUMMARY:ROSAROT by Gesindel der Nacht x Pink Mayhem
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Veranstalter: Gesindel der Nacht\, Pink Mayhem\n\nhttps://rav
- e.wien/e/2024-08-16-rosarot-by-gesindel-der-nacht-x-pink-mayhem
+DESCRIPTION:Veranstalter: GDN\, Pink Mayhem\n\nhttps://rave.wien/e/2024-0
+ 8-16-rosarot-by-gesindel-der-nacht-x-pink-mayhem
 URL:https://rave.wien/e/2024-08-16-rosarot-by-gesindel-der-nacht-x-pink-m
  ayhem
 END:VEVENT
@@ -6018,8 +6019,8 @@ DTSTART;VALUE=DATE:20240831
 DTEND;VALUE=DATE:20240901
 SUMMARY:DYSTØPIA RAVE [on 3 floors]
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/2024-08-3
- 1-dyst-pia-rave-on-3-floors
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2024-08-31
+ -dyst-pia-rave-on-3-floors
 URL:https://rave.wien/e/2024-08-31-dyst-pia-rave-on-3-floors
 END:VEVENT
 BEGIN:VEVENT
@@ -6399,8 +6400,8 @@ DTSTART;VALUE=DATE:20240928
 DTEND;VALUE=DATE:20240929
 SUMMARY:DYSTØPIA RAVE
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/2024-09-2
- 8-dyst-pia-rave
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2024-09-28
+ -dyst-pia-rave
 URL:https://rave.wien/e/2024-09-28-dyst-pia-rave
 END:VEVENT
 BEGIN:VEVENT
@@ -7468,8 +7469,8 @@ DTSTART;VALUE=DATE:20241123
 DTEND;VALUE=DATE:20241124
 SUMMARY:SYNERGY RAVE x TRANCE + HARDTECHNO
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2024-11-23-
- synergy-rave-x-trance-hardtechno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2024-11-23-syner
+ gy-rave-x-trance-hardtechno
 URL:https://rave.wien/e/2024-11-23-synergy-rave-x-trance-hardtechno
 END:VEVENT
 BEGIN:VEVENT
@@ -7583,8 +7584,8 @@ DTSTART;VALUE=DATE:20241130
 DTEND;VALUE=DATE:20241201
 SUMMARY:DYSTØPIA RAVE
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/2024-11-3
- 0-dyst-pia-rave
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2024-11-30
+ -dyst-pia-rave
 URL:https://rave.wien/e/2024-11-30-dyst-pia-rave
 END:VEVENT
 BEGIN:VEVENT
@@ -7888,8 +7889,8 @@ DTSTART;VALUE=DATE:20241220
 DTEND;VALUE=DATE:20241221
 SUMMARY:Dystopia
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/2024-12-2
- 0-dystopia
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2024-12-20
+ -dystopia
 URL:https://rave.wien/e/2024-12-20-dystopia
 END:VEVENT
 BEGIN:VEVENT
@@ -8149,8 +8150,8 @@ DTSTART;VALUE=DATE:20250103
 DTEND;VALUE=DATE:20250104
 SUMMARY:SYNERGY RAVE x Trance + Hardtechno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2025-01-03-
- synergy-rave-x-trance-hardtechno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-01-03-syner
+ gy-rave-x-trance-hardtechno
 URL:https://rave.wien/e/2025-01-03-synergy-rave-x-trance-hardtechno
 END:VEVENT
 BEGIN:VEVENT
@@ -8273,8 +8274,8 @@ DTSTART;VALUE=DATE:20250110
 DTEND;VALUE=DATE:20250111
 SUMMARY:Gesindel der Nacht – 2 floors 4 one price
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Veranstalter: Gesindel der Nacht\n\nhttps://rave.wien/e/2025-
- 01-10-gesindel-der-nacht-2-floors-4-one-price
+DESCRIPTION:Veranstalter: GDN\n\nhttps://rave.wien/e/2025-01-10-gesindel-
+ der-nacht-2-floors-4-one-price
 URL:https://rave.wien/e/2025-01-10-gesindel-der-nacht-2-floors-4-one-price
 END:VEVENT
 BEGIN:VEVENT
@@ -8339,8 +8340,8 @@ DTSTART;VALUE=DATE:20250111
 DTEND;VALUE=DATE:20250112
 SUMMARY:DYSTOPIA RAVE
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/2025-01-1
- 1-dystopia-rave
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2025-01-11
+ -dystopia-rave
 URL:https://rave.wien/e/2025-01-11-dystopia-rave
 END:VEVENT
 BEGIN:VEVENT
@@ -8603,8 +8604,8 @@ DTSTART;VALUE=DATE:20250124
 DTEND;VALUE=DATE:20250125
 SUMMARY:NACHTSCHUB by Gesindel der Nacht
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Nachtschub\, Gesindel der Nacht\n\nhttps://rave
- .wien/e/2025-01-24-nachtschub-by-gesindel-der-nacht
+DESCRIPTION:Veranstalter: Nachtschub\, GDN\n\nhttps://rave.wien/e/2025-01
+ -24-nachtschub-by-gesindel-der-nacht
 URL:https://rave.wien/e/2025-01-24-nachtschub-by-gesindel-der-nacht
 END:VEVENT
 BEGIN:VEVENT
@@ -8858,8 +8859,8 @@ DTSTART;VALUE=DATE:20250208
 DTEND;VALUE=DATE:20250209
 SUMMARY:Gesindel der Nacht
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Veranstalter: Gesindel der Nacht\n\nhttps://rave.wien/e/2025-
- 02-08-gesindel-der-nacht
+DESCRIPTION:Veranstalter: GDN\n\nhttps://rave.wien/e/2025-02-08-gesindel-
+ der-nacht
 URL:https://rave.wien/e/2025-02-08-gesindel-der-nacht
 END:VEVENT
 BEGIN:VEVENT
@@ -8879,8 +8880,8 @@ DTSTART;VALUE=DATE:20250208
 DTEND;VALUE=DATE:20250209
 SUMMARY:SYNERGY RAVE x Trance + Hardtechno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2025-02-08-
- synergy-rave-x-trance-hardtechno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-02-08-syner
+ gy-rave-x-trance-hardtechno
 URL:https://rave.wien/e/2025-02-08-synergy-rave-x-trance-hardtechno
 END:VEVENT
 BEGIN:VEVENT
@@ -9396,8 +9397,8 @@ DTEND;VALUE=DATE:20250308
 SUMMARY:Xperiment Nights
 LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
  ien
-DESCRIPTION:Veranstalter: Xperiment\n\nhttps://rave.wien/e/2025-03-07-xpe
- riment-nights
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2025-0
+ 3-07-xperiment-nights
 URL:https://rave.wien/e/2025-03-07-xperiment-nights
 END:VEVENT
 BEGIN:VEVENT
@@ -9431,8 +9432,8 @@ DTSTART;VALUE=DATE:20250307
 DTEND;VALUE=DATE:20250308
 SUMMARY:SYNERGY RAVE x Trance + Hard Techno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2025-03-07-
- synergy-rave-x-trance-hard-techno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-03-07-syner
+ gy-rave-x-trance-hard-techno
 URL:https://rave.wien/e/2025-03-07-synergy-rave-x-trance-hard-techno
 END:VEVENT
 BEGIN:VEVENT
@@ -9934,8 +9935,8 @@ DTSTART;VALUE=DATE:20250404
 DTEND;VALUE=DATE:20250405
 SUMMARY:SYNERGY RAVE x Trance + Hard Techno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2025-04-04-
- synergy-rave-x-trance-hard-techno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-04-04-syner
+ gy-rave-x-trance-hard-techno
 URL:https://rave.wien/e/2025-04-04-synergy-rave-x-trance-hard-techno
 END:VEVENT
 BEGIN:VEVENT
@@ -10135,8 +10136,8 @@ DTSTART;VALUE=DATE:20250412
 DTEND;VALUE=DATE:20250413
 SUMMARY:DYSTØPIA RAVE
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/2025-04-1
- 2-dyst-pia-rave
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2025-04-12
+ -dyst-pia-rave
 URL:https://rave.wien/e/2025-04-12-dyst-pia-rave
 END:VEVENT
 BEGIN:VEVENT
@@ -10169,8 +10170,8 @@ DTEND;VALUE=DATE:20250419
 SUMMARY:Xperiment Nights
 LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
  ien
-DESCRIPTION:Veranstalter: Xperiment\n\nhttps://rave.wien/e/2025-04-18-xpe
- riment-nights
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2025-0
+ 4-18-xperiment-nights
 URL:https://rave.wien/e/2025-04-18-xperiment-nights
 END:VEVENT
 BEGIN:VEVENT
@@ -10702,8 +10703,8 @@ DTSTART;VALUE=DATE:20250502
 DTEND;VALUE=DATE:20250503
 SUMMARY:SYNERGY RAVE x Trance + Hard Techno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2025-05-02-
- synergy-rave-x-trance-hard-techno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-05-02-syner
+ gy-rave-x-trance-hard-techno
 URL:https://rave.wien/e/2025-05-02-synergy-rave-x-trance-hard-techno
 END:VEVENT
 BEGIN:VEVENT
@@ -11242,7 +11243,7 @@ DTSTART;VALUE=DATE:20250524
 DTEND;VALUE=DATE:20250525
 SUMMARY:WRECK pres. RUNY & MANDE
 LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
-DESCRIPTION:RUNY\, Mande\nVeranstalter: WRECK\n\nhttps://rave.wien/e/2025
+DESCRIPTION:RUNY\, Mande\nVeranstalter: Wreck\n\nhttps://rave.wien/e/2025
  -05-24-wreck-pres-runy-mande
 URL:https://rave.wien/e/2025-05-24-wreck-pres-runy-mande
 END:VEVENT
@@ -11595,8 +11596,8 @@ DTSTART;VALUE=DATE:20250606
 DTEND;VALUE=DATE:20250607
 SUMMARY:SYNERGY RAVE x Trance + Hard Techno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2025-06-06-
- synergy-rave-x-trance-hard-techno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-06-06-syner
+ gy-rave-x-trance-hard-techno
 URL:https://rave.wien/e/2025-06-06-synergy-rave-x-trance-hard-techno
 END:VEVENT
 BEGIN:VEVENT
@@ -11737,8 +11738,8 @@ DTSTART;VALUE=DATE:20250613
 DTEND;VALUE=DATE:20250614
 SUMMARY:DYSTØPIA RAVE
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/2025-06-1
- 3-dyst-pia-rave
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2025-06-13
+ -dyst-pia-rave
 URL:https://rave.wien/e/2025-06-13-dyst-pia-rave
 END:VEVENT
 BEGIN:VEVENT
@@ -12670,8 +12671,8 @@ DTSTART;VALUE=DATE:20250719
 DTEND;VALUE=DATE:20250720
 SUMMARY:DEAD END showcase pres. by Gesindel der Nacht
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Gesindel der Nacht\n\nhttps://rave.wien/e/2025-
- 07-19-dead-end-showcase-pres-by-gesindel-der-nacht
+DESCRIPTION:Veranstalter: GDN\n\nhttps://rave.wien/e/2025-07-19-dead-end-
+ showcase-pres-by-gesindel-der-nacht
 URL:https://rave.wien/e/2025-07-19-dead-end-showcase-pres-by-gesindel-der
  -nacht
 END:VEVENT
@@ -12716,7 +12717,7 @@ DTSTART;VALUE=DATE:20250725
 DTEND;VALUE=DATE:20250726
 SUMMARY:WRECK invites AUDRI [IT]
 LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Audri\nVeranstalter: WRECK\n\nhttps://rave.wien/e/2025-07-25-
+DESCRIPTION:Audri\nVeranstalter: Wreck\n\nhttps://rave.wien/e/2025-07-25-
  wreck-invites-audri-it
 URL:https://rave.wien/e/2025-07-25-wreck-invites-audri-it
 END:VEVENT
@@ -12908,8 +12909,8 @@ DTSTART;VALUE=DATE:20250801
 DTEND;VALUE=DATE:20250802
 SUMMARY:SYNERGY RAVE x Trance + Hard Techno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2025-08-01-
- synergy-rave-x-trance-hard-techno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-08-01-syner
+ gy-rave-x-trance-hard-techno
 URL:https://rave.wien/e/2025-08-01-synergy-rave-x-trance-hard-techno
 END:VEVENT
 BEGIN:VEVENT
@@ -13179,8 +13180,8 @@ DTEND;VALUE=DATE:20250817
 SUMMARY:Xperiment Nights
 LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
  ien
-DESCRIPTION:Veranstalter: Xperiment\n\nhttps://rave.wien/e/2025-08-16-xpe
- riment-nights
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2025-0
+ 8-16-xperiment-nights
 URL:https://rave.wien/e/2025-08-16-xperiment-nights
 END:VEVENT
 BEGIN:VEVENT
@@ -13554,8 +13555,8 @@ DTEND;VALUE=DATE:20250906
 SUMMARY:Xperiment Nights
 LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
  ien
-DESCRIPTION:Veranstalter: Xperiment\n\nhttps://rave.wien/e/2025-09-05-xpe
- riment-nights
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2025-0
+ 9-05-xperiment-nights
 URL:https://rave.wien/e/2025-09-05-xperiment-nights
 END:VEVENT
 BEGIN:VEVENT
@@ -13587,8 +13588,8 @@ DTSTART;VALUE=DATE:20250905
 DTEND;VALUE=DATE:20250906
 SUMMARY:SYNERGY RAVE x Trance + Hard Techno: Hektisch 2nd Birthday Special
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2025-09-05-
- synergy-rave-x-trance-hard-techno-hektisch-2nd-bi
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-09-05-syner
+ gy-rave-x-trance-hard-techno-hektisch-2nd-bi
 URL:https://rave.wien/e/2025-09-05-synergy-rave-x-trance-hard-techno-hekt
  isch-2nd-bi
 END:VEVENT
@@ -13823,8 +13824,8 @@ DTSTART;VALUE=DATE:20250913
 DTEND;VALUE=DATE:20250914
 SUMMARY:DYSTØPIA RAVE
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/2025-09-1
- 3-dyst-pia-rave
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2025-09-13
+ -dyst-pia-rave
 URL:https://rave.wien/e/2025-09-13-dyst-pia-rave
 END:VEVENT
 BEGIN:VEVENT
@@ -13971,7 +13972,7 @@ DTSTART;VALUE=DATE:20250920
 DTEND;VALUE=DATE:20250921
 SUMMARY:WRECK x CMDRPX
 LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Veranstalter: WRECK\n\nhttps://rave.wien/e/2025-09-20-wreck-x
+DESCRIPTION:Veranstalter: Wreck\n\nhttps://rave.wien/e/2025-09-20-wreck-x
  -cmdrpx
 URL:https://rave.wien/e/2025-09-20-wreck-x-cmdrpx
 END:VEVENT
@@ -14326,8 +14327,8 @@ DTSTART;VALUE=DATE:20251003
 DTEND;VALUE=DATE:20251004
 SUMMARY:SYNERGY RAVE x Trance + Hard Techno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2025-10-03-
- synergy-rave-x-trance-hard-techno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-10-03-syner
+ gy-rave-x-trance-hard-techno
 URL:https://rave.wien/e/2025-10-03-synergy-rave-x-trance-hard-techno
 END:VEVENT
 BEGIN:VEVENT
@@ -14574,8 +14575,8 @@ DTSTART;VALUE=DATE:20251011
 DTEND;VALUE=DATE:20251012
 SUMMARY:DYSTØPIA RAVE
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/2025-10-1
- 1-dyst-pia-rave
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2025-10-11
+ -dyst-pia-rave
 URL:https://rave.wien/e/2025-10-11-dyst-pia-rave
 END:VEVENT
 BEGIN:VEVENT
@@ -15397,8 +15398,8 @@ DTSTART;VALUE=DATE:20251108
 DTEND;VALUE=DATE:20251109
 SUMMARY:DYSTØPIA RAVE with ORBIT141
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Orbit141\nVeranstalter: Dystøpia Rave\n\nhttps://rave.wien/e
- /2025-11-08-dyst-pia-rave-with-orbit141
+DESCRIPTION:Orbit141\nVeranstalter: Dystopia Rave\n\nhttps://rave.wien/e/
+ 2025-11-08-dyst-pia-rave-with-orbit141
 URL:https://rave.wien/e/2025-11-08-dyst-pia-rave-with-orbit141
 END:VEVENT
 BEGIN:VEVENT
@@ -15556,8 +15557,8 @@ DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251115
 SUMMARY:SYNERGY RAVE x Trance + Hard Techno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2025-11-14-
- synergy-rave-x-trance-hard-techno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-11-14-syner
+ gy-rave-x-trance-hard-techno
 URL:https://rave.wien/e/2025-11-14-synergy-rave-x-trance-hard-techno
 END:VEVENT
 BEGIN:VEVENT
@@ -15796,7 +15797,7 @@ DTSTART;VALUE=DATE:20251122
 DTEND;VALUE=DATE:20251123
 SUMMARY:WRECK
 LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Veranstalter: WRECK\n\nhttps://rave.wien/e/2025-11-22-wreck
+DESCRIPTION:Veranstalter: Wreck\n\nhttps://rave.wien/e/2025-11-22-wreck
 URL:https://rave.wien/e/2025-11-22-wreck
 END:VEVENT
 BEGIN:VEVENT
@@ -16151,8 +16152,8 @@ DTSTART;VALUE=DATE:20251205
 DTEND;VALUE=DATE:20251206
 SUMMARY:SYNERGY RAVE x Trance + Hard Techno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2025-12-05-
- synergy-rave-x-trance-hard-techno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-12-05-syner
+ gy-rave-x-trance-hard-techno
 URL:https://rave.wien/e/2025-12-05-synergy-rave-x-trance-hard-techno
 END:VEVENT
 BEGIN:VEVENT
@@ -16416,8 +16417,8 @@ DTSTART;VALUE=DATE:20251213
 DTEND;VALUE=DATE:20251214
 SUMMARY:DYSTOPIA RAVE with IVVLMTD x MICYVID
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Ivv.lmtd\, Micyvid\nVeranstalter: Dystøpia Rave\n\nhttps://r
- ave.wien/e/2025-12-13-dystopia-rave-with-ivvlmtd-x-micyvid
+DESCRIPTION:Ivv.lmtd\, Micyvid\nVeranstalter: Dystopia Rave\n\nhttps://ra
+ ve.wien/e/2025-12-13-dystopia-rave-with-ivvlmtd-x-micyvid
 URL:https://rave.wien/e/2025-12-13-dystopia-rave-with-ivvlmtd-x-micyvid
 END:VEVENT
 BEGIN:VEVENT
@@ -16686,8 +16687,8 @@ DTEND;VALUE=DATE:20251227
 SUMMARY:Xperiment Nights
 LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
  ien
-DESCRIPTION:Veranstalter: Xperiment\n\nhttps://rave.wien/e/2025-12-26-xpe
- riment-nights
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2025-1
+ 2-26-xperiment-nights
 URL:https://rave.wien/e/2025-12-26-xperiment-nights
 END:VEVENT
 BEGIN:VEVENT
@@ -17122,8 +17123,8 @@ DTSTART;VALUE=DATE:20260110
 DTEND;VALUE=DATE:20260111
 SUMMARY:DYSTØPIA RAVE
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/2026-01-1
- 0-dyst-pia-rave
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2026-01-10
+ -dyst-pia-rave
 URL:https://rave.wien/e/2026-01-10-dyst-pia-rave
 END:VEVENT
 BEGIN:VEVENT
@@ -17453,8 +17454,8 @@ DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260124
 SUMMARY:SYNERGY RAVE x Trance + Hard Techno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2026-01-23-
- synergy-rave-x-trance-hard-techno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2026-01-23-syner
+ gy-rave-x-trance-hard-techno
 URL:https://rave.wien/e/2026-01-23-synergy-rave-x-trance-hard-techno
 END:VEVENT
 BEGIN:VEVENT
@@ -17609,7 +17610,7 @@ DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260131
 SUMMARY:WRECK invites LADAGOJE
 LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Ladagoje\nVeranstalter: WRECK\n\nhttps://rave.wien/e/2026-01-
+DESCRIPTION:Ladagoje\nVeranstalter: Wreck\n\nhttps://rave.wien/e/2026-01-
  30-wreck-invites-ladagoje
 URL:https://rave.wien/e/2026-01-30-wreck-invites-ladagoje
 END:VEVENT
@@ -18791,7 +18792,7 @@ DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260314
 SUMMARY:WRECK invites: PENELOPE
 LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Penelope\nVeranstalter: WRECK\n\nhttps://rave.wien/e/2026-03-
+DESCRIPTION:Penelope\nVeranstalter: Wreck\n\nhttps://rave.wien/e/2026-03-
  13-wreck-invites-penelope
 URL:https://rave.wien/e/2026-03-13-wreck-invites-penelope
 END:VEVENT
@@ -18891,8 +18892,8 @@ DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260315
 SUMMARY:DYSTOPIA RAVE w/ PLEA5UREPUL5E
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Plea5urepul5e\nVeranstalter: Dystøpia Rave\n\nhttps://rave.w
- ien/e/2026-03-14-dystopia-rave-w-plea5urepul5e
+DESCRIPTION:Plea5urepul5e\nVeranstalter: Dystopia Rave\n\nhttps://rave.wi
+ en/e/2026-03-14-dystopia-rave-w-plea5urepul5e
 URL:https://rave.wien/e/2026-03-14-dystopia-rave-w-plea5urepul5e
 END:VEVENT
 BEGIN:VEVENT
@@ -19046,8 +19047,8 @@ DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:SYNERGY RAVE x Trance + Hard Techno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2026-03-20-
- synergy-rave-x-trance-hard-techno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2026-03-20-syner
+ gy-rave-x-trance-hard-techno
 URL:https://rave.wien/e/2026-03-20-synergy-rave-x-trance-hard-techno
 END:VEVENT
 BEGIN:VEVENT
@@ -19729,8 +19730,8 @@ DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260412
 SUMMARY:DYSTØPIA RAVE
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/2026-04-1
- 1-dyst-pia-rave
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2026-04-11
+ -dyst-pia-rave
 URL:https://rave.wien/e/2026-04-11-dyst-pia-rave
 END:VEVENT
 BEGIN:VEVENT
@@ -19905,8 +19906,8 @@ DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
 SUMMARY:SYNERGY RAVE x Trance + Hard Techno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2026-04-17-
- synergy-rave-x-trance-hard-techno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2026-04-17-syner
+ gy-rave-x-trance-hard-techno
 URL:https://rave.wien/e/2026-04-17-synergy-rave-x-trance-hard-techno
 END:VEVENT
 BEGIN:VEVENT
@@ -20756,8 +20757,8 @@ DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:SYNERGY RAVE x Trance + Hard Techno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2026-05-15-
- synergy-rave-x-trance-hard-techno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2026-05-15-syner
+ gy-rave-x-trance-hard-techno
 URL:https://rave.wien/e/2026-05-15-synergy-rave-x-trance-hard-techno
 END:VEVENT
 BEGIN:VEVENT
@@ -20822,8 +20823,8 @@ DTEND;VALUE=DATE:20260517
 SUMMARY:Xperiment Nights
 LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
  ien
-DESCRIPTION:Veranstalter: Xperiment\n\nhttps://rave.wien/e/2026-05-16-xpe
- riment-nights
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2026-0
+ 5-16-xperiment-nights
 URL:https://rave.wien/e/2026-05-16-xperiment-nights
 END:VEVENT
 BEGIN:VEVENT
@@ -20845,8 +20846,8 @@ DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 SUMMARY:DYSTØPIA RAVE
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/2026-05-1
- 6-dyst-pia-rave
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2026-05-16
+ -dyst-pia-rave
 URL:https://rave.wien/e/2026-05-16-dyst-pia-rave
 END:VEVENT
 BEGIN:VEVENT
@@ -20856,7 +20857,7 @@ DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
 SUMMARY:Morgengymnastik w/Wreck
 LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Veranstalter: Morgengymnastik\, WRECK\n\nhttps://rave.wien/e/
+DESCRIPTION:Veranstalter: Morgengymnastik\, Wreck\n\nhttps://rave.wien/e/
  2026-05-17-morgengymnastik-w-wreck
 URL:https://rave.wien/e/2026-05-17-morgengymnastik-w-wreck
 END:VEVENT
@@ -20964,7 +20965,7 @@ DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 SUMMARY:WRECK invites: ANDREA SALVAGGIO
 LOCATION:Tagada\, Brunnengasse 76\, 1160 Wien
-DESCRIPTION:Andrea Salvaggio\nVeranstalter: WRECK\n\nhttps://rave.wien/e/
+DESCRIPTION:Andrea Salvaggio\nVeranstalter: Wreck\n\nhttps://rave.wien/e/
  2026-05-23-wreck-invites-andrea-salvaggio
 URL:https://rave.wien/e/2026-05-23-wreck-invites-andrea-salvaggio
 END:VEVENT
@@ -21206,8 +21207,8 @@ DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
 SUMMARY:DYSTØPIA RAVE with SCHELLT
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Schellt\nVeranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/
- 2026-05-30-dyst-pia-rave-with-schellt
+DESCRIPTION:Schellt\nVeranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2
+ 026-05-30-dyst-pia-rave-with-schellt
 URL:https://rave.wien/e/2026-05-30-dyst-pia-rave-with-schellt
 END:VEVENT
 BEGIN:VEVENT
@@ -21539,8 +21540,8 @@ DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:DYSTØPIA RAVE with MILA
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:MILA\nVeranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/202
- 6-06-12-dyst-pia-rave-with-mila
+DESCRIPTION:MILA\nVeranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2026
+ -06-12-dyst-pia-rave-with-mila
 URL:https://rave.wien/e/2026-06-12-dyst-pia-rave-with-mila
 END:VEVENT
 BEGIN:VEVENT
@@ -22346,8 +22347,8 @@ DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
 SUMMARY:DYSTØPIA RAVE
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/2026-07-1
- 1-dyst-pia-rave
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2026-07-11
+ -dyst-pia-rave
 URL:https://rave.wien/e/2026-07-11-dyst-pia-rave
 END:VEVENT
 BEGIN:VEVENT
@@ -22495,8 +22496,8 @@ DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:SYNERGY RAVE x Trance + Hard Techno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2026-07-17-
- synergy-rave-x-trance-hard-techno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2026-07-17-syner
+ gy-rave-x-trance-hard-techno
 URL:https://rave.wien/e/2026-07-17-synergy-rave-x-trance-hard-techno
 END:VEVENT
 BEGIN:VEVENT
@@ -23088,8 +23089,8 @@ DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
 SUMMARY:SYNERGY RAVE x Trance + Hard Techno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2026-08-15-
- synergy-rave-x-trance-hard-techno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2026-08-15-syner
+ gy-rave-x-trance-hard-techno
 URL:https://rave.wien/e/2026-08-15-synergy-rave-x-trance-hard-techno
 END:VEVENT
 BEGIN:VEVENT
@@ -23243,8 +23244,8 @@ DTEND;VALUE=DATE:20260823
 SUMMARY:Xperiment Nights
 LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
  ien
-DESCRIPTION:Veranstalter: Xperiment\n\nhttps://rave.wien/e/2026-08-22-xpe
- riment-nights
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2026-0
+ 8-22-xperiment-nights
 URL:https://rave.wien/e/2026-08-22-xperiment-nights
 END:VEVENT
 BEGIN:VEVENT
@@ -23842,8 +23843,8 @@ DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:DYSTØPIA RAVE
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/2026-09-1
- 2-dyst-pia-rave
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2026-09-12
+ -dyst-pia-rave
 URL:https://rave.wien/e/2026-09-12-dyst-pia-rave
 END:VEVENT
 BEGIN:VEVENT
@@ -23927,8 +23928,8 @@ DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:SYNERGY RAVE x Trance + Hard Techno – JOR *SPECIAL GUEST*
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:JOR\nVeranstalter: Synergy Rave\n\nhttps://rave.wien/e/2026-0
- 9-18-synergy-rave-x-trance-hard-techno-jor-special-gue
+DESCRIPTION:JOR\nVeranstalter: Synergy\n\nhttps://rave.wien/e/2026-09-18-
+ synergy-rave-x-trance-hard-techno-jor-special-gue
 URL:https://rave.wien/e/2026-09-18-synergy-rave-x-trance-hard-techno-jor-
  special-gue
 END:VEVENT
@@ -24153,7 +24154,7 @@ DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:WRECK invites Ladrillovitz & Cameron
 LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Ladrillovitz\, Cameron\nVeranstalter: WRECK\n\nhttps://rave.w
+DESCRIPTION:Ladrillovitz\, Cameron\nVeranstalter: Wreck\n\nhttps://rave.w
  ien/e/2026-09-26-wreck-invites-ladrillovitz-cameron
 URL:https://rave.wien/e/2026-09-26-wreck-invites-ladrillovitz-cameron
 END:VEVENT
@@ -24176,8 +24177,8 @@ DTEND;VALUE=DATE:20260927
 SUMMARY:Xperiment Nights
 LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
  ien
-DESCRIPTION:Veranstalter: Xperiment\n\nhttps://rave.wien/e/2026-09-26-xpe
- riment-nights
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2026-0
+ 9-26-xperiment-nights
 URL:https://rave.wien/e/2026-09-26-xperiment-nights
 END:VEVENT
 BEGIN:VEVENT
@@ -24496,8 +24497,8 @@ DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:DYSTØPIA RAVE
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/2026-10-1
- 0-dyst-pia-rave
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2026-10-10
+ -dyst-pia-rave
 URL:https://rave.wien/e/2026-10-10-dyst-pia-rave
 END:VEVENT
 BEGIN:VEVENT
@@ -24568,8 +24569,8 @@ DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:SYNERGY RAVE x Trance + Hard Techno
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Synergy Rave\n\nhttps://rave.wien/e/2026-10-16-
- synergy-rave-x-trance-hard-techno
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2026-10-16-syner
+ gy-rave-x-trance-hard-techno
 URL:https://rave.wien/e/2026-10-16-synergy-rave-x-trance-hard-techno
 END:VEVENT
 BEGIN:VEVENT
@@ -24942,18 +24943,18 @@ SUMMARY:Schwerkraft w/ Alex TB\, Prakas\, Osmos
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Alex TB\, Osmos\, Prakas\, Farbod\, Patrick M4SS\, Lenzi\, Ru
  i de Janeiro\, Adam19\, Meril Fox\, Noel\nVeranstalter: Schrödingers Gr
- oove\, FIFI Rave\nEintritt: 12–20 €\n\nSchrödingers Groove lädt zu
-  einer Schranz-Nacht ins Werk. Auf dem Main Floor spielen Alex TB\, Hard
- techno-Veteran und seit 1996 im Underground aktiv\, Prakas als Vertreter
-  der neuen Schranz-Generation mit Releases wie der „Kick Some Ass“-E
- P (Audiocode Records) und „HTHK“ (44) sowie der belgische DJ und Pro
- duzent Osmos\, bekannt für markante Percussion und verzerrte Drums (Rel
- eases auf Audiocode\, Agony\, KKULA\, Merciless)\; dazu Farbod und Patri
- ck M4SS. Den Luster Floor gestaltet FIFI Rave mit einer Groove-Auswahl a
- us rollenden Rhythmen und Basslines (Lenzi\, Rui de Janeiro\, Adam19\, M
- eril Fox\, Noel). Null Toleranz gegenüber Sexismus\, Rassismus und Homo
- phobie. Einlass ab 18 (laut FAQ von Das Werk).\n\nhttps://rave.wien/e/20
- 26-10-30-schwerkraft-w-alex-tb-prakas-osmos
+ oove\, Fifi\nEintritt: 12–20 €\n\nSchrödingers Groove lädt zu eine
+ r Schranz-Nacht ins Werk. Auf dem Main Floor spielen Alex TB\, Hardtechn
+ o-Veteran und seit 1996 im Underground aktiv\, Prakas als Vertreter der 
+ neuen Schranz-Generation mit Releases wie der „Kick Some Ass“-EP (Au
+ diocode Records) und „HTHK“ (44) sowie der belgische DJ und Produzen
+ t Osmos\, bekannt für markante Percussion und verzerrte Drums (Releases
+  auf Audiocode\, Agony\, KKULA\, Merciless)\; dazu Farbod und Patrick M4
+ SS. Den Luster Floor gestaltet FIFI Rave mit einer Groove-Auswahl aus ro
+ llenden Rhythmen und Basslines (Lenzi\, Rui de Janeiro\, Adam19\, Meril 
+ Fox\, Noel). Null Toleranz gegenüber Sexismus\, Rassismus und Homophobi
+ e. Einlass ab 18 (laut FAQ von Das Werk).\n\nhttps://rave.wien/e/2026-10
+ -30-schwerkraft-w-alex-tb-prakas-osmos
 URL:https://rave.wien/e/2026-10-30-schwerkraft-w-alex-tb-prakas-osmos
 END:VEVENT
 BEGIN:VEVENT
@@ -27397,15 +27398,14 @@ DTEND;TZID=Europe/Vienna:20261121T054500
 SUMMARY:Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
 DESCRIPTION:Tonks\, wldfee\, Sauerstøff\, subinstans\, NooK\, mein__dm\,
-  Techmoo\nVeranstalter: Kollektiv Klanggerecht\, Klanggerecht\nEintritt:
-  5 € (nur Abendkasse)\n\nDas Kollektiv Klanggerecht kehrt mit seiner R
- eihe Tanzinstanz in einer „RAW EDITION“ auf das FLUCC Deck zurück. 
- Im Fokus stehen Raw Techno\, Hypnotic und Hard Groove – treibende Beat
- s und dunkle\, hypnotische Grooves bis in die frühen Morgenstunden. Es 
- spielen sieben Acts: Tonks\, wldfee\, Sauerstøff\, subinstans\, NooK\, 
- mein__dm und Techmoo. Eintritt 5 €\, nur an der Abendkasse.\n\nhttps:/
- /rave.wien/e/2026-11-20-kollektiv-klanggerecht-presents-tanzinstanz-raw-
- e
+  Techmoo\nVeranstalter: Klanggerecht\nEintritt: 5 € (nur Abendkasse)\n
+ \nDas Kollektiv Klanggerecht kehrt mit seiner Reihe Tanzinstanz in einer
+  „RAW EDITION“ auf das FLUCC Deck zurück. Im Fokus stehen Raw Techn
+ o\, Hypnotic und Hard Groove – treibende Beats und dunkle\, hypnotisch
+ e Grooves bis in die frühen Morgenstunden. Es spielen sieben Acts: Tonk
+ s\, wldfee\, Sauerstøff\, subinstans\, NooK\, mein__dm und Techmoo. Ein
+ tritt 5 €\, nur an der Abendkasse.\n\nhttps://rave.wien/e/2026-11-20-k
+ ollektiv-klanggerecht-presents-tanzinstanz-raw-e
 URL:https://rave.wien/e/2026-11-20-kollektiv-klanggerecht-presents-tanzin
  stanz-raw-e
 END:VEVENT

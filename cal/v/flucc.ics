@@ -582,8 +582,8 @@ DTSTART;VALUE=DATE:20240816
 DTEND;VALUE=DATE:20240817
 SUMMARY:ROSAROT by Gesindel der Nacht x Pink Mayhem
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Veranstalter: Gesindel der Nacht\, Pink Mayhem\n\nhttps://rav
- e.wien/e/2024-08-16-rosarot-by-gesindel-der-nacht-x-pink-mayhem
+DESCRIPTION:Veranstalter: GDN\, Pink Mayhem\n\nhttps://rave.wien/e/2024-0
+ 8-16-rosarot-by-gesindel-der-nacht-x-pink-mayhem
 URL:https://rave.wien/e/2024-08-16-rosarot-by-gesindel-der-nacht-x-pink-m
  ayhem
 END:VEVENT
@@ -1036,8 +1036,8 @@ DTSTART;VALUE=DATE:20250110
 DTEND;VALUE=DATE:20250111
 SUMMARY:Gesindel der Nacht – 2 floors 4 one price
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Veranstalter: Gesindel der Nacht\n\nhttps://rave.wien/e/2025-
- 01-10-gesindel-der-nacht-2-floors-4-one-price
+DESCRIPTION:Veranstalter: GDN\n\nhttps://rave.wien/e/2025-01-10-gesindel-
+ der-nacht-2-floors-4-one-price
 URL:https://rave.wien/e/2025-01-10-gesindel-der-nacht-2-floors-4-one-price
 END:VEVENT
 BEGIN:VEVENT
@@ -1230,8 +1230,8 @@ DTSTART;VALUE=DATE:20250208
 DTEND;VALUE=DATE:20250209
 SUMMARY:Gesindel der Nacht
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Veranstalter: Gesindel der Nacht\n\nhttps://rave.wien/e/2025-
- 02-08-gesindel-der-nacht
+DESCRIPTION:Veranstalter: GDN\n\nhttps://rave.wien/e/2025-02-08-gesindel-
+ der-nacht
 URL:https://rave.wien/e/2025-02-08-gesindel-der-nacht
 END:VEVENT
 BEGIN:VEVENT
@@ -3009,8 +3009,8 @@ DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
 SUMMARY:DYSTØPIA RAVE with SCHELLT
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Schellt\nVeranstalter: Dystøpia Rave\n\nhttps://rave.wien/e/
- 2026-05-30-dyst-pia-rave-with-schellt
+DESCRIPTION:Schellt\nVeranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2
+ 026-05-30-dyst-pia-rave-with-schellt
 URL:https://rave.wien/e/2026-05-30-dyst-pia-rave-with-schellt
 END:VEVENT
 BEGIN:VEVENT
@@ -3866,15 +3866,14 @@ DTEND;TZID=Europe/Vienna:20261121T054500
 SUMMARY:Kollektiv Klanggerecht presents: Tanzinstanz – RAW EDITION
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
 DESCRIPTION:Tonks\, wldfee\, Sauerstøff\, subinstans\, NooK\, mein__dm\,
-  Techmoo\nVeranstalter: Kollektiv Klanggerecht\, Klanggerecht\nEintritt:
-  5 € (nur Abendkasse)\n\nDas Kollektiv Klanggerecht kehrt mit seiner R
- eihe Tanzinstanz in einer „RAW EDITION“ auf das FLUCC Deck zurück. 
- Im Fokus stehen Raw Techno\, Hypnotic und Hard Groove – treibende Beat
- s und dunkle\, hypnotische Grooves bis in die frühen Morgenstunden. Es 
- spielen sieben Acts: Tonks\, wldfee\, Sauerstøff\, subinstans\, NooK\, 
- mein__dm und Techmoo. Eintritt 5 €\, nur an der Abendkasse.\n\nhttps:/
- /rave.wien/e/2026-11-20-kollektiv-klanggerecht-presents-tanzinstanz-raw-
- e
+  Techmoo\nVeranstalter: Klanggerecht\nEintritt: 5 € (nur Abendkasse)\n
+ \nDas Kollektiv Klanggerecht kehrt mit seiner Reihe Tanzinstanz in einer
+  „RAW EDITION“ auf das FLUCC Deck zurück. Im Fokus stehen Raw Techn
+ o\, Hypnotic und Hard Groove – treibende Beats und dunkle\, hypnotisch
+ e Grooves bis in die frühen Morgenstunden. Es spielen sieben Acts: Tonk
+ s\, wldfee\, Sauerstøff\, subinstans\, NooK\, mein__dm und Techmoo. Ein
+ tritt 5 €\, nur an der Abendkasse.\n\nhttps://rave.wien/e/2026-11-20-k
+ ollektiv-klanggerecht-presents-tanzinstanz-raw-e
 URL:https://rave.wien/e/2026-11-20-kollektiv-klanggerecht-presents-tanzin
  stanz-raw-e
 END:VEVENT

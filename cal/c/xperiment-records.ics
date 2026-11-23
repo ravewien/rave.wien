@@ -43,4 +43,112 @@ DESCRIPTION:Leen Tilt\, MORASS\, DYMINIX\, DJ Ecoton\nVeranstalter: Xperi
  nights
 URL:https://rave.wien/e/2026-11-28-xperiment-nights
 END:VEVENT
+BEGIN:VEVENT
+UID:2024-07-26-xperiment-records-night@rave.wien
+DTSTAMP:20240726T000000Z
+DTSTART;VALUE=DATE:20240726
+DTEND;VALUE=DATE:20240727
+SUMMARY:Xperiment Records Night
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2024-0
+ 7-26-xperiment-records-night
+URL:https://rave.wien/e/2024-07-26-xperiment-records-night
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-07-xperiment-nights@rave.wien
+DTSTAMP:20250307T000000Z
+DTSTART;VALUE=DATE:20250307
+DTEND;VALUE=DATE:20250308
+SUMMARY:Xperiment Nights
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2025-0
+ 3-07-xperiment-nights
+URL:https://rave.wien/e/2025-03-07-xperiment-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-18-xperiment-nights@rave.wien
+DTSTAMP:20250418T000000Z
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250419
+SUMMARY:Xperiment Nights
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2025-0
+ 4-18-xperiment-nights
+URL:https://rave.wien/e/2025-04-18-xperiment-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-16-xperiment-nights@rave.wien
+DTSTAMP:20250816T000000Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+SUMMARY:Xperiment Nights
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2025-0
+ 8-16-xperiment-nights
+URL:https://rave.wien/e/2025-08-16-xperiment-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-05-xperiment-nights@rave.wien
+DTSTAMP:20250905T000000Z
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250906
+SUMMARY:Xperiment Nights
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2025-0
+ 9-05-xperiment-nights
+URL:https://rave.wien/e/2025-09-05-xperiment-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-26-xperiment-nights@rave.wien
+DTSTAMP:20251226T000000Z
+DTSTART;VALUE=DATE:20251226
+DTEND;VALUE=DATE:20251227
+SUMMARY:Xperiment Nights
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2025-1
+ 2-26-xperiment-nights
+URL:https://rave.wien/e/2025-12-26-xperiment-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-16-xperiment-nights@rave.wien
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Xperiment Nights
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2026-0
+ 5-16-xperiment-nights
+URL:https://rave.wien/e/2026-05-16-xperiment-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-22-xperiment-nights@rave.wien
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:Xperiment Nights
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2026-0
+ 8-22-xperiment-nights
+URL:https://rave.wien/e/2026-08-22-xperiment-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-26-xperiment-nights@rave.wien
+DTSTAMP:20260926T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Xperiment Nights
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:Veranstalter: Xperiment Records\n\nhttps://rave.wien/e/2026-0
+ 9-26-xperiment-nights
+URL:https://rave.wien/e/2026-09-26-xperiment-nights
+END:VEVENT
 END:VCALENDAR

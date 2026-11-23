@@ -26,6 +26,251 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-07-05-synergy-rave-trance-hardtechno-on-2-floors@rave.wien
+DTSTAMP:20240705T000000Z
+DTSTART;VALUE=DATE:20240705
+DTEND;VALUE=DATE:20240706
+SUMMARY:SYNERGY RAVE (TRANCE + HARDTECHNO) on 2 Floors
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2024-07-05-syner
+ gy-rave-trance-hardtechno-on-2-floors
+URL:https://rave.wien/e/2024-07-05-synergy-rave-trance-hardtechno-on-2-fl
+ oors
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-02-synergy-rave-x-trance-hardtechno@rave.wien
+DTSTAMP:20240802T000000Z
+DTSTART;VALUE=DATE:20240802
+DTEND;VALUE=DATE:20240803
+SUMMARY:SYNERGY RAVE x TRANCE + HARDTECHNO
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2024-08-02-syner
+ gy-rave-x-trance-hardtechno
+URL:https://rave.wien/e/2024-08-02-synergy-rave-x-trance-hardtechno
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-23-synergy-rave-x-trance-hardtechno@rave.wien
+DTSTAMP:20241123T000000Z
+DTSTART;VALUE=DATE:20241123
+DTEND;VALUE=DATE:20241124
+SUMMARY:SYNERGY RAVE x TRANCE + HARDTECHNO
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2024-11-23-syner
+ gy-rave-x-trance-hardtechno
+URL:https://rave.wien/e/2024-11-23-synergy-rave-x-trance-hardtechno
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-03-synergy-rave-x-trance-hardtechno@rave.wien
+DTSTAMP:20250103T000000Z
+DTSTART;VALUE=DATE:20250103
+DTEND;VALUE=DATE:20250104
+SUMMARY:SYNERGY RAVE x Trance + Hardtechno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-01-03-syner
+ gy-rave-x-trance-hardtechno
+URL:https://rave.wien/e/2025-01-03-synergy-rave-x-trance-hardtechno
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-02-08-synergy-rave-x-trance-hardtechno@rave.wien
+DTSTAMP:20250208T000000Z
+DTSTART;VALUE=DATE:20250208
+DTEND;VALUE=DATE:20250209
+SUMMARY:SYNERGY RAVE x Trance + Hardtechno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-02-08-syner
+ gy-rave-x-trance-hardtechno
+URL:https://rave.wien/e/2025-02-08-synergy-rave-x-trance-hardtechno
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-03-07-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20250307T000000Z
+DTSTART;VALUE=DATE:20250307
+DTEND;VALUE=DATE:20250308
+SUMMARY:SYNERGY RAVE x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-03-07-syner
+ gy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2025-03-07-synergy-rave-x-trance-hard-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-04-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20250404T000000Z
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250405
+SUMMARY:SYNERGY RAVE x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-04-04-syner
+ gy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2025-04-04-synergy-rave-x-trance-hard-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-05-02-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20250502T000000Z
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250503
+SUMMARY:SYNERGY RAVE x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-05-02-syner
+ gy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2025-05-02-synergy-rave-x-trance-hard-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-06-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20250606T000000Z
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250607
+SUMMARY:SYNERGY RAVE x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-06-06-syner
+ gy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2025-06-06-synergy-rave-x-trance-hard-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-01-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:SYNERGY RAVE x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-08-01-syner
+ gy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2025-08-01-synergy-rave-x-trance-hard-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-05-synergy-rave-x-trance-hard-techno-hektisch-2nd-bi@rave.wien
+DTSTAMP:20250905T000000Z
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250906
+SUMMARY:SYNERGY RAVE x Trance + Hard Techno: Hektisch 2nd Birthday Special
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-09-05-syner
+ gy-rave-x-trance-hard-techno-hektisch-2nd-bi
+URL:https://rave.wien/e/2025-09-05-synergy-rave-x-trance-hard-techno-hekt
+ isch-2nd-bi
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-03-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20251003T000000Z
+DTSTART;VALUE=DATE:20251003
+DTEND;VALUE=DATE:20251004
+SUMMARY:SYNERGY RAVE x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-10-03-syner
+ gy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2025-10-03-synergy-rave-x-trance-hard-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-14-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20251114T000000Z
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251115
+SUMMARY:SYNERGY RAVE x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-11-14-syner
+ gy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2025-11-14-synergy-rave-x-trance-hard-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-05-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20251205T000000Z
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251206
+SUMMARY:SYNERGY RAVE x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2025-12-05-syner
+ gy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2025-12-05-synergy-rave-x-trance-hard-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-23-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20260123T000000Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:SYNERGY RAVE x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2026-01-23-syner
+ gy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2026-01-23-synergy-rave-x-trance-hard-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-20-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20260320T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:SYNERGY RAVE x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2026-03-20-syner
+ gy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2026-03-20-synergy-rave-x-trance-hard-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-17-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20260417T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:SYNERGY RAVE x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2026-04-17-syner
+ gy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2026-04-17-synergy-rave-x-trance-hard-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-15-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20260515T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:SYNERGY RAVE x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2026-05-15-syner
+ gy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2026-05-15-synergy-rave-x-trance-hard-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-17-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20260717T000000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:SYNERGY RAVE x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2026-07-17-syner
+ gy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2026-07-17-synergy-rave-x-trance-hard-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-15-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20260815T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:SYNERGY RAVE x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2026-08-15-syner
+ gy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2026-08-15-synergy-rave-x-trance-hard-techno
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-synergy-rave-x-trance-hard-techno-jor-special-gue@rave.wien
+DTSTAMP:20260918T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:SYNERGY RAVE x Trance + Hard Techno – JOR *SPECIAL GUEST*
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:JOR\nVeranstalter: Synergy\n\nhttps://rave.wien/e/2026-09-18-
+ synergy-rave-x-trance-hard-techno-jor-special-gue
+URL:https://rave.wien/e/2026-09-18-synergy-rave-x-trance-hard-techno-jor-
+ special-gue
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-synergy-rave-x-trance-hard-techno@rave.wien
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:SYNERGY RAVE x Trance + Hard Techno
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nhttps://rave.wien/e/2026-10-16-syner
+ gy-rave-x-trance-hard-techno
+URL:https://rave.wien/e/2026-10-16-synergy-rave-x-trance-hard-techno
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-20-synergy-rave-x-trance-hard-techno@rave.wien
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=Europe/Vienna:20261120T230000

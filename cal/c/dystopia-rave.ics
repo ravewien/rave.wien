@@ -26,6 +26,248 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2024-01-20-dystopia-rave-on-2-floors@rave.wien
+DTSTAMP:20240120T000000Z
+DTSTART;VALUE=DATE:20240120
+DTEND;VALUE=DATE:20240121
+SUMMARY:DYSTOPIA RAVE on 2 FLOORS
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2024-01-20
+ -dystopia-rave-on-2-floors
+URL:https://rave.wien/e/2024-01-20-dystopia-rave-on-2-floors
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-04-20-dystopia-rave@rave.wien
+DTSTAMP:20240420T000000Z
+DTSTART;VALUE=DATE:20240420
+DTEND;VALUE=DATE:20240421
+SUMMARY:DYSTOPIA RAVE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2024-04-20
+ -dystopia-rave
+URL:https://rave.wien/e/2024-04-20-dystopia-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-08-31-dyst-pia-rave-on-3-floors@rave.wien
+DTSTAMP:20240831T000000Z
+DTSTART;VALUE=DATE:20240831
+DTEND;VALUE=DATE:20240901
+SUMMARY:DYSTØPIA RAVE [on 3 floors]
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2024-08-31
+ -dyst-pia-rave-on-3-floors
+URL:https://rave.wien/e/2024-08-31-dyst-pia-rave-on-3-floors
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-09-28-dyst-pia-rave@rave.wien
+DTSTAMP:20240928T000000Z
+DTSTART;VALUE=DATE:20240928
+DTEND;VALUE=DATE:20240929
+SUMMARY:DYSTØPIA RAVE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2024-09-28
+ -dyst-pia-rave
+URL:https://rave.wien/e/2024-09-28-dyst-pia-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-11-30-dyst-pia-rave@rave.wien
+DTSTAMP:20241130T000000Z
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241201
+SUMMARY:DYSTØPIA RAVE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2024-11-30
+ -dyst-pia-rave
+URL:https://rave.wien/e/2024-11-30-dyst-pia-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2024-12-20-dystopia@rave.wien
+DTSTAMP:20241220T000000Z
+DTSTART;VALUE=DATE:20241220
+DTEND;VALUE=DATE:20241221
+SUMMARY:Dystopia
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2024-12-20
+ -dystopia
+URL:https://rave.wien/e/2024-12-20-dystopia
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-01-11-dystopia-rave@rave.wien
+DTSTAMP:20250111T000000Z
+DTSTART;VALUE=DATE:20250111
+DTEND;VALUE=DATE:20250112
+SUMMARY:DYSTOPIA RAVE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2025-01-11
+ -dystopia-rave
+URL:https://rave.wien/e/2025-01-11-dystopia-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-04-12-dyst-pia-rave@rave.wien
+DTSTAMP:20250412T000000Z
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250413
+SUMMARY:DYSTØPIA RAVE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2025-04-12
+ -dyst-pia-rave
+URL:https://rave.wien/e/2025-04-12-dyst-pia-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-06-13-dyst-pia-rave@rave.wien
+DTSTAMP:20250613T000000Z
+DTSTART;VALUE=DATE:20250613
+DTEND;VALUE=DATE:20250614
+SUMMARY:DYSTØPIA RAVE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2025-06-13
+ -dyst-pia-rave
+URL:https://rave.wien/e/2025-06-13-dyst-pia-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-09-13-dyst-pia-rave@rave.wien
+DTSTAMP:20250913T000000Z
+DTSTART;VALUE=DATE:20250913
+DTEND;VALUE=DATE:20250914
+SUMMARY:DYSTØPIA RAVE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2025-09-13
+ -dyst-pia-rave
+URL:https://rave.wien/e/2025-09-13-dyst-pia-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-10-11-dyst-pia-rave@rave.wien
+DTSTAMP:20251011T000000Z
+DTSTART;VALUE=DATE:20251011
+DTEND;VALUE=DATE:20251012
+SUMMARY:DYSTØPIA RAVE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2025-10-11
+ -dyst-pia-rave
+URL:https://rave.wien/e/2025-10-11-dyst-pia-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-11-08-dyst-pia-rave-with-orbit141@rave.wien
+DTSTAMP:20251108T000000Z
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
+SUMMARY:DYSTØPIA RAVE with ORBIT141
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Orbit141\nVeranstalter: Dystopia Rave\n\nhttps://rave.wien/e/
+ 2025-11-08-dyst-pia-rave-with-orbit141
+URL:https://rave.wien/e/2025-11-08-dyst-pia-rave-with-orbit141
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-12-13-dystopia-rave-with-ivvlmtd-x-micyvid@rave.wien
+DTSTAMP:20251213T000000Z
+DTSTART;VALUE=DATE:20251213
+DTEND;VALUE=DATE:20251214
+SUMMARY:DYSTOPIA RAVE with IVVLMTD x MICYVID
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Ivv.lmtd\, Micyvid\nVeranstalter: Dystopia Rave\n\nhttps://ra
+ ve.wien/e/2025-12-13-dystopia-rave-with-ivvlmtd-x-micyvid
+URL:https://rave.wien/e/2025-12-13-dystopia-rave-with-ivvlmtd-x-micyvid
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-01-10-dyst-pia-rave@rave.wien
+DTSTAMP:20260110T000000Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:DYSTØPIA RAVE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2026-01-10
+ -dyst-pia-rave
+URL:https://rave.wien/e/2026-01-10-dyst-pia-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-14-dystopia-rave-w-plea5urepul5e@rave.wien
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:DYSTOPIA RAVE w/ PLEA5UREPUL5E
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Plea5urepul5e\nVeranstalter: Dystopia Rave\n\nhttps://rave.wi
+ en/e/2026-03-14-dystopia-rave-w-plea5urepul5e
+URL:https://rave.wien/e/2026-03-14-dystopia-rave-w-plea5urepul5e
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-11-dyst-pia-rave@rave.wien
+DTSTAMP:20260411T000000Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:DYSTØPIA RAVE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2026-04-11
+ -dyst-pia-rave
+URL:https://rave.wien/e/2026-04-11-dyst-pia-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-16-dyst-pia-rave@rave.wien
+DTSTAMP:20260516T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:DYSTØPIA RAVE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2026-05-16
+ -dyst-pia-rave
+URL:https://rave.wien/e/2026-05-16-dyst-pia-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-30-dyst-pia-rave-with-schellt@rave.wien
+DTSTAMP:20260530T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:DYSTØPIA RAVE with SCHELLT
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Schellt\nVeranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2
+ 026-05-30-dyst-pia-rave-with-schellt
+URL:https://rave.wien/e/2026-05-30-dyst-pia-rave-with-schellt
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-12-dyst-pia-rave-with-mila@rave.wien
+DTSTAMP:20260612T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:DYSTØPIA RAVE with MILA
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:MILA\nVeranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2026
+ -06-12-dyst-pia-rave-with-mila
+URL:https://rave.wien/e/2026-06-12-dyst-pia-rave-with-mila
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-11-dyst-pia-rave@rave.wien
+DTSTAMP:20260711T000000Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:DYSTØPIA RAVE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2026-07-11
+ -dyst-pia-rave
+URL:https://rave.wien/e/2026-07-11-dyst-pia-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-12-dyst-pia-rave@rave.wien
+DTSTAMP:20260912T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:DYSTØPIA RAVE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2026-09-12
+ -dyst-pia-rave
+URL:https://rave.wien/e/2026-09-12-dyst-pia-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-10-dyst-pia-rave@rave.wien
+DTSTAMP:20261010T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:DYSTØPIA RAVE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nhttps://rave.wien/e/2026-10-10
+ -dyst-pia-rave
+URL:https://rave.wien/e/2026-10-10-dyst-pia-rave
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-13-dyst-pia-rave-with-schellt@rave.wien
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Vienna:20261113T230000
