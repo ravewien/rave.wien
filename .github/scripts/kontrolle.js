@@ -157,5 +157,5 @@ if (warn.length) {
 } else if (behoben.length) {
   console.log(`MELDUNG 🔧 rave.wien (${kurz}): ${behoben.join("; ")} – selbst behoben.` + (info.length ? " " + info.join(" ") : ""));
 } else {
-  console.log(`MELDUNG ✅ Läufe in Ordnung (${kurz}): ${neue.length} neue Berichte, ${evWarn.length ? "" : " Statistik stabil."}` + (info.length ? " " + info.join(" ") : ""));
+  console.log(`MELDUNG ✅ Läufe in Ordnung (${kurz}): ${neue.length} neue Berichte.` + (evWarn.length ? "" : " Statistik stabil.") + (info.length ? " " + info.join(" ") : ""));
 }

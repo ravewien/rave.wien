@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-cPsEHkId4YtSvlj3JCKH+tEce/eahBtF8ahvNkV8TTw='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-SKseyjPJUwbx7eva59uEbQUjygtgu1+8F6ion76/cMo='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -1543,6 +1543,7 @@ const vgroup=v=>(VINFO[v]&&VINFO[v].group)||v;
 const PART=(()=>{const m={};PASTR.forEach(p=>p.a.forEach(a=>{(m[a]=m[a]||[]).push(p)}));return m})();
 const RESID=(()=>{const m={};Object.entries(VINFO).forEach(([v,i])=>(i.residents||[]).forEach(a=>{const c=canon(a);if(!(m[c]||[]).some(x=>vgroup(x)===vgroup(v)))(m[c]=m[c]||[]).push(v)}));return m})();
 const ALLART=()=>[...new Set([...UNI.a,...EV.flatMap(e=>e.artists),...Object.keys(PART),...Object.keys(RESID)])];
+(()=>{const m=new Map();UNI.c.forEach(n=>{const k=ckey(n),o=m.get(k);if(!o||(!CINFO[o]&&CINFO[n]))m.set(k,n)});Object.keys(CINFO).forEach(n=>{const k=ckey(n);if(m.has(k))m.set(k,n)});UNI.c=[...m.values()]})();
 (()=>{const cnt={};PASTR.forEach(p=>p.c.forEach(c=>cnt[c]=(cnt[c]||0)+1));Object.entries(cnt).filter(([,n])=>n>=3).forEach(([c])=>{if(!UNI.c.some(x=>sameColl(x,c)))UNI.c.push(c)})})();
 Object.values(VINFO).forEach(i=>(i.residents||[]).forEach(a=>{const c=canon(a);if(!UNI.a.includes(c))UNI.a.push(c)}));
 if(V.Pratersauna&&!UNI.v.includes("Pratersauna"))UNI.v.push("Pratersauna");
