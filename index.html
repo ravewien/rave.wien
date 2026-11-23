@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-TtyUK72A2PXC6cb82IFUtu6XLePFIE/ubACyH+ejYAY='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-Y1D063ya4IrThurVBMA+awwF3vKmCyG/kKIoJmrnl2M='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -1678,18 +1678,20 @@ const WXI={sun:'<circle cx="8" cy="8" r="3"/><path d="M8 1.5v1.6M8 12.9v1.6M1.5 
  fog:'<path d="M2.5 6h11M3.5 9h9M2.5 12h11"/>',
  rain:'<path d="M4.4 9.5h7.4a2.6 2.6 0 0 0 .3-5.2 3.4 3.4 0 0 0-6.5.9 2.2 2.2 0 0 0-1.2 4.3z"/><path d="M5.5 11.5l-.8 2M8.3 11.5l-.8 2M11.1 11.5l-.8 2"/>',
  snow:'<path d="M4.4 9h7.4a2.6 2.6 0 0 0 .3-5.2 3.4 3.4 0 0 0-6.5.9 2.2 2.2 0 0 0-1.2 4.3z"/><path d="M5.5 11.6v.1M8 13v.1M10.5 11.6v.1M6.8 14.6v.1M9.3 14.6v.1"/>',
+ wind:'<path d="M2 6h7.5a2 2 0 1 0-2-2"/><path d="M2 9h10.5a2 2 0 1 1-2 2"/><path d="M2 12h5"/>',
  storm:'<path d="M4.4 9h7.4a2.6 2.6 0 0 0 .3-5.2 3.4 3.4 0 0 0-6.5.9 2.2 2.2 0 0 0-1.2 4.3z"/><path d="M8.6 9.6 6.9 12.3h2.2l-1.6 2.6"/>'};
-const WXN={de:{sun:"Sonnig",moon:"Klar",part:"Teils bewölkt",cloud:"Bewölkt",fog:"Nebel",rain:"Regen",snow:"Schnee",storm:"Gewitter",at:"Wetter um",rain2:"Regenwahrscheinlichkeit",src:"Vorhersage: Open-Meteo"},
- en:{sun:"Sunny",moon:"Clear",part:"Partly cloudy",cloud:"Cloudy",fog:"Fog",rain:"Rain",snow:"Snow",storm:"Thunderstorm",at:"Weather at",rain2:"chance of rain",src:"Forecast: Open-Meteo"}};
+const WXN={de:{sun:"Sonnig",moon:"Klar",part:"Teils bewölkt",cloud:"Bewölkt",fog:"Nebel",rain:"Regen",snow:"Schnee",storm:"Gewitter",wind:"Stürmisch",gust:"Böen bis",at:"Wetter um",rain2:"Regenwahrscheinlichkeit",src:"Vorhersage: Open-Meteo"},
+ en:{sun:"Sunny",moon:"Clear",part:"Partly cloudy",cloud:"Cloudy",fog:"Fog",rain:"Rain",snow:"Snow",storm:"Thunderstorm",wind:"Stormy",gust:"gusts up to",at:"Weather at",rain2:"chance of rain",src:"Forecast: Open-Meteo"}};
 function wxOf(e){const W=window.WX;if(!W||!W.t0||!W.v||!e||!(e.ioK||[]).includes("ioOut"))return null;const v=W.v[e.venue];if(!v)return null;
   const s=/^\d\d:\d\d$/.test(e.s||"")?e.s:"20:00";const t=new Date(e.d+"T"+s+":00Z")-new Date(W.t0+":00Z");const i=Math.round(t/36e5);
   if(!(i>=0&&i<v.T.length)||v.T[i]==null)return null;if(t>7.5*864e5+new Date(TODAY+"T00:00:00Z")-new Date(W.t0+":00Z"))return null;
   const c=v.C[i],h=+s.slice(0,2),night=h>=18||h<7;
-  const k=c===0||c===1?(night?"moon":"sun"):c===2?"part":c===3?"cloud":c===45||c===48?"fog":(c>=71&&c<=77)||c===85||c===86?"snow":c>=95?"storm":c>=51?"rain":"cloud";
-  return {k,T:v.T[i],P:v.P?v.P[i]:null,s}}
+  const g=v.G?v.G[i]:null,ws=v.W?v.W[i]:null,windy=(g!=null&&g>=55)||(ws!=null&&ws>=35);
+  const k=c>=95?"storm":windy?"wind":c===0||c===1?(night?"moon":"sun"):c===2?"part":c===3?"cloud":c===45||c===48?"fog":(c>=71&&c<=77)||c===85||c===86?"snow":c>=95?"storm":c>=51?"rain":"cloud";
+  return {k,T:v.T[i],P:v.P?v.P[i]:null,G:g,s}}
 function wxHTML(e,big){const w=wxOf(e);if(!w)return "";const n=WXN[st.lang]||WXN.de;
-  const tip=`${n.at} ${w.s}: ${n[w.k]}, ${w.T} °C${w.P!=null&&w.P>=20?` · ${w.P} % ${n.rain2}`:""} · ${n.src}`;
-  return `<span class="wx${big?" big":""}" title="${esc(tip)}"><svg viewBox="0 0 16 16" aria-hidden="true">${WXI[w.k]}</svg><b>${w.T}°</b>${big?`<small>${esc(n[w.k])}${w.P!=null&&w.P>=30?` · ${w.P}%`:""}</small>`:""}</span>`}
+  const tip=`${n.at} ${w.s}: ${n[w.k]}, ${w.T} °C${w.P!=null&&w.P>=20?` · ${w.P} % ${n.rain2}`:""}${w.G!=null&&w.G>=40?` · ${n.gust} ${w.G} km/h`:""} · ${n.src}`;
+  return `<span class="wx${big?" big":""}" title="${esc(tip)}"><svg viewBox="0 0 16 16" aria-hidden="true">${WXI[w.k]}</svg><b>${w.T}°</b>${big?`<small>${esc(n[w.k])}${w.k==="wind"&&w.G?` · ${w.G} km/h`:w.P!=null&&w.P>=30?` · ${w.P}%`:""}</small>`:""}</span>`}
 function rowHTML(e){
   const why=st.fav?(FAV.e.includes(e.id)?[]:favReason(e)):[];
   const tk=timeK(e);

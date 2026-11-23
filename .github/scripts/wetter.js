@@ -14,11 +14,11 @@ const venues=[...new Set((c.RAW||[]).filter(e=>e.d>=from&&e.d<=to&&e.venue&&GEO[
   const out={gen:new Date().toISOString(),t0:null,v:{}};
   for(let i=0;i<venues.length;i+=40){const part=venues.slice(i,i+40);
     const u="https://api.open-meteo.com/v1/forecast?latitude="+part.map(v=>GEO[v][0]).join(",")+"&longitude="+part.map(v=>GEO[v][1]).join(",")+
-      "&hourly=temperature_2m,weather_code,precipitation_probability&timezone=Europe%2FVienna&forecast_days=9";
+      "&hourly=temperature_2m,weather_code,precipitation_probability,wind_speed_10m,wind_gusts_10m&timezone=Europe%2FVienna&forecast_days=9";
     const r=await fetch(u);if(!r.ok)throw new Error("Open-Meteo "+r.status+" "+await r.text());
     let j=await r.json();if(!Array.isArray(j))j=[j];
     j.forEach((x,k)=>{const h=x.hourly;out.t0=out.t0||h.time[0];
-      out.v[part[k]]={T:h.temperature_2m.map(t=>t==null?null:Math.round(t)),C:h.weather_code,P:h.precipitation_probability}})}
+      out.v[part[k]]={T:h.temperature_2m.map(t=>t==null?null:Math.round(t)),C:h.weather_code,P:h.precipitation_probability,W:h.wind_speed_10m.map(x=>x==null?null:Math.round(x)),G:h.wind_gusts_10m.map(x=>x==null?null:Math.round(x))}})}
   fs.writeFileSync(path.join(R,"wetter.js"),"// Automatisch erzeugt (.github/scripts/wetter.js, Wetterdaten: Open-Meteo.com, CC BY 4.0) – nicht bearbeiten.\nwindow.WX="+JSON.stringify(out)+";\n");
   console.log(venues.length+" Locations, Vorhersage ab "+out.t0);
 })().catch(e=>{console.error(e);process.exit(1)});
