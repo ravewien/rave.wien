@@ -2902,7 +2902,6 @@ const CI={
   ],
   "from": "Wien",
   "ig": "https://www.instagram.com/cyclic_existence",
-  "noLogo": "2026-11-15",
   "logo": "https://i1.sndcdn.com/avatars-NWM8W0Ztc4wLy4Jv-i5CZVw-t500x500.jpg",
   "logoBg": "#ffffff",
   "sc": "https://soundcloud.com/cyclicexistence?ref=clipboard&p=i&c=0&si=FD0ECAA9167D4ACB8E8DBCBECAB6C823",
