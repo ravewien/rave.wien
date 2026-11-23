@@ -34,6 +34,7 @@ const LOGOBOX={
 "https://images.squarespace-cdn.com/content/v1/6847ea8642e80a7c5234842b/3f2e1a87-f2d6-48f5-ae0a-3fe153e5b704/Radio+Rudina+Logo+wei%C3%9F+og1.png?format=1500w":[791,200,2,34,789,167,"#000000"],
 "https://letitroll.eu/wp-content/uploads/2026/09/lir27_logo-hybrid-768x213.png":[768,213,7,16,762,201,"#000000"],
 "https://loop.co.at/wp-content/uploads/2022/02/copy-loop-logo_white.jpg":[200,231,5,6,195,226,"#000000"],
+"https://media.kupfservices.com/a4b50fc5-8156-4a56-a00c-a90b1d4c5ea4-1600.jpeg":[1600,1600,0,0,1600,1600,"#000000"],
 "https://mindentertainment.org/files/bilder/MindER_Logo.png":[500,500,3,5,496,495,"#000000"],
 "https://o-klub.at/wp-content/uploads/2022/09/Logo_w.svg":[673,767,9,10,664,757,"#000000"],
 "https://ponyhof-official.at/wp-content/uploads/2021/06/cropped-ponyhof_sticker_Black_rainbow-II-270x270.png":[270,270,49,52,220,223,"#ffffff"],
