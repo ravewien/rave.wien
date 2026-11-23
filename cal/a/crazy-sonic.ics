@@ -47,6 +47,28 @@ DESCRIPTION:DJ Karotte\, Crazy Sonic\, Joro & Joabo\nEintritt: 18 €\n\n
 URL:https://rave.wien/e/2026-12-05-karotte-im-wohnzimmer
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-11-zuckerwatt-w-ellen-allien@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T230000
+DTEND;TZID=Europe/Vienna:20261212T060000
+SUMMARY:Zuckerwatt w/ Ellen Allien
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: Ellen Allien\, Fabian Hofer\, Crazy Sonic\nKitchen
+  (hosted by Purradox): Purrdition\, Ree:Raw\, Saint A\nVeranstalter: Zuc
+ kerwatt\nEintritt: VVK 22 € (Final Phase)\n\nDie Reihe Zuckerwatt holt
+  Ellen Allien (BPitch\, Berlin) in die Grelle Forelle. Die Location besc
+ hreibt sie als eine der prägendsten Künstlerinnen ihrer Generation\, d
+ ie den Kern des Techno verkörpert\, als DJ in großen Clubs und auf Fes
+ tivals weltweit gespielt hat und einen umfangreichen Katalog aus Soloalb
+ en\, Singles\, EPs und Remixen vorweisen kann. Am Mainfloor spielen auß
+ erdem Fabian Hofer und Crazy Sonic\; die Kitchen wird von Purradox gehos
+ tet\, mit Purrdition\, Ree:Raw und Saint A. Einlass und Abendkassa ab 23
+ :00\, Vorverkauf über ticket.io (aktuell Final Phase um 22 €\, die g
+ ünstigeren Phasen sind ausverkauft).\n\nhttps://rave.wien/e/2026-12-11-
+ zuckerwatt-w-ellen-allien
+URL:https://rave.wien/e/2026-12-11-zuckerwatt-w-ellen-allien
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-06-20-techno-am-wasser-x-flashback-free-open-air-specia@rave.wien
 DTSTAMP:20260620T000000Z
 DTSTART;TZID=Europe/Vienna:20260620T160000
