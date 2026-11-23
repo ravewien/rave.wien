@@ -1633,7 +1633,8 @@ const CI={
   "alias": [
    "RAM"
   ],
-  "ig": "https://www.instagram.com/fifi__rave/"
+  "ig": "https://www.instagram.com/rave_am_mittwoch/",
+  "man": 1
  },
  "Euphoria": {
   "founded": "2022",
