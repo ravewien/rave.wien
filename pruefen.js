@@ -81,5 +81,26 @@ window.PRUEF=[
     "Mood Shifter"
    ]
   ]
+ },
+ {
+  "id": "ort-ven-multiversum-schwechat-rules-access",
+  "ts": "2026-11-23",
+  "lauf": "sonderlauf-vl-o06",
+  "typ": "ort",
+  "titel": "Multiversum Schwechat – rollstuhlgerecht?",
+  "text": "Hirespace beschreibt das Multiversum als rollstuhlgerecht (wheelchair accessible), die Angabe wirkt aber automatisch erzeugt; die eigene Website sagt dazu nichts.",
+  "links": [
+   "https://hirespace.com/Venues/Rest-Of-Austria/104329/Multiversum-Schwechat"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "ven",
+   "op": "edit",
+   "key": "Multiversum Schwechat",
+   "title": "Multiversum Schwechat",
+   "data": {
+    "rules.access": true
+   }
+  }
  }
 ];
