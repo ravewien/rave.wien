@@ -9,6 +9,7 @@
 //  - Bestehende Einträge mit man:1: nur LEERE Felder ergänzen, nie Werte ändern.
 //  - Vorhandenes img / logo nie ändern.
 //  - Alle anderen Felder: setzen (Objekte wie links/bio/from werden feldweise zusammengeführt).
+//  - null als Wert entfernt ein Feld (z. B. "links": {"web": null}); bei man:1 nie.
 //  - alias und src: Listen werden vereinigt (keine Dubletten).
 //  - Ein neuer Name, der bereits alias eines Eintrags ist, wird auf diesen Eintrag umgeleitet.
 //  - "S": {kürzel: "Quellenname"} – neue Quellen-Kürzel (nur neue, bestehende bleiben); "SO": ["kürzel"] – Kürzel, die eigene Seiten von Veranstaltern sind.
@@ -41,6 +42,7 @@ function resolve(obj, name) {
 function mergeEntry(cur, add, man, top) {
   for (const [f, v] of Object.entries(add)) {
     if (v === undefined) continue;
+    if (v === null) { if (!man && f in cur) { delete cur[f]; changed++; } continue; }   // null = Feld entfernen (nie bei man:1)
     if (top && (f === "img" || f === "logo") && !isEmpty(cur[f])) continue;
     if (f === "alias" && Array.isArray(v)) {
       const have = new Set((cur.alias || []).map(key)); const out = (cur.alias || []).slice();

@@ -38,3 +38,5 @@ Parallel laufen bis zu zehn solcher Läufe. Damit sich niemand gegenseitig über
 
 ## Abschluss-Nachricht (Deutsch, kurz)
 Liste <id>; ob die Pushes geklappt haben (sonst genaue Meldung); Seitenabrufe; bearbeitet / neu angelegt / jetzt mit Bild / Links / Bio / Herkunft / Sets; ohne Treffer (Anzahl, Namen nur wenn ≤ 15); „kein Artist“-Namen; unsichere Fälle, die bewusst NICHT übernommen wurden (Name + Grund); falls nicht fertig: ab welchem Namen offen.
+
+- LINKTREE-SAMMLUNG: Findest du für einen Artist oder Veranstalter eine Linktree-Adresse (linktr.ee/…, z. B. in der Instagram-Bio, auf RA oder der Website), trag sie IMMER im versteckten Feld `lt` ein (AR[Name].lt bzw. CI[Name].lt, nur die Adresse). Linktree NIE als Website (`web`, `links.web`) eintragen – `lt` erscheint nicht auf der Seite, ist aber eine Quelle für spätere Recherchen: Steht bei einem Eintrag schon `lt`, lies zuerst diese Seite (über die Abruf-Kopien), bevor du neu suchst. Bei Veranstaltern holt der tägliche Abruf die `lt`-Seiten automatisch.
