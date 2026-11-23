@@ -167,5 +167,30 @@ window.PRUEF=[
    "key": "2026-11-28-nine-circles",
    "title": "Nine Circles"
   }
+ },
+ {
+  "id": "genre-ev-2026-12-18-x-rave-by-verum-gaudium-w-julia-prunk-genres",
+  "ts": "2026-11-23",
+  "lauf": "sonderlauf-events-e19",
+  "typ": "genre",
+  "titel": "X-RAVE by Verum Gaudium (18.12.) – Genres fehlen",
+  "text": "Weder findxrave.at noch verumgaudium.at nennen Genres; Verum Gaudium beschreibt sich nur als Crew, die „Melodien und Musik liebt“. Vermutung: melodischer Techno/House – bitte bestätigen oder korrigieren.",
+  "links": [
+   "https://www.findxrave.at/",
+   "https://verumgaudium.at/"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "ev",
+   "op": "edit",
+   "key": "2026-12-18-x-rave-by-verum-gaudium-w-julia-prunk",
+   "title": "X-RAVE by Verum Gaudium w/ Julia Prunk",
+   "data": {
+    "genres": [
+     "Melodic Techno",
+     "Melodic House"
+    ]
+   }
+  }
  }
 ];
