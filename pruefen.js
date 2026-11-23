@@ -18,7 +18,8 @@ window.PRUEF=[
    "data": {
     "links.sp": "https://open.spotify.com/artist/0uMYB7w6oXQDdyVKNoxtQD"
    }
-  }
+  },
+  "karten": []
  },
  {
   "id": "spotify-art-chewlie-links-sp",
@@ -38,7 +39,8 @@ window.PRUEF=[
    "data": {
     "links.sp": "https://open.spotify.com/artist/7ApFADmZVN6OAe5DuYe7GS"
    }
-  }
+  },
+  "karten": []
  },
  {
   "id": "spotify-art-artemuse-links-sp",
@@ -58,7 +60,8 @@ window.PRUEF=[
    "data": {
     "links.sp": "https://open.spotify.com/artist/35oQiaKtYT1o2VP1uVfdUE"
    }
-  }
+  },
+  "karten": []
  },
  {
   "id": "spotify-art-stonerice-links-sp",
@@ -78,7 +81,8 @@ window.PRUEF=[
    "data": {
     "links.sp": "https://open.spotify.com/artist/3vHcrenbxMVBWv3II4kprh"
    }
-  }
+  },
+  "karten": []
  },
  {
   "id": "spotify-art-cray-c-links-sp",
@@ -98,7 +102,8 @@ window.PRUEF=[
    "data": {
     "links.sp": "https://open.spotify.com/artist/08fYg6DKDtJiKGFzP3zshv"
    }
-  }
+  },
+  "karten": []
  },
  {
   "id": "lineup-ev-2026-12-04-let-it-roll-on-tour-vienna-floors",
@@ -129,7 +134,8 @@ window.PRUEF=[
      }
     ]
    }
-  }
+  },
+  "karten": []
  },
  {
   "id": "loeschen-art-cpe-crew-friends-del",
@@ -144,7 +150,13 @@ window.PRUEF=[
    "op": "delete",
    "key": "CPE Crew & Friends",
    "title": "CPE Crew & Friends"
-  }
+  },
+  "karten": [
+   [
+    "ev",
+    "2026-11-27-20-jahre-cpe"
+   ]
+  ]
  },
  {
   "id": "loeschen-art-tribal-vibes-del",
@@ -159,7 +171,13 @@ window.PRUEF=[
    "op": "delete",
    "key": "Tribal Vibes",
    "title": "Tribal Vibes"
-  }
+  },
+  "karten": [
+   [
+    "ev",
+    "2026-12-05-tribal-vibes-meets-exil"
+   ]
+  ]
  },
  {
   "id": "loeschen-art-contrast-residents-del",
@@ -174,7 +192,13 @@ window.PRUEF=[
    "op": "delete",
    "key": "Contrast Residents",
    "title": "Contrast Residents"
-  }
+  },
+  "karten": [
+   [
+    "ev",
+    "2026-12-12-contrast-pres-dance-macabre-w-simula-enei-skantia"
+   ]
+  ]
  },
  {
   "id": "doppelt-dr-schick-dr-schick-moodshifter-mood-shifter",
@@ -183,7 +207,17 @@ window.PRUEF=[
   "typ": "doppelt",
   "titel": "dr.schick = Dr. Schick, Moodshifter = Mood Shifter?",
   "text": "Die Läufe behandeln die Schreibweisen im Lineup (25.11. bzw. 7.12.) als dieselben Artists wie die bestehenden Profile. Falls es doch andere Personen sind, bitte melden – sonst einfach „Erledigt“.",
-  "links": []
+  "links": [],
+  "karten": [
+   [
+    "art",
+    "Dr. Schick"
+   ],
+   [
+    "art",
+    "Mood Shifter"
+   ]
+  ]
  },
  {
   "id": "spotify-art-madcore-links-sp",
@@ -203,6 +237,7 @@ window.PRUEF=[
    "data": {
     "links.sp": "https://open.spotify.com/artist/1271NVXrouqOPPxx8K5TUP"
    }
-  }
+  },
+  "karten": []
  }
 ];
