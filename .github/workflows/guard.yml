@@ -26,11 +26,12 @@ jobs:
           bad=""
           node --check events.js || bad="events.js ist kein gültiges JavaScript"
           node --check past.js || bad="${bad:+$bad; }past.js ist kein gültiges JavaScript"
-          if grep -qiE '"[[:space:]]*(javascript|vbscript|data):' events.js past.js; then bad="${bad:+$bad; }unsichere Links in den Daten"; fi
+          [ -f pruefen.js ] && { node --check pruefen.js || bad="${bad:+$bad; }pruefen.js ist kein gültiges JavaScript"; }
+          if grep -qiE '"[[:space:]]*(javascript|vbscript|data):' events.js past.js $( [ -f pruefen.js ] && echo pruefen.js ); then bad="${bad:+$bad; }unsichere Links in den Daten"; fi
           if [ -z "$bad" ]; then node .github/scripts/validate.js || bad="Daten-Prüfung fehlgeschlagen (HTML, unsichere Links oder kaputtes Datum/Uhrzeit in den Daten – Details im Protokoll)"; fi
           msg=$(git log -1 --pretty=%s)
           if echo "$msg" | grep -qE '^(Daten-Update|Wochenend-Check)'; then
-            other=$(git diff --name-only HEAD~1 HEAD | grep -vE '^(events|past)\.js$' || true)
+            other=$(git diff --name-only HEAD~1 HEAD | grep -vE '^(events|past|pruefen)\.js$' || true)
             [ -n "$other" ] && bad="${bad:+$bad; }Daten-Commit ändert andere Dateien: $other"
           fi
           echo "bad=$bad" >> "$GITHUB_OUTPUT"
