@@ -1776,9 +1776,11 @@ const CI={
   "from": "Wien",
   "web": "https://basstrace.com",
   "sc": "https://soundcloud.com/basstrace",
-  "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/basstrace/"
+  "ig": "https://www.instagram.com/basstrace/",
+  "logo": "https://ugc.production.linktr.ee/5gV8zWFMS7m9pDHeZALq_FrPg6e5rH085pT60?io=true&size=avatar-v3_0",
+  "logoBg": "#ffffff",
+  "man": 1
  },
  "Misguided": {
   "founded": "2024",
