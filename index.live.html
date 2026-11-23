@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-eoUaz6h0nGaUi4TtfCqlo+5fX9b/Q1vbWmJuktAragg='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-xN28ISa6lXvwr7Lxt2iYtkI69ARIsDjn+7BsQkJv1Pk=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-uGm3t8HbEB3BYgnEpo/Ko7cqX3S/h/+lZAQTjH0HkmQ='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -1522,7 +1522,7 @@ const PASTR=(()=>{const seen=new Set(ALL.map(e=>e.id));
 const PBYID=Object.fromEntries(PASTR.map(p=>[p.id,p]));
 const PASTFILT=["g","f","src","age","price","time","io"];
 function pastMatches(p){
-  if(PASTFILT.some(k=>st[k].size))return false;
+  if(PASTFILT.some(k=>fkPos(k)))return false;
   if(st.fav&&!pastFavReason(p).length)return false;
   const vs=[p.v,...Object.keys(V).filter(x=>vgroup(x)===p.v)];
   if(st.v.size&&!vs.some(x=>st.v.has(x)))return false;if(vs.some(x=>st.x.v.has(x)))return false;
@@ -1538,6 +1538,11 @@ const ALLART=()=>[...new Set([...UNI.a,...EV.flatMap(e=>e.artists),...Object.key
 Object.values(VINFO).forEach(i=>(i.residents||[]).forEach(a=>{const c=canon(a);if(!UNI.a.includes(c))UNI.a.push(c)}));
 if(V.Pratersauna&&!UNI.v.includes("Pratersauna"))UNI.v.push("Pratersauna");
 const collOf=n=>{const a=ARK[akey(n)]||{};return [...new Set([...(a.coll||[]),...Object.keys(CINFO).filter(k=>(CINFO[k].members||[]).map(canon).includes(n))])].filter(k=>!((CINFO[k]||{}).exMembers||[]).map(canon).includes(n))};
+// Welche Vibe-Tags in den Übersichten Artists/Veranstalter/Locations sinnvoll filtern (Liste, Kalender: immer alle)
+const FLAGVIEW={access:["loc"],aw:["col","loc"],nophoto:["col","loc"],opendecks:["col","loc"],lgbtq:["art","col","loc"],sexpos:["art","col","loc"]};
+const fkOn=k=>k==="f"?[...st.f,...st.x.f].some(x=>flagOn(x)):!!(st[k].size||st.x[k].size);
+const fkPos=k=>k==="f"?[...st.f].some(x=>flagOn(x)):!!st[k].size;
+const flagOn=k=>!["art","col","loc"].includes(st.view)||(FLAGVIEW[k]||["art","col","loc"]).includes(st.view);
 function matches(e,skip){
   if(skip!=="d"&&st.dFrom&&(e.d<st.dFrom||e.d>st.dTo))return false;
   if(st.fav&&!FAV.e.includes(e.id)&&!favReason(e).length)return false;
@@ -1545,7 +1550,7 @@ function matches(e,skip){
   for(const k in LV){if(skip===k)continue;const vals=LV[k];
     if(st[k].size&&!vals.some(x=>st[k].has(x)))return false;
     if(st.x[k].size&&vals.some(x=>st.x[k].has(x)))return false}
-  if(skip!=="f"){for(const k of st.f)if(!e[k])return false;for(const k of st.x.f)if(e[k])return false}
+  if(skip!=="f"){for(const k of st.f)if(flagOn(k)&&!e[k])return false;for(const k of st.x.f)if(flagOn(k)&&e[k])return false}
   for(const [k,fn] of EXTRA){if(skip===k)continue;const v=[].concat(fn(e));if(st[k].size&&!v.some(x=>st[k].has(x)))return false;if(v.some(x=>st.x[k].has(x)))return false}
   if(st.q){const h=norm([e.title,qName("v",e.venue),...e.genres,...e.coll.map(x=>qName("c",x)),...e.artists.map(x=>qName("a",x))].join(" "));if(!norm(st.q).split(" ").every(w=>h.includes(w)))return false}
   return true;
@@ -1571,8 +1576,8 @@ function renderSide(){
   const sideSc=mqMob.matches?$("sidein"):$("side"),sideTop=sideSc.scrollTop,winY=window.scrollY;
   const ae=document.activeElement,fk=ae&&ae.closest&&ae.closest("#trees")?(ae.dataset.flag?`[data-flag="${ae.dataset.flag}"]`:ae.dataset.k?`.opt[data-k="${ae.dataset.k}"][data-n="${CSS.escape(ae.dataset.n)}"]`:null):null;
   const base=EV.filter(e=>matches(e,"f"));
-  const prof=`<details class="tree" data-k="f" ${open.f!==false?"open":""}><summary><span>${l.profile}</span><em>${FLAGS.length}</em></summary><div class="opts">${
-    FLAGS.map(([k,c,lab,,ic])=>`<button class="opt ${fcls("f",k)}" data-flag="${k}" ${fattr("f",k)}><span class="ico ${c}" style="flex:none">${ic}</span><span>${l[lab]}</span><em>${base.filter(e=>e[k]&&[...st.f].every(x=>e[x])&&![...st.x.f].some(x=>e[x])).length}</em></button>`).join("")}</div></details>`;
+  const prof=`<details class="tree" data-k="f" ${open.f!==false?"open":""}><summary><span>${l.profile}</span><em>${FLAGS.filter(([k])=>flagOn(k)).length}</em></summary><div class="opts">${
+    FLAGS.filter(([k])=>flagOn(k)).map(([k,c,lab,,ic])=>`<button class="opt ${fcls("f",k)}" data-flag="${k}" ${fattr("f",k)}><span class="ico ${c}" style="flex:none">${ic}</span><span>${l[lab]}</span><em>${base.filter(e=>e[k]&&[...st.f].every(x=>!flagOn(x)||e[x])&&![...st.x.f].some(x=>flagOn(x)&&e[x])).length}</em></button>`).join("")}</div></details>`;
   const groups=[["g",l.genres,e=>e.genres],["v",l.venues,e=>[e.venue]],["c",l.colls,e=>e.coll],["a",l.artists,e=>e.artists]];
   const X={f:prof};
   EXTRA.forEach(([k,fn,vals])=>{const b=EV.filter(e=>matches(e,k));const lab={src:l.fsrc,age:l.fage,price:l.fprice,time:l.ftime,io:l.fio}[k];
@@ -1704,7 +1709,7 @@ document.addEventListener("error",ev=>{const t=ev.target;if(t&&t.tagName==="IMG"
 let PTOT=0;
 function topH(){return (parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--top2"))||56)+8}
 /* Filtern die gesetzten Filter alles weg, blinken die Filter-Tags über der Liste kurz und bleiben umrandet */
-const anyFilter=()=>dOn()||!!st.q.trim()||FK.some(k=>st[k].size||st.x[k].size);
+const anyFilter=()=>dOn()||!!st.q.trim()||FK.some(k=>fkOn(k));
 function emptyHTML(msg){return `<div class="empty-state${anyFilter()?" fe":""}">${msg}${anyFilter()?`<div><button type="button" class="ereset" data-freset>${L().reset}</button></div>`:""}</div>`}
 function flagEmpty(){const a=$("activef");a.classList.toggle("nomatch",!!a.children.length&&!!document.querySelector("#out .empty-state.fe"))}
 function renderList(){renderList0();flagEmpty()}
@@ -1834,7 +1839,7 @@ function collInfo(){
 function artistsFrom(ev){
   const m=new Map();
   ev.forEach(e=>e.artists.forEach(n=>{if(!m.has(n))m.set(n,[]);m.get(n).push(e)}));
-  const onlyLV=!dOn()&&FK.every(k=>["g","a","c"].includes(k)||(!st[k].size&&!st.x[k].size));
+  const onlyLV=!dOn()&&FK.every(k=>["g","a","c"].includes(k)||!fkOn(k));
   if(dOn()){const q=st.q;st.q="";PASTR.forEach(p=>{if(inRange(p.d)&&pastMatches(p))p.a.forEach(n=>{if(!m.has(n))m.set(n,[])})});st.q=q}
   if(onlyLV)UNI.a.forEach(n=>{if(m.has(n))return;const a=ARK[akey(n)]||{};
     if(st.a.size&&!st.a.has(n))return;if(st.x.a.has(n))return;
@@ -2165,7 +2170,7 @@ function locRows(){
   const ioK=v=>{const k=ioOf((VINFO[v]||{}).io);return k.length?k:["unk"]};
   if(st.io.size)vs=vs.filter(v=>ioK(v).some(k=>st.io.has(k)));if(st.x.io.size)vs=vs.filter(v=>!ioK(v).some(k=>st.x.io.has(k)));
   const sio=st.io,sxio=st.x.io;st.io=new Set();st.x.io=new Set();
-  const fa=dOn()||FK.some(k=>k!=="v"&&(st[k].size||st.x[k].size));const pIn=l=>dOn()&&l.some(p=>inRange(p.d)&&pastMatches(p));
+  const fa=dOn()||FK.some(k=>k!=="v"&&fkOn(k));const pIn=l=>dOn()&&l.some(p=>inRange(p.d)&&pastMatches(p));
   // Ausblenden: 13 Monate (oder nie) ohne Events und nichts Kommendes – auch mit Bild (eventuell geschlossen). Suche findet sie weiter.
   const tidy=!q&&!st.fav&&!st.v.size&&!dOn(),M13=monthsAgo(13);let hid=0;
   const rows=xorder(vs.map(v=>{const s=venueStats(v);const up=s.up.filter(e=>matches(e,"v"));return {n:v,up,all:s.up,past:s.past,nx:up[0],n1:up.length,n2:s.past.length}}).filter(r=>!fa||r.up.length||pIn(r.past))
@@ -2231,7 +2236,7 @@ function renderColls(){
   const l=L();const q=fold(st.q.trim());
   const all=[...UNI.c];EV.forEach(e=>e.coll.forEach(c=>{if(!all.some(x=>sameColl(x,c)))all.push(c)}));
   let cs=all;if(st.fav)cs=cs.filter(c=>FAV.c.some(x=>sameColl(x,c)));if(q)cs=cs.filter(c=>fold(qName("c",c)).includes(q));
-  const fa=dOn()||FK.some(k=>k!=="c"&&(st[k].size||st.x[k].size));const pIn=l=>dOn()&&l.some(p=>inRange(p.d)&&pastMatches(p));if(st.c.size)cs=cs.filter(c=>[...st.c].some(x=>sameColl(x,c)));cs=cs.filter(c=>![...st.x.c].some(x=>sameColl(x,c)));
+  const fa=dOn()||FK.some(k=>k!=="c"&&fkOn(k));const pIn=l=>dOn()&&l.some(p=>inRange(p.d)&&pastMatches(p));if(st.c.size)cs=cs.filter(c=>[...st.c].some(x=>sameColl(x,c)));cs=cs.filter(c=>![...st.x.c].some(x=>sameColl(x,c)));
   let hid=0;const tidy=!q&&!st.fav&&!st.c.size&&!dOn();
   const rows=xorder(cs.map(c=>{const up=EV.filter(e=>e.coll.some(x=>sameColl(x,c))&&matches(e,"c"));const past=PASTR.filter(p=>p.c.some(x=>sameColl(x,c)));return {n:c,c,up,past,mem:collMembers(c).length,nx:up[0],n1:up.length,n2:past.length}}).filter(r=>!fa||r.up.length||pIn(r.past))
     .filter(r=>{if(!tidy||r.up.length||st.coll===r.c||isFav("c",r.c)||EV.some(e=>e.coll.some(x=>sameColl(x,r.c))))return true;if(oldHide(r.past,!!(CINFO[r.c]||{}).logo)){hid++;return false}return true}));
