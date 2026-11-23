@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-q8Ty9DJgCJz7Os6R9BN/RTfMaE2//c2Tz9zru8Qf6J8='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-cPsEHkId4YtSvlj3JCKH+tEce/eahBtF8ahvNkV8TTw='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -2069,8 +2069,9 @@ function namesHTML(arr,max,P){const l=L();max=max||12;P=P!==0;const b=a=>{const 
 function factsHTML(rows){rows=rows.filter(r=>r[1]&&r[1].length);return rows.length?`<div class="facts">${rows.map(([k,v])=>`<span>${esc(k)}</span><div>${v.map(esc).join(" · ")}</div>`).join("")}</div>`:""}
 function srcHTML(list){const l=L();list=(list||[]).filter((u,i,A)=>A.findIndex(v=>v.split("/")[2]===u.split("/")[2])===i);return list.length?`<div class="src">${l.source}: ${list.map(u=>`<a href="${esc(su(u))}" target="_blank" rel="noopener">${esc(u.replace(/^https?:\/\/(www\.|m\.)?/,"").split("/")[0])}</a>`).join(" · ")}</div>`:""}
 const ISP='<svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.5" fill="none" stroke="currentColor" stroke-width="1.4"/><path fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" d="M4.6 6.3c2.3-.7 4.8-.5 6.9.6M5 8.5c1.9-.5 3.8-.3 5.5.5M5.4 10.6c1.5-.3 2.9-.2 4.2.4"/></svg>';
-const LICON={sp:ISP,sc:ISC,mc:'<b class="txt">MC</b>',bc:IBC,ig:IIG,ra:'<b class="txt">RA</b>',web:IWEB,tix:'<b class="txt">€</b>'};
-const LNAME={sp:"Spotify",sc:"SoundCloud",mc:"Mixcloud",bc:"Bandcamp",ig:"Instagram",ra:"Resident Advisor",web:"Website",tix:"Tickets"};
+const ILT='<svg viewBox="0 0 16 16" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><path d="M8 15V6M8 9.5 4 6.5M8 9.5l4-3M8 6 5.5 3.5M8 6l2.5-2.5M8 6V1.5"/></g><circle cx="4" cy="6.5" r="1.1" fill="currentColor"/><circle cx="12" cy="6.5" r="1.1" fill="currentColor"/><circle cx="5.5" cy="3.5" r="1.1" fill="currentColor"/><circle cx="10.5" cy="3.5" r="1.1" fill="currentColor"/><circle cx="8" cy="1.6" r="1.1" fill="currentColor"/></svg>';
+const LICON={lt:ILT,sp:ISP,sc:ISC,mc:'<b class="txt">MC</b>',bc:IBC,ig:IIG,ra:'<b class="txt">RA</b>',web:IWEB,tix:'<b class="txt">€</b>'};
+const LNAME={lt:"Linktree",sp:"Spotify",sc:"SoundCloud",mc:"Mixcloud",bc:"Bandcamp",ig:"Instagram",ra:"Resident Advisor",web:"Website",tix:"Tickets"};
 function subBox(shu){const m=String(shu||"").match(/rave\.wien\/(a|c|v)\/([^/?#]+)$/);if(!m)return "";const l=L(),p=`rave.wien/cal/${m[1]}/${m[2]}.ics`;
   return `<div class="calbox" hidden><span class="calhint">${esc(l.subHint)}</span><a href="webcal://${p}" data-abo="${m[1]}">Apple / iPhone</a><a href="${esc(su("https://calendar.google.com/calendar/r?cid="+encodeURIComponent("webcal://"+p)))}" target="_blank" rel="noopener" data-abo="${m[1]}">Google ${l.calW} ↗</a><a href="${esc(su("https://outlook.live.com/calendar/0/addfromweb?url="+encodeURIComponent("https://"+p)))}" target="_blank" rel="noopener" data-abo="${m[1]}">Outlook ↗</a><button type="button" data-subcopy="https://${p}">${esc(l.subCopy)}</button></div>`}
 function barHTML(links,report,primary,shu){const sb=subBox(shu);return `${shu?`<div class="sharebox" hidden><input class="shareurl" readonly value="${esc(shu)}" aria-label="Link"><span class="sharemsg"></span></div>`:""}<div class="cbar">${sb}${shu?`<button class="ibtn" data-share="" data-su="${esc(shu)}" title="${L().share}" aria-label="${L().share}">${ISHARE}</button>`:""}${sb?`<button class="ibtn" data-ics="sub" title="${L().subCal}" aria-label="${L().subCal}">${ICAL}</button>`:""}${links.map(([k,u])=>`<a class="ibtn" href="${esc(su(u))}" target="_blank" rel="noopener" title="${LNAME[k]}" aria-label="${LNAME[k]}">${LICON[k]}</a>`).join("")}<a class="ibtn" href="${report}" title="${L().report}" aria-label="${L().report}">${IFLAG}</a><span style="flex:1"></span>${primary?`<a class="tixbtn" href="${esc(su(primary[1]))}" target="_blank" rel="noopener">${esc(primary[0])} ↗</a>`:""}</div>`}
@@ -2088,7 +2089,7 @@ function renderColl(cd,n){
   const guests=[...new Set([...evs.flatMap(e=>e.artists),...pastC.flatMap(p=>p.a)])].filter(a=>!mem.includes(a));
   const vc={};[...evs.map(e=>e.venue),...pastC.map(p=>p.v)].forEach(v=>{const k=Object.keys(V).includes(v)?v:(Object.keys(V).find(x=>vgroup(x)===v)||v);vc[k]=(vc[k]||0)+1});
   const topV=Object.entries(vc).filter(([v])=>!["Wien","TBA","Secret Location"].includes(v)).sort((a,b)=>b[1]-a[1]).slice(0,4).map(x=>x[0]);
-  const links=["web","ig","sc","bc","tix"].filter(k=>c[k]&&k!=="web").map(k=>[k,c[k]]);
+  const links=["web","ig","sc","bc","tix"].filter(k=>c[k]&&k!=="web").map(k=>[k,c[k]]);if(!c.web&&c.lt)links.unshift(["lt",c.lt]);
   const prim=c.web?[l.webS,c.web]:c.tix?[l.ticketsS,c.tix]:null;
   cd.innerHTML=`${ctopHTML(l.colKind,favBtn("c",n))}
   <div class="ehead"><div class="emain">
@@ -2122,7 +2123,7 @@ function renderArtist(ad,name){
   else if(sets.length)listen=sets.map(s=>`<a class="set" href="${esc(su(s.u))}" target="_blank" rel="noopener"><b>▶</b>${esc(s.t||(/mixcloud/.test(s.u)?l.latestMC:l.latestSC))}</a>`).join("");
   else if(lk.sc||lk.mc||lk.sp)listen=[["sc",l.latestSC],["mc",l.latestMC],["sp",l.latestSP]].filter(([k])=>lk[k]).map(([k,t])=>`<a class="set" href="${esc(su(lk[k]))}" target="_blank" rel="noopener"><b>▶</b>${esc(t)} ↗</a>`).join("");
   const q=encodeURIComponent(name);
-  const links=["sc","mc","sp","bc","ig","ra","web"].filter(k=>lk[k]).map(k=>[k,lk[k]]);
+  const links=["sc","mc","sp","bc","ig","ra","web"].filter(k=>lk[k]).map(k=>[k,lk[k]]);if(!lk.web&&a&&a.lt)links.push(["lt",a.lt]);
   const pu=(sets[0]&&sets[0].u)||lk.sc||lk.mc||lk.sp||lk.bc;const prim=pu?[l.listenS,pu]:null;
   const past=PART[name]||[];const co=collOf(name);const res=RESID[name]||[];
   ad.innerHTML=`${ctopHTML(l.artist,favBtn("a",name))}
