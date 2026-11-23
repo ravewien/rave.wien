@@ -3112,7 +3112,9 @@ const CI={
    "https://de.ra.co/events/2234422"
   ],
   "infoChk": "2026-11-15",
-  "sc": "https://soundcloud.com/luvaffair_vienna"
+  "sc": "https://soundcloud.com/luvaffair_vienna",
+  "logo": "https://media.kupfservices.com/a4b50fc5-8156-4a56-a00c-a90b1d4c5ea4-1600.jpeg",
+  "man": 1
  },
  "Café Mondo": {
   "de": "Wiener Partyreihe, die laut Selbstbeschreibung einen Raum für Disco, Afro, Latin „und alles dazwischen“ öffnet und Gast-DJs einlädt; Abende u. a. im Tagada Club, im Funkhaus und im Espresso Burggasse, dazu die Radioshow „Lusophonica“.",
