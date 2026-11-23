@@ -54,6 +54,7 @@ jobs:
           mkdir -p "$RUNNER_TEMP/br"
           node .github/scripts/abruf-krypt.js zu "$RUNNER_TEMP/abruf.tgz" .github/abruf/abruf-public.pem "$RUNNER_TEMP/br/abruf.enc"
           cp "$RUNNER_TEMP/abruf/status.json" "$RUNNER_TEMP/br/status.json"
+          [ -f "$RUNNER_TEMP/abruf/adressen.json" ] && mv "$RUNNER_TEMP/abruf/adressen.json" "$RUNNER_TEMP/br/adressen.json" || true
           cd "$RUNNER_TEMP/br"
           git init -q -b "$b"
           git config user.name "rave.wien Abrufdienst"

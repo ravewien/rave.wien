@@ -13,6 +13,14 @@ Läuft auf dem Raspberry Pi alle 10 Minuten (cron). Zugangsdaten stehen nur loka
   python3 rave_insta.py mailtest  # schickt eine Testmail (wenn Infomails eingerichtet sind)
   python3 rave_insta.py passwort  # neues Instagram-Passwort eintragen und neu anmelden
   python3 rave_insta.py update    # sofort nach einer neuen Programmversion suchen
+  python3 rave_insta.py abruf     # Event-Quellen jetzt abrufen (läuft sonst täglich ab ca. 05:25 von selbst)
+  python3 rave_insta.py schluessel  # zeigt den Schlüssel, den du einmalig bei GitHub hinterlegst
+
+Abruf (Hauptsuche): Täglich ab ca. 05:25 holt der Pi alle Quellseiten (Clubprogramme, Portale, Eventseiten, Veranstalter-Websites)
+von deinem Heimanschluss aus – Seiten, die GitHub/Claude oft gesperrt bekommen. Schutzseiten (Captcha, Cloudflare) werden NICHT umgangen,
+ra.co wird nicht abgerufen. Dazu lädt er ohne Anmeldung (ohne Cookies, NICHT mit dem rave.wien-Konto) ein paar Instagram-Profilbilder
+von Veranstaltern ohne Bild herunter (höchstens 30 am Tag, mit Pausen). Das Ergebnis geht verschlüsselt in den GitHub-Branch „abruf-pi“.
+Dafür braucht der Pi einmalig einen Schreib-Schlüssel bei GitHub (Deploy key) – siehe „schluessel“.
 
 Story: Tagesposts gehen am Vortag um ca. 16 Uhr raus, ihre Story kurz nach Mitternacht am Veranstaltungstag (zufällig 00:02–00:20),
 damit die Story am Tag des Programms läuft; Zwischenposts 10–45 Minuten nach dem Post. Geteilt wird bei Tagesposts mit allen
@@ -26,11 +34,11 @@ die vorige Version bleibt als rave_insta.bak.py daneben liegen.
 Infomails (optional, in ~/.rave-insta/config): MAIL_TO, SMTP_USER, SMTP_TOKEN, ggf. SMTP_HOST/SMTP_PORT
 (Standard: Proton, smtp.protonmail.ch:587 mit STARTTLS; der Token wird in Proton unter SMTP-Einstellungen erzeugt).
 """
-import json, os, sys, time, random, logging, urllib.request, hashlib, subprocess
+import json, os, sys, time, random, logging, urllib.request, urllib.error, hashlib, subprocess, re
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-21.1"
+VERSION = "2026-11-23.1"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -456,10 +464,197 @@ def due_posts(queue, state, now):
         out.append(p)
     return out
 
+
+# ---------------------------------------------------------------- Abruf (Hauptsuche vom Heimanschluss aus)
+RAW = "https://raw.githubusercontent.com/ravewien/rave.wien/"
+GIT_ZIEL = "git@github.com:ravewien/rave.wien.git"
+DEPLOY_KEY = HOME / "github_key"
+ABRUF_AB = (5, 25)                 # Wiener Zeit
+ABRUF_BIS = 12                     # danach heute nicht mehr anfangen
+ABRUF_LOCK = HOME / "abruf.lock"
+IG_PRO_TAG = 30
+IG_PAUSE_S = (25, 60)
+UA_WEB = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+SCHUTZ = re.compile(r"just a moment|cf-chl|captcha|one moment, please|attention required", re.I)
+
+def wien_jetzt():
+    try:
+        from zoneinfo import ZoneInfo
+        return datetime.now(ZoneInfo("Europe/Vienna"))
+    except Exception:
+        return datetime.now()
+
+def schluessel_anlegen():
+    if not DEPLOY_KEY.exists():
+        subprocess.run(["ssh-keygen", "-q", "-t", "ed25519", "-N", "", "-C", "rave.wien-pi", "-f", str(DEPLOY_KEY)], check=True)
+        DEPLOY_KEY.chmod(0o600)
+    return Path(str(DEPLOY_KEY) + ".pub").read_text().strip()
+
+def schluessel_text(pub):
+    return ("Damit der Pi seine Abrufe bei GitHub ablegen kann, braucht er einmalig einen Schreib-Schlüssel:\n\n"
+            "1. https://github.com/ravewien/rave.wien/settings/keys/new öffnen\n"
+            "2. Title: rave.wien Pi\n"
+            "3. Key: diese Zeile komplett einfügen:\n\n" + pub + "\n\n"
+            "4. Haken bei „Allow write access“ setzen → Add key.\n\n"
+            "Der private Teil bleibt nur auf dem Pi (" + str(DEPLOY_KEY) + ").")
+
+def abruf_starten(state, now):
+    """Im normalen Lauf: Abruf einmal täglich im Hintergrund starten (blockiert das Posten nicht)."""
+    w = wien_jetzt(); heute = w.strftime("%Y-%m-%d")
+    if state.get("abruf_tag") == heute or (w.hour, w.minute) < ABRUF_AB or w.hour >= ABRUF_BIS:
+        return
+    state["abruf_tag"] = heute; save_state(state)
+    subprocess.Popen([sys.executable, str(SELF), "abruf"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+                     stdin=subprocess.DEVNULL, start_new_session=True)
+    say("Abruf im Hintergrund gestartet")
+
+def _hole(url, timeout=25, binary=False):
+    """Ein Abruf ohne Cookies (jedes Mal frisch, keine Anmeldung)."""
+    req = urllib.request.Request(url, headers={"User-Agent": UA_WEB, "Accept": "text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8",
+                                               "Accept-Language": "de-AT,de;q=0.9,en;q=0.8"})
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            data = r.read(4_000_000); st = r.status; typ = r.headers.get("content-type", ""); final = r.geturl()
+    except urllib.error.HTTPError as e:
+        return e.code, "", b"" if binary else "", url
+    if binary:
+        return st, typ, data, final
+    cs = "utf-8"
+    m = re.search(r"charset=([\w-]+)", typ)
+    if m: cs = m.group(1)
+    return st, typ, data.decode(cs, errors="replace"), final
+
+def _slug(u):
+    return re.sub(r"[^a-zA-Z0-9.-]+", "_", re.sub(r"^https?://", "", u))[:120]
+
+def seiten_abrufen(urls, ordner):
+    import threading
+    from concurrent.futures import ThreadPoolExecutor
+    from urllib.parse import urlparse
+    (ordner / "seiten").mkdir(parents=True, exist_ok=True)
+    letzt = {}; sperre = threading.Lock(); idx = []
+    def eins(i_u):
+        i, u = i_u; h = urlparse(u).netloc
+        with sperre:
+            t = max(time.time(), letzt.get(h, 0) + 1.5); letzt[h] = t
+        if t > time.time(): time.sleep(t - time.time())
+        st, typ, body, err = 0, "", "", ""
+        try:
+            st, typ, body, _ = _hole(u)
+            if st >= 400: err = f"HTTP {st}"
+            elif SCHUTZ.search(body[:20000]) and len(body) < 60000: err = "Schutzseite (Cloudflare/Captcha)"
+            elif not body: err = "leer"
+        except Exception as e:
+            err = "Zeitüberschreitung" if "timed out" in str(e) else str(e)[:120]
+        f = ""
+        if not err:
+            f = f"{i:04d}_{_slug(u)}.html"
+            (ordner / "seiten" / f).write_text(f"ADRESSE: {u}\nABGERUFEN: {datetime.now(timezone.utc).isoformat()}\nTYP: {typ}\n\n{body}", encoding="utf-8")
+        with sperre:
+            idx.append([u, str(st), str(len(body)), f, err])
+    with ThreadPoolExecutor(6) as ex:
+        list(ex.map(eins, enumerate(urls, 1)))
+    idx.sort(key=lambda r: (r[3], r[0]))
+    (ordner / "index.tsv").write_text("adresse\tstatus\tzeichen\tdatei\tfehler\n" + "\n".join("\t".join(r) for r in idx) + "\n", encoding="utf-8")
+    ok = sum(1 for r in idx if not r[4]); return ok, len(idx) - ok
+
+def ig_bilder(liste, ordner, state):
+    """Instagram-Profilbilder ohne Anmeldung (keine Cookies, nicht das rave.wien-Konto). Hört beim ersten Zeichen von Bremsen auf."""
+    from PIL import Image
+    import io
+    erl = state.setdefault("ig_bilder", {}); heute = wien_jetzt().strftime("%Y-%m-%d")
+    offen = [x for x in liste if x.get("h") and x["h"] not in erl][:IG_PRO_TAG]
+    (ordner / "ig").mkdir(parents=True, exist_ok=True); n = 0; meta = {}
+    for k, x in enumerate(offen):
+        if k: time.sleep(random.uniform(*IG_PAUSE_S))
+        h = x["h"]
+        try:
+            st, typ, html, final = _hole(f"https://www.instagram.com/{h}/")
+        except Exception as e:
+            say(f"Instagram {h}: {e} – für heute Schluss"); break
+        if st in (429, 401, 403) or "/accounts/login" in final or "/challenge" in final:
+            say(f"Instagram bremst (HTTP {st}) – für heute Schluss"); break
+        if st == 404 or "Seite ist leider nicht verfügbar" in html or "Page Not Found" in html:
+            erl[h] = heute + " fehlt"; continue
+        m = re.search(r'<meta property="og:image" content="([^"]+)"', html)
+        if not m:
+            say(f"Instagram {h}: kein Profilbild in der Seite – für heute Schluss"); break
+        bild = m.group(1).replace("&amp;", "&")
+        try:
+            st2, _, data, _ = _hole(bild, binary=True)
+            im = Image.open(io.BytesIO(data)).convert("RGB")
+            if min(im.size) < 100: raise ValueError("zu klein")
+            im.thumbnail((320, 320)); im.save(ordner / "ig" / f"{h}.jpg", "JPEG", quality=88)
+            t = re.search(r'<meta property="og:title" content="([^"]+)"', html)
+            meta[h] = {"name": x.get("name"), "titel": t.group(1) if t else ""}
+            erl[h] = heute; n += 1
+        except Exception as e:
+            erl[h] = heute + " fehler"; log.warning(f"Instagram-Bild {h}: {e}")
+    (ordner / "ig" / "index.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
+    save_state(state); return n
+
+def verschluesseln(daten, pem):
+    """Gleiches Format wie abruf-krypt.js (RWA1: RSA-OAEP-SHA256 + AES-256-GCM)."""
+    from Cryptodome.PublicKey import RSA
+    from Cryptodome.Cipher import PKCS1_OAEP, AES
+    from Cryptodome.Hash import SHA256
+    key = os.urandom(32); iv = os.urandom(12)
+    c = AES.new(key, AES.MODE_GCM, nonce=iv); enc, tag = c.encrypt_and_digest(daten)
+    ek = PKCS1_OAEP.new(RSA.import_key(pem), hashAlgo=SHA256).encrypt(key)
+    return b"RWA1" + len(ek).to_bytes(2, "big") + ek + iv + tag + enc
+
+def abruf(state):
+    import tarfile, tempfile, shutil, io
+    if ABRUF_LOCK.exists():
+        try:
+            os.kill(int(ABRUF_LOCK.read_text()), 0); say("Abruf läuft schon"); return
+        except Exception:
+            pass
+    ABRUF_LOCK.write_text(str(os.getpid()))
+    try:
+        if not shutil.which("git"):
+            problem_mail(state, "abruf git", "⚠️ rave.wien Pi: git fehlt", "Für den täglichen Abruf braucht der Pi das Programm git.\n\nBitte einmal am Pi ausführen:  sudo apt install -y git")
+            return
+        pub = schluessel_anlegen()
+        auftrag = fetch(RAW + "abruf/adressen.json")
+        pem = fetch(RAW + "main/.github/abruf/abruf-public.pem", binary=True)
+        t0 = time.time()
+        with tempfile.TemporaryDirectory() as td:
+            td = Path(td); roh = td / "roh"; roh.mkdir()
+            ok, fehler = seiten_abrufen(auftrag.get("urls", []), roh)
+            ziel = td / "br"; ziel.mkdir()
+            n_ig = ig_bilder(auftrag.get("ig", []), ziel, state)
+            status = {"zeit": datetime.now(timezone.utc).isoformat(), "quelle": "Raspberry Pi", "version": VERSION,
+                      "adressen": ok + fehler, "ok": ok, "fehler": fehler, "ig_bilder": n_ig, "dauer_s": int(time.time() - t0)}
+            (roh / "status.json").write_text(json.dumps(status))
+            buf = io.BytesIO()
+            with tarfile.open(fileobj=buf, mode="w:gz") as tf:
+                tf.add(roh, arcname=".")
+            (ziel / "abruf.enc").write_bytes(verschluesseln(buf.getvalue(), pem))
+            (ziel / "status.json").write_text(json.dumps(status, indent=1))
+            g = lambda *a: subprocess.run(["git", *a], cwd=ziel, capture_output=True, text=True, timeout=300,
+                                          env={**os.environ, "GIT_SSH_COMMAND": f"ssh -i {DEPLOY_KEY} -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new"})
+            g("init", "-q", "-b", "abruf-pi"); g("config", "user.name", "rave.wien Pi"); g("config", "user.email", "pi@rave.wien")
+            g("add", "-A"); g("commit", "-q", "-m", f"Pi-Abruf {status['zeit'][:16]}")
+            r = g("push", "-q", "-f", GIT_ZIEL, "HEAD:refs/heads/abruf-pi")
+            if r.returncode != 0:
+                say(f"Ablegen bei GitHub fehlgeschlagen: {r.stderr.strip()[-200:]}")
+                if "denied" in r.stderr.lower() or "permission" in r.stderr.lower() or "publickey" in r.stderr.lower():
+                    problem_mail(state, "abruf schluessel", "🔑 rave.wien Pi: einmalig Schlüssel bei GitHub eintragen", schluessel_text(pub))
+                else:
+                    problem_mail(state, "abruf push " + wien_jetzt().strftime("%Y-%m-%d"), "⚠️ rave.wien Pi: Abruf nicht abgelegt", r.stderr.strip()[-600:])
+                return
+        say(f"Abruf fertig: {ok} Seiten ok, {fehler} Fehler, {n_ig} Instagram-Bilder, {status['dauer_s']} s")
+        state["abruf_ok"] = status["zeit"]
+    finally:
+        ABRUF_LOCK.unlink(missing_ok=True); save_state(state)
+
 def main():
     cmd = sys.argv[1] if len(sys.argv) > 1 else "lauf"
     if cmd == "selbsttest":   # wird vor einem Update mit der NEUEN Version aufgerufen
         import instagrapi, smtplib  # noqa: F401 – Abhängigkeiten vorhanden?
+        from Cryptodome.Cipher import AES, PKCS1_OAEP  # noqa: F401 – für den verschlüsselten Abruf
+        from PIL import Image  # noqa: F401
         load_config(); print("SELBSTTEST OK", VERSION); return
     state = load_state()
     now = datetime.now(timezone.utc)
@@ -481,10 +676,19 @@ def main():
         passwort_aendern(); save_state(state); return
     if cmd == "login":
         client(interactive=True); say("Anmeldung gespeichert."); save_state(state); return
+    if cmd == "abruf":
+        abruf(state); return
+    if cmd == "schluessel":
+        print(schluessel_text(schluessel_anlegen())); return
     if cmd == "pause":
         PAUSE.touch(); say("Automatisches Posten pausiert."); return
     if cmd == "weiter":
         PAUSE.unlink(missing_ok=True); say("Automatisches Posten läuft wieder."); return
+    if cmd == "lauf":
+        try:
+            abruf_starten(state, now)
+        except Exception as e:
+            log.error(f"Abruf-Start fehlgeschlagen: {e}")
     try:
         queue = fetch(BASE + "ig/queue.json")
         state["abruf_fehler"] = 0

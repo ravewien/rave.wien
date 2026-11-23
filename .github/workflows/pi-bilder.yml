@@ -1,0 +1,42 @@
+name: Pi-Bilder übernehmen
+# Wenn der Raspberry Pi seinen Abruf ablegt (Branch abruf-pi), werden die dort mitgelieferten
+# Instagram-Profilbilder als Vorschaubilder für Veranstalter ohne Bild übernommen (auf rave.wien gehostet).
+on:
+  push:
+    branches: [abruf-pi]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: pi-bilder
+  cancel-in-progress: false
+jobs:
+  bilder:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Übernehmen
+        run: |
+          git config user.name "rave.wien Pi-Bilder"
+          git config user.email "ravewien@users.noreply.github.com"
+          git fetch -q --depth 1 origin abruf-pi
+          mkdir -p /tmp/pi && git --work-tree=/tmp/pi checkout origin/abruf-pi -- . 2>/dev/null || true
+          git reset -q --hard origin/main
+          for i in 1 2 3 4; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            node .github/scripts/pi-bilder.js /tmp/pi
+            git add logos/ig
+            if git diff --cached --quiet; then echo "Keine neuen Bilder."; exit 0; fi
+            git commit -q -m "Vorschaubilder von Instagram (über den Pi) auf rave.wien abgelegt"
+            node .github/scripts/apply-patch.js /tmp/pi-bilder-patch.json events.js
+            node .github/scripts/validate.js
+            git add events.js && git commit -q -m "Daten-Update: Vorschaubilder für Veranstalter (Instagram-Profilbilder über den Pi)"
+            git push -q origin HEAD:main && exit 0
+            sleep $((i*7))
+          done
+          exit 1
