@@ -229,12 +229,6 @@ const CG={
  "Schlachthaus": [
   "Techno"
  ],
- "Schrödingers Groove": [
-  "Schranz",
-  "Hard Techno",
-  "Groove",
-  "Techno"
- ],
  "Bassproduction": [
   "Techno"
  ],
@@ -354,13 +348,6 @@ const CG={
   "Dub Techno",
   "Techno",
   "House"
- ],
- "909techno": [
-  "Hard Techno",
-  "Detroit Techno",
-  "Hardgroove",
-  "Hypnotic Techno",
-  "Dub Techno"
  ],
  "Klub Halal": [
   "Club",
@@ -840,7 +827,10 @@ const CG={
  ],
  "Schroedinger's Groove": [
   "Techno",
-  "Acid"
+  "Acid",
+  "Schranz",
+  "Hard Techno",
+  "Groove"
  ],
  "Schwerkraft": [
   "Techno",
@@ -1209,7 +1199,7 @@ const CG={
   "Hard Techno"
  ]
 };
-const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","909techno","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","ALERT[A] Vienna","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","Art Attech","AUDIO303","Auf der Lauer","Ausländer Haus","AWSM","Barracuda Music","BARVY","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","BASST SCHO","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","Bionic Ritual","BLUR","Bonkers","Booster Club","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Crossover","Cybertribe","Cyclic Existence","Dance 2 House","Dance Spirit Events","Danza Obscura","Dark Pressure","Das Syndikat","DEAD END","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","EMDB","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exceso","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Forbidden Frequency","Fourcast","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Homesounds","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","It's George","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","March of the Machines","Meier","MEIOSISS","Melodic Monday","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Modulate","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Off The Grid","Opération","Out of Space","Oxygene","Palazzo Recordings","Panzerschokolade","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PURRR","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","RaveCon","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","shared frequencies","SHPILKI","SIGNAL","SIN","Slutlabs","Sniffin´ Glue","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","SWEAT","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","TECHNOLOT","The Academy","The Hive","The House of Funk","the zound partisans","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Ungeniert","Uniquely Journeys","Unkwn","unlock|me","Unstoppable Organizerteam","Untz Baby Untz","up/or","Vangardist","Ventil Records","Verknallt","Vertigo","Verum Gaudium","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wums","Wyldhearts","Xperiment Records","YE","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
+const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","ALERT[A] Vienna","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","Art Attech","AUDIO303","Auf der Lauer","Ausländer Haus","AWSM","Barracuda Music","BARVY","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","BASST SCHO","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","Bionic Ritual","BLUR","Bonkers","Booster Club","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Crossover","Cybertribe","Cyclic Existence","Dance 2 House","Dance Spirit Events","Danza Obscura","Dark Pressure","Das Syndikat","DEAD END","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","EMDB","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exceso","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Forbidden Frequency","Fourcast","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Homesounds","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","It's George","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","March of the Machines","Meier","MEIOSISS","Melodic Monday","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Modulate","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Off The Grid","Opération","Out of Space","Oxygene","Palazzo Recordings","Panzerschokolade","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PURRR","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","RaveCon","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schroedinger's Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","shared frequencies","SHPILKI","SIGNAL","SIN","Slutlabs","Sniffin´ Glue","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","SWEAT","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","TECHNOLOT","The Academy","The Hive","The House of Funk","the zound partisans","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Ungeniert","Uniquely Journeys","Unkwn","unlock|me","Unstoppable Organizerteam","Untz Baby Untz","up/or","Vangardist","Ventil Records","Verknallt","Vertigo","Verum Gaudium","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wums","Wyldhearts","Xperiment Records","YE","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
 const CI={
  "303": {
   "noLogo": "2026-11-15",
@@ -2741,7 +2731,10 @@ const CI={
   "infoChk": "2026-11-15",
   "noLogo": "2026-11-15",
   "logo": "https://ugc.production.linktr.ee/6u12ZCSSu6VxBmEvmMKs_7kw75N9zD1cEgCDa?f=.jpg",
-  "lt": "https://linktr.ee/nineoninetechno"
+  "lt": "https://linktr.ee/nineoninetechno",
+  "alias": [
+   "909techno"
+  ]
  },
  "LSH": {
   "de": "LSH (Les Suspects Habituels) ist ein Wiener Kollektiv, bekannt für die Partyreihe Techno Entgleist in der Grellen Forelle. Gemeinsam mit Nine O Nine veranstaltet es die Techno-Reihe TECHNO OBSCENE im Das Werk.",
@@ -2766,17 +2759,6 @@ const CI={
   "sc": "https://soundcloud.com/lessuspectshabituels",
   "logo": "https://i1.sndcdn.com/avatars-8zh9H1UeNGPvfTo1-X8jpqA-t500x500.jpg",
   "lt": "https://linktr.ee/lessuspectshabituels"
- },
- "909techno": {
-  "de": "Techno-Crew Nine O Nine (909techno), die gemeinsam mit LSH die Reihe TECHNO OBSCENE im Das Werk veranstaltet.",
-  "en": "Techno crew Nine O Nine (909techno), co-hosting the TECHNO OBSCENE series at Das Werk with LSH.",
-  "ig": "https://instagram.com/909techno",
-  "src": [
-   "https://ra.co/events/1832377",
-   "https://ra.co/events/2466171"
-  ],
-  "infoChk": "2026-11-15",
-  "noLogo": "2026-11-15"
  },
  "served": {
   "de": "Wiener Partyreihe für queere Menschen und Gleichgesinnte mit House und Techno; die Ausgabe mit Harmony Rec. × hereandthere ist die dritte.",
@@ -3272,18 +3254,6 @@ const CI={
    "FIFI Rave"
   ],
   "ig": "https://www.instagram.com/fifi__rave"
- },
- "Schrödingers Groove": {
-  "noLogo": "2026-11-15",
-  "src": [
-   "https://flucc.at/events/X3Fef2-fifi-x-schrodinger-s-groove/",
-   "https://flucc.at/events/Yi7UCM-schroedingers-groove/"
-  ],
-  "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/schroedingersgroove/",
-  "de": "Wiener Hardtechno-Veranstalter; gemeinsam mit Hektisch etwa „Noise Not War“ in der Wanne des FLUCC mit treibenden Kicks und verzerrten Grooves, außerdem Kooperationen wie „Fifi x Schrödinger’s Groove“ im FLUCC.",
-  "en": "Vienna hard techno organiser; together with Hektisch it ran e.g. “Noise Not War” in FLUCC’s Wanne with pounding kicks and distorted grooves, plus collaborations such as “Fifi x Schrödinger’s Groove” at FLUCC.",
-  "from": "Wien"
  },
  "Radio Rudina": {
   "de": "Unabhängiges Wiener Musik- und Kulturkollektiv mit 24/7-Webradio, Live-Shows und Events, etwa regelmäßigen Partys im PRST.",
@@ -4707,11 +4677,12 @@ const CI={
   "en": "Viennese techno promoter with nights at Kramladen and Das Werk, where it presents the “Schwerkraft” series with techno and acid on the main and Luster floors; collaborations include Raveladen and Nebelblau.",
   "ig": "https://www.instagram.com/schroedingersgroove/",
   "alias": [
-   "Schrödingers Groove",
-   "Schroedingers Groove"
+   "Schrödingers Groove"
   ],
   "src": [
-   "https://ra.co/events/2416071"
+   "https://ra.co/events/2416071",
+   "https://flucc.at/events/X3Fef2-fifi-x-schrodinger-s-groove/",
+   "https://flucc.at/events/Yi7UCM-schroedingers-groove/"
   ],
   "from": "Wien",
   "infoChk": "2026-11-15",
@@ -9481,16 +9452,6 @@ const AR={
   ],
   "infoChk": "2026-11-03"
  },
- "Artifex (DE)": {
-  "links": {
-   "sc": "https://soundcloud.com/artifex_wav",
-   "ig": "https://www.instagram.com/artifex.x_"
-  },
-  "src": [
-   "https://de.ra.co/dj/artifex-2"
-  ],
-  "setsChecked": "2026-10-27"
- },
  "Trugbild": {
   "links": {
    "sc": "https://soundcloud.com/dastrugbild",
@@ -9754,7 +9715,8 @@ const AR={
   },
   "src": [
    "https://ra.co/dj/nizarsarakbi",
-   "https://fr.ra.co/dj/nizarsarakbi"
+   "https://fr.ra.co/dj/nizarsarakbi",
+   "https://soundcloud.com/nizar-sarakbi"
   ],
   "sets": [
    {
@@ -9781,7 +9743,11 @@ const AR={
    "System Error",
    "Tancido"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "alias": [
+   "Blaze",
+   "Nizar Sarakhbi"
+  ]
  },
  "The Advent": {
   "links": {
@@ -10044,42 +10010,6 @@ const AR={
   },
   "infoChk": "2026-10-31"
  },
- "maro": {
-  "links": {
-   "sc": "https://soundcloud.com/maro87c",
-   "ig": "https://www.instagram.com/maro87c/",
-   "bc": "https://maro87.bandcamp.com",
-   "web": "http://www.maro87c.at",
-   "ra": "https://ra.co/dj/maro"
-  },
-  "src": [
-   "https://de.ra.co/dj/maro"
-  ],
-  "sets": [
-   {
-    "t": "maro – no lullaby (Mahlwerk Artist Set MWK007)",
-    "u": "https://soundcloud.com/mahlwerk-mwk/max-mustermann"
-   }
-  ],
-  "setsChecked": "2026-10-27",
-  "img": "https://static.ra.co/images/profiles/square/maro.jpg?dateUpdated=1766386631437",
-  "from": {
-   "de": "Deutschland, lebt in Österreich",
-   "en": "Germany, based in Austria"
-  },
-  "genres": [
-   "Techno",
-   "Trance",
-   "Hardgroove",
-   "Breakbeat"
-  ],
-  "bio": {
-   "de": "maro ist in Deutschland geboren und in Österreich ansässig. Bekannt für energiegeladene Sets, die Techno, Trance, Hardgroove und Breakbeats verbinden. Spielt am häufigsten in Wien, u. a. in Grelle Forelle, PRST, Gleis19 und Flex.",
-   "en": "maro was born in Germany and is based in Austria. Known for high-energy sets blending techno, trance, hardgroove and breakbeats. Plays most often in Vienna, including Grelle Forelle, PRST, Gleis19 and Flex."
-  },
-  "infoChk": "2026-10-31",
-  "spChk": "2026-11-15"
- },
  "k means": {
   "links": {
    "sc": "https://soundcloud.com/k_means",
@@ -10333,16 +10263,6 @@ const AR={
   ],
   "infoChk": "2026-10-31"
  },
- "Michel Lauriola (ARG)": {
-  "links": {
-   "sc": "https://soundcloud.com/michellauriola",
-   "sp": "https://open.spotify.com/artist/49e8z9fLIHIsPjHgVfCMpP"
-  },
-  "src": [
-   "https://ra.co/dj/michellauriola"
-  ],
-  "setsChecked": "2026-10-27"
- },
  "Spud Bencer": {
   "links": {
    "sc": "https://soundcloud.com/spudbencervie",
@@ -10559,27 +10479,6 @@ const AR={
    "Liquid Drum & Bass"
   ],
   "infoChk": "2026-11-02"
- },
- "Thomas Schumacher (Elektrochemie LK)": {
-  "links": {
-   "sc": "https://soundcloud.com/thomas-schumacher",
-   "ig": "https://www.instagram.com/djthomasschumacher",
-   "web": "http://www.thomasschumacher.com"
-  },
-  "src": [
-   "https://de.ra.co/dj/thomasschumacher"
-  ],
-  "sets": [
-   {
-    "t": "Thomas Schumacher @ Mayday 2022",
-    "u": "https://soundcloud.com/thomas-schumacher/mayday-momentum-dj-set-part-1"
-   },
-   {
-    "t": "Thomas Schumacher – Live DJ Set @ The Villa, Oslo",
-    "u": "https://soundcloud.com/thomas-schumacher/live-dj-set-from-the-villa-oslo-20012017"
-   }
-  ],
-  "setsChecked": "2026-10-27"
  },
  "Andy Catana": {
   "links": {
@@ -12255,7 +12154,11 @@ const AR={
  "Kristus": {
   "noImg": "2026-11-03",
   "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-23",
+  "alias": [
+   "KRISTUS"
+  ]
  },
  "Pitch Madattak": {
   "img": "https://f4.bcbits.com/img/0013234561_23.jpg",
@@ -12597,17 +12500,6 @@ const AR={
   "infoChk": "2026-11-03",
   "noLinks": "2026-11-03"
  },
- "Misspixie": {
-  "noImg": "2026-10-28",
-  "links": {
-   "sc": "https://soundcloud.com/tekniker_at"
-  },
-  "src": [
-   "https://soundcloud.com/tekniker_at",
-   "https://soundcloud.com/tekniker_at/misspixie-live-decibelles-2025_12_26"
-  ],
-  "infoChk": "2026-10-31"
- },
  "Stefanie Brida": {
   "noImg": "2026-11-03",
   "infoChk": "2026-11-03",
@@ -12676,7 +12568,18 @@ const AR={
   "noImg": "2026-11-15",
   "infoChk": "2026-11-15",
   "noLinks": "2026-11-15",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "links": {
+   "sc": "https://soundcloud.com/artifex_wav",
+   "ig": "https://www.instagram.com/artifex.x_"
+  },
+  "src": [
+   "https://de.ra.co/dj/artifex-2"
+  ],
+  "setsChecked": "2026-10-27",
+  "alias": [
+   "Artifex (DE)"
+  ]
  },
  "LUZZT": {
   "img": "https://static.ra.co/images/profiles/square/luzzt.jpg?dateUpdated=1692132918000",
@@ -13156,7 +13059,8 @@ const AR={
   ],
   "links": {
    "ra": "https://ra.co/dj/michellauriola",
-   "sc": "https://www.soundcloud.com/michellauriola"
+   "sc": "https://www.soundcloud.com/michellauriola",
+   "sp": "https://open.spotify.com/artist/49e8z9fLIHIsPjHgVfCMpP"
   },
   "src": [
    "https://ra.co/dj/michellauriola"
@@ -13168,7 +13072,10 @@ const AR={
    }
   ],
   "setsChecked": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "alias": [
+   "Michel Lauriola (ARG)"
+  ]
  },
  "Peter Portman": {
   "img": "https://static.ra.co/images/profiles/peterportman.jpg?dateUpdated=1471996800000",
@@ -13811,12 +13718,6 @@ const AR={
   "noLinks": "2026-11-15",
   "spChk": "2026-11-15"
  },
- "KRISTUS": {
-  "infoChk": "2026-10-31",
-  "noImg": "2026-10-31",
-  "noLinks": "2026-10-31",
-  "spChk": "2026-11-23"
- },
  "Feli Nightingale": {
   "img": "https://static.ra.co/images/profiles/square/felinightingale.jpg?dateUpdated=1778683118337",
   "links": {
@@ -14221,7 +14122,8 @@ const AR={
    "ra": "https://ra.co/dj/maro",
    "sc": "https://soundcloud.com/maro87c",
    "ig": "https://www.instagram.com/maro87c/",
-   "bc": "https://maro87.bandcamp.com"
+   "bc": "https://maro87.bandcamp.com",
+   "web": "http://www.maro87c.at"
   },
   "from": {
    "de": "Deutschland (lebt in Österreich)",
@@ -14249,7 +14151,10 @@ const AR={
    }
   ],
   "setsChecked": "2026-11-02",
-  "spChk": "2026-11-18"
+  "spChk": "2026-11-18",
+  "alias": [
+   "maro"
+  ]
  },
  "Who is Ela¿": {
   "img": "https://static.ra.co/images/profiles/square/whoisela%C2%BF.jpg?dateUpdated=1774034559527",
@@ -14336,11 +14241,6 @@ const AR={
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03"
- },
- "LĪVA": {
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
-  "noLinks": "2026-11-02"
  },
  "Mary Slim": {
   "infoChk": "2026-11-03",
@@ -17105,7 +17005,8 @@ const AR={
  "Miss Pixie aka Tekniker": {
   "alias": [
    "Miss Pixie",
-   "Tekniker"
+   "Tekniker",
+   "Misspixie"
   ],
   "links": {
    "sc": "https://soundcloud.com/tekniker_at",
@@ -17114,7 +17015,8 @@ const AR={
   },
   "src": [
    "https://soundcloud.com/tekniker_at",
-   "https://misspixie.bandcamp.com/track/ich-bin-tekno"
+   "https://misspixie.bandcamp.com/track/ich-bin-tekno",
+   "https://soundcloud.com/tekniker_at/misspixie-live-decibelles-2025_12_26"
   ],
   "infoChk": "2026-11-02",
   "img": "https://f4.bcbits.com/img/0037357762_10.jpg",
@@ -17142,7 +17044,8 @@ const AR={
     "u": "https://soundcloud.com/tekniker_at/live-vienn-a-tek-2025_05-flucc-vienna"
    }
   ],
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "noImg": "2026-10-28"
  },
  "Genetek": {
   "links": {
@@ -19242,7 +19145,8 @@ const AR={
    "sc": "https://soundcloud.com/bornvoyage"
   },
   "alias": [
-   "Born Voyage"
+   "Born Voyage",
+   "DJ Born Voyage"
   ],
   "genres": [
    "Psytrance"
@@ -19256,9 +19160,14 @@ const AR={
   "setsChecked": "2026-11-03",
   "src": [
    "https://soundcloud.com/bornvoyage",
-   "https://soundcloud.com/bornvoyage/borny-voyage-spirit-base-2022"
+   "https://soundcloud.com/bornvoyage/borny-voyage-spirit-base-2022",
+   "https://ra.co/events/1920347"
   ],
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  }
  },
  "KlangKuenstler": {
   "img": "https://static.ra.co/images/profiles/square/klangkuenstler.jpg?dateUpdated=1578873600000",
@@ -21504,7 +21413,10 @@ const AR={
   ],
   "infoChk": "2026-11-02",
   "setsChecked": "2026-11-15",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "alias": [
+   "DJ Wal_halla"
+  ]
  },
  "Teppich Funk": {
   "infoChk": "2026-11-15",
@@ -21678,7 +21590,10 @@ const AR={
    }
   ],
   "setsChecked": "2026-11-15",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "alias": [
+   "Thomas Schumacher (Elektrochemie LK)"
+  ]
  },
  "Tom Snow": {
   "links": {
@@ -23852,7 +23767,10 @@ const AR={
    "https://soundcloud.com/sam_dma/tracks"
   ],
   "setsChecked": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "alias": [
+   "DJ SAMDMA"
+  ]
  },
  "Trancemaster Krause": {
   "img": "https://static.ra.co/images/profiles/square/trancemasterkrause.jpg?dateUpdated=1790612212153",
@@ -25883,10 +25801,17 @@ const AR={
   "setsChecked": "2026-11-03",
   "src": [
    "https://ra.co/dj/arminhermann",
-   "https://soundcloud.com/polyamor-berlin/armin-hermann-get-naughty"
+   "https://soundcloud.com/polyamor-berlin/armin-hermann-get-naughty",
+   "https://soundcloud.com/powertrancerec/armin-hermann-back-to-the-vibe"
   ],
   "infoChk": "2026-11-03",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "genres": [
+   "Trance"
+  ],
+  "alias": [
+   "Armin Herrmann"
+  ]
  },
  "Rusrus": {
   "infoChk": "2026-11-03",
@@ -37921,45 +37846,6 @@ const AR={
   ],
   "infoChk": "2026-11-04"
  },
- "Nizar Sarakhbi": {
-  "img": "https://static.ra.co/images/profiles/square/nizarsarakbi.jpg?dateUpdated=1747852656690",
-  "links": {
-   "sc": "https://soundcloud.com/nizar-sarakbi",
-   "ra": "https://ra.co/dj/nizarsarakbi"
-  },
-  "bio": {
-   "de": "Nizar Sarakbi ist ein in der Ukraine geborener, in Wien lebender DJ, Produzent und Digger, dessen Geschmack laut RA zwischen dem Unerwarteten und dem Unwiderstehlichen pendelt. Releases erschienen u. a. auf System Error und Tancido.",
-   "en": "Nizar Sarakbi is a Ukrainian-born, Vienna-based DJ, producer and digger whose taste, per RA, swerves between the unexpected and the undeniable. His releases have appeared on System Error and Tancido, among others."
-  },
-  "from": {
-   "de": "Wien, Österreich",
-   "en": "Vienna, Austria"
-  },
-  "labels": [
-   "System Error",
-   "Tancido"
-  ],
-  "alias": [
-   "Nizar Sarakbi",
-   "Blaze"
-  ],
-  "sets": [
-   {
-    "t": "Nizar - live @ Zanzibar Gathering (by Lighthouse, Butik, Why Not) 2025",
-    "u": "https://soundcloud.com/nizar-sarakbi/nizar-live-at-lhf-x-butik-zanzibar-2025"
-   },
-   {
-    "t": "KERMIX-14 - Nizar Sarakbi",
-    "u": "https://soundcloud.com/kermesseworld/kermix-14-nizar"
-   }
-  ],
-  "setsChecked": "2026-11-04",
-  "src": [
-   "https://ra.co/dj/nizarsarakbi",
-   "https://soundcloud.com/nizar-sarakbi"
-  ],
-  "infoChk": "2026-11-04"
- },
  "Philippa Pacho": {
   "img": "https://static.ra.co/images/profiles/square/philippapacho.jpg?dateUpdated=1781084651837",
   "links": {
@@ -41649,43 +41535,6 @@ const AR={
   "setsChecked": "2026-11-04",
   "src": [
    "https://ra.co/dj/chaya-at"
-  ],
-  "infoChk": "2026-11-04"
- },
- "Armin Herrmann": {
-  "img": "https://static.ra.co/images/profiles/square/arminhermann.jpg?dateUpdated=1736169446000",
-  "links": {
-   "ra": "https://ra.co/dj/arminhermann",
-   "sc": "https://soundcloud.com/arminhermann",
-   "ig": "https://www.instagram.com/arminhermann_"
-  },
-  "bio": {
-   "de": "Armin Hermann ist ein DJ und Produzent aus Österreich, der vor allem in Wien und Berlin auflegt. Releases erschienen u. a. auf Powertrance.",
-   "en": "Armin Hermann is a DJ and producer from Austria who mostly plays in Vienna and Berlin. He has released on Powertrance, among others."
-  },
-  "from": {
-   "de": "Österreich",
-   "en": "Austria"
-  },
-  "labels": [
-   "Powertrance"
-  ],
-  "genres": [
-   "Trance"
-  ],
-  "alias": [
-   "Armin Hermann"
-  ],
-  "sets": [
-   {
-    "t": "ARMIN HERMANN [SET RECORDING 24.01] (Pink Mayhem)",
-    "u": "https://soundcloud.com/pinkmayhem/armin-hermann-set-recording-2401"
-   }
-  ],
-  "setsChecked": "2026-11-04",
-  "src": [
-   "https://ra.co/dj/arminhermann",
-   "https://soundcloud.com/powertrancerec/armin-hermann-back-to-the-vibe"
   ],
   "infoChk": "2026-11-04"
  },
@@ -51739,79 +51588,6 @@ const AR={
   "noImg": "2026-11-12",
   "noLinks": "2026-11-12"
  },
- "DJ SAMDMA": {
-  "img": "https://static.ra.co/images/profiles/square/samdma.jpg?dateUpdated=1761127855680",
-  "links": {
-   "ra": "https://ra.co/dj/samdma",
-   "sc": "https://soundcloud.com/sam_dma",
-   "ig": "https://www.instagram.com/sam.dma/"
-  },
-  "from": {
-   "de": "Österreich",
-   "en": "Austria"
-  },
-  "bio": {
-   "de": "SAMDMA ist ein DJ aus Österreich, der regelmäßig in Wien spielt, etwa bei Art Attech im FLUCC und bei Techno am Wasser. Sein Motto: „because a drum machine is cheaper than therapy“.",
-   "en": "SAMDMA is an Austrian DJ who plays regularly in Vienna, including Art Attech at FLUCC and Techno am Wasser. His motto: \"because a drum machine is cheaper than therapy\"."
-  },
-  "labels": [
-   "Mainground Music",
-   "Set About"
-  ],
-  "alias": [
-   "SAMDMA"
-  ],
-  "src": [
-   "https://ra.co/dj/samdma"
-  ],
-  "infoChk": "2026-11-12"
- },
- "DJ Wal_halla": {
-  "img": "https://static.ra.co/images/profiles/square/wal_halla.jpg?dateUpdated=1788612597173",
-  "links": {
-   "ra": "https://ra.co/dj/wal_halla",
-   "sc": "https://soundcloud.com/wal_halla",
-   "ig": "https://www.instagram.com/wal_halla/"
-  },
-  "from": {
-   "de": "Wien",
-   "en": "Vienna"
-  },
-  "bio": {
-   "de": "Wal_Halla ist DJ und Veranstalterin aus Wien. Mit einem Hintergrund in klassischer Musik und Tanz verbindet sie Techno, Trance und Acid zu tanzbaren Sets mit pulsierenden Beats und verspielten Vocals.",
-   "en": "Wal_Halla is a Vienna-based DJ and event organiser. With a background in classical music and dance, she blends techno, trance and acid into danceable sets with pulsating beats and playful vocals."
-  },
-  "genres": [
-   "Techno",
-   "Trance",
-   "Acid"
-  ],
-  "alias": [
-   "Wal_Halla"
-  ],
-  "src": [
-   "https://ra.co/dj/wal_halla"
-  ],
-  "infoChk": "2026-11-12"
- },
- "DJ Born Voyage": {
-  "links": {
-   "sc": "https://soundcloud.com/bornvoyage"
-  },
-  "from": {
-   "de": "Österreich",
-   "en": "Austria"
-  },
-  "alias": [
-   "Born Voyage"
-  ],
-  "src": [
-   "https://ra.co/events/1920347",
-   "https://soundcloud.com/bornvoyage"
-  ],
-  "infoChk": "2026-11-12",
-  "noImg": "2026-11-12"
- },
  "Franco": {
   "infoChk": "2026-11-15",
   "noImg": "2026-11-15",
@@ -56284,7 +56060,7 @@ const RAW=[
 {"d":"2026-11-28","s":"23:00","e":"05:00","title":"Cardio Cult","venue":"SASS Music Club","floors":[{"f":"","a":["Schr0mmi","Mo The Prophet","Magsi"]}],"vok":1,"coll":["Cardio Cult"],"note":{"de":"Cardio Cult im SASS Music Club von 23 bis 5 Uhr, diesmal unter dem Motto „München trifft Wien“: Zu Gast sind Schr0mmi und Mo The Prophet, die gemeinsam als Sonic Vibrations auftreten und laut SASS zwei prägende Figuren der Münchner Clubszene und Plattensammler sind. Local Selecta Magsi spielt den Start und hält den Puls oben. Der Eintritt beträgt 10–15 €, ein Willkommensgetränk ist inklusive. Alle SASS-Veranstaltungen werden von einem Awareness-Team begleitet; Einlass ab 18.","en":"Cardio Cult at SASS Music Club from 11 pm to 5 am, this time under the banner 'Munich meets Vienna': guests are Schr0mmi and Mo The Prophet, who play together as Sonic Vibrations and, according to SASS, are two formative figures of Munich's club scene and dedicated record collectors. Local selecta Magsi opens the night and keeps the pulse up. Entry is 10–15 € including a welcome drink. All SASS events are accompanied by an awareness team; entry 18+."},"src":[["sa","https://sassvienna.com/en/events"],["sa","https://sassvienna.com/en/events/event/cardio-cult-november"],["ra","https://ra.co/events/2589409"]],"na":["genres","tickets"],"_detailUrl":"https://sassvienna.com/en/events/event/cardio-cult-november","srcChk":"2026-11-20","price":"10–15 € (inkl. Welcome-Drink)","age":"18+","chk":"2026-11-20","aw":1,"flyer":"https://images.ra.co/37e39a30dfb532e11ecadad54ddc6af3e7f980c3.jpg","genres":["House","Techno"],"gAuto":1},
 {"d":"2026-11-28","s":"23:00","title":"KSHMR pres. by Prater DOME","venue":"Prater Dome","floors":[{"f":"Main Floor","a":["KSHMR","MEDUN","WESH"]},{"f":"Second Floor","a":["MYKAL"]},{"f":"Classics Floor","a":["RICKY"]}],"head":["KSHMR"],"note":{"de":"KSHMR ist zurück im Prater DOME: Der US-amerikanische DJ und Produzent (Niles Hollowell-Dhar), der u. a. mit David Guetta, Tiësto und Hardwell produziert hat, spielte zuletzt 2023 im Haus. Auf dem Main Floor (EDM, Clubtunes) wird er von Resident MEDUN und WESH unterstützt. Dazu kommen der Second Floor mit HipHop und Black Music (MYKAL), der Classics Floor mit Party-Classics (RICKY) und die Rooftop-Area mit Chill-out-Beats. Einlass ab 23:00, ab 18 Jahren. Ticketpreise und Abendkassa sind laut Prater DOME noch TBA.","en":"KSHMR is back at Prater DOME: the US DJ and producer (Niles Hollowell-Dhar), who has produced with David Guetta, Tiësto and Hardwell among others, last played the venue in 2023. On the Main Floor (EDM, club tunes) he is supported by resident MEDUN and WESH. There is also the Second Floor with hip-hop and black music (MYKAL), the Classics Floor with party classics (RICKY) and the rooftop area with chill-out beats. Doors 23:00, 18+. Ticket prices and box office are still TBA according to Prater DOME."},"chk":"2026-11-20","src":[["tbc","https://technobeatscloud.com/en/events/clubs/november-2026/austria/vienna"],["pd","https://praterdome.at/en/events/kshmr-pres-by-prater-dome-28-11-2026"]],"genres":["EDM","Hip-Hop"],"age":"18+","flyer":"https://prater-dome.disco2app.com/media/cache/web/events/437/image/63090.webp?datetime=1790069696","vok":1,"srcChk":"2026-11-20","price":"VVK 18,46–20,58 €, Fast Lane 26,92 €, Kombiticket 27.+28.11. 32,21 €","e":"06:00","tickets":"https://praterdome.at/en/events/kshmr-pres-by-prater-dome-28-11-2026"},
 {"d":"2026-11-28","s":"23:00","title":"RED GROOVE (Social Club) with Nick Curly","venue":"PRST","coll":["Red Groove Social Club","It's George"],"floors":[{"f":"","a":["Nick Curly","KILL.DB","RED GROOVE SYSTEM"]}],"head":["Nick Curly"],"note":{"de":"Die PRST-Reihe Red Groove (Social Club) für House und Disco holt Nick Curly zurück in die Praterstraße – laut RA ist es sein dritter Besuch im PRST. Der in Mannheim ansässige DJ und Produzent betreibt die Labels Cécille und 8Bit Records und zählt seit Jahren zu den bekannten Namen im House. Neben ihm spielen KILL.DB und das Red Groove System. Laut RA läuft der Abend von 23:00 bis 06:00, der Eintritt kostet 15–20 €, Einlass ab 20 Jahren; veranstaltet von It's George.","en":"PRST series Red Groove (Social Club), dedicated to house and disco, brings Nick Curly back to Praterstraße – according to RA it is his third visit to PRST. The Mannheim-based DJ and producer runs the labels Cécille and 8Bit Records and has long been one of the well-known names in house. He is joined by KILL.DB and the Red Groove System. According to RA the night runs from 23:00 to 06:00, entry costs €15–20, minimum age 20; promoted by It's George."},"src":[["ta","https://www.technoairlines.com/events/vienna"],["ta","https://www.technoairlines.com/event/red-groove-social-club-with-nick-curly-prst-2026-11-28"],["ra","https://de.ra.co/events/2580567"],["pr","https://prst.ticket.io/?lang=en"]],"chk":"2026-11-22","srcChk":"2026-11-15","e":"06:00","price":"15–20 €","flyer":"https://images.ra.co/97e36a8f0807512eb63574c571fea0d7f0feddef.png","genres":["House"],"age":"20+","na":["tickets"],"vok":1},
-{"d":"2026-11-28","s":"23:00","title":"DEAD END Showcase with Paralich pres. by GDN","venue":"Das Werk","coll":["GDN"],"floors":[{"f":"","a":["Paralich","THIRD 2HIFT","Valenthin","DJ Wifi","KRISTUS","LUZZT"]}],"head":["Paralich"],"tickets":"https://ra.co/events/2582638","flyer":"https://images.ra.co/b5f6dacaa281f6a60dd58da3955e32f1a499b3d0.png","note":{"de":"GDN (Gesindel der Nacht) präsentiert im Werk einen DEAD END Showcase mit Paralich als Hauptact. Außerdem stehen THIRD 2HIFT, Valenthin, DJ Wifi und LUZZT im Line-up. Das Programm des Werks führt den Abend als „Dead End Showcase X GDN“ ab 23:00 – als einziges Event an diesem Datum; die zuvor dort gelistete Nine-Circles-Nacht steht nicht mehr im Programm. Floors, Set-Zeiten, Endzeit und Preise sind nicht angegeben.","en":"GDN (Gesindel der Nacht) presents a DEAD END showcase at Das Werk with Paralich as the headliner. THIRD 2HIFT, Valenthin, DJ Wifi and LUZZT complete the lineup. Das Werk's programme lists the night as 'Dead End Showcase X GDN' from 23:00 – the only event on that date; the Nine Circles night previously listed there is no longer in the programme. Floors, set times, end time and prices are not given."},"ook":1,"na":["price","e"],"chk":"2026-11-23","srcChk":"2026-11-23","src":[["ta","https://www.technoairlines.com/event/dead-end-showcase-with-paralich-pres-by-gdn-das-werk-2026-11-28"],["ta","https://www.technoairlines.com/events/vienna/2026-11"],["dw","https://www.daswerk.org/program"],["ta","https://www.technoairlines.com/club/das-werk-vienna"]],"vok":1,"genres":["Techno","Hardgroove","Schranz"],"gAuto":1},
+{"d":"2026-11-28","s":"23:00","title":"DEAD END Showcase with Paralich pres. by GDN","venue":"Das Werk","coll":["GDN"],"floors":[{"f":"","a":["Paralich","THIRD 2HIFT","Valenthin","DJ Wifi","Kristus","LUZZT"]}],"head":["Paralich"],"tickets":"https://ra.co/events/2582638","flyer":"https://images.ra.co/b5f6dacaa281f6a60dd58da3955e32f1a499b3d0.png","note":{"de":"GDN (Gesindel der Nacht) präsentiert im Werk einen DEAD END Showcase mit Paralich als Hauptact. Außerdem stehen THIRD 2HIFT, Valenthin, DJ Wifi und LUZZT im Line-up. Das Programm des Werks führt den Abend als „Dead End Showcase X GDN“ ab 23:00 – als einziges Event an diesem Datum; die zuvor dort gelistete Nine-Circles-Nacht steht nicht mehr im Programm. Floors, Set-Zeiten, Endzeit und Preise sind nicht angegeben.","en":"GDN (Gesindel der Nacht) presents a DEAD END showcase at Das Werk with Paralich as the headliner. THIRD 2HIFT, Valenthin, DJ Wifi and LUZZT complete the lineup. Das Werk's programme lists the night as 'Dead End Showcase X GDN' from 23:00 – the only event on that date; the Nine Circles night previously listed there is no longer in the programme. Floors, set times, end time and prices are not given."},"ook":1,"na":["price","e"],"chk":"2026-11-23","srcChk":"2026-11-23","src":[["ta","https://www.technoairlines.com/event/dead-end-showcase-with-paralich-pres-by-gdn-das-werk-2026-11-28"],["ta","https://www.technoairlines.com/events/vienna/2026-11"],["dw","https://www.daswerk.org/program"],["ta","https://www.technoairlines.com/club/das-werk-vienna"]],"vok":1,"genres":["Techno","Hardgroove","Schranz"],"gAuto":1},
 {"d":"2026-11-28","s":"23:59","title":"CitrusCue presents COIDO & Wingz","venue":"Club Lucia","coll":["CitrusCue"],"floors":[{"f":"","a":["COIDO","Wingz","yarx","vazov","fejv"]}],"head":["COIDO"],"flyer":"https://images.ra.co/343858249b9bd4646d10ecb188662ffba61d5339.jpg","note":{"de":"CitrusCue kehrt für eine Bass-Music-Nacht von tiefen, atmosphärischen Klängen bis zu schwerer, groovelastiger Clubmusik in den Club Lucia zurück. Headliner COIDO verbindet futuristisch Techno, Breakbeat, Jersey Club und globale Grooves. Wingz aus Wien spielt präzisen, atmosphärischen Drum & Bass. Lokale Unterstützung: yarx (Dubstep, Grime, Footwork, dekonstruierte Rhythmen), fejv (UK Bass von klassisch bis experimentell) und vazov (früher Subcurrent; schneller, hypnotischer Techno mit viel Tiefbass).","en":"CitrusCue returns to Club Lucia for a bass music night ranging from deep, atmospheric sounds to heavy, groove-driven club music. Headliner COIDO blends techno, breakbeat, Jersey club and global grooves in a futuristic style. Vienna's Wingz plays precise, atmospheric drum & bass. Local support: yarx (dubstep, grime, footwork, deconstructed rhythms), fejv (UK bass from classic to leftfield) and vazov (formerly Subcurrent; fast, hypnotic techno with heavy low end)."},"src":[["ta","https://www.technoairlines.com/event/citruscue-presents-coido-wingz-club-lucia-2026-11-28"],["ra","https://ra.co/events/2575308"],["cl","https://www.clublucia.at/event/citruscue-pres-coido-wingz/"],["ta","https://www.technoairlines.com/events/vienna/2026-11"],["ft","https://frey-tag.at/kalender/citruscue"]],"chk":"2026-11-22","srcChk":"2026-11-15","e":"05:00","price":"12–15 €","age":"18+","genres":["Bass","Dubstep"],"tickets":"https://ra.co/events/2575308","vok":1},
 {"d":"2026-11-28","s":"23:59","e":"06:00","title":"Xperiment Nights","venue":"Kramladen","coll":["Xperiment Records"],"genres":["Techno"],"floors":[{"f":"","a":["Leen Tilt","MORASS","DYMINIX","DJ Ecoton"]}],"flyer":"https://images.ra.co/c90f806da0c53d466641a8a12236c3dc17b551c4.png","note":{"de":"Weitere Ausgabe der Reihe Xperiment Nights des Labels Xperiment Records im Kramladen unter dem Motto „Techno without Judgment!“. Es spielen die Label-Artists Leen Tilt, MORASS und DYMINIX, dazu DJ Ecoton, der nur im Beschreibungstext, nicht aber im RA-Lineup genannt wird. Laut RA Techno, 23:59–06:00. Preis, Mindestalter und Ticketinfos sind nicht angegeben.","en":"Another edition of Xperiment Records' Xperiment Nights series at Kramladen under the motto 'Techno without Judgment!'. Label artists Leen Tilt, MORASS and DYMINIX play, joined by DJ Ecoton, who is named only in the description, not in the RA line-up. According to RA techno, 23:59–06:00. Price, minimum age and ticket details are not given."},"na":["price","tickets","age"],"chk":"2026-11-23","srcChk":"2026-11-23","src":[["ra","https://ra.co/events/2584082"],["ta","https://www.technoairlines.com/events/vienna/2026-11"],["ta","https://www.technoairlines.com/event/xperiment-nights-kramladen-2026-11-28"]]},
 {"d":"2026-11-28","s":"23:59","e":"06:00","title":"SWEAT","venue":"Rhiz","genres":["Breakbeat","Techno"],"floors":[{"f":"","a":["00:00|HYSTERIE","02:00|Frau F","04:00|Nakrasia"]}],"age":"18+","tickets":"https://ra.co/events/2588619","flyer":"https://images.ra.co/9e8ccb75f28c15ee7c9035966327df26abcae8f5.jpg","note":{"de":"Premiere der neuen Reihe SWEAT im Rhiz am Gürtel, initiiert von DJ HYSTERIE. Drei Zwei-Stunden-Sets: HYSTERIE mit Hardgroove, Trance und Peak Time, Frau F mit UK Garage und UK Bass, Nakrasia mit Raw Techno, Hardgroove und Breakbeat. Laut Beschreibung ist der Eintritt eine freie Spende; RA nennt dagegen 10 €. Die Beschreibung spricht von „Fr, 28.11.“ ab 00:00 – der 28. 11. 2026 ist ein Samstag, RA führt Samstag 23:59.","en":"Premiere of the new SWEAT series at Rhiz, started by DJ HYSTERIE. Three two-hour sets: HYSTERIE with hardgroove, trance and peak time, Frau F with UK garage and UK bass, Nakrasia with raw techno, hardgroove and breakbeat. The description says entry is by free donation, while RA lists 10 €. The description mentions 'Fri, 28 Nov' from midnight – 28 Nov 2026 is a Saturday; RA lists Saturday 23:59."},"src":[["ta","https://www.technoairlines.com/event/sweat-rhiz-2026-11-28"],["ra","https://ra.co/events/2588619"]],"chk":"2026-11-20","srcChk":"2026-11-20","ook":1,"coll":["SWEAT"],"price":"10 €"},
@@ -56320,11 +56096,11 @@ const RAW=[
 {"d":"2026-12-05","s":"23:00","e":"05:00","title":"Karotte im Wohnzimmer","venue":"SASS Music Club","floors":[{"f":"","a":["DJ Karotte","Crazy Sonic","Joro & Joabo"]}],"src":[["sa","https://sassvienna.com/en/events/event/dj-karotte-im-wohnzimmer"],["ra","https://ra.co/events/2558624"],["ta","https://www.technoairlines.com/events/vienna/2026-12"],["sa","https://sassvienna.com/de/programm/event/dj-karotte-im-wohnzimmer"],["sa","https://sassvienna.com/de/programm"],["ta","https://www.technoairlines.com/event/karotte-im-wohnzimmer-sass-music-club-2026-12-05"]],"price":"18 €","vok":1,"age":"18+","aw":1,"genres":["House","Tech House"],"chk":"2026-11-22","srcChk":"2026-11-15","flyer":"https://images.ra.co/c854b57bcdbbcf2f8e0aab6be4dbaca8b07f7916.jpg","note":{"de":"Ausgabe der SASS-Reihe „Im Wohnzimmer“, bei der der Club für eine Nacht zum Wohnzimmer wird – diesmal mit Peter Cornely alias DJ Karotte als Gast. Karotte legt seit Ende der 1980er auf und ist auf Dancefloors weltweit bekannt; genannt werden seine Residencies im Cocoon Club (Frankfurt) und im Harry Klein (München), Kollaborationen mit Gregor Tresher und Kaiserdisco sowie seine Radioshow „Karotte’s Kitchen“. Angekündigt sind vielseitige, energiegeladene Sets über mehrere Stunden; dazu spielen Crazy Sonic und Joro & Joabo. Eintritt 18 € inklusive Willkommensgetränk, ab 18 Jahren; ein Awareness-Team ist vor Ort, beim Einlass gibt es Ausweis- und Taschenkontrolle.","en":"Edition of SASS’s “Im Wohnzimmer” series, in which the club turns into a living room for one night – this time with Peter Cornely aka DJ Karotte as guest. Karotte has been DJing since the late 1980s and is known on dancefloors worldwide; his residencies at Cocoon Club (Frankfurt) and Harry Klein (Munich), collaborations with Gregor Tresher and Kaiserdisco and his radio show “Karotte’s Kitchen” are mentioned. Versatile, high-energy sets over several hours are promised; Crazy Sonic and Joro & Joabo also play. Entry €18 including a welcome drink, 18+; an awareness team is on site, with ID and bag checks at the door."},"na":["tickets"]},
 {"d":"2026-12-05","s":"23:00","title":"Bassbehörde","venue":"FLUCC","floors":[{"f":"Wanne","a":["TBA"]}],"note":{"de":"Bassbehörde im FLUCC Wanne ab 23:00. Die Location-Seite nennt bisher nur Titel, Datum und Beginn; Lineup, Preis, Ende und Flyer sind noch nicht veröffentlicht. Im FLUCC-Programm steht für denselben Abend in der Wanne zusätzlich „FSK Atzig“ (ebenfalls 23:00) mit einem gemeinsamen Header-Bild – vermutlich ein Teil derselben Nacht.","en":"Bassbehörde at FLUCC Wanne from 23:00. The venue page so far only lists title, date and start time; lineup, price, end time and flyer have not been published yet. The FLUCC programme also lists 'FSK Atzig' in the Wanne the same night (also 23:00) with a shared header image – presumably part of the same night."},"vok":1,"src":[["fl","https://flucc.at/"],["fl","https://flucc.at/events/D8e6qM-bassbeh%C3%B6rde/"],["fl","https://www.flucc.at/events/D8e6qM-bassbehörde/"]],"chk":"2026-11-23","srcChk":"2026-11-23","aw":1,"genres":["Drum & Bass","Techno"],"gAuto":1,"na":["lineup","price","e","flyer","tickets","age"]},
 {"d":"2026-12-05","s":"23:00","e":"06:00","title":"Techno Entgleist w/ Nakadia & BOHO","venue":"Grelle Forelle","coll":["Techno Entgleist","LSH"],"genres":["Techno","House"],"floors":[{"f":"Hauptbahnhof","a":["Nakadia","BOHO","VIBECHEN"]},{"f":"Speisewagen","a":["DANLOE","TONY V","TRÈS JULIE"]}],"head":["Nakadia"],"age":"21+","tickets":"https://events.tickethead.io/en/tickethead/event/6001","flyer":"https://images.ra.co/4335527d7a35e34c2b39dc316afa6360fb2185bf.png","note":{"de":"Techno Entgleist holt Nakadia nach zehn Jahren zurück nach Wien. Die Künstlerin ist seit über 20 Jahren international aktiv und spielte u. a. auf der Love Parade, beim Tomorrowland und am Sziget. Dazu kommt BOHO aus Berlin auf dem Floor 'Hauptbahnhof'. Im 'VIBECHEN Speisewagen' legen DANLOE, TONY V und TRÈS JULIE auf. Veranstaltet von Les Suspects Habituels, Einlass ab 21.","en":"Techno Entgleist brings Nakadia back to Vienna after ten years. She has been active on the international scene for over 20 years, with appearances at Love Parade, Tomorrowland and Sziget. She is joined by BOHO from Berlin on the 'Hauptbahnhof' floor. DANLOE, TONY V and TRÈS JULIE play the 'VIBECHEN Speisewagen' floor. Hosted by Les Suspects Habituels, entry 21+."},"src":[["ra","https://ra.co/events/2586376"],["th","https://events.tickethead.io/en/tickethead/event/6001"]],"chk":"2026-11-20","srcChk":"2026-11-20","price":"12–15 €"},
-{"d":"2026-12-05","s":"23:00","e":"06:00","title":"TECHNO OBSCENE #36 – NINE O NINE x LSH","venue":"Das Werk","coll":["Nine O Nine","LSH","909techno","Techno Obscene"],"genres":["Techno"],"floors":[{"f":"","a":["Albin Brezlan","Dimitri Cooman","Huebl","Invda","Schwarzmarct","Serena"]}],"price":"10–15 € (1. Welle 9,09 €)","age":"18+","flyer":"https://images.ra.co/47750bf1b29b31af5af159cea91ea81ea998c81d.png","note":{"de":"Die 36. Ausgabe der Reihe TECHNO OBSCENE von NINE O NINE und LSH bringt rohen, dreckigen Techno auf zwei Floors ins Werk. Es spielen Albin Brezlan, Dimitri Cooman, Huebl, Invda, Schwarzmarct und Serena. Die Veranstalter versprechen einen Raum ohne Labels und Urteile. Es gilt Null-Toleranz gegenüber Homophobie, Sexismus, Rassismus und Hass, dazu eine No-Photo-Policy und 'No Shirt, No Party'.","en":"The 36th edition of NINE O NINE and LSH's TECHNO OBSCENE series brings raw, dirty techno across two floors at Das Werk. The lineup features Albin Brezlan, Dimitri Cooman, Huebl, Invda, Schwarzmarct and Serena. The organisers promise a space without labels or judgement. Zero tolerance for homophobia, sexism, racism and hate applies, along with a no-photo policy and 'No Shirt, No Party'."},"nophoto":1,"src":[["ra","https://ra.co/events/2586314"]],"na":["tickets"],"chk":"2026-11-17","srcChk":"2026-11-17"},
+{"d":"2026-12-05","s":"23:00","e":"06:00","title":"TECHNO OBSCENE #36 – NINE O NINE x LSH","venue":"Das Werk","coll":["Nine O Nine","LSH","Techno Obscene"],"genres":["Techno"],"floors":[{"f":"","a":["Albin Brezlan","Dimitri Cooman","Huebl","Invda","Schwarzmarct","Serena"]}],"price":"10–15 € (1. Welle 9,09 €)","age":"18+","flyer":"https://images.ra.co/47750bf1b29b31af5af159cea91ea81ea998c81d.png","note":{"de":"Die 36. Ausgabe der Reihe TECHNO OBSCENE von NINE O NINE und LSH bringt rohen, dreckigen Techno auf zwei Floors ins Werk. Es spielen Albin Brezlan, Dimitri Cooman, Huebl, Invda, Schwarzmarct und Serena. Die Veranstalter versprechen einen Raum ohne Labels und Urteile. Es gilt Null-Toleranz gegenüber Homophobie, Sexismus, Rassismus und Hass, dazu eine No-Photo-Policy und 'No Shirt, No Party'.","en":"The 36th edition of NINE O NINE and LSH's TECHNO OBSCENE series brings raw, dirty techno across two floors at Das Werk. The lineup features Albin Brezlan, Dimitri Cooman, Huebl, Invda, Schwarzmarct and Serena. The organisers promise a space without labels or judgement. Zero tolerance for homophobia, sexism, racism and hate applies, along with a no-photo policy and 'No Shirt, No Party'."},"nophoto":1,"src":[["ra","https://ra.co/events/2586314"]],"na":["tickets"],"chk":"2026-11-17","srcChk":"2026-11-17"},
 {"d":"2026-12-05","s":"23:00","e":"06:00","title":"IAN ASHER pres. by Prater DOME","venue":"Prater Dome","genres":["EDM","House"],"floors":[{"f":"Main Floor","a":["Ian Asher","LEVEX","LUC"]},{"f":"Second Floor","a":["BREEZY"]},{"f":"Classics Floor","a":["BURNHARD"]}],"head":["Ian Asher"],"price":"VVK 16,35–17,93 € / Fast Lane 26,92 €","age":"18+","tickets":"https://praterdome.at/en/events/ian-asher-pres-by-prater-dome-05-12-2026","flyer":"https://prater-dome.disco2app.com/media/cache/web/events/450/image/67068.webp?datetime=1793789194","note":{"de":"Ian Asher gibt am 5. Dezember sein Debüt im Prater DOME. Der Produzent ist für Hits wie „Desire“, „Makeba“, „Black Out Days (Stay Away)“ und „Runaway (U & I)“ bekannt und bringt laut Prater DOME seinen typischen House-Sound erstmals nach Wien. Am Main Floor (EDM, Clubtunes) spielen außerdem LEVEX und LUC als Support. Dazu kommen der Second Floor mit HipHop und Black Music (BREEZY), der Classics Floor (BURNHARD) und die Rooftop-Area mit Chill-out-Beats. Einlass ab 23:00, ab 18 Jahren; Abendkassa laut Prater DOME noch TBA.","en":"Ian Asher makes his Prater DOME debut on 5 December. Known for hits such as “Desire”, “Makeba”, “Black Out Days (Stay Away)” and “Runaway (U & I)”, he brings his signature house sound to Vienna for the first time, according to Prater DOME. LEVEX and LUC support on the Main Floor (EDM, club tunes). There is also the Second Floor with hip-hop and black music (BREEZY), the Classics Floor (BURNHARD) and the rooftop area with chill-out beats. Doors 23:00, 18+; box office still TBA according to Prater DOME."},"io":["Indoor"],"vok":1,"chk":"2026-11-20","srcChk":"2026-11-20","src":[["pd","https://praterdome.at/en/events/ian-asher-pres-by-prater-dome-05-12-2026"],["pd","https://www.praterdome.at/"]]},
 {"d":"2026-12-05","s":"23:00","title":"allowed to drift","venue":"The Inner Circle","floors":[{"f":"","a":["Gustuff","Experimental","Empat"]}],"tickets":"https://ra.co/events/2590644","note":{"de":"Clubnacht „allowed to drift“ im The Inner Circle in Liesing, ab 23 Uhr. Laut Techno Airlines und RA spielen Gustuff, Experimental und Empat. Weitere Details wie Preis und Ende sind bisher nicht bekannt.","en":"Club night 'allowed to drift' at The Inner Circle in Liesing, from 11 pm. According to Techno Airlines and RA, Gustuff, Experimental and Empat play. Further details such as price and closing time are not yet known."},"chk":"2026-11-23","srcChk":"2026-11-23","na":["price","e","flyer"],"src":[["ta","https://www.technoairlines.com/events/vienna/2026-12"],["ra","https://ra.co/events/2590644"]]},
 {"d":"2026-12-05","s":"23:30","e":"04:00","title":"Krampus Beats","venue":"Loop","coll":["Fourcast"],"genres":["Drum & Bass"],"floors":[{"f":"","a":["Elective","Mazimo","Twenty-Two","Volun"]}],"price":"Freie Spende","flyer":"https://loop.co.at/wp-content/uploads/2026/11/Fourcast_Krampus_Beats__5_12_26-scaled.jpg","note":{"de":"Krampus-Ausgabe der Wiener Drum-and-Bass-Crew Fourcast in der Loop Bar am Gürtel, passend zum Krampustag. Es spielen die Fourcast-Residents Elective, Mazimo, Twenty-Two und Volun. Der Abend steht ganz im Zeichen von Drum and Bass. Eintritt gegen freie Spende, von 23:30 bis 04:00.","en":"Krampus edition by Vienna drum and bass crew Fourcast at Loop Bar on the Gürtel, timed for Krampus night. Fourcast residents Elective, Mazimo, Twenty-Two and Volun play. The night is all about drum and bass. Entry by voluntary donation, from 23:30 to 04:00."},"vok":1,"chk":"2026-11-18","srcChk":"2026-11-18","src":[["lp","https://loop.co.at/events/kategorie/club/"],["lp","https://loop.co.at/event/krampus-beats_5_12_26/"],["ra","https://ra.co/events/2586162"]]},
-{"d":"2026-12-05","s":"23:59","e":"05:30","title":"KRAMPUS RAVE by KRAWALL","venue":"Club Lucia","coll":["KRAWALL"],"genres":["Trance","Techno"],"floors":[{"f":"","a":["TONKS","maro","Elyante","Schana","Kippenhaus","Jokkel","Evi B","DJ Hueftschwung"]}],"head":["TONKS","maro"],"price":"10 € (AK)","age":"18+","tickets":"https://ra.co/events/2581841","flyer":"https://www.clublucia.at/wp-content/uploads/2026/11/Lucia-5-12-26-Krawall-e1794911015220.png","note":{"de":"Das Kölner Kollektiv KRAWALL gibt mit dem Krampus Rave sein internationales Debüt im Club Lucia und bringt seine komplette Kölner Resident-Crew (Elyante, Schana, Kippenhaus, Jokkel, Evi B, DJ Hueftschwung) nach Wien. Anlass sind vier Jahre KRAWALL-Partys mit elektronischer Musik. Als lokale Unterstützung aus Wien sind TONKS und maro angekündigt. Motto: „Cologne meets Vienna. Same energy. New city.“ Laut RA Trance und Techno, ab 18 Jahren; Eintritt 10 € an der Abendkassa. Beginn laut Club Lucia 23:59 (RA nannte zuvor 22:00), Ende 05:30.","en":"Cologne collective KRAWALL makes its international debut at Club Lucia with the Krampus Rave, bringing its full Cologne resident crew (Elyante, Schana, Kippenhaus, Jokkel, Evi B, DJ Hueftschwung) to Vienna. The night marks four years of KRAWALL electronic music parties. TONKS and maro are billed as local support from Vienna. Tagline: \"Cologne meets Vienna. Same energy. New city.\" RA lists trance and techno, 18+; entry 10 € at the door. Start according to Club Lucia 23:59 (RA previously said 22:00), ending 05:30."},"src":[["ra","https://ra.co/events/2581841"],["ta","https://www.technoairlines.com/event/krampus-rave-by-krawall-club-lucia-2026-12-05"],["cl","https://www.clublucia.at/page/3/"],["cl","https://www.clublucia.at/event/krampus-rave-by-krawall/"]],"chk":"2026-11-18","srcChk":"2026-11-15","vok":1},
+{"d":"2026-12-05","s":"23:59","e":"05:30","title":"KRAMPUS RAVE by KRAWALL","venue":"Club Lucia","coll":["KRAWALL"],"genres":["Trance","Techno"],"floors":[{"f":"","a":["TONKS","MARØ","Elyante","Schana","Kippenhaus","Jokkel","Evi B","DJ Hueftschwung"]}],"head":["TONKS","MARØ"],"price":"10 € (AK)","age":"18+","tickets":"https://ra.co/events/2581841","flyer":"https://www.clublucia.at/wp-content/uploads/2026/11/Lucia-5-12-26-Krawall-e1794911015220.png","note":{"de":"Das Kölner Kollektiv KRAWALL gibt mit dem Krampus Rave sein internationales Debüt im Club Lucia und bringt seine komplette Kölner Resident-Crew (Elyante, Schana, Kippenhaus, Jokkel, Evi B, DJ Hueftschwung) nach Wien. Anlass sind vier Jahre KRAWALL-Partys mit elektronischer Musik. Als lokale Unterstützung aus Wien sind TONKS und maro angekündigt. Motto: „Cologne meets Vienna. Same energy. New city.“ Laut RA Trance und Techno, ab 18 Jahren; Eintritt 10 € an der Abendkassa. Beginn laut Club Lucia 23:59 (RA nannte zuvor 22:00), Ende 05:30.","en":"Cologne collective KRAWALL makes its international debut at Club Lucia with the Krampus Rave, bringing its full Cologne resident crew (Elyante, Schana, Kippenhaus, Jokkel, Evi B, DJ Hueftschwung) to Vienna. The night marks four years of KRAWALL electronic music parties. TONKS and maro are billed as local support from Vienna. Tagline: \"Cologne meets Vienna. Same energy. New city.\" RA lists trance and techno, 18+; entry 10 € at the door. Start according to Club Lucia 23:59 (RA previously said 22:00), ending 05:30."},"src":[["ra","https://ra.co/events/2581841"],["ta","https://www.technoairlines.com/event/krampus-rave-by-krawall-club-lucia-2026-12-05"],["cl","https://www.clublucia.at/page/3/"],["cl","https://www.clublucia.at/event/krampus-rave-by-krawall/"]],"chk":"2026-11-18","srcChk":"2026-11-15","vok":1},
 {"d":"2026-12-06","s":"13:00","e":"18:00","title":"Untz Baby Untz – Nikolo im Funkhaus","venue":"Funkhaus","coll":["Untz Baby Untz"],"genres":["Techno","House"],"price":"13 €","tickets":"https://ra.co/events/2568943","note":{"de":"Untz Baby Untz ist eine familien- und kinderfreundliche Day-Rave-Reihe; die Nikolo-Ausgabe im Funkhaus ist laut Veranstalter das erste Indoor-Event der Reihe. Von 13:00 bis 18:00 legen Max Wanderer, Catlex und SHIZZLE Techno und House auf. Geplant sind außerdem ein Kinder-Yoga-Warm-up, eine kreative Weihnachts-Bastelecke, Essen und Getränke sowie möglicherweise ein Special Guest. Tickets um 13 € gibt es im Vorverkauf über Resident Advisor; Kinder unter 16 haben ohne Ticket freien Eintritt.","en":"Untz Baby Untz is a family- and kid-friendly day-rave series; the Nikolo edition at Funkhaus is, according to the organisers, the series' first indoor event. From 13:00 to 18:00 Max Wanderer, Catlex and SHIZZLE play techno and house. Also planned are a kids' yoga warm-up, a creative Christmas craft corner, food and drinks and possibly a special guest. Tickets at €13 are on presale via Resident Advisor; children under 16 get in free without a ticket."},"src":[["ra","https://ra.co/events/2568943"],["ta","https://www.technoairlines.com/event/untz-baby-untz-nikolo-in-the-funkhaus-funkhaus-2026-12-06"],["ta","https://www.technoairlines.com/events/vienna/2026-12"],["ra","https://de.ra.co/events/2568943"]],"floors":[{"f":"","a":["Max Wanderer","Catlex","SHIZZLE"]}],"chk":"2026-11-22","srcChk":"2026-11-15","flyer":"https://images.ra.co/a963845cf4d38e49876afd4c9981819ef83fe30b.png"},
 {"d":"2026-12-07","s":"17:00","title":"MELODIC MONDAY X-Mas Dayparty – Afro Tech & Melodic House","venue":"LIA Coffee WU Campus","coll":["Melodic Monday"],"genres":["Afro Tech","Melodic House"],"floors":[{"f":"","a":["Mat Schubert"]}],"note":{"de":"Weihnachtliche Daytime-Ausgabe der Wiener Afterwork-Reihe Melodic Monday, diesmal im LIA Coffee am WU Campus. Laut Ankündigung gibt es Afro Tech und Melodic House, genannt ist bisher Mat Schubert. Weitere Acts, Preis und Endzeit sind noch nicht bekannt.","en":"Christmas daytime edition of the Vienna afterwork series Melodic Monday, this time at LIA Coffee on the WU Campus. The listing promises Afro Tech and Melodic House, with Mat Schubert announced so far. Further acts, price and end time are not yet known."},"chk":"2026-11-23","srcChk":"2026-11-23","src":[["ta","https://www.technoairlines.com/events/vienna/2026-12"],["ra","https://ra.co/events/2585640"]],"flyer":"https://images.ra.co/6fbe3f87ae7e8fc9fd08086fd6951ea9e175eb30.png","e":"00:00","na":["price","tickets"]},
 {"d":"2026-12-07","s":"18:00","title":"Expedition im Traumtempo by Garten von Eben & unlock|me","venue":"FLUCC","coll":["Garten von Eben","unlock|me"],"floors":[{"f":"Deck","a":["20:00|MA7A","20:00|Paul Parsel","22:00|Sia Moan","23:30|Lipo","01:00|Bowiedl & Gorman","02:30|Nugi","04:00|Tribea"]},{"f":"Wanne","a":["21:30|L!KA","23:00|Achronon","00:30|Eren Duman","02:00|Otto Wagina","03:30|Moodshifter","03:30|zwb"]}],"price":"VVK 17 € / mit Workshop 27 € / AK 17 € bis 21 Uhr, danach 22 €","tickets":"https://ticketfy.at/events/expedition-im-traumtempo","flyer":"https://assets-flucc-at.fra1.digitaloceanspaces.com/flucc-at-uploads/images/071226_Expedition-im-Traumtempo_v10_Wanne_.min-2560x1440.jpg","note":{"de":"Abschiedsfest in Traumtempo-Manier von Garten von Eben und unlock|me über beide FLUCC-Floors: Marius verabschiedet sich in eine wohlverdiente Ruhepause und lädt alle Freund:innen zu einer letzten gemeinsamen Traumreise ein, getanzt wird bis in den Morgen. Um 18 Uhr beginnt am Deck ein Connected-Breathwork-Workshop mit Olivia (nur mit Vorverkaufsticket inkl. Workshop), ab 20 Uhr Club am Deck, ab 21:30 in der Wanne. Am Deck spielen u. a. MA7A b2b Paul Parsel, Sia Moan, Lipo, Bowiedl & Gorman, Nugi und Tribea (wundertüte.), in der Wanne L!KA, Achronon live, Eren Duman, Otto Wagina sowie Moodshifter b2b zwb.","en":"A farewell party in Traumtempo style by Garten von Eben and unlock|me across both FLUCC floors: Marius is heading into a well-earned break and invites all his friends on one last shared dream journey, dancing until the morning. At 6 pm a Connected Breathwork workshop with Olivia starts on the Deck (presale ticket incl. workshop only), the club opens on the Deck at 8 pm and in the Wanne at 9:30 pm. The Deck features MA7A b2b Paul Parsel, Sia Moan, Lipo, Bowiedl & Gorman, Nugi and Tribea (wundertüte.), the Wanne L!KA, Achronon live, Eren Duman, Otto Wagina and Moodshifter b2b zwb."},"vok":1,"aw":1,"chk":"2026-11-20","srcChk":"2026-11-20","src":[["fl","https://flucc.at/events/iGHALN-unlockme-garten-von-eben/"],["tfy","https://ticketfy.at/events/expedition-im-traumtempo"]],"genres":["Downtempo","Psy Techno"],"man":1},
@@ -56365,7 +56141,7 @@ const RAW=[
 {"d":"2026-12-18","s":"22:00","title":"Housetiere with POSI FLO","venue":"Tagada","coll":["Housetiere"],"floors":[{"f":"","a":["POSI FLO","PJPJPJ","Julani","j.around"]}],"head":["POSI FLO"],"note":{"de":"Ausgabe der Wiener Reihe Housetiere (HOUSETIERE vienna) im Tagada mit POSI FLO als Gast. POSI FLO ist eine auf Mallorca lebende Vinyl-DJ und visuelle Künstlerin mit portugiesisch-südafrikanischen Wurzeln; ihre rein analogen Sets verbinden House, Dub Techno, Detroit Techno, Deep House und Electro, aufgetreten ist sie u. a. in Spanien, Tschechien und Südafrika. Als lokaler Support spielen PJPJPJ, Julani und j.around. Laut RA läuft die Nacht von 22:00 bis 04:00; Preise, Ticketverkauf und Mindestalter waren noch nicht angegeben.","en":"Edition of the Viennese series Housetiere (HOUSETIERE vienna) at Tagada with POSI FLO as guest. POSI FLO is a Mallorca-based vinyl DJ and visual artist with Portuguese-South African roots; her strictly analogue sets blend house, dub techno, Detroit techno, deep house and electro, and she has played in Spain, the Czech Republic and South Africa among others. Local support comes from PJPJPJ, Julani and j.around. According to RA the night runs from 22:00 to 04:00; prices, ticket sales and minimum age were not yet listed."},"ook":1,"src":[["ta","https://www.technoairlines.com/events/vienna/2026-12"],["ta","https://www.technoairlines.com/event/housetiere-with-posi-flo-tagada-2026-12-18"],["ra","https://ra.co/events/2564712"],["ft","https://frey-tag.at/locations/tagada"]],"chk":"2026-11-23","srcChk":"2026-11-23","e":"04:00","flyer":"https://images.ra.co/4a73c1219a41d9ef4569e1140724d248b66869e4.jpg","genres":["House","Dub Techno"],"na":["price","tickets"]},
 {"d":"2026-12-18","s":"22:00","e":"06:00","title":"NachtAktiv presents PsyJungle","venue":"The Chamber","coll":["NachtAktiv"],"genres":["Psytrance"],"floors":[{"f":"","a":["Lee U Mash","Oblix","Opthix","Petronik"]}],"price":"freie Spende","note":{"de":"Psytrance-Nacht von NachtAktiv in The Chamber am Hernalser Gürtel (laut aktualisiertem goabase-Eintrag), Freitag 22:00 bis Samstag 06:00. Es spielen Lee U Mash, Oblix (Psytrance Universe), Opthix (Beat Progression, Tirol) und Petronik; Eintritt gegen freie Spende.","en":"Psytrance night by NachtAktiv at The Chamber on Hernalser Gürtel (according to the updated goabase listing), Friday 22:00 to Saturday 06:00. Playing are Lee U Mash, Oblix (Psytrance Universe), Opthix (Beat Progression, Tyrol) and Petronik; entry by donation."},"src":[["gb","https://www.goabase.net/de/party/nachtaktiv-presents-psyjungle/118458"]],"na":["tickets"],"chk":"2026-11-20","srcChk":"2026-11-20","flyer":"https://img.goabase.net/images/flyer/full/20261218_nachtaktiv-presents-psyjungle_20261119161036.png","io":["Indoor"]},
 {"d":"2026-12-18","s":"23:00","title":"HERZFREQUENZ WEEKENDER: DAY 1","venue":"Das Werk","coll":["Herzfrequenz"],"floors":[{"f":"","a":["Joey","Kø:lab","carlo kalu","HNAS","Kat Ze","Crystal O","YØNDER","Grafus","JO Trauner","keha"]}],"tickets":"https://ra.co/events/2382541","note":{"de":"Auftakt des zweitägigen HERZFREQUENZ Weekenders im Werk (Tag 1, ab 23:00). Angekündigt sind Joey, Kø:lab, carlo kalu, HNAS, Kat Ze, Crystal O, YØNDER, Grafus, JO Trauner und keha; am Folgetag (19.12.) geht der Weekender mit Joey und Amøn weiter. Preise sind noch nicht veröffentlicht, Tickets über Resident Advisor.","en":"Opening night of the two-day HERZFREQUENZ Weekender at Das Werk (day 1, from 23:00). Announced are Joey, Kø:lab, carlo kalu, HNAS, Kat Ze, Crystal O, YØNDER, Grafus, JO Trauner and keha; the weekender continues the next day (19 Dec) with Joey and Amøn. Prices have not been published yet; tickets via Resident Advisor."},"ook":1,"src":[["ta","https://www.technoairlines.com/events/vienna/2026-12"],["ta","https://www.technoairlines.com/event/herzfrequenz-das-werk-2026-12-18"],["ra","https://ra.co/events/2382541"],["ev","https://events.at/event/herzfrequenz-weekender"]],"chk":"2026-11-23","srcChk":"2026-11-23","flyer":"https://images.ra.co/51db52291850a6991d048baa0006d9364cf733f6.jpg","na":["e","price"],"genres":["Hard Techno","Trance","Techno"],"gAuto":1},
-{"d":"2026-12-18","s":"23:00","title":"CYBERTRIBE pres. CLUB GSPUSI","venue":"The Loft","coll":["Cybertribe"],"floors":[{"f":"Oben","a":["Who is Ela¿","maro","Aschenbrenner","Suitside","DizzyDray"]},{"f":"Unten","a":["AVO2X","ENJA","Goldi","WO.IZZY","Scheibenwischer","DJ Backstage"]}],"price":"10–15 €","vok":1,"note":{"de":"Das Wiener Kollektiv Cybertribe präsentiert „Club Gspusi“ im Loft – angekündigt als „deine neue Lieblingsbekanntschaft mit einer Schwäche für schnelle Musik“. Oben läuft Trance und Bounce mit Who is Ela¿ b2b maro, Aschenbrenner b2b Suitside sowie DizzyDray b2b Who is Ela¿. Unten gibt es House und Speed Garage mit AVO2X b2b ENJA, Goldi b2b WO.IZZY und Scheibenwischer b2b DJ Backstage. Beginn 23:00, Eintritt 10–15 €, ab 18; der Loft betont einen sicheren, inklusiven Dancefloor ohne Diskriminierung.","en":"Viennese collective Cybertribe presents “Club Gspusi” at The Loft – billed as “your new favourite acquaintance with a weakness for fast music”. Upstairs plays trance and bounce with Who is Ela¿ b2b maro, Aschenbrenner b2b Suitside and DizzyDray b2b Who is Ela¿. Downstairs features house and speed garage with AVO2X b2b ENJA, Goldi b2b WO.IZZY and Scheibenwischer b2b DJ Backstage. Starts 23:00, entry €10–15, 18+; The Loft stresses a safe, inclusive dancefloor free of discrimination."},"chk":"2026-11-23","srcChk":"2026-11-23","src":[["lo","https://www.theloft.at/programm/"],["lo","https://www.theloft.at/cybertribe-pres-club-gspusi/"]],"age":"18+","genres":["Trance","Bounce","House","Speed Garage"],"na":["flyer","tickets","e"]},
+{"d":"2026-12-18","s":"23:00","title":"CYBERTRIBE pres. CLUB GSPUSI","venue":"The Loft","coll":["Cybertribe"],"floors":[{"f":"Oben","a":["Who is Ela¿","MARØ","Aschenbrenner","Suitside","DizzyDray"]},{"f":"Unten","a":["AVO2X","ENJA","Goldi","WO.IZZY","Scheibenwischer","DJ Backstage"]}],"price":"10–15 €","vok":1,"note":{"de":"Das Wiener Kollektiv Cybertribe präsentiert „Club Gspusi“ im Loft – angekündigt als „deine neue Lieblingsbekanntschaft mit einer Schwäche für schnelle Musik“. Oben läuft Trance und Bounce mit Who is Ela¿ b2b maro, Aschenbrenner b2b Suitside sowie DizzyDray b2b Who is Ela¿. Unten gibt es House und Speed Garage mit AVO2X b2b ENJA, Goldi b2b WO.IZZY und Scheibenwischer b2b DJ Backstage. Beginn 23:00, Eintritt 10–15 €, ab 18; der Loft betont einen sicheren, inklusiven Dancefloor ohne Diskriminierung.","en":"Viennese collective Cybertribe presents “Club Gspusi” at The Loft – billed as “your new favourite acquaintance with a weakness for fast music”. Upstairs plays trance and bounce with Who is Ela¿ b2b maro, Aschenbrenner b2b Suitside and DizzyDray b2b Who is Ela¿. Downstairs features house and speed garage with AVO2X b2b ENJA, Goldi b2b WO.IZZY and Scheibenwischer b2b DJ Backstage. Starts 23:00, entry €10–15, 18+; The Loft stresses a safe, inclusive dancefloor free of discrimination."},"chk":"2026-11-23","srcChk":"2026-11-23","src":[["lo","https://www.theloft.at/programm/"],["lo","https://www.theloft.at/cybertribe-pres-club-gspusi/"]],"age":"18+","genres":["Trance","Bounce","House","Speed Garage"],"na":["flyer","tickets","e"]},
 {"d":"2026-12-18","s":"23:00","title":"RITUAL x YN w/ Chris Liebing","venue":"Club Exil","coll":["YN Collective","Ritual"],"floors":[{"f":"","a":["Chris Liebing","TBA"]}],"head":["Chris Liebing"],"price":"VVK 16 €","tickets":"https://exil.ticket.io/ZmV6yZRu/","vok":1,"note":{"de":"Die Reihen RITUAL und YN holen Chris Liebing in den Club Exil in Vösendorf. Beginn 23:00, Vorverkauf 16 € über den Ticketshop des Exil. Ein weiteres Lineup ist laut Programm der Location noch nicht genannt.","en":"The series RITUAL and YN bring Chris Liebing to Club Exil in Vösendorf. Starts 23:00, presale €16 via Exil's ticket shop. No further lineup has been announced on the venue's programme yet."},"chk":"2026-11-22","srcChk":"2026-11-12","src":[["ex","https://www.club-exil.at/en"],["ra","https://ra.co/events/2587053"]],"flyer":"https://images.ra.co/b2bb56890e4ed8eb5fcc5197081039d3f2dc27c4.png","e":"06:00","genres":["Techno"],"gAuto":1},
 {"d":"2026-12-18","s":"23:00","title":"PRST invites The Trip","venue":"PRST","floors":[{"f":"","a":["The Trip"]}],"head":["The Trip"],"price":"Early Bird 12 €","tickets":"https://prst.ticket.io/WiuDDHau/","flyer":"https://cdn.ticket.io/companies/s0DwsOAX/events/WiuDDHau/img/holder-1080.jpg?bd93e145","vok":1,"note":{"de":"Die PRST holt im Rahmen ihrer Reihe „PRST invites“ The Trip in den Club in der Praterstraße; The Trip war bereits im Februar 2026 Gast einer gleichnamigen Nacht. Beginn ist um 23 Uhr. Im PRST-Ticketshop sind bisher nur Early-Bird-Tickets zu 12 € erhältlich; weitere Acts, Ende und Beschreibung sind noch nicht veröffentlicht.","en":"PRST brings The Trip to its club on Praterstraße as part of its 'PRST invites' series; The Trip was already the guest of a night of the same name in February 2026. Doors at 23:00. The PRST ticket shop currently offers only early-bird tickets at €12; further acts, end time and description have not been published yet."},"chk":"2026-11-20","srcChk":"2026-11-20","src":[["pr","https://prst.ticket.io/WiuDDHau/"],["pr","https://prst.ticket.io/"]],"na":["e"],"genres":["Tech House"],"gAuto":1},
 {"d":"2026-12-18","s":"23:00","title":"December-Transmission","venue":"O der Klub","genres":["Melodic House","Techno"],"floors":[{"f":"Core","a":["TBA"]},{"f":"Orbit","a":["TBA"]},{"f":"Konsulat","a":["TBA"]}],"price":"8–12 €","tickets":"https://shop.o-klub.at/shop/registrations?event_id=81a5a2cd-1739-49d3-9f0f-5540ce4d546e","flyer":"https://o-klub.at/wp-content/uploads/2026/11/1812_feed-web.jpg","note":{"de":"Monatliche „Transmission“-Nacht im O – der Klub unter dem Motto „Three floors, one night“: Core mit Hits & Classics, Orbit mit Melodic House & Techno und das Konsulat mit Hip-Hop & Urban. DJs sind noch nicht genannt. Beginn 23:00, Tickets 8–12 €, Dresscode casual chic.","en":"Monthly 'Transmission' night at O – der Klub under the motto 'Three floors, one night': Core with hits & classics, Orbit with melodic house & techno and the Konsulat with hip-hop & urban. No DJs announced yet. Starts 23:00, tickets €8–12, dress code casual chic."},"vok":1,"na":["e","lineup"],"src":[["ok","https://o-klub.at/events/december-transmission-2/"],["ok","https://o-klub.at/event-type/transmission/"],["ok","https://o-klub.at/events/"],["edm","https://electronicdancemusic.at/kalender/wien/"]],"chk":"2026-11-23","srcChk":"2026-11-23"},
@@ -56401,7 +56177,7 @@ const RAW=[
 {"d":"2027-01-29","s":"21:00","e":"06:00","title":"Paradise Winter Festival 2027 – Nacht 1","venue":"BC Vienna Arena","coll":["FromDuskTillDawn"],"genres":["Psytrance","Goa"],"floors":[{"f":"","a":["Astrix","Blastoyz","Phaxe","Faders","Klopfgeister","Sonic Species","Misaya","Exelog","Serex","Oblix","Progtamin","Fullip","Marakame","Bornvoyage","Vibechen","Hanneken","Tolaris","PA_olo","Romen Est Omen","Cougar","Anatol","Auroria","Kayara","Cheddar Boyz","Synaptikon"]}],"tickets":"https://mado.ticket.io/7W7zDGvt/","flyer":"https://img.goabase.net/images/flyer/full/20270129_paradise-winter-festival-2027_20261102171119.jpg","note":{"de":"Erste Nacht des Paradise Winter Festival 2027 in der BC Vienna Arena (ehemals Hallmann Dome, Gutheil-Schoder-Gasse 9, 1100 Wien), veranstaltet von FromDuskTillDawn. International angekündigt sind Astrix, Blastoyz, Phaxe, Faders, Klopfgeister und Sonic Species, dazu rund 20 Acts aus Österreich; auf welche der beiden Nächte sie verteilt sind, ist noch nicht veröffentlicht. Zwei Stages auf 2000 m² mit großem Mainfloor, Chill-out-Bereichen und einer zweiten Stage für Psytrance und Progressive, außerdem Food Corner und Shopping-Bereich. Beginn jeweils 21:00, keine durchgehende Veranstaltung; Loyalty- und Early-Bird-Pässe sind ausverkauft, der reguläre Wochenend-Festivalpass ist im Verkauf. Eintritt ab 18 (Ausweis mitnehmen).","en":"First night of Paradise Winter Festival 2027 at BC Vienna Arena (formerly Hallmann Dome, Gutheil-Schoder-Gasse 9, 1100 Vienna), organised by FromDuskTillDawn. Announced internationals are Astrix, Blastoyz, Phaxe, Faders, Klopfgeister and Sonic Species, plus around 20 acts from Austria; how they are split across the two nights has not been published yet. Two stages on 2,000 m² with a huge main floor, chill-out areas and a second stage for psytrance and progressive, plus a food corner and shopping area. Doors at 21:00 each night, not a continuous event; loyalty and early-bird passes are sold out, the regular weekend festival pass is on sale. 18+ (bring ID)."},"src":[["vo","https://www.volume.at/events/paradise-winter-festival-2027-2027-01-29/"],["gb","https://www.goabase.net/de/party/paradise-winter-festival-2027/118070"],["sha","https://shamanz.online/party/336/paradise-winter-festival-2027"]],"chk":"2026-11-20","na":["price"],"age":"18+","srcChk":"2026-11-20"},
 {"d":"2027-01-29","s":"22:00","title":"Titti Titti Bang Bang","venue":"The Loft","coll":["Titti Queer Club"],"genres":["Pop","Techno","House"],"lgbtq":1,"floors":[{"f":"Oben","a":["TBA"]},{"f":"Unten","a":["TBA"]},{"f":"Wohnzimmer","a":["TBA"]}],"price":"10–15 €","age":"18+","note":{"de":"Die queere Partyreihe Titti lädt wieder als „Titti Titti Bang Bang“ auf drei Floors ins The Loft (Oben, Unten, Wohnzimmer) – mit Pop, gemischtem Floor sowie Techno/House. Drags und Glitzer sind angekündigt; das DJ-Lineup verweist auf die TTBB-Website. Alle Geschlechter willkommen, Sexismus, Homophobie, Rassismus und Body-Shaming haben keinen Platz. Eintritt 10/15 €, Einlass ab 18.","en":"The queer party series Titti returns as 'Titti Titti Bang Bang' on three floors at The Loft (Oben, Unten, Wohnzimmer) – with pop, a mixed floor and techno/house. Drags and glitter are announced; the DJ line-up is referred to the TTBB website. All genders welcome; sexism, homophobia, racism and body-shaming have no place. Entry €10/15, 18+."},"vok":1,"na":["tickets","flyer","lineup"],"src":[["lo","https://www.theloft.at/titti-titti-bang-bang-15/"],["lo","https://www.theloft.at/programm/"],["lo","https://theloft.stager.co/shop/default/events/111685670"]],"chk":"2026-11-20","srcChk":"2026-11-20","e":"05:00"},
 {"d":"2027-01-29","s":"23:00","e":"06:00","title":"Charlie Sparks","venue":"O der Klub","coll":["SIGNAL"],"genres":["Hard Techno","Acid"],"floors":[{"f":"","a":["Charlie Sparks"]}],"price":"15–25 €","age":"18+","tickets":"https://o-klub.at/events/charlie-sparks/","flyer":"https://images.ra.co/540944fec4d11977991131cf19e88d8b78fb223e.jpg","note":{"de":"SIGNAL holt die britische Hard-Techno-Künstlerin Charlie Sparks rund eineinhalb Jahre nach ihrem letzten Auftritt zurück – ein Sound aus Acid, Industrial, Rave und Psytrance-Einflüssen mit treibenden Rhythmen und harten Drops. 23:00–06:00, Tickets 15–25 €.","en":"SIGNAL brings back British hard techno artist Charlie Sparks around a year and a half after her last appearance – a sound blending acid, industrial, rave and psytrance influences with driving rhythms and heavy drops. 23:00–06:00, tickets €15–25."},"vok":1,"src":[["ra","https://ra.co/events/2577413"],["ok","https://o-klub.at/events/charlie-sparks/"],["ta","https://www.technoairlines.com/event/signal-presents-charlie-sparks-o-der-klub-2027-01-29"]],"head":["Charlie Sparks"],"chk":"2026-11-22","srcChk":"2026-11-15"},
-{"d":"2027-01-29","s":"23:00","e":"06:00","title":"MAHLWERK: Supergloss & DJ Hyperdrive","venue":"Grelle Forelle","coll":["Mahlwerk","Herzfrequenz"],"floors":[{"f":"Mainfloor","a":["Supergloss","DJ Hyperdrive","maro","Max Wagner","Goldi","Kat Ze"]},{"f":"Kitchen (hosted by Herzfrequenz)","a":["Crystal O","Joey","DJ Wolle","YØNDER"]}],"head":["Supergloss","DJ Hyperdrive"],"price":"13–25 €","age":"21+","tickets":"https://mahlwerkmoves.com/events/2027-01-29-mahlwerk-grelle-forelle/","flyer":"https://images.ra.co/fa2697e571e6c7d3bbab56f5c3806e25ddf11fc9.jpg","note":{"de":"Mahlwerk startet ins Jahr 2027 in der Grelle Forelle. Headliner sind Supergloss aus Berlin mit Acid und Trance der 90er und 00er sowie DJ Hyperdrive (BCCO) mit Groove-Trance. Dazu spielen maro b2b Max Wagner und Goldi b2b Kat Ze. Die Kitchen wird von Herzfrequenz gehostet (Crystal O, Joey, DJ Wolle, YØNDER). Ab 21.","en":"Mahlwerk kicks off 2027 at Grelle Forelle. Headliners are Berlin's Supergloss with 90s/00s acid and trance and DJ Hyperdrive (BCCO) with groove trance, plus maro b2b Max Wagner and Goldi b2b Kat Ze. The Kitchen is hosted by Herzfrequenz (Crystal O, Joey, DJ Wolle, YØNDER). 21+."},"src":[["ta","https://www.technoairlines.com/event/mahlwerk-supergloss-dj-hyperdrive-grelle-forelle-2027-01-29"],["ra","https://ra.co/events/2579815"]],"chk":"2026-11-20","srcChk":"2026-11-20","ook":1,"genres":["Trance","Hard Techno","Techno"],"gAuto":1},
+{"d":"2027-01-29","s":"23:00","e":"06:00","title":"MAHLWERK: Supergloss & DJ Hyperdrive","venue":"Grelle Forelle","coll":["Mahlwerk","Herzfrequenz"],"floors":[{"f":"Mainfloor","a":["Supergloss","DJ Hyperdrive","MARØ","Max Wagner","Goldi","Kat Ze"]},{"f":"Kitchen (hosted by Herzfrequenz)","a":["Crystal O","Joey","DJ Wolle","YØNDER"]}],"head":["Supergloss","DJ Hyperdrive"],"price":"13–25 €","age":"21+","tickets":"https://mahlwerkmoves.com/events/2027-01-29-mahlwerk-grelle-forelle/","flyer":"https://images.ra.co/fa2697e571e6c7d3bbab56f5c3806e25ddf11fc9.jpg","note":{"de":"Mahlwerk startet ins Jahr 2027 in der Grelle Forelle. Headliner sind Supergloss aus Berlin mit Acid und Trance der 90er und 00er sowie DJ Hyperdrive (BCCO) mit Groove-Trance. Dazu spielen maro b2b Max Wagner und Goldi b2b Kat Ze. Die Kitchen wird von Herzfrequenz gehostet (Crystal O, Joey, DJ Wolle, YØNDER). Ab 21.","en":"Mahlwerk kicks off 2027 at Grelle Forelle. Headliners are Berlin's Supergloss with 90s/00s acid and trance and DJ Hyperdrive (BCCO) with groove trance, plus maro b2b Max Wagner and Goldi b2b Kat Ze. The Kitchen is hosted by Herzfrequenz (Crystal O, Joey, DJ Wolle, YØNDER). 21+."},"src":[["ta","https://www.technoairlines.com/event/mahlwerk-supergloss-dj-hyperdrive-grelle-forelle-2027-01-29"],["ra","https://ra.co/events/2579815"]],"chk":"2026-11-20","srcChk":"2026-11-20","ook":1,"genres":["Trance","Hard Techno","Techno"],"gAuto":1},
 {"d":"2027-01-30","s":"21:00","e":"06:00","title":"Paradise Winter Festival 2027 – Nacht 2","venue":"BC Vienna Arena","coll":["FromDuskTillDawn"],"genres":["Psytrance","Goa"],"floors":[{"f":"","a":["Astrix","Blastoyz","Phaxe","Faders","Klopfgeister","Sonic Species","Misaya","Exelog","Serex","Oblix","Progtamin","Fullip","Marakame","Bornvoyage","Vibechen","Hanneken","Tolaris","PA_olo","Romen Est Omen","Cougar","Anatol","Auroria","Kayara","Cheddar Boyz","Synaptikon"]}],"tickets":"https://mado.ticket.io/7W7zDGvt/","flyer":"https://img.goabase.net/images/flyer/full/20270129_paradise-winter-festival-2027_20261102171119.jpg","note":{"de":"Zweite Nacht des Paradise Winter Festival 2027 in der BC Vienna Arena (ehemals Hallmann Dome, Gutheil-Schoder-Gasse 9, 1100 Wien), veranstaltet von FromDuskTillDawn. International angekündigt sind Astrix, Blastoyz, Phaxe, Faders, Klopfgeister und Sonic Species, dazu rund 20 Acts aus Österreich; auf welche der beiden Nächte sie verteilt sind, ist noch nicht veröffentlicht. Zwei Stages auf 2000 m² mit großem Mainfloor, Chill-out-Bereichen und einer zweiten Stage für Psytrance und Progressive, außerdem Food Corner und Shopping-Bereich. Beginn jeweils 21:00, keine durchgehende Veranstaltung; Loyalty- und Early-Bird-Pässe sind ausverkauft, der reguläre Wochenend-Festivalpass ist im Verkauf. Eintritt ab 18 (Ausweis mitnehmen).","en":"Second night of Paradise Winter Festival 2027 at BC Vienna Arena (formerly Hallmann Dome, Gutheil-Schoder-Gasse 9, 1100 Vienna), organised by FromDuskTillDawn. Announced internationals are Astrix, Blastoyz, Phaxe, Faders, Klopfgeister and Sonic Species, plus around 20 acts from Austria; how they are split across the two nights has not been published yet. Two stages on 2,000 m² with a huge main floor, chill-out areas and a second stage for psytrance and progressive, plus a food corner and shopping area. Doors at 21:00 each night, not a continuous event; loyalty and early-bird passes are sold out, the regular weekend festival pass is on sale. 18+ (bring ID)."},"src":[["vo","https://www.volume.at/events/paradise-winter-festival-2027-2027-01-29/"],["gb","https://www.goabase.net/de/party/paradise-winter-festival-2027/118070"],["gb","https://www.goabase.net/party/paradise-winter-festival-2027/118070"],["fla","https://www.festlocator.com/festival/paradise-winter-festival.html"],["sha","https://shamanz.online/party/336/paradise-winter-festival-2027"]],"chk":"2026-11-20","io":["Indoor"],"srcChk":"2026-11-20","na":["price"],"age":"18+"},
 {"d":"2027-02-05","s":"22:00","title":"Empyreon – Vol. V","venue":"The Loft","coll":["Empyreon"],"genres":["Techno"],"floors":[{"f":"Wohnzimmer","a":["TBA"]}],"price":"Freie Spende","note":{"de":"Fünfte Ausgabe der Reihe Empyreon im Wohnzimmer des The Loft, Beginn 22:00. Empyreon will in Wien eine Underground-Szene für Progressive House aufbauen; die Location taggt den Abend mit Techno. Das Lineup ist noch tba, Eintritt gegen freie Spende.","en":"Fifth edition of the Empyreon series in The Loft's Wohnzimmer, starting at 22:00. Empyreon aims to build an underground progressive house scene in Vienna; the venue tags the night as techno. Line-up still tba, entry by free donation."},"vok":1,"na":["flyer","e","tickets","lineup"],"src":[["lo","https://www.theloft.at/empyreon-vol-v/"],["lo","https://www.theloft.at/programm/"]],"chk":"2026-11-20","srcChk":"2026-11-20"},
 {"d":"2027-02-06","s":"21:00","e":"05:00","title":"sama recordings pres. schweben","venue":"Club Lucia","coll":["sama recordings"],"genres":["Bass","Footwork"],"floors":[{"f":"","a":["Chewlie","Jan Loup","nastynancy","Moosiqunt","DJ Odd","yarx"]}],"price":"16,95–22,60 €","age":"18+","tickets":"https://kupfticket.com/en/shops/samarecordings","flyer":"https://images.ra.co/0d07898ca2d8e2e04f3a7134225d04ab4608e70c.jpg","note":{"de":"Das Wiener Label sama recordings bringt seine Reihe s c h w e b e n in den Club Lucia – eine Nacht mit Live- und DJ-Sets zwischen Footwork und Drum & Bass. Live spielt Chewlie, dazu DJ-Sets von Jan Loup, nastynancy, Moosiqunt, DJ Odd und yarx. Tickets gibt es als Supporter- und Regular-Stufe; es gilt ein Code of Conduct. Gefördert von Stadt Wien Kultur.","en":"Vienna label sama recordings brings its s c h w e b e n series to Club Lucia – a night of live and DJ sets from footwork to drum & bass. Chewlie plays live, with DJ sets by Jan Loup, nastynancy, Moosiqunt, DJ Odd and yarx. Tickets come in supporter and regular tiers; a code of conduct applies. Supported by Stadt Wien Kultur."},"src":[["ta","https://www.technoairlines.com/event/sama-recordings-pres-s-c-h-w-e-b-e-n-club-lucia-2027-02-06"],["ra","https://ra.co/events/2564529"],["cl","https://www.clublucia.at/event/sama-recordings-pres-s-c-h-w-e-b-en/"],["cl","https://www.clublucia.at/page/4/"]],"chk":"2026-11-20","srcChk":"2026-11-20","ook":1,"vok":1},
