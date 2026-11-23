@@ -9,6 +9,7 @@ const core=x=>{let s=n(x),p;do{p=s;s=s.replace(SUF,"").replace(PRE,"")}while(s!=
 const handle=u=>((u||"").match(/instagram\.com\/([A-Za-z0-9_.]+)/)||[])[1]?.toLowerCase().replace(/[._]/g,"")||"";
 const host=u=>{try{return new URL(u).hostname.replace(/^www\./,"")+new URL(u).pathname.replace(/\/$/,"").toLowerCase()}catch(e){return ""}};
 function lev(a,b){if(a===b)return 0;const m=a.length,k=b.length;if(!m||!k)return m||k;let p=[...Array(k+1).keys()];for(let i=1;i<=m;i++){const q=[i];for(let j=1;j<=k;j++)q[j]=Math.min(p[j]+1,q[j-1]+1,p[j-1]+(a[i-1]===b[j-1]?0:1));p=q}return p[k]}
+const OK=new Set();try{fs.readFileSync(".github/agent/keine-dubletten.txt","utf8").split("\n").filter(l=>l.includes("|")&&!l.startsWith("#")).forEach(l=>{const [a,b]=l.split("|").map(x=>x.trim());OK.add(a+"\u0000"+b);OK.add(b+"\u0000"+a)})}catch(e){}
 function scan(label,names,info,keysFn){
  const out=[];const L=[...new Set(names)];
  for(let i=0;i<L.length;i++)for(let j=i+1;j<L.length;j++){const a=L[i],b=L[j];const A=info[a]||{},Bb=info[b]||{};
@@ -18,7 +19,7 @@ function scan(label,names,info,keysFn){
   else if(Math.min(ca.length,cb.length)>=6&&lev(ca,cb)<=1)why.push("tippfehler");
   for(const f of keysFn){const x=f(A),y=f(Bb);if(x&&y&&x===y)why.push("gleich:"+f.name)}
   if((A.alias||[]).some(x=>n(x)===nb)||(Bb.alias||[]).some(x=>n(x)===na))why.push("alias!");
-  if(why.length)out.push([a,b,why.join(",")])}
+  if(why.length&&!OK.has(a+"\u0000"+b))out.push([a,b,why.join(",")])}
  console.log("### "+label+" "+out.length);out.forEach(r=>console.log(r.join("  |  ")))}
 const ig=v=>handle(v.ig||(v.links||{}).ig),web=v=>host(v.web||(v.links||{}).web),sc=v=>host(v.sc||(v.links||{}).sc),logo=v=>v.logo||v.img||"";
 Object.defineProperty(ig,"name",{value:"ig"});Object.defineProperty(web,"name",{value:"web"});Object.defineProperty(sc,"name",{value:"sc"});Object.defineProperty(logo,"name",{value:"bild"});
