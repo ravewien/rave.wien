@@ -228,5 +228,76 @@ window.PRUEF=[
    "https://www.songkick.com/concerts/43172074-dominik-eulberg-at-simm-city-festsaal-zentrum-simmering"
   ],
   "karten": []
+ },
+ {
+  "id": "spotify-art-purrdition-links-sp",
+  "ts": "2026-11-23",
+  "lauf": "profil-lauf",
+  "typ": "spotify",
+  "titel": "Purrdition – Spotify-Artist-Seite?",
+  "text": "Die Spotify-Suche liefert eine Artist-Seite „Purrdition“ (u. a. Track „Ganesha“). Name passt genau, Releases/Label ließen sich aber nicht mit RA/SoundCloud abgleichen.",
+  "links": [
+   "https://open.spotify.com/artist/5oGn0OiLdzmVPX1G1TFHM9",
+   "https://soundcloud.com/purrdition"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "art",
+   "op": "edit",
+   "key": "Purrdition",
+   "title": "Spotify-Link für Purrdition",
+   "data": {
+    "links.sp": "https://open.spotify.com/artist/5oGn0OiLdzmVPX1G1TFHM9"
+   }
+  }
+ },
+ {
+  "id": "spotify-art-mandidextrous-links-sp",
+  "ts": "2026-11-23",
+  "lauf": "profil-lauf",
+  "typ": "spotify",
+  "titel": "Mandidextrous – Spotify-Artist-Seite?",
+  "text": "Viele Spotify-Releases „by Mandidextrous“ (SpeedBass Vol.1, Damager), die gefundene Artist-Seite heißt aber „Mandi Dextrous“ (mit Leerzeichen). Bitte prüfen, ob das die Haupt-Artist-Seite ist.",
+  "links": [
+   "https://open.spotify.com/artist/4RWjSJvwouVtCRm235C5GN",
+   "https://open.spotify.com/album/11WD8sRvZd3wuOZd1vThf7"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "art",
+   "op": "edit",
+   "key": "Mandidextrous",
+   "title": "Spotify-Link für Mandidextrous",
+   "data": {
+    "links.sp": "https://open.spotify.com/artist/4RWjSJvwouVtCRm235C5GN"
+   }
+  }
+ },
+ {
+  "id": "link-moodshifter-flucc-07-12-mehrere-soundcloud-kandidaten",
+  "ts": "2026-11-23",
+  "lauf": "profil-lauf",
+  "typ": "link",
+  "titel": "Moodshifter (FLUCC 07.12.) – mehrere SoundCloud-Kandidaten",
+  "text": "Es gibt mehrere „Moodshifter“/„Mood Shifter“ auf SoundCloud und Spotify (u. a. soundcloud.com/mood_shifter, moodshiftermusic, ein Mix für Wellnessbereich). Keiner ist eindeutig dem Wiener Downtempo/Psy-Techno-Act zuzuordnen.",
+  "links": [
+   "https://soundcloud.com/mood_shifter",
+   "https://soundcloud.com/wellnessbereich/possibliste-moodshifter",
+   "https://open.spotify.com/artist/1Hlw8PMv6qrptZBdRD3dCF"
+  ],
+  "karten": []
+ },
+ {
+  "id": "link-captain-of-none-celeste-19-12-sets-unklar",
+  "ts": "2026-11-23",
+  "lauf": "profil-lauf",
+  "typ": "link",
+  "titel": "Captain of None (Celeste 19.12.) – Sets unklar",
+  "text": "Auf SoundCloud gibt es Mixes von „Captain of None“ auf Mutant Radio, Radio TNP und LÍO Press; ob das derselbe Act wie soundcloud.com/captain-of-none ist, ließ sich nicht belegen.",
+  "links": [
+   "https://soundcloud.com/radiotemponaopara/captain-of-none-radio-tnp-031025",
+   "https://soundcloud.com/liopress/lio-press-mix-35-by-captain-of-none-liminal-landscape"
+  ],
+  "karten": []
  }
 ];

@@ -165,7 +165,7 @@ const S={
  "oks": "shop.o-klub.at"
 };
 const SO=["4lg","dtm","hg","un","pt","wm","ftr","ksot","stepf","awsm","bio","kore","tl","rr","srd","sw","gl","smt","col","ffq","barr","kgal","pzs","vgau"];
-const VR={"Grelle Forelle":{"age":"21+","sound":{"de":"Alcons Audio + Lambda Labs","en":"Alcons Audio + Lambda Labs","src":"https://www.properformance.audio/articles/grelle-forelle-mainfloor","floors":{"main":{"de":"Alcons Audio QR36 Line Arrays, 8× Lambda Labs DW-15 Subs","en":"Alcons Audio QR36 line arrays, 8× Lambda Labs DW-15 subs"},"kitchen":{"de":"Lambda Labs (MF-15A Subs, TX-2A, CX-1A Monitore)","en":"Lambda Labs (MF-15A subs, TX-2A, CX-1A monitors)","src":"https://lambda-labs.com/en/references/grelle-forelle"}}}},"Das Werk":{"age":"18+","ageSrc":"https://www.daswerk.org/faq","sound":{"de":"Alcons Audio RR12 + Eigenbau-Subwoofer (12× 15\")","en":"Alcons Audio RR12 + custom subwoofer (12× 15\")","src":"https://www.prosoundweb.com/art-culture-venue-in-austria-outfitted-with-alcons-audio/"},"accNote":{"de":"Laut Club nicht rollstuhlgerecht zugänglich; das Team hilft nach Voranmeldung vor Ort so gut es geht.","en":"According to the club not physically accessible; the team assists on site as far as possible if contacted in advance."},"accSrc":"https://www.daswerk.org/faq"},"SASS Music Club":{"age":"18+","aw":1,"sound":{"de":"Beschallung mit Alcons-Audio-Lautsprechern (Pro-Ribbon-Technologie), installiert von Pro Performance.","en":"Alcons Audio loudspeakers (pro-ribbon technology), installed by Pro Performance.","src":"https://properformance.at/en/projects/club/club-sass-wien/"}},"O der Klub":{"age":"18+"},"Club Exil":{"sound":{"de":"Lambda-Labs-Soundsystem: Auf dem Mainfloor ein 90°-QX-Setup mit 20 DH-18-Subwoofern.","en":"Lambda Labs sound system: a 90° QX setup with 20 DH-18 subwoofers on the main floor.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series","floors":{"mainfloor":{"de":"Lambda Labs QX in 90°-Anordnung mit 20 DH-18-Subwoofern.","en":"Lambda Labs QX in a 90° configuration with 20 DH-18 subwoofers.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series"}}},"access":1,"accNote":{"de":"Das Erdgeschoss ist barrierefrei zugänglich, der 1. Stock (Darkrooms) nicht.","en":"The ground floor is step-free accessible, the first floor (darkrooms) is not."},"accSrc":"https://www.club-exil.at/"},"The Loft":{"sound":{"de":"KV2-Anlage im Keller (Dancefloor Unten).","en":"KV2 sound system in the basement (Unten dancefloor).","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056","floors":{"Unten":{"de":"KV2-Anlage","en":"KV2 sound system","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056"}}},"accNote":{"de":"Teilweise zugänglich: Café und Toiletten sind barrierefrei, die Floors nur über Stufen (Oben 10, Wohnzimmer 8, Unten 25 Stufen).","en":"Partly accessible: café and toilets are step-free, the floors only via stairs (Oben 10, Wohnzimmer 8, Unten 25 steps)."},"accSrc":"https://www.theloft.at/kontakt/"},"Flex":{"sound":{"de":"Alcons-Soundsystem (Planung/Installation Pro Performance seit 2007): Main Floor seit 2022 mit 8 Alcons QR24 und 2 QM24 als L/R-Arrays, 4 BC543-Cardioid-Bässen und dem berühmten Beton-Horn-Subwoofer; Flex Café mit Alcons LR18; im Außenbereich die früheren QR36.","en":"Alcons sound system (designed/installed by Pro Performance since 2007): since 2022 the main floor runs 8 Alcons QR24 plus 2 QM24 as L/R arrays, 4 BC543 cardioid subs and the famous concrete horn subwoofers; the Flex Café uses Alcons LR18; the former QR36 now cover the outdoor area.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex","floors":{"Main Floor":{"de":"8× Alcons QR24 (4× QR24/80, 4× QR24/110) + 2× QM24 als L/R-Arrays, 4× BC543 Cardioid-Bass, Beton-Horn-Subwoofer mit je vier 15\"-Treibern pro Seite.","en":"8× Alcons QR24 (4× QR24/80, 4× QR24/110) + 2× QM24 as L/R arrays, 4× BC543 cardioid bass, concrete horn subwoofers with four 15\" drivers per side.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex"},"Flex Café":{"de":"Alcons LR18 Pro-Ribbon-Line-Array links/rechts der Bühne, Bässe in End-Fire-Anordnung.","en":"Alcons LR18 pro-ribbon line array left/right of the stage, subs in end-fire configuration.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex"}}},"access":1,"accNote":{"de":"Laut Falter-Lokalführer rollstuhlgerecht und barrierefrei zugänglich.","en":"According to the Falter guide, wheelchair accessible and barrier-free."},"accSrc":"https://www.falter.at/lokal/4812/flex"},"PRST":{"sound":{"de":"Lambda-Labs-Soundsystem von Pro Performance Sound + Acoustics (Wolfgang Sauter): Lambda Labs QX als Haupt-PA, horizontales Double-Endfire-Array aus 8 DH-18-Subwoofern vor und hinter dem DJ-Pult, DJ-Monitoring mit CB-Design-15\"-Subs und Lambda Labs TX-3A; Active Noise Control zwischen Clubraum und Bar.","en":"Lambda Labs sound system by Pro Performance Sound + Acoustics (Wolfgang Sauter): Lambda Labs QX main PA, a horizontal double end-fire array of 8 DH-18 subwoofers in front of and behind the DJ booth, DJ monitoring with CB-Design 15\" subs and Lambda Labs TX-3A; active noise control between club room and bar.","src":"https://www.lewitt-audio.com/blog/PRST-audio-experience"},"access":1,"accNote":{"de":"Bar- und Clubeingang sind rollstuhlgerecht, es gibt ein barrierefreies WC.","en":"Both bar and club entrance are wheelchair accessible; there is an accessible toilet."},"accSrc":"https://www.wienmodern.at/accessibility"},"U4":{"age":"18+"},"B72":{"sound":{"de":"EV-Anlage (Electro-Voice): 4× EV T221 Topteile (zwei für den Mainfloor, zwei für die Galerie), 2× EV T180 18\"-Subwoofer, EV DC One Controller, EV-Q66-Endstufen; Midas-M32-Pult; DJ-Setup mit 2× Technics SL1210 MK2, Pioneer DJM 600 und Denon DJ X1800.","en":"Electro-Voice PA: 4× EV T221 tops (two for the main floor, two for the balcony), 2× EV T180 18\" subwoofers, EV DC One controller, EV Q66 amps; Midas M32 desk; DJ setup with 2× Technics SL1210 MK2, Pioneer DJM 600 and Denon DJ X1800.","src":"https://www.b72.at/downloads/B72_Sound_Specs.pdf"}},"Arena Wien":{"sound":{"de":"Meyer Sound: Open Air seit April 2024 mit PANTHER-Line-Arrays (je 9 pro Seite), 900-LFC- und 2100-LFC-Subwoofern, installiert von ATEC Pro; in der Großen Halle ein MILO-Line-Array mit 700-HP-Subwoofern.","en":"Meyer Sound: since April 2024 the Open Air stage runs PANTHER line arrays (9 per side) with 900-LFC and 2100-LFC subwoofers, installed by ATEC Pro; the Große Halle has a MILO line array with 700-HP subwoofers.","src":"https://meyersound.com/news/arena-vienna/"}},"Prater Dome":{"sound":{"de":"Zur Eröffnung 2008 von der Firma FACE installiert: JBL-Anlage mit rund 130 Lautsprechern und Subwoofern (u. a. SRX 728, SRX 715, Control 26C) und insgesamt ca. 100.000 Watt, Crown-Endstufen (XTi 1000, CT3000) und BSS Soundweb London BLU-160 zur Signalverarbeitung.","en":"Installed by FACE for the 2008 opening: a JBL system with around 130 loudspeakers and subwoofers (incl. SRX 728, SRX 715, Control 26C) totalling about 100,000 watts, Crown amplifiers (XTi 1000, CT3000) and BSS Soundweb London BLU-160 for signal processing.","src":"https://jblpro.com/en/news/bss-audio-at-the-center-of-sound-in-austria-s-new-praterdome"},"access":1,"accNote":{"de":"Zutritt zum Club sowie zu Main Floor und Classics Floor ist barrierefrei; eingetragene Begleitpersonen haben freien Eintritt.","en":"Access to the club, the Main Floor and the Classics Floor is step-free; registered companions get free entry."},"accSrc":"https://www.praterdome.at/faq"},"FLUCC":{"access":1,"accNote":{"de":"Die Wanne ist rollstuhlgerecht zugänglich.","en":"The Wanne is wheelchair accessible."},"accSrc":"man"},"Jaz in the City":{"access":1,"accNote":{"de":"Laut wien.info ist das Hotel vollständig rollstuhlgerecht und hat einen Lift; die Dachbar Mariatrink ist dort nicht eigens erwähnt.","en":"According to wien.info the hotel is fully wheelchair accessible with an elevator; the Mariatrink rooftop bar is not mentioned separately."},"accSrc":"https://www.wien.info/en/jaz-in-the-city-vienna-411290"},"LIA Coffee WU Campus":{"access":1,"accNote":{"de":"Laut Falter ist Lia Coffee am WU Campus barrierefrei zugänglich (rollstuhlgerecht).","en":"According to Falter, Lia Coffee on the WU campus has barrier-free, wheelchair-accessible access."},"accSrc":"https://www.falter.at/lokal/8367/lia-coffee-wu-wien"},"WUK":{"access":1,"accNote":{"de":"Laut WUK ist der Saal barrierefrei für Rollstuhlfahrer*innen zugänglich; um Anmeldung wird gebeten.","en":"According to WUK, the Saal is accessible for wheelchair users; please register in advance."},"accSrc":"https://www.wuk.at/programm/trinix/"},"Altia Skybar – DC Tower":{"access":1,"accNote":{"de":"Laut Falter-Lokalführer ist Altia (Restaurant & Skybar im DC Tower) rollstuhlgerecht und barrierefrei zugänglich.","en":"According to the Falter guide, Altia (restaurant & sky bar in the DC Tower) is wheelchair accessible."},"accSrc":"https://www.falter.at/lokal/8769/altia-by-urrechu-restaurant-skybar"},"Rhiz":{"access":1,"accNote":{"de":"Laut Falter-Lokalführer rollstuhlgerecht und barrierefrei zugänglich.","en":"According to the Falter guide, wheelchair accessible and barrier-free."},"accSrc":"https://www.falter.at/lokal/3627/rhiz"},"Otto Wagner Areal":{"accNote":{"de":"Laut Wien Modern ist Pavillon 10 über einen Lift an der Rückseite rollstuhlgerecht erreichbar, mit barrierefreiem WC; andere Gebäude des Areals sind nicht erfasst.","en":"According to Wien Modern, Pavilion 10 is wheelchair accessible via a lift at the rear and has an accessible toilet; other buildings on the site are not covered."},"accSrc":"https://www.wienmodern.at/accessibility"}};
+const VR={"Grelle Forelle":{"age":"21+","sound":{"de":"Alcons Audio + Lambda Labs","en":"Alcons Audio + Lambda Labs","src":"https://www.properformance.audio/articles/grelle-forelle-mainfloor","floors":{"main":{"de":"Alcons Audio QR36 Line Arrays, 8× Lambda Labs DW-15 Subs","en":"Alcons Audio QR36 line arrays, 8× Lambda Labs DW-15 subs"},"kitchen":{"de":"Lambda Labs (MF-15A Subs, TX-2A, CX-1A Monitore)","en":"Lambda Labs (MF-15A subs, TX-2A, CX-1A monitors)","src":"https://lambda-labs.com/en/references/grelle-forelle"}}}},"Das Werk":{"age":"18+","ageSrc":"https://www.daswerk.org/faq","sound":{"de":"Alcons Audio RR12 + Eigenbau-Subwoofer (12× 15\")","en":"Alcons Audio RR12 + custom subwoofer (12× 15\")","src":"https://www.prosoundweb.com/art-culture-venue-in-austria-outfitted-with-alcons-audio/"},"accNote":{"de":"Laut Club nicht rollstuhlgerecht zugänglich; das Team hilft nach Voranmeldung vor Ort so gut es geht.","en":"According to the club not physically accessible; the team assists on site as far as possible if contacted in advance."},"accSrc":"https://www.daswerk.org/faq"},"SASS Music Club":{"age":"18+","aw":1,"sound":{"de":"Beschallung mit Alcons-Audio-Lautsprechern (Pro-Ribbon-Technologie), installiert von Pro Performance.","en":"Alcons Audio loudspeakers (pro-ribbon technology), installed by Pro Performance.","src":"https://properformance.at/en/projects/club/club-sass-wien/"}},"O der Klub":{"age":"18+"},"Club Exil":{"sound":{"de":"Lambda-Labs-Soundsystem: Auf dem Mainfloor ein 90°-QX-Setup mit 20 DH-18-Subwoofern.","en":"Lambda Labs sound system: a 90° QX setup with 20 DH-18 subwoofers on the main floor.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series","floors":{"mainfloor":{"de":"Lambda Labs QX in 90°-Anordnung mit 20 DH-18-Subwoofern.","en":"Lambda Labs QX in a 90° configuration with 20 DH-18 subwoofers.","src":"https://www.properformance.audio/articles/the-lambda-labs-qx-series"}}},"access":1,"accNote":{"de":"Das Erdgeschoss ist barrierefrei zugänglich, der 1. Stock (Darkrooms) nicht.","en":"The ground floor is step-free accessible, the first floor (darkrooms) is not."},"accSrc":"https://www.club-exil.at/"},"The Loft":{"sound":{"de":"KV2-Anlage im Keller (Dancefloor Unten).","en":"KV2 sound system in the basement (Unten dancefloor).","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056","floors":{"Unten":{"de":"KV2-Anlage","en":"KV2 sound system","src":"https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/the-loft-361056"}}},"accNote":{"de":"Teilweise zugänglich: Café und Toiletten sind barrierefrei, die Floors nur über Stufen (Oben 10, Wohnzimmer 8, Unten 25 Stufen).","en":"Partly accessible: café and toilets are step-free, the floors only via stairs (Oben 10, Wohnzimmer 8, Unten 25 steps)."},"accSrc":"https://www.theloft.at/kontakt/"},"Flex":{"sound":{"de":"Alcons-Soundsystem (Planung/Installation Pro Performance seit 2007): Main Floor seit 2022 mit 8 Alcons QR24 und 2 QM24 als L/R-Arrays, 4 BC543-Cardioid-Bässen und dem berühmten Beton-Horn-Subwoofer; Flex Café mit Alcons LR18; im Außenbereich die früheren QR36.","en":"Alcons sound system (designed/installed by Pro Performance since 2007): since 2022 the main floor runs 8 Alcons QR24 plus 2 QM24 as L/R arrays, 4 BC543 cardioid subs and the famous concrete horn subwoofers; the Flex Café uses Alcons LR18; the former QR36 now cover the outdoor area.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex","floors":{"Main Floor":{"de":"8× Alcons QR24 (4× QR24/80, 4× QR24/110) + 2× QM24 als L/R-Arrays, 4× BC543 Cardioid-Bass, Beton-Horn-Subwoofer mit je vier 15\"-Treibern pro Seite.","en":"8× Alcons QR24 (4× QR24/80, 4× QR24/110) + 2× QM24 as L/R arrays, 4× BC543 cardioid bass, concrete horn subwoofers with four 15\" drivers per side.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex"},"Flex Café":{"de":"Alcons LR18 Pro-Ribbon-Line-Array links/rechts der Bühne, Bässe in End-Fire-Anordnung.","en":"Alcons LR18 pro-ribbon line array left/right of the stage, subs in end-fire configuration.","src":"https://www.fast-and-wide.com/faw-news/fast-news/17647-vienna-s-flex"}}},"access":1,"accNote":{"de":"Laut Falter-Lokalführer rollstuhlgerecht und barrierefrei zugänglich.","en":"According to the Falter guide, wheelchair accessible and barrier-free."},"accSrc":"https://www.falter.at/lokal/4812/flex"},"PRST":{"sound":{"de":"Lambda-Labs-Soundsystem von Pro Performance Sound + Acoustics (Wolfgang Sauter): Lambda Labs QX als Haupt-PA, horizontales Double-Endfire-Array aus 8 DH-18-Subwoofern vor und hinter dem DJ-Pult, DJ-Monitoring mit CB-Design-15\"-Subs und Lambda Labs TX-3A; Active Noise Control zwischen Clubraum und Bar.","en":"Lambda Labs sound system by Pro Performance Sound + Acoustics (Wolfgang Sauter): Lambda Labs QX main PA, a horizontal double end-fire array of 8 DH-18 subwoofers in front of and behind the DJ booth, DJ monitoring with CB-Design 15\" subs and Lambda Labs TX-3A; active noise control between club room and bar.","src":"https://www.lewitt-audio.com/blog/PRST-audio-experience"},"access":1,"accNote":{"de":"Bar- und Clubeingang sind rollstuhlgerecht, es gibt ein barrierefreies WC.","en":"Both bar and club entrance are wheelchair accessible; there is an accessible toilet."},"accSrc":"https://www.wienmodern.at/accessibility"},"U4":{"age":"18+"},"B72":{"sound":{"de":"EV-Anlage (Electro-Voice): 4× EV T221 Topteile (zwei für den Mainfloor, zwei für die Galerie), 2× EV T180 18\"-Subwoofer, EV DC One Controller, EV-Q66-Endstufen; Midas-M32-Pult; DJ-Setup mit 2× Technics SL1210 MK2, Pioneer DJM 600 und Denon DJ X1800.","en":"Electro-Voice PA: 4× EV T221 tops (two for the main floor, two for the balcony), 2× EV T180 18\" subwoofers, EV DC One controller, EV Q66 amps; Midas M32 desk; DJ setup with 2× Technics SL1210 MK2, Pioneer DJM 600 and Denon DJ X1800.","src":"https://www.b72.at/downloads/B72_Sound_Specs.pdf"}},"Arena Wien":{"sound":{"de":"Meyer Sound: Open Air seit April 2024 mit PANTHER-Line-Arrays (je 9 pro Seite), 900-LFC- und 2100-LFC-Subwoofern, installiert von ATEC Pro; in der Großen Halle ein MILO-Line-Array mit 700-HP-Subwoofern.","en":"Meyer Sound: since April 2024 the Open Air stage runs PANTHER line arrays (9 per side) with 900-LFC and 2100-LFC subwoofers, installed by ATEC Pro; the Große Halle has a MILO line array with 700-HP subwoofers.","src":"https://meyersound.com/news/arena-vienna/"}},"Prater Dome":{"sound":{"de":"Zur Eröffnung 2008 von der Firma FACE installiert: JBL-Anlage mit rund 130 Lautsprechern und Subwoofern (u. a. SRX 728, SRX 715, Control 26C) und insgesamt ca. 100.000 Watt, Crown-Endstufen (XTi 1000, CT3000) und BSS Soundweb London BLU-160 zur Signalverarbeitung.","en":"Installed by FACE for the 2008 opening: a JBL system with around 130 loudspeakers and subwoofers (incl. SRX 728, SRX 715, Control 26C) totalling about 100,000 watts, Crown amplifiers (XTi 1000, CT3000) and BSS Soundweb London BLU-160 for signal processing.","src":"https://jblpro.com/en/news/bss-audio-at-the-center-of-sound-in-austria-s-new-praterdome"},"access":1,"accNote":{"de":"Zutritt zum Club sowie zu Main Floor und Classics Floor ist barrierefrei; eingetragene Begleitpersonen haben freien Eintritt.","en":"Access to the club, the Main Floor and the Classics Floor is step-free; registered companions get free entry."},"accSrc":"https://www.praterdome.at/faq"},"FLUCC":{"access":1,"accNote":{"de":"Die Wanne ist rollstuhlgerecht zugänglich.","en":"The Wanne is wheelchair accessible."},"accSrc":"man"},"Jaz in the City":{"access":1,"accNote":{"de":"Laut wien.info ist das Hotel vollständig rollstuhlgerecht und hat einen Lift; die Dachbar Mariatrink ist dort nicht eigens erwähnt.","en":"According to wien.info the hotel is fully wheelchair accessible with an elevator; the Mariatrink rooftop bar is not mentioned separately."},"accSrc":"https://www.wien.info/en/jaz-in-the-city-vienna-411290"},"LIA Coffee WU Campus":{"access":1,"accNote":{"de":"Laut Falter ist Lia Coffee am WU Campus barrierefrei zugänglich (rollstuhlgerecht).","en":"According to Falter, Lia Coffee on the WU campus has barrier-free, wheelchair-accessible access."},"accSrc":"https://www.falter.at/lokal/8367/lia-coffee-wu-wien"},"WUK":{"access":1,"accNote":{"de":"Laut WUK ist der Saal barrierefrei für Rollstuhlfahrer*innen zugänglich; um Anmeldung wird gebeten.","en":"According to WUK, the Saal is accessible for wheelchair users; please register in advance."},"accSrc":"https://www.wuk.at/programm/trinix/"},"Altia Skybar – DC Tower":{"access":1,"accNote":{"de":"Laut Falter-Lokalführer ist Altia (Restaurant & Skybar im DC Tower) rollstuhlgerecht und barrierefrei zugänglich.","en":"According to the Falter guide, Altia (restaurant & sky bar in the DC Tower) is wheelchair accessible."},"accSrc":"https://www.falter.at/lokal/8769/altia-by-urrechu-restaurant-skybar"},"Rhiz":{"access":1,"accNote":{"de":"Laut Falter-Lokalführer rollstuhlgerecht und barrierefrei zugänglich.","en":"According to the Falter guide, wheelchair accessible and barrier-free."},"accSrc":"https://www.falter.at/lokal/3627/rhiz"},"Otto Wagner Areal":{"accNote":{"de":"Laut Wien Modern ist Pavillon 10 über einen Lift an der Rückseite rollstuhlgerecht erreichbar, mit barrierefreiem WC; andere Gebäude des Areals sind nicht erfasst.","en":"According to Wien Modern, Pavilion 10 is wheelchair accessible via a lift at the rear and has an accessible toilet; other buildings on the site are not covered."},"accSrc":"https://www.wienmodern.at/accessibility"},"Babenberger Passage":{"age":"21+","ageSrc":"https://www.club-passage.at/","sound":{"de":"Maßgeschneidertes Soundsystem von Funktion One.","en":"Tailor-made Funktion One sound system.","src":"https://www.club-passage.at/"}}};
 const CG={
  "303": [
   "Drum & Bass",
@@ -1206,6 +1206,16 @@ const CG={
   "Gabber",
   "Hardcore",
   "Experimental"
+ ],
+ "Off The Grid": [
+  "Electro",
+  "UK Garage",
+  "Breakbeat",
+  "Grime"
+ ],
+ "RaveCon": [
+  "Techno",
+  "Hard Techno"
  ]
 };
 const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","909techno","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","ALERT[A] Vienna","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","Art Attech","AUDIO303","Auf der Lauer","Ausländer Haus","AWSM","Barracuda Music","BARVY","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","BASST SCHO","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","Bionic Ritual","BLUR","Bonkers","Booster Club","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Crossover","Cybertribe","Cyclic Existence","Dance 2 House","Dance Spirit Events","Danza Obscura","Dark Pressure","Das Syndikat","DEAD END","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","EMDB","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exceso","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Female Pleasure","Festklub","Feuchte Träume","Fifi","FIFI Rave","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Forbidden Frequency","Fourcast","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Homesounds","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","It's George","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Klanggerecht","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","March of the Machines","Meier","MEIOSISS","Melodic Monday","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Modulate","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Off The Grid","Opération","Out of Space","Oxygene","Palazzo Recordings","Panzerschokolade","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PURRR","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","RaveCon","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schrödingers Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","shared frequencies","SHPILKI","SIGNAL","SIN","Slutlabs","Sniffin´ Glue","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","SWEAT","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","TECHNOLOT","The Academy","The Hive","The House of Funk","the zound partisans","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Ungeniert","Uniquely Journeys","Unkwn","unlock|me","Unstoppable Organizerteam","Untz Baby Untz","up/or","Vangardist","Ventil Records","Verknallt","Vertigo","Verum Gaudium","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wums","Wyldhearts","Xperiment","Xperiment Records","YE","YN","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
@@ -4944,7 +4954,26 @@ const CI={
   "web": "https://mindentertainment.org/",
   "src": [
    "https://ra.co/events/2518338"
-  ]
+  ],
+  "members": [
+   "Punyo",
+   "Peter Pan",
+   "JP eXbert",
+   "Wanuel",
+   "Simon Says",
+   "Estelle",
+   "INZIDIOUZ",
+   "Sunshine696",
+   "Honner Rey",
+   "Marco di Mare",
+   "Sdricci",
+   "Manuca",
+   "Klangschlacht",
+   "Winsley",
+   "Richard Steinschlag"
+  ],
+  "membersSrc": "https://mindentertainment.org/kuenstler",
+  "logo": "https://mindentertainment.org/files/bilder/MindER_Logo.png"
  },
  "Cosmic Connection": {
   "de": "Nummerierte Reihe im Kramladen (bis mindestens vol. 14).",
@@ -6686,7 +6715,50 @@ const CI={
   "infoChk": "2026-11-23"
  },
  "Off The Grid": {
-  "ig": "https://www.instagram.com/off.the.grid_vie/"
+  "ig": "https://www.instagram.com/off.the.grid_vie/",
+  "de": "Wiener Musikkollektiv, dessen Mitglieder aus Electro, UK Bass, Garage, Grime, Broken Techno und Breakbeat kommen; Partys u. a. im FLUCC, Rhiz und SASS sowie Radioshows auf Res.Radio.",
+  "en": "Vienna music collective whose members come from electro, UK bass, garage, grime, broken techno and breakbeat; parties at FLUCC, Rhiz and SASS among others, plus radio shows on Res.Radio.",
+  "type": [
+   "Kollektiv"
+  ],
+  "from": "Wien",
+  "sc": "https://soundcloud.com/off_the_grid_vienna",
+  "src": [
+   "https://impulstanz.com/en/social/aid1277/",
+   "https://ntry.at/otg_pangaea?l=en",
+   "https://ra.co/events/1334030"
+  ],
+  "noLogo": "2026-11-23",
+  "infoChk": "2026-11-23"
+ },
+ "RaveCon": {
+  "de": "Partyreihe des Wiener Kunst- und Kulturvereins Mind Entertainment (Label Mind Entertainment Records) mit Techno und Hard Techno, zuletzt im Weberknecht und im Werk.",
+  "en": "Party series of the Vienna arts association Mind Entertainment (label Mind Entertainment Records) with techno and hard techno, recently at Weberknecht and Das Werk.",
+  "type": [
+   "Reihe"
+  ],
+  "from": "Wien",
+  "web": "https://mindentertainment.org/events",
+  "src": [
+   "https://mindentertainment.org/events",
+   "https://soundcloud.com/klangschlacht/klangschlacht-ravecon-2211-werk-vienna"
+  ],
+  "noLogo": "2026-11-23",
+  "infoChk": "2026-11-23"
+ },
+ "Verum Gaudium": {
+  "de": "Wiener Veranstalter, der seit 2021 Raves an ungewöhnlichen Orten macht – etwa in der Straßenbahn (BIM-Rave), auf der Besucherterrasse des Flughafens (Aerum Gaudium), am Karlsplatz (Open Church Sound) oder auf Almhütten (Hütten Gaudium).",
+  "en": "Vienna promoter that has been staging raves in unusual places since 2021 – on a tram (BIM-Rave), on the airport visitor terrace (Aerum Gaudium), at Karlsplatz (Open Church Sound) or in mountain huts (Hütten Gaudium).",
+  "founded": "2021",
+  "foundedNote": 1,
+  "from": "Wien",
+  "web": "https://verumgaudium.at/",
+  "logo": "https://verumgaudium.at/wp-content/uploads/2023/06/logo.png",
+  "src": [
+   "https://verumgaudium.at/",
+   "https://www.findxrave.at/"
+  ],
+  "infoChk": "2026-11-23"
  }
 };
 const VI={
@@ -7885,7 +7957,17 @@ const VI={
   "io": [
    "Indoor"
   ],
-  "accChk": "2026-11-23"
+  "accChk": "2026-11-23",
+  "de": "Club in einer ehemaligen Fußgänger-Unterführung unter der Ringstraße zwischen Kunsthistorischem Museum und Hofburg, seit 2003 mit futuristischem Interieur; Disco, Hip-Hop, RnB und House, Mindestalter 21.",
+  "en": "Club in a former pedestrian underpass beneath the Ringstraße between the Kunsthistorisches Museum and the Hofburg, open since 2003 with a futuristic interior; disco, hip-hop, RnB and house, minimum age 21.",
+  "web": "https://www.club-passage.at/",
+  "opened": "2003",
+  "logo": "https://static.wixstatic.com/media/b563df_d6fbd0c1a9b642ab9783a57b6d91b0ff~mv2.png",
+  "src": [
+   "https://www.club-passage.at/",
+   "https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/passage-355196"
+  ],
+  "infoChk": "2026-11-23"
  }
 };
 /* LS = Logo-Suche ohne Treffer für Locations (v) / Kollektive (c) ohne VI-/CI-Eintrag: Datum der letzten Suche; frühestens 60 Tage danach erneut suchen. */
@@ -11898,7 +11980,8 @@ const AR={
  "Saint A": {
   "noImg": "2026-11-03",
   "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-23"
  },
  "Foxloe": {
   "noImg": "2026-11-03",
@@ -13670,7 +13753,8 @@ const AR={
  "KRISTUS": {
   "infoChk": "2026-10-31",
   "noImg": "2026-10-31",
-  "noLinks": "2026-10-31"
+  "noLinks": "2026-10-31",
+  "spChk": "2026-11-23"
  },
  "Feli Nightingale": {
   "img": "https://static.ra.co/images/profiles/square/felinightingale.jpg?dateUpdated=1778683118337",
@@ -24622,7 +24706,8 @@ const AR={
    "https://soundcloud.com/purrdition"
   ],
   "infoChk": "2026-11-03",
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-23"
  },
  "Dcascallana": {
   "img": "https://static.ra.co/images/profiles/square/dcascallana.jpg?dateUpdated=1741256735237",
@@ -27479,7 +27564,9 @@ const AR={
   "src": [
    "https://ra.co/dj/miamia"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "setsChecked": "2026-11-23",
+  "spChk": "2026-11-23"
  },
  "Juan Caballo": {
   "img": "https://static.ra.co/images/profiles/square/juan.caballo.jpg?dateUpdated=1706696510000",
@@ -28864,7 +28951,8 @@ const AR={
   "noImg": "2026-11-03",
   "links": {
    "sc": "https://soundcloud.com/lnkmn"
-  }
+  },
+  "spChk": "2026-11-23"
  },
  "Giuseppe Ottaviani": {
   "img": "https://static.ra.co/images/profiles/giuseppeottaviani.jpg?dateUpdated=1248279486000",
@@ -33287,14 +33375,14 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "Mood Shifter": {
-  "infoChk": "2026-11-22",
-  "noImg": "2026-11-22",
-  "noLinks": "2026-11-22",
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "noLinks": "2026-11-23",
   "genres": [
    "Downtempo",
    "Psy Techno"
   ],
-  "spChk": "2026-11-22"
+  "spChk": "2026-11-23"
  },
  "David Bowiedl": {
   "infoChk": "2026-11-03",
@@ -36860,7 +36948,9 @@ const AR={
   "src": [
    "https://de.ra.co/dj/jotrauner"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-23",
+  "spChk": "2026-11-23"
  },
  "Matthew": {
   "infoChk": "2026-11-04",
@@ -43760,7 +43850,8 @@ const AR={
   "src": [
    "https://ra.co/dj/isi-2"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "spChk": "2026-11-23"
  },
  "Lars Huismann": {
   "img": "https://static.ra.co/images/profiles/square/larshuismann.jpg?dateUpdated=1789218884027",
@@ -44969,7 +45060,8 @@ const AR={
   "src": [
    "https://ra.co/dj/mandidextrous"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "spChk": "2026-11-23"
  },
  "Demuja": {
   "img": "https://static.ra.co/images/profiles/square/demuja.jpg?dateUpdated=1567268738000",
@@ -47296,7 +47388,18 @@ const AR={
    "https://magneticmag.com/2025/05/peletronic-drops-emotive-immersive-new-ep-restless/"
   ],
   "infoChk": "2026-11-04",
-  "noImg": "2026-11-04"
+  "noImg": "2026-11-04",
+  "sets": [
+   {
+    "t": "Daze Like This #17 w/ 20 YRS of Peletronic – Bloop London Radio (26.01.2024)",
+    "u": "https://soundcloud.com/blooplondon/daze-like-this-17-w-20-yrs-of-peletronic-260124"
+   },
+   {
+    "t": "Peletronic (Live at Club rhiz) – Tracklistings Radio Show #149 (14.08.2023)",
+    "u": "https://soundcloud.com/tracklistings3-0/tracklistings-radioshow-149"
+   }
+  ],
+  "setsChecked": "2026-11-23"
  },
  "Scoopsi": {
   "img": "https://static.ra.co/images/profiles/square/scoopsi.jpg?dateUpdated=1670511973000",
@@ -49237,13 +49340,26 @@ const AR={
   "infoChk": "2026-11-05"
  },
  "Dr. Schick": {
-  "noImg": "2026-11-22",
-  "noLinks": "2026-11-22",
-  "infoChk": "2026-11-22",
-  "spChk": "2026-11-22",
+  "noImg": "2026-11-23",
+  "noLinks": "2026-11-23",
+  "infoChk": "2026-11-23",
+  "spChk": "2026-11-23",
   "genres": [
    "House",
    "Footwork"
+  ],
+  "bio": {
+   "de": "dr. schick ist ein DJ aus dem Umfeld von „shared frequencies“; gemeinsam mit ooku. gestaltet er Ausgaben der Reihe, u. a. als Sendung auf Res.Radio.",
+   "en": "dr. schick is a DJ from the shared frequencies circle; together with ooku. he hosts editions of the series, including shows on Res.Radio."
+  },
+  "sets": [
+   {
+    "t": "ooku. & dr. schick present: shared frequencies #8 – electronic sonics (Res.Radio)",
+    "u": "https://soundcloud.com/resradio/ooku-dr-schick-present-2"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/resradio/ooku-dr-schick-present-2"
   ]
  },
  "Meander": {
@@ -55433,25 +55549,553 @@ const AR={
  },
  "Grelka": {
   "links": {
-   "ig": "https://www.instagram.com/grelkaonline/"
-  }
+   "ig": "https://www.instagram.com/grelkaonline/",
+   "bc": "https://grelka.bandcamp.com/",
+   "sc": "https://soundcloud.com/grelka"
+  },
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Grelka ist ein Wiener Projekt zwischen Electronic, Experimental, Hypnagogic Pop und Trip-Hop; das gleichnamige Album „Grelka“ erschien im Februar 2024 auf Bandcamp.",
+   "en": "Grelka is a Vienna-based project between electronic, experimental, hypnagogic pop and trip hop; the self-titled album “Grelka” was released on Bandcamp in February 2024."
+  },
+  "genres": [
+   "Experimental",
+   "Electronica",
+   "Trip Hop"
+  ],
+  "img": "https://f4.bcbits.com/img/a0484312881_5.jpg",
+  "src": [
+   "https://grelka.bandcamp.com/"
+  ],
+  "infoChk": "2026-11-23",
+  "setsChecked": "2026-11-23",
+  "spChk": "2026-11-23"
  },
  "Captain of None": {
   "links": {
    "sc": "https://soundcloud.com/captain-of-none",
    "ig": "https://www.instagram.com/captain_of_none/"
-  }
+  },
+  "genres": [
+   "Experimental",
+   "Electronica"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "setsChecked": "2026-11-23",
+  "spChk": "2026-11-23"
  },
  "Meka Drina": {
   "links": {
    "sc": "https://soundcloud.com/mekadrina",
    "ig": "https://www.instagram.com/mekadrina/"
-  }
+  },
+  "bio": {
+   "de": "Meka Drina ist DJ und Radiomacherin mit der Sendung „Balkan Revelry“ auf Black Teeth Radio; Gastmixe u. a. für beton.fm und Mrtva Egzotika.",
+   "en": "Meka Drina is a DJ and radio host of the show “Balkan Revelry” on Black Teeth Radio, with guest mixes for beton.fm and Mrtva Egzotika, among others."
+  },
+  "genres": [
+   "Experimental",
+   "Electronica"
+  ],
+  "sets": [
+   {
+    "t": "beton.fm w/ Meka Drina (10.2025)",
+    "u": "https://soundcloud.com/beton-fm/october25_mekadrina-2"
+   },
+   {
+    "t": "Black Teeth Radio: Balkan Revelry With Meka Drina (08.03.2024)",
+    "u": "https://soundcloud.com/blackteethrecords/black-teeth-radio-balkan-revelry-with-meka-drina-08-03-2024"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/mekadrina",
+   "https://soundcloud.com/blackteethrecords/black-teeth-radio-balkan-revelry-with-meka-drina-08-03-2024"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "setsChecked": "2026-11-23",
+  "spChk": "2026-11-23"
  },
  "Ssnurssla": {
   "links": {
    "ig": "https://www.instagram.com/s_snurssla/"
-  }
+  },
+  "genres": [
+   "Experimental",
+   "Electronica"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "noLinks": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Fabian F": {
+  "genres": [
+   "Tech House"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "noLinks": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Hastad": {
+  "genres": [
+   "Acid",
+   "Italo Disco",
+   "Progressive House"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "noLinks": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Alle Farben": {
+  "real": "Frans Zimmer",
+  "from": {
+   "de": "Berlin (Kreuzberg), Deutschland",
+   "en": "Berlin (Kreuzberg), Germany"
+  },
+  "genres": [
+   "House",
+   "Deep House"
+  ],
+  "labels": [
+   "Guesstimate/b1 Recordings",
+   "Kallias"
+  ],
+  "bio": {
+   "de": "Alle Farben ist das Projekt des Berliner DJs und Produzenten Frans Zimmer (geb. 1985), der seit 2010 in Berliner Clubs auflegt und sich ursprünglich „Hundert Farben“ nannte. Sein Debütalbum „Synesthesia – I Think in Colours“ erschien 2014; bekannt wurde er mit Singles wie „She Moves (Far Away)“ mit Graham Candy.",
+   "en": "Alle Farben is the project of Berlin DJ and producer Frans Zimmer (born 1985), who started playing Berlin clubs in 2010, originally as “Hundert Farben”. His debut album “Synesthesia – I Think in Colours” came out in 2014; he broke through with singles such as “She Moves (Far Away)” with Graham Candy."
+  },
+  "img": "https://upload.wikimedia.org/wikipedia/commons/f/f4/2014-08-23_Alle_Farben_at_Echelon_2014_0694.JPG",
+  "links": {
+   "ra": "https://ra.co/dj/allefarben",
+   "sc": "https://soundcloud.com/allefarben",
+   "sp": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+  },
+  "sets": [
+   {
+    "t": "Alle Farben 6h-Session #9",
+    "u": "https://soundcloud.com/allefarben/alle-farben-6h-session-9"
+   },
+   {
+    "t": "Alle Farben – 6 Stunden Session #8 @ Astra Berlin",
+    "u": "https://soundcloud.com/allefarben/alle-farben-6h-session-8-astra"
+   }
+  ],
+  "src": [
+   "https://en.wikipedia.org/wiki/Alle_Farben",
+   "https://ra.co/dj/allefarben"
+  ],
+  "infoChk": "2026-11-23",
+  "setsChecked": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Delta Heavy": {
+  "from": {
+   "de": "London, Großbritannien",
+   "en": "London, United Kingdom"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Dubstep"
+  ],
+  "labels": [
+   "RAM Records",
+   "Viper Recordings"
+  ],
+  "bio": {
+   "de": "Delta Heavy ist das britische Drum-&-Bass-Duo von Simon James und Ben Hall, die sich an der Universität in Nottingham kennenlernten. Nach ersten Releases auf Viper Recordings (2009) wechselten sie 2010 zu RAM Records; 2016 erschien ihr Debütalbum „Paradise Lost“ mit Singles wie „Ghost“.",
+   "en": "Delta Heavy is the British drum & bass duo of Simon James and Ben Hall, who met at university in Nottingham. After first releases on Viper Recordings (2009) they joined RAM Records in 2010; their debut album “Paradise Lost” with singles such as “Ghost” followed in 2016."
+  },
+  "img": "https://databeatsassets.s3.amazonaws.com/ramrecords/artists/artist-deltaheavy.jpg",
+  "links": {
+   "ra": "https://ra.co/dj/deltaheavy",
+   "sc": "https://soundcloud.com/deltaheavyuk",
+   "sp": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T",
+   "web": "https://ramrecords.com/artist/delta-heavy"
+  },
+  "sets": [
+   {
+    "t": "Delta Heavy @ Boomtown 2025",
+    "u": "https://soundcloud.com/deltaheavyuk/delta-heavy-boomtown-2025"
+   }
+  ],
+  "src": [
+   "https://en.wikipedia.org/wiki/Delta_Heavy",
+   "https://ramrecords.com/artist/delta-heavy",
+   "https://www.frequency.at/en/artist/delta-heavy"
+  ],
+  "infoChk": "2026-11-23",
+  "setsChecked": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Black Sun Empire": {
+  "from": {
+   "de": "Utrecht, Niederlande",
+   "en": "Utrecht, Netherlands"
+  },
+  "genres": [
+   "Drum & Bass",
+   "Neurofunk"
+  ],
+  "labels": [
+   "Blackout Music NL",
+   "Black Sun Empire Recordings",
+   "Obsessions"
+  ],
+  "bio": {
+   "de": "Black Sun Empire ist ein niederländisches Drum-&-Bass-Projekt aus Utrecht, 1997 von Rene Verdult und den Brüdern Micha und Milan Heyboer gegründet und oft als Neurofunk-Pioniere bezeichnet. Sie betreiben die Labels Black Sun Empire Recordings, Obsessions und Blackout Music NL und veranstalten die Blackout-Events.",
+   "en": "Black Sun Empire is a Dutch drum & bass act from Utrecht, founded in 1997 by Rene Verdult and brothers Micha and Milan Heyboer and often called neurofunk pioneers. They run the labels Black Sun Empire Recordings, Obsessions and Blackout Music NL and host the Blackout events."
+  },
+  "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/13-03-29_Paaspop_BSE_01.jpg",
+  "links": {
+   "ra": "https://ra.co/dj/blacksunempire",
+   "sc": "https://soundcloud.com/blacksunempire",
+   "sp": "https://open.spotify.com/artist/3PAXvY08KxX5HmCsmKw4x8"
+  },
+  "sets": [
+   {
+    "t": "Blackout Podcast 75 – Black Sun Empire",
+    "u": "https://soundcloud.com/blackoutmusicnl/blackout-podcast-75-black-sun-empire"
+   }
+  ],
+  "src": [
+   "https://en.wikipedia.org/wiki/Black_Sun_Empire",
+   "https://ra.co/dj/blacksunempire"
+  ],
+  "infoChk": "2026-11-23",
+  "setsChecked": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "B.Ranks": {
+  "genres": [
+   "Electro",
+   "UK Garage",
+   "Breakbeat"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "noLinks": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Claromor": {
+  "bio": {
+   "de": "Claromor ist ein DJ aus der Wiener Szene rund um Off The Grid und Res.Radio, u. a. mit einem Gastmix in der Sendung „Atmospheric Funk“ (#9) auf Res.Radio.",
+   "en": "Claromor is a DJ from the Vienna scene around Off The Grid and Res.Radio, including a guest mix on the show “Atmospheric Funk” (#9) on Res.Radio."
+  },
+  "genres": [
+   "House",
+   "UK Garage",
+   "Breakbeat",
+   "Electro"
+  ],
+  "sets": [
+   {
+    "t": "Atmospheric Funk #9 w/ Claromor (Res.Radio)",
+    "u": "https://soundcloud.com/resradio/atmospheric-funk-9"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/resradio/atmospheric-funk-9",
+   "https://ra.co/events/2467187"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "noLinks": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Rapha Ready": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Rapha Ready ist ein Wiener DJ, der auf Res.Radio die Sendung „Lazy on Air“ moderiert und regelmäßig bei Off-The-Grid-Abenden spielt, u. a. mit einem Set bei Kiosk Radio (2023).",
+   "en": "Rapha Ready is a Vienna-based DJ who hosts the show “Lazy on Air” on Res.Radio and regularly plays Off The Grid nights, including a set on Kiosk Radio (2023)."
+  },
+  "genres": [
+   "House",
+   "UK Garage",
+   "Breakbeat",
+   "Electro"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/rapha_ready"
+  },
+  "sets": [
+   {
+    "t": "Rapha is 'Lazy on Air' #57 (Res.Radio)",
+    "u": "https://soundcloud.com/resradio/rapha-is-lazy-on-air-57"
+   },
+   {
+    "t": "Rapha Ready (Off the Grid/Lazy on Air) @ Kiosk Radio (02.04.2023)",
+    "u": "https://soundcloud.com/kioskradio/rapha-ready-off-the-grid-lazy"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/rapha_ready",
+   "https://soundcloud.com/kioskradio/rapha-ready-off-the-grid-lazy",
+   "https://ntry.at/otg_pangaea?l=en"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "setsChecked": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Gustuff": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "links": {
+   "sc": "https://soundcloud.com/gustuffvienna"
+  },
+  "src": [
+   "https://soundcloud.com/gustuffvienna",
+   "https://ra.co/events/2590644"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Empat": {
+  "links": {
+   "ra": "https://ra.co/dj/empat"
+  },
+  "src": [
+   "https://ra.co/dj/empat",
+   "https://ra.co/events/2590644"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Experimental": {
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "noLinks": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Wanuel": {
+  "bio": {
+   "de": "Wanuel gehört zum Wiener Kollektiv Mind Entertainment und ist dort der Spezialist für analoge Liveacts, die er mit einem umfangreichen Setup spielt.",
+   "en": "Wanuel is part of the Vienna collective Mind Entertainment, where he is the specialist for analogue live acts played on an extensive setup."
+  },
+  "genres": [
+   "Hard Techno",
+   "Techno"
+  ],
+  "coll": [
+   "Mind Entertainment"
+  ],
+  "img": "https://mindentertainment.org/files/artistfotos/Wanuel1.png",
+  "src": [
+   "https://mindentertainment.org/kuenstler"
+  ],
+  "infoChk": "2026-11-23",
+  "noLinks": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "INZIDIOUZ": {
+  "real": "Jürgen Stransky",
+  "from": {
+   "de": "Österreich",
+   "en": "Austria"
+  },
+  "bio": {
+   "de": "INZIDIOUZ ist das aktuelle Projekt des österreichischen DJs und Produzenten Jürgen Stransky und gehört zum Wiener Kollektiv Mind Entertainment.",
+   "en": "INZIDIOUZ is the current project of Austrian DJ and producer Jürgen Stransky and part of the Vienna collective Mind Entertainment."
+  },
+  "genres": [
+   "Hard Techno",
+   "Techno"
+  ],
+  "coll": [
+   "Mind Entertainment"
+  ],
+  "img": "https://mindentertainment.org/files/artistfotos/INZIDIOUZ.jpeg",
+  "src": [
+   "https://mindentertainment.org/kuenstler"
+  ],
+  "infoChk": "2026-11-23",
+  "noLinks": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Klangschlacht": {
+  "bio": {
+   "de": "Klangschlacht ist DJ und Produzent bei Mind Entertainment und Goldfish Records und bewegt sich zwischen Techno, Tech House und Drum & Bass; er spielte u. a. bei RaveCon im Werk.",
+   "en": "Klangschlacht is a DJ and producer with Mind Entertainment and Goldfish Records, moving between techno, tech house and drum & bass; he has played RaveCon at Das Werk, among others."
+  },
+  "genres": [
+   "Techno",
+   "Tech House",
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Mind Entertainment Records",
+   "Goldfish Records"
+  ],
+  "coll": [
+   "Mind Entertainment"
+  ],
+  "img": "https://mindentertainment.org/files/artistfotos/Niklas1.jpg",
+  "links": {
+   "sc": "https://soundcloud.com/klangschlacht"
+  },
+  "sets": [
+   {
+    "t": "Klangschlacht @ RaveCon, Werk Vienna (22.11.)",
+    "u": "https://soundcloud.com/klangschlacht/klangschlacht-ravecon-2211-werk-vienna"
+   },
+   {
+    "t": "DnB Progressiv Session 12.21",
+    "u": "https://soundcloud.com/klangschlacht/dnb-progressiv-session-1221"
+   }
+  ],
+  "src": [
+   "https://mindentertainment.org/kuenstler",
+   "https://soundcloud.com/klangschlacht"
+  ],
+  "infoChk": "2026-11-23",
+  "setsChecked": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Hokes Pokes": {
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "Hokes Pokes ist ein Wiener DJ, der u. a. in der FM4-Sendung „Digital Konfusion“ ein Set spielte.",
+   "en": "Hokes Pokes is a Vienna-based DJ who has played a set on FM4’s “Digital Konfusion”, among others."
+  },
+  "genres": [
+   "Hard Techno",
+   "Techno"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/hokespokess",
+   "mc": "https://www.mixcloud.com/hokespokes/"
+  },
+  "sets": [
+   {
+    "t": "Hokes Pokes @ FM4 Radio Digital Konfusion",
+    "u": "https://soundcloud.com/hokespokes00/hokes-pokes"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/hokespokess",
+   "https://www.mixcloud.com/hokespokes/"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "setsChecked": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Rinco Baxx": {
+  "genres": [
+   "Hard Techno",
+   "Techno"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "noLinks": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Tektakel": {
+  "genres": [
+   "Hard Techno",
+   "Techno"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "noLinks": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Julia Prunk": {
+  "bio": {
+   "de": "Julia Prunk ist eine Techno-DJ, die u. a. B2B-Sets mit Marcus Cito in der Pratersauna Wien und bei der Berlin Pride 2023 spielte.",
+   "en": "Julia Prunk is a techno DJ who has played B2B sets with Marcus Cito at Pratersauna Vienna and at Berlin Pride 2023, among others."
+  },
+  "genres": [
+   "Techno"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/juliaprunk",
+   "ig": "https://www.instagram.com/juliaprunk.music/"
+  },
+  "sets": [
+   {
+    "t": "Peak Time Techno Warehouse Live Set (01.2024)",
+    "u": "https://soundcloud.com/juliaprunk/peak-time-techno-warehouse-live-set-january-2024"
+   },
+   {
+    "t": "Marcus Cito B2B Julia Prunk @ Pratersauna Vienna 2023",
+    "u": "https://soundcloud.com/marcuscito/techno-live-set-pratersauna-vienna-2023-b2b-julia-prunk"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/juliaprunk",
+   "https://www.instagram.com/juliaprunk.music/"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "setsChecked": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Ree:Raw": {
+  "genres": [
+   "Techno"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/reerawmusic"
+  },
+  "src": [
+   "https://soundcloud.com/reerawmusic"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Grafus": {
+  "genres": [
+   "Hard Techno",
+   "Techno"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "noLinks": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "keha": {
+  "links": {
+   "ra": "https://ra.co/dj/keha"
+  },
+  "genres": [
+   "Hard Techno",
+   "Techno"
+  ],
+  "src": [
+   "https://ra.co/dj/keha/biography"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "spChk": "2026-11-23"
+ },
+ "Georg Stögermayer": {
+  "genres": [
+   "Experimental",
+   "Electronica"
+  ],
+  "infoChk": "2026-11-23",
+  "noImg": "2026-11-23",
+  "noLinks": "2026-11-23",
+  "spChk": "2026-11-23"
  }
 };
 
