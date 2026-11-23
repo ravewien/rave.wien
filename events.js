@@ -1526,7 +1526,8 @@ const CI={
   ],
   "infoChk": "2026-11-15",
   "noLogo": "2026-11-15",
-  "ig": "https://www.instagram.com/technoentgleist/"
+  "ig": "https://www.instagram.com/technoentgleist/",
+  "logo": "https://ugc.production.linktr.ee/9e8efb7e-abd1-400f-98a5-b447dee2c266_AIdro-mqKbxxe7J6EKhsnOUMKrNo2bSiM-TW1S43yB5f0svMlJ4-s800-c-k-c0x00ffffff-no-rj.jpeg"
  },
  "Rhythm Science": {
   "founded": "2018",
@@ -2741,7 +2742,8 @@ const CI={
    "https://ra.co/events/2556685"
   ],
   "infoChk": "2026-11-15",
-  "noLogo": "2026-11-15"
+  "noLogo": "2026-11-15",
+  "logo": "https://ugc.production.linktr.ee/6u12ZCSSu6VxBmEvmMKs_7kw75N9zD1cEgCDa?f=.jpg"
  },
  "LSH": {
   "de": "LSH (Les Suspects Habituels) ist ein Wiener Kollektiv, bekannt für die Partyreihe Techno Entgleist in der Grellen Forelle. Gemeinsam mit Nine O Nine veranstaltet es die Techno-Reihe TECHNO OBSCENE im Das Werk.",
@@ -3623,7 +3625,8 @@ const CI={
    "https://sassvienna.com/de/programm/event/vivid-w-frieden-liebe"
   ],
   "noLogo": "2026-11-15",
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "logo": "https://ugc.production.linktr.ee/ZkiI5fvNR6WDumF00HvG_SscBmE0QnpAY4Gyf?f=.jpg"
  },
  "High Voltage Fairies": {
   "noLogo": "2026-11-15",
