@@ -80,25 +80,6 @@ DESCRIPTION:Bipolar Penguins\, Minki\, Drehli Robnik\nEintritt: 10 € (n
 URL:https://rave.wien/e/2026-11-22-sonntag-sdisco-vol-29
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-24-the-prodigy@rave.wien
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=Europe/Vienna:20261124T193000
-DTEND;TZID=Europe/Vienna:20261125T003000
-SUMMARY:The Prodigy
-LOCATION:Wiener Stadthalle\, Roland-Rainer-Platz 1\, 1150 Wien
-DESCRIPTION:The Prodigy\, Mefjus\n\nDie britische Rave-Institution The Pr
- odigy um Liam Howlett und Maxim spielt live in der Halle D der Wiener St
- adthalle (Einlass 18:30\, Beginn 19:30)\, präsentiert von Barracuda Mus
- ic. Die neue Liveshow mit den langjährigen Live-Mitgliedern Rob Hollida
- y (Gitarre) und Leo Crabtree (Schlagzeug) setzt laut Veranstalter auf gr
- elle Visuals und massiven Bass\; die Band arbeitet am Nachfolger von „
- No Tourists“\, nach sieben UK-Nummer-1-Alben in Folge seit „Music fo
- r the Jilted Generation“. Als Support legt der Wiener Drum-&-Bass-Prod
- uzent Mefjus auf. Tickets über oeticket.\n\nhttps://rave.wien/e/2026-11
- -24-the-prodigy
-URL:https://rave.wien/e/2026-11-24-the-prodigy
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-25-shared-frequencies-listening-session@rave.wien
 DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Vienna:20261125T183000
