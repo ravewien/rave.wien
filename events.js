@@ -2905,6 +2905,7 @@ const CI={
   "noLogo": "2026-11-15",
   "logo": "https://i1.sndcdn.com/avatars-NWM8W0Ztc4wLy4Jv-i5CZVw-t500x500.jpg",
   "logoBg": "#ffffff",
+  "sc": "https://soundcloud.com/cyclicexistence?ref=clipboard&p=i&c=0&si=FD0ECAA9167D4ACB8E8DBCBECAB6C823",
   "man": 1,
   "src": [
    "https://sassvienna.com/de/programm/event/cyclic-existence-4"
