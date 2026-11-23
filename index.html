@@ -162,6 +162,8 @@ a{color:inherit}
 /* layout */
 .browser{margin-top:12px;display:grid;gap:12px;grid-template-columns:1fr;align-items:start}
 @media (min-width:880px){.browser{grid-template-columns:264px minmax(0,1fr)}}
+/* Desktop: Ansichten (★ Liste Karte Artists Veranstalter) links, bündig über der Hauptspalte */
+@media (min-width:880px){.top>.seg[aria-label="View"]{order:1}.top>.spacer{order:2}.top>.zseg,.top>.seg[aria-label="Language"]{order:3}.top>.brand{min-width:262px;flex:none}}
 @media (min-width:1200px){.browser{grid-template-columns:264px minmax(0,1fr) minmax(340px,400px)}}
 
 /* deck */
