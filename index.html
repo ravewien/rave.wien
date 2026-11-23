@@ -2643,6 +2643,16 @@ if(EMBED&&!CONS)showBanner();
 .pri .prl{margin:4px 0;font-size:12px;display:flex;gap:10px;flex-wrap:wrap}
 .pri .prb{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
 .prbtn b{color:var(--accent,#1f8bff)}
+.prpane{display:none}
+body.prmode .prpane{display:block;background:var(--panel);border:1px solid var(--line);border-radius:3px;padding:12px 14px;min-width:0}
+body.prmode .browser>.side,body.prmode .browser>.mid{display:none!important}
+@media (max-width:1199px){body.prmode .browser{grid-template-columns:minmax(0,1fr)!important}}
+@media (min-width:1200px){body.prmode .browser{grid-template-columns:minmax(0,1fr) minmax(340px,440px)!important}body.prmode .browser>.rcol{grid-column:2}body.prmode .prpane{grid-column:1;position:sticky;top:8px;max-height:calc(100vh - 16px);overflow-y:auto}}
+.prhead{display:flex;justify-content:space-between;align-items:center;gap:8px}.prhead h2{margin:0}.prhead small{font-size:13px;color:var(--mute);font-weight:400}
+.prpane .sub{color:var(--mute);font-size:13px;margin:6px 0 4px}
+.prcard{background:none;border:0;padding:0;font:inherit;font-weight:700;color:var(--accent,#1f8bff);cursor:pointer;text-decoration:underline;text-underline-offset:2px}
+.pri .prk{font-size:13px;margin:4px 0;display:flex;gap:10px;flex-wrap:wrap;align-items:baseline}
+.prfoot{position:sticky;bottom:0;padding:10px 0 2px;background:var(--panel);display:flex;justify-content:flex-end}
 .edlist li button{border:1px solid var(--line);background:transparent;color:var(--mute);border-radius:3px;padding:3px 8px;font:700 10.5px var(--f-mono);cursor:pointer}
 .ednew{border:1px solid #e3b341;color:#e3b341;background:transparent;border-radius:3px;height:30px;padding:0 9px;font:700 11px var(--f-mono);letter-spacing:.06em;text-transform:uppercase;margin-right:8px;cursor:pointer}
 </style>

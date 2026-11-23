@@ -4,7 +4,7 @@
 //        ArtifactData-„list“ der Sammlung „pruefen“ (JSON-Dateien je Entscheidung). Ohne Ordner: nur Punkte > 60 Tage löschen.
 //   node .github/scripts/pruefen.js list                            – offene Punkte zeigen
 // Punkt: {typ:"spotify|doppelt|lineup|loeschen|genre|ort|preis|link|bild|hinweis", titel, text,
-//         links:["https://…"], vorschlag:{kind:"ev|art|col|ven", op:"edit|add|delete", key, title, data:{"links.sp":"https://…"}}}
+//         links:["https://…"], karten:[["art","Name"],["ev","<event-key>"]] (Karten zum Öffnen im Backend), vorschlag:{kind:"ev|art|col|ven", op:"edit|add|delete", key, title, data:{"links.sp":"https://…"}}}
 // key wie im Bearbeitungsmodus: Event = (d+"-"+slug(title)).slice(0,60), Artist/Veranstalter/Location = Name.
 // vorschlag weglassen = reiner Hinweis (Knopf „Erledigt“). id wird automatisch vergeben; gleiche id = kein Doppel.
 const fs=require("fs"),path=require("path");
@@ -21,7 +21,7 @@ if(cmd==="add"){const neu=JSON.parse(fs.readFileSync(arg,"utf8"));let n=0;
     if(v&&v.data&&Object.entries(v.data).some(([k,x])=>/^(links\.|tickets$|flyer$|img$)/.test(k)&&x&&!ok(x))){console.error("übersprungen (Link ohne https):",p.titel);continue}
     const id=(p.typ||"hinweis")+"-"+slug(v?v.kind+"-"+v.key+"-"+Object.keys(v.data||{}).join("-")+(v.op==="delete"?"-del":""):p.titel).slice(0,150);
     if(L.some(x=>x.id===id))continue;
-    L.push({id,ts:today,lauf:lauf||p.lauf||"",typ:p.typ||"hinweis",titel:String(p.titel||"").slice(0,200),text:String(p.text||"").slice(0,1500),links:(p.links||[]).filter(ok).slice(0,5),...(v?{vorschlag:v}:{})});n++}
+    L.push({id,ts:today,lauf:lauf||p.lauf||"",typ:p.typ||"hinweis",titel:String(p.titel||"").slice(0,200),text:String(p.text||"").slice(0,1500),links:(p.links||[]).filter(ok).slice(0,5),karten:(p.karten||[]).filter(k=>Array.isArray(k)&&["ev","art","col","ven"].includes(k[0])&&k[1]).slice(0,8),...(v?{vorschlag:v}:{})});n++}
   save(L);console.log(n+" neu, "+L.length+" offen")}
 else if(cmd==="prune"){const done=new Set();
   if(arg&&fs.existsSync(arg)){const walk=d=>fs.readdirSync(d,{withFileTypes:true}).forEach(e=>{const p=path.join(d,e.name);if(e.isDirectory())walk(p);else if(e.name.endsWith(".json"))done.add(e.name.slice(0,-5))});walk(arg)}
