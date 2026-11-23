@@ -216,5 +216,17 @@ window.PRUEF=[
     ]
    }
   }
+ },
+ {
+  "id": "hinweis-dominik-eulberg-live-12-03-2027-simm-city-festsaal",
+  "ts": "2026-11-23",
+  "lauf": "laptop-lauf",
+  "typ": "hinweis",
+  "titel": "Dominik Eulberg live · 12.03.2027 · Simm City Festsaal",
+  "text": "Songkick (Elektronik Wien) führt ein Konzert von Dominik Eulberg am 12.03.2027 im Simm City Festsaal (Zentrum Simmering, Einlass 20:00, oeticket ab 46,42 €). Nicht eingetragen, weil es ein Konzert in einem Mehrzweck-Festsaal ist und keine Clubnacht – bitte entscheiden, ob es in den Kalender soll.",
+  "links": [
+   "https://www.songkick.com/concerts/43172074-dominik-eulberg-at-simm-city-festsaal-zentrum-simmering"
+  ],
+  "karten": []
  }
 ];
