@@ -1490,7 +1490,8 @@ const CI={
   "infoChk": "2026-11-15",
   "alias": [
    "Herzfrequenz Techno"
-  ]
+  ],
+  "logo": "https://i1.sndcdn.com/avatars-em5BoupVXCSqpqft-huNbtg-t500x500.jpg"
  },
  "Contrast": {
   "founded": "2015",
@@ -1654,7 +1655,8 @@ const CI={
   "infoChk": "2026-11-15",
   "noLogo": "2026-11-15",
   "ig": "https://www.instagram.com/euphoria.wien/",
-  "sc": "https://soundcloud.com/user-878016587"
+  "sc": "https://soundcloud.com/user-878016587",
+  "logo": "https://i1.sndcdn.com/avatars-zNY47EczAqYJxA3J-O6RbVw-t500x500.jpg"
  },
  "Reverse": {
   "founded": "2022",
@@ -1803,7 +1805,8 @@ const CI={
   "bc": "https://misguidedlabel.bandcamp.com/",
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
-  "sc": "https://soundcloud.com/misguidedlabel"
+  "sc": "https://soundcloud.com/misguidedlabel",
+  "logo": "https://i1.sndcdn.com/avatars-ckXIziyWyIAh1fPo-NQHN3g-t500x500.jpg"
  },
  "Vienna Worldwide": {
   "founded": "2021",
@@ -1876,7 +1879,9 @@ const CI={
   ],
   "from": "Wien",
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/fuelized_events"
+  "ig": "https://www.instagram.com/fuelized_events",
+  "logo": "https://i1.sndcdn.com/avatars-3fcCHUnqIPizzusm-s33czQ-t500x500.jpg",
+  "sc": "https://soundcloud.com/fuelized_events"
  },
  "Drum & Bassick": {
   "founded": "2025",
@@ -2040,7 +2045,8 @@ const CI={
    "https://www.stuttgarter-zeitung.de/lokales/stuttgart/kinky-galore-veranstalter-jan-ehret-warum-stuttgart-ein-hotspot-von-sexpositiv-partys-ist-78961504.html"
   ],
   "infoChk": "2026-11-15",
-  "noLogo": "2026-11-15"
+  "noLogo": "2026-11-15",
+  "logo": "https://www.kinkygalore.net/assets/images/kgb-white-text.png"
  },
  "Zyklop Audio": {
   "de": "Vinyl-only-Label aus Wien, 2025 von Kormos gegründet; als Zyklop veranstaltet es auch Partys, etwa Open Airs mit Dunia.",
@@ -2206,7 +2212,8 @@ const CI={
   "alias": [
    "Kein Sonntag ohne Techno"
   ],
-  "man": 1
+  "man": 1,
+  "logo": "https://i1.sndcdn.com/avatars-000092680529-2xi74k-t500x500.jpg"
  },
  "Auf der Lauer": {
   "from": "Wien",
@@ -2280,7 +2287,9 @@ const CI={
   ],
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/tasteless.vie/"
+  "ig": "https://www.instagram.com/tasteless.vie/",
+  "logo": "https://i1.sndcdn.com/avatars-k1yXg6b9alUyMHMU-nVFfJQ-t500x500.jpg",
+  "sc": "https://soundcloud.com/tasteless-583660871"
  },
  "Ravenbogen": {
   "de": "Queere Partyreihe aus Graz, u. a. mit „Gayliens on Stardust“ im Theatercafé Hin & Wider.",
@@ -2605,7 +2614,8 @@ const CI={
    "https://ra.co/events/2416375"
   ],
   "infoChk": "2026-11-15",
-  "sc": "https://soundcloud.com/fadercult"
+  "sc": "https://soundcloud.com/fadercult",
+  "logo": "https://i1.sndcdn.com/avatars-pZfqBV6X6TRQCeB8-SlzqKA-t500x500.jpg"
  },
  "WOS Soundsystem": {
   "noLogo": "2026-11-15",
@@ -2673,7 +2683,9 @@ const CI={
    "https://de.ra.co/events/2337976"
   ],
   "infoChk": "2026-11-15",
-  "noLogo": "2026-11-15"
+  "noLogo": "2026-11-15",
+  "logo": "https://i1.sndcdn.com/avatars-vlQR7tLuDQNBTsxC-4bLxmA-t500x500.jpg",
+  "sc": "https://soundcloud.com/soularium-club"
  },
  "euphonic records": {
   "de": "Label bzw. Musikproduktionsfirma „Euphonic“, 1997 von Ralph Kyau und Steven Möbius Albert (Kyau & Albert) gegründet.",
@@ -2751,7 +2763,8 @@ const CI={
    "Les Suspects Habituels"
   ],
   "noLogo": "2026-11-15",
-  "sc": "https://soundcloud.com/lessuspectshabituels"
+  "sc": "https://soundcloud.com/lessuspectshabituels",
+  "logo": "https://i1.sndcdn.com/avatars-8zh9H1UeNGPvfTo1-X8jpqA-t500x500.jpg"
  },
  "909techno": {
   "de": "Techno-Crew Nine O Nine (909techno), die gemeinsam mit LSH die Reihe TECHNO OBSCENE im Das Werk veranstaltet.",
@@ -2846,7 +2859,8 @@ const CI={
    "https://ra.co/dj/roton/biography",
    "https://ra.co/events/2557226"
   ],
-  "noLogo": "2026-11-15"
+  "noLogo": "2026-11-15",
+  "logo": "https://i1.sndcdn.com/avatars-000307685432-i1cx09-t500x500.jpg"
  },
  "Hanzom": {
   "de": "Hanzom Music ist ein deutsches Drum-&-Bass-Label mit eigenen Events, 2018 gegründet, mit Fokus auf deep, dark Drum & Bass.",
@@ -2960,7 +2974,8 @@ const CI={
    "https://soundcloud.com/koestlich-kollektiv"
   ],
   "infoChk": "2026-11-15",
-  "sc": "https://soundcloud.com/koestlich-kollektiv"
+  "sc": "https://soundcloud.com/koestlich-kollektiv",
+  "logo": "https://i1.sndcdn.com/avatars-Urq1E8jI8yOLF5M9-xLztQw-t500x500.jpg"
  },
  "Gürtelgroove": {
   "ig": "https://www.instagram.com/guertelgroove/",
@@ -2968,7 +2983,9 @@ const CI={
   "src": [
    "https://www.clublucia.at/event/kostlich-x-gurtelgroove/"
   ],
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "logo": "https://i1.sndcdn.com/avatars-D2FBOF2qcqijUZOp-wrvsHw-t500x500.jpg",
+  "sc": "https://soundcloud.com/guertelgroove"
  },
  "sama recordings": {
   "de": "Unabhängiges Wiener Label, 2014 von Benedikt Guschlbauer gegründet, für stilistisch offene, experimentelle elektronische Musik; veranstaltet die Reihe „s c h w e b e n“.",
@@ -3035,7 +3052,8 @@ const CI={
   "infoChk": "2026-11-15",
   "founded": "2015",
   "foundedNote": 1,
-  "sc": "https://soundcloud.com/comejointhetribe"
+  "sc": "https://soundcloud.com/comejointhetribe",
+  "logo": "https://i1.sndcdn.com/avatars-TXd6jVMzOWGZV7ji-dyvOkA-t500x500.jpg"
  },
  "Dark Pressure": {
   "de": "Techno-Label mit eigener Eventreihe in Wien (Deep, Raw, Hypnotic und Industrial Techno); erstes Label-Event „Chapter 1“ im November 2025 im Kramladen.",
@@ -3144,7 +3162,8 @@ const CI={
   "foundedNote": 1,
   "web": "https://linktr.ee/cafe.mondo",
   "ig": "https://www.instagram.com/cafe_mondo_/",
-  "sc": "https://soundcloud.com/cafe-mondo"
+  "sc": "https://soundcloud.com/cafe-mondo",
+  "logo": "https://i1.sndcdn.com/avatars-ZFsZGodnB47XWOxy-nPU6Gw-t500x500.jpg"
  },
  "LustMusik": {
   "de": "Wiener Techno-Act und Veranstalter von Clubnächten wie „Schrille Marille“ im Rhiz.",
@@ -3231,7 +3250,8 @@ const CI={
    "https://www.mixcloud.com/vlanradio/"
   ],
   "infoChk": "2026-11-15",
-  "founded": "2020"
+  "founded": "2020",
+  "logo": "https://i1.sndcdn.com/avatars-ACDxS4XVfdmuiK1R-v6EJpA-t500x500.jpg"
  },
  "Fifi": {
   "noLogo": "2026-11-15",
@@ -3316,7 +3336,9 @@ const CI={
    "https://tzkrti.com/profile/raqsouna"
   ],
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/raqsouna/"
+  "ig": "https://www.instagram.com/raqsouna/",
+  "logo": "https://i1.sndcdn.com/avatars-Wl2vAfCPa7xpMbGo-xIYfuw-t500x500.jpg",
+  "sc": "https://soundcloud.com/raqsouna"
  },
  "MEIOSISS": {
   "de": "MEIOSISS veranstaltet im FLUCC die Techno-Flirtparty „Hot & Flirty“ mit Flirt-Armbändern und Konsens-Fokus („only YES means YES“) und legt dort auch selbst auf.",
@@ -3456,7 +3478,8 @@ const CI={
   ],
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
-  "sc": "https://soundcloud.com/kartellfm"
+  "sc": "https://soundcloud.com/kartellfm",
+  "logo": "https://i1.sndcdn.com/avatars-PWlqojGyDVj36LQN-F0zLAQ-t500x500.jpg"
  },
  "HEKTISCH": {
   "de": "Wiener Crew, die bei SYNERGY RAVE im Werk einen eigenen Floor gestaltet.",
@@ -3514,7 +3537,9 @@ const CI={
    "https://de.ra.co/events/2028150"
   ],
   "noLogo": "2026-11-15",
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "logo": "https://i1.sndcdn.com/avatars-000616618893-wl8kq9-t500x500.jpg",
+  "sc": "https://soundcloud.com/artattechwien"
  },
  "54Hz": {
   "de": "Partyreihe von Stay Acid im Das Werk (Wien), mindestens seit 2025, mit Bounce, Hard Bounce und Hard Techno.",
@@ -3632,7 +3657,8 @@ const CI={
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
   "ig": "https://www.instagram.com/switchrecordings/",
-  "sc": "https://soundcloud.com/switchrecordings"
+  "sc": "https://soundcloud.com/switchrecordings",
+  "logo": "https://i1.sndcdn.com/avatars-000220212937-flyzig-t500x500.jpg"
  },
  "Cardio Cult": {
   "noLogo": "2026-11-15",
@@ -3710,7 +3736,9 @@ const CI={
    "https://ra.co/events/2567885"
   ],
   "noLogo": "2026-11-15",
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "logo": "https://i1.sndcdn.com/avatars-D3wiKz4ytUg7Zza1-c21Oqg-t500x500.jpg",
+  "sc": "https://soundcloud.com/very-good-plus"
  },
  "Tribal Vibes": {
   "de": "Psytrance-Veranstalter, der nach eigener Ankündigung „den authentischen Old-School-Psychedelic-Spirit zurück nach Wien“ bringen will. Veranstaltungsort u. a. der Club Exil („Tribal Vibes meets Exil“).",
@@ -3744,7 +3772,8 @@ const CI={
   "sc": "https://soundcloud.com/tropicalthundervienna",
   "type": [
    "Kollektiv"
-  ]
+  ],
+  "logo": "https://i1.sndcdn.com/avatars-ZiMyPLeP3fzvBnnC-LhoO3g-t500x500.jpg"
  },
  "Untz Baby Untz": {
   "ig": "https://www.instagram.com/untz.baby.untz/",
@@ -3977,7 +4006,8 @@ const CI={
   "noLogo": "2026-11-15",
   "founded": "2018",
   "ig": "https://www.instagram.com/wienermischung.ofc/",
-  "sc": "https://soundcloud.com/wienermischung"
+  "sc": "https://soundcloud.com/wienermischung",
+  "logo": "https://i1.sndcdn.com/avatars-WzjNsz91i4lyUJNY-T8w1JQ-t500x500.jpg"
  },
  "Löwenzahn": {
   "de": "Wiener Techno-Crew („Löwenzahn Wien“, #LWZwien) mit Clubbings, Open Airs und Livestreams unter dem Motto „General Techno De-Restoration“, u. a. im Kramladen und bei Gratis-Open-Airs am Himmel und Wasser (Deep, Melodic, Rave, Techno); queer-friendly und konsensorientiert.",
@@ -4101,7 +4131,8 @@ const CI={
    "https://de.ra.co/events/1893761"
   ],
   "infoChk": "2026-11-15",
-  "sc": "https://soundcloud.com/purradox-634335544"
+  "sc": "https://soundcloud.com/purradox-634335544",
+  "logo": "https://i1.sndcdn.com/avatars-ZtRnESW1XDEpdqL5-zrfjMA-t500x500.jpg"
  },
  "Toy Tonics": {
   "de": "Toy Tonics ist ein Berliner House- und Disco-Label, das seit 2013 Vinyl und Digital veröffentlicht und von Kapote betrieben wird. In Wien richtet das Label regelmäßig die Labelnacht „Toy Tonics JAM“ im PRST aus.",
@@ -4145,7 +4176,9 @@ const CI={
    "https://de.ra.co/events/1556162"
   ],
   "infoChk": "2026-11-03",
-  "man": 1
+  "man": 1,
+  "logo": "https://i1.sndcdn.com/avatars-tI6579ZhFiA8pAKI-UgHJMQ-t500x500.jpg",
+  "sc": "https://soundcloud.com/yn_collective"
  },
  "CIVIC": {
   "de": "CIVIC (Civic Collective) ist ein Wiener Kollektiv für Bounce und Hard Techno, das sich im August 2025 mit „Introducing CIVIC“ im Loop vorstellte. Seither veranstaltet es u. a. die Reihe „Body Control“ im FLUCC sowie DnB-Ausgaben im Club Lucia.",
@@ -4618,7 +4651,8 @@ const CI={
   ],
   "infoChk": "2026-11-15",
   "noLogo": "2026-11-15",
-  "sc": "https://soundcloud.com/ukgvienna"
+  "sc": "https://soundcloud.com/ukgvienna",
+  "logo": "https://i1.sndcdn.com/avatars-e1S3ZddxCOnbf7SI-Jy6h4A-t500x500.jpg"
  },
  "Straat 264": {
   "de": "Wiener Reihe mit Events in der Grelle Forelle und im PRST, u. a. in Kooperation mit VNV.",
@@ -4633,7 +4667,8 @@ const CI={
   ],
   "infoChk": "2026-11-15",
   "noLogo": "2026-11-15",
-  "sc": "https://soundcloud.com/straat264"
+  "sc": "https://soundcloud.com/straat264",
+  "logo": "https://i1.sndcdn.com/avatars-B6FcoQZgXtn2zmgf-F8s7NA-t500x500.jpg"
  },
  "F*cken Plus": {
   "de": "Partyreihe in der Grelle Forelle mit Techno- und Pop-Sounds; Ausgaben u. a. als „Megerparty“, zum Pride Closing und gemeinsam mit Mayday.",
@@ -4937,7 +4972,8 @@ const CI={
   ],
   "alias": [
    "DerRadio"
-  ]
+  ],
+  "logo": "https://i1.sndcdn.com/avatars-ZTTRz6NBHg17Oz37-2JHjVA-t500x500.jpg"
  },
  "Garten von Eben": {
   "de": "Reihe im FLUCC mit den „Traumtempo“-Nächten, teils tagsüber und mit Workshops wie Connected Breathwork.",
@@ -4948,7 +4984,9 @@ const CI={
   "infoChk": "2026-11-15",
   "noLogo": "2026-11-15",
   "ig": "https://www.instagram.com/gartenvoneben/",
-  "man": 1
+  "man": 1,
+  "logo": "https://i1.sndcdn.com/avatars-4v7JbrreSMHy6m9N-Janguw-t500x500.jpg",
+  "sc": "https://soundcloud.com/gartenvoneben"
  },
  "Store Beats": {
   "de": "Reihe im Kramladen, u. a. mit einer „Mind Entertainment Edition“.",
@@ -5134,7 +5172,8 @@ const CI={
   ],
   "infoChk": "2026-11-15",
   "noLogo": "2026-11-15",
-  "sc": "https://soundcloud.com/unframed_wav"
+  "sc": "https://soundcloud.com/unframed_wav",
+  "logo": "https://i1.sndcdn.com/avatars-R7EMszptiu6NpITM-tBc9yw-t500x500.jpg"
  },
  "Opération": {
   "de": "Österreichisches Eventformat, gegründet 2025, mit House- und Progressive-House-Nächten im SASS Music Club am Karlsplatz.",
@@ -5196,7 +5235,9 @@ const CI={
   ],
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/acidlambada/"
+  "ig": "https://www.instagram.com/acidlambada/",
+  "logo": "https://i1.sndcdn.com/avatars-PV56EgJSDvunheRl-vbXv7A-t500x500.jpg",
+  "sc": "https://soundcloud.com/acidlambada"
  },
  "Festklub": {
   "alias": [
@@ -5275,7 +5316,9 @@ const CI={
    "https://ra.co/events/2124177"
   ],
   "noLogo": "2026-11-15",
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "logo": "https://i1.sndcdn.com/avatars-000088381980-vygg09-t500x500.jpg",
+  "sc": "https://soundcloud.com/club-fatale"
  },
  "Klanggerecht": {
   "de": "Wiener Kollektiv (Kollektiv Klanggerecht), das Abende mit Tech House, Minimal, Progressive House und Hard Groove veranstaltet, etwa „Klanggerecht x Shameless“ im FLUCC und „Tanzinstanz“ im Club Lucia (2026).",
@@ -5632,7 +5675,9 @@ const CI={
   "src": [
    "https://ra.co/events/2248917",
    "https://ra.co/events/2433008"
-  ]
+  ],
+  "logo": "https://i1.sndcdn.com/avatars-K9PT8S3Sx0nnG2s7-qSlB5A-t500x500.jpg",
+  "sc": "https://soundcloud.com/techno-kult-official"
  },
  "Bassic Instinct": {
   "de": "Clubnacht des Wiener Drum-&-Bass-DJs BIG Z für Old School Drum & Bass und Jungle, zum Auftakt oft mit Bass, Breaks und Garage; 2025 im Loop in den Stadtbahnbögen, 2026 im Club Lucia, u. a. mit DKAY und Paul SG.",
@@ -5663,7 +5708,8 @@ const CI={
   ],
   "infoChk": "2026-11-15",
   "noLogo": "2026-11-15",
-  "sc": "https://soundcloud.com/wyldhearts"
+  "sc": "https://soundcloud.com/wyldhearts",
+  "logo": "https://i1.sndcdn.com/avatars-szhmHjs32fcVEHlc-wxv31w-t500x500.jpg"
  },
  "Unkwn": {
   "infoChk": "2026-11-15",
@@ -5880,7 +5926,9 @@ const CI={
    "https://ra.co/events/2469302"
   ],
   "infoChk": "2026-11-15",
-  "noLogo": "2026-11-15"
+  "noLogo": "2026-11-15",
+  "logo": "https://i1.sndcdn.com/avatars-5tEDU5BaTMOyyHdm-ZHbb1Q-t500x500.jpg",
+  "sc": "https://soundcloud.com/subwaves-vie"
  },
  "nomind.": {
   "de": "Veranstalter von House- und Minimal-Nachmittagen im Porto Pollo auf der Donauinsel, wo nomind. Musik mit gleichgesinnten Artists teilt, etwa 2026 mit Verleger.",
@@ -5967,7 +6015,8 @@ const CI={
   ],
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/citruscue/"
+  "ig": "https://www.instagram.com/citruscue/",
+  "logo": "https://i1.sndcdn.com/avatars-t4bY1nDm7VD91uaR-2MAsIA-t500x500.jpg"
  },
  "Clubgewandte": {
   "de": "Clubnacht im Gebäude der Universität für angewandte Kunst in der ehemaligen Postsparkasse (Angewandte PSK) mit Live-Musik, DJ-Sets und Kunst, meist bei freiem Eintritt.",
@@ -6051,7 +6100,8 @@ const CI={
   "src": [
    "https://de.ra.co/promoters/135485",
    "https://www.1000thingsmagazine.com/de/a/2176002/apartment-acht-kehrt-zurueck-wien-1150/"
-  ]
+  ],
+  "logo": "https://i1.sndcdn.com/avatars-MH8GgjhYJYTXvRny-3zl8sw-t500x500.jpg"
  },
  "Restless": {
   "noLogo": "2026-11-15",
@@ -6163,7 +6213,8 @@ const CI={
    "https://ohschonhell.at/date/einbaumoebel-1bm-vienna-21-11-2026-bass-cave-drum-and-bass-w-unonessuno-mpathy",
    "https://warda.at/?p=110196"
   ],
-  "sc": "https://soundcloud.com/bass-cave"
+  "sc": "https://soundcloud.com/bass-cave",
+  "logo": "https://i1.sndcdn.com/avatars-000453643305-ky7683-t500x500.jpg"
  },
  "LOVEDANCIN'": {
   "de": "Partyreihe aus Deutschland (u. a. Berlin und Köln), verbunden mit dem Label kickin up dust; in Wien mit einer Ausgabe im Funkhaus.",
@@ -6187,7 +6238,9 @@ const CI={
   "en": "Viennese crew whose 'Oldies hören' parties feature sing-along pop and oldies from the 70s, 80s and 90s. On New Year's Eve 2025 the party was held publicly for the first time at Loop, with its own awareness team.",
   "src": [
    "https://ra.co/events/2311188"
-  ]
+  ],
+  "logo": "https://i1.sndcdn.com/avatars-AAgmOTeL5LQnMiAw-WYSVMg-t500x500.jpg",
+  "sc": "https://soundcloud.com/kann_und_will"
  },
  "Acidic Juice": {
   "noLogo": "2026-11-10",
@@ -6328,7 +6381,8 @@ const CI={
   "infoChk": "2026-11-15",
   "src": [
    "https://ra.co/dj/audio303"
-  ]
+  ],
+  "logo": "https://i1.sndcdn.com/avatars-dQZEKFS50ypELVwU-w7LypA-t500x500.jpg"
  },
  "It's George": {
   "alias": [
@@ -6342,7 +6396,8 @@ const CI={
   "infoChk": "2026-11-15",
   "src": [
    "https://ra.co/dj/itsgeorge!"
-  ]
+  ],
+  "logo": "https://i1.sndcdn.com/avatars-x5BvyP28PzAxPtyE-NyGXxg-t500x500.jpg"
  },
  "Vangardist": {
   "de": "Veranstalter der Party „Männer im Loft“ im The Loft in Wien (Tickets über Eventjet).",
@@ -6618,7 +6673,8 @@ const CI={
   "infoChk": "2026-11-20",
   "src": [
    "https://flucc.at/events/iGHALN-unlockme-garten-von-eben/"
-  ]
+  ],
+  "logo": "https://i1.sndcdn.com/avatars-FaV4gRRegp64iWSV-Dp6Yvg-t500x500.jpg"
  },
  "Forbidden Frequency": {
   "de": "Junges, progressives DJ-Kollektiv aus Wien mit Fokus auf Nachwuchskünstler:innen; Partys mit Techno, Trance, House, Drum & Bass und Garage an wechselnden Orten wie Club Lucia, Loop und Kramladen.",
@@ -6739,7 +6795,8 @@ const CI={
    "https://ra.co/events/1334030"
   ],
   "noLogo": "2026-11-23",
-  "infoChk": "2026-11-23"
+  "infoChk": "2026-11-23",
+  "logo": "https://i1.sndcdn.com/avatars-000708163477-xxqys5-t500x500.jpg"
  },
  "RaveCon": {
   "de": "Partyreihe des Wiener Kunst- und Kulturvereins Mind Entertainment (Label Mind Entertainment Records) mit Techno und Hard Techno, zuletzt im Weberknecht und im Werk.",
