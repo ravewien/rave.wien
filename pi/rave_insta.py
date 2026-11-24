@@ -44,7 +44,7 @@ import json, os, sys, time, random, logging, urllib.request, urllib.error, hashl
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-24.5"
+VERSION = "2026-11-24.6"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -578,7 +578,9 @@ def ig_bild_aus_html(html):
     if not html: return None
     m = (re.search(r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', html) or re.search(r'<meta[^>]+content="([^"]+)"[^>]+property="og:image"', html))
     if m: return m.group(1).replace("&amp;", "&")
-    for pat in (r'"profile_pic_url_hd"\s*:\s*"([^"]+)"', r'"profile_pic_url"\s*:\s*"([^"]+)"', r'"(https:\\/\\/[^"]+?\\/v\\/t51\.\d+-19\\/[^"]+?)"'):
+    for pat in (r'<img[^>]+alt="[^"]*(?:profile picture|Profilbild)[^"]*"[^>]+src="([^"]+)"', r'<img[^>]+src="([^"]+)"[^>]+alt="[^"]*(?:profile picture|Profilbild)[^"]*"',
+                r'src="(https://[^"]+?/v/t51\.\d+-19/[^"]+)"',
+                r'"profile_pic_url_hd"\s*:\s*"([^"]+)"', r'"profile_pic_url"\s*:\s*"([^"]+)"', r'"(https:\\/\\/[^"]+?\\/v\\/t51\.\d+-19\\/[^"]+?)"'):
         m = re.search(pat, html)
         if m:
             u = m.group(1).encode().decode("unicode_escape") if "\\u" in m.group(1) else m.group(1)
@@ -895,7 +897,16 @@ def main():
                 print(f"Bild laden: Fehler {e}")
             return
         dom = browser_dom(f"https://www.instagram.com/{h}/")
-        print(f"Chromium ohne Cookies: {BROWSER_INFO if dom is None else str(len(dom)) + ' Zeichen, Profilbild ' + ('gefunden' if 'og:image' in dom else 'NICHT gefunden')}")
+        b2 = ig_bild_aus_html(dom)
+        print(f"Chromium ohne Cookies: {BROWSER_INFO if dom is None else str(len(dom)) + ' Zeichen, Profilbild ' + ('gefunden: ' + b2[:70] + '…' if b2 else 'NICHT gefunden')}")
+        if dom and not b2:
+            imgs = re.findall(r'<img[^>]+>', dom)[:6]; print(f"{len(re.findall(r'<img', dom))} Bilder in der Seite, Login-Hinweis: {'ja' if re.search(r'Melde dich an|Log in|Anmelden', dom) else 'nein'}")
+            for i in imgs: print("  ", re.sub(r'(src="[^"]{60})[^"]*', r'\1…', i)[:220])
+        if b2:
+            try:
+                st2, typ2, data, _ = _hole(b2, binary=True); print(f"Bild laden: HTTP {st2}, {len(data)} Bytes, {typ2}")
+            except Exception as e:
+                print(f"Bild laden: Fehler {e}")
         return
     if cmd == "schluessel":
         print(schluessel_text(schluessel_anlegen())); return
