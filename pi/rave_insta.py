@@ -43,7 +43,7 @@ import json, os, sys, time, random, logging, urllib.request, urllib.error, hashl
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-24.3"
+VERSION = "2026-11-24.4"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -572,6 +572,18 @@ def seiten_abrufen(urls, ordner, merken=False):
     if merken: HASHES.write_text(json.dumps(neu))
     ok = sum(1 for r in idx if not r[4]); return ok, len(idx) - ok, sum(1 for r in idx if r[5] == heute)
 
+def ig_bild_aus_html(html):
+    """Profilbild-Adresse aus der Instagram-Seite: og:image, sonst eingebettete Daten (profile_pic_url, Pfad …-19/ = Profilbild)."""
+    if not html: return None
+    m = (re.search(r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', html) or re.search(r'<meta[^>]+content="([^"]+)"[^>]+property="og:image"', html))
+    if m: return m.group(1).replace("&amp;", "&")
+    for pat in (r'"profile_pic_url_hd"\s*:\s*"([^"]+)"', r'"profile_pic_url"\s*:\s*"([^"]+)"', r'"(https:\\/\\/[^"]+?\\/v\\/t51\.\d+-19\\/[^"]+?)"'):
+        m = re.search(pat, html)
+        if m:
+            u = m.group(1).encode().decode("unicode_escape") if "\\u" in m.group(1) else m.group(1)
+            return u.replace("\\/", "/").replace("&amp;", "&")
+    return None
+
 BROWSER_INFO = ""
 
 def browser_dom(url, warten_ms=6000):
@@ -628,13 +640,13 @@ def ig_bilder(liste, ordner, state):
             say(f"Instagram bremst (HTTP {st}) – für heute Schluss"); break
         if st == 404:
             erl[h] = heute + " fehlt"; continue
-        m = og(html, "image")
-        if not m:
+        bild = ig_bild_aus_html(html)
+        if not bild:
             dom = browser_dom(url)
             if dom and ("/challenge" in dom[:3000]):
                 say("Instagram verlangt eine Prüfung – für heute Schluss"); break
-            m = og(dom, "image"); html = dom or html
-        if not m:
+            bild = ig_bild_aus_html(dom); html = dom or html
+        if not bild:
             if "Seite ist leider nicht verfügbar" in (html or "") or "isn't available" in (html or ""):
                 erl[h] = heute + " fehlt"; continue
             erl[h] = heute + " kein-bild"; leer += 1
@@ -643,7 +655,6 @@ def ig_bilder(liste, ordner, state):
                 say("3 Profile hintereinander ohne Bild – für heute Schluss"); break
             continue
         leer = 0
-        bild = m.group(1).replace("&amp;", "&")
         try:
             st2, _, data, _ = _hole(bild, binary=True)
             im = Image.open(io.BytesIO(data)).convert("RGB")
@@ -835,8 +846,14 @@ def main():
     if cmd == "igtest":
         h = (sys.argv[2] if len(sys.argv) > 2 else "raver.wien").strip("@/ ")
         st, typ, html, final = _hole(f"https://www.instagram.com/{h}/")
-        m = re.search(r'property="og:image"', html or "")
-        print(f"einfacher Abruf: HTTP {st}, {len(html or '')} Zeichen, Profilbild {'gefunden' if m else 'NICHT gefunden'}, Ziel {final}")
+        b = ig_bild_aus_html(html)
+        print(f"einfacher Abruf: HTTP {st}, {len(html or '')} Zeichen, Profilbild {'gefunden: ' + b[:70] + '…' if b else 'NICHT gefunden'}, Ziel {final}")
+        if b:
+            try:
+                st2, typ2, data, _ = _hole(b, binary=True); print(f"Bild laden: HTTP {st2}, {len(data)} Bytes, {typ2}")
+            except Exception as e:
+                print(f"Bild laden: Fehler {e}")
+            return
         dom = browser_dom(f"https://www.instagram.com/{h}/")
         print(f"Chromium ohne Cookies: {BROWSER_INFO if dom is None else str(len(dom)) + ' Zeichen, Profilbild ' + ('gefunden' if 'og:image' in dom else 'NICHT gefunden')}")
         return
