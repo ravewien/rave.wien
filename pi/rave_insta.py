@@ -15,6 +15,7 @@ Läuft auf dem Raspberry Pi alle 10 Minuten (cron). Zugangsdaten stehen nur loka
   python3 rave_insta.py update    # sofort nach einer neuen Programmversion suchen
   python3 rave_insta.py abruf     # Event-Quellen jetzt abrufen (läuft sonst täglich ab ca. 05:25 von selbst)
   python3 rave_insta.py auftrag   # offene Abruf-Aufträge aus der Warteschlange jetzt abarbeiten
+  python3 rave_insta.py igtest NAME  # prüft, ob das Instagram-Profilbild von NAME gefunden wird (lädt nichts hoch)
   python3 rave_insta.py schluessel  # zeigt den Schlüssel, den du einmalig bei GitHub hinterlegst
 
 Abruf (Hauptsuche): Täglich ab ca. 05:25 holt der Pi alle Quellseiten (Clubprogramme, Portale, Eventseiten, Veranstalter-Websites)
@@ -42,7 +43,7 @@ import json, os, sys, time, random, logging, urllib.request, urllib.error, hashl
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-23.2"
+VERSION = "2026-11-24.1"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -571,34 +572,76 @@ def seiten_abrufen(urls, ordner, merken=False):
     if merken: HASHES.write_text(json.dumps(neu))
     ok = sum(1 for r in idx if not r[4]); return ok, len(idx) - ok, sum(1 for r in idx if r[5] == heute)
 
+def browser_dom(url, warten_ms=6000):
+    """Seite in einem frischen, kopflosen Chromium öffnen (eigenes leeres Profil, keine Cookies, danach gelöscht)
+    und das fertige HTML zurückgeben. Immer nur ein Browser gleichzeitig (2 GB RAM). None, wenn kein Chromium da ist."""
+    import shutil, tempfile
+    exe = shutil.which("chromium") or shutil.which("chromium-browser")
+    if not exe:
+        return None
+    prof = tempfile.mkdtemp(prefix="rave-chr-", dir="/dev/shm" if Path("/dev/shm").exists() else None)
+    try:
+        import signal
+        pr = subprocess.Popen([exe, "--headless=new", "--disable-gpu", "--no-first-run", "--no-default-browser-check", "--mute-audio",
+                            "--disable-extensions", "--disable-background-networking", "--blink-settings=imagesEnabled=false",
+                            f"--user-data-dir={prof}", f"--virtual-time-budget={warten_ms}", "--window-size=1280,900",
+                            "--lang=de-AT", f"--user-agent={UA_WEB}", "--dump-dom", url], stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, text=True, start_new_session=True)
+        try:
+            out, _ = pr.communicate(timeout=60)
+        except subprocess.TimeoutExpired:
+            os.killpg(pr.pid, signal.SIGKILL); pr.communicate(); log.warning(f"Browser {url}: Zeitüberschreitung"); return None
+        return out or None
+    except Exception as e:
+        log.warning(f"Browser {url}: {e}"); return None
+    finally:
+        shutil.rmtree(prof, ignore_errors=True)
+
 def ig_bilder(liste, ordner, state):
-    """Instagram-Profilbilder ohne Anmeldung (keine Cookies, nicht das rave.wien-Konto). Hört beim ersten Zeichen von Bremsen auf."""
+    """Instagram-Profilbilder ohne Anmeldung (keine Cookies, nicht das rave.wien-Konto).
+    Erst einfacher Abruf; liefert der kein Profilbild, ein frischer Chromium ohne Cookies. Hört beim ersten Zeichen von Bremsen
+    oder nach 3 Profilen ohne Bild hintereinander für heute auf."""
     from PIL import Image
     import io
     erl = state.setdefault("ig_bilder", {}); heute = wien_jetzt().strftime("%Y-%m-%d")
+    # Fehlversuche nach 14 Tagen erneut probieren
+    for h, v in list(erl.items()):
+        if " " in v and v[:10] < (datetime.now() - timedelta(days=14)).strftime("%Y-%m-%d"): del erl[h]
     offen = [x for x in liste if x.get("h") and x["h"] not in erl][:IG_PRO_TAG]
-    (ordner / "ig").mkdir(parents=True, exist_ok=True); n = 0; meta = {}
+    (ordner / "ig").mkdir(parents=True, exist_ok=True); n = 0; meta = {}; leer = 0
+    og = lambda t, p: (re.search(r'<meta[^>]+property="og:' + p + r'"[^>]+content="([^"]+)"', t or "") or re.search(r'<meta[^>]+content="([^"]+)"[^>]+property="og:' + p + '"', t or ""))
     for k, x in enumerate(offen):
         if k: time.sleep(random.uniform(*IG_PAUSE_S))
-        h = x["h"]
+        h = x["h"]; url = f"https://www.instagram.com/{h}/"
         try:
-            st, typ, html, final = _hole(f"https://www.instagram.com/{h}/")
+            st, typ, html, final = _hole(url)
         except Exception as e:
             say(f"Instagram {h}: {e} – für heute Schluss"); break
-        if st in (429, 401, 403) or "/accounts/login" in final or "/challenge" in final:
+        if st in (429, 401, 403) or "/challenge" in final:
             say(f"Instagram bremst (HTTP {st}) – für heute Schluss"); break
-        if st == 404 or "Seite ist leider nicht verfügbar" in html or "Page Not Found" in html:
+        if st == 404:
             erl[h] = heute + " fehlt"; continue
-        m = re.search(r'<meta property="og:image" content="([^"]+)"', html)
+        m = og(html, "image")
         if not m:
-            say(f"Instagram {h}: kein Profilbild in der Seite – für heute Schluss"); break
+            dom = browser_dom(url)
+            if dom and ("/challenge" in dom[:3000]):
+                say("Instagram verlangt eine Prüfung – für heute Schluss"); break
+            m = og(dom, "image"); html = dom or html
+        if not m:
+            if "Seite ist leider nicht verfügbar" in (html or "") or "isn't available" in (html or ""):
+                erl[h] = heute + " fehlt"; continue
+            erl[h] = heute + " kein-bild"; leer += 1
+            say(f"Instagram {h}: kein Profilbild gefunden")
+            if leer >= 3:
+                say("3 Profile hintereinander ohne Bild – für heute Schluss"); break
+            continue
+        leer = 0
         bild = m.group(1).replace("&amp;", "&")
         try:
             st2, _, data, _ = _hole(bild, binary=True)
             im = Image.open(io.BytesIO(data)).convert("RGB")
             if min(im.size) < 100: raise ValueError("zu klein")
             im.thumbnail((320, 320)); im.save(ordner / "ig" / f"{h}.jpg", "JPEG", quality=88)
-            t = re.search(r'<meta property="og:title" content="([^"]+)"', html)
+            t = og(html, "title")
             meta[h] = {"name": x.get("name"), "titel": t.group(1) if t else ""}
             erl[h] = heute; n += 1
         except Exception as e:
@@ -781,6 +824,14 @@ def main():
         abruf(); return
     if cmd == "auftrag":
         auftraege(); return
+    if cmd == "igtest":
+        h = (sys.argv[2] if len(sys.argv) > 2 else "raver.wien").strip("@/ ")
+        st, typ, html, final = _hole(f"https://www.instagram.com/{h}/")
+        m = re.search(r'property="og:image"', html or "")
+        print(f"einfacher Abruf: HTTP {st}, {len(html or '')} Zeichen, Profilbild {'gefunden' if m else 'NICHT gefunden'}, Ziel {final}")
+        dom = browser_dom(f"https://www.instagram.com/{h}/")
+        print(f"Chromium ohne Cookies: {'nicht installiert' if dom is None else str(len(dom)) + ' Zeichen, Profilbild ' + ('gefunden' if 'og:image' in dom else 'NICHT gefunden')}")
+        return
     if cmd == "schluessel":
         print(schluessel_text(schluessel_anlegen())); return
     if cmd == "pause":
