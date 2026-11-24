@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-a6lg9MkTUHkN43+ZQc9G7MIN10WeUHTK1JAFtTqvnjI='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-vVeuA/qc5W3YTQUNrYoJVIh4ad59AeZy0MEwJ/f0ULM='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -458,7 +458,9 @@ iframe.mc{width:100%;height:60px;border:0;margin-bottom:6px}
 .deck .artists button.hl,.deck .tt button.hl{font-weight:700;color:var(--fg);font-size:calc(1em + 2px);text-decoration:none}
 .row.tk .arts b.hl{color:var(--fg);font-weight:700}
 .hlbadge{display:inline-block;align-self:flex-start;font-family:var(--f-mono);font-weight:700;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--c-art);border:1px solid color-mix(in srgb,var(--c-art) 55%,transparent);border-radius:3px;padding:3px 7px;margin:2px 0}
-.hlx{font-family:var(--f-mono);font-size:.72em;font-weight:700;color:var(--c-art);white-space:nowrap;vertical-align:.15em;margin-left:4px}
+.xr .xn.xh{font-size:14px;color:var(--c-art)}.xr .xn.xh small{color:var(--c-art)}
+.x-art .xr .cnts:has(.xh){grid-template-columns:repeat(3,minmax(26px,1fr));max-width:168px}
+@container out (max-width:759px){.xr .xn.xh{display:none}.x-art .xr .cnts:has(.xh){grid-template-columns:repeat(2,minmax(28px,1fr));max-width:120px}}
 
 /* Handy: Lineup in der Übersicht ausblenden (steht in der Detailkarte) – außer während einer Suche */
 @media (max-width:879px){html:not(.qon) .row.tk .arts{display:none!important}}
@@ -737,7 +739,7 @@ html.a-motion .active-f.nomatch button{animation:none}
 .x-art .xr[aria-current="true"]{background-color:#35204f}.x-col .xr[aria-current="true"]{background-color:#4a2c0c}.x-ven .xr[aria-current="true"]{background-color:#173f20}
 .x-art .xr:not(.x0) .nd,.x-col .xr .nd,.x-ven .xr .nd{color:var(--accent)}
 @container out (min-width:760px){
-  .x-art{--xc:minmax(0,1.3fr) minmax(0,.7fr) minmax(0,1.1fr) 150px 112px 92px}
+  .x-art{--xc:minmax(0,1.5fr) minmax(0,.6fr) minmax(0,1fr) 128px 150px 80px}
   .x-col{--xc:minmax(0,1.3fr) minmax(0,1.7fr) 160px 112px 52px}
   .x-ven{--xc:minmax(0,1.2fr) minmax(0,1fr) minmax(0,1fr) 170px 112px}
   .xhead{display:grid;grid-template-columns:var(--xc);column-gap:16px;padding:7px 14px;font-family:var(--f-mono);font-size:9.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--mute);border-bottom:1px solid var(--line)}
@@ -2309,13 +2311,13 @@ function withLetters(rows,html){if(xsOn())return html.join("");let cur="",out=""
 function ruleFlags(r){const l=L();return FLAGS.filter(f=>r&&r[f[0]]).map(([k,c,lab,,ic])=>`<span class="flag ${c}${st.f.has(k)?" on":""}" data-tf="f" data-n="${k}" title="${esc(l[lab])}"><i class="ico ${c}">${ic}</i>${esc(l[lab])}</span>`).join("")}
 function xheadHTML(k){const l=L();const H={art:[l.thArt,l.origin,l.genres,l.thNext,l.cTerm,l.thHear],col:[l.thCol,l.thGenRules,"",l.thNext,l.cTerm,l.cDj],ven:[l.thVen,l.genres,l.thRules,l.thNext,l.cTerm,""]}[k];
   const ar=b=>XS.by===b||(b==="name"&&!xsOn())?(XS.dir>0||b==="name"?" ▾":" ▴"):"";const sb=(b,t)=>`<button type="button" class="xsb${XS.by===b||(b==="name"&&!xsOn())?" on":""}" data-xs="${b}">${esc(t)}${ar(b)}</button>`;
-  return `<div class="xhead">${H.map((h,i)=>`<span class="h${i}">${i===0?sb("name",h):i===3?sb("next",h):i===4?sb("up",l.cUp)+" · "+sb("past",l.cPast)+(k==="art"?" · "+sb("head","★"):""):esc(h)}</span>`).join("")}</div>`}
+  return `<div class="xhead">${H.map((h,i)=>`<span class="h${i}">${i===0?sb("name",h):i===3?sb("next",h):i===4?sb("up",l.cUp)+" · "+sb("past",l.cPast)+(k==="art"?" · "+sb("head","Headliner"):""):esc(h)}</span>`).join("")}</div>`}
 function xrowHTML(o){const l=L();
   const fk={art:"a",col:"c",ven:"v"}[o.k];return `<button class="row xr${o.closed?" xclosed":""}${isFav(fk,o.name)?" isfav":""}" ${o.attr} aria-current="${o.cur}">${rstar(fk,o.name)}<span class="main">
-    <span class="c1${o.tile?" wl":""}">${o.tile||""}${o.tile?`<span class="c1t">`:""}<span class="ti">${esc(o.name)}${o.n3?` <span class="hlx" title="${esc(l.hlTip)}">★${o.n3}</span>`:""}${o.closed?`<span class="badge">${l.closedV}</span>`:""}</span>${o.sub?`<small class="sub">${esc(o.sub)}</small>`:""}${o.tags?`<span class="tags">${o.tags}</span>`:""}${o.tile?`</span>`:""}</span>
+    <span class="c1${o.tile?" wl":""}">${o.tile||""}${o.tile?`<span class="c1t">`:""}<span class="ti">${esc(o.name)}${o.closed?`<span class="badge">${l.closedV}</span>`:""}</span>${o.sub?`<small class="sub">${esc(o.sub)}</small>`:""}${o.tags?`<span class="tags">${o.tags}</span>`:""}${o.tile?`</span>`:""}</span>
     ${o.c2?`<small class="c2">${esc(o.c2)}</small>`:""}
     <span class="gf">${gcl(o.gen)}${o.flags?`<span class="flags">${o.flags}</span>`:""}</span></span>
-    <span class="stub"><span class="nx">${o.nx?`<span class="nd">${fmtDay(o.nx.d)}</span>${o.nxSub}`:`<span class="nd no">–</span>`}</span><span class="n1 cnts"><span class="xn">${o.n1||0}<small>${esc(o.n1l)}</small></span><span class="xn xp">${o.n2||0}<small>${esc(L().cPast)}</small></span></span>${o.ex?`<span class="ex">${o.ex}</span>`:""}</span></button>`}
+    <span class="stub"><span class="nx">${o.nx?`<span class="nd">${fmtDay(o.nx.d)}</span>${o.nxSub}`:`<span class="nd no">–</span>`}</span><span class="n1 cnts"><span class="xn">${o.n1||0}<small>${esc(o.n1l)}</small></span><span class="xn xp">${o.n2||0}<small>${esc(L().cPast)}</small></span>${o.k==="art"?`<span class="xn xh" title="${esc(l.hlTip)}">${o.n3||0}<small>Headliner</small></span>`:""}</span>${o.ex?`<span class="ex">${o.ex}</span>`:""}</span></button>`}
 function reportURL(what,link){const l=L();return "mailto:feedback@rave.wien?subject="+encodeURIComponent(l.reportSub+(what?": "+what:""))+"&body="+encodeURIComponent((link?link+"\n\n":"")+l.reportBody+"\n")}
 const PINSVG='<svg class="pin" viewBox="0 0 11 14" aria-hidden="true"><path fill="currentColor" d="M5.5 0A5.5 5.5 0 0 0 0 5.5C0 9.6 5.5 14 5.5 14S11 9.6 11 5.5A5.5 5.5 0 0 0 5.5 0zm0 7.6a2.1 2.1 0 1 1 0-4.2 2.1 2.1 0 0 1 0 4.2z"/></svg>';
 const CEL={};const ck=c=>c.k+"\u0001"+c.n;
