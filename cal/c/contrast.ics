@@ -26,26 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-21-contrast-pres-dj-marky-pola-bryson@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T230000
-DTEND;TZID=Europe/Vienna:20261122T060000
-SUMMARY:Contrast pres. DJ Marky + Pola & Bryson
-LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Mainfloor: DJ Marky\, Pola & Bryson\nKitchen · EN:VY: En:vy\
- , Armin Karmin\, Stan Matan\, Mantis\, Nysos\nVeranstalter: Contrast\nEi
- ntritt: VVK ca. 20–24 € (Eventbrite inkl. Gebühren)\, AK 26 €\n\n
- Das Kollektiv Contrast holt DJ Marky und Pola & Bryson in die Grelle For
- elle. Auf dem Mainfloor spielt DJ Marky (Innerground Records\, Brasilien
- )\, dazu das Duo Pola & Bryson (Shogun Audio / Hospital\, UK) und die Co
- ntrast-Residents. Die Kitchen wird von EN:VY gehostet und bringt House\,
-  Dubstep und UK Garage mit En:vy\, Armin Karmin\, Stan Matan\, Mantis un
- d Nysos. Einlass ist um 23:00. Vorverkauf über Eventbrite\, an der Aben
- dkassa 26 € für die ganze Nacht. Ab 18\, Ausweis mitbringen.\n\nhttps
- ://rave.wien/e/2026-11-21-contrast-pres-dj-marky-pola-bryson
-URL:https://rave.wien/e/2026-11-21-contrast-pres-dj-marky-pola-bryson
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-12-12-contrast-pres-dance-macabre-w-simula-enei-skantia@rave.wien
 DTSTAMP:20261212T000000Z
 DTSTART;TZID=Europe/Vienna:20261212T230000
@@ -458,5 +438,25 @@ DESCRIPTION:Calyx\, Kasra\, QZB\, Sequent\, SMG\nVeranstalter: Contrast\n
  b-sequent
 URL:https://rave.wien/e/2026-09-19-contrast-pres-critical-w-calyx-kasra-q
  zb-sequent
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-21-contrast-pres-dj-marky-pola-bryson@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T230000
+DTEND;TZID=Europe/Vienna:20261122T060000
+SUMMARY:Contrast pres. DJ Marky + Pola & Bryson
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:DJ Marky\, Pola & Bryson\, En:vy\, Armin Karmin\, Stan Matan\
+ , Mantis\, Nysos\nVeranstalter: Contrast\nEintritt: VVK ca. 20–24 € 
+ (Eventbrite inkl. Gebühren)\, AK 26 €\n\nDas Kollektiv Contrast holt 
+ DJ Marky und Pola & Bryson in die Grelle Forelle. Auf dem Mainfloor spie
+ lt DJ Marky (Innerground Records\, Brasilien)\, dazu das Duo Pola & Brys
+ on (Shogun Audio / Hospital\, UK) und die Contrast-Residents. Die Kitche
+ n wird von EN:VY gehostet und bringt House\, Dubstep und UK Garage mit E
+ n:vy\, Armin Karmin\, Stan Matan\, Mantis und Nysos. Einlass ist um 23:0
+ 0. Vorverkauf über Eventbrite\, an der Abendkassa 26 € für die ganze
+  Nacht. Ab 18\, Ausweis mitbringen.\n\nhttps://rave.wien/e/2026-11-21-co
+ ntrast-pres-dj-marky-pola-bryson
+URL:https://rave.wien/e/2026-11-21-contrast-pres-dj-marky-pola-bryson
 END:VEVENT
 END:VCALENDAR

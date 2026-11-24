@@ -26,6 +26,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-08-sonntag-sdisco-vol-28-w-the-res@rave.wien
+DTSTAMP:20261108T000000Z
+DTSTART;TZID=Europe/Vienna:20261108T200000
+DTEND;TZID=Europe/Vienna:20261108T234500
+SUMMARY:Sonntag'sdisco Vol. 28 w/ The Res
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:The Res\, Drehli Robnik\nEintritt: 10 € (nur Abendkasse)\n\
+ nDie 28. Sonntag'sdisco auf dem FLUCC Deck bringt The Res live auf die B
+ ühne. Davor und danach legt Drehli Robnik „viele seiner Platten“ au
+ f. 20:00–23:45\, nur Abendkasse\, Preis noch nicht bekannt\; eine Musi
+ krichtung nennt das FLUCC nicht.\n\nhttps://rave.wien/e/2026-11-08-sonnt
+ ag-sdisco-vol-28-w-the-res
+URL:https://rave.wien/e/2026-11-08-sonntag-sdisco-vol-28-w-the-res
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-22-sonntag-sdisco-vol-29@rave.wien
 DTSTAMP:20261122T000000Z
 DTSTART;TZID=Europe/Vienna:20261122T200000
@@ -42,20 +57,5 @@ DESCRIPTION:Bipolar Penguins\, Minki\, Drehli Robnik\nEintritt: 10 € (n
  re Punk“. Eintritt 10 €\, nur an der Abendkasse.\n\nhttps://rave.wie
  n/e/2026-11-22-sonntag-sdisco-vol-29
 URL:https://rave.wien/e/2026-11-22-sonntag-sdisco-vol-29
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-08-sonntag-sdisco-vol-28-w-the-res@rave.wien
-DTSTAMP:20261108T000000Z
-DTSTART;TZID=Europe/Vienna:20261108T200000
-DTEND;TZID=Europe/Vienna:20261108T234500
-SUMMARY:Sonntag'sdisco Vol. 28 w/ The Res
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:The Res\, Drehli Robnik\nEintritt: 10 € (nur Abendkasse)\n\
- nDie 28. Sonntag'sdisco auf dem FLUCC Deck bringt The Res live auf die B
- ühne. Davor und danach legt Drehli Robnik „viele seiner Platten“ au
- f. 20:00–23:45\, nur Abendkasse\, Preis noch nicht bekannt\; eine Musi
- krichtung nennt das FLUCC nicht.\n\nhttps://rave.wien/e/2026-11-08-sonnt
- ag-sdisco-vol-28-w-the-res
-URL:https://rave.wien/e/2026-11-08-sonntag-sdisco-vol-28-w-the-res
 END:VEVENT
 END:VCALENDAR

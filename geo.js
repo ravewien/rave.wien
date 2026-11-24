@@ -32,6 +32,7 @@ const GEO2={
 "Schloss Cobenzl":[48.26338,16.32057],
 "Semmelweisklinik":[48.2365,16.32139],
 "Stiftskeller Klosterneuburg":[48.30654,16.32437],
+"Tchibo Mariahilfer Straße":[48.19731,16.34951],
 "The Chamber":[48.21469,16.34129],
 "The Inner Circle":[48.15599,16.31922],
 "The Loft":[48.20891,16.33815],

@@ -26,60 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-21-contrast-pres-dj-marky-pola-bryson@rave.wien
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=Europe/Vienna:20261121T230000
-DTEND;TZID=Europe/Vienna:20261122T060000
-SUMMARY:Contrast pres. DJ Marky + Pola & Bryson
-LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Mainfloor: DJ Marky\, Pola & Bryson\nKitchen · EN:VY: En:vy\
- , Armin Karmin\, Stan Matan\, Mantis\, Nysos\nVeranstalter: Contrast\nEi
- ntritt: VVK ca. 20–24 € (Eventbrite inkl. Gebühren)\, AK 26 €\n\n
- Das Kollektiv Contrast holt DJ Marky und Pola & Bryson in die Grelle For
- elle. Auf dem Mainfloor spielt DJ Marky (Innerground Records\, Brasilien
- )\, dazu das Duo Pola & Bryson (Shogun Audio / Hospital\, UK) und die Co
- ntrast-Residents. Die Kitchen wird von EN:VY gehostet und bringt House\,
-  Dubstep und UK Garage mit En:vy\, Armin Karmin\, Stan Matan\, Mantis un
- d Nysos. Einlass ist um 23:00. Vorverkauf über Eventbrite\, an der Aben
- dkassa 26 € für die ganze Nacht. Ab 18\, Ausweis mitbringen.\n\nhttps
- ://rave.wien/e/2026-11-21-contrast-pres-dj-marky-pola-bryson
-URL:https://rave.wien/e/2026-11-21-contrast-pres-dj-marky-pola-bryson
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-22-morgengymnastik-wreck@rave.wien
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Vienna:20261122T060000
-DTEND;TZID=Europe/Vienna:20261122T110000
-SUMMARY:Morgengymnastik × Wreck
-LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Young Sun\, AE-X\nVeranstalter: Wreck\, Morgengymnastik\nEint
- ritt: 15 €\n\nMorgengymnastik\, die Sonntags-Afterhour im SASS Music C
- lub\, wird diesmal von Wreck kuratiert: Von 6 bis 11 Uhr spielen Young S
- un und AE-X. Der Eintritt beträgt 15 €. Alle SASS-Veranstaltungen wer
- den von einem Awareness-Team begleitet\; Einlass ab 18 mit Ausweis- und 
- Taschenkontrolle.\n\nhttps://rave.wien/e/2026-11-22-morgengymnastik-wrec
- k
-URL:https://rave.wien/e/2026-11-22-morgengymnastik-wreck
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-22-sonntag-sdisco-vol-29@rave.wien
-DTSTAMP:20261122T000000Z
-DTSTART;TZID=Europe/Vienna:20261122T200000
-DTEND;TZID=Europe/Vienna:20261122T234500
-SUMMARY:Sonntag'sdisco Vol. 29
-LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Bipolar Penguins\, Minki\, Drehli Robnik\nEintritt: 10 € (n
- ur AK)\n\nDie 29. Ausgabe der Sonntag'sdisco am FLUCC Deck\, angekündig
- t als „zur vorletzten Mall“\, von 20:00 bis Mitternacht (laut FLUCC 
- bis 23:45). Live spielen Bipolar Penguins („Antarctic Rock“) und Min
- ki (Experimental Pop/Indie Rock)\, dazu gibt es eine Tape-Präsentation 
- von „Listen to the Quiet Voice“. Außerdem feiert Drehli Robnik mit 
- viel Vinyl die „offiziellen Feierlichkeiten der Republik zu 50.000 Jah
- re Punk“. Eintritt 10 €\, nur an der Abendkasse.\n\nhttps://rave.wie
- n/e/2026-11-22-sonntag-sdisco-vol-29
-URL:https://rave.wien/e/2026-11-22-sonntag-sdisco-vol-29
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-25-shared-frequencies-listening-session@rave.wien
 DTSTAMP:20261125T000000Z
 DTSTART;TZID=Europe/Vienna:20261125T183000
@@ -120,14 +66,15 @@ DTSTART;TZID=Europe/Vienna:20261126T200000
 DTEND;TZID=Europe/Vienna:20261127T000000
 SUMMARY:nomenklatur w/ Cancer House (live) & When It's Over (live)
 LOCATION:Das Lot\, Absberggasse 31\, 1100 Wien
-DESCRIPTION:Cancer House\, When It's Over\nVeranstalter: nomenklatur\n\nN
- eue Ausgabe der Reihe nomenklatur\, die sonst meist im Rhiz stattfindet 
- – diesmal im Das Lot in Favoriten\, einem Veranstaltungsraum\, Produkt
- ionsstudio und Forschungslabor in der Absberggasse\, im Rahmen von „LO
- TinConcert“. Angekündigt sind zwei Live-Acts: Cancer House und When I
- t’s Over. Laut Das Lot läuft der Abend von 20 bis 24 Uhr (Techno Airl
- ines nennt 19 Uhr)\; ein Preis ist nicht angegeben.\n\nhttps://rave.wien
- /e/2026-11-26-nomenklatur-w-cancer-house-live-when-it-s-over-li
+DESCRIPTION:Cancer House\, When It's Over\nVeranstalter: nomenklatur\nEin
+ tritt: VVK 18 € / AK 20 €\n\nNeue Ausgabe der Reihe nomenklatur\, di
+ e sonst meist im Rhiz stattfindet – diesmal im Das Lot in Favoriten\, 
+ einem Veranstaltungsraum\, Produktionsstudio und Forschungslabor in der 
+ Absberggasse\, im Rahmen von „LOTinConcert“. Angekündigt sind zwei 
+ Live-Acts: Cancer House und When It’s Over. Laut Das Lot läuft der Ab
+ end von 20 bis 24 Uhr (Techno Airlines nennt 19 Uhr)\; ein Preis ist nic
+ ht angegeben.\n\nhttps://rave.wien/e/2026-11-26-nomenklatur-w-cancer-hou
+ se-live-when-it-s-over-li
 URL:https://rave.wien/e/2026-11-26-nomenklatur-w-cancer-house-live-when-i
  t-s-over-li
 END:VEVENT
@@ -933,6 +880,25 @@ DESCRIPTION:ARX\, Adam19\, Dunik\, Michkx\nVeranstalter: Fifi\nEintritt f
  to back. Einlass ab 23:30\, Ende 05:00\, Eintritt frei\, ab 18\; RA tagg
  t Techno und Minimal Techno.\n\nhttps://rave.wien/e/2026-12-03-fifi-rave
 URL:https://rave.wien/e/2026-12-03-fifi-rave
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-coffee-rave-krampus-special@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T170000
+DTEND;TZID=Europe/Vienna:20261204T200000
+SUMMARY:COFFEE RAVE Krampus Special
+LOCATION:Tchibo Mariahilfer Straße\, Mariahilfer Straße 81\, 1060 Wien
+DESCRIPTION:Veranstalter: Febration\nEintritt: 10 € (inkl. 1 Freigeträ
+ nk)\n\nCoffee Rave in der Tchibo-Filiale auf der Mariahilfer Straße: Am
+  Freitag von 17 bis 20 Uhr wird der Laden zur Tanzfläche\, diesmal mit 
+ Krampus-Twist. Veranstaltet von Febration (Moments with Febration) mit e
+ lektronischer Tanzmusik quer durch Techno\, Drum & Bass\, Trance und UK 
+ Garage\, dazu Espresso Martini\, Bier und Spritzer sowie limitierte Coff
+ ee-Rave-Shirts. Das DJ-Lineup war beim Eintragen noch nicht angekündigt
+ . Die Plätze sind limitiert\, Einlass nur mit Ticket\; jedes Ticket ent
+ hält ein Freigetränk (Early Bird 8 € ausverkauft\, Regular 10 €).\
+ n\nhttps://rave.wien/e/2026-12-04-coffee-rave-krampus-special
+URL:https://rave.wien/e/2026-12-04-coffee-rave-krampus-special
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-barvy-shpilki-good-girl-gone-bad@rave.wien
@@ -1890,6 +1856,24 @@ DESCRIPTION:Kork\, Gurkal²³\, Nasty\, Tekno Nixe\nVeranstalter: Nasty C
 URL:https://rave.wien/e/2026-12-11-teknoteka-vol-4
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-11-votiv-session-with-mathilda-malounadou-rehorn@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T230000
+DTEND;TZID=Europe/Vienna:20261212T040000
+SUMMARY:votiv session with Mathilda\, Malounadou\, Rehorn
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Mathilda\, Malounadou\, Rehorn\nVeranstalter: Votiv Session\n
+ \nNeue Ausgabe der Wiener Partyreihe votiv session im SASS Music Club\, 
+ die für funky Sounds\, Progressive House und Deep Grooves steht. Am Fre
+ itag ab 23:00 spielen Mathilda\, Malounadou und Rehorn. Malounadou ist u
+ . a. mit regelmäßigen Sendungen bei vlan.radio bekannt. Preis und Tick
+ etinfos waren beim Eintragen noch nicht veröffentlicht\; wie bei allen 
+ SASS-Nächten gibt es ein Awareness-Team\, Einlass ab 18.\n\nhttps://rav
+ e.wien/e/2026-12-11-votiv-session-with-mathilda-malounadou-rehorn
+URL:https://rave.wien/e/2026-12-11-votiv-session-with-mathilda-malounadou
+ -rehorn
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-11-taktgefuhl-vol-2@rave.wien
 DTSTAMP:20261211T000000Z
 DTSTART;TZID=Europe/Vienna:20261211T233000
@@ -2767,18 +2751,19 @@ DESCRIPTION:Astrix\, Blastoyz\, Phaxe\, Faders\, Klopfgeister\, Sonic Spe
  cies\, Misaya\, Exelog\, Serex\, Oblix\, Progtamin\, Fullip\, Marakame\,
   Bornvoyage\, Vibechen\, Hanneken\, Tolaris\, PA_olo\, Romen Est Omen\, 
  Cougar\, Anatol\, Auroria\, Kayara\, Cheddar Boyz\, Synaptikon\nVeransta
- lter: FromDuskTillDawn\n\nErste Nacht des Paradise Winter Festival 2027 
- in der BC Vienna Arena (ehemals Hallmann Dome\, Gutheil-Schoder-Gasse 9\
- , 1100 Wien)\, veranstaltet von FromDuskTillDawn. International angekün
- digt sind Astrix\, Blastoyz\, Phaxe\, Faders\, Klopfgeister und Sonic Sp
- ecies\, dazu rund 20 Acts aus Österreich\; auf welche der beiden Nächt
- e sie verteilt sind\, ist noch nicht veröffentlicht. Zwei Stages auf 20
- 00 m² mit großem Mainfloor\, Chill-out-Bereichen und einer zweiten Sta
- ge für Psytrance und Progressive\, außerdem Food Corner und Shopping-B
- ereich. Beginn jeweils 21:00\, keine durchgehende Veranstaltung\; Loyalt
- y- und Early-Bird-Pässe sind ausverkauft\, der reguläre Wochenend-Fest
- ivalpass ist im Verkauf. Eintritt ab 18 (Ausweis mitnehmen).\n\nhttps://
- rave.wien/e/2027-01-29-paradise-winter-festival-2027-nacht-1
+ lter: FromDuskTillDawn\nEintritt: 69 €\n\nErste Nacht des Paradise Win
+ ter Festival 2027 in der BC Vienna Arena (ehemals Hallmann Dome\, Guthei
+ l-Schoder-Gasse 9\, 1100 Wien)\, veranstaltet von FromDuskTillDawn. Inte
+ rnational angekündigt sind Astrix\, Blastoyz\, Phaxe\, Faders\, Klopfge
+ ister und Sonic Species\, dazu rund 20 Acts aus Österreich\; auf welche
+  der beiden Nächte sie verteilt sind\, ist noch nicht veröffentlicht. 
+ Zwei Stages auf 2000 m² mit großem Mainfloor\, Chill-out-Bereichen und
+  einer zweiten Stage für Psytrance und Progressive\, außerdem Food Cor
+ ner und Shopping-Bereich. Beginn jeweils 21:00\, keine durchgehende Vera
+ nstaltung\; Loyalty- und Early-Bird-Pässe sind ausverkauft\, der regul
+ äre Wochenend-Festivalpass ist im Verkauf. Eintritt ab 18 (Ausweis mitn
+ ehmen).\n\nhttps://rave.wien/e/2027-01-29-paradise-winter-festival-2027-
+ nacht-1
 URL:https://rave.wien/e/2027-01-29-paradise-winter-festival-2027-nacht-1
 END:VEVENT
 BEGIN:VEVENT
@@ -27645,6 +27630,26 @@ DESCRIPTION:L!KA\, Laerm\, bobbyyxjohnson\, PAUNA\nVeranstalter: Schall &
 URL:https://rave.wien/e/2026-11-20-schall-schabernack
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-21-contrast-pres-dj-marky-pola-bryson@rave.wien
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=Europe/Vienna:20261121T230000
+DTEND;TZID=Europe/Vienna:20261122T060000
+SUMMARY:Contrast pres. DJ Marky + Pola & Bryson
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:DJ Marky\, Pola & Bryson\, En:vy\, Armin Karmin\, Stan Matan\
+ , Mantis\, Nysos\nVeranstalter: Contrast\nEintritt: VVK ca. 20–24 € 
+ (Eventbrite inkl. Gebühren)\, AK 26 €\n\nDas Kollektiv Contrast holt 
+ DJ Marky und Pola & Bryson in die Grelle Forelle. Auf dem Mainfloor spie
+ lt DJ Marky (Innerground Records\, Brasilien)\, dazu das Duo Pola & Brys
+ on (Shogun Audio / Hospital\, UK) und die Contrast-Residents. Die Kitche
+ n wird von EN:VY gehostet und bringt House\, Dubstep und UK Garage mit E
+ n:vy\, Armin Karmin\, Stan Matan\, Mantis und Nysos. Einlass ist um 23:0
+ 0. Vorverkauf über Eventbrite\, an der Abendkassa 26 € für die ganze
+  Nacht. Ab 18\, Ausweis mitbringen.\n\nhttps://rave.wien/e/2026-11-21-co
+ ntrast-pres-dj-marky-pola-bryson
+URL:https://rave.wien/e/2026-11-21-contrast-pres-dj-marky-pola-bryson
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-21-tram-bass-vol-4-our-longest-ride-yet@rave.wien
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Vienna:20261121T130000
@@ -28014,5 +28019,39 @@ DESCRIPTION:Telicho\, Artifex\, Frankee\, Acula\, Dijay Qualle\nVeranstal
  bendkasse.\n\nhttps://rave.wien/e/2026-11-21-kleingeld-kollektiv-klubnac
  ht
 URL:https://rave.wien/e/2026-11-21-kleingeld-kollektiv-klubnacht
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-morgengymnastik-wreck@rave.wien
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Vienna:20261122T060000
+DTEND;TZID=Europe/Vienna:20261122T110000
+SUMMARY:Morgengymnastik × Wreck
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Young Sun\, AE-X\nVeranstalter: Wreck\, Morgengymnastik\nEint
+ ritt: 15 €\n\nMorgengymnastik\, die Sonntags-Afterhour im SASS Music C
+ lub\, wird diesmal von Wreck kuratiert: Von 6 bis 11 Uhr spielen Young S
+ un und AE-X. Der Eintritt beträgt 15 €. Alle SASS-Veranstaltungen wer
+ den von einem Awareness-Team begleitet\; Einlass ab 18 mit Ausweis- und 
+ Taschenkontrolle.\n\nhttps://rave.wien/e/2026-11-22-morgengymnastik-wrec
+ k
+URL:https://rave.wien/e/2026-11-22-morgengymnastik-wreck
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-22-sonntag-sdisco-vol-29@rave.wien
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=Europe/Vienna:20261122T200000
+DTEND;TZID=Europe/Vienna:20261122T234500
+SUMMARY:Sonntag'sdisco Vol. 29
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Bipolar Penguins\, Minki\, Drehli Robnik\nEintritt: 10 € (n
+ ur AK)\n\nDie 29. Ausgabe der Sonntag'sdisco am FLUCC Deck\, angekündig
+ t als „zur vorletzten Mall“\, von 20:00 bis Mitternacht (laut FLUCC 
+ bis 23:45). Live spielen Bipolar Penguins („Antarctic Rock“) und Min
+ ki (Experimental Pop/Indie Rock)\, dazu gibt es eine Tape-Präsentation 
+ von „Listen to the Quiet Voice“. Außerdem feiert Drehli Robnik mit 
+ viel Vinyl die „offiziellen Feierlichkeiten der Republik zu 50.000 Jah
+ re Punk“. Eintritt 10 €\, nur an der Abendkasse.\n\nhttps://rave.wie
+ n/e/2026-11-22-sonntag-sdisco-vol-29
+URL:https://rave.wien/e/2026-11-22-sonntag-sdisco-vol-29
 END:VEVENT
 END:VCALENDAR

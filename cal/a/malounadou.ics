@@ -26,6 +26,24 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-11-votiv-session-with-mathilda-malounadou-rehorn@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T230000
+DTEND;TZID=Europe/Vienna:20261212T040000
+SUMMARY:votiv session with Mathilda\, Malounadou\, Rehorn
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Mathilda\, Malounadou\, Rehorn\nVeranstalter: Votiv Session\n
+ \nNeue Ausgabe der Wiener Partyreihe votiv session im SASS Music Club\, 
+ die für funky Sounds\, Progressive House und Deep Grooves steht. Am Fre
+ itag ab 23:00 spielen Mathilda\, Malounadou und Rehorn. Malounadou ist u
+ . a. mit regelmäßigen Sendungen bei vlan.radio bekannt. Preis und Tick
+ etinfos waren beim Eintragen noch nicht veröffentlicht\; wie bei allen 
+ SASS-Nächten gibt es ein Awareness-Team\, Einlass ab 18.\n\nhttps://rav
+ e.wien/e/2026-12-11-votiv-session-with-mathilda-malounadou-rehorn
+URL:https://rave.wien/e/2026-12-11-votiv-session-with-mathilda-malounadou
+ -rehorn
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-12-liminal-afterhour-3@rave.wien
 DTSTAMP:20261212T000000Z
 DTSTART;TZID=Europe/Vienna:20261212T063000
