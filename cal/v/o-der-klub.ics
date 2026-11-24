@@ -47,7 +47,7 @@ BEGIN:VEVENT
 UID:2026-12-04-december-transmission@rave.wien
 DTSTAMP:20261204T000000Z
 DTSTART;TZID=Europe/Vienna:20261204T230000
-DTEND;TZID=Europe/Vienna:20261205T040000
+DTEND;TZID=Europe/Vienna:20261205T060000
 SUMMARY:December-Transmission
 LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
 DESCRIPTION:Eintritt: 8–12 €\n\nMonatliche „Transmission“-Nacht i
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 UID:2026-12-07-monday-transmission@rave.wien
 DTSTAMP:20261207T000000Z
 DTSTART;TZID=Europe/Vienna:20261207T230000
-DTEND;TZID=Europe/Vienna:20261208T040000
+DTEND;TZID=Europe/Vienna:20261208T060000
 SUMMARY:Monday-Transmission
 LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
 DESCRIPTION:Eintritt: 8–12 €\n\nSonderausgabe der „Transmission“-
