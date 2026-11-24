@@ -43,7 +43,7 @@ import json, os, sys, time, random, logging, urllib.request, urllib.error, hashl
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-24.2"
+VERSION = "2026-11-24.3"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -572,26 +572,32 @@ def seiten_abrufen(urls, ordner, merken=False):
     if merken: HASHES.write_text(json.dumps(neu))
     ok = sum(1 for r in idx if not r[4]); return ok, len(idx) - ok, sum(1 for r in idx if r[5] == heute)
 
+BROWSER_INFO = ""
+
 def browser_dom(url, warten_ms=6000):
     """Seite in einem frischen, kopflosen Chromium öffnen (eigenes leeres Profil, keine Cookies, danach gelöscht)
     und das fertige HTML zurückgeben. Immer nur ein Browser gleichzeitig (2 GB RAM). None, wenn kein Chromium da ist."""
     import shutil, tempfile
+    global BROWSER_INFO
     exe = next((x for x in [shutil.which("chromium"), shutil.which("chromium-browser"), "/usr/bin/chromium", "/usr/bin/chromium-browser",
                             "/usr/lib/chromium/chromium", "/usr/lib/chromium-browser/chromium-browser", "/usr/lib/chromium/chrome"]
                 if x and os.path.isfile(x) and os.access(x, os.X_OK)), None)
     if not exe:
-        return None
+        BROWSER_INFO = "nicht installiert"; return None
+    BROWSER_INFO = exe
     prof = tempfile.mkdtemp(prefix="rave-chr-", dir="/dev/shm" if Path("/dev/shm").exists() else None)
     try:
         import signal
         pr = subprocess.Popen([exe, "--headless=new", "--disable-gpu", "--no-first-run", "--no-default-browser-check", "--mute-audio",
                             "--disable-extensions", "--disable-background-networking", "--blink-settings=imagesEnabled=false",
                             f"--user-data-dir={prof}", f"--virtual-time-budget={warten_ms}", "--window-size=1280,900",
-                            "--lang=de-AT", f"--user-agent={UA_WEB}", "--dump-dom", url], stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, text=True, start_new_session=True)
+                            "--lang=de-AT", f"--user-agent={UA_WEB}", "--dump-dom", url], stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, start_new_session=True)
+        t0 = time.time()
         try:
-            out, _ = pr.communicate(timeout=60)
+            out, err = pr.communicate(timeout=60)
         except subprocess.TimeoutExpired:
-            os.killpg(pr.pid, signal.SIGKILL); pr.communicate(); log.warning(f"Browser {url}: Zeitüberschreitung"); return None
+            os.killpg(pr.pid, signal.SIGKILL); pr.communicate(); BROWSER_INFO = f"{exe}: Zeitüberschreitung (60 s)"; log.warning(f"Browser {url}: Zeitüberschreitung"); return None
+        BROWSER_INFO = f"{exe}: Rückgabe {pr.returncode}, {int(time.time()-t0)} s" + ("" if out else " – keine Ausgabe; Meldung: " + " | ".join((err or "").strip().splitlines()[-3:])[:400])
         return out or None
     except Exception as e:
         log.warning(f"Browser {url}: {e}"); return None
@@ -832,7 +838,7 @@ def main():
         m = re.search(r'property="og:image"', html or "")
         print(f"einfacher Abruf: HTTP {st}, {len(html or '')} Zeichen, Profilbild {'gefunden' if m else 'NICHT gefunden'}, Ziel {final}")
         dom = browser_dom(f"https://www.instagram.com/{h}/")
-        print(f"Chromium ohne Cookies: {'nicht installiert' if dom is None else str(len(dom)) + ' Zeichen, Profilbild ' + ('gefunden' if 'og:image' in dom else 'NICHT gefunden')}")
+        print(f"Chromium ohne Cookies: {BROWSER_INFO if dom is None else str(len(dom)) + ' Zeichen, Profilbild ' + ('gefunden' if 'og:image' in dom else 'NICHT gefunden')}")
         return
     if cmd == "schluessel":
         print(schluessel_text(schluessel_anlegen())); return
