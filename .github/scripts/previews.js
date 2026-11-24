@@ -71,7 +71,8 @@ RAW.slice().sort((a, b) => (a.d + (a.s || "99")).localeCompare(b.d + (b.s || "99
   const lu = order.length ? clip(order.join(", "), 140) : "";
   const note = e.note && (e.note.de || e.note.en) ? clip((e.note.de || e.note.en).replace(/\s+/g, " "), 160) : "";
   const desc = [bits, lu, !lu ? note : ""].filter(Boolean).join(" — ");
-  add("e", k, { url: `${SITE}/e/${k}`, target: `/#${k}`, title: e.title, desc, img: isImg(e.flyer) ? e.flyer : "" });
+  const ogf = path.join(root, "og", "e", k + ".jpg");   // eigene, verkleinerte Kopie (og-bilder.js) – zuverlässiger für WhatsApp & Co.
+  add("e", k, { url: `${SITE}/e/${k}`, target: `/#${k}`, title: e.title, desc, img: fs.existsSync(ogf) ? `${SITE}/og/e/${k}.jpg?v=${fs.statSync(ogf).size.toString(36)}` : isImg(e.flyer) ? e.flyer : "" });
 });
 
 // Archiv (vergangene Events) – gleiche ID-Bildung wie in index.html

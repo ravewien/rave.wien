@@ -4,7 +4,7 @@ name: Vorschauseiten
 on:
   push:
     branches: [main]
-    paths: [events.js, past.js, .github/scripts/previews.js, .github/scripts/stats.js, .github/scripts/logos.js, .github/scripts/geocode.js, .github/scripts/ics.js, .github/scripts/version.js, .github/scripts/quellen.js, .github/agent/quellen.json]
+    paths: [events.js, past.js, .github/scripts/previews.js, .github/scripts/og-bilder.js, .github/scripts/stats.js, .github/scripts/logos.js, .github/scripts/geocode.js, .github/scripts/ics.js, .github/scripts/version.js, .github/scripts/quellen.js, .github/agent/quellen.json]
   workflow_dispatch:
 permissions:
   contents: write
@@ -31,6 +31,7 @@ jobs:
           # so gibt es keine Konflikte, wenn kurz hintereinander mehrere Updates kommen.
           for i in 1 2 3 4 5 6; do
             git fetch -q origin main && git reset -q --hard origin/main
+            node .github/scripts/og-bilder.js || true
             node .github/scripts/previews.js
             node .github/scripts/quellen.js
             node .github/scripts/logos.js
@@ -38,7 +39,7 @@ jobs:
             node .github/scripts/stats.js
             node .github/scripts/ics.js
             node .github/scripts/version.js
-            git add -A e a c v cal stats.json logos.js logos-kaputt.txt geo.js ver.js quellen.html "quellen-*.html"
+            git add -A og e a c v cal stats.json logos.js logos-kaputt.txt geo.js ver.js quellen.html "quellen-*.html"
             if git diff --cached --quiet; then echo "Keine Änderungen."; exit 0; fi
             git commit -q -m "Vorschauseiten und Statistik aktualisiert"
             git push -q origin HEAD:main && exit 0
