@@ -1,22 +1,6 @@
 {
  "posts": [
   {
-   "datum": "extra-kalender",
-   "titel": "Zwischenpost „Wusstest du schon..? – Folgen im Kalender“",
-   "posten_ab": "2026-11-23T12:00:00+01:00",
-   "bilder": [
-    "ig/extra/kalender/1.jpg",
-    "ig/extra/kalender/2.jpg",
-    "ig/extra/kalender/3.jpg"
-   ],
-   "story_alle": true,
-   "story_nach_min": [
-    165,
-    195
-   ],
-   "text": "Wusstest du schon..? 👀 Du kannst deinen Lieblings-Artists und -Veranstaltern auf rave.wien folgen – direkt in deinem Kalender 📅\n\nKarte öffnen → Kalender-Symbol → Apple, Google oder Outlook. Neue Termine tauchen ab dann automatisch bei dir auf 🖤\n\n🔗 Link in Bio\n\n#ravewien #techno #wien #vienna #rave #viennanightlife #clubbing"
-  },
-  {
    "datum": "2026-11-25",
    "posten_ab": "2026-11-24T16:00:00+01:00",
    "bilder": [
@@ -44,6 +28,15 @@
     "@sassmusicclub"
    ],
    "events": 4
+  },
+  {
+   "datum": "extra-weekend",
+   "titel": "Zwischenpost „Bereit fürs Wochenende?“",
+   "posten_ab": "2026-11-27T12:00:00+01:00",
+   "bilder": [
+    "ig/extra/weekend/1.jpg"
+   ],
+   "text": "Bereit fürs Wochenende? 🖤\n\nAlle Lineups, Preise & Tickets fürs Wochenende auf rave.wien 🔗 Link in Bio\n\n#ravewien #techno #wien #vienna #rave #viennanightlife #clubbing #wienwochenende"
   }
  ]
 }
