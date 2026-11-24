@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Malou · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2027-02-06-push-w-gigi-fm@rave.wien
+DTSTAMP:20270206T000000Z
+DTSTART;TZID=Europe/Vienna:20270206T230000
+DTEND;TZID=Europe/Vienna:20270207T040000
+SUMMARY:PUSH w/ GiGi FM
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Mainfloor: GiGi FM\, Mischa Beton\, GYDAH\, Karolina\, Pink O
+ paque\nKitchen: Malou\, Tonks\, WO.IZZY\nVeranstalter: PUSH\n\nDie Wiene
+ r Reihe PUSH holt GiGi FM für ihr Wien-Debüt in die Grelle Forelle. Di
+ e in Berlin lebende Künstlerin ist DJ\, Tänzerin und Produzentin und f
+ ür ihren emotionalen\, genreübergreifenden Zugang zu elektronischer Mu
+ sik bekannt. Am Mainfloor spielen außerdem Mischa Beton\, GYDAH und Kar
+ olina\, eröffnet wird mit einem Live-Set von Pink Opaque\; in der Kitch
+ en legen Malou\, Tonks und WO.IZZY auf. Einlass und Abendkassa ab 23:00.
+  Laut Hausregeln keine Fotos und Videos\, kein Oberkörper frei\; ein Aw
+ areness-Team ist ansprechbar.\n\nhttps://rave.wien/e/2027-02-06-push-w-g
+ igi-fm
+URL:https://rave.wien/e/2027-02-06-push-w-gigi-fm
+END:VEVENT
+END:VCALENDAR

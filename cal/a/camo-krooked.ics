@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Camo & Krooked · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2027-06-11-camo-krooked@rave.wien
+DTSTAMP:20270611T000000Z
+DTSTART;TZID=Europe/Vienna:20270611T200000
+DTEND;TZID=Europe/Vienna:20270612T010000
+SUMMARY:Camo & Krooked
+LOCATION:Arena Wien\, Baumgasse 80\, 1030 Wien
+DESCRIPTION:Camo & Krooked\nEintritt: ab 49\,90 €\n\nOpen-Air-Konzert d
+ es Wiener Drum-&-Bass-Duos Camo & Krooked (Reinhard „Camo“ Rietsch u
+ nd Markus „Krooked“ Wagner) in der Arena Wien. Das Duo arbeitet seit
+  2007 zusammen\, wurde 2010 bei den Drum & Bass Arena Awards als bester 
+ Newcomer ausgezeichnet und ist mit Alben wie „Cross The Line“ und 
+ „Zeitgeist“ eines der bekanntesten Drum-&-Bass-Acts aus Österreich.
+  Einlass ab 20:00\, Tickets ab 49\,90 € (oeticket).\n\nhttps://rave.wi
+ en/e/2027-06-11-camo-krooked
+URL:https://rave.wien/e/2027-06-11-camo-krooked
+END:VEVENT
+END:VCALENDAR

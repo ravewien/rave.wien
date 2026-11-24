@@ -42,6 +42,23 @@ DESCRIPTION:Veranstalter: Collapse\nEintritt: VVK Phase 2 32 €\n\nDas N
 URL:https://rave.wien/e/2027-02-06-collapse-eatbrain-night-vienna-edition
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-06-11-camo-krooked@rave.wien
+DTSTAMP:20270611T000000Z
+DTSTART;TZID=Europe/Vienna:20270611T200000
+DTEND;TZID=Europe/Vienna:20270612T010000
+SUMMARY:Camo & Krooked
+LOCATION:Arena Wien\, Baumgasse 80\, 1030 Wien
+DESCRIPTION:Camo & Krooked\nEintritt: ab 49\,90 €\n\nOpen-Air-Konzert d
+ es Wiener Drum-&-Bass-Duos Camo & Krooked (Reinhard „Camo“ Rietsch u
+ nd Markus „Krooked“ Wagner) in der Arena Wien. Das Duo arbeitet seit
+  2007 zusammen\, wurde 2010 bei den Drum & Bass Arena Awards als bester 
+ Newcomer ausgezeichnet und ist mit Alben wie „Cross The Line“ und 
+ „Zeitgeist“ eines der bekanntesten Drum-&-Bass-Acts aus Österreich.
+  Einlass ab 20:00\, Tickets ab 49\,90 € (oeticket).\n\nhttps://rave.wi
+ en/e/2027-06-11-camo-krooked
+URL:https://rave.wien/e/2027-06-11-camo-krooked
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-24-elemnt-pres-kanine-reflections-arcando-basstrippe@rave.wien
 DTSTAMP:20261024T000000Z
 DTSTART;TZID=Europe/Vienna:20261024T220000
