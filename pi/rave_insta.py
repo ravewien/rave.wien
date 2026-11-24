@@ -15,6 +15,7 @@ Läuft auf dem Raspberry Pi alle 10 Minuten (cron). Zugangsdaten stehen nur loka
   python3 rave_insta.py update    # sofort nach einer neuen Programmversion suchen
   python3 rave_insta.py abruf     # Event-Quellen jetzt abrufen (läuft sonst täglich ab ca. 05:25 von selbst)
   python3 rave_insta.py auftrag   # offene Abruf-Aufträge aus der Warteschlange jetzt abarbeiten
+  python3 rave_insta.py browser   # richtet den Browser für Instagram-Bilder/Nachtseiten ein (Playwright im eigenen Ordner)
   python3 rave_insta.py igtest NAME  # prüft, ob das Instagram-Profilbild von NAME gefunden wird (lädt nichts hoch)
   python3 rave_insta.py schluessel  # zeigt den Schlüssel, den du einmalig bei GitHub hinterlegst
 
@@ -43,7 +44,7 @@ import json, os, sys, time, random, logging, urllib.request, urllib.error, hashl
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-24.4"
+VERSION = "2026-11-24.5"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -587,6 +588,39 @@ def ig_bild_aus_html(html):
 BROWSER_INFO = ""
 
 def browser_dom(url, warten_ms=6000):
+    """Seite in einem frischen Browser ohne Cookies öffnen und das fertige HTML zurückgeben (None = ging nicht).
+    Bevorzugt Playwright (eigener, getesteter Chromium, sonst das System-Chromium); sonst Chromium per Kommandozeile."""
+    global BROWSER_INFO
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        return browser_dom_cli(url, warten_ms)
+    import shutil
+    args = ["--disable-gpu", "--disable-extensions", "--no-first-run", "--disable-background-networking", "--mute-audio"]
+    systeme = [None] + [x for x in ["/usr/lib/chromium/chromium", shutil.which("chromium")] if x and os.path.exists(x)]
+    fehler = []
+    try:
+        with sync_playwright() as pw:
+            for exe in systeme:
+                try:
+                    br = pw.chromium.launch(headless=True, executable_path=exe, args=args)
+                except Exception as e:
+                    fehler.append(f"{exe or 'Playwright-Chromium'}: {str(e).splitlines()[0][:120]}"); continue
+                try:
+                    ctx = br.new_context(user_agent=UA_WEB, locale="de-AT", viewport={"width": 1280, "height": 900})   # frisch: keine Cookies
+                    pg = ctx.new_page(); pg.route("**/*", lambda r: r.abort() if r.request.resource_type in ("image", "media", "font") else r.continue_())
+                    pg.goto(url, wait_until="domcontentloaded", timeout=45000); pg.wait_for_timeout(warten_ms)
+                    html = pg.content(); BROWSER_INFO = f"Playwright ({exe or 'eigener Chromium'})"; return html
+                except Exception as e:
+                    fehler.append(f"{exe or 'Playwright-Chromium'}: {str(e).splitlines()[0][:160]}")
+                finally:
+                    try: br.close()
+                    except Exception: pass
+    except Exception as e:
+        fehler.append(str(e).splitlines()[0][:160])
+    BROWSER_INFO = "Playwright: " + " | ".join(fehler); return None
+
+def browser_dom_cli(url, warten_ms=6000):
     """Seite in einem frischen, kopflosen Chromium öffnen (eigenes leeres Profil, keine Cookies, danach gelöscht)
     und das fertige HTML zurückgeben. Immer nur ein Browser gleichzeitig (2 GB RAM). None, wenn kein Chromium da ist."""
     import shutil, tempfile
@@ -843,6 +877,12 @@ def main():
         abruf(); return
     if cmd == "auftrag":
         auftraege(); return
+    if cmd == "browser":
+        print("Installiere Playwright (nur im Programmordner, kein sudo nötig) …")
+        r1 = subprocess.run([sys.executable, "-m", "pip", "install", "-q", "playwright"])
+        r2 = subprocess.run([sys.executable, "-m", "playwright", "install", "chromium"]) if r1.returncode == 0 else r1
+        print("fertig." if r2.returncode == 0 else "Hat nicht geklappt – Ausgabe oben bitte an Claude schicken.")
+        print("Test: ~/rave-insta/rave igtest raver.wien"); return
     if cmd == "igtest":
         h = (sys.argv[2] if len(sys.argv) > 2 else "raver.wien").strip("@/ ")
         st, typ, html, final = _hole(f"https://www.instagram.com/{h}/")
