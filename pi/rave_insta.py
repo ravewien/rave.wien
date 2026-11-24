@@ -43,7 +43,7 @@ import json, os, sys, time, random, logging, urllib.request, urllib.error, hashl
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-24.1"
+VERSION = "2026-11-24.2"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -576,7 +576,9 @@ def browser_dom(url, warten_ms=6000):
     """Seite in einem frischen, kopflosen Chromium öffnen (eigenes leeres Profil, keine Cookies, danach gelöscht)
     und das fertige HTML zurückgeben. Immer nur ein Browser gleichzeitig (2 GB RAM). None, wenn kein Chromium da ist."""
     import shutil, tempfile
-    exe = shutil.which("chromium") or shutil.which("chromium-browser")
+    exe = next((x for x in [shutil.which("chromium"), shutil.which("chromium-browser"), "/usr/bin/chromium", "/usr/bin/chromium-browser",
+                            "/usr/lib/chromium/chromium", "/usr/lib/chromium-browser/chromium-browser", "/usr/lib/chromium/chrome"]
+                if x and os.path.isfile(x) and os.access(x, os.X_OK)), None)
     if not exe:
         return None
     prof = tempfile.mkdtemp(prefix="rave-chr-", dir="/dev/shm" if Path("/dev/shm").exists() else None)
