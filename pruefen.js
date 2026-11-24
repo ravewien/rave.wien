@@ -210,5 +210,62 @@ window.PRUEF=[
    "https://mahlwerkmoves.com/events/"
   ],
   "karten": []
+ },
+ {
+  "id": "link-art-mathilda-links-ra",
+  "ts": "2026-11-24",
+  "lauf": "profil-lauf",
+  "typ": "link",
+  "titel": "Mathilda – RA-Profil?",
+  "text": "Für Mathilda (votiv session, 11.12.) gibt es auf RA mehrere Profile (ra.co/dj/mathilda und ra.co/dj/mathilda-2); welches die Wiener DJ ist, ließ sich ohne Ausschnitt nicht belegen.",
+  "links": [
+   "https://ra.co/dj/mathilda",
+   "https://ra.co/dj/mathilda-2",
+   "https://ra.co/events/2591561"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "art",
+   "op": "edit",
+   "key": "Mathilda",
+   "title": "Mathilda",
+   "data": {
+    "links.ra": "https://ra.co/dj/mathilda"
+   }
+  }
+ },
+ {
+  "id": "link-art-malou-links-ra",
+  "ts": "2026-11-24",
+  "lauf": "profil-lauf",
+  "typ": "link",
+  "titel": "Malou – RA-Profil?",
+  "text": "Für Malou (PUSH w/ GiGi FM, 06.02.2027, Kitchen) gibt es auf RA „maloU“ (ra.co/dj/malou) und „Malou (NL)“; Zuordnung zum Wiener Act nicht belegt.",
+  "links": [
+   "https://ra.co/dj/malou",
+   "https://ra.co/dj/malou-2"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "art",
+   "op": "edit",
+   "key": "Malou",
+   "title": "Malou",
+   "data": {
+    "links.ra": "https://ra.co/dj/malou"
+   }
+  }
+ },
+ {
+  "id": "spotify-camo-krooked-spotify-artist-id-fehlt",
+  "ts": "2026-11-24",
+  "lauf": "profil-lauf",
+  "typ": "spotify",
+  "titel": "Camo & Krooked – Spotify-Artist-ID fehlt",
+  "text": "Camo & Krooked sind sicher auf Spotify (Alben Mosaik, Zeitgeist, Cross The Line), aber die Artist-Adresse war in den Suchtreffern nicht enthalten und Spotify-Seiten werden nicht abgerufen. Bitte die Artist-Adresse von einer Albumseite übernehmen.",
+  "links": [
+   "https://open.spotify.com/album/0qL2CLFQq6S9szMf7IQc8I"
+  ],
+  "karten": []
  }
 ];

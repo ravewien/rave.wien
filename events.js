@@ -1203,6 +1203,12 @@ const CG={
  "RaveCon": [
   "Techno",
   "Hard Techno"
+ ],
+ "Febration": [
+  "Techno",
+  "Drum & Bass",
+  "Trance",
+  "UK Garage"
  ]
 };
 const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","ALERT[A] Vienna","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","Art Attech","AUDIO303","Auf der Lauer","Ausländer Haus","AWSM","Barracuda Music","BARVY","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","BASST SCHO","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","Bionic Ritual","BLUR","Bonkers","Booster Club","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Crossover","Cybertribe","Cyclic Existence","Dance 2 House","Dance Spirit Events","Danza Obscura","Dark Pressure","Das Syndikat","DEAD END","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","EMDB","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exceso","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Febration","Female Pleasure","Festklub","Feuchte Träume","Fifi","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Forbidden Frequency","Fourcast","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Homesounds","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","It's George","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","March of the Machines","Meier","MEIOSISS","Melodic Monday","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Modulate","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Off The Grid","Opération","Out of Space","Oxygene","Palazzo Recordings","Panzerschokolade","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PURRR","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","RaveCon","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schroedinger's Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","shared frequencies","SHPILKI","SIGNAL","SIN","Slutlabs","Sniffin´ Glue","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","SWEAT","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","TECHNOLOT","The Academy","The Hive","The House of Funk","the zound partisans","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Ungeniert","Uniquely Journeys","Unkwn","unlock|me","Unstoppable Organizerteam","Untz Baby Untz","up/or","Vangardist","Ventil Records","Verknallt","Vertigo","Verum Gaudium","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wums","Wyldhearts","Xperiment Records","YE","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
@@ -6799,6 +6805,21 @@ const CI={
    "https://www.findxrave.at/"
   ],
   "infoChk": "2026-11-23"
+ },
+ "Febration": {
+  "alias": [
+   "Moments with Febration"
+  ],
+  "de": "Febration veranstaltet mit „Moments with Febration“ eine Eventreihe mit kuratierten Line-ups an ungewöhnlichen Orten, etwa den Coffee Rave in der Tchibo-Filiale auf der Mariahilfer Straße. Musikalisch geht es quer durch elektronische Tanzmusik von Techno über Drum & Bass und Trance bis UK Garage.",
+  "en": "Febration runs “Moments with Febration”, an event series with curated line-ups in unusual places, such as the Coffee Rave at the Tchibo store on Mariahilfer Straße. Musically it spans electronic dance music from techno to drum & bass, trance and UK garage.",
+  "web": "https://moments.febration.com/",
+  "ig": "https://www.instagram.com/febration/",
+  "noLogo": "2026-11-24",
+  "infoChk": "2026-11-24",
+  "src": [
+   "https://moments.febration.com/",
+   "https://flatticket.at/de/event/54b263348b0dccc9"
+  ]
  }
 };
 const VI={
@@ -8012,6 +8033,15 @@ const VI={
  "Tchibo Mariahilfer Straße": {
   "io": [
    "Indoor"
+  ],
+  "de": "Filiale der Kaffeehauskette Tchibo auf der Mariahilfer Straße 81 im 6. Bezirk, die nach einem Umbau im Oktober 2025 mit einem „Coffee Rave“ neu eröffnet wurde und seither gelegentlich zur Tanzfläche wird.",
+  "en": "Store of the coffee chain Tchibo at Mariahilfer Straße 81 in the 6th district, reopened after a renovation in October 2025 with a “Coffee Rave” and occasionally turned into a dance floor since.",
+  "noLogo": "2026-11-24",
+  "infoChk": "2026-11-24",
+  "accChk": "2026-11-24",
+  "src": [
+   "https://www.news.at/news/tchibo-wien-mariahilferstrasse-filialeroeffnung-coffee-rave-2025",
+   "https://moments.febration.com/"
   ]
  }
 };
@@ -23044,7 +23074,8 @@ const AR={
    "https://soundcloud.com/mischabeton"
   ],
   "infoChk": "2026-11-03",
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-24"
  },
  "Vich Mind": {
   "img": "https://static.ra.co/images/profiles/square/vichmind.jpg?dateUpdated=1769800988860",
@@ -24457,7 +24488,8 @@ const AR={
    "sc": "https://soundcloud.com/dabelka",
    "ra": "https://ra.co/dj/mashadabelka",
    "bc": "https://mashadabelka.bandcamp.com",
-   "web": "https://dabelka.com"
+   "web": "https://dabelka.com",
+   "sp": "https://open.spotify.com/artist/6igsn77TOQotGLLiRIN4g0"
   },
   "bio": {
    "de": "Masha Dabelka ist eine aus Sibirien stammende DJ und Produzentin mit Basis in Österreich. Sie bewegt sich zwischen Acid, Drone, House und Techno und betreibt die DJ-Schule für Frauen Turntablista. Releases erschienen auf Minimalsoul Recordings und forTunea.",
@@ -24500,7 +24532,8 @@ const AR={
    "https://soundcloud.com/dabelka"
   ],
   "infoChk": "2026-11-03",
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-24"
  },
  "DJ Sprudel": {
   "img": "https://static.ra.co/images/profiles/square/djsprudel.jpg?dateUpdated=1723474460000",
@@ -27206,7 +27239,8 @@ const AR={
   "src": [
    "https://ra.co/dj/gydah"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-24"
  },
  "Modeselektor": {
   "img": "https://static.ra.co/images/profiles/square/modeselektor.jpg?dateUpdated=1415191875610",
@@ -32442,7 +32476,8 @@ const AR={
  "Rehorn": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-24"
  },
  "Micyvid": {
   "img": "https://static.ra.co/images/profiles/square/micyvid.jpg?dateUpdated=1779804175807",
@@ -55934,6 +55969,239 @@ const AR={
   "noImg": "2026-11-23",
   "noLinks": "2026-11-23",
   "spChk": "2026-11-23"
+ },
+ "Christian Fennesz": {
+  "alias": [
+   "Fennesz"
+  ],
+  "from": {
+   "de": "Wien, Österreich",
+   "en": "Vienna, Austria"
+  },
+  "bio": {
+   "de": "Christian Fennesz, oft nur Fennesz, ist ein österreichischer Gitarrist und Produzent, der seit den 1990ern mit Gitarre und Computer flirrende elektronische Klanglandschaften zwischen Electronica, Ambient und Glitch schafft. Bekannt wurde er mit dem Album „Endless Summer“ (2001) auf dem Wiener Label Mego; heute erscheint er u. a. bei Touch. An der MUK leitet er einen Kurs zu Ambient Music and Improvisation.",
+   "en": "Christian Fennesz, often simply Fennesz, is an Austrian guitarist and producer who since the 1990s has used guitar and computer to create shimmering electronic soundscapes between electronica, ambient and glitch. He rose to prominence with the album “Endless Summer” (2001) on Vienna's Mego label and now releases on Touch, among others. At MUK he teaches a course in ambient music and improvisation."
+  },
+  "genres": [
+   "Electronica",
+   "Ambient"
+  ],
+  "labels": [
+   "Mego",
+   "Editions Mego",
+   "Touch"
+  ],
+  "img": "https://upload.wikimedia.org/wikipedia/commons/5/54/Fennesz_in_Bethesda%2C_Maryland%2C_on_September_21%2C_2010_%285027816082%29_%28cropped%29.jpg",
+  "links": {
+   "web": "https://www.fennesz.com/",
+   "sc": "https://soundcloud.com/fennesz",
+   "bc": "https://fenneszreleases.bandcamp.com/",
+   "ig": "https://www.instagram.com/_fennesz/",
+   "sp": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+  },
+  "infoChk": "2026-11-24",
+  "setsChecked": "2026-11-24",
+  "spChk": "2026-11-24",
+  "src": [
+   "https://en.wikipedia.org/wiki/Fennesz",
+   "https://www.fennesz.com/",
+   "https://www.wienmodern.at/2026-party-modern-muk-at-owa-de-4760"
+  ]
+ },
+ "Martin Siewert": {
+  "from": {
+   "de": "Saarbrücken, Deutschland",
+   "en": "Saarbrücken, Germany"
+  },
+  "bio": {
+   "de": "Martin Siewert ist ein deutscher Gitarrist und Filmkomponist, der sich vom Jazz zu einem abstrakten Gitarren- und Elektroniksound bewegt hat. Er spielte u. a. in den Formationen Efzeg, Trapist und Komfort sowie im Gitarrenquartett SSSD. An der MUK leitet er einen Kurs für Improvisation mit Live-Elektronik.",
+   "en": "Martin Siewert is a German guitarist and film composer who moved from jazz towards an abstract guitar and electronics sound. He has played in groups such as Efzeg, Trapist and Komfort and in the guitar quartet SSSD. At MUK he teaches a course in improvisation with live electronics."
+  },
+  "genres": [
+   "Experimental",
+   "Electronic"
+  ],
+  "noImg": "2026-11-24",
+  "links": {
+   "sp": "https://open.spotify.com/artist/06br97FLQKSKx2ZeGCe0BB"
+  },
+  "infoChk": "2026-11-24",
+  "spChk": "2026-11-24",
+  "src": [
+   "https://en.wikipedia.org/wiki/Martin_Siewert",
+   "https://www.wienmodern.at/2026-party-modern-muk-at-owa-de-4760"
+  ]
+ },
+ "Veronica Klavžar": {
+  "alias": [
+   "Veronica Klavzar"
+  ],
+  "from": {
+   "de": "Bruneck, Südtirol (Italien) – lebt in Wien",
+   "en": "Bruneck, South Tyrol (Italy) – based in Vienna"
+  },
+  "bio": {
+   "de": "Veronica Klavžar ist eine Harfenistin aus Bruneck in Südtirol, die in Bozen Konzertharfe studierte und heute in Wien lebt. Hier hat sie ihre Liebe zur zeitgenössischen Musik entdeckt; sie spielt solistisch, in Ensembles und mit Orchestern, bei Wien Modern auf der elektrischen Harfe.",
+   "en": "Veronica Klavžar is a harpist from Bruneck in South Tyrol who studied concert harp in Bolzano and is now based in Vienna, where she discovered a love for contemporary music. She performs as a soloist, in ensembles and with orchestras, and plays electric harp at Wien Modern."
+  },
+  "img": "https://donne-uk.org/wp-content/uploads/2026/08/klavzar_veronica-1787752338.jpg",
+  "links": {
+   "web": "https://web.veronicaklavzar.com/",
+   "sc": "https://soundcloud.com/veronicaklavzar",
+   "ig": "https://www.instagram.com/veronicaklavzar/"
+  },
+  "sets": [
+   {
+    "t": "Turntablista MUK Showcase w/ Selina Otter & Veronica Klavzar (15.06.2022)",
+    "u": "https://soundcloud.com/resradio/turntablista-muk-showcase-selina-otter-und-veronica-klavzar-w-jingle-150622"
+   }
+  ],
+  "infoChk": "2026-11-24",
+  "setsChecked": "2026-11-24",
+  "spChk": "2026-11-24",
+  "src": [
+   "https://donne-uk.org/artist/klavzar-veronica",
+   "https://web.veronicaklavzar.com/",
+   "https://www.wienmodern.at/2026-party-modern-muk-at-owa-de-4760"
+  ]
+ },
+ "Camo & Krooked": {
+  "alias": [
+   "Camo and Krooked"
+  ],
+  "real": "Reinhard Rietsch, Markus Wagner",
+  "from": {
+   "de": "Wien, Österreich",
+   "en": "Vienna, Austria"
+  },
+  "bio": {
+   "de": "Camo & Krooked sind das Wiener Drum-&-Bass-Duo von Reinhard Rietsch und Markus Wagner, gegründet 2007. Nach ersten Releases auf Mainframe Recordings wurden sie 2010 bei den Drum & Bass Arena Awards als beste Newcomer ausgezeichnet und bei Hospital Records unter Vertrag genommen; heute veröffentlichen sie auf ihrem Label Mosaik Records.",
+   "en": "Camo & Krooked are the Vienna drum & bass duo of Reinhard Rietsch and Markus Wagner, formed in 2007. After early releases on Mainframe Recordings they won Best Newcomer at the 2010 Drum & Bass Arena Awards and signed to Hospital Records; today they release on their own label Mosaik Records."
+  },
+  "genres": [
+   "Drum & Bass"
+  ],
+  "labels": [
+   "Mainframe Recordings",
+   "Hospital Records",
+   "Mosaik Records"
+  ],
+  "img": "https://ukf.com/wp-content/uploads/2021/11/CK-1200x1200-1-e1708334789686.jpg",
+  "links": {
+   "ra": "https://ra.co/dj/camokrooked",
+   "sc": "https://soundcloud.com/camokrooked",
+   "web": "https://www.camoandkrooked.com/"
+  },
+  "sets": [
+   {
+    "t": "Camo & Krooked – 20 Years of D&B Mix",
+    "u": "https://soundcloud.com/camokrooked/camo-krooked-20-years-mix"
+   },
+   {
+    "t": "Camo & Krooked – BBC Radio 1 Essential Mix (06.05.2017)",
+    "u": "https://soundcloud.com/camokrooked/essential-mix-2017"
+   }
+  ],
+  "infoChk": "2026-11-24",
+  "setsChecked": "2026-11-24",
+  "spChk": "2026-11-24",
+  "src": [
+   "https://en.wikipedia.org/wiki/Camo_%26_Krooked",
+   "https://ukf.com/artist/camo-krooked",
+   "https://ra.co/dj/camokrooked"
+  ]
+ },
+ "GiGi FM": {
+  "from": {
+   "de": "Berlin, Deutschland",
+   "en": "Berlin, Germany"
+  },
+  "bio": {
+   "de": "GiGi FM ist DJ, Tänzerin und Produzentin aus Berlin und betreibt das Label Sea~rène records. Sie steuerte den RA-Podcast RA.822 bei und veröffentlichte ihr Debütalbum „Ventus in Anima“; Sets spielte sie u. a. bei fabric (ADE), NTS und The Lot Radio.",
+   "en": "GiGi FM is a Berlin-based DJ, dancer and producer who runs the label Sea~rène records. She recorded the RA podcast RA.822 and released her debut album “Ventus in Anima”, with sets at fabric (ADE), NTS and The Lot Radio among others."
+  },
+  "labels": [
+   "Sea~rène records"
+  ],
+  "img": "https://f4.bcbits.com/img/0047634126_23.jpg",
+  "links": {
+   "ra": "https://ra.co/dj/gigifm",
+   "sc": "https://soundcloud.com/gigi-fm",
+   "bc": "https://gigifm.bandcamp.com/",
+   "sp": "https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi"
+  },
+  "sets": [
+   {
+    "t": "GiGi FM Live @ Fabric ADE (24.10.2025)",
+    "u": "https://soundcloud.com/gigi-fm/gigi-fm-live-fabric-ade-24-10"
+   },
+   {
+    "t": "RA.822 GiGi FM",
+    "u": "https://soundcloud.com/resident-advisor/ra822-gigi-fm"
+   }
+  ],
+  "infoChk": "2026-11-24",
+  "setsChecked": "2026-11-24",
+  "spChk": "2026-11-24",
+  "src": [
+   "https://ra.co/dj/gigifm",
+   "https://gigifm.bandcamp.com/",
+   "https://ra.co/news/86264"
+  ]
+ },
+ "SAYA": {
+  "noImg": "2026-11-24",
+  "noLinks": "2026-11-24",
+  "infoChk": "2026-11-24",
+  "spChk": "2026-11-24"
+ },
+ "catercarlo": {
+  "noImg": "2026-11-24",
+  "noLinks": "2026-11-24",
+  "infoChk": "2026-11-24",
+  "spChk": "2026-11-24"
+ },
+ "ANER": {
+  "noImg": "2026-11-24",
+  "noLinks": "2026-11-24",
+  "infoChk": "2026-11-24",
+  "spChk": "2026-11-24"
+ },
+ "DUSKND": {
+  "noImg": "2026-11-24",
+  "noLinks": "2026-11-24",
+  "infoChk": "2026-11-24",
+  "spChk": "2026-11-24"
+ },
+ "Artur Akhiamov": {
+  "noImg": "2026-11-24",
+  "noLinks": "2026-11-24",
+  "infoChk": "2026-11-24",
+  "spChk": "2026-11-24"
+ },
+ "Parsa Badiei Sabet": {
+  "noImg": "2026-11-24",
+  "noLinks": "2026-11-24",
+  "infoChk": "2026-11-24",
+  "spChk": "2026-11-24"
+ },
+ "Pink Opaque": {
+  "noImg": "2026-11-24",
+  "noLinks": "2026-11-24",
+  "infoChk": "2026-11-24",
+  "spChk": "2026-11-24"
+ },
+ "Malou": {
+  "noImg": "2026-11-24",
+  "noLinks": "2026-11-24",
+  "infoChk": "2026-11-24",
+  "spChk": "2026-11-24"
+ },
+ "Mathilda": {
+  "noImg": "2026-11-24",
+  "noLinks": "2026-11-24",
+  "infoChk": "2026-11-24",
+  "spChk": "2026-11-24"
  }
 };
 
