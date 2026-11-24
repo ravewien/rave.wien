@@ -458,9 +458,9 @@ iframe.mc{width:100%;height:60px;border:0;margin-bottom:6px}
 .deck .artists button.hl,.deck .tt button.hl{font-weight:700;color:var(--fg);font-size:calc(1em + 2px);text-decoration:none}
 .row.tk .arts b.hl{color:var(--fg);font-weight:700}
 .hlbadge{display:inline-block;align-self:flex-start;font-family:var(--f-mono);font-weight:700;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--c-art);border:1px solid color-mix(in srgb,var(--c-art) 55%,transparent);border-radius:3px;padding:3px 7px;margin:2px 0}
-.xr .xn.xh{font-size:14px;color:var(--c-art)}.xr .xn.xh small{color:var(--c-art)}
+.xr .xn.xh{font-size:14px;color:var(--fg)}
 .x-art .xr .cnts:has(.xh){grid-template-columns:repeat(3,minmax(26px,1fr));max-width:168px}
-@container out (max-width:759px){.xr .xn.xh{display:none}.x-art .xr .cnts:has(.xh){grid-template-columns:repeat(2,minmax(28px,1fr));max-width:120px}}
+@container out (max-width:759px){.x-art .xr{grid-template-columns:minmax(0,1fr) 150px}.x-art .xr .cnts:has(.xh){grid-template-columns:repeat(3,minmax(0,1fr));max-width:none;gap:2px}.x-art .xr .cnts small{font-size:7px;letter-spacing:.02em}}
 
 /* Handy: Lineup in der Übersicht ausblenden (steht in der Detailkarte) – außer während einer Suche */
 @media (max-width:879px){html:not(.qon) .row.tk .arts{display:none!important}}
