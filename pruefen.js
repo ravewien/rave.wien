@@ -299,5 +299,46 @@ window.PRUEF=[
    "https://soundcloud.com/liopress/lio-press-mix-35-by-captain-of-none-liminal-landscape"
   ],
   "karten": []
+ },
+ {
+  "id": "lineup-ev-2026-12-04-let-it-roll-on-tour-vienna-floors",
+  "ts": "2026-11-24",
+  "lauf": "sonderlauf-events-e21",
+  "typ": "lineup",
+  "titel": "Let It Roll On Tour Vienna 04.12. – Support-Acts",
+  "text": "Die Let-It-Roll-Seite nennt neben den vier Headlinern AKOV als Special Guest und zahlreiche Support-Acts. Das Event ist manuell gepflegt (man:1), daher nicht automatisch ergänzt.",
+  "links": [
+   "https://letitroll.eu/event/let-it-roll-on-tour-vienna-2026/"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "ev",
+   "op": "edit",
+   "key": "2026-12-04-let-it-roll-on-tour-vienna",
+   "title": "Let It Roll On Tour Vienna",
+   "data": {
+    "floors": [
+     {
+      "f": "",
+      "a": [
+       "Black Sun Empire",
+       "Delta Heavy",
+       "Mandidextrous",
+       "Mozey",
+       "AKOV",
+       "Akira b2b Bifidus Aktif",
+       "Bea",
+       "Cockroach b2b DNBreak",
+       "Dreamworkers b2b Decoy",
+       "Highthere b2b 5ha5h",
+       "Madface b2b Spill",
+       "Mind:Frqnz b2b Enos",
+       "Nektaric",
+       "Puppy Devil"
+      ]
+     }
+    ]
+   }
+  }
  }
 ];
