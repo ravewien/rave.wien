@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-x/HLFE/OGeLxSINS6r8BhDRCxdK1311xu9G+5gJaqUM='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-vmZNMkDViHLLVeXDTsH8tuKo7d9wRaaj9YDOd9RscGw='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -734,6 +734,14 @@ html.a-motion .active-f.nomatch button{animation:none}
 .xr .xn small{display:block;font-family:var(--f-mono);font-size:8.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--mute);margin-top:4px}
 .xr .cnts{display:grid;grid-template-columns:repeat(2,minmax(28px,1fr));align-items:start;justify-content:center;gap:6px;width:100%;max-width:120px}.xr .cnts small{letter-spacing:.04em;font-size:7.5px}.xr .xn.xp{font-size:14px;color:var(--mute)}
 .xr .ex{display:flex;gap:4px;justify-content:center;flex-wrap:wrap}
+.xr .ex2{display:none}
+@container out (max-width:759px){
+  .xr .main>.ex2{display:flex;margin-top:auto;align-self:flex-end;justify-content:flex-end}
+  .xr .stub>.ex{display:none}
+  .xr .nx:has(.nd.no){display:none}
+  .xr .cnts{align-items:end}.xr .cnts .xn,.xr .xn.xp,.xr .xn.xh{font-size:15px}
+}
+
 .xr .lk{display:inline-grid;place-items:center;width:22px;height:22px;border:1px solid var(--line);border-radius:3px;color:var(--mute)}
 .xr .lk svg{width:12px;height:12px}.xr .lk .txt{font-size:9px}
 .xr.xclosed{opacity:.55}
@@ -2317,7 +2325,7 @@ function xrowHTML(o){const l=L();
   const fk={art:"a",col:"c",ven:"v"}[o.k];return `<button class="row xr${o.closed?" xclosed":""}${isFav(fk,o.name)?" isfav":""}" ${o.attr} aria-current="${o.cur}">${rstar(fk,o.name)}<span class="main">
     <span class="c1${o.tile?" wl":""}">${o.tile||""}${o.tile?`<span class="c1t">`:""}<span class="ti">${esc(o.name)}${o.closed?`<span class="badge">${l.closedV}</span>`:""}</span>${o.sub?`<small class="sub">${esc(o.sub)}</small>`:""}${o.tags?`<span class="tags">${o.tags}</span>`:""}${o.tile?`</span>`:""}</span>
     ${o.c2?`<small class="c2">${esc(o.c2)}</small>`:""}
-    <span class="gf">${gcl(o.gen)}${o.flags?`<span class="flags">${o.flags}</span>`:""}</span></span>
+    <span class="gf">${gcl(o.gen)}${o.flags?`<span class="flags">${o.flags}</span>`:""}</span>${o.ex?`<span class="ex ex2">${o.ex}</span>`:""}</span>
     <span class="stub"><span class="nx">${o.nx?`<span class="nd">${fmtDay(o.nx.d)}</span>${o.nxSub}`:`<span class="nd no">–</span>`}</span><span class="n1 cnts"><span class="xn">${o.n1||0}<small>${esc(o.n1l)}</small></span><span class="xn xp">${o.n2||0}<small>${esc(L().cPast)}</small></span>${o.k==="art"?`<span class="xn xh" title="${esc(l.hlTip)}">${o.n3||0}<small>Headliner</small></span>`:""}</span>${o.ex?`<span class="ex">${o.ex}</span>`:""}</span></button>`}
 function reportURL(what,link){const l=L();return "mailto:feedback@rave.wien?subject="+encodeURIComponent(l.reportSub+(what?": "+what:""))+"&body="+encodeURIComponent((link?link+"\n\n":"")+l.reportBody+"\n")}
 const PINSVG='<svg class="pin" viewBox="0 0 11 14" aria-hidden="true"><path fill="currentColor" d="M5.5 0A5.5 5.5 0 0 0 0 5.5C0 9.6 5.5 14 5.5 14S11 9.6 11 5.5A5.5 5.5 0 0 0 5.5 0zm0 7.6a2.1 2.1 0 1 1 0-4.2 2.1 2.1 0 0 1 0 4.2z"/></svg>';
