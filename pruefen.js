@@ -43,46 +43,6 @@ window.PRUEF=[
   "karten": []
  },
  {
-  "id": "loeschen-art-cpe-crew-friends-del",
-  "ts": "2026-11-23",
-  "lauf": "profil-lauf",
-  "typ": "loeschen",
-  "titel": "„CPE Crew & Friends“ als Artist löschen?",
-  "text": "Sammelname aus dem Lineup von „20 Jahre CPE“ (27.11.), kein echter Artist. Der Name bleibt im Lineup stehen, nur das leere Profil verschwindet.",
-  "links": [],
-  "vorschlag": {
-   "kind": "art",
-   "op": "delete",
-   "key": "CPE Crew & Friends",
-   "title": "CPE Crew & Friends"
-  },
-  "karten": [
-   [
-    "ev",
-    "2026-11-27-20-jahre-cpe"
-   ]
-  ]
- },
- {
-  "id": "doppelt-dr-schick-dr-schick-moodshifter-mood-shifter",
-  "ts": "2026-11-23",
-  "lauf": "profil-lauf",
-  "typ": "doppelt",
-  "titel": "dr.schick = Dr. Schick, Moodshifter = Mood Shifter?",
-  "text": "Die Läufe behandeln die Schreibweisen im Lineup (25.11. bzw. 7.12.) als dieselben Artists wie die bestehenden Profile. Falls es doch andere Personen sind, bitte melden – sonst einfach „Erledigt“.",
-  "links": [],
-  "karten": [
-   [
-    "art",
-    "Dr. Schick"
-   ],
-   [
-    "art",
-    "Mood Shifter"
-   ]
-  ]
- },
- {
   "id": "ort-ven-multiversum-schwechat-rules-access",
   "ts": "2026-11-23",
   "lauf": "sonderlauf-vl-o06",
@@ -137,18 +97,6 @@ window.PRUEF=[
   "karten": []
  },
  {
-  "id": "ort-o-der-klub-stufenabgang",
-  "ts": "2026-11-23",
-  "lauf": "sonderlauf-vl-o04",
-  "typ": "ort",
-  "titel": "O der Klub – Stufenabgang",
-  "text": "wien.info beschreibt einen „Stufenabgang in den Club“. Ob es einen Lift oder einen anderen Zugang gibt, ist nicht belegt, daher nichts eingetragen.",
-  "links": [
-   "https://www.wien.info/de/essen-trinken/bars-clubs/clubs-discos/o-der-klub-354372"
-  ],
-  "karten": []
- },
- {
   "id": "loeschen-ev-2026-11-28-nine-circles-del",
   "ts": "2026-11-23",
   "lauf": "sonderlauf-events-e17",
@@ -166,55 +114,6 @@ window.PRUEF=[
    "op": "delete",
    "key": "2026-11-28-nine-circles",
    "title": "Nine Circles"
-  }
- },
- {
-  "id": "genre-ev-2026-12-18-x-rave-by-verum-gaudium-w-julia-prunk-genres",
-  "ts": "2026-11-23",
-  "lauf": "sonderlauf-events-e19",
-  "typ": "genre",
-  "titel": "X-RAVE by Verum Gaudium (18.12.) – Genres fehlen",
-  "text": "Weder findxrave.at noch verumgaudium.at nennen Genres; Verum Gaudium beschreibt sich nur als Crew, die „Melodien und Musik liebt“. Vermutung: melodischer Techno/House – bitte bestätigen oder korrigieren.",
-  "links": [
-   "https://www.findxrave.at/",
-   "https://verumgaudium.at/"
-  ],
-  "karten": [],
-  "vorschlag": {
-   "kind": "ev",
-   "op": "edit",
-   "key": "2026-12-18-x-rave-by-verum-gaudium-w-julia-prunk",
-   "title": "X-RAVE by Verum Gaudium w/ Julia Prunk",
-   "data": {
-    "genres": [
-     "Melodic Techno",
-     "Melodic House"
-    ]
-   }
-  }
- },
- {
-  "id": "genre-ev-2026-12-05-allowed-to-drift-genres",
-  "ts": "2026-11-23",
-  "lauf": "sonderlauf-events-e18",
-  "typ": "genre",
-  "titel": "allowed to drift · 05.12.2026 · The Inner Circle – Genres fehlen",
-  "text": "Weder Techno Airlines noch RA-Suchtreffer nennen Genres; Lineup (Gustuff, Experimental, Empat) ohne Profile. Die Inner Circle führt sonst vor allem Techno-Nächte (z. B. „100% techno“), daher Vermutung Techno.",
-  "links": [
-   "https://ra.co/events/2590644",
-   "https://www.technoairlines.com/events/vienna/2026-12"
-  ],
-  "karten": [],
-  "vorschlag": {
-   "kind": "ev",
-   "op": "edit",
-   "key": "2026-12-05-allowed-to-drift",
-   "title": "allowed to drift",
-   "data": {
-    "genres": [
-     "Techno"
-    ]
-   }
   }
  },
  {
@@ -297,31 +196,6 @@ window.PRUEF=[
   "links": [
    "https://soundcloud.com/radiotemponaopara/captain-of-none-radio-tnp-031025",
    "https://soundcloud.com/liopress/lio-press-mix-35-by-captain-of-none-liminal-landscape"
-  ],
-  "karten": []
- },
- {
-  "id": "hinweis-2027-07-09-chemical-brothers-metastadt-open-air",
-  "ts": "2026-11-24",
-  "lauf": "laptop-lauf",
-  "typ": "hinweis",
-  "titel": "2027-07-09 · Chemical Brothers · Metastadt (Open Air)",
-  "text": "Songkick (Elektronik Wien) listet The Chemical Brothers am 09.07.2027 im METAStadt Open Air (Einlass 19:30, 99,90–299,90 €). Elektronischer Live-Act, aber Großkonzert – nicht eingetragen; bei Zustimmung als Event anlegen.",
-  "links": [
-   "https://www.songkick.com/concerts/43526281-chemical-brothers-at-metastadt-open-air"
-  ],
-  "karten": []
- },
- {
-  "id": "hinweis-2026-12-05-techno-entgleist-w-nakadia-boho-fehlt-im-grelle-programm",
-  "ts": "2026-11-24",
-  "lauf": "laptop-lauf",
-  "typ": "hinweis",
-  "titel": "2026-12-05 · Techno Entgleist w/ Nakadia & BOHO fehlt im Grelle-Programm",
-  "text": "Das Event steht nicht auf grelleforelle.com/programm/ (Stand 24.11.), der Tickethead-Verkauf läuft aber weiter (12–15 €). Möglicherweise nur noch nicht gelistet – im Auge behalten.",
-  "links": [
-   "https://www.grelleforelle.com/programm/",
-   "https://events.tickethead.io/en/tickethead/event/6001"
   ],
   "karten": []
  },
