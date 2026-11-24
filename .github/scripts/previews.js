@@ -46,9 +46,9 @@ function page({ url, target, title, desc, img }) {
 <meta name="twitter:description" content="${esc(desc)}">
 <meta name="twitter:image" content="${esc(img || DEF_IMG)}">
 <meta name="robots" content="noindex,follow">
-<meta http-equiv="refresh" content="0;url=${esc(target)}">
 <style>body{background:#131519;color:#e8ecf1;font:16px system-ui,sans-serif;display:grid;place-items:center;min-height:90vh;margin:0}a{color:#5b8cff}</style>
 </head><body><p><a href="${esc(target)}">${esc(title)} auf rave.wien öffnen →</a></p>
+<!-- Kein meta-refresh: WhatsApp/Facebook würden ihm folgen und die Vorschau der Startseite zeigen. Weiterleitung nur per Skript (für Menschen). -->
 <script>location.replace("/"+(location.search||"?ref=geteilt")+${JSON.stringify(target.slice(1))})</script>
 </body></html>
 `;
