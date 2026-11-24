@@ -301,44 +301,40 @@ window.PRUEF=[
   "karten": []
  },
  {
-  "id": "lineup-ev-2026-12-04-let-it-roll-on-tour-vienna-floors",
+  "id": "hinweis-2027-07-09-chemical-brothers-metastadt-open-air",
   "ts": "2026-11-24",
-  "lauf": "sonderlauf-events-e21",
-  "typ": "lineup",
-  "titel": "Let It Roll On Tour Vienna 04.12. – Support-Acts",
-  "text": "Die Let-It-Roll-Seite nennt neben den vier Headlinern AKOV als Special Guest und zahlreiche Support-Acts. Das Event ist manuell gepflegt (man:1), daher nicht automatisch ergänzt.",
+  "lauf": "laptop-lauf",
+  "typ": "hinweis",
+  "titel": "2027-07-09 · Chemical Brothers · Metastadt (Open Air)",
+  "text": "Songkick (Elektronik Wien) listet The Chemical Brothers am 09.07.2027 im METAStadt Open Air (Einlass 19:30, 99,90–299,90 €). Elektronischer Live-Act, aber Großkonzert – nicht eingetragen; bei Zustimmung als Event anlegen.",
   "links": [
-   "https://letitroll.eu/event/let-it-roll-on-tour-vienna-2026/"
+   "https://www.songkick.com/concerts/43526281-chemical-brothers-at-metastadt-open-air"
   ],
-  "karten": [],
-  "vorschlag": {
-   "kind": "ev",
-   "op": "edit",
-   "key": "2026-12-04-let-it-roll-on-tour-vienna",
-   "title": "Let It Roll On Tour Vienna",
-   "data": {
-    "floors": [
-     {
-      "f": "",
-      "a": [
-       "Black Sun Empire",
-       "Delta Heavy",
-       "Mandidextrous",
-       "Mozey",
-       "AKOV",
-       "Akira b2b Bifidus Aktif",
-       "Bea",
-       "Cockroach b2b DNBreak",
-       "Dreamworkers b2b Decoy",
-       "Highthere b2b 5ha5h",
-       "Madface b2b Spill",
-       "Mind:Frqnz b2b Enos",
-       "Nektaric",
-       "Puppy Devil"
-      ]
-     }
-    ]
-   }
-  }
+  "karten": []
+ },
+ {
+  "id": "hinweis-2026-12-05-techno-entgleist-w-nakadia-boho-fehlt-im-grelle-programm",
+  "ts": "2026-11-24",
+  "lauf": "laptop-lauf",
+  "typ": "hinweis",
+  "titel": "2026-12-05 · Techno Entgleist w/ Nakadia & BOHO fehlt im Grelle-Programm",
+  "text": "Das Event steht nicht auf grelleforelle.com/programm/ (Stand 24.11.), der Tickethead-Verkauf läuft aber weiter (12–15 €). Möglicherweise nur noch nicht gelistet – im Auge behalten.",
+  "links": [
+   "https://www.grelleforelle.com/programm/",
+   "https://events.tickethead.io/en/tickethead/event/6001"
+  ],
+  "karten": []
+ },
+ {
+  "id": "hinweis-mahlwerk-termine-2027-gleis19-15-05-grelle-forelle-09-10-und-11-12",
+  "ts": "2026-11-24",
+  "lauf": "laptop-lauf",
+  "typ": "hinweis",
+  "titel": "Mahlwerk-Termine 2027 (Gleis19 15.05., Grelle Forelle 09.10. und 11.12.)",
+  "text": "mahlwerkmoves.com kündigt weitere Nächte ohne Details an: 15.05.2027 Gleis19, 09.10.2027 und 11.12.2027 Grelle Forelle. Wegen großer Entfernung noch nicht eingetragen.",
+  "links": [
+   "https://mahlwerkmoves.com/events/"
+  ],
+  "karten": []
  }
 ];
