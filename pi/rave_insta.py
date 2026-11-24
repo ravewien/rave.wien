@@ -44,7 +44,7 @@ import json, os, sys, time, random, logging, urllib.request, urllib.error, hashl
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-VERSION = "2026-11-24.6"
+VERSION = "2026-11-24.7"
 BASE = os.environ.get("RW_BASE", "https://rave.wien/")
 SELF = Path(__file__).resolve()
 UPDATE_ALLE = timedelta(hours=1)
@@ -478,7 +478,7 @@ DEPLOY_KEY = HOME / "github_key"
 ABRUF_AB = (5, 25)                 # Wiener Zeit
 ABRUF_BIS = 12                     # danach heute nicht mehr anfangen
 ABRUF_LOCK = HOME / "abruf.lock"
-IG_PRO_TAG = 30
+IG_PRO_TAG = 0   # Instagram zeigt ohne Anmeldung keine Profilbilder – vorerst aus
 IG_PAUSE_S = (25, 60)
 UA_WEB = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
 SCHUTZ = re.compile(r"just a moment|cf-chl|captcha|one moment, please|attention required", re.I)
