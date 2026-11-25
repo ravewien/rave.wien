@@ -200,18 +200,6 @@ window.PRUEF=[
   "karten": []
  },
  {
-  "id": "hinweis-mahlwerk-termine-2027-gleis19-15-05-grelle-forelle-09-10-und-11-12",
-  "ts": "2026-11-24",
-  "lauf": "laptop-lauf",
-  "typ": "hinweis",
-  "titel": "Mahlwerk-Termine 2027 (Gleis19 15.05., Grelle Forelle 09.10. und 11.12.)",
-  "text": "mahlwerkmoves.com kündigt weitere Nächte ohne Details an: 15.05.2027 Gleis19, 09.10.2027 und 11.12.2027 Grelle Forelle. Wegen großer Entfernung noch nicht eingetragen.",
-  "links": [
-   "https://mahlwerkmoves.com/events/"
-  ],
-  "karten": []
- },
- {
   "id": "link-art-mathilda-links-ra",
   "ts": "2026-11-24",
   "lauf": "profil-lauf",
@@ -364,17 +352,5 @@ window.PRUEF=[
     ]
    }
   }
- },
- {
-  "id": "hinweis-2027-03-12-dominik-eulberg-im-simm-city-festsaal",
-  "ts": "2026-11-25",
-  "lauf": "laptop-lauf",
-  "typ": "hinweis",
-  "titel": "2027-03-12 Dominik Eulberg im Simm City Festsaal",
-  "text": "Songkick (Genre Electronic) listet Dominik Eulberg am 12.03.2027 im Simm City Festsaal (Einlass 20:00, ab 46,42 € über oeticket). Wirkt wie ein Konzert/Live-Show in einem Festsaal statt einer Clubnacht – deshalb nicht eingetragen. Bei Bedarf manuell aufnehmen.",
-  "links": [
-   "https://www.songkick.com/concerts/43172074-dominik-eulberg-at-simm-city-festsaal-zentrum-simmering"
-  ],
-  "karten": []
  }
 ];
