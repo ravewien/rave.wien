@@ -3489,7 +3489,8 @@ const CI={
   "src": [
    "https://www.theloft.at/glitch-vienna-pres-stef-davidse/"
   ],
-  "ig": "https://www.instagram.com/enter_glitch/"
+  "ig": "https://www.instagram.com/enter_glitch/",
+  "logo": "https://rave.wien/logos/ig/enter_glitch.jpg"
  },
  "techNOage": {
   "de": "Monatliches Techno-Clubbing am Nachmittag ab 15 Uhr, das Inklusion und Begegnung zwischen Generationen fördert – für Senior:innen, Menschen mit Behinderung, Eltern sowie frühere und heutige Raver:innen. Veranstaltet von Vier::tel Vienna (vierviertelvienna) und SNDR_Xone, u. a. im FLUCC (Deck/Wanne); Eintritt auch nach dem Prinzip „pay what you can“.",
@@ -3586,7 +3587,8 @@ const CI={
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
   "tix": "https://flashback.ticket.io/",
-  "ig": "https://www.instagram.com/flashback_technoclassics/"
+  "ig": "https://www.instagram.com/flashback_technoclassics/",
+  "logo": "https://rave.wien/logos/ig/flashback_technoclassics.jpg"
  },
  "FactX": {
   "noLogo": "2026-11-15",
