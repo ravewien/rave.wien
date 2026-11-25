@@ -79,6 +79,21 @@ URL:https://rave.wien/e/2026-11-26-nomenklatur-w-cancer-house-live-when-i
  t-s-over-li
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-26-mara-never-ep-release-show@rave.wien
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Vienna:20261126T200000
+DTEND;TZID=Europe/Vienna:20261127T010000
+SUMMARY:Mara Never: EP Release Show
+LOCATION:Westbahn Studios\, Adresse noch TBA Wien
+DESCRIPTION:MARAws\, Ku-Ro\, Verschrin\n\nEP-Release-Show von Mara Never 
+ in den Westbahnstudios\, die als Spielort für experimentelle elektronis
+ che Musik bekannt sind. Laut Techno Airlines und RA stehen MARAws\, Ku-R
+ o und Verschrin im Lineup\; Beginn 20:00. Preis\, Ende und Flyer sind no
+ ch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-11-26-mara-never-e
+ p-release-show
+URL:https://rave.wien/e/2026-11-26-mara-never-ep-release-show
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-26-donnerstrada@rave.wien
 DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Vienna:20261126T230000
@@ -126,6 +141,35 @@ DESCRIPTION:Reika\, Dcascallana\nVeranstalter: Dark Pressure\n\nDonnersta
   04:00\; einen Eintrittspreis nennt RA nicht.\n\nhttps://rave.wien/e/202
  6-11-26-konzept-x-dark-pressure
 URL:https://rave.wien/e/2026-11-26-konzept-x-dark-pressure
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-dj-wifi-presents-hotspot@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T180000
+DTEND;TZID=Europe/Vienna:20261127T230000
+SUMMARY:DJ WIFI presents HOTSPOT
+LOCATION:Wiener Würstelstand Spittelau\, U-Bahn-Station Spittelau\, 1090
+  Wien
+DESCRIPTION:Dj Wifi\n\n„HOTSPOT“ ist ein Abend von DJ Wifi am Wiener 
+ Würstelstand bei der Spittelau – einem Imbiss\, an dem regelmäßig D
+ Js auflegen. Beginn 18:00. Weitere Acts\, Preis und Ende sind nicht ange
+ geben.\n\nhttps://rave.wien/e/2026-11-27-dj-wifi-presents-hotspot
+URL:https://rave.wien/e/2026-11-27-dj-wifi-presents-hotspot
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-semmelweisklinik-open-decks@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T200000
+DTEND;TZID=Europe/Vienna:20261128T010000
+SUMMARY:Semmelweisklinik Open Decks
+LOCATION:Semmelweisklinik\, Hockegasse 37\, 1180 Wien
+DESCRIPTION:Open Decks\n\nOpen-Decks-Abend in der Semmelweisklinik (ehema
+ lige Klinik in Währing\, heute Kultur- und Atelierhaus): Wer möchte\, 
+ kann sich an den Plattentellern versuchen. Beginn 20:00. Ein festes Line
+ up\, Preis und Ende sind nicht angegeben\; frühere Open-Decks-Abende do
+ rt waren meist gratis bzw. gegen Spende.\n\nhttps://rave.wien/e/2026-11-
+ 27-semmelweisklinik-open-decks
+URL:https://rave.wien/e/2026-11-27-semmelweisklinik-open-decks
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-20-jahre-cpe@rave.wien
@@ -318,14 +362,16 @@ DTSTART;TZID=Europe/Vienna:20261127T230000
 DTEND;TZID=Europe/Vienna:20261128T050000
 SUMMARY:AWSM. Skyscraper Edition (Extra Date)
 LOCATION:Altia Skybar – DC Tower\, Donau-City-Straße 7\, 1220 Wien
-DESCRIPTION:MAWU\, Benjay\nVeranstalter: AWSM\nEintritt: 35 € (letzte P
- reisstufe\, zzgl. Tickethead-Gebühr)\n\nZusatztermin der ausverkauften 
- AWSM. Skyscraper Edition vom 28.11.: Rooftop-Party in der Altia Skybar i
- m 58. Stock des DC Tower mit Afro House und Melodic House\, 23:00–05:0
- 0. Laut RA spielt MAWU\; die AWSM-Website nennt für den Zusatztermin no
- ch kein Lineup. Tickets ab 30 € zzgl. Gebühr ausschließlich über Ti
- ckethead\, ab 19 mit Ausweis\, Dresscode classy/smart.\n\nhttps://rave.w
- ien/e/2026-11-27-awsm-skyscraper-edition-extra-date
+DESCRIPTION:MAWU\, Benjay\nVeranstalter: AWSM\nEintritt: 40 € (letzte P
+ reisstufe\, zzgl. Tickethead-Gebühr\; günstigere Stufen ausverkauft)\n
+ \nZusatztermin der ausverkauften AWSM. Skyscraper Edition vom 28.11.: Ro
+ oftop-Party in der Altia Skybar im 58. Stock des DC Tower mit Afro House
+  und Melodic House\, 23:00–05:00. Laut RA spielt MAWU\; die AWSM-Websi
+ te nennt für den Zusatztermin noch kein Lineup. Stand 25.11. sind die S
+ tufen zu 20\, 25 und 30 € ausverkauft\, es gibt nur noch die letzte St
+ ufe zu 40 € zzgl. Gebühr\, ausschließlich über Tickethead. Ab 19 mi
+ t Ausweis\, Dresscode classy/smart.\n\nhttps://rave.wien/e/2026-11-27-aw
+ sm-skyscraper-edition-extra-date
 URL:https://rave.wien/e/2026-11-27-awsm-skyscraper-edition-extra-date
 END:VEVENT
 BEGIN:VEVENT
@@ -564,21 +610,6 @@ DESCRIPTION:Mainfloor: Cara Elizabeth\, Frederic.\, Andrew Ahmed\nVeranst
  rederic
 URL:https://rave.wien/e/2026-11-28-selected-bassbussi-w-cara-elizabeth-fr
  ederic
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-28-nine-circles@rave.wien
-DTSTAMP:20261128T000000Z
-DTSTART;TZID=Europe/Vienna:20261128T230000
-DTEND;TZID=Europe/Vienna:20261129T040000
-SUMMARY:Nine Circles
-LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Ninecircles\n\nNinecircles-Nacht im Werk\; Line
- -up noch nicht veröffentlicht. Achtung: Weder das Programm des Werk noc
- h der Werk-Kalender von Techno Airlines führen Ninecircles am 28.11. (S
- tand 20.11.) – dort steht zur selben Zeit (23:00) der Dead End Showcas
- e x GDN. Der Termin ist daher sehr unsicher und findet vermutlich nicht 
- statt.\n\nhttps://rave.wien/e/2026-11-28-nine-circles
-URL:https://rave.wien/e/2026-11-28-nine-circles
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-awsm-skyscraper-edition@rave.wien
@@ -914,6 +945,19 @@ DESCRIPTION:Veranstalter: Febration\nEintritt: 10 € (inkl. 1 Freigeträ
 URL:https://rave.wien/e/2026-12-04-coffee-rave-krampus-special
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-04-krach-am-kanal@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T200000
+DTEND;TZID=Europe/Vienna:20261205T010000
+SUMMARY:Krach am Kanal
+LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
+DESCRIPTION:\n„Krach am Kanal“ im Rhiz unter den Gürtelbögen\, Begi
+ nn 20:00. Bisher sind nur Titel\, Ort und Beginn über RA bzw. Techno Ai
+ rlines bekannt\; Lineup\, Preis und Ende sind noch nicht veröffentlicht
+ .\n\nhttps://rave.wien/e/2026-12-04-krach-am-kanal
+URL:https://rave.wien/e/2026-12-04-krach-am-kanal
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-04-barvy-shpilki-good-girl-gone-bad@rave.wien
 DTSTAMP:20261204T000000Z
 DTSTART;TZID=Europe/Vienna:20261204T210000
@@ -994,6 +1038,24 @@ DESCRIPTION:B.Ranks\, Claromor\, DJ Odd\, LNKMN\, Peletronic\, Rapha Read
  , von 22 bis 4 Uhr. Eintritt nicht angegeben.\n\nhttps://rave.wien/e/202
  6-12-04-off-the-grid-x-acid-lambada
 URL:https://rave.wien/e/2026-12-04-off-the-grid-x-acid-lambada
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-ninecircles@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T040000
+SUMMARY:Ninecircles
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Bluest\, Provocateur\, KRISTUS\, Silentsevir\, Trugbild\, WO.
+ IZZY\nVeranstalter: Ninecircles\n\nNinecircles-Nacht im Werk – die Rei
+ he steht für Techno und Industrial\, „ein kompromissloser Trip in den
+  Underground“. Laut Techno Airlines und RA findet sie am Freitag\, 4. 
+ Dezember ab 23:00 statt (nicht wie früher vermutet am 28.11.\, an dem i
+ m Werk der Dead End Showcase läuft). Im Lineup stehen Bluest\, Provocat
+ eur\, KRISTUS\, Silentsevir\, Trugbild und WO.IZZY. Preis und Ende sind 
+ noch nicht bekannt\; im Werk gilt Einlass ab 21.\n\nhttps://rave.wien/e/
+ 2026-12-04-ninecircles
+URL:https://rave.wien/e/2026-12-04-ninecircles
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-step-forward-pres-eargasm-god@rave.wien
@@ -1312,19 +1374,26 @@ DESCRIPTION:DJ Karotte\, Crazy Sonic\, Joro & Joabo\nEintritt: 18 €\n\n
 URL:https://rave.wien/e/2026-12-05-karotte-im-wohnzimmer
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-05-bassbehorde@rave.wien
+UID:2026-12-05-fsk-atzig-bassbehorde-x-sachsentrance-showcase@rave.wien
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=Europe/Vienna:20261205T230000
-DTEND;TZID=Europe/Vienna:20261206T040000
-SUMMARY:Bassbehörde
+DTEND;TZID=Europe/Vienna:20261206T043000
+SUMMARY:FSK Atzig – Bassbehörde x Sachsentrance Showcase
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:\nBassbehörde im FLUCC Wanne ab 23:00. Die Location-Seite ne
- nnt bisher nur Titel\, Datum und Beginn\; Lineup\, Preis\, Ende und Flye
- r sind noch nicht veröffentlicht. Im FLUCC-Programm steht für denselbe
- n Abend in der Wanne zusätzlich „FSK Atzig“ (ebenfalls 23:00) mit e
- inem gemeinsamen Header-Bild – vermutlich ein Teil derselben Nacht.\n\
- nhttps://rave.wien/e/2026-12-05-bassbehorde
-URL:https://rave.wien/e/2026-12-05-bassbehorde
+DESCRIPTION:Bobbery\, Ibu600\, Tekkida\, The Jakob Sister\, Sabu!\nVerans
+ talter: Bassbehörde\nEintritt: 15 € (bis 00:00) / 18 € (ab 00:00)\n
+ \n„FSK Atzig“ ist ein Showcase der Wiener Crew Bassbehörde gemeinsa
+ m mit Sachsentrance in der FLUCC Wanne ab 23:00. Das Motto ist augenzwin
+ kernd „atzig“: Vor Ort gibt es Tooth Gems\, Kinderschminken und eine
+  Beauty-Station für das Arschgeweih zur Nacht. Timetable: Bobbery b2b I
+ bu600 (23:00–00:30)\, Tekkida (00:30–01:30)\, The Jakob Sister (01:3
+ 0–03:00) und Sabu! (03:00–04:30). Die Veranstalter betonen einen res
+ pektvollen\, diskriminierungsfreien Raum\; ein Awareness-Team ist vor Or
+ t (erkennbar an Lichterketten). Eintritt 15 € bis Mitternacht\, danach
+  18 €.\n\nhttps://rave.wien/e/2026-12-05-fsk-atzig-bassbehorde-x-sachs
+ entrance-showcase
+URL:https://rave.wien/e/2026-12-05-fsk-atzig-bassbehorde-x-sachsentrance-
+ showcase
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-techno-entgleist-w-nakadia-boho@rave.wien
@@ -1396,6 +1465,22 @@ DESCRIPTION:Gustuff\, Experimental\, Empat\n\nClubnacht „allowed to dri
  s und Ende sind bisher nicht bekannt.\n\nhttps://rave.wien/e/2026-12-05-
  allowed-to-drift
 URL:https://rave.wien/e/2026-12-05-allowed-to-drift
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-05-anna-ullrich-pres-achterbahn-w-andata@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T230000
+DTEND;TZID=Europe/Vienna:20261206T040000
+SUMMARY:Anna Ullrich pres. Achterbahn w/ ANDATA
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:ANDATA\, Anna Ullrich\, DJ Wolle\, Dimitrios\nVeranstalter: A
+ chterbahn\n\nNeue Ausgabe von Achterbahn\, der Trance- und Techno-Reihe 
+ der Wiener DJ Anna Ullrich im PRST (Club Praterstraße). Als Gast ist AN
+ DATA angekündigt\, dazu spielen Gastgeberin Anna Ullrich\, DJ Wolle und
+  Dimitrios. Beginn 23:00\; Preis\, Ende und Flyer sind noch nicht veröf
+ fentlicht – die Ticketseite des PRST war beim Abruf nicht lesbar.\n\nh
+ ttps://rave.wien/e/2026-12-05-anna-ullrich-pres-achterbahn-w-andata
+URL:https://rave.wien/e/2026-12-05-anna-ullrich-pres-achterbahn-w-andata
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05-krampus-beats@rave.wien
@@ -2310,6 +2395,21 @@ DESCRIPTION:pezel\, AMOVV\, CPR0\, Dcascallana\nVeranstalter: VVAX\nEintr
  ps://rave.wien/e/2026-12-18-vvax-vinyl-only-techno-1-year-anniversary
 URL:https://rave.wien/e/2026-12-18-vvax-vinyl-only-techno-1-year-annivers
  ary
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-hypertrash-loud-queer-annoying@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T235900
+DTEND;TZID=Europe/Vienna:20261219T045900
+SUMMARY:HYPERTRASH – loud\, queer & annoying
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:DJ Keshi\nVeranstalter: Hypertrash\n\nNeue Ausgabe von HYPERT
+ RASH\, der Wiener Partyreihe\, die sich selbst „loud\, queer & annoyin
+ g“ nennt\, im FLUCC ab Mitternacht. Laut RA bzw. Techno Airlines legt 
+ DJ Keshi auf\; weitere Acts\, Floor\, Preis und Ende sind noch nicht ver
+ öffentlicht.\n\nhttps://rave.wien/e/2026-12-18-hypertrash-loud-queer-an
+ noying
+URL:https://rave.wien/e/2026-12-18-hypertrash-loud-queer-annoying
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-technolog@rave.wien

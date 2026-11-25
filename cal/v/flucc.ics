@@ -168,19 +168,26 @@ DESCRIPTION:Veranstalter: Panzerschokolade\n\nPanzerschokolade im FLUCC D
 URL:https://rave.wien/e/2026-12-05-panzerschokolade
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-05-bassbehorde@rave.wien
+UID:2026-12-05-fsk-atzig-bassbehorde-x-sachsentrance-showcase@rave.wien
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=Europe/Vienna:20261205T230000
-DTEND;TZID=Europe/Vienna:20261206T040000
-SUMMARY:Bassbehörde
+DTEND;TZID=Europe/Vienna:20261206T043000
+SUMMARY:FSK Atzig – Bassbehörde x Sachsentrance Showcase
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:\nBassbehörde im FLUCC Wanne ab 23:00. Die Location-Seite ne
- nnt bisher nur Titel\, Datum und Beginn\; Lineup\, Preis\, Ende und Flye
- r sind noch nicht veröffentlicht. Im FLUCC-Programm steht für denselbe
- n Abend in der Wanne zusätzlich „FSK Atzig“ (ebenfalls 23:00) mit e
- inem gemeinsamen Header-Bild – vermutlich ein Teil derselben Nacht.\n\
- nhttps://rave.wien/e/2026-12-05-bassbehorde
-URL:https://rave.wien/e/2026-12-05-bassbehorde
+DESCRIPTION:Bobbery\, Ibu600\, Tekkida\, The Jakob Sister\, Sabu!\nVerans
+ talter: Bassbehörde\nEintritt: 15 € (bis 00:00) / 18 € (ab 00:00)\n
+ \n„FSK Atzig“ ist ein Showcase der Wiener Crew Bassbehörde gemeinsa
+ m mit Sachsentrance in der FLUCC Wanne ab 23:00. Das Motto ist augenzwin
+ kernd „atzig“: Vor Ort gibt es Tooth Gems\, Kinderschminken und eine
+  Beauty-Station für das Arschgeweih zur Nacht. Timetable: Bobbery b2b I
+ bu600 (23:00–00:30)\, Tekkida (00:30–01:30)\, The Jakob Sister (01:3
+ 0–03:00) und Sabu! (03:00–04:30). Die Veranstalter betonen einen res
+ pektvollen\, diskriminierungsfreien Raum\; ein Awareness-Team ist vor Or
+ t (erkennbar an Lichterketten). Eintritt 15 € bis Mitternacht\, danach
+  18 €.\n\nhttps://rave.wien/e/2026-12-05-fsk-atzig-bassbehorde-x-sachs
+ entrance-showcase
+URL:https://rave.wien/e/2026-12-05-fsk-atzig-bassbehorde-x-sachsentrance-
+ showcase
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-expedition-im-traumtempo-by-garten-von-eben-unloc@rave.wien
@@ -276,6 +283,21 @@ DESCRIPTION:Veranstalter: Callshop Radio\, Spumante Records\nEintritt fre
  eams ist die Deck-Bar geöffnet\, das DJ-Lineup ist noch nicht angekünd
  igt.\n\nhttps://rave.wien/e/2026-12-13-flut-x-callshop-radio-week-50
 URL:https://rave.wien/e/2026-12-13-flut-x-callshop-radio-week-50
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-hypertrash-loud-queer-annoying@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T235900
+DTEND;TZID=Europe/Vienna:20261219T045900
+SUMMARY:HYPERTRASH – loud\, queer & annoying
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:DJ Keshi\nVeranstalter: Hypertrash\n\nNeue Ausgabe von HYPERT
+ RASH\, der Wiener Partyreihe\, die sich selbst „loud\, queer & annoyin
+ g“ nennt\, im FLUCC ab Mitternacht. Laut RA bzw. Techno Airlines legt 
+ DJ Keshi auf\; weitere Acts\, Floor\, Preis und Ende sind noch nicht ver
+ öffentlicht.\n\nhttps://rave.wien/e/2026-12-18-hypertrash-loud-queer-an
+ noying
+URL:https://rave.wien/e/2026-12-18-hypertrash-loud-queer-annoying
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-27-flut-x-callshop-radio-week-52@rave.wien

@@ -46,6 +46,24 @@ DESCRIPTION:Oben: Andrew Ahmed\, Sluzy\, PartyPauli\, maro\, Arman Shadow
 URL:https://rave.wien/e/2026-11-27-bassbussi-allstars-3-years-anniversary
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-04-ninecircles@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T040000
+SUMMARY:Ninecircles
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Bluest\, Provocateur\, KRISTUS\, Silentsevir\, Trugbild\, WO.
+ IZZY\nVeranstalter: Ninecircles\n\nNinecircles-Nacht im Werk – die Rei
+ he steht für Techno und Industrial\, „ein kompromissloser Trip in den
+  Underground“. Laut Techno Airlines und RA findet sie am Freitag\, 4. 
+ Dezember ab 23:00 statt (nicht wie früher vermutet am 28.11.\, an dem i
+ m Werk der Dead End Showcase läuft). Im Lineup stehen Bluest\, Provocat
+ eur\, KRISTUS\, Silentsevir\, Trugbild und WO.IZZY. Preis und Ende sind 
+ noch nicht bekannt\; im Werk gilt Einlass ab 21.\n\nhttps://rave.wien/e/
+ 2026-12-04-ninecircles
+URL:https://rave.wien/e/2026-12-04-ninecircles
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-18-cybertribe-pres-club-gspusi@rave.wien
 DTSTAMP:20261218T000000Z
 DTSTART;TZID=Europe/Vienna:20261218T230000

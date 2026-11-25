@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bluest · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-04-ninecircles@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T040000
+SUMMARY:Ninecircles
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Bluest\, Provocateur\, KRISTUS\, Silentsevir\, Trugbild\, WO.
+ IZZY\nVeranstalter: Ninecircles\n\nNinecircles-Nacht im Werk – die Rei
+ he steht für Techno und Industrial\, „ein kompromissloser Trip in den
+  Underground“. Laut Techno Airlines und RA findet sie am Freitag\, 4. 
+ Dezember ab 23:00 statt (nicht wie früher vermutet am 28.11.\, an dem i
+ m Werk der Dead End Showcase läuft). Im Lineup stehen Bluest\, Provocat
+ eur\, KRISTUS\, Silentsevir\, Trugbild und WO.IZZY. Preis und Ende sind 
+ noch nicht bekannt\; im Werk gilt Einlass ab 21.\n\nhttps://rave.wien/e/
+ 2026-12-04-ninecircles
+URL:https://rave.wien/e/2026-12-04-ninecircles
+END:VEVENT
+END:VCALENDAR

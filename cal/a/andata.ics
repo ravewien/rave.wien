@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//rave.wien//Kalender//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Andata · rave.wien
+X-WR-CALNAME:ANDATA · rave.wien
 X-WR-TIMEZONE:Europe/Vienna
 X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
@@ -26,14 +26,19 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-06-06-anna-ullrich-pres-achterbahn-w-andata@rave.wien
-DTSTAMP:20260606T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:Anna Ullrich pres. ACHTERBAHN w ANDATA
+UID:2026-12-05-anna-ullrich-pres-achterbahn-w-andata@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T230000
+DTEND;TZID=Europe/Vienna:20261206T040000
+SUMMARY:Anna Ullrich pres. Achterbahn w/ ANDATA
 LOCATION:PRST\, Praterstraße 18\, 1020 Wien
-DESCRIPTION:Andata\nVeranstalter: Achterbahn\n\nhttps://rave.wien/e/2026-
- 06-06-anna-ullrich-pres-achterbahn-w-andata
-URL:https://rave.wien/e/2026-06-06-anna-ullrich-pres-achterbahn-w-andata
+DESCRIPTION:ANDATA\, Anna Ullrich\, DJ Wolle\, Dimitrios\nVeranstalter: A
+ chterbahn\n\nNeue Ausgabe von Achterbahn\, der Trance- und Techno-Reihe 
+ der Wiener DJ Anna Ullrich im PRST (Club Praterstraße). Als Gast ist AN
+ DATA angekündigt\, dazu spielen Gastgeberin Anna Ullrich\, DJ Wolle und
+  Dimitrios. Beginn 23:00\; Preis\, Ende und Flyer sind noch nicht veröf
+ fentlicht – die Ticketseite des PRST war beim Abruf nicht lesbar.\n\nh
+ ttps://rave.wien/e/2026-12-05-anna-ullrich-pres-achterbahn-w-andata
+URL:https://rave.wien/e/2026-12-05-anna-ullrich-pres-achterbahn-w-andata
 END:VEVENT
 END:VCALENDAR

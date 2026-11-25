@@ -40,4 +40,19 @@ DESCRIPTION:Rosa Nebel\, Mitra\, Lucia Kagramanyan\, Heap\, DJ Keshi\n\nD
  e/2026-11-28-kalte-das-celeste-wird-12-1-25
 URL:https://rave.wien/e/2026-11-28-kalte-das-celeste-wird-12-1-25
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-hypertrash-loud-queer-annoying@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T235900
+DTEND;TZID=Europe/Vienna:20261219T045900
+SUMMARY:HYPERTRASH – loud\, queer & annoying
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:DJ Keshi\nVeranstalter: Hypertrash\n\nNeue Ausgabe von HYPERT
+ RASH\, der Wiener Partyreihe\, die sich selbst „loud\, queer & annoyin
+ g“ nennt\, im FLUCC ab Mitternacht. Laut RA bzw. Techno Airlines legt 
+ DJ Keshi auf\; weitere Acts\, Floor\, Preis und Ende sind noch nicht ver
+ öffentlicht.\n\nhttps://rave.wien/e/2026-12-18-hypertrash-loud-queer-an
+ noying
+URL:https://rave.wien/e/2026-12-18-hypertrash-loud-queer-annoying
+END:VEVENT
 END:VCALENDAR

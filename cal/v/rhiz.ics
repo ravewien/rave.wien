@@ -43,6 +43,19 @@ DESCRIPTION:HYSTERIE\, Frau F\, Nakrasia\nVeranstalter: SWEAT\nEintritt:
 URL:https://rave.wien/e/2026-11-28-sweat
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-04-krach-am-kanal@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T200000
+DTEND;TZID=Europe/Vienna:20261205T010000
+SUMMARY:Krach am Kanal
+LOCATION:Rhiz\, Lerchenfelder Gürtel\, U-Bahnbogen 37-38\, 1080 Wien
+DESCRIPTION:\n„Krach am Kanal“ im Rhiz unter den Gürtelbögen\, Begi
+ nn 20:00. Bisher sind nur Titel\, Ort und Beginn über RA bzw. Techno Ai
+ rlines bekannt\; Lineup\, Preis und Ende sind noch nicht veröffentlicht
+ .\n\nhttps://rave.wien/e/2026-12-04-krach-am-kanal
+URL:https://rave.wien/e/2026-12-04-krach-am-kanal
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-31-alles-allen-no-halloween-birthday-bash@rave.wien
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=Europe/Vienna:20261031T200000

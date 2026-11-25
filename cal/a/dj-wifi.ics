@@ -26,6 +26,20 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-11-27-dj-wifi-presents-hotspot@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T180000
+DTEND;TZID=Europe/Vienna:20261127T230000
+SUMMARY:DJ WIFI presents HOTSPOT
+LOCATION:Wiener Würstelstand Spittelau\, U-Bahn-Station Spittelau\, 1090
+  Wien
+DESCRIPTION:Dj Wifi\n\n„HOTSPOT“ ist ein Abend von DJ Wifi am Wiener 
+ Würstelstand bei der Spittelau – einem Imbiss\, an dem regelmäßig D
+ Js auflegen. Beginn 18:00. Weitere Acts\, Preis und Ende sind nicht ange
+ geben.\n\nhttps://rave.wien/e/2026-11-27-dj-wifi-presents-hotspot
+URL:https://rave.wien/e/2026-11-27-dj-wifi-presents-hotspot
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-resident-night-golpe-detoxx@rave.wien
 DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Vienna:20261127T230000

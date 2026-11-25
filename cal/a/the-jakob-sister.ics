@@ -26,6 +26,28 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-05-fsk-atzig-bassbehorde-x-sachsentrance-showcase@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T230000
+DTEND;TZID=Europe/Vienna:20261206T043000
+SUMMARY:FSK Atzig – Bassbehörde x Sachsentrance Showcase
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Bobbery\, Ibu600\, Tekkida\, The Jakob Sister\, Sabu!\nVerans
+ talter: Bassbehörde\nEintritt: 15 € (bis 00:00) / 18 € (ab 00:00)\n
+ \n„FSK Atzig“ ist ein Showcase der Wiener Crew Bassbehörde gemeinsa
+ m mit Sachsentrance in der FLUCC Wanne ab 23:00. Das Motto ist augenzwin
+ kernd „atzig“: Vor Ort gibt es Tooth Gems\, Kinderschminken und eine
+  Beauty-Station für das Arschgeweih zur Nacht. Timetable: Bobbery b2b I
+ bu600 (23:00–00:30)\, Tekkida (00:30–01:30)\, The Jakob Sister (01:3
+ 0–03:00) und Sabu! (03:00–04:30). Die Veranstalter betonen einen res
+ pektvollen\, diskriminierungsfreien Raum\; ein Awareness-Team ist vor Or
+ t (erkennbar an Lichterketten). Eintritt 15 € bis Mitternacht\, danach
+  18 €.\n\nhttps://rave.wien/e/2026-12-05-fsk-atzig-bassbehorde-x-sachs
+ entrance-showcase
+URL:https://rave.wien/e/2026-12-05-fsk-atzig-bassbehorde-x-sachsentrance-
+ showcase
+END:VEVENT
+BEGIN:VEVENT
 UID:2025-04-12-soundlabs-pres-the-jakob-sister-face2face-sabu@rave.wien
 DTSTAMP:20250412T000000Z
 DTSTART;VALUE=DATE:20250412

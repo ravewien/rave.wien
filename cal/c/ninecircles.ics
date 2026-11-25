@@ -26,18 +26,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-28-nine-circles@rave.wien
-DTSTAMP:20261128T000000Z
-DTSTART;TZID=Europe/Vienna:20261128T230000
-DTEND;TZID=Europe/Vienna:20261129T040000
-SUMMARY:Nine Circles
+UID:2026-12-04-ninecircles@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T040000
+SUMMARY:Ninecircles
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Ninecircles\n\nNinecircles-Nacht im Werk\; Line
- -up noch nicht veröffentlicht. Achtung: Weder das Programm des Werk noc
- h der Werk-Kalender von Techno Airlines führen Ninecircles am 28.11. (S
- tand 20.11.) – dort steht zur selben Zeit (23:00) der Dead End Showcas
- e x GDN. Der Termin ist daher sehr unsicher und findet vermutlich nicht 
- statt.\n\nhttps://rave.wien/e/2026-11-28-nine-circles
-URL:https://rave.wien/e/2026-11-28-nine-circles
+DESCRIPTION:Bluest\, Provocateur\, KRISTUS\, Silentsevir\, Trugbild\, WO.
+ IZZY\nVeranstalter: Ninecircles\n\nNinecircles-Nacht im Werk – die Rei
+ he steht für Techno und Industrial\, „ein kompromissloser Trip in den
+  Underground“. Laut Techno Airlines und RA findet sie am Freitag\, 4. 
+ Dezember ab 23:00 statt (nicht wie früher vermutet am 28.11.\, an dem i
+ m Werk der Dead End Showcase läuft). Im Lineup stehen Bluest\, Provocat
+ eur\, KRISTUS\, Silentsevir\, Trugbild und WO.IZZY. Preis und Ende sind 
+ noch nicht bekannt\; im Werk gilt Einlass ab 21.\n\nhttps://rave.wien/e/
+ 2026-12-04-ninecircles
+URL:https://rave.wien/e/2026-12-04-ninecircles
 END:VEVENT
 END:VCALENDAR
