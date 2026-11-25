@@ -267,5 +267,102 @@ window.PRUEF=[
    "https://open.spotify.com/album/0qL2CLFQq6S9szMf7IQc8I"
   ],
   "karten": []
+ },
+ {
+  "id": "genre-ev-2026-11-26-mara-never-ep-release-show-genres",
+  "ts": "2026-11-25",
+  "lauf": "event-update",
+  "typ": "genre",
+  "titel": "Genres: Mara Never – EP Release Show (26.11.)",
+  "text": "Für das Event in den Westbahnstudios nennen RA/Techno Airlines keine Genres; Mara Never trat zuletzt bei Sad*Crab Radio mit experimentellen Live-Acts auf. Vermutung: Experimental / Ambient.",
+  "links": [
+   "https://ra.co/events/2591788",
+   "https://ra.co/events/2399567"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "ev",
+   "op": "edit",
+   "key": "2026-11-26-mara-never-ep-release-show",
+   "title": "Mara Never: EP Release Show",
+   "data": {
+    "genres": [
+     "Experimental",
+     "Ambient"
+    ]
+   }
+  }
+ },
+ {
+  "id": "genre-ev-2026-11-27-dj-wifi-presents-hotspot-genres",
+  "ts": "2026-11-25",
+  "lauf": "event-update",
+  "typ": "genre",
+  "titel": "Genres: DJ WIFI presents HOTSPOT (27.11.)",
+  "text": "Keine Genre-Angabe in den Quellen; DJ Wifi spielte zuletzt bei der Werk-Resident-Night (Techno-Umfeld). Vermutung: Techno / House.",
+  "links": [
+   "https://ra.co/events/2593057"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "ev",
+   "op": "edit",
+   "key": "2026-11-27-dj-wifi-presents-hotspot",
+   "title": "DJ WIFI presents HOTSPOT",
+   "data": {
+    "genres": [
+     "Techno",
+     "House"
+    ]
+   }
+  }
+ },
+ {
+  "id": "genre-ev-2026-11-27-semmelweisklinik-open-decks-genres",
+  "ts": "2026-11-25",
+  "lauf": "event-update",
+  "typ": "genre",
+  "titel": "Genres: Semmelweisklinik Open Decks (27.11.)",
+  "text": "Open-Decks-Abend ohne Genre-Angabe; Musik hängt von den Teilnehmenden ab. Vermutung: House / Techno.",
+  "links": [
+   "https://ra.co/events/2593224"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "ev",
+   "op": "edit",
+   "key": "2026-11-27-semmelweisklinik-open-decks",
+   "title": "Semmelweisklinik Open Decks",
+   "data": {
+    "genres": [
+     "House",
+     "Techno"
+    ]
+   }
+  }
+ },
+ {
+  "id": "genre-ev-2026-12-04-krach-am-kanal-genres",
+  "ts": "2026-11-25",
+  "lauf": "event-update",
+  "typ": "genre",
+  "titel": "Genres: Krach am Kanal (4.12., Rhiz)",
+  "text": "Bisher nur Titel/Ort/Beginn bekannt; der Titel deutet auf Noise/Experimental hin. Vermutung: Experimental / Noise.",
+  "links": [
+   "https://ra.co/events/2592050"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "ev",
+   "op": "edit",
+   "key": "2026-12-04-krach-am-kanal",
+   "title": "Krach am Kanal",
+   "data": {
+    "genres": [
+     "Experimental",
+     "Noise"
+    ]
+   }
+  }
  }
 ];
