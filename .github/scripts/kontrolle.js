@@ -98,6 +98,15 @@ if (!/^Keine Dubletten/.test(kan)) { const n = kan.split("\n").length;
   if (FIX) { shq("node .github/scripts/veranstalter-kanon.js"); if (commitPush("events.js past.js", `Daten-Update ${HEUTE}: Veranstalter-Dubletten aufgelöst (${n})`)) behoben.push(`Veranstalter-Dubletten aufgelöst (${n} Namen vereinheitlicht)`); }
   else info.push(`${n} Veranstalter-Namen zu vereinheitlichen (mit --fix)`); }
 
+// Locations mit Events in den nächsten 14 Tagen, aber ohne Koordinaten (kein Wetter, kein Kartenpunkt)
+try {
+  const vm = require("vm"); const c = {}; vm.runInNewContext(fs.readFileSync(path.join(R, "events.js"), "utf8") + ";this.RAW=RAW;this.VG=typeof VG!=='undefined'?VG:{}", c);
+  const g = {}; vm.runInNewContext(fs.readFileSync(path.join(R, "geo.js"), "utf8").replace(/^(const|let) /gm, "var "), g);
+  const G = Object.assign({}, g.GEO2 || {}, c.VG || {}), bis14 = wien(Date.now() + 14 * 864e5).slice(0, 10);
+  const ohne = [...new Set(c.RAW.filter(e => e.d >= HEUTE && e.d <= bis14 && e.venue && !G[e.venue] && !/TBA|Secret/i.test(e.venue)).map(e => e.venue))];
+  if (ohne.length) warn.push(`Locations ohne Koordinaten (kein Wetter/Kartenpunkt): ${ohne.join(", ")} – in VG (events.js) eintragen.`);
+} catch (_) {}
+
 // ---------- Lücken-Listen
 const heuteListen = K.sonderlaeufe[HEUTE] || [];
 if (FIX && heuteListen.length < 3) {

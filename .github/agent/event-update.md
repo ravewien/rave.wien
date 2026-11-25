@@ -173,3 +173,5 @@ Die Abschluss-Nachricht zusätzlich als Datei ins Repo legen, damit die täglich
 
 ## NUR IM LAPTOP-LAUF (Werktags-Lauf mit dem eingebauten Browser): Instagram-Profilbilder
 Gilt ausschließlich für den Laptop-Lauf (der Lauf, der Seiten im eingebauten Browser des Laptops öffnet) – das tägliche Event-Update und alle anderen Läufe überspringen diesen Abschnitt. Nach den gesperrten Seiten und VOR dem Bericht: `.github/agent/laptop-ig.md` ganz lesen und befolgen (höchstens 20 Instagram-Profile, nur lesen, Bildadressen notieren). In der Abschluss-Nachricht eine Zeile „Instagram-Profilbilder: …“.
+
+- KOORDINATEN (Pflicht für jede Location mit kommenden Events): Steht eine Location weder in `VG` (events.js) noch in geo.js (`GEO2`), trag ihre Koordinaten in `const VG={"Location": [Breite, Länge]}` ein (5 Nachkommastellen, aus Adresse/Karte/Quelle; bei „Adresse TBA“ den bekannten Ort bzw. Stadtteil). Ohne Koordinaten gibt es für Outdoor-Events kein Wetter und keinen Punkt auf der Karte. TBA/Secret Location ausgenommen.
