@@ -6563,8 +6563,6 @@ const CI={
   ]
  },
  "shared frequencies": {
-  "ig": "https://www.instagram.com/sharedfrequencies_/",
-  "man": 1,
   "de": "Reihe von ooku. und dr. schick: Radioshow auf Res.Radio und Listening Sessions, zuletzt im Funkhaus. Thematisch u. a. UK-Bass und Soundsystem-Kultur sowie Schwarze Underground-Tanzmusik aus den USA von Disco und Techno bis Footwork.",
   "en": "Series by ooku. and dr. schick: a radio show on Res.Radio plus listening sessions, most recently at Funkhaus. Topics include UK bass and sound-system culture as well as Black US underground dance music from disco and techno to footwork.",
   "type": [
@@ -7497,7 +7495,6 @@ const VI={
   "man": 1
  },
  "Funkhaus": {
-  "ig": "https://www.instagram.com/funkhaus_official/",
   "src": [
    "https://ra.co/events/2547379",
    "https://www.vienna.at/funkhaus-in-wien-wieden-verwandelt-sich-in-gratzlhub/9297596",
