@@ -77,6 +77,48 @@ DESCRIPTION:Veranstalter: Mahlwerk\n\nDas Wiener DJ-Kollektiv Mahlwerk k
 URL:https://rave.wien/e/2027-03-20-mahlwerk-grelle-forelle
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-05-15-mahlwerk-gleis19@rave.wien
+DTSTAMP:20270515T000000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:MAHLWERK @ Gleis19
+LOCATION:Gleis 19\, Gunoldstraße 12\, 1190 Wien
+DESCRIPTION:Veranstalter: Mahlwerk\n\nDas Wiener DJ-Kollektiv Mahlwerk k
+ ündigt auf seiner Website für den 15. Mai 2027 eine Nacht im Gleis 19 
+ in Döbling an\, wo es bereits 2025 und 2026 Open Airs veranstaltet hat.
+  Lineup\, Beginnzeit und Ticketdetails sind noch nicht veröffentlicht.\
+ n\nhttps://rave.wien/e/2027-05-15-mahlwerk-gleis19
+URL:https://rave.wien/e/2027-05-15-mahlwerk-gleis19
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-09-mahlwerk-grelle-forelle@rave.wien
+DTSTAMP:20271009T000000Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:MAHLWERK @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Mahlwerk\n\nDas Wiener DJ-Kollektiv Mahlwerk k
+ ündigt auf seiner Website für den 9. Oktober 2027 eine weitere Nacht i
+ n der Grelle Forelle an. Lineup\, Beginnzeit und Ticketdetails sind noch
+  nicht veröffentlicht.\n\nhttps://rave.wien/e/2027-10-09-mahlwerk-grell
+ e-forelle
+URL:https://rave.wien/e/2027-10-09-mahlwerk-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-12-11-mahlwerk-grelle-forelle@rave.wien
+DTSTAMP:20271211T000000Z
+DTSTART;VALUE=DATE:20271211
+DTEND;VALUE=DATE:20271212
+SUMMARY:MAHLWERK @ Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Mahlwerk\n\nDas Wiener DJ-Kollektiv Mahlwerk k
+ ündigt auf seiner Website für den 11. Dezember 2027 eine weitere Nacht
+  in der Grelle Forelle an. Lineup\, Beginnzeit und Ticketdetails sind no
+ ch nicht veröffentlicht.\n\nhttps://rave.wien/e/2027-12-11-mahlwerk-gre
+ lle-forelle
+URL:https://rave.wien/e/2027-12-11-mahlwerk-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
 UID:2024-01-05-mahlwerk-x-pratersauna@rave.wien
 DTSTAMP:20240105T000000Z
 DTSTART;VALUE=DATE:20240105

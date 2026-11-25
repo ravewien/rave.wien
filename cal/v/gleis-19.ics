@@ -25,4 +25,18 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:2027-05-15-mahlwerk-gleis19@rave.wien
+DTSTAMP:20270515T000000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:MAHLWERK @ Gleis19
+LOCATION:Gleis 19\, Gunoldstraße 12\, 1190 Wien
+DESCRIPTION:Veranstalter: Mahlwerk\n\nDas Wiener DJ-Kollektiv Mahlwerk k
+ ündigt auf seiner Website für den 15. Mai 2027 eine Nacht im Gleis 19 
+ in Döbling an\, wo es bereits 2025 und 2026 Open Airs veranstaltet hat.
+  Lineup\, Beginnzeit und Ticketdetails sind noch nicht veröffentlicht.\
+ n\nhttps://rave.wien/e/2027-05-15-mahlwerk-gleis19
+URL:https://rave.wien/e/2027-05-15-mahlwerk-gleis19
+END:VEVENT
 END:VCALENDAR
