@@ -6573,7 +6573,9 @@ const CI={
    "https://ra.co/events/2588164"
   ],
   "infoChk": "2026-11-20",
-  "noLogo": "2026-11-20"
+  "noLogo": "2026-11-20",
+  "ig": "https://www.instagram.com/sharedfrequencies_/",
+  "man": 1
  },
  "Dance Spirit Events": {
   "de": "Wiener Veranstalter der Clubnacht „Kruger Club & Beats“ im Kruger Club in der Innenstadt, angekündigt mit „kuratierten Grooves und nicht-kommerziellen Beats“ zwischen House und Tech House.",
@@ -7519,7 +7521,8 @@ const VI={
   "floors": [
    "Club Area"
   ],
-  "accChk": "2026-11-23"
+  "accChk": "2026-11-23",
+  "ig": "https://www.instagram.com/funkhaus_official/"
  },
  "Rhiz": {
   "src": [
