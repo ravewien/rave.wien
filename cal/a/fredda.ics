@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fredda · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-05-fsk-atzig-bassbehorde-x-sachsentrance-showcase@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T230000
+DTEND;TZID=Europe/Vienna:20261206T060000
+SUMMARY:FSK Atzig – Bassbehörde x Sachsentrance Showcase
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Bobbery\, Ibu600\, Tekkida\, The Jakob Sister\, Sabu\, Fredda
+ \nVeranstalter: Bassbehörde\, Sachsentrance\nEintritt: 15 € (bis 00:0
+ 0) / 18 € (ab 00:00)\n\n„FSK Atzig“ ist ein Showcase der Wiener Cr
+ ew Bassbehörde gemeinsam mit Sachsentrance in der FLUCC Wanne von 23:00
+  bis 06:00. Das Motto ist augenzwinkernd „atzig“: Vor Ort gibt es To
+ oth Gems von Glitzerfresse\, atziges Kinderschminken und eine Beauty-Sta
+ tion mit Fake-Piercings und Klebetattoos. Timetable: Bobbery b2b Ibu600 
+ (23:00–00:30)\, Tekkida (00:30–01:30)\, The Jakob Sister (01:30–03
+ :00)\, Sabu! (03:00–04:30) und Fredda zum Abschluss (04:30–06:00). D
+ ie Veranstalter betonen einen respektvollen\, diskriminierungsfreien Rau
+ m\; ein Awareness-Team ist vor Ort (erkennbar an Lichterketten). Eintrit
+ t nur an der Abendkasse: 15 € bis Mitternacht\, danach 18 €.\n\nhttp
+ s://rave.wien/e/2026-12-05-fsk-atzig-bassbehorde-x-sachsentrance-showcas
+ e
+URL:https://rave.wien/e/2026-12-05-fsk-atzig-bassbehorde-x-sachsentrance-
+ showcase
+END:VEVENT
+END:VCALENDAR
