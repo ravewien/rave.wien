@@ -1209,6 +1209,9 @@ const CG={
   "Drum & Bass",
   "Trance",
   "UK Garage"
+ ],
+ "Sachsentrance": [
+  "Trance"
  ]
 };
 const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","ALERT[A] Vienna","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","Art Attech","AUDIO303","Auf der Lauer","Ausländer Haus","AWSM","Barracuda Music","BARVY","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","BASST SCHO","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","Bionic Ritual","BLUR","Bonkers","Booster Club","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Crossover","Cybertribe","Cyclic Existence","Dance 2 House","Dance Spirit Events","Danza Obscura","Dark Pressure","Das Syndikat","DEAD END","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","EMDB","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exceso","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Febration","Female Pleasure","Festklub","Feuchte Träume","Fifi","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Forbidden Frequency","Fourcast","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Homesounds","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","It's George","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","March of the Machines","Meier","MEIOSISS","Melodic Monday","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Modulate","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Off The Grid","Opération","Out of Space","Oxygene","Palazzo Recordings","Panzerschokolade","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PURRR","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","RaveCon","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","Sachsentrance","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schroedinger's Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","shared frequencies","SHPILKI","SIGNAL","SIN","Slutlabs","Sniffin´ Glue","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","SWEAT","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","TECHNOLOT","The Academy","The Hive","The House of Funk","the zound partisans","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Ungeniert","Uniquely Journeys","Unkwn","unlock|me","Unstoppable Organizerteam","Untz Baby Untz","up/or","Vangardist","Ventil Records","Verknallt","Vertigo","Verum Gaudium","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wums","Wyldhearts","Xperiment Records","YE","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
@@ -6847,10 +6850,51 @@ const CI={
   ]
  },
  "Bassbehörde": {
-  "ig": "https://www.instagram.com/bassbehoerde/"
+  "ig": "https://www.instagram.com/bassbehoerde/",
+  "de": "Wiener Partyreihe bzw. Kollektiv mit Nächten wie „Bass & Krawall“, „Deep Dive“, „Heckmeck am Deck“ und „Unleashed“, u. a. im FLUCC, The Loft und Der Ponyhof.",
+  "en": "Viennese party series/collective behind nights such as “Bass & Krawall”, “Deep Dive”, “Heckmeck am Deck” and “Unleashed”, e.g. at FLUCC, The Loft and Der Ponyhof.",
+  "from": "Wien",
+  "sc": "https://soundcloud.com/bassbehoerde",
+  "noLogo": "2026-11-25",
+  "infoChk": "2026-11-25",
+  "src": [
+   "https://ra.co/events/2416588",
+   "https://ra.co/events/1980983",
+   "https://ra.co/events/2028508",
+   "https://ra.co/events/2121088",
+   "https://soundcloud.com/bassbehoerde"
+  ]
  },
  "Sachsentrance": {
-  "ig": "https://www.instagram.com/sachsentrance/"
+  "ig": "https://www.instagram.com/sachsentrance/",
+  "de": "Linkes Trance-Kollektiv und Label aus Sachsen: bunte, euphorische Trance-Partys mit schneller Musik und Safer-Space-Anspruch, mit Showcases u. a. in Berlin, Leipzig, Frankfurt und Wien.",
+  "en": "Left-wing trance collective and label from Saxony: colourful, euphoric trance parties with fast music and a safer-space ethos, with showcases in Berlin, Leipzig, Frankfurt and Vienna.",
+  "type": [
+   "Kollektiv",
+   "Label"
+  ],
+  "from": "Sachsen",
+  "web": "https://sachsentrance.com/",
+  "sc": "https://soundcloud.com/sachsentrance",
+  "bc": "https://sachsentrance.bandcamp.com/",
+  "logo": "https://sachsentrance.com/_assets/e56114cb371acd52da0e63ec0e2dd39e/Images/Logos/Logo.svg",
+  "members": [
+   "RaverPik",
+   "Atreo",
+   "Sabu",
+   "The Jakob Sister",
+   "Paralich",
+   "A.N.I.",
+   "Kirk",
+   "Stargurl"
+  ],
+  "membersSrc": "https://sachsentrance.com/artists/",
+  "infoChk": "2026-11-25",
+  "src": [
+   "https://sachsentrance.com/",
+   "https://sachsentrance.bandcamp.com/music",
+   "https://de.ra.co/promoters/98717"
+  ]
  }
 };
 const VI={
@@ -9552,7 +9596,8 @@ const AR={
    "de": "DJ aus Österreich, der vor allem in Wien spielt – am häufigsten im Das Werk, im FLUCC und im Ponyhof.",
    "en": "DJ from Austria who mostly plays in Vienna – most often at Das Werk, FLUCC and Ponyhof."
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-25"
  },
  "Lorenzo Raganzini": {
   "links": {
@@ -10149,7 +10194,8 @@ const AR={
    "en": "Silentsevir is a techno DJ and producer from Vienna who plays mostly at Das Werk and FLUCC."
   },
   "infoChk": "2026-11-03",
-  "lt": "https://linktr.ee/silentsevir"
+  "lt": "https://linktr.ee/silentsevir",
+  "spChk": "2026-11-25"
  },
  "WO.IZZY": {
   "links": {
@@ -25968,7 +26014,8 @@ const AR={
   "src": [
    "https://ra.co/dj/sabu"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-25"
  },
  "It’s George": {
   "alias": [
@@ -32115,7 +32162,19 @@ const AR={
   "src": [
    "https://ra.co/dj/andata"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "sets": [
+   {
+    "t": "ANDATA - HÖR Berlin Live Set - 10 Years Selected",
+    "u": "https://soundcloud.com/andata/andata-hor-berlin-live-set-10-years-selected"
+   },
+   {
+    "t": "ANDATA 2h DJ Set @ Customized Culture x VER:",
+    "u": "https://soundcloud.com/andata/andata-2h-dj-set-customized-culture-x-ver-w-bad-boombox-somewhen"
+   }
+  ],
+  "setsChecked": "2026-11-25",
+  "spChk": "2026-11-25"
  },
  "Rampue": {
   "img": "https://static.ra.co/images/profiles/square/rampue.jpg?dateUpdated=1567269533000",
@@ -33450,7 +33509,10 @@ const AR={
    "Downtempo",
    "Psy Techno"
   ],
-  "spChk": "2026-11-23"
+  "spChk": "2026-11-23",
+  "alias": [
+   "Moodshifter"
+  ]
  },
  "David Bowiedl": {
   "infoChk": "2026-11-03",
@@ -46626,7 +46688,8 @@ const AR={
    "ra": "https://ra.co/dj/thejakobsister",
    "sc": "https://soundcloud.com/thejakobsister",
    "bc": "https://sachsentrance.bandcamp.com",
-   "ig": "https://www.instagram.com/the_jakob_sister/"
+   "ig": "https://www.instagram.com/the_jakob_sister/",
+   "sp": "https://open.spotify.com/artist/7JREc3XSxPpfTHbydFAHYS"
   },
   "from": {
    "de": "Berlin",
@@ -46650,7 +46713,19 @@ const AR={
   "src": [
    "https://ra.co/dj/thejakobsister"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "spChk": "2026-11-25",
+  "sets": [
+   {
+    "t": "Hitstorm aka RaverPik b2b The Jakob Sister @ Sachsentrance, Containerhafen Berlin (19.07.2026)",
+    "u": "https://soundcloud.com/sachsentrance/hitstorm_aka_raverpik_b2b_the_jakob_sister_at_containerhafen"
+   },
+   {
+    "t": "UZ 170 - The Jakob Sister (Underzone)",
+    "u": "https://soundcloud.com/underzoneco/uz-170-the-jakob-sister"
+   }
+  ],
+  "setsChecked": "2026-11-25"
  },
  "Fenrick": {
   "img": "https://static.ra.co/images/profiles/square/fenrick.jpg?dateUpdated=1675772915267",
@@ -49353,6 +49428,9 @@ const AR={
   ],
   "src": [
    "https://soundcloud.com/resradio/ooku-dr-schick-present-2"
+  ],
+  "alias": [
+   "dr.schick"
   ]
  },
  "Meander": {
@@ -56237,6 +56315,144 @@ const AR={
   "noLinks": "2026-11-24",
   "infoChk": "2026-11-24",
   "spChk": "2026-11-24"
+ },
+ "MARAws": {
+  "alias": [
+   "Mara Never"
+  ],
+  "from": {
+   "de": "Wien",
+   "en": "Vienna"
+  },
+  "bio": {
+   "de": "MARAws ist DJ, Produzent:in, Veranstalter:in und Autor:in mit Sitz in Wien. Die Musik bewegt sich durch raue Klangtexturen und zerlegte Beats. MARAws organisiert die Eventreihe Augend&Addend mit und betreibt das Kassettenlabel Jeopardize; als Mara Never erschien eine EP auf Tender Matter.",
+   "en": "MARAws is a DJ, producer, promoter and writer based in Vienna, navigating grimy sound textures and dismantled beats. MARAws co-organizes the event series Augend&Addend and co-runs the cassette label Jeopardize; an EP as Mara Never came out on Tender Matter."
+  },
+  "labels": [
+   "Jeopardize",
+   "Tender Matter"
+  ],
+  "genres": [
+   "Experimental"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/wsmara_archive",
+   "ra": "https://ra.co/dj/maraws",
+   "ig": "https://www.instagram.com/waldoers/"
+  },
+  "sets": [
+   {
+    "t": "Sad Crab Radio w/ MARAws (21.07.2024)",
+    "u": "https://soundcloud.com/hkcrlive/sad-crab-radio-w-maraws-21072024"
+   },
+   {
+    "t": "SI099 - MARAWS (Struma+Iodine Podcast)",
+    "u": "https://soundcloud.com/strumandiodine/si099-maraws"
+   }
+  ],
+  "setsChecked": "2026-11-25",
+  "spChk": "2026-11-25",
+  "infoChk": "2026-11-25",
+  "src": [
+   "https://strumandiodine.com/artist/maraws/",
+   "https://bandcamp.com/wsmara_archive",
+   "https://ra.co/dj/maraws"
+  ],
+  "noImg": "2026-11-25"
+ },
+ "Verschrin": {
+  "bio": {
+   "de": "Verschrin ist DJ und Produzent:in aus der Wiener Experimental-Szene, u. a. bei Sad*Crab Radio, im Celeste und bei Infra x Bestand. Releases erschienen u. a. auf Altamira Records („Fireworks“).",
+   "en": "Verschrin is a DJ and producer from Vienna's experimental scene, playing e.g. Sad*Crab Radio, Celeste and Infra x Bestand. Releases include “Fireworks” on Altamira Records."
+  },
+  "labels": [
+   "Altamira Records"
+  ],
+  "genres": [
+   "Experimental"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/verschrin"
+  },
+  "noImg": "2026-11-25",
+  "setsChecked": "2026-11-25",
+  "spChk": "2026-11-25",
+  "infoChk": "2026-11-25",
+  "src": [
+   "https://de.ra.co/events/1767745",
+   "https://soundcloud.com/verschrin",
+   "https://soundcloud.com/altamirarecords/sets/verschrin-fireworks"
+  ]
+ },
+ "Ku-Ro": {
+  "links": {
+   "ra": "https://ra.co/dj/ku-ro"
+  },
+  "noImg": "2026-11-25",
+  "infoChk": "2026-11-25",
+  "spChk": "2026-11-25",
+  "src": [
+   "https://ra.co/dj/ku-ro"
+  ]
+ },
+ "Tekkida": {
+  "links": {
+   "ra": "https://ra.co/dj/tekkida",
+   "sc": "https://soundcloud.com/tekkida"
+  },
+  "bio": {
+   "de": "Tekkida ist DJ in Wien und spielt regelmäßig bei Partys der Bassbehörde, etwa „Bass & Krawall“ und „Deep Dive“ im FLUCC.",
+   "en": "Tekkida is a DJ in Vienna who regularly plays Bassbehörde parties such as “Bass & Krawall” and “Deep Dive” at FLUCC."
+  },
+  "noImg": "2026-11-25",
+  "setsChecked": "2026-11-25",
+  "spChk": "2026-11-25",
+  "infoChk": "2026-11-25",
+  "src": [
+   "https://ra.co/dj/tekkida",
+   "https://ra.co/events/2416588",
+   "https://ra.co/events/1980983"
+  ]
+ },
+ "Ibu600": {
+  "links": {
+   "ra": "https://ra.co/dj/ibu600"
+  },
+  "bio": {
+   "de": "Ibu600 ist DJ mit Auftritten in Berlin und Wien, u. a. bei Bassbehörde-Partys („Deep Dive“ im FLUCC, „Bass & Krawall“ im The Loft).",
+   "en": "Ibu600 is a DJ playing in Berlin and Vienna, incl. Bassbehörde parties (“Deep Dive” at FLUCC, “Bass & Krawall” at The Loft)."
+  },
+  "noImg": "2026-11-25",
+  "spChk": "2026-11-25",
+  "infoChk": "2026-11-25",
+  "src": [
+   "https://ra.co/dj/ibu600",
+   "https://ra.co/events/2416588"
+  ]
+ },
+ "Bobbery": {
+  "noImg": "2026-11-25",
+  "noLinks": "2026-11-25",
+  "infoChk": "2026-11-25",
+  "spChk": "2026-11-25"
+ },
+ "Fredda": {
+  "noImg": "2026-11-25",
+  "noLinks": "2026-11-25",
+  "infoChk": "2026-11-25",
+  "spChk": "2026-11-25"
+ },
+ "Bluest": {
+  "noImg": "2026-11-25",
+  "noLinks": "2026-11-25",
+  "infoChk": "2026-11-25",
+  "spChk": "2026-11-25"
+ },
+ "Provocateur": {
+  "noImg": "2026-11-25",
+  "noLinks": "2026-11-25",
+  "infoChk": "2026-11-25",
+  "spChk": "2026-11-25"
  }
 };
 

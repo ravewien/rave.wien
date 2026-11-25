@@ -352,5 +352,53 @@ window.PRUEF=[
     ]
    }
   }
+ },
+ {
+  "id": "spotify-art-ku-ro-links-sp",
+  "ts": "2026-11-25",
+  "lauf": "profil-lauf",
+  "typ": "spotify",
+  "titel": "Ku-Ro – Spotify-Profil?",
+  "text": "Spotify-Suche fand ein Artist-Profil „Ku-Ro“ mit exakt gleichem Namen; Genre/Herkunft ließen sich nicht abgleichen (Ku-Ro spielt am 26.11. bei Mara Never in den Westbahn Studios).",
+  "links": [
+   "https://open.spotify.com/artist/7J71js2WANtCfXyIGRhwO4",
+   "https://ra.co/dj/ku-ro"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "art",
+   "op": "edit",
+   "key": "Ku-Ro",
+   "title": "Spotify-Link für Ku-Ro",
+   "data": {
+    "links.sp": "https://open.spotify.com/artist/7J71js2WANtCfXyIGRhwO4"
+   }
+  }
+ },
+ {
+  "id": "spotify-silentsevir-spotify-vorhanden-artist-id-fehlt",
+  "ts": "2026-11-25",
+  "lauf": "profil-lauf",
+  "typ": "spotify",
+  "titel": "Silentsevir – Spotify vorhanden, Artist-ID fehlt",
+  "text": "Spotify hat Singles von Silentsevir (z. B. „Postkarte aus dem All“, „Feel the Empathy“); die Artist-Adresse war ohne Seitenabruf nicht zu ermitteln. Bitte Artist-Link aus der Track-Seite übernehmen.",
+  "links": [
+   "https://open.spotify.com/track/3Tujttsn0N8DlpfwSwI5Kb",
+   "https://open.spotify.com/album/6efNyh4fYPC0dAuub0CBPM"
+  ],
+  "karten": []
+ },
+ {
+  "id": "spotify-andata-spotify-vorhanden-artist-id-fehlt",
+  "ts": "2026-11-25",
+  "lauf": "profil-lauf",
+  "typ": "spotify",
+  "titel": "Andata – Spotify vorhanden, Artist-ID fehlt",
+  "text": "Spotify-Tracks von ANDATA (z. B. „Never Gonna Stop“ mit 2HOT2PLAY, „Balla Balla – Radio Rudina premiere“) passen vermutlich zum deutschen Act; Artist-Adresse war ohne Seitenabruf nicht zu ermitteln.",
+  "links": [
+   "https://open.spotify.com/track/0UA1A8nG9nxwOdvDJ0KLO0",
+   "https://open.spotify.com/track/4EhVwFX9ZvH0AiKUEYlWfh"
+  ],
+  "karten": []
  }
 ];
