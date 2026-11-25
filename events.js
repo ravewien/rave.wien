@@ -6958,7 +6958,8 @@ const VI={
   ],
   "noLogo": "2026-11-02",
   "infoChk": "2026-11-02",
-  "web": "https://www.wienerwue.at/"
+  "web": "https://www.wienerwue.at/",
+  "logo": "https://ugc.production.linktr.ee/8f565329-36a3-464a-be52-218c9b2e5bee_Vergrunisierung-Pfeilgasse-Wurstelstand-credit-stefan-olah--1-.jpeg?io=true&size=thumbnail-feature-v1_0"
  },
  "Hofburg Vienna": {
   "de": "Ehemalige Kaiserresidenz am Heldenplatz, deren Prunksäle auch für Großveranstaltungen genutzt werden.",
