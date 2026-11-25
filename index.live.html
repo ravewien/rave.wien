@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-xTtjpTheqi1MXFqRhnNcrJv5FBj8+Nkn+oausQHQ6qk='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-ZSZAKW1ITJ62UMUI4KkCWZVAwt0tsODSe+IOOHQFg9A='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -1034,7 +1034,7 @@ html.a-cursor :is(a,button,[role=button],label,summary,input,select,[data-vopen]
 #lmap .leaflet-popup-content{margin:12px 14px;font:14px/1.35 Barlow,sans-serif}
 #lmap a.leaflet-popup-close-button{color:var(--mute)}
 .lpp button{all:unset;cursor:pointer;display:block;box-sizing:border-box;width:100%}
-.lpp .lpv{color:var(--c-ven);font-weight:700;font-size:15px;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}.lpp .lpv:hover{text-decoration-thickness:2px}.lpv svg,.lpv .ico{margin-right:4px}
+.lpp .lpv{color:var(--c-ven);font-weight:700;font-size:15px;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}.lpp .lpv:hover{text-decoration-thickness:2px}.lpv svg,.lpv .ico{margin-right:4px}.lpp .lph{display:flex;align-items:center;gap:10px}.lpp .lph .lgt.lpimg{width:40px;height:40px;font-size:12px}.lpp .lph .lpv{min-width:0}
 .lpa{color:var(--mute);font-size:12.5px;margin:2px 0 8px}
 .lpn{font:600 11px var(--f-display);letter-spacing:.1em;text-transform:uppercase;color:var(--mute);border-top:1px solid var(--line);padding-top:7px;margin-bottom:3px}
 .lpl{max-height:46vh;overflow:auto}
@@ -2274,7 +2274,7 @@ function renderLocs(){
     const popHTML=ps=>{const names=ps.flatMap(p=>p.names),up=ps.flatMap(p=>p.up).sort((a,b)=>(a.d+(a.s||"")).localeCompare(b.d+(b.s||""))),n=up.length,one=ps.length===1;
       const evs=up.slice(0,8).map(e=>`<button class="lpe" data-oev="${esc(e.id)}"><span>${fmtDay(e.d)}${e.s?` · ${esc(e.s)}`:""}${one?"":` · ${esc(e.v)}`}</span>${esc(e.title)}</button>`).join("");
       const ad=one&&V[names[0]]&&!/^(Wien|TBA)$/.test(V[names[0]])?V[names[0]]:"";
-      return `<div class="lpp">${names.map(x=>`<button class="lpv" data-vopen="${esc(x)}">${IPIN}${esc(x)}</button>`).join("")}${ad?`<div class="lpa">${esc(ad)}</div>`:""}`+
+      return `<div class="lpp">${names.map(x=>{const vi=VINFO[x]||{},im=coversOn()&&isLogo(vi.logo||vi.img);const b=`<button class="lpv" data-vopen="${esc(x)}">${IPIN}${esc(x)}</button>`;return im?`<div class="lph">${logoTile(x,"lpimg",vi,"")}${b}</div>`:b}).join("")}${ad?`<div class="lpa">${esc(ad)}</div>`:""}`+
         (n?`<div class="lpn">${n} ${n===1?l.mapEv1:l.mapEvN}</div><div class="lpl">${evs}</div>${n>8&&one?`<button class="lpmore" data-vopen="${esc(names[0])}">+ ${n-8} ${l.moreShow}</button>`:""}`:`<div class="lpn">${l.noDates}</div>`)+`</div>`};
     const pinSz=n=>n?Math.min(36,20+Math.sqrt(n)*3.2):14;const icon=(n,cl,extra)=>{const sz=pinSz(n);return LF.divIcon({className:"",html:`<div class="lpin${n?"":" none"}${cl?" cl":""}${extra||""}" style="width:${sz}px;height:${sz}px">${n||""}</div>`,iconSize:[sz,sz],iconAnchor:[sz/2,sz/2]})};
     const mob=innerWidth<760,POPO={maxWidth:mob?250:290,minWidth:mob?200:230,autoPanPaddingTopLeft:LF.point(mob?54:58,12),autoPanPaddingBottomRight:LF.point(12,12)};
