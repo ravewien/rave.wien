@@ -1,0 +1,42 @@
+name: Instagram-Bilder (Laptop-Lauf) übernehmen
+# Der Laptop-Lauf notiert Profilbild-Adressen in .github/agent/ig-bilder.json. Dieser Workflow lädt die Bilder sofort
+# (die Adressen laufen nach ein paar Tagen ab), legt sie auf rave.wien unter logos/ig/ ab und trägt sie als Vorschaubild ein.
+on:
+  push:
+    branches: [main]
+    paths: [.github/agent/ig-bilder.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: pi-bilder
+  cancel-in-progress: false
+jobs:
+  laden:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --no-save --silent sharp@0.33.5
+      - name: Laden und eintragen
+        run: |
+          git config user.name "rave.wien Instagram-Bilder"
+          git config user.email "ravewien@users.noreply.github.com"
+          node .github/scripts/ig-laden.js /tmp/igl
+          cp .github/agent/ig-bilder.json .github/agent/ig-erledigt.json /tmp/igl/
+          for i in 1 2 3 4; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            cp /tmp/igl/ig-bilder.json /tmp/igl/ig-erledigt.json .github/agent/
+            node .github/scripts/pi-bilder.js /tmp/igl
+            git add logos/ig .github/agent/ig-bilder.json .github/agent/ig-erledigt.json
+            git diff --cached --quiet || git commit -q -m "Instagram-Profilbilder (Laptop-Lauf) auf rave.wien abgelegt"
+            if grep -q '"logo"' /tmp/pi-bilder-patch.json 2>/dev/null; then
+              node .github/scripts/apply-patch.js /tmp/pi-bilder-patch.json events.js && node .github/scripts/validate.js
+              git add events.js && { git diff --cached --quiet || git commit -q -m "Daten-Update: Vorschaubilder für Veranstalter (Instagram-Profilbilder)"; }
+            fi
+            git push -q origin HEAD:main && exit 0
+            sleep $((i*7))
+          done
+          exit 1
