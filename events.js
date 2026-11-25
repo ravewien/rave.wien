@@ -56216,6 +56216,14 @@ const AR={
 };
 
 const VG={
+ "Wiener Würstelstand Spittelau": [
+  48.23574,
+  16.35852
+ ],
+ "Westbahn Studios": [
+  48.19447,
+  16.32456
+ ],
  "Arena Wien": [
   48.18719,
   16.41287
