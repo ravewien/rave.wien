@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-ZSZAKW1ITJ62UMUI4KkCWZVAwt0tsODSe+IOOHQFg9A='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-/ysmIt7WGqkWWo8iyz+CRGVIeRf7GNX/SX83T6vBWUw='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -1029,7 +1029,7 @@ html.a-cursor :is(a,button,[role=button],label,summary,input,select,[data-vopen]
 .lpin.cl{box-shadow:0 0 0 2px rgba(0,0,0,.7),0 0 0 4px var(--c-ven),0 1px 8px rgba(0,0,0,.6)}
 .lpin.none{background:transparent;border:1.5px solid var(--c-ven);box-shadow:0 0 0 1px rgba(0,0,0,.5)}.lpin.cur{box-shadow:0 0 0 2px #fff,0 1px 6px rgba(0,0,0,.6)}
 .llbl{background:none!important;border:0!important;box-shadow:none!important;color:#dfe6ee!important;font:600 12px Barlow,sans-serif;text-shadow:0 0 3px #000,0 0 3px #000;padding:0!important}
-.llbl:before{display:none}#lmap:not(.zl) .llbl{display:none}
+.llbl:before{display:none}.llbl.llk{pointer-events:auto;cursor:pointer}.llbl.llk:hover{color:#fff!important;text-decoration:underline}#lmap:not(.zl) .llbl{display:none}
 #lmap .leaflet-popup-content-wrapper,#lmap .leaflet-popup-tip{background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:6px}
 #lmap .leaflet-popup-content{margin:12px 14px;font:14px/1.35 Barlow,sans-serif}
 #lmap a.leaflet-popup-close-button{color:var(--mute)}
@@ -2286,6 +2286,7 @@ function renderLocs(){
       cls.forEach(c=>{const ps=c.m.map(x=>x.p),n=ps.reduce((a,p)=>a+p.up.length,0);
         if(ps.length===1){const p=ps[0];const m=LF.marker(p.g,{icon:icon(n,0,p.names.includes(st.ven)?" cur":""),title:p.nm,zIndexOffset:n*10}).addTo(lay);
           m.bindTooltip(esc(p.nm),{permanent:true,direction:"right",className:"llbl",offset:[pinSz(n)/2+2,0]});m.bindPopup(popHTML(ps),POPO);
+          {const el=m.getTooltip()&&m.getTooltip().getElement();if(el){el.classList.add("llk");LF.DomEvent.on(el,"click",ev=>{LF.DomEvent.stop(ev);m.fire("click",{latlng:m.getLatLng()})})}}
           m.on("click",()=>{if(innerWidth>=900&&p.names.length===1&&st.ven!==p.names[0])openCard("ven",p.names[0])});return}
         const b=LF.latLngBounds(ps.map(p=>p.g));const m=LF.marker(b.getCenter(),{icon:icon(n,1),title:ps.map(p=>p.nm).join(", "),zIndexOffset:1000+n}).addTo(lay);
         m.bindTooltip(`${ps.length} Locations`,{direction:"top",className:"llbl"});
