@@ -106,6 +106,7 @@ const LOGOBOX={
 "https://ugc.production.linktr.ee/56ada16d-b647-4532-93c3-350fbac3c672_sorry-mom-logo-1080x1080-sw-kreis.png":[600,600,23,33,569,579,"#ffffff"],
 "https://ugc.production.linktr.ee/5f755d78-da81-47a4-ad4a-725f4471ff88_logo-open-graph.png?io=true&size=avatar-v3_0":[400,400,22,22,378,365,"#000000"],
 "https://ugc.production.linktr.ee/6u12ZCSSu6VxBmEvmMKs_7kw75N9zD1cEgCDa?f=.jpg":[600,600,29,251,570,349,"#000000"],
+"https://ugc.production.linktr.ee/8f565329-36a3-464a-be52-218c9b2e5bee_Vergrunisierung-Pfeilgasse-Wurstelstand-credit-stefan-olah--1-.jpeg?io=true&size=thumbnail-feature-v1_0":[900,506,0,0,900,506,"#000000"],
 "https://ugc.production.linktr.ee/9e8efb7e-abd1-400f-98a5-b447dee2c266_AIdro-mqKbxxe7J6EKhsnOUMKrNo2bSiM-TW1S43yB5f0svMlJ4-s800-c-k-c0x00ffffff-no-rj.jpeg":[800,800,26,25,774,774,"#ffffff"],
 "https://ugc.production.linktr.ee/ZkiI5fvNR6WDumF00HvG_SscBmE0QnpAY4Gyf?f=.jpg":[521,521,106,152,415,373,"#000000"],
 "https://ugc.production.linktr.ee/bbd6dd85-4f1a-4f92-9182-ebc553890467_3AE45E65-0ACD-4485-8541-426DAFBB44EF.png":[1024,1024,122,79,924,938,"#000000"],
