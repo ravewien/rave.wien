@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-FA5QJu6IH4t9ak2AAFQ6PHI38rfGv3utw2mWIAZtb/E='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-xTtjpTheqi1MXFqRhnNcrJv5FBj8+Nkn+oausQHQ6qk='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -480,7 +480,7 @@ iframe.mc{width:100%;height:60px;border:0;margin-bottom:6px}
 .aka{margin:4px 0 0;font-size:13px;color:var(--mute)}.sg .al{color:var(--mute);font-size:.9em}
 .lgt.ph img{object-fit:cover;padding:0}.lgt img{padding:4%}.lgt[data-flyer]{cursor:zoom-in}.lgt[data-flyer]:hover{border-color:var(--fg)}
 .lgt.fly{width:64px;height:64px;cursor:zoom-in;background:#2a2d33}.lgt.fly img{object-fit:cover;padding:0}
-.lgt.fly:hover{border-color:var(--fg)}
+.lgt.fly:hover{border-color:var(--fg)}.lgt.fly.lgc img{object-fit:contain;padding:8%}.lgt.fly.lgc.ph img{object-fit:cover;padding:0}
 .ehead .head.wt{display:flow-root}.ehead .head.wt>.lgt{float:left;margin:3px 12px 2px 0}.ehead .head.wt h2{display:inline}.ehead .head.wt .vchk{display:inline-block;margin-left:8px;vertical-align:2px}
 .ehead .head.wt .lgt.big{margin-top:0}.ehead .head.wt .lgt.big+h2{display:block;min-height:60px;display:flex;align-items:center}
 .xr .c1.wl{flex-direction:row;align-items:center;gap:10px}.xr .c1t{display:flex;flex-direction:column;gap:4px;min-width:0}
@@ -1746,7 +1746,10 @@ const initials=n=>n.replace(/^(the|club|das|der|die|o)\s+/i,"").split(/[\s\-–.
 const LOGOPAD=.08;
 function logoFit(u){const b=(typeof LOGOBOX!=="undefined"&&LOGOBOX||{})[u];if(!b||b.length<6)return null;const[W,H,x0,y0,x1,y1,bc]=b,bw=x1-x0,bh=y1-y0;if(!(W>0&&H>0&&bw>0&&bh>0))return null;
   const s=(1-2*LOGOPAD)/Math.max(bw,bh),f=v=>(v*100).toFixed(3)+"%";
-  return{st:`inset:auto;left:${f(.5-(x0+bw/2)*s)};top:${f(.5-(y0+bh/2)*s)};width:${f(W*s)};height:${f(H*s)};padding:0;object-fit:fill`,bg:/^#[0-9a-f]{6}$/i.test(bc||"")?bc:""}}
+  const bgc=/^#[0-9a-f]{6}$/i.test(bc||"")?bc:"",ar=W/H;
+  // Randloses Bild (Foto/Avatar): Quadrat ausfüllen statt mit Rand einpassen; breite Schriftzüge nicht beschneiden
+  if(x0/W<=.03&&y0/H<=.03&&x1/W>=.97&&y1/H>=.97&&((ar>=.8&&ar<=1.25)||(ar>=.55&&ar<=1.9&&/\.jpe?g(\?|$)/i.test(u))))return{st:"inset:0;left:0;top:0;width:100%;height:100%;padding:0;object-fit:cover",bg:bgc,full:1};
+  return{st:`inset:auto;left:${f(.5-(x0+bw/2)*s)};top:${f(.5-(y0+bh/2)*s)};width:${f(W*s)};height:${f(H*s)};padding:0;object-fit:fill`,bg:bgc}}
 const IPERSON='<svg class="ph-ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="4.2" fill="currentColor"/><path d="M3.8 21c.6-4.3 4-7 8.2-7s7.6 2.7 8.2 7z" fill="currentColor"/></svg>';
 const IGROUP='<svg class="ph-ico" viewBox="0 0 24 24" aria-hidden="true"><g fill="currentColor"><circle cx="12" cy="7.2" r="3.4"/><circle cx="5.2" cy="9" r="2.6"/><circle cx="18.8" cy="9" r="2.6"/><path d="M6.4 20c.4-3.6 2.8-5.8 5.6-5.8s5.2 2.2 5.6 5.8z"/><path d="M.8 19.2c.3-2.8 2-4.5 4.3-4.5 1 0 1.9.3 2.6.9-1.2 1-2 2.3-2.3 3.6z"/><path d="M23.2 19.2c-.3-2.8-2-4.5-4.3-4.5-1 0-1.9.3-2.6.9 1.2 1 2 2.3 2.3 3.6z"/></g></svg>';
 function logoTile(n,cls,info,kind){const vi=info||VINFO[n]||{};const lu=vi.logo||vi.img;const ok=isLogo(lu)&&coversOn();const fit=ok&&vi.logo?logoFit(lu):null;
@@ -1763,6 +1766,8 @@ function evPhase(e){const en=endTime(e);if(NOW>=en)return "done";const st0=new D
 function covLogo(e){if(!coversOn())return "";const cand=[...(e.coll||[]).map(c=>CINFO[c]),VINFO[e.venue]].filter(Boolean);
   for(const vi of cand){if(vi.logo&&isLogo(vi.logo)){const f=logoFit(vi.logo);const bg=/^#[0-9a-f]{3,6}$/i.test(vi.logoBg||"")?vi.logoBg:(f&&f.bg)||"#000";
     return `<span class="covlg"${bg?` style="background:${bg}"`:""}><img src="${esc(vi.logo)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"${f?` style="${f.st}"`:""}></span>`}}return ""}
+function covLogoVI(e){if(!coversOn())return null;const cand=[...(e.coll||[]).map(c=>[c,CINFO[c]]),[e.venue,VINFO[e.venue]]].filter(x=>x[1]);
+  for(const[n,vi]of cand)if(vi.logo&&isLogo(vi.logo))return[n,vi];return null}
 function coverHTML(e){if(!(isImg(e.flyer)&&coversOn())){const lg=covLogo(e);if(lg)return `<span class="cov lgc ${evPhase(e)}" aria-hidden="true">${lg}</span>`}return `<span class="cov ${evPhase(e)}" aria-hidden="true"${isImg(e.flyer)&&coversOn()?` data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}"`:""}>${isImg(e.flyer)&&coversOn()?`<img src="${esc(e.flyer)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><span class="covfb">${covLogo(e)}</span>`:""}</span>`}
 // Flyer lädt nicht (Link kaputt/gesperrt): stattdessen Logo der Location bzw. des Veranstalters zeigen
 document.addEventListener("error",ev=>{const im=ev.target;if(!im||im.tagName!=="IMG"||im.closest(".covlg"))return;const c=im.closest(".cov");if(!c)return;c.classList.add("ferr");c.removeAttribute("data-flyer")},true);
@@ -2372,11 +2377,11 @@ function renderEv(dk,id){
   const vf=e.loc&&e.org?l.rBoth:e.loc?l.rLoc:e.org?l.rOrg:"";
   const addr=V[e.venue]&&V[e.venue]!=="TBA"?V[e.venue]:"";
   const pm=e.price?splitPrice(normPrice(e.price)):[];
-  const fimg=isImg(e.flyer)&&coversOn();
+  const fimg=isImg(e.flyer)&&coversOn(),clg=fimg?null:covLogoVI(e);
   dk.innerHTML=`<div class="ctop"><span class="akind"${endTime(e)<=NOW?' style="color:var(--mute)"':""}>${endTime(e)<=NOW?l.pastKind:l.evKind}</span><span class="cbtns">${favBtn("e",e.id)}<button class="close" data-close aria-label="${l.close}">×</button></span></div>
     ${!e.conf?`<div class="srcwarn" role="note"><b>${esc(l.single[0].toUpperCase()+l.single.slice(1))}:</b> ${esc(l.rSingle+" "+e.src.map(s=>S[s[0]]).filter((v,i,a)=>v&&a.indexOf(v)===i).join(", ")+". "+l.rCheck)}</div>`:""}
     <div class="ehead"><div class="emain">
-      <div class="head${fimg?" wt":""}">${fimg?`<button type="button" class="lgt fly ${evPhase(e)}" data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}" aria-label="${esc(l.flyer)}"><img src="${esc(e.flyer)}" alt="" loading="lazy" referrerpolicy="no-referrer"></button>`:""}<h2>${esc(e.title)}</h2>${vchk(e)}</div>
+      <div class="head${fimg||clg?" wt":""}">${fimg?`<button type="button" class="lgt fly ${evPhase(e)}" data-flyer="${esc(e.flyer)}" data-ft="${esc(e.title)}" aria-label="${esc(l.flyer)}"><img src="${esc(e.flyer)}" alt="" loading="lazy" referrerpolicy="no-referrer"></button>`:clg?logoTile(clg[0],"fly lgc "+evPhase(e),clg[1],""):""}<h2>${esc(e.title)}</h2>${vchk(e)}</div>
       <div class="tags vco">${noVen(e.venue)?`<span class="tag ve na">${IPIN}${esc(e.venue||"TBA")}</span>`:`<button class="tag ve" data-venue="${esc(e.venue)}">${IPIN}${esc(e.venue)}</button>`}${e.coll.map(c=>`<button class="tag co" data-coll="${esc(c)}">${ICOL}${esc(c)}</button>`).join("")}</div>
       ${e.genres.length?`<span class="tags"><span class="gcl"><b>♫</b>${e.genres.map(g=>`<button data-f="g" data-n="${esc(g)}"${e.typGenres.includes(g)?` class="typ" title="${esc(l.typ)}"`:""}>${esc(g)}${e.typGenres.includes(g)?"*":""}</button>`).join("")}</span></span>`:""}
       ${vibe.length||e.ioK.length?`<div class="flags">${ioTags(e.ioK)}${wxHTML(e,1)}${vibe.join("")}</div>`:""}
