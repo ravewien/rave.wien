@@ -107,6 +107,7 @@ const LOGOBOX={
 "https://rave.wien/logos/ig/strict_event.jpg":[320,320,32,102,296,224,"#0c1617"],
 "https://rave.wien/logos/zuckerwatt.png":[600,788,18,18,582,770,"#000000"],
 "https://rhiz.wien/wp-content/uploads/2026/01/cropped-favicon-270x270.png":[270,270,0,0,270,270,"#ffffff"],
+"https://sachsentrance.com/_assets/e56114cb371acd52da0e63ec0e2dd39e/Images/Logos/Logo.svg":[708,794,0,0,708,794,"#000000"],
 "https://schoenborngasse.vbs.ac.at/wp-content/uploads/sites/14/2022/11/ottakringer-brauerei-logo-768x768.jpg":[768,768,0,0,768,768,"#b09000"],
 "https://scontent-ams2-1.cdninstagram.com/v/t51.75761-19/504503686_17858786898431970_6325114151159552982_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=GIYdEh7iTzPZeHI-ANZbqf-OUcdXbvEnAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40ODYuQzMifQ%3D%3D&_nc_ohc=f1zC3LlOzRQQ7kNvwHldHRN&_nc_oc=AdqDXR5Q5vu0ETJGmUjvOQ7jtC7U2-N6FreQE7vaTPYn8UxU0Fbh-db2RAb-Gotkh6I&_nc_zt=24&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=WABABF7hjeZA398benorhg&_nc_ss=7a6a8&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQCZqDhV42yGzAA-KSiCs7WAABsyQtUE---X5-VffyuZA&oe=6B0A31E4":[150,150,6,5,142,144,"#010101"],
 "https://static.ra.co/images/clubs/kramladen.jpeg?dateUpdated=1716563846587":[500,500,31,48,466,459,"#000000"],
