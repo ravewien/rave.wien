@@ -1577,7 +1577,8 @@ const CI={
   "from": "Wien",
   "infoChk": "2026-11-15",
   "noLogo": "2026-11-15",
-  "ig": "https://www.instagram.com/a_party_called_jack/"
+  "ig": "https://www.instagram.com/a_party_called_jack/",
+  "logo": "https://rave.wien/logos/ig/a_party_called_jack.jpg"
  },
  "Amore AG": {
   "founded": "2022",
@@ -1631,7 +1632,8 @@ const CI={
    "RAM"
   ],
   "ig": "https://www.instagram.com/rave_am_mittwoch/",
-  "man": 1
+  "man": 1,
+  "logo": "https://rave.wien/logos/ig/rave_am_mittwoch.jpg"
  },
  "Euphoria": {
   "founded": "2022",
@@ -1716,7 +1718,8 @@ const CI={
   "infoChk": "2026-11-15",
   "alias": [
    "Bass Bussi"
-  ]
+  ],
+  "logo": "https://rave.wien/logos/ig/bassxbussi.jpg"
  },
  "KEN Club": {
   "founded": "2013",
@@ -1733,7 +1736,8 @@ const CI={
   "from": "Wien",
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/kenclub.vienna/"
+  "ig": "https://www.instagram.com/kenclub.vienna/",
+  "logo": "https://rave.wien/logos/ig/kenclub.vienna.jpg"
  },
  "Gaze": {
   "founded": "2021",
@@ -1755,7 +1759,8 @@ const CI={
   ],
   "ig": "https://www.instagram.com/gaze.wien/",
   "noLogo": "2026-11-15",
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/gaze.wien.jpg"
  },
  "Basstrace": {
   "founded": "2015",
@@ -1841,7 +1846,8 @@ const CI={
    "Rave On XXL"
   ],
   "ig": "https://www.instagram.com/raveonvienna/",
-  "lt": "https://linktr.ee/raveonvienna"
+  "lt": "https://linktr.ee/raveonvienna",
+  "logo": "https://rave.wien/logos/ig/raveonvienna.jpg"
  },
  "Hypertrash": {
   "founded": "2023",
@@ -1859,7 +1865,8 @@ const CI={
   "from": "Wien",
   "ig": "https://www.instagram.com/hyp3rtr4sh/",
   "infoChk": "2026-11-15",
-  "noLogo": "2026-11-15"
+  "noLogo": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/hyp3rtr4sh.jpg"
  },
  "Fuelized": {
   "founded": "2023",
@@ -1899,7 +1906,8 @@ const CI={
    "Reihe"
   ],
   "noLogo": "2026-11-15",
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/drumandbassick.jpg"
  },
  "Acid Techno Techno Club": {
   "founded": "2018",
@@ -1979,7 +1987,8 @@ const CI={
   ],
   "ig": "https://www.instagram.com/achterbahn.vie/",
   "infoChk": "2026-11-15",
-  "noLogo": "2026-11-15"
+  "noLogo": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/achterbahn.vie.jpg"
  },
  "Feuchte Träume": {
   "de": "Gemeinnütziger, nicht gewinnorientierter Verein für sexpositive Partys: fördert lokale Artists, FLINTA*/LGBTQIA+, Workshops zu Konsens, Awareness-Team; Tickets nach Fragebogen.",
@@ -2004,7 +2013,8 @@ const CI={
    "FT (nummerierte Ausgaben, z. B. FT — 12)"
   ],
   "noLogo": "2026-11-15",
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/feuchte_traeume.jpg"
  },
  "Sorry Mom": {
   "src": [
@@ -2162,7 +2172,8 @@ const CI={
    "https://sexpositives.com/en/events/strict-dark-circus-wien-2026-11-14/"
   ],
   "noLogo": "2026-11-02",
-  "ig": "https://www.instagram.com/strict_event/"
+  "ig": "https://www.instagram.com/strict_event/",
+  "logo": "https://rave.wien/logos/ig/strict_event.jpg"
  },
  "SubRosaDictum": {
   "rules": {
@@ -2228,7 +2239,8 @@ const CI={
   "type": [
    "Reihe"
   ],
-  "ig": "https://www.instagram.com/aufderlauer_/"
+  "ig": "https://www.instagram.com/aufderlauer_/",
+  "logo": "https://rave.wien/logos/ig/aufderlauer_.jpg"
  },
  "SIGNAL": {
   "noLogo": "2026-11-15",
@@ -2244,7 +2256,8 @@ const CI={
    "https://o-klub.at/events/pyramide-takeover/",
    "https://o-klub.at/event-type/signal/"
   ],
-  "ig": "https://www.instagram.com/signal.vienna/"
+  "ig": "https://www.instagram.com/signal.vienna/",
+  "logo": "https://rave.wien/logos/ig/signal.vienna.jpg"
  },
  "Super Disco": {
   "noLogo": "2026-11-15",
@@ -2264,7 +2277,8 @@ const CI={
    "https://sassvienna.com/en/events/event/connecting-people-31-10",
    "https://sassvienna.com/en/events/event/morgengymnastik-171"
   ],
-  "ig": "https://www.instagram.com/connectingpeople.vienna/"
+  "ig": "https://www.instagram.com/connectingpeople.vienna/",
+  "logo": "https://rave.wien/logos/ig/connectingpeople.vienna.jpg"
  },
  "The Hive": {
   "noLogo": "2026-11-15",
@@ -2305,7 +2319,8 @@ const CI={
   "infoChk": "2026-11-15",
   "type": [
    "Kollektiv"
-  ]
+  ],
+  "logo": "https://rave.wien/logos/ig/ravenbogen.jpg"
  },
  "Hardline": {
   "noLogo": "2026-11-15",
@@ -2315,7 +2330,8 @@ const CI={
   "src": [
    "https://www.volume.at/events/hardline-purge-night-2026-10-31/"
   ],
-  "ig": "https://www.instagram.com/hardline_events/"
+  "ig": "https://www.instagram.com/hardline_events/",
+  "logo": "https://rave.wien/logos/ig/hardline_events.jpg"
  },
  "YE": {
   "noLogo": "2026-11-15",
@@ -2429,7 +2445,8 @@ const CI={
   "rules": {
    "age": "19+"
   },
-  "noLogo": "2026-11-15"
+  "noLogo": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/awsmevent.jpg"
  },
  "ClassiX": {
   "noLogo": "2026-11-15",
@@ -2562,7 +2579,8 @@ const CI={
   "src": [
    "https://frey-tag.at/kalender/pluesch?s=D58FzEGyT",
    "https://frey-tag.at/locations/tagada"
-  ]
+  ],
+  "logo": "https://rave.wien/logos/ig/houseofpluesch.jpg"
  },
  "Fluffig": {
   "de": "Wiener Veranstalter von Trance- und Techno-Partys, u. a. der „Fluffig Punsch Party“ als Winter-Open-Air im Club U.",
@@ -2673,7 +2691,8 @@ const CI={
   "alias": [
    "KO:W"
   ],
-  "ig": "https://www.instagram.com/kollektiv_ost.west/"
+  "ig": "https://www.instagram.com/kollektiv_ost.west/",
+  "logo": "https://rave.wien/logos/ig/kollektiv_ost.west.jpg"
  },
  "Soularium": {
   "de": "Wiener Partyreihe „Soularium Club“, u. a. gemeinsam mit 808Factory im PRST („Open Format Party“) und mit No Sleep Club im The Loft.",
@@ -2786,7 +2805,8 @@ const CI={
    "https://ra.co/promoters/157180"
   ],
   "infoChk": "2026-11-15",
-  "noLogo": "2026-11-15"
+  "noLogo": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/serve.ddd.jpg"
  },
  "Harmony Rec.": {
   "de": "Label und Kollektiv aus Prag (heute Berlin & Prag), das seit 2014 ortsspezifische audiovisuelle Events veranstaltet und seit 2017 Platten veröffentlicht.",
