@@ -1215,6 +1215,13 @@ const CG={
  ],
  "Sachsentrance": [
   "Trance"
+ ],
+ "AR Gang": [
+  "Rawstyle",
+  "Hardstyle"
+ ],
+ "Groovers": [
+  "House"
  ]
 };
 const KC=["[kju:t]","303","4lthangrund","50 Herz","54Hz","Acid Lambada","Acidic Juice","Addicted to Pressure","AIMmanagemnt","ALERT[A] Vienna","Alles Allen","AMBIEVENT","Amore AG","Analogique","Apartment Acht","AR Gang","Art Attech","AUDIO303","Auf der Lauer","Ausländer Haus","AWSM","Barracuda Music","BARVY","Baseline","Bass Cave","Bassbussi","Bassclub","Bassic Instinct","Bassproduction","BASST SCHO","Basstrace","Belly Dance Services","Below the Surface","Bestand","Between Us","Bionic Ritual","BLUR","Bonkers","Booster Club","Bouncylicious","Buntergrund","Café Mondo","Callshop Radio","Captive Soul","Cardio Cult","CitrusCue","CIVIC","ClassiX","Club Casa","Club Fatale","Club Pompadour","Clubgewandte","Collapse","Connecting People","Contrast","Cosmic Connection","Cosmic Egg","Cosmic Space Disco","CPE","created-on-earth","Crisp","Crossover","Cybertribe","Cyclic Existence","Dance 2 House","Dance Spirit Events","Danza Obscura","Dark Pressure","Das Syndikat","DEAD END","deep cut","Deep Dive","Der Radio","Derisch","Discordia","Donnerstrada","Drum & Bassick","Drumworks","Du Tanzt Mich Mal","Dualism","Duality","Dunkelton Kollektiv","Dystopia Rave","Electric Gallery","ELEMNT","EMDB","Empyreon","Endless Grooves","Endless Insanity","Entrance","Entropy","euphonic records","Euphoria","Exceso","Exposed","F*cken Plus","FactX","Fader Friends","Fadercult","Febration","Female Pleasure","Festklub","Feuchte Träume","Fifi","Firlefunk","Fish Market","Flashback","Fluffig","fm.einfamilienhaus","FM4 Unlimited","FORA","Forbidden Frequency","Fourcast","Fractal Fusion","Freeride Millenium","Frieden & Liebe","FromDuskTillDawn","Fuelized","Function Blue","Galapa","Garten von Eben","Gassen aus Zucker","GDN","GLITCH","Green Light Collective","Groove Operators","Groove Revival","Groovers","Gürtelgroove","Habibi Party","Halli Galli","Hallraum","Hanzom","Hardline","Harmony Rec.","Hart & Zart","Hart Lab","hausgemacht","Heimlich","HEKTISCH","hereandthere","Herrensauna","Herzfrequenz","HERZZZ","High Steppin","High Voltage Fairies","Hit It Hard","Homebase","Homesounds","Hot & Flirty","House of Ludic","House of Plüsch","Housebesuch","Housetiere","Hypertrash","Im Freudentaumel","Impulse","In Love","It's George","Jah Power Sound","Jeez Louise","Journey to Tarab","Just Kidding","Kaisa Bodega","Kann&Will","KARTELL.FM","Kinky Galore","KISSEN","Klanggerecht","Klassentreffen","Kleingeld Kollektiv","Klub Halal","Kollektiv Birdhouse","Kollektiv Ost:West","KØRE","Köstlich","KRAWALL","KSOT","Lighthouse","Liminal","Little Beat More","LOOP","LOVEDANCIN'","Löwenzahn","LSH","Luft & Liebe","LustMusik","Luv Affair","Magika","Mahlwerk","March of the Machines","Meier","MEIOSISS","Melodic Monday","Melting Minds","Merkwürdig","Mind Entertainment","MinimaL","Mixed","Modulate","Monochrom","Morgengymnastik","Multicolor","NachtAktiv","Nachtschub","Nass vom Bass","Nasty Connexion","Nine O Nine","Ninecircles","nomenklatur","nomind.","NOTYOURORDINARY","Off The Grid","Opération","Out of Space","Oxygene","Palazzo Recordings","Panzerschokolade","Paradies Garten","Park It Here","Patches","Perspective","Pingpaya Fenty Savage","Pink Mayhem","Pirotecnia","Playdate","Pole Circle","Polyamor","Ponyhof","Praternostra","Profiliga","Psytrance Universe","Publegenden","Purradox","PURRR","PUSH","Qualia","Queertactics","Radiance","Radio Rudina","Raqsouna","Rave am Mittwoch","Rave On Society","Rave On Vienna","RaveCon","Raveladen","Ravenbogen","Raverknecht","Red Groove Social Club","Redivider","Resonance Social Artists","Restless","Rhythmic Playground","Ritual","Rude Bwoy Embassy","S.O.U.L.","Sachsentrance","sama recordings","sch:cht","Schall & Schabernack","Schere3000","Schlachthaus","Schlaflos","Schroedinger's Groove","Schwerkraft","Selected","served","Shameless Kollektiv","Shapes & Fugazi","shared frequencies","SHPILKI","SIGNAL","SIN","Slutlabs","Sniffin´ Glue","Sorry Mom","Soularium","Soundbüglerei","Soundhouse","Soundlabs","Spätschicht","Spectral","Spectrum","Spumante Records","Stay Acid","Step Forward","Step to Tek","Store Beats","Straat 264","STRICT!","Sub Zero","SubRosaDictum","Subwaves","Super Disco","Superego Records","Superstate","SWEAT","Switch!","Symbiotikka","Synergy","Taktgefühl","Tanz dich glücklich","Tanz oder gar nicht","Tasteless","Tattu Tatta Glub","Tayrona Records","Techno am Wasser","Techno Komet","Techno Obscene","Techno Vienna","Techno.Kult","techNOage","technolog","TECHNOLOT","The Academy","The Hive","The House of Funk","the zound partisans","Titti Queer Club","Tohuwabohu","Toner","Toy Tonics","Tribal Vibes","Triple A Events","Tropical Thunder","TUFF","TURBO","Überdruck","Unframed","Ungeniert","Uniquely Journeys","Unkwn","unlock|me","Unstoppable Organizerteam","Untz Baby Untz","up/or","Vangardist","Ventil Records","Verknallt","Vertigo","Verum Gaudium","VG+","VIE.W","VIE'n'B","Vienn_a_Tek","Vision Serpent","Vitamin.BPM","VLAN","VNV","VOID","Volta","Votiv Session","VVAX","Wien Modern","Wiener Mischung","Wire Rave","Wohnzimmer","WOS Soundsystem","Wreck","Wu Wolves","Wums","Wyldhearts","Xperiment Records","YE","YN Collective","Yolo Taxi","Zorro Azul","Zuckerwatt","Zyklop Audio"];
@@ -6917,6 +6924,28 @@ const CI={
    "https://sachsentrance.bandcamp.com/music",
    "https://de.ra.co/promoters/98717"
   ]
+ },
+ "AR Gang": {
+  "de": "AR GANG ist das Künstler-Umfeld des Hardstyle-Labels Aggressive Records (u. a. Malice, Sickmode, Levenkhan); unter dem Namen erscheinen auch gemeinsame Tracks.",
+  "en": "AR GANG is the artist circle around the hardstyle label Aggressive Records (incl. Malice, Sickmode, Levenkhan); joint tracks are also released under the name.",
+  "sc": "https://soundcloud.com/aggressiverecords",
+  "noLogo": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "src": [
+   "https://soundcloud.com/aggressiverecords/sets/welcometothegangvol1",
+   "https://open.spotify.com/artist/0shtoUsRcgpNLG2CdH0O5k"
+  ]
+ },
+ "Groovers": {
+  "de": "Partyreihe aus Leipzig mit Fokus auf House, u. a. kostenlose Open Airs am Kunstkraftwerk Leipzig.",
+  "en": "Party series from Leipzig focused on house, including free open airs at Kunstkraftwerk Leipzig.",
+  "from": "Leipzig",
+  "noLogo": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "src": [
+   "https://rausgegangen.de/en/events/groovers-x-it-s-all-about-house-free-open-air-kunstkraftwerk-0/",
+   "https://de.ra.co/events/2470380"
+  ]
  }
 };
 const VI={
@@ -9998,7 +10027,8 @@ const AR={
    "de": "DJ aus Österreich. Spielt vor allem in Wiener Clubs wie FLUCC, Das Werk und Flex.",
    "en": "DJ from Austria. Plays mainly at Viennese clubs such as FLUCC, Das Werk and Flex."
   },
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-26"
  },
  "Memet Acuma": {
   "links": {
@@ -12169,7 +12199,8 @@ const AR={
  "Deleven": {
   "noImg": "2026-11-03",
   "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-26"
  },
  "Ryta Tale": {
   "noImg": "2026-11-03",
@@ -12815,12 +12846,14 @@ const AR={
  "Bella": {
   "noImg": "2026-11-03",
   "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-26"
  },
  "Nani Mag. Viech": {
   "noImg": "2026-11-03",
   "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-26"
  },
  "TRMT": {
   "noImg": "2026-11-03",
@@ -12830,7 +12863,8 @@ const AR={
  "La Destinación Final": {
   "noImg": "2026-11-03",
   "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-26"
  },
  "Humi": {
   "noImg": "2026-11-03",
@@ -13032,7 +13066,8 @@ const AR={
    }
   ],
   "setsChecked": "2026-10-31",
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "spChk": "2026-11-26"
  },
  "DJ Observer": {
   "img": "https://static.ra.co/images/profiles/djobserver.jpg?dateUpdated=1223075127497",
@@ -13319,7 +13354,18 @@ const AR={
   "from": {
    "de": "Spanien (heute in den Niederlanden)",
    "en": "Spain (now based in the Netherlands)"
-  }
+  },
+  "setsChecked": "2026-11-26",
+  "sets": [
+   {
+    "t": "The Straikerz – Intents Festival 2026 Warm-Up Mix",
+    "u": "https://soundcloud.com/thestraikerz/warmupmixjourneysetintentsfestival"
+   },
+   {
+    "t": "The Straikerz pres. 777 LIVE @ REBiRTH Festival 2025",
+    "u": "https://soundcloud.com/thestraikerz/the-straikerz-pres-777-live-rebirth-festival-2025-united-through-madness"
+   }
+  ]
  },
  "Pinotello": {
   "noImg": "2026-11-03",
@@ -13414,7 +13460,9 @@ const AR={
   ],
   "src": [
    "https://www.frequency.at/en/artist/outlined"
-  ]
+  ],
+  "spChk": "2026-11-26",
+  "setsChecked": "2026-11-26"
  },
  "NEXUS": {
   "noImg": "2026-11-03",
@@ -14599,7 +14647,19 @@ const AR={
   "alias": [
    "Glitzer und Bass"
   ],
-  "man": 1
+  "man": 1,
+  "spChk": "2026-11-26",
+  "setsChecked": "2026-11-26",
+  "sets": [
+   {
+    "t": "Glitzer & Bass @ Psytrance Universe, Flucc (09.05.2025)",
+    "u": "https://soundcloud.com/glitzerundbass/psytrance-universe-flucc-09052025"
+   },
+   {
+    "t": "Glitzer & Bass @ The Other Side Amsterdam (25.07.2025)",
+    "u": "https://soundcloud.com/glitzerundbass/the-other-side-amsterdam"
+   }
+  ]
  },
  "Nafaka & Lipo": {
   "noImg": "2026-11-03",
@@ -17174,7 +17234,8 @@ const AR={
   ],
   "genres": [
    "Psytrance"
-  ]
+  ],
+  "spChk": "2026-11-26"
  },
  "Miss Pixie aka Tekniker": {
   "alias": [
@@ -25900,7 +25961,8 @@ const AR={
    "https://soundcloud.com/ayleanx/aylean-x-fm4-la-boum-deluxe"
   ],
   "infoChk": "2026-11-03",
-  "noImg": "2026-11-03"
+  "noImg": "2026-11-03",
+  "spChk": "2026-11-26"
  },
  "Sømnus": {
   "infoChk": "2026-11-03",
@@ -30556,7 +30618,8 @@ const AR={
   "img": "https://static.ra.co/images/profiles/square/alarico.jpg?dateUpdated=1626882858000",
   "links": {
    "ra": "https://ra.co/dj/alarico",
-   "sc": "https://soundcloud.com/alarico_katana"
+   "sc": "https://soundcloud.com/alarico_katana",
+   "sp": "https://open.spotify.com/artist/3160Uht6QdGT17EECSPWAO"
   },
   "real": "Alarico Zucchi",
   "from": {
@@ -30587,7 +30650,8 @@ const AR={
    "https://ra.co/dj/alarico",
    "https://last.fm/music/Alarico/+wiki"
   ],
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "spChk": "2026-11-26"
  },
  "Scheibenwischer": {
   "img": "https://static.ra.co/images/profiles/square/scheibenwischer.jpg?dateUpdated=1787828210710",
@@ -49107,7 +49171,8 @@ const AR={
   ],
   "infoChk": "2026-11-04",
   "noImg": "2026-11-04",
-  "setsChecked": "2026-11-04"
+  "setsChecked": "2026-11-04",
+  "spChk": "2026-11-26"
  },
  "LVCA": {
   "infoChk": "2026-11-04",
@@ -56511,41 +56576,123 @@ const AR={
  },
  "OMIZS": {
   "links": {
-   "ig": "https://www.instagram.com/omizs/"
-  }
+   "ig": "https://www.instagram.com/omizs/",
+   "sc": "https://soundcloud.com/user-175449744"
+  },
+  "noImg": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26",
+  "from": {
+   "de": "Frankreich",
+   "en": "France"
+  },
+  "genres": [
+   "House"
+  ],
+  "bio": {
+   "de": "DJ und Produzent aus Frankreich, der gemeinsam mit E.T! House- und Disco-Remixes und Edits veröffentlicht. Auftritte u. a. im Pamela Club in Paris und im Club Malasaña in Madrid.",
+   "en": "French DJ and producer releasing house and disco remixes and edits together with E.T!. Has played Pamela Club in Paris and Club Malasaña in Madrid, among others."
+  },
+  "sets": [
+   {
+    "t": "OMIZS b2b Nono – Full Set Montreal",
+    "u": "https://soundcloud.com/user-175449744/full-montreal-set-b2b-nono"
+   }
+  ],
+  "setsChecked": "2026-11-26",
+  "src": [
+   "https://soundcloud.com/user-175449744",
+   "https://ra.co/events/2250602",
+   "https://ra.co/events/2300513"
+  ]
  },
  "Coco Love": {
   "links": {
    "ig": "https://www.instagram.com/not.cocolove/"
-  }
+  },
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
  },
  "Rope": {
   "links": {
    "ig": "https://www.instagram.com/krsxlom/"
-  }
+  },
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
  },
  "Saunaclub": {
   "links": {
-   "ig": "https://www.instagram.com/saunaclub.music/"
-  }
+   "ig": "https://www.instagram.com/saunaclub.music/",
+   "ra": "https://ra.co/dj/saunaclub",
+   "sc": "https://soundcloud.com/sauna-club"
+  },
+  "noImg": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26",
+  "from": {
+   "de": "Leipzig",
+   "en": "Leipzig, Germany"
+  },
+  "bio": {
+   "de": "DJ aus Leipzig; u. a. Mix #62 für die Mousai-Reihe und ein Live-Mitschnitt aus dem Klaus Club Zürich.",
+   "en": "DJ from Leipzig; recorded mix #62 for the Mousai series and a live cut from Klaus Club Zurich, among others."
+  },
+  "sets": [
+   {
+    "t": "Mousai Mix #62 – Saunaclub [Leipzig]",
+    "u": "https://soundcloud.com/mousai_collective/mousai-mix-62-saunaclub-her-leipzig"
+   },
+   {
+    "t": "Saunaclub @ Klaus Club Zürich",
+    "u": "https://soundcloud.com/sauna-club/live-cut-klaus-club"
+   }
+  ],
+  "setsChecked": "2026-11-26",
+  "src": [
+   "https://ra.co/dj/saunaclub",
+   "https://soundcloud.com/mousai_collective/mousai-mix-62-saunaclub-her-leipzig"
+  ]
  },
  "Reese": {
   "links": {
    "ig": "https://www.instagram.com/reese_dj/"
-  }
+  },
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
  },
  "You&Na": {
   "links": {
    "ig": "https://www.instagram.com/yn.mp3/"
-  }
+  },
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
  },
  "NINA": {
-  "lt": "https://linktr.ee/nina_wav"
+  "lt": "https://linktr.ee/nina_wav",
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
  },
  "Montaha": {
   "links": {
-   "ig": "https://www.instagram.com/annamontaha/"
-  }
+   "ig": "https://www.instagram.com/annamontaha/",
+   "ra": "https://ra.co/dj/montaha"
+  },
+  "noImg": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26",
+  "src": [
+   "https://ra.co/dj/montaha"
+  ]
  },
  "MAWO": {
   "bio": {
@@ -56555,7 +56702,11 @@ const AR={
   "real": "Flowwolf & Noisekiller",
   "genres": [
    "Psytrance"
-  ]
+  ],
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
  },
  "Surina": {
   "coll": [
@@ -56563,12 +56714,20 @@ const AR={
   ],
   "genres": [
    "Psytrance"
-  ]
+  ],
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
  },
  "Trixidal": {
   "genres": [
    "Psytrance"
-  ]
+  ],
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
  },
  "Van Atius": {
   "coll": [
@@ -56576,17 +56735,339 @@ const AR={
   ],
   "genres": [
    "Psytrance"
-  ]
+  ],
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
  },
  "Kreta": {
   "genres": [
    "Psytrance"
-  ]
+  ],
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
  },
  "Illicit": {
   "genres": [
    "Psytrance"
+  ],
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "Simón JaVa": {
+  "noImg": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26",
+  "links": {
+   "sc": "https://soundcloud.com/simonjava"
+  },
+  "bio": {
+   "de": "DJ mit Radio-Shows u. a. bei Radio 80000 und 20ft Radio, wo er lateinamerikanische Rhythmen auflegt; spielt auch Vinyl-Sets.",
+   "en": "DJ with radio shows on Radio 80000 and 20ft Radio, among others, playing Latin American rhythms; also plays vinyl sets."
+  },
+  "sets": [
+   {
+    "t": "Polyphony of Resistance w/ Simón JaVa @ 20ft Radio (15.01.2026)",
+    "u": "https://soundcloud.com/20ft_radio/polyphony-of-resistance-rhythms-of-latin-america-for-ukraine-w-simon-java-20ft-radio-15012026"
+   },
+   {
+    "t": "Simón JaVa – Despedida AL Berlin Vinyl Set",
+    "u": "https://soundcloud.com/simonjava/despedidaalberlin"
+   }
+  ],
+  "setsChecked": "2026-11-26",
+  "src": [
+   "https://soundcloud.com/simonjava"
   ]
+ },
+ "André Dancekowski": {
+  "noImg": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26",
+  "links": {
+   "ra": "https://ra.co/dj/andredancekowski",
+   "sc": "https://soundcloud.com/andredancekowski"
+  },
+  "bio": {
+   "de": "DJ mit Auftritten u. a. in Berlin (Bohnengold), München (eigene Reihe „Dancekowski invites…“ im Goldenen Reiter) und Mannheim (Disco Zwei); spielt auch Vinyl-Sessions.",
+   "en": "DJ who has played Berlin (Bohnengold), Munich (his own series 'Dancekowski invites…' at Goldener Reiter) and Mannheim (Disco Zwei), among others; also plays vinyl sessions."
+  },
+  "sets": [
+   {
+    "t": "André Dancekowski – MIX 006",
+    "u": "https://soundcloud.com/andredancekowski/mix006"
+   }
+  ],
+  "setsChecked": "2026-11-26",
+  "src": [
+   "https://ra.co/dj/andredancekowski",
+   "https://soundcloud.com/andredancekowski"
+  ]
+ },
+ "Malice": {
+  "noImg": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26",
+  "real": "Davide Guernieri",
+  "genres": [
+   "Rawstyle",
+   "Hardstyle"
+  ],
+  "labels": [
+   "Aggressive Records"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/maliceraw"
+  },
+  "bio": {
+   "de": "Rawstyle-DJ und Live-Act (bürgerlich Davide Guernieri) mit Releases auf Aggressive Records, u. a. „I Am Raw“ und „Rawstars“ (mit Krowdexx). Auftritte u. a. beim REBELLiON Festival.",
+   "en": "Rawstyle DJ and live act (real name Davide Guernieri) with releases on Aggressive Records, including 'I Am Raw' and 'Rawstars' (with Krowdexx). Has played REBELLiON Festival, among others."
+  },
+  "sets": [
+   {
+    "t": "Malice LIVE @ REBELLiON Festival 2023 – The Eclipse",
+    "u": "https://soundcloud.com/rebirth-festival/malice-live-rebellion-festival-2023-the-eclipse"
+   }
+  ],
+  "setsChecked": "2026-11-26",
+  "src": [
+   "https://partyflock.nl/artist/83324:Malice",
+   "https://soundcloud.com/maliceraw"
+  ]
+ },
+ "Sickmode": {
+  "noImg": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26",
+  "genres": [
+   "Rawstyle",
+   "Hardstyle"
+  ],
+  "labels": [
+   "Aggressive Records"
+  ],
+  "links": {
+   "sp": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+  },
+  "bio": {
+   "de": "Rawstyle-DJ und Live-Act mit Releases auf Aggressive Records, u. a. „Klaplongen“ und „You Know Me“. Sets u. a. bei Gearbox und beim Phoenix Festival.",
+   "en": "Rawstyle DJ and live act with releases on Aggressive Records, including 'Klaplongen' and 'You Know Me'. Has played Gearbox and Phoenix Festival, among others."
+  },
+  "src": [
+   "https://partyflock.nl/artist/125535:Sickmode",
+   "https://soundcloud.com/aggressiverecords/ar006"
+  ]
+ },
+ "Levenkhan": {
+  "noImg": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26",
+  "genres": [
+   "Hardstyle",
+   "Rawstyle"
+  ],
+  "labels": [
+   "Aggressive Records"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/djlevenkhan"
+  },
+  "bio": {
+   "de": "Hardstyle-Produzent und DJ mit Releases auf Aggressive Records (u. a. „Going 4 It“) sowie Singles wie „Die Young“ und „G6“.",
+   "en": "Hardstyle producer and DJ with releases on Aggressive Records (including 'Going 4 It') and singles such as 'Die Young' and 'G6'."
+  },
+  "sets": [
+   {
+    "t": "Levenkhan – Live @ HDM",
+    "u": "https://soundcloud.com/djlevenkhan/levenkhan-live-hdm"
+   }
+  ],
+  "setsChecked": "2026-11-26",
+  "src": [
+   "https://soundcloud.com/djlevenkhan",
+   "https://soundcloud.com/aggressiverecords/levenkhan-going-4-it"
+  ]
+ },
+ "Dave Defender": {
+  "noImg": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26",
+  "links": {
+   "sc": "https://soundcloud.com/dave-defender",
+   "sp": "https://open.spotify.com/artist/0o0LReaQl9EbLqOKmWUFW6"
+  },
+  "bio": {
+   "de": "DJ und Produzent, bekannt für Mashups (u. a. Tiësto/Ava Max vs. DJ Kuba & Neitan) und Singles wie „Fire In My Heart“.",
+   "en": "DJ and producer known for mashups (e.g. Tiësto/Ava Max vs. DJ Kuba & Neitan) and singles such as 'Fire In My Heart'."
+  },
+  "setsChecked": "2026-11-26",
+  "src": [
+   "https://soundcloud.com/dave-defender",
+   "https://open.spotify.com/artist/0o0LReaQl9EbLqOKmWUFW6"
+  ],
+  "genres": [
+   "Hardstyle"
+  ]
+ },
+ "Kenji Hina": {
+  "noImg": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26",
+  "genres": [
+   "Techno"
+  ],
+  "labels": [
+   "Emerald",
+   "Molekül"
+  ],
+  "links": {
+   "sc": "https://soundcloud.com/alarico_katana"
+  },
+  "bio": {
+   "de": "Techno-Produzent mit Releases u. a. auf Emerald („Stuck Off The Realness“) und Molekül („Bring It Down“, „Drilling“). Teilt sich den SoundCloud-Kanal mit Alarico.",
+   "en": "Techno producer with releases on Emerald ('Stuck Off The Realness') and Molekül ('Bring It Down', 'Drilling'), among others. Shares a SoundCloud channel with Alarico."
+  },
+  "sets": [
+   {
+    "t": "Alarico pres. Kenji Hina @ Basilar (14.09.2025)",
+    "u": "https://soundcloud.com/alarico_katana/alarico-pres-kenji-hina"
+   }
+  ],
+  "setsChecked": "2026-11-26",
+  "src": [
+   "https://soundcloud.com/alarico_katana",
+   "https://soundcloud.com/hate_music/premiere-kenji-hina-stuck-off-the-realness-emerald014a-1"
+  ]
+ },
+ "DJ Ebhardy": {
+  "noImg": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26",
+  "links": {
+   "ra": "https://ra.co/dj/djebhardy"
+  },
+  "src": [
+   "https://ra.co/dj/djebhardy"
+  ]
+ },
+ "Bebesotas": {
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "DJ Bissick": {
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "TJR": {
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "Swanahaus": {
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "Alma": {
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "Matteomie": {
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "Kasi": {
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26",
+  "genres": [
+   "Techno",
+   "Melodic Techno",
+   "Progressive House"
+  ]
+ },
+ "Xander": {
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "Lampert": {
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "Luke": {
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "Chiara": {
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26",
+  "genres": [
+   "Trance",
+   "Techno"
+  ]
+ },
+ "TRTMN": {
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26",
+  "genres": [
+   "Pop",
+   "Techno",
+   "House"
+  ]
+ },
+ "Acidelia": {
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26",
+  "genres": [
+   "Techno",
+   "Psytrance"
+  ]
+ },
+ "Emina": {
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "entrance": {
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "Ben Parker 030": {
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-26"
  }
 };
 

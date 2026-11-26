@@ -481,5 +481,53 @@ window.PRUEF=[
     "d": "2027-02-05"
    }
   }
+ },
+ {
+  "id": "spotify-art-outlined-links-sp",
+  "ts": "2026-11-26",
+  "lauf": "profil-lauf",
+  "typ": "spotify",
+  "titel": "Outlined – Spotify-Kandidat",
+  "text": "Spotify-Artist „Outlined“ taucht bei der Suche „Outlined rawstyle“ auf; Seite konnte nicht geprüft werden, daher unsicher, ob es der österreichische Rawstyle-DJ ist.",
+  "links": [
+   "https://open.spotify.com/artist/2daKoGBVeeNvR59lsF9XJ6",
+   "https://soundcloud.com/user-530319358"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "art",
+   "op": "edit",
+   "key": "Outlined",
+   "title": "Outlined",
+   "data": {
+    "links.sp": "https://open.spotify.com/artist/2daKoGBVeeNvR59lsF9XJ6"
+   }
+  }
+ },
+ {
+  "id": "doppelt-kenji-hina-evtl-alias-von-alarico",
+  "ts": "2026-11-26",
+  "lauf": "profil-lauf",
+  "typ": "doppelt",
+  "titel": "Kenji Hina – evtl. Alias von Alarico",
+  "text": "Der SoundCloud-Kanal heißt „Alarico I Kenji Hina“ und enthält „Alarico pres. Kenji Hina @ Basilar“. Möglicherweise ist Kenji Hina ein Alias von Alarico (Event 02.04.2027 „Alarico b2b Kenji Hina“).",
+  "links": [
+   "https://soundcloud.com/alarico_katana",
+   "https://soundcloud.com/alarico_katana/alarico-pres-kenji-hina"
+  ],
+  "karten": []
+ },
+ {
+  "id": "hinweis-nina-basstrace-04-12-evtl-bristol-produzent-nina",
+  "ts": "2026-11-26",
+  "lauf": "profil-lauf",
+  "typ": "hinweis",
+  "titel": "NINA (Basstrace 04.12.) – evtl. Bristol-Produzent Nina",
+  "text": "Möglicher Treffer: Nina aus Bristol (ex-Alias Transparent, EP „Internal Makeup“ auf Faux Poly, 130–140/Dub/Grime). Zuordnung zum Basstrace-Gast „NINA (UK)“ nicht belegt, daher nichts eingetragen.",
+  "links": [
+   "https://www.beatportal.com/articles/1486288-nina-on-breaking-boundaries-bristol-roots-the-sound-of-internal-makeup-q-a",
+   "https://ra.co/events/2593941"
+  ],
+  "karten": []
  }
 ];
