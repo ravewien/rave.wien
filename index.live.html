@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-zdHZEnL3OBYvHDcZ2V+SMl4CZIS7S+o7Z0mBsrTzx8Q='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-JOBn9BE0dkETBYwlYtj2lOo2fXvf4TK2ukPidua8EbI=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-zdHZEnL3OBYvHDcZ2V+SMl4CZIS7S+o7Z0mBsrTzx8Q=' 'sha256-MOeCJB35kPLalhNZo75WOCx5TN/h6tfIz5TVxYUhPG4='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -48,6 +48,7 @@
   color-scheme:dark;
 }
 *{box-sizing:border-box}
+#snowfx{position:fixed;inset:0;width:100vw;height:100vh;z-index:-1;pointer-events:none}html.snow body{background:transparent}
 html,body{background:var(--bg)}
 body{color:var(--fg);font-family:var(--f-body);font-size:14px;line-height:1.4;
   padding-left:max(12px,env(safe-area-inset-left,0px));padding-right:max(12px,env(safe-area-inset-right,0px));padding-block:0 32px}
@@ -2737,5 +2738,25 @@ body.prmode .browser>.side,body.prmode .browser>.mid{display:none!important}
 <div class="edbar" id="edbar" hidden></div>
 <div class="edmod" id="edask" hidden style="z-index:240;align-items:center"><div class="edbox" style="width:min(420px,100%)"><p id="edaskt" style="margin:0 0 14px;font-size:15px;line-height:1.4"></p><div class="edact" style="margin:0"><span></span><div class="r"><button type="button" id="edaskn">Abbrechen</button><button type="button" class="save" id="edasky">OK</button></div></div></div></div>
 
-
+<script>
+// Schneefall im Hintergrund: im Dezember und ab dem ersten Schnee (ig/plan.json "schnee_ab"); dichter, solange es in Wien gerade schneit (Wetterdaten).
+(()=>{try{if(matchMedia("(prefers-reduced-motion: reduce)").matches)return;
+  const today=new Date().toLocaleDateString("sv-SE",{timeZone:"Europe/Vienna"}),m=+today.slice(5,7);
+  const schneitJetzt=()=>{try{const W=window.WX;if(!W||!W.v)return false;const h=Math.floor((Date.now()-new Date(W.t0+":00+01:00").getTime())/36e5);let n=0,t=0;
+    for(const v of Object.values(W.v)){const c=v.C&&v.C[h];if(c==null)continue;t++;if((c>=71&&c<=77)||c===85||c===86)n++}return t>0&&n/t>=.3}catch(_){return false}};
+  const go=dicht=>{const cv=document.createElement("canvas");cv.id="snowfx";cv.setAttribute("aria-hidden","true");document.body.prepend(cv);document.documentElement.classList.add("snow");
+    const x=cv.getContext("2d");let W=0,H=0,F=[];const P=4;
+    const size=()=>{const d=Math.min(devicePixelRatio||1,2);W=innerWidth;H=innerHeight;cv.width=W*d;cv.height=H*d;x.setTransform(d,0,0,d,0,0);
+      const n=Math.min(220,Math.round(W*H/(dicht?6500:15000)));while(F.length<n)F.push(neu(true));F.length=n};
+    const neu=a=>({x:Math.random()*W,y:a?Math.random()*H:-8,s:P*(Math.random()<.25?2:1)*(Math.random()<.5?.75:1),v:14+Math.random()*34,d:Math.random()*6.28,o:.18+Math.random()*.5});
+    let last=0;const tick=t=>{const dt=Math.min(.05,(t-last)/1000||0);last=t;x.clearRect(0,0,W,H);
+      for(const f of F){f.y+=f.v*dt;f.d+=dt*.8;f.x+=Math.sin(f.d)*8*dt;if(f.y>H+8||f.x<-8||f.x>W+8)Object.assign(f,neu(false));
+        x.globalAlpha=f.o;x.fillStyle="#fff";const s=Math.round(f.s);x.fillRect(Math.round(f.x/2)*2,Math.round(f.y/2)*2,s,s)}
+      if(!document.hidden)requestAnimationFrame(tick)};
+    addEventListener("resize",size);document.addEventListener("visibilitychange",()=>{if(!document.hidden){last=performance.now();requestAnimationFrame(tick)}});
+    size();requestAnimationFrame(tick)};
+  const start=ab=>{const winter=m===12||(ab&&today>=ab&&today.slice(0,4)===String(ab).slice(0,4));const jetzt=schneitJetzt();if(winter||jetzt)go(jetzt)};
+  if(m===12)start(null);else fetch("ig/plan.json",{cache:"no-cache"}).then(r=>r.ok?r.json():{}).then(p=>start(p&&p.schnee_ab)).catch(()=>start(null));
+}catch(_){}})();
+</script>
 </html>

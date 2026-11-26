@@ -1,5 +1,5 @@
 // Feiertags-Deko für die Instagram-Tagesbilder (1080×1350).
-//   Dezember: Schneeflocken im Hintergrund (1.–24. dazu Zipfelmütze)
+//   Dezember: Schneeflocken im Hintergrund (1.–24. dazu Zipfelmütze); schon früher ab ig/plan.json "schnee_ab"
 //   31. Oktober: Teufels-Astronaut + Pixel-Kürbis
 //   14. Februar: Herzballons
 //   Juni (Pride Month): Astronaut mit Regenbogenfahne;
@@ -18,6 +18,8 @@ function paradeTag(y,plan){const p=plan&&plan.pride_parade;if(p&&String(p).slice
 function themen(d,plan){const f=process.env.IG_THEMA;if(f)return {advent:['advent'],dezember:['schnee'],halloween:['halloween'],valentin:['valentin'],pride:['pride'],parade:['pride','parade']}[f]||[];
  const [y,m,t]=d.split('-').map(Number);const T=[];
  if(m===12){T.push('schnee');if(t<=24)T.push('muetze')}
+ // Erster Schnee schon vor Dezember: ig/plan.json "schnee_ab": "JJJJ-MM-TT" – ab diesem Tag bis Jahresende Schneeflocken
+ else if(plan&&plan.schnee_ab&&d>=plan.schnee_ab&&d.slice(0,4)===String(plan.schnee_ab).slice(0,4))T.push('schnee')
  if(m===10&&t===31)T.push('halloween');if(m===2&&t===14)T.push('valentin');
  if(m===6){T.push('pride');if(d===paradeTag(y,plan))T.push('parade')}return T}
 // P = Pose {w,h,f}, k = Maßstab, i = Seitennummer
