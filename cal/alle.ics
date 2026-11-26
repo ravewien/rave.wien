@@ -1564,7 +1564,7 @@ BEGIN:VEVENT
 UID:2026-12-05-allowed-to-drift@rave.wien
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=Europe/Vienna:20261205T230000
-DTEND;TZID=Europe/Vienna:20261206T040000
+DTEND;TZID=Europe/Vienna:20261206T050000
 SUMMARY:allowed to drift
 LOCATION:The Inner Circle\, Altmannsdorfer Straße 144\, 1230 Wien
 DESCRIPTION:Gustuff\, Experimental\, Empat\n\nClubnacht „allowed to dri
