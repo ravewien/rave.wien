@@ -13732,9 +13732,13 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Another Dimension": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "genres": [
+   "Hardcore",
+   "Uptempo"
+  ]
  },
  "Emkatress": {
   "noImg": "2026-11-03",
@@ -15090,14 +15094,18 @@ const AR={
   "infoChk": "2026-10-31"
  },
  "Catlex": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
   "src": [
    "https://soundcloud.com/catlexxx",
    "https://soundcloud.com/catlexmusic"
   ],
-  "infoChk": "2026-11-03",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-15",
+  "genres": [
+   "Techno",
+   "House"
+  ]
  },
  "Suitside": {
   "noImg": "2026-11-15",
@@ -31798,9 +31806,13 @@ const AR={
    "https://ra.co/events/1569130",
    "https://ra.co/events/2037397"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "spChk": "2026-11-20"
+  "infoChk": "2026-11-26",
+  "noImg": "2026-11-26",
+  "spChk": "2026-11-20",
+  "genres": [
+   "Downtempo",
+   "Psy Techno"
+  ]
  },
  "Tanzinstanz": {
   "infoChk": "2026-11-03",
@@ -34506,10 +34518,14 @@ const AR={
    "https://soundcloud.com/ottowagina",
    "https://de.ra.co/events/2059567"
   ],
-  "infoChk": "2026-11-04",
-  "noImg": "2026-11-04",
+  "infoChk": "2026-11-26",
+  "noImg": "2026-11-26",
   "setsChecked": "2026-11-04",
-  "spChk": "2026-11-20"
+  "spChk": "2026-11-20",
+  "genres": [
+   "Downtempo",
+   "Psy Techno"
+  ]
  },
  "Derrick Raw": {
   "alias": [
@@ -47501,18 +47517,18 @@ const AR={
     "u": "https://soundcloud.com/insanocamsis/parvati-label-night-vienna"
    }
   ],
-  "setsChecked": "2026-11-04",
+  "setsChecked": "2026-11-26",
   "src": [
    "https://soundcloud.com/camsis",
    "https://soundcloud.com/insanocamsis",
    "https://bandcamp.com/camsis_vantaravichitrarecords"
   ],
-  "infoChk": "2026-11-15",
-  "noImg": "2026-11-15",
+  "infoChk": "2026-11-26",
+  "noImg": "2026-11-26",
   "alias": [
    "Cam Sis"
   ],
-  "spChk": "2026-11-15",
+  "spChk": "2026-11-26",
   "from": {
    "de": "Wien, Österreich",
    "en": "Vienna, Austria"
@@ -51308,15 +51324,17 @@ const AR={
    "ra": "https://ra.co/dj/waqwaqkingdom",
    "ig": "https://www.instagram.com/waqwaqkingdom/",
    "web": "https://waqwaqkingdom.com/",
-   "sp": "https://open.spotify.com/artist/4in9NY36a5EllSTje5liC5"
+   "sp": "https://open.spotify.com/artist/4in9NY36a5EllSTje5liC5",
+   "sc": "https://soundcloud.com/waqwaqkingdom"
   },
   "src": [
    "https://ra.co/dj/waqwaqkingdom",
    "https://ra.co/news/44402",
    "https://ra.co/news/73268",
-   "https://ra.co/events/2580457"
+   "https://ra.co/events/2580457",
+   "https://soundcloud.com/waqwaqkingdom"
   ],
-  "infoChk": "2026-11-11",
+  "infoChk": "2026-11-26",
   "spChk": "2026-11-15"
  },
  "Catu Diosis": {
@@ -51430,14 +51448,27 @@ const AR={
   ],
   "img": "https://static.ra.co/images/profiles/square/yoshiko.jpg?dateUpdated=1717604179000",
   "links": {
-   "ra": "https://ra.co/dj/yoshiko"
+   "ra": "https://ra.co/dj/yoshiko",
+   "sc": "https://soundcloud.com/officialyoshiko"
   },
   "src": [
    "https://ra.co/dj/yoshiko",
-   "https://ra.co/events/2538107"
+   "https://ra.co/events/2538107",
+   "https://soundcloud.com/officialyoshiko"
   ],
-  "infoChk": "2026-11-11",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-15",
+  "genres": [
+   "Hardcore",
+   "Uptempo"
+  ],
+  "sets": [
+   {
+    "t": "YOSHIKO HARDCORE FRANCE SET",
+    "u": "https://soundcloud.com/hardcorefrance/yoshiko-hardcore-france-set"
+   }
+  ],
+  "setsChecked": "2026-11-26"
  },
  "Lekkerfaces": {
   "from": {
@@ -51454,13 +51485,30 @@ const AR={
   "img": "https://static.ra.co/images/profiles/square/lekkerfaces.jpg?dateUpdated=1675418964000",
   "links": {
    "ra": "https://ra.co/dj/lekkerfaces",
-   "sp": "https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349"
+   "sp": "https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349",
+   "sc": "https://soundcloud.com/lekkerfaces"
   },
   "src": [
-   "https://ra.co/dj/lekkerfaces"
+   "https://ra.co/dj/lekkerfaces",
+   "https://soundcloud.com/lekkerfaces"
   ],
-  "infoChk": "2026-11-11",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-15",
+  "genres": [
+   "Uptempo",
+   "Hardcore"
+  ],
+  "sets": [
+   {
+    "t": "LEKKERFACES - FULL SET KNOCKOUT OUTDOOR 2025",
+    "u": "https://soundcloud.com/tvd96/lekkerfaces-full-set-knockout"
+   },
+   {
+    "t": "Merry Lekker Christmas (Steam Power set)",
+    "u": "https://soundcloud.com/lekkerfaces/merry-lekker-christmas-steam-power-set"
+   }
+  ],
+  "setsChecked": "2026-11-26"
  },
  "99PRBLMZ": {
   "img": "https://i.scdn.co/image/ab6761610000e5eb2b822b030816f8eeb049c4e4",
@@ -51664,13 +51712,17 @@ const AR={
    "https://soundcloud.com/officialreflexx/farruko-pepas-reflexx-hardstyle-remix-short-edit",
    "https://open.spotify.com/intl-de/album/6XEZmVG3MKDM3i1dOxeahb"
   ],
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11"
+  "infoChk": "2026-11-26",
+  "noImg": "2026-11-26"
  },
  "Cryoonix": {
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11"
+  "infoChk": "2026-11-26",
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "genres": [
+   "Hardcore",
+   "Uptempo"
+  ]
  },
  "STXRLI": {
   "infoChk": "2026-11-11",
@@ -57207,6 +57259,140 @@ const AR={
   "infoChk": "2026-11-26",
   "noImg": "2026-11-26",
   "noLinks": "2026-11-26"
+ },
+ "Nadin": {
+  "genres": [
+   "Dubstep",
+   "Bass"
+  ],
+  "bio": {
+   "de": "Nadin legt im Umfeld der Wiener Bassmusik-Reihe Basstrace auf, meist b2b mit Nobody. Mitschnitte gibt es u. a. von Basstrace 050, der Fusion 2023 (Subardo) und dem Subardo Festival 2024.",
+   "en": "Nadin plays in the circle of Vienna's bass music series Basstrace, mostly b2b with Nobody. Recordings include Basstrace 050, Fusion 2023 (Subardo) and Subardo Festival 2024."
+  },
+  "sets": [
+   {
+    "t": "Nadin & Nobody - Subardo Festival 2024",
+    "u": "https://soundcloud.com/subardo/nadin-nobody-subardo-festival-2024"
+   },
+   {
+    "t": "Nadin & Nobody @ Fusion Festival 2023 I Subardo",
+    "u": "https://soundcloud.com/basstrace/nadin-nobody-fusion-festival-2023-subardo"
+   },
+   {
+    "t": "Nadin & Nobody @ Basstrace 050",
+    "u": "https://soundcloud.com/basstrace/nadin-nobody-basstrace-050"
+   }
+  ],
+  "src": [
+   "https://soundcloud.com/basstrace"
+  ],
+  "infoChk": "2026-11-26",
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "Nobody": {
+  "links": {
+   "sc": "https://soundcloud.com/nobody_basstrace"
+  },
+  "genres": [
+   "Dubstep",
+   "Bass"
+  ],
+  "bio": {
+   "de": "Nobody gehört zum Umfeld der Wiener Bassmusik-Reihe Basstrace und spielt meist b2b mit Nadin. Mitschnitte gibt es u. a. von Basstrace 050, der Fusion 2023 (Subardo) und dem Subardo Festival 2024.",
+   "en": "Nobody belongs to the circle of Vienna's bass music series Basstrace and mostly plays b2b with Nadin. Recordings include Basstrace 050, Fusion 2023 (Subardo) and Subardo Festival 2024."
+  },
+  "sets": [
+   {
+    "t": "Nadin & Nobody - Subardo Festival 2024",
+    "u": "https://soundcloud.com/subardo/nadin-nobody-subardo-festival-2024"
+   },
+   {
+    "t": "Nadin & Nobody @ Fusion Festival 2023 I Subardo",
+    "u": "https://soundcloud.com/basstrace/nadin-nobody-fusion-festival-2023-subardo"
+   },
+   {
+    "t": "Nadin & Nobody @ Basstrace 050",
+    "u": "https://soundcloud.com/basstrace/nadin-nobody-basstrace-050"
+   }
+  ],
+  "setsChecked": "2026-11-26",
+  "src": [
+   "https://soundcloud.com/nobody_basstrace",
+   "https://soundcloud.com/basstrace"
+  ],
+  "infoChk": "2026-11-26",
+  "noImg": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "Dotworks": {
+  "links": {
+   "sc": "https://soundcloud.com/dotworks"
+  },
+  "genres": [
+   "Dubstep"
+  ],
+  "labels": [
+   "Sub Audio Records"
+  ],
+  "setsChecked": "2026-11-26",
+  "src": [
+   "https://soundcloud.com/dotworks"
+  ],
+  "infoChk": "2026-11-26",
+  "noImg": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "Schuechner": {
+  "links": {
+   "sc": "https://soundcloud.com/schuechner"
+  },
+  "genres": [
+   "Dubstep",
+   "Bass"
+  ],
+  "setsChecked": "2026-11-26",
+  "src": [
+   "https://soundcloud.com/schuechner"
+  ],
+  "infoChk": "2026-11-26",
+  "noImg": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "Scooped": {
+  "links": {
+   "sc": "https://soundcloud.com/scoopedmusic"
+  },
+  "genres": [
+   "Dubstep"
+  ],
+  "setsChecked": "2026-11-26",
+  "src": [
+   "https://soundcloud.com/scoopedmusic"
+  ],
+  "infoChk": "2026-11-26",
+  "noImg": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "Vege": {
+  "genres": [
+   "Dubstep",
+   "Bass"
+  ],
+  "infoChk": "2026-11-26",
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "spChk": "2026-11-26"
+ },
+ "Drik&Dirk": {
+  "genres": [
+   "House"
+  ],
+  "infoChk": "2026-11-26",
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "spChk": "2026-11-26"
  }
 };
 
