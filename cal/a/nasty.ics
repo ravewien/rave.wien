@@ -26,23 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-12-11-teknoteka-vol-4@rave.wien
-DTSTAMP:20261211T000000Z
-DTSTART;TZID=Europe/Vienna:20261211T230000
-DTEND;TZID=Europe/Vienna:20261212T060000
-SUMMARY:TEKNOTEKA Vol. 4
-LOCATION:Weberknecht\, Lerchenfelder Gürtel 47\, 1160 Wien
-DESCRIPTION:Kork\, Gurkal²³\, Nasty\, Tekno Nixe\nVeranstalter: Nasty C
- onnexion\n\nVierte Ausgabe der Tekno-Reihe TEKNOTEKA von Nasty Connexion
- \; laut goabase findet sie im Weberknecht am Lerchenfelder Gürtel statt
-  (Fr 23:00 bis Sa 06:00). Vol. 3 läuft am 19. November im Kramladen. An
- gekündigt sind Kork\, Gurkal²³\, Nasty und Tekno Nixe\, weitere Acts 
- folgen. Preis\, Flyer und Tickets sind noch nicht veröffentlicht\, und 
- auf der Website des Weberknecht steht der Termin bisher nicht.\n\nhttps:
- //rave.wien/e/2026-12-11-teknoteka-vol-4
-URL:https://rave.wien/e/2026-12-11-teknoteka-vol-4
-END:VEVENT
-BEGIN:VEVENT
 UID:2025-05-10-tattu-tatta-glub-macht-pau-se-grelle-forelle@rave.wien
 DTSTAMP:20250510T000000Z
 DTSTART;VALUE=DATE:20250510

@@ -26,6 +26,27 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-10-donnerstag-nacht-herzzz-weihnachtspunsch@rave.wien
+DTSTAMP:20261210T000000Z
+DTSTART;TZID=Europe/Vienna:20261210T230000
+DTEND;TZID=Europe/Vienna:20261211T060000
+SUMMARY:Donnerstag Nacht – HERZZZ Weihnachtspunsch
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:j.around\, LizN\, Aylean\, Anni Herzer\nVeranstalter: HERZZZ\
+ nEintritt: 10–15 € / Studierende 0–5 €\n\nDonnerstag Nacht im SA
+ SS Music Club als Weihnachtspunsch-Ausgabe von HERZZZ\, von 23 bis 6 Uhr
+ . Es spielen j.around\, LizN\, Aylean und Anni Herzer\, die als DJ und V
+ eranstalterin aus Clubs in Österreich\, Deutschland und England sowie v
+ on Festivals wie Paradies Garten und Lighthouse bekannt ist. Eine Beschr
+ eibung ist noch nicht veröffentlicht. Eintritt regulär 10–15 € ink
+ lusive Willkommensgetränk\, Studierende 0–5 €. Alle SASS-Veranstalt
+ ungen werden von einem Awareness-Team begleitet\; Einlass ab 18 mit Ausw
+ eis- und Taschenkontrolle.\n\nhttps://rave.wien/e/2026-12-10-donnerstag-
+ nacht-herzzz-weihnachtspunsch
+URL:https://rave.wien/e/2026-12-10-donnerstag-nacht-herzzz-weihnachtspuns
+ ch
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-18-housetiere-with-posi-flo@rave.wien
 DTSTAMP:20261218T000000Z
 DTSTART;TZID=Europe/Vienna:20261218T220000

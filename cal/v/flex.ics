@@ -68,6 +68,20 @@ URL:https://rave.wien/e/2026-11-28-switch-presents-primate-sticks-stones-
  europe-tour
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-04-oage-tekke@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T040000
+SUMMARY:Oage Tekke
+LOCATION:Flex\, Augartenbrücke 1\, 1010 Wien
+DESCRIPTION:\n„Oage Tekke“ im Flex am Donaukanal\, ab 23 Uhr. Das Fle
+ x führt die Nacht im Programm mit Abendkassa und Vorverkauf über oetic
+ ket\; Lineup\, Veranstalter und eine Beschreibung sind dort bisher nicht
+  veröffentlicht. Der Titel („arge Tekke“) deutet auf eine Tekk-Nach
+ t hin.\n\nhttps://rave.wien/e/2026-12-04-oage-tekke
+URL:https://rave.wien/e/2026-12-04-oage-tekke
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-07-step-to-tek-9-years-anniversary@rave.wien
 DTSTAMP:20261207T000000Z
 DTSTART;TZID=Europe/Vienna:20261207T230000

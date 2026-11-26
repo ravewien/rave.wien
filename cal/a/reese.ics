@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Reese · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-04-groovers@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T060000
+SUMMARY:Groovers
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Reese\, Saunaclub\, You&Na\, Drik&Dirk\nVeranstalter: Groover
+ s\nEintritt: 10–15 €\n\nDas Leipziger Kollektiv GROOVERS bringt sein
+ e „Groove-Familie“ ins SASS Music Club. GROOVERS sind acht Kreative 
+ aus Musik\, Film\, Medien und Werbung\, die 2023 als kleines Stream-Proj
+ ekt begannen\; heute veranstalten sie eigene Partys in ganz Leipzig\, ha
+ ben eine monatliche Radioshow auf Sunshine Live und das eigene Label Gro
+ overs Traxx\, ihre Showcases gastierten schon in Prag\, Dresden und Lüt
+ tich. In Wien spielen Reese\, Saunaclub\, You&Na und Drik&Dirk\, von 23 
+ bis 6 Uhr. Eintritt 10–15 € inklusive Willkommensgetränk. Alle SASS
+ -Veranstaltungen werden von einem Awareness-Team begleitet\; Einlass ab 
+ 18 mit Ausweis- und Taschenkontrolle.\n\nhttps://rave.wien/e/2026-12-04-
+ groovers
+URL:https://rave.wien/e/2026-12-04-groovers
+END:VEVENT
+END:VCALENDAR

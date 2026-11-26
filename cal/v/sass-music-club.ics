@@ -96,6 +96,50 @@ DESCRIPTION:DONAURAVE\nVeranstalter: Morgengymnastik\nEintritt: 15 €\n\
 URL:https://rave.wien/e/2026-11-29-morgengymnastik-donaurave
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-03-donnerstag-nacht@rave.wien
+DTSTAMP:20261203T000000Z
+DTSTART;TZID=Europe/Vienna:20261203T230000
+DTEND;TZID=Europe/Vienna:20261204T060000
+SUMMARY:Donnerstag Nacht
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:OMIZS\, Coco Love\, Rope\nEintritt: 10–15 € / Studierende
+  0–5 €\n\nDonnerstag Nacht im SASS Music Club von 23 bis 6 Uhr – l
+ aut SASS „ein Wiener Herz\, ein Pariser Sonnenstrahl und ein Belgrader
+  Kraftpaket“. OMIZS aus Paris ist seit über sechs Jahren in Clubs und
+  auf Festivals von Ibiza über London bis Los Angeles unterwegs\, hat di
+ e OMIZS-Party erfunden\, ist künstlerischer Leiter des Pariser Clubs Pa
+ mela und hat 2025 das Solum mit 1.500 Leuten ausverkauft. Die Wienerin C
+ oco Love spielt nach dem Motto „Music for the dancers“ und ist auch 
+ als Veranstalterin aktiv. Rope legt seit 2016 auf\, hat in Belgrad die C
+ rew KRШ mitgegründet und spielt dort u. a. im Drugstore\, Para und Kar
+ makoma. Eintritt regulär 10–15 € inklusive Willkommensgetränk\, St
+ udierende 0–5 €. Alle SASS-Veranstaltungen werden von einem Awarenes
+ s-Team begleitet\; Einlass ab 18 mit Ausweis- und Taschenkontrolle.\n\nh
+ ttps://rave.wien/e/2026-12-03-donnerstag-nacht
+URL:https://rave.wien/e/2026-12-03-donnerstag-nacht
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-groovers@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T060000
+SUMMARY:Groovers
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Reese\, Saunaclub\, You&Na\, Drik&Dirk\nVeranstalter: Groover
+ s\nEintritt: 10–15 €\n\nDas Leipziger Kollektiv GROOVERS bringt sein
+ e „Groove-Familie“ ins SASS Music Club. GROOVERS sind acht Kreative 
+ aus Musik\, Film\, Medien und Werbung\, die 2023 als kleines Stream-Proj
+ ekt begannen\; heute veranstalten sie eigene Partys in ganz Leipzig\, ha
+ ben eine monatliche Radioshow auf Sunshine Live und das eigene Label Gro
+ overs Traxx\, ihre Showcases gastierten schon in Prag\, Dresden und Lüt
+ tich. In Wien spielen Reese\, Saunaclub\, You&Na und Drik&Dirk\, von 23 
+ bis 6 Uhr. Eintritt 10–15 € inklusive Willkommensgetränk. Alle SASS
+ -Veranstaltungen werden von einem Awareness-Team begleitet\; Einlass ab 
+ 18 mit Ausweis- und Taschenkontrolle.\n\nhttps://rave.wien/e/2026-12-04-
+ groovers
+URL:https://rave.wien/e/2026-12-04-groovers
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-05-karotte-im-wohnzimmer@rave.wien
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=Europe/Vienna:20261205T230000
@@ -117,22 +161,117 @@ DESCRIPTION:DJ Karotte\, Crazy Sonic\, Joro & Joabo\nEintritt: 18 €\n\n
 URL:https://rave.wien/e/2026-12-05-karotte-im-wohnzimmer
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-06-morgengymnastik@rave.wien
+DTSTAMP:20261206T000000Z
+DTSTART;TZID=Europe/Vienna:20261206T060000
+DTEND;TZID=Europe/Vienna:20261206T110000
+SUMMARY:Morgengymnastik
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Mia Mia\, Anni Herzer\nVeranstalter: Morgengymnastik\nEintrit
+ t: 15 €\n\nMorgengymnastik\, die Sonntags-Afterhour im SASS Music Club
+ \, von 6 bis 11 Uhr mit zwei Wienerinnen: MIA MIA legt seit 2022 auf\, s
+ ammelt leidenschaftlich Platten und gehört zum Wiener YN Collective (
+ „for friends\, by friends“). Anni Herzer ist DJ und Veranstalterin m
+ it eigener Eventreihe\; ihre treibenden Sets kennt man aus Clubs in Öst
+ erreich\, Deutschland und England sowie von Festivals wie Paradies Garte
+ n\, Lighthouse und Garbicz. Eintritt 15 €. Alle SASS-Veranstaltungen w
+ erden von einem Awareness-Team begleitet\; Einlass ab 18 mit Ausweis- un
+ d Taschenkontrolle.\n\nhttps://rave.wien/e/2026-12-06-morgengymnastik
+URL:https://rave.wien/e/2026-12-06-morgengymnastik
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-landle-takeover-extended@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T230000
+DTEND;TZID=Europe/Vienna:20261208T110000
+SUMMARY:Ländle Takeover extended
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Matteomie\, Kasi\, Xander\, Lampert\, Luke\, Chiara\nEintritt
+ : 10–15 € / ab 06:00 15 €\n\nVorarlberg trifft Wien: Die Ländle-C
+ rew zieht am Abend vor dem Feiertag (8.12.) für eine lange Nacht ins SA
+ SS Music Club ein – Main Night und Afterhour in einem\, von 23 bis 11 
+ Uhr. Hinter den Decks stehen MATTEOMIE (Homeland\, Ecliptic)\, KASI und 
+ XANDER (Market33)\, LAMPERT (Stadtpark Musik) und LUKE (Soundterrasse)\,
+  Unterstützung aus Wien kommt von CHIARA (Aura). Eintritt ab 23 Uhr 10
+ –15 € inklusive Willkommensgetränk\, zur Morgengymnastik ab 6 Uhr 1
+ 5 €. Alle SASS-Veranstaltungen werden von einem Awareness-Team begleit
+ et\; Einlass ab 18 mit Ausweis- und Taschenkontrolle.\n\nhttps://rave.wi
+ en/e/2026-12-07-landle-takeover-extended
+URL:https://rave.wien/e/2026-12-07-landle-takeover-extended
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-donnerstag-nacht-herzzz-weihnachtspunsch@rave.wien
+DTSTAMP:20261210T000000Z
+DTSTART;TZID=Europe/Vienna:20261210T230000
+DTEND;TZID=Europe/Vienna:20261211T060000
+SUMMARY:Donnerstag Nacht – HERZZZ Weihnachtspunsch
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:j.around\, LizN\, Aylean\, Anni Herzer\nVeranstalter: HERZZZ\
+ nEintritt: 10–15 € / Studierende 0–5 €\n\nDonnerstag Nacht im SA
+ SS Music Club als Weihnachtspunsch-Ausgabe von HERZZZ\, von 23 bis 6 Uhr
+ . Es spielen j.around\, LizN\, Aylean und Anni Herzer\, die als DJ und V
+ eranstalterin aus Clubs in Österreich\, Deutschland und England sowie v
+ on Festivals wie Paradies Garten und Lighthouse bekannt ist. Eine Beschr
+ eibung ist noch nicht veröffentlicht. Eintritt regulär 10–15 € ink
+ lusive Willkommensgetränk\, Studierende 0–5 €. Alle SASS-Veranstalt
+ ungen werden von einem Awareness-Team begleitet\; Einlass ab 18 mit Ausw
+ eis- und Taschenkontrolle.\n\nhttps://rave.wien/e/2026-12-10-donnerstag-
+ nacht-herzzz-weihnachtspunsch
+URL:https://rave.wien/e/2026-12-10-donnerstag-nacht-herzzz-weihnachtspuns
+ ch
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-11-votiv-session-with-mathilda-malounadou-rehorn@rave.wien
 DTSTAMP:20261211T000000Z
 DTSTART;TZID=Europe/Vienna:20261211T230000
-DTEND;TZID=Europe/Vienna:20261212T040000
+DTEND;TZID=Europe/Vienna:20261212T060000
 SUMMARY:votiv session with Mathilda\, Malounadou\, Rehorn
 LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
 DESCRIPTION:Mathilda\, Malounadou\, Rehorn\nVeranstalter: Votiv Session\n
- \nNeue Ausgabe der Wiener Partyreihe votiv session im SASS Music Club\, 
- die für funky Sounds\, Progressive House und Deep Grooves steht. Am Fre
- itag ab 23:00 spielen Mathilda\, Malounadou und Rehorn. Malounadou ist u
- . a. mit regelmäßigen Sendungen bei vlan.radio bekannt. Preis und Tick
- etinfos waren beim Eintragen noch nicht veröffentlicht\; wie bei allen 
- SASS-Nächten gibt es ein Awareness-Team\, Einlass ab 18.\n\nhttps://rav
- e.wien/e/2026-12-11-votiv-session-with-mathilda-malounadou-rehorn
+ Eintritt: 10–15 €\n\nNach mehr als einem halben Jahr kehrt die Wiene
+ r Partyreihe Votiv Session\, die für funky Sounds\, Progressive House u
+ nd Deep Grooves steht\, ins SASS Music Club zurück. Die Crew hat Die Ma
+ thilda und Malou Nadou (Malounadou\, u. a. mit regelmäßigen Sendungen 
+ bei vlan.radio) eingeladen\, dazu kommt Resident Max Rehorn – von 23 b
+ is 6 Uhr. Davor gibt es von 20 bis 22 Uhr ein Prelistening im SCHATZ IMH
+ OF mit Ardalan Allaf bei freiem Eintritt. Im SASS kostet der Eintritt 10
+ –15 € inklusive Willkommensgetränk. Alle SASS-Veranstaltungen werde
+ n von einem Awareness-Team begleitet\; Einlass ab 18 mit Ausweis- und Ta
+ schenkontrolle.\n\nhttps://rave.wien/e/2026-12-11-votiv-session-with-mat
+ hilda-malounadou-rehorn
 URL:https://rave.wien/e/2026-12-11-votiv-session-with-mathilda-malounadou
  -rehorn
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-samso-night@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T230000
+DTEND;TZID=Europe/Vienna:20261213T050000
+SUMMARY:Samso Night
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Seba\, Alice\, Emina\nEintritt: 10–15 €\n\nSamstagnacht (
+ „Samso Night“) im SASS Music Club von 23 bis 5 Uhr mit Seba\, Alice 
+ und Emina. Eine nähere Beschreibung ist noch nicht veröffentlicht. Ein
+ tritt 10–15 € inklusive Willkommensgetränk. Alle SASS-Veranstaltung
+ en werden von einem Awareness-Team begleitet\; Einlass ab 18 mit Ausweis
+ - und Taschenkontrolle.\n\nhttps://rave.wien/e/2026-12-12-samso-night
+URL:https://rave.wien/e/2026-12-12-samso-night
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-morgengymnastik-entrance@rave.wien
+DTSTAMP:20261213T000000Z
+DTSTART;TZID=Europe/Vienna:20261213T060000
+DTEND;TZID=Europe/Vienna:20261213T110000
+SUMMARY:Morgengymnastik × Entrance
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:entrance\nVeranstalter: Morgengymnastik\, Entrance\nEintritt:
+  15 €\n\nMorgengymnastik\, die Sonntags-Afterhour im SASS Music Club\,
+  wird von 6 bis 11 Uhr von den DJs des Wiener Kollektivs Entrance übern
+ ommen. Eine nähere Beschreibung ist noch nicht veröffentlicht. Eintrit
+ t 15 €. Alle SASS-Veranstaltungen werden von einem Awareness-Team begl
+ eitet\; Einlass ab 18 mit Ausweis- und Taschenkontrolle.\n\nhttps://rave
+ .wien/e/2026-12-13-morgengymnastik-entrance
+URL:https://rave.wien/e/2026-12-13-morgengymnastik-entrance
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-joyce-muniz-im-wohnzimmer@rave.wien

@@ -26,6 +26,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-12-samso-night@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T230000
+DTEND;TZID=Europe/Vienna:20261213T050000
+SUMMARY:Samso Night
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Seba\, Alice\, Emina\nEintritt: 10–15 €\n\nSamstagnacht (
+ „Samso Night“) im SASS Music Club von 23 bis 5 Uhr mit Seba\, Alice 
+ und Emina. Eine nähere Beschreibung ist noch nicht veröffentlicht. Ein
+ tritt 10–15 € inklusive Willkommensgetränk. Alle SASS-Veranstaltung
+ en werden von einem Awareness-Team begleitet\; Einlass ab 18 mit Ausweis
+ - und Taschenkontrolle.\n\nhttps://rave.wien/e/2026-12-12-samso-night
+URL:https://rave.wien/e/2026-12-12-samso-night
+END:VEVENT
+BEGIN:VEVENT
 UID:2025-07-26-techno-entgleist-x-du-tanzt-mich-mal-afterparty@rave.wien
 DTSTAMP:20250726T000000Z
 DTSTART;VALUE=DATE:20250726

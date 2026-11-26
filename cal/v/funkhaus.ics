@@ -84,6 +84,21 @@ DESCRIPTION:Veranstalter: Apartment Acht\nEintritt: 15–25 € (Shop-Tic
 URL:https://rave.wien/e/2026-11-28-apartment-acht-birthday-rave
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-04-bravo-invites@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T220000
+DTEND;TZID=Europe/Vienna:20261205T030000
+SUMMARY:Bravo invites
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:André Dancekowski\, Tanja Turner\n\n„Bravo invites“ im F
+ unkhaus ab 22 Uhr: Eingeladen sind André Dancekowski und die Wiener DJ 
+ und Kuratorin Tanja Turner\, deren Sets zwischen introspektiv-düster un
+ d verspielt-energetisch pendeln. Techno Airlines und RA listen die Nacht
+ \; Preis\, Ende und weitere Details sind bisher nicht veröffentlicht.\n
+ \nhttps://rave.wien/e/2026-12-04-bravo-invites
+URL:https://rave.wien/e/2026-12-04-bravo-invites
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-05-sonic-grounds-ed-5@rave.wien
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=Europe/Vienna:20261205T180000

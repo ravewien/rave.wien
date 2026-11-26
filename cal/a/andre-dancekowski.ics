@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:André Dancekowski · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-04-bravo-invites@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T220000
+DTEND;TZID=Europe/Vienna:20261205T030000
+SUMMARY:Bravo invites
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:André Dancekowski\, Tanja Turner\n\n„Bravo invites“ im F
+ unkhaus ab 22 Uhr: Eingeladen sind André Dancekowski und die Wiener DJ 
+ und Kuratorin Tanja Turner\, deren Sets zwischen introspektiv-düster un
+ d verspielt-energetisch pendeln. Techno Airlines und RA listen die Nacht
+ \; Preis\, Ende und weitere Details sind bisher nicht veröffentlicht.\n
+ \nhttps://rave.wien/e/2026-12-04-bravo-invites
+URL:https://rave.wien/e/2026-12-04-bravo-invites
+END:VEVENT
+END:VCALENDAR

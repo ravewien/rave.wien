@@ -26,6 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-17-heavy-listening-5-season-closing@rave.wien
+DTSTAMP:20261217T000000Z
+DTSTART;TZID=Europe/Vienna:20261217T200000
+DTEND;TZID=Europe/Vienna:20261218T010000
+SUMMARY:HEAVY LISTENING #5 – Season Closing
+LOCATION:Coco Bar\, Lerchenfelder Gürtel Stadtbahnbogen 34–35\, 1080 W
+ ien
+DESCRIPTION:DJ Ebhardy\, A_Phan\nVeranstalter: VLAN\n\nSaisonabschluss de
+ r Listening-Reihe HEAVY LISTENING (VLAN) mit der fünften Ausgabe in der
+  Coco Bar in den Gürtelbögen\, ab 20 Uhr. Es spielen DJ Ebhardy und A_
+ Phan. Die Reihe stellt experimentelle\, dubbige und abstrakte elektronis
+ che Musik in einem Hör-Setting vor\; die letzte Ausgabe am 19.11. koste
+ te 15 €. Preis und Ende für diesen Termin sind noch nicht veröffentl
+ icht.\n\nhttps://rave.wien/e/2026-12-17-heavy-listening-5-season-closing
+URL:https://rave.wien/e/2026-12-17-heavy-listening-5-season-closing
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-19-heavy-listening-with-tanja-turner-mert-seger-heap@rave.wien
 DTSTAMP:20261119T000000Z
 DTSTART;TZID=Europe/Vienna:20261119T200000

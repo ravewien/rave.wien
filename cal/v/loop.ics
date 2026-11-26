@@ -91,6 +91,22 @@ DESCRIPTION:Wisteria\, Hawara\, Miss Undertaker\, Brida\, Ones\, R2D3\nVe
 URL:https://rave.wien/e/2026-12-11-homesounds-local-djs-for-local-homeless
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-12-bird-house@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T235900
+DTEND;TZID=Europe/Vienna:20261213T040000
+SUMMARY:Bird house
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:Veranstalter: Kollektiv Birdhouse\nEintritt: Freie Spende\n\n
+ Neue Ausgabe von „Bird house“ des Wiener Kollektivs Birdhouse in der
+  Loop Bar in den U6-Bögen am Gürtel\, von Mitternacht bis 4 Uhr. Das K
+ ollektiv steht für eine der langlebigsten alternativen Clubnächte Wien
+ s mit Electroclash\, Indie Dance und Underground-Beats. Eintritt gegen f
+ reie Spende\; ein Lineup ist noch nicht veröffentlicht.\n\nhttps://rave
+ .wien/e/2026-12-12-bird-house
+URL:https://rave.wien/e/2026-12-12-bird-house
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-31-psyjungle-new-year-s-eve@rave.wien
 DTSTAMP:20261231T000000Z
 DTSTART;TZID=Europe/Vienna:20261231T220000

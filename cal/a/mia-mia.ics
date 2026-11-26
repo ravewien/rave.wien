@@ -40,6 +40,25 @@ DESCRIPTION:Fabian F\, Mia Mia\nVeranstalter: Donnerstrada\nEintritt frei
 URL:https://rave.wien/e/2026-11-26-donnerstrada
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-06-morgengymnastik@rave.wien
+DTSTAMP:20261206T000000Z
+DTSTART;TZID=Europe/Vienna:20261206T060000
+DTEND;TZID=Europe/Vienna:20261206T110000
+SUMMARY:Morgengymnastik
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Mia Mia\, Anni Herzer\nVeranstalter: Morgengymnastik\nEintrit
+ t: 15 €\n\nMorgengymnastik\, die Sonntags-Afterhour im SASS Music Club
+ \, von 6 bis 11 Uhr mit zwei Wienerinnen: MIA MIA legt seit 2022 auf\, s
+ ammelt leidenschaftlich Platten und gehört zum Wiener YN Collective (
+ „for friends\, by friends“). Anni Herzer ist DJ und Veranstalterin m
+ it eigener Eventreihe\; ihre treibenden Sets kennt man aus Clubs in Öst
+ erreich\, Deutschland und England sowie von Festivals wie Paradies Garte
+ n\, Lighthouse und Garbicz. Eintritt 15 €. Alle SASS-Veranstaltungen w
+ erden von einem Awareness-Team begleitet\; Einlass ab 18 mit Ausweis- un
+ d Taschenkontrolle.\n\nhttps://rave.wien/e/2026-12-06-morgengymnastik
+URL:https://rave.wien/e/2026-12-06-morgengymnastik
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-26-yn-x-bcco-club-night@rave.wien
 DTSTAMP:20260926T000000Z
 DTSTART;VALUE=DATE:20260926

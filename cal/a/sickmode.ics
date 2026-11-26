@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sickmode · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-25-ar-gang-xmas-party-w-malice-sickmode-the-straiker@rave.wien
+DTSTAMP:20261225T000000Z
+DTSTART;TZID=Europe/Vienna:20261225T230000
+DTEND;TZID=Europe/Vienna:20261226T040000
+SUMMARY:AR GANG XMAS PARTY w/ Malice\, Sickmode\, The Straikerz & Levenkh
+ an
+LOCATION:Prater Dome\, Riesenradplatz 7\, 1020 Wien
+DESCRIPTION:Main Floor: Malice\, Sickmode\, The Straikerz\, Levenkhan\, O
+ utlined\nClassics Floor: Dave Defender\nVeranstalter: AR Gang\nEintritt:
+  AK 30 €\n\nChristtags-Party für Harder-Styles-Fans im Prater DOME: D
+ ie Crew AR GANG will „in einer Szene\, in der alles ernst und standard
+ isiert wirkt“\, etwas Albernheit auf die Tanzfläche bringen. Auf dem 
+ Main Floor läuft der AR-GANG-Takeover mit Malice\, Sickmode und Levenkh
+ an\, Special Guest sind The Straikerz\, Support kommt von Outlined. Dazu
+  gibt es den Classics Floor mit Party-Classics von Dave Defender und die
+  Rooftop-Area mit Chill-out-Beats. Einlass ab 23 Uhr\, ab 18\, Abendkass
+ a 30 €.\n\nhttps://rave.wien/e/2026-12-25-ar-gang-xmas-party-w-malice-
+ sickmode-the-straiker
+URL:https://rave.wien/e/2026-12-25-ar-gang-xmas-party-w-malice-sickmode-t
+ he-straiker
+END:VEVENT
+END:VCALENDAR

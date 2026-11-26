@@ -41,6 +41,41 @@ DESCRIPTION:DONAURAVE\nVeranstalter: Morgengymnastik\nEintritt: 15 €\n\
 URL:https://rave.wien/e/2026-11-29-morgengymnastik-donaurave
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-06-morgengymnastik@rave.wien
+DTSTAMP:20261206T000000Z
+DTSTART;TZID=Europe/Vienna:20261206T060000
+DTEND;TZID=Europe/Vienna:20261206T110000
+SUMMARY:Morgengymnastik
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Mia Mia\, Anni Herzer\nVeranstalter: Morgengymnastik\nEintrit
+ t: 15 €\n\nMorgengymnastik\, die Sonntags-Afterhour im SASS Music Club
+ \, von 6 bis 11 Uhr mit zwei Wienerinnen: MIA MIA legt seit 2022 auf\, s
+ ammelt leidenschaftlich Platten und gehört zum Wiener YN Collective (
+ „for friends\, by friends“). Anni Herzer ist DJ und Veranstalterin m
+ it eigener Eventreihe\; ihre treibenden Sets kennt man aus Clubs in Öst
+ erreich\, Deutschland und England sowie von Festivals wie Paradies Garte
+ n\, Lighthouse und Garbicz. Eintritt 15 €. Alle SASS-Veranstaltungen w
+ erden von einem Awareness-Team begleitet\; Einlass ab 18 mit Ausweis- un
+ d Taschenkontrolle.\n\nhttps://rave.wien/e/2026-12-06-morgengymnastik
+URL:https://rave.wien/e/2026-12-06-morgengymnastik
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-13-morgengymnastik-entrance@rave.wien
+DTSTAMP:20261213T000000Z
+DTSTART;TZID=Europe/Vienna:20261213T060000
+DTEND;TZID=Europe/Vienna:20261213T110000
+SUMMARY:Morgengymnastik × Entrance
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:entrance\nVeranstalter: Morgengymnastik\, Entrance\nEintritt:
+  15 €\n\nMorgengymnastik\, die Sonntags-Afterhour im SASS Music Club\,
+  wird von 6 bis 11 Uhr von den DJs des Wiener Kollektivs Entrance übern
+ ommen. Eine nähere Beschreibung ist noch nicht veröffentlicht. Eintrit
+ t 15 €. Alle SASS-Veranstaltungen werden von einem Awareness-Team begl
+ eitet\; Einlass ab 18 mit Ausweis- und Taschenkontrolle.\n\nhttps://rave
+ .wien/e/2026-12-13-morgengymnastik-entrance
+URL:https://rave.wien/e/2026-12-13-morgengymnastik-entrance
+END:VEVENT
+BEGIN:VEVENT
 UID:2025-04-20-morgengymnastik@rave.wien
 DTSTAMP:20250420T000000Z
 DTSTART;VALUE=DATE:20250420

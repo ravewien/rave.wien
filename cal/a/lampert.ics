@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lampert · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-07-landle-takeover-extended@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T230000
+DTEND;TZID=Europe/Vienna:20261208T110000
+SUMMARY:Ländle Takeover extended
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Matteomie\, Kasi\, Xander\, Lampert\, Luke\, Chiara\nEintritt
+ : 10–15 € / ab 06:00 15 €\n\nVorarlberg trifft Wien: Die Ländle-C
+ rew zieht am Abend vor dem Feiertag (8.12.) für eine lange Nacht ins SA
+ SS Music Club ein – Main Night und Afterhour in einem\, von 23 bis 11 
+ Uhr. Hinter den Decks stehen MATTEOMIE (Homeland\, Ecliptic)\, KASI und 
+ XANDER (Market33)\, LAMPERT (Stadtpark Musik) und LUKE (Soundterrasse)\,
+  Unterstützung aus Wien kommt von CHIARA (Aura). Eintritt ab 23 Uhr 10
+ –15 € inklusive Willkommensgetränk\, zur Morgengymnastik ab 6 Uhr 1
+ 5 €. Alle SASS-Veranstaltungen werden von einem Awareness-Team begleit
+ et\; Einlass ab 18 mit Ausweis- und Taschenkontrolle.\n\nhttps://rave.wi
+ en/e/2026-12-07-landle-takeover-extended
+URL:https://rave.wien/e/2026-12-07-landle-takeover-extended
+END:VEVENT
+END:VCALENDAR

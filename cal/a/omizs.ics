@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OMIZS · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-03-donnerstag-nacht@rave.wien
+DTSTAMP:20261203T000000Z
+DTSTART;TZID=Europe/Vienna:20261203T230000
+DTEND;TZID=Europe/Vienna:20261204T060000
+SUMMARY:Donnerstag Nacht
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:OMIZS\, Coco Love\, Rope\nEintritt: 10–15 € / Studierende
+  0–5 €\n\nDonnerstag Nacht im SASS Music Club von 23 bis 6 Uhr – l
+ aut SASS „ein Wiener Herz\, ein Pariser Sonnenstrahl und ein Belgrader
+  Kraftpaket“. OMIZS aus Paris ist seit über sechs Jahren in Clubs und
+  auf Festivals von Ibiza über London bis Los Angeles unterwegs\, hat di
+ e OMIZS-Party erfunden\, ist künstlerischer Leiter des Pariser Clubs Pa
+ mela und hat 2025 das Solum mit 1.500 Leuten ausverkauft. Die Wienerin C
+ oco Love spielt nach dem Motto „Music for the dancers“ und ist auch 
+ als Veranstalterin aktiv. Rope legt seit 2016 auf\, hat in Belgrad die C
+ rew KRШ mitgegründet und spielt dort u. a. im Drugstore\, Para und Kar
+ makoma. Eintritt regulär 10–15 € inklusive Willkommensgetränk\, St
+ udierende 0–5 €. Alle SASS-Veranstaltungen werden von einem Awarenes
+ s-Team begleitet\; Einlass ab 18 mit Ausweis- und Taschenkontrolle.\n\nh
+ ttps://rave.wien/e/2026-12-03-donnerstag-nacht
+URL:https://rave.wien/e/2026-12-03-donnerstag-nacht
+END:VEVENT
+END:VCALENDAR
