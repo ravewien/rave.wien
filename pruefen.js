@@ -435,5 +435,29 @@ window.PRUEF=[
    "https://loop.co.at/event/homesounds-local-djs-for-local-homeless_11_12_26-2/"
   ],
   "karten": []
+ },
+ {
+  "id": "genre-genres-semmelweisklinik-open-decks-27-11",
+  "ts": "2026-11-26",
+  "lauf": "sonderlauf-events-e26",
+  "typ": "genre",
+  "titel": "Genres: Semmelweisklinik Open Decks (27.11.)",
+  "text": "Open-Decks-Abend ohne Lineup; keine Quelle nennt Genres (Techno Airlines ohne Angaben, RA gesperrt). Bitte Genre von Hand setzen oder offen lassen.",
+  "links": [
+   "https://www.technoairlines.com/event/semmelweisklinik-open-decks-semmelweisklinik-2026-11-27"
+  ],
+  "karten": []
+ },
+ {
+  "id": "preis-preis-bassbussi-allstars-27-11-15-11",
+  "ts": "2026-11-26",
+  "lauf": "sonderlauf-events-e26",
+  "typ": "preis",
+  "titel": "Preis Bassbussi Allstars (27.11.): 15 € → 11 €",
+  "text": "The Loft nennt auf der eigenen Eventseite 'Eintritt: € 11'; bisher stand 15 € im Kalender. Auf 11 € geändert – bitte prüfen, ob 15 € evtl. Abendkasse war.",
+  "links": [
+   "https://www.theloft.at/bassbussi-allstars-3-years-anniversary/"
+  ],
+  "karten": []
  }
 ];
