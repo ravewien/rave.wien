@@ -1,0 +1,3 @@
+# Sonderlauf Veranstalter – Liste c13 (2). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Events bei uns
+HERZZZ	links,ig,logo	2026-11-02		2026-12-10 SASS Music Club – Donnerstag Nacht – HERZZZ Weihnachtspunsch
+KSOT	ig	2026-11-04	sc: https://soundcloud.com/keinsonntagohnetechno	2026-12-31 Schloss Cobenzl – The Grand NYE

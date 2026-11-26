@@ -1,0 +1,26 @@
+# Sonderlauf 2 Profile – Liste b14 (25). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Links<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+DJ Observer	sc	2026-10-31	Herkunft: Österreich	https://de.ra.co/dj/djobserver https://www.djobserver.com https://open.spotify.com/artist/2j3TG1qevvAvyzolL4APz5	2026-11-27 Prater Dome (Triple A Events) – Access Another Atmosphere w/ Cosmic Gate & Ruben de Ronde
+Flo Førg	sc	2026-11-02	Herkunft: München	https://ra.co/dj/floforg https://open.spotify.com/artist/4sT1ZdUGQYaJU3zlaBHYBj	2026-11-27 Celeste – Like Minded.
+Mickey Gee	sc	2026-11-03	Herkunft: München; alias: Mikey Gee	https://ra.co/dj/mikeygee	2026-11-27 Funkhaus (Firlefunk) – Cafe Disko x Firlefunk
+ISI	sc	2026-11-04	Herkunft: Wien	https://ra.co/dj/isi-2	2026-11-27 Tagada (Cyclic Existence) – Cyclic Existence
+Golpe	sc	2026-11-03	Herkunft: Tschechien	https://ra.co/dj/golpe	2026-11-27 Das Werk (AUDIO303) – Resident Night: GOLPE // DETOXX
+maro	neu				2026-11-27 The Loft (Bassbussi) – Bassbussi Allstars – 3 Years Anniversary
+Clem Vital	img,links,bio,from	2026-11-09			2026-11-27 SASS Music Club (Frieden & Liebe) – Vivid – Frieden & Liebe
+Mitra	sc	2026-11-04	Herkunft: Wien und München	https://www.instagram.com/_mi.tra__ https://mitra10.bandcamp.com	2026-11-28 Celeste – KÄLTE! das celeste wird 12+1+25
+Philo_	neu				2026-11-28 Tagada (Patches) – Patches
+Splinta	sc	2026-11-03	Herkunft: Wien; Genres: Drum & Bass	https://www.frequency.at/artist/splinta/	2026-11-28 Flex (Switch!) – Switch! presents Primate – Sticks & Stones Europe Tour
+RED GROOVE SYSTEM	neu				2026-11-28 PRST (Red Groove Social Club, It's George) – RED GROOVE (Social Club) with Nick Curly
+Kristus	img,links,bio,from	2026-11-03	alias: KRISTUS		2026-11-28 Das Werk (GDN) – DEAD END Showcase with Paralich pres. by GDN
+LUZZT	sc	2026-10-31	Herkunft: Österreich	https://ra.co/dj/luzzt	2026-11-28 Das Werk (GDN) – DEAD END Showcase with Paralich pres. by GDN | 2026-12-12 FLUCC (CIVIC) – CIVIC: Pressure
+COIDO	sc	2026-11-04	Herkunft: Italien, lebt in Deutschland	https://ra.co/dj/coido https://www.instagram.com/coido__ https://coido.bandcamp.com	2026-11-28 Club Lucia (CitrusCue) – CitrusCue presents COIDO & Wingz
+Frau F	img,links,bio,from	2026-11-03			2026-11-28 Rhiz (SWEAT) – SWEAT
+serene & philosofiesta	neu				2026-11-29 FLUCC (Callshop Radio, Spumante Records) – FLUT x Callshop Radio – Week 48
+POK & Linda Oblique	neu				2026-11-29 FLUCC (Callshop Radio, Spumante Records) – FLUT x Callshop Radio – Week 48
+Testa	sc	2026-11-07	Herkunft: Wien	https://testa1.bandcamp.com	2026-12-03 FLUCC (Restless) – 15 Years Restless – Album Release Party
+DJ Odd	img,links,bio,from	2026-11-03			2026-12-04 Tagada (Off The Grid, Acid Lambada) – Off The Grid x Acid Lambada | 2027-02-06 Club Lucia (sama recordings) – sama recordings pres. schweben
+LNKMN	neu				2026-12-04 Tagada (Off The Grid, Acid Lambada) – Off The Grid x Acid Lambada
+Peletronic	neu				2026-12-04 Tagada (Off The Grid, Acid Lambada) – Off The Grid x Acid Lambada
+KRISTUS	neu				2026-12-04 Das Werk (Ninecircles) – Ninecircles
+DJ Lucy Bakanal	img,links,bio,from	2026-11-03			2026-12-04 FLUCC (Tanz oder gar nicht, Booster Club) – Booster Club
+Chris Freud	sc	2026-10-31	Herkunft: Wien; Genres: Deep House, Minimal House, Tech House	https://ra.co/dj/chrisfreud	2026-12-04 PRST (BLUR) – BLUR with Doudou MD
+Sequent	img	2026-11-03	Herkunft: Wien; Genres: Drum & Bass	https://soundcloud.com/sequentdnb https://www.instagram.com/sequent_dnb/	2026-12-04 FLUCC (Basstrace) – Basstrace | 2026-12-07 Loop (BASST SCHO) – BASST SCHO presents Dru

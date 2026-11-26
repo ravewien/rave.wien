@@ -1,0 +1,26 @@
+# Sonderlauf 2 Profile – Liste b16 (25). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Links<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+STXRLI	img,links,bio,from	2026-11-11			2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Flual	img,links,bio,from	2026-11-03			2026-12-07 The Loft – Männer im Loft | 2026-12-11 The Loft (Titti Queer Club) – Titti Titti Bang Bang
+Serafin	img,links,bio,from	2026-11-03			2026-12-08 Club Exil (Verknallt, TUFF) – Verknallt x TUFF w/ A.N.I. & DJ Dreckisch – Daytime Rave
+j.around	img,links,bio,from	2026-11-03			2026-12-10 SASS Music Club (HERZZZ) – Donnerstag Nacht – HERZZZ Weihnachtspunsch | 2026-12-18 Tagada (Housetiere) – Housetiere with POSI FLO
+LizN	img,from	2026-11-04	Genres: Minimal House, Hardgroove	https://soundcloud.com/lizntome	2026-12-10 SASS Music Club (HERZZZ) – Donnerstag Nacht – HERZZZ Weihnachtspunsch
+Aylean	img,from	2026-11-03		https://soundcloud.com/ayleanx	2026-12-10 SASS Music Club (HERZZZ) – Donnerstag Nacht – HERZZZ Weihnachtspunsch
+Eric Prydz	sc	2026-11-02	Herkunft: Schweden; Genres: Progressive House, Techno; alias: Pryda, Cirez D	https://ra.co/dj/ericprydz https://www.ericprydz.com https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R	2026-12-11 Pyramide Vösendorf (SIGNAL, Captive Soul) – SIGNAL Festival w/ Eric Prydz
+La Destinación Final	img,links,bio,from	2026-11-03			2026-12-11 The Loft (Titti Queer Club) – Titti Titti Bang Bang
+Deleven	img,links,bio,from	2026-11-03			2026-12-11 The Loft (Titti Queer Club) – Titti Titti Bang Bang
+Bella	img,links,bio,from	2026-11-03			2026-12-11 The Loft (Titti Queer Club) – Titti Titti Bang Bang
+Nani Mag. Viech	img,links,bio,from	2026-11-03			2026-12-11 The Loft (Titti Queer Club) – Titti Titti Bang Bang
+Annie High	img,links,bio,from	2026-11-03			2026-12-11 FLUCC (Sniffin´ Glue) – Sniffin´ Glue
+ADHS Lene	img,from	2026-11-03		https://soundcloud.com/adhs_lene	2026-12-11 FLUCC (Sniffin´ Glue) – Sniffin´ Glue
+Saint A	img,links,bio,from	2026-11-03			2026-12-11 Grelle Forelle (Zuckerwatt) – Zuckerwatt w/ Ellen Allien
+Rehorn	img,links,bio,from	2026-11-03			2026-12-11 SASS Music Club (Votiv Session) – votiv session with Mathilda, Malounadou, Rehorn
+Wisteria	img,links,bio,from	2026-11-03			2026-12-11 Loop (Homesounds) – Homesounds – Local DJs for local homeless
+Miss Undertaker	img,links,bio,from	2026-11-03			2026-12-11 Loop (Homesounds) – Homesounds – Local DJs for local homeless
+Altroy Jerome	sc	2026-10-31	Herkunft: Österreich	https://de.ra.co/dj/altroyjerome	2026-12-12 The Loft (Liminal) – Liminal Afterhour #3
+Toge	img,links,bio,from	2026-11-03	Genres: Psytrance		2026-12-12 Das Werk (FromDuskTillDawn, Psytrance Universe) – Psytrance Universe @ Werk
+Enei	neu				2026-12-12 Grelle Forelle (Contrast) – Contrast pres. Dance Macabre w/ Simula + Enei + Skantia
+Skantia	sc	2026-11-04	Herkunft: Newcastle, Vereinigtes Königreich; Genres: Drum & Bass	https://ra.co/dj/skantia https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M	2026-12-12 Grelle Forelle (Contrast) – Contrast pres. Dance Macabre w/ Simula + Enei + Skantia
+Contrast Residents	neu				2026-12-12 Grelle Forelle (Contrast) – Contrast pres. Dance Macabre w/ Simula + Enei + Skantia
+Feli Nightingale	sc	2026-10-31	Herkunft: Wien	https://ra.co/dj/felinightingale https://www.instagram.com/Felinightingale	2026-12-12 Grelle Forelle (Contrast) – Contrast pres. Dance Macabre w/ Simula + Enei + Skantia
+5HA5H	img,from	2026-11-02	Genres: Drum & Bass, Neurofunk	https://soundcloud.com/5ha5h	2026-12-12 Flex (The Hive) – THE HIVE
+carlo kalu	neu				2026-12-18 Das Werk (Herzfrequenz) – HERZFREQUENZ WEEKENDER: DAY 1

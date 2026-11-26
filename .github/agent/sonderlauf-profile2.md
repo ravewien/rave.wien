@@ -16,7 +16,7 @@ Ziel: Bei den Artists mit kommenden Events fehlen noch Bild, Links, Bio und/oder
 Die Startnachricht nennt eine Datei `.github/agent/listen/<id>.txt` (b01 … b10). Jede Zeile (außer der ersten):
 `Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Links<TAB>Auftritte bei uns`
 - Bearbeite GENAU diese Namen in der Reihenfolge der Datei (nächste Events zuerst). Keine anderen. Die ganze Liste abarbeiten.
-- „fehlt“: `neu` = noch kein Eintrag in AR; sonst die fehlenden Teile `img` (Bild), `links` (gar kein Link), `bio`, `from` (Herkunft). Nur das Fehlende suchen.
+- „fehlt“: `neu` = noch kein Eintrag in AR; sonst die fehlenden Teile `img` (Bild), `links` (gar kein Link), `sc` (SoundCloud fehlt, andere Links gibt es schon – gezielt suchen: WebSearch „<Name>“ mit allowed_domains ["soundcloud.com"] und „<Name> soundcloud“; nur übernehmen, wenn Name UND Umfeld passen; wer nachweislich nur Mixcloud/Bandcamp nutzt, bekommt kein sc), `bio`, `from` (Herkunft). Nur das Fehlende suchen. Gefundene SoundCloud-Profile liefern oft auch Bild (Avatar), Bio und Herkunft – gleich mitnehmen, wenn diese fehlen.
 - „zuletzt gesucht“: Datum der letzten Suche; leer = noch nie gesucht.
 - „bekannt“ (Herkunft, Genres, Labels, alias), „Links“ (schon vorhandene Profile) und „Auftritte bei uns“ (Datum, Location, Veranstalter, Eventtitel) dienen dazu, den richtigen Artist zu erkennen und gezielt zu suchen. Mehr steht in AR[Name] in /home/claude/rave.wien/events.js – bei Bedarf per Skript nachsehen (die Datei nie ganz lesen).
 

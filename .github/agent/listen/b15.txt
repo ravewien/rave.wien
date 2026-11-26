@@ -1,0 +1,26 @@
+# Sonderlauf 2 Profile – Liste b15 (25). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Links<TAB>Auftritte bei uns (Kontext zur Identifizierung)
+Nadin	neu				2026-12-04 FLUCC (Basstrace) – Basstrace
+Nobody	neu				2026-12-04 FLUCC (Basstrace) – Basstrace
+Dotworks	neu				2026-12-04 FLUCC (Basstrace) – Basstrace
+Schuechner	neu				2026-12-04 FLUCC (Basstrace) – Basstrace
+Scooped	neu				2026-12-04 FLUCC (Basstrace) – Basstrace
+Vege	neu				2026-12-04 FLUCC (Basstrace) – Basstrace
+Drik&Dirk	neu				2026-12-04 SASS Music Club (Groovers) – Groovers
+Cam Sis	neu				2026-12-05 Club Exil (Tribal Vibes) – Tribal Vibes meets Exil
+Tribal Vibes	neu				2026-12-05 Club Exil (Tribal Vibes) – Tribal Vibes meets Exil
+WaqWaq Kingdom	sc	2026-11-11	Herkunft: Japan / Deutschland	https://ra.co/dj/waqwaqkingdom https://www.instagram.com/waqwaqkingdom/ https://waqwaqkingdom.com/ https://open.spotify.com/artist/4in9NY36a5EllSTje5liC5	2026-12-05 WUK (Palazzo Recordings) – Elektro Guzzi & Special Guests – Palazzo Festival
+VIBECHEN	neu				2026-12-05 Grelle Forelle (Techno Entgleist, LSH) – Techno Entgleist w/ Nakadia & BOHO
+DANLOE	neu				2026-12-05 Grelle Forelle (Techno Entgleist, LSH) – Techno Entgleist w/ Nakadia & BOHO
+TONY V	neu				2026-12-05 Grelle Forelle (Techno Entgleist, LSH) – Techno Entgleist w/ Nakadia & BOHO
+TRÈS JULIE	neu				2026-12-05 Grelle Forelle (Techno Entgleist, LSH) – Techno Entgleist w/ Nakadia & BOHO
+ANDATA	neu				2026-12-05 PRST (Achterbahn) – Anna Ullrich pres. Achterbahn w/ ANDATA
+TONKS	neu				2026-12-05 Club Lucia (KRAWALL) – KRAMPUS RAVE by KRAWALL
+Catlex	img,links,bio,from	2026-11-03			2026-12-06 Funkhaus (Untz Baby Untz) – Untz Baby Untz – Nikolo im Funkhaus
+Eren Duman	img,from	2026-11-03		https://soundcloud.com/erenduman	2026-12-07 FLUCC (Garten von Eben, unlock|me) – Expedition im Traumtempo by Garten von Eben & unlock|me
+Otto Wagina	img,from	2026-11-04		https://soundcloud.com/ottowagina	2026-12-07 FLUCC (Garten von Eben, unlock|me) – Expedition im Traumtempo by Garten von Eben & unlock|me
+Moodshifter	neu				2026-12-07 FLUCC (Garten von Eben, unlock|me) – Expedition im Traumtempo by Garten von Eben & unlock|me
+Yoshiko	sc	2026-11-11	Herkunft: Italien	https://ra.co/dj/yoshiko	2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Lekkerfaces	sc	2026-11-11	Herkunft: Italien (lebt in den Niederlanden)	https://ra.co/dj/lekkerfaces https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349	2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Another Dimension	img,links,bio,from	2026-11-03			2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Reflexx	img	2026-11-11	Herkunft: Deutschland; Genres: Uptempo, Hardcore, Hardstyle	https://soundcloud.com/officialreflexx https://open.spotify.com/artist/3jQC1xm2BCJY3T5mG66pZ0	2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special
+Cryoonix	img,links,bio,from	2026-11-11			2026-12-07 Event Arena Vösendorf (Hardline) – HARDLINE: COLD WAR – A Winter Special

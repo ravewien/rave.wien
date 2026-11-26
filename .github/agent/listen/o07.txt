@@ -1,0 +1,8 @@
+# Sonderlauf Locations – Liste o07 (7). Format: Name<TAB>fehlt<TAB>zuletzt gesucht<TAB>bekannt<TAB>Events bei uns
+SASS Music Club	opened	2026-11-02	Adresse: Karlsplatz 1, 1010 · web: https://sassvienna.com/	2026-11-26 Donnerstag Nacht | 2026-11-27 Vivid – Frieden & Liebe
+Funkhaus	opened	2026-11-02	Adresse: Argentinierstraße 30a, 1040 · web: https://www.funkhaus.wien	2026-11-27 Cafe Disko x Firlefunk | 2026-11-28 Apartment Acht Birthday Rave
+Kramladen	web	2026-11-02	Adresse: U-Bahnbogen 39–40, Lerchenfelder Gürtel, 1080	2026-11-26 Konzept x Dark Pressure | 2026-11-28 Xperiment Nights
+Wiener Würstelstand Spittelau	opened	2026-11-02	Adresse: U-Bahn-Station Spittelau, 1090 · web: https://www.wienerwue.at/	2026-11-27 DJ WIFI presents HOTSPOT | 2026-12-04 Soundlabs am Würstelstand
+Altia Skybar – DC Tower	opened	2026-11-02	Adresse: Donau-City-Straße 7, 1220 · web: https://www.melia.com/de/hotels/osterreich/wien/melia-vienna/restaurants/altia-skybar	2026-11-27 AWSM. Skyscraper Edition (Extra Date) | 2026-11-28 AWSM. Skyscraper Edition
+Club U	opened	2026-11-03	Adresse: Karlsplatz, 1010 · web: https://club-u.at	2026-12-05 Du Tanzt Mich Mal – Winter Open Air: Punsch Rave (Day & Night) | 2026-12-19 Du Tanzt Mich Mal – Winter Open Air: Punsch Rave
+The Inner Circle	opened	2026-11-03	Adresse: Altmannsdorfer Straße 144, 1230 · web: https://theinnercircle.at/	2026-12-05 allowed to drift
