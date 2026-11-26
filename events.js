@@ -2967,7 +2967,8 @@ const CI={
    "https://rainbowtime.super.site/events-database/klub-halal-magic",
    "https://www.tickettailor.com/events/klubhalal/1852704"
   ],
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/klubhalal.jpg"
  },
  "Habibi Party": {
   "from": "Wien",
@@ -3051,7 +3052,8 @@ const CI={
  "50 Herz": {
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/50.herz/"
+  "ig": "https://www.instagram.com/50.herz/",
+  "logo": "https://rave.wien/logos/ig/50.herz.jpg"
  },
  "Cybertribe": {
   "de": "Wiener Techno-Kollektiv, das seit rund 2015 Clubnächte mit internationalen Gästen veranstaltet, u. a. im Flex, in der PRST, im B72, im Opera Club und im The Loft – teils gemeinsam mit Crews wie Misguided, Mahlwerk, VNV Kollektiv oder NEXUS.",
@@ -3108,7 +3110,8 @@ const CI={
   ],
   "infoChk": "2026-11-15",
   "web": "https://hiddensociety.at/",
-  "ig": "https://www.instagram.com/hiddensocietyvie/"
+  "ig": "https://www.instagram.com/hiddensocietyvie/",
+  "logo": "https://rave.wien/logos/ig/hiddensocietyvie.jpg"
  },
  "Bassclub": {
   "noLogo": "2026-11-15",
@@ -3211,7 +3214,8 @@ const CI={
    "https://ra.co/promoters/196842"
   ],
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/superego_records/"
+  "ig": "https://www.instagram.com/superego_records/",
+  "logo": "https://rave.wien/logos/ig/superego_records.jpg"
  },
  "TUFF": {
   "de": "Bounce-Partyreihe („Viennas bounce hub“), die unter dem Motto „Hard. Fast. TUFF.“ im Club Exil Bounce und Hardbounce spielt.",
@@ -3235,7 +3239,8 @@ const CI={
   "src": [
    "https://www.clublucia.at/event/drum-bassick-x-radiance/"
   ],
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/radiance.at.jpg"
  },
  "Kaisa Bodega": {
   "noLogo": "2026-11-15",
@@ -3293,7 +3298,8 @@ const CI={
   "alias": [
    "FIFI Rave"
   ],
-  "ig": "https://www.instagram.com/fifi__rave"
+  "ig": "https://www.instagram.com/fifi__rave",
+  "logo": "https://rave.wien/logos/ig/fifi__rave.jpg"
  },
  "Radio Rudina": {
   "de": "Unabhängiges Wiener Musik- und Kulturkollektiv mit 24/7-Webradio, Live-Shows und Events, etwa regelmäßigen Partys im PRST.",
@@ -3331,7 +3337,8 @@ const CI={
    "Reihe"
   ],
   "from": "Wien",
-  "ig": "https://www.instagram.com/pompadourist"
+  "ig": "https://www.instagram.com/pompadourist",
+  "logo": "https://rave.wien/logos/ig/pompadourist.jpg"
  },
  "Raqsouna": {
   "de": "Von Qamareen (Luna Al-Mousli) gegründete Wiener Partyreihe („Raqsouna – Make Us Dance!“) mit Musik und Musiker:innen aus der SWANA-Region und darüber hinaus, die die BIPOC-Diaspora feiern und einen achtsamen Raum bieten will; mit Live-Acts und den Residents Qamareen und Abu Naima u. a. im Club Lucia und im Flucc.",
@@ -3401,7 +3408,8 @@ const CI={
  "AMBIEVENT": {
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/ambievent_/"
+  "ig": "https://www.instagram.com/ambievent_/",
+  "logo": "https://rave.wien/logos/ig/ambievent_.jpg"
  },
  "Das Syndikat": {
   "noLogo": "2026-11-15",
@@ -3437,7 +3445,8 @@ const CI={
   "ig": "https://www.instagram.com/tanzdichgluecklich/",
   "src": [
    "https://flucc.at/events/iXY45x-tanz-dich-glucklich/"
-  ]
+  ],
+  "logo": "https://rave.wien/logos/ig/tanzdichgluecklich.jpg"
  },
  "Vision Serpent": {
   "de": "Techno-Label aus Österreich zwischen Techno, Minimal und Psytech, kuratiert von Gründer David Phoenix; veranstaltet auch Label-Showcases.",
@@ -3502,7 +3511,8 @@ const CI={
    "https://de.ra.co/events/2445175"
   ],
   "noLogo": "2026-11-15",
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/hektisch.vie.jpg"
  },
  "GLITCH": {
   "web": "https://www.enter-glitch.com/",
@@ -3690,7 +3700,8 @@ const CI={
    "https://de.ra.co/dj/magsi",
    "https://de.ra.co/dj/leondiamant"
   ],
-  "ig": "https://www.instagram.com/cardio.cult/"
+  "ig": "https://www.instagram.com/cardio.cult/",
+  "logo": "https://rave.wien/logos/ig/cardio.cult.jpg"
  },
  "Spectral": {
   "de": "Techno-Reihe im Wiener Kramladen mit internationalen und österreichischen Gästen, u. a. Kollaborationen mit Crews wie Sonic Spinz (Innsbruck); musikalisch zwischen Acid, melodischem und treibendem Techno. Veranstaltungen 2026 meist bei freiem Eintritt.",
@@ -3707,7 +3718,8 @@ const CI={
   ],
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/enterspectral/"
+  "ig": "https://www.instagram.com/enterspectral/",
+  "logo": "https://rave.wien/logos/ig/enterspectral.jpg"
  },
  "S.O.U.L.": {
   "de": "Wiener Verein, der unter dem Titel „S.O.U.L. Utopia“ sexpositive Partynächte veranstaltet, im November 2026 bereits zum 56. Mal. Laut eigener Website will S.O.U.L. „alle Menschen in (Selbst)liebe zusammenführen und das Leben zelebrieren“. Der Fokus liegt auf einvernehmlichen Begegnungen und gemeinsamem Tanzen; der Veranstaltungsort wird erst mit dem Ticket bekanntgegeben.",
@@ -3769,7 +3781,8 @@ const CI={
   ],
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
-  "lt": "https://linktr.ee/tribalvibes"
+  "lt": "https://linktr.ee/tribalvibes",
+  "logo": "https://rave.wien/logos/ig/tribalvibes3.jpg"
  },
  "Tropical Thunder": {
   "de": "Wiener Partyreihe mit tropischen und balearischen Sounds – von Vintage-Südafrika, Karibik, Compas, Soca, Afrobeat und Tropicália bis Retro-Zouk, French Boogie und Indie Dance. Seit mindestens 2020 aktiv, u. a. in der Gönnerbar, im FLUCC, in der Pratersauna, am Porto Pollo (Open Air) und im Funkhaus; das Format „Noche d'Amore“ entstand 2025 für die Wiener Festwochen.",
@@ -3802,7 +3815,8 @@ const CI={
    "https://ra.co/promoters/192705"
   ],
   "noLogo": "2026-11-15",
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/untz.baby.untz.jpg"
  },
  "Resonance Social Artists": {
   "de": "Crew aus Mailand, befreundet mit der Reihe GLITCH; LLo (IT) von Resonance Social Artists spielt im Dezember 2026 bei GLITCH Vienna im The Loft.",
@@ -3847,7 +3861,8 @@ const CI={
  "Liminal": {
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/liminal.vienna/"
+  "ig": "https://www.instagram.com/liminal.vienna/",
+  "logo": "https://rave.wien/logos/ig/liminal.vienna.jpg"
  },
  "Ausländer Haus": {
   "de": "Wiener Partyreihe mit multikulturellem Fokus: Afro House, Latin und orientalische Beats, aufgelegt von DJs aus dem Globalen Süden (u. a. Chile, Ägypten, Uganda, Indien, Nigeria). Stationen u. a. Cafe Derwisch Partykeller, FLUCC und Celeste; mittlerweile über 20 Ausgaben.",
@@ -3863,7 +3878,8 @@ const CI={
   ],
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/auslander_haus/"
+  "ig": "https://www.instagram.com/auslander_haus/",
+  "logo": "https://rave.wien/logos/ig/auslander_haus.jpg"
  },
  "Pirotecnia": {
   "de": "Chilenisches Label (gegründet 2014) für House, Techno, Global Beats und Experimentelles mit elektronischen lateinamerikanischen Rhythmen; laut RA Mitveranstalter des Wien-Abends mit DJ Raff im Fanialive.",
@@ -3893,7 +3909,8 @@ const CI={
    "https://ra.co/events/2518279"
   ],
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/hallraum.vienna/"
+  "ig": "https://www.instagram.com/hallraum.vienna/",
+  "logo": "https://rave.wien/logos/ig/hallraum.vienna.jpg"
  },
  "Firlefunk": {
   "de": "Wiener Disco- und Funk-Abende, gemeinsam mit Cafe Disko u. a. im Fanialive und im Funkhaus (mit Gästen wie Diskohengst); auch zu Gast bei Callshop Radio.",
@@ -3945,7 +3962,8 @@ const CI={
    "https://ra.co/events/1761838"
   ],
   "infoChk": "2026-11-15",
-  "noLogo": "2026-11-15"
+  "noLogo": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/redgroovesocialclub.jpg"
  },
  "Nachtschub": {
   "de": "Trance- und Techno-Reihe im Wiener Das Werk, veranstaltet von Gesindel der Nacht; regelmäßige FLINTA*-Editionen mit bewusst FLINTA*-only Line-ups, strikter No-Photo-Policy und geschultem Awareness-Team, dazu Specials wie eine Schranz-&-Bounce-Edition.",
