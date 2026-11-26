@@ -8,7 +8,7 @@ Die Startnachricht nennt eine Datei `.github/agent/listen/<id>.txt`. Jede Zeile 
 - „fehlt“: neu = noch kein Eintrag; sonst die fehlenden Felder (img, links, bio, from bzw. bei Veranstaltern text, links, logo).
 - „zuletzt gesucht“: Steht dort ein Datum, wurde RA schon geprüft → RA überspringen und gleich andere Quellen nehmen.
 - Die Spalte „Auftritte/Events bei uns“ hilft beim Identifizieren: Name UND Umfeld (Wien, diese Clubs/Veranstalter, Genre) müssen passen. Bei Namensgleichheit mit anderen Personen weglassen.
-- Ist ein Name offensichtlich kein Artist (z. B. „Special Guest“, „Residents“, „Friends“, „Live Act“, „+ more“, Veranstaltungs- oder Floorname): KEINEN Eintrag anlegen, in der Abschluss-Nachricht unter „kein Artist“ nennen.
+- Ist ein Name offensichtlich kein Artist (z. B. „Open Decks“, „Special Guest“, „Residents“, „Friends“, „Live Act“, „+ more“, Veranstaltungs- oder Floorname): KEINEN Eintrag anlegen, in der Abschluss-Nachricht unter „kein Artist“ nennen.
 
 ## Tempo (viele Einträge, meist kleine lokale Acts)
 - Pro Artist normalerweise höchstens 3 Suchen und 2 Seitenabrufe:
