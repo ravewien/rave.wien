@@ -6929,7 +6929,10 @@ const VI={
   "io": [
    "Indoor",
    "Outdoor"
-  ]
+  ],
+  "ig": "https://www.instagram.com/semmelweisklinik/",
+  "logo": "https://imgproxy.ra.co/_/quality:66/h:180/w:180/extend:1/rt:fill/enlarge:1/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL2NsdWJzL3NlbW1lbHdlaXNrbGluaWsuanBnP2RhdGVVcGRhdGVkPTE3MjYwODc4Mzc0MzM=",
+  "man": 1
  },
  "Arena Wien": {
   "de": "Kulturzentrum im ehemaligen Schlachthof St. Marx, vor allem Konzerte; elektronische Events v. a. Drum-&-Bass-Nächte (z. B. ELEMNT).",
