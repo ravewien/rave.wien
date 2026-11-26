@@ -1,5 +1,4 @@
 # Nacht-Schub 26./27.11.2026 – Warteschlange. Jeder Lauf nimmt die oberste Zeile (und löscht sie per Commit), dann arbeitet er sie ab.
-Profile 2, Liste b16
 Events, Liste e30
 Veranstalter, Liste c13
 Locations, Liste o07
