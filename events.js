@@ -14554,8 +14554,8 @@ const AR={
    "ig": "https://www.instagram.com/glitzerundbass"
   },
   "bio": {
-   "de": "Wiener Techno-Act, der u. a. im FLUCC, Club U, Volksgarten Pavillon (das techno cafe) und bei Himmel und Wasser aufgelegt hat. Außerdem gebucht für das Bachblyten Festival 2026.",
-   "en": "Vienna-based techno act that has played FLUCC, Club U, Volksgarten Pavillon (das techno cafe) and Himmel und Wasser, and was booked for Bachblyten Festival 2026."
+   "de": "Mit einer großen Leidenschaft für Dark Disco und Tech House versprechen Marie's Sets eine Reise durch treibende Bässe und hypnotisierende Melodien, die selbst die müdesten Füsse zum Dancen bringen! Glitzer & Bass - der Name ist Programm - es gibt immer viel Glitzer hinter den Decks und ganz viel Bass davor!",
+   "en": "With a deep passion for Dark Disco and Tech House, Marie's sets promise a journey through driving basslines and hypnotic melodies that will get even the most tired feet dancing! Glitter & Bass – just like the name says: there's always plenty of glitter behind the decks and loads of bass in front of them!"
   },
   "from": {
    "de": "Österreich",
@@ -14577,7 +14577,8 @@ const AR={
   ],
   "alias": [
    "Glitzer und Bass"
-  ]
+  ],
+  "man": 1
  },
  "Nafaka & Lipo": {
   "noImg": "2026-11-03",
