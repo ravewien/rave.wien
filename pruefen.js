@@ -529,5 +529,41 @@ window.PRUEF=[
    "https://ra.co/events/2593941"
   ],
   "karten": []
+ },
+ {
+  "id": "doppelt-kristus-kristus-doppeleintrag",
+  "ts": "2026-11-26",
+  "lauf": "nacht-schub-b14",
+  "typ": "doppelt",
+  "titel": "KRISTUS / Kristus – Doppeleintrag?",
+  "text": "In AR gibt es „Kristus“ (alias KRISTUS) und „KRISTUS“, beide mit Techno-Auftritten (Das Werk: GDN 28.11., Ninecircles 04.12.). Vermutlich derselbe Artist.",
+  "links": [],
+  "karten": []
+ },
+ {
+  "id": "link-splinta-soundcloud-kandidaten",
+  "ts": "2026-11-26",
+  "lauf": "nacht-schub-b14",
+  "typ": "link",
+  "titel": "Splinta – SoundCloud-Kandidaten",
+  "text": "Mehrere SoundCloud-Profile „Splinta“ (splintadnb, splintaofficial, therealsplinta) – keines eindeutig dem Wiener Switch!-DJ zuzuordnen. Ein Set „Janex b2b Splinta (Switch!)“ liegt bei vlan.radio.",
+  "links": [
+   "https://soundcloud.com/splintadnb",
+   "https://soundcloud.com/therealsplinta",
+   "https://soundcloud.com/vlanradio/switch-210521"
+  ],
+  "karten": []
+ },
+ {
+  "id": "spotify-peletronic-spotify-artistseite",
+  "ts": "2026-11-26",
+  "lauf": "nacht-schub-b14",
+  "typ": "spotify",
+  "titel": "Peletronic – Spotify-Artistseite",
+  "text": "Auf Spotify gibt es EPs von Peletronic (Secret Escape, About the Void, Sanguine), die Artist-ID ließ sich ohne Abruf nicht ermitteln.",
+  "links": [
+   "https://open.spotify.com/album/5Air0uKpyWVHJu5gezb5Q9"
+  ],
+  "karten": []
  }
 ];
