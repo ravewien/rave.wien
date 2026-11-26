@@ -565,5 +565,60 @@ window.PRUEF=[
    "https://open.spotify.com/album/5Air0uKpyWVHJu5gezb5Q9"
   ],
   "karten": []
+ },
+ {
+  "id": "link-art-nadin-links-sc",
+  "ts": "2026-11-26",
+  "lauf": "nacht-schub-b15",
+  "typ": "link",
+  "titel": "Nadin – SoundCloud dj_nadin?",
+  "text": "SoundCloud-Profil „Nadin“ (dj_nadin) gefunden, aber ohne erkennbaren Bezug zu Basstrace/Wien. Sets von Nadin laufen über den Basstrace-Kanal.",
+  "links": [
+   "https://soundcloud.com/dj_nadin",
+   "https://soundcloud.com/basstrace/nadin-euphoria"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "art",
+   "op": "edit",
+   "key": "Nadin",
+   "title": "Nadin",
+   "data": {
+    "links.sc": "https://soundcloud.com/dj_nadin"
+   }
+  }
+ },
+ {
+  "id": "link-art-tonks-links-sc",
+  "ts": "2026-11-26",
+  "lauf": "nacht-schub-b15",
+  "typ": "link",
+  "titel": "Tonks – SoundCloud tonks-1?",
+  "text": "Suchtreffer „tonks 1“ bei einer Suche nach Tonks/Krawall, aber ohne belegten Bezug zur Krawall-Reihe.",
+  "links": [
+   "https://soundcloud.com/tonks-1"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "art",
+   "op": "edit",
+   "key": "Tonks",
+   "title": "Tonks",
+   "data": {
+    "links.sc": "https://soundcloud.com/tonks-1"
+   }
+  }
+ },
+ {
+  "id": "hinweis-drik-dirk-instagram-hendrik-urban",
+  "ts": "2026-11-26",
+  "lauf": "nacht-schub-b15",
+  "typ": "hinweis",
+  "titel": "Drik&Dirk – Instagram @hendrik.urban",
+  "text": "SASS nennt bei Drik&Dirk das Instagram @hendrik.urban (persönliches Konto eines Mitglieds, Handle passt nicht zum Act-Namen) – nicht eingetragen.",
+  "links": [
+   "https://sassvienna.com/de/programm/event/groovers"
+  ],
+  "karten": []
  }
 ];
