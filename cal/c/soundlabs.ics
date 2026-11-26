@@ -26,6 +26,24 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-04-soundlabs-am-wurstelstand@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T180000
+DTEND;TZID=Europe/Vienna:20261204T230000
+SUMMARY:Soundlabs am Würstelstand
+LOCATION:Wiener Würstelstand Spittelau\, U-Bahn-Station Spittelau\, 1090
+  Wien
+DESCRIPTION:Krawallbarbie\nVeranstalter: Soundlabs\n\nDie Wiener Crew Sou
+ ndlabs – bekannt für den kostenlosen Open-Air „ressel:rave“ im Re
+ sselpark – übernimmt die „Auflegerei“ am Wiener Würstelstand bei
+  der U4-Station Spittelau. Laut Eventprogramm des Würstelstands legt Kr
+ awallbarbie auf\, die in der Wiener Techno-Szene u. a. bei ELEKTRA und T
+ echno.Kult in der Grelle Forelle gespielt hat. Beginn 18:00\; Preis\, En
+ de und weitere Acts sind nicht angegeben.\n\nhttps://rave.wien/e/2026-12
+ -04-soundlabs-am-wurstelstand
+URL:https://rave.wien/e/2026-12-04-soundlabs-am-wurstelstand
+END:VEVENT
+BEGIN:VEVENT
 UID:2025-04-12-soundlabs-pres-the-jakob-sister-face2face-sabu@rave.wien
 DTSTAMP:20250412T000000Z
 DTSTART;VALUE=DATE:20250412

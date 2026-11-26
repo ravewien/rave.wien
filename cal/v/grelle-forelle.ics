@@ -58,13 +58,14 @@ DTEND;TZID=Europe/Vienna:20261129T040000
 SUMMARY:Selected × Bassbussi w/ Cara Elizabeth & Frederic.
 LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Mainfloor: Cara Elizabeth\, Frederic.\, Andrew Ahmed\nVeranst
- alter: Selected\, Bassbussi\nEintritt: ab 19\,50 € (oeticket)\n\nGemei
- nsame Nacht von Selected und dem Kollektiv Bassbussi in der Grelle Forel
- le. Am Mainfloor spielen Cara Elizabeth\, Frederic. und Andrew Ahmed\, d
- ie Kitchen wird von Bassbussi gehostet (Lineup noch offen). Einlass und 
- Abendkassa ab 23:00\, Vorverkauf über oeticket (aktuell ab 19\,50 €).
- \n\nhttps://rave.wien/e/2026-11-28-selected-bassbussi-w-cara-elizabeth-f
- rederic
+ alter: Selected\, Bassbussi\nEintritt: VVK 21\,50 € (Phase Three\, zzg
+ l. Gebühr\; frühere Phasen vergriffen)\n\nGemeinsame Nacht von Selecte
+ d und dem Kollektiv Bassbussi in der Grelle Forelle. Am Mainfloor spiele
+ n Cara Elizabeth\, Frederic. und Andrew Ahmed\, die Kitchen wird von Bas
+ sbussi gehostet (Lineup noch offen). Einlass und Abendkassa ab 23:00\, V
+ orverkauf über oeticket (aktuell nur noch Phase Three um 21\,50 €).\n
+ \nhttps://rave.wien/e/2026-11-28-selected-bassbussi-w-cara-elizabeth-fre
+ deric
 URL:https://rave.wien/e/2026-11-28-selected-bassbussi-w-cara-elizabeth-fr
  ederic
 END:VEVENT
@@ -200,6 +201,23 @@ DESCRIPTION:Mainfloor: Malugi\, Vivienna\, Aschenbrenner\nKitchen: Chiara
 URL:https://rave.wien/e/2026-12-19-15yrs-grelle-forelle-malugi
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-31-nye2027-grelle-forelle@rave.wien
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Vienna:20261231T220000
+DTEND;TZID=Europe/Vienna:20270101T030000
+SUMMARY:NYE2027 | Grelle Forelle
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Eintritt: ab 21\,50 € (Phase One\, zzgl. Gebühr)\n\nSilves
+ ter in der Grelle Forelle: Der Club an der Spittelauer Lände feiert den
+  Jahreswechsel 2026/27 mit der eigenen Nacht „NYE2027“. Veranstalter
+  laut oeticket ist Turbo-Projects\, die Betreiberfirma der Grelle Forell
+ e. Beginn 22:00\; das Lineup ist noch nicht angekündigt und die Nacht s
+ teht noch nicht im Programm auf der Club-Website. Vorverkauf über oetic
+ ket\, aktuell Phase One um 21\,50 € (frühere Stufe vergriffen).\n\nht
+ tps://rave.wien/e/2026-12-31-nye2027-grelle-forelle
+URL:https://rave.wien/e/2026-12-31-nye2027-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-16-contrast-pres-the-return-of-noisia@rave.wien
 DTSTAMP:20270116T000000Z
 DTSTART;TZID=Europe/Vienna:20270116T230000
@@ -238,20 +256,22 @@ BEGIN:VEVENT
 UID:2027-02-06-push-w-gigi-fm@rave.wien
 DTSTAMP:20270206T000000Z
 DTSTART;TZID=Europe/Vienna:20270206T230000
-DTEND;TZID=Europe/Vienna:20270207T040000
+DTEND;TZID=Europe/Vienna:20270207T060000
 SUMMARY:PUSH w/ GiGi FM
 LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Mainfloor: GiGi FM\, Mischa Beton\, GYDAH\, Karolina\, Pink O
- paque\nKitchen: Malou\, Tonks\, WO.IZZY\nVeranstalter: PUSH\n\nDie Wiene
- r Reihe PUSH holt GiGi FM für ihr Wien-Debüt in die Grelle Forelle. Di
- e in Berlin lebende Künstlerin ist DJ\, Tänzerin und Produzentin und f
- ür ihren emotionalen\, genreübergreifenden Zugang zu elektronischer Mu
- sik bekannt. Am Mainfloor spielen außerdem Mischa Beton\, GYDAH und Kar
- olina\, eröffnet wird mit einem Live-Set von Pink Opaque\; in der Kitch
- en legen Malou\, Tonks und WO.IZZY auf. Einlass und Abendkassa ab 23:00.
-  Laut Hausregeln keine Fotos und Videos\, kein Oberkörper frei\; ein Aw
- areness-Team ist ansprechbar.\n\nhttps://rave.wien/e/2027-02-06-push-w-g
- igi-fm
+ paque\nKitchen: Malou\, Tonks\, WO.IZZY\nVeranstalter: PUSH\nEintritt: V
+ VK 13\,50–16\,50 € (Phase 1/2\; Super Early Bird 9 € und Early Bir
+ d 11 € vergriffen)\n\nDie Wiener Reihe PUSH (push Network) holt GiGi F
+ M für ihr Wien-Debüt in die Grelle Forelle. Die in Berlin lebende Kün
+ stlerin ist DJ\, Tänzerin und Produzentin und für ihren emotionalen\, 
+ genreübergreifenden Zugang zu elektronischer Musik bekannt. Am Mainfloo
+ r spielen außerdem Mischa Beton\, GYDAH und Karolina\, eröffnet wird m
+ it einem Live-Set von Pink Opaque\; in der Kitchen legen Malou\, Tonks u
+ nd WO.IZZY auf. Hausregeln: kein Fotografieren oder Filmen\, Shirts blei
+ ben an\, Awareness-Team vor Ort. Achtung Datum: Die Grelle Forelle nennt
+  den 06.02.\, der Ticketshop ntry dagegen Freitag\, 05.02.2027\, 23:00
+ –06:00.\n\nhttps://rave.wien/e/2027-02-06-push-w-gigi-fm
 URL:https://rave.wien/e/2027-02-06-push-w-gigi-fm
 END:VEVENT
 BEGIN:VEVENT
@@ -281,6 +301,22 @@ DESCRIPTION:Veranstalter: Mahlwerk\n\nDas Wiener DJ-Kollektiv Mahlwerk k
  Lineup\, Beginnzeit und Ticketdetails sind noch nicht veröffentlicht.\n
  \nhttps://rave.wien/e/2027-03-20-mahlwerk-grelle-forelle
 URL:https://rave.wien/e/2027-03-20-mahlwerk-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-02-alarico-b2b-kenji-hina-all-night-long@rave.wien
+DTSTAMP:20270402T000000Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:Alarico b2b Kenji Hina All Night Long
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alarico\, Kenji Hina\n\nAll-Night-Long-Set von Alarico b2b Ke
+ nji Hina in der Grelle Forelle in der Nacht von 2. auf 3. April 2027. Al
+ arico ist ein Techno-DJ und Produzent aus Mailand\, bekannt für rohen\,
+  nach vorne gerichteten Techno mit 90er-Einflüssen und schnellen Tempi.
+  Das Event ist bei oeticket gelistet\, der Vorverkauf startet laut Ticke
+ tshop in Kürze\; Beginn und Preis sind noch nicht angegeben.\n\nhttps:/
+ /rave.wien/e/2027-04-02-alarico-b2b-kenji-hina-all-night-long
+URL:https://rave.wien/e/2027-04-02-alarico-b2b-kenji-hina-all-night-long
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-09-mahlwerk-grelle-forelle@rave.wien

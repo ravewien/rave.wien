@@ -26,6 +26,22 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2027-04-02-alarico-b2b-kenji-hina-all-night-long@rave.wien
+DTSTAMP:20270402T000000Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:Alarico b2b Kenji Hina All Night Long
+LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Alarico\, Kenji Hina\n\nAll-Night-Long-Set von Alarico b2b Ke
+ nji Hina in der Grelle Forelle in der Nacht von 2. auf 3. April 2027. Al
+ arico ist ein Techno-DJ und Produzent aus Mailand\, bekannt für rohen\,
+  nach vorne gerichteten Techno mit 90er-Einflüssen und schnellen Tempi.
+  Das Event ist bei oeticket gelistet\, der Vorverkauf startet laut Ticke
+ tshop in Kürze\; Beginn und Preis sind noch nicht angegeben.\n\nhttps:/
+ /rave.wien/e/2027-04-02-alarico-b2b-kenji-hina-all-night-long
+URL:https://rave.wien/e/2027-04-02-alarico-b2b-kenji-hina-all-night-long
+END:VEVENT
+BEGIN:VEVENT
 UID:2024-05-17-fish-market-w-alarico-mutual-rytm-gerald-vdh-schl@rave.wien
 DTSTAMP:20240517T000000Z
 DTSTART;VALUE=DATE:20240517

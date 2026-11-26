@@ -26,6 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-11-forbidden-frequency-am-wurstelstand@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T180000
+DTEND;TZID=Europe/Vienna:20261211T230000
+SUMMARY:Forbidden Frequency am Würstelstand
+LOCATION:Wiener Würstelstand Spittelau\, U-Bahn-Station Spittelau\, 1090
+  Wien
+DESCRIPTION:Veranstalter: Forbidden Frequency\n\nDas junge Wiener DJ-Koll
+ ektiv Forbidden Frequency\, das Nachwuchs-DJs fördert und sonst Partys 
+ mit Techno\, Trance\, House und Drum & Bass u. a. in Club Lucia\, Loop u
+ nd Kramladen veranstaltet\, übernimmt die „Auflegerei“ am Wiener W
+ ürstelstand bei der U4-Station Spittelau. Beginn 18:00\; welche Crew-DJ
+ s spielen\, sowie Preis und Ende sind nicht angegeben.\n\nhttps://rave.w
+ ien/e/2026-12-11-forbidden-frequency-am-wurstelstand
+URL:https://rave.wien/e/2026-12-11-forbidden-frequency-am-wurstelstand
+END:VEVENT
+BEGIN:VEVENT
 UID:2027-01-15-forbidden-frequency@rave.wien
 DTSTAMP:20270115T000000Z
 DTSTART;TZID=Europe/Vienna:20270115T233000

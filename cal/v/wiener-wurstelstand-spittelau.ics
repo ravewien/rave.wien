@@ -33,11 +33,49 @@ DTEND;TZID=Europe/Vienna:20261127T230000
 SUMMARY:DJ WIFI presents HOTSPOT
 LOCATION:Wiener Würstelstand Spittelau\, U-Bahn-Station Spittelau\, 1090
   Wien
-DESCRIPTION:Dj Wifi\n\n„HOTSPOT“ ist ein Abend von DJ Wifi am Wiener 
- Würstelstand bei der Spittelau – einem Imbiss\, an dem regelmäßig D
- Js auflegen. Beginn 18:00. Weitere Acts\, Preis und Ende sind nicht ange
- geben.\n\nhttps://rave.wien/e/2026-11-27-dj-wifi-presents-hotspot
+DESCRIPTION:Dj Wifi\, DJ Wolle\, Bebesotas\, DJ Bissick\, Aleta\n\n„HOT
+ SPOT“ ist ein Abend von DJ Wifi & Friends am Wiener Würstelstand bei 
+ der U4-Station Spittelau – einem Bio-Würstelstand\, an dem regelmäß
+ ig DJs auflegen (Reihe „Auflegerei“). Laut Eventprogramm des Würste
+ lstands spielen DJ Wifi\, DJ Wolle\, Bebesotas\, DJ Bissick und Aleta. B
+ eginn 18:00\; Preis und Ende sind nicht angegeben.\n\nhttps://rave.wien/
+ e/2026-11-27-dj-wifi-presents-hotspot
 URL:https://rave.wien/e/2026-11-27-dj-wifi-presents-hotspot
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-soundlabs-am-wurstelstand@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T180000
+DTEND;TZID=Europe/Vienna:20261204T230000
+SUMMARY:Soundlabs am Würstelstand
+LOCATION:Wiener Würstelstand Spittelau\, U-Bahn-Station Spittelau\, 1090
+  Wien
+DESCRIPTION:Krawallbarbie\nVeranstalter: Soundlabs\n\nDie Wiener Crew Sou
+ ndlabs – bekannt für den kostenlosen Open-Air „ressel:rave“ im Re
+ sselpark – übernimmt die „Auflegerei“ am Wiener Würstelstand bei
+  der U4-Station Spittelau. Laut Eventprogramm des Würstelstands legt Kr
+ awallbarbie auf\, die in der Wiener Techno-Szene u. a. bei ELEKTRA und T
+ echno.Kult in der Grelle Forelle gespielt hat. Beginn 18:00\; Preis\, En
+ de und weitere Acts sind nicht angegeben.\n\nhttps://rave.wien/e/2026-12
+ -04-soundlabs-am-wurstelstand
+URL:https://rave.wien/e/2026-12-04-soundlabs-am-wurstelstand
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-forbidden-frequency-am-wurstelstand@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T180000
+DTEND;TZID=Europe/Vienna:20261211T230000
+SUMMARY:Forbidden Frequency am Würstelstand
+LOCATION:Wiener Würstelstand Spittelau\, U-Bahn-Station Spittelau\, 1090
+  Wien
+DESCRIPTION:Veranstalter: Forbidden Frequency\n\nDas junge Wiener DJ-Koll
+ ektiv Forbidden Frequency\, das Nachwuchs-DJs fördert und sonst Partys 
+ mit Techno\, Trance\, House und Drum & Bass u. a. in Club Lucia\, Loop u
+ nd Kramladen veranstaltet\, übernimmt die „Auflegerei“ am Wiener W
+ ürstelstand bei der U4-Station Spittelau. Beginn 18:00\; welche Crew-DJ
+ s spielen\, sowie Preis und Ende sind nicht angegeben.\n\nhttps://rave.w
+ ien/e/2026-12-11-forbidden-frequency-am-wurstelstand
+URL:https://rave.wien/e/2026-12-11-forbidden-frequency-am-wurstelstand
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-drum-bass-am-wurstelstand@rave.wien
