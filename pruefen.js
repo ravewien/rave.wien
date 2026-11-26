@@ -459,5 +459,27 @@ window.PRUEF=[
    "https://www.theloft.at/bassbussi-allstars-3-years-anniversary/"
   ],
   "karten": []
+ },
+ {
+  "id": "hinweis-ev-2027-02-06-push-w-gigi-fm-d",
+  "ts": "2026-11-26",
+  "lauf": "laptop-lauf",
+  "typ": "hinweis",
+  "titel": "PUSH w/ GiGi FM: Datum 05.02. oder 06.02.2027?",
+  "text": "Die Grelle Forelle führt das Event am 06/02, der Ticketshop ntry (Veranstalter push Network) nennt Freitag 05.02.2027 23:00–06:00; auch der Flyer-Dateiname lautet „…_270205_…“. Vermutlich ist der 05.02. richtig.",
+  "links": [
+   "https://ntry.at/pushxgrelleforelle/performances/28097?l=de",
+   "https://www.grelleforelle.com/project/0602-push-w-gigi-fm/"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "ev",
+   "op": "edit",
+   "key": "2027-02-06-push-w-gigi-fm",
+   "title": "Datum auf 2027-02-05 ändern",
+   "data": {
+    "d": "2027-02-05"
+   }
+  }
  }
 ];
