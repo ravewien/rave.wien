@@ -26,6 +26,25 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-12-psytrance-universe-werk@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T230000
+DTEND;TZID=Europe/Vienna:20261213T060000
+SUMMARY:Psytrance Universe @ Werk
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Universe Mainfloor: MAWO\, Surina\, Anatol\, Toge\, Glitzer &
+  Bass\nGalaxy Luster Floor: Norg3n\, Trixidal\, Van Atius\, Askeladd\, K
+ reta\, Illicit\nVeranstalter: FromDuskTillDawn\, Psytrance Universe\nEin
+ tritt: VVK 12–18 €\n\nPsytrance-Nacht der Reihe Psytrance Universe v
+ on FromDuskTillDawn im Werk. Laut aktualisiertem goabase-Eintrag läuft 
+ sie von Samstag 23:00 bis Sonntag 06:00\; electronicdancemusic.at führt
+  sie ebenfalls mit 23:00–06:00 und verlinkt den Vorverkauf bei sunmoon
+ .ticket.io. Dort kosten die Tickets je nach Phase 12 € (Early Bird) bi
+ s 18 € (Final Phase). Das Lineup ist noch nicht veröffentlicht.\n\nht
+ tps://rave.wien/e/2026-12-12-psytrance-universe-werk
+URL:https://rave.wien/e/2026-12-12-psytrance-universe-werk
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-im-freudentaumel@rave.wien
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Vienna:20261106T230000
