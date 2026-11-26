@@ -620,5 +620,18 @@ window.PRUEF=[
    "https://sassvienna.com/de/programm/event/groovers"
   ],
   "karten": []
+ },
+ {
+  "id": "hinweis-altia-skybar-dc-tower-eroffnungsjahr-2014-oder-2025",
+  "ts": "2026-11-27",
+  "lauf": "nacht-schub-o07",
+  "typ": "hinweis",
+  "titel": "Altia Skybar – DC Tower: Eröffnungsjahr 2014 oder 2025?",
+  "text": "Die Skybar im 58. Stock gibt es seit der Eröffnung des Hotels Meliá Vienna im DC Tower (Februar 2014); unter dem Namen Altia (Konzept von Íñigo Urrechu) wurde sie laut Leadersnet im November 2025 neu eröffnet. Bitte entscheiden, welches Jahr als Eröffnung gelten soll.",
+  "links": [
+   "https://www.leadersnet.at/news/94703,ein-restaurant-erfindet-sich-neu-ueber-den-daechern-der-stadt.html",
+   "https://www.hospitalitynet.org/news/4063866/melia-debuts-in-austria-with-february-2014-opening-of-253-room-melia-vienna"
+  ],
+  "karten": []
  }
 ];
