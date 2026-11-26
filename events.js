@@ -11917,10 +11917,15 @@ const AR={
  },
  "Altroy Jerome": {
   "links": {
-   "ra": "https://de.ra.co/dj/altroyjerome"
+   "ra": "https://de.ra.co/dj/altroyjerome",
+   "sc": "https://soundcloud.com/altroy",
+   "bc": "https://altroy.bandcamp.com/",
+   "ig": "https://www.instagram.com/altroyjerome/"
   },
   "src": [
-   "https://de.ra.co/dj/altroyjerome"
+   "https://de.ra.co/dj/altroyjerome",
+   "https://elevate.at/en/music/artists/altroy_jerome/",
+   "https://altroy.bandcamp.com/"
   ],
   "from": {
    "de": "Österreich",
@@ -11931,8 +11936,22 @@ const AR={
    "de": "US-amerikanischer DJ und Produzent mit Wohnsitz in Österreich. Bekannt für die Verbindung von deepen, souligen Sounds mit elektronischen Rhythmen. Spielt regelmäßig in Wiener Clubs wie FLUCC, PRST, Das Werk und Black Market.",
    "en": "US-born DJ and producer based in Austria. Known for fusing deep, soulful music with electronic rhythms and melodies. Plays regularly at Viennese clubs such as FLUCC, PRST, Das Werk and Black Market."
   },
-  "infoChk": "2026-10-31",
-  "spChk": "2026-11-20"
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-20",
+  "alias": [
+   "Altroy"
+  ],
+  "sets": [
+   {
+    "t": "Altroy Jerome (A Party Called Jack) - 18/11/22",
+    "u": "https://soundcloud.com/vlanradio/altroyjerome-181122"
+   },
+   {
+    "t": "Altroy Jerome for 4 To The Floor",
+    "u": "https://soundcloud.com/4tothefloorcollective/altroy-jerome-for-4-to-the-floor"
+   }
+  ],
+  "setsChecked": "2026-11-27"
  },
  "saschka": {
   "img": "https://static.ra.co/images/profiles/square/saschka.jpg?dateUpdated=1790180348463",
@@ -12122,9 +12141,9 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "Saint A": {
-  "noImg": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "noImg": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "noLinks": "2026-11-27",
   "spChk": "2026-11-23"
  },
  "Foxloe": {
@@ -12197,9 +12216,9 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "Deleven": {
-  "noImg": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "noImg": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "noLinks": "2026-11-27",
   "spChk": "2026-11-26"
  },
  "Ryta Tale": {
@@ -12254,9 +12273,9 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "Flual": {
-  "noImg": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "noImg": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "noLinks": "2026-11-27",
   "spChk": "2026-11-20"
  },
  "Bloodsugar": {
@@ -12407,9 +12426,9 @@ const AR={
   }
  },
  "Miss Undertaker": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
   "spChk": "2026-11-18"
  },
  "Sportacore": {
@@ -12691,9 +12710,9 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "Wisteria": {
-  "noImg": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "noImg": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "noLinks": "2026-11-27",
   "spChk": "2026-11-18"
  },
  "Sanex": {
@@ -12859,15 +12878,15 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "Bella": {
-  "noImg": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "noImg": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "noLinks": "2026-11-27",
   "spChk": "2026-11-26"
  },
  "Nani Mag. Viech": {
-  "noImg": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "noImg": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "noLinks": "2026-11-27",
   "spChk": "2026-11-26"
  },
  "TRMT": {
@@ -12876,9 +12895,9 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "La Destinación Final": {
-  "noImg": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "noImg": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "noLinks": "2026-11-27",
   "spChk": "2026-11-26"
  },
  "Humi": {
@@ -13622,9 +13641,9 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "j.around": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
   "spChk": "2026-11-15"
  },
  "Lenz Rausch": {
@@ -13967,7 +13986,7 @@ const AR={
    "https://ra.co/events/2323484",
    "https://ra.co/dj/felinightingale"
   ],
-  "infoChk": "2026-10-31",
+  "infoChk": "2026-11-27",
   "spChk": "2026-11-15"
  },
  "Techflex": {
@@ -17027,9 +17046,9 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Serafin": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
   "spChk": "2026-11-15"
  },
  "Dave & Bass": {
@@ -17257,9 +17276,9 @@ const AR={
   ]
  },
  "Toge": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
   "coll": [
    "Orion"
   ],
@@ -17787,7 +17806,8 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/ericprydz",
    "web": "https://www.ericprydz.com",
-   "sp": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+   "sp": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R",
+   "sc": "https://soundcloud.com/eric-prydz"
   },
   "from": {
    "de": "Schweden",
@@ -17812,10 +17832,26 @@ const AR={
   ],
   "src": [
    "https://ra.co/dj/ericprydz",
-   "https://ra.co/dj/ericprydz/biography"
+   "https://ra.co/dj/ericprydz/biography",
+   "https://soundcloud.com/eric-prydz"
   ],
-  "infoChk": "2026-11-02",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-15",
+  "sets": [
+   {
+    "t": "Prydz X Olander - Essential Mix (3 Jan 2015)",
+    "u": "https://soundcloud.com/eric-prydz/prydz-x-olander-essential-mix"
+   },
+   {
+    "t": "Eric Prydz - Essential Mix 2013 (Essential Mix of the Year)",
+    "u": "https://soundcloud.com/eric-prydz/eric-prydz-essential-mix-2013"
+   },
+   {
+    "t": "Eric Prydz - Essential Mix 2011 (Live @ Creamfields)",
+    "u": "https://soundcloud.com/eric-prydz/eric-prydz-essential-mix-live"
+   }
+  ],
+  "setsChecked": "2026-11-27"
  },
  "Inaya": {
   "links": {
@@ -18659,9 +18695,9 @@ const AR={
   "spChk": "2026-11-15"
  },
  "Annie High": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-27",
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
   "spChk": "2026-11-20"
  },
  "Boris Brejcha": {
@@ -18910,8 +18946,8 @@ const AR={
   "src": [
    "https://soundcloud.com/adhs_lene"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-27",
+  "noImg": "2026-11-27",
   "bio": {
    "de": "ADHS Lene ist eine DJ, die in Wien u. a. bei Sniffin´ Glue im FLUCC und bei Invitation im Celeste auflegt. 2020 war sie Gast der Sendung Welia auf Retreat Radio.",
    "en": "ADHS Lene is a DJ who plays in Vienna at Sniffin´ Glue at FLUCC and Invitation at Celeste, among others. In 2020 she was a guest on the show Welia on Retreat Radio."
@@ -21507,8 +21543,8 @@ const AR={
    "https://soundcloud.com/5ha5h/history-of-eatbrain-contest-mix",
    "https://soundcloud.com/eatbrain/eatbrain-radio-s03e08-hosted-by-5ha5h"
   ],
-  "infoChk": "2026-11-02",
-  "noImg": "2026-11-02",
+  "infoChk": "2026-11-27",
+  "noImg": "2026-11-27",
   "spChk": "2026-11-20"
  },
  "Valentin Zelz": {
@@ -26027,8 +26063,8 @@ const AR={
   "src": [
    "https://soundcloud.com/ayleanx/aylean-x-fm4-la-boum-deluxe"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-27",
+  "noImg": "2026-11-27",
   "spChk": "2026-11-26"
  },
  "Sømnus": {
@@ -26460,22 +26496,23 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/enei",
    "sc": "https://soundcloud.com/enei",
-   "sp": "https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J"
+   "sp": "https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J",
+   "bc": "https://eneicritical.bandcamp.com/",
+   "ig": "https://www.instagram.com/eneimusique/"
   },
   "bio": {
-   "de": "Drum-&-Bass-Produzent und DJ aus Russland (bürgerlich Alexey Egorchenkov), aktiv seit 2003. Seine erste Platte erschien 2007 auf Fokuz; heute ist er vor allem mit Critical Music verbunden, wo u. a. seine Alben und die EP „Divided Mode“ erschienen.",
-   "en": "Drum & bass producer and DJ from Russia (real name Alexey Egorchenkov), active since 2003. His first record came out on Fokuz in 2007; today he is closely associated with Critical Music, which has released his albums and the 'Divided Mode' EP."
+   "de": "Enei ist ein Drum-&-Bass-Produzent und DJ aus St. Petersburg, bekannt für seinen dunklen, technischen Sound. Nach frühen Releases auf Fokuz, Blu Saphir, Cyanide und Citrus nahm ihn Kasra 2010 für Critical Music unter Vertrag. Seit 2011 veröffentlicht er exklusiv auf Critical und gewann im selben Jahr bei den Drum & Bass Arena Awards den Preis als Best Newcomer Producer.",
+   "en": "Enei is a drum & bass producer and DJ from St. Petersburg, known for his dark, technical sound. After early releases on Fokuz, Blu Saphir, Cyanide and Citrus, Kasra signed him to Critical Music in 2010. He has been exclusive to Critical since 2011 and that year won Best Newcomer Producer at the Drum & Bass Arena Awards."
   },
   "from": {
-   "de": "Russland",
-   "en": "Russia"
+   "de": "St. Petersburg, Russland",
+   "en": "St. Petersburg, Russia"
   },
   "alias": [
    "Enei"
   ],
   "labels": [
-   "Critical Music",
-   "Fokuz"
+   "Critical Music"
   ],
   "genres": [
    "Drum & Bass"
@@ -26483,25 +26520,27 @@ const AR={
   "src": [
    "https://ra.co/dj/enei",
    "https://ra.co/news/44050",
-   "https://ra.co/news/31790"
+   "https://ra.co/news/31790",
+   "https://www.musicmetricsvault.com/artists/enei/6X3QjCYg5HcTwO5FPVQj0J",
+   "https://eneicritical.bandcamp.com/"
   ],
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-27",
   "sets": [
    {
-    "t": "Enei - BBC Radio 1 Guest Mix (13.08.2019)",
-    "u": "https://soundcloud.com/enei/enei-bbc-radio-1-guest-mix-13082019"
-   },
-   {
-    "t": "Feature Mix 012 - Enei [Drum & Bass]",
-    "u": "https://soundcloud.com/onesevenfourco/feature-mix-012-enei"
+    "t": "Enei DJ mix (Critical Music x Let It Roll 2022)",
+    "u": "https://soundcloud.com/let-it-roll-recordings/enei-dj-mix-critical-music-x-let-it-roll-2022"
    },
    {
     "t": "UKF Podcast #133 - Enei's \"All Enei\" Mix",
     "u": "https://soundcloud.com/ukf/ukf-podcast-133-eneis-all-enei-mix"
+   },
+   {
+    "t": "Critical Music #DNB60 mixed by Enei (BBC Radio 1 Friction D&B Show, August 2017)",
+    "u": "https://soundcloud.com/critical-music/critical-music-dnb60-mixed-by-enei-bbc-radio-1-friction-db-show-august-2017"
    }
   ],
-  "setsChecked": "2026-11-15",
-  "spChk": "2026-11-15"
+  "setsChecked": "2026-11-27",
+  "spChk": "2026-11-27"
  },
  "Eargasm God": {
   "img": "https://static.ra.co/images/profiles/square/eargasmgod.jpg?dateUpdated=1685614922000",
@@ -32783,9 +32822,9 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "Rehorn": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-27",
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
   "spChk": "2026-11-24"
  },
  "Micyvid": {
@@ -39329,39 +39368,42 @@ const AR={
    "ig": "https://www.instagram.com/carlokalumusic"
   },
   "from": {
-   "de": "Bremen, Deutschland",
-   "en": "Bremen, Germany"
+   "de": "Deutschland",
+   "en": "Germany"
   },
   "bio": {
-   "de": "carlo kalu ist ein Hard-Techno-DJ und Produzent aus Bremen, dessen energiegeladener Sound Einflüsse aus Hands-up, House und frühem Hardstyle aufnimmt. In Bremen spielte er mit dem Kollektiv CCR und tritt in Clubs und auf Festivals in Deutschland und Europa auf, in Wien regelmäßig im Das Werk. Releases erschienen u. a. auf WAXXA, MOTZ, MELTDOWN, H33 Records, Tx Records, MASS und The Finest Techno.",
-   "en": "carlo kalu is a hard techno DJ and producer from Bremen whose high-energy sound draws on hands-up, house and early hardstyle. In Bremen he played with the collective CCR, and he performs at clubs and festivals across Germany and Europe, regularly at Das Werk in Vienna. His releases have come out on WAXXA, MOTZ, MELTDOWN, H33 Records, Tx Records, MASS and The Finest Techno, among others."
+   "de": "carlo kalu ist ein DJ und Produzent aus Deutschland. Er veröffentlicht harte, schnelle Edits („Even Harder“, „Neorave“) sowie Tracks u. a. auf Whalien, MASS, H33 Records und Tx Records.",
+   "en": "carlo kalu is a DJ and producer from Germany. He releases hard, fast edits (\"Even Harder\", \"Neorave\") and tracks on labels such as Whalien, MASS, H33 Records and Tx Records."
   },
   "labels": [
-   "WAXXA",
-   "MOTZ",
-   "MELTDOWN",
-   "H33 Records",
-   "Tx Records",
+   "Whalien",
    "MASS",
-   "Dreizehn Schallplatten",
-   "The Finest Techno"
+   "H33 Records"
   ],
   "genres": [
-   "Hard Techno"
+   "Hard Techno",
+   "Neo-Rave"
   ],
   "sets": [
    {
-    "t": "CARLO KALU @ Tracks Insanas Podcast 304",
+    "t": "CARLO KALU - @Tracks Insanas Podcast 304 - [Germany]",
     "u": "https://soundcloud.com/tracksinsanas/carlo-kalu-tracks-insanas-podcast-304-germany"
+   },
+   {
+    "t": "Mutabor Series 017 - Carlo Kalu",
+    "u": "https://soundcloud.com/mutabor-erfurt/mutabor-series-017-carlo-kalu"
    }
   ],
-  "setsChecked": "2026-11-04",
-  "infoChk": "2026-11-04",
+  "setsChecked": "2026-11-27",
+  "infoChk": "2026-11-27",
   "src": [
    "https://de.ra.co/dj/carlokalu",
-   "https://de.ra.co/dj/carlokalu/biography"
+   "https://de.ra.co/dj/carlokalu/biography",
+   "https://soundcloud.com/carlokalu/tracks",
+   "https://set79.com/dj/Carlo%20Kalu"
   ],
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-27",
+  "noImg": "2026-11-27"
  },
  "Themba": {
   "img": "https://static.ra.co/images/profiles/square/themba.jpg?dateUpdated=1757583689000",
@@ -46869,7 +46911,8 @@ const AR={
   "img": "https://static.ra.co/images/profiles/square/skantia.jpg?dateUpdated=1725529357000",
   "links": {
    "ra": "https://ra.co/dj/skantia",
-   "sp": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+   "sp": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M",
+   "sc": "https://soundcloud.com/skantia"
   },
   "from": {
    "de": "Newcastle, Vereinigtes Königreich",
@@ -46886,9 +46929,10 @@ const AR={
    "en": "Drum & bass producer and DJ from Newcastle, signed exclusively to RAM. He started out in 2015 selling tickets for the local night Dilate, where he later became a resident; inspired by Culture Shock and Noisia."
   },
   "src": [
-   "https://ra.co/dj/skantia/biography"
+   "https://ra.co/dj/skantia/biography",
+   "https://soundcloud.com/skantia/corkscrew-feat-annix"
   ],
-  "infoChk": "2026-11-04",
+  "infoChk": "2026-11-27",
   "sets": [
    {
     "t": "PRG:MIX015 – Skantia (RAM Records)",
@@ -49277,8 +49321,8 @@ const AR={
    "https://soundcloud.com/lizntome",
    "https://de.ra.co/events/2113496"
   ],
-  "infoChk": "2026-11-04",
-  "noImg": "2026-11-04",
+  "infoChk": "2026-11-27",
+  "noImg": "2026-11-27",
   "setsChecked": "2026-11-04",
   "spChk": "2026-11-26"
  },
@@ -51725,9 +51769,9 @@ const AR={
   ]
  },
  "STXRLI": {
-  "infoChk": "2026-11-11",
-  "noImg": "2026-11-11",
-  "noLinks": "2026-11-11"
+  "infoChk": "2026-11-27",
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27"
  },
  "Tapanov": {
   "links": {
