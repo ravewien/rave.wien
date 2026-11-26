@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-/aO7WybPyoUulXVQ7UgEKtHko4MgazFea+2bxai27hU=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-zdHZEnL3OBYvHDcZ2V+SMl4CZIS7S+o7Z0mBsrTzx8Q=' 'sha256-6ZGOnvDwMTDPpj3BkmeSv89/1kAMNTnPPnMMTkGMyhI='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-UwTgCtsmuVD6kKljVTDlZpsPIj2HEVUMEbfnueqjp54=' 'sha256-it0K3qzdTyrMa3xeJ1F724GB6zXPL6LNRgjahQe1omc=' 'sha256-jFBE86HtYhw0oCMzlAOiSDOnoaZnLhb7kU2/whMJD/k=' 'sha256-Pqd6juWkLbqRC13d46A4u9qXhGWJ/DhH2r/9DAddk00=' 'sha256-TyvuaUE/RG86f8ehj3d8h6eAm8oDtL6jrSMT5FZMv5o=' 'sha256-1OsrFcTt5HN3jpNbhuSgylTDmcxVCtxEtADiyxyowvg=' 'sha256-D8hqLRPMxW4Td5tVQmSvRzPX9Mb+z4o1tozVIrYyFQk=' 'sha256-zdHZEnL3OBYvHDcZ2V+SMl4CZIS7S+o7Z0mBsrTzx8Q=' 'sha256-Ok6VE/H4RDOKjSTIEuiBZKFTV41TBJO4SrVAcPsNZdE='; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data: https:; frame-src https://w.soundcloud.com https://www.mixcloud.com https://player-widget.mixcloud.com https://open.spotify.com; connect-src 'self' https://ravedotwien.goatcounter.com; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="Alle Techno-, House- und Rave-Events in Wien auf einen Blick: Lineups, Timetables, Preise, Locations, Kollektive und Artists – täglich aktualisiert.">
 <meta property="og:site_name" content="rave.wien">
@@ -1241,7 +1241,7 @@ if(document.readyState==='loading')addEventListener('DOMContentLoaded',init);els
 window.rwKopfSchnee=()=>{try{const run=()=>{
  const top=document.querySelector('header.top');if(!top||top.querySelector('canvas.kschnee'))return;const c=document.createElement('canvas');c.className='kschnee';c.setAttribute('aria-hidden','true');c.style.cssText='position:absolute;inset:0;width:100%;height:100%;z-index:-1;pointer-events:none;image-rendering:pixelated';top.prepend(c);
  const g=c.getContext('2d'),PX=3;let W,H,F=[],last=0;const size=()=>{W=Math.max(1,Math.round(top.clientWidth/PX));H=Math.max(1,Math.round(top.clientHeight/PX));c.width=W;c.height=H};size();addEventListener('resize',size);
- for(let i=0;i<Math.round(W*H/(innerWidth>=880?109:76));i++)F.push({x:Math.random()*W,y:Math.random()*H,v:.08+Math.random()*.16,s:Math.random()*6,big:Math.random()<.18});
+ for(let i=0;i<Math.round(W*H/76);i++)F.push({x:Math.random()*W,y:Math.random()*H,v:.08+Math.random()*.16,s:Math.random()*6,big:Math.random()<.18});
  const draw=()=>{g.clearRect(0,0,W,H);for(const f of F){const x=Math.round(f.x+Math.sin(f.s)*2),y=Math.round(f.y);g.fillStyle='#fff';g.globalAlpha=f.big?.85:.55;if(f.big){g.fillRect(x,y-1,1,3);g.fillRect(x-1,y,3,1)}else g.fillRect(x,y,1,1)}g.globalAlpha=1};
  if(matchMedia('(prefers-reduced-motion: reduce)').matches){draw();return}
  const step=t=>{requestAnimationFrame(step);if(document.hidden||t-last<40)return;last=t;for(const f of F){f.y+=f.v;f.s+=.03;if(f.y>H+2){f.y=-2;f.x=Math.random()*W}}draw()};requestAnimationFrame(step)
@@ -2742,12 +2742,12 @@ body.prmode .browser>.side,body.prmode .browser>.mid{display:none!important}
 <div class="edmod" id="edask" hidden style="z-index:240;align-items:center"><div class="edbox" style="width:min(420px,100%)"><p id="edaskt" style="margin:0 0 14px;font-size:15px;line-height:1.4"></p><div class="edact" style="margin:0"><span></span><div class="r"><button type="button" id="edaskn">Abbrechen</button><button type="button" class="save" id="edasky">OK</button></div></div></div></div>
 
 <script>
-// Schneefall im Hintergrund: im Dezember und ab dem ersten Schnee (ig/plan.json "schnee_ab"); dichter, solange es in Wien gerade schneit (Wetterdaten).
+// Schnee im Seitenkopf: im Dezember und ab dem ersten Schnee (ig/plan.json "schnee_ab"); dichter, solange es in Wien gerade schneit (Wetterdaten).
 (()=>{try{const still=matchMedia("(prefers-reduced-motion: reduce)").matches;
   const today=new Date().toLocaleDateString("sv-SE",{timeZone:"Europe/Vienna"}),m=+today.slice(5,7);
   const schneitJetzt=()=>{try{const W=window.WX;if(!W||!W.v)return false;const h=Math.floor((Date.now()-new Date(W.t0+":00+01:00").getTime())/36e5);let n=0,t=0;
     for(const v of Object.values(W.v)){const c=v.C&&v.C[h];if(c==null)continue;t++;if((c>=71&&c<=77)||c===85||c===86)n++}return t>0&&n/t>=.3}catch(_){return false}};
-  const go=dicht=>{if(window.rwKopfSchnee)window.rwKopfSchnee();if(still)return;const cv=document.createElement("canvas");cv.id="snowfx";cv.setAttribute("aria-hidden","true");document.body.prepend(cv);document.documentElement.classList.add("snow");
+  const go=dicht=>{if(window.rwKopfSchnee)window.rwKopfSchnee();return;/* Schnee nur im Seitenkopf – im Hintergrund war es zu ablenkend */const cv=document.createElement("canvas");cv.id="snowfx";cv.setAttribute("aria-hidden","true");document.body.prepend(cv);document.documentElement.classList.add("snow");
     // gleiche Flocken, Dichte und Geschwindigkeit wie im Seitenkopf (3-px-Raster), damit alles ein Schneefall ist
     cv.style.imageRendering="pixelated";const g=cv.getContext("2d"),PX=3;let W=0,H=0,F=[],last=0;
     const flocke=a=>({x:Math.random()*W,y:a?Math.random()*H:-2,v:.08+Math.random()*.16,s:Math.random()*6,big:Math.random()<.18});
