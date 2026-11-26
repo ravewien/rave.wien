@@ -12337,10 +12337,10 @@ const AR={
   ]
  },
  "Kristus": {
-  "noImg": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "spChk": "2026-11-23",
+  "noImg": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "spChk": "2026-11-26",
   "alias": [
    "KRISTUS"
   ]
@@ -12769,7 +12769,8 @@ const AR={
  "LUZZT": {
   "img": "https://static.ra.co/images/profiles/square/luzzt.jpg?dateUpdated=1692132918000",
   "links": {
-   "ra": "https://ra.co/dj/luzzt"
+   "ra": "https://ra.co/dj/luzzt",
+   "sc": "https://soundcloud.com/luzztiger"
   },
   "from": {
    "de": "Österreich",
@@ -12784,8 +12785,22 @@ const AR={
    "https://ra.co/events/2143849",
    "https://ra.co/dj/luzzt"
   ],
-  "infoChk": "2026-10-31",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-15",
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "LUZZT – Gesindel Podcast 011",
+    "u": "https://soundcloud.com/gesindel-der-nacht/gesindel-podcast011"
+   },
+   {
+    "t": "LUZZT – Gesindel Podcast 005",
+    "u": "https://soundcloud.com/gesindel-der-nacht/gesindelpodcast-005"
+   }
+  ],
+  "setsChecked": "2026-11-26"
  },
  "Qaoz": {
   "img": "https://static.ra.co/images/profiles/square/qaoz.jpg?dateUpdated=1722523267000",
@@ -13082,13 +13097,18 @@ const AR={
   "links": {
    "ra": "https://de.ra.co/dj/djobserver",
    "web": "https://www.djobserver.com",
-   "sp": "https://open.spotify.com/artist/2j3TG1qevvAvyzolL4APz5"
+   "sp": "https://open.spotify.com/artist/2j3TG1qevvAvyzolL4APz5",
+   "sc": "https://soundcloud.com/djobserver"
   },
   "src": [
    "https://de.ra.co/dj/djobserver"
   ],
-  "infoChk": "2026-10-31",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-15",
+  "genres": [
+   "Trance"
+  ],
+  "setsChecked": "2026-11-26"
  },
  "THAM": {
   "img": "https://static.ra.co/images/profiles/tham.jpg?dateUpdated=1471451515047",
@@ -13827,10 +13847,14 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Frau F": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "spChk": "2026-11-20"
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-20",
+  "genres": [
+   "Breakbeat",
+   "Techno"
+  ]
  },
  "DJ Handgepäck": {
   "noImg": "2026-11-03",
@@ -14332,10 +14356,7 @@ const AR={
    "en": "Germany (based in Austria)"
   },
   "genres": [
-   "Techno",
-   "Trance",
-   "Hardgroove",
-   "Breakbeat"
+   "Trance"
   ],
   "bio": {
    "de": "In Deutschland geborener, in Österreich ansässiger DJ und Produzent. Bekannt für energiegeladene, genreübergreifende Sets, die Techno, Trance und Hardgroove mit Breakbeats verbinden.",
@@ -14345,7 +14366,7 @@ const AR={
    "https://ra.co/events/2523457",
    "https://de.ra.co/dj/maro"
   ],
-  "infoChk": "2026-10-31",
+  "infoChk": "2026-11-26",
   "sets": [
    {
     "t": "maro – no lullaby (Mahlwerk Artist Set MWK007)",
@@ -14353,10 +14374,12 @@ const AR={
    }
   ],
   "setsChecked": "2026-11-02",
-  "spChk": "2026-11-18",
+  "spChk": "2026-11-26",
   "alias": [
    "maro"
-  ]
+  ],
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26"
  },
  "Who is Ela¿": {
   "img": "https://static.ra.co/images/profiles/square/whoisela%C2%BF.jpg?dateUpdated=1774034559527",
@@ -14711,7 +14734,7 @@ const AR={
    "https://ra.co/dj/chrisfreud",
    "https://ra.co/events/2218855"
   ],
-  "infoChk": "2026-10-31",
+  "infoChk": "2026-11-26",
   "spChk": "2026-11-15"
  },
  "David Radi": {
@@ -17941,7 +17964,8 @@ const AR={
   "img": "https://static.ra.co/images/profiles/square/floforg.jpg?dateUpdated=1573430400000",
   "links": {
    "ra": "https://ra.co/dj/floforg",
-   "sp": "https://open.spotify.com/artist/4sT1ZdUGQYaJU3zlaBHYBj"
+   "sp": "https://open.spotify.com/artist/4sT1ZdUGQYaJU3zlaBHYBj",
+   "sc": "https://soundcloud.com/floforg"
   },
   "from": {
    "de": "München",
@@ -17960,8 +17984,21 @@ const AR={
   "src": [
    "https://es-mx.ra.co/dj/floforg/biography"
   ],
-  "infoChk": "2026-11-02",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-15",
+  "genres": [
+   "House",
+   "Disco",
+   "Funk",
+   "Downtempo"
+  ],
+  "sets": [
+   {
+    "t": "CBLS 394 | Compost Black Label Sessions | Flo Førg guest mix",
+    "u": "https://soundcloud.com/compost/cbls-394-compost-black-label-sessions-flo-forg-guest-mix"
+   }
+  ],
+  "setsChecked": "2026-11-26"
  },
  "Fliize": {
   "infoChk": "2026-11-15",
@@ -18416,7 +18453,7 @@ const AR={
  "Splinta": {
   "noImg": "2026-11-02",
   "noLinks": "2026-11-02",
-  "infoChk": "2026-11-03",
+  "infoChk": "2026-11-26",
   "img": "https://www.frequency.at/wp-content/uploads/sites/2/splinta-roster.jpeg",
   "from": {
    "de": "Wien",
@@ -22110,7 +22147,7 @@ const AR={
   "src": [
    "https://dev2.elevate.at/en/music/artists/mitra"
   ],
-  "infoChk": "2026-11-04",
+  "infoChk": "2026-11-26",
   "noLinks": "2026-11-04",
   "spChk": "2026-11-15"
  },
@@ -22611,7 +22648,8 @@ const AR={
  "Mickey Gee": {
   "img": "https://static.ra.co/images/profiles/square/mikeygee.jpg?dateUpdated=1738234502000",
   "links": {
-   "ra": "https://ra.co/dj/mikeygee"
+   "ra": "https://ra.co/dj/mikeygee",
+   "sc": "https://soundcloud.com/mikeygeemunich"
   },
   "from": {
    "de": "München",
@@ -22628,8 +22666,23 @@ const AR={
    "https://ra.co/dj/mikeygee",
    "https://de.ra.co/events/2014409"
   ],
-  "infoChk": "2026-11-03",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-15",
+  "genres": [
+   "Disco",
+   "Funk"
+  ],
+  "sets": [
+   {
+    "t": "PP INSTORE SESSION #196 (MIKEY GEE)",
+    "u": "https://soundcloud.com/publicpossession/pp-instore-session-196-mikey-gee"
+   },
+   {
+    "t": "Mikey Gee live at CC 2014",
+    "u": "https://soundcloud.com/campcosmic/mikey-gee-live-at-cc-2014"
+   }
+  ],
+  "setsChecked": "2026-11-26"
  },
  "Elasoul": {
   "noImg": "2026-11-15",
@@ -22762,10 +22815,16 @@ const AR={
   ]
  },
  "DJ Odd": {
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03",
-  "spChk": "2026-11-21"
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-21",
+  "genres": [
+   "House",
+   "UK Garage",
+   "Breakbeat",
+   "Electro"
+  ]
  },
  "dj-spike": {
   "noImg": "2026-11-03",
@@ -24172,8 +24231,8 @@ const AR={
    "https://www.ticketfairy.com/word/2024/05/09/tfword-in-conversation-with-sequent",
    "https://ra.co/events/1824378"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-26",
+  "noImg": "2026-11-26",
   "setsChecked": "2026-11-03",
   "spChk": "2026-11-17"
  },
@@ -27506,7 +27565,8 @@ const AR={
  "Golpe": {
   "img": "https://static.ra.co/images/profiles/square/golpe.jpg?dateUpdated=1752077096207",
   "links": {
-   "ra": "https://ra.co/dj/golpe"
+   "ra": "https://ra.co/dj/golpe",
+   "sc": "https://soundcloud.com/golpe"
   },
   "from": {
    "de": "Tschechien",
@@ -27522,8 +27582,29 @@ const AR={
   "src": [
    "https://de.ra.co/dj/golpe"
   ],
-  "infoChk": "2026-11-03",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-15",
+  "alias": [
+   "Broken Robot"
+  ],
+  "genres": [
+   "Techno"
+  ],
+  "sets": [
+   {
+    "t": "Broken Robot - Secret Garden - 15.07.23 - CZ",
+    "u": "https://soundcloud.com/golpe/broken-robot-secret-garden-150723-cz"
+   },
+   {
+    "t": "Broken Robot aka Golpe - Techno Boat - 19.09.2020 CZ",
+    "u": "https://soundcloud.com/golpe/broken-robot-aka-golpe-techno-boat-19092020-cz"
+   },
+   {
+    "t": "Broken Robot aka Golpe - We Love Techno - 25.07.2020 - Prague CZ",
+    "u": "https://soundcloud.com/golpe/broken-robot-aka-golpe-we-love-techno-25072020-prague-cz"
+   }
+  ],
+  "setsChecked": "2026-11-26"
  },
  "Ladrillovitz": {
   "img": "https://static.ra.co/images/profiles/square/ladrillovitz.jpg?dateUpdated=1759443297797",
@@ -29175,12 +29256,19 @@ const AR={
    "https://soundcloud.com/callshopradio/acid-lambada-showcase-w-lnkmn",
    "https://soundcloud.com/resradio/cosy-dub-1-w-kid-kodama-lnkmn"
   ],
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
+  "infoChk": "2026-11-26",
+  "noImg": "2026-11-26",
   "links": {
    "sc": "https://soundcloud.com/lnkmn"
   },
-  "spChk": "2026-11-23"
+  "spChk": "2026-11-26",
+  "genres": [
+   "House",
+   "UK Garage",
+   "Breakbeat",
+   "Electro"
+  ],
+  "noLinks": "2026-11-26"
  },
  "Giuseppe Ottaviani": {
   "img": "https://static.ra.co/images/profiles/giuseppeottaviani.jpg?dateUpdated=1248279486000",
@@ -29964,9 +30052,9 @@ const AR={
   "noLinks": "2026-11-03"
  },
  "DJ Lucy Bakanal": {
-  "infoChk": "2026-11-03",
-  "noImg": "2026-11-03",
-  "noLinks": "2026-11-03",
+  "infoChk": "2026-11-26",
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
   "spChk": "2026-11-20"
  },
  "Sa4a": {
@@ -38539,9 +38627,7 @@ const AR={
    "en": "Austria"
   },
   "genres": [
-   "Breakbeat",
-   "House",
-   "Techno"
+   "Breakbeat"
   ],
   "labels": [
    "Nice & Deadly",
@@ -38565,15 +38651,17 @@ const AR={
   ],
   "setsChecked": "2026-11-06",
   "src": [
-   "https://ra.co/dj/philo_"
+   "https://ra.co/dj/philo_",
+   "https://www.technoairlines.com/event/patches-tagada-2026-11-28"
   ],
-  "infoChk": "2026-11-06",
+  "infoChk": "2026-11-26",
   "real": "Philomene Robinne",
   "alias": [
    "Philo_"
   ],
-  "spChk": "2026-11-15",
-  "lt": "https://linktr.ee/philorbn"
+  "spChk": "2026-11-26",
+  "lt": "https://linktr.ee/philorbn",
+  "noImg": "2026-11-26"
  },
  "cosmic motion": {
   "infoChk": "2026-11-04",
@@ -44020,7 +44108,7 @@ const AR={
   "src": [
    "https://ra.co/dj/isi-2"
   ],
-  "infoChk": "2026-11-04",
+  "infoChk": "2026-11-26",
   "spChk": "2026-11-23"
  },
  "Lars Huismann": {
@@ -47558,20 +47646,22 @@ const AR={
   },
   "genres": [
    "House",
-   "Electro",
-   "Techno"
+   "Deep House",
+   "Tech House"
   ],
   "labels": [
-   "Fortunea Records"
+   "Channel Recordings",
+   "Fortunea"
   ],
   "bio": {
-   "de": "Wiener Produzent und DJ (aktiv seit 2004), bekannt für Verbindungen aus House, Electro und Techno mit Jazz-Einflüssen. Veröffentlicht auf Fortunea Records, u. a. die EPs „Hazy Jane“ und „Restless“ (2025) mit dem Track „1160 Dub“ als Gruß an seinen Wiener Bezirk.",
-   "en": "Vienna-based producer and DJ (active since 2004), known for fusing house, electro and techno with jazz influences. Releases on Fortunea Records, including the EPs \"Hazy Jane\" and \"Restless\" (2025), whose track \"1160 Dub\" nods to his Vienna district."
+   "de": "Peletronic legt seit 2004 auf und produziert eigene Tracks, inspiriert vom Underground-Dance-Sound der 80er und 90er. Er studierte Digitale Medientechnologien an der FH St. Pölten; seine Tracks bewegen sich zwischen House, Deep House und Tech House mit Funk-, Soul- und Jazz-Einflüssen. Er veröffentlicht u. a. auf Channel Recordings (Frankfurt) und spielt seine DJ-Sets stets frei ohne Vorbereitung.",
+   "en": "Peletronic has been DJing since 2004 and producing his own tracks, inspired by the underground dance sound of the 80s and 90s. He studied Digital Media Technologies at the University of Applied Sciences St. Pölten; his tracks move between house, deep house and tech house with funk, soul and jazz influences. He has released on Channel Recordings (Frankfurt), among others, and always plays his DJ sets freestyle without preparation."
   },
   "src": [
-   "https://magneticmag.com/2025/05/peletronic-drops-emotive-immersive-new-ep-restless/"
+   "https://magneticmag.com/2025/05/peletronic-drops-emotive-immersive-new-ep-restless/",
+   "https://www.fro.at/peletronic/"
   ],
-  "infoChk": "2026-11-04",
+  "infoChk": "2026-11-26",
   "noImg": "2026-11-04",
   "sets": [
    {
@@ -47583,7 +47673,9 @@ const AR={
     "u": "https://soundcloud.com/tracklistings3-0/tracklistings-radioshow-149"
    }
   ],
-  "setsChecked": "2026-11-23"
+  "setsChecked": "2026-11-26",
+  "img": "https://www.fro.at/wp-content/uploads/4c0ae6e14ae5e25c2b7edd94bd0109a6.jpg",
+  "spChk": "2026-11-26"
  },
  "Scoopsi": {
   "img": "https://static.ra.co/images/profiles/square/scoopsi.jpg?dateUpdated=1670511973000",
@@ -49285,7 +49377,8 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/coido",
    "ig": "https://www.instagram.com/coido__",
-   "bc": "https://coido.bandcamp.com"
+   "bc": "https://coido.bandcamp.com",
+   "sc": "https://soundcloud.com/coido"
   },
   "img": "https://static.ra.co/images/profiles/square/coido.jpg?dateUpdated=1748624023887",
   "from": {
@@ -49307,8 +49400,28 @@ const AR={
    "https://ra.co/dj/coido",
    "https://ra.co/events/2575308"
   ],
-  "infoChk": "2026-11-04",
-  "spChk": "2026-11-15"
+  "infoChk": "2026-11-26",
+  "spChk": "2026-11-15",
+  "genres": [
+   "Techno",
+   "Breakbeat",
+   "Jersey Club"
+  ],
+  "sets": [
+   {
+    "t": "COIDO: Production Mix - 23 February 2026",
+    "u": "https://soundcloud.com/rinsefm/coido230226"
+   },
+   {
+    "t": "COIDO - 28 July 2025",
+    "u": "https://soundcloud.com/rinsefm/coido280725"
+   },
+   {
+    "t": "COIDO - 23 June 2025",
+    "u": "https://soundcloud.com/rinsefm/coido230625"
+   }
+  ],
+  "setsChecked": "2026-11-26"
  },
  "yarx": {
   "links": {
@@ -49931,7 +50044,8 @@ const AR={
  "Testa": {
   "img": "https://f4.bcbits.com/img/0036224829_21.jpg",
   "links": {
-   "bc": "https://testa1.bandcamp.com"
+   "bc": "https://testa1.bandcamp.com",
+   "sc": "https://soundcloud.com/chrisfader-testa"
   },
   "from": {
    "de": "Wien",
@@ -49945,7 +50059,7 @@ const AR={
    "Duzz Down San",
    "Little Beat More"
   ],
-  "infoChk": "2026-11-07",
+  "infoChk": "2026-11-26",
   "src": [
    "https://testa1.bandcamp.com/merch",
    "https://chrisfaderundtesta.bandcamp.com"
@@ -50192,9 +50306,9 @@ const AR={
   "infoChk": "2026-11-09"
  },
  "Clem Vital": {
-  "noImg": "2026-11-09",
-  "noLinks": "2026-11-09",
-  "infoChk": "2026-11-09",
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26",
+  "infoChk": "2026-11-26",
   "spChk": "2026-11-18"
  },
  "KORKI": {
@@ -57068,6 +57182,31 @@ const AR={
   "noLinks": "2026-11-26",
   "infoChk": "2026-11-26",
   "spChk": "2026-11-26"
+ },
+ "serene & philosofiesta": {
+  "links": {
+   "sc": "https://soundcloud.com/sereeene"
+  },
+  "sets": [
+   {
+    "t": "serene & philosofiesta join forces and unite @ Südpol",
+    "u": "https://soundcloud.com/philosofiesta/serene-philosofiesta-join-forces-and-unite-sudpol-191025"
+   },
+   {
+    "t": "FRUITCAST #96 I serene & philosofiesta I scharf mit allem",
+    "u": "https://soundcloud.com/journeytotarab/fruitcast-96-i-serene"
+   }
+  ],
+  "setsChecked": "2026-11-26",
+  "spChk": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "noImg": "2026-11-26"
+ },
+ "POK & Linda Oblique": {
+  "spChk": "2026-11-26",
+  "infoChk": "2026-11-26",
+  "noImg": "2026-11-26",
+  "noLinks": "2026-11-26"
  }
 };
 
