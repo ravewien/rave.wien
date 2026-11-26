@@ -400,5 +400,40 @@ window.PRUEF=[
    "https://open.spotify.com/track/4EhVwFX9ZvH0AiKUEYlWfh"
   ],
   "karten": []
+ },
+ {
+  "id": "genre-ev-2026-12-04-oage-tekke-genres",
+  "ts": "2026-11-26",
+  "lauf": "event-update",
+  "typ": "genre",
+  "titel": "Oage Tekke (Flex, 04.12.2026): Genre nur aus dem Titel",
+  "text": "Das Flex nennt weder Lineup noch Genre. Hardtekk wurde nur aus dem Titel („Oage Tekke“) abgeleitet und als Vermutung eingetragen.",
+  "links": [
+   "https://flex.at/event/oage-tekke/"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "ev",
+   "op": "edit",
+   "key": "2026-12-04-oage-tekke",
+   "title": "Oage Tekke",
+   "data": {
+    "genres": [
+     "Hardtekk"
+    ]
+   }
+  }
+ },
+ {
+  "id": "hinweis-little-beat-more-friends-loop-18-12-2026-nicht-eingetragen",
+  "ts": "2026-11-26",
+  "lauf": "event-update",
+  "typ": "hinweis",
+  "titel": "Little Beat More & Friends (Loop, 18.12.2026) nicht eingetragen",
+  "text": "Die Loop-Seite führt die Nacht mit der Beschreibung „Hiphop/Tropical“ (Adresse vom Homesounds-Termin kopiert). Little Beat More ist eigentlich ein elektronisches Label – falls es eine elektronische Clubnacht ist, bitte manuell aufnehmen.",
+  "links": [
+   "https://loop.co.at/event/homesounds-local-djs-for-local-homeless_11_12_26-2/"
+  ],
+  "karten": []
  }
 ];
