@@ -81,6 +81,11 @@ body{width:1080px;height:1350px;background:#08090b;color:#e9ecf1;font-family:BC,
 const tk=t=>{if(!t)return '';const h=+String(t).slice(0,2);return h>=4&&h<12?'tAft':h>=12&&h<18?'tDay':''};
 const GRP='<svg viewBox="0 0 24 24"><path fill="#ff8c1a" d="M9 11a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm7.5 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM9 13c-3.3 0-7 1.6-7 4.3V20h14v-2.7C16 14.6 12.3 13 9 13zm7.5 0c-.5 0-1 0-1.6.1 1.3.9 2.1 2.2 2.1 4.2V20h6v-2.4c0-2.6-3.6-4.6-6.5-4.6z"/></svg>';
 const PIN='<svg viewBox="0 0 24 24"><path fill="#2fd145" d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg>';
+// Schneeflocken, die auf Text oder Bildern liegen würden, entfernen – damit alles lesbar bleibt
+const SCHNEE_FREI=()=>{const fl=document.querySelectorAll('.th-schnee i');if(!fl.length)return;const R=[];const w=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);let n;
+ while(n=w.nextNode()){if(!n.textContent.trim()||n.parentElement.closest('.th-schnee'))continue;const r=document.createRange();r.selectNodeContents(n);for(const b of r.getClientRects())R.push(b)}
+ document.querySelectorAll('img,svg').forEach(e=>{if(!e.closest('.th-schnee'))R.push(e.getBoundingClientRect())});
+ fl.forEach(i=>{const b=i.getBoundingClientRect();if(R.some(r=>b.right>r.left-14&&b.left<r.right+14&&b.bottom>r.top-10&&b.top<r.bottom+10))i.remove()})};
 let curD='';const THEMEN=require('./ig-themen.js');
 const slide=(EVS,pg,i,n,label,dd,mm,lc)=>{let h=slide0(EVS,pg,i,n,label,dd,mm,lc);if(!POSES.length)return h;const P=POSES[(+dd+ +mm+i)%POSES.length];const k=135/P.h;
  const D=THEMEN.deko(curD,plan,P,k,i);
@@ -134,13 +139,13 @@ function caption(EVS,label,dd,mm,wd){
     let fit=false;for(const lc of [4,3,2]){await page.setContent(slide(EVS,pages[i],i,pages.length,label,dd,mm,lc));await page.evaluate(()=>document.fonts.ready);await page.waitForTimeout(150);
      if(!(await page.evaluate(()=>{const l=document.querySelector('.list');return l.scrollHeight>l.clientHeight+2}))){fit=true;break}}
     if(!fit){ok=false;break}
-    shots.push(await page.screenshot({type:'jpeg',quality:92}))}
+    await page.evaluate(SCHNEE_FREI);shots.push(await page.screenshot({type:'jpeg',quality:92}))}
    if(ok||NP===10){files=shots.map((buf,i)=>{const n=`${i+1}.jpg`;fs.writeFileSync(dir+'/'+n,buf);return n});break}}
   const cap=caption(EVS,label,dd,mm,wd);
   // Zusatzbilder ans Ende eines Tagesposts hängen: ig/anhang.json {"JJJJ-MM-TT":["ig/extra/<name>/1.jpg",…]}
   let anh=[];try{anh=((A=>A[d]||A['*']||[])(JSON.parse(fs.readFileSync(OUT+'/anhang.json','utf8')))).filter(b=>/^ig\/extra\/[a-z0-9-]{1,40}\/\d{1,2}\.(jpg|mp4)$/.test(b)&&fs.existsSync(R+'/'+b)&&(!b.endsWith('.mp4')||fs.existsSync(R+'/'+b.slice(0,-4)+'.jpg')))}catch(e){}
   // Feiertags-Zusatzbild (z. B. 20. April) als letztes Bild; liegt unter ig/extra/, damit es nicht in die Story-Serie kommt
-  try{const Z=THEMEN.zusatz(d,CSS,POSES.length?POSES[0].u:ASTRO);if(Z){const zd=OUT+'/extra/'+Z.name;fs.mkdirSync(zd,{recursive:true});await page.setContent(Z.html);await page.evaluate(()=>document.fonts.ready);await page.waitForTimeout(150);
+  try{const Z=THEMEN.zusatz(d,CSS,POSES.length?POSES[0].u:ASTRO);if(Z){const zd=OUT+'/extra/'+Z.name;fs.mkdirSync(zd,{recursive:true});await page.setContent(Z.html);await page.evaluate(()=>document.fonts.ready);await page.waitForTimeout(150);await page.evaluate(SCHNEE_FREI);
    fs.writeFileSync(zd+'/1.jpg',await page.screenshot({type:'jpeg',quality:92}));anh.push(`ig/extra/${Z.name}/1.jpg`)}}catch(e){console.error('Zusatzbild:',e)}
   const post={datum:d,posten_ab:iso(at),...(only?{manuell:true}:{}),bilder:[...files.map(f=>`ig/${d}/${f}`),...anh].slice(0,10),text:cap.text,erwaehnt:cap.inText,events:EVS.length};
   fs.writeFileSync(dir+'/post.json',JSON.stringify(post,null,1));fs.writeFileSync(dir+'/text.txt',cap.text);
