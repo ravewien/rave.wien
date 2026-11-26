@@ -14552,7 +14552,7 @@ const AR={
   "links": {
    "ra": "https://ra.co/dj/glitzerundbass",
    "ig": "https://www.instagram.com/glitzerundbass",
-   "sc": "https://soundcloud.com/glitzerundbass"
+   "sc": "https://soundcloud.com/glitzerundbass?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
   },
   "bio": {
    "de": "Mit einer großen Leidenschaft für Dark Disco und Tech House versprechen Marie's Sets eine Reise durch treibende Bässe und hypnotisierende Melodien, die selbst die müdesten Füsse zum Dancen bringen! Glitzer & Bass - der Name ist Programm - es gibt immer viel Glitzer hinter den Decks und ganz viel Bass davor!",
