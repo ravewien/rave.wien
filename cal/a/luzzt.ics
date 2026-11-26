@@ -47,6 +47,21 @@ URL:https://rave.wien/e/2026-11-28-dead-end-showcase-with-paralich-pres-b
  y-gdn
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-12-civic-pressure@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T230000
+DTEND;TZID=Europe/Vienna:20261213T060000
+SUMMARY:CIVIC: Pressure
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:LUZZT\, Bludhound\nVeranstalter: CIVIC\n\nNeue Nacht der Wien
+ er Reihe CIVIC (Civic Collective) im FLUCC unter dem Motto „Pressure
+ “\, laut RA mit Techno und Bass von 23:00 bis 06:00\, ab 18 Jahren\; T
+ ickets über RA. Lineup und Floor sind noch nicht angekündigt\, einen P
+ reis nennen die lesbaren Quellen nicht.\n\nhttps://rave.wien/e/2026-12-1
+ 2-civic-pressure
+URL:https://rave.wien/e/2026-12-12-civic-pressure
+END:VEVENT
+BEGIN:VEVENT
 UID:2024-09-13-nachtschub-luzzt-birthday-bash@rave.wien
 DTSTAMP:20240913T000000Z
 DTSTART;VALUE=DATE:20240913

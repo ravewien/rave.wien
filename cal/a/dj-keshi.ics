@@ -41,6 +41,26 @@ DESCRIPTION:Rosa Nebel\, Mitra\, Lucia Kagramanyan\, Heap\, DJ Keshi\n\nD
 URL:https://rave.wien/e/2026-11-28-kalte-das-celeste-wird-12-1-25
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-29-flut-x-callshop-radio-week-48@rave.wien
+DTSTAMP:20261129T000000Z
+DTSTART;TZID=Europe/Vienna:20261129T140000
+DTEND;TZID=Europe/Vienna:20261129T200000
+SUMMARY:FLUT x Callshop Radio – Week 48
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:serene & philosofiesta\, POK & Linda Oblique\, TJR\, Simón J
+ aVa\, Swanahaus\, DJ Keshi\, Alma\, Montaha\nVeranstalter: Callshop Radi
+ o\, Spumante Records\nEintritt frei\n\nFLUT ist die Radioschiene des FLU
+ CC in Kooperation mit Callshop Radio\, das auch in Düsseldorf\, Leipzig
+  und Paris sendet\; die Session wird über Stream 2 auf callshopradio.co
+ m übertragen. Week 48 hosten Spumante Records aus Wien: Es spielen sere
+ ne & philosofiesta\, POK & Linda Oblique\, TJR mit Simón JaVa sowie Swa
+ nahaus mit DJ Keshi\, Alma und Montaha. Während des Streams hat die Dec
+ k Bar geöffnet\, Gäste können den Sonntagnachmittag mit Live-DJs verb
+ ringen. Von 14:00 bis 20:00\, Eintritt frei.\n\nhttps://rave.wien/e/2026
+ -11-29-flut-x-callshop-radio-week-48
+URL:https://rave.wien/e/2026-11-29-flut-x-callshop-radio-week-48
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-18-hypertrash-loud-queer-annoying@rave.wien
 DTSTAMP:20261218T000000Z
 DTSTART;TZID=Europe/Vienna:20261218T235900

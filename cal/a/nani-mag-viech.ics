@@ -26,6 +26,28 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-11-titti-titti-bang-bang@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T220000
+DTEND;TZID=Europe/Vienna:20261212T030000
+SUMMARY:Titti Titti Bang Bang
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:TRTMN\, La Destinación Final\, Deleven\, Bella\, Nani Mag. V
+ iech\, Flual\nVeranstalter: Titti Queer Club\nEintritt: 10–15 €\n\nT
+ itti ist eine queere Partyreihe in Wien\, die seit rund sieben Jahren qu
+ eeren Gästen einen sicheren Raum und queeren Künstler:innen eine offen
+ e Bühne bietet – diesmal als „Titti Titti Bang Bang“ auf drei Flo
+ ors im The Loft mit Pop\, gemischter Musik sowie Techno/House (welcher F
+ loor was spielt\, ist nicht angegeben). Das DJ-Lineup verweist auf die T
+ TBB-Website. Um 01:00 gibt es unten eine Drag-Show\, gehostet von Ryta T
+ ale und Metamorkid mit Philisha Conditioner und Bloodsugar\; von 00:00 b
+ is 02:00 schenkt Horness Gratis-Shots aus. Eintritt 10/15 €\, ab 18\; 
+ alle Geschlechter willkommen\, keine Toleranz für Sexismus\, Homophobie
+ \, Rassismus\, Body-Shaming oder andere Diskriminierung.\n\nhttps://rave
+ .wien/e/2026-12-11-titti-titti-bang-bang
+URL:https://rave.wien/e/2026-12-11-titti-titti-bang-bang
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-gayloween-x-titti-queer-club@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T220000
