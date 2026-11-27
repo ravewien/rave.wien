@@ -65,6 +65,24 @@ DESCRIPTION:Veranstalter: Titti Queer Club\nEintritt: 10–15 €\n\nDie
 URL:https://rave.wien/e/2027-01-29-titti-titti-bang-bang
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-03-26-titti-titti-bang-bang@rave.wien
+DTSTAMP:20270326T000000Z
+DTSTART;TZID=Europe/Vienna:20270326T220000
+DTEND;TZID=Europe/Vienna:20270327T030000
+SUMMARY:Titti Titti Bang Bang
+LOCATION:The Loft\, Lerchenfelder Gürtel 37\, 1160 Wien
+DESCRIPTION:Veranstalter: Titti Queer Club\nEintritt: 10–15 €\n\nDie 
+ queere Partyreihe Titti\, seit rund sieben Jahren Safe Space für queere
+  Gäste und offene Bühne für queere Künstler:innen\, lädt wieder als
+  „Titti Titti Bang Bang“ auf drei Floors ins The Loft (Oben\, Unten\
+ , Wohnzimmer) – mit Pop\, gemischtem Floor sowie Techno/House. Glitzer
+  und Drags sind angekündigt\; für das DJ-Lineup verweist die Location 
+ auf die TTBB-Website. Alle Geschlechter willkommen\, Sexismus\, Homophob
+ ie\, Rassismus und Body-Shaming haben keinen Platz. Eintritt 10/15 €\,
+  Einlass ab 18.\n\nhttps://rave.wien/e/2027-03-26-titti-titti-bang-bang
+URL:https://rave.wien/e/2027-03-26-titti-titti-bang-bang
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-gayloween-x-titti-queer-club@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T220000
