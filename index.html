@@ -568,7 +568,7 @@ a.set b,button.set b{width:22px;height:22px;border-radius:50%;border:1px solid v
   .row.tk .gcl span.on{background:none;color:var(--fg);text-decoration:underline}
   /* Vibe-Symbole links unter dem Cover, am unteren Rand */
   .row.tk>.cflags{display:none}
-  .row.tk{grid-template-rows:auto 1fr}.row.tk>.cflags{display:flex;grid-column:1;grid-row:2;padding:6px 0 11px 10px;align-self:end}
+  .row.tk{grid-template-rows:auto 1fr}.row.tk>.cflags{display:flex;grid-column:1;grid-row:2;padding:6px 0 11px 10px;align-self:end}.row.tk>.cflags{width:0;min-width:100%;box-sizing:border-box}/* Wetter+Flags dürfen die Cover-Spalte nicht verbreitern */
   .row.tk>.cflags .flags{display:flex;flex-wrap:wrap;gap:4px;width:60px}
   .row.tk>.cov{grid-row:1}
   .row.tk>.main,.row.tk>.stub{grid-row:1/3}
