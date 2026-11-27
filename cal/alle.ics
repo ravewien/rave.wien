@@ -132,12 +132,17 @@ DTSTART;TZID=Europe/Vienna:20261127T200000
 DTEND;TZID=Europe/Vienna:20261128T010000
 SUMMARY:Semmelweisklinik Open Decks
 LOCATION:Semmelweisklinik\, Hockegasse 37\, 1180 Wien
-DESCRIPTION:\nOpen-Decks-Abend in der Semmelweisklinik (ehemalige Klinik 
- in Währing\, heute Kultur- und Atelierhaus): Wer möchte\, kann sich an
-  den Plattentellern versuchen. Beginn 20:00. Ein festes Lineup\, Preis u
- nd Ende sind nicht angegeben\; frühere Open-Decks-Abende dort waren mei
- st gratis bzw. gegen Spende.\n\nhttps://rave.wien/e/2026-11-27-semmelwei
- sklinik-open-decks
+DESCRIPTION:Geztek\, YERO\, gomph0\n\nOpen-Decks-Abend in der Semmelweisk
+ linik (ehemalige Klinik in Währing\, heute Kultur- und Atelierhaus) –
+  laut Ankündigung der letzte des Jahres. Stundenslots von 20:00 bis 01:
+ 00: 22:00 Geztek\, 23:00 YERO\, 00:00 gomph0\; die Slots um 20:00 und 21
+ :00 waren zuletzt noch frei. Open Decks gibt es jeden vierten Freitag im
+  Monat\; anmelden bis zum Mittwoch davor per E-Mail an opendecks@semmelw
+ eisklinik.at (Genre und Social-Media-Account angeben\, B2B und kürzere 
+ Sets möglich). Ein Gratisgetränk pro DJ. Equipment: Pioneer XDJ-RX\, D
+ enon Prime Go als Ersatz – Tracks auf FAT32-USB-Stick (WAV/MP3/AAC/AIF
+ F\, in Rekordbox analysiert).\n\nhttps://rave.wien/e/2026-11-27-semmelwe
+ isklinik-open-decks
 URL:https://rave.wien/e/2026-11-27-semmelweisklinik-open-decks
 END:VEVENT
 BEGIN:VEVENT
@@ -3393,6 +3398,21 @@ DESCRIPTION:Mainfloor: Noisia\nVeranstalter: Contrast\n\nDie Wiener Drum-
   Grelle Forelle ausverkauft\; die Abendkassa öffnet um 23:00 Uhr.\n\nht
  tps://rave.wien/e/2027-01-16-contrast-pres-the-return-of-noisia
 URL:https://rave.wien/e/2027-01-16-contrast-pres-the-return-of-noisia
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-22-semmelweisklinik-open-decks@rave.wien
+DTSTAMP:20270122T000000Z
+DTSTART;TZID=Europe/Vienna:20270122T200000
+DTEND;TZID=Europe/Vienna:20270123T010000
+SUMMARY:Semmelweisklinik Open Decks
+LOCATION:Semmelweisklinik\, Hockegasse 37\, 1180 Wien
+DESCRIPTION:\nVoraussichtlicher Termin: Laut Ankündigung zum Abend am 27
+ .11.2026 gibt es Open Decks in der Semmelweisklinik jeden vierten Freita
+ g im Monat – das wäre der 22.01.2027. Noch nicht eigens angekündigt.
+  Anmeldung für Slots bis zum Mittwoch davor per E-Mail an opendecks@sem
+ melweisklinik.at.\n\nhttps://rave.wien/e/2027-01-22-semmelweisklinik-ope
+ n-decks
+URL:https://rave.wien/e/2027-01-22-semmelweisklinik-open-decks
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22-ueberrest@rave.wien
