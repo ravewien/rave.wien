@@ -26,6 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-05-panzerschokolade@rave.wien
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=Europe/Vienna:20261205T220000
+DTEND;TZID=Europe/Vienna:20261206T030000
+SUMMARY:Panzerschokolade
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Bibi & Tina\, emr miranda\, faz og\, mister bellini\, pazzo\,
+  Abraham wurstkessel\nVeranstalter: Panzerschokolade\n\nPanzerschokolade
+  im FLUCC Deck ab 22:00 Uhr. Laut FLUCC reicht die Bandbreite der Nacht 
+ von Electro\, Ghetto\, Hard House und Juke über Jungle und Gabber bis z
+ u Hardcore\, Speedcore und Noise. Im Lineup stehen Bibi & Tina\, emr mir
+ anda\, faz og\, mister bellini\, pazzo und Abraham wurstkessel. Preis un
+ d Ende sind noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-0
+ 5-panzerschokolade
+URL:https://rave.wien/e/2026-12-05-panzerschokolade
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-08-28-panzerschokolade-33@rave.wien
 DTSTAMP:20260828T000000Z
 DTSTART;TZID=Europe/Vienna:20260828T220000
