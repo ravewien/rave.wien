@@ -51764,7 +51764,8 @@ const AR={
    "https://open.spotify.com/intl-de/album/6XEZmVG3MKDM3i1dOxeahb"
   ],
   "infoChk": "2026-11-26",
-  "noImg": "2026-11-26"
+  "noImg": "2026-11-26",
+  "setsChecked": "2026-11-27"
  },
  "Cryoonix": {
   "infoChk": "2026-11-26",
