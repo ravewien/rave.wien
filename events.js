@@ -12201,7 +12201,26 @@ const AR={
   "from": {
    "de": "Österreich",
    "en": "Austria"
-  }
+  },
+  "sets": [
+   {
+    "t": "Special Agent #008: Reinhard Zach (NON FUNXION)",
+    "u": "https://soundcloud.com/non-funxion/special-agent-008-reinhard-zach"
+   },
+   {
+    "t": "[0068] Reinhard Zach (Booth Hub)",
+    "u": "https://soundcloud.com/boothhub/0068-reinhard-zach"
+   },
+   {
+    "t": "Reinhard Zach – Move & Connect Podcast",
+    "u": "https://soundcloud.com/moveandconnect/reini-move-connect-podcast"
+   }
+  ],
+  "setsChecked": "2026-11-27",
+  "spChk": "2026-11-27",
+  "genres": [
+   "House"
+  ]
  },
  "Leon Diamant": {
   "noImg": "2026-10-28",
@@ -12235,7 +12254,8 @@ const AR={
   "src": [
    "https://de.ra.co/dj/leondiamant"
   ],
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-27"
  },
  "Peradise": {
   "noImg": "2026-11-03",
@@ -13043,7 +13063,15 @@ const AR={
    "https://soundcloud.com/maximilian-foit-1",
    "https://ra.co/events/1378405"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "sets": [
+   {
+    "t": "Maximilian Foit – Cartulis Podcast 039",
+    "u": "https://soundcloud.com/cartulisday/maximilian-foit"
+   }
+  ],
+  "setsChecked": "2026-11-27",
+  "spChk": "2026-11-27"
  },
  "Joey": {
   "img": "https://static.ra.co/images/profiles/square/joey-2.jpg?dateUpdated=1769944329620",
@@ -14645,7 +14673,9 @@ const AR={
   "src": [
    "https://de.ra.co/dj/oliviero"
   ],
-  "infoChk": "2026-10-31"
+  "infoChk": "2026-10-31",
+  "setsChecked": "2026-11-27",
+  "spChk": "2026-11-27"
  },
  "High on Melancholia": {
   "noImg": "2026-11-03",
@@ -17494,7 +17524,7 @@ const AR={
   "infoChk": "2026-11-03"
  },
  "Mariephi": {
-  "infoChk": "2026-11-02",
+  "infoChk": "2026-11-27",
   "img": "https://static.ra.co/images/profiles/square/mariephi.jpg?dateUpdated=1773240414187",
   "links": {
    "ra": "https://ra.co/dj/mariephi",
@@ -17512,7 +17542,10 @@ const AR={
   "src": [
    "https://de.ra.co/dj/mariephi"
   ],
-  "setsChecked": "2026-11-02"
+  "setsChecked": "2026-11-02",
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "spChk": "2026-11-27"
  },
  "H∆NN∆": {
   "infoChk": "2026-11-03",
@@ -23326,7 +23359,8 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/franjazzco",
    "ra": "https://ra.co/dj/franjazzco",
-   "web": "https://www.franjazzco.com"
+   "web": "https://www.franjazzco.com",
+   "sp": "https://open.spotify.com/artist/0SuM12ugR3jTdkqyo2dr2Y"
   },
   "from": {
    "de": "Wien",
@@ -23362,7 +23396,8 @@ const AR={
    "https://soundcloud.com/franjazzco"
   ],
   "infoChk": "2026-11-03",
-  "setsChecked": "2026-11-03"
+  "setsChecked": "2026-11-03",
+  "spChk": "2026-11-27"
  },
  "Mischa Beton": {
   "img": "https://static.ra.co/images/profiles/square/mischabeton.jpg?dateUpdated=1759053500120",
@@ -29587,7 +29622,8 @@ const AR={
    "bc": "https://childhood2020.bandcamp.com",
    "ig": "https://www.instagram.com/dmuallem",
    "web": "https://www.muallem.net"
-  }
+  },
+  "spChk": "2026-11-27"
  },
  "Sumi": {
   "infoChk": "2026-11-03",
@@ -31727,12 +31763,14 @@ const AR={
   ],
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-27"
  },
  "faz og": {
   "infoChk": "2026-11-03",
   "noImg": "2026-11-03",
-  "noLinks": "2026-11-03"
+  "noLinks": "2026-11-03",
+  "spChk": "2026-11-27"
  },
  "samuel": {
   "infoChk": "2026-11-03",
@@ -35359,7 +35397,8 @@ const AR={
    "https://ra.co/dj/mikemomburg",
    "https://soundcloud.com/mikemomburg/tracks"
   ],
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "spChk": "2026-11-27"
  },
  "klangfülle": {
   "infoChk": "2026-11-04",
@@ -37708,7 +37747,8 @@ const AR={
   ],
   "noImg": "2026-11-04",
   "infoChk": "2026-11-04",
-  "setsChecked": "2026-11-04"
+  "setsChecked": "2026-11-04",
+  "spChk": "2026-11-27"
  },
  "Philipp Gauf": {
   "img": "https://static.ra.co/images/profiles/square/philippgauf.jpg?dateUpdated=1707913713000",
@@ -37777,7 +37817,8 @@ const AR={
    "ra": "https://ra.co/dj/benwal",
    "sc": "https://soundcloud.com/benwalmusic",
    "bc": "https://benwal.bandcamp.com",
-   "ig": "https://www.instagram.com/benwal.music"
+   "ig": "https://www.instagram.com/benwal.music",
+   "sp": "https://open.spotify.com/artist/38nG2aneQSUwlhbhXXZhxl"
   },
   "from": {
    "de": "Niederlande",
@@ -37813,7 +37854,8 @@ const AR={
   "genres": [
    "House",
    "UK Garage"
-  ]
+  ],
+  "spChk": "2026-11-27"
  },
  "DEA": {
   "infoChk": "2026-11-04",
@@ -49097,7 +49139,8 @@ const AR={
  "vince": {
   "noImg": "2026-11-04",
   "noLinks": "2026-11-04",
-  "infoChk": "2026-11-04"
+  "infoChk": "2026-11-04",
+  "spChk": "2026-11-27"
  },
  "The Devil Dwarf": {
   "links": {
@@ -49952,7 +49995,8 @@ const AR={
  "MZTAY": {
   "infoChk": "2026-11-07",
   "noImg": "2026-11-07",
-  "noLinks": "2026-11-07"
+  "noLinks": "2026-11-07",
+  "spChk": "2026-11-27"
  },
  "DAFFODRILLS": {
   "infoChk": "2026-11-07",
@@ -50161,7 +50205,14 @@ const AR={
    "https://chrisfaderundtesta.bandcamp.com"
   ],
   "noLinks": "2026-11-08",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "sets": [
+   {
+    "t": "Chrisfader & Testa – The Prequel To Overland (Mix)",
+    "u": "https://soundcloud.com/duzz-down-san-records/chrisfader-testa-the-prequel-to-overland-mix"
+   }
+  ],
+  "setsChecked": "2026-11-27"
  },
  "KSHMR": {
   "img": "https://i.scdn.co/image/ab6761610000f178d6375815b4e8a04d9863c22c",
@@ -51415,7 +51466,8 @@ const AR={
    "https://soundcloud.com/waqwaqkingdom"
   ],
   "infoChk": "2026-11-26",
-  "spChk": "2026-11-15"
+  "spChk": "2026-11-15",
+  "setsChecked": "2026-11-27"
  },
  "Catu Diosis": {
   "from": {
@@ -57477,11 +57529,30 @@ const AR={
  },
  "anamē": {
   "links": {
-   "ig": "https://www.instagram.com/anamemusic/"
+   "ig": "https://www.instagram.com/anamemusic/",
+   "sp": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi",
+   "web": "https://www.anamemusic.com/"
   },
   "genres": [
    "Progressive House",
    "House"
+  ],
+  "from": {
+   "de": "Schweden / Norwegen",
+   "en": "Sweden / Norway"
+  },
+  "img": "https://assets.soundcharts.com/artist/3/2/5/db200327-3523-4cce-bb60-3915b6068c7a.jpg",
+  "labels": [
+   "Anjunabeats"
+  ],
+  "bio": {
+   "de": "anamē ist das Duo des Schweden Marcus Schössow und des Norwegers Thomas Sagstad, die sich auf einer Hausparty in Helsingborg kennenlernten. Seit 2022 veröffentlicht das Projekt auf Anjunabeats, u. a. das Album „Hopes & Fears“; der Name kommt aus dem Altnordischen und bedeutet „sich anpassen“.",
+   "en": "anamē is the duo of Swede Marcus Schössow and Norwegian Thomas Sagstad, who first met at a house party in Helsingborg. Since 2022 the project has released on Anjunabeats, including the album \"Hopes & Fears\"; the name is Old Norse for \"to adapt\"."
+  },
+  "spChk": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "src": [
+   "https://soundcharts.com/en/artist/db200327-3523-4cce-bb60-3915b6068c7a"
   ]
  },
  "Pegassi": {
@@ -57491,8 +57562,282 @@ const AR={
   ],
   "links": {
    "ig": "https://www.instagram.com/pegassimusic/",
-   "sc": "https://soundcloud.com/pegassimusic"
-  }
+   "sc": "https://soundcloud.com/pegassimusic",
+   "ra": "https://ra.co/dj/pegassi",
+   "sp": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+  },
+  "real": "Sam Huybrecht",
+  "from": {
+   "de": "Belgien",
+   "en": "Belgium"
+  },
+  "img": "https://cdn.amsterdam-dance-event.nl/images/images/transforms/_1200x630_crop_center-center_none/2803207/PEGASSI.webp",
+  "labels": [
+   "Sweet Nothing"
+  ],
+  "bio": {
+   "de": "Pegassi ist das Projekt des belgischen Produzenten und DJs Sam Huybrecht. Sein Sound bewegt sich zwischen Trance, Techno, Eurodance, House und Rave, Markenzeichen sind klingende Glocken-Melodien. Der Durchbruch kam 2023 mit „Yoyoyo“, später folgten u. a. „Spectral Bells“, „227kg“ und „MOAA“; mit Sweet Nothing betreibt er ein eigenes Label und eine Eventreihe.",
+   "en": "Pegassi is the project of Belgian producer and DJ Sam Huybrecht. His sound moves through trance, techno, eurodance, house and rave, with clanging bell melodies as his signature. His breakthrough came in 2023 with \"Yoyoyo\", followed by \"Spectral Bells\", \"227kg\" and \"MOAA\"; he also runs his own label and event series, Sweet Nothing."
+  },
+  "sets": [
+   {
+    "t": "Pegassi @ Pukkelpop 2023",
+    "u": "https://soundcloud.com/pegassimusic/pegassi-pukkelpop-2023"
+   },
+   {
+    "t": "100% Pegassi – StuBru",
+    "u": "https://soundcloud.com/pegassimusic/stubruur"
+   }
+  ],
+  "setsChecked": "2026-11-27",
+  "spChk": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "src": [
+   "https://www.amsterdam-dance-event.nl/en/artists-speakers/pegassi/38930/",
+   "https://ra.co/dj/pegassi"
+  ]
+ },
+ "Domenik Deckert": {
+  "noImg": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27",
+  "links": {
+   "ra": "https://ra.co/dj/domenikdeckert"
+  },
+  "genres": [
+   "House"
+  ],
+  "src": [
+   "https://ra.co/dj/domenikdeckert"
+  ]
+ },
+ "PARAMIDA": {
+  "noImg": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27",
+  "links": {
+   "ra": "https://ra.co/dj/paramida",
+   "sc": "https://soundcloud.com/paramida",
+   "sp": "https://open.spotify.com/artist/3bFxfwnZ1vmvzoNYz8z2vh"
+  },
+  "labels": [
+   "Love On The Rocks"
+  ],
+  "genres": [
+   "House"
+  ],
+  "sets": [
+   {
+    "t": "BBC Essential Mix – PARAMIDA",
+    "u": "https://soundcloud.com/paramida/bbc-essential-mix-paramida"
+   },
+   {
+    "t": "Crack Mix 474: Paramida",
+    "u": "https://soundcloud.com/crackmagazine/crack-mix-474-paramida"
+   }
+  ],
+  "setsChecked": "2026-11-27",
+  "src": [
+   "https://ra.co/dj/paramida"
+  ]
+ },
+ "Bryan Kessler": {
+  "noImg": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27",
+  "links": {
+   "ra": "https://ra.co/dj/bryankessler",
+   "sc": "https://soundcloud.com/bryankessler"
+  },
+  "sets": [
+   {
+    "t": "Skorpio Radio Show by Bryan Kessler (04.08.2026)",
+    "u": "https://soundcloud.com/skorpio_ofc/skorpio-radio-show-by-bryan"
+   }
+  ],
+  "setsChecked": "2026-11-27",
+  "src": [
+   "https://ra.co/dj/bryankessler"
+  ]
+ },
+ "Audio 303": {
+  "noImg": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27",
+  "links": {
+   "ra": "https://ra.co/dj/audio303",
+   "sc": "https://soundcloud.com/audio303"
+  },
+  "sets": [
+   {
+    "t": "Gesindel der Nacht Podcast 012: AUDIO303",
+    "u": "https://soundcloud.com/gesindel-der-nacht/gesindel-podcast012"
+   }
+  ],
+  "setsChecked": "2026-11-27",
+  "src": [
+   "https://ra.co/dj/audio303"
+  ]
+ },
+ "Schmorrn": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "Diego": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "Clarky": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "K8": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "BenBorn": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "Lev": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "Ernsthaft Lieb": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "mister bellini": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "pazzo": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "Abraham wurstkessel": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "Bibi & Tina": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "AZ-USA": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "DVD": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "Francesca Bambi": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "ri$i": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "Kirsch": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "Siggatunez": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "Chris Ku": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "Nunø": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "Klamauk": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "Migu": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "Vanessa": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "Fritello Tonat": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27"
+ },
+ "Beruska": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27",
+  "genres": [
+   "Techno",
+   "Hardgroove",
+   "Schranz"
+  ]
+ },
+ "Eva": {
+  "noImg": "2026-11-27",
+  "noLinks": "2026-11-27",
+  "infoChk": "2026-11-27",
+  "spChk": "2026-11-27",
+  "genres": [
+   "Techno",
+   "Hardgroove",
+   "Schranz"
+  ]
  }
 };
 
