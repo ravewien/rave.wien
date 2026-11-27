@@ -192,6 +192,24 @@ DESCRIPTION:Schrotthagen\nVeranstalter: SIGNAL\nEintritt: ab 15 €\n\nSI
 URL:https://rave.wien/e/2027-02-12-schrotthagen
 END:VEVENT
 BEGIN:VEVENT
+UID:2027-02-19-pegassi@rave.wien
+DTSTAMP:20270219T000000Z
+DTSTART;TZID=Europe/Vienna:20270219T230000
+DTEND;TZID=Europe/Vienna:20270220T060000
+SUMMARY:Pegassi
+LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
+DESCRIPTION:Pegassi\nVeranstalter: SIGNAL\nEintritt: ab 15 €\n\nSIGNAL 
+ präsentiert den belgischen Produzenten Pegassi\, bekannt für seine cha
+ rakteristischen Glocken-Sounds und energiegeladenen Produktionen wie „
+ Yoyoyo“\, „Spectrals Bells“ und „227kg“. Sein Sound ist von Ra
+ ve-Kultur und seinem Hip-Hop-Hintergrund geprägt\; er spielte u. a. bei
+  Awakenings\, Time Warp\, Tomorrowland\, Sziget und Boiler Room und betr
+ eibt das Label und die Eventreihe Sweet Nothing. Beginn 23:00\, Tickets 
+ ab 15 €\, ab 18\, Dresscode casual // rave.\n\nhttps://rave.wien/e/202
+ 7-02-19-pegassi
+URL:https://rave.wien/e/2027-02-19-pegassi
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-october-transmission@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T230000
