@@ -670,5 +670,41 @@ window.PRUEF=[
    "https://www.technoairlines.com/event/aircraft-comes-back-to-vienna-cafe-carina-9-december-2026-cafe-carina-2026-12-09"
   ],
   "karten": []
+ },
+ {
+  "id": "hinweis-2027-03-12-dominik-eulberg-live-simm-city-festsaal",
+  "ts": "2026-11-27",
+  "lauf": "laptop-lauf",
+  "typ": "hinweis",
+  "titel": "2027-03-12 Dominik Eulberg live – Simm City Festsaal",
+  "text": "Songkick (Elektronik Wien) führt Dominik Eulberg am 12.03.2027 im Simm City Festsaal (Zentrum Simmering). Elektronischer Live-Act, aber Konzert-/Festsaal-Rahmen – aufnehmen oder als Konzert auslassen?",
+  "links": [
+   "https://www.songkick.com/metro-areas/26771-austria-vienna/genre/electronic"
+  ],
+  "karten": []
+ },
+ {
+  "id": "hinweis-gasometer-bonobo-18-03-2027-und-purple-disco-machine-16-10-2027",
+  "ts": "2026-11-27",
+  "lauf": "laptop-lauf",
+  "typ": "hinweis",
+  "titel": "Gasometer: Bonobo (18.03.2027) und Purple Disco Machine (16.10.2027)",
+  "text": "Laut Songkick spielen Bonobo und Purple Disco Machine im Gasometer. Elektronische Acts, aber Konzerthalle (Regel „keine Konzerthallen“) – daher nicht eingetragen; bitte entscheiden, ob Gasometer-Shows erwünscht sind.",
+  "links": [
+   "https://www.songkick.com/metro-areas/26771-austria-vienna/genre/electronic"
+  ],
+  "karten": []
+ },
+ {
+  "id": "link-libelle-event-ubersicht-jetzt-unter-de-veranstaltungen",
+  "ts": "2026-11-27",
+  "lauf": "laptop-lauf",
+  "typ": "link",
+  "titel": "Libelle: Event-Übersicht jetzt unter /de/veranstaltungen/",
+  "text": "https://www.libelle.at/future-events liefert 404; die Events stehen jetzt auf https://www.libelle.at/de/veranstaltungen/. Quelle für den Abrufdienst umstellen.",
+  "links": [
+   "https://www.libelle.at/de/veranstaltungen/"
+  ],
+  "karten": []
  }
 ];
