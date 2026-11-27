@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//rave.wien//Kalender//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:vazov · rave.wien
+X-WR-CALNAME:Vazov · rave.wien
 X-WR-TIMEZONE:Europe/Vienna
 X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
@@ -26,22 +26,24 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-28-citruscue-presents-coido-wingz@rave.wien
-DTSTAMP:20261128T000000Z
-DTSTART;TZID=Europe/Vienna:20261128T235900
-DTEND;TZID=Europe/Vienna:20261129T050000
-SUMMARY:CitrusCue presents COIDO & Wingz
-LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
-DESCRIPTION:COIDO\, Wingz\, yarx\, vazov\, fejv\nVeranstalter: CitrusCue\
- nEintritt: 12–15 €\n\nCitrusCue kehrt für eine Bass-Music-Nacht von
-  tiefen\, atmosphärischen Klängen bis zu schwerer\, groovelastiger Clu
- bmusik in den Club Lucia zurück. Headliner COIDO verbindet futuristisch
-  Techno\, Breakbeat\, Jersey Club und globale Grooves. Wingz aus Wien sp
- ielt präzisen\, atmosphärischen Drum & Bass. Lokale Unterstützung: ya
- rx (Dubstep\, Grime\, Footwork\, dekonstruierte Rhythmen)\, fejv (UK Bas
- s von klassisch bis experimentell) und vazov (früher Subcurrent\; schne
- ller\, hypnotischer Techno mit viel Tiefbass).\n\nhttps://rave.wien/e/20
- 26-11-28-citruscue-presents-coido-wingz
-URL:https://rave.wien/e/2026-11-28-citruscue-presents-coido-wingz
+UID:2026-12-04-ninecircles@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T040000
+SUMMARY:Ninecircles
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Beruska\, Bluest\, Eva\, Provocateur\, Kristus\, Silentsevir\
+ , Trugbild\, Vazov\, WO.IZZY\nVeranstalter: Ninecircles\nEintritt: 12\,6
+ 0 € (Early Bird\, Limited Presale)\n\nNinecircles-Nacht im Werk – di
+ e Reihe steht für Techno und Industrial\, „ein kompromissloser Trip i
+ n den Underground“. Sie findet am Freitag\, 4. Dezember ab 23:00 statt
+  (nicht wie früher vermutet am 28.11.\, an dem im Werk der Dead End Sho
+ wcase läuft). Laut Programm des Werk spielen Beruska\, Bluest\, Eva\, P
+ rovocateur\, KRISTUS\, Silentsevir\, Trugbild\, Vazoz und WO.IZZY. Ticke
+ ts gibt es über Eventim Light\; Preis und Ende sind noch nicht bekannt.
+  Laut Ticketshop füllen Groove\, Schranz und Industrial die zwei Floors
+ \; Tickets gibt es im Vorverkauf und an der Abendkassa.\n\nhttps://rave.
+ wien/e/2026-12-04-ninecircles
+URL:https://rave.wien/e/2026-12-04-ninecircles
 END:VEVENT
 END:VCALENDAR

@@ -54,7 +54,7 @@ BEGIN:VEVENT
 UID:2026-11-28-selected-bassbussi-w-cara-elizabeth-frederic@rave.wien
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Vienna:20261128T230000
-DTEND;TZID=Europe/Vienna:20261129T040000
+DTEND;TZID=Europe/Vienna:20261129T060000
 SUMMARY:Selected × Bassbussi w/ Cara Elizabeth & Frederic.
 LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Mainfloor: Cara Elizabeth\, Frederic.\, Andrew Ahmed\nVeranst
@@ -230,8 +230,9 @@ DESCRIPTION:Mainfloor: Noisia\nVeranstalter: Contrast\n\nDie Wiener Drum-
  ble) spielt ein 90-minütiges Set am Mainfloor\, das lokale Lineup und d
  ie Kitchen sind noch offen. 23:00–06:00\, ab 18 – Ausweis mitnehmen.
   Der Vorverkauf über Eventbrite ist laut Grelle Forelle ausverkauft\, d
- ie Abendkassa öffnet um 23:00.\n\nhttps://rave.wien/e/2027-01-16-contra
- st-pres-the-return-of-noisia
+ ie Abendkassa öffnet um 23:00. Der Vorverkauf über Eventbrite ist laut
+  Grelle Forelle ausverkauft\; die Abendkassa öffnet um 23:00 Uhr.\n\nht
+ tps://rave.wien/e/2027-01-16-contrast-pres-the-return-of-noisia
 URL:https://rave.wien/e/2027-01-16-contrast-pres-the-return-of-noisia
 END:VEVENT
 BEGIN:VEVENT
@@ -305,8 +306,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-02-alarico-b2b-kenji-hina-all-night-long@rave.wien
 DTSTAMP:20270402T000000Z
-DTSTART;VALUE=DATE:20270402
-DTEND;VALUE=DATE:20270403
+DTSTART;TZID=Europe/Vienna:20270402T230000
+DTEND;TZID=Europe/Vienna:20270403T060000
 SUMMARY:Alarico b2b Kenji Hina All Night Long
 LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Alarico\, Kenji Hina\n\nAll-Night-Long-Set von Alarico b2b Ke

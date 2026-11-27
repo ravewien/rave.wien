@@ -412,15 +412,16 @@ DTSTART;TZID=Europe/Vienna:20261127T230000
 DTEND;TZID=Europe/Vienna:20261128T040000
 SUMMARY:November-Transmission
 LOCATION:O der Klub\, Opernring/Operngasse\, 1010 Wien
-DESCRIPTION:Eintritt: 8–12 €\n\nMonatliche „Transmission“-Nacht i
- m O – der Klub auf drei Floors unter der Oper\, jeder mit eigenem Soun
- d: Core mit Hits & Classics\, Orbit mit Melodic House & Techno und das K
- onsulat mit Hip-Hop & Urban. Beginn 23:00\, Tickets 8–12 €\, Dressco
- de casual chic\, Tischreservierung mit VIP-Eingang möglich\; ab 18 laut
-  Hausregel. Ein Lineup ist noch nicht genannt. Die Meta-Beschreibung der
-  Seite verweist noch auf eine frühere Ausgabe („2. Jänner“\, „Fr
- ee entry“)\, der Eventtext nennt aber den 27.11. und Ticketpreise.\n\n
- https://rave.wien/e/2026-11-27-november-transmission
+DESCRIPTION:Eintritt: 8–12 € (je nach Einlasszeit) / AK 20 € / Stag
+ e-Ticket 49 €\n\nMonatliche „Transmission“-Nacht im O – der Klub
+  auf drei Floors unter der Oper\, jeder mit eigenem Sound: Core mit Hits
+  & Classics\, Orbit mit Melodic House & Techno und das Konsulat mit Hip-
+ Hop & Urban. Beginn 23:00\, Tickets 8–12 €\, Dresscode casual chic\,
+  Tischreservierung mit VIP-Eingang möglich\; ab 18 laut Hausregel. Ein 
+ Lineup ist noch nicht genannt. Die Meta-Beschreibung der Seite verweist 
+ noch auf eine frühere Ausgabe („2. Jänner“\, „Free entry“)\, d
+ er Eventtext nennt aber den 27.11. und Ticketpreise.\n\nhttps://rave.wie
+ n/e/2026-11-27-november-transmission
 URL:https://rave.wien/e/2026-11-27-november-transmission
 END:VEVENT
 BEGIN:VEVENT
@@ -586,7 +587,7 @@ BEGIN:VEVENT
 UID:2026-11-28-selected-bassbussi-w-cara-elizabeth-frederic@rave.wien
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Vienna:20261128T230000
-DTEND;TZID=Europe/Vienna:20261129T040000
+DTEND;TZID=Europe/Vienna:20261129T060000
 SUMMARY:Selected × Bassbussi w/ Cara Elizabeth & Frederic.
 LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Mainfloor: Cara Elizabeth\, Frederic.\, Andrew Ahmed\nVeranst
@@ -700,20 +701,21 @@ BEGIN:VEVENT
 UID:2026-11-28-dead-end-showcase-with-paralich-pres-by-gdn@rave.wien
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Vienna:20261128T230000
-DTEND;TZID=Europe/Vienna:20261129T040000
+DTEND;TZID=Europe/Vienna:20261129T060000
 SUMMARY:DEAD END Showcase with Paralich pres. by GDN
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Mainfloor: Paralich\, THIRD 2HIFT\, Valenthin\, SAYA\nSecond 
  Floor: catercarlo\, Dj Wifi\, Kristus\, LUZZT\, ANER\, Rantom\nVeranstal
- ter: GDN\n\nGDN (Gesindel der Nacht) präsentiert im Werk einen Label-Sh
- owcase von DEAD END Records aus Budapest mit Paralich. Auf dem Mainfloor
-  spielen die DEAD-END-Residents Paralich\, THIRD 2HIFT sowie Valenthin b
- 2b SAYA\, den zweiten Floor bespielen GDN-Residents und Freunde (caterca
- rlo\, DJ Wifi\, Kristus\, LUZZT b2b ANER\, Rantom). Es gilt eine strikte
-  No-Photo-Policy: Handykameras werden abgeklebt\, vor Ort gibt es eine F
- otobox. Ein geschultes Awareness-Team ist anwesend\, erkennbar an roten 
- Teufelshörnern und Leuchtbändern am Arm.\n\nhttps://rave.wien/e/2026-1
- 1-28-dead-end-showcase-with-paralich-pres-by-gdn
+ ter: GDN\nEintritt: 18 € (Phase 2\; Early Bird und Phase 1 vergriffen)
+ \n\nGDN (Gesindel der Nacht) präsentiert im Werk einen Label-Showcase v
+ on DEAD END Records aus Budapest mit Paralich. Auf dem Mainfloor spielen
+  die DEAD-END-Residents Paralich\, THIRD 2HIFT sowie Valenthin b2b SAYA\
+ , den zweiten Floor bespielen GDN-Residents und Freunde (catercarlo\, DJ
+  Wifi\, Kristus\, LUZZT b2b ANER\, Rantom). Es gilt eine strikte No-Phot
+ o-Policy: Handykameras werden abgeklebt\, vor Ort gibt es eine Fotobox. 
+ Ein geschultes Awareness-Team ist anwesend\, erkennbar an roten Teufelsh
+ örnern und Leuchtbändern am Arm.\n\nhttps://rave.wien/e/2026-11-28-dea
+ d-end-showcase-with-paralich-pres-by-gdn
 URL:https://rave.wien/e/2026-11-28-dead-end-showcase-with-paralich-pres-b
  y-gdn
 END:VEVENT
@@ -1112,14 +1114,17 @@ DTEND;TZID=Europe/Vienna:20261205T040000
 SUMMARY:Ninecircles
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Beruska\, Bluest\, Eva\, Provocateur\, Kristus\, Silentsevir\
- , Trugbild\, Vazoz\, WO.IZZY\nVeranstalter: Ninecircles\n\nNinecircles-N
- acht im Werk – die Reihe steht für Techno und Industrial\, „ein kom
- promissloser Trip in den Underground“. Sie findet am Freitag\, 4. Deze
- mber ab 23:00 statt (nicht wie früher vermutet am 28.11.\, an dem im We
- rk der Dead End Showcase läuft). Laut Programm des Werk spielen Beruska
- \, Bluest\, Eva\, Provocateur\, KRISTUS\, Silentsevir\, Trugbild\, Vazoz
-  und WO.IZZY. Tickets gibt es über Eventim Light\; Preis und Ende sind 
- noch nicht bekannt.\n\nhttps://rave.wien/e/2026-12-04-ninecircles
+ , Trugbild\, Vazov\, WO.IZZY\nVeranstalter: Ninecircles\nEintritt: 12\,6
+ 0 € (Early Bird\, Limited Presale)\n\nNinecircles-Nacht im Werk – di
+ e Reihe steht für Techno und Industrial\, „ein kompromissloser Trip i
+ n den Underground“. Sie findet am Freitag\, 4. Dezember ab 23:00 statt
+  (nicht wie früher vermutet am 28.11.\, an dem im Werk der Dead End Sho
+ wcase läuft). Laut Programm des Werk spielen Beruska\, Bluest\, Eva\, P
+ rovocateur\, KRISTUS\, Silentsevir\, Trugbild\, Vazoz und WO.IZZY. Ticke
+ ts gibt es über Eventim Light\; Preis und Ende sind noch nicht bekannt.
+  Laut Ticketshop füllen Groove\, Schranz und Industrial die zwei Floors
+ \; Tickets gibt es im Vorverkauf und an der Abendkassa.\n\nhttps://rave.
+ wien/e/2026-12-04-ninecircles
 URL:https://rave.wien/e/2026-12-04-ninecircles
 END:VEVENT
 BEGIN:VEVENT
@@ -2658,17 +2663,20 @@ BEGIN:VEVENT
 UID:2026-12-18-herzfrequenz-weekender-day-1@rave.wien
 DTSTAMP:20261218T000000Z
 DTSTART;TZID=Europe/Vienna:20261218T230000
-DTEND;TZID=Europe/Vienna:20261219T040000
+DTEND;TZID=Europe/Vienna:20261219T060000
 SUMMARY:HERZFREQUENZ WEEKENDER: DAY 1
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Joey\, Kø:lab\, carlo kalu\, HNAS\, Kat Ze\, Crystal O\, Ben
   Parker 030\, YØNDER\, Grafus\, JO Trauner\, keha\nVeranstalter: Herzfr
- equenz\n\nAuftakt des zweitägigen HERZFREQUENZ Weekenders im Werk (Tag 
- 1\, ab 23:00). Angekündigt sind Joey\, Kø:lab\, carlo kalu\, HNAS\, Ka
- t Ze\, Crystal O\, YØNDER\, Grafus\, JO Trauner und keha\; am Folgetag 
- (19.12.) geht der Weekender mit Joey und Amøn weiter. Preise sind noch 
- nicht veröffentlicht\, Tickets über Resident Advisor.\n\nhttps://rave.
- wien/e/2026-12-18-herzfrequenz-weekender-day-1
+ equenz\nEintritt: 20 € (Friday Ticket\, Limited Presale)\n\nAuftakt de
+ s zweitägigen HERZFREQUENZ Weekenders im Werk (Tag 1\, ab 23:00). Angek
+ ündigt sind Joey\, Kø:lab\, carlo kalu\, HNAS\, Kat Ze\, Crystal O\, Y
+ ØNDER\, Grafus\, JO Trauner und keha\; am Folgetag (19.12.) geht der We
+ ekender mit Joey und Amøn weiter. Preise sind noch nicht veröffentlich
+ t\, Tickets über Resident Advisor. Laut Ticketshop eine „Shirts off
+ “-Nacht mit Hard Bounce\, Hard Techno und Drag-Kunst\, gefeiert werden
+  die Geburtstage von Joey und Crystal O\; Dresscode „Come as you are
+ “.\n\nhttps://rave.wien/e/2026-12-18-herzfrequenz-weekender-day-1
 URL:https://rave.wien/e/2026-12-18-herzfrequenz-weekender-day-1
 END:VEVENT
 BEGIN:VEVENT
@@ -2897,14 +2905,15 @@ DTSTART;TZID=Europe/Vienna:20261219T230000
 DTEND;TZID=Europe/Vienna:20261220T060000
 SUMMARY:HERZFREQUENZ WEEKENDER: DAY 2
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Joey\, Amøn\nVeranstalter: Herzfrequenz\n\nDas Herzfrequenz 
- Weekender geht im Werk über zwei Nächte\, Day 2 startet am Samstag um 
- 23:00 Uhr. Im Mittelpunkt steht Joey\, der österreichische DJ Johannes 
- Turpel\, der auf den Labels The Finest Techno und HERZFREQUENZ vertreten
-  ist und unter dem Motto „Loud & Louder. Hard & Harder.“ für harten
- \, lauten Techno steht. Dazu spielt Amøn. Bereits am Vorabend (18.12.) 
- läuft Day 1 mit Joey\, Kø:lab\, carlo kalu\, HNAS und weiteren Acts.\n
- \nhttps://rave.wien/e/2026-12-19-herzfrequenz-weekender-day-2
+DESCRIPTION:Joey\, Amøn\nVeranstalter: Herzfrequenz\nEintritt: 20 € (S
+ aturday Ticket\, Limited Presale)\n\nDas Herzfrequenz Weekender geht im 
+ Werk über zwei Nächte\, Day 2 startet am Samstag um 23:00 Uhr. Im Mitt
+ elpunkt steht Joey\, der österreichische DJ Johannes Turpel\, der auf d
+ en Labels The Finest Techno und HERZFREQUENZ vertreten ist und unter dem
+  Motto „Loud & Louder. Hard & Harder.“ für harten\, lauten Techno s
+ teht. Dazu spielt Amøn. Bereits am Vorabend (18.12.) läuft Day 1 mit J
+ oey\, Kø:lab\, carlo kalu\, HNAS und weiteren Acts.\n\nhttps://rave.wie
+ n/e/2026-12-19-herzfrequenz-weekender-day-2
 URL:https://rave.wien/e/2026-12-19-herzfrequenz-weekender-day-2
 END:VEVENT
 BEGIN:VEVENT
@@ -3380,8 +3389,9 @@ DESCRIPTION:Mainfloor: Noisia\nVeranstalter: Contrast\n\nDie Wiener Drum-
  ble) spielt ein 90-minütiges Set am Mainfloor\, das lokale Lineup und d
  ie Kitchen sind noch offen. 23:00–06:00\, ab 18 – Ausweis mitnehmen.
   Der Vorverkauf über Eventbrite ist laut Grelle Forelle ausverkauft\, d
- ie Abendkassa öffnet um 23:00.\n\nhttps://rave.wien/e/2027-01-16-contra
- st-pres-the-return-of-noisia
+ ie Abendkassa öffnet um 23:00. Der Vorverkauf über Eventbrite ist laut
+  Grelle Forelle ausverkauft\; die Abendkassa öffnet um 23:00 Uhr.\n\nht
+ tps://rave.wien/e/2027-01-16-contrast-pres-the-return-of-noisia
 URL:https://rave.wien/e/2027-01-16-contrast-pres-the-return-of-noisia
 END:VEVENT
 BEGIN:VEVENT
@@ -3734,14 +3744,15 @@ DTSTART;TZID=Europe/Vienna:20270220T200000
 DTEND;TZID=Europe/Vienna:20270220T230000
 SUMMARY:anamē
 LOCATION:Club Lucia\, U-Bahnbogen 24–25\, 1080 Wien
-DESCRIPTION:anamē\n\nLive-Abend von anamē\, dem gemeinsamen Projekt von
-  Marcus Schössow und Thomas Sagstad\, im Club Lucia in den Gürtelböge
- n. Die beiden kommen aus der skandinavischen Underground-House-Szene der
-  frühen 2000er und veröffentlichten früher auf Global Underground und
-  Ministry of Sound. Als anamē erschien ihre Debütsingle „Gratitude
- “ mit Above & Beyond auf Anjunabeats. Der Abend ist Teil der „On My 
- Way Album Tour 2027“. Einlass 19:00\, Beginn 20:00.\n\nhttps://rave.wi
- en/e/2027-02-20-aname
+DESCRIPTION:anamē\nEintritt: 23\,50 € / ermäßigt (Rollstuhl\, Behind
+ erung\, Begleitung) 11\,75 €\n\nLive-Abend von anamē\, dem gemeinsame
+ n Projekt von Marcus Schössow und Thomas Sagstad\, im Club Lucia in den
+  Gürtelbögen. Die beiden kommen aus der skandinavischen Underground-Ho
+ use-Szene der frühen 2000er und veröffentlichten früher auf Global Un
+ derground und Ministry of Sound. Als anamē erschien ihre Debütsingle 
+ „Gratitude“ mit Above & Beyond auf Anjunabeats. Der Abend ist Teil d
+ er „On My Way Album Tour 2027“. Einlass 19:00\, Beginn 20:00.\n\nhtt
+ ps://rave.wien/e/2027-02-20-aname
 URL:https://rave.wien/e/2027-02-20-aname
 END:VEVENT
 BEGIN:VEVENT
@@ -3941,8 +3952,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-02-alarico-b2b-kenji-hina-all-night-long@rave.wien
 DTSTAMP:20270402T000000Z
-DTSTART;VALUE=DATE:20270402
-DTEND;VALUE=DATE:20270403
+DTSTART;TZID=Europe/Vienna:20270402T230000
+DTEND;TZID=Europe/Vienna:20270403T060000
 SUMMARY:Alarico b2b Kenji Hina All Night Long
 LOCATION:Grelle Forelle\, Spittelauer Lände 12\, 1090 Wien
 DESCRIPTION:Alarico\, Kenji Hina\n\nAll-Night-Long-Set von Alarico b2b Ke

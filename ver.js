@@ -1,1 +1,1 @@
-window.RWV={"events.js":"4a9204febd3b","past.js":"0b653c92e648","logos.js":"064e44c46850","geo.js":"36783ba1401d","wetter.js":"7b4900c669a2"};
+window.RWV={"events.js":"24b9ae3747ef","past.js":"0b653c92e648","logos.js":"064e44c46850","geo.js":"36783ba1401d","wetter.js":"7b4900c669a2"};
