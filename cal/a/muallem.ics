@@ -26,6 +26,19 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-19-traveling-without-moving@rave.wien
+DTSTAMP:20261219T000000Z
+DTSTART;TZID=Europe/Vienna:20261219T220000
+DTEND;TZID=Europe/Vienna:20261220T060000
+SUMMARY:traveling without moving
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Muallem\, PARAMIDA\, vince\n\nWeitere Ausgabe von „travelin
+ g without moving“ von created-on-earth im Funkhaus\, kurz vor Weihnach
+ ten. 22:00–06:00\, ab 18. Lineup und Preis sind noch nicht angekündig
+ t.\n\nhttps://rave.wien/e/2026-12-19-traveling-without-moving
+URL:https://rave.wien/e/2026-12-19-traveling-without-moving
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-05-09-lighthouse-x-grelle-forelle-warmup-vie@rave.wien
 DTSTAMP:20260509T000000Z
 DTSTART;VALUE=DATE:20260509
