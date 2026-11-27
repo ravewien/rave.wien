@@ -1,5 +1,4 @@
 # Nacht-Schub 26./27.11.2026 – Warteschlange. Jeder Lauf nimmt die oberste Zeile (und löscht sie per Commit), dann arbeitet er sie ab.
-Eventsuche, Liste k04
 Eventsuche, Liste k05
 Eventsuche, Liste k06
 Eventsuche, Liste k07
