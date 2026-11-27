@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fritello Tonat · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-31-nye-gala@rave.wien
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Vienna:20261231T230000
+DTEND;TZID=Europe/Vienna:20270101T120000
+SUMMARY:NYE Gala
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Vanessa\, Fritello Tonat\, maximo\, Leon Diamant\, Migu\nEint
+ ritt: 10–15 €\n\nSilvester im SASS Music Club: Die „NYE Gala“ 
+ – laut Club eine „Silvester im Sass Sause“ – läuft von 23 Uhr b
+ is 12 Uhr mittags am Neujahrstag. Es spielen Vanessa\, Fritello Tonat\, 
+ maximo\, Leon Diamant und Migu. Eintritt 10–15 € inklusive Willkomme
+ nsgetränk. Alle SASS-Veranstaltungen werden von einem Awareness-Team be
+ gleitet\; Einlass ab 18.\n\nhttps://rave.wien/e/2026-12-31-nye-gala
+URL:https://rave.wien/e/2026-12-31-nye-gala
+END:VEVENT
+END:VCALENDAR

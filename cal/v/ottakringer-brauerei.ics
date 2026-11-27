@@ -26,6 +26,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2027-10-31-halloween-rave-ottakringer-brauerei@rave.wien
+DTSTAMP:20271031T000000Z
+DTSTART;TZID=Europe/Vienna:20271031T210000
+DTEND;TZID=Europe/Vienna:20271101T050000
+SUMMARY:Halloween Rave | Ottakringer Brauerei
+LOCATION:Ottakringer Brauerei\, Ottakringer Platz 1\, 1160 Wien
+DESCRIPTION:Veranstalter: KSOT\nEintritt: 13\,50–22\,50 €\n\nHallowee
+ n-Rave von KSOT (Kein Sonntag ohne Techno) in der Ottakringer Brauerei\,
+  von 21 bis 5 Uhr. Der Vorverkauf im KSOT-Ticketshop läuft bereits\, mi
+ t gestaffelten Ticketstufen von 13\,50 bis 22\,50 €. Ein Line-up ist n
+ och nicht veröffentlicht.\n\nhttps://rave.wien/e/2027-10-31-halloween-r
+ ave-ottakringer-brauerei
+URL:https://rave.wien/e/2027-10-31-halloween-rave-ottakringer-brauerei
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-30-zusammenkommen-susses-oder-sauerei@rave.wien
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=Europe/Vienna:20261030T210000

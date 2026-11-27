@@ -26,6 +26,19 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2027-01-27-klang909-with-benwal@rave.wien
+DTSTAMP:20270127T000000Z
+DTSTART;TZID=Europe/Vienna:20270127T230000
+DTEND;TZID=Europe/Vienna:20270128T040000
+SUMMARY:Klang909 with Benwal
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Benwal\n\n„Klang909“ im Club Praterstraße mit Benwal\, B
+ eginn 23 Uhr (laut Techno Airlines und Resident Advisor). Weitere Acts\,
+  Preis und Ende sind noch nicht veröffentlicht.\n\nhttps://rave.wien/e/
+ 2027-01-27-klang909-with-benwal
+URL:https://rave.wien/e/2027-01-27-klang909-with-benwal
+END:VEVENT
+BEGIN:VEVENT
 UID:2025-08-22-turbo-x-nexus-feat-benwal@rave.wien
 DTSTAMP:20250822T000000Z
 DTSTART;VALUE=DATE:20250822

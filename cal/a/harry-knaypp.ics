@@ -39,4 +39,20 @@ DESCRIPTION:Harry Knaypp\, Polo\nVeranstalter: Qualia\nEintritt: 10 € (
  ritt 10 € an der Abendkasse.\n\nhttps://rave.wien/e/2026-11-27-qualia
 URL:https://rave.wien/e/2026-11-27-qualia
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-stefanitanz@rave.wien
+DTSTAMP:20261226T000000Z
+DTSTART;TZID=Europe/Vienna:20261226T230000
+DTEND;TZID=Europe/Vienna:20261227T050000
+SUMMARY:Stefanitanz
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:CJ Bambi\, Franjazzco\, Harry Knaypp\nVeranstalter: Wohnzimme
+ r\nEintritt: 10–15 €\n\n„Stefanitanz“ im SASS Music Club – lau
+ t Club „Feiertag ist Feiertag“\, gefeiert wird im Wohnzimmer-Format 
+ von 23 bis 5 Uhr. Es spielen CJ Bambi\, Franjazzco und Harry Knaypp. Ein
+ tritt 10–15 € inklusive Willkommensgetränk. Alle SASS-Veranstaltung
+ en werden von einem Awareness-Team begleitet\; Einlass ab 18.\n\nhttps:/
+ /rave.wien/e/2026-12-26-stefanitanz
+URL:https://rave.wien/e/2026-12-26-stefanitanz
+END:VEVENT
 END:VCALENDAR

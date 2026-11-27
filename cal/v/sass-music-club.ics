@@ -274,6 +274,21 @@ DESCRIPTION:entrance\nVeranstalter: Morgengymnastik\, Entrance\nEintritt:
 URL:https://rave.wien/e/2026-12-13-morgengymnastik-entrance
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-17-donnerstag-nacht-apua-friends@rave.wien
+DTSTAMP:20261217T000000Z
+DTSTART;TZID=Europe/Vienna:20261217T230000
+DTEND;TZID=Europe/Vienna:20261218T060000
+SUMMARY:Donnerstag Nacht – Apua & Friends
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Apua\nEintritt: 10–15 € / Studierende 0–5 €\n\nDonner
+ stag Nacht im SASS Music Club mit Apua & Friends\, von 23 bis 6 Uhr. Neb
+ en Apua sind weitere Acts noch nicht angekündigt. Eintritt regulär 10
+ –15 € inklusive Willkommensgetränk\, Studierende 0–5 €. Alle SA
+ SS-Veranstaltungen werden von einem Awareness-Team begleitet\; Einlass a
+ b 18.\n\nhttps://rave.wien/e/2026-12-17-donnerstag-nacht-apua-friends
+URL:https://rave.wien/e/2026-12-17-donnerstag-nacht-apua-friends
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-18-joyce-muniz-im-wohnzimmer@rave.wien
 DTSTAMP:20261218T000000Z
 DTSTART;TZID=Europe/Vienna:20261218T230000
@@ -294,6 +309,114 @@ DESCRIPTION:Joyce Muniz\, Joules\nVeranstalter: Wohnzimmer\nEintritt: 10
  sgetränk\, ein Awareness-Team begleitet den Abend.\n\nhttps://rave.wien
  /e/2026-12-18-joyce-muniz-im-wohnzimmer
 URL:https://rave.wien/e/2026-12-18-joyce-muniz-im-wohnzimmer
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-19-23xi-berlin@rave.wien
+DTSTAMP:20261219T000000Z
+DTSTART;TZID=Europe/Vienna:20261219T230000
+DTEND;TZID=Europe/Vienna:20261220T060000
+SUMMARY:23XI Berlin
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Kirsch\, Siggatunez\, Marie Phi\, Chris Ku\nEintritt: 10–15
+  €\n\n„23XI Berlin“ im SASS Music Club unter dem Motto „Berlin m
+ eets Wien“\, von 23 bis 6 Uhr. Es spielen Kirsch\, Siggatunez\, Marie 
+ Phi und Chris Ku. Eintritt 10–15 € inklusive Willkommensgetränk. Al
+ le SASS-Veranstaltungen werden von einem Awareness-Team begleitet\; Einl
+ ass ab 18.\n\nhttps://rave.wien/e/2026-12-19-23xi-berlin
+URL:https://rave.wien/e/2026-12-19-23xi-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-morgengymnastik-wos-soundsystem@rave.wien
+DTSTAMP:20261220T000000Z
+DTSTART;TZID=Europe/Vienna:20261220T060000
+DTEND;TZID=Europe/Vienna:20261220T110000
+SUMMARY:Morgengymnastik × WOS Soundsystem
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Bryan Kessler\, Oliviero\nVeranstalter: Morgengymnastik\nEint
+ ritt: 15 €\n\nMorgengymnastik\, die Sonntags-Afterhour im SASS Music C
+ lub\, von 6 bis 11 Uhr mit dem WOS Soundsystem: Es spielen Bryan Kessler
+  und Oliviero. Eintritt 15 €. Alle SASS-Veranstaltungen werden von ein
+ em Awareness-Team begleitet\; Einlass ab 18.\n\nhttps://rave.wien/e/2026
+ -12-20-morgengymnastik-wos-soundsystem
+URL:https://rave.wien/e/2026-12-20-morgengymnastik-wos-soundsystem
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-24-donnerstag-nacht-ho-ho-housetiere@rave.wien
+DTSTAMP:20261224T000000Z
+DTSTART;TZID=Europe/Vienna:20261224T230000
+DTEND;TZID=Europe/Vienna:20261225T060000
+SUMMARY:Donnerstag Nacht – Ho Ho Housetiere
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Housetiere\, Reinhard Zach\nVeranstalter: Housetiere\nEintrit
+ t: 10–15 € / Studierende 0–5 €\n\nHeiligabend im SASS Music Club
+ : Die Donnerstag Nacht wird zu „Ho Ho Housetiere“ – laut Club wird
+  der Heilige Abend „housy“. Es spielen Housetiere und Reinhard Zach\
+ , von 23 bis 6 Uhr. Eintritt regulär 10–15 € inklusive Willkommensg
+ etränk\, Studierende 0–5 €. Alle SASS-Veranstaltungen werden von ei
+ nem Awareness-Team begleitet\; Einlass ab 18.\n\nhttps://rave.wien/e/202
+ 6-12-24-donnerstag-nacht-ho-ho-housetiere
+URL:https://rave.wien/e/2026-12-24-donnerstag-nacht-ho-ho-housetiere
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25-lampenfieber@rave.wien
+DTSTAMP:20261225T000000Z
+DTSTART;TZID=Europe/Vienna:20261225T230000
+DTEND;TZID=Europe/Vienna:20261226T060000
+SUMMARY:Lampenfieber
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Nunø\, Klamauk\, PAUNA\nEintritt: 10–15 €\n\n„Lampenfi
+ eber“ am Christtag im SASS Music Club – laut Club wird auch am Weihn
+ achtstag die Nacht zum Tag gemacht. Es spielen Nunø\, Klamauk und Pauna
+ \, von 23 bis 6 Uhr. Eintritt 10–15 € inklusive Willkommensgetränk.
+  Alle SASS-Veranstaltungen werden von einem Awareness-Team begleitet\; E
+ inlass ab 18.\n\nhttps://rave.wien/e/2026-12-25-lampenfieber
+URL:https://rave.wien/e/2026-12-25-lampenfieber
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-stefanitanz@rave.wien
+DTSTAMP:20261226T000000Z
+DTSTART;TZID=Europe/Vienna:20261226T230000
+DTEND;TZID=Europe/Vienna:20261227T050000
+SUMMARY:Stefanitanz
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:CJ Bambi\, Franjazzco\, Harry Knaypp\nVeranstalter: Wohnzimme
+ r\nEintritt: 10–15 €\n\n„Stefanitanz“ im SASS Music Club – lau
+ t Club „Feiertag ist Feiertag“\, gefeiert wird im Wohnzimmer-Format 
+ von 23 bis 5 Uhr. Es spielen CJ Bambi\, Franjazzco und Harry Knaypp. Ein
+ tritt 10–15 € inklusive Willkommensgetränk. Alle SASS-Veranstaltung
+ en werden von einem Awareness-Team begleitet\; Einlass ab 18.\n\nhttps:/
+ /rave.wien/e/2026-12-26-stefanitanz
+URL:https://rave.wien/e/2026-12-26-stefanitanz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-morgengymnastik@rave.wien
+DTSTAMP:20261227T000000Z
+DTSTART;TZID=Europe/Vienna:20261227T060000
+DTEND;TZID=Europe/Vienna:20261227T110000
+SUMMARY:Morgengymnastik
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Migu\nVeranstalter: Morgengymnastik\nEintritt: 15 €\n\nMorg
+ engymnastik\, die Sonntags-Afterhour im SASS Music Club\, von 6 bis 11 U
+ hr mit Migu. Eintritt 15 €. Alle SASS-Veranstaltungen werden von einem
+  Awareness-Team begleitet\; Einlass ab 18.\n\nhttps://rave.wien/e/2026-1
+ 2-27-morgengymnastik
+URL:https://rave.wien/e/2026-12-27-morgengymnastik
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-nye-gala@rave.wien
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Vienna:20261231T230000
+DTEND;TZID=Europe/Vienna:20270101T120000
+SUMMARY:NYE Gala
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Vanessa\, Fritello Tonat\, maximo\, Leon Diamant\, Migu\nEint
+ ritt: 10–15 €\n\nSilvester im SASS Music Club: Die „NYE Gala“ 
+ – laut Club eine „Silvester im Sass Sause“ – läuft von 23 Uhr b
+ is 12 Uhr mittags am Neujahrstag. Es spielen Vanessa\, Fritello Tonat\, 
+ maximo\, Leon Diamant und Migu. Eintritt 10–15 € inklusive Willkomme
+ nsgetränk. Alle SASS-Veranstaltungen werden von einem Awareness-Team be
+ gleitet\; Einlass ab 18.\n\nhttps://rave.wien/e/2026-12-31-nye-gala
+URL:https://rave.wien/e/2026-12-31-nye-gala
 END:VEVENT
 BEGIN:VEVENT
 UID:2025-04-20-morgengymnastik@rave.wien

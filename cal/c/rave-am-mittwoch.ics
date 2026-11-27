@@ -26,21 +26,85 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-25-rave-am-mittwoch@rave.wien
-DTSTAMP:20261125T000000Z
-DTSTART;TZID=Europe/Vienna:20261125T230000
-DTEND;TZID=Europe/Vienna:20261126T040000
+UID:2026-12-02-rave-am-mittwoch@rave.wien
+DTSTAMP:20261202T000000Z
+DTSTART;TZID=Europe/Vienna:20261202T230000
+DTEND;TZID=Europe/Vienna:20261203T040000
 SUMMARY:Rave am Mittwoch
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Rave am Mittwoch\nEintritt: Freie Spende\n\nDer
-  wöchentliche Rave am Mittwoch (RAM) im Werk unter dem Motto „Recharg
- e Wednesdays“ – laut Veranstalter jede Woche harte Beats und lange N
- ächte\, Beginn 23 Uhr. Frühere Ausgaben (z. B. 14.10. mit FIFI RAVE) l
- iefen mit Hardgroove und Techno\, 18+\, Eintritt gegen freiwillige Spend
- e\, ohne Dresscode und mit Awareness-Team. Das Line-up dieser Ausgabe is
- t noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-11-25-rave-am-
- mittwoch
-URL:https://rave.wien/e/2026-11-25-rave-am-mittwoch
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentlichen Rave am 
+ Mittwoch (RAM) im Werk unter dem Motto „Recharge Wednesdays“ – lau
+ t Veranstalter jede Woche harte Beats und lange Nächte\, Beginn 23 Uhr.
+  Frühere Ausgaben liefen mit Hardgroove und Techno\, Eintritt gegen fre
+ iwillige Spende\, ohne Dresscode und mit Awareness-Team. Das Line-up die
+ ser Ausgabe ist noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-
+ 12-02-rave-am-mittwoch
+URL:https://rave.wien/e/2026-12-02-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-rave-am-mittwoch@rave.wien
+DTSTAMP:20261209T000000Z
+DTSTART;TZID=Europe/Vienna:20261209T230000
+DTEND;TZID=Europe/Vienna:20261210T040000
+SUMMARY:Rave am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentlichen Rave am 
+ Mittwoch (RAM) im Werk unter dem Motto „Recharge Wednesdays“ – lau
+ t Veranstalter jede Woche harte Beats und lange Nächte\, Beginn 23 Uhr.
+  Frühere Ausgaben liefen mit Hardgroove und Techno\, Eintritt gegen fre
+ iwillige Spende\, ohne Dresscode und mit Awareness-Team. Das Line-up die
+ ser Ausgabe ist noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-
+ 12-09-rave-am-mittwoch
+URL:https://rave.wien/e/2026-12-09-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-rave-am-mittwoch@rave.wien
+DTSTAMP:20261216T000000Z
+DTSTART;TZID=Europe/Vienna:20261216T230000
+DTEND;TZID=Europe/Vienna:20261217T040000
+SUMMARY:Rave am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentlichen Rave am 
+ Mittwoch (RAM) im Werk unter dem Motto „Recharge Wednesdays“ – lau
+ t Veranstalter jede Woche harte Beats und lange Nächte\, Beginn 23 Uhr.
+  Frühere Ausgaben liefen mit Hardgroove und Techno\, Eintritt gegen fre
+ iwillige Spende\, ohne Dresscode und mit Awareness-Team. Das Line-up die
+ ser Ausgabe ist noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-
+ 12-16-rave-am-mittwoch
+URL:https://rave.wien/e/2026-12-16-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25-rave-am-mittwoch-special@rave.wien
+DTSTAMP:20261225T000000Z
+DTSTART;TZID=Europe/Vienna:20261225T230000
+DTEND;TZID=Europe/Vienna:20261226T040000
+SUMMARY:Rave am Mittwoch Special
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nFeiertags-Spezialausgabe de
+ s wöchentlichen Rave am Mittwoch (RAM) im Werk unter dem Motto „Recha
+ rge Wednesdays“ – laut Veranstalter jede Woche harte Beats und lange
+  Nächte\, Beginn 23 Uhr\; diese Ausgabe findet ausnahmsweise am Christt
+ ag (Freitag\, 25.12.) statt. Frühere Ausgaben liefen mit Hardgroove und
+  Techno\, Eintritt gegen freiwillige Spende\, ohne Dresscode und mit Awa
+ reness-Team. Das Line-up dieser Ausgabe ist noch nicht veröffentlicht.\
+ n\nhttps://rave.wien/e/2026-12-25-rave-am-mittwoch-special
+URL:https://rave.wien/e/2026-12-25-rave-am-mittwoch-special
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-rave-am-mittwoch@rave.wien
+DTSTAMP:20261230T000000Z
+DTSTART;TZID=Europe/Vienna:20261230T230000
+DTEND;TZID=Europe/Vienna:20261231T040000
+SUMMARY:Rave am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentlichen Rave am 
+ Mittwoch (RAM) im Werk unter dem Motto „Recharge Wednesdays“ – lau
+ t Veranstalter jede Woche harte Beats und lange Nächte\, Beginn 23 Uhr.
+  Frühere Ausgaben liefen mit Hardgroove und Techno\, Eintritt gegen fre
+ iwillige Spende\, ohne Dresscode und mit Awareness-Team. Das Line-up die
+ ser Ausgabe ist noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-
+ 12-30-rave-am-mittwoch
+URL:https://rave.wien/e/2026-12-30-rave-am-mittwoch
 END:VEVENT
 BEGIN:VEVENT
 UID:2024-07-24-rave-am-mittwoch-tomagan-artemis-jodok@rave.wien
@@ -402,5 +466,22 @@ DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentliche Rave am M
  ne-up dieser Ausgabe ist noch nicht veröffentlicht.\n\nhttps://rave.wie
  n/e/2026-11-18-rave-am-mittwoch
 URL:https://rave.wien/e/2026-11-18-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-rave-am-mittwoch@rave.wien
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Vienna:20261125T230000
+DTEND;TZID=Europe/Vienna:20261126T040000
+SUMMARY:Rave am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\nEintritt: Freie Spende\n\nDer
+  wöchentliche Rave am Mittwoch (RAM) im Werk unter dem Motto „Recharg
+ e Wednesdays“ – laut Veranstalter jede Woche harte Beats und lange N
+ ächte\, Beginn 23 Uhr. Frühere Ausgaben (z. B. 14.10. mit FIFI RAVE) l
+ iefen mit Hardgroove und Techno\, 18+\, Eintritt gegen freiwillige Spend
+ e\, ohne Dresscode und mit Awareness-Team. Das Line-up dieser Ausgabe is
+ t noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-11-25-rave-am-
+ mittwoch
+URL:https://rave.wien/e/2026-11-25-rave-am-mittwoch
 END:VEVENT
 END:VCALENDAR

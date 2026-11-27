@@ -26,6 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-24-donnerstag-nacht-ho-ho-housetiere@rave.wien
+DTSTAMP:20261224T000000Z
+DTSTART;TZID=Europe/Vienna:20261224T230000
+DTEND;TZID=Europe/Vienna:20261225T060000
+SUMMARY:Donnerstag Nacht – Ho Ho Housetiere
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Housetiere\, Reinhard Zach\nVeranstalter: Housetiere\nEintrit
+ t: 10–15 € / Studierende 0–5 €\n\nHeiligabend im SASS Music Club
+ : Die Donnerstag Nacht wird zu „Ho Ho Housetiere“ – laut Club wird
+  der Heilige Abend „housy“. Es spielen Housetiere und Reinhard Zach\
+ , von 23 bis 6 Uhr. Eintritt regulär 10–15 € inklusive Willkommensg
+ etränk\, Studierende 0–5 €. Alle SASS-Veranstaltungen werden von ei
+ nem Awareness-Team begleitet\; Einlass ab 18.\n\nhttps://rave.wien/e/202
+ 6-12-24-donnerstag-nacht-ho-ho-housetiere
+URL:https://rave.wien/e/2026-12-24-donnerstag-nacht-ho-ho-housetiere
+END:VEVENT
+BEGIN:VEVENT
 UID:2025-03-22-techno-entgleist-x-du-tanzt-mich-mal@rave.wien
 DTSTAMP:20250322T000000Z
 DTSTART;VALUE=DATE:20250322

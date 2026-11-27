@@ -133,6 +133,23 @@ DESCRIPTION:DBBD\, Who is Ela¿\, AVO2X\, ENJA\, Spud Bencer\, DJ Backsta
 URL:https://rave.wien/e/2026-12-07-cybertribe-11-years-w-dbbd
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-10-klang-with-909-racing-team@rave.wien
+DTSTAMP:20261210T000000Z
+DTSTART;TZID=Europe/Vienna:20261210T230000
+DTEND;TZID=Europe/Vienna:20261211T040000
+SUMMARY:Klang with 909 Racing Team
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Mike Momburg\, Domenik Deckert\n\n„Klang“ im Club Praters
+ traße mit dem 909 Racing Team\, dem Duo der deutschen DJs Mike Momburg 
+ und Domenik Deckert\, Beginn 23 Uhr (laut Techno Airlines und Resident A
+ dvisor). Mike Momburg ist als House- und Techno-DJ u. a. mit Nächten wi
+ e „SOUND SOUND“ im Kölner Artheater unterwegs\; als 909 Racing Team
+  spielen die beiden gemeinsame Sets etwa im Berliner Bulbul. Preis und E
+ nde sind noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-10-k
+ lang-with-909-racing-team
+URL:https://rave.wien/e/2026-12-10-klang-with-909-racing-team
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-12-redivider-pres-audrey-danza@rave.wien
 DTSTAMP:20261212T000000Z
 DTSTART;TZID=Europe/Vienna:20261212T230000
@@ -177,6 +194,19 @@ DESCRIPTION:Eintritt: ab 20 €\n\nSilvesternacht im PRST Club an der Pra
  noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-31-new-years-
  eve-at-prst-club
 URL:https://rave.wien/e/2026-12-31-new-years-eve-at-prst-club
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-klang909-with-benwal@rave.wien
+DTSTAMP:20270127T000000Z
+DTSTART;TZID=Europe/Vienna:20270127T230000
+DTEND;TZID=Europe/Vienna:20270128T040000
+SUMMARY:Klang909 with Benwal
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Benwal\n\n„Klang909“ im Club Praterstraße mit Benwal\, B
+ eginn 23 Uhr (laut Techno Airlines und Resident Advisor). Weitere Acts\,
+  Preis und Ende sind noch nicht veröffentlicht.\n\nhttps://rave.wien/e/
+ 2027-01-27-klang909-with-benwal
+URL:https://rave.wien/e/2027-01-27-klang909-with-benwal
 END:VEVENT
 BEGIN:VEVENT
 UID:2023-10-13-jetlag-disco-3-w-daniel-nitsch-oberst-buchner@rave.wien

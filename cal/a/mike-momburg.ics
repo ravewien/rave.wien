@@ -26,6 +26,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-10-klang-with-909-racing-team@rave.wien
+DTSTAMP:20261210T000000Z
+DTSTART;TZID=Europe/Vienna:20261210T230000
+DTEND;TZID=Europe/Vienna:20261211T040000
+SUMMARY:Klang with 909 Racing Team
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Mike Momburg\, Domenik Deckert\n\n„Klang“ im Club Praters
+ traße mit dem 909 Racing Team\, dem Duo der deutschen DJs Mike Momburg 
+ und Domenik Deckert\, Beginn 23 Uhr (laut Techno Airlines und Resident A
+ dvisor). Mike Momburg ist als House- und Techno-DJ u. a. mit Nächten wi
+ e „SOUND SOUND“ im Kölner Artheater unterwegs\; als 909 Racing Team
+  spielen die beiden gemeinsame Sets etwa im Berliner Bulbul. Preis und E
+ nde sind noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-10-k
+ lang-with-909-racing-team
+URL:https://rave.wien/e/2026-12-10-klang-with-909-racing-team
+END:VEVENT
+BEGIN:VEVENT
 UID:2025-11-08-viva-vienna-invites-mike-momburg@rave.wien
 DTSTAMP:20251108T000000Z
 DTSTART;VALUE=DATE:20251108

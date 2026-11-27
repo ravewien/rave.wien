@@ -26,6 +26,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-25-lampenfieber@rave.wien
+DTSTAMP:20261225T000000Z
+DTSTART;TZID=Europe/Vienna:20261225T230000
+DTEND;TZID=Europe/Vienna:20261226T060000
+SUMMARY:Lampenfieber
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Nunø\, Klamauk\, PAUNA\nEintritt: 10–15 €\n\n„Lampenfi
+ eber“ am Christtag im SASS Music Club – laut Club wird auch am Weihn
+ achtstag die Nacht zum Tag gemacht. Es spielen Nunø\, Klamauk und Pauna
+ \, von 23 bis 6 Uhr. Eintritt 10–15 € inklusive Willkommensgetränk.
+  Alle SASS-Veranstaltungen werden von einem Awareness-Team begleitet\; E
+ inlass ab 18.\n\nhttps://rave.wien/e/2026-12-25-lampenfieber
+URL:https://rave.wien/e/2026-12-25-lampenfieber
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-02-19-deep-cut-w-neoom-pauna-pezel@rave.wien
 DTSTAMP:20260219T000000Z
 DTSTART;VALUE=DATE:20260219

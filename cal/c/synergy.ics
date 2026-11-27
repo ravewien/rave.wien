@@ -26,6 +26,19 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-26-synergy@rave.wien
+DTSTAMP:20261226T000000Z
+DTSTART;TZID=Europe/Vienna:20261226T230000
+DTEND;TZID=Europe/Vienna:20261227T040000
+SUMMARY:Synergy
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nSynergy am Stefanitag im Werk\, Begi
+ nn 23 Uhr. Die Reihe brachte zuletzt Trance und Hard Techno auf zwei Flo
+ ors ins Werk. Line-up\, Preis und Ende dieser Ausgabe sind noch nicht ve
+ röffentlicht.\n\nhttps://rave.wien/e/2026-12-26-synergy
+URL:https://rave.wien/e/2026-12-26-synergy
+END:VEVENT
+BEGIN:VEVENT
 UID:2024-07-05-synergy-rave-trance-hardtechno-on-2-floors@rave.wien
 DTSTAMP:20240705T000000Z
 DTSTART;VALUE=DATE:20240705

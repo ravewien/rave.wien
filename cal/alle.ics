@@ -26,40 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-25-shared-frequencies-listening-session@rave.wien
-DTSTAMP:20261125T000000Z
-DTSTART;TZID=Europe/Vienna:20261125T183000
-DTEND;TZID=Europe/Vienna:20261126T000000
-SUMMARY:shared frequencies: listening session
-LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
-DESCRIPTION:Reeno Reluv\, dr.schick\, ooku.\, DJ Soup\nVeranstalter: shar
- ed frequencies\n\nListening-Session der Reihe shared frequencies im Funk
- haus an einem Mittwochabend. Die Reise führt laut Ankündigung durch sc
- hwarze Underground-Dance-Musik aus den USA – von Disco und Techno übe
- r Chicago Footwork bis Miami Booty Bass. Zuvor widmete sich die Reihe UK
- -Bass und Soundsystem-Kultur. Gegen Ende übernehmen die Gäste Reeno Re
- luv und DJ Soup.\n\nhttps://rave.wien/e/2026-11-25-shared-frequencies-li
- stening-session
-URL:https://rave.wien/e/2026-11-25-shared-frequencies-listening-session
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-25-rave-am-mittwoch@rave.wien
-DTSTAMP:20261125T000000Z
-DTSTART;TZID=Europe/Vienna:20261125T230000
-DTEND;TZID=Europe/Vienna:20261126T040000
-SUMMARY:Rave am Mittwoch
-LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Veranstalter: Rave am Mittwoch\nEintritt: Freie Spende\n\nDer
-  wöchentliche Rave am Mittwoch (RAM) im Werk unter dem Motto „Recharg
- e Wednesdays“ – laut Veranstalter jede Woche harte Beats und lange N
- ächte\, Beginn 23 Uhr. Frühere Ausgaben (z. B. 14.10. mit FIFI RAVE) l
- iefen mit Hardgroove und Techno\, 18+\, Eintritt gegen freiwillige Spend
- e\, ohne Dresscode und mit Awareness-Team. Das Line-up dieser Ausgabe is
- t noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-11-25-rave-am-
- mittwoch
-URL:https://rave.wien/e/2026-11-25-rave-am-mittwoch
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-26-nomenklatur-w-cancer-house-live-when-it-s-over-li@rave.wien
 DTSTAMP:20261126T000000Z
 DTSTART;TZID=Europe/Vienna:20261126T200000
@@ -175,6 +141,20 @@ DESCRIPTION:\nOpen-Decks-Abend in der Semmelweisklinik (ehemalige Klinik
 URL:https://rave.wien/e/2026-11-27-semmelweisklinik-open-decks
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-funk-to-bass@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T210000
+DTEND;TZID=Europe/Vienna:20261128T020000
+SUMMARY:Funk to Bass
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:\nClubnacht „Funk to Bass“ im Kramladen ab 21 Uhr\, laut 
+ Techno Airlines und Resident Advisor. Der Titel verspricht einen Bogen v
+ on Funk bis zu Bass-Musik\; Line-up\, Preis und Ende sind nicht veröffe
+ ntlicht.\n\nhttps://rave.wien/e/2026-11-27-funk-to-bass
+URL:https://rave.wien/e/2026-11-27-funk-to-bass
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-27-20-jahre-cpe@rave.wien
 DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Vienna:20261127T220000
@@ -200,11 +180,17 @@ DTSTART;TZID=Europe/Vienna:20261127T220000
 DTEND;TZID=Europe/Vienna:20261128T030000
 SUMMARY:Luv Affair
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:Veranstalter: Luv Affair\n\nLuv Affair feiert im FLUCC das si
- ebenjährige Bestehen der Reihe („7th Anniversary of LuvAffair“\, la
- ut Techno Airlines und RA). Das FLUCC führt die Nacht ab 22:00 auf dem 
- Deck\; ein Line-up ist noch nicht veröffentlicht.\n\nhttps://rave.wien/
- e/2026-11-27-luv-affair
+DESCRIPTION:Schmorrn\, Diego\, Clarky\, K8\, Lim Banda\, BenBorn\, Lev\, 
+ Ernsthaft Lieb\, JP Bechamel\, Franjazzco\nVeranstalter: Luv Affair\nEin
+ tritt: 15 € (bis 00:00) / 20 € (ab 00:00)\, nur Abendkasse\n\nLuv Af
+ fair feiert im FLUCC das siebenjährige Bestehen der Reihe – unter dem
+  Motto „The 7 Year Itch – Das verflixte 7. Jahr“\, auf Wanne und D
+ eck ab 22 Uhr. Laut Veranstalter stehen sieben Jahre Musik\, Freundschaf
+ ten\, lange Nächte und „beautiful chaos“ im Mittelpunkt – „Stil
+ l in Luv. Still figuring it out.“ Es spielen Schmorrn (live)\, Diego\,
+  Clarky & K8\, Lim Banda & BenBorn\, Lev\, Ernsthaft Lieb sowie JP Becha
+ mel & Franjazzco. Eintritt 15 € bis Mitternacht\, danach 20 €\, nur 
+ Abendkasse.\n\nhttps://rave.wien/e/2026-11-27-luv-affair
 URL:https://rave.wien/e/2026-11-27-luv-affair
 END:VEVENT
 BEGIN:VEVENT
@@ -898,6 +884,22 @@ DESCRIPTION:Tonic Walter\nEintritt: VVK ab 31\,40 €\n\nDas Duo Tonic Wa
 URL:https://rave.wien/e/2026-12-02-tonic-walter-ii-tour-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-02-rave-am-mittwoch@rave.wien
+DTSTAMP:20261202T000000Z
+DTSTART;TZID=Europe/Vienna:20261202T230000
+DTEND;TZID=Europe/Vienna:20261203T040000
+SUMMARY:Rave am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentlichen Rave am 
+ Mittwoch (RAM) im Werk unter dem Motto „Recharge Wednesdays“ – lau
+ t Veranstalter jede Woche harte Beats und lange Nächte\, Beginn 23 Uhr.
+  Frühere Ausgaben liefen mit Hardgroove und Techno\, Eintritt gegen fre
+ iwillige Spende\, ohne Dresscode und mit Awareness-Team. Das Line-up die
+ ser Ausgabe ist noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-
+ 12-02-rave-am-mittwoch
+URL:https://rave.wien/e/2026-12-02-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-03-15-years-restless-album-release-party@rave.wien
 DTSTAMP:20261203T000000Z
 DTSTART;TZID=Europe/Vienna:20261203T200000
@@ -1109,15 +1111,15 @@ DTSTART;TZID=Europe/Vienna:20261204T230000
 DTEND;TZID=Europe/Vienna:20261205T040000
 SUMMARY:Ninecircles
 LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
-DESCRIPTION:Bluest\, Provocateur\, KRISTUS\, Silentsevir\, Trugbild\, WO.
- IZZY\nVeranstalter: Ninecircles\n\nNinecircles-Nacht im Werk – die Rei
- he steht für Techno und Industrial\, „ein kompromissloser Trip in den
-  Underground“. Laut Techno Airlines und RA findet sie am Freitag\, 4. 
- Dezember ab 23:00 statt (nicht wie früher vermutet am 28.11.\, an dem i
- m Werk der Dead End Showcase läuft). Im Lineup stehen Bluest\, Provocat
- eur\, KRISTUS\, Silentsevir\, Trugbild und WO.IZZY. Preis und Ende sind 
- noch nicht bekannt\; im Werk gilt Einlass ab 21.\n\nhttps://rave.wien/e/
- 2026-12-04-ninecircles
+DESCRIPTION:Beruska\, Bluest\, Eva\, Provocateur\, Kristus\, Silentsevir\
+ , Trugbild\, Vazoz\, WO.IZZY\nVeranstalter: Ninecircles\n\nNinecircles-N
+ acht im Werk – die Reihe steht für Techno und Industrial\, „ein kom
+ promissloser Trip in den Underground“. Sie findet am Freitag\, 4. Deze
+ mber ab 23:00 statt (nicht wie früher vermutet am 28.11.\, an dem im We
+ rk der Dead End Showcase läuft). Laut Programm des Werk spielen Beruska
+ \, Bluest\, Eva\, Provocateur\, KRISTUS\, Silentsevir\, Trugbild\, Vazoz
+  und WO.IZZY. Tickets gibt es über Eventim Light\; Preis und Ende sind 
+ noch nicht bekannt.\n\nhttps://rave.wien/e/2026-12-04-ninecircles
 URL:https://rave.wien/e/2026-12-04-ninecircles
 END:VEVENT
 BEGIN:VEVENT
@@ -1947,6 +1949,22 @@ DESCRIPTION:Matteomie\, Kasi\, Xander\, Lampert\, Luke\, Chiara\nEintritt
 URL:https://rave.wien/e/2026-12-07-landle-takeover-extended
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-07-hit-it-hard-hosted-by-gdn@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T230000
+DTEND;TZID=Europe/Vienna:20261208T040000
+SUMMARY:Hit it Hard hosted by GDN
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:LUZZT\, Audio 303\, Trugbild\, DJ Wolle\nVeranstalter: GDN\n\
+ n„Hit it Hard“\, eine Nacht des Wiener Kollektivs GDN im Werk am Mon
+ tag vor dem Feiertag (Mariä Empfängnis)\, Beginn 23 Uhr. Es spielen Lu
+ zzt\, Audio 303\, Trugbild und DJ Wolle. GDN steht im Werk für harte Sp
+ ielarten von Techno\, Hardgroove und Schranz. Preis und Ende sind noch n
+ icht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-07-hit-it-hard-host
+ ed-by-gdn
+URL:https://rave.wien/e/2026-12-07-hit-it-hard-hosted-by-gdn
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-07-alert-a-x-exceso@rave.wien
 DTSTAMP:20261207T000000Z
 DTSTART;TZID=Europe/Vienna:20261207T235900
@@ -1984,6 +2002,22 @@ URL:https://rave.wien/e/2026-12-08-verknallt-x-tuff-w-a-n-i-dj-dreckisch-
  daytime-rav
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-09-rave-am-mittwoch@rave.wien
+DTSTAMP:20261209T000000Z
+DTSTART;TZID=Europe/Vienna:20261209T230000
+DTEND;TZID=Europe/Vienna:20261210T040000
+SUMMARY:Rave am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentlichen Rave am 
+ Mittwoch (RAM) im Werk unter dem Motto „Recharge Wednesdays“ – lau
+ t Veranstalter jede Woche harte Beats und lange Nächte\, Beginn 23 Uhr.
+  Frühere Ausgaben liefen mit Hardgroove und Techno\, Eintritt gegen fre
+ iwillige Spende\, ohne Dresscode und mit Awareness-Team. Das Line-up die
+ ser Ausgabe ist noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-
+ 12-09-rave-am-mittwoch
+URL:https://rave.wien/e/2026-12-09-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-10-donnerstag-nacht-herzzz-weihnachtspunsch@rave.wien
 DTSTAMP:20261210T000000Z
 DTSTART;TZID=Europe/Vienna:20261210T230000
@@ -2003,6 +2037,23 @@ DESCRIPTION:j.around\, LizN\, Aylean\, Anni Herzer\nVeranstalter: HERZZZ\
  nacht-herzzz-weihnachtspunsch
 URL:https://rave.wien/e/2026-12-10-donnerstag-nacht-herzzz-weihnachtspuns
  ch
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-klang-with-909-racing-team@rave.wien
+DTSTAMP:20261210T000000Z
+DTSTART;TZID=Europe/Vienna:20261210T230000
+DTEND;TZID=Europe/Vienna:20261211T040000
+SUMMARY:Klang with 909 Racing Team
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Mike Momburg\, Domenik Deckert\n\n„Klang“ im Club Praters
+ traße mit dem 909 Racing Team\, dem Duo der deutschen DJs Mike Momburg 
+ und Domenik Deckert\, Beginn 23 Uhr (laut Techno Airlines und Resident A
+ dvisor). Mike Momburg ist als House- und Techno-DJ u. a. mit Nächten wi
+ e „SOUND SOUND“ im Kölner Artheater unterwegs\; als 909 Racing Team
+  spielen die beiden gemeinsame Sets etwa im Berliner Bulbul. Preis und E
+ nde sind noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-10-k
+ lang-with-909-racing-team
+URL:https://rave.wien/e/2026-12-10-klang-with-909-racing-team
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-forbidden-frequency-am-wurstelstand@rave.wien
@@ -2172,6 +2223,19 @@ URL:https://rave.wien/e/2026-12-11-votiv-session-with-mathilda-malounadou
  -rehorn
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-11-dyst-pia-rave@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T230000
+DTEND;TZID=Europe/Vienna:20261212T040000
+SUMMARY:DYSTØPIA RAVE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nNeue Ausgabe von DYSTØPIA RAV
+ E\, der Techno-Reihe im Werk\, Beginn 23 Uhr. Das Werk führt die Nacht 
+ im Programm\; Line-up\, Preis und Ende sind noch nicht veröffentlicht.\
+ n\nhttps://rave.wien/e/2026-12-11-dyst-pia-rave
+URL:https://rave.wien/e/2026-12-11-dyst-pia-rave
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-11-taktgefuhl-vol-2@rave.wien
 DTSTAMP:20261211T000000Z
 DTSTART;TZID=Europe/Vienna:20261211T233000
@@ -2236,6 +2300,23 @@ DESCRIPTION:KlangKuenstler\, SHDW\, Svetec\, Karolina\nVeranstalter: VOID
  00–05:00\, RA nennt 55 € (Tickets über Tickethead)\, ab 18.\n\nhttp
  s://rave.wien/e/2026-12-12-klangkuenstler
 URL:https://rave.wien/e/2026-12-12-klangkuenstler
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-12-im-freudentaumel@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T220000
+DTEND;TZID=Europe/Vienna:20261213T030000
+SUMMARY:Im Freudentaumel
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:Eintritt: VVK 10 € / AK 12 €\n\n„Im Freudentaumel“ ke
+ hrt auf das FLUCC Deck zurück: Laut Veranstalter geht es darum\, gemein
+ sam ausgelassen zu tanzen und herzliche Menschen zusammenzubringen – m
+ it Deko und lustigen „Missionen“ (Eisbrecher-Aufgaben oder Gutschein
+ e für ein Glas Sekt). Das Line-up bleibt geheim. Motto: „Come as you 
+ are“ – alle sind willkommen\, solange nett und respektvoll. Vorverka
+ uf 10 €\, Abendkasse 12 €.\n\nhttps://rave.wien/e/2026-12-12-im-freu
+ dentaumel
+URL:https://rave.wien/e/2026-12-12-im-freudentaumel
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-psytrance-universe-werk@rave.wien
@@ -2415,6 +2496,22 @@ DESCRIPTION:balans\, Grubi\nVeranstalter: sama recordings\nEintritt: 15
 URL:https://rave.wien/e/2026-12-16-sama-recordings-pres-schweben
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-16-rave-am-mittwoch@rave.wien
+DTSTAMP:20261216T000000Z
+DTSTART;TZID=Europe/Vienna:20261216T230000
+DTEND;TZID=Europe/Vienna:20261217T040000
+SUMMARY:Rave am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentlichen Rave am 
+ Mittwoch (RAM) im Werk unter dem Motto „Recharge Wednesdays“ – lau
+ t Veranstalter jede Woche harte Beats und lange Nächte\, Beginn 23 Uhr.
+  Frühere Ausgaben liefen mit Hardgroove und Techno\, Eintritt gegen fre
+ iwillige Spende\, ohne Dresscode und mit Awareness-Team. Das Line-up die
+ ser Ausgabe ist noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-
+ 12-16-rave-am-mittwoch
+URL:https://rave.wien/e/2026-12-16-rave-am-mittwoch
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-17-heavy-listening-5-season-closing@rave.wien
 DTSTAMP:20261217T000000Z
 DTSTART;TZID=Europe/Vienna:20261217T200000
@@ -2449,6 +2546,21 @@ DESCRIPTION:Edictum\, LAVO\, Fede Frostl\, Noe Bortolussi\n\nDonnerstagab
  ht bekannt (RA-Seite für uns nicht lesbar).\n\nhttps://rave.wien/e/2026
  -12-17-progressive
 URL:https://rave.wien/e/2026-12-17-progressive
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-donnerstag-nacht-apua-friends@rave.wien
+DTSTAMP:20261217T000000Z
+DTSTART;TZID=Europe/Vienna:20261217T230000
+DTEND;TZID=Europe/Vienna:20261218T060000
+SUMMARY:Donnerstag Nacht – Apua & Friends
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Apua\nEintritt: 10–15 € / Studierende 0–5 €\n\nDonner
+ stag Nacht im SASS Music Club mit Apua & Friends\, von 23 bis 6 Uhr. Neb
+ en Apua sind weitere Acts noch nicht angekündigt. Eintritt regulär 10
+ –15 € inklusive Willkommensgetränk\, Studierende 0–5 €. Alle SA
+ SS-Veranstaltungen werden von einem Awareness-Team begleitet\; Einlass a
+ b 18.\n\nhttps://rave.wien/e/2026-12-17-donnerstag-nacht-apua-friends
+URL:https://rave.wien/e/2026-12-17-donnerstag-nacht-apua-friends
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-acidic-juice-x-notyourordinary-live@rave.wien
@@ -2667,12 +2779,15 @@ DTSTART;TZID=Europe/Vienna:20261218T235900
 DTEND;TZID=Europe/Vienna:20261219T045900
 SUMMARY:HYPERTRASH – loud\, queer & annoying
 LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
-DESCRIPTION:DJ Keshi\nVeranstalter: Hypertrash\n\nNeue Ausgabe von HYPERT
- RASH\, der Wiener Partyreihe\, die sich selbst „loud\, queer & annoyin
- g“ nennt\, im FLUCC ab Mitternacht. Laut RA bzw. Techno Airlines legt 
- DJ Keshi auf\; weitere Acts\, Floor\, Preis und Ende sind noch nicht ver
- öffentlicht.\n\nhttps://rave.wien/e/2026-12-18-hypertrash-loud-queer-an
- noying
+DESCRIPTION:AZ-USA\, DJ Keshi\, DVD\, Francesca Bambi\, MZTAY\, ri$i\nVer
+ anstalter: Hypertrash\nEintritt: Freie Spende\n\nLetzte HYPERTRASH-Ausga
+ be des Jahres auf dem FLUCC Deck ab Mitternacht – die Wiener Partyreih
+ e nennt sich selbst „loud\, queer & annoying“. Laut Veranstalter gib
+ t es ein volles Line-up aus neuen Gesichtern\, Teilnehmenden des Open Ca
+ lls und „Legenden“\, die bisher noch nicht im HYPERTRASH-Booth stand
+ en: AZ-USA\, DJ Keshi\, DVD\, Francesca Bambi\, MZTAY und ri$i. Eintritt
+  gegen freie Spende.\n\nhttps://rave.wien/e/2026-12-18-hypertrash-loud-q
+ ueer-annoying
 URL:https://rave.wien/e/2026-12-18-hypertrash-loud-queer-annoying
 END:VEVENT
 BEGIN:VEVENT
@@ -2812,6 +2927,36 @@ DESCRIPTION:Mainfloor: Malugi\, Vivienna\, Aschenbrenner\nKitchen: Chiara
 URL:https://rave.wien/e/2026-12-19-15yrs-grelle-forelle-malugi
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-19-23xi-berlin@rave.wien
+DTSTAMP:20261219T000000Z
+DTSTART;TZID=Europe/Vienna:20261219T230000
+DTEND;TZID=Europe/Vienna:20261220T060000
+SUMMARY:23XI Berlin
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Kirsch\, Siggatunez\, Marie Phi\, Chris Ku\nEintritt: 10–15
+  €\n\n„23XI Berlin“ im SASS Music Club unter dem Motto „Berlin m
+ eets Wien“\, von 23 bis 6 Uhr. Es spielen Kirsch\, Siggatunez\, Marie 
+ Phi und Chris Ku. Eintritt 10–15 € inklusive Willkommensgetränk. Al
+ le SASS-Veranstaltungen werden von einem Awareness-Team begleitet\; Einl
+ ass ab 18.\n\nhttps://rave.wien/e/2026-12-19-23xi-berlin
+URL:https://rave.wien/e/2026-12-19-23xi-berlin
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-20-morgengymnastik-wos-soundsystem@rave.wien
+DTSTAMP:20261220T000000Z
+DTSTART;TZID=Europe/Vienna:20261220T060000
+DTEND;TZID=Europe/Vienna:20261220T110000
+SUMMARY:Morgengymnastik × WOS Soundsystem
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Bryan Kessler\, Oliviero\nVeranstalter: Morgengymnastik\nEint
+ ritt: 15 €\n\nMorgengymnastik\, die Sonntags-Afterhour im SASS Music C
+ lub\, von 6 bis 11 Uhr mit dem WOS Soundsystem: Es spielen Bryan Kessler
+  und Oliviero. Eintritt 15 €. Alle SASS-Veranstaltungen werden von ein
+ em Awareness-Team begleitet\; Einlass ab 18.\n\nhttps://rave.wien/e/2026
+ -12-20-morgengymnastik-wos-soundsystem
+URL:https://rave.wien/e/2026-12-20-morgengymnastik-wos-soundsystem
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-21-ventil-records-pres-eardrum-residency-w-mariam-re@rave.wien
 DTSTAMP:20261221T000000Z
 DTSTART;TZID=Europe/Vienna:20261221T200000
@@ -2862,6 +3007,23 @@ DESCRIPTION:Baltazar\, Askeladd\, Attrick\, Bahosh\, Gatodelic\nVeranstal
 URL:https://rave.wien/e/2026-12-24-yulemorph-awakening-the-long-night
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-24-donnerstag-nacht-ho-ho-housetiere@rave.wien
+DTSTAMP:20261224T000000Z
+DTSTART;TZID=Europe/Vienna:20261224T230000
+DTEND;TZID=Europe/Vienna:20261225T060000
+SUMMARY:Donnerstag Nacht – Ho Ho Housetiere
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Housetiere\, Reinhard Zach\nVeranstalter: Housetiere\nEintrit
+ t: 10–15 € / Studierende 0–5 €\n\nHeiligabend im SASS Music Club
+ : Die Donnerstag Nacht wird zu „Ho Ho Housetiere“ – laut Club wird
+  der Heilige Abend „housy“. Es spielen Housetiere und Reinhard Zach\
+ , von 23 bis 6 Uhr. Eintritt regulär 10–15 € inklusive Willkommensg
+ etränk\, Studierende 0–5 €. Alle SASS-Veranstaltungen werden von ei
+ nem Awareness-Team begleitet\; Einlass ab 18.\n\nhttps://rave.wien/e/202
+ 6-12-24-donnerstag-nacht-ho-ho-housetiere
+URL:https://rave.wien/e/2026-12-24-donnerstag-nacht-ho-ho-housetiere
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-25-ar-gang-xmas-party-w-malice-sickmode-the-straiker@rave.wien
 DTSTAMP:20261225T000000Z
 DTSTART;TZID=Europe/Vienna:20261225T230000
@@ -2884,6 +3046,81 @@ URL:https://rave.wien/e/2026-12-25-ar-gang-xmas-party-w-malice-sickmode-t
  he-straiker
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-25-rave-am-mittwoch-special@rave.wien
+DTSTAMP:20261225T000000Z
+DTSTART;TZID=Europe/Vienna:20261225T230000
+DTEND;TZID=Europe/Vienna:20261226T040000
+SUMMARY:Rave am Mittwoch Special
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nFeiertags-Spezialausgabe de
+ s wöchentlichen Rave am Mittwoch (RAM) im Werk unter dem Motto „Recha
+ rge Wednesdays“ – laut Veranstalter jede Woche harte Beats und lange
+  Nächte\, Beginn 23 Uhr\; diese Ausgabe findet ausnahmsweise am Christt
+ ag (Freitag\, 25.12.) statt. Frühere Ausgaben liefen mit Hardgroove und
+  Techno\, Eintritt gegen freiwillige Spende\, ohne Dresscode und mit Awa
+ reness-Team. Das Line-up dieser Ausgabe ist noch nicht veröffentlicht.\
+ n\nhttps://rave.wien/e/2026-12-25-rave-am-mittwoch-special
+URL:https://rave.wien/e/2026-12-25-rave-am-mittwoch-special
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-25-lampenfieber@rave.wien
+DTSTAMP:20261225T000000Z
+DTSTART;TZID=Europe/Vienna:20261225T230000
+DTEND;TZID=Europe/Vienna:20261226T060000
+SUMMARY:Lampenfieber
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Nunø\, Klamauk\, PAUNA\nEintritt: 10–15 €\n\n„Lampenfi
+ eber“ am Christtag im SASS Music Club – laut Club wird auch am Weihn
+ achtstag die Nacht zum Tag gemacht. Es spielen Nunø\, Klamauk und Pauna
+ \, von 23 bis 6 Uhr. Eintritt 10–15 € inklusive Willkommensgetränk.
+  Alle SASS-Veranstaltungen werden von einem Awareness-Team begleitet\; E
+ inlass ab 18.\n\nhttps://rave.wien/e/2026-12-25-lampenfieber
+URL:https://rave.wien/e/2026-12-25-lampenfieber
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-synergy@rave.wien
+DTSTAMP:20261226T000000Z
+DTSTART;TZID=Europe/Vienna:20261226T230000
+DTEND;TZID=Europe/Vienna:20261227T040000
+SUMMARY:Synergy
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Synergy\n\nSynergy am Stefanitag im Werk\, Begi
+ nn 23 Uhr. Die Reihe brachte zuletzt Trance und Hard Techno auf zwei Flo
+ ors ins Werk. Line-up\, Preis und Ende dieser Ausgabe sind noch nicht ve
+ röffentlicht.\n\nhttps://rave.wien/e/2026-12-26-synergy
+URL:https://rave.wien/e/2026-12-26-synergy
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-26-stefanitanz@rave.wien
+DTSTAMP:20261226T000000Z
+DTSTART;TZID=Europe/Vienna:20261226T230000
+DTEND;TZID=Europe/Vienna:20261227T050000
+SUMMARY:Stefanitanz
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:CJ Bambi\, Franjazzco\, Harry Knaypp\nVeranstalter: Wohnzimme
+ r\nEintritt: 10–15 €\n\n„Stefanitanz“ im SASS Music Club – lau
+ t Club „Feiertag ist Feiertag“\, gefeiert wird im Wohnzimmer-Format 
+ von 23 bis 5 Uhr. Es spielen CJ Bambi\, Franjazzco und Harry Knaypp. Ein
+ tritt 10–15 € inklusive Willkommensgetränk. Alle SASS-Veranstaltung
+ en werden von einem Awareness-Team begleitet\; Einlass ab 18.\n\nhttps:/
+ /rave.wien/e/2026-12-26-stefanitanz
+URL:https://rave.wien/e/2026-12-26-stefanitanz
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-27-morgengymnastik@rave.wien
+DTSTAMP:20261227T000000Z
+DTSTART;TZID=Europe/Vienna:20261227T060000
+DTEND;TZID=Europe/Vienna:20261227T110000
+SUMMARY:Morgengymnastik
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Migu\nVeranstalter: Morgengymnastik\nEintritt: 15 €\n\nMorg
+ engymnastik\, die Sonntags-Afterhour im SASS Music Club\, von 6 bis 11 U
+ hr mit Migu. Eintritt 15 €. Alle SASS-Veranstaltungen werden von einem
+  Awareness-Team begleitet\; Einlass ab 18.\n\nhttps://rave.wien/e/2026-1
+ 2-27-morgengymnastik
+URL:https://rave.wien/e/2026-12-27-morgengymnastik
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-27-flut-x-callshop-radio-week-52@rave.wien
 DTSTAMP:20261227T000000Z
 DTSTART;TZID=Europe/Vienna:20261227T140000
@@ -2896,6 +3133,22 @@ DESCRIPTION:Veranstalter: Callshop Radio\, Spumante Records\nEintritt fre
  eginn 14:00\, der Eintritt ist frei. Ein Lineup ist noch nicht veröffen
  tlicht.\n\nhttps://rave.wien/e/2026-12-27-flut-x-callshop-radio-week-52
 URL:https://rave.wien/e/2026-12-27-flut-x-callshop-radio-week-52
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-rave-am-mittwoch@rave.wien
+DTSTAMP:20261230T000000Z
+DTSTART;TZID=Europe/Vienna:20261230T230000
+DTEND;TZID=Europe/Vienna:20261231T040000
+SUMMARY:Rave am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\n\nDer wöchentlichen Rave am 
+ Mittwoch (RAM) im Werk unter dem Motto „Recharge Wednesdays“ – lau
+ t Veranstalter jede Woche harte Beats und lange Nächte\, Beginn 23 Uhr.
+  Frühere Ausgaben liefen mit Hardgroove und Techno\, Eintritt gegen fre
+ iwillige Spende\, ohne Dresscode und mit Awareness-Team. Das Line-up die
+ ser Ausgabe ist noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-
+ 12-30-rave-am-mittwoch
+URL:https://rave.wien/e/2026-12-30-rave-am-mittwoch
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-awsm-nye-skyline-edition@rave.wien
@@ -2992,6 +3245,35 @@ DESCRIPTION:Eintritt: 20–32 € (Early Bird\, je nach Einlasszeit) / VI
  nannt. Beginn 23:00\, Tickets 20–40 € (Early Bird erhältlich)\, Dre
  sscode casual chic.\n\nhttps://rave.wien/e/2026-12-31-new-year-s-eve
 URL:https://rave.wien/e/2026-12-31-new-year-s-eve
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-silvester-im-werk@rave.wien
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Vienna:20261231T230000
+DTEND;TZID=Europe/Vienna:20270101T040000
+SUMMARY:Silvester im Werk
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:\nSilvesterparty im Werk in den Stadtbahnbögen an der Spitte
+ lauer Lände\, Beginn 23 Uhr. Das Werk führt den Abend im Programm\; Li
+ ne-up\, Preis und Ende sind noch nicht veröffentlicht.\n\nhttps://rave.
+ wien/e/2026-12-31-silvester-im-werk
+URL:https://rave.wien/e/2026-12-31-silvester-im-werk
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-nye-gala@rave.wien
+DTSTAMP:20261231T000000Z
+DTSTART;TZID=Europe/Vienna:20261231T230000
+DTEND;TZID=Europe/Vienna:20270101T120000
+SUMMARY:NYE Gala
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Vanessa\, Fritello Tonat\, maximo\, Leon Diamant\, Migu\nEint
+ ritt: 10–15 €\n\nSilvester im SASS Music Club: Die „NYE Gala“ 
+ – laut Club eine „Silvester im Sass Sause“ – läuft von 23 Uhr b
+ is 12 Uhr mittags am Neujahrstag. Es spielen Vanessa\, Fritello Tonat\, 
+ maximo\, Leon Diamant und Migu. Eintritt 10–15 € inklusive Willkomme
+ nsgetränk. Alle SASS-Veranstaltungen werden von einem Awareness-Team be
+ gleitet\; Einlass ab 18.\n\nhttps://rave.wien/e/2026-12-31-nye-gala
+URL:https://rave.wien/e/2026-12-31-nye-gala
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-31-new-years-eve-at-prst-club@rave.wien
@@ -3166,6 +3448,19 @@ DESCRIPTION:Alexandra Marr\, Boogaloo Steve\, Flying Horstman\nVeranstalt
  ckets liegen noch nicht vor.\n\nhttps://rave.wien/e/2027-01-24-between-u
  s-x-emdb
 URL:https://rave.wien/e/2027-01-24-between-us-x-emdb
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-klang909-with-benwal@rave.wien
+DTSTAMP:20270127T000000Z
+DTSTART;TZID=Europe/Vienna:20270127T230000
+DTEND;TZID=Europe/Vienna:20270128T040000
+SUMMARY:Klang909 with Benwal
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Benwal\n\n„Klang909“ im Club Praterstraße mit Benwal\, B
+ eginn 23 Uhr (laut Techno Airlines und Resident Advisor). Weitere Acts\,
+  Preis und Ende sind noch nicht veröffentlicht.\n\nhttps://rave.wien/e/
+ 2027-01-27-klang909-with-benwal
+URL:https://rave.wien/e/2027-01-27-klang909-with-benwal
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-29-paradise-winter-festival-2027-nacht-1@rave.wien
@@ -3699,6 +3994,21 @@ DESCRIPTION:Veranstalter: Mahlwerk\n\nDas Wiener DJ-Kollektiv Mahlwerk k
   nicht veröffentlicht.\n\nhttps://rave.wien/e/2027-10-09-mahlwerk-grell
  e-forelle
 URL:https://rave.wien/e/2027-10-09-mahlwerk-grelle-forelle
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-31-halloween-rave-ottakringer-brauerei@rave.wien
+DTSTAMP:20271031T000000Z
+DTSTART;TZID=Europe/Vienna:20271031T210000
+DTEND;TZID=Europe/Vienna:20271101T050000
+SUMMARY:Halloween Rave | Ottakringer Brauerei
+LOCATION:Ottakringer Brauerei\, Ottakringer Platz 1\, 1160 Wien
+DESCRIPTION:Veranstalter: KSOT\nEintritt: 13\,50–22\,50 €\n\nHallowee
+ n-Rave von KSOT (Kein Sonntag ohne Techno) in der Ottakringer Brauerei\,
+  von 21 bis 5 Uhr. Der Vorverkauf im KSOT-Ticketshop läuft bereits\, mi
+ t gestaffelten Ticketstufen von 13\,50 bis 22\,50 €. Ein Line-up ist n
+ och nicht veröffentlicht.\n\nhttps://rave.wien/e/2027-10-31-halloween-r
+ ave-ottakringer-brauerei
+URL:https://rave.wien/e/2027-10-31-halloween-rave-ottakringer-brauerei
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-12-11-mahlwerk-grelle-forelle@rave.wien
@@ -28643,5 +28953,39 @@ DESCRIPTION:Bipolar Penguins\, Minki\, Drehli Robnik\nEintritt: 10 € (n
  re Punk“. Eintritt 10 €\, nur an der Abendkasse.\n\nhttps://rave.wie
  n/e/2026-11-22-sonntag-sdisco-vol-29
 URL:https://rave.wien/e/2026-11-22-sonntag-sdisco-vol-29
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-shared-frequencies-listening-session@rave.wien
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Vienna:20261125T183000
+DTEND;TZID=Europe/Vienna:20261126T000000
+SUMMARY:shared frequencies: listening session
+LOCATION:Funkhaus\, Argentinierstraße 30a\, 1040 Wien
+DESCRIPTION:Reeno Reluv\, dr.schick\, ooku.\, DJ Soup\nVeranstalter: shar
+ ed frequencies\n\nListening-Session der Reihe shared frequencies im Funk
+ haus an einem Mittwochabend. Die Reise führt laut Ankündigung durch sc
+ hwarze Underground-Dance-Musik aus den USA – von Disco und Techno übe
+ r Chicago Footwork bis Miami Booty Bass. Zuvor widmete sich die Reihe UK
+ -Bass und Soundsystem-Kultur. Gegen Ende übernehmen die Gäste Reeno Re
+ luv und DJ Soup.\n\nhttps://rave.wien/e/2026-11-25-shared-frequencies-li
+ stening-session
+URL:https://rave.wien/e/2026-11-25-shared-frequencies-listening-session
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25-rave-am-mittwoch@rave.wien
+DTSTAMP:20261125T000000Z
+DTSTART;TZID=Europe/Vienna:20261125T230000
+DTEND;TZID=Europe/Vienna:20261126T040000
+SUMMARY:Rave am Mittwoch
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Rave am Mittwoch\nEintritt: Freie Spende\n\nDer
+  wöchentliche Rave am Mittwoch (RAM) im Werk unter dem Motto „Recharg
+ e Wednesdays“ – laut Veranstalter jede Woche harte Beats und lange N
+ ächte\, Beginn 23 Uhr. Frühere Ausgaben (z. B. 14.10. mit FIFI RAVE) l
+ iefen mit Hardgroove und Techno\, 18+\, Eintritt gegen freiwillige Spend
+ e\, ohne Dresscode und mit Awareness-Team. Das Line-up dieser Ausgabe is
+ t noch nicht veröffentlicht.\n\nhttps://rave.wien/e/2026-11-25-rave-am-
+ mittwoch
+URL:https://rave.wien/e/2026-11-25-rave-am-mittwoch
 END:VEVENT
 END:VCALENDAR

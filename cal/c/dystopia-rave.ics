@@ -26,6 +26,19 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-11-dyst-pia-rave@rave.wien
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=Europe/Vienna:20261211T230000
+DTEND;TZID=Europe/Vienna:20261212T040000
+SUMMARY:DYSTØPIA RAVE
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:Veranstalter: Dystopia Rave\n\nNeue Ausgabe von DYSTØPIA RAV
+ E\, der Techno-Reihe im Werk\, Beginn 23 Uhr. Das Werk führt die Nacht 
+ im Programm\; Line-up\, Preis und Ende sind noch nicht veröffentlicht.\
+ n\nhttps://rave.wien/e/2026-12-11-dyst-pia-rave
+URL:https://rave.wien/e/2026-12-11-dyst-pia-rave
+END:VEVENT
+BEGIN:VEVENT
 UID:2024-01-20-dystopia-rave-on-2-floors@rave.wien
 DTSTAMP:20240120T000000Z
 DTSTART;VALUE=DATE:20240120

@@ -42,6 +42,21 @@ DESCRIPTION:Audrey Danza\, Apua\, DJ Deadlift\, Dreya\, Tezibel\nVeransta
 URL:https://rave.wien/e/2026-12-12-redivider-pres-audrey-danza
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-17-donnerstag-nacht-apua-friends@rave.wien
+DTSTAMP:20261217T000000Z
+DTSTART;TZID=Europe/Vienna:20261217T230000
+DTEND;TZID=Europe/Vienna:20261218T060000
+SUMMARY:Donnerstag Nacht – Apua & Friends
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Apua\nEintritt: 10–15 € / Studierende 0–5 €\n\nDonner
+ stag Nacht im SASS Music Club mit Apua & Friends\, von 23 bis 6 Uhr. Neb
+ en Apua sind weitere Acts noch nicht angekündigt. Eintritt regulär 10
+ –15 € inklusive Willkommensgetränk\, Studierende 0–5 €. Alle SA
+ SS-Veranstaltungen werden von einem Awareness-Team begleitet\; Einlass a
+ b 18.\n\nhttps://rave.wien/e/2026-12-17-donnerstag-nacht-apua-friends
+URL:https://rave.wien/e/2026-12-17-donnerstag-nacht-apua-friends
+END:VEVENT
+BEGIN:VEVENT
 UID:2025-07-25-grelle-forelle-sommerfest@rave.wien
 DTSTAMP:20250725T000000Z
 DTSTART;VALUE=DATE:20250725

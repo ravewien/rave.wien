@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//rave.wien//Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ri$i · rave.wien
+X-WR-TIMEZONE:Europe/Vienna
+X-WR-CALDESC:Termine von rave.wien – aktualisiert sich automatisch
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Vienna
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-12-18-hypertrash-loud-queer-annoying@rave.wien
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=Europe/Vienna:20261218T235900
+DTEND;TZID=Europe/Vienna:20261219T045900
+SUMMARY:HYPERTRASH – loud\, queer & annoying
+LOCATION:FLUCC\, Praterstern 5\, 1020 Wien
+DESCRIPTION:AZ-USA\, DJ Keshi\, DVD\, Francesca Bambi\, MZTAY\, ri$i\nVer
+ anstalter: Hypertrash\nEintritt: Freie Spende\n\nLetzte HYPERTRASH-Ausga
+ be des Jahres auf dem FLUCC Deck ab Mitternacht – die Wiener Partyreih
+ e nennt sich selbst „loud\, queer & annoying“. Laut Veranstalter gib
+ t es ein volles Line-up aus neuen Gesichtern\, Teilnehmenden des Open Ca
+ lls und „Legenden“\, die bisher noch nicht im HYPERTRASH-Booth stand
+ en: AZ-USA\, DJ Keshi\, DVD\, Francesca Bambi\, MZTAY und ri$i. Eintritt
+  gegen freie Spende.\n\nhttps://rave.wien/e/2026-12-18-hypertrash-loud-q
+ ueer-annoying
+URL:https://rave.wien/e/2026-12-18-hypertrash-loud-queer-annoying
+END:VEVENT
+END:VCALENDAR

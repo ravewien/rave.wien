@@ -45,6 +45,20 @@ DESCRIPTION:Reika\, Dcascallana\nVeranstalter: Dark Pressure\n\nDonnersta
 URL:https://rave.wien/e/2026-11-26-konzept-x-dark-pressure
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-27-funk-to-bass@rave.wien
+DTSTAMP:20261127T000000Z
+DTSTART;TZID=Europe/Vienna:20261127T210000
+DTEND;TZID=Europe/Vienna:20261128T020000
+SUMMARY:Funk to Bass
+LOCATION:Kramladen\, U-Bahnbogen 39–40\, Lerchenfelder Gürtel\, 1080 W
+ ien
+DESCRIPTION:\nClubnacht „Funk to Bass“ im Kramladen ab 21 Uhr\, laut 
+ Techno Airlines und Resident Advisor. Der Titel verspricht einen Bogen v
+ on Funk bis zu Bass-Musik\; Line-up\, Preis und Ende sind nicht veröffe
+ ntlicht.\n\nhttps://rave.wien/e/2026-11-27-funk-to-bass
+URL:https://rave.wien/e/2026-11-27-funk-to-bass
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-28-xperiment-nights@rave.wien
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=Europe/Vienna:20261128T235900

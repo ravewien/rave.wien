@@ -26,6 +26,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-20-morgengymnastik-wos-soundsystem@rave.wien
+DTSTAMP:20261220T000000Z
+DTSTART;TZID=Europe/Vienna:20261220T060000
+DTEND;TZID=Europe/Vienna:20261220T110000
+SUMMARY:Morgengymnastik × WOS Soundsystem
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Bryan Kessler\, Oliviero\nVeranstalter: Morgengymnastik\nEint
+ ritt: 15 €\n\nMorgengymnastik\, die Sonntags-Afterhour im SASS Music C
+ lub\, von 6 bis 11 Uhr mit dem WOS Soundsystem: Es spielen Bryan Kessler
+  und Oliviero. Eintritt 15 €. Alle SASS-Veranstaltungen werden von ein
+ em Awareness-Team begleitet\; Einlass ab 18.\n\nhttps://rave.wien/e/2026
+ -12-20-morgengymnastik-wos-soundsystem
+URL:https://rave.wien/e/2026-12-20-morgengymnastik-wos-soundsystem
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-wos-soundsystem-invites-josefina-tapia@rave.wien
 DTSTAMP:20261106T000000Z
 DTSTART;TZID=Europe/Vienna:20261106T230000

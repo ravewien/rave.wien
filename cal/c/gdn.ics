@@ -47,6 +47,22 @@ URL:https://rave.wien/e/2026-11-28-dead-end-showcase-with-paralich-pres-b
  y-gdn
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-07-hit-it-hard-hosted-by-gdn@rave.wien
+DTSTAMP:20261207T000000Z
+DTSTART;TZID=Europe/Vienna:20261207T230000
+DTEND;TZID=Europe/Vienna:20261208T040000
+SUMMARY:Hit it Hard hosted by GDN
+LOCATION:Das Werk\, Spittelauer Lände 12\, 1090 Wien
+DESCRIPTION:LUZZT\, Audio 303\, Trugbild\, DJ Wolle\nVeranstalter: GDN\n\
+ n„Hit it Hard“\, eine Nacht des Wiener Kollektivs GDN im Werk am Mon
+ tag vor dem Feiertag (Mariä Empfängnis)\, Beginn 23 Uhr. Es spielen Lu
+ zzt\, Audio 303\, Trugbild und DJ Wolle. GDN steht im Werk für harte Sp
+ ielarten von Techno\, Hardgroove und Schranz. Preis und Ende sind noch n
+ icht veröffentlicht.\n\nhttps://rave.wien/e/2026-12-07-hit-it-hard-host
+ ed-by-gdn
+URL:https://rave.wien/e/2026-12-07-hit-it-hard-hosted-by-gdn
+END:VEVENT
+BEGIN:VEVENT
 UID:2024-02-24-labelnacht-by-gesindel-x-gdn-records-w-gockel-alg@rave.wien
 DTSTAMP:20240224T000000Z
 DTSTART;VALUE=DATE:20240224
