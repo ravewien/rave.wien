@@ -633,5 +633,42 @@ window.PRUEF=[
    "https://www.hospitalitynet.org/news/4063866/melia-debuts-in-austria-with-february-2014-opening-of-253-room-melia-vienna"
   ],
   "karten": []
+ },
+ {
+  "id": "genre-ev-2026-12-12-im-freudentaumel-genres",
+  "ts": "2026-11-27",
+  "lauf": "event-update",
+  "typ": "genre",
+  "titel": "Im Freudentaumel 12.12. (FLUCC Deck): Genre unklar",
+  "text": "Die FLUCC-Seite nennt weder Genres noch Line-up (geheim); das Genre Techno wurde nur aus der Location abgeleitet. Bitte bestätigen oder anpassen.",
+  "links": [
+   "https://www.flucc.at/events/kVj4fC-im-freudentaumel/"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "ev",
+   "op": "edit",
+   "key": "2026-12-12-im-freudentaumel",
+   "title": "Im Freudentaumel",
+   "data": {
+    "genres": [
+     "House",
+     "Techno"
+    ]
+   }
+  }
+ },
+ {
+  "id": "hinweis-aircraft-cafe-carina-9-12-nicht-aufgenommen",
+  "ts": "2026-11-27",
+  "lauf": "event-update",
+  "typ": "hinweis",
+  "titel": "Aircraft @ Café Carina 9.12. nicht aufgenommen",
+  "text": "Techno Airlines/RA listen „Aircraft comes back to Vienna!“ (Café Carina, 19:00). Aircraft wird u. a. bei berlin.de unter Rock/Pop geführt – vermutlich ein Bandkonzert, daher nicht eingetragen.",
+  "links": [
+   "https://ra.co/events/2565603",
+   "https://www.technoairlines.com/event/aircraft-comes-back-to-vienna-cafe-carina-9-december-2026-cafe-carina-2026-12-09"
+  ],
+  "karten": []
  }
 ];
