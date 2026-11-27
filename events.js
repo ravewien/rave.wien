@@ -3999,7 +3999,8 @@ const CI={
    "https://de.ra.co/events/2077984"
   ],
   "infoChk": "2026-11-15",
-  "noLogo": "2026-11-15"
+  "noLogo": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/gesindel_der_nacht.jpg"
  },
  "Impulse": {
   "de": "Techno-Reihe in der Wiener Grelle Forelle mit nummerierten „Rounds“ (2025 Round VII) und Gästen wie Dax J, DJ Rush, Somewhen, CLTX oder Johannes Schuster (All Night Long); veranstaltet von Kevin Primus.",
@@ -4092,7 +4093,8 @@ const CI={
   ],
   "infoChk": "2026-11-15",
   "noLogo": "2026-11-15",
-  "lt": "https://linktr.ee/loewenzahnwien"
+  "lt": "https://linktr.ee/loewenzahnwien",
+  "logo": "https://rave.wien/logos/ig/loewenzahnwien.jpg"
  },
  "Step Forward": {
   "de": "Wiener Veranstalter (Step Forward Music), der internationale Acts wie Partiboi69, Southstar, P.Vanilla Boy, Juicy Romance oder Shoki in die Grelle Forelle und ins PRST holt – zwischen Techno, Ghetto Tech, Electro und House.",
@@ -4111,7 +4113,8 @@ const CI={
    "https://warda.at/?p=87238"
   ],
   "infoChk": "2026-11-15",
-  "noLogo": "2026-11-15"
+  "noLogo": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/stepforwardmusic.jpg"
  },
  "Soundhouse": {
   "de": "Soundhouse ist eine Wiener Partyreihe für Techno, Acid und House samt Subgenres, die sich selbst als „sophisticated listening“ beschreibt. Die Nächte finden u. a. im SASS Music Club und im Tagada statt.",
@@ -4144,7 +4147,8 @@ const CI={
    "https://de.ra.co/events/1999601"
   ],
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/tattutattaglub/"
+  "ig": "https://www.instagram.com/tattutattaglub/",
+  "logo": "https://rave.wien/logos/ig/tattutattaglub.jpg"
  },
  "Step to Tek": {
   "de": "Step to Tek ist eine Partyreihe für treibenden Tekno, Acid und Underground-Sound, die in Wien u. a. im Das Werk (als „Step to Tek XL“), im Ponyhof und im Black Market veranstaltet hat. Die Events setzen auf ein Awareness-Team und eine klare Haltung gegen Diskriminierung.",
@@ -4254,7 +4258,8 @@ const CI={
    "https://de.ra.co/promoters/168324",
    "https://ra.co/events/2255962"
   ],
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/civic_collective.jpg"
  },
  "Jeez Louise": {
   "de": "Jeez Louise ist eine Partyreihe im Wiener SASS Music Club, die dort regelmäßig an Donnerstagen stattfindet.",
@@ -4268,7 +4273,8 @@ const CI={
    "https://ra.co/events/2306730"
   ],
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/jeezlouise.vie/"
+  "ig": "https://www.instagram.com/jeezlouise.vie/",
+  "logo": "https://rave.wien/logos/ig/jeezlouise.vie.jpg"
  },
  "Homebase": {
   "de": "Homebase ist eine Wiener Partyreihe, die im Jänner 2024 mit einem 12-Stunden-Marathon gemeinsam mit dem Fabrika Festival im PRST debütierte. Seither finden die Nächte regelmäßig im SASS Music Club statt.",
@@ -4283,7 +4289,8 @@ const CI={
   "src": [
    "https://ra.co/events/1828287"
   ],
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/homebase.vie.jpg"
  },
  "Shameless Kollektiv": {
   "de": "Shameless ist ein Wiener Party-Kollektiv, das Clubnächte u. a. im FLUCC, im Kramladen und im Club Lucia veranstaltet, etwa die Reihe „Overdrive“ und eine Kollaboration mit Kollektiv Klanggerecht.",
@@ -4377,7 +4384,8 @@ const CI={
   ],
   "noLogo": "2026-11-15",
   "infoChk": "2026-11-15",
-  "ig": "https://www.instagram.com/kissen.vienna/"
+  "ig": "https://www.instagram.com/kissen.vienna/",
+  "logo": "https://rave.wien/logos/ig/kissen.vienna.jpg"
  },
  "Mixed": {
   "de": "MIXED Vienna ist eine Wiener Partyreihe, die vor allem in der Grelle Forelle stattfindet, dazu Open Airs wie im Gleis19. Gespielt werden vor allem House und Trance, u. a. bei einer Kollaboration mit HÖR Berlin.",
@@ -4394,7 +4402,8 @@ const CI={
    "https://de.ra.co/events/2438497"
   ],
   "noLogo": "2026-11-15",
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/mixed.vienna.jpg"
  },
  "Techno am Wasser": {
   "de": "Techno am Wasser ist eine Open-Air-Reihe der Wiener Crew Techno Vienna, die erste Ausgabe unter diesem Namen fand im Juli 2021 im USUS am Wasser an der Neuen Donau statt. Die Musik geht vom entspannten House am Tag bis zu härterem Techno in der Nacht. Neben dem USUS am Wasser gab es Ausgaben im Himmel und Wasser, oft als Free Open Air mit Spendenbox.",
@@ -4437,7 +4446,8 @@ const CI={
   "src": [
    "https://warda.at/?p=102953"
   ],
-  "infoChk": "2026-11-15"
+  "infoChk": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/betweenus.club.jpg"
  },
  "Electric Gallery": {
   "noLogo": "2026-11-15",
@@ -4451,7 +4461,8 @@ const CI={
   "src": [
    "https://ra.co/events/2139380",
    "https://sassvienna.com/de/programm/event/donnerstag-nacht-36"
-  ]
+  ],
+  "logo": "https://rave.wien/logos/ig/electricgallery.vie.jpg"
  },
  "Votiv Session": {
   "de": "votiv session ist eine Wiener Partyreihe mit funky Sounds, Progressive House und Deep Grooves. Die erste Ausgabe (votiv session 01) fand 2025 im Tagada statt, danach folgten Ausgaben im Club Lucia und im SASS Music Club.",
@@ -4589,7 +4600,8 @@ const CI={
   "ig": "https://www.instagram.com/halligalli.vienna/",
   "src": [
    "https://de.ra.co/events/2490092"
-  ]
+  ],
+  "logo": "https://rave.wien/logos/ig/halligalli.vienna.jpg"
  },
  "VNV": {
   "de": "VNV ist ein Wiener Kollektiv aus dem Techno-Umfeld mit Abenden im SASS Music Club und Kooperationen mit Cybertribe, Soundbüglerei und STRAAT in der Grellen Forelle.",
@@ -4652,7 +4664,8 @@ const CI={
    "https://ra.co/events/2446899"
   ],
   "infoChk": "2026-11-15",
-  "noLogo": "2026-11-15"
+  "noLogo": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/psytrance_universe_vienna.jpg"
  },
  "Groove Revival": {
   "de": "Wiener Partyreihe, gegründet von zwei Newcomern der Szene, um dem Wiener Underground neuen Schwung zu geben – mit Fokus auf sorgfältige Kuratierung und zeitlose Platten. Events vor allem im SASS Music Club, dazu im PRST und Tagada.",
@@ -4691,7 +4704,8 @@ const CI={
   ],
   "infoChk": "2026-11-15",
   "noLogo": "2026-11-15",
-  "ig": "https://www.instagram.com/redivideredivider/"
+  "ig": "https://www.instagram.com/redivideredivider/",
+  "logo": "https://rave.wien/logos/ig/redivideredivider.jpg"
  },
  "Park It Here": {
   "de": "Wiener Reihe für UK-Sound: UK Garage, Bassline, Grime und Drum & Bass. Events u. a. im PRST, SASS Music Club und in der Pratersauna.",
@@ -4765,7 +4779,8 @@ const CI={
   ],
   "from": "Wien",
   "infoChk": "2026-11-15",
-  "noLogo": "2026-11-15"
+  "noLogo": "2026-11-15",
+  "logo": "https://rave.wien/logos/ig/schroedingersgroove.jpg"
  },
  "BLUR": {
   "de": "Reihe im PRST mit House und Tech House und internationalen Headlinern (u. a. Rich NxT, Nu Zau); laut RA veranstaltet vom Kollektiv Ost:West.",
@@ -4886,7 +4901,8 @@ const CI={
   ],
   "infoChk": "2026-11-15",
   "noLogo": "2026-11-15",
-  "ig": "https://www.instagram.com/raveonsociety/"
+  "ig": "https://www.instagram.com/raveonsociety/",
+  "logo": "https://rave.wien/logos/ig/raveonsociety.jpg"
  },
  "Schlachthaus": {
   "de": "Techno-Reihe, die regelmäßig die FLUCC Wanne übernimmt – mit vorwärtsgewandtem Techno, eigenen Residents und Gästen; dazu Abende in der Grelle Forelle.",
@@ -4899,7 +4915,8 @@ const CI={
   ],
   "infoChk": "2026-11-15",
   "noLogo": "2026-11-15",
-  "ig": "https://www.instagram.com/schlachthaus.vienna/"
+  "ig": "https://www.instagram.com/schlachthaus.vienna/",
+  "logo": "https://rave.wien/logos/ig/schlachthaus.vienna.jpg"
  },
  "VVAX": {
   "de": "Reine Vinyl-Techno-Nacht („100% Vinyl Techno Experience“, „Vienna's only vinyl techno night“) mit tiefem, rohem und hypnotischem Techno; u. a. im FLUCC, Kramladen und Club Lucia.",
