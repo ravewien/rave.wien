@@ -732,5 +732,72 @@ window.PRUEF=[
    "https://weberknecht.at/"
   ],
   "karten": []
+ },
+ {
+  "id": "lineup-ev-2026-12-04-basstrace-floors",
+  "ts": "2026-11-28",
+  "lauf": "profil-lauf",
+  "typ": "lineup",
+  "titel": "Basstrace 04.12.2026 – „x“-Paare als b2b",
+  "text": "Im Lineup stehen Nadin x Nobody, Dotworks x Schuechner und Scooped x Vege als je ein Name; alle sechs haben eigene Profile. Vorschlag: als b2b schreiben, damit die Profile verknüpft werden.",
+  "links": [
+   "https://basstrace.kupfticket.at/events/basstrace067"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "ev",
+   "op": "edit",
+   "key": "2026-12-04-basstrace",
+   "title": "Basstrace (04.12.2026)",
+   "data": {
+    "floors": [
+     {
+      "f": "Wanne",
+      "a": [
+       "NINA",
+       "Montaha",
+       "Sequent",
+       "Nadin b2b Nobody",
+       "Dotworks b2b Schuechner",
+       "Scooped b2b Vege"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
+  "id": "hinweis-housetiere-reihenname-im-lineup-24-12-2026",
+  "ts": "2026-11-28",
+  "lauf": "profil-lauf",
+  "typ": "hinweis",
+  "titel": "Housetiere – Reihenname im Lineup (24.12.2026)",
+  "text": "„Housetiere“ ist der Name der Veranstaltungsreihe und steht im Lineup von „Donnerstag Nacht – Ho Ho Housetiere“ neben Reinhard Zach; ein Artist-Profil wurde nur mit Prüfdaten angelegt.",
+  "links": [
+   "https://sassvienna.com/de/programm/event/donnerstag-nacht-58"
+  ],
+  "karten": []
+ },
+ {
+  "id": "link-art-asmo-deus-links-ig",
+  "ts": "2026-11-28",
+  "lauf": "profil-lauf",
+  "typ": "link",
+  "titel": "Asmo Deus – Instagram @asmo_deus__?",
+  "text": "Suchtreffer „Asmodeus (@asmo_deus__)“ passt zur Schreibweise, Bezug zu Wien/Hardtekk aber nicht belegt.",
+  "links": [
+   "https://www.instagram.com/asmo_deus__/",
+   "https://ra.co/dj/asmodeus"
+  ],
+  "karten": [],
+  "vorschlag": {
+   "kind": "art",
+   "op": "edit",
+   "key": "Asmo Deus",
+   "title": "Asmo Deus",
+   "data": {
+    "links.ig": "https://www.instagram.com/asmo_deus__/"
+   }
+  }
  }
 ];

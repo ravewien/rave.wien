@@ -17442,7 +17442,11 @@ const AR={
  "Auditore": {
   "noImg": "2026-11-03",
   "noLinks": "2026-11-03",
-  "infoChk": "2026-11-03"
+  "infoChk": "2026-11-03",
+  "genres": [
+   "Hardtekk"
+  ],
+  "spChk": "2026-11-28"
  },
  "Brandix": {
   "noImg": "2026-11-03",
@@ -17540,12 +17544,16 @@ const AR={
    "en": "mariephi is a Vienna-based DJ. Her sets move between warm, hypnotic and minimal sounds."
   },
   "src": [
-   "https://de.ra.co/dj/mariephi"
+   "https://de.ra.co/dj/mariephi",
+   "https://sassvienna.com/de/programm/event/23XI-Berlin"
   ],
   "setsChecked": "2026-11-02",
   "noImg": "2026-11-27",
   "noLinks": "2026-11-27",
-  "spChk": "2026-11-27"
+  "spChk": "2026-11-28",
+  "alias": [
+   "Marie Phi"
+  ]
  },
  "H∆NN∆": {
   "infoChk": "2026-11-03",
@@ -57848,6 +57856,66 @@ const AR={
   "links": {
    "sc": "https://soundcloud.com/gomph0"
   }
+ },
+ "DIAS": {
+  "genres": [
+   "Hardtekk"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/dias"
+  },
+  "src": [
+   "https://ra.co/dj/dias",
+   "https://www.technoairlines.com/event/oage-tekke-x-oage-rave-2026-collab-special-flex-2026-12-04"
+  ],
+  "noImg": "2026-11-28",
+  "infoChk": "2026-11-28",
+  "spChk": "2026-11-28"
+ },
+ "Asmo Deus": {
+  "genres": [
+   "Hardtekk"
+  ],
+  "links": {
+   "ra": "https://ra.co/dj/asmodeus"
+  },
+  "src": [
+   "https://ra.co/dj/asmodeus",
+   "https://www.technoairlines.com/event/oage-tekke-x-oage-rave-2026-collab-special-flex-2026-12-04"
+  ],
+  "noImg": "2026-11-28",
+  "infoChk": "2026-11-28",
+  "spChk": "2026-11-28"
+ },
+ "Avespectrum": {
+  "genres": [
+   "Progressive House"
+  ],
+  "noImg": "2026-11-28",
+  "noLinks": "2026-11-28",
+  "infoChk": "2026-11-28",
+  "spChk": "2026-11-28"
+ },
+ "Tribal Vibes": {
+  "noImg": "2026-11-28",
+  "noLinks": "2026-11-28",
+  "infoChk": "2026-11-28",
+  "spChk": "2026-11-28"
+ },
+ "Contrast Residents": {
+  "noImg": "2026-11-28",
+  "noLinks": "2026-11-28",
+  "infoChk": "2026-11-28",
+  "spChk": "2026-11-28"
+ },
+ "Housetiere": {
+  "genres": [
+   "House"
+  ],
+  "noImg": "2026-11-28",
+  "noLinks": "2026-11-28",
+  "infoChk": "2026-11-28",
+  "spChk": "2026-11-28"
  }
 };
 
