@@ -706,5 +706,18 @@ window.PRUEF=[
    "https://www.libelle.at/de/veranstaltungen/"
   ],
   "karten": []
+ },
+ {
+  "id": "doppelt-12-12-loop-bird-house-und-innermotion",
+  "ts": "2026-11-28",
+  "lauf": "event-update",
+  "typ": "doppelt",
+  "titel": "12.12. Loop: „Bird house“ und „Innermotion“",
+  "text": "Die Loop führt am 12.12. sowohl „Bird house“ (23:59) als auch „Innermotion“ (23:55, Kollektiv Birdhouse, Avespectrum & Fede Fröstl) – als ein Event zusammengeführt. Falls es zwei getrennte Abende sind, bitte trennen.",
+  "links": [
+   "https://loop.co.at/event/innermotion_12_12_26/",
+   "https://loop.co.at/event/bird-house_12_12_26/"
+  ],
+  "karten": []
  }
 ];
