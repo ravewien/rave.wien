@@ -26,22 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-26-donnerstag-nacht@rave.wien
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Vienna:20261126T230000
-DTEND;TZID=Europe/Vienna:20261127T060000
-SUMMARY:Donnerstag Nacht
-LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
-DESCRIPTION:Slack Hippy\, neomodern\, Crnobrnja\nEintritt: 10–15 € / 
- Studierende 0–5 €\n\nDonnerstag Nacht im SASS Music Club von 23 bis 
- 6 Uhr mit Slack Hippy\, neomodern und Crnobrnja. Der Eintritt beträgt r
- egulär 10–15 € inklusive Willkommensgetränk\, für Studierende 0
- –5 €. Alle SASS-Veranstaltungen werden von einem Awareness-Team begl
- eitet\; Einlass ab 18 mit Ausweis- und Taschenkontrolle.\n\nhttps://rave
- .wien/e/2026-11-26-donnerstag-nacht
-URL:https://rave.wien/e/2026-11-26-donnerstag-nacht
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-27-vivid-frieden-liebe@rave.wien
 DTSTAMP:20261127T000000Z
 DTSTART;TZID=Europe/Vienna:20261127T230000
@@ -3828,5 +3812,21 @@ DESCRIPTION:Young Sun\, AE-X\nVeranstalter: Wreck\, Morgengymnastik\nEint
  Taschenkontrolle.\n\nhttps://rave.wien/e/2026-11-22-morgengymnastik-wrec
  k
 URL:https://rave.wien/e/2026-11-22-morgengymnastik-wreck
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-donnerstag-nacht@rave.wien
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Vienna:20261126T230000
+DTEND;TZID=Europe/Vienna:20261127T060000
+SUMMARY:Donnerstag Nacht
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Slack Hippy\, neomodern\, Crnobrnja\nEintritt: 10–15 € / 
+ Studierende 0–5 €\n\nDonnerstag Nacht im SASS Music Club von 23 bis 
+ 6 Uhr mit Slack Hippy\, neomodern und Crnobrnja. Der Eintritt beträgt r
+ egulär 10–15 € inklusive Willkommensgetränk\, für Studierende 0
+ –5 €. Alle SASS-Veranstaltungen werden von einem Awareness-Team begl
+ eitet\; Einlass ab 18 mit Ausweis- und Taschenkontrolle.\n\nhttps://rave
+ .wien/e/2026-11-26-donnerstag-nacht
+URL:https://rave.wien/e/2026-11-26-donnerstag-nacht
 END:VEVENT
 END:VCALENDAR

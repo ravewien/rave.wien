@@ -63,6 +63,25 @@ DESCRIPTION:Fede Frostl\nEintritt frei\n\nWeitere Ausgabe der Rooftop Ser
 URL:https://rave.wien/e/2026-12-05-rooftop-series-at-mariatrink
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-12-bird-house@rave.wien
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=Europe/Vienna:20261212T235900
+DTEND;TZID=Europe/Vienna:20261213T040000
+SUMMARY:Bird house
+LOCATION:Loop\, Lerchenfelder Gürtel\, Stadtbahnbogen 27\, 1080 Wien
+DESCRIPTION:Avespectrum\, Fede Frostl\nVeranstalter: Kollektiv Birdhouse\
+ nEintritt: Freie Spende\n\nNeue Ausgabe von „Bird house“ des Wiener 
+ Kollektivs Birdhouse in der Loop Bar in den U6-Bögen am Gürtel\, von M
+ itternacht bis 4 Uhr. Die Loop führt für denselben Abend (Beginn 23:55
+ ) zusätzlich den Eintrag „Innermotion“ des Kollektivs Birdhouse mit
+  Progressive House von Avespectrum und Fede Fröstl – vermutlich das M
+ otto bzw. Lineup dieser Ausgabe. Das Kollektiv steht für eine der langl
+ ebigsten alternativen Clubnächte Wiens mit Electroclash\, Indie Dance u
+ nd Underground-Beats. Eintritt gegen freie Spende.\n\nhttps://rave.wien/
+ e/2026-12-12-bird-house
+URL:https://rave.wien/e/2026-12-12-bird-house
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-17-progressive@rave.wien
 DTSTAMP:20261217T000000Z
 DTSTART;TZID=Europe/Vienna:20261217T220000

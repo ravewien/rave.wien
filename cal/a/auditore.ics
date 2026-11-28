@@ -26,6 +26,22 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-04-oage-tekke@rave.wien
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=Europe/Vienna:20261204T230000
+DTEND;TZID=Europe/Vienna:20261205T040000
+SUMMARY:Oage Tekke
+LOCATION:Flex\, Augartenbrücke 1\, 1010 Wien
+DESCRIPTION:Aleta\, DIAS\, Auditore\, Asmo Deus\n\n„Oage Tekke“ im Fl
+ ex am Donaukanal\, ab 23 Uhr – laut Techno Airlines bzw. RA als Collab
+ -Special „OAGE TEKKE X OAGE RAVE“ angekündigt. Im Lineup stehen Ale
+ ta\, DIAS\, Auditore und Asmo Deus. Das Flex führt die Nacht mit Abendk
+ assa und Vorverkauf über oeticket\; Preise und eine Beschreibung sind b
+ isher nicht veröffentlicht. Der Titel („arge Tekke“) deutet auf ein
+ e Tekk-Nacht hin.\n\nhttps://rave.wien/e/2026-12-04-oage-tekke
+URL:https://rave.wien/e/2026-12-04-oage-tekke
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-14-rave-on-xxl-4-0@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T220000

@@ -26,20 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-11-26-donnerstrada@rave.wien
-DTSTAMP:20261126T000000Z
-DTSTART;TZID=Europe/Vienna:20261126T230000
-DTEND;TZID=Europe/Vienna:20261127T040000
-SUMMARY:Donnerstrada
-LOCATION:PRST\, Praterstraße 18\, 1020 Wien
-DESCRIPTION:Fabian F\, Mia Mia\nVeranstalter: Donnerstrada\nEintritt frei
- \n\nNeue Ausgabe der Donnerstags-Reihe Donnerstrada im PRST in der Prate
- rstraße: Fabian F und Mia Mia legen auf\, der Eintritt ist laut Freytag
-  die ganze Nacht frei. Beginn 23 Uhr (der FALTER nannte zuvor 21 Uhr).\n
- \nhttps://rave.wien/e/2026-11-26-donnerstrada
-URL:https://rave.wien/e/2026-11-26-donnerstrada
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-12-06-morgengymnastik@rave.wien
 DTSTAMP:20261206T000000Z
 DTSTART;TZID=Europe/Vienna:20261206T060000
@@ -69,5 +55,19 @@ DESCRIPTION:Fenimore\, Future.666\, FX-31\, Juan Caballo\, Karolina\, Mia
   Mia\, Sarica\, Static Bloom\nVeranstalter: YN Collective\n\nhttps://rav
  e.wien/e/2026-09-26-yn-x-bcco-club-night
 URL:https://rave.wien/e/2026-09-26-yn-x-bcco-club-night
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-donnerstrada@rave.wien
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=Europe/Vienna:20261126T230000
+DTEND;TZID=Europe/Vienna:20261127T040000
+SUMMARY:Donnerstrada
+LOCATION:PRST\, Praterstraße 18\, 1020 Wien
+DESCRIPTION:Fabian F\, Mia Mia\nVeranstalter: Donnerstrada\nEintritt frei
+ \n\nNeue Ausgabe der Donnerstags-Reihe Donnerstrada im PRST in der Prate
+ rstraße: Fabian F und Mia Mia legen auf\, der Eintritt ist laut Freytag
+  die ganze Nacht frei. Beginn 23 Uhr (der FALTER nannte zuvor 21 Uhr).\n
+ \nhttps://rave.wien/e/2026-11-26-donnerstrada
+URL:https://rave.wien/e/2026-11-26-donnerstrada
 END:VEVENT
 END:VCALENDAR
