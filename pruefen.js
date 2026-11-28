@@ -719,5 +719,18 @@ window.PRUEF=[
    "https://loop.co.at/event/bird-house_12_12_26/"
   ],
   "karten": []
+ },
+ {
+  "id": "hinweis-24-12-out-of-space-xmas-eve-fehlt-im-weberknecht-programm",
+  "ts": "2026-11-28",
+  "lauf": "sonderlauf-events-e38",
+  "typ": "hinweis",
+  "titel": "24.12. OUT OF SPACE Xmas Eve – fehlt im Weberknecht-Programm",
+  "text": "Goabase führt die Party am 24.12. im Weberknecht, die Programmseite weberknecht.at nennt im Dezember aber nur 2., 6., 16. und 26.12. Ort/Termin bei Gelegenheit prüfen.",
+  "links": [
+   "https://www.goabase.net/de/party/out-of-space-xmas-eve/118541",
+   "https://weberknecht.at/"
+  ],
+  "karten": []
  }
 ];
