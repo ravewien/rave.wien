@@ -29,7 +29,7 @@ BEGIN:VEVENT
 UID:2026-12-10-klang-with-909-racing-team@rave.wien
 DTSTAMP:20261210T000000Z
 DTSTART;TZID=Europe/Vienna:20261210T230000
-DTEND;TZID=Europe/Vienna:20261211T040000
+DTEND;TZID=Europe/Vienna:20261211T050000
 SUMMARY:Klang with 909 Racing Team
 LOCATION:PRST\, Praterstraße 18\, 1020 Wien
 DESCRIPTION:Mike Momburg\, Domenik Deckert\n\n„Klang“ im Club Praters
