@@ -26,6 +26,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-12-19-23xi-berlin@rave.wien
+DTSTAMP:20261219T000000Z
+DTSTART;TZID=Europe/Vienna:20261219T230000
+DTEND;TZID=Europe/Vienna:20261220T060000
+SUMMARY:23XI Berlin
+LOCATION:SASS Music Club\, Karlsplatz 1\, 1010 Wien
+DESCRIPTION:Kirsch\, Siggatunez\, Marie Phi\, Chris Ku\nEintritt: 10–15
+  €\n\n„23XI Berlin“ im SASS Music Club unter dem Motto „Berlin m
+ eets Wien“\, von 23 bis 6 Uhr. Es spielen Kirsch\, Siggatunez\, Marie 
+ Phi und Chris Ku. Eintritt 10–15 € inklusive Willkommensgetränk. Al
+ le SASS-Veranstaltungen werden von einem Awareness-Team begleitet\; Einl
+ ass ab 18.\n\nhttps://rave.wien/e/2026-12-19-23xi-berlin
+URL:https://rave.wien/e/2026-12-19-23xi-berlin
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-14-paradies-garten-w-paracek@rave.wien
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=Europe/Vienna:20261114T230000
