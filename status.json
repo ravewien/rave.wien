@@ -1,0 +1,182 @@
+{
+ "zeit": "2026-11-28T05:17:57.672Z",
+ "adressen": 659,
+ "ok": 455,
+ "fehler": 204,
+ "hosts": {
+  "808factory.stager.co": {
+   "n": 1,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "de.ra.co": {
+   "n": 10,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "flucc.at": {
+   "n": 1,
+   "grund": [
+    "HTTP 404"
+   ]
+  },
+  "linktr.ee": {
+   "n": 18,
+   "grund": [
+    "HTTP 406"
+   ]
+  },
+  "mahlwerkmoves.com": {
+   "n": 6,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "o-klub.at": {
+   "n": 16,
+   "grund": [
+    "HTTP 403"
+   ]
+  },
+  "queertactics.at": {
+   "n": 1,
+   "grund": [
+    "HTTP 403"
+   ]
+  },
+  "ra.co": {
+   "n": 93,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "shop.o-klub.at": {
+   "n": 10,
+   "grund": [
+    "fetch failed"
+   ]
+  },
+  "theinnercircle.at": {
+   "n": 1,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "visionserpentrecords.com": {
+   "n": 1,
+   "grund": [
+    "HTTP 406"
+   ]
+  },
+  "www.b72.at": {
+   "n": 1,
+   "grund": [
+    "fetch failed"
+   ]
+  },
+  "www.euphonic.de": {
+   "n": 1,
+   "grund": [
+    "fetch failed"
+   ]
+  },
+  "www.eventim-light.com": {
+   "n": 8,
+   "grund": [
+    "HTTP 403"
+   ]
+  },
+  "www.eventim.de": {
+   "n": 1,
+   "grund": [
+    "Zeitüberschreitung"
+   ]
+  },
+  "www.flucc.at": {
+   "n": 1,
+   "grund": [
+    "HTTP 404"
+   ]
+  },
+  "www.grelleforelle.com": {
+   "n": 11,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "www.hallmann-dome.at": {
+   "n": 1,
+   "grund": [
+    "fetch failed"
+   ]
+  },
+  "www.hausgemacht.org": {
+   "n": 1,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "www.himmel.at": {
+   "n": 1,
+   "grund": [
+    "HTTP 403"
+   ]
+  },
+  "www.libelle.at": {
+   "n": 1,
+   "grund": [
+    "HTTP 404"
+   ]
+  },
+  "www.melia.com": {
+   "n": 1,
+   "grund": [
+    "HTTP 403"
+   ]
+  },
+  "www.musicaustria.at": {
+   "n": 1,
+   "grund": [
+    "HTTP 403"
+   ]
+  },
+  "www.oeticket.com": {
+   "n": 6,
+   "grund": [
+    "Zeitüberschreitung"
+   ]
+  },
+  "www.regioactive.de": {
+   "n": 4,
+   "grund": [
+    "Schutzseite (Cloudflare/Captcha)"
+   ]
+  },
+  "www.songkick.com": {
+   "n": 4,
+   "grund": [
+    "HTTP 406"
+   ]
+  },
+  "www.u4.at": {
+   "n": 1,
+   "grund": [
+    "HTTP 403"
+   ]
+  },
+  "www.ventil-records.com": {
+   "n": 1,
+   "grund": [
+    "HTTP 403"
+   ]
+  },
+  "www.zorro-azul.com": {
+   "n": 1,
+   "grund": [
+    "HTTP 404"
+   ]
+  }
+ }
+}
